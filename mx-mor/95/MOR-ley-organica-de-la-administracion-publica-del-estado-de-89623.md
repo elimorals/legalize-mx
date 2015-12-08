@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-de-la-administracion-publica-del-estado-de-89623"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-09-28"
-last_updated: "2015-08-19"
+last_updated: "2015-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89623&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el viernes 28 de septiembre de 2012.
 
@@ -53,59 +53,51 @@ DISPOSICIONES GENERALES.
 
 Las disposiciones contenidas en la presente Ley son de orden e interés públicos y tienen por objeto establecer la organización de la Administración Pública del Estado de Morelos, definir las atribuciones y asignar las facultades para el despacho de las mismas a cargo del Gobernador Constitucional del Estado, de los órganos centrales y paraestatales, conforme a las bases establecidas en la Constitución Política de los Estados Unidos Mexicanos y en la particular del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 2.
 
-La Administración Pública del Estado de Morelos será central y paraestatal.
+La Administración Pública del Estado de Morelos será Central y Paraestatal.
 
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2014)</small>
+La Oficina de la Gubernatura del Estado, las Secretarías, la Fiscalía General del Estado y la Consejería Jurídica, son las unidades que integran la Administración Pública Centralizada.
 
-La Gubernatura del Estado, las Secretarías, la Fiscalía General del Estado y la Consejería Jurídica, son las unidades que integran la administración pública centralizada.
+Para atender de manera eficiente el despacho de los asuntos de su competencia, la Administración Pública Centralizada del Estado contará con órganos administrativos desconcentrados, considerando los términos establecidos en la Constitución Política del Estado Libre y Soberano de Morelos, los que estarán jerárquicamente subordinados al propio Gobernador del Estado, o bien, a la secretaría o dependencia que éste determine.
 
-Para atender de manera eficiente el despacho de los asuntos de su competencia, la administración centralizada del Estado contará con órganos administrativos desconcentrados, considerando los términos establecidos en la Constitución Política del Estado Libre y Soberano de Morelos, los que estarán jerárquicamente subordinados al propio Gobernador del Estado o bien, a la dependencia que éste determine.
+Los organismos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos, son las entidades que componen la Administración Pública Paraestatal.
 
-Los organismos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos, son las entidades que componen la administración pública paraestatal.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 3.
 
 Para los efectos de esta Ley se entiende por:
 
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+I. Administración Pública Centralizada, a las secretarías y dependencias, entendiéndose por estas a todas las unidades auxiliares del Gobernador Constitucional del Estado; incluidos los órganos administrativos desconcentrados;
 
-I. Administración Pública. El conjunto de órganos que componen la Administración Central y Paraestatal;
+II. Administración Pública Paraestatal, al conjunto de entidades u organismos auxiliares del Poder Ejecutivo, que se clasifican a su vez en organismos públicos descentralizados, empresas de participación estatal mayoritaria y fideicomisos públicos;
 
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+III. Administración Pública, al conjunto de unidades que componen la Administración Central y Paraestatal;
 
-II. Administración Pública Centralizada. Las secretarías y las dependencias, entendiéndose por estas a todas las unidades auxiliares del Gobernador Constitucional del Estado; y los órganos administrativos desconcentrados;
+IV. Congreso, al Congreso del Estado Libre y Soberano de Morelos depositario del Poder Legislativo;
 
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
+V. Constitución, a la Constitución Política del Estado Libre y Soberano de Morelos;
 
-III. Órgano Desconcentrado. Los órganos Administrativos constituidos por el Gobernador Constitucional del Estado, jerárquicamente subordinados al propio Gobernador, a la secretaría o a la dependencia que éste determine;
+VI. Dependencias, a la Oficina de la Gubernatura del Estado, la Consejería Jurídica, la Secretaría de Administración y demás de similar envergadura que la normativa aplicable no les otorgue el rango jerárquico de secretaría;
 
-IV. Administración pública paraestatal. El conjunto de entidades siguientes: los organismos públicos descentralizados, las empresas de participación estatal mayoritaria y los fideicomisos públicos;
+VII. Estatuto Orgánico, a los estatutos orgánicos que rijan internamente y entidades paraestatales, en términos del artículo 78 de esta Ley;
 
-V. Congreso. El Congreso del Estado Libre y Soberano de Morelos o Poder Legislativo;
+VIII. Gobernador del Estado, al Gobernador Constitucional del Estado;
 
-VI. Dependencias. La Consejería Jurídica y la Secretaría de Administración;
+IX. Ley, a la presente Ley Orgánica de la Administración Pública del Estado de Morelos;
 
-VII. Constitución. La Constitución Política del Estado Libre y Soberano de Morelos;
+X. Órganos desconcentrados, a los órganos administrativos constituidos por el Gobernador del Estado en términos de la presente Ley, jerárquicamente subordinados al propio Gobernador, o bien, a la secretaría o a la dependencia que éste determine;
 
-VIII. Gobernador del Estado. El Gobernador Constitucional del Estado;
+XI. Reglamentos, a los Reglamentos Interiores de todas y cada una de las secretarías y dependencias, o bien, los Reglamentos Internos de los órganos desconcentrados;
 
-IX. Ley Orgánica. La Ley Orgánica de la Administración Pública del Estado de Morelos;
+XII. Servicio público, a la actividad organizada que realice o concesione la Administración Pública conforme a las disposiciones jurídicas vigentes en el Estado, con el fin de satisfacer en forma continua, uniforme, regular y permanente, necesidades de carácter colectivo;
 
-X. Reglamentos. Los reglamentos interiores de todas y cada una de las secretarías, dependencias y entidades paraestatales;
+XIII. Servidor público, a toda persona que desempeñe un cargo, comisión o empleo de cualquier naturaleza en la Administración Pública Central o Paraestatal; y
 
-XI. Servicio público. La actividad organizada que realice o concesione la administración pública conforme a las disposiciones jurídicas vigentes en el Estado de Morelos, con el fin de satisfacer en forma continua, uniforme, regular y permanente, necesidades de carácter colectivo;
-
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
-
-XII. Servidor público. Toda persona que desempeñe un cargo, comisión o empleo de cualquier naturaleza en la Administración Pública Central y Paraestatal;
-
-> <small>(REFORMADA, P.O. 8 DE OCTUBRE DE 2014)</small>
-
-XIII. Unidades. Las secretarías, dependencias, entidades y órganos administrativos desconcentrados que conforman la Administración Pública Central.
+XIV. Unidades, a las secretarías, dependencias, entidades u órganos desconcentrados que conforman la Administración Pública.
 
 ###### Artículo 4.
 
@@ -155,71 +147,69 @@ El Gobernador del Estado expedirá los reglamentos sobre leyes que emita el Cong
 
 Los reglamentos, decretos y acuerdos expedidos por el Gobernador del Estado, para su validez y observancia, deberán ser refrendados por el secretario que corresponda, según la materia de que se trate, y cuando se refieran a materias de dos o más secretarías, deberán refrendarse por los titulares de las mismas que conozcan de esas materias conforme a las leyes.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 11.
 
-El Gobernador del Estado se auxiliará en el ejercicio de sus atribuciones, que comprenden el estudio, planeación y despacho de los asuntos del orden administrativo, en los términos de ésta Ley, de las siguientes secretarías:
+El Gobernador del Estado se auxiliará en el ejercicio de sus atribuciones, que comprenden el estudio, planeación y despacho de los asuntos del orden administrativo, en los términos de ésta Ley, de las siguientes secretarías y dependencias:
 
-I. Secretaría de Gobierno;
+I. La Oficina de la Gubernatura del Estado;
 
-II. Secretaría de Hacienda;
+II. La Secretaría de Gobierno;
 
-> <small>(REFORMADA, P.O. 12 DE NOVIEMBRE DE 2014)</small>
+III. La Secretaría de Hacienda;
 
-III. Fiscalía General del Estado de Morelos;
+IV. La Secretaría de la Contraloría;
 
-IV. Secretaría de la Contraloría;
+V. La Secretaría de Cultura;
 
-V. Secretaría de Cultura;
+VI. La Secretaría de Desarrollo Agropecuario;
 
-VI. Secretaría de Desarrollo Agropecuario;
+VII. La Secretaría de Desarrollo Social;
 
-VII. Secretaría de Desarrollo Social;
+VIII. La Secretaría de Desarrollo Sustentable;
 
-VIII. Secretaría de Desarrollo Sustentable;
+IX. La Secretaría de Economía;
 
-IX. Secretaría de Economía;
+X. La Secretaría de Educación;
 
-X. Secretaría de Educación;
+XI. La Secretaría de Innovación, Ciencia y Tecnología;
 
-XI. Secretaría de Información y Comunicación;
+XII. La Secretaría de Movilidad y Transporte;
 
-XII. Secretaría de Innovación, Ciencia y Tecnología;
+XIII. La Secretaría de Obras Públicas;
 
-XIII. Secretaría de Movilidad y Transporte;
+XIV. La Secretaría de Salud;
 
-XIV. Secretaría de Obras Públicas;
+XV. La Secretaría del Trabajo;
 
-XV. Secretaría de Salud;
+XVI. La Secretaría de Turismo; y
 
-XVI. (DEROGADA, P.O. 26 DE MARZO DE 2014)
+XVII. La Secretaría de Administración.
 
-XVII. Secretaría del Trabajo;
+El Gobernador del Estado contará con el apoyo directo de la Oficina de la Gubernatura del Estado para sus tareas y para el seguimiento permanente de las políticas públicas y su evaluación periódica, con el objeto de aportar elementos para la toma de decisiones, sin perjuicio de las atribuciones que ejercen las secretarías, dependencias y entidades de la Administración Pública, en el ámbito de sus respectivas competencias. El Gobernador del Estado designará a la persona titular de la Jefatura de dicha Oficina.
 
-XVIII. Secretaria de Turismo; y
+La Oficina de la Gubernatura del Estado contará con las unidades de apoyo técnico y estructura que el propio Gobernador determine, de acuerdo con el presupuesto asignado a dicha Oficina, conforme a lo establecido en su propio Reglamento; las que, en su caso, podrán contar con autonomía de gestión técnica y de ejercicio, así como de aplicación del gasto público.
 
-XIX. Secretaría de Administración.
+Asimismo, para el cumplimiento de sus funciones, el Gobernador del Estado se auxiliará de la Consejería Jurídica.
 
-Asimismo, para el cumplimiento de sus funciones, se auxiliará de la Consejería Jurídica.
+La función de la Seguridad Pública Estatal estará asignada a la Secretaría de Gobierno, y se ejercerá por conducto del servidor público que al efecto se designe, así como de las unidades administrativas y órganos desconcentrados de su adscripción conforme al último párrafo del artículo 35 de la presente Ley.
 
-> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2014)</small>
+La Fiscalía General del Estado y la Fiscalía Especializada para la Investigación de Hechos de Corrupción se regirán por las disposiciones que al respecto se contienen en la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, su Ley Orgánica y demás normativa aplicable.
 
-La función de la Seguridad Pública Estatal, estará asignada a la Secretaría de Gobierno, y se ejercerá por conducto del servidor público que al efecto se designe, así como de las Unidades Administrativas y Órganos Desconcentrados de su adscripción.
+Además, en el ejercicio de las atribuciones legales que le corresponden, la Administración Pública Central se complementará con la Paraestatal, compuesta por los organismos auxiliares a que se refiere el artículo 46 de esta Ley.
 
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
-
-La Fiscalía General del Estado de Morelos, se regirá por las disposiciones que al respecto se contienen en la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado, su Ley Orgánica y las demás leyes aplicables.
-
-> <small>(REFORMADO, P.O. 26 DE MARZO DE 2014)</small>
-
-Además, en el ejercicio de las atribuciones legales que le corresponden, la Administración Pública se complementará con la Paraestatal, compuesta por las Entidades Descentralizadas, empresas de participación mayoritaria y fideicomisos.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 12.
 
-Para ser titular de cualquiera de las secretarías y de la Consejería Jurídica, se deben cumplir los requisitos exigidos por la Constitución Política del Estado Libre y Soberano de Morelos.
+Para ser las personas titulares de cualquiera de las secretarías, la Fiscalía General del Estado, la Fiscalía Especializada para la Investigación de Hechos de Corrupción y la Consejería Jurídica, se deben cumplir los requisitos exigidos por la Constitución.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 13.
 
-Los titulares de las unidades señaladas en el artículo 11 de la presente Ley, tendrán las siguientes atribuciones generales:
+Las personas titulares de las unidades señaladas en el artículo 11 de la presente Ley, cuentan con las siguientes atribuciones genéricas:
 
 I. Acordar con el Gobernador del Estado el despacho de los asuntos encomendados a las dependencias adscritas y a los organismos sectorizados a su ámbito, así como recibir en acuerdo a los servidores públicos que les estén subordinados, conforme a los reglamentos interiores, manuales administrativos, circulares y demás disposiciones que expida el Gobernador del Estado;
 
@@ -229,7 +219,9 @@ III. Refrendar los decretos, acuerdos, reglamentos y demás disposiciones de car
 
 IV. Elaborar los programas sectoriales y las políticas relativas a los ámbitos de su competencia, para su inclusión en el Plan Estatal de Desarrollo;
 
-V. Planear, programar, organizar, coordinar, controlar y evaluar el funcionamiento de los órganos administrativos adscritos a su ámbito, conforme a los lineamientos del Plan Nacional de Desarrollo y del Plan Estatal de Desarrollo; así como coordinar la elaboración de los programas operativos anuales y anteproyectos de presupuesto que les correspondan;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+V. Planear, programar, organizar, coordinar, controlar y evaluar el funcionamiento de los órganos administrativos adscritos a su ámbito, conforme a los lineamientos del Plan Nacional de Desarrollo y del Plan Estatal de Desarrollo; así como coordinar la elaboración de los programas operativos anuales y anteproyectos de presupuesto que les correspondan; asimismo, establecer y preservar el sistema de control interno requerido para el logro de los objetivos y metas;
 
 VI. Suscribir los documentos relativos al ejercicio de sus atribuciones, así como celebrar, otorgar y suscribir los contratos, convenios, escrituras públicas y demás actos jurídicos de carácter administrativo o de cualquier otra índole dentro del ámbito de su competencia, necesarios para el ejercicio de sus funciones y en su caso de las unidades administrativas y órganos desconcentrados que les estén adscritos.
 
@@ -261,21 +253,31 @@ XVIII. Administrar, de manera racional, eficiente y eficaz, los recursos destina
 
 XIX. Vigilar el cumplimiento de las disposiciones jurídicas relativas al ámbito de su competencia e imponer las sanciones administrativas que correspondan, de acuerdo con la normatividad aplicable;
 
-XX. Representar al Gobernador del Estado en el ámbito de sus atribuciones, así como desempeñar las comisiones y funciones especiales que le confiera el Titular del Ejecutivo; y
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
-XXI. Las demás que le confieran las leyes, otros ordenamientos jurídicos aplicables y las que les resulten compatibles conforme a sus objetivos para su mejor desarrollo, atendiendo a lo dispuesto por el artículo 7 de la presente Ley.
+XX. Representar al Gobernador del Estado en el ámbito de sus atribuciones, así como desempeñar las comisiones y funciones especiales que le confiera el Titular del Ejecutivo;
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+XXI. Designar al personal de la secretaría o dependencia que conforme a las leyes y lineamientos le corresponda y, en su caso, firmar sus nombramientos, con la participación que corresponda a la Secretaría de Administración; así como determinar el cese de los efectos de sus nombramientos conforme a las disposiciones jurídicas aplicables; y
+
+XXII. Las demás que le confieran las leyes, otros ordenamientos jurídicos aplicables y las que les resulten compatibles conforme a sus objetivos para su mejor desarrollo, atendiendo a lo dispuesto por el artículo 7 de la presente Ley.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 14.
 
-Al frente de cada secretaría o dependencia habrá un titular, quien para el despacho de los asuntos de su competencia se auxiliará, en su caso, por los coordinadores generales, subsecretarios, directores generales, directores de área, subdirectores y jefes de departamento, así como por los demás servidores públicos que se establezcan en las disposiciones administrativas y normativas aplicables.
+Al frente de cada secretaría o dependencia habrá una persona titular, quien para el despacho de los asuntos de su competencia se auxiliará, en su caso, por los coordinadores generales, subsecretarios, directores generales, directores de área, subdirectores y jefes de departamento, así como por los demás servidores públicos que se establezcan en las disposiciones administrativas y normativas aplicables, conforme a la suficiente presupuestal correspondiente.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 15.
 
-Los titulares de las unidades dependientes del Gobernador del Estado serán nombrados y removidos libremente por éste.
+Las personas titulares de las unidades dependientes del Gobernador del Estado serán nombrados y removidos libremente por éste.
 
-Los nombramientos de los servidores públicos considerados de confianza, expedidos por el Ejecutivo, cesarán sus efectos al término del periodo de administración, o a la separación anticipada al término del mismo, sin perjuicio de la aplicación de la normatividad aplicable.
+Los nombramientos de los servidores públicos considerados de confianza, expedidos por el Gobernador del Estado, cesarán sus efectos al término del periodo de administración, o bien, a la separación anticipada al término del mismo, sin perjuicio de la aplicación de la normativa aplicable.
 
-Dentro de los reglamentos interiores se establecerán las suplencias de los servidores públicos en casos de ausencia temporal o absoluta del titular de la secretaría o dependencia, suplencia que no durará más de noventa días naturales.
+En los Reglamentos se establecerán las suplencias de los servidores públicos en casos de ausencia temporal, mismas que no podrá durar más de noventa días naturales; asimismo se regularán las suplencias ante la ausencia absoluta de la persona titular de una secretaría o dependencia, así como la figura del encargado de despacho, quien podrá desempeñar legalmente las atribuciones que originalmente corresponderían a la persona titular de que se trate, durante el tiempo que se considere necesario por el propio Gobernador del Estado.
 
 > <small>(REFORMADO, P.O. 8 DE OCTUBRE DE 2014)</small>
 
@@ -283,13 +285,15 @@ Dentro de los reglamentos interiores se establecerán las suplencias de los serv
 
 Los titulares de las secretarías, dependencias, órganos administrativos desconcentrados y entidades de la administración pública, así como todos aquellos servidores públicos del Estado, que ocupen cargos considerados de confianza, sean de mando superior o medio, deberán atender de tiempo completo las funciones de su encargo, sin poder desempeñar otro empleo, cargo o comisión, en los términos que determine la Ley y sus excepciones.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 17.
 
-El Gobernador del Estado podrá constituir comisiones para el despacho de los asuntos en que deban intervenir varias dependencias. Los acuerdos de creación serán publicados en la (sic) Periódico Oficial "Tierra y Libertad" para su vigencia.
+El Gobernador del Estado podrá constituir consejos, comités o comisiones para el despacho de los asuntos en que deban intervenir varias secretarías o dependencias. Los Acuerdos de creación serán publicados en el Periódico Oficial "Tierra y Libertad" para su validez y vigencia.
 
-Las entidades de la administración pública paraestatal, a juicio del Gobernador del Estado, se integrarán a dichas comisiones cuando se trate de asuntos relacionados con su objeto.
+Las entidades de la Administración Pública Paraestatal y los órganos desconcentrados, a juicio del Gobernador del Estado, se integrarán a dichas comisiones cuando se trate de asuntos relacionados con su objeto.
 
-Las comisiones podrán ser transitorias o permanentes y serán presididas por quien determine el Gobernador del Estado.
+Las comisiones, los consejos y los comités podrán ser transitorios o permanentes y serán presididos por quien determine el Gobernador del Estado.
 
 ###### Artículo 18.
 
@@ -303,9 +307,11 @@ Asimismo, podrá celebrar convenios de concertación con los sectores social y p
 
 El Gobernador del Estado resolverá lo procedente, cuando exista duda sobre la competencia de alguna Unidad Administrativa o Entidad o cuando exista controversia sobre la competencia de dos o más de estas; la comunicación oficial de tal determinación se realizará por conducto del Titular de la Secretaría de Gobierno.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 20.
 
-Cuando alguna unidad administrativa o entidad requiera informes, datos o la cooperación técnica de cualquier otra dependencia, ésta tendrá la obligación de proporcionarlos. Lo anterior se hará con mayor oportunidad y responsabilidad tratándose de asuntos que conozca la Consejería Jurídica, para la atención de procesos administrativos o jurisdiccionales en la que se requieran inclusive documentos, constancias, dictámenes, expedientes o cualquier otro medio de convicción necesario o indispensable para la eficaz defensa de los intereses del Estado.
+Cuando alguna unidad requiera informes, datos o la cooperación técnica de cualquier otra, ésta tendrá la obligación de proporcionarlos. Lo anterior se hará con mayor oportunidad y responsabilidad tratándose de asuntos que conozca la Oficina de la Gubernatura del Estado, la Secretaría de Gobierno y la Consejería Jurídica, para la atención de procesos administrativos o jurisdiccionales en la que se requieran inclusive documentos, constancias, dictámenes, expedientes o cualquier otro medio de convicción necesario o indispensable para la eficaz defensa de los intereses del Estado.
 
 ### CAPÍTULO SEGUNDO
 
@@ -419,6 +425,8 @@ XL. Asegurar y ejecutar las medidas cautelares y sancionadoras aplicables a los 
 
 XLI. Promover la participación de la sociedad organizada, sectores productivos, académicos y sociales para generar políticas de reintegración social de las personas que obtengan su libertad o que queden sujetas a una medida cautelar, para con ello, abatir la reincidencia delictiva.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 22.
 
 A la Secretaría de Hacienda le corresponden las siguientes atribuciones:
@@ -447,49 +455,51 @@ XI. Proponer e instrumentar las medidas tendientes a evitar la evasión y elusi�
 
 XII. Realizar una labor permanente de difusión y orientación fiscal sobre las leyes tributarias del Estado, así como proporcionar asesoría a los ayuntamientos y los particulares sobre la interpretación y aplicación de tales leyes. Esto último se dará a solicitud expresa;
 
-XIII. Elaborar el proyecto de Presupuesto de Egresos del Gobierno del Estado de Morelos y someterlo a consideración del titular del Poder Ejecutivo del Estado;
+XIII. Elaborar el proyecto de Presupuesto de Egresos del Gobierno del Estado de Morelos preferentemente con un enfoque a resultados y someterlo a consideración del titular del Poder Ejecutivo del Estado;
 
-XIV. Aprobar las asignaciones presupuestales de inversión pública que se deriven de los programas y proyectos que propongan las dependencias y entidades de la administración pública, verificando su congruencia con los programas operativos anuales, sectoriales, e institucionales y conforme a la disponibilidad presupuestal existente;
+XIV. Aprobar las asignaciones presupuestales de inversión pública que se deriven de los programas y proyectos que propongan las dependencias y entidades de la administración pública, verificando su congruencia con los programas operativos anuales, sectoriales, presupuestales e institucionales y conforme a la disponibilidad presupuestaria existente;
 
-XV. Controlar y evaluar el ejercicio del Presupuesto de Egresos del Gobierno del Estado, de conformidad con las disposiciones legales aplicables;
+XV. Coordinar la evaluación que permita conocer los resultados de la aplicación de los recursos públicos estatales, así como concertar con las Secretarías, Dependencias y Entidades de la Administración Pública Estatal la validación de los indicadores estratégicos, en los términos de las disposiciones aplicables;
 
-XVI. Autorizar la ministración de recursos y pagos, de conformidad con las partidas y montos autorizados en el Presupuesto de Egresos;
+XVI. Emitir conjuntamente con la Secretaría de la Contraloría y la Comisión Estatal de Evaluación del Desarrollo Social y a más tardar el último día hábil de abril, el Programa Anual de Evaluación Estatal para los programas presupuestarios y otros programas de la Administración Pública del Estado de Morelos;
 
-XVII. Autorizar la ministración de recursos que corresponda a los ayuntamientos por concepto de participaciones;
+XVII. Coordinar el desarrollo de metodologías e indicadores que permitan medir y gestionar el desempeño de los programas presupuestarios, a través del Sistema de Evaluación de Desempeño Estatal;
 
-XVIII. Verificar que los servidores públicos que manejen fondos del Estado, otorguen fianza suficiente para garantizar su manejo, en los términos que establezcan las disposiciones jurídicas aplicables;
+XVIII. Controlar y evaluar el ejercicio del Presupuesto de Egresos del Gobierno del Estado, de conformidad con las disposiciones legales aplicables;
 
-XIX. Normar y registrar, en el ámbito de su competencia, la celebración de actos y contratos de los que resulten pagos, derechos y obligaciones para el Gobierno del Estado, así como definir e instrumentar el Sistema de Registro correspondiente;
+XIX. Autorizar la ministración de recursos y pagos, de conformidad con las partidas y montos autorizados en el Presupuesto de Egresos;
 
-XX. Constituir y coordinar el funcionamiento del Sistema Estatal de Planeación Democrática promoviendo la participación de los sectores social y privado;
+XX. Autorizar la ministración de recursos que corresponda a los ayuntamientos por concepto de participaciones;
 
-XXI. Integrar al Plan Estatal de Desarrollo, los planes, programas, proyectos y actividades que de él se deriven, sean sectoriales e intersectoriales, programas operativos anuales, institucionales, regionales y especiales y cualquier otro programa que determine el Titular del Poder Ejecutivo del Estado, verificando, con la participación de las secretarías, dependencias y entidades, que exista congruencia entre los mismos y el Plan Nacional de Desarrollo;
+XXI. Verificar que los servidores públicos que manejen fondos del Estado, otorguen fianza suficiente para garantizar su manejo, en los términos que establezcan las disposiciones jurídicas aplicables;
 
-XXII. Realizar la evaluación general de la gestión gubernamental en los términos previstos por el Sistema Estatal de Planeación Democrática;
+XXII. Normar y registrar, en el ámbito de su competencia, la celebración de actos y contratos de los que resulten pagos, derechos y obligaciones para el Gobierno del Estado, así como definir e instrumentar el Sistema de Registro correspondiente;
 
-XXIII. Normar, coordinar e integrar la participación de las secretarías, dependencias y entidades del sector público en la elaboración de los documentos necesarios para preparar el informe anual a que hace referencia el primer párrafo del artículo 33 de la Constitución Política del Estado;
+XXIII. Constituir y coordinar el funcionamiento del Sistema Estatal de Planeación Democrática promoviendo la participación de los sectores social y privado;
 
-XXIV. Planear, organizar y coordinar el Sistema Estatal de Información Estadística y Geográfica del Estado de Morelos;
+XXIV. Integrar al Plan Estatal de Desarrollo, los planes, programas, proyectos y actividades que de él se deriven, sean sectoriales e intersectoriales, programas operativos anuales, institucionales, regionales y especiales y cualquier otro programa que determine el Titular del Poder Ejecutivo del Estado, verificando, con la participación de las secretarías, dependencias y entidades, que exista congruencia entre los mismos y el Plan Nacional de Desarrollo;
 
-XXV. Organizar y operar la contabilidad gubernamental, formular periódicamente los estados financieros, integrar la Cuenta Pública de la Hacienda Pública del Estado y mantener la relación con el Órgano de Fiscalización Superior;
+XXV. Realizar la evaluación general de la gestión gubernamental en los términos previstos por el Sistema Estatal de Planeación Democrática;
 
-XXVI. Planear, organizar, conducir y coordinar el Sistema de Contabilidad Gubernamental del Sector Público del Estado;
+XXVI. Normar, coordinar e integrar la participación de las secretarías, dependencias y entidades del sector público en la elaboración de los documentos necesarios para preparar el informe anual a que hace referencia el primer párrafo del artículo 33 de la Constitución Política del Estado;
 
-XXVII. Proponer al Titular del Poder Ejecutivo la cancelación de cuentas incobrables e incosteables a favor del Estado;
+XXVII. Planear, organizar y coordinar el Sistema Estatal de Información Estadística y Geográfica del Estado de Morelos;
 
-XXVIII. Proponer la contratación de la deuda pública del Estado, así como administrar y controlar su servicio;
+XXVIII. Organizar y operar la contabilidad gubernamental, formular periódicamente los estados financieros, integrar la Cuenta Pública de la Hacienda Pública del Estado y mantener la relación con el Órgano de Fiscalización Superior;
 
-XXIX. Proporcionar la asesoría que en materia de interpretación fiscal le otorgan los ordenamientos tributarios del Estado;
+XXIX. Planear, organizar, conducir y coordinar el Sistema de Contabilidad Gubernamental del Sector Público del Estado;
 
-XXX. Representar al Gobierno del Estado y participar activamente dentro del Sistema Nacional de Coordinación Fiscal y en el Sistema Estatal de Coordinación Hacendaria;
+XXX. Proponer al Titular del Poder Ejecutivo la cancelación de cuentas incobrables e incosteables a favor del Estado;
 
-XXXI. Concentrar, custodiar y requerir, en su caso, las garantías que se otorguen en favor del Gobierno del Estado de Morelos, por conducto de cualesquiera de sus secretarías y dependencias, o bien en favor de la Federación, de acuerdo a los convenios celebrados para tal efecto; registrarlas, cancelarlas o hacerlas efectivas oportunamente, conforme a las disposiciones legales aplicables; y
+XXXI. Proponer la contratación de la deuda pública del Estado, así como administrar y controlar su servicio;
 
-XXXII. (DEROGADA, P.O. 23 DE JULIO DE 2014)
+XXXII. Proporcionar la asesoría que en materia de interpretación fiscal le otorgan los ordenamientos tributarios del Estado;
 
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+XXXIII. Representar al Gobierno del Estado y participar activamente dentro del Sistema Nacional de Coordinación Fiscal y en el Sistema Estatal de Coordinación Hacendaria;
 
-XXXIII. Autorizar los precios y tarifas de los bienes, trámites y servicios que producen o prestan las Entidades de la Administración Pública Paraestatal, distintos de contribuciones, previa opinión de la Secretaría, Dependencia o Entidad que corresponda.
+XXXIV. Concentrar, custodiar y requerir, en su caso, las garantías que se otorguen en favor del Gobierno del Estado de Morelos, por conducto de cualesquiera de sus secretarías y dependencias, o bien en favor de la Federación, de acuerdo a los convenios celebrados para tal efecto; registrarlas, cancelarlas o hacerlas efectivas oportunamente, conforme a las disposiciones legales aplicables; y
+
+XXXV. Autorizar los precios y tarifas de los bienes, trámites y servicios que producen o prestan las Entidades de la Administración Pública Paraestatal, distintos de contribuciones, previa opinión de la Secretaría, Dependencia o Entidad que corresponda.
 
 ###### Artículo 23.
 
@@ -497,7 +507,9 @@ A la Secretaría de la Contraloría le corresponden las siguientes atribuciones:
 
 I. Proponer e instrumentar las políticas de contraloría y evaluación en la administración pública del Estado, vigilando la ejecución y aplicación del gasto público, la evaluación por resultados y el desarrollo de la contraloría social, de conformidad con las disposiciones jurídicas aplicables;
 
-II. Ordenar la práctica de auditorías, revisiones, verificaciones, o acciones de vigilancia a las dependencias y entidades de la administración pública estatal;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+II. Ordenar la práctica de auditorías, revisiones, verificaciones, acciones de vigilancia y de aplicación del sistema de control interno de las Secretarías, Dependencias y Entidades de la Administración Pública;
 
 III. Imponer sanciones a los servidores públicos que incurran en responsabilidad administrativa, en los términos de las disposiciones jurídicas aplicables;
 
@@ -525,9 +537,11 @@ XIV. Evaluar, en el ámbito de su competencia, los programas y proyectos de mode
 
 XV. Evaluar, conforme a sus atribuciones, las políticas, estrategias y prioridades en la implementación de programas y acciones respecto a los trámites y servicios públicos que proporcionen a las personas, las dependencias y entidades de la administración pública estatal;
 
-XVI. Impulsar en las dependencias y entidades de la administración pública estatal, la adecuada implementación y mantenimiento de un Sistema de Indicadores de Resultados, que aseguren el cumplimiento de los objetivos y metas del Plan Estatal y de los programas sectoriales, formando cuadros entre los servidores públicos para cimentar un cultura de la evaluación para impulsar la excelencia en la prestación de los servicios;
+XVI. (DEROGADA, P.O. 8 DE DICIEMBRE DE 2015)
 
-XVII. Implementar un Sistema de Evaluación de Desempeño que permita la evaluación de todos los programas, proyectos y servicios de la administración pública estatal, para medir y mejorar los resultados que las políticas públicas tienen en la calidad de vida de los ciudadanos;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+XVII. Implementar auditorías de desempeño que permitan la evaluación de todos los programas, proyectos y servicios de la administración pública estatal;
 
 XVIII. Impulsar y coordinar las acciones de contraloría social y observatorios ciudadanos, para medir la eficacia y eficiencia de la administración pública a través de la participación social; y
 
@@ -789,47 +803,61 @@ XIX. Elaborar, revisar, registrar, ejecutar y distribuir los programas y sistema
 
 XX. Programar, planear y ejecutar los programas de movilidad docente y estudiantil, estatal, nacional e internacional.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 30.
 
-A la Secretaría de Información y Comunicación le corresponden las siguientes atribuciones:
+A la Oficina de la Gubernatura del Estado le corresponde el cumplimiento de las siguientes atribuciones:
 
-I. Proponer al Titular del Ejecutivo Estatal las políticas en materia de comunicación e imagen en el Estado;
+I. Atender las solicitudes de audiencias con el Gobernador del Estado, llevar un registro de las mismas, elaborar un informe de ellas, definir su tratamiento y proceder a su calendarización;
 
-II. Administrar y operar las concesiones y licencias que sobre operación y explotación de medios masivos de comunicación obtenga el Poder Ejecutivo;
+II. Supervisar los cambios, adecuaciones y actualizaciones de la agenda del Gobernador del Estado; así como acordar con el Gobernador del Estado la calendarización en agenda de las reuniones de trabajo, giras y eventos;
 
-III. Diseñar y planear estrategias y campañas integrales de comunicación social e imagen;
+III. Coordinar las giras de trabajo y los eventos del Gobernador del Estado en su logística y organización;
 
-IV. Atender las peticiones informativas de los medios de comunicación en relación con las actividades del Gobierno Estatal;
+IV. Atender en audiencia, aquellas solicitudes que se consideren prioritarias para el buen funcionamiento de las Políticas de Gobierno;
 
-V. Supervisar y autorizar la elaboración de materiales gráficos de difusión de las diversas unidades administrativas que integran la Secretaría;
+V. Coordinar la elaboración de documentos técnicos de apoyo al Gobernador del Estado, para sus actividades públicas y privadas;
 
-VI. Otorgar los servicios de logística de eventos, producción gráfica, videos, audios y cualquier otro servicio de comunicación, a los Poderes del Estado y a los ayuntamientos, previo acuerdo del Gobernador del Estado;
+VI. Acordar con el Gobernador del Estado los asuntos específicos y turnar a las diferentes instancias las indicaciones o resoluciones emitidas, y dar seguimiento a los acuerdos tomados entre el Gobernador del Estado, los miembros de su gabinete y los diferentes cabildos municipales en los que participe;
 
-VII. Coordinarse en la organización de las giras y eventos especiales del Ejecutivo del Estado;
+VII. Coordinar la organización y supervisar que se resguarde el archivo documental del Gobernador del Estado;
 
-VIII. Promover y difundir eventos deportivos, recreativos y sociales en el Estado, en coordinación con los programados por otras unidades administrativas;
+VIII. Asesorar al Gobernador del Estado en el impulso de políticas públicas y programas que contribuyan a hacer más eficientes las decisiones y acciones de los actos de la Administración Pública;
 
-IX. Planear, dirigir las campañas de difusión estatal y la política editorial que apruebe el Ejecutivo de la entidad;
+IX. Promover que la gestión de las Secretarías, Dependencias y Entidades de la Administración Pública Estatal cumpla con la visión contenida en el Plan Estatal de Desarrollo;
 
-X. Participar en la impresión y reproducción de materiales educativos, libros, boletines, folletos, audiovisuales y cualquier otro instrumento análogo requerido por la administración pública estatal en los términos legales respectivos;
+X. Proponer al Titular del Ejecutivo Estatal las políticas en materia de comunicación e imagen en el Estado;
 
-XI. Coordinarse con las secretarías y dependencias para desarrollar programas, así como material de radio y televisión que tenga por objeto servir de apoyo a los programas de gobierno y educativos;
+XI. Administrar y operar las concesiones y licencias que sobre operación y explotación de medios masivos de comunicación obtenga el Poder Ejecutivo;
 
-XII. Elaborar diagnósticos de comunicación para diseñar, dirigir y ejecutar efectivamente estrategias de comunicación y relaciones públicas de la Secretaría;
+XII. Diseñar y planear estrategias y campañas integrales de comunicación social e imagen;
 
-XIII. Coordinar acciones de comunicación con las demás secretarías y dependencias, ayuntamientos, organizaciones no gubernamentales y sociedad civil;
+XIII. Atender las peticiones informativas de los medios de comunicación en relación con las actividades del Gobierno Estatal;
 
-XIV. Realizar acciones de divulgación para posicionar la imagen institucional de los Poderes del Estado y los ayuntamientos, así como establecer una relación fluida y transparente con los medios de comunicación;
+XIV. Supervisar y autorizar la elaboración de materiales gráficos de difusión de las diversas unidades administrativas que integran la Oficina;
 
-XV. Crear mecanismos de comunicación e información interna sobre el desarrollo de actividades y procesos del quehacer institucional de manera constante;
+XV. Coordinarse en la organización de las giras y eventos especiales del Ejecutivo del Estado;
 
-XVI. Proponer y administrar mecanismos de diagnóstico, análisis, y evaluación del tratamiento que los medios de comunicación realizan sobre la información inherente a las políticas impulsadas;
+XVI. Promover y difundir eventos deportivos, recreativos y sociales en el Estado, en coordinación con los programados por otras unidades administrativas;
 
-XVII. Difundir la información o publicaciones relacionadas con la imagen institucional del Poder Ejecutivo y sus dependencias;
+XVII. Planear, dirigir las campañas de difusión estatal y la política editorial que apruebe el Ejecutivo de la entidad;
 
-XVIII. Proporcionar información escrita, gráfica o grabada a los medios masivos de comunicación que emita el Gobernador y demás dependencias del Estado;
+XVIII. Participar en la impresión y reproducción de materiales educativos, libros, boletines, folletos, audiovisuales y cualquier otro instrumento análogo requerido por la administración pública estatal, en los términos legales respectivos;
 
-XIX. Establecer, coordinar y operar el Sistema Estatal de Redes Sociales.
+XIX. Realizar acciones de divulgación para posicionar la imagen institucional de los Poderes del Estado y los ayuntamientos, así como establecer una relación fluida y transparente con los medios de comunicación;
+
+XX. Crear mecanismos de comunicación e información interna sobre el desarrollo de actividades y procesos del quehacer institucional de manera constante;
+
+XXI. Proponer y administrar mecanismos de diagnóstico, análisis, y evaluación del tratamiento que los medios de comunicación realizan sobre la información inherente a las políticas impulsadas;
+
+XXII. Suscribir los actos jurídicos relativos a la contratación de bienes y servicios en materia de radio y difusión por medios de comunicación;
+
+XXIII. Difundir la información o publicaciones relacionadas con la imagen institucional del Poder Ejecutivo y sus dependencias;
+
+XXIV. Proporcionar información escrita, gráfica o grabada a los medios masivos de comunicación que emita el Gobernador y demás dependencias del Estado; y
+
+XXV. Coordinar acciones de comunicación entre las Secretarías, Dependencias, Entidades, Organizaciones No Gubernamentales y la sociedad civil y establecer, coordinar y operar el Sistema Estatal de Redes Sociales.
 
 ###### Artículo 31.
 
@@ -1047,7 +1075,9 @@ V. Establecer la creación, estructuración y aplicación de los programas tendi
 
 VI. Diseñar, implementar y evaluar las políticas tendientes a la prevención de conductas antisociales, atendiendo a las modalidades sociales, económicas y culturales de la colectividad y con estricto apego al respeto de los Derechos Humanos;
 
-VII. Planear, organizar y ejecutar los programas relativos a la protección de los habitantes, al orden público, a la prevención de delitos, respetando los Derechos Humanos, conforme lo disponga la normatividad respectiva;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+VII. Planear, organizar y ejecutar los programas relativos a la protección de los habitantes, al orden público, a la prevención de delitos, respetando los derechos humanos, conforme lo disponga la normativa respectiva, así como evaluar los programas que en materia de seguridad pública se implementen;
 
 VIII. Diseñar, implantar y evaluar instrumentos y Programas de Educación Preventiva, de la cultura de la legalidad, de prevención del delito y de organización vecinal, apoyándose, en medios eficaces de promoción, difusión y comunicación masiva dirigidos a la colectividad; promoviendo valores de respeto, civilidad, corresponsabilidad ciudadana y de derechos humanos;
 
@@ -1223,9 +1253,13 @@ I. Proponer, instrumentar y normar, la política de administración de recursos 
 
 II. Integrar el Programa Anual de Adquisiciones de la administración pública central, así como coordinar y dirigir su instrumentación;
 
-III. Planear, organizar, coordinar, dirigir y controlar la administración de los recursos humanos de la administración pública central, así como conducir las relaciones con los representantes de los trabajadores;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
-IV. Planear, organizar, coordinar, dirigir y controlar la adquisición de bienes y servicios, así como las enajenaciones y arrendamientos, de la administración pública central, proveyéndola de lo necesario, para su adecuado funcionamiento, de conformidad con el marco normativo aplicable y las disposiciones administrativas que dicte el Gobernador del Estado;
+III. Planear, organizar, coordinar, dirigir y controlar la administración de los recursos humanos de la administración pública central, así como conducir las relaciones con los representantes de los trabajadores, contando además con la representación legal del Poder Ejecutivo frente al Instituto Mexicano del Seguro Social y otras autoridades en materia de seguridad social;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+IV. Planear, organizar, coordinar, dirigir y controlar la adquisición de bienes y servicios, así como las enajenaciones y arrendamientos, de la administración pública central, proveyéndola de lo necesario, para su adecuado funcionamiento, de conformidad con el marco normativo aplicable y las disposiciones administrativas que dicte el Gobernador del Estado, contando además con la representación legal del Poder Ejecutivo para actos de dominio análogos y derivados;
 
 V. Administrar los almacenes generales de la administración pública central, determinando para el caso los criterios y políticas a seguir para que las secretarías y dependencias, mantengan actualizados los inventarios correspondientes;
 
@@ -1317,13 +1351,17 @@ Las autoridades a que se refiere este Capítulo, se regirán en cuanto a su orga
 
 DE LOS ORGANISMOS AUXILIARES.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 46.
 
 Las entidades de la administración pública paraestatal son organismos auxiliares del Poder Ejecutivo y conducirán sus actividades en forma programada y con sujeción a las disposiciones del Plan Estatal de Desarrollo, a su decreto o ley de creación, a los programas sectoriales correspondientes, así como a las políticas y lineamientos de coordinación de la secretaría o dependencia a la cual estén sectorizadas.
 
-Dichos organismos auxiliares están obligados a cumplir con los lineamientos presupuestales que para tal efecto establezca la Secretaría de Hacienda, aplicando los catálogos y tabuladores de la administración pública central establecidos en el Presupuesto de Egresos del Estado.
+Son entidades u organismos auxiliares los organismos públicos descentralizados, los fideicomisos públicos y las empresas de participación estatal mayoritaria, creados con la finalidad de apoyar al Poder Ejecutivo estatal en la realización de sus atribuciones o atención a las áreas de desarrollo prioritario.
 
-Son entidades u organismos auxiliares los organismos públicos descentralizados, los fideicomisos públicos y las empresas de participación estatal mayoritaria, creados con la finalidad de apoyar al Ejecutivo estatal en la realización de sus atribuciones o atención a las áreas de desarrollo prioritario.
+Los organismos auxiliares deberán observar, cumplir y hacer cumplir los criterios y lineamientos jurídicos que disponga la Consejería Jurídica; asimismo, están obligados a cumplir con los lineamientos presupuestales o administrativos que establezcan la Oficina de la Gubernatura del Estado y las Secretarías de Administración, de Hacienda y de la Contraloría, todas del Poder Ejecutivo Estatal. Aplicando, según el caso, los lineamientos presupuestales, los catálogos y tabuladores de la administración pública central establecidos en el Presupuesto de Egresos del Estado, y los instrumentos reglamentarios respectivos.
+
+La inobservancia de lo previsto en el presente artículo y de las demás disposiciones que de él emanen, será motivo de responsabilidad administrativa y sancionada en términos de la Ley Estatal de Responsabilidades de los Servidores Públicos, sin perjuicio de proceder conforme a los ordenamientos que correspondan cuando el hecho u omisión pudieran considerarse ilícitos.
 
 ###### Artículo 47.
 
@@ -1399,9 +1437,11 @@ Los organismos auxiliares suministrarán los informes que les ordenen las secret
 
 La gestión de los organismos auxiliares se desarrollará de manera autónoma, acorde con los planes, objetivos y metas que deban alcanzar, y responderá a una administración eficaz, eficiente y ágil, que debe caracterizarlos, participando en red con el resto de la administración pública e integrando y comunicando su información y bases de datos para el funcionamiento del gobierno digital.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 56.
 
-Los organismos auxiliares ajustarán sus actividades a los sistemas de control previstos en el marco legal aplicable y se sujetarán a los lineamientos establecidos en el presupuesto del Gobierno del Estado.
+Los organismos auxiliares ajustarán sus actividades a los sistemas de control interno previstos en el marco legal aplicable y se sujetarán a los lineamientos establecidos en el presupuesto del gobierno del Estado.
 
 ###### Artículo 57.
 
@@ -1453,6 +1493,8 @@ Los titulares o directores generales de los organismos auxiliares elaborarán y 
 
 El órgano de gobierno atenderá la propuesta hecha por el titular o director general del organismo auxiliar, para la creación, modificación y supresión de las unidades administrativas necesarias para agilizar, controlar y evaluar las actividades del organismo auxiliar, podrá acordar la realización de todas las operaciones relacionadas con el objeto del propio organismo de acuerdo a lo previsto en esta Ley, y podrá además, delegar discrecionalmente sus facultades en el director general, con excepción de aquellas que tengan el carácter de no delegables.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 65.
 
 Los órganos de gobierno de los organismos auxiliares, tendrán las atribuciones no delegables siguientes:
@@ -1461,37 +1503,29 @@ I. Establecer, con base en los programas sectoriales, las directrices generales 
 
 II. Aprobar los programas y presupuestos del organismo auxiliar y sus modificaciones, conforme a las disposiciones legales aplicables y acuerdo de la dependencia coordinadora correspondiente;
 
-III. (DEROGADA, P.O. 23 DE JULIO DE 2014)
+III. Aprobar anualmente, con base en el informe y opinión del órgano interno de control, los estados financieros del organismo auxiliar, y autorizar la publicación de ellos;
 
-IV. Aprobar anualmente, con base en el informe de los comisarios y dictamen de los auditores externos, los estados financieros del organismo auxiliar, y autorizar la publicación de ellos;
+IV. Atender en los términos de esta Ley y demás legislación aplicable, las políticas, bases y programas generales que regulen las obras públicas, adquisiciones, arrendamientos y prestación de servicios en relación con bienes muebles e inmuebles que requiera el organismo auxiliar;
 
-V. Atender en los términos de esta Ley y demás legislación aplicable, las políticas, bases y programas generales que regulen las obras públicas, adquisiciones, arrendamientos y prestación de servicios en relación con bienes muebles e inmuebles que requiera el organismo auxiliar;
+V. Establecer las bases esenciales de la estructura del organismo auxiliar y sus modificaciones; además, en el caso de los organismos descentralizados, aprobar su estatuto orgánico;
 
-VI. Establecer las bases esenciales de la estructura del organismo auxiliar y sus modificaciones; además, en el caso de los organismos descentralizados, aprobar su estatuto orgánico;
+VI. Presentar por conducto de la dependencia coordinadora al titular del Ejecutivo, los proyectos de modificación, fusión o extinción del organismo auxiliar con otros organismos, en su caso;
 
-VII. Presentar por conducto de la dependencia coordinadora al titular del Ejecutivo, los proyectos de modificación, fusión o extinción del organismo auxiliar con otros organismos, en su caso;
+VII. Autorizar la creación de unidades administrativas necesarias para agilizar las actividades del organismo auxiliar;
 
-VIII. Autorizar la creación de unidades administrativas necesarias para agilizar las actividades del organismo auxiliar;
+VIII. Designar y cambiar a propuesta del titular o director general a los servidores públicos que se determinen en sus respectivos estatutos orgánicos, así como aprobar sus sueldos y prestaciones, en armonía con el catálogo de puestos y tabulador de salarios aprobado por las Secretarías de Hacienda y de Administración, y concederles las licencias que procedan;
 
-IX. Designar y cambiar a propuesta del titular o director general a los funcionarios de mandos medios, aprobar sus sueldos y prestaciones, en armonía con el catálogo de puestos y tabulador de salarios aprobado por las Secretarías de Hacienda y de Administración, y las demás establecidas en sus estatutos, así como concederles las licencias que procedan;
+IX. Designar y cambiar a propuesta de su presidente al secretario, en su caso, entre personas ajenas al organismo auxiliar, el cual podrá ser miembro o no del propio órgano de gobierno;
 
-X. Designar y cambiar a propuesta de su presidente al secretario, en su caso, entre personas ajenas al organismo auxiliar, el cual podrá ser miembro o no del propio órgano de gobierno.
+X. Aprobar la creación de reservas y la aplicación de las utilidades de las empresas de participación estatal mayoritaria, y en los organismos descentralizados, cuando haya excedentes económicos, proponer la creación de reservas y su aplicación para someterlas al acuerdo de la dependencia coordinadora;
 
-XI. Aprobar la creación de reservas y la aplicación de las utilidades de las empresas de participación estatal mayoritaria, y en los organismos descentralizados, cuando haya excedentes económicos, proponer la creación de reservas y su aplicación para someterlas al acuerdo de la dependencia coordinadora;
+XI. Examinar y aprobar en su caso, los informes periódicos que presente el titular o director general con la intervención que a los comisarios corresponda;
 
-XII. Examinar y aprobar en su caso, los informes periódicos que presente el titular o director general con la intervención que a los comisarios corresponda;
+XII. Decidir los donativos o pagos extraordinarios, con base en las disposiciones jurídicas aplicables, verificando que se apliquen exactamente, a los fines señalados en las instrucciones dictadas por la Secretaría o Dependencia coordinadora del sector al que esté adscrito el organismo auxiliar; no pudiendo ser considerados como pagos extraordinarios los que conforme a la normativa constituyan una obligación legal a cargo del organismo;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+XIII. Establecer las normas y bases para hacer la cancelación de adeudos a favor del organismo auxiliar y a cargo de terceros, en los casos de notoria imposibilidad práctica de su cobro, con la prevención de que cuando proceda la citada cancelación, se someterá a la aprobación de la Secretaría de Hacienda y de la Secretaría o Dependencia coordinadora; y
 
-XIII. Decidir los donativos o pagos extraordinarios, con base en las disposiciones jurídicas aplicables, verificando que se apliquen exactamente, a los fines señalados en las instrucciones dictadas por la Secretaría o Dependencia coordinadora del sector al que esté adscrito el organismo auxiliar;
-
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
-
-XIV. Establecer las normas y bases para hacer la cancelación de adeudos a favor del organismo auxiliar y a cargo de terceros, en los casos de notoria imposibilidad práctica de su cobro, con la prevención de que cuando proceda la citada cancelación, se someterá a la aprobación de la Secretaria de Hacienda y de la Secretaría o Dependencia coordinadora; y
-
-> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
-
-XV. Proponer los precios y tarifas de bienes, trámites y servicios que produzca o preste el organismo auxiliar, distintos de contribuciones, excepto los de aquellos que sean determinados por acuerdo del Gobernador del Estado.
+XIV. Proponer los precios y tarifas de bienes, trámites y servicios que produzca o preste el organismo auxiliar, distintos de contribuciones, excepto los de aquellos que sean determinados por acuerdo del Gobernador del Estado.
 
 ###### Artículo 66.
 
@@ -1529,27 +1563,35 @@ XIV. Las demás que le asignen otras leyes, reglamentos, acuerdos y disposicione
 
 DEL CONTROL, COORDINACIÓN Y EVALUACIÓN.
 
-> <small>(REFORMADO, P.O. 23 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 67.
 
-Los Organismos Auxiliares Descentralizados tendrán un órgano de vigilancia, el que se integrará por un Comisario Público Propietario y un Suplente, y contarán con el personal necesario para llevar a cabo sus funciones, de conformidad con las necesidades y en razón del presupuesto asignado al Organismo Auxiliar correspondiente, mismos servidores públicos que serán designados por la Secretaría de la Contraloría del Estado.
+Los organismos auxiliares tendrán un Órgano Interno de Control, el que se integrará por un Comisario Público propietario y un suplente, y contarán con el personal necesario para llevar a cabo sus funciones, de conformidad con las necesidades y en razón del presupuesto asignado al organismo auxiliar correspondiente, mismos servidores públicos que serán designados por la Secretaría de la Contraloría.
+
+> <small>(REFORMADO, P.O. 23 DE JULIO DE 2014)</small>
 
 Los Comisarios Públicos, evaluarán la actividad general y por funciones del Organismo Auxiliar; asimismo, realizarán estudios sobre la eficiencia con la cual se ejerzan los desembolsos en los rubros de gasto corriente y de inversión, así como en lo referente a los ingresos y, en lo general, solicitarán la información y ejecutarán los actos que exija el cumplimiento adecuado de sus funciones, sin menoscabo de las tareas específicas que le ordene la Secretaría de la Contraloría; en tal virtud deberán proporcionar la información que solicite el Comisario Público, tanto el Órgano de Gobierno como el Titular o Director General, a efecto de que aquél pueda cumplir con las funciones antes mencionadas, vigilando en todo momento el cumplimiento de indicadores de gestión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 68.
 
-El control interno y correspondiente responsabilidad en los organismos descentralizados, se sujetará a las bases siguientes:
+El sistema de control interno y correspondiente responsabilidad en los organismos descentralizados, se sujetará a las bases siguientes:
 
 I. Los órganos de gobierno dirigirán y controlarán las acciones para alcanzar los objetivos, conducirán las estrategias básicas, atenderán los informes que les sean turnados en materia de control y auditoría, y vigilarán el establecimiento de las medidas correctivas que fueren necesarias;
 
-II. Los titulares o directores generales deberán precisar las directrices para la instrumentación de los sistemas de control que sean necesarios, ejecutarán las acciones correspondientes para corregir las deficiencias detectadas y presentarán informes periódicos al órgano de gobierno, sobre el cumplimiento de los objetivos del sistema de control, su funcionamiento y programas para mejorarlo; y
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+II. Los titulares o directores generales deberán precisar las directrices para la instrumentación de los sistemas de control interno que sean necesarios, ejecutarán las acciones correspondientes para corregir las deficiencias detectadas y presentarán informes periódicos al órgano de gobierno, sobre el cumplimiento de los objetivos del sistema de control interno, su funcionamiento y programas para mejorarlo;
 
 III. Los otros servidores públicos del organismo descentralizado responderán cada uno dentro del ámbito de sus respectivas competencias, respecto al funcionamiento adecuado del sistema que controle las operaciones que tengan a su cargo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 69.
 
-Los órganos de control interno formarán parte de la estructura del organismo descentralizado y sus actividades tendrán como finalidad apoyar la función directiva y promover el mejoramiento de gestión del organismo; sus funciones se realizarán de acuerdo a las instrucciones que dicte la Secretaría de la Contraloría, y se sujetarán a las bases siguientes:
+Los órganos internos de control formarán parte de la estructura del organismo descentralizado y sus actividades tendrán como finalidad apoyar la función directiva y promover el mejoramiento de gestión del organismo; sus funciones se realizarán de acuerdo a las instrucciones que dicte la Secretaría de la Contraloría, y se sujetarán a las bases siguientes:
 
 > <small>(REFORMADA, P.O. 23 DE JULIO DE 2014)</small>
 
@@ -1559,9 +1601,11 @@ II. Efectuarán sus actividades conforme a las reglas y bases, que les permitan 
 
 III. Analizarán y evaluarán los sistemas, mecanismos y procedimientos de control; realizarán revisiones y auditorías; vigilarán que el manejo y aplicación de los recursos públicos se efectúe de acuerdo a las disposiciones legales aplicables; presentarán al titular o director general, al órgano de gobierno y a las demás unidades administrativas de decisión, los informes que resulten de las revisiones, auditorías, análisis y evaluaciones que realicen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 70.
 
-Las empresas de participación estatal mayoritaria, sin dejar de aplicar lo previsto en sus estatutos y en la legislación aplicable en materia civil o mercantil, para su vigilancia, control y evaluación, deberán incorporar los órganos de control interno y contarán con el número de comisarios públicos que designe la Secretaría de la Contraloría, en los términos que se establecen en los artículos anteriores de la presente Ley.
+Las empresas de participación estatal mayoritaria, sin dejar de aplicar lo previsto en sus estatutos y en la legislación aplicable en materia civil o mercantil, para su vigilancia, control y evaluación, deberán incorporar los órganos internos de control y contarán con el número de comisarios públicos que designe la Secretaría de la Contraloría, en los términos que se establecen en los artículos anteriores de la presente Ley.
 
 Los fideicomisos públicos regulados por esta Ley, se sujetarán, en cuanto les sean compatibles, a los artículos precedentes.
 
@@ -1569,9 +1613,11 @@ Los fideicomisos públicos regulados por esta Ley, se sujetarán, en cuanto les 
 
 La dependencia del Ejecutivo estatal coordinadora de sector, por conducto de su titular o representante y a través de su participación en los órganos de gobierno o consejos de administración de los organismos auxiliares, recomendará las medidas adicionales que considere adecuadas para realizar las acciones que se acuerden en materia de control.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 72.
 
-La Secretaría de la Contraloría podrá realizar visitas y auditorías a los organismos auxiliares, cualquiera que sea su naturaleza, con la finalidad de supervisar el funcionamiento adecuado del sistema de control, así como para vigilar el cumplimiento de las responsabilidades a cargo de cada uno de los niveles de la administración señalados en esta Ley, y en su caso, para disponer lo necesario a efecto de corregir las deficiencias u omisiones a que se hubiere dado lugar.
+La Secretaría de la Contraloría podrá realizar visitas y auditorías a los organismos auxiliares, cualquiera que sea su naturaleza, con la finalidad de supervisar el funcionamiento adecuado del sistema de control interno, así como para vigilar el cumplimiento de las responsabilidades a cargo de cada uno de los niveles de la administración señalados en esta Ley, y en su caso, para disponer lo necesario a efecto de corregir las deficiencias u omisiones a que se hubiere dado lugar.
 
 ###### Artículo 73.
 
@@ -2026,3 +2072,27 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 8 DE DICIEMBRE DE 2015.
+
+PRIMERO.- Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, incisos a), b) y c), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERO.- Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+CUARTO.- El Poder Legislativo, dentro de un plazo de ciento veinte días hábiles, contados a partir de la entrada en vigor del presente Decreto, deberá realizar las adecuaciones pertinentes al marco jurídico, para armonizar su texto en razón de las secretarías, dependencias y entidades que se señalan en la Ley, por virtud de este Decreto.
+
+QUINTO.- Dentro de un plazo de ciento veinte días hábiles, contados a partir de la entrada en vigor del presente Decreto, el Poder Ejecutivo Estatal deberá realizar las modificaciones que resulten necesarias a nivel reglamentario, así como expedir los instrumentos normativos necesarios para el efecto; en tanto esto sucede, se mantendrán vigentes los actuales, con la aplicación por cada secretaría o dependencia según su ámbito de competencia.
+
+SEXTO.- El personal de las secretarías o dependencias que, en la aplicación de este Decreto, pase a otra, en ninguna forma será afectado en los derechos que haya adquirido en su relación laboral con la Administración Pública del Estado.
+
+SÉPTIMO.- Cuando alguna atribución de las secretarías o dependencias establecidas en la Ley Orgánica de la Administración Pública del Estado de Morelos, pase a otra por virtud de este Decreto, el traspaso se hará incluyendo el personal a su servicio, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y, en general, el equipo que la dependencia haya utilizado para la atención de los asuntos a su cargo. Además de estos, se traspasarán también los recursos financieros y presupuestales autorizados en el Presupuesto Anual de Egresos del Estado. Los traspasos anteriores serán coordinados y supervisados por las Secretarías de Hacienda y de Administración.
+
+OCTAVO.- Los asuntos que con motivo de este Decreto deban pasar de una secretaría o dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramiten se incorporen a la secretaría o dependencia que señale el presente instrumento, a excepción de los trámites urgentes o sujetos a plazos improrrogables, que serán resueltos por la secretaría o dependencia que tenga el asunto a su cargo.
+
+NOVENO.- Cuando por virtud de este Decreto se dé una denominación nueva o distinta a alguna secretaría o dependencia cuyas funciones estén establecidas por la Ley, dichas atribuciones se entenderán concedidas a la secretaría o dependencia que determine la Ley Orgánica objeto de reforma y demás disposiciones relativas.
+
+DÉCIMO.- Se autoriza al Titular del Poder Ejecutivo por conducto de la Secretaría de Hacienda, para realizar las adecuaciones presupuestales necesarias a efecto de dar cumplimiento a las obligaciones que este Decreto impone.
+
+DÉCIMO PRIMERO.- La Secretaría de Administración del Poder Ejecutivo del Estado, procederá a realizar los cambios en los inventarios y registros de los recursos humanos y materiales que resulten necesarios ante la vigencia de este Decreto.
