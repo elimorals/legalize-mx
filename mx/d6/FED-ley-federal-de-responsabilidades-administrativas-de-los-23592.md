@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-responsabilidades-administrativas-de-los-23592"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2002-03-13"
-last_updated: "2014-07-14"
+last_updated: "2015-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23592&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2002-03-12"
 
 LEY FEDERAL DE RESPONSABILIDADES ADMINISTRATIVAS DE LOS SERVIDORES PÚBLICOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE DICIEMBRE DE 2015.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -169,9 +169,9 @@ Habrá intereses en conflicto cuando los intereses personales, familiares o de n
 
 Una vez concluido el empleo, cargo o comisión, el servidor público deberá observar, para evitar incurrir en intereses en conflicto, lo dispuesto en el artículo 9 de la Ley;
 
-> <small>(ADICIONADO, D.O.F. 21 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 8 DE DICIEMBRE DE 2015)</small>
 
-En el caso del personal de los centros públicos de investigación, los órganos de gobierno de dichos centros, con la previa autorización de su órgano de control interno, podrán determinar los términos y condiciones específicas de aplicación y excepción a lo dispuesto en esta fracción, tratándose de los conflictos de intereses que puede implicar las actividades en que este personal participe o se vincule con proyectos de investigación científica y desarrollo tecnológico en relación con terceros de conformidad con lo que establezca la Ley de Ciencia y Tecnología;
+Los servidores públicos de las instituciones de educación, los Centros y las entidades de la Administración Pública Federal a que se refiere el artículo 51 de la Ley de Ciencia y Tecnología, que realicen actividades de investigación científica, desarrollo tecnológico e innovación podrán realizar actividades de vinculación con los sectores público, privado y social, y recibir beneficios. Dichas actividades serán, además de las previstas en el citado artículo, la participación de investigación científica y desarrollo tecnológico con terceros; transferencia de conocimiento; licenciamientos; participación como socios accionistas de empresas privadas de base tecnológica o como colaboradores o beneficiarios en actividades con fines de lucro derivadas de cualquier figura de propiedad intelectual perteneciente a la propia institución, centro o entidad, según corresponda. Dichos servidores públicos incurrirán en conflicto de intereses cuando obtengan beneficios por utilidades, regalías o por cualquier otro concepto en contravención a las disposiciones aplicables en la Institución.
 
 XIII.- Desempeñar su empleo, cargo o comisión sin obtener o pretender obtener beneficios adicionales a las contraprestaciones comprobables que el Estado le otorga por el desempeño de su función, sean para él o para las personas a las que se refiere la fracción XI;
 
@@ -1000,6 +1000,12 @@ CUADRAGÉSIMO TERCERO. Dentro de un plazo que no excederá de 36 meses a partir 
 CUADRAGÉSIMO CUARTO. En relación a las obligaciones establecidas en materia de accesibilidad para personas con discapacidad referidas en la Ley Federal de Telecomunicaciones y Radiodifusión para los defensores de las audiencias, los concesionarios contarán con un plazo de hasta noventa días naturales a partir de la entrada en vigor del presente Decreto para iniciar las adecuaciones y mecanismos que correspondan.
 
 CUADRAGÉSIMO QUINTO. La restricción para acceder a la compartición de infraestructura del agente económico preponderante en radiodifusión, prevista en la fracción VII del artículo 266 de la Ley Federal de Telecomunicaciones y Radiodifusión, no será aplicable al o los concesionarios que resulten de la licitación de las nuevas cadenas digitales de televisión abierta a que se refiere la fracción II del artículo Octavo Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de los artículos 6o., 7o., 27, 28, 73, 78, 94 y 105 de la Constitución Política de los Estados Unidos Mexicanos, en materia de telecomunicaciones.
+
+D.O.F. 8 DE DICIEMBRE DE 2015.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Las instituciones de educación, centros y entidades referidas en el contenido del presente Decreto que de acuerdo con sus funciones lleven a cabo actividades de investigación, desarrollo o innovación científica deberán emitir y hacer pública su normatividad institucional en un plazo no mayor de 180 días, contado a partir de la publicación del presente Decreto.
 
 D.O.F. 18 DE DICIEMBRE DE 2015.
 
