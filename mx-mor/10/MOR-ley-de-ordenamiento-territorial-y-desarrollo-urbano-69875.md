@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-ordenamiento-territorial-y-desarrollo-urbano-69875"
 country: "mx"
 rank: "ley"
 publication_date: "2009-08-26"
-last_updated: "2015-02-04"
+last_updated: "2015-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69875&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE ORDENAMIENTO TERRITORIAL Y DESARROLLO URBANO SUSTENTABLE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 26 de agosto de 2009.
 
@@ -165,9 +165,13 @@ XLVII. Zona Conurbada Interestatal: Continuidad física y demográfica que forme
 
 XLVIII. Zona Conurbada Intermunicipal: Continuidad física y demográfica que formen o tiendan a formar dos o más centros de población de dos o más municipios;
 
-XLIX. Zonificación primaria: Determinación de las áreas que integran un centro de población tales como las áreas urbanizadas, urbanizables y de conservación y preservación ecológica, conforme lo establezcan los programas de desarrollo urbano sustentable, y
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
-XLX (SIC). Zonificación Secundaria: Determinación de las áreas que contendrán los diversos usos y destinos del suelo, tanto en las zonas urbanizadas como en las urbanizables.
+XLIX. Zonificación primaria: Determinación de las áreas que integran un centro de población tales como las áreas urbanizadas, urbanizables y de conservación y preservación ecológica, conforme lo establezcan los programas de desarrollo urbano sustentable;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+L. Zonificación Secundaria: Determinación de las áreas que contendrán los diversos usos y destinos del suelo, tanto en las zonas urbanizadas como en las urbanizables;
 
 > <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2013)</small>
 
@@ -181,9 +185,13 @@ LII. Consejo para el Desarrollo Metropolitano: Es el órgano jerárquico de cons
 
 LIII. Zona Metropolitana: Es el espacio territorial de influencia dominante de un centro de población enfocado hacia las atribuciones de los Municipios y las Entidades Federativas en cuanto a la Coordinación Intergubernamental e Interestatal para su administración;
 
-> <small>(ADICIONADA, P.O. 30 DE OCTUBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
-LIV. Secretaría de obras: Secretaría de Obras Públicas del Gobierno del Estado.
+LIV. Secretaría de Obras: Secretaría de Obras Públicas del Poder Ejecutivo Estatal, y
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+LV. Ecozona: Instrumento de regulación y fomento urbano ambiental, aplicable en un espacio delimitado del territorio estatal, que tiene por objeto implementar políticas públicas y acciones específicas orientadas al desarrollo urbano sustentable y a la recuperación de la calidad del aire y del agua, conforme a la normativa general y especifica aplicable que al efecto se expida.
 
 ### CAPÍTULO II. AUTORIDADES COMPETENTES
 
@@ -229,13 +237,17 @@ c) La unidad administrativa o dependencia de la administración pública municip
 
 IV. Las Comisiones de Conurbación Intermunicipales, conforme a las atribuciones que les confiere esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 6.
 
-El titular del Poder Ejecutivo, tendrá las facultades siguientes:
+La persona titular del Poder Ejecutivo Estatal tendrá las facultades siguientes:
 
 I. Expedir reglamentos, decretos, acuerdos, circulares y lineamientos de carácter obligatorio en materia de ordenamiento territorial de los asentamientos humanos y de desarrollo urbano sustentable de los centros de población, atendiendo a las facultades concurrentes previstas en la Constitución Política de los Estados Unidos Mexicanos y la legislación federal de la materia;
 
-II. Aprobar y administrar el Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano Sustentable y demás de su competencia, así como evaluar y vigilar su cumplimiento;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+II. Aprobar y administrar el Programa Estatal de Ordenamiento Territorial y Desarrollo Urbano Sustentable y los otros programas de su competencia, evaluar y vigilar su cumplimiento, así como determinar el establecimiento de ecozonasen (sic) términos de la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos y demás normativa aplicable;
 
 III. Promover la participación social conforme a lo dispuesto en esta Ley;
 
@@ -257,7 +269,9 @@ X. Coadyuvar con la federación en el cumplimiento del Programa Nacional de Desa
 
 XI. Solicitar la intervención del H. Congreso para dirimir las controversias surgidas entre municipios;
 
-XII. Acordar la validación jurídica de los programas de desarrollo urbano sustentable de su competencia y los de competencia municipal, conforme a las disposiciones jurídicas de esta Ley y demás normas aplicables;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+XII. Acordar la validación jurídica de los programas de desarrollo urbano sustentable de su competencia y los de competencia municipal, conforme a las disposiciones jurídicas de esta Ley y demás normas aplicables, y
 
 XIII. Promover, aplicar y hacer cumplir la presente Ley y demás disposiciones aplicables.
 
@@ -1056,6 +1070,14 @@ Las autoridades responsables de evaluar los estudios de impacto ambiental que se
 ###### Artículo 80.
 
 Las disposiciones normativas del ordenamiento territorial y del ordenamiento ecológico deberán guardar congruencia, respecto a las políticas de aprovechamiento y conservación de las áreas y predios dispuestos dentro de los centros de población. Los ordenamientos ecológicos y territoriales serán complementarios.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 80 Bis.
+
+En concordancia con lo dispuesto por la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos,para (sic) contribuir al logro de los objetivos de la política ambiental en materia de asentamientos humanos, se podrán establecer ecozonas que promuevan el desarrollo urbano sustentable, con una perspectiva ambiental, económica y social.
+
+Cuando se determine el establecimiento de ecozonas, los Municipios deberán expedir o adecuar sus disposiciones normativas a fin de ejercer sus atribuciones competenciales, conforme los parámetros y lineamientos que establezcan los programas y reglamentos que regulen la ecozona y demás disposiciones jurídicas y administrativas aplicables.
 
 ### CAPÍTULO V. INFRAESTRUCTURA Y EQUIPAMIENTO URBANO
 
@@ -2134,3 +2156,15 @@ El presente decreto entrará en vigor el día siguiente de su publicación en el
 Los 33 Ayuntamientos del Estado de Morelos, dispondrán de un plazo de treinta días hábiles a partir de la publicación de este decreto, para reformar su Bando de Policía y Buen Gobierno en términos de lo dispuesto por este decreto.
 
 Una vez que se publiquen en el periódico oficial Tierra y Libertad las modificaciones a cada uno de los Bandos de Policía y Buen Gobierno de los Municipios, el Congreso procederá en un plazo de 30 días hábiles a modificar las Leyes de ingresos de los 33 Municipios del Estado.
+
+P.O. 8 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NUMERO CIENTO VEINTICINCO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE DISTINTAS LEYES ESTATALES EN MATERIA DE ECOZONAS".]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado para los efectos a que se refieren los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+CUARTA. Dentro de un plazo no mayor a 180 días hábiles, contados a partir del día siguiente al de la entrada en vigor del presente Decreto; se deberán realizar, en su caso, las adecuaciones al Reglamento de la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos y al Reglamento de la Ley de Ordenamiento Territorial y Desarrollo Urbano Sustentable del Estado de Morelos en Materia de Ordenamiento Territorial; así como expedir el Reglamento de la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos en materia de Ecozonas.
