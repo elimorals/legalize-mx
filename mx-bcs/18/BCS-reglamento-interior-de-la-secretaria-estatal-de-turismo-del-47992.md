@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-de-la-secretaria-estatal-de-turismo-del-479
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-01-05"
-last_updated: "2006-01-05"
+last_updated: "2015-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47992&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA ESTATAL DE TURISMO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-REGLAMENTO INTERIOR DE LA SECRETARIA ESTATAL DE TURISMO DEL ESTADO DE BAJA CALIFORNIA SUR
+REGLAMENTO INTERIOR DE LA SECRETARÍA ESTATAL DE TURISMO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL B.O. DE 8 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE DICIEMBRE DE 2015. (ABROGADO).
 
 Reglamento publicado en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el jueves 5 de enero de 2006.
 
@@ -348,3 +350,25 @@ C. VÍCTOR MANUEL GULUARTE CASTRO
 EL SECRETARIO DE TURISMO
 
 C. ALBERTO TREVIÑO ANGULO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARIA DE TURISMO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría de Turismo publicado en el Boletín Oficial del Gobierno del Estado número 1, de fecha 5 enero del año 2006 y así como Transitorios; y las demás disposiciones administrativas que se opongan al mismo.
+
+###### ARTÍCULO TERCERO.
+
+En tanto se expidan los Manuales mencionados en este Reglamento, el Secretario de turismo queda facultado para resolver las cuestiones que conforme a dichos instrumentos se deban regular.
+
+###### ARTÍCULO CUARTO.
+
+Para efectos presupuestales y administrativos a que haya lugar, la Secretaría de Administración y Finanzas realizará los trámites administrativos necesarios.
