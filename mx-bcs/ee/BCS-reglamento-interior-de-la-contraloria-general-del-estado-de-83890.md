@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-de-la-contraloria-general-del-estado-de-838
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-10-31"
-last_updated: "2011-10-31"
+last_updated: "2015-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 REGLAMENTO INTERIOR DE LA CONTRALORÍA GENERAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DE LA CONTRALORÍA GENERAL, PUBLICADO EN EL B.O. DE 8 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE DICIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el lunes 31 de octubre de 2011.
 
@@ -401,7 +403,7 @@ III. Departamento de Control y Seguimiento a Auditorías.
 
 Para el ejercicio de sus atribuciones la Dirección Administrativa, se auxiliará de las unidades administrativas estrictamente necesarias y tendrá las siguientes facultades específicas:
 
-l. Formular y someter a consideración del Titular, la política de Administración interna de la Contraloría y conducirla en los términos aprobados;
+I. Formular y someter a consideración del Titular, la política de Administración interna de la Contraloría y conducirla en los términos aprobados;
 
 II. Integrar el proyecto de presupuesto de egresos de la Contraloría con base a la información presentada por las Unidades Administrativas que la integran, sometiéndolo a la aprobación del Titular;
 
@@ -457,7 +459,7 @@ II. Departamento Administrativo.
 
 Para el ejercicio de sus atribuciones la Dirección Jurídica, se auxiliara de las áreas administrativas estrictamente necesarias y tendrá las siguientes funciones específicas:
 
-l. Opinar sobre los proyectos de iniciativas de Leyes, Reglamentos, Acuerdos, Decretos, Convenios, Contratos, Circulares y demás disposiciones de carácter general que sean competencia de la Contraloría General;
+I. Opinar sobre los proyectos de iniciativas de Leyes, Reglamentos, Acuerdos, Decretos, Convenios, Contratos, Circulares y demás disposiciones de carácter general que sean competencia de la Contraloría General;
 
 II. Solicitar la comparecencia en los términos de ley de cualquier servidor público para efecto de llevar a cabo el desahogo de la diligencia en que se requiera su presencia;
 
@@ -636,3 +638,21 @@ CARLOS MENDOZA DAVIS
 CONTRALORA GENERAL DEL ESTADO
 
 MARITZA MUÑOZ VARGAS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 8 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA CONTRALORÍA GENERAL”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interior entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Contraloría General del Estado publicado en el Boletín Oficial del Gobierno del Estado número 61 de fecha 31 de octubre de 2011 y sus transitorios. Así como las disposiciones reglamentarias que se opongan al presente ordenamiento.
+
+###### ARTÍCULO TERCERO.
+
+En tanto se actualizan y expiden los manuales de Organización, de Procedimientos y Servicios al Público que este reglamento menciona, el Contralor General queda facultado para resolver las cuestiones que conforme a dichos manuales se deban regular.
