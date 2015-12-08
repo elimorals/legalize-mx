@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-de-la-secretaria-de-promocion-y-83436"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-10-20"
-last_updated: "2012-05-10"
+last_updated: "2015-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83436&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "BCS"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE PROMOCIÓN Y DESARROLLO ECONÓMICO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+[NOTA 1. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO, MEDIO AMBIENTE Y RECURSOS NATURALES, PUBLICADO EN EL B.O. DE 8 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 10 DE MAYO DE 2012.</small>
+[NOTA 2. DE CONFORMIDAD CON EL ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE PESCA, ACUACULTURA Y DESARROLLO AGROPECUARIO, PUBLICADO EN EL B.O. DE 8 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 8 DE DICIEMBRE DE 2015 (ABROGADO)
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el jueves 20 de octubre de 2011.
 
@@ -49,7 +51,7 @@ I. Subsecretario de Planeación y Desarrollo Económico;
 
 II. Subsecretario Agropecuario y Forestal;
 
-III. Subsecretario de Desarrollo Social;
+III. (DEROGADA POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL, B.O. 8 DE DICIEMBRE DE 2015)
 
 IV. Coordinación General de Desarrollo Sustentable; y
 
@@ -199,7 +201,7 @@ XIII. Promover, dentro del marco de competencia de la Secretaría, los consejos,
 
 XIV. Promover y facilitar la inversión social en proyectos de desarrollo;
 
-XV. Coordinar los diversos programas de desarrollo social a nivel estatal;
+XV. (DEROGADA POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL, B.O. 8 DE DICIEMBRE DE 2015)
 
 XVI. Coordinar y supervisar los programas sociales del Gobierno Federal que se desarrollen en el Estado; y
 
@@ -425,79 +427,11 @@ XXXIX. Las demás que le señalen las disposiciones legales vigentes, así como 
 
 ###### ARTÍCULO 12.
 
-Al frente de la Subsecretaría de Desarrollo Social, habrá un Subsecretario, el cual tendrá las funciones que le asigne este reglamento y coordinará las siguientes Unidades Administrativas:
-
-- Dirección de Desarrollo Regional;
-
-- Dirección de Vinculación Social y
-
-- Dirección de Energía y Telecomunicaciones; (sic)
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL, B.O. 8 DE DICIEMBRE DE 2015)
 
 ###### ARTÍCULO 13.
 
-Corresponde al Subsecretario de Desarrollo Social, el ejercicio de las siguientes funciones:
-
-I. Llevar a cabo la investigación y la planeación del desarrollo social en el Estado;
-
-II. Proponer la participación de los sectores social y privado del Estado en la formulación de planes y programas de desarrollo social;
-
-III. Someter a la aprobación del Secretario, los estudios y proyectos que se elaboren en las unidades administrativas de su responsabilidad;
-
-IV. Coordinar la implementación de los programas de Desarrollo Humano destinados a reducir la pobreza y marginación, a fortalecer el ingreso familiar y en general a todo aquello que mejore la calidad de vida de la población vulnerable, en coordinación con las demás dependencias y entidades de la Administración Pública;
-
-V. Proponer y valorar la apertura de nuevos programas y políticas públicas que impulsen el desarrollo social en el Estado, en coordinación con las demás dependencias y entidades de la Administración Pública;
-
-VI. Supervisar los programas sociales del Gobierno Federal que se desarrollen en el Estado;
-
-VII. Llevar un registro de los beneficiarios de los programas sociales que ejecuten las diferentes dependencias y entidades de la Administración Pública del Estado;
-
-VIII. Proponer a los sectores sociales que pueden ser beneficiarios de los programas sociales, cuando los solicite alguna instancia ya sea publica o privada;
-
-IX. Establecer contactos con organismos no gubernamentales interesados en la inversión social para proyectos de desarrollo social dentro del Estado; e incrementar vínculos con entidades públicas y organizaciones afines o coadyuvantes de la sociedad civil, en la promoción y ejecución de programas y proyectos de Desarrollo Humano, tanto del ámbito Estatal como Nacional e Internacional.
-
-X. Establecer contactos con organismos no gubernamentales interesados en la inversión social para proyectos de desarrollo social dentro del Estado;
-
-XI. Coordinarse con las áreas de desarrollo social de los municipios del Estado;
-
-XII. Coordinar sus actividades con el Sistema Estatal para el Desarrollo Integral de la Familia (DIF); así como con los Sistemas Municipales para el Desarrollo Integral de la Familia;
-
-XIII. Llevar un registro de las instituciones de beneficencia social que operen en el Estado;
-
-XIV. Evaluar las acciones y programas de las instituciones de beneficencia privada y asesorarlas para la ejecución de sus actividades de manera coordinada con las dependencias y entidades de la Administración Pública del Estado;
-
-XV. Promover con las dependencias y entidades de la Administración Pública del Estado, organismos civiles e iniciativa privada que brindan atención a los grupos vulnerables, los mecanismos de coordinación la ejecución de acciones;
-
-XVI. En coordinación con las instancias correspondientes, integrar propuestas para el establecimiento de los servicios públicos de correos, telégrafos, telefónicos, energía, radiodifusión;
-
-XVII. Asesorar a las autoridades municipales para la ejecución de los programas de telefonía rural;
-
-XVIII. Compilar, difundir y cumplir las leyes, reglamentos, decretos y acuerdos que se relacionen con la esfera de competencia de la Secretaría, así como las circulares y lineamientos que en razón de sus atribuciones, expida el Secretario de Promoción y Desarrollo Económico;
-
-XIX. Asignar los programas, proyectos y acciones de su competencia a las Unidades Administrativas a su cargo, y verificar que se operen de manera congruente con los objetivos institucionales;
-
-XX. Proponer al Secretario la firma de convenios de coordinación o concertación en materia de programas sociales;
-
-XXI. Promover los procesos de elaboración, operación, seguimiento y evaluación de los programas especiales para el combate a la pobreza y marginación, así como los de apoyo emergente a su cargo;
-
-XXII. Entregar apoyos de carácter complementario y/o accesorio, para eventos comunitarios y proyectos especiales;
-
-XXIII. Participar y dar seguimiento a los programas, fondos y fideicomisos que administren y ejerzan recursos destinados a la atención de los impactos de desastres naturales, de conformidad con la normatividad aplicada;
-
-XXIV. Dar seguimiento físico y financiero a las obras públicas, vigilando que la ejecución de los programas tanto de Dependencias Federales como Estatales se realicen de acuerdo a la normatividad y lineamientos aplicables;
-
-XXV. Integrar conjuntamente con la Secretaría de Finanzas los cierres de ejercicios presupuestales y cuenta pública de los programas autorizados y aprobados al Estado;
-
-XXVI. Organizar y dar seguimiento a los programas que contienen participación social;
-
-XXVII. Programar, presupuestar, adecuar y dar seguimiento a la inversión de las obras y acciones que engloban los diferentes Ramos de Inversión previstos en el Presupuesto de Egresos de la Federación para cada ejercicio y del Estado. Brindar asesoría apoyo técnico y capacitación a las dependencias del gobierno estatal y ayuntamientos, que lleven a cabo obras públicas y acciones sociales dentro de los programas que se convengan con la federación y ayuntamientos;
-
-XXVIII. Recabar las propuestas y expedientes técnicos de obras y acciones de las dependencias ejecutoras de los tres niveles de gobierno, validarlas e integrar la propuesta estatal y tramitarla a la delegación de la SEDESOL en el estado, para su análisis y trámite de autorización y aprobación de recurso estatal de inversión de las obras y acciones que soliciten las Dependencias del Estado y los Ayuntamientos y emitir los dictámenes de factibilidad económica y social de los proyectos de desarrollo regional;
-
-XXIX. Llevar el seguimiento sistemático de las acciones de los programas federales de conformidad con sus reglas de operación, así como los que realicen el propio Gobierno del Estado y los Ayuntamientos;
-
-XXX. Llevar un registro sistemático de los recursos económicos federales convenidos con la Federación y aquellos que transfiera el Gobierno Federal contenidos en su Presupuesto de Egresos, en cada ejercicio fiscal destinados al Estado; y
-
-XXXI. Las demás que le confiera el Gobernador del Estado y el Secretario en el ejercicio de sus atribuciones.
+(DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL, B.O. 8 DE DICIEMBRE DE 2015)
 
 ### CAPITULO VII. DE LA COORDINACION GENERAL DE DESARROLLO SUSTENTABLE
 
@@ -783,7 +717,7 @@ III. Promover el financiamiento de la micro, pequeña y mediana empresa, impulsa
 
 IV. Proponer planes y/o programas estratégicos y operativos relacionados con el comercio en el Estado;
 
-V. Proponer políticas de apoyo a las empresas en las distintas regiones del Estado, que permitan el desarrollo económico sustentable en el ámbito local, municipal y regional;
+V. (DEROGADA POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL, B.O. 8 DE DICIEMBRE DE 2015)
 
 VI. Crear un mecanismo de detección y análisis de programas de fomento para canalizar recursos financieros, técnicos y humanos a las empresas bajo su apoyo;
 
@@ -855,7 +789,7 @@ En la Dirección de Fomento Forestal, habrá un Director el cual tendrá las fun
 
 - Departamento de Protección y Conservación de Recursos Forestales
 
-- Departamento de Desarrollo Regional; (sic)
+- Departamento de Desarrollo Regional;
 
 ###### ARTÍCULO 29.
 
@@ -1021,7 +955,7 @@ VIII. Promover apoyos asistenciales a la población en desamparo;
 
 IX. Proponer, establecer y operar mecanismos de promoción y difusión de los programas sociales a cargo de la Secretaría, especialmente en las regiones de atención prioritaria, promoviendo la participación de sus habitantes en la solución de la problemática social;
 
-X. Dar seguimiento a los compromisos establecidos en los convenios de concertación con los sectores social y privado en materia de desarrollo social; y
+X. (DEROGADA POR ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL, B.O. 8 DE DICIEMBRE DE 2015)
 
 XI. Las demás que le asigne el Subsecretario o el Secretario, en uso de sus atribuciones
 
@@ -1031,7 +965,7 @@ En la Dirección de Vinculación Social, habrá un Director el cual tendrá las 
 
 - Departamento de Participación Institucional;
 
-- Departamento de Participación Ciudadana; (sic)
+- Departamento de Participación Ciudadana;
 
 ###### ARTÍCULO 35.
 
@@ -1061,7 +995,7 @@ ARTIUCLO (SIC) 36.- En la Dirección de Energía y Telecomunicaciones, habrá un
 
 - Departamento de Energía;
 
-- Departamento de Telecomunicaciones; (sic)
+- Departamento de Telecomunicaciones;
 
 ###### ARTÍCULO 37.
 
@@ -1097,7 +1031,7 @@ ARTÍICULO (SIC) 38.- Al frente de la Dirección Administrativa y Financiera hab
 
 - Departamento de Recursos Materiales y Servicios Generales;
 
-- Departamento de Recursos Humanos; (sic)
+- Departamento de Recursos Humanos;
 
 ###### ARTÍCULO 39.
 
@@ -1274,3 +1208,75 @@ CARLOS MENDOZA DAVIS
 EL SECRETARIO DE PROMOCIÓN Y DESARROLLO ECONÓMICO
 
 JOEL ÁVILA AGUILAR
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 8 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO ECONÓMICO, MEDIO AMBIENTE Y RECURSOS NATURALES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Las atribuciones en materia forestal trasladadas a la Secretaría de Pesca, Acuacultura y Desarrollo Agropecuario, por la reforma realizada por decreto número 52, contenidas en el artículo 28 de la Ley Orgánica de la Administración Pública del Estado de Baja California Sur, en cumplimiento al transitorio quinto del mismo ordenamiento y por ser los asuntos de trámite o que se tramiten en materia forestal como casos urgentes e improrrogables, continuará la Secretaría de Desarrollo Económico, Medio Ambiente y Recursos Naturales del Gobierno del Estado, dando trámite a los mismos, en tanto no se realicen formal y materialmente las incorporaciones de las unidades administrativas y traslados de los recursos humanos, materiales y financieros, coordinándose en lo conducente con la Secretaría de Pesca, Acuacultura y Desarrollo Forestal.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Reglamento Interior de la Secretaría de de (sic) Promoción y Desarrollo Económico, publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur número 59, de fecha 20 de octubre del 2011.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones en lo que se opongan al presente Reglamento.
+
+###### ARTÍCULO QUINTO.
+
+En tanto se expiden los Manuales que este Reglamento menciona, el Secretario queda facultado para resolver las cuestiones que conforme a dichos Manuales deban regularse.
+
+B.O. 8 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE PESCA, ACUACULTURA Y DESARROLLO AGROPECUARIO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Con la entrada en vigor del presente Reglamento, la Secretaría de Finanzas y Administración, realizará los ajustes y traspasos presupuestales correspondientes; así como los trámites respecto a los recursos humanos, materiales y Financieros.
+
+Las atribuciones en materia forestal trasladadas a la secretaría de Pesca, Acuacultura y Desarrollo Agropecuario, por la reforma realizada por Decreto número 2293, contenidas en el Artículo 28 de la Ley Orgánica de la Administración Pública del Estado de Baja California Sur, en cumplimiento al Transitorio Quinto del mismo ordenamiento y, por considerarse que los asuntos de trámite o que se tramiten en materia forestal son casos urgentes e improrrogables, continuarán las Secretaría de Desarrollo Económico, Medio Ambiente y Recursos Naturales del Gobierno del Estado, dando trámite a los mismos, en tanto no se realicen formal y materialmente las incorporaciones de las Unidades Administrativas y el traslado de los Recursos Humanos materiales y financieros, coordinándose en lo conducente con la Secretaria de Pesca, Acuacultura y Desarrollo Agropecuario.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Reglamento Interior de la Secretaría de Pesca y Acuacultura publicado en el Boletín Oficial del Gobierno del Estado Número 58, de fecha 10 de octubre del 2011 y sus Transitorios.
+
+###### ARTÍCULO CUARTO.
+
+Se abroga el Reglamento Interior de la Secretaría de Promoción y Desarrollo Económico publicado en el Boletín Oficial del Gobierno del Estado Número 59, de fecha 20 de octubre del 2011 y sus Transitorios.
+
+###### ARTÍCULO QUINTO.
+
+Los Manuales de Organización, Procedimientos de la Secretaría de Pesca, Acuacultura y Desarrollo Agropecuario, se deberán expedir en un plazo de 180 días naturales, contados a partir de la entrada en vigor del presente Reglamento, en tanto, el Secretario de Pesca, Acuacultura y Desarrollo Agropecuario queda facultado para resolver las cuestiones que conforme a dichos instrumentos se deban regular.
+
+B.O. 8 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan el Artículo 2 apartado A fracción III, Artículo 6 fracción XV, Artículos 12 y 13, Artículo 33 fracción X y Artículo 25 fracción V y demás disposiciones relativas al desarrollo social del Reglamento Interior de la Secretaría de Promoción y Desarrollo Económico, publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur, número 59, de fecha 20 de octubre del año 2011 y sus Transitorios; asi mismo, cualquier disposicion normativa que refiera atribuciones en favor de la Secretaria Promoción y Desarrollo Económico, en materia de desarrollo social, se entenderán conferidas al ámbito de las atribuciones que le son transferidas para el ejercicio de sus facultades a la Secretaría de Desarrollo Social.
+
+###### ARTÍCULO TERCERO.
+
+La situación administrativa y financiera que guarda la Subsecretaria de Desarrollo Social, así como su personal adscrito serán transferidos a la Secretaria de Desarrollo Social de conformidad a la Entrega-Recepción.
+
+###### ARTÍCULO CUARTO.
+
+En tanto se expidan los Manuales mencionados en este Reglamento, el Secretario de Desarrollo Social queda facultado para resolver las cuestiones que conforme a dichos instrumentos se deban regular.
