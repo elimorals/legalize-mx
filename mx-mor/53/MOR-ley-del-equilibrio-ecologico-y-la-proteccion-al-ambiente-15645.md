@@ -4,7 +4,7 @@ identifier: "MOR-ley-del-equilibrio-ecologico-y-la-proteccion-al-ambiente-15645"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-22"
-last_updated: "2015-03-04"
+last_updated: "2015-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15645&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial Sección Segunda, el miércoles 22 de diciembre de 1999.
 
@@ -181,6 +181,10 @@ XX. Disposición final: Acción de depositar permanentemente los residuos sólid
 
 XXI. Ecosistema: La unidad funcional básica de interacción de los organismos vivos entre sí y de estos con el medio físico en un espacio y tiempo determinado en función del equilibrio en el intercambio de materia y de energía;
 
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+XXI BIS. Ecozona: Instrumento de regulación y fomento urbano ambiental, aplicable en un espacio delimitado del territorio estatal, que tiene por objeto implementar políticas públicas y acciones específicas orientadas al desarrollo urbano sustentable y a la recuperación de la calidad del aire y del agua, conforme a la normativa general y especifica aplicable que al efecto se expida;
+
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2012)</small>
 
 XXII. Educación Ambiental: Proceso de formación dirigido a toda la sociedad, tanto en el ámbito escolar como en el ámbito extraescolar, para facilitar la percepción integrada del ambiente a fin de lograr conductas más racionales a favor del desarrollo social y del ambiente. La educación ambiental comprende la asimilación de conocimientos, la formación de valores, el desarrollo de competencias y conductas con el propósito de garantizar la preservación de la vida.
@@ -271,13 +275,17 @@ ENTRE LOS DIFERENTES NIVELES DE GOBIERNO.
 
 El Gobierno Estatal y los Municipales ejercerán sus atribuciones en materia de aprovechamiento de los recursos naturales, de la preservación y restauración del equilibrio ecológico y la protección al ambiente, de conformidad con los artículos 25 párrafo sexto y 124 de la Constitución Política de los Estados Unidos Mexicanos y a la distribución de competencias previstas en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, ésta Ley y en otros ordenamientos legales sobre la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 6°.
 
-Corresponde al Ejecutivo Estatal las siguientes facultades:
+Corresponde al Ejecutivo Estatal, a través de la Secretaría:
 
 I. La formulación, conducción y evaluación de la política ambiental y de los criterios ecológicos de ésta Entidad con la participación activa y propositiva de la sociedad civil;
 
-II. La aplicación de los instrumentos de política ambiental previstos en la presente Ley;
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+II. La aplicación de los instrumentos de política ambiental previstos en la presente Ley, así como la determinación y el establecimiento de ecozonas en observancia a la normativa aplicable;
 
 III. El aprovechamiento sustentable de los recursos naturales, la preservación y restauración del equilibrio ecológico y la protección al ambiente que se realicen en bienes y zonas del territorio del Estado de Morelos, en las materias que no estén expresamente atribuidas a la Federación;
 
@@ -315,7 +323,7 @@ XVII. El establecimiento, regulación, administración y vigilancia de las área
 
 XVIII. La atención de los asuntos que afecten el equilibrio ecológico o el ambiente de dos o más municipios;
 
-XIX. La expedición de los reglamentos y la vigilancia del cumplimiento de las Normas Oficiales Mexicanas y en caso de ser necesario expedir normas estatales;
+XIX.La expedición de los reglamentos y la vigilancia del cumplimiento de las Normas Oficiales Mexicanas y en caso de ser necesario expedir normas estatales;
 
 XX. La conducción de la política estatal de información y difusión en materia ambiental, con la participación de los gobiernos municipales;
 
@@ -748,6 +756,16 @@ XI.- En apoyo a la necesidad de recarga de los acuíferos del Estado y con el ob
 1.- Los revestimientos se deberán realizar preferentemente con materiales altamente permeables que permitan la filtración del agua al subsuelo para la recarga de los mantos acuíferos.
 
 2.- En las actuales y futuras estructuras viales revestidas con materiales impermeables, la autoridad, empresa, institución o persona competente y responsable de su mantenimiento, deberá incorporar las tecnologías apropiadas que permitan la filtración del agua pluvial al subsuelo y no interrumpir el paso natural de los escurrimientos; asimismo, al realizar un nuevo revestimiento, deberá utilizar materiales que permitan la filtración del agua pluvial al subsuelo para la recarga de los mantos acuíferos.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+ARTÍCULO 36 BIS. Adicionalmente, para contribuir al logro de los objetivos de la política ambiental en materia de asentamientos humanos, se podrán establecer ecozonas que promuevan el desarrollo urbano sustentable, con una perspectiva ambiental, económica y social.
+
+Las ecozonas se establecerán en espacios delimitados del territorio estatal, pudiendo abarcar uno o más municipios, ciudades, pueblos, colonias o comunidades, mediante criterios y lineamientos para inducir conductas compatibles con la protección y restauración del medio ambiente y con un desarrollo urbano sustentable, las cuales podrán incluir: la promoción del ahorro, tratamiento y reciclamiento del agua; el mejoramiento de la calidad del aire mediante sistemas de movilidad; el manejo de residuos; el aprovechamiento eficiente del territorio; la redistribución de los usos y destinos del suelo y su mezcla; la densificación urbana; las regulaciones en materia de edificaciones y su funcionamiento; la promoción del reciclamiento en zonas urbanas; la conservación patrimonial y la imagen urbana; así como la recuperación, habilitación y funcionamiento de espacios públicos, tanto de vocación ambiental como cultural y social.
+
+Las ecozonas se implementarán conforme lo previsto en el Reglamento de la presente Ley en la materia, y los programas que para cada una de ellas se expidan sujetándose a los criterios, lineamientos y demás disposiciones jurídicas o administrativas aplicables, que respondan a sus condiciones específicas, los cuales serán expedidos por el Poder Ejecutivo Estatal conforme la normativa respectiva.
+
+Para efectos de lo anterior y en caso de así ser necesario, los Municipios en donde se implementen una o más ecozonas deberán expedir o adecuar sus disposiciones normativas a fin de ejercer sus atribuciones competenciales, conforme los parámetros y lineamientos que establezcan los programas y reglamentos mencionados en el párrafo que antecede y demás disposiciones jurídicas y administrativas aplicables.
 
 #### SECCIÓN 2. Regulación ambiental de la actividad agropecuaria
 
@@ -2087,7 +2105,7 @@ La Secretaría podrá promover ante la autoridad competente, la ejecución de al
 
 ###### ARTÍCULO 175.
 
-Cuando la Secretaría ordene alguna de las medidas de seguridad previstas en ésta Ley, indicará al interesado, cuando proceda, las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se ordene el retiro de las medidas de seguridad impuestas.
+Cuando la Secretaría ordene alguna de las medidas de seguridad previstas en esta Ley, indicará al interesado, cuando proceda, las acciones que debe llevar a cabo para subsanar las irregularidades que motivaron la imposición de dichas medidas, así como los plazos para su realización, a fin de que una vez cumplidas éstas, se ordene el retiro de las medidas de seguridad impuestas.
 
 ### CAPÍTULO V. Recurso de revisión
 
@@ -2692,3 +2710,13 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su
 ###### ARTICULO SEGUNDO.
 
 El presente Decreto, entrará en vigor al día siguiente de su publicación en el Peri-dico (sic) Oficial “Tierra y libertadÓ (sic) Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 8 DE DICIEMBRE DE 2015.
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado para los efectos a que se refieren los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+CUARTA. Dentro de un plazo no mayor a 180 días hábiles, contados a partir del día siguiente al de la entrada en vigor del presente Decreto, se deberán realizar, en su caso, las adecuaciones al Reglamento de la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos y al Reglamento de la Ley de Ordenamiento Territorial y Desarrollo Urbano Sustentable del Estado de Morelos en Materia de Ordenamiento Territorial; así como expedir el Reglamento de la Ley del Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos en materia de Ecozonas.
