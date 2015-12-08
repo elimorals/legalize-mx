@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-administracion-publica-del-estado-de-84030"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-11-30"
-last_updated: "2015-10-23"
+last_updated: "2015-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Coahuila, el miércoles 30 de noviembre de 2011.
 
@@ -779,9 +779,17 @@ VIII. Promover y difundir en la entidad la riqueza cultural de sus regiones y ha
 
 IX. Traer al estado y difundir en sus regiones expresiones artísticas y culturales de otras partes del país y del mundo que enriquezcan la perspectiva y el espíritu de los habitantes del estado;
 
-X. Ejercer las acciones correspondientes para la preservación del patrimonio cultural del estado, y
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
-XI. Fomentar la capacitación y profesionalización cultural y artística en la sociedad.
+X. Instituir la Banda de Música del estado;
+
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+XI. Ejercer las acciones correspondientes para la preservación del patrimonio cultural del estado, y
+
+> <small>(ADICIONADA, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+XII. Fomentar la capacitación y profesionalización cultural y artística en la sociedad.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2015)</small>
 
@@ -1363,7 +1371,7 @@ XX. Integrar proyectos autofinanciables o susceptibles de concesión en materia 
 
 ARTÍCULO 32 BIS. A la Secretaría de las Mujeres le corresponde el despacho de los siguientes asuntos:
 
-l. Elaborar, coordinar y aplicar el Programa Estatal de las Mujeres que deberá contener los objetivos, estrategias y líneas de acción para lograr el avance en la equidad entre las mujeres y los hombres;
+I. Elaborar, coordinar y aplicar el Programa Estatal de las Mujeres que deberá contener los objetivos, estrategias y líneas de acción para lograr el avance en la equidad entre las mujeres y los hombres;
 
 II. Coordinar, dar seguimiento y evaluar las acciones que lleven a cabo las dependencias y entidades estatales, en el marco del Programa Estatal de las Mujeres;
 
@@ -1846,3 +1854,13 @@ P.O. 23 DE OCTUBRE DE 2015.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 8 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 199.- SE REFORMAN LAS FRACCIONES X Y XI DEL ARTÍCULO 24; ASÍ MISMO SE ADICIONA LA FRACCIÓN XII AL MISMO ARTÍCULO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+TERCERO.- La Secretaría de Cultura contará con un plazo no mayor a 15 días naturales a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones a su reglamento interior.
