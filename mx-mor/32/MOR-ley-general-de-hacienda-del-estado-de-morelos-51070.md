@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-del-estado-de-morelos-51070"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-07-05"
-last_updated: "2014-12-24"
+last_updated: "2015-12-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,13 @@ state: "MOR"
 ---
 # LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE FEBRERO DE 2016 EN EL PERIÓDICO OFICIAL DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS, PUBLICADA EN EL P.O. DE 24 DE DICIEMBRE DE 2014, VÉASE ARTÍCULO SEGUNDO TRANSITORIO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL DECRETO NÚMERO CIENTO VEINTIUNO, POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 8 DE DICIEMBRE DE 2015, VÉASE SU ARTÍCULO SEGUNDO TRANSITORIO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 5 de julio de 2006.
 
@@ -75,9 +77,11 @@ LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS
 
 Las disposiciones de la presente Ley son de orden público e interés general y tienen por objeto regular los ingresos de la Hacienda Pública Estatal a que se refiere el Código Fiscal para el Estado de Morelos.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 2.
 
-Las personas jurídico-individuales o físicas y jurídico-colectivas o morales, están obligadas a contribuir para el gasto público, de conformidad con las disposiciones de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos y otros ordenamientos jurídicos aplicables.
+Las personas físicas o personas morales, están obligadas a contribuir para el gasto público, de conformidad con las disposiciones de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Morelos y otros ordenamientos jurídicos aplicables.
 
 ###### Artículo 3.
 
@@ -87,13 +91,19 @@ Los derechos se pagarán previamente a la prestación de los servicios públicos
 
 Los impuestos, derechos y demás ingresos que tenga derecho a percibir el Estado podrán recaudarse por sí, por los organismos de la administración pública paraestatal, sea federal o estatal, por instituciones de crédito o empresas autorizadas o concesionadas, así como a través de medios electrónicos.
 
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+No obstante lo dispuesto en el párrafo anterior, cuando la Secretaría de Hacienda del Poder Ejecutivo Estatal haya concluido el desarrollo tecnológico integral para la recepción de pagos en línea, deberá publicar el acuerdo administrativo en que se establezcan las características y procedimientos para su utilización por parte de los contribuyentes, en cuyo caso, el pago a través de medios electrónicos será obligatorio.
+
 ###### Artículo 4.
 
 La Federación, los Estados, los Municipios, los organismos o entidades del sector paraestatal, de cualquier orden de gobierno, los prestadores de los servicios públicos concesionados y las instituciones oficiales o privadas, deberán pagar las contribuciones establecidas en esta Ley, con las excepciones que en la misma se señalan.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 5.
 
-Los contribuyentes y los demás sujetos que se mencionan en el Título II del Código Fiscal para el Estado de Morelos deberán dar toda clase de facilidades a las autoridades competentes para que realicen el ejercicio de las facultades de comprobación fiscal. Para tal efecto, se estará a lo dispuesto por el Código Fiscal para el Estado de Morelos.
+Los contribuyentes y los demás sujetos que se mencionan en el Título III Capítulo I del Código Fiscal para el Estado de Morelos deberán dar toda clase de facilidades a las autoridades competentes para que realicen el ejercicio de las facultades de comprobación fiscal. Para tal efecto, se estará a lo dispuesto por el Código Fiscal para el Estado de Morelos.
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -119,9 +129,11 @@ IV. Reglas, a las reglas de carácter general emitidas por la Secretaría;
 
 V. Asociación en Participación, al conjunto de personas que realizan actividades empresariales con motivo de la celebración de un convenio, y siempre que las mismas, por disposición legal o del propio convenio, participen de las utilidades o de las pérdidas derivadas de dicha actividad, y
 
-VI. Unidades económicas, a las sucesiones, los fideicomisos y las asociaciones en participación a que se refiere la Ley General de Sociedades Mercantiles, o cualquiera otra forma de asociación, aun cuando no sean reconocidas como personas jurídicas conforme otras disposiciones legales aplicables.
+VI. Unidades económicas, a las sucesiones, los fideicomisos y las asociaciones en participación a que se refiere la Ley General de Sociedades Mercantiles, o cualquiera otra forma de asociación, aún cuando no sean reconocidas como personas jurídicas conforme otras disposiciones legales aplicables.
 
-Cuando en esta Ley se haga referencia a la Federación, al Estado y a los Municipios, se entenderán incluidos sus Organismos Públicos Descentralizados, sus Órganos Desconcentrados y los que se constituyan como Auxiliares de la Administración Pública, así como los Órganos Autónomos de cada nivel de gobierno, con las excepciones que establezca la misma Ley.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+Cuando en esta Ley se haga referencia a la Federación, al Estado y a los Municipios, se entenderán incluidos sus Organismos Públicos Descentralizados, sus Órganos Desconcentrados y los que se constituyan como Auxiliares de la Administración Pública, así como los Organismos Autónomos de cada nivel de gobierno, con las excepciones que establezca la misma Ley.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -209,9 +221,11 @@ Se entiende por adquisición de vehículos automotores usados, la que derive de 
 
 SUJETO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 17.
 
-Están obligadas al pago de este impuesto las personas jurídico-individuales o físicas y jurídico-colectivas o morales, que adquieran en el Estado de Morelos, vehículos automotores usados de producción nacional o de procedencia extranjera con legal estancia en el territorio nacional.
+Están obligadas al pago de este impuesto las personas físicas y las personas morales, que adquieran en el Estado de Morelos, vehículos automotores usados de producción nacional o de procedencia extranjera con legal estancia en el territorio nacional.
 
 En las permutas se considerará que se efectúan dos adquisiciones.
 
@@ -231,9 +245,11 @@ III. A falta de precio de operación o en tratándose de donaciones o adquisicio
 
 TASA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 19.
 
-El impuesto sobre adquisición de vehículos automotores usados, se calculará aplicando la tasa del 1% a la base gravable y deberá pagarse dentro de los treinta días hábiles siguientes a la fecha de adquisición del vehículo, junto con los derechos por servicios de control vehicular relativos al cambio de propietario.
+El impuesto sobre adquisición de vehículos automotores usados, se calculará aplicando la tasa del 1.25% a la base gravable y deberá pagarse dentro de los treinta días hábiles siguientes a la fecha de adquisición del vehículo, junto con los derechos por servicios de control vehicular relativos al cambio de propietario.
 
 Las oficinas recaudadoras al determinar y recaudar este impuesto, expedirán el recibo oficial correspondiente y sellarán el documento original que ampare la propiedad del vehículo; al margen del endoso, anotarán el número, fecha e importe del recibo expedido
 
@@ -321,7 +337,9 @@ Son sujetos del Impuesto las personas físicas y las personas morales que preste
 
 Son responsables solidarios de este impuesto los administradores, encargados o cualquiera otra denominación que se utilice, para aquellas personas que se encarguen de otorgar el acceso o acondicionen para su uso, el lugar en que se prestan los servicios de hospedaje a que se refiere este Capítulo.
 
-De la misma manera, el Gobierno del Estado destinará y/o transferirá un peso más al Fideicomiso Turismo Morelos por cada peso que haya recaudado de este impuesto para lograr su objeto.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+De la misma manera, el Gobierno del Estado aportará al Fideicomiso Público Turismo Morelos el equivalente al 50% de lo que haya recaudado de este impuesto para lograr su objeto.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -329,9 +347,9 @@ De la misma manera, el Gobierno del Estado destinará y/o transferirá un peso m
 
 El impuesto a que se refiere este Capítulo se causará y trasladará a las personas a quienes se preste servicios de hospedaje en el momento que se perciba el pago por los servicios de hospedaje independientemente del lugar donde se acuerde o realice el pago o contraprestación por dichos servicios.
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
-Los recursos que genere el Impuesto sobre la Prestación de Servicios de Hospedaje, y que le sean destinados y/o transferidos serán aplicados en los siguientes términos: en un 95% para promoción turística en general, misma que abarcará los segmentos de grupos y convenciones; el turismo de ocio; el turismo de alta calidad; la promoción y difusión institucional; así como los gastos administrativos y de operatividad del Fideicomiso Turismo Morelos, mismos que serán del 6% del monto destinado para la promoción turística en general; y el 5% restante se destinará a cubrir los gastos administrativos que la recaudación genera por parte del Estado. Esta última cantidad quedará a favor del Gobierno del Estado.
+Los recursos que genere el impuesto sobre la prestación de servicios de hospedaje, se destinarán en un 100% para el Fideicomiso Público Turismo Morelos, que se aplicará en gastos de promoción turística en general.
 
 > <small>(REFORMADO, P.O. 2 DE MAYO DE 2012)</small>
 
@@ -341,15 +359,17 @@ Lo anterior, en el entendido que dentro del concepto de promoción en general se
 
 El Comité Técnico del Fideicomiso Público Turismo Morelos se conformará por un Presidente que será el Gobernador del Estado, quien tendrá voto de calidad, cuatro representantes más del Poder Ejecutivo que serán: la Secretaría, la Secretaría de Turismo, la Secretaría de Economía y la Secretaria de Cultura del Poder Ejecutivo Estatal; cinco miembros del sector privado, que serán: un representante del sector de grupos y convenciones; un representante del sector turístico de alta calidad, un representante del sector turístico de ocio, un representante del sector hotelero; y un representante del sector de los balnearios y parques acuáticos.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
-La Secretaría enterará bimestralmente al Fideicomiso el noventa y cinco por ciento de los recursos recaudados durante el período, en el que estarán ya incluidos los recursos económicos que el Gobierno del Estado le destina y/o transfiera a más tardar el día veintisiete de los meses de marzo, mayo, julio, septiembre, noviembre y enero del siguiente ejercicio.
+La Secretaría enterará bimestralmente al fideicomiso el 100% de los recursos recaudados durante el período, en el que estarán ya incluidos los recursos económicos que el Gobierno del Estado le destina o transfiera a mas tardar el día veintisiete de los meses de marzo, mayo, julio, septiembre, noviembre y enero del siguiente ejercicio fiscal.
 
 > <small>(ADICIONADO, P.O. 2 DE MAYO DE 2012)</small>
 
 A las reuniones del Comité Técnico del Fideicomiso asistirán como invitados permanentes los representantes de la Secretaría de la Contraloría, de la Secretaría de Gobierno y de la Consejería Jurídica con voz pero sin voto.
 
-TASA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+BASE Y TASA
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -361,7 +381,9 @@ Cuando los contribuyentes realicen la prestación de servicios de hospedaje e in
 
 Tratándose de servicios de hospedaje prestados bajo el sistema o modalidad de uso en tiempo compartido, será base del impuesto, además del costo de la membresía o certificado de titularidad, el monto de los pagos que se reciban por cuotas de mantenimiento u otras similares.
 
-Los contribuyentes calcularán el impuesto sobre la prestación de servicios de hospedaje aplicando la tasa del 3% al total del valor de las cantidades recibidas por concepto de pago o contraprestación por servicios de hospedaje y deberán pagarlo mediante declaración que se presentará tomando en cuenta lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+Los contribuyentes calcularán el impuesto sobre la prestación de servicios de hospedaje aplicando la tasa del 3.75% al total del valor de las cantidades recibidas por concepto de pago o contraprestación por servicios de hospedaje y deberán pagarlo mediante declaración que se presentará tomando en cuenta lo siguiente:
 
 I. El impuesto se calculará por ejercicios fiscales, presentando la declaración anual en el primer bimestre del siguiente año. Los pagos provisionales se acreditarán en la declaración anual;
 
@@ -477,11 +499,11 @@ Es base del impuesto el monto total de los ingresos obtenidos con motivo de la v
 
 No se considera ingreso gravable el valor de los boletos de cortesía, de los pases y de los actos que permitan el acceso a la diversión o espectáculo público en forma gratuita, siempre que estos no excedan del 5% del importe total de la venta de boletos que se consideren ingresos gravables, en términos del primer párrafo de este artículo, por cada evento.
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 32 Bis.
 
-El Impuesto sobre Diversiones y Espectáculos Públicos se determinará aplicando a la base la tasa del 6%.
+El Impuesto sobre Diversiones y Espectáculos Públicos se determinará aplicando a la base la tasa del 7.5%.
 
 PAGO
 
@@ -515,17 +537,25 @@ La Autoridad Fiscal estará facultada para determinar presuntivamente el Impuest
 
 EXENCIONES
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 36.
 
 Estarán exentos del pago de este impuesto:
 
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
 I. La Federación, el Estado y los Municipios, con excepción de aquellos eventos que no correspondan a sus funciones de derecho público;
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 II. Las instituciones y asociaciones de beneficencia pública legalmente constituidas que acrediten en términos de las disposiciones fiscales que los fondos que se recauden serán destinados a actividades de beneficencia;
 
-III. Los partidos políticos con registro, cuando los eventos que se realicen sean con el objeto de allegarse de recursos para el cumplimiento de sus fines, y
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+III. Los partidos políticos con registro, cuando los eventos que se realicen sean con el objeto de allegarse de recursos para el cumplimiento de sus fines, y los ingresos obtenidos se reporten en los informes financieros, y
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 IV. Los espectáculos que se realicen en restaurantes, centros nocturnos, cabarets, discotecas, bares, salones de fiesta o baile y cines, que estén gravados por el Impuesto al Valor Agregado y no se cobren cantidades adicionales por los eventos objeto de este impuesto.
 
@@ -647,27 +677,21 @@ Para los efectos de este impuesto se considera servicio de parques acuáticos y 
 
 SUJETO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 44.
 
 Son sujetos del impuesto las personas físicas y las personas morales que reciban los servicios a que se refiere el artículo precedente, aun cuando tengan su domicilio fiscal en lugar distinto de la prestación del servicio.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
 Las personas físicas y las personas morales, que presten los servicios de parques acuáticos, balnearios y demás establecimientos de recreación con acceso a deportes acuáticos, tendrán el carácter de retenedores respecto a este impuesto.
-
-> <small>(ADICIONADO, P.O. 2 DE MAYO DE 2012)</small>
-
-De la misma manera, el Gobierno del Estado destinará y/o transferirá un peso más al Fideicomiso Turismo Morelos por cada peso que haya recaudado de este impuesto para lograr su objeto.
 
 TASA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 45.
 
-Los retenedores calcularan el impuesto sobre la prestación de los servicios de parques acuáticos y balnearios, aplicando la tasa del 2% utilizando como base la cantidad que se reciba por cada boleto efectivamente pagado por concepto de servicios de parques acuáticos y balnearios y deberán pagarlo mediante declaración que se presentará tomando en cuenta lo siguiente:
+Los retenedores calcularán el impuesto sobre los servicios de parques acuáticos y balnearios, aplicando la tasa del 2.5% utilizando como base la cantidad que se reciba por cada boleto efectivamente pagado por concepto de servicios de parques acuáticos y balnearios y deberán pagarlo mediante declaración que se presentará tomando en cuenta lo siguiente:
 
 I. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2013)
 
@@ -709,11 +733,13 @@ V. Proporcionar a la autoridad fiscal del Estado, cuando así lo solicite, la co
 
 La Autoridad Fiscal estará facultada para determinar presuntivamente el impuesto por la prestación de servicios de parques acuáticos, balnearios y demás establecimientos de recreación con acceso a deportes acuáticos, en los términos que señale el Código.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 48.
 
-Los recursos que genere el impuesto sobre los servicios de parques acuáticos, balnearios y demás establecimientos de recreación con acceso a deportes acuáticos, serán aplicados en los siguientes términos; en un noventa y cinco por ciento para la promoción turística en general, misma que abarcará los segmentos de grupos y convenciones; el turismo de ocio; el turismo de alta calidad; la promoción y difusión institucional; así como los gastos administrativos y de operatividad del Fideicomiso Público Turismo Morelos, mismos que serán del seis por ciento del monto total destinado para la promoción turística en general; y el cinco por ciento restante se destinará a cubrir los gastos administrativos que la recaudación genera por parte del Estado. Esta última cantidad quedará a favor del Gobierno del Estado.
+Los recursos que se recauden por el impuesto sobre los servicios de parques acuáticos y balnearios y demás establecimientos de recreación con acceso a deportes acuáticos, serán aplicados en un 100% para la promoción turística en general, misma que abarcará los segmentos de grupos y convenciones; el turismo de ocio; el turismo de alta calidad; la promoción y difusión institucional; para los gastos administrativos y de operatividad del Fideicomiso Público Turismo Morelos, se podrá destinar hasta el 6% del monto total destinado para la promoción turística en general.
+
+> <small>(REFORMADO, P.O. 2 DE MAYO DE 2012)</small>
 
 Lo anterior, en el entendido que dentro del concepto de promoción en general se engloba: espectaculares, medios de comunicación (periódico, tv, radio, etc.), campañas de internet, realización de páginas de internet, centro de reservaciones, pago de stands, incluyendo asistencia y viáticos de ferias, eventos, asambleas, congresos y seminarios, impresión de folletería, revistas especializadas, artículos promocionales, producción de video y banco de imágenes, así como una partida destinada a relaciones públicas.
 
@@ -757,23 +783,33 @@ BASE Y TASA
 
 Es base del impuesto:
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
 Lotería, juegos permitidos en apuestas y la obtención de premios en apuestas permitidas:
 
-a) Sorteos o rifas: 4%
+a) Sorteos o rifas:
 
-Sobre el ingreso percibido por boletaje vendido;
+Sobre el ingreso percibido por
 
-b) Otros juegos no especificados, sobre el ingreso
+boletaje vendido: 5%
 
-percibido por el boletaje vendido; 4%
+b) Otros juegos no especificados, sobre
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+el ingreso percibido por el boletaje
 
-c) Por la obtención de premios en sorteos, 4% loterías o rifa, sobre el ingreso percibido en premios; y
+vendido: 5%
 
-d) Por la obtención de premios en apuestas
+c) Por la obtención de premios en
 
-permitidas, sobre el monto del premio obtenido. 4%
+sorteos, loterías o rifa, sobre el
+
+ingreso percibido en premios: 5%
+
+d) Por la obtención de premios en
+
+apuestas permitidas, sobre el
+
+monto del premio obtenido: 5%
 
 El Estado percibirá el monto que le corresponde de conformidad con lo dispuesto por la Ley del Impuesto sobre la Renta.
 
@@ -831,11 +867,11 @@ Los organizadores de sorteos, rifas, loterías, y de cualquier otro evento o jue
 
 EXENCIONES
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 58.
 
-No causarán este impuesto los Partidos Políticos en los términos de la legislación electoral correspondiente.
+No causarán este impuesto los Partidos Políticos en los términos de la legislación electoral correspondiente, siempre y cuando se reporten los ingresos obtenidos en los informes financieros, respectivos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -963,9 +999,9 @@ b) Indemnizaciones por riesgos o enfermedades de trabajo, que se concedan de acu
 
 c) Pensiones y jubilaciones en los casos de invalidez, vejez, cesantía y muerte;
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
-d) Indemnizaciones y primas por rescisión o terminación de la relación laboral, que tenga su origen en la prestación de servicios personales;
+d) Indemnizaciones y primas por rescisión o terminación de la relación laboral, que tenga su origen en la prestación de servicios personales, incluidos los anticipos de pago por estos conceptos;
 
 e) Pagos por gastos funerarios;
 
@@ -973,7 +1009,9 @@ e) Pagos por gastos funerarios;
 
 f) Gastos de representación y viáticos efectivamente erogados por cuenta del patrón y debidamente comprobados, en los mismos términos que para su deducibilidad requiere la Ley del Impuesto Sobre la Renta;
 
-g) Aportaciones al INFONAVIT, Fondos para el retiro constituidos con arreglo a las Leyes de la materia y cuotas al IMSS a cargo del patrón;
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+g) Aportaciones al INFONAVIT, Fondos para el Retiro constituidos con arreglo a las Leyes de la materia y cuotas de seguridad social a cargo del patrón;
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -1003,9 +1041,9 @@ m) La alimentación y habitación, cuando se otorguen con cargo al salario del t
 
 n) Las prestaciones de uniformes de trabajo o deportivos, festejos de convivios, becas para los trabajadores o sus familias.
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
-o) Primas de seguros por gastos médicos o de vida; y
+o) Primas de seguros por gastos médicos o de vida, en el porcentaje que sea a cargo del salario del trabajador, y
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -1019,7 +1057,9 @@ II. Las erogaciones que efectúen:
 
 a) (DEROGADO POR ARTÍCULO VIGÉSIMO DE LA LEY DE INGRESOS DEL GOBIERNO DEL ESTADO DE MORELOS, CORRESPONDIENTE AL EJERCICIO FISCAL DEL PRIMERO DE ENERO AL TREINTA Y UNO DE DICIEMBRE DE DOS MIL DOCE, P.O. 21 DE DICIEMBRE DE 2011)
 
-b) Instituciones sin fines de lucro que realicen o promuevan asistencia social en cualquiera de sus formas y que se encuentren registradas ante las autoridades estatales competentes del ramo;
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+b) Instituciones sin fines de lucro que realicen o promuevan asistencia social para abatir el rezago en materia alimentaria de salud o de educación básica, que se encuentren registradas ante las autoridades estatales competentes del ramo y que obtengan la autorización por parte de la Secretaría;
 
 c) Asociaciones de trabajadores y colegios de profesionistas; y
 
@@ -1059,17 +1099,15 @@ VII. Las personas físicas y las personas morales que reciban las prestaciones d
 
 DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+###### Artículo 58 Bis
+
+8.- (DEROGADO, P.O. 8 DE DICIEMBRE DE 2015)
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 58 Bis
 
-8. La realización de pagos por concepto del Impuesto Sobre Erogaciones por Remuneraciones al Trabajo Personal, no causará el Impuesto Adicional, a que se refiere esta Ley.
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-###### Artículo 58 Bis
-
-9. Del total de los recursos que genere el Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal, se destinará un cincuenta por ciento para la integración del Fondo de Competitividad y Promoción del Empleo; con excepción de la recaudación que derive de los Ayuntamientos Municipales, Poderes Ejecutivo, Legislativo y Judicial, órganos Autónomos, Organismos Públicos Descentralizados Estatales y Municipales, Fideicomisos Públicos Estatales y Municipales; que no se integrará al referido Fondo.
+9.- Del total de los recursos que genere el impuesto sobre erogaciones por remuneraciones al trabajo personal, se destinará un 50% para la integración del fondo de competitividad y promoción del empleo; con excepción de la recaudación que derive de la Federación, del Estado y de los Municipios, en los términos del artículo 4 de esta Ley; así como los Poderes Legislativo y Judicial y Organismos Públicos Autónomos que no se integrará al referido fondo.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -1121,39 +1159,53 @@ BASE
 
 TASA
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 58 Ter
 
-4. Este impuesto se causará y pagará aplicando a la base la tasa del 15%.
+4.- El impuesto sobre las demasías caducas se causará y pagará aplicando a la base la tasa del 18.75%.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 PAGO
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 58 Ter
 
-5. El pago de este impuesto se efectuará mediante declaración mensual definitiva, en la Secretaría, instituciones bancarias, centros autorizados o medios electrónicos autorizados por la Secretaría, dentro de los primeros 17 días del mes siguiente a aquél en que se haya producido la enajenación de la prenda de que se trate.
+5.- El pago del impuesto sobre las demasías caducas se efectuará mediante declaración bimestral definitiva en la Secretaría, instituciones bancarias, centros autorizados o medios electrónicos autorizados por la Secretaría, dentro de los primeros 17 días de los meses de marzo, mayo, julio, septiembre, noviembre y enero, según corresponda al mes en que se haya producido la enajenación de la prenda de que se trate.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 OBLIGACIONES
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 58 Ter
 
-6. Son obligaciones de los sujetos:
+6.- Son obligaciones de los sujetos:
 
-I. Llevar y conservar los registros contables o administrativos exigidos por la ley;
+I. Registrarse en el Padrón de Contribuyentes del Estado ante la Secretaría, debiendo proporcionar la información relacionada con su identidad, su domicilio y en general sobre su situación fiscal;
 
-II. Expedir los comprobantes que reúnan los requisitos fiscales a que aluden las disposiciones fiscales federales, y
+II. Realizar los pagos bimestrales por los periodos señalados en el artículo 58 Ter- 5 de esta Ley o, en su caso, presentar la declaración sin pago en los mismos periodos;
 
-III. Presentar declaración informativa mensual, de acuerdo a las reglas de carácter general que al efecto expida la Secretaría.
+III. Llevar y conservar los registros contables o administrativos exigidos por la Ley;
+
+IV. Expedir los comprobantes que reúnan los requisitos de las disposiciones fiscales, y
+
+V. Presentar declaración semestral informativa, de las demasías caducas obtenidas por los meses de enero a junio, el último día hábil del mes de julio y por los meses de julio a diciembre, el último día hábil del mes de enero, de conformidad con lo siguiente:
+
+a) Se deberá presentar en el formato autorizado por la Secretaría;
+
+b) Versará sobre todas aquellas operaciones celebradas con relación a su actividad de préstamos de dinero al público derivados de la celebración de contratos de mutuo con interés y garantía prendaria o asimilable a éste;
+
+c) Las declaraciones informativas semestrales que presenten los contribuyentes, podrán ser modificadas conforme a lo dispuesto en el Código Fiscal para el Estado de Morelos, mediante declaraciones complementarias, para corregir los datos asentados en la declaración informativa original, y
+
+d) Los sujetos a que se refiere este capítulo que no hayan realizado ninguna operación en el mes que corresponda, presentarán su declaración informativa indicando que no tuvieron operaciones en ese periodo.
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ### CAPÍTULO SEGUNDO. CONTRIBUCIONES ESPECIALES POR OBRAS PÚBLICAS DE BENEFICIO DIRECTO
 
@@ -1165,49 +1217,43 @@ III. Presentar declaración informativa mensual, de acuerdo a las reglas de car�
 
 ###### Artículo 59.
 
-Es objeto del impuesto adicional la realización de pagos por concepto de impuestos y derechos estatales previstos en la Ley de Ingresos del Estado y en esta Ley.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2015)
 
 SUJETO
 
 ###### Artículo 60.
 
-Son sujetos del impuesto adicional quienes tengan a su cargo, directa o solidariamente, los pagos a que se refiere el artículo anterior.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2015)
 
 BASE
 
 ###### Artículo 61.
 
-Es base para la determinación de este impuesto el monto total de pagos por concepto de impuestos y derechos previstos en esta Ley.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2015)
 
 TASA
 
 ###### Artículo 62.
 
-Este impuesto se causará y pagará a razón de una cantidad equivalente al 25% sobre su base, mismo que se destinará a los programas de educación, industrialización y a favor de la Universidad Autónoma del Estado de Morelos.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2015)
 
 ###### Artículo 63.
 
-No causarán este impuesto los pagos por:
-
-I. Derechos de registro de escrituras bancarias relativas a créditos hipotecarios, refaccionarios o de habilitación o avío;
-
-II. Multas;
-
-III. Reintegros; y
-
-IV. Recargos y gastos de ejecución.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2015)
 
 ###### Artículo 64.
 
-El entero del impuesto se hará en el momento en que se realicen los pagos objeto del gravamen. Este impuesto no será objeto de reducción, su aplicación se hará sobre la base de los impuestos y derechos.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2015)
 
 ## TÍTULO TERCERO. DE LAS CONTRIBUCIONES ESPECIALES
 
 ### CAPÍTULO SEGUNDO. REGISTRO PÚBLICO DEL COMERCIO
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 65.
 
-Las contribuciones especiales a que se refiere el presente Título, son las prestaciones a cargo de las personas jurídico-individuales o físicas o jurídico-colectivas o morales que se beneficien de manera directa o indirecta por obras públicas o que reciban una mejora específica de naturaleza económica, originada por la realización de una obra pública realizada bajo la modalidad de convenio, con aportaciones del gobierno y particulares.
+Las contribuciones especiales a que se refiere el presente Título, son las prestaciones a cargo de las personas físicas o personas morales que se beneficien de manera directa o indirecta por obras públicas o que reciban una mejora específica de naturaleza económica, originada por la realización de una obra pública efectuada bajo la modalidad de convenio, con aportaciones del gobierno y particulares.
 
 Por su parte, para esta acción de gobierno, el Ejecutivo dispondrá de hasta un treinta por ciento del importe del gasto público destinado a obra, que haya sido autorizado para cada sector económico, social o de servicios, en el Presupuesto de Egresos del ejercicio fiscal que corresponda. Así, previa autorización del Congreso del Estado y firmados los convenios entre las partes, los recursos serán aplicados exclusivamente para la realización de obra pública, que demande el propio sector al que originalmente fueron asignados. De acuerdo con el monto a erogar, en cada caso, se atenderá a lo dispuesto por la Ley de la materia
 
@@ -1222,6 +1268,8 @@ Las autoridades fiscales podrán autorizar, conforme a reglas de carácter gener
 Los contribuyentes que prefieran hacer el pago total de la liquidación a su cargo en una sola exhibición, tendrán derecho a un descuento del 12% sobre el monto del pago anticipado.
 
 ### CAPÍTULO TERCERO. SERVICIOS DE ARCHIVO Y NOTARIALES
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 67.
 
@@ -1291,9 +1339,9 @@ El monto de las cuotas, en cada caso concreto deben pagarse, distribuyendo el co
 
 Para los efectos de este Capítulo cuando se trate de obra de pavimentación o reparación, su duración mínima será de diez años y en consecuencia, no se podrá acordar un nuevo cobro por el mismo concepto durante este plazo.
 
-### CAPÍTULO CUARTO. SERVICIOS DE LA DIRECCIÓN ESTATAL DEL REGISTRO CIVIL
+### CAPÍTULO CUARTO. SERVICIOS DE LA DIRECCIÓN GENERAL DEL REGISTRO CIVIL
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 70.
 
@@ -1407,7 +1455,7 @@ En ningún caso se pagarán contribuciones de mejoras por obras iguales realizad
 
 ## TÍTULO CUARTO. DE LOS DERECHOS
 
-### Capitulo Décimo Séptimo del presente Titulo.
+### Capítulo Décimo Séptimo del presente Título.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TERCERA DISPOSICIÓN TRANSITORIA DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1417,153 +1465,255 @@ En ningún caso se pagarán contribuciones de mejoras por obras iguales realizad
 
 Los servicios que se presten en materia de Registro Público de la Propiedad causarán derechos y se pagarán previamente por los interesados conforme a esta Ley.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 77.
 
-Los derechos por los servicios de Registro Público de la Propiedad se causarán en los siguientes términos:
+Los servicios que se presten en materia de Registro Público de la Propiedad causarán derechos y se pagarán previamente por los interesados conforme a esta Ley, con base en los términos siguientes:
 
-I. Por la calificación de todo documento que se devuelva sin que se preste el servicio solicitado por omisión de requisitos, impedimento legal, por contener datos incorrectos o a petición del interesado, por cada vez: $128.00;
+TARIFA
 
-II. Por la inscripción de documentos, resoluciones judiciales o administrativas y testimonios notariales en los cuales se establezca, declare, transfiera, adquiera o modifique el dominio, o la posesión de bienes inmuebles o derechos reales, incluyendo los fideicomisos traslativos de dominio, así como los relacionados con la propiedad o posesión de buques o aeronaves: $6,000.00.
+I. Por la calificación de todo documento que se devuelva sin que
 
-La primera inscripción de la propiedad será gratuita y los derechos por el registro de los actos traslativos subsecuentes se causarán en términos de esta fracción.
+se preste el servicio solicitado por omisión de requisitos,
 
-III. Por la sustitución de deudor o de acreedor, en cualquier caso: $510.00;
+impedimento legal, por contener datos incorrectos o a petición
 
-IV. Por contratos de hipoteca celebrados por Instituciones de Crédito, Seguros, o de Fianzas: $6.000.00;
+del interesado, por cada vez: $165.00
 
-V. Por el Registro de Cédulas Hipotecarias: $1,594.00;
+II. Por la inscripción de documentos, resoluciones judiciales o
 
-VI. Por la inscripción de documentos o resoluciones judiciales relativas a las sucesiones, independientemente de los derechos que se causen por la inscripción de la transmisión de bienes hereditarios: $638.00;
+administrativas y testimonios notariales en los cuales se
 
-VII. Por la inscripción de la constitución de patrimonio familiar: $64.00;
+establezca, declare, transfiera, adquiera o modifique el
 
-VIII. Por la inscripción de la cancelación del patrimonio familiar: $64.00;
+dominio, o la posesión de bienes inmuebles o derechos reales,
+
+incluyendo los fideicomisos traslativos de dominio, por cada
+
+inmueble a que se refiere esta fracción:
+
+La primera inscripción de la propiedad será gratuita y los
+
+derechos por el registro de los actos traslativos subsecuentes
+
+se causarán en términos de esta fracción:
+
+Esta misma tarifa aplicará a la compraventa con reserva de dominio;
+
+a la compraventa de la nuda propiedad con reserva del
+
+usufructo; así como a la adjudicación de bienes por disolución
+
+de la sociedad conyugal o aplicación de bienes por gananciales
+
+cuando el adquiriente no sea titular registral; $6, 180.00
+
+III. Por inscripción de hipoteca, por cada inmueble en que se
+
+deba hacer el registro: $6, 180.00
+
+IV. Por la sustitución de deudor o de acreedor, en cualquier caso: $657.00
+
+V. Por el registro de cédulas hipotecarias: $2,052.00
+
+VI. Por la inscripción de la constitución de patrimonio
+
+familiar: $82.00
+
+VII. Por la inscripción de la cancelación del patrimonio
+
+familiar: $82.00
+
+VIII. Por la inscripción de:
+
+a) Fideicomisos de administración o de garantía, por cada
+
+inmueble que se afecte: $2,052.00
+
+b) Cancelación de estos fideicomisos, por cada inmueble
+
+que se afecte: $821.00
+
+c) Contratos de arrendamiento de inmuebles: $2,052.00
 
 IX. Por la inscripción de:
 
-a) Fideicomisos de administración o de garantía: $1,594.00;
+a) Fraccionamiento, lotificación, fusión, división o subdivisión
 
-b) Cancelación de estos fideicomisos: $638.00; y
+de un inmueble, por cada lote o fracción: $657.00
 
-c) Contratos de arrendamiento de inmuebles: $1,594.00;
+b) Constitución de régimen de propiedad en condominio o,
 
-X. Por la inscripción de:
+en su caso, de su modificación por cada unidad condominal: $657.00
 
-a) Contratos, convenios, resoluciones judiciales o administrativas por las que se constituya un fraccionamiento, lotificación, división o subdivisión de un inmueble, por cada lote o fracción: $510.00;
+X. Por la inscripción de contratos de prenda o comodato, de
 
-b) Contratos, convenios o resoluciones judiciales o administrativas a consecuencia de los cuales se fusionen inmuebles, por cada uno de los predios fusionados: $510.00; y
+contratos sobre bienes muebles o de los que establezcan
 
-c) Constitución de régimen de propiedad en condominio o, en su caso, de su modificación por cada unidad departamental, vivienda, casa, despacho o local: $510.00;
+condición suspensiva o resolutoria o de cualquiera otra modalidad $4,105.00
 
-XI. Por la inscripción de contrato de prenda, de comodato, de contratos que versen sobre bienes muebles o de los que establezcan condición suspensiva o resolutoria o de cualquiera otra modalidad: $3.188.00;
+XI. Por la inscripción de documentos que extingan los actos
 
-XII. Por la inscripción de documentos que extingan los actos mencionados en la fracción anterior: $510.00;
+mencionados en la fracción anterior: $657.00
 
-XIII. Por la inscripción de contratos de compraventa con reserva de dominio sobre bienes inmuebles: $3,188.00;
+XII. Por la inscripción de contratos de compraventa con
 
-XIV. Por la inscripción de documentos en que se haga constar la cancelación de la reserva de dominio sobre bienes inmuebles, en los términos de la fracción anterior: $3,188.00;
+reserva de dominio sobre bienes inmuebles: $4,105.00
+
+XIII. Por la inscripción de documentos en que se haga constar
+
+la cancelación de la reserva de dominio sobre bienes inmuebles,
+
+en los términos de la fracción anterior: $4,105.00
+
+XIV. Por la inscripción de:
+
+a) Documentos en que se constituya una asociación o sociedad
+
+civil, o de sus aumentos: $2,052.00
+
+b) Acta de asamblea de las personas morales mencionadas: $985.00
+
+c) Fusión de sociedades y asociaciones civiles: $2,052.00
+
+d) Cada uno de los actos de disolución, liquidación
+
+o cancelación del asiento correspondiente a una sociedad o
+
+asociación civil: $1,232.00
 
 XV. Por la inscripción de:
 
-a) Documentos en que se constituya una asociación o sociedad civil, o de sus aumentos: $1,594.00;
+a) Poderes o sustituciones de los mismos, por cada inmueble: $657.00
 
-b) Acta de asamblea de las personas morales mencionadas: $765.00;
+b) Revocación de poderes, por cada inmueble: $246.00
 
-c) Fusión de sociedades y asociaciones civiles: $1,594.00; y
+XVI. Por la inscripción de fianzas, contrafianzas u obligaciones
 
-d) Cada uno de los actos de disolución, liquidación o cancelación del asiento correspondiente a una sociedad o asociación civil: $957.00.
+solidarias con el fiador: $821.00
 
-XVI. Por la inscripción de:
+XVII. Por la expedición de:
 
-a) Poderes o sustituciones de los mismos: $510.00; y
+a) Certificados de libertad o existencia de gravámenes: $246.00
 
-b) Revocación de poderes: $191.00;
+b) Certificados de libertad o existencia de gravámenes, con
 
-XVII. Por la inscripción de fianzas, contrafianzas u obligaciones solidarias con el fiador: $638.00;
+efectos de aviso preventivo: $739.00
 
-XVIII. Por la expedición de:
+c) Certificados de inexistencia de registro: $821.00
 
-a) Certificados de libertad o existencia de gravámenes: $191.00;
+d) Certificados de no propiedad: $165.00
 
-b) Certificados de libertad o existencia de gravámenes, con efectos de aviso preventivo: $574.00;
+e) Certificados de inscripción de propiedad: $493.00
 
-c) Certificados de inexistencia de registro: $638.00;
+f) Informes y constancias solicitadas por autoridades y
 
-d) Certificados de no propiedad: $128.00;
+organismos no exceptuados por la Ley: $493.00
 
-e) Certificados de inscripción de propiedad: $383.00;
+g) Certificados de búsqueda de antecedentes registrales $821.00
 
-f) Informes y constancias solicitadas por autoridades y organismos no exceptuados por la Ley: $383.00;
+h) Copias certificadas de documentos registrales o que obren
 
-g) Certificados de búsqueda de antecedentes registrales $638.00;
+en el archivo: $493.00
 
-h) Copias certificadas de documentos registrales o que obren en el archivo: $383.00, e
+i) Copias transcritas: $821.00
 
-i) Copias transcritas: $638,00;
+XVIII. Por el depósito de testamentos ológrafos: $411.00
 
-XIX. Por el depósito de testamentos ológrafos: $319.00 si el depósito se hace en horas inhábiles: $1,020.00;
+XIX. Por la expedición de informes respecto al registro o
 
-XX. Por la expedición de informes respecto al registro o depósito de testamentos que se rindan a solicitud de jueces o notarios: $638.00;
+depósito de testamentos que se rindan a solicitud de jueces
 
-XXI. Por la cancelación de embargos, hipotecas, cédulas hipotecarias y fianzas: $510.00;
+o notarios, por cada testador: $821.00
 
-XXII. Por la anotación de los datos de registro en un testimonio notarial adicional: $319.00;
+XX. Por la cancelación de embargos, hipotecas, cédulas
 
-XXIII. Por la inscripción de testimonios notariales que rectifiquen o aclaren el registro de otro testimonio: $510.00;
+hipotecarias y fianzas: $657.00
 
-XXIV. Por la inscripción, anotación, cancelación, expedición de documentos o informes de cualquier otro acto no especificado en este artículo, se cobrará: $638.00;
+XXI. Por la anotación de los datos de registro en un
 
-XXV. Por cada una de las consultas de libros, folio real electrónico, y consultas en internet, que corresponda al total de anotaciones y registros de una sola propiedad: $64.00;
+testimonio notarial adicional: $411.00
 
-XXVI. Por concepto de certificación de documentos y firmas, distintos de los establecidos en el inciso h), de la fracción XVIII del presente artículo, se causarán los derechos establecidos en el Capítulo Décimo Séptimo del presente Título;
+XXII. Por la inscripción de testimonios notariales que
 
-XXVII. Por concepto de verificación en campo de un inmueble: $319.00;
+rectifiquen o aclaren el registro de otro testimonio: $657.00
 
-XXVIII. Por la inscripción de concesiones para la prestación de servicio público: $1,913.00;
+XXIII. Inscripción de rectificación y reposición de inscripciones: $657.00
 
-XXIX. Por la inscripción de Convenios modificatorios para la sustitución de deudor o de acreedor, en cualquier caso: $638.00; y
+XXIV. Por cada una de las consultas de libros, folio
 
-XXX. Por la inscripción de embargos administrativos, laborales o judiciales: $1,594.00.
+real electrónico, y consultas en internet, que corresponda
 
-Un porcentaje del total de los ingresos percibidos en el presente artículo, serán destinados a los programas de equipamiento e infraestructura del Instituto de Servicios Registrales y Catastrales del Estado de Morelos, mismo que será modificado de acuerdo con las necesidades del área y se determinará en el correspondiente Presupuesto de Egresos del Gobierno del Estado.
+al total de anotaciones y registros de una sola propiedad: $82.00
 
-Los fedatarios públicos que conforme a las disposiciones fiscales, retengan los derechos a que se refiere el presente artículo, deberán enterarlos ante la oficina recaudadora de la Secretaría de Hacienda, en un plazo que no excederá de 15 días hábiles, contados a partir del día siguiente al en que se hubiera realizado la retención. En caso de que los derechos a que se refiere este artículo causen el Impuesto Adicional, éste deberá enterarse en el mismo plazo. El incumplimiento en el entero de las cantidades retenidas, dentro del plazo señalado, originará la causación de los recargos moratorios en el porcentaje que se establece en la Ley de Ingresos del Gobierno del Estado para el ejercicio que corresponda.
+XXV. Por concepto de certificación de documentos y firmas,
 
-Las tarifas contenidas en las fracciones II y IV el (sic) presente artículo, no causarán el impuesto adicional a que se refieren los artículos 59 a 64 de esta Ley.
+distintos de los establecidos en el inciso h), de la
+
+fracción XVII del presente artículo, se causarán los derechos
+
+establecidos en el Capítulo Décimo Séptimo del presente Título;
+
+XXVI. Por concepto de verificación en campo de un inmueble: $411.00
+
+XXVII. Por la inscripción de embargos administrativos,
+
+laborales o judiciales: $2,052.00
+
+XXVIII. Inscripción de servidumbre: $821.00
+
+XXIX. Cancelación de servidumbre: $821.00
+
+XXX. Inscripción de modificación de medidas: $821.00
+
+XXXI. Anotación preventiva de demanda $821.00
+
+XXXII. Cancelación de anotación preventiva: $821.00
+
+XXXIII. Reversión de propiedad, por inmueble: $821.00
+
+XXXIV. Inscripción de modificación de fideicomiso,
+
+por inmueble: $821.00
+
+XXXV. Cancelación de usufructo vitalicio: $821.00
+
+XXXVI. Inscripción de cancelación de litigio: $821.00
+
+XXXVII. Inscripción de cancelación de anotación
+
+Judicial $821.00
+
+XXXVIII. Ratificación de firmas: $821.00
+
+XXXIX. Por la inscripción, anotación, cancelación,
+
+expedición de documentos o informes de cualquier
+
+otro acto no especificado en este artículo, se cobrará: $821.00
+
+Los servicios de inscripción a que se refiere este artículo, se causarán y pagarán cada uno en los términos señalados en las fracciones que anteceden, independientemente de que deriven de un mismo acto jurídico.
+
+Un porcentaje del total de los ingresos generados por los conceptos del presente artículo, serán destinados a los programas de equipamiento e infraestructura del Instituto de Servicios Registrales y Catastrales del Estado de Morelos, mismo que será modificado de acuerdo con las necesidades del área y se determinará en el correspondiente presupuesto de egresos del Gobierno del Estado.
+
+Los Fedatarios Públicos que, conforme a las disposiciones fiscales, retengan los derechos a que se refiere el presente artículo, deberán enterarlos a través de los medios que la Secretaría establezca mediante las reglas, en un plazo que no excederá de 15 días hábiles, contados a partir del día siguiente al que se hubiera realizado la retención. El incumplimiento en el entero de las cantidades retenidas, dentro del plazo señalado, originará la causación de recargos en el porcentaje que se establece en la Ley de Ingresos del Gobierno del Estado de Morelos para el ejercicio que corresponda.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 78.
 
 Para el cobro de los derechos que establece el artículo anterior se observarán las siguientes reglas:
 
-I. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2014)
+I. Cuando se trate de contratos, demandas o resoluciones judiciales o administrativas que se refieran a prestaciones periódicas; se cobrará el importe de: $246.00;
 
-II. Toda transmisión de bienes o derechos reales que se realice por contrato o por resolución judicial, cuando en estos actos queden comprendidos varios bienes, se pagará sobre la suma del valor de cada uno de ellos;
+II. La expedición de copias certificadas pueden solicitarse con carácter de urgente cubriendo además del costo a que se refiere la fracción anterior, el pago de derechos de $245.00;
 
-III. Para la aplicación de las tasas de la fracción II del artículo anterior, la nuda propiedad se valuará conforme al 50% del valor del inmueble y, al consolidarse, sobre el 50% del mismo;
+III. Cuando se trate de la inscripción de testimonios de escrituras públicas que correspondan a los fedatarios públicos domiciliados fuera de la circunscripción territorial del Estado de Morelos, se causará una sobretasa de un 25% sobre la base o tasa determinada;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+IV. Las inscripciones de embargo y certificados de gravámenes solicitados por el Gobierno del Estado a consecuencia del procedimiento administrativo de ejecución derivado de créditos fiscales, causarán los derechos correspondientes pero no se cobrarán previamente, sino al hacer efectivo el crédito fiscal como parte del mismo, y
 
-IV. Cuando se trate de contratos, demandas o resoluciones judiciales o administrativas que se refieran a prestaciones periódicas, se cobrará el importe de: $191.00;
-
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
-
-V. Tratándose de la inscripción de títulos traslativos de dominio, se aplicará la tasa correspondiente, pero en ningún caso, la cantidad será inferior a $638.00;
-
-VI. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2013)
-
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
-
-VII. La expedición de copias certificadas pueden solicitarse con carácter de urgente cubriendo además el pago de derechos de $190.00;
-
-VIII. Cuando se trate de la inscripción de testimonios de escrituras públicas que correspondan a los fedatarios públicos domiciliados fuera de la circunscripción territorial del Estado de Morelos, se causará una sobretasa de un 25% sobre la base o tasa determinada;
-
-IX. Las inscripciones de embargo y certificados de gravámenes solicitados por el Gobierno del Estado a consecuencia del procedimiento administrativo de ejecución derivado de créditos fiscales, causarán los derechos correspondientes pero no se cobrarán previamente, sino al hacer efectivo el crédito fiscal como parte del mismo;
-
-X. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2013)
-
-XI. Por la verificación en campo de un inmueble, deberá cubrirse al personal comisionado, por concepto de viáticos y pasajes la cantidad que se determine en el Reglamento Interno del Registro Público de la Propiedad y del Comercio y la normatividad vigente.
+V. Por la verificación en campo de un inmueble, deberá cubrirse al personal comisionado, por concepto de viáticos y pasajes la cantidad que se determina en la fracción XXVI del artículo anterior de esta Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2006)</small>
 
@@ -1585,301 +1735,321 @@ IV. Por los informes o certificaciones que soliciten las autoridades competentes
 
 V. Los instrumentos jurídicos, bien sean públicos o privados, que otorguen las instituciones oficiales de cualquier nivel de Gobierno, en tratándose de la enajenación o regularización de vivienda de interés social o popular, y
 
-VI. Cuando se trate de inscripciones relativas a transmisión o adquisición de bienes inmuebles o derechos reales a favor de asociaciones de asistencia y beneficencia pública legalmente constituidas, siempre que sean destinados al cumplimiento de su objetivo.
+VI. (DEROGADA, P.O. 8 DE DICIEMBRE DE 2015)
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 79 Bis.
+
+Para los efectos de este capítulo, las cantidades retenidas por los Fedatarios Públicos respecto de escrituras autorizadas en un ejercicio fiscal determinado, podrán enterarse conforme a los montos vigentes en dicho ejercicio fiscal, siempre y cuando el entero sea realizado a más tardar el 28 de febrero o día hábil siguiente del ejercicio fiscal posterior a aquel en que se realizó la retención.
 
 ### CAPÍTULO QUINTO. SERVICIOS DE CONTROL VEHICULAR
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 80.
 
-Los derechos por el Registro Público del Comercio se causarán en los siguientes términos:
+Los servicios que se presten en materia de Registro Público del Comercio causarán derechos y se pagarán previamente por los interesados con base en los términos siguientes:
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+Tarifa
 
-I. Por la calificación de todo documento que se presente para su inscripción y se niegue ésta por no ser inscribible o cuando se devuelva por resolución judicial o a petición del interesado: $191.00;
+I. Por la calificación de todo documento que se presente para su
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+inscripción y se niegue ésta por no ser inscribible o cuando se devuelva
+
+por resolución judicial o a petición del interesado: $246.00
 
 II. Por la inscripción de matrícula:
 
-a) De comerciante individual: $638.00; y
+a) De comerciante individual: $821.00
 
-b) De sociedad mercantil: $957.00;
+b) De sociedad mercantil: $1,232.00
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+III. Por la inscripción del testimonio de la escritura relativa a la
 
-III. Por la inscripción del testimonio de la escritura relativa a la constitución de una Sociedad Mercantil, o por el registro de testimonios que consignen aumentos de su capital social o por el registro de sociedades que tengan sucursales en esta entidad: $1,594.00;
+constitución de una sociedad mercantil, o por el registro de
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+testimonios que consignen aumentos de su capital social o por el
 
-IV. Para la inscripción de las modificaciones a la escritura constitutiva de sociedades mercantiles y venta de acciones, siempre que no se refieran al aumento de su capital social: $638.00;
+registro de sociedades que tengan sucursales en esta Entidad: $2,052.00
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+IV. Para la inscripción de las modificaciones a la escritura constitutiva de
 
-V. Por la inscripción de actas de asamblea de sociedades mercantiles: $638.00;
+sociedades mercantiles y venta de acciones, siempre que no se refieran
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+al aumento de su capital social: $821.00
 
-VI. Por el depósito de programas a que se refiere el artículo 92, de la Ley General de Sociedades Mercantiles: $638.00;
+V. Por la inscripción de actas de asamblea de sociedades mercantiles: $821.00
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+VI. Por el depósito de programas a que se refiere el artículo 92 de la Ley
 
-VII. Por la inscripción del acta de emisión de bonos u obligaciones de sociedades anónimas: $638.00;
+General de Sociedades Mercantiles: $821.00
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+VII. Por la inscripción del acta de emisión de bonos u
 
-VIII. Por la inscripción de la disolución de sociedades mercantiles: $1,594.00;
+obligaciones de sociedades anónimas: $821.00
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+VIII. Por la inscripción de la disolución de sociedades mercantiles: $2,052.00
 
-IX. Por la inscripción de la liquidación de sociedades mercantiles: $957.00;
+IX. Por la inscripción de la liquidación de sociedades mercantiles: $1,232.00
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+X. Cuando las operaciones a que se refieren las dos fracciones que
 
-X. Cuando las operaciones a que se refieren las dos fracciones que anteceden se realicen en un solo acto, su inscripción causará: $1,275.00;
+anteceden se realicen en un solo acto, su inscripción causará: $1,642.00
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+XI. Por la cancelación del registro del contrato de
 
-XI. Por la cancelación del registro del contrato de sociedad mercantil: $957.00;
-
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+sociedad mercantil: $1,232.00
 
 XII. Por la inscripción de:
 
-a) Poderes o sustituciones de los mismos: $957.00, por cada apoderado;
+a) Poderes o sustituciones de los mismos, por cada apoderado: $1,232.00
 
-b) Revocación de poderes, por cada una: $957.00;
+b) Revocación de poderes, por cada una: $1,232.00
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+XIII. Por otorgamiento de poderes a gerentes o administradores
 
-XIII. Por otorgamiento de poderes a gerentes o administradores de sociedades mercantiles en las escrituras constitutivas o en sus modificaciones: $957.00;
+de sociedades mercantiles en las escrituras constitutivas o en
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+sus modificaciones, por cada poder o apoderado $1,232.00
 
-XIV. Por la inscripción relativa a habilitación de edad y licencia para ejercer el comercio, licencia marital o el requisito que necesite la mujer para los mismos fines, la revocación de unos y otros y las escrituras a que se refieren el Código de Comercio: $957.00;
+XIV. Por la inscripción relativa a habilitación de edad y
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+licencia para ejercer el comercio, la revocación de unos
 
-XV. Por la inscripción de contratos de corresponsalía mercantil: $957.00; y por su cancelación: $638.00;
+y otros y las escrituras a que se refieren el Código de Comercio: $1,232.00
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+XV. Para contratos de corresponsalía mercantil:
 
-XVI. Por la inscripción de contratos de crédito refaccionario o de habilitación o avío, celebrados por instituciones de crédito, seguros o de fianzas, se causará la tarifa de $3,000.00; por la cancelación de la inscripción de los contratos mencionados se causará: $319.00;
+a) Por su inscripción: $1,232.00
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+b) Por su cancelación: $821.00
 
-XVII. Por la inscripción de resoluciones judiciales que declaren la suspensión de pagos, quiebra, o admita una liquidación: $638.00;
+XVI. Para contratos de crédito refaccionario o de
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+habilitación o avío, celebrados por instituciones de crédito,
 
-XVIII. Por la inscripción de hipotecas industriales otorgadas en garantía a instituciones de crédito o a las organizaciones auxiliares de crédito: $6,000.00;
+seguros o de fianzas:
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+a) Por su inscripción: $3,863.00
 
-XIX. Por la inscripción de la fusión de sociedades mercantiles: $1,594.00;
+b) Por su cancelación: $411.00
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+XVII. Por la inscripción de resoluciones judiciales que declaren
 
-XX. La consulta a los libros del Registro Público de Comercio, dentro del horario autorizado y por medio de Internet, causará: $64.00; y
+la suspensión de pagos, quiebra, o admita una liquidación: $821.00
 
-XXI. Por concepto de certificación de documentos y firmas se causarán los derechos establecidos en el Capítulo Décimo Séptimo del presente Título.
+XVIII. Por la inscripción de hipotecas industriales otorgadas
+
+en garantía a instituciones de crédito o a las organizaciones
+
+auxiliares de crédito: $7,725.00;
+
+XIX. Por la inscripción de la fusión de sociedades mercantiles: $2,052.00;
+
+XX. La consulta a los libros del Registro Público de Comercio,
+
+dentro del horario autorizado y por medio de Internet, causará: $82.00
+
+XXI. Inscripción de corredor público: $821.00
+
+XXII. Inscripción de nombramiento y cancelación de interventor: $821.00
+
+XXIII. Por concepto de certificación de documentos y firmas
+
+se causarán los derechos establecidos en el Capítulo Décimo
+
+Séptimo del presente Título.
 
 ###### Artículo 81.
 
 Para el cobro de los derechos que establece el artículo anterior, se observarán las siguientes reglas:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+TARIFA
 
-I. Si un mismo título origina dos o más inscripciones, los derechos se causarán por cada una de ellas, cotizándose separadamente; por tanto, para los pagos de estos derechos, se expedirán tantas boletas o recibos como inscripciones se hagan; tratándose de Instituciones de Crédito o de Instituciones de Seguros o de Fianzas, las inscripciones que deban hacerse, causarán los mismos derechos, pero en su conjunto no podrán exceder de $6,000.00.
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+I. Si un mismo Título origina dos o más inscripciones, los derechos se causarán por cada una de ellas, cotizándose separadamente; por tanto, para los pagos de estos derechos, se expedirán tantas boletas o recibos como inscripciones se hagan.
 
 Se exceptúan de esa disposición las inscripciones relativas a operaciones que se deriven de la constitución o disolución de una sociedad mercantil en que sólo se cobrarán derechos por la inscripción que se haga en la sección de comercio.
 
 II. En los contratos mercantiles en los que medie condición suspensiva, resolutoria, reserva de propiedad o cualquier otra modalidad que haya de dar lugar a una inscripción complementaria para su perfeccionamiento, pagarán el 75% de lo que corresponda, de acuerdo con el artículo anterior y al practicarse la inscripción complementaria el 25% restante;
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
-III. En los contratos que contengan prestaciones periódicas, se cobrará con base en la suma de éstas, si se puede determinar exactamente su cuantía; en caso contrario, por lo que resulte al hacer el cálculo por un año; en caso de que no pueda computarse, se cobrarán $957.00;
+III. En los contratos que contengan prestaciones periódicas, se cobrará con base en la suma de éstas, si se puede determinar exactamente su cuantía; en caso contrario, por lo que resulte al hacer el cálculo por un año; en caso de que no pueda calcularse, se cobrarán: $1,232.00
 
 IV. En los casos no previstos expresamente, los derechos por servicios que se presten en el Registro Público del Comercio, se causarán por asimilación en los términos de las fracciones relativas a casos con los que guarde semejanza con el del Registro Público de la Propiedad; y
 
 V. Están exentos del pago de los derechos que establece este Capítulo: la Federación, el Gobierno del Estado y sus Municipios, siempre que hayan sido parte en la operación de que se trate.
 
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 81 Bis.
+
+Para los efectos de este Capítulo, las cantidades retenidas por los Fedatarios Públicos respecto de escrituras autorizadas en un ejercicio fiscal determinado, podrán enterarse conforme a los montos vigentes en dicho ejercicio fiscal, siempre y cuando el entero sea realizado a más tardar el 28 de febrero o día hábil siguiente del ejercicio fiscal posterior a aquel en que se realizó la retención.
+
 ### CAPÍTULO SEXTO. SERVICIOS RELACIONADOS CON EL DESARROLLO SUSTENTABLE
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 82.
 
-Los derechos por servicios del Archivo General de Notarías e instrumentos relacionados con las notarías, se causarán conforme a las siguientes:
+Los servicios que se presenten en materia de archivo y notariales causarán derechos y se pagarán previamente por los interesados, con base en los términos siguientes:
 
 Tarifas
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+I. Examen para aspirante a Notario: $1.642.00
 
-1. Examen para aspirante a Notario: $1.275.00
+II. Examen para Notario: $4.105.00
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+III. Registro de la constancia de aspirante a
 
-2. Examen para Notario: $3.188.00
+Notario: $4.105.00
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+IV. Registro de la Patente de Notario: $16.421.00
 
-3. Registro de la constancia de aspirante a Notario: $3.188.00
+V. Registro del sello y firma del Notario: $4.105.00
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+VI. Por la autorización de los libros de protocolo: $3,776.00
 
-4. Registro de la Patente de Notario: $12.754.00
+VII. Por la certificación de la razón de cierre de
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+los libros de protocolo: $3.776.00
 
-5. Registro del sello y firma del Notario: $3.188.00
+VIII. Por convenios:
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+a) De suplencia: $4.105.00
 
-6. Por la autorización de los libros de protocolo: $2,933.00
+b) De asociación: $1.642.00
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+IX. Por la búsqueda o informe de:
 
-7. Por la certificación de la razón de cierre de
-
-los libros de protocolo: $2.933.00
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
-
-8. Por convenios:
-
-a) De suplencia: $3.188.00
-
-b) De asociación: $1.275.00
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
-
-9. Por la búsqueda o informe de:
-
-a) Documento o instrumento precisando la fecha: $255.00
+a) Documento o instrumento precisando la fecha: $328.00
 
 b) Documento o instrumento de fecha no precisada,
 
-por cada año que comprenda la búsqueda:
+por cada año que comprenda la búsqueda: $493.00
 
-Se agregará a la tarifa la cantidad de $64.00. si éste $383.00
+Si éste se proporciona por oficio, se agregará a la
 
-se proporciona por oficio.
+tarifa la cantidad de. $82.00
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+X. Por el informe sobre la existencia o inexistencia
 
-10. Por el informe sobre la existencia o inexistencia
+de testamento: $821.00
 
-de testamento: $638.00
+XI. Por la expedición de testimonios:
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+a) Por la autorización de documentos: $246.00
 
-11. Por la expedición de testimonios:
+b) Por cada hoja o fracción que exceda de la mitad: $82.00
 
-a) Por la autorización de documentos: $191.00
-
-b) Por cada hoja o fracción que exceda de la mitad: $64.00
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
-
-12. Por concepto de certificación de documentos
+XII. Por concepto de certificación de documentos
 
 y firmas se causarán los derechos establecidos en
 
-el Capitulo Décimo Séptimo del presente Título.
+el Capítulo Décimo Séptimo del presente Título.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ### CAPÍTULO SÉPTIMO. SERVICIOS DE VERIFICACIÓN VEHICULAR
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 83.
 
-Los derechos por los servicios que preste la Dirección General del Registro Civil, se causarán conforme a la siguiente: Tarifa
+Los servicios que preste la Dirección General del Registro Civil causarán derechos y se pagarán previamente por los interesados conforme a esta Ley, con base en los términos siguientes:
+
+Tarifa
 
 I. Por registro de nacimientos:
 
-a) El registro de nacimiento dentro de las oficinas $0
+a) El registro de nacimiento dentro de las Oficinas
 
-del Registro Civil y la primera copia certificada
+del Registro Civil y la expedición de la primera copia certificada
 
-del acta de registro de nacimiento.
+del acta de registro de nacimiento. exento
 
-b) Fuera de las oficinas del Registro Civil. $542.00
+b) Fuera de las oficinas del Registro Civil. $698.00
 
-II. Por el registro de reconocimiento de hijos: $159.00
+II. Por el registro de admisión o reconocimiento de hijos: $205.00
 
-III. Por el registro de adopciones: $351.00
+III. Por el registro de sentencias de adopciones: $452.00
 
 IV. Matrimonios:
 
 a) En las oficinas del Registro Civil, en días hábiles
 
-y dentro del horario autorizado. $574.00
+y dentro del horario autorizado. $739.00
 
-b) Fuera de las oficinas del Registro Civil.
+b) Fuera de las oficinas del Registro Civil:
 
-1. En días hábiles. $2,359.00
+1. En días hábiles. $3,037.00
 
-2. En días hábiles fuera del horario autorizado. $2,551.00
+2. En días hábiles fuera del horario autorizado. $3,284.00
 
-3. Sábados, Domingos y días festivos. $2,870.00
+3. Sábados, Domingos y días inhábiles. $3,695.00
 
-c) Por la inscripción del cambio de régimen patrimonial. $191.00
+En las hipótesis contempladas en el inciso b) de la
 
-d) Anotación marginal por virtud de divorcio. $670.00
+presente fracción, por cada evento, le corresponderá el 10%
 
-En las hipótesis contempladas en los numerales 1. 2 y 3 del inciso b) de la presente fracción, por cada evento, le corresponderá el 10% del cobro efectuado al funcionario competente.
+del cobro efectuado al funcionario competente.
 
-V. Rectificación de actas por orden judicial: $159.00
+c) Por la inscripción del cambio de régimen matrimonial. $246.00
 
-VI. Aclaración de actas: $240.00
+d) Anotación marginal por virtud de divorcio judicial: $863.00
 
-VII. Constancia de inexistencia de registros: $223.00
+V. Anotación marginal por orden judicial: $205.00
+
+VI. Aclaración o rectificación de actas: $309.00
+
+VII. Constancia de inexistencia de registros: $124.00
 
 VIII. Inserciones:
 
-a) Actas de matrimonio $383.00
+a) En actas de matrimonio $493.00
 
-b) En actas de nacimiento $159.00
+b) En actas de nacimiento $205.00
 
-c) En actas de defunción $159.00
+c) En actas de defunción $205.00
 
-d) En otro tipo de actas $159.00
+d) En otro tipo de actas $205.00
 
 IX. Búsqueda de:
 
-a) Registro de nacimiento $223.00
+a) Registro de nacimiento $124.00
 
-b) Registro de matrimonios $223.00
+b) Registro de matrimonios $124.00
 
-c) Registro de defunciones $223.00
+c) Registro de defunciones $124.00
 
-d) Otros no especificados $223.00
+d) Otro no especificado $124.00
 
-X. Expedición de actas:
+X. Expedición de copias certificadas de actas del Estado
 
-a) Ordinarias $96.00
+de Morelos y de otras Entidades del País: $93.00
 
-b) (DEROGADO, P.O. 24 DE DICIEMBRE DE 2014)
+XI. Distribución de formatos a Oficialías Municipales del Registro Civil:
 
-XI. Distribución de formatos a oficialías municipales del Registro Civil:
+a) De registro, por hoja: $8.00
 
-a) De registro $5.00
+b) Para certificación, por hoja $9.00
 
-b) Para certificación $600
+XII. Por servicios de trámite y resolución de
 
-XII. Anotación marginal por procedimiento de corrección
+divorcio administrativo: $4, 105.00
 
-administrativa de la Dirección Estatal del Registro Civil:
+XIII. Copia certificada del registro en el libro: $93.00
 
-XIII. Por servicios de trámite y resolución de divorcio administrativo: $128.00
-
-XIV. Por concepto de certificación de documentos $3,188.00
+XIV. Por concepto de certificación de documentos
 
 y firmas se causarán los derechos establecidos en el
 
 ### CAPÍTULO SÉPTIMO BIS. DE LOS SERVICIOS EN MATERIA DE AGUA Y SANEAMIENTO
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 83 Bis.
 
@@ -1887,253 +2057,419 @@ No se causará este derecho, cuando se realicen anotaciones marginales por proce
 
 ### CAPÍTULO OCTAVO. SERVICIOS DE LA POLICÍA INDUSTRIAL, BANCARIA Y AUXILIAR
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+Artículo. 94. Los servicios que presta la Policía Industrial, Bancaria y Auxiliar causarán derechos y se pagarán previamente por los interesados con base en los términos siguientes:
+
+TARIFA
+
+1. TARIFA DIARIA
+
+A) Por un policía en 12 horas de servicio diurno,
+
+riesgo medio: $456.00
+
+B) Por un policía en 12 horas de servicio diurno,
+
+riesgo alto: $580.00
+
+C) Por un policía en 12 horas de servicio
+
+nocturno: $497.00
+
+D) Por un policía en 24 horas de servicio, riesgo
+
+medio: $829.00
+
+E) Por un policía en 24 horas de servicio, riesgo
+
+alto: $1,244.00
+
+F) Por la prestación del servicio de escoltas por
+
+cada elemento: $1,119.00
+
+G) Por la prestación del servicio extraordinario
+
+por 12 horas por un policía: $746.00
+
+H) Por la prestación del servicio extraordinario
+
+por 24 horas por un policía: $1,451.00
+
+II. TARIFA MENSUAL:
+
+A) Por un policía en 12 horas de servicio diurno,
+
+riesgo medio: $13,679.00
+
+B) Por un policía en 12 horas de servicio diurno, riesgo alto: $17,533.00
+
+C) Por un policía en 12 horas de servicio nocturno: $15,046.00
+
+D) Por un policía en 24 horas de servicio, riesgo medio: $24,580.00
+
+E) Por un policía en 24 horas de servicio, riesgo alto: $37,140.00
+
+F) Por la prestación del servicio de escoltas por
+
+cada elemento: $33,409.00
+
+G) Por la prestación del servicio extraordinario
+
+por 12 horas por un policía: $21,886.00
+
+H) Por la prestación del servicio extraordinario
+
+por 24 horas por un policía: $43,771.00
+
+Para la clasificación del riesgo se estará a lo siguiente:
+
+a) Riesgo medio: Los servicios prestados en los que se requiera portar armamento, y
+
+b) Riesgo alto: Los servicios prestados en los lugares en los que se resguarden valores, para los que sea indispensable portar armamento.
+
 ###### Artículo 84.
 
-Los servicios de control vehicular se causarán y pagarán conforme a los siguientes conceptos y tarifas:
+Los servicios en materia de control vehicular se causarán y pagarán previamente por los interesados con base en los términos siguientes:
 
-I. REGISTRO EN EL PADRÓN VEHICULAR ESTATAL, CON EXPEDICIÓN DE PLACAS METÁLICAS, TARJETA DE CIRCULACIÓN, ENGOMADO Y HOLOGRAMA:
+TARIFA
 
-A. Servicio Particular:
+I. REGISTRO EN EL PADRÓN VEHICULAR ESTATAL,
 
-1. Autos: $550.00
+CON EXPEDICIÓN DE PLACAS METÁLICAS,
 
-2. Camión: $550.00
+TARJETA DE CIRCULACIÓN, ENGOMADO Y
 
-3. Demostradoras: $700.00
+HOLOGRAMA:
 
-4. Remolque: $500.00
+A). Servicio Particular:
 
-5. Con capacidades diferentes: $300.00
+1. Autos: $708.00
 
-6. Motocicletas: $275.00
+2. Camión: $708.00
 
-7. Auto antiguo: $650.00
+3. Demostradoras: $901.00
 
-B. Servicio Público de:
+4. Remolque: $644.00
 
-1. Transporte de pasajeros sin itinerario fijo: $800.00
+5. Con capacidades diferentes: $386.00
 
-2. Transporte de pasajeros con itinerario fijo: $800.00
+6. Motocicletas: $354.00
 
-3. Carga en general: $800.00
+7. Auto antiguo: $837.00
+
+B. Servicio Público:
+
+1. Transporte de pasajeros sin itinerario fijo: $1.030.00
+
+2. Transporte de pasajeros con itinerario fijo: $1,030.00
+
+3. Carga en general: $1,030.00
 
 4. Por sustitución o reposición de placas para todo
 
-el servicio de transporte público: $800.00
+el servicio de transporte público: $1,030.00
 
-II. REFRENDO ANUAL DE LOS DERECHOS DE CONTROL VEHICULAR, CON EXPEDICIÓN DE TARJETA DE CIRCULACIÓN Y HOLOGRAMA:
+II. REFRENDO ANUAL DE LOS DERECHOS DE
 
-A. Servicio Particular:
+CONTROL VEHICULAR, CON EXPEDICIÓN DE
 
-1. Autos: $350.00
+TARJETA DE CIRCULACIÓN Y HOLOGRAMA:
 
-2. Camión: $300.00
+A). Servicio Particular:
 
-3. Demostradoras: $300.00
+1. Autos: $451.00
 
-4. Remolque: $300.00
+2. Camión: $386.00
 
-5. Con capacidades diferentes: $200.00
+3. Demostradoras: $386.00
 
-6. Motocicletas: $150.00
+4. Remolque: $386.00
 
-7. Auto antiguo: $300.00
+5. Con capacidades diferentes: $258.00
 
-B. Servicio Público de:
+6. Motocicletas: $193.00
 
-1, Transporte de pasajeros sin itinerario fijo: $350.00
+7. Auto antiguo: $386.00
 
-2. Transporte de pasajeros con itinerario fijo: $350.00
+B). Servicio Público:
 
-3. Carga en general: $350.00
+1. Transporte de pasajeros sin itinerario fijo: $451.00
 
-III. SERVICIO DE CONTROL VEHICULAR PARA CIRCULAR SIN PLACAS, TARJETA DE CIRCULACIÓN Y ENGOMADO, OTROS SERVICIOS:
+2. Transporte de pasajeros con itinerario fijo: $451.00
 
-A. Expedición de permisos para circular sin placas,
+3. Carga en general: $451.00
+
+III. SERVICIO DE CONTROL VEHICULAR
+
+PARA CIRCULAR SIN PLACAS, TARJETA DE
+
+CIRCULACIÓN Y ENGOMADO, OTROS SERVICIOS:
+
+A). Expedición de permisos para circular sin placas,
 
 tarjeta de circulación y engomado, para el servicio
 
 particular:
 
-1. Para automóvil por treinta días: $200.00
+1. Para automóvil por treinta días: $258.00
 
-2. Para camión por treinta días: $200.00
+2. Para camión por treinta días: $258.00
 
-3. Para camión o automóvil por tres días: $80.00
+3. Para camión o automóvil por tres días: $103.00
 
-B. Reexpedición de Tarjeta de Circulación y Holograma: $200.00
+B). Expedición de Tarjeta de Circulación y Holograma
 
-C. Certificaciones de documentos para circular y
+por cambio de propietario de servicio particular : $258.00
 
-expedición de constancias: $ 80.00
+C). Reexpedición de Tarjeta de Circulación y Holograma
 
-D. Baja de registro en el Padrón Vehicular Estatal: $100.00
+de servicio particular: $258.00
 
-E. Servicio de trámite de baja de registro en padrones
+D) Certificaciones de documentos para circular y
 
-vehiculares de otras Entidades Federativas: $250.00
+expedición de constancias $103.00
 
-F. Expedición anual de Gafete de Operador del
+E) Baja de registro en el Padrón Vehicular Estatal
 
-Servicio Público $40.00
+de servicio particular $129.00
 
-IV. CONCESIONES DEL SERVICIO PÚBLICO DE TRANSPORTEY (SIC) SU RENOVACIÓN:
+F). Servicio de trámite de baja de registro en padrones
 
-A. Expedición de Concesión del Servicio Público de Transporte, por un período de 10 años:
+vehiculares de otras Entidades Federativas: $322.00
 
-1. Servicio Público de Transporte de pasajeros con itinerario fijo: $24,000.00
+G. Expedición o refrendo de Gafete de Operador del
 
-2. Servicio Público de Transporte de pasajeros sin itinerario fijo: $20,000.00
+Servicio Público $52.00
 
-3. Servicio Público de carga: $12,000.00
+H) Expedición de permisos para circular sin placas y
 
-B. Renovación de la Concesión del Servicio Público de Transporte, por un periodo de 10 años:
+engomado para el servicio público:
 
-1. Servicio Público de Transporte de pasajeros con itinerario fijo: $12,000.00
+1. Permiso para circular transporte público con itinerario fijo $258.00
 
-2. Servicio Público de Transporte de pasajeros sin itinerario fijo: $10,000.00
+2. Permiso para circular transporte público sin itinerario fijo $258.00
 
-3. Servicio Público de carga: $ 6,000.00
+3. Permiso para circular, transporte público de carga $258.00
 
-V. TARJETONES PARA EL SERVICIO PÚBLICO DE TRANSPORTE
+I) Sustitución de vehículo de servicio público con
 
-A. Expedición de Tarjetón para vehículos de servicio público de transporte:
+expedición de tarjeta de circulación y holograma $193.00
 
-1. Servicio Público de Transporte de pasajeros con itinerario fijo: $250.00
+J) Baja de registro de servicio público de transporte: $129.00
 
-2. Servicio Público de Transporte de pasajeros sin itinerario fijo: $250.00
+IV. CONCESIONES DEL SERVICIO PÚBLICO
 
-3. Servicio Público de carga: $250.00
+DE TRANSPORTE Y SU RENOVACIÓN:
 
-B. Canje anual de Tarjetón
+A. Expedición de Concesión del Servicio Público de Transporte,
 
-1. Servicio Público de Transporte de pasajeros con itinerario fijo: $200.00
+por un período de 10 años:
 
-2. Servicio Público de Transporte de pasajeros sin itinerario fijo: $200.00
+1. Servicio Público de Transporte de pasajeros con
 
-3. Servicio Público de carga: $200.00
+itinerario fijo: $30,900.00
 
-C. Reposición de Tarjetón: $200.00
+2. Servicio Público de Transporte de pasajeros sin
+
+itinerario fijo: $25,750.00
+
+3. Servicio Público de carga: $15,450.00
+
+B. Renovación de la Concesión del Servicio Público
+
+de Transporte, por un periodo de 10 años:
+
+1. Servicio Público de Transporte de pasajeros con
+
+itinerario fijo: $5,400.00
+
+2. Servicio Público de Transporte de pasajeros
+
+sin itinerario fijo: $4,500.00
+
+3. Servicio Público de Carga: $ 2,700.00
+
+V. TARJETONES PARA EL SERVICIO PÚBLICO
+
+DE TRANSPORTE
+
+A). Expedición de Tarjetón para vehículos de
+
+servicio público de transporte:
+
+1. Servicio Público de Transporte de pasajeros
+
+con itinerario fijo: $322.00
+
+2. Servicio Público de Transporte de pasajeros
+
+sin itinerario fijo: $322.00
+
+3. Servicio Público de carga: $322.00
+
+B). Canje anual de Tarjetón
+
+1. Servicio Público de Transporte de pasajeros
+
+con itinerario fijo: $258.00
+
+2. Servicio Público de Transporte de pasajeros
+
+sin itinerario fijo: $258.00
+
+3. Servicio Público de Carga: $258.00
+
+C). Reposición de Tarjetón: $258.00
 
 VI. CESIONES DE DERECHOS:
 
-A. Servicio Público de Transporte de pasajeros con itinerario fijo: $12,000.00
+A). Servicio Público de Transporte de pasajeros
 
-B. Servicio Público de Transporte de pasajeros sin itinerario fijo: $10,000.00
+con itinerario fijo: $5,400.00
 
-C. Servicio Público de carga: $ 6,000.00
+B). Servicio Público de Transporte de pasajeros sin
 
-VII. SERVICIO DE CONTROL VEHICULAR ANUAL PARA TERMINALES DEL SERVICIO PÚBLICO:
+itinerario fijo: $4,500.00
 
-1. Expedición de autorización para Terminales
+C). Servicio Público de Carga: $ 2,700.00
 
-de Línea a Transporte de Servicio Público de Pasajeros: $1,500.00
+VII. SERVICIO DE CONTROL VEHICULAR
 
-2. Expedición de autorización para Terminales de
+ANUAL PARA TERMINALES DEL SERVICIO
 
-Línea a Transporte de Servicio Público de carga: $1,500.00
+PÚBLICO:
 
-VIII. SERVICIO DE CONTROL VEHICULAR POR AUTORIZACIÓN DE RUTA Y DE UNIDADES POR CADA RUTA:
+A). Expedición de autorización para Terminales
 
-1. Servicio de control vehicular por autorización de ruta
+de Línea a Transporte de Servicio Público de Pasajeros: $1,931.00
 
-para transporte público de pasajeros con itinerario fijo: $2,000.00
+B). Expedición de autorización para Terminales de
 
-2. Servicio de control vehicular por autorización de
+Línea a Transporte de Servicio Público de carga: $1,931.00
+
+VIII. SERVICIO DE CONTROL VEHICULAR POR
+
+AUTORIZACIÓN DE RUTA Y DE UNIDADES
+
+POR CADA RUTA:
+
+A). Servicio de control vehicular por autorización de ruta
+
+para transporte público de pasajeros con itinerario fijo: $2,575.00
+
+B). Servicio de control vehicular por autorización de
 
 unidades de transporte público de pasajeros con
 
-itinerario fijo en cada ruta, por cada unidad vehicular: $500.00
+itinerario fijo en cada ruta, por cada unidad vehicular: $644.00
 
 IX. DEPÓSITO Y ARRASTRE DE VEHÍCULOS
 
-1. Protección y control de vehículos en depósito,
+A). Protección y control de vehículos en depósito,
 
-pensión diaria: $25.00
+pensión diaria: $32.00
 
-2. Por arrastre de grúas de un resguardo de vehículos a otro: $80.00
+B). Por arrastre de grúas de un resguardo de vehículos a otro: $103.00
 
-3. Por arrastre de grúas en la vía pública en el
+C). Por arrastre de grúas en la vía pública en el
 
-Municipio de Cuernavaca. Morelos. $300.00
+Municipio de Cuernavaca, Morelos. $386.00
 
-4. Por arrastre de grúas en la vía pública, fuera del
+D). Por arrastre de grúas en la vía pública, fuera del
 
 Municipio de Cuernavaca, Morelos, se cobrará lo
 
-señalado en el numeral anterior de esta fracción,
+señalado en el inciso anterior de esta fracción,
 
-adicionando por cada kilómetro de arrastre la cantidad de: $20.00
+adicionando por cada kilómetro de arrastre la cantidad de: $26.00
 
-5. Inventario o resguardo de vehículos $80.00
+E). Inventario o resguardo de vehículos $103.00
 
 X. CERTIFICACIÓN DE REVISTA MECÁNICA
 
 PARA UNIDADES VEHICULARES DEL SERVICIO
 
-PÚBLICO, CON EXPEDICIÓN DE HOLOGRAMA: $100.00
+PÚBLICO, CON EXPEDICIÓN DE HOLOGRAMA: $129.00
 
 XI. PERMISO PARA PUBLICIDAD
 
-1. En Transporte Público con itinerario fijo por mes, en la
+A). En Transporte Público con itinerario fijo por mes, en la
 
-parte trasera de la unidad, sin obstruir la visibilidad: $100.00
+parte trasera de la unidad, sin obstruir la visibilidad: $129.00
 
-2. En Transporte Público con itinerario fijo por mes,
+B). En Transporte Público con itinerario fijo por mes,
 
-en la parte trasera y lateral de la unidad, sin obstruir la
+en las partes laterales de la unidad, sin obstruir la
 
-identificación cromática ni la visibilidad: $250.00
+identificación cromática ni la visibilidad: $193.00
 
-3. En transporte público sin itinerario fijo por mes. $50.00
+C). En transporte público con itinerario fijo por mes,
+
+En la partes trasera y laterales de la unidad, sin obstruir la
+
+identificación cromática ni la visibilidad $322.00
+
+D) En transporte público sin itinerario fijo por mes: $64.00
 
 XII. REGISTRO ANUAL DE APODERADO LEGAL
 
-PARA TRÁMITES DE CONTROL VEHICULAR. $500.00
+PARA TRÁMITES DE CONTROL VEHICULAR: $644.00
 
-XIII. LICENCIAS PARA MANEJAR VEHÍCULOS:
+XIII. EXPEDICIÓN DE LICENCIAS PARA
 
-A. Expedición:
+MANEJAR VEHÍCULOS:
 
-1. Con vigencia de un año:
+A). Con vigencia de un año:
 
-a) Chofer: $360.00
+1) Chofer: $464.00
 
-b) Automovilista: $240.00
+2) Automovilista: $309.00
 
-c) Motociclista: $200.00
+3) Motociclista: $258.00
 
-d) Turista: $320.00
+4) Turista: $412.00
 
-2. Con vigencia de tres años:
+B). Con vigencia de tres años:
 
-a) Chofer: $440.00
+1) Chofer: $567.00
 
-b) Automovilista: $320.00
+2) Automovilista: $412.00
 
-c) Motociclista: $282.00
+3) Motociclista: $363.00
 
-3. Con vigencia de cinco años:
+C). Con vigencia de cinco años:
 
-a) Chofer: $520.00
+1) Chofer: $670.00
 
-b) Automovilista: $400.00
+2) Automovilista: $515.00
 
-c) Motociclista: $360.00
+3) Motociclista: $464.00
 
-4. Expedición de permiso provisional para menores de 18 años:
+D). Expedición de certificación para operar vehículos
 
-a) Automovilista: $300.00
+del servicio de transporte público
 
-b) Motociclista: $320.00
+Con vigencia de tres años $812.00
 
-5. Reposición de licencia para manejar vehículos:
+Con vigencia de cinco años $1,062.00
 
-a) Chofer: $150.00
+E). Expedición de permiso provisional para menores de 18 años:
 
-b) Automovilista: $150.00
+1) Automovilista: $386.00
 
-c) Motociclista: $150.00
+2) Motociclista: $412.00
+
+F). Reposición de licencia para manejar vehículos:
+
+1) Chofer: $193.00
+
+2) Automovilista: $193.00
+
+3) Motociclista: $193.00
+
+4) Operador certificado $193.00
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -2149,9 +2485,9 @@ Los demás derechos regulados en este Capítulo se pagarán en el momento en que
 
 Estarán exentas de los derechos a que se refieren las fracciones I y II, del artículo 84 de la presente Ley, las unidades vehiculares propiedad de los Municipios del Estado de Morelos, destinadas a los servicios que prestan corporaciones policiacas y de vigilancia, de Protección Civil, ambulancias, bomberos y servicios de limpia.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
-Para la reposición o sustitución de placas metálicas de circulación de unidades vehiculares, distintas a las señaladas en el párrafo anterior, se aplicarán las tarifas señaladas en el apartado A, de la fracción I, del artículo 84 de la presente Ley.
+Para la reposición o sustitución de placas metálicas de circulación de unidades vehiculares, distintas a las señaladas en el párrafo anterior, se aplicarán las tarifas señaladas en el inciso a), de la fracción I, del artículo 84 de la presente Ley.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
 
@@ -2173,11 +2509,9 @@ IV.- Son responsables solidarios en los trámites de baja del padrón estatal ve
 
 V.- Las personas físicas o morales que adquieran vehículos nuevos o usados y que no cuenten con placas metálicas de circulación expedidas por el Gobierno del Estado de Morelos, deberán solicitar la inscripción al padrón vehicular estatal y realizar el pago de los derechos por servicios de control vehicular correspondientes, dentro de los treinta días naturales siguientes a la fecha de su adquisición
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SÉPTIMO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2012)</small>
-
-VI.- Acreditar la inscripción de la unidad vehicular de que se trate, en los términos de la Ley de Registro Público Vehicular, mediante la exhibición de la constancia de inscripción correspondiente, previo a la solicitud de alta, expedición de placas metálicas de circulación, calcomanías, autorizaciones, permisos, cambio de propietario, tarjeta de circulación, pago de contribuciones, gravámenes, permisos y autorizaciones de carga, expedición de concesiones del servicio público de pasajeros y de carga y sus refrendos. En caso de no comprobarse dicha inscripción, la autoridad competente no dará trámite a ninguna solicitud de las mencionadas en esta fracción.
+VI. Acreditar la inscripción de la unidad vehicular de que se trate, en los términos de la Ley de Registro Público Vehicular y su Reglamento, mediante la exhibición de la constancia de inscripción correspondiente, previo a la solicitud de alta, expedición de placas metálicas de circulación, calcomanías, cambio de propietario, tarjeta de circulación, pago de contribuciones, gravámenes, permisos y autorizaciones de transporte público de pasajeros y de carga, expedición de concesiones del servicio público de pasajeros y de carga y sus refrendos. En caso de no comprobarse dicha inscripción, la autoridad competente no dará trámite a ninguna solicitud de las mencionadas en esta fracción, y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SÉPTIMO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2197,409 +2531,541 @@ Artículo 84 BIS-3. No obstante lo dispuesto por el artículo 84 BIS, en el ejer
 
 ### CAPÍTULO NOVENO. DEL CONTROL DE LOS SERVICIOS DE SEGURIDAD PRIVADA
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 85.
 
-El pago de derechos por la prestación de servicios en materia de desarrollo sustentable, se causará y pagará, en la siguiente forma:
+Los servicios en materia de desarrollo sustentable causarán derechos y se pagarán previamente por los interesados, en la siguiente forma:
+
+TARIFA
 
 I. EN MATERIA DE CALIDAD DEL AIRE:
 
-a) FUENTES FIJAS. Tarifa
+A) FUENTES FIJAS.
 
-1. Combustión a cielo abierto $319.00
+1. Combustión a cielo abierto por cada evento a realizar se
+
+pagará $411.00
+
+B) FUENTES MÓVILES
 
 1. Costo de la Verificación por tipo de Holograma:
 
-1.1. Holograma 1: $120.00
+1.1. Por verificación vehicular tipo "1"; $220.00
 
-1.2. Holograma 2: $120.00
+1.2. Por verificación vehicular tipo "2"; $220.00
 
-1.3. Holograma 0: $319.00
+1.3. Por verificación vehicular tipo "0"; $319.00
 
-1.4. Holograma 00: $638.00
+1.4. Por verificación vehicular tipo "00"; $638.00
 
-1.5. Holograma E: EXENTO
+1.5. Holograma tipo E"; exento
 
 2. Por otorgamiento de autorización para establecer, equipar
 
-y operar Verificentro o Centro de Diagnóstico de
+y operar un verificentro o centro de diagnóstico de
 
-Emisiones Contaminantes en el Estado de Morelos,
+emisiones contaminantes en el Estado de Morelos,
 
 por cada equipo analizador de gases, con vigencia de
 
-cinco años: $45,000.00
+cinco años: $51,813.00
 
 3. Por la renovación de la autorización para establecer,
 
-equipar y operar Verificentro o Centro de Diagnóstico
+equipar y operar verificentro o centro de diagnóstico
 
-de Emisiones Contaminantes en el Estado de Morelos,
+de emisiones contaminantes en el Estado de Morelos,
 
 por cada equipo analizador de gases, con vigencia de
 
-cinco años: $45,000.00
+cinco años: $51,813.00
 
-4. Por la alta del registro de un técnico verificador de
+4. Por la alta de un técnico verificador de
 
-Verificentro o Centro de Diagnóstico de Emisiones
+verificentro o centro de diagnóstico de emisiones
 
-Contaminantes: $319.00
+contaminantes: $410.00
 
-5. Por el trámite de la certificación de la verificación vehicular: $32.00
+5. Por el trámite de la certificación de la verificación
 
-6. Multas por verificación extemporánea, servicio particular, por periodo vencido:
+vehicular: $40.00
 
-PERIODOS VENCIDOS MONTO EN SALARIOS MÍNIMOS VIGENTES
+6. Multas por verificación extemporánea del servicio
 
-1 3
+particular por periodo vencido:
 
-2 8
+PERIODOS VENCIDOS MONTO
 
-3 13
+1 $210.00
 
-4 18
+2 $561.00
 
-5 23
+3 $911.00
 
-6 28
+4 $1,262.00
 
-7 33
+5 $1,612.00
 
-8 38
+6 $1,963.00
 
-9 43
+7 $2,313.00
 
-10 48
+8 $2,664.00
 
-7. Multas por verificación extemporánea, servicio público, por periodo vencido:
+9 $3,014.00
 
-PERIODOS VENCIDOS MONTO EN SALARIOS MÍNIMOS VIGENTES
+10 $3,365.00
 
-1 5
+7. MULTAS POR VERIFICACIÓN EXTEMPORÁNEA,
 
-2 15
+SERVICIO PÚBLICO, POR PERIODO VENCIDO:
 
-3 25
+PERIODOS VENCIDOS MONTO
 
-4 35
+1 $351.00
 
-5 45
+2 $1,052.00
 
-6 55
+3 $1,753.00
 
-7 65
+4 $2,454.00
 
-8 75
+5 $3,155.00
 
-9 85
+6 $3,856.00
 
-10 95
+7 $4,457.00
+
+8 $5,258.00
+
+9 $5,959.00
+
+10 $6,660.00
 
 II. EN MATERIA DE IMPACTO AMBIENTAL
 
-a) Por oficio de no requerimiento de evaluación del
+A) Dictamen de sujeción al procedimiento de evaluación
 
-impacto ambiental: $255.00
+del impacto ambiental: $328.00
 
-b) Por evaluación y autorización de informe preventivo: $6,377.00
+B) Por evaluación y autorización de informe preventivo: $8,210.00
 
-c) Por evaluación y autorización de la Manifestación de Impacto Ambiental Modalidad General:
+C) Por evaluación de la manifestación de impacto
 
-1. Considerando proyectos comerciales de servicios
+ambiental modalidad general:
 
-habitacionales en centros urbanos o ecoturísticos
+Modalidad en general
 
-y/o agropecuarios menores a 1 hectárea: $9,565.00
+1. Considerando proyectos industriales. Comerciales, de
 
-2. Por cada hectárea adicional:
+servicios, habitacionales, de aprovechamiento, turísticos
 
-2.1. Proyectos Turísticos: $9,629.00
+o agropecuarios en una superficie menor a una hectárea: $12,315.00
 
-2.2. Proyectos Habitacionales y Comerciales: $12,053.0
+2. Por cada hectárea adicional en la superficie del predio:
 
-2.3. Proyectos Industriales: $14,029.00
+2.1. Proyectos turísticos y agropecuarios: $12,397.00
 
-2.4. Por compensación ambiental, en proyectos
+2.2. Proyectos habitacionales, comerciales y de servicios: $15,518.00
 
-donde la construcción sea mayor a los 200
+2.3. Proyectos industriales y de aprovechamiento: $18,062.00
 
-metros cuadrados, se pagará adicionalmente
+2.4. Por compensación ambiental, en proyectos donde la
 
-por cada metro cuadrado de construcción: $64.00
+construcción sea mayor a los 200 metros cuadrados,
 
-d) Por evaluación y autorización de la Manifestación
+se pagará adicionalmente por cada metro cuadrado
 
-de Impacto Ambiental Modalidad Especifica: $22,319.00
+de construcción: $8.00
+
+D) Por evaluación de manifestación de impacto ambiental
+
+modalidad específica $28,736.00
 
 1. Por cada hectárea adicional:
 
-1.1. Proyectos Turísticos: $20,024.00
+1.1 Proyectos turísticos y agropecuarios $25,781.00
 
-1.2. Proyectos Habitacionales y Comerciales: $21,618.00
+1.2 Proyectos habitacionales, comerciales y de servicios $27,833.00
 
-1.3. Proyectos Industriales: $24,041.00
+1.3. Proyecto industriales y de aprovechamiento $30,953.00
 
-e) Por Estudios de Riesgo Ambiental:
+E) Por estudio de riesgo ambiental
 
-1. Nivel Uno: $3,188.00
+1. Nivel uno $4,105.00
 
-2. Nivel Dos: $4,018.00
+2. Nivel dos $5,173.00
+
+F) Por la revalidación del resolutivo de impacto ambiental $12,315.00
 
 III. EN MATERIA DE MEJORAMIENTO ECOSISTÉMICO:
 
-a) Venta de Planta Forestal (por unidad):
+A) Venta de Planta Forestal de edad menor a un año, por unidad
 
 1. En Charola: $3.00
 
 2. En Bolsa 15 x 25: $6.00
 
-b) Venta de Planta ornamental (por unidad):
+B) Venta de Planta de edad mayor a un año, por unidad
 
-1. En Bolsa 18 x 30: $25.00
+1. En Charola: $6.00
 
-2. En Bolsa mayor a 18 x 30: $64.00
+2. En Bolsa mayor a 15 x 25: $10.00
+
+C) Venta de planta frutal para beneficiarios del programa
+
+de concurrencia con entidades federativas (por unidad):
+
+1. Aguacate (Hass y Selección Méndez): $25.00
+
+2. Limón persa: $25.00
+
+3. Naranja valencia: $13.00
+
+4. Higo Mission: $10.00
+
+5. Durazno (diamante y robin): $30.00
+
+D) Venta de planta frutal a público en general (por unidad):
+
+1. Aguacate (Hass y Selección Méndez): $60.00
+
+2. Limón persa: $50.00
+
+3. Naranja valencia: $50.00
+
+4. Higo mission: $25.00
+
+5. Durazno (diamante y robin): $20.00
 
 IV. EN MATERIA DE GESTIÓN INTEGRAL DE RESIDUOS:
 
-a) Autorizaciones en materia de gestión integral de residuos en sus diferentes modalidades:
+A) Autorizaciones en materia de gestión integral de residuos en sus
 
-1. De transporte de residuos sólidos urbanos y de manejo especial:
+diferentes modalidades:
 
-1.1. En vehículos hasta 3.5 toneladas: $701.00
+1. De transporte de residuos sólidos urbanos y de manejo
 
-1.2. En vehículos de más de 3.5 y hasta 8 toneladas: $1,403.0
+especial, para vehículos en función de su capacidad de transporte:
 
-1.3. En vehículos mayor a 8 toneladas: $2,806.00
+1.1. Hasta 3.5 toneladas: $903.00
 
-2. De tratamiento de residuos orgánicos:
+1.2. De más de 3.5 y hasta 8 toneladas: $1,806.00
 
-2.1 Capacidad de almacenamiento hasta 30 toneladas: $701.00
+1.3. De más de 8 toneladas: $3,613.00
 
-2.2. Capacidad de almacenamiento de más de 30 y
+2. De tratamiento de residuos orgánicos, por capacidad
 
-hasta 60 toneladas: $1,403.00
+de almacenamiento:
 
-2.3. Capacidad de almacenamiento mayor a 60 toneladas: $2,806.00
+2.1. Hasta 30 toneladas: $903.00
 
-3. De almacenamiento temporal y centros de acopio residuos sólidos urbanos y de manejo especial:
+2.2. De más de 30 y hasta 60 toneladas: $1,806.00
 
-3.1. Capacidad de almacenamiento hasta 30 toneladas: $701.00
+2.3. De más de 60 toneladas: $3,613.00
 
-3.2. Capacidad de almacenamiento de más de 30 y
+3. De capacidad de almacenamiento temporal y centros
 
-hasta 60 toneladas: $1,403.00
+de acopio de residuos sólidos urbanos y de manejo especial:
 
-3.3. Capacidad de almacenamiento mayor a 60 toneladas: $2,806.0
+3.1. Hasta 30 toneladas: $903.00
 
-4. De tratamientos térmicos, químicos, físicos o biológicos de residuos sólidos urbanos y de manejo especial:
+3.2: de más de 30 y hasta 60 toneladas: $1,806.00
 
-4.1. Capacidad de almacenamiento hasta 30 toneladas: $957.00
+3.3. De más de 60 toneladas: $3,613.00
 
-4.2. Capacidad de almacenamiento de más de 30
+4. De capacidad de tratamientos térmicos, químicos,
 
-y hasta 60 toneladas: $1,913.00
+físicos o biológicos dé residuos sólidos urbanos·
 
-4.3. Capacidad de almacenamiento mayor a 60 toneladas: $3,826.00
+y de manejo especial:
 
-5. De operación de un centro de transferencia o
+4.1. Hasta 30 toneladas: $1,994.00
 
-disposición final de residuos sólidos:
+4.2. De más de 30 y hasta 60 toneladas: $2,388.00
 
-5.1. Cantidad de residuos que ingresan menor
+4.3. De más de 60 toneladas: $4, 775.00
 
-a 10 toneladas: $3,188.00
+5. De operación de un centro de transferencia o disposición
 
-5.2. Cantidad de residuos que ingresan de más
+final de residuos sólidos:
 
-de 10 y hasta 50 toneladas: $5,102.00
+5.1. Cantidad de residuos que ingresan hasta 10 toneladas: $3,980.00
+
+5.2. Cantidad de residuos que ingresan de más de 10 y
+
+hasta 50 toneladas: $6,367.00
 
 5.3. Cantidad de residuos que ingresan de más de 50 y
 
-hasta 100 toneladas: $7,652.00
+hasta 100 toneladas: $9,550.00
 
 5.4. Cantidad de residuos que ingresan mayor
 
-a 100 toneladas: $12.754.00
+a 100 toneladas: $15,918.00
 
-6. De remediación de suelos contaminados por residuos sólidos urbanos y de manejo especial:
+6. De remediación de suelos contaminados por residuos
 
-6.1. Por hectárea contaminada: $957.00
+sólidos urbanos y de manejo especial:
+
+6.1. Por hectárea contaminada: $1,994.00
 
 7. Plan de manejo de residuos sólidos urbanos y de manejo especial:
 
-7.1. Registro de Plan de Manejo de residuos sólidos
+7.1. Registro de plan de manejo de residuos sólidos
 
-Urbanos y de Manejo Especial: $1.020.00
+urbanos y de manejo especial: $1,274.00
 
-7.2. Actualización cada tercer año posterior al registro: $510.00
+7.2. Actualización cada tercer año posterior al registro: $637.00
 
 7.3. Por cada metro cuadrado a constituir considerando
 
-proyectos comerciales, de servicios, habitacionales
+proyectos comerciales, de servicios, habitacionales en
 
-en centros urbanos o ecoturisticos y/o agropecuarios: $6.00
+centros urbanos o ecoturísticos o agropecuarios: $8.00
 
-b) Manifiesto de Entrega-Recepción de Residuos
+B) Manifiesto de entrega-recepción de residuos sólidos
 
-Sólidos Urbanos y de manejo Especial: $12.00
+urbanos y de manejo especial: EXENTO
 
 V. LICENCIA AMBIENTAL MORELOS:
 
-a) Para establecimientos, comercios, servicios que tengan interés en instalarse en el estado de Morelos (nuevos):
+Para proyectos de construcción o establecimientos
 
-1. Micro: $10,586.00
+industriales, agropecuarios, turísticos, comerciales, de
 
-2. Pequeña: $15,305.00
+servicios, y de aprovechamiento que tengan interés
 
-3. Mediana: $28,633.00
+en instalarse en el Estado de Morelos (nuevos):
 
-4. Gran: $51,016.00
+Micro: $13,629.00
 
-b) Para establecimientos, comercios o servicios que estén en proceso de instalación selección del sitio, diseño, preparación, construcción u operando y que no cuenten una o más de las autorizaciones en materia ambiental para la actualización de la Licencia, por cada una de ellas:
+Pequeña: $19,705.00
 
-1. Micro: $2.615.00
+Mediana: $36,865.00
 
-2. Pequeña: $3,826.00
+Gran: $65,683.00
 
-3. Mediana: $7,142.00
+B). Para proyectos de construcción o establecimientos comerciales,
 
-4. Gran: $12.754.00
+de servicios, industriales, turísticos, agropecuarios que
 
-c) Para establecimientos, comercios o servicios que estén en proceso de instalación, selección del sitio, diseño, preparación, construcción u operando y que ya cuenten con las autorizaciones correspondientes en materia ambiental para la actualización y obtención del formato de la Licencia:
+ya cuenten con resolutivo de impacto ambiental vigente y
 
-1. Micro: Exento
+pretendan regularizarse en las demás autorizaciones
 
-2. Pequeña: Exento
+ambientales en competencia ambiental por cada una de:
 
-3. Mediana: Exento
+Micro: $3,367.00
 
-4. Gran: Exento
+Pequeña: $4,926.00
 
-VI. EN MATERIA DE IMPACTO URBANO:
+Mediana: $9,195.00
 
-a) Búsqueda de expediente: $64.00
+Gran: $16,421.00
 
-b) Copia simple de documentos del archivo en materia de impacto urbano:
+C) Para proyectos de construcción o establecimientos industriales,
 
-1. Hoja tamaño carta: $67.00
+agropecuarios, turísticos, comerciales, de servicios, y de
 
-2. Hoja tamaño oficio: $68.00
+aprovechamiento que ya cuenten con todas las
 
-3. Hoja tamaño doble carta: $68.00
+autorizaciones ambientales de competencia estatal
 
-c) Copia simple de plano del archivo en materia de impacto urbano:
+vigentes y pretendan obtener la Licencia Ambiental Morelos,
 
-1. Plano de 90 cm x 60 cm (5,400 cm2): $128.00
+por cada una de ellas:
 
-2. Por cada fracción adicional (por lado): $86.00
+Micro: EXENTO
 
-3. Por cada 30 cm adicionales de ancho (1,800 cm2): $89.00
+Pequeña: EXENTO
 
-4. Por cada 30 cm adicionales de longitud (2,700 cm2): $96.00
+Mediana: EXENTO
 
-d) Copia certificada de documentos del archivo en materia de impacto urbano:
+Gran: EXENTO
 
-1. Por la primera hoja: $77.00
+VI. EN MATERIA DE ADMINISTRACIÓN URBANA:
 
-2. De la hoja 2 a la hoja cincuenta: $73.00
+A) Búsqueda de expediente de administración urbana: $88.00
 
-3. De la hoja 51 en adelante: $70.00
+B) Copia simple de documentos del archivo en materia
 
-e) Copia certificada de plano del archivo en materia de impacto urbano:
+de administración urbana:
 
-f) Dictamen de Impacto Urbano, por componente:
+Hoja tamaño carta:
 
-1. Opinión Técnica: $191.00
+1.1. Por la primer hoja: $26.00
 
-2. Dictamen de Impacto Vial: $1,913.00
+1.2. De la hoja 2 a la hoja 50 por hoja: $1.00
 
-3. Dictamen de Protección Civil en materia
+1.3. De la hoja 51 en adelante por hoja: $0.60
 
-de riesgos y vulnerabilidad: $1,913.00
+2. Hoja tamaño oficio:
 
-4. Constancia de no requerimiento de impacto urbano: $1,913.00
+2.1. Por la primer hoja: $28.00
 
-g) Dictamen de Impacto Urbano, por tipo de proyecto:
+2.2. De la hoja 2 a la hoja 50 por hoja: $2.50
+
+2.3. De la hoja 51 en adelante por hoja: $1.00
+
+3. Hoja tamaño doble carta:
+
+3.1. Por la primer hoja: $29.00
+
+3.2. De la hoja 2 a la hoja 50 por hoja: $4.00
+
+3.3. De la hoja 51 en adelante por hoja: $2.00
+
+C) Copia simple de plano del archivo en materia
+
+de administración urbana:
+
+1. Plano de 90 cm x 60 cm (5,400 cm2): $75.00
+
+2. Por cada fracción adicional (por lado):
+
+2.1. Por cada 30 cm adicionales de ancho (1,800 cm2): $38.00
+
+2.2. Por cada 30 cm adicionales de longitud (2,700 cm2): $25.00
+
+D) Copia certificada de documentos del archivo en
+
+materia de administración urbana:
+
+1. Por la primera hoja: $96.00
+
+2. De la hoja 2 a la hoja 50 por hoja: $91.00
+
+3. De la hoja 51 en adelante por hoja: $88.00
+
+E) Copia certificada de plano del archivo en materia de impacto urbano:
+
+1. Plano de 90 cm x 60 cm (5,400 cm2 ): $225.00
+
+Por cada fracción adicional (por lado):
+
+2.1. Por cada 30 cm adicionales de ancho (1,800 cm2): $38.00
+
+2.2. Por cada 30 cm adicionales de longitud (2,700 cm2): $25.00
+
+F) Opinión técnica:
+
+1. Sobre el uso de suelo y unidad de gestión ambiental
+
+de un predio, sin mapas: $125.00
+
+2. Sobre el uso de suelo y unidad de gestión ambiental
+
+de un predio, con mapas: $375.00
+
+3. 3Sobre (sic) uso de suelo, unidad de gestión ambiental y
+
+compatibilidades, con mapas: $500.00
+
+4. Sobre viabilidad urbano-ambiental de un proyecto
+
+arquitectónico o urbano, con mapas: $625.00
+
+G) Asesoría y orientación a promoventes de proyectos en
+
+materia de administración urbana, planeación urbana
+
+o impactos urbanos y viales, por sesión de 1 hora:
+
+H) Asesoría a ciudadanos en materia de administración
+
+urbana, por sesión de una hora: EXENTO
+
+VII. EN MATERIA DE IMPACTO URBANO Y VIAL:
+
+A) Dictamen de impacto vial: $2,463.00
+
+B) Dictamen de protección civil en materia de riesgos
+
+y vulnerabilidad: $2,463.00
+
+C) Constancia de no requerimiento de impacto urbano: $2,493.00
+
+D) Dictamen de impacto urbano, por tipo de proyecto:
 
 1. Apertura, prolongación y ampliación de vías públicas,
 
 de carácter regional o primario, no previstas en los
 
-Programas de Desarrollo Urbano Sustentable, así
+programas de desarrollo urbano sustentable, así
 
-como para los centros de población que carezcan de éstas: $6,377.00
+como para los centros de población que carezcan de éstas: $8,210.00
 
-2. Autorización de fraccionamientos, condominios y
+2. Autorización de fraccionamientos, condominios
 
-conjuntos urbanos que utilicen políticas de
+y conjuntos urbanos que utilicen políticas de redensificación
 
-redensificación focal y en las áreas aptas para el
+focal y en las áreas aptas para el desarrollo urbano para
 
-desarrollo urbano para los proyectos iguales o
-
-superiores a cien viviendas: $6,377.00
+los proyectos iguales o superiores a cien viviendas: $8,210.00
 
 3. Proyectos de ampliación de vivienda, cuando la suma
 
-de lo existente y el incremento rebase los 5.000 metros
+de lo existente y el incremento rebase los 5,000 metros
 
-cuadrados de construcción o cuando ya se tenga
+cuadrados de construcción o cuando ya se tenga una
 
-una evaluación de impacto urbano, y se
+evaluación de impacto urbano, y se incrementen más
 
-incrementen más de 2,500 metros cuadrados de construcción: $6,377.00
+de 2,500 metros cuadrados de construcción: $8,210.00
 
 4. Proyectos de ampliación de usos no habitacionales,
 
 cuando la suma de lo existente y el incremento
 
-rebase 5,000 metros cuadrados de construcción o
+rebase 5,000 metros cuadrados de construcción o cuando
 
-cuando ya se tenga evaluación de impacto urbano
+ya se tenga evaluación de impacto urbano y se incrementen
 
-y se incrementen más de 2,500 metros cuadrados de
-
-construcción: $7.652.00
+más de 2,500 metros cuadrados de construcción: $9,852.00
 
 5. De 1,000 metros cuadrados de construcción en adelante:
 
-5.1. Edificación de oficinas, bodegas, almacenes, despachos
+5.1. Edificación de oficinas, bodegas, almacenes,
 
-y consultorios, locales de comercios o servicios,
+despachos y consultorios, locales de comercios
 
-industria química, farmacéutica, mecánica, automotriz,
+o servicios; industria química, farmacéutica, mecánica,
 
-de ensamblaje, plantas de manufactura, tratamiento o
+automotriz, de ensamblaje, plantas de manufactura,
 
-producción de cualquier tipo, o equipamiento: $9,565.00
+tratamiento o producción de cualquier tipo, o equipamiento: $12,315.00
 
-5.2. Hoteles, moteles, hostales o posadas: $9,565.00
+5.2. Hoteles, moteles, hostales o posadas: $12,315.00
 
 5.3. Centros comunitarios regionales y culturales,
 
 museos, centros de exposiciones temporales,
 
-galerías y similares: $7,652.00
+galerías y similares: $9,852.00
 
-5.4. Auditorios, cines, teatros, salas de conciertos
+5.4. Auditorios, cines, teatros, salas de conciertos o
 
-o plazas de espectáculos: $9.565.00
+plazas de espectáculos: $12,315.00
 
 5.5. Centros de convenciones y salones o jardines
 
-destinados para fiestas y banquetes: $9.565.00
+destinados para fiestas y banquetes: $12,315.00
 
-5.6. Restaurantes, bares, cantinas, botaneras, centros
+5.6. Restaurantes, bares, cantinas, botaneras,
 
-o clubes nocturnos, centros de espectáculos, discotecas: $9,565.00
+centros o clubes nocturnos, centros de espectáculos,
+
+discotecas: $12,315.00
 
 6. De 5,000 metros cuadrados de construcción en adelante:
 
-6.1. Centrales de abasto de cualquier tipo: $12,754.00
+6.1. Centrales de abasto de cualquier tipo: $16,421.00
 
-6.2. Academias e institutos de capacitación
+6.2. Academias e institutos de capacitación técnica,
 
-técnica, profesional o comercial: $9,565,00
+profesional o comercial: $12,315.00
 
 7. De 10,000 metros cuadrados de terreno en adelante:
 
@@ -2609,63 +3075,67 @@ botánicos, etnobotánicas, piscícolas, aviarios, herbolarios,
 
 o locales que contengan de forma legal flora o fauna
 
-de cualquier especie: $314.00
+de cualquier especie: $7,971.00
 
-7.2. Proyectos de usos mixtos (habitacional,
+7.2. Proyectos de usos mixtos (habitacional, comercio,
 
-comercio, servicios o equipamiento): $15,942.00
+servicios o equipamiento): $20,525.00
 
 7.3. Oficinas, despachos y consultorios, comercios,
 
-servicios, industria o equipamiento: $15,942.00
+servicios, industria o equipamiento: $20,525.00
 
 8. Cualquier superficie:
 
-8.1. Depósitos o almacenamiento de combustible;
+8.1. Depósitos o almacenamiento de combustible; estaciones
 
-Estaciones de servicio de combustible para carburación
+de servicio de combustible para carburación diésel, gas LP
 
-Diesel, gas LP y gas natural; Tiendas de autoservicio,
+y gas natural; tiendas de autoservicio, departamentales,
 
-departamentales, centros comerciales y mercados,
+centros comerciales y mercados, con excepción de las
 
-con excepción de las tiendas de conveniencia; Institutos
+tiendas de conveniencia; institutos o escuelas de educación
 
-o escuelas de educación media superior y
+media superior y universidades o institutos politécnicos;
 
-universidades o institutos politécnicos; Instituciones
+instituciones o centros de estudio de posgrado y
 
-o centros de estudio de posgrado y centros de
+centros de investigación públicos o privados;
 
-investigación públicos o privados; Panteones, crematorios,
+panteones, crematorios, velatorios y columbarios;
 
-velatorios y columbarios; Arenas de box y luchas,
+arenas de box y luchas, plazas de toros, lienzos charros,
 
-plazas de toros, lienzos charros, palenques y similares;
+palenques y similares; estadios, hipódromos, autódromos,
 
-Estadios, hipódromos, autódromos, velódromos y similares: $19,131.00
+velódromos y similares: $24,631.00
 
 8.2. Centros de readaptación o reintegración social,
 
-clínicas contra adicciones, reformatorios o tutelares: $19,131.00
+clínicas contra adicciones, reformatorios o tutelares: $24,631.00
 
-8.3. Centros de espectáculos; Terminales de autobuses
+8.3. Centros de espectáculos; terminales de autobuses
 
-de pasajeros o aeropuertos, y Parques industriales: $19,131.00
+de pasajeros o aeropuertos, y parques industriales: $24,631.00
 
-VII. EN MATERIA DEL PARQUE ESTATAL URBANO BARRANCA DE CHAPULTEPEC:
+VIII. EN MATERIA DEL PARQUE ESTATAL
 
-a) ADMISIÓN GENERAL AL PARQUE ESTATAL URBANO BARRANCA DE CHAPULTEPEC:
+URBANO BARRANCA DE CHAPULTEPEC:
 
-1. Admisión General: $10.00
+A) Admisión general al parque estatal urbano barranca de chapultepec:
 
-2. Adultos Mayores y Discapacitados: EXENTO
+1. Admisión general; $10.00
 
-b) ATRACCIONES CONCESIONADAS DEL PARQUE ESTATAL URBANO BARRANCA DE CHAPULTEPEC:
+2. Adultos mayores y personas con discapacidad: EXENTO
+
+B) Atracciones concesionadas del parque estatal urbano
+
+barranca de chapultepec:
 
 1. Herpetario: $10.00
 
-2. Granjita Paraíso: $10.00
+2. Granjita paraíso: $10.00
 
 3. Eco lanchas: $10.00
 
@@ -2673,7 +3143,7 @@ b) ATRACCIONES CONCESIONADAS DEL PARQUE ESTATAL URBANO BARRANCA DE CHAPULTEPEC:
 
 5. Muro de escalar: $30.00
 
-c) ATRACCIONES PROPIAS DEL PARQUE ESTATAL URBANO BARRANCA DE CHAPULTEPEC:
+C) Atracciones propias del parque estatal urbano barranca de Chapultepec:
 
 1. Tren: $10.00
 
@@ -2681,51 +3151,47 @@ c) ATRACCIONES PROPIAS DEL PARQUE ESTATAL URBANO BARRANCA DE CHAPULTEPEC:
 
 3. Planetario: $10.00
 
-4. Casa del terror: 15.00
+4. Eurobongie: $30.00
 
-5. Eurobongie: 30.00
+5. Inflables: $10.00
 
-6. Inflables: $10.00
-
-7. Venta de Plantas: $5.00, $10.00 $15.00 y $20.00
-
-d) OTROS SERVICIOS DEL PARQUE ESTATAL URBANO BARRANCA DE CHAPULTEPEC:
+D) Otros servicios del parque estatal urbano barranca de Chapultepec:
 
 1. Acceso a trotapista de 6:00 a 9:00 horas (corredores): $2.00
 
-2. Acceso a trotapista de 6:00 a 9:00 horas
+2. Acceso a trotapista de 6:00 a 9:00 horas-paquete
 
-paquete 30 días (corredores): $50.00
+de 30 días (corredores): $50.00
 
-3. Renta de local comercial por metro cuadrado (mensual): $75.00/m2
+3. Renta de local comercial por metro cuadrado
 
-4. Exposiciones semifijas (por día) $150.00
+(mensual por metro cuadrado): $77.00
 
-No causarán el Impuesto Adicional los derechos por los servicios a que se refieren los numerales 1, 7 y 8 del inciso b, de la fracción I, las fracciones III y VII del presente artículo.
+4. Exposiciones semifijas (por día): $155.00
 
 ###### Artículo 86.
 
 (DEROGADO, P.O. 26 DE DICIEMBRE DE 2012)
 
-### CAPÍTULO DÉCIMO. DE LOS SERVICIOS PRESTADOS POR INSTITUCIONES EDUCATIVAS PRIVADAS
+### CAPÍTULO NOVENO BIS. DE LOS SERVICIOS DE EVALUACIÓN DE CONTROL DE CONFIANZA
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 87.
 
-Los derechos por la prestación de servicios de Verificación Vehicular obligatoria a que deben ser sometidos los vehículos automotores en circulación registrados en el Estado de Morelos, se actualizarán anualmente en la Ley de Ingresos del Estado, conforme a la Ley de Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos, a las Normas Oficiales Mexicanas en materia ambiental y al Acuerdo que establece el programa de verificación vehicular obligatoria para el Estado de Morelos.
+Los derechos por la prestación de servicios de verificación vehicular obligatoria a que deben ser sometidos los vehículos automotores en circulación en el Estado de Morelos, se actualizarán anualmente en la Ley de Ingresos del Estado, conforme a la Ley de Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos; a las Normas Oficiales Mexicanas en materia ambiental y al Acuerdo que establece el Programa de Verificación Vehicular obligatoria para el Estado de Morelos.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 88.
 
-Son sujetos de los derechos establecidos en este Capítulo, las personas físicas y las personas morales tantos propietarios o poseedoras de vehículos automotores en circulación registrados en el Estado de Morelos.
+Son sujetos de los derechos establecidos en este capítulo, las personas físicas y las personas morales propietarias o poseedoras de vehículos automotores en circulación registrados en el Estado de Morelos.
 
-> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 89.
 
-Todos los vehículos automotores en circulación registrados en el Estado de Morelos, deben ser sometidos a verificación en los periodos que establezca el Programa de Verificación Obligatoria de Emisiones Contaminantes, ante los Centros de Verificación Vehicular autorizados por el Poder Ejecutivo del Estado de Morelos a través de la Secretaría de Desarrollo Sustentable, como lo establece la Ley de Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos.
+Todos los vehículos automotores en circulación en el Estado de Morelos, deben ser sometidos a verificación en los periodos que establezca el programa de verificación vehicular obligatoria para el Estado de Morelos, ante los centros de verificación vehicular autorizados por el Poder Ejecutivo del Estado de Morelos a través de la Secretaría de Desarrollo Sustentable, como lo establece la Ley de Equilibrio Ecológico y la Protección al Ambiente del Estado de Morelos.
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
@@ -2733,17 +3199,17 @@ Todos los vehículos automotores en circulación registrados en el Estado de Mor
 
 Los derechos por concepto de verificación vehicular los ejercerá la Secretaría de Desarrollo Sustentable del Poder Ejecutivo del Estado de Morelos.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 91.
 
-Los vehículos que no hayan sido verificados en los plazos y condiciones estipuladas en el Decreto por el que se establezca el Programa Anual de Verificación Vehicular Obligatoria para el Estado de Morelos, serán considerados extemporáneos y los propietarios o poseedores de los mismos, se harán acreedores al pago de la multa o multas acumuladas, correspondiendo una multa por cada periodo incumplido.
+Los vehículos que no hayan sido verificados en los plazos y condiciones estipuladas en el programa de verificación vehicular obligatoria para el Estado de Morelos, serán considerados extemporáneos y los propietarios o poseedores de los mismos, se harán acreedores al pago de la multa o multas acumuladas, correspondiendo una multa por cada periodo incumplido.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 92.
 
-El importe de las sanciones a que se hagan acreedores los sujetos obligados al pago de estos derechos, deberá ser liquidado directamente, en los términos que establezca para el caso el Programa de Verificación Vehicular Obligatoria para el Estado de Morelos.
+El importe de las sanciones a que se hagan acreedores los sujetos obligados al pago de estos derechos, deberá de ser liquidado junto con estos últimos, de conformidad con lo establecido en el programa de verificación vehicular obligatoria para el Estado de Morelos.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -2753,195 +3219,51 @@ Los ingresos que perciba el Estado por los servicios de verificación vehicular,
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
-### CAPÍTULO DÉCIMO BIS. DE LOS SERVICIOS DE EDUCACIÓN DE NIVEL BÁSICO Y NORMAL PRESTADOS POR INSTITUCIONES PRIVADAS
+### CAPÍTULO DÉCIMO. DE LOS SERVICIOS PRESTADOS POR INSTITUCIONES EDUCATIVAS PRIVADAS
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
-
-Artículo 99 BIS-1. Los derechos por los servicios de educación de nivel básico y normal por instituciones privadas, se causarán de acuerdo con la siguiente tarifa:
-
-I. Por solicitud estudio resolución de trámite de:
-
-a) Cambio o ampliación de domicilio, o establecimiento de
-
-un plantel adicional, respecto de cada plan de estudios
-
-con autorización y/o reconocimiento de validez oficial: $2,806.00
-
-b) Por solicitud, estudio y trámite de autorización para
-
-impartir educación preescolar, primaria, secundaria,
-
-normal y demás para la formación de maestros, sea cual
-
-fuere la modalidad: $829.00
-
-c) Por solicitud, estudio y trámite de reconocimiento de
-
-validez oficial de estudios de los niveles de educación
-
-especial e inicial y de formación para el trabajo, sea cual
-
-fuere la modalidad: $829.00
-
-d) Por resolución de autorización para impartir educación
-
-preescolar, primaria, secundaria, normal y demás para la
-
-formación de maestros, sea cual fuere su modalidad: $4,692.00
-
-e) Por resolución de reconocimiento de validez oficial de
-
-estudios de los niveles educación especial e inicial: $4,719.00
-
-II. Exámenes a Titulo de Suficiencia:
-
-a) De educación primaria: $128.00
-
-b) De educación secundaria, por materia: $64.00
-
-III. Exámenes extraordinarios por materia:
-
-a) De educación secundaria: $32.00
-
-b) De tipo superior (Educación Normal): $45.00
-
-IV. Revisión de certificados de terminación de estudios
-
-de tipo superior (Escuelas Particulares): $32.00
-
-V. Expedición y certificación de título: $128.00
-
-VI. Expedición de reposición de certificados de terminación de estudios:
-
-a) De educación básica: $64.00
-
-b) De tipo superior: $110.00
-
-VII. Por solicitud de revalidación de estudios de
-
-educación básica: $128.00
-
-VIII. Consulta de archivo: $64.00
-
-IX. Por solicitud de equivalencia de estudios de
-
-educación básica: $128.00
-
-X. Inspección y vigilancia de establecimientos educativos particulares, por alumno inscrito en cada ejercicio escolar:
-
-a) De educación superior: $102.00
-
-b) De educación secundaria: $64.00
-
-c) De educación primaria: $64.00
-
-d) De educación preescolar: $64.00
-
-e) De educación inicial: $64.00
-
-XI. Certificación de firmas en documentos oficiales: $128.00
-
-XII. Kárdex (reposición): $32.00
-
-XIII. Duplicado de boleta (público en general): $64.00
-
-XIV. Boletas de inicio de ciclo escolar
-
-(escuelas particulares): $5.00
-
-XV. Reposición de boletas (Planteles): $6.00
-
-XVI. Sello del Sistema Educativo Nacional: $128.00
-
-XVII. Expedición de constancias: $32.00
-
-XVIII. Certificación de título y/o Acta de examen
-
-profesional: $255.00
-
-XIX. Certificación de firmas en documentos
-
-oficiales para el extranjero: $128.00
-
-XX. Bases para la obtención de Autorización de y/o
-
-Reconocimiento de Validez Oficial Estudios: $446.00
-
-XXI. Validación de boletas de Educación Normal: $38.00
-
-XXII. Diplomas: $32.00
-
-XXIII. Pago de cambio de Titular del Acuerdo de
-
-Autorización o Reconocimiento de Validez Oficial
-
-de Estudios (por nivel educativo): $4,655.00
-
-XXIV. Pago de reposición del formato de certificación
-
-de estudios de educación normal: $96.00
-
-XXV. Pago de reposición del formato de título de
-
-Educación Normal: $96.00
-
-XXVI. Pago de reposición del formato de certificado
-
-de Educación Normal: $96.00
-
-XXVII. Pago del refrendo de Autorización o Reconocimiento
-
-de Validez Oficial de Estudios: $638.00
-
-XXVIII. Pago de solicitud de revalidación de nivel
-
-Secundaria (por grado escolar): $128.00
-
-XXIX. Cambio de nombre de escuela particular
-
-(por nivel educativo): $1,275.00
-
-Los derechos que establece el presente artículo no causarán el Impuesto Adicional.
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 93 Bis.
 
-El pago de derechos por la prestación de servicios que proporciona la Comisión Estatal del Agua, se causarán en la siguiente forma:
-
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+Los servicios que presta la Comisión Estatal del Agua causarán derechos y se pagarán previamente por los interesados conforme a esta Ley, con base en los términos siguientes:
 
 I. EN MATERIA DE AGUA Y SANEAMIENTO:
 
-a) Maniobra de extracción de equipo de bombeo de pozo
+A) Maniobra de extracción de equipo de bombeo de pozo
 
-profundo con grúa a distancia de 50 Km. de Cuernavaca: $5,739.00
+profundo con grúa a distancia de 50 Km. de Cuernavaca: $7,389.00
 
-b) Maniobra de instalación de equipo de bombeo de pozo
+B) Maniobra de instalación de equipo de bombeo de pozo
 
-profundo con grúa a distancia de 50 Km de Cuernavaca: $5,739.00
+profundo con grúa a distancia de 50 Km de Cuernavaca: $7,389.00
 
-c) Traslado de maquinaria pesada (grúa) en Km. subsecuente: $96.00
+C) Traslado de maquinaria pesada (grúa) por Km subsecuente: $124.00
 
-d) Colocación o desinstalación de dosificador de cloro: $829.00
+D) Colocación o desinstalación de dosificador de cloro: $1,067.00
 
-e) Aforo con equipo digital; $4.145.00
+E) Aforo con equipo digital; $5.337.00
 
-f) Detección de fuga de agua con equipo digital en líneas o redes $2,870.00
+F) Detección de fuga de agua con equipo digital
 
-g) Revisión electromecánica de sistemas de agua. $4,974.00
+en líneas o redes $3,695.00
 
-h) Por la recepción de aguas residuales (por metro cúbico) $6.0
+G) Revisión electromecánica de sistemas de agua. $6,404.00
 
-i) Por recepción de focos provenientes de fosas sépticas y
+H) Por la recepción de aguas residuales (por metro cúbico) $8.00
 
-sanitarios portátiles (por metro cúbico), y $6.00
+I) Por recepción de focos provenientes de fosas sépticas y
 
-j) Por desazolve de fosas sépticas, sanitarios portátiles y drenaje $2.870.00
+sanitarios portátiles (por metro cúbico), $8.00
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+J) Por desazolve de fosas sépticas, sanitarios
+
+portátiles y drenaje $3.695.00
 
 II. EN MATERIA DE DIFUSIÓN Y CULTURA DEL AGUA
 
-Por la venta de material didáctico (ejemplar) y videos (pieza) $64.00
+A) Por la venta de material didáctico (ejemplar) y
+
+videos (pieza) $82.00
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
@@ -2955,79 +3277,81 @@ a) Por cada dictamen de factibilidad de obra hidráulica, deberá pagar a la Com
 
 b) Por cada dictamen de factibilidad de estudio o proyecto de obra hidráulica, incluyendo su registro, deberán pagar por concepto de derechos el 2% del monto total estimado o contratado para la realización del estudio o proyecto.
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 93 Bis
 
-2. Por la elaboración total o parcial de estudios de pre inversión, proyectos ejecutivos y/o técnicos en materia de agua, se pagará el derecho, conforme a las siguientes cuotas:
+2. Por la elaboración total o parcial de estudios de pre inversión, proyectos ejecutivos o técnicos en materia de agua, se pagarán los derechos, conforme a lo siguiente:
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+TARIFA:
 
-a) Por la elaboración total del proyecto ejecutivo de $1´594,250.00 a $3´188,500.00
+I. Por la elaboración total del proyecto ejecutivo: $2,052,597.00
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+II. Por la elaboración total del estudio de pre inversión $697.883.00
 
-b) Por la elaboración total del estudio de pre inversión de $542,045.00 a $1´594.250.00
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+###### Artículo 93 Bis
 
-Artículo 93 BIS-3. Por la elaboración de estudios básicos, relacionados con topografía, geología, hidrología hidráulica o ingeniería de $95,655.00 a $3´188,500.00
+3. Por la elaboración de estudios básicos, relacionados con topografía, geología, hidrología hidráulica o ingeniería se pagará el derecho de $123,156.00
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 93 Bis
 
 4. Las aguas residuales provenientes de plantas de tratamiento podrán ser aprovechadas y reutilizadas para actividades donde el público usuario este expuesto directamente o en contacto físico y actividades donde el público en general este expuesto indirectamente o en contacto físico incidental y de acceso restringido.
 
-La tarifa estimada por el reúso de estas aguas residuales tratadas se hará en razón de lo siguiente:
+La tarifa por el reúso de estas aguas residuales tratadas se hará en razón de lo siguiente:
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+TARIFA
 
-a) Por cada pipa (6m3) de agua residual tratada con fines de servicio público con contacto directo y con destino de traslado a veinte kilómetros de distancia desde el punto de llenado: $286.00;
+I. Por cada pipa (6 m3) de agua residual tratada con
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+fines de servicio público con contacto directo y con
 
-b) Por cada pipa (6m3) de agua residual tratada con fines de servicio al público con contacto indirecto u ocasional y con destino de traslado a veinte kilómetros de distancia desde el punto de llenado: $223.00;
+destino de traslado a veinte kilómetros de distancia
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+desde el punto de llenado: $368.00
 
-c) Por cada cinco kilómetros adicionales de distancia desde el punto de llenado en cualquier de los dos supuestos señalados $16.00;
+II. Por cada pipa (6 m3) de agua residual tratada
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+con fines de servicio al público con contacto indirecto
 
-d) Por cada carga de pipa con capacidad máxima de 6m3 de agua residual tratada con fines de servicio al público con contacto directo: $96.00, y
+u ocasional y con destino de traslado a veinte
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+kilómetros de distancia desde el punto de llenado: $287.00
 
-e) Por cada carga de pipa con capacidad máxima de 6m3 de agua residual tratada con fines de servicio al público con contacto indirecto u ocasional: $64.00.
+III. Por cada cinco kilómetros adicionales de
+
+distancia desde el punto de llenado en cualquier de los
+
+dos supuestos señalados: $21.00
+
+IV. Por cada carga de pipa con capacidad máxima de
+
+(6m3) de agua residual tratada con fines de servicio
+
+al público con contacto directo: $124.00
+
+V. Por cada carga de pipa con capacidad máxima de 6m3 de
+
+agua residual tratada con fines de servicio al público
+
+con contacto indirecto u ocasional: $82.00
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 93 Bis
+
+5. Por la consultoría y asesoría especializada que brinde la Comisión Estatal del Agua al público en general, se cobrará $740.00 por hora.
 
 > <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-Artículo 93 BIS-5. Por la consultoría y asesoría especializada que brinde la Comisión Estatal del Agua al público en general, se cobrará $575.00 por hora.
-
 Para determinar el costo del servicio de consultoría y asesoría a que se refiere el párrafo anterior, se deberá considerar el tiempo invertido en el desarrollo de los trabajos e investigación que realice la Comisión Estatal de Agua con motivo del servicio solicitado.
 
-###### Artículo 93 Bis
+### CAPÍTULO DÉCIMO BIS. DE LOS SERVICIOS DE EDUCACIÓN DE NIVEL BÁSICO Y NORMAL PRESTADOS POR INSTITUCIONES PRIVADAS
 
-4. Las aguas residuales provenientes de plantas de tratamiento podrán ser aprovechadas y reutilizadas para actividades donde el público usuario este expuesto directamente o en contacto físico y actividades donde el público en general este expuesto indirectamente o en contacto físico incidental y de acceso restringido.
-
-La tarifa estimada por el reúso de estas aguas residuales tratadas se hará en razón de lo siguiente:
-
-a) Por cada pipa (6m3) de agua residual tratada con fines de servicio público con contacto directo y con destino de traslado a veinte kilómetros de distancia desde el punto de llenado: 4.5 SMGV.
-
-b) Por cada pipa (6m3) de agua residual tratada con fines de servicio al público con contacto indirecto u ocasional y con destino de traslado a veinte kilómetros de distancia desde el punto de llenado: 3.5 SMGV.
-
-c) Por cada cinco kilómetros adicionales de distancia desde el punto de llenado en cualquier de los dos supuestos señalados 0.25 SMGV.
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-d) Por cada carga de pipa con capacidad máxima de 6m3 de agua residual tratada con fines de servicio al público con contacto directo: 1.50 SMGV.
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-e) Por cada carga de pipa con capacidad máxima de 6m3 de agua residual tratada con fines de servicio al público con contacto indirecto u ocasional: 1.00 SMGV.
-
-### CAPÍTULO DÉCIMO PRIMERO. REGISTRO DE TÍTULOS PROFESIONALES, EXPEDICIÓN DE CÉDULAS Y CONEXOS
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 94.
 
@@ -3123,531 +3447,623 @@ VI. Por la prestación del Servicio de Escolta, por cada elemento:
 
 2. Tarifa mensual $25,699.00
 
+### CAPÍTULO DÉCIMO PRIMERO. REGISTRO DE TÍTULOS PROFESIONALES, EXPEDICIÓN DE CÉDULAS Y CONEXOS
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 95.
+
+Son contribuyentes de los derechos establecidos en este Capítulo, las personas físicas y las personas morales que se dediquen a proporcionar servicios de seguridad privada en el Territorio del Estado.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 96.
+
+Los derechos por los servicios de registro de control y de vigilancia de las personas físicas o personas morales que se dediquen a la prestación de los servicios de seguridad privada, se causarán y pagarán con base en los términos siguientes:
+
+TARIFA
+
+I. Por la autorización para su funcionamiento y registro: $10,300.00
+
+II. Por la revalidación anual de la autorización registro: $5,150.00
+
+III. Por el registro y expedición de la cédula de registro
+
+de cada elemento de seguridad: $155.00
+
+IV. Por la revalidación anual y reposición de la cédula a
+
+que se refiere la fracción anterior: $77.00
+
+V. Por la autorización de traslado y custodia de fondos,
+
+valores o bienes vinculados con el servicio de seguridad: $14,484.00
+
+VI. Por la revalidación anual de la autorización de traslado
+
+y custodia de fondos, valores o bienes: vinculados con
+
+el servicio de seguridad: $10,300.00
+
+VII. Emisión de credencial individual que acredita
+
+el registro del elemento ante la Dirección: $64.00
+
+VIII. Por el estudio de procedencia de la autorización: $386.00
+
+IX. Otros servicios: $2, 575.00
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
 ### CAPÍTULO DÉCIMO SEGUNDO. REGISTRO DE CONTRATOS DE ARRENDAMIENTO Y OTROS CONTRATOS
 
 RELATIVOS A INMUEBLES
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
-###### Artículo 95.
+###### Artículo 96 Bis.
 
-Son contribuyentes de los derechos establecidos en este Capítulo, las personas jurídico-individuales o físicas y jurídico-colectivas o morales que se dediquen a proporcionar servicios de seguridad privada en el territorio del Estado.
+Los derechos por las evaluaciones que realiza el Centro de Evaluación de Control de Confianza de la Secretaría de Gobierno, se causarán y se pagarán previamente por los interesados conforme a esta Ley, con base en los términos siguientes:
 
-###### Artículo 96.
+I. Evaluaciones
 
-Los derechos por registro de control y vigilancia de las personas que se dediquen a la prestación de los servicios de seguridad privada, se causarán de acuerdo con la siguiente tarifa:
+A) Toxicológicas: $525.00
 
-Cuota
+B) Toxicológicas y psíquicas: $870.00
 
-I. Por la autorización para su funcionamiento $8,000.00
+C) Integrales: $1,170.00
 
-y registro:
+D) De control de confianza: $1,455.00
 
-II. Por la revalidación anual de la autorización $4,000.00
+E) De habilidades, destrezas y conocimientos: $2,180.00
 
-registro:
+II. Evaluaciones para la Licencia Oficial Colectiva
 
-III. Por el registro y expedición de la cédula $120.00
+A) Fase Toxicológica: $525.00
 
-de registro de cada elemento de seguridad:
+B) Fase Médica: $870.00
 
-IV. Por la revalidación anual y reposición de la $60.00
-
-cédula a que se refiere la fracción anterior:
-
-V. Por la autorización de traslado y custodia $11,250.00
-
-de fondos, valores o bienes vinculados con
-
-el servicio de seguridad:
-
-VI. Por la revalidación anual de la autorización $8,000.00
-
-de traslado y custodia de fondos, valores o
-
-bienes tarifa: vinculados con el servicio de seguridad:
-
-VII. Emisión de credencial individual que acredita el $50.00
-
-registro del elemento ante la dirección:
-
-VIII. Por el estudio de procedencia de
-
-la autorización: $300.00
-
-IX. Otros servicios: $2,000.00
+C) Fase Psicológica: $1,455.00
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE OCTUBRE DE 2010)</small>
 
 ### CAPÍTULO DÉCIMO TERCERO. SERVICIOS CATASTRALES
 
-### CAPÍTULO DÉCIMO CUARTO. DE LOS SERVICIOS TÉCNICOS EN MATERIA INMOBILIARIA
+###### Artículo 97.
 
-###### Articulo 97.
+Los servicios que se prestan a instituciones privadas de educación de nivel superior por parte de la Secretaría de Educación, causarán derechos y se pagarán previamente por los interesados conforme a esta Ley, con base en los términos siguientes:
 
-Los derechos por los servicios de educación de nivel superior por instituciones privadas, se causarán de acuerdo con la siguiente tarifa:
+I. Por el análisis de factibilidad para otorgar el acuerdo
 
-I. Por el análisis de factibilidad para otorgar el acuerdo de
+de autorización para impartir educación o el reconocimiento
 
-Autorización para impartir educación o el Reconocimiento
+de validez oficial de estudios, (RVOE) a particulares, por
 
-de Validez Oficial de Estudios, (REVOE) a particulares,
+cada plan de estudios de tipo superior: $7,306.00
 
-por cada plan de estudios de Tipo Superior: $5,675.00
+II. Por el otorgamiento del acuerdo de reconocimiento
 
-II. Por el otorgamiento del Acuerdo de reconocimiento
+de validez oficial de estudios (RVOE), por cada plan de
 
-de Validez Oficial de Estudios (RVOE), por cada plan
+estudios de educación superior: $2,463.00
 
-de estudios de Educación Superior: $1,913.00
+III. Cambio de titular del acuerdo de RVOE: $3,159.00
 
-III. Cambio de titular del Acuerdo de RVOE: $2,453.00
+IV. Cambio de domicilio, ampliación de domicilio
 
-IV. Cambio de domicilio, ampliación de domicilio o
+o establecimiento de un nuevo plantel, respecto de cada
 
-establecimiento de un nuevo plantel, respecto de cada plan
+plan de estudios con RVOE de tipo superior: $3,159.00
 
-de estudios con RVOE de Tipo Superior: $2,453.00
+V. Actualización o cambios al plan y programa de
 
-V. Actualización o cambios al Plan y Programa de estudios
+estudios (denominación, objetivo general, perfil de
 
-(denominación, objetivo general, perfil de egreso, la
+egreso, la organización del plan o la modalidad
 
-organización del plan o la modalidad educativa), con RVOE: $2,998.00
+educativa), con RVOE: $3,860.00
 
 VI. Inspección y vigilancia de establecimientos educativos
 
-particulares por alumno inscrito en cada ciclo escolar
+particulares por alumno inscrito en cada ciclo
 
-(semestre, cuatrimestre): $45.00
+escolar (semestre, cuatrimestre): $58.00
 
-VII. Inscripción por alumno en curso de verano o invierno: $136.00
+VII. Inscripción por alumno en curso de verano o invierno: $175.00
 
-VIII. Inscripción por alumno en asignaturas libres: $45.00
+VIII. Inscripción por alumno en asignaturas libres: $58.00
 
-IX. Exámenes extraordinarios por asignatura,
+IX. Exámenes extraordinarios por asignatura, por alumno: $58.00
 
-por alumno: $45.00
+X. Exámenes a titulo de suficiencia por asignatura por alumno: $58.00
 
-X. Exámenes a titulo de suficiencia por asignatura por alumno: $45.00
+XI. Inscripción· por alumno en curso de regularización por
 
-XI. Inscripción por alumno en curso de regularización
+recursamiento (por asignatura): $175.00
 
-por recursamiento (por asignatura): $136.00
+XII. Solicitud de equivalencia de estudios realizados en el
 
-XII. Solicitud de equivalencia de estudios realizados
+sistema educativo nacional: $585.00
 
-en el Sistema Educativo Nacional: $454.00
+XIII. Solicitud de dictamen técnico o revalidación de estudios
 
-XIII. Solicitud de dictamen técnico o revalidación
+realizados en el extranjero: $585.00
 
-de estudios realizados en el extranjero: $454.00
+XIV. Autenticación de certificados de estudios por ciclo
 
-XIV. Autenticación de certificados de estudios por
+escolar (semestre, cuatrimestre): $44.00
 
-ciclo escolar (semestre, cuatrimestre): $34.00
+XV. Certificación o legalización de firmas de títulos, certificados
 
-XV. Certificación y/o legalización de firmas
+parciales y totales de instituciones con RVOE Estatal: $74.00
 
-de títulos, certificados parciales y totales de
+XVI. Notificación de exámenes profesionales o de grado,
 
-instituciones con RVOE estatal: $57.00
+de licenciatura o posgrado (Especialidad, Maestría o
 
-XVI. Notificación de exámenes profesionales
+Doctorado): $219.00
 
-o de grado, de licenciatura o posgrado
+XVII. Autenticación de Diploma, Título o Grado: $175.00
 
-(especialidad, maestría o doctorado): $170.00
+XVIII. Compulsa de documentos emitidos por la autoridad o
 
-XVII. Autenticación de diploma, título o grado: $136.00
+institución educativa por hoja: $6.00
 
-XVIII. Compulsa de documentos emitidos
+XIX. Solicitud de duplicado de certificado de estudios de
 
-por la autoridad o Institución educativa por hoja: $5.00
+instituciones extintas: $119.00
 
-XIX. Solicitud de duplicado de certificado
+XX. Reposición de documento de equivalencia o revalidación
 
-de estudios de instituciones extintas: $92.00
+de tipo superior, por extravío o deterioro: $119.00
 
-XX. Reposición de documento de equivalencia
+XXI. Autorización de sinodal (por docente): $129.00
 
-o revalidación de tipo superior, por extravío o deterioro: $92.00
-
-XXI. Autorización de sinodal (por docente): $100.00
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 98.
 
-Los derechos por los servicios de educación de nivel medio superior prestados por instituciones privadas, se causarán de acuerdo con el siguiente costo:
+Los servicios que se presta a instituciones privadas de educación de nivel medio superior por parte de la Secretaría de Educación, causarán derechos y se pagarán previamente por los interesados conforme a esta Ley, con base en los términos siguientes:
 
-I. Por el análisis de factibilidad para otorgar el Acuerdo de
+I. Por el análisis de factibilidad para otorgar el acuerdo de
 
-Reconocimiento de Validez Oficial de Estudios (RVOE) para
+reconocimiento de validez oficial de estudios (RVOE) para
 
-impartir Educación Media Superior a particulares: $3,360.00
+impartir educación media superior a particulares: $4,326.00
 
-II. Exámenes extraordinarios y/o regularización por
+II. Exámenes extraordinarios o regularización por signatura
 
-asignatura por alumno registrado en Bachillerato
+por alumno registrado en bachillerato general con RVOE: $58.00
 
-General con RVOE: $45.00
+III. Expedición de duplicado de certificado de estudios de
 
-III. Expedición de duplicado de certificado de estudios
+instituciones extintas: $120.00
 
-de instituciones extintas: $93.00
+IV. Solicitud de revalidación de nivel media superior realizados
 
-IV. Solicitud de revalidación de nivel media superior
+en el extranjero: $291.00
 
-realizados en el extranjero: $226.00
+V. Solicitud de equivalencia de estudios de nivel medio superior: $291.00
 
-V. Solicitud de equivalencia de estudios de nivel
+VI. Autenticación de certificado de estudios, expedida por
 
-medio superior: $226.00
+particulares por ciclo escolar: $44.00
 
-VI. Autenticación de certificado de estudios, expedida
+VII. Inspección y vigilancia de establecimientos educativos
 
-por particulares por ciclo escolar: $34.00
+particulares, por alumno inscrito en cada ciclo escolar
 
-VII. Inspección y vigilancia de establecimientos
+(semestre o cuatrimestre): $58.00
 
-educativos particulares, por alumno inscrito en
+VIII. Por inscripción de alumno en curso de regularización: $120.00
 
-cada ciclo escolar (semestre o cuatrimestre): $45.00
+IX. Inscripción por alumno en curso de verano: $120.00
 
-VIII. Por inscripción de alumno en curso de regularización: $93.00
+X. Asignaturas libres por alumno inscrito: $58.00
 
-IX. Inscripción por alumno en curso de verano: $93.00
+XI. Reposición de resolutivo por hoja: $6.00
 
-X. Asignaturas libres por alumno inscrito: $45.00
+XII. Legalización de firmas en documentos de instituciones
 
-XI. Reposición de resolutivo por hoja: $5.00
+con RVOE: $76.00
 
-XII. Legalización de firmas en documentos de
+XIII. Cambio de titular del acuerdo de RVOE: $1,754.00
 
-instituciones con RVOE: $59.00
+XIV. Cambio o ampliación de domicilio o establecimiento
 
-XIII. Cambio de titular del Acuerdo de RVOE: $1,362.00
+de un plantel adicional: $1,754.00
 
-XIV. Cambio o ampliación de domicilio o
+XV. Reposición de documento de equivalencia o revalidación
 
-establecimiento de un plantel adicional: $1,362.00
+de tipo medio superior: $120.00
 
-XV. Reposición de documento de equivalencia
-
-o revalidación de tipo medio superior: $93.00
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 99.
 
-Los derechos por los servicios de educación técnica prestados por instituciones privadas, se causarán de acuerdo con el siguiente costo:
+Los servicios que se prestan a instituciones privadas de educación técnica por parte de la Secretaría de Educación, causarán derechos y se pagarán previamente por los interesados conforme a esta ley, con base en los términos siguientes:
 
-I. Por solicitud de incorporación a nivel técnico: $2,500.00
+TARIFA
 
-II. Por el otorgamiento del Acuerdo de Reconocimiento
+I. Por solicitud de incorporación a nivel técnico: $3,219.00
 
-de Validez Oficial de Estudios (RVOE), por cada plan de
+II. Por el otorgamiento del acuerdo de reconocimiento de·
 
-estudios de educación técnica profesional: $1,250.00
+validez oficial de estudios (RVOE), por cada plan de
 
-III. Inspección y vigilancia por alumno inscrito en
+estudios de educación técnica profesional: $1,610.00
 
-cada ciclo escolar (semestre, cuatrimestre): $40.00
+III. Inspección y vigilancia por alumno inscrito en·
 
-IV. Exámenes extraordinarios por asignatura, por alumno: $21.00
+cada ciclo escolar (semestre, cuatrimestre): $51.00
 
-V. Exámenes a titulo de suficiencia por asignatura, por alumno: $21.00
+IV. Exámenes extraordinarios por asignatura, por alumno: $28.00
 
-VI. Autentificación de firmas de certificados de estudios: $60.00
+V. Exámenes a Título de Suficiencia por asignatura, por alumno: $28.00
 
-VII. Autentificación de firmas de diploma educación técnica: $60.00
+VI. Autentificación de firmas de certificados de estudios: $78.00
 
-VIII. Duplicado de certificado de estudios o diploma: $60.00
+VII. Autentificación de firmas de diploma educación técnica: $78.00
 
-IX. Otorgamiento de diplomas y/o certificado de escuelas
+VIII. Duplicado de certificado de estudios o diploma: $78.00
 
-extintas: $60.00
+IX. Otorgamiento de diplomas o certificado de
 
-X. Solicitud de nuevo Acuerdo de Reconocimiento de
+escuelas extintas: $78.00
 
-Validez Oficial de Estudios: $1,250.00
+X. Solicitud de nuevo acuerdo de reconocimiento de
 
-XI. Cambio de domicilio, establecimiento de un nuevo
+validez oficial de estudios: $1,610.00
 
-plantel respecto de cada plan de estudios con RVOE de
+XI. Cambio de domicilio, establecimiento de un
 
-educación técnica: $1,250.00
+nuevo plantel respecto de cada plan de estudios con
 
-XII. Examen profesional: $136.00
+RVOE de educación técnica: $1,610.00
 
-XIII. Autentificación de título: $145.00
+XII. Examen profesional: $175.00
 
-XIV. Solicitud de número de Registro para diplomados y
+XIII. Autentificación de título: $186.00
 
-cursos (Educación continua): $2,500.00
+XIV. Solicitud de número de registro para diplomados
+
+y cursos (educación continua): $3,219.00
 
 XV. Autentificación de firmas y diplomas
 
-(Educación continua): $60.00
+(educación continua): $78.00
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
-###### Artículo 99 Bis.
+Artículo 99 bis. Los servicios que presta la Coordinación Estatal del Subsistema de Preparatoria Abierta, causarán derechos y se pagarán previamente por los interesados conforme a esta Ley, con base en los términos siguientes:
 
-Los servicios prestados por la Coordinación Estatal del Subsistema de Preparatoria Abierta, se causarán conforme a lo siguiente:
+TARIFA
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2013)</small>
+I. Para estudiantes
 
-I. PARA ESTUDIANTES:
+A) Inscripción: $129.00
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+B) Constancia: $32.00
 
-a) Inscripción $100.00
+C) Inscripción anual a la plataforma virtual: $129.00
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+D) Duplicado credencial: $41.00
 
-b) Constancia $25.00
+E) Duplicado de certificado: $53.00
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+II. Para centros de asesoría:
 
-c) Inscripción anual a la Plataforma
+A) Apertura: $1,288.00
 
-Virtual $100.00
+B) Anualidad: $1,288.00
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+C) Credencial para el personal administrativo: $32.00
 
-d) Duplicado credencial $32.00
+D) Duplicado de credencial centros: $64.00
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+E) Convenios centros de asesoría: $1,288.00
 
-e) Duplicado de Certificado $41.00
+III. Aspirantes a educación media superior:
 
-> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO PRIMER PÁRRAFO], P.O. 20 DE DICIEMBRE DE 2013)</small>
+A) Examen único de educación media superior: $216.00
 
-II. PARA CENTROS DE ASESORÍA:
+IV. Público en general, capacitación por persona:
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+A) Estrategias didácticas para la tutoría virtual, en
 
-a) Apertura $1,000.00
+colaboración con la Universidad Autónoma del Estado
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+de Morelos (UAEM): $7,725.00
 
-b) Anualidad $1,000.00
+B) Elaboración de reactivos de evaluación: $3,863.00
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+C) Introducción a las tecnologías de información: $6,438.00
 
-c) Credencial para el personal
+D) Estrategias y técnicas de aprendizaje: $1,545.00
 
-administrativo $25.00
+E) Enseñanza en el enfoque de las competencias: $1,545.00
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-d) Duplicado de credencial
-
-centros $50.00
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-e) Convenios Centros de
-
-Asesoría $1,000.00
-
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-III. ASPIRANTES A EDUCACIÓN MEDIA SUPERIOR:
-
-Examen Único de Educación Media Superior $168.00
-
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-IV. PÚBLICO EN GENERAL:
-
-Capacitación por persona:
-
-a) Estrategias Didácticas para la Tutoría Virtual,
-
-en colaboración con la UAEM. $6,000.00
-
-c) (sic) Elaboración de Reactivos
-
-de Evaluación. $3,000.00
-
-d) Introducción a las Tecnologías
-
-Información $5,000.00
-
-e) Estrategias y técnicas de
-
-aprendizaje. $1,200.00
-
-f) Enseñanza en el enfoque de las
-
-competencias. $1,200.00
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-Por cuanto hace al inciso c) que antecede, los estudiantes de Preparatoria Abierta serán beneficiados con un descuento del 50%.
+Por cuanto hace al inciso b) que antecede los estudiantes de preparatoria abierta serán beneficiados con un descuento del 50%.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
+###### Artículo 99 Bis
+
+1. Los servicios que se prestan a instituciones privadas de educación de nivel básico y normal por parte de la Secretaría de Educación, causarán derechos y se pagarán previamente por los interesados conforme a esta Ley, con base en los términos siguientes:
+
+I. Por solicitud estudio resolución de trámite de:
+
+A) Cambio o ampliación de domicilio, o establecimiento
+
+de un plantel adicional, respecto de cada plan de
+
+estudios con autorización o reconocimiento de validez oficial: $2,890.00
+
+B) Por solicitud, estudio y tramite de autorización para
+
+impartir educación preescolar, primaria, secundaria, normal
+
+y demás para la formación de maestros, sea cual fuere la modalidad: $854.00
+
+C) Por solicitud, estudio y trámite de reconocimiento de
+
+validez oficial de estudios de los niveles de educación especial
+
+e inicial y de formación para el trabajo, sea cual fuere la modalidad: $854.00
+
+D) Por resolución de autorización para impartir educación
+
+preescolar, primaria, secundaria, normal y demás para la
+
+formación de maestros, sea cual fuere su modalidad: $4,833.00
+
+E) Por resolución de reconocimiento de validez oficial de
+
+estudios de los niveles educación especial e inicial: $4,861.00
+
+II. Exámenes a título de suficiencia:
+
+A) De educación primaria: $132.00
+
+B) De educación secundaria, por materia: $66.00
+
+III. Exámenes extraordinarios por materia:
+
+A) De educación secundaria: $33.00
+
+B) De tipo superior (educación normal): $46.00
+
+IV. Revisión de certificados de terminación
+
+de estudios de tipo superior (escuelas particulares): $33.00
+
+V. Expedición y certificación de título: $132.00
+
+VI. Expedición de reposición de certificados de terminación de estudios:
+
+A) De educación básica: $66.00
+
+B) De tipo superior: $113.00
+
+VII) Por solicitud de revalidación de estudios de educación básica: $132.00
+
+VIII) Consulta de archivo: $66.00
+
+IX. Por solicitud de equivalencia de estudios de educación básica: $132.00
+
+X. Inspección y vigilancia de establecimientos educativos
+
+particulares, por alumno inscrito en cada ejercicio escolar:
+
+A) De educación superior: $105.00
+
+B) De educación secundaria: $66.00
+
+C) De educación primarla: $66.00
+
+D) De educación preescolar: $66.00
+
+E) De educación inicial: $66.00
+
+XI. Certificación de firmas en documentos oficiales: $132.00
+
+XII. Kardex (reposición): $33.00
+
+XIII. Duplicado de boleta (público en general): $66.00
+
+XIV. Boletas de inicio de ciclo escolar (escuelas particulares): $5.00
+
+XV. Reposición de boletas (planteles): $6.00
+
+XVI. Sello del sistema educativo nacional: $132.00
+
+XVII. Expedición de constancias: $33.00
+
+XVIII. Certificación de título o acta de examen profesional: $263.00
+
+XIX. Certificación de firmas en documentos oficiales
+
+para el extranjero: $132.00
+
+XX. Bases para la obtención de autorización o
+
+reconocimiento de validez oficial de estudios: $459.00
+
+XXI. Validación de boletas de educación normal: $39.00
+
+XXII. Diplomas: $33.00
+
+XXIII. Pago de cambio de titular del acuerdo de
+
+autorización o reconocimiento de validez oficial
+
+de estudios (por nivel educativo): $4,795.00
+
+XXIV. Pago de reposición del formato de certificación
+
+de estudios de educación normal: $99.00
+
+XXV. Pago de reposición del formato de título de
+
+educación normal: $99.00
+
+XXVI. Pago de reposición del formato de
+
+certificado de educación normal: $99.00
+
+XXVII. Pago del refrendo de autorización o
+
+reconocimiento de validez oficial de estudios: $657.00
+
+XXVIII. Pago de solicitud de revalidación
+
+de nivel secundaria (por grado escolar): $132.00
+
+XXIX. Cambio de nombre de escuela
+
+particular (por nivel educativo): $1,313.00
+
+### CAPÍTULO DÉCIMO CUARTO. DE LOS SERVICIOS TÉCNICOS EN MATERIA INMOBILIARIA
 
 ### CAPÍTULO DÉCIMO QUINTO. DE LOS SERVICIOS PRESTADOS EN MATERIA DE CARRETERAS DE CUOTA DEL ESTADO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-### CAPÍTULO DÉCIMO QUINTO BIS
-
-DE LOS DERECHOS POR EL USO O APROVECHAMIENTO DEL DERECHO DE VÍA EN CAMINOS, PUENTES Y VÍAS DE COMUNICACIÓN ESTATALES LIBRES DE PEAJE Y POR OCUPACIÓN DE LA ZONA ESTATAL
-
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
 ###### Artículo 100.
 
-Están obligados al registro de títulos señalado en este Capítulo, quienes ejerzan una profesión en el Estado con arreglo a la Ley sobre el ejercicio de las Profesiones en el Estado de Morelos.
+Están obligados al Registro de Títulos señalado en este Capítulo, quienes ejerzan una profesión en el Estado de Morelos con arreglo a la Ley sobre el Ejercicio de las Profesiones en el Estado de Morelos.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 101.
 
-Son objeto de pago de derechos los servicios de registro de títulos profesionales, expedición de cédulas y otros servicios conexos, los cuales se causarán de acuerdo con la siguiente:
-
-Tarifa
+Son objeto del pago de derechos los servicios de Registro de Títulos Profesionales, Expedición de Cédulas y otros servicios conexos, los cuales se causarán y se pagarán previamente por los interesados conforme a esta Ley, con base en los términos siguientes:
 
 I. Registro de títulos profesionales:
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+a) De carrera hasta dos años: $82.00
 
-a) De carrera hasta dos años: $64.00;
+b) De carrera hasta cuatro años y de carreras
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+técnicas cualquiera que sea su duración: $165.00
 
-b) De carrera hasta cuatro años y de carreras técnicas cualquiera que sea su duración: $128.00; y
+c) De carreras de más de cuatro años: $328.00;
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+Este pago deberá efectuarse dentro de los noventa
 
-c) De carreras de más de cuatro años: $255.00;
+días naturales siguientes a la fecha de expedición del Título.
 
-Este pago deberá efectuarse dentro de los noventa días naturales siguientes a la fecha de expedición del título.
+II. Expedición de cédula profesional o duplicado: $165.00
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+III. Registro de cédula profesional: $165.00
 
-II. Expedición de cédula profesional o duplicado: $128.00;
-
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
-
-III. Registro de cédula profesional: $128,00;
-
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
-
-IV. Registro de cédulas expedidas en otras entidades federativas: $319.00;
+IV. Registro de cédulas expedidas en otras entidades federativas: $411.00
 
 V. Registro de colegios de profesionistas:
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+a) Colegios que agrupen profesionistas cuyas carreras
 
-a) Colegios que agrupen profesionistas cuyas carreras sean hasta de dos años: $319.00;
+sean hasta de dos años: $411.00
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+b) Colegios que agrupen profesionistas cuyas carreras
 
-b) Colegios que agrupen profesionistas cuyas carreras sean hasta de cuatro años: $638.00; y
+sean hasta de cuatro años: $821.00
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+c) Colegios que agrupen profesionistas cuyas carreras
 
-c) Colegios que agrupen profesionistas cuyas carreras sean más de cuatro años: $957.00;
+sean más de cuatro años: $1,232.00
 
-Este pago deberá efectuarse dentro de los 45 días siguientes a la formación de los mismos.
+Este pago deberá efectuarse dentro de los 45 días
+
+siguientes a la formación de los mismos.
 
 VI. Registro de escuelas y planes de estudio:
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+a) Escuelas que impartan enseñanza preparatoria,
 
-a) Escuelas que impartan enseñanza preparatoria, vocacional, técnica, normal o profesional: $3,188.00; y
+vocacional, técnica, normal o profesional: $4,105.00
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+b) Inscripción anual de planes de estudio, por cada materia: $82.00
 
-b) Inscripción anual de planes de estudio. Por cada materia: $64.00;
+Este pago deberá efectuarse dentro de los 30 días previos al inicio
+
+del periodo escolar
 
 VII. Autorizaciones especiales:
 
 a) Para el ejercicio de una o varias especialidades:
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+1. Para carreras hasta de dos años: $82.00
 
-1. Para carreras hasta de dos años: $64.00;
+2. Para carreras hasta de cuatro años: $165.00
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+3. Para carreras de más de cuatro años: $328.00
 
-2. Para carreras hasta de cuatro años: $128.00; y
+Este pago deberá efectuarse dentro de los noventa días
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
-
-3. Para carreras de más de cuatro años: $255.00;
-
-Este pago deberá efectuarse dentro de los noventa días naturales siguientes a la fecha de expedición del título
+naturales siguientes a la fecha de expedición del Título
 
 b) A pasantes:
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+1. El término de un año: $84.00
 
-1. El término de un año: $65.00; y
+2. A extranjeros y mexicanos por naturalización que
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+posean título expedido en el extranjero, en los términos de
 
-2. A extranjeros y mexicanos por naturalización que posean título expedido en el extranjero, en los términos de la Ley Sobre el Ejercicio de las Profesiones en el Estado de Morelos: $255.00;
+la Ley Sobre el Ejercicio de las Profesiones en el Estado
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+de Morelos: $84.00
 
-VIII. Revalidación de estudios profesionales: $65.00;
+VIII. Revalidación de estudios profesionales: $84.00
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+IX. Verificación del número de socios de colegios de
 
-IX. Verificación del número de socios de colegios de profesionistas, por cada una: $319.00; y
+profesionistas, por cada una: $411.00
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+X. Trámite de cédula profesional a nivel federal: $200.00
 
-X. Otros servicios: $32.00
+XI. Trámite de duplicado de cédula profesional a nivel federal: $200.00
+
+XII. Trámite de devolución de documentos originales
+
+a nivel federal: $200.00
+
+XIII. Trámite de antecedentes profesionales a nivel federal $200.00
+
+XIV. Otros servicios $41.00
 
 ###### Artículo 102.
 
 Están exentos del pago de derechos los profesores que ejerzan su actividad, única y exclusivamente al servicio de establecimientos oficiales o incorporados al Gobierno Federal o al Gobierno del Estado de Morelos.
 
-### CAPÍTULO DÉCIMO SEXTO. DE LOS SERVICIOS DE VIGILANCIA, INSPECCIÓN Y CONTROL, ASÍ COMO EN MATERIA DE HABILITACIÓN PARA EL SERVICIO PÚBLICO
+### CAPÍTULO DÉCIMO QUINTO BIS
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+DE LOS DERECHOS POR EL USO O APROVECHAMIENTO DEL DERECHO DE VÍA EN CAMINOS, PUENTES Y VÍAS DE COMUNICACIÓN ESTATALES LIBRES DE PEAJE Y POR OCUPACIÓN DE LA ZONA ESTATAL
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 107 Bis.
 
-Por el uso o aprovechamiento del derecho de vía en caminos, puentes y vías de comunicación estatales libres de peaje y por ocupación de la zona estatal, se cobrará un derecho, conforme a las tarifas que proponga la Secretaría de Obras Públicas y valide la Secretaria, de acuerdo con el Reglamento o los Lineamientos que para tal efecto emita el Ejecutivo Estatal.
+Por el uso o aprovechamiento del derecho de vía en caminos, puentes y vías de comunicación estatales libres de peaje y por ocupación de la zona estatal, se cobrará un derecho, conforme a las tarifas que proponga la Secretaría de Movilidad y Transporte y valide la Secretaría, de acuerdo con el reglamento o los lineamientos que para tal efecto emita el Ejecutivo Estatal.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 103.
 
-Los derechos por el registro en el Padrón de Arrendadores que lleva la Secretaría respecto de los contratos de arrendamiento y otros actos, contratos o convenios por los que se confiera a un tercero el derecho de uso, usufructo o explotación de bienes inmuebles, se causarán por cada documento, contrato o acto, conforme a lo siguiente:
+Los derechos por el registro en el padrón de arrendadores que lleva la Secretaría respecto de los contratos de arrendamiento y otros actos, contratos o convenios por los que se confiera a un tercero el derecho de uso, usufructo o explotación de bienes inmuebles; se causarán por cada documento, contrato o acto y se pagarán previamente por los interesados conforme a esta Ley, con base en los términos siguientes:
 
-I. Los contratos de arrendamiento: $159.00
+I. Por los contratos de arrendamiento: $205.00
 
-II. Los actos, contratos y convenios no incluidos en la fracción anterior: $96.00
+II. Por los actos, contratos y convenios no incluidos en
+
+la fracción anterior: $124.00
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-### CAPITULO DÉCIMO SEXTO BIS
+### CAPÍTULO DÉCIMO SEXTO. DE LOS SERVICIOS DE VIGILANCIA, INSPECCIÓN Y CONTROL, ASÍ COMO EN MATERIA DE HABILITACIÓN PARA EL SERVICIO PÚBLICO
 
-DE LOS SERVICIOS EN MATERIA DEL REGISTRO DE ANTECEDENTES PENALES, DE EXPEDICIÓN DE CONSTANCIAS DE IDENTIFICACIÓN VEHICULAR, ASÍ COMO POR LA EXPEDICIÓN DE ACTAS ESPECIALES, COPIAS Y CERTIFICACIONES POR PARTE DE ASESORES JURÍDICOS O AGENTES DEL MINISTERIO PÚBLICO.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
-
-Artículo 108 BIS-1. Por los servicios en materia del registro de antecedentes penales, expedición de Constancias de no antecedentes penales y de identificación vehicular, así como por la expedición de actas especiales, copias y certificaciones por parte de asesores jurídicos o Agentes del Ministerio Público se causarán:
-
-I. Constancias de no antecedentes penales: $100.00;
-
-II. Baja en el registro de antecedentes penales: $95.00;
-
-III. Copias simples o certificadas por parte de los asesores jurídicos sin importar el volumen: $191.00;
-
-IV. Copias simples o certificadas por parte de los Agentes del Ministerio Público, relacionada con carpetas de investigación, sin importar el volumen: $255.00;
-
-V. Constancia de Identificación Vehicular: $300.00; y
-
-VI. Actas especiales: $35.00.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 104.
 
@@ -3659,9 +4075,11 @@ VI. Actas especiales: $35.00.
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-### CAPÍTULO DÉCIMO SÉPTIMO. LEGALIZACIÓN DE FIRMAS, CERTIFICADOS, CERTIFICACIONES, CONSTANCIAS Y COPIAS CERTIFICADAS
+### CAPITULO DÉCIMO SEXTO BIS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+DE LOS SERVICIOS EN MATERIA DEL REGISTRO DE ANTECEDENTES PENALES, DE EXPEDICIÓN DE CONSTANCIAS DE IDENTIFICACIÓN VEHICULAR, ASÍ COMO POR LA EXPEDICIÓN DE ACTAS ESPECIALES, COPIAS Y CERTIFICACIONES POR PARTE DE ASESORES JURÍDICOS O AGENTES DEL MINISTERIO PÚBLICO.
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 106.
 
@@ -3669,9 +4087,9 @@ VI. Actas especiales: $35.00.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2012)</small>
 
-### CAPÍTULO DÉCIMO OCTAVO. DE LA RECUPERACIÓN DE LOS MATERIALES UTILIZADOS EN EL PROCESO DE RESPUESTA A LAS SOLICITUDES DE ACCESO A LA INFORMACIÓN PÚBLICA
+### CAPÍTULO DÉCIMO SÉPTIMO. LEGALIZACIÓN DE FIRMAS, CERTIFICADOS, CERTIFICACIONES, CONSTANCIAS Y COPIAS CERTIFICADAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 107.
 
@@ -3681,85 +4099,95 @@ Los ingresos recaudados por los derechos a que se refiere el párrafo anterior s
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
+### CAPÍTULO DÉCIMO OCTAVO. DE LA RECUPERACIÓN DE LOS MATERIALES UTILIZADOS EN EL PROCESO DE RESPUESTA A LAS SOLICITUDES DE ACCESO A LA INFORMACIÓN PÚBLICA
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
 ### CAPÍTULO DÉCIMO NOVENO. DE LOS SERVICIOS EN MATERIA DE INNOVACIÓN, CIENCIA Y TECNOLOGÍA
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
-
-### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### Artículo 108.
 
 Por el servicio de vigilancia, inspección y control que las leyes en la materia encomiendan a la Secretaría de la Contraloría, los contratistas con quienes se celebren contratos de obra pública y de servicios relacionados con la misma, pagarán un derecho equivalente del 5.0 al millar sobre el importe de cada una de las estimaciones de trabajo; así mismo los proveedores con quienes se celebren contratos de prestación de servicios pagarán un derecho del 2.0 al millar sobre el importe del contrato adjudicado.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 108 Bis.
 
-Por la expedición de oficios de habilitación, se causarán $80.00
+Por la expedición de oficios de habilitación, se causarán $103.00
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-### CAPÍTULO SEGUNDO. ENAJENACIÓN, ARRENDAMIENTO, USO O EXPLOTACIÓN DE BIENES MUEBLES E INMUEBLES
+### CAPITULO VIGÉSIMO. DE LOS SERVICIOS EN MATERIA DE TURISMO
 
-### CAPÍTULO TERCERO
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
-UTILIDAD POR ACCIONES Y PARTICIPACIONES EN SOCIEDADES O EMPRESAS, RENDIMIENTO POR OTRAS INVERSIONES EN CRÉDITOS Y VALORES, Y RECUPERACIONES DE INVERSIONES EN ACCIONES, CRÉDITOS Y VALORES
+###### Artículo 114 Ter.
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+Los derechos por los servicios de control de espacios para eventos dentro del territorio del Estado de Morelos que lleva a cabo la Secretaría de Turismo, se causarán y se pagarán previamente por los interesados y por cada espacio registrado, con base en los términos siguientes:
+
+I. $10,000.00 anuales por espacio, o
+
+II. $5,000.00 semestrales por espacio.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 108 Bis
+
+1. Por los servicios en materia del registro de antecedentes penales, expedición de constancias de no antecedentes penales y de identificación vehicular, así como por la expedición de actas especiales, copias y certificaciones por parte de Asesores Jurídicos o Agentes del Ministerio Público se causarán y se pagarán previamente por los interesados conforme a esta Ley, con base en los términos siguientes:
+
+TARIFA
+
+I. Constancias de no antecedentes penales: $129.00
+
+II. Baja en el registro de antecedentes penales: $122.00
+
+III. Constancia de identificación vehicular: $386.00
+
+IV. Actas especiales: $45.00
+
+### CAPITULO VIGÉSIMO PRIMERO. DE LOS SERVICIOS EN MATERIA DE PROTECCIÓN CIVIL
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 109.
 
-Los derechos por servicios de trámites de legalización de firmas, certificaciones y expedición de copias y documentos por funcionarios y empleados del Gobierno del Estado, se causarán conforme a las siguientes bases y tarifas por hoja:
+Los servicios de trámites de legalización de firmas, certificaciones y expedición de copias y documentos por servidores públicos del Gobierno del Estado, causarán derechos y se pagarán previamente por los interesados conforme a esta Ley, con base en los términos siguientes:
 
-Concepto: Tarifa
+CONCEPTO TARIFA
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+I. Legalización de firmas: $165.00
 
-I. Legalización de firmas $128.00
+II. Certificación de firmas: $82.00
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+III. Apostilla: $246.00
 
-II. Certificación de firmas: $64.00
+IV. Apostilla de documentos notariales: $328.00
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+V. Copias certificadas expedidas por el Poder Judicial, sin
 
-III. Apostilla: $191.00
+importar el volumen: $246.00
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+VI. Certificado de "no adeudo" por cada impuesto, derecho
 
-IV. Apostilla de documentos notariales: $255.00
+o contribución que comprenda: $41.00
 
-V. (DEROGADA, P.O. 20 DE DICIEMBRE DE 2013)
+VII. Certificados de fecha de pago de créditos fiscales: $41.00
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+VIII. Cualquiera otra certificación que se expida por
 
-VI. Copias certificadas expedidas por el Poder
+autoridad distinta de las anteriores:
 
-Judicial, sin importar el volumen: $191.00
+A) Por la primera hoja: $55.00
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+B) Por las siguientes hojas y
 
-VII. Certificado de "No adeudo" por cada impuesto,
+hasta cincuenta: $10.00
 
-derecho o contribución que comprenda: $32.00
+C) Por las siguientes hojas y
 
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+más de cincuenta: $4.00
 
-VIII. Certificados de fecha de pago de créditos fiscales: $32.00
-
-> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
-
-IX. Cualquiera otra certificación que se expida por autoridad distinta de las anteriores:
-
-a) Por la primera hoja: $32.00
-
-b) Por las siguientes hojas y hasta cincuenta: $6.00
-
-c) Por las siguientes hojas y más de cincuenta: $3.00
-
-X. (DEROGADA, P.O. 24 DE DICIEMBRE DE 2014)
-
-Para la legalización de firma y expedición de certificaciones, certificados y copias de documentos comprendidos en las fracciones anteriores, deberán cubrirse previamente los derechos respectivos.
+Por los servicios de certificación de documentos y firmas, se pagará por concepto de derechos la tarifa señalada en el presente artículo cuando la dependencia no tenga un concepto de cobro específico contenido en esta Ley.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -3769,23 +4197,79 @@ La legalización de firmas, certificados, certificaciones y copias certificadas 
 
 ###### Artículo 111.
 
-Los certificados, certificaciones y copias certificadas que expidan las Dependencias del Gobierno del Estado, deberán formularse en el papel especial autorizado.
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2015)
 
 ###### Artículo 112.
 
 Los certificados de insolvencia no causarán los derechos fijados en la tarifa.
 
-### CAPÍTULO CUARTO. PRODUCTOS DE PUBLICACIONES
+### CAPITULO VIGÉSIMO SEGUNDO. DE LOS SERVICIOS PRESTADOS POR LA SECRETARIA DE ADMINISTRACIÓN
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+Artículo 114 Quintus. Los derechos por los servicios en materia de expedición de hojas de servicio y constancias de sueldo, derivado de la guarda y custodia de expedientes del personal, se causarán y se pagarán previamente por los servidores públicos activos e inactivos y a los beneficiarios de éstos, que hagan uso del servicio, en razón de $90.00, excepto cuando se trate de la primera expedición en el ejercicio fiscal que corresponda o que la solicitud corresponda a periodos por quinquenios.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+Artículo 114 Quintus-1. Los derechos causados por el avalúo de bienes inmuebles realizados por la comisión de avalúos de bienes estatales se causarán y se pagarán previamente por los interesados conforme a esta Ley:
+
+I. Por emisión de dictámenes valuatorios individuales de terrenos urbanos, con base en superficie valuada:
+
+SUPERFICIE MONTO
+
+DE: A:
+
+1 1000 $4,143.00
+
+MONTO POR EXCEDENTE: $16.50 POR CADA METRO CUADRADO
+
+II. Por emisión de dictámenes valuatorios por justipreciación de rentas de terrenos o terrenos con construcción propias: $3,125.00
+
+III. Por emisión de dictámenes valuatorios por justipreciación de rentas de terrenos o terrenos con construcción de locales, oficinas etc. Para uso propio: $3,125.00
+
+IV. Por emisión de dictámenes valuatorios de terrenos o terrenos con construcción con valor comercial para adquisición o enajenación:
+
+SUPERFICIE MONTO
+
+DE: A:
+
+1 500 $5,953.00
+
+MONTO POR EXCEDENTE: $19.50 POR CADA METRO CUADRADO
+
+V. Por emisión de dictámenes valuatorios de terrenos o terrenos con construcción con valor para indemnización por expropiación.
+
+SUPERFICIE MONTO
+
+DE: A:
+
+1 500 $4,142.50
+
+MONTO POR EXCEDENTE: $9.05 POR CADA METRO CUADRADO
+
+VI. Por emisión de dictámenes valuatorios de terrenos o terrenos con construcción con estimación de valor en propiedad social
+
+SUPERFICIE MONTO
+
+DE: A:
+
+1 500 $4,142.50
+
+MONTO POR EXCEDENTE: $9.05 POR CADA METRO CUADRADO
+
+VII. Por emisión de actualización de dictámenes valuatorios de terrenos o terrenos con construcción de cualquier índole: $3,125.00
+
+VIII. Por emisión de ratificaciones de dictámenes valuatorios de bienes inmuebles: $1,500.00
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 113.
 
-Por la reproducción de copias simples de información pública, derivado de la solicitud de acceso a la información, se causarán $0.56 por cada una de las reproducciones de copias simples.
+Por la reproducción de copias simples de información pública, derivado de la solicitud de acceso a la información, se causarán $0.60 por cada una de las reproducciones de copias simples.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
-
-Queda exenta del pago que se prevé en el presente artículo la información que se genere con motivo de la respuesta a una solicitud de acceso a los datos personales o la corrección de éstos. Asimismo por éste concepto no se generara el impuesto a que hace referencia el Capítulo Octavo Título Segundo de la presente Ley.
+Queda exenta del pago que se prevé en el presente artículo la información que se genere con motivo de la respuesta a una solicitud de acceso a los datos personales o la corrección de éstos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3793,61 +4277,267 @@ Queda exenta del pago que se prevé en el presente artículo la información que
 
 El cobro de Derechos por conceptos de copias certificadas se causará de conformidad con lo establecido en el Capítulo Décimo Séptimo del presente Título.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 114.
 
-Por la reproducción de información en otros medios:
+Los derechos por la reproducción de información en otros medios, se causarán y se pagarán previamente por los interesados conforme a esta Ley, con base en los términos siguientes:
 
 CONCEPTO TARIFA
 
-1. En medios magnéticos por unidad
+I. En medios informáticos por unidad
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+a) Disco compacto (CD) $9.00
 
-a) Disco magnético de tres y media pulgada: $4.00
+b) Disco versátil digital (DVD). $12.00
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+II. Impresiones por cada hoja $1.00
 
-b) Disco Compacto (CD): $9.00
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
-
-c) Disco Versátil Digital (DVD): $12.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
-
-2. En medios holográficos por unidad
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
-
-3. Impresiones por cada hoja: $1.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
-
-4. Impresiones en papel heliográfico
-
-hasta 60 x 90 cm.
-
-Por cada 25 cm. Extras
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2011)</small>
-
-Los solicitantes que proporcionen el material en el que sea reproducida la información pública quedarán exentos del pago previsto en este artículo. Asimismo por éste concepto no se generará el impuesto a que hace referencia el Capítulo Octavo Título Segundo de la presente Ley.
+Los solicitantes que proporcionen el material señalado en los incisos a) y b) de la fracción I de este artículo, en el que será reproducida la información pública, quedarán exentos del pago previsto en este artículo.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
-### CAPÍTULO QUINTO. ALMACENAJE
+### CAPITULO VIGÉSIMO TERCERO. DE LOS SERVICIOS EN MATERIA DE RESERVAS TERRITORIALES
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+Artículo 114 Sextus. Los derechos por los servicios en materia de reservas territoriales, se causarán y se pagarán previamente por los interesados conforme a esta Ley, con base en los términos siguientes:
+
+TARIFA
+
+I. Por la medición de superficies en campo:
+
+A) Perimetral por metro cuadrado $0.50
+
+B) Curvas de nivel por metro cuadrado $5.00
+
+C) Barranca por metro lineal $70.00
+
+D) Lotificaciones por lote $200.00
+
+E) Replanteo por metro cuadrado $3.00
+
+II. Verificación de superficie en campo
+
+por línea de control $5,000.00
+
+III. Escaneo de planos por línea de
+
+tamaño 90 x 90 cm. En archivo digital $40.00
+
+IV. Impresión de imagen a color
+
+tamaño 90 x 90 cm $150.00
+
+V. Plano blanco y negro, tamaño 90 x 90 cm $35.00
+
+VI. Impresión a color líneas, tamaño 90 x 90 cm $40.00
+
+VII. Escrituración de lotes
+
+A) de 1 m2 hasta 150 m2 $3,000.00
+
+B) de 150.01 m2 hasta 300 m2 $5,500.00
+
+C) de 300.01 m2 en adelante $8,000.00
+
+VIII. CESIÓN DE DERECHOS $1,500.00
 
 ###### Artículo 114 Bis.
 
-Los derechos por servicios en materia de innovación, ciencia y tecnología, se causarán conforme a las siguientes tarifas:
+(DEROGADO, P.O. 8 DE DICIEMBRE DE 2015)
 
-(VÉASE ARCHIVO ANEXO)
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
+
+### CAPÍTULO SEGUNDO. ENAJENACIÓN, ARRENDAMIENTO, USO O EXPLOTACIÓN DE BIENES MUEBLES E INMUEBLES
+
+### CAPÍTULO TERCERO
+
+UTILIDAD POR ACCIONES Y PARTICIPACIONES EN SOCIEDADES O EMPRESAS, RENDIMIENTO POR OTRAS INVERSIONES EN CRÉDITOS Y VALORES, Y RECUPERACIONES DE INVERSIONES EN ACCIONES, CRÉDITOS Y VALORES
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+
+###### Artículo 114 Quater.
+
+Por la evaluación de los Programas de Protección Civil a que se refiere el artículo 57 de la Ley de Protección Civil para el Estado de Morelos correspondientes a los inmuebles e instalaciones fijas y móviles previstas en el artículo 61 de la misma Ley, se causarán y pagarán los derechos de conformidad a la siguiente tarifa:
+
+Clasificación de Riesgo
+
+Alto o máximo riesgo $2,330.00
+
+No se causarán los derechos a que se refiere este artículo, por los servicios de evaluación de programas de protección civil, cuando se presten a las entidades de la administración pública del estado.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 114 Quater
+
+1. Por la evaluación de programas de protección civil a que se refiere el artículo 57 de la Ley de Protección Civil para el Estado de Morelos de los espacios e instalaciones previstas en los artículos 132 y 134 del mismo ordenamiento, se pagará un derecho por la cantidad de $4,000.00
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 114 Quater
+
+2. Por la visita de inspección y vigilancia del cumplimiento de normas, leyes y reglamentos en materia de seguridad y protección civil para prevenir y evitar riesgos donde se celebren espectáculos masivos de personas, a que se refieren los artículos 134 y 135 de la Ley de Protección Civil para el Estado de Morelos, se pagará un derecho por la cantidad de $3,000.00
+
+No se causarán los derechos a que se refiere este artículo, por los servicios que se presten a las entidades de la Administración Pública del Estado, con motivo de actividades sin fines de lucro.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 114 Quater
+
+3. Por la aprobación del cumplimiento a las normas, leyes y reglamentos en materia de seguridad y protección civil en la celebración de espectáculos públicos masivos en lo relativo a las medidas de seguridad y prevención previstas en los artículos 134 y 135 de la Ley de Protección Civil para el Estado de Morelos, se pagará un derecho por la cantidad de $2,000.00
+
+No se causarán los derechos a que se refiere este artículo, por los servicios que se presten a las entidades de la Administración Pública del Estado, con motivo de actividades sin fines de lucro.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 114 Quater
+
+4. Los derechos por el servicio de apoyo especializado en materia de seguridad y prevención en protección civil, que preste la Coordinación Estatal de Protección Civil Morelos, a solicitud de parte, durante el desarrollo de un evento de concentración masiva con fines de lucro, se causarán y pagarán de acuerdo a lo siguiente:
+
+Turno Horario Tarifa por cada elemento Operativo
+
+Matutino-vespertino 08:00 a las 16:00 horas $400.00
+
+Vespertino-nocturno 16:00 a las 24:00 horas $500.00
+
+Nocturno- matutino 24:00 a las 08:00 horas $600.00
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 114 Quater
+
+5 Por la opinión en materia de riesgo, que emita la Coordinación Estatal de Protección Civil Morelos, prevista en el artículo 143 de la Ley de Protección Civil para el Estado de Morelos, se causarán y pagarán los derechos de conformidad a la siguiente tarifa:
+
+Clasificación de riesgo
+
+Alto o máximo riesgo $2,000.00
+
+No se causarán los derechos a que se refiere este artículo, por los servicios que se presten a las entidades de la administración pública del estado, con motivo de actividades sin fines de lucro.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 114 Quater
+
+6. Por la visita de inspección y vigilancia que realice la Coordinación Estatal de Protección Civil Morelos a los proyectos de construcción e instalación y desarrollos habitacionales a que se refieren los artículos 148 y 151 de la Ley de Protección Civil para el Estado de Morelos, se causarán y pagarán los derechos de conformidad con la siguiente tarifa
+
+Clasificación de riesgo
+
+Alto o máximo riesgo $1,330.00
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 114 Quater
+
+7. Por las aprobaciones, que emita la Coordinación Estatal de Protección Civil Morelos, en relación a los proyectos de construcción e instalación y desarrollos habitacionales a que se refieren los artículos 148 y 151 de la Ley de Protección Civil para el Estado de Morelos, se causarán y pagarán los derechos de conformidad a la siguiente tarifa
+
+Clasificación de riesgo
+
+Alto o máximo riesgo $2 000.00
+
+No se causarán los derechos a que se refiere este artículo, por los servicios que se presten a las entidades de la Administración Pública del Estado, con motivo de actividades sin fines de lucro.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 114 Quater
+
+8. Por la visita de inspección y vigilancia que se realice para verificar que el transporte que utilice gas L.P. para carburación, cumple con las medidas de seguridad establecidas en la norma oficial mexicana respectiva, se causará un derecho por la cantidad de $180.00, por cada unidad vehicular.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 114 Quater
+
+9. Por la aprobación que se emita al transporte que utilice gas L.P., para carburación derivado del Cumplimiento de las medidas de seguridad, establecidas en noma oficial mexicana respectiva, se causará y pagará un derecho por la cantidad de $100.00, por cada unidad vehicular.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 114 Quater
+
+10. Por el registro de particulares para ejercer actividades en materia de protección civil y por la renovación anual, que deberá realizarse durante el primer mes del ejercicio fiscal, se causarán y pagarán los derechos de acuerdo a la siguiente tarifa:
+
+I. Consultores:
+
+1. Riesgo alto o máximo $5000.00
+
+II. Capacitadores:
+
+1. Primeros auxilios.
+
+Nivel
+
+1.1. Básico $600.00
+
+1.2. Intermedio $700.00
+
+1.3. Avanzado $1.000.00
+
+2. Prevención combate y control de incendio:
+
+nivel
+
+2.1. Básico $800.00
+
+2.2. Intermedio $900.00
+
+2.3. Avanzado $1,000.00
+
+3. Formación de brigadas: $800.00
+
+4. Búsqueda y rescate:
+
+Nivel
+
+4.1. Básico $600.00
+
+4.2. Intermedio $700.00
+
+4.3. Avanzado $1000.00
+
+5. Señalización $700.00
+
+6. Simulacros de campo y gabinete $700.00
+
+7. Materiales peligrosos $2000.00
+
+8. Elaboración de programas
+
+de protección civil. $2000.00
+
+III. Expedición de estudios de
+
+Vulnerabilidad y riesgo. $3,500.00
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 114 Quater
+
+11. Por la capacitación en materia de Protección Civil al sector privado se causarán por concepto de derechos $300.00 por persona y por curso con duración menor a diez horas.
+
+La capacidad mínima y máxima para realizar el curso es de 15 a 50 personas.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 114 Quater
+
+12. Por el registro y autorización de los libros bitácora que documenten acciones en materia de protección, se causará y pagará un derecho por la cantidad de $335.00 por cada libro.
+
+> <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 114 Quater
+
+13. Por la evaluación de simulacros que realice la Coordinación Estatal de Protección Civil Morelos, se causará y pagará un derecho por la cantidad de $300.00
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO CUARTO. PRODUCTOS DE PUBLICACIONES
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO QUINTO. ALMACENAJE
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ## TÍTULO QUINTO. DE LOS PRODUCTOS
 
@@ -3897,83 +4587,83 @@ Las utilidades por acciones y participaciones en sociedades o empresas, el rendi
 
 ###### Artículo 120.
 
-Por las publicaciones que lleve a cabo el Gobierno del Estado, se pagará lo siguiente tarifa:
+Por las publicaciones que lleve a cabo el Gobierno del Estado, se pagará la siguiente
+
+TARIFA:
 
 I. Boletín judicial:
 
-a) Venta de ejemplares:
+A) Venta de ejemplares:
 
-1. Suscripción semestral enero-junio $720.00
+1. Suscripción semestral enero-junio: $720.00
 
-2. Suscripción semestral julio-diciembre $600.00
+2. Suscripción semestral julio-diciembre: $600.00
 
-3. Suscripción anual $1,200.00
+3. Suscripción anual: $1,200.00
 
-4. Ejemplar de la fecha $7.00
+4. Ejemplar de la fecha: $7.00
 
-5. Ejemplar atrasado del año $14.00
+5. Ejemplar atrasado del año: $14.00
 
-b) Inserciones, publicaciones de edictos, $1.50
+B) Inserciones, publicaciones de edictos, convocatorias,
 
-convocatorias, avisos y otros que se autoricen
+avisos y otros que se autoricen de las autoridades
 
-de las autoridades judiciales, entidades del
+judiciales, entidades del gobierno del estado y de
 
-Gobierno del Estado y los gobiernos municipales,
+los gobiernos municipales, por cada palabra: $1.50
 
-por cada palabra:
+Los ingresos que se generen por estas tarifas se administrarán por el Consejo de la Judicatura Estatal, y servirán para cubrir los gastos del Boletín Judicial, conforme a las disposiciones de la Ley Orgánica del Poder Judicial del Estado de Morelos. Las actualizaciones de las listas de precios deberán ser aprobadas por el propio Consejo de la Judicatura y publicadas en el Boletín Judicial, así como en el Periódico Oficial del Estado de Morelos.
 
-Los ingresos que se generen por estas cuotas se administrarán por el Consejo de la Judicatura Estatal, y servirán para cubrir los gastos del Boletín Judicial, conforme a las disposiciones de la Ley Orgánica del Poder Judicial del Estado de Morelos. Las actualizaciones de las listas de precios deberán ser aprobadas por el propio Consejo de la Judicatura y publicadas en el Boletín Judicial, así como en el Periódico Oficial del Estado de Morelos.
+TARIFA
 
-II. Del Periódico Oficial "Tierra y Libertad":
+II. Del periódico oficial "Tierra y Libertad:
 
-Tarifa en días de salario
+A) venta de ejemplares:
 
-mínimo general vigente
+1. Suscripción semestral: $368.00
 
-en el Estado
+2. Suscripción anual: $734.00
 
-a) Venta de ejemplares:
+3. Ejemplar de la fecha: $9.00
 
-1. Suscripción semestral 5.2220
+4. Ejemplar atrasado del año en curso: $19.00
 
-2. Suscripción anual 10.4440
+5. Ejemplar de años anteriores: $28.00
 
-3. Ejemplar de la fecha 0.1306
+6. Ejemplar de edición especial por
 
-4. Ejemplar atrasado del año 0.2610
+la publicación de leyes o
 
-5. Ejemplar de años anteriores 0.3916
+reglamentos e índice anual: $46.00
 
-6. Ejemplar de edición especial por la 0.6527
+7. Edición especial de códigos: $176.00
 
-publicación de Leyes o reglamentos
+8. Periódico oficial en disco compacto: $70.00
 
-e índice anual
+9. Colección anual: $1.086.00
 
-7. Edición especial de Códigos 2.5
+B) Inserciones: Publicaciones especiales, edictos, licitaciones,
 
-8. Periódico Oficial en Disco Compacto 1
+convocatorias, avisos y otros que se autoricen:
 
-9. Colección anual 15.435
+1. De las Entidades de la Administración Pública Federal,
 
-b) Inserciones: Publicaciones especiales, edictos, licitaciones, convocatorias, avisos y otros que se autoricen:
+Estatal o Municipal y Autoridades Judiciales:
 
-1. De las entidades de la Administración
+1.1. Por cada palabra y no más
 
-Pública Federal, Estatal o Municipal
+de $ 1,030.00 por plana: $0.50
 
-y autoridades judiciales:
+1.2. Por cada plana: $1.030.00
 
-Por cada palabra y no más de
+2. De particulares:
 
-$ 1,000.00 por plana. $0.50
+2.1. Por cada palabra y no más de $1,030.00 por plana: $2.00
 
-Por cada plana. $1,000.00
+2.2. Por cada plana: $1,030.00
 
-2. De particulares por cada palabra: $2.00
-
-Quedarán exentos de pago las publicaciones a que se refiere este artículo, cuando se trate de ordenamientos expedidos por los Poderes Legislativo, Ejecutivo, Judicial, así como por los Ayuntamientos del Estado en el cumplimiento o ejercicio de sus funciones, sean de carácter general y de interés público.
+Quedarán exentas del pago para la publicación a que se refieren las fracciones I inciso b) y II inciso b), numeral 1 de este artículo, cuando se trate de ordenamientos expedidos por los Poderes Legislativo, Ejecutivo o Judicial; así como por los Ayuntamientos del Estado, en el cumplimiento o ejercicio de sus funciones, siempre y cuando se acredite fehacientemente ante la Secretaría que éstas sean de carácter general y de interés público.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -3983,15 +4673,25 @@ El monto de los productos no especificados se determinará por la Secretaría.
 
 ###### Artículo 122.
 
-Por los servicios de almacenaje de bienes en bodegas o locales pertenecientes al Gobierno del Estado, distintos a los corralones de tránsito, se pagarán productos de almacenaje conforme a las siguientes cuotas:
+Por los servicios de almacenaje de bienes en bodegas o locales pertenecientes al Gobierno del Estado, distintos a los corralones de tránsito, se pagarán productos de almacenaje conforme a lo siguiente:
 
-I. Cuando los bienes ocupen hasta 3.00 M2 de superficie y hasta tres metros de altura, por día 26.10 días de salario mínimo general vigente en el Estado; y
+TARIFA
 
-II. Por cada metro o fracción que exceda de la superficie o de la altura mencionada, por día 13.05 días de salario mínimo general vigente en el Estado.
+I. Cuando los bienes ocupen hasta tres m2 de
+
+superficie y hasta tres metros de altura por día: $2,294.00
+
+II. Por cada metro o fracción que exceda de
+
+la superficie o de la altura mencionada en el
+
+párrafo anterior, por día: $1,147.00
+
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 123.
 
-Por los bienes embargados y almacenados en las bodegas o locales del Gobierno del Estado, que hubieren sido rematados por autoridad judicial o administrativa, se pagarán por concepto de productos de almacenaje una tarifa de 2.6 días de salario mínimo general vigente en el Estado, a partir del décimo primer día siguiente a la fecha en que se hubiere fincado el remate.
+Por los bienes embargados y almacenados en las bodegas o locales del Gobierno del Estado, que hubieren sido rematados por autoridad judicial o administrativa, se pagarán por concepto de productos de almacenaje una tarifa de $229.00, a partir del décimo primer día siguiente a la fecha en que se hubiere fincado el remate.
 
 ###### Artículo 124.
 
@@ -4163,7 +4863,7 @@ PRIMERO.- El presente Decreto entrará en vigor el día 1 de enero del año 2007
 
 SEGUNDO.- Remítase el presente Decreto al Poder Ejecutivo, para los efectos a que se refieren los artículos 47 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
 
-TERCERO.- Durante el ejercicio fiscal de 2007, la tasa a que se refiere el artículo 58 B1S-4 será del 1.5%.
+TERCERO.- Durante el ejercicio fiscal de 2007, la tasa a que se refiere el artículo 58 BIS-4 será del 1.5%.
 
 CUARTO.- Durante los ejercicios fiscales de 2007 y 2008 tendrá plena vigencia la fracción VI del párrafo tercero del artículo 58 BIS-1 y quedará derogada a partir del 1 de enero del año 2009.
 
@@ -4320,3 +5020,27 @@ PRIMERA. Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado
 SEGUNDA. El presente Decreto iniciará su vigencia el día primero de enero del año 2015, previa su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión oficial del estado de Morelos.
 
 TERCERA. Se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
+
+P.O. 8 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO CIENTO VEINTIUNO POR EL QUE SE, REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE MORELOS".]
+
+PRIMERO.- REMÍTASE EL PRESENTE DECRETO AL TITULAR DEL PODER EJECUTIVO DEL ESTADO, PARA LOS EFECTOS DE LO DISPUESTO POR LOS ARTÍCULOS 44, 47 Y 70, FRACCIÓN XVII, INCISO A), DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
+
+SEGUNDO.- EL PRESENTE DECRETO ENTRARÁ EN VIGOR EL 01 DE ENERO DE 2016, PREVIA PUBLICACIÓN EN EL PERIÓDICO OFICIAL "TIERRA Y LIBERTAD", ÓRGANO DE DIFUSIÓN OFICIAL DEL GOBIERNO DEL ESTADO DE MORELOS.
+
+TERCERO.- SE DEROGAN TODAS LAS DISPOSICIONES JURÍDICAS DE IGUAL O MENOR RANGO JERÁRQUICO QUE SE OPONGAN AL PRESENTE DECRETO.
+
+CUARTO.- CON EXCEPCIÓN DEL TRANSPORTE PÚBLICO DE PASAJEROS Y DE CARGA EN TODAS SUS MODALIDADES, EL INICIO DE LA VIGENCIA DE LAS DISPOSICIONES CONTENIDAS EN LA FRACCIÓN VI DEL ARTÍCULO 84 BIS-1 DE ESTA LEY, SE DARÁ A PARTIR DE LA DECLARATORIA QUE EXPIDA LA SECRETARÍA FACULTADA EN MATERIA DE CONTROL VEHICULAR, POR LA CUAL SE CONCLUYA EL PROCESO DE CAPTURA, GRABACIÓN Y COLOCACIÓN DE LA CONSTANCIA DE INSCRIPCIÓN AL REGISTRO PÚBLICO VEHICULAR EN LAS UNIDADES QUE SE ENCUENTRAN REGISTRADAS EN EL PADRÓN VEHICULAR ESTATAL.
+
+QUINTO.- SE AUTORIZA UN SUBSIDIO FISCAL DEL 100% EN LOS RECARGOS, MULTAS Y ACTUALIZACIONES GENERADAS CON EL PAGO EXTEMPORÁNEO DE LOS DERECHOS DE CONTROL VEHICULAR DERIVADOS DE LOS VEHÍCULOS QUE SE ENCUENTRAN REGISTRADOS EN EL PADRÓN VEHICULAR ESTATAL COMO SERVICIO PÚBLICO DE TRANSPORTE, CORRESPONDIENTES A LOS EJERCICIOS FISCALES 2013, 2014 Y 2015.
+
+EN EL SUBSIDIO QUE SE ESTABLECE EN LA PRESENTE DISPOSICIÓN NO SE INCLUYEN EXPEDICIÓN DE CONCESIONES DEL SERVICIO PÚBLICO DE TRANSPORTE, SUS RENOVACIONES O CESIONES DE DERECHOS SOBRE LAS MISMAS.
+
+CORRESPONDERÁ A LA SUBSECRETARIA DE INGRESOS DEPENDIENTE DE LA SECRETARÍA DE HACIENDA, LA RECEPCIÓN, ANÁLISIS Y RESOLUCIÓN DE LAS SOLICITUDES PRESENTADAS, VALORANDO CADA UNA DE ELLAS; ASÍ COMO REGISTRAR LOS SUBSIDIOS FISCALES OTORGADOS.
+
+LA PRESENTE DISPOSICIÓN TRANSITORIA, SE APLICARA DE CONFORMIDAD CON LOS REQUISITOS Y REGLAS QUE EXPIDA LA SECRETARÍA DE MOVILIDAD DE (SIC) TRANSPORTE.
+
+El SUBSIDIO A QUE SE REFIERE LA PRESENTE DISPOSICIÓN TRANSITORIA, NO OTORGA A LOS CONTRIBUYENTES EL DERECHO DE LA DEVOLUCIÓN, REDUCCIÓN, DISMINUCIÓN, CONDONACIÓN, DEDUCCIÓN O COMPENSACIÓN ALGUNA, CON RESPECTO A LAS CANTIDADES EFECTIVAMENTE PAGADAS CON ANTERIORIDAD A LA VIGENCIA DE ESTA DISPOSICIÓN.
+
+LA PRESENTE DISPOSICIÓN ESTARÁ VIGENTE HASTA EL 30 DE JUNIO DE 2015.
