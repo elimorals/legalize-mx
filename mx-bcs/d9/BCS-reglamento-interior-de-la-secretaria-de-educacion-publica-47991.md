@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-de-la-secretaria-de-educacion-publica-47991
 country: "mx"
 rank: "reglamento"
 publication_date: "2006-01-05"
-last_updated: "2011-10-10"
+last_updated: "2015-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION PUBLICA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE EDUCACION PUBLICA
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN PÚBLICA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 10 DE OCTUBRE DE 2011.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN, PUBLICADO EN EL B.O. DE 8 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 8 DE DICIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el jueves 5 de enero de 2006.
 
@@ -1814,3 +1816,27 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Una vez publicado procédase a instalar de inmediato la Unidad de Acceso a la Información Pública de la Secretaría de Educación Pública, notificándose a las instancias correspondientes.
 
 TERCERO.- La Unidad de Acceso a la formación Pública estará ubicada en las oficinas centrales de la Secretaría de Educación Pública del Estado.
+
+B.O. 8 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE EDUCACIÓN”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Los nombramientos otorgados en fechas anteriores a la publicación del presente reglamento, dejarán de surtir efectos a partir de la fecha de publicación del mismo. La Secretaría, otorgará nuevos nombramientos a los titulares de las Unidades Administrativas, conforme a la actual estructura orgánica.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Reglamento Interior de la Secretaría de Educación Pública, publicado en el Boletín Oficial del Gobierno del Estado, Extraordinario número 01, de fecha 05 de enero de 2006; así como el Decreto que lo reforma y adiciona, publicado en el Boletín Oficial del Gobierno del Estado, número 58, de fecha 10 de octubre del 2011, así como sus respectivas disposiciones transitorias.
+
+###### ARTÍCULO CUARTO.
+
+En tanto se expidan los manuales que este Reglamento menciona, el Secretario de Educación queda facultado para resolver los asuntos no contemplados en el presente.
+
+###### ARTÍCULO QUINTO.
+
+Las facultades de las Unidades Administrativas que no se contemplan en el presente Reglamento, se establecerán en los Manuales de Organización respectivos.
