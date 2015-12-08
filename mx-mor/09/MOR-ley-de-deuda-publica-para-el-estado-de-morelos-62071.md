@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-deuda-publica-para-el-estado-de-morelos-62071"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-16"
-last_updated: "2014-12-31"
+last_updated: "2015-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62071&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE DEUDA PÚBLICA PARA EL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 16 de julio de 2008.
 
@@ -165,17 +165,23 @@ El desvío de los recursos a un destino distinto al aprobado por el Congreso y e
 
 El desvío de los recursos procedentes de financiamientos constitutivos de deuda pública, será responsabilidad de los servidores públicos que incurran en ella, ya sea que ordenen o ejecuten los actos que resulten en el desvío correspondiente. Dicho desvío, se sancionará de conformidad con las leyes aplicables.
 
+> <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 9.
 
 No constituirán deuda pública, las obligaciones directas a corto plazo que se contraigan por las entidades, cuando se cumplan los siguientes requisitos:
 
-I.- Se trate de empréstitos o créditos quirografarios;
+I.- Se trate de créditos o empréstitos quirografarios;
 
-II.- Su vencimiento y pago se realicen en el mismo ejercicio fiscal en el que sean contratadas; y
+II.- Se contraten a un plazo menor o igual a un año;
 
-III.- El saldo total acumulado de estos empréstitos o créditos no exceda al 5% (Cinco por ciento) de los ingresos ordinarios, del ejercicio fiscal correspondiente.
+III.- Estos créditos o empréstitos queden totalmente pagados a más tardar tres meses antes de que concluya el periodo de gobierno de la administración correspondiente; y
 
-Las obligaciones a que se refiere el presente Artículo, quedarán sujetas a los requisitos de información previstos en esta Ley.
+IV.- El saldo total acumulado de estos créditos o empréstitos no exceda el 5% (cinco por ciento) de los ingresos ordinarios del ejercicio fiscal correspondiente.
+
+Las obligaciones a que se refiere el presente artículo, quedarán sujetas a los requisitos de información previstos en esta Ley.
+
+Las entidades no podrán contratar créditos o empréstitos en los términos establecidos en el presente artículo durante los últimos tres meses de su administración.
 
 ###### Artículo 10.
 
@@ -1034,3 +1040,13 @@ P.O. 31 DE DICIEMBRE DE 2014.
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 8 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CIENTO VEINTISÉIS POR EL QUE SE REFORMA EL ARTÍCULO 9 DE LA LEY DE DEUDA PÚBLICA PARA EL ESTADO DE MORELOS”.]
+
+PRIMERA. Remítase el presente Decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDA. El presente Decreto iniciará su vigencia a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+TERCERA. Se derogan todas las disposiciones jurídicas de igual o menor rango jerárquico normativo que se opongan al presente Decreto.
