@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-de-la-secretaria-del-trabajo-y-81576"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-05-31"
-last_updated: "2011-05-31"
+last_updated: "2015-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DEL TRABAJO Y PREVISION SOCIAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DEL TRABAJO Y PREVISION SOCIAL
+REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL, PUBLICADO EN EL B.O. DE 8 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE DICIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el martes 31 de mayo de 2011.
 
@@ -376,3 +378,25 @@ CARLOS MENDOZA DAVIS
 EL SECRETARIO DEL TRABAJO Y PREVISION SOCIAL
 
 ALFREDO ZAMORA GARCÍA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 8 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría del Trabajo y Previsión Social, publicado en el Boletín Oficial del Gobierno del Estado de Baja California Sur, número 34, en fecha 31 de mayo del 2011, así como sus disposiciones Transitorias y las disposiciones administrativas que se opongan al presente.
+
+###### ARTÍCULO TERCERO.
+
+Los Manuales de Organización, de Procedimientos y de Servicios en su caso, se expedirán en un plazo que no exceda de 180 día (sic) naturales posteriores a la entrada en vigor del presente Reglamento.
+
+###### ARTÍCULO CUARTO.
+
+En tanto se expidan los Manuales mencionados en este Reglamento, el Secretario del Trabajo y Previsión Social queda facultado para resolver las cuestiones que conforme a dichos instrumentos se deban regular.
