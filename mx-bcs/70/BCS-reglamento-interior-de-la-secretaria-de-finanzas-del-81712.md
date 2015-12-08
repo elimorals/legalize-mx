@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-de-la-secretaria-de-finanzas-del-81712"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-10"
-last_updated: "2014-07-10"
+last_updated: "2015-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81712&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2014.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN DEL GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL B.O. DE 8 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE DICIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el viernes 10 de junio de 2011.
 
@@ -1512,3 +1514,35 @@ B.O. 10 DE JULIO DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 8 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN”.]
+
+###### ARTÍCULO PRIMERO.
+
+Este Reglamento entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTICULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría de Finanzas del Gobierno del Estado de Baja California Sur, publicado en el Boletín Oficial del Gobierno del Estado número 36 de fecha 10 de junio del 2011, así como como (sic) todas y cada una de las reformas y adiciones hasta la fecha del presente reglamento y las demás disposiciones administrativas que se opongan al presente Reglamento Interno.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Reglamento Interior de la Oficialía Mayor de Gobierno, publicado en el Boletín Oficial del Gobierno del Estado número 28 de fecha 20 de mayo del 2015, así como como (sic) las demás disposiciones administrativas que se opongan al presente Reglamento Interno.
+
+###### ARTÍCULO CUARTO.
+
+Los derechos de los trabajadores que, en virtud de lo dispuesto en el presente Reglamento, pasen a formar parte de la Secretaría de Finanzas y Administración, permanecerán vigentes y se regirán por las disposiciones legales y administrativas que les dieron origen.
+
+###### ARTÍCULO QUINTO.
+
+La Secretaría de Finanzas y Administración, deberá realizar los trámites financieros, presupuestales y administrativos necesarios para el cumplimiento del presente Reglamento Interior.
+
+###### ARTÍCULO SEXTO.
+
+Las referencias que se hagan y las atribuciones que se otorgaran en leyes, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones, a la Secretaría de Finanzas y a la Oficialía Mayor de Gobierno, así como a sus unidades administrativas, que cambian de denominación o se crean por virtud del presente Reglamento Interior, se entenderán hechas o conferidas a las unidades administrativas que correspondan conforme al presente Reglamento Interior, quienes terminarán la sustanciación de los asuntos que se encuentren en trámite a la fecha señalada en el ARTÍCULO PRIMERO TRANSITORIO de este Reglamento y, en su caso, dictarán la resolución que corresponda, aplicando en lo conducente las disposiciones establecidas en los reglamentos mencionados en los artículos SEGUNDO y TERCERO TRANSITORIOS del presente Reglamento. Tratándose de las demás unidades administrativas y para efecto de los procedimientos iniciados antes de la entrada en vigor del presente reglamento, se aplicarán hasta su total conclusión los reglamentos mencionados en los artículos SEGUNDO y TERCERO TRANSITORIOS del presente Reglamento.
+
+###### ARTÍCULO SÉPTIMO.
+
+En tanto se expidan los manuales de organización y de procedimientos correspondientes, el Secretario de Finanzas y Administración, queda facultado para resolver las cuestiones que conforme a dichos instrumentos se deban regular.
