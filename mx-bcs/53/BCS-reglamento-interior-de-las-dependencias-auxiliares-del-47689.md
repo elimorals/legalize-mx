@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-de-las-dependencias-auxiliares-del-47689"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-30"
-last_updated: "2013-11-10"
+last_updated: "2015-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47689&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 REGLAMENTO INTERIOR DE LAS DEPENDENCIAS AUXILIARES DEL GOBERNADOR DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE NOVIEMBRE DE 2013.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA OFICINA DEL EJECUTIVO DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL B.O. DE 8 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE DICIEMBRE DE 2015. (ABROGADO).
 
 Reglamento publicado en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el viernes 30 de diciembre de 2005.
 
@@ -672,3 +674,35 @@ La Secretaría de Finanzas y la Oficialía Mayor de Gobierno, realizarán las mo
 ###### ARTÍCULO TERCERO.
 
 Las Dependencias involucradas en estos temas harán los ajustes que correspondan en materia de manuales de organización y de procedimientos en su caso, que deban ser modifica (sic) para que armonicen en lo conducente por efectos del presente Decreto.
+
+P.O. 8 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA OFICINA DEL EJECUTIVO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor a partir del día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento interior de las Dependencias Auxiliares del Poder Ejecutivo, y sus reformas publicadas en los Boletines Oficiales del Gobierno del Estado Números 73, de fecha 30 de diciembre del 2005; 2 bis de fecha 15 de enero de 2006; 8 del 20 de febrero del 2007; 43 del 6 de julio del 2011; 49 del 20 de agosto del 2011; 39 del 9 de agosto del 2012 y 55 del 10 de noviembre del 2013 y su respectivos Transitorios.
+
+###### ARTÍCULO TERCERO.
+
+Para los efectos Administrativos y presupuestales a que haya lugar; la Secretaria de Finanzas atenderá lo dispuesto en el artículo Cuarto, Quinto y Séptimo transitorios de la Ley Orgánica de la Administración Pública del Estado de Baja California Sur, en vigor.
+
+###### ARTÍCULO CUARTO.
+
+A partir de la entrada en vigor el presente Reglamento Interior el Sistema para el Desarrollo Integral de la Familia, será coordinado por la Secretaría de Desarrollo Social, como un Organismo Descentralizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propios, será administrado conforme a las disposiciones de Decreto que lo crea, la Ley de la materia, su Reglamento Interior, las reglas de operación respectivas y las demás disposiciones que determine el Gobernador del Estado, de acuerdo a sus atribuciones.
+
+###### ARTÍCULO QUINTO.
+
+Las funciones de las Unidades Administrativas no contempladas en el presente reglamento, se establecerán en los manuales de organización respectivos.
+
+###### ARTÍCULO SEXTO.
+
+Los Manuales de Organización deberán ser expedidos (sic) un término de 180 días hábiles, contados a partir de la entrada en vigor del presente Reglamento.
+
+###### ARTÍCULO SEPTIMO.
+
+En tanto se expidan los Manuales que el artículo anterior menciona, el Gobernador del Estado queda facultado para resolver las cuestiones que conforme a dichos manuales se deban regular.
