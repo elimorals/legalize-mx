@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-de-la-secretaria-general-de-gobierno-de-955
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-07-25"
-last_updated: "2015-07-10"
+last_updated: "2015-12-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95553&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2015.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO, PUBLICADO EN EL B.O. DE 8 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE DICIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el jueves 25 de julio de 2013.
 
@@ -1432,3 +1434,41 @@ PRIMERO.- El presente Decreto entrará en vigor, al día siguiente de su publica
 SEGUNDO.- La Secretaría de Finanzas y la Oficialía Mayor de Gobierno deberán hacer los trámites presupuestales y administrativos necesarios para el cumplimiento del presente decreto.
 
 TERCERO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+B.O. 8 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA GENERAL DE GOBIERNO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría General de Gobierno publicado en el Boletín Oficial del Gobierno del Estado número 34, de fecha 25 de julio del año 2013; así como todas y cada una de las reformas y adiciones hasta la fecha del presente reglamento interno y las demás disposiciones administrativas que se opongan al mismo.
+
+###### ARTÍCULO TERCERO.
+
+Cuando en la Ley de Protección Civil y Gestión de Riesgos para el Estado y Municipios de Baja California Sur, haga referencia a la Coordinación Estatal de Protección Civil, se entenderá que se refiere a la Subsecretaría de Protección Civil.
+
+###### ARTÍCULO CUARTO.
+
+Los derechos de los trabajadores que, en virtud de lo dispuesto en el presente Reglamento, dejan de formar parte de la Secretaría General de Gobierno, permanecerán vigentes y se regirán por las disposiciones legales y administrativas que les dieron origen.
+
+###### ARTÍCULO QUINTO.
+
+Los derechos de los trabajadores de la Secretaría Ejecutiva de la Comisión Implementadora del Nuevo Sistema de Justicia Penal, que se integran a la Secretaría General de Gobierno, permanecerán vigentes y se regirán por las disposiciones legales y administrativas que les dieron origen.
+
+Lo dispuesto en el presente artículo transitorio, deberá contemplarse en el Reglamento Interior de la Procuraduría General de Justicia del Estado.
+
+###### ARTÍCULO SEXTO.
+
+Las facultades de las Unidades Administrativas que no se contemplan en el presente Reglamento, se establecerán en los Manuales de Organización respectivos.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Secretaría de Finanzas y Administración, deberán realizar los trámites financieros, presupuestales y administrativos necesarios para el cumplimiento del presente Reglamento Interior.
+
+###### ARTÍCULO OCTAVO.
+
+En tanto se expidan los Manuales mencionados en este Reglamento, el Secretario General de Gobierno queda facultado para resolver las cuestiones que conforme a dichos instrumentos se deban regular.
