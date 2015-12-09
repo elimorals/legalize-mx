@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-educacion-del-estado-de-nayarit-6855"
 country: "mx"
 rank: "ley"
 publication_date: "1994-07-13"
-last_updated: "2015-10-17"
+last_updated: "2015-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6855&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 13 de julio de 1994.
 
@@ -113,7 +113,9 @@ III.- Contribuirá al desarrollo integral y armónico de las facultades del ser 
 
 IV.- Propiciar en los educandos la integración de los conocimientos que armonicen la tradición y la modernidad;
 
-V.- Crear conciencia de la necesidad de mejorar el ambiente y de preservar el equilibrio ecológico;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+V.- Inculcar los conceptos y principios fundamentales de la ciencia ambiental, el desarrollo sustentable, la prevención del cambio climático, así como de la valoración de la protección y conservación del medio ambiente y el equilibrio ecológico, como elementos fundamentales para el desenvolvimiento armónico e integral del individuo y la sociedad. También se proporcionarán los elementos básicos de protección civil, mitigación y adaptación ante los efectos que representa el cambio climático y otros fenómenos naturales;
 
 > <small>(REFORMADA, P.O. 17 DE MARZO DE 2012)</small>
 
@@ -265,13 +267,17 @@ XXVII.- Instrumentar un sistema accesible a los ciudadanos y docentes para la pr
 
 XXVIII.- Suscribir convenios de colaboración con instituciones de educación superior nacionales o del extranjero para ampliar las opciones de formación, actualización y superación docente;
 
-> <small>(REFORMADA, P.O. 17 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
-XXIX.- De manera concurrente con la autoridad educativa federal, promover la investigación y el desarrollo de la ciencia, la tecnología y la innovación, fomentando su enseñanza, diseminación y divulgación en acceso abierto cuando el conocimiento se obtenga mediante financiamiento público o el uso de infraestructura pública, sin perjuicio de las disposiciones en materia de patentes, protección de la propiedad intelectual o industrial, seguridad nacional y derechos de autor, entre otras, así como de aquella información que por razón de su naturaleza o decisión del autor, sea confidencial o reservada, y
+XXIX.- De manera concurrente con la autoridad educativa federal, promover la investigación y el desarrollo de la ciencia, la tecnología y la innovación, fomentando su enseñanza, diseminación y divulgación en acceso abierto cuando el conocimiento se obtenga mediante financiamiento público o el uso de infraestructura pública, sin perjuicio de las disposiciones en materia de patentes, protección de la propiedad intelectual o industrial, seguridad nacional y derechos de autor, entre otras, así como de aquella información que por razón de su naturaleza o decisión del autor, sea confidencial o reservada;
 
-> <small>(ADICIONADA, P.O. 17 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
-XXX.- Las demás que fijen las leyes o normas aplicables en la materia.
+XXX.- Impulsar el estudio sobre la conservación y protección del medio ambiente, el aprovechamiento racional y sustentable de los recursos naturales, así como la prevención del cambio climático, para la solución de los problemas económicos, sociales y culturales del Estado, y
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+XXXI.- Las demás que fijen las leyes o normas aplicables en la materia.
 
 ###### ARTICULO 10.
 
@@ -491,9 +497,11 @@ Los planes y programas correspondientes a la Educación y los destinados a la fo
 
 Por lo que respecta a Educación Básica y Normal, y demás para la formación de Maestros para la Educación Básica, será la Secretaría de Educación Pública la que los determine.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 40.
 
-Es competencia de las Autoridades Educativas del Estado, proponer a la Secretaría de Educación Pública, los contenidos regionales que estimen pertinentes para la educación en el Estado.
+Es competencia de las Autoridades Educativas del Estado, proponer a la Secretaría de Educación Pública, los contenidos regionales en materia de historia, geografía, cultura, cuidado y protección del medio ambiente y los recursos naturales, prevención del cambio climático, igualdad de género, derechos humanos, así como otros aspectos que se estimen pertinentes para el fortalecimiento de la educación en la entidad.
 
 ###### ARTICULO 41.
 
@@ -939,9 +947,17 @@ VI.- Realizarán las demás actividades que permitan mejorar y ampliar la cobert
 
 VII.- Apoyarán y desarrollarán programas, cursos y actividades que fortalezcan la enseñanza de los padres de familia respecto al valor de la igualdad y solidaridad entre las hijas e hijos, la prevención de la violencia escolar desde el hogar y el respeto a sus maestros;
 
-VIII.- Establecerán, de forma paulatina y conforme a la suficiencia presupuestal, escuelas de tiempo completo, con jornadas de entre 6 y 8 horas diarias, para aprovechar mejor el tiempo disponible para el desarrollo académico, deportivo y cultural, y
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
-IX.- Impulsarán esquemas eficientes para el suministro de alimentos nutritivos para alumnos, a partir de microempresas locales, en aquellas escuelas que lo necesiten, conforme a los índices de pobreza, marginación y condición alimentaria.
+VIII.- Establecerán, de forma paulatina y conforme a la suficiencia presupuestal, escuelas de tiempo completo, con jornadas de entre 6 y 8 horas diarias, para aprovechar mejor el tiempo disponible para el desarrollo académico, deportivo y cultural;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+IX.- Fomentarán la educación sobre el cuidado y protección del medio ambiente, el equilibrio ecológico, así como la prevención del cambio climático, a efecto de que el crecimiento económico y social se realice en armonía con el aprovechamiento racional y sustentable de los recursos naturales, y
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+X.- Impulsarán esquemas eficientes para el suministro de alimentos nutritivos para alumnos, a partir de microempresas locales, en aquellas escuelas que lo necesiten, conforme a los índices de pobreza, marginación y condición alimentaria.
 
 > <small>(ADICIONADO, P.O. 3 DE OCTUBRE DE 2012)</small>
 
@@ -1346,3 +1362,9 @@ Artículo Noveno.- Se derogan todas las disposiciones que se opongan al presente
 P.O. 17 DE OCTUBRE DE 2015.
 
 Único.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 9 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE EDUCACIÓN DEL ESTADO DE NAYARIT”.]
+
+Único.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
