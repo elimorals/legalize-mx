@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2015-11-21"
+last_updated: "2015-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE ENERO DE 2016 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2015.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -225,7 +227,9 @@ Participarán en el diseño, ejecución, evaluación y seguimiento de la planeac
 
 Así mismo, tienen el derecho a la representación en la administración pública.
 
-La ley establecerá todo lo relativo a las competencias, jurisdicciones y demás que sean necesarias para dar cumplimiento al presente Capítulo.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+Para efecto de dar cumplimiento a lo dispuesto en este artículo, el Congreso del Estado y los ayuntamientos, en el ámbito de sus respectivas competencias, establecerán las previsiones presupuestales necesarias y las formas y procedimientos para que los pueblos indígenas participen en el ejercicio y vigilancia de dichos recursos.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -845,11 +849,11 @@ La Legislatura no podrá instalarse ni ejercer sus funciones sin la presencia de
 
 Si en una segunda reunión no hubiere la mayoría requerida para la instalación del Congreso, se llamará desde luego a los suplentes para que desempeñen el cargo durante el periodo constitucional.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
 ###### Art. 48.
 
-El Congreso se reunirá en dos períodos ordinarios de sesiones cada año. El primero iniciará el primer día del mes de octubre y concluirá a más tardar el treinta y uno de diciembre; y el segundo dará inicio el día primero de marzo y concluirá a más tardar el treinta de junio.
+El Congreso se reunirá en dos períodos ordinarios de sesiones cada año. El primero iniciará el primer día del mes de septiembre y concluirá a más tardar el treinta y uno de diciembre; y el segundo dará inicio el día primero de marzo y concluirá a más tardar el treinta y uno de mayo.
 
 > <small>(REFORMADO, P.O. 15 DE JULIO DE 1992)</small>
 
@@ -877,11 +881,21 @@ En todo caso, quien hubiere promovido la convocatoria presentará al Congreso un
 
 Si el período extraordinario se prolongare hasta la fecha en que deba comenzar alguno de los ordinarios, cesará aquél, pero en éste se tratarán de preferencia los asuntos que hubieren quedado pendientes.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
 ###### Art. 53.
 
-Señalado el día para la discusión de iniciativas presentadas por el Ejecutivo, por el Supremo Tribunal de Justicia, por algún ayuntamiento o por chihuahuenses en ejercicio del derecho establecido por la fracción V del artículo 68, se les dará aviso con anticipación para que puedan intervenir en la discusión, el mismo Ejecutivo por sí o por quien designe, de conformidad con la materia de que se trate; un magistrado del Tribunal por parte del mismo; algún representante del ayuntamiento de que se trate o un representante de los chihuahuenses que hayan presentado la correspondiente iniciativa. A cada uno según sea el caso, si concurrieren, se les concederá el uso de la palabra de igual modo que a los diputados, pero sin derecho a votar.
+Señalado el día para la discusión de iniciativas presentadas por el Ejecutivo, por el Tribunal Superior de Justicia, por algún ayuntamiento, por el Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública, o por chihuahuenses en ejercicio del derecho establecido por la fracción V del artículo 68, se les dará aviso con anticipación para que puedan intervenir en la discusión, concediéndoseles el uso de la palabra de igual modo que a los diputados, pero sin derecho a votar, de la siguiente manera:
+
+I. El Ejecutivo por sí o por quien designe, de conformidad con la materia de que se trate.
+
+II. El Tribunal Superior de Justicia, por un Magistrado.
+
+III. El Ayuntamiento, por un representante del mismo.
+
+IV. El Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública, por el Comisionado Presidente o por quien designe.
+
+V. Un representante de los chihuahuenses que hayan presentado la correspondiente iniciativa.
 
 > <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
 
@@ -889,15 +903,21 @@ Señalado el día para la discusión de iniciativas presentadas por el Ejecutivo
 
 Siempre que el Congreso abra o cierre un período de sesiones, lo hará por formal decreto.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
 ###### Art. 55.
 
-A la apertura del primer período ordinario de sesiones concurrirá el Gobernador del Estado, quien presentará un informe por escrito en que manifieste el estado que guarda la administración pública. Si el Gobernador le da lectura, el Presidente del Congreso le contestará en términos generales y un representante de cada grupo parlamentario podrá hacer comentarios generales en torno al mismo una vez rendido aquél y dentro de la misma sesión. El desarrollo de la intervención de dichos representantes se regulará en la ley orgánica del Congreso.
+El Gobernador del Estado asistirá a la apertura del segundo periodo ordinario de sesiones de cada año legislativo, y presentará un informe por escrito en que manifieste el estado que guarda la administración pública a su cargo, el cual comprenderá los meses de enero a diciembre de cada año.
 
-> <small>(ADICIONADO, P.O. 28 DE AGOSTO DE 2004)</small>
+Tratándose del primer informe que presente el Gobernador del Estado comprenderá de la fecha en que tome posesión de su encargo hasta el mes de diciembre del año siguiente al de la toma de protesta.
 
-Tratándose del último año de su gestión, el Gobernador podrá rendir por escrito el informe del estado que guarda la administración pública, el primer viernes del mes de septiembre, cumpliendo las formalidades previstas para tal efecto en el artículo 51 de esta Constitución.
+El último año de su gestión, el Gobernador podrá rendir por escrito el informe, el primer viernes del mes de agosto, cumpliendo las formalidades previstas para tal efecto en el artículo 51 de esta Constitución.
+
+Si el Gobernador le da lectura, el Presidente del Congreso le contestará en términos generales y un integrante de cada grupo parlamentario, coalición parlamentaria, diputados independientes o representantes de partido político, podrán hacer comentarios generales, dentro de la misma sesión, sobre el contenido del informe, en los términos de la Ley Orgánica del Poder Legislativo.
+
+Recibido el informe, el Congreso, cuando lo estime pertinente, citará a los titulares de las Secretarías, a los directores de las Entidades Paraestatales y a quien ostente la representación de los Órganos Constitucionales Autónomos, a fin de que comparezcan a informar, bajo protesta de decir verdad, sobre los asuntos inherentes a su encargo.
 
 > <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
 
@@ -931,27 +951,55 @@ Si una vez instalado el Congreso transcurren treinta días sin que uno ó más d
 
 Si los ausentes hubieran sido electos según el principio de representación proporcional y no concurrieren al Congreso en los términos del párrafo anterior, se llamará a los respectivos suplentes y, en caso de no concurrir, al candidato propietario que siga en el orden de acreditación que corresponda al partido de que se trate, según el sistema de lista o el de más altos porcentajes de votación válida obtenida en su distrito por cada uno de los candidatos del mismo partido.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
 ###### Art. 61.
 
-La Legislatura se considerará desaparecida:
+El Congreso del Estado tendrá una Mesa Directiva que será el órgano encargado de dirigir sus trabajos.
 
-I.- Cuando llegado el primero de octubre, no se hubieren electo más de la mitad del número total de diputados que deban integrar la que ha de instalarse en esa fecha, y
+Se integrará por un presidente, dos vicepresidentes, dos secretarios y cuatro prosecretarios, quienes durarán en funciones un año.
 
-II.- Cuando concluyere un período ordinario de sesiones sin dejar nombrada la Diputación Permanente, y el Congreso no se reuniere dentro de un mes, ya sea espontáneamente o convocado por el Ejecutivo, para hacer el nombramiento.
+En su conformación se privilegiará la paridad de género y la composición plural del Congreso.
 
-En tales supuestos, el Gobernador convocará desde luego a elecciones para completar los diputados que falten o bien para integrar totalmente la Legislatura, según el caso que se presente.
+La Mesa Directiva se elegirá por el voto de las dos terceras partes de los diputados presentes, dentro de los diez días previos al inicio de cada año legislativo.
+
+La Presidencia de la Mesa Directiva se ejercerá de manera alternada entre los integrantes de los grupos y coaliciones parlamentarios, considerando de manera prioritaria, a los diputados representantes de los partidos políticos que por sí mismos constituyan la primera y segunda fuerza política. El orden para presidir este órgano será acordado por la Junta de Coordinación Política.
+
+Los Coordinadores de los Grupos Parlamentarios no podrán presidir la Mesa Directiva.
+
+En ningún caso la Presidencia de la Mesa Directiva recaerá en el mismo año legislativo, en un diputado que pertenezca al Grupo Parlamentario que presida la Junta de Coordinación Política.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
 ###### Art. 62.
 
-En todos los casos no previstos en esta Constitución y en que de hecho desaparezca el Congreso, el Ejecutivo convocará también a elecciones de Diputados tan luego como transcurra un mes contado desde la fecha de la desaparición.
+La Junta de Coordinación Política es el órgano colegiado en que se impulsan entendimientos y convergencias políticas con las instancias y órganos que resulten necesarios, a fin de alcanzar acuerdos para que el Pleno esté en condiciones de adoptar las decisiones que constitucional y legalmente le corresponden.
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
+La Junta de Coordinación Política estará integrada por quienes coordinen los grupos o coaliciones parlamentarios, por las o los diputados que se constituyan como representaciones parlamentarias, por las o los diputados independientes, por quien presida la Mesa Directiva, y por las o los subcoordinadores; todos con derecho a voz y voto, con excepción de estos dos últimos, que solo tendrán voz.
+
+Deberá quedar integrada, a más tardar, en la tercera sesión ordinaria inmediata posterior a la de instalación del primer período ordinario de sesiones, del primer año de ejercicio constitucional de la legislatura.
+
+Será presidida, de manera alternada, cada año legislativo, por quienes coordinen los grupos o coaliciones parlamentarios.
+
+El orden anual para presidir la Junta de Coordinación Política será acordado por los integrantes de la misma, considerando de manera prioritaria a los partidos políticos que por sí mismos representen la primera y segunda fuerza política.
+
+La Junta de Coordinación Política tomará sus decisiones por consenso, pero en el caso de que este no se obtenga, las llevará a cabo mediante votación ponderada, en la cual los respectivos coordinadores o representantes significarán tantos votos como integrantes tengan sus grupos o coaliciones parlamentarios.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
 ###### Art. 63.
 
-En caso de desaparición legal de un Congreso, el que lo substituya para concluir el correspondiente período, llevará el número de la Legislatura desaparecida.
+Cuando llegado el primero de septiembre, no se hubieren electo más de la mitad del número total de diputados que deban integrar la Legislatura que ha de instalarse en esa fecha, el Gobernador convocará a elecciones para integrarla debidamente.
+
+Cuando concluyere un año de ejercicio legislativo sin dejar nombrada la Mesa Directiva correspondiente al siguiente ejercicio, y el Congreso no se reuniere dentro de un mes, el Gobernador lo exhortará para que aquel lleve a cabo el nombramiento respectivo.
+
+En caso de desaparición legal de una Legislatura, la que la sustituya para concluir el correspondiente período, llevará el número de la Legislatura desaparecida.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 24 DE ENERO DE 1979)</small>
 
@@ -1017,17 +1065,19 @@ En la aprobación del Presupuesto de Egresos del Estado, el Congreso autorizará
 
 El Ejecutivo del Estado hará llegar al Congreso la Iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos, a más tardar el día treinta de noviembre, debiendo comparecer el encargado de las finanzas del Estado a dar cuenta de las mismas. Tanto el Proyecto, como el Presupuesto de Egresos que se apruebe, deberán incluir los tabuladores desglosados de las remuneraciones que se propone perciban los servidores públicos, sujetándose a los dispuesto en los artículos 116 y 127 de la Constitución Federal y 165 bis de esta Constitución;
 
-> <small>(REFORMADA, P.O. 9 DE MAYO DE 2007)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
-VII.- Fiscalizar la cuenta pública del Estado y de los municipios; así como los estados financieros de cualquier persona física o moral y, en general de todo ente que reciba, maneje, recaude o administre recursos públicos, independientemente de su denominación.
+VII.- Revisar y fiscalizar, en los términos de la ley de la materia y por conducto de su Órgano Técnico y de la Comisión de Fiscalización, las cuentas públicas anuales y los informes financieros trimestrales del Estado y de los municipios; así como los estados financieros de cualquier persona física o moral y, en general, de todo ente que reciba, maneje, recaude o administre recursos públicos, independientemente de su denominación.
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 2001)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
-VIII.- Aprobar las Leyes de Ingresos de los municipios a más tardar el día 15 de diciembre, revisar y fiscalizar sus cuentas públicas.
+VIII.- Aprobar las Leyes de Ingresos de los municipios a más tardar el día 15 de diciembre.
 
 IX.- Autorizar al Gobernador:
 
-A.- Para que, conforme a las bases que le fije el mismo Congreso y sometiéndolos después a su aprobación, celebre arreglos sobre límites del territorio del Estado, los cuales quedarán sujetos a la ratificación del Congreso de la Unión.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+A.- Para que, conforme a las bases que le fije el mismo Congreso y sometiéndolos después a su aprobación, celebre arreglos sobre límites del territorio del Estado, los cuales quedarán sujetos a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos.
 
 B.- Para que, con la limitación que establece el artículo 117, fracción VIII, de la Constitución General, celebre contratos o empréstitos sobre el crédito del Estado, con sujeción a las bases que se le fijen por la Legislatura, a cuya aprobación serán sometidos aquéllos.
 
@@ -1083,9 +1133,9 @@ XV.- Constituido en Colegio Electoral:
 
 A.- Elegir Gobernador interino, provisional o sustituto en los casos que establezca esta Constitución.
 
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
-B) Nombrar a los magistrados del Supremo Tribunal de Justicia, de entre la terna que someta a su consideración la Comisión a que se refiere el artículo 103 de esta Constitución; así como aprobar el nombramiento del Fiscal General del Estado que para tal efecto envíe el Gobernador.
+B.- Nombrar a los magistrados del Tribunal Superior de Justicia, de entre la terna que someta a su consideración la Comisión a que se refiere el artículo 103 de esta Constitución; así como aprobar el nombramiento del Fiscal General del Estado que para tal efecto envíe el Gobernador.
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
@@ -1137,9 +1187,11 @@ XX.- Aplicar, mediante juicio político, las sanciones mencionadas en el artícu
 
 XXI.- Dirimir los conflictos que se susciten entre los Poderes Ejecutivo y Judicial del Estado, salvo el caso en que deba intervenir el Senado o la Suprema Corte de Justicia de la Nación.
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XXII.- Administrar y ejercer su propio presupuesto de egresos, en los términos que disponga su ley orgánica.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+XXII.- Contar con patrimonio propio, así como aprobar, administrar y ejercer su presupuesto de egresos, en los términos que disponga su Ley Orgánica, previo acuerdo de la Junta de Coordinación Política.
 
 > <small>(REFORMADA, P.O. 24 DE ENERO DE 1979)</small>
 
@@ -1153,9 +1205,19 @@ XXV.- Conceder amnistía por delitos cuyo conocimiento corresponda a los Tribuna
 
 XXVI.- (DEROGADA, P.O. 28 DE MAYO DE 2014)
 
-> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
-XXVII. Designar al Presidente y a los demás integrantes del Consejo de la Comisión Estatal de los Derechos Humanos, por el voto de las dos terceras partes de los miembros presentes de la Legislatura, mediante ternas propuestas por la Junta de Coordinación Parlamentaria, previa consulta pública realizada en los términos de la Ley. Así mismo, removerlos en los términos del Título XIII de esta Constitución;
+XXVII.- Designar al Presidente y a los demás integrantes del Consejo de la Comisión Estatal de los Derechos Humanos, conforme a lo siguiente:
+
+A) La Junta de Coordinación Política, para tal efecto, realizará consulta pública en los términos de la Ley.
+
+B) La Junta de Coordinación Política llevará a cabo una o varias entrevistas públicas con los interesados.
+
+C) La Junta de Coordinación Política hará las propuestas de las ternas de quienes ocuparán cada uno de los cargos referidos.
+
+D) El Pleno, mediante el voto de las dos terceras partes de sus miembros presentes, designará, de las ternas propuestas, a quienes habrán de ocupar los cargos de Presidente y a los demás integrantes del Consejo de la Comisión Estatal de los Derechos Humanos.
+
+Los funcionarios a que se refiere esta fracción, únicamente podrán ser removidos de sus cargos, en los términos del Título XIII de esta Constitución.
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1195,9 +1257,9 @@ XXXVI.- Conceder pensiones a los servidores del Estado que queden incapacitados 
 
 Así mismo, a los miembros pertenecientes a los grupos de voluntarios integrantes del Sistema Estatal de Protección Civil del Estado de Chihuahua, que presten un servicio no remunerado y que por motivo de su actividad, queden incapacitados total o parcialmente para el trabajo o funciones; y a sus viudas o huérfanos cuando aquéllos perdieran la vida por los mismos motivos.
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
-XXXVII.- Dictar leyes para el desarrollo integral de los pueblos indígenas, previa consulta a éstos. Además, dichos pueblos podrán nombrar un representante ante el Congreso cuando se discutan las mencionadas leyes, en los términos del artículo 53 de esta Constitución.
+XXXVII.- Dictar leyes para el desarrollo integral de los pueblos indígenas, previa consulta a estos, para lo cual se escuchará a sus representantes cuando se discutan las mencionadas leyes.
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1213,7 +1275,9 @@ XL. Expedir las leyes que regulen las relaciones entre el Estado, Municipios, or
 
 XLI.- Crear, a iniciativa del Poder que así lo requiera, organismos descentralizados y autorizar, a iniciativa del Poder Ejecutivo, la creación de empresas de participación estatal mayoritaria, así como de fideicomisos, patronatos o entidades similares que comprometan recursos públicos. Los correspondientes decretos establecerán la estructura orgánica y las funciones que se les asignen, así como la obligación del Ejecutivo de acompañar sus estados financieros a la cuenta pública anual.
 
-XLII.- Nombrar la Diputación Permanente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+XLII.- (DEROGADA, P.O. 9 DE DICIEMBRE DE 2015)
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1221,27 +1285,33 @@ XLIII.- Expedir la ley que regulará su estructura y funcionamiento internos, la
 
 Esta ley no podrá ser iniciada ni objeto de observaciones por el Ejecutivo, que la promulgará y publicará dentro de los diez días hábiles siguientes a su recepción.
 
-> <small>(REFORMADA, P.O. 13 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
-XLIV.- Nombrar al Auditor Superior del Estado, a propuesta de la Junta de Coordinación Parlamentaria, por el voto de las dos terceras partes de los diputados presentes. La designación del Auditor Superior del Estado será por un plazo de siete años contados a partir de que asuma el cargo. Sólo por causas graves previstas por la Ley podrá ser removido, mediando la misma votación requerida para su nombramiento.
+XLIV.- Designar, a propuesta de la Junta de Coordinación Política, al Auditor Superior del Estado mediante el voto de las dos terceras partes de los diputados presentes en la sesión del Pleno que corresponda y tomarle la protesta de Ley.
 
-> <small>(F. DE E., P.O. 20 DE OCTUBRE DE 2007)</small>
+Durará en su encargo siete años, no podrá ser reelecto y únicamente podrá ser removido mediante la misma votación requerida para su designación.
 
-Nombrar y remover libremente al Oficial Mayor del Congreso del Estado.
-
-> <small>(F. DE E., P.O. 20 DE OCTUBRE DE 2007)</small>
-
-Una vez nombrados, tomarles la protesta de ley a ambos servidores públicos.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
 XLV.- (DEROGADA, P.O. 8 DE AGOSTO DE 2015)
 
-> <small>(REFORMADA, P.O. 15 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
-XLVI.- Expedir todas las leyes necesarias a fin de hacer efectivas las facultades anteriores y todas las otras concedidas por esta Constitución a los Poderes del Estado; y
+XLVI.- Expedir las leyes necesarias a fin de hacer efectivas las facultades concedidas por esta Constitución a los Poderes del Estado.
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE NOVIEMBRE DE 2008)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
-XLVII.- Las demás que le confieren esta Constitución, la Federal y demás leyes.
+XLVII.- Citar a comparecer ante el Pleno a los titulares de las Secretarías de Estado, a los directores de las entidades paraestatales y a quien ostente la representación de los Órganos Constitucionales Autónomos, en caso de requerir su presencia para tratar asuntos de relevancia y trascendencia para el Estado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+XLVIII.- Aprobar los Planes Estatales de Desarrollo y de Seguridad Pública, en los plazos que disponga la Ley.
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+XLIX.- Las demás que le confieren esta Constitución, la Federal y demás leyes.
 
 ### CAPITULO IV.
 
@@ -1261,25 +1331,23 @@ II.- Despachar dentro de los términos que señale la Ley Orgánica del Congreso
 
 III.- Emitir su voto en los asuntos que se sometan a la deliberación del Congreso.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
-IV.- Visitar en los recesos de la Legislatura, cuando menos una vez, el distrito por el que resultaron electos, o los de aquel en que residan quienes fueron electos por el principio de representación proporcional, para informarse:
+IV.- Visitar en los recesos de la Legislatura el distrito por el que resultaron electos, o los de aquel en que residan quienes fueron electos por el principio de representación proporcional, y presentar al Pleno un informe sobre las actividades desarrolladas, inherentes a su encargo, dentro de los dos primeros meses del primer período ordinario de sesiones de cada año de ejercicio constitucional.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+A) (DEROGADO, P.O. 9 DE DICIEMBRE DE 2015)
 
-A.- Del estado que guardan la enseñanza pública, los derechos humanos y la procuración y administración de justicia.
+B) (DEROGADO, P.O. 9 DE DICIEMBRE DE 2015)
 
-B.- De la manera con que los funcionarios y empleados públicos cumplan con sus respectivas obligaciones.
+C) (DEROGADO, P.O. 9 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+D) (DEROGADO, P.O. 9 DE DICIEMBRE DE 2015)
 
-C.- Del estado en que se encuentra el desarrollo socioeconómico y la prestación de los servicios públicos.
+E) (DEROGADO, P.O. 9 DE DICIEMBRE DE 2015)
 
-D.- De los obstáculos que se opongan al adelanto del Distrito, y de las medidas impulsivas que sea necesario dictar en todos o alguno de los ramos de la riqueza pública.
+El informe respecto del último año de ejercicio legislativo, deberá presentarse del primero al treinta y uno de agosto del año en que concluye la Legislatura.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2002)</small>
-
-E.- Presentar al Congreso, a más tardar en la tercera sesión posterior inmediata a la visita, un informe por escrito que contenga las observaciones que hubieren hecho, proponiendo al mismo tiempo las medidas que crean convenientes.
+Así mismo, lo hará del conocimiento de la ciudadanía del distrito que represente; o el de su residencia, si es de representación proporcional.
 
 > <small>(ADICIONADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1303,9 +1371,11 @@ II.- No podrán contener más que la directa y estricta formulación de una sola
 
 III.- A más tardar en la segunda sesión posterior a la de su formulación ante el Pleno o la siguiente cuando se presente en la Diputación Permanente, el Presidente turnará la pregunta a quien va dirigida, con aviso al Gobernador, una vez que haya constatado que el cuestionamiento corresponde a un asunto de la competencia del funcionario de que se trate y que además reúne los requisitos señalados en las fracciones anteriores. En caso contrario, o bien porque ya se haya presentado por otra pregunta similar en el mismo período, la declarará improcedente;
 
-> <small>(REFORMADA, P.O. 26 DE OCTUBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-IV.- Tratándose de la administración centralizada, el funcionario, por conducto del Secretario General de Gobierno, hará llegar su respuesta o informe correspondiente al Presidente del Congreso o de la Diputación Permanente, en los demás casos por conducto del Presidente, Directores o sus equivalentes de los organismos mencionados, dentro de los veinte días naturales posteriores a la fecha en que haya recibido la pregunta, pero si presenta solicitud motivada el plazo podrá prorrogarse por una sola vez hasta por cinco días naturales, y
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+IV.- Tratándose de la administración centralizada, el funcionario, por conducto del Secretario General de Gobierno, hará llegar su respuesta o informe correspondiente a quien presida la Mesa Directiva; en los demás casos por conducto del Presidente, Directores o sus equivalentes de los organismos mencionados, dentro de los veinte días naturales posteriores a la fecha en que haya recibido la pregunta, pero si presenta solicitud motivada, el plazo podrá prorrogarse por una sola vez hasta por cinco días naturales.
 
 > <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2002)</small>
 
@@ -1317,9 +1387,11 @@ V.- El Congreso o la Diputación Permanente conocerán la respuesta y en su caso
 
 Los diputados son inviolables por las opiniones que manifiesten en el desempeño de sus cargos y jamás podrán ser reconvenidos por ellas.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-El Presidente del Congreso o de la Diputación Permanente, en su caso, velará por el respeto al fuero constitucional de los diputados y por la inviolabilidad del recinto donde se reúnen a sesionar.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+Quien presida la Mesa Directiva velará por el respeto al fuero constitucional de los diputados y por la inviolabilidad del recinto donde se reúnen a sesionar.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1335,17 +1407,35 @@ I.- A los Diputados.
 
 II.- Al Gobernador.
 
-III.- Al Supremo Tribunal, en asuntos concernientes al ramo de Justicia.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+III.- Al Tribunal Superior de Justicia, en asuntos concernientes al ramo de justicia.
 
 > <small>(REFORMADA, P.O. 12 DE MAYO DE 2001)</small>
 
 IV.- A los ayuntamientos, en lo que se relacione con asuntos del gobierno municipal.
 
-> <small>(ADICIONADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
-V.- A los chihuahuenses, mediante iniciativa popular presentada en forma por ciudadanos debidamente identificados, cuyo número sea cuando menos el uno por ciento de los inscritos en el padrón electoral.
+V.- Al Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública, en materia de acceso a la información pública y de protección de datos personales, por conducto del Comisionado Presidente, previo acuerdo del Consejo General.
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+VI.- A los chihuahuenses, mediante iniciativa popular signada, cuando menos, por el uno por ciento de los ciudadanos inscritos en el padrón electoral, debidamente identificados.
 
 Las iniciativas presentadas conforme a esta fracción, deberán ser dictaminadas a más tardar en el siguiente período de sesiones ordinarias a aquel en que se reciban.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+El Gobernador del Estado podrá presentar hasta dos iniciativas para trámite preferente en la apertura de cada período ordinario de sesiones, o bien, señalar con tal carácter hasta dos que hubiere presentado en períodos anteriores, cuando estén pendientes de dictamen.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+Cada una de las iniciativas, en un plazo máximo de cuarenta y cinco días naturales, después de presentadas o señaladas como preferente, deberán ser dictaminadas por la Comisión correspondiente y resueltas por el Pleno.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+Si las iniciativas no fueren atendidas en dicho plazo, la Junta de Coordinación Política procederá a ponerlas a consideración del Pleno en la sesión posterior al haberse vencido aquel, para que, sin mayor trámite, se resuelvan en sus términos.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1389,11 +1479,13 @@ El Instituto Estatal Electoral efectuará el cómputo de los resultados del refe
 
 Si se hubiese vencido el plazo que el Gobernador tiene para formular observaciones, el decreto o ley de que se trate será considerado promulgado, y por aprobación del Pleno Legislativo se podrá ordenar su publicación en el Periódico Oficial del Estado, si el Ejecutivo no lo hace dentro de los diez días siguientes a dicho vencimiento.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
 ###### Art. 75.
 
-El Ejecutivo no podrá hacer observaciones a las resoluciones del Congreso, cuando hayan sido dictadas en ejercicio de las atribuciones que a éste confiere el artículo 64 en sus fracciones VII, VIII, IX, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXVII, XLII y XLIII y la fracción II del artículo 82.
+El Ejecutivo no podrá hacer observaciones a las resoluciones del Congreso, cuando hayan sido dictadas en ejercicio de las atribuciones que a este confiere el artículo 64 en sus fracciones VII, VIII, IX, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXVII y XLIII y la fracción II del artículo 82.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1417,23 +1509,27 @@ Las leyes, decretos, reglamentos y demás disposiciones de observancia general o
 
 DE LA DIPUTACION PERMANENTE.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
 ###### Art. 79.
 
-Durante los recesos del Congreso, habrá una Diputación Permanente compuesta por cinco diputados, con el carácter de propietarios y otros dos como sustitutos. De los diputados propietarios se nombrará Presidente, Vicepresidente y Secretario. Los sustitutos sólo entrarán en funciones cuando falten temporal o definitivamente aquéllos.
+La Mesa Directiva electa al inicio de cada año de ejercicio legislativo, conducirá los trabajos de la Diputación Permanente.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Art. 80.
 
-La Diputación Permanente será nombrada por el Congreso en la última sesión del período ordinario, por mayoría absoluta de votos. En su integración se procurará reflejar la composición plural del Congreso.
+(DEROGADO, P.O. 9 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 24 DE ENERO DE 1979)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
 ###### Art. 81.
 
-La Diputación Permanente se instalará el mismo día que hubiere sido nombrada inmediatamente después de la última sesión ordinaria y acordará los días y hora de sus sesiones regulares.
+La Diputación Permanente se instalará inmediatamente después de la última sesión ordinaria y acordará los días y hora de sus sesiones regulares.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1449,9 +1545,9 @@ I.- Llevar la correspondencia del Congreso durante el receso.
 
 II.- Acordar, cuando a su juicio lo exijan las necesidades del Estado, la convocación a sesiones extraordinarias y el objeto de éstas, señalando día para la reunión del Congreso.
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-III.- Llamar a los sustitutos de la misma Diputación en las faltas absolutas o temporales de los propietarios.
+III.- (DEROGADA, P.O. 9 DE DICIEMBRE DE 2015)
 
 IV.- Integrar el número de Diputados que la componen, en caso de muerte, separación o impedimento no transitorio de alguno de los nombrados.
 
@@ -1475,9 +1571,19 @@ IX.- Conceder las licencias a que se refiere la fracción XIX del artículo 64, 
 
 X.- Recibir iniciativas de ley, de decreto o de puntos de acuerdo y turnarlas para su dictamen a la comisión que corresponda, así como resolver las relativas a puntos de acuerdo, cuando éstos se refieran a asuntos de mero trámite administrativo o de gestaría (sic).
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
-XI.- Las demás que establezcan esta Constitución y las leyes.
+XI.- Convocar a junta previa, dentro de los diez días anteriores al inicio del primer período ordinario de sesiones de cada ejercicio legislativo, con base a lo siguiente:
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO, P.O. 9 DE DICIEMBRE DE 2015.</small>
+
+A) En el año de renovación de la Legislatura, a los diputados electos para instalarla y acordar lo relacionado con la designación de la Mesa Directiva del primer año de ejercicio constitucional.
+
+B) Tratándose del segundo y tercer años de ejercicio constitucional, a los diputados en funciones, para acordar lo relacionado con la designación de la Mesa Directiva que corresponda.
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+XII.- Las demás que establezcan esta Constitución y las leyes.
 
 > <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1491,11 +1597,11 @@ La Diputación Permanente dará cuenta al Congreso, en la segunda sesión del pe
 
 DE LA AUDITORÍA SUPERIOR DEL ESTADO.
 
-> <small>(ADICIONADO, P.O. 9 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
-Art. 83 bis.- La Auditoría Superior del Estado es un órgano del Congreso que tendrá autonomía técnica, presupuestal, orgánica, funcional, normativa y de gestión.
+Art. 83 bis.- La Auditoría Superior del Estado es un órgano del Congreso que tendrá autonomía técnica, presupuestal, orgánica, funcional, normativa y de gestión, y tendrá las atribuciones que le señale su Ley y demás normas aplicables.
 
-El órgano auditará el ingreso y la aplicación de los recursos públicos de conformidad con la ley; la auditoría comprende la contable, la presupuestal, la técnica, la patrimonial, la jurídica y la de gestión; y se realizará con el objeto de verificar la integralidad, la legalidad, la gestión financiera, la contabilidad y la oportunidad en el empleo de los recursos públicos, para comprobar si su uso se ajusta a los criterios señalados en el presupuesto y se cumplen los objetivos establecidos en los planes, programas y proyectos.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
 > <small>(ADICIONADO, P.O. 9 DE MAYO DE 2007)</small>
 
@@ -1527,9 +1633,9 @@ III.- No ser ministro de algún culto religioso o haberse retirado del mismo en 
 
 IV.- No haber sido nombrado Gobernador Interino, Provisional o Substituto, en los términos que establece el artículo 90 de esta Constitución.
 
-> <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
-V.- No ser Secretario General de Gobierno, Fiscal General del Estado, Secretario, Coordinador, ni Magistrado del Supremo Tribunal de Justicia;
+V.- No ser Secretario General de Gobierno, Fiscal General del Estado, Secretario, Coordinador, ni Magistrado del Tribunal Superior de Justicia.
 
 > <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 1994)</small>
 
@@ -1671,17 +1777,25 @@ XV.- Coordinar, con los respectivos presidentes municipales, presidentes de secc
 
 XVI.- Solicitar al Instituto Estatal Electoral someta a plebiscito, en los términos que disponga la ley, propuestas de actos o decisiones de gobierno considerados como trascendentes para la vida pública del Estado.
 
-XVII.- (DEROGADA, P.O. 1 DE OCTUBRE DE 1994)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+XVII.- Enviar al Congreso del Estado, dentro de los seis meses siguientes, contados a partir de la fecha en que tome posesión, los Planes Estatales de Desarrollo y de Seguridad Pública, para su aprobación.
 
 XVIII.- Presidir todas las reuniones oficiales a que concurra, a excepción de las del Congreso y Tribunales.
 
-> <small>(REFORMADA, P.O. 28 DE AGOSTO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XIX.- Asistir a la apertura del primer periodo ordinario de sesiones del Congreso, salvo lo dispuesto en el artículo 55, párrafo segundo y de los períodos extraordinarios cuando el Ejecutivo hubiere promovido la convocatoria por medio de la Diputación Permanente. En el primer caso, deberá presentar un informe sobre el estado que guarde la administración pública, y en el segundo sobre las razones que lo haya motivado a promover la solicitud respectiva de conformidad con el artículo 51.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+XIX.- Asistir a la apertura del segundo período ordinario de sesiones del Congreso, a presentar un informe sobre el estado que guarde la administración pública, salvo lo dispuesto en el artículo 55, párrafos segundo y tercero.
+
+De igual modo, asistir a la sesión de apertura de periodos extraordinarios cuando, de manera fundamentada, hubiere solicitado la convocatoria por medio de la Diputación Permanente, de conformidad con el artículo 51.
 
 XX.- (DEROGADA, P.O. 28 DE MAYO DE 2014)
 
-XXI.- Pedir informes al Congreso y al Supremo Tribunal de Justicia sobre asuntos de los ramos de su incumbencia, respectivamente, y darlos cuando dichos Poderes los pidan acerca de los que competen al Ejecutivo.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+XXI.- Pedir informes al Congreso y al Tribunal Superior de Justicia sobre asuntos de los ramos de su incumbencia, respectivamente, y darlos cuando dichos Poderes los pidan acerca de los que competen al Ejecutivo.
 
 > <small>(REFORMADA, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1709,7 +1823,9 @@ XXVII.- Otorgar concesiones de acuerdo con las leyes de la materia.
 
 XXVIII.- Representar al Estado en todo juicio o controversia que pueda afectar los intereses de éste, pudiendo nombrar uno o varios apoderados o delegados para tal efecto.
 
-XXIX.- Practicar visitas a los Municipios del Estado, cuando lo estime conveniente, ya por sí mismo o por medio de inspectores que nombre al efecto, proveyendo lo necesario en el orden administrativo e informando al Congreso o al Supremo Tribunal de las faltas que notare y cuyo remedio corresponda a los Poderes Legislativo y Judicial.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+XXIX.- Visitar a los municipios del Estado, cuando lo estime conveniente, ya sea por sí mismo o por quien designe, proveyendo lo necesario en el orden administrativo e informando al Congreso o al Tribunal Superior de Justicia, de los asuntos cuya atención les corresponda.
 
 XXX.- Expedir títulos profesionales con arreglo a las leyes.
 
@@ -1799,13 +1915,17 @@ En el caso del Secretario General de Gobierno, se requiere ser mayor de treinta 
 
 Las relaciones entre el Poder Ejecutivo y los Poderes Legislativo y Judicial, se establecerán entre el Gobernador o el Secretario General de Gobierno en su caso, y los titulares de dichos Poderes.
 
-> <small>(REFORMADO, P.O. 23 DE OCTUBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-El Secretario General de Gobierno, el Fiscal General del Estado, los Secretarios y los Coordinadores, a más tardar el día treinta de abril, presentarán al Congreso un informe por escrito del estado que guardan los asuntos de sus respectivos ramos. Así mismo, podrán ser llamados para asesorar y explicar al Congreso, cuando se vaya a discutir un proyecto de ley o a estudiar un negocio relacionado con las funciones de su cargo.
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2010)</small>
+El Secretario General de Gobierno, el Fiscal General del Estado, los Secretarios y los Coordinadores, a más tardar el día treinta de septiembre, presentarán al Congreso un informe por escrito del estado que guardan los asuntos de sus respectivos ramos, pudiendo ser llamados para asesorar y explicar al Congreso, cuando se vaya a discutir un proyecto de ley o a estudiar un negocio relacionado con las funciones de su cargo.
 
-El Fiscal General del Estado concurrirá al Congreso a través de la Junta de Coordinación Parlamentaria, cuando menos una vez al año, para analizar el estado que guarda su gestión.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO CUARTO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+El Fiscal General del Estado concurrirá al Congreso a través de la Junta de Coordinación Política, cuando menos una vez al año, para analizar el estado que guarda su gestión.
 
 > <small>(ADICIONADO, P.O. 28 DE JULIO DE 2010)</small>
 
@@ -2341,11 +2461,11 @@ Los presupuestos de egresos serán aprobados por los ayuntamientos con base en s
 
 Los ayuntamientos autorizarán en sus Presupuestos de Egresos, las erogaciones plurianuales necesarias para cumplir con las obligaciones derivadas de los Proyectos de Inversión Pública a Largo Plazo aprobados en los términos del artículo 137.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
 ###### Art. 134.
 
-Presentar al Congreso la cuenta pública municipal anualmente, dentro del mes siguiente a la terminación del período que corresponda. Asimismo, presentar al Congreso los informes financieros trimestrales dentro del mes siguiente al cierre del período correspondiente.
+Los ayuntamientos presentarán al Congreso la cuenta pública anual y los informes trimestrales, en los términos de la normatividad correspondiente.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2001)</small>
 
@@ -2689,7 +2809,7 @@ La Legislatura del Estado establecerá las normas sobre salud que no sean de la 
 
 DEL SISTEMA ESTATAL DE FISCALIZACION.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 9 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
 ###### Art. 161.
 
@@ -2759,6 +2879,10 @@ Cuando estuviere por agotarse alguna asignación en cualquier partida del presup
 
 El encargado de las finanzas del Estado y los demás funcionarios y empleados que manejen, recauden o administren fondos públicos, otorgarán garantía suficiente.
 
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+Asimismo, deberán acudir, dentro de los tres meses siguientes a su nombramiento o de haber tomado posesión del cargo público, a los cursos de capacitación, profesionalización y/o certificación que, en su caso, implemente la Auditoría Superior del Estado, a efecto de cumplir con las obligaciones inherentes a su cargo.
+
 > <small>(REFORMADO, P.O. 9 DE MAYO DE 2007)</small>
 
 ###### Art. 169.
@@ -2775,47 +2899,39 @@ DEL DESARROLLO SUSTENTABLE.
 
 ###### Art. 170.
 
-El Sistema Estatal de Fiscalización es el conjunto de procesos y obligaciones que asume e integra el Estado, los Municipios, cualquier persona física o moral y a todo ente que recaude, administre, maneje o ejerza recursos públicos, así como los órganos encargados de la auditoría y fiscalización con el objetivo de transparentar el ingreso, el ejercicio presupuestal y el gasto. Deberá coadyuvar al desarrollo permanente en la eficiencia, eficacia, economía y transparencia de la gestión pública y obligará de manera permanente la rendición de cuentas.
+El Sistema Estatal de Fiscalización es el integrado por el Congreso del Estado y su órgano técnico, la Auditoría Superior del Estado, los entes fiscalizables, la información contable y presupuestal, la normatividad y procedimientos. Deberá contribuir al desarrollo permanente en la eficiencia, eficacia, economía y transparencia en el ejercicio de los recursos públicos y la rendición de cuentas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ABRIL DE 2015)</small>
+El Estado vigilará la estabilidad de las finanzas públicas y del sistema financiero, a fin de coadyuvar a generar condiciones favorables para el crecimiento económico y el empleo. El Plan Estatal de Desarrollo y los planes municipales deberán observar dicho principio.
+
+La función de fiscalización se desarrollará, inclusive, en materia de deuda pública y su ejercicio.
+
+La fiscalización deberá atender a los principios de legalidad, definitividad, imparcialidad, confiabilidad, transparencia y máxima publicidad de la información gubernamental.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
 ###### Art. 171.
 
-La cuenta pública estatal y municipal será anual. La cuenta pública del Estado y municipio debe presentarse ante el Congreso dentro de los dos meses posteriores a la terminación del ejercicio fiscal y dentro del mes siguiente a la terminación del período que corresponda, respectivamente.
+La cuenta pública será anual y deberá presentarse para su fiscalización ante el Congreso, en los siguientes términos:
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2015)</small>
+I. La cuenta pública estatal dentro de los dos meses posteriores a la terminación del ejercicio fiscal, y deberá integrar los estados financieros, contables y presupuestales de los tres Poderes, de los organismos autónomos por disposición constitucional y de las entidades de la administración pública paraestatal.
 
-La cuenta pública anual del Gobierno del Estado integrará los estados financieros, contables y presupuestales de los tres Poderes, de los organismos autónomos por disposición constitucional y de las entidades de la administración pública paraestatal.
+II. La cuenta pública municipal dentro del mes siguiente a la terminación del ejercicio fiscal, e (sic) integrará los estados financieros, contables y presupuestales de la administración pública municipal y paramunicipal.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2015)</small>
-
-La cuenta pública anual de los municipios integrará los estados financieros, contables y presupuestales de la administración pública municipal y paramunicipal.
-
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2015)</small>
-
-El Gobierno del Estado y los municipios presentarán ante el Congreso los informes financieros trimestrales dentro del mes siguiente al cierre del período correspondiente, los cuales quedan comprendidos de enero a marzo, de abril a junio, de julio a septiembre y de octubre a diciembre del ejercicio fiscal que corresponda.
-
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2015)</small>
+Sin perjuicio de lo dispuesto, el Gobierno del Estado y los Municipios presentarán informes financieros trimestrales dentro del mes siguiente al cierre del período correspondiente.
 
 Los informes financieros trimestrales del Gobierno del Estado integrarán la información contable, cuya desagregación contemple los estados de situación financiera, de movimientos de ingresos y egresos y los que correspondan a resultados de operación.
 
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2015)</small>
-
 Los informes financieros trimestrales de los municipios integrarán la información presupuestaria, cuya desagregación contemple el estado analítico de egresos, administrativo, económico y funcional.
 
-> <small>(REFORMADO, P.O. 29 DE ABRIL DE 2015)</small>
-
-Los tres Poderes, los organismos autónomos y las entidades de la administración pública paraestatal, los municipios y los organismos paramunicipales, deberán llevar su contabilidad conforme a las disposiciones que establezca la ley. Estos, así como cualquier persona física o moral y cualquier ente que reciba, maneje, recaude o administre recursos públicos, independientemente de su denominación, deberán poner, sin excusa alguna, a disposición de la Auditoría Superior del Estado y, en su caso, del Congreso la información y documentación correspondiente.
-
-> <small>(REFORMADO Y REUBICADO, P.O. 9 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
 ###### Art. 172.
 
-La cuenta pública anual de gobierno del estado y de los municipios, deberán quedar auditadas en los plazos y términos que establezca la Ley y el Programa anual de Auditoría. La falta de cumplimiento de este precepto será causa grave de responsabilidad en los términos de la Ley.
+La cuenta pública deberá fiscalizarse en los plazos y términos que establezca la Ley.
 
-La Auditoría Superior del Estado rendirá a la Comisión de Fiscalización del Congreso, informe técnico de resultados derivado de la auditoría realizada dentro del mes siguiente a la fecha en que hubiese concluido la misma; a su vez la Comisión dispondrá de dos meses para presentar ante el pleno el dictamen correspondiente.
+La falta de cumplimiento de este precepto será causa grave de responsabilidad.
 
-El titular de la Auditoría Superior del Estado, presentará al Pleno del Congreso en la tercera sesión del período ordinario, un informe del estado que guarda la auditoría de la cuenta pública estatal y municipal y de los estados financieros señalados en la fracción VII del artículo 64 de esta Constitución así como de las acciones de responsabilidades iniciadas y su estado.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
 > <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO IV], P.O. 9 DE MAYO DE 2007)</small>
 
@@ -4198,3 +4314,25 @@ PRIMERO.- Conforme a lo dispuesto por el artículo 202 de la Constitución Polí
 SEGUNDO.- El presente Decreto entrará en vigor a los 180 días de su publicación en el Periódico Oficial del Estado.
 
 TERCERO.- Los Poderes Ejecutivo, Legislativo y Judicial, organismos autónomos, y autoridades municipales, deberán de promover las reformas necesarias y efectuar las acciones pertinentes a fin de que el ejercicio del poder público sea más transparente, abierto e incluyente.
+
+P.O. 9 DE DICIEMBRE DE 2015.
+
+PRIMERO.- Conforme a lo dispuesto por el artículo 202 de la Constitución Política del Estado, envíese copia de los documentos que dan origen al presente, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o, en su caso, por la Diputación Permanente, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, con las especificaciones establecidas en los preceptos siguientes.
+
+TERCERO.- Por lo que se refiere al artículo 48, se atenderá a lo siguiente:
+
+a) El segundo período ordinario de sesiones, correspondiente al tercer año de ejercicio constitucional de la LXIV Legislatura, dará inicio el primero de marzo y concluirá a más tardar el treinta y uno de mayo del 2016.
+
+b) El primer período ordinario de sesiones, correspondiente al primer año de ejercicio constitucional de la LXV Legislatura, iniciará el primer día del mes de octubre y concluirá a más tardar el treinta y uno de diciembre de 2016.
+
+CUARTO.- Las disposiciones contenidas en los artículos 55, 61, 62, 63; 64, fracciones XXII, XLII y XLVIII; 66, fracción IV; 67, 75, 79, 80, 81; 82, fracciones III y XI, letra A); 93, fracción XIX, y 96, todos de la Constitución Política del Estado, entrarán en vigor a partir del 1° de octubre de 2016.
+
+QUINTO.- Los integrantes de la Mesa Directiva del primer año de ejercicio constitucional de la LXV Legislatura, durarán en su encargo del primero de octubre de 2016 al treinta y uno de agosto de 2017.
+
+SEXTO.- Quien presida la Junta de Coordinación Política del Congreso durante el primer año de ejercicio constitucional de la LXV Legislatura Local, durará en su encargo del primero de octubre de 2016 al treinta y uno de agosto 2017.
+
+SÉPTIMO.- Los Diputados que integran la LXIV Legislatura deberán presentar el informe correspondiente al último año de ejercicio legislativo, a que se refiere el artículo 65, fracción IV, segundo párrafo de la Constitución Local, en el período comprendido del primero al treinta de septiembre de 2016.
+
+OCTAVO.- Cuando en otras disposiciones jurídicas se haga mención a la Junta de Coordinación Parlamentaria, se entenderá que está referida a la Junta de Coordinación Política.
