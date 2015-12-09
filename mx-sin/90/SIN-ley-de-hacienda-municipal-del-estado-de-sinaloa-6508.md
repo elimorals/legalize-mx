@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-municipal-del-estado-de-sinaloa-6508"
 country: "mx"
 rank: "ley"
 publication_date: "1990-03-26"
-last_updated: "2015-02-11"
+last_updated: "2015-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6508&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA MUNICIPAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Décima Novena Sección del Periódico Oficial del Estado de Sinaloa, el lunes 26 de marzo de 1990.
 
@@ -1547,11 +1547,27 @@ General Diario Vigente
 
 1. Por reproducción de:
 
-a).- Por hoja impresa en sistemas de copiado en proceso fotomecánico o impresión en hoja de tira continua 0.05
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
-b).- Por hoja impresa en impresora
+a).- Por hoja impresa, después
 
-láser o inyección de tinta: 0.15
+de las primeras veinte copias que
+
+serán gratuitas, en sistemas de copiado
+
+en proceso fotomecánico o impresión en hoja
+
+de tira continua: 0.005
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+b).- Por hoja impresa, después
+
+de las primeras veinte copias que
+
+serán gratuitas, en impresora
+
+láser o inyección de tinta: 0.015
 
 c).- Por copia heliográfica o
 
@@ -1587,11 +1603,11 @@ fracción excedente 0.10
 
 2.- Reproducción o captura de archivos en dispositivos magnéticos o discos compactos, por cada unidad de:
 
-a).- Microdisco magnético
+a).- (DEROGADO, P.O. 9 DE DICIEMBRE DE 2015)
 
-de 9 centímetros 0.50
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
-b).- Disco compacto grabado 1.25
+b).- Disco compacto grabado 0.125
 
 > <small>(ADICIONADO, P.O. 3 DE MARZO DE 2004)</small>
 
@@ -3466,3 +3482,9 @@ P.O. 11 DE FEBRERO DE 2015.
 PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa" y concluirá el 31 de diciembre del año 2016.
 
 SEGUNDO. Los convenios celebrados por los contribuyentes y las autoridades fiscales de los municipios para el pago en parcialidades de los créditos fiscales, durante la vigencia del presente Decreto, continuarán surtiendo sus efectos hasta la fecha de su vencimiento.
+
+P.O. 9 DE DICIEMBRE DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
