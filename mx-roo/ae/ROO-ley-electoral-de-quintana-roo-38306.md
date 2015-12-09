@@ -4,7 +4,7 @@ identifier: "ROO-ley-electoral-de-quintana-roo-38306"
 country: "mx"
 rank: "ley"
 publication_date: "2004-03-04"
-last_updated: "2015-11-17"
+last_updated: "2015-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=38306&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "ROO"
 ---
 # LEY ELECTORAL DE QUINTANA ROO
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES PARA EL ESTADO DE QUINTANA ROO, PUBLICADA EN EL P.O. DE 21 DE SEPTIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY ELECTORAL DE QUINTANA ROO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2015.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 9 DE DICIEMBRE DE 2015.</small>
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el jueves 4 de marzo de 2004.
 
@@ -819,9 +823,9 @@ C. Comités o equivalentes en los municipios.
 
 D. Un órgano que vigile el respeto a los derechos de los afiliados, así como el cumplimiento de sus obligaciones.
 
-> <small>(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+(REFORMADO, P.O. 11 DE NOVIEMBRE DE 2015) (F. DE E., P.O. 9 DE DICIEMBRE DE 2015)
 
-E. Un órgano responsable de la administración de su patrimonio y recursos financiamientos y de la presentación de los informes de ingresos y egresos trimestrales y anuales, de precampaña y campaña.
+E. Un órgano responsable de la administración de su patrimonio y recursos financieros y de la presentación de los informes de ingresos y egresos trimestrales y anuales, de precampaña y campaña.
 
 > <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
@@ -831,9 +835,9 @@ F. Un órgano de decisión colegiada, democráticamente integrado, responsable d
 
 G. Un órgano de decisión colegiada, responsable de la impartición de justicia intrapartidaria, el cual deberá ser independiente, imparcial y objetivo.
 
-> <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015) (F. DE E., P.O. 9 DE DICIEMBRE DE 2015)
 
-H. Un órgano encadado (sic) de cumplir con las obligaciones de transparencia y acceso a la información que la Constitución y las leyes de la materia imponen a los partidos políticos.
+H. Un órgano encargado de cumplir con las obligaciones de transparencia y acceso a la información que la constitución y las leyes de la materia imponen a los partidos políticos.
 
 > <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
@@ -1745,7 +1749,9 @@ Cada partido político coaligado, independientemente de la elección para la que
 
 Independientemente del tipo de elección, convenio y términos que en el mismo adopten los partidos coaligados, cada uno de ellos aparecerá con su propio emblema en la boleta electoral, según la elección de que se trate; los votos se sumarán para el candidato de la coalición y contarán para cada uno de los partidos políticos para los efectos establecidos en esta Ley.
 
-Los votos en los que se hubiere marcado más de una opción de los partidos coaligados, serán considerados válidos para el candidato postulado, contarán como uno (sic) solo voto.
+> <small>(F. DE E., P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+Los votos en los que se hubiere marcado más de una opción de los partidos coaligados, serán considerados válidos para el candidato postulado, contarán como un solo voto.
 
 Cada partido político coaligado deberá registrar listas propias de candidatos a diputados por el principio de representación proporcional.
 
@@ -2469,27 +2475,25 @@ Del registro de las plataformas electorales se expedirá constancia.
 
 Los ciudadanos que aspiren a ser registrados como candidatos independientes deberán presentar programa de trabajo que promoverán en caso de ser registrados como tales, en términos de lo dispuesto en el Título Sexto del Libro Segundo de esta Ley.
 
-(REUBICADO Y REFORMADO [N. DE E. ANTES ARTÍCULO 129], P.O. 7 DE DICIEMBRE DE 2012)
+(REUBICADO Y REFORMADO [N. DE E. ANTES ARTÍCULO 129], P.O. 7 DE DICIEMBRE DE 2012) (F. DE E., P.O. 9 DE DICIEMBRE DE 2015)
 
-###### Artículo 161.
-
-Los plazos y órganos competentes para la recepción de la solicitud de registro de candidaturas, serán los siguientes:
+Artículo 168 (SIC).- Los plazos y órganos competentes para la recepción de la solicitud de registro de candidaturas, serán los siguientes:
 
 > <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
 I. Para candidatos a Gobernador, el veintiocho de marzo del año de la elección, ante el Consejo General;
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015) (F. DE E., P.O. 9 DE DICIEMBRE DE 2015)
 
-II. Para miembros de los Ayuntamientos, el ocho de marzo del año de la elección, ante los Consejos Municipal o los Distritales, según corresponda;
+II. Para miembros de los Ayuntamientos, el ocho de abril del año de la elección, ante los Consejos Municipales o los Distritales, según corresponda.
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015) (F. DE E., P.O. 9 DE DICIEMBRE DE 2015)
 
-III. Para Diputados por el principio de mayoría relativa, el catorce de marzo del año de la elección, ante los Consejos Distritales respectivos; y
+III. Para diputados por el principio de mayoría relativa, el catorce de abril del año de la elección, ante los Consejos Distritales respectivos, y
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015) (F. DE E., P.O. 9 DE DICIEMBRE DE 2015)
 
-IV. Para Diputados por el principio de representación proporcional, el diecinueve de marzo del año de la elección, ante el Consejo General.
+IV. Para Diputados por el principio de representación proporcional, el diecinueve de abril del año de la elección, ante el Consejo General.
 
 El Instituto difundirá ampliamente la apertura del registro de las candidaturas y los plazos a que se refiere este artículo.
 
@@ -4847,9 +4851,9 @@ IV. La Dirección de Partidos Políticos contará con cuarenta y ocho horas para
 
 V. La Dirección de Partidos Políticos en coordinación con la Dirección Jurídica, al admitir la contestación, resolverá sobre la admisión de las pruebas ofrecidas por las partes dentro de los tres días hábiles siguientes, ordenando la preparación y desahogo de las mismas, para lo cual contará con un período de siete días hábiles.
 
-> <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015)</small>
+(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2015) (F. DE E., P.O. 9 DE DICIEMBRE DE 2015)
 
-VI. Concluido el plazo señalado para el desahogo de las pruebas, la Dirección de la (sic) Partidos Políticos en coordinación con la Dirección Jurídica, resolverá dentro de los diez días hábiles siguientes mediante dictamen que será turnado al Consejo General a efecto de que resuelva sobre la responsabilidad e imponga la sanción correspondiente, o bien, absuelva al presunto infractor, en los asuntos de su competencia.
+VI. Concluido el plazo señalado para el desahogo de las pruebas, la Dirección de Partidos Políticos en coordinación con la Dirección Jurídica, resolverá dentro de los diez días hábiles siguientes mediante dictamen que será turnado al Consejo General a efecto de que resuelva sobre la responsabilidad e imponga la sanción correspondiente, o bien, absuelva al presunto infractor, en los asuntos de su competencia.
 
 El desahogo de las quejas, además de lo previsto en el presente artículo, se deberá ajustar a lo previsto en el reglamento que al efecto emita el Consejo General a propuesta de la Junta General.
 
@@ -4923,7 +4927,9 @@ EN MATERIA DE RADIO Y TELEVISIÓN, EL ÓRGANO DEL INSTITUTO QUE RECIBA O PROMUEV
 
 La denuncia será desechada de plano por la Dirección Jurídica del Instituto, sin prevención alguna, cuando:
 
-a) No reúna los requisitos indicados en el numeral 1 del presente artículo;
+> <small>(F. DE E., P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+a) No reúna los requisitos indicados en el párrafo 1 del presente artículo;
 
 b) Los hechos denunciados no constituyan una violación en materia de propaganda político electoral;
 
@@ -4935,7 +4941,9 @@ La Dirección Jurídica del Instituto deberá admitir o desechar la denuncia en 
 
 Cuando la Dirección Jurídica del Instituto admita la denuncia, emplazará al denunciante y al denunciado para que comparezcan a una audiencia de pruebas y alegatos, que tendrá lugar dentro del plazo de cuarenta y ocho horas posteriores a la admisión. En el escrito respectivo se le informará al denunciado de la infracción que se le imputa y se le correrá traslado de la denuncia con sus anexos.
 
-Si la Dirección Jurídica del Instituto considera necesaria la adopción de medidas cautelares, las propondrá al Consejero Presidente del Instituto dentro del mismo plazo de cuarenta y ocho horas previsto en el numeral anterior. Esta decisión podrá ser impugnada ante el Tribunal Electoral del Estado.
+> <small>(F. DE E., P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+Si la Dirección Jurídica del Instituto considera necesaria la adopción de medidas cautelares, las propondrá al Consejero Presidente del Instituto dentro del mismo plazo de cuarenta y ocho horas previsto en el párrafo anterior. Esta decisión podrá ser impugnada ante el Tribunal Electoral del Estado.
 
 > <small>(ADICIONADO, P.O. 11 DE NOVIEMBRE DE 2015)</small>
 
@@ -4947,7 +4955,9 @@ En el procedimiento especial no serán admitidas más pruebas que la documental 
 
 La falta de asistencia de las partes no impedirá la celebración de la audiencia en el día y hora señalados. La audiencia se desarrollará en los siguientes términos:
 
-Abierta la audiencia, se dará el uso de la voz al denunciante a fin de que, en una intervención no mayor a treinta minutos, resuma el hecho que motivó la denuncia y haga una relación de las pruebas que a su juicio la corroboran. En caso de que el procedimiento se haya iniciado en forma oficiosa por el órgano electoral la (sic) se deberá nombrar un delegado especial para que actúe como denunciante;
+> <small>(F. DE E., P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+Abierta la audiencia, se dará el uso de la voz al denunciante a fin de que, en una intervención no mayor a treinta minutos, resuma el hecho que motivó la denuncia y haga una relación de las pruebas que a su juicio la corroboran. En caso de que el procedimiento se haya iniciado en forma oficiosa por el órgano electoral se deberá nombrar un delegado especial para que actúe como denunciante.
 
 Acto seguido, se dará el uso de la voz al denunciado, a fin de que en un tiempo no mayor a treinta minutos, responda a la denuncia, ofreciendo las pruebas que a su juicio desvirtúen la imputación que se realiza;
 
