@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-de-los-centros-de-integracion-para-adolescentes-5764
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-22"
-last_updated: "2007-11-22"
+last_updated: "2015-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MIC"
 ---
 # REGLAMENTO DE LOS CENTROS DE INTEGRACION PARA ADOLESCENTES
 
-REGLAMENTO DE LOS CENTROS DE INTEGRACION PARA ADOLESCENTES
+REGLAMENTO DE LOS CENTROS DE INTEGRACIÓN PARA ADOLESCENTES
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO DE LOS CENTROS DE INTERNAMIENTO DEL ESTADO DE MICHOACÁN DE OCAMPO, PUBLICADO EN EL P.O. DE 9 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2015. (ABROGADO).
 
 Reglamento publicado en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el jueves 22 de noviembre de 2007.
 
@@ -313,7 +315,7 @@ III. Vigilar y controlar las puertas de acceso a las instalaciones del Centro pr
 
 IV. Organizar y coordinar medidas ocupaciones (sic) que coadyuven a la integración y corrección de hábitos personales de los adolescentes, tales como actividades de limpieza y aseos (sic) personal que realicen los adolescentes en internamiento;
 
-V. Organizar y coordinar con la Dirección del Centro y áreas técnicas que correspondan, al estrado del adolescente; y, (sic)
+V. Organizar y coordinar con la Dirección del Centro y áreas técnicas que correspondan, al estrado del adolescente; y,
 
 VI. Las demás que le señale el Director y otras disposiciones normativas aplicables.
 
@@ -656,3 +658,15 @@ ROSA HILDA ABASCAL RODRÍGUEZ
 Secretaria de Contraloría y Desarrollo Administrativo
 
 (Firmado)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LOS CENTROS DE INTERNAMIENTO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+Primero. El presente Reglamento, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Segundo. Se abroga el Reglamento de los Centros de Integración para Adolescentes, publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, Tomo CXLII, Quinta Sección, de fecha 22 de noviembre de 2007.
+
+Tercero. Los casos no previstos expresamente en el presente Reglamento, serán resueltos por el Director, con base a los Principios Generales del Derecho y la Jurisprudencia emitida en la materia, lo que hará bajo su más estricta responsabilidad, y lo deberá informar de manera inmediata a la Unidad Especializada sobre las medidas que implemente.
