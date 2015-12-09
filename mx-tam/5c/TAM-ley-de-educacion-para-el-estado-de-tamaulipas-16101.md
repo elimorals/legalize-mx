@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-16101"
 country: "mx"
 rank: "ley"
 publication_date: "1999-10-23"
-last_updated: "2015-04-14"
+last_updated: "2015-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 23 de octubre de 1999.
 
@@ -157,9 +157,9 @@ VII.- Promover los valores de respeto a la vida, la dignidad de las personas, la
 
 VIII.- Fomentar una conciencia de respeto a los derechos fundamentales de la persona y la sociedad, como medio de conservar la paz, la armonía y la sana convivencia, respetando la pluralidad de ideas y opiniones, propiciar la cultura de la legalidad y la no violencia en cualquier tipo de sus manifestaciones;
 
-> <small>(REFORMADA, P.O. 7 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
-IX.- Fomentar la educación en materia de nutrición y estimular la educación física y la práctica del deporte como parte fundamental de la formación integral de las personas;
+IX.- Fomentar la educación en materia de nutrición, estimulando hábitos alimenticios que contribuyan a prevenir la obesidad y la incidencia de la Diabetes Mellitus, así como otras enfermedades causadas por trastornos de la nutrición;
 
 X.- Impulsar la creación artística y propiciar la adquisición, el enriquecimiento y la difusión de los bienes y valores de la cultura universal, en especial de aquellos que constituyen el patrimonio cultural del País y de la Entidad en particular;
 
@@ -493,7 +493,7 @@ XIV.- Fomentar y difundir las actividades científicas, cívicas, de cuidado al 
 
 > <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
-XV- Editar libros y producir otros materiales didácticos distintos a los libros de texto gratuitos, considerando la opinión de la Secretaría;
+XV.- Editar libros y producir otros materiales didácticos distintos a los libros de texto gratuitos, considerando la opinión de la Secretaría;
 
 > <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
@@ -623,13 +623,17 @@ III.- Ser escuchado y atendido por los docentes y las autoridades de su plantel 
 
 IV.- Recibir asistencia social cuando sus recursos económicos sean escasos;
 
-> <small>(REFORMADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
-V.- Participar con una representación en los organismos existentes en sus centros escolares para la toma de decisiones que redunden en beneficio de su educación; y
+V.- Participar con una representación en los organismos existentes en sus centros escolares para la toma de decisiones que redunden en beneficio de su educación;
 
-> <small>(ADICIONADA, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
-VI.- Acceder a los mecanismos de denuncia de violencia o de hechos violatorios a sus derechos humanos en los planteles educativos.
+VI.- Acceder a los mecanismos de denuncia de violencia o de hechos violatorios a sus derechos humanos en los planteles educativos; y
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+VII.- Acceder gratuitamente al consumo de agua potable, a través de bebederos o sistemas destinados para ello, conforme a la Norma Oficial Mexicana que sea aplicable.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
 
@@ -2130,6 +2134,12 @@ P.O. 9 DE JULIO DE 2014.
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 14 DE ABRIL DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE DICIEMBRE DE 2015.
 
 ###### ARTÍCULO ÚNICO.
 
