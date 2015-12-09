@@ -4,7 +4,7 @@ identifier: "CHH-reglamento-de-adquisiciones-arrendamientos-y-contratacion-90194
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-11-17"
-last_updated: "2012-11-17"
+last_updated: "2015-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90194&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHH"
 ---
 # REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACION DE SERVICIOS DEL INSTITUTO ESTATAL ELECTORAL DE CHIHUAHUA
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL INSTITUTO ESTATAL ELECTORAL DE CHIHUAHUA, PUBLICADO EN EL P.O. DE 25 DE OCTUBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL INSTITUTO ESTATAL ELECTORAL DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Chihuahua, el sábado 17 de noviembre de 2012.
 
@@ -71,9 +73,13 @@ V. Secretario: El Secretario del Comité de Adquisiciones, Arrendamientos y Cont
 
 VI. Secretario Técnico: El Secretario Técnico del Comité de Adquisiciones, Arrendamientos y Contratación de Servicios del Instituto Estatal Electoral de Chihuahua.
 
-VII. Órganos: El Consejo General, las Comisiones permanentes y temporales del mismo, la Presidencia, las Coordinaciones: General, de Administración, Prerrogativas y Financiamiento; de Capacitación Electoral y Educación Cívica; y, de Or­ganización Electoral; las Direcciones; las Oficinas Regionales; y las Asambleas Distritales y Municipales, mismos que forman la estructura del Instituto Estatal Electoral de Chihuahua, según los artículos 82, 84 y 100 de la Ley Electoral del Estado de Chihuahua.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
-VIII. Proveedor: La persona física o moral que suministra ó arrienda bienes ó presta servicios al Instituto.
+VII. Órganos: El Consejo Estatal, las Comisiones permanentes y temporales del mismo, la Presidencia, las Coordinaciones: de Administración, Prerrogativas y Financiamiento; de Capacitación Electoral y Educación Cívica; y, de Organización Electoral; las Direcciones; las Oficinas Regionales; y las Asambleas Distritales y Municipales, mismos que forman la estructura del Instituto Estatal Electoral de Chihuahua, según los artículos 51 y 69 de la Ley Electoral del Estado de Chihuahua.
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+VIII. Proveedor: La persona física o moral que suministra o arrienda bienes o presta servicios al Instituto.
 
 IX. Procedimientos de Contratación:
 
@@ -87,9 +93,11 @@ X. Coordinador: El Coordinador de Administración, Prerrogativas y Financiamient
 
 ### CAPÍTULO SEGUNDO. DE LA INTEGRACIÓN DEL COMITÉ DE ADQUISICIONES
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 3.
 
-El Comité del Instituto, para llevar a cabo los procedimientos de contratación materia de éste Reglamento mediante licitaciones públicas, por invitación restringida y por adjudicación directa, para la adquisición, arrendamiento y contratación de servicios, que sean requeridos por el Instituto y sus órganos.
+El Comité del Instituto, será el responsable para llevar a cabo los procedimientos de contratación materia de éste Reglamento mediante licitaciones públicas, por invitación restringida y por adjudicación directa, para la adquisición, arrendamiento y contratación de servicios, que sean requeridos por el Instituto y sus órganos.
 
 ###### Artículo 4.
 
@@ -115,7 +123,7 @@ b) El Coordinador de Organización Electoral;
 
 V. Asesor Técnico.- El encargado del área que solicite el bien o servicio.
 
-Los integrantes del Comité, tendrán voz y voto en las decisiones y los acuerdos a que se llegue, exceptuando al Asesor Técnico, que solo tendrá derecho voz.
+Los integrantes del Comité, tendrán voz y voto en las decisiones y los acuerdos a que se llegue, exceptuando al Asesor Técnico, que solo tendrá derecho (sic) voz.
 
 ### CAPÍTULO TERCERO. DE LAS FACULTADES DEL COMITÉ DE ADQUISICIONES
 
@@ -123,7 +131,9 @@ Los integrantes del Comité, tendrán voz y voto en las decisiones y los acuerdo
 
 El Comité tendrá las siguientes facultades:
 
-I. Aprobar las políticas y criterios y proponer al Consejo General por conducto del Presidente, las normas conforme a las cuales, se deberán realizar las operaciones y conducir la Coordinación de Administración, Prerrogativas y Financiamiento al adquirir ó arrendar bienes y contratar servicios.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+I. Aprobar las políticas y criterios y proponer al Consejo Estatal por conducto del Presidente, las normas conforme a las cuales, se deberán realizar las operaciones y conducir la Coordinación de Administración, Prerrogativas y Financiamiento al adquirir o arrendar bienes y contratar servicios.
 
 II. Proponer las políticas internas, bases, límites de montos de acuerdo al Presupuesto de Egresos del Estado y lineamientos en materia de adquisiciones, arrendamientos y servicios, así como autorizar los supuestos no previstos en estos.
 
@@ -131,7 +141,7 @@ III. Examinar y aprobar, en su caso, el proyecto del Programa Anual de Adquisici
 
 IV. Revisar los presupuestos y disponibilidad de los recursos, previamente a la contratación de adquisiciones, arrendamientos y servicios.
 
-V. Dictaminar sobre la procedencia de celebrar licitaciones públicas, así como los casos en que no se celebren por encon­trarse en alguno de los supuestos de excepción, previstos en este Reglamento.
+V. Dictaminar sobre la procedencia de celebrar licitaciones públicas, así como los casos en que no se celebren por encontrarse en alguno de los supuestos de excepción, previstos en este Reglamento.
 
 VI. Aprobar la selección y designación de los proveedores de bienes y servicios a los que se adjudicarán los contratos, derivados de las licitaciones o procedimientos de compra por invitación restringida que se desarrollen y adjudicaciones directas, en su caso.
 
@@ -169,6 +179,8 @@ III. Vigilar que los acuerdos del Comité se cumplan fielmente.
 
 IV. Las demás que le asigne el Comité, y le confiera este Reglamento.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 11.
 
 El Secretario del Comité tendrá las siguientes funciones, mismas que ejercerá con el auxilio del Secretario Técnico:
@@ -179,37 +191,37 @@ II. Formular y proponer al Comité, los criterios y lineamientos que en materia 
 
 III. Proponer la orden del día que se ventilará para las sesiones del Comité;
 
-I (SIC). Proponer al Comité las adquisiciones de bienes de uso generalizado, que por sus características, sean susceptibles de adquirirse en forma consolidada, apegado al programa anual de adquisiciones, arrendamientos y servicios;
+IV. Proponer al Comité las adquisiciones de bienes de uso generalizado, que por sus características, sean susceptibles de adquirirse en forma consolidada, apegado al programa anual de adquisiciones, arrendamientos y servicios;
 
-II. Proponer al Comité, los proveedores de bienes y servicios que ofrezcan mejores condiciones de compra, para la adjudi­cación de pedidos o contratos derivados de los procedimientos de compra por invitación restringida.
+V. Proponer al Comité, los proveedores de bienes y servicios que ofrezcan mejores condiciones de compra, para la adjudicación de pedidos o contratos derivados de los procedimientos de compra por invitación restringida.
 
-III. Seleccionar y designar al proveedor de bienes o servicios, la adjudicación de contratos en las operaciones de compra por el procedimiento de adjudicación directa, en relación con el artículo 16 del presente Reglamento;
+VI. Seleccionar y designar al proveedor de bienes o servicios, la adjudicación de contratos en las operaciones de compra por el procedimiento de adjudicación directa, en relación con el artículo 16 del presente Reglamento;
 
-IV. Diseñar o modificar en su caso, los formatos necesarios para cubrir el proceso de las operaciones que regula este Reglamento;
+VII. Diseñar o modificar en su caso, los formatos necesarios para cubrir el proceso de las operaciones que regula este Reglamento;
 
-V. Analizar y opinar en torno a los programas y presupuestos anuales que los órganos presenten en relación a las adquisiciones y servicios;
+VIII. Analizar y opinar en torno a los programas y presupuestos anuales que los órganos presenten en relación a las adquisiciones y servicios;
 
-VI. Revisar que los contratos de adquisiciones y servicios en su caso, estén apegados a los lineamientos emitidos en la materia;
+IX. Revisar que los contratos de adquisiciones y servicios en su caso, estén apegados a los lineamientos emitidos en la materia;
 
-VII. Intervenir en la recepción de los bienes, así como en la verificación de sus especificaciones, calidad y cantidad, y en su caso, hacer las reclamaciones pertinentes;
+X. Intervenir en la recepción de los bienes, así como en la verificación de sus especificaciones, calidad y cantidad, y en su caso, hacer las reclamaciones pertinentes;
 
-VIII. Solicitar a los proveedores del Instituto, cotizaciones de sus productos y servicios, considerando precio, calidad, oportunidad, garantía y servicio.
+XI. Solicitar a los proveedores del Instituto, cotizaciones de sus productos y servicios, considerando precio, calidad, oportunidad, garantía y servicio.
 
-IX. Preparar y organizar las licitaciones que se celebren en relación con la materia de este Reglamento;
+XII. Preparar y organizar las licitaciones que se celebren en relación con la materia de este Reglamento;
 
-X. Formular y proponer al Comité los procedimientos adecuados para optimizar las adquisiciones, arrendamiento y contratación de servicios que se requieran;
+XIII. Formular y proponer al Comité los procedimientos adecuados para optimizar las adquisiciones, arrendamiento y contratación de servicios que se requieran;
 
-XI. Registrar las operaciones que se realicen respecto a las materias previstas en el artículo 1, de este Reglamento;
+XIV. Registrar las operaciones que se realicen respecto a las materias previstas en el artículo 1, de este Reglamento;
 
-XII. Cumplir y hacer cumplir los acuerdos del Comité.
+XV. Cumplir y hacer cumplir los acuerdos del Comité.
 
-XIII. En un análisis estadístico del gasto de los órganos, revisará las ministraciones de los bienes materiales y servicios que se adquieran o surtan, bajo los lineamientos de disciplina, racionalidad y austeridad presupuestal;
+XVI. En un análisis estadístico del gasto de los órganos, revisará las ministraciones de los bienes materiales y servicios que se adquieran o surtan, bajo los lineamientos de disciplina, racionalidad y austeridad presupuestal;
 
-XIV. Rendir al Comité los informes que le sean requeridos;
+XVII. Rendir al Comité los informes que le sean requeridos;
 
-XV. Analizar el ejercicio del presupuesto en base a los principios marcados por el artículo 6 del presente Reglamento, y en su caso proponer lo conducente, y;
+XVIII. Analizar el ejercicio del presupuesto en base a los principios marcados por el artículo 6 del presente Reglamento, y en su caso proponer lo conducente, y;
 
-XVI. Las demás que le asigne el Comité, le confiera este Reglamento y otras disposiciones aplicables.
+XIX. Las demás que le asigne el Comité, le confiera este Reglamento y otras disposiciones aplicables.
 
 ###### Artículo 12.
 
@@ -297,41 +309,43 @@ VIII. Lugar, plazo de entrega y condiciones de pago; y
 
 IX. En el caso de arrendamiento, la indicación de si éste es con o sin opción a compra.
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 19.
 
 Las bases para las licitaciones públicas, se pondrán a disposición de los interesados a partir de la fecha de publicación de la convocatoria, y hasta cinco días naturales previos al acto de presentación y apertura de proposiciones, y contendrán, como mínimo, lo siguiente:
 
 I. Nombre, denominación o razón social del Instituto;
 
-I (SIC). Fecha, hora y lugar de la junta de aclaraciones a las bases de la licitación, siendo optativa la asistencia a las reuniones que, en su caso, se realicen; fecha, hora y lugar para la celebración del acto de presentación y apertura de las proposi­ciones, garantías, comunicación del fallo y firma del contrato;
+II. Fecha, hora y lugar de la junta de aclaraciones a las bases de la licitación, siendo optativa la asistencia a las reuniones que, en su caso, se realicen; fecha, hora y lugar para la celebración del acto de presentación y apertura de las proposiciones, garantías, comunicación del fallo y firma del contrato;
 
-II. Señalamiento de que será causa de descalificación, el incumplimiento de alguno de los requisitos establecidos en las bases de la licitación;
+III. Señalamiento de que será causa de descalificación, el incumplimiento de alguno de los requisitos establecidos en las bases de la licitación;
 
-III. La indicación de que ninguna de las condiciones contenidas en las bases de la licitación, así como en las proposiciones presentadas por los proveedores, podrán ser negociadas;
+IV. La indicación de que ninguna de las condiciones contenidas en las bases de la licitación, así como en las proposiciones presentadas por los proveedores, podrán ser negociadas;
 
-IV. Descripción completa de los bienes o servicios; información específica sobre el mantenimiento, asistencia técnica y capacitación redactada en idioma español; relación de refacciones que deberán cotizarse cuando sean parte integrante del contrato; especificaciones y normas que, en su caso, sean aplicables; dibujos; cantidades; muestras; pruebas que se realizarán y, de ser posible, métodos para ejecutarlas; periodo de garantía y, en su caso, otras opciones adicionales de cotización;
+V. Descripción completa de los bienes o servicios; información específica sobre el mantenimiento, asistencia técnica y capacitación redactada en idioma español; relación de refacciones que deberán cotizarse cuando sean parte integrante del contrato; especificaciones y normas que, en su caso, sean aplicables; dibujos; cantidades; muestras; pruebas que se realizarán y, de ser posible, métodos para ejecutarlas; periodo de garantía y, en su caso, otras opciones adicionales de cotización;
 
-V. Plazo, lugar y condiciones de entrega;
+VI. Plazo, lugar y condiciones de entrega;
 
-VI. Requisitos que deberán cumplir quienes deseen participar.
+VII. Requisitos que deberán cumplir quienes deseen participar.
 
-VII. Condiciones de precio y pago;
+VIII. Condiciones de precio y pago;
 
-VIII. La indicación de si se otorgará anticipo, en cuyo caso deberá señalarse el porcentaje respectivo, el que no podrá exceder del cincuenta por ciento del monto total del contrato;
+IX. La indicación de si se otorgará anticipo, en cuyo caso deberá señalarse el porcentaje respectivo, el que no podrá exceder del cincuenta por ciento del monto total del contrato;
 
-IX. La indicación de si la adjudicación de los bienes o servicios será por la totalidad o bien por partida o concepto de los mismos;
+X. La indicación de si la adjudicación de los bienes o servicios será por la totalidad o bien por partida o concepto de los mismos;
 
-X. En el caso de los contratos abiertos, la información que corresponda del artículo 32 de este Reglamento;
+XI. En el caso de los contratos abiertos, la información que corresponda del artículo 32 de este Reglamento;
 
-XI. Señalamiento de que será causa de descalificación la comprobación de que algún proveedor ha acordado con otro u otros elevar los precios de los bienes y servicios;
+XII. Señalamiento de que será causa de descalificación la comprobación de que algún proveedor ha acordado con otro u otros elevar los precios de los bienes y servicios;
 
-XII. Penas convencionales por atraso en las entregas, la no entrega de los bienes, la no prestación del servicio, los defectos y vicios ocultos de los bienes y la calidad de los servicios, así como cualquier incumplimiento a los contratos que se celebren;
+XIII. Penas convencionales por atraso en las entregas, la no entrega de los bienes, la no prestación del servicio, los defectos y vicios ocultos de los bienes y la calidad de los servicios, así como cualquier incumplimiento a los contratos que se celebren;
 
-XIII. Instrucciones para elaborar y entregar las propuestas y garantías; y
+XIV. Instrucciones para elaborar y entregar las propuestas y garantías; y
 
-XIV. Registro actualizado en el Padrón de Proveedores de Gobierno del Estado; y
+XV. Registro actualizado en el Padrón de Proveedores de Gobierno del Estado; y
 
-XV. Acreditar el cumplimiento de las obligaciones de registro y actualización en el Sistema de Información Empresarial Mexicano, de conformidad con las normas aplicables y encontrarse al corriente en el cumplimiento de sus obligaciones fiscales.
+XVI. Acreditar el cumplimiento de las obligaciones de registro y actualización en el Sistema de Información Empresarial Mexicano, de conformidad con las normas aplicables y encontrarse al corriente en el cumplimiento de sus obligaciones fiscales.
 
 ###### Artículo 20.
 
@@ -355,7 +369,9 @@ Las modificaciones de que trata este artículo no podrán consistir en la variac
 
 Quienes participen en las licitaciones a que se refiere este Reglamento deberán garantizar por medio de caución suficiente a satisfacción del Instituto:
 
-I. La seriedad de las proposiciones en los procedimientos de licitación pública; el Instituto, en su caso, conservará en cus­todia las garantías de que se trate hasta la fecha del fallo, en que serán devueltas a los licitantes salvo las de aquél o aquéllos a quienes se hubiere adjudicado el contrato, la que retendrá hasta el momento en que el proveedor constituya la garantía de cumplimiento del contrato correspondiente;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+I. La seriedad de las proposiciones en los procedimientos de licitación pública; el Instituto, en su caso, conservará en custodia las garantías de que se trate hasta la fecha del fallo, en que serán devueltas a los licitantes salvo las de aquél o aquéllos a quienes se hubiere adjudicado el contrato, la que retendrá hasta el momento en que el proveedor constituya la garantía de cumplimiento del contrato correspondiente;
 
 II. Los anticipos que, en su caso, reciban. Esta garantía deberá constituirse por la totalidad del monto del anticipo;
 
@@ -377,7 +393,9 @@ Se podrán rescindir administrativamente los contratos en caso de incumplimiento
 
 El Instituto se abstendrá de recibir propuestas o celebrar contrato alguno en las materias a que se refiere este Reglamento con las personas físicas o morales siguientes:
 
-I. Aquellas en que el servidor público que intervenga en cualquier forma en la adjudicación del contrato, tenga interés personal, familiar o de negocios incluyendo aquellas de las que pueda resultar algún beneficio para él, su cónyuge o sus parientes consanguíneos hasta el cuarto grado, por afinidad, o para terceros con los que tengan relaciones profesion­ales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+I. Aquellas en que el servidor público que intervenga en cualquier forma en la adjudicación del contrato, tenga interés personal, familiar o de negocios incluyendo aquellas de las que pueda resultar algún beneficio para él, su cónyuge o sus parientes consanguíneos hasta el cuarto grado, por afinidad, o para terceros con los que tengan relaciones profesionales, laborales o de negocios, o para socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte.
 
 II. Aquellos proveedores a quienes, por causas imputables a ellos mismos, se les hubiere rescindido en la vía administrativa un contrato, dentro de un lapso de dos años calendario contado a partir de la rescisión;
 
@@ -393,6 +411,8 @@ VII. Las demás que por cualquier causa se encuentren impedidas para ello por di
 
 #### SECCIÓN SEGUNDA. DE LOS PROCEDIMIENTOS Y CONTRATOS DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 26.
 
 El acto de presentación y apertura de proposiciones, en el que sólo podrán participar los licitantes que hayan cubierto el costo de las bases de la licitación, se llevará a cabo conforme a lo siguiente:
@@ -405,15 +425,15 @@ III. Los participantes rubricarán todas las proposiciones presentadas y el conv
 
 IV. De lo anterior, el convocante levantará el acta correspondiente, en la que hará constar las proposiciones aceptadas y sus importes, así como aquellas que hubiesen sido rechazadas y las causas que lo motivaron. El acta será firmada por los participantes y se les entregará copia de la misma;
 
-I (SIC). En el acta se señalará la fecha, hora y lugar en el que se dará a conocer el fallo de la licitación, el que deberá quedar comprendido dentro de los veinte días naturales contados a partir de la fecha del acto de apertura, y podrá diferirse por una sola vez, siempre que el nuevo plazo fijado no exceda de diez días naturales, contados a partir del plazo establecido originalmente;
+V. En el acta se señalará la fecha, hora y lugar en el que se dará a conocer el fallo de la licitación, el que deberá quedar comprendido dentro de los veinte días naturales contados a partir de la fecha del acto de apertura, y podrá diferirse por una sola vez, siempre que el nuevo plazo fijado no exceda de diez días naturales, contados a partir del plazo establecido originalmente;
 
-II. En junta pública se dará a conocer el fallo de la licitación, a la que libremente podrán asistir los licitantes que hubieren participado en las etapas de presentación y apertura de proposiciones. En sustitución de esta junta, el convocante podrá optar por comunicar por escrito el fallo de la licitación a cada uno de los licitantes.
+VI. En junta pública se dará a conocer el fallo de la licitación, a la que libremente podrán asistir los licitantes que hubieren participado en las etapas de presentación y apertura de proposiciones. En sustitución de esta junta, el convocante podrá optar por comunicar por escrito el fallo de la licitación a cada uno de los licitantes.
 
-III. En el mismo acto de fallo o adjunta a la comunicación referida en el párrafo anterior, el convocante proporcionará por escrito a los licitantes, la información acerca de las razones por las cuales su proposición, en su caso, no fue elegida; asimismo, se levantará el acta del fallo de la licitación, que firmarán los participantes, a quienes se entregará copia de la misma.
+VII. En el mismo acto de fallo o adjunta a la comunicación referida en el párrafo anterior, el convocante proporcionará por escrito a los licitantes, la información acerca de las razones por las cuales su proposición, en su caso, no fue elegida; asimismo, se levantará el acta del fallo de la licitación, que firmarán los participantes, a quienes se entregará copia de la misma.
 
-IV. El convocante hará del conocimiento general al participante ganador.
+VIII. El convocante hará del conocimiento general al participante ganador.
 
-V. De acuerdo a la complejidad para evaluar la proposición y de ser conveniente, el fallo podrá efectuarse en la misma fecha del acto de presentación y apertura de proposiciones.
+IX. De acuerdo a la complejidad para evaluar la proposición y de ser conveniente, el fallo podrá efectuarse en la misma fecha del acto de presentación y apertura de proposiciones.
 
 ###### Artículo 27.
 
@@ -517,33 +537,35 @@ Para ello, en los actos o contratos de adquisiciones, arrendamientos o servicios
 
 ### CAPÍTULO TERCERO. DE LAS EXCEPCIONES A LA LICITACIÓN PÚBLICA
 
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 44.
 
 El Instituto, bajo su responsabilidad y previo el dictamen del comité podrán contratar adquisiciones, arrendamientos o servicios a través de un procedimiento de invitación restringida o adjudicación directa, cuando:
 
 I. El contrato sólo pueda celebrarse con una determinada persona por tratarse de derechos exclusivos;
 
-II. Peligre o se altere el orden social, la economía, los servicios públicos, la salubridad, la seguridad o el ambiente de alguna zona o región del Estado o del país, como consecuencia de desastres producidos por fuerza mayor, o existan circun­stancias que puedan provocar pérdidas o costos adicionales importantes, o cuando existan condiciones o circunstancias extraordinarias o imprevisibles que traigan como consecuencia las eventualidades señaladas;
+II. Peligre o se altere el orden social, la economía, los servicios públicos, la salubridad, la seguridad o el ambiente de alguna zona o región del Estado o del país, como consecuencia de desastres producidos por fuerza mayor, o existan circunstancias que puedan provocar pérdidas o costos adicionales importantes, o cuando existan condiciones o circunstancias extraordinarias o imprevisibles que traigan como consecuencia las eventualidades señaladas;
 
-III. Se trate de trabajos cuya ejecución requiera de la aplicación de sistemas y procedimientos de tecnología avanzada; y
+III. Se trate de trabajos cuya ejecución requiera de la aplicación de sistemas y procedimientos de tecnología avanzada;
 
 IV. Se realicen dos licitaciones sin que en ambas se hubiesen recibido proposiciones solventes.
 
-I (SIC). Existan razones justificadas para la adquisición y arrendamiento de bienes de marca determinada;
+V. Existan razones justificadas para la adquisición y arrendamiento de bienes de marca determinada;
 
-II. Se trate de adquisición de bienes o servicios de consultoría cuya difusión pudiera afectar al interés público o comprometer información de naturaleza confidencial para el Instituto;
+VI. Se trate de adquisición de bienes o servicios de consultoría cuya difusión pudiera afectar al interés público o comprometer información de naturaleza confidencial para el Instituto;
 
-III. Se trate de servicios de mantenimiento, conservación, restauración y reparación de bienes en los que no sea posible precisar su alcance, establecer el catálogo de conceptos y cantidades de trabajo o determinar las especificaciones cor­respondientes;
+VII. Se trate de servicios de mantenimiento, conservación, restauración y reparación de bienes en los que no sea posible precisar su alcance, establecer el catálogo de conceptos y cantidades de trabajo o determinar las especificaciones correspondientes;
 
-III. Se trate de equipo, máquinas, sistemas o programas de cómputo e informáticos, siempre que por cuestiones técnicas o de diseño, sean parte integrante o componentes de los sistemas y equipos con que a su vez ya cuente el Instituto
+VIII. Se trate de equipo, máquinas, sistemas o programas de cómputo e informáticos, siempre que por cuestiones técnicas o de diseño, sean parte integrante o componentes de los sistemas y equipos con que a su vez ya cuente el Instituto
 
-V. Cuando no existan por lo menos tres proveedores, arrendadores o prestadores de servicio idóneos, previa investigación del mercado que al efecto se hubiere realizado;
+IX. Cuando no existan por lo menos tres proveedores, arrendadores o prestadores de servicio idóneos, previa investigación del mercado que al efecto se hubiere realizado;
 
-VI. Cuando se hubiere rescindido el contrato o pedido respectivo. En este caso, el Instituto verificará previamente, si existe otra proposición que resulte aceptable, en cuyo caso, el pedido o contrato se celebrará con el proveedor respectivo;
+X. Cuando se hubiere rescindido el contrato o pedido respectivo. En este caso, el Instituto verificará previamente, si existe otra proposición que resulte aceptable, en cuyo caso, el pedido o contrato se celebrará con el proveedor respectivo;
 
-VII. Se trate de servicios profesionales, de investigación. consultoría y asesoría; y
+XI. Se trate de servicios profesionales, de investigación. consultoría y asesoría; y
 
-VIII. La contratación de servicios profesionales contratada con Gobierno del Estado se harán siempre en forma directa, independientemente de su monto.
+XII. La contratación de servicios profesionales contratada con Gobierno del Estado se harán siempre en forma directa, independientemente de su monto.
 
 Tratándose de material y documentación electoral, en caso de cualquier tipo de incumplimiento por parte del proveedor, se procederá de inmediato a la cancelación del pedido o contrato, procediendo a convocar a una nueva licitación pública. En caso de que los plazos para llevar a cabo la nueva licitación pública comprometan la buena marcha o pongan en riesgo la realización del proceso electoral en tiempo y forma, el Comité adjudicará de manera directa a la segunda o ulterior empresa o proveedor que en orden de prelación, hubiese cotizado los bienes o servicios requeridos, en un término improrrogable de cuarenta y ocho horas, contados a partir de la citada cancelación inmediata.
 
@@ -605,7 +627,9 @@ En el procedimiento para la aplicación de las sanciones a que se refiere este C
 
 I. Se comunicarán por escrito al presunto infractor los hechos constitutivos de la infracción que oficiosamente detecte el Comité o los contenidos en la queja formulada por quien tenga interés jurídico en el asunto, para que dentro del término que para tal efecto se señale y que no podrá ser menor de diez días naturales, exponga lo que a su derecho convenga, aporte las pruebas que estime pertinentes y formule alegatos en una audiencia que se realizará para tales efectos; y
 
-II. El Comité, pronunciará su resolución, debidamente fundada y motivada, en un término que no excederá de veinte días naturales, y la notificará personalmente, por escrito al infractor, en términos del Capítulo XI, Título Segundo, del Libro Séptimo, de la Ley Electoral del Estado de Chihuahua.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+II. El Comité, pronunciará su resolución, debidamente fundada y motivada, en un término que no excederá de veinte días naturales, y la notificará personalmente, por escrito al infractor, en términos del artículo 276, de la Ley Electoral del Estado de Chihuahua.
 
 ###### Artículo 52.
 
@@ -710,3 +734,11 @@ SECRETARIO EJECUTIVO.
 LIC. SAÚL EDUARDO RODRÍGUEZ CAMACHO.
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO NO. IEE/CE12/2015 DEL CONSEJO ESTATAL DEL INSTITUTO ESTATAL ELECTORAL DE CHIHUAHUA, MEDIANTE EL CUAL SE APRUEBA MODIFICAR EL REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL INSTITUTO ESTATAL ELECTORAL DE CHIHUAHUA, PARA ADECUARLO A LA NORMATIVIDAD ELECTORAL VIGENTE.”]
+
+Artículo Primero.- Este Reglamento iniciará su vigencia el mismo día de su aprobación.
