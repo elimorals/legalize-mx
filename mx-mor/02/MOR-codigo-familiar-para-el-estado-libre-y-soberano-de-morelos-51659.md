@@ -4,7 +4,7 @@ identifier: "MOR-codigo-familiar-para-el-estado-libre-y-soberano-de-morelos-5165
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2015-06-24"
+last_updated: "2015-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51659&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2015.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -1985,11 +1985,33 @@ La recuperación de la patria potestad procederá únicamente en aquellos casos 
 
 Lo mismo se observará respecto de la recuperación de la custodia.
 
-> <small>(REFORMADO, P.O. 11 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 224.
 
-PROCURACIÓN DEL RESPETO HACIA LOS PROGENITORES. Quien ejerza la patria potestad, debe de procurar el respeto y el acercamiento constante de los menores con el otro ascendiente que también ejerza la patria potestad. En consecuencia, cada uno de los ascendientes debe evitar cualquier acto de manipulación y alienación parental encaminada a producir en la niña o en el niño, rencor o rechazo hacia el otro progenitor, sopena de suspendérsele en su ejercicio.
+OBLIGACIÓN DE RESPETO HACIA LOS PROGENITORES. Quien ejerza la patria potestad, debe de procurar el respeto y el acercamiento constante de los menores con el otro ascendiente que también ejerza la patria potestad. En consecuencia, cada uno de los ascendientes debe evitar cualquier acto de manipulación y alienación parental encaminada a producir en la niña o en el niño, rencor o rechazo hacia el otro progenitor, sopena (sic) de suspendérsele en su ejercicio.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+Se entenderá por “Síndrome de Alienación Parental”; la conducta de uno de los progenitores o integrantes del entorno familiar, tendiente a sugestionar o influir negativamente a los hijos, en contra del otro, provocándole a estos, sentimientos negativos, como rechazo o distanciamiento hacia él; serán consideradas como atentados en contra del vínculo de los hijos, con el progenitor ausente, las siguientes conductas:
+
+I. Impedir que el otro progenitor ejerza el derecho de convivencia con sus hijos;
+
+II. Desvalorizar e insultar al otro progenitor en presencia de los niños y en ausencia del mismo;
+
+III. Ridiculizar los sentimientos de afecto de los niños hacia el otro progenitor;
+
+IV. Provocar, promover o premiar las conductas despectivas y de rechazo hacia el otro progenitor;
+
+V. Influenciar con mentiras o calumnias respecto de la figura del progenitor ausente, insinuando o afirmando al o los menores abiertamente, que pretende dañarlos;
+
+VI. Presentar falsas alegaciones de abuso en los juzgados para separar a los niños del otro progenitor y;
+
+VII. Cambiar de domicilio, con el único fin de impedir, obstruir, e incluso destruir la relación del progenitor ausente con sus hijos.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+En cualquier momento en que se presentare el Síndrome de Alienación Parental por parte de alguno de los progenitores hacia los hijos, el Juez de lo Familiar, de oficio ordenará las medidas terapéuticas necesarias para los menores hijos, con la finalidad de restablecer la sana convivencia con ambos progenitores. Para estos efectos, ambos progenitores tendrán la obligación de colaborar en el cumplimiento de las medidas que sean determinadas, pudiendo el juez hacer uso de las medidas de apremio que establezca el presente Código para su cumplimiento.
 
 > <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2008)</small>
 
@@ -6276,3 +6298,9 @@ P.O. 24 DE JUNIO DE 2015.
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado Libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 9 DE DICIEMBRE DE 2015.
+
+PRIMERO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Una vez publicada la presente reforma en el Periódico Oficial “Tierra y Libertad”, infórmese a la Honorable Cámara de Diputados del Congreso de la Unión, que se ha dado debido cumplimiento al exhorto descrito en el proemio del presente Dictamen.
