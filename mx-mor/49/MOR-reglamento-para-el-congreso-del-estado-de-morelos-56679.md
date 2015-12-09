@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-para-el-congreso-del-estado-de-morelos-56679"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-25"
-last_updated: "2013-08-14"
+last_updated: "2015-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO PARA EL CONGRESO DEL ESTADO DE MORELOS.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 25 de julio de 2007
 
@@ -819,7 +819,7 @@ En seguida, el Presidente dirá: "Si no lo hiciereis así, que la Nación y el E
 
 V. Posteriormente, previa a la declaración de un receso, se designarán dos comisiones de protocolo y cortesía de tres diputados cada una de ellas, que tendrán la encomienda de recibir en el acceso del Salón de Pleno, al Gobernador del Estado y al Presidente del Tribunal Superior de Justicia del Estado, respectivamente, e invitarlos a la toma a la apertura del primer periodo ordinario de sesiones, que tendrá efecto en ese mismo acto, dichas comisiones los acompañarán hasta su lugar y posteriormente, hasta las puertas de la salida del Recinto Legislativo al concluir el evento;
 
-VI. Reanudada la sesión, el Presidente de la Mesa Directiva del Congreso del Estado pedirá a los Diputados se mantengan de pie y hará la siguiente declaración:"La Legislatura del Congreso del Estado Libre y Soberano de Morelos, queda legítimamente Instalada hoy 1° de septiembre del año de “…”
+VI. Reanudada la sesión, el Presidente de la Mesa Directiva del Congreso del Estado pedirá a los Diputados se mantengan de pie y hará la siguiente declaración: "La Legislatura del Congreso del Estado Libre y Soberano de Morelos, queda legítimamente Instalada hoy 1° de septiembre del año de “…”
 
 VII. Honores a la Bandera;
 
@@ -1555,7 +1555,7 @@ I. El semanario de los debates, órgano oficial de difusión del Congreso, en el
 
 II. La versión estenográfica de las intervenciones y de las discusiones en el orden en que se desarrollen e inserción de todos los dictámenes o documentos a los que se les dé lectura;
 
-III. El archivo activo. Se entiende por archivo activo, el de la legislatura que se encuentre en ejercicio; y (sic)
+III. El archivo activo. Se entiende por archivo activo, el de la legislatura que se encuentre en ejercicio; y
 
 IV. Apoyar el desarrollo de las sesiones del pleno del Congreso con los medios que permitan las constancias del desarrollo de las sesiones; y
 
@@ -1591,9 +1591,11 @@ ARTÍCULO 162 bis.- Al término de cada Legislatura, la Secretaría de Servicios
 
 La Secretaría de Administración y Finanzas, tiene bajo su cargo coordinar todo lo relativo al personal del Congreso, a su capacitación y a sus relaciones laborales, al suministro de material administrativo, al mantenimiento y resguardo del Palacio Legislativo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 164.
 
-La Secretaría de Administración y Finanzas contará con las siguientes unidades administrativas:
+La Secretaría de Administración y Finanzas contará con las siguientes unidades institucionales administrativas:
 
 I. Dirección de Administración;
 
@@ -1601,7 +1603,13 @@ II. Dirección de Control Presupuestal;
 
 III. Dirección de Contabilidad; y
 
-IV. Las unidades administrativas y personal que se señalen en sus disposiciones administrativas internas de acuerdo con el presupuesto autorizado.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+IV. Dirección de Recursos Humanos, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+V. Las unidades administrativas y el personal que se señalen en las disposiciones administrativas correspondientes, de acuerdo con el presupuesto autorizado.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 11 DE JULIO DE 2009)</small>
 
@@ -2074,3 +2082,17 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 9 DE DICIEMBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día de su aprobación por el Pleno del Congreso.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
