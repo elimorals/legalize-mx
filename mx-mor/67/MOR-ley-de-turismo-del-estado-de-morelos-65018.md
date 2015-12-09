@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-turismo-del-estado-de-morelos-65018"
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-10"
-last_updated: "2015-06-10"
+last_updated: "2015-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65018&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY DE TURISMO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 10 de diciembre de 2008.
 
@@ -137,17 +137,21 @@ XVIII. Salvaguardar la igualdad de género en la instrumentación y aplicación 
 
 XIX. Determinar las normas para la integración y operación del Registro Estatal de Turismo;
 
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+XX. Promover la colaboración entre la Administración Pública Federal, Estatal, Municipal y el sector privado para impulsar el Turismo Rural y las actividades de apoyo para su desarrollo en la entidad.
+
 > <small>(ADICIONADA, P.O. 17 DE JULIO DE 2013)</small>
 
-XX. Promover y fomentar, de manera permanente, las actividades encaminadas a fortalecer el turismo gastronómico de los pueblos en todo el estado de Morelos;
+XXI. Promover y fomentar, de manera permanente, las actividades encaminadas a fortalecer el turismo gastronómico de los pueblos en todo el estado de Morelos;
 
 > <small>(REFORMADA, P.O. 17 DE JULIO DE 2013)</small>
 
-XXI. Fomentar y desarrollar acciones para diversificar la actividad turística, todas las modalidades turísticas se considerarán como un factor de desarrollo local integrado, apoyando el aprovechamiento propio de las comunidades; y
+XXII. Fomentar y desarrollar acciones para diversificar la actividad turística, todas las modalidades turísticas se considerarán como un factor de desarrollo local integrado, apoyando el aprovechamiento propio de las comunidades; y
 
 > <small>(REFORMADA, P.O. 17 DE JULIO DE 2013)</small>
 
-XXII. En general, la realización de toda clase de actividades que tiendan a fortalecer y acrecentar las corrientes turísticas nacionales e internacionales, hacia el Estado.
+XXIII. En general, la realización de toda clase de actividades que tiendan a fortalecer y acrecentar las corrientes turísticas nacionales e internacionales, hacia el Estado.
 
 > <small>(REFORMADO, P.O. 10 DE JUNIO DE 2015)</small>
 
@@ -653,41 +657,45 @@ Son atribuciones de los Ayuntamientos en materia turística:
 
 I. Propiciar que los programas de promoción desarrollo turístico sean acordes con el Programa Estatal de Turismo;
 
-II. Crear en el ámbito de su competencia los medios de apoyo y fomento a la inversión en materia turística del municipio que se trate;
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
-III. Establecer Consejos Municipales de Turismo, con la participación de los prestadores de servicios, del sector social y privado y las propias autoridades municipales, como órgano de consulta e interlocución con la Secretaría;
+II. Desarrollar e incorporar, dentro de sus planes anuales operativos, programas específicos que garanticen el desarrollo de actividades en el turismo rural.
 
-IV. Implementar medidas de simplificación administrativa y mejora regulatoria que faciliten la instalación y operación de empresas dedicadas a la prestación de servicios turísticos;
+III. Crear en el ámbito de su competencia los medios de apoyo y fomento a la inversión en materia turística del municipio que se trate;
+
+IV. Establecer Consejos Municipales de Turismo, con la participación de los prestadores de servicios, del sector social y privado y las propias autoridades municipales, como órgano de consulta e interlocución con la Secretaría;
+
+V. Implementar medidas de simplificación administrativa y mejora regulatoria que faciliten la instalación y operación de empresas dedicadas a la prestación de servicios turísticos;
 
 > <small>(REFORMADA, P.O. 23 DE ENERO DE 2013)</small>
 
-V. Promover y coordinar las obras y servicios públicos, así como las medidas administrativas necesarias para procurar la adecuada atención y seguridad del turista y al propio desarrollo turístico de la comunidad; así como realizar las adecuaciones necesarias, para que las personas con discapacidad tengan acceso a todos los lugares turísticos.
+VI. Promover y coordinar las obras y servicios públicos, así como las medidas administrativas necesarias para procurar la adecuada atención y seguridad del turista y al propio desarrollo turístico de la comunidad; así como realizar las adecuaciones necesarias, para que las personas con discapacidad tengan acceso a todos los lugares turísticos.
 
-VI. Delimitar las zonas destinadas a los establecimientos que presten servicios turísticos, con base en los planes reguladores de uso de suelo;
+VII. Delimitar las zonas destinadas a los establecimientos que presten servicios turísticos, con base en los planes reguladores de uso de suelo;
 
-VII. Promover con los prestadores de servicios turísticos y la comunidad en general, practicas que mejoren la imagen de los centros turísticos y que resalten atractivos y valores locales a fin de fomentar una mayor afluencia de turistas al Municipio, preservando la identidad y los usos y costumbres locales;
+VIII. Promover con los prestadores de servicios turísticos y la comunidad en general, practicas que mejoren la imagen de los centros turísticos y que resalten atractivos y valores locales a fin de fomentar una mayor afluencia de turistas al Municipio, preservando la identidad y los usos y costumbres locales;
 
-VIII. Fomentar la actividad artesanal y los productos representativos de la región para efectos turísticos;
+IX. Fomentar la actividad artesanal y los productos representativos de la región para efectos turísticos;
 
-IX. Integrar y mantener actualizado el inventario del patrimonio y servicios turísticos municipales, coadyuvando con el Registro Estatal de Turismo;
+X. Integrar y mantener actualizado el inventario del patrimonio y servicios turísticos municipales, coadyuvando con el Registro Estatal de Turismo;
 
-X. Promover la inserción en los bandos y reglamentos municipales, normas tendientes al fomento de la actividad turística, la protección del patrimonio turístico, la imagen urbana, la calidad de los servicios y la atención a los turistas;
+XI. Promover la inserción en los bandos y reglamentos municipales, normas tendientes al fomento de la actividad turística, la protección del patrimonio turístico, la imagen urbana, la calidad de los servicios y la atención a los turistas;
 
-XI. Ser vigilantes del desempeño de la actividad turística en el ámbito de sus respectivas competencias;
+XII. Ser vigilantes del desempeño de la actividad turística en el ámbito de sus respectivas competencias;
 
-XII. Promoción, difusión y orientación turística;
+XIII. Promoción, difusión y orientación turística;
 
-XIII. Promover los programas de señalética y;
-
-> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2010)</small>
-
-XIV. Operar módulos de información y orientación al turista;
+XIV. Promover los programas de señalética y;
 
 > <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2010)</small>
 
-XV. Recibir y canalizar las quejas de los turistas, para su atención ante la autoridad competente; y
+XV. Operar módulos de información y orientación al turista;
 
-XVI. En general, promover la observancia de las disposiciones emanadas de la presente Ley.
+> <small>(ADICIONADA, P.O. 27 DE OCTUBRE DE 2010)</small>
+
+XVI. Recibir y canalizar las quejas de los turistas, para su atención ante la autoridad competente; y
+
+XVII. En general, promover la observancia de las disposiciones emanadas de la presente Ley.
 
 ## TÍTULO CUARTO. DE LA PROMOCIÓN E INFORMACIÓN TURÍSTICA
 
@@ -1110,6 +1118,24 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morel
 ###### ARTÍCULO SEGUNDO.
 
 El presente decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial "Tierra y Libertad, órgano de difusión del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+Iniciando vigencia el presente Decreto, el titular del Poder Ejecutivo del Estado de Morelos, deberá realizar dentro de los 90 días siguientes, las adecuaciones a su respectivo reglamento.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas las disposiciones jurídicas que se opongan a lo dispuesto por el presente Decreto.
+
+P.O. 9 DE DICIEMBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado de Morelos, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70 fracción XVII de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente decreto iniciará su vigencia a partir del día siguiente al de su publicación en el Periódico Oficial “Tierra y Libertad, órgano de difusión del Estado de Morelos.
 
 ###### ARTÍCULO TERCERO.
 
