@@ -4,7 +4,7 @@ identifier: "NAY-reglamento-interior-del-colegio-de-estudios-cientificos-y-94887
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-06-07"
-last_updated: "2013-06-19"
+last_updated: "2015-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NAY"
 
 REGLAMENTO INTERIOR DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE NAYARIT
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE NAYARIT, PUBLICADO EN EL P.O. DE 9 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 19 DE JUNIO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en la Sección Segunda del Periódico Oficial del Estado de Nayarit, el viernes 7 de junio de 2013.
 
@@ -690,3 +690,15 @@ TERCERO. En tanto no se expidan los manuales administrativos que este Reglamento
 Dado en la ciudad de Tepic, capital del Estado de Nayarit, a los veinticuatro días del mes de mayo del año dos mil doce, firmando los propietarios.
 
 ING. JOSÉ VICENTE ROMERO RUÍZ, Presidente de la H. Junta Directiva.- Rúbrica.- LIC. JOSÉ ANTONIO CUEVAS CARRASCO, Repte. Del Gobierno Federal.- Rúbrica.- PROFR. VÍCTOR LÓPEZ TOLEDO, Repte.- del Gobierno Federal.- Rúbrica.- LIC. MIGUEL A. DELGADO CONTRERAS, Repte. de la Contraloría del Gobierno del Estado.- Rúbrica.- LIC. RUBÍ C. TELLEZ HINOJOSA, Repte. Sector Gobierno de los Municipios.- Rúbrica.- MVZ. SERGIO MENDOZA GUZMÁN, Repte. Del Gobierno Estatal.- Rúbrica.- C. LUCIANO MEDINA MEDINA, Repte. Sector Social.- Rúbrica.- SR. GUSTAVO SALCEDO FLETES, Repte. Padres de Familia.- Rúbrica.- PROFR. NEFTALÍ CASTILLÓN VALENCIA, Secretario Técnico.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DEL COLEGIO DE ESTUDIOS CIENTÍFICOS Y TECNOLÓGICOS DEL ESTADO DE NAYARIT".]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nayarit.
+
+SEGUNDO. Se abroga el Reglamento Interior del CECyTEN, publicado en el Periódico Oficial del Estado con fecha 7 de Junio de 2013 y sus reformas.
+
+TERCERO. En tanto no se expidan los manuales administrativos que este Reglamento menciona, y se defina la estructura ocupacional correspondiente, el Director General resolverá los asuntos que procedan.
