@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-fomento-a-la-micro-pequena-y-mediana-empresa-del-95768"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-04"
-last_updated: "2013-07-04"
+last_updated: "2015-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95768&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA DEL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA PARA EL ESTADO DE NUEVO LEÓN, PUBLICADA EN EL P.O. DE 17 DE NOVIEMBRE DE 2017, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 LEY DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el jueves 4 de julio de 2013.
 
@@ -157,9 +159,21 @@ VII. Promover la modernización, innovación y desarrollo tecnológico en las MI
 
 VIII. Información general en materia económica acorde a las necesidades de las MIPYMES;
 
-IX. Canalización de recursos de fondos federales para la adquisición de bienes y servicios de las MIPYMES del Estado, y
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
-X. Fomento para la expansión nacional e internacional de las MIPYMES.
+IX. Canalización de recursos de fondos federales para la adquisición de bienes y servicios de las MIPYMES del Estado;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+X. Fomento para la expansión nacional e internacional de las MIPYMES;
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+XI. Fomento de la constitución de Sociedades Cooperativas, sobre todo de Ahorro y Préstamo; y
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+XII. Fomento de la implementación de manera permanente, en todos los municipios del Estado, de un sistema de apertura rápida de empresas.
 
 Adicionalmente, la Secretaría promoverá esquemas para facilitar el acceso al financiamiento público y privado a las MIPYMES.
 
@@ -241,7 +255,9 @@ III. Promover, capacitar y difundir los programas, instrumentos, productos, herr
 
 IV. Fomentar el acceso al financiamiento de las MIPYMES, y
 
-V. Fomentar la constitución de incubadoras de empresas y formación de emprendedores.
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+V. Fomentar la constitución de incubadoras de empresas y formación de emprendedores, mediante la implementación de programas dirigidos primordialmente a mujeres jefas de familia y jóvenes.
 
 ###### Artículo 17.
 
@@ -260,6 +276,12 @@ Para el cumplimiento de los objetivos de la Ley se establece el Sistema.
 ###### Artículo 20.
 
 El Sistema comprende el conjunto de políticas, programas, mecanismos y acciones que realice el sector público del Estado y los sectores que participen en los objetivos de esta Ley para el desarrollo de las MIPYMES, considerando las opiniones del Consejo y coordinados por la Secretaría en el ámbito de su competencia.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 20 Bis.
+
+Dentro de las políticas, programas, mecanismos y acciones del sector público del Estado, se implementarán programas de otorgamiento de créditos para el fortalecimiento y desarrollo de la micro, pequeña y mediana empresa.
 
 ### CAPÍTULO CUARTO. DEL CONSEJO ESTATAL DE FOMENTO A LA MICRO, PEQUEÑA Y MEDIANA EMPRESA
 
@@ -429,8 +451,6 @@ Será optativo para el afectado presentar el recurso de inconformidad o acudir a
 
 Cualquier violación a la presente Ley por parte de servidores públicos será sancionada en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León.
 
-...
-
 T R A N S I T O R I O S:
 
 Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
@@ -472,3 +492,9 @@ RODOLFO GOMEZ ACOSTA
 EL C. SECRETARIO DE DESARROLLO ECONÓMICO
 
 FEDERICO EUGENIO VARGAS RODRÍGUEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 9 DE DICIEMBRE DE 2015.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
