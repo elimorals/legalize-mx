@@ -4,7 +4,7 @@ identifier: "CAM-codigo-penal-del-estado-de-campeche-88922"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-07-20"
-last_updated: "2015-09-14"
+last_updated: "2015-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CÓDIGO PENAL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Campeche, el viernes 20 de julio de 2012.
 
@@ -3605,9 +3605,19 @@ El que cuando esté obligado a declarar ante la autoridad u otorgar la protesta 
 
 Cuando la ley autorice el empleo de medidas de apremio para hacer efectivos los mandatos de la autoridad, la consumación de los delitos de desobediencia y resistencia de particulares se producirá en el momento en que se agote el empleo de tales medidas de apremio.
 
-### CAPÍTULO I. NARCOMENUDEO, SECUESTRO, TRATA DE PERSONAS Y DELITOS ELECTORALES
+### CAPÍTULO IV. USO INDEBIDO DE LOS SISTEMAS DE EMERGENCIA
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+Artículo 378 bis.- Comete el delito de uso indebido de los sistemas de emergencia el que dolosamente por cualquier medio reporte hechos falsos a instituciones públicas que presten servicios de emergencia, protección civil, bomberos o seguridad pública, que haga necesaria la movilización y presencia de elementos de dichas instituciones, el desalojo de edificios públicos o privados o cualquier otro, que altere el orden público.
+
+Al responsable de esta conducta se le impondrá de tres meses a un año de prisión y multa de diez a cincuenta días de salario.
+
+En caso de reincidencia se impondrá de uno a dos años de prisión y multa de cien a doscientos días de salario.
+
+Si por la comisión de este delito se provoca un accidente o algún daño, ya sea personal o material, se le impondrá de dos a tres años de prisión y multa de trescientos a quinientos días de salario.
 
 ###### Artículo 343.
 
@@ -3615,15 +3625,15 @@ Al que con actos materiales, y empleando violencia, trate de impedir la ejecuci�
 
 Cuando este delito se cometa de común acuerdo por varias personas, se impondrá de dos a cuatro años de prisión y multa de ciento veinte a doscientos cincuenta días de salario, sin perjuicio de las sanciones aplicables por la comisión de otros delitos.
 
-### CAPÍTULO II. PROTECCIÓN CIVIL
+### CAPÍTULO I. NARCOMENUDEO, SECUESTRO, TRATA DE PERSONAS Y DELITOS ELECTORALES
+
+> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
 
 ###### Artículo 344.
 
 Al que quebrante los sellos puestos por orden de la autoridad, se le impondrá de veinticuatro a setenta y dos jornadas de trabajo a favor de la comunidad y multa de cincuenta a ciento cincuenta días de salario.
 
-### CAPÍTULO ÚNICO
-
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+### CAPÍTULO II. PROTECCIÓN CIVIL
 
 ###### Artículo 345.
 
@@ -3632,6 +3642,8 @@ Al que cometa un delito en contra de un servidor público en el acto de ejercer 
 ## TÍTULO VIGÉSIMO. DELITOS CONTRA EL RESPETO A LOS SÍMBOLOS INSTITUCIONALES
 
 ### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
 ###### Artículo 346.
 
@@ -3867,6 +3879,10 @@ III. Recursos esenciales que el Estado destine para el mantenimiento del orden p
 
 Se impondrán de uno a siete años de prisión y multa de cien a doscientos días de salario a los que, para conseguir que se les reconozca o conceda algún derecho, o pretextando su ejercicio, o para evitar el cumplimiento de una ley, se reúnan de forma tumultuaria y perturben el orden público con violencia o amenacen a una autoridad estatal para intimidarla y obligarla a tomar una determinación.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
 ## TÍTULO VIGÉSIMO QUINTO. DELITOS CONTENIDOS EN LEYES ESPECIALES
 
 > <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
@@ -4030,3 +4046,11 @@ NOVENO.- La Junta Reguladora deberá instalarse en los primeros 15 días hábile
 DECIMO.- Los recursos que se perciban por concepto de derechos por arrendamiento o comodato de las licencias, serán destinadas para constituir un Fondo para la Atención de Adicciones y Fomento al Deporte. Los recursos que obtenga el Estado por los conceptos restantes en la materia que esta Ley regula, serán destinados prioritariamente a la verificación, control, vigilancia, inspección de establecimientos del ramo, adecuación de instalaciones destinadas para las áreas de arresto administrativo, adquisición de mobiliario y equipo de alcoholimetría, así como para educación y prevención para un consumo responsable. Los remanentes ingresarán al gasto público en general.
 
 UNDÉCIMO.- Para el caso de la obligación contenida en la fracción XI del artículo 9 de esta Ley, se concede un plazo de hasta 2 años contados a partir de la vigencia de esta ley para su debido cumplimiento a cargo de los propietarios, franquiciatarios, representantes legales o encargados de los locales o establecimientos en que se expendan bebidas alcohólicas.
+
+P.O. 9 DE DICIEMBRE DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor a los quince días siguientes de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las instituciones estatales y municipales encargadas de brindar auxilio, difundirán ampliamente el contenido del presente decreto, a efecto de fomentar el uso responsable de los sistemas de aviso de emergencias.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
