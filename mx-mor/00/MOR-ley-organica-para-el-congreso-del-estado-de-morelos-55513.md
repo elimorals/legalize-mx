@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-para-el-congreso-del-estado-de-morelos-55513"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-05-09"
-last_updated: "2015-10-14"
+last_updated: "2015-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA PARA EL CONGRESO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 9 de mayo de 2007.
 
@@ -1207,7 +1207,7 @@ IV. Propiciar el reconocimiento de condiciones equitativas e igualdad de oportun
 
 V. Contribuir a la creación de espacios de expresión de quienes trabajan por la igualdad de las mujeres y contra la violencia hacia ellas;
 
-VI. Dictaminar, en unión con las comisiones legislativas respectivas, sobre la legislación, así como su reforma, modificación o. adición, que se relacione con la equidad de género;
+VI. Dictaminar, en unión con las comisiones legislativas respectivas, sobre la legislación, así como su reforma, modificación o adición, que se relacione con la equidad de género;
 
 VII. La atención de asuntos relativos a la discriminación o maltrato de la mujer, por razón de raza, edad, ideología política, creencia religiosa o situación socioeconómica, entre otros;
 
@@ -1443,7 +1443,9 @@ I. Comité de Vigilancia;
 
 II. Comité de Régimen Administrativo; y
 
-III.- (DEROGADA, P.O. 24 DE OCTUBRE DE 2012)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+III. Comité Editorial.
 
 Los comités se integran de la misma forma que las comisiones legislativas.
 
@@ -1479,9 +1481,23 @@ VII. Fungir como órgano de consulta respecto a la contratación de arrendamient
 
 VIII. Determinar los montos de garantías que deberán otorgar los proveedores concursantes al presentar sus propuestas y aquellas que deberán otorgar en garantía del cumplimiento de los pedidos y contratos en término, cantidad y calidad, de conformidad con los lineamientos aprobados por el Presidente de la Mesa Directiva para la adquisición, enajenación, arrendamiento y prestación de servicios.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 9 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 88.
 
-(DEROGADO, P.O. 24 DE OCTUBRE DE 2012 Y 14 DE NOVIEMBRE DE 2012)
+Son atribuciones del Comité Editorial:
+
+I. Integrar, incrementar y difundir el acervo editorial del Congreso, que sirva de comunicación, información y soporte en las tareas legislativas;
+
+II. Establecer las bases para organizar, modernizar e impulsar las actividades, programas y publicaciones editoriales del Congreso.
+
+III. Difundir publicaciones editoriales del Congreso con la Sociedad Morelense;
+
+IV. Promover la edición de publicaciones que se consideren de interés, para el desarrollo cultural del Estado.
+
+V. Suscribir Convenios de Colaboración con Instituciones Públicas y Privadas, Nacionales e Internacionales para el desarrollo, contribución y difusión del acervo editorial.
+
+VI. Las demás que sean acordadas por el Pleno, la Diputación Permanente y la Junta Política y de Gobierno, en virtud de ser necesarias para el cumplimiento de sus funciones.
 
 ### CAPÍTULO I BIS. DE LA SECRETARIA GENERAL Y SECRETARIAS DEL CONGRESO
 
@@ -2466,3 +2482,17 @@ PRIMERO.- El presente decreto entró en vigor el día de su aprobación por el P
 SEGUNDO.- Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente decreto.
 
 TERCERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del Estado, de conformidad con el artículo 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+P.O. 9 DE DICIEMBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día de su aprobación por el Pleno del Congreso.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que contravengan lo dispuesto en el presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva de conformidad con los artículos 44 y 70 fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
