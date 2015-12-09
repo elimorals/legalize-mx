@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-de-caja-de-ahorro-y-prestamos-de-los-80727"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-03-17"
-last_updated: "2011-03-17"
+last_updated: "2015-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80727&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CHP"
 ---
 # REGLAMENTO DE CAJA DE AHORRO Y PRESTAMOS DE LOS TRABAJADORES DE BASE, DE CONFIANZA CON NOMBRAMIENTO ILIMITADO ADSCRITO A LA SUBSECRETARIA DE EDUCACION FEDERALIZADA DE LA SECRETARIA DE EDUCACION, JUBILADOS, PENSIONADOS Y BECARIOS, DEL ESTADO DE CHIAPAS
 
-REGLAMENTO DE CAJA DE AHORRO Y PRESTAMOS DE LOS TRABAJADORES DE BASE, DE CONFIANZA CON NOMBRAMIENTO ILIMITADO ADSCRITO A LA SUBSECRETARIA DE EDUCACION FEDERALIZADA DE LA SECRETARIA DE EDUCACION, JUBILADOS, PENSIONADOS Y BECARIOS
+REGLAMENTO DE CAJA DE AHORRO Y PRÉSTAMOS DE LOS TRABAJADORES DE BASE, DE CONFIANZA CON NOMBRAMIENTO ILIMITADO ADSCRITO A LA SUBSECRETARÍA DE EDUCACION FEDERALIZADA DE LA SECRETARÍA DE EDUCACIÓN, JUBILADOS, PENSIONADOS Y BECARIOS
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO DE CAJA DE AHORRO Y PRÉSTAMOS DE LOS TRABAJADORES DE BASE Y CONFIANZA CON NOMBRAMIENTO ILIMITADO ADSCRITO A LA SUBSECRETARÍA DE EDUCACIÓN FEDERALIZADA DE LA SECRETARÍA DE EDUCACIÓN, JUBILADOS, PENSIONADOS Y BECARIOS AGREMIADOS DE LA SECCIÓN VII, PUBLICADO EN EL P.O. DE 9 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el jueves 17 de marzo de 2011.
 
@@ -1024,3 +1026,19 @@ Artículo Cuarto.- Para su conocimiento y debida difusión, publíquese en el Pe
 Dado en la oficina que ocupa la Subsecretaría de Educación Federalizada de la Secretaría de Educación, en la ciudad de Tuxtla Gutiérrez, Chiapas; a los dieciséis días del mes de marzo del 2011.
 
 Comité de Administración: Julio César Lugo Martínez, Presidente.- José Manuel Nájera López, Tesorero Víctor Manuel de Jesús González García, Primer Comisario.- David del Carmen Villatoro Velázquez, Segundo Comisario.- Juan Manuel Jovel Osorio, Tercer Comisario.- Jorge Luis Hernández Alabat, Subsecretario de Educación Federalizada.- Rúbricas
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 9 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DE LA "PUB. NO. 1326-A-2015 REGLAMENTO DE CAJA DE AHORRO Y PRÉSTAMOS DE LOS TRABAJADORES DE BASE Y CONFIANZA CON NOMBRAMIENTO ILIMITADO ADSCRITO A LA SUBSECRETARÍA DE EDUCACIÓN FEDERALIZADA DE LA SECRETARÍA DE EDUCACIÓN, JUBILADOS, PENSIONADOS Y BECARIOS AGREMIADOS A LA SECCIÓN VII DEL S.N.T.E.".]
+
+Artículo Primero.- El presente reglamento entrará en vigor el día de su suscripción.
+
+Artículo Segundo.- Se abroga el reglamento publicado en el Periódico Oficial del Estado de Chiapas número 288 de fecha17 (sic) de Marzo de 2011, que hasta la entrada en vigor del presente ordenamiento regulaba laCaja (sic) de Ahorro y Préstamos de los Trabajadores de Base y de Confianza con Nombramiento Ilimitado de la Secretaria de Educación Federalizada de la Secretaría de Educación, Jubilados, Pensionados y Becarios, que hasta la entrada en vigor del presente ordenamiento.
+
+Artículo Tercero.- El logotipo y leyenda autorizada para todos los actos que realice el Comité de Caja de Ahorro y Préstamos, será el que a continuación se inserta:
+
+CAJA DE AHORRO Y PRÉSTAMOS de los Trabajadores de Base y de Confianza con Nombramiento Ilimitado Adscrito a la Subsecretaría de Educación Federalizada de la Secretaría de Educación, Jubilados, Pensionados y Becarios agremiados a la Sección VII del S.N.T.E.
+
+Artículo Cuarto.- Para su conocimiento y debida difusión, publíquese en el Periódico Oficial del Estado, el Reglamento Caja de Ahorro y Préstamos de los Trabajadores de Base y de Confianza con Nombramiento Ilimitado Adscrito a la Subsecretaría de Educación Federalizada de la Secretaría de Educación, Jubilados, Pensionados y Becarios agremiados a la sección VII del SNTE, suscrito el día cuatro de diciembre de 2015.
