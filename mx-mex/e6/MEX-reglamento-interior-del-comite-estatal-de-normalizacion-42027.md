@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-interior-del-comite-estatal-de-normalizacion-42027"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-12-03"
-last_updated: "2013-04-11"
+last_updated: "2015-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42027&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO INTERIOR DEL COMITÉ ESTATAL DE NORMALIZACIÓN AMBIENTAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 11 DE ABRIL DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE DICIEMBRE DE 2015.
 
 Reglamento publicado en la Sección Primera a la Gaceta del Gobierno del Estado de México, el viernes 3 de diciembre del 2004.
 
@@ -45,17 +45,21 @@ El presente Reglamento Interior tiene por objeto registrar la conformación y fu
 
 Para efectos del presente Reglamento Interior se entiende por:
 
-I. Comité: Al Comité Estatal de Normalización Ambiental;
+> <small>(REFORMADA, G.G. 9 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADA, G.G. 21 DE JUNIO DE 2005)</small>
+I. Secretaría: A la Secretaría del Medio Ambiente del Gobierno del Estado de México.
 
-II. Un Secretario Técnico, que será nombrado por el Presidente;
+II. (DEROGADA, G.G. 9 DE DICIEMBRE DE 2015)
 
-III. Secretaría: A la Secretaría de Ecología del Gobierno del Estado de México.
+> <small>(REFORMADA, G.G. 9 DE DICIEMBRE DE 2015)</small>
+
+III. Comité: Al Comité Estatal de Normalización Ambiental.
+
+> <small>(REFORMADO, G.G. 9 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 3.
 
-Las normas técnicas estatales ambientales y los criterios ambientales estatales que expida el Comité, tendrán el carácter de obligatorios y serán de observancia general dentro del territorio, de conformidad con el Título Sexto del Código Administrativo del Estado de México.
+Las normas técnicas estatales ambientales y los criterios ambientales estatales que expida el Comité, tendrán el carácter de obligatorios y serán de observancia general dentro del territorio, de conformidad con el Título Sexto, Libro Primero, del Código Administrativo del Estado de México.
 
 ### CAPÍTULO II. ORGANIZACIÓN DEL COMITÉ
 
@@ -63,23 +67,29 @@ Las normas técnicas estatales ambientales y los criterios ambientales estatales
 
 El Pleno, es el órgano máximo del Comité y está integrado de la siguiente manera:
 
-> <small>(REFORMADA, G.G. 21 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA, G.G. 9 DE DICIEMBRE DE 2015)</small>
 
-I. Un Presidente, que será el Titular de la Secretaría del Medio Ambiente, quien en su ausencia será suplido por el titular de la Subsecretaría del Medio Ambiente, asumiendo todas las funciones que el cargo la ( sic) confiere, incluyendo el contar con el voto aprobatorio.
+I. Un Presidente, que será el Titular de la Secretaría del Medio Ambiente, quien en su ausencia será suplido por el Secretario Técnico, asumiendo todas las funciones que el cargo le confiere incluyendo el contar con el voto aprobatorio.
 
-II. Un Secretario Técnico, que será el Titular de la Subsecretaría de Prevención y Control de la Contaminación de la Secretaría;
+> <small>(REFORMADA, G.G. 9 DE DICIEMBRE DE 2015)</small>
+
+II. Un Secretario Técnico, que será el Titular de la Coordinación Jurídica de la Secretaría.
 
 III. Vocales, que serán:
+
+> <small>(REFORMADO, G.G. 9 DE DICIEMBRE DE 2015)</small>
 
 a. Un representante de cada una de las siguientes Dependencias:
 
 - Secretaría de Salud
 
-- Secretaría de Educación, Cultura y Bienestar Social
+- Secretaría de Educación
 
-- Secretaría de Desarrollo Urbano y Vivienda
+- Secretaría de Cultura
 
-- Secretaría de Agua, Obra Pública e Infraestructura para el Desarrollo
+- Secretaría de Desarrollo Urbano y Metropolitano
+
+- Secretaría de Infraestructura
 
 - Secretaría de Desarrollo Agropecuario
 
@@ -89,7 +99,7 @@ b. Un representante de Centros de Investigación Científica y Tecnológica; un 
 
 IV. Invitados permanentes:
 
-a. Asesor Jurídico, que será el Coordinador Jurídico de la Secretaría y
+a. (DEROGADO, G.G. 9 DE DICIEMBRE DE 2015)
 
 b. Coordinadores de los Subcomités, que serán los Directores Generales o Coordinadores Generales de Área de la Secretaría.
 
@@ -103,9 +113,11 @@ Por lo que respecta a los Invitados Especiales, tendrán derecho a voto, cuando 
 
 Con la finalidad de garantizar la composición plural del Pleno, una vez constituido éste con los representantes a que se refieren las fracciones I, II, III inciso a) y IV, deberá llevarse a cabo un análisis para identificar y convocar a los representantes a los que se refiere el inciso b) fracción III.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 5.
 
-Para el mejor funcionamiento del Comité se integrarán tres Subcomités, encargados de las siguientes actividades:
+Para el mejor funcionamiento del Comité se integrarán cuatro Subcomités, encargados de las siguientes actividades:
 
 I. El Subcomité de Residuos Sólidos y Actividades Económicas, se hará cargo de la coordinación de los Grupos de Trabajo para la elaboración de las normas técnicas estatales ambientales, para el manejo integral de los residuos sólidos urbanos y residuos de manejo especial, así como para prevenir y controlar la contaminación ambiental ocasionada por el desarrollo de actividades económicas y de servicios.
 
@@ -159,7 +171,7 @@ V. Conocer las consultas que sean planteadas en materia de normalización ambien
 
 VI. Aprobar la modificación en la conformación del Comité, de los Subcomités y de los Grupos de trabajo;
 
-VII. Nombrar a un Auxiliar Técnico, a propuesta que formule el Secretario Técnico del Comité, a efecto de apoyarlo en sus funciones y de realizar aquellas otras que le sean designadas;
+VII. (DEROGADA, G.G. 9 DE DICIEMBRE DE 2015)
 
 VIII. Aprobar las modificaciones al presente Reglamento Interior, así como las medidas que juzgue necesarias para el mejor desempeño de las funciones del Comité y
 
@@ -231,9 +243,9 @@ Corresponde al Secretario Técnico:
 
 I. (REFORMADA [N. DE E. DEROGADA], G.G. 21 DE JUNIO DE 2010)
 
-> <small>(REFORMADA, G.G. 21 DE JUNIO DE 2005)</small>
+> <small>(REFORMADA, G.G. 9 DE DICIEMBRE DE 2015)</small>
 
-II. Designar a un Auxiliar Técnico, dentro del personal adscrito a su área;
+II. Designar como Auxiliar Técnico, al Jefe del Departamento de Normatividad.
 
 III. Preparar y organizar las sesiones del Pleno, previo acuerdo con el Presidente;
 
@@ -259,19 +271,21 @@ XIII. Solicitar cuando así lo considere, la opinión de los sectores interesado
 
 XIV. Colaborar a solicitud del Presidente, en asuntos o actividades de normalización internacional, nacional, estatal o regional y
 
-XV. Las demás que le sean encomendadas por el Presidente, el Comité y este Reglamento.
+> <small>(REFORMADA, G.G. 9 DE DICIEMBRE DE 2015)</small>
+
+XV. Sugerir soluciones a controversias jurídicas que se presenten en el Comité, relacionadas con la emisión de normas técnicas estatales ambientales;
+
+> <small>(ADICIONADA, G.G. 9 DE DICIEMBRE DE 2015)</small>
+
+XVI. Formular opiniones sobre aspectos legales de los proyectos y normas técnicas estatales ambientales en el ámbito de competencia de la Secretaría y;
+
+> <small>(ADICIONADA, G.G. 9 DE DICIEMBRE DE 2015)</small>
+
+XVII. Las demás que le sean encomendadas por el Presidente, el Comité y este Reglamento.
 
 ###### Artículo 14.
 
-Corresponde al Asesor Jurídico:
-
-I. Asistir a las reuniones del Pleno en el carácter de invitado permanente y nombrar a su representante para las reuniones de los Subcomités y los Grupos de Trabajo;
-
-II. Participar en las sesiones del Pleno y sugerir soluciones a controversias jurídicas que se presenten en el Comité, relacionadas con la emisión de las normas técnicas estatales ambientales;
-
-III. Formular opiniones sobre aspectos legales de los proyectos y normas técnicas estatales ambientales en el ámbito de competencia de la Secretaría y
-
-IV. Las demás que le sean encomendadas por el Presidente, el Comité y este Reglamento.
+(DEROGADO, G.G. 9 DE DICIEMBRE DE 2015)
 
 ###### Artículo 15.
 
@@ -487,9 +501,11 @@ Una vez aprobados por el Comité los proyectos de norma, modificaciones de norma
 
 ### CAPÍTULO X. DE LA CODIFICACIÓN, NOTIFICACIÓN Y CUMPLIMIENTO DE LAS NORMAS TÉCNICAS ESTATALES AMBIENTALES
 
+> <small>(REFORMADO, G.G. 9 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 42.
 
-Para la codificación de las normas técnicas estatales ambientales se considerarán las siglas de la denominación NTEA; enseguida el número de la norma correspondiente, mismo que constará de tres dígitos; a continuación las siglas de la Secretaría, SEGEM; la clave correspondiente al tema de la norma y finalmente, el año en que se aprobó.
+Para la codificación de las normas técnicas estatales ambientales se considerarán las siglas de la denominación NTEA; enseguida el número de la norma correspondiente, mismo que constará de tres dígitos; a continuación las siglas de la Secretaría, SeMAGEM; la clave correspondiente al tema de la norma y finalmente, el año en que se aprobó.
 
 ### CAPÍTULO XI. DE LAS MODIFICACIONES AL REGLAMENTO INTERIOR
 
@@ -530,3 +546,11 @@ G.G. 11 DE ABRIL DE 2013.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 9 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE MODIFICA, REFORMA Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL COMITÉ ESTATAL DE NORMALIZACIÓN AMBIENTAL”.]
+
+PRIMERO.- Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
