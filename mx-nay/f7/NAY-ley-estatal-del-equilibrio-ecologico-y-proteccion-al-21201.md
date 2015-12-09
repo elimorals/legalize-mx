@@ -4,7 +4,7 @@ identifier: "NAY-ley-estatal-del-equilibrio-ecologico-y-proteccion-al-21201"
 country: "mx"
 rank: "ley"
 publication_date: "2001-04-25"
-last_updated: "2015-07-08"
+last_updated: "2015-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21201&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Nayarit, el miércoles 25 de abril del 2001.
 
@@ -59,7 +59,9 @@ IV.- Preservar, restaurar y mejorar el ambiente;
 
 V.- Regular, bajo criterios de sustentabilidad, el acceso y aprovechamiento de los recursos naturales de competencia estatal;
 
-VI.- Prevenir y controlar la contaminación del aire, el agua y suelo, en el territorio del Estado;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+VI.- Establecer mecanismos y acciones a fin de mitigar la emisión de gases de efecto invernadero y para la adaptación al cambio climático, así como para prevenir y controlar la contaminación del agua y el suelo, dentro de los límites de competencia del Estado;
 
 VII.- Establecer mecanismos para la restauración de los recursos naturales de forma que se asegure su aprovechamiento sustentable;
 
@@ -97,163 +99,173 @@ VIII.- La ejecución de programas destinados a fomentar la educación ambiental 
 
 Artículo 2 A.- Son de aplicación supletoria de esta Ley, la Ley de protección Civil, el Código Civil, la Ley de Justicia y Procedimientos Administrativos, todos del Estado de Nayarit; y la Ley General del Equilibrio Ecológico y la Protección al Ambiente, Ley General de Desarrollo Forestal Sustentable, Ley General para la Prevención y Gestión Integral de los Residuos y Ley General de Vida Silvestre.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 3.
 
 Para los efectos de esta Ley se entenderá:
 
-I. Actividades riesgosas: Las actividades que puedan afectar negativamente al ambiente, en virtud de las características de los materiales que se generen o manejen en establecimientos industriales, comerciales o de servicios, considerando además, los volúmenes de manejo y la ubicación del establecimiento, señaladas en el acuerdo que al efecto emita la Secretaria;
+I. Actividades riesgosas: Las actividades que puedan afectar negativamente al ambiente, en virtud de las características de los materiales que se generen o manejen en establecimientos industriales, comerciales o de servicios, considerando además, los volúmenes de manejo y la ubicación del establecimiento, señaladas en el acuerdo que al efecto emita la Secretaría;
 
-II. Aguas residuales: Las aguas provenientes de actividades domésticas, industriales, comerciales, agrícolas, pecuarias o de cualquier otra actividad humana y que por el uso recibido se le hayan incorporado contaminantes;
+II. Adaptación: Medidas y ajustes en sistemas humanos o naturales, como respuesta a estímulos climáticos, proyectados o reales, o sus efectos, que pueden moderar el daño, o aprovechar sus aspectos beneficiosos;
 
-III. Ambiente: El conjunto de elementos naturales y artificiales o inducidos por el hombre que hacen posible la existencia y desarrollo de los seres humanos y demás organismos vivos que interactúan en un espacio y tiempo determinados;
+III. Aguas Residuales: Las aguas provenientes de actividades domésticas, industriales, comerciales, agrícolas, pecuarias o de cualquier otra actividad humana y que por el uso recibido se le hayan incorporado contaminantes;
 
-IV. Aprovechamiento de los Residuos: Conjunto de acciones cuyo objetivo es recuperar el valor económico de los residuos mediante su reutilización, remanufactura, rediseño, reciclado y recuperación de materiales secundados o de energía;
+IV. Ambiente: El conjunto de elementos naturales y artificiales o inducidos por el hombre que hacen posible la existencia y desarrollo de los seres humanos y demás organismos vivos que interactúan en un espacio y tiempo determinados;
 
-V. Áreas naturales protegidas estatales: Las zonas del territorio del Estado de Nayarit, respecto de las cuales la entidad ejerza su jurisdicción, en las que los ambientes originales no han sido significativamente alterados por la actividad humana y que requieran ser preservadas o restauradas y estén sujetas al régimen previsto en la presente ley;
+V. Aprovechamiento de los Residuos: Conjunto de acciones cuyo objetivo es recuperar el valor económico de los residuos mediante su reutilización, remanufactura, rediseño, reciclado y recuperación de materiales secundados o de energía;
 
-VI. Áreas verdes: Porción de territorio ocupado por vegetación natural o inducida, generalmente localizada en los espacios urbanos y utilizada como lugar de esparcimiento y recreo por los habitantes que las circundan;
+VI. Áreas Naturales Protegidas Estatales: Las zonas del territorio del Estado de Nayarit, respecto de las cuales la entidad ejerza su jurisdicción, en las que los ambientes originales no han sido significativamente alterados por la actividad humana y que requieran ser preservadas o restauradas y estén sujetas al régimen previsto en la presente ley;
 
-VII. Barrancas: Depresión geográfica que por sus condiciones topográficas y geológicas se presentan como hendiduras y sirven de refugio de vida silvestre, de cauce de los escurrimientos naturales de ríos, riachuelos y precipitaciones pluviales;
+VII. Áreas Verdes: Porción de territorio ocupado por vegetación natural o inducida, generalmente localizada en los espacios urbanos y utilizada como lugar de esparcimiento y recreo por los habitantes que las circundan;
 
-VIII. Centro de población: Las áreas constituidas por zonas urbanizadas, las que se reserven a su expansión y las que se consideren no urbanizables por causas de preservación ecológica, prevención de riesgos y mantenimiento de actividades productivas dentro de los límites marcados por los Planes de Desarrollo Urbano de dichos centros, así como las que por resolución de la autoridad competente se prevean para la fundación de los mismos;
+VIII. Barrancas: Depresión geográfica que por sus condiciones topográficas y geológicas se presentan como hendiduras y sirven de refugio de vida silvestre, de cauce de los escurrimientos naturales de ríos, riachuelos y precipitaciones pluviales;
 
-IX. Contaminación: La presencia en el ambiente de uno o más contaminantes o de cualquier combinación de ellos que cause desequilibrio ecológico;
+IX. Cambio Climático: Variación del clima causado por efectos naturales o por la actividad humana que altera la atmósfera mundial y es observada durante periodos comparables;
 
-X. Contaminación visual: Alteración de las cualidades de la imagen de un paisaje natural o urbano, causada por cualquier elemento funcional o simbólico, que tenga carácter comercial, propagandístico o de servicios;
+X. Centro de Población: Las áreas constituidas por zonas urbanizadas, las que se reserven a su expansión y las que se consideren no urbanizables por causas de preservación ecológica, prevención de riesgos y mantenimiento de actividades productivas dentro de los límites marcados por los Planes de Desarrollo Urbano de dichos centros, así como las que por resolución de la autoridad competente se prevean para la fundación de los mismos;
 
-XI. Contaminante: Toda materia o energía en cualesquiera de sus estados físicos y formas, que al incorporarse y actuar en la atmósfera, aguas, suelos, flora, fauna o cualquier elemento natural, altere o modifique su composición y condición natural;
+XI. Contaminación: La presencia en el ambiente de uno o más contaminantes o de cualquier combinación de ellos que cause desequilibrio ecológico;
 
-XII. Contingencia ambiental: Situación de riesgo, derivada de actividades humanas o fenómenos naturales que puede poner en peligro la integridad de uno o varios ecosistemas;
+XII. Contaminación Visual: Alteración de las cualidades de la imagen de un paisaje natural o urbano, causada por cualquier elemento funcional o simbólico, que tenga carácter comercial, propagandístico o de servicios;
 
-XIII. Control: Inspección, vigilancia y aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en este ordenamiento;
+XIII. Contaminante: Toda materia o energía en cualesquiera de sus estados físicos y formas, que al incorporarse y actuar en la atmósfera, aguas, suelos, flora, fauna o cualquier elemento natural, altere o modifique su composición y condición natural;
 
-XIV. Daño ambiental: Toda pérdida, deterioro o menoscabo que se actualice en cualquiera de los elementos que conforman un ecosistema, un recurso biológico o natural, o en los que condicionan la salud o la calidad de vida de la población, como resultado de la actividad humana, en contravención a esta ley, su reglamento, normas oficiales y demás disposiciones jurídicas que resulten aplicables;
+XIV. Contingencia Ambiental: Situación de riesgo, derivada de actividades humanas o fenómenos naturales que puede poner en peligro la integridad de uno o varios ecosistemas;
 
-XV. Desarrollo Sustentable: El proceso evaluable mediante criterios e indicadores de carácter ambiental, económico y social que tiende a mejorar la calidad de vida y la productividad de las personas, que se funda en medidas adecuadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras;
+XV. Control: Inspección, vigilancia y aplicación de las medidas necesarias para el cumplimiento de las disposiciones establecidas en este ordenamiento;
 
-XVI. Desequilibrio Ecológico: La alteración de las relaciones de interdependencia entre los elementos naturales que conforman el ambiente, que afectan negativamente la existencia, transformación y desarrollo del hombre y demás seres vivos;
+XVI. Daño Ambiental: Toda pérdida, deterioro o menoscabo que se actualice en cualquiera de los elementos que conforman un ecosistema, un recurso biológico o natural, o en los que condicionan la salud o la calidad de vida de la población, como resultado de la actividad humana, en contravención a esta ley, su reglamento, normas oficiales y demás disposiciones jurídicas que resulten aplicables;
 
-XVII. Día multa: Multa equivalente a un día de Salario mínimo general vigente en el Estado de Nayarit, al momento de aplicar la sanción correspondiente;
+XVII. Desarrollo Sustentable: El proceso evaluable mediante criterios e indicadores de carácter ambiental, económico y social que tiende a mejorar la calidad de vida y la productividad de las personas, que se funda en medidas adecuadas de preservación del equilibrio ecológico, protección del ambiente y aprovechamiento de recursos naturales de manera que no se comprometa la satisfacción de las necesidades de las generaciones futuras;
 
-XVIII. Disposición Final: Acción de depositar o confinar permanentemente residuos en sitios e instalaciones cuyas características permitan prevenir su liberación al ambiente y las consecuentes afectaciones a la salud de la población y a los ecosistemas y sus elementos;
+XVIII. Desequilibrio Ecológico: La alteración de las relaciones de interdependencia entre los elementos naturales que conforman el ambiente, que afectan negativamente la existencia, transformación y desarrollo del hombre y demás seres vivos;
 
-XIX. Ecosistema: La unidad funcional básica de interacción de los organismos vivos entre sí y de éstos con el ambiente, en un espacio y tiempo determinados;
+XIX. Día Multa: Multa equivalente a un día de salario mínimo general vigente al momento de aplicar la sanción correspondiente;
 
-XX. Equilibrio Ecológico: La relación de interdependencia entre los elementos naturales que conforman el ambiente, que hacen posible la existencia, transformación y desarrollo del hombre y demás seres vivos;
+XX. Disposición Final: Acción de depositar o confinar permanentemente residuos en sitios e instalaciones cuyas características permitan prevenir su liberación al ambiente y las consecuentes afectaciones a la salud de la población y a los ecosistemas y sus elementos;
 
-XXI. Educación ambiental: Proceso permanente, sistematizado e interdisciplinario de enseñanza-aprendizaje orientado a la formación de individuos que fortalezca valores, aclare conceptos y desarrolle actitudes y habilidades necesarias para una convivencia armónica en el ambiente;
+XXI. Ecosistema: La unidad funcional básica de interacción de los organismos vivos entre sí y de éstos con el ambiente, en un espacio y tiempo determinados;
 
-XXII. Elemento natural: Los elementos físicos, químicos y biológicos que se presentan en un tiempo y espacio determinados sin la inducción del hombre;
+XXII. Educación Ambiental: Proceso permanente, sistematizado e interdisciplinario de enseñanza-aprendizaje orientado a la formación de individuos que fortalezca valores, aclare conceptos y desarrolle actitudes y habilidades necesarias para una convivencia armónica en el ambiente;
 
-XXIII. Emergencia ecológica: Situación derivada de actividades humanas o fenómenos naturales que al afectar severamente a elementos, pone en peligro a uno o varios ecosistemas;
+XXIII. Elemento Natural: Los elementos físicos, químicos y biológicos que se presentan en un tiempo y espacio determinados sin la inducción del hombre;
 
-XXIV. Estado: El Estado libre y soberano de Nayarit;
+XXIV. Emergencia Ecológica: Situación derivada de actividades humanas o fenómenos naturales que al afectar severamente a elementos, pone en peligro a uno o varios ecosistemas;
 
-XXV. Estudio de Riesgo: Documento mediante el cual se da a conocer a partir del análisis de las acciones proyectadas para el desarrollo de una obra o actividad, los riesgos que éstas presentan para el equilibrio ecológico, la seguridad de las personas o el ambiente, así como las medidas técnicas preventivas, correctivas o de seguridad tendientes a evitar, mitigar, minimizar o controlar los efectos adversos al equilibrio ecológico en caso de un posible accidente, durante la ejecución u operación de la obra o actividad de que se trate;
+XXV. Emisión de Gases de Efecto Invernadero: Liberación a la atmósfera de gases de efecto invernadero tales como Dióxido de Carbono (CO2), Metano (CH4), Óxido Nitroso (N2O), Hidrofluorurocarbono (HFC), Perfluorurocarbono (PFC) y Hexafluoruro de Azúfre (SF6) y/o sus precursores y aerosoles, incluyendo en su caso compuestos de efecto invernadero, en una zona y un periodo de tiempo específicos;
 
-XXVI. Evaluación de impacto ambiental: Procedimiento a través del cual la secretaria analizará la procedencia ambiental de proyectos específicos, así como las condiciones a que se sujetarán los mismos para la realización de las obras, públicas o privadas, que puedan causar desequilibrio ecológico o rebasar los limites y condiciones establecidos en las disposiciones aplicables para proteger el ambiente, preservar y restaurar los ecosistemas, a fin de evitar o reducir al mínimo sus efectos negativos;
+XXVI. Equilibrio Ecológico: La relación de interdependencia entre los elementos naturales que conforman el ambiente, que hacen posible la existencia, transformación y desarrollo del hombre y demás seres vivos;
 
-XXVII. Fuentes fijas: Los establecimientos industriales, mercantiles y de servicio que emitan contaminantes al ambiente;
+XXVII. Estado: El Estado Libre y Soberano de Nayarit;
 
-XXVIII. Fuentes móviles: Todo artefacto propulsado por un motor que se encuentre destinado al transporte terrestre o acuático de personas o de carga, o ambos, de uso privado o de servicio público que emitan o puedan emitir contaminantes al ambiente;
+XXVIII. Estudio de Riesgo: Documento mediante el cual se da a conocer a partir del análisis de las acciones proyectadas para el desarrollo de una obra o actividad, los riesgos que éstas presentan para el equilibrio ecológico, la seguridad de las personas o el ambiente, así como las medidas técnicas preventivas, correctivas o de seguridad tendientes a evitar, mitigar, minimizar o controlar los efectos adversos al equilibrio ecológico en caso de un posible accidente, durante la ejecución u operación de la obra o actividad de que se trate;
 
-XXIX. Generación: Acción de producir residuos a través del desarrollo de procesos productivos o de consumo;
+XXIX. Evaluación de Impacto Ambiental: Procedimiento a través del cual la secretaría analizará la procedencia ambiental de proyectos específicos, así como las condiciones a que se sujetarán los mismos para la realización de las obras, públicas o privadas, que puedan causar desequilibrio ecológico o rebasar los límites y condiciones establecidos en las disposiciones aplicables para proteger el ambiente, preservar y restaurar los ecosistemas, a fin de evitar o reducir al mínimo sus efectos negativos;
 
-XXX. Generador: Persona física o moral que produce residuos, a través del desarrollo de procesos productivos o de consumo;
+XXX. Fuentes Fijas: Los establecimientos industriales, mercantiles, agropecuarios o de servicios que emitan contaminantes al ambiente y cuya regulación no se encuentra reservada a la federación;
 
-XXXI. Germoplasma: Conjunto formado por el total del material hereditario o banco genético; que contiene todas las posibles variaciones que presentan una o varias especies, poblaciones y grupos;
+XXXI. Fuentes Móviles: Todo artefacto propulsado por un motor que se encuentre destinado al transporte terrestre o acuático de personas o de carga, o ambos, de uso privado o de servicio público que emitan o puedan emitir contaminantes al ambiente;
 
-XXXII. Gestión Integral de Residuos: Conjunto articulado e interrelacionado de acciones normativas, operativas, financieras, de planeación, administrativas, sociales, educativas, de monitoreo, supervisión y evaluación, para el manejo de residuos, desde su generación hasta la disposición final, a fin de lograr beneficios ambientales, la optimización económica de su manejo y su aceptación social, respondiendo a las necesidades y circunstancias de cada localidad o región;
+XXXII. Generación: Acción de producir residuos a través del desarrollo de procesos productivos o de consumo;
 
-XXXIII. Hábitat: El sitio específico en un medio ambiente, físico, ocupado por un organismo, una población, una especie o comunidades de especies en un tiempo determinado;
+XXXIII. Generador: Persona física o moral que produce residuos, a través del desarrollo de procesos productivos o de consumo;
 
-XXXIV. Información ambiental: Cualquier información escrita, visual o en forma de base de datos, de que dispongan las autoridades ambientales en materia de agua, aire, suelo, vida silvestre y recursos naturales en general, así como sobre las actividades o medidas que les afecten o puedan afectarlos;
+XXXIV. Germoplasma: Conjunto formado por el total del material hereditario o banco genético; que contiene todas las posibles variaciones que presentan una o varias especies, poblaciones y grupos;
 
-XXXV. Impacto ambiental: Modificación del ambiente, ocasionado por la acción del hombre o de la naturaleza;
+XXXV. Gestión Integral de Residuos: Conjunto articulado e interrelacionado de acciones normativas, operativas, financieras, de planeación, administrativas, sociales, educativas, de monitoreo, supervisión y evaluación, para el manejo de residuos, desde su generación hasta la disposición final, a fin de lograr beneficios ambientales, la optimización económica de su manejo y su aceptación social, respondiendo a las necesidades y circunstancias de cada localidad o región;
 
-XXXVI. Informe preventivo: El documento mediante el cual se da a conocer la información ambiental que establece esta Ley sobre una obra o actividad;
+XXXVI. Hábitat: El sitio específico en un medio ambiente, físico, ocupado por un organismo, una población, una especie o comunidades de especies en un tiempo determinado;
 
-XXXVII. Lago: Depósito natural de aguas nacionales delimitado por la cota de la creciente máxima ordinaria;
+XXXVII. Impacto Ambiental: Modificación del ambiente, ocasionado por la acción del hombre o de la naturaleza;
 
-XXXVIII. Ley: Ley Estatal del Equilibrio Ecológico y Protección al Ambiente del Estado de Nayarit;
+XXXVIII. Información Ambiental: Cualquier información escrita, visual o en forma de base de datos, de que dispongan las autoridades ambientales en materia de agua, aire, suelo, vida silvestre y recursos naturales en general, así como sobre las actividades o medidas que les afecten o puedan afectarlos;
 
-XXXIX. Ley General: La Ley General de Prevención y Gestión Integral de los Residuos;
+XXXIX. Informe Preventivo: El documento mediante el cual se da a conocer la información ambiental que establece esta Ley sobre una obra o actividad;
 
-XL. Manejo: Conjunto de actividades que incluyen, tratándose de recursos naturales, la extracción, utilización, explotación, aprovechamiento, administración, conservación, restauración, desarrollo, mantenimiento y vigilancia; o tratándose de materiales o residuos, el almacenamiento, la recolección, transporte, alojamiento, reuso, tratamiento, reciclaje, incineración y disposición final;
+XL. Lago: Depósito natural de aguas nacionales delimitado por la cota de la creciente máxima ordinaria;
 
-XLI. Manifestación de impacto ambiental: El documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental que generaría una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo;
+XLI. Ley: Ley Estatal del Equilibrio Ecológico y Protección al Ambiente del Estado de Nayarit;
 
-XLII. Material genético: Todo material de origen vegetal, animal, microbiano o de otro tipo, que contenga unidades funcionales de herencia;
+XLII. Ley General: La Ley General para la Prevención y Gestión Integral de los Residuos;
 
-XLIII. Materiales peligrosos: Los elementos, substancias, compuestos o residuos y sus mezclas, que por sus características corrosivas, tóxicas, reactivas, explosivas, inflamables, o biológico infecciosas, representan un riesgo para el ambiente, de conformidad con las normas oficiales aplicables;
+XLIII. Lixiviado: Líquido que se forma por la reacción, arrastre o filtrado de los materiales que constituyen los residuos y que contiene en forma disuelta o en suspensión, sustancias que pueden infiltrarse en los suelos o escurrirse fuera de los sitios en los que se depositan los residuos y que puede dar lugar a la contaminación del suelo y de cuerpos de agua, provocando su deterioro y representar un riesgo potencial a la salud humana y de los demás organismos vivos;
 
-XLIV. Medidas de prevención: Conjunto de acciones que deberá ejecutar el promovente de una obra o actividad para evitar efectos previsibles del deterioro del ambiente;
+XLIV. Manejo: Conjunto de actividades que incluyen, tratándose de recursos naturales, la extracción, utilización, explotación, aprovechamiento, administración, conservación, restauración, desarrollo, mantenimiento y vigilancia; o tratándose de materiales o residuos, el almacenamiento, la recolección, transporte, alojamiento, reuso, tratamiento, reciclaje, incineración y disposición final;
 
-XLV. Medidas de mitigación: Conjunto de acciones que deberá ejecutar el promovente de una obra o actividad para atenuar los impactos y restablecer o compensar las condiciones ambientales;
+XLV. Manejo Integral: Las actividades de reducción en la fuente, separación, reutilización, reciclaje, co-procesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, transporte y disposición final de residuos, individualmente realizadas o combinadas de manera apropiada, para adaptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización, eficiencia sanitaria, ambiental, tecnológica, económica y social;
 
-XLVI. Manejo Integral: Las actividades de reducción en la fuente, separación, reutilización, reciclaje, co-procesamiento, tratamiento biológico, químico, físico o térmico, acopio, almacenamiento, transporte y disposición final de residuos, individualmente realizadas o combinadas de manera apropiada, para adaptarse a las condiciones y necesidades de cada lugar, cumpliendo objetivos de valorización, eficiencia sanitaria, ambiental, tecnológica, económica y social;
+XLVI. Manifestación de Impacto Ambiental: El documento mediante el cual se da a conocer, con base en estudios, el impacto ambiental que generaría una obra o actividad, así como la forma de evitarlo o atenuarlo en caso de que sea negativo;
 
-XLVII. Lixiviado: Líquido que se forma por la reacción, arrastre o filtrado de los materiales que constituyen los residuos y que contiene en forma disuelta o en suspensión, sustancias que pueden infiltrarse en los suelos o escurrirse fuera de los sitios en los que se depositan los residuos y que puede dar lugar a la contaminación del suelo y de cuerpos de agua, provocando su deterioro y representar un riesgo potencial a la salud humana y de los demás organismos vivos;
+XLVII. Material Genético: Todo material de origen vegetal, animal, microbiano o de otro tipo, que contenga unidades funcionales de herencia;
 
-XLVIII. Normas Oficiales: Las Normas Oficiales Mexicanas;
+XLVIII. Materiales Peligrosos: Los elementos, substancias, compuestos o residuos y sus mezclas, que por sus características corrosivas, tóxicas, reactivas, explosivas, inflamables, o biológico infecciosas, representan un riesgo para el ambiente, de conformidad con las normas oficiales aplicables;
 
-XLIX. Normas ambientales: Las Normas de carácter técnico expedidas por la Secretaria;
+XLIX. Medidas de Mitigación: Conjunto de acciones que deberá ejecutar el promovente de una obra o actividad para atenuar los impactos y restablecer o compensar las condiciones ambientales;
 
-L. Ordenamiento ecológico: El instrumento de política ambiental cuyo objeto es regular o inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del ambiente, la preservación y el aprovechamiento sustentable de los recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos;
+L. Medidas de Prevención: Conjunto de acciones que deberá ejecutar el promovente de una obra o actividad para evitar efectos previsibles del deterioro del ambiente;
 
-LI. Parques Estatales: Son aquellos que se constituirán tratándose de representaciones biogeográficas en el ámbito estatal de uno o más ecosistemas que se caractericen por su belleza escénica, su valor científico, educativo, de recreo, su valor histórico, por la existencia de flora y fauna, por su aptitud para el desarrollo del turismo sustentable o bien por otras razones análogas de interés general;
+LI. Mitigación de Gases de Efecto Invernadero: Emprendimiento de planes y programas encaminados a reducir o capturar gases de efecto invernadero;
 
-LII. Preservación: Conjunto de políticas y medidas para mantener las condiciones que propicien la evolución y continuidad de los ecosistemas y hábitat naturales, así como conservar las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de sus hábitats naturales;
+LII. Normas Oficiales: Las Normas Oficiales Mexicanas;
 
-LIII. Prevención: Conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
+LIII. Normas Ambientales: Las Normas de carácter técnico expedidas por la Secretaría;
 
-LIV. Programa de Manejo: Documento rector y planificador de las áreas naturales protegidas que contiene la información básica y establece normas de uso de los recursos;
+LIV. Ordenamiento Ecológico: El instrumento de política ambiental cuyo objeto es regular o inducir el uso del suelo y las actividades productivas, con el fin de lograr la protección del ambiente, la preservación y el aprovechamiento sustentable de los recursos naturales, a partir del análisis de las tendencias de deterioro y las potencialidades de aprovechamiento de los mismos;
 
-LV. Protección: Conjunto de políticas y medidas para mejorar el ambiente y controlar su deterioro;
+LV. Parques Estatales: Son aquellos que se constituirán tratándose de representaciones biogeográficas en el ámbito estatal de uno o más ecosistemas que se caractericen por su belleza escénica, su valor científico, educativo, de recreo, su valor histórico, por la existencia de flora y fauna, por su aptitud para el desarrollo del turismo sustentable o bien por otras razones análogas de interés general;
 
-LVI. Reciclaje: Método de tratamiento que consiste en la transformación de los residuos con fines productivos y de reutilización;
+LVI. Preservación: Conjunto de políticas y medidas para mantener las condiciones que propicien la evolución y continuidad de los ecosistemas y hábitats naturales, así como conservar las poblaciones viables de especies en sus entornos naturales y los componentes de la biodiversidad fuera de sus hábitats naturales;
 
-LVII. Reciclado: Transformación de los residuos a través de distintos procesos que permiten restituir su valor económico, evitando así su disposición final, siempre y cuando esta restitución favorezca un ahorro de energía y materias primas sin perjuicio para la salud, los ecosistemas o sus elementos;
+LVII. Prevención: Conjunto de disposiciones y medidas anticipadas para evitar el deterioro del ambiente;
 
-LVIII. Recurso Natural: El elemento natural susceptible de ser aprovechado en beneficio del hombre;
+LVIII. Programa de Manejo: Documento rector y planificador de las áreas naturales protegidas que contiene la información básica y establece normas de uso de los recursos;
 
-LIX. Reservas Estatales: Las áreas donde existan uno o más ecosistemas que deban preservarse por ser de interés para la comunidad;
+LIX. Protección: Conjunto de políticas y medidas para mejorar el ambiente y controlar su deterioro;
 
-LX. Residuo: Cualquier material que se genere en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento, cuya calidad no permita que pueda ser usado nuevamente y que requiera ser dispuesto finalmente, conforme a lo señalado por la presente ley;
+LX. Reciclado: Transformación de los residuos a través de distintos procesos que permiten restituir su valor económico, evitando así su disposición final, siempre y cuando esta restitución favorezca un ahorro de energía y materias primas sin perjuicio para la salud, los ecosistemas o sus elementos;
 
-LXI. Residuos Domésticos: Aquellos que se generan en las casas habitación construcciones, demoliciones, parques, vía pública, oficinas, sitios de reunión, mercados, comercios, establecimientos de servicios e industrias y que no sean catalogados como industriales o peligrosos;
+LXI. Reciclaje: Método de tratamiento que consiste en la transformación de los residuos con fines productivos y de reutilización;
 
-LXII. Residuos industriales: Todos aquellos residuos que se generan en actividades industriales, que no sean catalogados como domésticos o como residuos peligrosos;
+LXII. Recurso Natural: El elemento natural susceptible de ser aprovechado en beneficio del hombre;
 
-LXIII. Residuos de Manejo Especial: Son aquellos generados en los procesos productivos, que no reúnen las características para ser considerados como peligrosos o como residuos sólidos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos;
+LXIII. Reservas Estatales: Las áreas donde existan uno o más ecosistemas que deban preservarse por ser de interés para la comunidad;
 
-LXIV. Residuos Incompatibles: Aquellos que al entrar en contacto o al ser mezclados con agua u otros materiales o residuos, reaccionan produciendo calor, presión, fuego, partículas, gases o vapores dañinos; Residuos Peligrosos: Son aquellos que posean alguna de las características de corrosividad, reactividad, explosividad, toxicidad, inflamabilidad, o que contengan agentes infecciosos que les confieran peligrosidad, así como envases, recipientes, embalajes y suelos que hayan sido contaminados cuando se transfieran a otro sitio, de conformidad con lo que se establece en esta Ley;
+LXIV. Residuo: Cualquier material que se genere en los procesos de extracción, beneficio, transformación, producción, consumo, utilización, control o tratamiento, cuya calidad no permita que pueda ser usado nuevamente y que requiera ser dispuesto finalmente, conforme a lo señalado por la presente ley;
 
-LXV. Residuos Sólidos Urbanos: Los generados en las casas habitación, que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques; los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por esta Ley como residuos de otra índole;
+LXV. Residuos de Manejo Especial: Son aquellos generados en los procesos productivos, que no reúnen las características para ser considerados como peligrosos o como residuos sólidos urbanos, o que son producidos por grandes generadores de residuos sólidos urbanos;
 
-LXVI. Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
+LXVI. Residuos Domésticos: Aquellos que se generan en las casas habitación construcciones, demoliciones, parques, vía pública, oficinas, sitios de reunión, mercados, comercios, establecimientos de servicios e industrias y que no sean catalogados como industriales o peligrosos;
 
-LXVII. Reutilización: El empleo de un material o residuo previamente usado, sin que medie un proceso de transformación;
+LXVII. Residuos Incompatibles: Aquellos que al entrar en contacto o al ser mezclados con agua u otros materiales o residuos, reaccionan produciendo calor, presión, fuego, partículas, gases o vapores dañinos;
 
-LXVIII. SECRETARIA: A la Secretaria del Medio Ambiente;
+LXVIII. Residuos Industriales: Todos aquellos residuos que se generan en actividades industriales, que no sean catalogados como domésticos o como residuos peligrosos;
 
-LXIX. SEMARNAT: Secretaría de Medio Ambiente y Recursos Naturales;
+LXIX. Residuos Peligrosos: Son aquellos que posean alguna de las características de corrosividad, reactividad, explosividad, toxicidad, inflamabilidad, o que contengan agentes infecciosos que les confieran peligrosidad, así como envases, recipientes, embalajes y suelos que hayan sido contaminados cuando se transfieran a otro sitio, de conformidad con lo que se establece en esta Ley;
 
-LXX. Separación Primaria: Acción de segregar los residuos sólidos urbanos y de manejo especial en orgánicos e inorgánicos;
+LXX. Residuos Sólidos Urbanos: Los generados en las casas habitación, que resultan de la eliminación de los materiales que utilizan en sus actividades domésticas, de los productos que consumen y de sus envases, embalajes o empaques; los residuos que provienen de cualquier otra actividad dentro de establecimientos o en la vía pública que genere residuos con características domiciliarias, y los resultantes de la limpieza de las vías y lugares públicos, siempre que no sean considerados por esta Ley como residuos de otra índole;
 
-LXXI. Separación Secundaria: Acción de segregar entre sí los residuos sólidos urbanos y de manejo especial que sean inorgánicos y susceptibles de ser valorizados;
+LXXI. Restauración: Conjunto de actividades tendientes a la recuperación y restablecimiento de las condiciones que propician la evolución y continuidad de los procesos naturales;
 
-LXXII. Tratamiento: Procedimientos físicos, químicos, biológicos o térmicos, mediante los cuales se cambian las características de los residuos y se reduce su volumen o peligrosidad, a fin de que puedan incorporarse al ciclo económico o ser dispuestos con seguridad;
+LXXII. Reutilización: El empleo de un material o residuo previamente usado, sin que medie un proceso de transformación;
 
-LXXIII. Valorización: Principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos, bajo criterios de responsabilidad compartida, manejo integral y eficiencia ambiental, tecnológica y económica;
+LXXIII. Secretaría: Secretaría de Desarrollo Rural y Medio Ambiente;
 
-LXXIV. Vaso: El depósito natural de aguas, delimitando por la cota de la creciente máxima y ordinaria;
+LXXIV. SEMARNAT: Secretaría de Medio Ambiente y Recursos Naturales;
 
-LXXV. Vida silvestre: Los organismos que subsisten sujetos a los procesos de evolución natural y que se desarrollan libremente en su hábitat, incluyendo sus poblaciones menores e individuos que se encuentran bajo el control del hombre, así como los federales; y
+LXXV. Separación Primaria: Acción de segregar los residuos sólidos urbanos y de manejo especial en orgánicos e inorgánicos;
 
-LXXVI. Zonas críticas prioritarias: Las áreas o sitios que presenten grave problema de degradación que afecta la calidad de los recursos del aire, agua, suelo o biota y que representen peligro a largo plazo a la salud pública o al ambiente.
+LXXVI. Separación Secundaria: Acción de segregar entre sí los residuos sólidos urbanos y de manejo especial que sean inorgánicos y susceptibles de ser valorizados;
+
+LXXVII. Tratamiento: Procedimientos físicos, químicos, biológicos o térmicos, mediante los cuales se cambian las características de los residuos y se reduce su volumen o peligrosidad, a fin de que puedan incorporarse al ciclo económico o ser dispuestos con seguridad;
+
+LXXVIII. Valorización: Principio y conjunto de acciones asociadas cuyo objetivo es recuperar el valor remanente o el poder calorífico de los materiales que componen los residuos, mediante su reincorporación en procesos productivos, bajo criterios de responsabilidad compartida, manejo integral y eficiencia ambiental, tecnológica y económica;
+
+LXXIX. Vaso: El depósito natural de aguas, delimitando por la cota de la creciente máxima y ordinaria;
+
+LXXX. Vida silvestre: Los organismos que subsisten sujetos a los procesos de evolución natural y que se desarrollan libremente en su hábitat, incluyendo sus poblaciones menores e individuos que se encuentran bajo el control del hombre, así como los ferales, y
+
+LXXXI. Zonas críticas prioritarias: Las áreas o sitios que presenten graves problemas de degradación que afectan la calidad de los recursos del aire, agua, suelo o biota y que representen peligro a largo plazo a la salud pública o al ambiente.
 
 ### CAPÍTULO II. De las atribuciones del Estado, concurrencia del Gobierno de la Entidad y sus Municipios, y coordinación entre los tres niveles de Gobierno
 
@@ -1541,7 +1553,69 @@ Con el propósito de preservar el patrimonio natural del Estado, y de acuerdo a 
 
 Para coadyuvar en la preservación, administración, desarrollo y vigilancia de las áreas naturales protegidas integradas al sistema, las autoridades estatales o municipales, podrán promover la celebración de acuerdos de concertación, para que participen las autoridades federales, así como el sector social y privado.
 
-#### SECCIÓN I. Emisión de Contaminantes Generados por Fuentes Fijas
+#### SECCIÓN I. De la Comisión Intersecretarial de Cambio Climático
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+Artículo 119 C.- La Comisión Intersecretarial de Cambio Climático es el órgano deliberativo encargado de planear la política ambiental y promover la coordinación de acciones entre las dependencias estatales y municipales para la mitigación de gases de efecto invernadero y adaptación al cambio climático.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+Artículo 119 D.- La Comisión Intersecretarial se conformará por los titulares de las siguientes Secretarías del Gobierno del Estado:
+
+I. De Desarrollo Rural y Medio Ambiente, quien la presidirá;
+
+II. General de Gobierno;
+
+III. De Planeación, Programación y Presupuesto;
+
+IV. De Educación;
+
+V. De Turismo;
+
+VI. De Salud;
+
+VII. De Obras Públicas, y
+
+VIII. De Administración y Finanzas.
+
+Los integrantes de la Comisión tendrán derecho a voz y voto, desempeñarán su encargo de manera honorífica, por lo que no percibirán retribución o compensación alguna.
+
+Los miembros de la Comisión podrán designar por escrito a un suplente para que los represente en las sesiones en caso de ausencia, en términos de su reglamento interno.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+Artículo 119 E.- La Comisión celebrará sesiones ordinarias cuando menos dos veces por año, pudiendo sesionar en forma extraordinaria a petición de la mayoría de sus miembros o cuando se estime necesario en casos de inminente urgencia. Invariablemente las convocatorias a sesiones serán emitidas por su presidente en los términos previstos por el reglamento interno.
+
+Para que las sesiones de la Comisión tengan validez, se requerirá la presencia de la mitad más uno de sus integrantes. Los acuerdos y resoluciones se tomarán por mayoría de votos de los miembros presentes, en caso de empate el presidente tendrá voto de calidad.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+Artículo 119 F.- La Comisión Intersecretarial tendrá las siguientes atribuciones:
+
+I. Diseñar e implementar políticas ambientales para la adaptación al cambio climático y mitigación de gases de efecto invernadero;
+
+II. Aprobar y en su caso modificar el Programa Estatal de Cambio Climático;
+
+III. Coordinar las acciones a implementar por las dependencias estatales y municipales a fin de mitigar la emisión de gases de efecto invernadero y hacer frente a los efectos del cambio climático;
+
+IV. Dar seguimiento a la ejecución del plan de acción contenido en el Programa Estatal de Cambio Climático;
+
+V. Proponer el establecimiento, de reconocimientos a los esfuerzos más destacados de la sociedad y del sector privado para la mitigación de gases de efecto invernadero así como para enfrentar al cambio climático;
+
+VI. Promover el fortalecimiento de las capacidades de monitoreo, reporte y verificación, en materia de mitigación o absorción de emisiones de gases de efecto invernadero;
+
+VII. Solicitar recomendaciones al Consejo Estatal de Protección al Ambiente y Cambio Climático, sobre las políticas, estrategias, acciones y metas para atender los efectos del cambio climático;
+
+VIII. Diseñar, implementar y coordinar estrategias para la mitigación de gases de efecto invernadero y adaptación al cambio climático en el sector social;
+
+IX. Difundir sus trabajos y resultados así como publicar un informe anual de actividades;
+
+X. Emitir su reglamento interno, y
+
+XI. Las demás que se deriven de la presente ley y demás ordenamientos aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 102.
 
@@ -1837,13 +1911,265 @@ Artículo 119 B.- En las zonas que presentan graves alteraciones ambientales, la
 
 ## TÍTULO CUARTO. PROTECCIÓN AL AMBIENTE
 
-### CAPÍTULO I. Prevención y Control de la Contaminación de la Atmósfera
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO I. De la Adaptación al Cambio Climático y Mitigación de Gases de Efecto Invernadero
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN II. Del Programa Estatal de Cambio Climático
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+Artículo 119 G.- El Programa Estatal de Cambio Climático es el instrumento rector en la materia, contiene mecanismos y acciones que se deberán desarrollar en el ámbito estatal, a fin de mitigar los gases de efecto invernadero y crear condiciones para la adaptación al cambio climático.
+
+El programa diseñará estrategias para la promoción de planes y proyectos cuyo objetivo sea la reducción y captura de gases de efecto invernadero y contendrá un plan de acción en el que se determinarán metas a corto, mediano y largo plazo a fin de mitigar la emisión de gases de efecto invernadero y crear condiciones para la adaptación al cambio climático.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+Artículo 119 H.- El Programa será elaborado por la Secretaría con la opinión del Consejo Estatal de Protección al Ambiente y Cambio Climático, y se someterá a aprobación de la Comisión Intersecretarial de Cambio Climático.
+
+El programa incluirá entre otros temas los siguientes:
+
+I. La planeación con perspectiva de corto, mediano y largo plazo, de sus objetivos y acciones, en congruencia con la Estrategia Nacional;
+
+II. Los escenarios de cambio climático y los diagnósticos de vulnerabilidad y de capacidad de adaptación;
+
+III. Las metas y acciones para la mitigación y adaptación en materia de su competencia;
+
+IV. La medición, el reporte y la verificación de las medidas de adaptación al cambio climático y mitigación de gases de efecto invernadero, y
+
+V. Los demás que determine la presente Ley y las disposiciones que de ella deriven.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN III. Prevención y Control de la Contaminación de la Atmósfera
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN IV. Emisión de Contaminantes y Gases de Efecto Invernadero Generados por Fuentes Fijas
+
+###### Artículo 120.
+
+La Secretaría promoverá la participación efectiva de la sociedad en los programas y medidas destinadas a la prevención y control de la contaminación atmosférica, y garantizará asimismo el derecho a la información ambiental en materia de emisiones contaminantes de fuentes fijas y móviles, niveles y resultados de monitoreos de la calidad del aire, a fin de mitigar la emisión de gases de efecto invernadero y crear condiciones para la adaptación al cambio climático y sus efectos.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 121.
+
+Deberá regularse la emisión de contaminantes a la atmósfera que ocasione o pueda ocasionar desequilibrios a los ecosistemas o daños al ambiente. No deberán emitirse gases de efecto invernadero o contaminantes a la atmósfera tales como olores o partículas sólidas y líquidas que puedan ocasionar desequilibrios ecológicos o daños al ambiente. En todas las emisiones a la atmósfera deberán ser observadas las previsiones de esta Ley, de las disposiciones reglamentarias que de ella emanen y las Normas Oficiales en la materia.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 122.
+
+Las políticas ambientales en materia de mitigación de gases de efecto invernadero así como de prevención y control de contaminación atmosférica considerarán los siguientes criterios:
+
+I. La calidad del aire debe ser satisfactoria en los asentamientos humanos y en general, en todo el territorio del Estado, para el buen desarrollo de la población, y
+
+II. La emisión de gases de efecto invernadero y de contaminantes a la atmósfera de cualquier tipo de fuente deberá ser mitigada para asegurar el bienestar de la población y el equilibrio ecológico, mediante una calidad del aire satisfactoria y la disminución de los efectos del cambio climático.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 123.
+
+La Secretaría establecerá y aplicará las medidas de prevención, control, inspección y vigilancia de la contaminación atmosférica originada por humos, polvos, vapores, gases de efecto invernadero y olores que puedan causar alteraciones significativas al ambiente o daños en la salud en los términos señalados por las normas técnicas ambientales o criterios ecológicos y de cambio climático aplicables, en términos de su reglamento y observando los principios de política ambiental de la presente Ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 124.
+
+En materia de prevención y control de la contaminación atmosférica y de emisión de gases de efecto invernadero, producida por fuentes fijas y móviles la Secretaría en el ámbito de su competencia:
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+I. Llevará a cabo las acciones de prevención y control de la contaminación del aire y mitigación de gases de efecto invernadero en bienes y zonas de jurisdicción local;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
+
+II. Aplicará los criterios generales para la protección de la atmósfera, en las declaratorias de usos, destinos, reservas y provisiones, definiendo las zonas en que será permitida la instalación de industrias potencialmente contaminantes;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
+
+III. Convendrá y, de resultar necesario, ordenarán a quienes realicen actividades contaminantes, la instalación de equipos o sistemas de control de emisiones, cuando se trate de actividades de jurisdicción local, y promoverán, ante la federación, dicha instalación, en los casos de jurisdicción federal, cuando se rebasen los límites establecidos en las normas oficiales mexicanas correspondientes;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
+
+IV. Integrará y mantendrá actualizado el inventario de fuentes fijas de contaminación ambiental;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
+
+V. Establecerá y operará sistemas de verificación de emisiones de fuentes fijas y móviles de jurisdicción local, en el ámbito de sus respectivas competencias;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
+
+VI. Establecerá y operará con el apoyo técnico, en su caso, de la federación, sistemas de monitoreo de la calidad del aire. Dichos sistemas deberán contar con dictamen técnico previo de la autoridad federal. Asimismo, aportarán los reportes locales del monitoreo a la información nacional, cuya integración está a cargo de la federación;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
+
+VII. Establecerá requisitos y procedimientos para regular las emisiones del transporte público y las medidas de tránsito y, en su caso, la suspensión de circulación, en casos graves de contaminación;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+VIII. Establecerá las medidas preventivas necesarias para evitar contingencias ambientales por contaminación atmosférica, ejecutará las acciones en materia de adaptación al cambio climático y sus efectos, asimismo realizará las actuaciones pertinentes en caso de una desmedida emisión de gases de efecto invernadero, de conformidad con lo que establezca la Comisión Intersecretarial de Cambio Climático;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
+
+IX. Elaborará los informes sobre la situación del medio ambiente en el estado y los municipios que convengan con la federación, a través de los acuerdos de coordinación que se celebren;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
+
+X. Impondrá sanciones y medidas por infracciones a las leyes de la materia, y los reglamentos correspondientes;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
+
+XI. Promoverá ante los responsables de la operación de fuentes contaminantes, la aplicación de nuevas tecnologías con el propósito de reducir sus emisiones a la atmósfera; y
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
+
+XII. Ejercerá las demás facultades que les confieran las disposiciones legales y reglamentarias aplicables.
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
 
-#### SECCIÓN II. Emisión de Contaminantes Generados por Fuentes Móviles
+###### Artículo 125.
 
-#### SECCIÓN III. De los Centros de Verificación
+La Secretaria establecerá requisitos y procedimientos para regular las emisiones del transporte público local, conforme a las Normas Oficiales Mexicanas y normas técnicas y criterios ecológicos.
+
+###### Artículo 126.
+
+En las zonas que se hubieran determinado como aptas para uso industrial, próximas a áreas habitacionales, las autoridades estatales y municipales, promoverán la utilización de tecnologías y combustibles que generen menor contaminación.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
+
+###### Artículo 127.
+
+La Secretaria promoverá que en la determinación de usos de suelo que definan los programas de desarrollo regional, se consideren las condiciones topográficas, climatológicas y meteorológicas para asegurar la adecuada dispersión de contaminantes.
+
+###### Artículo 128.
+
+La certificación o comprobación de los niveles de emisión de contaminantes de fuentes emisoras, se efectuará de acuerdo a lo establecido en las Normas Oficiales Mexicanas y los criterios y normas técnicas estatales que se formulen al respecto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 129.
+
+Quienes realicen actividades que contaminen la atmósfera o emitan gases de efecto invernadero deberán:
+
+I.- Instalar y operar equipos o sistemas para el control de sus emisiones, que garanticen el cumplimiento de lo establecido en las Normas Oficiales Mexicanas; y
+
+II.- Proporcionar toda la información que las autoridades les requieran a efecto de integrar y mantener actualizado el inventario de fuentes fijas de contaminación a la atmósfera.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 130.
+
+Sin perjuicio de las autorizaciones expedidas por otras autoridades competentes, para la operación y funcionamiento de las fuentes fijas de jurisdicción local que emitan o puedan emitir olores, gases de efecto invernadero o partículas sólidas y líquidas a la atmósfera, se requerirá una licencia ambiental de funcionamiento expedida por la Secretaría, en los términos que fije el reglamento de la presente ley.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN V. Emisión de Contaminantes Generados por Fuentes Móviles
+
+###### Artículo 131.
+
+Las personas físicas o morales que operen sistemas de producción industrial, comercial, agropecuaria o de servicios, que tengan fuentes emisoras de contaminantes, deberán:
+
+I.- Instalar equipos o sistemas de control de emisiones para cumplir con los niveles permisibles de contaminantes;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
+
+II.- Sujetarse a la verificación periódica de la Secretaría o realizar su autorregulación y auditoría ambiental en forma voluntaria conforme lo establecido en la Ley y en el Reglamento respectivo; y
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
+
+III.- Informar a la Secretaría los resultados de la medición mediante el registro de los mismos y serán publicados en el Periódico Oficial del Gobierno del Estado.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 132.
+
+Las emisiones de contaminantes atmosféricos tales como: gases de efecto invernadero, partículas sólidas y liquidas que se generen por fuentes fijas, no deberán exceder los niveles máximos permisibles de emisiones o inmisiones por contaminantes y por fuentes de contaminación que se establezca en las Normas Oficiales Mexicanas.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 133.
+
+Sin perjuicio de las autorizaciones expedidas por otras autoridades competentes, las fuentes fijas de competencia estatal que emitan o puedan emitir contaminantes atmosféricos o gases de efecto invernadero, requerirán licencia ambiental de funcionamiento expedida por la Secretaría.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
+
+###### Artículo 134.
+
+Para obtener la Licencia Ambiental de Funcionamiento a que se refiere el artículo anterior, los responsables de las fuentes fijas deberán presentar ante la Secretaría solicitud por escrito acompañada por la información y documentación que señalen las disposiciones de observancia general que deriven de la presente Ley.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
+
+###### Artículo 135.
+
+Una vez recibida la información a que se refiere el artículo que antecede, la Secretaría otorgará o negará la Licencia Ambiental de Funcionamiento correspondiente, dentro de un plazo de 60 días naturales contados a partir de la fecha en que se presente toda la información requerida.
+
+De otorgarse la Licencia, la Secretaría determinará que acciones habrán de desarrollar los responsables de las fuentes fijas, para prevenir y controlar la contaminación de la atmósfera, las cuales, en todos los casos se deberán de especificar en la señalada licencia.
+
+###### Artículo 136.
+
+Las acciones a que se refiere el artículo anterior podrán ser las siguientes:
+
+I.- Emplear equipos y sistemas que controlen las emisiones contaminantes a la atmósfera, para que éstas no rebasen los niveles máximos permisibles, conforme a lo que establece el Reglamento de esta Ley y las Normas Oficiales Mexicanas y normas técnicas ambientales y criterios ecológicos;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
+
+II.- Integrar un inventario de sus emisiones contaminantes a la atmósfera, en el formato que determine la Secretaría, y remitir el mismo a estas autoridades con la periodicidad que se establezca para cada caso;
+
+III.- Instalar plataformas y puertos de muestreo;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
+
+IV.- Medir las emisiones de contaminantes a la atmósfera de acuerdo a las Normas Oficiales Mexicanas, en los períodos que determine la Secretaría, registrar los resultados en el formato que esta autoridad determine y emitir los registros relativos cuando así se le solicite;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
+
+V.- Efectuar el monitoreo perimetral de las emisiones contaminantes a la atmósfera en los periodos que determine la Secretaría, cuando la fuente de que se trate se localice en las zonas urbanas, cuando colinde con Areas Naturales Protegidas, o cuando por sus características de operación o por sus materias primas, productos o subproductos puedan causar grave deterioro al ambiente;
+
+VI.- Llevar una bitácora de operación y mantenimiento de los equipos de proceso y de control;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
+
+VII.- Dar aviso anticipado a la Secretaría del inicio de operaciones de sus procesos, en el caso de paros programados, y de inmediato en el caso de que éstos sean circunstanciales, si ellos pueden provocar contaminación;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
+
+VIII.- Avisar de inmediato a la Secretaría en el caso de falla del equipo de control para que éstos determinen lo conducente;
+
+IX.- Realizar las medidas y acciones que deberán efectuarse en caso de contingencias;
+
+X.- Reciclar los residuos que se generen o, en su defecto, darles tratamiento o disponer de ellos en los términos establecidos por esta ley o las Normas Oficiales Mexicanas, normas técnicas y criterios ecológicos;
+
+XI.- Elaborar y someter su programa de prevención y minimización, reciclamiento, tratamiento y disposición de contaminantes o residuos generados, de conformidad con los criterios ecológicos establecidos;
+
+XII.- Establecer una franja perimetral de amortiguamiento de la contaminación generada, de a acuerdo a las medidas de mitigación consideradas en el estudio de impacto ambiental; y
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
+
+XIII.- Las demás que establezca esta Ley, las disposiciones que de ella se deriven o determine la Secretaría.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
+
+###### Artículo 137.
+
+La Secretaría podrá convenir con los responsables de las fuentes fijas de competencia estatal los términos o plazos en los cuáles deberá darse cumplimiento a las obligaciones señaladas en el artículo anterior, o bien requerir a los mismos para que las lleven a cabo, en forma obligatoria.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Artículo 137 A.- No deberán emitirse contaminantes a la atmósfera que ocasionen o puedan ocasionar desequilibrios ecológicos o daños al ambiente. En todas las emisiones a la atmósfera se observarán las prevenciones de esta Ley y las disposiciones reglamentarias que de ella emanen; así como las normas oficiales expedidas por el ejecutivo federal y la normatividad reglamentaria que al efecto expida el Gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Artículo 137 B.- Las autoridades estatales y municipales, en su caso, promoverán en las zonas que se hubiesen determinado como aptas para uso industrial, cercanas a las áreas habitacionales, la instalación de industrias que utilicen tecnologías y energéticos no contaminantes, o de bajo nivel de contaminación.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN VI. De los Centros de Verificación
 
 > <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
 
@@ -1927,231 +2253,7 @@ Artículo 145 Ñ.- El personal que labore en la verificación de emisiones deber
 
 Artículo 145 O.- En caso de dar de baja a técnicos verificadores, el concesionario informará por escrito a la Secretaría en un plazo máximo de tres días hábiles, asimismo deberá registrar al personal de nuevo ingreso y acreditar su capacitación como técnico verificador. De igual forma, se deberán actualizar los datos en caso de darse de baja algún otro personal.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE JULIO DE 2007)</small>
-
-#### SECCIÓN IV. Del Proceso de Verificación Vehicular
-
-> <small>(REFORMADO Y REUBICADO, P.O. 4 DE JULIO DE 2007)</small>
-
-###### Artículo 120.
-
-La Secretaría promoverá la participación efectiva de la sociedad en los programas y medidas destinadas a la prevención y control de la contaminación atmosférica, y garantizará así mismo el derecho a la información ambiental en materia de emisiones contaminantes de fuentes fijas y móviles, niveles y resultados de monitoreos de la calidad del aire.
-
-###### Artículo 121.
-
-Deberá regularse la emisión de contaminantes a la atmósfera que ocasione o pueda ocasionar desequilibrios a los ecosistemas o daños al ambiente. No deberán emitirse contaminantes a la atmósfera tales como: olores, gases o partículas sólidas y líquidas que puedan ocasionar desequilibrios ecológicos o daños al ambiente. En todas las emisiones a la atmósfera deberán ser observadas las previsiones de esta Ley y de las disposiciones reglamentarias que de ella emanen.
-
-###### Artículo 122.
-
-Para la prevención y control de la contaminación de la atmósfera se considerarán los siguientes criterios:
-
-I.- La calidad del aire debe ser satisfactoria en los asentamientos humanos y, en general, en todo el territorio del Estado; y
-
-II.- La emisión de contaminantes a la atmósfera, sean de fuentes naturales o artificiales, fijas o móviles, debe ser reducida y controlada para asegurar una calidad del aire satisfactoria para el bienestar de la población y el equilibrio ecológico.
-
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
-
-###### Artículo 123.
-
-La Secretaría establecerá y aplicará las medidas de prevención y control de la contaminación atmosférica originada por humos, polvos, vapores, gases y olores que puedan causar alteraciones significativas al ambiente o daños en la salud en los términos señalados por las normas técnicas ambientales o criterios ecológicos aplicables, en términos de su reglamento y observando los principios de política ambiental de la presente Ley.
-
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
-
-###### Artículo 124.
-
-En materia de prevención y control de la contaminación atmosférica, producida por fuentes fijas y móviles la Secretaria en el ámbito de su competencia:
-
-I. Llevará a cabo las acciones de prevención y control de la contaminación del aire en bienes y zonas de jurisdicción local;
-
-II. Aplicará los criterios generales para la protección de la atmósfera, en las declaratorias de usos, destinos, reservas y provisiones, definiendo las zonas en que será permitida la instalación de industrias potencialmente contaminantes;
-
-III. Convendrá y, de resultar necesario, ordenarán a quienes realicen actividades contaminantes, la instalación de equipos o sistemas de control de emisiones, cuando se trate de actividades de jurisdicción local, y promoverán, ante la federación, dicha instalación, en los casos de jurisdicción federal, cuando se rebasen los límites establecidos en las normas oficiales mexicanas correspondientes;
-
-IV. Integrará y mantendrá actualizado el inventario de fuentes fijas de contaminación ambiental;
-
-V. Establecerá y operará sistemas de verificación de emisiones de fuentes fijas y móviles de jurisdicción local, en el ámbito de sus respectivas competencias;
-
-VI. Establecerá y operará con el apoyo técnico, en su caso, de la federación, sistemas de monitoreo de la calidad del aire. Dichos sistemas deberán contar con dictamen técnico previo de la autoridad federal. Asimismo, aportarán los reportes locales del monitoreo a la información nacional, cuya integración está a cargo de la federación;
-
-VII. Establecerá requisitos y procedimientos para regular las emisiones del transporte público y las medidas de tránsito y, en su caso, la suspensión de circulación, en casos graves de contaminación;
-
-VIII. Establecerá las medidas preventivas necesarias para evitar contingencias ambientales por contaminación atmosférica;
-
-IX. Elaborará los informes sobre la situación del medio ambiente en el estado y los municipios que convengan con la federación, a través de los acuerdos de coordinación que se celebren;
-
-X. Impondrá sanciones y medidas por infracciones a las leyes de la materia, y los reglamentos correspondientes;
-
-XI. Promoverá ante los responsables de la operación de fuentes contaminantes, la aplicación de nuevas tecnologías con el propósito de reducir sus emisiones a la atmósfera; y
-
-XII. Ejercerá las demás facultades que les confieran las disposiciones legales y reglamentarias aplicables.
-
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
-
-###### Artículo 125.
-
-La Secretaria establecerá requisitos y procedimientos para regular las emisiones del transporte público local, conforme a las Normas Oficiales Mexicanas y normas técnicas y criterios ecológicos.
-
-###### Artículo 126.
-
-En las zonas que se hubieran determinado como aptas para uso industrial, próximas a áreas habitacionales, las autoridades estatales y municipales, promoverán la utilización de tecnologías y combustibles que generen menor contaminación.
-
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
-
-###### Artículo 127.
-
-La Secretaria promoverá que en la determinación de usos de suelo que definan los programas de desarrollo regional, se consideren las condiciones topográficas, climatológicas y meteorológicas para asegurar la adecuada dispersión de contaminantes.
-
-###### Artículo 128.
-
-La certificación o comprobación de los niveles de emisión de contaminantes de fuentes emisoras, se efectuará de acuerdo a lo establecido en las Normas Oficiales Mexicanas y los criterios y normas técnicas estatales que se formulen al respecto.
-
-###### Artículo 129.
-
-Quienes realicen actividades que contaminen a la atmósfera deberán:
-
-I.- Instalar y operar equipos o sistemas para el control de sus emisiones, que garanticen el cumplimiento de lo establecido en las Normas Oficiales Mexicanas; y
-
-II.- Proporcionar toda la información que las autoridades les requieran a efecto de integrar y mantener actualizado el inventario de fuentes fijas de contaminación a la atmósfera.
-
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
-
-###### Artículo 130.
-
-Sin perjuicio de las autorizaciones expedidas por otras autoridades competentes, para la operación y funcionamiento de las fuentes fijas de jurisdicción local que emitan o puedan emitir olores, gases o partículas sólidas y líquidas a la atmósfera, se requerirá una licencia ambiental de funcionamiento expedida por la Secretaría, en los términos que fije el reglamento de la presente ley.
-
-Para los efectos a que se refiere esta ley, se considerarán fuentes fijas de jurisdicción local, los establecimientos industriales, comerciales, agropecuarios o de servicios, cuya regulación no se encuentra reservada a la federación.
-
-#### SECCIÓN V. De la Inspección y Vigilancia a los Centros de Verificación
-
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
-
-Artículo 146 N.- La Secretaría realizará la supervisión de todos los centros de Verificación Vehicular a través de su personal acreditado mediante visitas de inspección, con el fin de comprobar que su operación y funcionamiento se realice en estricto cumplimiento a lo dispuesto en la Ley, las Normas Oficiales Mexicanas, Normas Técnicas Ecológicas Estatales, circulares, Manuales de Procedimientos y demás ordenamientos aplicables.
-
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
-
-Artículo 146 Ñ.- El personal acreditado por la Secretaría deberá identificarse de manera respetuosa al inicio de la visita de inspección exhibiendo una credencial vigente con fotografía, y la orden de inspección que debe dejar en original a la persona del Centro que atienda la diligencia.
-
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
-
-Artículo 146 O.- Los propietarios, responsables o personal operante que se encuentren en el Centro durante la visita de inspección, tendrán la obligación de permitir el acceso en todo momento de los inspectores a la información y dar facilidades para que realicen adecuadamente su labor.
-
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
-
-Artículo 146 P.- La Secretaría al realizar las visitas de inspección previa orden fundada y motivada, levantará un acta circunstanciada por duplicado de lo observado y practicado en la diligencia. Esta se levantará en presencia de dos testigos propuestos por la persona que atienda la diligencia, en caso de negarse a hacerlo, lo hará el inspector quien deberá firmarla.
-
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
-
-Artículo 146 Q.- De toda Acta elaborada se dejará copia al personal que haya atendido la diligencia aunque este se haya negado a firmarla, lo que no afectará la validez de la misma, siempre y cuando se haga constar en la misma. Las Actas elaboradas deberán incluir el nombre, denominación o razón social del Centro inspeccionado, hora, día, mes y año en que se inicie y concluya la diligencia; municipio en que se practique la inspección, calle, numero, colonia, teléfono u otra forma de poder comunicarse con la Secretaría; nombre y domicilio de los testigos; nombre y cargo del inspector; datos relativos a la inspección; declaración de con quien se entendió la diligencia en caso de así desearlo; nombre y firma de todas las personas que participaron.
-
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
-
-Artículo 146 R.- Los visitados tendrán derecho a formular observaciones en el acto de la diligencia y presentar pruebas por escrito en relación con los hechos contenidos en el Acta durante los cinco días hábiles posteriores a la entrega del acta de inspección.
-
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
-
-Artículo 146 S.- Una vez realizada la inspección, la Secretaría deberá emitir un Acuerdo al concesionario, señalando las medidas urgentes y/o inmediatas que se deben aplicar en el Centro dentro de un plazo de 45 días para subsanar las deficiencias detectadas.
-
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
-
-Artículo 146 T.- Transcurrido el plazo otorgado para implementar las medidas requeridas, la Secretaría emitirá una Resolución Administrativa en donde se impongan las sanciones correspondientes y/o en su caso levantar o adicionar medidas urgentes.
-
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
-
-Artículo 146 U.- Siguiendo lo establecido en la Ley y con base en los resultados de la inspección, se aplicarán las medidas y/o sanciones que procedan de acuerdo a lo previsto en la presente Ley y su respectivo reglamento.
-
-###### Artículo 131.
-
-Las personas físicas o morales que operen sistemas de producción industrial, comercial, agropecuaria o de servicios, que tengan fuentes emisoras de contaminantes, deberán:
-
-I.- Instalar equipos o sistemas de control de emisiones para cumplir con los niveles permisibles de contaminantes;
-
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
-
-II.- Sujetarse a la verificación periódica de la Secretaría o realizar su autorregulación y auditoría ambiental en forma voluntaria conforme lo establecido en la Ley y en el Reglamento respectivo; y
-
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
-
-III.- Informar a la Secretaría los resultados de la medición mediante el registro de los mismos y serán publicados en el Periódico Oficial del Gobierno del Estado.
-
-###### Artículo 132.
-
-Las emisiones de contaminantes tales como: gases, partículas sólidas y líquidas que se generen por fuentes fijas, no deberán exceder los niveles máximos permisibles de emisiones e inmisiones por contaminantes y por fuentes de contaminación, que se establezcan en las Normas Oficiales Mexicanas.
-
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
-
-###### Artículo 133.
-
-Sin perjuicio de las autorizaciones expedidas por otras autoridades competentes, las fuentes fijas de competencia estatal que emitan o puedan emitir gases, partículas contaminantes sólidas o líquidas a la atmósfera, requerirán licencia ambiental de funcionamiento expedida por la Secretaría.
-
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
-
-###### Artículo 134.
-
-Para obtener la Licencia Ambiental de Funcionamiento a que se refiere el artículo anterior, los responsables de las fuentes fijas deberán presentar ante la Secretaría solicitud por escrito acompañada por la información y documentación que señalen las disposiciones de observancia general que deriven de la presente Ley.
-
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
-
-###### Artículo 135.
-
-Una vez recibida la información a que se refiere el artículo que antecede, la Secretaría otorgará o negará la Licencia Ambiental de Funcionamiento correspondiente, dentro de un plazo de 60 días naturales contados a partir de la fecha en que se presente toda la información requerida.
-
-De otorgarse la Licencia, la Secretaría determinará que acciones habrán de desarrollar los responsables de las fuentes fijas, para prevenir y controlar la contaminación de la atmósfera, las cuales, en todos los casos se deberán de especificar en la señalada licencia.
-
-###### Artículo 136.
-
-Las acciones a que se refiere el artículo anterior podrán ser las siguientes:
-
-I.- Emplear equipos y sistemas que controlen las emisiones contaminantes a la atmósfera, para que éstas no rebasen los niveles máximos permisibles, conforme a lo que establece el Reglamento de esta Ley y las Normas Oficiales Mexicanas y normas técnicas ambientales y criterios ecológicos;
-
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
-
-II.- Integrar un inventario de sus emisiones contaminantes a la atmósfera, en el formato que determine la Secretaría, y remitir el mismo a estas autoridades con la periodicidad que se establezca para cada caso;
-
-III.- Instalar plataformas y puertos de muestreo;
-
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
-
-IV.- Medir las emisiones de contaminantes a la atmósfera de acuerdo a las Normas Oficiales Mexicanas, en los períodos que determine la Secretaría, registrar los resultados en el formato que esta autoridad determine y emitir los registros relativos cuando así se le solicite;
-
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
-
-V.- Efectuar el monitoreo perimetral de las emisiones contaminantes a la atmósfera en los periodos que determine la Secretaría, cuando la fuente de que se trate se localice en las zonas urbanas, cuando colinde con Areas Naturales Protegidas, o cuando por sus características de operación o por sus materias primas, productos o subproductos puedan causar grave deterioro al ambiente;
-
-VI.- Llevar una bitácora de operación y mantenimiento de los equipos de proceso y de control;
-
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
-
-VII.- Dar aviso anticipado a la Secretaría del inicio de operaciones de sus procesos, en el caso de paros programados, y de inmediato en el caso de que éstos sean circunstanciales, si ellos pueden provocar contaminación;
-
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2007)</small>
-
-VIII.- Avisar de inmediato a la Secretaría en el caso de falla del equipo de control para que éstos determinen lo conducente;
-
-IX.- Realizar las medidas y acciones que deberán efectuarse en caso de contingencias;
-
-X.- Reciclar los residuos que se generen o, en su defecto, darles tratamiento o disponer de ellos en los términos establecidos por esta ley o las Normas Oficiales Mexicanas, normas técnicas y criterios ecológicos;
-
-XI.- Elaborar y someter su programa de prevención y minimización, reciclamiento, tratamiento y disposición de contaminantes o residuos generados, de conformidad con los criterios ecológicos establecidos;
-
-XII.- Establecer una franja perimetral de amortiguamiento de la contaminación generada, de a acuerdo a las medidas de mitigación consideradas en el estudio de impacto ambiental; y
-
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
-
-XIII.- Las demás que establezca esta Ley, las disposiciones que de ella se deriven o determine la Secretaría.
-
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2007)</small>
-
-###### Artículo 137.
-
-La Secretaría podrá convenir con los responsables de las fuentes fijas de competencia estatal los términos o plazos en los cuáles deberá darse cumplimiento a las obligaciones señaladas en el artículo anterior, o bien requerir a los mismos para que las lleven a cabo, en forma obligatoria.
-
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
-
-Artículo 137 A.- No deberán emitirse contaminantes a la atmósfera que ocasionen o puedan ocasionar desequilibrios ecológicos o daños al ambiente. En todas las emisiones a la atmósfera se observarán las prevenciones de esta Ley y las disposiciones reglamentarias que de ella emanen; así como las normas oficiales expedidas por el ejecutivo federal y la normatividad reglamentaria que al efecto expida el Gobierno del Estado.
-
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
-
-Artículo 137 B.- Las autoridades estatales y municipales, en su caso, promoverán en las zonas que se hubiesen determinado como aptas para uso industrial, cercanas a las áreas habitacionales, la instalación de industrias que utilicen tecnologías y energéticos no contaminantes, o de bajo nivel de contaminación.
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 138.
 
@@ -2311,7 +2413,49 @@ En el ámbito de competencia de la Secretaría, tanto para las fuentes fijas o m
 
 Asimismo, la Secretaría llevará un padrón de empresas cuyas actividades se consideren como contaminantes, a efecto de dar cumplimiento a lo previsto en el párrafo anterior.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN VII. Del Proceso de Verificación Vehicular
+
+> <small>(REFORMADO Y REUBICADO, P.O. 4 DE JULIO DE 2007)</small>
+
+#### SECCIÓN VIII. De la Inspección y Vigilancia a los Centros de Verificación
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Artículo 146 N.- La Secretaría realizará la supervisión de todos los centros de Verificación Vehicular a través de su personal acreditado mediante visitas de inspección, con el fin de comprobar que su operación y funcionamiento se realice en estricto cumplimiento a lo dispuesto en la Ley, las Normas Oficiales Mexicanas, Normas Técnicas Ecológicas Estatales, circulares, Manuales de Procedimientos y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Artículo 146 Ñ.- El personal acreditado por la Secretaría deberá identificarse de manera respetuosa al inicio de la visita de inspección exhibiendo una credencial vigente con fotografía, y la orden de inspección que debe dejar en original a la persona del Centro que atienda la diligencia.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Artículo 146 O.- Los propietarios, responsables o personal operante que se encuentren en el Centro durante la visita de inspección, tendrán la obligación de permitir el acceso en todo momento de los inspectores a la información y dar facilidades para que realicen adecuadamente su labor.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Artículo 146 P.- La Secretaría al realizar las visitas de inspección previa orden fundada y motivada, levantará un acta circunstanciada por duplicado de lo observado y practicado en la diligencia. Esta se levantará en presencia de dos testigos propuestos por la persona que atienda la diligencia, en caso de negarse a hacerlo, lo hará el inspector quien deberá firmarla.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Artículo 146 Q.- De toda Acta elaborada se dejará copia al personal que haya atendido la diligencia aunque este se haya negado a firmarla, lo que no afectará la validez de la misma, siempre y cuando se haga constar en la misma. Las Actas elaboradas deberán incluir el nombre, denominación o razón social del Centro inspeccionado, hora, día, mes y año en que se inicie y concluya la diligencia; municipio en que se practique la inspección, calle, numero, colonia, teléfono u otra forma de poder comunicarse con la Secretaría; nombre y domicilio de los testigos; nombre y cargo del inspector; datos relativos a la inspección; declaración de con quien se entendió la diligencia en caso de así desearlo; nombre y firma de todas las personas que participaron.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Artículo 146 R.- Los visitados tendrán derecho a formular observaciones en el acto de la diligencia y presentar pruebas por escrito en relación con los hechos contenidos en el Acta durante los cinco días hábiles posteriores a la entrega del acta de inspección.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Artículo 146 S.- Una vez realizada la inspección, la Secretaría deberá emitir un Acuerdo al concesionario, señalando las medidas urgentes y/o inmediatas que se deben aplicar en el Centro dentro de un plazo de 45 días para subsanar las deficiencias detectadas.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Artículo 146 T.- Transcurrido el plazo otorgado para implementar las medidas requeridas, la Secretaría emitirá una Resolución Administrativa en donde se impongan las sanciones correspondientes y/o en su caso levantar o adicionar medidas urgentes.
+
+> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2007)</small>
+
+Artículo 146 U.- Siguiendo lo establecido en la Ley y con base en los resultados de la inspección, se aplicarán las medidas y/o sanciones que procedan de acuerdo a lo previsto en la presente Ley y su respectivo reglamento.
 
 ###### Artículo 146.
 
@@ -2435,7 +2579,7 @@ VI. Los permisionarios deberán guardar un archivo con los expedientes de los ve
 
 VII. Los permisionarios y su personal, no deberán expedir certificados, hologramas y constancias de rechazo que pertenezcan a otros Centros.
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE JULIO DE 2007)</small>
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
 ### CAPÍTULO II. Prevención y Control de la Contaminación del Agua y de los Ecosistemas Acuáticos
 
@@ -2879,35 +3023,43 @@ Artículo 188 A.- La Secretaría y los Gobiernos Municipales, en su esfera de co
 
 Cuando la Secretaría y los Gobiernos Municipales deban de resolver un asunto sobre el cual, los órganos de consulta hubiesen emitido una opinión, deberán expresar los casos de aceptación o rechazo de dicha opinión.
 
-### CAPÍTULO II. Consejo Estatal de Protección al Ambiente
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO II. Consejo Estatal de Protección al Ambiente y Cambio Climático
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 189.
 
-El Consejo Estatal de Protección al Ambiente, es un órgano de consulta y opinión que realizará además, tareas de concertación entre los sectores de la sociedad y el gobierno y que participará en la evaluación de la política ambiental estatal en los términos que dispongan esta Ley y las demás leyes aplicables.
+El Consejo Estatal de Protección al Ambiente y Cambio Climático, es un órgano de consulta y opinión de carácter permanente, cuyo principal objetivo es la concertación entre los sectores privado, social, académico y el gobierno; así como asesorar y guiar a la Comisión Intersecretarial de Cambio Climático en todo lo relacionado con el tema, y participar en la política ambiental estatal en los términos de esta ley y demás disposiciones aplicables.
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 190.
 
-El Consejo Estatal de Protección al Ambiente se integrará por:
+El Consejo Estatal se conformará por cinco miembros de reconocidos méritos y experiencia en el tema ecológico y de protección al ambiente, debiendo pertenecer al sector privado, social, y académico quedando integrado de la siguiente forma:
 
-I.- Un Presidente, que será un ciudadano de reconocida trayectoria profesional en la materia designado por el Congreso del Estado y que durará en su encargo tres años;
+I. Un Presidente;
 
-II.- Un Secretario Técnico, que será un ciudadano de reconocidos méritos científicos, técnicos, académicos o sociales en la materia, designado por el Presidente del Consejo Estatal de Protección al Ambiente;
+II. Un Secretario Técnico, y
 
-III.- Los Consejeros serán:
+III. 3 Consejeros
 
-A) Titulares de dependencias o entidades del Gobierno de Estado cuyas atribuciones se relacionen directamente con la protección ambiental;
+Sus miembros serán propuestos por el titular del Poder Ejecutivo del Estado y designados por el H. Congreso Estatal; el encargo que desempeñarán será honorífico. Durarán en su función tres años, con posibilidad de renovar su nombramiento.
 
-B) Representantes de instituciones educativas, de investigación, de organizaciones sociales y especialistas en la materia;
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
-C) Delegados de dependencias y entidades federales;
+Artículo 190 A.- El Consejo Estatal de Protección al Ambiente y Cambio Climático sesionará al menos dos veces por año, de acuerdo a las sesiones que celebre la Comisión Intersecretarial de Cambio Climático y en base a los temas que esta discuta.
 
-D) Autoridades municipales ambientales del Estado;
+Asimismo, podrá celebrar sesiones extraordinarias a fin de emitir recomendaciones o responder a solicitudes de opinión formuladas tanto por la Comisión Intersecretarial de Cambio Climático como por la Secretaría.
 
-E) Presidente de la Comisión de Ecología del Congreso del Estado.
+Los integrantes del Consejo tendrán derecho a voz y voto.
 
-Los Consejeros se integrarán al Consejo Estatal de Protección al Ambiente, a invitación expresa de su Presidente.
+El Consejo sesionará válidamente con la presencia de la mitad más uno de sus integrantes.
 
-La organización y funcionamiento del Consejo Estatal de Protección al Ambiente se sujetará a lo dispuesto en su Reglamento.
+Los acuerdos y resoluciones del Consejo se tomarán por mayoría de votos de los miembros presentes, en caso de empate el presidente tendrá voto de calidad.
+
+La organización y funcionamiento del Consejo Estatal de Protección al Ambiente y Cambio Climático se sujetará a lo dispuesto en su Reglamento interno.
 
 ### CAPÍTULO III. Comisiones Municipales de Ecología
 
@@ -3748,3 +3900,17 @@ Artículo Segundo.- Hasta en tanto los ayuntamientos dicten los reglamentos y ba
 P.O. 8 DE JULIO DE 2015.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 9 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY ESTATAL DEL EQUILIBRIO ECOLÓGICO Y PROTECCIÓN AL AMBIENTE DEL ESTADO DE NAYARIT”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo.- Cuando se haga referencia a la Secretaría de Desarrollo Rural y Medio Ambiente se entenderá por nombrada la Secretaría del Medio Ambiente, en tanto no entre en vigor el decreto por el cual se fusionan dependencias, de conformidad con lo dispuesto por la fe de erratas de fecha 24 de octubre de 2015 al decreto que reforma, deroga y adiciona diversas disposiciones de la Ley Orgánica del Poder Ejecutivo del Estado de Nayarit; publicado en el periódico Oficial con fecha 03 de octubre del presente año.
+
+Tercero.- La Comisión Intersecretarial de Cambio Climático y el Consejo Estatal de Protección al Ambiente y Cambio Climático deberán instaurarse dentro de los sesenta días a partir de la entrada en vigor del presente decreto.
+
+Cuarto.- La Comisión Intersecretarial de Cambio Climático y el Consejo Estatal de Protección al Ambiente y Cambio Climático deberán emitir sus respectivos reglamentos internos dentro de los sesenta días a partir de su integración.
+
+Quinto.- El Programa Estatal de Cambio Climático, deberá realizarse dentro de los noventa días posteriores a la conformación de la Comisión Intersecretarial de Cambio Climático y el Consejo Estatal de Protección al Ambiente y Cambio Climático.
