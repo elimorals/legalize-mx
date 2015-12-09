@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "2015-05-18"
+last_updated: "2015-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el 15 de noviembre de 1978.
 
@@ -2945,15 +2945,23 @@ DIARIO VIGENTE
 
 1.- Por reproducción de:
 
-a).- Por hoja impresa en sistemas
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
-de copiado en proceso fotomecánico
+a).- Por hoja impresa después de las
 
-o impresión en hoja de tira continua: 0.05
+primeras veinte copias que serán gratuitas,
 
-b).- Por hoja impresa en impresora
+en sistemas de copiado en proceso fotomecánico
 
-láser o inyección de tinta: 0.15
+o impresión en hoja de tira continua: 0.005
+
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+b).- Por hoja impresa, después de las
+
+primeras veinte copias que serán gratuitas,
+
+en impresora láser o inyección de tinta: 0.015
 
 c).- Por copia heliográfica o fotográfica de planos:
 
@@ -2989,11 +2997,11 @@ excedente: 0.10
 
 2.- Reproducción o captura de archivos en dispositivos magnéticos o discos compactos, por cada unidad de:
 
-a).- Microdisco magnético de
+a).- (DEROGADO, P.O. 9 DE DICIEMBRE DE 2015)
 
-9 centímetros: 0.50
+> <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
-b).- Disco compacto grabado: 1.25
+b).- Disco compacto grabado: 0.125
 
 > <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2003)</small>
 
@@ -4008,6 +4016,12 @@ El Ejecutivo del Estado deberá realizar las adecuaciones correspondientes al Re
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE DICIEMBRE DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa".
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 136.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS Y DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO”.]
 
