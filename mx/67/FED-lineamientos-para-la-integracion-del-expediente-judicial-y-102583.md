@@ -4,7 +4,7 @@ identifier: "FED-lineamientos-para-la-integracion-del-expediente-judicial-y-1025
 country: "mx"
 rank: "lineamientos"
 publication_date: "2014-10-01"
-last_updated: "2014-10-01"
+last_updated: "2015-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102583&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2014-09-22"
 
 LINEAMIENTOS PARA LA INTEGRACIÓN DEL EXPEDIENTE JUDICIAL Y SU MODALIDAD ELECTRÓNICA
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL ACUERDO GENERAL CONJUNTO 1/2015, DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN Y DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LOS SERVICIOS TECNOLÓGICOS RELATIVOS A LA TRAMITACIÓN ELECTRÓNICA DEL JUICIO DE AMPARO, LAS COMUNICACIONES OFICIALES Y LOS PROCESOS DE ORALIDAD PENAL EN LOS CENTROS DE JUSTICIA PENAL FEDERAL, PUBLICADO EN EL D.O.F. DE 9 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE DICIEMBRE DE 2015 (ABROGADO).
 
 Lineamientos publicados en la Primera Sección del Diario Oficial de la Federación, el miércoles 1 de octubre de 2014.
 
@@ -178,3 +180,23 @@ SEGUNDO. Publíquense estos lineamientos en el Diario Oficial de la Federación 
 TERCERO. En aquellos asuntos distintos a los juicios de amparo, los órganos jurisdiccionales podrán integrar los respectivos expedientes electrónicos, en lo que le sean aplicables las disposiciones del presente acuerdo.
 
 EL MAGISTRADO LUIS FERNANDO ANGULO JACOBO, SECRETARIO EJECUTIVO DEL PLENO Y DE LA PRESIDENCIA DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que estos Lineamientos para la integración del expediente judicial y su modalidad electrónica, fueron aprobados por el Pleno del Consejo de la Judicatura Federal, en sesión ordinaria de treinta de abril de dos mil catorce, por unanimidad de votos de los señores Consejeros: Presidente Ministro Juan N. Silva Meza, Daniel Francisco Cabeza de Vaca Hernández, César Esquinca Muñoa, Manuel Ernesto Saloma Vera y J. Guadalupe Tafoya Hernández.- México, Distrito Federal, a veintidós de septiembre de dos mil catorce.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 9 DE DICIEMBRE DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el presente Acuerdo General Conjunto en el Diario Oficial de la Federación y en el Semanario Judicial de la Federación y su Gaceta y, en términos de lo dispuesto en el artículo 7, fracción XIV, de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, en medios electrónicos de consulta pública.
+
+TERCERO. Se abrogan el Acuerdo General Conjunto número 1/2014, de la Suprema Corte de Justicia de la Nación y del Consejo de la Judicatura Federal, por el que se regula la integración de los expedientes impreso y electrónico, y el acceso a éste, así como las notificaciones por vía electrónica, mediante el uso de la Firma Electrónica Certificada del Poder Judicial de la Federación, a través del Sistema Electrónico del Poder Judicial de la Federación previsto en el artículo 3o. de la Ley de Amparo, así como los Lineamientos para la integración del expediente judicial y su modalidad electrónica publicados en el Diario Oficial de la Federación el uno de octubre de dos mil catorce.
+
+CUARTO. Los expedientes electrónicos integrados en la SCJN a partir de la "Declaratoria de seis de noviembre de dos mil catorce sobre la fecha a partir de la cual en la Suprema Corte de Justicia de la Nación las partes tendrán acceso a los Expedientes Electrónicos, podrán promover por vía electrónica y solicitar la recepción de notificaciones por esa vía", publicada en el Diario Oficial de la Federación el trece de noviembre de dos mil catorce se regirán en su trámite electrónico conforme a lo dispuesto en este Acuerdo General Conjunto, a partir del primero de febrero de dos mil dieciséis; sin menoscabo de que continúe vigente el "Instructivo sobre las bases para la integración del expediente impreso y electrónico, así como de su cuaderno auxiliar, de los asuntos de la competencia de la Suprema Corte de Justicia de la Nación regulados en la Ley de Amparo".
+
+QUINTO. En la SCJN los manuales o instructivos que precisen las medidas que se adoptarán para la adecuada integración de los expedientes impresos y electrónicos, de los asuntos de la competencia de aquélla, se emitirán, conjuntamente, por los titulares de la Secretaría General de Acuerdos y de las Secretarías de Acuerdos de este Alto Tribunal.
+
+SEXTO. En los Juzgados de Distrito y Tribunales de Circuito la tramitación electrónica del juicio de amparo iniciará el cuatro de enero de dos mil dieciséis.
+
+Los expedientes electrónicos de los juicios de amparo, recursos e incidentes que hayan ingresado con anterioridad al cuatro de enero de dos mil dieciséis se integrarán a partir de las resoluciones judiciales que se emitan en esa fecha.
+
+SÉPTIMO. En los Centros de Justicia Penal Federal con sede en Chiapas, Chihuahua, Coahuila, Nayarit, Oaxaca, Puebla, Sinaloa y Tlaxcala operarán con los sistemas tecnológicos a partir del cuatro de diciembre de dos mil quince.
