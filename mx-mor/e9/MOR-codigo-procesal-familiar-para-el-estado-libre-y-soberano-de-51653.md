@@ -4,7 +4,7 @@ identifier: "MOR-codigo-procesal-familiar-para-el-estado-libre-y-soberano-de-516
 country: "mx"
 rank: "codigo"
 publication_date: "2006-09-06"
-last_updated: "2015-04-29"
+last_updated: "2015-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51653&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 CÓDIGO PROCESAL FAMILIAR PARA EL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2015.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Morelos, el miércoles 6 de septiembre de 2006.
 
@@ -847,9 +847,17 @@ VII. Ordenar que se subsane toda omisión que notaren en la substanciación, par
 
 VIII. Prestarse auxilio mutuo en las actuaciones judiciales que así lo requieran;
 
-IX. Actuar de manera que cada Órgano Jurisdiccional sea independiente en el ejercicio propio de sus funciones y pueda juzgar con absoluta imparcialidad en relación a las partes; y,
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
 
-X. Obligar a todo sujeto de derecho público o privado a que acate las decisiones judiciales; y, que además, presten la asistencia debida para alcanzar la efectividad de sus mandatos judiciales.
+IX. Actuar de manera que cada Órgano Jurisdiccional sea independiente en el ejercicio propio de sus funciones y pueda juzgar con absoluta imparcialidad en relación a las partes;
+
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+X. Obligar a todo sujeto de derecho público o privado a que acate las decisiones judiciales; y, que además, presten la asistencia debida para alcanzar la efectividad de sus mandatos judiciales; y,
+
+> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+XI. En cualquier momento en que se presentare el Síndrome de Alienación Parental, ordenar las medidas terapéuticas necesarias para los menores hijos, con la finalidad de restablecer la sana convivencia con ambos progenitores.
 
 ### CAPÍTULO II. COMPETENCIA DEL ORGANO JUDICIAL
 
@@ -6914,3 +6922,9 @@ Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para lo
 ###### ARTÍCULO SEGUNDO.
 
 Este Decreto entrará en vigor al día siguiente de la fecha de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado.
+
+P.O. 9 DE DICIEMBRE DE 2015.
+
+PRIMERO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+SEGUNDO.- Una vez publicada la presente reforma en el Periódico Oficial “Tierra y Libertad", infórmese a la Honorable Cámara de Diputados del Congreso de la Unión, que se ha dado debido cumplimiento al exhorto descrito en el proemio del presente Dictamen.
