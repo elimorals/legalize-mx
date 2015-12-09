@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-de-los-municipios-del-estado-de-campeche-60679"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2008-03-03"
-last_updated: "2014-06-27"
+last_updated: "2015-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGÁNICA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Sección Legislativa del Periódico Oficial del Estado de Campeche, el lunes 3 de marzo de 2008.
 
@@ -1283,7 +1283,9 @@ VI. Cuidar y dirigir el área y el archivo del Ayuntamiento;
 
 VII. Controlar la correspondencia oficial y dar cuenta diaria con todos los asuntos al Presidente Municipal, para acordar el trámite;
 
-VIII. Compilar las leyes, decretos y reglamentos estatales, así como los bandos, reglamentos, circulares y demás disposiciones de carácter general emitidos por el Ayuntamiento;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+VIII. Compilar las leyes, decretos y reglamentos estatales, así como los bandos, reglamentos, circulares y demás disposiciones de carácter general emitidos por el Ayuntamiento y supervisar su inclusión en la Gaceta Municipal;
 
 IX. Observar y hacer cumplir el reglamento interior del Ayuntamiento en la esfera de su competencia;
 
@@ -1915,9 +1917,11 @@ Las autoridades municipales en materia de seguridad pública deberán establecer
 
 El Ayuntamiento procurará que los centros de población mayores a quinientos habitantes cuenten con vigilancia de la policía preventiva municipal.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
 ### CAPÍTULO ÚNICO
 
-## TÍTULO SÉPTIMO. DEL BANDO MUNICIPAL Y DE LOS REGLAMENTOS
+## TÍTULO SÉPTIMO. DEL BANDO MUNICIPAL Y DE LOS REGLAMENTOS Y LA GACETA MUNICIPAL
 
 ### CAPÍTULO ÚNICO
 
@@ -1999,6 +2003,36 @@ II.- Periodicidad con que se generarán y publicarán los indicadores.
 
 III.- Sanciones por la alteración o falsedad de los datos de las variables para el cálculo de los componentes y por la falta de cumplimiento a los plazos de publicación y de los requisitos que deben contemplar los planes y programas.
 
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+###### ARTÍCULO 188
+
+ter.- La Gaceta Municipal será el órgano de publicación y difusión de los HH. Ayuntamientos de los Municipios del Estado, y estará a cargo de la unidad administrativa que al efecto designe cada uno de ellos, en su caso.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+###### ARTÍCULO 188
+
+quáter.- La Gaceta Municipal se publicará a través de medios electrónicos, por lo menos una vez al mes, debiendo contener como mínimo las siguientes características:
+
+l. La denominación "Gaceta Municipal" y la leyenda "Órgano de Publicación y Difusión" del Municipio respectivo;
+
+II. La impresión del escudo y el logotipo del Municipio respectivo;
+
+III. Fecha y número de publicación de la edición correspondiente;
+
+IV. El índice de contenido;
+
+V. Los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia, así como que aseguren la participación ciudadana y vecinal, serán publicados en la Gaceta Municipal y en el Periódico Oficial del Estado; y
+
+VI. Fecha, número de publicación y sección del Periódico Oficial del Estado, en el que aparezcan publicados los ordenamientos, reglamentos y disposiciones municipales señalados en la fracción V que antecede.
+
+Para efectos de la publicación en la Gaceta Municipal de los ordenamientos, reglamentos y demás disposiciones municipales a que se alude en la antes citada fracción V, esta se hará en un término que no exceda de treinta días siguientes a su publicación en el Periódico Oficial del Estado.
+
+Todos aquellos acuerdos y demás disposiciones de carácter administrativo no contemplados en lo dispuesto por el artículo 108 de la Constitución Política del Estado de Campeche y la fracción V del artículo 188-quáter de esta Ley, deberán publicarse en la Gaceta Municipal en un plazo no mayor de 7 día (sic) hábiles.
+
+En la Gaceta Municipal deberá publicarse además, para el conocimiento de los habitantes los planes y programas municipales, toda aquella información u ordenanza que requiera hacerse de conocimiento general por las autoridades municipales, así como reproducirse la información contenida en la página de internet en el apartado de transparencia del municipio correspondiente, en lo relativo a sus ingresos y egresos.
+
 ## TÍTULO OCTAVO. DE LAS SANCIONES Y DEL PROCEDIMIENTO ADMINISTRATIVO
 
 ###### ARTÍCULO 189.
@@ -2066,3 +2100,11 @@ Primero.-El presente decreto entrará el día 1° de julio de 2014, previa su pu
 Segundo.-Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal, en lo que se opongan al contenido de este decreto.
 
 Tercero.-La reelección de presidentes municipales, regidores y síndicos de los Ayuntamientos y los integrantes de las Juntas Municipales, no será aplicable a quienes hayan protestado el cargo y se encuentren en funciones a la entrada en vigor del presente decreto.
+
+P.O. 9 DE DICIEMBRE DE 2015.
+
+PRIMERO.- El presente decreto entrará en vigor el 1° de enero de 2016, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los Ayuntamientos, a partir de la entrada en vigor de este decreto, deberán en un plazo no mayor de sesenta días, emitir el acuerdo para la creación de su Gaceta Municipal y su reglamento respectivo, en el que se incluirá sus características, contenidos y unidad administrativa encargada de su elaboración y seguimiento, de conformidad con sus capacidades presupuestales.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
