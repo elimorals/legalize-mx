@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2015-11-05"
+last_updated: "2015-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 5 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE DICIEMBRE DE 2015.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -851,29 +851,29 @@ Causas de rectificación o modificación de actas
 
 38.- Ha lugar a pedir la rectificación o modificación:
 
-l. (DEROGADA, G.G. 7 DE MAYO DE 2015)
+I. (DEROGADA, G.G. 7 DE MAYO DE 2015)
+
+II. (DEROGADA, G.G. 9 DE DICIEMBRE DE 2015)
 
 > <small>(REFORMADA, G.G. 7 DE MAYO DE 2015)</small>
 
-ll. Para cambiar el sustantivo propio, si una persona demuestra que ha usado invariable y constantemente otro diverso en su vida social y jurídica.
-
-> <small>(REFORMADA, G.G. 7 DE MAYO DE 2015)</small>
-
-lll. En caso de homonimia del sustantivo propio y apellidos, si le causa perjuicio moral o económico.
+III. En caso de homonimia del sustantivo propio y apellidos, si le causa perjuicio moral o económico.
 
 > <small>(ADICIONADA, P.O. 7 DE MAYO DE 2015)</small>
 
-lV. Para corregir algún dato esencial.
+IV. Para corregir algún dato esencial.
 
 > <small>(ADICIONADO, G.G. 25 DE ABRIL DE 2014)</small>
 
 Modificación del sustantivo propio
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 3.
 
-38 Bis.- La modificación o cambio del sustantivo propio registrado, por la afectación a su dignidad humana como consecuencia de la exposición al ridículo, podrá solicitarse ante el o la Oficial del Registro Civil donde está asentada el acta de nacimiento por:
+38 Bis.- La modificación, cambio, ampliación o reducción del sustantivo propio registrado, por la afectación a su dignidad humana como consecuencia de la exposición al ridículo, o por el uso invariable y constante de otro diverso en su vida social y jurídica, sin que se afecten los apellidos, podrá solicitarse ante el o la Oficial del Registro Civil donde está asentada el acta de nacimiento por:
 
-l. La persona interesada, si es mayor de edad;
+I. La persona interesada, si es mayor de edad;
 
 II. Los padres, el padre, la madre o quien ejerza la patria potestad del menor de doce años de edad o del incapaz;
 
@@ -881,7 +881,9 @@ III. La persona menor de dieciocho pero mayor de doce años de edad, con el cons
 
 En caso de que la registrada o el registrado tenga dos o más nombres en el sustantivo propio, sólo surtirá efecto en el sustantivo propio expuesto al ridículo.
 
-La solicitud de modificación o cambio del sustantivo propio registrado por ser expuesto al ridículo será resuelta por el Consejo Dictaminador, en términos de lo dispuesto en los lineamientos que para el efecto emita el Consejo Dictaminador.
+> <small>(REFORMADO, G.G. 9 DE DICIEMBRE DE 2015)</small>
+
+La solicitud de modificación, cambio, ampliación o reducción del sustantivo propio registrado por ser expuesto al ridículo o por el uso invariable y constante de otro diverso en su vida social y jurídica, sin que se afecten los apellidos, será resuelta en un plazo no mayor a treinta días hábiles por el Consejo Dictaminador, en términos de lo dispuesto por los lineamientos que para el efecto se emitan.
 
 De proceder la modificación o cambio del sustantivo propio se tendrá por entendido, para efectos legales, que se trata de la misma persona, lo que se hará constar en el documento que para tal efecto se expida.
 
@@ -893,9 +895,9 @@ Integración del Consejo Dictaminador
 
 38 Ter.- El Consejo Dictaminador será un órgano colegiado que se conformará con la única finalidad de resolver sobre las solicitudes de cambio de sustantivo propio que mediante solicitud expresa se haya formulado en términos del presente Código y demás disposiciones aplicables y estará integrado por las o los titulares de:
 
-l. La Consejería Jurídica del Ejecutivo Estatal, quien lo presidirá;
+I. La Consejería Jurídica del Ejecutivo Estatal, quien lo presidirá;
 
-ll. La Dirección General del Registro Civil con el carácter de Secretaría Técnica.
+II. La Dirección General del Registro Civil con el carácter de Secretaría Técnica.
 
 Y como Vocales:
 
@@ -908,6 +910,10 @@ V. El Colegio de Notarios del Estado de México;
 VI. El Sistema Estatal para el Desarrollo Integral de la Familia del Estado de México;
 
 VII. La Comisión de Derechos Humanos del Estado de México.
+
+> <small>(ADICIONADA, G.G. 9 DE DICIEMBRE DE 2015)</small>
+
+VIII. La Dirección General de Servicios Periciales de la Procuraduría General de Justicia del Estado de México.
 
 Cada integrante designará a su respectivo suplente.
 
@@ -18186,3 +18192,15 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 9 DE DICIEMBRE DE 2015.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- El Consejo Dictaminador en un plazo que no excederá de treinta días hábiles contados a partir de la vigencia del presente Decreto, adecuará los lineamientos correspondientes.
+
+CUARTO.- Los lineamientos que para efecto se expidan deberán considerar los procedimientos necesarios a fin de conocer los Antecedentes Penales de los solicitantes; así como los de informar a las autoridades correspondientes del resultado del dictamen emitido por el Consejo Dictaminador.
+
+QUINTO.- Se derogan las disposiciones de igual o menor jerarquía que se, opongan a lo establecido en el presente Decreto.
