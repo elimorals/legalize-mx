@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-ley-general-de-proteccion-civil-100710"
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-05-13"
-last_updated: "2014-05-13"
+last_updated: "2015-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100710&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-05-12"
 
 REGLAMENTO DE LA LEY GENERAL DE PROTECCIÓN CIVIL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE DICIEMBRE DE 2015.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el martes 13 de mayo de 2014.
 
@@ -249,7 +249,9 @@ Los uniformes de Protección Civil no podrán ser similares a los que utilizan l
 
 La ENAPROC es una instancia administrativa dependiente de la Coordinación Nacional, por conducto del Centro Nacional, con funciones académicas y de certificación de capacidades en materia de Protección Civil y Prevención de Desastres en el marco del Sistema Nacional de Competencias.
 
-La ENAPROC prestará servicios educativos en la modalidad escolarizada, en términos de las disposiciones aplicables y en el marco de las bases de coordinación que suscriban la Secretaría de Educación Pública y la Secretaría. Asimismo, la certificación por estándares se llevará a cabo a través del Fideicomiso de los Sistemas Normalizado de Competencia Laboral y de Certificación de Competencia Laboral.
+> <small>(REFORMADO, D.O.F. 9 DE DICIEMBRE DE 2015)</small>
+
+La ENAPROC prestará servicios educativos en términos de las disposiciones jurídicas aplicables y en el marco de las bases de coordinación que suscriban la Secretaría de Educación Pública y la Secretaría. Asimismo, la certificación por estándares se llevará a cabo a través del Fideicomiso de los Sistemas Normalizado de Competencia Laboral y de Certificación de Competencia Laboral.
 
 ###### Artículo 23.
 
@@ -1186,3 +1188,9 @@ Quinto. El Consejo Nacional de Protección Civil emitirá el Manual de Organizac
 Sexto. Las erogaciones que se generen con motivo de la entrada en vigor del presente Reglamento se realizarán con cargo al presupuesto autorizado para tal fin a las dependencias o entidades de la Administración Pública Federal que correspondan, por lo que no se autorizarán recursos adicionales para el ejercicio fiscal de que se trate.
 
 Dado en la residencia Oficial del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los doce días del mes de mayo de dos mil catorce.- Enrique Peña Nieto.- Rúbrica.- El Secretario de Gobernación: Miguel Ángel Osorio Chong.- Rúbrica.- El Secretario de Relaciones Exteriores, José Antonio Meade Kuribreña.- Rúbrica.- El Secretario de la Defensa Nacional, Salvador Cienfuegos Zepeda.- Rúbrica.- El Secretario de Marina, Vidal Francisco Soberón Sanz.- Rúbrica.- El Secretario de Hacienda y Crédito Público, Luis Videgaray Caso.- Rúbrica.- La Secretaria de Desarrollo Social, Rosario Robles Berlanga.- Rúbrica.- El Secretario de Medio Ambiente y Recursos Naturales, Juan José Guerra Abud.- Rúbrica.- El Secretario de Energía, Pedro Joaquín Coldwell.- Rúbrica.- El Secretario de Economía, Ildefonso Guajardo Villarreal.- Rúbrica.- El Secretario de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación, Enrique Martínez y Martínez.- Rúbrica.- El Secretario de Comunicaciones y Transportes, Gerardo Ruiz Esparza.- Rúbrica.- El Secretario de Educación Pública, Emilio Chuayffet Chemor.- Rúbrica.- La Secretaria de Salud, María de las Mercedes Martha Juan López.- Rúbrica.- El Secretario del Trabajo y Previsión Social, Jesús Alfonso Navarrete Prida.- Rúbrica.- El Secretario de Desarrollo, Agrario, Territorial y Urbano, Jorge Carlos Ramírez Marín.- Rúbrica.- La Secretaria de Turismo, Claudia Ruiz Massieu Salinas.- Rúbrica.- En ausencia del Secretario de la Función Pública, en términos de lo dispuesto por los artículos 18 de la Ley Orgánica de la Administración Pública Federal y 7, fracción XII y 86 del Reglamento Interior de la Secretaría de la Función Pública, el Subsecretario de Responsabilidades Administrativas y Contrataciones Públicas, Julián Alfonso Olivas Ugalde.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 9 DE DICIEMBRE DE 2015.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
