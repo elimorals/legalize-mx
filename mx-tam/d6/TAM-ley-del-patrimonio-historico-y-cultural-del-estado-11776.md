@@ -4,7 +4,7 @@ identifier: "TAM-ley-del-patrimonio-historico-y-cultural-del-estado-11776"
 country: "mx"
 rank: "ley"
 publication_date: "1997-11-26"
-last_updated: "2006-09-06"
+last_updated: "2015-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11776&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "TAM"
 ---
 # LEY DEL PATRIMONIO HISTORICO Y CULTURAL DEL ESTADO
 
-LEY DEL PATRIMONIO HISTORICO Y CULTURAL DEL ESTADO
+LEY DEL PATRIMONIO HISTÓRICO Y CULTURAL DEL ESTADO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 6 DE SEPTIEMBRE DE 2006.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 26 de noviembre de 1997.
 
@@ -89,7 +89,9 @@ Para los efectos de esta Ley se entiende por:
 
 I.- Secretaría: La Secretaría de Desarrollo Social, Cultura y Deporte del Estado;
 
-II.- Zonas protegidas: Las áreas territoriales que el Estado declare que tiene interés en proteger jurídicamente, por su significado histórico o cultural;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+II.- Zonas protegidas: Áreas geográficas que contengan una concentración de inmuebles, sitios o elementos naturales que el Estado declare que tiene interés en proteger jurídicamente, por su significado histórico o cultural, artístico, típico, pintoresco o de belleza natural, para detener, evitar y reparar el deterioro causado por agentes naturales o por el hombre;
 
 III.- Bienes inmuebles: Los bienes inmuebles que se encuentren vinculados a la historia política, social, económica, cultural o religiosa del Estado, o a los personajes relevantes de su historia;
 
@@ -109,7 +111,9 @@ Los bienes muebles que sean el medio de sustento para dicho patrimonio cultural 
 
 Las zonas protegidas son:
 
-I.- Zonas históricas: Las áreas que se encuentren vinculadas históricamente a la vida política, social, económica o cultural del Estado;
+> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+l.- Zonas históricas: Las áreas que se encuentren vinculadas históricamente a la vida política, social, económica, cultural o religiosa del Estado;
 
 II.- Zona de resguardo patrimonial: Los espacios o estructuras, unitarias o fragmentadas y aún parcialmente transformadas durante el tiempo, sobre las cuales el Estado ejercerá las medidas de protección que permitan conservar y preservar sus características;
 
@@ -441,6 +445,12 @@ Los bienes adscritos al patrimonio histórico y cultural no podrán ser exportad
 
 El Gobierno del Estado podrá celebrar convenios con los Gobiernos de otros Estados para asegurar la recuperación de los bienes adscritos al patrimonio histórico y cultural que hubieren salido del territorio tamaulipeco.
 
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+ARTICULO 51 BIS.- Los bienes que hayan sido motivo de declaratoria de adscripción, solamente podrán salir del territorio del Estado por un plazo determinado y con fines de intercambio cultural, mediante autorización expresa de la Secretaría de Desarrollo Social y previo informe de la autoridad competente.
+
+Los traslados de los bienes a que se refiere el párrafo anterior, deben realizarse observando las medidas necesarias para garantizar y salvaguardar su buen estado.
+
 ### CAPITULO X
 
 DE LAS MEDIDAS DE SEGURIDAD.
@@ -592,5 +602,11 @@ UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicaci�
 P.O. 6 DE SEPTIEMBRE DE 2006.
 
 ###### ARTICULO UNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 9 DE DICIEMBRE DE 2015.
+
+###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
