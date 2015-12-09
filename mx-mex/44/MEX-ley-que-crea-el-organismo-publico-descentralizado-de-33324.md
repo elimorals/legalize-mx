@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-organismo-publico-descentralizado-de-33324"
 country: "mx"
 rank: "ley"
 publication_date: "2003-07-15"
-last_updated: "2014-05-14"
+last_updated: "2015-12-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE CARÁCTER ESTATAL DENOMINADO INSTITUTO MEXIQUENSE DE LA PIROTECNIA
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Gaceta del Gobierno, el 15 de julio del 2003.
 
@@ -141,15 +141,17 @@ II. Al Director.
 
 El Consejo Directivo será el órgano máximo del Instituto y estará integrado por:
 
-I. Un Presidente, que será designado por el Gobernador del Estado de México;
+> <small>(REFORMADA, G.G. 9 DE DICIEMBRE DE 2015)</small>
+
+I. Un Presidente, que será el Secretario General de Gobierno.
 
 II. Un Secretario, que será el Director del Instituto Mexiquense de la Pirotecnia;
 
 III. Un Comisario, que será el representante de la Secretaría de la Contraloría;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE DICIEMBRE DE 2015)</small>
 
-IV. Veinte Vocales, que serán:
+IV. Dieciocho vocales, que serán:
 
 > <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
 
@@ -161,25 +163,29 @@ b) (DEROGADO, G.G. 14 DE MAYO DE 2014)
 
 c) Un representante de la Secretaría del Trabajo.
 
-> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, G.G. 9 DE DICIEMBRE DE 2015)</small>
 
-d) Un representante de la Secretaría de Desarrollo Urbano.
+d) Un representante de la Secretaría de Desarrollo Urbano y Metropolitano.
 
 e) Un representante de la Secretaría de Desarrollo Económico.
 
 f) Un representante de la Procuraduría General de Justicia del Estado de México.
 
-> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, G.G. 9 DE DICIEMBRE DE 2015)</small>
 
-g) Un representante de la Secretaría de Seguridad Ciudadana.
+g) Un representante de la Comisión Estatal de Seguridad Ciudadana.
 
-h) El Director General de Protección Civil.
+> <small>(REFORMADA, G.G. 9 DE DICIEMBRE DE 2015)</small>
+
+h) El Coordinador General de Protección Civil del Estado de México.
 
 i) El Director General de Seguridad Pública y Tránsito.
 
-j) El Director General del Instituto de Protección Civil.
+j) (DEROGADO, G.G. 9 DE DICIEMBRE DE 2015)
 
-A invitación del Presidente:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 9 DE DICIEMBRE DE 2015)</small>
+
+A invitación del Presidente.
 
 k) Un representante de la Secretaría de la Defensa Nacional.
 
@@ -189,7 +195,7 @@ m) Cuatro presidentes municipales, en cuyo territorio se desarrolle la actividad
 
 n) Un representante de la Procuraduría General de la República.
 
-ñ) Un representante de la Coordinación General de Protección Civil.
+ñ) (DEROGADO, G.G. 9 DE DICIEMBRE DE 2015)
 
 o) Un representante del Centro de Investigaciones de Seguridad Nacional.
 
@@ -317,6 +323,76 @@ Las relaciones laborales entre el Instituto y sus servidores públicos se regir�
 
 Los servidores públicos del Instituto, quedarán sujetos al régimen de seguridad social del Instituto de Seguridad Social para los Servidores Públicos del Estado y Municipios.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE DICIEMBRE DE 2015)</small>
+
+### CAPITULO QUINTO. DEL REGISTRO ESTATAL PIROTECNICO
+
+> <small>(ADICIONADO, G.G. 9 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 19.
+
+El Registro Estatal de Pirotecnia tiene por objeto integrar la información relacionada con la ubicación de polvorines, de locales temporales y permanentes, así como todo tipo de permiso con que cuente, ya sea general, extraordinario, de vitrina o de transporte.
+
+El Instituto establecerá y operará el Registro Estatal de Pirotecnia con apego a lo que dispone la Ley de Transparencia y Acceso a la Información Pública del Estado de México y sus Municipios.
+
+> <small>(ADICIONADO, G.G. 9 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 20.
+
+El Registro Estatal de Pirotecnia contendrá la siguiente información:
+
+I. Nombre de la persona física o jurídica colectiva.
+
+II. Tipo de permiso.
+
+III. Ubicación del polvorín o local.
+
+IV. Artificio producido, comercializado o transportado.
+
+V. Nivel de riesgo.
+
+VI. Cursos de capacitación.
+
+> <small>(ADICIONADO, G.G. 9 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 21.
+
+Las personas físicas o jurídicas que pretendan establecer un polvorín, un local temporal o permanente, o transportar artificios pirotécnicos, deberán obtener la opinión favorable del Instituto Mexiquense de la Pirotecnia, para lo que deberán presentar ante el Instituto la siguiente documentación:
+
+I. Certificado de conformidad de Seguridad Municipal, debidamente autorizado por el Presidente Municipal o autoridad administrativa designada por el cabildo, para tal efecto.
+
+II. Tratándose de personas físicas, acta de nacimiento e identificación oficial, para personas jurídicas colectivas, acta constitutiva y acreditación de su representante legal, dichos documentos deberán presentarse en original y copia para su cotejo.
+
+III. Para los polvorines pirotécnicos, también denominados talleres, dos cartas de recomendación avaladas por especialistas inscritos en el padrón del Registro Estatal de Pirotecnia, planos de ubicación y construcción a escala de 1:4000, considerando núcleos de población, industrias o vías de comunicación, así como las fotografías correspondientes.
+
+IV. Croquis para el caso de los locales permanentes o temporales.
+
+En caso de tianguis o mercados pirotécnicos, deberán presentar los planos de construcción a escala de 1:4000 considerando distancias de núcleos de población, industrias o vías de comunicación.
+
+Dichos documentos deberán acompañarse de fotografías.
+
+V. Dictamen de seguridad, otorgado por la Coordinación General de Protección Civil.
+
+VI. Título de propiedad, sesión de derechos o instrumento legal que demuestra la posesión legal del inmueble.
+
+> <small>(ADICIONADO, G.G. 9 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 22.
+
+El Instituto dentro de los diez días hábiles siguientes a la entrega de dicha documentación, realizará visita de verificación para constatar el cumplimiento de las medidas de seguridad establecidas.
+
+> <small>(ADICIONADO, G.G. 9 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 23.
+
+El Instituto contará con un término máximo de treinta días hábiles, para expedir la opinión favorable o en caso de negativa el dictamen correspondiente.
+
+> <small>(ADICIONADO, G.G. 9 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 24.
+
+El Registro Estatal de la Pirotecnia, será obligatorio para toda persona física o jurídica colectiva que se dedique o desempeñe cualquier actividad relacionada con la fabricación, uso, venta, transporte, almacenamiento y exhibición de artículos pirotécnicos en el Estado de México. La identificación de los permisionarios pirotécnicos dentro del marco legal, dará certeza a los productores y comerciantes en el desarrollo de sus actividades y en la venta de sus productos. La información respectiva se deberá actualizar anualmente.
+
 ## TRANSITORIOS
 
 PRIMERO.- Publíquese el presente Decreto en el periódico oficial "Gaceta del Gobierno".
@@ -358,3 +434,11 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Cuando en los ordenamientos jurídicos estatales se haga referencia a la Secretaría de Finanzas, Planeación y Administración; de Desarrollo Urbano y Obras Públicas; de Educación, Cultura y Bienestar Social; del Trabajo y de la Previsión Social y, de Ecología, se entenderá, respectivamente, a la Secretaría de Finanzas; de Desarrollo Urbano; de Educación, de Trabajo y, de Medio Ambiente.
+
+G.G. 9 DE DICIEMBRE DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las personas físicas o jurídico colectivas que cuenten con permiso vigente para desempeñar actividades relacionadas con la fabricación, uso, venta, transporte, almacenamiento y exhibición de artículos pirotécnicos, en el Estado de México, contarán con un plazo de un año para inscribirse en el Registro Estatal de Pirotecnia, contado a partir de que éste entre en funcionamiento.
