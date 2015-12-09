@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-del-instituto-electoral-de-quintana-roo-25785"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-08-27"
-last_updated: "2015-11-11"
+last_updated: "2015-12-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25785&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ROO"
 ---
 # LEY ORGANICA DEL INSTITUTO ELECTORAL DE QUINTANA ROO
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE DICIEMBRE DE 2015 EN EL P.O. DEL ESTADO DE QUINTANA ROO , SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE QUINTANA ROO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2015.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 9 DE DICIEMBRE DE 2015.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el martes 27 de agosto de 2002.
 
@@ -139,7 +139,7 @@ El Consejo General del Instituto es el Órgano Superior de Dirección, responsab
 
 ###### Artículo 10.
 
-El Consejo General se integrará con siete Consejeros Electorales con voz y voto, uno de los cuales fungirá como Presidente; concurrirán además, con voz pero sin voto: un representante de cada uno de los partidos políticos y el Secretario General del Instituto.
+EI Consejo General se integrará con siete Consejeros Electorales con voz y voto, uno de los cuales fungirá como Presidente; concurrirán además, con voz pero sin voto: un representante de cada uno de los partidos políticos y el Secretario General del Instituto.
 
 > <small>(REFORMADO, P.O. 9 DE ABRIL DE 2013)</small>
 
@@ -189,7 +189,9 @@ El procedimiento para la designación de los Consejeros Electorales, se sujetar�
 
 El procedimiento para la designación del Contralor Interno, se sujetara al trámite siguiente:
 
-I. La Presidencia de la Mesa Directiva de la Legislatura, o de la Diputación Permanente, en su caso, convocará a los grupos parlamentarios, a presentar hasta dos candidatos para cada cargo a designar, ante la Comisión de Puntos Legislativos;
+> <small>(F. DE E., P.O. 9 DE DICIEMBRE DE 2015)</small>
+
+I. La Presidencia de la Mesa Directiva de la Legislatura, o de la Diputación Permanente, en su caso, convocará a los grupos parlamentarios, a presentar hasta dos candidatos para el cargo a designar, ante la Comisión de Puntos Legislativos;
 
 II. Los grupos parlamentarios presentarán sus propuestas por escrito, anexando a cada una de ellas el currículum vitae con documentación que sustente el mismo; la documentación deberá presentarse en original y copia para compulsa, o bien certificadas. Dichas propuestas deberán realizarse en un término máximo de diez días naturales, contados a partir de la fecha en que fueron notificados;
 
@@ -1591,7 +1593,7 @@ La Contraloría Interna del Instituto es la encargada de la fiscalización, vigi
 
 ###### Artículo 86.
 
-El titular de la Contraloría Interna del Instituto, deberá satisfacer los requisitos siguientes:
+EI titular de la Contraloría Interna del Instituto, deberá satisfacer los requisitos siguientes:
 
 a) Ser mexicano por nacimiento sin tener o adquirir otra nacionalidad, ciudadano quintanarroense, además de estar en pleno goce y ejercicio de sus derechos civiles y políticos;
 
@@ -1603,7 +1605,9 @@ d) Poseer al día de la designación, título y cédula profesional de nivel lic
 
 e) Gozar de buena reputación y no haber sido condenado por delito alguno, salvo que hubiere sido de carácter no intencional o imprudencial;
 
-f) Tener residencia efectiva en el Estado durante los últimos diez años, y hacer (sic) sido vecino en alguno de los Municipios de la Entidad en los cinco años previstos a su designación;
+(F. DE E., P.O. 9 DE DICIEMBRE DE 2015
+
+f) Tener residencia efectiva en el Estado durante los últimos diez años, y haber sido vecino en alguno de los Municipios de la Entidad en los cinco años previstos a su designación;
 
 g) No haber sido registrado como candidato a cargo alguno de elección popular en los últimos diez años anteriores a la designación;
 
