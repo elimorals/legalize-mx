@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-la-atencion-prevencion-y-erradicacion-de-la-15556"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-23"
-last_updated: "2010-06-03"
+last_updated: "2015-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15556&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # LEY PARA LA ATENCION, PREVENCION Y ERRADICACION DE LA VIOLENCIA FAMILIAR -- ANTES LEY PARA LA ASISTENCIA, ATENCION Y PREVENCION DE LA VIOLENCIA INTRAFAMILIAR --
 
-LEY PARA LA ATENCION, PREVENCION Y ERRADICACION DE LA VIOLENCIA FAMILIAR
+LEY PARA LA ATENCIÓN, PREVENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA FAMILIAR
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 3 DE JUNIO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 1999.
 
@@ -81,7 +81,7 @@ DECRETO No. 217
 
 LA HONORABLE SEXAGÉSIMA PRIMERA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE DURANGO, EN USO DE LAS FACULTADES QUE LE CONFIERE EL ARTÍCULO 55 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, A NOMBRE DEL PUEBLO, D E C R E T A:
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 3 DE JUNIO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 3 DE JUNIO DE 2010)</small>
 
 LEY PARA LA ATENCIÓN, PREVENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA FAMILIAR
 
@@ -89,11 +89,11 @@ LEY PARA LA ATENCIÓN, PREVENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA FAMILIAR
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 1.
 
-Las disposiciones contenidas en la presente Ley, son de orden público e interés social y tienen por objeto establecer las bases y procedimientos para la atención, prevención y erradicación de la violencia familiar en el Estado de Durango.
+Las disposiciones contenidas en la presente Ley, son de orden público e interés social y tienen por objeto establecer las bases y procedimientos para la atención, prevención y erradicación de la violencia familiar, conforme a lo estipulado en la Constitución Política del Estado Libre y Soberano de Durango.
 
 ###### ARTÍCULO 2.
 
@@ -135,13 +135,15 @@ d) Violencia económica: Toda acción u omisión del agresor que afecta la indep
 
 e) Violencia sexual: Todo acto que atente contra la libertad, integridad y seguridad sexual de la víctima, así como contra su dignidad al denigrarla y concebirla como un objeto.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 4.
 
-La aplicación de esta Ley estará a cargo del Ejecutivo Estatal a través de sus dependencias y el DIF Estatal; de los Ayuntamientos, por conducto de los Juzgados Administrativos Municipales y los DIF Municipales.
+La aplicación de esta Ley estará a cargo del Ejecutivo Estatal a través de sus dependencias y el DIF Estatal; los Ayuntamientos y los DIF Municipales.
 
 Las demás dependencias, instituciones y organismos públicos y privados, serán auxiliares en la observancia de la presente Ley, conforme a los mecanismos de coordinación que al efecto se establezcan.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
 ## TÍTULO SEGUNDO. DE LOS CONSEJOS ESTATAL Y MUNICIPALES
 
@@ -159,7 +161,7 @@ Se crea el Consejo Estatal para la Atención, Prevención y Erradicación de la 
 
 El Consejo Estatal promoverá la participación de los Ayuntamientos en sus respectivos ámbitos de competencia, estableciendo a su vez los Consejos Municipales para la Atención, Prevención y Erradicación de la Violencia Familiar.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 7.
 
@@ -195,9 +197,9 @@ IX.- El Secretario de Educación;
 
 X.- El Secretario de Seguridad Pública;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
-XI.- El Procurador General de Justicia;
+XI.- El Fiscal General del Estado;
 
 > <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
@@ -217,7 +219,7 @@ A invitación del Presidente del Consejo, podrán participar en sus sesiones, de
 
 En ausencia del Gobernador del Estado, presidirá las sesiones del Consejo Estatal el Secretario general de Gobierno.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 9.
 
@@ -229,7 +231,7 @@ Los acuerdos se tomarán mediante el voto de la mayoría de los miembros present
 
 Por cada miembro del Consejo se designará un suplente, a propuesta del Titular, quien tendrá las facultades de decisión del mismo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 10.
 
@@ -241,7 +243,9 @@ I. Aprobar el programa global para la Atención, Prevención y Erradicación de 
 
 II. Fomentar y fortalecer la coordinación, colaboración e información entre las instituciones que lo integran;
 
-III. Conocer y evaluar semestralmente en las sesiones ordinarias respectivas, los logros y avances del programa global, así como recibir el informe anual que presentará la Secretaría Ejecutiva a que hace referencia el artículo 13 de esta ley, haciendo las observaciones y recomendaciones necesarias;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+III. Conocer y evaluar semestralmente en las sesiones ordinarias respectivas, los logros y avances del programa global, así como recibir el informe anual que presentará la Secretaría Ejecutiva a que hace referencia el artículo 13 fracción IX de esta ley, haciendo las observaciones y recomendaciones necesarias;
 
 IV. Analizar y aprobar el establecimiento de los lineamientos administrativos y técnicos y de los modelos de atención más adecuados para esta problemática;
 
@@ -283,11 +287,11 @@ XIII. Promover el intercambio de información a nivel nacional e internacional s
 
 XIV. Las demás que sean necesarias para el cumplimiento de los fines de esta ley.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
 ### CAPÍTULO II. DE LA PRESIDENCIA DEL CONSEJO ESTATAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 11.
 
@@ -303,7 +307,7 @@ II. Citar a sesiones; y
 
 III. Establecer las bases para el sistema de registro de la información estadística sobre violencia familiar.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
 ### CAPÍTULO III. DE LA SECRETARÍA EJECUTIVA DEL CONSEJO ESTATAL
 
@@ -315,7 +319,7 @@ El Consejo Estatal, tendrá una Secretaría Ejecutiva, cuyo titular será en el 
 
 La Secretaría Ejecutiva deberá contar con un equipo técnico de apoyo, integrado por expertos con reconocida trayectoria en la materia y nombrados por el propio Consejo, también podrá designar los coordinadores que se requieran para la ejecución de sus resoluciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 13.
 
@@ -365,11 +369,11 @@ X. Organizar cursos y talleres de capacitación para los servidores públicos a 
 
 XI. Las demás que se deriven de éste u otros ordenamientos aplicables o le encomiende el Consejo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
 ### CAPÍTULO IV. DEL CONSEJO MUNICIPAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 14.
 
@@ -405,7 +409,7 @@ VII. Los Jueces Administrativos.
 
 Podrán participar en las sesiones del Consejo Municipal, organismos sociales, organizaciones no gubernamentales y dependencias y entidades estatales y federales o expertos reconocidos en la materia de atención, prevención y erradicación a la violencia familiar, quienes tendrán sólo derecho a voz.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 15.
 
@@ -463,11 +467,11 @@ XIV. Colaborar con las autoridades municipales en la elaboración de los bandos 
 
 XV. Las demás que sean necesarias para el cumplimiento de los fines de esta ley.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
 ### CAPÍTULO V. DE LA PRESIDENCIA DEL CONSEJO MUNICIPAL
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTÍCULO 16.
 
@@ -483,7 +487,7 @@ III. Llevar un registro de la información estadística sobre violencia familiar
 
 IV. Recibir mensualmente un informe del juzgado administrativo.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
 ### CAPÍTULO VI. DE LA SECRETARÍA EJECUTIVA DEL CONSEJO MUNICIPAL
 
@@ -529,15 +533,15 @@ II. Promover la capacitación y sensibilización de los procuradores, a efecto d
 
 III. Las demás que determine el Consejo Estatal.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+## TÍTULO CUARTO. DE LA ATENCIÓN
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO ÚNICO. DE LA DISTRIBUCIÓN DE COMPETENCIAS
+
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2010)</small>
-
-## TÍTULO CUARTO. DEL PROCEDIMIENTO
-
-> <small>(F. DE E., P.O. 6 DE ABRIL DE 2000)</small>
-
-### CAPÍTULO I. DE LA ASISTENCIA Y ATENCIÓN
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE JUNIO DE 2010)</small>
 
 ###### ARTÍCULO 22.
 
@@ -609,35 +613,59 @@ VIII. Establecer programas de desarrollo humano dirigidos a generadores y recept
 
 IX. Promover programas de protección social para las víctimas de violencia familiar.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 24.
 
-Compete a la Procuraduría General de Justicia en el Estado:
+Compete a la Fiscalía General del Estado:
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2010)</small>
 
 I. Contar con las agencias especializadas del Ministerio Público necesarias en la atención de la violencia familiar, integradas por personal capacitado y sensibilizado en la materia;
 
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2010)</small>
+
 II. Brindar asistencia integral a las víctimas de violencia familiar, derivando a las instancias competentes, debiendo realizar los exámenes necesarios para determinar las alteraciones a la integridad física o daño psicológico que sufra la víctima;
 
-III. Derivar a las personas que así lo requieran, a las instituciones competentes, cuando de la averiguación previa derivada de una denuncia o querella por violencia familiar se determine que no hay delito que perseguir;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+III. Canalizar a las personas que así lo requieran, a las instituciones competentes, derivada de la averiguación previa, de una denuncia o querella por violencia familiar, aún y cuando haya o no delito que perseguir;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2010)</small>
 
 IV. Organizar campañas de prevención de la violencia familiar, y promover acciones de protección social a las víctimas;
 
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2010)</small>
+
 V. Otorgar protección jurídica a las personas que resulten víctimas de violencia familiar;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2010)</small>
 
 VI. Certificar las lesiones y dictaminar el daño psicológico de la víctima; independientemente del procedimiento que se vaya a seguir;
 
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2010)</small>
+
 VII. Dictar a través del Ministerio Público, las medidas provisionales a fin de proteger los derechos de las víctimas de violencia familiar;
 
-VIII. Incluir en su programa de formación policiaca, cursos de capacitación para la prevención de la violencia familiar; y (sic)
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+VIII. Incluir en su programa de formación policiaca, cursos de capacitación para la prevención de la violencia familiar, así como asistir a los cursos o talleres que organice la Secretaría Ejecutiva del Consejo Estatal;
+
+> <small>(REFORMADA, P.O. 3 DE JUNIO DE 2010)</small>
 
 IX. Canalizar a las víctimas de delitos de violencia familiar a las instituciones que corresponda;
 
-XI (SIC). Promover la creación y funcionamiento de albergues temporales para víctimas de violencia familiar y garantizar su seguridad personal;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
-XII. Solicitar los dictámenes psicológicos sobre los rasgos del agresor que sea imputado por el delito de violencia familiar; y
+X. Promover la creación y funcionamiento de albergues temporales para víctimas de violencia familiar y garantizar su seguridad personal;
 
-XIII. Las demás que acuerde el Concejo Estatal.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+XI. Solicitar los dictámenes psicológicos sobre los rasgos del agresor que sea imputado por el delito de violencia familiar; y
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+XII. Las demás que acuerde el Consejo Estatal.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 2010)</small>
 
@@ -649,7 +677,7 @@ I. Prestar servicios de atención, asesoría jurídica, psicológica y social a 
 
 II. Coadyuvar y coordinar a las instancias competentes en las acciones y programas de asistencia, atención y prevención de la violencia familiar, realizando diversas acciones encaminadas a sensibilizar a la población;
 
-III. Capacitar al personal operativo para detectar, atender y canalizar a los agresores y víctimas de la violencia familiar, impulsando la formación de promotores comunitarios, cuya función básica será difundir los programas de prevención de la violencia familiar en comunidades alejadas; y (sic)
+III. Capacitar al personal operativo para detectar, atender y canalizar a los agresores y víctimas de la violencia familiar, impulsando la formación de promotores comunitarios, cuya función básica será difundir los programas de prevención de la violencia familiar en comunidades alejadas; y
 
 IV. Promover la instalación de centros de protección y asistencia a las víctimas de violencia familiar, apoyando y revisando el servicio y atención proporcionada por las casas hogar de asistencia privada; y
 
@@ -667,25 +695,27 @@ II. Promoverá y vigilará la observancia de los derechos de las víctimas de vi
 
 III. Promover la capacitación a las autoridades competentes y población en general, en lo referente a los derechos humanos que tienen los agresores y las víctimas de violencia familiar.
 
+## TÍTULO QUINTO. DEL PROCEDIMIENTO
+
 > <small>(F. DE E., P.O. 6 DE ABRIL DE 2000)</small>
 
-### CAPÍTULO II. DEL PROCEDIMIENTO DE CONCILIACIÓN Y DE ARBITRAJE
+### CAPÍTULO I. DE LA ASISTENCIA Y ATENCIÓN
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 27.
 
-La asistencia y atención especializada que se proporcione en materia de violencia familiar por cualquier institución privada o perteneciente a la administración pública u organización no gubernamental, tenderá a la protección de las víctimas de violencia familiar, así como a la reeducación respecto al agresor.
+La asistencia y atención especializada que se proporcione en materia de violencia familiar por cualquier institución privada o perteneciente a la administración pública estatal y municipal u organización no gubernamental, tenderá a la protección de las víctimas de violencia familiar, así como a la reeducación respecto al agresor.
 
 Asimismo, estará libre de prejuicios de género, raza, condición socioeconómica, religión o credo, nacionalidad o de cualquier otro tipo, y no contará entre sus criterios con patrones estereotipados de comportamiento o prácticas sociales y culturales, basadas en conceptos de inferioridad o de subordinación.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 28.
 
-La atención a los agresores se basará en modelos psicoterapéuticos reeducativos tendientes a disminuir y, de ser posible, a erradicar las conductas de violencia.
+La asistencia a los agresores se basará en modelos psicoterapéuticos reeducativos tendientes a disminuir y, de ser posible, a erradicar las conductas de violencia.
 
-Esta asistencia y atención se hará en instituciones públicas cuando exista sentencia ejecutoriada por el delito de violencia familiar o sentencia ejecutoriada en materia familiar relacionada con la violencia familiar, a solicitud de la autoridad jurisdiccional de acuerdo con las facultades que tiene conferidas el juez penal o familiar.
+Esta asistencia y atención se hará en instituciones públicas cuando exista sentencia ejecutoriada por el delito de violencia familiar, la cual designará y ordenará la autoridad jurisdiccional de conformidad con las facultades que le confiere la ley.
 
 ###### ARTÍCULO 29.
 
@@ -731,7 +761,7 @@ X. Llevar las Estadísticas de los casos presentados ante el juzgado administrat
 
 Los Juzgados Administrativos podrán solicitar a la Procuraduría General de Justicia, sin perjuicio de las atribuciones de ésta, certificado de lesiones y daño psicológico causados por actos de violencia familiar.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JUNIO DE 2010)</small>
 
 ###### ARTÍCULO 31.
 
@@ -777,7 +807,9 @@ Los trabajadores de los servicios de salud en establecimientos públicos o priva
 
 Los órganos jurisdiccionales, a través de sus titulares, una vez que conozcan de juicios en dónde se desprenda que existe violencia familiar, podrán solicitar a los Juzgados Administrativos, o en su caso, a las instituciones que conocieron de estos hechos, los informes, estudios, valoraciones psicológicas y médicas, así como dictámenes realizados a los agresores y a las víctimas de la violencia familiar, que le sean de utilidad para la resolución del juicio.
 
-### CAPÍTULO III. INFRACCIONES Y SANCIONES
+### CAPÍTULO II. DEL PROCEDIMIENTO DE CONCILIACIÓN Y DE ARBITRAJE
+
+> <small>(REFORMADO, P.O. 3 DE JUNIO DE 2010)</small>
 
 ###### ARTÍCULO 35.
 
@@ -845,9 +877,7 @@ III. Una vez admitidas y desahogadas las pruebas, se recibirán los alegatos ver
 
 Cuando alguna de las partes incumpla con las obligaciones y deberes establecidos en los convenios o en la resolución del Juez Administrativo, en los términos previstos en el Código de Procedimientos Civiles para el Estado de Durango, sin necesidad de homologación, la contraparte podrá acudir ante la autoridad jurisdiccional respectiva para su ejecución, independientemente de la sanción administrativa que se aplique.
 
-### CAPÍTULO IV
-
-DE LOS MEDIOS DE DEFENSA.
+### CAPÍTULO III. INFRACCIONES Y SANCIONES
 
 ###### ARTÍCULO 45.
 
@@ -875,7 +905,11 @@ II.- Arresto administrativo inconmutable hasta por 36 horas.
 
 La reincidencia se sancionará con arresto administrativo inconmutable por 36 horas.
 
-###### ARTICULO 48.
+### CAPÍTULO IV
+
+DE LOS MEDIOS DE DEFENSA.
+
+###### ARTÍCULO 48.
 
 Contra las resoluciones y la imposición de las sanciones que establece esta Ley, procederá el recurso de revisión, el cual se interpondrá en los términos de los ordenamientos legales aplicables.
 
@@ -903,7 +937,7 @@ DADO EN EL PALACIO DEL PODER EJECUTIVO, EN VICTORIA DE DURANGO, DGO., A LOS NUEV
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- LIC. ÁNGEL SERGIO GUERRERO MIER. EL SECRETARIO GENERAL DE GOBIERNO.- LIC. JOSÉ MIGUEL CASTRO CARRILLO. RÚBRICAS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 25 DE DICIEMBRE DE 2005.
 
@@ -916,3 +950,15 @@ P.O. 3 DE JUNIO DE 2010.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al contenido del presente decreto.
+
+P.O. 10 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 464.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY PARA LA ATENCIÓN, PREVENCIÓN Y ERRADICACIÓN DE LA VIOLENCIA FAMILIAR".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
