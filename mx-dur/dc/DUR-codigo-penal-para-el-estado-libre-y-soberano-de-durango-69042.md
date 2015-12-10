@@ -4,7 +4,7 @@ identifier: "DUR-codigo-penal-para-el-estado-libre-y-soberano-de-durango-69042"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-06-14"
-last_updated: "2015-06-11"
+last_updated: "2015-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69042&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -29,7 +29,7 @@ NOTA 2. DE CONFORMIDAD CON LOS ARTÍCULOS SEGUNDO Y TRANSITORIO PRIMERO DEL DECR
 
 NOTA 3. DE CONFORMIDAD CON LA FRACCIÓN I DEL ARTÍCULO PRIMERO, ARTÍCULOS SEGUNDO Y PRIMERO TRANSITORIO DEL DECRETO NÚMERO 326 POR EL QUE SE ADOPTA EL SISTEMA PENAL ACUSATORIO Y ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN LOS DISTRITOS JUDICIALES DEL ESTADO DE DURANGO Y REFORMADO MEDIANTE DECRETO NÚMERO 361 PUBLICADO EN EL P.O. DE 11 DE JUNIO DE 2015, QUEDA ABROGADO EL TÍTULO DÉCIMO PRIMERO DEL CÓDIGO PROCESAL PENAL DEL ESTADO DE DURANGO, EN LOS DISTRITOS JUDICIALES DEL ESTADO; EN EL CUARTO, QUINTO, SEXTO, SÉPTIMO, OCTAVO, NOVENO, DÉCIMO, DÉCIMO PRIMER, DÉCIMO SEGUNDO Y DÉCIMO TERCER, INTEGRADOS DE LA SIGUIENTE MANERA: CUARTO DISTRITO: SANTIAGO PAPASQUIARO COMO RESIDENCIA; COMPRENDE LOS MUNICIPIOS DE SANTIAGO PAPASQUIARO, TEPEHUANES, GUANACEVÍ Y OTÁEZ; QUINTO DISTRITO: CANATLÁN COMO RESIDENCIA; COMPRENDE LOS MUNICIPIOS DE CANTATLÁN Y NUEVO IDEAL; SEXTO DISTRITO; EL SALTO COMO RESIDENCIA; COMPRENDE LOS MUNICIPIOS DE PUEBLO NUEVO Y SAN DIMAS CON EXCEPCIÓN DE LAS POBLACIONES DE TAYOLTITA, SAN DIMAS, RAFAEL BUELNA, GUARIZAMEY Y CARBONERAS DE ESTE ÚLTIMO MUNICIPIO; SÉPTIMO DISTRITO: TOPIA COMO RESIDENCIA; COMPRENDE LOS MUNICIPIOS DE TOPIA, TAMAZULA Y CANELAS; OCTAVO DISTRITO: GUADALUPE VICTORIA COMO RESIDENCIA; COMPRENDE LOS MUNICIPIOS DE GUADALUPE VICTORIA Y PÁNUCO DE CORONADO; NOVENO DISTRITO: CUENCAMÉ COMO RESIDENCIA; COMPRENDE LOS MUNICIPIOS DE CUENCAMÉ, PEÑÓN BLANCO, SANTA CLARA, SAN JUAN DE GUADALUPE Y SIMÓN BOLÍVAR; DÉCIMO DISTRITO: NAZAS COMO RESIDENCIA; COMPRENDE LOS MUNICIPIOS DE NAZAS, SAN LUIS DEL CORDERO Y SAN PEDRO DEL GALLO; DÉCIMO PRIMER DISTRITO: SAN JUAN DEL RÍO COMO RESIDENCIA; COMPRENDE LOS MUNICIPIOS DE SAN JUAN DEL RÍO, RODEO Y CONETO DE COMONFORT; DÉCIMO SEGUNDO DISTRITO: SANTA MARÍA DEL ORO COMO RESIDENCIA; COMPRENDE LOS MUNICIPIOS DE EL ORO, INDÉ, OCAMPO, SAN BERNARDO E HIDALGO, Y DÉCIMO TERCER DISTRITO: NOMBRE DE DIOS COMO RESIDENCIA; COMPRENDE LOS MUNICIPIOS DE NOMBRE DE DIOS, SÚCHIL, POANAS Y VICENTE GUERRERO, A PARTIR DE LAS CERO HORAS DEL DÍA 7 DE MAYO DE 2015.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 14 de junio de 2009.
 
@@ -2263,7 +2263,7 @@ A quien después de lesionar a una persona, culposa o fortuitamente, no le prest
 
 Al que exponga en una institución o ante cualquier otra persona a un incapaz de valerse por sí mismo, respecto del cual tenga la obligación de cuidar o se encuentre legalmente a su cargo, se le impondrá de tres meses a un año de prisión y multa de dieciocho a setenta y dos días de salario.
 
-Los ascendientes o tutores que entreguen en una casa de expósitos a un menor: de dos años que esté bajo su potestad o custodia, perderán por ese sólo hecho los derechos que tengan sobre la persona y bienes del expósito.
+Los ascendientes o tutores que entreguen en una casa de expósitos a un menor de doce años que esté bajo su potestad o custodia, perderán por ese sólo hecho los derechos que tengan sobre la persona y bienes del expósito.
 
 No se impondrá pena alguna a la madre que entregue a su hijo o hijos a otras personas para su cuidado, manutención y educación por ignorancia, extrema pobreza o por otras razones que así lo justifiquen.
 
@@ -2301,7 +2301,7 @@ V. De seis a doce años de prisión y multa de cuatrocientos treinta y dos a och
 
 Las penas señaladas en el artículo anterior, se aumentarán de tres a diez años de prisión y multa de doscientos dieciséis a setecientos veinte días de salario, si el robo se realiza en las circunstancias siguientes:
 
-I. Con violencia contra la víctima o persona distinta que se halle en compañía de ella o cuando el sujeto la ejerza después de consumado el robo, para proporcionarse la fuga o defender lo robado o mediante la portación o el uso de armas;
+I. Con violencia contra la víctima o persona distinta que se halle en compañía de ella o cuando el sujeto activo la ejerza después de consumado el robo, para proporcionarse la fuga o defender lo robado o mediante la portación o el uso de armas;
 
 II. En lugar cerrado, en edificio, vivienda, aposento o cuartos que estén habitados o destinados para habitación, comprendiendo no sólo los que están fijos en la tierra, sino también los móviles sea cual fuere el materia (sic) del que estén construidos;
 
@@ -3469,11 +3469,13 @@ Igual pena se impondrá al otro contrayente si obrare con conocimiento del vínc
 
 Se impondrá hasta la mitad de las penas previstas en el artículo anterior, a los testigos y a las personas que intervengan en la celebración del nuevo matrimonio, a sabiendas de la vigencia legal del anterior. Igual pena se impondrá a quiénes ejerzan la patria potestad o la tutela que, a sabiendas de la existencia de ese impedimento, dieron su consentimiento para la celebración del nuevo matrimonio.
 
+> <small>(DEROGADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
 ### CAPÍTULO II. DISCRIMINACIÓN
 
 ###### Artículo 296.
 
-Se impondrá de tres meses a tres años de prisión y multa de dieciocho a doscientos dieciséis días de salario, privación de derechos civiles hasta por seis años, a la persona casada que en el domicilio conyugal o con escándalo, tenga cópula con otra que no sea su cónyuge y a la que con ella lo tenga, sabiendo que es casada.
+(DEROGADO, P.O. 10 DE DICIEMBRE DE 2015)
 
 SUBTÍTULO NOVENO
 
@@ -5018,3 +5020,13 @@ P.O. 11 DE JUNIO DE 2015.
 PRIMERO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se derogan todas aquellas disposiciones que contravengan a lo estipulado por el presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 450.- QUE CONTIENE REFORMAS AL CÓDIGO PENAL DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al siguiente día de su Publicación.
+
+SEGUNDO.- Publíquese en el Periódico Oficial del Gobierno del Estado de Durango.
+
+TERCERO.- Se deroga toda aquella disposición jurídica que se oponga al presente decreto.
