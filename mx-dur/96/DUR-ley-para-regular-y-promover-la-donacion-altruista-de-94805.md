@@ -4,7 +4,7 @@ identifier: "DUR-ley-para-regular-y-promover-la-donacion-altruista-de-94805"
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-19"
-last_updated: "2013-05-19"
+last_updated: "2015-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY PARA REGULAR Y PROMOVER LA DONACIÓN ALTRUISTA DE ALIMENTOS PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 19 de mayo de 2013.
 
@@ -45,9 +45,11 @@ LEY PARA REGULAR Y PROMOVER LA DONACIÓN ALTRUISTA DE ALIMENTOS PARA EL ESTADO D
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público e interés social y tiene por objeto promover las acciones altruistas y regular las donaciones de alimentos susceptibles para consumo humano, con el fin de coadyuvar a la satisfacción de las necesidades básicas de la población económicamente más vulnerable del Estado de Durango.
+La presente Ley es de orden público e interés social y tiene por objeto promover las acciones altruistas y regular las donaciones de alimentos susceptibles para consumo humano, con el fin de coadyuvar a la satisfacción de las necesidades básicas de la población económicamente más vulnerables, en los términos de los artículos 21 y 32 de la Constitución Política del Estado Libre y Soberano de Durango.
 
 ###### ARTÍCULO 2.
 
@@ -226,3 +228,17 @@ C.P. JORGE HERRERA CALDERA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 PROFR. JAIME FERNANDEZ SARACHO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 462.- QUE CONTIENE REFORMA AL ARTICULO 1 DE LA LEY PARA REGULAR Y PROMOVER LA DONACIÓN ALTRUISTA DE ALIMENTOS PARA EL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
