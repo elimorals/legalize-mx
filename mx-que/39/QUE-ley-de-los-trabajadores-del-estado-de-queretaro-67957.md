@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-los-trabajadores-del-estado-de-queretaro-67957"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-20"
-last_updated: "2015-10-02"
+last_updated: "2015-12-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 20 de marzo de 2009.
 
@@ -41,9 +41,11 @@ LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO
 
 ### Capítulo Único. Disposiciones generales
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de observancia general para todos los servidores públicos de las dependencias que integran el Gobierno del Estado, considerando a los Poderes Ejecutivo, Legislativo y Judicial, órganos con autonomía constitucional, Municipios, empresas de participación estatal y organismos descentralizados del Estado o de los Municipios y los trabajadores al servicio de estas instituciones.
+La presente Ley es de observancia general en el Estado de Querétaro y rige las relaciones laborales para todos los trabajadores de los siguientes entes públicos: los Poderes Ejecutivo, Legislativo y Judicial, órganos con autonomía constitucional, municipios, entidades de la Administración Pública Paraestatal del Estado y las correspondientes de los municipios.
 
 ###### Artículo 2.
 
@@ -1043,29 +1045,57 @@ Los pagos a que se refieren los párrafos anteriores, se realizarán a partir de
 
 El tiempo que dure la prejubilación o prepensión por vejez no se computara para efectos de antigüedad del trabajador. Cuando ocurra el supuesto establecido en el artículo 151 de la presente Ley, se computará excepcionalmente, sólo que la no aprobación se dé por causas imputables a la entidad donde prestó los servicios.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 130.
 
-La Legislatura del Estado se avocará a resolver sobre solicitudes de pensión o jubilación conforme a lo establecido en la presente Ley y demás normatividad aplicable. Cuando se acredite que el trabajador no cumple con los requisitos de ley será rechazada la solicitud respectiva.
+La Legislatura del Estado, por conducto del Pleno, resolverá sobre solicitudes de pensión o jubilación conforme a lo establecido en la presente Ley y demás normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 131.
 
-La edad y el parentesco de los trabajadores con sus familiares se acreditará en los términos de la legislación civil vigente.
+La edad y el parentesco de los trabajadores con sus familiares, se acreditarán en los términos de la legislación vigente.
 
-El Tribunal podrá ordenar en cualquier tiempo la verificación y autenticidad de los documentos y la justificación de los hechos que puedan servir de base para conceder una pensión. Cuando se descubriere que son falsos, el Tribunal de Conciliación y Arbitraje, con audiencia, hará la rectificación correspondiente.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 132.
 
-Cuando un trabajador a quien se haya otorgado una jubilación o pensión siga en servicio, tendrá derecho a que se le pague la remuneración que corresponda al servicio que desempeñe, suspendiéndole en tanto los efectos de pago de su pensión.
+Cuando un trabajador a quien se haya otorgado una jubilación o pensión regrese al servicio, tendrá derecho a que se le pague la remuneración que corresponda al servicio que desempeñe, suspendiéndole en tanto los efectos de pago de su pensión o jubilación, la cual se renovará en sus términos cuando vuelva a separarse del cargo, empleo o comisión que suspendió el pago de su pensión o jubilación.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 132 Bis.
+
+Para efecto de garantizar la veracidad y transparencia de la información del trabajador que solicite, en términos de esta ley, su pensión o jubilación, se establece el Registro de Antigüedad Laboral, que estará a cargo de la Oficialía Mayor o equivalente de cada uno de los entes públicos y el cual contendrá, entre otra información, la relacionada con el sueldo, antigüedad y puesto, por cada ente público en el que haya laborado el trabajador solicitante.
+
+Los titulares de las oficialías mayores o equivalentes de los entes públicos, estarán obligados a compartir entre sí, la información del Registro de Antigüedad Laboral a su cargo, y a expedir, bajo su más estricta responsabilidad, las constancias que le sean solicitados por los entes públicos.
+
+Para proceder a enviar el expediente de petición de jubilación o pensión a la Legislatura, se deberá cumplir con el procedimiento siguiente:
+
+I. El trabajador deberá presentar su solicitud de pensión o jubilación ante la Oficialía Mayor o su equivalente del ente público ante el cual realice su trámite.
+
+II. La Oficialía Mayor o su equivalente del ente público que corresponda, deberá integrar el expediente con la solicitud y demás documentación con que cuente en sus archivos, y en el Registro de Antigüedad Laboral, relacionada con dicho trabajador.
+
+III. Integrado el expediente, el titular de la Oficialía Mayor o su equivalente del ente público que corresponda, bajo su absoluta responsabilidad, una vez comprobado que el trabajador cumple con todos los requisitos de esta Ley para acceder a su pensión o jubilación, emitirá dictamen favorable el cual formará parte del expediente que se remitirá a la Legislatura para que ésta, en términos de la presente Ley, emita el Decreto correspondiente.
+
+Para el caso de que el trabajador no cumpla con los requisitos para que se le conceda la pensión, la Oficialía Mayor o su equivalente del ente público que corresponda, rechazará la solicitud respectiva al trabajador. En este caso, se le informará al trabajador.
+
+IV. Previo al dictamen definitivo, la Legislatura emitirá un proyecto de dictamen que contenga, con base en la información que contiene el Registro de Antigüedad Laboral, entre otra, como mínimo, el nombre del trabajador, su antigüedad, el salario base de la pensión, los entes públicos y periodos en los cuales prestó sus servicios. Este proyecto deberá publicarse en la página de Internet de la Legislatura, por un periodo no menor de quince días naturales, a efecto de que cualquier persona física o moral que tenga observaciones al mismo, por escrito las haga del conocimiento de la Legislatura y se proceda a su análisis correspondiente.
+
+V. La Legislatura una vez realizado el estudio de las observaciones a que se hace referencia en la fracción anterior, o si no hubo observaciones planteadas sobre el proyecto de dictamen, emitirá el dictamen definitivo, fundado y motivado.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 133.
 
-Si algún trabajador hubiere acumulado los años requeridos para obtener su jubilación o pensión tendrá derecho a que se le otorgue, correspondiendo la obligación de pago a la última entidad en la que prestó sus servicios.
+Si algún trabajador hubiere acumulado los años requeridos para obtener su jubilación o pensión, tendrá derecho a que se le otorgue, correspondiendo la obligación de pago al último ente público en el que prestó sus servicios.
 
-> <small>(REFORMADO, P.O. 2 DE MARZO DE 2012)</small>
+(NOTA: EL 23 DE FEBRERO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 138/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-Sin excepción, para efectos de jubilación o pensión, el tiempo trabajado en dos o más dependencias, durante un mismo periodo, no será acumulable, por lo tanto, se computará como una sola antigüedad. En el caso del tiempo laborado en periodos diferentes, en dos o más dependencias, se computarán para los mismos efectos, en la última dependencia.
+PARA EFECTOS DEL PÁRRAFO ANTERIOR, SÓLO SE COMPUTARÁN LOS AÑOS DE SERVICIO LABORADOS EN EL ENTE PÚBLICO EN EL QUE SE TRAMITE O SOLICITE LA JUBILACIÓN, SIEMPRE Y CUANDO SE ACREDITE QUE AL MENOS EL CINCUENTA POR CIENTO DEL PERIODO DE ANTIGÜEDAD QUE MANIFIESTE EN SU SOLICITUD, SE HAYA LABORADO EN DICHO ENTE PÚBLICO. EL PODER EJECUTIVO DEL ESTADO Y SUS ORGANISMOS DESCENTRALIZADOS SE CONSIDERARÁN COMO EL MISMO ENTE PÚBLICO. NO QUEDAN COMPRENDIDOS ENTRE DICHOS ORGANISMOS DESCENTRALIZADOS, LA COMISIÓN ESTATAL DE AGUAS NI LA UNIVERSIDAD AUTÓNOMA DE QUERÉTARO.
 
-Los trabajadores no están obligados a tramitar su pensión o jubilación, aún habiendo cumplido con los requisitos establecidos en la presente Ley, por lo que podrán seguir prestando sus servicios hasta en tanto decidan realizar el trámite en forma voluntaria.
+Los trabajadores no están obligados a tramitar su pensión o jubilación, aun habiendo cumplido con los requisitos establecidos en la presente Ley, por lo que podrán seguir prestando sus servicios hasta en tanto decidan realizar el trámite en forma voluntaria.
 
 ###### Artículo 134.
 
@@ -1077,13 +1107,21 @@ Los trabajadores están exentos de toda cotización en lo referente a jubilació
 
 ### Capítulo Segundo. De la jubilación
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 136.
 
-Tienen derecho a la jubilación los trabajadores con treinta años de servicios, en los términos de esta Ley, cualquiera que sea su edad.
+Tienen derecho a la jubilación los trabajadores con treinta años de servicios, en los términos de esta Ley, una vez cumplidos sesenta años de edad.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 137.
 
-La jubilación dará derecho al pago de una cantidad equivalente al ciento por ciento del sueldo y su percepción comenzará a partir del día siguiente a aquel en que el trabajador haya disfrutado el último sueldo por haber solicitado su baja en el servicio.
+La jubilación dará derecho al pago de una cantidad equivalente al promedio de la cantidad percibida como sueldo en los sesenta meses anteriores a la fecha que ésta se conceda y su percepción comenzará a partir del día siguiente a aquel en que el trabajador haya disfrutado el último sueldo por haber solicitado su baja en el servicio.
+
+Para efectos del promedio a que se refiere el párrafo anterior, sólo se computarán los sesenta meses laborados en el ente público en el que se tramite o solicite la jubilación, siempre y cuando se acredite que al menos el cincuenta por ciento del periodo de antigüedad que manifieste en su solicitud, se haya laborado en dicho ente público.
+
+El monto máximo de la jubilación posible será el equivalente a cuarenta y dos mil pesos mensuales.
 
 ###### Artículo 138.
 
@@ -1101,9 +1139,11 @@ Tienen derecho a la pensión por vejez los trabajadores que habiendo cumplido se
 
 Toda fracción de más de seis meses de servicios se considerará como año completo para los efectos del otorgamiento de la pensión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 141.
 
-El monto de la pensión por vejez se calculará aplicando al sueldo que percibe, los porcentajes que especifica la tabla siguiente:
+El monto de la pensión por vejez se calculará aplicando al promedio de la cantidad percibida como sueldo en los cinco últimos años anteriores a la fecha que ésta se conceda, los porcentajes que especifica la tabla siguiente:
 
 I. 20 años de servicios 53%;
 
@@ -1187,9 +1227,11 @@ En el supuesto establecido en el presente artículo, los beneficiarios, de acuer
 
 ### Capítulo Quinto. Del trámite de la jubilación y pensiones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 147.
 
-Cuando se reúnan los requisitos para obtener los derechos de la jubilación, pensión por vejez o pensión por muerte, para iniciar los trámites correspondientes el titular del área de Recursos Humanos u Órgano Administrativo equivalente, deberá integrar el expediente con los siguientes documentos:
+Cuando se reúnan los requisitos para obtener los derechos de la jubilación, pensión por vejez o pensión por muerte, para iniciar los trámites correspondientes (sic) la Oficialía Mayor o equivalente del ente público que corresponda, deberá integrar el expediente con los siguientes documentos:
 
 I. Jubilación y pensión por vejez:
 
@@ -1263,9 +1305,11 @@ h) Para el caso de que el beneficiario del trabajador sea el concubino o concubi
 
 i) Para el caso de los beneficiarios de trabajadores de los Municipios, copia certificada del acuerdo de cabildo mediante el cual se le reconoce como beneficiario y se aprueba iniciar el trámite de la pensión por muerte.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 148.
 
-El titular de recursos humanos u órgano administrativo deberá verificar que el trabajador o beneficiarios reúnan los requisitos para solicitar el otorgamiento de la jubilación, pensión por vejez o pensión por muerte.
+La Oficialía Mayor o equivalente del ente público que corresponda, deberá verificar que el trabajador o beneficiarios reúnan los requisitos para solicitar el otorgamiento de la jubilación, pensión por vejez o pensión por muerte.
 
 > <small>(REFORMADO, P.O. 2 DE MARZO DE 2012)</small>
 
@@ -1279,29 +1323,43 @@ Una vez otorgada la prejubilación o prepensión por vejez o prepensión por mue
 
 En el supuesto de la negativa del otorgamiento de la prejubilación o de la prepension, los funcionarios referidos en el párrafo anterior, según el caso, emitirán acuerdo en el que funden y motiven la causa de la misma, el cual deberá ser notificado, en un plazo no mayor de diez días hábiles, al trabajador o beneficiario de la pensión por muerte.
 
-> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
-Si el titular de recursos humanos o el órgano administrativo correspondiente no hubiera remitido a la Legislatura el expediente dentro del plazo a que se refiere este artículo, el trabajador que haya iniciado el trámite de jubilación o de pensión por vejez o el beneficiario de la pensión por muerte, podrá presentar escrito mediante el cual la ponga en conocimiento del hecho, para que, en su caso, a través de la Comisión que corresponda, requiera un informe o señale el plazo dentro del cual la autoridad estatal deberá remitirle el expediente. Cuando la omisión sea atribuible a autoridades municipales, la Comisión podrá solicitar un informe respecto del asunto y derivado del mismo, puede solicitar que el expediente le sea remitido, siempre y cuando ya hubiese sido integrado.
+Si el titular de la Oficialía Mayor o equivalente del ente público que corresponda no hubiera remitido a la Legislatura el expediente dentro del plazo a que se refiere este artículo, el trabajador que haya iniciado el trámite de jubilación o de pensión por vejez o el beneficiario de la pensión por muerte, podrá presentar escrito ante la Legislatura del Estado mediante el cual la ponga en conocimiento del hecho, para que, en su caso, requiera un informe o señale el plazo dentro del cual el ente público deberá remitirle el expediente.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 149.
 
-El titular de recursos humanos u órgano administrativo, podrán citar al trabajador o beneficiarios para aclaraciones o bien solicitar toda la información que se requiera.
+La Oficialía Mayor o equivalente del ente público que corresponda, podrán citar al trabajador o beneficiarios para aclaraciones o bien solicitar toda la información que se requiera.
 
-> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 149 Bis.
 
-Cuando de la revisión del expediente a que se refiere este Capítulo, se desprenda la falta de información o de documentos para dar trámite a las jubilaciones y pensiones, previo a la emisión del Dictamen correspondiente, la Legislatura del Estado, a través de la Comisión que corresponda, podrá requerir su entrega a la autoridad estatal omisa.
+Cuando de la revisión del expediente a que se refiere este Capítulo, se desprenda la falta de información o de documentos para dar trámite a las jubilaciones y pensiones, la Legislatura del Estado, podrá requerir su entrega al ente público omiso.
+
+> <small>(ADICIONADO, P.O. 2 DE MARZO DE 2012)</small>
 
 Los titulares de recursos humanos o de los órganos administrativos estatales que incumplan lo dispuesto por este Capítulo, podrán ser sancionados conforme a lo dispuesto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 150.
 
-Una vez que la Legislatura del Estado haya resuelto de manera favorable el otorgamiento de la jubilación, pensión por vejez o pensión por muerte, se publicará el decreto correspondiente en el Periódico Oficial del Gobierno del Estado, "La Sombra de Arteaga", para que surta sus efectos de notificación al trabajador, beneficiarios y del área encargada de realizar el pago de la jubilación, pensión por vejez o pensión por muerte, según el caso, así como de todas y cada una de las prestaciones que con motivo de la terminación de la relación laboral se deriven.
+Una vez que la Legislatura del Estado, en Pleno, haya resuelto de manera favorable el otorgamiento de la jubilación, pensión por vejez o pensión por muerte, se publicará el decreto correspondiente en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga", para que surta sus efectos de notificación al trabajador, beneficiarios y del área encargada de realizar el pago de la jubilación, pensión por vejez o pensión por muerte, según el caso, así como de todas y cada una de las prestaciones que con motivo de la terminación de la relación laboral se deriven.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 150 Bis.
+
+La Legislatura, a petición motivada, justificada y fundada de la Oficialía Mayor o equivalente del ente público que corresponda, que soporte su petición, podrá entrar al estudio y dictamen que corresponda, respecto de un decreto previamente emitido por dicho Poder, en el que se haya autorizado una pensión o jubilación, a efecto de su ratificación, modificación o revocación. La resolución que se emita, será a través de un decreto, el cual será notificado al trabajador y a la Oficialía Mayor o equivalente del ente público que corresponda.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 151.
 
-Cuando la Legislatura no apruebe la jubilación o pensión por vejez, emitirá acuerdo correspondiente, notificándolo en un plazo no mayor de diez días hábiles al Titular de Recursos Humanos u órgano administrativo, para que el trabajador se reintegre a sus labores hasta solucionar el impedimento, quedando sin efectos la licencia prejubilatoria, restableciéndose íntegramente la relación jurídico laboral para los fines de esta Ley, debiendo notificar además a los interesados.
+Cuando el Pleno de la Legislatura no apruebe la jubilación o pensión por vejez, emitirá acuerdo correspondiente, notificándolo en un plazo no mayor de diez días hábiles al titular de la Oficialía Mayor o equivalente del ente público que corresponda, para que el trabajador se reintegre a sus labores hasta solucionar el impedimento, quedando sin efectos la licencia prejubilatoria, restableciéndose íntegramente la relación jurídico laboral para los fines de esta Ley, debiendo notificar además a los interesados.
 
 ## Título Décimo Primero. De las prescripciones
 
@@ -1764,3 +1822,11 @@ P.O. 2 DE OCTUBRE DE 2015.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 10 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+Artículo Segundo. Remítase la presente Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
