@@ -4,7 +4,7 @@ identifier: "DUR-ley-estatal-para-la-integracion-social-de-las-personas-con-2312
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-23"
-last_updated: "2014-02-16"
+last_updated: "2015-12-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23121&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY ESTATAL PARA LA INTEGRACIÓN SOCIAL DE LAS PERSONAS CON DISCAPACIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 23 de diciembre de 2001.
 
@@ -61,79 +61,167 @@ LEY ESTATAL PARA LA INTEGRACIÓN SOCIAL DE LAS PERSONAS CON DISCAPACIDAD
 
 Disposiciones Generales.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social y sus disposiciones son de observancia obligatoria en todo el territorio del Estado de Durango, y tiene como finalidad normar las medidas y acciones que contribuyan a lograr la equiparación de oportunidades para el desarrollo y la integración social de las personas con discapacidad, así como la implementación de mecanismos encaminados a prevenir la aparición de deficiencias físicas, mentales y sensoriales.
+La presente Ley es de orden público e interés social, reglamentaria del artículo 36 de la Constitución Política del Estado Libre y Soberano de Durango; tiene por objeto promover, proteger y asegurar el pleno ejercicio de los derechos humanos y libertades fundamentales de las personas con discapacidad, que les permitan en un marco de respeto, igualdad y equiparación de oportunidades, su inclusión en todos los ámbitos de la vida; así como la implementación de mecanismos encaminados a prevenir la aparición de deficiencias físicas, mentales y sensoriales.
 
 ###### Artículo 2.
 
 Para los efectos de la presente Ley se entenderá por:
 
-I. Discapacidad.- Deficiencia física, mental o sensorial ya de naturaleza permanente o temporal, que limita la capacidad de ejercer una o mas actividades esenciales de la vida diaria, que puede ser causada o agravada por el entorno económico y social;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
-II. Persona con discapacidad.- Ser humano que presenta de manera temporal o permanentemente una disminución en sus facultades físicas, intelectuales o sensoriales que le limitan realizar una actividad considerada como normal.
+I. Accesibilidad.- Las medidas pertinentes para asegurar el acceso de las personas con discapacidad, en igualdad de condiciones con las demás, al entorno físico, el transporte, la información y las comunicaciones, incluidos los sistemas y las tecnologías de la información y las comunicaciones, y a otros servicios e instalaciones abiertos al público o de uso público, tanto en zonas urbanas como rurales;
 
-III. Discriminación contra las personas con discapacidad.- Toda distinción exclusiva o restricción basada en una condición de discapacidad, consecuencia de discapacidad anterior o percepción de una discapacidad presente o pasada, que tenga el efecto o propósito de impedir o anular en reconocimiento, goce o ejercicio por parte de las personas con discapacidad, de sus derechos humanos y libertades fundamentales;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
-IV. Discapacidad auditiva.- A la pérdida auditiva en relación a la lesión del oído medio o interno o bien a la patología retrococlear en la cual se puede presentar hipoacusia reversible o no;
+II. Asistencia Social.- Conjunto de acciones tendientes a modificar y mejorar las circunstancias de carácter social que impidan el desarrollo integral del individuo, así como la protección física, mental y social de personas en estado de necesidad, indefensión, desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva;
 
-V. Discapacidad intelectual.- Al impedimento permanente en las funciones mentales consecuencia de una alteración prenatal, perinatal o postnatal que Iimita a la persona en forma permanente para establecer niveles de aprendizaje acordes a su edad cronológica e implica diversos niveles de conciencia e inteligencia. Esta alteración limita al sujeto a realizar actividades necesarias para su conducta adaptativa al medio familiar, social, escolar o laboral;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
-VI. Discapacidad neuromotora.- A la secuela de una afección en el sistema nervioso central periférico o ambos, que afecta el sistema músculo esquelético;
+III. Ayudas técnicas.- Aquellos elementos tecnológicos que ayudan o mejoran la movilidad, comunicación, funcionalidad y vida cotidiana de las personas con discapacidad, apoyando su autonomía e integración;
 
-VII. Discapacidad visual.- A la agudeza visual corregida en el mejor de los ojos igual o menor de 20/200 o cuyo campo visual es menor de 20°;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
-VIII. Debilidad visual.- A la incapacidad de la función visual después del tratamiento médico o quirúrgico. Cuya agudeza visual con su mejor corrección convencional sea de 20/60 a percepción de luz, o un campo visual menor a 10° pero que la visión baste para la ejecución de sus tareas;
+IV. Actividades de la vida diaria.- Al conjunto de acciones que realiza todo ser humano para satisfacer sus necesidades básicas;
 
-IX. Prevención de discapacidad.- La adopción de medidas y acciones encaminadas a evitar la aparición y estructuración de deficiencias físicas, mentales o sensoriales en el ser humano;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
-X. Rehabilitación.- Conjunto de medidas encaminadas a mejorar la capacidad de una persona para realizar por si misma, actividades necesarias para su desempeño físico, mental, social, ocupacional y económico, por medio de órtesis, prótesis, ayudas funcionales, cirugía reconstructiva o cualquier otro procedimiento que le permita integrarse a la sociedad;
+V. Barreras físicas.- Todos aquellos obstáculos que dificultan, entorpecen o impiden a las personas con discapacidad, su libre desplazamiento e interacción en lugares públicos o privados, exteriores, interiores o el uso de los servicios que presta la comunidad;
 
-XI. Equiparación de oportunidades.- Proceso mediante el cual, el medio físico, la información, la documentación, la vivienda, el transporte, los servicios sociales y sanitarios, la educación, la capacitación y el empleo, la vida cultural y social, incluidas las instalaciones deportivas y de recreo se hacen accesibles para todos;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
-XII. Igualdad de oportunidades.- Principio que reconoce la importancia de las diversas necesidades del individuo, las cuales deben constituir la base de la planificación de la sociedad con el fin de asegurar el empleo de los recursos para garantizar que las personas disfruten de iguales oportunidades de acceso y participación en idénticas circunstancias:
+VI. Comisión Estatal Coordinadora.- A la Comisión Estatal Coordinadora para el
 
-XIII. Ayudas técnicas.- Aquellos elementos tecnológicos que ayudan o mejoran la movilidad, comunicación, funcionalidad y vida cotidiana de las personas con discapacidad, apoyando su autonomía e integración;
+Desarrollo y la Integración Social de las Personas con Discapacidad. Órgano articulador y coadyuvante en la ejecución y cumplimiento de políticas públicas, programas y acciones encaminados a lograr el desarrollo y la integración social de las personas con discapacidad, así como de la vigilancia en el cumplimiento de la presente Ley;
 
-XIV. Barreras físicas.- Todos aquellos obstáculos que dificultan, entorpecen o impiden a las personas con discapacidad, su libre desplazamiento e interacción en lugares públicos o privados, exteriores, interiores o el uso de los servicios que presta la comunidad;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
-XV. Trabajo protegido.- Aquel que realizan las personas con discapacidad que tienen un grado tal de limitación en sus capacidades que les impide cubrir los requerimientos mínimos de inserción laboral, por lo que requiere de la tutela de la familia, sector público y privado para su desempeño;
+VII. Comunicación.- Se entenderá el lenguaje escrito, oral y la lengua de señas mexicana, la visualización de textos, sistema Braille, la comunicación táctil, los macrotipos, los dispositivos multimedia escritos o auditivos de fácil acceso, el lenguaje sencillo, los medios de voz digitalizada y otros modos, medios, sistemas y formatos aumentativos o alternativos de comunicación, incluida la tecnología de la información y las comunicaciones de fácil acceso;
 
-XVI. Necesidad educativa especial.- Necesidad de una persona derivada de su capacidad o de sus dificultades de aprendizaje;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
-XVII. Estimulación temprana.- Proceso que se utiliza precoz y oportunamente para activar la función motora y sensorial aplicadas en niños con factores de riesgo o evidencia de daño neurológico;
+VIII. Comunidad de Sordos.- Todo aquel grupo social cuyos miembros tienen alguna deficiencia del sentido auditivo que les limita sostener una comunicación y socialización regular y fluida en lengua oral;
 
-XVIII. Actividades de la vida diaria.- al conjunto de acciones que realiza todo ser humano para satisfacer sus necesidades básicas;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
-XIX. Vía pública.- Lugar por donde se puede transitar;
+IX. Debilidad Visual.- A la incapacidad de la función visual después del tratamiento médico o quirúrgico. Cuya agudeza visual con su mejor corrección convencional sea de 20/60 a percepción de luz, o un campo visual menor a 10° pero que la visión baste para la ejecución de sus tareas;
 
-XX. Norma Oficial.- A la Norma Oficial Mexicana para la atención integral a personas con discapacidad;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
-XXI. Organización de y para Personas con Discapacidad.- Figura asociativa constituida legalmente para salvaguardar los derechos de las personas con discapacidad y que buscan facilitar la participación de las personas en las decisiones relacionadas con el diseño, aplicación y evaluación de programas para el desarrollo e integración social de las personas con discapacidad;
+X. DIF.- Al Sistema Estatal para el Desarrollo Integral de la Familia;
 
-XXII. Comisión Estatal Coordinadora.- A la Comisión Estatal Coordinadora para el Desarrollo y la Integración Social de las Personas con Discapacidad, órgano articulador y coadyuvante en la ejecución y cumplimiento de políticas públicas, programas y acciones encaminados a lograr el desarrollo y la integración social de las personas con discapacidad, así como de la vigilancia en el cumplimiento de la presente Ley; y
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
-XXIII. DIF.- Al Sistema Estatal para el Desarrollo Integral de la Familia,
+XI. Discapacidad.- Deficiencia física, mental o sensorial ya de naturaleza permanente o temporal, que limita la capacidad de ejercer una o más actividades esenciales de la vida diaria, que puede ser causada o agravada por el entorno económico y social;
 
-> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
-XXIV. DIF.- Al Sistema Estatal para el Desarrollo Integral de la Familia (sic);
+XII. Discapacidad auditiva.- A la pérdida auditiva en relación a la lesión del oído medio o interno o bien a la patología retrococlear en la cual se puede presentar hipoacusia reversible o no;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
-XXV. Ley.- A la Ley Estatal para la Integración Social de las Personas con Discapacidad; y
+XIII. Discapacidad intelectual.- Al impedimento permanente en las funciones mentales consecuencia de una alteración prenatal, perinatal o postnatal que limita a la persona en forma permanente para establecer niveles de aprendizaje acordes a su edad cronológica e implica diversos niveles de conciencia e inteligencia. Esta alteración limita al sujeto a realizar actividades necesarias para su conducta adaptativa al medio familiar, social, escolar o laboral;
 
-> <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
-XXVI. Permiso temporal.- Es el documento de identificación que expiden las direcciones municipales de vialidad o las dependencias equivalentes de los Ayuntamientos, a los automovilistas que de manera temporal presenten una discapacidad parcial o total y a las personas con discapacidad, que sin ser propietarios o poseedores de un vehículo automotor, sean transportados por automovilistas que no cuenten con placas para discapacitados; (sic)
+XIV. Discapacidad neuromotora.- A la secuela de una afección en el sistema nervioso central, periférico o ambos, que afecta el sistema músculo esquelético;
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2007)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+XV. Discapacidad visual.- A la agudeza visual corregida en el mejor de los ojos igual o menor de 20/200 o cuyo campo visual es menor de 20°;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+XVI. Discriminación contra las personas con discapacidad.- Toda distinción exclusiva o restricción basada en una condición de discapacidad, consecuencia de discapacidad anterior o percepción de una discapacidad presente o pasada, que tenga el efecto o propósito de impedir o anular en reconocimiento, goce o ejercicio por parte de las personas con discapacidad, de sus derechos humanos y libertades fundamentales;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+XVII. Diseño universal. Se entenderá el diseño de productos, entornos, programas y servicios que puedan utilizar todas las personas, en la mayor medida posible, sin necesidad de adaptación ni diseño especializado. No se excluirán las ayudas técnicas para grupos particulares de personas con discapacidad, cuando se necesiten;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+XVIII. Educación inclusiva y especial.- Conjunto de servicios, programas, orientación y recursos educativos especializados, que deberán incluirse en el Sistema Educativo Estatal, para asegurar la atención de las distintas discapacidades, que favorezcan el desarrollo, la inclusión, la adquisición de habilidades y el fortalecimiento de destrezas o capacidades de la infancia y personas con discapacidad, incluidas las comunidades indígenas y rurales;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+XIX. Equiparación de oportunidades.- Proceso mediante el cual, el medio físico, la información, la documentación, la vivienda, el transporte, los servicios sociales y sanitarios, la educación, la capacitación y el empleo, la vida cultural y social, incluidas las instalaciones deportivas y de recreo se hacen accesibles para todos;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+XX. Estimulación temprana.- Proceso que se utiliza precoz y oportunamente para activar la función motora y sensorial aplicada en niños con factores de riesgo o evidencia de daño neurológico;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+XXI. Igualdad de oportunidades.- Principio que reconoce la importancia de las diversas necesidades del individuo, las cuales deben constituir la base de la planificación de la sociedad con el fin de asegurar el empleo de los recursos para garantizar que las personas disfruten de iguales oportunidades de acceso y participación en idénticas circunstancias;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+XXII. Lenguaje.- Se entenderá tanto el lenguaje oral como la lengua de señas y otras formas de comunicación no verbal;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+XXIII. Lengua de Señas Mexicana.- Lengua de una comunidad de sordos, que consiste en una serie de signos gestuales articulados con las manos y acompañados de expresiones faciales, mirada intencional y movimiento corporal, dotados de función lingüística, forma parte del patrimonio lingüístico de dicha comunidad y es tan rica y compleja en gramática y vocabulario como cualquier lengua oral;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+XXIV. Ley.- A la Ley Estatal para la Integración Social de las Personas con Discapacidad;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+XXV. Necesidad educativa especial.- Necesidad de una persona derivada de su capacidad o de sus dificultades de aprendizaje;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+XXVI. Norma Oficial.- A la Norma Oficial Mexicana para la atención integral a personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+XXVII. Organización de y para Personas con Discapacidad.- Figura asociativa constituida legalmente para salvaguardar los derechos de las personas con discapacidad y que buscan facilitar la participación de las personas en las decisiones relacionadas con el diseño, aplicación y evaluación de programas para el desarrollo e integración social de las personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+XXVIII. Persona con discapacidad.- Ser humano que presenta de manera temporal o permanentemente una disminución en sus facultades físicas, intelectuales o sensoriales que le limitan realizar una actividad considerada como normal;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+XXIX. Política Pública.- Todos aquellos planes, programas o acciones que la autoridad desarrolle para asegurar los derechos establecidos en la presente Ley;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+XXX. Prevención de discapacidad.- La adopción de medidas y acciones encaminadas a evitar la aparición y estructuración de deficiencias físicas, mentales o sensoriales en el ser humano;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+XXXI. Rehabilitación.- Conjunto de medidas encaminadas a mejorar la capacidad de una persona para realizar por sí misma, actividades necesarias para su desempeño físico, mental, social, ocupacional y económico, por medio de órtesis, prótesis, ayudas funcionales, cirugía reconstructiva o cualquier otro procedimiento que le permita integrarse a la sociedad;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+XXXII. Trabajo protegido.- Aquel que realizan las personas con discapacidad que tienen un grado tal de limitación en sus capacidades que les impide cubrir los requerimientos mínimos de inserción laboral. Por lo que requiere de la tutela de la familia, sector público y privado para su desempeño;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+XXXIII. Transversalidad.- Es el proceso mediante el cual se instrumentan las políticas, programas y acciones, desarrollados por las dependencias y entidades de la administración pública, que proveen bienes y servicios a la población con discapacidad con un propósito común, y basados en un esquema de acción y coordinación de esfuerzos y recursos en tres dimensiones: vertical, horizontal y de fondo;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+XXXIV. Vía pública.- Lugar por donde se puede transitar.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 3.
 
-Corresponde al Ejecutivo del Estado, a través de sus dependencias y entidades, la aplicación de la presente Ley.
+Corresponde al Ejecutivo del Estado, a través de sus dependencias y entidades, la aplicación de la presente Ley; y es de observancia obligatoria a las dependencias de la administración pública estatal, entidades paraestatales, órganos desconcentrados, descentralizados, autónomos, judiciales, personas físicas, personas morales y el Consejo, en el ámbito de sus respectivas competencias, así como a los gobiernos de los municipios, en los términos de los convenios que se celebren.
 
-###### Artículo 4.
+A la Comisión Estatal de los Derechos Humanos le corresponde la aplicación de esta ley, en los términos de su Reglamento Interior así como en los términos de la Convención sobre los Derechos de las Personas con Discapacidad y su Protocolo Facultativo.
+
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+###### Articulo 4.
+
+Los derechos que establece la presente ley serán reconocidos a todas las personas con discapacidad, sin discriminación por origen étnico o nacional, género, edad, condición social, jurídica o económica, condiciones de salud, religión, opiniones, preferencias, estado civil, apariencia física, características genéticas, diversidad sexual, embarazo, identidad o filiación política, lengua, situación migratoria o cualquiera otra que atente contra su dignidad, derechos o libertades.
 
 Son autoridades encargadas de observar la aplicación de la presente Ley de acuerdo a su competencia:
 
@@ -163,9 +251,9 @@ VIII. Secretaría de Desarrollo Social;
 
 IX. Tribunal Superior de Justicia del Estado;
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
-X. Procuraduría General de Justicia del Estado;
+X. Fiscalía General del Estado;
 
 > <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
 
@@ -187,9 +275,9 @@ XIV. Instituto de la Cultura del Estado de Durango;
 
 XV. Comité de Planeación para el Desarrollo del Estado;
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
-XVI. Dirección de Trabajo y Previsión Social;
+XVI. Secretaría del Trabajo y Previsión Social
 
 > <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
 
@@ -199,9 +287,9 @@ XVII. Dirección de Transportes del Gobierno del Estado;
 
 XVIII. Comisión Estatal de Derechos Humanos del Estado de Durango;
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
-XIX. Dirección de Turismo y Cinematografía;
+XIX. Secretaría de Turismo.
 
 > <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
 
@@ -223,25 +311,73 @@ XXIII. Instituto de Desarrollo Urbano; y
 
 XXIV. Delegaciones, Dependencias, Entidades y cualquier otra autoridad del Gobierno Federal, quienes coadyuvarán en la medida que lo permita su normatividad.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+Artículo 4 bis.- Se implementarán políticas públicas por parte de las autoridades encargadas de observar la presente Ley, cuyos principios serán los siguientes:
+
+I. La equidad;
+
+II. La justicia social;
+
+III. La igualdad de oportunidades;
+
+IV. El respeto a la evolución de sus facultades y su derecho a preservar su identidad;
+
+V. El respeto de la dignidad inherente, la autonomía individual, incluida la libertad de tomar las propias decisiones y la independencia de las personas;
+
+VI. La participación e inclusión plenas y efectivas en la sociedad;
+
+VII. El respeto por la diferencia y la aceptación de la discapacidad como parte de la diversidad y la condición humana;
+
+VIII. La accesibilidad;
+
+IX. La no discriminación;
+
+X. La igualdad entre mujeres y hombres con discapacidad;
+
+XI. La transversalidad; y
+
+XII. Los demás que resulten aplicables.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 5.
+
+Los derechos de las personas con discapacidad son los que consagran la Constitución Política de los Estados Unidos Mexicanos, las leyes que de ella emanan y los Tratados Internacionales firmados y ratificados por el Estado Mexicano.
+
+De manera enunciativa y no limitativa, esta Ley reconoce a las personas con discapacidad sus derechos humanos y mandata el establecimiento de las políticas públicas necesarias para su ejercicio.
 
 Son derechos que la Ley reconoce y protege en favor de las personas con discapacidad los siguientes:
 
-I. Recibir educación en sus diferentes modalidades libre de barreras didácticas, psicológicas, políticas, sociales, culturales o de comunicación;
+I. Recibir educación en todos sus niveles y en sus diferentes modalidades libre de barreras didácticas, psicológicas, políticas, sociales, culturales o de comunicación;
 
-II. Igualdad de oportunidades laborales de acuerdo a su perfil profesional, técnico, capacidades, aptitudes, habilidades y destrezas, en equiparación de oportunidades;
+II. Igualdad de oportunidades laborales de acuerdo a su perfil profesional, técnico, capacidades, aptitudes, habilidades y destrezas, en equiparación de oportunidades, en un entorno abierto, inclusivo y accesible para las personas con discapacidad;
 
-III. Acceso a la rehabilitación laboral y oportunidades de capacitación para el trabajo; que los equipare en oportunidades para su incorporación a la vida productiva;
+III. Acceso a la rehabilitación laboral y oportunidades de capacitación para el trabajo, que los equipare en oportunidades para su incorporación a la vida productiva;
 
-IV. Desplazarse libremente y con seguridad en los espacios públicos, abiertos o cerrados; así como tener las facilidades necesarias de acceso y desplazamiento libre de obstáculos en la vía pública, centros de reunión, instalaciones comerciales, culturales, deportivas, recreativas y turísticas;
+IV. Desplazarse libremente, con la mayor independencia posible y con seguridad en los espacios públicos, abiertos o cerrados; así como tener las facilidades necesarias de acceso y desplazamiento libre de obstáculos en la vía pública, centros de reunión, instalaciones comerciales, culturales, deportivas, recreativas y turísticas;
 
 V. Igualdad y equiparación en las oportunidades en el uso de los servicios públicos y los que presta la comunidad;
 
-VI. Contar con el apoyo y ayuda necesaria por parte de quienes prestan atención al público en instituciones públicas y privadas;
+VI. Gozar de un trato preferente y contar con la ayuda necesaria por parte de quienes prestan atención al público en instituciones públicas y privadas.
 
-VII. Asociarse con la finalidad de contribuir a su desarrollo e integración social, y
+VII. Asociarse con la finalidad de contribuir a su desarrollo e integración social;
 
-VIII. Facilidades de accesibilidad para ejercer sus derechos político electorales.
+VIII. Facilidades de accesibilidad para ejercer y gozar de sus derechos político electorales en igualdad de condiciones que los demás a fin de garantizar su derecho a votar y ser votados;
+
+IX. A gozar del más alto nivel posible de salud, rehabilitación y habilitación sin discriminación por motivos de discapacidad;
+
+X. Al acceso al transporte, los sistemas y las tecnologías de la información y las comunicaciones, particularmente aquellas que contribuyan a su independencia y desarrollo integral;
+
+XI. A la participación en la vida cultural, actividades recreativas y el deporte;
+
+XII. Podrán obtener descuentos en los servicios públicos y exenciones fiscales;
+
+XIII. A ejercer el derecho a la libertad de expresión y opinión, incluida la libertad de recabar, recibir y facilitar información e ideas en igualdad de condiciones con las demás y mediante cualquier forma de comunicación que elijan;
+
+XIV. Acceso a la justicia en igualdad de condiciones respecto a los demás, en todas las etapas de los distintos procedimientos; y
+
+XV. Respecto del hogar y la familia, se tomarán las medidas para que dichas cuestiones relacionadas con el matrimonio, la familia, la paternidad y relaciones personales se logren en igualdad de condiciones.
 
 ###### Artículo 6.
 
@@ -251,7 +387,9 @@ Las Personas con discapacidad, al igual que cualquier ciudadano, tienen la oblig
 
 Son facultades y obligaciones del Ejecutivo Estatal las siguientes:
 
-I. Definir las políticas que garanticen la equidad de los derechos de las personas con discapacidad;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+l. Definir las políticas que garanticen la equidad de los derechos de las personas con discapacidad conforme a las obligaciones derivadas de los tratados internacionales de derechos humanos, definiendo medidas legislativas y administrativas, para hacer efectivos los derechos de las personas con discapacidad;
 
 II. Adoptar las medidas de carácter social, educativo, laboral o de cualquier índole necesarias para eliminar la discriminación contra las personas con discapacidad y propiciar su plena integración a la sociedad;
 
@@ -325,17 +463,81 @@ XVI. Las demás que el Ejecutivo Estatal considere necesarias.
 
 De la Comisión Estatal Coordinadora para el Desarrollo y la Integración Social de las Personas con Discapacidad.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 8.
 
-El Ejecutivo del Estado constituirá un Organismo Interinstitucional de la administración estatal, denominado Comisión Estatal Coordinadora para el Desarrollo y la Integración Social de las Personas con Discapacidad en Durango.
+El Ejecutivo del Estado constituirá un Organismo lnterinstitucional de la administración estatal, denominado Comisión Estatal Coordinadora para el Desarrollo y la Integración Social de las Personas con Discapacidad en Durango y que formará parte del Organismo Nacional creado para tal efecto y que será conformado de la siguiente manera:
+
+I.- Un Presidente, que será el Gobernador Constitucional del Estado;
+
+II.- El Director General del Sistema Estatal para el Desarrollo Integral de la Familia;
+
+III.- Un Secretario Ejecutivo que será nombrado por el Ejecutivo del Estado a sugerencia de los representantes de las distintas discapacidades;
+
+IV.- Un Secretario Técnico que será el Secretario de Salud y Director General de los Servicios de Salud en el Estado,
+
+V. Dos Representantes del Consejo Consultivo que serán integrados a sugerencia de éste;
+
+VI.- Vocales que serán los titulares de:
+
+a).- Secretaría General de Gobierno;
+
+b).- Secretaria de Educación Cultura y Deporte;
+
+c).- Secretaría de Seguridad Pública;
+
+d).- Secretaría de Desarrollo Social;
+
+e).- Secretaria de Agricultura, Ganadería y Desarrollo Rural;
+
+f).- Secretaría del Trabajo y Previsión Social;
+
+g).- Secretaría de Turismo;
+
+h).- Fiscalía General del Estado;
+
+i).- Sistema Estatal para el Desarrollo Integral de la Familia;
+
+j).- Instituto de la Mujer Duranguense;
+
+k).- Instituto Duranguense de la Juventud; y
+
+l).- Comisión Estatal de Derechos Humanos
+
+m).- Previa invitación del Gobernador Constitucional del Estado, los treinta y nueve Presidentes de los Municipios del Estado;
+
+n).- Previa invitación del Vicepresidente, los titulares de las Delegaciones Federales en el Estado de las Secretarías de Educación, Desarrollo Social, Trabajo, Procuraduría General de la República, Instituto Mexicano del Seguro Social y del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; y, conforme al contenido de los programas y asuntos a abordar, los titulares de otras dependencias o instancias públicas, instituciones académicas en el Estado, e integrantes de la sociedad invitados por el Vicepresidente.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 9.
 
-La Comisión Estatal Coordinadora coadyuvará con el Ejecutivo en la elaboración, ejecución y evaluación del Programa Estatal para la Integración Social de las Personas con Discapacidad, cuyo propósito será garantizar el pleno respeto y ejercicio de los derechos humanos, políticos y sociales, la igualdad de oportunidades y la equidad en el acceso a los servicios de salud, educación, empleo, capacitación y readaptación laboral, cultura, recreación y deporte a las personas con discapacidad; así mismo que el transporte e infraestructura urbana les permita la movilidad, libre tránsito, uso y acceso con seguridad a los espacios públicos y privados.
+La Comisión Estatal Coordinadora observará las facultades, atribuciones y lineamientos establecidos por el Organismo Nacional creado para tal efecto, además coadyuvará con el Ejecutivo en la elaboración, ejecución y evaluación del Programa Estatal para la Integración Social de las Personas con Discapacidad, cuyo propósito será garantizar el pleno respeto y ejercicio de los derechos humanos, políticos y sociales, la igualdad de oportunidades y la equidad en el acceso a los servicios de salud, educación, empleo, capacitación y readaptación laboral, cultura, recreación y deporte a las personas con discapacidad; así mismo que el transporte e infraestructura urbana les permita la movilidad, libre tránsito, uso y acceso con seguridad a los espacios públicos y privados.
 
 ###### Artículo 10.
 
 La Comisión Estatal Coordinadora articulará las acciones que realizan diversas instituciones, organismos y dependencias en los ámbitos político, económico y social para lograr el desarrollo humano y la integración a la sociedad de las personas con discapacidad, orientando dichas acciones en el marco de una amplia coordinación y concertación interinstitucional; además promoverá y apoyará el fortalecimiento de proyectos y programas que impulsen el desarrollo y la superación de los grupos con discapacidad, a fin de potencializar y sumar esfuerzos recursos y voluntades para la promoción de una nueva cultura de respeto, dignidad y tolerancia hacia las personas con discapacidad.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 10 Bis.
+
+La Comisión Estatal Coordinadora, en concordancia con el Organismo Nacional, implementará el Programa estatal para el Desarrollo e Inclusión de las Personas con Discapacidad, deberá cumplir con los siguientes lineamientos generales:
+
+I. El programa se deberá elaborar, revisar, modificar o ratificar y publicar en el Periódico Oficial del Gobierno del Estado en el primer trimestre del año;
+
+II. Contar con el consenso y aprobación del Ejecutivo del Estado y del Consejo Consultivo;
+
+III. La Comisión Integradora lo enviará al H. Congreso del Estado para su conocimiento y supervisión por las comisiones de la materia;
+
+IV. El programa deberá elaborarse con fundamento en los lineamientos establecidos por la Convención sobre los Derechos de las Personas con Discapacidad y ésta ley;
+
+V. Establecerá con claridad las políticas públicas, metas y objetivos estatal y municipal en concordancia con la política federal;
+
+VI. Cumplir con la normatividad vigente para la elaboración de programas, supervisión, rendición de cuentas y mecanismos de transparencia; y
+
+VII. Incluir lineamientos e indicadores de las políticas públicas, reglas de operación, estadística, presupuestos, impacto social y todos aquellos que se estimen necesarios para una correcta y eficiente aplicación del Programa Estatal en beneficio de la población con discapacidad.
 
 ###### Artículo 11.
 
@@ -441,15 +643,19 @@ Se promoverá la creación de Comisiones Municipales Coordinadoras que permitan 
 
 De la Salud, Desarrollo Humano y Rehabilitación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 16.
 
-La Secretaría de Salud en el Estado, establecerá:
+La Secretaria de Salud en el Estado, establecerá a la población con discapacidad su derecho a gozar del más alto nivel posible de salud, rehabilitación y habilitación sin discriminación por motivos de discapacidad, mediante programas y servicios que serán diseñados y proporcionados, considerando criterios de calidad, especialización, género, gratuidad o precio asequible. Para tal efecto, ejecutará las siguientes acciones:
 
 I.- Acciones que contribuyan a eliminar la discriminación contra las personas con discapacidad, y programas y actividades de investigación científica y tecnológica relacionados con la prevención de las discapacidades, tratamiento, autosuficiencia e integración total a la sociedad, en condiciones de igualdad;
 
 II.- Programas de detección temprana y atención oportuna de la discapacidad, orientación a padres y familiares, servicios de rehabilitación integral y/o canalización inmediata a instituciones que prestan este servicio;
 
-III.- Bancos de prótesis, órtesis, ayudas técnicas y medicinas de uso restringido facilitando su obtención a la población de bajos recursos;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+III.- Crear centros responsables de la ejecución de los programas señalados en la fracción anterior, la cual se extenderá a las regiones rurales y comunidades indígenas, considerando los derechos humanos, dignidad, autonomía y necesidades de las personas con discapacidad; así como Bancos de prótesis, órtesis, ayudas técnicas y medicinas de uso restringido, facilitando su obtención a la población de bajos recursos;
 
 IV.- Un documento técnico normativo que garantice la participación de todas las dependencias e instituciones del sector salud en el Estado, para contemplar dentro de sus programas la promoción a la salud y la prevención de discapacidades;
 
@@ -461,6 +667,32 @@ VII.- Promoverá en coordinación con la Secretaría General de Gobierno activid
 
 VIII. Acciones para dotar de los implementos necesarios los consultorios, para la atención y auscultación de las personas con discapacidad.
 
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+IX.- Realizar las adecuaciones necesarias a sus instalaciones, a fin de garantizar la accesibilidad universal a las personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+X.- Asignar espacios de estacionamiento en sus instalaciones para usuarios que utilicen sillas de ruedas;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+XI.- Contar, por lo menos, con una persona de cada sexo “traductor intérprete”, que auxilie a las personas en sus consultas o tratamientos;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+XII.- Promover a través de convenios con universidades y centros de investigación, la investigación científica y tecnológica dirigida a mejorar la atención de las personas con discapacidad; y
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+XIII.- Elaborar una clasificación oficial de las discapacidades permanentes y temporales, con base en la Clasificación Internacional del Funcionamiento de la Discapacidad y Salud, aprobado por la Organización Mundial de la Salud; estableciendo los niveles de cada discapacidad.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 16 Bis.
+
+La Secretaría de Salud en coordinación con el Consejo y de acuerdo con los lineamientos establecidos por la Clasificación Internacional del Funcionamiento, de la Discapacidad y de la Salud, publicará en el Periódico Oficial, la Clasificación Nacional de Discapacidades, la cual estará disponible al público y deberá ser utilizada en el diseño de políticas públicas.
+
 ###### Artículo 17.
 
 Es obligación para quien ejerce la patria potestad o la tutela, que sus hijos o pupilos menores de edad, reciban la atención rehabilitatoria en salud y educación necesaria en los casos en que el diagnóstico médico, psicológico o educativo indique atención especializada.
@@ -469,9 +701,11 @@ Es obligación para quien ejerce la patria potestad o la tutela, que sus hijos o
 
 Es obligación de todo ciudadano denunciar ante el ministerio público la omisión de atención a menores con discapacidad, por parte de quien ejerce la patria potestad o tutela de acuerdo a lo dispuesto en el Código Penal del Estado para la omisión de cuidados.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 19.
 
-La Dirección General de Transportes y la Dirección de Trabajo y Previsión Social del Estado en coordinación con la Secretaría de Salud implementarán programas en materia de prevención de accidentes en el trabajo y de tránsito.
+La Dirección General de Transportes y la Secretaría del Trabajo y Previsión Social del Estado en coordinación con la Secretaría de Salud implementarán programas en materia de prevención de accidentes en el trabajo y de tránsito.
 
 ###### Artículo 20.
 
@@ -517,6 +751,8 @@ VII.- La creación de un banco de prótesis, órtesis y ayudas técnicas que par
 
 El DIF Estatal en el marco de la Comisión Estatal Coordinadora fomentará con otras instituciones gubernamentales y privadas, las actividades que comprende el proceso rehabilitatorio, tanto en centros urbanos como en las comunidades rurales Estado.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO NO. 36 PUBLICADO EN EL P.O. DE 23 DE DICIEMBRE DE 2001, PÁGINAS 45 Y 46.]</small>
+
 ###### Artículo 23.
 
 La Secretaría de Finanzas y de Administración del Gobierno del estado, formulará los mecanismos de información, y en la medida de sus posibilidades el otorgamiento de estímulos fiscales, subsidios; y otros apoyos para la producción y adquisición de los siguientes bienes de procedencia nacional o extranjera y la prestación de servicios para las personas con discapacidad, los padres o tutores de un menor con discapacidad y las asociaciones civiles e instituciones de asistencia privada:
@@ -541,13 +777,17 @@ X. Fomentar y apoyar la incorporación de los adultos a la educación media supe
 
 XI. La Secretaría de Educación podrá establecer convenios con instituciones y/o organizaciones de y para personas con discapacidad, con el objeto de apoyar el proceso educativo.
 
-### Capítulo V (SIC)
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
-Del Empleo y la Capacitación.
+### Capítulo V (SIC). Del Trabajo, de la capacitación y el empleo
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
-Artículo 26 (sic).- El Ejecutivo del Estado, por conducto de las Secretarías de Desarrollo Económico y de Desarrollo Social, en coordinación con la Dirección del Trabajo y Previsión Social, el Servicio Estatal de Empleo y DIF Estatal, formularán políticas públicas, mecanismos y estrategias para la incorporación de las personas con discapacidad al empleo, capacitación y readaptación laboral, considerando las siguientes acciones:
+Artículo 26 (sic).- El Ejecutivo del Estado, por conducto de las Secretarías de Desarrollo Económico y de Desarrollo Social, en coordinación con la Secretaría del Trabajo y Previsión Social, el Servicio Estatal de Empleo y el DIF Estatal, formularán políticas públicas, mecanismos y estrategias para la incorporación de las personas con discapacidad al empleo, capacitación y readaptación laboral.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+La Secretaría de Trabajo y Previsión Social garantizará el derecho al trabajo y empleo de las personas con discapacidad en igualdad de oportunidades y equidad, prohibiendo cualquier tipo de discriminación por motivo de discapacidad en la selección, contratación, remuneración, tipo de empleo, reinserción, continuidad, capacitación, liquidación, promoción profesional y condiciones de trabajo accesibles, seguras y saludables, considerando las siguientes acciones:
 
 I. Incorporar a personas con discapacidad al sistema ordinario de trabajo, o en su caso, de acuerdo a su tipo y grado de discapacidad su incorporación a la modalidad de trabajo protegido, en condiciones salubres, dignas y de mínimo riesgo, a su integridad física;
 
@@ -557,21 +797,33 @@ II. Promover el autoempleo, particularmente en los casos en que la persona con d
 
 III. Ofrecer asesoría técnica a los sectores empresarial y comercial en materia de personas con discapacidad;
 
-> <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
-IV. Impulsar la incorporación de personas con discapacidad en los tres poderes del Estado, en los Ayuntamientos y en el sector privado;
+IV. Impulsar la incorporación de personas con discapacidad en los tres poderes del Estado, en los Ayuntamientos y en el sector privado, que garanticen la capacitación, empleo, contratación y derechos sindicales de las personas con discapacidad;
 
-V. Definir mecanismos de financiamiento subsidio o coinversión para la ejecución de proyectos productivos y sociales, propuestos por las organizaciones de y para personas con discapacidad;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
-VI. Propiciar medidas adecuadas de readaptación profesional, al alcance de todas las categorías de personas con discapacidad; y
+V. Implantar en el Estado, el programa nacional de trabajo y empleo para las personas con discapacidad, que comprenda la creación de agencias de integración laboral, acceso a bolsas de trabajo públicas o privadas, centros de trabajo protegido, talleres, asistencia técnica, formación vocacional o profesional, becas económicas temporales, y programas de seguro de desempleo, a través de convenios con los sectores empresariales, instituciones de gobierno, organismos sociales, sindicatos y empleadores;
 
-VII. Vigilar y sancionar conforme la legislación aplicable, las condiciones de igualdad para las personas con discapacidad en el desempeño de su trabajo.
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+VI. Proporcionar obligatoriamente asistencia técnica y legal a los sectores productivos, social y privado, en materia laboral para las personas con discapacidad, cuando estos lo soliciten;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+VII. Garantizar la constante revisión de las normas estatales a efecto de permitir el pleno acceso y goce de los derechos en materia laboral establecidos por la presente ley y demás disposiciones aplicables;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+VIII. Garantizar la capacitación y sensibilización al personal que trabaje con personas con discapacidad en el sector público o privado, establecer mecanismos de denuncia, y determinar sanciones ante situaciones de acoso, discriminación, esclavitud, tortura, servidumbre, trabajo forzado, empleo sin remuneración u obligatorio;
 
 ### Capítulo IV (SIC)
 
 De la Educación.
 
-Artículo 24 (sic).- El Ejecutivo Estatal a través de la Secretaría de Educación implementará políticas públicas educativas basadas en el principio de igualdad de oportunidades de educación en los niveles preescolar, primaria, secundaria, medio superior y superior para los niños, los jóvenes y los adultos con discapacidad en entornos integrados, y deberá velar porque la educación de las personas con discapacidad constituya una parte integrante del sistema de enseñanza.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+Artículo 24 (sic).- El Ejecutivo Estatal a través de la Secretaría de Educación implementará políticas públicas educativas basadas en el principio de igualdad de oportunidades de educación en los niveles preescolar, primaria, secundaria, medio superior y superior para los niños, los jóvenes y los adultos con discapacidad en entornos integrados, y deberá velar porque la educación de las personas con discapacidad constituya una parte integrante del sistema de enseñanza, prohibiendo cualquier discriminación en planteles, centros educativos, guarderías o del personal docente o administrativo del Sistema Educativo Estatal.
 
 ###### Artículo 25.
 
@@ -581,9 +833,13 @@ La Secretaría de Educación establecerá acciones para:
 
 I. Admitir y atender a menores con discapacidad en los centros de desarrollo infantil y estancias públicas o privadas;
 
-II. Implementar actividades y programas educativos y de capacitación para adultos, que por su tipo y grado de discapacidad no puedan incorporarse a otros sistemas regulares;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
-III. Facilidades de acceso y uso de las instalaciones educativas y servicios de apoyo, en función de las necesidades de los menores y adultos con discapacidad;
+II. Asegurar la inclusión gratuita de las personas con discapacidad en todos los niveles del Sistema Educativo Nacional, desarrollando normas y reglamentos que eviten su discriminación, les aseguren condiciones de accesibilidad en instalaciones educativas, proporcionen los apoyos didácticos, materiales y técnicos y cuenten con personal docente debidamente capacitado y verificar su cumplimiento;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+III. Las niñas y los niños con discapacidad gozarán del derecho a la admisión gratuita y obligatoria y recibirán atención especializada en los centros de desarrollo infantil y las guarderías públicas y mediante convenios de servicios, en guarderías privadas. Las niñas y niños con discapacidad no podrán ser condicionados en su integración a la educación inicial o preescolar;
 
 IV. Contar con material didáctico acorde a las necesidades educativas de los menores y adultos con discapacidad;
 
@@ -591,11 +847,59 @@ V. La impresión y dotación gratuita de libros de texto y demás materiales de 
 
 VI. Formación y capacitación constante al personal docente y de apoyo que atiende a menores con discapacidad;
 
-VII. Asesorar, orientar y atender psicológicamente a la familia propiciando la aceptación, respeto y la integración de los menores con discapacidad;
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
-VIII. La oportunidad, adecuada canalización y atención de los menores con discapacidad en el sistema de educación especial o regular, otorgándose becas educativas a los menores de escasos recursos económicos;
+VII. Establecer en el sistema educativo estatal, en concordancia con el sistema educativo nacional, un programa para formar, sensibilizar, desarrollar la conciencia, actualizar, capacitar, profesionalizar y en su caso incrementar los incentivos laborales a los docentes y personal que intervenga directamente en la educación de personas con discapacidad. A fin de brindar una educación con calidad se contrataran maestros especializados incluidos maestros con discapacidad, que permitan la atención de las diversas discapacidades;
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+VIII. Establecer en el sistema educativo estatal, el diseño, ejecución y evaluación del programa para la educación inclusiva y del programa para la educación especial de personas con discapacidad, incluyendo la población indígena y sus lenguas;
 
 IX. Que las bibliotecas públicas cuenten con áreas adecuadas y equipamiento apropiado para las personas con discapacidad.
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+X. Garantizar el acceso de las personas con discapacidad a la educación pública obligatoria, bilingüe y adaptada al tipo de discapacidad que corresponda, incluyendo la enseñanza del sistema Braille y la Lengua de Señas Mexicana. El uso suplementario de otras lenguas nacionales se promoverá cuando las circunstancias regionales así lo requieran. Asimismo, se deberá garantizar la producción y distribución de libros de texto gratuitos en Sistema Braille, macrotipos y textos audibles que complementen los conocimientos que obtendrán los alumnos con discapacidad visual;
+
+XI. La Secretaría de Educación podrá establecer convenios con instituciones y/o organizaciones de y para personas con discapacidad, con el objeto de apoyar el proceso educativo.
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+XII. Establecer en los programas educativos que se transmiten por televisión pública o privada local, la inclusión de tecnologías para texto, audiodescripciones, estenografía proyectada o personal especializado en la interpretación de Lengua de Señas Mexicana;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+XIII. Proporcionar a los estudiantes con discapacidad materiales, incentivos económicos y ayudas técnicas que apoyen su rendimiento académico, así como equipar planteles y centros educativos con libros en braille, materiales didácticos, apoyo gratuito de intérpretes de lengua de señas mexicana o especialistas en sistema braille, equipos computarizados con tecnología para personas ciegas y todas aquellas que se identifiquen necesarias para brindar una educación con calidad;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+XIV. La lengua de señas mexicana y el sistema de escritura braille serán de uso obligatorio en instituciones públicas o privadas, así como en programas de educación inclusiva o especial, capacitación, comunicación e investigación, para su utilización en el sistema educativo estatal;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+XV. Diseñar e implementar programas de formación y certificación de intérpretes, estenógrafos del español y demás personal especializado en la difusión y uso conjunto del español, las lenguas indígenas y la lengua de señas mexicana;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+XVI. Impulsar programas de investigación, preservación y desarrollo de la lengua de señas mexicana, de las personas con discapacidad auditiva y de las formas de comunicación de las personas con discapacidad visual;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+XVII. Incorporar en el sistema nacional de ciencia y tecnología en el estado, lineamientos que permitan la investigación y el desarrollo de bienes, servicios, equipo e instalaciones de diseño universal;
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+XVIII. Los estudiantes y profesionistas podrán cumplir con el requisito del servicio social, prestando apoyo a estudiantes o personas con discapacidad que así lo requieran; y
+
+> <small>(ADICIONADA, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+XIX. Las demás que otros ordenamientos les otorguen.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 25 Bis.
+
+La lengua de señas mexicana, es reconocida oficialmente como una lengua nacional y forma parte del patrimonio lingüístico con que cuenta la nación mexicana. Serán reconocidos el sistema braille, los modos, medios y formatos de comunicación accesibles que elijan las personas con discapacidad en sus relaciones oficiales;
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2007)</small>
 
@@ -631,11 +935,11 @@ Las Organizaciones de trabajadores y los patrones deben coadyuvar, y cooperar pa
 
 La Secretaría de Desarrollo Social y la Secretaría de Comunicaciones y Obras Públicas del Gobierno del Estado y Direcciones de Obras Públicas Municipales apoyarán a las empresas, microempresas y patrones de toda índole que contraten a personas con discapacidad, con asesoría en el diseño y adaptación de lugares y locales de trabajo accesibles a las personas con discapacidad.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 6 DE MAYO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 35.
 
-La Secretaría de Desarrollo Económico, la Secretaría de Desarrollo Social, el DIF Estatal, la Dirección de Trabajo y Previsión Social y el Servicio Estatal del Empleo formularán programas y acciones de:
+La Secretaría de Desarrollo Económico, la Secretaría de Desarrollo Social, el DIF Estatal, la Secretaría del Trabajo y Previsión Social y el Servicio Estatal del Empleo formularán programas y acciones de:
 
 I. Evaluación y desarrollo de aptitudes, habilidades y destrezas para el trabajo de personas con discapacidad;
 
@@ -643,13 +947,17 @@ II. Empleo y capacitación de personas con discapacidad; y
 
 III. Creación de agencias laborales y de centros o talleres de trabajo protegido.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 36.
 
-El DIF Estatal en coordinación con la Dirección de Trabajo y Previsión Social serán las instituciones operativas del programa de evaluación y desarrollo de aptitudes, habilidades y destrezas para el trabajo y de las agencias laborales.
+El DIF Estatal en coordinación con la Secretaría del Trabajo y Previsión Social serán las instituciones operativas del programa de evaluación y desarrollo de aptitudes, habilidades y destrezas para el trabajo y de las agencias laborales.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
 ### Capítulo VI
 
-De la Cultura, la Recreación y el Deporte.
+De la Cultura, el turismo, la Recreación y el Deporte.
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2007)</small>
 
@@ -661,21 +969,41 @@ El Ejecutivo Estatal por conducto de los Institutos de Cultura y del Deporte del
 
 El Instituto de Cultura del Estado implementará mecanismos y políticas que contribuyan a que las personas con discapacidad tengan oportunidad de utilizar su capacidad creadora, artística e intelectual, no solamente para su propio desarrollo, sino también para enriquecer a la comunidad.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 39.
 
-Las autoridades culturales y entidades públicas y privadas que participen en la organización de actividades culturales fomentarán y promoverán el acceso de las personas con discapacidad a los lugares en que se realicen actos culturales o se presten servicios de la misma naturaleza tales como teatros, museos, cines y bibliotecas, y propiciar que estas personas puedan asistir a ellos.
+Las autoridades culturales y las entidades públicas y privadas que participen en la organización de actividades culturales fomentarán y promoverán el acceso de las personas con discapacidad a los lugares en que se realicen actos culturales o se presten servicios de la misma naturaleza tales como teatros, museos, cines y bibliotecas, y propiciar que estas personas puedan asistir a ellos, a través de las siguientes acciones:
+
+I. Asegurar las adecuaciones físicas y de señalización necesarias para que tengan el acceso a todo recinto donde se desarrolle cualquier actividad cultural,
+
+II. Garantizar el reconocimiento y el apoyo de su identidad cultural y lingüística específica, incluidas la lengua de señas mexicana y la cultura de los sordos
+
+III. Establecer la capacitación de recursos humanos, el uso de materiales y tecnología con la finalidad de lograr su integración en las actividades culturales; y
+
+IV. Elaborar materiales en braille y formatos accesibles.
 
 ###### Artículo 40.
 
 La Secretaría de Educación y el Instituto de Cultura del Estado de Durango promoverán el desarrollo y la utilización de medios técnicos especiales para que la literatura, las películas cinematográficas y el teatro sean accesibles a las personas con discapacidad.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 41.
 
-El Instituto de Cultura del Estado de Durango y las Direcciones Municipales de Arte y Cultura formularán y aplicarán programas tendientes al desarrollo cultural de los menores y adultos con discapacidad.
+El Instituto de Cultura del Estado de Durango y las Direcciones Municipales de Arte y Cultura formularán y aplicarán programas tendientes al desarrollo cultural de los menores y adultos con discapacidad. Para tales efectos, ejecutará las siguientes acciones:
+
+I. Establecer programas para apoyar el desarrollo artístico y cultural de las personas con discapacidad;
+
+II. Garantizar que las personas con discapacidad cuenten con las facilidades necesarias para acceder y disfrutar de los servicios culturales; y
+
+III. Establecer el uso de tecnologías en la cinematografía y el teatro en formatos accesibles, así como la capacitación de recursos humanos, el uso de materiales que faciliten la adecuada comunicación de su contenido con la finalidad de lograr su integración en las actividades culturales.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 42.
 
-La Dirección de Turismo y Cinematografía formulará y aplicará programas turísticos que incluyan facilidades de acceso y descuentos para las personas con discapacidad.
+La Secretaría de Turismo formulará y aplicará programas turísticos y garantizará el derecho de las personas con discapacidad para acceder y disfrutar de los programas y servicios turísticos, recreativos y de esparcimiento, adaptación y accesibilidad de las instalaciones de servicios que comprenden la infraestructura para el turismo nacional.
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2007)</small>
 
@@ -694,6 +1022,14 @@ Las organizaciones deportivas en el Estado deberán fomentar las oportunidades d
 ###### Artículo 46.
 
 La Comisión Estatal Coordinadora a través de sus integrantes promoverá y apoyará en la medida de sus posibilidades que las personas con discapacidad participen en competencias deportivas locales, nacionales e internacionales.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 46 Bis.
+
+El Instituto Estatal del Deporte, formulará y aplicará programas y acciones que garanticen el otorgamiento de apoyos administrativos, técnicos, humanos y financieros, requeridos para la práctica de actividades físicas y deportivas a la población con discapacidad, en sus niveles de desarrollo popular, nuevos valores, prospectos, alto rendimiento de primera fuerza y juveniles, máster y paralímpico.
+
+Conjuntamente con las asociaciones deportivas de y para personas con discapacidad elaborará el Programa Estatal de Deporte Paralímpico y definirá el presupuesto correspondiente para el cumplimiento de los compromisos estatales, nacionales e internacionales.
 
 ### Capítulo VII
 
@@ -751,6 +1087,26 @@ De las Facilidades Arquitectónicas, Acceso al Medio Físico y Desarrollo Urbano
 
 El Ejecutivo Estatal y los presidentes municipales determinarán a través de las autoridades competentes, la adecuación de las instalaciones del Gobierno estatal y los gobiernos municipales, destinadas a brindar servicios de salud, educación, administración y procuración de justicia, actividades deportivas, culturales, recreativas o sociales, las que deberán contar con las facilidades de accesibilidad y señalización necesarias a fin de facilitar el libre tránsito, desplazamiento y uso seguro de estos espacios por las personas con discapacidad.
 
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 55 Bis.
+
+Las instalaciones privadas, de uso o servicio público, deberán cumplir con las disposiciones que determine la legislación vigente, para garantizar la accesibilidad y desplazamiento autónomo y seguro de las personas con discapacidad.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 55 Bis 1.
+
+En el marco de sus respectivas atribuciones las autoridades competentes, establecerán las disposiciones legales para garantizar la accesibilidad y desplazamiento de las personas con discapacidad, en la infraestructura pública o privada, equipamiento urbano y espacios públicos incluyendo entre otros, los siguientes lineamientos:
+
+I. Que sean de carácter universal, obligatorio y adaptado para todas las personas;
+
+II. Que incluyan el uso de señalización, facilidades arquitectónicas, tecnologías, información, sistema braille, lengua de señas mexicana, ayudas técnicas, perros guía y otros apoyos; y
+
+III. Será responsabilidad de la Comisión Nacional Bancaria y de Valores, la
+
+Comisión Nacional para la Defensa de los Usuarios de Servicios Financieros y demás autoridades competentes del sistema financiero mexicano en el estado, garantizar que las personas con discapacidad tengan acceso en igualdad de circunstancias y condiciones a los servicios que ofrecen las instituciones bancarias y demás entidades parte del sistema financiero mexicano.
+
 > <small>(REFORMADA, P.O. 6 DE MAYO DE 2007)</small>
 
 ###### Artículo 56.
@@ -777,21 +1133,39 @@ En los auditorios, cines, teatros, salas de conciertos y de conferencias, centro
 
 Los Ayuntamientos, al expedir la autorización a las empresas del ramo de la telefonía y la comunicación pública y privada, para colocar teléfonos públicos en terrenos de su jurisdicción así como en clínicas, hospitales, restaurantes, centros comerciales y demás establecimientos que presten servicios al público, les solicitarán instalar un porcentaje de dos a uno de éstos a una altura adecuada para poder ser utilizados por personas con discapacidad.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2007)</small>
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO VIII-BIS. De la Vivienda para Personas con Discapacidad
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 62.
+
+La Secretaría de Desarrollo Social, a través de la Comisión Estatal de Suelo y Vivienda, instrumentará acciones para que en sus programas se incluya la construcción de vivienda digna para personas con discapacidad, facilidades para el otorgamiento de créditos para vivienda, y los programas para adaptación. La vivienda para personas con discapacidad deberá cumplir con las normas técnicas en su infraestructura interior y exterior, para el acceso y libre desplazamiento.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 62 Bis.
+
+Las autoridades competentes serán responsables de garantizar a las personas con discapacidad su derecho a la accesibilidad universal y la vivienda, por lo que deberán emitir, implementar y vigilar normas, lineamientos y reglamentos que garanticen la accesibilidad obligatoria en instalaciones o infraestructura públicas o privadas y la obtención de vivienda, que permitan a las personas con discapacidad vivir en forma independiente y participar plenamente en igualdad de condiciones.
+
+Las autoridades responsables de la administración pública estatal y municipal vigilarán el cumplimiento de las disposiciones que en materia de accesibilidad, desarrollo urbano y vivienda se establecen en la normatividad vigente.
+
+Para tales efectos, la Comisión Estatal Coordinadora para el Desarrollo y la Integración Social de las Personas con Discapacidad en Durango instrumentará las siguientes acciones:
+
+I. Coordinara con las dependencias de la administración pública estatal y municipal, y el Congreso local, la elaboración de programas en materia de accesibilidad, desarrollo urbano y vivienda, reformas legales, elaboración de reglamentos o normas, y la certificación oficial a instalaciones públicas o privadas; y
+
+II. Supervisara la aplicación de normas, disposiciones legales, administrativas o de sanción civil o penal, que garanticen la accesibilidad en las instalaciones o infraestructura pública o privada.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 62 Bis 1.
+
+Las personas con discapacidad tienen derecho a una vivienda digna. Los programas de vivienda del sector público o sector privado deberán incluir proyectos arquitectónicos de construcciones que consideren sus necesidades de accesibilidad. Las dependencias públicas de vivienda otorgarán obligatoriamente facilidades para recibir créditos o subsidios para la adquisición, construcción o remodelación de vivienda.
 
 ### Capítulo IX
 
 Del Libre Desplazamiento y el Transporte.
-
-###### Artículo 62.
-
-La Secretaría de Desarrollo Social, a través del Instituto de la Vivienda del Estado de Durango, instrumentará acciones para que en sus programas se incluya la construcción de vivienda digna para personas con discapacidad, facilidades para el otorgamiento de créditos para vivienda, y los programas para adaptación. La vivienda para personas con discapacidad deberá cumplir con las normas técnicas en su infraestructura interior y exterior, para el acceso y libre desplazamiento.
-
-### Capítulo X
-
-Desarrollo Social y Humano.
-
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2007)</small>
 
 ###### Artículo 63.
 
@@ -893,9 +1267,9 @@ Los vehículos que usen los cajones u obstruyan rampas, serán retirados por la 
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 6 DE MAYO DE 2007)</small>
 
-### Capítulo XI
+### Capítulo X
 
-De la Vigilancia.
+Desarrollo Social y Humano.
 
 > <small>(REFORMADO, P.O. 6 DE MAYO DE 2007)</small>
 
@@ -903,51 +1277,69 @@ De la Vigilancia.
 
 El Ejecutivo Estatal a través de la Secretaría de Desarrollo Social, incidirá positivamente en el nivel de la calidad de vida de las personas con discapacidad a través de programas que los prevean de satisfactores básicos y promuevan su autosuficiencia.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2007)</small>
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 74 Bis.
+
+La Secretaría de Desarrollo Social garantizará el derecho de las personas con discapacidad a un mayor índice de desarrollo humano para ellas y sus familias, incluyendo alimentación, vestido y vivienda adecuados y a la mejora continua de sus condiciones de vida, sin discriminación por motivos de discapacidad. Para estos efectos, ejecutará las siguientes acciones:
+
+I. Establecer medidas que garanticen el acceso de las personas con discapacidad en todas las acciones, programas de protección y desarrollo social y estrategias de reducción de la pobreza; además, verificarán la observancia de todas aquellas disposiciones que les sean aplicables de la Ley General de Desarrollo Social;
+
+II. Establecer programas para la prestación de servicios de asistencia social, aplicándolos para personas con discapacidad en situación de pobreza, abandono o marginación, incluidos servicios de capacitación, asistencia financiera y servicios de cuidados temporales, los cuales se extenderán a las regiones rurales y comunidades indígenas;
+
+III. Establecer que las políticas de asistencia social que se promuevan para las personas con discapacidad estarán dirigidas a lograr su plena integración social y a la creación de programas interinstitucionales de atención integral; y
+
+IV. Establecer prioritariamente que las políticas y programas, en materia de asistencia social para personas con discapacidad se orienten a:
+
+a) La habilitación y rehabilitación de las personas con discapacidad; y
+
+b) El combate a la pobreza de las personas con discapacidad;
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+### Capítulo XI. Atención Preferente a las Personas con Discapacidad
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 75.
+
+Las personas con discapacidad gozarán del derecho de atención preferente para realizar trámites ante instituciones de la administración pública Estatal y Municipal.
+
+Para los efectos de esta Ley, la identificación de personas con discapacidad, cuando no sea notoria, se realizara mediante la credencial de atención preferencial para personas con discapacidad, la cual se expedirá de manera gratuita.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 76.
+
+La atención preferente consistirá en reducir los tiempos de atención y despacho a las personas con discapacidad que acudan a las instituciones públicas de la administración estatal o municipal a realizar los diversos trámites a título personal.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 77.
+
+Las Instituciones públicas en las cuales se realicen trámites procurarán contar con una ventanilla especial o preferente para atender a las personas con discapacidad.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 78.
+
+Los establecimientos privados que cuenten con mecanismos o servicios tendientes a dar mayor celeridad o comodidad en la atención a usuarios con ciertas circunstancias como tener la calidad de preferentes, clientes distinguidos o cualesquiera otras, deberán hacer extensivos a personas identificadas como discapacidad estas prerrogativas, siempre y cuando éstas tengan por objeto el reducir el tiempo de espera o esfuerzo por parte del cliente.
+
+> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE MAYO DE 2007)</small>
 
 ### Capítulo XII
 
 De las Sanciones.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
-###### Artículo 75.
-
-La Secretaría de Desarrollo Social establecerá acciones para:
-
-I. Apoyar y promover el desarrollo de programas que posibiliten el desarrollo de las personas con discapacidad;
-
-II. Implementar cursos de capacitación para las personas con discapacidad en las actividades que realicen;
-
-III. Establecer programas de desarrollo humano para las personas con discapacidad y sus familiares;
-
-IV. Disminuir las barreras físicas y arquitectónicas que impidan el libre acceso de las personas con discapacidad, a través de la adaptación de sus viviendas y los espacios públicos;
-
-V. Promover una cultura de inclusión, y comprensión para las personas con discapacidad;
-
-VI. Apoyar y promover la cultura de productividad entre los grupos de personas con discapacidad, a través de apoyos a proyectos productivos;
-
-VII. Implementar el sistema de información de personas con discapacidad, que nos permita localizar e identificar a estos grupos, para integrar un diagnóstico puntual, a partir del cual, se elaboran propuestas de política pública;
-
-VIII. Concertar acciones con instituciones públicas y privadas para adquirir apoyos para los proyectos de los grupos de personas con discapacidad; y
-
-IX. Promover criterios de género en la implementación de políticas para personas con discapacidad.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE MAYO DE 2007)</small>
-
-###### Artículo 76.
-
-El Ejecutivo Estatal vigilará y supervisará a través de la Comisión Estatal Coordinadora, que las autoridades competentes en el Estado, impongan las sanciones que procedan por la comisión de las infracciones previstas en esta ley y las dispuestas en otros ordenamientos legales vigentes en el Estado.
-
-> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE MAYO DE 2007)</small>
-
-###### Artículo 77.
+###### Artículo 79.
 
 Las violaciones a lo establecido por la presente Ley, su Reglamento, demás disposiciones que de ellas emanen y las dispuestas por otras leyes y reglamentos en el Estado, serán sancionadas por la autoridad estatal o municipal que corresponda.
 
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
-###### Artículo 78.
+###### Artículo 80.
 
 Para los efectos de la presente Ley, las sanciones se aplicarán conforme a lo siguiente:
 
@@ -957,19 +1349,13 @@ II. Corresponderá a los Ayuntamientos a través de la autoridad Municipal compe
 
 III. Corresponderá a la Dirección General de Transporte en el Estado, la obligación de aplicar multa de 25 a 40 veces el salario mínimo vigente en el Estado de Durango, a los responsables, concesionarios y prestadores en cualquier modalidad de los vehículos del servicio público de transporte que nieguen, impidan u obstaculicen el uso del servicio a las personas con discapacidad; y
 
-IV.- A quien haga uso indebido de las placas de identificación y/o permisos temporales para los vehículos que usen o transporten a personas con discapacidad, se le aplicará multa de 15 a 30 veces el salario mínimo vigente en el Estado de Durango.
+IV. A quien haga uso indebido de las placas de identificación y/o permisos temporales para los vehículos que usen o transporten a personas con discapacidad, se le aplicará multa de 15 a 30 veces el salario mínimo vigente en el Estado de Durango.
 
 Las sanciones derivadas de las infracciones a la presente Ley, por ningún motivo estarán sujetas a descuento o condonación. Los recursos recaudados con motivo de estas infracciones deberán ser aplicados por los Ayuntamientos en un 50% en obras de infraestructura urbana tendientes a disminuir las barreras físicas y arquitectónicas en favor de las personas con discapacidad.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 6 DE MAYO DE 2007)</small>
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
-### Capítulo XIII
-
-De los Medios de Defensa.
-
-> <small>(REFORMADO, P.O. 6 DE MAYO DE 2007)</small>
-
-###### Artículo 79.
+###### Artículo 81.
 
 Los servidores públicos que incumplan las disposiciones previstas en esta ley serán sancionados conforme a lo dispuesto en la Ley vigente en materia de Responsabilidades de los Servidores Públicos, así como en la legislación civil, laboral y penal según corresponda.
 
@@ -977,35 +1363,125 @@ Los representantes de las asociaciones civiles o sociales que hagan uso indebido
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 6 DE MAYO DE 2007)</small>
 
-###### Artículo 80.
+### Capítulo XIII
 
-En la resolución de las controversias que se susciten con motivo de la aplicación de la presente ley, se estará a los plazos y procedimientos previstos en el Código de Justicia Administrativa para el Estado de Durango.
+De los Medios de Defensa.
 
-###### Artículo 81.
-
-El escrito en el que se interponga el recurso deberá contener:
-
-I.- El nombre y domicilio de recurrente y, en su caso, el de la persona que promueva en su nombre y representación, acreditando debidamente la personalidad con que comparece;
-
-II.- La fecha en que bajo protesta de decir verdad, manifieste el recurrente que tuvo conocimiento de la resolución recurrida;
-
-III.- El acto o resolución que se impugna;
-
-IV.- Los agravios que a juicio del recurrente le cause la resolución o el acto impugnado;
-
-V.- La mención de la autoridad que haya dictado la resolución u ordenado o ejecutado el acto;
-
-VI.- Las pruebas que el recurrente ofrezca en relación con el acto o la resolución impugnada, acompañando los documentos que se relacionen con éste; no podrá ofrecerse la prueba confesional ni la testimonial; y
-
-En caso de omitir el recurrente los requisitos de las fracciones I, II, IV y VI, se le apercibirá por una sola vez, para que en un término de tres días cumplimente el recurso.
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 82.
 
-Al recibir el recurso, la autoridad del conocimiento verificará si éste fue interpuesto en tiempo y con todos los requisitos a que se refiere el artículo anterior, admitiéndolo a trámite o rechazándolo, según corresponda; para el caso de que lo admita, desahogará las pruebas ofrecidas y aportadas en un plazo que no exceda de quince días hábiles contados a partir de la notificación del proveído de admisión, dictando la resolución definitiva en un plazo no mayor de ocho días hábiles.
+En la resolución de las controversias que se susciten con motivo de la aplicación de la presente ley, se estará a los plazos y procedimientos previstos en el Código de Justicia Administrativa para el Estado de Durango.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 83.
 
+El escrito en el que se interponga el recurso deberá contener:
+
+I. El nombre y domicilio de recurrente y, en su caso, el de la persona que promueva en su nombre y representación, acreditando debidamente la personalidad con que comparece;
+
+II. La fecha en que bajo protesta de decir verdad, manifieste el recurrente que tuvo conocimiento de la resolución recurrida;
+
+III. El acto o resolución que se impugna;
+
+IV. Los agravios que a juicio del recurrente le cause la resolución o el acto impugnado;
+
+V. La mención de la autoridad que haya dictado la resolución u ordenado o ejecutado el acto;
+
+VI. Las pruebas que el recurrente ofrezca en relación con el acto o la resolución impugnada, acompañando los documentos que se relacionen con éste; no podrá ofrecerse la prueba confesional ni la testimonial; y
+
+En caso de omitir el recurrente los requisitos de las fracciones I, II, IV y VI, se le apercibirá por una sola vez, para que en un término de tres días cumplimente el recurso.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 84.
+
+Al recibir el recurso, la autoridad del conocimiento verificará si éste fue interpuesto en tiempo y con todos los requisitos a que se refiere el artículo anterior, admitiéndolo a trámite o rechazándolo, según corresponda; para el caso de que lo admita, desahogará las pruebas ofrecidas y aportadas en un plazo que no exceda de quince días hábiles contados a partir de la notificación del proveído de admisión, dictando la resolución definitiva en un plazo no mayor de ocho días hábiles.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 85.
+
 Para la debida ejecución y cumplimiento de la sanción impuesta en la resolución pronunciada, la autoridad que la emita deberá ordenar su cumplimiento a través de las autoridades fiscales estatales y municipales.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+### Capítulo XIV. Prevenciones Generales
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 86.
+
+La Comisión Estatal Coordinadora para el Desarrollo y la Integración Social de las Personas con Discapacidad en Durango se regirá por lo dispuesto en esta ley y su Estatuto Orgánico en lo relativo a su estructura, funcionamiento, operación, desarrollo y control. Para tal efecto contará con las disposiciones generales a la naturaleza y características del organismo, a sus órganos de administración, a las unidades que integran estos últimos, a la vigilancia, y demás que se requieran para su regulación interna, conforme a lo establecido en la legislación de la materia y por esta ley.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 87.
+
+Queda reservado a los tribunales de Justicia Administrativa el conocimiento y resolución de todas las controversias en que sea parte la Comisión Coordinadora.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+### Capítulo XV. Del Consejo Consultivo
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 88.
+
+El Consejo consultivo para su funcionamiento estará constituido de la siguiente forma:
+
+I.- Un Presidente, que será el Gobernador Constitucional del Estado;
+
+II.- Un Vicepresidente que será la presidenta del Sistema Estatal para el Desarrollo Integral de la Familia;
+
+III.- Un Secretario Técnico que será el Coordinador de la Asociación de Discapacidad del Estado de Durango,
+
+IV.- Vocales que serán los 4 representantes por cada una de las siguientes:
+
+A) Discapacidades motoras
+
+B) Discapacidades físicas
+
+C) Discapacidades Sensoriales
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 89.
+
+El Consejo Consultivo es la instancia honoraria coadyuvante, de consulta y asesoría en materia de discapacidad en el Estado, que tiene por objeto proponer medidas para la planeación, formulación, instrumentación, ejecución y seguimiento de la política estatal de estatal (sic) de discapacidad en coordinación con la Comisión Estatal Coordinadora para el Desarrollo y la Integración Social de las Personas con Discapacidad en Durango.
+
+> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 90.
+
+Para el cumplimiento de su objeto, el Consejo Consultivo tendrá las siguientes atribuciones:
+
+I. Conocer, analizar y formular propuestas respecto de las políticas de discapacidad;
+
+II. Participar, en coordinación con La Comisión, en la elaboración y evaluación de los programas de apoyo a las personas con discapacidad en las propuestas que le formulen las dependencias y entes de la administración pública estatal involucradas y las organizaciones sociales y privadas interesadas;
+
+III. Promover, coordinar y concertar la participación de los sectores públicos, sociales en materia de discapacidad,
+
+IV. Proponer criterios para la planeación y ejecución de las políticas y programas de apoyo a las personas con discapacidad en los ámbitos estatal, regional y municipal;
+
+V.- Contribuir en la definición de acciones sociales, financieras, técnicas y administrativas para la mejora de las condiciones de vida de las personas con discapacidad;
+
+VI. Proponer esquemas generales de organización para la eficaz atención, coordinación y vinculación en las actividades productivas del estado a las personas con discapacidad.
+
+VII. Promover una oferta de vivienda a las personas con discapacidad;
+
+VIII. Impulsar las acciones de simplificación administrativa para las personas con discapacidad.
+
+IX. Promover e instrumentar mecanismos de mejora regulatoria para la simplificación de los procedimientos y trámites y la disminución de costos de la vivienda, desarrollos habitacionales y de titulación del suelo y la vivienda para personas con discapacidad;
+
+X. Solicitar y recibir información de las distintas dependencias y entidades que realizan programas y acciones orientados a personas con discapacidad;
+
+XI. Aprobar la creación y grupos de trabajo para la atención de temas específicos y emitir los lineamientos para su operación;
+
+XII. Elaborar y aprobar su reglamento interior; y
+
+XIII. Las demás que establezca esta ley, el reglamento y demás disposiciones legales aplicables.
 
 ## TRANSITORIOS
 
@@ -1046,3 +1522,15 @@ P.O. 16 DE FEBRERO DE 2014.
 Artículo Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo.- Se derogan todas las disposiciones que se oponga al presente Decreto.
+
+P.O. 10 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 463 QUE CONTIENE LEY ESTATAL PARA LA INTEGRACIÓN SOCIAL DE LAS PERSONAS CON DISCAPACIDAD”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones legales que se opongan al contenido del presente.
