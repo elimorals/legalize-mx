@@ -4,7 +4,7 @@ identifier: "COA-ley-de-los-derechos-de-las-personas-adultas-mayores-del-45210"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2015-11-13"
+last_updated: "2015-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COA"
 ---
 # LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE COAHUILA DE ZARAGOZA -ANTES LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE COAHUILA DE ZARAGOZA-
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 11 DE DICIEMBRE DE 2015 EN EL PERIÓDICO OFICIAL DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2015.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 11 DE DICIEMBRE DE 2015.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 10 de junio del 2005.
 
@@ -273,9 +273,9 @@ V. Al trabajo, por tanto, se reconoce que tienen derecho a:
 
 5. En materia de contratación laboral, a no ser discriminado por razones de edad. En cualquier caso, tomando en cuenta su adultez, se valorará la posibilidad de reducir su jornada laboral.
 
-> <small>(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2015) (F. DE E., P.O. 11 DE DICIEMBRE DE 2015)
 
-V (SIC). A laborar en condiciones óptimas así como en instalaciones las cuales garanticen su seguridad e integridad física en base a la normatividad vigente.
+6. A laborar en condiciones óptimas así como en instalaciones las cuales garanticen su seguridad e integridad física en base a la normatividad vigente.
 
 VI. A la asistencia social, por tanto, se reconoce que tienen derecho a:
 
