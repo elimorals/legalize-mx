@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-del-servicio-profesional-de-carrera-de-la-80554"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-01"
-last_updated: "2011-04-01"
+last_updated: "2015-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "GUA"
 
 REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA DE LA POLICIA PREVENTIVA MUNICIPAL DE SALVATIERRA GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SÉPTIMO DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DE SALVATIERRA, GUANAJUATO, PUBLICADO EN EL P.O. DE 11 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 1 de abril de 2011.
 
@@ -812,3 +814,35 @@ Presidente Municipal.
 Ing. Amador Sánchez García
 
 El Secretario del H. Ayuntamiento
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DE SALVATIERRA, GTO".]
+
+Primero.- El presente Reglamento, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Guanajuato, así como en la Gaceta del Municipio. El Servicio Profesional de Carrera Policial, se irá estableciendo gradualmente así como los órganos para su operación, a que se refiere este procedimiento de conformidad con las disposiciones presupuestales y los acuerdos que se celebren con el Estado.
+
+Segundo.- Para efectos del personal en activo se dispondrá un período de migración que no excederá de un año para que los elementos de la Institución Policial cubran con los siguientes criterios:
+
+1. Que cuenten con las evaluaciones de control y confianza; vigente.
+
+2. Que tengan la equivalencia a la formación inicial y;
+
+3. Que cubran con el perfil de puesto con relación a la renivelación académica.
+
+Para tales efectos una vez cumplido el plazo, los elementos que no cubran con alguno de éstos criterios quedarán fuera de la Institución Policial.
+
+Tercero.- Mientras se expidan los manuales de organización, procedimientos, el Presidente Municipal queda facultado para resolver lo relativo al Servicio Profesional de Carrera Policial y contará con un plazo de noventa días para expedir su normatividad interior, a partir de la entrada en vigor del presente Reglamento.
+
+Cuarto.- Los órganos a que se refiere el presente Reglamento, se integrarán en un terminó no mayor de sesenta días a la publicación del mismo, en los términos del convenio de coordinación celebrado con el Estado.
+
+Quinto.- Todo el personal de nuevo ingreso deberá cumplir con todos y cada uno de los requisitos establecidos en el presente este (sic) Reglamento.
+
+Sexto.- Cuando las funciones o atribuciones de alguna unidad administrativa municipal, establecida con anterioridad a la vigencia de este Reglamento, deban ser ejercidas por alguna otra unidad de las que el mismo establece, o cuando se cambie de adscripción, del personal, mobiliario, archivo y en general el equipo que aquélla haya utilizado, pasarán a la unidad que previamente se determine.
+
+Séptimo.- Se abroga el Reglamento del Servicio Profesional de Carrera de la Policía Preventiva Municipal de Salvatierra, Gto., publicado en el Periódico Oficial del Gobierno del Estado de Guanajuato, número 52, segunda parte, de fecha 01 de Abril de 2011.
+
+Octavo.- Se abroga el Reglamento del Consejo de Honor y Justicia de los Cuerpos de Seguridad Pública del Municipio de Salvatierra, Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado de Gto., número: 18, cuarta parte, de fecha 01 primero de Febrero del año 2011.
+
+Noveno.- Se derogan todas aquellas disposiciones que se opongan al presente Reglamento.
