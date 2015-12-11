@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-de-la-procuraduria-general-de-justicia-del-8394"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1991-12-30"
-last_updated: "2012-08-16"
+last_updated: "2015-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8394&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 16 DE AGOSTO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 11 DE DICIEMBRE DE 2015. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO UNA VEZ QUE ENTRE EN VIGOR Y EN SU TOTALIDAD EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE DICIEMBRE DE 2015 (ABROGADO).
 
 Ley publicada en la Sección Octava del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1991.
 
@@ -151,7 +153,7 @@ En la protección de los menores e incapaces, corresponde al Ministerio Público
 
 ###### ARTICULO 6o.
 
-La intervención del Ministerio Público en la vigilancia de la correcta aplicación de las medidas de política criminal, incluye la práctica de visitas a los Centros Reinserción (sic) Social, cárceles municipales, centros de detención de las policías preventivas y reclusorios preventivos, para escuchar las quejas que reciba de los internos e iniciar las investigaciones que correspondan, en caso de tratarse de algún hecho que la ley señale como delito, sin perjuicio de hacer del conocimiento de las autoridades relativas los hechos de que se trate. Asimismo, visitar los centros especializados para la atención, tratamiento y aplicación de medidas para adolescentes, para los mismos fines.
+La intervención del Ministerio Público en la vigilancia de la correcta aplicación de las medidas de política criminal, incluye la práctica de visitas a los Centros (sic) Reinserción Social, cárceles municipales, centros de detención de las policías preventivas y reclusorios preventivos, para escuchar las quejas que reciba de los internos e iniciar las investigaciones que correspondan, en caso de tratarse de algún hecho que la ley señale como delito, sin perjuicio de hacer del conocimiento de las autoridades relativas los hechos de que se trate. Asimismo, visitar los centros especializados para la atención, tratamiento y aplicación de medidas para adolescentes, para los mismos fines.
 
 ###### ARTICULO 7o.
 
@@ -479,7 +481,7 @@ El Procurador ejercerá autoridad jerárquica sobre el personal de la Instituci�
 
 > <small>(REFORMADO, B.O. 16 DE AGOSTO DE 2012)</small>
 
-ARTlCULO 23.- La. Policía Estatal Investigadora actuará bajo la autoridad y el mando inmediato del Ministerio Público, en congruencia con lo establecido en el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, y de conformidad con lo previsto en el Artículo 95 de la Constitución Política Local, auxiliando a éste en la investigación de los delitos del orden común.
+ARTlCULO 23.- La Policía Estatal Investigadora actuará bajo la autoridad y el mando inmediato del Ministerio Público, en congruencia con lo establecido en el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, y de conformidad con lo previsto en el Artículo 95 de la Constitución Política Local, auxiliando a éste en la investigación de los delitos del orden común.
 
 La Policía Estatal Investigadora, conforme a las instrucciones que se le dicten, desarrollará las diligencias que deban practicarse durante la investigación y, exclusivamente para los fines de ésta, cumplirá las citaciones, notificaciones y presentaciones que se le ordenen; asimismo, ejecutará las órdenes de aprehensión, los cateos y otros mandamientos que emita la autoridad judicial.
 
@@ -932,3 +934,11 @@ B.O. 16 DE AGOSTO DE 2012.
 ###### ARTICULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 11 DE DICIEMBRE DE 2015.
+
+Artículo Primero. La presente Ley entrará en vigor, previa su publicación en el Boletín Oficial del Gobierno del Estado de Sonora, en los términos establecidos en el artículo único del Decreto número 05, que Declara que el Código Nacional de Procedimientos Penales se incorpora al régimen jurídico del Estado de Sonora, publicado en el Boletín Oficial número 31, sección III, el día jueves 15 de octubre de 2015.
+
+Artículo Segundo. La Ley Orgánica de la Procuraduría General, publicada en el Boletín Oficial del Gobierno del Estado de Sonora número 53, sección VIII, de fecha 30 de diciembre de 1991, continuará su aplicación en los casos que se tramiten bajo el régimen del Código de Procedimientos Penales del Estado de Sonora y quedará abrogada, una vez entre en vigor y en su totalidad el Código Nacional de Procedimientos Penales.
+
+Artículo Tercero. Dentro del término de noventa días siguientes al inicio de la vigencia de la presente Ley, deberán expedirse los reglamentos que se requieran para su pleno cumplimiento.
