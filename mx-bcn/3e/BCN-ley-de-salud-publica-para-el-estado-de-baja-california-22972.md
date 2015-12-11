@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-salud-publica-para-el-estado-de-baja-california-22972"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-09"
-last_updated: "2015-09-11"
+last_updated: "2015-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 9 de noviembre de 2001.
 
@@ -757,17 +757,17 @@ Para los efectos de esta Ley, se entiende por asistencia social el conjunto de a
 
 La prestación de servicios de asistencia social será regulada por los ordenamientos legales aplicables en la materia, debiendo intervenir las Autoridades Sanitarias en aquellos asuntos relacionados con los servicios de salud.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 36.
 
-Los integrantes del Sistema Estatal de Salud, deberán dar atención preferente e inmediata a menores, farmacodependiente en situación de calle o abandono, personas con capacidades diferentes y ancianos sometidos en cualquier forma de maltrato que pongan en peligro su salud física o mental.
+Los integrantes del Sistema Estatal de Salud, deberán dar atención preferente e inmediata a menores, farmacodependiente en situación de calle o abandono, personas con capacidades diferentes, migrantes y ancianos sometidos en cualquier forma de maltrato que pongan en peligro su salud física o mental.
 
 Asimismo, darán esa atención a quienes hayan sido sujetos pasivos de la comisión de delitos que atenten contra la integridad física o mental o el normal desarrollo psicosomático de los individuos.
 
-> <small>(REFORMADO, P.O. 21 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2015)</small>
 
-En estos casos, las instituciones de salud del Estado, podrán tomar las medidas inmediatas que sean necesarias para la protección de la salud de los menores, farmacodependiente en situación de calle o abandono, personas con capacidades diferentes y ancianos, sin perjuicio de dar intervención a las Autoridades competentes.
+En estos casos, las instituciones de salud del Estado, podrán tomar las medidas inmediatas que sean necesarias para la protección de la salud de los menores, farmacodependiente en situación de calle o abandono, personas con capacidades diferentes, migrantes y ancianos, sin perjuicio de dar intervención a las Autoridades competentes.
 
 #### SECCION VII. DE LOS PRESTADORES DE SERVICIOS DE SALUD
 
@@ -3152,3 +3152,7 @@ P.O. 11 DE SEPTIEMBRE DE 2015.
 DECRETO No. 317, POR EL QUE SE APRUEBA LA REFORMA AL PÁRRAFO SEGUNDO DEL ARTÍCULO 26 DE LA LEY DE SALUD PÚBLICA PARA EL ESTADO DE BAJA CALIFORNIA.
 
 ÚNICO.- La presente reforma entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE DICIEMBRE DE 2015.
+
+ÚNICO.- EI presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
