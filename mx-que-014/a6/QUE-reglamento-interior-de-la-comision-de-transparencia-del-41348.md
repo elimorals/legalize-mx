@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-interior-de-la-comision-de-transparencia-del-41348"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-30"
-last_updated: "2013-03-15"
+last_updated: "2015-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41348&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 REGLAMENTO INTERIOR DE LA COMISIÓN DE TRANSPARENCIA DEL MUNICIPIO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2015.
 
 Reglamento publicado en la Gaceta Municipal del Municipio de Querétaro, el jueves 30 de mayo de 2002.
 
@@ -95,11 +95,11 @@ I. Aprobar y evaluar el cumplimiento del Plan de Fortalecimiento de la Transpare
 
 > <small>(REFORMADA, P.O. 27 DE JULIO DE 2009)</small>
 
-II. Designar de entre los regidores integrantes del H. Ayuntamiento, a quienes deban integrar la Comisión de Transparencia del Municipio de Querétaro; y (sic)
+II. Designar de entre los regidores integrantes del H. Ayuntamiento, a quienes deban integrar la Comisión de Transparencia del Municipio de Querétaro; y
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2015)</small>
 
-III. Designar de entre los regidores integrantes del H. Ayuntamiento, a quienes deban integrar la Comisión de Transparencia del Municipio de Querétaro;
+III. Designar de entre los regidores y síndicos integrantes del H. Ayuntamiento, a quienes deban integrar la Comisión de Transparencia del Municipio de Querétaro;
 
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2005)</small>
 
@@ -116,6 +116,10 @@ VI. Tomar protesta por conducto del Presidente Municipal a los ciudadanos integr
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2005)</small>
 
 VII. Expedir a través del Secretario del Ayuntamiento, los nombramientos del Presidente y demás integrantes ciudadanos de la Comisión de Transparencia del Municipio de Querétaro.
+
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2015)</small>
+
+VIII. Remover a los miembros de la Comisión de Transparencia del Municipio de Querétaro por cualquiera de los supuestos establecidos en el artículo 13 del presente reglamento.
 
 ###### Artículo 4.
 
@@ -143,7 +147,7 @@ VII. (DEROGADA, P.O. 1 DE MARZO DE 2013) (DEROGADA [N. DE E. REPUBLICADA], P.O. 
 
 VIII. (DEROGADA, P.O. 1 DE MARZO DE 2013) (DEROGADA [N. DE E. REPUBLICADA], P.O. 15 DE MARZO DE 2013)
 
-IX. Remover a los miembros de la Comisión de Transparencia del Municipio de Querétaro, cuando incurran en cualquiera de los supuestos del artículo 13 del presente reglamento; y (sic)
+IX. (DEROGADA, P.O. 11 DE DICIEMBRE DE 2015)
 
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2005)</small>
 
@@ -229,6 +233,10 @@ XII. Remitir a la Secretaría del Ayuntamiento, los expedientes de los ciudadano
 
 XIII. Las demás que le sean conferidas por el H. Ayuntamiento, el presente ordenamiento y disposiciones legales aplicables.
 
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2015)</small>
+
+El Secretario Ejecutivo podrá designar a algún servidor público que lo supla en el ejercicio de las funciones que le corresponden durante la celebración de las sesiones de la Comisión de Transparencia.
+
 ### CAPÍTULO SEGUNDO. DE LA INTEGRACIÓN Y FUNCIONAMIENTO
 
 > <small>(REFORMADO, P.O. 7 DE JULIO DE 2008)</small>
@@ -241,13 +249,13 @@ La Comisión de Transparencia del Municipio de Querétaro estará integrada por:
 
 I. Un represente (sic) de la Administración Municipal, que será designado por el Presidente Municipal de Querétaro, y tendrá derecho a voz y voto;
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 27 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2015)</small>
 
-II. Dos regidores integrantes del H. Ayuntamiento, con derecho a voz y voto;
+II. Dos integrantes del H. Ayuntamiento, con derecho a voz y voto;
 
-(REFORMADA, P.O. 1 DE MARZO DE 2013) (REFORMADA [N. DE E. REPUBLICADA], P.O. 15 DE MARZO DE 2013)
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2015)</small>
 
-III. Un Secretario Ejecutivo, que será Titular de la Unidad de Información Gubernamental, con derecho a voz sin voto; y
+III. Un Secretario Ejecutivo, que será Titular de la Secretaría Ejecutiva, con derecho a voz sin voto; y
 
 (REFORMADA, P.O. 1 DE MARZO DE 2013) (REFORMADA [N. DE E. REPUBLICADA], P.O. 15 DE MARZO DE 2013)
 
@@ -255,11 +263,9 @@ IV. Cinco ciudadanos propietarios pertenecientes al sector privado, social o aca
 
 De los cinco integrantes ciudadanos, no podrá haber más de tres del mismo género.
 
-> <small>(ADICIONADO, P.O. 7 DE JULIO DE 2008)</small>
-
 ###### Artículo 8 Bis.
 
-El Presidente de la Comisión de Transparencia del Municipio de Querétaro, estará en su cargo por un periodo de un año seis meses, pudiendo ser reelecto por un periodo igual y por una sola ocasión.
+(DEROGADO, P.O. 11 DE DICIEMBRE DE 2015)
 
 ###### Artículo 9.
 
@@ -303,31 +309,17 @@ Sin perjuicio de lo anterior, los ciudadanos que integren la Comisión continuar
 
 La Comisión de Transparencia del Municipio de Querétaro, deberá ser instalada en el mes de julio del segundo año de la gestión pública municipal que corresponda.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2015)</small>
 
-###### Artículo 13.
+###### ARTÍCULO 13.
 
-La Comisión de Transparencia del Municipio de Querétaro, aprobará la remoción del cargo de los integrantes por las siguientes causas:
+Los integrantes de la Comisión de Transparencia podrán ser removidos por:
 
-I. Para los servidores públicos, cualquiera de las establecidas en la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro;
+I. Resolución del Órgano de Responsabilidades Administrativas del Municipio de Querétaro o autoridad competente en la materia, que determine la existencia de responsabilidad administrativa atribuida a cualquier servidor público que integre la Comisión de Transparencia;
 
-(REFORMADA, P.O. 1 DE MARZO DE 2013) (REFORMADA [N. DE E. REPUBLICADA], P.O. 15 DE MARZO DE 2013)
+II. Acta de la Comisión de Transparencia que así lo determine por violaciones graves o interferencias en el cumplimiento de los objetivos del Instituto; y
 
-II. Para los integrantes ciudadanos,
-
-a) Cuando en el ejercicio de sus funciones generen violaciones graves y sistemáticas a los derechos humanos, faltando a los principios por los cuales se instituye la Comisión de Transparencia del Municipio de Querétaro;
-
-b) Faltar por tres ocasiones consecutivas sin justificación a las sesiones que se convoquen debidamente para los trabajos del Pleno de la Comisión de Transparencia del Municipio de Querétaro;
-
-c) Por renuncia expresa de los ciudadanos integrantes, incluyendo al Presidente de la Comisión, para dejar de participar definitivamente en ella;
-
-d) Conozcan de cualquier asunto en el que tuviesen interés personal y no lo hayan manifestado previamente conforme a lo estipulado por el párrafo último del artículo 35 del presente reglamento.
-
-III. Faltar por tres ocasiones consecutivas sin justificación a las sesiones que se convoquen debidamente para los trabajos del Pleno de la Comisión de Transparencia del Municipio de Querétaro;
-
-> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2005)</small>
-
-IV. Por manifestación expresa de los ciudadanos integrantes, incluyendo al Presidente de la Comisión, para dejar de participar definitivamente en ella.
+III. Acuerdo del Ayuntamiento que así lo determine por convenir a los intereses municipales.
 
 > <small>(REFORMADO, P.O. 9 DE DICIEMBRE DE 2005)</small>
 
@@ -614,3 +606,29 @@ PRIMERO. Publíquese en la Gaceta Municipal del Municipio de Querétaro y en el 
 SEGUNDO. La presente reforma entrará en vigor al día siguiente al de su publicación.
 
 TERCERO. Se derogan todas aquellas disposiciones legales de igual o menor jerarquía que se opongan al presente Reglamento"
+
+P.O. 11 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE REFORMAN LOS ARTÍCULOS 3 FRACCIÓN III, 8 FRACCIONES II Y III Y 13; SE ADICIONA UNA FRACCIÓN VIII AL ARTÍCULO 3, UN ÚLTIMO PÁRRAFO AL ARTÍCULO 7, Y SE DEROGAN LA FRACCIÓN IX DEL ARTÍCULO 4 Y EL ARTÍCULO 8 BIS DEL REGLAMENTO INTERIOR DE LA COMISIÓN DE TRANSPARENCIA DEL MUNICIPIO DE QUERÉTARO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Acuerdo en la Gaceta Oficial del Ayuntamiento del Municipio de Querétaro y en el Periódico Oficial del Gobierno del Estado “La Sombra de Arteaga”.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente acuerdo entrará en vigencia el día siguiente a la fecha de la primera de las dos publicaciones mencionadas en el transitorio anterior.
+
+###### ARTÍCULO TERCERO.
+
+Al no haber sido instalada la Comisión de Transparencia correspondiente al mes de julio de dos mil catorce, conforme a lo establecido por el artículo 12 del Reglamento Interior de la Comisión de Transparencia del Municipio de Querétaro, se instruye a la Secretaría Ejecutiva que expida la convocatoria pública para la selección de ciudadanos que formarán parte de la Comisión de Transparencia, a más tardar el día treinta y uno de diciembre de dos mil quince.
+
+La Comisión de Transparencia del Municipio de Querétaro deberá quedar instalada antes del día primero de marzo del dos mil dieciséis.
+
+###### ARTÍCULO CUARTO.
+
+Los ciudadanos integrantes propietarios y sus suplentes elegidos en atención a la convocatoria señalada en el artículo transitorio anterior, durarán por única ocasión en su encargo hasta la instalación de la Comisión de Transparencia del Municipio de Querétaro correspondiente al período 2020-2023, lo anterior conforme a lo establecido (sic) artículo 12 del Reglamento Interior de la Comisión de Transparencia del Municipio de Querétaro.
+
+###### ARTÍCULO QUINTO.
+
+Notifíquese el presente Acuerdo a los titulares de la Secretaría Particular, Secretaría General de Gobierno Municipal, Secretaría Ejecutiva, Secretaría de Administración y Unidad de Información Gubernamental.
