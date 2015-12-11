@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2015-12-01"
+last_updated: "2015-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2015.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -485,7 +485,9 @@ B. La manifestación de las ideas no será objeto de ninguna inquisición judici
 
 Para el ejercicio del derecho de acceso a la información, los Poderes, organismos autónomos y ayuntamientos, en el ámbito de sus respectivas competencias, se regirán por las siguientes fracciones y bases:
 
-I. Toda la información pública en posesión de los poderes ejecutivo, legislativo o judicial y de cualquier autoridad, órgano estatal y municipal, incluyendo los órganos autónomos por disposición constitucional es pública y sólo podrá ser reservada temporalmente por razones de interés público en los términos que fije la ley. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2015)</small>
+
+I. Toda la información pública en posesión de los poderes ejecutivo, legislativo o judicial y de cualquier autoridad, órgano estatal y municipal, incluyendo los órganos autónomos por disposición constitucional es pública y sólo podrá ser reservada temporalmente por razones de interés público y seguridad nacional en los términos que fijen las leyes. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad. Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencia o funciones, la ley determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información;
 
 II. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fije la ley;
 
@@ -505,19 +507,29 @@ Contará con personalidad jurídica y patrimonio propios, así como plena autono
 
 BASE SEGUNDA. Este organismo se regirá de acuerdo a lo señalado en la Ley de la materia, y su organización interna se desarrollará en su Reglamento Interior.
 
-BASE TERCERA. En su funcionamiento se rige por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, transparencia y máxima publicidad.
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2015)</small>
 
-BASE CUARTA. Tendrá competencia para conocer de los asuntos relacionados con el acceso a la información pública y la protección de datos personales en posesión o a cargo de los poderes Ejecutivo, Legislativo y Judicial o de cualquier autoridad, entidad, órgano u organismo que forme parte de éstos, ayuntamientos, órganos autónomos, fideicomisos y fondos públicos, así como de cualquier persona física o moral que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal.
+BASE TERCERA. En su funcionamiento se rige por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
 
-Sus resoluciones son vinculatorias, definitivas e irrecurribles para los sujetos obligados.
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2015)</small>
 
-BASE QUINTA. El organismo autónomo se integra por cuatro consejeros. Para su designación, el Ejecutivo del Estado, propondrá éstos ante el Congreso del Estado, mediante ternas que elaborará considerando la opinión de instituciones gubernamentales y no gubernamentales que se desempeñen en el ámbito de la transparencia, el acceso a la información y la protección de datos personales, y quienes deberán ser designados por el voto de las dos terceras partes de los integrantes del Congreso del Estado.
+BASE CUARTA. Tendrá competencia para conocer de los asuntos relacionados con el acceso a la información pública y la protección de datos personales en posesión o a cargo de los poderes Ejecutivo, Legislativo y Judicial o de cualquier autoridad, entidad, órgano u organismo que forme parte de éstos, ayuntamientos, órganos autónomos, fideicomisos y fondos públicos, así como de partidos políticos, sindicatos o cualquier persona física o moral que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal.
 
-EI Presidente del Congreso citará al Consejero designado, para que rinda la protesta de Ley al cargo, ante el Pleno o en los recesos, ante la Diputación Permanente.
+Sus resoluciones son vinculatorias, definitivas e irrecurribles para los sujetos obligados, con las excepciones que prevé el artículo 6o. de la Constitución Política de los Estados Unidos Mexicanos en los términos de las leyes aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2015)</small>
+
+BASE QUINTA. El organismo autónomo se integra por tres comisionados. Para su designación, el Ejecutivo del Estado, propondrá éstos ante el Congreso del Estado, mediante ternas que elaborará considerando la opinión de instituciones gubernamentales y no gubernamentales que se desempeñen en el ámbito de la transparencia, el acceso a la información y la protección de datos personales, y quienes deberán ser designados por el voto de las dos terceras partes de los integrantes del Congreso del Estado.
+
+El Presidente del Congreso citará al Consejero designado, para que rinda la protesta de Ley al cargo, ante el Pleno o en los recesos, ante la Diputación Permanente.
 
 En caso de que el Pleno del Congreso del Estado no apruebe la propuesta, el titular del Ejecutivo presentará una nueva terna.
 
 Los consejeros durarán en su encargo siete años, sin posibilidad de reelección y durante el tiempo que dure su nombramiento no podrán tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia, y sólo podrán ser removidos de su cargo en los términos del Título Noveno de esta Constitución.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2015)</small>
+
+En la conformación del organismo garante se procurará la equidad de género.
 
 Su Presidente ser designado por los propios consejeros, mediante voto secreto, por un periodo de dos años, con posibilidad de ser reelecto por un periodo igual; estará obligado a rendir un informe anual en la fecha y en los términos que disponga la Ley de la materia.
 
@@ -1957,11 +1969,9 @@ c).- El Poder Ejecutivo y el Legislativo.
 
 B. Las acciones de inconstitucionalidad que promueva al menos una tercera parte de los integrantes del Congreso del Estado y que tengan por objeto plantear la posible contradicción entre una norma de carácter general y esta Constitución.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2015)</small>
 
-(ADICIONADO, P.O. 6 DE DICIEMBRE DE 2013) N. DE E. SÓLO EN CUANTO AL CONTENIDO, PORQUE DEL ANÁLISIS DEL TEXTO ANTERIOR, SE APRECIA LA EXISTENCIA DE UN SEGUNDO PÁRRAFO.
-
-El Consejero Presidente del organismo autónomo, señalado en el apartado B del artículo 14 de esta Constitución, por acuerdo del Pleno de su Consejo General, podrá promover acciones de inconstitucionalidad que tengan por objeto plantear la posible contradicción entre una norma de carácter general y esta Constitución, en materia de acceso a la información pública y protección de datos personales.
+El Comisionado Presidente del organismo autónomo, señalado en el apartado B del artículo 14 de esta Constitución, por acuerdo del Pleno de su Consejo General, podrá promover acciones de inconstitucionalidad que tengan por objeto plantear la posible contradicción entre una norma de carácter general y esta Constitución, en materia de acceso a la información pública y protección de datos personales.
 
 Las acciones de inconstitucionalidad sólo podrán ejercitarse, dentro de los treinta días naturales siguientes a la fecha de publicación de la norma.
 
@@ -3671,7 +3681,7 @@ Artículo Cuarto. El personal de base que a la entrada en vigor de la presente L
 
 Artículo Quinto. El Instituto de Acceso a la Información Pública para el Estado de Guanajuato en su carácter de organismo constitucional autónomo, con el concurso de la Secretaría de Finanzas, Inversión y Administración, realizarán los ajustes de recursos humanos, financieros y materiales, los que deberán efectuarse en los términos de las disposiciones legales aplicables, garantizando la continuidad de la operación y de las actividades del Instituto.
 
-Artículo Sexto. EI Congreso del Estado deberá adecuar la Ley de Transparencia y Acceso a la Información Pública para el Estado y los Municipios de Guanajuato, en un término de ciento ochenta días, contado a partir del inicio de vigencia del presente Decreto.
+Artículo Sexto. El Congreso del Estado deberá adecuar la Ley de Transparencia y Acceso a la Información Pública para el Estado y los Municipios de Guanajuato, en un término de ciento ochenta días, contado a partir del inicio de vigencia del presente Decreto.
 
 En tanto el Instituto de Acceso a la Información Pública para el Estado de Guanajuato expide las demás disposiciones administrativas necesarias para su operación, seguirán aplicándose las emitidas con anterioridad a su vigencia, en las materias correspondientes, en lo que no se opongan al presente Decreto. Las medidas administrativas dictadas con fundamento en disposiciones anteriores en la materia, continuarán en vigor hasta que no sean revocadas o modificadas expresamente por las autoridades competentes.
 
@@ -3756,3 +3766,7 @@ Artículo Segundo. La reforma del párrafo segundo y la adición del párrafo te
 Derogación del artículo tercero transitorio de la reforma constitucional de 2010
 
 Artículo Tercero. Se deroga el Artículo Tercero Transitorio del Decreto número 53 publicado en el Periódico Oficial del Gobierno del Estado número 33, segunda parte de fecha 26 de febrero de 2010.
+
+P.O. 11 DE DICIEMBRE DE 2015.
+
+Artículo Único. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
