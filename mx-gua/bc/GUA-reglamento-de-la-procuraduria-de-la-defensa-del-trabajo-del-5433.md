@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-procuraduria-de-la-defensa-del-trabajo-del-543
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-06-20"
-last_updated: "1995-06-20"
+last_updated: "2015-12-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5433&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # REGLAMENTO DE LA PROCURADURIA DE LA DEFENSA DEL TRABAJO DEL ESTADO DE GUANAJUATO
 
-REGLAMENTO DE LA PROCURADURIA DE LA DEFENSA DEL TRABAJO DEL ESTADO DE GUANAJUATO
+REGLAMENTO DE LA PROCURADURÍA DE LA DEFENSA DEL TRABAJO DEL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO DE LA PROCURADURÍA DE LA DEFENSA DEL TRABAJO, PUBLICADO EN EL P.O. DE 11 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 20 de junio de 1995.
 
@@ -71,7 +73,7 @@ VIII.- Interponer demanda de amparo ante las autoridades competentes, siempre qu
 
 IX.- Representar y asesorar a los trabajadores o a los sindicatos de los mismos, en el Juicio de Amparo en que figuren como terceros perjudicados.
 
-C A P l T U L O l l.
+C A P l T U L O II.
 
 DE LAS DEPENDENCIAS DE LA PROCURADURIA.
 
@@ -227,7 +229,9 @@ El Procurador que corresponda, podrá emplear el medio de apremio necesario para
 
 I.- Multa que no podrá exceder de 7 veces el salario mínimo general, vigente en el lugar y tiempo en que se cometa la violación.
 
-ARTICULO DEClMO NOVENO.- Las correcciones disciplinarias y este medio de apremio se impondrán de plano, sin substanciación alguna, pero deberán estar fundadas y motivadas en los términos de los artículos 14 y 16 de la Constitución Política de los Estados Unidos Mexicanos.
+###### ARTICULO DECIMO NOVENO.
+
+Las correcciones disciplinarias y este medio de apremio se impondrán de plano, sin substanciación alguna, pero deberán estar fundadas y motivadas en los términos de los artículos 14 y 16 de la Constitución Política de los Estados Unidos Mexicanos.
 
 ###### ARTICULO VIGESIMO.
 
@@ -358,3 +362,17 @@ ING. CARLOS MEDINA PLASCENCIA.
 EL SECRETARIO DE GOBIERNO.
 
 LIC. FELIPE ARTURO CAMARENA GARCÍA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO NÚMERO 138, MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO DE LA PROCURADURÍA DE LA DEFENSA DEL TRABAJO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación del Reglamento vigente
+
+Artículo Segundo. Se abroga el Decreto Gubernativo número 154, por virtud del cual se expide el Reglamento de la Procuraduría de la Defensa del Trabajo del Estado de Guanajuato, publicado en el Periódico Oficial del Gobierno del Estado número 49, Segunda Parte, del 20 de junio de 1995.
