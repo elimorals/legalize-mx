@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-civiles-para-el-estado-de-baja-21818"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2015-11-13"
+last_updated: "2015-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2015.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -777,11 +777,17 @@ ART. 109.- Los Tribunales deberán acordar de conformidad que los exhortos y des
 
 ### CAPITULO V. De las notificaciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2015)</small>
+
+ART. 110.- Las notificaciones, citaciones y emplazamientos se efectuarán dentro de los tres días siguientes al en que se dicten las resoluciones que las prevengan, cuando el Juez o la ley no dispusieren otra cosa. Los infractores de esta disposición serán destituidos de su cargo cuando reincidan por más de tres ocasiones, sin responsabilidad para el Tribunal Superior de Justicia previa audiencia de defensa ante el Juez o Magistrado correspondiente.
+
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
-ART. 110.- Las notificaciones, citaciones y emplazamientos se efectuarán dentro de los tres días siguientes al en que se dicten las resoluciones que las prevengan, cuando el Juez o la ley no dispusieren otra cosa. Los infractores de esta disposición serán destituídos de su cargo cuando reincidan por más de tres ocasiones, sin responsabilidad para el Tribunal Superior de Justicia previa audiencia de defensa ante el Juez o Magistrado correspondiente.
-
 Para los anteriores efectos, se llevará un registro diario de los expedientes que se les entreguen, debiendo recibirlos bajo su firma y directamente del secretario de acuerdos, a quien se le devolverán dentro del plazo señalado.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2015)</small>
+
+Salvo las diligencias, citaciones y emplazamientos que requieran intervención de alguna de las partes, las demás se practicarán de oficio.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -875,7 +881,9 @@ IV.- Cuando la persona a quien deba emplazarse no radique en el lugar del juicio
 
 V.- Si la persona emplazada radica en el extranjero, el emplazamiento podrá hacérsele mediante carta rogatoria o exhorto, o por correo certificado con acuse de recibo, contándose en este último caso el emplazamiento como hecho a partir de la fecha en que se reciba en el Juzgado, de la Oficina de Correos, el acuse de recibo debidamente firmado por el interesado;
 
-En todos los casos de emplazamiento, los Jueces tendrán obligación de cerciorarse de oficio de que el emplazamiento se hizo de acuerdo con las reglas establecidas en este Artículo, y de que la noticia del mismo pudo razonablemente llegar al interesado, y tienen facultades para mandar reponer el irregularmente hecho, antes de que el juicio continúe sus trámites, imponiendo una corrección disciplinaria al Actuario cuando aparezca responsable.
+> <small>(REFORMADO, P.O. 11 DE DICIEMBRE DE 2015)</small>
+
+En todos los casos de emplazamiento, los Jueces tendrán obligación de cerciorarse de oficio de que el emplazamiento se lleve a cabo conforme lo establece el artículo 110 de este Código, así como de acuerdo con las reglas establecidas en este Artículo, y de que la noticia del mismo pudo razonablemente llegar al interesado, y tienen facultades para mandar reponer el irregularmente hecho, antes de que el juicio continúe sus trámites, imponiendo una corrección disciplinaria al Actuario cuando aparezca responsable.
 
 > <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
@@ -2921,6 +2929,14 @@ ART. 410.- Los documentos simples comprobados por testigos, tendrán el valor qu
 
 ART. 411.- El documento que un litigante presenta, prueba plenamente en su contra, en todas sus partes, aunque el colitigante no lo reconozca.
 
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2015)</small>
+
+ART. 411 BIS.- Se reconoce como prueba la información generada o comunicada que conste en medios electrónicos, ópticos o en cualquier otra tecnología.
+
+Para valorar la fuerza probatoria de la información a que se refiere este artículo, se estimará primordialmente la fiabilidad del método en que hubiere sido generada, comunicada, recibida o archivada y, en su caso, si es posible atribuir a las personas obligadas el contenido de la información relativa y ser accesible para su ulterior consulta.
+
+Cuando la ley requiera que un documento sea conservado y presentado en su forma original, ese requisito quedará satisfecho si se acredita que la información generada, comunicada, recibida o archivada por medios electrónicos, ópticos o de cualquier otra tecnología, se ha mantenido íntegra e inalterada a partir del momento en que se generó por primera vez en su forma definitiva y ésta pueda ser accesible para su ulterior consulta.
+
 (REPUBLICADO, P.O. 26 DE MAYO DE 1995)
 
 ART. 412.- El reconocimiento o inspección judicial hará prueba plena cuando se haya practicado en objetos que no requieren conocimientos especiales o científicos.
@@ -3669,7 +3685,7 @@ Presentado el plan de partición, quedará en la secretaría a la vista de los i
 
 ART. 510.- Si la sentencia condena a no hacer, su infracción se resolverá en el pago de daños y perjuicios al actor, quien tendrá el derecho de señalarlos para que por ellos se despache ejecución, sin perjuicio de la pena que señale el contrato o el testamento.
 
-(REPUBLICADO, P.O. 26 DE MAYO DE 1995)
+> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
 
 ART. 511.- Cuando en virtud de la sentencia o de la determinación del Juez debe entregarse alguna cosa inmueble, se procederá inmediatamente a poner en posesión de la misma al actor o a la persona en quien fincó el remate aprobado, practicando a este fin todas las diligencias conducentes que solicite el interesado.
 
@@ -7064,3 +7080,15 @@ DECRETO No. 350 POR EL QUE SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 111 Y 112 D
 PRIMERO.- Las presentes reformas entrarán en vigor dentro de un plazo de hasta 180 días naturales posteriores a su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO.- Dentro de dicho plazo el Poder Judicial expedirá las normas reglamentarias para su debida implementación.
+
+P.O. 11 DE DICIEMBRE DE 2015.
+
+DECRETO No. 404 POR EL QUE SE APRUEBA LA ADICIÓN DE UN TERCER PÁRRAFO AL ARTÍCULO 110, ASÍ COMO LA REFORMA AL ARTÍCULO 117, AMBOS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO: EI presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 11 DE DICIEMBRE DE 2015.
+
+DECRETO No. 405 POR EL QUE SE APRUEBA LA ADICIÓN DEL ARTÍCULO 411 BIS AL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA.
+
+ÚNICO: El presente decreto entrará en vigor el día siguiente al de su publicación el Periódico Oficial del Estado.
