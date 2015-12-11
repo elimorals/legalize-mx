@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-ley-organica-de-la-procuraduria-general-de-110
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-10-30"
-last_updated: "2015-10-30"
+last_updated: "2015-12-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de octubre de 2015.
 
@@ -343,6 +343,14 @@ d) El Instituto de Formación Profesional.
 
 XI. El Instituto de Criminalística y Servicios Periciales;
 
+> <small>(ADICIONADA, P.O. 11 DE DICIEMBRE DE 2015)</small>
+
+XII. La Subprocuraduría Especializada en Combate a la Corrupción, de la cual dependerán:
+
+a) La Dirección de Atención a Denuncias, y
+
+b) La Dirección de Investigación y Procesos.
+
 ###### Artículo 9°.
 
 De las Unidades Administrativas
@@ -359,7 +367,9 @@ De los Titulares de las Unidades Administrativas Centrales
 
 Cada unidad administrativa central contará con un titular que ejercerá autoridad jerárquica sobre todo el personal que la conforme, y será responsable del cabal cumplimiento de las atribuciones que a la unidad administrativa central le correspondan, o que a ellos mismos como tales, les confiera la Ley, este Reglamento y las demás normas aplicables. Tales titulares serán:
 
-I. Subprocurador, para el caso de la Subprocuraduría del Ministerio Público y de la Subprocuraduría Jurídica;
+> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2015)</small>
+
+I. Subprocurador, para el caso de las Subprocuradurías.
 
 II. Directores Generales para las Direcciones Generales, la Agencia Estatal de Investigaciones, Fiscalías Regionales, la Fiscalía Especializada de Atención a la Mujer y la Fiscalía Especializada en Justicia para Adolescentes;
 
@@ -511,7 +521,9 @@ XL. Las demás que le encomiende el Procurador, su superior jerárquico o le oto
 
 De la Subprocuraduría del Ministerio Público
 
-La Subprocuraduría del Ministerio Público depende directamente del Procurador y es la unidad administrativa central responsable de realizar las acciones propias del Ministerio Público en la investigación y persecución de los delitos, así como la ejecución de sentencias, con el auxilio de las instancias adecuadas y las correspondientes en materia de adolescentes infractores, siendo competente para:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2015)</small>
+
+La Subprocuraduría del Ministerio Público depende directamente del Procurador y, con excepción de las funciones propias de la Subprocuraduría Especializada en Combate a la Corrupción, es la unidad administrativa central responsable de realizar las acciones propias del Ministerio Público en la investigación y persecución de los delitos, así como la ejecución de sentencias, con el auxilio de las instancias adecuadas y las correspondientes en materia de adolescentes infractores, siendo competente para:
 
 I. Acordar con el Procurador el despacho de los asuntos de su competencia y de las unidades a su cargo;
 
@@ -1623,6 +1635,116 @@ VI. Administrar el archivo de identificación policial, y
 
 VII. Las demás que le encomiende el Procurador o le otorguen la Ley, este Reglamento y demás normas aplicables.
 
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 46 Bis.
+
+De la Subprocuraduría Especializada en Combate a la Corrupción
+
+La Subprocuraduría Especializada en Combate a la Corrupción depende directamente del Procurador, es una unidad administrativa central con autonomía técnica y operativa en el ejercicio de sus funciones; y es responsable y especializada en investigar y perseguir las conductas delictivas cometidas por servidores públicos del Estado y Municipios de Nuevo León en ejercicio de sus funciones o con motivo de éstas, o por personas de derecho privado que ejerzan funciones públicas, por sí mismos o con participación de otros sujetos, de acuerdo con la legislación penal, siendo competente para realizar las acciones referidas en los artículos 6 y 7 de la Ley, 5 y 7 de este Reglamento, y para las siguientes:
+
+I. Acordar con el Procurador el despacho de los asuntos de su competencia y de las unidades a su cargo;
+
+II. Coordinar y supervisar las actividades que realicen los Agentes del Ministerio Público a su cargo en la investigación de los delitos que tenga conocimiento, en el ejercicio o no de la acción penal y la persecución de los delitos ante los tribunales;
+
+III. Supervisar el cumplimiento de las bases o lineamientos expedidos por el Procurador, para que los Agentes del Ministerio Público a su cargo actúen en materia de conclusiones no acusatorias, retiro de la acusación o de actos cuya consecuencia sea el sobreseimiento del proceso o la libertad absoluta del inculpado, antes de que se pronuncie sentencia; así como de criterios de oportunidad, solicitud de medidas cautelares, providencias precautorias, consentimiento del procedimiento abreviado y la suspensión del procedimiento a prueba;
+
+IV. Coordinar, con base en los lineamientos que señale el Procurador, el intercambio de criterios de aplicación técnico penal con otras Procuradurías y órganos jurisdiccionales para mejorar la procuración e impartición de justicia en materia de combate a la corrupción en el Estado, y promover la difusión para su debida observancia;
+
+V. Establecer los métodos y lineamientos para mejorar la calidad técnica y jurídica del desempeño del Ministerio Público a su cargo, la investigación policial de los delitos cometidos por servidores públicos del Estado y los Municipios de Nuevo León en ejercicio de sus funciones o con motivo de éstas, o por sujetos de derecho privado que ejerzan funciones públicas, por sí o en participación con otras personas, y los dictámenes periciales en la materia, con pleno respeto a los derechos humanos;
+
+VI. Remitir al área competente los bienes asegurados, recuperados e instrumentos del delito vinculados a las indagatorias;
+
+VII. Atender técnica, procesal y jurídicamente la participación del Ministerio Público en los términos de los Convenios de Colaboración y demás Acuerdos celebrados en la Conferencia Nacional de Procuración de Justicia, relacionados con el combate a la corrupción; estableciendo las órdenes pertinentes y conducentes para lograr los objetivos convenidos;
+
+VIII. Establecer los mecanismos de colaboración entre las unidades administrativas a su cargo, de conformidad con la legislación aplicable y los lineamientos establecidos por el Procurador;
+
+IX. Vigilar que se le respeten los derechos humanos de los individuos y se proporcione la debida atención y protección a las víctimas u ofendidos por la comisión delictiva;
+
+X. Supervisar la actuación del Ministerio Público en cuanto al procedimiento que corresponda en materia de extinción de dominio respecto de conductas delictivas cometidas por los servidores públicos del Estado y Municipios de Nuevo León en ejercicio de sus funciones o con motivo de éstas, o por sujetos de derecho privado que ejerzan funciones públicas, por sí o en participación con otras personas;
+
+XI. Dar seguimiento a los pedimentos de medidas cautelares, medidas cautelares anticipadas, providencias precautorias y toda aquella solicitud formulada por el Ministerio Público a la autoridad jurisdiccional;
+
+XII. Supervisar la intervención del Ministerio Público en cuanto a la ejecución de sanciones y medidas de seguridad;
+
+XIII. Convocar y presidir las reuniones que deban celebrarse con las diferentes unidades administrativas, unidades administrativas subalternas y demás personal de la Procuraduría, para definir o desarrollar estrategias en los asuntos de su competencia;
+
+XIV. Promover la participación ciudadana en la búsqueda de información sobre temas relacionados con la corrupción y su combate, así como su discusión y divulgación, garantizando la libertad y la seguridad de quienes desarrollan actividades en este sentido, pero dejando a salvo la reputación y los derechos humanos de los terceros, y la seguridad ciudadana;
+
+XV. Promover la participación de la comunidad académica en el análisis de las problemáticas inherentes al fenómeno de la corrupción, así como la divulgación de los resultados y de las soluciones que resulten estos estudios;
+
+XVI. Rendir un informe mensual al Procurador sobre las decisiones que haya tomado en el ejercicio de sus competencias; y,
+
+XVII. Las que le encomiende el Procurador o le otorguen la Ley, este Reglamento y demás normas aplicables.
+
+A falta de claridad en cuanto a la competencia entre la Subprocuraduría del Ministerio Público y la Subprocuraduría Especializada en Combate a la Corrupción, podrá intervenir cualquiera de ellas a prevención. Cualquier cuestión al respecto será resuelta por el Procurador.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 46 Bis 1.
+
+De la Dirección de Atención a Denuncias
+
+La Dirección de Atención a Denuncias depende de la Subprocuraduría Especializada en Combate a la Corrupción, y es la unidad administrativa responsable de ser el contacto con quien presente denuncia o querella relacionada con la presunta comisión de algún delito por parte de los servidores públicos del Estado y los Municipios de Nuevo León en ejercicio de sus funciones o con motivo de éstas, o por personas de derecho privado que ejerzan funciones públicas, por sí mismos o con participación de otros sujetos; canalizándolo a la instancia de atención correspondiente, siendo competente para:
+
+I. Recibir las denuncias, querellas y partes policiales de los delitos presuntamente cometidos por servidores públicos del Estado y Municipios de Nuevo León en ejercicio de sus funciones o con motivo de éstas, o por personas de derecho privado que ejerzan funciones públicas, por sí mismos o con participación de otros sujetos;
+
+II. Supervisar el trabajo de los Agentes del Ministerio Público Orientadores a su cargo;
+
+III. Canalizar a las instancias correspondientes los asuntos que por su naturaleza no ameriten una investigación por parte del Ministerio Público;
+
+IV. Levantar las actas, conforme lo dispone la legislación procesal penal aplicable;
+
+V. Recibir las puestas a disposición de los detenidos en flagrancia y analizar la procedencia de la ratificación de las mismas;
+
+VI. Supervisar el correcto funcionamiento de las Unidades de Control de Detenidos;
+
+VII. Enviar a la Dirección de Investigación y Procesos, la información necesaria para el desarrollo de la carpeta de investigación; y,
+
+VIII. Las demás que le encomienden el Procurador General de Justicia y el Subprocurador Especializado en Combate a la Corrupción, o le otorguen la Ley, este Reglamento y las demás disposiciones legalmente aplicables.
+
+> <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 46 Bis 2.
+
+De la Dirección de Investigación y Procesos
+
+La Dirección de Investigación y Procesos depende de la Subprocuraduría Especializada en Combate a la Corrupción y es una unidad administrativa responsable y especializada en investigar y perseguir las conductas delictivas cometidas por servidores públicos del Estado y los Municipios de Nuevo León en ejercicio de sus funciones o con motivo de éstas, o por personas de derecho privado que ejerzan funciones públicas, por sí mismos o con participación de otros sujetos; siendo competente para:
+
+I. Recibir de la Dirección de Atención y Denuncias las denuncias, querellas y partes policiales de los delitos presuntamente cometidos por servidores públicos del Estado y Municipios de Nuevo León en ejercicio de sus funciones o con motivo de éstas, o por personas de derecho privado que ejerzan funciones públicas, por sí mismos o con participación de otros sujetos, iniciando la carpeta de investigación correspondiente;
+
+II. Vigilar que los Agentes del Ministerio Público Investigadores, de las Unidades de Investigación a su mando, se conduzcan con estricto apego a lo establecido en la normatividad aplicable, respetando los derechos humanos del imputado y de las víctimas u ofendidos por la comisión del delito;
+
+III. Supervisar a los Agentes del Ministerio Público Investigadores para que realicen las actuaciones necesarias dentro de las carpetas de investigación que tengan a su cargo, y en las que se proponga cualquier acto a realizar en la etapa de Investigación, Audiencia Intermedia, Audiencia de Juicio Oral y en la segunda Instancia, haciendo el estudio respectivo para determinar lo procedente;
+
+IV. Recibir de los Agentes del Ministerio Público de su adscripción, en los términos de los acuerdos que al efecto emita el Procurador, las carpetas de investigación debidamente agotadas en las que se proponga el no ejercicio de la acción penal, haciendo el estudio respectivo para determinar lo procedente;
+
+V. Supervisar las carpetas de investigación que estime incompletas y señalar las diligencias que deban practicarse o los medios de prueba que deban recabarse, para su debida integración y perfeccionamiento;
+
+VI. Resolver los conflictos de competencia que se presenten entre sus Agentes del Ministerio Público, así como las diferencias de criterio que surjan entre ellos;
+
+VII. Someter a la aprobación del Procurador los casos en los que se pretenda prescindir, total o parcialmente, de la persecución penal, que se límite a alguno o varios hechos o a alguna de las personas que participaron en su realización, debiendo adoptar los criterios de oportunidad señalados en la ley aplicable;
+
+VII. Poner a la consideración del Subprocurador Especializado en Combate a la Corrupción, los criterios que deban observarse en las solicitudes de medidas cautelares, criterios de oportunidad, procedimiento abreviado, suspensión del proceso a prueba y acusaciones, de conformidad con los lineamientos respectivos ya establecidos;
+
+VIII. Dictar las medidas idóneas para que las investigaciones se lleven a cabo bajo los principios de legalidad, eficiencia, profesionalismo y honradez, así como para que el personal que le esté adscrito siga métodos científicos que garanticen el aprovechamiento óptimo de los recursos humanos, materiales y tecnológicos a su cargo;
+
+IX. Establecer, en coordinación con la Dirección de Orientación, Protección y Apoyo a Víctimas de Delitos y Testigos, los mecanismos necesarios para que las víctimas y ofendidos por delitos reciban el apoyo jurídico, psicológico y social y, en caso de ser necesario, a sus familiares o testigos;
+
+X. Remitir a la Dirección de Orientación, Protección y Apoyo a Víctimas de Delitos y Testigos, a los menores e incapaces para su debida atención, o a cualquier otra persona, cuando de los casos en que intervenga se desprenda que es necesaria su atención;
+
+XI. Supervisar el correcto funcionamiento de las Unidades de Investigación;
+
+XII. Aplicar los métodos y lineamientos establecidos por el Subprocurador Especializado en Combate a la Corrupción para mejorar la calidad técnica y jurídica de los Agentes del Ministerio Público a su cargo, así como los necesarios para la operatividad funcional conforme al marco legal;
+
+XIII. Dirigir y vigilar las acciones requeridas para la representación de la Procuraduría frente a los órganos de control constitucional en los términos previstos por la Ley, este Reglamento y demás disposiciones legalmente aplicables;
+
+XIV. Tener a su cargo la actuación procesal del Ministerio Público en los procesos penales;
+
+XV. Coordinar y vigilar la ejecución de los mandamientos que ordene la autoridad judicial, así como vigilar su cumplimiento, y
+
+XVI. Las demás que le encomienden el Procurador General de Justicia y el Subprocurador Especializado en Combate a la Corrupción, o le otorguen la Ley, este Reglamento y las demás disposiciones legalmente aplicables.
+
 ### CAPÍTULO IV. DE LAS AUSENCIAS Y SUPLENCIAS DE LOS SERVIDORES PÚBLICOS
 
 ###### Artículo 47.
@@ -2366,3 +2488,17 @@ CARLOS ALBERTO GARZA IBARRA
 EL C. PROCURADOR GENERAL DE JUSTICIA
 
 ROBERTO CARLOS FLORES TREVIÑO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA EL REGLAMENTO DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO MEDIANTE LA ADICIÓN DE UNA FRACCIÓN XII A SU ARTÍCULO 8°, ASÍ COMO DE LOS ARTÍCULOS 46 BIS, 46 BIS l Y 46 BIS 2; Y LA MODIFICACIÓN DE LA FRACCIÓN I DEL ARTÍCULO 10 Y DEL PRIMER PÁRRAFO DEL ARTÍCULO 19”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Procurador General de Justicia del Estado deberá presentar al Ejecutivo del Estado propuesta de nombramiento del Subprocurador Especializado en el Combate a la Corrupción, dentro de un plazo de quince días a partir de la entrada en vigor del presente Decreto.
+
+TERCERO. Dentro de los treinta días siguientes a la entrada en vigor de este Decreto, el Procurador General de Justicia del Estado deberá expedir un Acuerdo para la creación de las unidades administrativas subalternas de la Subprocuraduría Especializada en el Combate a la Corrupción y adscribirá a los servidores públicos correspondientes.
+
+CUARTO. Los casos que actualmente se estén tramitando ante las Agencias del Ministerio Público o Unidades de Investigación Especializadas en Delitos Cometidos por Servidores Públicos y Delitos Electorales, y estén relacionados delitos electorales o con los delitos a que se contrae la competencia de la Subprocuraduría Especializada en Combate a la Corrupción, continuarán tramitándose hasta su conclusión por conducto de aquellas, aplicándose en lo conducente las disposiciones reglamentarias que estaban en vigor a su inicio.
