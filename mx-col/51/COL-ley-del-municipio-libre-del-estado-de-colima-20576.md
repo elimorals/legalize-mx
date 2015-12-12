@@ -4,7 +4,7 @@ identifier: "COL-ley-del-municipio-libre-del-estado-de-colima-20576"
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-31"
-last_updated: "2015-08-01"
+last_updated: "2015-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20576&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE ENERO DE 2016 EN EL PERIÓDICO OFICIAL DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 31 de marzo de 2001.
 
@@ -315,13 +317,21 @@ I. Consultas populares para la elaboración de planes y programas o para la toma
 
 II. Contraloría social;
 
-III. Consejos y comités municipales para tareas comunitarias y vecinales;
+> <small>(REFORMADA, P.O. 12 DE DICIEMBRE DE 2015)</small>
+
+III. Consejos y comités municipales para tareas comunitarias y vecinales, así como para asesorar a las autoridades municipales en las áreas principales reguladas por los ordenamientos respectivos;
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2015)</small>
 
 IV. Instituciones de democracia directa: iniciativa popular, plebiscito, referéndum, y presupuesto participativo, de conformidad con la ley de la materia; y
 
-V. Los demás que establezcan las autoridades municipales.
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 12 DE DICIEMBRE DE 2015)</small>
+
+V. Observatorios ciudadanos, encargados de la vigilancia del desempeño de las funciones de los Ayuntamientos y sus integrantes, así como de transparentar los resultados logrados por las políticas públicas.
+
+> <small>(ADICIONADA, P.O. 12 DE DICIEMBRE DE 2015)</small>
+
+VI. Los demás que establezcan las autoridades municipales.
 
 ###### ARTICULO 24.
 
@@ -333,9 +343,9 @@ II. Se integrarán por vecinos del municipio, por designación de ellos mismos, 
 
 III. Contribuirán al cumplimiento de los planes y programas del municipio, impulsarán la colaboración y participación de sus habitantes, gestionarán la atención de demandas y propuestas de interés general, propondrán al ayuntamiento medidas para la prestación de servicios públicos, para la realización de obra pública y para la preservación y restauración del ambiente, así como alternativas de solución para los problemas de sus localidades o regiones.
 
-> <small>(ADICIONADA, CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 11 DE JULIO DE 2015)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE DICIEMBRE DE 2015)</small>
 
-#### SECCIÓN ÚNICA. DE LOS COMITÉS MUNICIPALES DE PARTICIPACIÓN VECINAL
+#### SECCIÓN PRIMERA. DE LOS COMITÉS MUNICIPALES DE PARTICIPACIÓN VECINAL
 
 > <small>(ADICIONADO, P.O. 11 DE JULIO DE 2015)</small>
 
@@ -347,9 +357,29 @@ Su finalidad es el logro de beneficios comunitarios en temas relativos a la cons
 
 ARTICULO 24 BIS 1. Sus actividades son permanentes, pero se hará una renovación periódica de sus integrantes; quienes no podrán desempeñar cargos en algún partido político o dependencia gubernamental del ámbito federal, estatal o municipal.
 
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2015)</small>
+
+Estos órganos consultivos, por su naturaleza ciudadana, en ningún caso asumirán funciones que constitucional o legalmente sean propias de los Ayuntamientos o de la administración pública que les deriva.
+
+El cargo de integrantes de estos órganos será honorífico, por lo que no percibirán sueldo o remuneración económica alguna por su ejercicio.
+
 > <small>(ADICIONADO, P.O. 11 DE JULIO DE 2015)</small>
 
 ARTICULO 24 BIS 2. Con sujeción a los principios de democracia, tolerancia, participación, solidaridad, transparencia, pluralidad, y autonomía, los Ayuntamientos establecerán y regularán, en el reglamento correspondiente, la conformación, elección de los integrantes, su remoción, así como el funcionamiento general, los derechos, atribuciones y obligaciones de los comités de participación vecinal.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 12 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN SEGUNDA. DE LOS OBSERVATORIOS CIUDADANOS
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2015)</small>
+
+ARTICULO 24 BIS 3. Los Observatorios Ciudadanos son órganos, no pertenecientes a la administración pública, cuyo objeto es defender la transparencia en la actuación y el cumplimiento de funciones de los Ayuntamientos, así como de sus miembros y empleados.
+
+Asimismo, estos órganos tendrán la facultad de erigirse en consejos de vigilancia de las políticas en áreas de interés ciudadano, especialmente en materia de seguridad pública.
+
+Estarán también a cargo de la divulgación y comunicación de los resultados logrados por los programas y políticas públicas del Municipio, a fin de garantizar la transparencia promovida por los propios ciudadanos.
+
+El cargo de miembro de los observatorios ciudadanos será honorífico, por lo que no se percibirá remuneración económica derivada de su ejercicio.
 
 ## TÍTULO SEGUNDO. DEL GOBIERNO MUNICIPAL
 
@@ -2138,3 +2168,11 @@ P.O. 1 DE AGOSTO DE 2015.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO. Si los Ayuntamientos acuerdan utilizar el presupuesto participativo, deberán emitir el Reglamento o los lineamientos correspondientes para su implementación.
+
+P.O. 12 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 24 POR EL QUE SE REFORMAN LAS FRACCIONES III Y V, DEL ARTÍCULO 23; EL NOMBRE DE LA SECCIÓN ÚNICA DEL CAPÍTULO V DEL TÍTULO PRIMERO, PARA QUEDAR COMO "SECCIÓN PRIMERA; DE LOS COMITÉS MUNICIPALES DE PARTICIPACIÓN VECINAL", SE ADICIONA UNA FRACCIÓN VI AL ARTÍCULO 23; SE ADICIONA EL PÁRRAFO SEGUNDO AL ARTÍCULO 24 BIS 1; Y UNA SECCIÓN SEGUNDA AL CAPÍTULO V DEL TÍTULO PRIMERO, CON EL NOMBRE "DE LOS OBSERVATORIOS CIUDADANOS", QUE INCLUYE EL ARTÍCULO 24 BIS 3; TODOS A LA LEY DEL MUNICIPIO LIBRE DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente de (sic) publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Los Ayuntamientos tendrán 90 días para adecuar sus reglamentos, con base a lo aprobado en el presente decreto.
