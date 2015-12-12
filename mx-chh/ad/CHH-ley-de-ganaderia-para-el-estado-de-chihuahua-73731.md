@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-ganaderia-para-el-estado-de-chihuahua-73731"
 country: "mx"
 rank: "ley"
 publication_date: "2010-02-27"
-last_updated: "2014-10-22"
+last_updated: "2015-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73731&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHH"
 
 LEY DE GANADERÍA PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2014.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE GANADERÍA DEL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. DE 12 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de febrero de 2010.
 
@@ -1690,3 +1692,43 @@ P.O. 22 DE OCTUBRE DE 2014
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 1037/2015 I P.O. LEY DE GANADERÍA DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Ganadería para el Estado de Chihuahua, expedida mediante Decreto No. 785/09 I P.O., publicado en el Periódico Oficial del Estado No. 17, de fecha 27 de febrero de 2010.
+
+###### ARTÍCULO TERCERO.
+
+Todas las obligaciones cuyo cumplimiento implique la aplicación del arete o identificador SINIDA, será exigible a partir del primer día del mes de enero del año 2017. El ganado que haya nacido antes de esta fecha, deberá quedar identificado con el arete SINIIGA, dentro de los seis meses de edad.
+
+###### ARTÍCULO CUARTO.
+
+En un plazo de noventa días contados a partir de la entrada en vigor de esta Ley, la Secretaría implementará un programa especial para efecto de dar a conocer las finalidades y beneficios del Sistema Nacional de Identificación Animal para Bovinos y Colmenas (SINIDA) y promover su aplicación por los ganaderos del Estado.
+
+###### ARTÍCULO QUINTO.
+
+El Ejecutivo Estatal expedirá el Reglamento de la presente Ley, dentro de los siguientes seis meses posteriores a la publicación de la misma.
+
+###### ARTÍCULO SEXTO.
+
+El Ejecutivo Estatal deberá crear el Organismo Público Descentralizado para el control de la Leche, dentro de los veinticuatro meses siguientes a la entrada en vigor del presente Decreto, mientras tanto la Secretaría realizará las funciones y/o atribuciones que le corresponden al organismo.
+
+###### ARTÍCULO SÉPTIMO.
+
+El Ejecutivo Estatal deberá crear el Fondo de Fomento Pecuario, dentro de los siguientes seis meses posteriores a la publicación de la presente Ley.
+
+###### ARTÍCULO OCTAVO.
+
+El artículo 83 relativo a la tarifa única del pase de ganado, entrará en vigor el primero de enero del año 2017, por lo que el Ejecutivo Estatal deberá realizar los convenios correspondientes con los Ayuntamientos de la Entidad, antes de la entrada en vigor de dicho numeral, para que estos puedan realizar el cobro correspondiente.
+
+###### ARTÍCULO NOVENO.
+
+Los ayuntamientos, en aras de garantizar la protección del estatus sanitario, así como la profesionalización y especialización del personal operativo de la Dirección de Desarrollo Rural o áreas que realicen sus atribuciones, respecto a las acciones y programas pecuarios, procurarán su permanencia de una administración a otra.
