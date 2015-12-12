@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-que-regula-la-propaganda-politica-o-electoral-y-9210
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-01-16"
-last_updated: "2013-01-16"
+last_updated: "2015-12-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "ZAC"
 
 REGLAMENTO QUE REGULA LA PROPAGANDA POLÍTICA O ELECTORAL Y GUBERNAMENTAL DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO PRIMERO DEL REGLAMENTO QUE REGULA LA PROPAGANDA ELECTORAL EN EL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 12 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 16 de enero de 2013.
 
@@ -458,7 +460,7 @@ Servidores Públicos. Intervención en actos inherentes a su cargo
 
 Artículo 28
 
-1. La intervención de servidores púbicos (sic) en actos relacionados con motivo de las funciones inherentes a su cargo no vulnera los principios de imparcialidad y equidad en la contienda, siempre y cuando no se difundan mensajes que contengan propuestas que impliquen la pretensión de ocupar un cargo de elección popular, la intención de obtener el voto, de favorecer o perjudicar a un partido político, candidata o candidato, o que de alguna manera los vincule a los procesos electorales.
+1. La intervención de servidores púbicos en actos relacionados con motivo de las funciones inherentes a su cargo no vulnera los principios de imparcialidad y equidad en la contienda, siempre y cuando no se difundan mensajes que contengan propuestas que impliquen la pretensión de ocupar un cargo de elección popular, la intención de obtener el voto, de favorecer o perjudicar a un partido político, candidata o candidato, o que de alguna manera los vincule a los procesos electorales.
 
 Propaganda política o electoral contraria a la Ley
 
@@ -493,3 +495,17 @@ Artículo 30
 Primero. Se abrogan los Lineamientos que deberán observar los partidos políticos y, en su caso, las coaliciones, para la colocación, retiro o cubrimiento, según corresponda, de la propaganda electoral utilizada en las precampañas y campañas electorales, aprobado el dos de diciembre de dos mil nueve.
 
 Segundo. El presente Reglamento entrará en vigor a partir de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO.- ACG-IEEZ-074/VI/2015, POR EL QUE SE APRUEBA EL REGLAMENTO QUE REGULA LA PROPAGANDA ELECTORAL EN EL ESTADO DE ZACATECAS Y ANEXO”.]
+
+Primero. Se abroga el Reglamento que Regula la Propaganda Política o Electoral y Gubernamental, aprobado por el Consejo General del Instituto Electoral el diez de enero de dos mil trece.
+
+Segundo. Se derogan todas aquellas disposiciones reglamentarias y demás normatividad que se oponga (sic) este Reglamento.
+
+Tercero. El presente Reglamento entrará en vigor a partir de su aprobación por el Consejo General del Instituto Electoral.
+
+Cuarto. Publíquese en el Periódico Oficial, Órgano del Gobierno del Estado.
