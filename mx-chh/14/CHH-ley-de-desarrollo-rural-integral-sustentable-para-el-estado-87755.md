@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-desarrollo-rural-integral-sustentable-para-el-estado-877
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-17"
-last_updated: "2013-10-02"
+last_updated: "2015-12-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87755&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE OCTUBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2015.
 
 Ley publicada en Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 17 de marzo de 2012.
 
@@ -267,7 +267,9 @@ El Gobierno del Estado definirá e instrumentará las políticas, programas y ac
 
 La Comisión Intersecretarial propondrá al Ejecutivo Estatal, con fundamento en la Ley de Planeación, el Programa Estatal Concurrente, las políticas públicas orientadas a la generación de empleo y a garantizar a la población rural el bienestar y su participación e incorporación al desarrollo estatal, dando prioridad a las zonas de alta y muy alta marginación y a la población económica y socialmente vulnerable.
 
-La Comisión Intersecretarial considerará las propuestas de las organizaciones que participan en el Consejo Estatal, a fin de incorporarlas en los Programas Especiales y Sectoriales. Igualmente, incorporará los compromisos que conforme a los convenios respectivos asuman los gobiernos de los municipios y establecerá las normas y mecanismos de evaluación y seguimiento a su aplicación.
+> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2015)</small>
+
+La Comisión Intersecretarial considerará las propuestas de las organizaciones que participan en el Consejo Estatal y del Sistema Estatal de Mitigación y Adaptación ante el Cambio Climático en el Sector Rural, a fin de incorporarlas en los Programas Especiales y Sectoriales. Igualmente, incorporará los compromisos que conforme a los convenios respectivos asuman los gobiernos de los municipios y establecerá las normas y mecanismos de evaluación y seguimiento a su aplicación.
 
 ###### Artículo 17.
 
@@ -933,11 +935,45 @@ La Secretaría, a través del Sistema Estatal de Información Agropecuaria, brin
 
 Para lograr estos propósitos, la Secretaría definirá la regionalización del Estado, considerando las principales variables socioeconómicas, culturales, agronómicas, de infraestructura y servicios, de disponibilidad y de calidad de sus recursos naturales y productivos.
 
-### CAPÍTULO I. DEL BIENESTAR SOCIAL Y LA ATENCIÓN PRIORITARIA A ZONAS MARGINADAS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO V. DEL SISTEMA ESTATAL DE MITIGACIÓN Y ADAPTACIÓN ANTE EL CAMBIO CLIMÁTICO EN EL SECTOR RURAL
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 96 Bis.
+
+El Sistema Estatal de Mitigación y Adaptación ante el Cambio Climático en el Sector Rural, es una instancia consultiva del Gobierno del Estado de Chihuahua, con carácter incluyente y representativo de los intereses de los productores y agentes de la sociedad rural.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 96 Ter.
+
+El Sistema se integrará de manera voluntaria por un número no menor de diez, ni mayor de veinte miembros, los cuales deberán ser representantes de instituciones de educación e investigación y organismos gubernamentales o no gubernamentales, con objetivos afines a la investigación rural, comprometidos con el desarrollo sustentable del sector agropecuario, además del personal de la Secretaría de Desarrollo Rural del Estado y de la Delegación en Chihuahua de la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 96 Quáter.
+
+El Sistema será presidido por el titular de la Secretaría y operará en los términos que disponga su reglamento interior.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 96 Quinquies.
+
+La participación del Sistema consistirá en la emisión de opiniones técnicas que permitan instrumentar normas y políticas públicas dirigidas a integrar capacidades, acciones y recursos que contribuyan al desarrollo sustentable del sector agropecuario del Estado de Chihuahua.
+
+Lo anterior, encaminado a aprovechar sustentablemente los recursos disponibles, al poner en práctica los conocimientos intelectuales, técnicos o tecnológicos, logrando eficiencia y eficacia en el uso y manejo de procesos estadísticos y de información para incrementar la producción y comercialización de los productos agropecuarios del Estado.
+
+> <small>(ADICIONADO, P.O. 12 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 96 Sexies.
+
+El Sistema, para cumplir con sus funciones, formará comisiones de trabajo en los temas sustantivos materia de la presente Ley.
 
 ## TÍTULO SEXTO. DEL DESARROLLO SOCIAL
 
-### CAPÍTULO II. DE LA SEGURIDAD Y SOBERANÍA ALIMENTARIA
+### CAPÍTULO I. DEL BIENESTAR SOCIAL Y LA ATENCIÓN PRIORITARIA A ZONAS MARGINADAS
 
 ###### Artículo 97.
 
@@ -983,9 +1019,7 @@ VII. Fomentar la producción y desarrollo de mercados para productos no tradicio
 
 VIII. Fomentar las medidas tendientes al arraigo en su lugar de origen.
 
-### CAPÍTULO I. DISPOSICIONES GENERALES
-
-> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2013)</small>
+### CAPÍTULO II. DE LA SEGURIDAD Y SOBERANÍA ALIMENTARIA
 
 ###### Artículo 102.
 
@@ -1023,7 +1057,7 @@ La Secretaría implementará los instrumentos necesarios que le permitan ser el 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE OCTUBRE DE 2013)</small>
 
-### CAPÍTULO II. PESCA
+### CAPÍTULO I. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2013)</small>
 
@@ -1157,7 +1191,7 @@ IV. Promoverá el ordenamiento de la pesca y acuacultura y diseñará estructura
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE OCTUBRE DE 2013)</small>
 
-### CAPÍTULO II (SIC). ACUACULTURA
+### CAPÍTULO II. PESCA
 
 > <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2013)</small>
 
@@ -1178,6 +1212,10 @@ El establecimiento y operación de artes de pesca fijas o cimentadas en aguas de
 Las personas que practiquen la pesca deportivo-recreativa desde tierra no requerirán permiso, quedando obligadas a utilizar las artes de pesca y respetar las tallas mínimas y límites de captura que autorice la autoridad federal competente conforme a las disposiciones que para tal efecto se emitan.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 2 DE OCTUBRE DE 2013)</small>
+
+### CAPÍTULO II (SIC). ACUACULTURA
+
+> <small>(ADICIONADO, P.O. 2 DE OCTUBRE DE 2013)</small>
 
 ###### Artículo 117.
 
@@ -1230,3 +1268,21 @@ P.O. 2 DE OCTUBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE DICIEMBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El titular del Poder Ejecutivo, deberá expedir el reglamento relativo a la estructura y operación del Sistema Estatal de Mitigación y Adaptación ante el Cambio Climático en el Sector Rural, dentro de los 180 días después de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Sistema Estatal de Mitigación y Adaptación ante el Cambio Climático en el Sector Rural, deberá quedar conformado dentro de los 365 días siguientes a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El titular del Poder Ejecutivo, deberá realizar las acciones administrativas necesarias para dar cabal cumplimiento a lo dispuesto en el presente Decreto.
