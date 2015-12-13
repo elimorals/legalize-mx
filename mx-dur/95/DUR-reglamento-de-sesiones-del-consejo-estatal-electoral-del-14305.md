@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-de-sesiones-del-consejo-estatal-electoral-del-14305"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-03-19"
-last_updated: "2009-06-04"
+last_updated: "2015-12-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14305&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 REGLAMENTO DE SESIONES DEL CONSEJO ESTATAL ELECTORAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE JUNIO DE 2009.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 13 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE DICIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el jueves 19 de marzo de 1998.
 
@@ -39,7 +41,7 @@ ACUERDO
 
 PRIMERO.- SE APRUEBA EL "REGLAMENTO DE SESIONES DEL CONSEJO ESTATAL DE DURANGO", BAJO LOS SIGUIENTES TÉRMINOS:
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE JUNIO DE 2009)</small>
 
 REGLAMENTO DE SESIONES DEL CONSEJO ESTATAL ELECTORAL
 
@@ -67,7 +69,7 @@ La interpretación de las disposiciones de este Reglamento, estará sujeta a los
 
 Artículo 4
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2009)</small>
 
 El Consejo Estatal Electoral se integra conforme lo previsto por los artículos 25 de la Constitución Política del Estado y 111 de la Ley Electoral en vigor.
 
@@ -109,7 +111,7 @@ DE LAS ATRIBUCIONES Y OBLIGACIONES DE LOS INTEGRANTES DEL CONSEJO ESTATAL ELECTO
 
 Artículo 8
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2009)</small>
 
 Los integrantes del Consejo Estatal, además de las que señala la Ley Electoral tendrán las siguientes atribuciones y obligaciones:
 
@@ -141,7 +143,7 @@ i) Ejercer libremente su derecho a voz y en su caso a voto; y,
 
 > <small>(REFORMADO, P.O. 4 DE JUNIO DE 2009)</small>
 
-j) Las demás que le confiera (sic) la Ley Electoral, leyes relativas, este Reglamento y el Consejo Estatal en ejercicio de sus atribuciones.
+j) Las demás que le confiera la Ley Electoral, leyes relativas, este Reglamento y el Consejo Estatal en ejercicio de sus atribuciones.
 
 ### CAPÍTULO III
 
@@ -259,7 +261,7 @@ o) Levantar y remitir el acta de la sesión correspondiente y someterla a consid
 
 p) Las demás que le sean conferidas por la Ley Electoral, este Reglamento, el Consejo Estatal, y el Consejero Presidente en términos de ley.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 4 DE JUNIO DE 2009)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE JUNIO DE 2009)</small>
 
 ### CAPÍTULO IV
 
@@ -275,7 +277,7 @@ En todos los asuntos que les encomienden las comisiones deberán presentar un in
 
 El Secretario del Consejo deberá colaborar con las comisiones que se integren para el cumplimiento de las tareas que se le hayan encomendado.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE MARZO DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE MARZO DE 1999)</small>
 
 ### CAPÍTULO V
 
@@ -283,7 +285,7 @@ DE LA CONVOCATORIA A LAS SESIONES.
 
 Artículo 12
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
 
 Para la celebración de las sesiones ordinarias, el Consejero Presidente deberá convocar mediante notificación por escrito a cada uno de los Consejeros Electorales, a los Representantes de los grupos parlamentarios del Congreso del Estado designados ante el Consejo Estatal y los Representantes de los Partidos Políticos que formen parte del cuerpo colegiado, por lo menos con tres días naturales de anticipación a la fecha que se fije para la celebración de la sesión.
 
@@ -293,7 +295,7 @@ Entratándose de las sesiones extraordinarias, la convocatoria mencionada en el 
 
 Artículo 13
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
 
 La convocatoria a sesión deberá contener el lugar, día y hora en que la misma se deba celebrar, la mención de ser ésta ordinaria, extraordinaria y un proyecto de orden del día para ser desahogado.
 
@@ -313,13 +315,13 @@ DE LOS TIPOS DE SESIONES Y SU DURACIÓN.
 
 Artículo 14
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 21 DE MARZO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MARZO DE 1999)</small>
 
 Las sesiones del Consejo Estatal son públicas.
 
 Durante el proceso electoral, el Consejo Estatal sesionará por lo menos una vez al mes. Las sesiones del Consejo Estatal durante el proceso serán ordinarias y extraordinarias.
 
-> <small>(DEROGADO TERCER PARRAFO, P.O. 21 DE MARZO DE 1999)</small>
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 21 DE MARZO DE 1999)</small>
 
 Para efectos del presente reglamento se entiende que:
 
@@ -371,7 +373,7 @@ DE LA INSTALACIÓN Y DESARROLLO DE LAS SESIONES.
 
 Artículo 15
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
 
 El día fijado para la sesión se reunirán en la Sala de Sesiones los miembros del Consejo Estatal, es decir, el Consejero Presidente, el Secretario Ejecutivo, los Consejeros Electorales, los Representantes de los grupos parlamentarios del Congreso del Estado y de los Partidos Políticos. El Consejero Presidente declarará instalada la misma, previa toma de lista de asistencia y certificación de la existencia del quórum legal por parte del Secretario.
 
@@ -427,7 +429,7 @@ En caso de ausencia definitiva del Presidente del Consejo, los Consejeros Electo
 
 Artículo 19
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JUNIO DE 2009)</small>
 
 Al iniciar la discusión de cada punto del orden del día, el Presidente abrirá una lista de oradores en la que se inscribirán todos los miembros del Consejo Estatal que quieran hacer uso de la palabra para ese asunto en particular. Los miembros del Consejo Estatal podrán intervenir por una sola vez en esta ronda. Los oradores inscritos podrán hacer uso de la palabra por cinco minutos como máximo.
 
@@ -485,7 +487,7 @@ Concluida la sesión, deberá formularse un boletín de prensa que será distrib
 
 Artículo 23
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
 
 Los acuerdos y resoluciones del Consejo Estatal se tomarán por mayoría de votos de los miembros con derecho a ello, en los términos del párrafo cuarto artículo 15 de este reglamento.
 
@@ -521,7 +523,7 @@ c) El Secretario asentará en el acta el sentido de la votación;
 
 d) Concluida la votación el Secretario efectuará el cómputo de la misma haciendo público el resultado.
 
-> <small>(DEROGADO PENULTIMO PARRAFO, P.O. 4 DE JUNIO DE 2009)</small>
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, P.O. 4 DE JUNIO DE 2009)</small>
 
 Cuando algún miembro del Consejo Estatal solicite que en el acta conste el sentido del voto de cada miembro del Consejo, el Secretario procederá a tomar la votación nominal, la cual quedará asentada en el acta correspondiente.
 
@@ -651,7 +653,7 @@ Artículo 33 (DEROGADO, P.O. 16 DE NOVIEMBRE DE 2000)
 
 Artículo 34
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE NOVIEMBRE DE 2000)</small>
 
 Para el eficaz y oportuno cumplimiento por faltas a las disposiciones contenidas en el presente ordenamiento y a fin de garantizar el orden durante las sesiones el Presidente del Consejo Estatal impondrá las sanciones siguientes:
 
@@ -759,13 +761,13 @@ ENVIÓ DE LOS ACUERDOS Y RESOLUCIONES.
 
 DE LAS SANCIONES.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 21 DE MARZO DE 1999.
 
-EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL DEL ESTADO DE DURANGO.
+EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL DEL ESTADO DE DURANGO.
 
-SE TRANSCRIBEN UNICAMENTE LOS PUNTOS DE ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+SE TRANSCRIBEN ÚNICAMENTE LOS PUNTOS DE ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
 
 ...
 
@@ -777,9 +779,9 @@ CUARTO.- EL SECRETARIO EJECUTIVO A LA MAYOR BREVEDAD POSIBLE DEBERÁ HACER LLEGA
 
 P.O. 16 DE NOVIEMBRE DE 2000.
 
-EL ACUERDO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3 DEL CODIGO CIVIL DEL ESTADO DE DURANGO.
+EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL DEL ESTADO DE DURANGO.
 
-SE TRANSCRIBEN UNICAMENTE LOS PUNTOS DE ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
+SE TRANSCRIBEN ÚNICAMENTE LOS PUNTOS DE ACUERDO DE REFORMAS QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.
 
 ...
 
@@ -798,3 +800,15 @@ SE TRANSCRIBEN ÚNICAMENTE LOS PUNTOS DE ACUERDO DE REFORMAS QUE SE RELACIONAN C
 8. Las reformas a los reglamentos aprobadas en el presente Acuerdo entrarán en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 9. Publíquese el presente acuerdo en el Periódico Oficial del Gobierno del Estado de Durango.
+
+P.O. 13 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO.- DE SESIONES DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE DURANGO”.]
+
+Primero.- El presente Reglamento entrará en vigor y surtirá efectos al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+Segundo.- Publíquese en el Periódico Oficial del Gobierno del Estado de Durango.
+
+Tercero.- Se abroga el Reglamento de Sesiones del Consejo General del Instituto Electoral y de Participación Ciudadana del Estado de Durango, publicado en el P.O.E. No. 23 de fecha 19 de marzo de 1998, así como sus reformas y adiciones.
+
+Cuarto.- Los asuntos que se encuentren en trámite al momento de la entrada en vigor del presente Reglamento, continuarán hasta su conclusión de conformidad con las normas vigentes al momento de su inicio.
