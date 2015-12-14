@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-82-organica-de-la-procuraduria-general-de-110873"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-11"
-last_updated: "2015-12-11"
+last_updated: "2015-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110873&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SON"
 ---
 # LEY NUMERO 82 ORGANICA DE LA PROCURADURIA GENERAL DE JUSTICIA DEL ESTADO DE SONORA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE DICIEMBRE DE 2015 EN EL B.O. DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE SONORA
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DE 14 DE DICIEMBRE DE 2015.</small>
 
 Ley publicada en Edición Especial del Boletín Oficial del Estado de Sonora, el viernes 11 de diciembre de 2015.
 
@@ -1049,41 +1049,25 @@ II. Compensación, que comprende una estructura salarial por rangos del servicio
 
 III. Permanencia, que comprende los requisitos y procedimientos de formación continua y especializada, de actualización, de evaluación del desempeño para la permanencia, y de certificación;
 
+> <small>(F. DE E., B.O. 14 DE DICIEMBRE DE 2015)</small>
+
 IV. Reconocimiento, que comprende el método mediante el cual se mide, tanto en forma individual como colectiva, y en atención a las habilidades, capacidades y adecuación al puesto, los aspectos cualitativos y cuantitativos del cumplimiento de las funciones y metas asignadas a los servidores públicos.
 
-VI. (SIC) Aprobar el curso de ingreso, formación inicial o básica, así como el concurso que establezcan las disposiciones aplicables y, en su caso, la convocatoria respectiva;
-
-VII. No estar sujeto o vinculado a proceso penal por delito doloso;
-
-VIII. No haber (sic) inhabilitado por resolución firme como servidor público, ni estar sujeto a procedimiento de responsabilidad administrativa federal o local, en los términos de las normas aplicables;
-
-IX. No haber sido condenado por sentencia irrevocable como responsable de delito doloso;
-
-X. No ser ministro de culto religioso; y
-
-XI. Los demás requisitos que establezcan otras disposiciones aplicables.
-
-El demás personal no mencionado en las fracciones anteriores deberá reunir los requisitos que señale el Reglamento de esta Ley y otras disposiciones que resulten aplicables.
-
-B) Para permanecer se requiere:
-
-I. Acreditar los programas de actualización y profesionalización que establezcan el reglamento y las demás disposiciones aplicables;
-
-II. Aprobar los procesos de evaluación de control de confianza y de evaluación del desempeño, permanentes, periódicos y obligatorios que establezcan el reglamento y las demás disposiciones aplicables;
-
-III. Dentro de un plazo de treinta días naturales, no ausentarse del servicio sin causa justificada por un periodo de tres días consecutivos;
-
-IV. Durante el servicio, conservar los requisitos de ingreso;
-
-V. Contar con la certificación y el registro actualizados conforme a las disposiciones legales aplicables; y
+> <small>(F. DE E., B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 Los estímulos al desempeño destacado consisten en la cantidad neta que se entregará al servidor público de manera extraordinaria con motivo de la productividad, eficacia y eficiencia.
 
+> <small>(F. DE E., B.O. 14 DE DICIEMBRE DE 2015)</small>
+
 Las percepciones extraordinarias en ningún caso se considerarán un ingreso fijo, regular o permanente, ni formarán parte de los sueldos u honorarios que los servidores públicos perciban en forma ordinaria.
+
+> <small>(F. DE E., B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 El reglamento determinará el otorgamiento de estas compensaciones de acuerdo con el nivel de cumplimiento de las metas comprometidas; y
 
-V (SIC). Separación o baja, que comprende las causas ordinarias y extraordinarias de separación del servicio, así como los procedimientos y recursos de inconformidad a los que haya lugar, ajustándose a lo establecido por las leyes y disposiciones aplicables.
+> <small>(F. DE E., B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+V. Separación o baja, que comprende las causas ordinarias y extraordinarias de separación del servicio, así como los procedimientos y recursos de inconformidad a los que haya lugar, ajustándose a lo establecido por las leyes y disposiciones aplicables.
 
 ###### Artículo 69.
 
@@ -1093,7 +1077,7 @@ Para ingresar y permanecer como agente del Ministerio Público los servidores p�
 
 A) Ingreso: Se hará por convocatoria pública abierta bajo los requisitos que se señalan a continuación:
 
-I. Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles:
+I. Ser ciudadano mexicano en pleno ejercicio de sus derechos políticos y civiles;
 
 II. Tener, cuando menos veinticinco años el día de su nombramiento;
 
@@ -1102,6 +1086,60 @@ III. Poseer en el día de la designación título y cédula profesional de Licen
 IV. Contar con experiencia profesional de por lo menos tres años;
 
 V. Aprobar el proceso de evaluación inicial de control de confianza;
+
+> <small>(F. DE E., B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+VI. Aprobar el curso de ingreso, formación inicial o básica, así como el concurso que establezcan las disposiciones aplicables y, en su caso, la convocatoria respectiva;
+
+> <small>(F. DE E., B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+VII. No estar sujeto o vinculado a proceso penal por delito doloso;
+
+> <small>(F. DE E., B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+VIII. No haber inhabilitado por resolución firme como servidor público, ni estar sujeto a procedimiento de responsabilidad administrativa federal o local, en los términos de las normas aplicables;
+
+> <small>(F. DE E., B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+IX. No haber sido condenado por sentencia irrevocable como responsable de delito doloso;
+
+> <small>(F. DE E., B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+X. No ser ministro de culto religioso; y
+
+> <small>(F. DE E., B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+XI. Los demás requisitos que establezcan otras disposiciones aplicables.
+
+> <small>(F. DE E., B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+El demás personal no mencionado en las fracciones anteriores deberá reunir los requisitos que señale el Reglamento de esta Ley y otras disposiciones que resulten aplicables.
+
+> <small>(F. DE E., B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+B) Para permanecer se requiere:
+
+> <small>(F. DE E., B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+I. Acreditar los programas de actualización y profesionalización que establezcan el reglamento y las demás disposiciones aplicables;
+
+> <small>(F. DE E., B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+II. Aprobar los procesos de evaluación de control de confianza y de evaluación del desempeño, permanentes, periódicos y obligatorios que establezcan el reglamento y las demás disposiciones aplicables;
+
+> <small>(F. DE E., B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+III. Dentro de un plazo de treinta días naturales, no ausentarse del servicio sin causa justificada por un periodo de tres días consecutivos;
+
+> <small>(F. DE E., B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+IV. Durante el servicio, conservar los requisitos de ingreso;
+
+> <small>(F. DE E., B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+V. Contar con la certificación y el registro actualizados conforme a las disposiciones legales aplicables; y
+
+> <small>(F. DE E., B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 VI. Cumplir con los requisitos y demás obligaciones que les impongan las disposiciones legales aplicables.
 
