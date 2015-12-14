@@ -4,7 +4,7 @@ identifier: "SON-ley-que-regula-la-operacion-y-funcionamiento-de-los-42094"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2015-01-26"
+last_updated: "2015-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SON"
 
 LEY QUE REGULA LA OPERACIÓN Y FUNCIONAMIENTO DE LOS ESTABLECIMIENTOS DESTINADOS A LA FABRICACIÓN, ENVASAMIENTO, DISTRIBUCIÓN, ALMACENAMIENTO, TRANSPORTACIÓN, VENTA Y CONSUMO DE BEBIDAS CON CONTENIDO ALCOHÓLICO EN EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 4 DE DICIEMBRE DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 26 DE ENERO DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Cuarta Sección del Boletín Oficial del Estado de Sonora, el jueves 23 de diciembre de 2004.
 
@@ -195,7 +193,11 @@ V Bis 1.- Restaurante Rural.- Establecimiento situado en asentamiento humano que
 
 Los restaurantes deberán contar con suficientes mesas y sillas para los comensales, además de cocina para preparar alimentos, deberá tener el mobiliario, equipo y menú adecuados para que el importe de sus ventas de alimentos, sea por lo menos un 60% del importe de sus ventas totales anuales, reuniendo las condiciones higiénicas previstas en las Leyes General y Estatal de Salud. Podrán contar con barra y taburete, música ambiental y con grupos cantantes y/o musicales y con presentaciones artísticas y culturales para el sano esparcimiento de los clientes.
 
-VI.- Tienda de Autoservicio.- Establecimiento cuya actividad comercial es la venta de comestibles, alimentos perecederos e imperecederos, artículos de consumo básicos de uso doméstico y otra clase de mercancías, en la modalidad de autoservicio, podrá contar con equipo necesario para surtir al cliente productos alimenticios embutidos, lácteos o marinos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+VI.- Tienda de Autoservicio.- Establecimiento cuya actividad comercial es la venta de comestibles, alimentos perecederos e imperecederos, artículos de consumo básicos de uso doméstico y otra clase de mercancías, en la modalidad de autoservicio, podrá contar con equipo necesario para surtir al cliente productos alimenticios embutidos, lácteos o marinos, pudiendo realizar la venta al público de Bebidas Alcohólicas, por ventana lateral del inmueble.
 
 Deberá contar con una o más cajas para cobro, con refrigeradores o conservadores de alimentos, anaqueles y vitrinas de autoservicio y mostradores, pudiendo complementar su actividad con la venta de bebidas con contenido alcohólico. Del total de su inventario de mercancías, podrá tener hasta un 25% de bebidas con contenido alcohólico, que deberán encontrarse en el área de autoservicio. Asimismo, deberán contar con cajones de estacionamiento suficientes para los clientes.
 
@@ -1602,3 +1604,17 @@ B.O. 4 DE DICIEMBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 14 DE DICIEMBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 1 de enero de 2016, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Cuando se señale en el Código Fiscal del Estado, Ley de Hacienda del Estado, Ley de Tránsito del Estado y Ley que regula la operación y funcionamiento de los establecimientos destinados a la fabricación, envasamiento, distribución, almacenamiento, transportación, venta y consumo de bebidas con contenido alcohólico en el Estado de Sonora, la mención de salarios mínimos diario general vigente en el área geográfica "b ",deberá entenderse como salarios mínimos diario general vigente en el área geográfica única, en virtud de la reforma al salario mínimo efectuada mediante Resolución del H. Consejo de Representantes de la Comisión Nacional de los Salarios Mínimos que revisa los salarios mínimos generales y profesionales vigentes desde el 1 de abril de 2015, publicada en el Diario Oficial de la Federación con fecha 30 de septiembre de 2015, con vigencia a partir del 1 de octubre de 2015.
