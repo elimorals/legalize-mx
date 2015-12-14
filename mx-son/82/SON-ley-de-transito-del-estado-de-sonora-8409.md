@@ -4,7 +4,7 @@ identifier: "SON-ley-de-transito-del-estado-de-sonora-8409"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-27"
-last_updated: "2014-12-11"
+last_updated: "2015-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8409&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE TRÁNSITO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 27 de febrero de 1984.
 
@@ -103,9 +103,9 @@ I.- Organizar y ejercer, en los términos de esta Ley, la función pública de t
 
 II.- Aprobar, con sujeción a la presente Ley, los reglamentos, las circulares y las demás disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, en materia de tránsito.
 
-> <small>(REFORMADA, B.O. 3 DE SEPTIEMBRE DE 1987)</small>
+> <small>(REFORMADA B.O. 3 DE SEPTIEMBRE DE 1987)</small>
 
-III.- Emitir los manuales de organización, de procedimientos y de servicios al público de las Policías de Tránsito Municipales.
+III.- Emitir los manuales de organización, de procedimientos y de servicios al público de las Policías de Tránsito Municipales;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -305,11 +305,9 @@ V.- Licencia provisional, expedida durante el trámite de licencias definitivas.
 
 VI.- Permiso de Conducir para menor de edad.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
-
-Cuando la persona tenga más de una sola licencia, dichas licencias deberán unificarse en un mismo plástico, el cual deberá dejar claro la validez para los tipos de licencia incluidas en él.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 19.
 
@@ -337,7 +335,9 @@ IV.- Certificado médico, con antigüedad no mayor a 3 meses, de su aptitud fís
 
 V.- Aprobar las evaluaciones teóricas y prácticas establecidas por el personal autorizado del departamento de tránsito.
 
-VI.- Anexar el número de fotografías que se le indique.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+VI. (DEROGADA, B.O. 14 DE DICIEMBRE DE 2015)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -353,7 +353,11 @@ Para obtener la licencia de chofer, a que se refiere la Fracción II del Artícu
 
 Para obtener licencia de operador de servicio público de transporte, deberá:
 
-I.- Ser mayor de 18 años.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+I.- Tener como mínimo 18 años cumplidos a la fecha de la solicitud.
 
 II.- Llenar la solicitud correspondiente, en la forma oficial impresa.
 
@@ -365,11 +369,11 @@ III.- Aprobar el examen sobre conducción de vehículos de servicio público y e
 
 IV.- Aprobar las evaluaciones teóricas y prácticas establecidas por el personal autorizado del departamento de tránsito.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
-V.- Carecer de antecedentes personales que revelen peligrosidad social.
+V.- Presentar Carta de no antecedentes penales con una antigüedad no mayor a seis meses a la fecha de realización del trámite.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -383,15 +387,21 @@ VI.- Demostrar haber recibido capacitación y adiestramiento en el manejo de veh
 
 VII.- Exhibir certificación médica, ya sea de la Dirección de Medicina Preventiva de la Secretaría de Comunicaciones y Transporte o de cualquier otra Institución Médica Oficial, que acredite la aptitud física y mental, para conducir vehículos del servicio público, así como de que no es afecto al uso consuetudinario de bebidas embriagantes o de estupefacientes.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Las autoridades responsables de expedir esta Licencia podrán solicitar, cualquiera de los requisitos establecidos en la renovación de la misma.
+
 ###### ARTICULO 22.
 
 Para obtener licencia de motociclista se requiere:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
-I.- Ser mayor de 18 años. Podrá autorizarse permiso a un menor de esta edad pero mayor de 16 años, cuando justifique que únicamente utilizará la motocicleta para trasladarse a la escuela, taller o desempeño de su trabajo que haga necesario su uso; además, deberá exhibir carta autorización y responsiva de sus padres o tutor.
+I.- Tener como mínimo 18 años cumplidos a la fecha de la solicitud. Podrá autorizarse permiso a un menor de esta edad pero mayor de 16 años, cuando justifique que únicamente utilizará la motocicleta para trasladarse a la escuela, taller o desempeño de su trabajo que haga necesario su uso; además, deberá exhibir carta autorización y responsiva de sus padres o tutor.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -411,13 +421,25 @@ III.- Tomar curso teórico-vial impartido por las autoridades de tránsito compe
 
 IV.- Aprobar las evaluaciones teóricas y prácticas establecidas por el personal autorizado del departamento de tránsito en el que demuestre su pericia en el manejo de estos vehículos y que no tiene impedimento físico o mental;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE NOVIEMBRE DE 2013)</small>
+> <small>(ADICIONADA, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+V.- Llenar solicitud correspondiente, en las formas oficiales impresas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Las autoridades responsables de expedir esta Licencia podrán solicitar, cualquiera de los requisitos establecidos en la renovación de la misma.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 23.
 
-Las personas mayores de 16 años y menores 18 años, podrán solicitar a la Secretaría de Hacienda, por conducto de sus agencias fiscales, permiso para manejar automóviles o permiso de motociclista de servicio particular, el cual tendrá vigencia de uno o dos años; cuando la vigencia sea de dos años, el interesado deberá refrendar, sin costo, que cumple con los requisitos establecidos en el artículo 19 de esta ley.
+Las personas con 16 ó 17 años cumplidos a la fecha de la solicitud, podrán solicitar a la Secretaría de Hacienda, por conducto de sus agencias fiscales, permiso para manejar automóviles o permiso de motociclista de servicio particular, el cual tendrá vigencia hasta que el interesado cumpla su mayoría de edad, momento a partir del cual podrá tramitar la licencia de manejo respectiva.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -459,6 +481,12 @@ V.- Certificado médico, con antigüedad no mayor a 3 meses que anexe los result
 
 El permiso podrá ser renovado y expedido nuevamente por períodos iguales al que se expidió originalmente, siempre y cuando compruebe no haber incurrido en alguna infracción por negligencia o imprudencia, hasta en tanto el interesado esté en condiciones de que se le expida la licencia respectiva.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Las autoridades responsables de expedir este permiso podrán solicitar, cualquiera de los requisitos establecidos en la renovación de la misma.
+
 ###### ARTICULO 26.
 
 Para conducir vehículos de tracción aniaml (sic), bicicletas, vehículos de tracción mecánica no automotriz y carro de mano, no se requiere licencia, pero no se permitirá que los manejen menores de 12 años.
@@ -473,9 +501,13 @@ Toda persona que haya obtenido licencia o permiso de manejo podrá hacer uso de 
 
 A toda persona que padezca una incapacidad física para la conducción normal de vehículos de motor, se le podrá expedir licencia, cunado (sic) cuente con anteojos, prótesis u otros aparatos y el vehículo que pretende conducir esté provisto de mecanismos y otros medios auxiliares que previa demostración, le capaciten para conducir y satisfaga además los requisitos señalados por los Artículos 19, 20 y 22 de esta Ley.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 29.
 
-A ninguna persona se le expedirá o reexpedirá una licencia cuando se encuentre en los siguientes casos:
+A ninguna persona se le expedirá, reexpedirá, repondrá o renovará una licencia cuando se encuentre en los siguientes casos:
 
 I.- Cuando el titular de una licencia expedida por la Tesorería General del Estado u otra entidad federativa, no haya efectuado el pago de alguna multa por infracción a esta Ley, o cuando subsistan las condiciones que originaron la suspensión o cancelación de la licencia.
 
@@ -539,9 +571,13 @@ Para efectos del párrafo anterior, la persona que autorice a otro a que conduzc
 
 Las licencias para conducir expedidas por las autoridades de otros Estados o de otros Países, tendrá la misma validez que las expedidas conforme a esta Ley para conducir vehículos, siempre y cuando aparezca que se encuentran en vigor y que sus tenedores no establezcan domicilio en el Estado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 33.
 
-Los extranjeros que soliciten la expedición de una licencia de las señaladas en el Artículo 18, Fracción I, además de llenar los requisitos exigidos según el caso, deberán comprobar satisfactoriamente su legal estancia en el País.
+Los extranjeros que soliciten la expedición de una licencia de las señaladas en el artículo 18, además de llenar los requisitos exigidos según el caso, deberán comprobar satisfactoriamente su calidad migratoria.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -887,9 +923,13 @@ Los vehículos propiedad particular de los funcionarios y empleados públicos, n
 
 Los vehículos destinados exclusivamente a su venta al público y en tanto son vendidos, para poder circular en la vía pública, deberán portar placas de demostración, que para este efecto proporcionará la Tesorería General del Estado. Para obtener las placas de demostración se estará a lo que dispongan al respecto las Leyes Fiscales correspondientes.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 47.
 
-Las placas y tarjetas de circulación son intransferibles entre particulares o empresas, salvo que exista cambio de propietario. Las placas permanecerán en el vehículo y únicamente se expedirá tarjeta de circulación cuando se enajene, previo el pago de los derechos correspondientes.
+Las placas y tarjetas de circulación son intransferibles. Las placas permanecerán en el vehículo hasta en tanto éste se enajene, caso en el cual, deberán entregarse en la Agencia Fiscal respectiva para su baja, previo el pago de derechos correspondientes.
 
 ###### ARTICULO 48.
 
@@ -899,7 +939,11 @@ Tratándose de vehículos destinados a la prestación del servicio público de t
 
 Al ser dado de baja el vehículo, deberá acreditarse no tener adeudo por concepto de multas de tránsito, así como derechos que se generen por la explotación del servicio público de transporte, en su caso. La certificación respectiva se asentará en el espacio destinado para ello en las formas oficiales a que se refiere el primer párrafo de este Artículo.
 
-Juntamente con el aviso de baja, deberá enterarse el impuesto que corresponda, así como devolverse el original de la tarjeta de circulación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Con el aviso de baja, deberán liquidarse todos los impuestos y derechos vehiculares que estuvieren pendientes de pago.
 
 ###### ARTICULO 49.
 
@@ -979,7 +1023,7 @@ d).- Todo vehículo automotor de 4 o más ruedas deberá estar provisto de un n�
 
 Lámparas direccionales:
 
-Todo vehículo automotor de 4 o más ruedas, deberá estar provisto de lámparas direccionales en el frente y en la parte posterior del vehículo o combinación de vehículos, que, mediante luces intermitentes, indiquen la intención de dar vuelta o cualquier otro movimiento para cambiar de dirección, al alcanzar o adelantar otro vehículo. Tanto en el frente como en la parte posterior dichas lámparas deberán estar montadas simétricamente a un mismo nivel y separadas lateralmente tanto como sea posible. Las lámparas delanteras deberán emitir una luz blanca o ámbar y las posteriores color rojo o ámbar. Bajo la luz solar normal, estas luces deberán ser visibles desde una distancia no menor de 100 metros y podrán estar incorporadas o no a otras lámparas del vehículo.
+Todo vehículo automotor de 4 o más ruedas, deberá estar provisto de lámparas direccionales en el frente y en la parte posterior del vehículo o combinación de vehículos, que, mediante luces intermitentes, indiquen la intención de dar vuelta o cualquier otro movimiento para cambiar de dirección, alcanzar o adelantar otro vehículo. Tanto en el frente como en la parte posterior dichas lámparas deberán estar montadas simétricamente a un mismo nivel y separadas lateralmente tanto como sea posible. Las lámparas delanteras deberán emitir una luz blanca o ámbar y las posteriores color rojo o ámbar. Bajo la luz solar normal, estas luces deberán ser visibles desde una distancia no menor de 100 metros y podrán estar incorporadas o no a otras lámparas del vehículo.
 
 ###### ARTICULO 58.
 
@@ -1065,7 +1109,7 @@ Dispositivos acústicos y ópticos en vehículos de emergencia.
 
 a).- Todo vehículo de emergencia autorizado, además del equipo y dispositivos obligatorios, deberá estar provisto de una sirena y/o campana capaces de dar una señal acústica audible, a una distancia no menor de 150 metros.
 
-b).- Además, deberá estar provisto de una torreta con lámparas giratorias a 360 grados que proyecten una luz roja visible a una distancia no menor de 150 metros bajo la luz solar normal montada sobre la línea de centro del vehículo en su posición más alta posible, o de luces integradas a la sirena que emitan una luz roja intermitente hacia adelante y hacia atrás, visibles a la misma distancia; en este caso, el montaje de la sirena deberá ajustarse a lo anotado para la torreta o bien deberá estar provisto de 2 lámparas que emitan luz roja intermitente adelante y atrás, cuya intensidad sea suficiente para que sea visible bajo las condiciones anotadas para la torreta y deberán estar montadas tan arriba y tan ampliamente separadas lateralmente como sea posible sin sobresalir del vehículo.
+b).- Además deberá estar provisto de una torreta con lámparas giratorias a 360 grados que proyecten una luz roja visible a una distancia no menor de 150 metros bajo la luz solar normal montada sobre la línea de centro del vehículo en su posición más alta posible, o de luces integradas a la sirena que emitan una luz roja intermitente hacia adelante y hacia atrás, visibles a la misma distancia; en este caso, el montaje de la sirena deberá ajustarse a lo anotado para la torreta o bien deberá estar provisto de 2 lámparas que emitan luz roja intermitente adelante y atrás, cuya intensidad sea suficiente para que sea visible bajo las condiciones anotadas para la torreta y deberán estar montadas tan arriba y tan ampliamente separadas lateralmente como sea posible sin sobresalir del vehículo.
 
 c).- Estos dispositivos no los utilizarán otros vehículos que no sean los de emergencia autorizados.
 
@@ -1323,7 +1367,7 @@ Se prohibe el uso innecesario de bocinas y en especial, cerca de hospitales, san
 
 ###### ARTICULO 84.
 
-Ningún conductor deberá seguir a un vehículo de bomberos u otros de servicio (sic) de emergencia, ni detenerse, ni estacionarse a una distancia menor de ciento cincuenta metros de los hechos, salvo que se justifiquen estas operaciones.
+Ningún conductor deberá seguir a un vehículo de bomberos u otros servicio (sic) de emergencia, ni detenerse, ni estacionarse a una distancia menor de ciento cincuenta metros de los hechos, salvo que se justifiquen estas operaciones.
 
 ###### ARTICULO 85.
 
@@ -2033,7 +2077,7 @@ III.- Frente a una entrada de vehículos.
 
 IV.- Entre una zona de seguridad y la acera adyacente o a menos de 10.00 metros atrás o adelante de ese lugar.
 
-V.- A menos de 5.00 metros atrás o adelante de un hidratante.
+V.- A menos de 5.00 metros atrás o adelante de un hidrante.
 
 VI.- A menos de 5.00 metros de la entrada de una estación de bomberos o en la orilla opuesta a menos de 25.00 metros.
 
@@ -2401,7 +2445,7 @@ SP-17 La señal INCORPORACIÓN DE TRANSITO se usará para advertir al usuario de
 
 SP-18 La señal DOBLE CIRCULACION se usará para advertir al conductor que vaya por una vía de un solo sentido, que se aproxima a un tramo con circulación en ambos sentidos.
 
-SP-19 La señal SALIDA se usará para advertir la proximidad de una rampa exclusica (sic) de salida.
+SP-19 La señal SALIDA se usará para advertir la proximidad de una rampa exclusica(sic) de salida.
 
 SP-20 La señal ESTRECHAMIENTO DEL CAMINO se usará para indicar que la anchura del camino se reduce, ya sea reduciendo el número de carriles ó simplemente las dimensiones de la sección transversal, en forma simétrica.
 
@@ -2501,7 +2545,7 @@ SR-23 La señal PRINCIPIA PROHIBICIÓN DE ESTACIONAMIENTO se empleará al inicia
 
 SR-24 La señal TERMINA PROHIBICION DE ESTACIONAMIENTO se empleará al terminar el tramo, de un camino ó de una calle, en los que los vehículos no deben estacionarse.
 
-SR-25 La señal PROHIBIDO ESTACIONARSE será utilizada en aquellos lugares donde este completamente prohibido el estacionamiento de vehículos.
+SR-25 La señal PROHIBIDO ESTACIONARSE será utilizada en aquellos lugares donde esté completamente prohibido el estacionamiento de vehículos.
 
 SR-26 La señal PROHIBIDO VUELTA A LA DERECHA será empleada en aquellos lugares donde no se permita la vuelta a la derecha, ya sea por tratarse de una circulación de sentido contrario, ó en casos específicos, para no interferir con otros movimientos importantes, inclusive el de peatones.
 
@@ -3486,3 +3530,17 @@ Las instituciones públicas tendrán un plazo de 90 días para realizar las adec
 ###### ARTICULO TERCERO.
 
 El Ejecutivo del Estado y los Ayuntamientos dispondrán de lo necesario para la difusión, promoción y ejecución de las medidas derivadas del ordenamiento objeto de esta reforma, de manera tal que coadyuven a (sic) eficaz aplicación y conclusión de las mismas.
+
+B.O. 14 DE DICIEMBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 1 de enero de 2016, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Cuando se señale en el Código Fiscal del Estado, Ley de Hacienda del Estado, Ley de Tránsito del Estado y Ley que regula la operación y funcionamiento de los establecimientos destinados a la fabricación, envasamiento, distribución, almacenamiento, transportación, venta y consumo de bebidas con contenido alcohólico en el Estado de Sonora, la mención de salarios mínimos diario general vigente en el área geográfica "b", deberá entenderse como salarios mínimos diario general vigente en el área geográfica única, en virtud de la reforma al salario mínimo efectuada mediante Resolución del H. Consejo de Representantes de la Comisión Nacional de los Salarios Mínimos que revisa los salarios mínimos generales y profesionales vigentes desde el 1 de abril de 2015, publicada en el Diario Oficial de la Federación con fecha 30 de septiembre de 2015, con vigencia a partir del 1 de octubre de 2015.
