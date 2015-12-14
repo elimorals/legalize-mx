@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-extincion-de-dominio-para-el-estado-de-aguascalientes-10
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-22"
-last_updated: "2015-06-22"
+last_updated: "2015-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108765&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "AGU"
 
 LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE AGUASCALIENTES
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A LOS CIENTO VEINTE DÍAS NATURALES CONTADOS A PARTIR DE SU PUBLICACIÓN.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Edición Vespertina del Periódico Oficial del Estado de Aguascalientes, el lunes 22 de junio de 2015.
 
@@ -151,7 +149,7 @@ IV. Aquellos que estén intitulados a nombre de terceros, pero existan suficient
 
 Imposibilidad de localizar bienes materia de la acción. Cuando los bienes materia de la acción, después de ser identificados, no pudieran localizarse o se presente alguna circunstancia que impida la declaratoria de extinción de dominio, se procederá conforme a las reglas siguientes:
 
-I. La extinción se decretará sobre bienes de valor equivalente propiedad del Demandado y en su caso, del Tercero;
+I. (DEROGADA, P.O. 14 DE DICIEMBRE DE 2015)
 
 II. Cuando los bienes se hayan transformado o convertido en otros bienes, sobre estos se hará la declaratoria; o
 
@@ -169,7 +167,9 @@ Requisitos para que proceda la acción de extinción de dominio. Para que sea pr
 
 I. Acreditar que existen elementos suficientes para determinar que sucedió el Hecho Ilícito y que los bienes materia de dicha acción son de los señalados en el Artículo 11;
 
-II. En los casos a que se refiere el Artículo 11, probar plenamente la actuación de mala fe del Tercero; y
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+II. En los casos a que se refiere el Artículo 11, probar plenamente la actuación de mala fe del Afectado; y
 
 III. En los casos a que se refiere el Artículo 11, acreditar al margen de duda la procedencia ilícita de dichos bienes.
 
@@ -447,15 +447,19 @@ IV. Los razonamientos y pruebas con los que acredite la existencia de algún Eve
 
 V. Las pruebas que ofrezca, conducentes para acreditar la existencia de alguno de los hechos ilícitos de los señalados en el Artículo 5° de la Ley y que los bienes sobre los que ejercita la acción son de los mencionados en el Artículo 11 de este ordenamiento;
 
-VI. Los fundamentos de derecho;
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
-VII. La solicitud, en su caso, de medidas cautelares sobre los bienes materia de la acción;
+VI. Las pruebas que ofrezca, conducentes para acreditar la procedencia ilícita de los bienes, la actuación de mala fe del Afectado, o que éste tuvo conocimiento de su utilización ilícita;
 
-VIII. La solicitud de notificar al Afectado, Tercero, Víctima y Ofendido, determinados e indeterminados;
+VII. Los fundamentos de derecho;
 
-IX. La petición para que se declare en la sentencia correspondiente la extinción de dominio de los bienes; y
+VIII. La solicitud, en su caso, de medidas cautelares sobre los bienes materia de la acción;
 
-X. Las demás que considere necesarias para el cumplimiento del objeto de esta Ley.
+IX. La solicitud de notificar al Afectado, Tercero, Víctima y Ofendido, determinados e indeterminados;
+
+X. La petición para que se declare en la sentencia correspondiente la extinción de dominio de los bienes; y
+
+XI. Las demás que considere necesarias para el cumplimiento del objeto de esta Ley.
 
 ###### ARTÍCULO 49.
 
@@ -505,17 +509,19 @@ V. Plantear las hipótesis de derecho que a su interés convenga.
 
 Contra la acción de extinción de dominio no procede la reconvención.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. CON SUS FRACCIONES], P.O. 14 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 52.
 
 Pruebas del Afectado. Las pruebas que ofrezca el Afectado deberán ser conducentes para acreditar:
 
-I. La procedencia lícita de los bienes;
+I. La procedencia lícita de los bienes, sólo en caso de que el Ministerio Público aporte elementos para acreditar la procedencia ilícita de los bienes;
 
-II. Su actuación de buena fe, sólo en caso de que el Ministerio Público aporte datos que, de forma razonable, permitan considerar la mala fe del Afectado;
+II. Su actuación de buena fe, sólo en caso de que el Ministerio Público aporte elementos para acreditar la mala fe del afectado;
 
-III. Que estaba impedido para conocer la utilización ilícita de dichos bienes, sólo en caso de que el Ministerio Público aporte datos que, de forma razonable, permitan considerar que el Afectado tuvo conocimiento de la utilización ilícita; y
+III. Que estaba impedido para conocer la utilización ilícita de dichos bienes, sólo en caso de que el Ministerio Público aporte elementos para acreditar que el afectado tuvo conocimiento de la utilización ilícita; y
 
-IV. Que los bienes son distintos a los previstos en el Artículo 11 de la presente Ley.
+IV. Que los bienes son distintos a los previstos en el Artículo 11 de la presente Ley, sólo en caso de que el Ministerio Público aporte elementos para acreditar que sí lo son.
 
 Los terceros ofrecerán pruebas conducentes para que se reconozcan sus derechos sobre los bienes materia de la acción; y las víctimas y ofendidos únicamente en lo relativo a la reparación del daño.
 
@@ -741,7 +747,9 @@ I. Se acredite la existencia del Hecho Ilícito, por el que el Agente del Minist
 
 II. Se pruebe que son de los señalados en el Artículo 11 de la Ley; y
 
-III. El Afectado no haya probado la procedencia lícita de dichos bienes, su actuación de buena fe, así como que estaba impedido para conocer su utilización ilícita, en términos del Artículo 52, párrafo primero de esta Ley.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+III. El Ministerio Público haya aportado al juicio elementos suficientes para probar la procedencia ilícita de los bienes, la mala fe del Afectado o que tuvo conocimiento de su utilización ilícita.
 
 En caso contrario, ordenará la devolución de los bienes respecto de los cuales el Afectado hubiere probado la procedencia legítima de dichos bienes y los derechos que sobre ellos detente.
 
@@ -972,3 +980,13 @@ Dip. Verónica Sánchez Alejandre,
 SEGUNDA SECRETARIA.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 22 de junio de 2015.- Carlos Lozano de la Torre.- Rúbrica.- Sergio Javier Reynoso Talamantes, Secretario de Gobierno, en suplencia del Jefe de Gabinete de conformidad con el Artículo 50 de la Constitución Política del Estado de Aguascalientes.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 14 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 261.- SE DEROGAN, REFORMAN Y ADICIONAN ARTÍCULOS DE LA LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
