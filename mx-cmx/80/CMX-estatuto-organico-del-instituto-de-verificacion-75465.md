@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-instituto-de-verificacion-75465"
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-07-01"
-last_updated: "2014-11-12"
+last_updated: "2015-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75465&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2010-06-22"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO DE VERIFICACION ADMINISTRATIVA DEL DISTRITO FEDERAL
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS Y NOTA ACLARATORIA PUBLICADAS EL 15 DE DICIEMBRE DE 2015 Y 13 DE ENERO DE 2016 RESPECTIVAMENTE, EN LA GACETA OFICIAL DEL DISTRITO FEDERAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 ESTATUTO ORGÁNICO DEL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL DISTRITO FEDERAL, ORGANISMO PÚBLICO DESCENTRALIZADO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 12 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE DICIEMBRE DE 2015.
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el jueves 1 de julio de 2010.
 
@@ -98,19 +100,27 @@ II. Para el despacho de las atribuciones y facultades el Instituto contará con 
 
 a) Un Secretariado Ejecutivo;
 
-b) Una Coordinación Jurídica;
+> <small>(REFORMADO, G.O. 14 DE DICIEMBRE DE 2015)</small>
+
+b) Una Coordinación Jurídica y de Servicios Legales;
 
 c) Una Coordinación de Verificación Administrativa;
 
-d) Una Coordinación de Administración, y
+> <small>(REFORMADO, G.O. 14 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, G.O. 9 DE AGOSTO DE 2011)</small>
+d) Una Coordinación de Administración y Desarrollo Tecnológico;
 
-e) Una Coordinación de Verificación al Transporte
+> <small>(REFORMADO, G.O. 14 DE DICIEMBRE DE 2015)</small>
 
-> <small>(ADICIONADO, G.O. 9 DE AGOSTO DE 2011)</small>
+e) Una Coordinación de Verificación al Transporte;
 
-f) Las demás unidades administrativas subalternas que se establezcan en la estructura orgánica Dictaminada;
+> <small>(REFORMADO, G.O. 14 DE DICIEMBRE DE 2015)</small>
+
+f) Una coordinación de Substanciación de Procedimientos; y
+
+> <small>(ADICIONADO, G.O. 14 DE DICIEMBRE DE 2015)</small>
+
+g) Las demás unidades administrativas subalternas que se establezcan en la estructura orgánica Dictaminada;
 
 ###### Artículo 6.
 
@@ -196,7 +206,9 @@ e) El Coordinador General de Control, Verificación y Evaluación tendrá carác
 
 Cada titular de dependencia podrá designar un suplente, con nivel mínimo de Director. Cuando algún Consejero Ciudadano deje de asistir a dos sesiones consecutivas, dejará de desempeñar su cargo de manera definitiva y se llamará al respectivo suplente.
 
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 9 DE AGOSTO DE 2011)</small>
+> <small>(ADICIONADO, G.O. 14 DE DICIEMBRE DE 2015)</small>
+
+La suplencia del Consejero Presidente será cubierta por alguno de los Consejeros Ciudadanos del Instituto.
 
 ###### Artículo 14.
 
@@ -316,25 +328,43 @@ V. Suscribir, en su caso, los contratos colectivos e individuales que regulen la
 
 VI. Proporcionar la información que solicite el Comisario Público;
 
-> <small>(REFORMADA, G.O. 9 DE AGOSTO DE 2011)</small>
-
-VII. Coordinar las acciones de atención ciudadana, y generar los procedimientos de amigable composición o conciliación que se determine para cada asunto;
+VII. (DEROGADA, G.O. 14 DE DICIEMBRE DE 2015)
 
 VIII. Emitir copias certificadas de los documentos que integran los expedientes del Instituto;
 
 IX. Expedir instrumentos normativos internos para el mejor despacho de las funciones y objetivos del instituto;
 
-> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2015)</small>
 
-X. Coordinar el área de transparencia;
+X. Coordinar el área de transparencia y las obligaciones de datos personales, siendo auxiliado por la Coordinación Jurídica y de Servicios Legales a través de la Dirección de lo Consultivo y Enlace Interinstitucional;
 
 > <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2014)</small>
 
 XI. Canalizar los reportes o solicitudes que por escrito presenten los ciudadanos respecto de las visitas o de cualquier otro asunto competencia del Instituto; y
 
+> <small>(ADICIONADA, G.O. 14 DE DICIEMBRE DE 2015)</small>
+
+XII. Dar seguimiento en coordinación con las áreas de verificación, a la ejecución de la planeación de visitas de verificación en las materias de competencia del Instituto;
+
+> <small>(ADICIONADA, G.O. 14 DE DICIEMBRE DE 2015)</small>
+
+XIII. Coordinar las acciones de mejoramiento de procesos de servicio y/o implementación de tecnologías de la información en la ejecución de actividades del Instituto;
+
+> <small>(ADICIONADA, G.O. 14 DE DICIEMBRE DE 2015)</small>
+
+XIV. Presentar el programa anual de capacitación del Instituto, y presentarlo ante el Consejo General para su aprobación;
+
+> <small>(ADICIONADA, G.O. 14 DE DICIEMBRE DE 2015)</small>
+
+XV. Coordinar y Supervisar con la Coordinación de Verificación Administrativa, el proceso de selección de personal en funciones de verificación administrativa en su ingreso permanencia y evaluación, de conformidad con los instrumentos, disposiciones jurídicas y administrativas aplicables;
+
+> <small>(ADICIONADA, G.O. 14 DE DICIEMBRE DE 2015)</small>
+
+XVI. Coordinar la participación de Personal Especializado en Funciones de Verificación, conjuntamente con las Coordinaciones de Verificación Administrativa y de Verificación al Transporte, en los operativos convocados por Gobierno Central, u otras acciones preventivas y/o previas de verificación encaminadas a velar por el cumplimiento de las normas de orden público en su ámbito competencial;
+
 > <small>(ADICIONADA, G.O. 12 DE NOVIEMBRE DE 2014)</small>
 
-XII. Las que señalen otras disposiciones jurídicas y administrativas aplicables.
+XVII. Las que señalen otras disposiciones jurídicas y administrativas aplicables.
 
 ###### Artículo 23.
 
@@ -402,13 +432,15 @@ VII. Las demás que le atribuya la ley.
 
 Artículo 24 Quintus.- Para el ejercicio de sus atribuciones, el Coordinador General de Control, Verificación y Evaluación, deberá coordinarse con el Consejero Presidente para la solicitud de informes y documentación existentes en las unidades administrativas del Instituto, así como para solicitar o proponer asuntos cuyo conocimiento y atención corresponda al Consejo General del Instituto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 25.
 
-La Dirección General en el ejercicio de sus atribuciones, será auxiliada por las Coordinaciones Jurídica, de Verificación Administrativa, de Verificación al Transporte y de Administración, en la siguiente forma:
+La Dirección General en el ejercicio de sus atribuciones, será auxiliada por las Coordinaciones: Jurídica y de Servicios Legales, de Verificación Administrativa, de Verificación al Transporte, de Substanciación de Procedimientos así como la Coordinación de Administración y Desarrollo Tecnológico, en la siguiente forma:
 
-APARTADO A. Corresponde a la Coordinación Jurídica, lo siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE DICIEMBRE DE 2015)</small>
+
+APARTADO A. Corresponde a la Coordinación Jurídica y de Servicios Legales, lo siguiente:
 
 I. Representar ante toda clase de autoridades administrativas o judiciales, locales o federales, los intereses del Instituto y sus Unidades Administrativas, en todos los asuntos en los que sean parte, o cuando tengan interés jurídico o se afecte el patrimonio del Distrito Federal, y estos asuntos se encuentren relacionados con las facultades que tienen encomendadas; interponer ante la Sala Superior del Tribunal de lo Contencioso Administrativo del Distrito Federal, recursos en contra de las resoluciones de sus salas que decreten o nieguen el sobreseimiento, las que resuelvan el juicio o la cuestión planteada en el fondo y las que pongan fin al procedimiento; e interponer, ante el Tribunal Colegiado de Circuito competente, el recurso de revisión en contra de las resoluciones de la Sala Superior del Tribunal de lo Contencioso Administrativo del Distrito Federal, de conformidad con las disposiciones e instrumentos jurídicos aplicables;
 
@@ -416,15 +448,15 @@ II. Suscribir convenios en el ámbito de su competencia de conformidad con los i
 
 III. Revisar y sancionar los convenios, contratos y demás instrumentos jurídicos administrativos que su formalización corresponda al Director General;
 
-IV. Conocer, substanciar y resolver los procedimientos de calificación de actas de visita de verificación;
+IV. (DEROGADA, G.O. 14 DE DICIEMBRE DE 2015)
 
 V. Conocer, substanciar y resolver los recursos de inconformidad que se presenten en el ámbito de su competencia;
 
-VI. Controlar, vigilar, aplicar, desarrollar, y en su caso determinar las sanciones y medidas de seguridad administrativas que deriven del incumplimiento en que hubiesen incurrido los visitados;
+VI. (DEROGADA, G.O. 14 DE DICIEMBRE DE 2015)
 
-VII. Vigilar y controlar el cumplimiento de las resoluciones dictadas en la calificación de las actas de visita de verificación;
+VII. (DEROGADA, G.O. 14 DE DICIEMBRE DE 2015)
 
-VIII. Coordinar, conocer, substanciar y en su caso, resolver los procedimientos derivados de las visitas de verificación voluntarias;
+VIII. (DEROGADA, G.O. 14 DE DICIEMBRE DE 2015)
 
 IX. Requerir a las autoridades competentes copias simples o certificadas de cualquier documento o información que resulte necesaria para el ejercicio de sus atribuciones;
 
@@ -434,11 +466,29 @@ XI. Denunciar ante el Ministerio Público los hechos que puedan ser constitutivo
 
 XII. Certificar los documentos que obren en los expedientes de su unidad administrativa, y
 
-XIII. Las demás que le atribuya la Ley, este Estatuto y otros ordenamientos aplicables.
+> <small>(ADICIONADA, G.O. 14 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, G.O. 9 DE AGOSTO DE 2011)</small>
+XIII. Fungir como órgano consultivo, emitiendo las opiniones jurídicas solicitadas por la Unidades Administrativas del Instituto;
 
-Para el desarrollo y ejercicio de sus funciones se auxiliará de unidades administrativas y de apoyo técnico operativo que determine el dictamen de estructura y el manual administrativo y en específico de la Dirección de lo Contencioso y Amparo, de la Dirección de Substanciación; de la Dirección de Calificación de Actas de Visitas de Verificación en Materia de Transporte; y de la Dirección de lo Consultivo, conforme lo siguiente:
+> <small>(ADICIONADA, G.O. 14 DE DICIEMBRE DE 2015)</small>
+
+XIV. Coordinar la atención de las peticiones de la Comisión de Derechos Humanos del Distrito Federal, Asamblea Legislativa del Distrito Federal y demás autoridades locales y federales relacionadas con las atribuciones del Instituto;
+
+> <small>(ADICIONADA, G.O. 14 DE DICIEMBRE DE 2015)</small>
+
+XV. Suscribir medios de impugnación que se presenten ante autoridades jurisdiccionales federales y/o locales que se promuevan en contra de las resoluciones que sean adversas a los intereses del instituto.
+
+> <small>(ADICIONADA, G.O. 14 DE DICIEMBRE DE 2015)</small>
+
+X (SIC). Coordinar el área de transparencia y las obligaciones de datos personales, a través de la Dirección de lo Consultivo y Enlace Interinstitucional;
+
+XVI. Las demás que le atribuya la Ley, este Estatuto y otros ordenamientos aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Para el desarrollo y ejercicio de sus funciones se auxiliará de unidades administrativas y de apoyo técnico operativo que determine el dictamen de estructura y en específico de la Dirección de lo Contencioso y Amparo y de la Dirección de lo Consultivo y Enlace Interinstitucional, conforme lo siguiente:
+
+> <small>(REFORMADA, G.O. 9 DE AGOSTO DE 2011)</small>
 
 #### Sección Primera. La Dirección de lo Contencioso y Amparo, es competente para:
 
@@ -458,11 +508,89 @@ VII. Requerir de acuerdo a la naturaleza de sus funciones, información y docume
 
 VIII. Las demás que le atribuya la Ley, este Estatuto y otros ordenamientos aplicables.
 
-#### Sección Segunda. La Dirección de Substanciación, es competente para:
+#### Sección Segunda. (DEROGADA, G.O. 14 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADA, G.O. 9 DE AGOSTO DE 2011)</small>
+#### Sección Tercera. (DEROGADA, G.O. 14 DE DICIEMBRE DE 2015)
 
-I. Recibir el turno de asuntos para procedimiento de calificación de las actas de visita de verificación o verificación voluntaria y en su caso, llevar a cabo la substanciación de los mismos, en términos del presente Estatuto;
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE DICIEMBRE DE 2015)</small>
+
+#### Sección Cuarta. La Dirección de lo Consultivo y Enlace Interinstitucional, es competente para:
+
+> <small>(ADICIONADA, G.O. 9 DE AGOSTO DE 2011)</small>
+
+I. Formular los proyectos de disposiciones jurídicas relacionadas con las atribuciones del Instituto, y realizar conjuntamente con las áreas estudios y proyectos en torno a posibles modificaciones a la normatividad aplicable;
+
+> <small>(ADICIONADA, G.O. 9 DE AGOSTO DE 2011)</small>
+
+II. Brindar asesoría y apoyo jurídico a las demás unidades del Instituto, para el mejor desempeño de las funciones que tiene encomendadas;
+
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2015)</small>
+
+III. Analizar y proponer la atención y resolución de los reportes o solicitudes que por escrito presenten los ciudadanos o autoridades respecto a las visitas de verificación;
+
+> <small>(ADICIONADA, G.O. 9 DE AGOSTO DE 2011)</small>
+
+IV. Revisar los convenios, contratos y demás instrumentos jurídicos y administrativos que su formalización corresponda al Director General del Organismo;
+
+> <small>(ADICIONADA, G.O. 9 DE AGOSTO DE 2011)</small>
+
+V. Compilar y difundir al interior del Instituto las disposiciones jurídicas y administrativas aplicables al mismo;
+
+> <small>(ADICIONADA, G.O. 9 DE AGOSTO DE 2011)</small>
+
+VI. Participar en los comités, subcomités u órganos que se establezcan para el funcionamiento del Instituto;
+
+> <small>(ADICIONADA, G.O. 14 DE DICIEMBRE DE 2015)</small>
+
+VII. Expedir copias certificadas de los documentos que obren en los expedientes de su unidad administrativa;
+
+> <small>(ADICIONADA, G.O. 14 DE DICIEMBRE DE 2015)</small>
+
+VIII. Elaborar las respuestas para la atención de las peticiones de la Comisión de Derechos Humanos del Distrito Federal, Asamblea Legislativa del Distrito Federal y demás autoridades locales y federales relacionadas con las atribuciones del Instituto;
+
+> <small>(ADICIONADA, G.O. 14 DE DICIEMBRE DE 2015)</small>
+
+IX. Requerir a las Unidades Administrativas del Instituto la información necesaria para el ejercicio de sus atribuciones;
+
+> <small>(ADICIONADA, G.O. 14 DE DICIEMBRE DE 2015)</small>
+
+X. Coordinar el área transparencia y de datos personales y;
+
+> <small>(ADICIONADA, G.O. 9 DE AGOSTO DE 2011)</small>
+
+XI. Las demás que le atribuya la Ley, el presente Estatuto y otros ordenamientos aplicables.
+
+> <small>(ADICIONADO, G.O. 14 DE DICIEMBRE DE 2015)</small>
+
+APARTADO A BIS. Corresponde a la Coordinación de Substanciación de Procedimientos, lo siguiente:
+
+I. Conocer, substanciar y resolver los procedimientos de calificación de actas de visita de verificación en las materias competencia del organismo;
+
+II. Determinar los requerimientos que habrán de realizarse a autoridades o prevenciones a particulares dentro del procedimiento administrativo; así como ordenar todas las diligencias para mejor proveer necesarias para la calificación de las actas de visita;
+
+III. Conocer, substanciar y resolver los recursos de inconformidad que se presenten en el ámbito de su competencia;
+
+IV. Controlar, vigilar, aplicar, desarrollar, y en su caso determinar las sanciones y medidas de seguridad administrativas que deriven del incumplimiento en que hubiesen incurrido los visitados;
+
+V. Vigilar y controlar el cumplimiento de las resoluciones dictadas en la calificación de las actas de visita de verificación;
+
+VI. Coordinar, conocer, substanciar y en su caso, resolver los procedimientos derivados de las visitas de verificación voluntarias;
+
+VII. Requerir a las autoridades competentes copias simples o certificadas de cualquier documento o información que resulte necesaria para el ejercicio de sus atribuciones;
+
+VIII. Certificar los documentos que obren en los expedientes de su unidad administrativa, y
+
+IX. Proporcionar la información que le sea requerida para la atención de los requerimientos hechos al instituto por entes autónomos, autoridades administrativas y/o jurisdiccionales;
+
+X. Informar a las Secretarias de: Movilidad y Seguridad Pública del Distrito Federal, del estado procesal de los vehículos que permanezcan en sus respectivos depósitos, a efecto de que dichas Secretarias estén en condiciones de determinar lo conducente respecto del resguardo de los vehículos con base en sus atribuciones legales;
+
+XI. Las demás que le atribuya la Ley, este Estatuto y otros ordenamientos aplicables.
+
+Para el desarrollo y ejercicio de sus funciones se auxiliará de unidades administrativas y de apoyo técnico operativo que determine el dictamen de estructura, y en específico de la Dirección de Calificación “A” y Dirección de Calificación “B”, conforme lo siguiente:
+
+#### Sección Primera. La Dirección de Calificación “A” Materias Centralizadas, es competente para:
+
+I. Recibir el turno de asuntos para procedimiento de calificación de las actas de visita de verificación o verificación voluntaria en materia de Desarrollo Urbano y Uso de Suelo, Preservación al Medio Ambiente y Protección Ecológica, Anuncios, Mobiliario Urbano, Cementerios y Servicios Funerarios, Turismo y Servicios de Alojamiento, Aforo y Seguridad en Establecimientos Mercantiles y en su caso, llevar a cabo la substanciación de los mismos, en términos del presente Estatuto;
 
 II. Determinar los requerimientos que habrán de realizarse a autoridades o prevenciones a particulares dentro del procedimiento administrativo;
 
@@ -470,27 +598,19 @@ III. Ponerse en conocimiento de las solicitudes de suspensión, y en su caso, in
 
 IV. Determinar y supervisar que las admisiones a trámites de procedimiento se dé en tiempo, así como la cita y desahogo de audiencias, dando seguimiento a las mismas a efecto de coadyuvar en el legal curso de las mismas;
 
-> <small>(REFORMADA, G.O. 9 DE AGOSTO DE 2011)</small>
-
-V. Suscribir las resoluciones de los procedimientos de calificación de las actas de visita de verificación, imponiendo en su caso las sanciones conforme a las disposiciones jurídicas y administrativas aplicables;
+V. Suscribir las resoluciones de los procedimientos de calificación de las actas de visita de verificación, imponiendo en su caso las sanciones conforme a las disposiciones jurídicas y administrativas aplicables, solicitando su cumplimiento y/o ejecución;
 
 VI. Vigilar que los mecanismos implementados para llevar el control y registro de la información pública de oficio, reservada o confidencial, sean observados por sus unidades administrativas de apoyo técnico-operativo de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal y la Ley de Protección de Datos Personales para el Distrito Federal, y
 
-> <small>(REFORMADA, G.O. 9 DE AGOSTO DE 2011)</small>
-
 VII. Expedir previo cotejo copias certificadas de los documentos que obren en los expedientes de su unidad administrativa;
-
-> <small>(ADICIONADA, G.O. 9 DE AGOSTO DE 2011)</small>
 
 VIII. Aplicar, desarrollar, y en su caso determinar las sanciones y medidas de seguridad administrativas que deriven del incumplimiento en que hubiesen incurrido los visitados; y
 
-> <small>(ADICIONADA, G.O. 9 DE AGOSTO DE 2011)</small>
+IX. Proporcionar la información que le sea requerida para la atención de los requerimientos hechos al instituto por entes autónomos, autoridades administrativas y/o jurisdiccionales; y
 
-IX. Las demás que le atribuya la ley, este estatuto y otros ordenamientos aplicables y todas aquellas que permitan el debido ejercicio de las atribuciones a su cargo.
+X. Las demás que le atribuya la ley, este estatuto y otros ordenamientos aplicables y todas aquellas que permitan el debido ejercicio de las atribuciones a su cargo.
 
-> <small>(REFORMADA, G.O. 9 DE AGOSTO DE 2011)</small>
-
-#### Sección Tercera. La Dirección de Calificación de Actas de Visitas de Verificación en materia de Transporte, es competente para:
+#### Sección Segunda. La Dirección de Calificación “B”, es competente para:
 
 I. Recibir las actas de visita de verificación del transporte público, mercantil y privado de pasajero y de carga para su calificación y posterior resolución;
 
@@ -498,37 +618,17 @@ II. Determinar los requerimientos que habrán de realizarse a autoridades o prev
 
 III. Determinar y supervisar que las admisiones a trámites de procedimiento se de en tiempo, así como los escritos de observaciones, dando seguimiento a las mismas a efecto de coadyuvar en el legal curso de las mismas;
 
-IV. Suscribir las resoluciones de los procedimientos de calificación de las actas de visita de verificación, del transporte público, mercantil y privado de pasajero y de carga, imponiendo en su caso las sanciones conforme a las disposiciones jurídicas y administrativas aplicables;
+IV. Suscribir las resoluciones de los procedimientos de calificación de las actas de visita de verificación, del transporte público, mercantil y privado de pasajero y de carga, imponiendo en su caso las sanciones conforme a las disposiciones jurídicas y administrativas aplicables, solicitando su cumplimiento y/o ejecución;
 
 V. Vigilar que los mecanismos implementados para llevar el control y registro de la información pública de oficio, reservada o confidencial, sean observados por sus unidades administrativas de apoyo técnico-operativo de conformidad con la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal y la Ley de Protección de Datos Personales para el Distrito Federal;
 
 VI. Expedir copias certificadas de los documentos que obren en los expedientes de su unidad administrativa;
 
-> <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2014)</small>
+VII. Proporcionar la información que le sea requerida para la atención de los requerimientos hechos al instituto por entes autónomos, autoridades administrativas y/o jurisdiccionales; y
 
-VII. Informar a las Secretarias de: Movilidad y Seguridad Pública del Distrito Federal, del estado procesal de los vehículos que permanezcan en sus respectivos depósitos, a efecto de que dichas Secretarias estén en condiciones de determinar lo conducente respecto del resguardo de los vehículos con base en sus atribuciones legales;
+VIII. Proporcionar la información requerida por las Secretarias de: Movilidad y Seguridad Pública del Distrito Federal, respecto al estado procesal de los vehículos que permanezcan en sus respectivos depósitos, a efecto de que dichas Secretarias estén en condiciones de determinar lo conducente respecto del resguardo de los vehículos con base en sus atribuciones legales;
 
-> <small>(ADICIONADA, G.O. 12 DE NOVIEMBRE DE 2014)</small>
-
-VIII. Las demás que le atribuya la ley y otros ordenamientos aplicables y todas aquellas que permitan el debido ejercicio de las atribuciones a su cargo.
-
-> <small>(ADICIONADA, G.O. 9 DE AGOSTO DE 2011)</small>
-
-#### Sección Cuarta. La Dirección de lo Consultivo, es competente para:
-
-I. Formular los proyectos de disposiciones jurídicas relacionadas con las atribuciones del Instituto, y realizar conjuntamente con las áreas estudios y proyectos en torno a posibles modificaciones a la normatividad aplicable;
-
-II. Brindar asesoría y apoyo jurídico a las demás unidades del Instituto, para el mejor desempeño de las funciones que tiene encomendadas;
-
-III. Analizar y proponer la atención y resolución de los reportes o solicitudes que por escrito presenten los ciudadanos respecto a las visitas de verificación;
-
-IV. Revisar los convenios, contratos y demás instrumentos jurídicos y administrativos que su formalización corresponda al Director General del Organismo;
-
-V. Compilar y difundir al interior del Instituto las disposiciones jurídicas y administrativas aplicables al mismo;
-
-VI. Participar en los comités, subcomités u órganos que se establezcan para el funcionamiento del Instituto;
-
-VII. Las demás que le atribuya la Ley, el presente Estatuto y otros ordenamientos aplicables.
+IX. Las demás que le atribuya la ley y otros ordenamientos aplicables y todas aquellas que permitan el debido ejercicio de las atribuciones a su cargo.
 
 APARTADO B. Corresponde a la Coordinación de Verificación Administrativa, lo siguiente:
 
@@ -550,9 +650,9 @@ IV. Conocer, substanciar y resolver los recursos de inconformidad que se present
 
 V. Coordinar la instrumentación de un programa de visitas de verificación voluntaria en las materias de su competencia;
 
-> <small>(REFORMADA, G.O. 9 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2015)</small>
 
-VI. Coordinar al personal especializado en funciones de verificación;
+VI. Coordinar al personal especializado en funciones de verificación adscrito a la coordinación;
 
 > <small>(REFORMADA, G.O. 9 DE AGOSTO DE 2011)</small>
 
@@ -578,11 +678,13 @@ XIV. Adscribir y rotar libremente al personal especializado en funciones de veri
 
 XV. Instrumentar y coordinar trimestral y anualmente un programa de coordinación e inspección de la actividad del Personal Especializado asignado a las Delegaciones y al Instituto, en el ámbito de su competencia;
 
-XVI. Coordinar y supervisar el proceso de selección de personal en funciones de verificación administrativa en su ingreso permanencia y evaluación, de conformidad con los instrumentos, disposiciones jurídicas y administrativas aplicables;
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADA, G.O. 9 DE AGOSTO DE 2011)</small>
+XVI. Coadyuvar, en coordinación con la Dirección General, en el proceso de selección de personal en funciones de verificación administrativa adscrito a su coordinación, en su ingreso permanencia y evaluación, de conformidad con los instrumentos, disposiciones jurídicas y administrativas aplicables;
 
-XVII. Determinar el número de personal en funciones de verificación en el Instituto y en las Delegaciones;
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2015)</small>
+
+XVII. Determinar, en coordinación con la Dirección General, el número de personal en funciones de verificación en el Instituto y en las Delegaciones;
 
 > <small>(REFORMADA, G.O. 9 DE AGOSTO DE 2011)</small>
 
@@ -594,29 +696,49 @@ XIX. Expedir previo cotejo, copias certificadas de los documentos que obren en s
 
 XX. Coordinar la ejecución de las notificaciones de acuerdos y resoluciones, en el ámbito de su competencia;
 
-XXI. Las demás que le atribuya la Ley, este Estatuto y otros ordenamientos aplicables.
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 14 DE DICIEMBRE DE 2015)</small>
 
-Para el desarrollo y ejercicio de sus funciones se auxiliará de unidades administrativas y de apoyo técnico operativo que determine el dictamen de estructura y el manual administrativo y en específico de la Dirección de Personal en Funciones de Verificación Administrativa, de la Dirección de Verificación de las Materias del Ámbito Central, Dirección de Coordinación y Supervisión de la Actividad Verificadora de las Delegaciones, conforme lo siguiente:
+XXI. Coordinar la participación del Personal Especializado en Funciones de Verificación, conjuntamente con la Coordinación de Verificación al Transporte, en los operativos convocados por Gobierno Central, u otras acciones preventivas y/o previas de verificación encaminadas a velar por el cumplimiento de las normas de orden público en su ámbito competencial;
 
-#### Sección Primera. La Dirección de Personal en Funciones de Verificación Administrativa, es competente para:
+XXII. Las demás que le atribuya la Ley, este Estatuto y otros ordenamientos aplicables.
 
-I. Elaborar, desarrollar y proponer las normas y procedimientos para la selección, evaluación, admisión y desarrollo profesional que deberán aplicarse en los procesos de reclutamiento, selección, control de confianza, certificación, contratación y permanencia de personal especializado en funciones de verificación, bajo los principios de legalidad, transparencia, confiabilidad, responsabilidad y rendición de cuentas;
+> <small>(REFORMADO, G.O. 14 DE DICIEMBRE DE 2015)</small>
 
-II. Formular y fomentar programas para el desarrollo del personal especializado en funciones de verificación, mediante el diseño de modelos innovadores y funcionales, para hacer más eficientes los procesos de evaluación y desarrollo profesional;
+Para el desarrollo y ejercicio de sus funciones se auxiliará de unidades administrativas y de apoyo técnico operativo que determine el dictamen de estructura y el manual administrativo y en específico de la Dirección de Vinculación Operativa, de la Dirección de Verificación de las Materias del Ámbito Central, Dirección de Coordinación y Supervisión de la Actividad Verificadora de las Delegaciones, conforme lo siguiente:
 
-III. Dirigir, coordinar y calificar el cumplimiento de los perfiles profesional, ético, intelectual y de personalidad necesarios para la realización de las funciones encomendadas y para establecer condiciones de permanencia de los servidores públicos;
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE DICIEMBRE DE 2015)</small>
 
-IV. Crear perfiles para clasificar grupos de servidores públicos, encaminados a los procesos de evaluación;
+#### Sección Primera. La Dirección de Vinculación Operativa, es competente para:
 
-V. Coordinarse con las Dependencias, Órganos Desconcentrados, Entidades y Órganos Autónomos del Distrito Federal que realicen funciones de formación, capacitación, control y evaluación de los servidores públicos, a efecto de que participen en la capacitación del personal del Instituto;
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2015)</small>
+
+I. Elaborar, desarrollar y proponer las normas y procedimientos para la selección, evaluación, admisión y desarrollo profesional a aplicarse en los procesos de reclutamiento, selección, control de confianza, certificación, contratación y permanencia de personal especializado en funciones de verificación adscrito a la coordinación de verificación, bajo los principios de legalidad, transparencia, confiabilidad, responsabilidad y rendición de cuentas;
+
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2015)</small>
+
+II. Formular y proponer programas para el desarrollo del personal especializado en funciones de verificación, mediante el diseño de modelos innovadores y funcionales, para hacer más eficientes los procesos de evaluación y desarrollo profesional;
+
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2015)</small>
+
+III. Crear los perfiles profesionales, éticos, intelectuales y de personalidad necesarios para la realización de las funciones encomendadas y para establecer condiciones de permanencia del Personal Especializado en Funciones de Verificación adscrito a la Coordinación de Verificación Administrativa;
+
+IV. (DEROGADA, G.O. 14 DE DICIEMBRE DE 2015)
+
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2015)</small>
+
+V. Proponer a la Dirección de Administración la celebración de convenios con las Dependencias, Órganos Desconcentrados, Entidades y Órganos Autónomos del Distrito Federal que realicen funciones de formación, capacitación, control y evaluación de los servidores públicos, a efecto de que participen en la capacitación del Personal Especializado en Funciones de Verificación de la Coordinación de Verificación Administrativa del Instituto;
 
 > <small>(REFORMADA, G.O. 12 DE NOVIEMBRE DE 2014)</small>
 
 VI. Instrumentar y ejecutar las recomendaciones que emita el Consejo General;
 
-VII. Coordinar y supervisar el proceso de selección de personal en funciones de verificación administrativa en su ingreso permanencia y evaluación de conformidad con los instrumentos, disposiciones jurídicas y administrativas aplicables;
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2015)</small>
 
-VIII. Controlar y determinar el número de personal en funciones de verificación en el Instituto y en las Delegaciones;
+VII. Ejecutar en coordinación con la Dirección General y Coordinación de Verificación Administrativa, el proceso de selección de personal en funciones de verificación administrativa en su ingreso permanencia y evaluación de conformidad con los instrumentos, disposiciones jurídicas y administrativas aplicables;
+
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2015)</small>
+
+VIII. Controlar y determinar, en coordinación con la Dirección General y Coordinación de Verificación Administrativa, el número de personal en funciones de verificación adscrito a la Coordinación de Verificación Administrativa y en las Delegaciones;
 
 IX. Expedir previo cotejo, copias certificadas de los documentos que obren en sus archivos, así como de aquellos a los cuales se tenga acceso con motivo del desempeño de sus funciones;
 
@@ -710,11 +832,25 @@ XIII. Determinar las estrategias presentadas de manera interinstitucional para p
 
 XIV. Coordinar la remisión de unidades vehiculares a los depósitos habilitados o destinados para tal efecto, que incumplan la normatividad en materia de transporte;
 
-XV. Las demás que le atribuya este Estatuto y otros ordenamientos aplicables y todas aquellas que permitan el debido ejercicio de las atribuciones a su cargo.
+> <small>(ADICIONADA, G.O. 14 DE DICIEMBRE DE 2015)</small>
+
+XV. Coadyuvar, en coordinación con la Dirección General, en el proceso de selección de personal en funciones de verificación adscrito a su coordinación, en su ingreso permanencia y evaluación, de conformidad con los instrumentos, disposiciones jurídicas y administrativas aplicables;
+
+> <small>(ADICIONADA, G.O. 14 DE DICIEMBRE DE 2015)</small>
+
+XVI. Determinar, en coordinación con la Dirección General, la rotación y número de personal que se asigne a los distintos programas a cargo de la coordinación; y
+
+> <small>(ADICIONADA, G.O. 14 DE DICIEMBRE DE 2015)</small>
+
+XVII. Coordinar la participación de Personal Especializado en Funciones de Verificación, conjuntamente con las Coordinaciones de Verificación Administrativa y de Verificación al Transporte, en los operativos convocados por Gobierno Central, u otras acciones preventivas y/o previas de verificación encaminadas a velar por el cumplimiento de las normas de orden público en su ámbito competencial;
+
+XVIII. Las demás que le atribuya este Estatuto y otros ordenamientos aplicables y todas aquellas que permitan el debido ejercicio de las atribuciones a su cargo.
 
 Para el desarrollo y ejercicio de sus funciones, se auxiliará de unidades administrativas y de apoyo técnico operativo que determine el dictamen de estructura y el manual administrativo y en específico de la Dirección de Verificación al Transporte, de la Dirección de Logística, Información y Enlace para la Seguridad del Transporte y de la Dirección de Control de Resguardo y Procesos de Compactación conforme lo siguiente:
 
-#### Sección Primera.- La Dirección de Verificación al Transporte, es competente para:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE DICIEMBRE DE 2015)</small>
+
+#### Sección Primera.- La Dirección de Operaciones y Verificación al Transporte, es competente para:
 
 I. Coordinar, autorizar, formular, practicar, dictar, expedir y suscribir, las órdenes de visita de verificación en materia de transporte público, mercantil y privado de pasajero y de carga;
 
@@ -732,11 +868,31 @@ VII. Expedir previo cotejo, copias certificadas de los documentos que obren en s
 
 VIII. Planear, vigilar, supervisar, suscribir los documentos inherentes al establecimiento de un sistema de coordinación interinstitucional entre los cuerpos de Seguridad y Procuración de Justicia del Distrito Federal; y
 
-IX. Las demás que le atribuya este Estatuto y otros ordenamientos aplicables y todas aquellas que permitan el debido ejercicio de las atribuciones a su cargo.
+> <small>(ADICIONADA, G.O. 14 DE DICIEMBRE DE 2015)</small>
 
-#### Sección Segunda. La Dirección de Logística, Información y Enlace para la seguridad del Transporte, es competente para:
+IX. Ordenar, emitir y vigilar la ejecución de las órdenes relativas a las medidas de seguridad y las sanciones previstas en los ordenamientos jurídicos aplicables.
 
-I. Coordinar la recopilación, clasificación y sistematización de la información, sobre el transporte público en el Distrito Federal, obtenida en el ámbito de su competencia;
+> <small>(ADICIONADA, G.O. 14 DE DICIEMBRE DE 2015)</small>
+
+XI (SIC). Gestionar los recursos materiales e insumos necesarios, para la realización de las actividades conferidas al Personal Especializado en Funciones de Verificación adscrito a la Coordinación;
+
+> <small>(ADICIONADA, G.O. 14 DE DICIEMBRE DE 2015)</small>
+
+XII. Establecer mecanismos de control e inventario de los documentos y placas asegurados durante la ejecución de visitas de verificación como resultado de la implementación de medidas cautelares y de seguridad;
+
+> <small>(ADICIONADA, G.O. 14 DE DICIEMBRE DE 2015)</small>
+
+XIII. Supervisar la entrega de información derivada de las actividades llevadas a cabo por el Personal Especializado en Funciones de Verificación adscrito a la Coordinación, a la Unidad administrativa encargada de su recopilación; y
+
+XIV. Las demás que le atribuya este Estatuto y otros ordenamientos aplicables y todas aquellas que permitan el debido ejercicio de las atribuciones a su cargo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE DICIEMBRE DE 2015)</small>
+
+#### Sección Segunda. La Dirección de Información, Seguimiento y Enlace de la Verificación al Transporte, es competente para:
+
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2015)</small>
+
+I. Coordinar la recopilación, clasificación y sistematización de la información derivada de las actividades relacionadas a verificación del transporte, sobre transporte público en el Distrito Federal, obtenida en el ámbito de su competencia;
 
 II. Determinar las propuestas para realizar el proceso de verificación, basadas en la información analizada;
 
@@ -748,41 +904,71 @@ V. Determinar los mecanismos de análisis para la información que se genere del
 
 VI. (DEROGADA, G.O. 12 DE NOVIEMBRE DE 2014)
 
-VII. Las demás que le atribuya otros ordenamientos aplicables y todas aquellas que permitan el debido ejercicio de las atribuciones a su cargo.
+> <small>(ADICIONADA, G.O. 14 DE DICIEMBRE DE 2015)</small>
+
+VII. Dirigir la integración de la estadística que refleje los resultados de la verificación en materia de transporte, para la elaboración de los informes que se requieran y sustentar la toma de decisiones; y
+
+VIII. Las demás que le atribuya (sic) otros ordenamientos aplicables y todas aquellas que permitan el debido ejercicio de las atribuciones a su cargo.
 
 #### Sección Tercera. (DEROGADA, G.O. 12 DE NOVIEMBRE DE 2014)
 
-> <small>(ADICIONADO, G.O. 9 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE DICIEMBRE DE 2015)</small>
 
-APARTADO D. Corresponde a la Coordinación de Administración, lo siguiente:
+APARTADO D. Corresponde a la Coordinación de Administración y Desarrollo Tecnológico, lo siguiente:
 
-I. Coordinar e Integrar el programa anual de trabajo del Instituto, los proyectos de programas y el anteproyecto de presupuesto y presentarlos al Director General para su aprobación, de conformidad con la normatividad aplicable;
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2016)</small>
 
-II. Analizar y presentar al Director General el informe anual de la cuenta pública del Instituto;
+I. Coordinar e Integrar el programa anual de trabajo del Instituto, los proyectos de programas y el anteproyecto de presupuesto y presentarlos al Director General para su aprobación, de conformidad con sus atribuciones y la normatividad aplicable;
 
-III. Analizar y presentar al Director General el Programa Operativo Anual del Instituto;
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2015)</small>
 
-IV. Analizar y presentar al Director General los informes que correspondan conforme a la normatividad aplicable del Instituto;
+II. Presentar al Director General el informe anual de la cuenta pública del Instituto;
+
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2015)</small>
+
+III. Presentar al Director General el Programa Operativo Anual del Instituto;
+
+> <small>(REFORMADA, G.O. 14 DE DICIEMBRE DE 2015)</small>
+
+IV. Presentar al Director General los informes que correspondan conforme a la normatividad aplicable del Instituto;
+
+> <small>(ADICIONADA, G.O. 9 DE AGOSTO DE 2011)</small>
 
 V. Organizar y coordinar los actos de administración interna necesarios para que el Instituto cumpla con su objeto;
 
+> <small>(ADICIONADA, G.O. 9 DE AGOSTO DE 2011)</small>
+
 VI. Planear y coordinar los mecanismos de control interno, de administración de personal, recursos financieros, recursos materiales y servicios generales;
+
+> <small>(ADICIONADA, G.O. 9 DE AGOSTO DE 2011)</small>
 
 VII. Establecer las políticas de administración de personal, recursos financieros, recursos materiales y servicios generales;
 
 VIII. (DEROGADA, G.O. 12 DE NOVIEMBRE DE 2014)
 
+> <small>(ADICIONADA, G.O. 9 DE AGOSTO DE 2011)</small>
+
 IX. Someter a la consideración del Director General el programa de estímulos del personal especializado supeditado al presupuesto autorizado para cada ejercicio fiscal;
 
 X. (DEROGADA, G.O. 12 DE NOVIEMBRE DE 2014)
 
+> <small>(ADICIONADA, G.O. 9 DE AGOSTO DE 2011)</small>
+
 XI. Ejercer y aplicar el presupuesto anual asignado al Instituto;
+
+> <small>(ADICIONADA, G.O. 9 DE AGOSTO DE 2011)</small>
 
 XII. Vigilar y aplicar las disposiciones jurídicas y administrativas aplicables en materia de adquisiciones, arrendamiento y servicios;
 
+> <small>(ADICIONADA, G.O. 9 DE AGOSTO DE 2011)</small>
+
 XIII. Suscribir los contratos, convenios y demás documentos relativos a la aplicación de la legislación en materia de adquisiciones, del trabajo y civil relacionadas con los recursos humanos materiales y financieros de conformidad con los instrumentos jurídicos correspondientes;
 
+> <small>(ADICIONADA, G.O. 9 DE AGOSTO DE 2011)</small>
+
 XIV. Auxiliarse de sus unidades administrativas de apoyo técnico operativo en la planeación, ejecución, evaluación y seguimiento de procedimientos, contratos y convenios derivados de las leyes en materia de adquisiciones;
+
+> <small>(ADICIONADA, G.O. 9 DE AGOSTO DE 2011)</small>
 
 XV. Proporcionar periódicamente a la Dirección General los estados financieros e informes del ejercicio presupuestal y de las inversiones;
 
@@ -790,21 +976,97 @@ XVI. (DEROGADA, G.O. 12 DE NOVIEMBRE DE 2014)
 
 XVII. (DEROGADA, G.O. 12 DE NOVIEMBRE DE 2014)
 
+> <small>(ADICIONADA, G.O. 9 DE AGOSTO DE 2011)</small>
+
 XVIII. Instrumentar y ejecutar las recomendaciones que emita el Consejo General y el Director General;
+
+> <small>(ADICIONADA, G.O. 9 DE AGOSTO DE 2011)</small>
 
 XIX. Coordinar el seguimiento de las observaciones y recomendaciones determinadas, por diferentes órganos de control y fiscalización;
 
+> <small>(ADICIONADA, G.O. 9 DE AGOSTO DE 2011)</small>
+
 XX. Vigilar el cumplimiento de la normatividad en materia de remuneración del personal y contratación de prestadores de servicios;
+
+> <small>(ADICIONADA, G.O. 9 DE AGOSTO DE 2011)</small>
 
 XXI. Planear, organizar, ordenar ejecutar, supervisar, y evaluar la adopción de nuevas tecnologías, encaminadas a la mayor eficiencia de los servicios encomendados al Instituto, de conformidad con las disposiciones jurídicas y administrativas aplicables;
 
+> <small>(ADICIONADA, G.O. 9 DE AGOSTO DE 2011)</small>
+
 XXII. Expedir previo cotejo, copias certificadas de los documentos que obren en sus archivos, así como de aquellos a los cuales se tenga acceso con motivo del desempeño de sus funciones, y
 
-XXIII. Las demás que le atribuyan otros ordenamientos aplicables y todas aquellas que permitan el debido ejercicio de las atribuciones a su cargo.
+> <small>(ADICIONADA, G.O. 14 DE DICIEMBRE DE 2015)</small>
+
+XXIII. Analizar el programa anual de capacitación del Instituto, y ponerlo a consideración de la Dirección General.
+
+XXIV. Las demás que le atribuyan otros ordenamientos aplicables y todas aquellas que permitan el debido ejercicio de las atribuciones a su cargo.
 
 > <small>(REFORMADO, G.O. 12 DE NOVIEMBRE DE 2014)</small>
 
 Para el desarrollo y ejercicio de sus funciones se auxiliará de unidades administrativas y de apoyo técnico operativo que determine el dictamen de estructura y el manual administrativo y en específico de la Dirección de Administración y Dirección de Tecnologías de la Información, conforme al citado manual.
+
+> <small>(ADICIONADO, G.O. 14 DE DICIEMBRE DE 2015)</small>
+
+APARTADO D Bis. Corresponde a las Direcciones de Administración y de Desarrollo Tecnológico y Modernización Administrativa, lo siguiente:
+
+Primera Sección. Corresponde a la Dirección de Administración:
+
+I. Integrar el programa anual de trabajo del Instituto, los proyectos de programas y el anteproyecto de presupuesto y presentarlos al Director General para su aprobación, de conformidad con la normatividad aplicable;
+
+II. Analizar e integrar el informe anual de la cuenta pública del Instituto;
+
+III. Analizar e integrar al Director General el Programa Operativo Anual del Instituto;
+
+IV. Analizar y elaborar los informes que correspondan en el ámbito de sus atribuciones y conforme a la normatividad aplicable del Instituto;
+
+V. Dirigir los actos de administración interna necesarios para que el Instituto cumpla con su objeto;
+
+VI. Planear e implementar los mecanismos de control interno, de administración de personal, recursos financieros, recursos materiales y servicios generales;
+
+VII. Implementar las políticas de administración de personal, recursos financieros, recursos materiales y servicios generales;
+
+VIII. Integrar e implementar el programa de estímulos del personal especializado supeditado al presupuesto autorizado para cada ejercicio fiscal;
+
+IX. Ejercer y aplicar el presupuesto anual asignado al Instituto;
+
+X. Aplicar las disposiciones jurídicas y administrativas aplicables en materia de adquisiciones, arrendamiento y servicios;
+
+XI. Suscribir los contratos, convenios y demás documentos relativos a la aplicación de la legislación en materia de adquisiciones, del trabajo y civil relacionadas con los recursos humanos materiales y financieros de conformidad con los instrumentos jurídicos correspondientes;
+
+XII. Auxiliarse de sus unidades administrativas de apoyo técnico operativo en la planeación, ejecución, evaluación y seguimiento de procedimientos, contratos y convenios derivados de las leyes en materia de adquisiciones;
+
+XIII. Dirigir la integración de los estados financieros e informes del ejercicio presupuestal y de las inversiones que se presenten al Director General;
+
+XIV. Vigilar el cumplimiento de la normatividad en materia de remuneración del personal y contratación de prestadores de servicios;
+
+XV. Expedir previo cotejo, copias certificadas de los documentos que obren en sus archivos, así como de aquellos a los cuales se tenga acceso con motivo del desempeño de sus funciones, y
+
+XVI. Integrar el programa anual de capacitación del Instituto, y ponerlo a consideración de la Dirección General.
+
+XVII. Las demás que le atribuyan otros ordenamientos aplicables y todas aquellas que permitan el debido ejercicio de las atribuciones a su cargo.
+
+Para el desarrollo y ejercicio de sus funciones se auxiliará de unidades administrativas y de apoyo técnico operativo que determine el dictamen de estructura y el manual administrativo que al efecto se emita.
+
+Segunda Sección. Corresponde a la Dirección de Desarrollo Tecnológico y Modernización Administrativa:
+
+I. Elaborar y mantener actualizados los manuales de organización y procedimientos y adecuarlos a las necesidades del Instituto;
+
+II. Integrar y reportar al Coordinador los informes proporcionados por las unidades respecto del comportamiento de los indicadores estratégicos de gestión;
+
+III. Instrumentar y ejecutar las recomendaciones que emita el Consejo General y el Director General;
+
+IV. Planear, organizar, ordenar, ejecutar, supervisar, y evaluar la adopción de nuevas tecnologías, encaminadas a la mayor eficiencia de los servicios encomendados al Instituto, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+V. Instrumentar desarrollo tecnológico Institucional que facilite el cumplimiento de los objetivos Institucionales;
+
+VI. Desarrollar un Programa Tecnológico Institucional, que coadyuve en la transparencia, acercamiento con la ciudadanía y facilite las condiciones de accesibilidad en las actuaciones del Instituto;
+
+VII. Expedir previo cotejo, copias certificadas de los documentos que obren en sus archivos, así como de aquellos a los cuales se tenga acceso con motivo del desempeño de sus funciones, y
+
+VIII. Las demás que le atribuyan otros ordenamientos aplicables y todas aquellas que permitan el debido ejercicio de las atribuciones a su cargo.
+
+Para el desarrollo y ejercicio de sus funciones se auxiliará de unidades administrativas y de apoyo técnico operativo que determine el dictamen de estructura y el manual administrativo que al efecto se emita.
 
 ### Capítulo Cuarto. Del Comisariado y la Contraloría General
 
@@ -842,11 +1104,13 @@ III. Someterse y aprobar las evaluaciones que se realicen para comprobar la cons
 
 IV. Cumplir con los requisitos a que se refiere el artículo 28 de la Ley.
 
-> <small>(REFORMADO, G.O. 9 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, G.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 30.
 
-El personal especializado del Instituto realizará sus actos de conformidad con la Ley de Procedimiento Administrativo del Distrito Federal, la Ley, el Reglamento de Verificación Administrativa del Distrito Federal, el presente Estatuto y demás disposiciones jurídicas y administrativas aplicables.
+El personal especializado del Instituto realizará sus actos de conformidad con la Ley, el Reglamento de Verificación Administrativa del Distrito Federal, el presente Estatuto y demás disposiciones jurídicas y administrativas aplicables.
+
+Solo a falta de disposición expresa en la Ley y el Reglamento de Verificación Administrativa del Distrito Federal, se aplicará supletoriamente la Ley de Procedimiento Administrativo del Distrito Federal, en concordancia con el artículo 6, párrafo segundo de la Ley.
 
 ###### Artículo 31.
 
@@ -854,11 +1118,11 @@ El Instituto establecerá el servicio civil de carrera bajo los principios de im
 
 ### Capítulo Séptimo. De la Suplencia de los Funcionarios
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 32.
 
-Durante las ausencias del Director General, el despacho y resolución de los asuntos correspondientes al Instituto, estarán a cargo de las Coordinaciones: Jurídica, de Verificación Administrativa, de Verificación al Transporte y de Administración en el ámbito de su respectiva competencia.
+Durante las ausencias del Director General, el despacho y resolución de los asuntos correspondientes al Instituto, estarán a cargo de las Coordinaciones: Jurídica y de Servicios Legales, de Verificación Administrativa, de Verificación al Transporte, de Substanciación de Procedimientos y de Administración en el ámbito de su respectiva competencia.
 
 Las ausencias de los Coordinadores y Directores de Área, serán suplidas por los servidores públicos de jerarquía inmediata inferior, que ellos mismos designen por escrito, según la naturaleza de los asuntos.
 
@@ -907,3 +1171,13 @@ Publíquese en la Gaceta Oficial del Distrito Federal.
 ###### ARTÍCULO SEGUNDO.
 
 El presente aviso entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 14 DE DICIEMBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+Las presentes reformas, adiciones y derogaciones, entrarán en vigor al día siguiente de la notificación del dictamen de estructura autorizada por parte de la Coordinación General de Modernización Administrativa.
