@@ -4,7 +4,7 @@ identifier: "SON-ley-de-ejecucion-de-sanciones-penales-y-medidas-de-89938"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-22"
-last_updated: "2012-10-22"
+last_updated: "2015-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89938&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SON"
 
 LEY DE EJECUCIÓN DE SANCIONES PENALES Y MEDIDAS DE SEGURIDAD DEL ESTADO DE SONORA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A MÁS TARDAR EL 18 DE JUNIO DE 2014, PREVIA SU PUBLICACIÓN.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Secc. III del Boletín Oficial del Estado de Sonora, el lunes 22 de octubre de 2012.
 
@@ -45,13 +43,21 @@ LEY DE EJECUCIÓN DE SANCIONES PENALES Y MEDIDAS DE SEGURIDAD DEL ESTADO DE SONO
 
 ### CAPÍTULO ÚNICO. NATURALEZA Y OBJETO DE LA LEY
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 1.
 
 Disposiciones.
 
-Las disposiciones contenidas en esta Ley son de orden público y de interés social y su aplicación corresponde, en el ámbito de sus respectivas competencias, a los Poderes Judicial y Ejecutivo del Estado, así como a las autoridades vinculadas y auxiliares con el Sistema Penitenciario a que hace referencia el presente ordenamiento.
+Las disposiciones contenidas en esta Ley son de orden público y de interés social y su aplicación corresponde, en el ámbito de sus respectivas competencias, a los Poderes Judicial y Ejecutivo del Estado, este último, a través de la Dirección General de Ejecución de Penas, Medidas de Seguridad, Supervisión de Medidas Cautelares y de la Suspensión Condicional del Proceso, dependiente de la Secretaría de Seguridad Pública, así como a las autoridades vinculadas y auxiliares con el Sistema Penitenciario a que hace referencia el presente ordenamiento.
 
-En todo lo no previsto por esta Ley, se aplicarán supletoriamente el Código Penal del Estado de Sonora y el Código de Procedimientos Penales para el Estado de Sonora, siempre que no contravengan los principios que rigen a este ordenamiento.
+En todo lo no previsto por esta Ley, se aplicarán supletoriamente el Código Penal del Estado de Sonora y el Código Nacional de Procedimientos Penales, siempre que no contravengan los principios que rigen a este ordenamiento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 2.
 
@@ -59,7 +65,7 @@ Objeto.
 
 Este ordenamiento tiene por objeto:
 
-Regular la ejecución de las sentencias penales, las medidas de seguridad, las medidas cautelares y las condiciones para el otorgamiento de la suspensión condicional de las sanciones, establecer la intervención judicial en la fase ejecutiva de la pena privativa de libertad, así como fijar las bases del sistema de reinserción social de los sentenciados.
+Regular la ejecución de las sentencias penales, las medidas de seguridad, las medidas cautelares y las condiciones por cumplir que deriven de la celebración de la suspensión condicional del proceso establecer la intervención judicial en la fase ejecutiva de la pena privativa de libertad, así como fijar las bases del sistema de reinserción social de los sentenciados.
 
 ###### Artículo 3.
 
@@ -67,17 +73,29 @@ Finalidad.
 
 Esta Ley tiene como finalidad:
 
-I. Establecer las bases para la coordinación entre autoridades judiciales, administrativas y entidades de derecho privado, en materia de ejecución y vigilancia de las medidas cautelares decretadas;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+I. Establecer las bases para la coordinación entre autoridades judiciales, administrativas y entidades de derecho privado, en materia de ejecución y vigilancia de las medidas judiciales decretadas;
 
 II. Establecer las bases para la coordinación entre autoridades judiciales, administrativas y entidades de derecho privado, en materia de ejecución y vigilancia de las penas y medidas de seguridad impuestas por la autoridad judicial;
 
-III. La determinación de los medios de prevención y de reinserción social que, en lo conducente, resulten aplicables a la persona sujeta a las penas de prisión previstas en el Código Penal del Estado de Sonora y, otras leyes;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+III. La determinación de los medios de prevención y de reinserción social que, en lo conducente, resulten aplicables a la persona sujeta a medidas judiciales, penas de prisión y medidas de seguridad previstas en el Código Penal del Estado de Sonora y, otras leyes;
 
 IV. Establecer las bases generales del Sistema Estatal Penitenciario, así como de la organización y funcionamiento de los establecimientos de reinserción social en la Entidad;
 
 V. Proporcionar los parámetros generales para la prevención especial a través del programa derivado del sistema técnico progresivo, con estricto apego al principio de no discriminación de género. Los reglamentos deberán estar acordes con los protocolos internacionales y con perspectiva de género; y
 
-VI. Establecer los lineamientos generales para el desarrollo de las relaciones entre internos y autoridades penitenciarias, durante el tiempo que permanezcan en prisión; así como el contacto que deberán tener con el exterior, sin perjuicio de lo que establezcan los reglamentos respectivos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+VI. Establecer los lineamientos generales para el desarrollo de las relaciones entre internos y autoridades penitenciarias, así como autoridades encargadas de la ejecución de las penas y medidas de seguridad durante el tiempo que permanezcan en prisión; así como el contacto que deberán tener con el exterior, sin perjuicio de lo que establezcan los reglamentos respectivos.
 
 ###### Artículo 4.
 
@@ -101,7 +119,11 @@ V. Jurisdiccionalidad. Los juzgados de ejecución deberán tener como única mat
 
 VI. Inmediación. Las audiencias y actos procesales que se desarrollen en el procedimiento de ejecución deberán realizarse íntegramente bajo la observancia directa del juez de ejecución, sin que pueda delegar en alguna otra persona esa función.
 
-VII. Especialidad y objetividad. Las decisiones inherentes a la ejecución de las sanciones penales, tendrán como fundamento en la información técnico-jurídica que proporcione la autoridad penitenciaria, informes que se regirán por los principios de especialidad y objetividad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+VII. Especialidad y objetividad. Las decisiones inherentes a la ejecución de las sanciones penales, tendrán como fundamento en la información técnico-jurídica que proporcione la autoridad penitenciaria y la Dirección General de Ejecución de Penas, Medidas de Seguridad, Supervisión de Medidas Cautelares y de la Suspensión Condicional del Proceso, informes que se regirán por los principios de especialidad y objetividad.
 
 VIII. Confidencialidad. El expediente personal de los sentenciados tendrá trato confidencial y sólo podrán imponerse de su contenido las autoridades competentes, el interno y su defensor o las personas directamente interesadas en la tramitación del caso. Esto es sin perjuicio de que la información integrada al expediente pueda ser materia de la audiencia o audiencias que se celebren ante el Juez de Ejecución.
 
@@ -113,11 +135,17 @@ X. Gobernabilidad y seguridad institucional. Las autoridades penitenciarias esta
 
 Estos principios también se observarán en lo conducente con relación a los detenidos y procesados.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 5.
 
 Vigilancia.
 
-Los Poderes Judicial y Ejecutivo del Estado vigilarán, en el ámbito de sus respectivas competencias, el cumplimiento y aplicación de esta Ley, así como la organización y funcionamiento de las instituciones destinadas a la ejecución de las penas y medidas de seguridad y cautelares decretadas.
+Los Poderes Judicial y Ejecutivo del Estado vigilarán, en el ámbito de sus respectivas competencias, el cumplimiento y aplicación de esta Ley, así como la organización y funcionamiento de las instituciones destinadas a la ejecución de las penas y medidas de seguridad y judiciales decretadas.
+
+En el cumplimiento de las penas, medidas de seguridad y judiciales dictadas durante el procedimiento o en sentencia firme, o de las resoluciones posteriores que las extingan, sustituyan o modifiquen, el Juez de Control, el Tribunal de Enjuiciamiento, o el Juez de Ejecución, en su caso, remitirán sus proveídos a la Dirección General, quien de conformidad a la naturaleza de aquellas, las ejecutará, coordinará y vigilará la ejecución que quede a cargo de las autoridades auxiliares o instituciones privadas, dando cuenta oportuna a la autoridad judicial correspondiente sobre su cumplimiento.
 
 ###### Artículo 6.
 
@@ -129,7 +157,11 @@ I. Ley.- La Ley de Ejecución de Sanciones Penales y Medidas de Seguridad del Es
 
 II. Código Penal.- El Código Penal del Estado de Sonora;
 
-III. Código de Procedimientos.- El Código de Procedimientos Penales para el Estado de Sonora;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+III. Código Nacional.- Código Nacional de Procedimientos Penales;
 
 IV. Centros de Reinserción Social.- Los establecimientos en los cuales se aplicará la prisión preventiva y se ejecutarán, tanto las penas privativas como las restrictivas de libertad y, en su caso, las medidas de seguridad, en el ámbito de su competencia, en espacios separados unos de los otros;
 
@@ -143,21 +175,41 @@ VIII. Coordinación General.- Autoridad que coordina y organiza los centros de r
 
 IX. Estudios de personalidad.- Los estudios practicados por el Consejo Técnico Interdisciplinario en las áreas médica, sicológica, siquiátrica, educativa, criminológica, social y ocupacional y de vigilancia;
 
-X. Dirección.- La Dirección de cualquier Centro de Prevención y Reinserción Social;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+X. Dirección General.- Dirección General de Ejecución de Penas, Medidas de Seguridad, Supervisión de Medidas Cautelares y de la Suspensión Condicional del Proceso;
 
 XI. Tribunal.- Tribunal de Segunda Instancia;
 
 XII. Juez de la Causa.- Órgano Jurisdiccional del Poder Judicial del Estado de Sonora que mediante sentencia haya impuesto una pena de prisión o medida de seguridad;
 
-XIII. Juez de Ejecución.- Órgano Jurisdiccional del Poder Judicial del Estado de Sonora, competente en materia de modificación y duración de las penas privativas de libertad y medidas de seguridad;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+XIII. Juez de Control.- Órgano Jurisdiccional del Poder Judicial del Estado de Sonora que dicte alguna medida cautelar o haya dictado condiciones a cumplir durante la suspensión condicional del proceso o mediante sentencia haya impuesto una pena de prisión o medida de seguridad;
 
 XIV. Tratamiento Técnico Progresivo.- Aquel al cual debe someterse a los sentenciados para que a través de éste se demuestre el cambio conductual, forma de pensar, así como para estudiar a fondo sus antecedentes psico-sociales, familiares y socio-económicos;
 
-XV. Sentenciado.- La persona que es condenada mediante sentencia ejecutoriada;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XVI. Procesado.- Interno a quien no se ha dictado sentencia que haya causado ejecutoria y que se encuentra (sic) disposición de tribunales del Poder Judicial del Estado;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
-XVII. Autoridades Auxiliares.- Las que colaboran con el Juez de Ejecución y con el Sistema Estatal Penitenciario durante el cumplimiento de la sentencia;
+XV. Sentenciado.- La persona que ha sido condenada mediante sentencia ejecutoriada;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+XVI. Procesado: Persona privada de su libertad mediante la imposición de una medida cautelar, a la cual no se le ha dictado sentencia;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+XVII. Autoridades Auxiliares.- Las que colaboran con el Juez de Ejecución, con el Sistema Estatal Penitenciario y con la Dirección General durante el cumplimiento de la sentencia;
 
 XVIII. Libertad Anticipada.- Es el beneficio concedido al sentenciado para el cumplimiento de la pena;
 
@@ -165,11 +217,15 @@ XIX. Prisión preventiva.- Privación de la libertad de todo procesado; y
 
 XX. Pena de Prisión.- Privación de la libertad de todo sentenciado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 7.
 
 Competencia.
 
-El Juez de ejecución será competente para conocer de los procedimientos de modificación y duración de las penas privativas de libertad y medidas de seguridad en etapa de ejecución de sentencia.
+El Tribunal de Enjuiciamiento o el Juez de Control, en su caso, será competente para realizar la primera fijación de la pena o las medidas de seguridad, así como de las condiciones de su cumplimiento. El Juez de ejecución será competente para conocer de los procedimientos de modificación y duración de las penas privativas de libertad y medidas de seguridad en etapa de ejecución de sentencia.
 
 ###### Artículo 8.
 
@@ -177,7 +233,11 @@ Defensa.
 
 La labor del defensor culminará cuando la sentencia haya causado ejecutoria, sin perjuicio de que continúe en el ejercicio de la defensa técnica durante la ejecución de la pena. Asimismo, el sentenciado podrá nombrar un nuevo defensor, o en su defecto, se le nombrará un defensor público por el Juez de Ejecución.
 
-El ejercicio de la defensa técnica durante la ejecución penal consistirá en el asesoramiento al sentenciado, cuando se requiera, para la interposición de las gestiones necesarias en resguardo de sus derechos, así como su presencia obligada en todas las audiencias públicas a las que deba asistir.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+El ejercicio de la defensa técnica durante la ejecución penal o de la medida judicial consistirá en el asesoramiento al sentenciado, cuando se requiera, para la interposición de las gestiones necesarias en resguardo de sus derechos, así como su presencia obligada en todas las audiencias públicas a las que deba asistir.
 
 ###### Artículo 9.
 
@@ -191,23 +251,33 @@ El Ministerio Público será previamente escuchado cuando se trate del otorgamie
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 10.
 
-Del Juez de la causa.
+Del Juez de Control.
 
-Durante el proceso penal, al Juez de la causa, de acuerdo con las formas de coordinación y distribución de competencias que esta Ley establece, le corresponderá:
+Durante el proceso penal, al Juez de Control, de acuerdo con las formas de coordinación y distribución de competencias que esta Ley establece, le corresponderá:
 
-I. Vigilar el cumplimiento de las medidas de seguridad que dicte;
+I. Vigilar la ejecución y el cumplimiento de las medidas judiciales que dicte;
 
-II. Ejercer las atribuciones que le confiere el Código Penal y el Código de Procedimientos Penales en materia de la suspensión condicional de las sanciones, sin perjuicio de las atribuciones correspondientes a la Dirección; y
+II. Ejercer las atribuciones que le confiere el Código Nacional de Procedimientos Penales en materia de la suspensión condicional del proceso, sin perjuicio de las atribuciones correspondientes a la Dirección General; y
 
-III. Conocer y resolver sobre las peticiones e incidencias que se presenten respecto de las medidas cautelares durante el proceso y a la suspensión condicional de la sanción.
+III. Conocer y resolver sobre las peticiones e incidencias que se presenten respecto de las medidas cautelares y a la suspensión condicional del proceso.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 11.
 
-Sentencia en procedimiento abreviado o en procedimiento para inimputables Cuando el Juez de la causa dicte sentencia condenatoria en procedimiento abreviado o resolución en procedimiento especial para inimputables en donde se apliquen medidas de seguridad, el Juez de Ejecución correspondiente tendrá a su cargo la vigilancia de la ejecución de las penas o de las medidas de seguridad impuestas en la resolución.
+Sentencia en procedimiento abreviado.
 
-Si la sentencia en procedimiento abreviado resulta absolutoria o la que se dicte en el procedimiento para inimputables no aplica medida de seguridad alguna, el Juez de la causa remitirá su resolución a la Dirección, para que se dejen sin efecto las medidas cautelares o del internamiento provisional que se hubieran impuesto previamente.
+Cuando el Juez de Control dicte sentencia condenatoria en procedimiento abreviado, el Juez de Ejecución correspondiente tendrá a su cargo la vigilancia de la ejecución de las penas o de las medidas de seguridad impuestas en la resolución.
+
+Si la sentencia en procedimiento abreviado resulta absolutoria, el Juez de Control remitirá su resolución a la Dirección General, para que se dejen sin efecto las medidas cautelares o del internamiento provisional que se hubieran impuesto previamente.
 
 ### CAPÍTULO II. JUEZ DE EJECUCIÓN
 
@@ -227,13 +297,29 @@ I. Resolver lo relativo a la modificación y duración de las penas de prisión 
 
 II. Vigilar que la ejecución de toda sentencia penal o medida de seguridad se realice de conformidad con la sentencia definitiva que la impuso y dar por cumplidas las penas privativas de libertad impuestas a los sentenciados, cuando así resulte procedente;
 
-III. Recibir la documentación relativa de los expedientes cuya sentencia cause ejecutoria, que le sean remitidos por el Juez de la causa, conformando el correspondiente archivo, para los efectos que establece la presente Ley;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-IV. Ordenar la realización de dictámenes y allegarse de la información relativa al programa de reinserción aplicada al interno y aquélla que estimare necesaria para resolver sobre la procedencia o improcedencia de algún beneficio de libertad anticipada, quedando la autoridad penitenciaria obligada a proporcionar toda la información que se le requiera;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
-V. Resolver sobre el otorgamiento de los beneficios de libertad anticipada que establece la presente Ley, o su revocación en los casos que proceda, mediante el libramiento de la correspondiente orden de detención;
+III. Recibir la documentación relativa de los expedientes cuya sentencia cause ejecutoria, que le sean remitidos por el Juez de Contol (sic) o Tribunal de Enjuiciamiento, conformando el correspondiente archivo, para los efectos que establece la presente Ley;
 
-VI. Hacer saber a los internos que obtengan los beneficios o tratamiento que otorga la ley, sobre las obligaciones a su cargo, advirtiéndoles de las consecuencias de su incumplimiento;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+IV. Ordenar la realización de dictámenes y allegarse de la información relativa al programa de reinserción aplicada al sentenciado y aquélla que estimare necesaria para resolver sobre la procedencia o improcedencia de algún beneficio de libertad anticipada, quedando la autoridad penitenciaria y la Dirección General obligadas a proporcionar toda la información que se le requiera;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+V. Resolver en audiencia oral, sobre el otorgamiento de los beneficios de libertad anticipada que establece la presente Ley, o su revocación en los casos que proceda, mediante el libramiento de la correspondiente orden de detención, o sobre todas aquellas peticiones que por su naturaleza o importancia requieran debate o producción de prueba;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+VI. Hacer saber a los sentenciados que obtengan los beneficios o tratamiento que otorga la ley, sobre las obligaciones a su cargo, advirtiéndoles de las consecuencias de su incumplimiento;
 
 VII. Seguir los procedimientos respectivos de cualquier incidente que se presente en relación con algún procedimiento de libertad anticipada, en los términos que establece esta ley;
 
@@ -257,21 +343,35 @@ A las autoridades integrantes del Sistema Estatal Penitenciario, corresponde:
 
 A.- Al Coordinador General:
 
-I. En materia de medidas judiciales dictadas durante el proceso, ejecutar la medida judicial de prisión preventiva;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-II. Ejecutar las penas de prisión, sus modalidades y las resoluciones del Juez de Ejecución que de ellas deriven;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
-III. Vigilar y coordinar la ejecución de las penas y medidas de seguridad;
+I. En materia de medidas judiciales dictadas durante el proceso, ejecutar la medida cautelar de prisión preventiva;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+II. (DEROGADA, B.O. 14 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+III. (DEROGADA, B.O. 14 DE DICIEMBRE DE 2015)
 
 IV. Dirigir y ordenar la prevención social de la delincuencia en el Estado, proponiendo a las autoridades competentes las medidas que juzgue necesarias;
 
 V. Organizar, supervisar y administrar los establecimientos de reinserción social en el Estado;
 
-VI. Intercambiar, trasladar, custodiar, vigilar y brindar un programa tendiente a lograr la reinserción social de toda persona que fuere privada de su libertad por orden de los Tribunales del Estado o de la autoridad competente, a través de las áreas correspondientes, desde el momento de su ingreso a cualquier establecimiento penitenciario;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-VII. Proponer los reglamentos interiores de los establecimientos de reinserción social, con estricto apego al principio de no discriminación por género y vigilar su exacta aplicación y la celebración de convenios con sus homólogas de las entidades federativas o con la federación;
+VI. (DEROGADA, B.O. 14 DE DICIEMBRE DE 2015)
 
-VIII. Aplicar los programas adecuados a las personas internas, reglamentando su trabajo, sus actividades educativas, culturales, sociales, deportivas y otras, garantizando que estos tratamientos y reglamentos estén libres de estereotipos de género;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+VII. (DEROGADA, B.O. 14 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+VIII. (DEROGADA, B.O. 14 DE DICIEMBRE DE 2015)
 
 IX. Emitir el dictamen que contenga el resultado de la atención técnica interdisciplinaria;
 
@@ -287,9 +387,13 @@ XIV. Coordinar, operar y supervisar la reinserción social de los sentenciados i
 
 XV. Establecer los criterios para la profesionalización, capacitación, seguridad y eficiencia del personal a través de la Coordinación General;
 
-XVI. Dar seguimiento al sentenciado una vez que obtenga uno de los beneficios de libertad anticipada contemplados en la presente Ley;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XVII. Comunicar de manera oportuna al Juez de Ejecución el cumplimiento e incumplimiento de las obligaciones contraídas con motivo de los beneficios penitenciarios;
+XVI. (DEROGADA, B.O. 14 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+XVII. (DEROGADA, B.O. 14 DE DICIEMBRE DE 2015)
 
 XVIII. Imponer las correcciones disciplinarias a los internos que trasgredan la normatividad disciplinaria;
 
@@ -297,17 +401,29 @@ XIX. Llevar a través del área de informática el registro de todas las persona
 
 XX. Organizar conjuntamente con el Patronato para la Reincorporación Social del Estado, los patronatos municipales y regionales para el apoyo de los internos, preliberados y liberados de los Centros de Reinsersión (sic) Social así como supervisar sus actividades;
 
-XXI. Celebrar convenios con las instituciones encargadas de impartir la educación obligatoria para los adultos, de promover la capacitación para el trabajo, las actividades deportivas y culturales para una adecuada Reinsersión (sic) Social de los internos; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+XXI. Celebrar convenios con las instituciones encargadas de impartir la educación obligatoria para los adultos, de promover la capacitación para el trabajo, las actividades deportivas y culturales para una adecuada Reinserción Social de los sentenciados; y
 
 XXII. Las demás que esta, otras leyes y reglamentos establezcan;
 
 B. A los Directores de los Centros de Reinserción Social:
 
-I. En el ámbito de su competencia cumplir con la medida judicial de prisión preventiva y las penas de prisión que se dicten a los internos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+I. En el ámbito de su competencia cumplir con la medida cautelar de prisión preventiva y las penas de prisión que se dicten a los sentenciados;
 
 II. Tener a su cargo el Gobierno, y la administración del centro de reinserción social, contando para la buena marcha del mismo con el personal técnico, administrativo y de vigilancia necesario bajo su responsabilidad, cuidará la aplicación del Reglamento Interior y adoptará todas las medidas necesarias para el cumplimiento de esta Ley;
 
-III. Implementar los diversos programas Psicoterapéuticos, de trabajo, de capacitación para el mismo, educativos, culturales y deportivos establecidos por la Coordinación General para la adecuada de (sic) reinserción social de los internos;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+III. Implementar sobre la base de derechos humanos, los diversos programas Psicoterapéuticos, de trabajo, de capacitación para el mismo, educativos, culturales y deportivos establecidos por la Coordinación General para la adecuada de (sic) reinserción social de los internos;
 
 IV. Supervisar conjuntamente con el comandante de seguridad del Centro de Reinserción Social, las medidas de seguridad que aplique el personal de seguridad y custodia;
 
@@ -341,15 +457,99 @@ XI. Abstenerse, terminantemente, de insultar, desafiar, incitar a la violencia o
 
 XII. Revisar minuciosamente a las personas, vehículos u objetos que entren y salgan al penal, con la cortesía debida; y
 
-XIII. Las demás que esta, otras leyes y reglamentos establezcan; (sic)
+XIII. Las demás que esta, otras leyes y reglamentos establezcan;
 
-### CAPÍTULO IV. AUTORIDADES AUXILIARES
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO III BIS
+
+DE LA DIRECCIÓN GENERAL DE EJECUCIÓN DE PENAS, MEDIDAS DE SEGURIDAD, SUPERVISION DE MEDIDAS CAUTELARES, DE LA SUSPENSIÓN CONDICIONAL DEL PROCESO Y EVALUACION DE RIESGO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 14 Bis.
+
+Facultades de Dirección General de Ejecución de Penas, Medidas de Seguridad, Supervisión de Medidas Cautelares y de la Suspensión Condicional del Proceso.
+
+La Dirección General, dependiente de la Secretaría de Seguridad Pública, tiene las siguientes facultades;
+
+I. En materia de evaluación de riesgos que representa el imputado.
+
+a) Elaborar un análisis de evaluación de riesgo, de manera objetiva, imparcial y neutral, dentro de las cuarenta y ocho horas siguientes a la detención del imputado.
+
+II. En materia de medidas judiciales dictadas durante el proceso.
+
+a) Supervisar y dar seguimiento a las medidas cautelares impuestas, distintas a la prisión preventiva y las condiciones a cargo del imputado en caso de suspensión condicional del proceso, así como hacer sugerencias sobre cualquier cambio que amerite alguna modificación de las medidas u obligaciones impuestas;
+
+b) Entrevistar periódicamente a la víctima o testigo del delito, con el objeto de dar seguimiento al cumplimiento de la medida cautelar impuesta o las condiciones de la suspensión condicional del proceso y canalizarlos, en su caso, a la autoridad correspondiente;
+
+c) Realizar entrevistas así como visitas no anunciadas en el domicilio o en el lugar en donde se encuentre el imputado;
+
+d) Verificar la localización del imputado en su domicilio o en el lugar en donde se encuentre, cuando la modalidad de la medida cautelar o de la suspensión condicional del proceso impuesta por la autoridad judicial así lo requiera;
+
+e) Requerir que el imputado proporcione muestras, sin previo aviso, para detectar el posible uso de alcohol o drogas prohibidas o el resultado del examen de las mismas en su caso, cuando la modalidad de la suspensión condicional del proceso impuesta por la autoridad judicial así lo requiera;
+
+f) Supervisar que las personas e instituciones públicas y privadas a las que la autoridad judicial encargue el cuidado del imputado, cumplan las obligaciones contraídas;
+
+g) Solicitar al imputado la información que sea necesaria para verificar el cumplimiento de las medidas y obligaciones impuestas;
+
+h) Revisar y sugerir el cambio de las condiciones de las medidas impuestas al imputado, de oficio o a solicitud de parte, cuando cambien las circunstancias originales que sirvieron de base para imponer la medida;
+
+i) Informar a las partes aquellas violaciones a las medidas y obligaciones impuestas que estén debidamente verificadas y puedan implicar la modificación o revocación de la medida o suspensión y sugerir las modificaciones que estime pertinentes;
+
+j) Conservar actualizada una base de datos sobre las medidas cautelares y obligaciones impuestas, su seguimiento y conclusión;
+
+k) Solicitar y proporcionar información a las oficinas con funciones similares de la Federación o de Entidades federativas dentro de sus respectivos ámbitos de competencia;
+
+l) Ejecutar las solicitudes de apoyo para la obtención de información que le requieran las oficinas con funciones similares de la Federación o de las Entidades federativas en sus respectivos ámbitos de competencia;
+
+m) Canalizar al imputado a servicios sociales de asistencia, públicos o privados, en materias de salud, empleo, educación, vivienda y apoyo jurídico, cuando la modalidad de la medida cautelar o de la suspensión condicional del proceso impuesta por la autoridad judicial así lo requiera.
+
+III. En materia de penas y medidas de seguridad.
+
+a) Ejecutar las penas de prisión y de relegación, sus modalidades y las resoluciones del Juez de Ejecución de Penas que de ella deriven;
+
+b) Vigilar y coordinar la ejecución de las penas y medidas de seguridad previstas en el Código Penal del Estado de Durango en concordancia con el Código Nacional de Procedimientos Penales y demás leyes aplicables.
+
+IV. Dentro del Sistema:
+
+a) Prevenir la delincuencia en el Estado, proponiendo a las autoridades competentes las medidas que juzgue necesarias;
+
+b) Supervisar los establecimientos penitenciarios en el Estado; proponer al Secretario la normatividad y demás lineamientos de orden interno por las que habrán de regirse, así como vigilar su estricto cumplimiento;
+
+c) Intercambiar, trasladar, custodiar, vigilar y brindar tratamiento a toda persona que fuere privada de su libertad por orden de los Tribunales del Estado o de la autoridad competente, desde el momento de su ingreso a cualquier establecimiento;
+
+d) Proponer los reglamentos interiores de los centros de reinserción, con estricto apego al principio de no discriminación por género y vigilar su exacta aplicación;
+
+e) Aplicar los tratamientos adecuados a las personas internas, reglamentando su trabajo, sus actividades culturales, sociales, deportivas y otras, garantizando que estos tratamientos y reglamentos estén libre (sic) de estereotipos de género;
+
+f) Resolver sobre las modificaciones no esenciales a las medidas impuestas, tomando en cuenta la edad, sexo, salud o constitución física de las personas sujetas a proceso penal;
+
+g) Organizar patronatos para personas liberadas;
+
+h) Coadyuvar en el mantenimiento de la estadística criminal del Estado;
+
+i) Conocer de las quejas de los internos sobre el trato de que sean objeto, y hacerla del conocimiento de la autoridad que corresponda;
+
+j) Determinar los lugares en que deben estar recluidos los sordomudos y enfermos mentales aplicarles el tratamiento que se estime adecuado;
+
+k) Por acuerdo del Secretario, asistir a las reuniones de la Conferencia Nacional del Sistema Penitenciario; y
+
+l) Las demás que otras leyes y reglamentos establezcan.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 15.
 
 Cumplimiento de las facultades.
 
-Con el objeto de cumplir con las facultades antes señaladas, la Coordinación General podrá:
+Con el objeto de cumplir con las facultades antes señaladas, la Dirección General podrá:
 
 I. Hacer comparecer a los imputados y sentenciados con fines de notificación, información, registro y control de las medidas judiciales decretadas así como acudir a los domicilios proporcionados por éstos con el objeto de constatar la información proporcionada;
 
@@ -357,7 +557,7 @@ II. Requerir la información y documentación a las autoridades auxiliares e int
 
 III. Implementar, en coordinación con las autoridades auxiliares, programas y protocolos orientados a la eficacia y cumplimiento de las medidas judiciales a su cargo.
 
-### CAPÍTULO I. DEL PROCEDIMIENTO ANTE EL JUEZ DE EJECUCIÓN
+### CAPÍTULO IV. AUTORIDADES AUXILIARES
 
 ###### Artículo 16.
 
@@ -367,11 +567,23 @@ Corresponde a las Autoridades Auxiliares señaladas en este Capítulo:
 
 I. Ejecutar las medidas judiciales en la forma y términos previstos por la Ley, y de acuerdo a la naturaleza y modalidades específicas de las mismas;
 
-II. Establecer conjuntamente con la Coordinación General programas y protocolos orientados a la eficacia y cumplimiento de las medidas judiciales a su cargo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-III. Opinar sobre la conveniencia de mantener, revisar, sustituir, modificar o cancelar la medida vigilada; y
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
-IV. Informar a la Coordinación General sobre el cumplimiento, incumplimiento o cualquier irregularidad detectada.
+II. Establecer conjuntamente con la Dirección General programas y protocolos orientados a la eficacia y cumplimiento de las medidas judiciales a su cargo;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+III. Determinar en base a un dictamen técnico debidamente justificado la conveniencia de mantener, revisar, sustituir, modificar o cancelar la medida vigilada; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+IV. Informar a la Dirección General sobre el cumplimiento, incumplimiento o cualquier irregularidad detectada.
 
 ###### Artículo 17.
 
@@ -384,6 +596,26 @@ I. Durante la fase de cumplimiento de sentencia firme, de las penas de:
 a) Sanción pecuniaria; y
 
 b) Intervención a la administración de personas morales privadas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 17 Bis.
+
+Secretaría de Gobierno.
+
+Corresponde a la Secretaría de Gobierno, el auxilio en la ejecución durante el procedimiento, de las medidas cautelares o condiciones de:
+
+a) Garantía económica, tratándose de prendas e hipotecas;
+
+b) Prohibición de salir del país;
+
+c) Aprender una profesión u oficio o seguir cursos de capacitación en el lugar o institución que determine el juez;
+
+d) Tener un trabajo o empleo, o adquirir un oficio, arte o profesión; y
+
+e) Abstención de viajar al extranjero.
 
 ###### Artículo 18.
 
@@ -419,75 +651,157 @@ b) Prohibición de ir a un lugar determinado o residir en él; y
 
 c) Vigilancia de la autoridad.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 19.
 
-Secretaría de Salud.
+Secretaría de Salud Pública.
 
-Corresponde a la Secretaría de Salud, el auxilio en la ejecución:
+I. Durante el procedimiento, de las medidas cautelares o condiciones de:
+
+a) Sometimiento al cuidado o vigilancia que determine el juez, para recibir tratamiento especializado vinculado a la problemática que presenta el imputado y los encargados informarán regularmente al juez la evolución y resultados obtenidos del tratamiento;
+
+b) Internamiento en centro de salud u hospital psiquiátrico;
+
+c) Abstenerse de consumir drogas o estupefacientes o de abusar de las bebidas alcohólicas;
+
+d) Participar en programas especiales para la prevención y tratamiento de adicciones;
+
+e) Prestar servicio social a favor del Estado o de instituciones de beneficencia pública; y
+
+f) Someterse a tratamiento médico o psicológico.
+
+II. Durante la fase de cumplimiento de la sentencia firme, el auxilio en la ejecución:
 
 a) De la reclusión de personas que sufran un proceso psicopatológico permanente o transitorio que la hagan inimputable; y
 
-b) Del tratamiento para quienes tengan el habito o la necesidad de consumir bebidas alcohólicas u otras substancias que causen adicción.
+b) Del tratamiento para quienes tengan el hábito o la necesidad de consumir bebidas alcohólicas u otras substancias que causen adicción.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 19 Bis.
+
+Secretaría de Educación y Cultura.
+
+Corresponde a la Secretaría de Educación y Cultura, durante el procedimiento, el auxilio en la ejecución de las condiciones de aprender una profesión u oficio o seguir cursos de capacitación en el lugar o Institución que determine el juez.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Artículo 19 Bis A. Secretaría del Trabajo.
+
+Corresponde a la Secretaría del Trabajo, durante el procedimiento, coadyuvar para la capacitación y obtención de un trabajo, empleo, arte, oficio o profesión.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Artículo 19 Bis B. Secretaría de Desarrollo Social.
+
+Corresponde a la Secretaría de Desarrollo Social, auxiliar durante el procedimiento, para la programación en los lugares y horarios de la actividad a desarrollar consistente en jornadas de trabajo a favor de la comunidad para el pago de la multa.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 20.
 
 Municipios.
 
-Corresponde a los Ayuntamientos auxiliar a la Coordinación General en la ejecución de las medidas cautelares o condiciones, impuestas y durante la fase de tratamiento, cuando se trate de imputado que residan en el lugar donde ejerzan su autoridad y la Dirección no tenga representación administrativa en el mismo Municipio.
+Corresponde a los Ayuntamientos auxiliar a la Dirección General en la ejecución de las medidas cautelares o condiciones, impuestas y durante la fase de tratamiento, cuando se trate de imputado (sic) que residan en el lugar donde ejerzan su autoridad y la Dirección General no tenga representación administrativa en el mismo Municipio.
 
 ## TÍTULO TERCERO. DEL PROCEDIMIENTO
 
-### CAPÍTULO II. RECURSO DE APELACIÓN
+### CAPÍTULO I. DEL PROCEDIMIENTO ANTE EL JUEZ DE EJECUCIÓN
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 21.
 
 Ejecución de las penas y medidas de seguridad.
 
-El Juez de la causa remitirá al Juez de Ejecución que corresponda y a la Dirección, copia certificada de la sentencia condenatoria en la que imponga pena privativa de libertad que sea susceptible de ejecución o medidas de seguridad, así como de la actuación o actuaciones que contengan los datos de identificación del sentenciado y la diligencia de amonestación respectiva, dentro de los tres días siguientes a esta última. Asimismo, le informará si el sentenciado está o no privado de la libertad, indicándole, en su caso, el Centro donde se encuentre recluido. También remitirá al Juez de Ejecución, copia certificada de la actuación o actuaciones que permitan establecer el tiempo de reclusión del sentenciado, según conste en el proceso de que se trate.
+El Juez de Control remitirá al Juez de Ejecución que corresponda y a la Dirección General, copia certificada de la sentencia condenatoria en la que imponga pena privativa de libertad que sea susceptible de ejecución o medidas de seguridad, así como de la actuación o actuaciones que contengan los datos de identificación del sentenciado y la diligencia de amonestación respectiva, dentro de los tres días siguientes a esta última. Asimismo, le informará si el sentenciado está o no privado de la libertad, indicándole, en su caso, el Centro donde se encuentre recluido. También remitirá al Juez de Ejecución, copia certificada de la actuación o actuaciones que permitan establecer el tiempo de reclusión del sentenciado, según conste en el proceso de que se trate.
 
 En los casos en que el sentenciado no se encuentre recluido, el Juez o tribunal que haya ordenado la aprehensión, una vez que se le aprehenda para cumplir la condena, informará al Juez de Ejecución, remitiéndole copia certificada de las constancias respectivas.
 
 El sentenciado quedará a disposición de las autoridades penitenciarias, para el cumplimiento de la pena de prisión respectiva. El Juez de Ejecución ejercerá las atribuciones establecidas en el artículo 13 de la presente Ley.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 22.
 
 Procedimiento Inicial.
 
-El procedimiento para la concesión de beneficios se iniciará ante el Juez de Ejecución que corresponda, a petición del sentenciado, de su defensor o de la Coordinación General, cuando se haya cumplido el tiempo mínimo para su otorgamiento. En caso de que el sentenciado presente la solicitud ante la Coordinación General, ésta la remitirá dentro de los tres días siguientes al Juez de Ejecución y dentro de los veinte días a partir de la propia presentación de la solicitud, remitirá al juez la documentación correspondiente.
+El procedimiento para la concesión de beneficios se iniciará ante el Juez de Ejecución que corresponda, a petición del sentenciado, de su defensor o de la Dirección General, cuando se haya cumplido el tiempo mínimo para su otorgamiento. En caso de que el sentenciado presente la solicitud ante la Dirección General, ésta la remitirá dentro de los tres días siguientes al Juez de Ejecución y dentro de los veinte días a partir de la propia presentación de la solicitud, remitirá al juez la documentación correspondiente.
 
-Cuando la Coordinación General solicite la iniciación del procedimiento para la concesión de beneficios, remitirá al juez la documentación correspondiente al sentenciado, relativa al cumplimiento de los requisitos del beneficio.
+Cuando la Dirección General solicite la iniciación del procedimiento para la concesión de beneficios, remitirá al juez la documentación correspondiente al sentenciado, relativa al cumplimiento de los requisitos del beneficio.
 
-Cuando la Coordinación General considere que el sentenciado de que se trate no ha cumplido el tiempo mínimo para un beneficio de libertad se lo hará saber al juez, remitiéndole copia certificada de la sentencia o sentencias que esté compurgando.
+Cuando la Dirección General considere que el sentenciado de que se trate no ha cumplido el tiempo mínimo para un beneficio de libertad se lo hará saber al juez, remitiéndole copia certificada de la sentencia o sentencias que esté compurgando.
 
-Cuando el sentenciado o el defensor hagan la solicitud directamente ante el Juez, éste pedirá a la Coordinación General que remita la documentación mencionada, dentro de los veinte días siguientes.
+Cuando el sentenciado o el defensor hagan la solicitud directamente ante el Juez, éste pedirá a la Dirección General que remita la documentación mencionada, dentro de los veinte días siguientes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 23.
 
 Recepción de causas Ejecutoriadas.
 
-El Juez de Ejecución, de oficio o a petición de la víctima, podrá solicitar al Juez de la Causa que le informe y, en su caso, le remita actuaciones relativas al cumplimiento de la reparación del daño.
+El Juez de Ejecución, de oficio o a petición de la víctima, podrá solicitar al Juez de la (sic) Control que le informe y, en su caso, le remita actuaciones relativas al cumplimiento de la reparación del daño.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 24.
 
 Casos de Procedencia.
 
-Cuando se trate de sanción privativa de libertad, de ocho o más años de prisión, impuesta a un sentenciado por un delito determinado, el Juez de Ejecución notificará mediante oficio la solicitud del beneficio de libertad, al Procurador General de Justicia del Estado, al Secretario de Seguridad Pública y al Coordinador. En estos casos, se actuará colegiadamente por tres Jueces de Ejecución, conforme a las reglas de integración para que actúen colegiadamente y distribución de los asuntos, que determine el Pleno del Supremo Tribunal de Justicia o, en su caso, el Consejo del Poder Judicial del Estado, mediante acuerdos generales que se publiquen en el Boletín Oficial del Gobierno del Estado de Sonora. Los Jueces de Ejecución actuarán colegiadamente al tramitar el procedimiento y emitir la resolución que corresponda.
+Cuando se trate de sanción privativa de libertad, de ocho o más años de prisión, impuesta a un sentenciado por un delito determinado, el Juez de Ejecución notificará mediante oficio la solicitud del beneficio de libertad, al Procurador General de Justicia del Estado, al Secretario de Seguridad Pública y a la Dirección General. En estos casos, se actuará colegiadamente por tres Jueces de Ejecución, conforme a las reglas de integración para que actúen colegiadamente y distribución de los asuntos, que determine el Pleno del Supremo Tribunal de Justicia o, en su caso, el Consejo del Poder Judicial del Estado, mediante acuerdos generales que se publiquen en el Boletín Oficial del Gobierno del Estado de Sonora. Los Jueces de Ejecución actuarán colegiadamente al tramitar el procedimiento y emitir la resolución que corresponda.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 25.
 
 Audiencia ante el Juez de Ejecución.
 
-Recibida la documentación relativa a los requisitos que establece la Ley para el otorgamiento del beneficio de que se trate, se integrará al expediente y el Juez de Ejecución dará vista al Ministerio Público adscrito, al sentenciado y su defensor, para que dentro del término de cinco días manifiesten lo que a su interés convenga y, en su caso, ofrezcan pruebas que consideren necesarias y sean pertinentes. Transcurrido el término anterior, si no se hubieren ofrecido pruebas, el Juez emitirá resolución en un plazo que no excederá de diez días, concediendo o negando el beneficio. Si se ofrecieran pruebas, el Juez resolverá sobre su admisión, proveyendo, en su caso, al desahogo correspondiente.
+El Juez de Ejecución para llevar a cabo la audiencia a que se refiere la fracción V del artículo 13, se sujetará a los principios que rigen la audiencia de juicio y a las siguientes reglas:
 
-Contra el acuerdo de no admisión de pruebas, procederá el recurso de revocación, el cual se tramitará de acuerdo a las reglas relativas del Código de Procedimientos Penales.
+I. Notificará previamente a los intervinientes, entre ellos a la víctima u ofendido, al menos con siete días de anticipación a la celebración de la audiencia. Es imprescindible la presencia del Agente del Ministerio Público, el o los funcionarios de la Dirección General que sean designados para tal efecto, el sentenciado y su defensor. La presencia de la víctima u ofendido no será requisito de validez para la celebración de la audiencia, cuando por cualquier circunstancia no pudiere comparecer, o no sea su deseo hacerlo y quede constancia de ello;
 
-El Juez, en todo momento podrá ordenar a la Coordinación General, o la Dirección Centro, a peritos o a las instituciones que correspondan, la práctica ó ampliación de informes, dictámenes o estudios, para emitir la resolución correspondiente. En relación con la víctima, el Juez tendrá la facultad de cerciorarse por los medios que estime pertinentes, que se ha cumplido la reparación del daño.
+II. Si se requiere producción de prueba con el fin de sustentar la revisión, sustitución, modificación, revocación o cese de la pena o medida de seguridad impuesta, la parte oferente deberá anunciarla con tres días de anticipación para los efectos de dar oportunidad a su contraria, para que tenga conocimiento de la misma y esté en aptitud de ofrecer prueba de su parte. La rendición de la prueba se llevará a cabo conforme a los requisitos establecidos para su desahogo en la etapa de juicio.
+
+III. El Juez de Ejecución dirigirá el debate y ejercerá el poder de disciplina en la audiencia, previstas en los artículos 354 y 355 del Código Nacional.
+
+IV. La resoluciones deberán emitirse inmediatamente después de concluido el debate.
+
+Excepcionalmente, en casos de extrema complejidad, el Juez podrá retirarse a deliberar su fallo en la forma establecida en el artículo 400 del Código Nacional.
+
+V. Valorará los medios de prueba rendidos en la audiencia, conforme a las reglas generales establecidas para las audiencias de juicio; y
+
+VI. De la resolución pronunciada en la audiencia a que se refieren las fracciones anteriores, deberá entregarse copia certificada a la Dirección General y a la Procuraduría General de Justicia del Estado, para su conocimiento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 26.
 
 Apertura de la Audiencia.
 
-Si se admitiere prueba que requiera ulterior desahogo, se llevará a cabo en audiencia para la cual serán citados con cuando menos tres días de anticipación, el sentenciado, su defensor, el ministerio público y el Coordinador para que comparezca por sí o por persona autorizada. La audiencia se desarrollará conforme a lo siguiente:
+La audiencia se llevará a cabo por la autoridad ejecutora, conforme a las siguientes disposiciones:
 
 I. Se aplicarán los principios de inmediación, contradicción, concentración, publicidad y continuidad;
 
@@ -497,7 +811,19 @@ III. El juez de ejecución verificará las condiciones para que se rinda en su c
 
 IV. El juez de ejecución declarará iniciada la audiencia y a continuación identificará a los intervinientes; dará una breve explicación de los motivos de la audiencia y una lectura resumida del auto en el que acordó la celebración de la audiencia;
 
-V. Posteriormente, el juez de ejecución procederá al desahogo de las pruebas. En todo caso, al finalizar el desahogo de cada prueba, se dará el uso de la voz, si lo solicitan, al sentenciado y al defensor;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+V. Procederá a dar el uso de la palabra a los intervinientes de la siguiente manera:
+
+a) En primer lugar al oferente de la petición o solicitud respectiva; si es el defensor, enseguida se dará el uso de la palabra al sentenciado;
+
+b) Luego al Agente del Ministerio Público y al funcionario de la Dirección;
+
+c) Si se encuentra presente en la audiencia, a la víctima u ofendido; y
+
+d) Quedará a su arbitrio la concesión del derecho de réplica y dúplica, cuando el debate así lo requiera; y
 
 VI. Al arbitrio del Juez de Ejecución Penal, quedará la concesión del derecho de réplica y dúplica, cuando el debate así lo requiera, así como de expresar cada parte los alegatos que estime pertinentes;
 
@@ -507,121 +833,371 @@ VIII. Cuando deban declarar testigos y peritos que, por algún motivo grave y di
 
 También podrán comparecer los sentenciados a través de videoconferencia o de cualquier otro medio tecnológico adecuado para garantizar la autenticidad del acto, que sean autorizados por el juez de ejecución, cuando aquéllos se encuentren recluidos en un centro diverso al de la residencia del juzgado en que deba celebrarse la audiencia.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### Artículo 27.
 
-Facultades de dirección de debate y de disciplina del Juez de Ejecución en la audiencia del Juez Ejecutor:
+(DEROGADO, B.O. 14 DE DICIEMBRE DE 2015)
 
-Dirigirá el debate, ordenará y autorizará las lecturas pertinentes, hará las advertencias que correspondan, tomará las protestas legales, moderará la discusión e impedirá intervenciones impertinentes.
-
-El Juez tendrá el poder de disciplina en la audiencia; cuidará que se mantenga el buen orden y exigirá que se les guarde tanto al tribunal como a los asistentes, el respeto y consideraciones debidas, corrigiendo en el acto las faltas que se cometan, para lo cual podrá aplicar una o varias de las siguientes medidas, atendiendo a la gravedad de la falta:
-
-I. Apercibimiento;
-
-II. Expulsión de la sala de audiencia;
-
-III. Desalojo del público asistente de la sala de audiencia;
-
-IV. Multa de uno hasta cien días de salario mínimo vigente en el Estado; y
-
-V. Arresto hasta por treinta y seis horas.
-
-Si el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día. Tratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso.
-
-Si el infractor fuere el Ministerio Público, el acusado, su defensor, la víctima u ofendido o el acusador coadyuvante y sea necesario expulsarlos de la sala de audiencia, se aplicarán las reglas conducentes para el caso de su ausencia.
-
-En caso de que, a pesar de las medidas adoptadas, no pueda restablecerse el orden, quien presida la audiencia la suspenderá hasta en tanto se encuentren reunidas las condiciones que permitan continuar con su curso normal, a juicio del Juez de Ejecución.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 28.
 
-Conclusión de la audiencia.
+(DEROGADO, B.O. 14 DE DICIEMBRE DE 2015)
 
-El juez concluirá la audiencia, declarando cerrado el debate y podrá dictar en la misma o dentro de los diez días siguientes, la resolución que corresponda.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 29.
 
 Resolución.
 
-En todo procedimiento que resuelva si se otorga o no el beneficio de libertad, el juez valorará de manera libre y lógica los informes, dictámenes o estudios y demás elementos de prueba allegados al expediente, emitiendo la resolución fundada y motivada.
+Para emitir sus resoluciones, los jueces de ejecución de penas se ajustarán a las normas procesales siguientes:
 
-### CAPÍTULO III. DE LOS INCIDENTES
+I. Tratándose de pena o medida de seguridad impuesta por sentencia que haya causado ejecutoria, al recibir copia certificada de ésta, dará inicio al procedimiento de ejecución penal, realizando la notificación a la autoridad administrativa correspondiente, al sentenciado, a su defensor y al Ministerio Público; y
+
+II. Las notificaciones y los actos procesales relativos a los medios de prueba, en el procedimiento de ejecución penal, se ajustará a las directrices generales que se contienen en el Código Nacional.
+
+### CAPÍTULO II. RECURSO DE APELACIÓN
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 30.
 
-Objeto.
+De los recursos.
 
-La apelación tiene por objeto revisar la legalidad de la resolución recurrida, o si se violaron los principios de valoración de la prueba o se alteraron los hechos.
+Las resoluciones emitidas por los jueces de ejecución respecto a la situación jurídica de los sentenciados, serán impugnadas, mediante el recurso de apelación en los términos del Código Nacional.
+
+Las resoluciones que deriven del reconocimiento de inocencia o anulación de sentencia en términos del Código Nacional serán comunicadas por la propia Sala a la autoridad administrativa correspondiente para su ejecución inmediata. Dicha resolución también se comunicará al Juez de Ejecución, al defensor del sentenciado y al Ministerio Público.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 31.
 
-Facultados para interponer el recurso.
+(DEROGADO, B.O. 14 DE DICIEMBRE DE 2015)
 
-El derecho de apelar, corresponde al Ministerio público, al sentenciado y a su defensor.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 32.
 
-Suplencia de agravios.
+(DEROGADO, B.O. 14 DE DICIEMBRE DE 2015)
 
-Se considerará improcedente la apelación cuando no se exprese el agravio o lesión que causa el acto impugnado y los motivos que originan dicho agravio. Podrá suplirse la falta o deficiencia de agravios a favor del sentenciado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 33.
 
-Procedencia.
+(DEROGADO, B.O. 14 DE DICIEMBRE DE 2015)
 
-El recurso de apelación es procedente contra la resolución que conceda o niegue un beneficio de libertad anticipada, cuando la pena o penas impuestas al sentenciado sumen ocho o más años de prisión, ya sea que provengan de uno o más procesos penales. Los autos y resoluciones incidentales que se emitan por el Juez de Ejecución, sólo podrán ser impugnados mediante el recurso de revocación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 34.
 
-Trámite del recurso.
+(DEROGADO, B.O. 14 DE DICIEMBRE DE 2015)
 
-Para los efectos de la interposición, radicación, tramitación y resolución, serán aplicables las reglas relativas al recurso de apelación contenido en el Código de Procedimientos Penales, con excepción del término para su interposición, que será de cinco días.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-### CAPÍTULO ÚNICO. PRISIÓN PREVENTIVA
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO III
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 35.
 
-Causales de procedencia.
-
-Las cuestiones que no tengan procedimiento especial, se tramitarán conforme a las reglas establecidas para los incidentes no especificados, en el Código de Procedimientos Penales, aplicándose los principios de publicidad, contradicción, concentración, continuidad e inmediación.
+(DEROGADO, B.O. 14 DE DICIEMBRE DE 2015)
 
 ## TÍTULO CUARTO. EJECUCIÓN DE MEDIDAS JUDICIALES DURANTE EL PROCEDIMIENTO PENAL
 
-### CAPÍTULO I. PENAS PRIVATIVAS DE LIBERTAD
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-#### SECCIÓN PRIMERA. PENA DE PRISIÓN
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
-#### SECCIÓN SEGUNDA. MODALIDADES A LA PENA DE PRISIÓN Y TRATAMIENTO EN SEMILIBERTAD
+### CAPÍTULO I. EJECUCIÓN DE LAS MEDIDAS CAUTELARES PERSONALES
 
-#### SECCIÓN TERCERA. OTRAS MODALIDADES DE INTERNAMIENTO
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
-#### SECCIÓN SEGUNDA. DEL TRATAMIENTO PRELIBERACIONAL
+#### SECCIÓN PRIMERA. PRESENTACIÓN DE GARANTÍA ECONÓMICA
 
-#### SECCIÓN TERCERA. DE LA LIBERTAD PREPARATORIA
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-#### SECCIÓN CUARTA. DE LA REMISIÓN PARCIAL DE LA PENA
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
-#### SECCIÓN QUINTA. REGLAS COMUNES PARA LA CONCESIÓN DE LIBERTAD ANTICIPADA
+###### Artículo 35 Bis.
 
-#### SECCIÓN PRIMERA. CUMPLIMIENTO DE SENTENCIA
+Depósito de dinero.
 
-#### SECCIÓN SEGUNDA. REHABILITACIÓN
+Cuando durante el procedimiento el Juez de Control haya impuesto la medida cautelar de garantía económica consistente en depósito de dinero, el imputado u otra persona, constituirán el depósito del monto fijado en las oficinas del Fondo Auxiliar para la Administración de Justicia del Supremo Tribunal de Justicia del Estado.
 
-#### SECCIÓN TERCERA. TRABAJO EN FAVOR DE LA COMUNIDAD
+El certificado de depósito se presentará dentro del plazo fijado por la autoridad judicial, y quedará bajo la custodia del administrador de la oficina correspondiente, asentándose constancia de ello. Cuando por razón de la hora o por ser día feriado no pueda verificarse el depósito directamente en la oficina mencionada, el juzgado recibirá la cantidad exhibida y la mandará depositar el primer día hábil siguiente.
 
-#### SECCIÓN PRIMERA. VIGILANCIA DE LA AUTORIDAD
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Artículo 35 Bis A. Garantía hipotecaria.
+
+Cuando la medida cautelar de garantía económica consista en hipoteca, que podrá ser otorgada por el imputado o por tercera persona, el inmueble no deberá tener gravamen alguno y su valor comercial determinado por institución autorizada, será cuando menos dos tantos del monto fijado. En este caso, la garantía hipotecaria se otorgará ante el propio Juez que conoce el proceso y surtirá sus efectos una vez que se haya inscrito en el Registro Público de la Propiedad, donde se le dará preferencia a este asiento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Artículo 35 Bis B. Garantía prendaria.
+
+La garantía prendaria también podrá otorgarse ante el propio Juez de Control que conozca del proceso y, en lo conducente, serán aplicables las reglas a que alude el artículo anterior, salvo el caso del valor de la prenda, que será de dos tantos más, cuando menos, del monto fijado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Artículo 35 Bis C. Póliza de fianza personal.
+
+Es admisible la póliza de fianza personal cuando el monto de la garantía económica no exceda del equivalente a cien días del salario mínimo. Salvo que se trate de empresas dedicadas a otorgar fianzas, el fiador deberá responder las preguntas que le haga el Juez de Control sobre su solvencia económica. El valor de la póliza será, al menos, de dos tantos del monto fijado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Artículo 35 Bis D. Depósito de valores.
+
+Cuando la garantía económica fijada como medida cautelar consista en el depósito de valores distintos al dinero, dichos bienes serán recibidos e inventariados por el Juez de Control y puestos bajo custodia del administrador general del Tribunal de Enjuiciamiento.
+
+El valor de los bienes deberá corresponder, cuando menos, a dos tantos más del monto fijado, y se constatará con un avalúo practicado por quienes estén autorizados para hacerlo, de conformidad con la legislación respectiva.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Artículo 35 Bis E. Regla general para la garantía económica.
+
+Al formalizarse la garantía económica se hará saber a quién funja como garante que queda sujeto al procedimiento administrativo de ejecución previsto en el Código Fiscal del Estado. También se le informará del contenido de los artículos 174 y 175 del Código Nacional.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN SEGUNDA. PROHIBICIÓN DE SALIR DEL PAÍS, DE LA LOCALIDAD EN LA CUAL RESIDE O DEL ÁMBITO TERRITORIAL
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Artículo 35 Bis F. Prohibición de salir del país.
+
+Cuando se determine la medida cautelar de prohibición de salir del país, se requerirá la entrega del pasaporte y demás documentos que permitan la salida del territorio nacional, remitiendo constancia de la resolución a la Secretaría de Gobierno para que, de conformidad con sus atribuciones, dé aviso a las autoridades en materia de relaciones exteriores y a las consulares de otros países para hacer efectiva la medida.
+
+El aviso a las autoridades señaladas también se realizará en caso de sustitución, modificación o cancelación de la medida.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Artículo 35 Bis G. Prohibición de salir de la localidad o del ámbito territorial.
+
+Si la medida cautelar consiste en la prohibición de salir de la localidad de residencia del imputado o de la circunscripción territorial del Estado, se comunicará el proveído a la Secretaría de Seguridad Pública y prevendrá al imputado para que se presente ante dicha autoridad, con la periodicidad que el propio juez establezca al fijar la medida.
+
+Durante la ejecución de esta medida, el imputado deberá comunicar a la Secretaría su cambio de domicilio y cualquier otra circunstancia que permita su localización.
+
+En caso de incumplimiento, la Secretaría dará aviso oportuno para los efectos procesales a que haya lugar.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN TERCERA. OBLIGACIÓN DE SOMETERSE AL CUIDADO O VIGILANCIA DE UNA PERSONA, INSTITUCIÓN PÚBLICA, PRIVADA O DE ASISTENCIA SOCIAL
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Artículo 35 Bis H. Ejecución de la medida.
+
+Cuando durante el procedimiento penal se determine la medida cautelar de someterse al cuidado o vigilancia de una persona, institución pública, privada o de asistencia social determinada por el juez, o dicha particularidad se imponga como condición en la suspensión condicional del proceso, se señalará, a quien resulte responsable de la ejecución, las modalidades con que la medida o condición se habrá de cumplir, así como la periodicidad con la que deberá informar.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN CUARTA. OBLIGACIÓN DE PRESENTARSE PERIODICAMENTE ANTE EL JUEZ U OTRA AUTORIDAD
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Artículo 35 Bis I. Presentación ante el juez.
+
+Al dictarse la medida cautelar de presentación periódica ante el Juez de Control, el sometido a la medida concurrirá ante el administrador de oficina que corresponda, con la periodicidad que la autoridad judicial haya determinado, a efecto de informar sobre sus actividades.
+
+La presentación a que se refiere el párrafo anterior se hará sin perjuicio de que el imputado pueda ser requerido en cualquier momento por el juzgador.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Artículo 35 Bis J. Presentación ante otra autoridad.
+
+Si corresponde aplicar la medida cautelar de presentación periódica ante otra autoridad, el sometido a la medida concurrirá ante la Dirección General, con la periodicidad que se haya determinado, a efecto de informar sobre sus actividades.
+
+La presentación a que se refiere el párrafo anterior se hará sin perjuicio de que el imputado pueda ser requerido en cualquier momento por el juzgador.
+
+Al dictarse la medida, el juez dará aviso inmediato a la mencionada Dirección General, a efecto de estar en posibilidades de ejecutarla. Cuando la medida deba ejecutarse en algún distrito judicial donde la Dirección General no tenga representación administrativa, dicha dependencia coordinará y vigilará su ejecución, por conducto de las autoridades municipales con las que tenga celebrados convenios de colaboración, llevando un registro permanente sobre el cumplimiento de la medida en aquellas instancias.
+
+En cualquier caso, la Dirección General informará oportunamente al Juez de Control sobre el cumplimiento de la medida.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN QUINTA. LOCALIZADORES ELECTRÓNICOS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Artículo 35 Bis K. Sistema de monitoreo electrónico.
+
+Al dictarse la medida cautelar de fijación de localizadores electrónicos al imputado, la resolución del Juez de Control se comunicará directamente a la Dirección General, a efecto de que dicha autoridad la ejecute.
+
+La ejecución de la medida estará sujeta a la normatividad reglamentaria sobre el programa de monitoreo electrónico a distancia.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN SEXTA. ARRESTO DOMICILIARIO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Artículo 35 Bis L. Arresto sin vigilancia.
+
+Cuando se decrete el arresto sin vigilancia, el imputado informará al Juez de Control el domicilio en el que la medida habrá de cumplirse, sea en su propio domicilio o en el de otra persona. Previo a su resolución, el Juez de Control pedirá el auxilio de la Secretaría de Seguridad Pública o de otros cuerpos de seguridad pública en el Estado, a efecto de verificar la existencia del lugar.
+
+Si el domicilio proporcionado no existe, o el juez no lo considera conveniente, éste determinará el lugar en que el arresto se cumplirá.
+
+Verificado lo anterior, el Juez de Control comunicará en su resolución el tiempo por el que habrá de desarrollarse la medida y, en su caso, las condiciones particulares de su cumplimiento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Artículo 35 Bis M. Arresto con modalidades.
+
+Si se decreta la medida cautelar de arresto con modalidades, además de cumplir con lo dispuesto en el artículo anterior, el Juez de Control determinará en su resolución las modalidades que acompañen al cumplimiento de dicha medida, las cuales no podrán desvirtuar la naturaleza de la misma.
+
+Si la modalidad se trata de vigilancia de la autoridad, se comunicará el proveído a la Secretaría de Seguridad Pública, o a otros cuerpos de seguridad pública en el Estado, en su caso, en donde se determine la vigilancia permanente o intermitente del imputado en el domicilio señalado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN SÉPTIMA. PROHIBICIÓN DE CONCURRIR A DETERMINADAS REUNIONES O DE VISITAR CIERTOS LUGARES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Artículo 35 Bis N. Ejecución de la medida.
+
+Al determinarse la prohibición de concurrir a determinadas reuniones o de visitar ciertos lugares, se comunicará la resolución a la Secretaría de Seguridad Pública o a otros cuerpos de seguridad pública en el Estado, en su caso, con la finalidad de que sea ejercida la vigilancia pertinente sobre el imputado en el cumplimiento de esa determinación, en la que indicará específicamente las restricciones impuestas.
+
+La autoridad ejecutora informará por medio de la Dirección General, sobre el cumplimiento de la medida con la periodicidad determinada por la autoridad judicial.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN OCTAVA. PROHIBICIÓN DE CONVIVIR O COMUNICARSE CON PERSONAS DETERMINADAS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Artículo 35 BIS O. Ejecución de la medida.
+
+Al imponerse la medida de prohibición de convivencia o comunicación con personas determinadas, se aplicará, en lo conducente, lo dispuesto en el artículo anterior.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN NOVENA. SEPARACIÓN INMEDIATA DEL DOMICILIO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Artículo 35 Bis P. Ejecución de la medida.
+
+Si se decreta la medida cautelar de separación inmediata del domicilio del imputado, se comunicará el proveído a la Secretaría de Seguridad Pública o a otros cuerpos de seguridad pública en el Estado, para su efectivo cumplimiento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN DECIMA. SUSPENSIÓN DE DERECHOS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Artículo 35 Bis Q. Ejecución de la medida.
+
+La ejecución de la medida cautelar de suspensión de derechos estará sujeta a las siguientes reglas:
+
+I. Si se trata de suspensión de funciones de un servidor público, se remitirá el proveído al superior jerárquico correspondiente, a efecto de que materialmente ejecute la medida;
+
+II. Si se trata de suspensión para el ejercicio de una profesión, se dará aviso a la Dirección Estatal de Profesiones del Gobierno del Estado, así como a la Dirección General de Profesiones de la Secretaría de Educación Pública Federal, para los efectos conducentes; y
+
+III. En caso de imponer la suspensión de otros derechos, la ejecución de la medida quedará sujeta a las particularidades que el propio juez dicte en su resolución, de conformidad con la naturaleza de la medida impuesta.
+
+En todos los casos, se remitirá junto con el proveído los datos necesarios para la efectiva ejecución de la medida y se podrá recabar del imputado o de las autoridades correspondientes, los informes que se estimen necesarios para verificar el cumplimiento de la suspensión.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN DECIMA PRIMERA. INTERNAMIENTO EN CENTRO DE SALUD U HOSPITAL PSIQUIÁTRICO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Artículo 35 Bis R. Ejecución de la medida.
+
+Al pronunciarse sobre la imposición de medidas cautelares, el Juez de Control podrá decretar el internamiento del imputado en centro de salud, centro de atención a adictos u hospitales psiquiátricos, cuando su estado de salud así lo amerite. De verificarse lo anterior, se remitirá la resolución a la Secretaría de Salud Pública, a cuyo cargo quedará la ejecución y vigilancia de la medida, en centros u hospitales públicos o privados, tomando en cuenta la elección del imputado o de sus representantes, y de acuerdo con las posibilidades económicas del mismo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN DÉCIMA SEGUNDA. PRISIÓN PREVENTIVA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 36.
 
 Establecimiento penitenciario.
 
-La ejecución de la medida judicial de prisión preventiva será cumplida en el establecimiento penitenciario que designe el Ejecutivo del Estado, por conducto de la Coordinación General.
+La ejecución de la medida cautelar de prisión preventiva será cumplida en el establecimiento penitenciario que designe el Ejecutivo del Estado, por conducto de la Dirección General.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 37.
 
 Cumplimiento de la medida.
 
-El Juez de la Causa remitirá copia certificada del auto de formal prisión o del que decrete la prisión preventiva a la Dirección del Centro de Reinserción Social.
+El Juez informará a la Dirección del Centro de Reinserción Social sobre la imposición de la medida cautelar consistente en prisión preventiva.
 
 El sitio destinado para cumplir la prisión preventiva será distinto a aquél en el que se ejecute la pena de prisión, del que deberá estar completamente separado. Las mujeres quedarán recluidas en lugares diferentes al de los hombres.
 
@@ -649,25 +1225,131 @@ Disposiciones aplicables.
 
 Serán aplicables para el cumplimiento de la prisión preventiva, en lo conducente, siempre que con ello no se transgredan los derechos fundamentales y garantías procesales del imputado, las disposiciones sobre la ejecución de la pena de prisión y el Sistema, de esta Ley, así como de los reglamentos que de ella deriven.
 
-### CAPÍTULO II. DE LA LIBERTAD ANTICIPADA
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-### CAPÍTULO III. DE LA LIBERTAD DEFINITIVA
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
-### CAPÍTULO IV. MEDIDAS DE SEGURIDAD
+### CAPÍTULO II. MEDIDA CAUTELAR DE CARÁCTER REAL
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 41 Bis.
+
+Embargo precautorio.
+
+Al decretarse la medida cautelar de embargo precautorio, se remitirá la resolución al Fondo para la Administración de Justicia del Estado de Sonora.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO III. EJECUCIÓN DE CONDICIONES DURANTE LA SUSPENSIÓN CONDICIONAL DEL PROCESO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Artículo 41 Bis A. Coordinación, ejecución y vigilancia de las condiciones.
+
+La coordinación interinstitucional para la ejecución y vigilancia de las condiciones por cumplir durante la suspensión condicional del proceso, en los términos del Código Nacional, se llevará a cabo de la siguiente manera:
+
+I. Residir en un lugar determinado. Se sujetará a las disposiciones de ejecución de la medida cautelar de prohibición de salir del ámbito territorial que fije el juez;
+
+II. Frecuentar o dejar de frecuentar determinados lugares o personas. Se sujetará a las disposiciones de ejecución de las medidas cautelares de prohibición de concurrir a determinadas reuniones o de visitar ciertos lugares y de convivir o comunicarse con personas determinadas;
+
+III. Abstenerse de consumir drogas, estupefacientes o de abusar de las bebidas alcohólicas. Quedará sujeta a la revisión por parte de la Secretaría de Salud Pública, la que por conducto de las instituciones correspondientes, verificará periódicamente el cumplimiento de la condición, mediante la práctica de exámenes, evaluaciones u otro tipo de procedimientos de demostración, informando oportunamente de ello, para los efectos procesales conducentes;
+
+IV. Participar en programas especiales para la prevención y tratamiento de adicciones. Quedará sujeta a la revisión por parte de la Secretaría de Salud Pública, quien incorporará al imputado para su participación en dichos programas, informando sobre su cumplimiento;
+
+V. Aprender una profesión u oficio o seguir cursos de capacitación en el lugar o la institución que determine el Juez de Control. Quedará sujeta a la revisión por parte de la Secretaría de Educación y Cultura, quien dará seguimiento a la incorporación del imputado a alguno de los centros que ofrezcan servicios educativos o de capacitación para el trabajo, informando sobre los avances programáticos que alcance el imputado, así como de la culminación de los estudios, en su caso;
+
+VI. Prestar servicio social a favor del Estado o de instituciones de beneficencia pública. Quedará sujeta a la revisión por parte de la Dirección General, la que inscribirá al imputado en un listado especial de prestadores de servicio y le indicará la institución en la que deba realizarse, el horario en el que se cumplirá, así como las labores que desempeñará. Asimismo, supervisará el trabajo del imputado periódicamente e informará sobre su cumplimiento;
+
+VII. Someterse a tratamiento médico o psicológico, de preferencia en instituciones públicas. Se sujetará, en lo conducente, a las disposiciones de ejecución de la medida cautelar de internamiento en centro de salud u hospital psiquiátrico;
+
+VIII. Tener un trabajo o empleo, o adquirir, en el plazo que el Juez de Control determine, un oficio, arte, industria o profesión, si no tiene medios propios de subsistencia. Se sujetará, en lo conducente, a lo dispuesto en la fracción V del presente artículo. Si la condición consiste en la adquisición de trabajo, oficio o empleo, se dará intervención al Servicio Estatal del Empleo de la Secretaría del Trabajo;
+
+IX. Someterse a la vigilancia que determine el juez. Se sujetará a las disposiciones de ejecución de la medida cautelar de someterse al cuidado o vigilancia de una persona, institución pública, privada o de asistencia social, para recibir tratamiento especializado vinculado a la problemática que presenta el imputado y los encargados informarán regularmente al juez la evolución y resultados obtenidos del tratamiento;
+
+X. No poseer ni portar armas o utilizar los instrumentos del delito. Al decretarse esta condición, se dará aviso a los cuerpos de seguridad pública en el Estado, para llevar un registro de la condición impuesta, a efecto de que en un evento posterior en el que constate su incumplimiento, se de aviso al Juez de Control para los efectos procesales correspondientes;
+
+XI. No conducir vehículos. Se sujetará a las disposiciones de ejecución de la medida cautelar de suspensión de derechos;
+
+XII. Abstenerse de viajar al extranjero. Se sujetará a las disposiciones de ejecución de la medida cautelar de prohibición de salir del país;
+
+XIII. Cumplir con los deberes de deudor alimentario; o
+
+XIV. Cualquier otra condición que, a juicio del Juez de Control, logre una efectiva tutela de los derechos de la víctima.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO IV. DISPOSICIONES COMUNES A LAS MEDIDAS CAUTELARES Y SUSPENSIÓN CONDICIONAL DEL PROCESO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Artículo 41 Bis B. Irregularidades o incumplimiento de las medidas.
+
+Si durante el período de cumplimiento de las medidas cautelares o condiciones, la autoridad, persona o institución ejecutora observa o da cuenta de incumplimiento o de cualquier irregularidad, dará aviso inmediato al Juez de Control, por conducto de la Dirección General, para los efectos procesales conducentes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Artículo 41 Bis C. Sustitución, modificación o cancelación de las medidas cautelares o condiciones.
+
+El Juez de Control informará a la persona o institución ejecutora y a la Dirección General, sus determinaciones sobre la sustitución, modificación o cancelación de la medida cautelar, así como de la revocatoria o cesación provisional de los efectos de la suspensión condicional del proceso, en su caso.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Artículo 41 Bis D. La comunicación entre el Juez de Control y las autoridades señaladas como auxiliares.
+
+La comunicación entre el Juez de Control y las autoridades señaladas como auxiliares, salvo disposición en contrario, se llevará a cabo por conducto de la Dirección General, quien además llevará un registro general sobre las medidas cautelares y condiciones decretadas, la sustitución, modificación o cancelación de las primeras, así como de la revocatoria o cesación provisional de las segundas.
 
 ## TÍTULO QUINTO. EJECUCIÓN DE LAS SENTENCIAS PENALES Y MEDIDAS DE SEGURIDAD
 
-### CAPÍTULO I. DE LA PREVENCIÓN
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-### CAPÍTULO II. DE LA REINSERCIÓN SOCIAL
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
-#### SECCIÓN SEGUNDA. TRATAMIENTO DE INIMPUTABLES
+### CAPÍTULO I. DISPOSICIONES GENERALES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Artículo 41 Bis E. Ejecución de las penas y medidas de seguridad.
+
+Para la ejecución de las penas y medidas de seguridad, el Juez de Control o el Tribunal de Enjuiciamiento que dictó la sentencia ejecutoriada, según corresponda, deberá:
+
+I. Tratándose de penas privativas de la libertad:
+
+a) Si el sentenciado estuviere sujeto a prisión preventiva, ponerlo a disposición jurídica del Juez de Ejecución, remitiéndole el registro donde conste su resolución, a efecto de integrar la carpeta respectiva, dando inicio al procedimiento de ejecución, para el debido y exacto cumplimiento de la sanción impuesta; y
+
+b) Si el sentenciado estuviere en libertad, ordenar inmediatamente su aprehensión y, una vez efectuada, proceder de conformidad con el inciso anterior. En este caso, se pondrá al sentenciado a disposición material de la Dirección General, a efecto de que las penas se compurguen en los centros de reinserción social a cargo de dicha autoridad; y
+
+II. Tratándose de penas alternativas a la privativa de la libertad, remitir copia de la misma a la Dirección General, a efecto de que ésta se coordine, en los términos de la presente Ley, con la institución encargada de su ejecución.
+
+### CAPÍTULO II. PENAS PRIVATIVAS DE LIBERTAD
+
+#### SECCIÓN PRIMERA. PENA DE PRISIÓN
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 42.
 
 Centro de Reinserción Social.
 
-La pena privativa de la libertad será compurgada en los Centros de Reinserción Social que designe el Ejecutivo del Estado por conducto de la Coordinación General.
+La pena privativa de la libertad será compurgada en los Centros de Reinserción Social que designe el Ejecutivo del Estado por conducto de la Dirección General.
 
 ###### Artículo 43.
 
@@ -683,11 +1365,15 @@ Personal femenino.
 
 En los establecimientos o secciones de reinserción social destinados a las mujeres, la vigilancia estará a cargo exclusivamente de personal femenino.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 45.
 
 Instalaciones adecuadas.
 
-Todos los Centros en el Estado adoptarán las medidas necesarias a efecto de que sus establecimientos cuenten con las instalaciones adecuadas para los internos de ambos sexos. La Dirección vigilará que se cumpla con esta disposición.
+Todos los Centros en el Estado adoptarán las medidas necesarias a efecto de que sus establecimientos cuenten con las instalaciones adecuadas para los internos de ambos sexos. La Dirección General vigilará que se cumpla con esta disposición.
 
 ###### Artículo 46.
 
@@ -707,7 +1393,7 @@ II. Si el sentenciado tiene diversas penas por delitos cometidos antes de su det
 
 III. Si el sentenciado estuvo sujeto de forma simultánea a dos o más procesos por la comisión de diversos delitos, fuera de los supuestos de concurso real o ideal, y en tales casos se haya dictado prisión preventiva y luego sentencia condenatoria, el tiempo que se cumplió con dicha medida cautelar se computará para el descuento de cada una de las penas de prisión impuestas.
 
-#### SECCIÓN TERCERA. TRATAMIENTO DE DESHABITUACIÓN O DESINTOXICACIÓN
+#### SECCIÓN SEGUNDA. MODALIDADES A LA PENA DE PRISIÓN Y TRATAMIENTO EN SEMILIBERTAD
 
 ###### Artículo 48.
 
@@ -729,15 +1415,27 @@ El internamiento de fin de semana quedará sujeto a las siguientes reglas:
 
 I. Tendrá lugar desde las veinte horas del día viernes hasta las veinte horas del día domingo;
 
-II. Su cumplimiento se verificará en el centro de reinserción social que designe, la Coordinación General, separadamente a los internos que compurgan la pena de prisión sin modalidades;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-III. Si el sentenciado incurre en una ausencia no justificada, la Coordinación General lo comunicará al Juez de Ejecución, a efecto de que revoque el internamiento de fin de semana;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+II. Su cumplimiento se verificará en el centro de reinserción social que designe la Dirección General, separadamente a los internos que compurgan la pena de prisión sin modalidades;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+III. Si el sentenciado incurre en una ausencia no justificada, la Dirección General lo comunicará al Juez de Ejecución, a efecto de que revoque el internamiento de fin de semana;
 
 IV. Si durante su aplicación se inicia contra el sentenciado un nuevo proceso por la comisión de diverso delito y se impone la medida cautelar de prisión preventiva, la modalidad se revocará; y
 
 V. Durante el tiempo que permanezca en semilibertad, el sentenciado deberá dedicarse al desarrollo de una actividad lícita, a realizar estudios no concluidos o a recibir el tratamiento de salud especificado.
 
-En casos de tratamientos de salud, el Juez de Ejecución, por conducto de la Dirección, ordenará a la institución correspondiente que aplique el tratamiento requerido, en su caso, y en general, que informe con la periodicidad que éste le indique sobre sus avances.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+En casos de tratamientos de salud, el Juez de Ejecución, por conducto de la Dirección General, ordenará a la institución correspondiente que aplique el tratamiento requerido, en su caso, y en general, que informe con la periodicidad que éste le indique sobre sus avances.
 
 ###### Artículo 50.
 
@@ -759,7 +1457,11 @@ I. Tendrá lugar desde las veinte horas, hasta las ocho horas del día siguiente
 
 II. En su cumplimiento quedará sujeto a las disposiciones previstas en las fracciones II, III, IV y V del artículo 49 de esta Ley.
 
-#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN TERCERA. PENA DE RELEGACIÓN
 
 ###### Artículo 52.
 
@@ -767,9 +1469,9 @@ Otras modalidades de internamiento.
 
 Previos los estudios especializados, el Juez de Ejecución podrá autorizar el cumplimiento de la pena de prisión en Centros Penitenciarios Federales de Media y Máxima Seguridad o en Colonias Penales, en los términos de los convenios de coordinación celebrados por el Ejecutivo del Estado con las autoridades federales respectivas.
 
-### CAPÍTULO I. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LOS CENTROS DE REINSERCIÓN SOCIAL
+### CAPÍTULO III. DE LA LIBERTAD ANTICIPADA
 
-#### SECCIÓN SEGUNDA. DEL TRABAJO
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
 ###### Artículo 53.
 
@@ -783,35 +1485,61 @@ II. Libertad preparatoria; y
 
 III. Remisión parcial de la pena.
 
-El sentenciado que crea tener derecho a los beneficios de libertad anticipada o a propuesta de la Coordinación General, elevará su solicitud al Juez de Ejecución, quien notificará al Ministerio Público y a la víctima u ofendido.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Se tramitarán vía incidental y se podrán substanciar conforme a las reglas de los incidentes previstas en esta Ley.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
-Para el otorgamiento de beneficio de libertad anticipada, el Juez podrá, solicitar a la Coordinación General, le remita las constancias relativas a los requisitos del beneficio del que se trate.
+El sentenciado que crea tener derecho a los beneficios de libertad anticipada o a propuesta de la Dirección General, elevará su solicitud al Juez de Ejecución, quien notificará al Ministerio Público y a la víctima u ofendido, dando inicio al procedimiento respectivo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(DEROGADO TERCER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Para el otorgamiento de beneficio de libertad anticipada, el Juez podrá solicitar a la Dirección General, le remita las constancias relativas a los requisitos del beneficio del que se trate.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 54.
 
 Sustanciación del Procedimiento.
 
-En el procedimiento de otorgamiento de beneficio de libertad anticipada, la Coordinación General presentará con la antelación las constancias relativas a los requisitos del beneficio de que se trate.
+En el procedimiento de otorgamiento de beneficio de libertad anticipada, la Dirección General presentará con la (sic) antelación las constancias relativas a los requisitos del beneficio de que se trate.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 55.
 
 Vigilancia.
 
-Una vez otorgada la libertad anticipada, la Coordinación General dará seguimiento al liberado de la siguiente manera:
+Una vez otorgada la libertad anticipada, la Dirección General dará seguimiento al liberado de la siguiente manera:
 
 I. Dará seguimiento al tratamiento que se imponga como obligación a los preliberados y a aquellos liberados que por voluntad se acerquen a estos servicios;
 
 II. Dará seguimiento al estricto cumplimiento de las obligaciones que le fueron impuestas a los sentenciados en libertad e informará en el término establecido en el reglamento, a las áreas de reinserción correspondientes, a efecto de hacerlo del conocimiento del Juez de Ejecución; y
 
-III. Cuando del informe que al efecto elabore la Coordinación General, se acredite plenamente que el sentenciado se encuentra imposibilitado para cumplir alguna de las modalidades de la sanción que le fue impuesta, por ser incompatible con su edad, salud o constitución física, el Juez de Ejecución podrá modificar los términos de la sentencia, con excepción de quienes se encuentren en los casos de prohibición legal expresa.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+III. Cuando del informe que al efecto elabore la Dirección General, se acredite plenamente que el sentenciado se encuentra imposibilitado para cumplir alguna de las modalidades de la sanción que le fue impuesta, por ser incompatible con su edad, salud o constitución física, el Juez de Ejecución podrá modificar los términos de la sentencia, con excepción de quienes se encuentren en los casos de prohibición legal expresa.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 56.
 
 Revocación de los beneficios.
 
-Los beneficios se revocarán por el Juez de Ejecución, previa solicitud del Ministerio Público o por informe de la Coordinación General cuando el liberado incurra en alguna de las siguientes causales:
+Los beneficios se revocarán por el Juez de Ejecución, previa solicitud del Ministerio Público o por informe de la Dirección General cuando el liberado incurra en alguna de las siguientes causales:
 
 I. Fuere sentenciado por diverso delito doloso mediante sentencia que haya causado ejecutoria. Tratándose de delito culposo, de acuerdo con la gravedad del hecho se podrá revocar o mantener la libertad preparatoria;
 
@@ -823,7 +1551,7 @@ IV. Dejar de presentarse injustificadamente ante la autoridad que haya determina
 
 El sentenciado cuyo beneficio haya sido revocado, cumplirá el resto de la pena impuesta. Los hechos que originen los nuevos procesos a que se refiere este artículo, interrumpen los plazos para extinguir la pena.
 
-#### SECCIÓN TERCERA. DE LA CAPACITACIÓN
+#### SECCIÓN SEGUNDA. DEL TRATAMIENTO PRELIBERACIONAL
 
 ###### Artículo 57.
 
@@ -849,7 +1577,7 @@ VIII. Delitos contra la formación de las personas menores de edad y protección
 
 IX. Lenocinio;
 
-X. Delincuencia Organizada; (sic)
+X. Delincuencia Organizada;
 
 No se concederá beneficios señalados en este artículo, en los casos de los delitos previstos en las fracciones anteriores aún cuando hayan sido cometidos en grado de tentativa.
 
@@ -879,13 +1607,25 @@ I. Salida diaria a trabajar o estudiar con reclusión nocturna y salida los sáb
 
 II. Reclusión los sábados y domingos para tratamiento técnico.
 
-Para que se conceda la prisión intermitente, el beneficiado deberá acreditar previamente que cuenta con trabajo honesto en el exterior o que se encuentra inscrito en institución educativa legalmente autorizada, o que hará lo uno o lo otro en el plazo que le señale el Juez de Ejecución; en ambos casos, la Coordinación General vigilará el cumplimiento de las obligaciones impuestas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Estas condiciones podrán modificarse por el Juez de Ejecución cuando a juicio de la Coordinación General no se cuente con los medios, infraestructura y condiciones de seguridad y tratamiento para los preliberados, pudiéndose cumplir con este beneficio mediante presentaciones cada ocho días ante la Coordinación General o ante la autoridad que se señale para tal efecto.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
-La presentación será física con la obligación de firmar en el libro correspondiente y/o en los medios que pudieran establecerse por la Coordinación General para su registro.
+Para que se conceda la prisión intermitente, el beneficiado deberá acreditar previamente que cuenta con trabajo honesto en el exterior o que se encuentra inscrito en institución educativa legalmente autorizada, o que hará lo uno o lo otro en el plazo que le señale el Juez de Ejecución; en ambos casos, la Dirección General vigilará el cumplimiento de las obligaciones impuestas.
 
-#### SECCIÓN CUARTA. DE LA EDUCACIÓN
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Estas condiciones podrán modificarse por el Juez de Ejecución cuando a juicio de la Dirección General no se cuente con los medios, infraestructura y condiciones de seguridad y tratamiento para los preliberados, pudiéndose cumplir con este beneficio mediante presentaciones cada ocho días ante la Dirección General o ante la autoridad que se señale para tal efecto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+La presentación será física con la obligación de firmar en el libro correspondiente y/o en los medios biométricos que pudieran establecerse por la Dirección General para su registro.
+
+#### SECCIÓN TERCERA. DE LA LIBERTAD PREPARATORIA
 
 ###### Artículo 61.
 
@@ -907,25 +1647,37 @@ VI. Que haya participado en las actividades deportivas, educativas, culturales y
 
 VII. No estar sujeto a otro Proceso Penal en el que se haya decretado medida cautelar de prisión preventiva.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 62.
 
 Solicitud del beneficiado.
 
-El sentenciado que considere tener derecho a la libertad preparatoria, formulará el planteamiento correspondiente ante el Juez de Ejecución, a fin de que dé inicio el procedimiento respectivo, sin perjuicio de que la Coordinación General en ausencia de la petición de sentenciado pueda remitir al Juez de Ejecución la propuesta para beneficio de libertad anticipada.
+El sentenciado que considere tener derecho a la libertad preparatoria, formulará el planteamiento correspondiente ante el Juez de Ejecución, a fin de que dé inicio el procedimiento respectivo, sin perjuicio de que la Dirección General en ausencia de la petición de (sic) sentenciado pueda remitir al Juez de Ejecución la propuesta para beneficio de libertad anticipada.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 63.
 
 Resolución.
 
-La resolución que conceda la libertad preparatoria tomará en consideración todos los informes y conclusiones que sean recabados. Contendrá las observaciones y antecedentes relacionados con la conducta del sentenciado durante su internamiento, así como los datos que demuestren que se encuentra en condiciones de ser reinsertado a la vida social. Dentro de las obligaciones del liberado se contendrá la de informar el lugar de residencia y de trabajo, así como la de presentarse, al menos cada quince días, ante la Coordinación General, o las autoridades municipales del lugar de residencia o ante la autoridad que designe el Juez.
+La resolución que conceda la libertad preparatoria tomará en consideración todos los informes y conclusiones que sean recabados. Contendrá las observaciones y antecedentes relacionados con la conducta del sentenciado durante su internamiento, así como los datos que demuestren que se encuentra en condiciones de ser reinsertado a la vida social. Dentro de las obligaciones del liberado se contendrá la de informar el lugar de residencia y de trabajo, así como la de presentarse, al menos cada quince días, ante la Dirección General, o las autoridades municipales del lugar de residencia o ante la autoridad que designe el Juez.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 64.
 
 Revocación del beneficio.
 
-La libertad preparatoria se revocará por el Juez de Ejecución, a petición del Ministerio Público o por informe de la Coordinación General en los supuestos previstos en el artículo 56 de esta Ley.
+La libertad preparatoria se revocará por el Juez de Ejecución, a petición del Ministerio Público o por informe de la Dirección General en los supuestos previstos en el artículo 79 de esta Ley.
 
-#### SECCIÓN QUINTA. DE LA SALUD DE LOS SENTENCIADOS INTERNOS
+#### SECCIÓN CUARTA. DE LA REMISIÓN PARCIAL DE LA PENA
 
 ###### Artículo 65.
 
@@ -939,17 +1691,25 @@ II. Que participe regularmente en las actividades educativas, deportivas o de ot
 
 III. Que con base en los estudios de personalidad que practique el Consejo, pueda determinarse la viabilidad de su reinserción social. Este será el factor determinante para la concesión o negativa de la remisión parcial de la pena, que no podrá fundarse exclusivamente en los dos requisitos anteriores.
 
-Los requisitos señalados se acreditarán con los informes que rinda la Coordinación General.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Los requisitos señalados se acreditarán con los informes que rinda la Dirección General.
 
 Con estos elementos, el Juez de Ejecución dictaminará sobre la procedencia del beneficio. Los días laborados que se computen para este beneficio podrán ser acumulados para el porcentaje que se exige en los demás beneficios.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 66.
 
 Solicitud del beneficio.
 
-El sentenciado que considere tener derecho a la libertad preparatoria, formulará el planteamiento correspondiente ante el Juez de Ejecución, a fin de que dé inicio el procedimiento respectivo, sin perjuicio de que la Coordinación General en ausencia de la petición del sentenciado pueda remitir al Juez de Ejecución la propuesta para beneficio de libertad anticipada.
+El sentenciado que considere tener derecho a la libertad preparatoria, formulará el planteamiento correspondiente ante el Juez de Ejecución, a fin de que dé inicio el procedimiento respectivo, sin perjuicio de que la Dirección General en ausencia de la petición del sentenciado pueda remitir al Juez de Ejecución la propuesta para beneficio de libertad anticipada.
 
-#### SECCIÓN SEXTA. DE LAS ACTIVIDADES DEPORTIVAS Y RECREATIVAS
+#### SECCIÓN QUINTA. REGLAS COMUNES PARA LA CONCESIÓN DE LIBERTAD ANTICIPADA
 
 ###### Artículo 67.
 
@@ -963,11 +1723,15 @@ Cómputo de los términos.
 
 El cómputo de los términos para el otorgamiento del beneficio de remisión parcial de la pena se realizará tomando en cuenta la sanción privativa de libertad impuesta, sin perjuicio de que se haya dictado una nueva sentencia condenatoria.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 69.
 
 Implementación de localizadores electrónicos.
 
-La Coordinación General está facultada para implementar un sistema de monitoreo electrónico a distancia sobre los sentenciados que gocen de algún beneficio de libertad anticipada a que se refiere el presente Capítulo, o de la condena condicional; asimismo, para requerir el auxilio de los cuerpos de seguridad pública en el Estado en el cumplimiento de esta obligación, en los términos de la normatividad reglamentaria sobre el programa de monitoreo electrónico a distancia, para ejercer una mejor vigilancia.
+La Dirección General está facultada para implementar un sistema de monitoreo electrónico a distancia sobre los sentenciados que gocen de algún beneficio de libertad anticipada a que se refiere el presente Capítulo, o de la condena condicional; asimismo, para requerir el auxilio de los cuerpos de seguridad pública en el Estado en el cumplimiento de esta obligación, en los términos de la normatividad reglamentaria sobre el programa de monitoreo electrónico a distancia, para ejercer una mejor vigilancia.
 
 ###### Artículo 70.
 
@@ -983,7 +1747,9 @@ III. Cubrir el importe que derive del arrendamiento del equipo consistente en el
 
 Las cuestiones relativas a los localizadores electrónicos no contempladas en esta Ley, deberán ser reguladas por el reglamento respectivo.
 
-### CAPÍTULO II. DEL INGRESO
+### CAPÍTULO IV. DE LA LIBERTAD DEFINITIVA
+
+#### SECCIÓN PRIMERA. CUMPLIMIENTO DE SENTENCIA
 
 ###### Artículo 71.
 
@@ -991,9 +1757,17 @@ Libertad definitiva por sentencia cumplida.
 
 La Coordinación General, a través de la Dirección del Centro de Reinserción Social otorgará la libertad definitiva al sentenciado que haya cumplido la pena privativa de libertad determinada en la sentencia, aún cuando no se lo ordene el Juez de Ejecución.
 
-Una vez que la Dirección del Centro de Reinserción Social, reciba copia certificada de la sentencia de condena ejecutoriada, deberá comunicar al sentenciado, por escrito, dentro de los cinco días siguientes, el tiempo en que habrá de cumplir la condena. Asimismo, deberá comunicarle, en su caso, diversa o diversas sentencias ejecutoriadas, en las que se le impongan penas privativas de libertad, debiendo hacer el cómputo correspondiente de acuerdo con las disposiciones de esta Ley y de las que resulten aplicables, a efecto de que tenga conocimiento del tiempo en que habrá de cumplir con las sentencias.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Dentro del mismo plazo señalado en el párrafo que antecede, la Dirección hará del conocimiento las anteriores determinaciones, al Juez de Ejecución que corresponda.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Una vez que la Dirección General, reciba copia certificada de la sentencia de condena ejecutoriada, deberá comunicar al sentenciado, por escrito, dentro de los cinco días siguientes, el tiempo en que habrá de cumplir la condena. Asimismo, deberá comunicarle, en su caso, diversa o diversas sentencias ejecutoriadas, en las que se le impongan penas privativas de libertad, debiendo hacer el cómputo correspondiente de acuerdo con las disposiciones de esta Ley y de las que resulten aplicables, a efecto de que tenga conocimiento del tiempo en que habrá de cumplir con las sentencias.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Dentro del mismo plazo señalado en el párrafo que antecede, la Dirección General hará del conocimiento las anteriores determinaciones, al Juez de Ejecución que corresponda.
 
 El cómputo será siempre reformable a petición del sentenciado, de su defensor, del Ministerio Público, o aún de oficio, por el juez de Ejecución, de acuerdo con las disposiciones legales que resulten aplicables o cuando se compruebe un error o en virtud de nuevas circunstancias que lo tornen necesario.
 
@@ -1005,11 +1779,17 @@ Asistencia post-penitenciaria.
 
 La libertad definitiva que se otorgue conforme a este título, será comunicada de inmediato al patronato de asistencia a liberados, para los fines de asistencia post-penitenciaria a que se refiere la presente Ley.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 73.
 
 Constancia de salida.
 
-Al quedar el sentenciado en libertad definitiva, la Dirección le entregará una constancia de la legalidad de su salida.
+Al quedar el sentenciado en libertad definitiva, el Juez de Ejecución le entregará una constancia de la legalidad de su salida, de la conducta observada durante su reclusión y de su aptitud para el trabajo, en relación con la información proporcionada por la Dirección General.
+
+#### SECCIÓN SEGUNDA. REHABILITACIÓN
 
 ###### Artículo 74.
 
@@ -1035,19 +1815,29 @@ Comunicación de la rehabilitación.
 
 La rehabilitación de los derechos será ordenada por el Juez de Ejecución y la comunicará a las autoridades correspondientes.
 
+#### SECCIÓN TERCERA. TRABAJO EN FAVOR DE LA COMUNIDAD
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 78.
 
 Instituciones.
 
-El trabajo en favor de la comunidad será facilitado por el Poder Ejecutivo; se prestará en instituciones públicas en general, así como en las de carácter educativo o de asistencia social, públicas o privadas, sobre la base de los convenios que celebre la Coordinación General con dichas instituciones.
+El trabajo en favor de la comunidad será facilitado por el Poder Ejecutivo; se prestará en instituciones públicas en general, así como en las de carácter educativo o de asistencia social, públicas o privadas, sobre la base de los convenios que celebre la Dirección General con dichas instituciones.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 79.
 
 Ejecución de la pena.
 
-La ejecución de esta pena se desarrollará bajo el control y vigilancia de la Coordinación General Esta dependencia pedirá, conforme al convenio celebrado con la entidad pública o privada, los informes necesarios donde se detalle la prestación del trabajo en beneficio de la comunidad que realice el sentenciado y enviará la comunicación respectiva al Juez de Ejecución.
+La ejecución de esta pena se desarrollará bajo el control y vigilancia de la Dirección General, esta dependencia pedirá, conforme al convenio celebrado con la entidad pública o privada, los informes necesarios donde se detalle la prestación del trabajo en beneficio de la comunidad que realice el sentenciado y enviará la comunicación respectiva al Juez de Ejecución.
 
-Una vez cumplida la pena de trabajo a favor de la comunidad, la institución comunicará dicha situación a la Coordinación General, quien a su vez, remitirá la constancia respectiva al Juez de Ejecución.
+Una vez cumplida la pena de trabajo a favor de la comunidad, la institución comunicará dicha situación a la Dirección General, quien a su vez, remitirá la constancia respectiva al Juez de Ejecución.
 
 ###### Artículo 80.
 
@@ -1061,15 +1851,55 @@ Dignidad del sentenciado.
 
 Bajo ningún motivo el trabajo a favor de la comunidad atentará contra la dignidad del sentenciado.
 
-### CAPÍTULO III. DE LOS TRASLADOS
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN CUARTA. LIBERTAD O DISMINUCIÓN DE LA PENA POR RECONOCIMIENTO DE INOCENCIA O ANULACIÓN DE SENTENCIA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 81 Bis.
+
+Procedencia.
+
+La libertad definitiva o disminución de la pena procederá como consecuencia de la resolución que las determine, en los términos del Código Nacional.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Artículo 81 Bis A. Libertad por revisión de sentencia.
+
+Cuando por reconocimiento de inocencia del sentenciado o anulación de sentencia se resuelva la absolución del sentenciado, el Tribunal de Alzada que haya conocido remitirá la constancia de su resolución a la Dirección General y al Juez de Ejecución para que sin demora la ejecuten; así mismo, a la Procuraduría General de Justicia del Estado, para su conocimiento.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Artículo 81 Bis B. Disminución de penas.
+
+Cuando la consecuencia de la anulación de sentencia sea la disminución de las penas impuestas al sentenciado se aplicará en lo conducente, lo dispuesto en el artículo anterior.
+
+### CAPÍTULO V. MEDIDAS DE SEGURIDAD
+
+#### SECCIÓN PRIMERA. VIGILANCIA DE LA AUTORIDAD
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 82.
 
 Ejecución de la pena.
 
-La vigilancia de la autoridad consiste en la supervisión y orientación de la conducta del sentenciado, ejercidas por la Coordinación General, con el apoyo, en su caso, de las autoridades auxiliares, con la finalidad exclusiva de coadyuvar a la reinserción social del sentenciado y a la protección de la comunidad.
+La vigilancia de la autoridad consiste en la supervisión y orientación de la conducta del sentenciado, ejercidas por la Dirección General, con el apoyo, en su caso, de las autoridades auxiliares, con la finalidad exclusiva de coadyuvar a la reinserción social del sentenciado y a la protección de la comunidad.
 
 La autoridad judicial deberá disponer esta supervisión cuando en la sentencia imponga una sanción que restrinja la libertad o derechos, sustituya la privación de libertad por otra sanción o conceda la condena condicional y en los demás casos en los que la Ley disponga. Su duración no deberá exceder de la correspondiente a la pena o medida de seguridad impuesta.
+
+#### SECCIÓN SEGUNDA. TRATAMIENTO DE INIMPUTABLES
 
 ###### Artículo 83.
 
@@ -1083,11 +1913,15 @@ Modificación o conclusión de la medida.
 
 El Juez de Ejecución podrá resolver sobre la modificación o conclusión de la medida considerando las necesidades de tratamiento, mismas que se acreditarán mediante los informes rendidos por la persona o institución encargada de la persona inimputable, y del consejo técnico interdisciplinario.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 85.
 
 Ubicación de las personas con discapacidad psico-social.
 
-El sentenciado que haya sido diagnosticado con discapacidad psico-social, será ubicado inmediatamente en una institución de rehabilitación psico-social o bien en una área adecuada para ello, en el Centro de Reinserción Social que establezca la Coordinación General.
+El sentenciado que haya sido diagnosticado con discapacidad psico-social, será ubicado inmediatamente en una institución de rehabilitación psico-social o bien en un área adecuada para ello, en el Centro de Reinserción Social que establezca la Dirección General.
 
 ###### Artículo 86.
 
@@ -1101,19 +1935,25 @@ II. Cuente con la valoración técnica que determine una adecuada vigilancia y c
 
 III. Cuente con un responsable legal que garantice que la persona con discapacidad psico-social se sujetará a las obligaciones que establezca el Juez de Ejecución
 
+#### SECCIÓN TERCERA. TRATAMIENTO DE DESHABITUACIÓN O DESINTOXICACIÓN
+
 ###### Artículo 87.
 
 Ejecución de la medida.
 
 El Juez de Ejecución ordenará al sentenciado la imposición de un tratamiento de deshabituación o desintoxicación o el internamiento en un hospital psiquiátrico o centro de salud señalado en la sentencia, de acuerdo a lo siguiente:
 
-I. La Coordinación General remitirá la resolución a la Secretaría de Salud, a cuyo cargo quedará la ejecución y vigilancia de la medida, en los centros u hospitales públicos o privados; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+I. La Dirección General remitirá la resolución a la Secretaría de Salud, a cuyo cargo quedará la ejecución y vigilancia de la medida, en los centros u hospitales públicos o privados; y
 
 II. Durante la ejecución de la medida, la Secretaría de Salud informará periódicamente al Juez de Ejecución en los términos que este determine.
 
 ## TÍTULO SEXTO. DE LOS MEDIOS DE PREVENCIÓN Y DE REINSERCIÓN SOCIAL
 
-### CAPÍTULO IV. DEL RÉGIMEN DE TRATAMIENTO
+### CAPÍTULO I. DE LA PREVENCIÓN
 
 ###### Artículo 88.
 
@@ -1135,7 +1975,9 @@ Aplicación.
 
 El contenido del presente Título se aplicará a los sentenciados ejecutoriados y, en lo conducente, a los imputados de delito, entre quienes se promoverá su participación en los programas de trabajo, capacitación y educación, auxiliándose, para este fin, con las instituciones a que hace referencia el párrafo segundo del artículo 88 de esta Ley. Para tal efecto, le serán asignados al Sistema Estatal Penitenciario, conforme a la disponibilidad presupuestal que al efecto exista, los recursos necesarios para este fin.
 
-### CAPÍTULO V. DE LA DISCIPLINA EN EL INTERIOR DE LOS CENTROS DE REINSERCIÓN SOCIAL
+### CAPÍTULO II. DE LA REINSERCIÓN SOCIAL
+
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
 ###### Artículo 91.
 
@@ -1147,7 +1989,11 @@ La progresividad del régimen penitenciario consistirá en un proceso gradual y 
 
 En el primer período, el Consejo realizará los estudios de personalidad del interno en los aspectos médico, psicológico, psiquiátrico, educativo, criminológico, social y ocupacional y de vigilancia. Dicho estudio se realizará desde que el interno quede vinculado a proceso, enviando un ejemplar del estudio al órgano jurisdiccional que lo procesa.
 
-Durante el período de tratamiento se sujetará al sentenciado a las medidas que se consideren más adecuadas, así como a los programas técnicos y de reinserción social que implementen las autoridades penitenciarias.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Durante el período de tratamiento se sujetará al sentenciado a las medidas que se consideren más adecuadas, así como a los programas técnicos y de reinserción social que implementen las autoridades penitenciarias y la Dirección General.
 
 Las relaciones con el exterior consistirán en el acrecentamiento de la comunicación y convivencia de las personas internas con sus familiares y demás personas del exterior y las que resulten convenientes en cada caso, a juicio del Consejo Técnico Interdisciplinario.
 
@@ -1164,6 +2010,8 @@ Se consideran medios orientados a la reinserción social del sentenciado, el tra
 Tales medios serán requisitos indispensables para quienes deseen acogerse a los beneficios señalados en esta Ley.
 
 Excluyéndose de esta obligación a quienes por sus condiciones físicas, por prescripción médica o de salud mental, se encuentren imposibilitados para realizar alguna ocupación laboral.
+
+#### SECCIÓN SEGUNDA. DEL TRABAJO
 
 ###### Artículo 93.
 
@@ -1225,6 +2073,8 @@ Producto del trabajo.
 
 El producto del trabajo será destinado a cubrir las necesidades de quien lo desempeña y de sus dependientes económicos; así como a la formación de un fondo de ahorro que será entregado al momento de obtener su libertad, siempre y cuando, otorgue su consentimiento para ello.
 
+#### SECCIÓN TERCERA. DE LA CAPACITACIÓN
+
 ###### Artículo 98.
 
 Capacitación para el trabajo.
@@ -1236,6 +2086,8 @@ La capacitación para el trabajo deberá orientarse a desarrollar armónicamente
 La capacitación que se imparta será actualizada y, conforme a la disponibilidad presupuestal que al efecto exista, gratuita, de tal forma que pueda incorporar al interno a una actividad económica, social y culturalmente productiva.
 
 Para el fin señalado en el párrafo anterior, el Sistema Estatal Penitenciario contará con el apoyo de las instituciones creadas por el Gobierno del Estado, cuya finalidad es la promoción de la capacitación para el trabajo, la educación, la salud y el deporte; en el caso de la capacitación, ésta se brindará previo estudio de las características de la economía regional, atendiendo, desde luego, a la demanda de mano de obra requerida.
+
+#### SECCIÓN CUARTA. DE LA EDUCACIÓN
 
 ###### Artículo 99.
 
@@ -1255,17 +2107,23 @@ Con la aprobación del Consejo Técnico Interdisciplinario y el aval de la Secre
 
 Para el cumplimiento de los objetivos señalados en este (sic) artículos, la autoridad responsable de la operación de los Centros de Reinserción Social en el Estado, podrá suscribir los convenios necesarios con las dependencias de la Secretaría de Educación y Cultura encargadas de impartir la educación a los adultos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 100.
 
 Documentación oficial.
 
-La documentación de cualquier tipo que expidan los centros escolares de los establecimientos de reinserción social, no contendrá referencia o alusión alguna a estos últimos. Para tal efecto, las autoridades educativas expedirán los documentos en los términos que se convengan con la Coordinación General.
+La documentación de cualquier tipo que expidan los centros escolares de los establecimientos de reinserción social, no contendrá referencia o alusión alguna a estos últimos. Para tal efecto, las autoridades educativas expedirán los documentos en los términos que se convengan con la Dirección General.
 
 ###### Artículo 101.
 
 Programas inductivos a la reinserción.
 
 El Consejo Técnico de cada uno de los centros de reinserción social implementará programas tendientes a incorporar a los internos a las actividades laborales, de capacitación, educativos, recreativos y culturales.
+
+#### SECCIÓN QUINTA. DE LA SALUD DE LOS SENTENCIADOS INTERNOS
 
 ###### Artículo 102.
 
@@ -1301,7 +2159,11 @@ Las sentenciadas internas en los Centros Femeniles de Reinserción Social del Es
 
 En caso de estado de gravidez en los Centros femeniles se otorgará atención para el embarazo, parto y puerperio, así como de recién nacidos, y se establecerán las medidas de protección necesarias para salvaguardar la salud de ambos.
 
-Si existe complicación o si en el Centros de Reinserción Social no se cuenta con las instalaciones adecuadas para las sentenciadas o los recién nacidos, deberán ser trasladadas a una unidad médica del sector salud, bajo la vigilancia de la Dirección del Centro de Reinserción Social y las autoridades auxiliares que ésta determine.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Si existe complicación o si en el Centros de Reinserción Social no se cuenta con las instalaciones adecuadas para las sentenciadas o los recién nacidos, deberán ser trasladadas a una unidad médica del sector salud, bajo la vigilancia de la Dirección General y las autoridades auxiliares que ésta determine.
 
 ###### Artículo 105.
 
@@ -1329,11 +2191,15 @@ II. La higiene de los Centros de reinserción y de los sentenciados; y
 
 III. Las condiciones sanitarias, de iluminación y ventilación del Centro.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 108.
 
 Vigilancia de la salud.
 
-El médico del Centro de Reinserción Social deberá poner en conocimiento del Director, y éste a la Coordinación General de los casos de enfermedades transmisibles a que se refieren la Ley General de Salud y la Ley de Salud del Estado de Sonora, a fin de aplicar los procedimientos previstos para estos casos.
+El médico del Centro de Reinserción Social deberá poner en conocimiento del Director, y éste a la Dirección General de los casos de enfermedades transmisibles a que se refieren la Ley General de Salud y la Ley de Salud del Estado de Sonora, a fin de aplicar los procedimientos previstos para estos casos.
 
 ###### Artículo 109.
 
@@ -1361,11 +2227,15 @@ III. Procurar un ambiente psicológicamente adecuado entre el sentenciado y pers
 
 IV. Tomar las medidas necesarias cuando el estado emocional del sentenciado amenace su integridad física, la de terceros o la seguridad del Centro de Reinserción Social, previo informe de seguridad y custodia o del propio sentenciado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 112.
 
 Informes a las autoridades.
 
-Las áreas médicas, psicológicas y psiquiátricas deberán presentar por conducto de la Dirección del Centro de Reinserción Social los informes que les sean requeridos por las autoridades competentes y, en su caso proporcionar a éstas los elementos técnicos especializados en los casos que así lo solicite la autoridad judicial.
+Las áreas médicas, psicológicas y psiquiátricas deberán presentar por conducto de la Dirección General los informes que les sean requeridos por las autoridades competentes y, en su caso proporcionar a éstas los elementos técnicos especializados en los casos que así lo solicite la autoridad judicial.
 
 ###### Artículo 113.
 
@@ -1373,13 +2243,19 @@ Enfermos mentales.
 
 Al área de psiquiatría corresponderá detectar y tratar las enfermedades mentales y emocionales de los sentenciados, primordialmente cuando representen una amenaza para su propia integridad física, la de terceros o la seguridad de los Centros de Reinserción Social.
 
+#### SECCIÓN SEXTA. DE LAS ACTIVIDADES DEPORTIVAS Y RECREATIVAS
+
 ###### Artículo 114.
 
 Programas de acondicionamiento físico.
 
 Como parte del proceso de reinserción social el sentenciado está obligado a participar en los programas recreativos, culturales y deportivos; siempre y cuando su estado físico y sus condiciones de salud, o bien, por razones de seguridad del sentenciado o de otros internos así lo permita.
 
-Para la instrumentación de los programas y actividades físicas y deportivas, la Dirección del Centro de Reinserción Social, planificará, organizará y establecerá métodos, horarios y medidas de seguridad y custodia para la práctica de estas actividades, las cuales estarán reguladas por el reglamento respectivo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Para la instrumentación de los programas y actividades físicas y deportivas, la Dirección General, planificará, organizará y establecerá métodos, horarios y medidas de seguridad y custodia para la práctica de estas actividades, las cuales estarán reguladas por el reglamento respectivo.
 
 En el ámbito deportivo se establecerán programas de acondicionamiento físico, los cuales deberán cumplir dos funciones principales: el acondicionamiento físico preventivo y las actividades deportivas y recreativas.
 
@@ -1399,15 +2275,19 @@ III. El desarrollo de la interacción grupal, y revalorización de juegos de la 
 
 IV. El esparcimiento a través de actividades deportivas.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 116.
 
 Vínculos con otras instituciones.
 
-Con la finalidad de cumplir dicho objetivo la Coordinación General contará con la participación del Instituto Sonorense del Deporte y adicionalmente podrá establecer vínculos de participación con instituciones públicas y privadas en materia de deporte y recreación.
+Con la finalidad de cumplir dicho objetivo la Dirección General contará con la participación del Instituto Sonorense del Deporte y adicionalmente podrá establecer vínculos de participación con instituciones públicas y privadas en materia de deporte y recreación.
 
 ## TÍTULO SÉPTIMO. SISTEMA ESTATAL PENITENCIARIO
 
-### CAPÍTULO VI. COMUNICACIÓN Y RELACIONES CON EL EXTERIOR
+### CAPÍTULO I. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DE LOS CENTROS DE REINSERCIÓN SOCIAL
 
 ###### Artículo 117.
 
@@ -1467,7 +2347,11 @@ II. Psiquiátricos;
 
 III. De rehabilitación social; y
 
-IV. En las instituciones de rehabilitación psicosocial sólo se recluirá a los inimputables y enfermos psiquiátricos, de acuerdo con la asignación que determine el Juez de la causa tratándose de procesados o el Juez de Ejecución tratándose de sentenciados.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+IV. En las instituciones de rehabilitación psicosocial sólo se recluirá a los inimputables y enfermos psiquiátricos, de acuerdo con la asignación que determine el Juez de Control tratándose de procesados o el Juez de Ejecución tratándose de sentenciados.
 
 ###### Artículo 123.
 
@@ -1499,7 +2383,7 @@ Por ningún motivo se dará entrada a establecimientos penitenciarios para adult
 
 En consecuencia, los menores infractores deberán cumplir separadamente de los adultos en establecimientos distintos.
 
-### CAPÍTULO ÚNICO. DE LOS CONSEJOS TÉCNICOS INTERDISCIPLINARIOS
+### CAPÍTULO II. DEL INGRESO
 
 ###### Artículo 127.
 
@@ -1523,7 +2407,9 @@ El ingreso de alguna persona a cualquiera de los establecimientos penitenciarios
 
 I. Por resolución judicial;
 
-II. Por consignación de Agente del Ministerio Publico; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+II. (DEROGADA, B.O. 14 DE DICIEMBRE DE 2015)
 
 III. En ejecución de los convenios celebrados por el Ejecutivo Estatal.
 
@@ -1545,7 +2431,7 @@ V. Identificación fotográfica.
 
 La información contenida en el expediente quedará sujeta a las disposiciones de la Ley de Transparencia y Acceso a la Información Pública del Estado de Sonora, especialmente la de carácter confidencial
 
-### CAPÍTULO ÚNICO. DEL PERSONAL PENITENCIARIO
+### CAPÍTULO III. DE LOS TRASLADOS
 
 ###### Artículo 131.
 
@@ -1557,23 +2443,35 @@ Los traslados se efectuarán de forma que se respeten la dignidad y los derechos
 
 Todo procesado tiene derecho a comunicar inmediatamente a su familia y defensor, su traslado a otro establecimiento en el momento de ingresar en el mismo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 132.
 
 Traslado de sentenciados.
 
-La facultad de trasladar a los internos sentenciados ejecutoriadamente a otros Centros de Reinserción Social corresponde a la Coordinación General, con las modalidades siguientes:
+La facultad de trasladar a los internos sentenciados ejecutoriadamente a otros Centros de Reinserción Social corresponde a la Dirección General, con las modalidades siguientes:
 
 I. Si el traslado del sentenciado es voluntario, se tomarán en cuenta los motivos que el interno invoque, así como las condiciones generales del establecimiento al que se pretenda trasladar; y
 
-II. Si el traslado del sentenciado es necesario o urgente, la Coordinación General lo ejecutará, aún sin el consentimiento del interno, debiendo mediar una razón concreta o grave que lo justifique.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+II. Si el traslado del sentenciado es necesario o urgente, la Dirección General lo ejecutará, aún sin el consentimiento del interno, debiendo mediar una razón concreta o grave que lo justifique.
 
 Los traslados se efectuarán de forma que se respeten la dignidad y los derechos de los sentenciados y la seguridad de la conducción.
 
 Todo sentenciado tiene derecho a comunicar inmediatamente a su familia y defensor, su traslado a otro establecimiento en el momento de ingresar en el mismo.
 
-En los casos de traslado, la Dirección del Centro de Reinserción Social dará aviso inmediato al Juez de Ejecución para los efectos a que haya lugar.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-### CAPÍTULO ÚNICO. DE LAS INSTITUCIONES DE ASISTENCIA SOCIAL A LIBERADOS
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+En los casos de traslado, la Dirección General dará aviso inmediato al Juez de Ejecución para los efectos a que haya lugar.
+
+### CAPÍTULO IV. DEL RÉGIMEN DE TRATAMIENTO
 
 ###### Artículo 133.
 
@@ -1659,7 +2557,7 @@ Instituciones o asociaciones coadyuvantes.
 
 Para el fin de reinserción social de los internos en regímenes ordinario y abierto, se podrá solicitar la colaboración y participación de los ciudadanos y de instituciones o asociaciones públicas o privadas.
 
-### CAPÍTULO ÚNICO. CAUSAS DE EXTINCIÓN
+### CAPÍTULO V. DE LA DISCIPLINA EN EL INTERIOR DE LOS CENTROS DE REINSERCIÓN SOCIAL
 
 ###### Artículo 142.
 
@@ -1815,6 +2713,8 @@ Garantías procesales del interno.
 
 Ningún interno será sancionado sin ser previamente informado de la infracción que se le atribuye y sin que se le haya permitido presentar su defensa, verbal o escrita, salvo en los supuestos de la fracción III del artículo 146 de esta Ley.
 
+### CAPÍTULO VI. COMUNICACIÓN Y RELACIONES CON EL EXTERIOR
+
 ###### Artículo 151.
 
 Comunicación de los internos.
@@ -1825,7 +2725,11 @@ Estas comunicaciones se celebrarán de manera que se respete al máximo la intim
 
 Las comunicaciones de los internos con el defensor no podrán ser suspendidas.
 
-Las citadas comunicaciones quedarán sujetas a las disposiciones del Código de Procedimientos Penales.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Las citadas comunicaciones quedarán sujetas a las disposiciones del Código Nacional de Procedimientos Penales.
 
 ###### Artículo 152.
 
@@ -1840,6 +2744,8 @@ Visitas personales.
 Los establecimientos penitenciarios dispondrán de áreas especialmente adecuadas para las visitas personales, las que se concederán en los términos del Reglamento.
 
 ## TÍTULO OCTAVO. DE LOS CONSEJOS TÉCNICOS INTERDISCIPLINARIOS
+
+### CAPÍTULO ÚNICO. DE LOS CONSEJOS TÉCNICOS INTERDISCIPLINARIOS
 
 ###### Artículo 154.
 
@@ -1903,7 +2809,11 @@ III. Dictaminar y proponer el tratamiento a sentenciados, y determinar con base 
 
 IV. Vigilar que en el Centro de Reinserción Social se observen los lineamientos establecidos en materia penitenciaria en la normativa aplicable que dicte la Coordinación General y emitir opinión acerca de los asuntos del orden jurídico, técnico, administrativo, de seguridad o de cualquier otro tipo, relacionados con el funcionamiento del Centro de Reinserción social;
 
-V. Formular y emitir al Juez de Ejecución por conducto de la Coordinación General los dictámenes correspondientes respecto al otorgamiento del tratamiento de externación y beneficios penitenciarios;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+V. Formular y emitir al Juez de Ejecución por conducto de la Dirección General los dictámenes correspondientes respecto al otorgamiento del tratamiento de externación y beneficios penitenciarios;
 
 VI. Emitir criterios para regular el acceso de la visita familiar al Centro de Reinserción social y resolver sobre la autorización de ingreso o suspensión temporal o definitiva del mismo;
 
@@ -1913,7 +2823,11 @@ VIII. Autorizar la realización de jornadas extraordinarias de trabajo;
 
 IX. Hacer del conocimiento de la Coordinación General los aspectos relacionados con el funcionamiento administrativo, así como las irregularidades que se presenten;
 
-X. Emitir opinión al Juez de Ejecución por conducto de la Coordinación General sobre la procedencia o no de la externación temporal de un sentenciado ejecutoriado; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+X. Emitir opinión al Juez de Ejecución por conducto de la Dirección General sobre la procedencia o no de la externación temporal de un sentenciado ejecutoriado; y
 
 XI. Las demás que le confieran otros ordenamientos jurídicos y administrativos.
 
@@ -1924,6 +2838,8 @@ Reglamentación.
 El funcionamiento y operación del Consejo Técnico Interdisciplinario de los Centros será determinado en el Manual Específico de Operación de los Consejos Técnicos Interdisciplinarios de cada Centro.
 
 ## TÍTULO NOVENO. DEL PERSONAL PENITENCIARIO
+
+### CAPÍTULO ÚNICO. DEL PERSONAL PENITENCIARIO
 
 ###### Artículo 160.
 
@@ -1981,6 +2897,8 @@ Deberá establecerse en el reglamento respectivo un sistema de carrera penitenci
 
 ## TÍTULO DÉCIMO. DE LA ASISTENCIA POST-PENITENCIARIA
 
+### CAPÍTULO ÚNICO. DE LAS INSTITUCIONES DE ASISTENCIA SOCIAL A LIBERADOS
+
 ###### Artículo 167.
 
 Asistencia y atención a liberados y externados.
@@ -1994,6 +2912,8 @@ Patronato para la Reinserción Social del Estado.
 El Patronato para la Reinserción Social, dependiente de la Coordinación General, tiene por objeto prestar asistencia jurídica, económica, medica, social y laboral, a las personas que gocen de cualquiera de los beneficios previstos en esta Ley, o que hayan sido puestas en libertad definitiva.
 
 ## TÍTULO DÉCIMO PRIMERO. EXTINCIÓN DE LAS PENAS Y MEDIDAS DE SEGURIDAD
+
+### CAPÍTULO ÚNICO. CAUSAS DE EXTINCIÓN
 
 ###### Artículo 169.
 
@@ -2068,3 +2988,17 @@ GUILLERMO PADRES ELIAS
 EL SECRETARIO DE GOBIERNO
 
 ROBERTO ROMERO LÓPEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 14 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 18, QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE EJECUCIÓN DE SANCIONES PENALES Y MEDIDAS DE SEGURIDAD DEL ESTADO DE SONORA."]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor, previa su publicación en el Boletín Oficial del Estado de Sonora, en los términos establecidos en el artículo único del Decreto número 05, que Declara que el Código Nacional de Procedimientos Penales se incorpora al régimen jurídico del Estado de Sonora, publicado en el Boletín Oficial número 31, sección III, el día jueves 15 de octubre de 2015.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
