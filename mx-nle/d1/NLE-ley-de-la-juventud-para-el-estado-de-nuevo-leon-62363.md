@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-juventud-para-el-estado-de-nuevo-leon-62363"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-28"
-last_updated: "2014-11-28"
+last_updated: "2015-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEON
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE ENERO DE 2016 EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 28 de julio de 2008.
 
@@ -45,7 +47,9 @@ LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN
 
 Las disposiciones de esta Ley son de orden público, de interés social y de observancia general en el Estado de Nuevo León y su aplicación corresponde en el ámbito de su competencia al Ejecutivo estatal y los gobiernos municipales.
 
-La presente Ley tiene por objeto establecer principios rectores de las políticas públicas que contribuyan al desarrollo integral de los jóvenes, conforme a sus necesidades generales.
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Tiene por objeto establecer principios rectores de las políticas públicas que contribuyan al desarrollo integral de los jóvenes, conforme a sus necesidades generales y principalmente garantizar el ejercicio de los derechos de éstos así como impulsar su desarrollo integral.
 
 ###### Artículo 2.
 
@@ -67,43 +71,83 @@ IV. Juventud: al conjunto de las y los jóvenes;
 
 V. Instituto: al Instituto Estatal de la Juventud del Estado de Nuevo León;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
-VI. Programa: al Programa Estatal de la Juventud, y
+VI. Programa: al Programa Estatal de la Juventud;
 
-> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
-VII. Institutos: a los Institutos Municipales u a los órganos encargados de la juventud en los municipios.
+VII. Institutos: a los Institutos Municipales o a los órganos encargados de la juventud en los municipios;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+VIII. Derechos de los jóvenes: los reconocidos, en la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales en que el Estado Mexicano sea parte, en esta Ley y en los demás ordenamientos jurídicos vigentes; y
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+IX. Desarrollo Integral: El proceso sistemático económico, social, cultural y político que garantiza el mejoramiento constante del bienestar de toda la población, sobre las bases de la participación activa, libre y significativa en el desarrollo y la distribución justa de los beneficios que de él deriven;
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 3.
 
-Son principios rectores en la observancia, interpretación y aplicación de esta Ley, los siguientes:
+Para garantizar el cumplimiento de los derechos reconocidos a los jóvenes en esta Ley (sic) observarán los siguientes principios:
 
-I. La igualdad de oportunidades para los jóvenes;
+I. Corresponsabilidad: deberá involucrar a los miembros de la familia, a los jóvenes, al gobierno y a los demás sectores de la sociedad en la resolución de los problemas que aquejan a la juventud;
 
-II. La no discriminación de los jóvenes;
+II. Equidad: en el acceso y disfrute de los derechos para el desarrollo integral de los jóvenes;
 
-III. La concurrencia de los diferentes órdenes de gobierno en sus respectivos ámbitos de competencia en la atención integral de la juventud;
+III. Igualdad: Los jóvenes pueden acceder al desarrollo integral en igualdad de condiciones;
 
-IV. La participación libre y democrática de los jóvenes en los procesos de toma de decisiones que afecten su entorno; y
+IV. Inclusión: las políticas públicas tomarán en cuenta las (sic) diversidad de los grupos que integran al sector de los jóvenes;
 
-V. La inclusión de los jóvenes en el proceso de desarrollo político, económico, social y cultural.
+V. No discriminación: motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas;
+
+VI. Participación: las políticas públicas en materia de juventud serán diseñadas e implementadas con la participación de este sector;
+
+VII. Respeto: reconocimiento a la diversidad cultural y de pensamiento;
+
+VIII. Solidaridad: deberá fomentarse el apoyo y la colaboración entre los jóvenes y en sus relaciones con otros grupos sociales, con la finalidad de fortalecer los vínculos de unidad y de desarrollo;
+
+IX. Transversalidad: que consiste en la elaboración y ejecución de estrategias, programas y acciones coordinadas o conjuntas en materia de juventud, entre dependencias y entidades de la Administración Pública Federal, órganos constitucionales autónomos, órganos con autonomía legal, gobierno del Estado, y de los Municipios, en el ámbito de sus respectivas competencias.
+
+En el ejercicio de la transversalidad además del Estado y los Municipios, se buscará la participación de los sectores privado y social; y
+
+X. Universalidad: Todos los jóvenes gozan de los mismos derechos. Se buscará invariablemente el beneficio de la generalidad de los jóvenes, sin exclusión ni discriminación alguna motivada por cualquiera de los actos a que se refiere este artículo;
 
 ### CAPÍTULO II. DE LAS OBLIGACIONES
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 4.
 
-Es deber de los jóvenes respetar y vigilar el cumplimiento de la Constitución Política de los Estados Unidos Mexicanos y las leyes que de ella emanen, en concordancia con el respeto irrestricto de los derechos de los demás grupos y segmentos de la sociedad, así como, asumir el proceso de su propia formación, a través de la convivencia pacífica, la tolerancia, la democracia y el compromiso social.
+La juventud de Nuevo León tiene las siguientes obligaciones:
+
+I. Respetar y vigilar el cumplimiento de la Constitución Política de los Estados Unidos Mexicanos y las leyes que de ella emanen, en concordancia con el respeto irrestricto de los derechos de los demás grupos y segmentos de la sociedad;
+
+II. Asumir el proceso de su propia formación, a través de la convivencia pacífica, la tolerancia, la democracia y el compromiso social;
+
+III. Actuar con respeto hacia los derechos de las personas, grupos y segmentos de la sociedad a través de la cultura de la paz, la tolerancia, la democracia y el compromiso social;
+
+IV. Procurar y promover el cuidado y protección de los espacios públicos;
+
+V. Procurar y promover las acciones necesarias para el mejoramiento de las condiciones de vida en la entidad; y
+
+VI. Participar y procurar mantenerse informada de la toma de decisiones del Instituto y de instancias correspondientes que involucren temas de juventud.
 
 ### CAPÍTULO III. DE LOS DERECHOS DE LOS JÓVENES
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 5.
 
-Los derechos y garantías de los jóvenes, son inherentes a la condición de persona, y por consiguiente, son de orden público, indivisible e irrenunciable. Los jóvenes gozarán, sin restricción alguna, del derecho a la protección efectiva del Estado para el ejercicio y defensa de los derechos consagrados en esta Ley.
+Los derechos y garantías de los jóvenes, son inherentes a la condición de persona, y por consiguiente, son de orden público, indivisibles e irrenunciables. Los jóvenes gozarán, sin restricción alguna, del derecho a la protección efectiva del Estado para el ejercicio y defensa de los derechos consagrados en esta Ley, así como los derechos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, Constitución Política del Estado Libre y Soberano de Nuevo León, Tratados Internacionales de los que México sea parte, leyes, reglamentos y demás ordenamientos jurídicos vigentes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 6.
 
-Se consideran derechos de los jóvenes los siguientes:
+La presente Ley establece de manera enunciativa y no limitativa los derechos de la juventud que deberán estar garantizados por el Estado y las Dependencias competentes a las que se refiere este ordenamiento, siendo los siguientes:
 
 l. El derecho a la vida;
 
@@ -121,19 +165,57 @@ VII. El derecho a un trabajo digno;
 
 VIII. El derecho al descanso y tiempo de esparcimiento;
 
-IX. El derecho a la libertad de pensamiento, opinión y a una cultura propia;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
-X. El derecho a participar;
+IX. El derecho a la libertad de pensamiento, opinión, creencias y a una cultura propia;
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+X. El derecho a participar y ser escuchado;
 
 XI. El derecho al bienestar social;
 
-XII. El derecho a la información;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
-XIII. El derecho a la organización juvenil;
+XII. El derecho de acceso a la información;
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+XIII. El derecho a la libre asociación y organización juvenil;
 
 XIV. El derecho de acceso y disfrute de los servicios y beneficios socio-económicos, políticos, culturales, informativos, de desarrollo y de convivencia que les permitan construir una vida Plena en el Estado; y
 
-XV. Los demás que señale esta Ley y otros ordenamientos.
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+XV. El derecho de Acceso a la procuración e impartición de Justicia.
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+XVI. El derecho a contar con espacios públicos para ser utilizados en el desarrollo integral de los jóvenes;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+XVII. El derecho al honor, intimidad y propia imagen;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+XVIII. El Derecho a formar parte de una familia;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+XIX. El derecho de igualdad de género;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+XX. El Derecho de libertad de expresión;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+XXI. El Derecho de cultura y deporte;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+XXII. Los demás que señale esta Ley y otros ordenamientos.
 
 ###### Artículo 7.
 
@@ -149,27 +231,31 @@ III. Promover programas de financiamiento bajo supervisión, que permitan a los 
 
 IV. Generar oportunidades laborales que no afecten la educación, salud y dignidad de los jóvenes;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
-V. Garantizar la no discriminación en el empleo a las jóvenes embarazadas o en período de lactancia, y
+V. Garantizar la no discriminación en el empleo a las jóvenes embarazadas o en período de lactancia; así como a las y los jóvenes por su apariencia, raza, origen étnico, creencias, discapacidad, preferencias sexuales o cualquier otra; y
 
 VI. Promover convenios de colaboración con instituciones públicas y privadas para fomentar las pasantías remuneradas, vinculadas a la formación profesional de los jóvenes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, 14 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 8.
 
-El Ejecutivo promoverá a través de las instancias correspondientes el empleo y programas que contribuyan a la capacitación laboral de los jóvenes, y el apoyo al desarrollo de proyectos productivos juveniles, con énfasis de impulso a proyectos de jóvenes emprendedores que habitan en zonas de marginación rural o urbana y de atención prioritaria y desventaja social.
+El Ejecutivo promoverá a través de las instancias correspondientes en coordinación con el Instituto, programas que contribuyan a la capacitación laboral de los jóvenes, y el apoyo económico y logístico para el desarrollo de proyectos productivos juveniles.
 
-Así como la creación de una bolsa de trabajo en la que se incluyan a los jóvenes no importando su escolaridad, e impulsará la generación de micro y pequeña empresa con apoyo de organismos públicos y privados.
+> <small>(REFORMADO, 14 DE DICIEMBRE DE 2015)</small>
+
+Así como la creación de una bolsa de trabajo en la que se incluyan a los jóvenes no importando su escolaridad, e impulsará la generación de micro, pequeña empresa y la creación de incubadoras y aceleradoras de negocios con apoyo de organismos públicos y privados.
 
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2010)</small>
 
 Asimismo, establecer estímulos e incentivos para la contratación de jóvenes de primer empleo, conforme a esta Ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 9.
 
-Los jóvenes deberán contar con oportunidades que les permitan desarrollarse en un medio equitativo para incorporarse al crecimiento del Estado.
+Los jóvenes deberán contar con oportunidades que les permitan desarrollarse en un medio equitativo para incorporarse al crecimiento económico y social del Estado.
 
 El ejecutivo a través del Instituto y los órganos encargados de la juventud proveerán lo necesario para el cumplimiento de lo dispuesto en el presente artículo.
 
@@ -177,9 +263,11 @@ El ejecutivo a través del Instituto y los órganos encargados de la juventud pr
 
 El Estado impulsará y apoyará la creación de infraestructura y niveles educativos de calidad que permita a los jóvenes contar con instituciones educativas que propicien el pleno desarrollo de sus potenciales.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 11.
 
-En los programas educativos se debe dar especial énfasis a la información y prevención con relación a las diferentes temáticas y problemáticas de la juventud del Estado, en particular en temas como la ecología, la participación ciudadana, los valores, las adicciones, la sexualidad, Síndrome De Inmunodeficiencia Adquirida, problemas psico-sociales, entre otros.
+En los programas educativos se debe dar especial énfasis a la información y prevención con relación a las diferentes temáticas y problemáticas de la juventud del Estado, en particular en temas como el cuidado del medio ambiente, la participación ciudadana, los valores, las adicciones, la sexualidad responsable, VIH/SIDA, problemas psico-sociales, el sedentarismo, y los trastornos alimenticios entre otros.
 
 ###### Artículo 12.
 
@@ -195,9 +283,13 @@ II. Promover una educación que favorezca el talento y creatividad de los jóven
 
 III. Fomentar los valores nacionales y cívicos;
 
-IV. Promover la creación de centros que fomenten la capacitación en diversas áreas de la ciencia, las artes y la cultura;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
-V. Promover la educación basada en los valores que fomenten el respeto hacia las personas;
+IV. Promover y asignar un presupuesto para la creación de centros que fomenten la capacitación en diversas áreas de la ciencia, las artes, oficios y la cultura;
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+V. Promover y crear programas para instrumentar una educación basada en los valores que fomenten el respeto hacia las personas, así como construir una cultura de paz y no violencia;
 
 VI. Fomentar el conocimiento y respeto a la diversidad étnica y cultural;
 
@@ -209,7 +301,9 @@ IX. Fomentar el hábito del deporte en los jóvenes;
 
 X. Prevenir, sancionar y erradicar todas las formas y prácticas de violencia en la educación;
 
-XI. Fomentar el apoyo de becas a todos los niveles y en especial a los jóvenes de escasos recursos y en condiciones de vulnerabilidad;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+XI. Fomentar, generar y otorgar becas mediante mecanismos que garanticen que estas llegarán a sectores más vulnerables;
 
 XII. Promover las prácticas profesionales en los sectores públicos y privados que coadyuven a fortalecer los conocimientos de los jóvenes en las áreas de su interés;
 
@@ -217,9 +311,9 @@ XII. Promover las prácticas profesionales en los sectores públicos y privados 
 
 XIII. Promover en los medios de comunicación mensajes educativos y de reconocimiento de los derechos y obligaciones de los jóvenes;
 
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
-XIV. Facilitar la inserción de los jóvenes en los proyectos de desarrollo cultural; y
+XIV. Facilitar la inserción de los jóvenes en los proyectos de desarrollo cultural y social; y
 
 > <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2013)</small>
 
@@ -231,15 +325,17 @@ El titular del Ejecutivo Estatal garantizara su cumplimiento dentro de los prime
 
 En caso de empate se determinará al ganador mediante procedimiento público de insaculación que realice el Instituto.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 14.
 
-El Ejecutivo promoverá a través de las instancias correspondientes políticas y establecerá los mecanismos necesarios que permitan a los jóvenes el acceso a los servicios de salud que dependan del Gobierno.
+El Ejecutivo promoverá a través de las instancias correspondientes en coordinación con el Instituto, las políticas y establecerá los mecanismos necesarios que permitan a los jóvenes el acceso a los servicios de salud que dependan del Gobierno.
 
 ###### Artículo 15.
 
 Las políticas y programas de fomento a la salud, tendrán por objeto:
 
-l. Garantizar la atención médica para todos los jóvenes a través de los organismos correspondientes, creando programas especiales para aquellos que no sean derechohabientes, y se encuentren en condiciones de vulnerabilidad, con problemas de alcoholismo, fármacodependencia, problemas psicológicos e infecciones de transmisión sexual;
+I. Garantizar la atención médica para todos los jóvenes a través de los organismos correspondientes, creando programas especiales para aquellos que no sean derechohabientes, y se encuentren en condiciones de vulnerabilidad, con problemas de alcoholismo, fármacodependencia, problemas psicológicos e infecciones de transmisión sexual;
 
 II. Promover campañas de prevención de adicciones, de orientación de salud sexual y reproductiva y detección oportuna de enfermedades;
 
@@ -253,25 +349,35 @@ VI. Promover en general la atención integral de la salud; y
 
 VII. Promover que los responsables de los Centros de Salud, hospitales, Centros Quirúrgicos públicos o privados, brinden asistencia inmediata a los jóvenes lesionados o enfermos en caso de urgencia.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 16.
 
-El Ejecutivo promoverá a través de las instancias correspondientes políticas y establecerá mecanismos que permitan el acceso expedito de los jóvenes a los servicios de información, orientación y atención relacionados con el ejercicio de sus derechos sexuales reproductivos, y desarrollará acciones que divulguen información referente a temáticas de salud prioritarias para los jóvenes, como adicciones, enfermedades de transmisión sexual, nutrición, salud pública, entre otras.
+El Ejecutivo promoverá a través del Instituto y las instancias correspondientes políticas y establecerá mecanismos que permitan el acceso expedito de los jóvenes a los servicios de información, orientación y atención relacionados con el ejercicio de sus derechos sexuales reproductivos, y desarrollará acciones que divulguen información referente a temáticas de salud prioritarias para los jóvenes, como adicciones, enfermedades de transmisión sexual, nutrición, salud pública, entre otras.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 17.
 
-El Ejecutivo promoverá a través de las instancias correspondientes la promoción de las expresiones culturales de los jóvenes del Estado, y el intercambio cultural a nivel nacional e internacional.
+El Ejecutivo promoverá a través del Consejo para la Cultura y las Artes de Nuevo León en coordinación con el Instituto y las instancias correspondientes la promoción de las expresiones culturales de los jóvenes del Estado, y el intercambio cultural a nivel nacional e internacional.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 18.
 
-El Ejecutivo promoverá a través de las instancias correspondientes programas tendientes a crear un espacio dedicado a los jóvenes para promover y garantizar sus expresiones culturales.
+El Ejecutivo promoverá a través de (sic) Consejo para la Cultura y las Artes de Nuevo León en coordinación con el Instituto e instancias correspondientes programas tendientes a crear un espacio dedicado a los jóvenes para promover y garantizar sus e presiones (sic) culturales.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 19.
 
-El Ejecutivo promoverá a través de las instancias correspondientes, el acceso a las diferentes formas, prácticas y modalidades de recreación de acuerdo a los intereses de los jóvenes.
+El Ejecutivo promoverá a través de las instancias correspondientes, en coordinación con el Instituto el acceso a las diferentes formas, prácticas y modalidades de recreación de acuerdo a los intereses de los jóvenes.
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 20.
 
-El Ejecutivo promoverá a través de las instancias correspondientes, la práctica del deporte juvenil mediante un sistema de promoción y apoyo para iniciativas deportivas.
+El Ejecutivo promoverá a través del Instituto de la Cultura Física y Deporte de Nuevo León en coordinación con el Instituto, e instancias correspondientes la práctica del deporte juvenil mediante un sistema de promoción y apoyo para iniciativas deportivas.
 
 ###### Artículo 21.
 
@@ -313,9 +419,11 @@ Los jóvenes tienen el derecho a ser informados debidamente acerca de los efecto
 
 Los jóvenes tienen derecho a disfrutar de un medio ambiente sustentable que respalde su desarrollo físico y mental.
 
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 27.
 
-El Ejecutivo promoverá a través de las instancias correspondientes una cultura que permita la conservación, vigilancia y uso responsable de los recursos naturales, en la que participen los jóvenes.
+El Ejecutivo promoverá a través de las instancias correspondientes en coordinación con el Instituto una cultura que permita la conservación, sustentabilidad, vigilancia y uso responsable de los recursos naturales, en la que participen los jóvenes.
 
 ###### Artículo 28.
 
@@ -327,23 +435,39 @@ Los jóvenes tienen derecho a vivir esta etapa de su vida con calidad, creativid
 
 Los jóvenes en situaciones de desventaja social, como pobreza, indigencia, situación de calle, analfabetismo, discapacidad, privación de la libertad, exclusión social y étnica, entre otras, tiene derecho a reinsertarse e integrarse plenamente a la sociedad y a ser sujetos de derechos y oportunidades que les permitan acceder a servicios y beneficios sociales que mejoren su calidad de vida.
 
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+El Estado asignará en cada ejercicio Fiscal, los recursos y medios que sean necesarios para garantizar este derecho.
+
 ###### Artículo 30.
 
 Son derechos de los jóvenes con discapacidad, los siguientes:
 
-l. Acceder en igualdad a la capacitación laboral y su incorporación a la vida productiva;
+I. Acceder en igualdad a la capacitación laboral y su incorporación a la vida productiva;
 
 II. Contar con el apoyo del Instituto, del Tribunal Superior de Justicia del Estado, de la Comisión Estatal de Derechos Humanos y demás entidades estatales y municipales en lo relativo a la garantía, ejercicio y respeto de sus derechos;
 
-III. Desplazarse libremente y con seguridad en los espacios públicos y en el transporte de pasajeros; y
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+III.- Desplazarse libremente y con seguridad en los espacios públicos y en el transporte de pasajeros;
 
 IV. Recibir educación libre de barreras culturales y sociales.
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+V.- Los demás derechos reconocidos en esta Ley y otros ordenamientos vigentes.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Así mismo el Estado y los municipios deben asignar en cada ejercicio fiscal, los recursos y medios que sean necesarios para garantizar que los jóvenes con discapacidad puedan desplazarse libremente y con seguridad en los espacios públicos.
 
 ###### Artículo 31.
 
 Son derechos de los jóvenes en situación de calle, los siguientes:
 
-I. Ser protegidos de los riesgos de la calle y recibir la atención y orientación especial de los responsables de la seguridad pública;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+I. Ser protegidos de los riesgos de la calle y recibir la atención y orientación especial en problemáticas sociales por parte de los organismos responsables de la seguridad pública;
 
 II. Recibir orientación de las instituciones públicas o privadas que atienda esta problemática, para solucionar sus problemas de sobrevivencia, seguridad personal y, salvaguarda de sus derechos que rebasen sus capacidades propias de solución;
 
@@ -351,9 +475,21 @@ III. Tener acceso a los servicios de educación y a la capacitación para el tra
 
 IV. Recibir información y orientación para la protección de sus derechos;
 
-V. Recibir información respecto de los programas de desarrollo social y humano; así como a ser sujetos y beneficiarios preferentemente de las políticas, programas y acciones que se implementen en esta materia, y
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
-VI. Los demás que contribuyan a su desarrollo armónico e integral.
+V. Recibir información respecto de los programas de desarrollo social y humano; así como a ser sujetos y beneficiarios preferentemente de las políticas, programas y acciones que se implementen en esta materia;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+VI. Hacer uso de las manifestaciones culturales de su preferencia, en los espacios establecidos para ello;
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+VII. Recibir apoyo y orientación para la realización de trámites administrativos y legales; y
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+VIII. Los demás que contribuyan a su desarrollo armónico e integral.
 
 ###### Artículo 32.
 
@@ -362,6 +498,10 @@ Los jóvenes víctimas de pornografía, y prostitución, deberán ser canalizado
 ###### Artículo 33.
 
 Los jóvenes adictos a sustancias que producen dependencia, tienen derecho a tratamientos tendientes a su rehabilitación. Los directores, maestros de las instituciones educativas, así como los-padres de familia que detecten entre la población escolar casos de posesión, tráfico o consumo de sustancias tóxicas, estarán obligados a informar a las autoridades competentes.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+El Estado a través de la Secretaría de Salud estará obligado a brindar apoyo, asesoría, canalización o becas para tratamientos para los jóvenes adictos a sustancias que producen dependencia, así como de ludópatas o de cualquier otro tipo de adicción para de esta forma buscar su recuperación y reinserción.
 
 En ningún caso los jóvenes rehabilitados, podrán ser privados del acceso a las instituciones educativas en donde realizan sus estudios.
 
@@ -390,6 +530,8 @@ IV. Los jóvenes con discapacidades; y
 V. Los jóvenes con Síndrome de Inmunodeficiencia Adquirida.
 
 ### CAPÍTULO VI. DE LOS INSTITUTOS MUNICIPALES DE LA JUVENTUD
+
+> <small>(REFORMADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 36.
 
@@ -427,9 +569,13 @@ d) Fomentar la contratación de jóvenes a fin de que adquieran conocimientos pr
 
 VII. Sistema de becas e intercambios académicos nacionales y extranjeros que promuevan, apoyen y fortalezcan el desarrollo educativo de los jóvenes;
 
-VIII. Lineamientos y acciones que permitan generar y divulgar información referente a temáticas de salud de interés y prioritarias para la juventud, como las adicciones, Síndrome de Inmunodeficiencia Adquirida, infecciones de transmisión sexual, nutrición y salud pública y comunitaria;
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
-IX. Acciones para prevenir y atender el tabaquismo, el alcoholismo y la drogadicción;
+VIII. Lineamientos y acciones que permitan generar y divulgar información referente a temáticas de salud de interés y prioritarias para la juventud, como las adicciones, VIH/SIDA, infecciones de transmisión sexual, nutrición y salud pública y comunitaria;
+
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+IX. Acciones para prevenir y atender el tabaquismo, el alcoholismo, ludopatía y la drogadicción;
 
 X. Acciones para la creación de espacios deportivos y culturales dedicado (sic) a los jóvenes;
 
@@ -449,15 +595,61 @@ XVI. Acciones que impulsen la organización juvenil autónoma, democrática y co
 
 XVII. La creación, promoción y apoyo de un sistema de información que permita a los jóvenes del Estado obtener, procesar, intercambiar y difundir información actualizada de interés para los entornos juveniles;
 
-> <small>(REFORMADA, P.O. 30 DE MARZO DE 2010)</small>
+(REFORMADA, P.O. 14 DE DICIEMBRE DE 2015
 
-XVIII. Programas, acciones y mecanismos para que los jóvenes con discapacidad puedan llegar a ser autosuficientes, cuyo objetivo sea su participación activa en la comunidad y a la vez garanticen el impulso de sus proyectos innovadores y emprendedores; y
+XVII (SIC). Programas, acciones y mecanismos para que los jóvenes con discapacidad puedan llegar a ser autosuficientes, cuyo objetivo sea su participación activa en la comunidad y a la vez garanticen el impulso de sus proyectos innovadores y emprendedores;
 
-XIX. Lineamientos que permitan asegurar el cuidado y asistencia que se solicite para el joven con discapacidad, tomando en cuenta la situación económica de sus padres o de quienes ejerzan la patria potestad o custodia.
+> <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+XIX. Lineamientos que permitan asegurar el cuidado y asistencia que se solicite para el joven con discapacidad, tomando en cuenta la situación económica de sus padres o de quienes ejerzan la patria potestad o custodia; y
+
+> <small>(ADICIONADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+XX. Todos los demás contemplados por esta Ley y que sean necesarios para el desarrollo y bienestar de la juventud.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 37 Bis.
+
+Las instituciones gubernamentales a las que se refiere la presente Ley implementarán periódicamente campañas de difusión de los derechos de la juventud, en el ámbito de su competencia.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 37 Bis 1.
+
+El Programa Estatal de la Juventud dentro de sus lineamientos debe contemplar mecanismos para el estudio, la sistematización, la promoción y el fortalecimiento de las diferentes identidades juveniles que coexisten en la ciudad.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 37 Bis 2.
+
+Todos los programas, acciones y actividades implementadas por las instancias gubernamentales deberán ser medibles y deberán contar con un registro anual de resultados y metas trazadas, el cual podrá ser consultado por el público en general en el portal de gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 37 Bis 3.
+
+El Instituto deberá realizar la elaboración, evaluación y actualización del Programa Estatal de Juventud cada tres años, debiéndose publicar en el Periódico Oficial del Estado.
+
+### CAPÍTULO VII. DE LAS SANCIONES
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 38.
 
-Los Municipios que conforman el Estado de Nuevo León, con base en sus atribuciones promoverán la creación de un Instituto Municipal de la Juventud o de Unidades Administrativas encargadas de la juventud en los municipios, dentro de su estructura, cuyo propósito es el de asesorar y auxiliar al Ayuntamiento en la fijación, instrumentación y evaluación de la política de la juventud en el Municipio, tomando en consideración las bases generales que establezca el Programa Estatal de la Juventud.
+Los Municipios que conforman el Estado de Nuevo León, con base en sus atribuciones promoverán la creación de un Instituto Municipal de la Juventud o de Unidades Administrativas encargadas de la juventud en los municipios, dentro de su estructura, cuyo propósito es el de elaborar implementar y evaluar las políticas públicas en materia de juventud en el municipio a través del programa municipal de juventud tomando en consideración las bases generales que establezca el Programa Estatal de la Juventud.
+
+> <small>(ADICIONADO, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 39.
+
+Los municipios podrán participar en la elaboración, revisión y seguimiento del Programa Estatal de la Juventud.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 40.
+
+El incumplimiento de esta Ley será sancionado de acuerdo a la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Nuevo León y la reglamentación aplicable.
 
 ## TRANSITORIO
 
@@ -496,3 +688,9 @@ P.O. 26 DE JUNIO DE 2013.
 P.O. 28 DE NOVIEMBRE DE 2014.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 14 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 021. POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN”.]
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
