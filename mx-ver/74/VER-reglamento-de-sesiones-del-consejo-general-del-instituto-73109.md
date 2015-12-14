@@ -4,7 +4,7 @@ identifier: "VER-reglamento-de-sesiones-del-consejo-general-del-instituto-73109"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-15"
-last_updated: "2012-11-15"
+last_updated: "2015-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73109&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 REGLAMENTO DE SESIONES DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL VERACRUZANO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 15 DE NOVIEMBRE DE 2012.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO TERCERO DEL REGLAMENTO DE SESIONES DEL CONSEJO GENERAL DEL ORGANISMO PÚBLICO LOCAL ELECTORAL DEL ESTADO DE VERACRUZ, PUBLICADO EN LA G.O. DE 14 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE DICIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el lunes 15 de febrero de 2010.
 
@@ -191,7 +193,7 @@ V. Solicitar la inclusión de puntos de acuerdo en el Orden del Día de las sesi
 
 VI. Solicitar por escrito al Consejo, por conducto de la Presidencia, la interpretación y aplicación de los preceptos legales en la materia;
 
-VII. Solicitar por escrito la certificación de la documentación que se requiera para el cumplimiento de sus obligaciones o en forma verbal durante el desarrollo de la sesión; y, (sic)
+VII. Solicitar por escrito la certificación de la documentación que se requiera para el cumplimiento de sus obligaciones o en forma verbal durante el desarrollo de la sesión; y,
 
 VIII. Acreditar por escrito a un representante por única ocasión para que asista a las sesiones del Consejo, previa la autorización del órgano competente del partido y,
 
@@ -530,3 +532,15 @@ G.O. 15 DE NOVIEMBRE DE 2012.
 Artículo primero. Las reformas al presente Reglamento entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que se opongan al presente Reglamento.
+
+G.O. 14 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO GENERAL, POR EL QUE SE APRUEBA EL REGLAMENTO DE SESIONES DEL OPLE”.]
+
+Artículo primero. El presente Reglamento entrará en vigor y surtirá efectos al día siguiente de su aprobación por el Consejo General.
+
+Artículo segundo. Publíquese en la Gaceta Oficial del estado de Veracruz.
+
+Artículo tercero. Se abroga el Reglamento de Sesiones del Consejo General del Instituto Electoral Veracruzano aprobado en sesión del Consejo General el veintinueve de octubre de dos mil doce.
+
+Artículo cuarto. Se derogan las disposiciones, de menor jerarquía, que se opongan al presente Reglamento.
