@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-desarrollo-de-fraccionamientos-condominios-57386"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-10-29"
-last_updated: "2010-12-09"
+last_updated: "2015-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 REGLAMENTO DE DESARROLLO DE FRACCIONAMIENTOS, CONDOMINIOS, DESARROLLOS ESPECIALES Y SUBDIVISIONES PARA EL MUNICIPIO DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 9 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 14 DE DICIEMBRE DE 2015.
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 29 de octubre de 2007.
 
@@ -530,6 +530,12 @@ VIII. Para cerrar vías públicas mediante elementos fijos o semifijos, los que 
 IX. Para invadir con estacionamiento para vehículos, edificaciones, elementos fijos o semifijos, las áreas comunes de circulación peatonal, áreas recreativas en fraccionamientos, subdivisiones y desarrollos especiales; y
 
 X. Para la instalación de mobiliario urbano y anuncios contrarios a lo establecido en este Reglamento.
+
+[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DE LA REFORMA QUE MODIFICA ESTE ORDENAMIENTO
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 14 DE DICIEMBRE DE 2015)</small>
+
+La Secretaría podrá permitir a una organización vecinal cerrar algunas vías públicas de un fraccionamiento, subdivisión, barrio, colonia o sector de un centro de población por cuestiones de seguridad y funcionalidad, instalando casetas o mobiliario, sin que ello impida en ningún momento el libre tránsito de personas o vehículos sino únicamente el acceso y la salida controlados, lo cual se regulará por el Reglamento de las Urbanizaciones Cerradas del Municipio de Aguascalientes.
 
 ###### ARTÍCULO 26.
 
@@ -2798,3 +2804,21 @@ El Secretario del H. Ayuntamiento y Director General de Gobierno.- M. en D. Gabr
 P.O. 9 DE DICIEMBRE DE 2010.
 
 EL DECRETO DE REFORMAS CON ANTELACION CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACION CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERAN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACION DE LAS NORMAS PREVISTAS EN EL ARTICULO 3o. DEL CODIGO CIVIL VIGENTE PARA EL ESTADO DE AGUASCALIENTES.
+
+P.O. 14 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DE LA REFORMA AL "REGLAMENTO DE DESARROLLO DE FRACCIONAMIENTOS, CONDOMINIOS, DESARROLLOS ESPECIALES Y SUBDIVISIONES Y REGLAMENTO DE URBANIZACIONES CERRADAS DEL MUNICIPIO DE AGUASCALIENTES”.]
+
+PRIMERO.- El presente Reglamento de las Urbanizaciones Cerradas del Municipio de Aguascalientes, iniciará su vigencia el 1 de enero del año 2016.
+
+SEGUNDO.- Se derogan todas las disposiciones reglamentarias que contravengan el presente Reglamento.
+
+TERCERO.- El presente Reglamento se aplicará únicamente para los fraccionamientos, subdivisiones o sectores que hubieran sido autorizados por las autoridades competentes, hasta antes del inicio de vigencia del mismo.
+
+CUARTO.- Se otorga a los colonos de fraccionamientos, colonias, barrios, subdivisiones o sectores ubicados en el Municipio de Aguascalientes que no cuenten con el permiso de urbanización cerrada, un plazo 150 días naturales, contado a partir del inicio de vigencia del presente Reglamento, para que tramiten y obtengan en su caso la regularización del funcionamiento de sus controles de acceso.
+
+Para efecto de que se regularicen esos fraccionamientos, colonias, barrios, subdivisiones o sectores, la Secretaria deberá tomar en cuenta las condiciones de las casetas de control, mobiliario, equipamiento urbano o cualquier otro elemento que se hubiera instalado y construido, a efecto de que en la medida de lo posible cumplan con la regularización referida.
+
+Los colonos de los fraccionamientos, colonias, barrios, subdivisiones o sectores que no obtengan de la Secretaria de Desarrollo Urbano del Municipio de Aguascalientes por regularización el permiso de urbanización cerrada, deberán retirar las casetas de control, mobiliario y equipamiento urbano respectivo, dentro del plazo legal que les otorgue la Secretaria, el cual no podrá ser mayor a 90 días naturales contados a partir de la notificación correspondiente.
+
+QUINTO.- Es facultad de la Secretaría de Desarrollo Urbano del Municipio de Aguascalientes, realizar la regularización de los fraccionamientos, colonias, barrios, subdivisiones o sectores, conforme a lo señalado en el artículo anterior y en el presente Reglamento.
