@@ -4,7 +4,7 @@ identifier: "VER-reglamento-de-comisiones-del-consejo-general-del-instituto-5360
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-01-08"
-last_updated: "2012-11-15"
+last_updated: "2015-12-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53604&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 REGLAMENTO DE COMISIONES DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL VERACRUZANO
 
-ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 15 DE NOVIEMBRE DE 2012.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO TERCERO DEL REGLAMENTO DE COMISIONES DEL CONSEJO GENERAL DEL ORGANISMO PÚBLICO LOCAL ELECTORAL DEL ESTADO DE VERACRUZ, PUBLICADO EN NÚMERO EXTRAORDINARIO DE LA G.O. DE 14 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 14 DE DICIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el lunes 8 de enero de 2007.
 
@@ -742,3 +744,15 @@ G.O. 15 DE NOVIEMBRE DE 2012.
 Artículo primero. Las reformas al presente Reglamento entrarán en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Artículo segundo. Se derogan las disposiciones que se opongan al presente Reglamento.
+
+G.O. 14 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE COMISIONES DEL CONSEJO GENERAL DEL ORGANISMO PÚBLICO LOCAL ELECTORAL DEL ESTADO DE VERACRUZ”.]
+
+Artículo primero. El presente Reglamento entrará en vigor y surtirá efectos al día siguiente de su aprobación por el Consejo General.
+
+Artículo segundo. Publíquese en la Gaceta Oficial del Estado de Veracruz.
+
+Artículo tercero. Se abroga el Reglamento de Comisiones del Instituto Electoral Veracruzano aprobado en sesión del Consejo General de veintinueve de octubre de dos mil doce.
+
+Artículo cuarto. Se derogan las disposiciones de menor jerarquía que se opongan al presente Reglamento.
