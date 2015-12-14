@@ -4,7 +4,7 @@ identifier: "SON-codigo-fiscal-del-estado-de-sonora-16554"
 country: "mx"
 rank: "codigo"
 publication_date: "2000-06-12"
-last_updated: "2015-03-02"
+last_updated: "2015-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SON"
 
 CÓDIGO FISCAL DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE DICIEMBRE DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 2 DE MARZO DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE DICIEMBRE DE 2015.
 
 Código publicado en la Segunda Sección del Boletín Oficial del Estado de Sonora, el lunes 12 de junio del 2000.
 
@@ -1425,7 +1423,7 @@ VIII.- Cuando la infracción no haya tenido ni pueda haber tenido como consecuen
 
 IX.- Cuando las infracciones consistan en hechos, omisiones o falta de requisitos semejantes en documentos o libros, y siempre que no haya tenido como consecuencia la evasión del pago de créditos fiscales, se considerará el conjunto como una sola infracción y se impondrá solamente una multa que no excederá del máximo que fija este código para sancionar cada hecho, omisión o falta de requisitos;
 
-X.- Cuando se omita una prestación fiscal que corresponda a los actos y contratos que se hagan constar en escrituras públicas o minutas extendidas ante notario público o corredor publico, la sanción se impondrá exclusivamente a los notarios y corredores, y los interesados solo quedarán obligados a pagar los créditos fiscales omitidos. Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los interesados al notario o corredor, la sanción se aplicará entonces solamente a los mismos interesados;
+X.- Cuando se omita una prestación fiscal que corresponda a los actos y contratos que se hagan constar en escrituras publicas o minutas extendidas ante notario publico o corredor publico, la sanción se impondrá exclusivamente a los notarios y corredores, y los interesados solo quedarán obligados a pagar los créditos fiscales omitidos. Si la infracción se cometiere por inexactitud o falsedad de los datos proporcionados por los interesados al notario o corredor, la sanción se aplicará entonces solamente a los mismos interesados;
 
 XI.- Cuando la liquidación de alguna prestación fiscal este encomendada a funcionarios o empleados del estado o sus municipios, estos serán responsables de las infracciones que se cometan y se les aplicaran las sanciones que correspondan, quedando únicamente obligados los sujetos pasivos a pagar la prestación fiscal omitida, excepto en los casos en que este código o alguna ley fiscal disponga que no se podrá exigir al sujeto pasivo dicho pago; y,
 
@@ -1917,7 +1915,9 @@ IV.- Que se hayan consentido, entendiéndose por consentimiento el de aquellos c
 
 V.- Que sean conexos a otro que haya sido impugnado por medio de algún recurso o medio de defensa diferente;
 
-VI.- En caso de que no se amplíe el recurso administrativo o si en la ampliación no se expresa agravio alguno, tratándose de lo previsto por la fracción II del artículo 120 de este Código; y,
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+VI.- (DEROGADA, B.O. 14 DE DICIEMBRE DE 2015)
 
 VII.- Si son revocados los actos por la autoridad.
 
@@ -1933,9 +1933,13 @@ III.- Cuando de las constancias que obran en el expediente administrativo quede 
 
 IV.- Cuando hayan cesado los efectos del acto o resolución impugnada.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 118.
 
-Cuando el recurso de revocación se interponga porque el procedimiento administrativo de ejecución no se ajustó a la Ley, las violaciones cometidas antes del remate podrán hacerse valer en cualquier tiempo, antes de la publicación de la convocatoria en primera almoneda, salvo que se trate de actos de ejecución sobre bienes legalmente inembargables, de actos de imposible reparación material o de lo previsto por el artículo 120, casos en que el plazo para interponer el recurso se computará a partir del día siguiente al en que surta efectos la notificación del requerimiento de pago o del día siguiente al de la diligencia de embargo.
+Cuando el recurso de revocación se interponga porque el procedimiento administrativo de ejecución no se ajustó a la Ley, las violaciones cometidas antes del remate podrán hacerse valer en cualquier tiempo, antes de la publicación de la convocatoria en primera almoneda, salvo que se trate de actos de ejecución sobre bienes legalmente inembargables, de actos de imposible reparación material, casos en que el plazo para interponer el recurso se computará a partir del día siguiente al en (sic) que surta efectos la notificación del requerimiento de pago o del día siguiente al de la diligencia de embargo.
 
 Si las violaciones tuvieren lugar con posterioridad a la mencionada convocatoria o se tratare de venta de bienes fuera de subasta, el recurso se hará valer contra la resolución que finque el remate o la que autorice la venta fuera de subasta.
 
@@ -1945,27 +1949,11 @@ El tercero que afirme ser propietario de los bienes o negociaciones, o titular d
 
 #### Sección II. De la Impugnación de Notificaciones
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 120.
 
-Cuando se alegue que un acto administrativo no fue notificado o que lo fue ilegalmente, siempre que se trate de los recurribles conforme al artículo 111, se estará a las reglas siguientes:
-
-I.- Si el particular afirma conocer el acto administrativo, la impugnación contra la notificación se hará valer mediante la interposición del recurso administrativo que proceda contra dicho acto, en el que manifestará la fecha en que lo conoció;
-
-En caso de que también impugne el acto administrativo, los agravios se expresarán en el citado recurso, conjuntamente con los que se formulen contra la notificación.
-
-II.- Si el particular niega conocer el acto, manifestará tal desconocimiento interponiendo el recurso administrativo ante la autoridad fiscal competente para notificar dicho acto. La citada autoridad le dará a conocer el acto junto con la notificación que del mismo se hubiere practicado, para lo cual el particular señalará en el escrito del propio recurso, el domicilio en que se le debe dar a conocer y el nombre de la persona facultada al efecto. Si no hace alguno de los señalamientos mencionados, la autoridad citada dará a conocer el acto y la notificación por estrados;
-
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
-
-El particular tendrá un plazo de veinte días a partir del día hábil siguiente al en que la autoridad se los haya dado a conocer, para ampliar el recurso administrativo, impugnando el acto y su notificación o sólo la notificación.
-
-III.- La autoridad competente para resolver el recurso administrativo estudiará los agravios expresados contra la notificación, previamente al examen de la impugnación que, en su caso, se haya hecho del acto administrativo; y,
-
-IV.- Si se resuelve que no hubo notificación o que fue ilegal, tendrá al recurrente como sabedor del acto administrativo desde la fecha en que manifestó conocerlo o en que se le dio a conocer en los términos de la fracción II, quedando sin efectos todo lo actuado en base a aquélla, y procederá al estudio de la impugnación que, en su caso, hubiese formulado en contra de dicho acto.
-
-> <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
-
-Si resuelve que la notificación fue legalmente practicada y, como consecuencia de ello, la impugnación contra el acto se interpuso extemporaneamente, se sobreseerá dicho recurso por improcedente.
+(DEROGADO, B.O. 14 DE DICIEMBRE DE 2015)
 
 #### Sección III. Del Trámite y Resolución del Recurso
 
@@ -3676,3 +3664,17 @@ La afectación de las aportaciones a que se refiere el párrafo primero y, en su
 > <small>(F. DE E., B.O. 2 DE MARZO DE 2015)</small>
 
 Para la ejecución del mecanismo de retención y pago de los adeudos generados que se señalan en el presente artículo, se estará a lo dispuesto por los artículos 9° para el caso de participaciones federales, y 51 en el caso de aportaciones del Ramo General 33 Fondo IV, ambas disposiciones de la Ley de Coordinación Fiscal.
+
+B.O. 14 DE DICIEMBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 1 de enero de 2016, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Cuando se señale en el Código Fiscal del Estado, Ley de Hacienda del Estado, Ley de Tránsito del Estado y Ley que regula la operación y funcionamiento de los establecimientos destinados a la fabricación, envasamiento, distribución, almacenamiento, transportación, venta y consumo de bebidas con contenido alcohólico en el Estado de Sonora, la mención de salarios mínimos diario general vigente en el área geográfica "b ", deberá entenderse como salarios mínimos diario general vigente en el área geográfica única, en virtud de la reforma al salario mínimo efectuada mediante Resolución del H. Consejo de Representantes de la Comisión Nacional de los Salarios Mínimos que revisa los salarios mínimos generales y profesionales vigentes desde el 1 de abril de 2015, publicada en el Diario Oficial de la Federación con fecha 30 de septiembre de 2015, con vigencia a partir del 1 de octubre de 2015.
