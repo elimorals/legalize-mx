@@ -4,7 +4,7 @@ identifier: "SON-ley-de-hacienda-del-estado-de-sonora-8444"
 country: "mx"
 rank: "ley"
 publication_date: "1976-12-31"
-last_updated: "2015-03-02"
+last_updated: "2015-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8444&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ LEY DE HACIENDA DEL ESTADO DE SONORA
 
 > <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE DICIEMBRE DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL B.O. DE 2 DE MARZO DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 14 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el viernes 31 de diciembre de 1976.
 
@@ -65,11 +63,11 @@ Cuando las Autoridades Fiscales presuman fundadamente que el causante no ha decl
 
 ## TITULO SEGUNDO. De los Impuestos
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, B.O. 6 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
-### Capítulo Primero. De los Impuestos a los Servicios de Hospedaje y Extracción de Materiales no Mineralizados
+### Capítulo Primero. Del Impuesto a los Servicios de Hospedaje
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -85,7 +83,11 @@ Cuando las Autoridades Fiscales presuman fundadamente que el causante no ha decl
 
 Es objeto de este impuesto la prestación de servicios de hospedaje en el Estado de Sonora.
 
-Para los efectos de este impuesto, se considerarán servicios de hospedaje, la prestación de alojamiento o albergue temporal de personas a cambio de una contraprestación, dentro de los que quedan comprendidos los servicios prestados por hoteles, moteles, tiempo compartido, hostales, casas de huéspedes, villas, búngalos, campamentos, paraderos de casas rodantes, departamentos amueblados con fines de hospedaje para fines turísticos y otros establecimientos que brinden servicios de hospedaje de naturaleza turística.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Para los efectos de este impuesto, se considerarán servicios de hospedaje, la prestación de alojamiento o albergue temporal de personas a cambio de una contraprestación, dentro de los que quedan comprendidos los servicios prestados por hoteles, moteles, tiempo compartido, administración por un tercero de los servicios de hospedaje prestados bajo cualquier modalidad, hostales, casas de huéspedes, villas, búngalos, campamentos, paraderos de casas rodantes, departamentos amueblados con fines de hospedaje para fines turísticos y otros establecimientos que brinden servicios de hospedaje de naturaleza turística.
 
 No se considerarán servicios de hospedaje, el albergue o alojamiento prestados por hospitales, clínicas, asilos, conventos, seminarios o internados.
 
@@ -113,7 +115,17 @@ El impuesto a que se refiere este Capítulo se causará al momento que se percib
 
 Cuando los contribuyentes convengan la prestación de servicios de hospedaje e incluyan servicios accesorios tales como transportación, comida, uso de instalaciones u otros similares y no desglosen y comprueben la prestación de estos últimos, se entenderá que el valor de la contraprestación respectiva corresponde a servicios de hospedaje.
 
-Tratándose de servicios de hospedaje prestados bajo el sistema o modalidad de tiempo compartido, será base del impuesto, el monto de los pagos que se reciban por cuotas considerando únicamente el importe desglosado del servicio de hospedaje.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Tratándose de servicios de hospedaje prestados bajo el sistema o modalidad de tiempo compartido y en su caso, la administración por un tercero en cualquier forma, será base del impuesto, el monto de los pagos que se reciban por cuotas considerando únicamente el importe desglosado del servicio de hospedaje.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+En el supuesto de la administración por un tercero, persona física o moral al inscribirse en el Registro Estatal de Contribuyentes deberán presentar la documentación respectiva en ese momento y en posteriores e informar a la Autoridad Fiscal la baja del documento que se trate.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -132,6 +144,12 @@ La tasa del impuesto será del 2% sobre el valor de las contraprestaciones que l
 El impuesto a que se refiere el presente Capítulo se calculará por mes de calendario. Los sujetos obligados realizarán el pago a más tardar el día 20 del mes siguiente a aquél en que se causó, mediante declaración mensual en las formas aprobadas por la Secretaría de Hacienda, que deberán presentar en la oficina recaudadora que corresponda al domicilio en donde se hayan proporcionado los servicios.
 
 El caso de que un contribuyente cuente con dos o más inmuebles para servicios de hospedaje, deberá presentar la declaración a que se refiere el párrafo anterior respecto de cada uno de ellos, a excepción de los inmuebles colindantes, por los que se presentará una sola declaración.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Tratándose de la administración por un tercero bajo cualquier modalidad o de los servicios de hospedaje prestados bajo el sistema o modalidad de tiempo compartido, deberá presentar la declaración a que se refiere este artículo e informar al reverso de la misma los datos de sus contratantes.
 
 Los contribuyentes del impuesto por la prestación de servicios de hospedaje, deberán formular declaraciones hasta en tanto no presenten el aviso de baja al Registro Estatal de Contribuyentes o de suspensión temporal de actividades.
 
@@ -1385,7 +1403,11 @@ Los sujetos de este impuesto deberán pagarlo dentro de los días 1o. al 20 del 
 
 Los sujetos de este impuesto deberán registrarse en la oficina recaudadora de su domicilio, dentro de los diez días siguientes a la iniciación de operaciones.
 
-### Capítulo Quinto. De los Impuestos Sobre Capitales
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+### Capítulo Quinto. Del Impuesto Sobre Capitales
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 29 DE DICIEMBRE DE 1983)</small>
 
@@ -1543,9 +1565,11 @@ Remolques: $350.00 $200.00 $175.00
 
 La tasa del impuesto, será:
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-I.- Cuando por la naturaleza de la operación o por las condiciones pactadas no fuere posible determinar el valor de los bienes muebles al realizarse la operación $1,000.00, salvo que se trate de vehículos de propulsión mecánica;
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+I.- Cuando por la naturaleza de la operación o por las condiciones pactadas no fuere posible determinar el valor de los bienes muebles al realizarse la operación se pagará $1,000.00 por cada uno o juego de muebles afines, salvo que se trate de vehículos de propulsión mecánica.
 
 > <small>(REFORMADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
@@ -1677,7 +1701,7 @@ II.- De valores mobiliarios o de Renta Fija expedidos por instituciones de créd
 
 III.- De operaciones por las cuales se causa el Impuesto al Valor Agregado o el Impuesto General al Comercio, Industria y Prestación de Servicios;
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 1979)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
 IV.- De operaciones celebradas con empresas o instituciones de crédito y organizaciones auxiliares, instituciones de seguros o fianzas, que solamente la Federación puede gravar.
 
@@ -1687,7 +1711,7 @@ V.- De dividendos.
 
 ###### Artículo 203.
 
-El impuesto deberá ser pagado o enterado dentro del mes siguiente a aquél en que se percibió el ingreso gravado, mediante la presentación de una declaración en la Oficina Receptora correspondiente al domicilio del sujeto pasivo o en la oficina receptora del domicilio del responsable solidario, según el caso.
+El impuesto deberá ser pagado o enterado dentro del mes siguiente a aquel en que se percibió el ingreso gravado, mediante la presentación de una declaración en la Oficina Receptora correspondiente al domicilio del sujeto pasivo o en la oficina receptora del domicilio del responsable solidario, según el caso.
 
 ###### Artículo 204.
 
@@ -2163,9 +2187,11 @@ XI.- Primas de seguro de gastos médicos y de vida;
 
 XII.- Aportación del patrón a los fondos de ahorro siempre y cuando se integre por una cantidad igual a la aportada por el trabajador y se retire una vez al año, y
 
-> <small>(ADICIONADA, B.O. 29 DE DICIEMBRE DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XIII.- Pagos que resulten del crédito al salario conforme a la Ley del Impuesto Sobre la Renta.
+> <small>(REFORMADA, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+XIII.- Pagos que resulten del subsidio para el empleo conforme a la Ley del Impuesto Sobre la Renta.
 
 > <small>(ADICIONADA, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
@@ -2305,9 +2331,11 @@ El beneficio que se confiere en el presente artículo no otorga a los contribuye
 
 Este impuesto se causará en el momento en que se realicen las erogaciones por la prestación del servicio personal subordinado y se pagará mediante declaración mensual dentro de los primeros veinte días del mes siguiente a aquél en que se causó, ante la oficina recaudadora o institución autorizada al efecto, correspondiente al domicilio del contribuyente o de quién perciba los pagos cuando quién los efectúa resida fuera del Estado.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 17 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Los contribuyentes que tributen en los términos de la Sección III del Capítulo II del Título IV de la Ley del Impuesto Sobre la Renta, es decir, de los denominados »pequeños contribuyentes», podrán optar por pagar este impuesto mediante declaración bimestral dentro de los primeros veinte días del bimestre siguiente a aquel en que se causó, debiendo informar de esta opción a la autoridad fiscal.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Los contribuyentes que tributen en los términos de la Sección II del Capítulo II del Título IV de la Ley del Impuesto Sobre la Renta, es decir, de los denominados "del Régimen de incorporación fiscal", podrán optar por pagar este impuesto mediante declaración bimestral dentro de los primeros veinte días del bimestre siguiente a aquel en que se causó, debiendo informar de esta opción a la autoridad fiscal.
 
 > <small>(REFORMADO, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -2319,9 +2347,11 @@ Los contribuyentes dedicados a actividades agrícolas, silvícolas o de pesca, p
 
 Cuando los contribuyentes realicen el pago del impuesto con motivo del ejercicio de las facultades de comprobación de las autoridades fiscales, de requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales o en forma espontánea y en una sola exhibición fuera de los plazos señalados, podrán efectuar el pago del impuesto mediante la presentación de declaraciones periódicas hasta de doce meses, y de anexo que contenga el monto de las remuneraciones pagadas por el contribuyente, el número de empleados, el impuesto causado, el Impuesto para el Sostenimiento de las Universidades de Sonora, las Contribuciones para el Consejo Estatal de Concertación para la Obra Pública, las Contribuciones para el Fortalecimiento de la Infraestructura Educativa y recargos, desglosados en forma mensual, así como las sanciones que correspondan.
 
-> <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Los contribuyentes que en el año de calendario inmediato anterior hayan efectuado pagos mensuales, cuya suma anual no hubiera excedido de $600.00, podrán realizar el pago del impuesto mediante la presentación de una sola declaración anual, a más tardar a los 20 días del mes de marzo, por el importe total del período de 12 meses del año de que se trate. Para ejercer esta opción los contribuyentes deberán presentar previamente un aviso por escrito ante la Secretaría de Hacienda, manifestando que efectuarán su pago en forma anual y que presentarán una declaración complementaria en el mes de enero de cada año subsecuente, en caso de que las remuneraciones realizadas excedan de las declaradas.
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Los contribuyentes que en el año de calendario inmediato anterior hayan efectuado pagos mensuales, cuya suma anual no hubiera excedido de $600.00, podrán realizar el pago del impuesto mediante la presentación de una sola declaración anual, a más tardar a los 20 días del mes de febrero, por el importe total del período de 12 meses del año de que se trate. Para ejercer esta opción los contribuyentes deberán presentar previamente un aviso por escrito ante la Secretaría de Hacienda, manifestando que efectuarán su pago en forma anual y que presentarán una declaración complementaria en el mes de enero de cada año subsecuente, en caso de que las remuneraciones realizadas excedan de las declaradas.
 
 ###### Artículo 220.
 
@@ -3147,7 +3177,11 @@ III.- Impuesto Sobre Traslación de Dominio de Bienes Muebles y derechos por exp
 
 > <small>(ADICIONADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
 
-### Capítulo Cuarto. Otras Contribuciones
+### Capítulo III Bis 1. CONTRIBUCION PARA EL FORTALECIMIENTO Y SOSTENIMIENTO DE LA CRUZ ROJA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 292 Bis
 
@@ -3157,17 +3191,45 @@ III.- Impuesto Sobre Traslación de Dominio de Bienes Muebles y derechos por exp
 
 De igual manera, esta Contribución se podrá afectar como garantía o en su caso como fuente de pago de los financiamientos obtenidos por el Gobierno del Estado de Sonora de manera específica para realizar obra pública consistente en mantener y crear infraestructura educativa.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 292 Bis
+
+3.- Para el fortalecimiento y sostenimiento de la Cruz Roja, se causará una cuota adicional en cantidad de $50.00 pesos por cada uno de los servicios prestados relativos a la expedición de placas de vehículos, revalidaciones, licencias para conducir y permisos.
+
+Para los efectos de esta contribución, únicamente habrán de incluirse los servicios siguientes:
+
+a) Por expedición de placas de circulación.
+
+b) Por revalidación de placas de circulación.
+
+c) Por expedición de licencias de conducir.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+### Capítulo Cuarto. Otras Contribuciones
+
+###### Artículo 292 Bis
+
+4.- No causará la cuota adicional a que se refiere este Capítulo, los pagos que se realicen por los siguientes conceptos:
+
+Por la expedición, canje o revalidación de placas de transporte privado, por expedición de licencias para conducir, que realicen las personas con discapacidad permanente. Para acreditar la calidad de persona con discapacidad permanente, deberá exhibirse al momento del pago del derecho correspondiente, la credencial expedida por los Consejos Estatal o Municipales, para la integración de las personas con discapacidad.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 292 Bis
+
+5.- Toda la recaudación que por concepto de esta cuota adicional se obtenga, será para el fortalecimiento y sostenimiento de la Cruz Roja.
+
 ### Capítulo Primero. Disposiciones Generales
 
 ### Capítulo Segundo. Servicios de Empadronamiento
-
-### Capítulo Tercero. Servicios por la Expedición, Revalidación y Canje de Licencias Para la Venta de Bebidas con Contenido Alcohólico
-
-> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 6 DE AGOSTO DE 2012)</small>
 
 ###### Artículo 293.
 
@@ -3287,9 +3349,7 @@ Estas contribuciones se recaudarán en la misma forma y simultáneamente con los
 
 ## TITULO CUARTO. De los Derechos
 
-### Capítulo Cuarto. Servicios de Ganadería
-
-> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
+### Capítulo Tercero. Servicios por la Expedición, Revalidación y Canje de Licencias Para la Venta de Bebidas con Contenido Alcohólico
 
 ###### Artículo 297.
 
@@ -3305,11 +3365,17 @@ Para la determinación de las cuotas de los derechos, se tendrá en cuenta el co
 
 I.- Cuando el solicitante del servicio acredite su calidad de jubilado, pensionado o persona adulta de 60 años o más edad y sea el beneficiario directo del mismo, se aplicarán a las cuotas del ejercicio fiscal en curso que correspondan a los servicios que a continuación se detallan, reducidas en un 50%, excepto tratándose de aquellos cuyas cuotas o tarifas contemplen reducciones en los términos de esta Ley.
 
-a).- Derechos por expedición, transferencia, canje o revalidación de placas de transporte privado, para un solo vehículo de su propiedad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
-b).- Derechos por expedición de licencias para conducir.
+a).- Derechos por expedición, canje o revalidación de placas de transporte privado, para un solo vehículo de su propiedad; ésta reducción será efectiva en el derecho que corresponda al ejercicio fiscal en curso.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+b).- Derechos por expedición o renovación de licencias para conducir.
 
 > <small>(REFORMADA, B.O. 17 DE DICIEMBRE DE 2007)</small>
 
@@ -3399,11 +3465,9 @@ Cuando no se compruebe que el pago de derechos se ha efectuado previamente a la 
 
 Cuando el pago de derechos deba efectuarse con posterioridad a la prestación del servicio por tratarse de servicios continuos o por que así se establezca, éste dejará de prestarse si no se efectúa dicho pago.
 
-### Capítulo Quinto. Servicios por Expedición, Inscripción y Registro de Títulos y por Autorización para ejercer cualquier Profesión o Especialidad
+### Capítulo Cuarto. Servicios de Ganadería
 
 > <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### Artículo 301.
 
@@ -3413,7 +3477,7 @@ Los derechos por servicios de empadronamiento a que se refieren diversos precept
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 6 DE AGOSTO DE 2012)</small>
 
-### Capítulo Sexto. Por Servicios de Certificaciones, Constancias y Autorizaciones
+### Capítulo Quinto. Servicios por Expedición, Inscripción y Registro de Títulos y por Autorización para ejercer cualquier Profesión o Especialidad
 
 > <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
 
@@ -3761,6 +3825,36 @@ q).- Establecimiento de prestación de
 
 servicios de juegos con apuestas. $68,569.00
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+r).- Fábrica de Cerveza Artesanal, de acuerdo a la siguiente tabla:
+
+Volumen Anual en Canje
+
+Hectolitros
+
+Hasta 2,000 10,417.00
+
+2,001 - 4,000 15,625.00
+
+4001 - 6,000 20,834.00
+
+6001 - 10,000 26,042.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+s).- Restaurante Rural $1,042.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+t).- Hoteles o Moteles Rurales $2,083.00
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, B.O. 6 DE AGOSTO DE 2012)</small>
@@ -3799,11 +3893,11 @@ Cuando se lleven a cabo traspasos, cambios de propietarios o de razón social y 
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 29 DE DICIEMBRE DE 2006)</small>
 
-### Capítulo Séptimo. Servicios prestados por la Dirección General de Notarías
+### Capítulo Sexto. Por Servicios de Certificaciones, Constancias y Autorizaciones
 
 > <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
 
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### Artículo 307.
 
@@ -3877,11 +3971,11 @@ i) (DEROGADO, B.O. 2 DE ABRIL DE 2007)
 
 > <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
 
-### Capítulo Octavo. De los servicios prestados por la Dirección General de Documentación y Archivo
+### Capítulo Séptimo. Servicios prestados por la Dirección General de Notarías
 
 > <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 308.
 
@@ -3907,11 +4001,11 @@ del punto anterior, por cada prórroga. N$ 50.00
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 29 DE DICIEMBRE DE 2005)</small>
 
-### Capítulo Noveno. Servicios por Expedición de Placas de Vehículos, Revalidaciones, Licencias para Manejar y Permisos
+### Capítulo Octavo. De los servicios prestados por la Dirección General de Documentación y Archivo
 
 > <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### Artículo 309.
 
@@ -4071,11 +4165,11 @@ servidor público. $176.00
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
-### Capítulo Décimo. Derechos por Servicios en materia de Autotransportes y Otros
+### Capítulo Noveno. Servicios por Expedición de Placas de Vehículos, Revalidaciones, Licencias para Manejar y Permisos
 
 > <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 310.
 
@@ -4151,13 +4245,11 @@ a).- Por notario y por cada año de búsqueda. $150.00
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
-### Capítulo Décimo Primero. Servicios del Registro Público de la Propiedad y del Comercio
+### Capítulo Décimo. Derechos por Servicios en materia de Autotransportes y Otros
 
 > <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
 
-> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 91, PUBLICADO EN EL B.O. 19 DE DICIEMBRE DE 2013, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
-
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
 ###### Artículo 311.
 
@@ -4231,7 +4323,13 @@ XI.- Por la expedición de constancias del archivo administrativo de Servidores 
 
 > <small>(REFORMADA SU DENOMINACIÓN, B.O. 30 DE DICIEMBRE DE 1985)</small>
 
-### Capítulo Décimo Segundo. Inspección Sanitaria
+### Capítulo Décimo Primero. Servicios del Registro Público de la Propiedad y del Comercio
+
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
+
+> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 91, PUBLICADO EN EL B.O. 19 DE DICIEMBRE DE 2013, SE MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
+
+> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
 ###### Artículo 312.
 
@@ -4369,11 +4467,11 @@ Tratándose de permisos para circular sin placas por el traslado de vehículos e
 
 El pago de los derechos por la expedición de placas se efectuará dentro de los 15 días siguientes al de la fecha de adquisición tratándose de vehículos nuevos; en los casos de cambio de propietario, de uso o de destino, se efectuará dentro de los 15 días siguientes a partir de que se realice la operación de que se trate y tratándose de vehículos importados a las zonas o perímetros libres del Estado o interior del País, a partir de los 15 días de efectuada la importación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
-El pago de los derechos por revalidación anual de placas se efectuará durante los tres primeros meses del año de calendario que corresponda.
+El pago de los derechos por revalidación anual de placas se efectuará durante los tres primeros meses del año de calendario que corresponda para todo tipo de placas.
 
 > <small>(REFORMADO, B.O. 19 DE DICIEMBRE DE 2013)</small>
 
@@ -4481,9 +4579,9 @@ Por cuatro años. $650.00
 
 Por cinco años. $1,000.00
 
-> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Permanente $2,029.00
+> <small>(DEROGADO SÉPTIMO PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4501,9 +4599,9 @@ Por tres años. $620.00
 
 Por cuatro años. $780.00
 
-> <small>(ADICIONADO, B.O. 15 DE DICIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Permanente $1,640.00
+> <small>(DEROGADO SEXTO PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4521,6 +4619,12 @@ Por tres años. $620.00
 
 d).- De motociclista como sigue:
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Por 1 año: $200.00
+
 Por dos años. $380.00
 
 Por tres años. $517.00
@@ -4529,9 +4633,9 @@ Por tres años. $517.00
 
 Permanente $1,090.00
 
-> <small>(REFORMADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Por los servicios a que se refieren los incisos a), b), c) y d), anteriores, la Secretaría de Hacienda cuando a su juicio existan circunstancias que así lo determinen, podrá expedir licencias para conducir con vigencia de un año, en cuyo caso se aplicarán las cuotas correspondientes a la vigencia de dos años, reducidas en un 50%.
+> <small>(DEROGADO SEXTO PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4631,11 +4735,9 @@ motocicletas y motonetas. $ 75.00
 
 La expedición, canje o baja de placas, así como la expedición de las licencias para manejar, a que se refiere esta ley, se autorizarán previo el cumplimiento de los requisitos establecidos en la Ley de Tránsito del Estado de Sonora.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2012)</small>
-
-La Secretaría de Hacienda podrá emitir normatividad simplificando los trámites o reduciendo los requisitos a que se refiere el párrafo anterior, a fin de facilitar el cumplimiento de las obligaciones de los solicitantes por los servicios, la cual deberá publicitarse en el Portal de la Secretaría de Hacienda, misma que deberá publicarse en el Boletín Oficial del Gobierno del Estado e iniciará su vigencia a partir del día hábil siguiente al de su publicación.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2015)</small>
 
 > <small>(ADICIONADO, B.O. 30 DE DICIEMBRE DE 2010)</small>
 
@@ -4679,11 +4781,7 @@ $400.00 $200.00 $100.00
 
 > <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
 
-### Capítulo Décimo Tercero. Servicios del Registro Civil
-
-> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
-
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
+### Capítulo Décimo Segundo. Inspección Sanitaria
 
 ###### Artículo 320.
 
@@ -4712,6 +4810,58 @@ b).- Carga. $1,450.00
 2.- Por revisión anual de las concesiones que amparan la explotación del servicio público de transporte concesionado, de jurisdicción estatal o municipal, por unidad:
 
 a).- Pasaje. $800.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+1.-Automóvil de alquiler $1,181.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+2.- Urbano $1,181.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+3.- Suburbano $1,181.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+4.- Foráneo $1,181.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+5.- Escolar para trabajadores agrícolas,
+
+personas con discapacidad y de la
+
+tercera edad $1,181.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+6.- Exclusivo de turismo $1,181.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+7.- Especializado de personal $1,181.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+8.- Automóvil de alquiler colectivo $1,181.00
 
 b).- Carga. $500.00
 
@@ -4935,11 +5085,11 @@ b) Carga $180.00
 
 Las personas físicas o morales titulares de concesiones o permisos para operar algunas de las concesiones en cualquier modalidad contemplada en la Ley de Transporte para el Estado de Sonora, deberán presentar el aviso de inscripción ante el registro estatal de contribuyentes, en la oficina recaudadora que corresponda a su domicilio fiscal.
 
-### Capitulo Décimo Cuarto. Otros Servicios
+### Capítulo Décimo Tercero. Servicios del Registro Civil
 
 > <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ###### Artículo 321.
 
@@ -4983,9 +5133,11 @@ Por lo que hace al patrimonio familiar:
 
 $400.00
 
-f) Por el que cancele inscripción referente a gravamen, limitante, que pese sobre un bien inmueble, testamento ológrafo o poder, por cada acto se cobrará:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-$500.00
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+f).- Por el que cancele inscripción referente a gravamen, limitante, que pese sobre un bien inmueble, testamento ológrafo o poder, por cada antecedente se cobrará: $522.00
 
 Tratando de la cancelación para la obtención de vivienda cuyo valor, tomando como base el valor más alto entre el avalúo catastral, el comercial y el precio pactado de la operación, no supere la suma que resulte de multiplicar 25 veces el salario mínimo general elevado al año vigente en el área geográfica de que se trate, por cada acto jurídico se cobrará:
 
@@ -5111,7 +5263,11 @@ Para el caso, de que el documento no esté consultable en formato digital, su ve
 
 $5,000.00
 
-9.- Se causará un derecho adicional equivalente al 50% sobre la cantidad fijada, siempre y cuando el peticionario del servicio lo solicite, con el fin de que el servicio registral requerido le sea entregado dentro de las 24 horas hábiles siguientes a la solicitud; derechos éstos que se destinarán el 70% como compensación del personal adscrito al Registro Público, y el 30% para modernización de los servicios registrales en el Estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+9.- Se causará un derecho adicional equivalente al 50% sobre la cantidad fijada, siempre y cuando el peticionario del servicio lo solicite, con el fin de que el servicio registral requerido le sea entregado dentro de las 24 horas hábiles siguientes a la solicitud; derechos éstos que se destinarán el 60% como compensación del personal adscrito al Registro Público, y el 40% para modernización de los servicios registrales en el Estado.
 
 > <small>(REFORMADA, B.O. 19 DE DICIEMBRE DEL 2013)</small>
 
@@ -5141,13 +5297,19 @@ Asimismo, se exceptúan de los derechos por registro de documentos públicos o p
 
 > <small>(DEROGADO, B.O. 31 DE DICIEMBRE DE 1979)</small>
 
-### Capítulo Unico
+### Capitulo Décimo Cuarto. Otros Servicios
+
+> <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
+
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 1992)</small>
 
 ###### Artículo 324.
 
 (DEROGADO, B.O. 31 DE DICIEMBRE DE 1979)
 
 > <small>N. DE E. PARA LA ACTUALIZACIÓN DE LOS MONTOS DE LAS CUOTAS O TARIFAS DE LOS DERECHOS DEL TÍTULO CUARTO DE LA PRESENTE LEY, PARA EL SEGUNDO SEMESTRE DEL AÑO 2014, SE SUGIERE CONSULTAR EL ACUERDO PUBLICADO EN LA SECCIÓN I DEL B.O. DE 7 DE AGOSTO DE 2014.</small>
+
+### Capítulo Unico
 
 ###### Artículo 325.
 
@@ -5221,7 +5383,11 @@ en el extranjero. $865.00
 
 6.- Resoluciones judiciales relativas a:
 
-6.1.- Adopciones $525.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+6.1.- Adopciones gratuitas.
 
 6.2.- Divorcios. $771.00
 
@@ -5269,7 +5435,9 @@ III.- Por las anotaciones marginales:
 
 1.- De reconocimiento de hijos. Gratuita
 
-2.- Que ordena el artículo 213 del Código Civil. Gratuita
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+2.- (DEROGADO, B.O. 14 DE DICIEMBRE DE 2015)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -5286,6 +5454,12 @@ de actas por la vía administrativa $400.00
 4.- Que se realicen en cumplimiento de disposiciones
 
 jurídicas o de resoluciones judiciales. $400.00
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+Excluyendo la que se realice por sentencia ejecutoriada que declara la nulidad del matrimonio, la cual será gratuita.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -6085,9 +6259,17 @@ c).- De educación superior. $210.00
 
 estudios. N$10.00
 
-6.- Exámenes a títulos de suficiencia:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-a).- de educación primaria. N$3.00
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+6. Exámenes a título de suficiencia:
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 14 DE DICIEMBRE DE 2015)</small>
+
+a).- Evaluación general de conocimientos de Educación Primaria. $8.00
 
 b).- de tipos media y superior por materia. N$3.00
 
@@ -7171,7 +7353,7 @@ El Registro Estatal Vehicular a que se refiere el primer párrafo de este artíc
 
 Artículo Cuarto.- Para los efectos de las modificaciones a la Ley que Regula la Operación y Funcionamiento de los Establecimientos Destinados a la Fabricación, Envasamiento, Distribución, Almacenamiento, Transportación, Venta y Consumo de Bebidas con Contenido Alcohólico en el Estado de Sonora, previstas en el artículo anterior se estará a lo siguiente:
 
-I.- Los permisionarios que se ubiquen dentro del supuesto a que se refiere el artículo 10 Fracción XV de la Ley que Regula la Operación y Funcionamiento de los Establecimientos Destinados a la Fabricación, Envasamiento, Distribución, Almacenamiento, Transportación, Venta y Consumo de Bebidas con Contenido Alcohólico en el Estado de Sonora, deberán presentar la licencia con la cual se encuentren operando a fin de que les sea canjeada bajo el giro de establecimiento que preste servicios de sorteos y juegos con apuestas, debiendo pagar los derechos correspondientes bajo la denominación del nuevo giro.
+I.- Los permisionarios que se ubiquen dentro del supuesto a qu se refiere el artículo 10 Fracción XV de la Ley que Regula la Operación y Funcionamiento de los Establecimientos Destinados a la Fabricación, Envasamiento, Distribución, Almacenamiento, Transportación, Venta y Consumo de Bebidas con Contenido Alcohólico en el Estado de Sonora, deberán presentar la licencia con la cual se encuentren operando a fin de que les sea canjeada bajo el giro de establecimiento que preste servicios de sorteos y juegos con apuestas, debiendo pagar los derechos correspondientes bajo la denominación del nuevo giro.
 
 Transcurrido el plazo a que se refiere la fracción II de este artículo, la Secretaría de Hacienda procederá de oficio a la cancelación de las licencias cuyos titulares no hayan solicitado su regularización conforme a esta Ley.
 
@@ -7318,3 +7500,17 @@ TERCERO.- Las escuelas, tanto públicas como privadas, tendrán hasta el siguien
 CUARTO.- La Secretaría de Educación y Cultura del Estado de Sonora, tendrá un plazo de 60 días para la creación de un Consejo Multidisciplinario el cual dará cumplimiento a las disposiciones del presente decreto. Este a su vez tendrán un plazo de 30 días después de su creación para fijar los lineamientos para ejercer sus funciones.
 
 QUINTO.- El Ejecutivo del Estado, en función de la disponibilidad presupuestaria para ello, asignará los recursos presupuestales que sean necesarios a efecto de dar cumplimiento a las disposiciones contenidas en el presente decreto.
+
+B.O. 14 DE DICIEMBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor en todo el Estado de Sonora a partir del 1 de enero de 2016, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Cuando se señale en el Código Fiscal del Estado, Ley de Hacienda del Estado, Ley de Tránsito del Estado y Ley que regula la operación y funcionamiento de los establecimientos destinados a la fabricación, envasamiento, distribución, almacenamiento, transportación, venta y consumo de bebidas con contenido alcohólico en el Estado de Sonora, la mención de salarios mínimos diario general vigente en el área geográfica "b ",deberá entenderse como salarios mínimos diario general vigente en el área geográfica única, en virtud de la reforma al salario mínimo efectuada mediante Resolución del H. Consejo de Representantes de la Comisión Nacional de los Salarios Mínimos que revisa los salarios mínimos generales y profesionales vigentes desde el 1 de abril de 2015, publicada en el Diario Oficial de la Federación con fecha 30 de septiembre de 2015, con vigencia a partir del 1 de octubre de 2015.
