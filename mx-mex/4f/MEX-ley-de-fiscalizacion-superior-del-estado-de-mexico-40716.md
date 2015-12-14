@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-fiscalizacion-superior-del-estado-de-mexico-40716"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-26"
-last_updated: "2014-12-16"
+last_updated: "2015-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40716&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 16 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno, el jueves 26 de agosto de 2004.
 
@@ -329,9 +329,11 @@ XXII. Las demás que señalen las disposiciones legales aplicables y el Reglamen
 
 Corresponde originalmente al Auditor Superior, el trámite y resolución de los asuntos de su competencia, el cual podrá, para la mejor organización del trabajo, delegar en los servidores públicos subalternos cualquiera de sus atribuciones, excepto las señaladas en las fracciones VII, X, XIV, XVI y XVII del artículo anterior y aquéllas que por disposición de la presente Ley y del Reglamento, deban ser ejercidas exclusivamente por él mismo.
 
+> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 15.
 
-El Auditor Superior durará en su encargo cuatro años, pudiendo ser ratificado hasta por cuatro años más, por las dos terceras partes de los integrantes de la Legislatura.
+El Auditor Superior durará en su encargo ocho años, y podrá ser nombrado nuevamente por una sola vez hasta por un periodo igual, por el voto de las dos terceras partes de los miembros presentes de la Legislatura.
 
 ###### Artículo 16.
 
@@ -1164,3 +1166,11 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Las presentes reformas deberán estar armonizadas en los reglamentos que correspondan, noventa días después de su publicación en el Periódico Oficial "Gaceta de Gobierno".
+
+G.G. 14 DE DICIEMBRE DE 2015.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan todas aquellas disposiciones de igual o menor jerarquía que contravengan o se opongan al presente Decreto.
