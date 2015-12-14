@@ -4,7 +4,7 @@ identifier: "MEX-constitucion-politica-del-estado-libre-y-soberano-de-mexico-594
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-11-10"
-last_updated: "2015-09-15"
+last_updated: "2015-12-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5949&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE SEPTIEMBRE DE 2015.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA G.G. DE 15 DE SEPTIEMBRE DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE DICIEMBRE DE 2015.
 
 Constitución publicada en la Gaceta del Gobierno, los días 10, 14 y 17 de noviembre de 1917.
 
@@ -250,6 +248,10 @@ Toda persona tiene derecho a la cultura física y a la práctica del deporte. Co
 (ADICIONADO, G.G. 8 DE JUNIO DE 2015) (F. DE E., G.G. 3 DE SEPTIEMBRE DE 2015)
 
 El Estado garantizará a toda persona el derecho a la movilidad universal, atendiendo a los principios de igualdad, accesibilidad, disponibilidad, sustentabilidad y progresividad.
+
+> <small>(ADICIONADO, G.G. 14 DE DICIEMBRE DE 2015)</small>
+
+Toda persona tiene derecho al acceso a la gestión pública a través del uso de medios electrónicos. Las autoridades del Estado y los municipios en el ámbito de su competencia, tienen la obligación de promover, respetar, proteger y garantizar ese derecho, mediante el uso de las tecnologías de información en el ejercicio de la gestión pública, en los términos que disponga la Ley y en su caso el Estado deberá prevenir, investigar y sancionar los ilícitos y violaciones a este derecho.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -680,6 +682,10 @@ Con excepción de la hipótesis prevista en el inciso c) anterior, la petición 
 6°. Las resoluciones del Instituto Electoral del Estado de México podrán ser impugnadas en los términos de lo dispuesto en el artículo 13 de esta Constitución.
 
 7°. Las leyes establecerán lo conducente para hacer efectivo lo dispuesto en la presente fracción.
+
+> <small>(ADICIONADA, G.G. 14 DE DICIEMBRE DE 2015)</small>
+
+IX. Acceder a la gestión pública de forma alternativa más no limitativa, a través del uso de medios electrónicos.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -2487,11 +2493,11 @@ e) Suscribir convenios con la Federación, los Estados y municipios limítrofes 
 
 f) Publicar los acuerdos y convenios que se suscriban para dar cumplimiento a los planes metropolitanos, en los periódicos oficiales.
 
-> <small>(ADICIONADO, G.G. 11 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, G.G. 14 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 139 Bis.
 
-La Mejora Regulatoria es un instrumento de desarrollo. Es obligatorio para el Estado y los Municipios, sus dependencias y organismos descentralizados, implementar de manera permanente, continua y coordinada sus normas, actos, procedimientos y resoluciones, ajustándose a las disposiciones que establece la ley reglamentaria, a fin de promover el desarrollo económico del Estado de México.
+La Mejora Regulatoria y el Gobierno Digital son instrumentos de desarrollo. Es obligatorio para el Estado y los municipios, sus dependencias y organismos auxiliares, implementar de manera permanente, continua y coordinada sus normas, actos, procedimientos y resoluciones, ajustándose a las disposiciones que establece esta Constitución, a fin de promover políticas públicas relativas al uso de las tecnologías de la información e impulsar el desarrollo económico del Estado de México.
 
 > <small>(REFORMADO, G.G. 27 DE FEBRERO DE 1995)</small>
 
@@ -3603,7 +3609,7 @@ SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 
 TERCERO.- La Legislatura del Estado de México deberá realizar las reformas respectivas a la Ley de Fiscalización Superior del Estado de México, en un plazo máximo de treinta días, contados a partir de la publicación del presente Decreto.
 
-CUARTO.- El Titular del Órgano Superior de Fiscalización en funciones, permanecerá en el ejercicio de su encargo por el período de ocho años, computados a partir de la fecha en que tomo posesión del mismo, el cual no podrá prolongarse.
+CUARTO.- (DEROGADO, G.G. 14 DE DICIEMBRE DE 2015)
 
 QUINTO.- Se derogan o abrogan las disposiciones de igual o menor jerarquía que contravengan o se opongan al presente Decreto.
 
@@ -4082,3 +4088,21 @@ DECRETO NÚMERO 513, POR EL QUE SE ADICIONAN LOS PÁRRAFOS DÉCIMO QUINTO Y DÉC
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 14 DE DICIEMBRE DE 2015.
+
+DECRETO NÚMERO 46, POR EL QUE SE REFORMA EL ARTÍCULO 139 BIS, SE ADICIONA UN PÁRRAFO VIGÉSIMO SÉPTIMO AL ARTÍCULO 5 Y LA FRACCIÓN IX AL ARTÍCULO 29 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 14 DE DICIEMBRE DE 2015.
+
+DECRETO NÚMERO 47, POR EL QUE SE DEROGA EL "ARTÍCULO CUARTO TRANSITORIO" DEL DECRETO NÚMERO 81 PUBLICADO EN EL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO" EL 7 DE JUNIO DE 2010, POR EL QUE SE REFORMA EL ARTÍCULO 61 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MÉXICO.
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
