@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2015-11-13"
+last_updated: "2015-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -4337,7 +4337,7 @@ La clausura del establecimiento o la cancelación del permiso, licencia o patent
 
 ARTÍCULO 281 BIS. SANCIONES Y FIGURAS TIPICAS DE LOS DELITOS CONTRA LA SEGURIDAD EN LOS MEDIOS INFORMÁTICOS COMETIDOS EN PERJUICIO DE PARTICULARES. Se aplicará prisión de tres meses a tres años y multa a quien:
 
-l. Sin autorización para acceder a un sistema informático y con perjuicio de otro, conozca, copie, imprima, use, revele, transmita, o se apodere de datos o información reservados, contenidos en el mismo.
+I. Sin autorización para acceder a un sistema informático y con perjuicio de otro, conozca, copie, imprima, use, revele, transmita, o se apodere de datos o información reservados, contenidos en el mismo.
 
 II. Con autorización para acceder a un sistema informático y con perjuicio de otro, obtenga, sustraiga, divulgue o se apropie de datos o información reservados en él contenidos.
 
@@ -4411,7 +4411,7 @@ SANCIONES Y FIGURAS TÍPICAS DE VIOLACIÓN REITERADA A LAS DISPOSICIONES DE TRÁ
 
 I. VIOLACIÓN REITERADA DE NORMAS DE TRÁNSITO SOBRE VELOCIDAD. Viole por más de dos veces las disposiciones sobre circulación de vehículos, por conducir con exceso de velocidad.
 
-La conducta anterior sólo se considerará como falta penal; salvo cuando las violaciones se hayan cometido en estado de ebriedad, caso en el que se considerará como delito.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 II. VIOLACIÓN REITERADA A NORMAS SOBRE PROTECCIÓN DE TRÁNSITO EN CARRETERAS Y CAMINOS. Viole dos o más veces las disposiciones sobre protección de tránsito en las vías de comunicación estatal o municipal.
 
@@ -4891,7 +4891,7 @@ PENALIDAD Y FIGURA TÍPICA DE TRATA DE PERSONAS, MENORES E INCAPACES. Se aplicar
 
 La pena máxima se incrementarán (sic) en una mitad más, cuando:
 
-l. La víctima sea una persona menor de dieciocho años o mayor de sesenta años de edad, no tenga la capacidad para comprender el significado del hecho o de resistirlo o sea una persona en situación vulnerable;
+I. La víctima sea una persona menor de dieciocho años o mayor de sesenta años de edad, no tenga la capacidad para comprender el significado del hecho o de resistirlo o sea una persona en situación vulnerable;
 
 II. El sujeto activo se valiese de su calidad de servidor público o se haya ostentado como tal, sin serlo. Además se impondrá la destitución del empleo, cargo o comisión públicos e inhabilitación para desempeñar por un tiempo igual al de la pena de prisión impuesta;
 
@@ -5609,7 +5609,7 @@ I. Al autor o partícipe que espontáneamente libere al secuestrado dentro de la
 
 En los casos en que concurra alguna o algunas de las calificativas a que se refieren las fracciones I y II del precepto citado, se aumentará en un tercio el mínimo y máximo de las sanciones previstas en este artículo. El incremento será de dos tercios, si tiene lugar alguno o algunos de los supuestos previstos en la fracción III incisos 1) a 4) del artículo anterior.
 
-III. Si después de producido el secuestro uno de los partícipes, antes que los demás, proporciona al Ministerio Público en el período de averiguación, información veraz que haga posible su identificación, y se logre localizar al ofendido sin grave menoscabo de su salud.
+II. Si después de producido el secuestro uno de los partícipes, antes que los demás, proporciona al Ministerio Público en el período de averiguación, información veraz que haga posible su identificación, y se logre localizar al ofendido sin grave menoscabo de su salud.
 
 Cuando la información provenga de persona vinculada a uno de los secuestradores, por lazos de parentesco o amistad, se aumentará en una mitad el mínimo y máximo de las sanciones de que se trata.
 
@@ -6980,3 +6980,9 @@ P.O. 13 DE NOVIEMBRE DE 2015.
 DECRETO NÚMERO 191, POR EL QUE SE REFORMA EL ARTÍCULO 399-BIS DEL CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Gobierno del Estado.
+
+P.O. 15 DE DICIEMBRE DE 2015.
+
+PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado.
