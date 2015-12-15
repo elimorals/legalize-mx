@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-103987"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-01-02"
-last_updated: "2015-11-26"
+last_updated: "2015-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103987&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-12-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE DICIEMBRE DE 2015.
 
 Acuerdo publicado en la Primera y Segunda Sección del Diario Oficial de la Federación, el viernes 2 de enero de 2015.
 
@@ -852,6 +852,12 @@ La Dirección General de Recursos Humanos es la única facultada para llevar a c
 Concluida la depuración del expediente personal a cargo de la Dirección General de Recursos Humanos, se procederá a foliar nuevamente los documentos que obren en el mismo, a fin de que coincida con el número de fojas que lo integran.
 
 En todo caso se dejará constancia del proceso de depuración.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE ADICIONA EL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE ACTIVIDAD ADMINISTRATIVA DEL PROPIO CONSEJO, RELATIVO AL USO DE DOCUMENTOS FALSOS POR PARTE DE LOS SERVIDORES PÚBLICOS, D.O.F. 15 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 28 Bis.
+
+El servidor público que use o exhiba documentos falsos para ingresar o desempeñar algún empleo, cargo o comisión; o para integrar su expediente personal será sancionado administrativamente, en términos del artículo 8, fracciones I y XXIV, de la Ley Federal de Responsabilidades Administrativas de los Servidores Públicos, y demás disposiciones aplicables, sin perjuicio de las responsabilidades penal o civil a que haya lugar.
 
 ###### Artículo 29.
 
@@ -11412,3 +11418,9 @@ SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su
 TERCERO. Los nombramientos, cualquiera que sea su naturaleza, otorgados con anterioridad a la entrada en vigor del presente Acuerdo, que se encuentren en las nuevas hipótesis de los artículos 72 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la carrera judicial y las condiciones de los funcionarios judiciales; y 18 bis del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de actividad administrativa del propio Consejo; continuarán sus efectos con todas sus consecuencias jurídicas hasta su conclusión.
 
 En todo caso, los titulares de los órganos jurisdiccionales, así como de las áreas administrativas, deberán dar aviso a la Dirección General de Recursos Humanos de la existencia de los nombramientos a que se refiere el párrafo anterior.
+
+D.O.F. 15 DE DICIEMBRE DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
