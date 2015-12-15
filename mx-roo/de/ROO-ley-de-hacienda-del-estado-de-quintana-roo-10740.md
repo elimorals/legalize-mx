@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-estado-de-quintana-roo-10740"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2015-01-16"
+last_updated: "2015-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10740&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2014.
-
-N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 16 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -645,321 +643,131 @@ V.- Si la adjudicación al acreedor se hiciere por convenio, deberá considerars
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
 
-### CAPITULO III. DEL IMPUESTO SOBRE NOMINAS
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-#### SECCION PRIMERA. DEL OBJETO Y SUJETO
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2005)</small>
+### CAPÍTULO III
 
-###### ARTÍCULO 39.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-Son objeto de este impuesto, las erogaciones en efectivo o en especie por concepto de remuneraciones al trabajo personal, prestado dentro del territorio del Estado, bajo la dirección y/o dependencia de un patrón, contratista, intermediario o terceros.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+#### SECCIÓN PRIMERA
 
-Para los efectos de este impuesto, quedan comprendidas entre las erogaciones mencionadas anteriormente, aquellas que se realicen por concepto de prestaciones o contraprestaciones cualquiera que sea el nombre con el que se le designe, ya sean ordinarias o extraordinarias, incluyendo honorarios asimilables a salarios, comisiones a trabajadores, premios, gratificaciones, rendimientos, primas vacacionales, dominicales, por antigüedad, así como cualquier otra erogación en razón de su trabajo o por la relación laboral reciba el trabajador. Son también objeto de este impuesto, las erogaciones por pagos realizados a los socios o accionistas, administradores, comisarios o miembros de los consejos directivos y de vigilancia en toda clase de sociedades y asociaciones.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+###### ARTICULO 39.
 
-También quedan comprendidos los anticipos que reciban los miembros de sociedades y asociaciones civiles, así como los rendimientos y anticipos que obtengan los miembros de sociedades cooperativas de productores de bienes y/o servicios.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
-
-Son también objeto de este impuesto las erogaciones hechas de manera ocasional en contratos por eventos o servicios determinados.
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
-
-Las disposiciones mencionadas en el párrafo anterior se sujetarán a lo establecido en los artículos 292, 293, 294, 304, 305 y 306 de la Ley Federal del Trabajo.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### ARTICULO 39-A.
 
-En caso de que los sujetos de este impuesto realicen pagos a trabajadores por concepto de construcciones, edificaciones de obra, acabados, modificaciones y/o remodelaciones, e incumplan con la obligación puntual del pago, deberán proporcionar a la autoridad exactora que corresponda al domicilio donde se realizaron las obras, la base para determinar la cantidad a pagar y los accesorios legales generados. Si después de requerido el contribuyente por la autoridad exactora competente, no aporta dentro del término de 6 días los datos y/o documentos necesarios para la determinación del impuesto, o cuando no sea posible establecer la base, se calculará considerando el número de metros cuadrados de construcción que declare el propio contribuyente o determine la autoridad exactora. La base sobre la cual se aplicará la tasa será el importe del resultado de multiplicar el número de metros cuadrados de construcción por el costo de mano de obra por metro cuadrado vigente al momento de la determinación de la autoridad exactora.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2013)</small>
-
-Para asegurar el cumplimiento de esta obligación se deberá garantizar el pago del impuesto mediante póliza de fianza de institución debidamente autorizada, depósito en efectivo o cheque cruzado, considerando el tiempo de duración de la obra y el número promedio de empleados que estime el contribuyente.
-
-> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2013)</small>
-
-Los propietarios que realicen la edificación de una sola vivienda de interés social para su habitación personal, cuyo monto global no exceda de 6,450 salarios mínimo (sic) diarios vigentes en el Estado, no causará este impuesto, tampoco lo causarán los propietarios que realicen modificaciones y/o remodelaciones a una vivienda de interés social, cuando la obra no exceda de un monto de 805 salarios mínimos diarios vigentes en el Estado. El documento con el que se acreditarán los supuestos antes referidos, lo constituirá la licencia de construcción que expida la autoridad municipal correspondiente.
-
-> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2013)</small>
-
-> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2013)</small>
-
-Para los efectos de este impuesto, la prestación del servicio personal debe realizarse en territorio del Estado, con independencia de la forma y lugar de pago.
-
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### ARTICULO 40.
 
-Son sujetos pasivos de este impuesto, las personas físicas, morales o unidades económicas que realicen las erogaciones a que se refiere el artículo 39 de esta Ley, así como las dependencias, los organismos descentralizados, desconcentrados, autónomos y los fideicomisos de gobierno, aun cuando éstos sujetos tengan su domicilio fuera del Estado.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Cuando en la contratación de trabajadores para una persona física, moral o unidad económica, a fin de que ejecuten trabajos o presten servicios para su actividad, participe un intermediario laboral, cualquiera que sea la denominación que el patrón intermediario asuma, ambos serán responsables solidarios entre sí y en relación con el trabajador, respecto del cumplimiento de las obligaciones contenidas en esta Ley. Las personas físicas, morales y unidades económicas que contraten los servicios de intermediarios laborales, deberán de presentar aviso por cada uno de los establecimientos en donde contraten los servicios de personal; dicho aviso deberá presentarse mediante las formas aprobadas por la Secretaría dentro de los siguientes cinco días posteriores a la fecha de la firma del contrato suscrito o inicio de la prestación de los servicios o bien, de la fecha de su modificación, en el que especifique el nombre, denominación o razón social, registro federal de contribuyentes, domicilio fiscal en el Estado de Quintana Roo de su proveedor; así como el número de empleados, el monto de la operación contratada, la vigencia del contrato, los establecimientos y las actividades por las que se contrata el servicio.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-#### SECCION SEGUNDA. DE LA BASE Y DE LA TASA
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
+#### SECCIÓN SEGUNDA
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2009)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### ARTICULO 41.
 
-Será base de este impuesto, el total de las erogaciones efectuadas en términos del artículo 39, calculados por ejercicios fiscales, salvo lo señalado por el artículo 43-D de ésta ley.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### ARTICULO 42.
 
-El presente impuesto se causará y pagará aplicando la tasa del 3% sobre la base gravable señalada en el artículo anterior.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2013)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### ARTICULO 43.
 
-Las personas físicas, morales o unidades económicas, así como las dependencias, los organismos descentralizados, desconcentrados, autónomos y los fideicomisos de gobierno, aun cuando estos sujetos tengan su domicilio fuera del Estado, así como los intermediarios laborales cualquiera que sea su denominación deberán efectuar pagos provisionales mensuales a cuenta del impuesto anual a más tardar el día 17 del mes siguiente (sic) aquél en el que se causó utilizando las formas autorizadas por la Secretaria, a través de los medios electrónicos dispuestos por ésta, mediante reglas de carácter general, debiéndose efectuar en las instituciones bancarias autorizadas, con base a las disposiciones que al efecto emita la Secretaría.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Quedan incluidas las personas físicas, morales y unidades económicas que sin estar domiciliadas en el Estado, tengan personal subordinado en el territorio de éste, en sucursales, bodegas, agencias, unidades económicas, dependencias, y cualquier ente o figura que permita tener personal subordinado dentro del mismo.
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
-
-Están obligados a presentar aviso en términos del segundo párrafo del artículo 40 de esta ley quienes contraten a empresas que presten servicios de personal, para ejecutarlos con elementos propios, y suficientes para cumplir con las obligaciones que deriven de las relaciones con sus trabajadores. Cualquiera que sea la forma de pago de las remuneraciones que efectúen estas personas con motivo de la prestación de servicios de personas físicas a personas físicas o morales, serán sujetas del pago de este impuesto.
-
-Para el legal funcionamiento de estas personas, deberán aperturar una cuenta en institución bancaria debidamente autorizada, domiciliada en la circunscripción territorial donde se preste el servicio, y hacerlo del conocimiento de la autoridad recaudadora de rentas.
-
-El incumplimiento a esta disposición, hará responsable directo a quien reciba el servicio.
-
-> <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
-
-La obligación de presentar declaraciones de pagos provisionales subsistirá aun cuando no hubiese cantidad a cubrir.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### ARTICULO 43-A.
 
-El pago provisional será la cantidad que resulte de aplicar a los conceptos a que se refiere el artículo 39 de esta ley por cada período, por el que se efectúa el pago, la tasa señalada en el artículo 42 de esta ley.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### ARTICULO 43-B.
 
-El impuesto del ejercicio, deducidos de los pagos provisionales, se pagará mediante declaración, que se presentará ante las oficinas autorizadas, dentro de los cuatro meses siguientes al cierre del ejercicio. Los contribuyentes deberán proporcionar la información que se les solicite en la forma que al afecto apruebe la Secretaría.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-La declaración del ejercicio se sujetará a lo siguiente:
+###### ARTICULO 43-C.
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I.- Cuando los contribuyentes inicien actividades a partir del 1° de enero, presentarán declaración del ejercicio del 1° de enero al 31 de diciembre de ese ejercicio, aún que no hubiese finalizado el ejercicio fiscal con actividades, y
-
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
-
-II.- Cuando los contribuyentes inicien actividades con posterioridad al 1° de enero, presentarán declaración del ejercicio, de la fecha en que iniciaron sus actividades al 31 de diciembre de ese ejercicio.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2000)</small>
-
-###### Artículo 43-C.
-
-Cuando se formulen declaraciones complementarias sustituyendo datos de la original, en virtud de las cuales resulten diferencias a cargo del contribuyente por declarar o bien resulten diferencias a su favor, o se incrementen los ya declarados, solo podrán ser modificados por el contribuyente hasta en tres ocasiones, siempre que no se haya iniciado el ejercicio de las facultadas (sic) de comprobación en los siguientes casos, no operará la anterior limitación:
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
-
-a) Cuando sólo incrementen el total de las erogaciones efectuadas, a que se refiere el artículo 39 de esta Ley.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2002)</small>
-
-b) Cuando sólo disminuyan sus deducciones o reduzcan las cantidades acreditables o compensadas o los pagos provisionales o de contribuciones a cuenta.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
-
-c) Cuando el contribuyente haga dictaminar por Contador Público autorizado sus estados financieros, podrá corregir, en su caso, la declaración original como consecuencia de los resultados obtenidos en el dictamen respectivo.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
-
-d) Cuando la presentación de la declaración que modifica a la original se establezca como obligación por disposición expresa de la ley.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
-
-Se procederá como sigue:
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-I.- Cuando se trate de declaraciones de pagos provisionales y no se haya presentado la declaración del ejercicio, la diferencia a su favor o su incremento podrá compensarse en la declaración de pago provisional siguiente al día en que se presente la declaración complementaria, sin que sea necesario modificar las demás declaraciones.
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-II.- Cuando se modifique una declaración del ejercicio, el contribuyente podrá optar por solicitar devoluciones o compensar dicha diferencia a su favor, en la declaración de pago provisional, siguiente al día en que se presente la complementaria.
-
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 1996)</small>
-
-III.- Cuando el total de remuneraciones por las que se deba pagar el impuesto del ejercicio sea superior a la suma del declarado en los pagos provisionales que comprenda el mismo, se deberán presentar declaraciones complementarias por el período o períodos por los que se efectúan pagos provisionales a que correspondan las diferencias, debiéndose actualizar el impuesto y cubrir los recargos conforme a los artículos 20 y 22 del Código Fiscal del Estado.
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1999)</small>
-
-IV.- Cuando la diferencia entre el impuesto del ejercicio y la suma del impuesto consignado en las declaraciones provisionales, se deba al ajuste de las contribuciones pagadas efectuado en los términos previstos en el artículo 18 último párrafo del Código Fiscal del Estado, se recepcionará la declaración anual sin cobro alguno.
-
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### ARTICULO 43-D.
 
-Cuando se realicen las erogaciones a que se refiere el artículo 39 de esta ley, en forma ocasional o por única vez, el contribuyente pagará el impuesto mediante declaración que presentará en las oficinas autorizadas dentro de los 5 días siguientes a aquel en que se realizó la erogación. En estos casos no se formulará declaración anual ni pago provisional.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 1997)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-Cuando el contribuyente realice la erogación a que se refiere el párrafo anterior por única ocasión, no estará obligado a inscribirse en el Registro Estatal de Contribuyentes.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
-#### SECCION TERCERA. DE LAS OBLIGACIONES
+#### SECCIÓN TERCERA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### ARTICULO 44.
 
-Son obligaciones de los contribuyentes de este impuesto, además de las establecidas en el Código Fiscal del Estado, las siguientes:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
-
-II.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
-
-III.- (DEROGADA, P.O. 29 DE DICIEMBRE DE 1995)
-
-IV.- Las sucursales, bodegas, agencias y otras dependencias de la matriz que se establezcan fuera del domicilio fiscal de ésta, deberán empadronarse solo para efectos de control.
-
-> <small>(REFORMADA, P.O. 19 DE AGOSTO DE 2013)</small>
-
-V.- Las personas físicas, morales o unidades económicas, así como las dependencias, los organismos descentralizados, desconcentrados, autónomos y los fideicomisos de Gobierno, que para efectos de impuestos federales tengan su domicilio fiscal en otra Entidad Federativa y que efectúen pagos por remuneraciones al trabajo personal subordinado prestado dentro del territorio del Estado, deberán registrar como domicilio fiscal estatal el lugar donde se preste el trabajo personal subordinado, además deberán hacer sus pagos en las instituciones bancarias autorizadas, con base a las disposiciones que al efecto dicte la Secretaría;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1998)</small>
-
-VI.- Conservar la documentación, nóminas, listas de raya o cualquier otro medio de captura de información relacionado con este impuesto por un período de cinco años contados, a partir de la fecha en que se presentaron o debieron haberse presentando las declaraciones con ellas relacionadas.
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2004)</small>
-
-VII.- Las personas físicas, morales o unidades económicas, así como las dependencias, los organismos descentralizados, desconcentrados, autónomos y los fideicomisos de Gobierno, que para efecto de impuestos federales tengan su domicilio fiscal en otra entidad, deberán mantener copia de su documentación contable fiscal relacionada con las contribuciones estatales, en la sucursal que corresponda en el Estado.
-
-> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-VIII.- Cuando los contribuyentes detecten diferencias en sus pagos, deberán presentar declaraciones complementarias. Asimismo, cuando por motivo del ejercicio de las facultades de comprobación fiscal deberán presentarse declaraciones de corrección por los períodos omitidos.
-
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
-
-IX.- Para los efectos previstos en el artículo 40 segundo párrafo de esta Ley, quienes contraten servicios de administración de personal a personas físicas o morales que para efectos de impuestos federales tengan su domicilio fiscal en otra Entidad Federativa, deberán conservar en su domicilio fiscal a disposición de las autoridades fiscales, copias de la documentación, nóminas, listas de raya o cualquier otro medio de captura de información relacionado con este impuesto por un período de cinco años, contados a partir de la fecha en que se presentaron o debieron haberse presentado las declaraciones con ellas relacionadas, así como de su documentación contable fiscal relacionada con este impuesto.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE DICIEMBRE DE 2013)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### ARTICULO 45.
 
-Los sujetos de este impuesto que tengan una o más sucursales dentro del Estado, presentarán una sola declaración en la que concentrarán la totalidad de las erogaciones gravadas por este concepto. Cuando la oficina matriz no se encuentre dentro del Estado, deberá designarse mediante oficio dirigido al Secretario de Finanzas y Planeación, la oficina Recaudadora de Rentas ante la cual se presentarán las declaraciones.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
-
-En las declaraciones que se presenten en los términos del párrafo que antecede, deberán consignarse los datos concernientes al número de sucursales por las que se declarará y la ubicación de las mismas, así como el número de trabajadores por cada sucursal y los montos generados por cada una de ellas.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2009)</small>
-
-Tratándose de intermediarios laborales deberán manifestar el número de empleados e impuesto causado por cada uno de los establecimientos donde se le hubiese contratado.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### ARTICULO 46.
 
-Quienes realicen pagos y erogaciones por cuentas de terceros gravados por este impuesto, a personas que presten servicios en el estado, estarán obligados a retener el impuesto correspondiente y a enterarlo en la Oficina Recaudadora de Rentas que corresponda al lugar en que se realice el pago en los términos y plazos establecidos por el artículo 43 de esta ley.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE 1995)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### ARTICULO 47.
 
-Las personas a que se refiere el artículo anterior, están obligadas a presentar aviso de inscripción ante la Oficina Recaudadora de Rentas correspondiente a la jurisdicción del lugar donde se realicen los pagos por cuenta de terceros, debiendo proporcionar a ésta, comprobante de retención.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE DICIEMBRE DE 2006)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### ARTICULO 47
 
-BIS.- Las dependencias y organismos auxiliares de la Administración Pública Federal, Estatal y los Municipios que contraten obra pública con empresas foráneas o locales, tendrán la obligación de retener este impuesto a dichas empresas al efectuar el pago correspondiente de la obra y posteriormente deberán enterarlo en la Oficina Recaudadora de Rentas que corresponda a la ubicación de la obra.
+BIS.- (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2003)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-Para determinar la cantidad a retener se tomará como base del Impuesto, la cantidad establecida por concepto de la mano de obra enterada en el presupuesto autorizado de la obra pública, aplicando la tasa señalada en el artículo 42 de la misma Ley, por cada pago de estimaciones por trabajos ejecutados, que se otorgue a la empresa constructora a cuenta de pago final y hasta la terminación de la obra.
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+#### SECCIÓN CUARTA
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
-
-El pago del impuesto retenido, deberá efectuarse dentro de los 10 días del mes siguiente a aquel en el cual se efectuaron las retenciones, mediante declaración definitiva en las formas aprobadas por la propia Secretaría.
-
-#### SECCION CUARTA. DE LAS EXENCIONES
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### ARTICULO 48.
 
-No se consideran gravadas por este impuesto, las erogaciones que se cubran por concepto de:
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-I.- Las indemnizaciones por terminación de relaciones laborales y por riesgo o enfermedades profesionales que sean otorgadas conforme a las leyes o contratos de trabajo respectivo. Salvo las otorgadas por diferencia y ajustes de sueldos.
-
-II.- Jubilaciones y pensiones en caso de invalidez, vejez, cesantía y muerte.
-
-III.- Pagos por gastos funerarios.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 1998)</small>
-
-IV.- Los instrumentos de trabajo, tales como herramientas, ropa y otros similares.
-
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2014)</small>
-
-V.- Remuneraciones cubiertas por las dependencias de la Administración Pública Centralizada Municipal.
-
-VI.- Remuneraciones cubiertas por los Ejidos y Comunidades, las uniones de ejidos y comunidades, las empresas sociales constituidas por avecindados e hijos de ejidatarios con derechos a salvo, las asociaciones rurales de interés colectivo, las sociedades de producción rural y las unidades agrícolas industriales de la mujer campesina.
-
-VII.- Remuneraciones cubiertas por las personas morales con fines no lucrativos siguientes:
-
-a) Sindicatos obreros y los organismos que los agrupen.
-
-b) Asociaciones patronales.
-
-c) Cámaras de comercio, industria, agricultura, ganadería o pesca, así como los organismos que los agrupen.
-
-d) Colegios de profesionales y los organismos que los agrupen.
-
-e) Instituciones de asistencia o de beneficencia autorizadas por las leyes en la materia.
-
-f) Sociedades cooperativas de consumo.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
-
-g) Las asociaciones civiles organizadas con fines científicos, políticos, religiosos, culturales o deportivos.
-
-No se considerarán para estos fines las instituciones educativas a menos que sus servicios sean gratuitos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
-
-VIII.- El ahorro cuando se integre por un depósito igual del trabajador y de la empresa, siempre y cuando éste se realice con la misma periodicidad al pago de las remuneraciones del trabajador;
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2004)</small>
-
-IX.- Remuneraciones cubiertas a trabajadores domésticos en términos de la Ley Federal del Trabajo.
-
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2004)</small>
-
-X.- Remuneraciones a cónyuges y/o familiares hasta el primer grado en línea recta.
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2002)</small>
-
-XI.- Cuotas obrero patronales efectuadas por el patrón al INFONAVIT, SAR, IMSS, ISSSTE.
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
-
-XII.- La alimentación, la habitación y las despensas cuando se cobren al trabajador.
-
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2003)</small>
-
-XIII.- Las remuneraciones cubiertas a trabajadores con capacidades diferentes, siempre que acrediten esta calidad mediante certificado expedido por un Organismo de Salud Pública competente y credencial del DIF correspondiente. Los certificados emitidos por particulares se considerarán improcedentes.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 #### SECCION QUINTA. DE LAS INFRACCIONES Y SANCIONES
 
@@ -6647,9 +6455,17 @@ b) Para remolques 6.25 veces el S.M.G.
 
 c) Para motocicletas 4.50 veces el S.M.G.
 
-d) Para bicicletas por cada año, de servicio particular 1.15 veces S.M.G. y servicio público 1.7 veces S.M.G.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-e) Para triciclos por cada año, de servicio particular 1.15 veces S.M.G. y servicio público 3.45 veces el S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+d) Para bicicletas de servicio particular 1.15 veces S.M.G. y servicio público 1.7 veces S.M.G.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+e) Para triciclos de servicio particular 1.15 veces S.M.G. y servicio público 3.45 veces el S.M.G.
 
 f) Para carros de tracción animal 1.15 veces el S.M.G.
 
@@ -6659,7 +6475,11 @@ h) Para automóviles utilizados para demostración 17.25 veces S.M.G.
 
 Los derechos por dotación de placas a que se refiere esta fracción deberán pagarse dentro de los treinta días hábiles siguientes a la fecha de facturación o a la fecha de la legal introducción al país o pedimento cuando se trate de vehículos usados de importación o inmediatamente previo a la alta correspondiente en el padrón vehicular cuando se trate de vehículos emplacados en otras entidades federativas.
 
-Tratándose de los incisos a), b), c), f), g) y h), los derechos por canje de placas deberán pagarse los primeros seis meses de cada tres años, contados a partir del último canje autorizado por el titular del Poder Ejecutivo del Estado de Quintana Roo; en el caso de los incisos d) y e) los derechos por canje de placas deberán pagarse los primeros seis meses de cada año, contados a partir del último canje.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+Los derechos por canje de placas deberán pagarse los primeros tres meses de cada tres años, contados a partir del último canje autorizado por el titular del Poder Ejecutivo del Estado de Quintana Roo.
 
 III.- Derechos por control vehicular por revalidación y refrendo:
 
@@ -6677,7 +6497,11 @@ a) 15 días sin placas, 3.45 veces el S.M.G
 
 b) 30 días sin placas, 6.90 veces el S.M.G.
 
-V.- Derechos por control vehicular por la expedición y reposición de la tarjeta de circulación por un año 0.75 veces el S.M.G.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+V.- Derechos por control vehicular por la expedición y reposición de la tarjeta de circulación por un año 1.25 veces el S.M.G.
 
 VI.- Derechos por control vehicular por inscripción y refrendo en el padrón estatal de embarcaciones 3.00 veces el S.M.G.
 
@@ -8501,11 +8325,17 @@ g) Por expedición de constancias de asiento registral por folio 5 S.M.G.
 
 h) Por búsqueda que se realice a través del Programa Informático para la expedición de constancia de propiedad y no propiedad, por cada nombre buscado 5 S.M.G.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+i) Por el depósito de testamentos, si se hace en la oficina del Registro 10 S.M.G.
+
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
-i) Por el depósito de testamentos ológrafos, si se hace en la oficina del Registro 10 S.M.G.
-
 Si se hace fuera de la oficina del Registro 12 S.M.G.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
 Si el depósito se hace fuera de las horas de oficina, será de: 15 S.M.G.
 
@@ -9403,15 +9233,13 @@ f) Por la verificación para el trámite de Licencia de Bebidas Alcohólicas 4 S
 
 ### CAPITULO XXVIII. DE LOS SERVICIOS PRESTADOS POR EL CENTRO ESTATAL DE EVALUACION Y CONTROL DE CONFIANZA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 207-R.
 
-por los servicios que otorga el Centro Estatal de Evaluación y Control de Confianza, se causará los siguientes derechos:
-
-a) Por la aplicación de evaluaciones integrales que incluyen la psicológica, médica, poligráfica, de entorno social, y toxicológica 26.70 veces el S.M.G. por persona.
+Por los servicios que otorga el Centro Estatal de Evaluación y Control de Confianza, consistente en la aplicación de la Evaluación de Control de Confianza, se causará un derecho de 88 S.M.G. por persona.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
@@ -9483,17 +9311,97 @@ Las personas físicas o morales que requieran del Servicio Especial de Vigilanci
 
 Se entiende como Servicios Especiales de Vigilancia, aquellos que sean requeridos por las personas físicas o morales y que su ejecución contribuya al mejoramiento de la seguridad pública en el Estado, llevándose a cabo su contratación específica para el resguardo interior y exterior de áreas del sector privado tales como hospitales, instalaciones e inmuebles, hoteles, complejos industriales, comerciales y residenciales, bancos, custodia y traslado de valores y objetos, así como protección a funcionarios y personas en general.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2013)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ### CAPITULO XXXI. POR LOS SERVICIOS QUE PRESTA LA SECRETARIA DE GOBIERNO
 
-> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 4 DE DICIEMBRE DE 2013)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-#### SECCION UNICA. DE LOS SERVICIOS ESPECIALES DE VIGILANCIA
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN PRIMERA. DE LOS SERVICIOS ESPECIALES DE VIGILANCIA
 
 > <small>(ADICIONADO, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
-#### SECCION PRIMERA. VENTA Y EXPLOTACION DE BIENES MUEBLES E INMUEBLES
+#### SECCIÓN SEGUNDA. DE LOS SERVICIOS DEL PERIÓDICO OFICIAL DEL ESTADO
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 207-X
+
+BIS.- Los servicios que presta el Periódico Oficial del Estado, se sujetarán al pago de los derechos siguientes:
+
+I. Inserción de publicaciones
+
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 15 DE DICIEMBRE DE 2015, PÁGINA 251.]</small>
+
+Los costos anteriores aumentarán en un 20% en caso de que los gráficos, mapas o planos se publiquen a color.
+
+II. Suscripciones
+
+a) Anual 24 números ordinarios 20 S.M.G.
+
+b) Semestral 12 números ordinarios 13 S.M.G.
+
+c) Anual vía internet 24 números ordinarios 9.62 S.M.G.
+
+d) Semestral vía internet 12 números ordinarios 6.73 S.M.G.
+
+III. Venta de ejemplares
+
+a) Ejemplar de hasta 8 hojas 1 S.M.G.
+
+b) Ejemplar de 9 hasta 100 hojas 1.50 S.M.G.
+
+c) Ejemplar de 101 hasta 200 hojas 4.00 S.M.G.
+
+d) Ejemplar de más de 200 hojas 9.00 S.M.G.
+
+e) Ejemplar vía Internet:
+
+1. Hasta de 5 hojas 0.98 S.M.G.
+
+2. De 6 a 100 hojas 0.96 S.M.G.
+
+3. De más de 100 hojas 0.50 S.M.G.
+
+IV. Otros servicios
+
+a) Búsqueda de publicación 1.00 S.M.G.
+
+b) Certificación de ejemplares agotados 1.00 S.M.G.
+
+c) Certificación de inexistencia de ejemplares 1.00 S.M.G
+
+V. Servicios notariales
+
+a) Autorización de Licencias 42.00 S.M.G.
+
+b) Revocación de Licencias 42.00 S.M.G.
+
+c) Designación de Notario Suplente 42.00 S.M.G.
+
+d) Designación de Notario Auxiliar 42.00 S.M.G.
+
+e) Cambio de domicilio 32.00 S.M.G.
+
+f) Cambio de adscripción 53.00 S.M.G.
+
+g) Extracto de la solicitud de devolución de fianza 32.00 S.M.G.
+
+h) Aviso de inicio de funciones, sea titular, suplente 42.00 S.M.G.
+
+o auxiliar
+
+Esta tarifa será aplicable para las ediciones ordinarias. Para las extraordinarias se estará a lo dispuesto en la fracción I inciso b) del presente artículo.
+
+El pago por los servicios señalados en el presente artículo, se harán previamente a la publicación solicitada.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE DICIEMBRE DE 2013)</small>
 
 ### CAPITULO XXXII. POR LOS SERVICIOS QUE PRESTA LA SECRETARIA DE DESARROLLO URBANO Y VIVIENDA
 
@@ -9571,7 +9479,7 @@ No pagarán el derecho a que se refiere este artículo las personas mayores de 6
 
 ### CAPITULO UNICO
 
-#### SECCION SEGUNDA. VENTA DE SOLARES DEL FUNDO LEGAL
+#### SECCION PRIMERA. VENTA Y EXPLOTACION DE BIENES MUEBLES E INMUEBLES
 
 ###### ARTICULO 208.
 
@@ -9603,49 +9511,43 @@ III. Lote de Reserva territorial
 
 El titular del Poder Ejecutivo emitirá mediante acuerdo o decreto los lineamientos para determinar las condiciones de venta, costo, incluyendo el pago en parcialidades de los bienes previstos en este artículo.
 
-#### SECCION TERCERA. DEL PERIODICO OFICIAL DEL ESTADO
-
-> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
+#### SECCION SEGUNDA. VENTA DE SOLARES DEL FUNDO LEGAL
 
 ###### ARTICULO 210.
 
 Todo ciudadano tiene derecho a solicitar sin perjuicio de terceros, que se le venda un lote de terreno del fundo legal de las poblaciones del Estado. El título definitivo se expedirá por el Gobierno del Estado una vez que el interesado haya llenado los requisitos que señalen las disposiciones reglamentarias respectivas y previo pago del valor que determine el avalúo que practique la Dirección de Catastro.
 
-#### SECCION CUARTA. TALLERES DE GOBIERNO
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN TERCERA
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 ###### ARTICULO 211.
 
-Los servicios que presta el Periódico Oficial del Estado, se sujetarán a las siguientes:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-TARIFAS
-
-> <small>N. DE E. VÉASE TARIFAS EN EL NÚMERO EXTRAORDINARIO DEL P.O. 16 DE DICIEMBRE DE 2014, PÁGINAS 103 A 105.</small>
-
-Esta tarifa será aplicable para las ediciones ordinarias, para las extraordinarias se estará a lo dispuesto en la fracción I inciso b) del presente artículo.
-
-El pago por los servicios señalados en el presente artículo, se harán previamente a la publicación solicitada.
-
-#### SECCION QUINTA. ESTABLECIMIENTOS PENALES
+#### SECCION CUARTA. TALLERES DE GOBIERNO
 
 ###### ARTICULO 212.
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
 
-#### SECCION SEXTA. IMPRENTA DE GOBIERNO
+#### SECCION QUINTA. ESTABLECIMIENTOS PENALES
 
 ###### ARTICULO 213.
 
 (DEROGADO, P.O. 29 DE DICIEMBRE DE 1995)
 
-#### SECCION SEPTIMA. PUBLICACIONES OFICIALES
+#### SECCION SEXTA. IMPRENTA DE GOBIERNO
 
 ###### ARTICULO 214.
 
 Los trabajos realizados en la imprenta de Gobierno del Estado se cobrarán de acuerdo con las cuotas que fije la tarifa que expedira dicho Gobierno, la que surtira sus efectos lo mismo que las reformas que se hagan, 30 días después de su publicación en el Periódico Oficial de Estado.
 
-#### SECCION OCTAVA
-
-POR EL ACCESO, USO O GOCE DE BIENES PROPIEDAD DEL GOBIERNO DEL ESTADO O LOS QUE TENGA BAJO SU ADMINISTRACION.
+#### SECCION SEPTIMA. PUBLICACIONES OFICIALES
 
 ###### ARTICULO 215.
 
@@ -9653,9 +9555,9 @@ Las publicaciones editadas por el Gobierno del Estado se cobrarán de acuerdo a 
 
 Cada ejemplar que se edite deberá contener el precio de venta.
 
-#### SECCION NOVENA. PRODUCTOS DIVERSOS
+#### SECCION OCTAVA
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
+POR EL ACCESO, USO O GOCE DE BIENES PROPIEDAD DEL GOBIERNO DEL ESTADO O LOS QUE TENGA BAJO SU ADMINISTRACION.
 
 ###### ARTICULO 216.
 
@@ -9667,9 +9569,9 @@ El Gobierno del Estado, percibirá los productos derivados por el acceso, uso o 
 
 Las cuotas o tarifas aplicables al artículo anterior, serán las que autorice la Secretaría, de conformidad con la normatividad que establezcan las autoridades respectivas en materia turística y de desarrollo urbano y ecología.
 
-#### SECCION DECIMA. RENDIMIENTOS FINANCIEROS
+#### SECCION NOVENA. PRODUCTOS DIVERSOS
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 ###### ARTICULO 218.
 
@@ -9685,11 +9587,9 @@ inclusive licencias de funcionamiento. 2.00 S.M.G.
 
 b).- Por formato de alta y baja de vehículos. 0.50 S.M.G.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2011)</small>
-
-c).- Por tarjeta de circulación. 0.50 S.M.G.
+c).- (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 d).- Por formatos en general. 0.0647 S.M.G.
 
@@ -9722,6 +9622,10 @@ f).- Por formas impresas de:
 2.- Copia certificada formato único sin esqueleto para los Municipios del Estado 0.3 S.M.G.
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2000)</small>
+
+#### SECCION DECIMA. RENDIMIENTOS FINANCIEROS
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 218
 
@@ -11082,3 +10986,79 @@ También se consideran como derechos para los efectos de este artículo, las con
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 370 POR EL QUE SE REFORMAN LOS ARTÍCULOS 176 FRACCIÓN II INCISOS D), E) Y ÚLTIMO PÁRRAFO Y LA FRACCIÓN V; 203-BIS INCISO I), EL ARTÍCULO 207-R Y LA DENOMINACIÓN DE LA SECCIÓN ÚNICA “DE LOS SERVICIOS ESPECIALES DE VIGILANCIA” DEL CAPÍTULO XXXI “POR LOS SERVICIOS QUE PRESTA LA SECRETARÍA DE GOBIERNO” DEL TÍTULO III “DE LOS DERECHOS” PARA PASAR A SER UNA SECCIÓN PRIMERA; SE ADICIONA: LA SECCIÓN SEGUNDA DENOMINADA “DE LOS SERVICIOS DEL PERIÓDICO OFICIAL DEL ESTADO” AL CAPÍTULO XXXI “POR LOS SERVICIOS QUE PRESTA LA SECRETARÍA DE GOBIERNO” DEL TÍTULO III “DE LOS DERECHOS” QUE CONTENDRÁ EL ARTÍCULO 207-X-BIS; Y SE DEROGAN: EL CAPÍTULO III DENOMINADO “DEL IMPUESTO SOBRE NÓMINAS” DEL TÍTULO II “DE LOS IMPUESTOS” QUE CONTIENE LAS SECCIONES PRIMERA A CUARTA Y LOS ARTÍCULOS 39 AL 48, LA SECCIÓN TERCERA DENOMINADA “DEL PERIÓDICO OFICIAL DEL ESTADO” DEL TÍTULO IV “DE LOS PRODUCTOS” QUE CONTIENE EL ARTÍCULO 211 Y EL INCISO C) DEL ARTÍCULO 218; TODOS DE LA LEY DE HACIENDA DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. En tanto el Estado de Quintana Roo permanezca adherido al Sistema Nacional de Coordinación Fiscal, suscrito mediante convenio y anexos respectivos con la Secretaría de Hacienda y Crédito Público, quedan en suspenso los siguientes:
+
+I.- IMPUESTOS
+
+1. Sobre enajenación de vehículos de motor y bienes muebles usados entre particulares de manera parcial.
+
+2. Sobre productos y rendimientos de capital de manera parcial.
+
+3. Al comercio y la industria.
+
+4. Sobre producción de azúcar, piloncillo y mieles cristalizables e incristalizables.
+
+5. Sobre compraventa de primera mano de azúcar, piloncillo y mieles cristalizables e incristalizables.
+
+6. Sobre la compraventa de primera mano de productos agrícolas.
+
+7. Sobre compraventa o permuta de ganado o sus esquilmos.
+
+8. Sobre la cría de ganado.
+
+9. Al libre ejercicio de profesiones y actividades lucrativas de manera parcial.
+
+10. Sobre explotación y venta de primera mano de diversos materiales para construcción.
+
+II.- DERECHOS
+
+A). Licencias, anuencias previas al otorgamiento de las mismas, en general concesiones, permisos o autorizaciones, o bien obligaciones y requisitos que condicionen el ejercicio de actividades comerciales o industriales y de prestación de servicios. Así mismo, los que resulten como consecuencia de permitir o tolerar excepciones a una disposición administrativa tales como la ampliación de horario, con excepción de los siguientes numerales:
+
+1. Licencias de construcción.
+
+2. Licencias o permisos para efectuar conexiones a las redes públicas de agua y alcantarillado.
+
+3. Licencias para fraccionar o lotificar terrenos.
+
+4. Licencias para conducir vehículos.
+
+5. Expedición de placas y tarjeta para la circulación de vehículos.
+
+6. Licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales cuyos giros sean la enajenación de bebidas alcohólicas o la prestación de servicios que incluyan el expendio de dichas bebidas, siempre que se efectúen total o parcialmente con el público en general.
+
+7. Licencias, permisos o autorizaciones para la colocación de anuncios y carteles o la realización de publicidad, excepto las que se realicen por medio de televisión, radio, periódicos y revistas.
+
+B). Registros o cualquier acto relacionado con los mismos, a excepción de los siguientes:
+
+1. Registro civil.
+
+2. Registro de la Propiedad y del Comercio.
+
+C). Uso de las vías públicas o la tenencia de bienes sobre las mismas.
+
+No se considerarán comprendidos dentro de lo dispuesto en esta fracción los derechos de estacionamiento de vehículos, el uso de la vía pública por comerciantes ambulantes o con puestos fijos o semifijos, ni por el uso o tenencia de anuncios.
+
+D). Actos de inspección y vigilancia.
+
+Los derechos locales o municipales no podrán ser diferenciales considerando el tipo de actividad a que se dedique el contribuyente, excepto cuando se trate de derechos diferenciales por los conceptos a los que se refieren los numerales del 1 al 7 del inciso A) y el inciso C).
+
+Las certificaciones de documentos, así como la reposición de éstos por extravío o destrucción parcial o total, no quedarán comprendidas dentro de lo dispuesto en los incisos A y B de este artículo. Tampoco quedan comprendidas las concesiones por el uso o aprovechamiento de bienes pertenecientes a las Entidades Federativas o a los Municipios.
+
+En ningún caso lo dispuesto en este artículo, limitará la facultad de los Estados y Municipios para requerir licencias, registros, permisos o autorizaciones, otorgar concesiones y realizar actos de inspección y vigilancia. Para el ejercicio de estas facultades no se podrá exigir cobro alguno, con las salvedades expresamente señaladas en este artículo.
+
+Para los efectos de coordinación con las Entidades, se considerarán derechos, aún cuando tengan una denominación distinta en la legislación estatal y municipal correspondiente, las contribuciones que tengan las características de derechos conforme al Código Fiscal de la Federación y a la Ley de Ingresos de la Federación.
+
+También se consideran como derechos para los efectos de este artículo, las contribuciones u otros cobros, cualquiera que sea su denominación, que tengan la característica de derechos de acuerdo con el Código Fiscal de la Federación, aún cuando se cobren por concepto de aportaciones, cooperaciones, donativos, productos, aprovechamientos o como garantía de pago por posibles infracciones.
+
+SEGUNDO. Se dejan sin efecto todas las disposiciones legales que se opongan al presente Decreto.
+
+TERCERO. Las obligaciones y derechos derivados del Capítulo III del Título II de la Ley de Hacienda del Estado de Quintana Roo que se deroga que hubieran nacido durante su vigencia, por la realización de las situaciones jurídicas o de hecho previstas en sus disposiciones, deberán ser cumplidas en las formas y plazos establecidos en dichas disposiciones que se derogan.
+
+CUARTO. Las referencias que se efectúen en otras disposiciones legales al Impuesto Sobre Nóminas contenido en el Capítulo III del Título II de la Ley de Hacienda del Estado de Quintana Roo que se deroga se entenderán efectuadas a dicho impuesto previsto en la Ley del Impuesto Sobre Nóminas del Estado de Quintana Roo.
+
+QUINTO. El presente Decreto entrará en vigor a partir del 1° de Enero de 2016, previa publicación en el Periódico Oficial del Estado de Quintana Roo.
