@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-5441
 country: "mx"
 rank: "ley"
 publication_date: "2007-02-10"
-last_updated: "2007-12-26"
+last_updated: "2015-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54415&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "TAB"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE TABASCO
 
-LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE TABASCO
+LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE DICIEMBRE DE 2007.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE TABASCO, PUBLICADA EN EL P.O. DE 15 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el sábado 10 de febrero de 2007.
 
@@ -227,7 +229,7 @@ Ningún sujeto obligado está forzado a proporcionar información cuando se encu
 
 Los Sujetos Obligados, pondrán a disposición del público, difundiéndola y actualizándola, la siguiente información mínima de oficio:
 
-> <small>(ADICIONADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2007)</small>
 
 I. Se considera información mínima de oficio la siguiente:
 
@@ -453,7 +455,7 @@ En las Entidades Gubernamentales y de Interés Público, así como en las biblio
 
 ### CAPÍTULO TERCERO. DEL INSTITUTO TABASQUEÑO DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 18.
 
@@ -571,7 +573,7 @@ XXI. Dictar las medidas necesarias para el mejor funcionamiento del Instituto.
 
 El Instituto, para el mejor desempeño de sus funciones, deberá establecer relaciones de cooperación y coordinación con los Sujetos Obligados; para tal efecto expedirá las normas de operación y lineamientos pertinentes, con el propósito de establecer formatos sencillos, entendibles y claros para la consulta expedita de la información difundida por los Sujetos Obligados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 24.
 
@@ -623,7 +625,7 @@ El Instituto impulsará, conjuntamente con instituciones de educación superior,
 
 El ejercicio del derecho de acceso a la información pública sólo será restringido en los términos de lo dispuesto por esta Ley, mediante las figuras de la información reservada y confidencial.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 31.
 
@@ -721,7 +723,7 @@ Cuando los Sujetos Obligados recaben información confidencial deberán informar
 
 Los Sujetos Obligados establecerán Unidades de Acceso a la Información y designarán de entre sus servidores públicos a su titular que será responsable de la atención de las solicitudes de información que formulen las personas.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2007)</small>
 
 ###### Artículo 39.
 
@@ -947,7 +949,7 @@ Tratándose de la protección de datos personales, el recurso de revisión proce
 
 I. El Sujeto Obligado no entregue al solicitante los datos personales solicitados o lo haga en un formato incomprensible;
 
-II. El Sujeto Obligado se niegue a efectuar modificaciones o correcciones a lo datos personales;
+II. El Sujeto Obligado se niegue a efectuar modificaciones o correcciones a lo (sic) datos personales;
 
 III. El solicitante no esté conforme con el tiempo, el costo, o la modalidad de entrega; y
 
@@ -1011,7 +1013,7 @@ La resolución final deberá emitirse por escrito, y estar fundada y motivada.
 
 Para los Sujetos Obligados las resoluciones del Instituto serán definitivas. La persona agraviada tendrá en todo tiempo el derecho para acudir a los órganos jurisdiccionales para hacer valer lo que a su derecho corresponda.
 
-> <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE DICIEMBRE DE 2007)</small>
 
 ### CAPÍTULO DÉCIMO. DE LA QUEJA
 
@@ -1023,7 +1025,7 @@ Procede la Queja ante el Instituto por el incumplimiento por parte del o de los 
 
 La Queja podrá ser interpuesta por cualquier particular en los términos que establezca el Reglamento de la Ley.
 
-> <small>(REFORMADA SU NUMERACION [N. DE E. ANTES CAPITULO DECIMO], P.O. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA SU NUMERACIÓN [N. DE E. ANTES CAPÍTULO DÉCIMO], P.O. 26 DE DICIEMBRE DE 2007)</small>
 
 ### CAPÍTULO UNDÉCIMO. FALTAS ADMINISTRATIVAS Y SANCIONES
 
@@ -1069,7 +1071,7 @@ XVI. Recabar datos personales innecesarios para el desempeño de sus funciones p
 
 XVII. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2007)
 
-> <small>(DEROGADO ULTIMO PARRAFO, P.O. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2007)</small>
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -1141,7 +1143,7 @@ LIC. MIGUEL ALBERTO ROMERO PÉREZ
 
 CONSEJERO JURÍDICO DEL PODER EJECUTIVO DEL ESTADO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 26 DE DICIEMBRE DE 2007.
 
@@ -1172,3 +1174,29 @@ Las personas podrán ejercer el derecho de acceso a la información pública y d
 ###### ARTÍCULO SÉPTIMO.
 
 Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 15 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 235 POR EL QUE “SE EXPIDE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE TABASCO”.]
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga la Ley de Transparencia y Acceso a la Información Pública del Estado de Tabasco, publicada en el Suplemento "C" al Periódico Oficial del Estado número 6723, de fecha 10 de febrero de 2007; así mismo, se deroga cualquier otra disposición que contravenga la presente Ley.
+
+TERCERO.- En términos del artículo 51, fracción I, de la Constitución local, el Gobernador del Estado deberá expedir el Reglamento de la presente Ley, en un plazo no mayor a ciento ochenta días naturales, contado a partir de la publicación de la presente Ley.
+
+CUARTO.- Los consejeros que actualmente integran el Consejo del Instituto Tabasqueño de Transparencia y Acceso a la Información Pública, podrán continuar en sus cargos hasta que cumplan con el periodo para el cual fueron designados, que será el 28 de abril de 2016, pasando a tener el carácter de comisionados.
+
+La designación de los comisionados del nuevo órgano de gobierno del Instituto, que se crea con esta Ley, deberá ser realizada antes del 30 de marzo de 2016.
+
+Para asegurar la renovación escalonada con motivo de los nombramientos que se realizarán, por esta única vez, el Congreso local elegirá a los comisionados conforme a lo siguiente:
+
+a) Nombrará a una o un Comisionado cuyo encargo concluirá el 28 de abril de 2021;
+
+b) Nombrará a una o un Comisionado cuyo encargo concluirá el 28 de abril de 2022; y
+
+c) Nombrará a una o un Comisionado cuyo encargo concluirá el 28 de abril de 2023.
+
+Un mes antes de concluir cada uno de los comisionados sus respectivos periodos, el Congreso local deberá designar al o la comisionada que fungirá en el cargo, por un periodo de siete años.
+
+QUINTO.- Los asuntos que se encuentren en trámite o pendientes de resolución a la entrada en vigor de esta Ley, se sustanciarán conforme a la ley abrogada.
