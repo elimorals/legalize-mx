@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-del-poder-judicial-del-estado-de-coahuila-de-3733"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1990-12-11"
-last_updated: "2015-09-30"
+last_updated: "2015-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3733&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 11 de diciembre de 1990.
 
@@ -147,7 +147,7 @@ XII.- Los tutores y curadores;
 
 > <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
 
-XIII.- todos (sic) los miembros de la Policía del Estado y de las Policías y Tránsitos Municipales;
+XIII.- todos los miembros de la Policía del Estado y de las Policías y Tránsitos Municipales;
 
 XIV.- Los abogados y los notarios públicos; y
 
@@ -283,7 +283,7 @@ VII.- Resolver, en única instancia, las demandas que por responsabilidad civil 
 
 VIII.- Ejercer la jurisdicción disciplinaria que le corresponde por faltas administrativas, excepto la que sea competencia del Consejo de la Judicatura, en los términos del capítulo IV del título décimo de esta ley;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MAYO DE 1999)</small>
+> <small>(REFORMADA, P.O. 18 DE MAYO DE 1999)</small>
 
 IX.- Fijar jurisprudencia por reiteración o por contradicción en los términos que establezca esta ley.
 
@@ -1469,9 +1469,11 @@ Los órganos jurisdiccionales en materia penal que conozcan del nuevo sistema de
 
 Los Jueces de Primera Instancia en Materia Familiar conocerán:
 
-> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I.- De los procedimientos contenciosos relativos al matrimonio, a la ilicitud o nulidad del mismo y al divorcio, incluyendo los que se refieren al régimen de bienes en el matrimonio; de los que tengan por objeto modificaciones o rectificaciones en las actas del Registro Civil; de los que afecten el parentesco, a los alimentos, a la paternidad y a la filiación legítima, natural o civil; de los que tengan por objeto cuestiones relativas a la patria potestad, estado de interdicción y tutela y las cuestiones de ausencia y de presunción de muerte; de los que se refieran a cualquier cuestión relacionada con el patrimonio de familia como su constitución, disminución, extinción o afectación en cualquier forma;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+I.- De los procedimientos contenciosos relativos al matrimonio, a la ilicitud o nulidad del mismo y al divorcio, incluyendo los que se refieren al régimen de bienes en el matrimonio; de los que tengan por objeto modificaciones o rectificaciones en las actas del Registro Civil; de los que afecten el parentesco, a los alimentos, a la paternidad y a la filiación legítima, natural o civil; de los que tengan por objeto cuestiones relativas a la patria potestad, estado de interdicción y tutela; y de los que se refieran a cualquier cuestión relacionada con el patrimonio de familia como su constitución, disminución, extinción o afectación en cualquier forma;
 
 II.- De los negocios de jurisdicción voluntaria relacionados con el Derecho Familiar;
 
@@ -1481,9 +1483,11 @@ IV.- De las diligencias de consignación en todo lo relativo al derecho familiar
 
 V.- De la diligenciación de los exhortos, requisitorias y despachos, relacionados con el derecho familiar; y
 
-> <small>(F. DE E., P.O. 15 DE ENERO DE 1991)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VI.- De las cuestiones que afecten en sus derechos de personas a los menores e incapacitados y, en general, de todas las cuestiones familiares que reclamen la intervención judicial.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+VI.- De las cuestiones que afecten en sus derechos de personas a los niños o niñas, o a las personas mayores de edad que requieran asistencia para el ejercicio de su capacidad jurídica y, en general, de todas las cuestiones familiares que reclamen la intervención judicial.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2015)</small>
 
@@ -2353,7 +2357,7 @@ ARTICULO 100 BIS.- Los Magistrados del Tribunal Superior de Justicia, de los Tri
 
 El haber por retiro a que se refiere este artículo se otorgará únicamente a los magistrados que no sean designados para otro periodo en el desempeño de su cargo.
 
-Sólo tendrán derecho a la percepción de los emolumentos a que se refiere el párrafo anterior, los magistrados que hubiesen cumplido con el período constitucional para el que fueron designados, o cuando se jubilen o se incapaciten de manera permanente durante dicho período. Si fuesen separados de su cargo de manera definitiva antes de la conclusión del período constitucional, en los términos del Título Séptimo de la Constitución Política local o por renuncia voluntaria, no gozarán de esta percepción.
+Sólo tendrán derecho a la percepción de los emolumentos a que se refiere el párrafo anterior, los magistrados que hubiesen cumplido con el periodo constitucional para el que fueron designados, o cuando se jubilen o se incapaciten de manera permanente durante dicho período. Si fuesen separados de su cargo de manera definitiva antes de la conclusión del período constitucional, en los términos del Título Séptimo de la Constitución Política local o por renuncia voluntaria, no gozarán de esta percepción.
 
 Las disposiciones de este artículo serán independientes del sistema pensionario aplicable a los titulares de los órganos jurisdiccionales del Poder Judicial, previsto en los ordenamientos legales que regulen esa materia.
 
@@ -4930,3 +4934,13 @@ El Tribunal de Apelación Especializado en Materia de Adolescentes del Estado de
 ###### ARTÍCULO OCTAVO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 15 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 229.- SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DEL CÓDIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA ASÍ COMO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor 180 días después de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Todos los juicios en trámite o que se inicien hasta antes de la entrada en vigor de este decreto, se rigen hasta su conclusión por el Código Procesal Civil para el Estado de Coahuila de Zaragoza vigente en la fecha que se iniciaron.
+
+TERCERO.- Se derogan las disposiciones que se opongan al presente decreto.
