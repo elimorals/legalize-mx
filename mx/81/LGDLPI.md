@@ -4,7 +4,7 @@ identifier: "LGDLPI"
 country: "mx"
 rank: "ley_general"
 publication_date: "2003-03-13"
-last_updated: "2012-04-09"
+last_updated: "2015-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29246&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGDLPI"
 
 LEY GENERAL DE DERECHOS LINGÜÍSTICOS DE LOS PUEBLOS INDÍGENAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 13 de marzo de 2003.
 
@@ -46,21 +46,27 @@ LEY GENERAL DE DERECHOS LINGÜÍSTICOS DE LOS PUEBLOS INDÍGENAS
 
 ### Capítulo I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público e interés social, de observancia general en los Estados Unidos Mexicanos y tiene por objeto regular el reconocimiento y protección de los derechos lingüísticos, individuales y colectivos de los pueblos y comunidades indígenas, así como la promoción del uso y desarrollo de las lenguas indígenas.
+La presente Ley es de orden público e interés social, de observancia general en los Estados Unidos Mexicanos y tiene por objeto regular el reconocimiento y protección de los derechos lingüísticos, individuales y colectivos de los pueblos y comunidades indígenas, así como la promoción del uso cotidiano y desarrollo de las lenguas indígenas, bajo un contexto de respeto a sus derechos.
 
 ###### ARTÍCULO 2.
 
 Las lenguas indígenas son aquellas que proceden de los pueblos existentes en el territorio nacional antes del establecimiento del Estado Mexicano, además de aquellas provenientes de otros pueblos indoamericanos, igualmente preexistentes que se han arraigado en el territorio nacional con posterioridad y que se reconocen por poseer un conjunto ordenado y sistemático de formas orales funcionales y simbólicas de comunicación.
 
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 3.
 
-Las lenguas indígenas son parte integrante del patrimonio cultural y lingüístico nacional. La pluralidad de lenguas indígenas es una de las principales expresiones de la composición pluricultural de la Nación Mexicana.
+Las lenguas indígenas son parte integrante del patrimonio cultural y lingüístico nacional. La diversidad de lenguas indígenas es una de las principales expresiones de la composición pluricultural de la Nación Mexicana.
+
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 4.
 
-Las lenguas indígenas que se reconozcan en los términos de la presente Ley y el español son lenguas nacionales por su origen histórico, y tienen la misma validez en su territorio, localización y contexto en que se hablen.
+Las lenguas indígenas que se reconozcan en los términos de la presente Ley y el español son lenguas nacionales por su origen histórico y tendrán la misma validez, garantizando en todo momento los derechos humanos a la no discriminación y acceso a la justicia de conformidad con la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales en la materia de los que el Estado Mexicano sea parte.
 
 ###### ARTÍCULO 5.
 
@@ -98,9 +104,11 @@ Las autoridades federales responsables de la procuración y administración de j
 
 En los términos del artículo 5o., en las entidades federativas y en los municipios con comunidades que hablen lenguas indígenas, se adoptarán e instrumentarán las medidas a que se refiere el párrafo anterior, en las instancias que se requieran.
 
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 11.
 
-Las autoridades educativas federales y de las entidades federativas, garantizarán que la población indígena tenga acceso a la educación obligatoria, bilingüe e intercultural, y adoptarán las medidas necesarias para que en el sistema educativo se asegure el respeto a la dignidad e identidad de las personas, independientemente de su lengua. Asimismo, en los niveles medio y superior, se fomentará la interculturalidad, el multilingüismo y el respeto a la diversidad y los derechos lingüísticos.
+Las autoridades educativas federales y de las entidades federativas, garantizarán que la población indígena tenga acceso a la educación obligatoria, bilingüe e intercultural, y adoptarán las medidas necesarias para que en el sistema educativo se asegure el respeto a la dignidad e identidad de las personas, así como a la práctica y uso de su lengua indígena. Asimismo, en los niveles medio y superior, se fomentará la interculturalidad, el multilingüismo y el respeto a la diversidad y los derechos lingüísticos.
 
 ###### ARTÍCULO 12.
 
@@ -112,7 +120,9 @@ La sociedad y en especial los habitantes y las instituciones de los pueblos y la
 
 Corresponde al Estado en sus distintos órdenes de gobierno la creación de instituciones y la realización de actividades en sus respectivos ámbitos de competencia, para lograr los objetivos generales de la presente Ley, y en particular las siguientes:
 
-I. Incluir dentro de los planes y programas, nacionales, estatales y municipales en materia de educación y cultura indígena las políticas y acciones tendientes a la protección, preservación, promoción y desarrollo de las diversas lenguas indígenas nacionales, contando con la participación de los pueblos y comunidades indígenas;
+> <small>(REFORMADA, D.O.F. 15 DE DICIEMBRE DE 2015)</small>
+
+I. Incluir dentro de los planes y programas, nacionales, estatales y municipales en materia de educación y cultura indígena las políticas y acciones tendientes a la protección, preservación, promoción y desarrollo bajo un contexto de respeto y reconocimiento de las diversas lenguas indígenas nacionales, contando con la participación de los pueblos y comunidades indígenas;
 
 II. Difundir en las lenguas indígenas nacionales de los beneficiarios, el contenido de los programas, obras y servicios dirigidos a las comunidades indígenas;
 
@@ -200,7 +210,9 @@ Los representantes de la Administración Pública Federal son los siguientes:
 
 5).- Un representante del Consejo Nacional para la Cultura y las Artes.
 
-6).- Un representante del Instituto Nacional Indigenista.
+> <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2015)</small>
+
+6).- Un representante de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas.
 
 7).- Un representante de la Secretaría de Relaciones Exteriores.
 
@@ -276,7 +288,7 @@ México, D.F., a 15 de diciembre de 2002.- Sen. Enrique Jackson Ramírez, Presid
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los diez días del mes de marzo de dos mil tres.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 6 DE ABRIL DE 2010.
 
@@ -284,13 +296,13 @@ D.O.F. 6 DE ABRIL DE 2010.
 
 D.O.F. 18 DE JUNIO DE 2010.
 
-DECRETO POR EL QUE SE REFORMA EL ARTICULO 14 DE LA LEY GENERAL DE DERECHOS LINGÜISTICOS DE LOS PUEBLOS INDIGENAS.
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 14 DE LA LEY GENERAL DE DERECHOS LINGÜÍSTICOS DE LOS PUEBLOS INDÍGENAS.
 
 ÚNICO. El presente decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 D.O.F. 18 DE JUNIO DE 2010.
 
-DECRETO POR EL QUE SE REFORMA EL ARTICULO 23 DE LA LEY GENERAL DE DERECHOS LINGÜISTICOS DE LOS PUEBLOS INDIGENAS.
+DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 23 DE LA LEY GENERAL DE DERECHOS LINGÜÍSTICOS DE LOS PUEBLOS INDÍGENAS.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
@@ -299,3 +311,15 @@ D.O.F. 9 DE ABRIL DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 15 DE DICIEMBRE DE 2015.
+
+DECRETO POR EL QUE SE REFORMAN EL ARTÍCULO 4 Y EL NUMERAL 6 DEL ARTÍCULO 16 DE LA LEY GENERAL DE DERECHOS LINGÜÍSTICOS DE LOS PUEBLOS INDÍGENAS.
+
+Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 15 DE DICIEMBRE DE 2015.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 1, 3, 11 Y LA FRACCIÓN I DEL ARTÍCULO 13 DE LA LEY GENERAL DE DERECHOS LINGÜÍSTICOS DE LOS PUEBLOS INDÍGENAS.
+
+Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
