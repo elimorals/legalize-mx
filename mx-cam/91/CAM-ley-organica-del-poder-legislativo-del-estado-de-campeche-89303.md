@@ -4,7 +4,7 @@ identifier: "CAM-ley-organica-del-poder-legislativo-del-estado-de-campeche-89303
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-08-17"
-last_updated: "2014-12-05"
+last_updated: "2015-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el viernes 17 de agosto de 2012.
 
@@ -525,7 +525,9 @@ VII. La Comisión de Desarrollo Rural;;
 
 VIII. La Comisión de Desarrollo Económico;
 
-IX. La Comisión de Desarrollo Turístico;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+IX. La Comisión de Desarrollo Turístico y Promoción del Patrimonio Mundial;
 
 X. La Comisión de Desarrollo Urbano y Obras Públicas;
 
@@ -566,6 +568,18 @@ XXV. La Comisión de Recursos Hidráulicos.
 > <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2014)</small>
 
 XXVI. La Comisión de Transparencia y Acceso a la Información Pública.
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+XXVII. La Comisión de Deporte y Cultura Física;
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+XXVIII. La Comisión de Desarrollo Energético Sustentable; y
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+XXIX. La Comisión de Trabajo y Previsión Social
 
 ###### Art. 35.
 
@@ -1415,13 +1429,11 @@ El presidente, los vicepresidentes y los secretarios de una Mesa Directiva, ante
 
 En las sesiones el presidente de la Mesa Directiva ocupará el lugar central del estrado, a su derecha se sentará el primer secretario y a su izquierda el segundo secretario, a la derecha del primer secretario se sentará el tercer secretario y a la izquierda del segundo secretario el cuarto secretario, conforme a la siguiente gráfica:
 
-CUAR- SE- PRESI- PRI- TER-
+CUARTO SEGUNDO PRIMER TERCER
 
-TO GUNDO DENTE MER CER
+SECRE SECRE SECRE SECRE
 
-SECRE- SECRE- SECRE- SECRE-
-
-TARIO TARIO TARIO TARIO
+TARIO TARIO PRESIDENTE TARIO TARIO
 
 Los vicepresidentes no ocuparán sitio alguno en el estrado pero, al igual que los presidentes de la Junta de Gobierno y Administración y de la Comisión de Enlace en Materia de Fiscalización tendrán reservado un lugar especial en el recinto. Los demás diputados ocuparán las curules que se hayan asignado al grupo parlamentario al que se encuentren integrados.
 
@@ -2044,3 +2056,13 @@ PRIMERO.- El presente decreto entrará en vigor tres días después de su public
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
 
 TERCERO.- La propuesta para la integración de esta comisión, deberá ser presentada ante el pleno en los términos y condiciones que establece la Ley Orgánica del Poder Legislativo del Estado de Campeche
+
+P.O. 15 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 8 POR EL QUE “SE REFORMA LA FRACCIÓN IX Y SE ADICIONAN LAS FRACCIONES XXVII, XXVIII Y XXIX AL ARTÍCULO 34 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor tres días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las propuestas para la integración de las comisiones, deberán ser presentadas ante el pleno en los términos y condiciones que establece la Ley Orgánica del Poder Legislativo del Estado de Campeche.
+
+TERCERO.- Se derogan las disposiciones legales y reglamentarias que se opongan al presente decreto.
