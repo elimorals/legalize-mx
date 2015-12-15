@@ -4,7 +4,7 @@ identifier: "MIC-reglamento-interior-de-los-juzgados-de-audiencia-y-de-110109"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-09-21"
-last_updated: "2015-09-21"
+last_updated: "2015-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110109&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MIC"
 ---
 # REGLAMENTO INTERIOR DE LOS JUZGADOS DE AUDIENCIA Y DE APELACION ESPECIALIZADOS PARA ADOLESCENTES DEL ESTADO DE MICHOACAN DE OCAMPO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE DICIEMBRE DE 2015 EN EL P.O. DEL ESTADO DE MICHOACÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 REGLAMENTO INTERIOR DE LOS JUZGADOS DE AUDIENCIA Y DE APELACIÓN ESPECIALIZADOS PARA ADOLESCENTES DEL ESTADO DE MICHOACÁN DE OCAMPO
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE DICIEMBRE DE 2015.]</small>
 
 Reglamento publicado en el Número 98 de la Séptima Sección del Periódico Oficial del Estado de Michoacán de Ocampo, el lunes 21 de septiembre de 2015.
 
@@ -343,13 +343,21 @@ Carpeta de ejecución. Cuando se presenten solicitudes de adecuación y cumplimi
 
 Formalidades de las carpetas y expedientes. En la integración de las carpetas y expedientes físicos no se observarán mayores formalidades, por lo que no será necesario su foliado ni sellado; en todo caso, deberán tomarse las medidas que resulten indispensables para evitar la pérdida o dispersión de las constancias.
 
-Artículo 24 (sic). Carpetas digitales. Las Unidades de Gestión deberán conservar una copia digitalizada de cada carpeta judicial y expediente de vigilancia, cuya integración comprenderá además el respaldo audiovisual de las audiencias celebradas; la conformación de dichas carpetas digitales se realizará conforme al programa informático que proporcione el CEDETIC, previa autorización del Consejo.
+> <small>(F. DE E., P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 25.
 
-Unanimidad de los sistemas de control y seguimiento. Los mecanismos de identificación, integración, control y seguimiento de expedientes y carpetas serán únicos para todas las Unidades de Gestión y deberán apegarse a los lineamientos que establezca la Dirección de Gestión.
+Carpetas digitales. Las Unidades de Gestión deberán conservar una copia digitalizada de cada carpeta judicial y expediente de vigilancia, cuya integración comprenderá además el respaldo audiovisual de las audiencias celebradas; la conformación de dichas carpetas digitales se realizará conforme al programa informático que proporcione el CEDETIC, previa autorización del Consejo.
+
+> <small>(F. DE E., P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 26.
+
+Unanimidad de los sistemas de control y seguimiento. Los mecanismos de identificación, integración, control y seguimiento de expedientes y carpetas serán únicos para todas las Unidades de Gestión y deberán apegarse a los lineamientos que establezca la Dirección de Gestión.
+
+> <small>(F. DE E., P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 27.
 
 Sistema electrónico de gestión. Para el control y seguimiento de los asuntos se utilizará el sistema informático que al efecto proporcione el CEDETIC, previa autorización del Consejo, el cual deberá conservarse en constante actualización. En dicho sistema, deberá comprenderse para su captura y consulta, por lo menos, información relativa a los siguientes rubros:
 
@@ -371,7 +379,9 @@ VIII. Actividades de los Notificadores; y,
 
 IX. Cédulas profesionales de abogados, peritos y demás servidores públicos.
 
-###### Artículo 27.
+> <small>(F. DE E., P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 28.
 
 Sistema electrónico de seguimiento de adolescentes sujetos a medidas. Asimismo, deberá manejarse un sistema informático de seguimiento de adolescentes sujetos a medidas, que será proporcionado por el CEDETIC, previa autorización del Consejo. El referido sistema deberá contener, como mínimo:
 
@@ -383,81 +393,109 @@ III. Fechas de inicio y extinción de la medida; y,
 
 IV. Interposición de solicitudes de adecuación o terminación anticipada de la medida.
 
-###### Artículo 28.
-
-Formalidades de las actuaciones. Salvo las excepciones previstas en el Código de Justicia Especializada y en el Código Naciona1, en la redacción de las actuaciones que deban constar por escrito no se observaran mayores formalidades que la expresión de la fecha de su emisión y el nombre y firma del servidor público que las pronuncie o practique; en caso de imposibilidad física para firmar, estamparan su huella.
-
 ### CAPÍTULO SEXTO. AUDIENCIAS Y ACTUACIONES
 
-Artículo 25 (sic). Programación de las audiencias. Las audiencias, salvo los casos urgentes, serán celebradas de conformidad con la agenda que programe el Jefe de Unidad, dentro del horario de labores que determine la Dirección de Gestión en el Manual de Organización y Procedimientos Administrativos; su realización será oral, continua contradictoria, pública y concentrada sin embargo, la publicidad podrá ser restringida en términos del Código Nacional.
+> <small>(F. DE E., P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 29.
+
+Programación de las audiencias. Las audiencias, salvo los casos urgentes, serán celebradas de conformidad con la agenda que programe el Jefe de Unidad, dentro del horario de labores que determine la Dirección de Gestión en el Manual de Organización y Procedimientos Administrativos; su realización será oral, continua contradictoria, pública y concentrada sin embargo, la publicidad podrá ser restringida en términos del Código Nacional.
 
 El Jefe de Unidad programará el horario de los jueces especializados de manera que las audiencias puedan verificarse de manera continua y con atención a los referidos principios.
 
-###### Artículo 26.
+> <small>(F. DE E., P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 30.
 
 Registro de las audiencias. El desarrollo de las audiencias será registrado por cualquier medio tecnológico de naturaleza audiovisual, de preferencia informático, que garantice su preservación, inalterabilidad e individualización, así como su reproducción inmediata y el acceso por quien tenga derecho a ello.
 
 Las formalidades de los actos deberán constar en el mismo registro y, en caso de no ser posible, en un acta complementaria.
 
-###### Artículo 27.
+> <small>(F. DE E., P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 31.
 
 Engrose. Al finalizar la audiencia, se engrosará a la carpeta judicial la transcripción de la parte considerativa y resolutiva de la decisión adoptada por el juez especializado, de conformidad con los formatos mínimos que establezca la Dirección de Gestión en el Manual de Organización y Procedimientos Administrativos.
 
-###### Artículo 29.
+> <small>(F. DE E., P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 32.
+
+Formalidades de las actuaciones. Salvo las excepciones previstas en el Código de Justicia Especializada y en el Código Naciona1, en la redacción de las actuaciones que deban constar por escrito no se observaran mayores formalidades que la expresión de la fecha de su emisión y el nombre y firma del servidor público que las pronuncie o practique; en caso de imposibilidad física para firmar, estamparan su huella.
+
+> <small>(F. DE E., P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 33.
 
 Archivo. Los Jefes de Unidad deberán remitir al archivo judicial, por lo menos de manera bimestral, las carpetas y expedientes físicos referentes a asuntos concluidos, para su guarda y custodia definitiva.
 
 El CEDETIC definirá y operará, previa autorización del Consejo, los mecanismos y políticas de conservación de los archivos digitales.
 
-###### Artículo 30.
+### CAPÍTULO SÉPTIMO. MEDIOS DE COMUNICACIÓN PROCESAL
+
+> <small>(F. DE E., P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 34.
 
 Reglas generales. Cuando sea necesaria la práctica de una notificación en un lugar distinto a aquél en que se encuentre la sede del juez especializado, se practicará mediante exhorto o requisitoria., en los términos del Código Nacional, y serán preferentemente remitidos a otros jueces especializados o a los jueces del sistema de justicia penal acusatorio y oral.
 
 Los medios de comunicación procesal provenientes de otras jurisdicciones serán diligenciados sin retardo, siempre que no perjudiquen la jurisdicción del tribunal y se encuentren ajustados a derecho.
 
-###### Artículo 31.
+> <small>(F. DE E., P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 35.
 
 Usos de medios tecnológicos. Los exhortos y requisitorias podrán ser enviados en forma electrónica, con los medios que garanticen la fidelidad de la información remitida; en cuyo caso, el juez exhortado o requerido dará trámite a la comunicación procesal recibida y la devolverá por el mismo medio.
 
 El CEDETIC, previa autorización del Consejo, establecerá los sistemas informáticos necesarios para el envío, recepción, trámite y almacenamiento de dichos medios de comunicación procesal, garantizando su seguridad y conservación.
 
-###### Artículo 32.
+### CAPÍTULO OCTAVO
+
+INSPECCIÓN Y VIGILANCIA DISCIPLINARIA.
+
+> <small>(F. DE E., P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 36.
 
 Facultades de la Dirección de Gestión. La Dirección de Gestión realizará una actividad de supervisión continua respecto del funcionamiento de las Unidades de Gestión, mediante reportes de actividades que mensualmente rendirán los Jefes de Unidad, debiendo dar cuenta inmediata al Consejo de cualquier irregularidad que se detecte.
 
-###### Artículo 33.
+> <small>(F. DE E., P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 37.
 
 Visitas de inspección. El Consejo del Poder Judicial del Estado practicará, por lo menos dos veces por año, visitas ordinarias de inspección a fin de vigilar el funcionamiento de las Unidades de Gestión Judicial Especializadas para Adolescentes, con independencia de las que también realice para revisar el desempeño de los jueces de audiencia y apelación.
 
-### CAPÍTULO SÉPTIMO. MEDIOS DE COMUNICACIÓN PROCESAL
+### CAPÍTULO NOVENO. ACCESO A LA INFORMACIÓN
 
-###### Artículo 34.
+> <small>(F. DE E., P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 38.
 
 Peticiones sobre acceso a la información. Toda petición sobre acceso a la información que se formule en relación con la actividad de los jueces especializados deberán dirigirse al Departamento de Acceso a la Información, por lo que los jueces y el personal administrativo que los auxilie deberán abstenerse de atenderlas de manera directa.
 
-###### Artículo 35.
+> <small>(F. DE E., P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 39.
 
 Confidencialidad. Los jueces especializados y el personal administrativo que los auxilie en el ejercicio de sus funciones serán responsables de la información que produzcan, manejen y conserven.
 
 En toda información que estos servidores proporcionen o emitan en ejercicio de sus funciones deberá garantizarse que no se contravenga el principio de confidencialidad sobre los datos personales del adolescente, así como su derecho a la privacidad.
 
-### CAPÍTULO OCTAVO
+### CAPÍTULO DÉCIMO. CIRCUNSTANCIAS ESPECIALES
 
-INSPECCIÓN Y VIGILANCIA DISCIPLINARIA.
+> <small>(F. DE E., P.O. 15 DE DICIEMBRE DE 2015)</small>
 
-###### Artículo 36.
+###### Artículo 40.
 
 Reformas. El Reglamento podrá ser reformado o adicionado por el Pleno del Consejo, a iniciativa de cualquiera de los Consejeros que lo integren, cuando así lo requiera la organización y funcionamiento de los jueces especializados o del personal administrativo que los apoye en el ejercicio de sus funciones.
 
 Toda reforma o adición aprobada por el Pleno deberá ser publicada en la página electrónica del Poder Judicial del Estado y en el Periódico Oficial del Estado, para su debida incorporación al Reglamento.
 
-###### Artículo 37.
+> <small>(F. DE E., P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 41.
 
 Casos no previstos. El Pleno del Consejo resolverá cualquier cuestión que se suscite con motivo de la interpretación y aplicación del Reglamento.
-
-### CAPÍTULO NOVENO. ACCESO A LA INFORMACIÓN
-
-### CAPÍTULO DÉCIMO. CIRCUNSTANCIAS ESPECIALES
 
 ## TRANSITORIOS
 
