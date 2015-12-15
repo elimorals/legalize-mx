@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-salud-del-estado-de-quintana-roo-12303"
 country: "mx"
 rank: "ley"
 publication_date: "1994-12-30"
-last_updated: "2015-10-30"
+last_updated: "2015-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12303&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE SALUD DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de diciembre de 1994.
 
@@ -1973,9 +1973,11 @@ El organismo del Gobierno Estatal previsto en el Artículo 133 de esta Ley tendr
 
 ## TITULO DECIMO. PROGRAMA CONTRA LAS ADICCIONES
 
-> <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
-### CAPITULO I. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
+### CAPITULO I
+
+PROGRAMA PARA LA PREVENCIÓN, REDUCCIÓN Y TRATAMIENTO DEL USO NOCIVO DEL ALCOHOL, LA ATENCIÓN DEL ALCOHOLISMO Y LA PREVENCIÓN DE ENFERMEDADES DERIVADAS DEL MISMO
 
 ###### ARTICULO 152.
 
@@ -1983,15 +1985,57 @@ El Gobierno del Estado se coordinará con las Autoridades Sanitarias Federales p
 
 I.- La prevención y tratamiento del alcoholismo y, en su caso, la rehabilitación de los alcohólicos;
 
-II.- La educación sobre los efectos del alcohol en salud y en las relaciones sociales, dirigida especialmente a niños, adolescentes, obreros y campesinos, a través de métodos individuales, sociales o de comunicación masiva;
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+II.- La educación sobre los efectos del alcohol en salud y en las relaciones sociales, dirigida especialmente a menores de edad y grupos vulnerables, a través de métodos individuales, sociales o de comunicación masiva,
 
 III.- El fomento de actividades cívicas, deportivas o culturales que coadyuven en la lucha contra el alcoholismo especialmente en zonas rurales en los grupos de población considerados de alto riesgo; y
 
 IV.- Ejercer medios de control en los expendios de bebidas alcohólicas para prevenir su venta y consumo, a menores de edad e incapaces.
 
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+V.- La promoción de los servicios de prevención, detección temprana, orientación, atención, derivación y tratamiento a personas y grupos con uso nocivo del alcohol, y
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+VI.- El fomento de la protección de la salud, considerando la educación, promoción de actitudes, factores de protección, habilidades y conductas que favorezcan estilos de vida activa y saludable en los individuos, la familia, la escuela, el trabajo y la comunidad.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+ARTICULO 152 BIS. Para efectos de esta Ley, se entenderá por uso nocivo del alcohol:
+
+I. El consumo de bebidas alcohólicas en cualquier cantidad por menores de edad;
+
+II. El consumo en exceso de bebidas alcohólicas por mujeres embarazadas;
+
+III. El consumo en cualquier cantidad de alcohol en personas que van a manejar vehículos de transporte público de pasajeros, así como automotores, maquinaria o que se van a desempeñar en tareas que requieren habilidades y destrezas, especialmente las asociadas con el cuidado de la salud o la integridad de terceros;
+
+IV. El consumo de alcohol en exceso, definido por la Secretaría de Salud Federal en el programa para la prevención, reducción y tratamiento del uso nocivo del alcohol, la atención del alcoholismo y la prevención de enfermedades derivadas del mismo;
+
+V. El consumo en personas con alguna enfermedad crónica como hipertensión, diabetes, enfermedades hepáticas, cáncer y otras, siempre y cuando haya sido indicado por prescripción médica, y
+
+VI. Aquel que sea determinado por la Secretaría de Salud Federal.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+ARTICULO 152 BIS 1. Las acciones que se desarrollen en la ejecución del Programa para la prevención, reducción y tratamiento del uso nocivo del alcohol, la atención del alcoholismo y la prevención de enfermedades derivadas del mismo tendrán las siguientes finalidades:
+
+I. Proteger la salud y el bienestar de la población frente al uso nocivo del alcohol y prevenir los riesgos a la salud que éste genera;
+
+II. Promover medidas para evitar el consumo de bebidas alcohólicas por menores de edad o por personas incapaces; en términos del Código Civil Estatal;
+
+III. Promover la detección temprana, la atención oportuna y el tratamiento efectivo en los casos de uso nocivo del alcohol y de su dependencia;
+
+IV. Fomentar las acciones de promoción y de educación para conservar y proteger la salud, así como la difusión de la información sobre daños, riesgos y costos atribuibles al uso nocivo del alcohol, con base en evidencia científica, y
+
+V. Fomentar el establecimiento de medidas para prevenir el uso nocivo del alcohol en grupos vulnerables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 153.
 
-Para obtener la información que oriente las acciones contra el alcoholismo y abuso de bebidas alcohólicas, las Autoridades Sanitarias del Estado, en coordinación con otras dependencias y entidades públicas, realizarán actividades de investigación en los siguientes aspectos:
+Para obtener la información que oriente las acciones contra el alcoholismo y uso nocivo del alcohol, autoridades sanitarias del Estado, en coordinación con otras dependencias y entidades públicas, fomentará actividades de investigación en los siguientes aspectos:
 
 I.- Causas de alcoholismo y acciones para controlarlas;
 
@@ -2000,6 +2044,16 @@ II.- Efectos de la publicidad en la incidencia del alcoholismo y en los problema
 III.- Hábitos de consumo de alcohol en los diferentes grupos de población, y
 
 IV.- Efectos de abuso de bebidas alcohólicas en los ámbitos familiar, social, deportivo, de los espectáculos, laboral y educativo.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+ARTICULO 153 BIS. El Gobierno del Estado en coordinación con la autoridad sanitaria Federal participará en el fomento de la creación de centros especializados en tratamiento, atención y rehabilitación, con base en sistemas modernos de tratamiento y rehabilitación, fundamentados en el respeto a la integridad y a la libre decisión de la persona que padece alguna enfermedad derivada del alcoholismo.
+
+Los centros especializados en tratamiento, atención y rehabilitación deberán:
+
+l. Crear un padrón de instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de alcoholismo, que contenga las características de atención, condiciones y requisitos para acceder a los servicios que ofrecen, y
+
+II. Celebrar convenios de colaboración con instituciones nacionales e internacionales de los sectores social y privado, y con personas físicas que se dediquen a la prevención, tratamiento, atención y reinserción social en materia de alcoholismo, con el fin de que quienes requieran de asistencia, puedan, conforme a sus necesidades, características, posibilidades económicas, acceder a los servicios que todas estas instituciones o personas físicas ofrecen. La ubicación de los centros, se basará en estudios epidemiológicos de las enfermedades derivadas del alcoholismo en el Estado.
 
 > <small>(F. DE E., P.O. 2 DE ENERO DE 1995)</small>
 
@@ -2049,7 +2103,7 @@ V. Crear indicadores y bases de datos que permitan identificar zonas, sectores y
 
 VI. Supervisar a las instituciones y organismos públicos y privados para que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de farmacodependencia, apegándose al respeto de la integridad y libre decisión del farmacodependiente;
 
-VII. Construir indicadores públicos sobre los índices de farmacodependencia en el Estado; y (sic)
+VII. Construir indicadores públicos sobre los índices de farmacodependencia en el Estado; y
 
 VIII. Fomentar la participación comunitaria y coordinación con las autoridades federales y las instituciones públicas o privadas para la planeación, programación, ejecución y evaluación de los programas y acciones del proceso de superación de la farmacodependencia.
 
@@ -3714,3 +3768,11 @@ P.O. 30 DE OCTUBRE DE 2015.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
+
+P.O. 15 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 376 POR EL QUE SE REFORMAN LA DENOMINACIÓN DEL CAPÍTULO I DEL TÍTULO DÉCIMO PARA QUEDAR COMO “PROGRAMA PARA LA PREVENCIÓN, REDUCCIÓN Y TRATAMIENTO DEL USO NOCIVO DEL ALCOHOL, LA ATENCIÓN DEL ALCOHOLISMO Y LA PREVENCIÓN DE ENFERMEDADES DERIVADAS DEL MISMO”, LA FRACCIÓN II DEL ARTÍCULO 152 Y EL PRIMER PÁRRAFO DEL ARTÍCULO 153; Y SE ADICIONAN LA FRACCIÓN V Y VI AL ARTÍCULO 152, LOS ARTÍCULOS 152 BIS, 152 BIS 1 Y 153 BIS, TODOS DE LA LEY DE SALUD DEL ESTADO DE QUINTANA ROO, TODOS DE LA LEY DE SALUD DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente decreto.
