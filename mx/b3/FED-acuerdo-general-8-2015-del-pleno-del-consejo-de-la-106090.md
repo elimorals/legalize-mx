@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-8-2015-del-pleno-del-consejo-de-la-106090"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-02-27"
-last_updated: "2015-02-27"
+last_updated: "2015-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106090&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-02-23"
 
 ACUERDO GENERAL 8/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA INTEGRACIÓN Y FUNCIONAMIENTO DE LOS PLENOS DE CIRCUITO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE DICIEMBRE DE 2015.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 27 de febrero de 2015.
 
@@ -117,17 +117,25 @@ En los Circuitos judiciales federales de la República Mexicana se establecerán
 
 En los Circuitos en los que únicamente haya dos tribunales, los Plenos respectivos se integrarán con la totalidad de los magistrados que los conforman.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 52/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 5.
 
-En aquellos Circuitos donde existan más de dos tribunales colegiados se integrarán por el magistrado elegido por el Pleno del Tribunal, el que en ningún caso podrá ser el Presidente del propio órgano jurisdiccional.
+En aquellos Circuitos donde existan más de dos tribunales colegiados se integrarán por el magistrado elegido por el Pleno del Tribunal, el cual no podrá ser el Presidente del propio órgano jurisdiccional, salvo que el órgano jurisdiccional se encuentre funcionando con dos secretarios de tribunal en funciones de magistrado de Circuito, en cuyo caso, el Presidente del Órgano Jurisdiccional sí integrará el Pleno.
 
 ###### Artículo 6.
 
 Los tribunales colegiados de Circuito en materia administrativa, especializados en competencia económica, radiodifusión y telecomunicaciones integrarán un pleno de Circuito. Los tribunales colegiados auxiliares no conformarán ningún pleno.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 52/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 7.
 
-Los jueces de Distrito comisionados en funciones de magistrado de Circuito, designados presidentes del órgano colegiado de su adscripción, integrarán plenos, no así los secretarios en funciones de magistrado de Circuito.
+Los jueces de Distrito comisionados en funciones de magistrado de Circuito, integrarán plenos, no así los secretarios en funciones de magistrado de Circuito.
 
 ###### Artículo 8.
 
@@ -185,9 +193,35 @@ VI. Dictar los trámites que procedan en los asuntos de la Competencia del Pleno
 
 VII. Turnar a los integrantes del Pleno los asuntos para su estudio y elaboración del proyecto correspondiente, siguiendo un orden equitativo;
 
-VIII. Continuar con el conocimiento y trámite de los asuntos del Pleno, durante el período de transición del cambio de integración y designación del nuevo presidente; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-IX. Las demás que le confieran la legislación, los acuerdos generales y demás disposiciones aplicables.
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 52/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE DICIEMBRE DE 2015)</small>
+
+VIII. Continuar con el conocimiento y trámite de los asuntos del Pleno, durante el período de transición del cambio de integración y designación del nuevo presidente;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 52/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE DICIEMBRE DE 2015)</small>
+
+IX. Nombrar al secretario de acuerdos del Pleno respectivo, cuando el Consejo autorice la creación de una plaza de secretario de tribunal, para coadyuvar en las labores del Pleno;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 52/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE DICIEMBRE DE 2015)</small>
+
+X. Dar a conocer a los integrantes del Pleno respectivo, los proyectos de resolución y las observaciones que se formulen al respecto;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 52/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE DICIEMBRE DE 2015)</small>
+
+XI. Al inicio de cada año, returnar los asuntos pendientes de resolución del Pleno saliente a los integrantes del Pleno entrante; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 52/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE DICIEMBRE DE 2015)</small>
+
+XII. Las demás que le confieran la legislación, los acuerdos generales, y demás disposiciones aplicables.
 
 ###### Artículo 14.
 
@@ -217,9 +251,9 @@ III. Presentar con oportunidad los proyectos de resolución a su cargo;
 
 IV. Solicitar el aplazamiento o retiro del o los asuntos, cuando así lo estimen pertinente;
 
-V. Hacer del conocimiento del Pleno el criterio adoptado por el tribunal colegiado que representan.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-En los casos en que el órgano citado no se haya pronunciado sobre el problema jurídico a resolver en la contradicción de tesis pertinente, una vez repartido por la vía electrónica el proyecto respectivo en términos del artículo 47 de esta normativa; el Tribunal Colegiado en formal sesión ordinaria o extraordinaria deberá fijar el criterio indicado, y en su caso, se deberá analizar si los argumentos o las observaciones que hayan formulado los magistrados integrantes o el Pleno de los diversos Tribunales al proyecto puesto a su consideración, modifican o sostienen el criterio inicialmente aprobado; para que su magistrado representante lo plantee ante el Pleno;
+V. (DEROGADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 52/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE DICIEMBRE DE 2015)
 
 VI. Votar las resoluciones de contradicción de tesis de conformidad con el sistema establecido en el presente Acuerdo; y
 
@@ -231,9 +265,13 @@ Para la elaboración de los proyectos de los asuntos turnados, los magistrados c
 
 ### CAPÍTULO TERCERO. Del secretario de acuerdos
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 52/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 19.
 
-Desempeñará las funciones de secretario de acuerdos, el secretario de tesis del tribunal de adscripción del presidente o aquel que éste designe, sin que ello implique que se desatienda el ejercicio de las funciones encomendadas en el propio Tribunal.
+Cuando el Consejo no haya autorizado la creación de una plaza de secretario de tribunal, para coadyuvar en las labores del Pleno, desempeñará las funciones de secretario de acuerdos, el secretario que designe el presidente del Pleno, sin que ello implique desatender el ejercicio de las funciones encomendadas en el propio Tribunal.
 
 ###### Artículo 20.
 
@@ -309,27 +347,35 @@ Los proyectos de resolución deberán formularse dentro de los quince días háb
 
 Una vez que los magistrados ponentes hayan elaborado sus proyectos de resolución, los remitirán por medio del Sistema Electrónico al presidente, quien de manera inmediata realizará el envío de los mismos a los magistrados integrantes del Pleno, así como a los magistrados no integrantes cuyo tribunal colegiado esté representado en el mismo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 52/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 30.
 
-El Pleno del Tribunal que no se haya pronunciado previamente sobre el problema jurídico a resolver en la contradicción, deberá fijar el sentido de su voto sobre los aspectos procesales y el problema jurídico de fondo, disponiendo para tal efecto de cinco días hábiles contados a partir del día siguiente de la fecha de recepción de los proyectos, dentro del horario de funcionamiento del sistema electrónico o, en su defecto, mediante la vía electrónica auxiliar.
+Los magistrados integrantes del Pleno, contarán con el término de diez días hábiles para formular las observaciones que estimen procedentes al proyecto de resolución correspondiente, las cuales, dentro de ese plazo se harán llegar al Presidente del Pleno.
 
-Los magistrados o el Pleno del Tribunal podrán formular observaciones de forma a los proyectos de contradicción de tesis, disponiendo para tal efecto del plazo indicado.
+Una vez fenecido el plazo anterior, el Presidente inmediatamente las hará llegar a los integrantes del Pleno para su conocimiento, y discusión el día de la celebración de la sesión ordinaria siguiente. Los proyectos de resolución y las observaciones respectivas, se incluirán en la lista de asuntos a analizarse en dicha sesión para su resolución.
+
+Cuando la integración del Pleno varíe por cambio de adscripción de alguno de ellos y esté transcurriendo el plazo descrito por el artículo 28 o el indicado en este artículo, el Presidente del Pleno, podrá ampliar cualquiera de esos términos para dar oportunidad al nuevo integrante de formular el proyecto de resolución o imponerse del contenido del mismo. El nuevo plazo no podrá ser superior al número de días señalados en dichos artículos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 31.
 
-El sentido del voto y las observaciones de forma se enviarán al Presidente por los mismos medios electrónicos, según sea el caso, incluyendo en caso de estimarlo necesario, un extracto de las ideas fundamentales desarrolladas.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 52/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 32.
 
-Un día después de concluido el plazo de cinco días hábiles, el presidente con el auxilio del secretario de acuerdos, contabilizará el sentido de la votación y asentará el probable resultado, lo que hará del conocimiento de la totalidad de los Magistrados a través del medio electrónico correspondiente, remitiéndoles al efecto el sentido del voto de cada Tribunal y las observaciones que en su caso hubiesen formulado.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 52/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE DICIEMBRE DE 2015)
 
-Los Tribunales Colegiados dispondrán de tres días hábiles, posteriores a la fecha de recepción de la citada información, para que se verifique si con dichos argumentos se modifica o sostienen el sentido de su voto, así como si se encuentran de acuerdo con las observaciones de forma que se destacaron, lo que en su caso deberá comunicarse al Presidente del Pleno.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### Artículo 33.
 
-Al concluir el plazo referido, los proyectos de resolución vinculados con las observaciones motivo del mismo, podrán incluirse en la lista de asuntos que se analizarán en la sesión ordinaria siguiente.
-
-En el desahogo de las sesiones, los magistrados integrantes privilegiaran el criterio adoptado por el Tribunal, salvo que con motivo de la propia discusión, adviertan un argumento jurídico sólido que modifique el sentido de su voto.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 52/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE DICIEMBRE DE 2015)
 
 ###### Artículo 34.
 
@@ -361,9 +407,13 @@ Los Plenos celebrarán válidamente sus sesiones con la concurrencia de la mayor
 
 Cuando no se integre el quórum, el presidente convocará ese mismo día a una nueva sesión, la cual tendrá lugar, a más tardar, dentro de las cuarenta y ocho horas hábiles siguientes.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 52/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 40.
 
-Los magistrados que integren el Pleno serán suplidos en sus ausencias temporales o definitivas por quien quede encargado de ejercer la presidencia del tribunal colegiado de su adscripción.
+Los magistrados que integren el Pleno serán suplidos en sus ausencias temporales o definitivas por quien designe el tribunal colegiado, pero en ningún caso podrán ser suplidos por los secretarios de tribunal.
 
 ###### Artículo 41.
 
@@ -390,6 +440,18 @@ IV. Los nombres y firmas de los disidentes.
 ###### Artículo 44.
 
 El engrose de la resolución emitida deberá realizarse dentro de los diez días hábiles siguientes al de la emisión del fallo del asunto. En ese mismo plazo, deberá incluirse el voto particular o de minoría, si lo hubiere. Lo anterior, a fin de proceder conforme a lo establecido en los Acuerdos Generales 19/2013 y 20/2013 del Pleno de la Suprema Corte de Justicia de la Nación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 52/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE DICIEMBRE DE 2015)</small>
+
+Si la resolución da motivo a la aprobación de una o más tesis jurisprudenciales, la o las tesis respectivas quedan sujetas a las observaciones de forma que en su caso efectúe la Coordinación de Compilación y Sistematización de Tesis de la Suprema Corte de Justicia de la Nación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL ACUERDO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 52/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE DICIEMBRE DE 2015)</small>
+
+La tesis o las tesis enviadas por la Coordinación de Compilación y Sistematización de Tesis se entenderán que forman parte del engrose respectivo, aun cuando obren en documentos diversos, en el momento en que dichas observaciones sean aprobadas por el propio Pleno de Circuito.
 
 ### CAPÍTULO QUINTO. De los asuntos de conocimiento del Pleno
 
@@ -482,3 +544,11 @@ CUARTO. Derivado de lo dispuesto en el artículo anterior, por única ocasión e
 QUINTO. Publíquese este acuerdo en el Diario Oficial de la Federación, así como en el Semanario Judicial de la Federación y su Gaceta.
 
 EL LICENCIADO GONZALO MOCTEZUMA BARRAGÁN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 8/2015, del Pleno del Consejo de la Judicatura Federal, relativo a la integración y funcionamiento de los Plenos de Circuito, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de dieciocho de febrero de dos mil quince, por unanimidad de votos de los señores Consejeros: Presidente Ministro Luis María Aguilar Morales, Felipe Borrego Estrada, Rosa Elena González Tirado, Martha María del Carmen Hernández Álvarez, Alfonso Pérez Daza y Manuel Ernesto Saloma Vera.- México, Distrito Federal, a veintitrés de febrero de dos mil quince.- Conste.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 15 DE DICIEMBRE DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor el primer día hábil de enero de dos mil dieciséis.
+
+SEGUNDO. Publíquese el presente Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
