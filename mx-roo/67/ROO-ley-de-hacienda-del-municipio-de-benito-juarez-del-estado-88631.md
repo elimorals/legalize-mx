@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-hacienda-del-municipio-de-benito-juarez-del-estado-88631
 country: "mx"
 rank: "ley"
 publication_date: "2012-06-20"
-last_updated: "2014-12-09"
+last_updated: "2015-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88631&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "ROO"
 
 LEY DE HACIENDA DEL MUNICIPIO DE BENITO JUÁREZ, DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 20 de junio de 2012.
 
@@ -255,17 +255,19 @@ El objeto de este impuesto es la percepción de ingresos derivados de video jueg
 
 Son sujetos de este gravamen las personas físicas o morales y unidades económicas que obtengan ingresos por video juegos o la explotación de diversiones y espectáculos, cines y eventos públicos en forma comercial.
 
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+Se considera espectáculo público todo acto, función, diversión o entretenimiento al que tenga acceso el público y cubra una cuota de entrada, donativo, cooperación o cualquier otro concepto, ya sea directamente o por un tercero.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 26.
 
 La base del impuesto serán los ingresos globales que se obtengan con motivo de las actividades que son objeto de este gravamen.
 
-El impuesto se calculará aplicando la tasa señalada en el artículo siguiente, de acuerdo al tipo de ingreso de que se trate.
+El impuesto se calculará aplicando la tasa señalada en el artículo siguiente, de acuerdo al tipo de evento de que se trate.
 
-No se cubrirá el impuesto a que se refiere este capítulo, por el valor de los boletos entregados en concepto de cortesía por el contribuyente, siempre que no rebasen el 15% del boletaje total. El contribuyente deberá solicitar a la Tesorería que imponga a estos boletos un sello con la palabra “Cortesía”.
-
-Tratándose de eventos altruistas, las cortesías libres de gravamen no podrán rebasar el 30% del boletaje total.
-
-En el caso de cines, los boletos de cortesía libres de este impuesto, no podrán exceder del 5% del boletaje total.
+El Impuesto sobre Espectáculos Públicos no dará lugar a incrementos en los precios señalados por los permisionarios, ni se expresará por separado en los boletos de entrada.
 
 Los boletos que se utilicen para el acceso a un espectáculo público, estarán foliados y deberán ser presentados ante la Tesorería Municipal, junto con el permiso correspondiente, hasta con tres días de anticipación, para ser sellados y registrados.
 
@@ -273,27 +275,41 @@ Previo a que los boletos sellados le sean entregados, el contribuyente deberá e
 
 En el caso de máquinas expendedoras de boletos, estas deberán contar con un sistema que permita conocer de manera segura el número de boletos expedidos; el contribuyente deberá de dar acceso al personal de la Tesorería para su revisión, así como proporcionarle todas las facilidades para este efecto, incluyendo personal capacitado para operar las mencionadas máquinas.
 
+Tratándose de empresas especializadas en la comercialización de boletos, el permisionario deberá presentar a la Tesorería, una carta responsiva de la empresa contratada, que garantice la devolución del importe de los boletos en caso de cancelación del evento.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 26 Bis.
+
+No se causará el impuesto, respecto del valor de los boletos de cortesía que permitan el acceso al espectáculo en forma gratuita. El valor de los boletos de cortesía en ningún caso excederá del equivalente al 15% del valor del total de los boletos que se hayan declarado por cada función del espectáculo.
+
+En el propio boleto o contraseña se hará constar que el mismo es gratuito o de cortesía.
+
+Los permisionarios, sean personas físicas o morales que realicen donativo a alguna organización altruista, ya sea en efectivo o en especie, podrá (sic) exentar hasta el 30% del boletaje total.
+
+Tratándose de Instituciones, Asociaciones y Fundaciones Privadas, quienes tramiten y obtengan el permiso para cualquier tipo de evento, pagarán una tarifa preferencial del 3% del boletaje vendido.
+
+Las Organizaciones a que se refiere el párrafo anterior, deberán acreditar ante la Tesorería Municipal su carácter altruista, autorizadas por la Secretaría de Hacienda y Crédito Público para recibir donaciones, y solo operará respecto de los eventos señalados, que se lleven a cabo para allegarse de fondos que les permitan solventar los gastos derivados del cumplimiento del objetivo de la organización.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 27.
 
 Este impuesto se causará de acuerdo con la siguiente:
 
 TARIFA
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
+I. Obras de teatro, zarzuelas, comedia y opera, 4%.
 
-I. Obras de teatro, zarzuelas, comedia y opera, 6 %.
+II. Variedades y similares, aun cuando se realicen en lugares como restaurantes, bares, cabarets, salones de fiesta o baile y centros nocturnos, 20%
 
-II. Variedades y similares, aún cuando se realicen en lugares como restaurantes, bares, cabarets, salones de fiesta o baile y centros nocturnos, 30%
+III. Cuando no se expidan boletos o comprobantes, la Tesorería Municipal fijará cuotas diarias de 2.5 a 15 S.M.G.
 
-III. Cuando no se expidan boletos o comprobantes, la Tesorería Municipal respectiva fijará cuotas diarias de 2.5 a 15 S.M.G.
+IV. Circos, 6% o en su caso, la Tesorería Municipal fijará una cuota diaria de 4.0 a 6.0 S.M.G.
 
-IV. Circos, 8% o en su caso, la Tesorería Municipal fijará una cuota diaria de 4.0 a 7.0 S.M.G.
+V. Jaripeos, Box, Lucha, Juegos Deportivos, Kermeses o Verbenas, 10%
 
-V. Jaripeos, Box, Lucha, Juegos Deportivos, Kermeses o Verbenas, 12%
-
-VI. Ferias y juegos mecánicos en general, 10% o en su caso, la cuota diaria que fije la Tesorería Municipal de 3.5 a 10 S.M.G.
-
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
+VI. Ferias y juegos mecánicos en general, 8% o en su caso, la cuota diaria que fije la Tesorería Municipal de 4 a 8 S.M.G.
 
 VII. Bailes públicos populares que se celebren de forma permanente o eventual:
 
@@ -309,7 +325,7 @@ VIII. No especificados, siempre que no sean gravados por el Impuesto al Valor ag
 
 IX. Aparatos automáticos y electrónicos no musicales, que trabajen con cualquiera tipo de ficha, moneda, tarjeta y electrónicos, la cuota mensual por cada juego será de 1.0 a 5.0 S.M.G.
 
-X. Proyecciones públicas con fines lucrativos excepto cines, del 10 al 30%
+X. Proyecciones públicas con fines lucrativos excepto cines, del 10 al 20%
 
 XI. Cines, 10%.
 
@@ -317,11 +333,9 @@ XII. Juegos electromecánicos que funcionen con tarjetas, fichas y/o monedas, la
 
 XIII. Videojuegos, la cuota mensual por máquina será de 2.0 a 3.0 S.M.G.
 
-XIV. Eventos de luz y sonido, de 5.0 a 20 S.M.G.
+XIV. Eventos de luz y sonido, de 5.0 a 15 S.M.G.
 
-> <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
-
-XV. Conciertos, recitales y audiciones musicales de 10 al 12 %.
+XV. Conciertos, recitales y audiciones musicales de 6 al 8 %.
 
 ###### Artículo 28.
 
@@ -929,7 +943,7 @@ Los derechos por los servicios que presta el Registro Civil, se pagarán de acue
 
 TARIFA
 
-l. (DEROGADA, P.O. 8 DE OCTUBRE DE 2014)
+I. (DEROGADA, P.O. 8 DE OCTUBRE DE 2014)
 
 II. Matrimonios
 
@@ -1087,11 +1101,19 @@ n) Búsqueda de documentos 10.0 S.M.G.
 
 o) Otros no especificados 10.0 S.M.G.
 
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+p) Trámite de actas certificadas de otros Municipios del Estado y de otras Entidades Federativas:
+
+1. Nacimiento, Matrimonio, defunción, reconocimiento 2.75 S.M.G.
+
+2. Adopción, divorcio o inscripción de actos 6.50 S.M.G.
+
 Los derechos señalados en los incisos h), i), j), k) y l) de esta fracción, se causarán con la expedición por cada copia certificada de los actos correspondientes.
 
 Las oficinas del Registro Civil tendrán a la vista de los usuarios, la relación que contenga los servicios que presta, con sus respectivas tarifas.
 
-No causarán los derechos a que se refiere este artículo, cuando sean soldadas mediante oficio por las autoridades de la Federación, del Estado y de los Municipios.
+No causarán los derechos a que se refiere este artículo, cuando sean solicitadas mediante oficio por las autoridades de la Federación, del Estado y de los Municipios.
 
 ###### Artículo 64.
 
@@ -1249,6 +1271,12 @@ a) Por la fusión de 2 lotes 15 SMG.
 
 b) Por cada lote que exceda de 2, a 15 SMG.
 
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 72 Bis.
+
+Por la emisión de documentos en materia de Desarrollo Urbano, se pagará 4.0 S.M.G.
+
 ### CAPÍTULO VI. PANTEONES
 
 ###### Artículo 73.
@@ -1267,19 +1295,39 @@ II. Expedición de certificados de algún hecho ocurrido en presencia de la auto
 
 copias certificadas del registro civil 2.0 S.M.G.
 
-III. Expedición de copias certificadas de constancias existentes en los archivos del
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
-Municipio por cada hoja 0.10 S.M.G.
+III. Expedición de copias certificadas por parte de la Secretaria General del Ayuntamiento:
 
-IV. Por expedición de certificados
+A) Constancias existentes en los archivos del Municipio, por cada hoja: 0.10 S.M.G.
 
-expedidos por la Tesorería Municipal: 1.0 S.M.G.
+B) Certificación de actas de las sesiones del Ayuntamiento y sus anexos por hoja: 0.50 S.M.G.
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+C) Ejemplares de la Gaceta Oficial:
 
-V. Por expedición de certificados y constancias por 2.0 S.M.G.
+a) Ejemplar de Gaceta Oficial hasta 5 hojas 2.0 S.M.G.
 
-parte de la Secretaría General del Ayuntamiento.
+b) Ejemplar de Gaceta oficial de 6 hasta 20 hojas 3.0 S.M.G
+
+c) Ejemplar de Gaceta Oficial de 21 hojas en adelante 4.0 S.M.G.
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+IV. Por expedición de certificados emitidos por la Tesorería Municipal: 3.0 S.M.G.
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+V. Por expedición de documentos por parte de la Secretaria General del Ayuntamiento:
+
+A) Certificados médicos: 0.50 S.M.G.
+
+B) Certificados médicos programa alcoholimetría (con grado de alcohol de 0.40 miligramos o más o por el uso de cualquier narcótico o droga): 4.0 S.M.G.
+
+C) Constancias de arresto: 0.50 S.M.G.
+
+D) Constancias de arresto programa alcoholimetría (con grado de alcohol de 0.40 miligramos o más o por el uso de cualquier narcótico o droga): 6.00 S.M.G.
+
+E) Constancias de siniestros bomberos: 5.00 S.M.G
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
@@ -1481,6 +1529,10 @@ por lote excedente 5.40 S.M.G.
 
 3. Cuando los bienes inmuebles sean destinados para la vivienda de interés social y popular, se causará el 50% de los derechos a que se refieren los numerales 1 y 2 de esta fracción e inciso.
 
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+4. Prórroga de subdivisión, 6.75 S.M.G.
+
 b) Por croquis de localización 8.10 S.M.G.
 
 c) Por copias heliográficas y/o bond de
@@ -1581,19 +1633,21 @@ l) Los servicios catastrales no previstos en esta tarifa, pagarán una cuota que
 
 m) Cuando con motivo de la prestación de los servicios arriba señalados se eroguen gastos adicionales por traslado, alimentación, etcétera, los interesados deberán cubrirlos sin que excederán del costo comercial de los mismos.
 
-> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
-n) Por alta de predio en el padrón catastral, cambio de 4.10 5.M.G
+n) Por alta de predio en el padrón catastral,
 
-propietario, cambio de condición, corrección de datos
+cambio de propietario, cambio de condición,
 
-en cédula catastral, constancia de nomenclatura,
+corrección de datos en cedula catastral,
 
-constancia de desglose de áreas, constancia de
+constancia de nomenclatura, constancia de
 
-construcción, certificación de cédula catastral o
+desglose de áreas, constancias de
 
-información catastral por escrito
+construcción o información catastral
+
+por escrito. 4.10 S.M.G
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
@@ -1609,25 +1663,61 @@ p) Por autorización para escrituración de lote
 
 (carta de liberación de lote) 6.75 S.M.G.
 
-> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
-q) Certificación de medidas y colindancias Puerto Morelos, Leona Vicario y Zona Agropecuaria:
+q) Certificación de medidas y colindancias Zona Agropecuaria:
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
 
 1. Hasta 300 metros cuadrados 21.87 SMG.
 
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
 2. De 301 a 600 metros cuadrados 29.16 SMG.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
 
 3. De 601 a 1000 metros cuadrados 36.45 SMG.
 
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
 4. De 1001 a 2000 metros cuadrados 43.74 SMG.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
 
 5. De 2001 a 5000 metros cuadrados 58.32 SMG.
 
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
 6. De 5001 a 10000 metros cuadrados 72.90 SMG.
+
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
 
 7. De 10001 a 2 hectáreas 109.35 SMG.
 
+> <small>(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2014)</small>
+
 8. De 2.01 hectáreas a 4 hectáreas 174.96 SMG.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+r) Por la fusión de predios:
+
+1. Cuando se fusiones (sic) dos lotes 6.75 S.M.G.
+
+2. Por lote adicional 5.40 S.M.G.
+
+3. Cuando los bienes inmuebles sean destinados para la vivienda de interés social y popular, se causará el 50% de los derechos a que se refieren los numerales 1 y 2 de esta fracción e inciso
+
+4. Prórroga por fusión 6.75 S.M.G.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+s) Asignación de nomenclatura a fraccionamientos 24.25 S.M.G.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+t) Por la búsqueda y expedición de copias certificadas de documentos que emita la Dirección de Catastro. 4.10 S.M.G.
 
 ###### Artículo 83.
 
@@ -1651,9 +1741,19 @@ Las personas físicas o morales que realicen actividades comerciales, industrial
 
 Las licencias deberán de exhibirse en lugar visible y a la vista del público en el establecimiento o local para el cual fueron expedidas.
 
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+Las licencias se otorgarán por cada giro, en base a la asignación de actividad o actividades por parte del Sistema de Administración Tributaria SAT, previa revisión practicada por la autoridad municipal. Se entiende por giro toda actividad concreta, ya sea comercial, industrial o de prestación de servicios, según la clasificación de los padrones de la Tesorería Municipal.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+Las licencias otorgadas por la autoridad municipal, podrán ser revocadas en los casos que señala la reglamentación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 86.
 
-Las personas a que se hace referencia en el artículo anterior, deberán solicitar dentro del mismo plazo la expedición de Licencias de Funcionamiento, para lo cual deberán acompañar a su solicitud los siguientes documentos:
+Las personas a que se hace referencia en el artículo anterior, deberán mediante los medios electrónicos dispuestos por el Municipio o de forma personal solicitar dentro del mismo plazo la expedición de Licencias de Funcionamiento, para lo cual deberán acompañar a su solicitud los siguientes documentos:
 
 I. Original para cotejo y copia de la inscripción en el Registro Federal de Contribuyentes y al Padrón Estatal de Contribuyentes;
 
@@ -1696,6 +1796,10 @@ IV. Autorización expedida por la Dirección de Protección Civil Municipal o la
 > <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
 
 V. Si se encuentra en zona federal marítimo terrestre, copia de la concesión y constancia de no adeudo.
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+VI. Licencia de Funcionamiento Estatal vigente del año a renovar, en su caso.
 
 Así mismo los contribuyentes que modifiquen su domicilio fiscal, su actividad preponderante, denominación o razón social, o Registro Estatal de Contribuyentes deberán presentar adjunto a la forma aprobada por la Tesorería, la licencia de funcionamiento para que la autoridad Municipal proceda a la actualización de la misma; así como quienes suspendan actividades o pretendan cancelar su registro Municipal de contribuyentes, en todos los casos se sujetarán a los plazos establecidos en el artículo 85 de la presente Ley.
 
@@ -2131,11 +2235,41 @@ La expedición de constancias de vecindad, de residencia y de morada conyugal, c
 
 TARIFA
 
-I. De vecindad 2.0 S.M.G.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
-II. De residencia 2.0 S.M.G.
+I. De vecindad 3.0 S.M.G.
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+II. De residencia 3.0 S.M.G.
 
 III. De morada conyugal 2,0 S.M.G.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 100 Bis.
+
+Por los servicios que presta la Secretaría General del Ayuntamiento de Benito Juárez a los establecimientos que de conformidad al Reglamento de Estacionamientos del Municipio de Benito Juárez, dan el servicio de recepción, guarda, custodia, estadía, protección y devolución de vehículos, con fines lucrativos y que funcionan con el permiso de la Autoridad Municipal, causarán los siguientes derechos:
+
+I. Para los estacionamientos al público eventuales, incluyendo los servicios de acomodadores de autos, entendiéndose por estacionamientos al público eventuales, los que prestan servicio en predios acondicionados de manera temporal para ofrecer este servicio a los asistentes a eventos, ferias, conciertos, exposiciones o análogos que no sean de carácter permanente:
+
+a).- de 1 a 199 cajones de estacionar 20 S.M.G.
+
+b).- de 200 a 499 cajones de estacionar 40 S.M.G.
+
+c).- de 501 en adelante cajones de estacionar 60 S.M.G.
+
+II. Constancia de apertura de estacionamiento público 40 S.M.G.
+
+III. Renovación anual de la constancia de apertura para la operación de los estacionamientos al público 20 S.M.G.
+
+IV. Constancia para la prestación del servicio de acomodadores 40 S.M.G.
+
+V. Renovación anual para la prestación del servicio de acomodadores 20 S.M.G.
+
+VI. Constancia para la prestación de servicio de estacionamiento al público vinculado a establecimientos mercantiles 120 S.M.G.
+
+VII. Renovación anual para la prestación de servicio de estacionamiento al público vinculado a establecimientos mercantiles 80 S.M.G.
 
 ### CAPÍTULO XVI. PERMISOS PARA RUTA DE AUTOBUSES DE PASAJEROS, URBANOS Y SUBURBANOS
 
@@ -2299,11 +2433,35 @@ Los propietarios o poseedores de solares o predios baldíos y con construcciones
 
 Si los propietarios o poseedores de solares o predios referidos no cumplieran con la disposición anterior, el Municipio, por conducto de la Dependencia competente realizará la limpieza o en su caso construirá las bardas necesarias para delimitar el mismo.
 
-La autoridad municipal podrá requerir en cualquier momento al propietario o poseedor del precio independientemente de la fecha señalada en el artículo anterior para que realice la limpieza, desmonte o desyerbado. En caso de no cumplirse el artículo 110, o con el requerimiento formulado por la autoridad, esta podrá por si mismas o mediante la contratación de terceros efectuar el servicio de desmonte, desyerba o limpieza de los predios con o sin construcción, según sea el caso, situación que conlleva a que los propietarios de los bienes inmuebles están obligados a cubrir íntegramente la prestación del servicio a la autoridad municipal, misma que impondrá una milla de 3.0 a 20 S.M.G. del importe determinado a pagar.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+La autoridad municipal podrá requerir en cualquier momento al propietario o poseedor del predio independientemente de la fecha señalada en el artículo anterior para que realice la limpieza, desmonte o desyerbado. En caso de que los propietarios o poseedores no cumplan con lo previsto en el artículo 110 de esta Ley o con el requerimiento formulado por la autoridad, ésta podrá por sí misma o mediante la contratación de terceros, efectuar el servicio de desmonte, desyerba o limpieza de los predios con o sin construcción, según sea el caso, situación que conlleva a que los propietarios o poseedores de los bienes inmuebles estén obligados a cubrir íntegramente la prestación de ese servicio a la autoridad municipal, misma que además impondrá una multa en base al tipo y superficie de cada predio, conforme a la siguiente tarifa:
+
+a) Habitacional
+
+1. De 1 m2 A 200 m2 de 3.0 a 20 S.M.G.
+
+2. De 201 m2 A 1000 m2 de 21 a 50 S.M.G.
+
+3. De 1001 m2 en delante de 51 a 100 S.M.G.
+
+b) Comercial
+
+1. De 1 m2 A 200 m2 de 50 a 100 S.M.G.
+
+2. De 201 m2 a 1000 m2 de 101 a 200 S.M.G.
+
+3. De 1001 m2 en delante de 201 a 500 S.M.G.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 112.
 
-Cuando el Municipio realice los servicios de desmonte, desyerbado o limpieza de inmuebles, se causarán los derechos por cada metro cuadrado, de 0.12 S.M.G.
+Cuando el Municipio realice los servicios de desmonte, desyerbado o limpieza de inmuebles, se causarán los siguientes derechos:
+
+1. De 1 m2 a 200 m2 a 1 S.M.G.
+
+2. De 201 m2 en adelante a 2 S.M.G.
 
 El pago de las obligaciones establecidas, deberán de ser realizadas en un término de quince días de manera conjunta con la multa correspondiente ante la Tesorería Municipal, una vez hecha la notificación, mediante las formas que establece el Código Fiscal Municipal del Estado de Quintana Roo, o en su caso, las aprobadas por la autoridad fiscal municipal.
 
@@ -2379,7 +2537,7 @@ Las personas físicas o morales que requieran del servido especial, lo solicitar
 
 El Municipio percibirá los derechos por la prestación de los siguientes servicios:
 
-l. De recolección, transporte, tratamiento y destino de basura o residuos sólidos;
+I. De recolección, transporte, tratamiento y destino de basura o residuos sólidos;
 
 Están obligados a realizar el pago del presente derecho, las personas físicas o morales que reciben los beneficios en los locales en los que realicen actividades comerciales, industriales o de servicios.
 
@@ -2399,11 +2557,17 @@ Están obligados a realizar el pago de éste derecho, las personas físicas o mo
 
 Para determinar el monto deberán pesarse los residuos sólidos presentados, en la báscula instalada en el relleno sanitario para tal efecto, y que será operada por el organismo público descentralizado "Solución Integral de Residuos Sólidos Cancún”. Los derechos establecidos en la fracción II de este artículo, deberán ser cubiertos en las instalaciones del relleno sanitario que se encuentre en operación.
 
-III. De registro de planes de manejo de residuos sólidos urbanos.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
-Están obligados a pagar este derecho de forma anual, todos los establecimientos comerciales y de servicios que generen residuos sólidos urbanos, y que estén obligados a presentar Plan de Manejo de Residuos Sólidos Urbanos de conformidad con el artículo 37 segundo párrafo de la Ley para la Prevención y la Gestión Ambiental de los Residuos del Estado de Quintana Roo.
+III. De registro de planes de manejo de Residuos Sólidos urbanos
 
-Los derechos que deberán pagar por este servicio los sujetos obligados serán los equivalentes a 20 días de S.M.G.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+Están obligados a pagar este derecho de forma anual, todos los establecimientos comerciales y de servicios que generen residuos sólidos urbanos, y que estén obligados a presentar Plan de Manejo de Residuos Sólidos Urbanos de conformidad con el artículo 37 segundo párrafo de la Ley para la Prevención y la Gestión Integral de Residuos del Estado de Quintana Roo.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+Los derechos que deberán pagar por este servicio los sujetos obligados, serán los equivalentes a 40 días de S.M.G.
 
 Los derechos a que se refiere este artículo, serán entregados íntegramente y conforme se recauden mensualmente por la Tesorería Municipal, al organismo público descentralizado "Solución Integral de Residuos Sólidos Cancún”.
 
@@ -2441,11 +2605,9 @@ Para el uso de la vía pública para el ejercicio de una actividad lucrativa de 
 
 TARIFA
 
-> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
-l. Puestos ubicados en la vía 3 a 15.5 S.M.G.
-
-pública, mensual
+I. Puestos ubicados en la vía pública, mensual 3 a 20 S.M.G.
 
 II. Andamios, maquinaria y materiales
 
@@ -2807,9 +2969,21 @@ las bases y estaciones de servicio
 
 público de carga y descarga. 2846.34 S.M.G.
 
-Los trailers que tengan más de una caja, se les cobrará el 50% de la tarifa antes señalada.
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
-Las flotillas de más de 10 vehículos cuyo propietario sea una misma persona física o moral, podrá solicitar a la Tesorería Municipal, un descuento de hasta el 50% de la tarifa que corresponda, respecto de cada permiso solicitado.
+XI. Estructuras móviles motorizadas sobre ruedas donde se comercialicen alimentos preparados de más de 1.5 toneladas con previa autorización del Ayuntamiento de 30 a 60 S.M.G. mensual.
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+XII. Permiso de Instalación de Modulo fijo para prestación de servicio con previa autorización del Ayuntamiento 22 S.M.G. mensual por modulo y/o cajero automático de institución financiera.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+Los trailers que tengan más de una caja, se les cobrará el 50% adicional a las tarifas antes señaladas.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+Las flotillas de más de 10 vehículos cuyo propietario sea una misma persona física o moral, podrán solicitar a la Tesorería Municipal, un descuento de hasta el 50% de la tarifa que corresponda, respecto de cada permiso solicitado.
 
 ### CAPÍTULO XXIV. DE LA VERIFICACIÓN, CONTROL Y FISCALIZACIÓN DE OBRA PUBLICA
 
@@ -2832,6 +3006,10 @@ V. Degustación con venta en general.
 > <small>(ADICIONADA, P.O. 9 DE DICIEMBRE DE 2014)</small>
 
 VI. Exposiciones de productos y servicios en general.
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+VII. Estructuras temporales mayores a 50 m2 donde se comercialicen artículos diversos para su venta al público en general previa autorización del Ayuntamiento.
 
 ###### Artículo 126.
 
@@ -2878,6 +3056,10 @@ metro
 cuadrado por
 
 día.
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+VII. Por estructuras temporales mayores a 50 m2 donde se comercialicen artículos diversos para su venta al público en general con previa autorización del Ayuntamiento de 30 a 50 SMG diario.
 
 ###### Artículo 127.
 
@@ -3663,9 +3845,13 @@ Quater.- Todos los servicios que proporcione la Dirección de Zona Federal Marí
 
 I. Constancias:
 
-a) De uso o no uso de la ZOFEMAT De 20.0 a 70.0 SMG.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
-b) De no adeudo por derecho de uso, goce y/o aprovechamiento de la ZOFEMAT 10.0 S.M.G.
+a) De uso o no uso de la Zona Federal Marítimo Terrestre 10.0 SMG.
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+b) De no adeudo por derecho de uso, goce y/o aprovechamiento de la Zona Federal Marítimo Terrestre 10.0 SMG.
 
 II. Impresión de planos con levantamientos geodésicos, vértices GPS de la pleamar, de la zona federal marítimo terrestre, de los terrenos ganados al mar u alguna otra área federal costera. De 30.0 a 70.0 SMG.
 
@@ -4024,3 +4210,11 @@ P.O. 9 DE DICIEMBRE DE 2014.
 Primero. El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 15 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 366 POR EL QUE SE REFORMAN LOS ARTÍCULOS 26; 27; 74 FRACCIONES III, IV Y V; 82 EN SU FRACCIÓN V INCISOS N) Y Q); 86; 100 FRACCIONES I Y II; 111 SEGUNDO PÁRRAFO; 112 PRIMER PÁRRAFO; 120 EN SU FRACCIÓN III, PÁRRAFOS SEGUNDO Y TERCERO; 124 FRACCIÓN I; 133 QUÁTER EN SU FRACCIÓN I, INCISOS A) Y B); Y SE ADICIONAN EL SEGUNDO PÁRRAFO AL ARTÍCULO 25; EL ARTÍCULO 26 BIS; INCISO P) A LA FRACCIÓN V DEL ARTÍCULO 63; EL ARTÍCULO 72 BIS; EL PUNTO 4 AL INCISO A), LOS INCISOS R), S) Y T) DE LA FRACCIÓN V DEL ARTÍCULO 82; EL TERCER Y CUARTO PÁRRAFO AL ARTÍCULO 85; LA FRACCIÓN VI AL ARTÍCULO 87; EL ARTÍCULO 100 BIS; LAS FRACCIONES XI Y XII AL ARTÍCULO 124; LA FRACCIÓN VII AL ARTÍCULO 125 Y LA FRACCIÓN VII AL ARTÍCULO 126; TODOS A LA LEY DE HACIENDA DEL MUNICIPIO DE BENITO JUÁREZ, DEL ESTADO DE QUINTANA ROO”.]
+
+PRIMERO. El presente decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se derogan todas aquellas disposiciones que contravengan el presente decreto.
