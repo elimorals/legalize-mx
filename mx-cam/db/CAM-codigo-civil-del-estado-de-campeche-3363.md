@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "2015-09-11"
+last_updated: "2015-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CÓDIGO CIVIL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2015.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -941,11 +941,23 @@ Cuando se recobre la capacidad legal para administrar, se revoque la adopción s
 
 De la rectificación de las actas del registro civil.
 
-> <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ###### Art. 145.
 
-La rectificación o enmienda de las actas del Registro Civil procederá para subsanar o corregir errores mecanográficos, ortográficos o de otra índole o para variar algún nombre u otra circunstancia.
+La rectificación o enmienda de las actas del Registro Civil procederá para:
+
+I. Subsanar o corregir errores mecanográficos, ortográficos o de otra índole;
+
+II. Modificar el nombre o sustantivo propio que afecte su dignidad como consecuencia de la exposición al ridículo o por desuso en la vida social y jurídica de la persona interesada;
+
+III. Modificar el nombre o sustantivo propio cuando su conjunción con los apellidos afecte también la dignidad de la persona;
+
+IV. Corregir homonimias que causen perjuicio moral o económico;
+
+V. Variar algún otro nombre u otra circunstancia; y
+
+VI. Corregir algún dato esencial.
 
 > <small>(REFORMADO, P.O. 16 DE JULIO DE 2009)</small>
 
@@ -968,6 +980,24 @@ La rectificación de las actas del Registro Civil sólo podrán pedirla:
 I.- La persona a cuyo estado se refiera; y
 
 II.- Sus parientes por consanguinidad en línea recta, ascendente o descendente.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+Art. 148 bis.- La modificación o cambio del sustantivo propio registrado, por desuso o por la afectación a su dignidad humana podrá solicitarse, por una sola ocasión, ante el Director del Registro del Estado Civil de Campeche, por:
+
+I. La persona interesada, si es mayor de edad;
+
+II. Los padres, el padre, la madre o quien ejerza la patria potestad del menor de doce años de edad o del incapaz;
+
+III. La persona menor de dieciocho pero mayor de doce años, a través de quien lo represente legalmente, o en su caso, de la persona o institución que lo tuviere a su cargo, en términos de lo previsto en este Código, en la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Campeche y demás disposiciones aplicables.
+
+Tratándose de menores de edad, en todos los casos será oída la opinión del menor, conforme a su edad, desarrollo evolutivo, cognoscitivo y madurez.
+
+En caso de que la registrada o el registrado tenga dos o más nombres en el sustantivo propio, solo surtirá efecto en el sustantivo propio expuesto al ridículo o en aquel en desuso en la vida social y jurídica de la persona interesada.
+
+La solicitud de modificación o cambio del sustantivo propio registrado por ser expuesto al ridículo o por desuso en la vida social y jurídica, será resuelta por el Director del Registro del Estado Civil, en términos de lo dispuesto por este Código, previa opinión del Ministerio Público para que manifieste si existe alguna objeción al respecto.
+
+De proceder la modificación o cambio del sustantivo propio se tendrá por entendido, para efectos legales, que se trata de la misma persona, lo que se hará constar en el documento que para tal efecto de (sic) expida.
 
 > <small>(REFORMADO, P.O. 3 DE JUNIO DE 1993)</small>
 
@@ -16235,6 +16265,12 @@ PRIMERO.- El presente decreto entrará en vigor quince días después de su publ
 
 SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al contenido del presente decreto.
 
-## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 207 POR EL QUE "ARTICULO UNICO.- ART. 2902".]
+P.O. 15 DE DICIEMBRE DE 2015.
 
-UNICO.- El presente Decreto entrará en vigor el mismo día de su publicación en el Periódico Oficial del Gobierno del Estado.
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 7 POR EL QUE “SE REFORMA EL ARTÍCULO 145 Y SE ADICIONA UN ARTÍCULO 148 BIS AL CÓDIGO CIVIL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor treinta días después de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Poder Ejecutivo del Estado proveerá en la esfera administrativa la exacta observancia del presente decreto, debiendo realizar las modificaciones necesarias a los reglamentos que correspondan.
+
+TERCERO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
