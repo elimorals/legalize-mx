@@ -4,7 +4,7 @@ identifier: "COA-ley-estatal-de-salud-del-estado-de-coahuila-de-zaragoza-3775"
 country: "mx"
 rank: "ley"
 publication_date: "1993-07-30"
-last_updated: "2015-11-13"
+last_updated: "2015-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3775&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ESTATAL DE SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 30 de julio de 1993.
 
@@ -1117,11 +1117,15 @@ La Secretaría de Salud del Estado, en coordinación con las autoridades federal
 
 El Gobierno del Estado, a través de la Secretaría de Salud, formulará y desarrollará programas de nutrición estatales, promoviendo la participación en los mismos de la Secretaría de Educación y Cultura del Estado y demás dependencias estatales cuyas actividades se relacionen con la nutrición y la disponibilidad de alimentos, así como de los sectores social y privado.
 
-> <small>(ADICIONADO, P.O. 24 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
-Artículo 96 bis. La Secretaría de Salud diseñará programas para promover el consumo de alimentos de alta calidad nutricional en las instituciones de educación preescolar, primaria y secundaria dependientes de la Administración Pública del Estado e incorporados a las mismas.
+Artículo 96 bis.- La Secretaría de Salud diseñará programas para promover el consumo de alimentos de alta calidad nutricional en las instituciones de educación preescolar, primaria y secundaria dependientes de la Administración Pública del Estado e incorporadas a las mismas.
 
-Asimismo, en coordinación con la Secretaría de Educación y Cultura y la participación de los sectores social y privado, promoverá que los alimentos, productos y bebidas que se ofrezcan en las en las instituciones de educación señaladas en este artículo, contengan bajo contenido de sodio, grasa, colesterol, calorías, azúcar, nulo contenido de gluten y alto contenido de fibra.
+Asimismo, en coordinación con la Secretaría de Educación y la participación de los sectores social y privado, promoverá que los alimentos, productos y bebidas que se ofrezcan en las instituciones de educación señaladas en este artículo, contengan bajo contenido de sodio, grasa, colesterol, calorías, azúcar, nulo contenido de gluten y alto contenido de fibra.
+
+Además en coordinación con la Secretaría de Desarrollo Económico, Competitividad y Turismo y los Ayuntamientos del Estado de Coahuila de Zaragoza, la Secretaría de Salud fomentará que los establecimientos destinados a la venta de comida rápida, restaurantes, y tiendas de auto-servicio oferten alimentos saludables y bebidas de bajo contenido en azúcar y grasas tales como leche baja en grasa y sin saborizantes, jugos naturales, y agua purificada en presentación de trescientos mililitros o menor, dirigidas al consumo de niñas y niños.
+
+Lo anterior, estipulando la autoridad competente como requisito para la procedencia de los permisos pertinentes a dichos establecimientos, la oferta de los alimentos y bebidas antes mencionados dentro del menú ofrecido al público.
 
 > <small>(REFORMADO, P.O. 24 DE AGOSTO DE 2010)</small>
 
@@ -1880,6 +1884,10 @@ a) Retirar la sal común, la cual solo podrá ser colocada a petición expresa d
 b) Colocar en lugares visibles información sobre las enfermedades provocadas por el alto consumo de sal; y
 
 c) Promover dentro de sus cortesías un vaso de agua natural purificada a la llegada de los comensales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+d) Ofertar alimentos saludables y bebidas de bajo contenido en azúcar y grasas tales como leche baja en grasa y sin saborizantes, jugos naturales, y agua purificada en presentación de trescientos mililitros o menor, dirigidas al consumo de niñas y niños.
 
 Las instituciones públicas o privadas que tengan por objeto recibir la donación de alimentos y el suministro o distribución de los mismos con la finalidad de satisfacer las necesidades de nutrición y alimentación de los sectores vulnerables del Estado, quedan sujetas a control sanitario y, además de cumplir con lo establecido en esta Ley y demás disposiciones aplicables, deberán:
 
@@ -3224,3 +3232,15 @@ P.O. 13 DE NOVIEMBRE DE 2015.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO No. 189.- SE REFORMA EL SEGUNDO PÁRRAFO DEL ART. 72 DE LA LEY ESTATAL DE SALUD”.]
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
+
+P.O. 15 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 193 SE MODIFICAN LOS ARTÍCULOS 96 BIS Y 156 DE LA LEY ESTATAL DE SALUD".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
