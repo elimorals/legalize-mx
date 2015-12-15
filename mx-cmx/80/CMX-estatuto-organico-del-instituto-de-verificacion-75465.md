@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-instituto-de-verificacion-75465"
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-07-01"
-last_updated: "2015-12-14"
+last_updated: "2015-12-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75465&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,11 +20,11 @@ issue_date: "2010-06-22"
 ---
 # ESTATUTO ORGANICO DEL INSTITUTO DE VERIFICACION ADMINISTRATIVA DEL DISTRITO FEDERAL
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS Y NOTA ACLARATORIA PUBLICADAS EL 15 DE DICIEMBRE DE 2015 Y 13 DE ENERO DE 2016 RESPECTIVAMENTE, EN LA GACETA OFICIAL DEL DISTRITO FEDERAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 ESTATUTO ORGÁNICO DEL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL DISTRITO FEDERAL, ORGANISMO PÚBLICO DESCENTRALIZADO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE DICIEMBRE DE 2015.
+
+N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 15 DE DICIEMBRE DE 2015.
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el jueves 1 de julio de 2010.
 
@@ -1178,6 +1178,8 @@ G.O. 14 DE DICIEMBRE DE 2015.
 
 Publíquese en la Gaceta Oficial del Distrito Federal.
 
+> <small>(F. DE E., G.O. 15 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO SEGUNDO.
 
-Las presentes reformas, adiciones y derogaciones, entrarán en vigor al día siguiente de la notificación del dictamen de estructura autorizada por parte de la Coordinación General de Modernización Administrativa.
+Las presentes reformas, adiciones y derogaciones, entrarán en vigor el dieciséis de diciembre de dos mil quince.
