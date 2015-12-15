@@ -4,7 +4,7 @@ identifier: "COA-codigo-civil-para-el-estado-de-coahuila-de-zaragoza-15369"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-25"
-last_updated: "2015-09-22"
+last_updated: "2015-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15369&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 25 de junio de 1999.
 
@@ -233,19 +233,31 @@ La capacidad jurídica es igual para el hombre y la mujer.
 
 Si por exigencias de construcción gramatical, enumeración, orden u otra circunstancia, un texto legal usa el género masculino, esa ley deberá ser interpretada en sentido igualitario para hombres y mujeres, de modo que éstas y aquéllos puedan adquirir toda clase de derechos y contraer igualmente toda clase de deberes jurídicos.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 37.
 
 Tienen capacidad de ejercicio:
 
-I. Los mayores de edad no sujetos a interdicción.
+I. Los mayores de edad no sujetos a tutela.
 
 II. Los menores emancipados.
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
+III. Los mayores de edad con algún grado de deficiencia en sus funciones o estructuras corporales conforme al artículo 12 de la Ley para la Familia de Coahuila de Zaragoza, siempre que cuenten con la asistencia de un tercero para poder tomar sus decisiones y asumir las consecuencias de las mismas.
+
+IV. Los menores de 18 años pero mayores de 12 años de edad, siempre que sean asistidos por quien o quienes tengan la patria potestad o tutela.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 38.
 
-Los negocios de familia que este código reglamenta pueden ser celebrados personalmente por los menores que hayan cumplido dieciséis años, sean varones o mujeres, con autorización de sus legítimos representantes o de quien pueda suplir legalmente dicha autorización.
+Los actos jurídicos que celebren los menores de 18 años pero mayores de 15 años de edad, serán válidos y producirán todos sus efectos jurídicos siempre que sean validados por quien o quienes ejerzan la patria potestad o tutela. Si alguno de ellos, se niega a validarlo injustificadamente, el menor de edad podrá solicitar personalmente la intervención de la autoridad judicial en materia familiar, quien decidirá lo más favorable a los intereses del solicitante.
+
+Los actos jurídicos que celebren los menores de 15 años pero mayores de 12 años de edad, deberán ser siempre autorizados por la autoridad judicial para que se consideren válidos, independientemente de la validación que otorguen sus padres o tutor.
 
 ###### ARTÍCULO 39.
 
@@ -259,191 +271,215 @@ La mayor edad de las personas físicas comienza a los dieciocho años cumplidos.
 
 Quienes estando en pleno uso de sus facultades psíquicas y mentales adquieren la mayoridad, pueden disponer libremente de su persona y de sus bienes sin más limitaciones que las establecidas en la ley.
 
-#### SECCIÓN SEGUNDA. DE LA EMANCIPACIÓN
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN SEGUNDA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 42.
 
-El emancipado tiene capacidad de ejercicio para la libre administración de su patrimonio, disposición de sus bienes muebles y para otorgar el documento que contenga las disposiciones previsoras a que hace referencia la Ley Protectora de la Dignidad del Enfermo Terminal, para el Estado de Coahuila.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 43.
 
-El emancipado necesita durante su minoría de edad, autorización judicial para la enajenación, gravamen o hipoteca de sus bienes raíces, y de un tutor dativo para sus negocios judiciales.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 44.
 
-Son nulos los negocios jurídicos celebrados por los menores emancipados con infracción del artículo anterior; pero sólo el emancipado puede demandar esa nulidad y la acción correspondiente prescribe en un año a partir del inicio de su mayoridad.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 ###### ARTÍCULO 45.
 
 (DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
-#### SECCIÓN TERCERA. DE LA INCAPACIDAD
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN TERCERA. DE LA ASISTENCIA O REPRESENTACIÓN PARA EL EJERCICIO DE LA CAPACIDAD JURÍDICA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 46.
 
-Es de orden público el interés que el Estado tiene en la atención de los incapaces.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 47.
 
-Las incapacidades establecidas por la ley son simples restricciones a la personalidad jurídica, que no deben menoscabar la dignidad de la persona ni atentar contra la integridad de la familia, pero los incapaces pueden, por medio de sus legítimos representantes, ejercitar sus derechos, cumplir sus obligaciones, celebrar negocios jurídicos y comparecer en juicio.
+Las incapacidades establecidas por la ley son simples restricciones o limitaciones a la personalidad jurídica, que no deben menoscabar la dignidad de la persona ni atentar contra la integridad de la familia, pero las personas pueden, mediante la asistencia de sus tutores o de quien ejerza la patria potestad, o por medio de sus legítimos representantes, ejercitar sus derechos, cumplir sus obligaciones, celebrar negocios jurídicos y comparecer en juicio.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 48.
 
-Son incapaces:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Los menores de edad.
-
-II. Los mayores de edad enumerados en los siguientes incisos de esta fracción:
-
-a) Los privados de inteligencia o disminuidos o perturbados en ella, aunque tengan intervalos lúcidos; y aquellos que padezcan alguna afección originada por enfermedad o deficiencia persistente de carácter físico, psicológico o sensorial o por la adicción a sustancias tóxicas, como el alcohol, los psicotrópicos o los estupefacientes; siempre que debido a la limitación o la alteración en la inteligencia que esto les provoque no puedan gobernarse y obligarse por sí mismos o manifestar su voluntad por algún medio.
-
-b) Los sordomudos que no sepan darse a entender por escrito o mediante intérprete, por lenguaje mímico.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 49.
 
-La atención de los incapaces mencionada en el artículo anterior comprende:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. El cuidado del ser humano durante la gestación, nacimiento y minoridad.
-
-II. La salud física y mental de los menores, así como su educación, instrucción y preparación.
-
-III. El tratamiento médico, cuidado y vigilancia de los mayores que se hallen en los supuestos a que se refiere la fracción II del artículo 48.
-
-IV. La guarda de sus bienes.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE AGOSTO DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 50.
 
-La patria potestad, la adopción y la tutela, son instituciones para la atención de los incapaces, por los ascendientes, adoptantes, tutores, el Sistema Estatal para el Desarrollo Integral de la Familia, funcionarios judiciales, administrativos y demás servidores públicos.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Cuando en este código se use la palabra D.I.F. se entenderá que se refiere al Sistema Estatal para el Desarrollo Integral de la Familia, y las facultades que el mismo código le confiere serán ejercitadas por el presidente del Patronato de esa institución, quien podrá delegarlas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 51.
 
-Las medidas protectoras del incapaz que este código establece y las que juzguen pertinentes los tribunales, se dictarán por ellos:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. De oficio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-II. A petición del D.I.F., de la Procuraduría de la Familia, del Ministerio Público o del tutor del incapaz.
-
-III. A petición del mismo incapaz, de los parientes de éste o de cualquier persona, tenga o no interés en el establecimiento de esas medidas.
-
-IV. Las peticiones a que se refiere la fracción anterior no necesitan ser por escrito.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 52.
 
-Son nulos los actos y negocios jurídicos que realicen los menores de edad por sí mismos cuando estén sujetos a patria potestad, excepción hecha de los supuestos previstos en el artículo 55.
+Son nulos los actos y negocios jurídicos que realicen los menores de edad sin observar lo dispuesto en los artículos 37 y 38.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 53.
 
-Son nulos los actos y negocios jurídicos realizados por los menores de edad no sujetos a patria potestad y por los mayores incapaces, antes del nombramiento de tutor, si la minoridad o la causa de la incapacidad eran patentes y notorias al momento de realizarse el acto o negocio.
+Son nulos los actos y negocios jurídicos realizados por las personas mayores de edad que requieren asistencia o representación para el ejercicio de su capacidad jurídica conforme al artículo 13 de la Ley para la Familia de Coahuila de Zaragoza, antes del nombramiento de tutor, si la causa de la deficiencia en sus funciones o estructura corporal eran patentes y notorias al momento de realizarse el acto o negocio e impactaba directamente en su capacidad de decisión.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 54.
 
-Después del nombramiento del tutor del menor no sujeto a patria potestad, o del mayor incapaz, son nulos todos los actos o negocios jurídicos realizados por ellos, aun cuando la minoridad o la causa de la incapacidad no sean patentes y notorias al realizarse el acto o negocio.
+Después del nombramiento del tutor del menor de edad no sujeto a patria potestad, o del mayor de edad que requiera asistencia o representación para el ejercicio de su capacidad jurídica, son nulos todos los actos o negocios jurídicos realizados por ellos sin observar los artículos 13 de la Ley para la Familia de Coahuila de Zaragoza y los artículos 37 y 38 de este Código, aún cuando la minoridad o la causa de la deficiencia de las personas mayores de edad no sean patentes y notorias al realizarse el acto o negocio.
 
 Lo dispuesto en éste y los dos artículos anteriores se observará, salvo lo establecido en el artículo 2153.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 55.
 
-No son nulos los actos o negocios jurídicos realizados por el menor sujeto a patria potestad o a tutela, antes o después del nombramiento del tutor:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Cuando el menor es perito en la clase de negocio o acto de que se trate.
-
-II. Cuando el menor se hizo aparecer dolosamente como mayor o presentó certificados falsos del Registro Civil.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 56.
 
-El menor se considera emancipado para los actos de administración de los bienes que obtenga con su trabajo.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 57.
 
-La nulidad de los actos o negocios jurídicos de los incapaces sólo puede ser pedida por el mismo incapaz o por su representante legal.
+La nulidad de los actos o negocios jurídicos de las personas que requieren de asistencia o representación para el ejercicio de su capacidad jurídica sólo puede ser pedida por ellas mismos (sic) o por su representante legal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 58.
 
-La acción de nulidad por incapacidad de una de las partes, prescribe en dos años contados en la siguiente forma:
+La acción de nulidad por no satisfacer los requisitos del artículo 12 de la Ley para la Familia de Coahuila de Zaragoza, así como los artículos 37 y 38 de este Código, prescribe en dos años contados en la siguiente forma:
 
-I. Desde el día en que el incapaz llegue a ser mayor de edad, cuando al realizar el acto o negocio jurídico, no estuviese sujeto a patria potestad ni tuviere tutor.
+I. Desde el día en que la persona que requiere asistencia o representación para el ejercicio de sus derechos, llegue a ser mayor de edad, cuando al realizar el acto o negocio jurídico, no estuviese sujeto a patria potestad ni tuviere tutor.
 
-II. Desde el día en que el mayor de edad incapaz que no tuviese tutor recobre la capacidad.
+II. Desde el día en que el mayor de edad que requiere de asistencia o representación para el ejercicio de sus derechos que no tuviese tutor recobre plenamente la capacidad.
 
-III. Desde el día en que llegue al conocimiento del representante legal del incapaz, el acto o negocio impugnado, cuando al realizar éste el incapaz tuviese ya ese representante.
+III. Desde el día en que llegue al conocimiento del representante o asistente legal de la persona que requiere de asistencia o representación para el ejercicio de sus derechos, el acto o negocio impugnado, cuando al realizar éste la persona tuviese ya ese representante o asistente legal.
 
-### CAPÍTULO III. DEL NOMBRE
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO III
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 59.
 
-El nombre de las personas físicas se forma con el nombre propio y los apellidos.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 60.
 
-El nombre propio será puesto libremente por quien registre el nacimiento de un niño y los apellidos serán el primero de cada uno de los padres, si se trata de hijos nacidos de matrimonio; pero si son varios del mismo vínculo, no podrá imponérseles el mismo nombre propio.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-No se emplearán como nombres propios los que puedan ser ridículos.
-
-Los padres acordarán el orden de los apellidos, en caso de desacuerdo, lo decidirá la autoridad judicial competente.
-
-El orden elegido de los apellidos regirá para los demás hijos del mismo vínculo matrimonial.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 61.
 
-Los hijos nacidos fuera de matrimonio llevarán el nombre o nombres que les impongan quien o quienes los reconozcan.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
-
-Si el reconocimiento se hiciere sólo por uno de los progenitores se asentarán los apellidos de éste; si fuere hecho por ambos se asentarán los primeros apellidos de cada uno de ellos, en el orden que convengan, en caso de desacuerdo lo decidirá la autoridad judicial competente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 62.
 
-Tratándose de hijos adoptivos se observarán las prescripciones siguientes:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Si al tiempo de la adopción el hijo usare ya un nombre propio, podrá seguir usando dicho nombre, al cual deberá añadir el apellido del adoptante.
-
-II. Si al tiempo de la adopción el adoptado no tuviese nombre, éste se formará con el nombre o nombres propios que le imponga el adoptante, seguido de los apellidos de éste.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 63.
 
-(DEROGADO, P.O. 26 DE JUNIO DE 2012)
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 64.
 
-Si el niño es presentado como hijo de padres desconocidos, el Oficial del Registro Civil le pondrá nombre y apellidos, que nunca podrán ser los correspondientes a personajes ilustres del Estado o de los Estados Unidos Mexicanos.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 65.
 
-La sentencia ejecutoriada que desconozca o establezca la paternidad o la maternidad, producirá, respectivamente, el efecto de privar u otorgar a la persona de cuya filiación se trate, el derecho al uso del apellido correspondiente.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 66.
 
-Toda persona tiene derecho al uso de su nombre, puede por lo tanto oponerse a que un tercero lo use, cuando conforme a las disposiciones de este código no tenga derecho a ello.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Lo mismo se observará tratándose del seudónimo, cuando éste desempeñe realmente la función del nombre.
-
-El derecho de controvertir judicialmente el uso indebido por otra persona de un nombre o de un seudónimo, se transmite a los herederos del afectado para continuar la acción; pero no para ejercitarla si el afectado no lo hizo en vida.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 67.
 
-El hecho de que un cónyuge añada a su nombre el apellido de su consorte no producirá efecto legal alguno.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 68.
 
-La adopción y uso del nombre, seudónimo, anagrama o lema, así como el cambio de los mismos, constituye civilmente responsables por los daños y perjuicios que causen a tercero, a quienes infrinjan las disposiciones relativas al nombre, sin menoscabo de las penas en que incurran conforme al Código Penal, por los delitos que resulten cometidos.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 69.
 
-La enmienda, modificación y cambio de nombre de una persona, se sujetará a las reglas establecidas para la rectificación de las actas del estado civil, pero no la liberará ni la eximirá de las obligaciones que haya contraído con el nombre anterior.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 70.
 
-El derecho a usar nombre o seudónimo, es imprescriptible.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 ### CAPÍTULO IV. DEL DOMICILIO
 
@@ -483,31 +519,47 @@ Además del domicilio real y del legal, la ley reconoce el derecho que toda pers
 
 Se podrá cambiar el domicilio convencional, pero no surtirá efecto dicho cambio si no se hace del conocimiento de los demás interesados.
 
-### CAPÍTULO V. DEL ESTADO CIVIL
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO V
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 77.
 
-El estado civil de una persona es la situación jurídica concreta que ésta guarda en relación con su familia.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 78.
 
-Posesión de estado es el goce aparente de determinado estado de familia, con título o sin él, y sus elementos son: nombre, trato y fama.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 79.
 
-Para apreciar la posesión de estado se atenderá al nombre usado por el poseedor, al trato que reciba en el seno de la familia correspondiente y a la fama que sobre el particular goce la misma persona en su medio social y familiar.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 80.
 
-La posesión de estado no puede perderse sino por sentencia firme dictada en juicio; el interesado podrá además ejercitar las acciones que establece el Código Procesal Civil, para que se le restituya o se le ampare en el disfrute de la posesión, contra cualquier despojo o perturbación que sufra al respecto sin que preceda sentencia firme.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 81.
 
-El estado civil de las personas sólo se comprueba por las constancias relativas al Registro Civil. Ningún otro documento ni medio de prueba es admisible para comprobar el estado civil, salvo los casos expresamente exceptuados por la ley.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 82.
 
-Cuando el estado civil se establezca por resolución judicial, y se haya omitido enviar al Oficial del Registro Civil la constancia correspondiente para el levantamiento del acta, será bastante la prueba de dicha resolución para justificarlo.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 ### CAPÍTULO VI. DE LA NACIONALIDAD
 
@@ -863,673 +915,629 @@ Por causa de ausencia no se suspenden los plazos que fija la ley para la prescri
 
 El Ministerio Público velará por los intereses del ausente y será parte necesaria en todos los procedimientos establecidos en este capítulo.
 
-### CAPÍTULO X. DEL REGISTRO CIVIL
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO X
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 145.
 
-El Registro Civil es una institución de orden público que tiene por objeto hacer constar de una manera auténtica todos los actos y hechos relacionados con el estado civil de las personas físicas, mediante la intervención de funcionarios dotados de fe pública, denominados Oficiales del Registro Civil, y a través de un sistema organizado de publicidad.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
-
-Así mismo, el Registro Civil tendrá a su cargo la creación y manejo del Registro Estatal de Deudores Alimentarios Morosos, en el que se inscribirá a las personas que hayan dejado de cumplir sus obligaciones alimentarias por un periodo de tres meses consecutivos o no, decretadas por la autoridad judicial correspondiente o por la Procuraduría de los Niños, Niñas y la Familia.
-
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2012)</small>
-
-El Registro Civil, estará facultado para la expedición de constancias que informen si quien la solicita se encuentra inscrito o no, en el Registro Estatal de Deudores Alimentarios Morosos.
-
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2014)</small>
-
-El Registro Civil, una vez hecha la inscripción a que se refiere el segundo párrafo, solicitará al Registro Público del Estado de Coahuila de Zaragoza la anotación de la constancia respectiva en los bienes de los que sea propietario el Deudor Alimentario inscrito. El Registro Público del Estado de Coahuila de Zaragoza deberá informar al Registro Civil en un plazo de 3 días hábiles si fue procedente la anotación. Igualmente, el Registro Civil efectuará convenios con las sociedades de información crediticia a que se refiere la Ley de la materia a fin de suministrarles la información contenida en el Registro Estatal de Deudores Alimentarios Morosos. La anotación realizada en el Registro Público surtirá efectos de embargo precautorio.
-
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 146.
 
-Los Oficiales del Registro Civil asentarán las actas en las formas especiales que determine la Ley del Registro Civil; la infracción de esta disposición producirá la inexistencia del acta, y la destitución del responsable. Las inscripciones se harán mecanográficamente o empleando sistemas de cómputo, por quintuplicado, debiendo firmar el Oficial y los comparecientes en los cinco ejemplares.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 147.
 
-Las Actas del Registro Civil sólo se pueden asentar en las formas siguientes: nacimiento, reconocimiento de hijos, matrimonio, divorcio, pacto civil de solidaridad, defunción, terminación del pacto civil de solidaridad y de inscripción de las sentencias ejecutoriadas que declaren la ausencia, la presunción de muerte, la tutela y la pérdida o limitación de la capacidad legal para administrar bienes. En caso de adopción plena, se asentará acta de nacimiento.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 148.
 
-Si se perdiere o destruyere alguna de las formas en que se asentaron los actos y hechos relacionados con el estado civil de las personas, se sacará inmediatamente copia de cualquiera de los otros ejemplares, ya sea que la pérdida o destrucción ocurra en las Oficialías del Registro Civil o en la oficina de la autoridad administrativa a que hubieren remitido los duplicados. La Dirección Estatal del Registro Civil cuidará de que se cumpla esta disposición y, a ese efecto, el Oficial o Jefe del Archivo General del Registro Civil, dará el aviso correspondiente.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 149.
 
-Cuando no hayan existido registros, estuvieren ilegibles o faltaren las hojas en que se puede suponer que se encontraba el acta, se podrá recibir prueba del acto o hecho por instrumentos o testigos; pero si uno solo de los ejemplares de los libros del Registro Civil se ha inutilizado total o parcialmente y existe el otro ejemplar de este deberá tomarse la copia certificada, sin que se admita prueba de otra clase.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 150.
 
-Las formas del Registro Civil serán expedidas anualmente por la Dirección Estatal del Registro Civil, previa aprobación del Ejecutivo del Estado.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 151.
 
-No podrá asentarse en las actas, ni por vía de nota o advertencia, sino lo que deba ser declarado para el acto preciso a que ellas se refieren y lo que esté expresamente prevenido en la ley.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 152.
 
-Los testigos que intervengan en las actas del Registro Civil, serán mayores de edad, prefiriéndose los que designen los interesados, aun cuando sean sus parientes.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 153.
 
-La variación de los datos contenidos en las actas y certificaciones de las mismas, así como la falsificación de las actas y la inserción en ellas de circunstancias o declaraciones prohibidas por la ley, causarán la destitución del Oficial del Registro Civil, sin perjuicio de las penas que la ley señale para el delito de falsedad, y de la indemnización de daños y perjuicios.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 154.
 
-Los vicios o defectos que haya en las actas, sujetan al Oficial del Registro Civil a las correcciones que señale el Reglamento respectivo; pero cuando sean sustanciales producirán la nulidad del acta.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 155.
 
-Cuando los interesados no puedan concurrir personalmente, podrán hacerse representar por un mandatario especial para el acto, cuyo nombramiento conste por lo menos en instrumento privado otorgado ante dos testigos. En los casos de matrimonio o de reconocimiento de hijos, se necesita poder otorgado en escritura pública o mandato extendido en escrito privado firmado por el otorgante y dos testigos, ratificadas las firmas ante Notario Público o Juez de Primera Instancia.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 156.
 
-Toda persona podrá solicitar testimonio de las actas del Registro Civil, así como de los apuntes y documentos con ellas relacionados y los oficiales registradores, estarán obligados a expedirlas, salvo que se trate de adopción plena. Las copias certificadas de dichos documentos, deberán expedirse en la papelería autorizada para tal efecto.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 157.
 
-Los actos y hechos del estado civil relativos al Oficial del Registro Civil, a su consorte y a los ascendientes y descendientes de cualquiera de ellos, no podrán autorizarse por él mismo, pero se asentarán en los propios libros y se autorizarán por el oficial de la adscripción más próxima, o bien por el oficial que determine la Dirección Estatal del Registro Civil.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JULIO DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 158.
 
-Las actas del Registro Civil extendidas conforme a las disposiciones que preceden y de aquellas establecidas en la Ley del Registro Civil, hacen prueba plena en todo lo que el Oficial del Registro Civil, en el desempeño de sus funciones, da testimonio de haber pasado en su presencia, sin perjuicio de que el acta pueda ser redargüida de falsa.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Las declaraciones de los comparecientes, hechas en cumplimiento de lo mandado por la ley, hacen fe hasta que se pruebe lo contrario. Lo que sea extraño al acta no tiene valor alguno.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 159.
 
-Para establecer el estado civil adquirido por los coahuilenses fuera de la República, serán suficientes las constancias debidamente legalizadas y traducidas al español en el caso de que se encuentre redactado en otro idioma, que los interesados presenten de los actos y hechos relativos, siempre que se registren en la oficina respectiva del territorio del Estado, en las formas que para el efecto se lleven.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 160.
 
-Los Oficiales del Registro Civil se suplirán unos a otros en sus faltas temporales en la forma que determinen las disposiciones legales aplicables.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 27 DE MARZO DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 161.
 
-La Dirección Estatal del Registro Civil velará por el buen funcionamiento de la institución y tendrá las atribuciones y obligaciones que determinen las disposiciones legales aplicables. Su titular estará facultado, además, para dar fe pública de los hechos jurídicos vinculados al estado civil de las personas.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 #### SECCIÓN SEGUNDA. DE LAS ACTAS DE NACIMIENTO
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 162.
 
-Las declaraciones de nacimiento se harán presentando al niño ante el Oficial del Registro Civil, en su oficina. Sólo en caso de extrema necesidad, debidamente justificada, el Oficial del Registro Civil deberá concurrir al lugar donde el recién nacido se encuentre para el efecto de levantar el acta.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 163.
 
-Los progenitores deberán declarar el nacimiento, dentro de los ciento ochenta días de ocurrido aquél.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Los médicos o matronas que hubieren asistido al parto, tienen obligación de dar aviso del nacimiento al Oficial del Registro Civil, dentro de los tres días siguientes.
-
-La misma obligación tiene el jefe de familia en cuya casa haya tenido lugar el alumbramiento, si éste ocurrió fuera de la casa paterna.
-
-Recibido el aviso, el Oficial del Registro Civil tomará las medidas legales que sean necesarias, a fin de que se levante el acta de nacimiento conforme a las disposiciones relativas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 164.
 
-Las personas que estando obligadas a declarar el nacimiento, lo hagan fuera del término fijado en el artículo anterior, deberán obtener previamente ante la Dirección Estatal del Registro Civil un certificado de inexistencia de registro.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 165.
 
-El acta de nacimiento se extenderá con asistencia de dos testigos que puedan ser designados por el declarante o las partes interesadas y contendrá:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Año, mes, día, hora y lugar de nacimiento.
-
-II. Sexo del presentado e impresión digital.
-
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
-
-III. Nombre y primer apellido, en su caso, de cada uno de los padres o el nombre y apellidos que el Oficial del Registro Civil le ponga en caso de que el registrado se presente como hijo de padres desconocidos, así como la clave única del registro de población que le corresponda.
-
-IV. Nombre, edad, domicilio y nacionalidad de los padres.
-
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
-
-V. Nombre, domicilio y nacionalidad de los abuelos.
-
-VI. Nombre, edad, domicilio y nacionalidad de los testigos.
-
-VII. Nombre, edad, domicilio, nacionalidad y parentesco con el registrado si la presentación no la hacen los padres.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 166.
 
-Cuando el nacido fuere presentado como hijo de matrimonio, se asentarán los nombres, domicilio, edad y nacionalidad de los padres; los nombres, domicilios y nacionalidad de los abuelos; y el nombre, parentesco, edad y domicilio de la persona que hubiere hecho la presentación, así como el nombre, domicilio y edad de los testigos.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 167.
 
-Para que se haga constar en el acta de nacimiento el nombre del padre de un hijo nacido fuera de matrimonio, es necesario que aquél lo pida por sí o por apoderado especial constituido en los términos establecidos por este código, haciéndose constar en todo caso la petición.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-La madre no tiene derecho de dejar de reconocer a su hijo. Tiene obligación de que su nombre figure en el acta de nacimiento de su hijo. Si al hacerse la presentación no da su nombre, se pondrá en el acta que el presentado es hijo de madre desconocida; pero la investigación de la maternidad podrá hacerse ante los tribunales, de acuerdo con las disposiciones relativas de este código.
-
-Cuando los progenitores hagan el registro de un hijo nacido fuera de matrimonio, en el acta de nacimiento se hará constar su nacionalidad y domicilio y también las generales de los abuelos del menor; cuando un solo progenitor sea el que realice el registro, sólo de éste constarán los datos expresados y sólo se anotarán las generales del abuelo del menor por parte del progenitor que registró.
-
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 168.
 
-Si alguno de los padres no pudiera concurrir, ni tuvieren apoderado, pero solicitaren ambos o alguno de ellos, la presencia del Oficial del registro Civil, éste pasará al lugar en que se halle el interesado, y allí recibirá de él la petición de que se mencione su nombre; todo lo cual se asentará en el acta.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 169.
 
-Si el hijo fuere producto de relaciones entre adúlteros podrá asentarse el nombre del padre casado, si lo pidiere, así como el de la madre si no está casada y así lo solicitare.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 170.
 
-Cuando el hijo nazca de una mujer casada que viva con su marido, en ningún caso ni a petición de persona alguna, podrá el Oficial del Registro Civil asentar como padre a otro que no sea el mismo marido, salvo que éste haya desconocido al hijo y exista sentencia ejecutoria que así lo declare.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 171.
 
-Podrá reconocerse al hijo producto de relaciones incestuosas. Los progenitores que lo reconozcan tienen derecho de que conste su nombre en el acta, pero en ella no se expresará que el hijo es incestuoso.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 172.
 
-Toda persona que encontrare un menor expósito, conforme a lo dispuesto en el artículo 605, o en cuya casa o propiedad fuere expuesto alguno, deberá presentarlo de forma inmediata ante la Procuraduría de la Familia o las Unidades de Atención a la Violencia ubicadas en los diversos municipios del Estado, con los vestidos, documentos o cualesquiera otros objetos encontrados con el que pudiera conducir a su posterior identificación, y declarara el día, mes, año y el lugar donde lo hubiere hallado, así como las demás circunstancias que en el caso hayan concurrido.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-ARTÍCULO 172 BIS. En el caso del artículo que antecede, corresponde a la Procuraduría de la Familia y las Unidades de Atención a la Violencia ubicadas en los diversos municipios del Estado:
+ARTÍCULO 172 BIS. (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I.- Dar vista al Ministerio Público, a fin de que se inicien las investigaciones necesarias y la averiguación previa correspondiente, para que se determine el origen, la edad aparente, y demás circunstancias relacionadas con el menor, para lo anterior se auxiliarán de constancia expedida por el médico legista y las personas e instituciones que estimen conveniente para ello, resultados que deberán rendirse ante la autoridad correspondiente en un plazo que no excederá de 90 días.
-
-Entre tanto se obtienen los resultados de la investigación el Registro Civil a petición del Ministerio Público o de la Procuraduría de la Familia deberá realizar un registro provisional del menor con la finalidad de garantizar durante este plazo su identidad. Ese registro provisional carecerá de validez una vez que se obtengan los resultados de la investigación y que, en su caso, se realice el registro definitivo.
-
-II.- Proveer transitoriamente la guarda y custodia del menor expósito, quien quedará bajo la tutela del Sistema para el Desarrollo Integral de la Familia del Estado de Coahuila, conforme a lo establecido en el artículo 603.
-
-III.- Presentar al menor de edad ante el Oficial del Registro Civil, con los documentos que se hubieran encontrado y los resultados de las investigaciones, así como la averiguación previa, para realizar la inscripción del mismo.
-
-Una vez transcurridos los 90 días establecidos para realizar las investigaciones necesarias y la averiguación previa correspondiente, y no habiendo encontrado quien pudiere ejercer la patria potestad del menor, la Procuraduría de la Familia y las Unidades de Atención a la Violencia ubicada en los diversos municipios del Estado, presentarán al menor de edad ante el Oficial del Registro Civil, con la finalidad de que se realice el registro del mismo.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 173.
 
-La misma obligación tienen los directores y administradores de hospitales o de cualquier institución de asistencia, pública o Privada, respecto de los menores nacidos y expuestos en ellas.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 174.
 
-En las actas que se levanten en estos casos, se expresaran detalladamente todas las circunstancias relativas a los menores expósitos, la edad aparente, su sexo, se asignara al menor un nombre y apellidos, que deberán de ser de uso común en la región donde haya sido encontrado, se asentara como fecha probable de nacimiento la determinada en la constancia expedida por el médico legista y se señalara como lugar de nacimiento, aquel donde el menor fue encontrado, así como, el nombre de la persona quien lo presenta y la institución que se encarga de él.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-ARTÍCULO 174 BIS. El acta de registro de un menor expósito solo podrá anularse en el caso de que, con posterioridad a su expedición, se conozca la filiación del menor y que esta sea declarada por la autoridad judicial competente, antes de que el menor fuere dado en adopción.
+ARTÍCULO 174 BIS. (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 175.
 
-(DEROGADO, P.O. 28 DE DICIEMBRE DE 2007)
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 176.
 
-Se prohibe absolutamente al Oficial y empleados del Registro Civil, y a los testigos que deban concurrir al acto hacer inquisición sobre la paternidad o la maternidad. En el acta sólo se expresará lo que deban declarar las personas que presenten al niño aunque aparezcan sospechosos de falsedad, sin perjuicio de que ésta sea castigada conforme a las prescripciones del Código Penal.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 177.
 
-Si el nacimiento ocurriera durante un viaje por tierra, podrá registrarse donde éste haya acontecido, o en el domicilio de los padres.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 178.
 
-Si al dar aviso de un nacimiento se comunicare también la muerte del recién nacido, se extenderán dos actas, una de nacimiento y otra de fallecimiento, en los libros respectivos, siempre y cuando el presentado para su registro, haya nacido viable en los términos prescritos en este código.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 179.
 
-Tratándose del registro de personas que hayan nacido en un parto múltiple, el Oficial del Registro Civil asentará una acta para cada una de ellas, en la que hará constar las particularidades que la distingan y el orden de su nacimiento, según las noticias que le comunique el médico, la partera, o las personas que hayan asistido el parto.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 #### SECCIÓN TERCERA. DE LAS ACTAS DE RECONOCIMIENTO DE HIJOS
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 180.
 
-El acta de nacimiento surte efectos de reconocimiento del hijo con relación a los progenitores que hicieron la presentación al Registro. Dicha acta contendrá los requisitos establecidos en los artículos anteriores, así como también la clave única del Registro de Población que le corresponda, con expresión de ser hijo del progenitor o progenitores que lo reconozcan, cuyos apellidos llevará, sin que por ninguna circunstancia se utilice en el acta la expresión de ser "hijo natural", "adulterino", "incestuoso", o alguna otra semejante que califique al registrado. En cualquier acta del Registro Civil que contenga dicha nota, la misma deberá ser testada de oficio por quien tenga a su cargo las actas.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 181.
 
-En el reconocimiento de un hijo hecho con posterioridad a su registro de nacimiento, es necesario recabar su consentimiento para ser reconocido si es mayor de edad; si es menor de edad, pero mayor de catorce años, su consentimiento y el de la persona que lo tenga bajo su custodia; si es menor de catorce años, el consentimiento de quien lo tenga bajo su cuidado.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
-
-El acta de reconocimiento contendrá además: el nombre, apellidos, sexo, huella digital, fecha y lugar de nacimiento del reconocido y los demás datos relativos al registro de su nacimiento; nombre, apellidos, edad, domicilio y nacionalidad de quien otorga el reconocimiento; nombre, apellidos, nacionalidad y domicilio de los abuelos del que reconoce; nombre, apellidos, edad, estado civil, domicilio, nacionalidad y parentesco de la persona o personas que otorgan el consentimiento; nombre, apellidos, edad, domicilio y nacionalidad de dos testigos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 182.
 
-Si el reconocimiento se hace por alguno de los otros medios establecidos en este código, se presentará, dentro del término de quince días, al encargado del Registro el original o copia certificada del documento que lo compruebe.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-En el acta se insertará la parte relativa de dicho documento, observándose las demás prescripciones contenidas en este capítulo y en el referente al reconocimiento de los hijos nacidos fuera de matrimonio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 183.
 
-La omisión del registro en el caso del artículo que precede, no quita los efectos legales al reconocimiento hecho conforme a las disposiciones de este código; pero los responsables de la omisión incurrirán en una multa de diez a veinte días de salario mínimo general vigente en el Estado, que impondrá el juez ante quien se haga valer el reconocimiento, funcionario que cuidará se levante el acta correspondiente. La multa se entregará en la Recaudación de Rentas del Estado más cercana al domicilio del juzgado.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 184.
 
-En el acta de reconocimiento hecha con posterioridad al acta de nacimiento, se hará mención de ésta, poniendo en ella la anotación marginal correspondiente.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 185.
 
-Si el reconocimiento se hiciere en oficina distinta de aquella en que se levantó el acta de nacimiento, el oficial que autorice el acta de reconocimiento, remitirá copia de ésta al encargado de la oficina que haya registrado el nacimiento y a la Dirección Estatal del Registro Civil, para que efectúen la anotación marginal en el acta respectiva.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 #### SECCIÓN CUARTA. DE LAS ACTAS DE ADOPCIÓN
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 186.
 
-Dictada la resolución judicial definitiva que autorice la adopción, el adoptante, dentro del término de ocho días presentará al Oficial del Registro Civil copia certificada de las diligencias relativas, a fin de que se levante el acta correspondiente.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 187.
 
-La falta de registro de la adopción no quita a ésta sus efectos legales; pero sujeta al responsable a la pena establecida para el caso de omisión de registro del acta de reconocimiento de hijo.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 188.
 
-(DEROGADO, P.O. 26 DE JUNIO DE 2012)
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 189.
 
-El Oficial del Registro Civil que corresponda, cancelará el acta de nacimiento del adoptado mediante una anotación marginal, además levantará acta de nacimiento que contendrá los datos requeridos conforme a la ley, conservando la fecha de registro original del adoptado. A partir del levantamiento, el acta de nacimiento no se publicará, ni se expedirá alguna que revele el origen del adoptado ni de su condición de tal.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-El Registro Civil se abstendrá de proporcionar información sobre los antecedentes de la familia de origen del adoptado, a menos que exista autorización o requerimiento judiciales, en los siguientes casos:
-
-I. Para efectos de impedimento para contraer matrimonio.
-
-II. Cuando el adoptado desee conocer sus antecedentes familiares, deberá contar con la mayoría de edad; si fuere menor de edad, se requerirá el consentimiento de los adoptantes.
-
-III. En los demás casos previstos por la ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 190.
 
-(DEROGADO, P.O. 26 DE JUNIO DE 2012)
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 #### SECCIÓN QUINTA. DE LAS ACTAS DE TUTELA
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 191.
 
-Pronunciado el auto de discernimiento de la tutela y publicado en los términos que disponga el Código Procesal Civil, el tutor, dentro de los tres días siguientes a su notificación, presentará copia certificada del auto mencionado al Oficial del Registro Civil, para que levante el acta respectiva.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 192.
 
-La omisión del registro de la tutela no impide al tutor entrar en ejercicio de su cargo, ni puede alegarse por ninguna persona como causa para dejar de tratar con él, pero lo sujeta a las sanciones establecidas para el caso de omisión de la inscripción de las actas de reconocimiento.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 193.
 
-El acta de tutela contendrá:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. El nombre, apellidos, edad, estado civil, nacionalidad y la clave única del registro de población del menor o del incapacitado.
-
-II. La clase de incapacidad por la que se haya diferido la tutela.
-
-III. El nombre y demás generales de las personas que han tenido al incapacitado bajo su patria potestad antes del discernimiento de la tutela.
-
-IV. El nombre, apellidos, edad, profesión y domicilio del tutor y del curador.
-
-V. La garantía dada por el tutor, expresando el nombre, apellidos y demás generales del fiador, si la garantía consiste en fianza; o la ubicación y demás señas de los bienes si la garantía consiste en hipoteca o prenda.
-
-VI. El nombre del juez que pronunció el auto de discernimiento y la fecha de éste.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 194.
 
-Extendida el acta de tutela, se anotará la de nacimiento del incapacitado, observándose para el caso de que no exista en la misma oficina del Registro, lo dispuesto en el artículo 185.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 #### SECCIÓN SEXTA. DE LAS ACTAS DE EMANCIPACIÓN
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 195.
 
-(DEROGADO, P.O. 19 DE AGOSTO DE 2005)
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 12 DE ENERO DE 2007)</small>
 
 #### SECCIÓN SEXTA BIS. DE LAS ACTAS DEL PACTO CIVIL DE SOLIDARIDAD
 
-> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 195
 
-1. Las personas que pretendan celebrar el pacto civil de solidaridad presentarán un escrito al Oficial del Registro Civil, que exprese:
+1. (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Los nombres, apellidos, edad, sexo, ocupación, domicilio, nacionalidad y lugar de nacimiento, tanto de los contratantes como de sus padres, si éstos fueren conocidos. Cuando alguno de los solicitantes o los dos hayan sido casados o hubiesen celebrado pacto civil de solidaridad o similar, se expresará también el nombre o nombres de la persona o personas con quien o quienes celebró el anterior matrimonio o pacto civil, la causa de su disolución y la fecha de ésta.
-
-II. Que no tienen impedimento legal para celebrarlo.
-
-III. Que es su voluntad unirse en pacto civil de solidaridad. Este escrito deberá ser firmado por los solicitantes, y si alguno no pudiere o no supiere escribir, lo hará otra persona conocida, mayor de edad y vecina del lugar, e imprimirá su huella digital.
-
-> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 195
 
-2. Al escrito a que se refiere el artículo anterior, se acompañará:
+2. (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Copia certificada del acta de nacimiento y la identificación personal de cada uno de los pretendientes, si la tuvieren.
-
-II. La declaración de dos testigos mayores de edad que conozcan a los contratantes y les conste que no tienen impedimento legal para celebrarlo. Si no hubiere dos testigos que conozcan a ambos solicitantes, deberán presentarse dos testigos por cada uno de ellos.
-
-III. Los exámenes de laboratorio pertinentes donde se indique si los solicitantes padecen o no sífilis, síndrome de inmunodeficiencia adquirida, tuberculosis, o alguna otra enfermedad crónica e incurable, que sea además contagiosa. Si alguno de ellos o ambos, padece alguna de estas enfermedades, se hará constar tal hecho y se tomará nota que el otro contratante conoce esta circunstancia.
-
-Para los indigentes tienen obligación de expedir gratuitamente este certificado los laboratorios encargados de los servicios de sanidad de carácter oficial.
-
-En los lugares en donde no haya laboratorio, el certificado deberá ser expedido preferentemente, por médicos particulares, o en su defecto, por las personas autorizadas por la Secretaría de Salud para ejercer prácticamente la medicina. Para los indigentes, exámenes y certificados serán gratuitos.
-
-IV. Las capitulaciones del pacto civil de solidaridad, en caso de que los contratantes deseen celebrarlo bajo el régimen de sociedad solidaria. Si por su contenido dichas capitulaciones deben constar en escritura pública, se acompañará un testimonio de ésta.
-
-En caso de que, aún manifestando que se desea celebrar bajo el régimen de sociedad solidaria, no se presenten las capitulaciones respectivas, el pacto civil de solidaridad se entenderá celebrado, por disposición de la ley, bajo el régimen de separación de bienes.
-
-V. Copia certificada del acta de defunción o de divorcio o diversa, si alguno de los contratantes es viudo, divorciado o con pacto civil de solidaridad previamente disuelto o copia certificada de la sentencia de nulidad de matrimonio si alguno de los contratantes celebró matrimonio o pacto civil de solidaridad anteriormente y fue declarado nulo.
-
-> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 195
 
-3. El Oficial del Registro Civil a quien se presente una solicitud para la celebración de un pacto civil de solidaridad que llene los requisitos enumerados en los artículos anteriores, hará que los contratantes reconozcan ante él y por separado sus firmas. Los testigos deberán también ratificar su firma bajo protesta de decir verdad, ante el mismo Oficial del Registro Civil. Éste, cuando lo considere necesario, se cerciorará de la autenticidad de la firma que calce el certificado de sanidad.
+3. (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Los oficiales del Registro Civil no celebrarán ningún pacto civil de solidaridad en que intervenga algún extranjero, sin la comprobación previa, por parte de éste, de su legal estancia en el país.
-
-> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 195
 
-4. El pacto civil de solidaridad se celebrará dentro de los ocho días siguientes, en el lugar, día y hora que señale el Oficial del Registro Civil.
+4. (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2007)</small>
-
-###### ARTÍCULO 195
-
-5. En el lugar, día y hora designados para la celebración del pacto civil de solidaridad, deberán estar presentes ante el Oficial del Registro Civil, los contratantes y dos testigos por cada uno de ellos, que acrediten su identidad. Acto continuo, el Oficial del Registro Civil leerá en voz alta la solicitud de pacto civil de solidaridad, los documentos que con ella se hayan presentado y, en su caso, las diligencias practicadas, e interrogará a los testigos acerca de si los contratantes son las mismas personas a que se refiere la solicitud. En caso afirmativo, preguntará a cada uno de los contratantes si es su voluntad celebrar el pacto civil de solidaridad, y si están conformes, levantará el acta conforme al artículo siguiente.
-
-> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 195
 
-6. En el acta de pacto civil de solidaridad, se hará constar:
+5. (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Los nombres, apellidos, edad, sexo, ocupación, domicilio, nacionalidad y lugar de nacimiento de los contratantes, así como su clave única del registro de población de los contratantes, si la tuvieren.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-II. Los nombres, apellidos, domicilio y nacionalidad de los padres.
+###### ARTÍCULO 195
 
-III. Que no hubo impedimento legal para su celebración.
-
-IV. La declaración de los contratantes de ser su voluntad celebrar el pacto civil de solidaridad y la de haber quedado perfeccionado el contrato mismo, razón que asentará el Oficial del Registro Civil.
-
-V. La manifestación expresa de los contratantes de celebrar pacto civil de solidaridad bajo el régimen de sociedad solidaria, en caso de que específicamente hayan optado por este régimen. Si no se hace esta manifestación, el pacto civil de solidaridad se entenderá celebrado bajo el régimen de separación de bienes, aún cuando se hubiesen presentado las capitulaciones respectivas en los términos de la fracción IV del artículo 195-2.
-
-VI. Los nombres, apellidos, edad, estado civil, domicilio y nacionalidad de los testigos, y su declaración sobre si son o no parientes de los contratantes y si lo son, en qué grado y en qué línea.
-
-VII. Las huellas digitales de los contratantes y la mención de que se cumplieron las formalidades exigidas por el artículo anterior.
-
-VIII. El acta será firmada por el Oficial del Registro Civil, los contratantes, los testigos y las demás personas que hubieren intervenido si supieren y pudieren hacerlo.
-
-Resultan aplicables, en lo conducente, para el otorgamiento de las actas del Registro Civil, en las que se haga constar el pacto civil de solidaridad, la sección primera de “Disposiciones Generales” del Capitulo X “Del Registro Civil”, así como en lo conducente en la Ley de Registro Civil vigente en el Estado.
+6. (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 12 DE ENERO DE 2007)</small>
 
 #### SECCIÓN SEXTA BIS 1. DE LAS ACTAS DE TERMINACIÓN DEL PACTO CIVIL DE SOLIDARIDAD
 
-> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 195
 
-7. El Oficial del Registro Civil que conozca de una terminación de pacto civil de solidaridad, deberá requerir a las partes interesadas para que presenten copia certificada de sus actas de nacimiento, a efecto de que, decretado el mismo, se envíe al Oficial que corresponda y a la Dirección Estatal del Registro Civil copia certificada de los datos de identificación de las actas de nacimiento y pacto civil solidaridad, para que se proceda a levantar el acta de terminación de pacto civil de solidaridad y a realizar las anotaciones marginales en las actas correspondientes de ambos compañeros civiles.
+7. (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Si las actas de nacimiento o la de pacto civil de solidaridad o equivalente se encuentran en otra oficina del Registro Civil dentro de la República, pero fuera del Estado de Coahuila, deberá enviarse a esa oficina por conducto del Ejecutivo de la entidad federativa correspondiente, copia del acta de terminación de pacto civil de solidaridad para que haga las anotaciones marginales que procedan.
-
-> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 195
 
-8. El acta de terminación de pacto civil de solidaridad expresará el nombre, apellidos, edad, sexo, domicilio y nacionalidad, así como, si la tuvieren, la clave única del registro de población de los compañeros civiles que terminaron el pacto civil de solidaridad, los nombres de dos testigos de asistencia; la fecha y lugar en que se celebró el pacto civil de solidaridad y los demás datos que especifique la forma respectiva de su terminación.
+8. (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 #### SECCIÓN SÉPTIMA. DE LAS ACTAS DE MATRIMONIO
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 196.
 
-Las personas que pretendan contraer matrimonio presentarán un escrito al Oficial del Registro Civil que exprese:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Los nombres, apellidos, edad, ocupación, domicilio, nacionalidad y lugar de nacimiento, tanto de los pretendientes como de sus padres, si éstos fueren conocidos. Cuando alguno de los pretendientes o los dos hayan sido casados, se expresará también el nombre de la persona con quien celebró el anterior matrimonio, la causa de su disolución y la fecha de ésta.
-
-II. Que no tienen impedimento legal para casarse.
-
-III. Que es su voluntad unirse en matrimonio. Este escrito deberá ser firmado por los solicitantes, y si alguno no pudiere o no supiere escribir, lo hará otra persona conocida, mayor de edad y vecina del lugar, e imprimirá su huella digital.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 197.
 
-Al escrito a que se refiere el artículo anterior, se acompañará:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Copia certificada del acta de nacimiento o de la cédula de identificación personal de cada uno de los pretendientes, si la tuvieren.
-
-II. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2015)
-
-III. La declaración de dos testigos mayores de edad que conozcan a los pretendientes y les conste que no tienen impedimento legal para casarse. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos.
-
-IV. Los exámenes de laboratorio pertinentes donde se indique que los pretendientes no padecen sífilis, síndrome de inmunodeficiencia adquirida, tuberculosis, ni enfermedad alguna crónica e incurable, que sea además contagiosa y hereditaria.
-
-Para los indigentes tienen obligación de expedir gratuitamente este certificado los laboratorios encargados de los servicios de sanidad de carácter oficial.
-
-En los lugares en donde no haya laboratorio, el certificado deberá ser expedido preferentemente, por médicos particulares, o en su defecto, por las personas autorizadas por la Secretaría de Salud para ejercer prácticamente la medicina. Para los indigentes, exámenes y certificados serán gratuitos.
-
-> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
-
-V. Las capitulaciones matrimoniales en caso de que los pretendientes deseen contraer matrimonio bajo el régimen de sociedad conyugal. Si por su contenido las capitulaciones matrimoniales deben constar en escritura pública, se acompañará un testimonio de ésta.
-
-En caso de que, aun manifestando que el matrimonio se desea celebrar bajo el régimen de sociedad conyugal, no se presenten las capitulaciones matrimoniales, el matrimonio se entenderá celebrado, por disposición de la ley, bajo el régimen de separación de bienes.
-
-VI. Copia certificada del acta de defunción o de divorcio si alguno de los pretendientes es viudo o divorciado, o copia certificada de la sentencia de nulidad de matrimonio si alguno de los pretendientes celebró matrimonio anteriormente y éste fue declarado nulo.
-
-VII. Copia de la dispensa de impedimentos, si los hubo.
-
-> <small>(ADICIONADA, P.O. 24 DE FEBRERO DE 2012)</small>
-
-VIII. Constancia expedida por el Registro Civil, de cada uno de los pretendientes en la que se informe si se encuentran o no inscritos en el Registro Estatal de Deudores Alimentarios Morosos.
-
-> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 198.
 
-El Oficial del Registro Civil a quien se presente una solicitud de matrimonio que llene los requisitos enumerados en los artículos anteriores, hará que los pretendientes, reconozcan ante él y por separado sus firmas. Los testigos deberán también ratificar su firma bajo protesta de decir verdad, ante el mismo Oficial del Registro Civil. Este, cuando lo considere necesario, se cerciorará de la autenticidad de la firma que calce el certificado de sanidad.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 199.
 
-El matrimonio se celebrará dentro de los ocho días siguientes, en el lugar, día y hora que señale el Oficial del Registro Civil.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 200.
 
-En el lugar, día y hora designados para la celebración del matrimonio, deberán estar presentes ante el Oficial del Registro Civil, los pretendientes, o su apoderado especial debidamente constituido y dos testigos por cada uno de ellos, que acrediten su identidad. Acto continuo, el Oficial del Registro Civil leerá en voz alta la solicitud de matrimonio, los documentos que con ella se hayan presentado y las diligencias practicadas, e interrogará a los testigos acerca de si los pretendientes son las mismas personas a que se refiere la solicitud. En caso afirmativo, preguntará a cada uno de los pretendientes si es su voluntad unirse en matrimonio, y si están conformes, los declarará unidos en nombre de la ley y de la sociedad.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 201.
 
-Se levantará luego el acta de matrimonio en la cual se hará constar:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Los nombres, apellidos, edad, ocupación, domicilio, nacionalidad y lugar de nacimiento y la clave única del registro de población de los contrayentes, si la hubiere.
-
-II. Los nombres, apellidos, domicilio y nacionalidad de los padres.
-
-III. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2015)
-
-IV. Que no hubo impedimento para el matrimonio, o que éste se dispensó.
-
-V. La declaración de los pretendientes de ser su voluntad unirse en matrimonio y la de haber quedado unidos, que hará el Oficial en nombre de la ley y de la sociedad.
-
-VI. La manifestación expresa de los pretendientes de que contraen matrimonio bajo el régimen de sociedad conyugal, en caso de que específicamente hayan optado por este régimen matrimonial. Si no se hace esta manifestación, el matrimonio se entenderá celebrado bajo el régimen de separación de bienes, aun cuando se hubiesen presentado capitulaciones matrimoniales en los términos de la fracción V del artículo 197.
-
-VII. Los nombres, apellidos, edad, estado civil, domicilio y nacionalidad de los testigos, y su declaración sobre si son o no parientes de los contrayentes y si lo son, en qué grado y en qué línea.
-
-VIII. Las huellas digitales de los contrayentes y la mención de que se cumplieron las formalidades exigidas por el artículo anterior.
-
-El acta será firmada por el Oficial del Registro Civil, los contrayentes, los testigos, y las demás personas que hubieren intervenido si supieren y pudieren hacerlo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 202.
 
-Los pretendientes que declaren maliciosamente un hecho falso, los testigos que dolosamente afirmen la exactitud de las declaraciones de aquéllos o su identidad, y quienes se produzcan falsamente al expedir el certificado de sanidad o los resultados de los análisis, serán consignados al Ministerio Público para que ejercite la acción penal correspondiente. Lo mismo se hará con las personas que falsamente se hicieren pasar por ascendientes o tutores de los pretendientes.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 203.
 
-El Oficial del Registro Civil que tenga conocimiento de que los pretendientes tienen impedimento para contraer matrimonio, levantará un acta ante dos testigos, en la que hará constar los datos que le hagan suponer que existe el impedimento. Cuando haya denuncia, se expresará en el acta el nombre, edad, ocupación, estado y domicilio del denunciante, insertándose al pie de la letra la denuncia. El acta firmada por los que en ella intervinieron, será remitida al Juez de Primera Instancia en Materia Familiar que corresponda, para que haga la calificación del impedimento.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 204.
 
-Las denuncias de impedimento pueden hacerse por cualquier persona. Las que sean falsas sujetan al denunciante a las penas establecidas para el falso testimonio en materia civil. Siempre que se declare no haber impedimento, el denunciante será condenado al pago de las costas, daños y perjuicios.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 205.
 
-Antes de remitir el acta al Juez de Primera Instancia en Materia Familiar, el Oficial del Registro Civil hará saber a los pretendientes el impedimento denunciado, aunque sea relativo solamente a uno de ellos, absteniéndose de todo procedimiento ulterior hasta que la sentencia que decida el impedimento cause ejecutoria.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 206.
 
-Las denuncias anónimas o hechas por cualquier otro medio, si no se presentare personalmente el denunciante, sólo se admitirán cuando estén comprobadas. En este caso, el Oficial del Registro Civil dará cuenta a la autoridad judicial que corresponda y suspenderá todo procedimiento hasta que ésta resuelva.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 207.
 
-Denunciado un impedimento, el matrimonio no podrá celebrarse aunque el denunciante desista, mientras no recaiga sentencia judicial que declare su inexistencia o se obtenga dispensa de él.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 208.
 
-El Oficial del Registro Civil que autorice un matrimonio teniendo conocimiento de que hay impedimento legal, o de que éste se ha denunciado, será separado de su cargo, sin perjuicio de las sanciones que establezca el Código Penal.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 209.
 
-Los Oficiales del Registro Civil sólo podrán negarse a autorizar un matrimonio, cuando por los términos de la solicitud, por el conocimiento de los interesados o por la denuncia en forma, tuvieren noticias de que alguno de los pretendientes, o los dos, carecen de aptitud legal para celebrar el matrimonio.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 210.
 
-El Oficial del Registro Civil que sin motivo justificado retarde la celebración de un matrimonio, será castigado, por la primera vez, con una multa equivalente a treinta días de salario mínimo general vigente en el Estado, y en caso de reincidencia, con la destitución de su cargo.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 211.
 
-El Oficial del Registro Civil que reciba una solicitud de matrimonio, está plenamente autorizado para exigir de los pretendientes, bajo protesta de decir verdad, todas las declaraciones que estime convenientes a fin de asegurarse de su identidad y de su aptitud para contraer matrimonio.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-También podrá exigir declaración bajo protesta a los testigos que los interesados presenten; a las personas que figuren como padres o tutores de los pretendientes y a quienes expidieron los resultados de análisis o certificados de sanidad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 212.
 
-La celebración conjunta de matrimonios, no exime al Oficial del Registro Civil del cumplimiento de las normas establecidas en este capítulo.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 #### SECCIÓN OCTAVA. DE LAS ACTAS DE DIVORCIO
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 213.
 
-El tribunal que conozca de un juicio de divorcio, deberá requerir a las partes interesadas para que presenten copia certificada de sus actas de nacimiento, a efecto de que, decretado el mismo, se envíe al Oficial que corresponda y a la Dirección Estatal del Registro Civil, copia certificada de la sentencia y los datos de identificación de las actas de nacimiento y matrimonio, para que se proceda a levantar el acta de divorcio por el primero, y a realizar las anotaciones marginales correspondientes por ambos.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Si las actas de nacimiento o de matrimonio de los divorciados se encuentran en otra oficina del Registro Civil dentro de la República, pero fuera del Estado de Coahuila, deberá enviarse a esa oficina por conducto del Ejecutivo de la entidad federativa correspondiente, copia del acta de divorcio para que haga las anotaciones marginales que procedan.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 214.
 
-El acta de divorcio expresará el nombre apellidos, edad, domicilio y nacionalidad y la clave única del registro de población de los divorciados, los nombres de dos testigos de asistencia; la fecha y lugar en que se celebró el matrimonio, la parte resolutiva de la sentencia que haya decretado el divorcio y los demás datos que especifique la forma respectiva.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 7 DE AGOSTO DE 2009)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 215.
 
-En el divorcio, la falta de registro, no quita a éste sus efectos legales; pero si el registro no se efectúa dentro de los treinta días siguientes a la fecha en que causó ejecutoria la sentencia, sujeta a los divorciados a una sanción de diez a veinte días de salario mínimo que impondrá el Oficial del Registro Civil y se enterará en la Recaudación de Rentas del Estado del domicilio del Oficial.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 #### SECCIÓN NOVENA. DE LAS ACTAS DE DEFUNCIÓN
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 216.
 
-Ninguna inhumación o cremación se hará sin autorización escrita dada por el Oficial del Registro Civil, quien se asegurará suficientemente del fallecimiento mediante certificado expedido por médico legalmente autorizado. No se procederá a la inhumación sino hasta después de que transcurran veinticuatro horas del fallecimiento, excepto en los casos en que se ordene otra cosa por la autoridad que corresponda.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 217.
 
-En el acta de defunción se asentarán los datos que el Oficial del Registro Civil adquiera, o la declaración que se le haga, y será firmada por el declarante y dos testigos de identidad del fallecido. Se consideran testigos preferentes de identidad del fallecido sus parientes, si los hay, o sus vecinos.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 218.
 
-El acta de defunción contendrá:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. El nombre, apellidos, edad, nacionalidad, sexo, domicilio y la clave única del registro de población que tuvo el difunto, si la hubiere.
-
-II. El estado civil de éste y el nombre y apellidos de su cónyuge, en su caso.
-
-III. Los nombres, apellidos, nacionalidad, edad y domicilio de los testigos, y si fueren parientes, el grado en que lo sean.
-
-IV. Los nombres y nacionalidad de los padres del difunto, si se supieren.
-
-V. La causa que determinó la muerte y el lugar en que se sepulte o se creme el cadáver, o la constancia de la entrega de éste a la institución beneficiaria en caso de que se hubiere determinado así por el difunto en los términos de los artículos 98 y 99.
-
-VI. El lugar, la fecha y la hora de la muerte, si se supiere, y todos los informes que se tengan en caso de muerte violenta.
-
-VII. El nombre, los apellidos, el domicilio y la cédula profesional del médico que certificó la defunción.
-
-VIII. El nombre, los apellidos, la edad, la nacionalidad y el domicilio del declarante y el grado de parentesco, en su caso, con el difunto.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 219.
 
-Los dueños o habitantes de la casa en que ocurra el fallecimiento; los directores o administradores de las prisiones, hospitales, colegios o cualquiera otra casa de comunidad; los encargados de los mesones, hoteles y casas de vecindad, tienen obligación de dar aviso del fallecimiento al Oficial del Registro Civil, dentro de las veinticuatro horas siguientes al momento en que tengan conocimiento de la muerte; en caso de incumplimiento serán sancionados con una multa de cinco a diez días de salario mínimo general vigente en el Estado que impondrá el Oficial del Registro Civil y se enterará la Recaudación de Rentas que corresponda a su domicilio.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 220.
 
-Si el fallecimiento ocurriere en un lugar o población en donde no haya oficina del Registro Civil, el acta se asentará por el Oficial del Registro Civil más próximo.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 221.
 
-Cuando el Oficial del Registro Civil sospeche que la muerte fue violenta, dará parte al Ministerio Público, comunicándole todos los informes que tenga, para que proceda a la averiguación conforme a derecho. Cuando esta institución averigüe un fallecimiento, dará parte al Oficial del Registro Civil para que asiente el acta respectiva. Si se ignora el nombre del difunto, se asentarán las señas de éste, las de los vestidos y objetos que con él se hubieren encontrado, y en general, todo lo que pueda conducir a identificar a la persona; y siempre que se adquieran mayores datos, se comunicarán al Oficial del Registro Civil para que los anote en el acta.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 222.
 
-En los casos de inundación, terremoto, naufragio, incendio o cualquier otro siniestro en que no sea fácil reconocer el cadáver, se formará el acta con los datos que ministren los que lo recogieron, expresando, en cuanto fuere posible, las señas del mismo y de los vestidos u objetos que con él se hayan encontrado.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 223.
 
-Si no aparece el cadáver, pero hay certeza de que alguna persona ha sucumbido en el lugar del desastre, el acta contendrá el nombre de las personas que hayan conocido a la que no aparece, y las demás noticias que sobre el suceso puedan adquirirse.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 224.
 
-Cuando un Oficial del Registro Civil en el Estado reciba la constancia a que se refiere el artículo 125 del Código Civil para el Distrito Federal, en materia común, y para toda la República, en materia federal, sobre la defunción de una persona ocurrida en el mar o espacio aéreo nacional, procederá a levantar el acta que corresponda; se archivará el documento extendido por el capitán del navío o de la aeronave, anotando con el número que corresponda el acta levantada.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 225.
 
-Cuando el fallecimiento se efectúe en lugar distinto al del registro del nacimiento, se remitirá copia certificada del acta de defunción al Oficial del Registro Civil del lugar de dicho registro, para que se haga la anotación en el acta respectiva.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 226.
 
-El jefe de cualquier cuerpo o destacamento militar tiene obligación de dar parte al Oficial del Registro Civil del lugar en que se encuentre, de los muertos que haya habido en campaña, o en otro acto del servicio, especificándose la filiación; el Oficial del Registro Civil observará, en su caso, lo dispuesto en el artículo anterior.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 227.
 
-En caso de ejecución de la pena de muerte, los tribunales cuidarán de remitir dentro de las veinticuatro horas siguientes a la ejecución de la sentencia de muerte, una noticia al Oficial del Registro Civil del lugar donde se haya verificado la ejecución. Esta noticia contendrá el nombre, apellidos, edad, estado y ocupación que tuvo el ejecutado.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 228.
 
-En todos los casos de muerte violenta en las prisiones o en las casas de detención, y en los de ejecución de la pena de muerte no se hará en los registros mención de estas circunstancias y las actas solamente contendrán los demás requisitos.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 229.
 
-En los registros de nacimiento y matrimonio se hará referencia al acta de defunción, expresándose los folios en que conste ésta.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 230.
 
-La exhumación de un cadáver para trasladarlo a otra fosa o cementerio, sólo procederá con la autorización del Oficial del Registro Civil que haya levantado el acta, quien hará la anotación marginal correspondiente en ésta.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 #### SECCIÓN DÉCIMA. INSCRIPCIONES DE LAS EJECUTORIAS QUE DECLAREN LA INCAPACIDAD LEGAL PARA ADMINISTRAR BIENES, LA AUSENCIA O LA PRESUNCIÓN DE MUERTE
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 231.
 
-Las autoridades judiciales que declaren la ausencia, la presunción de muerte, la pérdida o limitación de la capacidad legal para administrar bienes, remitirán al Oficial del Registro Civil correspondiente, copia certificada de la sentencia ejecutoria en el término de quince días para que se efectúe la inscripción correspondiente.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 232.
 
-El Oficial del Registro Civil levantará el acta correspondiente en la que se insertarán los puntos resolutivos de la sentencia judicial que se le haya comunicado.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 233.
 
-Cuando se recobre la capacidad legal para administrar bienes, se presente la persona declarada ausente o cuya muerte se presumía, se dará aviso al Oficial del Registro Civil por el mismo interesado o por la autoridad que corresponda, para que cancele el acta a que se refiere el artículo anterior.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE JULIO DE 2003)</small>
 
@@ -1537,99 +1545,43 @@ SECCIÓN DECIMAPRIMERA
 
 DE LA RECTIFICACIÓN Y DE LA ACLARACIÓN DE LAS ACTAS DEL REGISTRO CIVIL
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 234.
 
-Cuando en un asiento registral aparezca un error procederá, en los términos previstos por este Código u otras disposiciones aplicables, la rectificación o la aclaración del mismo.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Procederá la rectificación de los asientos cuando:
-
-I. Exista falsedad en los casos en que se alegue que el suceso registrado no pasó.
-
-II. Exista desacuerdo entre el asiento y la realidad y que se demuestre, a través de documentos fehacientes, que la persona de que se trata ha sido siempre designada con un nombre distinto del que aparece en su acta de nacimiento.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2012)</small>
-
-III. Existan errores que versen sobre la fecha de nacimiento, nacionalidad, filiación o parentesco del registrado, o de las personas que hayan intervenido en el acto de asentamiento.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2012)</small>
-
-IV. Existan errores en las actas de defunción sobre el estado civil del finado, causas de la muerte, o sobre la fecha y lugar del fallecimiento.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 26 DE JUNIO DE 2012)</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 235.
 
-Procederá la aclaración de los asientos ante la autoridad administrativa competente cuando la variación se refiera a cualquier supuesto diferente de los enumerados en el artículo precedente, de conformidad con lo previsto en la Ley del Registro Civil para el Estado de Coahuila de Zaragoza.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2003)</small>
-
-El procedimiento de aclaración se sujetará a las disposiciones que establezca la Ley del Registro Civil.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE JULIO DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 236.
 
-Pueden pedir la rectificación o la aclaración, según corresponda, de una acta del estado civil:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Las personas de cuyo estado se trata.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2012)</small>
-
-II. Las personas que se mencionan en el acta como relacionadas con el estado civil de alguno de los que intervinieron, con cualquier carácter, en el acto registrado.
-
-III. Los herederos de las personas comprendidas en las dos fracciones anteriores.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2012)</small>
-
-IV. El tutor o, en su defecto, el Sistema para el Desarrollo Integral de la Familia, a través de la Procuraduría de la Familia en términos de las disposiciones aplicables, para los casos de aquellos menores de edad abandonados, expósitos o, que sin encontrarse en alguno de los anteriores supuestos, no estén sujetos a patria potestad, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2012)</small>
-
-V. El Ministerio Público.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 237.
 
-La rectificación de un acta del estado civil deberá hacerse ante el Poder Judicial, mediante el procedimiento que en el Código Procesal Civil se establezca y en virtud de sentencia ejecutoriada, excepción hecha del reconocimiento que se sujetarán a las prescripciones de este Código.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 238.
 
-La sentencia que conceda o niegue la rectificación, se comunicará al Oficial del Registro Civil y a la Dirección Estatal del Registro Civil, a efecto de que se hagan las anotaciones correspondientes.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2012)</small>
+ARTÍCULO 238 BIS. (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-ARTÍCULO 238 BIS. Sin perjuicio de lo dispuesto en el artículo 237 de este Código, procede la rectificación de un acta de forma administrativa en los asuntos en que haya que variarse el nombre propio del registrado en las actas de nacimiento, cuando se demuestre a través de documentos fehacientes que siempre ha sido designado con un nombre distinto del que aparece en el acta, siempre que no se altere la filiación o parentesco del registrado y mediante el procedimiento que la Ley del Registro Civil para el Estado de Coahuila de Zaragoza establezca.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 26 DE JUNIO DE 2012)</small>
-
-ARTÍCULO 238 BIS 1. La tramitación o rectificación de actas del Registro Civil, realizadas de manera fraudulenta, provocará su nulidad absoluta, independientemente de la responsabilidad penal de quienes hayan intervenido dolosamente en el acto; también resultarán nulas las actas, cuando se acredite que existe otra de fecha anterior.
-
-Cualquier persona que tenga interés legítimo o, en su caso, el agente del Ministerio Público, podrá interponer la acción de nulidad a que se refiere este artículo.
+ARTÍCULO 238 BIS 1. (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 ## TÍTULO TERCERO. DE LAS PERSONAS MORALES
 
@@ -1721,35 +1673,33 @@ La nacionalidad de las personas morales se determinará conforme a las leyes sob
 
 El patrimonio de las personas morales estará constituido de la manera que determine la ley, su escritura constitutiva o sus estatutos en lo que no se opongan a aquélla.
 
-# LIBRO SEGUNDO. DEL DERECHO DE FAMILIA
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS TÍTULOS, CAPÍTULOS, SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+# LIBRO SEGUNDO
 
 ## TÍTULO PRIMERO. DEL MATRIMONIO
 
 ### CAPÍTULO I. DE LOS REQUISITOS PARA CONTRAER MATRIMONIO
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 253.
 
-El matrimonio es la unión libre y con el pleno consentimiento de dos personas, que tiene como objeto realizar la comunidad de vida, en donde ambas se procuran respeto, igualdad y ayuda mutua, y toman de manera libre, responsable, voluntaria e informada, las decisiones reproductivas que se ajustan a su proyecto de vida, incluida la posibilidad de procrear o adoptar.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-El matrimonio debe celebrarse ante el Oficial del Registro Civil y con las formalidades que la ley exige.
-
-Todo acuerdo de esponsales, cualquiera que sea el nombre que se le dé, no producirá efecto legal alguno.
-
-Para disolver el contrato de matrimonio, es necesario, sólo la voluntad de una de las partes, sometiéndose al procedimiento judicial establecido para ello.
-
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 254.
 
-Cualquier condición contraria a la ayuda mutua que se deben los cónyuges, se tendrá por no puesta.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 255.
 
-La edad mínima para contraer matrimonio será de dieciocho años de edad. El matrimonio de una persona menor de esa edad produce de pleno derecho la nulidad.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 ###### ARTÍCULO 256.
 
@@ -1771,467 +1721,455 @@ La edad mínima para contraer matrimonio será de dieciocho años de edad. El ma
 
 (DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 261.
 
-También es requisito para contraer matrimonio, la asistencia previa de los interesados al Taller de Orientación Prematrimonial implementado por las autoridades estatales; misma que deberá acreditarse mediante la presentación del documento autorizado.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2005)</small>
-
-En dicho taller se informará cuando menos sobre:
-
-I. Los requisitos para contraer matrimonio.
-
-II. Los efectos del matrimonio con relación a los cónyuges y a sus hijos.
-
-III. Los regímenes patrimoniales del matrimonio.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-IV. (DEROGADA, P.O. 5 DE ABRIL DE 2013)
-
-V. La Patria Potestad.
-
-VI. El Patrimonio de la Familia.
-
-VII. El manejo de conflictos interpersonales.
-
-VIII. La paternidad responsable.
-
-IX. La responsabilidad financiera.
-
-> <small>(ADICIONADA, P.O. 22 DE OCTUBRE DE 2010)</small>
-
-X. La violencia familiar.
-
-> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2005)</small>
-
-Al término del taller, la autoridad estatal encargada de su implementación, deberá recabar la opinión de los asistentes respecto a la calidad de la información recibida y al grado de conocimiento del tema de los facilitadores.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 262.
 
-Son impedimentos para contraer matrimonio:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
-
-I. La falta de edad requerida por la ley.
-
-II. (DEROGADA, P.O. 4 DE SEPTIEMBRE DE 2015)
-
-III. El parentesco por consanguinidad sin limitación de grado en la línea recta ascendente o descendente. En la línea colateral igual, el impedimento se extiende a los hermanos y medios hermanos. En la colateral desigual, el impedimento se extiende solamente a los tíos y sobrinos, siempre que estén en el tercer grado y no hayan obtenido dispensa.
-
-IV. El parentesco de afinidad en línea recta, sin limitación alguna.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-V. (DEROGADA, P.O. 5 DE ABRIL DE 2013)
-
-VI. El atentado contra la vida de alguno de los casados para contraer matrimonio con el que quede libre, bien por efecto de ese atentado o por haberse disuelto el matrimonio por otra causa.
-
-VII. La violencia o miedo graves. En caso de rapto, subsiste el impedimento entre quien ejecute el rapto y la persona raptada, mientras ésta no sea restituida a lugar seguro, donde libremente pueda manifestar su voluntad.
-
-VIII. La embriaguez habitual.
-
-IX. El uso no terapéutico de enervantes, estupefacientes o psicotrópicos o de cualquiera otra sustancia que altere la conducta y produzca dependencia.
-
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
-
-X. La impotencia incurable para la cópula, la sífilis, el síndrome de inmunodeficiencia adquirida, y cualquiera otra enfermedad o conformación especial, que impida las funciones relativas, o que científicamente hagan prever algún perjuicio grave o degeneración para los descendientes de ese matrimonio. La impotencia no será impedimento cuando exista por la edad y/o sea conocida por el otro contrayente. Las demás enfermedades no serán impedimento, si uno de los contrayentes o ambos padece alguna de estas, siempre que se haga constar el conocimiento del otro contrayente. Lo anterior se acreditará con los análisis de laboratorio correspondiente.
-
-XI. Padecer cualquiera de los estados de incapacidad a que se refiere el inciso a) de la fracción II del artículo 48.
-
-> <small>(REFORMADA, P.O. 12 DE ENERO DE 2007)</small>
-
-XII. El matrimonio o pacto civil de solidaridad subsistente con persona distinta de aquélla con quien se pretende contraer.
-
-> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
-
-De estos impedimentos sólo es dispensable el parentesco por consanguinidad en línea colateral desigual. La dispensa será otorgada por el Juez de lo Familiar.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 263.
 
-El adoptante no puede contraer matrimonio con el adoptado o sus descendientes, ni éstos con los de aquél.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-El mismo impedimento existirá entre los adoptados de un mismo adoptante, entre el adoptado y los hijos del adoptante; así como entre el adoptado y el cónyuge del adoptante, o entre éste y el cónyuge del adoptado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 264.
 
-La mujer no puede contraer nuevo matrimonio sino hasta pasados trescientos días después de la disolución del anterior, a menos que dentro de ese plazo diere a luz a un hijo, o acredite fehacientemente con certificado médico ginecológico que no se encuentra embarazada. En los casos de nulidad o de divorcio puede contarse ese tiempo desde que se interrumpió la cohabitación.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 265.
 
-El tutor no puede contraer matrimonio con la persona que ha estado o está bajo su guarda, a no ser que obtenga dispensa, la que no se le concederá por el Juez de lo Familiar respectivo, sino cuando hayan sido aprobadas las cuentas de la tutela. Esta prohibición comprende también a los descendientes del tutor.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Si el matrimonio se celebrare en contravención de lo dispuesto en este artículo, el juez nombrará inmediatamente un tutor interino que reciba los bienes y los administre mientras se obtiene la dispensa.
-
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 266.
 
-El matrimonio celebrado en el extranjero y que sea válido con arreglo a las leyes del lugar en que se contrajo, surtirá sus efectos civiles de manera retroactiva a la fecha de la celebración, cuando se registre en la entidad.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 ### CAPÍTULO II. DE LOS EFECTOS DEL MATRIMONIO CON RELACIÓN A LAS PERSONAS DE LOS CÓNYUGES Y A SUS HIJOS
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 267.
 
-Los cónyuges están obligados a contribuir cada uno por su parte a los fines del matrimonio, a respetarse, a guardarse fidelidad y a socorrerse mutuamente.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 268.
 
-Toda persona tiene derecho a decidir de manera libre, responsable e informada sobre el número y el espaciamiento de sus hijos. Por lo que toca al matrimonio, este derecho será ejercido de común acuerdo por los cónyuges.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 269.
 
-Son nulos los pactos que los esposos hicieren contra las leyes o los naturales fines del matrimonio.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 270.
 
-Los cónyuges residirán juntos en el domicilio conyugal, en el cual ambos disfrutarán de autoridad y consideraciones iguales. Se considera domicilio conyugal, el lugar establecido de común acuerdo por los cónyuges, en el cual viven de manera autónoma e independiente, con autoridad propia y libre disposición de sus bienes y de sus personas.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Los tribunales con conocimiento de causa, podrán eximir de aquella obligación a alguno de los cónyuges, cuando el otro traslade su domicilio a país extranjero, a no ser que lo haga en servicio público o social, o se establezca en lugar insalubre o indecoroso.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 271.
 
-Los cónyuges contribuirán económicamente al sostenimiento del hogar, a su alimentación y la de sus hijos, así como a la educación de éstos en los términos que la ley establece, sin perjuicio de distribuir la carga en la forma y proporción que acuerden para este efecto, según sus posibilidades. A lo anterior no está obligado el que se encuentre imposibilitado para trabajar y careciere de bienes propios, en cuyo caso el otro atenderá íntegramente a esos gastos.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Los derechos y obligaciones que nacen del matrimonio serán siempre iguales para los cónyuges e independientes de su aportación económica al sostenimiento del hogar.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 272.
 
-Los cónyuges y los hijos menores o incapacitados, en materia de alimentos, tendrán derecho preferente sobre los ingresos y bienes de quien tenga a su cargo el sostenimiento económico de la familia y podrán demandar el aseguramiento de los bienes para hacer efectivos esos derechos.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 273.
 
-Los cónyuges tendrán en el hogar autoridad y consideraciones iguales; por lo tanto resolverán de común acuerdo todo lo relativo al manejo del hogar, a la formación y educación de los hijos y a la administración de los bienes que a éstos pertenezcan. En caso de desacuerdo, el Juez de lo Familiar resolverá lo conducente.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2005)</small>
-
-La unidad de la familia, el interés de los hijos, el de los menores y la igualdad de los derechos y deberes de los cónyuges, han de ser los principios fundamentales para la aplicación e interpretación del derecho de familia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 274.
 
-Los cónyuges podrán desempeñar cualquier actividad excepto las que dañen la moral de la familia o la estructura de ésta. Cualquiera de ellos podrá oponerse a que el otro desempeñe la actividad de que se trate y el Juez de lo Familiar resolverá la oposición.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 275.
 
-Los cónyuges mayores de edad, tienen capacidad para administrar, contratar o disponer de sus bienes propios, y ejercitar las acciones u oponer las excepciones que a ellos corresponden, sin que para tal objeto necesite el cónyuge del consentimiento del otro, ni éste de la autorización de aquél; salvo lo que se estipule en las capitulaciones matrimoniales sobre administración de bienes, en caso de sociedad conyugal.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 276.
 
-(DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 277.
 
-Los cónyuges no requieren autorización judicial para contratar entre ellos. Tampoco la necesitan para que un cónyuge sea fiador de su consorte, o se obligue solidariamente con él en asuntos que sean de interés exclusivo de éste.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 278.
 
-El contrato de compraventa no podrá celebrarse entre los cónyuges cuando el matrimonio esté sujeto al régimen de sociedad conyugal.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 279.
 
-Los cónyuges, durante el matrimonio, podrán ejercitar los derechos y acciones que tengan el uno contra el otro; pero la prescripción y la usucapión no corren entre ellos mientras dure el matrimonio.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 280.
 
-Cualquier disensión que surja entre los cónyuges con motivo del ejercicio de los derechos a que se refieren los artículos 273 y 274, o en cualquiera otra situación similar, será dirimida por el Juez de lo Familiar del lugar del domicilio conyugal, quien en todo caso, y previamente, procurará avenir a los disidentes y si no lo consigue resolverá, sin forma de juicio, dictando la resolución en la misma acta que se levante para hacer constar la comparecencia de los interesados y lo que al respecto exponga cada uno de ellos. Si el juez consigue el avenimiento no se procederá al levantamiento del acta.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 ### CAPÍTULO III. DE LOS REGIMENES PATRIMONIALES DEL MATRIMONIO
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 281.
 
-El régimen patrimonial del matrimonio podrá ser el de separación de bienes o el de sociedad conyugal.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Para establecer el régimen de sociedad conyugal es indispensable el otorgamiento de capitulaciones matrimoniales.
-
-Cuando los contrayentes omitieren otorgar capitulaciones matrimoniales, se entenderá, por disposición de la ley, que el matrimonio se celebra bajo el régimen de separación de bienes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 282.
 
-Los cónyuges, después de celebrado el matrimonio pueden, cambiar el régimen de separación de bienes por el de sociedad conyugal y viceversa.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 283.
 
-Las capitulaciones matrimoniales son los pactos que los contrayentes, o los esposos en su caso, celebran para constituir la sociedad conyugal, reglamentar su administración, y en su caso su terminación.
-
-Esta reglamentación no deberá contravenir las disposiciones establecidas en la Sección Tercera de este Capítulo.
-
-Las capitulaciones matrimoniales pueden otorgarse antes de la celebración del matrimonio, al momento de celebrarse el mismo o durante él.
-
-Las capitulaciones matrimoniales deberán inscribirse en el Registro Público del lugar de la celebración del matrimonio.
-
-En todo acto de adquisición, enajenación, constitución de gravámenes, o cualquier otro de administración o de dominio, que afecte a los bienes de la sociedad conyugal, los consortes deberán acreditar la existencia de su matrimonio y de su sociedad conyugal y la inscripción de las capitulaciones matrimoniales respectivas en el Registro Público que corresponda.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 ###### ARTÍCULO 284.
 
 (DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 285.
 
-Si la casa en la que se establezca el hogar conyugal no constituye patrimonio de familia, y es bien propio de uno de los cónyuges, o pertenece a ambos en copropiedad, o forma parte de la sociedad conyugal, no puede enajenarse sino con el consentimiento de los dos consortes.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 21 DE MARZO DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 286.
 
-La casa a que se refiere el artículo anterior podrá gravarse cuando el crédito garantizado con el gravamen sea con fines de mejorarla, remodelarla o para satisfacer gastos en casos de enfermedad o accidentes graves de algún miembro de la familia; de igual manera, los cónyuges al adquirir una vivienda cuyo destino sea para establecer el hogar conyugal, podrán gravarla para obtener el crédito que garantice su adquisición. En todo caso se requiere el consentimiento de ambos consortes.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-En caso de que se haya obtenido un crédito para la adquisición o construcción de una casa, garantizado con el mismo inmueble, en la que se haya asentado el hogar conyugal, o bien, la casa se encuentre afectada por el gravamen a que se refiere el párrafo anterior, podrá contratarse nuevo crédito que tenga por objeto mejorar sustancialmente, para el deudor, las condiciones pactadas en el contrato de préstamo que sirvió para obtener el financiamiento, ya sea con la misma o con diferente entidad crediticia. En todo caso siempre se deberá contar con el consentimiento de ambos consortes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 287.
 
-Los muebles que integran el menaje del hogar conyugal, sean propios de uno de los cónyuges o de ambos en copropiedad, o pertenezcan a la sociedad conyugal, no pueden enajenarse ni gravarse sin consentimiento de ambos consortes.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 288.
 
-Los actos y negocios jurídicos realizados en contravención a lo dispuesto en los tres artículos anteriores están afectados de nulidad absoluta, si hay hijos menores de edad.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 289.
 
-Los actos y negocios jurídicos a que se refiere el artículo anterior, sólo estarán afectados de nulidad relativa si no hay hijos menores de edad.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 290.
 
-La casa a que se refiere el artículo 285, siempre que su valor según avalúo catastral no exceda del equivalente a veinticinco veces el salario mínimo general diario vigente en el lugar de su ubicación elevado al año y los muebles que integren su menaje, son inembargables, salvo que el crédito que se cobre se origine en el precio de adquisición de la casa o de los referidos muebles, o en los supuestos mencionados en el artículo 286.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 #### SECCIÓN SEGUNDA. DE LA SEPARACIÓN DE BIENES
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 291.
 
-En el régimen de separación de bienes, los cónyuges conservarán la propiedad y administración de los bienes que respectivamente les pertenecen y, por consiguiente, todos los frutos y accesiones de dichos bienes no serán comunes, sino del dominio exclusivo del dueño de ellos.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 292.
 
-Serán también propios de cada uno de los consortes los salarios, sueldos, emolumentos y ganancias que obtuvieren por servicios personales, por el desempeño de un empleo o por el ejercicio de una profesión, comercio o industria.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 293.
 
-Los bienes que los cónyuges adquieran en común por donación, herencia, legado, por cualquier otro título gratuito o por don de la fortuna, entre tanto se hace la división, serán administrados por ambos o por uno de ellos con acuerdo del otro; pero en ese caso el que administre será considerado como mandatario.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 294.
 
-Los cónyuges no podrán cobrarse entre sí, retribución u honorario alguno por los servicios personales que le prestare o por los consejos y asistencia que le diere; pero si uno de los consortes, por causa de ausencia o impedimento del otro, no originado por enfermedad, se encargare temporalmente de la administración de los bienes del impedido, tendrá derecho a que se le retribuya por este servicio en proporción a su importancia y al resultado que produjere.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 295.
 
-Los cónyuges responden entre sí, de los daños y perjuicios que le cause por su dolo, culpa o negligencia.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 #### SECCIÓN TERCERA. DE LA SOCIEDAD CONYUGAL
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 296.
 
-El régimen de sociedad conyugal consiste en la formación y administración de un patrimonio común, diferente de los patrimonios propios de los consortes.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-El dominio de los bienes comunes reside en ambos cónyuges mientras subsista la sociedad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 297.
 
-La sociedad conyugal se regirá por las disposiciones de esta sección, por las capitulaciones matrimoniales que la constituyan, y en lo que no estuviere expresamente estipulado, por las disposiciones relativas al contrato de sociedad.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 298.
 
-La sociedad conyugal nace al celebrarse el matrimonio, o durante él al otorgarse capitulaciones matrimoniales. Puede comprender no sólo los bienes de que sean dueños los esposos al formarla, sino también los bienes que adquieran posteriormente.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 299.
 
-La sociedad conyugal termina por la disolución del matrimonio, por voluntad de los consortes, por la sentencia que declare la presunción de muerte del cónyuge ausente y en los casos previstos por el artículo 301.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 300.
 
-La sociedad conyugal puede terminar antes de que se disuelva el matrimonio, si así lo convienen los cónyuges.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 301.
 
-Puede también terminar la sociedad conyugal durante el matrimonio, a petición de alguno de los cónyuges, por los siguientes motivos:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Si el socio administrador, por su notoria negligencia o torpe administración, amenaza arruinar a su consocio o disminuir considerablemente los bienes comunes.
-
-II. Cuando el socio administrador hace cesión de bienes a sus acreedores, o es declarado en concurso o en quiebra.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 302.
 
-Si el cónyuge administrador por negligencia o administración torpe, amenaza arruinar a la sociedad conyugal o disminuir considerablemente los bienes de ella, puede el otro cónyuge pedir judicialmente la administración de la sociedad o la terminación de ésta.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 303.
 
-Las capitulaciones matrimoniales constarán en escritura pública, cuando los esposos pacten hacerse copartícipes o transferirse la propiedad de bienes que ameriten tal requisito para que la traslación sea válida.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 304.
 
-En este caso, la alteración que se haga de las capitulaciones deberá también otorgarse en escritura pública, haciendo la respectiva anotación en el protocolo en que se otorgaron las primitivas capitulaciones, y en la inscripción del Registro Público. Sin llenar estos requisitos, las alteraciones no producirán efecto contra tercero.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 305.
 
-Las capitulaciones matrimoniales, deben contener:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. La lista detallada de los bienes inmuebles que cada consorte lleve a la sociedad, con expresión de su valor y de los gravámenes que reporten.
-
-II. La lista especificada de los bienes muebles que cada consorte introduzca a la sociedad.
-
-III. Nota pormenorizada de las deudas que tenga cada esposo al celebrar el matrimonio, con expresión de si la sociedad ha de responder de ellas, o únicamente de las que se contraigan durante el matrimonio, ya sea por ambos consortes o por cualquiera de ellos.
-
-IV. La declaración expresa de si la sociedad conyugal ha de comprender todos los bienes de cada consorte o sólo parte de ellos, precisando en este último caso cuáles son los bienes que hayan de entrar a la sociedad.
-
-V. La declaración explícita de si la sociedad conyugal ha de comprender los bienes todos de los consortes, o solamente sus productos. En uno y en otro caso se determinará con toda claridad la parte que en los bienes o en sus productos corresponda a cada cónyuge.
-
-VI. La declaración de si el producto de trabajo de cada consorte corresponde exclusivamente al que lo ejecutó, o si debe dar participación de ese producto al otro consorte y en qué proporción.
-
-VII. La declaración terminante acerca de quien debe ser el administrador de la sociedad, expresándose con claridad las facultades que se le conceden.
-
-VIII. La declaración acerca de si los bienes futuros que adquieran los cónyuges durante el matrimonio pertenecen exclusivamente al adquirente, o si deben repartirse entre ellos y en que proporción.
-
-IX. Las bases para liquidar la sociedad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 306.
 
-Es nula la capitulación en cuya virtud uno de los consortes haya de percibir todas las utilidades, así como la que establezca que alguno de ellos sea responsable por las pérdidas y deudas comunes, en una parte que exceda a la que proporcionalmente corresponda a su capital o utilidades.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Cuando se establezca que uno de los consortes sólo debe recibir una cantidad fija, el otro consorte o sus herederos deben pagar la suma convenida, haya o no utilidad en la sociedad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 307.
 
-Todo pacto que importe cesión de una parte de los bienes propios de cada cónyuge, será considerado como donación y quedará sujeto a lo prevenido en la sección quinta de este capítulo.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 308.
 
-No pueden renunciarse anticipadamente las ganancias que resulten de la sociedad conyugal; pero disuelto el matrimonio o establecida la separación de bienes, pueden los cónyuges renunciar a las ganancias que les correspondan.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 309.
 
-La sentencia que declare la ausencia de alguno de los cónyuges, modifica o suspende la sociedad conyugal en los casos señalados en este código.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 310.
 
-El abandono injustificado por más de seis meses del domicilio conyugal por uno de los cónyuges, hace cesar para él, desde el día del abandono, los efectos de la sociedad conyugal en cuanto le favorezcan; éstos no podrán comenzar de nuevo sino por convenio expreso.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 311.
 
-En los casos de nulidad, la sociedad se considera subsistente hasta que se pronuncie sentencia ejecutoria, si los dos cónyuges procedieron de buena fe.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 312.
 
-Cuando uno solo de los cónyuges tuvo buena fe, la sociedad subsistirá también hasta que cause ejecutoria la sentencia, si la continuación es favorable al cónyuge inocente; en caso contrario se considerará nula desde un principio.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 313.
 
-Si los dos cónyuges procedieron de mala fe, la sociedad se considera nula desde la celebración del matrimonio, o desde el otorgamiento de las capitulaciones matrimoniales si se celebraron posteriormente, quedando en todo caso a salvo los derechos que un tercero tuviere contra el fondo social.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 314.
 
-Si la disolución de la sociedad procede de nulidad del matrimonio, el consorte que hubiere obrado de mala fe no tendrá parte en las utilidades, las cuales se aplicarán al cónyuge inocente.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 315.
 
-Si los dos procedieron de mala fe, las utilidades se aplicarán a los hijos, y si no los hubiere, se repartirán en proporción de lo que cada consorte llevó al matrimonio.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 316.
 
-Disuelta la sociedad se procederá a formar inventario, en el cual no se incluirán el lecho, los vestidos ordinarios y los objetos de uso personal de los consortes, que serán de éstos o de sus herederos.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Terminado el inventario, se pagarán los créditos que hubieren contra el fondo social, se devolverá a cada cónyuge lo que llevó al matrimonio y el sobrante, si lo hubiere, se dividirá entre los dos consortes en la forma convenida.
-
-En caso de que hubiere pérdidas, el importe de éstas se deducirá del haber de cada consorte en proporción a las utilidades que debían corresponderles, y si uno solo llevó capital, de éste se deducirá la pérdida total.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 317.
 
-Muerto uno de los cónyuges, continuará el que sobreviva en la posesión y administración del fondo social, con intervención del representante de la sucesión, mientras no se verifique la partición.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 318.
 
-Todo lo relativo a la formación de inventarios y formalidades de la partición y adjudicación de los bienes, se regirá por lo que disponga el Código Procesal Civil.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 #### SECCIÓN CUARTA. DE LAS DONACIONES ANTENUPCIALES
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 319.
 
-Se llaman antenupciales las donaciones que antes del matrimonio hace un contrayente al otro, cualquiera que sea el nombre que la costumbre les haya dado.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 320.
 
-Son también donaciones antenupciales las que un extraño hace a alguno de los contrayentes, o a ambos, en consideración al matrimonio.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 321.
 
-Las donaciones antenupciales entre contrayentes, aunque fueren varias, no podrán exceder, reunidas, de la sexta parte de los bienes del donante y en el exceso la donación será inoficiosa.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 322.
 
-Las donaciones antenupciales hechas por un extraño, serán inoficiosas en los términos en que lo fueren las comunes.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 323.
 
-Para calcular si es inoficiosa una donación antenupcial, tienen el contrayente donatario y sus herederos la facultad de elegir entre la época en que se hizo la donación y la del fallecimiento del donador; pero si al hacerse la donación no se formó inventario de los bienes del donador, no podrá elegirse la época en que aquélla se otorgó.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 324.
 
-Las donaciones antenupciales no necesitan para su validez de aceptación expresa.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 325.
 
-Las donaciones antenupciales no podrán ser revocadas por sobrevenir hijos al donante, ni por ingratitud, a no ser que el donante fuere un extraño, que la donación haya sido hecha a ambos contrayentes y que los dos sean ingratos.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 326.
 
-Las donaciones antenupciales son revocables por el adulterio o el abandono injustificado del domicilio conyugal por parte del donatario, cuando el donante haya sido el otro cónyuge.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 ###### ARTÍCULO 327.
 
 (DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 328.
 
-Las donaciones antenupciales, quedarán sin efecto si el matrimonio dejare de efectuarse.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 329.
 
-Son aplicables a las donaciones antenupciales las reglas de las donaciones comunes, en todo lo que no fueren contrarias a esta sección.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 #### SECCIÓN QUINTA. DE LAS DONACIONES ENTRE CONSORTES
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 330.
 
-Los consortes pueden hacerse donaciones, con tal de que no sean contrarias a las capitulaciones matrimoniales, ni perjudiquen el derecho de los ascendientes o descendientes a recibir alimentos.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 331.
 
-Las donaciones entre consortes pueden ser revocadas por los donantes, mientras subsista el matrimonio, cuando exista causa justificada para ello, a juicio del juez.
-
-Estas donaciones no se revocarán por la superveniencia de hijos; pero se reducirán cuando sean inoficiosas, en los mismos términos que las comunes.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 ### CAPÍTULO IV. DE LOS MATRIMONIOS NULOS
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 332.
 
-Son causas de nulidad de un matrimonio:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. El error acerca de la persona con quien se contrae, cuando entendiendo un cónyuge celebrar matrimonio con persona determinada, lo contrae con otra.
-
-II. Que el matrimonio se haya celebrado concurriendo alguno de los impedimentos enumerados en el artículo 262.
-
-III. Que se haya celebrado en contravención a lo dispuesto en los artículos 196, 197, 198, 200 y 201.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 333.
 
-La acción de nulidad que nace del error, sólo puede deducirse por el cónyuge engañado, pero si éste no denuncia el error inmediatamente que lo advierta y no demanda la nulidad dentro de los treinta días siguientes a dicha denuncia, se tiene por ratificado el consentimiento y queda subsistente el matrimonio, a no ser que exista algún otro impedimento que lo anule.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 ###### ARTÍCULO 334.
 
@@ -2249,11 +2187,11 @@ La acción de nulidad que nace del error, sólo puede deducirse por el cónyuge 
 
 (DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 338.
 
-El parentesco de consanguinidad no dispensado anula el matrimonio; pero si después se obtuviere dispensa y ambos cónyuges, reconocida la nulidad, quisieren espontáneamente reiterar su consentimiento por medio de un acta ante el Oficial del Registro Civil, quedará revalidado el matrimonio y surtirá todos sus efectos legales desde el día en que se contrajo.
-
-La acción que nace de esta clase de nulidad y la que dimana del parentesco de afinidad en línea recta, pueden ejercitarse por cualquiera de los cónyuges, por sus ascendientes y por el Ministerio Público.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2261,363 +2199,263 @@ La acción que nace de esta clase de nulidad y la que dimana del parentesco de a
 
 (DEROGADO, P.O. 5 DE ABRIL DE 2013)
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 340.
 
-La acción de nulidad proveniente del atentado contra la vida de alguno de los cónyuges para casarse con el que quede libre, puede ser deducida por el cónyuge víctima del atentado, por sus hijos o por el Ministerio Público, dentro del término de seis meses, contado desde que se celebró el nuevo matrimonio. Si el cónyuge víctima del atentado fallece, la acción podrán deducirla o continuarla sus ascendientes o descendientes o el Ministerio Público dentro del plazo antes mencionado.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 341.
 
-El miedo y la violencia serán causa de nulidad del matrimonio si concurren las circunstancias siguientes:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Que la violencia productora del miedo importe peligro de perder la vida, la honra, la libertad, la salud o una parte considerable de los bienes.
-
-> <small>(REFORMADA, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
-
-II. Que el miedo haya sido causado o la violencia hecha al cónyuge o a sus ascendientes, descendientes o parientes colaterales dentro del segundo grado.
-
-III. Que uno u otra hayan subsistido al tiempo de celebrarse el matrimonio.
-
-La acción que nace de esta causa de nulidad sólo puede deducirse por el cónyuge agraviado, dentro de sesenta días desde la fecha en que cesó la violencia o intimidación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 342.
 
-La nulidad que se funde en alguna de las causas expresadas en las fracciones VIII a X del artículo 262, sólo puede ser demandada por los cónyuges, dentro del término de sesenta días contados desde que se celebró el matrimonio.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 343.
 
-Tienen derecho de demandar la nulidad a que se refiere la fracción XI del artículo 262 además del otro cónyuge, el tutor del incapaz.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 344.
 
-El vínculo de un matrimonio anterior, existente al tiempo de contraerse el segundo, anula éste aunque se contraiga de buena fe, creyéndose fundadamente que el consorte anterior había muerto. La acción que nace de esta causa de nulidad puede deducirse por el cónyuge del primer matrimonio, por sus hijos o herederos, y por los cónyuges que contrajeron el segundo. No deduciéndola ninguna de las personas mencionadas, la deducirá el Ministerio Público.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 345.
 
-La inexistencia del matrimonio que se funde en la falta de formalidades esenciales puede alegarse por los cónyuges y por cualquiera que tenga interés en probar que no hay matrimonio. También podrá declararse esa inexistencia a instancia del Ministerio Público.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 346.
 
-No se admitirá demanda de nulidad por falta de solemnidades en el acta de matrimonio celebrado ante el Oficial del Registro Civil, cuando a la existencia del acta se una la posesión de estado matrimonial.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 347.
 
-El derecho para demandar la nulidad del matrimonio corresponde a quienes la ley lo concede expresamente, y no es transmisible por herencia ni de cualquiera otra manera.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Sin embargo, los herederos legítimos podrán continuar la demanda de nulidad entablada por aquél a quien heredan.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 348.
 
-Ejecutoriada la sentencia que declare la nulidad, el juez, de oficio, enviará copia certificada de ella a la Dirección Estatal del Registro Civil y al Oficial ante quien se contrajo el matrimonio para que se efectúe la anotación marginal correspondiente.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 349.
 
-El matrimonio tiene a su favor la presunción de ser válido; sólo se considerará nulo cuando así lo declare una sentencia que cause ejecutoria.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 350.
 
-Los cónyuges no pueden celebrar transacción ni compromiso en árbitros acerca de la nulidad del matrimonio.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 351.
 
-El matrimonio contraído de buena fe por parte de ambos cónyuges, aunque sea declarado nulo, produce todos sus efectos civiles en favor de los cónyuges mientras dure; y en todo tiempo, en favor de los hijos nacidos antes de la celebración del matrimonio, durante él y trescientos días después de la declaración de nulidad, si no se hubieren separado los consortes, o desde su separación en caso contrario.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 352.
 
-Si ha habido buena fe por parte de uno solo de los cónyuges, el matrimonio produce efectos civiles únicamente respecto de él y de los hijos.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Si ha habido mala fe de parte de ambos consortes, el matrimonio produce efectos civiles solamente respecto de los hijos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 353.
 
-La buena fe se presume; para destruir esta presunción se requiere prueba plena.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 354.
 
-Si la demanda de nulidad fuere entablada por uno solo de los cónyuges, desde luego se dictarán las medidas provisionales establecidas para los casos de divorcio.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 355.
 
-Luego que la sentencia sobre nulidad cause ejecutoria, los padres propondrán la forma y términos del cuidado y la custodia de los hijos y el juez resolverá a su criterio de acuerdo con las circunstancias del caso.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 356.
 
-El juez en todo tiempo podrá modificar la determinación a que se refiere el artículo anterior, atento a las nuevas circunstancias y a lo dispuesto en los artículos 527, 545 fracción III y 550 fracción III.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 357.
 
-Declarada la nulidad del matrimonio, se procederá a la división de los bienes comunes. Los productos repartibles, si los dos cónyuges hubieren procedido de buena fe, se dividirán entre ellos en la forma convenida en las capitulaciones matrimoniales; si sólo hubo buena fe por parte de uno de los cónyuges, a éste se aplicarán íntegramente esos productos. Si ha habido mala fe de parte de ambos cónyuges, los productos se aplicarán en favor de los hijos y a falta de éstos, entre ambos cónyuges.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 358.
 
-Declarada la nulidad de matrimonio, se observarán respecto de las donaciones antenupciales, las reglas siguientes:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Las hechas por un tercero a los cónyuges podrán ser revocadas.
-
-II. Las que hizo el cónyuge inocente al culpable quedarán sin efecto y las cosas que fueron objeto de ellas se devolverán al donante con todos sus productos.
-
-III. Las hechas al inocente por el cónyuge que obró de mala fe quedarán subsistentes.
-
-IV. Si los dos cónyuges procedieron de mala fe, las donaciones que se hayan hecho quedarán en favor de sus hijos. Si no los tienen, no podrán hacer los donantes reclamación alguna con motivo de la liberalidad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 359.
 
-Si al declararse la nulidad del matrimonio la mujer estuviere encinta, se tomarán las precauciones a que se refiere el Capítulo Primero del Título Quinto del Libro Tercero.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 ### CAPÍTULO V. DE LOS MATRIMONIOS ILÍCITOS
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 360.
 
-Es ilícito, pero no nulo, el matrimonio:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Cuando se ha contraído estando pendiente la decisión de un impedimento que sea susceptible de dispensa.
-
-II. Cuando no se ha otorgado la previa dispensa que requiere el artículo 265, y cuando se celebre sin que hayan transcurrido los términos fijados en los artículos 264 y 383.
-
-> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 361.
 
-Los que infrinjan el artículo anterior, así como los que siendo mayores de edad contraigan matrimonio con un menor y los que autoricen esos matrimonios, incurrirán en las penas que establezca el Código Penal.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 ### CAPÍTULO VI. DEL DIVORCIO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 362.
 
-El divorcio disuelve el vínculo matrimonial y deja a los cónyuges en aptitud de contraer otro.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Cualquiera de los cónyuges o ambos, podrán solicitar el divorcio ante la autoridad judicial y manifestar su voluntad de no querer continuar con el matrimonio, sin que sea necesario señalar la causa por la cual se solicita.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 363.
 
-El cónyuge que desee promover el juicio de divorcio deberá acompañar a su solicitud la propuesta de convenio para regular las consecuencias inherentes a la disolución del vínculo matrimonial.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-La propuesta de convenio de divorcio deberá contener, por lo menos, los siguientes requisitos:
-
-a) La designación de la persona que tendrá la guarda y custodia de los hijos menores o incapaces;
-
-b) Las modalidades bajo las cuales el progenitor, que no tenga la guarda y custodia, ejercerá el derecho de convivencia;
-
-c) El modo de subvenir las necesidades de los hijos y, en su caso, del cónyuge a quien deba darse alimentos, tanto durante el procedimiento como después de decretarse el divorcio, así como las medidas correspondientes en caso de que la mujer se encuentre encinta. Deberá precisarse la forma, lugar y fecha del pago de la obligación alimentaria, así como la garantía para asegurar su cumplimiento;
-
-d) La designación del cónyuge al que corresponderá la posesión y disfrute del domicilio conyugal, y en su caso, del menaje de la casa; además deberá señalarse el tiempo que durará ese derecho.
-
-e) El nombramiento del administrador de los bienes de la sociedad conyugal durante el procedimiento y hasta que se liquide, así como la forma y bases de liquidarla, exhibiendo para ese efecto, en su caso, las capitulaciones matrimoniales, el inventario, avaluó y el proyecto de división.
-
-f) Los términos de la compensación a que se refiere el artículo 368 de este código.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 364.
 
-Los cónyuges que hayan solicitado el divorcio podrán reunirse de común acuerdo en cualquier tiempo hasta antes de que se decrete el divorcio.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-La reconciliación denunciada por ambos cónyuges, previa su ratificación judicial, pondrá término al procedimiento de divorcio.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 365.
 
-Manifestada la voluntad de divorciarse y satisfechos los requisitos que establezca el Código Procesal Civil, la autoridad judicial decretara la disolución del vínculo matrimonial, observando lo dispuesto por el artículo 213 de este ordenamiento.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-En virtud del divorcio, los cónyuges recobrarán su entera capacidad para contraer nuevo matrimonio.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 366.
 
-Las acciones y pretensiones derivadas del matrimonio relativas a la situación de hijos menores o incapaces, al derecho de alimentos o al régimen patrimonial adoptado en el matrimonio, que sean consecuencia de la disolución del vínculo, se resolverán en el mismo procedimiento de divorcio.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 367.
 
-Si así se solicita, el juez que decrete el divorcio resolverá sobre el pago de alimentos a favor del cónyuge que, teniendo la necesidad de recibirlos durante el matrimonio, se haya dedicado preponderantemente a las labores del hogar, al cuidado de los hijos o esté imposibilitado para trabajar y carezca de bienes que produzcan frutos, sin perjuicio de la acción compensatoria prevista en la disposición siguiente.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-El juez tomando en cuenta las circunstancias del caso podrá aumentar, disminuir o cancelar la obligación de dar alimentos; empero, esta obligación a favor del cónyuge divorciado se extingue cuando el acreedor contraiga nuevas nupcias, se una en concubinato, celebre Pacto Civil de Solidaridad o haya transcurrido un término igual a la duración del matrimonio.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 368.
 
-Cuando uno de los cónyuges en un matrimonio celebrado bajo el régimen de separación de bienes se hubiere dedicado preponderantemente al cuidado de los hijos o al desempeño del trabajo del hogar, podrá reclamar una compensación pecuniaria que no podrá exceder del cincuenta por ciento del valor de los bienes que se hubieren adquirido durante el matrimonio.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-El juzgador que conozca de la reclamación resolverá atendiendo a las circunstancias de cada caso.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 369.
 
-El cónyuge que estime haber sufrido daño moral o afectación en los derechos de la personalidad con motivo y por el tiempo que estuvo unido en matrimonio, podrá ejercer la acción prevista en el artículo 1895 de este Código, en contra de quien fue su cónyuge.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Se presumirá el daño moral y, por tanto, habrá lugar a la indemnización, además de los casos previstos en el párrafo segundo del artículo de referencia, cuando un cónyuge:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-I. Cometa delito doloso que merezca pena corporal en perjuicio del otro cónyuge o de sus hijos menores de edad o incapaces.
+ARTÍCULO 369 BIS. (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-II. Ejerza violencia o intimidación en el seno del hogar común.
-
-III. Oculte deliberadamente padecer sífilis, síndrome de inmunodeficiencia adquirida, tuberculosis, enfermedad crónica e incurable que sea, además, contagiosa y hereditaria.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
-
-ARTÍCULO 369 BIS.- El divorcio administrativo procede cuando habiendo transcurrido un año o más de la celebración del matrimonio, los cónyuges convienen en divorciarse, no tengan hijos o teniéndolos sean mayores de edad, capaces y no requieran alimentos ellos o alguno de los cónyuges, que la mujer no esté embarazada y se haya liquidado previamente la sociedad conyugal si el matrimonio se contrajo bajo ese régimen. Los cónyuges se presentarán ante el Oficial del Registro Civil de su domicilio, y exhibirán su solicitud por escrito, de la cual levantará acta el funcionario y los citará en un término de 15 días para que se presenten a ratificarla.
-
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
-
-Una vez ratificada, el Oficial del Registro Civil los declarará divorciados, levantará el acta correspondiente y hará las anotaciones en el acta de matrimonio respectiva.
-
-> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
-
-No surtirá efectos legales el divorcio administrativo, si se comprueba que los cónyuges tienen hijos menores, o mayores de edad incapaces o que requieran de alimentos, o si alguno de los cónyuges requiere alimentos, o la sociedad conyugal no está liquidada; además, se harán acreedores a la sanción a que haya lugar.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 370.
 
-La acción prevista en el artículo anterior podrá reclamarla el cónyuge afectado en el mismo juicio de divorcio o en juicio destacado ante el juez de lo familiar, siempre y cuando los hechos hayan acontecido dentro del año inmediato anterior a la reclamación.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Si la afectación se produce en perjuicio de menores o incapaces, la acción podrá ser promovida por sus representantes legales o el Ministerio Público en cualquier momento y por los propios hijos dentro del año siguiente en que adquieran la mayoría de edad o que cese su incapacidad.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 371.
 
-La muerte de uno de los cónyuges antes de la declaración de disolución del vínculo matrimonial pone fin al juicio de divorcio, y los herederos del de cujus tienen los mismos derechos y obligaciones que tendrían si no hubiese existido dicho juicio.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Si la muerte ocurre después de la referida declaración, el juicio seguirá su curso por los herederos solo por lo que hace a los derechos y obligaciones transmisibles por sucesión.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 372.
 
-La resolución que fije la situación de los hijos menores de edad o mayores incapaces deberá contener las siguientes disposiciones:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Todo lo relativo a los derechos inherentes a la guarda y custodia, así como a las obligaciones de crianza y el derecho de los hijos a convivir con ambos progenitores, atendiendo en todo momento al interés de los hijos y a la aptitud física y moral de los padres, a cuyo efecto deberá oír a estos y a los hijos, y en caso de estimarlo necesario a los abuelos, tíos o hermanos mayores;
-
-II. Todas las medidas necesarias para protegerlos de actos de violencia familiar o cualquier otra circunstancia que lastime u obstaculice su desarrollo armónico y pleno.
-
-III. La determinación y aseguramiento de los alimentos que los excónyuges tienen obligación de contribuir, en proporción a sus bienes o ingresos, a favor de los hijos, incluyendo el caso de que la mujer se encuentre encinta.
-
-IV. Para el caso de los mayores incapaces sujetos a la tutela de alguno de los ex cónyuges, las medidas a que se refiere este articulo para su protección
-
-V. Las demás que sean necesarias para garantizar el bienestar, el desarrollo, la protección y el interés de los hijos menores de edad.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 373.
 
-La resolución que determine lo referente al régimen patrimonial del matrimonio deberá contener las siguientes disposiciones:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Lo relativo a la división de los bienes y las precauciones necesarias para asegurar las obligaciones que queden pendientes entre los ex cónyuges o con relación a los hijos.
-
-II. Lo referente a la compensación que prevé el artículo 368 de este código, atendiendo a las circunstancias especiales de cada caso, si hubiere desacuerdo sobre su procedencia y términos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 374.
 
-Procede el divorcio administrativo cuando se satisfagan los siguientes requisitos:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-a. Ambos cónyuges convengan en divorciarse y sean mayores de edad;
-
-b. Hayan liquidado la sociedad conyugal de bienes, si están casados bajo este régimen patrimonial;
-
-c. La cónyuge no esté embarazada, y
-
-d. No tengan hijos en común, o teniéndolos, sean mayores de edad y estos o alguno de los cónyuges no requieran alimentos.
-
-El Oficial del Registro Civil, previa identificación de los cónyuges, levantará acta en que hará constar la solicitud de divorcio y citará a estos para que la ratifiquen a los 15 días. Si los cónyuges la ratifican, el Oficial los declarará divorciados y hará la anotación marginal correspondiente en la de matrimonio.
-
-Si se comprueba que los cónyuges no cumplen con los supuestos exigidos, procede la nulidad del divorcio así obtenido.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 375.
 
-El cónyuge podrá solicitar que se suspenda su obligación de cohabitar con el otro cónyuge cuando éste tenga alguno de los siguientes padecimientos:
-
-I. Cualquier enfermedad incurable que sea, además, contagiosa o hereditaria;
-
-II. Impotencia sexual irreversible, siempre y cuando no tenga su origen en la edad avanzada, o
-
-III. Trastorno mental incurable, previa declaración de interdicción que se haga respecto del cónyuge enfermo.
-
-En estos casos el juez podrá decretar esa suspensión, con conocimiento de causa, quedando subsistentes las demás obligaciones derivadas del matrimonio.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 (ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2014) (F. DE E., P.O. 14 DE OCTUBRE DE 2014)
 
 ### CAPÍTULO VII. DEL CONCUBINATO
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-###### Artículo 376.
+###### ARTÍCULO 376.
 
-Los concubinos tienen derechos y obligaciones recíprocos, siempre que sin impedimentos legales para contraer matrimonio hayan vivido en común en forma constante y permanente por un período mínimo de tres años que precedan inmediatamente a la generación de derechos y obligaciones a los que alude este capítulo.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-No es necesario el transcurso del período mencionado cuando, reunidos los demás requisitos, tengan un hijo en común.
-
-Si con una misma persona se establecen varias uniones del tipo antes descrito, en ninguna se reputará concubinato. Quien haya actuado de buena fe podrá demandar del otro, una indemnización por daños y perjuicios.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 377.
 
-Regirán al concubinato todos los derechos y obligaciones inherentes a la familia, en lo que le fueren aplicables.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 378.
 
-El concubinato genera entre los concubinos derechos alimentarios y sucesorios, independientemente de los demás derechos y obligaciones reconocidos en este código o en otras leyes.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 379.
 
-Al cesar la convivencia, el concubino que carezca de ingresos o bienes suficientes para su sostenimiento, tiene derecho a una pensión alimenticia por un tiempo igual al que haya durado el concubinato. No podrá reclamar alimentos quien haya demostrado ingratitud, o viva en concubinato o contraiga matrimonio.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-El derecho que otorga este artículo podrá ejercitarse solo durante el año siguiente a la cesación del concubinato.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 380.
 
-Se asimila al parentesco por afinidad la relación que resulta del concubinato, entre un concubino y los parientes del otro, y entre los parientes de este con aquel.
-
-Esta asimilación sólo comprende los parientes consanguíneos en línea recta ascendiente o descendiente sin limitación de grado, y su único efecto es constituir un impedimento para el matrimonio.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2657,929 +2495,777 @@ Esta asimilación sólo comprende los parientes consanguíneos en línea recta a
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 385
 
-1. El Pacto Civil de Solidaridad es un contrato celebrado por dos personas físicas, mayores de edad, de igual o distinto sexo, para organizar su vida en común. Quienes lo celebran se considerarán compañeros civiles.
-
-Los compañeros civiles, se deben ayuda y asistencia mutua, consideración y respeto, así como deber de gratitud recíprocos y tendrán obligación de actuar en interés común; de igual manera tendrán derecho a alimentos entre sí.
+1. (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ENERO DE 2007)</small>
 
 ### CAPÍTULO II. DE LOS REQUISITOS PARA LA CELEBRACIÓN DEL PACTO CIVIL DE SOLIDARIDAD
 
-> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 385
 
-2. Son requisitos para celebrar el pacto civil de solidaridad:
+2. (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Ser mayor de dieciocho años y contar plenamente con capacidad de ejercicio;
-
-II. Estar libre de vínculo matrimonial o de diverso pacto civil de solidaridad o similar no disuelto;
-
-III. Que entre los solicitantes no exista vínculo de parentesco, incluso por afinidad.
-
-Estos requisitos no podrán, bajo ningún caso, ser dispensados. No es impedimento para celebrar el pacto que uno de los solicitantes hubiese adquirido alguna condición de transexualidad.
-
-> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 385
 
-3. El pacto civil de solidaridad deberá suscribirse ante el Oficial del Registro Civil, con las formalidades y requisitos previstos en la Sección Sexta bis “De las Actas de los Pactos Civiles de Solidaridad” del Capítulo X “Del Registro Civil” del Título Segundo “De las Personas Físicas”, del Libro Primero “Del Derecho de las Personas”.
+3. (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ENERO DE 2007)</small>
 
 ### CAPÍTULO III. DE LOS EFECTOS DEL PACTO CIVIL DE SOLIDARIDAD
 
-> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 385
 
-4. Desde la celebración del pacto civil de solidaridad, los contratantes asumen el estado civil inherente en forma personal y exclusiva, sin que importe vínculos de parentesco de ninguna clase, línea o grado con las familias de ambos, salvo en el caso de descendencia común.
+4. (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Los compañeros civiles podrán fijar un domicilio común en el cual tendrán igual autoridad.
-
-El estado adquirido como compañeros civiles, legitima a los interesados para reclamar las prestaciones que, bajo las modalidades de pensiones, disposiciones testamentarias especiales o beneficios o provechos por prestaciones sociales u otros análogos, contemplen las leyes.
-
-Es válido el señalamiento a favor del otro que cualquiera de ellos realice, en actos y negocios a que se refiere este artículo.
-
-> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 385
 
-5. En todo caso, corresponderá al Juez de lo Familiar dirimir las diferencias que surjan entre los compañeros civiles, en especial en los siguientes:
+5. (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Establecimiento o modificación de hogar común.
-
-II. Obligación, monto y aseguramiento de alimentos.
-
-III. Administración y disposición de los bienes de la sociedad solidaria, cuando existan y demás asuntos del orden patrimonial.
-
-El trámite para resolver estas controversias, no requerirá formalidades especiales y se aplicarán, en lo conducente, los artículos 550 a 555 del Código Procesal Civil vigente en el Estado.
-
-> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 385
 
-6. En el supuesto de que el Pacto Civil de Solidaridad se celebre entre personas de distinto sexo, se presumen hijos del compañero civil varón:
-
-I. Los nacidos de la mujer que tenga el carácter de compañera civil, durante el pacto civil de solidaridad.
-
-II. Los nacidos de la mujer que tenga el carácter de compañera civil, dentro de los trescientos días siguientes a la disolución del pacto.
-
-Resultan aplicables en lo conducente, para estas presunciones, los artículos 433 a 481, de este Código.
+6. (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 ###### ARTÍCULO 385
 
 7. (DEROGADO, P.O. 18 DE MARZO DE 2014)
 
-> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 385
 
-8. Es nulo el pacto civil de solidaridad celebrado sin observar algunos de los requisitos establecidos por el artículo 385-2. La nulidad es absoluta y si existe engaño o dolo, el afectado tendrá derecho a la indemnización a que se refiere el artículo 1895 de este Código.
+8. (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Es nulo igualmente, el pacto civil de solidaridad, cuando una de las partes al celebrarlo oculte deliberadamente al otro, padecer alguna de las enfermedades señaladas en el artículo 195-2, fracción III. En este caso, procede igualmente la indemnización por daños y perjuicios y daño moral, independientemente de las sanciones y condenas de índole penal. Esta nulidad prescribe en dos años a partir de que se conozca el padecimiento.
-
-En caso de error en la identidad de la persona contratante, la nulidad es relativa y debe reclamarse dentro del año siguiente a la fecha en que se tenga conocimiento del error.
-
-Es responsable solidario por el pago de estas prestaciones quien, a sabiendas o dolosamente, contribuya, auxilie o ponga una condición necesaria para la celebración de un pacto civil de solidaridad afectado de nulidad.
-
-> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 385
 
-9. En caso de muerte de uno de los compañeros civiles causada por la acción de un tercero, el supérstite estará legitimado activamente para exigir la reparación de los perjuicios patrimoniales y morales sufridos, según las reglas generales de la responsabilidad extracontractual, ya en la vía civil o penal.
+9. (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ENERO DE 2007)</small>
 
 ### CAPÍTULO IV. DEL RÉGIMEN PATRIMONIAL DEL PACTO CIVIL DE SOLIDARIDAD
 
-> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 385
 
-10. El régimen patrimonial del pacto civil de solidaridad podrá ser el de separación de bienes o el de sociedad solidaria.
+10. (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Para establecer el régimen de sociedad solidaria, es indispensable el otorgamiento de capitulaciones solidarias. Cuando los contratantes omitieren otorgar capitulaciones respectivas, se entenderá, por disposición de la ley, que el pacto civil de solidaridad se celebra bajo el régimen de separación de bienes.
-
-Los compañeros civiles, después de celebrado el pacto civil de solidaridad pueden, cambiar el régimen de separación de bienes por el de sociedad solidaria y viceversa.
-
-> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 385
 
-11. Para la constitución del régimen patrimonial dentro del pacto civil de solidaridad en sus modalidades, capitulaciones, requisitos de éste, formalidades, administración, terminación y demás, serán aplicables, en lo conducente, los artículos 283, 285, 286, 287, 290, y las Secciones Segunda y Tercera del Libro Segundo, Capítulo Tercero de este Código.
+11. (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE ENERO DE 2007)</small>
 
 ### CAPÍTULO V. DE LA TERMINACIÓN DEL PACTO CIVIL DE SOLIDARIDAD
 
-> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 385
 
-12. El pacto civil de solidaridad termina:
+12. (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Por mutuo acuerdo;
-
-II. Por acto unilateral, mediante aviso indubitable o fehaciente de terminación del pacto civil de solidaridad, dado judicialmente o ante notario público;
-
-III. Por la muerte de cualquiera de los compañeros civiles;
-
-IV. Por declaración de Nulidad.
-
-> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 385
 
-13. En el caso de la fracción I del artículo anterior, la terminación del pacto será realizado ante el titular de la Oficialía del Registro Civil donde se celebró, con las formalidades previstas en los artículos 197-17 y siguientes, de este Código. Si existe régimen patrimonial de sociedad solidaria, deberán justificar su liquidación ante el propio titular de la Oficialía del Registro Civil, que haga constar la disolución.
+13. (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2007)</small>
-
-###### ARTÍCULO 385
-
-14. Si la terminación es por acto unilateral, dentro de los quince días siguientes a la diligencia de aviso indubitable, el compañero civil interesado acudirá ante el Oficial del Registro Civil y con el acta fehaciente del aviso de terminación y la constancia de liquidación de la sociedad solidaria, si la hubiese, se procederá a levantar el acta en el Registro Civil. La terminación del Pacto Civil de Solidaridad producirá efectos a partir de la fecha del acta del Registro Civil.
-
-La omisión de presentar el aviso de terminación ante el Oficial del Registro Civil en el plazo señalado, dejará sin efectos el aviso otorgado y subsistirá el pacto civil de solidaridad hasta nuevo aviso conforme al primer párrafo del presente artículo.
-
-No procederá la terminación por acto unilateral, en los casos de incapacidad declarada de uno de los compañeros civiles o que por su situación de desventaja física, enfermedad incurable o cualquier otra análoga, necesite atención o cuidados especiales o esté impedido para proveer por sí mismo su subsistencia, salvo el caso de que se haya fijado y asegurado pensión alimenticia.
-
-> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 385
 
-15. Cuando el pacto civil de solidaridad termine por mutuo acuerdo o por acto unilateral, el compañero civil que estime haber sufrido daño o afectación en los derechos de la personalidad, con motivo o por el tiempo que estuvo unido por el contrato, podrá ejercer la acción prevista en el artículo 1895 de este Código, en contra de quien fue su compañero civil.
+14. (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Se presumirá el daño moral y por tanto habrá lugar a la indemnización a favor del afectado, además de los casos previstos en el párrafo segundo del artículo de referencia, cuando:
-
-I. Por haber cometido delito que merezca pena corporal en perjuicio del compañero civil.
-
-II. Se ejerza violencia o intimidación en el seno del hogar común.
-
-III. Se ejerza violencia o intimidación hacia los ascendientes, descendientes, parientes colaterales dentro del cuarto grado.
-
-IV. Cuando se termine el pacto civil de solidaridad porque uno de los compañeros civiles hubiese estado unido en matrimonio o Pacto Civil de Solidaridad anteriores y no disuelto.
-
-V. Cuando se oculte deliberadamente, al celebrar el pacto, padecer alguna de las enfermedades señaladas en al artículo 195-2, fracción III, y se pida la Nulidad.
-
-La acción para exigir la responsabilidad prevista en este artículo durará un año a partir de que se disuelva el pacto civil de solidaridad.
-
-> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 385
 
-16. Será competente para conocer todas las cuestiones relativas al pacto civil de solidaridad mencionadas en este Título el juez del domicilio de cualquiera de los compañeros civiles o del lugar en que se celebró el pacto o aquel en que se haya establecido el domicilio común.
+15. (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+###### ARTÍCULO 385
+
+16. (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 ## TÍTULO SEGUNDO. DEL PARENTESCO Y DE LOS ALIMENTOS
 
 ### CAPÍTULO I. DEL PARENTESCO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 386.
 
-La ley sólo reconoce los parentescos de consanguinidad y afinidad.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 387.
 
-El parentesco de consanguinidad es el que existe entre personas que descienden de un mismo progenitor.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 388.
 
-El parentesco de afinidad, es el que se contrae por matrimonio, entre el cónyuge y los parientes del otro.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Disuelto el matrimonio desaparece el parentesco por afinidad en la línea colateral; pero subsiste en la línea recta en todos los casos en que la ley se refiera a tal parentesco.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 389.
 
-La adopción plena confiere una filiación que sustituye a la de origen. El adoptado deja de pertenecer a su familia natural y se extingue el parentesco con los integrantes de ésta, así como todos sus efectos jurídicos, excepción hecha de los impedimentos para contraer matrimonio. El adoptado tiene en la familia del adoptante los mismos derechos y obligaciones de un hijo y los impedimentos matrimoniales se extienden a la familia del adoptante.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 390.
 
-Cada generación forma un grado, y la serie de grados constituye lo que se llama línea de parentesco.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 391.
 
-La línea es recta o transversal: la recta se compone de la serie de grados entre personas que descienden unas de otras: la transversal, llamada también colateral, se compone de la serie de grados entre personas que, sin descender unas de otras, proceden de un progenitor o tronco común.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 392.
 
-La línea recta es ascendente o descendente: ascendente es la que liga a una persona con su progenitor o tronco de que procede; descendente es la que liga al progenitor con los que de él proceden. La misma línea es, pues, ascendente o descendente, según el punto de partida y la relación a la que se atiende.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 393.
 
-En la línea recta los grados se cuentan por el número de generaciones, o por el de las personas excluyendo al progenitor.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 394.
 
-En la línea transversal los grados se cuentan por el número de generaciones, subiendo por una de las líneas y descendiendo por la otra; o por el número de personas que hay de uno a otro de los extremos que se consideran, excluyendo la del progenitor o tronco común.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 ### CAPÍTULO II. DE LOS ALIMENTOS
 
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 395.
 
-Para los efectos legales se entiende por alimentos: la comida, el vestido, la habitación y la asistencia en casos de enfermedad. Respecto de los menores los alimentos comprenden, además, los gastos necesarios para la educación preescolar, primaria y secundaria del alimentista, su recreación y para proporcionarle algún oficio, arte o profesión honestos y adecuados a sus circunstancias personales.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 396.
 
-La obligación de dar alimentos es recíproca. El que los da tiene a su vez el derecho de pedirlos. El derecho a recibir alimentos es personalísimo y en consecuencia es intransmisible e inembargable. La obligación alimentaria es igualmente personalísima.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 397.
 
-El derecho de recibir alimentos no es renunciable ni puede ser objeto de transacción, excepción hecha sobre las cantidades que ya sean debidas, respecto de las cuales podrá haber transacción.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 398.
 
-La obligación de dar alimentos es imprescriptible; no obstante ello, tratándose de pensiones vencidas, quedarán prescritas en los términos establecidos por este código para la prescripción de prestaciones periódicas.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 399.
 
-Los alimentos han de ser proporcionados a la posibilidad del que debe darlos y a las necesidades del que debe recibirlos. Determinados por convenio o sentencia, los alimentos tendrán un incremento automático mínimo equivalente al aumento porcentual del salario mínimo general diario vigente en el Estado, salvo que el deudor alimentario demuestre que sus ingresos no aumentaron en igual proporción. En este caso, el incremento en los alimentos se ajustará al que realmente hubiese obtenido el deudor. Estas prevenciones deberán expresarse siempre en la sentencia o convenio correspondiente.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 400.
 
-Si fueren varios los que deben dar los alimentos y todos tuvieren posibilidad para hacerlo, el juez repartirá el importe entre ellos, en proporción a sus haberes.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 401.
 
-Si sólo algunos tuvieren posibilidad, entre ellos se repartirá el importe de los alimentos; y si uno solo la tuviere, él cumplirá únicamente la obligación.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 402.
 
-Los cónyuges deben darse alimentos. La ley determinará cuando queda subsistente esta obligación en los casos de divorcio y en los demás que ella señale.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Los concubinos están obligados, en igual forma, a darse alimentos, si se satisfacen los requisitos señalados por el artículo 1079.
-
-> <small>(ADICIONADO, P.O. 12 DE ENERO DE 2007)</small>
-
-Los compañeros civiles deben darse alimentos. La ley determinará cuando queda subsistente esta obligación en los casos de terminación del pacto civil de solidaridad y en los demás que ella señale.
-
-> <small>(ADICIONADO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
-
-Los convivientes, deben darse alimentos. La ley determinará cuando queda subsistente la obligación en caso de terminación de la sociedad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 403.
 
-Los padres están obligados a dar alimentos a sus hijos menores de edad. Respecto de los hijos mayores, subsiste la obligación por el tiempo que sea necesario para la adquisición de un oficio, arte o profesión honestos, en el caso de que se encuentren imposibilitados para trabajar y carecieren de bienes suficientes para satisfacer sus necesidades alimenticias. A falta o por imposibilidad de los padres, la obligación recae en los demás ascendientes por ambas líneas que estuvieren más próximos en grado.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 404.
 
-Los hijos están obligados a dar alimentos a los padres. A falta o por imposibilidad de los hijos, lo están los descendientes más próximos en grado.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 405.
 
-A falta o por imposibilidad de los ascendientes o descendientes, la obligación recae en los hermanos por ambas líneas, en defecto de éstos, en los que fueren solamente por uno de ellas.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Faltando los parientes a que se refieren las disposiciones anteriores, tienen obligación de ministrar alimentos los parientes colaterales dentro del cuarto grado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 406.
 
-Los hermanos y demás parientes colaterales a que se refiere el artículo anterior, tienen obligación de dar alimentos a los menores, mientras éstos llegan a la edad de dieciocho años. También deben alimentar a sus parientes dentro del grado mencionado, que fueren incapaces.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 407.
 
-El adoptante y el adoptado y sus respectivos descendientes, así como los ascendientes de los adoptantes, tienen obligación de darse alimentos en los términos de los artículos que anteceden.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 408.
 
-Tienen acción para pedir el aseguramiento de los alimentos:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. El acreedor alimentario.
-
-II. El ascendiente que le tenga bajo su custodia o patria potestad.
-
-III. El tutor.
-
-IV. Los hermanos y demás parientes colaterales dentro del cuarto grado.
-
-V. El Ministerio Público.
-
-> <small>(ADICIONADA, P.O. 19 DE AGOSTO DE 2005)</small>
-
-VI. La Procuraduría de la Familia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 409.
 
-El aseguramiento podrá consistir en hipoteca, prenda, fianza, depósito de cantidad bastante a cubrir los alimentos o cualquiera otra forma de garantía suficiente a juicio del juez.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 410.
 
-Si las personas a que se refieren las fracciones II, III y IV del artículo 408 no pueden representar al acreedor alimentario en el juicio en el que se pida el aseguramiento de alimentos, se nombrará por el juez un tutor interino.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 411.
 
-El tutor interino dará garantía por el importe anual de los alimentos. Si administrare algún fondo destinado a ese objeto, por él dará la garantía legal.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 412.
 
-El obligado a dar alimentos cumple la obligación asignando una pensión competente al acreedor alimentario, o incorporándolo a la familia. Si el acreedor se opone a ser incorporado, compete al juez, según las circunstancias, fijar la manera de ministrar los alimentos.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 413.
 
-El deudor alimentista no podrá pedir que se incorpore a su familia el que debe recibir los alimentos, cuando se trate de un cónyuge divorciado que reciba alimentos del otro, y cuando haya inconveniente legal para hacer esa incorporación.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 414.
 
-La obligación de dar alimentos no comprende la de proveer de capital a los hijos para ejercer el oficio, arte o profesión a que se hubieren dedicado.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 415.
 
-El incumplimiento injustificado de la obligación alimentaria, así como el disimulo, la ocultación de bienes o cualquier otra maniobra para eludirlo, se sancionará conforme a las prescripciones del Código Penal.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2012)</small>
-
-Aquella persona que incumpla con la obligación alimentaria por un periodo de tres meses consecutivos o no, será calificado como deudor alimentario moroso, por lo que el Juez de lo Familiar ordenará al Registro Civil su inmediata inscripción en el Registro Estatal de Deudores Alimentarios Morosos.
-
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2012)</small>
-
-La cancelación de la inscripción señalada en el párrafo anterior, únicamente será procedente si el deudor alimentario moroso acredita ante el Juez de lo Familiar que han sido cubiertos en su totalidad los adeudos que la motivaron.
-
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2012)</small>
-
-Ocurrido lo anterior, el Juez de lo Familiar ordenará al Registro Civil la cancelación de la inscripción a la que hace referencia el segundo párrafo de este artículo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 416.
 
-Los patrones, administradores, gerentes de empresas, directores y jefes de oficinas y, en general todas aquellas personas que por razón de su cargo público o privado estén en condiciones de proporcionar informes a la autoridad judicial sobre la capacidad económica de los deudores alimentistas, están obligados a suministrar los datos que se les requieran y de no hacerlo en la forma y términos solicitados, incurrirán en una multa de veinte a cien días de salario mínimo general vigente en el Estado, que se duplicará en caso de reincidencia, sin perjuicio de la sanción penal en que pudieran incurrir.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 417.
 
-Las personas a que se refiere el artículo anterior responderán, además, solidariamente con los obligados directos, de los daños y perjuicios que causen al acreedor alimentista por sus informes falsos o por sus omisiones.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 418.
 
-En las mismas sanciones, además del doble pago, incurrirán, quienes se resistan a acatar las órdenes judiciales de descuento, o auxilien al obligado a ocultar o disimular sus bienes o a eludir de cualquier otro modo el cumplimiento de las obligaciones en materia de alimentos.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 419.
 
-Cuando el deudor alimentario no estuviere presente o estándolo rehusare entregar lo necesario para los alimentos de los miembros de su familia con derecho a recibirlos, se hará responsable de las deudas que éstos contraigan para cubrir esa exigencia, pero sólo en la cuantía estrictamente necesaria para ese objeto y siempre que no se trate de gastos de lujo.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 420.
 
-El cónyuge que se haya separado del otro, sigue obligado a cumplir con los gastos a que se refiere el artículo 271. En tal virtud, el que no haya dado lugar a ese hecho, podrá pedir al Juez de Primera Instancia de lo Familiar del lugar de su residencia, que obligue al otro a que le ministre los gastos por el tiempo que dure la separación en la misma proporción que lo venía haciendo hasta antes de aquélla, así como también satisfaga los adeudos contraídos en los términos del artículo anterior. Si dicha proporción no se pudiera determinar, el juez, según las circunstancias del caso, fijará la suma mensual correspondiente y dictará las medidas necesarias para asegurar su entrega y lo que ha dejado de cubrir desde que se separó.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 421.
 
-Cuando sin consentimiento del obligado a prestar alimentos los diese un extraño, éste tendrá derecho a reclamar de aquél su importe, a no ser que conste que los dio con ánimo de hacer un acto de liberalidad.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 422.
 
-Los gastos funerarios proporcionados a la condición de los familiares del difunto y a los usos de la localidad, deberán ser satisfechos al que los haga, aunque el difunto no hubiese dejado bienes, por aquéllos que hubieren tenido la obligación de alimentarlo en vida.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 423.
 
-En cuanto a los alimentos a que se refiere el artículo 421, si la persona que los presta lo hace periódicamente, la prescripción de la acción que de ellos dimane se realizará de manera escalonada, según lo establece este código para la prescripción de las prestaciones periódicas.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 424.
 
-Se suspende la obligación de dar alimentos:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Cuando el que la tiene carece de medios para cumplirla.
-
-II. Cuando el alimentista deja de necesitar los alimentos.
-
-III. Cuando la necesidad de los alimentos dependa de la conducta viciosa o de la falta de aplicación al trabajo del alimentista, mientras subsistan estas causas.
-
-IV. Si el alimentista sin consentimiento del que debe dar los alimentos, abandona la casa de éste por causas injustificadas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 425.
 
-Cesa la obligación de dar alimentos en caso de injuria, falta o daño grave inferidos por el alimentista contra el que debe prestarlos, o cuando aquél llega a la mayor edad si no está en los casos de excepción.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 426.
 
-En materia de alimentos, las resoluciones judiciales, provisionales o no, pueden modificarse cuando cambien las circunstancias de la situación de hecho que las determinaron.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE FEBRERO DE 2012)</small>
 
 ### CAPÍTULO III BIS. DEL REGISTRO ESTATAL DE DEUDORES ALIMENTARIOS MOROSOS
 
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-ARTÍCULO 426 BIS. En el Registro Estatal de Deudores Alimentarios Morosos se harán las inscripciones a que se refiere el artículo 415 de este Código. Dicho (sic) deberá contener la siguiente información:
+ARTÍCULO 426 BIS. (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Nombre, apellidos y Clave Única del Registro de Población del deudor alimentario moroso;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-II. Nombre del acreedor o acreedores alimentarios;
-
-III. Datos del acta que acrediten el vínculo entre deudor y acreedor alimentario, en su caso;
-
-IV. Cantidad del adeudo alimentario a la fecha de su inscripción;
-
-V. Órgano jurisdiccional que ordena el registro; y
-
-VI. Datos del expediente o causa jurisdiccional de la que deriva su inscripción.
-
-> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2012)</small>
-
-ARTÍCULO 426 BIS 1. La constancia a que se refiere el artículo 145 de este Código contendrá lo siguiente:
-
-I. Nombre, apellidos y Clave Única de Registro de Población del deudor alimentario moroso;
-
-II. Número de acreedores alimentarios;
-
-III. Monto de la obligación adeudada al momento de su expedición;
-
-IV. Órgano jurisdiccional que ordenó el registro; y
-
-V. Datos del expediente o causa jurisdiccional de la que deriva su inscripción.
-
-La constancia a que hace referencia este artículo, deberá ser expedida en un plazo máximo de tres días hábiles contados a partir de la fecha de solicitud respectiva.
+ARTÍCULO 426 BIS 1. (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 ### CAPÍTULO III. DE LA FILIACIÓN
 
 #### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 427.
 
-La filiación confiere e impone a los hijos y a los padres, respectivamente, los derechos, deberes y obligaciones establecidos por la ley.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 428.
 
-Los descendientes, cualquiera que sea su estado, edad y condición, deben respeto y consideración a sus ascendientes.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 429.
 
-La ley no hace ninguna distinción en los derechos de los hijos.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2004)</small>
-
-El Registro Civil en la expedición de certificados de nacimiento omitirá todo dato personal que atente contra la dignidad humana en los términos del artículo 180 de este Código.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 430.
 
-El Estado a través de la autoridad y organismo que la ley señale, debe instruir sobre los deberes y derechos inherentes a la filiación, a quienes hayan llegado a la pubertad.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 431.
 
-La filiación resulta:
-
-I. Del nacimiento.
-
-II. De las presunciones legales.
-
-III. Del reconocimiento.
-
-IV. De la adopción.
-
-V. De una sentencia que la declare.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 #### SECCIÓN SEGUNDA. DE LA FILIACIÓN QUE RESULTA DEL NACIMIENTO
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 432.
 
-Se presumen hijos del esposo:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Los nacidos de la esposa durante el matrimonio.
-
-II. Los nacidos de la esposa dentro de los trescientos días siguientes a la disolución del matrimonio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 433.
 
-El marido no puede desconocer a los hijos comprendidos en la fracción I del artículo anterior:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Si se probare que supo antes de casarse del embarazo de su futura consorte.
-
-II. Si asistió al acta de nacimiento y si ésta fue firmada por él, o contiene su declaración de no saber firmar.
-
-III. Si ha reconocido expresamente por suyo al hijo de su esposa.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 434.
 
-Contra las presunciones establecidas por el artículo 432 no se admiten más pruebas que la de haber sido físicamente imposible al marido tener acceso carnal con su mujer, en los primeros ciento veinte días de los trescientos que han precedido al nacimiento, o la esterilidad del mismo, salvo el caso de fecundación asistida.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 435.
 
-El marido no podrá desconocer a los hijos favorecidos por las presunciones establecidas en el artículo 432, alegando adulterio de la madre, aunque ésta declare contra la paternidad de aquél, a no ser que el nacimiento se le haya ocultado o que demuestre que durante los diez meses que precedieron al nacimiento, no tuvo acceso carnal con su esposa.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 436.
 
-Mientras el marido viva, únicamente él podrá reclamar contra la filiación del hijo favorecido por las presunciones establecidas en el artículo 432.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 437.
 
-El marido podrá desconocer al hijo nacido después de trescientos días contados desde que, judicialmente y de hecho, tuvo lugar la separación provisional prescrita para los casos de divorcio y nulidad, así como en el caso de separación de cuerpos ordenada judicialmente, conforme lo establecido en el artículo 372 de este código; pero la mujer, el hijo o el tutor de éste pueden sostener en tales casos que el marido es el padre.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 438.
 
-El marido podrá ejercitar también la acción de desconocimiento de la paternidad aun cuando no hayan transcurrido los trescientos días de la separación provisional, si para la fecha en que concluyó la separación de los cónyuges, ya habían transcurrido los ciento veinte primeros días de los trescientos anteriores al nacimiento.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 439.
 
-Los herederos del marido no podrán contradecir la paternidad de un hijo de éste, que se beneficie con las presunciones establecidas en las dos fracciones del artículo 432, pero podrán continuar el juicio iniciado por su causante si éste muere después de contestada la demanda.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 440.
 
-Las cuestiones relativas a la paternidad del hijo nacido después de trescientos días de la disolución del matrimonio, podrán promoverse en cualquier tiempo por la persona a quien perjudique esa paternidad.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 441.
 
-Si la viuda, la divorciada o aquélla cuyo matrimonio fuere declarado nulo, contrajese nuevas nupcias dentro del período prohibido por la ley, la filiación del hijo que naciere después de celebrado el nuevo matrimonio, se establecerá conforme a las reglas siguientes:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Se presume que el hijo es del anterior marido, si nace dentro de los trescientos días siguientes a la disolución del anterior matrimonio y antes de ciento ochenta días de la celebración del siguiente matrimonio.
-
-II. Se presume que es hijo del subsecuente marido si nace después de ciento ochenta días de la celebración del subsecuente matrimonio, aunque el nacimiento tenga lugar dentro de los trescientos días posteriores a la disolución del anterior matrimonio.
-
-III. El que negare las presunciones establecidas en las dos fracciones que preceden, deberá probar plenamente la imposibilidad física de que el hijo sea del marido a quien se atribuye.
-
-Si el hijo nace después de los trescientos días siguientes a la disolución del anterior matrimonio y antes de los ciento ochenta días contados desde la celebración del subsecuente matrimonio, no existe presunción legal alguna de paternidad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 442.
 
-El marido que negare cualquiera de las presunciones establecidas por las fracciones I y II del artículo 441, sea para contradecir la paternidad que se le atribuye a él, sea para contradecir la que se atribuye al otro esposo, deberá probar plenamente la imposibilidad física de que el hijo sea del marido o quien se atribuye.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 443.
 
-Los dos artículos anteriores no son aplicables cuando las segundas nupcias se contrajeron habiéndose exhibido el certificado médico a que se refiere el artículo 264.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 444.
 
-En todos los casos en que el marido tenga el derecho de contradecir que el nacido es hijo de su matrimonio, deberá deducir su acción dentro de sesenta días contados desde el nacimiento, si está presente; desde el día en que llegó al lugar, si estuvo ausente; o desde el día en que descubrió el engaño, si se le ocultó el nacimiento.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 445.
 
-Si el marido está bajo tutela por causa de interdicción, este derecho puede ser ejecutado por su tutor. Si éste no lo ejercitare podrá hacerlo el marido después de haber salido de la tutela, pero siempre en el plazo antes designado, que se contará desde el día en que tuvo conocimiento del hijo que dio a luz su esposa, o desde que se levantó el estado de interdicción si antes supo del nacimiento del hijo.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 446.
 
-Cuando el marido teniendo o no tutor, ha muerto sin recobrar la razón, sus herederos consanguíneos hasta el cuarto grado, bien por sucesión legítima o testamentaria, pueden contradecir la paternidad en los casos en que podría hacerlo el padre.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 447.
 
-Los herederos en el caso a que se refiere el artículo anterior, podrán contradecir la paternidad de un hijo nacido en el matrimonio o dentro de los trescientos días siguientes a la disolución del mismo, si la acción de negación de paternidad no quedó precluida para el marido, pudiendo ejercitar dichos herederos la acción precitada dentro del plazo de sesenta días contados desde aquel en que el hijo haya sido puesto en posesión de los bienes del padre, o desde que los herederos se vean turbados por el hijo en la posesión de la herencia.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 448.
 
-El desconocimiento de un hijo de parte del marido o de sus herederos, se hará por demanda ante el juez competente. Todo desconocimiento practicado de otra manera será nulo. La sola declaración de la madre no será suficiente para tenerlo por demostrado.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-La pericial biológica deberá ser decretada de oficio por el juez en beneficio del menor cuya paternidad se impugne, en los casos de que no hubiere sido solicitada por las partes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 449.
 
-En el juicio de contradicción de la paternidad serán oídos, la madre, el hijo a quien se le nombrará tutor si es menor o incapaz y el Ministerio Público.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 450.
 
-Faltando alguna de las circunstancias a que alude el párrafo tercero del artículo 31, nunca ni nadie podrá entablar demanda sobre la paternidad.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 451.
 
-La maternidad puede ser impugnada por no ser la mujer la madre del hijo que pasa por suyo.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Esta acción puede ser entablada en todo tiempo por el marido o sus herederos legítimos, por el hijo y por todo tercero que invoque interés legítimo. La mujer registrada como madre puede ejercer la acción cuando alegue suposición del parto o sustitución del nacido siempre que sea ajena a los hechos.
-
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 452.
 
-No puede haber sobre la filiación, ni transacción, ni compromiso en árbitros, pero sí sobre los derechos pecuniarios que de la filiación legalmente adquirida se pudieran deducir, sin que en este caso las concesiones que se hagan al que se dice hijo, importen la adquisición de estado de hijo de matrimonio.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 453.
 
-La filiación de los hijos favorecidos por las presunciones establecidas en los artículos 432 y 441 se prueba con la partida de nacimiento de aquéllos y el acta de matrimonio de sus padres.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 454.
 
-La filiación puede probarse, en juicio, por la posesión de estado de hijo de las personas a quienes se señalan como padres y, en defecto de esta posesión, por todos los medios ordinarios de prueba, en los siguientes casos:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Cuando no haya actas de matrimonio ni de nacimiento.
-
-II. Cuando las actas que existieren fueren:
-
-a) defectuosas
-
-b) incompletas.
-
-c) declaradas judicialmente falsas.
-
-III. Cuando en las actas existentes hubiere omisión en cuanto a los nombres o apellidos.
-
-IV. Cuando las personas a quienes se señala como padres, hubieren vivido públicamente como marido y mujer, y por ausencia o enfermedad, no les fuere posible manifestar el lugar donde se casaron.
-
-V. Cuando hayan fallecido las dos personas a quienes se señalan como padres.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 455.
 
-La posesión de estado de hijo se justificará, en todo caso, demostrando por los medios ordinarios de prueba, que el hijo ha sido tratado por el presunto padre o por la familia de éste, como hijo del primero, que ha usado constantemente el apellido del presunto padre, que éste ha proveído a su subsistencia, educación y establecimiento y que ha sido reconocido por la comunidad como tal.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 456.
 
-La acción que compete al hijo para reclamar su estado, es imprescriptible para él y sus descendientes.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 457.
 
-Probada la posesión de estado de hijo, queda demostrada la filiación de éste.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 458.
 
-La filiación de los hijos que no se benefician de las presunciones establecidas en los artículos 432 y 441, resulta, con relación a la madre, del solo hecho del nacimiento y para justificar éste, son admisibles todos los medios de prueba, pudiendo, en los juicios de intestado o de alimentos, probarse la filiación respecto a la madre dentro del mismo procedimiento.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 459.
 
-Respecto del padre, la filiación de los hijos a que se refiere el artículo anterior, se establece por el reconocimiento o por sentencia que declare la paternidad.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 460.
 
-Pueden reconocer a sus hijos, los que tenga la edad exigida para contraer matrimonio, más la edad del hijo que va a ser reconocido.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 461.
 
-El menor de edad no puede reconocer a su hijo sin el consentimiento del que o de los que ejerzan sobre él la patria potestad, o de la persona bajo cuya tutela se encuentre, o, a falta de éstos, o por su negativa injustificada, sin la autorización judicial.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 462.
 
-Puede reconocerse al hijo que aún no ha nacido y al que ya murió, si dejó descendientes; pero en este último caso el que reconoce no tiene derecho a heredar por intestado al reconocido y a sus descendientes ni a recibir alimentos de éstos.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 463.
 
-Los padres pueden reconocer, junta o separadamente, a su hijo.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 464.
 
-El reconocimiento hecho por alguno de los padres, puede ser contradicho por quien pretenda también ser padre o madre del reconocido.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 17 DE AGOSTO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 465.
 
-El reconocimiento de un hijo es declarativo de filiación, no está sujeto a modalidades, es irrevocable, pero podrá impugnarse por el hijo y por quién tenga interés legítimo. El hijo podrá hacerlo en cualquier tiempo y los demás interesados dentro del año siguiente de haber conocido el acto de reconocimiento.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Si el reconocimiento hubiese tenido lugar en testamento, en caso de que éste se revoque, no se tendrá por revocado aquél. El reconocimiento surtirá sus efectos no obstante la nulidad del testamento por defecto de forma, siempre y cuando se trate de testamento público abierto o cerrado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 466.
 
-El reconocimiento de un hijo deberá hacerse de alguno de los modos siguientes:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. En la partida de nacimiento, ante el Oficial del Registro Civil.
-
-II. En acta especial ante el mismo Oficial.
-
-III. En el acta de matrimonio de los padres; en este caso los padres tienen el deber de hacer el reconocimiento. Este deber subsiste aunque el hijo haya fallecido al celebrarse el matrimonio, si dejó descendientes.
-
-IV. En escritura pública.
-
-V. En testamento.
-
-VI. Por confesión judicial.
-
-> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2004)</small>
-
-VII. Por declaración o afirmación incidental hecha de manera clara e inequívoca en un acto realizado con otro objeto, siempre que conste en documento público.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 467.
 
-Cuando los padres reconozcan separadamente a un hijo, no podrán dejar constancia, en el acto del reconocimiento, del nombre de la persona con quien fue habido. Las palabras que contengan la revelación, se testarán de oficio, de modo que queden absolutamente ilegibles. Sin embargo, cuando al momento del registro se señale el nombre y el domicilio del posible progenitor, se informará a la Procuraduría para Niños, Niñas y la Familia para que actúe conforme a lo dispuesto en el artículo 81 de la Ley del Sistema Estatal para la Garantía de los Derechos Humanos de Niños y Niñas del Estado de Coahuila de Zaragoza.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
-
-Se exceptúa de lo dispuesto en este artículo, el reconocimiento del hijo que no ha nacido, salvo que se trate del hijo de una mujer casada, en cuyo caso no podrá efectuarse el reconocimiento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 468.
 
-El Oficial del Registro Civil, el Juez de Primera Instancia, en su caso, y el notario que consientan en la violación del artículo que precede, serán sancionados con la pena de destitución de empleo e inhabilitación para desempeñar otro, por un término que no baje de dos ni exceda de cinco años.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 469.
 
-El cónyuge podrá reconocer al hijo habido antes de su matrimonio sin el consentimiento del otro cónyuge; pero no tendrá derecho a la guarda y custodia si en su domicilio conyugal no se garantiza la integridad física y mental del hijo para lo cual deberá solicitarse la intervención del Juez Familiar o de la Procuraduría de la Familia quienes deberán valorar las condiciones del entorno conyugal y familiar del padre o madre. La madre o el padre podrá tener la guarda y custodia provisional del hijo entretanto se resuelve en definitiva conforme a las disposiciones que resulten aplicables.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 470.
 
-El hijo de una mujer casada sólo podrá ser reconocido como hijo por otra persona distinta al cónyuge, en cualquiera de los dos casos siguientes:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Cuando el cónyuge lo haya desconocido y por sentencia ejecutoriada se haya declarado que no es hijo suyo.
-
-II. Cuando la madre del hijo reconocido por otra persona distinta del cónyuge, no viva con éste y acepte ella, como padre o madre, a quien hizo el reconocimiento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 471.
 
-El hijo mayor de edad no puede ser reconocido sin su consentimiento, ni el menor sin el de su tutor, si lo tiene, o el del tutor que el juez le nombrará especialmente para el caso.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 472.
 
-Cuando los padres que no vivan juntos reconozcan al mismo tiempo al hijo, convendrán cuál de los dos ejercerá la guarda de éste, y con quién de ellos habitará; y en caso de que no lo hicieren, el juez, oyendo a los dos progenitores, resolverá lo que creyere más conveniente a los intereses del menor.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 473.
 
-Si el reconocimiento se efectúa sucesivamente por los padres y éstos no viven juntos, el que primero hubiere reconocido ejercerá la guarda del hijo, y éste habitará con él, sin perjuicio del convenio que celebren los dos progenitores y que el juez podrá modificar en beneficio del hijo, oyendo tanto a éste como a aquéllos.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 474.
 
-Si la madre contradice el reconocimiento que alguien haga de un hijo que ella reconoce como suyo, y esa contradicción se hace valer para negar al padre o madre, en su caso, los derechos que le da el reconocimiento, y el hijo fuere menor de edad, se aplicarán las siguientes disposiciones:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Se proveerá al hijo de un tutor especial; y con audiencia de éste y del que lo reconoció como hijo, se resolverá lo que proceda acerca de los derechos controvertidos.
-
-II. Quedarán a salvo los derechos del hijo para consentir en el reconocimiento del padre o en el de la madre, cuando llegue a la mayoridad.
-
-III. Quedarán también a salvo los derechos hereditarios del hijo, si los padres muriesen durante la minoridad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 475.
 
-Si la mujer ha cuidado de la lactancia del hijo, le ha dado su apellido o permitido que lo lleve y ha proveído a su educación y subsistencia, no se le podrá separar de su lado a menos que ella consienta en entregarlo o lo ordene una sentencia ejecutoriada.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 476.
 
-Cuando el hijo, siendo mayor de edad consienta en el reconocimiento de la madre, en oposición al que haya hecho el padre, no conservará ninguno de los derechos que adquirió con el reconocimiento de éste.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 477.
 
-El que reconoce a un hijo no tiene derecho:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. A alimentos, si al hacer el reconocimiento tenía necesidad de ellos.
-
-II. A heredar al hijo si el reconocimiento se hizo durante la última enfermedad de éste.
-
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 478.
 
-Está permitido al hijo y a sus descendientes investigar la maternidad, la cual puede probarse por cualquiera de los medios ordinarios. Cuando la investigación de la maternidad tenga por objeto atribuir el hijo a una mujer casada deberá fundarse en un principio de prueba contra la pretendida madre.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 479.
 
-La investigación de la paternidad está permitida:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. En los casos de rapto, estupro o violación, cuando la época del delito coincida con la de la concepción.
-
-II. Cuando el hijo tiene o tuvo la posesión de estado de hijo del presunto padre.
-
-III. Cuando el hijo haya sido concebido durante el tiempo en que la madre hacía vida marital con el presunto padre.
-
-IV. Cuando durante la gestación o el nacimiento del hijo, o después del nacimiento, la madre haya habitado con el presunto padre, bajo el mismo techo, viviendo maritalmente; y con ellos el hijo, en el último supuesto, cualquiera que sea el tiempo que haya durado la vida familiar.
-
-V. Cuando el hijo tenga a su favor cualquier otro principio de prueba contra el pretendido padre.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 480.
 
-La posesión de estado, para los efectos de la fracción II del artículo 479 se justificará demostrando, por los medios ordinarios de prueba, que al hijo se le ha permitido, por el presunto padre o por su familia, usar sus apellidos; que ha sido tratado por ellos como hijo y presentado a terceros como tal.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 481.
 
-Las acciones de investigación de maternidad o paternidad sólo pueden intentarse en vida de los padres.
-
-Si los padres hubieren fallecido durante la menor edad de los hijos, tendrán éstos el derecho de intentar la acción antes de que se cumplan cuatro años de su mayor edad.
-
-Si el hijo fallece durante la tramitación del juicio sus herederos legítimos podrán continuar la acción intentada por aquél.
-
-> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2004)</small>
-
-Si la reclamación de la filiación importa dejar sin efecto una filiación anteriormente establecida, debe, previa o simultáneamente, ejercerse la acción de impugnación de esta última.
-
-> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2004)</small>
-
-El reconocimiento del hijo por la parte demandada pone término al juicio sobre la filiación en todos aquellos casos en que el reconocimiento sea admisible, de conformidad con el presente Código.
-
-> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2004)</small>
-
-La posesión de estado debidamente acreditada, tiene el mismo valor que el reconocimiento expreso, siempre que no se desvirtúe por prueba en contrario sobre el nexo biológico, caso en el cual el juez ponderará ambas pruebas y con las demás que obren en autos, resolverá sobre la filiación que considere más verosímil.
-
-> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2004)</small>
-
-La filiación podrá ser establecida judicialmente con todo género de pruebas, incluidas la biológica que se practicará solo con propósitos de identificación y con conocimiento de las partes involucradas sobre su objeto. La negativa de éstas a someterse a dichas pruebas, se considerará como una presunción en su contra.
-
-> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2004)</small>
-
-El juez podrá negar la admisión de la prueba biológica sólo cuando, de practicarse, pueda originarse grave riesgo para la salud de quien debe sujetarse a examen, o cuando existan otros medios menos lesivos con igual eficacia para acreditar la filiación, supuestos que en todo caso deberán justificarse de manera indubitable.
-
-> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2004)</small>
-
-Los motivos de conciencia, los basados en la desconfianza y rigor científico del laboratorio o del personal sanitario encargado de realizar la prueba o la imposibilidad física o material de acudir a su práctica, debidamente acreditados, serán libremente apreciados por el juez como causas para contradecir la presunción a que se refiere el párrafo quinto de este artículo.
-
-> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2004)</small>
-
-La prueba testimonial sólo se admitirá cuando exista un principio de prueba por escrito, o cuando las presunciones o los indicios resultantes de hechos ya comprobados, sean suficientes y bastante graves par (sic) determinar su admisión.
-
-> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2004)</small>
-
-El principio de prueba por escrito resulta de documentos de familia, de registros y de cartas privadas de los padres o de actos privados o públicos provenientes de una de las partes en el litigio, o de persona que tuviere interés en él.
-
-> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2004)</small>
-
-El tribunal decidirá, por todos los medios de pruebas desahogados, la filiación que le parezca más verosímil, en atención a la posesión de estado, cuando la haya.
-
-> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2004)</small>
-
-Comprobada la filiación mediante sentencia, el hijo concebido y nacido fuera de matrimonio tiene la misma condición que el hijo nacido o concebido dentro de matrimonio con relación al padre y a la madre y a los parientes consanguíneos de ambos.
-
-> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2004)</small>
-
-El hijo concebido y nacido fuera de matrimonio cuya filiación haya sido establecida en relación con ambos progenitores, tomará los apellidos de éstos en el mismo orden que los hijos concebidos o nacidos durante el matrimonio. Si la filiación ha sido establecida con posterioridad a la partida de nacimiento, el hijo podrá usar los nuevos apellidos, caso en el cual deberá efectuarse la anotación marginal en dicha partida por el Registro Civil, mediante la presentación del instrumento o la sentencia en que conste la prueba de su filiación.
-
-> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2004)</small>
-
-Si la filiación solo se ha determinado en relación con uno de los progenitores, el hijo tiene derecho a llevar los apellidos de éste. Si el progenitor tuviera un solo apellido, el hijo tendrá derecho a repetirlo.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 #### SECCIÓN TERCERA. DE LA FILIACIÓN RESULTANTE DE LA FECUNDACIÓN HUMANA ASISTIDA
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 482.
 
-Se entiende por asistencia médica para la procreación las prácticas clínicas y biológicas que permiten la concepción in vitro, la transferencia de embriones y la inseminación artificial, así como toda técnica de efecto equivalente que permita la procreación fuera del proceso natural.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 483.
 
-Sólo podrán ser destinatarios de las técnicas de reproducción humana asistida, quienes se encuentren unidos en matrimonio o concubinato, y que después de cinco años, por razones biológicas, no hayan podido engendrar o concebir, sin que sean estériles o infértiles.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-En caso de esterilidad o infertilidad, médicamente diagnosticada, se permite a los cónyuges o concubinos la inseminación o fecundación heteróloga.
-
-Se entiende por fecundación homóloga aquella en la que los gametos son aportados por ambos cónyuges o concubinos y por fecundación heteróloga aquella en que por lo menos uno de los gametos es donado por un tercero.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 484.
 
-A los destinatarios de las técnicas de reproducción humana asistida, la Secretaría de Salud del Estado deberá entregarles una guía que contenga especialmente:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Las disposiciones legales sobre procreación asistida.
-
-II. Descripción de las técnicas.
-
-III. Las disposiciones legales relativas a la adopción y las instituciones de asistencia autorizadas para promoverla.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 485.
 
-Además de lo dispuesto en el artículo anterior, la Secretaría de Salud del Estado deberá informar a los cónyuges o concubinos:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Las posibilidades que la ley ofrece en materia de adopción.
-
-II. Las posibilidades de éxito o fracaso de las técnicas de la asistencia médica para la procreación.
-
-III. Que solo se permite la fecundación de un ovocito que deberá ser implantado.
-
-IV. Que una vez fecundado el ovocito deberá ser implantado a la solicitante.
-
-V. Que está prohibido todo diagnóstico preimplantatorio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 486.
 
-Previo al inicio del tratamiento, los cónyuges deberán dar su consentimiento en escritura pública otorgada ante notario y justificar con certificación de tres médicos especialistas en la materia, de los cuales uno lo será de la Secretaría de Salud del Estado, la necesidad de someterse a ese tratamiento. Igualmente deberán justificar el cumplimiento de lo dispuesto en los artículos 483 y 484.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Quien haya dado su consentimiento para un tratamiento de asistencia médica para la procreación no podrá impugnar la filiación, a no ser que la pretensión se base en que el hijo no nació como consecuencia del tratamiento o que el consentimiento fue privado de efecto.
-
-El concubino que prestó su consentimiento para un tratamiento de asistencia médica para la procreación esta obligado a reconocer la paternidad del hijo resultante de dicho tratamiento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 487.
 
-El consentimiento a que se refiere el artículo anterior, quedará revocado de pleno derecho con la muerte de quien lo otorgó, si antes no se hubiere producido la fecundación.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 488.
 
-Si el matrimonio se disuelve por muerte, divorcio o nulidad, la mujer no podrá ser inseminada con material genético de quien fuera su marido. Si hubiere un óvulo fecundado en forma extracorpórea, deberá ser implantado a la viuda, divorciada o a la mujer cuyo matrimonio se anuló.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Si el hijo nace dentro de los trescientos días de disuelto el matrimonio, o de que el óvulo fue implantado, quedará atribuida la paternidad a quien era el marido de la madre.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 489.
 
-Todo pacto o convención que verse sobre la procreación o gestación realizado en nombre de otra persona es inexistente.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 490.
 
-La identificación de una persona por medio de sus improntas genéticas, está permitida cuando tenga por objeto establecer o rechazar un lazo filiatorio.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-También está permitido a la persona la investigación de su origen biológico, pero tratándose de fecundación asistida heteróloga no se establecerá ningún lazo filiatorio entre el hijo y el donante de los gametos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 491.
 
-El contrato de maternidad subrogada es inexistente y por lo mismo no producirá efecto legal alguno.
-
-Si un óvulo fecundado fuese implantado en una mujer de quien no proviniera el material genético, la maternidad se atribuirá a ésta y no a quien lo aportó.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 #### SECCIÓN CUARTA. DE LA ADOPCIÓN
 
@@ -3587,87 +3273,63 @@ SUBSECCIÓN PRIMERA
 
 DISPOSICIONES GENERALES
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 492.
 
-La adopción confiere al adoptado la posesión de estado de hijo del o de los adoptantes y a éstos los deberes inherentes a la relación paterno-filial.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 493.
 
-Los mayores de 25 años, en pleno ejercicio de sus derechos pueden adoptar a uno o a más menores o incapacitados, aunque estos sean mayores de edad, siempre que el adoptante tenga diecisiete años más que el adoptado y que la adopción sea benéfica para aquellos, previa valoración psicológica y estudio socioeconómico de los adoptantes, quienes deberán acreditar, además:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2012)</small>
-
-I. Que tienen medios bastantes para proveer a la subsistencia, la educación, y el cuidado de la persona que trata de adoptarse, como hijo, según las circunstancias de la persona que trata de adoptar.
-
-II. Que la adopción es benéfica para la persona que trata de adoptarse, atendiendo al interés superior de la misma.
-
-III. Que los adoptantes son personas aptas y adecuadas para adoptar.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 494.
 
-Los cónyuges pueden adoptar, cuando los dos estén conformes en considerar al adoptado como hijo. En el caso de que uno de los contrayentes haya adoptado antes de contraer matrimonio, el otro cónyuge podrá adoptar con posterioridad a la fecha del matrimonio, al hijo adoptivo de su cónyuge, siempre que se cumpla con lo dispuesto por el artículo anterior. Si no se quiere o no se puede adoptar por no cumplir con los requisitos que establece la ley, el hijo o hijos adoptivos del cónyuge que contrajo matrimonio, vivirán con éste en el domicilio conyugal, aun cuando se oponga el otro cónyuge.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 495.
 
-Nadie puede ser adoptado por más de una persona, salvo en el caso previsto en el artículo anterior.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 496.
 
-El tutor no puede adoptar al pupilo que estuvo bajo su tutela, sino hasta después de que hayan sido definitivamente aprobadas las cuentas de la tutela.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 497.
 
-Para que la adopción pueda tener lugar deberán consentir en ella, en sus respectivos casos:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. El que ejerce la patria potestad sobre el menor que se trate de adoptar.
-
-II. El tutor del que se va a adoptar.
-
-III. Las personas que hayan acogido al que se pretende adoptar y lo traten como a hijo cuando no hubiere quien ejerza la patria potestad sobre él ni tenga tutor.
-
-IV. El Ministerio Público del lugar del domicilio del adoptado, cuando éste no tenga padres conocidos, ni tutor ni persona que ostensiblemente le imparta su protección y lo haya acogido como hijo.
-
-Si el menor que se va a adoptar tiene más de catorce años, también se necesita su consentimiento para la adopción.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2006)</small>
-
-El consentimiento otorgado en términos de ley ante la Procuraduría de la Familia o ante Notario Público, previa identificación fehaciente de quien deba otorgarlo, surtirá todos sus efectos legales sin que se requiera su posterior ratificación ante la presencia judicial.
-
-> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2005)</small>
-
-El consentimiento otorgado ante Notario Público o cualquier otro distinto de ellos ya expresados, deberá ser ratificado ante la autoridad judicial competente.
-
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 498.
 
-Si el tutor, el Ministerio Público o las personas a que se refiere la fracción III del artículo anterior, sin causa justificada no consienten en la adopción, podrán suplir el consentimiento el (sic) juez, tomando en consideración el interés superior del menor que trate de adoptarse procurando su bienestar con absoluto respeto a sus derechos fundamentales.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 499.
 
-El juez que apruebe la adopción remitirá copia de las diligencias respectivas al Oficial del Registro Civil del lugar para que levante el acta correspondiente, de acuerdo con el artículo 189.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 500.
 
-El que adopta tendrá respecto de la persona y bienes del adoptado, los mismos derechos y obligaciones que tienen los padres respecto de la persona y bienes de los hijos.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-El adoptado tendrá para con la persona o personas que lo adopten, los mismos derechos y obligaciones que tiene un hijo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2005)</small>
-
-ARTÍCULO 500 BIS. El Sistema para el Desarrollo Integral de la Familia a través del Consejo Técnico de Adopciones, conocerá de las solicitudes de adopción que se presenten ante el propio organismo en relación con los menores que se encuentren institucionalizados y en aptitud legal de ser adoptados, así como de emitir opinión respecto de las adopciones promovidas ante el Poder Judicial sobre menores no institucionalizados.
+ARTÍCULO 500 BIS. (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SUBSECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3729,27 +3391,17 @@ SUBSECCIÓN TERCERA
 
 DE LA ADOPCIÓN PLENA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 509.
 
-La adopción plena es irrevocable.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-El adoptado se equipara al hijo consanguíneo para todos los efectos legales, sujetándose a las disposiciones de la patria potestad, incluyendo los impedimentos para contraer matrimonio. El adoptado deberá llevar los apellidos de quien lo adopte y en su caso, previa solicitud, podrá autorizarse el cambio del nombre propio, en atención del interés superior del adoptado.
-
-La adopción plena extingue la filiación preexistente ante el adoptado y sus progenitores y el parentesco con las familias de éstos, salvo para los impedimentos de matrimonio. Si uno de los adoptantes está casado con alguno de los progenitores del adoptado, y se cuenta con consentimiento expreso de adopción plena, no se extinguirán los derechos, obligaciones y demás consecuencias jurídicas que resultan de la filiación consanguínea.
-
-En la adopción plena el parentesco se extenderá a todos los ascendientes y descendientes de los adoptantes.
-
-El Sistema para el Desarrollo Integral de la Familia a través de la Procuraduría de la Familia será el único facultado para promover la adopción de los menores adoptables que se encuentren en los centros o lugares de internamientos públicos o privados.
-
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 510.
 
-En la adopción plena, la resolución judicial que la apruebe, contendrá la orden al Oficial del Registro Civil, para que actúe en los términos del artículo 189 de este Código. Al levantar la nueva acta no se hará mención sobre la adopción.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3759,1467 +3411,1523 @@ SUBSECCIÓN CUARTA
 
 DE LA ADOPCIÓN INTERNACIONAL
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 511.
 
-La adopción internacional es la promovida por ciudadanos de otro país, con residencia habitual fuera del territorio nacional, y tiene como objeto incorporar en una familia a un menor de nacionalidad mexicana, que no puede encontrar una familia en su propio país de origen.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2012)</small>
-
-Esa adopción se regirá por los tratados internacionales suscritos y ratificados por el Estado Mexicano y en lo conducente por el Código Civil Federal.
-
-La adopción por extranjeros es la promovida por ciudadanos de otro país, con residencia permanente en el Estado. Esta adopción se rige por lo dispuesto en el presente Código.
-
-En igualdad de circunstancias se dará preferencia en la adopción a los mexicanos sobre los extranjeros.
-
-> <small>(ADICIONADO, P.O. 19 DE AGOSTO DE 2005)</small>
-
-El juez que conozca del caso, antes de otorgar una adopción internacional y tomando en consideración el interés superior del menor, concederá un plazo de 30 días naturales al Sistema para el Desarrollo Integral de la Familia como autoridad central en materia de adopciones, para que a través de la Procuraduría de la Familia, presente propuesta de adopción del menor en su estado o país de origen.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 ## TÍTULO TERCERO. DE LA PATRIA POTESTAD
 
 ### CAPÍTULO I. REGLAS GENERALES
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 512.
 
-Patria potestad es el conjunto de derechos y deberes recíprocos, reflejo de la filiación, que corresponde por una parte a los padres y en su defecto a los abuelos y por la otra a los descendientes menores de edad no emancipados, y cuyo objeto es su desarrollo integral, la guarda de su persona y de sus bienes, así como su representación legal. Es una función de orden público que se ejerce atendiendo al interés superior de la infancia.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 513.
 
-Los descendientes menores de edad no emancipados, están bajo la patria potestad, mientras exista alguno de los ascendientes que deban ejercerla conforme a la ley.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 514.
 
-La patria potestad es irrenunciable y no puede privarse de ella a quienes la ejercen, excepto en los casos previstos en la ley.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 515.
 
-La patria potestad se ejerce por ambos padres de manera conjunta, o por el supérstite, cuando uno de ellos haya muerto.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 516.
 
-Cuando mueran o estén impedidos los padres del menor sujeto a patria potestad, el ejercicio de ésta corresponde a los abuelos, en los términos del artículo 522.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 517.
 
-Si el hijo es adoptivo, se aplicarán, en su caso, las siguientes disposiciones:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Cuando la adopción se hizo por un matrimonio, ambos cónyuges conjuntamente ejercerán la patria potestad.
-
-II. Si el hijo sólo fue adoptado por una persona, a ésta corresponde ejercer la patria potestad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 518.
 
-Cuando los dos progenitores reconocieron a un hijo, ejercerán ambos la patria potestad.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 519.
 
-En el caso del artículo anterior, si los progenitores viven separados, se observará en cuanto a la guarda y habitación del hijo, lo que disponen los artículos 472 y 473.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 520.
 
-Cuando por cualquiera circunstancias cese de tener la guarda del hijo el ascendiente a quien correspondía y deje aquél de habitar con éste, se encargará del hijo el otro ascendiente y con éste habitará aquél.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 521.
 
-Si se separan los padres que vivían juntos al hacer el reconocimiento, convendrán quien de los dos se encargará de la guarda del hijo, y si no se ponen de acuerdo sobre este punto, se encomendará al progenitor que designe el juez y con él habitará el hijo.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 522.
 
-En el caso del artículo 516, se aplicarán las siguientes disposiciones:
-
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
-
-I. Los abuelos a quienes corresponde la patria potestad convendrán entre ellos quienes la ejercerán.
-
-II. Si no se pusieren de acuerdo los abuelos, decidirá el juez, oyendo a los ascendientes y al menor si ya cumplió catorce años.
-
-III. La resolución del juez a que se refiere la fracción anterior debe dictarse atendiendo a lo que sea más conveniente a los intereses del menor.
-
-IV. Si el abuelo o abuela por una de las líneas es viudo o casado en segundas nupcias, y los dos abuelos por la otra línea viven juntos, puede el juez conferir a éstos o a aquél la patria potestad, según sea más conveniente para el menor.
-
-V. Si la patria potestad se define por convenio o por resolución judicial a los abuelos por una línea, a falta o por impedimento de éstos, corresponderá ejercerla a los de la otra línea.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 ### CAPÍTULO II. DE LOS EFECTOS DE LA PATRIA POTESTAD
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 523.
 
-Los hijos y sus ascendientes se deben respeto y consideración recíprocos.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 524.
 
-El menor sujeto a patria potestad debe vivir con el ascendiente o ascendientes que la ejerzan.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 525.
 
-Mientras el menor esté sujeto a patria potestad no podrá dejar el domicilio familiar sin permiso de quien o quienes ejercen aquélla.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 526.
 
-Las personas que tienen al menor bajo su patria potestad deben educarlo convenientemente y tienen la facultad de corregirlo de una manera prudente y moderada; en ningún caso esta facultad implicará cualquier forma de maltrato. Las mismas personas tienen la obligación de observar una conducta que sirva a los menores de buen ejemplo.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 527.
 
-Cuando llegue a conocimiento del juez que quienes ejercen la patria potestad no cumplen con los deberes que ella les impone, dictará de oficio las medidas que correspondan en interés del sujeto a la patria potestad.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 528.
 
-El Ministerio Público y la Procuraduría de la Familia deberán promover las medidas a que se refiere el artículo anterior, cuando los hechos lleguen a su conocimiento independientemente de que hayan sido conocidas por el juez y éste no las haya dictado.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 529.
 
-El que esté sujeto a patria potestad no puede:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Contraer obligaciones sin expreso consentimiento del que o de los que ejerzan aquella función.
-
-II. Comparecer en juicio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 530.
 
-Cuando la patria potestad se ejerza a la vez por el padre y por la madre o por el abuelo y la abuela, o por los adoptantes, el administrador de los bienes del menor será nombrado por mutuo acuerdo.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 531.
 
-El administrador nombrado en la forma prevista en el artículo anterior, consultará en todos los negocios al otro ascendiente o adoptante, en su caso, y si hubiere oposición, el juez, sin forma de juicio procurará avenirlos, y si no lo lograre, resolverá lo que fuere más conveniente a los intereses del menor.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 532.
 
-Quienes ejerzan patria potestad son legítimos representantes de los que están sujetos a ellas, y tiene la administración legal de los bienes que pertenecen a aquéllos, conforme a las prescripciones de este código.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 533.
 
-Las personas que ejerzan patria potestad representarán a los menores en juicio; pero si se nombra representante a una de ellas, no podrá celebrar ningún arreglo para terminarlo, sin consentimiento expreso de su cónyuge.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 534.
 
-Cuando por ley o por voluntad del titular o titulares de la patria potestad, el menor tenga administración de bienes, se le considerará respecto de ésta como emancipado, con la restricción que establece la ley para enajenar, gravar o hipotecar bienes raíces.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 535.
 
-Los que ejercen patria potestad pueden enajenar o gravar los bienes inmuebles y muebles preciosos de propiedad del hijo, por causa de absoluta necesidad o evidente beneficio, previa autorización del juez.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 536.
 
-Quienes ejercen patria potestad no podrán:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Arrendar bienes del menor por más de tres años.
-
-II. Recibir renta anticipada del arrendamiento que celebren, por más de dos años.
-
-III. Vender títulos de rentas, valores comerciales, industriales, acciones, frutos y ganados, por menor valor del que se cotice en plaza el día de la venta.
-
-IV. Donar bienes del menor.
-
-V. Remitir voluntariamente derechos del menor.
-
-VI. Dar fianza en representación del menor.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 537.
 
-Cuando el juez conceda licencia a quienes ejercen patria potestad, para enajenar un bien inmueble o mueble precioso perteneciente al menor, tomará las medidas necesarias para que:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. El producto de la venta se dedique al objeto a que se destinó.
-
-II. El resto se invierta en la adquisición de un inmueble o se deposite en una institución de crédito o se imponga con segura hipoteca en favor del menor, según sea más conveniente para éste.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 538.
 
-Mientras se cumple lo dispuesto en la fracción I del artículo anterior o en el caso de la fracción II del mismo artículo, el precio de la venta se depositará en una institución de crédito, procurando que la suma depositada reditúe el mayor interés y la persona que ejerce la patria potestad no podrá disponer de ese dinero sin orden judicial.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 539.
 
-Lo dispuesto en el artículo 535 es aplicable a los bienes de que sea copropietario el sujeto a patria potestad.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 540.
 
-Cuando las personas que ejerzan patria potestad tengan interés opuesto al de los menores sujetos a ella, serán éstos representados en juicio y fuera de él por un tutor especial.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 541.
 
-También nombrará el juez tutor especial a cada menor, en caso de que la oposición de intereses sea entre dos o más menores, sujetos a una misma patria potestad.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 542.
 
-Las medidas establecidas por las disposiciones anteriores se dictarán como lo dispone el artículo 51.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 543.
 
-Las personas que ejercen patria potestad deben entregar a sus hijos, al llegar éstos a la mayoría de edad, o en su caso, al emanciparse, los bienes que les pertenecen y rendirles cuenta de su administración.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 ### CAPÍTULO III. DE LOS MODOS DE ACABARSE Y SUSPENDERSE LA PATRIA POTESTAD
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 544.
 
-La patria potestad se acaba:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Por la muerte o por la declaración de interdicción del que la ejerce, si no hay otra persona en quien recaiga.
-
-II. Por la emancipación del menor.
-
-III. Por llegar a la mayoría de edad el que estuvo sujeto a ella.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE DICIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 545.
 
-Los derechos que la patria potestad confiere a quien o quienes la ejerzan, se pierden:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Cuando el que la ejerza cometa algún delito grave o intencional contra el menor.
-
-II. Cuando el titular de ella sea condenado por delito intencional a una pena de prisión inconmutable.
-
-III. Cuando por las costumbres depravadas de quienes la ejerzan, malos tratamientos o abandono de sus deberes frente a sus hijos o nietos, en su caso, se pueda comprometer la salud, la seguridad o la moralidad del menor, aunque esos hechos no sean penalmente punibles.
-
-IV. Cuando el padre, madre, abuelo o abuela, en su caso:
-
-a) Expongan a su hijo o nieto menor de un año por más de un día.
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
-
-b) Abandonen, o dejen de visitar a su hijo o nieto por más de tres meses, si éste quedo a cargo de una persona. Las visitas ocasionales o intermitentes, no interrumpen el término de treinta días si no tienen el firme propósito de que el menor les sea reintegrado.
-
-c) Abandonen por más de un día a su hijo o nieto si el menor no hubiere quedado al cuidado de alguna persona y el abandono sea intencional.
-
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
-
-d) Abandone, deje de asistir y convivir injustificadamente con el menor por más de treinta días naturales, cuando este se encuentra acogido en una institución de asistencia social sea pública o privada.
-
-Las visitas ocasionales o intermitentes, no interrumpen el término de treinta días sino tienen el firme propósito de que les sea reintegrado.
-
-V. En los casos de divorcio, cuando el juez lo determine.
-
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
-
-VI. Cuando por los hábitos de juego o de embriaguez, o el uso indebido y persistente de enervantes, estupefacientes o psicotrópicos o de cualquiera otra sustancia que altere la conducta y produzca dependencia, de quienes la ejerzan, se pueda comprometer la salud, la seguridad o constituyan un serio impedimento para el adecuado desarrollo integral del menor.
-
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
-
-VII. Cuando quien la ejerza padezca alguna afección originada por enfermedad o deficiencia persistente de carácter físico, psicológico, psiquiátrico o sensorial; siempre que debido a ella afecte su conducta y pueda comprometer la salud, la seguridad o el adecuado desarrollo integral del menor.
-
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
-
-Acreditada la pérdida de la patria potestad respecto de un menor el juez en la misma sentencia deberá tomar las medidas preventivas respecto de los demás menores sobre los cuales se continúe ejerciendo la misma.
-
-> <small>(ADICIONADA, P.O. 5 DE DICIEMBRE DE 2014)</small>
-
-VIII. Cuando el que la ejerza cometa actos de violencia grave a juicio del juzgador, de forma directa o indirecta en contra de los menores.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 546.
 
-La pérdida de los derechos a que se refiere el artículo anterior se decretará:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. En el caso de la fracción I, en la sentencia que termine el proceso respectivo, mandándose suspender entre tanto la patria potestad.
-
-> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
-
-II. En los casos de las fracciones II, III, IV, VI, y VII en la sentencia del juicio civil que se siga especialmente al efecto.
-
-III. En el caso de la fracción V, en la sentencia del juicio de divorcio.
-
-La Procuraduría de la Familia podrá promover ante el Juez de lo Familiar, la tramitación de los juicios relativos a la pérdida de la patria potestad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 547.
 
-La pérdida de derechos, regulada en los dos artículos anteriores, no extingue los deberes que la patria potestad impone, en cuanto su cumplimiento no se oponga a esa pérdida, a juicio del juez.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 548.
 
-Los ascendientes que contraigan segundas nupcias, no pierden por ese hecho la patria potestad.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 549.
 
-En el caso del artículo anterior, el segundo cónyuge no ejercerá la patria potestad sobre los descendientes del matrimonio anterior.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 550.
 
-Los derechos que confiere la patria potestad se suspenden:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Por incapacidad declarada judicialmente.
-
-II. Por la ausencia declarada en forma.
-
-III. Por sentencia condenatoria que imponga como pena esta suspensión.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 551.
 
-Puede el juez, en beneficio de los menores modificar el ejercicio de la patria potestad, cuando considere que los hechos invocados y probados no son suficientes para privar o suspender al titular de ella, de los derechos que la misma patria potestad le confiere.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 552.
 
-Cuando conforme a este código deba hacerse cargo provisional o definitivamente de la guarda de un menor solamente uno de sus padres, se aplicarán las siguientes disposiciones:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. El padre y la madre convendrán quién de ellos se hará cargo de la guarda del menor y con éste habitará el hijo.
-
-II. Si los padres no llegaren a ningún acuerdo:
-
-a) Los menores de siete años quedarán al cuidado de la madre.
-
-b) El juez decidirá quién deba hacerse cargo de la guarda de los mayores de siete años, pero menores de catorce.
-
-c) Los mayores de catorce años elegirán cuál de ambos padres debe hacerse cargo de ellos y si éstos no eligen, el juez decidirá quién deba hacerse cargo de ellos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2013)</small>
-
-III. En caso de divorcio se estará a lo que disponga la autoridad judicial
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 553.
 
-Lo dispuesto en las fracciones I y II del artículo anterior no impide al juez encomendar la guarda de los menores a los abuelos, cuando ello sea conveniente para los menores mismos.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 554.
 
-En los casos de los artículos 472, 473 y 552, cuando la guarda y custodia corresponda solo a uno de los padres, o solo a uno de los abuelos, convendrán aquéllos o éstos, el tiempo, modo y lugar en que podrán visitar a los menores y comunicarse con éstos el ascendiente con el que no viva el menor y, si no llegaren a un acuerdo, resolverá el juez estas cuestiones
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2013)</small>
-
-Dentro de la convivencia de los padres, en matrimonio o divorciados, de manera recíproca deberá evitarse todo acto de manipulación de parte de cualquiera de los progenitores o ascendentes encaminado a producir en un menor de edad rechazo, rencor o distanciamiento hacia el otro progenitor.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2013)</small>
-
-Cuando el juez tenga conocimiento de este tipo de actos tomará las medidas necesarias de seguridad, seguimiento y en su caso ordenará las terapias psicológicas procedentes con el fin de salvaguardar la integridad física y emocional del menor.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 555.
 
-La patria potestad no es renunciable; pero aquellos a quienes corresponda ejercerla pueden excusarse:
-
-I. Cuando tengan setenta años cumplidos.
-
-II. Cuando por su mal estado habitual de salud, no puedan atender debidamente a su desempeño.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 ## TÍTULO CUARTO. DE LA TUTELA
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 556.
 
-Están sujetos a tutela:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. El menor que no tenga quien ejerza sobre él patria potestad.
-
-II. El mayor de edad incapaz.
-
-III. El menor emancipado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 557.
 
-El objeto de la tutela es:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. La atención, como dispone el artículo 49 de los incapaces sujetos a ella.
-
-II. La representación interina del incapaz en los casos que señala la ley.
-
-III. La representación del emancipado en los negocios judiciales de éste.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 558.
 
-La tutela es testamentaria, legítima, dativa o autodesignada.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 559.
 
-La tutela se desempeñará por el tutor con intervención del Juez de lo Familiar, del Ministerio Público y de la Procuraduría de la Familia, en los términos establecidos en este código.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 560.
 
-El cargo de tutor es voluntario; pero una vez aceptado no es renunciable sino por causa posterior a la aceptación, debidamente justificada a juicio del juez.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 561.
 
-Si el tutor, a pesar de serle desfavorable la calificación de la excusa, sin tener causa para excusarse, decide no continuar en el ejercicio del cargo, o es removido de éste por su culpa, responderá de los daños y perjuicios que al respecto se causen al incapacitado.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 562.
 
-El tutor testamentario que sin causa justificada no acepte el cargo, o ya aceptado no lo desempeñe, o sea removido de la tutela por su culpa, pierde todo lo que le haya dejado el testador, salvo si éste hubiere dispuesto lo contrario.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 563.
 
-El cónyuge y los parientes llamados a la tutela, que por su culpa no la ejerzan o que sean removidos de ella, pierden el derecho de heredar al pupilo si muere intestado.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 564.
 
-El incapaz, sujeto a tutela, no puede tener a un mismo tiempo más de un tutor definitivo.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 565.
 
-Un tutor puede desempeñar el cargo respecto de varios incapaces.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 566.
 
-Cuando los intereses de alguno o algunos de los incapaces sujetos a la misma tutela, fueren opuestos, el tutor lo pondrá en conocimiento del juez, quien nombrará un tutor especial a cada incapaz para que defienda sus intereses mientras dure la oposición.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 567.
 
-Cuando fallezca una persona que ejerza la patria potestad o la tutela sobre un incapacitado a quien deba nombrarse tutor, el ejecutor testamentario y en caso de intestado los parientes o personas con quienes haya convivido, están obligados a dar parte del fallecimiento al juez, dentro de ocho días, a fin de que se provea a la tutela.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 568.
 
-Si los obligados a dar parte del fallecimiento, en el caso del artículo anterior, no lo hacen, el juez les impondrá una multa cuyo importe será de uno a cincuenta días de salario mínimo general vigente en el Estado.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 569.
 
-Los encargados del Registro Civil y demás autoridades del Estado, deben informar al juez de los casos que conozcan, en ejercicio de sus funciones, en los que sea necesario nombrar tutor; y el juez dictará las medidas necesarias, para que se cuide provisionalmente de la persona y bienes del incapaz, hasta que se le nombre tutor.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 570.
 
-En cumplimiento de lo dispuesto en el artículo anterior, podrá el juez:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Encomendar la guarda de la persona del incapaz, menor o mayor, a una institución escolar o asistencial, oficial o particular respectivamente.
-
-II. Encargar la administración de los bienes del pupilo a una institución fiduciaria.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 571.
 
-Si las medidas ordenadas por el juez conforme al artículo que precede, continúan después de haberse nombrado tutor, éste, cualquiera que sea la clase de tutela, además de ejercer sus funciones, deberá:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Vigilar la educación, readaptación o curación en su caso que se procure al incapaz.
-
-II. Inconformar quincenal o mensualmente al juez, según lo disponga éste, de la forma en que se están realizando la educación, readaptación o curación.
-
-III. Revisar la cuenta de administración que rinda la institución fiduciaria en su caso.
-
-IV. Informar al juez, inmediatamente que advierta la comisión de una irregularidad en perjuicio del incapaz; y el juez en este caso dictará las medidas que procedan.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 572.
 
-Hecha excepción de la tutela de los niños abandonados y expósitos, ninguna otra tutela puede conferirse sin que previamente se declare, en los términos que lo disponga el Código Procesal Civil, el estado de incapacidad de la persona que va a quedar sujeta a ella.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 573.
 
-Los tutores no pueden ser removidos de su cargo sin que previamente sean oídos y vencidos en juicio.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 574.
 
-El menor de edad no sujeto a patria potestad, que se encuentre en alguno de los casos enumerados en la fracción II del artículo 48 estará sujeto a tutela de menores, mientras no llegue a la mayor edad.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 575.
 
-En el caso del artículo anterior, si al cumplirse la mayoría de edad continuare el padecimiento, el tutor nombrado seguirá en el desempeño de su cargo, mientras no se cumpla con lo dispuesto por el artículo siguiente.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 576.
 
-Si al llegar a la mayoría continúa el impedimento, el incapaz se sujetará a nueva tutela, previo juicio de interdicción, en el cual será oído el tutor anterior.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 577.
 
-En el caso del artículo anterior, el que fue tutor del menor puede ser nombrado tutor del mayor incapacitado.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 578.
 
-Si el ascendiente que ejerce patria potestad fuese judicialmente declarado incapaz, aquélla la ejercerán los ascendientes a quienes corresponda, y no habiendo en quien recayere, se proveerá al menor de tutor, que puede serlo también el del ascendiente.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 579.
 
-El cargo de tutor del mayor incapaz durará el tiempo que subsista la incapacidad, cuando el cargo sea desempeñado por los descendientes o por los ascendientes.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 580.
 
-El cónyuge del incapaz debe desempeñar el cargo de tutor de éste, mientras subsista el matrimonio.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 581.
 
-Los demás parientes del mayor incapaz, así como los extraños que desempeñen la tutela de éste, tienen derecho de que se les releve de ella a los cinco años de ejercerla.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 582.
 
-La incapacidad cesa por la muerte del mayor sujeto a ella, o por sentencia definitiva, que revoque la resolución que la haya declarado.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 583.
 
-El juez que discierna una tutela, el Ministerio Público y la Procuraduría de la Familia deben vigilar, bajo su responsabilidad, que el tutor cumpla estrictamente su función.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 584.
 
-Se concede acción pública para denunciar a las autoridades todo acto de mala conducta del tutor o de cualquiera otra persona, con relación al pupilo y a los bienes de éste.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 ### CAPÍTULO II. DE LA TUTELA TESTAMENTARIA
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 585.
 
-El ascendiente que sobreviva, de los dos que en cada grado deben ejercer la patria potestad conforme a lo dispuesto en este código, tiene derecho, aunque fuere menor, de nombrar tutor en su testamento a aquéllos sobre quienes la ejerza, con inclusión del hijo póstumo.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 586.
 
-El nombramiento de tutor testamentario hecho por el padre o por la madre, de acuerdo con el artículo anterior, excluye del ejercicio de la patria potestad a los abuelos.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 587.
 
-Si el testador excluyó de la patria potestad a los abuelos por estar incapacitados o ausentes, la tutela cesará cuando cese el impedimento o se presenten los abuelos, a no ser que el testador haya dispuesto expresamente que continúe la tutela.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 588.
 
-El testador que deje bienes a un incapaz, sea por legado, sea por herencia, puede nombrarle tutor sólo para la administración de los bienes que le deja.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 589.
 
-Si fueren varios los menores, el testador podrá nombrarles un tutor común o conferir a persona diferente la tutela de cada uno de ellos, observándose, en su caso, lo dispuesto en los artículos 564 y 565.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 590.
 
-El padre que ejerza la tutela de un hijo incapacitado mayor de edad, puede nombrarle tutor testamentario si el otro ha fallecido.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 591.
 
-Puede también el padre que ejerza la tutela de su hijo incapacitado, nombrarle tutor testamentario si el padre no puede legalmente ejercer la tutela.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 592.
 
-En el caso del artículo anterior, el otro padre, desempeñará la tutela, cuando cese la causa que le impida ser tutor. En este caso, podrá hacer el nombramiento a que se refieren los artículos 590 y 591.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 593.
 
-El adoptante que ejerza la patria potestad tiene derecho a nombrar tutor testamentario a su hijo adoptivo, en las mismas condiciones en que pueden hacerlo los padres conforme a los dos artículos anteriores.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 594.
 
-En ningún otro caso habrá tutela testamentaria del incapaz.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 595.
 
-El emancipado no estará sujeto a tutela testamentaria.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 596.
 
-Siempre que en un testamento se nombren varios tutores, desempeñará la tutela el primer nombrado, a quien substituirán los demás por el orden de su designación, en los casos de muerte, incapacidad, excusa o remoción.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 597.
 
-Lo dispuesto en el artículo anterior no regirá cuando el testador haya establecido el orden en que los tutores deben sucederse en el desempeño de la tutela.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 598.
 
-Las reglas, limitaciones y condiciones puestas por el testador para la administración de la tutela, que sean perjudiciales al incapaz sujeto a ella, serán modificadas o dispensadas por el juez en beneficio de dicho incapaz, debiéndose oír al tutor, a la Procuraduría de la Familia y al Ministerio Público.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 599.
 
-Si por un nombramiento condicional de tutor, o por cualquier otro motivo, faltare temporalmente el tutor testamentario, el juez proveerá de tutor interino al menor, conforme a las reglas generales sobre nombramiento de tutores.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 ### CAPÍTULO III. DE LA TUTELA LEGÍTIMA DE LOS MENORES
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 600.
 
-Habrá tutela legítima:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Cuando no hay quien ejerza la patria potestad.
-
-II. Cuando no hay tutor testamentario.
-
-III. Cuando deba nombrarse tutor por causa de divorcio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 601.
 
-La tutela legítima corresponde:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. A los hermanos o hermanas.
-
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
-
-II. Por falta o incapacidad de las personas mencionadas en la fracción anterior, a los tíos o tías, hermanos o hermanas de alguno de los padres.
-
-III. En el supuesto previsto por cualquiera de las dos fracciones anteriores, si hubiera varios hermanos o hermanas, o varios tíos o tías, el juez elegirá entre ellos al que le parezca más apto para el cargo; pero si el menor hubiera cumplido catorce años, él hará la elección.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 602.
 
-La falta temporal del tutor legítimo se suplirá con lo que dispone el artículo anterior.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 603.
 
-A los expósitos y abandonados se les aplicarán las siguientes disposiciones:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Tendrán como tutor, por ministerio de la ley, a la persona que por su propia voluntad se haya hecho cargo de ellos.
-
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
-
-II. La Procuraduría de la Familia, los directores de los hospicios, casa de cuna, albergues, estancias infantiles y demás centros de beneficencia donde se reciban expósitos y abandonados, desempeñarán la tutela de éstos, con arreglo a las leyes y a lo que prevengan los estatutos del establecimiento.
-
-III. En estos casos, la tutela se ejercerá por ministerio de la ley y no será necesario el discernimiento del cargo.
-
-IV. Si el menor que se encuentre en el caso previsto por este artículo, adquiere bienes, se le nombrará tutor dativo de acuerdo con lo dispuesto en el artículo 613 y siguientes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 604.
 
-El Estado, a través del Sistema para el Desarrollo Integral de la Familia y de la Procuraduría de la Familia, se hará cargo de los menores que sin ser expósitos o abandonados se encuentren en situación extraordinaria, de modo que pueda comprometerse su educación, moralidad, seguridad, o salud.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-ARTÍCULO 604 BIS.- La Procuraduría de la Familia tendrá la facultad de nombrar un hogar sustituto de forma temporal al menor que se encuentre en Situación Extraordinaria, nombramiento que deberá ser autorizado por el Juez en materia Familiar para lo cual se tendrá que demostrar la idoneidad de la familia mediante los medios de prueba que estime convenientes.
+ARTÍCULO 604 BIS. (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Un hogar sustituto es una modalidad de atención en la cual una familia seleccionada y capacitada según criterios técnicos de la Procuraduría de la Familia, acoge voluntariamente y de tiempo completo a un menor, como medida de colocación familiar, al encontrarse en situación de riesgo puesto por sus padres y abuelos biológicos, esto con la finalidad de que se le brinde un ambiente afectivo, atención integral que le garantice y restituya sus derechos.
-
-La permanencia de este niño, niña o joven en esta modalidad es de carácter temporal hasta en tanto se defina su situación jurídica, conforme a lo establecido en la legislación se defina su situación jurídica.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 605.
 
-Para los efectos de este ordenamiento, se considera expósito a aquel menor cuyo origen se desconoce y se coloque en una situación de desamparo por quienes conforme a la ley estén obligados a protegerlo; y como abandonado al menor que conociendo su origen, los que ejercen la patria potestad o tutela, dejan de cumplir con sus deberes de protección y cuidado, sin importar la posibilidad de que alguna persona o institución se haga cargo del mismo.
-
-> <small>(REFORMADO, P.O. 19 DE AGOSTO DE 2005)</small>
-
-El Estado, por conducto del Sistema para el Desarrollo Integral de la Familia a través de la Procuraduría de la Familia, debe hacerse cargo de los menores expósitos o abandonados, cuando estos carezcan del tutor a que se refiere el artículo 603.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 ### CAPÍTULO IV. DE LA TUTELA LEGITIMA DE LOS MAYORES INCAPACITADOS
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 606.
 
-Uno de los cónyuges es tutor legítimo y forzoso del otro, en caso de incapacidad de éste.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 607.
 
-Los hijos o hijas mayores de edad, son tutores cuando alguno de sus padres viudos, divorciados o solteros, estén incapacitados.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 608.
 
-Cuando haya dos o más hijos o hijas, será preferido el hijo o la hija que viva en compañía del incapaz; siendo varios los que estén en el mismo caso, el juez elegirá entre ellos a quien le parezca más apto.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 609.
 
-Los padres son de derecho tutores de sus hijos incapaces, sean divorciados, solteros o viudos, cuando éstos no tengan hijos que puedan desempeñar la tutela.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 610.
 
-Si viven ambos progenitores, deben ponerse de acuerdo, respecto de quién ejercerá la tutela, y en caso de disentimiento el juez elegirá al que le parezca más apto para el cargo.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 611.
 
-A falta de tutor testamentario y de persona que, con arreglo a los artículos anteriores, deba desempeñar la tutela, serán llamados a ella sucesivamente, los hermanos del incapaz, sus abuelos, abuelas y demás parientes del mismo a que se refiere el artículo 601, observándose en su caso lo dispuesto en el artículo 602 y, a falta de todos, el administrador del establecimiento en que se encuentre el incapaz.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 612.
 
-Debe el Estado encargarse del mayor incapaz que no tenga parientes y carezca de bienes.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 ### CAPÍTULO V. DE LA TUTELA DATIVA
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 613.
 
-La tutela es dativa:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Cuando no hay tutor testamentario ni persona a quien, conforme a la ley, corresponda la tutela legítima.
-
-II. Cuando el tutor testamentario está impedido temporalmente para ejercer su cargo, y no hay parientes de los designados en el artículo 601.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 614.
 
-Son aplicables al nombramiento de tutor dativo, las siguientes disposiciones:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. El tutor dativo será designado por el menor, si ya cumplió catorce años.
-
-II. El juez confirmará la designación si no tiene justa causa para reprobarla.
-
-III. Para reprobar un segundo nombramiento, el juez oirá a la persona en quien recaiga éste, al menor y a un defensor de éste, que el mismo menor elegirá.
-
-IV. Si tampoco se aprueba este segundo nombramiento hecho por el menor, el juez nombrará tutor conforme a lo dispuesto en la fracción siguiente.
-
-V. Si el menor no ha cumplido catorce años, o en el caso de la fracción IV anterior, el nombramiento de tutor lo hará el juez, entre las personas que en la localidad gocen de buena fama por su honorabilidad y moralidad.
-
-VI. Si el juez no hace oportunamente el nombramiento de tutor, es responsable de los daños y perjuicios que se sigan al menor por esa falta.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 615.
 
-Siempre será dativa la tutela para asuntos judiciales del menor emancipado.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 ### CAPÍTULO VI. DE LA TUTELA AUTODESIGNADA
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 616.
 
-El mayor de edad capaz tiene derecho a designar su tutor para el caso de que sea declarado incapaz. Este nombramiento excluye del ejercicio de la tutela a las personas a las que pudiera corresponderles de acuerdo con este código.
-
-La persona designada no está obligada a aceptar el cargo, aunque no tenga excusa para ello, pero si lo acepta deberá permanecer en él un año cuando menos, pasado el cual podrá solicitar al juez se le releve del mismo.
-
-Si se nombran varios tutores, desempeñará la tutela el primero de los nombrados, a quien substituirán los demás en el orden de su designación, en los casos de muerte, incapacidad, excusa, remoción, no aceptación o relevo del cargo; excepto que se haya establecido el orden en que los tutores deban sucederse en el desempeño de la tutela.
-
-La designación de tutor debe hacerse ante notario y es revocable en cualquier tiempo mediante la misma formalidad.
-
-En lo que no se opongan son aplicables al tutor autodesignado las disposiciones de la tutela en general, salvo lo dispuesto expresamente por quien lo nombre.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 ### CAPÍTULO VII. DE LOS IMPEDIMENTOS, REMOCIÓN Y EXCUSAS DE LA TUTELA
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 617.
 
-No pueden ser tutores, aunque estén anuentes en recibir el cargo:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Los menores de edad.
-
-II. Los mayores de edad que se encuentren bajo tutela.
-
-III. Los que hayan sido separados de otra tutela por la causa establecida en la fracción III del artículo siguiente.
-
-IV. Los que por sentencia que cause ejecutoria, hayan sido privados de este cargo o inhabilitados para obtenerlo.
-
-V. Los que hayan sido condenados o estén procesados por delitos contra la propiedad o por delitos infamantes.
-
-VI. Los que no tengan oficio o modo de vivir honesto, o sean notoriamente de mala conducta.
-
-VII. Los que al discernirse la tutela, tengan pleito pendiente con el incapacitado.
-
-VIII. Los deudores del incapacitado, en cantidad considerable, a juicio del juez, a no ser que quien lo nombró tutor testamentario lo haya hecho con conocimiento de la deuda, declarándolo así expresamente al hacer el nombramiento.
-
-IX. Los jueces, magistrados y demás funcionarios o empleados de la administración de justicia y del Registro Civil, ni los que estén ligados, con parentesco de consanguinidad con las mencionadas personas en línea recta sin limitación de grado y en la colateral dentro del cuarto grado inclusive, ni por afinidad sin limitación de grado en la línea recta y en la colateral hasta el segundo grado.
-
-X. Los que no estén domiciliados en el lugar en que deba ejercerse la tutela.
-
-XI. Los empleados del Fisco, que por razón de su destino tengan responsabilidad pecuniaria actual o la hayan tenido y no la hubieren cubierto.
-
-XII. Los que padezcan enfermedad crónica contagiosa.
-
-XIII. Los demás a quienes lo prohiba la ley.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 618.
 
-Serán separados de la tutela:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Los comprendidos en el artículo anterior, desde que sobrevenga o se advierta su inhabilidad.
-
-II. Los que sin haber caucionado su manejo conforme a la ley, ejerzan la administración de la tutela.
-
-III. Los que se conduzcan indebidamente o con negligencia en el desempeño de la tutela, ya sea respecto de la persona, ya respecto de la administración de los bienes del incapaz.
-
-IV. Los tutores que no rindan sus cuentas dentro del término fijado por este código.
-
-V. El tutor que sin la previa dispensa y aprobación de las cuentas de la tutela, contraiga nupcias con la persona que esté bajo su guarda.
-
-VI. El tutor que se ausente por más de seis meses del lugar en que debe desempeñar la tutela.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 619.
 
-No pueden ser tutores de las personas comprendidas en la fracción II del artículo 48, quienes hayan sido causa o fomentado directa o indirectamente tales enfermedades o padecimientos.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 620.
 
-El Ministerio Público, la Procuraduría de la Familia y los parientes del pupilo deben promover la separación de los tutores, que se encuentren en alguno de los casos previstos en los artículos 617 y 618, pero debe el juez iniciar y continuar de oficio el procedimiento de separación del tutor, si no fuere promovido por ellos, o por el mismo incapaz en su caso.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 621.
 
-Si el tutor es procesado por delito intencional, se aplicarán las disposiciones siguientes:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Cualquiera que sea el delito por el que se procese al tutor, quedará éste suspenso en el ejercicio de su encargo desde que se provea el auto de formal prisión, hasta que se pronuncie sentencia irrevocable.
-
-II. En el caso de que se trata en la fracción anterior, se proveerá a la tutela, conforme a la ley.
-
-III. Absuelto el tutor, volverá a desempeñar su encargo.
-
-IV. Si el tutor es condenado quedará separado definitivamente del cargo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 622.
 
-Pueden excusarse de ser tutores:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Los empleados y funcionarios públicos.
-
-II. Los militares en servicio activo.
-
-III. Los que tengan bajo su patria potestad tres o más descendientes.
-
-IV. Los que por ser de escasos recursos económicos, no puedan atender a la tutela.
-
-V. Los que por el mal estado habitual de su salud, o por no saber leer ni escribir, no puedan atender debidamente a la tutela.
-
-VI. Los que tengan sesenta años cumplidos.
-
-VII. Los que tengan a su cargo otra tutela.
-
-VIII. Los que por su inexperiencia en los negocios o por causa grave, a juicio del juez, no estén en aptitud de desempeñar convenientemente la tutela.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 623.
 
-El tutor debe proponer al juez, los impedimentos y excusas que tuviere, dentro de los quince días siguientes a la fecha en que se le notifique su nombramiento.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 624.
 
-Cuando el impedimento o la causa legal de excusa ocurrieren después de la aceptación de la tutela, los plazos señalados en el artículo anterior correrán desde el día en que el tutor conoció el impedimento o la causa legal de la excusa.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 625.
 
-Si el tutor tuviere dos o más excusas, las propondrá simultáneamente dentro del plazo; y si propone una sola, se tendrán por renunciadas las demás.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 626.
 
-Transcurridos los plazos a que se refieren los artículos anteriores, o aceptado el cargo por el tutor, se entiende que renuncia a las excusas que tuviere.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 627.
 
-Mientras se califica la excusa, el juez nombrará tutor interino del incapaz.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 628.
 
-El tutor testamentario que se excusare de la tutela, perderá todo derecho a lo que le haya dejado el testador, salvo si éste hubiera dispuesto lo contrario.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 629.
 
-Pierde el derecho que tenga para heredar al incapaz:
-
-I. El tutor de cualquier clase que, sin excusa, o desechada la que hubiere propuesto, no desempeñe la tutela.
-
-II. La persona a quien corresponda la tutela legítima, si legalmente citada no se presenta al juez, manifestando su parentesco con el incapaz.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 ### CAPÍTULO VIII. DE LA GARANTÍA QUE DEBEN PRESTAR LOS TUTORES PARA ASEGURAR SU MANEJO
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 630.
 
-El tutor, antes de que se le discierna el cargo, otorgará garantía para asegurar su manejo.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-El importe de la garantía será fijado por el juez con base en lo dispuesto por el artículo 631. La garantía podrá otorgarse indistintamente mediante depósito en efectivo, hipoteca, prenda o fianza.
-
-Los bienes dados en prenda se depositarán en una institución de crédito autorizada para recibir depósitos; a falta de ella se depositarán en poder de persona de notaria solvencia y honorabilidad.
-
-El depósito en efectivo se hará en una institución de crédito, imponiéndolo a interés, y la suma que por este concepto se produzca aumentará el importe de la garantía.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 631.
 
-La garantía ordenada en el artículo anterior se dará:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Por una suma igual al importe de las rentas que deban producir en dos años los bienes raíces y los réditos de los capitales invertidos.
-
-II. Por el valor de los bienes muebles, maquinaria, enseres y semovientes de las fincas rústicas.
-
-III. Por el importe de los productos de las mismas fincas en dos años, calculados por peritos, o por el término medio en un quinquenio, a elección del juez.
-
-IV. Por el importe de las utilidades anuales en las negociaciones mercantiles o industriales, calculadas por los libros, si están llevados en debida forma, o a juicio de peritos.
-
-Si los bienes del incapacitado, enumerados en las fracciones que preceden, aumentan o disminuyen durante la tutela, deberán aumentarse y podrán disminuirse las garantías otorgadas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 632.
 
-Si el tutor, dentro de tres meses después de aceptado su nombramiento, no pudiere dar la garantía por las cantidades que fija el artículo 631, se procederá al nombramiento de nuevo tutor.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 633.
 
-Durante los tres meses señalados en el artículo precedente, desempeñará la administración de los bienes un tutor interino, quien los recibirá por inventario, y sólo podrá ejecutar los actos que el juez autorice y que se limitarán a los indispensables para la conservación de los bienes y percepción de los productos.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 634.
 
-Están exceptuados de la obligación de dar garantía:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. El tutor testamentario, cuando expresamente lo haya relevado de esta obligación el testador;
-
-II. El tutor testamentario, legítimo o dativo, si el incapaz no está en posesión efectiva de sus bienes, y tenga sólo créditos o derechos litigiosos;
-
-III. El cónyuge del incapaz y el padre, madre, abuelo o abuela, en los casos en que conforme a la ley son llamados a la tutela de sus descendientes, salvo lo dispuesto en el artículo 638;
-
-IV. Los tutores a que se refieren las fracciones I y II del artículo 603, salvo que hayan recibido pensión para cuidar del menor, o cuando el tutor haya sido nombrado en cumplimiento de la fracción IV del mismo artículo;
-
-V. El tutor designado conforme al artículo 616; y
-
-VI. La Procuraduría de la Familia cuando obtenga el pago de una pensión alimenticia a favor de una persona sujeta a su cuidado de conformidad con lo dispuesto en la Ley del Sistema Estatal para la Garantía de los Derechos Humanos de Niños y Niñas del Estado de Coahuila de Zaragoza.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 635.
 
-Si el haber de varios incapaces procede de una herencia indivisa y los tutores son varios, sólo se exigirá a cada uno de ellos garantía por la parte que corresponda al incapaz o incapaces que representen.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 636.
 
-Los tutores a que se refieren las fracciones I y V del artículo 634, sólo estarán obligados a dar garantía cuando sobrevenga una causa que, a juicio del juez, haga necesaria aquélla.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 637.
 
-En el caso de la fracción II del artículo 634, luego que se realicen algunos créditos o derechos, o se recobren los bienes, aun cuando sea en parte, estará obligado el tutor a dar la garantía correspondiente.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 638.
 
-Cuando la tutela del incapaz recaiga en el cónyuge, en los ascendientes o en los hijos, no se dará garantía, salvo el caso de que el juez lo crea conveniente.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 639.
 
-Cuando el tutor sea también coheredero del incapaz, y éste no tenga más bienes que los hereditarios, no se podrá exigir al tutor otra garantía que la de su misma porción hereditaria, a no ser que esta porción no iguale a la mitad de lo que corresponde al incapaz, pues en tal caso se integrará la garantía de acuerdo con las disposiciones aplicables a ésta.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 640.
 
-La garantía que preste el tutor no impedirá que el juez, de oficio o a petición del Ministerio Público, de los parientes del sujeto a tutela o de éste, dicte las medidas que estime útiles para la conservación de los bienes del mismo incapaz.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 641.
 
-Al presentar el tutor su cuenta anual, el juez calificará la supervivencia e idoneidad de las garantías otorgadas por el tutor. Si las mismas no se actualizan, se removerá al tutor.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 642.
 
-El Ministerio Público debe exigir que el tutor garantice el manejo de la tutela, cuando esté obligado a ello y promover, anualmente, la información de la supervivencia e idoneidad de las garantías.
-
-El juez y el Ministerio Público responden subsidiariamente con el tutor, de los daños y perjuicios que sufra el incapaz por no haber exigido que se caucione el manejo de la tutela, o por no haber exigido la información y la actualización de las garantías.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 ### CAPÍTULO IX. DEL DESEMPEÑO DE LA TUTELA
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 643.
 
-El tutor está obligado:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I.- A alimentar y educar al incapaz, a cargo del patrimonio de éste.
-
-II. A destinar, de preferencia, los recursos del incapaz a la curación de sus enfermedades o a su regeneración si es un ebrio consuetudinario o abusa habitualmente de las drogas enervantes, estupefacientes, psicotrópicos o de cualquiera otra sustancia que altere la conducta y produzca dependencia.
-
-III. A formar inventario solemne y circunstanciado de cuanto constituya el patrimonio del incapaz, dentro del término que el juez designe, con intervención del Ministerio Público y del mismo incapaz si goza de discernimiento y ha cumplido catorce años de edad.
-
-IV. A administrar el caudal del incapaz. El pupilo será consultado para los actos importantes de la administración cuando es capaz de discernimiento y mayor de catorce años. La falta de consulta no perjudica a los terceros.
-
-El plazo para formar el inventario no podrá ser mayor de seis meses.
-
-V. A representar al incapaz en juicio y fuera de él en todos los actos civiles, con excepción del matrimonio, el reconocimiento de hijos, el testamento y otros estrictamente personales.
-
-VI. A solicitar oportunamente la autorización judicial para todo lo que legalmente no pueda hacer sin ella.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 644.
 
-Es aplicable a los tutores lo dispuesto por los artículos 526 y 527. El tutor destinará al menor a la profesión u oficio que éste elija según sus circunstancias. Si el tutor infringe esta disposición, puede el menor por si mismo o por conducto del Ministerio Público ponerlo en conocimiento del juez, para que dicte las medidas pertinentes.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Si el que tenía la patria potestad sobre el menor lo había dedicado a alguna profesión u oficio, el tutor no variará éstos sin la aprobación del juez, quien decidirá este punto prudentemente y oyendo en todo caso al mismo menor.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 645.
 
-Los gastos de alimentación del incapaz y de la educación en su caso del menor deben regularse de manera que nada necesario le falte, según su condición y posibilidad económica.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-El monto de tales gastos será fijado por el juez con audiencia del Ministerio Público y del tutor al entrar éste al ejercicio de su cargo, y sin perjuicio de modificarlo, según el aumento o disminución del patrimonio del incapaz y otras circunstancias. Por las mismas razones podrá el juez modificar la cantidad que el testador que nombró tutor testamentario hubiere señalado para dicho objeto.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 646.
 
-Si las rentas del menor no alcanzan a cubrir los gastos de su alimentación y educación, el juez decidirá si ha de ponérsele a aprender un oficio o adoptarse otro medio para evitar la enajenación de sus bienes y si fuere posible, sujetará a las rentas de éstos los gastos de alimentación.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 647.
 
-Si el pupilo fuese indigente o careciese de suficientes medios para los gastos que demandan su alimentación y educación en su caso, el tutor exigirá judicialmente la prestación de esos gastos a los parientes que tienen obligación legal de alimentar al incapaz. Las expensas que esto origine serán cubiertas por el deudor alimentario. Cuando el mismo tutor esté obligado a dar alimentos por razón de su parentesco con su tutelado, el Ministerio Público ejercitará la acción a que este artículo se refiere.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 648.
 
-Si el pupilo indigente no tiene personas que estén obligadas a alimentarlo, o si teniéndolas no pudieren hacerlo, el tutor, con autorización del juez, oirá el parecer del Ministerio Público, pondrá al pupilo en un establecimiento de beneficencia pública o privada en donde pueda educarse. Si esto no fuere posible, el tutor procurará que los particulares suministren trabajo al incapacitado, compatible con su edad y circunstancias personales, con la obligación de alimentarlo y educarlo. No por eso el tutor queda eximido de su cargo, pues continuará vigilando al menor, a fin de que no sufra daño por lo excesivo del trabajo, lo insuficiente de la alimentación o lo defectuoso de la educación que se le imparta.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 649.
 
-El incapacitado indigente que no pueda ser alimentado y educado por los medios previstos en los dos artículos anteriores, lo será a costa de las rentas públicas municipales o estatales, pero si se llega a tener conocimiento de que existen parientes del incapacitado que estén legalmente obligados a proporcionarle alimentos, el Ministerio Público deducirá la acción correspondiente para que se reembolse al gobierno los gastos que hubiere hecho en cumplimiento de lo dispuesto por este artículo.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 650.
 
-El tutor de los incapaces a que se refiere la fracción II del artículo 643, está obligado a presentar al juez, en el mes de enero de cada año, un certificado de dos médicos, de preferencia psiquiatras si es que los hay en la localidad, que declaren acerca del estado del individuo sujeto a interdicción, a quien para ese efecto reconocerán en presencia del juez quien se cerciorará del estado que guarda el incapacitado y tomará todas las medidas que estime convenientes para mejorar su condición.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 651.
 
-Para la seguridad, alivio y mejoría de las personas a que se refiere el artículo anterior, el tutor adoptará las medidas que juzgue oportunas, previa la autorización judicial, que se otorgará con audiencia del Ministerio Público. Las medidas que fueren muy urgentes podrán ser ejecutadas por el tutor, quien dará cuenta inmediatamente al juez para obtener la debida aprobación.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 652.
 
-La obligación de hacer inventario no puede ser dispensado ni aun por los que tienen derecho de nombrar tutor testamentario y autodesignado.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 653.
 
-Mientras que el inventario no estuviese formado, la tutela debe limitarse a los actos de mera protección a la persona y conservación de los bienes del incapaz.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 654.
 
-El tutor está obligado a inscribir en el inventario el crédito o créditos que tenga contra el incapaz; si no lo hace, pierde el derecho de cobrarlos.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 655.
 
-Los bienes que el incapaz adquiera después de la formación del inventario, se incluirán inmediatamente en él, con las mismas formalidades prescritas en la fracción III del artículo 643.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 656.
 
-Hecho el inventario, no se admitirá al tutor rendir pruebas contra él en perjuicio del incapaz, ni antes ni después de la mayor edad de éste, ya sea que litigue en nombre propio o con la representación del incapacitado.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 657.
 
-Se exceptúan de lo dispuesto en el artículo anterior los casos en que el error del inventario sea evidente o cuando se trate de un derecho claramente establecido.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 658.
 
-Si se hubiere omitido listar algunos bienes en el inventario, el menor mismo, antes o después de llegar a la mayor edad, o cualquier pariente suyo, puede ocurrir al juez pidiéndole que los bienes omitidos se listen y el juez, oído el parecer del tutor, determinará en justicia.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 659.
 
-El tutor, dentro del primer mes de ejercer su cargo, fijará, con aprobación del juez, la cantidad que haya de invertirse en gastos de administración y el número y sueldos de los dependientes necesarios. Ni el número ni el sueldo de los empleados podrá aumentarse después, sino con aprobación judicial.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 660.
 
-Lo dispuesto en el artículo anterior no libera al tutor de justificar, al rendir sus cuentas, que efectivamente han sido gastadas dichas sumas en sus respectivos objetos.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 661.
 
-Si el padre o la madre del menor ejercían algún comercio o industria, el juez, con informe de dos peritos y audiencia del Ministerio Público, decidirá si ha de continuar o no la negociación a no ser que los padres hubieren dispuesto algo sobre este punto, en cuyo caso se respetará su voluntad en cuanto no ofrezca grave inconveniente a juicio del juez.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 662.
 
-El dinero que resulte sobrante después de cubiertas las cargas y atenciones de la tutela, el que proceda de las redenciones de capitales y el que se adquiera de cualquiera otro modo, será puesto en depósito en una institución de crédito al mayor interés posible.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 663.
 
-El tutor que no cumpla con lo dispuesto con el artículo anterior, pagará los correspondientes réditos bancarios mientras no haga el depósito, pero si transcurre un mes sin que haga éste, previa audiencia del mismo tutor, será removido por el juez.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 664.
 
-Los bienes inmuebles, los derechos anexos a ellos, los muebles preciosos, las acciones, certificados de participación, obligaciones y cualquier otro título semejante, no pueden ser enajenados ni gravados por el tutor, sino por causa de absoluta necesidad o evidente utilidad del pupilo y previa audiencia del Ministerio Público y autorización judicial.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 665.
 
-Cuando la enajenación se haya autorizado para cubrir con su producto algún objeto determinado, el juez señalará al tutor un plazo dentro del cual deberá acreditar que el producto de la enajenación se ha invertido en su objeto y mientras no se haga la inversión, el precio de la venta se depositará en una institución de crédito, con el mejor rédito posible.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 666.
 
-La venta de bienes raíces de los menores y de los mayores incapaces, es nula si no se hace judicialmente en pública subasta. En la enajenación de alhajas y muebles preciosos, el juez decidirá si conviene o no la almoneda, pudiendo dispensarla, acreditada la utilidad que resulte al tutelado.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 667.
 
-Los tutores no podrán vender valores comerciales, industriales, títulos de rentas, acciones, frutos y ganados pertenecientes al incapaz, por menor valor del que se cotice en la plaza el día de la venta, ni dar fianza ni ninguna otra garantía a nombre de su tutelado.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 668.
 
-Para todos los gastos extraordinarios que no sean de conservación ni de reparación, necesita el tutor ser autorizado por el juez, con audiencia del Ministerio Público.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015).
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 669.
 
-Se requiere licencia judicial con audiencia del Ministerio Público, para que el tutor pueda transigir o comprometer en árbitros los negocios del incapaz.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 670.
 
-El nombramiento de árbitros hecho por el tutor deberá sujetarse a la aprobación del juez, con audiencia del Ministerio Público.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 671.
 
-Ni con licencia judicial, ni en almoneda o fuera de ella, puede el tutor comprar o arrendar los bienes del incapaz, ni hacer contrato alguno respecto de ellos, para sí, sus ascendientes, su cónyuge, sus descendientes o hermanos por consanguinidad o afinidad. Si lo hiciere, además de la nulidad del contrato, el acto será suficiente para que se le remueva.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 672.
 
-Cesa la prohibición establecida por el artículo anterior respecto de la venta de bienes, en el caso de que el tutor, su cónyuge o sus mencionados parientes sean coherederos, copartícipes o socios del incapaz.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 673.
 
-El tutor no podrá hacerse a sí mismo pago de sus créditos contra el incapaz, sin que el juez lo autorice, oyendo previamente al Ministerio Público.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 674.
 
-El tutor no puede aceptar para sí, a título gratuito u oneroso, la cesión de algún derecho o crédito contra el incapaz y sólo puede adquirir esos derechos por herencia.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 675.
 
-El tutor no puede dar en arrendamiento los bienes del incapaz, por más de cinco años, sino en caso de necesidad o utilidad, y previa autorización judicial otorgada con audiencia del Ministerio Público.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 676.
 
-El arrendamiento hecho de conformidad con el artículo anterior, subsistirá por el tiempo convenido, aun cuando se acabe la tutela; pero será nula toda anticipación de rentas o alquileres por más de dos años.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 677.
 
-Sin autorización judicial no puede el tutor recibir dinero prestado en nombre del incapaz, ya sea que se constituya o no hipoteca en el contrato.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 678.
 
-El tutor no puede hacer donaciones a nombre del incapaz.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 679.
 
-Durante la tutela no corre la prescripción ni la usucapión entre el tutor y el incapaz.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 680.
 
-El tutor tiene obligación de admitir las donaciones simples, legados y herencias que se hagan o dejen respectivamente al incapaz, y para aceptar las donaciones condicionales necesita de la autorización judicial, con audiencia del Ministerio Público.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 681.
 
-Cuando el tutor de un incapaz sea el cónyuge, se observarán, en sus respectivos casos, las siguientes reglas:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. En los casos en que conforme a derecho se requiera el consentimiento del cónyuge, se suplirá éste por el juez con audiencia del Ministerio Público.
-
-II. En los casos en que el cónyuge incapaz pueda querellarse contra el otro o demandarlo para asegurar sus derechos violados o amenazados, será representado por un tutor especial que el juez le nombrará y es obligación del Ministerio Público promover este nombramiento, y si no la cumple será responsable de los daños y perjuicios que se causen al incapaz.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 682.
 
-En caso de maltrato, de negligencia en los cuidados debidos al incapaz o de mala administración de sus bienes, podrá el tutor ser removido de la tutela a petición del propio incapaz, del Ministerio Público, de la Procuraduría de la Familia, o de los parientes del incapaz y aún de oficio por el juez.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 683.
 
-El tutor tiene derecho a una retribución sobre los bienes del incapaz, que podrá fijar el testador que lo nombre en su testamento y la persona que lo designó conforme al artículo 616. En el supuesto de que no se hubiera fijado y para los tutores legítimos y dativos fijará el juez la retribución, la que en ningún caso bajará de cinco ni excederá del diez por ciento de las rentas líquidas de dichos bienes.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-El tutor testamentario y el nombrado conforme al artículo 616 tiene derecho de escoger entre la retribución fijada por el juez y la retribución señalada por quien lo nombró.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 684.
 
-Si los bienes del incapaz tuvieren un aumento en sus productos, debido exclusivamente a la industria y diligencia del tutor, éste tendrá derecho a que se le aumente la remuneración hasta un veinte por ciento de los productos líquidos. La calificación del aumento se hará por el juez, con audiencia del Ministerio Público.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 685.
 
-Para que pueda hacerse, en la retribución de los tutores, el aumento extraordinario que permite el artículo anterior, será requisito indispensable que por lo menos en dos años consecutivos haya obtenido el tutor la aprobación absoluta de sus cuentas.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 686.
 
-El tutor no tendrá derecho a remuneración alguna, y restituirá lo que por este título hubiese recibido, si él o sus descendientes contraen matrimonio con el pupilo sin que hayan sido aprobadas las cuentas de la tutela.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 ### CAPÍTULO X. DE LAS CUENTAS DE LA TUTELA
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 687.
 
-El tutor está obligado a rendir al juez cuenta detallada de su administración, en el mes de enero de cada año, sea cual fuere la fecha en que se hubiere discernido el cargo. La falta de presentación de la cuenta, en los tres meses siguientes al de enero motivará la remoción del tutor.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 688.
 
-También tiene obligación de rendir cuentas cuando, por causas graves que calificará el juez, la exijan el Ministerio Público, los propios incapaces señalados en la fracción II del artículo 48 o los menores que hayan cumplido catorce años de edad.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 689.
 
-La cuenta de administración comprenderá no sólo las cantidades en numerario que hubiere recibido el tutor por producto de los bienes y la aplicación que les haya dado, sino, en general, todas las operaciones que se hubieren practicado, e irá acompañada de los documentos justificativos y de un informe del estado de los bienes.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 690.
 
-El tutor es responsable del valor de los créditos activos si dentro de sesenta días, contados desde el vencimiento de su plazo, no ha obtenido su pago o garantía que asegure éste, o no ha pedido judicialmente el uno o la otra.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 691.
 
-Si el incapaz no esta en posesión de todos los bienes a que tiene derecho, será responsable el tutor de la pérdida de los que falten, si dentro de dos meses contados desde que tuvo noticia del derecho del incapacitado, no entabla a nombre de éste las acciones conducentes para recobrar aquéllos.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 692.
 
-Lo dispuesto en el artículo anterior se entiende sin perjuicio de la responsabilidad que, después de intentadas las acciones, puede resultar al tutor por su culpa o negligencia en el desempeño de su encargo.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 693.
 
-Las cuentas deben rendirse en el lugar en que se desempeña la tutela.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 694.
 
-Deben abonarse al tutor todos los gastos hechos debida y legalmente, aunque los haya anticipado de su propio caudal y aunque de ellos no haya resultado utilidad al menor, si esto ha sido sin culpa del primero.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Ninguna anticipación ni crédito contra el incapacitado se abonará al tutor, si excede de la mitad de la renta anual de los bienes de aquél, a menos que al efecto haya sido autorizado por el juez.
-
-El tutor será igualmente indemnizado, según el prudente arbitrio del juez, del daño que haya sufrido por causa de la tutela y en desempeño necesario de ella, cuando no haya intervenido de su parte culpa o negligencia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 695.
 
-La obligación de dar cuenta no puede ser dispensada por disposición de última voluntad o por cualquier otro negocio jurídico, ni aún por el mismo tutelado; y si esa dispensa se pusiere como condición en cualquier acto, se tendrá por no puesta.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 696.
 
-El tutor que sea reemplazado por otro estará obligado, y lo mismo sus herederos, a rendir cuenta general de la tutela al que lo reemplaza y el nuevo tutor responderá al incapaz por los daños y perjuicios si no pidiere y tomare las cuentas de su antecesor.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 697.
 
-El tutor, o en su falta, quien lo represente, rendirá las cuentas generales de la tutela en el plazo de tres meses, contados desde el día en que fenezca la tutela. El juez podrá prorrogar este plazo hasta por tres meses más, si circunstancias extraordinarias así lo exigieren.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 698.
 
-La obligación de dar cuenta pasa a los herederos del tutor; y si alguno de ellos sigue administrando los bienes de la tutela, su responsabilidad será la misma que la de aquél.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 699.
 
-La garantía dada por el tutor no se cancelará sino cuando las cuentas hayan sido aprobadas.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 700.
 
-Hasta pasado un mes de la rendición de cuentas, es nulo todo convenio entre el tutor y el pupilo, relativo a la administración de la tutela o a las cuentas mismas.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 ### CAPÍTULO XI. DE LA EXTINCIÓN DE LA TUTELA
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 701.
 
-La tutela se extingue:
-
-I. Por la muerte del pupilo o porque desaparezca su incapacidad.
-
-II. Cuando el incapacitado sujeto a tutela entre a la patria potestad, por el reconocimiento o por adopción.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 ### CAPÍTULO XII. DE LA ENTREGA DE LOS BIENES
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 702.
 
-El tutor, concluida la tutela, está obligado a entregar todos los bienes del incapacitado y todos los documentos que le pertenezcan, conforme a los estados contables que se hubieren presentado en la última cuenta aprobada.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 703.
 
-La obligación de entregar los bienes no se suspende por estar pendiente la rendición de cuentas.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 704.
 
-La entrega de bienes debe hacerse durante el mes siguiente a la terminación de la tutela y cuando los bienes sean muy cuantiosos o estuvieren ubicados en diversos lugares, el juez puede fijar un término prudente para su conclusión, pero en todo caso deberá comenzar en el plazo antes señalado.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 705.
 
-El tutor que entre al cargo sucediendo a otro, está obligado a exigir la entrega de bienes y cuentas al que le ha precedido y si no lo exige, es responsable de todos los daños y perjuicios que por su omisión se siguieren al incapaz.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 706.
 
-La entrega de los bienes y la cuenta de la tutela se efectuará a expensas del incapaz. Si para realizarse no hubiere fondos disponibles, el juez podrá autorizar al tutor a fin de que proporcione él los necesarios para dicho fin, los cuales le serán reembolsados con los primeros fondos de que se pueda disponer.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 707.
 
-Cuando intervenga dolo o culpa de parte del tutor, serán de su cuenta todos los gastos.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 708.
 
-El saldo que resulte en pro o en contra del tutor, producirá interés legal. En el primer caso correrá desde que previa entrega de los bienes se haga el requerimiento legal para el pago; y en el segundo desde la rendición de cuentas, si hubiesen sido dadas dentro del término designado por la ley; y si no, desde que expire el mismo término.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 709.
 
-Cuando en la cuenta resulte algún alcance contra el tutor, aunque por un arreglo con el menor o el incapaz o sus representantes se otorguen plazos al responsable o a sus herederos para satisfacerlo, quedarán vivas las hipotecas u otras garantías dadas para la administración, hasta que se verifique el pago.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 710.
 
-Si la caución fuere de fianza, el convenio que conceda nuevos plazos al tutor se hará saber al fiador. Si éste consiente, permanecerá obligado hasta la solución; si no consiente, no habrá espera y se podrá exigir el pago inmediato o la substitución del fiador por otro igualmente idóneo que acepte el convenio.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 711.
 
-Si no se hiciere saber el convenio al fiador, éste no permanecerá obligado.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 712.
 
-Todas las acciones por hechos relativos a la administración de la tutela que el incapaz pueda ejercer contra su tutor o contra los fiadores y garantes de éste, quedan extinguidas por el lapso de dos años, contados desde el día en que se cumpla la mayor edad, o desde el momento en que se hayan recibido los bienes y la cuenta de la tutela, o desde que haya cesado la incapacidad en los demás casos previstos por la ley.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 713.
 
-Si la tutela hubiere fenecido durante la minoridad, el menor podrá ejercitar las acciones correspondientes contra el primer tutor y los que le hubieren sucedido en el cargo, computándose entonces los términos desde el día en que llegue a la mayor edad; y tratándose de los demás incapaces, los términos se computarán desde que cese la incapacidad.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 ## TÍTULO QUINTO. DEL PATRIMONIO DE LA FAMILIA
 
 ### CAPÍTULO ÚNICO
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 714.
 
-Toda familia tiene derecho a disfrutar de una vivienda digna y decorosa.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 12 DE ENERO DE 2007)</small>
-
-Para los efectos de este título, se entiende por familia a las personas que estando unidas por matrimonio, pacto civil de solidaridad o por parentesco consanguíneo, civil o afín, habitan una misma casa y tienen, por ley o voluntariamente, unidad en la administración del hogar.
-
-Para los mismos efectos se entiende por familia a las personas que viven juntos como si estuvieran casados sin estarlo y sin que exista en ellos ningún impedimento no dispensable para que contraigan matrimonio.
-
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
-
-Por lo tanto, también pueden constituir el patrimonio familiar: la madre, el padre o ambos, cualquiera de los cónyuges o ambos, cualquiera de los concubinos o ambos, la madre soltera o el padre soltero, las abuelas, los abuelos, las hijas y los hijos o cualquier persona que quiera constituirlo, para proteger jurídica y económicamente a su familia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 715.
 
-El patrimonio de la familia está compuesto por todos aquellos bienes constituidos para la satisfacción de las necesidades mínimas de subsistencia y desarrollo de los miembros del núcleo familiar en los términos de este código.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Son susceptibles de constituir el patrimonio de la familia los bienes inmuebles, y muebles, que no rebasen la cuantía determinada por el artículo 727 de este ordenamiento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 716.
 
-Las personas a que se refiere el artículo 714 y las que sean acreedoras alimentarias de ellas, tienen derecho de habitar y de aprovechar los frutos de los bienes que constituyen el patrimonio de la familia.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 717.
 
-La constitución del patrimonio de la familia no transmite la propiedad de los bienes que lo formen a quienes tienen el derecho que concede el artículo 716 y éstos sólo pueden disfrutar de esos bienes según se dispone en este código.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 718.
 
-El acreedor alimentario que no pueda ser incorporado a la familia de su deudor de alimentos, no tiene el derecho que concede el artículo 716.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 719.
 
-El derecho establecido en el artículo 716 es intransmisible, no estará sujeto a embargo ni a gravamen alguno y se extingue para el miembro de la familia del constituyente, que forme a su vez otra familia.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 720.
 
-En caso de muerte del constituyente del patrimonio de la familia, si le sobreviven personas que tengan los derechos que concede el artículo 716, continuará existiendo el citado patrimonio sin dividirse, mientras subsista el derecho de éstas o de una de ellas sobre dicho patrimonio.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 721.
 
-Los herederos del constituyente del patrimonio de la familia deben respetar el derecho concedido por las disposiciones legales a los beneficiarios de ese patrimonio, derecho que por la muerte del constituyente se convierte en usufructo parcial, el cual durará mientras subsista alguno de los beneficiarios de ese patrimonio que necesite alimentos.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 722.
 
-Los beneficiarios de los bienes afectados al patrimonio de la familia, serán representados en sus relaciones con personas extrañas a ellos, en todo lo que a ese patrimonio se refiere, por el que lo constituyó y, en su defecto, por el que nombre la mayoría.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 723.
 
-El representante de los beneficiarios del patrimonio de la familia tendrá la administración de los bienes que lo formen.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 724.
 
-A los bienes que formen parte del patrimonio de la familia, se aplicarán las siguientes disposiciones:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Son inalienables.
-
-II. No estarán sujetos a embargo ni a gravamen alguno.
-
-III. La constitución de ese patrimonio no causará ningún impuesto, contribución, derecho o carga fiscal, por la transmisión del dominio ni por su inscripción en el Registro Público.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 725.
 
-Sólo puede constituirse el patrimonio de la familia, con bienes sitos en el municipio en que está domiciliado el que lo constituye, o en los municipios conurbados a aquél.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 726.
 
-El patrimonio de la familia podrá establecerse por cualquiera de las personas a que se refiere el artículo 714 y por el tutor, cuando administre bienes pertenecientes a menores.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Por cada familia, sólo puede constituirse un patrimonio de la clase reglamentada en este capítulo, y serán inexistentes los que se constituyan subsistiendo el primero.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 727.
 
-El valor máximo de los bienes afectados al patrimonio de la familia, será el que resulte de multiplicar por 42,500 el importe del salario mínimo general diario vigente en el lugar donde se encuentren los bienes en que se constituya el patrimonio.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-El incremento que sobrevenga respecto al valor de los mismos, originado por cualquier causa, no los sustrae del régimen que los salvaguarda, por lo que tal incremento o excedente, tampoco será embargable; pero el valor original o su incremento, sí podrán disminuirse para encuadrarse dentro de los límites establecidos en este artículo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 728.
 
-Para constituir el patrimonio de la familia, el interesado presentará por escrito una solicitud al juez de su domicilio, manifestando su voluntad para la constitución, designando con toda precisión los bienes que se pretende afectar, a fin de poder acordarse oportunamente la inscripción del patrimonio en el Registro Público, y ofrecerá pruebas sobre los hechos a que se refiere el artículo siguiente.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 729.
 
-Comprobará el constituyente del patrimonio de la familia, lo siguiente:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Que es mayor de edad o que está emancipado.
-
-II. Que está domiciliado en el lugar donde se quiere constituir el patrimonio.
-
-III. La existencia de la familia a cuyo favor se va a constituir el patrimonio y que es miembro de la misma.
-
-> <small>(REFORMADA, P.O. 12 DE ENERO DE 2007)</small>
-
-IV. El parentesco o matrimonio o pacto civil de solidaridad entre los miembros de la misma familia, o las circunstancias previstas en el tercer párrafo del artículo 714.
-
-V. Que son propiedad del constituyente los bienes destinados al patrimonio de la familia y que no reportan gravámenes fuera de las servidumbres.
-
-VI. Que, en su caso, se extinguió legalmente el patrimonio de la familia constituido con anterioridad.
-
-VII. Que el valor de los bienes que van a formar ese patrimonio queda dentro de los límites del artículo 727.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 730.
 
-El valor del inmueble o inmuebles que integrarán el patrimonio de la familia, solamente se acreditará mediante avalúo catastral. Los muebles serán valuados mediante dictamen pericial.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 731.
 
-Si el inmueble destinado al patrimonio de la familia reporta gravámenes, podrá constituirse con ese bien, aunque el acreedor o los acreedores no consientan en ello; pero, en todo caso, el inmueble responderá del pago del adeudo a que se refiere el gravamen como disponga la ley.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 732.
 
-El juez instruirá a los interesados de los requisitos necesarios para la constitución del patrimonio de la familia y en caso de que advirtiere deficiencias en la solicitud a que se refieren los artículos 728 y 729, y el promovente lo pidiere o el juez advirtiere que es necesario deberá redactarla el juez mismo, haciéndola constar en acta y supliendo las mencionadas deficiencias.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 733.
 
-Si se satisfacen los requisitos exigidos por este Capítulo, el Juez, previos los trámites que fije el Código Procesal Civil, aprobará la constitución del patrimonio de la familia y mandará que se hagan las inscripciones correspondientes en el Registro Público.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 734.
 
-Cuando el valor de los bienes que forman el patrimonio de la familia sea inferior al máximo fijado en el artículo 727, podrá ampliarse el patrimonio hasta llegar a ese valor. La ampliación se sujetará al mismo procedimiento que para su constitución.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 494 PUBLICADO EN EL P.O. 1 DE JULIO DE 2016, SE ADVIERTE LA REFORMA DEL PRESENTE ARTÍCULO, A SABER: "Cuando haya peligro de que un deudor de alimentos pierda sus bienes por mala administración o porque los esté dilapidando, su cónyuge o la persona a que se refiere el párrafo tercero del artículo 714, sus acreedores alimentistas, los representantes de éstos, la Procuraduría para Niños, Niñas y la Familia y el Ministerio Público pueden exigir judicialmente que se constituya el patrimonio de la familia, hasta por los valores fijados en el artículo 727". VÉASE TEXTO ANTERIOR AL DECRETO PUBLICADO EN EL P.O. DE 15 DE DICIEMBRE DE 2015 Y REFORMADO EL 10 DE JUNIO DE 2016, EN RAZÓN A LA GRADUALIDAD DE LA DEROGACIÓN DE ESTE ARTÍCULO EN LOS DIVERSOS DISTRITOS JUDICIALES.]</small>
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 735.
 
-Cuando haya peligro de que un deudor de alimentos pierda sus bienes por mala administración o porque los esté dilapidando, su cónyuge o la persona a que se refiere el párrafo tercero del artículo 714, sus acreedores alimentistas, los representantes de éstos, la Procuraduría de la Familia y el Ministerio Público pueden exigir judicialmente que se constituya el patrimonio de la familia, hasta por los valores fijados en el artículo 727.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 736.
 
-En la constitución del patrimonio de la familia a que se refiere el artículo anterior, se observará en lo conducente lo dispuesto en los artículos 728 a 733.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 737.
 
-Con el objeto de favorecer la formación del patrimonio de la familia, se venderá a las personas que tengan capacidad legal, quieran constituirlo y no sean propietarias de un bien inmueble, las propiedades raíces que a continuación se expresan:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Los terrenos pertenecientes al Gobierno del Estado o a los municipios, que no estén destinados a un servicio público, ni sean de uso común.
-
-II. Los terrenos que el Gobierno adquiera para dedicarlos a la formación de este patrimonio, en beneficio de familias que cuenten con pocos recursos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 738.
 
-Para la adquisición de los terrenos comprendidos en lo dispuesto por la fracción I del artículo anterior, tendrá preferencia sobre cualquier otra personas (sic), quien desee constituir el patrimonio de la familia.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 739.
 
-El precio de los terrenos a que se refiere la fracción I del artículo 737, se pagará en no más de veinte anualidades, de acuerdo con las condiciones económicas del comprador, que amorticen capital y réditos, a un tipo de interés que no exceda al de interés social fijado por el Banco de México.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 740.
 
-En los casos previstos en el artículo 737 la autoridad vendedora fijará la forma y plazo para el pago del precio de los bienes vendidos, tomando en cuenta la capacidad económica del comprador.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 741.
 
-El que desee constituir el patrimonio de la familia con la clase de bienes que menciona el artículo 737, además de cumplir con los requisitos exigidos por las fracciones I, II y III del artículo 729 comprobará:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Que es mexicano.
-
-II. Su aptitud o la de sus familiares para desempeñar algún oficio, profesión, industria o comercio.
-
-III. Que él o sus familiares poseen los instrumentos y demás objetos indispensables para ejercer la ocupación a que se dediquen, en su caso de no ser asalariados.
-
-IV. El promedio de sus ingresos, a fin de que se pueda calcular, con probabilidades de acierto, que el comprador pagará el precio del terreno que se le venda.
-
-V. Que carece de bienes inmuebles.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 742.
 
-Si se demuestra posteriormente que al adquirir uno de los terrenos a que se refiere el artículo 737, quien constituyó el patrimonio de la familia con ese terreno, era propietario de otro u otros bienes raíces, la compraventa y la constitución del patrimonio serán nulas.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 743.
 
-La constitución de que trata el artículo 737, se sujetará a la tramitación administrativa que fijen los reglamentos respectivos y se inscribirá en el Registro Público una vez que sea aprobada.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 744.
 
-La constitución del patrimonio de la familia no puede hacerse en fraude de los derechos de los acreedores.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 745.
 
-Constituido el patrimonio de la familia, los miembros de ésta, mencionados en el artículo 716, deben habitar la casa que forme parte de aquél, y esa casa será el domicilio familiar. Deben también, en su caso, cultivar la parcela.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 746.
 
-Del cumplimiento de habitar la casa, según lo dispuesto en el artículo anterior, puede sustraerse la familia, sin necesidad de declaración judicial, si la persona que constituyó el patrimonio y los beneficiarios del mismo, por evidente necesidad o conveniencia, acuerdan darla en arrendamiento. Si al ocurrir lo anterior no hubiere mediado el acuerdo de referencia, el contrato pactado será nulo. Respecto a los hijos menores o personas incapaces, la responsabilidad de la determinación que se tome recae en los restantes miembros de la familia, salvo que exista persona que por declaración judicial los represente, la que en ese caso habrá de hacerlo.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 747.
 
-El patrimonio de la familia se extingue, en cualquiera de los casos siguientes:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Cuando todos los beneficiarios cesen de tener derecho de percibir alimentos.
-
-II. Cuando sin causa justificada, la familia deje de habitar, por un año, la casa que debe servirle de morada, o de cultivar por su cuenta y por dos años consecutivos, la parcela que forma parte de ese patrimonio.
-
-III. Cuando se demuestre que hay gran necesidad o notoria utilidad en la extinción del patrimonio de la familia, para quienes tienen sobre éste los derechos que concede el artículo 716.
-
-IV. Cuando se expropien los bienes que lo forman.
-
-V. Cuando tratándose del patrimonio formado con los bienes vendidos conforme al artículo 737, se declare judicialmente nula o rescindida la venta de esos bienes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 748.
 
-La declaración de que queda extinguido el patrimonio la hará el juez competente, mediante el procedimiento fijado en el Código Procesal Civil y la comunicará al Registro Público para que se hagan las cancelaciones correspondientes.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 749.
 
-En el caso de la fracción IV del artículo 747, hecha la expropiación, el patrimonio queda extinguido sin necesidad de declaración judicial, debiendo hacerse la cancelación que proceda en el Registro Público.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 750.
 
-La indemnización por la expropiación y la cantidad pagada por el seguro de un siniestro sufrido por los bienes afectados al patrimonio de la familia, se depositarán en una institución de crédito y de modo que produzca el mayor interés posible, a fin de dedicarlos a la constitución de un nuevo patrimonio de la familia, y durante un año son inembargables el precio depositado, o el importe del seguro y los intereses.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 751.
 
-Si la persona a quien se expropiaron los bienes, no constituye nuevamente el patrimonio de la familia dentro del plazo de seis meses, los beneficiarios tienen derecho a exigir judicialmente su constitución.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 752.
 
-Transcurrido un año desde que se hizo el depósito a que se refiere el artículo 750, sin que se hubiere promovido la constitución del patrimonio, la cantidad depositada se entregará al dueño de los bienes.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 753.
 
-Puede disminuirse el patrimonio de la familia:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-I. Cuando se demuestre que ello es necesario o útil para quien lo constituyó y para quienes tiene el derecho establecido por el artículo 716.
-
-II. Cuando el patrimonio familiar, por causas posteriores a su constitución, ha rebasado en mas de un doscientos por ciento el valor máximo que puede tener conforme al artículo 727.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 754.
 
-Extinguido el patrimonio de la familia, los bienes que lo formaban vuelven al pleno dominio del que lo constituyó, si la extinción se verifica en vida del mismo, y en su caso se transmitirán a los herederos del constituyente.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
+
+[N. DE E. DE CONFORMIDAD CON EL DECRETO NÚMERO 494 PUBLICADO EN EL P.O. 1 DE JULIO DE 2016, SE ADVIERTE LA REFORMA DEL PRESENTE ARTÍCULO, A SABER: "La constitución, ampliación, reducción y extinción del patrimonio de la familia voluntario también podrá llevarse a cabo por el interesado ante Notario Público del lugar donde se encuentren los bienes, quien hará constar su intervención en escritura pública cumpliendo con las disposiciones de este capítulo y de la Ley del Notariado para el Estado de Coahuila de Zaragoza.
+
+Cuando exista oposición del Ministerio Público o de la Procuraduría para Niños, Niñas y la Familia, el Notario Público suspenderá su actuación y remitirá lo actuado ante su fe a la autoridad judicial competente para que resuelva lo conducente". VÉASE TEXTO ANTERIOR AL DECRETO PUBLICADO EN EL P.O. DE 15 DE DICIEMBRE DE 2015 Y REFORMADO EL 10 DE JUNIO DE 2016, EN RAZÓN A LA GRADUALIDAD DE LA DEROGACIÓN DE ESTE ARTÍCULO EN LOS DIVERSOS DISTRITOS JUDICIALES.]
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 755.
 
-El Ministerio Público y la Procuraduría de la Familia serán oídos en la constitución, ampliación, reducción y extinción del patrimonio de la familia.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 # LIBRO TERCERO. DEL DERECHO HEREDITARIO
 
@@ -21332,3 +21040,37 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Poder Judicial del Estado de Coahuila de Zaragoza deberá realizar las acciones necesarias para la implementación de la presente reforma en un plazo que no excederá de treinta días a partir de la entrada en vigor del presente Decreto, en tanto no se realicen dichas adecuaciones, la publicación de edictos a que se refiere el mismo continuarán realizándose en los periódicos o diarios de mayor circulación.
+
+P.O. 15 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 185.- SE ADICIONAN LAS FRACCIONES VII, VIII, IX, X Y XI AL ARTÍCULO 408 DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 15 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 222.- SE ADICIONA UNA FRACCIÓN IX AL ARTÍCULO 197 Y SE ADICIONA UNA FRACCIÓN IV Y SE RECORREN LAS ANTERIORES, REFORMANDO LA FRACCIÓN VI Y IX, ADICIONÁNDOSE UN ÚLTIMO PÁRRAFO AL ARTÍCULO 261 DEL CÓDIGO CIVIL DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La reforma contenida en el presente Decreto, deberá ser tomada en consideración en el trámite legislativo de la Iniciativa con Proyecto de Decreto que crea la Ley para la Familia de Coahuila de Zaragoza y el Código de Procedimientos Familiares para el Estado de Coahuila de Zaragoza, presentada por el titular del Ejecutivo del Estado, el día 28 de Enero de 2015.
+
+P.O. 15 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 229.- SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DEL CÓDIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA ASÍ COMO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor 180 días después de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.-Todos los juicios en trámite o que se inicien hasta antes de la entrada en vigor de este decreto, se rigen hasta su conclusión por el Código Procesal Civil para el Estado de Coahuila de Zaragoza vigente en la fecha que se iniciaron.
+
+TERCERO.- Se derogan las disposiciones que se opongan al presente decreto.
