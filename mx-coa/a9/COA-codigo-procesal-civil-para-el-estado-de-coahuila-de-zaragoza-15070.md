@@ -4,7 +4,7 @@ identifier: "COA-codigo-procesal-civil-para-el-estado-de-coahuila-de-zaragoza-15
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-29"
-last_updated: "2015-09-22"
+last_updated: "2015-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15070&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 29 de junio de 1999.
 
@@ -155,15 +155,19 @@ La observancia de las normas procesales es de orden público. En consecuencia, p
 
 Sin embargo, con las limitaciones por él previstas, las partes podrán aceptar en forma expresa o tácita la prórroga de competencia por razón de territorio; solicitar al juzgador por una sola vez, la suspensión del procedimiento o la ampliación de algún plazo; dejar de utilizar los recursos previstos, o en general, renunciar a los derechos y a las obligaciones no esenciales dentro del procedimiento, cuando la ley se los autorice, exista conformidad entre ellas y no se afecten derechos de terceros.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 15.
 
 Ámbito espacial y material de aplicación.
 
-Las disposiciones de este código se aplicarán a los procesos y procedimientos civiles y familiares que se tramiten y resuelvan ante los órganos del Poder Judicial del Estado de Coahuila.
+Las disposiciones de este código se aplicarán a los procesos y procedimientos civiles, y a los familiares en cuanto los complementen, que se tramiten y resuelvan ante los órganos del Poder Judicial del Estado de Coahuila.
 
 En dichos procesos y procedimientos deberán respetarse las leyes, los tratados y convenciones internacionales en vigor, según lo ordena el artículo 133 de la Constitución Política de los Estados Unidos Mexicanos.
 
-El procedimiento será de estricto Derecho.
+El procedimiento civil será de estricto Derecho.
 
 ###### ARTÍCULO 16.
 
@@ -447,23 +451,29 @@ V. Aquel en cuyo territorio radica un juicio sucesorio, para conocer de la deman
 
 VI. En los concursos de acreedores, el juzgado del domicilio del deudor.
 
-VII. En los negocios relativos a la tutela de menores e incapacitados, el juzgado de la residencia de éstos, para la designación de tutor y en los demás casos, el del domicilio del tutor designado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-VIII. En los negocios para suplir el consentimiento de quien ejerza la patria potestad o sobre impedimentos para contraer matrimonio, el del lugar en donde se hayan presentado los pretendientes.
+VII. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-IX. Para decidir las diferencias conyugales; los juicios de nulidad de matrimonio y los casos de violencia familiar, el del domicilio conyugal.
+VIII. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2013)</small>
+IX. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2015)
 
-X. En los juicios de divorcio y respecto de todas las cuestiones reclamadas en éste, el del domicilio conyugal; si no lo hubiere, el del solicitante.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XI. En los juicios de alimentos, el del domicilio del acreedor alimentario.
+X. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2015)
 
-XII. En las controversias sobre anulación o rectificación de actas del estado civil, el tribunal del domicilio del Oficial del Registro Civil.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+XI. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+XII. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2015)
 
 XIII. En los litigios entre condóminos, el juzgado del lugar donde se encuentren los bienes en condominio y entre copropietarios el del lugar en donde se hayan (sic) los bienes indivisos o la mayor parte de ellos.
 
@@ -481,9 +491,9 @@ XIX. Cuando sean varios los demandados y tuvieren diversos domicilios, será com
 
 XX. Si se tratare de demandas que afecten el patrimonio de personas que no tengan domicilio dentro de la República, será competente el tribunal en cuyo territorio tenga sus bienes el demandado o se encuentre el objeto del litigio.
 
-> <small>(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XXI. En los procedimientos, tratándose de menores acogidos en una institución de asistencia social sea publica o privada, serán juzgados competentes los del Estado donde se haya establecido el domicilio del menor.
+XXI. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2015)
 
 #### SECCIÓN QUINTA. Competencia por razón de conexidad
 
@@ -555,11 +565,15 @@ Competencia por grado.
 
 La competencia por grado tiene lugar, cuando a raíz de un recurso interpuesto por la parte agraviada contra una resolución judicial de primera instancia que le perjudica; un tribunal superior puede revisarla y decretar su eventual revocación o modificación, en los casos en que este código lo autorice.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 51.
 
 Competencia por razón subjetiva de los justiciables.
 
-Atenta la condición de los sujetos del Derecho de Familia, este código y la Ley Orgánica del Poder Judicial del Estado de Coahuila, especificarán la competencia personal de los que solicitan se administre justicia. De los conflictos sobre estado o capacidad de las personas y en general de las cuestiones familiares que requieran intervención judicial, sea cual fuere el interés pecuniario que de ellas dimanare, conocerán los Juzgados de lo Familiar.
+Atenta la condición de los sujetos del Derecho de Familia, este código y la Ley Orgánica del Poder Judicial del Estado de Coahuila, especificarán la competencia personal de los que solicitan se administre justicia.
 
 ###### ARTÍCULO 52.
 
@@ -917,11 +931,15 @@ V. El Ministerio Público, la Procuraduría de la Familia y los Defensores de lo
 
 VI. Cualquiera de los integrantes de un grupo afectado, que garantice una adecuada defensa para el interés general, o las instituciones, asociaciones o agrupaciones privadas, no políticas ni gremiales, especializadas en la defensa de los intereses sociales colectivos, cuando se trata de la tutela de intereses difusos, de grupos indeterminados que no constituyan una persona moral.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 90.
 
-Personas facultadas para comparecer por los incapaces o ausentes.
+Personas facultadas para comparecer por los que no tengan capacidad procesal o ausentes.
 
-Por las personas físicas que no tengan capacidad procesal, comparecerán sus representantes legítimos o quienes deban suplir su incapacidad conforme a derecho. En los casos en que la ley lo determine, el juzgador de oficio, o a petición de parte legítima, o del Ministerio Público, proveerá el nombramiento de tutor especial para los menores e incapacitados a fin de que los representen en un juicio determinado. Los ausentes o ignorados serán representados de acuerdo a lo dispuesto por el Código Civil.
+Por las personas físicas que no tengan capacidad procesal, comparecerán sus representantes legítimos o quienes deban asistirlos conforme a derecho. En los casos en que la ley lo determine, el juzgador de oficio, o a petición de parte legítima, o del Ministerio Público, proveerá el nombramiento de tutor especial para los niños o las niñas, o la persona mayor de edad que requiera asistencia para el ejercicio de su capacidad jurídica, a fin de que los representen en un juicio determinado. Los ausentes o ignorados serán representados de acuerdo a lo dispuesto por el Código Civil.
 
 ###### ARTÍCULO 91.
 
@@ -929,9 +947,17 @@ Cambios en la capacidad de las partes.
 
 Cuando durante el proceso ocurran cambios en la capacidad de las partes, se observará lo siguiente:
 
-I. Si la parte deviniere incapaz durante el procedimiento, los actos posteriores a la declaración serán nulos. Los actos anteriores sólo serán anulables, si la incapacidad fuere notoria cuando estos tuvieron lugar.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-II. Si deviniere capaz una parte que no lo era, se seguirá con ella el procedimiento, pero los actos consumados antes de la comparecencia de la misma serán válidos, con independencia de las reclamaciones que ésta pudiera tener contra quien actuó como su representante.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+I. Si la parte requiriere asistencia o representación para el ejercicio de su capacidad jurídica durante el procedimiento, los actos posteriores a la declaración serán nulos. Los actos anteriores sólo serán anulables si la necesidad de asistencia o representación fuere notoria cuando éstos tuvieron lugar.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+II. Si una parte dejare de requerir asistencia o representación para el ejercicio de su capacidad jurídica, se seguirá con ella el procedimiento, pero los actos consumados antes de la comparecencia de la misma serán válidos, con independencia de las reclamaciones que ésta pudiera tener contra quien actuó como su representante.
 
 ###### ARTÍCULO 92.
 
@@ -1535,7 +1561,11 @@ Personas impedidas para ser peritos traductores.
 
 No pueden ser peritos traductores, bajo pena de nulidad:
 
-I. El menor de edad, el sujeto a interdicción, el inhabilitado y el que este afectado de sus facultades mentales.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+I. Los niños y las niñas, el sujeto a interdicción, el inhabilitado y el que esté afectado de sus facultades mentales.
 
 II. Quien no puede ser asumido como testigo, o ha sido llamado a declarar como tal, o a prestar oficio de perito en el mismo procedimiento.
 
@@ -1859,17 +1889,19 @@ La resolución que decida el incidente será apelable en el efecto devolutivo.
 
 ### CAPÍTULO SEGUNDO. Tiempo y lugar
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 187.
 
 Días y horas hábiles.
 
 Las actuaciones judiciales se practicarán en días y horas hábiles.
 
-Son días hábiles todos los del año, menos los sábados y domingos; aquellos que las leyes declaren festivos y los de vacaciones de los tribunales; así como los en (sic) que éstos, de hecho, suspendan sus labores.
+Son días hábiles todos los del año, menos los sábados y domingos; aquellos que las leyes declaren festivos y los de vacaciones de los tribunales; así como los en que (sic) éstos, de hecho, suspendan sus labores.
 
 Se entenderán como horas de labores de los tribunales las que medien entre las nueve y quince horas y entre las diecisiete y las diecinueve horas. Para las actuaciones que se practiquen fuera de la sede del tribunal o juzgado, serán horas hábiles las que medien entre las siete y las diecinueve horas. Iniciada una diligencia en hora hábil, podrá concluirse válidamente en horas inhábiles, sin necesidad de determinación especial del juzgador.
-
-En todos los juicios sobre cuestiones familiares y sobre el estado civil de las personas, interdictos posesorios y los demás que determinen las leyes, no habrá días ni horas inhábiles.
 
 ###### ARTÍCULO 188.
 
@@ -2187,6 +2219,10 @@ Constancia en el expediente de la notificación por lista.
 
 En el tribunal y en los juzgados, los funcionarios o empleados que determine el juzgador harán constar en el expediente respectivo que se hizo la publicación y que causo estado la notificación por medio de lista. La infracción a este precepto será motivo para que se imponga al responsable la corrección disciplinaria que corresponda conforme a lo que dispone el artículo 174; pero no será causa de nulidad de las actuaciones judiciales respectivas.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 221.
 
 Notificación por edictos.
@@ -2199,13 +2235,7 @@ II. Cuando se trate de personas cuyo domicilio se ignora.
 
 III. En todos los demás casos previstos por la ley.
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
-
-En los casos de las fracciones I y II, los edictos se publicarán por tres veces de tres en tres días, en el Periódico Oficial y en el portal electrónico destinado para ello, haciéndose saber que debe presentarse el citado dentro de un término que no será menor de quince ni excederá de sesenta días.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
-
-Tratándose de juicio de pérdida de patria potestad el término para que el demandado comparezca a juicio no será menor de diez ni excederá de quince días.
+En los casos de las fracciones I y II los edictos se publicarán por tres veces de tres en tres días, en el Periódico Oficial y en el portal electrónico destinado para ello, haciéndose saber que debe presentarse el citado dentro de un término que no será menor de quince ni excederá de sesenta días.
 
 > <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
@@ -2497,7 +2527,11 @@ Modificación de resoluciones judiciales.
 
 Las resoluciones judiciales dictadas con el carácter de provisionales pueden modificarse en la sentencia definitiva.
 
-Las resoluciones judiciales firmes dictadas en negocios de alimentos, ejercicio y suspensión de la patria potestad, interdicción y demás procedimientos y las demás que prevengan las leyes, pueden alterarse y modificarse cuando cambien las circunstancias que mediaron para el ejercicio de la pretensión que se dedujo en el juicio correspondiente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+Las resoluciones judiciales firmes dictadas pueden alterarse y modificarse en los procedimientos en los que así prevengan las leyes, cuando cambien las circunstancias que mediaron para el ejercicio de la pretensión que se dedujo en el juicio correspondiente.
 
 ###### ARTÍCULO 253.
 
@@ -3249,111 +3283,95 @@ Necesidad de presentar la demanda con posterioridad.
 
 Si la medida se decretó antes de iniciarse el juicio ella quedará insubsistente, si no se interpone la demanda dentro de los cinco días de practicada. Las cosas se restituirán al estado que guardaban antes de dictarse la medida prejudicial.
 
-### CAPÍTULO SEGUNDO. Separación de personas
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO SEGUNDO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 320.
 
-Juez competente.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-El que intente demandar o denunciar o querellarse contra su cónyuge, podrá solicitar su separación al juez de primera instancia, donde los cónyuges estén haciendo vida marital. Sólo que por circunstancias especiales no pueda ocurrirse al juez de primera instancia competente, el juez del lugar podrá decretar la separación provisionalmente, remitiendo las diligencias practicadas al competente, quien confirmará o revocará la separación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 321.
 
-Solicitud y medidas urgentes
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-La solicitud podrá ser escrita o verbal, y en ella se señalarán las causas en que se funde, el domicilio que habiten los cónyuges, la existencia de hijos menores y las demás circunstancias del caso.
-
-En los casos en que la urgencia lo amerite, el juzgador deberá con toda premura decretar y hacer ejecutar las medidas de depósito o separación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 322.
 
-Substanciación y resolución.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Presentada la solicitud, el juzgador ordenará la práctica de las diligencias que a su juicio sean necesarias, resolverá sobre su procedencia y si concediere la separación, dictará las disposiciones pertinentes para que se efectúe materialmente, atendiendo a las circunstancias de cada caso en particular.
-
-En la misma resolución se ordenará su notificación al cónyuge, previniéndole que se abstenga de impedir la separación o causar molestias al cónyuge separado, bajo apercibimiento de imponerle el medio de apremio que corresponda conforme al artículo 253.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 323.
 
-Separación de la mujer.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Cuando la mujer sea la que solicita la separación y permanezca en el domicilio conyugal, se conminará al marido para que se abstenga de concurrir al mismo mientras la medida subsista, sin perjuicio de que se le permita retirar su ropa, objetos personales y los bienes que sean necesarios para el ejercicio de su profesión, arte u oficio a que está dedicado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 324.
 
-Plazo para demandar y duración de la medida.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-En la resolución se señalará el plazo de que dispondrá el solicitante para presentar la demanda, denuncia o querella, que podrá ser hasta de quince días hábiles contados a partir del día siguiente de efectuada la separación. A juicio del juzgador podrá concederse por una sola vez una prórroga por igual plazo.
-
-Intentada la demanda dentro del plazo mencionado, la separación subsistirá mientras dure el juicio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 325.
 
-Situación de los hijos menores durante la separación.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-El juzgador determinará la situación de los hijos menores atendiendo a las circunstancias del caso, tomando en cuenta las obligaciones señaladas en el Código Civil, así como las propuestas de los cónyuges, si las hubiere, quienes podrán designar de común acuerdo la persona que tendrá a su cargo la custodia de aquellos, pudiendo ser uno de ellos.
-
-En ausencia de convenio, el juzgador dejará a la madre el cuidado de los hijos que no hayan cumplido siete años y oyendo el parecer de los demás, resolverá, según su criterio, lo que juzgue más conveniente en interés de los menores.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 326.
 
-Inconformidad de uno de los cónyuges sobre la medida decretada.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Si se presentare inconformidad por alguno de los interesados sobre la resolución o las disposiciones decretadas, el juzgador citará a una audiencia que deberá celebrarse dentro del plazo de tres días, en la que oirá a los cónyuges y dictará la resolución que corresponda, sin ulterior recurso.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 327.
 
-Medidas emergentes.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-El juzgador podrá citar a las partes en cualquier tiempo, ya sea conjunta o separadamente; variar sus determinaciones, de oficio o a petición de parte, si las circunstancias lo ameritan, bajo su responsabilidad y sin substanciación especial; y resolverá con carácter provisional lo que proceda, respecto a la entrega de ropa y otros objetos, subsistencia de cualquiera de los cónyuges y de los hijos y lo demás que juzgue procedente. Podrá también dictar las medidas de apremio o correcciones disciplinarias que se requieran para que los cónyuges no se causen molestias entre sí.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 328.
 
-Cesación de la medida.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Si al vencimiento del plazo concedido no se acredita al juzgador que se ha presentado la demanda, denuncia o querella, cesarán los efectos de la separación decretada. El cónyuge que se haya separado tendrá el derecho de volver al domicilio conyugal.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 329.
 
-Solicitantes en unión libre.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Las medidas a que se refiere este capítulo, también podrán solicitarse por la mujer o el varón que sin estar unidos en matrimonio, tengan un domicilio común con las características del domicilio conyugal a que se refiere el Código Civil.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 330.
 
-Remisión del expediente al juzgador competente.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Si el juzgador que decretó la separación no fuere el que deba conocer del proceso, remitirá las diligencias practicadas al que fuere competente, ante quién deberá presentarse la demanda.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
-### CAPÍTULO TERCERO. Violencia Familiar
+### CAPÍTULO TERCERO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 331.
 
-Solicitud de medidas.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Toda persona que sufra, maltrato físico, psicoemocional o sexual, por parte de alguno de los integrantes del grupo familiar, podrá denunciar estos hechos en forma verbal o escrita y solicitar al juez de primera instancia de su domicilio que decrete una medida provisional urgente que evite su reiteración.
-
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
-
-El Ministerio público, la Procuraduría de la Familia, la Unidad de Asistencia y Atención para la Prevención de la Violencia Familiar, los directores o encargados de los servicios asistenciales sociales, educativos o de salud, públicos o privados, o cualquier servidor público que por razón de su encargo tenga conocimiento de alguno de estos hechos que afecten a menores o incapaces, ancianos o discapacitados, deberán formular la petición a que este precepto se refiere.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 332.
 
-Medidas adoptables.
-
-El juzgador podrá adoptar, al tomar conocimiento de los hechos motivo de la denuncia, las siguientes medidas:
-
-I. Ordenar la exclusión del autor, de la vivienda donde habita el grupo familiar.
-
-II. Prohibir el acceso del autor, al domicilio de la persona afectada, así como a los lugares donde trabaja o estudia.
-
-III. Ordenar el reintegro al domicilio a petición de quien ha debido salir del mismo por razones de seguridad personal, excluyendo al autor.
-
-IV. Decretar provisionalmente alimentos, custodia y derechos de comunicación con los hijos.
-
-El juzgador establecerá la duración de las medidas en vista a la determinación definitiva que habrá de adoptar.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 ### CAPÍTULO CUARTO. Preliminares de la consignación
 
@@ -3389,11 +3407,15 @@ Si el acreedor fuere desconocido o incierto o cuyo domicilio se ignore, se le ci
 
 Lo dispuesto en este artículo es aplicable cuando el ofrecimiento de pago y consignación se hagan a persona cuyo domicilio se ignore.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 336.
 
-Consignación a favor de un acreedor ausente o incapaz.
+Consignación a favor de un acreedor ausente o que requiera asistencia o representación para el ejercicio de su capacidad jurídica.
 
-Si el acreedor hubiere sido declarado ausente o fuere incapaz, será citado su representante legítimo y se procederá de acuerdo con las reglas establecidas en los artículos anteriores, en lo conducente.
+Si el acreedor hubiere sido declarado ausente o requiriere asistencia o representación para el ejercicio de su capacidad jurídica, será citado su representante legítimo y se procederá de acuerdo con las reglas establecidas en los artículos anteriores, en lo conducente.
 
 ###### ARTÍCULO 337.
 
@@ -3429,7 +3451,11 @@ Hecho el ofrecimiento de pago y la consignación, el juzgador, a petición del d
 
 I. Cuando el acreedor fuere cierto y conocido y no comparezca a la diligencia de depósito, ni formule oposición, no obstante haber sido citado legalmente.
 
-II. Cuando fuere ausente o incapaz y citado su representante legítimo, no comparezca a la diligencia ni formule oposición.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+II. Cuando fuere ausente o requiriere asistencia o representación para el ejercicio de su capacidad jurídica, y citado su representante legítimo, no comparezca a la diligencia ni formule oposición.
 
 III. Cuando siendo el acreedor persona incierta o de domicilio ignorado, no comparezca una vez transcurrido el plazo que fije el juzgador, ni formule oposición.
 
@@ -3557,9 +3583,13 @@ Casos en que las medidas cautelares pueden dictarse.
 
 A los fines del artículo anterior, el juzgador podrá acordar medidas cautelares en los casos siguientes:
 
-I. Cuando hubiere temor de que se ausente u oculte la persona contra quien deba entablarse o se haya entablado una demanda.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-II. Para la determinación y aseguramiento de alimentos provisionales.
+I. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+II. (DEROGADA, P.O. 15 DE DICIEMBRE DE 2015)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3777,29 +3807,29 @@ Quebrantamiento del arraigo.
 
 El que quebrante el arraigo, será castigado con la pena que señala el Código Penal al delito de desobediencia a un mandato legítimo de la autoridad pública, sin perjuicio de ser compelido, por los medios de apremio que correspondan, a volver al lugar del juicio. En todo caso se seguirá éste, según su naturaleza, conforme a las reglas comunes.
 
-### CAPÍTULO CUARTO. Alimentos provisionales
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO CUARTO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 375.
 
-Procedencia y requisitos de la pensión provisional de alimentos.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-En caso de urgente necesidad podrá decretarse el pago de una pensión provisional de alimentos en favor de quien acredite tener, al menos presuntivamente, derecho de exigirlos y contra quien tenga la obligación de pagarlos. En este caso, deberá justificarse el título o causa jurídica en cuya virtud se pide la pensión provisional, las posibilidades de quien deba darla y la urgencia de la medida. Cuando la pensión provisional se pida por razón de parentesco, deberá demostrarse éste. Si se funda en testamento, contrato o convenio, debe exhibirse el documento en que conste.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 376.
 
-Resolución sobre pensión provisional de alimentos.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Rendida la justificación a que se refiere el artículo anterior, el juzgador fijará el porcentaje o la suma en que deba consistir la pensión provisional de alimentos, ordenando que se entregue directamente al beneficiario por semanas, quincenas o meses anticipados, según sea el caso.
-
-La providencia se ejecutará sin necesidad de otorgamiento de caución.
-
-La resolución que niegue la pensión provisional de alimentos es recurrible en queja ante el superior. La que la conceda es apelable en el efecto devolutivo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 377.
 
-Improcedencia de la reclamación sobre el derecho a percibir alimentos provisionales.
-
-En la providencia no se permitirá ninguna discusión sobre el derecho de percibir alimentos. Cualquier reclamación sobre este derecho deberá ser materia del proceso principal y entre tanto se seguirá abonando la suma señalada. Las cuestiones que se susciten sobre el monto de la pensión provisional de alimentos se substanciarán en la vía incidental.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 ### CAPÍTULO QUINTO. Providencias sobre obra nueva o peligrosa y daño temido
 
@@ -4091,7 +4121,11 @@ Allanamiento.
 
 Si el demandado se allana a la demanda, el juzgador podrá ordenar la ratificación del escrito, cuando lo juzgue conveniente, y sin más trámites, citará a las partes para oír sentencia definitiva.
 
-No procederá citar para sentencia en caso de allanamiento de la demanda, cuando se trate de juicios del orden familiar y del estado civil; cuando se controviertan derechos irrenunciables; cuando manifiestamente la sentencia por dictarse deba surtir efectos frente a terceros que no han litigado, y en los demás casos en que la ley así lo disponga.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+No procederá citar para sentencia en caso de allanamiento de la demanda, cuando se controviertan derechos irrenunciables; cuando manifiestamente la sentencia por dictarse deba surtir efectos frente a terceros que no han litigado, y en los demás casos en que la ley así lo disponga.
 
 ###### ARTÍCULO 399.
 
@@ -4189,7 +4223,11 @@ Para hacer la declaración de rebeldía, el juzgador examinará escrupulosamente
 
 Cuando el juzgador advirtiere que el emplazamiento no se hizo correctamente, mandará reponerlo e impondrá una corrección disciplinaria al actuario, cuando aparezca responsable.
 
-Se presumirán admitidos los hechos de la demanda que se dejó de contestar, sin embargo, se tendrá por contestada en sentido negativo cuando se trate de asuntos que afecten las relaciones familiares, el estado civil de las personas, y en los casos en que el emplazamiento se hubiere hecho por edictos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+Se presumirán admitidos los hechos de la demanda que se dejó de contestar; sin embargo, se tendrá por contestada en sentido negativo en los casos en que el emplazamiento se hubiere hecho por edictos.
 
 ###### ARTÍCULO 407.
 
@@ -5045,13 +5083,17 @@ Todos los que tengan conocimiento de los hechos que las partes deben probar, est
 
 No estarán obligados a declarar como testigos y podrán pedir que se les exima de hacerlo, las personas señaladas en la fracción II del artículo 425.
 
-> <small>(REFORMADO, P.O. 11 DE JULIO DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Los menores de catorce años o los débiles mentales sólo podrán ser oídos cuando su testimonio resulte indispensable, por las circunstancias del caso. En tales casos se tomará su declaración, sin que se les exija la protesta de decir verdad, con la intervención de personal especializado para que emplee mecanismos que faciliten su participación y aseguren pericia para comprender lo que manifiesten. Con tal propósito, se deberá ordenar que se realice una o varias pruebas de capacidad que tendrán por objeto determinar si el menor de edad, a partir de su edad y de su propio grado de desarrollo y madurez, puede comprender las preguntas que se le formulen en un lenguaje comprensible para el mismo.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
-> <small>(ADICIONADO, P.O. 11 DE JULIO DE 2014)</small>
+Los niños o las niñas, o la persona mayor de edad que requiera asistencia para el ejercicio de su capacidad jurídica, sólo podrán ser oídos cuando su testimonio resulte indispensable, por las circunstancias del caso. En tal supuesto, se tomará su declaración sin que se les exija la protesta de decir verdad, con la intervención de personal especializado para que emplee mecanismos que faciliten su participación y aseguren pericia para comprender lo que manifiesten. Con tal propósito, se deberá ordenar que se realice una o varias pruebas de capacidad que tendrán por objeto determinar si el testigo, a partir de su edad y de su propio grado de desarrollo y madurez, puede comprender las preguntas que se le formulen en un lenguaje comprensible para el mismo.
 
-Las preguntas que se utilicen para la prueba de capacidad, deberán ser de acuerdo a la edad y nivel de desarrollo del menor de edad, las cuales no estarán relacionadas con las cuestiones en controversia y deberán orientarse a determinar la capacidad con la que cuenta para comprender y contestar preguntas sencillas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+Las preguntas que se utilicen para la prueba de capacidad, deberán ser de acuerdo a la edad y nivel de desarrollo del niño o la niña, o la persona mayor de edad que requiera asistencia para el ejercicio de su capacidad jurídica, las cuales no estarán relacionadas con las cuestiones en controversia y deberán orientarse a determinar la capacidad con la que cuenta para comprender y contestar preguntas sencillas.
 
 > <small>(REFORMADO, P.O. 11 DE JULIO DE 2014)</small>
 
@@ -5065,11 +5107,19 @@ Ofrecimiento de la prueba testimonial.
 
 La prueba testimonial se ofrecerá indicando los nombres y domicilios de las personas, terceras ajenas al pleito, a quienes deba interrogarse, y los hechos sobre los cuales cada uno de ellos o todos deban declarar.
 
-Cuando se trate de personas menores de edad se deberán (sic) indicar tal circunstancia y la parte oferente deberá exhibir el interrogatorio correspondiente con copia simple para correr traslado. La contraparte podrá formular preguntas adicionales dentro de los tres días siguientes a la notificación del auto que ordena la admisión de la prueba.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+Cuando se trate de niños o niñas, o una persona mayor de edad que requiera asistencia para el ejercicio de su capacidad jurídica, se deberá indicar tal circunstancia y la parte oferente deberá exhibir el interrogatorio correspondiente con copia simple para correr traslado. La contraparte podrá formular preguntas adicionales dentro de los tres días siguientes a la notificación del auto que ordena la admisión de la prueba.
 
 La contraparte podrá, a su vez, dentro de los tres días siguientes al en que se le notifique el auto de admisión de la prueba, proponer otros testigos sobre los mismos hechos, indicando los puntos sobre los que debe interrogárseles.
 
-Los hechos materia del examen deben referirse a los puntos del debate y no serán contrarios al derecho o a la moral; la formulación de preguntas en relación con cada uno, se hará en cuestionamientos separados. En el caso de menores de edad, los cuestionamientos se realizarán con la intervención de personal especializado que emplee mecanismos que faciliten su participación, aseguren pericia para que entiendan lo que se les pregunta y se comprenda lo que manifiesten para lo cual será necesario ordenar que se realice la prueba o pruebas de capacidad que se señalan en el artículo 478. Si alguno de los testigos no sabe el idioma castellano, se indicará esta circunstancia para que se haga oportunamente la designación de intérprete por el juzgador.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+Los hechos materia del examen deben referirse a los puntos del debate y no serán contrarios al derecho o a la moral; la formulación de preguntas en relación con cada uno, se hará en cuestionamientos separados. En el caso de niños o niñas, o una persona mayor de edad que requiera asistencia para el ejercicio de su capacidad jurídica, los cuestionamientos se realizarán con la intervención de personal especializado que emplee mecanismos que faciliten su participación, aseguren pericia para que entiendan lo que se les pregunta y se comprenda lo que manifiesten para lo cual será necesario ordenar que se realice la prueba o pruebas de capacidad que se señalan en el artículo 478. Si alguno de los testigos no sabe el idioma castellano, se indicará esta circunstancia para que se haga oportunamente la designación de intérprete por el juzgador.
 
 La falta de indicación del domicilio de los testigos impedirá la admisión de la prueba, a menos que la parte ofrezca presentarlos. Si el testigo no vive en el domicilio señalado, se tendrá al oferente por desistido de utilizarlo.
 
@@ -5111,9 +5161,11 @@ Declaración del testigo en su domicilio u otro lugar adecuado.
 
 A los testigos de más de setenta años y a los enfermos, el juzgador podrá, según las circunstancias del caso, recibir su declaración en sus domicilios, en presencia de la otra parte, si asistiere.
 
-En el caso de testigos menores de edad, si el personal especializado encargado de implementar mecanismos que faciliten su participación, estima necesario que la declaración deba rendirse en un lugar distinto a las instalaciones del juzgado como parte de su función, deberá solicitarlo ante el juez y exponer los motivos que lo justifiquen.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-El juez decidirá sobre la pertinencia de tal solicitud.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+Cuando los testigos sean niños o niñas, o una persona mayor de edad que requiera asistencia para el ejercicio de su capacidad jurídica, si el personal especializado encargado de implementar mecanismos que faciliten su participación estima necesario que la declaración deba rendirse en un lugar distinto a las instalaciones del juzgado como parte de su función, deberá solicitarlo ante el juez y exponer los motivos que lo justifiquen. El juez decidirá sobre la pertinencia de tal solicitud.
 
 ###### ARTÍCULO 484.
 
@@ -5169,11 +5221,19 @@ Declaración por medio de intérprete o con la asistencia de personal especializ
 
 Si el testigo no sabe el idioma español, rendirá su declaración por medio de intérprete, que será nombrado por el juzgador cuando así se solicite en el ofrecimiento de la prueba. Si el testigo lo pidiere, además de asentarse su declaración en español, podrá escribirse en su propio idioma por él o por el intérprete.
 
-Si el testigo es menor de edad el interrogatorio será formulado al testigo por medio de personal especializado conforme al artículo 478 y 479 y su declaración podrá ser recabada con la ayuda de cualquier medio electrónico audiovisual. El personal especializado podrá cambiar la forma de las preguntas del interrogatorio siempre que el contenido sea esencialmente el mismo y, cuando sea necesario, deberá emitir un dictamen que facilite la comprensión de la declaración del testigo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+Cuando los testigos sean niños o niñas, o una persona mayor de edad que requiera asistencia para el ejercicio de su capacidad jurídica, el interrogatorio será formulado al testigo por medio de personal especializado conforme al artículo 478 y 479 y su declaración podrá ser recabada con la ayuda de cualquier medio electrónico audiovisual. El personal especializado podrá cambiar la forma de las preguntas del interrogatorio siempre que el contenido sea esencialmente el mismo y, cuando sea necesario, deberá emitir un dictamen que facilite la comprensión de la declaración del testigo.
 
 Las partes podrán asistir durante el desarrollo del interrogatorio pero no podrán interferirlo, ni intervenir sino a través del juez quien decidirá si la diligencia deberá continuar.
 
-El juez siempre supervisará la implementación de los mecanismos del personal especializado de tal manera que no afecte su desarrollo pero se asegurará de que no se vulneren los derechos de los testigos menores de edad o de las partes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+El juez siempre supervisará la implementación de los mecanismos del personal especializado de tal manera que no afecte su desarrollo pero se asegurará de que no se vulneren los derechos de los testigos o de las partes.
 
 Tanto interpretes como el personal especializado, antes de desempeñar su encargo, deberán protestar hacerlo legalmente, anotando esa circunstancia en el acta.
 
@@ -5563,6 +5623,10 @@ La cosa juzgada es la verdad legal, y contra ella no se admite recurso ni prueba
 
 Existe cosa juzgada cuando la sentencia no está sujeta a impugnación por haber causado ejecutoria.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 531.
 
 Declaración judicial de ejecutoriedad.
@@ -5577,23 +5641,7 @@ II. Cuando, notificadas en forma, no sean recurridas dentro del plazo señalado 
 
 III. Cuando se haya interpuesto recurso pero no se haya continuado en la forma y plazos legales, o cuando quien lo interpuso, haya desistido del recurso.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
-
 La declaración la hará el juzgador de oficio o a petición de parte en el caso de la fracción I; en el supuesto de la fracción II, se hará a petición de parte y en los casos de la fracción III, la declaración la hará el Tribunal al resolver sobre la deserción o desistimiento del recurso.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2013)</small>
-
-En caso de disolución del vínculo matrimonial, la resolución que lo decrete tendrá el carácter de ejecutoria por ministerio de ley, así como lo acordado por las partes y sancionado por el juzgador respecto del convenio de divorcio a que se refiere el artículo 363 del Código Civil.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 5 DE ABRIL DE 2013)</small>
-
-Las demás resoluciones que se tomen durante el juicio de divorcio seguirán las reglas de las fracciones I a III que anteceden.
 
 El auto que declare que la sentencia ha causado o no ejecutoria, es recurrible en queja.
 
@@ -5625,11 +5673,15 @@ III. Contra terceros aunque no hubieran litigado ni sean causahabientes, en las 
 
 IV. Contra los socios con responsabilidad solidaria respecto de la sentencia que se pronuncie contra la sociedad, condenándola al cumplimiento de obligaciones en favor de terceros, aunque los socios no hayan litigado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 535.
 
 Resoluciones que podrán modificarse.
 
-Las resoluciones judiciales firmes sobre prestaciones futuras y las dictadas en negocios de alimentos, ejercicio y suspensión de la patria potestad, interdicción, jurisdicción no contenciosa y las demás que prevengan las leyes, sólo tendrán autoridad de cosa juzgada mientras no se alteren o cambien las circunstancias que afecten el ejercicio de la pretensión que por vía de acción se dedujo en el juicio correspondiente. La sentencia podrá alterarse o modificarse mediante procedimiento posterior, cuando cambien estas circunstancias.
+Las resoluciones judiciales firmes sobre prestaciones futuras, las de jurisdicción no contenciosa y las demás que prevengan las leyes, sólo tendrán autoridad de cosa juzgada mientras no se alteren o cambien las circunstancias que afecten el ejercicio de la pretensión que por vía de acción se dedujo en el juicio correspondiente. La sentencia podrá alterarse o modificarse mediante procedimiento posterior, cuando cambien estas circunstancias.
 
 ###### ARTÍCULO 536.
 
@@ -5733,107 +5785,159 @@ Cuando la denuncia se refiera al delito de fraude por simulación de un juicio, 
 
 # LIBRO CUARTO. Procedimientos especiales
 
-## TÍTULO PRIMERO. Juicios del orden familiar y del estado civil de las personas
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-### CAPÍTULO PRIMERO. Disposiciones comunes
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+## TÍTULO PRIMERO. Juicios sobre las personas
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO PRIMERO. Procedimiento de declaración de ausencia y presunción de muerte
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 547.
 
-Orden público en los asuntos inherentes a la familia.
+Medidas preventivas en los casos de desaparición de personas.
 
-Todos los asuntos inherentes a la familia se considerarán de orden público e interés social, por constituir la base de la integración de la sociedad.
+A petición de parte o del Ministerio Público, cuando una persona haya desaparecido sin dejar apoderado y se ignore el lugar donde se halle, el juzgador dictará las medidas conservativas indispensables, nombrando un administrador de sus bienes, el cual, además de custodiar éstos representará al ausente en juicio y fuera de él; además, mandará citar al ausente por edictos publicados en el Periódico Oficial del Estado y en el portal electrónico destinado para ello, remitiendo en su caso copia de los edictos a los cónsules mexicanos de aquellos lugares del extranjero en que se presume que se encuentra o se tenga noticia de él. Al hacer la citación, se fijará al ausente un plazo no menor de tres meses ni mayor de seis para que se presente.
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+Podrá ser designado administrador representante:
 
-Por tanto, en todos los asuntos que trata este título deberán tener intervención el Ministerio Público y, en su caso, el Sistema para el Desarrollo Integral de la Familia, la Procuraduría de la Familia, la Unidad de Asistencia para la Prevención de la Violencia Familiar, y las autoridades administrativas del Estado o de los municipios, que por razón de sus funciones, tengan que ver con las cuestiones familiares.
+a) El cónyuge del ausente.
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+b) Uno de los hijos mayores de edad que resida en el lugar. Si hubiere varios, el juzgador elegirá al que estime más apto.
+
+c) El ascendiente más próximo en grado al ausente.
+
+d) A falta de los anteriores, o cuando sea inconveniente que alguno de ellos, por su mala conducta, o por su ineptitud, sean nombrados depositarios, el juzgador nombrará al heredero presunto y si hubiere varios con igual derecho, ellos mismos elegirán al que deba ser depositario de los bienes del ausente o ignorado. En caso de desacuerdo la elección la hará el juzgador, prefiriendo al que tenga mejor interés en la conservación de los bienes del ausente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 548.
 
-Intervención oficiosa del Juez.
+Demanda por declaración de ausencia.
 
-El juzgador en asuntos del orden familiar estará facultado para intervenir de oficio en todos aquellos procesos que afecten a la familia, cuando se trate de menores e incapacitados, de la ministración de alimentos y de cuestiones relacionadas con la violencia familiar, decretando las medidas tendientes a preservarla y a proteger a sus miembros.
+La demanda por declaración de ausencia podrá promoverse pasado un año desde el día en que el ausente hubiere desaparecido o se ignorare su paradero.
+
+En ella debe consignarse el nombre, apellido y residencia de los presuntos sucesores legítimos del desaparecido o de los que hubieren sido nombrados en testamento público abierto, y cuando existan, el de su abogado o representante legal.
+
+Tienen legitimación para pedir la declaración de ausencia, los herederos instituidos en testamento público abierto por el ausente; sus presuntos herederos legítimos; los que tengan algún derecho u obligación que dependa de la vida, muerte o presencia del ausente y el Ministerio Público.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 549.
 
-Suplencia de la deficiencia en asuntos del orden familiar.
+Procedimiento de declaración de ausencia.
 
-En todos los asuntos del orden familiar los jueces y tribunales estarán obligados a suplir la deficiencia de las partes en sus planteamientos de derecho. En los mismos asuntos, con la salvedad de las prohibiciones legales relativas a alimentos, el juzgador deberá exhortar a los interesados a lograr un avenimiento, resolviendo sus diferencias mediante convenio, con el que pueda evitarse la controversia o darse por terminado el procedimiento.
+El juzgador en el mismo auto por el que abre el procedimiento, mandará requerir al solicitante para que mediante la declaración de dos testigos y con la asistencia del representante del desaparecido justifique los supuestos previstos por el Código Civil para declarar en forma la ausencia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+Si el juzgador encuentra fundada la solicitud, dispondrá que ésta se publique durante tres meses, con intervalos de quince días en el Periódico Oficial del Estado y en el portal electrónico destinado para ello y, en su caso, remitirá copia de los escritos a los cónsules mexicanos, como se indica en el artículo 547 de este código.
+
+Pasados cuatro meses de la fecha de la última publicación, si no hubiere noticia del ausente ni oposición del representante o de algún interesado, el juzgador declarará en forma la ausencia; ratificará en su cargo al administrador representante, si no hubiere motivo para sustituirlo y mandará publicar la declaración por tres veces de siete en siete días en el Periódico Oficial del Estado y en el portal electrónico destinado para ello.
+
+El fallo que se pronuncie en el juicio de declaración de ausencia, será apelable en el efecto devolutivo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 550.
 
-Libertad en la forma en ciertos procedimientos familiares.
+Efectos de la declaración de ausencia.
 
-No se requieren formalidades especiales para acudir ante las autoridades judiciales en asuntos de materia familiar, cuando se solicite la declaración, preservación, restitución o constitución de un derecho, o se alegue la violación del mismo, o el desconocimiento de una obligación; cuando se trate de violencia familiar, de alimentos, de calificación de impedimentos para contraer matrimonio, o de las diferencias que surjan entre los cónyuges, sobre la educación de los hijos, o las autorizaciones que sus padres deban dar en relación a su persona o a sus bienes; las oposiciones de padres y tutores y, en general, todas las cuestiones familiares similares que reclamen la intervención judicial.
+Declarada la ausencia, si hubiere testamento, la persona en cuyo poder se encuentre lo presentará al juzgador, dentro de los quince días contados a partir de la última publicación a que se refiere el artículo anterior.
 
-Esta disposición no es aplicable en los casos de nulidad de matrimonio, divorcio, pérdida de la patria potestad e investigación de la paternidad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 551.
 
-Procedimientos urgentes.
+Apertura del testamento público cerrado, en acto posterior a la declaración de ausencia.
 
-En los asuntos del orden familiar podrá acudirse al juzgador por escrito o por comparecencia personal en los casos de suma urgencia a que se refiere el artículo anterior, exponiendo de manera breve y concisa los hechos de que se trate.
+El juzgador, si el testamento no estuviere ya publicado, de oficio o a instancia de cualquiera que se crea interesado, procederá a abrir el testamento cerrado, en presencia del representante del ausente, con citación de los que promovieron la declaración de ausencia y con las solemnidades prescritas en su caso, atendiendo a la naturaleza del testamento.
 
-El juzgador, una vez apreciada la premura del caso, admitirá de inmediato la demanda y con copia del escrito o del acta que se levante con motivo de la comparecencia y de los documentos que, en su caso, se hayan presentado, correrá traslado a la parte demandada, la que deberá comparecer en la misma forma, por escrito o verbalmente, dentro del plazo de tres días. Al ordenarse el traslado, el juzgador deberá señalar día y hora para la celebración de una audiencia dentro de los quince días siguientes, que en este caso será de depuración, conciliación y pruebas; además, dictará las prejudicialidades y demás providencias que procedan con arreglo a la ley.
+En el caso de que no hubiere testamento, los herederos legítimos comparecerán ante el juzgador acreditando su entroncamiento con el ausente.
 
-Será optativo para las partes acudir asesoradas y en este supuesto, los asesores necesariamente deberán ser Licenciados en Derecho, con cédula profesional. En caso de que una de las partes se encuentre asesorada y la otra no, se solicitarán de inmediato los servicios de un defensor de oficio, el que deberá presentarse desde luego.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-En la audiencia se depurará el procedimiento y se tratará de avenir a las partes, y de no lograrlo, se aportarán las pruebas que así procedan y que se hayan ofrecido, sin más limitación que no sean contrarias a la moral o estén prohibidas por la ley. El juzgador también podrá ordenar la recepción de una o más pruebas para mejor proveer, aunque no las ofrezcan las partes.
-
-Para resolver la cuestión que se plantea, el juzgador se cerciorará de la veracidad de los hechos y los evaluará personalmente o con auxilio de especialistas o de las instituciones especializadas en la materia a las que alude el artículo 547. Estas presentarán el informe correspondiente en la audiencia y podrán ser interrogadas tanto por el juzgador como por las partes.
-
-La sentencia se pronunciará de manera breve y concisa en el mismo momento de la audiencia de ser posible o dentro de los ocho días siguientes y podrá ser recurrida en apelación, que será admisible en el efecto devolutivo.
-
-En todo lo no previsto y en cuanto no se oponga a lo ordenado por este precepto, se aplicarán las disposiciones conducentes de este código.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 552.
 
-Reglas generales para los procedimientos del orden familiar.
+Iniciación del juicio sucesorio previo a la declaración de presunción de muerte del ausente.
 
-Para la resolución de los juicios del orden familiar, regirán los siguientes principios:
+Por virtud de la presentación o apertura del testamento, o una vez acreditado el parentesco con el ausente en el caso de herederos legítimos, se iniciará desde luego el juicio sucesorio para el solo efecto de la declaración de herederos, debiéndose continuar por sus demás trámites, hasta una vez que se declare la presunción de muerte.
 
-I. Las reglas sobre la repartición de la carga de la prueba no tendrán aplicación.
+En el juicio sucesorio, los herederos testamentarios y, en su caso, los que fueren legítimos, serán puestos en posesión provisional de los bienes como lo ordena el Código Civil, siempre que tengan capacidad legal para administrar bienes y otorguen caución que asegure las resultas de la administración. Cuando estuvieren bajo patria potestad o tutela, se procederá conforme a derecho.
 
-II. Para la investigación de la verdad, el juzgador podrá ordenar cualquier prueba, aunque no la ofrezcan las partes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-III. El principio preclusivo en cuanto signifique un obstáculo para el logro de la verdad, no tendrá aplicación.
-
-IV. La admisión de hechos y el allanamiento no vinculan al juzgador.
-
-V. El juzgador podrá auxiliarse de Licenciados en Trabajo Social o profesionales de otras disciplinas y de autoridades que presten sus servicios dentro de la administración pública.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 553.
 
-Ratificación de escritos.
+Falta de herederos del ausente.
 
-Los escritos en que se solicite el desistimiento de la instancia o de la acción o se haga valer la confesión de los hechos de la demanda o el allanamiento, deberán ser ratificados ante la presencia judicial, sin cuyo requisito no se les dará trámite.
+Si hecha la declaración de ausencia no se presentaren herederos del ausente, a petición del Ministerio Público, el juzgador determinará, según lo estime, la continuación del representante designado en los términos del último párrafo del artículo 547 o su sustitución por otro que en nombre de la Asistencia Pública entre en la posesión provisional de los bienes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 554.
 
-Efectos de la recusación y de las dilatorias.
+Declaración de presunción de muerte.
 
-Ni la recusación de los funcionarios judiciales, ni la interposición de alguna excepción procesal dilatoria impedirán que el juzgador adopte las medidas provisionales sobre el depósito de personas, alimentos, menores e incapacitados. En dichos supuestos, hasta después de tomadas dichas medidas se dará el trámite correspondiente a la cuestión planteada.
+La demanda para la declaración de presunción de muerte se sujetará en lo conducente, en cuanto a forma y legitimación, a lo dispuesto para la demanda sobre declaración de ausencia.
+
+La demanda podrá presentarse cuando hayan transcurrido tres años desde la declaración de ausencia, y en los casos que esta proceda legalmente, el juzgador declarará la presunción de muerte.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 555.
 
-Regla especial para la audiencia de conciliación.
+Efectos de la declaración de presunción de muerte.
 
-La asistencia de las partes a la audiencia previa y de conciliación a que se refiere el artículo 412 de este ordenamiento, será personal y obligatoria. El juzgador deberá hacer uso de los medios de apremio más eficaces para lograr la comparecencia de las partes.
+Ejecutoriada la sentencia que declara la presunción de muerte del ausente, se requerirá a los poseedores provisionales para que den cuenta de su administración, y el albacea nombrado y los herederos reconocidos entrarán en la posesión definitiva de los bienes sin garantía alguna. La que según la ley se hubiera dado, quedará cancelada.
+
+Si se llega a probar la muerte del ausente, la herencia se difiere a los que debieran heredar al tiempo de ella; pero el poseedor o poseedores de los bienes hereditarios, al restituirlos se reservarán los frutos correspondientes a la época de la posesión provisional. La sentencia que declare la presunción de muerte del ausente pone término a la sociedad conyugal, y en todo lo demás se procederá en concordancia con las previsiones del Código Civil.
+
+La sentencia es apelable en el efecto devolutivo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 556.
 
-Normas complementarias en asuntos del orden familiar.
+Ejecución y registro de la sentencia de presunción de muerte.
 
-En todo lo no previsto en este capítulo, y en cuanto no se opongan a lo ordenado por el mismo, se aplicarán las disposiciones pertinentes de los Libros Primero, Segundo y Tercero de este código.
+La sentencia que declare la presunción de muerte será ejecutada después de que haya pasado en autoridad de cosa juzgada.
+
+Una copia de la resolución se enviará al oficial del Registro Civil, en la que conste la partida de nacimiento del ausente, para que haga la anotación, y otra se remitirá a la Dirección del Registro Civil para el mismo efecto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 557.
 
-Vía para asuntos familiares no controvertidos.
+Facultades del Ministerio Público en relación al ausente.
 
-Cuando las cuestiones del orden familiar no impliquen controversia entre partes antagónicas, serán aplicables las normas de los procedimientos no contenciosos, en cuanto no se opongan a los mandatos de este Título. Si surgiere algún litigio, el asunto se regirá y ventilará por lo establecido para la jurisdicción contenciosa.
+El Ministerio Público velará por los intereses del ausente; será oído en todos los juicios que tengan relación con él, y en las declaraciones de ausencia y presunción de muerte.
 
 ### CAPÍTULO SEGUNDO. Derechos de la personalidad
 
@@ -5855,403 +5959,197 @@ La tutela judicial comprenderá la adopción de todas las medidas necesarias par
 
 La existencia del perjuicio se presumirá siempre que se acredite una violación a los derechos de la personalidad. La indemnización se extenderá al daño moral que se valorará atendiendo a las circunstancias del caso y a la gravedad de la lesión efectivamente producida, para lo que se tendrá en cuenta, en su caso, la difusión que se haya dado al hecho lesivo. También se valorará el beneficio que haya obtenido el causante de la lesión como consecuencia de la misma.
 
-### CAPÍTULO TERCERO. De la rectificación y registro extemporáneo de actas del estado civil
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2012)</small>
+### CAPÍTULO TERCERO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 560.
 
-Rectificación en juicio especial.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-El juicio de rectificación de actas del estado civil a que se refiere el Código Civil, se tramitará en juicio especial y en él se oirá al Oficial del Registro Civil que tenga asignada la Oficialía en que se levantó el acta de que se trate y al Ministerio Público.
-
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
-
-El juzgador podrá, atendiendo a las circunstancias del caso, citar a los interesados que fueren conocidos o que intervinieron en el acta. Asimismo, publicará un extracto de la demanda por una sola vez, en el Periódico Oficial del Estado y en el portal electrónico destinado para ello, mandándose fijar además, en un lugar visible de la Oficialía que corresponda, haciendo saber que se admitirá a contradecirla a cualquiera, que teniendo interés, se presente dentro de un término que no exceda de diez días a partir de la fijación.
-
-En los juicios de rectificación se observarán las reglas siguientes:
-
-I. En los escritos de demanda y contestación, las partes deberán ofrecer las pruebas de su intención.
-
-II. El juzgador al admitir la demanda, ordenará que con la copia cotejada de la misma así como de sus anexos, se corra traslado al Oficial del Registro Civil demandado y al Ministerio Público a fin de que en el término de tres días manifiesten lo que a su interés convenga, ordenando se proceda a realizar las publicaciones en términos de lo dispuesto en este artículo.
-
-III. El emplazamiento al Oficial del Registro Civil que tenga asignada la Oficialía en que se levantó el acta de que se trate, se podrá realizar en el domicilio del propio Oficial o bien en la Dirección Estatal del Registro Civil, lo que resulte más cercano al domicilio en que tenga su residencia el juez que conoce del juicio. En caso de que el emplazamiento se realice en la Dirección Estatal del Registro Civil, ésta se encuentra obligada a recibirlo, debiendo poner, sin demora, en conocimiento al Oficial correspondiente de la demanda instaurada. La notificación surtirá todos sus efectos legales desde que se entregue, ya sea a la persona a quien va dirigido o al encargado de recibir la correspondencia en la Dirección Estatal del Registro Civil, de acuerdo a lo dispuesto por el artículo 217 de este Código, y si se negaren a recibirla, se tendrá por hecha la notificación y serán responsables de la falta de cumplimiento de la resolución que contenga.
-
-IV. Concluidos los plazos de vista a los terceros interesados y a las partes en juicio, sin oposición ni motivo de depuración alguno, previa la admisión de las documentales exhibidas, el juzgador procederá a dictar la sentencia que corresponda en un término de ocho días.
-
-V. En caso de oposición o cuando el juez lo considere necesario, se proveerá sobre la admisión de la totalidad de las pruebas ofrecidas, ordenando la preparación de las que correspondan, señalando además día y hora para que tenga lugar la celebración de la audiencia de depuración, pruebas y alegatos, misma que se llevara a cabo dentro de los 10 días siguientes a la conclusión de los plazos de vista otorgados a los terceros interesados y a las partes en juicio.
-
-En la audiencia señalada, se depurará el procedimiento y se desahogarán las pruebas y, una vez hecho lo anterior, las partes deberán de emitir sus alegatos de forma oral.
-
-VI. El juzgador podrá, para apoyar su resolución, requerir al interesado la presentación de documentos distintos a los que acompañan la demanda inicial.
-
-VII. La sentencia definitiva se pronunciará de manera breve y concisa, en un término que no exceda de los ocho días siguientes a la citación y será recurrible por las partes en apelación, la que procederá en el efecto suspensivo.
-
-VIII. Una vez ejecutoriada la sentencia, se comunicará al Oficial del Registro Civil que tenga asignada la Oficialía en que el acta objeto de rectificación se asentó y a la Dirección Estatal del Registro Civil, para que hagan referencia de ella al margen del acta impugnada, sea que el fallo conceda o niegue la rectificación, de conformidad con lo dispuesto en el artículo 238 del Código Civil para el Estado de Coahuila de Zaragoza.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 561.
 
-Aclaración en vía administrativa.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Cuando sólo se trate de la enmienda, vía aclaración, de un acta del estado civil en los casos a que se refiere el Código Civil, se procederá, en los términos previstos por las disposiciones aplicables, ante la Dirección Estatal del Registro Civil.
-
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 562.
 
-Registro extemporáneo.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-La autoridad judicial del orden familiar del lugar en que se haya efectuado el nacimiento o, en su caso, la autoridad administrativa competente, podrán autorizar, en los términos previstos por este Código u otras disposiciones aplicables, la inscripción del nacimiento de una persona mayor de dieciocho años.
-
-> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 562-A.
 
-Trámite del Registro Extemporáneo ante la Autoridad Judicial.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-El trámite correspondiente ante las autoridades judiciales se sujetará a las prevenciones siguientes:
-
-I. Presentada la solicitud a la que deberá acompañarse la certificación de no inscripción anterior, el juez del negocio dará vista al Ministerio Público, al Oficial del Registro Civil que corresponda y a las personas que tuvieren interés en esa inscripción. Un extracto de la promoción se fijará en lugar fácilmente visible del Juzgado de lo Familiar y de la Oficialía del Registro Civil que corresponda.
-
-II. El Ministerio Público deberá necesariamente manifestar, dentro de los cinco días siguientes, si está de acuerdo con la inscripción o si se opone a ella y, en su caso, deberá fundar su oposición.
-
-III. Transcurrido el plazo a que se refiere la fracción que antecede, el juzgador de oficio citará a una audiencia dentro de los cinco días siguientes, en la cual deberán ofrecerse y rendirse pruebas tendientes a demostrar que la persona de cuya inscripción se trata, nació en el lugar y día señalado en la solicitud.
-
-IV. Si el Ministerio Público o cualquier interesado se oponen a la inscripción y ofrecen pruebas, éstas se admitirán y desahogarán en la audiencia.
-
-V. Desahogadas las pruebas se dictará sentencia aprobando la inscripción si reúnen los siguientes requisitos:
-
-a) Que se apruebe fehacientemente que no existe inscripción anterior.
-
-b) Que se pruebe el nacimiento de la persona a quien se refiere la inscripción que se pide autorizar.
-
-c) Que se pruebe la identidad entre esta persona y la nacida el día, lugar y hora indicados.
-
-d) Que si hubo oposición, el oponente no haya probado los hechos fundatorios de aquélla.
-
-VI. Ejecutoriada la sentencia que autorice la inscripción, se comunicará al Oficial del Registro Civil correspondiente para que proceda a levantar el acta de nacimiento solicitada.
-
-> <small>(ADICIONADO, P.O. 25 DE JULIO DE 2003)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 562-B.
 
-Trámite del Registro Extemporáneo ante la autoridad administrativa.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-El trámite correspondiente ante la autoridad administrativa competente se sujetará a las prevenciones siguientes:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-I. Presentada la solicitud ante la Dirección del Registro Civil, acompañada de las pruebas que acrediten el lugar y la fecha de nacimiento del interesado, ésta la mandará fijar en lugar visible de sus oficinas para que, cualquier persona pueda, en su caso, conocerla y oponerse.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
-II. La Dirección del Registro Civil, recibida la solicitud, de inmediato procederá a realizar una búsqueda en sus archivos de no inscripción anterior.
-
-III. Comprobada la no inscripción, la Dirección abrirá un procedimiento administrativo cuya sustanciación no excederá de cinco días hábiles y en el cual se desahogarán las pruebas a que se refieren las fracciones I de este artículo y V del que antecede.
-
-IV. Recibidas las pruebas y valoradas por la Dirección, ésta emitirá la resolución que corresponda y si ésta fuere favorable al interesado expedirá el certificado de inexistencia para que el Oficial del Registro Civil levante el acta que corresponda.
-
-V. En caso de duda u oposición, la Dirección del Registro Civil, mediante resolución administrativa, negará la inscripción del nacimiento dejando a salvo los derechos del interesado en la vía jurisdiccional.
-
-### CAPÍTULO CUARTO. Cuestiones matrimoniales
+### CAPÍTULO CUARTO
 
 ###### ARTÍCULO 563.
 
 (DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 4 DE SEPTIEMBRE DE 2015)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 564.
 
-Calificación y dispensa de Impedimento para contraer matrimonio.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Recibida del Oficial del Registro Civil el acta levantada con motivo del impedimento para contraer matrimonio, el juzgador citará al denunciante si lo hubiere, y a los interesados a una audiencia en la que los oirá, recibirá las pruebas y dictará su resolución. Siempre que se declare no haber impedimento, el denunciante será condenado al pago de las costas, daños y perjuicios. El procedimiento se hará constar en una sola acta cuando termine en un solo día. La resolución que recaiga será inapelable.
-
-El juzgador dispensará el impedimento del parentesco de consanguinidad en la línea colateral desigual, una vez que se le demuestren las situaciones emergentes que hagan aconsejable su celebración. La dispensa se acordará en una sola audiencia, y de ser en sentido negativo, podrá hacerse valer la apelación en el efecto devolutivo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 565.
 
-Diferencias conyugales.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
-
-Se tramitarán conforme a las reglas de este Capítulo, las diferencias que surjan entre los cónyuges:
-
-I. Sobre el establecimiento y modificación del domicilio conyugal.
-
-II. Sobre la obligación, monto y aseguramiento de los alimentos.
-
-III. Sobre el manejo del hogar, la formación y educación de los hijos y la administración de los bienes que a éstos pertenezcan.
-
-IV. Sobre la oposición de un cónyuge para que el otro desempeñe una actividad que pueda dañar la moral o la estructura de la familia.
-
-V. Sobre la administración o disposición de los bienes de la sociedad conyugal.
-
-VI. Los demás asuntos relativos a cuestiones patrimoniales entre los consortes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 566.
 
-Procedimiento para resolver las diferencias conyugales.
-
-Recibida la demanda, el juzgador citará a los cónyuges a una audiencia en la que los oirá y ante todo procurará avenirlos. Si lo consiguiere, dará por concluido el procedimiento, sin necesidad de levantar acta. En caso contrario, recibirá las pruebas que se ofrezcan, pudiendo, además, decretar los medios de investigación que estime oportunos. El fallo que dicte será apelable en el efecto devolutivo y se ejecutará sin necesidad de fianza.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 ###### ARTÍCULO 567.
 
 (DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 568.
 
-Separación del domicilio conyugal.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-En los casos autorizados por el Código Civil, el consorte podrá solicitar en juicio ordinario que se suspenda su obligación de cohabitar con el otro cónyuge y el juzgador con conocimiento de causa podrá decretar esa suspensión, quedando subsistentes las demás obligaciones creadas por el matrimonio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-El juzgador, según las circunstancias, podrá decretar como medida provisional la separación de los cónyuges.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
-### CAPÍTULO QUINTO. Nulidad de matrimonio
+### CAPÍTULO QUINTO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 569.
 
-Legitimación procesal para solicitar la nulidad del matrimonio.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Sólo las personas a quienes el Código Civil concede este derecho podrán pedir la nulidad del matrimonio. El derecho para solicitarla no es transmisible por herencia, ni de cualquier otra manera; pero los herederos legítimos podrán continuar la acción ya deducida por aquél a quien heredan.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 570.
 
-Representación de cónyuges menores de edad.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-En los juicios sobre nulidad de matrimonio, los cónyuges menores de edad requerirán de un representante legítimo o de un tutor para litigar. La demanda será suscrita también con la firma del menor y con la huella dígito pulgar derecha del mismo, quien la ratificará en la presencia judicial.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 571.
 
-Procedimiento para la tramitación de la nulidad de matrimonio.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-La nulidad del matrimonio se tramitará de acuerdo con las reglas del juicio ordinario, con las siguientes modalidades:
-
-I. Al admitirse la demanda se decretarán las medidas provisionales que procedan conforme a la ley.
-
-II. Aunque medie admisión de hechos o allanamiento, el juicio se abrirá a prueba por el plazo de ley.
-
-III. El demandado rebelde se estimará que contesta negativamente la demanda.
-
-IV. Los cónyuges no podrán celebrar transacción ni compromiso en árbitros acerca de la nulidad de matrimonio.
-
-V. La muerte de uno de los cónyuges pone fin al juicio, salvo el derecho de los herederos para continuar la acción cuando la ley lo determine.
-
-VI. Si durante el juicio aparecen causas de nulidad que no fueron invocadas en la demanda, se estimarán de oficio en la sentencia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 572.
 
-Facultades del juzgador al resolver sobre la nulidad del matrimonio.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Al resolver la nulidad de matrimonio, la sentencia decidirá, además, los siguientes puntos, aunque no hubieren sido propuestos por las partes, por lo que desde la iniciación del procedimiento el juzgador deberá recabar de oficio, medios de prueba que le sean útiles para resolver:
-
-I. Si el matrimonio nulo se celebró o no de buena fe respecto de ambos cónyuges o sólo de alguno de ellos.
-
-II. Los efectos civiles del matrimonio.
-
-III. La situación y cuidado de los hijos.
-
-IV. La forma en que deberán dividirse los bienes comunes y los efectos patrimoniales de la nulidad.
-
-V. Las precauciones que deberán adoptarse respecto de la mujer que quede en cinta al declararse la nulidad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 573.
 
-Situación de los hijos menores de edad una vez anulado el matrimonio.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
-
-Luego que la sentencia sobre nulidad del matrimonio cause ejecutoria, los padres propondrán la forma y términos del cuidado y la custodia de los hijos menores y el juzgador resolverá a su criterio de acuerdo con las circunstancias del caso y atentos los intereses superiores de los menores.
-
-El juzgador en todo tiempo podrá modificar la determinación sobre la custodia de los hijos, atento al cumplimiento de las obligaciones que a los padres les impone el desempeño de la patria potestad, previsto por el Código Civil.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 574.
 
-Revisión de oficio de la sentencia de nulidad de matrimonio.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-La sentencia recaída en los juicios de nulidad de matrimonio por la no dispensa del parentesco consanguíneo, por la existencia de matrimonio anterior o por falta de forma, será revisable de oficio y se abrirá la segunda instancia aunque las partes no apelen, ni expresen agravios. El tribunal examinará la legalidad de la sentencia de primera instancia, quedando entre tanto sin ejecutar ésta.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 575.
 
-Inscripción de la sentencia en el Registro Civil.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Ejecutoriada la sentencia que declare la nulidad, el tribunal de oficio, enviará copia certificada de ella a la Dirección Estatal del Registro Civil y ante quien se celebró el matrimonio para que se efectúe la anotación marginal correspondiente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE ABRIL DE 2013)</small>
+### CAPÍTULO SEXTO
 
-### CAPÍTULO SEXTO. El Juicio de divorcio
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 576.
 
-Declaración judicial en el caso de divorcio.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-El divorcio siempre tendrá lugar con intervención judicial, salvo el caso previsto por el artículo 374 del Código Civil.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 577.
 
-Legitimación activa para solicitar el divorcio y medidas de aseguramiento provisionales.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-La solicitud de divorcio podrá ser formulada por uno o ambos cónyuges, la que deberá ser suscrita por el que la promueva; además, estampará la huella digital del pulgar derecho al lado de su firma. La solicitud deberá ser ratificada en la presencia judicial.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 578.
 
-Documentos que deben acompañarse a la solicitud de divorcio.
-
-Con la solicitud deberán acompañarse los siguientes documentos:
-
-I. Acta de matrimonio.
-
-II. Actas de nacimientos del solicitante y de los hijos menores.
-
-III. Las pruebas que sean necesarias para justificar la solicitud de medidas provisionales o urgentes.
-
-IV. La Propuesta de convenio de divorcio, que debe contener, por lo menos, los requisitos previstos en el artículo 363 del Código Civil:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 ###### ARTÍCULO 579.
 
 (DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 580.
 
-Representación voluntaria.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Los cónyuges podrán hacerse representar por apoderados y el poder deberá ser expreso.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 581.
 
-Medidas de aseguramiento provisionales.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Al admitirse la solicitud de divorcio, o antes si hubiere urgencia, se dictarán provisionalmente y sólo mientras dure el juicio, las medidas señaladas en este artículo.
-
-El señalamiento y aseguramiento de alimentos para el cónyuge acreedor y los hijos no podrá demorarse por el hecho de no tener el juzgador datos para hacer la fijación del monto de la pensión, sino que se decretará tan pronto se pida. El monto de la pensión y la resolución que la establece podrán ser modificados durante el juicio cuando cambien las circunstancias o el juzgador tenga mayores datos sobre las posibilidades económicas y posición de los cónyuges.
-
-El juzgador, en cualquier tiempo y antes de que provea en definitiva, podrá prudentemente modificar sus determinaciones, estableciendo las modalidades y medidas que estime necesarias en beneficio de los menores y de sus bienes, y sin más limitaciones que este mismo beneficio; puede confiar la custodia de dichos menores a un tercero o institución educativa y la administración de sus bienes a una institución fiduciaria.
-
-Se podrán dictar provisionalmente las siguientes medidas:
-
-I. La separación de los cónyuges y, en su caso, la prohibición al cónyuge de ir al domicilio o al lugar en el que el otro se encuentre, previniéndolo de la aplicación de medidas de apremio en su contra en caso de que impida la separación.
-
-II. El señalamiento y aseguramiento los alimentos que debe dar el deudor alimentario al cónyuge acreedor y a los hijos.
-
-III. Las que se estimen convenientes para que los cónyuges no se puedan causar perjuicio en su integridad personal, en su honor, en sus respectivos bienes ni en los de la sociedad conyugal, o de sus hijos, en su caso.
-
-IV. Las precautorias que la ley establece respecto a la mujer que quede encinta.
-
-V. Respecto de la guarda y custodia, las que establece el artículo 552 del Código Civil.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 582.
 
-Del procedimiento de divorcio.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-El divorcio se tramitará de acuerdo con las reglas siguientes:
-
-I. El juez, recibida la solicitud de divorcio, examinará si satisface los requisitos del artículo 578; si no es así, prevendrá al promovente para que subsane las deficiencias en el plazo previsto en el artículo 391 de este Código.
-
-II. Una vez satisfechos los requisitos de ley, admitirá a trámite la solicitud y emplazará al cónyuge que no pidió el divorcio, haciéndole saber los términos de la misma. De igual manera se le concederá el plazo de nueve días a fin de que manifieste su conformidad con el convenio exhibido o, en su caso, presente su contrapropuesta, en la que expondrá los hechos en que la funde y deberá ofrecer las pruebas respectivas relacionadas con la misma.
-
-En el mismo auto dará vista al Ministerio Público para su intervención de acuerdo a sus atribuciones.
-
-III. En el proveído inicial, el juzgador decretará las medidas provisionales que fueren procedentes.
-
-IV. El juez decretará el divorcio mediante resolución una vez desahogadas las vistas anteriores o cuando haya transcurrido el plazo para ello.
-
-V. En el caso de que ambos cónyuges hubieren presentado la solicitud, que lleguen a un acuerdo total o parcial respecto del convenio señalado en el artículo 363 del Código Civil o que no se hubiere suscitado controversia respecto de su contenido, y éste no contravenga ninguna disposición legal, el juez aprobará lo conducente en la misma resolución de divorcio.
-
-De no haber acuerdo, luego de decretar el divorcio el juez, de oficio, correrá traslado personal al solicitante con la contrapropuesta, la expresión de los hechos en que se funda y las pruebas ofrecidas, por un plazo de nueve días para que manifieste lo que a su interés convenga y ofrezca las pruebas de su intención.
-
-El solicitante podrá, en la vista indicada, formular a su vez las pretensiones que estime oportunas, expresando los hechos en que se funda y ofreciendo las pruebas que las justifiquen. De este escrito se dará vista al cónyuge que no pidió el divorcio por tres días para que manifieste lo que a su interés convenga.
-
-Desahogadas las vistas correspondientes o transcurrido el plazo de ley para ello, en proveído especial el juzgador tomará las determinaciones a que se refiere el último párrafo del artículo 412 de este código.
-
-El juicio continuará conforme a las reglas del juicio ordinario civil, tomando en consideración las especiales que rigen a los procedimientos del orden familiar.
-
-VI. Sin perjuicio de decretar el divorcio en los términos de la fracción anterior, si de las vistas a que se refiere la fracción II de este artículo aparecieren cuestiones relativas a los presupuestos procesales, se dará vista al solicitante con las mismas por el plazo de tres días, siguiendo las reglas de los incidentes.
-
-VII. El acuerdo de las partes, su allanamiento o rebeldía no vincula al juzgador respecto de los términos del convenio o su contrapropuesta.
-
-VIII. Se notificará personalmente la resolución que decrete el divorcio.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 583.
 
-Oposición del Ministerio Público al convenio.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-El Ministerio Público podrá oponerse al convenio cuando:
-
-I. La solicitud se haya hecho en contravención a lo dispuesto por el Código Civil.
-
-II. El convenio que en este caso deben presentar los cónyuges, viole los derechos de los hijos menores o incapaces.
-
-III. Los derechos de los hijos no queden debidamente garantizados.
-
-El juez, oyendo en justicia el pedimento, resolverá en consecuencia.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 584.
 
-Desistimiento de la solicitud de divorcio.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-El cónyuge que haya solicitado el divorcio, antes de que se pronuncie la resolución que decrete la disolución matrimonial, podrá desistirse de su solicitud, observándose las reglas contenidas en el artículo 311 de este código.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 585.
 
-Resolución que decreta el divorcio.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-La resolución del juez en la que se declare el divorcio no admite recurso alguno.
-
-Las demás determinaciones que se dicten dentro del juicio de divorcio serán recurribles de acuerdo a las reglas generales de los juicios en materia familiar.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 586.
 
-Ejecución administrativa.
-
-Decretado el divorcio, el tribunal mandará remitir copia a de la resolución al Oficial del Registro Civil del lugar en que el matrimonio se efectuó y al del nacimiento de los divorciados así como a la Dirección Estatal del Registro Civil para los efectos que se precisan en el Código Civil.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -6319,271 +6217,109 @@ Decretado el divorcio, el tribunal mandará remitir copia a de la resolución al
 
 (DEROGADO, P.O. 5 DE ABRIL DE 2013)
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-### CAPÍTULO OCTAVO. Violencia Familiar
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+### CAPÍTULO OCTAVO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 597.
 
-Denuncia de hechos que importen violencia familiar.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Quien sufra maltrato físico, psicoemocional o sexual, por parte de algún integrante del grupo familiar, podrá denunciar estos hechos en forma verbal o escrita ante el juez con competencia en asuntos familiares; sin embargo, en los lugares en que no resida juez de lo familiar, los jueces de primera instancia en materia civil, los mixtos, los letrados y los de conciliación, tendrán facultades para recibir la denuncia y acordar las medidas provisionales urgentes a que se refieren los artículos 331 y 332 de este código, hecho lo cual, remitirán al de materia familiar competente, sin demora alguna, las actuaciones practicadas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 598.
 
-Representación legal o por dependencia oficial de menores, incapaces, ancianos y discapacitados.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Cuando el afectado fuere menor o incapaz, anciano o discapacitado, los hechos deberán ser denunciados por sus representantes legales, por el Ministerio Público o por la Procuraduría de la Familia. También estarán obligados a efectuar la denuncia los encargados de los servicios asistenciales, sociales o educativos, públicos o privados, los profesionales de la salud y todo funcionario público en razón de su labor. El menor o incapaz puede directamente poner en conocimiento de los hechos al Ministerio Público.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 599.
 
-Procedimiento en los casos de violencia familiar.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-La violencia familiar se tramitará de acuerdo con las reglas previstas en los artículos 550 y 551 de este ordenamiento, con las siguientes modalidades:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-I. El juzgador requerirá un diagnóstico de interacción familiar efectuado por peritos de diversas disciplinas, que presten sus servicios en el Sistema para el Desarrollo integral de la Familia o en instituciones públicas de educación y salud, para determinar los daños físicos y psíquicos sufridos por la víctima; la situación de peligro en que se encuentra; así como el medio social y el ambiente familiar en el que se desenvuelve. Las partes podrán solicitar otros informes técnicos.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
-II. El diagnóstico solicitado por el juzgador a los peritos le deberá ser proporcionado con carácter de preliminar en el plazo de veinticuatro horas, si es que le fuere necesario para evaluar la situación de riesgo y facilitarle la decisión acerca de las medidas cautelares previstas en el artículo 332. El definitivo deberá exhibirlo el perito en la audiencia a que se refiere el artículo 551 de este código, en la que deberá estar presente para su explicación o aclaración, o para responder a las preguntas que se le formulen.
+### CAPÍTULO NOVENO
 
-III. La audiencia deberá ser señalada por el juzgador dentro de los cinco días siguientes a la fecha en que adopto las medidas cautelares y dispondrá la presencia del Ministerio Público y, en su caso, la del representante de la Procuraduría de la Familia, así como la de las partes y la de los peritos.
-
-IV. En la fase de conciliación el juzgador exhortará a los involucrados en audiencia privada, a fin de que convengan los actos para hacer cesar la violencia y, en caso de que no lo hicieren, en la misma audiencia, oyendo el parecer de los peritos y en base a los informes que hayan elaborado, determinará las medidas procedentes para la protección de la parte agredida y de los menores, en su caso.
-
-V. El juzgador, de ser necesario, en atención a los informes, instará a las partes y a su grupo familiar a asistir a programas educativos y terapéuticos.
-
-> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2006)</small>
-
-VI. De las denuncias que se formulen y de las determinaciones que se dicten, se dará participación al Sistema para el Desarrollo Integral de la Familia y, a la Unidad de Asistencia y Atención para la Prevención de la Violencia Familiar, a fin de que a través de la coordinación de los servicios públicos y privados eviten y, en su caso, superen las causas del maltrato, abusos y todo tipo de violencia dentro de la familia. Ambos organismos deberán informar a los juzgados en materia familiar cuales son las instituciones donde se proporcionará al agredido, al agresor y a su grupo familiar, asistencia medico psicológica gratuita.
-
-VII. A requerimiento del juzgador, la Policía del Estado y la Policía Municipal, están obligadas a hacer comparecer de inmediato a quienes fueren citados y a llevar a cabo las exclusiones de hogar y demás medidas que, por razones de seguridad personal, dispusieren los jueces.
-
-VIII. Las medidas que se adopten, podrán incluir las previstas en el artículo 253 y son sin perjuicio de las de orden penal que pudieren resultar.
-
-### CAPÍTULO NOVENO. Juicio sobre paternidad, filiación y patria potestad
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 600.
 
-Objeto de estos juicios.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Se tramitarán conforme a las reglas de este capítulo, los juicios que tengan por objeto:
-
-I. El desconocimiento de la paternidad de hijos nacidos dentro del matrimonio;
-
-II. La contradicción del reconocimiento que un hombre haga de un hijo nacido fuera de matrimonio, por parte de la madre que lo reconoce como suyo;
-
-III. La comprobación de la posesión de estado y filiación de los hijos legítimos, y
-
-IV. La investigación de la paternidad y maternidad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 601.
 
-Legitimación procesal en la demanda de paternidad y filiación.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Pueden formular demanda de paternidad y filiación:
-
-I. El marido, su tutor, si fuere incapaz, o sus herederos si se trata del desconocimiento de la paternidad de hijos nacidos dentro del matrimonio, en los casos autorizados por el Código Civil.
-
-II. La madre que reconoció como suyo un hijo nacido fuera del matrimonio, cuando pretende contradecir el reconocimiento que un hombre hizo de él.
-
-III. El hijo, en el caso en que pretende justificar la posesión de estado de hijo y por ende su filiación, en los términos del Código Civil.
-
-IV. Los hijos y sus descendientes que pretendan investigar la paternidad o la maternidad, en los casos permitidos por el Código Civil.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 602.
 
-Requisito en caso de representación voluntaria.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Si el juicio se entablare por medio de apoderado, no será admitida la personalidad del representante si no tiene poder especial o que contenga cláusula expresa, autorizándolo para formular la demanda y tramitar el juicio.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE AGOSTO DE 2004)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 603.
 
-Modalidades de los juicios sobre paternidad, maternidad y filiación. Los asuntos sobre paternidad, maternidad y filiación sólo podrán decidirse mediante sentencia declarativa que se dicte en juicio contradictorio, que se tramitará de acuerdo con las reglas del juicio ordinario, con las siguientes modalidades:
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADA, P.O. 17 DE AGOSTO DE 2004)</small>
-
-I. Los juicios de paternidad, maternidad y filiación no serán acumulables con ningún otro juicio, ni se admitirá en los mismos contrademanda o reconvención, salvo lo dispuesto en el párrafo cuarto del artículo 481 del Código Civil.
-
-En dichos juicios, el juez podrá resolver como medida provisional la procedencia de la prestación de alimentos, conforme a las bases siguientes:
-
-a) Exista peligro en la subsistencia de menores, discapacitados o personas vulnerables.
-
-b) Existan datos suficientes que indiquen la apariencia del buen derecho respecto de la paternidad, maternidad o filiación controvertida.
-
-c) No existan datos que contraindiquen o que razonablemente descarten el aparente derecho a la paternidad, maternidad o filiación de que se trate. En cualquier momento del juicio, la medida provisional se podrá revocar cuando se actualice este supuesto de duda razonable.
-
-d) La obligación provisional de prestar los alimentos, no prejuzga de manera definitiva la paternidad, maternidad y filiación de que se trate.
-
-II. En los casos de rebeldía se tendrá por contestada la demanda en sentido negativo.
-
-III. El juzgador no quedará vinculado por el allanamiento a la demanda, debiendo abrirse en todo caso el juicio a prueba.
-
-> <small>(ADICIONADO, P.O. 17 DE AGOSTO DE 2004)</small>
-
-Se exceptúa el caso en que el hijo sea reconocido expresamente por la parte demandada en los casos en que el reconocimiento sea admisible de conformidad con el Código Civil.
-
-IV. El tribunal podrá tener en cuenta hechos no alegados por las partes, pero debidamente acreditados en el expediente, así como ordenar de oficio la práctica de pruebas.
-
-V. Si el actor que intente la demanda deja de promover por más de seis meses en el curso del juicio, la sentencia que se dicte se limitará a decretar la caducidad de la instancia.
-
-VI. Si una de las partes fallece, el juicio se dará por concluido, excepto en los casos en que la ley conceda a los herederos expresamente la facultad de continuarlo.
-
-VII. El juzgador podrá admitir alegaciones y pruebas de las partes, aunque se presenten fuera de plazo.
-
-VIII. La sentencia tendrá autoridad de cosa juzgada, aún en contra de los terceros que no litigaren, excepto respecto de aquéllos que no habiendo sido citados al juicio, pretendan para si la existencia de la relación paterno filial.
-
-IX. El tribunal podrá dictar de oficio o a petición de parte, en cualquier estado del juicio, las medidas cautelares que juzgue adecuadas para que no se cause perjuicio a los hijos.
-
-> <small>(ADICIONADA, P.O. 17 DE AGOSTO DE 2004)</small>
-
-X. La filiación podrá ser establecida judicialmente con toda clase de pruebas, incluidas las biológicas, que se practicarán sólo con propósitos de identificación y con el conocimiento de los involucrados.
-
-La negativa injustificada a someterse a examen y análisis, constituye presunción contraria a la posición sustentada por el renuente.
-
-La prueba podrá ser negada y la presunción desvirtuada en los casos previstos por el artículo 481 del Código Civil.
-
-Para admitir la prueba, el juzgador deberá considerar la seriedad de su ofrecimiento en base a las demás pruebas propuestas; si además es necesaria, en el sentido de que no existan otros medios menos lesivos con igual eficacia demostrativa para la consecución del propósito, y si de ella se derivarán beneficios para el solicitante, sobre todo si se trata de menores de edad.
-
-La prueba se practicará por personal sanitario que cuente con especialidad para ello y registro en el Tribunal Superior de Justicia del Estado, con absoluto respeto a la dignidad de la persona que deba sujetarse a ella y sin que pueda en ningún caso constituir, en sí misma o por la forma de realizarla, un trato inhumano o degradante. La inobservancia de estas disposiciones serán sancionadas en los términos del artículo 253, fracción I, de este Código.
-
-El costo de la prueba será sufragado por quien la solicite, independientemente de lo que luego se establezca en la condena de gastos y costas, salvo que se trate de personas de escasos recursos patrocinadas por Defensorías de Oficio, en cuyo caso, su costo será sufragado por el Estado.
-
-El juzgador solicitará las pruebas biológicas a quien, en razón de su especialidad técnica, deba practicarlas, indicando la fecha y hora en que las muestras deban ser tomadas en el local del juzgador aún cuando también puede ordenar que se tomen en lugar diverso, en cuyo caso, decretará las providencias necesarias para que sean debidamente identificadas.
-
-El juzgador decidirá en base a los resultados de la prueba o del indicio emergente derivado de la negativa a someterse a ella, la filiación que considere más verosímil, tomando en consideración las demás pruebas que obran en autos y la posesión de estado.
-
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 604.
 
-Revisión de Oficio de la sentencia.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Las sentencia recaídas en el Juicio sobre paternidad y filiación serán revisables de oficio, abriéndose la segunda instancia aunque las partes no apelen, ni expresen agravios. El tribunal examinara la legalidad de la sentencia de primera instancia, quedando entre tanto pendiente de ejecución. De esta disposición se exceptuara los juicios de perdida de patria potestad.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 605.
 
-Juicio sobre pérdida de la patria potestad. Cuando la pérdida de la patria potestad no se derive de sentencia dictada en juicio penal o civil que condene expresamente a ello, sólo podrá decretarse mediante sentencia declarativa que se dicte en juicio especial.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-El juicio especial se tramitará conforme a lo establecido en artículo 605 bis II, con intervención del Ministerio Público.
+ARTÍCULO 605 BIS. (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-La sentencia que se dicte es apelable en el efecto suspensivo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-En cualquier estado del juicio, el juzgador podrá ordenar, de oficio o a petición de parte, que la custodia del hijo quede al cuidado de uno de los padres o de tercera persona y podrá además acordar las medidas cautelares que juzgue adecuadas.
+ARTÍCULO 605 BIS II. (DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
-
-ARTÍCULO 605 BIS.
-
-El Juez de la causa deberá en beneficio de los menores internos en una institución de asistencia social pública o privada, decretar dentro de un mismo juicio la pérdida de la patria potestad tanto a los padres como a los abuelos, cuando estos últimos no evitaron los hechos que dieron motivo a la misma, o bien mostraron nulo interés en el bienestar del menor, así como también cuando quede acreditada alguna de las causas señaladas en el artículo 545 del Código Civil Vigente en el Estado, lo anterior no está condicionado a que los padres hayan sido previamente privados, suspendidos o limitados en el ejercicio de los derechos de patria potestad, bastando con que los padres se encuentren impedidos para ejercerlos, ya sea física, mental o moralmente con independencia de que exista una resolución judicial que así lo haya determinado.
-
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
-
-ARTÍCULO 605 BIS II.
-
-Se tramitará juicio especial sobre pérdida de patria potestad de acuerdo a las disposiciones siguientes:
-
-I. El actor deberá presentar en su escrito inicial de demanda los documentos tendientes a sustentar su pretensión, de la misma manera al momento de la contestación de demanda la contraparte deberá presentar las pruebas necesarias para acreditar sus excepciones.
-
-II. El Juez requerirá en su caso a las partes que subsanen las deficiencias en un término no mayor de tres días.
-
-III. El juez en el auto de admisión deberá ordenar la preparación de pruebas y alegatos, así mismo, nombrará tutor dativo al niño o niña y en su caso ordenará la comparecencia de los mismos, dictando todas las medidas necesarias para salvaguardar el interés superior de la niñez.
-
-IV. Admitida la demanda, se llevará a cabo el emplazamiento de acuerdo a lo establecido en el artículo 393 de este ordenamiento. Si el emplazamiento se hiciera por medio de edictos, éste se ajustará a lo establecido en el artículo 221.
-
-V. Si la parte demandada no formula contestación, se le tendrá por contestando (sic) en sentido negativo.
-
-VI. El juez señalará día y hora para la celebración de una audiencia de pruebas y alegatos, en la cual deberán desahogarse todas las pruebas que así lo requieran, sin que pueda diferirse. Desahogadas todas las pruebas, se agotará la fase de alegatos.
-
-VII. Una vez concluida la etapa de alegatos, se citará para sentencia, la cual deberá dictarse en un término no mayor a quince días. En esta etapa no podrá solicitarse prórroga para dictar la resolución correspondiente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 606.
 
-Procedimiento para decretar la suspensión de la patria potestad.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Los asuntos que versen sobre la suspensión de la patria potestad y calificación de excusas, para ejercerla, cuando no hayan sido objeto de declaración judicial, se tramitarán y decidirán en una audiencia en la que se oiga a las partes y se reciban las pruebas que se presenten.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-La resolución que se dicte no es apelable.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
-### CAPÍTULO DÉCIMO. Adopción
+### CAPÍTULO DÉCIMO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 607.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE MARZO DE 2014)</small>
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Requisitos para que se autorice judicialmente la adopción. Para que se autorice la adopción, el que pretenda adoptar a uno o más menores, o a uno o más incapacitados, deberá acreditar:
-
-(REFORMADA, P.O. 28 DE DICIEMBRE DE 2007) (F. DE E., P.O. 18 DE ENERO DE 2008)
-
-I. Ser mayor de 25 años, tener 17 años más que el adoptado, el Juez lo puede dispensar en beneficio del adoptado, y a solicitud de los promoventes de forma personal y directa, atendiendo al interés superior del menor.
-
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
-
-II. Que existe común acuerdo entre los cónyuges para considerar al adoptado como hijo, en el caso de que la adopción se pida por personas que estén unidas en matrimonio, pudiendo hacerse aunque tengan descendientes.
-
-III. Que el adoptante o adoptantes tienen medios bastantes para proveer a la subsistencia y educación del menor o al cuidado y subsistencia del incapacitado, como hijos propios, según las circunstancias de la persona que trate de adoptarse.
-
-IV. Que la adopción es benéfica para la persona que trata de adoptarse, atendiendo al interés superior de la misma.
-
-V. Que el adoptante o adoptantes son personas aptas, adecuadas y de buenas costumbres.
-
-En la petición inicial deberá manifestarse el nombre y edad de la persona a quien se va a adoptar, y si es menor o incapacitado, el nombre y domicilio de quienes ejerzan sobre él la patria potestad o la tutela, o de las personas o instituciones de beneficencia que lo hayan acogido. Si el adoptado es menor o incapacitado y no está sujeto a patria potestad o tutela, se le proveerá de tutor especial para que lo represente. Cuando circunstancias especiales lo aconsejen, el juzgador puede autorizar la adopción de dos o más menores o incapacitados, o de menores o incapaces simultáneamente.
-
-(ADICIONADA, P.O. 28 DE DICIEMBRE DE 2007) (F. DE E., P.O. 18 DE ENERO DE 2008)
-
-VI. Que ha asistido al curso denominado "Capacitación de Padres Adoptivos" impartido por la Procuraduría de la Familia o el Centro de Evaluación Psicosocial del Poder Judicial del Estado, en el cual se les prepara emocionalmente, para determinar si tienen la capacidad de realizar el trámite de adopción.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 608.
 
-Partes intervinientes en el procedimiento de adopción.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Además de los interesados, será parte en el procedimiento de adopción el Sistema para el Desarrollo Integral de la Familia a través de la Procuraduría de la Familia y deberá oírse al Ministerio Público.
-
-Cuando se trate de una adopción internacional, el Sistema para el Desarrollo Integral de la Familia fungirá como autoridad central en los términos de los tratados y convenciones internacionales suscritos y ratificados por el Estado Mexicano sobre la materia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 609.
 
-Resolución.
-
-Rendidas las justificaciones que se exige en el artículo 607, y obtenido el consentimiento de las personas que deben darlo conforme al Código Civil, el juzgador resolverá lo que corresponda, dentro del tercer día, observando en todos los casos las siguientes reglas:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 26 DE JUNIO DE 2012)</small>
-
-I. Asegurará de que las personas o instituciones cuyo consentimiento se requiere para la adopción han sido convenientemente asesoradas y debidamente informadas sobre el alcance de dicho consentimiento; en particular, en relación a la ruptura, en virtud de la adopción, de los vínculos jurídicos entre el menor y su familia de origen.
-
-II. Exigirá que el consentimiento sea dado o conste por escrito y vigilará que sea expresión libre de la voluntad, exento de vicios que puedan afectarlo y que no se haya obtenido mediante pago o compensación de clase alguna.
-
-Si se trata del consentimiento de la madre, cuando éste sea exigible, verificar que éste haya sido otorgado después del nacimiento del menor.
-
-III. En atención a la edad y grado de madurez del menor o lucidez del incapaz, constatará si se ha tomado en consideración sus deseos y opiniones.
-
-Si el menor que se va a adoptar tiene más de catorce años, verá que haya dado su consentimiento libremente, por escrito, en la forma legalmente establecida.
-
-IV. Constatar que los futuros padre o madre o padres adoptivos, hayan sido convenientemente asesorados e informados sobre la nueva situación jurídica que adquieren en virtud de la adopción y que son adecuados y aptos para adoptar.
-
-V. Verificar a través del estudio socio-económico o del informe que elabore el Sistema para el Desarrollo Integral de la Familia, la identidad, capacidad jurídica, situación personal, familiar, médica, económica y social del o de los adoptantes, para establecer, sin lugar a dudas, que reúnen los requisitos previstos en la fracción V del artículo 607.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2012)</small>
-
-El juzgador asegurará en el secreto del juzgado la información de la que disponga relativa a los orígenes de un menor, en particular la información respecto a la identidad de sus padres.
-
-Si en el trámite de la adopción intervino alguna persona, organismo o institución; el juzgador autorizará los gastos erogados que le sean plenamente justificados, incluyendo los honorarios de los abogados; pero estará facultado para moderar las prestaciones que estime desproporcionadas en relación a los servicios prestados y para rechazar de plano todo beneficio material indebido que se trate de exigir como consecuencia de una intervención en un procedimiento de adopción. Sobre ello informará puntualmente al adoptante o adoptantes y lo hará constar en la pieza de autos.
-
-> <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2007)</small>
-
-El Juez de la causa ordenará a la Procuraduría de la Familia realice visitas de seguimiento periódicas durante un tiempo no menor a un año en el domicilio de los adoptantes, resultados que deberá hacer de conocimiento del juzgador para los efectos legales conducentes.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -6597,657 +6333,417 @@ El Juez de la causa ordenará a la Procuraduría de la Familia realice visitas d
 
 (DEROGADO, P.O. 26 DE JUNIO DE 2012)
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 612.
 
-Inscripción de las resoluciones en el Registro Civil.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2012)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
-Las resoluciones que dicte el juzgador aprobando la adopción, se comunicarán al Oficial del Registro Civil que corresponda y a la Dirección Estatal del Registro Civil para que el primero cancele el acta de nacimiento del adoptado, en caso de que exista, mediante una anotación marginal, y ambos anoten la de nacimiento.
+### CAPÍTULO DÉCIMO PRIMERO
 
-### CAPÍTULO DÉCIMO PRIMERO. Alimentos
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 613.
 
-Demanda de alimentos.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-En el juicio de alimentos la demanda podrá presentarse por escrito o expresarse por comparecencia personal ante el juzgador, de la cual se levantará el acta correspondiente. En ambos casos la demanda deberá reunir los requisitos previstos en el artículo 384 de este código, y la parte actora deberá acompañar los documentos que se señalan en los artículos 385 y 386.
-
-En la demanda la parte actora podrá solicitar el otorgamiento de alimentos provisionales en los términos previstos en este código. La recusación no podrá impedir que el juzgador adopte las medidas provisionales sobre alimentos.
-
-En la misma demanda, la parte demandante deberá ofrecer las pruebas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 614.
 
-Emplazamiento y contestación a la demanda.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-En el auto de admisión de la demanda, el juzgador ordenará que se emplace a la parte demandada para que la conteste dentro de los nueve días siguientes.
-
-En el escrito de contestación a la demanda, el demandado deberá ofrecer las pruebas respectivas.
-
-En el mismo auto el juzgador señalará el día y hora para que tenga verificativo la audiencia de pruebas y alegatos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 615.
 
-Audiencia.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-La audiencia se practicará con o sin asistencia de las partes. El juzgador podrá cerciorarse personalmente o con auxilio de trabajadores sociales, de la veracidad de los hechos controvertidos. Estos presentarán el informe correspondiente en la audiencia y podrán ser interrogados por el juzgador y por las partes. La valoración del informe se hará conforme a lo dispuesto en el artículo 513 de este código. En el fallo se expresarán en todo caso los medios de prueba en que se haya fundado el juzgador para dictarlo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 616.
 
-Sentencia.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-La sentencia definitiva se pronunciará de manera breve y concisa, en el mismo momento de la audiencia, de ser así posible, o dentro de los ocho días siguientes.
-
-La sentencia definitiva será apelable en el efecto devolutivo; y cuando condene al pago de alimentos, se ejecutará sin fianza.
-
-Tanto la sentencia definitiva que condena al pago de alimentos como la resolución que decreta alimentos provisionales, pueden modificarse cuando cambien las circunstancias de hecho que las determinaron.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 617.
 
-Aplicación de las reglas especiales y generales en materia de alimentos.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-En los casos de extrema urgencia, se estará a lo dispuesto en el artículo 550.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-En todo lo no previsto y en cuanto no se oponga a lo ordenado en el presente Capítulo, se aplicarán las reglas generales de este código.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
-### CAPÍTULO DUODÉCIMO. Interdicción
+### CAPÍTULO DUODÉCIMO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 618.
 
-Requisitos de la demanda para obtener la declaración de estado de interdicción.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-La demanda que se presente con objeto de obtener la declaración de incapacidad o interdicción de una persona, deberá contener los siguientes datos:
-
-I. Nombre, edad, domicilio, estado civil y actual residencia de la persona cuya incapacidad o interdicción se demanda.
-
-II. Nombre, domicilio del cónyuge o parientes dentro del cuarto grado y, en su caso, del tutor de dicha persona.
-
-III. Los hechos que den motivo a la demanda.
-
-IV. Diagnóstico y pronóstico de la enfermedad, formulados por el facultativo que asista al incapaz, acompañando el certificado o certificados relativos.
-
-> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2013)</small>
-
-Para el caso de personas con síndrome down, se requerirá únicamente la exhibición del examen de genética denominado cariotipo, a fin de acreditar la existencia de la trisomía veintiuno; el cual podrá ser realizado por cualquier institución médica autorizada para practicar esta prueba.
-
-V. Relación de los bienes conocidos como propiedad de la persona y que deben ser sometidos a la vigilancia judicial.
-
-VI. Especificación del parentesco o vínculo que une al demandante con el demandado.
-
-La demanda se substanciará en la vía ordinaria, con las modalidades que se establecen en el presente capítulo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 619.
 
-Providencias que debe dictar el juzgador.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Recibida la demanda, el juzgador dispondrá lo siguiente:
-
-I. Ordenará que se notifique la demanda al Ministerio Público.
-
-II. Nombrará a la persona cuya interdicción se demande, un tutor dativo. Para hacer la designación se preferirá a los padres, cónyuge, abuelos o hermanos y si no los hubiere, se nombrará persona de reconocida honorabilidad que, además, no tenga relación de amistad o comunidad de intereses con el demandante.
-
-III. Dispondrá que dos peritos médicos, preferentemente alienistas, examinen al demandado y emitan opinión acerca del fundamento de la demanda. El tutor podrá nombrar un médico para que tome parte en el examen y se oiga su dictamen. Podrá el juzgador, además, requerirles opinión preliminar a los médicos.
-
-> <small>(ADICIONADO, P.O. 11 DE JUNIO DE 2013)</small>
-
-Para el caso de personas con síndrome down, bastara un solo perito médico, y su opinión podrá ofrecerse al momento de realizar el examen.
-
-IV. Dispondrá que se cite al cónyuge y a los parientes cuyos informes se consideren útiles.
-
-V. Ordenará que se practique el examen en su presencia, en la del Ministerio Público y en la de las personas citadas conforme a la fracción anterior, así como del demandante. El juzgador interrogará, si es posible a la persona cuya interdicción se pide, y escuchará la opinión del médico y demás personas citadas, formulando a éstas las preguntas que considere oportunas. Podrá ordenar de oficio las medidas de instrucción pertinentes a los fines del juicio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 620.
 
-Intervención personal del demandado.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Las personas para quienes se pida la interdicción podrán comparecer en el juicio y cumplir por sí todos los actos procesales, incluidas las impugnaciones, aún cuando se les haya nombrado tutor o curador.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 621.
 
-Dictámenes médicos.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Además del examen en presencia del juzgador, los médicos podrán practicar los exámenes adicionales que juzguen necesarios. En su informe establecerán con la mayor precisión las siguientes circunstancias:
-
-I. Diagnóstico de la enfermedad.
-
-II. Pronóstico de la misma.
-
-III. Manifestaciones características del estado actual del demandado.
-
-IV. Tratamiento conveniente para asegurar la condición futura del mismo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 622.
 
-Otros medios de prueba.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Las partes podrán ofrecer y aportar todos los medios de prueba que resulten idóneos para esclarecer si el demandado se encuentra o no en estado de interdicción. El juzgador resolverá sobre la admisibilidad de estos medios de prueba y, en su caso proveerá las medidas necesarias para su práctica.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 623.
 
-Medidas de protección personal del demandado.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Recibido el informe, o antes si fuera necesario, el juzgador tomará todas las medidas de protección personal del demandado que considere convenientes para asegurar la mejor condición de éste.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 624.
 
-Sentencia declarativa del estado de interdicción.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Cumplidos los trámites que se establecen en los artículos precedentes, y si el juzgador tuviere la convicción del estado de incapacidad, la declarará así y proveerá a la tutela del incapacitado, así como a la patria potestad o tutela de las personas que estuvieren bajo su guarda.
-
-Si no adquiere convicción de ese estado, podrá sobreseer el procedimiento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 625.
 
-Revisión periódica de las resoluciones dictadas en materia de interdicción.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Las declaraciones que el juzgador hiciere en esta materia, así como las medidas dispuestas, no pasarán nunca en autoridad de cosa juzgada, pudiendo ser revisadas en cualquier tiempo en que varíen las circunstancias. Cada año se hará un nuevo examen del declarado en estado de interdicción y el tutor que no promueva este examen será separado de su cargo.
-
-La interdicción se revocará cuando cese la causa que la motivó. Para decretar la revocación se observarán las mismas disposiciones que para declarar la interdicción.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 626.
 
-Impugnación de la resolución.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-La sentencia que resuelve la demanda de interdicción podrá ser impugnada en apelación en el efecto suspensivo por todos los que tengan el derecho de impugnarla, aunque no hayan intervenido en el juicio, y por el tutor o curador interinos. Podrá impugnarla también la persona declarada en interdicción.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 627.
 
-Inscripción de la resolución en el Registro Civil.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Ejecutoriada la sentencia que declara el estado de interdicción, el juzgador remitirá copia certificada de ella a la Dirección Estatal del Registro Civil y a la Oficialía que corresponda, para que se efectúe la inscripción correspondiente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 628.
 
-Sanciones en caso de promoción dolosa del juicio de interdicción.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-El que promueva dolosamente el juicio de interdicción, incurrirá en las penas que la ley impone por falsedad y calumnia; responderá civilmente de los daños y perjuicios que cause al supuesto incapaz, y se le impondrá además una multa hasta de quinientas veces el salario mínimo. El demandante deberá, pagar los gastos y costas del juicio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-### CAPÍTULO DÉCIMO TERCERO. Tutela y discernimiento de cargo de tutor
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO DÉCIMO TERCERO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 629.
 
-Nombramiento de tutores.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Procederá el nombramiento de tutor y se conferirá el cargo con intervención de la autoridad judicial respecto de las personas que se encuentren en estado de minoridad, y no tengan quien ejerza sobre ellos la patria potestad o se hayan emancipado; así como respecto de quienes sean declaradas en estado de interdicción, conforme a las reglas del capítulo anterior.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 630.
 
-Legitimación para solicitar la designación.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Puede pedir que se confiera la tutela y se haga el nombramiento de tutor:
-
-I. El mismo menor, si ha cumplido catorce años.
-
-II. El cónyuge del incapacitado.
-
-III. Los presuntos herederos legítimos.
-
-IV. El albacea.
-
-V. El tutor interino.
-
-VI. El Ministerio Público.
-
-VII. La Procuraduría de la Familia.
-
-VIII. Los encargados del Registro Civil y demás autoridades del Estado, que en el ejercicio de sus funciones, conozcan de casos en los que sea necesario nombrar tutor.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 631.
 
-Documentos que deben acompañarse a la demanda.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-La solicitud deberá acompañarse de los documentos que justifiquen el estado de minoridad o la declaración de interdicción.
-
-El estado de minoridad se justifica con el acta de nacimiento del menor; y si no la hubiere, se podrán exhibir otros documentos, y a falta de ellos, se comprobará por el aspecto del menor mediante pericial médica. Cuando no exista acta de nacimiento que compruebe la minoridad se requerirá que la autoridad judicial haga previamente la declaración de dicho estado.
-
-El estado de interdicción se comprobará con la resolución que declare la incapacidad, pudiendo promoverse el nombramiento de tutor definitivo, como continuación del juicio en que se declaró.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 632.
 
-Discernimiento y aceptación del cargo.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Comprobada la minoridad o incapacidad se procederá a hacer el nombramiento de tutor de acuerdo con las reglas del Código Civil. Al efecto el Tribunal Superior de Justicia cada año elaborará la lista de las personas que pueden asumir tal responsabilidad.
-
-Hecho el nombramiento, se notificará al tutor para que manifiesten si aceptan o no el cargo o propongan al juzgador, dentro de los quince días siguientes a la fecha de la notificación, los impedimentos y excusas que tuvieren, sin perjuicio de que si durante el desempeño de la tutela ocurrieren causas posteriores de impedimento o de excusa, las hicieren valer.
-
-La aceptación de la tutela o el transcurso del plazo en su caso, importarán la renuncia de la excusa.
-
-Mientras el tutor asume el cargo o se califica su excusa el juzgador dictará las medidas necesarias, para que se cuide provisionalmente de la persona y bienes del incapaz.
-
-El tutor designado aceptará el cargo y protestará su leal desempeño ante el juzgador que los nombró, sin cuyo requisito no podrá ejercer la representación del incapacitado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 633.
 
-Tutela testamentaria.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Acreditado el nombramiento de tutor hecho por el que ejerce la patria potestad en su disposición testamentaria, el juzgador discernirá el cargo al nombrado.
-
-Si por un nombramiento condicional de tutor o por cualquier otro motivo, faltare temporalmente el tutor testamentario, el juzgador proveerá de un tutor interino al menor, conforme a las reglas generales sobre nombramiento de tutores previstas en el Código Civil.
-
-El juzgador, previa audiencia del tutor testamentario, del Ministerio Público y de la Procuraduría de la Familia, podrá modificar o dispensar las reglas, limitaciones y condiciones puestas por el testador para la administración de la tutela, que sean perjudiciales al incapaz sujeto a ella.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 634.
 
-Tutela legítima.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Si hubiere varios ascendientes, hermanos o hermanas, o varios tíos o tías, a quienes pudiere corresponder la tutela legítima, el juzgador elegirá entre ellos al que le parezca más apta para el cargo, a cuyo efecto los convocará a una audiencia y recabará los informes necesarios. Si el menor hubiere cumplido catorce años, él hará la elección y el juzgador sólo discernirá el cargo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 635.
 
-Tutela dativa.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Son aplicables al nombramiento de tutor dativo las siguientes reglas:
-
-I. El tutor dativo será designado por el menor, si ya cumplió catorce años.
-
-II. El juzgador confirmará la designación si no tiene justa causa para rechazarla.
-
-III. Para rechazar una segunda propuesta, el juzgador citará a la persona en quien recaiga ésta, al menor y a un defensor de éste, que él mismo eligirá (sic).
-
-IV. Si tampoco se aprueba este segundo nombramiento hecho por el menor, el juzgador nombrará tutor conforme a lo dispuesto en la fracción siguiente.
-
-V. Si el menor no ha cumplido catorce años, o en el caso de la fracción IV anterior, el nombramiento del tutor lo hará el juzgador, seleccionándolo de entre quienes figuren con ese cargo en la lista de auxiliares de la administración de justicia.
-
-VI. Si el juzgador no hace oportunamente el nombramiento de tutor, se hará responsable de los daños y perjuicios que se sigan al incapaz por esa falta.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 636.
 
-Otorgamiento de garantía por el tutor.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Todo tutor, antes de que se le discierna el cargo, debe prestar las garantías de hipoteca, prenda o fianza, a no ser que se encuentre en los siguientes casos:
-
-I. Los tutores testamentarios cuando expresamente los haya relevado de esta obligación el testador, salvo si con posterioridad haya sobrevenido causa ignorada por éste, que a juicio del juzgador, haga necesaria la caución.
-
-II. El tutor que no administre bienes.
-
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
-
-III. Los padres y los abuelos del menor o incapacitado, en los casos en que conforme a la ley son llamados a desempeñar la tutela de sus descendientes, salvo que el juzgador, lo crea conveniente.
-
-IV. Los que acojan a un expósito, lo alimenten y eduquen, de manera eficiente y apropiada por más de cinco años, a no ser que hubieren recibido pensión para cuidar de él.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 637.
 
-Oposición al discernimiento del cargo de tutor.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Puede oponerse al discernimiento del cargo de tutor, el menor, si hubiere cumplido catorce años de edad, el que haya formulado la petición, si tiene legitimación para hacerlo, y el Ministerio Público. Si se trata de tutor especial, quien ejerza la patria potestad.
-
-La oposición deberá fundarse en que el tutor nombrado no reúne los requisitos que la ley exige para desempeñar estos cargos, o tienen impedimento legal. El menor podrá también oponerse al nombramiento de tutor testamentario, cuando la persona que lo haya instituido heredero o legatario no sea su ascendiente, siempre que haya cumplido catorce años de edad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 638.
 
-Nombramiento de nuevo tutor.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Si la oposición al discernimiento de los cargos de tutor o curador fuere fundada o si el tutor, dentro de los tres meses después de aceptado su nombramiento, no pudiere otorgar la garantía, se procederá al nombramiento de nuevo tutor.
-
-Entretanto, desempeñará la administración de los bienes un tutor interino, quien los recibirá por inventario, y sólo podrá ejecutar los actos que el juzgador autorice y que se limitarán a los indispensables para la conservación de los bienes y percepción de los productos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 639.
 
-Registro de tutelas.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Bajo la responsabilidad de los jueces de lo familiar o de los que hagan su función, se llevará un registro de tutelas que estará a disposición del Tribunal Superior de Justicia. En este registro se pondrá testimonio simple de todos los discernimientos que se hicieren del cargo de tutor.
-
-De todas las determinaciones que pronuncien los jueces en los juicios en que intervengan tutores, deberán conservar copias en sus juzgados con objeto de integrar un registro especial, además del de discernimiento de los cargos a que se refiere el párrafo anterior.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 640.
 
-Revisión del registro de tutelas.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Dentro de los ocho primeros días de cada año, en audiencia pública, con citación del Ministerio Público, se procederá a examinar el registro a que se refiere el artículo anterior, y el juzgador dictará las siguientes medidas:
-
-I. Si constare el fallecimiento de algún tutor, hará que sea reemplazado con arreglo a la ley.
-
-II. Si hubiere alguna cantidad de dinero que resultare sobrante después de cubiertas las cargas y atenciones de la tutela o dinero que proceda de las redenciones de capitales o que se adquiera de cualquier otro modo lícito, se ordenará que si excede de cien veces el salario mínimo general diario vigente en la capital del Estado, se imponga por el tutor en hipoteca calificada bajo su responsabilidad, en un plazo no mayor de un mes y al mayor interés posible, salvo que hubiere algún inconveniente grave para hacer la imposición, en cuyo caso dispondrá de un mes más.
-
-También podrá autorizarse la inversión en cédulas, bonos u otros valores que ofrezcan seguridad, a juicio del juzgador.
-
-El tutor que no cumpla con lo dispuesto en esta fracción, pagará los correspondientes réditos bancarios mientras no haga el depósito, pero si transcurre un mes sin que haga éste, previa audiencia del mismo tutor será removido por el juzgador.
-
-III. Exigirá que los tutores rindan cuenta detallada de su administración en el mes de enero, sea cual fuere la fecha en que se les hubiere discernido el cargo. La falta de presentación de la cuenta en los tres meses siguientes al de enero, motivará la remoción del tutor; salvo que el juzgador prorrogue este plazo, si circunstancias extraordinarias así lo exigieren, en cuyo caso podrá conceder tres meses más.
-
-IV. Obligará a los tutores a que depositen en el establecimiento público destinado al efecto, los sobrantes de las rentas o producto del caudal de los menores o incapacitados, después de cubiertas las sumas por los gastos de alimentación y educación del menor y de sueldos de los dependientes necesarios y pagado de la retribución que corresponda al tutor.
-
-V. Si los jueces lo creyeren conveniente; decretarán el depósito cuando se presenten dificultades insuperables para la imposición de los sobrantes o capitales que tuvieren los menores o incapacitados.
-
-VI. Pedirán las noticias que estimen necesarias del estado en que se halle la gestión de la tutela, y adoptarán las medidas que juzguen convenientes para evitar los abusos y remediar los que pudieren haberse cometido.
-
-VII. Cuidarán de que a los declarados en estado de interdicción se les haga el examen médico anual ordenado por el artículo 625 de este código.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 641.
 
-Impedimentos y excusas de tutores.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-En todos los casos en que se suscite impedimento o excusa de un tutor, o se promueva su separación, se nombrará desde luego tutor interino mientras se decide el punto. La separación se tramitará en la forma incidental, y la resolución que se dicte será apelable en el efecto devolutivo.
-
-Si se decidiere que existe impedimento o motivo de excusa o se decreta la separación del tutor, se hará nuevo nombramiento conforme a derecho.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 642.
 
-Rendición y aprobación de cuentas de los tutores.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Sobre la rendición y aprobación de cuentas de los tutores, regirán las reglas de la ejecución forzosa con las siguientes modificaciones:
-
-I. Las cuentas se rendirán dentro del mes de enero de cada año, conforme a lo dispuesto en el artículo 640 fracción III, de este código, debiendo cumplirse con esta obligación aunque no exista prevención judicial para ello.
-
-II. El tutor también tiene obligación de rendir cuentas cuando por causas graves que calificará el juzgador, lo exijan el Ministerio Público, o el mismo menor que hubiere cumplido catorce años de edad o el propio incapaz a que se refiere el artículo 620.
-
-III. Se requerirá prevención judicial para que las cuentas se rindan antes de llegar al plazo previsto en la fracción I, a menos de que hubiese separación y remoción del tutor, pues en este caso, sin requerimiento judicial, deberán presentarlas dentro de los quince días siguientes de la fecha de la remoción o separación. En igual forma se procederá cuando la tutela llegue al final del plazo por haber cesado el estado de minoridad o de interdicción, más en este caso, el plazo para rendir las cuentas generales de la tutela será de tres meses contados desde el día en que fenezca la tutela.
-
-IV. Las personas a quienes deben ser rendidas las cuentas, son: el juzgador, el mismo menor que haya cumplido catorce años de edad, el tutor que substituya en el cargo al tutor anterior, el pupilo que deje de serlo, el Ministerio Público y las demás personas que determine el Código Civil.
-
-Del auto de aprobación pueden apelar el Ministerio Público y los demás interesados de que habla esta fracción. Del auto de desaprobación pueden apelar el tutor, el Ministerio Público o cualquier interesado, si la resolución desaprobatoria no acepta en su totalidad las objeciones que hubieren formulado.
-
-Si se objetaren de falsas algunas partidas, se substanciará el incidente entendiéndose la diligencia sólo con los objetantes, el Ministerio Público y el tutor.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 643.
 
-Separación del tutor.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-En los casos de maltrato, o de negligencia en los cuidados debidos al incapacitado o cuando del examen de la cuenta resulten motivos graves para sospechar dolo, fraude o culpa grave en el tutor, se iniciará desde luego, a petición de parte, o del Ministerio Público, el juicio de separación, el que se seguirá en forma contenciosa y en la vía incidental.
-
-Desde que se inicie el juicio, el juzgador nombrará un tutor interino, quedando en suspenso entre tanto el tutor propietario, sin perjuicio de que en cualquier tiempo se remita testimonio, en lo conducente, a las autoridades penales, si aparecieren motivos graves para sospechar que exista la comisión de algún delito.
-
-Los tutores no pueden ser removidos sin que se siga el juicio contradictorio de que habla este artículo, tampoco pueden aceptarse sus excusas sin que se substancie el incidente respectivo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 644.
 
-Entrega de bienes de la tutela.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Concluida la tutela, el tutor está obligado a entregar todos los bienes del incapacitado y todos los documentos que correspondan, conforme al balance que se hubiere presentado en la última cuenta aprobada. La obligación de entregar los bienes no se suspende por estar pendiente la rendición de cuentas.
-
-La entrega de los bienes y la cuenta de la tutela se efectuará a expensas del incapacitado.
-
-Cuando medie dolo o culpa de parte del tutor serán de su cuenta todos los gastos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 645.
 
-Designación de tutor especial.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-La designación de un tutor especial para que represente a un menor en un juicio determinado, siempre que las funciones del tutor se circunscriban al de que se trata, se hará por el juez del conocimiento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-### CAPÍTULO DÉCIMO CUARTO. Enajenación de bienes de menores o incapacitados y transacción acerca de sus derechos
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO DÉCIMO CUARTO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 646.
 
-Autorización judicial para vender bienes de menores o incapacitados.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Será necesaria autorización judicial para la venta de los bienes que pertenezcan exclusiva o parcialmente a menores o incapacitados, si corresponden a las siguientes clases:
-
-I. Bienes raíces.
-
-II. Derechos reales sobre inmuebles.
-
-III. Alhajas y muebles preciosos.
-
-IV. Acciones de sociedades mercantiles, certificados de participación, obligaciones y cualquier otro título semejante, cuyo valor en conjunto exceda de cien veces el salario mínimo general diario vigente en la capital del Estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 647.
 
-De las reglas para la subasta de los bienes de menores sujetos a tutela.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Respecto de las alhajas y muebles preciosos, el juzgador determinará si conviene o no la subasta, atendiendo en todo a la absoluta necesidad o evidente utilidad del pupilo y previa audiencia del Ministerio Público. Si la subasta se decreta, se hará conforme a las reglas de la ejecución forzosa para la de bienes muebles, a menos que el juzgador decida dispensar la almoneda y autorizar la venta en plaza por aparecer acreditada la ventaja indiscutible que reportara para el tutelado.
-
-El remate de los inmuebles se hará conforme a las reglas de la ejecución forzosa y en él no podrá admitirse postura que baje de las dos terceras partes del avalúo judicial, ni la que no se ajuste a los términos de la autorización judicial. Si en la primera almoneda no hubiere postor, el juzgador convocará a solicitud del tutor a una junta, dentro del tercer día, para ver si son de modificarse o no las bases del remate, señalándose nuevamente las almonedas que fueren necesarias.
-
-Para la venta de acciones, títulos de renta, valores comerciales, frutos y ganado pertenecientes al incapaz, se concederá la autorización sobre la base de que no se haga por menor valor del que se coticen en la plaza el día de la venta, y por conducto de corredor titulado, y si no lo hay, de comerciante establecido y acreditado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 648.
 
-Destino del precio de la venta.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-El precio de la venta se entregará al tutor, si la caución o garantías prestadas son suficientes para responder de él. De otra manera, se depositará en la institución de crédito designada al efecto por el juzgador.
-
-El juzgador señalará un plazo prudente al tutor para que justifique la inversión del precio de la enajenación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 649.
 
-Solicitud para gravar o enajenar bienes del hijo sujeto a patria potestad y su tramitación.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Para la venta de los bienes inmuebles o muebles preciosos del hijo sujeto a la patria potestad, requerirán los que la ejercen, la autorización judicial, que solo se concederá si se acredita la absoluta necesidad o el evidente beneficio para el menor. El juzgador tomará las medidas necesarias para que el producto de la venta se dedique al objeto para el que se concedió la autorización y el excedente en caso de que exista, se deposite en una institución de crédito o se imponga con segura hipoteca en favor del menor, según sea más conveniente para éste.
-
-La autorización se substanciará conforme a las reglas de los procedimientos no contenciosos, con intervención del Ministerio Público o de un tutor especial que para el efecto nombre el juzgador desde las primeras diligencias.
-
-Bajo las mismas condiciones podrán gravar los padres los bienes inmuebles de sus hijos, o consentir la extinción de derechos reales.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 650.
 
-Autorización para la realización de determinados actos jurídicos a nombre del menor o incapaz.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Para recibir dinero prestado en nombre del menor o incapacitado, necesita el tutor la autorización del juzgador. La petición se formulará explicando las causas que obligan a solicitar el préstamo o a gravar los bienes, y en vista de la motivación y las pruebas que se aporten y de lo que manifieste el Ministerio Público, el juzgador concederá o denegará la autorización.
-
-En igual forma se procederá para llevar a cabo transacciones o comprometer en árbitros los negocios de los menores o incapacitados, y para dar en arrendamiento por más de cinco años sus bienes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 651.
 
-Aplicabilidad de las reglas de este capítulo respecto de bienes pertenecientes a ausentes.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Las reglas de este capítulo serán aplicables en lo conducente para el gravamen, enajenación, transacción, y arrendamiento por más de cinco años, de bienes pertenecientes a ausentes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-### CAPÍTULO DÉCIMO QUINTO. Habilitación de edad y autorización de menores
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO DÉCIMO QUINTO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 652.
 
-Habilitación al menor para comparecer a juicio.
-
-La habilitación para comparecer en juicio que solicite el menor que haya cumplido dieciséis años de edad, sujeto a patria potestad o tutela, le será concedida cuando compruebe que los padres o ascendientes que ejercen la patria potestad o la tutela están ausentes, se ignora su paradero o se niegan a representarlo; que fue demandado o se le sigue un perjuicio grave por no promover un juicio; que su conducta es buena y que tiene aptitud para el manejo de sus negocios.
-
-La autorización la concederá o denegará el juzgador oyendo al menor y al Ministerio Público en una audiencia en la que recibirá las pruebas que le presenten. En caso de negativa, le designará un tutor para asuntos judiciales.
-
-La resolución que se pronuncie no es apelable y quedará sin efecto cuando los padres o tutores se apersonen en el juicio en el que el menor sea parte.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 ###### ARTÍCULO 653.
 
 (DEROGADO, P.O. 4 DE SEPTIEMBRE DE 2015)
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 654.
 
-Autorización al menor emancipado o habilitado para enajenar o gravar bienes inmuebles.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-La autorización judicial que soliciten los emancipados o habilitados de edad para enajenar, gravar o hipotecar bienes raíces, se otorgará oyendo al menor emancipado y al Ministerio Público en una audiencia, sin que se requieran formalidades de ninguna clase, asentándose únicamente en una acta la diligencia celebrada.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-### CAPÍTULO DÉCIMO SEXTO. Declaración de ausencia y presunción de muerte
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO DÉCIMO SEXTO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 655.
 
-Medidas preventivas en los casos de desaparición de personas.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
-
-A petición de parte o del Ministerio Público, cuando una persona haya desaparecido sin dejar apoderado y se ignore el lugar donde se halle, el juzgador dictará las medidas conservativas indispensables, nombrando un administrador de sus bienes, el cual, además de custodiar éstos representará al ausente en juicio y fuera de él; además, mandará citar al ausente por edictos publicados en el Periódico Oficial del Estado y en el portal electrónico destinado para ello, remitiendo en su caso copia de los edictos a los cónsules mexicanos de aquellos lugares del extranjero en que se presume que se encuentra o se tenga noticia de él. Al hacer la citación, se fijará al ausente un plazo no menor de tres meses ni mayor de seis para que se presente.
-
-Podrá ser designado administrador representante:
-
-a) El cónyuge del ausente.
-
-b) Uno de los hijos mayores de edad que resida en el lugar. Si hubiere varios, el juzgador eligirá (sic) al que estime más apto.
-
-c) El ascendiente más próximo en grado al ausente.
-
-d) A falta de los anteriores, o cuando sea inconveniente que alguno de ellos, por su mala conducta, o por su ineptitud, sean nombrados depositarios, el juzgador nombrará al heredero presunto y si hubiere varios con igual derecho, ellos mismos eligirán (sic) al que deba ser depositario de los bienes del ausente o ignorado. En caso de desacuerdo la elección la hará el juzgador, prefiriendo al que tenga mejor interés en la conservación de los bienes del ausente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 656.
 
-Demanda por declaración de ausencia.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-La demanda por declaración de ausencia podrá promoverse pasado un año desde el día en que el ausente hubiere desaparecido o se ignorare su paradero.
-
-En ella debe consignarse el nombre, apellido y residencia de los presuntos sucesores legítimos del desaparecido o de los que hubieren sido nombrados en testamento público abierto, y cuando existan, el de su abogado o representante legal.
-
-Tienen legitimación para pedir la declaración de ausencia, los herederos instituidos en testamento público abierto por el ausente; sus presuntos herederos legítimos; los que tengan algún derecho u obligación que dependa de la vida, muerte o presencia del ausente y el Ministerio Público.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 657.
 
-Procedimiento de declaración de ausencia.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-El juzgador en el mismo auto por el que abre el procedimiento, mandará requerir al solicitante para que mediante la declaración de dos testigos y con la asistencia del representante del desaparecido justifique los supuestos previstos por el Código Civil para declarar en forma la ausencia.
-
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
-
-Si el juzgador encuentra fundada la solicitud, dispondrá que ésta se publique durante tres meses, con intervalos de quince días en el Periódico Oficial del Estado y en el portal electrónico destinado para ello y, en su caso, remitirá copia de los escritos a los cónsules mexicanos, como se indica en el artículo 655 de este código.
-
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
-
-Pasados cuatro meses de la fecha de la última publicación, si no hubiere noticia del ausente ni oposición del representante o de algún interesado, el juzgador declarará en forma la ausencia; ratificará en su cargo al administrador representante, si no hubiere motivo para sustituirlo y mandará publicar la declaración por tres veces de siete en siete días en el Periódico Oficial del Estado y en el portal electrónico destinado para ello.
-
-El fallo que se pronuncie en el juicio de declaración de ausencia, será apelable en el efecto devolutivo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 658.
 
-Efectos de la declaración de ausencia.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Declarada la ausencia, si hubiere testamento, la persona en cuyo poder se encuentre lo presentará al juzgador, dentro de los quince días contados a partir de la última publicación a que se refiere el artículo anterior.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 659.
 
-Apertura del testamento público cerrado, en acto posterior a la declaración de ausencia.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-El juzgador, si el testamento no estuviere ya publicado, de oficio o a instancia de cualquiera que se crea interesado, procederá a abrir el testamento cerrado, en presencia del representante del ausente, con citación de los que promovieron la declaración de ausencia y con las solemnidades prescritas en su caso, atendiendo a la naturaleza del testamento.
-
-En el caso de que no hubiere testamento, los herederos legítimos comparecerán ante el juzgador acreditando su entroncamiento con el ausente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 660.
 
-Iniciación del juicio sucesorio previo a la declaración de presunción de muerte del ausente.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Por virtud de la presentación o apertura del testamento, o una vez acreditado el parentesco con el ausente en el caso de herederos legítimos, se iniciará desde luego el juicio sucesorio para el solo efecto de la declaración de herederos, debiéndose continuar por sus demás trámites, hasta una vez que se declare la presunción de muerte.
-
-En el juicio sucesorio, los herederos testamentarios y, en su caso, los que fueren legítimos, serán puestos en posesión provisional de los bienes como lo ordena el Código Civil, siempre que tengan capacidad legal para administrar bienes y otorguen caución que asegure las resultas de la administración. Cuando estuvieren bajo patria potestad o tutela, se procederá conforme a derecho.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 661.
 
-Falta de herederos del ausente.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Si hecha la declaración de ausencia no se presentaren herederos del ausente, a petición del Ministerio Público, el juzgador determinará, según lo estime, la continuación del representante designado en los términos del último párrafo del artículo 655 o su sustitución por otro que en nombre de la Asistencia Pública entre en la posesión provisional de los bienes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 662.
 
-Declaración de presunción de muerte.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-La demanda para la declaración de presunción de muerte se sujetará en lo conducente, en cuanto a forma y legitimación, a lo dispuesto para la demanda sobre declaración de ausencia.
-
-La demanda podrá presentarse cuando hayan transcurrido tres años desde la declaración de ausencia, y en los casos que esta proceda legalmente, el juzgador declarará la presunción de muerte.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 663.
 
-Efectos de la declaración de presunción de muerte.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Ejecutoriada la sentencia que declara la presunción de muerte del ausente, se requerirá a los poseedores provisionales para que den cuenta de su administración, y el albacea nombrado y los herederos reconocidos entrarán en la posesión definitiva de los bienes sin garantía alguna. La que según la ley se hubiera dado, quedará cancelada.
-
-Si se llega a probar la muerte del ausente, la herencia se difiere a los que debieran heredar al tiempo de ella; pero el poseedor o poseedores de los bienes hereditarios, al restituirlos se reservarán los frutos correspondientes a la época de la posesión provisional.
-
-La sentencia que declare la presunción de muerte del ausente pone termino a la sociedad conyugal, y en todo lo demás se procederá en concordancia con las previsiones del Código Civil.
-
-La sentencia es apelable en el efecto devolutivo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 664.
 
-Ejecución y registro de la sentencia de presunción de muerte.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-La sentencia que declare la presunción de muerte será ejecutada después de que haya pasado en autoridad de cosa juzgada.
-
-Una copia de la resolución se enviará al oficial del Registro Civil, en la que conste la partida de nacimiento del ausente, para que haga la anotación, otra se remitirá a la Dirección del Registro Civil para el mismo efecto.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 665.
 
-Facultades del Ministerio Público en relación al ausente.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-El Ministerio Público velará por los intereses del ausente; será oído en todos los juicios que tengan relación con él, y en las declaraciones de ausencia y presunción de muerte.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-### CAPÍTULO DÉCIMO SÉPTIMO. Patrimonio de familia
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO DÉCIMO SÉPTIMO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 666.
 
-Constitución del patrimonio de familia.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Para constituir el patrimonio de familia, el interesado presentará por escrito una solicitud ante el juez de lo familiar de su domicilio, designando con toda precisión y de manera que puedan ser inscritos en el Registro Público, los bienes que van a integrarlo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 667.
 
-Legitimación para solicitar la constitución del patrimonio de familia.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-El patrimonio de familia podrá constituirse:
-
-> <small>(REFORMADA, P.O. 16 DE SEPTIEMBRE DE 2014)</small>
-
-I. Por alguno de los padres, o ambos, cualquiera de los cónyuges o ambos, cualquiera de los concubinos o ambos, la madre soltera o el padre soltero, las abuelas, los abuelos, las hijas y los hijos y en su defecto por el ascendiente que ejerza la patria potestad.
-
-II. Por los cónyuges sobre sus bienes respectivos, sin que tratándose de la mujer, necesite autorización de su marido.
-
-III. Por el pariente en cualquier grado que suministre alimentos a sus ascendientes, descendientes o colaterales, siempre y cuando vivan formando una familia.
-
-IV. Por el tutor, cuando administre bienes pertenecientes a menores.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 668.
 
-Supuestos por acreditar judicialmente.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Para constituir el patrimonio de familia el solicitante deberá acreditar lo siguiente:
-
-I. Que es mayor de edad o que está emancipado.
-
-II. Que está domiciliado en el lugar en donde se quiere constituir el patrimonio.
-
-III. Comprobar la existencia de la familia a cuyo favor se va a constituir el patrimonio, de acuerdo con lo que el Código Civil entiende por familia en este caso.
-
-IV. Que es miembro de la familia a cuyo favor se constituyó el patrimonio.
-
-V. Que son de su propiedad los bienes destinados a constituir el patrimonio de familia y que no reportan gravamen fuera de las servidumbres.
-
-VI. Que el valor de los bienes afectados no exceda del máximo autorizado por el Código Civil.
-
-Dicho valor solamente se acreditará mediante avalúo catastral tratándose de inmuebles, en tanto que los bienes muebles serán valuados mediante dictamen pericial, y
-
-VII. Que, en su caso, se extinguió legalmente el patrimonio de familia constituido con anterioridad.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 669.
 
-Suplencia de la solicitud por el juzgador.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-El juzgador instruirá a los interesados de los requisitos necesarios para la constitución del patrimonio de familia, y en caso de que advirtiere deficiencias en la solicitud deberá suplirlas, haciéndolo constar en acta.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 670.
 
-Aprobación de la constitución del patrimonio de familia.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Si se satisfacen los requisitos exigidos por los artículos 666 a 668, el juzgador aprobará la constitución del patrimonio de familia y ordenará que se hagan las inscripciones correspondientes:
-
-I. En el Registro Público.
-
-II. En las oficinas catastrales.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 671.
 
-Constitución forzosa del patrimonio de familia para garantizar alimentos.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Cuando haya peligro de que un deudor de alimentos pierda sus bienes por mala administración o porque los esté dilapidando, su cónyuge, sus acreedores alimentistas y los representantes de éstos, pueden promover judicialmente la constitución forzosa del patrimonio de familia.
-
-A tal fin, se aplicarán las siguientes disposiciones:
-
-I. El juzgador citará a los interesados a una junta, en la que procurará que el deudor alimentario acepte constituir voluntariamente el patrimonio de familia.
-
-II. Procurará el juzgador informarse si hay necesidad de constituir el patrimonio de familia, recibiendo para ello las pruebas que ofrezcan los interesados o las que estime pertinentes.
-
-III. En caso de urgencia, puede el juzgador asegurar precautoriamente, sin necesidad de fianza, bienes bastantes del deudor alimentista, para constituir el patrimonio de familia, y
-
-IV. Si el juzgador no obtiene un avenimiento entre las partes, decretará o negará la constitución de dicho patrimonio, según se justifique y sea conveniente a los intereses de la familia de que se trate.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 672.
 
-Disminución del patrimonio de familia.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
-Puede disminuirse el patrimonio de familia, por resolución judicial, cuando se demuestre que ello es necesario o útil para quien lo constituyó y para quienes se beneficiaron con su integración, o cuando ha rebasado en más de un doscientos por ciento el valor máximo que puede tener.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 673.
 
-Extinción del patrimonio de familia.
-
-La declaración de que queda extinguido el patrimonio de familia por las causas previstas en el Código Civil, la hará el juzgador en la vía incidental, una vez que le sea solicitada por quien lo constituyó y oiga a los beneficiarios que tengan interés en oponerse justificadamente, así como al Ministerio Público.
-
-La resolución que se pronuncie será recurrible en apelación en el efecto suspensivo y una vez que quede firme, se comunicará al Registro Público para que se haga la cancelación correspondiente.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 ## TÍTULO SEGUNDO. Juicios sobre propiedad y posesión
 
@@ -8561,21 +8057,17 @@ III. Si se embargaren también las rentas que produzca el inmueble, el depositar
 
 El embargo preventivo practicado a consecuencia de la declaración de rebeldía, continuará hasta la conclusión del juicio.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 781.
 
 Notificación de la sentencia al rebelde.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
-
 La sentencia definitiva se notificará personalmente al rebelde, si fuere conocido su domicilio, o en caso contrario, mediante publicación por una sola vez de los puntos resolutivos en el Periódico Oficial del Estado y en el portal electrónico destinado para ello.
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
-
 En el caso de que el emplazamiento al rebelde se hubiere hecho por edictos, la sentencia no se ejecutará sino pasados tres meses a partir de la última publicación en el Periódico Oficial del Estado y en el portal electrónico destinado para ello, a no ser que el actor otorgue fianza bastante para restituir las cosas al estado en que se encontraban antes de la ejecución.
-
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2013)</small>
-
-En los casos de rebeldía tratándose de juicios de pérdida de patria potestad, podrá ejecutarse inmediatamente, sin la posibilidad de exhibir fianza a que se refiere el mismo.
 
 ### CAPÍTULO SEGUNDO. Personación tardía del rebelde
 
@@ -8687,7 +8179,11 @@ Se entenderá que el acuerdo se ha formalizado por documento privado no sólo cu
 
 Personas legitimadas para comprometer en árbitros.
 
-Todo el que está en pleno ejercicio de sus derechos civiles podrá comprometer en árbitros sus negocios. Los tutores no podrán comprometer los negocios de los incapacitados, ni nombrar árbitros, sino con aprobación judicial, salvo el caso en que fueren herederos de quien celebró el convenio o estableció la cláusula arbitral.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+Todo el que está en pleno ejercicio de sus derechos civiles podrá comprometer en árbitros sus negocios. Los tutores no podrán comprometer los negocios de las personas mayores de edad que requieran asistencia para el ejercicio de su capacidad jurídica, ni nombrar árbitros, sino con aprobación judicial salvo el caso en que fueren herederos de quien celebró el convenio o estableció la cláusula arbitral.
 
 Si no hay designación de árbitros, se hará siempre con intervención judicial, como medio preparatorio al juicio arbitral.
 
@@ -9461,7 +8957,9 @@ Admisión del recurso.
 
 Presentada en tiempo la apelación, el juzgador mandará agregar el escrito relativo al cuaderno auxiliar a que se refiere el artículo anterior y tendrá por interpuesto el recurso sin substanciación alguna, expresando el efecto en que lo admite.
 
-En caso de que en el escrito de apelación no se formulen agravios o no se acompañen al mismo las copias a que se refiere el artículo 869, el juzgador tendrá por no interpuesto el recurso.
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+En caso de que en el escrito de apelación no se formulen agravios el juzgador tendrá por no interpuesto el recurso; y para el caso de que no se acompañen al mismo las copias a que se refiere el artículo 869, el juzgador primero deberá prevenir al recurrente para que dentro del plazo de cinco días exhiba las mismas, y solo en el caso de que no cumpla con tal prevención, podrá tenerse por no interpuesto el recurso por este motivo.
 
 En el mismo auto, el juzgador ordenará se corra traslado con copia del escrito de expresión de agravios a la contraparte del apelante, para que los conteste dentro del plazo de seis días.
 
@@ -9525,7 +9023,11 @@ I. Todas las apelaciones se admitirán en el efecto devolutivo, a menos que por 
 
 II. La apelación en el efecto devolutivo no suspende la ejecución de la resolución apelada ni la secuela del juicio en que se dicte.
 
-III. No obstante lo dispuesto en la fracción anterior, para ejecutar las sentencias definitivas, deberá otorgarse previamente caución para responder de los daños y perjuicios que puedan ocasionarse a la contraparte con motivo de la ejecución provisional. Podrá llevarse adelante la ejecución provisional sin necesidad de caución cuando se trate de sentencias sobre alimentos y en los demás casos en que la ley lo disponga. Si la caución es otorgada por el actor, su monto comprenderá la devolución del bien que deba recibir, sus frutos e intereses y la indemnización de daños y perjuicios que se causen al demandado, si el Superior revoca el fallo. Si se otorgare por el demandado como contragarantía para evitar la ejecución del fallo, su monto cubrirá el pago de lo juzgado y sentenciado o el cumplimiento, si la sentencia condena a hacer o no hacer.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+III. No obstante lo dispuesto en la fracción anterior, para ejecutar las sentencias definitivas, deberá otorgarse previamente caución para responder de los daños y perjuicios que puedan ocasionarse a la contraparte con motivo de la ejecución provisional. Podrá llevarse adelante la ejecución provisional sin necesidad de caución en los casos en que la ley lo disponga. Si la caución es otorgada por el actor, su monto comprenderá la devolución del bien que deba recibir, sus frutos e intereses y la indemnización de daños y perjuicios que se causen al demandado, si el Superior revoca el fallo. Si se otorgare por el demandado como contragarantía para evitar la ejecución del fallo, su monto cubrirá el pago de lo juzgado y sentenciado o el cumplimiento, si la sentencia condena a hacer o no hacer.
 
 La calificación de la caución será hecha por el juzgador, quien se sujetará a las disposiciones del Código Civil y de este código. La liquidación de los daños y perjuicios se hará mediante incidente que se tramitará de acuerdo con las reglas de la ejecución forzosa.
 
@@ -9549,11 +9051,9 @@ I. Sólo podrá admitirse la apelación en el efecto suspensivo en los siguiente
 
 a) Cuando la ley de una manera expresa ordene que la apelación se admita con ese efecto.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2013)</small>
-
-b) Contra las sentencias que se dicten en los juicios que versen sobre nulidad de matrimonio y demás cuestiones de familia o estado de las personas, salvo disposición en contrario.
+b) DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 c) Contra las sentencias interlocutorias y los autos que paralicen o pongan término al juicio, haciendo imposible su continuación.
 
@@ -9561,7 +9061,11 @@ d) Contra el auto aprobatorio del remate.
 
 II. En los casos a que se refiere este artículo, se suspenderá la ejecución de la sentencia o auto apelado, hasta que recaiga fallo del superior; mientras tanto quedará en suspenso la tramitación del juicio en la parte afectada por el recurso. La suspensión no afecta las medidas puramente conservativas, lo concerniente al depósito, ni a las cuentas y gastos de administración y tampoco a las medidas de aseguramiento provisional de que habla la fracción siguiente.
 
-III. No obstante la admisión de la apelación en el efecto suspensivo, el que obtuvo sentencia favorable de condena podrá pedir que se efectúe embargo provisional para el aseguramiento de lo sentenciado y de las medidas que puedan garantizar la ejecución. Estas medidas provisionales sólo se llevarán a cabo si se otorga caución para responder de los perjuicios que llegaren a ocasionarse a la contraparte, pero sin que se requiera prueba para acreditar su necesidad. Si la resolución contiene una parte que se refiera a alimentos, en esa parte se ejecutará sin necesidad de caución. La aprobación del remate o la adjudicación a favor de tercera persona no podrá llevarse adelante, pero si podrán tener verificativo las diligencias previas como incidente de liquidación de sentencia, avalúo y otras similares, incluso la diligencia misma de remate. En caso de que a petición de alguna parte se lleven a cabo estas medidas de aseguramiento, y posteriormente se revoque la sentencia, la parte que las pidió indemnizará a la otra de los daños y perjuicios que le hubiere ocasionado con el embargo o medidas provisionales, haciéndose en su caso efectiva la caución.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+III. No obstante la admisión de la apelación en el efecto suspensivo, el que obtuvo sentencia favorable de condena podrá pedir que se efectúe embargo provisional para el aseguramiento de lo sentenciado y de las medidas que puedan garantizar la ejecución. Estas medidas provisionales sólo se llevarán a cabo si se otorga caución para responder de los perjuicios que llegaren a ocasionarse a la contraparte, pero sin que se requiera prueba para acreditar su necesidad. La aprobación del remate o la adjudicación a favor de tercera persona no podrá llevarse adelante, pero si podrán tener verificativo las diligencias previas como incidente de liquidación de sentencia, avalúo y otras similares, incluso la diligencia misma de remate. En caso de que a petición de alguna parte se lleven a cabo estas medidas de aseguramiento, y posteriormente se revoque la sentencia, la parte que las pidió indemnizará a la otra de los daños y perjuicios que le hubiere ocasionado con el embargo o medidas provisionales, haciéndose en su caso efectiva la caución.
 
 IV. Admita la apelación en el efecto suspensivo, dentro de los cinco días siguientes, y previo emplazamiento a las partes para que acudan a continuar el recurso, se remitirán los expedientes originales al Tribunal Superior, para la substanciación. El juzgador deberá vigilar que el expediente original y el cuaderno auxiliar de apelación sean enviados al superior dentro del plazo señalado; en caso de incumplimiento se hará acreedor a las sanciones señaladas en el artículo 877 fracción IV de este código. A petición de parte interesada podrá dejarse copia de la sentencia definitiva para llevar a cabo las medidas provisionales de aseguramiento de que habla la fracción anterior e igualmente podrá dejarse copia de otras constancias que tengan relación con lo concerniente al depósito, a las cuentas y gastos de administración, o se dejarán los incidentes relativos, si se han llevado por cuerda separada.
 
@@ -9643,9 +9147,11 @@ Sentencia de segunda instancia.
 
 La sentencia de segunda instancia se sujetará a lo siguiente:
 
-I. Se limitará a estudiar y decidir sobre los agravios que haya expresado el apelante, sin que pueda resolver sobre cuestiones que no fueron materia de éstos o que hayan sido consentidas expresamente por las partes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-En los asuntos de orden familiar y del estado y condición de las personas o cuando el afectado sea un menor o incapacitado, podrá suplirse la deficiencia de los agravios formulados cuando se advierta de las constancias procesales que ha habido en contra del apelante una violación manifiesta de la ley que lo haya dejado sin defensa.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+I. Se limitará a estudiar y decidir sobre los agravios que haya expresado el apelante, sin que pueda resolver sobre cuestiones que no fueron materia de éstos o que hayan sido consentidas expresamente por las partes.
 
 II. Fuera de los casos en los que conforme al artículo 880 fracción V, se admitan pruebas en la apelación, el tribunal, al resolver esta, se concretará a apreciar los hechos tal como hubieren sido probados en primera instancia.
 
@@ -9673,15 +9179,15 @@ Nuevas pretensiones y contrapretensiones en segunda instancia.
 
 Cuando se tramiten apelaciones contra sentencias, sólo podrán admitirse al actor nuevas pretensiones cuando se reclamen intereses o prestaciones futuras devengadas con posterioridad a la fecha en que se dictó la de primera instancia; o daños y perjuicios supervenientes; o la sustitución de la prestación reclamada porque el bien objeto del litigio haya sido destruido, u otra causa similar que imposibilite el cumplimiento de la prestación original. Al demandado sólo se le admitirán contrapretensiones supervenientes. Estas pretensiones y contrapretensiones, se tramitarán incidentalmente por cuerda separada y se decidirán en la sentencia definitiva.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 884.
 
 Revisión de oficio de las sentencias de primera instancia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 26 DE JUNIO DE 2012)</small>
-
-La revisión de las sentencias recaídas en los juicios sobre nulidad de matrimonio que tengan por causa el parentesco, el matrimonio subsistente, o el atentado contra la vida de alguno de los consortes para contraer matrimonio con el que quede libre, abre de oficio la segunda instancia con intervención del Ministerio Público. Aunque las partes no expresaren agravios ni promuevan pruebas, el tribunal examinará la legalidad de la sentencia de primera instancia, quedando en suspenso sus efectos hasta que se dicte resolución. En igual forma se procederá cuando por disposición expresa de la ley tenga lugar la revisión de oficio.
+Cuando tenga lugar la revisión de oficio por disposición expresa de la ley, se abre de oficio la segunda instancia con intervención del Ministerio Público. Aunque las partes no expresaren agravios ni promuevan pruebas, el tribunal examinará en su integridad la sentencia de primera instancia, quedando en suspenso sus efectos hasta que se dicte resolución.
 
 ###### ARTÍCULO 885.
 
@@ -10257,25 +9763,11 @@ VIII. El tribunal podrá permitir que el acreedor, bajo protesta de decir verdad
 
 IX. Podrá pedirse la revisión de una cuenta ya aprobada; pero sólo en los casos de error material, omisiones de ingresos, o falsedad, o duplicidad de cargos que se hayan descubierto posteriormente. La revisión, en estos supuestos, se substanciará en incidente por separado, en el que se citará al que rindió la cuenta y demás interesados; y se les recibirán las pruebas que ofrezcan. La resolución que se dicte será apelable en el efecto devolutivo, si lo fuera la definitiva.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### ARTÍCULO 935.
 
-Entrega de personas, separación e internación.
-
-Cuando la resolución ordene la entrega de personas, su separación o su internación, se observará lo siguiente:
-
-I. El juzgador dictará las disposiciones conducentes, para que no quede incumplido el fallo.
-
-II. En los casos en que se haya decretado la separación, el juzgador dispondrá que se entregue al interesado su ropa, muebles y objetos de uso personal y, si fuere necesario, personalmente o por conducto del funcionario que designe, extraerá a dicha persona para llevarla a la casa designada.
-
-En el mismo acto de la diligencia, el juzgador o el funcionario designado requerirá a quien corresponda, que no moleste a la persona beneficiaria de la medida, bajo el apercibimiento de imponerle un medio de apremio, sin perjuicio de las sanciones que correspondan conforme a derecho.
-
-Independientemente de lo anterior, el juzgador podrá dictar las medidas que estime oportunas, a efecto de evitar las molestias contra la persona objeto de la separación.
-
-III. En los casos en que la resolución ponga a menores o incapacitados al cuidado de alguna persona, el juzgador dictará las medidas más adecuadas para que se cumplan sus determinaciones y colocar al encargado o tutor en situación de cumplir con su encargo.
-
-IV. En los casos en que por virtud de una interdicción, se haga necesario internar a alguna persona para su atención médica por su peligrosidad o abandono, el juzgador tendrá las más amplias facultades para hacer cumplir las determinaciones, en la forma más adecuada, guardando el respeto debido a las personas.
-
-V. Los incidentes que surjan sobre alteración y modificación de las determinaciones del juzgador por haber variado las circunstancias, se tramitará en una audiencia en que se oiría a las partes, y en la que se dictará la resolución correspondiente. En casos urgentes el juzgador podrá dictar las medidas que estime oportunas, aún sin audiencia.
+(DEROGADO, P.O. 15 DE DICIEMBRE DE 2015)
 
 ###### ARTÍCULO 936.
 
@@ -10359,7 +9851,11 @@ Bienes exceptuados de embargo.
 
 Quedan exceptuados de embargo:
 
-I. Los bienes que constituyen el patrimonio de familia, desde su inscripción en el Registro Público, en los términos establecidos por el Código Civil.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+I. Los bienes que constituyen el patrimonio de familia, desde su inscripción en el Registro Público, en los términos establecidos por la Ley para la Familia de Coahuila de Zaragoza.
 
 II. La casa en la que se establezca el hogar conyugal, siempre que su valor según avalúo catastral no exceda del equivalente a veinticinco veces el salario mínimo general diario vigente en el lugar de su ubicación, elevado al año.
 
@@ -10869,7 +10365,11 @@ I. Cuando se haya practicado en el contrato que dio origen a la obligación, per
 
 II. Cuando existan terceros interesados y éstos no hayan dado su conformidad.
 
-III. Cuando se afecten derechos de menores o incapacitados.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+III. Cuando se afecten derechos de niños o niñas, o de persona mayor de edad que requiera asistencia para el ejercicio de su capacidad jurídica.
 
 Lo dispuesto en este artículo, no podrá renunciarse ni alterarse por convenio entre las partes.
 
@@ -11857,7 +11357,11 @@ I. El nombre, fecha y lugar de la muerte del autor de la herencia, así como su 
 
 II. Si hay o no testamento.
 
-III. Nombres y domicilios de los herederos legítimos de que tenga conocimiento el denunciante, haya o no testamento, con expresión del grado de parentesco o lazo con el causante de la sucesión, indicando si hay menores.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+III. Nombres y domicilios de los herederos legítimos de que tenga conocimiento el denunciante, haya o no testamento, con expresión del grado de parentesco o lazo con el causante de la sucesión, indicando si hay niños o niñas, o persona mayor de edad que requiera asistencia para el ejercicio de su capacidad jurídica.
 
 IV. Nombre y domicilio del albacea testamentario, si se conoce.
 
@@ -11889,7 +11393,11 @@ II. Los herederos del autor de la sucesión, ya sean testamentarios o legítimos
 
 III. Los legatarios.
 
-IV. La persona con la que el autor de la sucesión haya vivido públicamente como cónyuge sin estar casada con ella, en los términos y con los requisitos previstos por el Código Civil.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+IV. La persona con la que el autor de la sucesión haya vivido públicamente como cónyuge sin estar casada con ella, en los términos y con los requisitos previstos por la Ley para la Familia de Coahuila de Zaragoza.
 
 V. El albacea testamentario.
 
@@ -11953,13 +11461,17 @@ VI. Si los bienes estuvieren situados en lugares diversos o distantes, podrán n
 
 El interventor cesará en su función, luego que se nombre o dé a conocer al albacea y entregará a éste los bienes, sin que pueda retenerlos bajo ningún pretexto, ni aún por mejoras o gastos de manutención o reparación.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 1053.
 
-Nombramiento de tutor a herederos o legatarios menores o incapacitados.
+Nombramiento de tutor a herederos o legatarios, que sean niños o niñas, o una persona mayor de edad que requiera asistencia para el ejercicio de su capacidad jurídica.
 
-En los juicios sucesorios en que haya herederos o legatarios menores o incapacitados que no tuvieren representante legítimo, o que entre el menor y éste pueda haber intereses contrarios, dispondrá el juzgador, que el mismo menor designe un tutor si ha cumplido dieciséis años, y si no los ha cumplido o no hace la designación, el tutor lo nombrará el juzgador.
+En los juicios sucesorios en que haya herederos o legatarios que sean niños o niñas, o persona mayor de edad que requiera asistencia para el ejercicio de su capacidad jurídica, que no tuvieren representante legítimo, o que entre aquéllos y éste pueda haber intereses contrarios, dispondrá el juzgador, que aquéllos designen un tutor si han cumplido dieciséis años, y si no los han cumplido o no hacen la designación, el tutor lo nombrará el juzgador.
 
-Tan pronto como el juzgador tenga conocimiento de la existencia de herederos menores, proveerá el nombramiento de tutor.
+Tan pronto como el juzgador tenga conocimiento de la existencia de estos herederos o legatarios, proveerá el nombramiento de tutor.
 
 ###### ARTÍCULO 1054.
 
@@ -11967,7 +11479,11 @@ Intervención del Ministerio Público en los juicios sucesorios.
 
 El Ministerio Público intervendrá en los juicios sucesorios en los siguientes casos:
 
-I. Cuando haya herederos menores o incapacitados, aunque tengan representante o tutor.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+I. Cuando haya herederos o legatarios que sean niños o niñas, o persona mayor de edad que requiera asistencia para el ejercicio de su capacidad jurídica, aunque tengan representante o tutor.
 
 II. Cuando haya herederos no apersonados, para representarlos mientras éstos no vengan a juicio.
 
@@ -12157,19 +11673,27 @@ Se citará también al Ministerio Público para que represente a los herederos c
 
 Luego que comparezcan los herederos y ausentes, cesará la representación del Ministerio Público.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 1070.
 
-Citación del representante legítimo o tutor de herederos menores o incapaces.
+Citación del representante legítimo o tutor de herederos o legatarios que sean niños o niñas, o una persona mayor de edad que requiera asistencia para el ejercicio de su capacidad jurídica.
 
-En los juicios sucesorios en que existan herederos menores o incapacitados, se les mandará citar a través de su representante legítimo o tutor, en su caso.
+En los juicios sucesorios en que existan herederos o legatarios que sean niños o niñas, o persona mayor de edad que requiera asistencia para el ejercicio de su capacidad jurídica, se les mandará citar a través de su representante legítimo o tutor, en su caso.
 
-Cuando los herederos no tengan tutor, el juzgador ordenará su nombramiento, conforme al artículo siguiente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 1071.
 
-Incompatibilidad entre los intereses del tutor con los del menor o incapacitado a quien representa.
+Incompatibilidad entre los intereses del tutor con los del niño o niña, o la persona mayor de edad que requiera asistencia para el ejercicio de su capacidad jurídica, a quien representa.
 
-Si el tutor o cualquier representante legítimo de algún heredero menor o incapacitado tiene interés en la herencia, le proveerá el juzgador de un tutor especial para el juicio o hará que lo nombre, si tuviere edad para ello. La intervención del tutor especial se limitará sólo a aquello en que el inicialmente designado o el representante legítimo tengan incompatibilidad.
+Si el tutor o cualquier representante legítimo de algún heredero o legatario que sea niño o niña, o persona mayor de edad que requiera asistencia para el ejercicio de su capacidad jurídica, tiene interés en la herencia, le proveerá el juzgador de un tutor especial para el juicio o hará que lo nombre, si tuviere edad para ello.
+
+La intervención del tutor especial se limitará sólo a aquello en que el inicialmente designado o el representante legítimo tengan incompatibilidad.
 
 ###### ARTÍCULO 1072.
 
@@ -12261,7 +11785,11 @@ IV. La declaración de apertura de la sucesión legítima, si el testador hubier
 
 V. Discutir las demás cuestiones que en la junta sometan los interesados.
 
-VI. La designación para los herederos menores o incapacitados de tutor o representante cuando así proceda.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+VI. La designación de tutor o representante, cuando así proceda, para los herederos o legatarios que sean niños o niñas, o persona mayor de edad que requiera asistencia para el ejercicio de su capacidad jurídica.
 
 ###### ARTÍCULO 1080.
 
@@ -12331,9 +11859,17 @@ II. (DEROGADA, P.O. 26 DE JUNIO DE 2012)
 
 III. Los colaterales acreditarán su relación con el finado con las partidas del Registro Civil correspondientes, y además, con información testimonial que ofrezcan de que no existen ascendientes o descendientes o cónyuge de aquél, o que se encuentren en alguno de los casos de herencia concurrente a que se refiere el Código Civil.
 
-IV. Quien haya vivido con el autor de la herencia públicamente como cónyuge sin estar casado con él, en la forma prevista por el Código Civil, acreditará su carácter mediante las pruebas escritas que puedan exhibir y además con información de testigos que se recibirá con citación del Ministerio Público y demás herederos. No se admitirá promoción de quienes se encuentran en esta situación y si la hicieren se les mandará a devolver, cuando apareciere que existe cónyuge.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Cuando no fuere posible por alguna circunstancia comprobar el parentesco mediante el certificado correspondiente del Registro Civil, se hará en la forma que determine el Código Civil. Además, para el reconocimiento de los derechos a la sucesión legítima, podrá admitirse la conformidad expresa de los demás herederos afectados respecto de alguno que no tenga comprobado su entroncamiento, siempre que sea unánime y quienes la manifiesten hayan comprobado su vínculo con el autor de la herencia en forma legal. El heredero así admitido tendrá los derechos que le correspondan según el grado de parentesco que se le reconozca, para participar de la herencia. Las oposiciones que se le presenten, se decidirán en la junta de herederos, pudiendo recibirse previamente las pruebas que ofrezcan los oponentes, con citación de los demás interesados.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+IV. Quien haya vivido con el autor de la herencia públicamente como cónyuge sin estar casado con él, en la forma prevista por la Ley para la Familia de Coahuila de Zaragoza, acreditará su carácter mediante las pruebas escritas que puedan exhibir y además con información de testigos que se recibirá con citación del Ministerio Público y demás herederos. No se admitirá promoción de quienes se encuentran en esta situación y si la hicieren se les mandará a devolver, cuando apareciere que existe cónyuge.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+Cuando no fuere posible por alguna circunstancia comprobar el parentesco mediante el certificado correspondiente del Registro Civil, se hará en la forma que determine la Ley para la Familia de Coahuila de Zaragoza. Además, para el reconocimiento de los derechos a la sucesión legítima, podrá admitirse la conformidad expresa de los demás herederos afectados respecto de alguno que no tenga comprobado su entroncamiento, siempre que sea unánime y quienes la manifiesten hayan comprobado su vínculo con el autor de la herencia en forma legal. El heredero así admitido tendrá los derechos que le correspondan según el grado de parentesco que se le reconozca, para participar de la herencia. Las oposiciones que se le presenten, se decidirán en la junta de herederos, pudiendo recibirse previamente las pruebas que ofrezcan los oponentes, con citación de los demás interesados.
 
 Los que comparezcan deduciendo derechos hereditarios deben expresar el grado de parentesco o lazo, justificándolo con los documentos correspondientes.
 
@@ -12355,13 +11891,25 @@ I. Se hará constar por la secretaría si se hicieron oportunamente las citacion
 
 II. La falta de informes de la Dirección de Notarías y del Registro Público sobre los testamentos que hubiere otorgado el autor de la herencia, no suspenderá la junta, si se comprobare que se pagaron previamente los derechos por la expedición de los certificados, sin perjuicio de que se sobresea el intestado cuando aparezca que se otorgó el testamento.
 
-III. Se recibirán los documentos que exhiban los interesados para justificar sus derechos y se dará cuenta con los que ya existan en el expediente. El Ministerio Público representará a los herederos ausentes y menores.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+III. Se recibirán los documentos que exhiban los interesados para justificar sus derechos y se dará cuenta con los que ya existan en el expediente. El Ministerio Público representará a los herederos ausentes y a los niños o niñas, y a las personas mayores de edad que requieran asistencia para el ejercicio de su capacidad jurídica.
 
 IV. En seguida el juzgador hará la declaratoria de herederos, de acuerdo con los justificantes que se hubieren presentado y conforme a las reglas del Código Civil sobre sucesión legítima.
 
-V. Se proveerá de tutor a los menores e incapacitados que no lo tuvieren.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-VI. Una vez hecha la declaratoria de herederos, los reconocidos procederán al nombramiento de albacea de acuerdo con las reglas del Código Civil. Para hacer este nombramiento el Ministerio Público representará a los herederos que no concurran o a los menores que no tuvieren tutor.
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+V. Se proveerá de tutor a los niños o niñas, y a las personas mayores de edad que requieran asistencia para el ejercicio de su capacidad jurídica, que no lo tuvieren.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+VI. Una vez hecha la declaratoria de herederos, los reconocidos procederán al nombramiento de albacea de acuerdo con las reglas del Código Civil. Para hacer este nombramiento el Ministerio Público representará a los herederos que no concurran o a los niños o niñas, y a las personas mayores de edad que requieran asistencia para el ejercicio de su capacidad jurídica, que no tuvieren tutor.
 
 VII. Si no se hubiere presentado ningún aspirante a la herencia o no fuere reconocido con derecho a ella ninguno de los pretendientes, se tendrá como heredero a la Asistencia Pública. En este caso se designará interventor o continuará en su cargo el que hubiere sido nombrado antes, mientras el Estado hace designación de albacea.
 
@@ -12437,7 +11985,11 @@ El inventario solemne se practicará con intervención de un notario o del secre
 
 I. Si la mayoría de los herederos y legatarios lo piden.
 
-II. Si la mayoría de los herederos la constituyen menores.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+II. Si la mayoría de los herederos la constituyen niños o niñas, o personas mayores de edad que requieran asistencia para el ejercicio de su capacidad jurídica.
 
 III. Cuando tuvieren interés como herederos o legatarios instituciones de beneficencia, instrucción, acción social o profesional, sean de carácter público o privado.
 
@@ -12789,11 +12341,15 @@ Los preceptos de este Título podrán aplicarse supletoriamente en el trámite d
 
 ### CAPÍTULO NOVENO. Transmisión hereditaria del patrimonio familiar
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 1124.
 
 Requisitos del patrimonio familiar.
 
-Para que sean aplicables las disposiciones de este Capítulo para la transmisión hereditaria del patrimonio familiar es necesario que se pruebe que éste se ha constituido de acuerdo con lo previsto en la fracción XXVIII del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, 173 de la Constitución Política del Estado y cumplido con los requisitos establecidos en el Código Civil.
+Para que sean aplicables las disposiciones de este Capítulo para la transmisión hereditaria del patrimonio familiar es necesario que se pruebe que éste se ha constituido de acuerdo con lo previsto en la fracción XXVIII del apartado A del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, 173 de la Constitución Política del Estado y cumplido con los requisitos establecidos en la Ley para la Familia de Coahuila de Zaragoza.
 
 ###### ARTÍCULO 1125.
 
@@ -12807,7 +12363,11 @@ II. Si consta de estos documentos, quienes son los miembros de la familia benefi
 
 III. El inventario y avalúo se practicará desde luego por el cónyuge que sobreviva o por el albacea, si estuviere designado, y en su defecto, por el heredero que sea de más edad. No se requerirá que el avalúo vaya firmado por perito si al constituirse el patrimonio familiar consta el valor de los bienes.
 
-IV. Presentado el inventario, el juzgador convocará a una junta a los interesados, nombrando en ella tutor especial a los menores que no tuvieren representante legítimo, o cuando el interés de éste fuere opuesto al de aquéllos, y procurará ponerlos de acuerdo sobre la forma de hacer la partición. Si no logra el acuerdo, nombrará un partidor para que en el plazo de cinco días presente el proyecto de partición que dará a conocer a los interesados en una junta a la que serán convocados. En esa misma audiencia oirá y decidirá las oposiciones, mandando hacer la adjudicación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+IV. Presentado el inventario, el juzgador convocará a una junta a los interesados, nombrando en ella tutor especial a los niños o niñas, y a las personas mayores de edad que requieran asistencia para el ejercicio de su capacidad jurídica, que no tuvieren representante legítimo, o cuando el interés de éste fuere opuesto al de aquéllos, y procurará ponerlos de acuerdo sobre la forma de hacer la partición. Si no logra el acuerdo, nombrará un partidor para que en el plazo de cinco días presente el proyecto de partición que dará a conocer a los interesados en una junta a la que serán convocados. En esa misma audiencia oirá y decidirá las oposiciones, mandando hacer la adjudicación.
 
 V. Todas las resoluciones se harán constar en actas y no se requieren peticiones escritas de parte interesada para la tramitación del juicio.
 
@@ -12931,7 +12491,11 @@ Los procedimientos sin litigio comprenden todos los actos en que por disposició
 
 Los procedimientos sin litigio podrán tramitarse también ante notario con sujeción a las disposiciones de este código, excepción hecha de los casos en los que en él o en otras leyes o en tratados o convenciones internacionales se requiera la intervención de la autoridad judicial o de cualquier otra clase de autoridades o de aquellos otros que deban iniciarse mediante la presentación de una demanda, independientemente de que exista o no controversia.
 
-Los notarios que hayan intervenido en el nombramiento de un tutor o hayan autorizado a los representantes legítimos de un menor para que enajenen bienes inmuebles o muebles preciosos que les pertenezcan, no podrán tomar a su cargo la escrituración de negocios jurídicos en los que deba intervenir el tutor nombrado o deba hacerse efectiva la autorización concedida.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+Los notarios que hayan intervenido en el nombramiento de un tutor o hayan autorizado a los representantes legítimos de niños o niñas, o de personas mayores de edad que requieran asistencia para el ejercicio de su capacidad jurídica, para que enajenen bienes inmuebles o muebles preciosos que les pertenezcan, no podrán tomar a su cargo la escrituración de negocios jurídicos en los que deba intervenir el tutor nombrado o deba hacerse efectiva la autorización concedida.
 
 ###### ARTÍCULO 1136.
 
@@ -12965,7 +12529,11 @@ Se oirá precisamente al Ministerio Público cuando:
 
 I. La solicitud promovida afecte el interés público.
 
-II. Se refiera a la persona o bienes de menores o incapacitados.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+II. Se refiera a la persona o bienes de niños o niñas, o de personas mayores de edad que requieran asistencia para el ejercicio de su capacidad jurídica.
 
 III. Tenga relación con los derechos o bienes de un ausente.
 
@@ -13029,11 +12597,15 @@ Las declaraciones emitidas por los jueces en los procedimientos sin litigio, no 
 
 Declarado un hecho mediante estos procedimientos, se presume cierto, salvo prueba en contrario; y los terceros que adquieran derechos de aquéllos en cuyo favor se ha hecho la declaración judicial, se presume que lo han hecho de buena fe, no mediando prueba en contrario.
 
-ARTÍCULO 1146
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+###### ARTÍCULO 1146.
 
 Supletoriedad de las disposiciones generales a ciertos juicios en particular.
 
-En los negocios sobre cuestiones familiares, de propiedad y posesión, concursos y sucesiones, en que no medie la contención, y que por su naturaleza participen de las características de los procedimientos sin litigio, se les aplicarán las reglas de los Capítulos respectivos, y en lo no previsto, se tramitarán conforme a las reglas de este Título.
+En los negocios sobre cuestiones de propiedad y posesión, concursos y sucesiones, en que no medie la contención, y que por su naturaleza participen de las características de los procedimientos sin litigio, se les aplicarán las reglas de los Capítulos respectivos, y en lo no previsto, se tramitarán conforme a las reglas de este Título.
 
 ARTÍCULO 1147
 
@@ -13794,3 +13366,25 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 El Poder Judicial del Estado de Coahuila de Zaragoza deberá realizar las acciones necesarias para la implementación de la presente reforma en un plazo que no excederá de treinta días a partir de la entrada en vigor del presente Decreto, en tanto no se realicen dichas adecuaciones, la publicación de edictos a que se refiere el mismo continuarán realizándose en los periódicos o diarios de mayor circulación.
+
+P.O. 15 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 221.- SE MODIFICA EL SEGUNDO PÁRRAFO DEL ARTÍCULO 872 DEL CÓDIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 15 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 229.- SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA; DEL CÓDIGO PROCESAL CIVIL PARA EL ESTADO DE COAHUILA DE ZARAGOZA ASÍ COMO DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+PRIMERO.- El presente Decreto entrará en vigor 180 días después de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Todos los juicios en trámite o que se inicien hasta antes de la entrada en vigor de este decreto, se rigen hasta su conclusión por el Código Procesal Civil para el Estado de Coahuila de Zaragoza vigente en la fecha que se iniciaron.
+
+TERCERO.- Se derogan las disposiciones que se opongan al presente decreto.
