@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-de-la-ley-de-transito-y-vialidad-del-estado-de-81754
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-21"
-last_updated: "2015-07-27"
+last_updated: "2015-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81754&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DE LA LEY DE TRÁNSITO Y VIALIDAD DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 15 DE DICIEMBRE DE 2015.
 
 Reglamento publicado en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 21 de junio de 2011.
 
@@ -269,7 +269,7 @@ Competencia del Titular del Poder Ejecutivo
 
 El Titular del Poder Ejecutivo, en el ámbito de su competencia y en los términos de la Ley, tendrá las siguientes facultades y obligaciones en materia de Tránsito y Vialidad:
 
-l. Suscribir convenios de coordinación con los Ayuntamientos y las Autoridades Federales;
+I. Suscribir convenios de coordinación con los Ayuntamientos y las Autoridades Federales;
 
 II. Dictar las medidas conducentes en situaciones de emergencia ocasionadas por fenómenos naturales o de origen humano, para preservar la circulación y la seguridad de la población, y
 
@@ -387,7 +387,7 @@ Clasificación general de los vehículos
 
 Los vehículos se clasifican de manera general, en los términos de la Ley, de la siguiente manera:
 
-l. De combustión;
+I. De combustión;
 
 II. Híbridos o Mixtos;
 
@@ -405,7 +405,7 @@ Clasificación de los vehículos de combustión
 
 Los vehículos de combustión se clasifican de la siguiente manera:
 
-l. Automóviles;
+I. Automóviles;
 
 II. Autobuses;
 
@@ -421,7 +421,7 @@ Sub clasificación de los vehículos de combustión
 
 Los vehículos de combustión se sub clasifican atendiendo al tipo, de la siguiente manera:
 
-l. Automóviles:
+I. Automóviles:
 
 a) Convertible;
 
@@ -541,7 +541,7 @@ Clasificación de los vehículos de propulsión humana
 
 Los vehículos de propulsión humana se clasifican, de la siguiente manera:
 
-l. Bicicletas;
+I. Bicicletas;
 
 II. Triciclos;
 
@@ -647,7 +647,7 @@ Clasificación de los vehículos atendiendo al número de ejes
 
 Los vehículos de combustión atendiendo al número de ejes se clasifican de la siguiente manera:
 
-l. C2: unidad sencilla de dos ejes (autobús o camión);
+I. C2: unidad sencilla de dos ejes (autobús o camión);
 
 II. C3: unidad sencilla de tres ejes (autobús o camión);
 
@@ -853,7 +853,7 @@ Equipo de señalización
 
 Todo vehículo de combustión, híbrido o mixto o eléctrico de cuatro o más ruedas, deberá contar con al menos 3 equipos de señalización de emergencia y seguridad, para uso diurno o nocturno, a efecto de que sean visibles en condiciones atmosféricas normales, como son:
 
-l. Diurnos: conos, reflectantes triangulares o en cualquier otra forma geométrica y, en su caso, banderolas, con una medida no menor de 50 centímetros, y
+I. Diurnos: conos, reflectantes triangulares o en cualquier otra forma geométrica y, en su caso, banderolas, con una medida no menor de 50 centímetros, y
 
 II. Nocturnos: linternas eléctricas que emitan luz roja, burbujas de luz ámbar, reflectantes portátiles o mecheros.
 
@@ -935,7 +935,7 @@ a) Frenos de servicio: que permitan reducir la velocidad del vehículo e inmovil
 
 b) Frenos de estacionamiento: que permitan mantener el vehículo inmóvil, cualesquiera que sean las condiciones de carga y de la pendiente de la vía, quedando las superficies activas de frenos en posición tal, que mediante un dispositivo de acción mecánica y una vez aplicado continúe actuando con efectividad necesaria, independientemente del agotamiento de la fuente de energía, o de fugas de cualquier especie. Los frenos de estacionamiento deberán actuar sobre todas las ruedas o cuando menos sobre una rueda de cada lado del plano longitudinal medio del vehículo.
 
-Il. En vehículos automotores de más de dos ejes: los frenos deberán satisfacer los requisitos exigidos en el inciso anterior, con excepción de que las ruedas de uno de los ejes podrán estar exentas de la acción de los frenos de servicio.
+II. En vehículos automotores de más de dos ejes: los frenos deberán satisfacer los requisitos exigidos en el inciso anterior, con excepción de que las ruedas de uno de los ejes podrán estar exentas de la acción de los frenos de servicio.
 
 III. En remolques, semiremolques y remolques para postes:
 
@@ -1075,7 +1075,7 @@ Dispositivos obligatorios para vehículos de tracción animal
 
 Los vehículos de tracción animal, deberán encontrarse en condiciones satisfactorias de funcionamiento y contar con los siguientes dispositivos:
 
-l. Sistema de frenos que actúe en forma mecánica y autónoma, sobre cada una de las ruedas, que permitan reducir la velocidad del vehículo menor e inmovilizarlo de modo seguro, rápido y eficaz;
+I. Sistema de frenos que actúe en forma mecánica y autónoma, sobre cada una de las ruedas, que permitan reducir la velocidad del vehículo menor e inmovilizarlo de modo seguro, rápido y eficaz;
 
 II. Un faro delantero que emita luz blanca para circulación nocturna, que permita ver a personas y objetos a una distancia de 50 metros;
 
@@ -1235,21 +1235,15 @@ Requisitos administrativos para el tránsito de vehículos
 
 Todo vehículo de combustión, híbrido o mixto o eléctrico, para que pueda transitar en el Estado de Yucatán, deberá cumplir con los requisitos administrativos exigidos para tal efecto, por la Ley y este Reglamento.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O. 15 DE DICIEMBRE DE 2015)</small>
 
-Autoridad facultada para expedir o refrendar los documentos, placas, calcomanías y hologramas
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+Expedición o refrendo de documentos, placas, calcomanías u hologramas
 
 ###### Artículo 72.
 
-El Poder Ejecutivo, por conducto de la Secretaria, expedirá o refrendará los documentos, placas, calcomanías y hologramas necesarios, para que los vehículos de combustión, híbridos o mixtos o eléctricos puedan transitar en el Estado de Yucatán, previo el cumplimiento de los requisitos correspondientes.
+El Poder Ejecutivo, por conducto de la Secretaria, expedirá o refrendará, previo cumplimiento de los requisitos establecidos en este reglamento, los documentos, placas, calcomanías u hologramas para que los vehículos de combustión, híbridos o mixtos o eléctricos puedan transitar en el estado de Yucatán.
 
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
-
-El refrendo de los documentos administrativos para el tránsito de vehículos a que se refiere el párrafo anterior, extenderá por tres años la vigencia de las placas, calcomanías y documentos, previo el cumplimiento de los requisitos establecidos en este Reglamento.
-
-Las calcomanías, placas y hologramas relativos a los requisitos administrativos para el tránsito de esos vehículos que expida la Secretaría, deberán instalarse en los vehículos en los lugares autorizados para tal efecto en este Reglamento.
+Los documentos, placas, calcomanías u hologramas, relativos a los requisitos administrativos para el tránsito de vehículos de combustión, híbridos o mixtos o eléctricos, deberán resguardarse o instalarse, según corresponda, en los lugares autorizados para tal efecto en este reglamento.
 
 Intransmisibilidad de los documentos, placas, calcomanías y hologramas
 
@@ -1485,9 +1479,9 @@ Placas de servicio público
 
 Las placas de servicio público son las destinadas al transporte público de pasajeros o de carga que operan mediante concesión o permiso, en los términos de las leyes en la materia.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 15 DE DICIEMBRE DE 2015)</small>
 
-#### SECCIÓN TERCERA. Del emplacamiento, reemplacamiento y refrendo
+#### SECCIÓN TERCERA. Del emplacamiento y reemplacamiento
 
 Requisitos para emplacar un vehículo
 
@@ -1533,13 +1527,9 @@ V. Los demás que señalen otras disposiciones aplicables.
 
 La documentación a que se refiere este artículo, deberá presentarse en original y copia legible tamaño carta para su cotejo por la Secretaría y una vez realizado el cotejo, se devolverán los originales, y la Secretaría retendrá las copias respectivas.
 
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
-
-Requisitos para refrendar las placas de circulación de un vehículo
-
 ###### Artículo 94 Bis.
 
-Para refrendar las placas de circulación de un vehículo en el Estado de Yucatán, el propietario, posesionario o representante legal del mismo, deberá cumplir con los requisitos para reemplacar un vehículo previstos en el artículo 94 de este Reglamento.
+(DEROGADO, D.O. 15 DE DICIEMBRE DE 2015)
 
 #### SECCIÓN CUARTA. De las placas de circulación para vehículos de personas con discapacidad
 
@@ -1669,35 +1659,37 @@ Renovación del holograma que acredita la Póliza de seguro
 
 La renovación del holograma de seguro contra daños a terceros, se realizará de manera anual, al momento de cubrir el impuesto sobre la tenencia o uso de vehículos. Para la expedición de este holograma deberán cubrirse todas las multas, recargos y actualizaciones pendientes por cubrir.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 15 DE DICIEMBRE DE 2015)</small>
 
-### CAPÍTULO VIII. Del calendario de expedición o refrendo de documentos, placas, calcomanías y hologramas
+### CAPÍTULO VIII. De la expedición o refrendo de documentos, placas, calcomanías u hologramas
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O. 15 DE DICIEMBRE DE 2015)</small>
 
-Períodos de expedición o refrendo de documentos, placas, calcomanías y hologramas
+Expedición de documentos, placas, calcomanías u hologramas
 
 ###### Artículo 107.
 
-El Poder Ejecutivo, por conducto de la Secretaría, realizará cada tres años el cambio de la tarjeta de circulación, placas y calcomanía correspondiente a la placa de circulación previo cumplimiento de los requisitos y pago de los derechos correspondientes.
+El Poder Ejecutivo, por conducto de la Secretaría, realizará cada tres años el cambio de la tarjeta de circulación, de las placas de circulación y de la calcomanía correspondiente a estas; y de manera anual, el cambio de los hologramas que acreditan la verificación de contaminantes y el seguro contra daños a terceros, previo cumplimiento de los requisitos y pago de los derechos correspondientes.
 
-El cambio de los hologramas que acreditan la verificación de contaminantes y el seguro contra daños a terceros, se realizará de manera anual previo cumplimiento de los requisitos y pago de los derechos correspondientes.
+> <small>(ADICIONADO, D.O. 15 DE DICIEMBRE DE 2015)</small>
 
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+Refrendo
 
-El Poder Ejecutivo podrá refrendar la tarjeta de circulación, placas y calcomanía correspondiente a la placa de circulación al vencimiento de sus vigencias, en la forma prevista en el artículo siguiente.
+###### Artículo 107 Bis.
 
-> <small>(ADICIONADO, D.O. 29 DE NOVIEMBRE DE 2014)</small>
+El Gobernador podrá autorizar mediante decreto el refrendo de la tarjeta de circulación, de las placas de circulación y de la calcomanía correspondiente a estas, al vencimiento de sus vigencias.
 
-El Gobernador, mediante decreto, podrá prorrogar, por un año, la vigencia del refrendo a que se refiere el párrafo anterior por una sola ocasión.
+El refrendo tendrá como efecto prorrogar por un año la vigencia de la tarjeta de circulación, de las placas de circulación y de la calcomanía correspondiente a estas, y podrá decretarse, al vencimiento de la vigencia de los documentos, placas o calcomanías que se hayan expedido, hasta en cinco ocasiones consecutivas.
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2011)</small>
+Para refrendar la tarjeta de circulación, las placas de circulación y la calcomanía correspondiente a estas, los propietarios o poseedores deberán cumplir los requisitos establecidos en el artículo 93 y presentar el comprobante del pago de las infracciones que correspondan, en los plazos que se establezcan en el calendario a que se refiere el artículo siguiente.
 
-Calendario de expedición o refrendo de documentos, placas, calcomanías y hologramas
+> <small>(REFORMADO, D.O. 15 DE DICIEMBRE DE 2015)</small>
+
+Calendarización
 
 ###### Artículo 108.
 
-La Secretaria expedirá en el mes de diciembre del año que corresponda, el calendario de expedición o refrendo de los documentos, placas, calcomanías y hologramas, así como los plazos y términos para realizar los trámites correspondientes, mismo que deberá publicarse en el Diario Oficial del Gobierno del Estado de Yucatán.
+La Secretaria expedirá en el mes de diciembre del año que corresponda, el calendario de expedición o refrendo de los documentos, placas, calcomanías u hologramas, así como los plazos y términos para realizar los trámites correspondientes, el cual deberá publicarse en el diario oficial del estado.
 
 ### CAPÍTULO IX. De la inscripción de vehículos
 
@@ -1743,7 +1735,7 @@ Requisitos para inscribir el cambio de propietario
 
 Para inscribir el cambio de propietario en el Registro Estatal de Control Vehicular, el adquirente de un vehículo de combustión, híbrido o mixto o eléctrico, deberá llenar los siguientes requisitos:
 
-l. Presentar solicitud por escrito de (sic) ante la Secretaría, de acuerdo al formato proporcionado por la misma, en la que se hará constar el nombre y domicilio del solicitante;
+I. Presentar solicitud por escrito de (sic) ante la Secretaría, de acuerdo al formato proporcionado por la misma, en la que se hará constar el nombre y domicilio del solicitante;
 
 II. Identificación oficial del propietario;
 
@@ -1787,7 +1779,7 @@ Cancelación de la inscripción del vehículo
 
 Para cancelar la inscripción de un vehículo en el Registro Estatal de Control Vehicular, el interesado deberá llenar los siguientes requisitos:
 
-l. Presentar solicitud por escrito ante la Secretaría, de acuerdo al formato proporcionado por la misma, en la que conste el nombre y domicilio del solicitante;
+I. Presentar solicitud por escrito ante la Secretaría, de acuerdo al formato proporcionado por la misma, en la que conste el nombre y domicilio del solicitante;
 
 II. Cubrir el importe de los adeudos fiscales que tuviere pendientes con motivo de la propiedad, posesión o uso del vehículo;
 
@@ -2123,7 +2115,7 @@ Obligaciones de los propietarios y posesionarios de los vehículos
 
 Para dar cumplimiento a lo establecido en la Ley, los propietarios de los vehículos de combustión, híbridos o mixtos o eléctricos, que circulen en las vías públicas del Estado de Yucatán, deberán:
 
-l. Verificar que las personas a quienes autorice para conducir su Vehículo, cuenten con el permiso o la licencia respectiva, vigente;
+I. Verificar que las personas a quienes autorice para conducir su Vehículo, cuenten con el permiso o la licencia respectiva, vigente;
 
 II. Responder por las infracciones a este Reglamento cometidas por cualquier persona que conduzca su Vehículo, y
 
@@ -2187,7 +2179,7 @@ Reportes obligatorios de los propietarios o posesionarios de los vehículos
 
 Los propietarios o posesionarios de un Vehículo, estarán obligados a reportar en forma inmediata a la Secretaría, (sic) siguientes asuntos:
 
-l. Cambio de domicilio;
+I. Cambio de domicilio;
 
 II. Cambio de motor;
 
@@ -2311,7 +2303,7 @@ Denominación de la Vía Pública
 
 Para los efectos de este Reglamento, se denominará:
 
-l. Cuadros: a la demarcación integrada por las siguientes calles:
+I. Cuadros: a la demarcación integrada por las siguientes calles:
 
 a) Primer cuadro: al norte calle 47, al oriente calle 50, al sur calle 71, al poniente calle 72;
 
@@ -2367,7 +2359,7 @@ Actividades prohibidas en la Vía Pública
 
 Se prohíbe realizar en la Vía Pública los siguientes actos:
 
-l. Depositar objetos, materiales de construcción o de cualquier otra índole;
+I. Depositar objetos, materiales de construcción o de cualquier otra índole;
 
 II. Estacionar vehículos o remolques deteriorados, inservibles por más de 72 horas;
 
@@ -2927,7 +2919,7 @@ Derechos de los pasajeros del servicio público de transporte
 
 Los pasajeros del servicio público de transporte, tendrán los siguientes derechos:
 
-l. Viajar amparados con el seguro de viajero. Las autoridades correspondientes exigirán a las empresas concesionarias el cumplimiento de esta obligación;
+I. Viajar amparados con el seguro de viajero. Las autoridades correspondientes exigirán a las empresas concesionarias el cumplimiento de esta obligación;
 
 II. A que se les admita en el Vehículo con bultos de mano cuyo volumen o contenido no ocasionen molestias, y
 
@@ -3339,7 +3331,7 @@ Normas para determinar la prioridad de paso
 
 En cruceros donde converjan dos o más avenidas, calles o carreteras, la prioridad de paso se determinará como sigue:
 
-l. En las esquinas o lugares donde exista señal gráfica de alto, los conductores deberán detener completamente sus vehículos, sin rebasar las aceras, zonas de seguridad o en su caso línea de edificios. En caso de no existir aceras o zonas delimitadas, éstas se tomarán imaginariamente;
+I. En las esquinas o lugares donde exista señal gráfica de alto, los conductores deberán detener completamente sus vehículos, sin rebasar las aceras, zonas de seguridad o en su caso línea de edificios. En caso de no existir aceras o zonas delimitadas, éstas se tomarán imaginariamente;
 
 II. Antes de iniciar la marcha de sus vehículos, los conductores deberán ceder el paso a los peatones que estén cruzando o hayan iniciado el cruce de una calle o avenida.
 
@@ -3425,7 +3417,7 @@ Cambio de dirección en una intersección
 
 Para cambiar de dirección en una intersección, los conductores deberán tomar las precauciones necesarias, ceder el paso a los peatones, y proceder de la siguiente manera:
 
-l. Cambio de dirección a la izquierda: el movimiento para colocarse en posición como la propia maniobra, se hará tomando el extremo derecho del carril adyacente a la acera o a la orilla de la vía. En todo caso deberán ceder el paso a los vehículos que circulen por la calle a la que se incorporarán:
+I. Cambio de dirección a la izquierda: el movimiento para colocarse en posición como la propia maniobra, se hará tomando el extremo derecho del carril adyacente a la acera o a la orilla de la vía. En todo caso deberán ceder el paso a los vehículos que circulen por la calle a la que se incorporarán:
 
 II. Cambio de dirección a la derecha:
 
@@ -3573,7 +3565,7 @@ Adelantamiento por la derecha
 
 Se permitirá adelantar por la derecha en los casos siguientes:
 
-l. Cuando la calle o avenida tenga dos o más carriles de circulación en el mismo sentido y el Vehículo que ocupa el carril de la izquierda pretenda dar vuelta a la izquierda o en "U";
+I. Cuando la calle o avenida tenga dos o más carriles de circulación en el mismo sentido y el Vehículo que ocupa el carril de la izquierda pretenda dar vuelta a la izquierda o en "U";
 
 II. Cuando el Vehículo que circule en el carril de la izquierda, circule a una velocidad menor a la permitida;
 
@@ -3971,7 +3963,7 @@ Circulación prohibida de vehículos menores y vehículos menores motorizados
 
 Se prohíbe la conducción de vehículos menores y vehículos menores motorizados en los siguientes lugares:
 
-l. Entre los carriles de tránsito;
+I. Entre los carriles de tránsito;
 
 II. Sobre las aceras;
 
@@ -4389,7 +4381,7 @@ Señales informativas de destino
 
 Las señales informativas de destino indican las vías que pueden seguirse para llegar a determinados lugares y en algunos casos, las distancias a que éstos se encuentran. Son de forma rectangular con su mayor dimensión horizontal, de color blanco, con caracteres, símbolos y bordes negros, a excepción de las elevadas que son verdes con caracteres, símbolos y bordes blancos, y se clasifican de la siguiente manera:
 
-l. SID-8. Acceso a poblado;
+I. SID-8. Acceso a poblado;
 
 II. SID-9. Entronque;
 
@@ -4423,7 +4415,7 @@ Señales informativas de servicios y turísticas
 
 Las señales informativas de servicios y turísticas indican los lugares donde puede (sic) obtenerse ciertos servicios. Tienen forma cuadradas (sic), color azul y símbolo blanco, excepto la señal "puesto de socorro" que lleva símbolo rojo, además, puede llevar caracteres o flechas de color blanco, y se clasifican de la siguiente manera:
 
-l. SIS-1. Aeropuerto;
+I. SIS-1. Aeropuerto;
 
 II. SIS -2. Albergue;
 
@@ -5051,7 +5043,7 @@ Prohibiciones a los conductores de transporte de carga
 
 Se prohíbe a los conductores de vehículos de transporte de carga privada o pública, con capacidad superior a 10,000 kilogramos:
 
-l. Transitar con carga o sin ella en la zona comprendida entre el anillo periférico y el centro de la ciudad de Mérida, y
+I. Transitar con carga o sin ella en la zona comprendida entre el anillo periférico y el centro de la ciudad de Mérida, y
 
 II. Realizar maniobras de carga o descarga de sus vehículos en sitios que no correspondan a la central de carga o a las terminales especializadas para ello.
 
@@ -5081,7 +5073,7 @@ Prohibiciones de los conductores de vehículos de transporte de carga
 
 Los conductores de vehículos de transporte de carga, tendrán las siguientes prohibiciones:
 
-l. Utilizar personas para sujetar o proteger la carga;
+I. Utilizar personas para sujetar o proteger la carga;
 
 II. Transportar en vehículos abiertos, objetos que despidan mal olor;
 
@@ -5099,7 +5091,7 @@ Medidas de seguridad de la carga
 
 La carga deberá sujetarse a las siguientes medidas de seguridad:
 
-l. No deberá sobresalir de las partes delantera y lateral del Vehículo;
+I. No deberá sobresalir de las partes delantera y lateral del Vehículo;
 
 II. No deberá estorbar la visibilidad del Conductor, ni dificultar la estabilidad o conducción del Vehículo;
 
@@ -5991,7 +5983,7 @@ Devolución del vehículo con motivo de una infracción
 
 Los vehículos que sean retenidos con motivo de una infracción a la Ley o este Reglamento, únicamente serán entregados cuando el interesado:
 
-l. Acredite la propiedad o posesión;
+I. Acredite la propiedad o posesión;
 
 II. Cumpla con los requisitos administrativos siguientes: tarjeta de circulación, placas de circulación o permiso provisional, calcomanía correspondiente a la placa de circulación, holograma de verificación de contaminantes, holograma de la Póliza de seguros, todos vigentes, y
 
@@ -6307,7 +6299,7 @@ Procedimiento de prestación del servicio público de arrastre
 
 En la prestación del servicio especializado de transporte de carga, en su modalidad de arrastre y salvamento, la Secretaría y los concesionarios deberán observar lo siguiente:
 
-l. Estarán obligados, bajo su responsabilidad, a adoptar las previsiones y cuidados necesarios para evitar riesgos y daños a las personas y sus bienes, desde el momento en que se constituyan en el lugar donde serán realizadas las operaciones de arrastre o de salvamento;
+I. Estarán obligados, bajo su responsabilidad, a adoptar las previsiones y cuidados necesarios para evitar riesgos y daños a las personas y sus bienes, desde el momento en que se constituyan en el lugar donde serán realizadas las operaciones de arrastre o de salvamento;
 
 II. Al iniciar el traslado o el salvamento, los operadores del servicio público deberán levantar un inventario del Vehículo y de lo que se encuentra en su interior;
 
@@ -6503,7 +6495,7 @@ La suspensión de la licencia o permiso de conducir, trae como consecuencia la p
 
 Procede la suspensión de la licencia o permiso de conducir, en los siguientes casos:
 
-l. Por sentencia ejecutoria de la autoridad judicial, que imponga como condena la suspensión, y
+I. Por sentencia ejecutoria de la autoridad judicial, que imponga como condena la suspensión, y
 
 II. De 3 a 12 meses, cuando el titular de la misma, acumule 9 puntos de acumulación en un año, en los términos previstos en el artículo siguiente.
 
@@ -6823,7 +6815,7 @@ Integración del Consejo Consultivo
 
 El Consejo Consultivo estará integrado de la siguiente manera:
 
-l. Un Presidente Honorario, que será el Gobernador del Estado;
+I. Un Presidente Honorario, que será el Gobernador del Estado;
 
 II. Un Presidente Ejecutivo, que será el Secretario de Seguridad Pública;
 
@@ -7062,3 +7054,17 @@ Este decreto entrará en vigor a los treinta días de su publicación en el Diar
 Segundo. Derogación tácita
 
 Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
+
+D.O. 15 DE DICIEMBRE DE 2015.
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día de su publicación en el diario oficial del estado.
+
+Segundo. Refrendo
+
+En caso de que el Poder Ejecutivo determine la expedición del decreto por el que se autorice el refrendo de diversos requisitos para el tránsito de vehículos en el estado de Yucatán para el ejercicio fiscal 2016, en los términos del artículo 107 Bis, se entenderá que este corresponde, en todo caso, a la quinta ocasión consecutiva en que se autoriza el refrendo.
+
+Tercero. Derogación tácita
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan al contenido de este decreto.
