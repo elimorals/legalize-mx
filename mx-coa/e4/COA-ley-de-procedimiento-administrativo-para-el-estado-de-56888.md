@@ -4,7 +4,7 @@ identifier: "COA-ley-de-procedimiento-administrativo-para-el-estado-de-56888"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-17"
-last_updated: "2013-08-02"
+last_updated: "2015-12-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56888&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE PROCEDIMIENTO ADMINISTRATIVO PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 17 de agosto de 2007.
 
@@ -234,6 +234,12 @@ II. Todo documento original puede presentarse en copia certificada por autoridad
 III. Los interesados podrán señalar los datos de identificación de los permisos, registros, licencias y, en general de cualquier documento expedido por la dependencia u organismo descentralizado de la Administración Pública Estatal o Municipal ante la que se realicen los trámites, sin que sea necesario hacer entrega de copia de los mismos;
 
 IV. Excepto cuando un procedimiento se tenga que dar vista a terceros, los interesados no estarán obligados a proporcionar datos o copias adicionales de documentos entregados previamente a la dependencia, entidad u organismo descentralizado, desconcentrado, paraestatal o paramunicipal de la Administración Pública Estatal o Municipal ante la que se realicen los trámites correspondientes, siempre y cuando señalen los datos de identificación del escrito en el que se citaron o con el que se acompañaron y el nuevo trámite lo realicen ante la propia dependencia, entidad u organismo descentralizado, desconcentrado, paraestatal o paramunicipal, aún y cuando lo hagan ante una unidad administrativa diversa.
+
+> <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+V. Los particulares podrán ejercitar los recursos y solicitudes establecidos en la presente ley dentro de un plazo de hasta 20 días hábiles, contados a partir del día siguiente al que les fue notificado el acto que los agravia, perjudica o, en su caso, le beneficia y deseen reclamar su ejecución o demostrar que, favoreciendo a una persona o grupo de personas, se causa perjuicio al interés público; siempre y cuando no se trate actos que ya contemplen un plazo determinado en este ordenamiento o en otra ley, reglamento, estatuto, manual o disposición administrativa que resulte aplicable al caso concreto.
+
+El mismo plazo operará cuando, no mediando notificación formal, el afectado o interesado acredite la fecha en que conoció del acto, siempre que no se trate de actos irremediablemente consumados y de imposible reparación de acuerdo al presente ordenamiento y a las leyes que resulten aplicables.
 
 ###### Artículo 22.
 
@@ -472,6 +478,10 @@ Si resuelve que la notificación fue legalmente practicada y, como consecuencia 
 ###### Artículo 50.
 
 Cuando en las leyes, reglamentos, manuales u otros ordenamientos jurídicos aplicables a los diversos actos administrativos de la Administración Pública Estatal o Municipal no se cuente con un procedimiento expresamente señalado, se estará a lo dispuesto por la presente ley.
+
+> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2015)</small>
+
+El plazo para iniciar el procedimiento administrativo será el señalado en la fracción V del artículo 21, en los términos y condiciones establecidos en la misma.
 
 ###### Artículo 51.
 
@@ -958,3 +968,11 @@ P.O. 2 DE AGOSTO DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente decreto entrara en vigor al día siguiente de la fecha de publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 220.- SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 21, Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 50 DE LA LEY DE PROCEDIMIENTO ADMINISTRATIVO DEL ESTADO”.]
+
+PRIMERO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado.
