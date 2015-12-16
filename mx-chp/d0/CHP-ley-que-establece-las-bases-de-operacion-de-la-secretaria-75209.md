@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-establece-las-bases-de-operacion-de-la-secretaria-75209
 country: "mx"
 rank: "ley"
 publication_date: "2010-04-17"
-last_updated: "2013-12-27"
+last_updated: "2015-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75209&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el sábado 17 de abril de 2010.
 
@@ -43,9 +43,11 @@ Ley que Establece las Bases de Operación de la Secretaría de Seguridad y Prote
 
 ### Capítulo I. De su objeto y ámbito de aplicación
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 1.
 
-Esta Ley tiene por objeto establecer las bases que rijan la actuación de la Secretaría de Seguridad y Protección Ciudadana, a efectos de regular su operación en los asuntos en materia de Seguridad Pública y Reinserción Social de conformidad con lo que establece la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Chiapas, la Ley General del Sistema Nacional de Seguridad Pública, la Ley Orgánica de la Administración Pública del Estado de Chiapas, este ordenamiento y demás disposiciones aplicables.
+La presente Ley es de orden público, interés social y de observancia general, tiene por objeto establecer las bases que rijan la actuación de la Secretaría de Seguridad y Protección Ciudadana, a efecto de regular las acciones en materia de seguridad pública, reinserción social y demás inherentes a las mismas, de conformidad a lo establecido en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Chiapas, la Ley General del Sistema Nacional de Seguridad Pública, el Código Nacional de Procedimientos Penales, la Ley del Sistema Estatal de Seguridad Pública y demás disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
@@ -53,43 +55,43 @@ Esta Ley tiene por objeto establecer las bases que rijan la actuación de la Sec
 
 La Secretaría de Seguridad y Protección Ciudadana es una Dependencia del Poder Ejecutivo del Estado, como una institución de carácter civil, disciplinada y profesional, su actuación se regirá por las leyes de la materia y sus reglamentos, además, por los principios de legalidad, lealtad, objetividad, eficiencia, profesionalismo, honradez, y respeto a los derechos humanos y garantías constitucionales; tomando en cuenta la diversidad cultural de las distintas etnias en el Estado así como sus usos y costumbres, reconocidos por la Constitución Política de los Estados Unidos Mexicanos; por lo que, deberá fomentar la participación ciudadana como herramienta del combate a la delincuencia y rendir cuentas en términos de ley.
 
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2015)</small>
+
+Por ello, las disposiciones contenidas en la presente Ley, son de orden y de observancia obligatoria para los servidores públicos de la Secretaría de Seguridad y Protección Ciudadana, quienes en el cumplimiento de su actuación velarán por los principios consagrados en este ordenamiento, y además con plena vocación de servicio, honestidad, disciplina, confianza, secrecía y lealtad, en beneficio de la sociedad.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 3.
 
-Para los efectos de esta Ley se entiende por:
+Para los efectos de la presente Ley, se entenderá por:
 
-I. Secretaría: A la Secretaría de Seguridad y Protección Ciudadana.
+I. Carrera Policial: Al Servicio Profesional de Carrera Policial.
 
-II. Secretario: Al Secretario de Seguridad y Protección Ciudadana.
+II. Fuerza Ciudadana: A la policía profesional y acreditada con enfoque de prevención del delito y atención a la ciudadanía, adscrita a la Subsecretaría de Seguridad Pública y Fuerza Ciudadana de la Secretaría de Seguridad y Protección Ciudadana.
 
-III. Ley: A la Ley que establece las Bases de Operación de la Secretaría de Seguridad y Protección Ciudadana del Estado de Chiapas.
+III. Instituciones de seguridad pública: A las Instituciones Policiales, de Procuración de Justicia, además a todas aquellas dependencias y entidades encargadas de la seguridad pública a nivel local y municipal.
 
-IV. Policías Preventivas del Estado: A las corporaciones policiales pertenecientes a la Secretaría.
+IV. Instituciones policiales: A las corporaciones de la policía fuerza ciudadana, la complementaria, de vigilancia, de protección, de seguridad y de custodia de los establecimientos penitenciarios, de detención preventiva, y en general, todas las dependencias encargadas de la seguridad pública a nivel local, que realicen funciones similares.
 
-V. Sistema Nacional: Al Sistema Nacional de Seguridad Pública.
+V. Instituto: Al Instituto de Formación Policial, órgano desconcentrado de la Secretaría de Seguridad y Protección Ciudadana.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+VI. Integrantes: A los servidores públicos que se encuentran adscritos a la Secretaría de Seguridad y Protección Ciudadana, y que desempeñen funciones de carácter operativo o de servicios, vinculadas a la seguridad pública.
 
-VI. Instituto: Al Instituto de Formación Policial.
+VII. Ley: A la Ley que Establece las Bases de Operación de la Secretaría de Seguridad y Protección Ciudadana del Estado de Chiapas.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+VIII. Policía Complementaria: A la policía auxiliar adscrita a la Subsecretaría de Servicios Estratégicos de Seguridad, la cual presta los servicios de protección, custodia, vigilancia y seguridad a las dependencias y entidades de la Administración Pública Federal, Estatal, Municipal, y a personas físicas o morales, mediante el pago de la contraprestación correspondiente.
 
-VII. Carrera Policial: Al Servicio Profesional de Carrera Policial.
+IX. Policía Procesal: A la policía de seguridad penitenciaria adscrita a la Subsecretaría de Ejecución de Sanciones Penales y Medidas de Seguridad, encargada de resguardar la seguridad y el orden de los establecimientos penitenciarios; así como velar por la integridad física de las partes y sujetos intervinientes en las audiencias de juicios orales y traslados.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+X. Policías Preventivas del Estado: A las corporaciones operativas adscritas a la Secretaría de Seguridad y Protección Ciudadana.
 
-VIII. Instituciones Policiales: A los cuerpos de policía, de vigilancia y custodia de los establecimientos penitenciarios, de detención preventiva, y en general, todas las Dependencias encargadas de la seguridad pública a nivel Federal, Local y Municipal, que realicen funciones similares.
+XI. Secretaría: A la Secretaría de Seguridad y Protección Ciudadana.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+XII. Secretario: Al titular de la Secretaría de Seguridad y Protección Ciudadana.
 
-IX. Servicio: Actividad física o intelectual que desempeña un integrante de la Secretaría y que tiene asignada por ley, por contrato o por un actuar precedente.
+XIII. Servicio: A la actividad física o intelectual que desempeña un integrante de la Secretaría y que tiene asignada por ley, por contrato o por un actuar precedente.
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
-
-X. Integrantes: A los servidores públicos que se encuentran adscritos a la Secretaría.
-
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
-
-XI. Fuerza Ciudadana.- A la Policía profesional y acreditada con enfoque de prevención del delito y atención a la ciudadanía, adscrita a la Subsecretaría de Seguridad Pública y Protección Ciudadana de la Secretaría de Seguridad y Protección Ciudadana.
+XIV. Sistema Nacional: Al Sistema Nacional de Seguridad Pública.
 
 ### Capítulo II. De la Organización y Atribuciones de la Secretaría
 
@@ -97,9 +99,9 @@ XI. Fuerza Ciudadana.- A la Policía profesional y acreditada con enfoque de pre
 
 Los ejes fundamentales de la existencia y operación de la Secretaría, son la Seguridad Pública y la Reinserción Social; los cuales se traducen en las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2015)</small>
 
-I. Dirigir, organizar y operar las unidades y corporaciones policiacas, para garantizar el cumplimiento de sus obligaciones.
+I. Dirigir, organizar y operar las Instituciones Policiales de la Secretaría, para garantizar el cumplimiento de sus obligaciones.
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
@@ -123,13 +125,21 @@ IX. Establecer las medidas necesarias para brindar la atención a las víctimas 
 
 X. Brindar el auxilio de la fuerza pública al Poder Judicial del Estado, a la Procuraduría General de Justicia del Estado, y demás autoridades Federales, Estatales o Municipales, cuando así lo requieran y resulte necesario para el debido ejercicio de sus funciones.
 
-XI. Ejecutar y supervisar las medidas de orientación, protección, tratamiento e internamiento de los adolescentes que realicen actividades previstas como delitos por las leyes penales vigentes en el Estado de Chiapas; así como crear y operar programas tendentes a la Prevención de conductas ilícitas de los Adolescentes.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2015)</small>
 
-XII. Establecer y operar la política y normatividad penitenciaria, programas y proyectos que tendrán como objetivo primordial la Reinserción Social del sentenciado.
+XI. Ejecutar y supervisar las medidas de orientación, protección, tratamiento e internamiento de los adolescentes a quienes se les atribuya la comisión o participación en un hecho que la ley señale como delito; así como crear y operar programas tendentes a la prevención de conductas ilícitas, para su desarrollo integral y atendiendo a la protección e interés superior de los adolescentes.
 
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2015)</small>
 
-XIII. Implementar y operar la capacitación, adiestramiento y profesionalización de los cuerpos de seguridad pública del Estado, municipios y prestadores de servicios de seguridad privada.
+XII. Supervisar y dar seguimiento a las medidas cautelares impuestas, distintas a la prisión preventiva, y las condiciones a cargo del imputado en caso de suspensión condicional del proceso, así como hacer sugerencias sobre cualquier cambio que amerite alguna modificación de las medidas u obligaciones impuestas.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2015)</small>
+
+XIII. Establecer y operar la política, acuerdos, lineamientos y normatividad penitenciaria, programas y proyectos que tendrán como objetivo primordial la reinserción social del sentenciado.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2015)</small>
+
+XIV. Implementar y operar la capacitación, adiestramiento y profesionalización de las Instituciones Policiales de la Secretaría, los Municipios y los prestadores de servicios de seguridad privada.
 
 ###### Artículo 5.
 
@@ -143,53 +153,61 @@ La Secretaría deberá ejercer y controlar la coordinación en materia de Seguri
 
 ### Capítulo I. De la Estructura Organizacional de la Secretaría
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 7.
 
-La Secretaría para su funcionamiento se organizará de la forma siguiente:
+La Secretaría, para su funcionamiento, se organizará de la forma siguiente:
 
-I. Titular de la Secretaría.
+I. La Oficina del C. Secretario.
 
-II. Unidades de apoyo al Secretario:
+II. Unidades de Apoyo al Secretario.
 
-A. Estado Mayor de la Secretaría.
+III. Unidades de Apoyo a la Secretaría:
 
-B. Subsecretaría de Seguridad Pública y Protección Ciudadana.
+a) Subsecretaría de Seguridad Pública y Fuerza Ciudadana.
 
-C. Subsecretaría de Seguridad Turística y Vial.
-
-D. Subsecretaría de Ejecución de Sanciones Penales y Medidas de Seguridad.
-
-E. Coordinación de Administración.
-
-III. Unidades de apoyo a la Secretaría.
-
-IV. Comisión de Honor y Justicia: la cual se integra por un cuerpo colegiado denominado Consejo de Honor y Justicia y se rige por un Reglamento propio.
-
-> <small>(REFORMADA, P.O. 23 DE NOVIEMBRE DE 2011)</small>
-
-V. Comisión del Servicio de Carrera: la cual se integra por un cuerpo colegiado denominado Comisión del Servicio Profesional de Carrera Policial y se rige por un Reglamento propio.
-
-> <small>(ADICIONADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
-
-VI. Órganos Desconcentrados:
-
-A. Instituto de Formación Policial.
-
-### Capítulo II. De las Unidades de Apoyo al Secretario
-
-###### Artículo 8.
-
-De conformidad con el artículo 7, fracción II, de la presente ley, son Unidades de Apoyo al Secretario:
-
-a) Estado Mayor de la Secretaría.
-
-b) Subsecretaría de Seguridad Pública y Protección Ciudadana.
+b) Subsecretaría de Servicios Estratégicos de Seguridad
 
 c) Subsecretaría de Seguridad Turística y Vial.
 
 d) Subsecretaría de Ejecución de Sanciones Penales y Medidas de Seguridad.
 
-e) Coordinación de Administración.
+e) Unidad de Protección y Promoción de los Derechos Humanos.
+
+f) Unidad de Apoyo Jurídico.
+
+g) Unidad de Inteligencia.
+
+h) Unidad de Asuntos Internos.
+
+i) Unidad de Prevención del Delito y Política Criminal.
+
+j) Unidad de Sistemas y Plataforma México.
+
+IV. Órgano Desconcentrado:
+
+a) Instituto de Formación Policial.
+
+V. Comisión de Honor y Justicia de la Secretaría.
+
+VI. Comisión del Servicio Profesional de Carrera Policial de la Secretaría.
+
+### Capítulo II. De las Unidades de Apoyo al Secretario
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 8.
+
+De conformidad con la fracción II del artículo 7 de la presente Ley, las Unidades de Apoyo al Secretario son las siguientes:
+
+I. Estado Mayor.
+
+II. Coordinación de Administración.
+
+III. Área de Rescate y Atención Médica.
+
+IV. Área de Servicios Privados de Seguridad.
 
 ###### Artículo 9.
 
@@ -209,23 +227,37 @@ El Estado Mayor podrá integrar los aspectos que se requieran y especializarlas 
 
 El Secretario podrá, en su caso y mediante acuerdo por escrito, delegar funciones en materia de Seguridad Pública, operación y control de las Policías Preventivas del Estado; sin menoscabo del control central de las mismas que ejerce el Titular; estando en todo momento en capacidad de retirar las facultades asignadas si así lo determina.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 13.
 
-El Titular de la Subsecretaría de Seguridad Pública y Protección Ciudadana, tendrá las facultades y obligaciones conferidas en el Reglamento de la presente Ley.
+De conformidad con el inciso a) de la fracción III del artículo 7 de la presente Ley, el titular de la Subsecretaría de Seguridad Pública y Fuerza Ciudadana, tendrá las facultades y obligaciones conferidas en la presente Ley, su reglamento y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 13 Bis.
+
+De conformidad con el inciso b) de la fracción III del artículo 7 de la presente Ley, el titular de la Subsecretaría de Servicios Estratégicos de Seguridad, tendrá las facultades y obligaciones conferidas en la presente Ley, su reglamento, la Ley de Seguridad Privada para el Estado de Chiapas y demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 14.
 
-El Titular de la Subsecretaría de Seguridad Turística y Vial, tendrá las facultades y obligaciones conferidas en el Reglamento de la presente Ley.
+De conformidad con el inciso c) de la fracción III del artículo 7 de la presente Ley, el titular de la Subsecretaría de Seguridad Turística y Vial, tendrá las facultades y obligaciones conferidas en la presente Ley, su reglamento y demás disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 15.
 
-La Subsecretaría de Ejecución de Sanciones Penales y Medidas de Seguridad tendrá las atribuciones que se le confieren en esta Ley, en el Código de Ejecución de Sanciones Penales y Medidas de Libertad Anticipada y en demás disposiciones aplicables.
+De conformidad con el inciso d) de la fracción III del artículo 7 de la presente Ley, el titular de la Subsecretaría de Ejecución de Sanciones Penales y Medidas de Seguridad, tendrá las facultades y obligaciones conferidas en la presente Ley, su reglamento, el Código de Ejecución de Sanciones Penales y Medidas de Libertad Anticipada y demás disposiciones legales aplicables.
 
 ###### Artículo 16.
 
 La Coordinación de Administración es la responsable de planear, programar, organizar, supervisar y evaluar el desarrollo de las actividades de las Unidades Administrativas adscritas a la Coordinación.
 
-La Coordinación de Administración tendrá a su cargo las Unidades a su cargo que al efecto le asigne el Secretario.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2015)</small>
+
+La Coordinación de Administración tendrá a su cargo las Unidades que al efecto le asigne el Secretario.
 
 ### Capítulo III. De las Unidades de Apoyo a la Secretaría
 
@@ -261,7 +293,9 @@ La Comisión del Servicio Profesional de Carrera Policial será la encargada de 
 
 El Instituto de Formación Policial es un Órgano Desconcentrado, jerárquicamente subordinado a la Secretaría de Seguridad y Protección Ciudadana, con plena autonomía administrativa, presupuestaria, técnica, de gestión y de ejecución, con facultades de decisión y promoción en materia de capacitación y adiestramiento policial, mismo que atenderá los asuntos que su Decreto de Creación, Reglamento Interior y la normatividad aplicable le confieren.
 
-El objeto fundamental del Instituto es, en términos de su Decreto de Creación, coordinar su funcionamiento, planear, organizar, dirigir y aplicar los planes y programas de estudio y de investigación; así como preparar e impartir cursos de capacitación, adiestramiento continuo y actualización profesional, dirigidos al personal operativo y de servicios que integra la Secretaría de Seguridad y Protección Ciudadana y los distintos cuerpos de seguridad pública del Estado.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2015)</small>
+
+El objeto fundamental del Instituto es coordinar su funcionamiento, planear, organizar, dirigir y aplicar los planes y programas de estudio y de investigación; así como preparar e impartir cursos de capacitación, adiestramiento continuo, y actualización profesional, dirigido al personal operativo y de servicios que integran la Secretaría, las Instituciones de Seguridad Pública y los prestadores de servicios de seguridad privada.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
@@ -285,7 +319,9 @@ Con el objeto de garantizar el cumplimiento de los principios constitucionales d
 
 I. Rendir el informe policial homologado (IPH), ajustándose a lo establecido en la normatividad vigente.
 
-II. Conducirse con dedicación y disciplina, así como con apego al orden jurídico y respeto a las Garantías Individuales y Derechos Humanos reconocidos en la Constitución.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2015)</small>
+
+II. Conducirse con dedicación, lealtad y disciplina, así como con apego al orden jurídico, respeto a las garantías individuales y a los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado de Chiapas.
 
 III. Preservar la secrecía de los asuntos que por razón del desempeño de su función conozcan, en términos de las disposiciones aplicables.
 
@@ -367,7 +403,13 @@ IX. Mantener en buen estado el armamento, material, municiones y equipo que se l
 
 X. Abstenerse de asistir uniformado a bares, cantinas, centros de apuestas o juegos, u otros centros análogos, si no media orden expresa para el desempeño de sus actividades o en casos de flagrancia.
 
-XI. Las demás que establezcan las disposiciones legales aplicables.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2015)</small>
+
+XI. Ejercer las facultades previstas en el artículo 132 del Código Nacional de Procedimientos Penales, cuando éstos sean los primeros en conocer de un hecho delictuoso, hasta que el Ministerio Público o la policía investigadora intervengan, y entregar a éstos los instrumentos, objetos y evidencias materiales que hayan asegurado, además de dichas actuaciones se deberá elaborar un registro fidedigno.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2015)</small>
+
+XII. Las demás que establezcan las disposiciones legales aplicables.
 
 ## Titulo Cuarto. Del Régimen Interno
 
@@ -473,9 +515,11 @@ XV. (DEROGADA, P.O. 23 DE NOVIEMBRE DE 2011)
 
 XVI. Las demás que establezcan las disposiciones legales aplicables.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 27.
 
-Los elementos operativos y de servicio pertenecientes a la Secretaría contaran con un historial en el cual se anotaran los detalles correspondientes al servicio como comisiones, incapacidades, ascensos, recompensas, correctivos disciplinarios, adscripciones, cambios de sector y oficina.
+Los integrantes de la Secretaría contarán con un historial en el cual se anotarán los detalles correspondientes al servicio como comisiones, incapacidades, ascensos, recompensas, correctivos disciplinarios, adscripciones, cambios de sector y oficina.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
@@ -503,13 +547,17 @@ c) Jubilación o Retiro.
 
 Al concluir el servicio el integrante deberá entregar al funcionario designado para tal efecto, toda la información, documentación, equipo, materiales, identificaciones, valores u otros recursos que hayan sido puestos bajo su responsabilidad o custodia mediante acta de entrega recepción.
 
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 29.
 
-El personal perteneciente a la Secretaría se sujetará a los periodos y rol de vacaciones que haya autorizado el titular de la Secretaría, previa presentación del proyecto por parte de la unidad responsable.
+Los integrantes de la Secretaría se sujetarán a los periodos y rol de vacaciones que haya autorizado el titular de la Secretaría, previa presentación del proyecto por parte de la Subsecretaría o unidad responsable.
 
-###### Articulo 30.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2015)</small>
 
-La Seguridad Social para los miembros de la Secretaría deberá garantizar, al menos, las prestaciones previstas para los trabajadores en materia de seguridad social de acuerdo a lo previsto en el artículo 123, apartado B, fracción XIII, segundo párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
+###### Artículo 30.
+
+La seguridad social para los integrantes de la Secretaría deberá garantizar, al menos, las prestaciones previstas para los trabajadores en materia de seguridad social de acuerdo con lo previsto en el artículo 123, apartado B, fracción XIII, segundo párrafo, de la Constitución Política de los Estados Unidos Mexicanos.
 
 ### Capítulo II. Del Sistema de Sanciones, Reconocimientos y Ascensos
 
@@ -519,7 +567,9 @@ La Seguridad Social para los miembros de la Secretaría deberá garantizar, al m
 
 El Sistema de sanciones, reconocimientos, promociones y recompensas de la Secretaría estará conformado por las Comisiones de Honor y Justicia y del Servicio Profesional de Carrera Policial.
 
-La Comisión de Honor y Justicia conocerá y resolverá respecto de los procedimientos disciplinarios a que se haga acreedor cualquier elemento de la Secretaría en el ejercicio de sus funciones, aplicando para tal efecto los reglamentos que correspondan.
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2015)</small>
+
+La Comisión de Honor y Justicia conocerá y resolverá respecto de los procedimientos disciplinarios a que se haga acreedor cualquier integrante de la Secretaría en el ejercicio de sus funciones, aplicando para tal efecto los reglamentos que correspondan y demás disposiciones aplicables.
 
 > <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
 
@@ -527,13 +577,13 @@ La Comisión del Servicio Profesional de Carrera Policial es la responsable de e
 
 Los procedimientos y las demás reglas de aplicación de cada comisión serán establecidos en los reglamentos y manuales de operación respectivos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 32.
 
-La disciplina se fundamenta en los principios de legalidad, lealtad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos y garantías constitucionales, en la capacidad de mandar y obedecer y tiene como objetivo fundamental el cumplimiento de las ordenes y misiones que las fuerzas públicas del Estado tienen encomendadas; anteponiendo en todo momento el interés colectivo del pueblo chiapaneco a cualquier interés personal.
+La disciplina de los Integrantes de la Secretaría se fundamenta en los principios de legalidad, lealtad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos y garantías constitucionales, en la capacidad de mandar y obedecer y tiene como objetivo fundamental el cumplimiento de las órdenes y misiones que las Instituciones Policiales tienen encomendadas; anteponiendo en todo momento el interés colectivo del pueblo chiapaneco a cualquier interés personal.
 
-En toda instalación de la Secretaría deberá imperar el orden jurídico y la disciplina a la que se ajustaran todos y cada uno de los elementos que opten por la vida policial.
+En las instalaciones de la Secretaría deberá imperar en todo momento el orden jurídico y la disciplina a la que se ajustarán todos y cada uno de los integrantes que opten por la vida policial.
 
 ###### Artículo 33.
 
@@ -645,11 +695,15 @@ El orden de las categorías jerárquicas y grado máximo al que puede acceder el
 
 I. Las áreas operativas, de policía a Comisario General.
 
-II. Los servicios, de policía a Comisario Jefe.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2015)</small>
+
+II. Las áreas de servicios, de policía a Comisario Jefe.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 41.
 
-El personal perteneciente a la Secretaría, podrá hacerse acreedor a los siguientes reconocimientos y/o condecoraciones:
+Los integrantes de la Secretaría podrán hacerse acreedores a los siguientes reconocimientos y/o condecoraciones:
 
 l. Al valor.
 
@@ -674,6 +728,10 @@ VI. Al mérito tecnológico.
 VII. Al mérito ejemplar.
 
 VIII. Al mérito social.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2015)</small>
+
+IX. Mérito Deportivo.
 
 ## Título Quinto. Del Desarrollo Policial, Carrera Policial y Profesionalización del Personal de la Secretaría
 
@@ -743,7 +801,9 @@ La Carrera Policial comprende el grado policial, la antigüedad, las insignias, 
 
 I. La Secretaría, deberá consultar los antecedentes de cualquier aspirante en el Registro Nacional de Personal de las instituciones de Seguridad Pública antes de que se autorice su ingreso a las mismas.
 
-II. Todo aspirante deberá tramitar, obtener y mantener actualizado el Certificado/nico (sic) Policial, que expedirá el Centro Estatal de Control de Confianza Certificado.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2015)</small>
+
+II. Todo aspirante deberá tramitar, obtener y mantener actualizado el Certificado Único Policial, que expedirá el Centro Estatal de Control de Confianza Certificado.
 
 III. Ninguna persona podrá ingresar a las Policías Preventivas del Estado si no ha sido debidamente certificado y registrado en el Sistema.
 
@@ -829,11 +889,11 @@ La antigüedad contará hasta el momento en que esta calidad deba determinarse p
 
 La conclusión del servicio de un integrante es la terminación de su nombramiento o la cesación de sus efectos legales por las causas señaladas en ésta Ley.
 
-> <small>(REFORMADO, P.O. 23 DE NOVIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 16 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 57.
 
-Los integrantes que hayan alcanzado la edad límite para la permanencia, previstas en las disposiciones que los rijan, podrán ser reubicados, a consideración de las instancias, en otras áreas de los servicios de las propias instituciones.
+Los integrantes que hayan alcanzado la edad límite para la permanencia, además de aquellos que por razones de salud o discapacidad desempeñen su servicio en áreas operativas, podrán ser reubicados, en otras áreas de servicios de la Secretaría.
 
 ###### Artículo 58.
 
@@ -1034,3 +1094,13 @@ Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispu
 Artículo Tercero.- Las dependencias normativas, en el ámbito de sus respectivas competencias, llevarán a cabo de inmediato las acciones que sean necesarias para las adecuaciones, estructurales y funcionales a que haya lugar, derivado del presente Decreto.
 
 Artículo Cuarto.- La Secretaría de Seguridad y Protección Ciudadana deberá someter a consideración del Ejecutivo del Estado, en un plazo no mayor a noventa días, contados a partir de la publicación del presente Decreto, las modificaciones al Reglamento de la Ley, para su aprobación y publicación correspondiente.
+
+P.O. 16 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 034 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY QUE ESTABLECE LAS BASES DE OPERACIÓN DE LA SECRETARÍA DE SEGURIDAD Y PROTECCIÓN CIUDADANA DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- El titular de la Secretaría de Seguridad y Protección Ciudadana, deberá someter a consideración y aprobación del titular del Ejecutivo del estado, el proyecto de reforma al reglamento de la presente Ley, y demás normatividad que resulte aplicable en la materia, en un plazo no mayor a noventa días hábiles siguientes a la publicación del presente Decreto.
