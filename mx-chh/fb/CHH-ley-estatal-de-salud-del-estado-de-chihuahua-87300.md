@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-salud-del-estado-de-chihuahua-87300"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-14"
-last_updated: "2015-08-12"
+last_updated: "2015-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87300&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE SALUD DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 14 de abril de 2012.
 
@@ -1160,6 +1160,14 @@ I.- Educación para la salud.
 II.- Control de los efectos nocivos del ambiente en la salud.
 
 III.- Salud ocupacional.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2015)</small>
+
+IV.- El fomento del deporte y la cultura física.
+
+> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2015)</small>
+
+La Secretaría, en coordinación con las dependencias estatales y municipales competentes, establecerá políticas públicas para fomentar el deporte y la cultura física, mismas que deberá difundir ampliamente, utilizando los medios de comunicación a su alcance.
 
 ### CAPÍTULO III. CONTROL DE LOS EFECTOS DEL AMBIENTE EN LA SALUD
 
@@ -3469,7 +3477,9 @@ El Consejo Estatal de Salud a que se refiere la presente Ley, deberá instalarse
 
 Los artículos 3o., fracciones XXI, XXIII y XXIV; 202, inciso c); 203, fracciones III y IV; 243; 244 y 245, de la presente Ley, entrarán en vigor el día 20 de agosto del 2012, conforme lo dispone el Decreto No. 411/2011 II P.O.
 
-ARTÍCULO SÉPTlMO.- Remítase el presente Decreto, para su publicación en el Periódico Oficial del Estado.
+###### ARTÍCULO SÉPTIMO.
+
+Remítase el presente Decreto, para su publicación en el Periódico Oficial del Estado.
 
 DADO en el Salón de Sesiones del Poder Legislativo, en la ciudad de Chihuahua, Chih., a los quince días del mes de septiembre del año dos mil once.
 
@@ -3590,6 +3600,14 @@ P.O. 17 DE JUNIO DE 2015.
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 12 DE AGOSTO DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1031/2015 I P.O. MEDIANTE EL CUAL SE ADICIONA UNA FRACCIÓN IV Y UN PÁRRAFO FINAL A ESTA ÚLTIMA, EL ARTÍCULO 117 DE LA LEY ESTATAL DE SALUD”.]
 
 ###### ARTÍCULO ÚNICO.
 
