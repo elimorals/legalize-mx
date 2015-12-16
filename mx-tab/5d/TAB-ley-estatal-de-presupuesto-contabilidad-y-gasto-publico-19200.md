@@ -4,7 +4,7 @@ identifier: "TAB-ley-estatal-de-presupuesto-contabilidad-y-gasto-publico-19200"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2013-12-21"
+last_updated: "2015-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19200&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 LEY ESTATAL DE PRESUPUESTO, CONTABILIDAD Y GASTO PÚBLICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE TABASCO Y SUS MUNICIPIOS, PUBLICADA EN EL P.O. DE 16 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 30 de diciembre de 2000.
 
@@ -438,3 +440,19 @@ P.O. 21 DE DICIEMBRE DE 2013.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 16 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 230 POR EL QUE "SE EXPIDE LA LEY DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE TABASCO Y SUS MUNICIPIOS".]
+
+PRIMERO. La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado, sin perjuicio de lo previsto en los transitorios siguientes.
+
+SEGUNDO. Se abroga la Ley Estatal de Presupuesto, Contabilidad y Gasto Público y se derogan todas las disposiciones que se opongan a lo dispuesto en la presente Ley.
+
+TERCERO. En tanto se expida el Reglamento de la Ley de Presupuesto y Responsabilidad Hacendaria del Estado de Tabasco y sus Municipios, se continuará aplicando el Reglamento de la Ley Estatal de Presupuesto, Contabilidad y Gasto Público, así como las demás disposiciones vigentes en la materia, en lo que no se opongan a la presente Ley. Dicho reglamento deberá expedirse a más tardar a los 90 días naturales posteriores a la publicación de la presente Ley en el Periódico Oficial del Estado y se sujetará estrictamente a las disposiciones que esta Ley establece.
+
+CUARTO. La Secretaría realizará los cobros de entidades conforme a lo dispuesto en la presente Ley a partir del ejercicio fiscal 2016.
+
+QUINTO. Las dependencias y entidades del Gobierno Estatal generarán los comprobantes contables digitales por internet señalados en el artículo 12 de la presente Ley a partir del ejercicio fiscal 2016. Los Municipios, los Poderes Legislativo y Judicial y los órganos autónomos generarán dichos comprobantes para el ejercicio fiscal 2017.
+
+SEXTO. En tanto se crean las Unidades de Evaluación del Desempeño, que deberán entrar en funcionamiento a más tardar el 1° de enero de 2016, se mantendrán vigentes el Consejo Estatal de Evaluación y los Consejos Municipales de Evaluación, así como los acuerdos emanados de los mismos.
