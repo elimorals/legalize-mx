@@ -4,7 +4,7 @@ identifier: "YUC-codigo-de-la-administracion-publica-de-yucatan-57283"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-10-16"
-last_updated: "2015-10-14"
+last_updated: "2015-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 14 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 16 DE DICIEMBRE DE 2015.
 
 Código publicado en el Suplemento al Diario Oficial del Estado de Yucatán, el martes 16 de octubre de 2007.
 
@@ -103,11 +103,11 @@ Las dependencias y entidades que integran la Administración Pública del Estado
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 9.
 
-La coordinación con la Administración Pública Federal, respecto de la planeación, programación, presupuestación y ejecución de los programas y proyectos de inversión, cuando proceda, se realizará a través del Consejo Estatal de Planeación de Yucatán.
+La coordinación con la Administración Pública Federal, respecto de la planeación, programación, presupuestación y ejecución de los programas y proyectos de inversión, cuando proceda, se realizará a través de los órganos del Consejo de Planeación y Evaluación del Estado de Yucatán.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -241,105 +241,29 @@ En el supuesto del artículo anterior y además para el caso de ausencia del Sec
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 20.
 
-El Titular del Poder Ejecutivo del Estado, para el adecuado cumplimiento de sus facultades contará con el Despacho del Gobernador, como una unidad administrativa de apoyo, integrada por la Jefatura del Despacho del Gobernador y la Secretaría Técnica del Gabinete, Planeación y Evaluación, que estarán organizadas en los términos previstos en el reglamento de este Código y demás disposiciones aplicables.
+El titular del Poder Ejecutivo del estado, para el adecuado cumplimiento de sus facultades, contará con el Despacho del Gobernador, que será una unidad administrativa de apoyo y estará integrado en términos del reglamento de este código y demás disposiciones aplicables.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 21.
 
 El Despacho del Gobernador contará con las atribuciones siguientes:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+I.- Coordinar los servicios de seguridad, la agenda diaria y privada, el calendario de giras, el protocolo, el control de la documentación y, en general, brindar todo el auxilio necesario al Gobernador del estado para el desempeño de sus actividades;
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
+II.- Dar seguimiento al cumplimiento de los compromisos y proyectos estratégicos a cargo de las dependencias y entidades de la Administración Pública del estado e informar periódicamente de sus avances al Gobernador;
 
-I.- Coordinar los servicios de seguridad, la agenda diaria y privada, el calendario de giras, el protocolo, el control de la documentación y, en general, brindar todo el auxilio necesario al Gobernador del Estado para el desempeño de sus actividades;
+III.- Brindar asesoría técnica al Gobernador en las distintas materias que requiera;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+IV.- Coordinar la agenda de relaciones públicas y asuntos nacionales e internacionales del Gobernador del estado;
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
-
-II.- Dar seguimiento al cumplimiento de los compromisos y proyectos estratégicos, a cargo de las dependencias y entidades de la Administración Pública del Estado, e informar periódicamente de sus avances al Titular del Poder Ejecutivo, así como brindarle asesoría técnica;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
-
-III.- Apoyar, asesorar y vigilar a los titulares o funcionarios análogos responsables de las áreas de planeación en las dependencias y entidades de la Administración Pública del Estado en las funciones relacionadas con la integración y el cumplimiento de los objetivos y metas del Plan Estatal de Desarrollo, los programas sectoriales y presupuestarios;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
-
-IV.- Coordinar y dar seguimiento a los trabajos del Sistema de Gabinete Sectorizado, así como informar al Gobernador del Estado de sus acuerdos y resoluciones;
-
-V.- Evaluar los resultados de las acciones de comunicación social del Poder Ejecutivo del Estado y, en su caso, señalar las medidas necesarias para un mejor cumplimiento de los objetivos de las acciones referidas;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
-
-VI.- Coordinar la agenda de relaciones públicas y asuntos nacionales e internacionales del Gobernador del Estado;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-VII.- (DEROGADA, D.O. 5 DE DICIEMBRE DE 2012)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
-
-VIII.- Elaborar el Plan Estatal de Desarrollo con la participación del Consejo Estatal de Planeación de Yucatán y coordinar la formulación de los programas sectoriales e institucionales de conformidad con las disposiciones de la Ley Estatal de Planeación, instrumentando mecanismos de participación ciudadana y de evaluación;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
-
-IX.- Coordinar el Consejo Estatal de Planeación de Yucatán;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
-
-X.- Establecer, dirigir y coordinar el Sistema de Información Estadística y Geográfica del Estado de Yucatán;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
-
-XI.- Establecer los lineamientos que deban seguirse entre las dependencias y entidades de la Administración Pública del Estado, con el fin de que éstas aporten datos para ser incluidos en el informe anual que el Titular del Poder Ejecutivo rinda ante el Honorable Congreso del Estado;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
-
-XII.- Formular las políticas, normas, criterios y procedimientos, con el fin de implementar un Sistema de Seguimiento y Evaluación del Desempeño que verifique el cumplimiento de los objetivos y metas establecidos en el Plan Estatal de Desarrollo y los programas sectoriales;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
-
-XIII.- Participar con la Secretaría de Administración y Finanzas, en la elaboración del anteproyecto de la Ley de Ingresos y del Presupuesto de Egresos del Gobierno del Estado, de conformidad con el artículo 31 fracción XXII de este Código;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
-
-XIV.- Normar y coordinar la elaboración de los programas y proyectos de inversión de las dependencias y entidades de la Administración Pública del Estado, así como formular los estudios técnicos y económicos de factibilidad requeridos por el Gobernador del Estado;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
-
-XV.- Coordinar la gestión y seguimiento a la asignación de recursos provenientes de la federación y de otros organismos públicos o privados, sean nacionales o internacionales, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
-
-XVI.- Las demás que le confieran expresamente las leyes y reglamentos.
+V.- Las demás que le confieran expresamente las leyes y reglamentos.
 
 ## TÍTULO II. DE LAS DEPENDENCIAS
 
@@ -551,11 +475,11 @@ XXV.- Los demás que dispongan las leyes, reglamentos, convenios de colaboració
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 28.
 
-Los titulares de las dependencias y entidades de la Administración Pública del Estado, deberán remitir, con la oportunidad que señalen las disposiciones legales y administrativas aplicables, sus anteproyectos de presupuesto y programas operativos anuales para los efectos de la fracción XIV del artículo 55 de la Constitución Política del Estado de Yucatán, a la Secretaría de Administración y Finanzas y al Despacho del Gobernador, quienes elaborarán los estudios y dictámenes necesarios que serán presentados al Titular del Poder Ejecutivo.
+Los titulares de las dependencias y entidades de la Administración Pública del estado deberán remitir, con la oportunidad que señalen las disposiciones legales y administrativas aplicables, sus anteproyectos de presupuesto y programas operativos anuales, para los efectos de lo establecido en la fracción XIV del artículo 55 de la Constitución Política del Estado de Yucatán, a la Secretaría de Administración y Finanzas, quien elaborará los estudios y dictámenes para que sean presentados al titular del Poder Ejecutivo.
 
 ###### Artículo 29.
 
@@ -745,9 +669,9 @@ XXI.- Coordinar los apoyos logísticos y operativos de los actos cívicos y los 
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 2015)</small>
 
-XXII.- Elaborar y presentar al Titular del Poder Ejecutivo, el anteproyecto de Ley de Ingresos y el de Presupuesto de Egresos del Gobierno del Estado. En dichos anteproyectos, el Despacho del Gobernador, por conducto de la Secretaría Técnica del Gabinete, Planeación y Evaluación, participará en todo lo relativo a la observancia de los objetivos y metas fijados en el Plan Estatal de Desarrollo, los planes sectoriales y los programas presupuestarios;
+XXII.- Elaborar y presentar al titular del Poder Ejecutivo el anteproyecto de ley de ingresos y de presupuesto de egresos del Gobierno del estado;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1229,9 +1153,9 @@ XV.- Formular, coordinar y evaluar estudios e investigaciones para identificar z
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 2015)</small>
 
-XVI.- Supervisar, controlar y evaluar los programas y acciones de desarrollo social, en coordinación con el Despacho del Gobernador, verificando los resultados e impactos obtenidos, y
+XVI.- Supervisar, controlar y evaluar los programas y acciones de desarrollo social, verificando los resultados e impactos obtenidos, y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1441,11 +1365,9 @@ XIV.- Desarrollar el potencial productivo de los recursos naturales no renovable
 
 XV.- Promover la organización de las sociedades productivas, proporcionando el apoyo especializado necesario para tal objeto;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
-
-XVI.- Participar en la operación del Sistema de Información Estadística Económica del Estado en coordinación con el Despacho del Gobernador;
+XVI.- (DEROGADA, D.O. 16 DE DICIEMBRE DE 2015)
 
 XVII.- Implementar la adecuada vigilancia, control y demás acciones en coordinación con las dependencias concurrentes en materia de desarrollo económico;
 
@@ -1949,9 +1871,9 @@ XII.- Desarrollar y ejecutar programas en materia de trabajo, de conformidad con
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 2015)</small>
 
-XIII.- Proponer al Consejo Estatal de Planeación de Yucatán, políticas en materia laboral con visión regional y local que impulsen estrategias y líneas de acción que contribuyan a mejorar la productividad, la ocupación y el empleo, la capacitación y adiestramiento, la salud e higiene, y todas las medidas institucionales que persigan el fortalecimiento de la productividad en el Estado;
+XIII.- Proponer políticas en materia laboral con visión regional y local que impulsen estrategias y líneas de acción que contribuyan a mejorar la productividad, la ocupación, el empleo, la capacitación, el adiestramiento, la salud e higiene, así como todas las medidas institucionales que persigan el fortalecimiento de la productividad en el estado;
 
 XIV.- Instrumentar políticas y acciones que mejoren las condiciones laborales de las mujeres y los grupos en situación de vulnerabilidad en el Estado;
 
@@ -2077,13 +1999,15 @@ La Administración Pública Paraestatal está conformada por los organismos púb
 
 Son organismos públicos descentralizados las instituciones creadas por disposición del Congreso del Estado o por Decreto del Titular del Ejecutivo del Estado, con personalidad jurídica y patrimonio propio, sin distinción de la forma o estructura legal que adopten.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 16 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 50.
 
-Las relaciones entre el Titular del Poder Ejecutivo del Estado y las entidades paraestatales se llevarán a cabo por conducto de la Secretaría de Administración y Finanzas y el Despacho del Gobernador, a fin de que en todo momento la actividad de dichas entidades sea congruente con lo que establece el Plan Estatal de Desarrollo y con los lineamientos que, en relación con la planeación, programación, elaboración y ejercicio del presupuesto, seguimiento y evaluación, se emitan conforme a la Ley, su Reglamento y demás disposiciones legales y normativas aplicables.
+Las relaciones entre el titular del Poder Ejecutivo del estado y las entidades paraestatales se llevarán a cabo por conducto de la Secretaría de Administración y Finanzas y de la dependencia coordinadora del sector correspondiente, a fin de que, en todo momento, la actividad de dichas entidades sea congruente con lo que establece el Plan Estatal de Desarrollo y con los lineamientos que, en relación con la planeación, programación, elaboración, ejercicio, seguimiento y evaluación del presupuesto, se emitan.
+
+> <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2012)</small>
 
 El Poder Ejecutivo del Estado, a través de la Secretaría de Administración y Finanzas publicará anualmente en el Diario Oficial del Gobierno del Estado, el acuerdo que establece la adscripción de las entidades paraestatales a las dependencias coordinadoras de la Administración Pública del Estado.
 
@@ -2145,11 +2069,11 @@ Corresponderá a los Titulares de las Secretarías encargados de la coordinació
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 62.
 
-Se integrarán representantes de la Secretaría de Administración y Finanzas y del Despacho del Gobernador a los órganos de gobierno, y en su caso, a los comités técnicos de las entidades paraestatales. También participarán las otras dependencias y entidades en la medida en que tengan relación con el objeto de la entidad paraestatal de que se trate; todas ellas de conformidad a su esfera de competencia y disposiciones relativas en la materia.
+Se integrarán representantes de la Secretaría de Administración y Finanzas a los órganos de gobierno, y en su caso, a los comités técnicos de las entidades paraestatales. También participarán las otras dependencias y entidades en la medida en que tengan relación con el objeto de la entidad paraestatal de que se trate; todas ellas de conformidad con su esfera de competencia y las disposiciones en la materia.
 
 ###### Artículo 63.
 
@@ -2217,11 +2141,11 @@ En la extinción de los organismos descentralizados deberán observarse las mism
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 70.
 
-Cuando algún organismo descentralizado creado por el Poder Ejecutivo, deje de cumplir sus fines u objeto, o su funcionamiento no resulte conveniente desde el punto de vista de la economía del Estado o el interés público, la Secretaría de Administración y Finanzas, atendiendo la opinión de la dependencia Coordinadora de Sector que corresponda y del Despacho del Gobernador, propondrá al Ejecutivo del Estado la disolución, enajenación, liquidación o extinción de aquél. Asimismo, podrá proponer su fusión cuando su actividad combinada redunde en incremento de eficiencia y productividad.
+Cuando algún organismo descentralizado creado por el Poder Ejecutivo deje de cumplir sus fines u objeto, o su funcionamiento no resulte conveniente desde el punto de vista de la economía del estado o el interés público, la Secretaría de Administración y Finanzas, atendiendo la opinión de la dependencia coordinadora del sector que corresponda, propondrá al Ejecutivo del estado la disolución, enajenación, liquidación o extinción de aquel. Asimismo, podrá proponer su fusión cuando su actividad combinada redunde en incremento de eficiencia y productividad.
 
 > <small>(REFORMADO, D.O. 30 DE SEPTIEMBRE DE 2011)</small>
 
@@ -2387,11 +2311,11 @@ La dependencia Coordinadora de Sector al que corresponda la empresa, en lo que n
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 91.
 
-Cuando ya no resulte conveniente conservar la empresa de participación estatal mayoritaria; desde el punto de vista de la economía del Estado o del interés público, la Secretaría de Administración y Finanzas, atendiendo la opinión de la dependencia Coordinadora de Sector que corresponda y del Despacho del Gobernador, propondrá al Titular del Poder Ejecutivo del Estado la enajenación de la participación estatal o en su caso, la disolución o liquidación.
+Cuando ya no resulte conveniente conservar la empresa de participación estatal mayoritaria, desde el punto de vista de la economía del estado o del interés público, la Secretaría de Administración y Finanzas, atendiendo la opinión de la dependencia coordinadora de sector que corresponda, propondrá al titular del Poder Ejecutivo del estado la enajenación de la participación estatal o en su caso, la disolución o liquidación.
 
 ###### Artículo 92.
 
@@ -2453,7 +2377,7 @@ En los contratos constitutivos de fideicomisos de la Administración Pública Es
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, D.O. 5 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O. 16 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 101.
 
@@ -2489,7 +2413,7 @@ El programa Institucional de la entidad paraestatal se elaborará en los términ
 
 ###### Artículo 105.
 
-Los presupuestos de la entidad se sujetarán a los lineamientos generales que en materia de gastos establezca la Secretaría de Administración y Finanzas, así como a los lineamientos específicos de programación, seguimiento y evaluación que defina el Despacho del Gobernador y la Coordinadora de Sector, formulándose a partir de sus programas anuales conteniendo la descripción detalladas (sic) de objetivos, metas, responsables de su ejecución y los elementos que permitan la evaluación sistemática de sus programas.
+Los presupuestos de la entidad se sujetarán a los lineamientos generales que en materia de gastos establezca la Secretaría de Administración y Finanzas, así como a los lineamientos específicos de programación, seguimiento y evaluación vigentes; y se formularán a partir de sus programas anuales, los cuales deberán contener la descripción detallada de objetivos, metas, responsables de su ejecución y los elementos que permitan la evaluación sistemática de sus programas.
 
 ###### Artículo 106.
 
@@ -2573,9 +2497,9 @@ VII.- Aprobar el Estatuto Orgánico, tratándose de organismos públicos descent
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, D.O. 5 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O. 16 DE DICIEMBRE DE 2015)</small>
 
-VIII.- Proponer al Gobernador del Estado, por conducto de la Secretaría de Administración y Finanzas y con la opinión del Despacho del Gobernador, los convenios de fusión con otras entidades;
+VIII.- Proponer al Gobernador del estado, por conducto de la Secretaría de Administración y Finanzas, los convenios de fusión con otras entidades;
 
 IX.- Aprobar la constitución de reservas y aplicación de las utilidades de las empresas de participación estatal mayoritaria;
 
@@ -3108,3 +3032,53 @@ La Secretaría de Administración y Finanzas, una vez concluidos los movimientos
 Décimo Segundo. Plan estratégico
 
 A partir de la entrada en vigor de las modificaciones al Reglamento del Código de la Administración Pública de Yucatán, se dará un plazo máximo de 60 días para que se establezca un plan estratégico que atienda proyectos de investigación de alto impacto en las condiciones de vida de la población. Asimismo, para este propósito se destinará un porcentaje de al menos el 20% del incremento en gasto público de la nueva Secretaría para actividades destinadas a la investigación científica de impacto social.
+
+D.O. 16 DE DICIEMBRE DE 2015.
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el 1 de enero de 2016.
+
+Segundo. Nombramiento del secretario técnico
+
+El Gobernador deberá nombrar al Secretario Técnico de la Secretaría Técnica de Planeación y Evaluación dentro del plazo de treinta días naturales, contados a partir de la entrada en vigor de este decreto.
+
+Tercero. Instalación de la junta de gobierno
+
+La Junta de Gobierno de la Secretaría Técnica de Planeación y Evaluación deberá instalarse dentro del plazo de treinta días naturales, contados a partir de la entrada en vigor de este decreto.
+
+Cuarto. Abrogación
+
+Se abroga el decreto número 30 que crea la Secretaría Técnica del Gabinete, Planeación y Evaluación, publicado en el diario oficial del estado el 1 de enero de 2013.
+
+Quinto. Obligación normativa
+
+El Secretario Técnico de Planeación y Evaluación deberá presentar a la Junta de Gobierno de la Secretaría Técnica de Planeación y Evaluación, para su aprobación, el proyecto de su estatuto orgánico, de conformidad con las disposiciones de este decreto, dentro del plazo de noventa días naturales, contados a partir de su entrada en vigor.
+
+Sexto. Modificación de reglamentos
+
+El Poder Ejecutivo deberá publicar las modificaciones al Reglamento del Código de la Administración Pública de Yucatán y al Reglamento de la Ley de Planeación para el Desarrollo del Estado de Yucatán que correspondan dentro del plazo de noventa días naturales, contados a partir de la entrada en vigor de este decreto.
+
+Séptimo. Ajustes de personal.
+
+El personal de base que preste sus servicios en el órgano desconcentrado del Despacho del Gobernador denominado Secretaría Técnica del Gabinete, Planeación y Evaluación pasará a formar parte de la Secretaría Técnica de Planeación y Evaluación, y se estará a lo establecido en las disposiciones legales aplicables.
+
+Octavo. Transferencia de recursos.
+
+Los recursos presupuestales, financieros, materiales y, en general, todos aquellos medios que permiten el cumplimiento de las atribuciones asignadas al órgano desconcentrado del Despacho del Gobernador denominado Secretaría Técnica del Gabinete, Planeación y Evaluación, se transferirán a la Secretaría Técnica de Planeación y Evaluación.
+
+Noveno. Asuntos pendientes
+
+Los convenios, actos jurídicos, asuntos pendientes y en trámite, así como las obligaciones contraídas y los derechos adquiridos por el órgano desconcentrado del Despacho del Gobernador denominado Secretaría Técnica del Gabinete, Planeación y Evaluación, y que por su naturaleza subsistan, quedarán a cargo de la Secretaría Técnica de Planeación y Evaluación a partir de la entrada en vigor de este decreto.
+
+Décimo. Referencias a la secretaría técnica
+
+Cuando otras disposiciones legales mencionen o contemplen la figura del órgano desconcentrado del Despacho del Gobernador denominado Secretaría Técnica del Gabinete, Planeación y Evaluación, se entenderán referidas a la Secretaría Técnica de Planeación y Evaluación.
+
+Décimo primero. Referencias al consejo de planeación
+
+Cuando otras disposiciones legales mencionen o contemplen la figura del Consejo Estatal de Planeación de Yucatán, se entenderán referidas al Consejo de Planeación y Evaluación del Estado de Yucatán.
+
+Décimo segundo. Derogación tácita
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
