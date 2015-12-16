@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-241-de-desarrollo-urbano-ordenamiento-80815"
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-13"
-last_updated: "2015-04-28"
+last_updated: "2015-12-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,13 +23,9 @@ state: "VER"
 
 LEY NUMERO 241 DE DESARROLLO URBANO, ORDENAMIENTO TERRITORIAL Y VIVIENDA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Número Extraordinario a la Gaceta Oficial del Estado de Veracruz, el miércoles 13 de abril de 2011.
-
-GOBIERNO DEL ESTADO
-
-PODER EJECUTIVO
 
 Al margen un sello que dice: Estados Unidos Mexicanos.- Gobernador del Estado de Veracruz de Ignacio de la Llave.
 
@@ -299,7 +295,9 @@ h) Las demás que le señalen esta Ley y otros ordenamientos jurídicos aplicabl
 
 El Instituto Veracruzano de la Vivienda es un organismo público descentralizado, con personalidad jurídica y patrimonio propios, sectorizado a la Secretaría, que tendrá por objeto promover activamente el desarrollo de la vivienda en el Estado, propiciando las condiciones técnicas, legales y financieras adecuadas a través de créditos en materia de vivienda, constituyendo las reservas territoriales suficientes y coordinando los esfuerzos de los diferentes sectores de la producción, con el fin de brindar a las familias veracruzanas una mayor oportunidad de contar con una vivienda digna.
 
-Su estructura orgánica contará con un Consejo Directivo, una Gerencia General y las siguientes Gerencias: de Promoción y Desarrollo para la Vivienda; de Crédito a la Vivienda; de Suelo Urbano; de Análisis e Investigación para la Vivienda; de Administración y Finanzas; y Jurídica, así como una Contraloría Interna y las unidades técnicas y administrativas que se estimen necesarias para su funcionamiento. Su integración y funciones serán determinadas por el reglamento interior respectivo.
+> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2015)</small>
+
+Contará con un Consejo Directivo, un Gerente General que se auxiliará de las Gerencias necesarias para el correcto funcionamiento del organismo público descentralizado, una Contraloría Interna y las Unidades Administrativas y Técnicas, así como de los demás Servidores Públicos que se estimen necesarios para el desempeño de sus funciones. La denominación de las Gerencias y de las Unidades Administrativas y Técnicas, serán establecidas en el Reglamento Interior del Instituto.
 
 ###### Artículo 7.
 
@@ -1480,3 +1478,13 @@ G.O. 28 DE ABRIL DE 2015.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 16 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 608 QUE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 6 DE LA LEY DE DESARROLLO URBANO, ORDENAMIENTO TERRITORIAL Y VIVIENDA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+Tercero. Las modificaciones a la estructura orgánica del Instituto Veracruzano de la Vivienda, estarán sujetas a la suficiencia presupuestal que le corresponda y a las autorizaciones que, en el ámbito de sus competencias, emitan la Secretaría de Finanzas y Planeación del Estado de Veracruz y la Contraloría General del Estado de Veracruz; conforme a criterios de austeridad, eficiencia y racionalidad del gasto público.
