@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-secretaria-de-hacienda-del-estado-961
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-09-04"
-last_updated: "2015-05-06"
+last_updated: "2015-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96188&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2015.
 
 Reglamento publicado en el Periódico oficial del Estado de Chiapas, el miércoles 4 de septiembre de 2013.
 
@@ -369,9 +369,17 @@ XXXVIII. Recaudar, fiscalizar y administrar los impuestos y otras contribuciones
 
 XXXIX. Otorgar los estímulos fiscales, en los términos del Código de la Hacienda Pública para el Estado de Chiapas, del Convenio de Colaboración Administrativa en Materia Fiscal Federal y la Ley de Derechos del Estado de Chiapas.
 
-> <small>(ADICIONADA, P.O. 6 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2015)</small>
 
-XL. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Ejecutivo del Estado, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+XL. Conocer del ingreso, promoción, remoción, cambio de adscripción y comisiones del personal de la Secretaría.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2015)</small>
+
+XLI. Conocer de las adecuaciones presupuestarias que presenten los Organismos Públicos, así como de su autorización.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2015)</small>
+
+XLII. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Ejecutivo del Estado, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ###### Artículo 14.
 
@@ -391,7 +399,7 @@ V. Presentar al Ejecutivo del Estado, los programas y proyectos en materia de re
 
 VI. Presentar al Ejecutivo del Estado, los proyectos de la Ley de Ingresos del Estado, del Presupuesto de Egresos del Estado, así como el Informe de Avance de Gestión Financiera y la Cuenta Pública.
 
-VII. Autorizar el ingreso, promoción, remoción, cambio de adscripción, y comisiones del personal de la Secretaría.
+VII. (DEROGADA, P.O. 16 DE DICIEMBRE DE 2015)
 
 VIII. Proponer al Ejecutivo del Estado para su expedición, el proyecto de Reglamento Interior de la Secretaría y las reformas que al efecto requiera; así como expedir los manuales administrativos, que permitan normar el adecuado funcionamiento de sus Órganos Administrativos.
 
@@ -429,11 +437,21 @@ XXIV. Emitir la autorización para la venta fuera de subasta de bienes muebles e
 
 XXV. Emitir la autorización para la recuperación de cartera de crédito de los Fideicomisos Públicos Estatales.
 
-XXVI. Autorizar el calendario de gasto anual, las adecuaciones presupuestarias en la modalidad de liberaciones, retenciones, recalendarizaciones, reducción, ampliación y traspasos que presenten los Organismos Públicos, y las ministraciones que generen las mismas.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2015)</small>
 
-XXVII. Autorizar las ampliaciones o reducciones del Presupuesto de Egresos del Estado, en función al incremento o disminución de los ingresos, de acuerdo a lo que establece el Código de la Hacienda Pública para el Estado de Chiapas y demás ordenamientos aplicables.
+XXVI. Autorizar el calendario de gasto anual y las ministraciones que generen las mismas.
 
-XXVIII. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Ejecutivo del Estado, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2015)</small>
+
+XXVII. Autorizar las ampliaciones, o reducciones del Presupuesto de Egresos del Estado, en función al incremento o disminución de los ingresos, de acuerdo a lo que establece el Código de la Hacienda Pública para el Estado de Chiapas y demás ordenamientos aplicables.
+
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2015)</small>
+
+XXVIII. Emitir nombramiento a los servidores públicos de la Secretaría hasta tres niveles inmediatos inferiores para efectos de acreditación y/o representación.
+
+> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2015)</small>
+
+XXIX. Las demás atribuciones que en el ámbito de su competencia, le sean encomendadas por el Ejecutivo del Estado, así como las que le confieran las disposiciones legales, administrativas y reglamentarias aplicables.
 
 ## Título Tercero. De los Órganos Administrativos de la Secretaría
 
@@ -889,13 +907,15 @@ IV. Presentar al Secretario, el proyecto de Presupuesto de Egresos del Estado, e
 
 V. Establecer coordinación con la Subsecretaría de Ingresos y los Organismos Públicos, para la integración de los proyectos de Ley de Ingresos y del Presupuesto de Egresos del Estado.
 
-VI. Autorizar las adecuaciones presupuestarias en la modalidad de liberaciones, retenciones, recalendarizaciones, reducciones, ampliaciones y traspaso que presenten los Organismos Públicos, así como las ministraciones que generen las mismas.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2015)</small>
+
+VI. Conocer la autorización del calendario de gasto anual, las adecuaciones presupuestarias que presenten los Organismos Públicos, y las ministraciones que generen las mismas.
 
 VII. Proponer al Secretario, la ampliación o reducción del Presupuesto de Egresos del Estado, en función al incremento o disminución de los ingresos del Estado.
 
 VIII. Acordar con el Secretario las reducciones, diferimientos o cancelaciones de programas, proyectos y conceptos de gasto de los Organismos Públicos del Ejecutivo.
 
-IX. Autorizar los calendarios de gasto, ministraciones, ampliaciones y reducciones líquidas, liberaciones, retenciones, recalendarizaciones y traspasos presupuestarios de los Organismos Públicos, con base a estudios y a la disponibilidad financiera.
+IX. (DEROGADA, P.O. 16 DE DICIEMBRE DE 2015)
 
 X. Suscribir los dictámenes de estructuras orgánicas y la consecuente creación, modificación o cancelación de las categorías y/o plazas, previa validación de la disponibilidad presupuestaria.
 
@@ -1515,9 +1535,11 @@ c) Dirección de Política del Gasto.
 
 d) Dirección de Contabilidad Gubernamental.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 42.
 
-El Titular de la Dirección General de Presupuesto y Cuenta Pública, tendrá las atribuciones siguientes:
+El titular de la Dirección General de Presupuesto y Cuenta Pública, tendrá las atribuciones siguientes:
 
 I. Proponer los proyectos de decretos y acuerdos en materia de instrumentación y modernización del presupuesto y de la contabilidad, a los que deberán sujetarse los Organismos Públicos.
 
@@ -1527,7 +1549,9 @@ III. Establecer coordinación con la Subsecretaría de Ingresos y los Organismos
 
 IV. Promover la capacitación y asesoría a los Organismos Públicos en la normatividad, sistemas, presupuesto basado para resultados y en la contabilidad gubernamental.
 
-V. Autorizar las adecuaciones presupuestarias en la modalidad de liberaciones, retenciones, recalendarizaciones, reducciones, ampliaciones y traspaso que presenten los Organismos Públicos, así como las ministraciones que generen las mismas.
+> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2015)</small>
+
+V. Autorizar las adecuaciones presupuestarias que presenten los Organismos Públicos, así como conocer el calendario de gasto anual y las ministraciones que generen las mismas.
 
 VI. Proponer el proyecto de Presupuesto de Egresos del Estado, Informe de Avance de Gestión Financiera y la Cuenta Pública.
 
@@ -1541,7 +1565,7 @@ X. Acordar con el Secretario, las reducciones, diferimientos o cancelaciones de 
 
 XI. Promover la modernización de los sistemas administrativos computarizados, relacionados con el presupuesto y la contabilidad gubernamental.
 
-XII. Autorizar los calendarios de gasto, ministraciones, ampliaciones y reducciones líquidas, liberaciones, retenciones, recalendarizaciones y traspasos presupuestarios de los Organismos Públicos, con base a estudios y a la disponibilidad financiera.
+XII. (DEROGADA, P.O. 16 DE DICIEMBRE DE 2015)
 
 XIII. Promover la recopilación oportuna de información presupuestaria, financiera, contable y funcional de los Organismos Públicos, para la consolidación de la información financiera.
 
@@ -3528,3 +3552,13 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan las disposiciones de igual o menor jerarquía que el presente Decreto y se opongan al contenido del mismo.
 
 Artículo Tercero.- En cumplimiento a lo dispuesto en el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
+
+P.O. 16 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “PUB. NO. 1333-A-2015 DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE HACIENDA”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se derogan las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- En cumplimiento a lo dispuesto en el artículo 8º, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Decreto en el Periódico Oficial.
