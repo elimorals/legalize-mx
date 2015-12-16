@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-proteccion-de-los-derechos-de-los-ninos-ninas-y-52034"
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-23"
-last_updated: "2015-11-02"
+last_updated: "2015-12-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 LEY DE PROTECCIÓN DE LOS DERECHOS DE LOS NIÑOS, NIÑAS Y ADOLESCENTES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE NOVIEMBRE DE 2015.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO DÉCIMO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 16 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 23 de septiembre de 2006.
 
@@ -1344,3 +1346,39 @@ LIC. HELIODORO CARLOS DIAZ ESCARRAGA.
 P.O. 2 DE NOVIEMBRE DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 16 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1363.- MEDIANTE EL CUAL SE EXPIDE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. El Sistema Local y los Sistemas Municipales de Protección deberán integrarse a más tardar dentro de los ciento ochenta días siguientes a la entrada en vigor del presente Decreto.
+
+El Consejo Estatal de los Derechos de los Niños, Niñas y Adolescentes, así como, los Comités Municipales de los Derechos de los Niños, Niñas y Adolescentes, seguirán funcionando hasta en tanto quede integrado el Sistema Local y los Sistema (sic) Municipales de Protección de Niñas Niños y Adolescentes, respectivamente.
+
+TERCERO. Los recursos materiales, financieros y humanos de la Secretaría Ejecutiva del Consejo Estatal de los Derechos de los Niños, Niñas y Adolescentes para el Estado de Oaxaca, se transferirá al Órgano Desconcentrado denominado Secretaría Ejecutiva del Sistema Local de Protección de Niñas, Niños y Adolescentes.
+
+Las Secretarías de Finanzas, de Administración, y de la Contraloría y Transparencia Gubernamental, normarán y coordinarán el proceso de entrega recepción conforme al ámbito de su competencia y normatividad vigente, dentro de los treinta días siguientes a la entrada en vigor del presente Decreto.
+
+CUARTO. Los recursos materiales, financieros y humanos de la Procuraduría para la Defensa del Menor, la Mujer y la Familia, se transferirán al área administrativa denominada Procuraduría Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Oaxaca.
+
+Las Secretarías de Finanzas, de Administración, y de la Contraloría y Transparencia Gubernamental, normarán y coordinarán el proceso de entrega recepción, conforme al ámbito de su competencia y normatividad vigente, dentro de los treinta días siguientes a la entrada en vigor del presente Decreto.
+
+QUINTO. Los derechos de los trabajadores de las áreas administrativas que con motivo de este Decreto modifican su denominación o se transfieren a otra dependencia, se respetarán conforme a las disposiciones normativas aplicables.
+
+SEXTO. Los Centros de Asistencia que se encuentren operando con antelación a la entrada en vigor del presente Decreto contarán con un plazo de ciento ochenta días contados a partir de su publicación, para realizar las adecuaciones conducentes, en términos de lo previsto por la presente Ley.
+
+SÉPTIMO. Las obligaciones y derechos derivados de los contratos, convenios o cualquier otro instrumento legal o administrativo suscrito por las Dependencias, Órganos Auxiliares y Áreas administrativas que por este Decreto cambian de denominación y sector o se extinguen y transfieren sus recursos humanos, materiales y financieros a otras áreas o unidades, se entenderán subrogadas y contraídas por sus correlativos.
+
+OCTAVO. En un plazo no mayor a noventa días, contados a partir de la entrada en vigor de la presente Ley, el Congreso del Estado deberá de realizar las reformas y adecuaciones pertinentes a las leyes y códigos para el cumplimiento del presente Decreto.
+
+NOVENO. En un plazo no mayor a sesenta días, contados a partir de la entrada en vigor del presente Decreto, el Ejecutivo del Estado emitirá el Reglamento de la Ley de Niñas, Niños y Adolescentes del Estado de Oaxaca.
+
+DÉCIMO. Se abroga la Ley de Protección de los Derechos de los Niños, Niñas y Adolescentes para el Estado de Oaxaca, publicada en el Periódico Oficial del Gobierno del Estado, el veintitrés de septiembre de dos mil seis.
+
+DÉCIMO PRIMERO. Los actos jurídicos y administrativos suscritos por la Procuraduría para la Defensa del Menor, la Mujer y la Familia, se entenderán con la Procuraduría Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Oaxaca.
+
+DÉCIMO SEGUNDO. Los actos jurídicos y administrativos suscritos por la Secretaría Ejecutiva del Consejo Estatal de los Derechos de los Niños, Niñas y Adolescentes para el Estado de Oaxaca, se entenderán con el Órgano Desconcentrado denominado Secretaría Ejecutiva del Sistema Local de Protección de Niñas, Niños y Adolescentes.
+
+DÉCIMO TERCERO. Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente Ley.
