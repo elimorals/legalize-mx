@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-cultura-fisica-y-deporte-para-el-estado-de-tamaulipas-10
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-02"
-last_updated: "2014-07-02"
+last_updated: "2015-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101694&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE CULTURA FÍSICA Y DEPORTE PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 2 de julio de 2014.
 
@@ -149,15 +149,19 @@ XII. Ley: La Ley de Cultura Física y Deporte para el Estado de Tamaulipas;
 
 XIII. Ley General: La Ley General de Cultura Física y Deporte;
 
-XIV. Organismo Deportivo: Toda agrupación de personas físicas o morales, que cuenten o no con personalidad jurídica, cuyo propósito sea la práctica de un deporte o tengan por objeto desarrollar y fomentar actividades que se vinculen con el deporte, sin que ello implique necesariamente competencias deportivas;
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
-XV. Recreación Física: Actividad física con fines lúdicos que permiten la utilización positiva del tiempo libre;
+XIV. Medicina del Deporte: Especialidad científica multidisciplinaria dentro del marco de las ciencias de la salud que se caracteriza por un enfoque hacia el estudio del individuo y su relación con las actividades físicas, el deporte y la recreación. Es una práctica médica integral, porque considera al sujeto en estado de salud o enfermedad, durante todas las etapas de su vida entorno al concepto del hombre como una entidad biopsicosocial;
 
-XVI. Rehabilitación Física: Actividades para restablecer a una persona sus capacidades físicas, reeducando por medio de ellas a su cuerpo;
+XV. Organismo Deportivo: Toda agrupación de personas físicas o morales, que cuenten o no con personalidad jurídica, cuyo propósito sea la práctica de un deporte o tengan por objeto desarrollar y fomentar actividades que se vinculen con el deporte, sin que ello implique necesariamente competencias deportivas;
 
-XVII. Sistema: El Sistema Estatal del Deporte; y
+XVI. Recreación Física: Actividad física con fines lúdicos que permiten la utilización positiva del tiempo libre;
 
-XVIII. Sistema Nacional: El Sistema Nacional de Cultura Física y Deporte.
+XVII. Rehabilitación Física: Actividades para restablecer a una persona sus capacidades físicas, reeducando por medio de ellas a su cuerpo;
+
+XVIII. Sistema: El Sistema Estatal del Deporte; y
+
+XIX. Sistema Nacional: El Sistema Nacional de Cultura Física y Deporte.
 
 ### CAPÍTULO II. DE LAS AUTORIDADES
 
@@ -769,6 +773,22 @@ La Secretaría de Salud del Estado y el Instituto, procurarán la existencia y a
 
 Las instancias correspondientes, verificarán y certificarán que los laboratorios y profesionistas dedicados al ejercicio de estas ciencias, cumplan con los requisitos que fijen los Reglamentos y Normas Oficiales Mexicanas que sobre el particular, emita la dependencia con competencia en la materia.
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+ARTÍCULO 80 BIS.
+
+El Instituto promoverá e impulsará el desarrollo de la medicina del deporte mediante su inclusión en la elaboración del Programa Estatal de Cultura Física y Deporte, teniendo como objetivos:
+
+I. Impulsar el desarrollo de programas especiales de investigación técnica del deporte y de medicina del deporte;
+
+II. Proponer los mecanismos de colaboración y trabajo entre las diferentes dependencias y entidades de la administración pública, así como instituciones educativas públicas y privadas, en lo relativo a los programas de investigación en ciencias y técnicas del deporte y de la medicina del deporte;
+
+III. Asesorar y capacitar al personal técnico que participe en competencias oficiales con cursos, talleres, ponencias y demás actividades de capacitación y actualización profesional;
+
+IV. Desarrollar programas especiales para la atención médica de los deportistas tamaulipecos que participen en competencias oficiales; y
+
+V. Las demás que le confiera el Director General y otras disposiciones legales.
+
 ### CAPÍTULO XIV. DEL ESTÍMULO A LA CULTURA FÍSICA Y AL DEPORTE
 
 ###### ARTÍCULO 81.
@@ -1196,3 +1216,11 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los veintiséis días del mes de junio del año dos mil catorce.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EGIDIO TORRE CANTÚ.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- HERMINIO GARZA PALACIOS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE DICIEMBRE DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
