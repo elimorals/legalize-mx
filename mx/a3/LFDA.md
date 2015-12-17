@@ -4,7 +4,7 @@ identifier: "LFDA"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1996-12-24"
-last_updated: "2015-03-17"
+last_updated: "2015-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9233&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFDA"
 
 LEY FEDERAL DEL DERECHO DE AUTOR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 24 de diciembre de 1996.
 
@@ -35,6 +35,8 @@ Que el Honorable Congreso de la Unión, se ha servido dirigirme el siguiente
 DECRETO
 
 "EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO SEGUNDO DEL DECRETO PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 17 DE DICIEMBRE DE 2015, LAS MENCIONES CONTENIDAS EN LEYES, REGLAMENTOS Y DISPOSICIONES DE CUALQUIER NATURALEZA, RESPECTO DEL CONSEJO NACIONAL PARA LA CULTURA Y LAS ARTES, SE ENTENDERÁN REFERIDAS A LA SECRETARÍA DE CULTURA.</small>
 
 LEY FEDERAL DEL DERECHO DE AUTOR
 
@@ -608,7 +610,7 @@ La persona cuyo nombre o seudónimo, conocido o registrado, aparezca como autor 
 
 Respecto de las obras firmadas bajo seudónimo o cuyos autores no se hayan dado a conocer, las acciones para proteger el derecho corresponderán a la persona que las haga del conocimiento público con el consentimiento del autor, quien tendrá las responsabilidades de un gestor, hasta en cuanto el titular de los derechos no comparezca en el juicio respectivo, a no ser que existiera convenio previo en contrario.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE JULIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JULIO DE 2003)</small>
 
 ###### Artículo 78.
 
@@ -908,7 +910,7 @@ Los contratos de interpretación o ejecución deberán precisar los tiempos, per
 
 Salvo pacto en contrario, la celebración de un contrato entre un artista intérprete o ejecutante y un productor de obras audiovisuales para la producción de una obra audiovisual conlleva el derecho de fijar, reproducir y comunicar al público las actuaciones del artista. Lo anterior no incluye el derecho de utilizar en forma separada el sonido y las imágenes fijadas en la obra audiovisual, a menos que se acuerde expresamente.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 23 DE JULIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE JULIO DE 2003)</small>
 
 ###### Artículo 122.
 
@@ -1022,6 +1024,8 @@ La duración de los derechos regulados en este capítulo es de cincuenta años a
 
 ### Capítulo I. De la Limitación por Causa de Utilidad Pública
 
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 139.
 
 Para efectos de la presente Ley, se considera organismo de radiodifusión, la entidad concesionada o permisionada capaz de emitir señales sonoras, visuales o ambas, susceptibles de percepción, por parte de una pluralidad de sujetos receptores.
@@ -1096,7 +1100,7 @@ Los derechos de los organismos de radiodifusión a los que se refiere este Capí
 
 ###### Artículo 147.
 
-Se considera de utilidad pública la publicación o traducción de obras literarias o artísticas necesarias para el adelanto de la ciencia, la cultura y la educación nacionales. Cuando no sea posible obtener el consentimiento del titular de los derechos patrimoniales correspondientes, y mediante el pago de una remuneración compensatoria, el Ejecutivo Federal, por conducto de la Secretaría de Educación Pública, de oficio o a petición de parte, podrá autorizar la publicación o traducción mencionada. Lo anterior será sin perjuicio de los tratados internacionales sobre derechos de autor y derechos conexos suscritos y aprobados por México.
+Se considera de utilidad pública la publicación o traducción de obras literarias o artísticas necesarias para el adelanto de la ciencia, la cultura y la educación nacionales. Cuando no sea posible obtener el consentimiento del titular de los derechos patrimoniales correspondientes, y mediante el pago de una remuneración compensatoria, el Ejecutivo Federal, por conducto de la Secretaría de Cultura, de oficio o a petición de parte, podrá autorizar la publicación o traducción mencionada. Lo anterior será sin perjuicio de los tratados internacionales sobre derechos de autor y derechos conexos suscritos y aprobados por México.
 
 ### Capítulo III. Del Dominio Público
 
@@ -1482,6 +1486,8 @@ El Instituto podrá negar la renovación a que se refiere el presente artículo,
 
 ### Capítulo Unico
 
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 192.
 
 Sociedad de gestión colectiva es la persona moral que, sin ánimo de lucro, se constituye bajo el amparo de esta Ley con el objeto de proteger a autores y titulares de derechos conexos tanto nacionales como extranjeros, así como recaudar y entregar a los mismos las cantidades que por concepto de derechos de autor o derechos conexos se generen a su favor.
@@ -1654,7 +1660,7 @@ Previa denuncia de por lo menos el diez por ciento de los miembros el Instituto 
 
 ###### Artículo 208.
 
-El Instituto Nacional del Derecho de Autor, autoridad administrativa en materia de derechos de autor y derechos conexos, es un órgano desconcentrado de la Secretaría de Educación Pública.
+El Instituto Nacional del Derecho de Autor es un órgano administrativo desconcentrado de la Secretaría de Cultura y será la autoridad administrativa en materia de derechos de autor y derechos conexos.
 
 ###### Artículo 209.
 
@@ -1688,9 +1694,11 @@ IV. Imponer las sanciones administrativas que sean procedentes, y
 
 V. Las demás que le correspondan en los términos de la presente Ley, sus reglamentos y demás disposiciones aplicables.
 
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 211.
 
-El Instituto estará a cargo de un Director General que será nombrado y removido por el Ejecutivo Federal, por conducto del Secretario de Educación Pública, con las facultades previstas en la presente Ley, en sus reglamentos y demás disposiciones aplicables.
+El Instituto estará a cargo de un Director General que será nombrado y removido por el Secretario de Cultura, con las facultades previstas en la presente Ley, en sus reglamentos y demás disposiciones jurídicas aplicables.
 
 ###### Artículo 212.
 
@@ -2277,6 +2285,34 @@ CUADRAGÉSIMO QUINTO. La restricción para acceder a la compartición de infraes
 D.O.F. 17 DE MARZO DE 2015.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE DICIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El Consejo Nacional para la Cultura y las Artes se transforma en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto del Consejo Nacional para la Cultura y las Artes, se entenderán referidas a la Secretaría de Cultura.
+
+TERCERO. Los derechos laborales de los trabajadores que presten sus servicios en el Consejo Nacional para la Cultura y las Artes, en la Secretaría de Educación Pública, en los órganos administrativos desconcentrados y en las entidades paraestatales que, con motivo de la entrada en vigor del presente Decreto, queden adscritos o coordinados a la Secretaría de Cultura, respectivamente, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+CUARTO. El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, continuarán rigiéndose por sus respectivas leyes y demás disposiciones aplicables y dependerán de la Secretaría de Cultura, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Educación Pública.
+
+Los órganos administrativos desconcentrados denominados Radio Educación e Instituto Nacional de Estudios Históricos de las Revoluciones de México, se adscribirán a la Secretaría de Cultura y mantendrán su naturaleza jurídica.
+
+QUINTO. La Secretaría de Cultura integrará los diversos consejos, comisiones intersecretariales y órganos colegiados previstos en las disposiciones jurídicas aplicables, según el ámbito de sus atribuciones.
+
+SEXTO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+SÉPTIMO. Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Consejo Nacional para la Cultura y las Artes continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+Asimismo, todas las disposiciones, lineamientos, criterios y demás normativa emitida por el Secretario de Educación Pública que contengan disposiciones concernientes al Consejo Nacional para la Cultura y las Artes o los órganos administrativos desconcentrados que éste coordina, continuará en vigor en lo que no se opongan al presente Decreto, en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+OCTAVO. Las atribuciones y referencias que se hagan a la Secretaría de Educación Pública o al Secretario de Educación Pública que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura.
+
+NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
+
+DÉCIMO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
 
 D.O.F. 18 DE DICIEMBRE DE 2015.
 
