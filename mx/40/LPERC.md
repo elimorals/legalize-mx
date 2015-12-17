@@ -4,7 +4,7 @@ identifier: "LPERC"
 country: "mx"
 rank: "ley"
 publication_date: "1975-12-31"
-last_updated: "2015-04-02"
+last_updated: "2015-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=477&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LPERC"
 
 LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS CIVILES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de diciembre de 1975.
 
@@ -35,6 +35,8 @@ Que el H. Congreso de la Unión se ha servido dirigirme el siguiente
 DECRETO:
 
 "El Congreso de los Estados Unidos Mexicanos, decreta:
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO SEGUNDO DEL DECRETO PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 17 DE DICIEMBRE DE 2015, LAS MENCIONES CONTENIDAS EN LEYES, REGLAMENTOS Y DISPOSICIONES DE CUALQUIER NATURALEZA, RESPECTO DEL CONSEJO NACIONAL PARA LA CULTURA Y LAS ARTES, SE ENTENDERÁN REFERIDAS A LA SECRETARÍA DE CULTURA.</small>
 
 LEY DE PREMIOS, ESTIMULOS Y RECOMPENSAS CIVILES.
 
@@ -76,7 +78,13 @@ I.- Condecoración Miguel Hidalgo;
 
 II.- Orden Mexicana del Aguila Azteca;
 
-III.- de Ciencias y Artes;
+> <small>(ADICIONADA, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+II Bis.- De Ciencias;
+
+> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+III.- De Artes y Literatura;
 
 > <small>(ADICIONADA, D.O.F. 18 DE NOVIEMBRE DE 1986)</small>
 
@@ -322,9 +330,11 @@ Los acuerdos del Presidente de la República sobre otorgamiento de premios, se p
 
 La Condecoración "Miguel Hidalgo" es la más alta presea que otorgan los Estados Unidos Mexicanos a sus nacionales, para premiar méritos eminentes o distinguidos, conducta o trayectoria vital ejemplar, relevantes servicios prestados a la Patria o a la Humanidad, o actos heroicos.
 
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 35.
 
-La Condecoración se tramitará en la Secretaría de Gobernación, por conducto de un Consejo de Premiación compuesto por los Secretarios de Gobernación, de Educación Pública y de la Presidencia, y por un representante de cada una de las Cámaras del Congreso de la Unión. El Consejo será presidido por el Secretario de Gobernación.
+La Condecoración se tramitará en la Secretaría de Gobernación, por conducto de un Consejo de Premiación compuesto por los Secretarios de Gobernación, de Educación Pública y de Cultura, y por un representante de cada una de las Cámaras del Congreso de la Unión. El Consejo será presidido por el Secretario de Gobernación.
 
 ###### ARTICULO 36.
 
@@ -422,51 +432,41 @@ En casos especiales, a juicio del Consejo, podrá conferirse la Orden Mexicana d
 
 A los diplomáticos extranjeros acreditados en México, sólo se les otorgará la Orden al término de su misión, siempre que hayan permanecido en el país dos años continuos como mínimo. El Consejo otorgará la Condecoración con base en la valoración de la labor desempeñada en el país.
 
-### CAPITULO VII. Premio Nacional de Ciencias y Artes
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+### CAPITULO VII. Premio Nacional de Ciencias
+
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 44.
 
-Habrá Premio Nacional de Ciencias y Artes en cada uno de los siguientes campos:
+Habrá Premio Nacional de Ciencias en cada uno de los siguientes campos:
 
-I.- Lingüística y Literatura;
+I. Ciencias Físico-Matemáticas y Naturales, y
 
-II.- Bellas Artes;
+II. Tecnología, Innovación y Diseño.
 
-III.- Historia, Ciencias Sociales y Filosofía;
-
-IV.- Ciencias Físico-Matemáticas y Naturales;
-
-> <small>(REFORMADA, D.O.F. 10 DE ENERO DE 2012)</small>
-
-V. Tecnología, Innovación y Diseño;
-
-> <small>(ADICIONADA, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
-VI.- Artes y Tradiciones Populares.
-
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 45.
 
-Merecerán estos premios quienes, por sus producciones o trabajos docentes de investigación o de divulgación, hayan contribuido a enriquecer el acervo cultural del país o el progreso de la ciencia, de la tecnología, de la innovación, del arte o de la filosofía.
+Merecerán estos premios quienes, por sus producciones o trabajos docentes de investigación o de divulgación, hayan contribuido al progreso de la ciencia, de la tecnología y de la innovación.
 
 ###### ARTICULO 46.
 
 El premio se tramitará en la Secretaría de Educación Pública, cuyo titular presidirá el Consejo de Premiación. Este se integrará, además, con el Rector de la Universidad Nacional Autónoma de México, el de la Universidad Autónoma Metropolitana, los Directores Generales del Instituto Politécnico Nacional y del Consejo Nacional de Ciencia y Tecnología y por sendos representantes de la Asociación Nacional de Universidades e Institutos de Enseñanza Superior y del Colegio Nacional.
 
-> <small>(ADICIONADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
-
-Para el otorgamiento del premio en el campo de Artes y Tradiciones Populares, el Consejo se integrará, aparte de los representantes de las instituciones señaladas, con los directores generales de Culturas Populares de la Secretaría de Educación Pública, del Instituto Nacional Indigenista y del Fondo Nacional para el Fomento de las Artesanías.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 47.
 
 Los premios consistirán en venera y mención honorífica y se acompañarán de una entrega en numerario por 100 mil pesos. Podrán concurrir hasta tres personas para el premio del mismo campo, y cuando haya concurrencia, la entrega en numerario será por 50 mil pesos para cada concurrente. Si llegare a haber más de tres concurrentes, los excedentes de este número serán premiados hasta el siguiente año.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 1983)</small>
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 48.
 
-Solamente las personas físicas podrán ser beneficiarias de los premios de Ciencias y Artes, salvo en el campo de Artes y Tradiciones Populares, que podrán también otorgarse a comunidades y grupos. Por cada año habrá una asignación de premios; pero no será necesario que las obras o actos que acrediten su merecimiento, se hayan realizado dentro de ese lapso.
+Solamente las personas físicas podrán ser beneficiarias de los premios de Ciencias. Por cada año habrá una asignación de premios, pero no será necesario que las obras o actos que acrediten su merecimiento, se hayan realizado dentro de ese lapso.
 
 ###### ARTICULO 49.
 
@@ -480,37 +480,73 @@ El Consejo integrará un Jurado por cada campo de premiación. A tal fin dará p
 
 La convocatoria fijará plazos dentro de los cuales las instituciones y agrupaciones incluidas en la lista que prevé el artículo 49, podrán ampliar informaciones ante el Consejo.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+### CAPITULO VII BIS. Premio Nacional de Artes y Literatura
+
+> <small>(ADICIONADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 51-A.
+
+Habrá Premio Nacional de Artes y Literatura en cada uno de los siguientes campos:
+
+I. Lingüística y Literatura;
+
+II. Bellas Artes;
+
+III. Historia, Ciencias Sociales y Filosofía, y
+
+IV. Artes y Tradiciones Populares.
+
+> <small>(ADICIONADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 51-B.
+
+Merecerán estos premios quienes, por sus producciones o trabajos docentes de investigación o de divulgación, hayan contribuido a enriquecer el acervo cultural del país o el progreso del arte o de la filosofía.
+
+> <small>(ADICIONADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 51-C.
+
+El premio se tramitará en la Secretaría de Cultura, cuyo titular presidirá el Consejo de Premiación. Este se integrará, además, con el Rector de la Universidad Nacional Autónoma de México, el de la Universidad Autónoma Metropolitana, los Directores Generales del Instituto Politécnico Nacional y del Consejo Nacional de Ciencia y Tecnología y por sendos representantes de la Asociación Nacional de Universidades e Institutos de Enseñanza Superior y del Colegio Nacional.
+
+Para el otorgamiento del premio en el campo de Artes y Tradiciones Populares, el Consejo se integrará, aparte de los representantes de las instituciones señaladas en el párrafo anterior, con los directores generales de Culturas Populares de la Secretaría de Cultura, del Instituto Nacional Indigenista y del Fondo Nacional para el Fomento de las Artesanías.
+
+> <small>(ADICIONADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 51-D.
+
+Los premios consistirán en venera y mención honorífica y se acompañarán de una entrega en numerario por 100 mil pesos. Podrán concurrir hasta tres personas para el premio del mismo campo, y cuando haya concurrencia, la entrega en numerario será por 50 mil pesos para cada concurrente. Si llegare a haber más de tres concurrentes, los excedentes de este número serán premiados hasta el siguiente año.
+
+> <small>(ADICIONADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 51-E.
+
+Solamente las personas físicas podrán ser beneficiarias de los premios de Artes y Literatura, salvo en el campo de Artes y Tradiciones Populares que podrán también otorgarse a comunidades y grupos. Por cada año habrá una asignación de premios, pero no será necesario que las obras o actos que acrediten su merecimiento, se hayan realizado dentro de ese lapso.
+
+> <small>(ADICIONADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 51-F.
+
+Para conceder estos premios debe mediar convocatoria y que el beneficiario haya sido propuesto conforme a ésta. Al efecto, dentro de los tres primeros meses del año, el Consejo de Premiación formulará y dará publicidad a la lista de las instituciones o agrupaciones a las que habrá de dirigirse para invitarlas a que propongan candidatos y éstas serán las únicas con facultad para hacerlo. A su vez toda institución o agrupación tienen derecho de dirigirse al Consejo para solicitar ser incluidas en dicha lista, a lo que se accederá si a juicio del propio Consejo se justifica la pretensión. El propio Consejo fijará los términos de la convocatoria y de su distribución.
+
+> <small>(ADICIONADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 51-G.
+
+El Consejo integrará un Jurado por cada campo de premiación. A tal fin dará preferencia a quienes con anterioridad hayan obtenido el premio y podrá solicitar proposiciones de las mismas instituciones o agrupaciones incluidas en la lista a que se refiere el artículo anterior.
+
+> <small>(ADICIONADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 51-H.
+
+La convocatoria fijará plazos dentro de los cuales las instituciones y agrupaciones incluidas en la lista que prevé el artículo 51-F de esta Ley, podrán ampliar informaciones ante el Consejo.
+
 > <small>(REFORMADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 7 DE MARZO DE 2003)</small>
 
 ### CAPITULO VIII. Premio Nacional de Demografía
 
 > <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
-
-###### ARTICULO 51-A.
-
-El Premio Nacional de Demografía, se otorgará como reconocimiento a profesionales de esta disciplina, por los ensayos e investigaciones que contribuyan al conocimiento y a la solución de los problemas demográficos de México.
-
-> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 1986)</small>
-
-###### ARTICULO 51-B.
-
-El premio se conferirá anualmente y se tramitará ante la Secretaría de Gobernación, por conducto del correspondiente Consejo de Premiación, que será integrado por el Titular de la citada Secretaría como Presidente y por sendos representantes de las Secretarías de Relaciones Exteriores, de Hacienda y Crédito Público, de Programación y Presupuesto, de Desarrollo Urbano y Ecología, de Educación Pública, de Salud, del Trabajo y Previsión Social, y de la Reforma Agraria.
-
-> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 1986)</small>
-
-###### ARTICULO 51-C.
-
-El premio consistirá en una de las preseas a que hace mención el artículo 7o. de esta Ley, más el numerario o especie que para el caso se determine.
-
-> <small>(ADICIONADO, D.O.F. 18 DE NOVIEMBRE DE 1986)</small>
-
-###### ARTICULO 51-D.
-
-Este premio será entregado en ceremonia pública y solemne por el Presidente de la República o la persona que él designe.
-
-### CAPITULO IX. Premio Nacional de Deportes
-
-> <small>(REFORMADO, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 52.
 
@@ -534,9 +570,9 @@ El premio consistirá en una de las preseas a que hace mención el artículo 7o.
 
 Este premio será entregado en ceremonia pública y solemne por el Presidente de la República o la persona que él designe.
 
-### CAPITULO IX BIS. Premio Nacional de Mérito Deportivo
+### CAPITULO IX. Premio Nacional de Deportes
 
-> <small>(REFORMADO Y REUBICADO, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 56.
 
@@ -558,7 +594,7 @@ El otorgamiento del Premio Nacional de Deportes obtenido en grupo no será imped
 
 > <small>(ADICIONADO, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
 
-### CAPITULO IX TER. Disposiciones Comunes para los Premios Nacionales de Deportes y de Mérito Deportivo
+### CAPITULO IX BIS. Premio Nacional de Mérito Deportivo
 
 > <small>(REFORMADO Y REUBICADO, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
 
@@ -582,7 +618,9 @@ El Premio Nacional de Mérito Deportivo, a que se refiere la fracción II del ar
 
 > <small>(ADICIONADO, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
 
-### CAPITULO X. Premio Nacional de Mérito Cívico
+### CAPITULO IX TER. Disposiciones Comunes para los Premios Nacionales de Deportes y de Mérito Deportivo
+
+> <small>(REFORMADO Y REUBICADO, D.O.F. 14 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTICULO 59.
 
@@ -636,7 +674,7 @@ Además de las disposiciones previstas en esta ley, el jurado podrá proponer la
 
 ARTICULO 63 BIS.- Los premios se entregarán en el mes de diciembre de cada año.
 
-### CAPITULO XI. Premio Nacional de Trabajo
+### CAPITULO X. Premio Nacional de Mérito Cívico
 
 ###### ARTICULO 64.
 
@@ -658,9 +696,7 @@ Es aplicable a este premio lo prevenido en el artículo 38 de la presente Ley.
 
 (DEROGADO, D.O.F. 23 DE MAYO DE 2002)
 
-### CAPITULO XII. Premio Nacional de la Juventud
-
-> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 2009)</small>
+### CAPITULO XI. Premio Nacional de Trabajo
 
 ###### ARTICULO 68.
 
@@ -678,7 +714,9 @@ Es aplicable a este premio lo prevenido en el artículo 38, que en relación con
 
 Al premio corresponderá una placa y podrá adicionarse con una entrega en numerario, cuyo monto fijará discrecionalmente el Consejo de Premiación.
 
-### CAPITULO XIII. Premio Nacional de Servicio a la Comunidad
+### CAPITULO XII. Premio Nacional de la Juventud
+
+> <small>(REFORMADO, D.O.F. 9 DE JUNIO DE 2009)</small>
 
 ###### ARTICULO 72.
 
@@ -740,7 +778,7 @@ Cada una de las distinciones del Premio Nacional de la Juventud podrá contar co
 
 El premio consistirá en medalla y se complementará con entrega en numerario o en especie, por el monto o naturaleza que determine el propio Consejo. En lo demás es aplicable el artículo 67 de esta Ley.
 
-### CAPITULO XIV. Premio Nacional de Antigüedad en el Servicio Público
+### CAPITULO XIII. Premio Nacional de Servicio a la Comunidad
 
 ###### ARTICULO 77.
 
@@ -766,11 +804,7 @@ Se conceden facultades al Jurado para que, atendiendo proposiciones del Consejo 
 
 Según lo acuerde el Presidente de la República, a proposición del Consejo de Premiación, la entrega de premios podrá tener lugar en los términos que previene el artículo 67, o en ceremonias parciales y aun en los lugares en que hayan tenido lugar los hechos que originaron los actos premiados.
 
-### CAPITULO XV
-
-Premio Nacional de Administración Pública.
-
-> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
+### CAPITULO XIV. Premio Nacional de Antigüedad en el Servicio Público
 
 ###### ARTICULO 82.
 
@@ -808,9 +842,11 @@ Los trabajadores y funcionarios que se consideren con derecho a este premio, pod
 
 > <small>(REFORMADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 7 DE MARZO DE 2003)</small>
 
-### CAPITULO XV BIS. Premio Nacional al Mérito Forestal
+### CAPITULO XV
 
-> <small>(ADICIONADO, D.O.F. 25 DE FEBRERO DE 2003)</small>
+Premio Nacional de Administración Pública.
+
+> <small>(REFORMADO, D.O.F. 7 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 87.
 
@@ -848,9 +884,9 @@ La Coordinación General de Estudios Administrativos de la Presidencia de la Rep
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 25 DE FEBRERO DE 2003)</small>
 
-### CAPITULO XVI. Estímulos y Recompensas
+### CAPITULO XV BIS. Premio Nacional al Mérito Forestal
 
-> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1980)</small>
+> <small>(ADICIONADO, D.O.F. 25 DE FEBRERO DE 2003)</small>
 
 ###### ARTICULO 91-A.
 
@@ -876,9 +912,9 @@ En la materia del presente Capítulo es aplicable lo dispuesto en el artículo 3
 
 El premio consistirá en diploma y se complementará con entrega en numerario o en especie, por el monto o naturaleza que determine el propio Consejo. En lo demás es aplicable el artículo 72 de esta Ley.
 
-### CAPITULO XVII. Premio Nacional de Protección Civil
+### CAPITULO XVI. Estímulos y Recompensas
 
-> <small>(ADICIONADO, D.O.F. 7 DE MARZO DE 2003)</small>
+> <small>(REFORMADO, D.O.F. 15 DE ENERO DE 1980)</small>
 
 ###### ARTICULO 92.
 
@@ -966,9 +1002,9 @@ Si falleciere la persona a cuyo favor se hubiere resuelto otorgar alguna de las 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 7 DE MARZO DE 2003)</small>
 
-### CAPITULO XVIII. Premio Nacional de Trabajo y Cultura Indígena
+### CAPITULO XVII. Premio Nacional de Protección Civil
 
-> <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 2004)</small>
+> <small>(ADICIONADO, D.O.F. 7 DE MARZO DE 2003)</small>
 
 ###### ARTICULO 101.
 
@@ -1008,7 +1044,7 @@ El premio será entregado el 19 de septiembre de cada año, por el Presidente de
 
 > <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-### CAPITULO XIX. Premio Nacional de Derechos Humanos
+### CAPITULO XVIII. Premio Nacional de Trabajo y Cultura Indígena
 
 > <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 2004)</small>
 
@@ -1034,17 +1070,17 @@ V.- Literatura Indígena, y
 
 VI.- Equidad de Género.
 
-> <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 108.
 
-Para la Entrega anual del Premio Nacional de Trabajo y Cultura Indígena, su Consejo de Premiación se integrará de la siguiente manera: un representante de la Secretaría de Desarrollo Social, un representante de la Secretaría de Educación Pública, un representante de la Cámara de Senadores, un representante de la Cámara de Diputados, el titular de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas, el titular del Instituto Nacional de Antropología e Historia y un representante de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas que estará a cargo de la Secretaría Técnica del Consejo de Premiación.
+Para la entrega anual del Premio Nacional de Trabajo y Cultura Indígena, su Consejo de Premiación se integrará de la siguiente manera: un representante de la Secretaría de Desarrollo Social, un representante de la Secretaría de Cultura, un representante de la Cámara de Senadores, un representante de la Cámara de Diputados, el titular de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas, el titular del Instituto Nacional de Antropología e Historia y un representante de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas que estará a cargo de la Secretaría Técnica del Consejo de Premiación.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-### CAPITULO XX. Premio Nacional de Preservación del Medio Ambiente
+### CAPITULO XIX. Premio Nacional de Derechos Humanos
 
-> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2004)</small>
+> <small>(REFORMADO, D.O.F. 15 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO 109.
 
@@ -1070,7 +1106,7 @@ En casos excepcionales y cuando las circunstancias así lo ameriten, el Premio N
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-### CAPITULO XXI. Premio Nacional de Seguridad Pública
+### CAPITULO XX. Premio Nacional de Preservación del Medio Ambiente
 
 > <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2004)</small>
 
@@ -1112,9 +1148,9 @@ La convocatoria para el otorgamiento de este premio, podrá considerar la partic
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 15 DE JUNIO DE 2004)</small>
 
-### CAPITULO XXII. Premio Nacional de la Cerámica
+### CAPITULO XXI. Premio Nacional de Seguridad Pública
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 30 DE JUNIO DE 2006)</small>
+> <small>(ADICIONADO, D.O.F. 15 DE JUNIO DE 2004)</small>
 
 ###### ARTICULO 116.
 
@@ -1152,9 +1188,9 @@ Para la entrega del Premio Nacional de Seguridad Pública, su Consejo de Premiac
 
 > <small>(REFORMADA SU DENOMINACIÓN (N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], D.O.F. 30 DE JUNIO DE 2006)</small>
 
-### CAPITULO XXIII. Premio Nacional de Cultura Contributiva
+### CAPITULO XXII. Premio Nacional de la Cerámica
 
-> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2015)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 30 DE JUNIO DE 2006)</small>
 
 ###### ARTICULO 120.
 
@@ -1186,17 +1222,17 @@ VI.- Cerámica navideña, y
 
 VII.- Figura en arcilla.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 30 DE JUNIO DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 123.
 
-Para la entrega del Premio Nacional de la Cerámica, el Consejo de Premiación se integrará por el Presidente de la República, el titular del Consejo Nacional para la Cultura y las Artes, el titular del Fondo Nacional para el Fomento de las Artesanías, el Gobernador del Estado de Jalisco y el Presidente municipal de Tlaquepaque, localidad que será sede oficial del concurso.
+Para la entrega del Premio Nacional de la Cerámica, el Consejo de Premiación se integrará por el Presidente de la República, el Secretario de Cultura, el titular del Fondo Nacional para el Fomento de las Artesanías, el Gobernador del Estado de Jalisco y el Presidente municipal de Tlaquepaque, localidad que será sede oficial del concurso.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 27 DE ENERO DE 2015)</small>
 
-### CAPÍTULO XXIV. Disposiciones Generales
+### CAPITULO XXIII. Premio Nacional de Cultura Contributiva
 
-(ADICIONADO [N. DE E. REFORMADO Y REUBICADO ANTES ARTICULO 120], D.O.F. 30 DE JUNIO DE 2006) (REUBICADO ANTES ARTÍCULO 124, D.O.F. 27 DE ENERO DE 2015)
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2015)</small>
 
 ###### ARTICULO 124.
 
@@ -1227,6 +1263,10 @@ El Premio Nacional de Cultura Contributiva consistirá en medalla, diploma y pod
 El Premio se tramitará ante el organismo federal Procuraduría de la Defensa del Contribuyente, en ejercicio de su autonomía, y a través de sus instancias competentes emitirá las reglas para la integración del Consejo de Premiación que se constituirá por personas de reconocida calidad moral, académica o intelectual y representantes de los sectores público y privado, así como un representante de cada una de las Cámaras del Congreso de la Unión.
 
 (ADICIONADO [N. DE E. REUBICADO ANTES CAPÍTULO XXII], D.O.F. 30 DE JUNIO DE 2006) (REUBICADO ANTES CAPÍTULO XXIII, D.O.F. 27 DE ENERO DE 2015)
+
+### CAPÍTULO XXIV. Disposiciones Generales
+
+(ADICIONADO [N. DE E. REFORMADO Y REUBICADO ANTES ARTICULO 120], D.O.F. 30 DE JUNIO DE 2006) (REUBICADO ANTES ARTÍCULO 124, D.O.F. 27 DE ENERO DE 2015)
 
 ###### ARTICULO 128.
 
@@ -1294,7 +1334,7 @@ D.O.F. 23 DE MAYO DE 2002.
 
 D.O.F. 25 DE FEBRERO DE 2003.
 
-ARTICULO TRANSITORIO DE LAS REFORMAS Y ADICIONES A LA LEY GENERAL DEL EQUILIBRIO ECOLOGICO Y LA PROTECCION AL AMBIENTE; LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL; Y LEY DE PREMIOS, ESTIMULOS Y RECOMPENSAS CIVILES.
+ARTÍCULO TRANSITORIO DE LAS REFORMAS Y ADICIONES A LA LEY GENERAL DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE; LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL; Y LEY DE PREMIOS, ESTÍMULOS Y RECOMPENSAS CIVILES.
 
 ###### ARTICULO UNICO.
 
@@ -1363,3 +1403,31 @@ D.O.F. 27 DE ENERO DE 2015.
 D.O.F. 2 DE ABRIL DE 2015.
 
 Único.- El Presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE DICIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El Consejo Nacional para la Cultura y las Artes se transforma en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto del Consejo Nacional para la Cultura y las Artes, se entenderán referidas a la Secretaría de Cultura.
+
+TERCERO. Los derechos laborales de los trabajadores que presten sus servicios en el Consejo Nacional para la Cultura y las Artes, en la Secretaría de Educación Pública, en los órganos administrativos desconcentrados y en las entidades paraestatales que, con motivo de la entrada en vigor del presente Decreto, queden adscritos o coordinados a la Secretaría de Cultura, respectivamente, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+CUARTO. El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, continuarán rigiéndose por sus respectivas leyes y demás disposiciones aplicables y dependerán de la Secretaría de Cultura, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Educación Pública.
+
+Los órganos administrativos desconcentrados denominados Radio Educación e Instituto Nacional de Estudios Históricos de las Revoluciones de México, se adscribirán a la Secretaría de Cultura y mantendrán su naturaleza jurídica.
+
+QUINTO. La Secretaría de Cultura integrará los diversos consejos, comisiones intersecretariales y órganos colegiados previstos en las disposiciones jurídicas aplicables, según el ámbito de sus atribuciones.
+
+SEXTO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+SÉPTIMO. Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Consejo Nacional para la Cultura y las Artes continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+Asimismo, todas las disposiciones, lineamientos, criterios y demás normativa emitida por el Secretario de Educación Pública que contengan disposiciones concernientes al Consejo Nacional para la Cultura y las Artes o los órganos administrativos desconcentrados que éste coordina, continuará en vigor en lo que no se opongan al presente Decreto, en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+OCTAVO. Las atribuciones y referencias que se hagan a la Secretaría de Educación Pública o al Secretario de Educación Pública que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura.
+
+NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
+
+DÉCIMO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
