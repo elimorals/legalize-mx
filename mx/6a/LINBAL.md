@@ -4,7 +4,7 @@ identifier: "LINBAL"
 country: "mx"
 rank: "ley"
 publication_date: "1946-12-31"
-last_updated: "1950-12-11"
+last_updated: "2015-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=818&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LINBAL"
 
 LEY QUE CREA EL INSTITUTO NACIONAL DE BELLAS ARTES Y LITERATURA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE DICIEMBRE DE 1950.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 31 de diciembre de 1946.
 
@@ -32,6 +32,8 @@ MIGUEL ALEMAN VALDES, Presidente Constitucional de los Estados Unidos Mexicanos,
 
 Que el H. Congreso de la Unión, se ha servido dirigirme el siguiente
 
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO SEGUNDO DEL DECRETO PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 17 DE DICIEMBRE DE 2015, LAS MENCIONES CONTENIDAS EN LEYES, REGLAMENTOS Y DISPOSICIONES DE CUALQUIER NATURALEZA, RESPECTO DEL CONSEJO NACIONAL PARA LA CULTURA Y LAS ARTES, SE ENTENDERÁN REFERIDAS A LA SECRETARÍA DE CULTURA.</small>
+
 DECRETO:
 
 "El Congreso de los Estados Unidos Mexicanos, decreta:
@@ -40,15 +42,19 @@ DECRETO:
 
 Se crea por medio de la presente Ley el Instituto Nacional de Bellas Artes y Literatura, con personalidad jurídica propia.
 
-###### ARTICULO 2°.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
 
-El Instituto Nacional de Bellas Artes y Literatura dependerá de la Secretaría de Educación Pública y tendrá las finalidades siguientes:
+###### ARTICULO 2o.
+
+El Instituto Nacional de Bellas Artes y Literatura dependerá de la Secretaría de Cultura y tendrá las funciones siguientes:
 
 I.- El cultivo, fomento, estímulo, creación e investigación de las bellas artes en las ramas de la música, las artes plásticas, las artes dramáticas y la danza, las bellas letras en todos sus géneros y la arquitectura.
 
-II.- La organización y desarrollo de la educación profesional en todas las ramas de las Bellas Artes; de la educación artística y literaria comprendida en la educación general que se imparte en los establecimientos de enseñanza preescolar, primaria, de segunda enseñanza y normal.
+> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
 
-Para la coordinación, planeación, organización y funcionamiento de la finalidad a que se contrae el presente inciso, se creará un Consejo Técnico Pedagógico como órgano del Instituto Nacional de Bellas Artes y Literatura, que bajo la presidencia de su director se integrará con representantes de las dependencias técnicas correspondientes de la Secretaría de Educación Pública y con representantes de las dependencias también técnicas del propio Instituto.
+II. La organización y desarrollo de la educación profesional en todas las ramas de las Bellas Artes; así como participar en la implementación de los programas y planes en materia artística y literaria que establezca la Secretaría de Educación Pública para la educación inicial, básica y normal.
+
+Para la coordinación, planeación, organización y funcionamiento a que se refiere esta fracción, se creará un Consejo Técnico Pedagógico como órgano del Instituto Nacional de Bellas Artes y Literatura, que bajo la presidencia de su director se integrará con representantes de las unidades administrativas de la Secretaría de Cultura y de la Secretaría de Educación Pública, así como de las unidades administrativas del propio Instituto.
 
 III.- El fomento, la organización y la difusión de las Bellas Artes, inclusive las bellas letras, por todos los medios posibles y orientada esta última hacia el público en general y en especial hacia las clases populares y la población escolar.
 
@@ -96,29 +102,37 @@ Ninguno de los bienes, muebles e inmuebles, que proporcione al Instituto el Gobi
 
 Para su funcionamiento el Instituto se compondrá de las direcciones, departamentos, establecimientos técnicos y dependencias administrativas y docentes que su reglamento determine, y entre otros se compondrá del Conservatorio Nacional de Música, de la Escuela de Danza, de la Escuela de Pintura y Escultura, del Palacio de Bellas Artes, del Departamento de Música, del Departamento de Artes Plásticas, del Departamento de Teatro y Danza, así como de las demás dependencias de estos géneros que sean creadas en lo futuro.
 
-###### ARTICULO 7°.
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
 
-El Instituto estará regido por un Director y un Subdirector Generales nombrados por el C. Secretario de Educación Pública, sus funciones serán las que señale el Reglamento correspondiente y serán designados escogiéndose entre personas que hayan realizado en la rama artística de su especialidad obra de notoria importancia y de mérito superior. Los directores, jefes de departamento y en general los técnicos del Instituto deberán tener la misma calidad y serán designados por el C. Secretario de Educación Pública, a propuesta del Director General del Instituto, debiendo tener en todo caso el carácter de empleados de confianza.
+###### ARTICULO 7o.
 
-###### ARTICULO 8°.
+El Instituto estará regido por un Director y un Subdirector Generales nombrados por el C. Secretario de Cultura, sus funciones serán las que señale el Reglamento correspondiente y serán designados escogiéndose entre personas que hayan realizado en la rama artística de su especialidad obra de notoria importancia y de mérito superior. Los directores, jefes de departamento y en general los técnicos del Instituto deberán tener la misma calidad y serán designados por el C. Secretario de Cultura, a propuesta del Director General del Instituto, debiendo tener en todo caso el carácter de empleados de confianza.
 
-El personal que no esté considerado en el artículo anterior y que no forme parte del que la Secretaría de Educación Pública con cargo a su propio presupuesto destine al Instituto, será designado por el Director General del mismo, quien tendrá facultad para delegar esta función y sólo para determinada clase de empleados en los directores técnicos o administrativos competentes.
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 8o.
+
+El personal que no esté considerado en el artículo anterior y que no forme parte del que la Secretaría de Cultura con cargo a su propio presupuesto destine al Instituto, será designado por el Director General del mismo, quien tendrá facultad para delegar esta función y sólo para determinada clase de empleados en los directores técnicos o administrativos competentes.
 
 ###### ARTICULO 9°.
 
 El Director y Subdirector Generales, los directores técnicos, los jefes de departamento y los técnicos que el (sic) efecto señale el reglamento respectivo, constituirán el Consejo Técnico del Instituto, organismo que en todo caso será presidido por el Director General.
 
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 10.
 
-El Consejo del Instituto funcionará como Cuerpo Consultivo en asuntos técnicos que no sean por su naturaleza de la exclusiva competencia del Consejo Técnico Pedagógico y en materia administrativa tendrá, además de las funciones que deriven de los términos de la presente Ley, específicamente la de formular y proponer a la Secretaría de Educación Pública los presupuestos anuales del propio Instituto.
+El Consejo del Instituto funcionará como Cuerpo Consultivo en asuntos técnicos que no sean por su naturaleza de la exclusiva competencia del Consejo Técnico Pedagógico y en materia administrativa tendrá, además de las funciones que deriven de los términos de la presente Ley, específicamente la de formular y proponer a la Secretaría de Cultura los presupuestos anuales del propio Instituto.
 
 ###### ARTICULO 11.
 
 El Consejo del Instituto tendrá obligación de reunirse mensualmente en las fechas fijadas por el calendario que al efecto se forme, en sesión ordinaria y en sesión extraordinaria, cada vez que para ello sea convocado por el Director General o por quien haga sus veces, de conformidad con lo que determine su propio reglamento.
 
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 12.
 
-La administración interna del Instituto, la vigilancia de su marcha y el manejo de las erogaciones aprobadas por la Secretaría de Educación Pública estarán a cargo de un Jefe de Departamento Administrativo, subordinado jerárquicamente al Director General y realizará sus labores en los términos que al efecto prevenga el reglamento respectivo. El Jefe del Departamento Administrativo será designado por el Secretario de Educación Pública a propuesta del Director General y será en todo caso considerado como empleado de confianza que deba rendir fianza.
+La administración interna del Instituto, la vigilancia de su marcha y el manejo de las erogaciones aprobadas por la Secretaría de Cultura estarán a cargo de un Jefe de Departamento Administrativo, subordinado jerárquicamente al Director General y realizará sus labores en los términos que al efecto prevenga el reglamento respectivo. El Jefe del Departamento Administrativo será designado por el Secretario de Cultura a propuesta del Director General y será en todo caso considerado como empleado de confianza que deba rendir fianza.
 
 ###### ARTICULO 13.
 
@@ -128,13 +142,17 @@ El Instituto, en su calidad de dependencia del Gobierno Federal, gozará de fran
 
 Los bienes, aportaciones, o liberalidades que el Instituto adquiera o reciba de instituciones y personas particulares o de gobiernos extranjeros, así como en general las percepciones que a cualquier título obtenga el Instituto, estarán exentos del pago de toda clase de contribuciones, impuestos o derechos.
 
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 15.
 
-El Gobierno Federal, por conducto de su Secretaría de Educación Pública, asignará anualmente al Instituto el subsidio y las partidas presupuestales necesarias para su funcionamiento.
+El Gobierno Federal, por conducto de su Secretaría de Cultura, asignará anualmente al Instituto el subsidio y las partidas presupuestales necesarias para su funcionamiento.
+
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 16.
 
-Corresponderá al Instituto otorgar los premios nacionales de Arte y de Literatura actualmente establecidos por la Ley y los que se establezcan de la misma naturaleza, por su iniciativa propia o de cualquiera dependencia del Estado.
+Corresponderá a la Secretaría de Cultura, a través del Instituto otorgar el premio nacional de Arte y Literatura, en términos de la Ley de Premios, Estímulos y Recompensas Civiles.
 
 TRANSITORIOS:
 
@@ -161,3 +179,31 @@ D.O.F. 11 DE DICIEMBRE DE 1950.
 Retirado el uso del inmueble de que se trata, del patrimonio del Instituto Nacional de Bellas Artes y Literatura, continuará formando parte de los bienes de dominio público ce la Nación, pudiendo el Ejecutivo Federal destinarlo al uso de la Secretaría de Bienes Nacionales e Inspección Administrativa, con la facultad que le otorga el artículo 28 de la Ley General de Bienes Nacionales en vigor."
 
 LA MODIFICACIÓN CON ANTELACIÓN CITADA, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS ACTUALIZADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL PARA EL DISTRITO Y TERRITORIOS FEDERALES EN MATERIA COMÚN, Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL VIGENTE.
+
+D.O.F. 17 DE DICIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El Consejo Nacional para la Cultura y las Artes se transforma en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto del Consejo Nacional para la Cultura y las Artes, se entenderán referidas a la Secretaría de Cultura.
+
+TERCERO. Los derechos laborales de los trabajadores que presten sus servicios en el Consejo Nacional para la Cultura y las Artes, en la Secretaría de Educación Pública, en los órganos administrativos desconcentrados y en las entidades paraestatales que, con motivo de la entrada en vigor del presente Decreto, queden adscritos o coordinados a la Secretaría de Cultura, respectivamente, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+CUARTO. El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, continuarán rigiéndose por sus respectivas leyes y demás disposiciones aplicables y dependerán de la Secretaría de Cultura, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Educación Pública.
+
+Los órganos administrativos desconcentrados denominados Radio Educación e Instituto Nacional de Estudios Históricos de las Revoluciones de México, se adscribirán a la Secretaría de Cultura y mantendrán su naturaleza jurídica.
+
+QUINTO. La Secretaría de Cultura integrará los diversos consejos, comisiones intersecretariales y órganos colegiados previstos en las disposiciones jurídicas aplicables, según el ámbito de sus atribuciones.
+
+SEXTO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+SÉPTIMO. Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Consejo Nacional para la Cultura y las Artes continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+Asimismo, todas las disposiciones, lineamientos, criterios y demás normativa emitida por el Secretario de Educación Pública que contengan disposiciones concernientes al Consejo Nacional para la Cultura y las Artes o los órganos administrativos desconcentrados que éste coordina, continuará en vigor en lo que no se opongan al presente Decreto, en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+OCTAVO. Las atribuciones y referencias que se hagan a la Secretaría de Educación Pública o al Secretario de Educación Pública que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura.
+
+NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
+
+DÉCIMO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
