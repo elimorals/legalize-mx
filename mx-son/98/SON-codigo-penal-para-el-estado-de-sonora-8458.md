@@ -4,7 +4,7 @@ identifier: "SON-codigo-penal-para-el-estado-de-sonora-8458"
 country: "mx"
 rank: "codigo"
 publication_date: "1994-03-24"
-last_updated: "2015-11-09"
+last_updated: "2015-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8458&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 CÓDIGO PENAL PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 17 DE DICIEMBRE DE 2015.
 
 Código publicado en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de marzo de 1994.
 
@@ -495,7 +495,7 @@ VI.- Según corresponda y de manera accesoria a los conceptos anteriores: el pag
 
 > <small>(REFORMADO, B.O. 11 DE OCTUBRE DE 2012)</small>
 
-Para que proceda lo que se prevé en esta fracción, será necesario que el ofendido o víctima gestionen por si mismo o por conducto de un abogado con título registrado en el Supremo Tribunal de Justicia del Estado, la reparación del daño. Asimismo el Ministerio Público podrá de oficio gestionar la reparación del daño de la víctima u ofendido.
+Para que proceda lo que se prevé en esta fracción, será necesario que el ofendido o víctima gestionen por si mismo o por conducto de un abogado con título registrado en el Supremo Tribunal de Justicia del Estado, la reparación del daño. Asimismo el Ministerio Publico podrá de oficio gestionar la reparación del daño de la víctima u ofendido.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -4187,6 +4187,10 @@ La misma pena se impondrá a quien, pudiendo hacerlo, no acuda a la autoridad o 
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REFORMADO], B.O. 9 DE JUNIO DE 2014)</small>
 
+### CAPITULO UNICO. DE LOS DELITOS EN CONTRA DE LOS ANIMALES POR ACTOS DE MALTRATO O CRUELDAD
+
+> <small>(ADICIONADO, B.O. 17 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 302.
 
 Comete el delito de robo, el que se apodera de una cosa ajena mueble, sin consentimiento de la persona que puede disponer de ella con arreglo a la ley.
@@ -4717,6 +4721,10 @@ En caso de reincidencia se aumentarán las sanciones a que se refieren los prece
 
 Ninguna suspensión de derechos políticos podrá acordarse sin que previamente se oiga en defensa al interesado.
 
+## TITULO VIGESIMO CUARTO. DELITOS EN CONTRA DE LOS ANIMALES POR ACTOS DE MALTRATO O CRUELDAD
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 17 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 337.
 
 Se impondrán de tres meses a seis años de prisión y de cien a quinientos días multa, al que, sin contar con las autorizaciones respectivas o violando las disposiciones previstas en la Ley del Equilibrio Ecológico y la Protección al Ambiente para el Estado de Sonora, sus reglamentos, así como las normas técnicas ecológicas, realice, autorice u ordene la realización de actividades que se consideren riesgosas en los términos del artículo 113 del ordenamiento antes señalado, que no sean competencia de la federación y que ocasionen graves daños al ambiente o a los ecosistemas.
@@ -4738,6 +4746,20 @@ Para los efectos de los artículos anteriores, cuando en la configuración del t
 ###### ARTICULO 341.
 
 Para proceder penalmente por los delitos previstos en este Capítulo, será necesario previamente que, en el ámbito estatal, la Secretaría de Infraestructura Urbana y Ecología, y en el ámbito municipal, los ayuntamientos, formulen la denuncia correspondiente.
+
+> <small>(ADICIONADO CON EL CAPITULO Y ARTÍCULOS QUE LO INTEGRAN, B.O. 17 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 342.
+
+Se impondrá prisión de seis meses a dos años y multa de 50 a 100 días de salario mínimo general vigente en la capital del Estado de Sonora, a quienes lesionen animales por crueldad o maltrato que no ponen en riesgo sus vidas.
+
+Si las lesiones ponen en peligro la vida del animal, las penas serán de un año dos meses a tres años de prisión y multa de 75 a 150 días de salario mínimo general vigente en la capital del Estado de Sonora.
+
+> <small>(ADICIONADO, B.O. 17 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 343.
+
+Se impondrá prisión de dos a seis años y multa de 200 a 400 días de salario mínimo general vigente en la capital del Estado de Sonora, si se causa la muerte de algún animal por maltrato o crueldad.
 
 T R A N S I T O R I O S
 
@@ -5066,3 +5088,9 @@ Se derogan todas las disposiciones legales que contravengan a las contenidas en 
 ###### ARTÍCULO TERCERO.
 
 A quienes hayan cometido alguno de los delitos previstos en los artículos que se reforman con motivo del presente Decreto con antelación a su entrada en vigor, incluidos quienes se encuentren dentro de cualquier etapa del procedimiento, les seguirán siendo aplicables las disposiciones vigentes en el momento en que se haya cometido y los sentenciados deberán compurgar sus penas y sanciones en los términos en los que fueron impuestas.
+
+B.O. 17 DE DICIEMBRE DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
