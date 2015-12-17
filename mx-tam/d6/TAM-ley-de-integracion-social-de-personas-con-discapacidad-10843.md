@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-integracion-social-de-personas-con-discapacidad-10843"
 country: "mx"
 rank: "ley"
 publication_date: "1997-02-19"
-last_updated: "2014-12-17"
+last_updated: "2015-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10843&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE INTEGRACIÓN SOCIAL DE PERSONAS CON DISCAPACIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 19 de febrero de 1997.
 
@@ -89,9 +89,9 @@ f).- Discapacidad Múltiple: Es la presencia en una persona de dos o más de las
 
 g).- Debilidad Visual: La incapacidad de la función visual, después de tratamiento médico o quirúrgico, cuya agudeza con su mejor corrección convencional sea de 20/60 a percepción de luz, o un campo visual menor a 10 grados, pero con la visión bastante para la ejecución de sus tareas.
 
-> <small>(REFORMADA, P.O. 27 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
-VII.- Educación Especial: Conjunto de servicios, programas, orientación y recursos educativos especializados, puestos a disposición de las personas que padecen algún tipo de discapacidad, que favorezcan su desarrollo integral, y faciliten la adquisición de habilidades y destrezas que les capaciten para lograr los fines de la educación;
+VII.- Educación Especial: Es el conjunto de servicios, programas, orientación, recursos educativos especializados destinados a individuos con discapacidades transitorias o definitivas, así como aquellos con aptitudes sobresalientes. Se impartirá a los educandos de manera adecuada a sus propias condiciones, con equidad social incluyente y con perspectiva de género;
 
 > <small>(REFORMADA, P.O. 27 DE JUNIO DE 2013)</small>
 
@@ -583,9 +583,9 @@ Al efecto, la Secretaría de Educación, implementará políticas educativas bas
 
 La Secretaría de Educación, de igual forma, establecerá acciones para la formación, actualización y capacitación constante del personal docente y de apoyo que atiende a personas con discapacidad en los diferentes niveles de enseñanza general.
 
-> <small>(ADICIONADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
-Las escuelas de educación general ordinaria que requieran los servicios de una persona con discapacidad, deberán solicitarlos al Sistema de Educación Especial del lugar que corresponda.
+Las escuelas de educación general ordinaria que requieran los servicios de personal para atender alumnos con discapacidad, deberán solicitarlo al Sistema de Educación Especial del lugar que corresponda.
 
 > <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
 
@@ -595,17 +595,29 @@ Se reconoce el lenguaje de señas como medio de comunicación, de las personas c
 
 Se promoverán en el Estado las estrategias necesarias para que las dependencias contempladas en esta ley, en sus respectivas esferas de competencia, capaciten al personal en cuyas instalaciones se efectúe atención al público, a fin de facilitar la comunicación en lenguaje de señas con las personas con discapacidad auditiva y del habla. Asimismo, se instalarán medios de señalización visual adecuados para el pleno reconocimiento de atención a las mismas.
 
-> <small>(REFORMADO, P.O. 2 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 31.
 
-El Gobierno del Estado a través de la Secretaría de Educación, con base en sus posibilidades presupuestarias, promoverá la educación con intérpretes para personas sordas y con mudez en los diferentes niveles educativos, de manera que contribuya con la formación integral de dichas personas.
+El Gobierno del Estado a través de la Secretaría de Educación, con base en sus posibilidades presupuestarias, promoverá el derecho a la educación especial en los diferentes niveles educativos, de manera que contribuya con la formación integral de dichas personas mediante la realización de las siguientes acciones:
 
-El Sistema DIF de cada municipio, de ser el caso, facilitará el uso de intérpretes para personas con discapacidad auditiva y del habla en actos institucionales que presida el Gobernador del Estado.
+I.- Coordinarse con los Sistemas DIF del Estado y de cada municipio para los efectos de la aplicación de la presente Ley;
 
-Asimismo, se promoverá el derecho de contar con intérpretes para personas con discapacidad auditiva y del habla, en requerimientos del orden civil y judicial.
+II.- Dar cumplimiento al Convenio Marco para el desarrollo de programas de educación especial, a fin de que se desarrollen acciones que contribuyan a dar atención a los alumnos con discapacidad;
 
-La Comisión, en coordinación con la Secretaría de Educación, deberá apoyar el proceso educativo de las personas que se encuentren en proceso de rehabilitación en los hospitales públicos y privados.
+III.- Impulsar la integración de las personas con discapacidad en todos los niveles del Sistema Educativo en el Estado, desarrollando y aplicando las normas y reglamentos necesarios que eviten su discriminación y prevean condiciones de accesibilidad en las instalaciones educativas, proporcionen los apoyos didácticos, materiales y técnicos y cuenten con personal docente capacitado;
+
+IV.- Incorporar a los docentes y personal asignado que intervengan directamente en la integración educativa de personas con discapacidad, al Sistema Estatal de Formación, Actualización, Capacitación y Superación Profesional para Maestros;
+
+V.- Promover el derecho de contar con intérpretes para personas con discapacidad auditiva y del habla, en requerimientos del orden civil y judicial;
+
+VI.- Impulsar el uso de intérpretes para personas con discapacidad auditiva y del habla en actos institucionales;
+
+VII.- Impulsar programas de investigación, preservación y desarrollo de la lengua de señas mexicana, de las personas con discapacidad auditiva y de las formas de comunicación de las personas con discapacidad visual;
+
+VIII.- Incorporar en el Sistema de Información en Ciencia y Tecnología del COTACYT, lineamientos que permitan la investigación y desarrollo de bienes, servicios, equipo e instalaciones de diseño universal, así como promover dentro de sus concursos estatales de innovación temas relacionados a las personas con discapacidad; y
+
+IX.- Las demás que le señale esta ley y otras disposiciones legales.
 
 ### CAPITULO XI
 
@@ -1130,6 +1142,12 @@ P.O. 29 DE ABRIL DE 2014.
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 17 DE DICIEMBRE DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE DICIEMBRE DE 2015.
 
 ###### ARTÍCULO ÚNICO.
 
