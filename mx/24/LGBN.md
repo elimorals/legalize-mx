@@ -4,7 +4,7 @@ identifier: "LGBN"
 country: "mx"
 rank: "ley_general"
 publication_date: "2004-05-20"
-last_updated: "2013-06-07"
+last_updated: "2015-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39367&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGBN"
 
 LEY GENERAL DE BIENES NACIONALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE DICIEMBRE DE 2015.
 
 Ley publicada la Primera Sección del Diario Oficial de la Federación, el jueves 20 de mayo de 2004.
 
@@ -41,6 +41,8 @@ SE EXPIDE LA LEY GENERAL DE BIENES NACIONALES
 ###### ARTÍCULO ÚNICO.
 
 Se expide la Ley General de Bienes Nacionales, para quedar como sigue:
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO SEGUNDO DEL DECRETO PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 17 DE DICIEMBRE DE 2015, LAS MENCIONES CONTENIDAS EN LEYES, REGLAMENTOS Y DISPOSICIONES DE CUALQUIER NATURALEZA, RESPECTO DEL CONSEJO NACIONAL PARA LA CULTURA Y LAS ARTES, SE ENTENDERÁN REFERIDAS A LA SECRETARÍA DE CULTURA.</small>
 
 LEY GENERAL DE BIENES NACIONALES
 
@@ -72,7 +74,9 @@ Para los efectos de esta Ley, se entiende por:
 
 I.- Dependencias: aquéllas que la Ley Orgánica de la Administración Pública Federal determina como tales incluyendo, en su caso, a sus órganos desconcentrados;
 
-II.- Dependencias administradoras de inmuebles: la Secretaría y las Secretarías de Gobernación; Medio Ambiente y Recursos Naturales; Comunicaciones y Transportes; Educación Pública, y Reforma Agraria, mismas que, en relación a los inmuebles federales de su competencia, ejercerán las facultades que esta Ley y las demás leyes les confieran. Las dependencias que tengan destinados a su servicio inmuebles federales no se considerarán como dependencias administradoras de inmuebles;
+> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+II.- Dependencias administradoras de inmuebles: la Secretaría y las secretarías de Gobernación; Medio Ambiente y Recursos Naturales; Comunicaciones y Transportes; Cultura, y Desarrollo Agrario, Territorial y Urbano, mismas que, en relación a los inmuebles federales de su competencia, ejercerán las facultades que esta Ley y las demás leyes les confieran. Las dependencias que tengan destinados a su servicio inmuebles federales no se considerarán como dependencias administradoras de inmuebles;
 
 III.- Entidades: las entidades paraestatales que con tal carácter determina la Ley Orgánica de la Administración Pública Federal;
 
@@ -318,7 +322,9 @@ IV.- Implementar un sistema de administración inmobiliaria que permita la admin
 
 V.- Emitir los lineamientos correspondientes para la construcción, reconstrucción, adaptación, conservación, mantenimiento y aprovechamiento de dichos inmuebles.
 
-Tratándose de inmuebles considerados como monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, darán la intervención que corresponda conforme a la legislación aplicable, a la Secretaría de Educación Pública.
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+Tratándose de inmuebles considerados como monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, darán la intervención que corresponda conforme a la legislación aplicable, a la Secretaría de Cultura.
 
 ###### ARTÍCULO 24.
 
@@ -444,13 +450,17 @@ XXI.- Fijar la política de la Administración Pública Federal en materia de ar
 
 XXII.- Las demás que le confieran esta Ley u otras disposiciones aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 30.
 
-La Secretaría de Educación Pública será competente para poseer, vigilar, conservar, administrar y controlar los inmuebles federales considerados como monumentos arqueológicos conforme a la ley de la materia, así como las zonas de monumentos arqueológicos.
+La Secretaría de Cultura será competente para poseer, vigilar, conservar, administrar y controlar los inmuebles federales considerados como monumentos arqueológicos conforme a la ley de la materia, así como las zonas de monumentos arqueológicos.
 
 Los inmuebles federales considerados como monumentos arqueológicos conforme a la ley de la materia, no podrán ser objeto de concesión, permiso o autorización.
 
-En las zonas de monumentos arqueológicos, la Secretaría de Educación Pública a través del Instituto Nacional de Antropología e Historia podrá otorgar permisos o autorizaciones únicamente para la realización de actividades cívicas y culturales, conforme a lo que disponga el reglamento que para tal efecto se expida, siempre y cuando no se afecte la integridad, estructura y dignidad cultural de dichas zonas y monumentos, ni se contravenga su uso común.
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+En las zonas de monumentos arqueológicos, la Secretaría de Cultura a través del Instituto Nacional de Antropología e Historia podrá otorgar permisos o autorizaciones únicamente para la realización de actividades cívicas y culturales, conforme a lo que disponga el reglamento que para tal efecto se expida, siempre y cuando no se afecte la integridad, estructura y dignidad cultural de dichas zonas y monumentos, ni se contravenga su uso común.
 
 Cuando los inmuebles federales considerados como monumentos arqueológicos, históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, se encuentren dentro de la zona federal marítimo terrestre, de los terrenos ganados al mar, de las áreas naturales protegidas o de cualquiera otra sobre la cual, conforme a las disposiciones legales aplicables, corresponda a la Secretaría de Medio Ambiente y Recursos Naturales ejercer sus atribuciones, ambas dependencias deberán establecer conjuntamente los mecanismos de coordinación que correspondan.
 
@@ -874,7 +884,9 @@ III.- La constancia de uso de suelo;
 
 IV.- El uso para el que se requiere, y
 
-V.- El dictamen de la Secretaría de Educación Pública que emita a través del Instituto Nacional de Antropología e Historia o del Instituto Nacional de Bellas Artes y Literatura, según corresponda, tratándose de inmuebles federales considerados monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente.
+> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+V.- El dictamen de la Secretaría de Cultura que emita, a través del Instituto Nacional de Antropología e Historia o del Instituto Nacional de Bellas Artes y Literatura, según corresponda, tratándose de inmuebles federales considerados Monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente.
 
 La Secretaría y la Secretaría de Medio Ambiente y Recursos Naturales, emitirán los lineamientos correspondientes que establecerán los requisitos, plazos, catálogo de usos, densidad de ocupación y demás especificaciones para el destino de los inmuebles federales que sean de su competencia.
 
@@ -894,7 +906,9 @@ La Secretaría o la Secretaría de Medio Ambiente y Recursos Naturales, según c
 
 La Secretaría de Medio Ambiente y Recursos Naturales respecto de los inmuebles federales de su competencia, podrá autorizar a las instituciones destinatarias a asignar el uso de espacios a otras instituciones públicas, así como autorizar a las dependencias destinatarias que celebren acuerdos de coordinación con los gobiernos estatales para que, en el marco de la descentralización de funciones a favor de los gobiernos de los estados, transfieran a éstos el uso de inmuebles federales con fines de promoción del desarrollo estatal o regional. En estos casos, los beneficiarios del uso de los inmuebles federales asumirán los costos inherentes al uso y conservación del bien de que se trate.
 
-La Secretaría de Educación Pública, con la intervención que corresponda al Instituto Nacional de Antropología e Historia y al Instituto Nacional de Bellas Artes y Literatura, podrá asignar o reasignar a título gratuito a favor de particulares, espacios de inmuebles federales considerados monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, que tenga destinados a su servicio, únicamente cuando se trate de cumplir convenios de colaboración institucional relacionados con actividades académicas y de investigación.
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+La Secretaría de Cultura, a través del Instituto Nacional de Antropología e Historia o del Instituto Nacional de Bellas Artes y Literatura, según corresponda de acuerdo a la materia, podrá asignar o reasignar a título gratuito a favor de particulares, espacios de inmuebles federales considerados monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, que tenga destinados a su servicio, únicamente cuando se trate de cumplir convenios de colaboración institucional relacionados con actividades académicas y de investigación.
 
 ###### ARTÍCULO 65.
 
@@ -1098,7 +1112,9 @@ VI.- Suspender las obras u ordenar su modificación o demolición, cuando se eje
 
 VII.- Determinar los derechos y obligaciones de las asociaciones religiosas y de los responsables de los templos, en cuanto a la conservación y cuidado de los inmuebles federales utilizados para fines religiosos y de los muebles ubicados en los mismos que se consideren inmovilizados o guarden conexión con el uso o destino religioso, y
 
-VIII.- Comunicar a la Secretaría de Gobernación las personas nombradas y registradas por las asociaciones religiosas como responsables de los templos y de los bienes que estén considerados como monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, así como a la Secretaría de Educación Pública respecto de los responsables de estos últimos.
+> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+VIII.- Comunicar a la Secretaría de Gobernación las personas nombradas y registradas por las asociaciones religiosas como responsables de los templos y de los bienes que estén considerados como monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, así como a la Secretaría de Cultura respecto de los responsables de estos últimos.
 
 ###### ARTÍCULO 80.
 
@@ -1116,9 +1132,11 @@ V.- Ordenar la suspensión temporal del uso del inmueble o la clausura, en el ca
 
 VI.- Coordinarse con la Secretaría para el otorgamiento, cuando proceda en términos de la Ley de Asociaciones Religiosas y Culto Público, de la constancia en la que se reconozca el uso a favor de las asociaciones religiosas, respecto de los inmuebles federales utilizados para fines religiosos y sus anexidades.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 81.
 
-Si los muebles e inmuebles federales utilizados para fines religiosos y sus anexidades están considerados como monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, a la Secretaría de Educación Pública le corresponderá respecto de estos bienes:
+Si los muebles e inmuebles federales utilizados para fines religiosos y sus anexidades están considerados como monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, a la Secretaría de Cultura le corresponderá respecto de estos bienes:
 
 I.- Resolver administrativamente todas las cuestiones que se susciten sobre la conservación, restauración y mantenimiento de los muebles e inmuebles, por conducto del Instituto Nacional de Antropología e Historia y del Instituto Nacional de Bellas Artes y Literatura, según corresponda;
 
@@ -1176,7 +1194,9 @@ I.- Distribuir los espacios de los inmuebles de la manera más conveniente para 
 
 II.- Evitar e impedir actos que atenten contra la salvaguarda y preservación de los inmuebles, así como de los muebles que deban considerarse inmovilizados o que guarden conexión con el uso o destino religioso;
 
-III.- Presentar las denuncias que correspondan e informar de ello inmediatamente a la Secretaría y, tratándose de inmuebles federales considerados como monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, a la Secretaría de Educación Pública;
+> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+III.- Presentar las denuncias que correspondan e informar de ello inmediatamente a la Secretaría y, tratándose de inmuebles federales considerados como monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, a la Secretaría de Cultura;
 
 IV.- Coadyuvar con la Secretaría en la integración de la información y documentación necesarias para obtener la resolución judicial o la declaración administrativa correspondiente respecto de los inmuebles nacionalizados, así como presentarlos a la propia Secretaría, la que determinará la vía procedente para tal efecto;
 
@@ -1184,11 +1204,13 @@ V.- Entregar a la Secretaría los inmuebles cuando dejen de utilizarse para fine
 
 VI.- Realizar a su costa las obras de construcción, reparación, restauración, ampliación, remodelación, conservación, mantenimiento y demolición de dichos bienes, debiendo obtener las licencias y permisos correspondientes.
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
 
-En el caso de inmuebles federales considerados monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, las asociaciones religiosas deberán obtener las autorizaciones procedentes de la Secretaría de Educación Pública, por conducto del Instituto Nacional de Antropología e Historia o del Instituto Nacional de Bellas Artes y Literatura, según corresponda, así como sujetarse a los requisitos que éstos señalen para la conservación y protección del valor artístico o histórico del inmueble de que se trate, atendiendo a lo que se refiere la fracción IV del artículo 81, así como al artículo 105 de esta Ley.
+En el caso de inmuebles federales considerados monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, las asociaciones religiosas deberán obtener las autorizaciones procedentes de la Secretaría de Cultura, por conducto del Instituto Nacional de Antropología e Historia o del Instituto Nacional de Bellas Artes y Literatura, según corresponda, así como sujetarse a los requisitos que éstos señalen para la conservación y protección del valor artístico o histórico del inmueble de que se trate, atendiendo a lo que se refiere la fracción IV del artículo 81, así como al artículo 105 de esta Ley;
 
-VII.- Construir con sus propios recursos, cuando las características del inmueble lo permitan, columbarios para el depósito de restos humanos áridos y cenizas, debiendo obtener previamente la autorización de la Secretaría y, en su caso, de la Secretaría de Educación Pública, así como cubrir los derechos que por este concepto establece la Ley Federal de Derechos;
+> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+VII.- Construir con sus propios recursos, cuando las características del inmueble lo permitan, columbarios para el depósito de restos humanos áridos y cenizas, debiendo obtener previamente la autorización de la Secretaría y, en su caso, de la Secretaría de Cultura, así como cubrir los derechos que por este concepto establece la Ley Federal de Derechos;
 
 VIII.- Permitir el depósito de restos humanos áridos y cenizas en los templos y sus anexidades que tengan autorizados columbarios, con sujeción a las disposiciones sanitarias y municipales correspondientes, previo acreditamiento del pago de los derechos respectivos por parte de los interesados. No podrán otorgarse concesiones para que particulares comercialicen u operen los columbarios;
 
@@ -1408,21 +1430,25 @@ X.- Los demás actos jurídicos que ordene esta Ley u otras disposiciones legale
 
 La Secretaría determinará las normas y criterios técnicos para la construcción, reconstrucción, adaptación, conservación, mantenimiento y aprovechamiento de los inmuebles federales que haya destinado para ser utilizados como oficinas administrativas, puertos fronterizos, bodegas y almacenes. Estas normas y criterios no serán aplicables a las obras de ingeniería militar y a las que se realicen para la seguridad nacional.
 
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 103.
 
-La Secretaría de Educación Pública, a través del Instituto Nacional de Antropología e Historia y del Instituto Nacional de Bellas Artes y Literatura, según corresponda, determinará las normas y criterios técnicos para la restauración, reconstrucción, adaptación, conservación, preservación, mantenimiento y aprovechamiento de los inmuebles federales considerados como monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, que estén destinados al servicio de las instituciones públicas.
+La Secretaría de Cultura, a través del Instituto Nacional de Antropología e Historia y del Instituto Nacional de Bellas Artes y Literatura, según corresponda, determinará las normas y criterios técnicos para la restauración, reconstrucción, adaptación, conservación, preservación, mantenimiento y aprovechamiento de los inmuebles federales considerados como monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, que estén destinados al servicio de las instituciones públicas.
 
 ###### ARTÍCULO 104.
 
 La Secretaría de Hacienda y Crédito Público y la Secretaría intervendrán en los términos de la Ley de Obras Públicas y Servicios Relacionados con las Mismas y de la Ley de Presupuesto, Contabilidad y Gasto Público Federal, de acuerdo a su competencia en la materia, cuando se requieran ejecutar obras de construcción, reconstrucción, modificación, adaptación, conservación y mantenimiento de inmuebles federales, así como para el óptimo aprovechamiento de espacios.
 
-Para la realización de obras en inmuebles federales considerados como monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, que estén destinados al servicio de las instituciones públicas, se requerirá de la autorización previa de la Secretaría de Educación Pública.
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, D.O.F. 10 DE ENERO DE 2012)</small>
+Para la realización de obras en inmuebles federales considerados como monumentos históricos o artísticos conforme a la ley de la materia o la declaratoria correspondiente, que estén destinados al servicio de las instituciones públicas, se requerirá de la autorización previa de la Secretaría de Cultura.
+
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 105.
 
-Las instituciones destinatarias realizarán las obras de construcción, reconstrucción, restauración, modificación, adaptación y de aprovechamiento de espacios de los inmuebles destinados, de acuerdo con los proyectos que formulen y, en su caso, las normas y criterios técnicos que emita la Secretaría o la Secretaría de Educación Pública, según corresponda. La institución destinataria interesada, podrá tramitar la adecuación presupuestaria respectiva para que, en su caso, la Secretaría o la Secretaría de Educación Pública en el caso de los monumentos históricos o artísticos, a través de sus órganos competentes, realicen tales obras, conforme al convenio que al efecto suscriban con sujeción a las disposiciones aplicables.
+Las instituciones destinatarias realizarán las obras de construcción, reconstrucción, restauración, modificación, adaptación y de aprovechamiento de espacios de los inmuebles destinados, de acuerdo con los proyectos que formulen y, en su caso, las normas y criterios técnicos que emita la Secretaría o la Secretaría de Cultura, según corresponda. La institución destinataria interesada, podrá tramitar la adecuación presupuestaria respectiva para que, en su caso, la Secretaría o la Secretaría de Cultura en el caso de los monumentos históricos o artísticos, a través de sus órganos competentes, realicen tales obras, conforme al convenio que al efecto suscriban con sujeción a las disposiciones jurídicas aplicables.
 
 ###### ARTÍCULO 106.
 
@@ -1952,7 +1978,7 @@ México, D.F., a 23 de marzo de 2004.- Sen. Enrique Jackson Ramírez, Presidente
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los dieciocho días del mes de mayo de dos mil cuatro.- Vicente Fox Quesada.- Rúbrica.- El Secretario de Gobernación, Santiago Creel Miranda.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 31 DE AGOSTO DE 2007.
 
@@ -1985,3 +2011,31 @@ PRIMERO.- El presente Decreto entrará en vigor a los treinta días siguientes a
 SEGUNDO.- El Fondo de Responsabilidad Ambiental deberá ser constituido y sus bases y reglas de operación, elaboradas y aprobadas dentro de los ciento ochenta días posteriores a la entrada en vigor del presente Decreto.
 
 TERCERO.- Los Juzgados de Distrito especializados en materia ambiental deberán establecerse en un término máximo de dos años contados a partir de la entrada en vigor del presente Decreto. La Jurisdicción especializada en materia ambiental podrá otorgarse a los Juzgados de Distrito en funciones en cada circuito jurisdiccional o de acuerdo a lo que disponga el Consejo de la Judicatura Federal, sin que esto implique la creación de nuevos órganos jurisdiccionales. El personal de cada uno de dichos Juzgados de Distrito recibirá capacitación especializada en materia de normatividad ambiental.
+
+D.O.F. 17 DE DICIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El Consejo Nacional para la Cultura y las Artes se transforma en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto del Consejo Nacional para la Cultura y las Artes, se entenderán referidas a la Secretaría de Cultura.
+
+TERCERO. Los derechos laborales de los trabajadores que presten sus servicios en el Consejo Nacional para la Cultura y las Artes, en la Secretaría de Educación Pública, en los órganos administrativos desconcentrados y en las entidades paraestatales que, con motivo de la entrada en vigor del presente Decreto, queden adscritos o coordinados a la Secretaría de Cultura, respectivamente, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+CUARTO. El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, continuarán rigiéndose por sus respectivas leyes y demás disposiciones aplicables y dependerán de la Secretaría de Cultura, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Educación Pública.
+
+Los órganos administrativos desconcentrados denominados Radio Educación e Instituto Nacional de Estudios Históricos de las Revoluciones de México, se adscribirán a la Secretaría de Cultura y mantendrán su naturaleza jurídica.
+
+QUINTO. La Secretaría de Cultura integrará los diversos consejos, comisiones intersecretariales y órganos colegiados previstos en las disposiciones jurídicas aplicables, según el ámbito de sus atribuciones.
+
+SEXTO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+SÉPTIMO. Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Consejo Nacional para la Cultura y las Artes continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+Asimismo, todas las disposiciones, lineamientos, criterios y demás normativa emitida por el Secretario de Educación Pública que contengan disposiciones concernientes al Consejo Nacional para la Cultura y las Artes o los órganos administrativos desconcentrados que éste coordina, continuará en vigor en lo que no se opongan al presente Decreto, en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+OCTAVO. Las atribuciones y referencias que se hagan a la Secretaría de Educación Pública o al Secretario de Educación Pública que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura.
+
+NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
+
+DÉCIMO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
