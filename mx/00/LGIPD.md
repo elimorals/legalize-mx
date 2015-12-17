@@ -4,7 +4,7 @@ identifier: "LGIPD"
 country: "mx"
 rank: "ley_general"
 publication_date: "2011-05-30"
-last_updated: "2011-05-30"
+last_updated: "2015-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81490&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LGIPD"
 ---
 # LEY GENERAL PARA LA INCLUSION DE LAS PERSONAS CON DISCAPACIDAD
 
-LEY GENERAL PARA LA INCLUSION DE LAS PERSONAS CON DISCAPACIDAD
+LEY GENERAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el lunes 30 de mayo de 2011.
 
@@ -39,6 +39,8 @@ DECRETO
 SE CREA LA LEY GENERAL PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD.
 
 Artículo Único. Se crea la Ley General para la Inclusión de las Personas con Discapacidad.
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO SEGUNDO DEL DECRETO PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 17 DE DICIEMBRE DE 2015, LAS MENCIONES CONTENIDAS EN LEYES, REGLAMENTOS Y DISPOSICIONES DE CUALQUIER NATURALEZA, RESPECTO DEL CONSEJO NACIONAL PARA LA CULTURA Y LAS ARTES, SE ENTENDERÁN REFERIDAS A LA SECRETARÍA DE CULTURA.</small>
 
 Ley General para la Inclusión de las Personas con Discapacidad
 
@@ -400,9 +402,11 @@ III. Procurar el acceso y libre desplazamiento de las personas con discapacidad 
 
 IV. Las demás que dispongan otros ordenamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 25.
 
-El Consejo Nacional para la Cultura y las Artes promoverá el derecho de las personas con discapacidad a la cultura, la recreación, el desarrollo de sus capacidades artísticas y la protección de sus derechos de propiedad intelectual. Para tales efectos, realizará las siguientes acciones:
+La Secretaría de Cultura promoverá el derecho de las personas con discapacidad a la cultura, el desarrollo de sus capacidades artísticas y la protección de sus derechos de propiedad intelectual. Para tales efectos, realizará las siguientes acciones:
 
 I. Establecer programas para apoyar el desarrollo artístico y cultural de las personas con discapacidad;
 
@@ -410,9 +414,11 @@ II. Impulsar que las personas con discapacidad cuenten con las facilidades neces
 
 III. Las demás que dispongan otros ordenamientos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 26.
 
-El Consejo Nacional para la Cultura y las Artes, diseñará y ejecutará políticas y programas orientados a:
+La Secretaría de Cultura, diseñará y ejecutará políticas y programas orientados a:
 
 I. Generar y difundir entre la sociedad el respeto a la diversidad y participación de las personas con discapacidad en el arte y la cultura;
 
@@ -598,9 +604,11 @@ I. La Junta de Gobierno, y
 
 II. El Director General.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 44.
 
-La Junta de Gobierno del Consejo estará integrada por nueve representantes del Poder Ejecutivo Federal, uno de la Comisión Nacional de los Derechos Humanos y cinco representantes de la Asamblea Consultiva.
+La Junta de Gobierno del Consejo estará integrada por diez representantes del Poder Ejecutivo Federal, uno de la Comisión Nacional de los Derechos Humanos y cinco representantes de la Asamblea Consultiva.
 
 Los representantes del Poder Ejecutivo Federal serán los titulares de las siguientes dependencias y entidades:
 
@@ -609,6 +617,10 @@ I. Secretaría de Salud;
 II. Secretaría de Desarrollo Social;
 
 III. Secretaría de Educación Pública;
+
+> <small>(ADICIONADA, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+III Bis. Secretaría de Cultura;
 
 IV. Secretaría de Hacienda y Crédito Público;
 
@@ -803,3 +815,33 @@ Séptimo. Todos los entes competentes deberán desarrollar las políticas públi
 México, D.F., a 3 de marzo de 2011.- Dip. Jorge Carlos Ramirez Marin, Presidente.- Sen. Manlio Fabio Beltrones Rivera, Presidente.- Dip. Heron Escobar Garcia, Secretario.- Sen. Martha Leticia Sosa Govea, Secretaria.- Rúbricas."
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintisiete de mayo de dos mil once.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, José Francisco Blake Mora.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 17 DE DICIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El Consejo Nacional para la Cultura y las Artes se transforma en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto del Consejo Nacional para la Cultura y las Artes, se entenderán referidas a la Secretaría de Cultura.
+
+TERCERO. Los derechos laborales de los trabajadores que presten sus servicios en el Consejo Nacional para la Cultura y las Artes, en la Secretaría de Educación Pública, en los órganos administrativos desconcentrados y en las entidades paraestatales que, con motivo de la entrada en vigor del presente Decreto, queden adscritos o coordinados a la Secretaría de Cultura, respectivamente, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+CUARTO. El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, continuarán rigiéndose por sus respectivas leyes y demás disposiciones aplicables y dependerán de la Secretaría de Cultura, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Educación Pública.
+
+Los órganos administrativos desconcentrados denominados Radio Educación e Instituto Nacional de Estudios Históricos de las Revoluciones de México, se adscribirán a la Secretaría de Cultura y mantendrán su naturaleza jurídica.
+
+QUINTO. La Secretaría de Cultura integrará los diversos consejos, comisiones intersecretariales y órganos colegiados previstos en las disposiciones jurídicas aplicables, según el ámbito de sus atribuciones.
+
+SEXTO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+SÉPTIMO. Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Consejo Nacional para la Cultura y las Artes continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+Asimismo, todas las disposiciones, lineamientos, criterios y demás normativa emitida por el Secretario de Educación Pública que contengan disposiciones concernientes al Consejo Nacional para la Cultura y las Artes o los órganos administrativos desconcentrados que éste coordina, continuará en vigor en lo que no se opongan al presente Decreto, en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+OCTAVO. Las atribuciones y referencias que se hagan a la Secretaría de Educación Pública o al Secretario de Educación Pública que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura.
+
+NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
+
+DÉCIMO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
