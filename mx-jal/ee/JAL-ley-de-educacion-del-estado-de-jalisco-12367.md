@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-educacion-del-estado-de-jalisco-12367"
 country: "mx"
 rank: "ley"
 publication_date: "1997-09-06"
-last_updated: "2015-11-12"
+last_updated: "2015-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12367&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE EDUCACIÓN DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el sábado 6 de septiembre de 1997.
 
@@ -80,6 +80,10 @@ I.- Gratuita: Sin que se entienda como contraprestación del servicio educativo 
 En ningún caso se podrá condicionar la inscripción, el acceso a la escuela, la aplicación de evaluaciones o exámenes, la entrega de documentación a los educandos o afectar en cualquier sentido la igualdad en el trato a los alumnos, al pago de contraprestación alguna.
 
 Para garantizar la gratuidad en la educación preescolar, primaria y secundaria, el Ejecutivo del Estado solicitará al Congreso del Estado los recursos necesarios para la prestación de servicios educativos de calidad.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+Para contribuir a este principio, el Ejecutivo del Estado y los ayuntamientos, mediante la suscripción de los respectivos convenios de colaboración y de conformidad con la disponibilidad presupuestal, dotarán de una mochila y útiles escolares básicos a los estudiantes de los niveles de educación preescolar, primaria y secundaria de escuelas públicas;
 
 II.- Laica, por lo tanto se mantendrá por completo ajena a cualquier doctrina religiosa, respetando las convicciones personales siempre y cuando no contravengan a ninguna ley;
 
@@ -3862,3 +3866,9 @@ P.O. 12 DE MAYO DE 2015.
 P.O. 12 DE NOVIEMBRE DE 2015.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 17 DE DICIEMBRE DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Se derogan las disposiciones legales que se opongan al presente decreto.
