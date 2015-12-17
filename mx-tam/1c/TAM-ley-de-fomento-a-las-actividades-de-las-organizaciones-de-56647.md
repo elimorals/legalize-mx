@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-fomento-a-las-actividades-de-las-organizaciones-de-56647
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-02"
-last_updated: "2014-04-03"
+last_updated: "2015-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE FOMENTO A LAS ACTIVIDADES DE LAS ORGANIZACIONES DE LA SOCIEDAD CIVIL EN EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el jueves 2 de agosto de 2007.
 
@@ -119,7 +119,9 @@ VIII. Cooperación para el desarrollo comunitario;
 
 IX. Apoyo en la defensa y promoción de los derechos humanos;
 
-X. Promoción del deporte;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+X. Promoción del deporte, recreación y actividades que generen una mejor salud;
 
 XI. Promoción y aportación de servicios para la atención de la salud y cuestiones sanitarias;
 
@@ -131,9 +133,25 @@ XIV. Acciones para mejorar la economía popular;
 
 XV. Participación en acciones de protección civil;
 
-XVI. Prestación de servicios de apoyo a la creación y fortalecimiento de organizaciones que realicen actividades objeto de fomento (sic) por esta ley, y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
-XVII. Las que determinen otras leyes.
+XVI. Prestación de servicios de apoyo a la creación y fortalecimiento de organizaciones que realicen actividades objeto de fomento por esta ley;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+XVII. Acciones para el desarrollo o crecimiento personal que promueva el autoempleo en oficios diversos;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+XVIII. Promoción y defensa de los derechos de los consumidores;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+XIX. Acciones que promuevan el fortalecimiento del tejido social y la seguridad ciudadana; y
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+XX. Las que determinen otras leyes.
 
 ###### Artículo 6.
 
@@ -143,7 +161,9 @@ I. Inscribirse en el Registro;
 
 II. Participar como instancias de participación y consulta;
 
-III. Participar en los mecanismos de contraloría social que establezcan u operen dependencias y entidades;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+III. Participar en los mecanismos de contraloría social que establezcan y operen dependencias y entidades, de conformidad con la normatividad jurídica y administrativa aplicable;
 
 IV. Participar de los programas de apoyo de la Administración Pública del Estado y de los Municipios;
 
@@ -241,7 +261,9 @@ Las demás dependencias o entidades de la Administración Pública Estatal parti
 
 El Consejo contará con una Secretaría Técnica, a cargo de la dependencia que determine el titular del Poder Ejecutivo.
 
-La Secretaría Técnica será responsable de la operación y supervisión de las acciones de fomento y coordinación, con las dependencias de la administración pública del Estado y de los Municipios. Deberá de rendir a la Comisión un informe semestral del trabajo desempeñado.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+La Secretaría Técnica será la responsable de la operación y supervisión de las acciones de fomento y coordinación, con las dependencias de la administración pública del Estado y de los Municipios. Deberá rendir a la Comisión un informe anual del trabajo desempeñado.
 
 ###### Artículo 11.
 
@@ -367,9 +389,11 @@ III. La documentación exhibida presente alguna irregularidad; y,
 
 IV. Exista constancia de que haya cometido infracciones graves o reiteradas a esta ley u otras disposiciones jurídicas en el desarrollo de sus actividades.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 21.
 
-El Registro resolverá sobre la procedencia de la inscripción en un plazo no mayor a treinta días hábiles contados a partir de que reciba la solicitud.
+El Registro resolverá sobre la procedencia de la inscripción en un plazo no mayor a treinta días hábiles contados a partir de que reciba la solicitud, notificándolo por escrito al interesado.
 
 En caso de que existan insuficiencias en la información que consta en la solicitud, deberá abstenerse de inscribir a la organización y le notificará dicha circunstancia otorgándole un plazo de treinta días hábiles para que las subsane. Vencido el plazo, si no lo hiciere, se desechará la solicitud.
 
@@ -377,9 +401,11 @@ En caso de que existan insuficiencias en la información que consta en la solici
 
 La administración y el funcionamiento del Registro se organizarán conforme a su Reglamento Interno.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 23.
 
-El Sistema de Información del Registro funcionará mediante una base de datos distribuida y compartida entre las dependencias y entidades.
+El sistema de información del Registro funcionará mediante una base de datos distribuida y compartida entre las dependencias y entidades, debiendo publicarse en los términos de la Ley de Transparencia y Acceso a la información Pública del Estado de Tamaulipas.
 
 ###### Artículo 24.
 
@@ -449,7 +475,9 @@ I. Realizar actividades de autobeneficio o de beneficio mutuo;
 
 II. Distribuir remanentes financieros o materiales provenientes de los apoyos o estímulos públicos entre sus integrantes;
 
-III. Aplicar los apoyos y estímulos públicos federales que reciban a fines distintos para los que fueron autorizados;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+III. Aplicar los apoyos y estímulos públicos federales, estatales o municipales que reciban con fines distintos para los que fueron autorizados;
 
 IV. Una vez recibidos los apoyos y estímulos públicos, dejar de realizar la actividad o actividades previstas en de (sic) esta ley;
 
@@ -516,6 +544,12 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 Se derogan las disposiciones que se opongan a los preceptos aprobados conforme a este Decreto.
 
 P.O. 3 DE ABRIL DE 2014.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE DICIEMBRE DE 2015.
 
 ###### ARTÍCULO ÚNICO.
 
