@@ -4,7 +4,7 @@ identifier: "TAM-ley-sobre-el-sistema-estatal-de-asistencia-social-9746"
 country: "mx"
 rank: "ley"
 publication_date: "1986-10-18"
-last_updated: "2014-04-03"
+last_updated: "2015-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9746&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY SOBRE EL SISTEMA ESTATAL DE ASISTENCIA SOCIAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 18 de octubre de 1986.
 
@@ -539,13 +539,29 @@ La Junta de Gobierno estará integrada por:
 
 I.- El Secretario de Salud, quien la presidirá;
 
-II.- El Secretario de Finanzas;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
-III.- El Secretario de Desarrollo Rural;
+II.- El Secretario General de Gobierno;
 
-IV.- El Secretario de Desarrollo Social; y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
-V.- El Secretario de Educación.
+III.- El Secretario de Finanzas;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+IV.- El Secretario de Desarrollo Rural;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+V.- El Secretario de Desarrollo Social;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+VI.- El Secretario de Educación; y
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+VII.- La Contraloría Gubernamental.
 
 El Director General del organismo y el Comisario asistirán a las sesiones de la Junta de Gobierno y en ellas sólo tendrán derecho a voz.
 
@@ -585,9 +601,11 @@ XI.- Las demás que sean necesarias para el ejercicio de las facultades anterior
 
 La Junta de Gobierno podrá integrar los Comités Técnicos necesarios para el estudio y propuesta de mecanismo que aseguren la coordinación interinstitucional en la atención de las tareas asistenciales y para elevar las propuestas que estimen necesarias a la Junta. Estos comités estarán formados por los representantes que al efecto designen las dependencias y entidades competentes.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 30.
 
-La Junta de Gobierno celebrará sesiones ordinarias trimestrales y las extraordinarias que se requieran de conformidad con el Reglamento respectivo.
+La Junta de Gobierno celebrará por lo menos cuatro sesiones ordinarias al año, y las extraordinarias que se requieran, de, conformidad con el Reglamento de la Ley de Entidades Paraestatales del Estado de Tamaulipas.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ABRIL DE 2012)</small>
 
@@ -673,19 +691,33 @@ Serán trabajadores de confianza del organismo:
 
 I.- El Director General;
 
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
-II.- Los Directores de área y/o subdirectores;
+II.- Los Coordinadores;
 
-III.- Los Jefes de Unidad;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
-IV.- Los Jefes de Departamento;
+III.- Los Directores de Área;
 
-V.- Los Jefes de Sección;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
-VI.- El Procurador de la Defensa del Menor y la Familia, así como Auxiliares y Delegados de aquélla; y
+IV.- Los Subdirectores;
 
-VII.- Los Secretarios y Secretarias Privados de los empleados antes mencionados.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+V.- Los Jefes de Departamento;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+VI.- Los Jefes de Unidad;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+VII.- El Procurador de la Defensa del Menor y la Familia; y
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+VIII.- Los Secretarios Particulares y Privados de los empleados antes mencionados.
 
 ###### ARTICULO 40.
 
@@ -777,6 +809,18 @@ IV.- Formulación de sugerencias para mejorar los servicios de asistencia social
 
 V.- Otras actividades que coadyuven a la protección de la salud.
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 51.
+
+El Ejecutivo del Estado publicará, a través del Organismo, la información relativa a los programas de asistencia social.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 52.
+
+En aras de contribuir con la transparencia del uso y destino de los recursos del Estado y los municipios, la publicidad y la información relativa a los programas de asistencia social deberán identificarse con el escudo del Estado de Tamaulipas y del Municipio respectivo, e incluir la leyenda: "Este programa es público y ajeno a cualquier partido político. Queda Prohibido su uso para fines distintos a la asistencia social".
+
 ## TRANSITORIOS
 
 PRIMERO.- Esta Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -862,3 +906,13 @@ P.O. 3 DE ABRIL DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE DICIEMBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
