@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-del-instituto-de-especializacion-en-96582"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-11-14"
-last_updated: "2013-11-14"
+last_updated: "2015-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96582&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2013-10-25"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE ESPECIALIZACIÓN EN JUSTICIA ADMINISTRATIVA Y FISCAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE DICIEMBRE DE 2015.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 14 de noviembre de 2013.
 
@@ -67,6 +67,14 @@ V.- Vincularse con instituciones académicas, nacionales e internacionales, para
 VI.- Proponer al Jefe de Gobierno del Distrito Federal proyectos de iniciativas de reformas o adiciones a la legislación vigente en las materias que el Tribunal es competente.
 
 VII.- Atender, mediante opiniones propias y no vinculatorias, las consultas en materia de derecho administrativa y fiscal formulada (sic) por el Jefe de Gobierno del Distrito Federal, por los Jefes Delegacionales del Distrito Federal o por el Presidente de la Asamblea Legislativa del Distrito Federal. En ningún caso dichas consultas versarán sobre asuntos que se encuentren en trámite o sobre la actuación o funcionamiento de este Tribunal.
+
+> <small>(ADICIONADA, G.O. 17 DE DICIEMBRE DE 2015)</small>
+
+VIII.- Coordinar y administrar las funciones de la biblioteca;
+
+> <small>(ADICIONADA, G.O. 17 DE DICIEMBRE DE 2015)</small>
+
+IX.- Registrar, preservar y controlar el acervo bibliohemerográfico de la biblioteca del Tribunal, recabando todos los ordenamientos de uso constante de este Órgano Jurisdiccional, así como mantenerlos actualizados, compilando sus reformas.
 
 CUARTO.- Para el cumplimiento de sus objetivos, el Instituto se regirá por los principios de profesionalismo, innovación, imparcialidad, independencia y objetividad.
 
@@ -139,3 +147,9 @@ SUFRAGIO EFECTIVO. NO REELECCIÓN
 LIC. MARÍA JUANA LÓPEZ BRIONES
 
 SECRETARIO GENERAL DE ACUERDOS "B"
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.O. 17 DE DICIEMBRE DE 2015.
+
+ÚNICO.- Las presentes adiciones entrarán en vigor el día de su publicación en la Gaceta Oficial del Distrito Federal.
