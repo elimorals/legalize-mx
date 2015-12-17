@@ -4,7 +4,7 @@ identifier: "LSAT"
 country: "mx"
 rank: "ley"
 publication_date: "1995-12-15"
-last_updated: "2012-04-09"
+last_updated: "2015-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=727&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LSAT"
 
 LEY DEL SERVICIO DE ADMINISTRACIÓN TRIBUTARIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de diciembre de 1995.
 
@@ -39,6 +39,8 @@ D E C R E T O
 SE EXPIDEN NUEVAS LEYES FISCALES Y SE MODIFICAN OTRAS
 
 Artículo Primero. Se expide la siguiente:
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO SEGUNDO DEL DECRETO PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 17 DE DICIEMBRE DE 2015, LAS MENCIONES CONTENIDAS EN LEYES, REGLAMENTOS Y DISPOSICIONES DE CUALQUIER NATURALEZA, RESPECTO DEL CONSEJO NACIONAL PARA LA CULTURA Y LAS ARTES, SE ENTENDERÁN REFERIDAS A LA SECRETARÍA DE CULTURA.</small>
 
 Ley del Servicio de Administración Tributaria
 
@@ -170,13 +172,17 @@ Las Entidades Federativas y los Municipios participarán en una tercera parte ca
 
 Cuando un artista decida donar una parte de su obra plástica a un museo de su elección establecido en México y abierto al público en general y las obras donadas representen, por lo menos, el 500% del pago que por el impuesto sobre la renta le correspondió en el año inmediato anterior al que hizo la donación, quedará liberado del pago de dicho impuesto por la producción de sus obras plásticas, por ese año y los dos siguientes.
 
-> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 7o.-D.
 
-El Comité a que se refiere el artículo 7o.-B se integrará por ocho personas expertas en artes plásticas, que serán nombrados por la Junta de Gobierno, un representante del Servicio de Administración Tributaria y un representante del Consejo Nacional para la Cultura y las Artes. Los dos representantes mencionados en último término tendrán voz pero no voto.
+El Comité a que se refiere el artículo 7o.-B se integrará por ocho personas expertas en artes plásticas, que serán nombrados por la Junta de Gobierno, un representante del Servicio de Administración Tributaria y un representante de la Secretaría de Cultura. Los dos representantes mencionados en último término tendrán voz pero no voto.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2003)</small>
 
 Los miembros del Comité que tengan derecho a voto, durarán en su encargo cuatro años y no podrán ser designados para formar parte del Comité dentro de los cuatro años siguientes a la fecha en que dejaron de formar parte del mismo. Las vacantes que se den en el Comité de los integrantes con derecho a voto serán ocupadas por las personas que designe el propio Comité. La designación de miembros para cubrir las vacantes que se produzcan antes de la terminación del periodo por el que fue designado el miembro a sustituir, durarán en su cargo sólo por el tiempo que faltare por desempeñar al sustituido.
+
+> <small>(ADICIONADO, D.O.F. 12 DE JUNIO DE 2003)</small>
 
 El Comité establecerá el reglamento para su funcionamiento interno y la conformación de su estructura orgánica.
 
@@ -268,11 +274,11 @@ VIII. Analizar las propuestas sobre mejora continua que incluyan los aspectos re
 
 IX. Proponer a la Secretaría de Hacienda y Crédito Público, como responsable de la política de ingresos, los cambios a la legislación pertinentes para la mejora continua de la administración tributaria.
 
-> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCION VII], D.O.F. 12 DE JUNIO DE 2003)</small>
+> <small>(ADICIONADA [N. DE E. REUBICADA ANTES FRACCIÓN VII], D.O.F. 12 DE JUNIO DE 2003)</small>
 
 X. Las demás que sean necesarias para llevar a cabo las previstas en esta Ley, su reglamento interior y demás disposiciones jurídicas aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE JUNIO DE 2003)</small>
 
 ###### Artículo 11.
 
@@ -288,7 +294,7 @@ El Servicio de Administración Tributaria realizará periódicamente una evaluac
 
 ### Capítulo III. De la Presidencia
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 12 DE JUNIO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE JUNIO DE 2003)</small>
 
 ###### Artículo 13.
 
@@ -420,11 +426,11 @@ c) Que las contribuciones omitidas correspondan a errores u omisiones no graves.
 
 Los contribuyentes beneficiados por esta excepción recibirán un apercibimiento por escrito.
 
-> <small>(ADICIONADO CON LOS CAPITULOS Y ARTICULOS QUE LO INTEGRAN, D.O.F. 12 DE JUNIO DE 2003)</small>
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, D.O.F. 12 DE JUNIO DE 2003)</small>
 
 ## Título Quinto. De la Información, la Transparencia y la Evaluación de la Eficiencia Recaudatoria y de Fiscalización
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 12 DE JUNIO DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 12 DE JUNIO DE 2003)</small>
 
 ### Capítulo I. De la Información y la Transparencia
 
@@ -572,7 +578,7 @@ Con el propósito de transparentar la relación fiscal entre la Federación y su
 
 La Secretaría de Hacienda y Crédito Público y el Servicio de Administración Tributaria atenderán las obligaciones que sobre transparencia e información les impone la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental, y difundirán entre la población en general, a través de las páginas electrónicas que tengan establecidas en el sistema "Internet", la información relativa a la legislación, reglamentos y disposiciones de carácter general así como las tablas para el pago de impuestos. Para tal efecto, deberán incluir la información en sus páginas electrónicas dentro de las 24 horas siguientes a la que se haya generado dicha información o disposición.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 12 DE JUNIO DE 2003)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 12 DE JUNIO DE 2003)</small>
 
 ### Capítulo II. De la Evaluación de la Eficiencia Recaudatoria y de Fiscalización
 
@@ -682,11 +688,11 @@ México, D.F., a 7 de diciembre de 1995.- Dip. Oscar Cantón Zetina, Presidente.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los trece días del mes de diciembre de mil novecientos noventa y cinco.- Ernesto Zedillo Ponce de León.- Rúbrica.- El Secretario de Gobernación, Emilio Chuayffet Chemor.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 4 DE ENERO DE 1999.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo lo dispuesto en los siguientes transitorios.
 
@@ -735,3 +741,31 @@ D.O.F. 9 DE ABRIL DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 17 DE DICIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El Consejo Nacional para la Cultura y las Artes se transforma en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto del Consejo Nacional para la Cultura y las Artes, se entenderán referidas a la Secretaría de Cultura.
+
+TERCERO. Los derechos laborales de los trabajadores que presten sus servicios en el Consejo Nacional para la Cultura y las Artes, en la Secretaría de Educación Pública, en los órganos administrativos desconcentrados y en las entidades paraestatales que, con motivo de la entrada en vigor del presente Decreto, queden adscritos o coordinados a la Secretaría de Cultura, respectivamente, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+CUARTO. El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, continuarán rigiéndose por sus respectivas leyes y demás disposiciones aplicables y dependerán de la Secretaría de Cultura, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Educación Pública.
+
+Los órganos administrativos desconcentrados denominados Radio Educación e Instituto Nacional de Estudios Históricos de las Revoluciones de México, se adscribirán a la Secretaría de Cultura y mantendrán su naturaleza jurídica.
+
+QUINTO. La Secretaría de Cultura integrará los diversos consejos, comisiones intersecretariales y órganos colegiados previstos en las disposiciones jurídicas aplicables, según el ámbito de sus atribuciones.
+
+SEXTO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+SÉPTIMO. Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Consejo Nacional para la Cultura y las Artes continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+Asimismo, todas las disposiciones, lineamientos, criterios y demás normativa emitida por el Secretario de Educación Pública que contengan disposiciones concernientes al Consejo Nacional para la Cultura y las Artes o los órganos administrativos desconcentrados que éste coordina, continuará en vigor en lo que no se opongan al presente Decreto, en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+OCTAVO. Las atribuciones y referencias que se hagan a la Secretaría de Educación Pública o al Secretario de Educación Pública que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura.
+
+NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
+
+DÉCIMO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
