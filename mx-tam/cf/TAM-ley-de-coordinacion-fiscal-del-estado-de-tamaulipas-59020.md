@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-coordinacion-fiscal-del-estado-de-tamaulipas-59020"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2014-12-17"
+last_updated: "2015-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59020&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -199,6 +199,16 @@ IV.- El porcentaje de los ingresos que perciba el Estado por concepto de incenti
 
 V.- Las demás que les correspondan conforme a la legislación federal.
 
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 4 Bis.
+
+El 20% de los recursos del Fondo para Entidades y Municipios Productores de Hidrocarburos asignados al Estado de Tamaulipas por concepto de áreas localizadas en regiones marítimas, se distribuirá a los municipios de la entidad que cuenten con áreas protegidas en materia ecológica mediante decreto estatal, así como a los que cuenten con litoral. El recurso se asignará a los municipios de acuerdo a lo siguiente:
+
+I.- El 50% se distribuirá entre los municipios que por decreto estatal cuenten con áreas protegidas en materia ecológica, ponderado por población.
+
+II.- El 50% se distribuirá entre los municipios que cuenten con litoral, ponderado por población.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
@@ -315,11 +325,9 @@ Si la Secretaria de Finanzas no recibe la información citada en el plazo señal
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
-
-ARTICULO 9 BIS.- Adicionalmente, el Estado participará a los Municipios, Organismos Autónomos, Entidades Paraestatales y Paramunicipales el 100% de la recaudación que se obtenga del Impuesto sobre la Renta correspondiente al salario del personal que preste o desempeñe un servicio personal subordinado en el Municipio, Organismos Autónomos, Entidades Paraestatales y Paramunicipales, siempre que el salario hubiese sido efectivamente pagado con cargo a sus participaciones u otros ingresos locales.
+ARTICULO 9 BIS.- (DEROGADO, P.O. 17 DE DICIEMBRE DE 2015)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -884,3 +892,23 @@ Los asuntos y procedimientos que se hayan iniciado con anterioridad a la entrada
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE DICIEMBRE DE 2015.
+
+DECRETO No. LXII-737, POR EL QUE SE DEROGA EL ARTÍCULO 9 BIS DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el 1 de enero del 2016.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 17 DE DICIEMBRE DE 2015.
+
+DECRETO No. LXII-744, POR EL QUE SE ADICIONA EL ARTÍCULO 4 BIS DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE TAMAULIPAS.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
