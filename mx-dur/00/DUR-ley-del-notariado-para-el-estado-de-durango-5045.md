@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-notariado-para-el-estado-de-durango-5045"
 country: "mx"
 rank: "ley"
 publication_date: "1974-06-20"
-last_updated: "2015-05-07"
+last_updated: "2015-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5045&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 20 de junio de 1974.
 
@@ -723,11 +723,11 @@ Puede asímismo autorizar a petición del interesado cuántos cambios de jurisdi
 
 ### CAPITULO TERCERO. DE LOS ASPIRANTES AL EJERCICIO DEL NOTARIADO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
-###### ARTICULO 70.
+###### Artículo 70.
 
-Para obtener Patente de Aspirante al Ejercicio del Notariado se deberán satisfacer los siguientes requisitos:
+Para obtener patente de aspirante al ejercicio del notariado, se deberán satisfacer los siguientes requisitos:
 
 > <small>(REFORMADA, P.O. 7 DE ENERO DE 1982)</small>
 
@@ -737,9 +737,9 @@ I.- Ser mexicano por nacimiento;
 
 II.- Haber cumplido 25 años;
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
-III.- Tener título de Licenciado en Derecho, Registrado en la Dirección de Profesiones del Estado con cinco años cuando menos de ejercicio profesional, así como acreditar conocimientos en materia notarial.
+III. Tener título de Licenciado en Derecho, Registrado en la Dirección de Profesiones del Estado, con cinco años cuando menos de ejercicio profesional.
 
 > <small>(REFORMADA, P.O. 7 DE ENERO DE 1982)</small>
 
@@ -777,11 +777,11 @@ XI.- Realizar el pago de derechos correspondiente;
 
 XII.- Ser aprobado en el examen que establece esta Ley.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
-###### ARTICULO 71.
+###### Artículo 71.
 
-Los requisitos que fijan las Fracciones I y II del Artículo 70 se comprobarán por los medios que establece el Código Civil para justificar el estado civil de las personas; los de la Fracción III por el Titulo correspondiente, inscrito en la Dirección General de Profesiones y por constancias expedidas por Jueces de primera Instancia o por el Consejo del Colegio de Notarios; los conocimientos en materia notarial se justificará (sic) con las constancia (sic) o documentos que los acrediten. Los de la Fracción IV, con certificado de dos médicos con Titulo Oficial; los de la Fracción V, con información testimonial de dos testigos idóneos recibida con audiencia del Ministerio Público y del Delegado del Consejo de Notarios, quien a su vez puede rendir pruebas en contrario; el de la Fracción VI, con certificado expedido por la Presidencia Municipal correspondiente; los de la Fracción VII, con certificación expedida por el Tribunal Superior de Justicia del Estado; los de las Fracciones VIII, IX y X no requieren prueba, pero su afirmación la admite en contrario; la Fracción XI con el recibo de pago emitido por la Secretaría de Finanzas y de Administración; los de la Fracción XII con el Acta de haber sido aprobada en el examen correspondiente.
+Los requisitos que fijan las Fracciones I y II del Artículo 70 se comprobarán por los medios que establece el Código Civil para justificar el estado civil de las personas; los de la Fracción III por el Titulo correspondiente, inscrito en la Dirección General de Profesiones y por constancias expedidas por Jueces de primera Instancia o por el Consejo del Colegio de Notarios; los conocimientos en materia notarial se justificará con las constancia (sic) o documentos que los acrediten. Los de la Fracción IV, con certificado de dos médicos con Título Oficial; el de la Fracción VI, con certificado expedido por la Presidencia Municipal correspondiente; los de la Fracción VII, con certificación expedida por el Tribunal Superior de Justicia del Estado; los de las Fracciones V, VIII, IX y X no requieren prueba, pero su afirmación la admite en contrario; la Fracción XI con el recibo de pago emitido por la Secretaría de Finanzas y de Administración; los de la Fracción XII con el Acta de haber sido aprobada en el examen correspondiente.
 
 > <small>(REFORMADO, P.O. 7 DE ENERO DE 1982)</small>
 
@@ -789,23 +789,23 @@ Los requisitos que fijan las Fracciones I y II del Artículo 70 se comprobarán 
 
 El que pretende examen de Aspirante a Notario, deberá presentar su solicitud al Ejecutivo del Estado, acompañando los documentos que justifiquen estar satisfechos los requisitos enunciados en los Artículos precedentes.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
-###### ARTICULO 73.
+###### Artículo 73.
 
-Presentada la documentación por el solicitante, el Ejecutivo del Estado, la turnará a la Dirección General de Notarías, quien hará la valoración correspondiente y señalara en coordinación con el Colegio de Notarios, el día y hora para que tenga lugar el examen correspondiente.
+Presentada la documentación por el solicitante, el Ejecutivo del Estado, la turnará a la Dirección General de Notarías, quien hará la valoración correspondiente y señalará el día y hora para que tenga lugar el examen correspondiente.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
-###### ARTICULO 74.
+###### Artículo 74.
 
-El examen se efectuará en el lugar que determine la Dirección General de Notarías, y se realizará por un jurado el que estará integrado por cinco miembros: tres serán representantes del Ejecutivo del Estado, a quienes designará el Gobernador, uno de los cuáles fungirá como Presidente y los dos restantes como Vocales. El Presidente del Consejo del Colegio de Notarios fungirá como Secretario, un representante del Colegio de Notarios como Vocal.
+El examen se efectuará en el lugar que determine la Dirección General de Notarías, y se realizará por un jurado el que estará integrado por tres miembros que serán designados por el Ejecutivo del Estado, uno de los cuáles fungirá como Presidente, otro como Secretario y el tercero como Vocal.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
-###### ARTICULO 75.
+###### Artículo 75.
 
-Consistirá el examen en una prueba práctica mediante la redacción de un instrumento, cuyo tema se sorteará de cinco propuestas, sellados, colocados en sobres cerrados por la mayoría de los miembros del Jurado. Cada uno de los miembros del Jurado podrá hacer al sustentante preguntas relacionadas con el caso jurídico notarial a que se refiere el tema, y, en general, con la función notarial.
+Consistirá el examen en una prueba práctica mediante la redacción de un instrumento, cuyo tema se sorteará de tres propuestas, sellados, colocados en sobres cerrados por la mayoría de los miembros del Jurado. Cada uno de los miembros del Jurado podrá hacer al sustentante preguntas relacionadas con el caso jurídico notarial a que se refiere el tema, y en general, con la función notarial.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2013)</small>
 
@@ -841,11 +841,11 @@ El Secretario del Jurado, levantará el Acta relativa al examen, la cual, firmad
 
 Cumplidos los requisitos exigidos en los Artículos anteriores, y si el examinado resultó aprobado, el Ejecutivo del Estado resolverá en definitiva si concede ó no, en favor del interesado, la Patente de Aspirante a Notario.
 
-> <small>(REFORMADO, P.O. 7 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
-###### ARTICULO 81.
+###### Artículo 81.
 
-La Patente de Aspirante a Notario, deberá ser registrada en la Dirección General de Notarías, en el Registro Público de la Propiedad y del Comercio de su demarcación y en el Consejo del Colegio de Notarios.
+La patente de aspirante a notario, deberá ser registrada en la Dirección General de Notarías, en el Registro Público de la Propiedad y del Comercio de su demarcación y se dará aviso al Colegio de Notarios.
 
 > <small>(REFORMADO, P.O. 7 DE ENERO DE 1982)</small>
 
@@ -869,23 +869,37 @@ No podrán considerarse como aspirante de Notario, los Jueces que por Ministerio
 
 ### CAPITULO CUARTO. DE LOS NOTARIOS
 
-> <small>(REFORMADO, P.O. 7 DE ENERO DE 1982)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
-###### ARTICULO 85.
+###### Artículo 85.
 
-Para obtener el nombramiento de Notario y ejercer, se requiere:
+Para obtener el nombramiento de notario y ejercer, se requiere:
 
-I.- Tener Patente de Aspirante al ejercicio del Notariado expedida en su favor, conforme a la Ley del Notariado del Estado de Durango vigente en la fecha de su expedición.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+l. Tener Patente de Aspirante al ejercicio del Notariado expedida en su favor;
+
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 1982)</small>
 
 II.- No tener enfermedad habitual que impida el ejercicio de las facultades intelectuales ni impedimento físico que se oponga a las funciones del Notario;
 
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 1982)</small>
+
 III.- Ser vecino del Estado;
+
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 1982)</small>
 
 IV.- No haber sido condenado por delito intencional no estar sujeto a proceso penal por delito de la misma índole;
 
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 1982)</small>
+
 V.- No haber sido cesado del ejercicio del Notariado, dentro de la República;
 
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 1982)</small>
+
 VI.- No haber sido declarado en quiebra o concurso de acreedores, salvo que haya sido rehabilitado;
+
+> <small>(REFORMADA, P.O. 7 DE ENERO DE 1982)</small>
 
 VII.- No ser ministro de algún culto religioso, ni haber hecho votos que exijan obediencia a un superior religioso;
 
@@ -907,7 +921,9 @@ Para que el Notario pueda ejercer su profesión, no basta que obtenga el nombram
 
 I.- Otorgar fianza equivalente a dos mil salarios mínimos vigentes en el Estado, ante la Secretaría de Finanzas y de Administración, misma que se actualizará en el mes de enero de cada año, atendiendo a la actualización que se haga del salario mínimo vigente en el Estado.
 
-II.- Proveerse a su costa del sello y libros del Protocolo y hacer registrar su sello y firma en la Dirección General de Notarías, en el Registro Público de la Propiedad y del Comercio respectivo y en la Secretaría del Consejo de Notarías;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+II. Proveerse a su costa del sello y libros del Protocolo y hacer registrar su sello y firma en la Dirección General de Notarías, en el Registro Público de la Propiedad y del Comercio, y dar aviso al Colegio de Notarios;
 
 III.- Otorgar la protesta legal ante el Ejecutivo del Estado, o funcionario que éste designe, dentro de los treinta días siguientes a la fecha de su nombramiento;
 
@@ -927,11 +943,11 @@ El Notario en cualquier tiempo puede substituír una garantía por otra según l
 
 La garantía se otorgará ante el Ejecutivo del Estado.
 
-> <small>(REFORMADO, P.O. 7 DE ENERO DE 1982)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
-###### ARTICULO 89.
+###### Artículo 89.
 
-Se registrará el nombramiento de Notario Titular en la Dirección General de Notarías en el Registro Público de la Propiedad y del Comercio correspondiente y en la Secretaría del Consejo del Colegio de Notarios.
+Se registrará el nombramiento de notario titular en la Dirección General de Notarías, en el Registro Público de la Propiedad y del Comercio correspondiente y se dará aviso al Colegio de Notarios.
 
 > <small>(REFORMADO, P.O. 7 DE ENERO DE 1982)</small>
 
@@ -947,29 +963,29 @@ Inmediatamente después de que el Notario comience a ejercer sus funciones, dar�
 
 ### CAPITULO QUINTO. DEL NOMBRAMIENTO DE LOS NOTARIOS
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
-###### ARTICULO 92.
+###### Artículo 92.
 
-El plazo de treinta días hábiles siguientes a la fecha de la última publicación, los pretendientes acudirán a la Dirección General de Notarías, solicitando ser admitidos a la oposición, para ello presentarán su solicitud por escrito acompañando el comprobante de pago de derechos correspondientes. La oficina respectiva anotará en cada solicitud, la fecha y la hora en que fue presentada y lo hará saber al Consejo del Colegio de Notarios; tratándose de notarios en ejercicio de sus funciones, será facultad del Ejecutivo del Estado designar al titular de la notaría en que haya sido creada o hubiere quedado vacante.
+El plazo de diez días hábiles siguientes a la fecha de la última publicación, los pretendientes acudirán a la Dirección General de Notarías, solicitando ser admitidos a la oposición, para ello presentarán su solicitud por escrito acompañando el comprobante de pago de derechos correspondientes. La oficina respectiva anotará en cada solicitud, la fecha y la hora en que fue presentada y lo hará saber al Consejo del Colegio de Notarios; tratándose de notarios en ejercicio de sus funciones, será facultad del Ejecutivo del Estado designar al titular de la notaría en que haya sido creada o hubiere quedado vacante.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
-###### ARTICULO 93.
+###### Artículo 93.
 
-La Dirección General de Notarías en coordinación con el Colegio de Notarios, señalará el lugar, día y hora para que tenga (sic) lugar los exámenes de oposición. Este señalamiento lo dará a conocer la Dirección a los concursantes, cuando menos con quince días de anticipación, por medio de oficio de manera personal o en su caso por correo certificado a la dirección que al efecto hubieren designado en su solicitud.
+La Dirección General de Notarías señalará el lugar, día y hora para que tenga lugar los exámenes de oposición. Este señalamiento lo dará a conocer la Dirección a los concursantes y al Colegio de Notarios, cuando menos con diez días de anticipación, por medio de oficio o en su caso por correo certificado a la dirección que al efecto hubieren designado en su solicitud.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 1996)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
-###### ARTICULO 94.
+###### Artículo 94.
 
-El Jurado del examen se integrará en la forma prevista en el Artículo 74 de esta Ley.
+El examen se efectuará en el lugar que determine la Dirección General de Notarías, y se realizará por un jurado que estará integrado por cinco miembros: tres serán representantes del Ejecutivo del Estado, a quienes designará el Gobernador, uno de los cuáles fungirá como Presidente y los dos restantes como Vocales. El Presidente del Consejo del Colegio de Notarios fungirá como Secretario y un representante del Colegio de Notarios como Vocal.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
-###### ARTICULO 95.
+###### Artículo 95.
 
-La oposición consistirá en un ejercicio práctico y en otro teórico. Para el primero, la mayoría de los miembros del Jurado deberán tener en sobres cerrados y numerados, diez temas para la redacción de instrumentos. Para el ejercicio del teórico, los miembros del Jurado interrogarán al sustentante sobre puntos de derecho que sean de aplicación por el notario en el ejercicio de sus funciones. Aun cuando solo se inscriba para la oposición un solo aspirante, siempre que celebrará el examen previsto en este artículo, pero se le denominará: examen para obtener el nombramiento de Notario, y producirá los mismos efectos legales que el de oposición.
+La oposición consistirá en un ejercicio práctico y en otro teórico. Para el primero, la mayoría de los miembros del Jurado deberán tener en sobres cerrados y numerados, cinco temas para la redacción de instrumentos. Para el ejercicio del teórico, los miembros del Jurado interrogarán al sustentante sobre puntos de derecho que sean de aplicación por el notario en el ejercicio de sus funciones. Aun cuando solo se inscriba para la oposición un solo aspirante, siempre que (sic) celebrará el examen previsto en este artículo, pero se le denominará: examen para obtener el nombramiento de Notario, y producirá los mismos efectos legales que el de oposición.
 
 > <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2013)</small>
 
@@ -997,9 +1013,11 @@ Será triunfador del examen de oposición, el sustentante aprobado que obtenga l
 
 Si como resultado del examen, el jurado considera que ninguno de los sustentantes es apto para el cargo, se declarará desierto el concurso y se expedirá nueva convocatoria; aquéllos sustentantes no podrán participar en otro concurso, sino hasta después de haber transcurrido 2 años del examen anterior.
 
-###### ARTICULO 100.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
-Cumplidos los requisitos a que se refieren los artículos anteriores, el Ejecutivo del Estado resolverá en definitiva si concede o niega la patente de notario al que hubiere triunfado en el exámen, en caso de concederse se registrará en la Dirección del Comercio de su demarcación y en el Consejo de (sic) Colegio de Notarios; y se publicará por una sola vez en el Periódico Oficial del Estado, a costa del interesado.
+###### Artículo 100.
+
+Cumplidos los requisitos a que se refieren los artículos anteriores, el Ejecutivo del Estado resolverá en definitiva si concede o niega la patente de notario al que hubiere triunfado en el examen, en caso de concederse se registrará en la Dirección General de Notarías, ante la Dirección del Registro Público de la Propiedad y del Comercio de su demarcación y se dará aviso al Colegio de Notarios; dicho documento se publicará por una sola vez en el Periódico Oficial del Estado, a costa del interesado.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O 16 DE DICIEMBRE DE 1979)</small>
 
@@ -1396,6 +1414,14 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
 TERCERO. En lo relativo a lo estipulado en la fracción I del artículo 86 del presente decreto, los notarios públicos que se encuentren en funciones, deberán actualizar la fianza a que se hace referencia, dentro de los sesenta días naturales a la entrada en vigor del presente decreto.
 
 P.O. 7 DE MAYO DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan las contenidas en el presente Decreto.
+
+P.O. 17 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 533.- QUE CONTIENE REFORMAS A LA LEY DEL NOTARIADO PARA EL ESTADO DE DURANGO”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
