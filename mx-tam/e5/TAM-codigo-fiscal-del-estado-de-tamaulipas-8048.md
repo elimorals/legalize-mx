@@ -4,7 +4,7 @@ identifier: "TAM-codigo-fiscal-del-estado-de-tamaulipas-8048"
 country: "mx"
 rank: "codigo"
 publication_date: "1991-12-28"
-last_updated: "2013-12-17"
+last_updated: "2015-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8048&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 CÓDIGO FISCAL DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Gobierno del Estado de Tamaulipas, el sábado 28 de diciembre de 1991.
 
@@ -591,9 +591,13 @@ Las autoridades fiscales podrán compensar de oficio las cantidades que los cont
 
 Para los efectos de este Código se entenderá como una misma contribución cuando se trate del mismo impuesto, derecho o contribución especial.
 
-###### ARTICULO 25.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-La compensación entre el Estado por una parte y la Federación, de más Entidades Federativas o Municipios, así como organismos descentralizados o empresas de participación estatal por la otra, podrá operar respecto a cualquier clase de créditos o deudas, previo acuerdo que celebren.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+###### ARTÍCULO 25.
+
+La compensación entre el Estado por una parte y la Federación, de más Entidades Federativas o Municipios, así como organismos descentralizados o empresas de participación estatal por la otra, podrá operar respecto a cualquier clase de créditos o deudas, previo acuerdo que celebren, excepto los municipios.
 
 ###### ARTICULO 26.
 
@@ -3456,3 +3460,13 @@ El presente Decreto se publicará en el Periódico Oficial del Estado y entrará
 ###### ARTÍCULO SEGUNDO.
 
 El porcentaje correspondiente a los Municipios del Estado, de la recaudación del Impuesto sobre Tenencia o Uso de Vehículos de carácter estatal establecido en el artículo 44 de la Ley de Coordinación Fiscal del Estado de Tamaulipas, no obstante lo establecido en el citado artículo, durante el año 2014 será equivalente al 37 por ciento de los ingresos obtenidos por dicho Impuesto.
+
+P.O. 17 DE DICIEMBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado y entrará en vigor el 1 de enero del 2016.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
