@@ -4,7 +4,7 @@ identifier: "TAM-constitucion-politica-del-estado-de-tamaulipas-8069"
 country: "mx"
 rank: "constitucion"
 publication_date: "1921-02-05"
-last_updated: "2015-11-12"
+last_updated: "2015-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAM"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE NOVIEMBRE DE 2015.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 12 DE NOVIEMBRE DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2015.
 
 Constitución publicada en el Periódico Oficial del Gobierno de Tamaulipas, el 5 de febrero de 1921.
 
@@ -55,11 +53,11 @@ El Estado de Tamaulipas es libre, soberano e independiente en cuanto a su Gobier
 
 El territorio del Estado comprende la antigua Provincia llamada Nuevo Santander, con las limitaciones que le hizo el Tratado de Guadalupe.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### Art. 3o.
 
-El Estado se divide en Distritos Electorales, Distritos Judiciales y Municipios. La Constitución Federal, esta Constitución y sus leyes secundarias respectivas determinarán la competencia, forma y mecanismos para determinar la extensión de cada Distrito y la Organización del Municipio.
+El Estado se divide en Distritos Electorales, Regiones y Distritos Judiciales y Municipios. La Constitución Federal, esta Constitución y sus leyes secundarias respectivas determinarán la competencia, forma y mecanismos para determinar la extensión de cada Distrito y la Organización del Municipio.
 
 > <small>(ADICIONADO, P.O. 1 DE ABRIL DE 1989)</small>
 
@@ -1913,11 +1911,11 @@ La ausencia temporal del Secretario General de Gobierno será cubierta por uno d
 
 ### CAPITULO I. De la Integración y Funcionamiento del Poder Judicial
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### Art. 100.
 
-El ejercicio del Poder Judicial se deposita en el Supremo Tribunal de Justicia, en los Juzgados de Primera Instancia, en los Juzgados Menores, en los Juzgados de Paz y en el Jurado Popular.
+El ejercicio del Poder Judicial se deposita en el Supremo Tribunal de Justicia, en los Juzgados de Primera Instancia y en los Juzgados Menores.
 
 > <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
 
@@ -1947,13 +1945,15 @@ La potestad de impartir justicia mediante el control constitucional estatal, y l
 
 Los Jueces y Magistrados no pueden ejercer otras funciones que las expresamente consignadas en la ley, salvo en los casos previstos por el artículo 112 segundo párrafo de esta Constitución. Los servidores públicos del Poder Judicial del Estado en ningún caso podrán suspender el cumplimiento de las leyes ni emitir reglamento o acuerdo alguno que entorpezca la impartición de justicia.
 
-La justicia se administrará en nombre de la ley, la que determinará las formalidades para los procedimientos judiciales. Las ejecutorias y provisiones de los Tribunales, se ejecutarán por ellos mismos, en nombre del Estado, en la forma que las leyes prescriban. El juzgador que conozca de un asunto en una instancia, no podrá hacerlo en la otra.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 13 DE JUNIO DE 2015)</small>
+La justicia se impartirá en nombre de la ley, la que determinará las formalidades para los procedimientos judiciales. Las ejecutorias y provisiones de los Tribunales, se ejecutarán por ellos mismos, en nombre del Estado, en la forma que las leyes prescriban. El juzgador que conozca de un asunto en una instancia, no podrá hacerlo en la otra.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### Art. 103.
 
-En los términos que disponen las leyes, es obligatorio para los servidores públicos y para toda persona, cumplir las sentencias y demás resoluciones firmes del Supremo Tribunal de Justicia, de sus Salas, de sus Magistrados, del Consejo de la Judicatura y de los Jueces; así como prestar la colaboración solicitada por cualquiera de esos ámbitos o titulares de función en el curso de un proceso o en la ejecución de lo resuelto. La autoridad requerida en forma para el cumplimiento de una orden judicial, deberá proporcionar de inmediato los elementos necesarios para ello, bajo pena de hacerse acreedora a las sanciones que la ley determine.
+En los términos que disponen las leyes, es obligatorio para los servidores públicos y para toda persona, cumplir las sentencias y demás resoluciones firmes del Supremo Tribunal de Justicia; así como prestar la colaboración solicitada por éste en el curso de un proceso o en la ejecución de lo resuelto. La autoridad requerida en forma, deberá proporcionar el auxilio necesario para ello, bajo pena de hacerse acreedora a las sanciones que la ley determine.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
@@ -1963,11 +1963,11 @@ En los términos que disponen las leyes, es obligatorio para los servidores púb
 
 Los servidores públicos del Poder Judicial del Estado deberán rendir la protesta a que se refiere el primer párrafo del artículo 158 de esta Constitución, previo al ejercicio de su encargo. Los Magistrados y los Consejeros de la Judicatura lo harán ante el Congreso del Estado, con excepción de su presidente, y los jueces ante el Pleno del Supremo Tribunal de Justicia. El resto de los servidores públicos del Poder Judicial lo harán ante su superior jerárquico inmediato.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### Art. 105.
 
-Los delitos imputables a los servidores públicos de la administración de justicia producen acción popular contra los mismos y contra sus cómplices, de acuerdo con lo dispuesto por el Título XI de esta Constitución.
+Los delitos y responsabilidades imputables a los servidores públicos del Poder Judicial, se sustanciarán y sancionarán de acuerdo con lo dispuesto por el Título XI de esta Constitución.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
@@ -2005,7 +2005,9 @@ Las personas que hayan ocupado el cargo de Consejero de la Judicatura, no podrá
 
 Los designados consejeros, una vez concluida dicha encomienda, podrán continuar su carrera judicial en un cargo similar al que desempeñaban previo a su designación como consejeros, si fuera el caso. El Consejo dispondrá su adscripción en términos de esta Constitución.
 
-El Consejo de la Judicatura del Estado funcionará en Pleno o en comisiones. El Pleno sesionará con la presencia de su Presidente y de, al menos, tres de sus integrantes.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+El Consejo de la Judicatura del Estado funcionará en Pleno o en comisiones. El Pleno sesionará con la presencia de al menos tres de sus integrantes, de los cuales uno deberá ser su Presidente o quien legalmente lo supla.
 
 III.- (DEROGADA, P.O. 13 DE JUNIO DE 2015)
 
@@ -2055,9 +2057,9 @@ Si la vacante para la integración del Supremo Tribunal de Justicia se produce e
 
 Los Magistrados y los consejeros serán inamovibles durante el periodo de su encargo, el cual cesará únicamente en los términos del Título XI de esta Constitución. Son causas de retiro forzoso:
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
-I.- Haber cumplido 70 años de edad;
+I.- Haber cumplido 75 años de edad;
 
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 1999)</small>
 
@@ -2151,9 +2153,9 @@ I.- Resolver las controversias constitucionales y las acciones de inconstitucion
 
 II.- Turnar a las Salas que correspondan los asuntos familiares, civiles, penales o de justicia para adolescentes y de aquellos que establezcan otras leyes, que al efecto remitan los jueces, para sustanciar la segunda instancia;
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
-III.- Conocer en Pleno de las controversias del orden civil o mercantil que se susciten entre particulares y el Estado;
+III.- Conocer en Pleno de las controversias del orden civil o mercantil que se susciten entre particulares y el Estado; con excepciones de los asuntos de extinción de dominio, acorde a la ley respectiva;
 
 IV.- Erigirse en jurado de sentencia para conocer y resolver, sin recurso ulterior, las causas que se instruyan contra servidores públicos, conforme a lo dispuesto por el Título XI de esta Constitución;
 
@@ -2181,17 +2183,25 @@ El informe se entregará por escrito al Congreso del Estado, en la modalidad que
 
 XIII.- Acordar, en los casos que considere necesario, la propuesta al Gobernador del Estado para la creación de Magistraturas Supernumerarias y de Magistraturas Regionales;
 
-XIV.- Nombrar, a los jueces de primera instancia, a los jueces menores y a los jueces de paz y, en su caso, determinar sobre su ratificación con base en la propuesta correspondiente del Consejo de la Judicatura;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+XIV.- Nombrar, a los jueces de primera instancia y a los jueces menores y, en su caso, determinar sobre su ratificación con base en la propuesta correspondiente del Consejo de la Judicatura;
 
 XV.- Tomar la protesta de ley, por conducto del Presidente, a los jueces de primera instancia, los jueces menores y los jueces de paz;
 
-XVI.- Calificar los impedimentos de los Magistrados para conocer de los asuntos sometidos a su jurisdicción, en caso de excusa o recusación, en los términos previstos por la ley;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+XVI.- Calificar los impedimentos de los Magistrados de Sala Unitaria para conocer de los asuntos sometidos a su jurisdicción, en caso de excusa o recusación, en los términos previstos por la ley;
 
 XVII.- Conceder licencias hasta por un mes a los Magistrados del Poder Judicial, así como admitir sus renuncias, sancionar sus faltas y fijar los períodos de vacaciones del propio Poder Judicial, en los términos que determine la ley;
 
 XVIII.- Conocer las quejas que se formulen contra los Magistrados del Supremo Tribunal de Justicia, con motivo del ejercicio de sus funciones, las cuales se sustanciarán de acuerdo al procedimiento establecido en la ley, así como resolver, en única instancia, los juicios de responsabilidad civil que se promuevan en contra de los mismos;
 
-XIX.- Conocer y resolver, en única instancia, las causas que se instruyan en contra de alguno de sus miembros, los jueces de primera instancia, los jueces menores y los jueces de paz por delitos cometidos en el ejercicio de sus funciones, y de las que deban sustanciarse contra los secretarios del mismo Tribunal, por faltas y abusos cometidos en el desempeño de sus cargos;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+XIX.- Conocer y resolver, en única instancia, las causas que se instruyan en contra de alguno de los magistrados, los consejeros de la judicatura, los jueces de primera instancia y los jueces menores por delitos cometidos en el ejercicio de sus funciones, y de las que deban sustanciarse contra los secretarios del mismo Tribunal, por faltas y abusos cometidos en el desempeño de sus cargos;
 
 XX.- Imponer correcciones disciplinarias a los Magistrados Numerarios, Supernumerarios y Regionales, en los términos que determine la ley;
 
@@ -2217,7 +2227,9 @@ B. Del Consejo de la Judicatura:
 
 I.- Nombrar, adscribir, confirmar, remover o suspender al personal del Poder Judicial, excepto a los Magistrados y el personal que tenga señalado un procedimiento específico para ello;
 
-II.- Proponer al Pleno del Supremo Tribunal de Justicia el nombramiento, ratificación, remoción o suspensión de los jueces del Poder Judicial del Estado;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+II.- Proponer al Pleno del Supremo Tribunal de Justicia el nombramiento, ratificación o remoción de los jueces del Poder Judicial del Estado;
 
 III.- Designar a quien deba suplir a los funcionarios del Poder Judicial, excepto a los Magistrados del Supremo Tribunal de Justicia, en los casos de ausencias temporales, de acuerdo con lo dispuesto en la ley;
 
@@ -2307,13 +2319,11 @@ En las causas que hubieren de formarse a los Magistrados en funciones, una vez q
 
 ### CAPITULO II. De los Otros Órganos de Impartición de Justicia
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### Art. 117.
 
-Para la impartición de justicia se designarán jueces de primera instancia, jueces menores y jueces de paz, conforme a la ley.
+Para la impartición de justicia, el Pleno del Supremo Tribunal de Justicia designará jueces de primera instancia y jueces menores, conforme lo determine la ley.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
@@ -2331,39 +2341,37 @@ Los jueces integrantes del Poder Judicial serán nombrados por el Pleno del Supr
 
 Los juzgados menores funcionarán en aquellos Municipios que el Consejo de la Judicatura considere necesario.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### Art. 120.
 
-La ley determinará los distritos judiciales en que se dividirá el Estado, el número de Jueces de Primera Instancia, de Jueces Menores y de Jueces de Paz, así como los requisitos para desempeñar esa función y la duración de la misma. La ley también señalará la competencia y jurisdicción de dichas autoridades judiciales, y regulará todo lo relativo a la organización de los tribunales a su cargo.
+La ley determinará las circunscripciones territoriales en que se dividirá el Estado; asimismo, sentará las bases para fijar la competencia de las autoridades judiciales y su organización, así como los requisitos para ejercer la función jurisdiccional y su duración.
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+###### Art. 121.
+
+El Consejo de la Judicatura determinará el número de jueces de primera instancia y de jueces menores, la naturaleza y la materia en que han de impartir justicia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+###### Art. 122.
+
+Los jueces de primera instancia y los jueces menores serán los necesarios para el despacho pronto y expedito de los asuntos de su competencia.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
 > <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
 
-Para su modificación, el Consejo de la Judicatura propondrá un proyecto para que, una vez analizado y aprobado por el Pleno, se plantee al Congreso del Estado en ejercicio de la facultad de iniciativa del Supremo Tribunal del (sic) Justicia.
-
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 2007)</small>
-
-###### Art. 121.
-
-Los Juzgados de Primera Instancia, los Juzgados Menores y los Juzgados de Paz serán sostenidos por el Poder Judicial del Estado.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
-
-> <small>(REFORMADO, P.O. 17 DE JUNIO DE 2009)</small>
-
-###### Art. 122.
-
-Los jueces de primera instancia, los jueces menores y los jueces de paz serán los necesarios para el despacho pronto y expedito de los asuntos de su competencia.
-
 Los jueces de primera instancia durarán en su cargo tres años y podrán ser ratificados por periodos iguales. Al efecto, el Pleno del Supremo Tribunal de Justicia considerará la propuesta del Consejo de la Judicatura.
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### Art. 123.
 
-Toda parte interesada puede interponer queja ante el Supremo Tribunal de Justicia, cuando a su juicio, los Magistrados o Jueces o demás servidores del Poder Judicial incurran en faltas administrativas. La ley regulará dicho procedimiento.
+Toda parte interesada puede interponer queja, en los términos que señale la ley, cuando a su juicio, los Magistrados, Jueces o demás servidores del Poder Judicial incurran en faltas administrativas.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
@@ -4420,6 +4428,24 @@ P.O. 9 DE NOVIEMBRE DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE DICIEMBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+En tanto se realicen las correspondientes reformas a la Ley Orgánica del Poder Judicial del Estado, la competencia de los Juzgados de Paz continuará a cargo de los Juzgados Menores.
+
+###### ARTÍCULO TERCERO.
+
+La reforma del artículo 114 apartado A fracción XVI entrará en vigor una vez que quede regulado el procedimiento para resolver las excusas e impedimentos de magistrados integrantes en Sala Colegiada dentro de la Ley Orgánica del Poder Judicial del Estado.
+
+###### ARTÍCULO CUARTO.
+
+Se deroga toda disposición que contravenga lo regulado dentro del presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DECLARA REFORMADAS Y ADICIONADAS DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
 
