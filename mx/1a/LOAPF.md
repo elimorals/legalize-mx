@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "2015-05-13"
+last_updated: "2015-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAPF"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 29 de diciembre de 1976.
 
@@ -35,6 +35,8 @@ Que el H. Congreso de la Unión se ha servido dirigirme el siguiente
 DECRETO
 
 "El Congreso de los Estados Unidos Mexicanos, decreta:
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO SEGUNDO DEL DECRETO PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 17 DE DICIEMBRE DE 2015, LAS MENCIONES CONTENIDAS EN LEYES, REGLAMENTOS Y DISPOSICIONES DE CUALQUIER NATURALEZA, RESPECTO DEL CONSEJO NACIONAL PARA LA CULTURA Y LAS ARTES, SE ENTENDERÁN REFERIDAS A LA SECRETARÍA DE CULTURA.</small>
 
 LEY ORGANICA DE LA ADMINISTRACION PUBLICA FEDERAL
 
@@ -316,9 +318,7 @@ Cuando alguna Secretaría de Estado o la Oficina de la Presidencia de la Repúbl
 
 ### CAPÍTULO II. De la Competencia de las Secretarías de Estado y Consejería Jurídica del Ejecutivo Federal
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 5.
 
@@ -346,39 +346,41 @@ Las comunicaciones de jurisdicción local comprenden la infraestructura vial pri
 
 Para el despacho de los asuntos del orden administrativo, el Poder Ejecutivo de la Unión contará con las siguientes dependencias:
 
-Secretaría de Gobernación
+Secretaría de Gobernación;
 
-Secretaría de Relaciones Exteriores
+Secretaría de Relaciones Exteriores;
 
-Secretaría de la Defensa Nacional
+Secretaría de la Defensa Nacional;
 
-Secretaría de Marina
+Secretaría de Marina;
 
-Secretaría de Hacienda y Crédito Público
+Secretaría de Hacienda y Crédito Público;
 
-Secretaría de Desarrollo Social
+Secretaría de Desarrollo Social;
 
-Secretaría de Medio Ambiente y Recursos Naturales
+Secretaría de Medio Ambiente y Recursos Naturales;
 
-Secretaría de Energía
+Secretaría de Energía;
 
-Secretaría de Economía
+Secretaría de Economía;
 
-Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación
+Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación;
 
-Secretaría de Comunicaciones y Transportes
+Secretaría de Comunicaciones y Transportes;
 
-Secretaría de Educación Pública
+Secretaría de Educación Pública;
 
-Secretaría de Salud
+Secretaría de Salud;
 
-Secretaría del Trabajo y Previsión Social
+Secretaría del Trabajo y Previsión Social;
 
-Secretaría de Desarrollo Agrario, Territorial y Urbano
+Secretaría de Desarrollo Agrario, Territorial y Urbano;
 
-Secretaría de Turismo
+Secretaría de Cultura;
 
-Consejería Jurídica del Ejecutivo Federal
+Secretaría de Turismo, y
+
+Consejería Jurídica del Ejecutivo Federal.
 
 > <small>(REFORMADO, D.O.F. 2 DE ENERO DE 2013)</small>
 
@@ -1620,7 +1622,9 @@ e) La enseñanza superior y profesional.
 
 f) La enseñanza deportiva y militar, y la cultura física en general;
 
-II.- Organizar y desarrollar la educación artística que se imparta en las escuelas e institutos oficiales, incorporados o reconocidos para la enseñanza y difusión de las bellas artes y de las artes populares;
+> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+II.- Organizar y desarrollar la educación artística, en coordinación con la Secretaría de Cultura, que se imparta en las escuelas e institutos oficiales, incorporados o reconocidos para la enseñanza y difusión de las bellas artes y de las artes populares;
 
 III.- Crear y mantener las escuelas oficiales en el Distrito Federal, excluídas las que dependen de otras dependencias;
 
@@ -1634,37 +1638,37 @@ VII.- Organizar, administrar y enriquecer sistemáticamente las bibliotecas gene
 
 VIII.- Promover la creación de institutos de investigación científica y técnica, y el establecimiento de laboratorios, observatorios, planetarios y demás centros que requiera el desarrollo de la educación primaria, secundaria, normal, técnica y superior; orientar, en coordinación con las dependencias competentes del Gobierno Federal y con las entidades públicas y privadas el desarrollo de la investigación científica y tecnológica;
 
-IX.- Patrocinar la realización de congresos, asambleas y reuniones, eventos, competencias y concursos de carácter científico, técnico, cultural, educativo y artístico;
+> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
 
-X.- Fomentar las relaciones de orden cultural con los países extranjeros, con la colaboración de la Secretaría de Relaciones Exteriores;
+IX.- Patrocinar la realización de congresos, asambleas y reuniones, eventos, competencias y concursos de carácter científico, técnico y educativo;
+
+X.- (DEROGADA, D.O.F. 17 DE DICIEMBRE DE 2015)
 
 > <small>(REFORMADA, D.O.F. 21 DE FEBRERO DE 1992)</small>
 
 XI.- Mantener al corriente el escalafón del magisterio y el seguro del maestro, y crear un sistema de compensaciones y estímulos para el profesorado; atendiendo a las directrices que emita la Secretaría de Hacienda y Crédito Público sobre el sistema general de administración y desarrollo de personal;
 
-XII.- Organizar, controlar y mantener al corriente el registro de la propiedad literaria y artística;
+XII.- (DEROGADA, D.O.F. 17 DE DICIEMBRE DE 2015)
 
 XIII.- Otorgar becas para que los estudiantes de nacionalidad mexicana puedan realizar investigaciones o completar ciclos de estudios en el extranjero;
 
-XIV.- Estimular el desarrollo del teatro en el país y organizar concursos para autores, actores y escenógrafos y en general promover su mejoramiento;
+XIV.- (DEROGADA, D.O.F. 17 DE DICIEMBRE DE 2015)
 
 XV.- Revalidar estudios y títulos, y conceder autorización para el ejercicio de las capacidades que acrediten;
 
 XVI.- Vigilar, con auxilio de las asociaciones de profesionistas, el correcto ejercicio de las profesiones;
 
-XVII.- Organizar misiones culturales;
+XVII.- (DEROGADA, D.O.F. 17 DE DICIEMBRE DE 2015)
 
-XVIII.- Formular el catálogo del patrimonio histórico nacional;
+XVIII.- (DEROGADA, D.O.F. 17 DE DICIEMBRE DE 2015)
 
-XIX.- Formular y manejar el catálogo de los monumentos nacionales;
+XIX.- (DEROGADA, D.O.F. 17 DE DICIEMBRE DE 2015)
 
-XX.- Organizar, sostener y administrar museos históricos, arqueológicos y artísticos, pinacotecas y galerías, a efecto de cuidar la integridad, mantenimiento y conservación de tesoros históricos y artísticos del patrimonio cultural del país;
+XX.- (DEROGADA, D.O.F. 17 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 1994)</small>
+XXI.- (DEROGADA, D.O.F. 17 DE DICIEMBRE DE 2015)
 
-XXI.- Conservar, proteger y mantener los monumentos arqueológicos, históricos y artísticos que conforman el patrimonio cultural de la Nación, atendiendo las disposiciones legales en la materia;
-
-XXII.- Organizar exposiciones artísticas, ferias, certámenes, concursos, audiciones, representaciones teatrales y exhibiciones cinematográficas de interés cultural;
+XXII.- (DEROGADA, D.O.F. 17 DE DICIEMBRE DE 2015)
 
 XXIII.- Determinar y organizar la participación oficial del país en competencias deportivas internacionales, organizar desfiles atléticos y todo género de eventos deportivos, cuando no corresponda hacerlo expresamente a otra dependencia del Gobierno Federal;
 
@@ -1680,17 +1684,19 @@ XXVI.- (DEROGADA, D.O.F. 25 DE MAYO DE 1992)
 
 XXVII.- Organizar, promover y supervisar programas de capacitación y adiestramiento en coordinación con las dependencias del Gobierno Federal, los Gobiernos de los Estados, del Distrito Federal y de los Municipios, las entidades públicas y privadas, así como los fideicomisos creados con tal propósito. A este fin organizará, igualmente, servicios de educación básica para adultos y sistemas de orientación vocacional de enseñanza abierta y de acreditación de estudios;
 
-XXVIII.- Orientar las actividades artísticas, culturales, recreativas y deportivas que realice el sector público federal;
+> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
+XXVIII.- Orientar las actividades recreativas y deportivas que realice el sector público federal;
 
-XXIX.- Establecer los criterios educativos y culturales en la producción cinematográfica, de radio y televisión y en la industria editorial;
+> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+XXIX.- Establecer los criterios educativos en la producción cinematográfica, de radio y televisión y en la industria editorial;
 
 XXX.- Organizar y promover acciones tendientes al pleno desarrollo de la juventud y a su incorporación a las tareas nacionales, estableciendo para ello sistemas de servicio social, centro de estudio, programas de recreación y de atención a los problemas de los jóvenes. Crear y organizar a este fin sistemas de enseñanza especial para niños, adolescentes y jóvenes que lo requieran, y
 
-> <small>(REFORMADA, D.O.F. 9 DE ABRIL DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
 
-XXX bis.- Promover la producción cinematográfica, de radio y televisión y de la industria editorial, con apego a lo dispuesto por el artículo 3o. constitucional cuando se trate de cuestiones educativas; dirigir y coordinar la administración de las estaciones radiodifusoras y televisoras pertenecientes al Ejecutivo Federal, con exclusión de las que dependan de otras Secretarías de Estado; y
+XXX Bis.- Promover la producción cinematográfica, de radio y televisión y de la industria editorial, con apego a lo dispuesto por el artículo 3o. constitucional cuando se trate de cuestiones educativas y dirigir y coordinar la administración de las estaciones radiodifusoras y televisoras pertenecientes al Ejecutivo Federal, con exclusión de las que dependan de otras Secretarías de Estado. Aquellas estaciones de radio que incorporen en su programación contenido cultural deberán tomar en consideración las directrices que en esta materia le proponga la Secretaría de Cultura, y
 
 XXXI.- Los demás que le fijen expresamente las leyes y reglamentos.
 
@@ -1881,6 +1887,62 @@ XXI. Aportar diagnósticos y estudios al Consejo Nacional de Población en mater
 XXII. Ejercitar el derecho de expropiación por causa de utilidad pública en aquellos casos no encomendados a otra dependencia; y
 
 XXIII. Los demás que le fijen expresamente las leyes y reglamentos.
+
+> <small>(ADICIONADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+ARTICULO 41 BIS.- A la Secretaría de Cultura corresponde el despacho de los siguientes asuntos:
+
+I. Elaborar y conducir la política nacional en materia de cultura con la participación que corresponda a otras dependencias y entidades de la Administración Pública Federal;
+
+II. Conservar, proteger y mantener los monumentos arqueológicos, históricos y artísticos que conforman el patrimonio cultural de la Nación;
+
+III. Conducir la elaboración del Programa Nacional de Cultura, de conformidad con las disposiciones jurídicas aplicables, así como su implementación y evaluación;
+
+IV. Coordinar, conforme a las disposiciones jurídicas aplicables, las acciones que realizan las unidades administrativas e instituciones públicas pertenecientes a la Administración Pública Federal centralizada y paraestatal en materias de:
+
+a) Investigación científica sobre Antropología e Historia relacionada principalmente con la población del país y con la conservación y restauración del patrimonio cultural, arqueológico e histórico, así como el paleontológico; la protección, conservación, restauración y recuperación de ese patrimonio y la promoción y difusión de dichas materias, y
+
+b) Cultivo, fomento, estímulo, creación, educación profesional, artística y literaria, investigación y difusión de las bellas artes en las ramas de la música, las artes plásticas, las artes dramáticas y la danza, las bellas letras en todos sus géneros y la arquitectura;
+
+V. Organizar y administrar bibliotecas públicas y museos, exposiciones artísticas, congresos y otros eventos de interés cultural;
+
+VI. Proponer programas de educación artística a la Secretaría de Educación Pública, que se impartan en las escuelas e institutos oficiales, incorporados o reconocidos para la enseñanza y difusión de las bellas artes y de las artes populares;
+
+VII. Diseñar estrategias, mecanismos e instrumentos, así como fomentar la elaboración de programas, proyectos y acciones para promover y difundir la cultura, la historia y las artes, así como impulsar la formación de nuevos públicos, en un marco de participación corresponsable de los sectores público, social y privado;
+
+VIII. Promover los medios para la difusión y desarrollo de la cultura, atendiendo la diversidad cultural en todas sus manifestaciones y expresiones;
+
+IX. Planear, dirigir y coordinar las tareas relacionadas con las lenguas indígenas, así como fomentar su conservación;
+
+X. Promover e impulsar la investigación, conservación y promoción de la historia, las tradiciones y el arte popular;
+
+XI. Fomentar las relaciones de orden cultural con otros países; facilitar la celebración de convenios de intercambio de educandos en las especialidades de las artes y la cultura universal; y definir la proyección de la cultura mexicana en el ámbito internacional, tanto bilateral como multilateral, con la colaboración de la Secretaría de Relaciones Exteriores;
+
+XII. Promover la producción cinematográfica, de radio y televisión y en la industria editorial temas de interés cultural y artístico y de aquéllas tendientes al mejoramiento cultural y la propiedad del idioma nacional, así como diseñar, promover y proponer directrices culturales y artísticos en dichas producciones;
+
+XIII. Dirigir y coordinar la administración de las estaciones radiodifusoras y televisoras pertenecientes al Ejecutivo Federal, que transmitan programación con contenido preponderantemente cultural, con exclusión de las que dependan de otras dependencias;
+
+XIV. Estimular el desarrollo y mejoramiento del teatro en el país, así como organizar concursos para autores, actores y escenógrafos;
+
+XV. Otorgar becas para que los estudiantes de nacionalidad mexicana puedan realizar investigaciones o completar ciclos de estudios relacionados con las artes en el extranjero;
+
+XVI. Promover e impulsar, en coordinación con otras dependencias, el uso de las tecnologías de la información y comunicación para la difusión y desarrollo de la cultura, así como de los bienes y servicios culturales que presta el Estado, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa, conforme a las disposiciones aplicables;
+
+XVII. Ejercer todas las atribuciones que la Ley General de Bienes Nacionales y la Ley Federal sobre Monumentos Arqueológicos, Artísticos e Históricos establecen respecto de monumentos arqueológicos, artísticos e históricos, así como respecto de las zonas de monumentos arqueológicos, artísticos e históricos;
+
+XVIII. Organizar, controlar y mantener actualizado el registro de la propiedad literaria y artística, así como ejercer las facultades en materia de derechos de autor y conexos de conformidad con lo dispuesto en la Ley Federal del Derecho de Autor;
+
+XIX. Formular el catálogo del patrimonio histórico nacional;
+
+XX. Formular y manejar el catálogo de los monumentos nacionales;
+
+XXI. Organizar, sostener y administrar museos históricos, arqueológicos y artísticos, pinacotecas y galerías, a efecto de cuidar la integridad, mantenimiento y conservación de tesoros históricos y artísticos del patrimonio cultural del país;
+
+XXII. Establecer Consejos Asesores, de carácter interinstitucional, en los que también podrán participar especialistas en las materias competencia de la Secretaría;
+
+XXIII. Elaborar y suscribir convenios, acuerdos, bases de coordinación y demás instrumentos jurídicos con órganos públicos o privados, nacionales e internacionales, en asuntos de su competencia, y
+
+XXIV. Los demás que le fijen expresamente las leyes y reglamentos.
 
 > <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
 
@@ -2877,6 +2939,34 @@ Cuarto.- La Secretaría de Educación Pública, las dependencias del Gobierno Fe
 D.O.F. 13 DE MAYO DE 2015.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE DICIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El Consejo Nacional para la Cultura y las Artes se transforma en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto del Consejo Nacional para la Cultura y las Artes, se entenderán referidas a la Secretaría de Cultura.
+
+TERCERO. Los derechos laborales de los trabajadores que presten sus servicios en el Consejo Nacional para la Cultura y las Artes, en la Secretaría de Educación Pública, en los órganos administrativos desconcentrados y en las entidades paraestatales que, con motivo de la entrada en vigor del presente Decreto, queden adscritos o coordinados a la Secretaría de Cultura, respectivamente, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+CUARTO. El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, continuarán rigiéndose por sus respectivas leyes y demás disposiciones aplicables y dependerán de la Secretaría de Cultura, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Educación Pública.
+
+Los órganos administrativos desconcentrados denominados Radio Educación e Instituto Nacional de Estudios Históricos de las Revoluciones de México, se adscribirán a la Secretaría de Cultura y mantendrán su naturaleza jurídica.
+
+QUINTO. La Secretaría de Cultura integrará los diversos consejos, comisiones intersecretariales y órganos colegiados previstos en las disposiciones jurídicas aplicables, según el ámbito de sus atribuciones.
+
+SEXTO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+SÉPTIMO. Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Consejo Nacional para la Cultura y las Artes continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+Asimismo, todas las disposiciones, lineamientos, criterios y demás normativa emitida por el Secretario de Educación Pública que contengan disposiciones concernientes al Consejo Nacional para la Cultura y las Artes o los órganos administrativos desconcentrados que éste coordina, continuará en vigor en lo que no se opongan al presente Decreto, en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+OCTAVO. Las atribuciones y referencias que se hagan a la Secretaría de Educación Pública o al Secretario de Educación Pública que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura.
+
+NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
+
+DÉCIMO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
 
 D.O.F. 18 DE DICIEMBRE DE 2015.
 
