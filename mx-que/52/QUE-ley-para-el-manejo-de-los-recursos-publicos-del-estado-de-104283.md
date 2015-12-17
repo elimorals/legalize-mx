@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-el-manejo-de-los-recursos-publicos-del-estado-de-10428
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-20"
-last_updated: "2014-12-20"
+last_updated: "2015-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104283&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el sábado 20 de diciembre de 2014.
 
@@ -57,43 +57,65 @@ La interpretación de esta Ley corresponde a la Secretaría de Planeación y Fin
 
 La Ley de Procedimientos Administrativos del Estado de Querétaro y el Código Fiscal del Estado de Querétaro, serán supletorios de esta Ley, en lo conducente.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 2.
 
 Para efectos de esta Ley, se entenderá por:
 
-I. Dependencias: las unidades administrativas encargadas de la atención de los asuntos encomendados a los sujetos de la Ley, determinadas en las leyes orgánicas o disposiciones análogas respectivas;
+I. Asociaciones Público Privadas: las así previstas por la Ley de Asociaciones Público Privadas para el Estado de Querétaro;
 
-II. Deuda pública: la señalada en la ley relativa;
+II. Balance presupuestario: la diferencia entre los ingresos totales incluidos en las Leyes de Ingresos del Estado y los municipios, con excepción de los financiamientos, y los gastos totales considerados en el Presupuesto de Egresos correspondiente, con excepción de la amortización de la deuda;
 
-III. Entidades: las entidades paraestatales y paramunicipales que tengan ese carácter en términos de las disposiciones respectivas;
+III. Balance presupuestario de recursos disponibles: la diferencia entre los ingresos de libre disposición y el gasto corriente o de operación considerados en el Presupuesto de Egresos correspondiente, con excepción de la amortización de la deuda;
 
-IV. Estado: el Estado de Querétaro;
+IV. Dependencias: las unidades administrativas encargadas de la atención de los asuntos encomendados a los sujetos de la Ley, determinadas en las leyes orgánicas o disposiciones análogas respectivas;
 
-V. Gasto administrativo: las erogaciones que se realizan para la gestión administrativa y servicios de la deuda pública, así como otros servicios de apoyo relacionados con dicha gestión;
+V. Deuda pública: la señalada en la ley relativa;
 
-VI. Gasto público: la totalidad de las erogaciones aprobadas en los Presupuestos de Egresos, que permiten dar cumplimiento al Plan Estatal de Desarrollo;
+VI. Entidades: las entidades paraestatales y paramunicipales que tengan ese carácter en términos de las disposiciones respectivas;
 
-VII. Gasto social: las erogaciones orientadas a los servicios de salud, educación, procuración de justicia, asistencia social, concertación, seguridad, cultura, recreación, deporte, investigación y desarrollo económico. Asimismo, incluye la inversión en obras y acciones que determine el titular del Poder Ejecutivo del Estado;
+VII. Estado: el Estado de Querétaro;
 
-VIII. Legislatura: la asamblea en la que se deposita el Poder Legislativo del Estado de Querétaro;
+VIII. Fortalecimiento financiero: las erogaciones que tengan por objeto hacer frente a compromisos de pago en materia de gasto social y obra social; contingencias financieras derivadas de, entre otras, avales, juicios laborales, civiles, fiscales, etc.; presiones presupuestarias de programas gubernamentales, tanto estatales como federales, y transferencias de gasto federalizado en los sectores educativo y de salud; así como para mantener el balance presupuestario en el ejercicio fiscal de que se trate, en términos de la presente ley.
 
-IX. Municipios: los señalados en la Constitución Política del Estado de Querétaro;
+IX. Gasto administrativo: las erogaciones que se realizan para la gestión administrativa y servicios de la deuda pública, así como otros servicios de apoyo relacionados con dicha gestión;
 
-X. Organismos constitucionales autónomos: los que con ese carácter contemple la Constitución Política del Estado de Querétaro;
+X. Gasto corriente: las erogaciones que realizan el Estado y los municipios para cubrir servicios personales, materiales y suministros, servicios generales, transferencias, asignaciones, compromisos multianuales, subsidios y otras ayudas, incluidas las pensiones y jubilaciones, con excepción de la amortización de la deuda, y la inversión pública;
 
-XI. Obra social: las erogaciones destinadas a la vivienda, alimentación, reducción de la pobreza, fomento de la equidad, desarrollo urbano, saneamiento, desarrollo humano y promoción de empleo, así como aquellas orientadas al cumplimiento de los compromisos de pago adquiridos con motivo de los proyectos de infraestructura y obra pública y de los instrumentos de inversión a largo plazo contratados por el Estado, con el propósito de crear o desarrollar infraestructura productiva y de prestar servicios públicos y, en general, todas aquellas destinadas a proveer servicios y bienes públicos a las personas;
+XI. Gasto público: la totalidad de las erogaciones aprobadas en los Presupuestos de Egresos, que permiten dar cumplimiento al Plan Estatal de Desarrollo;
 
-XII. Órganos desconcentrados: los órganos de la administración pública con autonomía técnica y de gestión, jerárquicamente subordinados a las dependencias que al efecto se señalen, establecidos por el Gobernador del Estado de Querétaro;
+XII. Gasto social: las erogaciones orientadas a los servicios de salud, educación, procuración de justicia, asistencia social, concertación, seguridad, cultura, recreación, deporte, investigación y desarrollo económico. Asimismo, incluye la inversión en obras y acciones que determine el titular del Poder Ejecutivo del Estado;
 
-XIII. Poderes: los Poderes Legislativo, Ejecutivo y Judicial del Estado de Querétaro, en su conjunto;
+XIII. Gasto total: la totalidad de las erogaciones aprobadas en los Presupuesto de Egresos del Estado y los municipios, con cargo a los ingresos previstos en la Ley de Ingresos correspondiente;
 
-XIV. Recursos públicos: los ingresos que con base en las Leyes de Ingresos obtengan el Estado y los municipios, así como cualquier bien que conforme la hacienda pública;
+XIV. Ingresos de libre disposición: los ingresos locales y las participaciones federales, en los porcentajes que correspondan al estado o Municipio, así como cualquier otro recurso que conforme a su normativa no esté destinado a un fin específico;
 
-XV. Secretaría: la Secretaría de Planeación y Finanzas, dependiente del Poder Ejecutivo del Estado de Querétaro;
+XV. Ingresos locales: aquéllos percibidos por el Estado y los Municipios por impuestos, contribuciones de mejoras, derechos, productos y aprovechamientos, incluidos los recibidos por venta de bienes y prestación de servicios;
 
-XVI. Sujetos de la Ley: los indicados en el artículo 3 de la presente Ley; y
+XVI. Ingresos totales: la totalidad de los Ingresos previstos en la Ley de Ingresos que corresponda;
 
-XVII. Unidad de administración: las dependencias, unidades o áreas adscritas a los sujetos de la Ley, con excepción de los municipios, encargadas de desempeñar funciones relativas a la administración de recursos financieros o sus equivalentes, con independencia de la denominación que se les otorgue.
+XVII. Legislatura: la asamblea en la que se deposita el Poder Legislativo del Estado de Querétaro;
+
+XVIII. Municipios: los señalados en la Constitución Política del Estado de Querétaro;
+
+XIX. Organismos constitucionales autónomos: los que con ese carácter contemple la Constitución Política del Estado de Querétaro;
+
+XX. Obra social: las erogaciones destinadas a la vivienda, alimentación, reducción de la pobreza, fomento de la equidad, desarrollo urbano, saneamiento, desarrollo humano y promoción de empleo, así como aquellas orientadas al cumplimiento de los compromisos de pago adquiridos con motivo de los proyectos de infraestructura y obra pública y cualquier otro instrumento jurídico en el que se establezcan obligaciones de pago plurianuales y, en general, todas aquellas destinadas a proveer servicios y bienes públicos a las personas;
+
+XXI. Órganos desconcentrados: los órganos de la administración pública con autonomía técnica y de gestión, jerárquicamente subordinados a las dependencias que al efecto se señalen, establecidos por el Gobernador del Estado de Querétaro;
+
+XXII. Poderes: los Poderes Legislativo, Ejecutivo y Judicial del Estado de Querétaro, en su conjunto;
+
+XXIII. Recursos públicos: los ingresos que con base en las Leyes de Ingresos obtengan el Estado y los municipios, así como cualquier bien que conforme la hacienda pública;
+
+XXIV. Secretaría: la Secretaría de Planeación y Finanzas, dependiente del Poder Ejecutivo del Estado de Querétaro;
+
+XXV. Sistema de Alertas: la publicación que realice la Entidad Superior de Fiscalización del Estado de Querétaro sobre indicadores de endeudamiento, así como el balance presupuestario, el registro de contingencias laborales, civiles o fiscales, del Estado y los Municipios, y la situación que guardan las observaciones emitidas por los entes fiscalizadores, y
+
+XXVI. Sujetos de la Ley: los indicados en el artículo 3 de la presente Ley.
 
 ###### Artículo 3.
 
@@ -151,13 +173,29 @@ En el manejo de los recursos públicos, los sujetos de la Ley, en el ámbito de 
 
 El equilibrio presupuestal sólo podrá afectarse cuando se disponga de recursos adicionales a los establecidos en la Ley de Ingresos correspondiente, debiendo reflejarse en una ampliación del presupuesto aprobado.
 
-Para efectos de lo anterior, los sujetos de la Ley, con excepción de los municipios, deberán informar a la Legislatura, dentro de los veinte días naturales siguientes al cierre del mes en que se registre la mencionada afectación.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+Para efectos de lo anterior, el Poder Ejecutivo del Estado, deberá informar a la Legislatura, por rubro de ingreso, en términos de las disposiciones aplicables en materia de contabilidad gubernamental, dentro de los veinte días naturales siguientes al cierre del mes en que se registre la mencionada afectación.
 
 En el caso de los municipios, el ayuntamiento deberá autorizar la afectación al equilibrio presupuestal, previa solicitud del Presidente Municipal, debiendo informar a la Entidad Superior de Fiscalización del Estado, a través de la cuenta pública.
 
 ###### Artículo 10.
 
 Toda propuesta de incremento o creación de partidas de gasto en los Presupuestos de Egresos del Estado y de los municipios, según sea el caso, deberá incluir específicamente la correspondiente iniciativa de ingreso o indicar el origen del mismo, cuando éste provenga de reducciones en otros rubros de gasto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+Tratándose de iniciativa de ley o decreto, que implique un aumento o creación de una partida de gasto dentro del presupuesto de egresos que corresponda, deberá acompañarse del dictamen que emita la Secretaría o la dependencia encargada de las finanzas públicas de los municipios, en el que se refleje la viabilidad financiera de la misma.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+La Legislatura del Estado, considerará dicho dictamen para determinar sobre la viabilidad de la propuesta.
 
 ## Título Segundo. De la programación y presupuestación
 
@@ -549,9 +587,11 @@ La Secretaría, en el ámbito de su competencia, podrá solicitar y obtener de l
 
 En el Presupuesto de Egresos del Estado, se considerará una partida para la promoción, difusión y proyección de la imagen y productos turísticos del Estado, que será una cantidad equivalente al setenta y cinco por ciento de los recursos recaudados por concepto del impuesto por la prestación de servicio de hospedaje, la cual será transferida al fideicomiso que para tal efecto se establezca, dentro de los treinta días naturales siguientes al mes en que se recaude.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
 ###### Artículo 48.
 
-En el Presupuesto de Egresos del Estado, se considerará una partida para la atención y rehabilitación del alcoholismo y la drogadicción en el Estado, en la que se consideren los recursos derivados de la recaudación por concepto de la expedición y refrendo de las licencias para el almacenaje, venta y consumo de bebidas alcohólicas en el Estado, cantidad que será transferida dentro de los primeros diez días posteriores al mes de su recaudación, al fideicomiso previsto en la Ley sobre Bebidas Alcohólicas del Estado de Querétaro, en los términos que ésta señale y de la cual deberá destinarse un porcentaje correspondiente al 2% para el otorgamiento de becas en instituciones destinadas al combate de las adicciones en el Estado.
+(DEROGADO, P.O. 17 DE DICIEMBRE DE 2015)
 
 ###### Artículo 49.
 
@@ -586,6 +626,10 @@ Del Presupuesto de Egresos aprobado por los municipios, se remitirá una copia c
 ## Título Quinto. Del ejercicio del gasto público
 
 ### Capítulo Segundo. De las adecuaciones presupuestales
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 54.
 
@@ -679,9 +723,9 @@ Tratándose de la ejecución de recursos provenientes de donativos y subsidios e
 
 ###### Artículo 69.
 
-Las dependencias del Poder Ejecutivo del Estado, sus órganos desconcentrados, entidades paraestatales y fideicomisos en los que el Poder Ejecutivo del Estado y/o sus entidades paraestatales participen como fideicomitentes, deberán informar a la Secretaría cualquier modificación en el alcance o modalidades de sus programas, adquisiciones, arrendamientos, garantías de compra, venta o cualquier otra acción que implique variaciones presupuestales.
+Las dependencias del Poder Ejecutivo del Estado, sus órganos desconcentrados y fideicomisos en los que el Poder Ejecutivo del Estado y/o sus entidades paraestatales participen como fideicomitentes, deberán informar a la Secretaría cualquier modificación en el alcance o modalidades de sus programas, adquisiciones, arrendamientos, garantías de compra, venta o cualquier otra acción que implique adecuaciones presupuestales.
 
-Cuando dichas modificaciones conlleven una adecuación presupuestal, deberán obtener la autorización previa y expresa de la Secretaría.
+Tratándose de entidades paraestatales, estas deberán informar a la Secretaría sobre las citadas modificaciones, una vez que las mismas sean aprobadas por su respectivo órgano de gobierno.
 
 ###### Artículo 70.
 
@@ -769,6 +813,10 @@ La publicación se realizará dentro de los 30 días naturales siguientes al cie
 
 ### Capítulo Segundo. De la cuenta pública
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 82.
 
 Los sujetos de la Ley, a través de sus unidades de administración o las dependencias encargadas de las finanzas públicas, según sea el caso, deberán prever la suficiencia de recursos para garantizar la liquidez durante el año en que concluye el periodo constitucional, cuando menos para:
@@ -778,6 +826,22 @@ I. El pago o amortización total de los pasivos que haya adquirido la administra
 II. El pago del gasto corriente de la administración pública de que se trate; y
 
 III. El cumplimiento de los compromisos adquiridos, las obligaciones por servicios personales y el gasto administrativo hasta el término del año presupuestado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 82 Bis.
+
+Sin perjuicio de lo establecido en el artículo anterior, el Poder Ejecutivo del Estado y los Municipios, a través de la Secretaría y de las dependencias encargadas de las finanzas públicas, según sea el caso, deberán constituir en el año en que concluya el periodo constitucional de su gestión, una reserva en cuentas bancarias específicas, por un importe equivalente al monto requerido para sufragar el pago de aguinaldo y prima vacacional, que se devenguen al 31 de agosto de la mencionada anualidad, que correspondan a la totalidad de la plantilla laboral registrada.
+
+Para efectos del presente artículo, se deberá entregar a la Entidad Superior de Fiscalización del Estado de Querétaro, a más tardar el día 15 de enero del referido año, un calendario de aportaciones que tenga como objetivo constituir dicha reserva.
+
+El calendario deberá incluir los compromisos mensuales de aportación a la mencionada reserva, para cada uno de los meses del periodo enero a agosto del citado ejercicio. Dichos compromisos serán comprobados mensualmente por la Entidad Superior de Fiscalización del Estado de Querétaro.
+
+La reserva a que se refiere el primer párrafo de este artículo, no podrá destinarse a fines distintos a los establecidos en el mismo.
+
+El incumplimiento a lo señalado en este artículo, dará lugar al inicio de un procedimiento administrativo sancionatorio a los servidores públicos que incurran en dicha omisión, en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado de Querétaro.
 
 ###### Artículo 83.
 
@@ -845,9 +909,17 @@ Las dependencias y entidades del Poder Ejecutivo del Estado, suministrarán a la
 
 ###### Artículo 94.
 
-Para la integración, presentación, fiscalización y demás aspectos relativos a la Cuenta Pública se estará a lo dispuesto en la Ley de Fiscalización Superior y Rendición de Cuentas del Estado de Querétaro y demás ordenamientos aplicables.
+Los sujetos de la Ley estarán a lo dispuesto en la Ley General de Contabilidad Gubernamental y demás disposiciones aplicables, para presentar la información financiera en los informes periódicos correspondientes y en su respectiva cuenta pública.
+
+Para la fiscalización se estará a lo dispuesto en la Ley de Fiscalización Superior y Rendición de Cuentas para el Estado de Querétaro y demás ordenamientos aplicables.
 
 ## Título Octavo. De la evaluación
+
+### Capítulo Primero. De la Disciplina Financiera
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 95.
 
@@ -879,6 +951,12 @@ La difusión de los resultados de las evaluaciones, se ajustará a lo dispuesto 
 
 ## Título Noveno. De las responsabilidades
 
+### Capítulo Segundo. Del Sistema de Alertas
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 100.
 
 Incurre en responsabilidad, cualquier persona física o moral que por dolo, culpa, mala fe o negligencia, cause daño o perjuicio a la hacienda pública.
@@ -901,7 +979,17 @@ IV. Cuando por razón de la naturaleza de sus funciones, tengan conocimiento de 
 
 V. No guardar o no conservar, en los términos de la normatividad aplicable, la documentación comprobatoria del patrimonio, así como de los ingresos y egresos de los entes públicos.
 
-Se considerará como infracción grave, para efecto de la imposición de las sanciones administrativas correspondientes, cuando el servidor público incurra en cualquiera de los supuestos establecidos en las fracciones II y IV del presente artículo, así como las reincidencias en las conductas señaladas en las demás fracciones.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+VI. Por el incumplimiento a lo establecido en el artículo 82 Bis de esta Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+Se considerará como infracción grave, para efecto de la imposición de las sanciones administrativas correspondientes, cuando el servidor público incurra en cualquiera de los supuestos establecidos en las fracciones II, IV y VI del presente artículo, así como las reincidencias en las conductas señaladas en las demás fracciones.
 
 ###### Artículo 102.
 
@@ -912,6 +1000,164 @@ Son solidariamente responsables los particulares, en todos los casos en que haya
 ###### Artículo 103.
 
 Las responsabilidades a que se refiere esta Ley, se exigirán con independencia de las sanciones de carácter civil, penal o de cualquier otra índole que, en su caso, lleguen a determinarse por la autoridad competente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+## Título Décimo. De la Disciplina Financiera del Estado y Municipios
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 104.
+
+El presente Título tiene como objeto establecer los criterios generales de responsabilidad hacendaria que regirán al Estado y a los municipios, así como a sus respectivas entidades, para un manejo sostenible de sus finanzas públicas.
+
+El Estado, los municipios y sus entidades se sujetarán a las disposiciones establecidas en la presente Ley y administrarán sus recursos con base en principios de legalidad, honestidad, eficacia, eficiencia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 105.
+
+Adicionalmente a lo establecido en el artículo 40 de la presente ley, en el proyecto de Decreto de Presupuesto de Egresos del Estado y de los Municipios, deberá presentarse un anexo que contenga el balance presupuestario de recursos disponibles, correspondiente al ejercicio fiscal al que se refiera dicho proyecto, así como los siguientes:
+
+a) El que resulte de la Ley de Ingresos y del Presupuesto de Egresos autorizados en el ejercicio fiscal inmediato anterior al del Proyecto de Decreto que se presenta, y
+
+b) El correspondiente al segundo ejercicio fiscal anterior al del ejercicio por el cual se presenta el proyecto de Decreto, el cual se integrará con las cifras de ingresos y egresos efectivamente devengados y contenidos en cuenta pública.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 106.
+
+Se considerará que el balance presupuestario de recursos disponibles en el ejercicio fiscal y bajo el momento contable devengado, será superavitario cuando sea mayor que cero.
+
+Circunstancialmente y debido a razones excepcionales, se podrá prever un balance presupuestario de recursos disponibles negativo. En estos casos, la Secretaría y las dependencias encargadas de las finanzas públicas de los municipios, según sea el caso, deberán dar cuenta a la Legislatura del Estado o al Ayuntamiento, de los siguientes aspectos:
+
+I. Las razones excepcionales que justifican el balance presupuestario de recursos disponibles negativo, y
+
+II. Las acciones necesarias que se llevarán a cabo para revertir el balance presupuestario de recursos disponibles negativo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 107.
+
+En caso de que durante el ejercicio fiscal disminuyan los ingresos previstos en la Leyes de Ingresos del Estado y/o de los municipios, el Ejecutivo del Estado, por conducto de la Secretaría y los ayuntamientos, por conducto de la dependencia encargada de las finanzas públicas, según corresponda, a efecto de cumplir con el balance presupuestario de recursos disponibles, deberán aplicar ajustes a los respectivos Presupuestos de Egresos en los rubros de gasto en el siguiente orden:
+
+I. Gasto corriente, sin afectar los programas de carácter social, y
+
+II. Gasto en servicios personales.
+
+En caso de que los ajustes anteriores no sean suficientes para compensar la disminución de ingresos, podrán realizarse ajustes en otros conceptos de gasto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+###### ARTÍCULO 108.
+
+El presente capítulo regula el Sistema de Alertas que se establece como mecanismo para revelar de manera oportuna el nivel de endeudamiento del Estado y los municipios, que pudiera comprometer la disponibilidad de recursos para cumplir con los compromisos de pago directos e indirectos adquiridos.
+
+Dicho Sistema será administrado por la Entidad Superior de Fiscalización del Estado de Querétaro. Para tal efecto, dicho ente podrá emitir las disposiciones administrativas que correspondan.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 109.
+
+El Sistema de Alertas deberá revelar, el saldo pendiente por pagar, así como los compromisos de pago de los siguientes tres ejercicios fiscales, derivados de créditos, financiamientos, arrendamientos puros o financieros, y de cualquier otro instrumento jurídico que contemple obligaciones plurianuales de pago y de contratos de asociaciones público privadas.
+
+De igual forma, el Sistema de Alertas deberá revelar la situación que guardan las observaciones emitidas por los entes fiscalizadores.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 110.
+
+El Sistema de Alertas contemplará la generación de indicadores de evaluación, que permitan comparar los niveles de compromisos de pago contra los ingresos de libre disposición a que se refiere la presente ley.
+
+La evaluación a que se refiere el párrafo anterior, se realizará por la Entidad Superior de Fiscalización del Estado de Querétaro, con base en la documentación e información disponible en el Registro Estatal de Deuda Pública, por lo que dicho organismo, no será responsable de la validez y exactitud de dicha documentación e información.
+
+De manera adicional, el Sistema de Alertas contendrá la información que permita generar un reporte de las contingencias financieras derivadas de, entre otras, avales, juicios laborales, civiles, fiscales, etc.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 111.
+
+Los resultados obtenidos de acuerdo a la medición de los indicadores a que hace referencia el artículo anterior, serán publicados en el Sistema de Alertas, el cual clasificará al Estado y a cada uno de los municipios, de acuerdo a los siguientes niveles:
+
+I. Endeudamiento estable;
+
+II. Endeudamiento en observación, y
+
+III. Endeudamiento elevado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 112.
+
+En caso de que el Estado o algún municipio se ubique en un nivel de endeudamiento elevado, deberá presentar a la Entidad Superior de Fiscalización del Estado de Querétaro, las acciones específicas que llevará a cabo con la finalidad de disminuir el nivel de endeudamiento.
+
+El seguimiento de las acciones a que se refiere el párrafo anterior, estará a cargo de la Entidad Superior de Fiscalización del Estado de Querétaro, debiendo publicarse a través de las páginas oficiales de Internet de dicha entidad, así como de la del Estado o municipio que corresponda.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 113.
+
+El Sistema de Alertas será publicado en la página de Internet de la Entidad Superior de Fiscalización del Estado de Querétaro de manera permanente, debiendo actualizarse semestralmente, dentro de los 30 días naturales posteriores al término de cada semestre.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 114.
+
+En el Registro Estatal de Deuda Pública, además de lo establecido en la Ley de Deuda Pública del Estado de Querétaro, se inscribirán entre otros: créditos, emisiones bursátiles, contratos de arrendamiento financiero, cadenas productivas o cualquier otro instrumento jurídico que contemple obligaciones plurianuales de pago.
+
+Para efectos de contar con información en el Sistema de Alertas a que se refiere el presente capítulo, independientemente de lo establecido en la Ley de Deuda Pública del Estado, en apartado específico se registrarán las distintas contingencias que tenga el estado o municipio, entre las que se encuentran, avales, juicios laborales, civiles, fiscales, etc.
+
+Asimismo, en un apartado específico se inscribirán las obligaciones que se deriven de contratos de asociaciones público privadas. Para llevar a cabo la inscripción, el Estado o el municipio que corresponda, deberá presentar a la Secretaría la información relativa al monto de inversión del proyecto a valor nominal y el pago mensual del servicio, identificando la parte correspondiente al pago de inversión.
+
+Para el trámite de inscripción de los financiamientos y obligaciones en el Registro Estatal de Deuda Pública, se deberá cumplir con lo que al efecto establece la legislación aplicable.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 115.
+
+Para la cancelación de la inscripción en el Registro Estatal de Deuda Pública de un financiamiento u obligación, se deberá presentar la documentación que acredite que el financiamiento u obligación ha sido liquidado o que no fue dispuesto.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 116.
+
+La Entidad Superior de Fiscalización del Estado de Querétaro, podrá solicitar a las instituciones otorgantes del financiamiento u obligación que corresponda, la información relacionada con el Estado o el municipio de que se trate, con el fin de conciliar la información del Registro Estatal de Deuda Pública. En caso de detectar diferencias, éstas deberán publicarse en el Registro Estatal de Deuda Pública.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 117.
+
+Para mantener actualizado el Registro Estatal de Deuda Pública, los sujetos de la Ley deberán enviar semestralmente a la Secretaría, dentro del plazo de 30 días naturales posteriores al término de los meses de junio y diciembre, la información correspondiente a cada financiamiento y obligación.
 
 ## TRANSITORIOS
 
@@ -1096,3 +1342,117 @@ Los citados contribuyentes, deberán comprobar la vigencia de la calcomanía y t
 Artículo Quinto. Los asuntos que a la entrada en vigor de la presente Ley se encuentren en trámite, se sustanciarán conforme a las disposiciones del Código Fiscal del Estado de Querétaro, vigentes al momento de su inicio.
 
 Artículo Sexto. Con respecto a la reforma del artículo 142 de la Ley de Hacienda del Estado de Querétaro, las leyes de ingresos de los municipios podrán establecer los derechos correspondientes al traslado del Oficial del Registro Civil, cuando a petición de los interesados, el registro de nacimiento se realice en el domicilio del solicitante, en términos de lo dispuesto por el artículo 120 de la Ley de Hacienda de los Municipios del Estado de Querétaro.
+
+P.O. 17 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO, LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE QUERÉTARO, LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO, LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, LEY SOBRE BEBIDAS ALCOHÓLICAS DEL ESTADO DE QUERÉTARO, LEY DE HACIENDA DEL ESTADO DE QUERÉTARO Y EXPIDE LA LEY DEL FACTOR DE CÁLCULO DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor el 1° de enero de 2016.
+
+Artículo Segundo. Las disposiciones de vigencia anual relativas a la Ley de Hacienda del Estado de Querétaro, para el ejercicio fiscal 2016, serán las siguientes:
+
+I. Siempre que se trate de vivienda de interés social o popular, los derechos que de conformidad con la Ley de Hacienda del Estado Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 50 por ciento:
+
+a) La inscripción de limitaciones de dominio; cancelación de reserva de dominio de bienes inmuebles; constitución o ejecución de fideicomisos traslativos de dominio; cesión de derechos inmobiliarios y donaciones, cuando se trate del primer adquirente;
+
+b) La inscripción del acta administrativa que contenga el permiso de urbanización, venta provisional de lotes y recepción definitiva de fraccionamientos, y
+
+c) La expedición de certificados de no propiedad;
+
+II. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 25 por ciento:
+
+a) La transmisión de propiedad de inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular;
+
+b) Los avisos preventivos relacionados con inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular, y
+
+c) Del contrato de hipoteca relacionado con la compraventa del inmueble de que se trate;
+
+Se causará un derecho a razón de 5 VFC por la inscripción del acto en el que conste la adquisición de vivienda de interés social o popular, el otorgamiento de créditos a favor del primer adquirente de dichos bienes, así como las garantías reales que otorgue dicha persona;
+
+III. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 50 por ciento:
+
+a) La inscripción del testimonio público en el que conste la adquisición de inmuebles efectuada por personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, siempre y cuando dichos inmuebles se destinen a actividades productivas y que con ello se propicie el mantenimiento de empleos;
+
+b) La inscripción de la escritura pública en la que conste la operación mediante la cual las personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, adquieran créditos, hipotequen bienes o fusionen predios, y
+
+c) La inscripción de las actas de asamblea en las que se realicen aumentos de capital de personas morales que tengan su domicilio fiscal en el Estado;
+
+IV. No se causarán los derechos previstos en la Ley de Hacienda del Estado de Querétaro, por los servicios de inscripción que preste el Registro Público de la Propiedad y del Comercio, respecto de:
+
+a) El acto en el que conste la reestructuración de los créditos señalados en el artículo 100 de la Ley de Hacienda del Estado de Querétaro, siempre que en los archivos de dicho Registro se encuentre la anotación del crédito inicial;
+
+b) El testimonio en el que conste la adquisición de inmuebles, efectuada por personas morales y personas físicas con actividad empresarial, con excepción de aquellas cuyo fin u objeto social consista en la venta de bienes inmuebles, siempre que los inmuebles adquiridos se destinen para el establecimiento de sus instalaciones operativas o administrativas y propicien con ello la generación de empleos;
+
+c) El testimonio en el que conste la adquisición de negociaciones en operación, por parte de personas morales y personas físicas con actividad empresarial, siempre que con ello se propicie el mantenimiento de empleos, y
+
+d) La inscripción de la cancelación de licencia de ejecución de obras de urbanización y la cancelación de autorización para venta de lotes;
+
+V. Por la expedición de los oficios y certificaciones a que se refieren las fracciones III y IV del artículo 127 de la Ley de Hacienda del Estado de Querétaro, que realice la Dirección de Catastro respecto de bienes considerados como vivienda de interés social o popular, se causará un derecho equivalente a 1.25 VFC;
+
+VI. Cuando los avisos de testamentos a los que se refiere el artículo 113 de la Ley de Hacienda del Estado de Querétaro, se lleven a cabo en el periodo que al efecto establezca la Secretaría de Gobierno, no se causarán los derechos correspondientes;
+
+VII. Los contribuyentes que realicen el pago de los derechos por refrendo de licencias para almacenaje, venta, porteo y consumo de bebidas alcohólicas, de manera anticipada al periodo establecido para tal efecto en el artículo 88 de la Ley de Hacienda del Estado de Querétaro, obtendrán los siguientes beneficios:
+
+MES DE PAGO DESCUENTO
+
+Enero 10%
+
+Febrero 8%
+
+Marzo 5%
+
+VIII. Las autoridades fiscales podrán cancelar créditos fiscales en sus registros por incosteabilidad en el cobro.
+
+Para efectos de esta fracción, se consideran créditos de cobro incosteable, aquellos cuyo importe histórico al 31 de diciembre de 2015, sea inferior o igual al equivalente en moneda nacional a 2000 unidades de inversión.
+
+No procederá la cancelación a que se refiere este artículo, cuando se trate de créditos fiscales derivados de obligaciones relacionadas con la propiedad, tenencia o uso de vehículos.
+
+La cancelación de los créditos a que se refiere este artículo no libera de su pago;
+
+IX. Las personas adultas mayores, los jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia correspondiente emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, estarán exceptuadas del pago de los derechos relativos a la expedición de la constancia única de propiedad por parte del Registro Público de la Propiedad y del Comercio para efectos de obtener los beneficios previstos en las leyes municipales en materia del impuesto predial;
+
+X. Los servicios prestados por la Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado, contemplados en la fracción I del artículo 153, de la Ley de Hacienda del Estado de Querétaro, causarán y pagarán una cuota adicional equivalente a 0.50 VFC al derecho que en dicho precepto se señala.
+
+El recurso que se obtenga por concepto de esta contribución, se destinará para equipamiento de los cuerpos voluntarios de bomberos y de atención médica prehospitalaria, que comprueben estar legalmente constituidos en el Estado, de acuerdo con las necesidades que acrediten ante un comité que estará integrado por el Secretario de Seguridad Ciudadana del Poder Ejecutivo del Estado, el titular de la Coordinación Estatal de Protección Civil y el Presidente de la Comisión de Seguridad Pública y Protección Civil del Poder Legislativo del Estado, pudiendo nombrarse un coordinador. Dichos recursos no podrán utilizarse para el gasto corriente de las corporaciones voluntarias a las que se refiere este artículo;
+
+XI. Los derechos que correspondan a los servicios prestados por el Instituto del Deporte y la Recreación del Estado de Querétaro, a que se refiere el artículo 135 de la Ley de Hacienda del Estado de Querétaro, tendrán las siguientes reducciones:
+
+REDUCCIÓN SUPUESTO
+
+En los paquetes familiares (por lo menos
+
+tres personas en las diferentes disciplinas,
+
+previa entrega de una copia del acta de
+
+30% nacimiento de cada familiar).
+
+Para adultos mayores.
+
+XII. Las personas que resulten beneficiarias de los apoyos contenidos en el Programa Apoyo Tenencia, podrán determinar el impuesto sobre tenencia o uso de vehículos previsto en la Ley de Hacienda del Estado de Querétaro a su cargo, considerando una reducción del veinticinco por ciento respecto de las cuotas, tasas y tarifas establecidas en dicho ordenamiento para efectos de su cálculo.
+
+XIII. Por los servicios de control vehicular contemplados en las fracciones I y II del artículo 157, de la Ley de Hacienda del Estado de Querétaro, se causará y pagará una cuota adicional equivalente a 0.50 VFC a los derechos que se señalan en las fracciones referidas de dicho precepto.
+
+El recurso que se obtenga por concepto de esta contribución, se destinará para equipamiento y/o gastos de operación de los cuerpos voluntarios de bomberos, de acuerdo con las necesidades que acrediten ante un comité que estará integrado por el Secretario de Seguridad Ciudadana del Poder Ejecutivo del Estado, el titular de la Coordinación Estatal de Protección Civil y el Presidente de la Comisión de Seguridad Pública y Protección Civil del Poder Legislativo del Estado, pudiendo nombrarse un coordinador;
+
+XIV. Por la prestación de los servicios previstos en la fracción I del artículo 157, de la Ley de Hacienda del Estado de Querétaro, adicionalmente al derecho que en dicho precepto se señala, se causará y pagará el equivalente a 0.85 VFC.
+
+Los recursos que se obtengan por este concepto, se destinarán al Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro y su ejercicio se sujetará a las Reglas de Operación que al efecto establezca la Secretaría de Desarrollo Sustentable, previa aprobación de la Secretaría de Planeación y Finanzas. Dichas reglas serán publicadas en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+En todo caso, las cantidades que se recauden en los términos de esta fracción se asignarán al desarrollo de políticas públicas, programas y proyectos que contribuyan a la disminución de las emisiones del dióxido de carbono y otros gases de efecto invernadero en el Estado, así como a aquellos que promuevan la sustentabilidad ambiental y la utilización de fuentes renovables de energía; y
+
+XV. Las calcomanías de revalidación y la tarjeta de circulación a que hace referencia el segundo párrafo de la fracción I del artículo 157 de la Ley de Hacienda del Estado de Querétaro, que hubiesen sido expedidas para los ejercicios fiscales 2013, 2014 y 2015, continuarán vigentes hasta el 31 de marzo de 2017.
+
+Para efectos de lo anterior, los contribuyentes, tenedores o usuarios de vehículos deberán realizar el pago de los derechos correspondientes al ejercicio fiscal 2016, por el servicio de refrendo y del impuesto sobre tenencia o uso de vehículos que contempla la referida ley y no tener adeudos por los mismos conceptos de ejercicios anteriores.
+
+Los citados contribuyentes, deberán comprobar la vigencia de la calcomanía y tarjeta de circulación señaladas en el primer párrafo de esta fracción, ante las autoridades que así se lo requieran, con el respectivo comprobante de pago conteniendo la cadena y sello digital que expida la autoridad fiscal.
+
+XVI. El impuesto sobre diversiones y espectáculos públicos a que se refiere el Capítulo Quinto, del Título Tercero, de la Ley de Hacienda del Estado de Querétaro, se reducirá en un 100%. En este caso, los contribuyentes no deberán cumplir con las obligaciones formales relativas a dicha contribución.
+
+XVII. Las obligaciones formales y sustantivas de los contribuyentes del impuesto sobre loterías, rifas, sorteos, concursos y juegos con apuestas, previsto por el Capítulo Sexto, del Título Tercero, de la Ley de Hacienda del Estado de Querétaro, se tendrán por cumplidas en su totalidad, en aquellos casos en los que hubiesen determinado y enterado dicho tributo correspondiente a los ejercicios fiscales 2012, 2013 y 2014, aplicando las deducciones a que se refieren los artículos 65, fracciones V y VI y 66, de la mencionada norma hacendaria en vigor a partir 1° de enero del 2015.
+
+XVIII. El monto del Factor de Cálculo a que se refiere la Ley del Factor de Cálculo del Estado de Querétaro, será de $72.50 (setenta y dos pesos 50/100 M.N.).
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+Artículo Cuarto. Remítase la presente Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga"
