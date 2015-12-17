@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-educacion-para-el-estado-de-tamaulipas-16101"
 country: "mx"
 rank: "ley"
 publication_date: "1999-10-23"
-last_updated: "2015-12-09"
+last_updated: "2015-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el sábado 23 de octubre de 1999.
 
@@ -88,6 +88,10 @@ En el sistema educativo del estado deberá asegurarse la participación activa d
 > <small>(REFORMADO [N. DE E. REUBICADO, ANTES PÁRRAFO TERCERO], P.O. 7 DE MARZO DE 2014)</small>
 
 Toda persona, sin discriminación alguna, tiene derecho a recibir educación pública gratuita y de calidad y, por tanto, todas las personas que habitan en la entidad, con independencia de su situación jurídica, deben contar con las mismas oportunidades de acceso al sistema educativo estatal.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+En sus ejercicios presupuestarios, así como en el diseño de sus políticas y programas sectoriales, todas las autoridades del ramo quedan obligadas a privilegiar acciones afirmativas conforme a lo previsto en la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales de los que el Estado Mexicano sea parte y la Constitución Política del Estado de Tamaulipas en materia del derecho humano a la educación, favoreciendo en todo tiempo a las personas la protección más amplia.
 
 > <small>(REFORMADO, P.O. 7 DE MARZO DE 2014)</small>
 
@@ -2140,6 +2144,12 @@ P.O. 14 DE ABRIL DE 2015.
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 9 DE DICIEMBRE DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE DICIEMBRE DE 2015.
 
 ###### ARTÍCULO ÚNICO.
 
