@@ -4,7 +4,7 @@ identifier: "LFC"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1992-12-29"
-last_updated: "2010-04-28"
+last_updated: "2015-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=117&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LFC"
 ---
 # LEY FEDERAL DE CINEMATOGRAFIA
 
-LEY FEDERAL DE CINEMATOGRAFIA
+LEY FEDERAL DE CINEMATOGRAFÍA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 28 DE ABRIL DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 29 de diciembre de 1992.
 
@@ -36,9 +36,11 @@ D E C R E T O
 
 "EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A :
 
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO SEGUNDO DEL DECRETO PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 17 DE DICIEMBRE DE 2015, LAS MENCIONES CONTENIDAS EN LEYES, REGLAMENTOS Y DISPOSICIONES DE CUALQUIER NATURALEZA, RESPECTO DEL CONSEJO NACIONAL PARA LA CULTURA Y LAS ARTES, SE ENTENDERÁN REFERIDAS A LA SECRETARÍA DE CULTURA.</small>
+
 LEY FEDERAL DE CINEMATOGRAFIA
 
-> <small>(REFORMADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 1999)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 5 DE ENERO DE 1999)</small>
 
 ### CAPITULO I. Disposiciones generales
 
@@ -122,7 +124,7 @@ La Comisión Federal de Competencia investigará, resolverá y sancionará, de o
 
 Los productores, distribuidores y exhibidores, deberán rendir los informes que les requiera la Secretaría de Gobernación, en términos del cumplimiento de la presente Ley y su Reglamento.
 
-> <small>(REFORMADA Y REUBICADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 1999)</small>
+> <small>(REFORMADA Y REUBICADA SU DENOMINACIÓN, D.O.F. 5 DE ENERO DE 1999)</small>
 
 ### CAPITULO II. De la producción cinematográfica
 
@@ -148,7 +150,7 @@ Se considerará como coproducción internacional la producción que se realice e
 
 Cuando no se tenga convenio o acuerdo, el contrato de coproducción deberá contener los requisitos que determine el Reglamento de esta Ley.
 
-> <small>(REFORMADA Y REUBICADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 1999)</small>
+> <small>(REFORMADA Y REUBICADA SU DENOMINACIÓN, D.O.F. 5 DE ENERO DE 1999)</small>
 
 ### CAPITULO III. De la distribución
 
@@ -164,7 +166,7 @@ Se entiende por distribución cinematográfica a la actividad de intermediación
 
 Los distribuidores no podrán condicionar o restringir el suministro de películas a los exhibidores y comercializadores, sin causa justificada, ni tampoco condicionarlos a la adquisición, venta, arrendamiento o cualquier otra forma de explotación, de una u otras películas de la misma distribuidora o licenciataria. En caso contrario se estará a lo dispuesto por la Ley Federal de Competencia Económica.
 
-> <small>(REFORMADA Y REUBICADA SU DENOMINACION, D.O.F. 5 DE ENERO DE 1999)</small>
+> <small>(REFORMADA Y REUBICADA SU DENOMINACIÓN, D.O.F. 5 DE ENERO DE 1999)</small>
 
 ### CAPITULO IV. De la exhibición y comercialización
 
@@ -216,7 +218,7 @@ Los servicios técnicos de copiado o reproducción de matrices de obras cinemato
 
 Con el fin de conservar la identidad lingüística nacional, el doblaje de películas extranjeras se realizará en la República Mexicana, con personal y actores mexicanos o extranjeros residentes en el país, salvo las disposiciones contenidas en convenios o tratados internacionales, y en los precisos términos del Artículo 8o. de esta Ley.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LOS INTEGRAN, D.O.F. 5 DE ENERO DE 1999)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 5 DE ENERO DE 1999)</small>
 
 ### CAPITULO V. De la clasificación
 
@@ -258,7 +260,7 @@ La autorización y clasificación que se expida para las películas es de orden 
 
 La obra cinematográfica deberá exhibirse, comercializarse, comunicarse y distribuirse al público en territorio nacional con el mismo título, salvo que el titular de los derechos autorice su modificación.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LOS INTEGRAN, D.O.F. 5 DE ENERO DE 1999)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 5 DE ENERO DE 1999)</small>
 
 ### CAPITULO VI. De la importación de películas
 
@@ -280,7 +282,7 @@ El título en español de películas cinematográficas extranjeras, o en su caso
 
 Las películas importadas que pretendan ser distribuidas, exhibidas y comercializadas en territorio nacional, deberán sujetarse invariablemente a las disposiciones de esta Ley y su Reglamento.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LOS INTEGRAN, D.O.F. 5 DE ENERO DE 1999)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 5 DE ENERO DE 1999)</small>
 
 ### CAPITULO VII. Del fomento a la industria cinematográfica
 
@@ -358,7 +360,7 @@ Dicho Comité se integrará por: Un representante de la Secretaría de Hacienda 
 
 Serán facultades exclusivas del Comité Técnico, la aprobación de todas las operaciones que se realicen con cargo al Fondo, la aprobación del presupuesto anual de gastos, así como la selección y aprobación de los proyectos de películas cinematográficas nacionales que habrán de apoyarse.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LOS INTEGRAN, D.O.F. 5 DE ENERO DE 1999)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 5 DE ENERO DE 1999)</small>
 
 ### CAPITULO VIII. De la Cineteca Nacional
 
@@ -378,19 +380,25 @@ Las aportaciones que se realicen en términos de este Artículo tendrán el trat
 
 En caso de venta de negativos de películas cinematográficas nacionales al extranjero, el titular de los derechos patrimoniales correspondientes deberá entregar en calidad de depósito un internegativo de ella o ellas a la Cineteca Nacional, con objeto de evitar la pérdida del patrimonio cultural cinematográfico nacional.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LOS INTEGRAN, D.O.F. 5 DE ENERO DE 1999)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 5 DE ENERO DE 1999)</small>
 
 ### CAPITULO IX. De las autoridades competentes
 
-> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 41.
 
-La Secretaría de Educación Pública tendrá las atribuciones siguientes:
+La Secretaría de Cultura tendrá las atribuciones siguientes:
 
-I.- A través del Consejo Nacional para la Cultura y las Artes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+I.- A través de las unidades administrativas que determine su Reglamento Interior:
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1999)</small>
 
 a) Fomentar y promover la producción, distribución, exhibición y comercialización de películas y la producción fílmica experimental, tanto en el país como en el extranjero, así como la realización de eventos promocionales, concursos y la entrega de reconocimientos en numerario y diplomas.
+
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1999)</small>
 
 b) Fortalecer, estimular y promover por medio de las actividades de cinematografía, la identidad y la cultura nacionales, considerando el carácter plural de la sociedad mexicana y el respeto irrestricto a la libre expresión y creatividad artística del quehacer cinematográfico.
 
@@ -398,21 +406,31 @@ b) Fortalecer, estimular y promover por medio de las actividades de cinematograf
 
 c) Coordinar las actividades de las entidades paraestatales de la Administración Pública Federal, que tengan por objeto social promover, fomentar o prestar servicios y apoyo técnico a la producción y coproducción cinematográfica y audiovisual.
 
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1999)</small>
+
 d) Coordinar las actividades del Instituto Mexicano de Cinematografía.
 
 > <small>(REFORMADO, D.O.F. 26 DE ENERO DE 2006)</small>
 
 e) Coordinar las actividades de la Cineteca Nacional, cuyos objetivos son el rescate, conservación, protección y restauración, de las películas y sus negativos, así como la difusión, promoción y salvaguarda del patrimonio cultural cinematográfico de la Nación. Organizar eventos educativos y culturales que propicien el desarrollo de la cultura cinematográfica en todo el territorio nacional.
 
+> <small>(ADICIONADO, D.O.F. 5 DE ENERO DE 1999)</small>
+
 f) Fomentar la investigación y estudios en materia cinematográfica, y decidir o, en su caso, opinar sobre el otorgamiento de becas para realizar investigaciones o estudios en dicha materia.
 
-g) Procurar la difusión de la producción del cine nacional en los diversos niveles del sistema educativo.
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
 
-h) Promover el uso del cine como medio de instrucción escolar y difusión cultural extraescolar; y
+g) Procurar la difusión de la producción del cine nacional en los diversos niveles del sistema educativo, en coordinación con la Secretaría de Educación Pública.
+
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+h) Proponer a la Secretaría de Educación Pública, el uso del cine como medio de instrucción escolar y difusión cultural extraescolar.
 
 > <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2006)</small>
 
 i) Coordinar las actividades de las entidades paraestatales de la Administración Pública Federal, cuyo objeto social sea la capacitación, el entrenamiento, la instrucción, o la formación de técnicos o profesionales, así como el ensayo e investigación en la concepción, composición, preparación y ejecución de obras cinematográficas y artes audiovisuales en general.
+
+> <small>(ADICIONADA, D.O.F. 5 DE ENERO DE 1999)</small>
 
 II.- A través del Instituto Nacional del Derecho de Autor:
 
@@ -429,6 +447,8 @@ e) Ordenar y ejecutar los actos para prevenir o terminar con la violación al De
 f) Imponer las sanciones administrativas que resulten procedentes.
 
 g) Aplicar las tarifas vigentes para el pago de regalías por la explotación de obra cinematográfica.
+
+> <small>(ADICIONADA, D.O.F. 5 DE ENERO DE 1999)</small>
 
 III.- Las demás que le atribuyan otras leyes.
 
@@ -452,13 +472,13 @@ VI.- Aplicar las sanciones que correspondan por infracciones a la presente Ley, 
 
 VII.- Las demás que le concedan otras disposiciones legales.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 28 DE ABRIL DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 28 DE ABRIL DE 2010)</small>
 
 ### CAPITULO X. De las visitas de verificación
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2010)</small>
 
@@ -466,7 +486,7 @@ VII.- Las demás que le concedan otras disposiciones legales.
 
 A efecto de comprobar el cumplimiento de las disposiciones contenidas en esta Ley, su Reglamento y demás ordenamientos de carácter general que resulten aplicables, la Secretaría de Gobernación, a través de la Dirección General de Radio, Televisión y Cinematografía, practicará visitas de verificación, cumpliendo con las formalidades previstas en la Ley Federal de Procedimiento Administrativo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2010)</small>
 
@@ -474,7 +494,7 @@ A efecto de comprobar el cumplimiento de las disposiciones contenidas en esta Le
 
 En las visitas tendientes a comprobar el cumplimiento de la obligación consignada en el artículo 24 de la presente Ley, el visitado podrá formular observaciones en el acto de la diligencia y ofrecer pruebas en relación con los hechos contenidos en el acta de visita de verificación, o bien, hacer uso de tal derecho mediante escrito dirigido a la autoridad que hubiese ordenado la visita, dentro del término de diez días hábiles, siguientes a la fecha en que se hubiere levantado el acta.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2010)</small>
 
@@ -482,13 +502,13 @@ En las visitas tendientes a comprobar el cumplimiento de la obligación consigna
 
 Si transcurrido el término a que se refiere el artículo anterior, el visitado no acredita fehacientemente que cuenta con la autorización y clasificación expedidas por la autoridad competente, para exhibir y/o comercializar las películas materia de verificación en la visita, la autoridad dictará las medidas de aseguramiento que, a su juicio, correspondan.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O.F. 28 DE ABRIL DE 2010)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O.F. 28 DE ABRIL DE 2010)</small>
 
 ### CAPITULO XI. De las medidas de aseguramiento
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2010)</small>
 
@@ -496,7 +516,7 @@ Si transcurrido el término a que se refiere el artículo anterior, el visitado 
 
 La Secretaría de Gobernación, a través de la Dirección General de Radio, Televisión y Cinematografía, podrá dictar medidas de aseguramiento de carácter preventivo, con el propósito de impedir la realización de conductas que, presumiblemente, contravengan lo dispuesto por el artículo 24 de la presente Ley.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2010)</small>
 
@@ -512,7 +532,7 @@ III. Ordenar la retención provisional de las películas que se ubiquen en los s
 
 La autoridad deberá notificar personalmente al interesado la medida de aseguramiento dictada, a través de mandamiento escrito debidamente fundado y motivado, en el que se precise que el aseguramiento subsistirá hasta en tanto el interesado acredite haber cumplido con la obligación consignada en el artículo 24 de la presente Ley, en cuyo caso, dentro de los diez días hábiles siguientes, la autoridad administrativa procederá a realizar las acciones necesarias para que las películas vuelvan al estado en que se encontraban antes de la medida de aseguramiento.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2010)</small>
 
@@ -520,7 +540,7 @@ La autoridad deberá notificar personalmente al interesado la medida de aseguram
 
 Tratándose de películas incorporadas en formato de videograma, disco compacto o láser, así como cualquier otro sistema de duplicación para su venta o alquiler, la prohibición a que se refiere la fracción II del artículo anterior, comprenderá también la colocación de sellos sobre los ejemplares de dichas películas, que impidan al público el acceso a las mismas, y que contendrán la leyenda: “Se prohíbe la comercialización de esta película, toda vez que carece de la autorización y clasificación a que se refiere el artículo 24 de la Ley Federal de Cinematografía”.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2010)</small>
 
@@ -528,7 +548,7 @@ Tratándose de películas incorporadas en formato de videograma, disco compacto 
 
 Para llevar a cabo la retención provisional a que se refiere la fracción III del artículo 47 de esta Ley, el mandamiento de autoridad que la ordene deberá precisar el nombre de la persona o personas que la realizarán, quienes deberán identificarse plenamente ante el interesado; asimismo, se indicará que las películas retenidas serán trasladadas a las oficinas que ocupa la Dirección General de Radio, Televisión y Cinematografía de la Secretaría de Gobernación, donde permanecerán bajo el resguardo de su Director General, quien será responsable de su conservación, así como de rendir mensualmente a su superior jerárquico, un informe sobre el estado que guarden los materiales cinematográficos retenidos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2010)</small>
 
@@ -538,7 +558,7 @@ Al practicarse las medidas de aseguramiento deberá levantarse el acta circunsta
 
 Si se trata de retención provisional, en el acta se deberán señalar los títulos y número exacto de las películas objeto de la medida de aseguramiento; cuando éstos no coincidieren con los datos asentados en el acta de visita de verificación, se hará constar expresamente tal circunstancia.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2010)</small>
 
@@ -546,37 +566,45 @@ Si se trata de retención provisional, en el acta se deberán señalar los títu
 
 Las medidas de aseguramiento se aplicarán sin perjuicio de las sanciones que correspondan, en los términos del artículo 54 de esta Ley; por lo tanto, en ningún caso, el procedimiento administrativo podrá sobreseerse en virtud de que el interesado obtenga las autorizaciones y clasificaciones correspondientes durante su tramitación, por lo que la autoridad deberá dictar la resolución definitiva que en derecho corresponda, imponiendo las sanciones que resulten procedentes.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE CAPITULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-(REUBICADO [N. DE E. ANTES CAPITULO X], D.O.F. 28 DE ABRIL DE 2010)
+(REUBICADO [N. DE E. ANTES CAPÍTULO X], D.O.F. 28 DE ABRIL DE 2010)
 
 ### CAPITULO XII. De las sanciones
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1999) (REUBICADO [N. DE E. ANTES ARTICULO 43], D.O.F. 28 DE ABRIL DE 2010)
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 52.
 
-La facultad de imponer las sanciones establecidas en esta Ley compete a la Secretaría de Educación Pública y a la Secretaría de Gobernación, sin perjuicio de aquellas que corresponda imponer a las demás dependencias de la Administración Pública Federal.
+La facultad de imponer las sanciones establecidas en esta Ley compete a la Secretaría de Cultura y a la Secretaría de Gobernación, sin perjuicio de aquéllas que corresponda imponer a las demás dependencias de la Administración Pública Federal.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 44], D.O.F. 28 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 53.
 
-Los infractores de los artículos 27, 39 y 40 de la presente Ley, serán sancionados por la Secretaría de Educación Pública, según la gravedad de la falta, la intención o dolo existente, con las sanciones siguientes:
+Los infractores de los artículos 27, 39 y 40 de la presente Ley, serán sancionados por la Secretaría de Cultura, según la gravedad de la falta, la intención o dolo existente, con las sanciones siguientes:
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2010)</small>
 
 I. Amonestación con apercibimiento, y
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O.F. 28 DE ABRIL DE 2010)</small>
+
 II. Multa de quinientos a cinco mil veces el salario mínimo general diario vigente en el Distrito Federal a la fecha en que se cometa la infracción.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O.F. 28 DE ABRIL DE 2010)</small>
 
 En caso de reincidencia, se podrá imponer multa hasta por el doble del monto superior marcado en la fracción II.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 45], D.O.F. 28 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 45], D.O.F. 28 DE ABRIL DE 2010)</small>
 
 ###### ARTICULO 54.
 
@@ -594,7 +622,7 @@ V. Retiro de las películas que se exhiban públicamente o se comercialicen en c
 
 En caso de reincidencia, se podrá imponer multa hasta por el doble del monto superior correspondiente.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2010)</small>
 
@@ -602,7 +630,7 @@ En caso de reincidencia, se podrá imponer multa hasta por el doble del monto su
 
 Para ejecutar una resolución firme que imponga como sanción el retiro de películas, cuando las medidas de aseguramiento dictadas previamente fuesen las previstas en las fracciones I y II del artículo 47 de esta Ley, la autoridad competente deberá observar, en lo que resulte aplicable, el procedimiento establecido para la retención provisional.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, D.O.F. 28 DE ABRIL DE 2010)</small>
 
@@ -612,17 +640,17 @@ Las películas retiradas con motivo de la sanción impuesta, serán clasificadas
 
 Los representantes de instituciones de educación pública del país, que acrediten fehacientemente tal carácter ante la Dirección General antes mencionada, podrán solicitar la donación de ejemplares de películas, para ser empleados únicamente con fines educativos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-(ADICIONADO, D.O.F. 5 DE ENERO DE 1999) (REUBICADO [N. DE E. ANTES ARTICULO 46], D.O.F. 28 DE ABRIL DE 2010)
+(ADICIONADO, D.O.F. 5 DE ENERO DE 1999) (REUBICADO [N. DE E. ANTES ARTÍCULO 46], D.O.F. 28 DE ABRIL DE 2010)
 
 ###### ARTICULO 57.
 
 Las sanciones a que se refiere la presente Ley se aplicarán conforme a lo dispuesto en la Ley Federal de Procedimiento Administrativo.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO UNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTICULO 47], D.O.F. 28 DE ABRIL DE 2010)</small>
+> <small>(REFORMADO Y REUBICADO [N. DE E. ANTES ARTÍCULO 47], D.O.F. 28 DE ABRIL DE 2010)</small>
 
 ###### ARTICULO 58.
 
@@ -652,7 +680,7 @@ México, D.F., a 20 de diciembre de 1992.- Sen. Carlos Sales Gutiérrez, Preside
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los veintitrés días del mes de diciembre de mil novecientos noventa y dos.- Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación, Fernando Gutiérrez Barrios.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 7 DE MAYO DE 1996.
 
@@ -687,3 +715,31 @@ Artículo Único. El presente Decreto entrará en vigor al día siguiente de su 
 D.O.F. 28 DE ABRIL DE 2010.
 
 Artículo Único. El presente decreto entrará en vigor sesenta días después de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE DICIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El Consejo Nacional para la Cultura y las Artes se transforma en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto del Consejo Nacional para la Cultura y las Artes, se entenderán referidas a la Secretaría de Cultura.
+
+TERCERO. Los derechos laborales de los trabajadores que presten sus servicios en el Consejo Nacional para la Cultura y las Artes, en la Secretaría de Educación Pública, en los órganos administrativos desconcentrados y en las entidades paraestatales que, con motivo de la entrada en vigor del presente Decreto, queden adscritos o coordinados a la Secretaría de Cultura, respectivamente, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+CUARTO. El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, continuarán rigiéndose por sus respectivas leyes y demás disposiciones aplicables y dependerán de la Secretaría de Cultura, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Educación Pública.
+
+Los órganos administrativos desconcentrados denominados Radio Educación e Instituto Nacional de Estudios Históricos de las Revoluciones de México, se adscribirán a la Secretaría de Cultura y mantendrán su naturaleza jurídica.
+
+QUINTO. La Secretaría de Cultura integrará los diversos consejos, comisiones intersecretariales y órganos colegiados previstos en las disposiciones jurídicas aplicables, según el ámbito de sus atribuciones.
+
+SEXTO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+SÉPTIMO. Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Consejo Nacional para la Cultura y las Artes continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+Asimismo, todas las disposiciones, lineamientos, criterios y demás normativa emitida por el Secretario de Educación Pública que contengan disposiciones concernientes al Consejo Nacional para la Cultura y las Artes o los órganos administrativos desconcentrados que éste coordina, continuará en vigor en lo que no se opongan al presente Decreto, en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+OCTAVO. Las atribuciones y referencias que se hagan a la Secretaría de Educación Pública o al Secretario de Educación Pública que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura.
+
+NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
+
+DÉCIMO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
