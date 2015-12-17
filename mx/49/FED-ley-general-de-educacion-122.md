@@ -4,7 +4,7 @@ identifier: "FED-ley-general-de-educacion-122"
 country: "mx"
 rank: "ley_general"
 publication_date: "1993-07-13"
-last_updated: "2015-04-20"
+last_updated: "2015-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=122&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGE"
 
 LEY GENERAL DE EDUCACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 20 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Diario Oficial de la Federación, el martes 13 de julio de 1993.
 
@@ -35,6 +35,8 @@ Que el H. Congreso de la Unión, se ha servido dirigirme el siguiente
 DECRETO
 
 "EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, DECRETA:
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO SEGUNDO DEL DECRETO PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 17 DE DICIEMBRE DE 2015, LAS MENCIONES CONTENIDAS EN LEYES, REGLAMENTOS Y DISPOSICIONES DE CUALQUIER NATURALEZA, RESPECTO DEL CONSEJO NACIONAL PARA LA CULTURA Y LAS ARTES, SE ENTENDERÁN REFERIDAS A LA SECRETARÍA DE CULTURA.</small>
 
 LEY GENERAL DE EDUCACION
 
@@ -328,7 +330,9 @@ XII.- Realizar la planeación y la programación globales del sistema educativo 
 
 XII Bis.- Fijar los lineamientos generales de carácter nacional a los que deban ajustarse las escuelas públicas de educación básica y media superior para el ejercicio de su autonomía de gestión escolar, en los términos del artículo 28 Bis;
 
-XIII.- Fomentar, en coordinación con las demás autoridades competentes del Ejecutivo Federal, las relaciones de orden cultural con otros países, e intervenir en la formulación de programas de cooperación internacional en materia educativa, científica, tecnológica, artística, cultural, de educación física y deporte, y
+> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+XIII.- Intervenir en la formulación de programas de cooperación internacional en materia educativa, científica, tecnológica y de educación física y deporte, así como participar con la Secretaría de Cultura en el fomento de las relaciones de orden cultural con otros países y en la formulación de programas de cooperación internacional en materia artística y cultural, y
 
 XIV.- Las necesarias para garantizar el carácter nacional de la educación básica, la normal y demás para la formación de maestros de educación básica, así como las demás que con tal carácter establezcan esta Ley y otras disposiciones aplicables.
 
@@ -400,7 +404,9 @@ IV.- Otorgar, negar y retirar el reconocimiento de validez oficial a estudios di
 
 V.- Editar libros y producir otros materiales didácticos, distintos de los señalados en la fracción III del artículo 12;
 
-VI.- Prestar servicios bibliotecarios a través de bibliotecas públicas, a fin de apoyar al sistema educativo nacional, a la innovación educativa y a la investigación científica, tecnológica y humanística;
+> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+VI.- Fomentar la prestación de servicios bibliotecarios a través de las bibliotecas públicas a cargo de la Secretaría de Cultura y demás autoridades competentes, a fin de apoyar al sistema educativo nacional, a la innovación educativa y a la investigación científica, tecnológica y humanística;
 
 VII.- Promover permanentemente la investigación que sirva como base a la innovación educativa;
 
@@ -408,7 +414,9 @@ VII.- Promover permanentemente la investigación que sirva como base a la innova
 
 VIII.- Promover la investigación y el desarrollo de la ciencia, la tecnología y la innovación, y fomentar su enseñanza, diseminación en acceso abierto y su divulgación, cuando el conocimiento científico y tecnológico sea financiado con recursos públicos o que se haya utilizado infraestructura pública en su realización, sin perjuicio de las disposiciones en materia de patentes, protección de la propiedad intelectual o industrial, seguridad nacional y derechos de autor, entre otras, así como de aquella información que, por razón de su naturaleza o decisión del autor, sea confidencial o reservada;
 
-IX.- Fomentar y difundir las actividades artísticas, culturales y físico-deportivas en todas sus manifestaciones;
+> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+IX.- Fomentar y difundir las actividades físico-deportivas, así como participar en el fomento y difusión de actividades artísticas, y culturales en todas sus manifestaciones;
 
 > <small>(ADICIONADA, D.O.F. 17 DE ABRIL DE 2009)</small>
 
@@ -886,9 +894,13 @@ La Secretaría determinará los planes y programas de estudio, aplicables y obli
 
 Para tales efectos la Secretaría considerará las opiniones de las autoridades educativas locales, y de los diversos sectores sociales involucrados en la educación, los maestros y los padres de familia, expresadas a través del Consejo Nacional de Participación Social en la Educación a que se refiere el artículo 72, así como aquéllas que en su caso, formule el Instituto Nacional para la Evaluación de la Educación.
 
-> <small>(REFORMADO, D.O.F. 2 DE NOVIEMBRE DE 2007)</small>
+> <small>(ADICIONADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
 
-Las autoridades educativas locales, previa consulta al Consejo Estatal Técnico de Educación correspondiente, propondrán para consideración y, en su caso, autorización de la Secretaría, contenidos regionales que -sin mengua del carácter nacional de los planes y programas citados- permitan que los educandos adquieran un mejor conocimiento de la historia, la geografía, las costumbres, las tradiciones, los ecosistemas y demás aspectos propios de la entidad y municipios respectivos.
+Cuando los planes y programas de estudio se refieran a aspectos culturales, históricos, artísticos y literarios, la Secretaría de Cultura propondrá el contenido de dichos planes y programas a la Secretaría a efecto de que ésta determine lo conducente, conforme al párrafo primero de este artículo.
+
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+Las autoridades educativas locales, previa consulta al Consejo Estatal Técnico de Educación correspondiente, propondrán para consideración y, en su caso, autorización de la Secretaría, previa opinión de la Secretaría de Cultura, contenidos regionales que -sin mengua del carácter nacional de los planes y programas citados- permitan que los educandos adquieran un mejor conocimiento de la historia, la geografía, las costumbres, las tradiciones, los ecosistemas y demás aspectos propios de la entidad y municipios respectivos.
 
 > <small>(REFORMADO, D.O.F. 11 DE SEPTIEMBRE DE 2013)</small>
 
@@ -1679,3 +1691,31 @@ Segundo. Dentro de los noventa días hábiles siguientes a la entrada en vigor d
 D.O.F. 20 DE ABRIL DE 2015.
 
 Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE DICIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El Consejo Nacional para la Cultura y las Artes se transforma en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto del Consejo Nacional para la Cultura y las Artes, se entenderán referidas a la Secretaría de Cultura.
+
+TERCERO. Los derechos laborales de los trabajadores que presten sus servicios en el Consejo Nacional para la Cultura y las Artes, en la Secretaría de Educación Pública, en los órganos administrativos desconcentrados y en las entidades paraestatales que, con motivo de la entrada en vigor del presente Decreto, queden adscritos o coordinados a la Secretaría de Cultura, respectivamente, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+CUARTO. El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, continuarán rigiéndose por sus respectivas leyes y demás disposiciones aplicables y dependerán de la Secretaría de Cultura, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Educación Pública.
+
+Los órganos administrativos desconcentrados denominados Radio Educación e Instituto Nacional de Estudios Históricos de las Revoluciones de México, se adscribirán a la Secretaría de Cultura y mantendrán su naturaleza jurídica.
+
+QUINTO. La Secretaría de Cultura integrará los diversos consejos, comisiones intersecretariales y órganos colegiados previstos en las disposiciones jurídicas aplicables, según el ámbito de sus atribuciones.
+
+SEXTO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+SÉPTIMO. Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Consejo Nacional para la Cultura y las Artes continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+Asimismo, todas las disposiciones, lineamientos, criterios y demás normativa emitida por el Secretario de Educación Pública que contengan disposiciones concernientes al Consejo Nacional para la Cultura y las Artes o los órganos administrativos desconcentrados que éste coordina, continuará en vigor en lo que no se opongan al presente Decreto, en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+OCTAVO. Las atribuciones y referencias que se hagan a la Secretaría de Educación Pública o al Secretario de Educación Pública que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura.
+
+NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
+
+DÉCIMO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
