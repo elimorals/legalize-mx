@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-cultura-fisica-y-deporte-del-estado-de-jalisco-87613"
 country: "mx"
 rank: "ley"
 publication_date: "2012-04-19"
-last_updated: "2015-08-27"
+last_updated: "2015-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el jueves 19 de abril de 2012.
 
@@ -677,9 +677,11 @@ IV. Las demás acciones que induzcan a alcanzar los objetivos de la cultura fís
 
 Los organismos que presten servicios de instrucción y práctica de actividades de cultura física y deporte, que no cumplan con los preceptos de esta ley, serán sancionados por infracciones a la misma.
 
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 70.
 
-La aplicación de sanciones por incumplimiento a la presente ley, su reglamento y demás disposiciones legales de la materia, les corresponde a los órganos directivos del deporte en cuanto a su competencia y dar seguimiento al procedimiento correspondiente.
+La aplicación de sanciones por incumplimiento a la presente ley, su reglamento y demás disposiciones legales de la materia, les corresponde a los órganos directivos del deporte y a las autoridades estatales y municipales, en cuanto a su competencia y dar seguimiento al procedimiento correspondiente.
 
 ###### Artículo 71.
 
@@ -803,23 +805,35 @@ Para la celebración de eventos deportivos masivos o con fines de espectáculo, 
 
 Las autoridades municipales serán competentes para verificar el cumplimiento de la presente disposición.
 
-> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 83.
 
-Para efectos de este capítulo, de manera enunciativa y no limitativa, se consideran actos o conductas violentas o que incitan a la violencia en el deporte a los siguientes:
+Para efectos de este capítulo, se consideran actos o conductas violentas o que incitan a la violencia en el deporte a los siguientes:
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2015)</small>
 
 I. La participación activa de deportistas, entrenadores, jueces o árbitros, espectadores, organizadores, directivos o cualquier involucrado en la celebración del evento deportivo en altercados, riñas, peleas o desórdenes públicos en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos, cuando tales conductas estén relacionadas con un evento deportivo que vaya a celebrarse, se esté celebrando o se haya celebrado;
 
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2015)</small>
+
 II. La exhibición en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos de pancartas, símbolos, emblemas o leyendas que, por su contenido o por las circunstancias en las que se exhiban o utilicen de alguna forma inciten, fomenten o ayuden a la realización de comportamientos violentos, o constituyan un acto de manifiesto desprecio a las personas participantes en el evento deportivo;
+
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2015)</small>
 
 III. La entonación de cánticos que inciten a la violencia o a la agresión en los recintos deportivos, en sus aledaños o en los medios de transporte organizados para acudir a los mismos. Igualmente, aquéllos que constituyan un acto de manifiesto desprecio a las personas participantes en el evento deportivo;
 
+> <small>(ADICIONADA, P.O. 27 DE AGOSTO DE 2015)</small>
+
 IV. La irrupción no autorizada en los terrenos de juego;
 
-V. La emisión de declaraciones o la transmisión de informaciones, con ocasión de la próxima celebración de un evento deportivo, ya sea en los recintos deportivos, en sus aledaños o en los medios de transporte públicos en los que se pueda desplazar a los recintos deportivos, en cuya virtud se amenace o incite a la violencia o a la agresión a los participantes o asistentes a dichos encuentros, así como la contribución significativa mediante tales declaraciones a la creación de un clima hostil, antideportivo o que promueva el enfrentamiento físico entre los participantes en los eventos deportivos o entre asistentes a los mismos;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
-VI. La facilitación de medios técnicos, económicos, materiales o tecnológicos que den soporte a la actuación de las personas o grupos que promuevan la violencia, o que inciten, fomenten o ayuden a los comportamientos violentos, o la creación y difusión o utilización de soportes digitales utilizados para la realización de estas actividades, y
+V. La emisión de declaraciones o la transmisión de informaciones, con ocasión de la próxima celebración de un evento deportivo, ya sea en los recintos deportivos, en sus aledaños o en los medios de transporte públicos en los que se pueda desplazar a los recintos deportivos, en cuya virtud se amenace o incite a la violencia o a la agresión a los participantes o asistentes a dichos encuentros, así como la contribución significativa mediante tales declaraciones a la creación de un clima hostil, antideportivo o que promueva el enfrentamiento físico entre los participantes en los eventos deportivos o entre asistentes a los mismos; y
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+VI. La facilitación de medios técnicos, económicos, materiales o tecnológicos que den soporte a la actuación de las personas o grupos que promuevan la violencia, o que inciten, fomenten o ayuden a los comportamientos violentos, o la creación y difusión o utilización de soportes digitales utilizados para la realización de estas actividades.
 
 VII. Las que establezca la presente Ley, su Reglamento, el Código de Conducta de cada disciplina y demás ordenamientos aplicables.
 
@@ -841,23 +855,23 @@ Con estricto respeto a las disposiciones y procedimientos previstos en las leyes
 
 Los deportistas, entrenadores, técnicos, directivos y demás personas, en el ámbito de la disciplina deportiva, deberán actuar conforme a las disposiciones y lineamientos que para prevenir y erradicar la violencia en el deporte emita la Comisión Especial, así como los establecidos en las disposiciones reglamentarias y estatutarias emitidas por las asociaciones deportivas estatales respectivas.
 
-> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 86.
 
-Los organizadores de eventos deportivos podrán realizar registros personales al ingreso de las instalaciones deportivas para asegurar que los asistentes no portan algún artículo prohibido. Esta práctica deberá realizarse apegada a los principios de respeto a la dignidad de las personas y a sus derechos humanos, con enfoque de género. Pero en todo caso, deberá hacerlo cuando en el centro deportivo se hubieran presentado antecedentes de violencia deportiva o se trate de la reanudación de un evento suspendido por esta causa.
+Las autoridades competentes en materia de seguridad y protección civil, en coordinación con los organizadores de eventos deportivos podrán realizar registros personales al ingreso de las instalaciones deportivas para asegurar que los asistentes no portan algún artículo prohibido. Esta práctica deberá realizarse apegada a los principios de respeto a la dignidad de las personas y a sus derechos humanos, con enfoque de género. Pero en todo caso, deberá hacerlo cuando en el centro deportivo se hubieran presentado antecedentes de violencia deportiva o se trate de la reanudación de un evento suspendido por esta causa.
 
-> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 87.
 
-Cuando los organizadores de algún evento deportivo detecten la posibilidad o el inicio de la realización de alguna práctica o comportamiento, que inciten o produzcan violencia deportiva, deberán actuar de inmediato para controlarla poniendo a los responsables a disposición de la autoridad con el auxilio de la fuerza pública si fuera necesario. En estos casos deberá interrumpirse de inmediato el expendio de bebidas alcohólicas a los posibles infractores.
+Cuando las autoridades competentes en materia de seguridad y protección civil, responsables de la seguridad del evento deportivo detecten la posibilidad o el inicio de la realización de alguna práctica o comportamiento, que inciten o produzcan violencia deportiva, deberán actuar de inmediato para controlarla poniendo a los responsables a disposición de la autoridad correspondiente con el auxilio de la fuerza pública si fuera necesario. En estos casos deberá interrumpirse de inmediato el expendio de bebidas alcohólicas a los posibles infractores.
 
-> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 88.
 
-Cuando a los organizadores de los eventos no les sea posible controlar la violencia en sus inicios o cuando ésta sea provocada por un grupo de personas que por su número resulte difícil de controlar, las gradas o áreas de las instalaciones afectadas deberán ser desalojadas y el encuentro deportivo suspendido hasta que pueda realizarse el desalojo.
+Cuando las autoridades competentes en materia de seguridad y protección civil, responsables de la seguridad de los eventos no les sea posible controlar la violencia en sus inicios o cuando ésta sea provocada por un grupo de personas que por su número resulte difícil de controlar, las gradas o áreas de las instalaciones afectadas deberán ser desalojadas y el encuentro deportivo suspendido hasta que pueda realizarse el desalojo.
 
 Si hubiera resistencia al desalojo o la violencia comienza a extenderse a otras áreas o persiste en el exterior de las instalaciones deportivas, el encuentro deportivo deberá ser suspendido de inmediato por tiempo indefinido y las instalaciones deberán ser evacuadas en su totalidad. Para la reanudación del evento, el organizador deberá garantizar las medidas de seguridad necesarias para tal efecto, mediante una autorización especial por parte de la autoridad municipal en los términos de su reglamento.
 
@@ -867,11 +881,11 @@ Si hubiera resistencia al desalojo o la violencia comienza a extenderse a otras 
 
 Para cumplir con las disposiciones de los artículos 87 y 88 de la Ley, los clubes deportivos y organizadores de los eventos deberán contar con un número suficiente de efectivos de seguridad, con las estrategias de colaboración y auxilio de la policía preventiva y de protección civil, y con el resto de las autorizaciones, permisos y medidas de seguridad que dicte la autoridad municipal.
 
-> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 90.
 
-El reglamento establecerá los casos y términos en que los organizadores de los eventos deportivos con fines de lucro deberán contar con un seguro de vida a favor de los asistentes a dichos eventos, que además cubra el daño a las cosas, atención médica y hospitalaria a las personas.
+El reglamento establecerá los casos y términos en que los organizadores de los eventos deportivos con fines de lucro deban contar con un seguro de vida a favor de los asistentes a los eventos deportivos, así como de responsabilidad civil general que ampare la cobertura de inmuebles y actividades así como de daños a terceros en bienes y personas que incluya atención médica y hospitalaria, mismo que deberá tener cobertura durante el tiempo que duren los eventos deportivos considerando además el horario de práctica e ingreso y egreso de los asistentes.
 
 > <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2015)</small>
 
@@ -881,11 +895,11 @@ Los clubes, las federaciones de clubes con domicilio en el Estado y los organiza
 
 Los datos asentados en el registro serán considerados como personales y serán protegidos como tales en los términos de la legislación respectiva, pero serán puestos a disposición de las autoridades en cualquier momento en que se les requiera.
 
-> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 92.
 
-La aplicación de sanciones administrativas por infracciones a este capítulo corresponde a los órganos directivos del deporte de conformidad a lo señalado en el artículo 70 de la presente Ley.
+La aplicación de sanciones administrativas por infracciones a este capítulo corresponde a los órganos directivos del deporte y a las autoridades estatales y municipales, según corresponda, de conformidad a lo señalado en el artículo 70 de la presente ley.
 
 > <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2015)</small>
 
@@ -927,15 +941,15 @@ c) Multa de 10 a 90 días de salario mínimo general vigente en el área geográ
 
 d) Suspensión de uno a cinco años del acceso a eventos deportivos masivos o con fines de espectáculos.
 
-> <small>(ADICIONADO, P.O. 27 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 95.
 
-Las infracciones al artículo 83 serán sancionadas conforme este capítulo sin perjuicio de las responsabilidades penales y civiles a que haya lugar.
+Las infracciones al artículo 83 serán sancionadas por la autoridad municipal conforme este capítulo sin perjuicio de las responsabilidades penales y civiles a que haya lugar.
 
-En caso de no estar reglamentado, el infractor será sancionado con el arresto inconmutable de veinticuatro a treinta y seis horas y con cincuenta días de trabajo comunitario.
+Si los organizadores de los eventos deportivos fueron omisos en el cumplimiento de las obligaciones establecidas en los artículos 87, 88 y 89 de la Ley, previo derecho de audiencia y defensa ante la autoridad competente y dicho incumplimiento es debidamente demostrado, serán sancionados con la reparación de los daños solidariamente con los infractores directos, independientemente de las sanciones administrativas que resulten de la omisión.
 
-Si los organizadores de los eventos deportivos fueron omisos en el cumplimiento de las obligaciones establecidas en los artículos 87, 88 y 89 de la Ley serán sancionados con la reparación de los daños solidariamente con los infractores directos, independientemente de las sanciones administrativas que resulten de la omisión.
+En contra de las resoluciones que impongan sanciones a los particulares procederá el recurso de revisión contemplado por la Ley del Procedimiento Administrativo.
 
 T R A N S I T O R I O S
 
@@ -1018,3 +1032,9 @@ P.O. 27 DE AGOSTO DE 2015.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 Segundo. Los gobiernos municipales y los organizadores deportivos disponen de un plazo de sesenta días para adecuar sus disposiciones reglamentarias para el cumplimiento del presente decreto.
+
+P.O. 17 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 25658/LX/15, QUE REFORMA LOS ARTÍCULOS 70, 83, 86, 87, 88, 90, 92 Y 95 DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
