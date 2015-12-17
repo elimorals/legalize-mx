@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2014-07-08"
+last_updated: "2015-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -458,6 +458,10 @@ XIII. Contar con el apoyo del Congreso del Estado en el caso de enfermedad o fal
 XIV. Realizar gestiones sociales y ser promotores de actividades que beneficien a los habitantes de sus distritos; y
 
 XV. Los demás que les confieran la Constitución Política del Estado de Jalisco, las leyes y disposiciones reglamentarias aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+2. Los diputados electos de forma independiente podrán presidir una comisión o comité e integrar como vocal hasta tres comisiones.
 
 ### CAPÍTULO III. Suplencia de los Diputados
 
@@ -4214,3 +4218,7 @@ Décimo Octavo. Se derogan todas las disposiciones legales que se opongan al pre
 Décimo Noveno. El Consejo General del Instituto Electoral emitirá los reglamentos y acuerdos que sean necesarios para la debida regulación de los procesos internos de selección de candidatos a cargos de elección popular y las precampañas, de conformidad con lo establecido en las leyes aplicables y en este Código, a más tardar la primera semana de octubre de 2014.
 
 Vigésimo. La implementación del nuevo Sistema Penal Acusatorio para los delitos establecidos en la Ley General en materia de Delitos Electorales entrará en vigor en los municipios del Estado, conforme a lo previsto por el decreto 24864/LX/14 publicado en el periódico oficial El Estado de Jalisco, el día 11 de abril de 2014.
+
+P.O. 17 DE DICIEMBRE DE 2015.
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
