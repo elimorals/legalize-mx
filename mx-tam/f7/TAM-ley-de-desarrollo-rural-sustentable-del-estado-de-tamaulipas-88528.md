@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-desarrollo-rural-sustentable-del-estado-de-tamaulipas-88
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-04"
-last_updated: "2012-07-04"
+last_updated: "2015-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88528&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE DEL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 4 de julio de 2012.
 
@@ -841,7 +841,9 @@ Las políticas del desarrollo rural sustentable serán gestionadas en el marco i
 
 1. El titular del Poder Ejecutivo del Estado, en concurrencia con los gobiernos municipales y con la participación de los Consejos, otorgará los apoyos necesarios para el fomento a la inversión del sector rural, siguiendo en todo momento, los principios de generalidad, temporalidad y protección de las finanzas públicas del Estado.
 
-2. Queda prohibida la utilización de los apoyos para la promoción personal o el proselitismo político, así como toda forma de discriminación por motivo de raza, género, credo o preferencia política.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+2. Queda prohibida la utilización de los apoyos para la promoción personal o el proselitismo político, así como cualquier causa de discriminación de las establecidas en el artículo 1o. constitucional o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
 ###### ARTÍCULO 58.
 
@@ -1175,7 +1177,7 @@ La Secretaría deberá establecer un registro de las organizaciones agrícolas, 
 
 I. El Acta Constitutiva y los Estatutos de la organización; y
 
-II. El número e identidad de sus afiliados; (sic)
+II. El número e identidad de sus afiliados;
 
 ###### ARTÍCULO 93.
 
@@ -1385,7 +1387,7 @@ La Secretaría establecerá un registro de las Organizaciones Forestales, el cua
 
 I. El Acta Constitutiva y los Estatutos de la organización; y,
 
-II. El número e identidad de sus afiliados; (sic)
+II. El número e identidad de sus afiliados;
 
 ###### ARTÍCULO 115.
 
@@ -1502,3 +1504,11 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, a los veintidós días del mes de junio del año dos mil doce.
 
 ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN.".- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EGIDIO TORRE CANTÚ.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- MORELOS CANSECO GÓMEZ.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 17 DE DICIEMBRE DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
