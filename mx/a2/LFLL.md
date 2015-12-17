@@ -4,7 +4,7 @@ identifier: "LFLL"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-24"
-last_updated: "2015-04-02"
+last_updated: "2015-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=61961&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFLL"
 
 LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 2 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 24 de julio de 2008.
 
@@ -41,6 +41,8 @@ SE EXPIDE LA LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO
 ###### ARTÍCULO PRIMERO.
 
 Se expide la Ley de Fomento para la Lectura y el Libro en los siguientes términos:
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO SEGUNDO DEL DECRETO PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 17 DE DICIEMBRE DE 2015, LAS MENCIONES CONTENIDAS EN LEYES, REGLAMENTOS Y DISPOSICIONES DE CUALQUIER NATURALEZA, RESPECTO DEL CONSEJO NACIONAL PARA LA CULTURA Y LAS ARTES, SE ENTENDERÁN REFERIDAS A LA SECRETARÍA DE CULTURA.</small>
 
 LEY DE FOMENTO PARA LA LECTURA Y EL LIBRO
 
@@ -80,7 +82,9 @@ Autoridades educativas locales: Ejecutivo de cada una de las entidades federativ
 
 Sistema Educativo Nacional: Constituido por los educandos y educadores, las autoridades educativas, los planes, programas, métodos y materiales educativos; las instituciones educativas del Estado y de sus organismos descentralizados; las instituciones de los particulares con autorización o con reconocimiento de validez oficial de estudios, y las instituciones de educación superior a las que la ley otorga autonomía.
 
-Bibliotecas escolares y de aula: Acervos bibliográficos que la Secretaría de Educación Pública, con la concurrencia de las autoridades locales, selecciona, adquiere y distribuye para su uso durante los procesos de enseñanza y aprendizaje en las aulas y las escuelas públicas de educación básica.
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+Bibliotecas escolares y de aula: Acervos bibliográficos que la Secretaría de Educación Pública y la Secretaría de Cultura, con la concurrencia de las autoridades locales, selecciona, adquiere y distribuye para su uso durante los procesos de enseñanza y aprendizaje en las aulas y las escuelas públicas de educación básica.
 
 Salas de lectura: Espacios alternos a las escuelas y bibliotecas, coordinadas por voluntarios de la sociedad civil, donde la comunidad tiene acceso gratuito al libro y otros materiales impresos, así como a diversas actividades encaminadas al fomento a la lectura.
 
@@ -122,21 +126,31 @@ VIII. Estimular la capacitación y formación profesional de los diferentes acto
 
 Son autoridades encargadas de la aplicación de la presente Ley en el ámbito de sus respectivas competencias:
 
-A. La Secretaría de Educación Pública;
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
 
-B. El Consejo Nacional para la Cultura y las Artes;
+A. La Secretaría de Cultura;
+
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+B. La Secretaría de Educación Pública;
 
 C. El Consejo Nacional de Fomento para el Libro y la Lectura, y
 
 D. Los Gobiernos estatales, municipales y del Distrito Federal.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 6.
 
-Corresponde a la Secretaría de Educación Pública y al Consejo Nacional para la Cultura y las Artes, de manera concurrente y considerando la opinión y propuestas del Consejo Nacional de Fomento para el Libro y la Lectura:
+Corresponde a la Secretaría de Cultura y a la Secretaría de Educación Pública, de manera concurrente y considerando la opinión y propuestas del Consejo Nacional de Fomento para el Libro y la Lectura:
 
 I. Elaborar el Programa de Fomento para el Libro y la Lectura, y
 
 II. Poner en práctica las políticas y estrategias contenidas en el Programa, estableciendo la coordinación interinstitucional con las instancias de los diferentes órdenes de gobierno, así como con los distintos sectores de la sociedad civil.
+
+> <small>(ADICIONADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+El Programa de Fomento para el Libro y la Lectura será expedido por el Secretario de Cultura.
 
 ###### Artículo 7.
 
@@ -170,9 +184,11 @@ VII. Promover el acceso y distribución de libros, fortaleciendo el vínculo ent
 
 VIII. Impulsar carreras técnicas y profesionales en el ámbito de la edición, la producción, promoción y difusión del libro y la lectura, en colaboración con autoridades educativas de los diferentes órdenes de gobierno, instituciones de educación media superior y superior y la iniciativa privada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 11.
 
-Corresponde al Consejo Nacional para la Cultura y las Artes:
+Corresponde a la Secretaría de Cultura:
 
 I. Impulsar, de manera coordinada con las autoridades correspondientes de los distintos órdenes de gobierno, programas, proyectos y acciones que promuevan de manera permanente la formación de usuarios plenos de la cultura escrita entre la población abierta;
 
@@ -188,9 +204,11 @@ VI. Generar programas de desarrollo profesional de fomento a la lectura para la 
 
 ### CAPÍTULO III. DEL CONSEJO NACIONAL DE FOMENTO PARA EL LIBRO Y LA LECTURA
 
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 12.
 
-Se crea el Consejo Nacional de Fomento para el Libro y la Lectura como un órgano consultivo de la Secretaría de Educación Pública y espacio de concertación y asesoría entre todas las instancias públicas, sociales y privadas vinculadas al libro y la lectura.
+Se crea el Consejo Nacional de Fomento para el Libro y la Lectura como un órgano consultivo de la Secretaría de Cultura y espacio de concertación y asesoría entre todas las instancias públicas, sociales y privadas vinculadas al libro y la lectura.
 
 ###### Artículo 13.
 
@@ -200,9 +218,17 @@ El Consejo Nacional de Fomento para el Libro y la Lectura se regirá por el manu
 
 El Consejo estará conformado por:
 
-I. Un presidente, que será el titular de la Secretaría de Educación Pública. En su ausencia será suplido por quien éste designe;
+> <small>(REFORMADA D.O.F. 17 DE DICIEMBRE DE 2015)</small>
 
-II. Un secretario ejecutivo, que será el titular del Consejo Nacional para la Cultura y las Artes. En su ausencia será suplido por quien éste designe;
+I. Un presidente, que será el titular de la Secretaría de Cultura. En su ausencia será suplido por quien éste designe;
+
+> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+II. Un secretario ejecutivo que designe el presidente del Consejo. En ausencia del secretario ejecutivo será suplido por quien éste designe;
+
+> <small>(ADICIONADA, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+II Bis. Un represente de la Secretaría de Educación Pública que designe su titular;
 
 III. El titular del Instituto Nacional de Lenguas Indígenas;
 
@@ -216,13 +242,13 @@ VII. El presidente de la Sociedad General de Escritores de México;
 
 VIII. El Director General de Materiales Educativos de la Secretaría de Educación Pública;
 
-> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
 
-IX. El Director General de Publicaciones del Consejo Nacional para la Cultura y las Artes;
+IX. El Director General de Publicaciones de la Secretaría de Cultura;
 
-> <small>(REFORMADA, D.O.F. 2 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
 
-X. El Director General de Bibliotecas del Consejo Nacional para la Cultura y las Artes;
+X. El Director General de Bibliotecas de la Secretaría de Cultura;
 
 > <small>(ADICIONADA, D.O.F. 2 DE ABRIL DE 2015)</small>
 
@@ -296,13 +322,17 @@ El quórum mínimo será del cincuenta por ciento más uno de sus miembros, y pa
 
 ### CAPÍTULO IV. DE LA COORDINACIÓN INTERINSTITUCIONAL, INTERGUBERNAMENTAL Y CON LA SOCIEDAD CIVIL
 
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 19.
 
-La Secretaría de Educación Pública y el Consejo Nacional para la Cultura y las Artes, son las instancias responsables de incentivar y promover la concurrencia, vinculación y congruencia de los programas y acciones de los distintos órdenes de gobierno, con base en los objetivos, estrategias y prioridades de la política nacional de fomento a la lectura y el libro.
+La Secretaría de Cultura y la Secretaría de Educación Pública, son las instancias responsables de incentivar y promover la concurrencia, vinculación y congruencia de los programas y acciones de los distintos órdenes de gobierno, con base en los objetivos, estrategias y prioridades de la política nacional de fomento a la lectura y el libro.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 20.
 
-Para impulsar la coordinación interinstitucional e intergubernamental en la aplicación de la presente Ley, la Secretaría de Educación Pública y el Consejo Nacional para la Cultura y las Artes, deberán:
+Para impulsar la coordinación interinstitucional e intergubernamental en la aplicación de la presente Ley, la Secretaría de Cultura deberá:
 
 I. Establecer mecanismos e instrumentos de coordinación, cooperación y vinculación, así como promover la celebración de convenios y acuerdos con dependencias de las distintas ramas y órdenes de gobierno y los órganos autónomos del Estado, para diseñar, planear, coordinar, aplicar y fortalecer políticas, programas, proyectos y acciones de fomento a la lectura y el libro;
 
@@ -363,3 +393,31 @@ En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Consti
 D.O.F. 2 DE ABRIL DE 2015.
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE DICIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El Consejo Nacional para la Cultura y las Artes se transforma en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto del Consejo Nacional para la Cultura y las Artes, se entenderán referidas a la Secretaría de Cultura.
+
+TERCERO. Los derechos laborales de los trabajadores que presten sus servicios en el Consejo Nacional para la Cultura y las Artes, en la Secretaría de Educación Pública, en los órganos administrativos desconcentrados y en las entidades paraestatales que, con motivo de la entrada en vigor del presente Decreto, queden adscritos o coordinados a la Secretaría de Cultura, respectivamente, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+CUARTO. El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, continuarán rigiéndose por sus respectivas leyes y demás disposiciones aplicables y dependerán de la Secretaría de Cultura, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Educación Pública.
+
+Los órganos administrativos desconcentrados denominados Radio Educación e Instituto Nacional de Estudios Históricos de las Revoluciones de México, se adscribirán a la Secretaría de Cultura y mantendrán su naturaleza jurídica.
+
+QUINTO. La Secretaría de Cultura integrará los diversos consejos, comisiones intersecretariales y órganos colegiados previstos en las disposiciones jurídicas aplicables, según el ámbito de sus atribuciones.
+
+SEXTO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+SÉPTIMO. Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Consejo Nacional para la Cultura y las Artes continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+Asimismo, todas las disposiciones, lineamientos, criterios y demás normativa emitida por el Secretario de Educación Pública que contengan disposiciones concernientes al Consejo Nacional para la Cultura y las Artes o los órganos administrativos desconcentrados que éste coordina, continuará en vigor en lo que no se opongan al presente Decreto, en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+OCTAVO. Las atribuciones y referencias que se hagan a la Secretaría de Educación Pública o al Secretario de Educación Pública que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura.
+
+NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
+
+DÉCIMO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
