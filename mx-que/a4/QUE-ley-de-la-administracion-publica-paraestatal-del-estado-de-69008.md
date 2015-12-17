@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-la-administracion-publica-paraestatal-del-estado-de-6900
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-17"
-last_updated: "2012-12-18"
+last_updated: "2015-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69008&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de junio de 2009.
 
@@ -255,9 +255,13 @@ Los directores generales ejercerán las facultades bajo su más estricta respons
 
 Para acreditar la personalidad y facultades de los miembros del órgano de gobierno, del director general y de los apoderados generales de los organismos descentralizados, bastará con exhibir copia certificada de la inscripción de su nombramiento o mandato en el Registro Público de Entidades Paraestatales del Estado de Querétaro.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 25.
 
-Cuando algún organismo descentralizado deje de cumplir sus fines u objeto o su funcionamiento no resulte ya conveniente desde el punto de vista de la economía del Estado o del interés público, la Secretaría de Planeación y Finanzas del Estado y la dependencia coordinadora del sector que corresponda, previa opinión de esta última, propondrán al Gobernador del Estado la disolución, liquidación o extinción de aquél. Asimismo, podrá proponer su fusión cuando su actividad combinada redunde en un incremento de eficiencia y productividad. El mismo criterio se seguirá en caso de comprobarse la conveniencia de transferir un organismo descentralizado al ámbito de competencia municipal.
+Cuando algún organismo descentralizado deje de cumplir sus fines u objeto o su funcionamiento no resulte ya conveniente desde el punto de vista de la economía del Estado o del interés público, la Secretaría de Planeación y Finanzas del Estado y la dependencia coordinadora del sector que corresponda, previa opinión de esta última, propondrán al Gobernador del Estado la disolución, liquidación o extinción de aquél. Asimismo, podrá proponer su fusión cuando su actividad combinada redunde en un incremento de eficiencia y productividad.
 
 ###### Artículo 26.
 
@@ -397,9 +401,13 @@ IV. Los rasgos más destacados de su organización para la producción o distrib
 
 ###### Artículo 44.
 
-Las entidades paraestatales, para su desarrollo, planeación y operación, deberán sujetarse a la Ley de Planeación del Estado de Querétaro, al Plan de Estatal de Desarrollo del Estado de Querétaro, a la Ley de Deuda Pública del Estado de Querétaro, a la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro, a los programas sectoriales y alas asignaciones de gasto y financiamiento autorizadas.
+Las entidades paraestatales, para su desarrollo, planeación y operación, deberán sujetarse a la Ley de Planeación del Estado de Querétaro, al Plan de Estatal de Desarrollo del Estado de Querétaro, a la Ley de Deuda Pública del Estado de Querétaro, a la Ley para el Manejo de los Recursos Públicos del Estado de Querétaro, a los programas sectoriales y a las asignaciones de gasto y financiamiento autorizadas.
 
-Las entidades a que se refiere la presente Ley, formularán sus programas institucionales a corto, mediano y largo plazo, que serán definidos por la Secretaría de Planeación y Finanzas del Estado, en cuanto a la duración de dichos plazos.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+Las entidades a que se refiere la presente Ley, formularán sus programas institucionales a corto, mediano y largo plazo.
 
 ###### Artículo 45.
 
@@ -453,7 +461,11 @@ I. Establecer, en congruencia con los programas sectoriales, las políticas gene
 
 II. Aprobar los programas y presupuestos de la entidad paraestatal, así como sus modificaciones, en los términos de la legislación aplicable;
 
-III. Fijar y ajustar los precios de bienes y servicios que produzca o preste la entidad paraestatal, con excepción de los de aquellos que se determinen por acuerdo del Gobernador del Estado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+III. Fijar y ajustar los precios de bienes y servicios que produzca o preste la entidad paraestatal, con excepción de los de aquellos que se determinen por acuerdo del Gobernador del Estado o que se encuentren previstos bajo cualquier clasificación, en la Ley de Hacienda del Estado de Querétaro y que se refieran a los bienes o servicios que preste la entidad de que se trate.
 
 IV. Aprobar la contratación de préstamos para el financiamiento de la entidad paraestatal, así como observar los lineamientos que dicten las autoridades competentes en materia de manejo de disponibilidades financieras, conforme a la Ley de Deuda Pública del Estado de Querétaro;
 
@@ -461,7 +473,7 @@ V. Expedir las normas o bases generales con arreglo a las cuales, cuando fuera n
 
 VI. Aprobar los estados financieros de la entidad paraestatal y autorizar la publicación de los mismos, previo informe de los comisarios y dictamen técnico de los auditores externos;
 
-VII. Aprobar, de acuerdo con las leyes aplicables, los convenios, contratos, pedidos o acuerdos que deba celebrar la entidad paraestataI con terceros en obras públicas, adquisiciones, arrendamientos, concesiones y prestación de servicios relacionados con bienes muebles e inmuebles. El director general y los servidores públicos que deben intervenir en tales actos, los realizará bajo su responsabilidad con sujeción a las directrices fijadas por el órgano de gobierno;
+VII. Aprobar, de acuerdo con las leyes aplicables, los convenios, contratos, pedidos o acuerdos que deba celebrar la entidad paraestatal con terceros en obras públicas, adquisiciones, arrendamientos, concesiones y prestación de servicios relacionados con bienes muebles e inmuebles. El director general y los servidores públicos que deben intervenir en tales actos, los realizará bajo su responsabilidad con sujeción a las directrices fijadas por el órgano de gobierno;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -732,3 +744,117 @@ XVI. Por la prestación de los servicios previstos en el artículo 135, fracció
 Los recursos que se obtengan por este concepto, se destinarán al Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro y su ejercicio se sujetará a las Reglas de Operación que al efecto establezca la Secretaría de Desarrollo Sustentable, previa aprobación de la Secretaría de Planeación y Finanzas. Dichas reglas serán publicadas en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 En todo caso, las cantidades que se recauden en los términos de dicha fracción se asignarán al desarrollo de políticas públicas, programas y proyectos que contribuyan a la disminución de las emisiones del dióxido de carbono y otros gases de efecto invernadero en el Estado, así como a aquellos que promuevan la sustentabilidad ambiental y la utilización de fuentes renovables de energía.
+
+P.O. 17 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY PARA EL MANEJO DE LOS RECURSOS PÚBLICOS DEL ESTADO DE QUERÉTARO, LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE QUERÉTARO, LEY DE ASOCIACIONES PÚBLICO PRIVADAS PARA EL ESTADO DE QUERÉTARO, LEY DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO DE QUERÉTARO, LA LEY DE ADQUISICIONES, ENAJENACIONES, ARRENDAMIENTOS Y CONTRATACIÓN DE SERVICIOS DEL ESTADO DE QUERÉTARO, LEY SOBRE BEBIDAS ALCOHÓLICAS DEL ESTADO DE QUERÉTARO, LEY DE HACIENDA DEL ESTADO DE QUERÉTARO Y EXPIDE LA LEY DEL FACTOR DE CÁLCULO DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley entrará en vigor el 1° de enero de 2016.
+
+Artículo Segundo. Las disposiciones de vigencia anual relativas a la Ley de Hacienda del Estado de Querétaro, para el ejercicio fiscal 2016, serán las siguientes:
+
+I. Siempre que se trate de vivienda de interés social o popular, los derechos que de conformidad con la Ley de Hacienda del Estado Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 50 por ciento:
+
+a) La inscripción de limitaciones de dominio; cancelación de reserva de dominio de bienes inmuebles; constitución o ejecución de fideicomisos traslativos de dominio; cesión de derechos inmobiliarios y donaciones, cuando se trate del primer adquirente;
+
+b) La inscripción del acta administrativa que contenga el permiso de urbanización, venta provisional de lotes y recepción definitiva de fraccionamientos, y
+
+c) La expedición de certificados de no propiedad;
+
+II. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 25 por ciento:
+
+a) La transmisión de propiedad de inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular;
+
+b) Los avisos preventivos relacionados con inmuebles destinados a la construcción de desarrollos habitacionales de interés social o popular, y
+
+c) Del contrato de hipoteca relacionado con la compraventa del inmueble de que se trate;
+
+Se causará un derecho a razón de 5 VFC por la inscripción del acto en el que conste la adquisición de vivienda de interés social o popular, el otorgamiento de créditos a favor del primer adquirente de dichos bienes, así como las garantías reales que otorgue dicha persona;
+
+III. Los derechos que de conformidad con lo previsto en la Ley de Hacienda del Estado de Querétaro deban pagarse por los servicios que preste el Registro Público de la Propiedad y del Comercio que a continuación se describen, se causarán al 50 por ciento:
+
+a) La inscripción del testimonio público en el que conste la adquisición de inmuebles efectuada por personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, siempre y cuando dichos inmuebles se destinen a actividades productivas y que con ello se propicie el mantenimiento de empleos;
+
+b) La inscripción de la escritura pública en la que conste la operación mediante la cual las personas morales y personas físicas con actividades empresariales que tengan su domicilio fiscal en el Estado, adquieran créditos, hipotequen bienes o fusionen predios, y
+
+c) La inscripción de las actas de asamblea en las que se realicen aumentos de capital de personas morales que tengan su domicilio fiscal en el Estado;
+
+IV. No se causarán los derechos previstos en la Ley de Hacienda del Estado de Querétaro, por los servicios de inscripción que preste el Registro Público de la Propiedad y del Comercio, respecto de:
+
+a) El acto en el que conste la reestructuración de los créditos señalados en el artículo 100 de la Ley de Hacienda del Estado de Querétaro, siempre que en los archivos de dicho Registro se encuentre la anotación del crédito inicial;
+
+b) El testimonio en el que conste la adquisición de inmuebles, efectuada por personas morales y personas físicas con actividad empresarial, con excepción de aquellas cuyo fin u objeto social consista en la venta de bienes inmuebles, siempre que los inmuebles adquiridos se destinen para el establecimiento de sus instalaciones operativas o administrativas y propicien con ello la generación de empleos;
+
+c) El testimonio en el que conste la adquisición de negociaciones en operación, por parte de personas morales y personas físicas con actividad empresarial, siempre que con ello se propicie el mantenimiento de empleos, y
+
+d) La inscripción de la cancelación de licencia de ejecución de obras de urbanización y la cancelación de autorización para venta de lotes;
+
+V. Por la expedición de los oficios y certificaciones a que se refieren las fracciones III y IV del artículo 127 de la Ley de Hacienda del Estado de Querétaro, que realice la Dirección de Catastro respecto de bienes considerados como vivienda de interés social o popular, se causará un derecho equivalente a 1.25 VFC;
+
+VI. Cuando los avisos de testamentos a los que se refiere el artículo 113 de la Ley de Hacienda del Estado de Querétaro, se lleven a cabo en el periodo que al efecto establezca la Secretaría de Gobierno, no se causarán los derechos correspondientes;
+
+VII. Los contribuyentes que realicen el pago de los derechos por refrendo de licencias para almacenaje, venta, porteo y consumo de bebidas alcohólicas, de manera anticipada al periodo establecido para tal efecto en el artículo 88 de la Ley de Hacienda del Estado de Querétaro, obtendrán los siguientes beneficios:
+
+MES DE PAGO DESCUENTO
+
+Enero 10%
+
+Febrero 8%
+
+Marzo 5%
+
+VIII. Las autoridades fiscales podrán cancelar créditos fiscales en sus registros por incosteabilidad en el cobro.
+
+Para efectos de esta fracción, se consideran créditos de cobro incosteable, aquellos cuyo importe histórico al 31 de diciembre de 2015, sea inferior o igual al equivalente en moneda nacional a 2000 unidades de inversión.
+
+No procederá la cancelación a que se refiere este artículo, cuando se trate de créditos fiscales derivados de obligaciones relacionadas con la propiedad, tenencia o uso de vehículos.
+
+La cancelación de los créditos a que se refiere este artículo no libera de su pago;
+
+IX. Las personas adultas mayores, los jubilados o pensionados y las personas con alguna discapacidad física que presenten la constancia correspondiente emitida por el Sistema Estatal para el Desarrollo Integral de la Familia, estarán exceptuadas del pago de los derechos relativos a la expedición de la constancia única de propiedad por parte del Registro Público de la Propiedad y del Comercio para efectos de obtener los beneficios previstos en las leyes municipales en materia del impuesto predial;
+
+X. Los servicios prestados por la Secretaría de Seguridad Ciudadana del Poder Ejecutivo del Estado, contemplados en la fracción I del artículo 153, de la Ley de Hacienda del Estado de Querétaro, causarán y pagarán una cuota adicional equivalente a 0.50 VFC al derecho que en dicho precepto se señala.
+
+El recurso que se obtenga por concepto de esta contribución, se destinará para equipamiento de los cuerpos voluntarios de bomberos y de atención médica prehospitalaria, que comprueben estar legalmente constituidos en el Estado, de acuerdo con las necesidades que acrediten ante un comité que estará integrado por el Secretario de Seguridad Ciudadana del Poder Ejecutivo del Estado, el titular de la Coordinación Estatal de Protección Civil y el Presidente de la Comisión de Seguridad Pública y Protección Civil del Poder Legislativo del Estado, pudiendo nombrarse un coordinador. Dichos recursos no podrán utilizarse para el gasto corriente de las corporaciones voluntarias a las que se refiere este artículo;
+
+XI. Los derechos que correspondan a los servicios prestados por el Instituto del Deporte y la Recreación del Estado de Querétaro, a que se refiere el artículo 135 de la Ley de Hacienda del Estado de Querétaro, tendrán las siguientes reducciones:
+
+REDUCCIÓN SUPUESTO
+
+30% En los paquetes familiares (por lo menos tres
+
+personas en las diferentes disciplinas, previa
+
+entrega de una copia del acta de nacimiento de
+
+cada familiar).
+
+Para adultos mayores.
+
+XII. Las personas que resulten beneficiarias de los apoyos contenidos en el Programa Apoyo Tenencia, podrán determinar el impuesto sobre tenencia o uso de vehículos previsto en la Ley de Hacienda del Estado de Querétaro a su cargo, considerando una reducción del veinticinco por ciento respecto de las cuotas, tasas y tarifas establecidas en dicho ordenamiento para efectos de su cálculo.
+
+XIII. Por los servicios de control vehicular contemplados en las fracciones I y II del artículo 157, de la Ley de Hacienda del Estado de Querétaro, se causará y pagará una cuota adicional equivalente a 0.50 VFC a los derechos que se señalan en las fracciones referidas de dicho precepto.
+
+El recurso que se obtenga por concepto de esta contribución, se destinará para equipamiento y/o gastos de operación de los cuerpos voluntarios de bomberos, de acuerdo con las necesidades que acrediten ante un comité que estará integrado por el Secretario de Seguridad Ciudadana del Poder Ejecutivo del Estado, el titular de la Coordinación Estatal de Protección Civil y el Presidente de la Comisión de Seguridad Pública y Protección Civil del Poder Legislativo del Estado, pudiendo nombrarse un coordinador;
+
+XIV. Por la prestación de los servicios previstos en la fracción I del artículo 157, de la Ley de Hacienda del Estado de Querétaro, adicionalmente al derecho que en dicho precepto se señala, se causará y pagará el equivalente a 0.85 VFC.
+
+Los recursos que se obtengan por este concepto, se destinarán al Fondo para la Protección Ambiental y el Desarrollo Sustentable en Querétaro y su ejercicio se sujetará a las Reglas de Operación que al efecto establezca la Secretaría de Desarrollo Sustentable, previa aprobación de la Secretaría de Planeación y Finanzas. Dichas reglas serán publicadas en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+En todo caso, las cantidades que se recauden en los términos de esta fracción se asignarán al desarrollo de políticas públicas, programas y proyectos que contribuyan a la disminución de las emisiones del dióxido de carbono y otros gases de efecto invernadero en el Estado, así como a aquellos que promuevan la sustentabilidad ambiental y la utilización de fuentes renovables de energía; y
+
+XV. Las calcomanías de revalidación y la tarjeta de circulación a que hace referencia el segundo párrafo de la fracción I del artículo 157 de la Ley de Hacienda del Estado de Querétaro, que hubiesen sido expedidas para los ejercicios fiscales 2013, 2014 y 2015, continuarán vigentes hasta el 31 de marzo de 2017.
+
+Para efectos de lo anterior, los contribuyentes, tenedores o usuarios de vehículos deberán realizar el pago de los derechos correspondientes al ejercicio fiscal 2016, por el servicio de refrendo y del impuesto sobre tenencia o uso de vehículos que contempla la referida ley y no tener adeudos por los mismos conceptos de ejercicios anteriores.
+
+Los citados contribuyentes, deberán comprobar la vigencia de la calcomanía y tarjeta de circulación señaladas en el primer párrafo de esta fracción, ante las autoridades que así se lo requieran, con el respectivo comprobante de pago conteniendo la cadena y sello digital que expida la autoridad fiscal.
+
+XVI. El impuesto sobre diversiones y espectáculos públicos a que se refiere el Capítulo Quinto, del Título Tercero, de la Ley de Hacienda del Estado de Querétaro, se reducirá en un 100%. En este caso, los contribuyentes no deberán cumplir con las obligaciones formales relativas a dicha contribución.
+
+XVII. Las obligaciones formales y sustantivas de los contribuyentes del impuesto sobre loterías, rifas, sorteos, concursos y juegos con apuestas, previsto por el Capítulo Sexto, del Título Tercero, de la Ley de Hacienda del Estado de Querétaro, se tendrán por cumplidas en su totalidad, en aquellos casos en los que hubiesen determinado y enterado dicho tributo correspondiente a los ejercicios fiscales 2012, 2013 y 2014, aplicando las deducciones a que se refieren los artículos 65, fracciones V y VI y 66, de la mencionada norma hacendaria en vigor a partir (sic) 1° de enero del 2015.
+
+XVIII. El monto del Factor de Cálculo a que se refiere la Ley del Factor de Cálculo del Estado de Querétaro, será de $72.50 (setenta y dos pesos 50/100 M.N.).
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que contravengan a la presente Ley.
+
+Artículo Cuarto. Remítase la presente Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga"
