@@ -4,7 +4,7 @@ identifier: "LARCP"
 country: "mx"
 rank: "ley"
 publication_date: "1992-07-15"
-last_updated: "2011-05-25"
+last_updated: "2015-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=646&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LARCP"
 ---
 # LEY DE ASOCIACIONES RELIGIOSAS Y CULTO PUBLICO
 
-LEY DE ASOCIACIONES RELIGIOSAS Y CULTO PUBLICO
+LEY DE ASOCIACIONES RELIGIOSAS Y CULTO PÚBLICO
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 25 DE MAYO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 15 de julio de 1992.
 
@@ -35,6 +35,8 @@ Que el H. Congreso de la Unión se ha servido dirigirme el siguiente
 D E C R E T O
 
 "EL CONGRESO DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A:
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO SEGUNDO DEL DECRETO PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 17 DE DICIEMBRE DE 2015, LAS MENCIONES CONTENIDAS EN LEYES, REGLAMENTOS Y DISPOSICIONES DE CUALQUIER NATURALEZA, RESPECTO DEL CONSEJO NACIONAL PARA LA CULTURA Y LAS ARTES, SE ENTENDERÁN REFERIDAS A LA SECRETARÍA DE CULTURA.</small>
 
 LEY DE ASOCIACIONES RELIGIOSAS Y CULTO PUBLICO.
 
@@ -64,7 +66,7 @@ e) No ser objeto de ninguna inquisición judicial o administrativa por la manife
 
 f) Asociarse o reunirse pacíficamente con fines religiosos.
 
-> <small>(REFORMADO PRIMER PARRAFO, D.O.F. 19 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 19 DE AGOSTO DE 2010)</small>
 
 ###### ARTICULO 3o.
 
@@ -176,7 +178,7 @@ ARTICULO 12 BIS.- Los ministros de culto, los asociados y los representantes de 
 
 Cuando se cometa un delito en contra de niñas, niños o adolescentes, las personas a que se refiere el párrafo anterior deberán informar esos mismos hechos en forma inmediata a los tutores o a quienes ejerzan la patria potestad de aquellos.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O.F. 25 DE MAYO DE 2011)</small>
 
@@ -236,9 +238,11 @@ Los funcionarios dotados de fe pública que intervengan en los actos jurídicos 
 
 A las personas físicas y morales así como a los bienes que esta ley regula, les serán aplicables las disposiciones fiscales en los términos de las leyes de la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 20.
 
-Las asociaciones religiosas nombrarán y registrarán ante la Secretaría de Desarrollo Social y el Consejo Nacional para la Cultura y las Artes, a los representantes responsables de los templos y de los bienes que sean monumentos arqueológicos, artísticos o históricos propiedad de la nación. Las mismas estarán obligadas a preservar en su integridad dichos bienes y a cuidar de su salvaguarda y restauración, en los términos previstos por las leyes.
+Las asociaciones religiosas nombrarán y registrarán ante las Secretarías de Gobernación y de Cultura, a los representantes responsables de los templos y de los bienes que sean monumentos arqueológicos, artísticos o históricos propiedad de la nación. Las mismas estarán obligadas a preservar en su integridad dichos bienes y a cuidar de su salvaguarda y restauración, en los términos previstos por las leyes.
 
 Los bienes propiedad de la nación que posean las asociaciones religiosas, así como el uso al que los destinen, estarán sujetos a esta ley, a la Ley General de Bienes Nacionales y en su caso, a la Ley Federal sobre Monumentos y Zonas Arqueológicos, Artísticos e Históricos, así como a las demás leyes y reglamentación aplicables.
 
@@ -460,7 +464,7 @@ México, D.F., 13 de julio de 1992.- Dip. Gustavo Carvajal Moreno, Presidente.- 
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos y para su debida publicación y observancia, expido el presente Decreto en la residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a los catorce días del mes de julio de mil novecientos noventa y dos. Carlos Salinas de Gortari.- Rúbrica.- El Secretario de Gobernación.- Fernando Gutiérrez Barrios.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 24 DE ABRIL DE 2006.
 
@@ -481,3 +485,31 @@ Las reformas a la Ley de Asociaciones Religiosas y Culto Público, a la Ley de I
 TERCERO. Las referencias que en otras leyes y demás disposiciones jurídicas se realicen a la Ley General de Población por lo que hace a cuestiones de carácter migratorio, se entenderán referidas a la Ley de Migración.
 
 CUARTO. Las resoluciones dictadas por la autoridad migratoria durante la vigencia de las disposiciones de la Ley General de Población que se derogan, surtirán sus plenos efectos jurídicos.
+
+D.O.F. 17 DE DICIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El Consejo Nacional para la Cultura y las Artes se transforma en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto del Consejo Nacional para la Cultura y las Artes, se entenderán referidas a la Secretaría de Cultura.
+
+TERCERO. Los derechos laborales de los trabajadores que presten sus servicios en el Consejo Nacional para la Cultura y las Artes, en la Secretaría de Educación Pública, en los órganos administrativos desconcentrados y en las entidades paraestatales que, con motivo de la entrada en vigor del presente Decreto, queden adscritos o coordinados a la Secretaría de Cultura, respectivamente, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+CUARTO. El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, continuarán rigiéndose por sus respectivas leyes y demás disposiciones aplicables y dependerán de la Secretaría de Cultura, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Educación Pública.
+
+Los órganos administrativos desconcentrados denominados Radio Educación e Instituto Nacional de Estudios Históricos de las Revoluciones de México, se adscribirán a la Secretaría de Cultura y mantendrán su naturaleza jurídica.
+
+QUINTO. La Secretaría de Cultura integrará los diversos consejos, comisiones intersecretariales y órganos colegiados previstos en las disposiciones jurídicas aplicables, según el ámbito de sus atribuciones.
+
+SEXTO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+SÉPTIMO. Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Consejo Nacional para la Cultura y las Artes continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+Asimismo, todas las disposiciones, lineamientos, criterios y demás normativa emitida por el Secretario de Educación Pública que contengan disposiciones concernientes al Consejo Nacional para la Cultura y las Artes o los órganos administrativos desconcentrados que éste coordina, continuará en vigor en lo que no se opongan al presente Decreto, en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+OCTAVO. Las atribuciones y referencias que se hagan a la Secretaría de Educación Pública o al Secretario de Educación Pública que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura.
+
+NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
+
+DÉCIMO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
