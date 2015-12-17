@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-hacienda-para-el-estado-de-tamaulipas-59131"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-31"
-last_updated: "2014-12-17"
+last_updated: "2015-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=59131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE HACIENDA PARA EL ESTADO DE TAMAULIPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Anexo al Extraordinario No. 5 del Periódico Oficial del Estado de Tamaulipas, el lunes 31 de diciembre de 2007.
 
@@ -1209,11 +1209,11 @@ III.- Presentar declaraciones, así como los avisos, datos, documentos e informe
 
 IV.- Cuando los sujetos operen con varios establecimientos deberán acumular la información de todos ellos en la declaración que corresponda su domicilio fiscal en el Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
-V.- Llevar la contabilidad de conformidad con el Código Fiscal del Estado de Tamaulipas, registrando en ella los pagos sujetos de este Capítulo debidamente clasificados, a excepción de los contribuyentes que se encuentren en el supuesto previsto en el Título IV, Capítulo II, Sección III, de la Ley del Impuesto sobre la Renta, quienes tendrán las obligaciones ahí señaladas;
+V.- Llevar la contabilidad de conformidad con el Código Fiscal del Estado de Tamaulipas, registrando en ella los pagos sujetos de este Capítulo debidamente clasificados, a excepción de los contribuyentes que se encuentren en el supuesto previsto en el Título IV, Capítulo ll, Sección ll, de la Ley del Impuesto sobre la Renta, quienes tendrán las obligaciones ahí señaladas;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1337,11 +1337,13 @@ j) La alimentación y la habitación cuando se entreguen en forma onerosa a trab
 
 k) Las despensas en especie, siempre que reúnan los requisitos de deducibilidad del Título II de la Ley de Impuesto sobre la Renta. No se considerarán incluidos los vales, bonos u otros de naturaleza análoga; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+l).- Los pagos de primas por seguros de vida de Técnicos o Dirigentes, a que se refiere el segundo párrafo de la fracción XII del artículo 27 de la Ley del Impuesto sobre la Renta.
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2012)</small>
-
-l) Los pagos de primas por seguros de vida de Técnicos o Dirigentes, a que se refiere el segundo párrafo de la fracción XIII del Artículo 31 de la Ley del Impuesto sobre la Renta.
 
 Para que las erogaciones mencionadas en esta fracción se excluyan de la base gravable, deberán estar debidamente comprobadas y registradas en la contabilidad del contribuyente y manifestarse en la declaración anual informativa del ejercicio que corresponda.
 
@@ -1509,9 +1511,11 @@ Los derechos por actas del Registro Civil se causarán conforme a la siguiente t
 
 I. INSCRIPCIONES.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-1. Inscripción del reconocimiento de hijo, adopción, defunción o de sentencias dictadas en las informaciones testimoniales relativas al nacimiento, defunción y demás hechos y actos previstos en este numeral, un día de salario mínimo. La inscripción de hechos relativos al nacimiento, y la expedición de la primer acta certificada de nacimiento, se hará sin pago alguno de derechos;
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+1. Inscripción del reconocimiento de hijo, adopción, defunción o de sentencias dictadas en las informaciones testimoniales relativas al nacimiento, defunción y demás hechos y actos del estado civil de las personas, un día de salario mínimo. La inscripción de hechos relativos al nacimiento, y la expedición de la primer acta certificada de nacimiento, se hará sin pago alguno de derechos;
 
 > <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
@@ -1523,25 +1527,49 @@ a) Expedidas en el país, ocho días de salario mínimo;
 
 b) Expedidas fuera del país, diez días de salario mínimo; y
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+c) Por el registro de divorcio tramitado en sede Notarial, ocho días de salario mínimo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+4. El registro de actos celebrados en el extranjero causarán una cuota igual al importe de diez días de salario mínimo;
 
 II. REGULARIZACIONES Y CANCELACIONES.
 
-a) El registro de actos celebrados en el extranjero causarán una cuota igual al importe de diez días de salario mínimo;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-b) La inscripción de las resoluciones judiciales de cancelación o rectificación de actas del estado civil causarán la cuota igual al importe de dos días de salario mínimo; y
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
-c) La corrección de errores en inscripciones causará la cuota igual al importe de tres días de salario mínimo.
+a).- La inscripción de las resoluciones judiciales de cancelación o rectificación de actas del estado civil causarán la cuota igual al importe de dos días de salario mínimo;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+b).- La corrección de errores en inscripciones causará la cuota igual al importe de tres días de salario mínimo, y;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+c).- Por la anotación del cambio de régimen patrimonial del matrimonio, efectuado por la vía judicial o ante Notario Público, dos días de salario.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 III. CERTIFICACIONES.
 
-a) Las certificaciones de actas y constancias que obren en los libros del registro civil así como de apéndices e índices respectivos, causarán la cuota igual al importe de un día de salario mínimo por hoja;
+a).- Por la expedición de certificaciones de actas y constancias que obren en los libros del Registro Civil, causarán la cuota igual al importe de un día de salario mínimo por hoja;
 
-b) Las certificaciones de firmas, inscripciones, anotaciones, índices o apéndices del registro civil, causarán la cuota igual al importe de un día de salario mínimo, por hoja; y
+b).- Las certificaciones de firmas, inscripciones, anotaciones, índices o apéndices que obren en los libros o en la base de datos de cualquier Oficialía o del archivo central del Registro Civil, causarán la cuota igual al importe de un día de salario mínimo, por hoja, y;
 
-c) Por la expedición de copias certificadas de actas que obren en la base de datos del Registro Civil, en lugar distinto al de su registro, por medio de la conexión estatal entre oficialías y la Coordinación General, el importe igual a un día de salario mínimo.
+c).- Por la expedición de copias certificadas de actas que obren en la base de datos del Registro Civil, en lugar distinto al de su registro, por medio de la conexión estatal entre la Coordinación General, Oficialías y Cajeros Automatizados, el importe igual a un día de salario mínimo.
 
 IV. DIVORCIO ADMINISTRATIVO.
 
@@ -1579,21 +1607,27 @@ II. Por la calificación de todo documento que se devuelva sin cumplimentar por 
 
 III. La inscripción de la escritura constitutiva, cualquier modificación a la misma, aumento de capital social de sociedades civiles o asociaciones civiles sobre el capital, 4 al millar, si no se consigna el monto del capital social con el importe de 10 días de salario mínimo;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-IV. La inscripción de poderes públicos y privados no mercantiles y la sustitución de los mismos, con el equivalente a cinco días de salario mínimo, si un solo poderdante designa un sólo apoderado; por cada poderdante o apoderado adicionales se cobrará además cuatro días de salario mínimo.
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
-Por la revocación o renuncia de los poderes, por cada una se cobrará cinco días de salario mínimo;
+IV. Por la revocación o renuncia de los poderes, por cada una se cobrará cinco días de salario mínimo;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-V. La inscripción o anotación de embargos, servidumbres, fianzas o de gravámenes o limitaciones a la propiedad y a la posesión de bienes inmuebles y muebles, como consecuencia de contratos, resolución judicial o disposición testamentaria, 4 al millar. La inscripción de cédulas hipotecarias, con el importe de diez días de salario mínimo;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+V. La inscripción o anotación de embargos, servidumbres, fianzas o de gravámenes o limitaciones a la propiedad y a la posesión de bienes inmuebles y muebles, como consecuencia de contratos, resolución judicial o disposición testamentaria, 4 al millar. La inscripción de cédulas hipotecarias, con el importe de diez días de salario mínimo. La inscripción de sujeción a litigio, con el importe de seis días de salario por anotación.
+
+En el caso de ampliación de embargo previamente registrado, aun tratándose de diversos inmuebles, con el importe de siete días de salario mínimo.
 
 VI. La inscripción de créditos hipotecarios, refaccionarios y de habilitación o avío otorgados por instituciones de crédito, de seguros o de fianzas sobre el importe de la operación, 4 al millar;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-VII. La inscripción de las informaciones ad-perpetuam, con el importe de cinco días de salario mínimo;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+VII. La inscripción de las informaciones ad-perpetuam, en las que no se adquiera el dominio o posesión de bienes inmuebles, con el importe de cinco días de salario mínimo;
 
 > <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
 
@@ -1601,13 +1635,21 @@ VIII. La inscripción de testamentos y de constancias relativas a actuaciones en
 
 IX. La inscripción de la condición de resolutoria sobre bienes muebles en los casos de venta, de pacto de reserva de dominio, de la prenda en general, de la prenda de frutos pendientes de bienes raíces y de la prenda de títulos de créditos, el 75 por ciento de las cuotas que establece la fracción I de este artículo y al practicarse la inscripción complementaria se cobrará el 25 por ciento restante;
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-X. La inscripción de fraccionamientos de terrenos, así como de actos, contratos, convenios o resoluciones judiciales o administrativas por las que se lotifique, relotifique, divida o subdivida un inmueble, causarán los derechos de inscripción siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+X. La inscripción de fraccionamientos de terrenos, así como de actos, contratos, convenios o resoluciones judiciales o administrativas por las que se lotifique, relotifique, divida, subdivida o fusione un inmueble por cada lote que resulte, causarán los derechos de inscripción siguientes:
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2011)</small>
 
 a) Lote urbano, siete días de salario mínimo;
 
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2011)</small>
+
 b) Lote rústico, cinco días de salario mínimo;
+
+> <small>(REFORMADO, P.O. 5 DE ABRIL DE 2011)</small>
 
 Por la inscripción de la constitución de régimen de propiedad en condominio o sus modificaciones, por cada unidad siete días de salario mínimo.
 
@@ -1633,9 +1675,11 @@ XV. Búsqueda de documentos, un día de salario mínimo; certificación o expedi
 
 XVI. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2014)
 
-> <small>(REFORMADA, P.O. 5 DE ABRIL DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XVII. Por la inscripción de avisos preventivos de compraventa, hipotecas y donaciones, el importe de diez días de salario mínimo, por cada propiedad;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+XVII. Por la anotación de avisos preventivos de compraventa, hipotecas y donaciones, el importe de diez días de salario mínimo, por cada propiedad;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
 
@@ -1645,9 +1689,11 @@ XVIII. Por la inscripción de contratos de mutuo con o sin garantía hipotecaria
 
 XIX. Por la consulta de un legajo, dos días de salario mínimo;
 
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XX. Por la rectificación o aclaración de documentos expedidos por el Instituto Registral y Catastral del Estado, siete días de salario mínimo; y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+XX. Por la rectificación o aclaración de documentos inscritos en el Instituto Registral y Catastral del Estado, siete días de salario mínimo; y
 
 > <small>(ADICIONADA, P.O. 5 DE ABRIL DE 2011)</small>
 
@@ -1661,19 +1707,33 @@ Cuando los servicios se presten a través de telefax o cualquier otro medio de c
 
 Para la determinación y cobro de los derechos que establece el artículo anterior, se observarán las reglas siguientes:
 
-I. Se tendrá como valor para los efectos de la aplicación de las tasas en los casos relativos a la enajenación de los bienes inmuebles, aquel que sirva de base para el cálculo del Impuesto sobre Adquisición de Bienes Inmuebles sin deducción alguna; en los casos que no se cause dicho impuesto, se tomará como base el valor de los bienes inmuebles determinado en el avalúo pericial expedido por la Dirección de Catastro de la Secretaría de Finanzas del Estado;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-II. En las emisiones de las cédulas hipotecarias en que se constituya hipoteca en favor de una institución de crédito, por las condiciones, cuotas, derechos y otros conceptos que no puedan determinarse al momento de realizarse la operación, se pagará por la inscripción que se haga de dicha hipoteca independiente de la que se constituya a favor de los tenedores de las cédulas, la cual causará la cuota correspondiente por cantidad indeterminada;
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+I. Se tendrá como valor para los efectos de la aplicación de las tasas en los casos relativos a la enajenación de los bienes inmuebles, aquel que sirva de base para el cálculo del Impuesto sobre Adquisición de Bienes Inmuebles sin deducción alguna; en los casos que no se cause dicho impuesto, se tomará como base el valor de los bienes inmuebles determinado en el avalúo pericial expedido por la autoridad catastral correspondiente;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+II. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2015)
 
 III. En toda transmisión de bienes o derechos reales que se realice por contrato o por resolución judicial, cuando en ella quedan comprendidos varios bienes, se pagará sobre el valor de cada uno de ellos. Si la transmisión comprende varios bienes y se realiza por una suma alzada, los interesados determinarán el valor que corresponda a cada uno de dichos bienes, a efecto de que sirva de base para el cobro de los derechos, debiendo observarse lo dispuesto en la fracción I de este artículo;
 
 IV. En las operaciones sobre bienes inmuebles, sujetos a condición suspensiva, resolutoria, reserva de dominio o cualquiera otra que deba originar una inscripción complementaria para su perfeccionamiento, se pagará de acuerdo a la tasa establecida en la fracción I del artículo 64 de esta ley;
 
-V. Para la aplicación de los derechos comprendidos en la fracción I del artículo 64 de esta ley, en su caso, la nuda propiedad y el usufructo se considerará el 50 por ciento de cada uno, del valor del inmueble consignado en el avalúo pericial expedido por la Dirección de Catastro. De la misma manera se procederá cuando se trate de derechos de uso, rentas vitalicias y otros casos similares;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+V. Para la aplicación de los derechos comprendidos en la fracción I del artículo 64 de esta ley, en su caso, la nuda propiedad y el usufructo se considerará el 50 por ciento de cada uno, del valor del inmueble consignado en el avalúo pericial expedido por la autoridad catastral correspondiente. De la misma manera se procederá cuando se trate de derechos de uso, rentas vitalicias y otros casos similares;
 
 VI. Cuando se trate de contratos, demandas o resoluciones que se refieren a prestaciones periódicas, el valor se determinará en la suma de estas, si se puede determinar exactamente su cuantía, en caso contrario se tomará como base, la cantidad que resulte, haciendo el cómputo por un año; y
 
-VII. En los casos en que los servicios que preste el Registro Público de la Propiedad Inmueble y del Comercio no se encuentren expresamente previstos en esta Sección, los derechos que a ellos corresponda se causarán por asimilación, aplicando las disposiciones relativas a casos con los que guarden semejanza.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+VII. En los casos en que los servicios que preste el Registro Público de la Propiedad Inmueble y del Comercio, no se encuentren expresamente previstos en esta Sección, los derechos que a ellos corresponda se causarán por asimilación, aplicando las disposiciones relativas a casos con los que guarden semejanza, y; si por la naturaleza del acto no fuera susceptible asimilarlo a los actos comprendidos en esta Sección, causará derechos por su anotación a razón de siete días de salario mínimo.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1699,7 +1759,11 @@ IV. Por la inscripción de bienes inmuebles o derechos reales pertenecientes, al
 
 V. Por la inscripción de títulos dentro del Programa de Regularización de la Tenencia de la Tierra en propiedad o posesión particular en el territorio del Estado, que permita la reinscripción al programa de Apoyos Directos al Campo, de los predios rurales privados, con superficies elegibles, carentes de documentación y libre de toda litis, que ya estén inscritos en dicho Programa, sin importar el nombre de éste;
 
-VI. Por la inscripción de avisos preventivos de compra-venta, hipoteca o donaciones;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+VI. Por la inscripción de avisos preventivos de compra-venta, hipoteca o donaciones celebradas en términos del presente artículo; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1709,11 +1773,13 @@ VII. Por la inscripción de fraccionamiento de terrenos, así como los actos, co
 
 VIII. Por la inscripción de títulos de predios urbanos en tierras ejidales, tramitados a través de un organismo gubernamental.
 
-> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 67.
 
-No se causarán los derechos a que se refieren los artículos 65 y 68 de esta Ley, por los informes que soliciten las autoridades judiciales solamente en causas penales o juicios de amparo, o por la expedición de copias certificadas, certificaciones, la inscripción de la cancelación de algún gravamen, la inscripción de la aclaración o corrección a documentos previamente inscritos, búsqueda de documentos e informes que soliciten oficialmente los demás servidores públicos del Gobierno del Estado, en ejercicio de sus facultades como autoridades, con excepción de los solicitados por los órganos jurisdiccionales del Poder Judicial del Estado. Tampoco se causarán los derechos por la inscripción de embargos de bienes solicitados por dichos servidores públicos, cuando se declare que dicho embargo se realiza para proteger o salvaguardar el patrimonio del Estado, garantizar el interés fiscal del mismo o los casos en que se requieran otorgar como garantía los bienes propiedad del Gobierno del Estado.
+No se causarán los derechos a que se refieren los artículos 64 y 68 de esta Ley, por los informes que soliciten las autoridades judiciales solamente en causas penales o juicios de amparo, o por la expedición de copias certificadas, certificaciones, la inscripción de la cancelación de algún gravamen, la inscripción de la aclaración o corrección a documentos previamente inscritos, búsqueda de documentos e informes que soliciten oficialmente los demás servidores públicos del Gobierno del Estado, en ejercicio de sus facultades como autoridades, con excepción de los solicitados por los órganos jurisdiccionales del Poder Judicial del Estado. Tampoco se causarán los derechos por la inscripción de embargos de bienes solicitados por dichos servidores públicos, cuando se declare que dicho embargo se realiza para proteger o salvaguardar el patrimonio del Estado, garantizar el interés fiscal del mismo o los casos en que se requieran otorgar como garantía los bienes propiedad del Gobierno del Estado.
 
 ###### Artículo 68.
 
@@ -2097,6 +2163,12 @@ b).- Duración de 3 años, doce días de salario mínimo.
 
 Se entenderá que la vigencia de la licencia de conducir, según se trate de su expedición por primera vez o renovación de la misma, comprende hasta el día y mes correspondientes a la fecha de nacimiento del titular de la misma.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+Por la reimpresión de licencia de conducir vigente se cobrará el 50% de lo establecido en los numerales 1 al 3, según la duración de que se trate.
+
 > <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 XVIII. Por el envío de documentación oficial a domicilio, se cobrará lo siguiente:
@@ -2105,7 +2177,11 @@ a).- Documentación enviada a domicilio dentro del mismo municipio de registro o
 
 b).- Documentación enviada a municipio distinto al de registro dentro del Estado o a un Estado diferente al de Tamaulipas, dos días y medio de salario mínimo.
 
-XIX. Búsqueda de registro vehicular en otras entidades federativas, dos días de salario mínimo, por cada búsqueda; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+XIX. Búsqueda de registro vehicular en otras entidades federativas, tres días de salario mínimo, por cada búsqueda;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3198,3 +3274,9 @@ P.O. 17 DE DICIEMBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto se publicará en el Periódico Oficial del Estado, y entrará en vigor el 1 de enero del 2015.
+
+P.O. 17 DE DICIEMBRE DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto se publicará en el Periódico Oficial del Estado, y entrará en vigor el 1 de enero del 2016.
