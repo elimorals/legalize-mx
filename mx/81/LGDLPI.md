@@ -4,7 +4,7 @@ identifier: "LGDLPI"
 country: "mx"
 rank: "ley_general"
 publication_date: "2003-03-13"
-last_updated: "2015-12-15"
+last_updated: "2015-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29246&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGDLPI"
 
 LEY GENERAL DE DERECHOS LINGÜÍSTICOS DE LOS PUEBLOS INDÍGENAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 13 de marzo de 2003.
 
@@ -41,6 +41,8 @@ SE CREA LA LEY GENERAL DE DERECHOS LINGÜÍSTICOS DE LOS PUEBLOS INDÍGENAS Y RE
 ###### ARTÍCULO PRIMERO.
 
 Se crea la Ley General de Derechos Lingüísticos de los Pueblos Indígenas conforme al texto siguiente.
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO SEGUNDO DEL DECRETO PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 17 DE DICIEMBRE DE 2015, LAS MENCIONES CONTENIDAS EN LEYES, REGLAMENTOS Y DISPOSICIONES DE CUALQUIER NATURALEZA, RESPECTO DEL CONSEJO NACIONAL PARA LA CULTURA Y LAS ARTES, SE ENTENDERÁN REFERIDAS A LA SECRETARÍA DE CULTURA.</small>
 
 LEY GENERAL DE DERECHOS LINGÜÍSTICOS DE LOS PUEBLOS INDÍGENAS
 
@@ -160,9 +162,11 @@ XV. Instrumentar las medidas necesarias para que en los municipios indígenas de
 
 ### Capítulo IV. DEL INSTITUTO NACIONAL DE LENGUAS INDÍGENAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 14.
 
-Se crea el Instituto Nacional de Lenguas Indígenas, como organismo descentralizado de la Administración Pública Federal, de servicio público y social, con personalidad jurídica y patrimonio propio, sectorizado en la Secretaría de Educación Pública, cuyo objeto es promover el fortalecimiento, preservación y desarrollo de las lenguas indígenas que se hablan en el territorio nacional, el conocimiento y disfrute de la riqueza cultural de la Nación, y asesorar a los tres órdenes de gobierno para articular las políticas públicas necesarias en la materia. Para el cumplimiento de este objeto, el Instituto tendrá las siguientes características y atribuciones:
+Se crea el Instituto Nacional de Lenguas Indígenas, como organismo descentralizado de la Administración Pública Federal, de servicio público y social, con personalidad jurídica y patrimonio propio, sectorizado en la Secretaría de Cultura, cuyo objeto es promover el fortalecimiento, preservación y desarrollo de las lenguas indígenas que se hablan en el territorio nacional, el conocimiento y disfrute de la riqueza cultural de la Nación, y asesorar a los tres órdenes de gobierno para articular las políticas públicas necesarias en la materia. Para el cumplimiento de este objeto, el Instituto tendrá las siguientes características y atribuciones:
 
 a) Diseñar estrategias e instrumentos para el desarrollo de las lenguas indígenas nacionales, en coordinación con los tres órdenes de gobierno y los pueblos y comunidades indígenas.
 
@@ -200,7 +204,9 @@ El Consejo Nacional se integrará con: siete representantes de la administració
 
 Los representantes de la Administración Pública Federal son los siguientes:
 
-1).- El Secretario de Educación Pública, quien lo presidirá en su carácter de titular de la coordinadora de sector, con fundamento en lo establecido en la Ley Federal de Entidades Paraestatales.
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+1).- El Secretario de Cultura, quien lo presidirá en su carácter de titular de la coordinadora de sector, con fundamento en lo establecido en la Ley Federal de Entidades Paraestatales.
 
 2).- Un representante de la Secretaría de Hacienda y Crédito Público con el nivel de Subsecretario.
 
@@ -208,7 +214,9 @@ Los representantes de la Administración Pública Federal son los siguientes:
 
 4).- Un representante de la Secretaría de Comunicaciones y Transportes.
 
-5).- Un representante del Consejo Nacional para la Cultura y las Artes.
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+5).- Un representante de la Secretaría de Educación Pública.
 
 > <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 2015)</small>
 
@@ -323,3 +331,31 @@ D.O.F. 15 DE DICIEMBRE DE 2015.
 DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 1, 3, 11 Y LA FRACCIÓN I DEL ARTÍCULO 13 DE LA LEY GENERAL DE DERECHOS LINGÜÍSTICOS DE LOS PUEBLOS INDÍGENAS.
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 17 DE DICIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El Consejo Nacional para la Cultura y las Artes se transforma en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto del Consejo Nacional para la Cultura y las Artes, se entenderán referidas a la Secretaría de Cultura.
+
+TERCERO. Los derechos laborales de los trabajadores que presten sus servicios en el Consejo Nacional para la Cultura y las Artes, en la Secretaría de Educación Pública, en los órganos administrativos desconcentrados y en las entidades paraestatales que, con motivo de la entrada en vigor del presente Decreto, queden adscritos o coordinados a la Secretaría de Cultura, respectivamente, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+CUARTO. El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, continuarán rigiéndose por sus respectivas leyes y demás disposiciones aplicables y dependerán de la Secretaría de Cultura, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Educación Pública.
+
+Los órganos administrativos desconcentrados denominados Radio Educación e Instituto Nacional de Estudios Históricos de las Revoluciones de México, se adscribirán a la Secretaría de Cultura y mantendrán su naturaleza jurídica.
+
+QUINTO. La Secretaría de Cultura integrará los diversos consejos, comisiones intersecretariales y órganos colegiados previstos en las disposiciones jurídicas aplicables, según el ámbito de sus atribuciones.
+
+SEXTO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+SÉPTIMO. Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Consejo Nacional para la Cultura y las Artes continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+Asimismo, todas las disposiciones, lineamientos, criterios y demás normativa emitida por el Secretario de Educación Pública que contengan disposiciones concernientes al Consejo Nacional para la Cultura y las Artes o los órganos administrativos desconcentrados que éste coordina, continuará en vigor en lo que no se opongan al presente Decreto, en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+OCTAVO. Las atribuciones y referencias que se hagan a la Secretaría de Educación Pública o al Secretario de Educación Pública que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura.
+
+NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
+
+DÉCIMO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
