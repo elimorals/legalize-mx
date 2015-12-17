@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-salud-del-estado-de-jalisco-antes-ley-estatal-de-5890"
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-30"
-last_updated: "2015-09-29"
+last_updated: "2015-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5890&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY DE SALUD DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el martes 30 de diciembre de 1986.
 
@@ -683,11 +683,17 @@ La ludoteca estará proyectada para fortalecer el estado de ánimo de los enferm
 
 Con la finalidad de alcanzar los propósitos establecidos en este artículo, la Secretaría de Salud de Jalisco, procurará suscribir convenios de colaboración con el Sistema Nacional de Bibliotecas, videotecas, casas editoriales o librerías; así como con establecimientos especializados en la elaboración y venta de juguetes, especialmente didácticos, para dotar de material a los espacios de recreo que se establezcan en las instituciones de salud públicas o del sector social.
 
-Las ludotecas atenderán preferentemente a niños, discapacitados, adultos mayores y demás enfermos, en ese orden.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
-Cubiertas las necesidades de recreación de los internos, se podrán establecer ludotecas para la atención de niños y adolescentes que aguarden en salas de espera de clínicas u hospitales.
+Las ludotecas atenderán preferentemente a niñas, niños y adolescentes, personas con discapacidad, adultos mayores y en condición de vulnerabilidad.
 
-El cumplimiento de las obligaciones a (sic) que se señalan en este artículo estará condicionado a la disponibilidad de espacios adecuados y recursos presupuestales y financieros con que cuenten las instituciones de que se trate.
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+Cubiertas las necesidades de recreación de los internos, se podrán establecer ludotecas para la atención de niñas, niños y adolescentes que aguarden en salas de espera de clínicas u hospitales.
+
+> <small>(REFORMADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+El cumplimiento de las obligaciones que se señalan en este artículo estará condicionado a la disponibilidad de espacios adecuados y recursos presupuestales y financieros con que cuenten las instituciones de que se trate.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -1691,7 +1697,9 @@ Será considerada acción de salud pública la obligación de que en todo edific
 
 Art. 80 bis. Las personas con discapacidad como sujetos de asistencia social prioritaria recibirán en el Sistema Estatal de Salud los servicios de atención médica que correspondan conforme al nivel de atención y posibilidades de resolución de los establecimientos de salud.
 
-La prevención de la discapacidad, habilitación y rehabilitación de discapacitados comprende:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+La prevención de la discapacidad, habilitación y rehabilitación de las personas con discapacidad comprende:
 
 I. La investigación de las causas de la discapacidad y de los factores que la condicionan;
 
@@ -1703,13 +1711,27 @@ IV. La orientación educativa en materia de rehabilitación a la colectividad en
 
 V. La atención integral de las personas con discapacidad, incluyendo la adaptación de las prótesis, órtesis y ayudas funcionales que éstos requieran;
 
-VI. La promoción para adecuar facilidades urbanísticas y arquitectónicas a las necesidades de las personas con discapacidad, y
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
-VII. La promoción de la educación y la capacitación para el trabajo, así como la promoción del empleo de las personas en proceso de habilitación o rehabilitación.
+VI. La promoción de los ajustes razonables en infraestructura y servicios inclusivos, que cumplan con los requisitos de diseño universal y accesibilidad para las personas con discapacidad;
+
+> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+VII. La promoción de la educación y la capacitación para el trabajo, así como la promoción del empleo de las personas en proceso de habilitación o rehabilitación; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+VIII. Las demás establecidas en la Ley para la Inclusión y Desarrollo Integral de Personas con Discapacidad.
 
 > <small>(ADICIONADO, P.O. 13 DE MARZO DE 2001)</small>
 
 Art. 80 ter. La atención médica que se preste a los adultos mayores deberá cumplir con los criterios establecidos en el Código de Asistencia Social del Estado, las Normas Oficiales Mexicanas y demás disposiciones legales aplicables, e incluirá programas educativos y de promoción de la salud.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+###### Art. 80 Quater.
+
+Los certificados de reconocimiento y calificación de discapacidad se expedirán en términos del artículo 23 párrafo segundo de la Ley para la Inclusión y Desarrollo Integral de Personas con Discapacidad, conforme a la Clasificación Nacional de Discapacidades. El certificado tendrá validez nacional, y deberá emitirse conforme a lo previsto por la Ley para la Inclusión y Desarrollo Integral de Personas con Discapacidad.
 
 ### CAPITULO X. De la disponibilidad de medicamentos y otros insumos
 
@@ -4826,3 +4848,19 @@ SEGUNDO. Los recursos humanos, financieros y materiales con que cuente el Instit
 TERCERO. La presente reforma entrará en vigor a los 90 días siguientes de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 CUARTO. El Ejecutivo Estatal deberá prever y proveer, de acuerdo a la disposición financiera existente, de mayores recursos al Organismo Público Descentralizado Servicios de Salud Jalisco para que éste incremente el presupuesto al Instituto Jalisciense de Alivio al Dolor y Cuidados Paliativos para el ejercicio fiscal 2016, y en la medida de lo posible, fortalezca el que tiene para 2015.
+
+P.O. 17 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 25558/LX/15 QUE REFORMA, ADICIONA Y DEROGA DIVERSOS ARTÍCULOS DE LA LEY PARA LA ATENCIÓN Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD; Y REFORMA SU DENOMINACIÓN PARA QUEDAR COMO LEY PARA LA INCLUSIÓN Y DESARROLLO INTEGRAL DE LAS PERSONAS CON DISCAPACIDAD, Y REFORMA LOS ARTÍCULOS 27 BIS, 80 BIS Y SE ADICIONA EL ARTÍCULO 80 QUATER DE LA LEY DE SALUD”.]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+SEGUNDO. El Consejo contará con noventa días a partir de la vigencia de este decreto, para reformar su reglamento, conforme a lo establecido en la presente Ley.
+
+TERCERO. Dentro de los sesenta días siguientes a la entrada en vigor de este decreto, el Consejo Estatal para la Atención e Inclusión de Personas con Discapacidad deberá elaborar y proponer a la Secretaría de Desarrollo e Integración Social el proyecto de reglamento de la Ley para la inclusión y desarrollo integral de las personas con discapacidad, para en su caso ser propuesta para el Ejecutivo Estatal.
+
+CUARTO. Dentro de los ciento veinte días siguientes a la entrada en vigor de este decreto, y según lo contenido en el artículo segundo de este decreto, la Unidad de Valoración con el apoyo del Consejo, deberá elaborar y proponer al titular de la Secretaría de Salud la expedición de protocolos y normas técnicas, para el diagnóstico, la atención y el tratamiento de personas con discapacidad, conforme a lo previsto en el artículo 23; el titular de la Secretaría de Salud deberá emitir y publicar los protocolos y normas técnicas dentro de los sesenta días posteriores, conforme al artículo 26.
+
+QUINTO. Dentro de los ciento ochenta días siguientes a la entrada en vigor de este decreto, el Consejo deberá proponer a la Secretaria de Salud, para su publicación en el Periódico Oficial "El Estado de Jalisco", los criterios y lineamientos técnicos para la emisión de las certificaciones de reconocimiento y calificación de discapacidad en los términos previstos por los artículos 12 y 23, conforme al artículo segundo de este decreto.
+
+SEXTO. Hasta en tanto se expide la Clasificación Nacional de Discapacidades, la evaluación de las personas con discapacidad se realizará conforme a la Clasificación Internacional del Funcionamiento de la Discapacidad y de la Salud.
