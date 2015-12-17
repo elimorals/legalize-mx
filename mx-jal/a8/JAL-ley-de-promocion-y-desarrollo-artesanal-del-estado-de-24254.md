@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-promocion-y-desarrollo-artesanal-del-estado-de-24254"
 country: "mx"
 rank: "ley"
 publication_date: "2002-03-19"
-last_updated: "2014-10-09"
+last_updated: "2015-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24254&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "JAL"
 
 LEY DE PROMOCIÓN Y DESARROLLO ARTESANAL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2014.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE PROMOCIÓN Y DESARROLLO ARTESANAL DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 17 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Jalisco, el martes 19 de marzo de 2002.
 
@@ -1026,3 +1028,15 @@ P.O. 23 DE FEBRERO DE 2012.
 P.O. 9 DE OCTUBRE DE 2014.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 17 DE DICIEMBRE DE 2015.
+
+Artículo Primero.- La presente Ley iniciará su vigencia el día siguiente al de su publicación en el periódico oficial El Estado de Jalisco.
+
+Artículo Segundo.- Se abroga el decreto 19469 publicado en el Periódico Oficial "El Estado de Jalisco" de fecha 19 de marzo de 2002.
+
+Artículo Tercero.- Los procedimientos administrativos iniciados al amparo de las disposiciones que con fundamento en el (sic) Ley que se abroga podrán continuar su substanciación de conformidad con sus disposiciones.
+
+Artículo Cuarto.- El Titular del Ejecutivo del Estado deberá realizar las adecuaciones necesarias al reglamento de esta Ley en un plazo no mayor a noventa días posteriores a su entrada en vigor.
+
+Artículo Quinto.- La Junta de Gobierno deberá actualizar el reglamento interior del Instituto en un plazo no mayor a noventa días posteriores a la publicación de esta Ley.
