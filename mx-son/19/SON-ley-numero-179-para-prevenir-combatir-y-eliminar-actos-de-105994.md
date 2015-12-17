@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-179-para-prevenir-combatir-y-eliminar-actos-de-10599
 country: "mx"
 rank: "ley"
 publication_date: "2014-11-24"
-last_updated: "2014-11-24"
+last_updated: "2015-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105994&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY PARA PREVENIR, COMBATIR Y ELIMINAR ACTOS DE DISCRIMINACIÓN EN EL ESTADO DE SONORA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 17 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 24 de noviembre de 2014.
 
@@ -177,9 +177,17 @@ XXXIV.- Estigmatizar y negar derechos a personas que viven con VIH/SIDA;
 
 XXXV.- La aplicación de políticas públicas, programas u otras acciones de gobierno que siendo aparentemente neutrales tengan un impacto desventajoso en los derechos de las personas;
 
-XXXVI.- Efectuar actos de maltrato y acoso escolar; o
+> <small>(REFORMADA, B.O. 17 DE DICIEMBRE DE 2015)</small>
 
-XXXVII.- En general, cualquier otro acto u omisión discriminatorio en términos del artículo 1, fracción III de esta Ley.
+XXXVI.- Efectuar actos de maltrato y acoso escolar;
+
+> <small>(REFORMADA, B.O. 17 DE DICIEMBRE DE 2015)</small>
+
+XXXVII.- Negar o limitar el otorgamiento de intérpretes en Lengua de Señas Mexicana (LSM) a personas con sordera o con alguna incapacidad auditiva, que impida su derecho a educación; o
+
+> <small>(ADICIONADA, B.O. 17 DE DICIEMBRE DE 2015)</small>
+
+XXXVIII.- En general, cualquier otro acto u omisión discriminatorio en términos del artículo 1, fracción III de esta Ley.
 
 ### CAPÍTULO III. DE LAS MEDIDAS DE NIVELACIÓN, MEDIDAS DE INCLUSIÓN Y ACCIONES AFIRMATIVAS
 
@@ -247,6 +255,10 @@ Se tomará en cuenta la edad de las personas a fin (sic) aplicarlas a niñas, ni
 
 Las instancias públicas que adopten medidas de nivelación, medidas de inclusión y acciones afirmativas, deben reportarlas anualmente al Consejo para su registro y monitoreo. El Consejo determinará la información a recabar y la forma de hacerlo en los términos que se establecen en el estatuto.
 
+> <small>(ADICIONADO, B.O. 17 DE DICIEMBRE DE 2015)</small>
+
+Cada uno de los poderes públicos estatales y municipales y aquellas instituciones que estén bajo regulación o competencia de esta ley, deberá reportar las medidas de nivelación, medidas de inclusión, y acciones afirmativas que hayan implementado a la Comisión, para que los incorpore al sistema de indicadores del desempeño que para su efecto realizará dicha Comisión, que permitirá medir su efectividad en la gestión de dichas medidas.
+
 ### CAPÍTULO IV. DE LAS ATRIBUCIONES DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS EN MATERIA DE PREVENCIÓN Y ELIMINACIÓN DE TODAS LAS FORMAS DE DISCRIMINACIÓN
 
 ###### Artículo 18.
@@ -283,9 +295,23 @@ XIV.- Elaborar y suscribir convenios, acuerdos, bases de coordinación y demás 
 
 XV.-Las demás establecidas en esta Ley y demás disposiciones legales aplicables.
 
+> <small>(REFORMADO, B.O. 17 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 19.
 
 La Comisión difundirá los avances, resultados e impactos de los programas y acciones en materia de prevención y eliminación de la discriminación, a fin de mantener informada a la sociedad.
+
+Por lo que deberá establecer los instrumentos necesarios para constituir un sistema de información en esta materia. Integrará una base de datos sobre las quejas y/o denuncias presentadas por los ciudadanos y grupos sociales, así como las resoluciones emitidas por el consejo, que incluirá el detalle de las acciones que lleve a cabo, así como el seguimiento y los resultados obtenidos en cada una de ellas.
+
+La base se sistematizará y actualizará permanentemente para ser consultada en la página electrónica oficial de la Comisión, usando las herramientas tecnológicas que permitan el fácil y rápido acceso a los usuarios.
+
+A partir de la base de datos mencionada, la Comisión construirá un sistema de indicadores del desempeño que permita medir su efectividad en la gestión y solución de las quejas y/o denuncias presentadas.
+
+Los indicadores formarán parte de la evaluación de la labor de la Comisión en el combate a la discriminación y la exclusión, que conduzca a las instituciones a emprender las acciones preventivas o correctivas para mejorar su desempeño en la materia.
+
+La Comisión publicará de forma trimestral y anual los resultados alcanzados por el sistema (sic) indicadores de desempeño, así como una calificación de aprobatoria o negativa a la evaluación de la gestión de las instituciones obligadas a cumplir dichas medidas.
+
+En la publicación de la información señalada, la Comisión deberá atender los principios de transparencia, de certeza, eficacia, imparcialidad, independencia, legalidad, máxima publicidad, objetividad y profesionalismo.
 
 ### CAPÍTULO V. DEL CONSEJO CIUDADANO PARA PREVENIR LA DISCRIMINACIÓN
 
@@ -356,3 +382,13 @@ Comuníquese al Titular del Poder Ejecutivo para su sanción y publicación en e
 Por tanto, mando se publique en el Boletín Oficial del Gobierno del Estado y se le dé el debido cumplimiento.
 
 Dado en la Residencia del Poder Ejecutivo, en la ciudad de Hermosillo, Sonora, a los diecinueve días del mes de noviembre del año dos mil catorce.- SUFRAGIO EFECTIVO, NO REELECCIÓN. EL GOBERNADOR DEL ESTADO.- GUILLERMO PADRÉS ELÍAS.- EL SECRETARIO DE GOBIERNO.- LIC. ROBERTO ROMERO LÓPEZ.- RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+B.O. 17 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 14, QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY PARA PREVENIR, COMBATIR Y ELIMINAR ACTOS DE DISCRIMINACIÓN EN EL ESTADO DE SONORA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
