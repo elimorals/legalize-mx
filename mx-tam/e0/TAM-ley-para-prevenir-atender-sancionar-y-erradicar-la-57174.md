@@ -4,7 +4,7 @@ identifier: "TAM-ley-para-prevenir-atender-sancionar-y-erradicar-la-57174"
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-22"
-last_updated: "2015-03-24"
+last_updated: "2015-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57174&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el miércoles 22 de agosto de 2007.
 
@@ -71,9 +71,9 @@ e) privilegiar el desarrollo de un ambiente social en el cual se promuevan la li
 
 ###### Artículo 3.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2015)</small>
 
-Para los efectos de esta ley se consideran manifestaciones de violencia contra la mujer, las siguientes:
+Los tipos de violencia contra las mujeres son:
 
 a) Psicológica: cualquier acción u omisión que provoque un daño o alteración en la estabilidad psicológica de la mujer. Dicha acción u omisión comprende cualesquiera conducta o conductas que produzcan depresión, aislamiento, deterioro de la autoestima o propensión al suicidio de la mujer;
 
@@ -106,6 +106,32 @@ V. El obstaculizar sin causa médica justificada el apego precoz del niño o ni�
 > <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2014)</small>
 
 g) Diversa: cualquier forma análoga que lesione la dignidad, integridad o libertad de la mujer.
+
+> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 3 Bis.
+
+Para los efectos de esta Ley, se entenderá por:
+
+I. Ley: La Ley para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+
+II. Organizaciones de la Sociedad Civil: Las instituciones o agrupaciones ciudadanas legalmente constituidas que tengan por objeto atender a las mujeres víctimas de violencia, así como realizar acciones de difusión orientadas a la prevención y erradicación de la violencia en contra de las mujeres;
+
+III. Sistema Nacional: El Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+
+IV. Sistema Estatal: El Sistema Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres;
+
+V. Modalidades de violencia: Las formas, tipos o los ámbitos de ocurrencia en que se presenta la violencia contra las mujeres;
+
+VI. Violencia contra las mujeres: Cualquier conducta de acción o conducta, basada en su género, que cause muerte, daño o sufrimiento psicológico, físico, patrimonial, económico, sexual, obstétrica o diversa en la mujer, tanto en el ámbito privado como en el público;
+
+VII. Víctima: La mujer de cualquier edad a quien se le inflige cualquier tipo de violencia;
+
+VIII. Agresor: La persona que inflige cualquier tipo de violencia contra las mujeres;
+
+IX. Derechos Humanos de las Mujeres: Refiere a los derechos humanos contenidos en la Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer (CEDAW), la Convención sobre los Derechos del Niño, la Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer (Belem Do Pará) y demás instrumentos internacionales en la materia; y
+
+X. Refugios: Son los albergues, centros o establecimientos constituidos por organismos o asociaciones civiles o del Estado para la atención y protección de mujeres que han sido víctimas de violencia.
 
 ### Capítulo II. Modalidades de la violencia
 
@@ -329,7 +355,53 @@ k) Los Institutos de la Mujer de los Municipios o las unidades administrativas c
 
 1. El Sistema Estatal impulsará el Programa Integral para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres, a que se refiere la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, y sus acciones se realizarán en concordancia a los preceptos de ese ordenamiento, enriqueciéndolos, en su caso, con las premisas y circunstancias que deriven de los aspectos culturales y las costumbres en determinada región que sean útiles para salvaguardar el propósito de la presente ley estatal.
 
-2. En todo caso, el Sistema Estatal podrá asumir las atribuciones que establece el orden normativo de carácter general sobre una vida libre de violencia para las mujeres.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+2. En todo caso, el Sistema Estatal podrá asumir las atribuciones que establece el orden normativo de carácter general sobre una vida libre de violencia para las mujeres, considerando en forma enunciativa más no limitativa las siguientes:
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+I. Impulsar y fomentar el conocimiento y el respeto a los derechos humanos de las mujeres;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+II. Garantizar el principio de Transversalidad estipulado en la presente ley, de forma que en su aplicación se tomen en cuenta las necesidades y demandas específicas de todas las mujeres víctimas de violencia de género;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+III. Educar y capacitar en materia de derechos humanos de la mujer y el respeto a la igualdad de género al personal encargado de la procuración de justicia, policías y demás servidores públicos encargados de las políticas de prevención, atención, sanción y eliminación de la violencia contra las mujeres;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+IV. Brindar los servicios especializados y gratuitos para la atención y protección a las víctimas, por medio de las autoridades y las instituciones públicas o privadas;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+V. Incorporar y fomentar programas de educación pública y privada, destinados a promover el respeto de los derechos y libertades fundamentales, entre las mujeres y los hombres;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+VI. Promover programas de prevención destinados a concientizar a la sociedad sobre las causas y consecuencias de la violencia contra la mujer;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+VII. Diseñar programas de atención y capacitación a víctimas de violencia contra la mujer, que les permita participar plenamente en todos los ámbitos de la vida;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+VIII. Promover y difundir en medios de comunicación y electrónicos la erradicación de todos los tipos de violencia contra la mujer y fortalecer el respeto a los derechos humanos, su dignidad e integridad;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+IX. Propiciar la elaboración de diagnósticos estadísticos sobre las causas, la frecuencia y las consecuencias de la violencia contra las mujeres, con el fin de evaluar la eficacia de las medidas desarrolladas para prevenir, atender, sancionar y erradicar todo tipo de violencia;
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+X. Proporcionar a las instancias encargadas de realizar estadísticas, la información necesaria para la elaboración de éstas; y
+
+> <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2015)</small>
+
+XI. Promover la cultura de denuncia de violencia contra las mujeres en el marco de la eficacia de las instituciones para garantizar su seguridad y su integridad.
 
 ### Capítulo VI. De la atención y refugio para víctimas
 
@@ -676,3 +748,11 @@ P.O. 24 DE MARZO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación.
+
+P.O. 17 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. LXII-733 MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 3 PÁRRAFO ÚNICO, 12 PÁRRAFO 2; Y SE ADICIONAN LOS ARTÍCULOS 3 BIS Y LAS FRACCIONES I, II, III, IV, V, VI, VII, VIII, IX, X Y XI AL PÁRRAFO 2 DEL ARTÍCULO 12, DE LA LEY PARA PREVENIR, ATENDER, SANCIONAR Y ERRADICAR LA VIOLENCIA CONTRA LAS MUJERES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
