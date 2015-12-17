@@ -4,7 +4,7 @@ identifier: "SON-ley-para-la-proteccion-de-los-derechos-de-ninas-ninos-y-46658"
 country: "mx"
 rank: "ley"
 publication_date: "2002-10-24"
-last_updated: "2015-11-09"
+last_updated: "2015-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46658&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SON"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 9 DE NOVIEMBRE DE 2015.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SONORA, PUBLICADA EN EL B.O. DE 17 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 17 DE DICIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en la Sección Primera del Boletín Oficial del Estado de Sonora, el jueves 24 de octubre de 2002.
 
@@ -678,3 +680,27 @@ B.O. 9 DE NOVIEMBRE DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 17 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY NÚMERO 81 DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SONORA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente Ley entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley para la Protección de los Derechos de las Niñas, los Niños y Adolescentes.
+
+###### ARTÍCULO TERCERO.
+
+Los sistemas estatal y municipales de protección deberán integrarse a más tardar dentro de los ciento ochenta días naturales siguientes a la entrada en vigor de la presente Ley.
+
+###### ARTÍCULO CUARTO.
+
+El Ejecutivo del Estado expedirá la reglamentación necesaria en un plazo no mayor a ciento ochenta días naturales a partir de la entrada en vigor de la presente Ley. Los sistemas DIF estatal y municipales deberán reformar su normatividad en un plazo no mayor a ciento ochenta días naturales, a partir de la entrada en vigor de la presente Ley, para formalizar la creación de la Procuraduría de Protección a la que alude el mismo.
+
+###### ARTÍCULO QUINTO.
+
+El Congreso del Estado establecerá en el presupuesto de egresos los recursos suficientes que permitan dar cumplimiento a la totalidad de las acciones establecidas por la presente Ley y los ayuntamientos harán lo propio en sus respectivos presupuestos.
