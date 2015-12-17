@@ -4,7 +4,7 @@ identifier: "LDPAM"
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-25"
-last_updated: "2012-04-25"
+last_updated: "2015-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25062&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LDPAM"
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 25 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 25 de junio de 2002.
 
@@ -39,6 +39,8 @@ DECRETO
 "EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A:
 
 SE CREA LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES
+
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO SEGUNDO DEL DECRETO PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 17 DE DICIEMBRE DE 2015, LAS MENCIONES CONTENIDAS EN LEYES, REGLAMENTOS Y DISPOSICIONES DE CUALQUIER NATURALEZA, RESPECTO DEL CONSEJO NACIONAL PARA LA CULTURA Y LAS ARTES, SE ENTENDERÁN REFERIDAS A LA SECRETARÍA DE CULTURA.</small>
 
 LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES
 
@@ -348,17 +350,29 @@ II. La formulación de programas educativos de licenciatura y posgrado en geriat
 
 III. En los planes y programas de estudio de todos los niveles educativos, la incorporación de contenidos sobre el proceso de envejecimiento;
 
-IV. Facilitar el acceso a la cultura promoviendo su expresión a través de talleres, exposiciones, concursos y eventos comunitarios, nacionales e internacionales;
+IV. (DEROGADA, D.O.F. 17 DE DICIEMBRE DE 2015)
 
-V. El acceso gratuito o con descuentos especiales a eventos culturales que promuevan las instituciones públicas y privadas, previa acreditación de edad, a través de una identificación personal;
+V. (DEROGADA, D.O.F. 17 DE DICIEMBRE DE 2015)
 
-VI. Programas culturales y concursos en los que participen exclusivamente personas adultas mayores, otorgando a los ganadores los reconocimientos y premios correspondientes;
+VI. (DEROGADA, D.O.F. 17 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2005)</small>
-
-VII. El derecho de hacer uso de las bibliotecas públicas que facilitarán el préstamo a domicilio del material de las mismas, con la presentación de su identificación personal, credencial de jubilado o pensionado y/o credencial de persona adulta mayor, y
+VII. (DEROGADA, D.O.F. 17 DE DICIEMBRE DE 2015)
 
 VIII. Fomentar entre toda la población una cultura de la vejez, de respeto, aprecio y reconocimiento a la capacidad de aportación de las personas adultas mayores.
+
+> <small>(ADICIONADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 17 Bis.
+
+Corresponde a la Secretaría de Cultura, garantizar a las personas adultas mayores:
+
+I. El acceso a la cultura, promoviendo su expresión a través de talleres, exposiciones, concursos y eventos comunitarios, nacionales e internacionales;
+
+II. El acceso gratuito o con descuentos especiales a eventos culturales que promuevan las instituciones públicas o privadas, previa acreditación de edad;
+
+III. Programas culturales y concursos en los que participen exclusivamente personas adultas mayores, otorgando a los ganadores los reconocimientos y premios correspondientes, y
+
+IV. El derecho de hacer uso de las bibliotecas públicas que facilitarán el préstamo a domicilio del material de las mismas, con la presentación de su identificación personal, credencial de jubilado o pensionado y/o credencial de persona adulta mayor.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 26 DE ENERO DE 2005)</small>
 
@@ -466,7 +480,9 @@ I. Impulsar la participación de las personas adultas mayores en actividades de 
 
 II. Promover actividades de recreación turística con tarifas preferentes, diseñadas para personas adultas mayores, y
 
-III. En coordinación con la Secretaría de Comunicaciones y Transportes y la Secretaría de Educación Pública, el establecimiento de convenios con las empresas del ramo para ofrecer tarifas especiales y/o gratuitas en los centros públicos o privados de entretenimiento, recreación, cultura y deporte, hospedajes en hoteles y centros turísticos.
+> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+III. Promover y, en su caso suscribir, en coordinación con la (sic) secretarías de Comunicaciones y Transportes, de Educación Pública y de Cultura, convenios con las empresas del ramo turístico para ofrecer tarifas especiales o gratuitas en los centros públicos o privados de entretenimiento, recreación, cultura y deporte, hospedajes en hoteles y centros turísticos.
 
 ## TÍTULO QUINTO. DEL INSTITUTO NACIONAL DE LAS PERSONAS ADULTAS MAYORES
 
@@ -620,11 +636,17 @@ g. Sistema Nacional para el Desarrollo Integral de la Familia.
 
 h. Instituto Mexicano del Seguro Social.
 
-i. Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
 
-> <small>(ADICIONADO, D.O.F. 25 DE ABRIL DE 2012)</small>
+i. Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado;
 
-j. Secretaría de Comunicaciones y Transportes.
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+j. Secretaría de Comunicaciones y Transportes, y
+
+> <small>(ADICIONADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+k. Secretaría de Cultura.
 
 Los representantes propietarios designarán a sus suplentes, quienes deberán tener un nivel mínimo de Director General.
 
@@ -827,3 +849,31 @@ Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin e
 D.O.F. 25 DE ABRIL DE 2012.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación
+
+D.O.F. 17 DE DICIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El Consejo Nacional para la Cultura y las Artes se transforma en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto del Consejo Nacional para la Cultura y las Artes, se entenderán referidas a la Secretaría de Cultura.
+
+TERCERO. Los derechos laborales de los trabajadores que presten sus servicios en el Consejo Nacional para la Cultura y las Artes, en la Secretaría de Educación Pública, en los órganos administrativos desconcentrados y en las entidades paraestatales que, con motivo de la entrada en vigor del presente Decreto, queden adscritos o coordinados a la Secretaría de Cultura, respectivamente, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+CUARTO. El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, continuarán rigiéndose por sus respectivas leyes y demás disposiciones aplicables y dependerán de la Secretaría de Cultura, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Educación Pública.
+
+Los órganos administrativos desconcentrados denominados Radio Educación e Instituto Nacional de Estudios Históricos de las Revoluciones de México, se adscribirán a la Secretaría de Cultura y mantendrán su naturaleza jurídica.
+
+QUINTO. La Secretaría de Cultura integrará los diversos consejos, comisiones intersecretariales y órganos colegiados previstos en las disposiciones jurídicas aplicables, según el ámbito de sus atribuciones.
+
+SEXTO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+SÉPTIMO. Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Consejo Nacional para la Cultura y las Artes continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+Asimismo, todas las disposiciones, lineamientos, criterios y demás normativa emitida por el Secretario de Educación Pública que contengan disposiciones concernientes al Consejo Nacional para la Cultura y las Artes o los órganos administrativos desconcentrados que éste coordina, continuará en vigor en lo que no se opongan al presente Decreto, en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+OCTAVO. Las atribuciones y referencias que se hagan a la Secretaría de Educación Pública o al Secretario de Educación Pública que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura.
+
+NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
+
+DÉCIMO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
