@@ -4,7 +4,7 @@ identifier: "LOINAH"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1939-02-03"
-last_updated: "1998-01-23"
+last_updated: "2015-12-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=408&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,9 +20,9 @@ abbreviation: "LOINAH"
 ---
 # LEY ORGANICA DEL INSTITUTO NACIONAL DE ANTROPOLOGIA E HISTORIA
 
-LEY ORGANICA DEL INSTITUTO NACIONAL DE ANTROPOLOGIA E HISTORIA
+LEY ORGÁNICA DEL INSTITUTO NACIONAL DE ANTROPOLOGÍA E HISTORIA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACION: 23 DE ENERO DE 1998.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Diario Oficial de la Federación el viernes 3 de febrero de 1939.
 
@@ -36,11 +36,15 @@ L E Y :
 
 "El Congreso de los Estados Unidos Mexicanos, decreta:
 
+> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO SEGUNDO DEL DECRETO PUBLICADO EN LA PRIMERA SECCIÓN DEL D.O.F. DE 17 DE DICIEMBRE DE 2015, LAS MENCIONES CONTENIDAS EN LEYES, REGLAMENTOS Y DISPOSICIONES DE CUALQUIER NATURALEZA, RESPECTO DEL CONSEJO NACIONAL PARA LA CULTURA Y LAS ARTES, SE ENTENDERÁN REFERIDAS A LA SECRETARÍA DE CULTURA.</small>
+
 LEY ORGANICA DEL INSTITUTO NACIONAL DE ANTROPOLOGIA E HISTORIA
 
-###### ARTICULO 1o.
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
 
-Se crea el Instituto Nacional de Antropología e Historia, con personalidad jurídica propia y dependiente de la Secretaría de Educación Pública.
+###### ARTÍCULO 1o.
+
+El Instituto Nacional de Antropología e Historia tiene personalidad jurídica propia y depende de la Secretaría de Cultura.
 
 > <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1986)</small>
 
@@ -58,7 +62,9 @@ III. En los términos del artículo 7o. de la Ley Federal sobre Monumentos y Zon
 
 IV. Proponer a la autoridad competente, la expedición de reglamentos que contengan normas generales y técnicas para la conservación y restauración de zonas y monumentos arqueológicos, históricos y paleontológicos, que sean aplicados en forma coordinada con los gobiernos estatales y municipales.
 
-V. Proponer al Secretario de Educación Pública la celebración de acuerdos de coordinación con las autoridades federales, estatales y municipales, tendientes a la mejor protección y conservación del patrimonio histórico, arqueológico y paleontológico de la nación y del carácter típico y tradicional de las ciudades y poblaciones.
+> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+V. Proponer al Secretario de Cultura la celebración de acuerdos de coordinación con las autoridades federales, estatales y municipales, tendientes a la mejor protección y conservación del patrimonio histórico, arqueológico y paleontológico de la nación y del carácter típico y tradicional de las ciudades y poblaciones.
 
 VI. Promover, conjuntamente con los gobiernos de los estados y los municipios, la elaboración de manuales y cartillas de protección del patrimonio arqueológico, histórico y paleontológico, en su ámbito territorial, que adecúen los lineamientos nacionales de conservación y restauración a las condiciones concretas del estado y del municipio.
 
@@ -70,7 +76,9 @@ IX. Identificar, investigar, recuperar, rescatar, proteger, restaurar, rehabilit
 
 X. Investigar, identificar, recuperar y proteger las tradiciones, las historias orales y los usos, como herencia viva de la capacidad creadora y de la sensibilidad de todos los pueblos y grupos sociales del país.
 
-XI. Proponer al ejecutivo federal las declaratorias de zonas y monumentos arqueológicos e históricos y de restos paleontológicos, sin perjuicio de la facultad del ejecutivo para expedirlas directamente.
+> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+XI. Proponer al Secretario de Cultura las declaratorias de zonas y monumentos arqueológicos e históricos y de restos paleontológicos, sin perjuicio de la facultad del ejecutivo para expedirlas directamente;
 
 XII. Llevar el registro público de las zonas y monumentos arqueológicos e históricos y de los restos paleontológicos.
 
@@ -82,7 +90,9 @@ XV. Formular y difundir el catálogo de las zonas y monumentos arqueológicos e 
 
 XVI. Publicar obras relacionadas con las materias de su competencia y participar en la difusión y divulgación de los bienes y valores que constituyen el acervo cultural de la nación, haciéndolos accesibles a la comunidad y promoviendo el respeto y uso social del patrimonio cultural.
 
-XVII. Impulsar, previo acuerdo del Secretario de Educación Pública, la formación de Consejos consultivos estatales para la protección y conservación del patrimonio arqueológico, histórico y paleontológico, conformados por instancias estatales y municipales, así como por representantes de organizaciones sociales, académicas y culturales que se interesen en la defensa de este patrimonio.
+> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+XVII. Impulsar, previo acuerdo del Secretario de Cultura, la formación de Consejos consultivos estatales para la protección y conservación del patrimonio arqueológico, histórico y paleontológico, conformados por instancias estatales y municipales, así como por representantes de organizaciones sociales, académicas y culturales que se interesen en la defensa de este patrimonio.
 
 XVIII. Impartir enseñanza en las áreas de Antropología e Historia, conservación, restauración y museografía, en los niveles de técnico-profesional, profesional, de posgrado y de extensión educativa, y acreditar estudios para la expedición de los títulos y grados correspondientes.
 
@@ -140,15 +150,13 @@ II. De acuerdo con su estructura territorial, en Centros o Delegaciones Regional
 
 III. De acuerdo con su estructura administrativa, en las unidades que el reglamento de esta Ley establezca para el mejor desempeño de sus funciones.
 
-> <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1986)</small>
+> <small>(REFORMADO, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 6o.
 
-El Instituto estará a cargo de un Director General, nombrado y removido libremente por el Secretario de Educación Pública.
+El Instituto estará a cargo de un Director General, nombrado y removido libremente por el Secretario de Cultura.
 
-> <small>(REFORMADO, D.O.F. 23 DE ENERO DE 1998)</small>
-
-Para ser Director General del Instituto Nacional de Antropología e Historia se requiere ser mexicano por nacimiento que no adquiera otra nacionalidad, estar en pleno goce y ejercicio de sus derechos civiles y políticos, mayor de 30 años de edad, con grado académico y méritos reconocidos en alguna de las materias de competencia del Instituto.
+Para ser Director General del Instituto Nacional de Antropología e Historia se requiere ser mexicano por nacimiento, estar en pleno goce y ejercicio de sus derechos civiles y políticos, mayor de 30 años de edad, con grado académico y méritos reconocidos en alguna de las materias de competencia del Instituto.
 
 > <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1986)</small>
 
@@ -160,7 +168,9 @@ I. Representar legalmente al Instituto.
 
 II. Otorgar, revocar y sustituir poderes.
 
-III. Acordar con el Secretario de Educación Pública en los asuntos de su competencia.
+> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+III. Acordar con el Secretario de Cultura los asuntos de su competencia.
 
 IV. Presidir las sesiones del Consejo General Consultivo y propiciar sus resoluciones.
 
@@ -168,17 +178,23 @@ V. Autorizar y hacer cumplir los programas de trabajo del Instituto.
 
 VI. Nombrar y remover al personal de confianza en los términos de la legislación aplicable.
 
-VII. Proponer los proyectos de reglamentos y aprobar los manuales necesarios para el funcionamiento del Instituto.
+> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+VII. Proponer al Secretario de Cultura los proyectos de reglamentos y aprobar los manuales internos necesarios para el funcionamiento y operación del Instituto.
 
 VIII. Celebrar contratos y realizar toda clase de actos de dominio.
 
 IX. Presentar oportunamente, a las autoridades federales competentes, el proyecto de presupuesto anual.
 
-X. Presentar al Secretario de Educación Pública un informe anual de actividades del Instituto y el programa de trabajo a desarrollar durante el ejercicio correspondiente.
+> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+X. Presentar al Secretario de Cultura un informe anual de actividades del Instituto y el programa de trabajo anual a desarrollar.
 
 XI. Celebrar convenios con personas físicas o jurídicas y con organismos públicos o privados, nacionales, internacionales o extranjeros.
 
-XII. Las demás que le confieran las leyes, el Secretario de Educación Pública y las que para el ejercicio de su cargo deba desempeñar.
+> <small>(REFORMADA, D.O.F. 17 DE DICIEMBRE DE 2015)</small>
+
+XII. Las demás que le confieran otras leyes, los reglamentos y el Secretario de Cultura.
 
 > <small>(REFORMADO, D.O.F. 13 DE ENERO DE 1986)</small>
 
@@ -251,3 +267,31 @@ UNICO.- El presente Decreto entrará en vigor el día siguiente de su publicaci�
 D.O.F. 23 DE ENERO DE 1998.
 
 UNICO.- El presente Decreto entrará en vigor el 20 de marzo de 1998.
+
+D.O.F. 17 DE DICIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El Consejo Nacional para la Cultura y las Artes se transforma en la Secretaría de Cultura, por lo que todos sus bienes y recursos materiales, financieros y humanos se transferirán a la mencionada Secretaría, junto con los expedientes, archivos, acervos y demás documentación, en cualquier formato, que se encuentre bajo su resguardo.
+
+A partir de la entrada en vigor del presente Decreto, las menciones contenidas en leyes, reglamentos y disposiciones de cualquier naturaleza, respecto del Consejo Nacional para la Cultura y las Artes, se entenderán referidas a la Secretaría de Cultura.
+
+TERCERO. Los derechos laborales de los trabajadores que presten sus servicios en el Consejo Nacional para la Cultura y las Artes, en la Secretaría de Educación Pública, en los órganos administrativos desconcentrados y en las entidades paraestatales que, con motivo de la entrada en vigor del presente Decreto, queden adscritos o coordinados a la Secretaría de Cultura, respectivamente, serán respetados en todo momento, de conformidad con lo dispuesto en las leyes y demás disposiciones aplicables.
+
+CUARTO. El Instituto Nacional de Antropología e Historia y el Instituto Nacional de Bellas Artes y Literatura, continuarán rigiéndose por sus respectivas leyes y demás disposiciones aplicables y dependerán de la Secretaría de Cultura, misma que ejercerá las atribuciones que en dichos ordenamientos se otorgaban a la Secretaría de Educación Pública.
+
+Los órganos administrativos desconcentrados denominados Radio Educación e Instituto Nacional de Estudios Históricos de las Revoluciones de México, se adscribirán a la Secretaría de Cultura y mantendrán su naturaleza jurídica.
+
+QUINTO. La Secretaría de Cultura integrará los diversos consejos, comisiones intersecretariales y órganos colegiados previstos en las disposiciones jurídicas aplicables, según el ámbito de sus atribuciones.
+
+SEXTO. Los asuntos que se encuentren en trámite a la entrada en vigor del presente Decreto y sean competencia de la Secretaría de Cultura conforme a dicho Decreto, continuarán su despacho por esta dependencia, conforme a las disposiciones jurídicas aplicables.
+
+SÉPTIMO. Todas las disposiciones, normas, lineamientos, criterios y demás normativa emitida por el Consejo Nacional para la Cultura y las Artes continuará en vigor hasta en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+Asimismo, todas las disposiciones, lineamientos, criterios y demás normativa emitida por el Secretario de Educación Pública que contengan disposiciones concernientes al Consejo Nacional para la Cultura y las Artes o los órganos administrativos desconcentrados que éste coordina, continuará en vigor en lo que no se opongan al presente Decreto, en tanto las unidades administrativas competentes de la Secretaría de Cultura determinen su modificación o abrogación.
+
+OCTAVO. Las atribuciones y referencias que se hagan a la Secretaría de Educación Pública o al Secretario de Educación Pública que en virtud del presente Decreto no fueron modificadas, y cuyas disposiciones prevén atribuciones y competencias en las materias de cultura y arte que son reguladas en este Decreto se entenderán referidas a la Secretaría de Cultura o Secretario de Cultura.
+
+NOVENO. Las erogaciones que se generen con motivo de la entrada en vigor de este Decreto, se cubrirán con cargo al presupuesto aprobado al Consejo Nacional para la Cultura y las Artes, así como a las entidades paraestatales y órganos administrativos desconcentrados que quedan agrupados en el sector coordinado por la Secretaría de Cultura, por lo que no se autorizarán recursos adicionales para tal efecto durante el ejercicio fiscal que corresponda, sin perjuicio de aquellos recursos económicos que, en su caso, puedan destinarse a los programas o proyectos que esa dependencia del Ejecutivo Federal considere prioritarios, con cargo al presupuesto autorizado para tales efectos y en términos de las disposiciones aplicables.
+
+DÉCIMO. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
