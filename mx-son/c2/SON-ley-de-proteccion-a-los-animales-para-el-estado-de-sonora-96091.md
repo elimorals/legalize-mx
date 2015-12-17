@@ -4,7 +4,7 @@ identifier: "SON-ley-de-proteccion-a-los-animales-para-el-estado-de-sonora-96091
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-27"
-last_updated: "2014-12-08"
+last_updated: "2015-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96091&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SON"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 3 DE NOVIEMBRE DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 8 DE DICIEMBRE DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 17 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Sección VII del Boletín Oficial del Estado de Sonora, el jueves 27 de junio de 2013.
 
@@ -807,9 +805,9 @@ III. Multa;
 
 IV. Arresto hasta por 36 horas;
 
-V. Prisión de seis meses a dos años y multa de 50 a 100 días de salario mínimo general vigente en la capital del Estado de Sonora, a quienes lesionen animales por crueldad o maltrato que no ponen en riesgo sus vidas;
+V. (DEROGADA, B.O. 17 DE DICIEMBRE DE 2015)
 
-VI. Prisión de dos a cuatro años y multa de 200 a 400 días de salario mínimo general vigente en la capital del Estado de Sonora, si se causa la muerte de algún animal por maltrato o crueldad; y
+VI. (DEROGADA, B.O. 17 DE DICIEMBRE DE 2015)
 
 VII. Las demás que señale el Reglamento.
 
@@ -870,3 +868,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Los Ayuntamientos del Estado, contarán con un plazo de 60 días naturales, contados a partir de la entrada en vigor del presente decreto, para adecuar su reglamento conforme a las disposiciones contenidas en este ordenamiento.
+
+B.O. 17 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 35 QUE DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE SONORA Y DEL CÓDIGO PENAL DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
