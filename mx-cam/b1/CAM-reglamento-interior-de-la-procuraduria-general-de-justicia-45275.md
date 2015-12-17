@@ -4,7 +4,7 @@ identifier: "CAM-reglamento-interior-de-la-procuraduria-general-de-justicia-4527
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-06-21"
-last_updated: "2014-11-24"
+last_updated: "2015-12-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45275&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CAM"
 
 REGLAMENTO INTERIOR DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE NOVIEMBRE DE 2014.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA FISCALÍA GENERAL DEL ESTADO DE CAMPECHE, PUBLICADO EN EL P.O. DE 17 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en la Sección Administrativa del Periódico Oficial del Estado de Campeche, el martes 21 de junio de 2005.
 
@@ -1412,3 +1414,19 @@ PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicac
 P.O. 24 DE NOVIEMBRE DE 2014.
 
 PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 17 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA FISCALÍA GENERAL DEL ESTADO DE CAMPECHE”.]
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga el Reglamento Interior de la Procuraduría General de Justicia del Estado de Campeche, publicado en el Periódico Oficial del Estado el día 21 de junio del año 2005, así como sus subsecuentes modificaciones.
+
+Tercero.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente reglamento interior.
+
+Cuarto.- Los asuntos que se encuentren en trámite al entrar en vigor el presente Reglamento, serán resueltos por la unidad administrativa a la que este ordenamiento le atribuya el conocimiento.
+
+Quinto.- Las transferencias de los recursos humanos, materiales y financieros que, con motivo del presente Reglamento deban hacerse de una unidad administrativa a otra de la propia Fiscalía, se ajustarán a las disposiciones correspondientes.
+
+Sexto.- Cuando en este Reglamento se le dé una denominación distinta a alguna unidad administrativa establecida con anterioridad al inicio de la vigencia del mismo, los asuntos en trámites serán atendidos por la unidad administrativa con la nueva denominación.
