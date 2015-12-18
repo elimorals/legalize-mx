@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-legislativo-del-estado-de-baja-37945"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-06-25"
-last_updated: "2015-12-04"
+last_updated: "2015-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37945&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el martes 25 de junio de 2002.
 
@@ -867,7 +867,9 @@ Por acuerdo del Pleno las comisiones se pueden dividir en secciones; éstas cons
 
 Las Comisiones de dictamen legislativo son:
 
-1. Asuntos Fronterizos, Comercio, Desarrollo y Fomento Económico e Industrial y Competitividad;
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
+1. Comisión de Asuntos Fronterizos y Desarrollo Económico;
 
 2. Educación, Cultura, Ciencia y Tecnología;
 
@@ -1001,9 +1003,9 @@ La competencia de las comisiones son las que se derivan de las facultades que al
 
 Corresponde a las diferentes comisiones legislativas las siguientes atribuciones y facultades:
 
-> <small>(REFORMADO, G.P. 27 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2015)</small>
 
-a) Comisión de Asuntos Fronterizos, Desarrollo y Fomento Económico e Industrial: corresponde el análisis, dictaminación y proposición de iniciativas de temas derivados de su competencia, así como dar seguimiento a los compromisos del Estado en su relación con la región, la federación y la comunidad internacional; promoverá el estrechamiento de vínculos sociales, políticos, económicos y culturales de la región. Con el Desarrollo de los trabajos legislativos, contribuirá para que el Estado se convierta en una prioridad estratégica de la política nacional e internacional, promoviendo la discusión de temas de interés común, con el fin de diseñar leyes, decretos y acuerdos que promuevan el desarrollo económico del Estado.
+a) Comisión de Asuntos Fronterizos y Desarrollo Económico: corresponde el análisis, dictaminación y proposición de iniciativas de temas derivados de su competencia, así como dar seguimiento a los compromisos del Estado en su relación con la región, la federación y la comunidad internacional; promoverá el estrechamiento de vínculos sociales, políticos, económicos y culturales de la región. Con el Desarrollo de los trabajos legislativos, contribuirá para que el Estado se convierta en una prioridad estratégica de la política nacional e internacional, promoviendo la discusión de temas de interés común, con el fin de diseñar leyes, decretos y acuerdos que promuevan el comercio, la industria, y la competitividad del Estado.
 
 > <small>(REFORMADO, G.P. 27 DE AGOSTO DE 2013)</small>
 
@@ -2796,3 +2798,17 @@ PRIMERO.- La presente reforma entrará en vigor al día siguiente de su aprobaci
 SEGUNDO.- Una vez aprobada la presente reforma por el Congreso del Estado, remítase al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Estado de Baja California.
 
 TERCERO.- Todos los asuntos turnados a la actual Comisión de Dictamen legislativo de Equidad y Género del Congreso del Estado de Baja California, se entenderán remitidos a la Comisión para la Igualdad entre Mujeres y Hombres.
+
+P.O. 18 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 373 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS AL ARTÍCULO 56 NUMERAL 1 Y AL ARTÍCULO 60 INCISO A), DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE BAJA CALIFORNIA".]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su aprobación por el Pleno del Congreso del Estado y consecuentemente publíquese en la Gaceta Parlamentaria del Poder Legislativo del Estado de Baja California.
+
+SEGUNDO.- Una vez aprobada la presente reforma por el Congreso del Estado, remítase al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Estado de Baja California.
+
+TERCERO.- Todos los asuntos turnados a la Comisión de Asuntos Fronterizos, Comercio, Desarrollo y Fomento Económico e Industrial y Competitividad, se entenderán remitidos a la Comisión de Asuntos Fronterizos y Desarrollo Económico del Poder Legislativo del Estado de Baja California.
+
+CUARTO.- La Comisión de Asuntos Fronterizos y Desarrollo Económico del Poder Legislativo del Estado de Baja California se integrará con los Diputados de la actual Comisión de Asuntos Fronterizos, Comercio, Desarrollo y Fomento Económico e Industrial y Competitividad, en sus respectivos puestos.
+
+QUINTO.- La Comisión de Asuntos Fronterizos y Desarrollo Económico del Poder Legislativo del Estado de Baja California conservará las prerrogativas que la legislación y las disposiciones administrativas vigentes establecen para la actual Comisión de Asuntos Fronterizos, Comercio, Desarrollo y Fomento Económico e Industrial y Competitividad.
