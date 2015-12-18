@@ -4,7 +4,7 @@ identifier: "REG_DIPUTADOS"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-24"
-last_updated: "2015-05-06"
+last_updated: "2015-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77695&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "REG_DIPUTADOS"
 
 REGLAMENTO DE LA CÁMARA DE DIPUTADOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE DICIEMBRE DE 2015.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 24 de diciembre de 2010.
 
@@ -100,47 +100,51 @@ V. Declaratoria de publicidad: Es el anuncio formal que hace el Presidente, ante
 
 VI. Dieta: Es la remuneración irrenunciable por el desempeño del cargo de Diputado Federal;
 
-VII. Gaceta Parlamentaria de la Cámara de Diputados: Es la publicación a través de la cual se difunden las actividades, comunicaciones, documentos o acuerdos que tienen que ver con la Cámara;
+> <small>(ADICIONADA, D.O.F. 18 DE DICIEMBRE DE 2015)</small>
 
-VIII. Iniciativa: Es el acto jurídico por el cual da inicio el proceso legislativo;
+VII. Diputado Independiente: La Diputada o el Diputado que emana de una contienda electoral y haya solicitado su registro ante la autoridad competente con tal carácter, en términos de lo dispuesto por el artículo 35 de la Constitución Política de los Estados Unidos Mexicanos.
+
+VIII. Gaceta Parlamentaria de la Cámara de Diputados: Es la publicación a través de la cual se difunden las actividades, comunicaciones, documentos o acuerdos que tienen que ver con la Cámara;
+
+IX. Iniciativa: Es el acto jurídico por el cual da inicio el proceso legislativo;
 
 > <small>(ADICIONADA, D.O.F. 31 DE DICIEMBRE DE 2012)</small>
 
-IX. Iniciativa preferente: Es la que presenta el Ejecutivo Federal en términos de lo señalado por el segundo párrafo del artículo 71 de la Constitución Política de los Estados Unidos Mexicanos;
+X. Iniciativa preferente: Es la que presenta el Ejecutivo Federal en términos de lo señalado por el segundo párrafo del artículo 71 de la Constitución Política de los Estados Unidos Mexicanos;
 
-X. Legislatura: Es el periodo durante el cual funciona la Cámara, que será de tres años, contados a partir de su instalación;
+XI. Legislatura: Es el periodo durante el cual funciona la Cámara, que será de tres años, contados a partir de su instalación;
 
-XI. Licencia: Es la autorización concedida por la Cámara, a la solicitud presentada por el diputado o diputada para separarse del ejercicio de su cargo;
+XII. Licencia: Es la autorización concedida por la Cámara, a la solicitud presentada por el diputado o diputada para separarse del ejercicio de su cargo;
 
-XII. Mayoría absoluta: Es el resultado de la suma de diputadas y diputados o votos que representen, cuando menos, la mitad más uno de los presentes;
+XIII. Mayoría absoluta: Es el resultado de la suma de diputadas y diputados o votos que representen, cuando menos, la mitad más uno de los presentes;
 
-XIII. Mayoría calificada: Es el resultado de la suma de diputadas y diputados o votos que representa, cuando menos, las dos terceras partes de los presentes;
+XIV. Mayoría calificada: Es el resultado de la suma de diputadas y diputados o votos que representa, cuando menos, las dos terceras partes de los presentes;
 
-XIV. Mayoría simple: Es el resultado de la suma de votos de los presentes, que constituye la cantidad superior frente a otra u otras opciones;
+XV. Mayoría simple: Es el resultado de la suma de votos de los presentes, que constituye la cantidad superior frente a otra u otras opciones;
 
-XV. Minuta: Es el proyecto de ley o de decreto que se recibe de la Cámara de Senadores o que se envía a ella, en cualquiera de las etapas del proceso legislativo;
+XVI. Minuta: Es el proyecto de ley o de decreto que se recibe de la Cámara de Senadores o que se envía a ella, en cualquiera de las etapas del proceso legislativo;
 
 > <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
 
-XVI. Orden del día: es el listado de asuntos que formula la Mesa Directiva o la Junta Directiva para ser tratados en una Sesión o Reunión;
+XVII. Orden del día: es el listado de asuntos que formula la Mesa Directiva o la Junta Directiva para ser tratados en una Sesión o Reunión;
 
-XVII. Permiso: Es la autorización de un órgano de la Cámara para que alguno de sus integrantes pueda retirarse de una Sesión o Reunión;
+XVIII. Permiso: Es la autorización de un órgano de la Cámara para que alguno de sus integrantes pueda retirarse de una Sesión o Reunión;
 
-XVIII. Pleno: Es la Asamblea general de la Cámara de Diputados;
+XIX. Pleno: Es la Asamblea general de la Cámara de Diputados;
 
-XIX. Proposición con punto de acuerdo: Es una petición para que la Cámara asuma una postura institucional respecto a un asunto no legislativo;
+XX. Proposición con punto de acuerdo: Es una petición para que la Cámara asuma una postura institucional respecto a un asunto no legislativo;
 
-XX. Quórum: Es el número mínimo de diputados y diputadas requerido para que el Pleno, las comisiones y los comités puedan abrir sus sesiones y reuniones respectivamente, así como para realizar votaciones nominales. Este número equivale a la mitad más uno del total de sus integrantes;
+XXI. Quórum: Es el número mínimo de diputados y diputadas requerido para que el Pleno, las comisiones y los comités puedan abrir sus sesiones y reuniones respectivamente, así como para realizar votaciones nominales. Este número equivale a la mitad más uno del total de sus integrantes;
 
-XXI. Reunión: Es la asamblea que realiza cada órgano de la Cámara;
+XXII. Reunión: Es la asamblea que realiza cada órgano de la Cámara;
 
-XXII. Sesión: Es la asamblea de los integrantes de la Cámara en Pleno;
+XXIII. Sesión: Es la asamblea de los integrantes de la Cámara en Pleno;
 
-XXIII. Suplencia: Es el mecanismo de ocupación del cargo de diputado o diputada, que se presenta cuando el propietario fallece, está imposibilitado física o jurídicamente, o bien, manifiesta a través actos (sic) u omisiones, su decisión de no aceptar el cargo o de obtener licencia;
+XXIV. Suplencia: Es el mecanismo de ocupación del cargo de diputado o diputada, que se presenta cuando el propietario fallece, está imposibilitado física o jurídicamente, o bien, manifiesta a través (sic) actos u omisiones, su decisión de no aceptar el cargo o de obtener licencia;
 
-XXIV. Turno: Es la resolución de trámite que dicta el Presidente, durante las sesiones, para enviar los asuntos que se presentan en el Pleno a la instancia respectiva, con el fin de darles el curso legal que corresponda dentro del procedimiento, y
+XXV. Turno: Es la resolución de trámite que dicta el Presidente, durante las sesiones, para enviar los asuntos que se presentan en el Pleno a la instancia respectiva, con el fin de darles el curso legal que corresponda dentro del procedimiento, y
 
-XXV. Vacante: Es la declaración hecha por la Cámara sobre la situación de ausencia en el ejercicio del cargo de diputado o diputada propietario y suplente.
+XXVI. Vacante: Es la declaración hecha por la Cámara sobre la situación de ausencia en el ejercicio del cargo de diputado o diputada propietario y suplente.
 
 ###### Artículo 4.
 
@@ -182,9 +186,9 @@ IX. Tener asesoría y personal de apoyo que coadyuven al desarrollo de su cargo;
 
 X. Participar en los debates, votaciones y cualquier otro proceso parlamentario para el que se encuentre facultado;
 
-> <small>(ADICIONADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2015)</small>
 
-XI. Proponer a través de su grupo la incorporación de asuntos para ser considerados en la Agenda política y efemérides;
+XI. Proponer a través de su grupo o de manera directa en el caso de los diputados y diputadas independientes la incorporación de asuntos para ser considerados en la Agenda política y efemérides;
 
 XII. Formar parte de un Grupo o separarse de él, de acuerdo a sus ordenamientos;
 
@@ -394,15 +398,17 @@ V. Para ocupar un cargo dentro de su partido político.
 
 ###### Artículo 24.
 
-> <small>(ADICIONADO, D.O.F. 6 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2015)</small>
 
-1. En la primera Sesión ordinaria de la Legislatura, el Presidente hará la declaratoria de constitución de los grupos e informará al Pleno de aquellos diputados y diputadas que no forman parte de algún Grupo.
+1. En la primera Sesión ordinaria de la Legislatura, el Presidente hará la declaratoria de constitución de los grupos e informará al Pleno de aquellos diputados y diputadas que no forman parte de algún Grupo, así como aquellos que son independientes.
 
 > <small>(ADICIONADO, D.O.F. 6 DE MAYO DE 2015)</small>
 
 2. Una vez que el Presidente haya realizado la declaratoria prevista en el numeral anterior, no se podrán integrar nuevos grupos por el resto de la Legislatura.
 
-3. En el desarrollo de sus tareas administrativas, los grupos observarán las disposiciones normativas aprobadas por el Pleno.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2015)</small>
+
+3. En el desarrollo de sus tareas administrativas, los grupos y los diputados y diputadas independientes observarán las disposiciones normativas aprobadas por el pleno.
 
 4. El ejercicio de las prerrogativas, derechos y obligaciones se mantendrá hasta el término de la Legislatura en la que fueron constituidos.
 
@@ -434,7 +440,9 @@ V. Para ocupar un cargo dentro de su partido político.
 
 1. Los grupos, los diputados y diputadas, tendrán espacios dentro del Recinto, de conformidad con lo que establece la Ley.
 
-2. El Presidente tendrá la responsabilidad de vigilar que se haga buen uso de los espacios, de la Cámara, asignados a los grupos o diputados y diputadas sin partido.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2015)</small>
+
+2. El presidente tendrá la responsabilidad de vigilar que se haga buen uso de los espacios, de la Cámara, asignados a los grupos, diputados y diputadas sin partido e independientes.
 
 3. Si ocurriere algún daño a los espacios o recursos de la Cámara, por los grupos o diputados y diputadas, será cubierto con recursos de éstos, de conformidad con la normatividad administrativa aplicable.
 
@@ -1354,7 +1362,9 @@ V. Cuando la minuta que contenga un proyecto de ley o decreto con carácter pref
 
 2. Las que presenten las diputadas y diputados, se sujetarán a lo siguiente:
 
-I. Se deberán registrar ante la Junta, a través de su Grupo. Los diputados y diputadas sin partido podrán hacerlo directamente ante la Junta;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2015)</small>
+
+I. Se deberán registrar ante la Junta, a través de su grupo. Los diputados y diputadas sin partido y los independientes podrán hacerlo directamente ante la Junta;
 
 II. La Junta la remitirá a la Mesa Directiva, quien revisará que la iniciativa reúna los elementos necesarios establecidos en el artículo 78 de este Reglamento;
 
@@ -1398,9 +1408,9 @@ II. El Presidente de la Junta Directiva podrá exponer los fundamentos del dicta
 
 III. Si hubiera voto particular, su autor o uno de sus autores podrán exponer los motivos y el contenido del mismo hasta por cinco minutos, siempre que se deseche el dictamen aprobado por la comisión;
 
-> <small>(REFORMADA, D.O.F. 20 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2015)</small>
 
-IV. Un integrante de cada Grupo, en orden creciente, de acuerdo a su representatividad en la Cámara, podrá disponer de hasta cinco minutos para exponer su postura. El orador no podrá ser interrumpido por moción de cuestionamiento;
+IV. Un integrante de cada Grupo, en orden creciente, de acuerdo a su representatividad en la Cámara, y un diputado o diputada independiente propuesto entre ellos podrán disponer de hasta cinco minutos para exponer su postura. El orador no podrá ser interrumpido por moción de cuestionamiento;
 
 V. A continuación, el Presidente formulará una lista de oradores en contra y otra a favor;
 
@@ -1448,7 +1458,9 @@ I. Se discutirán y votarán en lo general y después en lo particular;
 
 II. Serán leídos por un Secretario de la Mesa Directiva;
 
-III. Un integrante de cada Grupo, en orden creciente, de acuerdo a su representatividad en la Cámara, podrá disponer de hasta tres minutos para exponer su postura;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2015)</small>
+
+III. Un integrante de cada grupo, en orden creciente, de acuerdo a su representatividad en la Cámara, y un diputado o diputada independiente propuesto entre ellos podrán disponer de hasta tres minutos para exponer su postura.
 
 IV. A continuación, el Presidente formulará una lista de oradores en contra y otra a favor;
 
@@ -1534,13 +1546,19 @@ VI. Cuando no hubiere oradores inscritos, el Presidente ordenará que se pase a 
 
 1. Las proposiciones consideradas de urgente u obvia resolución por el Pleno se discutirán, en un solo acto, de la siguiente forma:
 
-I. A través de una lista de oradores, uno por cada Grupo, quienes podrán hablar hasta por tres minutos;
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2015)</small>
 
-II. Cuando concluyan las intervenciones de los oradores, el Presidente preguntará al Pleno, quien resolverá a través de una votación económica, si el asunto está suficientemente discutido. Si el Pleno decide continuar la discusión, podrá hablar hasta un orador más de cada Grupo, pero si la resolución fuese negativa, el Presidente anunciará el término de la discusión y el inicio de la votación nominal;
+I. A través de una lista de oradores, uno por cada grupo, así como un diputado o diputada independientes propuesto entre ellos, quienes podrán hablar hasta por tres minutos.
+
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2015)</small>
+
+II. Cuando concluyan las intervenciones de los oradores, el presidente preguntará al pleno, quien resolverá a través de una votación económica, si el asunto está suficientemente discutido. Si el pleno decide continuar la discusión, podrá hablar hasta un orador más de cada grupo, así como un diputado o diputada independiente propuesto entre ellos, pero si la resolución fuese negativa, el Presidente anunciará el término de la discusión y el inicio de la votación nominal;
 
 III. Las proposiciones se votarán sucesivamente, de acuerdo con el turno que tengan en el Orden del día, inmediatamente después de terminadas las discusiones previstas. El Secretario leerá la proposición y el nombre del Grupo antes de iniciar la votación, y
 
-IV. El Grupo que haya presentado la proposición podrá sugerir alguna modificación, siempre que la presenten durante su discusión, por escrito y firmada por su coordinador.
+> <small>(REFORMADA, D.O.F. 18 DE DICIEMBRE DE 2015)</small>
+
+IV. El grupo o el diputado independiente que haya presentado la proposición podrá sugerir alguna modificación, siempre que la presenten durante su discusión, por escrito y firmada por su coordinador cuando corresponda.
 
 #### Sección Cuarta. Mociones
 
@@ -1712,13 +1730,19 @@ IV. Los directores y administradores generales de las empresas de participación
 
 1. Para la formulación de la pregunta parlamentaria en el Pleno, los diputados y diputadas formularán sus propuestas ante sus respectivos grupos.
 
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2015)</small>
+
+El mismo derecho de formulación (sic) la pregunta parlamentaria la tendrán los diputados independientes.
+
 2. Las áreas temáticas de referencia de las preguntas serán política interior, política exterior, política social y política económica.
 
 3. La redacción de la propuesta de pregunta deberá ser concisa y referirse a un solo tema de interés general para permitir una respuesta directa.
 
 4. Las propuestas que sean de interés personal de quien las formula y las preguntas múltiples, no serán admitidas.
 
-5. La Junta recibirá las propuestas de los grupos, revisará que reúnan los elementos establecidos en este precepto y en un lapso no mayor a diez días, hará la propuesta de acuerdo en donde establezca:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE DICIEMBRE DE 2015)</small>
+
+5. La Junta recibirá las propuestas de los grupos y las realizadas por los diputados independientes, revisará que reúnan los elementos establecidos en este precepto y en un lapso no mayor a diez días, hará la propuesta de acuerdo en donde establezca:
 
 I. Número total de preguntas,
 
@@ -2192,7 +2216,7 @@ II. De información;
 
 > <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 2013)</small>
 
-III. De control evaluatorio, conforme a los (sic) artículo 26, Apartado A, párrafo cuarto, con base en indicadores de desempeño, y 93 de la Constitución;
+III. De control evaluatorio, conforme a los artículo (sic) 26, Apartado A, párrafo cuarto, con base en indicadores de desempeño, y 93 de la Constitución;
 
 IV. De opinión;
 
@@ -2684,7 +2708,9 @@ IV. Los demás asuntos que no ameriten dictamen.
 
 2. En caso de que el diputado o diputada acumule cuatro inasistencias a Reunión, sin justificar durante un semestre, causará baja de manera automática.
 
-3. En el caso del numeral anterior, el Presidente o la Secretaría de la Junta Directiva deberá informar de la baja a la Junta, para que ésta lo comunique al Coordinador del Grupo que corresponda.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2015)</small>
+
+3. En el caso del numeral anterior, el presidente o la Secretaría de la junta directiva deberá informar de la baja a la Junta, para que ésta lo comunique al coordinador del grupo que corresponda, en su caso.
 
 4. Para efectos de este artículo, el cómputo de los semestres correrá a partir de la fecha en que se instale la Cámara.
 
@@ -2698,7 +2724,9 @@ IV. Los demás asuntos que no ameriten dictamen.
 
 1. En caso de baja de diputados o diputadas en comisiones, por causas distintas a las señaladas en el artículo anterior, el Coordinador dispondrá de diez días para hacer la propuesta de sustitución. El término comenzará a correr a partir del día siguiente en que se comunique la baja del diputado o diputada a la Junta.
 
-2. En caso de baja por cualquier causa de un diputado o diputada sin partido, la Junta propondrá quien deberá sustituirlo, en un plazo no mayor a diez días.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2015)</small>
+
+2. En caso de baja por cualquier causa de un diputado o diputada sin partido o independiente, la Junta propondrá quien deberá sustituirlo, en un plazo no mayor a diez días.
 
 ###### Artículo 195.
 
@@ -2978,7 +3006,9 @@ II. Acerca de la aplicación y el destino final de los recursos que les haya asi
 
 ###### Artículo 221.
 
-1. El dictamen con Proyecto de Decreto del Presupuesto de Egresos de la Federación se discute por el Pleno en lo general y en lo particular de acuerdo con las reglas que éste apruebe a propuesta de la Junta. La propuesta deberá contemplar los principios de representatividad e inclusión que garantice la participación de todos los grupos representados en la Cámara.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2015)</small>
+
+1. El dictamen con proyecto de decreto del Presupuesto de Egresos de la Federación se discute por el pleno en lo general y en lo particular de acuerdo con las reglas que éste apruebe a propuesta de la Junta. La propuesta deberá contemplar los principios de representatividad e inclusión que garantice la participación de todos los grupos representados en la Cámara y de los diputados o diputadas independientes.
 
 2. La Comisión de Presupuesto y Cuenta Pública será la responsable de hacer las correcciones al Decreto del Presupuesto de Egresos de la Federación aprobado por la Cámara y realizará sólo las adecuaciones de estilo, cálculo, ajustes de cifras y cantidades que sean necesarias, las cuales deberán estar en plena correspondencia con las modificaciones o adiciones aprobadas por el Pleno. La Mesa Directiva vigilará que se cumpla, antes de remitir el proyecto.
 
@@ -3046,7 +3076,9 @@ II. Acerca de la aplicación y el destino final de los recursos que les haya asi
 
 1. Cuando se trate de dictámenes relativos a reformas a la Constitución, la discusión se realizará en lo general y en lo particular.
 
-2. En una primera ronda de intervenciones podrá participar el Presidente de la Comisión de Puntos Constitucionales y un diputado o diputada por cada Grupo, hasta por quince minutos y posteriormente se abrirán rondas de discusión.
+> <small>(REFORMADO, D.O.F. 18 DE DICIEMBRE DE 2015)</small>
+
+2. En una primera ronda de intervenciones podrá participar el presidente de la Comisión de Puntos Constitucionales, un diputado o diputada por cada grupo y un diputado o diputada independiente propuesto de entre ellos, hasta por quince minutos y posteriormente se abrirán rondas de discusión.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 20 DE ABRIL DE 2011)</small>
 
@@ -3374,7 +3406,7 @@ XI. Ordenar las inserciones pagadas en los medios de información, cuidando que 
 
 1. Las reuniones de las comisiones serán transmitidas por televisión en vivo o diferidas, en la medida en que los medios técnicos lo permitan, de acuerdo a la programación del Canal del Congreso. Los informadores acreditados, que por el espacio físico no puedan estar dentro de los salones en donde se desarrollen las reuniones, podrán verlas a través de circuito cerrado.
 
-2. Las proposiciones con punto de acuerdo, turnadas a las comisiones, podrán ser expuestas por sus autores, a través de las transmisiones por televisión, de acuerdo a los horarios y programas que Canal (sic) del Congreso les designe.
+2. Las proposiciones con punto de acuerdo, turnadas a las comisiones, podrán ser expuestas por sus autores, a través de las transmisiones por televisión, de acuerdo a los horarios y programas que (sic) Canal del Congreso les designe.
 
 ### CAPITULO III. De la Memoria Documental
 
@@ -3429,6 +3461,10 @@ IV. Dictar las medidas que estime pertinentes con base a la Ley y el presente Re
 ###### Artículo 261.
 
 1. La Cámara otorgará la Medalla Eduardo Neri - Legisladores de 1913, de conformidad con lo que establece el decreto de su creación, así como el Reglamento que regula su entrega.
+
+> <small>(ADICIONADO, D.O.F. 18 DE DICIEMBRE DE 2015)</small>
+
+2. La Cámara otorgará anualmente la Medalla de Honor Gilberto Rincón Gallardo de la H. Cámara de Diputados, de conformidad con lo que estable (sic) el Decreto de su institución, así como su Reglamento.
 
 ###### Artículo 262.
 
@@ -3751,3 +3787,19 @@ D.O.F. 25 DE MARZO DE 2015.
 D.O.F. 6 DE MAYO DE 2015.
 
 Único. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 18 DE DICIEMBRE DE 2015.
+
+DECRETO POR EL QUE SE ADICIONA UN NUMERAL 2 AL ARTÍCULO 261 DEL REGLAMENTO DE LA CÁMARA DE DIPUTADOS.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. La Cámara de Diputados contará con un plazo de 90 días a partir de la entrada en vigor del presente Decreto, para expedir el Reglamento.
+
+D.O.F. 18 DE DICIEMBRE DE 2015.
+
+DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 6, NUMERAL 1, FRACCIÓN XI; 24, NUMERALES 1 Y 3; 27, NUMERAL 2; 102, NUMERAL 2, FRACCIÓN I; 104, NUMERAL 1, FRACCIÓN IV; 105, NUMERAL 1, FRACCIÓN III; 113, NUMERAL 1, FRACCIONES I, II Y IV; 130, NUMERAL 5; 193, NUMERAL 3; 194, NUMERAL 2; 221, NUMERAL 1 Y 230, NUMERAL 2; Y SE ADICIONAN UNA FRACCIÓN VII, AL NUMERAL 1, DEL ARTÍCULO 3, RECORRIÉNDOSE EN SU ORDEN LAS ACTUALES FRACCIONES; Y AL ARTÍCULO 130, NUMERAL 1, CON UN SEGUNDO PÁRRAFO, DEL REGLAMENTO DE LA CÁMARA DE DIPUTADOS.
+
+Primero.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se entenderá como diputado independiente aquel que emana de una contienda electoral y haya solicitado su registro ante la autoridad competente con tal carácter, en términos del artículo 35 de la Constitución Política de los Estados Unidos Mexicanos.
