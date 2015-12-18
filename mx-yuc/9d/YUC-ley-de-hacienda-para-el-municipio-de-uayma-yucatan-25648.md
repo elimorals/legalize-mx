@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-uayma-yucatan-25648"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2008-12-27"
+last_updated: "2015-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25648&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "YUC"
 ---
 # LEY DE HACIENDA PARA EL MUNICIPIO DE UAYMA, YUCATAN
 
-LEY DE HACIENDA PARA EL MUNICIPIO DE UAYMA, YUCATAN
+LEY DE HACIENDA PARA EL MUNICIPIO DE UAYMA, YUCATÁN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el sábado 30 de diciembre de 2000.
 
@@ -417,29 +417,59 @@ IX.- Realizar los pagos, y cumplir con las obligaciones fiscales, en la forma y 
 
 DE LAS LICENCIAS DE FUNCIONAMIENTO
 
-###### ARTÍCULO 41.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Las licencias de funcionamiento que expida la Tesorería Municipal, serán gratuitas.
+> <small>(REFORMADO, D.O. 18 DE DICIEMBRE DE 2015)</small>
 
-Tendrán una vigencia que iniciará en la fecha de su expedición y terminará el último día del período constitucional de la administración municipal que la expidió.
+###### Artículo 41.
 
-No obstante lo dispuesto en el párrafo anterior, la vigencia de las licencias podrá concluir anticipadamente e incluso, condicionarse el funcionamiento, cuando por la actividad de la persona física o moral, se requieran permisos, licencias o autorizaciones de otras dependencias municipales, estatales o federales. En estos casos, el plazo de vigencia o la condición serán iguales a las expresadas por dichas dependencias. En ningún caso la vigencia de la licencia de funcionamiento excederá del período de la administración municipal que la expidió.
+Ninguna licencia de funcionamiento podrá otorgarse por un plazo que exceda el del ejercicio constitucional del Ayuntamiento.
 
-Los interesados deberán revalidar sus licencias durante los cuatro primeros meses de cada administración municipal.
+Las licencias de funcionamiento serán expedidas por la Tesorería Municipal. Estarán vigentes desde el día de su otorgamiento hasta el día 31 de diciembre del año en que se soliciten, y deberán ser revalidadas dentro de los primeros dos meses del año siguiente.
 
-Las personas físicas o morales que deseen obtener la licencia municial (sic) de funcionamiento, deberán presentar a la Tesorería Municipal los siguientes documentos:
+La revalidación de las licencias de funcionamiento estará vigente desde el día de su tramitación y hasta el día 31 de diciembre del año en que se tramiten.
 
-a).- Certificado de no adeudar impuesto predial.
+La vigencia de las licencias de funcionamiento podrá concluir anticipadamente, e incluso condicionarse, cuando por la actividad de la persona física o moral que la solicita, se requieran permisos, licencias o autorizaciones de otras dependencias municipales, estatales o federales. En dicho caso, el plazo de vigencia o la condición; serán iguales a las expresadas por dichas dependencias
 
-b).- Carta de uso de suelo.
+Las personas físicas o morales que soliciten licencias de funcionamiento, tendrán que presentar a la Tesorería Municipal, además de la solicitud respectiva los siguientes documentos:
 
-c).- Determinación sanitaria, en su caso.
+I.- El que compruebe fehacientemente que está al día en el pago del impuesto predial correspondiente al domicilio donde se encuentra el comercio, negocio o establecimiento en caso de ser propietario; en caso contrario, deberá presentar el convenio, contrato u otro documento que compruebe la legal posesión del mismo, además del documento que acredite fehacientemente el pago del impuesto referenciado;
 
-Para la revalidación de la licencia municipal de funcionamiento deberán presentarse:
+II.- Licencia de uso de suelo;
 
-a).- Licencia de funcionamiento anterior.
+III.- Determinación sanitaria vigente, en su caso;
 
-b).- Certificado de no adeudar impuesto predial.
+IV.- El recibo de pago del derecho correspondiente en su caso;
+
+V.- El pago del servicio de recoja de basura actualizado;
+
+VI.- El recibo de pago actualizado por el servicio de agua potable;
+
+VII.- Copia del comprobante de inscripción en el Registro Federal de Contribuyentes;
+
+VIII.- Copia de credencial de elector con fotografía expedida por el Instituto Federal Electoral;
+
+IX.- Acta que contenga el Dictamen favorable de funcionamiento emitida por el Departamento de Protección Civil del Municipio, en su caso, y
+
+X.- La personalidad del representante de la persona moral que solicita la Licencia Municipal de Funcionamiento.
+
+Las personas físicas o morales que soliciten revalidar licencias de funcionamiento, tendrán que presentar a la Tesorería Municipal, además del pedimento respectivo, los siguientes documentos:
+
+I.- Licencia de funcionamiento o el recibo de pago expedida por la Tesorería Municipal correspondiente al ejercicio fiscal del año anterior;
+
+II.- El que compruebe fehacientemente que está al día en el pago del impuesto predial correspondiente al domicilio donde se encuentra el comercio, negocio o establecimiento en caso de ser propietario. La que no sea propietaria deberá presentar el convenio, contrato u otro documento que compruebe la legal posesión del mismo; además el documento que acredite fehacientemente el pago del impuesto referenciado;
+
+III.- El recibo de pago del derecho correspondiente en su caso;
+
+IV.- La exhibición de la licencia de uso de suelo;
+
+V.- El pago del servicio de recoja de basura actualizado;
+
+VI.- El recibo de pago actualizado por el servicio de agua potable;
+
+VII.- Determinación sanitaria vigente, en su caso, y
+
+VIII.- Copia del comprobante de inscripción en el Registro Federal de Contribuyentes
 
 ## TÍTULO TERCERO. DE LOS IMPUESTOS
 
@@ -529,6 +559,10 @@ Lo dispuesto en el párrafo anterior no se aplicará a los contribuyentes que a 
 
 DE LA TARIFA
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 18 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 47.
 
 El impuesto predial se causará de acuerdo con la siguiente tarifa:
@@ -537,31 +571,31 @@ Por predios urbanos y rústicos con o sin construcción.
 
 VALORES CATASTRALES
 
-Limite inferior Limite superior Cuota fija anual Factor para
+Límite inferior Límite superior Cuota fija anual Factor para
 
 aplicar al
 
 excedente del
 
-limite inferior
+límite inferior
 
 Pesos Pesos Pesos
 
-0.01 4,000.00 $ 4.00 0
+0.01 4,000.00 5.00 0
 
-4,000.01 5,500.00 7.00 0
+4,000.01 5,500.00 6.00 0
 
-5,500.01 6,500.00 10.00 0
+5,500.01 6,500.00 11.00 0
 
-6,500.01 7,500.00 13.00 0
+6,500.01 7,500.00 12.00 0
 
-7,500.01 8,500.00 16.00 0
+7,500.01 8,500.00 17.00 0
 
-8,500.01 10,000.00 20.00 0
+8,500.01 10,000.00 21.00 0
 
-10,000.01 en adelante 22.00 0.003
+10,000.01 en adelante 23.00 0.003
 
-A la cantidad que exceda del limite inferior le será aplicado el factor determinado en esta tarifa y el resultado se incrementará con la cuota fija anual respectiva.
+A la cantidad que exceda del límite inferior le será aplicado el factor determinado en esta tarifa y el resultado se incrementará con la cuota fija anual respectiva.
 
 Todo predio destinado a la producción agropecuaria 10 al millar anual sobre el valor registrado o catastral, sin que la cantidad a pagar resultante exceda a lo establecido por la legislación agraria federal para terrenos ejidales.
 
@@ -1421,7 +1455,7 @@ La tarifa será mensualmente a razón de 0.10 del salario mínimo vigente en el 
 
 El pago se realizará en la caja de la Tesorería Municipal o con la persona que el Ayuntamiento designe.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 31 DE DICIEMBRE DE 2004)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
 ### CAPÍTULO VIII. DERECHOS POR EL USO DE CEMENTERIOS
 
@@ -1441,7 +1475,7 @@ ARTÍCULO 111 C.- Estos Derechos se causarán conforme a la tarifa que al efecto
 
 ARTÍCULO 111 D.- El pago de los derechos se hará por anticipado o al solicitar el servicio, en las oficinas de la Tesorería Municipal.
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 27 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ### CAPÍTULO IX. DERECHOS POR SERVICIO DE ALUMBRADO PÚBLICO
 
@@ -1817,7 +1851,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 ABOG. R. CLEOMINIO ZOREDA NOVELO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓIN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O. 31 DE DICIEMBRE DE 2004.
 
@@ -1830,3 +1864,11 @@ D.O. 27 DE DICIEMBRE DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 Este Decreto entrará en vigor al día siguiente a su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 18 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 322/2015 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DZIDZANTÚN, MOTUL, MUNA, SACALUM, SOTUTA Y UAYMA".]
+
+###### ARTÍCULO ÚNICO.
+
+Este decreto entrará en vigor el día primero de enero del año dos mil dieciséis, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
