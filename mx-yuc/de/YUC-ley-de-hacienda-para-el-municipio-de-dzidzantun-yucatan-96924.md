@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-dzidzantun-yucatan-96924"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-27"
-last_updated: "2013-12-27"
+last_updated: "2015-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96924&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE DZIDZANTÚN, YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 27 de diciembre de 2013.
 
@@ -525,21 +525,27 @@ Lo dispuesto en el párrafo anterior, no se aplicará a los contribuyentes que a
 
 DE LA TARIFA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O. 18 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 47.
 
-Cuando la base del impuesto predial sea el valor catastral del inmueble, el impuesto se determinará aplicando al valor catastral, la siguiente tabla:
+Para el cálculo del valor catastral de los predios que servirá de base para el pago del impuesto predial, se aplicarán las siguientes tarifas, una vez calculado el valor catastral, el impuesto predial se determinará aplicando la tasa del 0.20% sobre el valor catastral de la sección 1 a la sección 4 previstos en este artículo. Y cuando no se pudiera determinar se cobrará la cuota fija considerando los siguientes importes:
 
-(VÉASE ARCHIVO ANEXO)
+Predio Urbano: $45 por m2
 
-A la cantidad que exceda del límite inferior le será aplicado el factor determinado en esta tarifa y el resultado se incrementará con la cuota fija anual respectiva. Se cobrará un recargo de 50% anual por el pago de impuestos atrasados.
+En el caso de la Zona Costera, se cobrará en atención a la tabla respectiva.
 
-Todo predio destinado a la producción agropecuaria $ 2.00 por hectárea, sin que la cantidad a pagar resultante exceda a lo establecido por la legislación agraria federal para terrenos ejidales.
+Para los efectos de esta Ley el valor catastral de los predios se determinará como sigue:
 
-Para efectos de la determinación del impuesto predial con base en el valor catastral, se establece la siguiente Tabla de Valores Unitarios de Terreno y Construcción:
+> <small>[N. DE E. VÉASE TABLAS EN EL SUPLEMENTO DEL D.O. DE 18 DE DICIEMBRE DE 2015, PÁGINAS DE LA 46 A LA 50.]</small>
 
-TABLA DE VALORES DE TERRENO
+ÚNICAMENTE PARA LA ZONA COSTERA. Para el cálculo del valor catastral de los predios que servirá de base para el pago del impuesto predial, se aplicarán las siguientes tarifas, una vez calculado el valor catastral, el impuesto predial se determinará aplicando el factor de 0.02 sobre el valor catastral. La referencia son las unidades de gestión ambiental establecidas por la Secretaria de Desarrollo Urbano y Medio Ambiente del Gobierno del Estado a través del Programa de Ordenamiento Ecológico y Territorial de la Costa Yucateca.
 
-(VÉASE ARCHIVO ANEXO)
+> <small>[N. DE E. VÉASE TABLAS EN EL SUPLEMENTO DEL D.O. DE 18 DE DICIEMBRE DE 2015, PÁGINAS DE LA 50 A LA 55.]</small>
+
+Todo predio destinado a la producción agropecuaria $ 2.00 la hectárea, sin que la cantidad a pagar resultante exceda a lo establecido por la legislación agraria federal para terrenos ejidales.
 
 DEL PAGO
 
@@ -1766,3 +1772,13 @@ GOBERNADOR DEL ESTADO DE YUCATÁN
 C. VÍCTOR EDMUNDO CABALLERO DURÁN
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 18 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 322/2015 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DZIDZANTÚN, MOTUL, MUNA, SACALUM, SOTUTA Y UAYMA, TODAS DEL ESTADO DE YUCATÁN”.]
+
+###### ARTÍCULO ÚNICO.
+
+Este decreto entrará en vigor el día primero de enero del año dos mil dieciséis, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
