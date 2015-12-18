@@ -4,7 +4,7 @@ identifier: "BCN-ley-sobre-el-regimen-de-propiedad-en-condominio-de-40101"
 country: "mx"
 rank: "ley"
 publication_date: "2004-06-18"
-last_updated: "2015-11-13"
+last_updated: "2015-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY SOBRE EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el 18 de junio de 2004.
 
@@ -857,9 +857,11 @@ I. El pago de intereses moratorios en los términos que establezca el Reglamento
 
 II. Cubrir el costo que se genere por la reparación o restablecimiento de los bienes, servicios o áreas de uso común que se hubiesen dañado por un mal uso o negligencia;
 
-III. Multa equivalente a dos aportaciones del fondo de mantenimiento y administración, independientemente de la demolición de las obras realizadas en contravención de lo dispuesto en los Artículos 17 Fracción IV y 29 de la presente Ley; y
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
 
-IV. Multa equivalente a una aportación del fondo de mantenimiento y administración a los condóminos o residentes que incumplan con las obligaciones señaladas en las Fracciones II y III del Artículo 17.
+III. Multa equivalente a dos aportaciones del fondo de mantenimiento y administración, independientemente de la demolición de las obras realizadas en contravención de lo dispuesto en el artículo 29 de la presente Ley.
+
+IV. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2015).
 
 ###### ARTÍCULO 80.
 
@@ -1010,3 +1012,9 @@ P.O. 30 DE DICIEMBRE DE 2011.
 P.O. 13 DE NOVIEMBRE DE 2015.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 18 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 414 MEDIANTE EL CUAL SE APRUEBA LA REFORMA QUE MODIFICA LA FRACCIÓN III Y DEROGA LA FRACCIÓN IV AL ARTÍCULO 79 DE LA LEY SOBRE EL RÉGIMEN DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA".]
+
+ÚNICO.- La presente adición y reforma entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
