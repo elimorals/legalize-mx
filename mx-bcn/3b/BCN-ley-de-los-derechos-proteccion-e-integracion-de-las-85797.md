@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-los-derechos-proteccion-e-integracion-de-las-85797"
 country: "mx"
 rank: "ley"
 publication_date: "2012-01-06"
-last_updated: "2015-11-27"
+last_updated: "2015-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85797&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 6 de enero de 2012.
 
@@ -79,19 +79,23 @@ II. Atención integral: Satisfacción de las necesidades físicas, materiales, b
 
 III. Consejo Estatal para la Protección e Integración de las Personas Adultas Mayores: Es un órgano honorario de consulta, asesoría y evaluación de las acciones de concertación, coordinación, planeación y promoción necesarias para favorecer la plena integración social y desarrollo de las personas adultas mayores.
 
-IV. Desarrollo Integral: El conjunto de acciones que realizan las dependencias y entidades de la Administración Pública del Gobierno del Estado y de los Municipios y la sociedad organizada, encaminadas al desarrollo de todos sus potenciales humanos en los campos tanto físico, como psíquico, emocional, espiritual, de relaciones humanas y aumento de la capacidad económica y productiva de las personas adultas mayores;
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
 
-V. Familia: Los parientes de las personas adultas mayores, atendiendo lo dispuesto por la normatividad estipulada en el Código Civil para el Estado de Baja California, así como el matrimonio y concubinato;
+IV. Cuidador: Aquella persona mayor de edad que preste sus servicios, ya sea de forma temporal o permanente en los centros de salud, asilos y albergues reconocidos por la Secretaría de Desarrollo Social, asista o cuide a un adulto mayor afectado, o no, por cualquier tipo de discapacidad o incapacidad que le dificulte o impida el desarrollo normal de sus actividades vitales o de sus relaciones sociales;
 
-VI. Geriatría: Es la especialidad médica dedicada al estudio de las enfermedades propias de las personas adultas mayores;
+V. Desarrollo Integral: El conjunto de acciones que realizan las dependencias y entidades de la Administración Pública del Gobierno del Estado y de los Municipios y la sociedad organizada, encaminadas al desarrollo de todos sus potenciales humanos en los campos tanto físico, como psíquico, emocional, espiritual, de relaciones humanas y aumento de la capacidad económica y productiva de las personas adultas mayores;
 
-VII. Gerontología: Es el estudio integral del envejecimiento, sus causas, efectos y consecuencias en el ser humano;
+VI. Familia: Los parientes de las personas adultas mayores, atendiendo lo dispuesto por la normatividad estipulada en el Código Civil para el Estado de Baja California, así como el matrimonio y concubinato;
 
-VIII. Integración social: Es el resultado de las acciones que realizan las dependencias y entidades de la Administración Pública Estatal y Municipal, las familias y la sociedad organizada, orientadas a modificar y superar las condiciones que impidan a las personas adultas mayores su desarrollo integral, así como la protección física ó mental y social de personas en estado de necesidad, desprotección o desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva;
+VII. Geriatría: Es la especialidad médica dedicada al estudio de las enfermedades propias de las personas adultas mayores;
 
-IX. Ley: La presente Ley de los Derechos, Protección e Integración de las Personas Adultas Mayores en el Estado de Baja California;
+VIII. Gerontología: Es el estudio integral del envejecimiento, sus causas, efectos y consecuencias en el ser humano;
 
-X. Personas adultas mayores: Las personas que cuentan con sesenta años o más de edad y que se encuentran domiciliadas o de paso en el Estado, mismas que podrán estar en las siguientes condiciones:
+IX. Integración social: Es el resultado de las acciones que realizan las dependencias y entidades de la Administración Pública Estatal y Municipal, las familias y la sociedad organizada, orientadas a modificar y superar las condiciones que impidan a las personas adultas mayores su desarrollo integral, así como la protección física ó mental y social de personas en estado de necesidad, desprotección o desventaja física y mental, hasta lograr su incorporación a una vida plena y productiva;
+
+X. Ley: La presente Ley de los Derechos, Protección e Integración de las Personas Adultas Mayores en el Estado de Baja California;
+
+XI. Personas adultas mayores: Las personas que cuentan con sesenta años o más de edad y que se encuentran domiciliadas o de paso en el Estado, mismas que podrán estar en las siguientes condiciones:
 
 a) Independientes: cuando sean aptas para desarrollar actividades físicas, mentales o ambas sin ayuda permanente;
 
@@ -173,7 +177,9 @@ XIX. Participar en la vida cultural, deportiva y recreativa de su comunidad;
 
 XX. Participar en los procesos productivos, de educación y capacitación de su comunidad;
 
-XXI. Gozar de oportunidades de acceso al trabajo que les permitan un ingreso, a recibir una capacitación adecuada, así como recibir la protección de las disposiciones de la Ley Federal del Trabajo y de otros ordenamientos de carácter laboral; y
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
+XXI. Gozar de oportunidades de acceso al trabajo que les permitan un ingreso, a recibir una capacitación adecuada, a laborar en instalaciones que garanticen de manera íntegra su seguridad y bienestar físico, así como recibir la protección de las disposiciones de la Ley Federal del Trabajo y de otros ordenamientos de carácter laboral; y
 
 XXII. Ser sujeto de programas de asistencia social cuando se encuentren en caso de desamparo, discapacidad o pérdida de sus medios de subsistencia.
 
@@ -233,7 +239,9 @@ El Estado garantizará las condiciones óptimas de salud, educación, nutrición
 
 I. Que toda institución pública o privada que brinde servicios a las personas adultas mayores deberá contar con la infraestructura, mobiliario y equipo adecuado, así como con los recursos humanos necesarios para que se realicen los trámites administrativos;
 
-II. Que ninguna persona adulta mayor sea socialmente marginada o discriminada en espacios públicos o privados por razón de su edad, género, estado físico, creencia religiosa o condición social;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
+II. Que ninguna persona adulta mayor sea socialmente marginada o discriminada en ningún espacio público o privado por razón de su origen étnico o nacional, el género, la edad, las discapacidades, la condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar sus derechos y libertades.
 
 III. La celebración de acuerdos de concertación con la iniciativa privada, a fin de que la atención preferencial para las personas adultas mayores, también sea proporcionada en instituciones bancarias, tiendas de autoservicio y otras empresas mercantiles;
 
@@ -323,9 +331,23 @@ Se consideran instituciones de atención a las personas adultas mayores, aquella
 
 Todas las instituciones públicas, privadas o sociales que atienden a las personas adultas mayores, están obligadas a observar y respetar los derechos que ésta y otras Leyes les reconozcan.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 24.
 
-El personal que labore en instituciones públicas, privadas y sociales dedicadas a la atención de las personas adultas mayores, deberá recibir los cursos de capacitación y actualización en materia de geriatría, gerontología y tanatología para el mejor desempeño de sus actividades.
+El personal que labore, así como aquellos que presten servicios voluntarios en instituciones públicas, privadas y sociales dedicadas a la atención y asistencia de las personas adultas mayores, deberán recibir cursos de capacitación a efecto de poder contar con la vocación, capacidad y conocimientos en materia de geriatría, gerontología y tanatología; asimismo, deberán conducirse con absoluto respeto a la dignidad humana y derechos inherentes a las personas adultas mayores con estricto apego a esta legislación y demás aplicables.
+
+La Secretaría de Salud en coordinación con la Secretaría de Educación y Bienestar Social, serán las autoridades encargadas de capacitar a los cuidadores para que puedan desempeñar a cabalidad dichas funciones, debiendo abordarse como mínimo los siguientes rubros:
+
+a) Información básica sobre el proceso de envejecimiento;
+
+b) Información básica sobre los derechos de las personas adultas mayores;
+
+c) Información básica sobre primeros auxilios.
+
+Estos rubros se deberán desplegar en detalle en el reglamento correspondiente.
+
+La Secretaría de Desarrollo Social, el Sistema para el Desarrollo Integral de la Familia, la Secretaría de Educación y Bienestar Social y la Secretaría de Salud, todas del Estado y en coordinación, promoverán que las instituciones de educación superior firmen un convenio, a fin de que los estudiantes que hayan terminado sus estudios y que presten sus servicios como cuidadores en los centros de salud, asilos y albergues que estén reconocidos por dichas instituciones del Estado, liberen de esta forma su servicio social obligatorio.
 
 ###### Artículo 25.
 
@@ -531,7 +553,9 @@ Corresponde a la Secretaría de Educación y Bienestar Social:
 
 I. Fomentar el acceso de las personas adultas mayores a programas de educación y capacitación continua;
 
-II. Promover y elaborar por sí, o en coordinación con los gobiernos estatal y municipal, la creación de programas permanentes de educación para la alfabetización de las personas adultas mayores;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
+II. Promover y elaborar por sí, o en coordinación con los gobiernos estatal y municipal, la creación de programas permanentes de educación para la alfabetización de las personas adultas mayores; así como incorporar a las personas adultas mayores que tengan preparación académica, como instructores en los programas dirigidos a la capacitación y difusión de algún tema de interés social, en especial los programas dirigidos hacia las personas protegidas por esta Ley;
 
 III. Elaborar programas especiales de capacitación y educación para las personas adultas mayores, en coordinación con la Secretaría del Trabajo y Previsión Social, con la finalidad de que puedan incorporarse a la actividad económica del Estado;
 
@@ -691,9 +715,11 @@ IV.- Representantes de instituciones de educación superior, públicas o privada
 
 V.- Empresarios encargados de desarrollar programas, actividades o investigaciones relacionadas con la población de personas adultas mayores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 53.
 
-El Consejo Estatal tendrá las siguientes funciones.
+El Consejo Estatal tendrá las siguientes funciones:
 
 I. Formular las políticas públicas y planes en materia de las personas adultas mayores, conforme al artículo 8 de esta Ley;
 
@@ -731,9 +757,13 @@ XVII. Gestionar fondos ante organizaciones públicas y privadas, nacionales e in
 
 XVIII. Elaborar un informe anual que se remitirá a las Comisiones correspondientes del Congreso del Estado para su conocimiento;
 
-XIX. Aprobar y expedir su reglamento interno; y
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
 
-XX. Las demás funciones que se acuerden en el Pleno del Consejo Estatal.
+XIX. Proveer los mecanismos de participación necesarios para que los adultos mayores colaboren en el diseño, elaboración y ejecución de programas y proyectos que traten sobre ellos, con valoración especial sobre su experiencia y conocimientos en el desarrollo social, económico, cultural y político del Estado;
+
+XX. Aprobar y expedir su reglamento interno; y
+
+XXI. Las demás funciones que se acuerden en el Pleno del Consejo Estatal.
 
 ### CAPÍTULO II. DE LA ORGANIZACIÓN
 
@@ -880,3 +910,15 @@ Las presentes reformas entrarán en vigor al día siguiente al de su publicació
 ###### ARTICULO SEGUNDO.
 
 El Consejo Estatal y los consejos municipales, en el ámbito de sus respectivas atribuciones y dentro de un plazo no mayor al de noventa días, contados a partir de la entrada en vigor de las presentes reformas, emitirán o modificarán en su caso, las disposiciones reglamentarias que sean necesarias para dar cumplimiento al presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2015.
+
+> <small>[N. DE E. ARTÍCULO TRANSITORIO DEL “DECRETO NO. 415 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE LA FRACCIÓN IV AL ARTÍCULO 6, Y XIX AL ARTÍCULO 53, RECORRIÉNDOSE EN SU ORDEN LAS SUBSECUENTES; ASÍ MISMO SE REFORMA LA FRACCIÓN XXI DEL ARTÍCULO 8, EL ARTÍCULO 24 Y LA FRACCIÓN II DEL NUMERAL 41, DE LA LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE BAJA CALIFORNIA”.]</small>
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 417 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN II DEL ARTÍCULO 17 DE LA LEY DE LOS DERECHOS, PROTECCIÓN E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
