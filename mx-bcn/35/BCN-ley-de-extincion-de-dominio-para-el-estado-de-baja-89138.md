@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-extincion-de-dominio-para-el-estado-de-baja-89138"
 country: "mx"
 rank: "ley"
 publication_date: "2012-07-27"
-last_updated: "2012-07-27"
+last_updated: "2015-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89138&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Sección II del Periódico Oficial del Estado de Baja California, el viernes 27 de julio de 2012.
 
@@ -36,6 +36,8 @@ DECRETO No. 236
 ###### ARTÍCULO PRIMERO.
 
 Se expide la Ley de Extinción de Dominio para el Estado de Baja California, para quedar como sigue:
+
+> <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO DE REFORMAS DE LA PRESENTE LEY, PUBLICADO EN EL P.O. DE 18 DE DICIEMBRE DE 2015, POR LO QUE RESPECTA A LA SUBPROCURADURÍA CONTRA LA DELINCUENCIA ORGANIZADA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO, CAMBIA DE DENOMINACIÓN A SUBPROCURADURÍA DE INVESTIGACIONES ESPECIALES DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO".]</small>
 
 LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE BAJA CALIFORNIA
 
@@ -63,7 +65,11 @@ VI. Delincuencia organizada: La organización de hecho de tres o más personas p
 
 VII. Delitos Patrimoniales: El robo de vehículos, la extorsión, o la adquisición, recepción u ocultación de bienes producto de un delito contemplada en el artículo 232 del Código Penal, todos con relación a la delincuencia organizada;
 
-VIII. Hecho ilícito: Hecho, típico y antijurídico, constitutivo de cualquiera de los delitos de delincuencia organizada, delitos contra la salud de competencia estatal, secuestro, robo de vehículos y trata de personas; aun cuando no se haya determinado quien o quienes fueron sus autores, participaron en él o el grado de su intervención;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
+VIII. Hecho ilícito: Hecho, típico y antijurídico, constitutivo de cualquiera de los delitos de delincuencia organizada, delitos contra la salud en su modalidad de narcomenudeo, a que se refiere el Capítulo VII del Título Décimo Octavo de la Ley General de Salud, secuestro, robo de vehículos, trata de personas y enriquecimiento ilícito; aun cuando no se haya determinado quien o quienes fueron sus autores, participaron en él o el grado de su intervención;
 
 IX. Juez: El Juez encargado de conocer del procedimiento de extinción de dominio, de conformidad con la presente ley y la normatividad que rija la actuación del Poder Judicial;
 
@@ -73,13 +79,21 @@ XI. Procurador: El Procurador General de Justicia del Estado de Baja California;
 
 XII. Tercero: Persona que, sin ser afectado en el procedimiento de extinción de dominio, comparece en él para deducir un derecho propio sobre los bienes materia de la acción, y
 
-XIII. Víctima u Ofendido: Los previstos respectivamente en las fracciones I y II del artículo 2 de la Ley de Atención y Protección a la Víctima o el Ofendido del Delito para el Estado de Baja California, lesionado o puesto en peligro con la ejecución del hecho ilícito a que se refiere la fracción VIII del presente artículo.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
+XIII. Víctima u Ofendido: Se considera víctima del delito al sujeto pasivo que resiente directamente sobre su persona la afectación producida por la conducta delictiva. Asimismo, se considerará ofendido a la persona física o moral titular del bien jurídico lesionado o puesto en peligro por la acción u omisión prevista en la fracción VIII del presente artículo.
 
 ###### Artículo 3.
 
 En los casos no previstos en esta ley, se estará a las siguientes reglas de supletoriedad:
 
-I. En la preparación del ejercicio de la Acción de Extinción de Dominio, a lo previsto en el Código de Procedimientos Penales para el Estado.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
+I. En la preparación del ejercicio de la Acción de Extinción de Dominio, a lo previsto en el Código de Procedimientos Penales aplicable.
 
 II. En el Procedimiento de Extinción de Dominio, a lo previsto en el Código de Procedimientos Civiles para el Estado;
 
@@ -89,9 +103,13 @@ IV. En los aspectos relativos la regulación de bienes u obligaciones, a lo prev
 
 ### CAPÍTULO II. DE LA ACCIÓN DE EXTINCIÓN DE DOMINIO
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 4.
 
-La Extinción de Dominio es la pérdida de los derechos de propiedad de los bienes mencionados en el artículo 5 de esta Ley, sin contraprestación ni compensación alguna para el afectado, cuando se acredite el hecho ilícito en los casos de delincuencia organizada, delitos contra la salud de competencia estatal, secuestro, robo de vehículos y trata de personas, y el afectado no logre probar la procedencia lícita de dichos bienes y su actuación de buena fe, o que estaba impedido para conocer su utilización ilícita.
+La Extinción de Dominio es la pérdida de los derechos de propiedad de los bienes mencionados en el artículo 5 de esta Ley, sin contraprestación ni compensación alguna para su dueño, cuando se acredite el hecho ilícito en los casos de delincuencia organizada, delitos contra la salud, en su modalidad de narcomenudeo a que se refiere el Capítulo VII del Título Décimo Octavo de la Ley General de Salud, secuestro, robo de vehículos, trata de personas y enriquecimiento ilícito, y el afectado no logre probar la procedencia lícita de dichos bienes y su actuación de buena fe, o que estaba impedido para conocer su utilización ilícita.
 
 La Extinción de Dominio es de naturaleza jurisdiccional, de carácter real y de contenido patrimonial, y procederá sobre cualquier derecho real, principal o accesorio, independientemente de quien los tenga en su poder, o los haya adquirido.
 
@@ -271,9 +289,13 @@ III. Que respecto de los bienes sobre los que se ejerció la acción se ha emiti
 
 También garantizará que los terceros ofrezcan pruebas conducentes para que se reconozcan sus derechos sobre los bienes materia de la acción; y las víctimas u ofendidos únicamente en lo relativo a la reparación del daño, cuando comparezca para tales efectos.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 28.
 
-Cuando el afectado lo solicite por cualquier medio, el Juez le designará un defensor de oficio, quien realizará todas las diligencias para garantizar la audiencia y el debido proceso. Cuando comparezcan terceros y la víctima, en caso de requerirlo, tendrán derecho a que se les garantice defensa adecuada.
+Cuando el afectado lo solicite por cualquier medio, el Juez le designará un Defensor Público, quien realizará todas las diligencias para garantizar la audiencia y el debido proceso. Cuando comparezcan terceros y la víctima, en caso de requerirlo, tendrán derecho a que se les garantice defensa adecuada.
 
 ### CAPÍTULO VII. DE LAS PARTES
 
@@ -307,7 +329,17 @@ II. Recabará los medios de prueba que acrediten indiciariamente que los bienes 
 
 III. Solicitará al juez, durante el procedimiento respectivo, las medidas cautelares previstas en la presente ley, y
 
-IV. Las demás que señale esta Ley, la legislación vigente o que considere necesarias para el cumplimiento del objeto de este ordenamiento.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
+IV. Realizará las diligencias de investigación necesarias para identificar y localizar al dueño de los bienes materia de la acción de extinción de dominio, o quien se ostente o comporte como tal, así como a los terceros, y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 18 DE DICIEMBRE DE 2015)</small>
+
+V. Las demás que señale esta Ley, la legislación vigente o que considere necesarias para el cumplimiento del objeto de este ordenamiento.
 
 ###### Artículo 32.
 
@@ -425,7 +457,11 @@ III. Que los bienes no se encuentran en ninguno de los supuestos previstos en el
 
 Los terceros ofrecerán pruebas conducentes para que se reconozcan sus derechos sobre los bienes materia de la acción; y las víctimas u ofendidos únicamente en lo relativo a la reparación del daño.
 
-Las pruebas que ofrezca el Agente del Ministerio Público deberán ser conducentes, primordialmente, para acreditar la existencia de cualquiera de los hechos ilícitos señalados en el artículo 4 párrafo primero de esta Ley, desde el inicio de la averiguación previa para la admisión de la acción por el Juez, así como para demostrar que los bienes son de los enlistados en el artículo 5 del mismo ordenamiento, para el dictado de la sentencia. Además, el Juez le dará vista con todas las determinaciones que tome, para que manifieste lo que conforme a derecho proceda, con relación a los terceros, víctimas u ofendidos; y estará legitimado para recurrir cualquier determinación que tome.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
+Las pruebas que ofrezca el Agente del Ministerio Público deberán ser conducentes, primordialmente, para acreditar la existencia de cualquiera de los hechos ilícitos señalados en el artículo 4 párrafo primero de esta Ley, desde el inicio de la averiguación previa o la investigación para la admisión de la acción por el Juez, así como para demostrar que los bienes son de los enlistados en el artículo 5 del mismo ordenamiento, para el dictado de la sentencia. Además, el Juez le dará vista con todas las determinaciones que tome, para que manifieste lo que conforme a derecho proceda, con relación a los terceros, víctimas u ofendidos; y estará legitimado para recurrir cualquier determinación que tome.
 
 ###### Artículo 44.
 
@@ -594,3 +630,15 @@ GOBERNADOR DEL ESTADO.
 FRANCISCO ANTONIO GARCÍA BURGOS
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 409 MEDIANTE EL CUAL SE APRUEBA LAS REFORMAS A LOS ARTÍCULOS 2, 3, 4, 28, 31, Y 43 DE LA LEY DE EXTINCIÓN DE DOMINIO PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las presentes reformas entrarán en vigor de manera gradual, en las fechas en que inicie vigencia el Código Nacional de Procedimientos Penales, de conformidad con las Declaratorias que emita el Poder Legislativo del Estado en los términos del artículo segundo transitorio del mencionado Código Nacional.
+
+TERCERO.- Por los que respecta a la Subprocuraduría contra la Delincuencia Organizada de la Procuraduría General de Justicia del Estado, cambia de denominación a Subprocuraduría de Investigaciones Especiales de la Procuraduría General de Justicia del Estado, la cual serán competentes para conocer sobre los delitos previstos en el artículo 4 párrafo primero de esta ley y ejercer la acción de extinción de dominio, de conformidad con los acuerdos que para tal efecto emita el Procurador.
