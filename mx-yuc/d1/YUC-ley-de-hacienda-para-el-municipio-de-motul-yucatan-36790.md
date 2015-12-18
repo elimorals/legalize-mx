@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-motul-yucatan-36790"
 country: "mx"
 rank: "ley"
 publication_date: "2003-12-31"
-last_updated: "2012-12-24"
+last_updated: "2015-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MOTUL, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el miércoles 31 de diciembre de 2003.
 
@@ -403,7 +403,33 @@ VII.- Exhibir los documentos públicos y privados que requiera la Tesorería Mun
 
 VIII.- Proporcionar con veracidad los datos que requiera la Tesorería Municipal.
 
-IX.- Realizar los pagos, y cumplir con las obligaciones fiscales, en la forma y términos que señala la presente ley.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, D.O. 18 DE DICIEMBRE DE 2015)</small>
+
+IX.- Cumplir con las obligaciones fiscales, en la forma y términos que señala la presente ley.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O. 18 DE DICIEMBRE DE 2015)</small>
+
+X.- Realizar los pagos de acuerdo a las siguientes tarifas
+
+1 a 50 m2 $165.00
+
+51 a 100 m2 $330.00
+
+101 a 200 m2 $440.00
+
+201 a 400 m2 $550.00
+
+401 a 800 m2 $880.00
+
+801 a 1000 m2 $1,100.00
+
+1,001 a 2000 m2 $2,200.00
+
+2,001 m2 en Adelante $1.65 por m2 (Sin exceder los $11,000.00)
 
 DE LAS LICENCIAS DE FUNCIONAMIENTO
 
@@ -425,11 +451,23 @@ b).- Carta de uso de suelo.
 
 c).- Determinación sanitaria, en su caso.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O. 18 DE DICIEMBRE DE 2015)</small>
+
+d).- Comprobante de no adeudo de Agua Potable.
+
 Para la revalidación de la licencia municipal de funcionamiento, deberán presentarse:
 
 a).- Licencia de funcionamiento anterior.
 
 b).- Certificado de no adeudar impuesto predial.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O. 18 DE DICIEMBRE DE 2015)</small>
+
+c).- Comprobante de no adeudo de Agua Potable.
 
 ## TÍTULO TERCERO. DE LOS IMPUESTOS
 
@@ -515,55 +553,35 @@ Lo dispuesto en el párrafo anterior, no se aplicará a los contribuyentes que a
 
 DE LA TARIFA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE ENERO DE 2005)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O. 18 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 47.
 
-Cuando la base del impuesto predial sea el valor catastral del inmueble, el impuesto se determinará multiplicando la tasa del .15 % en los términos de lo dispuesto en la Ley General de Hacienda para los Municipios del Estado de Yucatán.
+Cuando las bases del impuesto predial se (sic) el valor catastral del inmueble, el impuesto se determinará aplicando la tasa de .15% en los términos dispuesto (sic) por (sic) Ley de Hacienda Municipal del Estado.
 
-I.- Por predios Urbanos y Rústicos con o sin construcción
+I. Por predios urbanos y rústicos, con o sin construcción.
 
-1.- Tabla de valores unitarios de terreno
+1. TABLAS DE VALORES UNITARIOS DE TERRENOS:
 
-Área comercial De $100.00 A $ 500.00
+> <small>[N. DE E. VÉASE TABLA EN EL SUPLEMENTO DEL D.O. DE 18 DE DICIEMBRE DE 2015, PÁGINAS DE LA 56 A LA 57.]</small>
 
-Área urbana De $ 50.00 A $ 150.00
+En el caso de los predios cuyo valor catastral es igual o inferior a $5,000.00 se pagará un mínimo de $55.00 de impuestos.
 
-Área urbana retirada del centro De $ 20.00 A $ 30.00
+2. VALORES UNITARIOS DE CONSTRUCCION:
 
-Área perimetral De $ 5.00 A $ 10.00
+> <small>[N. DE E. VÉASE TABLA EN EL SUPLEMENTO DEL D.O. DE 18 DE DICIEMBRE DE 2015, PÁGINAS DE LA 57 A LA 58.]</small>
 
-Fraccionamiento De $ 50.00
+VALOR DE PREDIOS RÚSTICOS POR HECTAREA, EN SALARIOS MINIMOS.
 
-2.- Valores unitarios de construcción
+COLINDANCIA CON CARRETERAS 18 POR HECTAREA
 
-Área comercial De $ 1,000.00 A $2,000.00
+COLINDANCIA CON CAMINO BLANCO 14 POR HECTAREA
 
-Área urbana De $ 400.00 A $ 500.00
+COLINDANCIA CON BRECHA 10 POR HECTAREA
 
-Área urbana retirada del centro De $ 200.00 A $ 300.00
-
-Área perimetral De $ 40.00 A $ 200.00
-
-Fraccionamiento De $ 500.00
-
-3.- Valores unitarios de construcción
-
-(VER TABLA ANEXA)
-
-> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2007)</small>
-
-Valores de predios rústicos por hectárea, en salarios mínimos.
-
-Colindancias con carretera 12 Por hectárea
-
-Colindancias con camino blanco 8 Por hectárea
-
-Colindancia con brecha 6 Por hectárea
-
-> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2007)</small>
-
-En el caso de predios cuyo valor catastral es igual o inferior a 300 salarios mínimos, estos pagarán el equivalente a 0.45 salarios mínimos de impuesto predial.
+En el caso de predios cuyo valor catastral es igual o inferior a 150 salarios mínimos, estos pagaran el equivalente a 0.55 salarios mínimos de impuesto predial.
 
 DEL PAGO
 
@@ -889,7 +907,9 @@ DE LA TASA
 
 La tasa del impuesto sobre diversiones y espectáculos públicos, será de 5% misma que se aplicará sobre la base determinada, conforme al artículo inmediato anterior.
 
-Cuando el espectáculo público consista en la puesta en escena de obras teatrales la tasa será de cero, en espectáculos de circo la tasa será del 4%, aplicada a la totalidad del ingreso percibido.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, D.O. 18 DE DICIEMBRE DE 2015)</small>
 
 DE LA FACULTAD DE DISMINUIR LA TASA
 
@@ -1037,115 +1057,17 @@ Clase 4: Con construcción desde 241.00 metros cuadrados en adelante.
 
 DE LA TARIFA
 
-> <small>(REFORMADO, D.O. 28 DE ENERO DE 2005)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O. 18 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 83.
 
 La tarifa del derecho por el servicio mencionado, se pagará por metro cuadrado, conforme lo siguiente:
 
-> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2012)</small>
+> <small>[N. DE E. VÉASE TABLA EN EL SUPLEMENTO DEL D.O. DE 18 DE DICIEMBRE DE 2015, PÁGINAS DE LA 58 A LA 59.]</small>
 
-LICENCIA DE CONSTANCIA CONSTANCIA
-
-CONSTRUCCIÓN: DE TERMINACIÓN DE UNIÓN Y
-
-DE OBRA: DIVISIÓN DE
-
-INMUEBLES
-
-SE PAGARÁ:
-
-Tipo A Clase 1 Tipo A Clase 1 Tipo A Clase 1
-
-$ 9.00 por metro $ 1.00 por metro $ 9.00 por
-
-cuadrado cuadrado metro cuadrado
-
-Tipo A Clase 2 Tipo A Clase 2 Tipo A Clase 2
-
-$ 6.00 por metro $ 1.20 por metro $ 18.00 por
-
-cuadrado cuadrado metro cuadrado
-
-Tipo A Clase 3 Tipo A Clase 3 Tipo A Clase 3
-
-$ 6.50 por metro $ 1.30 por metro $ 27.00 por
-
-Cuadrado cuadrado metro cuadrado
-
-Tipo A Clase 4 Tipo A Clase 4 Tipo A Clase 4
-
-$ 7.00 por metro $ 1.45 por metro $ 36.00 por
-
-cuadrado cuadrado metro cuadrado
-
-Tipo B Clase 1 Tipo B Clase 1 Tipo B Clase 1
-
-$ 2.00 por metro $ 0.50 por metro $ 4.50 por
-
-cuadrado cuadrado metro cuadrado
-
-Tipo B Clase 2 Tipo B Clase 2 Tipo B Clase 2
-
-$ 2.50 por metro $ 0.60 por metro $ 9.00 por
-
-cuadrado cuadrado metro cuadrado
-
-Tipo B Clase 3 Tipo B Clase 3 Tipo B Clase 3
-
-$ 3.00 por metro $ 0.70 por metro $ 13.50 por
-
-cuadrado cuadrado metro cuadrado
-
-Tipo B Clase 4 Tipo B Clase 4 Tipo B Clase 4
-
-$ 3.50 por metro $ 0.75 por metro $ 18.00 por
-
-cuadrado cuadrado metro cuadrado
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 24 DE DICIEMBRE DE 2012)</small>
-
-I.- Licencia para realizar demolición $ 3.00 por metro cuadrado.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 24 DE DICIEMBRE DE 2012)</small>
-
-II.- Constancia de régimen de Condominio $40.00 por predio, departamento o local.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 24 DE DICIEMBRE DE 2012)</small>
-
-III.- Constancia de alineamiento $ 4.00 por metro lineal de frente o frentes del predio que den a la vía pública.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 24 DE DICIEMBRE DE 2012)</small>
-
-IV.- Constancia para Obras de Urbanización $0.75 por metro cuadrado de vía pública.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 24 DE DICIEMBRE DE 2012)</small>
-
-V.- Sellado de planos $ 45.00 por el servicio.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 24 DE DICIEMBRE DE 2012)</small>
-
-VI.-Revisión de planos para trámites de uso del suelo $ 40.00 (fijo)
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 24 DE DICIEMBRE DE 2012)</small>
-
-VII.- Certificado de Seguridad para el uso de Explosivos $ 45.00 por el servicio.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 24 DE DICIEMBRE DE 2012)</small>
-
-VIII.- Para efectuar excavaciones o para la construcción de pozos o albercas $15.00 por metro cúbico.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 24 DE DICIEMBRE DE 2012)</small>
-
-IX.- Licencia para hacer cortes en banquetas, pavimento (zanjas) y guarniciones $ 40.00 por metro lineal.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 24 DE DICIEMBRE DE 2012)</small>
-
-X.- Licencia para construir bardas o colocar pisos $ 3.00 por metro cuadrado.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 24 DE DICIEMBRE DE 2012)</small>
-
-XI.- Permiso por construcción de fraccionamientos $ 25.00 por metro cuadrado.
+Permiso por construcción de fraccionamientos $30.00 por metro cuadrado.
 
 DE LAS EXENCIONES
 
@@ -1245,27 +1167,83 @@ Son sujetos de estos derechos las personas físicas o morales que soliciten los 
 
 El objeto de estos derechos está constituido por los servicios que presta el Catastro Municipal.
 
-> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2007)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O. 18 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 94.
 
-La cuota que se pagará por los servicios que presta el Catastro Municipal, causarán derechos de conformidad con la siguiente tarifa, tasada en salarios mínimos vigentes en el estado de Yucatán:
+Las tarifas a pagar por los servicios que presta el catastro municipal, se determinarán de acuerdo a las siguientes tarifas, tasadas en salarios mínimos vigentes en el estado de Yucatán.
 
-(VÉASE ARCHIVO ANEXO)
+I.- EMISIÓN DE COPIAS FOTOSTÁTICAS SIMPLES.
+
+POR CADA HOJA SIMPLE TAMAÑO CARTA, DE CEDULAS, PLANOS, PARCELAS, FORMAS DE DE (SIC) MANIFESTACION DE TRASLACION DE DOMINIO O CUALQUIER OTRA MANIFESTACION. 0.35
+
+POR CADA COPIA SIMPLE TAMAÑO OFICIO. 0.55
+
+II.- POR EXPEDICION DE COPIAS FOTOSTATICAS CERTIFICADAS DE:
+
+CEDULAS, PLANOS, PARCELAS, MANIFESTACIONES TAMAÑO CARTA 0.50
+
+FOTOSTATICA DE PLANO TAMAÑO OFICIO, POR CADA UNA 0.55
+
+FOTOSTATICA DE PLANO HASTA 4 VECES TAMAÑO OFICIO POR CADA UNO 3.20
+
+FOTOSTATICA DE PLANO MAYORES HASTA 4 VECES DE TAMAÑO OFICIO POR CADA UNA. 5.00
+
+III.- POR EXPEDICION DE OFICIOS DE:
+
+DIVISION (POR CADA PARTE) 0.40
+
+UNION, RETIFICACION (SIC) DE MEDIDAS, URBANIZACION Y CAMBIO DE NOMENCLATURA. 0.80
+
+CEDULAS CATASTRALES 1.55
+
+CONSTANCIA DE NO PROPIEDAD, VALOR CATASTRAL, NUMERO OFICIAL DE PREDIO, CERTIFICADO DE INSCRIPCION VIGENTES E INFORMACION DE MUEBLES INMUEBLES. 1.40
+
+IV.- POR ELABORACION DE PLANOS:
+
+CATASTRALES A ESCALA 4.00
+
+PLANOS TOPOGRAFICOS HASTA 50 HECTAREAS 10.00
+
+V.- POR REVALIDACION DE OFICIOS DE DIVISION, UNION Y RECTIFICACION DE MEDIDAS. 1.50
+
+VI.- POR REPRODUCCION DE DOCUMENTOS MICROFILMADOS
+
+TAMAÑO CARTA 1.00
+
+TAMAÑO OFICIO 1.20
+
+VII.- POR DILIGENCIAS DE MEDIDAS Y FISICAS Y DE COLINDANCIA DE PREDIOS. 4.50
+
+VIII.- POR DILIGENCIAS DE MEDIDAS Y DE COLINDANCIA QUE REQUIERA TOPOGRAFIA PROFECIONAL (SIC) O GEOPOSICIONAMIENTO SATELITAL, ASI COMO TOPOGRAFIA AEREA, ESTA SE COBRARA SEGÚN LOS PRECIOS DE LOS PRESTADORES DE SERVICIOS QUE EN CONVENIO CON LA INSTITUCION SE HAYAN ESTABLECIDO, DEL MISMO MODO EL MUNICIPIO COBRARA EL DERECHO POR CERTIFICACION DE DOCUMENTACION EMITIDA POR EL PRESTADOR DE SERVICIOS. COSTO DEL TRABAJO SOLICITADO +4.00 DE CERTIFICACION.
+
+IX.- POR TRABAJOS DE LIMPIEZA DE BRECHA POR METRO CUADRADO, PARA DILIGENCIAS DE MEDIDAS 1.00
+
+X.- POR ACTUALIZACIONES DE PREDIOS URBANOS SE CAUSARÁN Y PAGARÁN LOS SIGUIENTES DERECHOS.
+
+DE UN VALOR DE $1,000.00 A $20,000.00 4.20
+
+DE UN VALOR DE $20,001.00 A $80,000.00 6.50
+
+DE UN VALOR DE $80,001.00 A EN ADELANTE 11.00
 
 ###### ARTÍCULO 95.
 
 No causarán derecho alguno las divisiones o fracciones de terrenos en zonas rústicas que sean destinadas plenamente a la producción agrícola o ganadera.
 
-> <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2007)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O. 18 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 96.
 
 Los fraccionamientos causarán derechos de deslinde, excepción hecha de lo dispuesto en el artículo anterior, de conformidad con los siguientes costos en salarios mínimos:
 
-I.- Hasta 160,000 metros cuadrados 0.012 por metros cuadrados
+I.- HASTA 160,000 METROS CUADRADOS 0.020 POR METRO CUADRADO
 
-II.- Más de 160,000 metros cuadrados por metros excedentes 0.006 por metros cuadrados
+II.- MÁS DE 160,000 METROS CUADRDOS (SIC) POR METRO EXCEDENTE 0.008 POR METRO CUADRADO
 
 > <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
@@ -1445,11 +1423,13 @@ I.- Pagar por única vez el derecho para el otorgamiento de la correspondiente a
 
 II.- Pagar anualmente el derecho correspondiente a la renovación, dentro de los primeros 60 días de cada año.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, D.O. 18 DE DICIEMBRE DE 2015)</small>
+
 III.- La tasa se determinará con base en el siguiente cuadro de categorización de los giros comerciales, tasados en salarios mínimos para su cobro:
 
-(VÉASE ARCHIVO ANEXO)
-
-Con el objeto de fomentar el desarrollo empresarial, comercial, industrial y de servicios, entre los ciudadanos e incentivar sus inversiones, toda aquella persona física o moral, que demuestre fehacientemente su vecindad en este municipio, por ese simple hecho gozará del 50% de descuento en el pago de las tarifas descritas en la tabla anterior.
+> <small>[N. DE E. VÉASE TABLAS EN EL SUPLEMENTO DEL D.O. DE 18 DE DICIEMBRE DE 2015, PÁGINAS DE LA 61 A LA 62.]</small>
 
 > <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
@@ -1481,15 +1461,27 @@ b) Eventos de hasta 7 días el equivalente a 35 salarios mínimos.
 
 c) Eventos de hasta 15 días el equivalente a 50 salarios mínimos.
 
-> <small>(ADICIONADO, D.O. 28 DE ENERO DE 2005)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O. 18 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 118.
 
-Los establecimientos que expendan bebidas alcohólicas que antes de su apertura no obtengan la licencia de funcionamiento o que estando funcionando no tramiten su revalidación, se harán acreedores a una sanción igual a la tarifa señalada para el otorgamiento, renovación o permiso eventual, según sea el caso.
+Los establecimientos que expendan bebidas alcohólicas que antes de su apertura no obtengan la licencia de funcionamiento o que estando funcionando no tramiten su revalidación, se harán acreedores a una sanción de acuerdo a las siguientes tarifas:
 
-Esta sanción se aplicará sin perjuicio de que, la Tesorería proceda a la clausura del establecimiento hasta por cinco días, si el contribuyente no cumple con la obligación que tiene de obtener o revalidar la licencia a que se refiere este artículo.
+I.- Por la expedición de bebidas La multa a pagar será el importe
 
-En todo caso, la Tesorería antes de aplicar las sanciones que establece este artículo requerirá por escrito al contribuyente para que realice el trámite correspondiente, otorgándole un plazo de tres días para tal efecto. Si la persona requerida hace caso omiso del requerimiento mencionado, la tesorería procederá a la clausura del establecimiento, sin perjuicio de aplicar la sanción pecuniaria procedente.
+alcohólicas sin licencia de señalado en el Artículo 113 de la presente
+
+funcionamiento. Ley, de acuerdo a la superficie del
+
+establecimiento.
+
+II. Por expedición de bebidas La multa a pagar será el importe
+
+alcohólicas con revalidación anual señalado en el Artículo 113, de acuerdo
+
+vencida o sin revalidación anual. a la superficie del establecimiento.
 
 > <small>(REFORMADO, D.O. 22 DE DICIEMBRE DE 2007)</small>
 
@@ -1529,9 +1521,9 @@ eventual 0.20 diariamente
 
 ### CAPÍTULO IX. DERECHOS POR SERVICIO DE PANTEONES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, D.O. 18 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 120.
 
@@ -1539,29 +1531,25 @@ Los derechos a que se refiere este capítulo se causarán y pagarán de conformi
 
 I.- Por renta de bóvedas del Ayuntamiento
 
-por un período de 2 años 14.11
+por un período de 2 años 14.5
 
 II.- Por empadronamiento 1
 
 III.- Por uso de fosa común 2
 
-IV.- Cambio de concesionario 5.29
+IV.- Cambio de concesionario 5.5
 
 V.- Por construcción y remodelación
 
-por metro cuadrado. .5
+por metro cuadrado. 1
 
-VI.- Por inhumación 7.05
+VI.- Por inhumación 7.5
 
-VII.- Por exhumación 1
-
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2010)</small>
+VII.- Por exhumación 3
 
 VIII.- Por concesión de terreno a
 
 perpetuidad de 2.40 por 1.20 metros 100
-
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2010)</small>
 
 IX.- Por concesión de terreno de
 
@@ -1569,35 +1557,31 @@ IX.- Por concesión de terreno de
 
 X.- Por concesión de terreno en las
 
-comisarías de Ucí y Kini de
+comisarías de Ucí y Kiní de
 
-2.40 por 1.20 metros 32
+2.40 por 1.20 Metros (Para bóveda) 32
 
 XI.- Por concesión de terreno en las
 
-comisaría (sic) de Ucí y Kini de
+comisaría (sic) de Ucí y Kiní de
 
-2.40 por 1.20 metros 16
+1 por 1 Metros (Para Osario) 16
 
 XII.- Por servicios en las demás comisarías se pagará:
 
 a) Por inhumación 2
 
-b) Por exhumación .5
+b) Por Exhumación .5
 
 c) Por uso de la fosa común 1
 
 XIII.- Derecho de mantenimiento de áreas comunes por
 
-concesión a perpetuidad se pagará anualmente por fosa 1
+concesión a perpetuidad se pagará anualmente por fosa 1.5
 
-b) (sic) Por exhumación .5
+b) (sic) Por exhumación .7
 
-c) Por uso de la fosa común 1
-
-XIII.- Derecho de mantenimiento de áreas comunes por
-
-concesión a perpetuidad se pagará anualmente por fosa (sic) 1
+c) Por uso de la fosa común 1.5
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 28 DE ENERO DE 2005)</small>
 
@@ -1682,6 +1666,64 @@ XXIII. PRUEBA DE EMBARAZO EN ORINA 2
 XXIV. PRUEBA DE EMBARAZO EN SANGRE 3
 
 XXV. EXÁMENES PRENUPCIALES 10
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O. 18 DE DICIEMBRE DE 2015)</small>
+
+XXVI. CONSULTA $ 15
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O. 18 DE DICIEMBRE DE 2015)</small>
+
+XXVII. CURACIÓN $ 20
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O. 18 DE DICIEMBRE DE 2015)</small>
+
+XXVIII. APLICACION DE INYECCION CON
+
+JERINGA PROPORCIONADA POR EL PACIENTE. $ 5.00
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O. 18 DE DICIEMBRE DE 2015)</small>
+
+XXIX. APLICACION DE INYECCION CON
+
+JERINGA PROPORCIONADA POR EL
+
+MUNICIPIO. $ 10.00
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O. 18 DE DICIEMBRE DE 2015)</small>
+
+XXX. NEBULIZACION CON MEDICAMENTO
+
+PROPORCIONADO POR EL PACIENTE $ 5.00
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O. 18 DE DICIEMBRE DE 2015)</small>
+
+XXXI. NEBULIZACION CON MEDICAMENTO
+
+PROPORCIONADO POR EL MUNICIPIO $ 15.00
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O. 18 DE DICIEMBRE DE 2015)</small>
+
+XXXII. TOMA DE PRESION $ 15.00
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O. 18 DE DICIEMBRE DE 2015)</small>
+
+XXXIII. CERTIFICADO MEDICO $ 25.00
 
 > <small>(ADICIONADO, D.O. 24 DE ENERO DE 2006)</small>
 
@@ -2157,6 +2199,12 @@ a) Tratándose de infracciones que tengan como consecuencia la omisión en el pa
 
 b) Tratándose de infracciones que impliquen la falta de cumplimiento de obligaciones administrativas y/o fiscales distintas del pago de contribuciones, la segunda o posteriores veces que se sancione al infractor por ese motivo.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, D.O. 18 DE DICIEMBRE DE 2015)</small>
+
+En el caso del inciso d) cuando la licencia de funcionamiento se trate de establecimientos con venta y expendio de bebidas alcohólicas la multa será la establecida en el artículo 118 fracción II de la presente Ley.
+
 TRANSITORIOS:
 
 ###### ARTÍCULO PRIMERO.
@@ -2266,3 +2314,11 @@ TRANSITORIO DEL DECRETO
 ###### ARTÍCULO ÚNICO.
 
 Este decreto entrarán en vigor el día primero de enero del año dos mil trece, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 18 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 322/2015 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DZIDZANTÚN, MOTUL, MUNA, SACALUM, SOTUTA Y UAYMA, TODAS DEL ESTADO DE YUCATÁN".]
+
+###### ARTÍCULO ÚNICO.
+
+Este decreto entrará en vigor el día primero de enero del año dos mil dieciséis, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
