@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-salud-del-estado-de-sinaloa-40732"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-03"
-last_updated: "2015-09-04"
+last_updated: "2015-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE SALUD DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 3 de septiembre de 2004.
 
@@ -929,9 +929,41 @@ II. Las actividades recreativas, de esparcimiento y culturales, destinadas a for
 
 III. La vigilancia de actividades ocupacionales que puedan poner en peligro la salud física y mental de los menores y de las mujeres embarazadas;
 
-IV. El establecimiento de programas de información y sensibilización, adecuados a la capacidad de los destinatarios, respecto de los medios de transmisión del VIH, y sus formas de prevención; y
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
 
-V. Las demás que coadyuven a la protección de la salud materno-infantil.
+IV. El establecimiento de programas de información y sensibilización, adecuados a la capacidad de los destinatarios, respecto de los medios de transmisión del VIH, y sus formas de prevención;
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
+V. Acciones de orientación y vigilancia institucional, capacitación y fomento para la lactancia materna y amamantamiento, incentivando a que la leche materna sea alimento exclusivo durante seis meses y complementario hasta el segundo año de vida y, en su caso, la ayuda alimentaria directa tendiente a mejorar el estado nutricional del grupo materno infantil, además de impulsar, la instalación de lactarios en los centros de trabajo de los sectores público y privado;
+
+Las instituciones públicas y privadas que prestan servicios de salud destinados a la atención materno-infantil deben cumplir con los "Diez pasos para la lactancia exitosa" siendo los siguientes:
+
+a) Disponer de una política por escrito relativa a la lactancia materna que sistemáticamente se ponga en conocimiento de todo el personal de atención de la salud.
+
+b) Capacitar a todo el personal de salud de forma que esté en condiciones de poner en práctica esa política.
+
+c) Informar a todas las embarazadas de los beneficios que ofrece la lactancia materna y la forma de ponerla en práctica.
+
+d) Ayudar a las madres a iniciar la lactancia durante la media hora siguiente al alumbramiento.
+
+e) Mostrar a las madres cómo se debe dar de mamar al niño y cómo mantener la lactancia incluso si han de separarse de sus hijos.
+
+f) No dar a los recién nacidos más que la leche materna, sin ningún otro alimento o bebida, a no ser que estén médicamente indicados.
+
+g) Facilitar la cohabitación de las madres y los lactantes durante las 24 horas del día.
+
+h) Fomentar la lactancia materna a libre demanda.
+
+i) No dar a los niños alimentados al pecho chupadores o chupetes artificiales.
+
+j) Fomentar el establecimiento de grupos de apoyo a la lactancia materna y procurar que las madres se pongan en contacto con ellos a su salida del hospital o clínica.
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
+VI. Acciones de promoción para la creación de bancos de leche humana en los establecimientos de salud que cuenten con servicios neonatales; y
+
+VII. Las demás que coadyuven a la protección de la salud materno-infantil.
 
 ###### Artículo 82.
 
@@ -2937,41 +2969,15 @@ P.O. 4 DE SEPTIEMBRE DE 2015.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 252.- POR EL QUE SE REFORMAN, DEROGAN Y ADICIONAN DIVERSOS ORDENAMIENTOS LEGISLATIVOS PARA ARMONIZARLOS A LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO".]
+P.O. 18 DE DICIEMBRE DE 2015.
 
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 442 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SALUD, LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, Y LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, TODAS DEL ESTADO DE SINALOA”.]
 
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
-TERCERO. Las reformas al Código Electoral del Estado de México entrarán en vigor una vez concluido el proceso electoral 2024.
+SEGUNDO. Para el debido cumplimiento del presente Decreto, el Ejecutivo del Estado dentro del plazo de ciento ochenta días posteriores al inicio de su vigencia deberá realizar o expedir las disposiciones reglamentarias correspondientes.
 
-CUARTO. A partir de la entrada en vigor del presente Decreto las referencias realizadas en disposiciones jurídicas y en cualquier tipo de documentación a la Dirección General del Sistema Estatal de Informática se entenderán hechas a la Agencia Digital del Estado de México.
-
-Los recursos financieros, humanos, materiales y presupuestales de la Dirección General del Sistema Estatal de Informática, incluidas las licencias digitales, programas de cómputo, patentes, modelos de utilidad, diseños y cualquier información o servicio técnico con el que cuente, serán transferidos a la Agencia Digital del Estado de México, a partir de la entrada en vigor del presente Decreto.
-
-Los convenios, contratos y acuerdos suscritos con antelación a la entrada en vigor del presente Decreto, por la Dirección General del Sistema Estatal de Informática seguirán teniendo vigencia en los términos acordados y en lo sucesivo constituirán parte de las obligaciones y derechos de la Agencia Digital del Estado de México.
-
-Los asuntos, actos, procedimientos, programas o proyectos que se encuentren en trámite o en curso en la Dirección General del Sistema Estatal de Informática, serán atendidos por la Agencia Digital del Estado de México hasta su debida conclusión.
-
-Se respetarán los derechos laborales de las personas trabajadoras cuya adscripción cambia por motivo de la entrada en vigor del presente Decreto, en términos de las disposiciones jurídicas aplicables.
-
-QUINTO. Las dependencias de la Administración Pública Estatal podrán convenir con la Agencia Digital del Estado de México los mecanismos y estrategias para el mejor ejercicio de atribuciones en materia de gobierno digital, con excepción de las que sean competencia del Consejo Estatal de Gobierno Digital.
-
-SEXTO. Las Dependencias del Poder Ejecutivo Estatal en el ámbito de sus respectivas competencias, proveerán lo necesario para el cumplimiento del presente Decreto.
-
-SÉPTIMO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Decreto.
-
-OCTAVO. La persona titular de la Oficialía Mayor deberá designar a las personas representantes que fungirán como vocales en los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán las atribuciones establecidas en el artículo 28 del Reglamento de la Ley para la Coordinación y el Control de los Organismos Auxiliares y Fideicomisos del Estado de México.
-
-NOVENO. La persona titular de la Consejería Jurídica deberá designar a las personas representantes que fungirán como invitadas permanentes a las sesiones de los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal, quienes tendrán derecho a voz, pero sin voto, en las mismas.
-
-DÉCIMO. Los Órganos de Gobierno de los Organismos Auxiliares que integran la Administración Pública Estatal deberán convocar a las personas representantes vocales e invitados permanentes señalados en los artículos anteriores a las sesiones ordinarias y extraordinarias que celebren a partir de la entrada en vigor del presente Decreto.
-
-DÉCIMO PRIMERO. El Gobierno del Estado de México podrá realizar todos los convenios, gestiones y acuerdos necesarios para que se concrete la operatividad del contenido de este Decreto, y se aprovechará toda la infraestructura existente con la finalidad de no generar impactos presupuestales.
-
-DÉCIMO SEGUNDO. El Poder Ejecutivo del Estado de México deberá realizar la armonización reglamentaria correspondiente en un plazo de un año contado a partir de la entrada en vigor del presente Decreto.
-
-G.G. 17 DE DICIEMBRE DE 2025.
+TERCERO. El Ejecutivo del Estado realizará las previsiones administrativas y presupuestales necesarias para garantizar el cumplimiento de las disposiciones contenidas en el presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 249.- POR EL QUE SE REFORMAN LAS FRACCIONES XXII, XXIII Y XXIV DEL ARTÍCULO 102, Y SE ADICIONA LA FRACCIÓN XXV AL ARTÍCULO 102 DE LA LEY DE TURISMO SOSTENIBLE Y DESARROLLO ARTESANAL DEL ESTADO DE MÉXICO, Y SE REFORMAN LAS FRACCIONES I, II Y VIII DEL ARTÍCULO 50, Y SE ADICIONAN LAS FRACCIONES IX, X, XI, XII Y XIII AL ARTÍCULO 50 DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO”.]
 
