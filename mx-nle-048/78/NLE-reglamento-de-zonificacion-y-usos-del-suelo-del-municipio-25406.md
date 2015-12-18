@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-zonificacion-y-usos-del-suelo-del-municipio-25406
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-07-01"
-last_updated: "2013-09-02"
+last_updated: "2015-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25406&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "NLE"
 
 REGLAMENTO DE ZONIFICACIÓN Y USOS DEL SUELO DEL MUNICIPIO DE SANTA CATARINA, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2013.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO DE ZONIFICACIÓN Y USOS DEL SUELO DEL MUNICIPIO DE SANTA CATARINA, NUEVO LEÓN, PUBLICADO EN EL P.O. DE 18 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 1 de julio de 2002.
 
@@ -575,7 +577,7 @@ Los destinos y usos comerciales del suelo y edificios se clasifican en:
 
 9.3 Fruterías
 
-9.4 Comida para llevar, y (sic)
+9.4 Comida para llevar, y
 
 9.5 Ropa, calzado y accesorios diversos
 
@@ -591,7 +593,7 @@ Los destinos y usos comerciales del suelo y edificios se clasifican en:
 
 9.11 Papelerías, librerías y revisteras;
 
-9.12 Telas y mercería; y (sic)
+9.12 Telas y mercería; y
 
 9.13 De regalos
 
@@ -1667,7 +1669,7 @@ h) Área mínima libre total: de acuerdo al Plan de Desarrollo Urbano de Centro 
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
 
-i) Remetimientos mínimos: cuando no colinden con lotes habitacionales: al frente, la mitad de la altura del edificio; a un lado, 1.50 metros y al otro, cero metros o en el límite; al fondo, la mitad de la altura del edificio; y (sic)
+i) Remetimientos mínimos: cuando no colinden con lotes habitacionales: al frente, la mitad de la altura del edificio; a un lado, 1.50 metros y al otro, cero metros o en el límite; al fondo, la mitad de la altura del edificio; y
 
 > <small>(REFORMADO, P.O. 4 DE FEBRERO DE 2004)</small>
 
@@ -1827,7 +1829,7 @@ VIII.- 50 metros de gasolineras;
 
 IX.- 100 metros de gaseras;
 
-X.- 100 metros de talleres de reparación de maquinaria o transporte pesado; y (sic)
+X.- 100 metros de talleres de reparación de maquinaria o transporte pesado; y
 
 XI.- 20 metros de zonas de preservación o conservación ecológica.
 
@@ -2079,7 +2081,7 @@ Las vialidades para Fraccionamientos deberán tener una longitud del 15%
 
 ###### Artículo 83 Bis 2.
 
-Vías locales en fraccionamientos ubicados en terrenos con pendientes entre el 30% hasta el 45%, a juicio de la autoridad competente, podrán tener una anchura menor y consecuentemente también sus banquetas esta anchura no deberá ser inferior a 8 metros de paramento á paramento; (sic)
+Vías locales en fraccionamientos ubicados en terrenos con pendientes entre el 30% hasta el 45%, a juicio de la autoridad competente, podrán tener una anchura menor y consecuentemente también sus banquetas esta anchura no deberá ser inferior a 8 metros de paramento á paramento;
 
 ###### Artículo 84.
 
@@ -3504,3 +3506,15 @@ Segundo: Envíese para su publicación en el Periódico Oficial del Estado.
 P.O. 2 DE SEPTIEMBRE DE 2013.
 
 EL ACUERDO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3o. DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
+
+P.O. 18 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE ZONIFICACIÓN Y USOS DEL SUELO DEL MUNICIPIO DE SANTA CATARINA, NUEVO LEÓN”.]
+
+PRIMERO.- El presente reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+SEGUNDO.- Se abroga el Reglamento de Zonificación y Usos del Suelo del Municipio de Santa Catarina Nuevo León, publicado en el Periódico Oficial del Estado en fecha 01 de julio de 2002; y todas sus reformas posteriores.
+
+TERCERO.- Continúan vigentes las licencias, permisos y autorizaciones expedidas o aprobadas con anterioridad a la vigencia del presente Reglamento.
+
+CUARTO.- Publíquese el presente Reglamento en el Periódico Oficial del Estado y en la Gaceta Municipal.
