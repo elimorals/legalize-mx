@@ -4,7 +4,7 @@ identifier: "BCN-codigo-civil-para-el-estado-de-baja-california-3324"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2015-10-23"
+last_updated: "2015-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3324&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2015.
 
 Código publicado en la Primera Sección del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -2105,9 +2105,11 @@ La obligación de dar alimentos es recíproca. El que los da tiene a su vez el d
 
 Los cónyuges deben darse alimentos. La Ley determinará cuando queda subsistente esta obligación en los casos de divorcio y otros que la misma Ley señale.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 300.
 
-Los padres están obligados a dar alimentos a sus hijos. A falta o por imposibilidad de los padres, la obligación recae en los demás ascendientes por ambas líneas que estuvieren más próximas en grado.
+Los padres están obligados a dar alimentos a sus hijos desde el momento en que son concebidos. A falta o por imposibilidad de los padres, la obligación recae en los demás ascendientes por ambas líneas que estuvieren más próximos en grado.
 
 > <small>(REFORMADO, P.O. 19 DE MAYO DE 2006)</small>
 
@@ -2143,11 +2145,11 @@ ARTICULO 303 BIS.- Los acreedores alimentarios tendrán derecho preferente sobre
 
 En la adopción, se aplicará lo dispuesto por las reglas relativas al parentesco por consanguinidad, tratándose de la obligación de dar alimentos entre las personas que concurran en los términos del artículo 290 de este ordenamiento.
 
-> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 305.
 
-Los alimentos comprenden la comida, el vestido, la habitación y los gastos correspondientes a la asistencia en caso de enfermedad. Respecto de las personas menores de dieciocho años de edad, se comprende por alimentos, además, los gastos necesarios para la educación básica y la media superior obligatoria del alimentista y, para proporcionarle algún oficio, arte o profesión honestos y adecuados a su sexo, capacidades, potencialidades y circunstancias personales. También comprende, la atención a las necesidades resultantes de algún tipo de trastorno del desarrollo, discapacidad y de sano esparcimiento.
+Los alimentos comprenden la comida, el vestido, la habitación y los gastos correspondientes a la asistencia en caso de enfermedad. Los alimentos para el concebido no nacido comprenden también los gastos de atención médica tanto para él como para la mujer embarazada, incluyendo los del parto. Respecto de las personas menores de dieciocho años de edad, se comprenden por alimentos, además, los gastos necesarios para la educación básica y la media superior obligatoria del alimentista y, para proporcionarle algún oficio, arte o profesión honestos y adecuados a su sexo, capacidades, potencialidades y circunstancias personales. También comprende, la atención a las necesidades resultantes de algún tipo de trastorno del desarrollo, discapacidad y de sano esparcimiento.
 
 ###### ARTICULO 306.
 
@@ -2327,9 +2329,11 @@ El desconocimiento de un hijo, de parte del marido o de sus herederos, se hará 
 
 En el juicio de contradicción de la paternidad serán oídos la madre y el hijo, a quien, si fuere persona menor de dieciocho años de edad, se proveerá de un tutor interino.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 334.
 
-Para los efectos legales, sólo se reputa nacido el feto que, desprendido enteramente del seno materno, vive veinticuatro horas o es presentado vivo al Registro Civil. Faltando algunas de estas circunstancias, nunca ni nadie podrá entablar demanda sobre la paternidad.
+Para los efectos legales, sólo se reputa nacido el feto que desprendido enteramente del seno materno, vive veinticuatro horas o es presentado vivo al Registro Civil.
 
 ###### ARTICULO 335.
 
@@ -16392,3 +16396,9 @@ NOVENO.- A los Notarios que se les haya expedido la patente respectiva con anter
 P.O. 23 DE OCTUBRE DE 2015.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 18 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 412 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 300, 305 Y 334 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA; ASÍ COMO LA REFORMA A LOS ARTÍCULOS 926 Y LA ADICIÓN DEL ARTÍCULO 926 BIS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
