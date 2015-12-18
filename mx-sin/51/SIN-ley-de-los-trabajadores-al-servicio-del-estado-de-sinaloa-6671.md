@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-los-trabajadores-al-servicio-del-estado-de-sinaloa-6671"
 country: "mx"
 rank: "ley"
 publication_date: "1986-04-04"
-last_updated: "2009-03-30"
+last_updated: "2015-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6671&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE SINALOA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE MARZO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 4 de abril de 1986.
 
@@ -763,7 +763,9 @@ En caso de muerte del trabajador, la entidad pública pagará a los beneficiario
 
 Las mujeres disfrutarán de un descanso de un mes anterior a la fecha que aproximadamente se fije para el parto, y de otros dos meses después del mismo, con goce de salario íntegro, computándose en su antigüedad ambos períodos, sin que lo anterior afecte su derecho al disfrute de vacaciones.
 
-Durante el período de lactancia tendrán derecho a dos reposos extraordinarios por día, de media hora cada uno que pueden ser acumulables, para alimentar a sus hijos, por un término de cuatro meses contado a partir del día en que reinicia labores.
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
+En el período de lactancia hasta por el término máximo de seis meses, tendrán dos reposos extraordinarios por día, de media hora cada uno, para alimentar a sus hijos, en lugar adecuado e higiénico que se designe para tal efecto, o bien, cuando esto no sea posible, previo acuerdo se reducirá en una hora su jornada de trabajo durante el período señalado.
 
 ###### ARTICULO 87.
 
@@ -1950,3 +1952,11 @@ Artículo Trigésimo Cuarto.- El Instituto, cuidando su liquidez, podrá dispone
 Artículo Trigésimo Quinto.- El Instituto llevará un control contable de los saldos y rendimientos que generen las cuentas individuales.
 
 Artículo Trigésimo Sexto.- Los trabajadores o sus beneficiarios que durante el año 2009 cumplan los requisitos para obtener su jubilación o cualquiera de las pensiones previstas en la Ley de los Trabajadores al Servicio del Estado, podrán optar por acogerse a dicha Ley para obtener esos beneficios o a los que se establecen en los artículos transitorios.
+
+P.O. 18 DE DICIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “EI Estado de Sinaloa”.
+
+SEGUNDO. Para el debido cumplimiento del presente Decreto, el Ejecutivo del Estado dentro del plazo de ciento ochenta días posteriores al inicio de su vigencia deberá realizar o expedir las disposiciones reglamentarias correspondientes.
+
+TERCERO. El Ejecutivo del Estado realizará las previsiones administrativas y presupuestales necesarias para garantizar el cumplimiento de las disposiciones contenidas en el presente Decreto.
