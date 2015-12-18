@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-sacalum-yucatan-47950"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-03"
-last_updated: "2013-12-27"
+last_updated: "2015-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47950&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE SACALUM, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el martes 3 de enero de 2006.
 
@@ -1263,7 +1263,11 @@ La tarifa de los derechos para la obtención de las licencias de funcionamiento 
 
 I.- Por apertura $15,525.00
 
-II.- Por revalidación $ 2,070.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 18 DE DICIEMBRE DE 2015)</small>
+
+II.- Por revalidación $ 2,600.00
 
 III.- Por permisos eventuales $ 1,246.00
 
@@ -2082,3 +2086,11 @@ Este decreto entrará en vigor el día primero de enero del año dos mil trece, 
 D.O. 27 DE DICIEMBRE DE 2013.
 
 Artículo Único.- Este decreto entrará en vigor el día primero de enero del año dos mil catorce, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 18 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 322/2015 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DZIDZANTÚN, MOTUL, MUNA, SACALUM, SOTUTA Y UAYMA".]
+
+###### ARTÍCULO ÚNICO.
+
+Este decreto entrará en vigor el día primero de enero del año dos mil dieciséis, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
