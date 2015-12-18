@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-del-poder-judicial-del-estado-de-baja-12599"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-10-04"
-last_updated: "2015-09-04"
+last_updated: "2015-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12599&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Número Especial del Periódico Oficial del Estado de Baja California, el miércoles 4 de octubre de 1995.
 
@@ -871,7 +871,9 @@ Los jueces de Primera Instancia Civil conocerán:
 
 I.- De los negocios jurídicos de jurisdicción voluntaria, cuyo conocimiento no corresponda a los jueces de Primera Instancia de lo Familiar.
 
-II.- De los juicios contenciosos que versen sobre la propiedad o demás derechos reales sobre inmuebles, siempre que el valor de estos exceda de 360 días de salario mínimo general vigente en el Estado.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
+II.- De los juicios contenciosos que versen sobre la propiedad o demás derechos reales sobre inmuebles, siempre que el valor de estos exceda de 1000 días de salario mínimo general vigente en el Estado.
 
 III.- De los demás negocios jurídicos de jurisdicción contenciosa común y concurrente, cuya cuantía sea igual a la cantidad indicada en la fracción anterior.
 
@@ -879,7 +881,9 @@ IV.- De los asuntos judiciales de jurisdicción común o concurrente, relativos 
 
 V.- De los interdictos.
 
-VI.- De las diligencias preliminares de consignación, cuando el valor de la cosa o la cantidad que se ofrezca exceda a 360 días del salario mínimo general, debiéndose estar a lo que dispone el Código de Procedimientos Civiles, en los casos de prestaciones periódicas, excepto en los asuntos de derecho familiar.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
+VI.- De las diligencias preliminares de consignación, cuando el valor de la cosa o la cantidad que se ofrezca exceda a 1000 días del salario mínimo general, debiéndose estar a lo que dispone el Código de Procedimientos Civiles, en los casos de prestaciones periódicas, excepto en los asuntos de derecho familiar.
 
 VII.- De los juicios sucesorios cualquiera que sea su cuantía.
 
@@ -1171,9 +1175,11 @@ Los secretarios de acuerdos y actuarios tendrán el conjunto de facultades y obl
 
 Para el despacho de los negocios jurídicos, los Juzgados de Paz, tendrán la planta de servidores públicos de la administración de justicia que determine el Consejo de la Judicatura. En caso de ser Mixtos, habrá cuando menos dos secretarios de Acuerdos, adscritos al ramo penal y otro al ramo civil.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 88.
 
-Los jueces civiles de Paz conocerán de los juicios contenciosos que versen sobre la propiedad y demás derechos reales sobre inmuebles cuyo monto no exceda a 360 días de salario mínimo general, a excepción de los interdictos; de los demás negocios de jurisdicción contenciosa, común y concurrente, cuyo monto no exceda la cantidad antes mencionada; de las diligencias preliminares de consignación, cuando el valor de la cosa o cantidad que se ofrezca no pase de la suma señalada con anterioridad, debiéndose estar a lo dispuesto en el Código de Procedimientos Civiles en los casos de prestaciones periódicas; de la diligenciación de exhortos y despachos, y de los demás asuntos que les encomiendan las leyes.
+Los jueces civiles de Paz conocerán de los juicios contenciosos que versen sobre la propiedad y demás derechos reales sobre inmuebles cuyo monto no exceda a 1000 días de salario mínimo general, a excepción de los interdictos; de los demás negocios de jurisdicción contenciosa, común y concurrente, cuyo monto no exceda la cantidad antes mencionada; de las diligencias preliminares de consignación, cuando el valor de la cosa o cantidad que se ofrezca no pase de la suma señalada con anterioridad, debiéndose estar a lo dispuesto en el Código de Procedimientos Civiles en los casos de prestaciones periódicas; de la diligenciación de exhortos y despachos, y de los demás asuntos que les encomiendan las leyes.
 
 ###### ARTICULO 89.
 
@@ -1181,9 +1187,11 @@ Los jueces penales de Paz conocerán de los delitos que tengan como sanción, ap
 
 ###### ARTICULO 90.
 
-Los jueces Paz de Jurisdicción mixta conocerán:
+Los jueces (sic) Paz de Jurisdicción mixta conocerán:
 
-I.- En los asuntos civiles, de los juicios contenciosos que versen sobre la propiedad y demás derechos reales sobre inmuebles, cuyo monto no exceda al equivalente de 360 días de salario mínimo general, a excepción de los interdictos; de los demás negocios de jurisdicción contenciosa, común o concurrente, cuyo monto no exceda de la cantidad antes mencionada; de las diligencias preliminares de consignación, cuando el valor de las cosas o la cantidad que se ofrezca no pase de la suma señalada con anterioridad, debiéndose estar a lo dispuesto en el Código de Procedimientos Civiles en los casos de prestaciones periódicas; de la diligenciación de exhortos y despachos y de los demás asuntos que les encomienden las leyes.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
+I.- En los asuntos civiles, de los juicios contenciosos que versen sobre la propiedad y demás derechos reales sobre inmuebles, cuyo monto no exceda al equivalente de 1000 días de salario mínimo general, a excepción de los interdictos; de los demás negocios de jurisdicción contenciosa, común o concurrente, cuyo monto no exceda de la cantidad antes mencionada; de las diligencias preliminares de consignación, cuando el valor de las cosas o la cantidad que se ofrezca no pase de la suma señalada con anterioridad, debiéndose estar a lo dispuesto en el Código de Procedimientos Civiles en los casos de prestaciones periódicas; de la diligenciación de exhortos y despachos y de los demás asuntos que les encomienden las leyes.
 
 II.- En el ramo Penal, de los delitos que tengan como sanción, apercibimiento, caución de no ofender, multa cuyo máximo sea de cuarenta días de salario mínimo, prisión cuyo máximo sea de un año o ambas, de la diligenciación de exhortos y despachos y de los demás asuntos que les encomienden las leyes.
 
@@ -3518,3 +3526,13 @@ P.O. 4 DE SEPTIEMBRE DE 2015.
 PRIMERO: El presente decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Baja California.
 
 SEGUNDO: Se derogan todas las disposiciones que contravengan el presente Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 410 MEDIANTE EL CUAL SE APRUEBA LAS REFORMAS A LOS ARTÍCULOS 73 FRACCIONES II Y VI, 88 Y 90 FRACCIÓN I DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Las adecuaciones a las disposiciones reglamentarias correspondientes, deberán emitirse a más tardar dentro de los 150 días siguientes a partir de la publicación de las presentes reformas.
+
+TERCERO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto y continúan vigentes los actos, resoluciones, acuerdos y demás disposiciones de carácter general emitidas con fundamento en la Ley que se reforma.
