@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5686
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-30"
-last_updated: "2014-05-21"
+last_updated: "2015-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56864&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "SIN"
 
 LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Edición Vespertina al Periódico Oficial del Estado de Sinaloa, el lunes 30 de julio de 2007.
 
@@ -145,7 +145,7 @@ XVII. Empoderamiento de las Mujeres: Es el proceso por medio del cual las mujere
 
 XVIII. Misoginia: Son conductas de odio hacia la mujer y se manifiesta en actos violentos y crueles contra ella por el hecho de ser mujer;
 
-XIX. Alerta de violencia de género: Es el conjunto de acciones gubernamentales de emergencia derivadas de la declaratoria emitida por la autoridad competente para enfrentar y erradicar la violencia feminicida en un territorio determinado, ya sea ejercida por individuos o por la propia comunidad; y (sic),
+XIX. Alerta de violencia de género: Es el conjunto de acciones gubernamentales de emergencia derivadas de la declaratoria emitida por la autoridad competente para enfrentar y erradicar la violencia feminicida en un territorio determinado, ya sea ejercida por individuos o por la propia comunidad; y,
 
 XX. Refugios: Son los albergues, centros o establecimientos constituidos por organismos o asociaciones civiles o del Estado para la atención y protección de mujeres que han sido víctimas de violencia.
 
@@ -225,9 +225,11 @@ La violencia laboral y docente se ejerce por las personas que tienen un vínculo
 
 Puede consistir en un solo evento dañino o en una serie de eventos cuya suma produce el daño. También incluye el acoso o el hostigamiento sexual, en los términos definidos en el Código Penal para el Estado de Sinaloa.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 16.
 
-Constituye violencia laboral la negativa ilegal a contratar a la víctima o a respetar su permanencia o condiciones generales de trabajo, la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación y todo tipo de discriminación por condición de género. Incluye, para efectos de esta ley, la exigencia o condicionante de certificados de no gravidez, así como para la obtención de un trabajo o el despido por motivo de embarazo, ademas del acoso y el hostigamiento sexual.
+Constituye violencia laboral la negativa ilegal a contratar a la víctima o a respetar su permanencia o condiciones generales de trabajo, la descalificación del trabajo realizado, las amenazas, la intimidación, las humillaciones, la explotación y todo tipo de discriminación por condición de género. Incluye, para efectos de esta ley, la exigencia o condicionante de certificados de no gravidez, así como para la obtención de un trabajo o el despido por motivo de embarazo, el impedimento de llevar a cabo el periodo de lactancia conforme a la ley, además del acoso y el hostigamiento sexual.
 
 ###### Artículo 17.
 
@@ -537,7 +539,7 @@ Las demás previstas en esta Ley y en otras disposiciones aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE MAYO DE 2014)</small>
 
-###### Artículo 37.
+###### ARTÍCULO 37.
 
 Corresponde a la Subprocuraduría de Derechos Humanos y Atención a Víctimas, en materia de violencia en contra de las mujeres:
 
@@ -1123,7 +1125,7 @@ P.O. 26 DE JUNIO DE 2013.
 
 P.O. 21 DE MAYO DE 2014.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 335 DEL H. CONGRESO DEL ESTADO.- LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS U OFENDIDOS DEL DELITO PARA EL ESTADO DE SINALOA”.]
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 335 DEL H. CONGRESO DEL ESTADO.- LEY DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS U OFENDIDOS DEL DELITO PARA EL ESTADO DE SINALOA”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1136,3 +1138,13 @@ La vigente Ley de Protección a Víctimas de Delitos para el Estado de Sinaloa c
 ###### ARTÍCULO TERCERO.
 
 Se derogan las disposiciones que se opongan a este Decreto.
+
+P.O. 18 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 442 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE SALUD, LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA, Y LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, TODAS DEL ESTADO DE SINALOA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EI Estado de Sinaloa".
+
+SEGUNDO. Para el debido cumplimiento del presente Decreto, el Ejecutivo del Estado dentro del plazo de ciento ochenta días posteriores al inicio de su vigencia deberá realizar o expedir las disposiciones reglamentarias correspondientes.
+
+TERCERO. El Ejecutivo del Estado realizará las previsiones administrativas y presupuestales necesarias para garantizar el cumplimiento de las disposiciones contenidas en el presente Decreto.
