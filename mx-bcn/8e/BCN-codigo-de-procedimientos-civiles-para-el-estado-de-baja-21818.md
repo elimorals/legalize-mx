@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-civiles-para-el-estado-de-baja-21818"
 country: "mx"
 rank: "codigo"
 publication_date: "1974-01-31"
-last_updated: "2015-12-11"
+last_updated: "2015-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21818&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2015.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Baja California, el 31 de enero de 1974.
 
@@ -4217,7 +4217,7 @@ ART. 593.- Traducida la ejecutoria en la forma prevista en el artículo 325, se 
 
 La apelación se substanciará sumariamente.
 
-> <small>(REFORMADO, P.O. 26 DE MAYO DE 1995)</small>
+REFORMADO, P.O. 26 DE MAYO DE 1995)
 
 ART. 594.- Ni el Juez inferior ni el tribunal superior podrán examinar ni decidir sobre la justicia o injusticia del fallo, ni sobre los fundamentos de hecho o de derecho en que se apoye, limitándose tan solo a examinar su autenticidad, y si deba o no ejecutarse conforme a las leyes del Estado.
 
@@ -6299,19 +6299,23 @@ TITULO DECIMOSEXTO
 
 ART. 925.- Todos los problemas inherentes a la familia se consideran de orden público, por constituir la base de la integración de la sociedad.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2015)</small>
 
-ART. 926.- El juez de lo familiar estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de personas menores de dieciocho años de edad, incapaces y de alimentos, decretando las medidas provisionales que tiendan a preservarla y protegerla, anteponiendo siempre el interés superior del menor, debiendo razonar y sustentar la medida decretada.
+ART. 926.- El Juez de lo familiar estará facultado para intervenir de oficio en los asuntos que afecten a la familia, especialmente tratándose de personas menores de dieciocho años de edad, incapaces y de alimentos, decretando las medidas provisionales que tiendan a preservarla y protegerla, anteponiendo siempre el interés superior del menor, incluyendo al concebido no nacido, debiendo razonar y sustentar la medida decretada.
 
-Cuando quien promueva solicite como medida la guarda y custodia de personas menores de dieciocho años o incapaces deberá de manifestar en donde se encuentran estos y al cuidado de que persona; si manifiesta que están bajo su resguardo y antes de decretar la medida el Juez le requerirá que los presente de inmediato ante él para tomar conocimiento directo de este y tomarle su opinión si esta en aptitud de vertirla y quiera hacerlo. Hecho lo anterior resolverá sin dilación el lugar y la persona con quien deba permanecer el menor o incapaz conforme a los elementos que tenga a su alcance, sin detrimento de modificar la medida durante el proceso si así lo considerara necesario y con las formalidades de Ley.
+Cuando quien promueva solicite como medida la guarda y custodia de personas menores de dieciocho años o incapaces deberá de manifestar en donde se encuentran estos y al cuidado de que persona; si manifiesta que están bajo su resguardo y antes de decretar la medida el Juez le requerirá que los presente de inmediato ante él para tomar conocimiento directo de este y tomarle su opinión si está en aptitud de vertirla y quiera hacerlo. Hecho lo anterior resolverá sin dilación el lugar y la persona con quien deba permanecer el menor o incapaz conforme a los elementos que tenga a su alcance, sin detrimento de modificar la medida durante el proceso si así lo considerara necesario y con las formalidades de ley.
 
-Si manifiesta que se encuentran bajo el cuidado de diversa persona o de la parte demandada, el Juez en el auto inicial requerirá la presentación inmediata de los menores o incapaces ante el Juzgado, decretando los medios de apremio más eficaces para lograr su comparecencia y en caso de resistencia a acatar su mandato o de imposibilidad para hacer el requerimiento, decidirá a la brevedad con los elementos con que cuente y los que considere allegarse de oficio.
+Si manifiesta que se encuentran bajo el cuidado de diversa persona o de la parte demandada, el Juez en el auto inicial requerirá la presentación inmediata de los menores o incapaces ante el juzgado, decretando los medios de apremio más eficaces para lograr su comparecencia y en caso de resistencia a acatar su mandato o de imposibilidad para hacer el requerimiento, decidirá a la brevedad con los elementos con que cuente y los que considere allegarse de oficio.
 
 La opinión del menor o incapaz respecto a su guarda y custodia no será vinculante de la decisión del Juez, en los casos cuando se trate de menores de dieciocho años pero mayor de catorce, su declaración será valorada de manera preponderante para la emisión de la resolución respectiva.
 
 Bajo ninguna circunstancia el Juzgador podrá aplazar, dilatar o abstenerse de decidir la situación de los menores o incapaces en breve plazo conforme a su interés superior.
 
-La comparecencia del menor será desahogada personalmente por el juez con asistencia de representación social.
+La comparecencia del menor será desahogada personalmente por el Juez con asistencia de representación social.
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
+ART. 926 BIS.- En el caso del concebido fuera de matrimonio o de concubinato, la mujer embarazada tiene el derecho de exigir ante el Juez de lo Familiar el pago o el aseguramiento de alimentos, quien deberá acreditar su estado con el certificado médico de embarazo emitido por institución de salud pública y siempre que se encuentre acreditada la filiación en relación con el padre en los términos previstos por el artículo 357 del Código Civil para el Estado de Baja California.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -7092,3 +7096,9 @@ P.O. 11 DE DICIEMBRE DE 2015.
 DECRETO No. 405 POR EL QUE SE APRUEBA LA ADICIÓN DEL ARTÍCULO 411 BIS AL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA.
 
 ÚNICO: El presente decreto entrará en vigor el día siguiente al de su publicación el Periódico Oficial del Estado.
+
+P.O. 18 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 412 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 300, 305 Y 334 DEL CÓDIGO CIVIL PARA EL ESTADO DE BAJA CALIFORNIA; ASÍ COMO LA REFORMA A LOS ARTÍCULOS 926 Y LA ADICIÓN DEL ARTÍCULO 926 BIS DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
