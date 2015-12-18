@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-muna-yucatan-47960"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-03"
-last_updated: "2014-12-24"
+last_updated: "2015-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47960&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE MUNA, YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el martes 3 de enero de 2006.
 
@@ -563,41 +563,57 @@ El impuesto predial se determinará aplicando al valor catastral la siguiente ta
 
 Por predios urbanos y rústicos con o sin construcción.
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2006)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-Límite Límite Cuota fija anual Factor para aplicar
+> <small>(REFORMADA, D.O. 18 DE DICIEMBRE DE 2015)</small>
 
-Inferior Superior al Excedente del
+TABLA DE VALORES CATASTRALES DE TERRENO Y CONSTRUCCION
 
-límite inferior
+LIMITE LIMITE CUOTA FIJA ANUAL FACTOR A APLICAR
 
-.0001 10,000.00 50 % de un
+INFERIOR SUPERIOR AL EXCEDENTE DEL
 
-salario mínimo 0.0025
+LIMITE INFERIOR
 
-10,000.01 20,000.00 100 % de un
+.0001 10,000.00 50 VECES EL 0.0025
 
-salario mínimo 0.0025
+SALARIO MINIMO
 
-20,000.01 30,000.00 150 % de un
+10,000.01 20,000.00 100 VECES EL 0.0025
 
-salario mínimo 0.001
+SALARIO MINIMO
 
-30,000.01 40,000.00 200 % de un
+20,000.01 30,000.00 150 VECES EL 0.001
 
-salario mínimo 0.001
+SALARIO MINIMO
 
-40,000.01 50,000.00 250 % de un
+30,000.01 40,000.00 200 VECES EL 0.001
 
-salario mínimo 0.0013
+SALARIO MINIMO
 
-50,000.01 60,000.00 300 % de un
+40,000.01 50,000.00 250 VECES EL 0.0013
 
-salario mínimo 0.0013
+SALARIO MINIMO
 
-70,000.01 En adelante 350 % de un
+50,000.01 60,000.00 300 VECES EL 0.0013
 
-salario mínimo 0.0013
+SALARIO MINIMO
+
+70,000.01 200,000.00 350 VECES EL 0.0013
+
+SALARIO MINIMO
+
+200,000.01 500,000.00 5 VECES EL 0.0013
+
+SALARIO MINIMO
+
+500,000.01 1,000,000.00 10 VECES EL 0.0013
+
+SALARIO MINIMO
+
+1,000,000.01 EN 20 VECES EL 0.0013
+
+ADELANTE SALARIO MINIMO
 
 A la cantidad que exceda del límite inferior le será aplicado el factor determinado en esta tarifa y el resultado se incrementará con la cuota fija anual respectiva.
 
@@ -725,17 +741,25 @@ Los fedatarios públicos ante quienes se otorgare, firmare o rectificare el cont
 
 DE LA TARIFA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O. 18 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 53.
 
-Cuando la base del impuesto predial, sean las rentas, frutos civiles o cualquier otra contraprestación generada por el uso, goce o por permitir la ocupación de un inmueble por cualquier título, el impuesto se pagará mensualmente conforme a la siguiente tarifa:
+Cuando la base del impuesto predial, sean las rentas, frutos civiles o cualquier otra contraprestación generada por el uso, goce o por permitir la ocupación de un inmueble por cualquier título, el impuesto se pagara mensualmente conforme a la siguiente tarifa:
 
 DESTINO FACTOR
 
-HABITACIONAL 0.03 % mensual sobre el monto de la contraprestación.
+HABITACIONAL 5 % MENSUAL SOBRE EL MONTO DE
 
-OTROS 0.05 % mensual sobre el monto de la contraprestación.
+LA CONTRAPRESTACION
 
-El factor del valor catastral del inmueble es en los términos de lo dispuesto en el Artículo 51 de este ordenamiento legal.
+OTROS 5 % MENSUAL SOBRE EL MONTO DE
+
+LA CONTRAPRESTACION.
+
+El factor del valor catastral del inmueble es en los términos de lo dispuesto en el artículo 51 de este ordenamiento legal.
 
 DEL PAGO
 
@@ -1007,9 +1031,11 @@ La tasa del impuesto sobre diversiones y espectáculos públicos, será de 0.05,
 
 I.- Cuando el espectáculo público consista en la puesta en escena de obras teatrales la tasa será de cero.
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2010)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-II.- En espectáculos de circo, la tarifa será de 4%.
+> <small>(REFORMADA, D.O. 18 DE DICIEMBRE DE 2015)</small>
+
+II.- En espectáculo de circo, la tarifa será del 5%.
 
 III.- (DEROGADA, D.O. 28 DE DICIEMBRE DE 2010)
 
@@ -1339,21 +1365,29 @@ TARIFA
 
 La tarifa de los derechos para la obtención de la Licencias (sic) de Funcionamiento de los establecimientos que se señalan en el Artículo 88 de esta Ley, serán los siguientes:
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-I.- Por apertura de expendios $ 15,000.00
+> <small>(REFORMADA, D.O. 18 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2011)</small>
+I.- Por apertura de expendios $ 20,000.00
 
-II.- Por apertura de mini súper y/o restaurante $ 12,000.00
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA, D.O. 18 DE DICIEMBRE DE 2015)</small>
 
-III.- Por permisos eventuales $ 500.00
+II.- Por apertura de minisúper y/o restaurante $ 20,000.00
 
-> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-IV.-Por revalidación $ 1,000.00
+> <small>(REFORMADA, D.O. 18 DE DICIEMBRE DE 2015)</small>
+
+III.- por permisos eventuales $ 500.00
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, D.O. 18 DE DICIEMBRE DE 2015)</small>
+
+IV.- Por revalidación $ 1,200.00
 
 > <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2011)</small>
 
@@ -1627,11 +1661,11 @@ XLI.- Mudanzas 200.00 200.00
 
 XLII.- Oficinas de servicio de sistemas de televisión 600.00 300.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADA EN SU TARIFA, D.O. 27 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, D.O. 18 DE DICIEMBRE DE 2015)</small>
 
-XLIII.- Fábrica de hielo 200.00 200.00
+XLIII.- Fabricas de hielo 2,000.00 500.00
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1656,6 +1690,14 @@ XLVI.- Compra/venta de frutas y legumbres 200.00 200.00
 > <small>(REFORMADA EN SU TARIFA, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
 XLVII.- Otros no especificados 200.00 200.00
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, D.O. 18 DE DICIEMBRE DE 2015)</small>
+
+XLVIII.- Planta de agua 2,000.00 500.00
+
+purificadora
 
 > <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
 
@@ -1763,9 +1805,11 @@ II.- Por toma comercial $ 50.00
 
 III.- Por toma industria (sic) $ 100.00
 
-> <small>(ADICIONADA, D.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-IV.- Por toma para planta purificadora $ 200.00
+> <small>(REFORMADA, D.O. 18 DE DICIEMBRE DE 2015)</small>
+
+IV.- Por toma para planta purificadora $ 500.00
 
 PAGO
 
@@ -1775,11 +1819,13 @@ PAGO
 
 El pago de este derecho deberá efectuarse mensualmente en la caja de la Tesorería Municipal o en el domicilio de los contribuyentes a través de una persona que el Ayuntamiento designe para tal efecto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 18 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 103.
 
-El pago por contratación y conexión de tomas nuevas será de $ 550.00 cuando incluya materiales y de $ 250.00 sin materiales.
+El pago por contratación y conexión de tomas nuevas será de $ 600.00 cuando incluya materiales y de $ 300.00 sin materiales.
 
 Solamente quedarán exentos del pago de este derecho los bienes de dominio público de la Federación, Estado y municipios.
 
@@ -1813,17 +1859,17 @@ I.- Locatarios de frutas y verduras $20.00 semanal.
 
 II.- Mesetas de frutas y verduras $ 15.00 semanal.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, D.O. 18 DE DICIEMBRE DE 2015)</small>
+
 III.- Locatarios que venden carnes
 
-a) De Vacuno $ 5.00 diario.
+a) De Vacuno $ 15.00
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2011)</small>
+b) De porcino $ 10.00
 
-b) De porcino $ 3.00 diario.
-
-> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2011)</small>
-
-c) De pollo $ 2.00 diario
+c) De pollo $ 5.00
 
 > <small>(ADICIONADA, D.O. 28 DE DICIEMBRE DE 2010)</small>
 
@@ -1871,13 +1917,17 @@ I.- Inhumaciones en fosas y criptas
 
 a) Por temporalidad de 3 años $ 1,300.00
 
-> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2011)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-b) Adquirida a perpetuidad $ 4,000.00
+> <small>(REFORMADO, D.O. 18 DE DICIEMBRE DE 2015)</small>
 
-> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2010)</small>
+b) Adquisición a perpetuidad $ 5,000.00
 
-c) Derecho de inhumación general $100.00
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O. 18 DE DICIEMBRE DE 2015)</small>
+
+c) Derecho de inhumación general $200.00
 
 > <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2011)</small>
 
@@ -1975,21 +2025,17 @@ El objeto de estos derechos está constituido por los servicios que presta el Ca
 
 La cuota que se pagará por los servicios que presta el Catastro Municipal se calcularán multiplicando la tasa que se especifica en cada uno de ellos, por el salario mínimo diario vigente en el Municipio, a la fecha de solicitud:
 
-I.- Por la emisión de copias fotostáticas simples:
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-a).- Por cada hoja simple tamaño carta de cédulas, planos, parcelas, formas de manifestación de traslación de dominio o cualquier otra manifestación 0.10
+> <small>(REFORMADA, D.O. 18 DE DICIEMBRE DE 2015)</small>
 
-b).- Por cada copia simple tamaño oficio 0.15
+I.- Por la emisión de copias fotostáticas simples $ 30.00
 
-II.- Por la expedición de copias fotostáticas certificadas de:
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-a).- Cédulas, planos, parcelas, manifestaciones (tamaño carta) cada una 0.05
+> <small>(REFORMADA, D.O. 18 DE DICIEMBRE DE 2015)</small>
 
-b).- Planos tamaño oficio, cada una 0.10
-
-c).- Planos tamaño hasta 4 oficios, cada una 0.25
-
-d).- Planos mayores de 4 veces tamaño oficio, cada una 0.50
+II.- por la emisión de copias fotostáticas certificadas $ 60.00
 
 III.- Por la expedición de oficios de:
 
@@ -2017,31 +2063,39 @@ b).- Tamaño oficio 0.75
 
 VII.- Por diligencias de verificación de medidas físicas y de colindancia de predios 1.0
 
-VIII.- Cuando la diligencia incluya trabajos de topografía, adicionalmente a la tasa de la fracción anterior, se causarán por metro cuadrado los siguientes derechos de acuerdo a la superficie:
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-De 1 a 10,000 metros 0.5
+> <small>(REFORMADA, D.O. 18 DE DICIEMBRE DE 2015)</small>
 
-De 10,001 a 100,000 1.0
+VIII.- Cuando la diligencia incluya trabajos de topografía, adicionalmente a la tasa de la fracción anterior se causara por metro cuadrado los siguientes derechos de acuerdo a la superficie:
 
-De 100,001 a 200,000 1.5
+De 1 a 10.000 metros 10 salarios mínimos vigentes
 
-De 200,001 a 300,000 1.75
+De 10.001 a 100.000 20 salarios mínimos vigentes
 
-De 300,001 a 400,000 2.0
+De 100.001 a 200.000 25 salarios mínimos vigentes
 
-De 400,001 en adelante 1.80 por hectárea.
+De 200.001 a 300.000 30 salarios mínimos vigentes
+
+De 300.001 a 400.000 35 salarios mínimos vigentes
+
+De 400.001 en adelante 40 salarios mínimos vigentes
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO ÚNICO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O. 18 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 120.
 
-Por la actualización de predios urbanos se causarán y pagarán los siguientes derechos:
+Por la actualización de predios urbanos se causaran y pagaran los siguientes derechos:
 
-De un valor de $ 1,001 a $ 4,000 0.00
+De un valor de 1.001 a $ 4,000 0
 
-De un valor de $ 4,001 a $ 10,000 0.50
+De un valor de 4,001 a $ 10,000 100
 
-De un valor de $ 10,001 a $ 75,000 0.75
+De un valor de $ 10,001 a $ 75,000 150
 
-De un valor de $ 75,001 en adelante 1.00
+De un valor de $ 75,001 en adelante 200
 
 ###### Artículo 121.
 
@@ -2700,3 +2754,11 @@ D.O. 24 DE DICIEMBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 Este decreto entrará en vigor el día primero de enero del año dos mil quince, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 18 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 322/2015 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DZIDZANTÚN, MOTUL, MUNA, SACALUM, SOTUTA Y UAYMA”.]
+
+###### ARTÍCULO ÚNICO.
+
+Este decreto entrará en vigor el día primero de enero del año dos mil dieciséis, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
