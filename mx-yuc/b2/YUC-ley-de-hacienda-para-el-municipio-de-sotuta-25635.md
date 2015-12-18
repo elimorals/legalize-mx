@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-sotuta-25635"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2008-12-27"
+last_updated: "2015-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25635&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA PARA EL MUNICIPIO DE SOTUTA
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el sábado 30 de diciembre de 2000.
 
@@ -533,137 +533,17 @@ Lo dispuesto en el párrafo anterior no se aplicará a los contribuyentes que a 
 
 DE LA TARIFA
 
-> <small>(REFORMADO, D.O. 3 DE ENERO DE 2006)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O. 18 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 47.
 
-El impuesto predial se causará de acuerdo con las siguientes tablas de valores unitarios de terreno y construcción:
+El impuesto predial se causará de acuerdo con las siguientes tablas de valores unitarios de terreno y construcción
 
-TABLA DE VALORES UNITARIOS DE TERRENO
+> <small>[N. DE E. VÉASE TABLAS EN EL SUPLEMENTO DEL D.O. DE 18 DE DICIEMBRE DE 2015, PAGINAS DE LA 67 A LA 68.]</small>
 
-COLONIA O CALLE TRAMO ENTRE PRECIO
-
-CALLE CALLE POR M2
-
-#### SECCIÓN 1. DE LA CALLE 17 A LA
-
-CALLE 21 16 20 $ 17.00
-
-DE LA CALLE 16 A LA
-
-CALLE 20 17 21 $ 17.00
-
-DE LA CALLE 14 A LA
-
-CALLE 20 13 17 $ 11.00
-
-DE LA CALLE 13 A LA
-
-CALLE 15 14 20 $ 11.00
-
-DE LA CALLE 17 A LA
-
-CALLE 21 12 16 $ 11.00
-
-DE LA CALLE 12 A LA
-
-CALLE 14 17 21 $11.00
-
-RESTO DE LA SECCIÓN $ 8.00
-
-#### SECCIÓN 2. DE LA CALLE 21 A LA
-
-CALLE 27 16 20 $ 17.00
-
-DE LA CALLE 16 A LA
-
-CALLE 20 21 27 $ 17.00
-
-DE LA CALLE 14 A LA
-
-CALLE 20 27 29 $ 11.00
-
-CALLE 29 14 20 $ 11.00
-
-DE LA CALLE 21 A LA
-
-CALLE 29 14 16 $ 11.00
-
-CALLE 14 21 27 $ 11.00
-
-RESTO DE LA SECCIÓN $ 8.00
-
-#### SECCIÓN 3. DE LA CALLE 21 A LA
-
-CALLE 27 20 24 $ 17.00
-
-DE LA CALLE 20 A LA
-
-CALLE 24 21 27 $ 17.00
-
-DE LA CALLE 20 A LA
-
-CALLE 30 27 29 $ 11.00
-
-CALLE 29 20 24 $ 11.00
-
-DE LA CALLE 21 A LA
-
-CALLE 27 24 30 $ 11.00
-
-DE LA CALLE 26 A LA
-
-32 21 27 $ 11.00
-
-RESTO DE LA SECCIÓN $ 8.00
-
-#### SECCIÓN 4. DE LA CALLE 17 A LA
-
-CALLE 21 20 24 $ 17.00
-
-DE LA CALLE 20 A LA
-
-CALLE 24 17 21 $ 17.00
-
-DE LA CALLE 13 A LA
-
-CALLE 15 20 24 $ 11.00
-
-DE LA CALLE 13 A LA
-
-CALLE 21 24 32 $ 11.00
-
-RESTO DE LA SECCIÓN $ 8.00
-
-TODAS LAS COMISARÍAS $ 8.00
-
-RÚSTICOS IMPORTE POR HECTÁREA
-
-BRECHA $ 218.00
-
-CAMINO BLANCO $ 437.00
-
-CARRETERA $ 655.00
-
-TABLA DE VALORES UNITARIOS DE CONSTRUCCIÓN
-
-TIPO DE AREA PERIFERIA
-
-CONSTRUCCIÓN CENTRO MEDIA
-
-CONCRETO $ 1,310.00 $ 874.00 $ 655.00
-
-HIERRO Y
-
-ROLLIZOS $ 546.00 $ 437.00 $ 383.00
-
-ZINC, ASBESTOS
-
-O TEJA $ 328.00 $ 262.00 $ 197.00
-
-CARTÓN Y PAJA $ 164.00 $ 109.00 $ 66.00
-
-El Impuesto Predial sobre la base valor catastral, se calculará aplicando al valor consignado en la cédula la tasa de 0.05% y el resultado será el impuesto a pagar.
+El Impuesto Predial sobre la base valor catastral, se calculará aplicando el valor consignado en la cédula la tasa 0.05% y el resultado será el impuesto a pagar.
 
 DEL PAGO
 
@@ -2017,7 +1897,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 ABOG. R. CLEOMINIO ZOREDA NOVELO.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY:</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O. 31 DE DICIEMBRE DE 2004.
 
@@ -2034,3 +1914,11 @@ D.O. 27 DE DICIEMBRE DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 Este Decreto entrará en vigor al día siguiente a su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 18 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 322/2015 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DZIDZANTÚN, MOTUL, MUNA, SACALUM, SOTUTA Y UAYMA”.]
+
+###### ARTÍCULO ÚNICO.
+
+Este decreto entrará en vigor el día primero de enero del año dos mil dieciséis, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
