@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2015-05-25"
+last_updated: "2015-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO PENAL PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2015.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -2203,13 +2203,17 @@ V.- Recayendo en expedientes o documentos, con la afectación de alguna función
 
 VI.- Quebrantando la confianza o seguridad derivada de una relación de servicio, trabajo u hospitalidad;
 
-> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
 
-VII.- Recayendo sobre equipaje o valores de viajeros en cualquier lugar durante el viaje; o
+VII.- Recayendo sobre equipaje o valores de viajeros en cualquier lugar durante el viaje;
 
-> <small>(ADICIONADA, P.O. 27 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
 
-VIII.- Recayendo sobre vales o cualquier dispositivo electrónico en forma de tarjeta plástica, emitidos por personas morales, destinados al canje de bienes y servicios.
+VIII.- Recayendo sobre vales o cualquier dispositivo electrónico en forma de tarjeta plástica, emitidos por personas morales, destinados al canje de bienes y servicios; o
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
+IX.- Recayendo sobre bienes muebles de cualquier institución educativa pública, o privada con autorización o reconocimiento de validez oficial de estudios.
 
 ###### ARTICULO 205.
 
@@ -4292,3 +4296,7 @@ P.O. 15 DE DICIEMBRE DE 2014.
 P.O. 25 DE MAYO DE 2015.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 18 DE DICIEMBRE DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
