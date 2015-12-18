@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-instituciones-y-procedimientos-electorales-del-109151"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-15"
-last_updated: "2015-07-17"
+last_updated: "2015-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "SIN"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 17 DE JULIO DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el miércoles 15 de julio de 2015.
 
@@ -3307,9 +3305,9 @@ a) Se tomará nota de los resultados que consten en cada una de las actas de có
 
 b) La suma de los resultados constituirá el cómputo estatal de la elección de la Gubernatura y se asentará en el acta correspondiente.
 
-(NOTA: EL 15 DE OCTUBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 64/2015 Y SUS ACUMULADAS 65/2015, 66/2015, 68/2015 Y 70/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO CUARTO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 16 DE OCTUBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2015)</small>
 
-EN LO QUE SE REFIERE A LOS CÓMPUTOS ESTATALES DE LAS ELECCIONES DE DIPUTADOS POR EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL Y DE LA GUBERNATURA, SOLO PROCEDERÁ EL RECUENTO DE VOTOS EN SEDE JURISDICCIONAL.
+En lo que se refiere a los cómputos estatales de las elecciones de Diputados por el principio de representación proporcional y de Gobernador, procederá el recuento de votos en sedes administrativa y jurisdiccional, en términos de lo dispuesto en los artículos 255 y 256 de esta ley, conforme resulten aplicables.
 
 ###### Artículo 263.
 
@@ -4192,3 +4190,11 @@ Lic. Mario López Valdez.
 El Secretario General de Gobierno
 
 C. Gerardo O. Vargas Landeros.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 18 DE DICIEMBRE DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
