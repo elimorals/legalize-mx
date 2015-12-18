@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "2015-06-26"
+last_updated: "2015-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -333,7 +333,9 @@ XVI.- Participar y coordinar, en su caso, actividades relacionadas con la benefi
 
 XVII.- (DEROGADA, P.O. 3 DE ENERO DE 2003)
 
-XVIII.- Dirigir y orientar la prevención de la delincuencia y de toda conducta que afecte negativamente la seguridad y el bienestar social, proponiendo a las autoridades competentes las medidas que juzgue necesarias;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
+XVIII.- Elaborar estudios sobre los municipios del Estado, en materia de federalismo, descentralización y desarrollo municipal, que tiendan a su fortalecimiento;
 
 (REFORMADA, P.O. 31 DE DICIEMBRE DE 1997) (F. DE E., P.O. 30 DE ENERO DE 1998)
 
@@ -2129,7 +2131,11 @@ P.O. 26 DE JUNIO DE 2015.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 279.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE TLAXCALA”.]
+P.O. 18 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 413 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN XVIII DEL ARTÍCULO 19 DE LA LEY ORGÁNICA DEL A (SIC) ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 49.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE IGUALDAD ENTRE MUJERES Y HOMBRES PARA EL ESTADO DE TLAXCALA”.]
 
