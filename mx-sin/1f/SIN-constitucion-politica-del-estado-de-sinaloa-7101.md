@@ -4,7 +4,7 @@ identifier: "SIN-constitucion-politica-del-estado-de-sinaloa-7101"
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-06-22"
-last_updated: "2015-06-01"
+last_updated: "2015-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2015.
 
 Constitución publicada en Edición Oficial de la Imprenta del Estado de Sinaloa, el 22 de junio de 1922.
 
@@ -131,7 +131,7 @@ IV. Los habitantes en el Estado tienen el derecho a disfrutar una vida libre de 
 
 El Estado adoptará las medidas necesarias para prevenir, sancionar y erradicar la violencia contra la mujer, entendida como cualquier acción o conducta, basada en su género, que cause muerte, daño o sufrimiento físico, sexual o psicológico, tanto en el ámbito público como en el privado.
 
-V. En el Estado de Sinaloa se reconoce el pluralismo cultural y el derecho a preservar la forma de vida de sus pueblos indígenas, y elevar el bienestar social de sus integrantes. La ley protegerá y promoverá el desarrollo de sus lenguas, culturas, religión, la educación bilingüe, usos, costumbres, tradiciones, prácticas democráticas, patrimonio étnico y artesanal, medio ambiente, recursos, medicina tradicional y formas específicas de organización social, y garantizará a sus integrantes el efectivo acceso a la jurisdicción del Estado.
+V. (DEROGADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2015)
 
 Las personas de la tercera edad y las que tengan capacidades diferentes deben recibir apoyo y protección permanentes. El Estado y los municipios establecerán un sistema permanente de apoyo a las personas de la tercera edad para permitirles una vida digna y decorosa; y, promoverán la habilitación, rehabilitación e integración de las personas con capacidades diferentes con el objeto de facilitar su pleno desarrollo.
 
@@ -141,7 +141,11 @@ VI. Todo individuo tiene libertad de investigación científica y de creación, 
 
 VII. El Estado adoptará las medidas necesarias con el fin de que toda persona practique deporte y goce de la recreación, para lo cual promoverá la cultura física y creará oportunidades que permitan presenciar, organizar y participar en dichas actividades. Asimismo, habilitará y conservará espacios e instalaciones adecuados para tal efecto.
 
-VIII. El Estado adoptará las medidas especiales de carácter temporal encaminadas a acelerar la igualdad entre el hombre y la mujer, siempre y cuando no entrañen el mantenimiento indefinido de normas desiguales o separadas. Dichas medidas cesarán cuando se hayan alcanzado los objetivos de igualdad en la oportunidad y en el trato.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
+VIII. El Estado adoptará las medidas especiales de carácter temporal encaminadas a acelerar la igualdad entre mujeres y hombres, siempre y cuando no entrañen el mantenimiento indefinido de normas desiguales o separadas. Entre otras, aplicará la perspectiva de género en el diseño, ejecución, seguimiento y evaluación de las políticas públicas que se implementen.
+
+Dichas medidas cesarán cuando se hayan alcanzado los objetivos de igualdad en la oportunidad y en el trato entre mujeres y hombres.
 
 > <small>(ADICIONADO, P.O. 26 DE MAYO DE 2008)</small>
 
@@ -277,7 +281,65 @@ Los ascendientes, tutores y custodios tienen el deber de garantizar los derechos
 
 Los gobiernos estatal y municipales establecerán un sistema permanente de apoyo a las personas de la tercera edad para permitirles una vida digna y decorosa; y, promoverán la habilitación, rehabilitación e integración de los discapacitados con el objeto de facilitar su pleno desarrollo.
 
-El Estado de Sinaloa, tiene una composición pluricultural y reconoce el derecho a preservar la forma de vida de sus pueblos indígenas, y elevar el bienestar social de sus integrantes. La ley protegerá y promoverá el desarrollo de sus lenguas, culturas, religión, la educación bilingüe, usos, costumbres, tradiciones, prácticas democráticas, patrimonio étnico y artesanal, medio ambiente, recursos, medicina tradicional y formas específicas de organización social, y garantizará a sus integrantes el efectivo acceso a la jurisdicción del Estado.
+> <small>(DEROGADO SEXTO PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
+###### Art. 13 Bis.
+
+El Estado de Sinaloa tiene una composición pluricultural sustentada originalmente en sus pueblos y comunidades indígenas que son aquellos que descienden de poblaciones que habitaban en el territorio actual del Estado al iniciarse la colonización y que conservan sus propias instituciones sociales, económicas, culturales y políticas, o parte de ellas.
+
+Esta Constitución reconoce y garantiza el derecho a preservar la forma de vida de los pueblos y comunidades indígenas en el Estado, y elevar el bienestar social de sus integrantes. La ley protegerá y promoverá el desarrollo de sus lenguas, culturas, religión, la educación bilingüe, usos, costumbres, tradiciones, prácticas democráticas, patrimonio étnico y artesanal, medio ambiente, recursos, medicina tradicional y formas específicas de organización social, y garantizará a sus integrantes el efectivo acceso a la jurisdicción del Estado.
+
+La conciencia de su identidad indígena deberá ser criterio fundamental para determinar a quiénes se aplican las disposiciones sobre pueblos indígenas.
+
+Son comunidades integrantes de un pueblo indígena, aquellas que formen una unidad social, económica y cultural, asentada en un territorio y que reconocen autoridades propias de acuerdo con sus usos y costumbres.
+
+El derecho de los pueblos indígenas a la libre determinación se ejercerá en un marco constitucional de autonomía que asegure la unidad nacional y del Estado. El reconocimiento de los pueblos y comunidades indígenas en el Estado de Sinaloa se hará en la ley, la que deberá tomar en cuenta, además de los principios generales establecidos en este artículo, criterios etnolingüísticos y de asentamiento físico.
+
+A. Esta Constitución reconoce y garantiza el derecho de los pueblos y las comunidades indígenas a la libre determinación y, en consecuencia, a la autonomía para:
+
+I. Decidir sus formas internas de convivencia y organización social, económica, política y cultural;
+
+II. Aplicar sus propios sistemas normativos en la regulación y solución de sus conflictos internos, sujetándose a los principios generales de la Constitución Política de los Estados Unidos Mexicanos y los establecidos en esta Constitución, respetando las garantías individuales, los derechos humanos y, de manera relevante, la dignidad e integridad de las mujeres. La ley establecerá los casos y procedimientos de validación por los jueces o tribunales correspondientes;
+
+III. Elegir de acuerdo con sus normas, procedimientos y prácticas tradicionales, a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando que las mujeres y los hombres indígenas participen en condiciones de igualdad, en un marco que respete el pacto federal y la soberanía del Estado;
+
+IV. Preservar y enriquecer sus lenguas, conocimientos y todos los elementos que constituyan su cultura e identidad;
+
+V. Conservar y mejorar el hábitat y preservar la integridad de sus tierras en los términos establecidos en la Constitución Política de los Estados Unidos Mexicanos y en esta Constitución;
+
+VI. Acceder, con respeto a las formas y modalidades de propiedad y tenencia de la tierra establecidas en la Constitución Federal y en las leyes de la materia, así como a los derechos adquiridos por terceros o por integrantes de la comunidad, al uso y disfrute preferente de los recursos naturales de los lugares que habitan y ocupan las comunidades, salvo aquellos que corresponden a las áreas estratégicas, en términos de la Constitución Política de los Estados Unidos Mexicanos. Para estos efectos las comunidades podrán asociarse en términos de ley; y
+
+VII. Acceder plenamente a la jurisdicción del Estado. Para garantizar ese derecho, en todos los juicios y procedimientos en que sean parte, individual o colectivamente, se deberán tomar en cuenta sus costumbres y especificidades culturales respetando los preceptos de la Constitución Política de los Estados Unidos Mexicanos y los previstos en esta Constitución. Las y los indígenas tienen en todo tiempo el derecho a ser asistidos por intérpretes y defensores que tengan conocimiento de su lengua y cultura.
+
+La ley establecerá las características de libre determinación y autonomía que mejor expresen las situaciones y aspiraciones de los pueblos indígenas en cada Municipio, así como las normas para el reconocimiento de las comunidades indígenas como entidades de interés público.
+
+B. El Estado y los Municipios, para promover la igualdad de oportunidades de los indígenas y eliminar cualquier práctica discriminatoria, establecerán las instituciones y determinarán las políticas necesarias para garantizar la vigencia de los derechos de los indígenas y el desarrollo integral de sus pueblos y comunidades, las cuales deberán ser diseñadas y operadas conjuntamente con ellos.
+
+Para abatir las carencias y rezagos que afectan a los pueblos y comunidades indígenas, dichas autoridades, tienen las obligaciones siguientes:
+
+I. Impulsar el desarrollo regional de las zonas indígenas con el propósito de fortalecer la economía del Estado y mejorar las condiciones de vida de sus pueblos, mediante acciones coordinadas entre los tres órdenes de gobierno, con la participación de las comunidades. Las autoridades municipales determinarán equitativamente las asignaciones presupuestales que las comunidades administrarán directamente para fines específicos;
+
+II. Garantizar e incrementar los niveles de escolaridad, favoreciendo la educación bilingüe e intercultural, la alfabetización, la conclusión de la educación básica, la capacitación productiva y la educación media superior y superior. Establecer un sistema de becas para los estudiantes indígenas en todos los niveles. Definir y desarrollar programas educativos de contenido regional que reconozcan la herencia cultural de sus pueblos, de acuerdo con las leyes de la materia y en consulta con las comunidades indígenas. Impulsar el respeto y conocimiento de las diversas culturas existentes en el Estado;
+
+III. Asegurar el acceso efectivo a los servicios de salud mediante la ampliación de la cobertura del sistema nacional, aprovechando debidamente la medicina tradicional, así como apoyar la nutrición de los indígenas mediante programas de alimentación, en especial para la población infantil;
+
+IV. Mejorar las condiciones de las comunidades indígenas y de sus espacios para la convivencia y recreación, mediante acciones que faciliten el acceso al financiamiento público y privado para la construcción y mejoramiento de vivienda, así como ampliar la cobertura de los servicios sociales básicos;
+
+V. Propiciar la incorporación de las mujeres indígenas al desarrollo, mediante el apoyo a los proyectos productivos, la protección de su salud, el otorgamiento de estímulos para favorecer su educación y su participación en la toma de decisiones relacionadas con la vida comunitaria;
+
+VI. Extender la red de comunicaciones que permita la integración de las comunidades, mediante la construcción y ampliación de vías de comunicación y telecomunicación. Establecer condiciones para que los pueblos y las comunidades indígenas puedan adquirir, operar y administrar medios de comunicación, en los términos que las leyes de la materia determinen;
+
+VII. Apoyar las actividades productivas y el desarrollo sustentable de las comunidades indígenas mediante acciones que permitan alcanzar la suficiencia de sus ingresos económicos, la aplicación de estímulos para las inversiones públicas y privadas que propicien la creación de empleos, la incorporación de tecnologías para incrementar su propia capacidad productiva, así como para asegurar el acceso equitativo a los sistemas de abasto y comercialización;
+
+VIII. Establecer políticas sociales para proteger a los migrantes de los pueblos indígenas en el territorio del Estado, mediante acciones para garantizar los derechos laborales de los jornaleros agrícolas; mejorar las condiciones de salud de las mujeres; apoyar con programas especiales de educación y nutrición a niños y jóvenes de familias migrantes; velar por el respeto de sus derechos humanos y promover la difusión de sus culturas; y
+
+IX. Consultar a los pueblos indígenas en la elaboración de los Planes Estatal y Municipales de Desarrollo y, en su caso, incorporar las recomendaciones y propuestas que realicen.
+
+Para garantizar el cumplimiento de las obligaciones señaladas en este apartado, el Congreso del Estado y los ayuntamientos, en el ámbito de sus respectivas competencias, establecerán las partidas específicas destinadas al cumplimiento de estas obligaciones en los presupuestos de egresos que aprueben, así como las formas y procedimientos para que las comunidades participen en el ejercicio y vigilancia de las mismas.
+
+Sin perjuicio de los derechos aquí establecidos a favor de los indígenas, sus comunidades y pueblos, toda comunidad equiparable a aquéllos tendrá en lo conducente los mismos derechos en los términos que establezca la ley.
 
 ### CAPITULO III. DE LAS ELECCIONES
 
@@ -3714,6 +3776,20 @@ Artículo Décimo Primero. Los Consejeros del Consejo Estatal Electoral que a la
 Artículo Décimo Segundo. Todos los recursos humanos del Tribunal Estatal Electoral se integrarán a los del Tribunal Electoral del Estado de Sinaloa. Los recursos materiales, presupuestales y financieros del actual órgano jurisdiccional pasarán a formar parte del patrimonio del nuevo Tribunal una vez que quede integrado.
 
 Artículo Décimo Tercero. Los Magistrados del Tribunal Estatal Electoral de Sinaloa que se encuentren en funciones a la fecha de entrada en vigor del presente Decreto, continuarán en el ejercicio de sus cargos hasta en tanto el Senado de la República realice los nombramientos de los Magistrados del Tribunal Electoral del Estado de Sinaloa quienes habrán de sustituirles, en términos de lo previsto en el Artículo Décimo Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia política-electoral, publicado en el Diario Oficial de la Federación el diez de febrero de dos mil catorce.
+
+P.O. 18 DE DICIEMBRE DE 2015.
+
+DECRETO No. 417, POR EL QUE SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 4° BIS B DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa."
+
+P.O. 18 DE DICIEMBRE DE 2015.
+
+DECRETO NO. 427 POR EL QUE SE DEROGAN EL PRIMER PÁRRAFO DE LA FRACCIÓN V DEL ARTÍCULO 4º BIS B Y EL SEXTO PÁRRAFO DEL ARTÍCULO 13 Y SE ADICIONA UN ARTÍCULO 13 BIS A LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE SINALOA.
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo. El Congreso del Estado expedirá la ley reglamentaria correspondiente dentro de los ciento ochenta días siguientes a la publicación del presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 57 POR EL QUE SE EXPIDEN LA LEY DE LA GESTIÓN PÚBLICA DIGITAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS Y LA LEY DEL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO” DEL ESTADO DE MÉXICO Y SE REFORMAN DIVERSAS DISPOSICIONES DE OTROS ORDENAMIENTOS JURÍDICOS”.]
 
