@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-el-servicio-de-clasificacion-de-huevo-para-9067
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-12-07"
-last_updated: "2012-12-07"
+last_updated: "2015-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90679&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO PARA EL SERVICIO DE CLASIFICACIÓN DE HUEVO PARA PLATO EN EL ESTADO DE BAJA CALIFORNIA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2015.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 7 de diciembre de 2012.
 
@@ -51,9 +51,11 @@ La Secretaría de Fomento Agropecuario, brindará el servicio de clasificación 
 
 ### CAPÍTULO II. DE LA TERMINOLOGÍA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 4.
 
-Para efectos del presente Reglamento, además de las previstas en la Ley Desarrollo (sic) Agropecuario del Estado de Baja California, resultan aplicables las siguientes definiciones:
+Para efectos del presente Reglamento, además de las previstas en la Ley de Desarrollo Agropecuario de Baja California, resultan aplicables las siguientes definiciones:
 
 a) Etiqueta: Todo rotulo, marbete, inscripción, imagen u otra forma descriptiva o gráfica ya sea que este impreso, marcado, grabado, en relieve, hueco, estarcido o adherido al empaque o envase del producto.
 
@@ -74,6 +76,10 @@ h) Inspección mediante ovoscopio: Es la que se realiza en el huevo entero por o
 i) Temperatura ambiente: Es aquella que se puede medir con un termómetro, la que deberá mantenerse a 25 °C (77°F).
 
 j) Unidades Haugh: Son valores numéricos que se obtienen de relacionar la altura de la albumina con el peso del huevo, siendo la calidad del huevo mayor conforme al valor haugh se aproxime a cien.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE DICIEMBRE DE 2015)</small>
+
+k) Lote: Es una cantidad determinada de un producto obtenido en un mismo periodo, con características similares que es sometido a inspección como conjunto unitario, e identificado por un código específico.
 
 ### CAPÍTULO III. DE LOS CLASIFICADORES
 
@@ -147,9 +153,11 @@ Con relación al tamaño chico solo será comercializado en forma a granel.
 
 El huevo para plato que se oferte al público consumidor en el Estado de Baja California, y que no se encuentre dentro de las disposiciones establecidas en este Reglamento, será destinado solo para uso industrial, siempre y cuando sea sometido a procesos que involucren tratamientos en los que se asegure la inocuidad del producto terminado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 12.
 
-Los comerciantes estarán obligados a retirar de la venta al público consumidor el huevo para plato cuando se observe la presencia de alguna de las siguientes características:
+Los comerciantes estarán obligados a retirar de la venta del público consumidor el huevo para plato cuando se observe la presencia de alguna de las siguientes características:
 
 1.- Haber sido incubado.
 
@@ -167,6 +175,10 @@ Los comerciantes estarán obligados a retirar de la venta al público consumidor
 
 8.- Huevo lavado.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 18 DE DICIEMBRE DE 2015)</small>
+
+9.- Huevo vencido.
+
 La presente disposición se aplicará conforme a los criterios previstos en el Anexo Técnico.
 
 ### CAPÍTULO V. DEL PROCEDIMIENTO DE CLASIFICACIÓN
@@ -175,9 +187,11 @@ La presente disposición se aplicará conforme a los criterios previstos en el A
 
 Para fines de la clasificación de huevo para plato, el técnico clasificador podrá evaluar el producto apoyándose con una fuente de luz (ovoscopio o lámpara manual) regla y/o vernier portátil para medir el tamaño de la cámara de aire, así como los demás instrumentos que sirvan de apoyo para precisar las características del producto y determinar su estado de calidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 14.
 
-El técnico clasificador al terminar la evaluación del huevo para plato presentado para su clasificación, deberá identificarlo en el exterior del empaque o caja que contenga el producto, independientemente de la presentación en su interior, con el sello oficial y tinta vegetal color morada y/o azul, con los siguientes datos:
+El técnico clasificador al terminar la evaluación del huevo para plato presentado para su clasificación, deberá indicarlo en el exterior del empaque o caja que contenga el producto, independientemente de la presentación en su interior, con el sello oficial y tinta vegetal obscura con los siguientes datos:
 
 I.- Grado de calidad.- Se identificará con las letras AA, A o B según corresponda a su calidad.
 
@@ -205,9 +219,11 @@ Las personas físicas o morales podrán comercializar huevo para plato clasifica
 
 Toda persona física o moral que comercialice huevo para plato contraviniendo lo expresado en este Reglamento, será sancionado conforme al capítulo de sanciones previsto en la Ley de Desarrollo Agropecuario del Estado de Baja California.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 17.
 
-Para fines del servicio de clasificación, la evaluación se realizará seleccionando al azar el 5% del total del producto del huevo que se presente en cada caso.
+Para fines del servicio de clasificación, la evaluación se realizará seleccionando al azar el 0.5% del total del lote de huevo que se presente en cada caso.
 
 ###### ARTÍCULO 18.
 
@@ -221,11 +237,17 @@ Los lotes que presenten discrepancias en cuanto al tamaño en más del 15% del t
 
 La vigencia del grado de calidad asignado al huevo, por el servicio de clasificación de huevo para plato, será atendiendo a su frescura y manejo, y serán las siguientes:
 
-I.- Para el grado de calidad "AA" será de 13 a 18 días posteriores a la fecha de clasificación, cuando el producto sea manejado de la manera tradicional o a una temperatura ambiente.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
 
-II.- Para el grado de calidad "A" será de 6 a 12 días posteriores a la fecha de clasificación, cuando el producto sea manejado de la manera tradicional o a una temperatura ambiente.
+I.- Para el grado de calidad "AA" será de 13 a 18 días posteriores a la fecha de clasificación, cuando el producto sea manejado de la manera tradicional y a la temperatura ambiente.
 
-III.- Para el grado de calidad "B" será de 5 días posteriores a la fecha de clasificación, cuando el producto sea manejado de la manera tradicional o a una temperatura ambiente.
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
+II.- Para el grado de calidad "A" será de 6 a 12 días posteriores a la fecha de clasificación, cuando el producto sea manejado de la manera tradicional y a la temperatura ambiente.
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
+III.- Para el grado de calidad "B" será de 5 días posteriores a la fecha de clasificación, cuando el producto sea manejado de la manera tradicional y a la temperatura ambiente.
 
 ###### ARTÍCULO 21.
 
@@ -354,3 +376,13 @@ GOBERNADOR DEL ESTADO
 FRANCISCO ANTONIO GARCÍA BURGOS
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO MEDIANTE EL CUAL SE APRUEBAN REFORMAS A LOS ARTÍCULOS 4, 12, 14, 17 Y 20 DEL REGLAMENTO PARA EL SERVICIO DE CLASIFICACIÓN DE HUEVO PARA PLATO EN EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+> <small>[N. DE E. VÉASE ANEXO TÉCNICO DEL REGLAMENTO PARA EL SERVICIO DE CLASIFICACIÓN DE HUEVO PARA PLATO EN EL ESTADO DE BAJA CALIFORNIA CRITERIOS TÉCNICOS Y CARACTERÍSTICAS PERMITIDAS PARA REALIZAR LA CLASIFICACIÓN DE HUEVO PARA PLATO EN EL ESTADO DE BAJA CALIFORNIA, EN EL P.O. DE 18 DE DICIEMBRE DE 2015, PÁGINAS DE LA 6 A LA 9.]</small>
