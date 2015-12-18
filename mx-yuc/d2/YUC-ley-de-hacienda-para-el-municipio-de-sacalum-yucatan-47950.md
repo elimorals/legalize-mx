@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-para-el-municipio-de-sacalum-yucatan-47950"
 country: "mx"
 rank: "ley"
 publication_date: "2006-01-03"
-last_updated: "2013-12-27"
+last_updated: "2015-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47950&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,93 +23,25 @@ state: "YUC"
 ---
 # LEY DE HACIENDA PARA EL MUNICIPIO DE SACALUM, YUCATAN
 
-EXTRACTO DEL ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL POR EL QUE SE APRUEBA EL DISEÑO Y LA IMPRESIÓN DE LA PAPELETA, LA PLANTILLA BRAILLE Y EL SELLO DE LA PAPELETA PARA LA CONSULTA POPULAR DEL 1 DE AGOSTO DEL 2021.
+LEY DE HACIENDA PARA EL MUNICIPIO DE SACALUM, YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE DICIEMBRE DE 2015.
 
-Extracto publicado en el Número 10 del Diario Oficial de la Federación, el viernes 11 de junio de 2021.
+Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el martes 3 de enero de 2006.
 
-Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Instituto Nacional Electoral.
+ABOG. PEDRO FRANCISCO RIVAS GUTIÉRREZ Y Q. I. RAÚL ARCEO ALONZO, POR AUSENCIA TEMPORAL DEL C. GOBERNADOR DEL ESTADO DE YUCATÁN, A SUS HABITANTES HACEMOS SABER:
 
-Extracto del Acuerdo del Consejo General del Instituto Nacional Electoral por el que se aprueba el diseño y la impresión de la papeleta, la plantilla braille y el sello de la papeleta para la Consulta Popular del 1 de agosto del 2021.
+EL CONGRESO DEL ESTADO, LIBRE Y SOBERANO DE YUCATÁN, CONFORME A LO DISPUESTO EN EL ARTÍCULO 30 FRACCIÓN V DE LA CONSTITUCIÓN POLÍTICA; 97, 150 Y 156 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO, AMBAS DEL ESTADO DE YUCATÁN;
 
-Al margen un sello con el escudo Nacional, que dice Estados Unidos Mexicanos. Instituto Nacional Electoral. INE/CG522/2021 de fecha 2 de junio de 2021.
+DECRETA:
 
-ANTECEDENTES
+Artículo Primero, Se aprueban las Leyes de Hacienda de los Municipios de: Kanasín, que contiene 149 artículos; Mazapán, que contiene 155 artículos; Muna, que contiene 165 artículos; Sacalum, que contiene 155 artículos; Timucuy, que contiene 154 artículos; y Yaxcabá, que contiene 154 artículos; todos del Estado de Yucatán.
 
-(...)
+Artículo Segundo.- Las Leyes de Hacienda a que se refiere el artículo anterior, se describen en cada una de las fracciones siguientes:
 
-VIII. El 28 de octubre de 2020, se publicó en el Diario Oficial de la Federación el Decreto por el que se expide la Convocatoria de Consulta Popular.
+...
 
-IX. El 6 de abril de 2021, mediante Acuerdo INE/CG350/2021 el Consejo General aprobó el Plan Integral y Calendario de la Consulta Popular 2021.
-
-X. En la misma fecha, mediante Acuerdo INE/CG351/2021 el Consejo General aprobó los Lineamientos para la Organización de la Consulta Popular, del 1 de agosto de 2021.
-
-XI. El 19 de mayo de 2021 se publicó en el Diario Oficial de la Federación el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Federal de Consulta Popular. En el Transitorio Segundo de esta reforma se mandató que “los procesos de consulta popular que a la fecha de entrada en vigor del presente Decreto se encuentren en desarrollo se regirán por las disposiciones conforme a las cuales fueron convocados”; razón por la cual, la misma no resulta aplicable para la organización de la consulta materia de este acuerdo.
-
-(...)
-
-Motivación
-
-22. Por primera ocasión se implementará este mecanismo de participación política establecido en el artículo 35 constitucional desde el año 2012, de conformidad con la Convocatoria publicada el 28 de octubre de 2020, en cuyas Bases se establece que el Instituto tendrá a su cargo lo siguiente:
-
-- La organización, desarrollo, coordinación, cómputo y declaración de resultados de la Consulta Popular;
-
-- La difusión de la Consulta Popular, por los medios que determine;
-
-- La ubicación, conformación e integración de las casillas;
-
-- La jornada de la Consulta Popular;
-
-- El escrutinio y cómputo y,
-
-- La declaración de validez de los resultados.
-
-(...)
-
-30. La documentación que se presenta a la consideración del Consejo General para su aprobación es la siguiente:
-
-- Papeleta.
-
-- Plantilla Braille.
-
-31. Las papeletas contienen los siguientes datos: breve descripción del tema de trascendencia nacional; la pregunta contenida en la Convocatoria aprobada por el Congreso; cuadros para el “SÍ” y para el “NO”, colocados simétricamente y en tamaño apropiado para facilitar su identificación por la o el ciudadano al momento de emitir su opinión; entidad, distrito, municipio o alcaldía y las firmas impresas del Presidente del Consejo General y del Secretario Ejecutivo del Instituto.
-
-32. La descripción del tema de trascendencia nacional incluido al reverso de la papeleta, es el siguiente:
-
-“Esta consulta tiene como objetivo conocer tu opinión acerca de si se deben esclarecer o aclarar hechos de importancia histórica y política ocurridos en México, con la finalidad de que las autoridades competentes, en su caso, determinen cómo actuar y los mecanismos a implementar respecto a las y los posibles responsables y víctimas.”
-
-(...)
-
-35. El material que se presenta a la consideración del Consejo General para su aprobación es el sello de la papeleta para la Consulta Popular.
-
-(...)
-
-37. La DEOE debe llevar a cabo las actividades de supervisión de la producción, almacenamiento y distribución de la papeleta y el sello para la Consulta Popular, para asegurar el suministro oportuno de estos insumos en los órganos distritales.
-
-De conformidad con los antecedentes y considerandos expresados este Consejo General emite el siguiente:
-
-ACUERDO
-
-Primero. Se aprueba el diseño de papeleta que se utilizará durante la Consulta Popular a celebrarse el 1 de agosto del 2021, el cual se incluye como anexo a este Acuerdo.
-
-Segundo. Se aprueba el modelo de plantilla en escritura Braille para la papeleta de la Consulta Popular, para que las personas con discapacidad visual puedan marcar sobre ésta su voto por sí mismos, si así lo desean.
-
-Tercero. Se aprueba que la incorporación del dato de Municipio o Alcaldía en las papeletas se realice en el reverso de las mismas, durante el proceso de conteo y sellado de papeletas en los órganos distritales.
-
-Cuarto. Se aprueba el modelo de sello con el campo Municipio o Alcaldía, para su utilización en la Consulta Popular, anexo a este Acuerdo.
-
-Quinto. La DEOE será la responsable de la producción, almacenamiento y distribución de la papeleta e informará al Consejo General, a través de la CCOE, sobre el cumplimiento de sus actividades.
-
-(...)
-
-El Acuerdo completo se encuentra disponible para su consulta en la dirección electrónica:
-
-Página INE: https://portal.ine.mx/sesion-extraordinaria-del-consejo-general-02-de-junio-de-2021/
-
-Página DOF: http://www.dof.gob.mx/2021/INE/CGext202106_02_ap_6.pdf
-
-Ciudad de México, 2 de junio de 2021.- El Director Ejecutivo de Organización Electoral, Mtro. Sergio Bernal Rojas.- Rúbrica.
+IV. LEY DE HACIENDA PARA EL MUNICIPIO DE SACALUM, YUCATÁN
 
 ## TÍTULO PRIMERO
 
@@ -661,7 +593,11 @@ salario mínimo 0.025
 
 A la cantidad que exceda del límite inferior le será aplicado el factor determinado en esta tarifa y el resultado se incrementará con la cuota fija anual respectiva.
 
-Impuesto predial Rústico: $ 10.00 por hectárea.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+El impuesto predial Rustico: $ 50.00 por hectárea
 
 Todo predio destinado a la producción agropecuaria pagará 10 al millar anual sobre el valor registrado o catastral, sin que la cantidad a pagar resultante exceda a lo establecido por la legislación agraria federal para terrenos ejidales.
 
@@ -1317,21 +1253,23 @@ Para que la Tesorería Municipal este en condiciones de expedir la Licencia de F
 
 TARIFA
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 90.
 
-La tarifa de los derechos para la obtención de las Licencias de Funcionamiento de los establecimientos que se señalan en el Artículo 87 de esta ley, serán los siguientes:
+La tarifa de los derechos para la obtención de las licencias de funcionamiento de los establecimientos que se señalan en el artículo 88 de esta Ley, serán los siguientes:
 
-> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2012)</small>
+I.- Por apertura $15,525.00
 
-I.- Por apertura $ 10,000.00
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O. 18 DE DICIEMBRE DE 2015)</small>
 
-II.- Por revalidación $ 2,000.00
+II.- Por revalidación $ 2,600.00
 
-> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2012)</small>
-
-III.- Por permisos eventuales $ 1,200.00
+III.- Por permisos eventuales $ 1,246.00
 
 DE LAS MULTAS Y CLAUSURAS
 
@@ -1375,11 +1313,13 @@ II.- La superficie total del predio que sea objeto de limpia por parte del perso
 
 TARIFA
 
-> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 96.
 
-La tarifa se causará mensualmente a razón de $ 10.00 por predio en el caso del inciso I y de $ 200.00 en el caso del inciso II.
+La tarifa se causara mensualmente a razón de $11.00 por predio en el caso de (sic) inciso I y de $200.00 en el caso del inciso II
 
 PAGO
 
@@ -1409,11 +1349,13 @@ Son responsables solidarios del pago de estos derechos los Notarios Públicos y 
 
 CUOTA
 
-> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 101.
 
-La cuota de este derecho será el equivalente a $ 10.00 de manera mensual por cada toma de agua.
+La cuota de este derecho será el equivalente a $13.00 de manera mensual por cada toma de agua.
 
 PAGO
 
@@ -1451,17 +1393,23 @@ TARIFA
 
 Los derechos por este servicio se pagarán conforme a las siguientes tarifas:
 
-> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I.- Locatarios que venden frutas y verduras $ 40.00 mensual.
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2012)</small>
+I.- Locatarios que venden frutas y verduras $80.00 mensual
 
-II.- Locatarios que venden carnes $ 80.00 mensual.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2013)</small>
 
-III.- Locatarios de loncherías y venta de comida $ 80.00 mensual.
+II.- Locatarios que venden carnes $80.00 mensual
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 27 DE DICIEMBRE DE 2013)</small>
+
+III.- Locatarios de loncherías y venta de comida $60.00 mensual
 
 PAGO
 
@@ -1655,7 +1603,7 @@ Los fedatarios públicos y las personas que tengan funciones notariales, no auto
 
 Para el caso de que, alguna de las personas mencionadas en este artículo, viole lo dispuesto en el párrafo inmediato anterior, quien o quienes hubiesen incurrido en la violación, serán solidariamente responsables, con el contribuyente, del pago de los derechos que se hubiesen omitido.
 
-> <small>(ADICIONADO CON LOS APARTADOS Y ARTICULOS QUE LO INTEGRAN, D.O. 28 DE DICIEMBRE DE 2006)</small>
+> <small>(ADICIONADO CON LOS APARTADOS Y ARTÍCULOS QUE LO INTEGRAN, D.O. 28 DE DICIEMBRE DE 2006)</small>
 
 ### Capítulo XII. Derechos por los servicios de la unidad municipal de acceso a la información pública
 
@@ -1709,7 +1657,7 @@ IV.- Por Disco Compacto $30.00
 
 V.- Por DVD $50.00
 
-> <small>(ADICIONADO CON LOS ARTICULOS QUE LO INTEGRAN, D.O. 27 DE DICIEMBRE DE 2008)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 27 DE DICIEMBRE DE 2008)</small>
 
 ### Capítulo XIII. Derechos por Servicio de Alumbrado Público
 
@@ -2134,3 +2082,15 @@ T R A N S I T O R I O:
 ###### ARTÍCULO ÚNICO.
 
 Este decreto entrará en vigor el día primero de enero del año dos mil trece, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 27 DE DICIEMBRE DE 2013.
+
+Artículo Único.- Este decreto entrará en vigor el día primero de enero del año dos mil catorce, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 18 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 322/2015 POR EL QUE SE MODIFICAN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DZIDZANTÚN, MOTUL, MUNA, SACALUM, SOTUTA Y UAYMA".]
+
+###### ARTÍCULO ÚNICO.
+
+Este decreto entrará en vigor el día primero de enero del año dos mil dieciséis, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
