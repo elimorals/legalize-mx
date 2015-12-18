@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-instituciones-de-asistencia-social-privada-para-107428"
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-17"
-last_updated: "2015-04-17"
+last_updated: "2015-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107428&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "BCN"
 
 LEY DE INSTITUCIONES DE ASISTENCIA SOCIAL PRIVADA PARA NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE BAJA CALIFORNIA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A LOS 30 DÍAS SIGUIENTES AL DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A LOS 30 DÍAS SIGUIENTES AL DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL ESTADO.]</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 17 de abril de 2015.
 
@@ -49,11 +49,13 @@ La presente Ley es de orden público e interés social y tiene por objeto regula
 
 Corresponde al Sistema para el Desarrollo Integral de la Familia de Baja California por conducto de la Procuraduría de Protección de Niñas, Niños y Adolescentes del Estado, la aplicación de la presente Ley observando para tal efecto los derechos del menor consagrados en la Constitución Política de los Estados Unidos Mexicanos, en la Convención Sobre los Derechos del Niño, la Ley General de los Derechos de Niñas, Niños y Adolescentes, la Constitución Política del Estado, la presente Ley y las demás disposiciones legales aplicables, vigilando que prevalezca siempre el interés superior del menor y su reintegración familiar.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 3.
 
-A falta de disposición expresa en esta Ley, se aplicará en forma supletoria el Código Civil para el Estado de Baja California, el Código de Procedimientos Civiles para el Estado de Baja California, la Ley de Protección y Defensa de los Derechos de Menores y la Familia en el Estado de Baja California, Ley de Asistencia Social para el Estado de Baja California, la Ley para la Protección y Defensa de los Derechos de las Niñas, Niños y Adolescentes del Estado de Baja California; y demás ordenamientos aplicables en la materia.
+A falta de disposición expresa en esta Ley, se aplicará en forma supletoria el Código Civil para el Estado de Baja California, el Código de Procedimientos Civiles para el Estado de Baja California, la Ley de Asistencia Social para el Estado de Baja California, la Ley para la Protección y Defensa de los Derechos de las Niñas, Niños y Adolescentes del Estado de Baja California; y demás ordenamientos aplicables en la materia.
 
-Las disposiciones contenidas en esta Ley no eximen a las Instituciones de Asistencia Social Privada del cumplimiento de las obligaciones contenidas en la Ley de Asistencia Social para el Estado de Baja California, Ley de Protección y Defensa de los Derechos de Menores y la Familia en el Estado de Baja California, la Ley para la Protección y Defensa de los Derechos de las Niñas, Niños y Adolescentes del Estado de Baja California; y otros ordenamientos aplicables.
+Las disposiciones contenidas en esta Ley no eximen a las instituciones de Asistencia Social privada del cumplimiento de las obligaciones contenidas en la Ley de Asistencia Social para el Estado de Baja California, la Ley para la Protección y Defensa de los Derechos de las Niñas, Niños y Adolescentes del Estado de Baja California; y otros ordenamientos aplicables.
 
 ###### Artículo 4.
 
@@ -335,9 +337,11 @@ En todo momento la Procuraduría de Protección tendrá el deber de velar por la
 
 Para ello, las Instituciones de Asistencia Social Privada tendrán la obligación de notificar a la Procuraduría de Protección dentro de las 24 horas posteriores sobre los ingresos y egresos de las niñas, niños y adolescentes, sin perjuicio de la causa que lo origine.
 
+> <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 28.
 
-La Procuraduría de Protección ejercerá la tutela pública de las niñas, niños y adolescentes que se consideren como expósitos o abandonados en los términos previstos del Código Civil para el Estado de Baja California, la Ley de Protección y Defensa de los Derechos de los Menores y la Familia en el Estado y demás disposiciones legales aplicables. La Procuraduría de Protección promoverá y gestionará los trámites judiciales y administrativos que sean necesarios para regularizar la situación jurídica de las niñas niños y adolescentes.
+La Procuraduría de Protección ejercerá la tutela pública de las niñas, niños y adolescentes que se consideren expósitos o abandonados en los términos previstos del Código Civil para el Estado de Baja California, y demás disposiciones legales aplicables. La Procuraduría de Protección promoverá y gestionará los trámites judiciales y administrativos que sean necesarios para regularizar la situación jurídica de las niñas, niños y adolescentes.
 
 ###### Artículo 29.
 
@@ -514,3 +518,11 @@ GOBERNADOR DEL ESTADO
 FRANCISCO RUEDA GÓMEZ
 
 SECRETARIO GENERAL DE GOBIERNO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 418 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 3 Y 28 DE LA LEY DE INSTITUCIONES DE ASISTENCIA SOCIAL PRIVADA PARA NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE BAJA CALIFORNIA".]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
