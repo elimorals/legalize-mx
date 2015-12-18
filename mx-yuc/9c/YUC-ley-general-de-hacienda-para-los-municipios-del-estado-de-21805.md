@@ -4,7 +4,7 @@ identifier: "YUC-ley-general-de-hacienda-para-los-municipios-del-estado-de-21805
 country: "mx"
 rank: "ley_general"
 publication_date: "2000-12-30"
-last_updated: "2008-12-27"
+last_updated: "2015-12-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "YUC"
 ---
 # LEY GENERAL DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE YUCATAN
 
-LEY GENERAL DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE YUCATAN
+LEY GENERAL DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE YUCATÁN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2008.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE YUCATÁN, PUBLICADA EN EL DIARIO OFICIAL EL 18 DE DICIEMBRE DE 2015; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL 1 DE ENERO DE 2016.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE DICIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Diario Oficial del Estado de Yucatán, el sábado 30 de diciembre del 2000.
 
@@ -1275,7 +1277,7 @@ Adquiere responsabilidad cualquier funcionario que contravenga las disposiciones
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, D.O. 31 DE DICIEMBRE DE 2004)</small>
 
-### CAPÍTULO II. OTROS INGRESOS ESTRAORDINARIOS
+### CAPÍTULO II. OTROS INGRESOS EXTRAORDINARIOS
 
 (REUBICADO [N. DE E. ANTES ARTICULO 166], D.O. 31 DE DICIEMBRE DE 2005)
 
@@ -1324,3 +1326,23 @@ D.O. 27 DE DICIEMBRE DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 Este Decreto entrará en vigor al día siguiente a su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 18 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 321/2015 POR EL QUE SE EMITE LA LEY DE HACIENDA MUNICIPAL DEL ESTADO DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el 1 de enero de 2016, previa publicación en el diario oficial del estado.
+
+Segundo. Abrogación
+
+A partir de la entrada en vigor de esta ley, quedará abroga (sic) la Ley General de Hacienda para los Municipios del Estado de Yucatán, promulgada mediante Decreto 301 del Poder Ejecutivo y publicada en el diario oficial del estado, el 30 de diciembre de 2000.
+
+Tercero. Vigencia de leyes aprobadas con anterioridad a esta ley
+
+Las leyes de hacienda de los municipios que hubieran sido aprobadas con anterioridad a esta ley continuarán vigentes.
+
+Cuarto. Derogación tácita
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al contenido de este decreto.
