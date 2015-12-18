@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-6205
 country: "mx"
 rank: "ley"
 publication_date: "2008-06-25"
-last_updated: "2014-07-25"
+last_updated: "2015-12-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62051&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Baja California, el miércoles 25 de junio de 2008.
 
@@ -341,6 +341,8 @@ En el caso del o los agresores, éstos deberán participar obligatoriamente en l
 
 ### CAPÍTULO VI. DEL PROGRAMA ESTATAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 31.
 
 El Sistema Estatal es un mecanismo permanente a través del cual el Gobierno del Estado y los Gobiernos Municipales coordinarán esfuerzos para instrumentar políticas, acciones y servicios para la prevención, atención y erradicación de la violencia contra las mujeres.
@@ -401,7 +403,7 @@ Las particularidades del funcionamiento, organización y atribuciones de los int
 
 ###### Artículo 35.
 
-La Secretaría Técnica del Sistema Estatal propondrá para su validación al mismo, un Programa Estatal con perspectiva de género, que sea congruente con el Programa Nacional y con el Plan Estatal de Desarrollo y los Municipales, respectivamente, teniendo como objetivos los siguientes:
+La Secretaría Técnica del Sistema Estatal propondrá para su validación al mismo, un Programa Estatal con perspectiva de protección a la mujer, que sea congruente con el Programa Nacional y con el Plan Estatal de Desarrollo y los Municipales, respectivamente, teniendo como objetivos los siguientes:
 
 I. Fomentar y promover el conocimiento y el respeto a los derechos humanos de las mujeres establecidos en esta Ley y los Tratados Internacionales adoptados por nuestro país como obligatorios;
 
@@ -415,7 +417,9 @@ V. Impulsar y apoyar programas de educación oficiales;
 
 VI. Promover la instrumentación de programas de atención y capacitación a mujeres ofendidas, que les permitan participar plenamente en todos los ámbitos de la vida;
 
-VII. Publicar semestralmente la información general y estadística referente a los casos de violencia contra las mujeres, misma que deberá ser remitida al Sistema Nacional;
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
+VII. Publicar semestralmente la información general y estadística sobre los casos de violencia contra las mujeres para integrar el (sic) Base Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres, misma que deberá ser remitida al Sistema Nacional;
 
 VIII. Promover la cultura de denuncia de la violencia contra las mujeres, y
 
@@ -432,6 +436,10 @@ Para la efectiva aplicación de la Ley, las Dependencias y Entidades del Gobiern
 ###### Artículo 37.
 
 En primer lugar, las dependencias antes referidas, dentro del marco de sus atribuciones deberán arrancar con la prevención, con acciones que puedan evitar la comisión de delitos y otros actos de violencia contra las mujeres, atendiendo a los posibles factores de riesgo, tanto en los ámbitos público y privado. La prevención comprenderá medidas generales y especiales, entre las que deberán privilegiarse las de carácter no penal.
+
+### CAPÍTULO X. DE LAS RESPONSABILIDADES Y SANCIONES
+
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 38.
 
@@ -465,6 +473,34 @@ XIII. La capacitación del personal a su cargo en materia de derechos de las muj
 
 XIV. Todas aquellas que se requieran para tener un Estado libre de violencia de género.
 
+> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 38 Bis.
+
+Corresponde a la Secretaría de Seguridad Pública:
+
+l. Capacitar al personal del cuerpo de policía estatal y promover la capacitación de los cuerpos municipales en cuanto a la atención de casos de violencia en contra de las mujeres;
+
+II. Tomar medidas y realizar las acciones necesarias, en coordinación con las demás autoridades, para alcanzar los objetivos previstos en la presente ley;
+
+III. Integrar, administrar y operar la Base Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres;
+
+IV. Emitir los lineamientos necesarios para determinar e integrar la información que contendrá la Base Estatal de Datos;
+
+V. Proporcionar la información (sic) la Base Estatal de Datos a los particulares sin inclusión de datos personales, en términos de la Ley de Transparencia y Acceso a la Información Pública para el Estado de Baja California y de los lineamientos referidos en la fracción anterior;
+
+VI. Proponer al Ejecutivo el Diseño de la política integral para la prevención de delitos violentos contra las mujeres, en los ámbitos público y privado;
+
+VII. Establecer las acciones y medidas que se deberán tomar para la readaptación y reinserción social del presunto o presunta generador de violencia;
+
+VIII. Ejecutar y dar seguimiento a las acciones del Programa Estatal que le correspondan;
+
+IX. Formular acciones y programas orientados a fomentar la cultura del respeto a los derechos humanos de las mujeres;
+
+X. Diseñar, con una visión transversal, la política integral con perspectiva de protección a la mujer orientada a la prevención, atención, sanción y erradicación de los delitos violentos contra las mujeres, y
+
+XI. Las demás previstas para el cumplimiento de la presente Ley.
+
 ###### Artículo 39.
 
 Corresponderá a la Secretaría de Educación y Bienestar Social, en su ámbito de acción, el implementar en la política educativa del Estado, los principios de igualdad, equidad y no discriminación entre mujeres y hombres y el respeto pleno de los derechos humanos. Así como el desarrollo de programas educativos que promuevan la cultura de una vida libre de violencia contra las mujeres, buscando la erradicación de la violencia docente.
@@ -493,9 +529,17 @@ V. Promover la cultura del respeto a los derechos procesales de las mujeres, y g
 
 VI. Crear unidades especializadas de acuerdo al tipo de victimización de la mujer, evitando las prácticas de mediación o conciliación;
 
-VII. Celebrar convenios de cooperación, coordinación y concertación en la materia, y
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
 
-VIII. Las demás que determinen las leyes.
+VII. Celebrar convenios de cooperación, coordinación y concertación en la materia,
+
+> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
+VIII. Crear un registro público sistemático de las denuncias de los delitos cometidos en contra de mujeres, los índices de incidencia y reincidencia, consignación, sanción y reparación del daño, sin inclusión de datos personales. Este registro se remitirá a la Base para definir políticas en materia de prevención del delito, procuración y administración de justicia; y,
+
+> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
+IX. Las demás que determinen las leyes.
 
 ###### Artículo 43.
 
@@ -609,6 +653,12 @@ XV. Celebrar convenios de cooperación, coordinación y concertación en la mate
 
 XVI. La atención de los demás asuntos que en materia de prevención, atención, sanción o erradicación de la violencia contra las mujeres que les conceda la Ley y su reglamentación interior.
 
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 18 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 48.
+
+Será causa de responsabilidad administrativa el incumplimiento de esta Ley y se sancionará conforme a las leyes en la materia.
+
 ## ARTICULOS TRANSITORIOS
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
@@ -678,3 +728,21 @@ P.O. 25 DE JULIO DE 2014.
 PRIMERO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Los Municipios contarán con un plazo de ciento veinte días naturales a partir de la entrada en vigor de la presente reforma para adecuar su normatividad vigente.
+
+P.O. 18 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL ARTÍCULO PRIMERO DEL “DECRETO NO. 406 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 35, FRACCIONES VI, VII Y 42 FRACCIÓN VIII, ADICIONANDO UNA FRACCIÓN IX, DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO. A partir de la entrada en vigor del presente Decreto, el Ejecutivo Estatal deberá emitir, en un plazo no mayor (sic) noventa días naturales, las modificaciones a los Reglamentos correspondientes.
+
+TERCERO. A partir de la entrada en vigor del presente Decreto, el Ejecutivo Estatal por conducto de la Secretaría de Seguridad Pública del Estado emitirá en un plazo no mayor a ciento veinte días naturales, los lineamientos para la operación del (sic) Base Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres.
+
+## [N. DE E. TRANSITORIOS DEL ARTÍCULO SEGUNDO DEL “DECRETO NO. 406 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LOS ARTÍCULOS 35, FRACCIONES VI, VII Y 42 FRACCIÓN VIII, ADICIONANDO UNA FRACCIÓN IX, DE LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- A partir de la entrada en vigor del presente Decreto, el Ejecutivo Estatal deberá emitir, en un plazo no mayor (sic) noventa días naturales, las modificaciones a los Reglamentos correspondientes.
+
+TERCERO.- A partir de la entrada en vigor del presente Decreto, el Ejecutivo Estatal por conducto de la Secretaría de Seguridad Pública del Estado emitirá en un plazo no mayor a ciento veinte días naturales, los lineamientos para la operación del (sic) Base Estatal de Datos e Información sobre Casos de Violencia contra las Mujeres.
