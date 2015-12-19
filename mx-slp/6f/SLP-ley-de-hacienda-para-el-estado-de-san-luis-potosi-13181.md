@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-hacienda-para-el-estado-de-san-luis-potosi-13181"
 country: "mx"
 rank: "ley"
 publication_date: "1998-12-31"
-last_updated: "2015-05-26"
+last_updated: "2015-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13181&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE HACIENDA PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 31 de diciembre de 1998.
 
@@ -55,9 +55,11 @@ Esta ley tiene por objeto el regular los ingresos que obtiene el Estado y que an
 
 En lo no previsto por esta Ley, se aplicará supletoriamente el Código Fiscal del Estado y, en defecto de éste, las normas del derecho común local.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 4º.
 
-Cuando en esta Ley se haga referencia al salario mínimo, se entenderá que es el salario mínimo general diario de la zona a la que pertenece el Estado de San Luis Potosí.
+Cuando en esta Ley se haga referencia al salario mínimo, se entenderá que es el salario mínimo general para todo el País y/o la Unidad de Medida y Actualización.
 
 ###### Artículo 4.
 
@@ -85,7 +87,7 @@ En las permutas se considerará que se efectúan dos adquisiciones.
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-###### ARTICULO 6°.
+###### ARTICULO 6º.
 
 La base del impuesto será la que resulte de aplicar al valor total del automotor contenido en la factura, el factor de la siguiente tabla de acuerdo al año de antigüedad de la unidad:
 
@@ -115,39 +117,9 @@ En ningún caso el impuesto será menor a once días de salario mínimo general 
 
 > <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
-###### ARTICULO 7°.
-
-La tasa del impuesto es el dos por ciento sobre la base indicada en el artículo anterior.
-
-###### ARTICULO 6º.
-
-La base del impuesto será la que resulte de aplicar al valor total del automotor contenido en la factura, de la siguiente tabla de acuerdo al año de antigüedad de la unidad:
-
-Años de antigüedad Factor
-
-1 0.850
-
-2 0.725
-
-3 0.600
-
-4 0.500
-
-5 0.400
-
-6 0.300
-
-7 0.225
-
-8 0.150
-
-9 0.075
-
-En ningún caso, el impuesto será menor a ocho días de salario mínimo general de la zona.
-
 ###### ARTICULO 7º.
 
-La tasa del impuesto es el 1.5% sobre la base indicada en el artículo anterior.
+La tasa del impuesto es el dos por ciento sobre la base indicada en el artículo anterior.
 
 ###### ARTICULO 8º.
 
@@ -441,15 +413,19 @@ IV. Llevar un registro acorde con sus sistemas de contabilidad, en el que consig
 
 V. En el caso de que dos o más establecimientos se encuentren ubicados en la misma localidad, el contribuyente deberá señalarlos todos en el aviso de inscripción, indicando el que deberá considerarse como domicilio para efectos fiscales;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
-VI. En el caso de que los contribuyentes de este impuesto gocen de incentivo y/o beneficio fiscal, deberán cumplir con todas las obligaciones que se le imponen para gozar de ese beneficio, y
+VI. En el caso de que los contribuyentes de este impuesto gocen de incentivo y/o beneficio fiscal, deberán cumplir con todas las obligaciones que se le imponen para gozar de ese beneficio;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
 VII. Presentar mediante dictamen emitido por contador público autorizado, la determinación del pago del Impuesto sobre Erogaciones por Remuneraciones al Trabajo Personal, cuando se trate de contribuyentes que hayan realizado pagos a más de doscientos trabajadores en promedio mensual o contribuyentes que hayan erogado más de diez millones de pesos por este concepto en el ejercicio fiscal, debiendo presentar, el dictamen a más tardar el 30 de junio del ejercicio inmediato posterior al que se dictamina en los términos de los Códigos Fiscal de la Federación y del Estado y de las reglas de carácter general, que para tales efectos expidan las autoridades fiscales.
 
-En el caso de que en el Dictamen se determinen diferencias de impuestos a pagar, estas deberán enterarse mediante declaración complementaria en las oficinas autorizadas dentro de los diez días siguientes posteriores a la presentación del dictamen.
+En el caso de que en el Dictamen se determinen diferencias de impuestos a pagar, estas deberán enterarse mediante declaración complementaria en las oficinas autorizadas dentro de los diez días siguientes posteriores a la presentación del dictamen, y
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+VIII. Deberán remitir tal y como se realiza ante el Servicio de Administración Tributaria, al momento de su emisión, el comprobante fiscal digital por Internet respectivo, a través de los mecanismos digitales que para tal efecto determine la Secretaría de Finanzas en su portal electrónico, mediante el instructivo que para el caso emita, siendo éste de carácter general, con el objeto de que la Secretaría de Finanzas proceda a validar el cumplimiento del pago de la contribución del impuesto sobre erogaciones por remuneraciones al trabajo personal.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -647,9 +623,17 @@ I. Presentar ante la Secretaría de Finanzas del Estado o ante la oficina recaud
 
 II. Presentar aviso ante las mismas autoridades, dentro de los 15 días hábiles siguientes de ocurrido uno o varios de los eventos como cambio de nombre, denominación o razón social, cambio de domicilio, sustitución patronal, suspensión de actividades o cualquier otra modificación a los datos aportados en el documento de empadronamiento;
 
-III. Llevar la contabilidad de sus operaciones en los registros correspondientes, en los términos y características fijadas por la legislación federal aplicable aún cuando conforme a estas no se tenga obligación de llevarla; y
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
-IV. El padrón de contribuyentes estará a cargo de la Secretaría de Finanzas del Estado de San Luis Potosí, el cual se conformará con la clave del registro federal de contribuyentes.
+III. Llevar la contabilidad de sus operaciones en los registros correspondientes, en los términos y características fijadas por la legislación federal aplicable aún cuando conforme a estas no se tenga obligación de llevarla;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+IV. El padrón de contribuyentes estará a cargo de la Secretaría de Finanzas del Estado de San Luis Potosí, el cual se conformará con la clave del registro federal de contribuyentes, y
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+V. Deberán remitir tal y como se realiza ante el Servicio de Administración Tributaria, al momento de su emisión, el comprobante fiscal digital por Internet respectivo, a través de los mecanismos digitales que para tal efecto determine la Secretaría de Finanzas en su portal electrónico, mediante el instructivo que para su caso emita, siendo éste de carácter general, con el objeto de que la Secretaría de Finanzas proceda a validar el cumplimiento del pago de la contribución del impuesto sobre servicios de hospedaje.
 
 ###### ARTICULO 36.
 
@@ -771,17 +755,13 @@ IV. Por la expedición de copias de actas certificadas del estado civil se pagar
 
 a) Por la expedición de copias de actas certificadas del Registro Civil se pagarán 0.41 si ésta la efectúa la Dirección del Registro Civil, 0.5 si la expide el Archivo Histórico del Estado; 0.82 si se expide por los sistemas automatizados de la Dependencia. Si se entregan a domicilio en la zona urbana de la Capital del Estado, dentro de las cuarenta y ocho horas siguientes a que se reciba la solicitud vía telefónica, se cobrará 2.0.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE DICIEMBRE DE 2012)</small>
+b) Por la expedición de copias certificadas fuera del Estado, tramitadas por las diferentes direcciones de Registro Civil, o sus equivalentes de las entidades federativas, en términos del Acuerdo de Colaboración para solicitud, trámite y obtención de copias certificadas de actas de Registro Civil, celebrado entre el Gobierno de las Entidades Federativas de la República Mexicana, entre sí, y la Secretaria de Gobernación, se cobrará 3.0.
 
-b) Por el envío de copias certificadas fuera del Estado, tramitadas por las diferentes direcciones del Registro Civil, o sus equivalentes de las entidades federativas, en términos del Acuerdo de Colaboración para la solicitud, trámite y obtención de copias certificadas de actas del Registro Civil, celebrado entre el Gobierno de las entidades federativas de la República Mexicana, entre sí, y la Secretaría de Gobernación, se cobrará 3.0.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
-
-c) Por expedición de copias certificadas de libros siniestrados, tomados del Apéndice de reposición, se cobrará 4.0.
+c) Por la elaboración de Apéndices de Reposición de Libros Siniestrados, se cobrará 4.0.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -791,21 +771,27 @@ d) (DEROGADO, P.O. 22 DE DICIEMBRE DE 2012)
 
 e) (DEROGADO, P.O. 22 DE DICIEMBRE DE 2012)
 
-V. Por la certificación de sello, firma y contenido de copias expedidas por las diferentes Oficialías del Registro Civil del Estado se pagarán 2;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 8 DE ENERO DE 2015)</small>
+V. Por la certificación de la copia fiel del libro duplicado se pagará 2.0;
 
-VI. Por resolución de enmienda administrativa en actas del Registro Civil, de conformidad a lo establecido en el artículo 136 de la Ley del Registro Civil, se pagarán 4.0; por las tramitadas por la Dirección, vía correo certificado, se pagarán 8.0;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+VI. Por resolución de enmienda administrativa en actas del Registro Civil, de conformidad a lo establecido en el artículo 136 de la Ley del Registro Civil, se pagará 4:78;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 VII. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2012)
 
-VIII. Por anotación marginal de enmienda administrativa en actas del Registro Civil se pagarán 0.78;
+VIII. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2015)
 
-IX. Por envío de actas del Registro Civil fuera del Estado, pero dentro del país, se pagarán 6.21 y, fuera del país se pagarán 11.64;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
-X. Por certificación de no encontrarse registrado nacimiento, matrimonio, defunción o cualquier acto del estado civil se pagarán 4;
+IX. Por envío de actas del Registro Civil fuera del Estado, pero dentro del País, se pagará 6.21;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+X. Por la expedición de Constancia de Inexistencia del acta de nacimiento se pagará 4;
 
 XI. Por legalización de exhorto, 0.5;
 
@@ -813,9 +799,21 @@ XII. Por registro de exhorto, 0.34;
 
 XIII. Por la legalización de firmas en las tarifas de establecimientos turísticos de calidad, 2.39;
 
-XIV. La autorización de tarifas en los establecimientos mencionados en esta fracción se otorgará por la Dirección Estatal de Turismo, para cuyo efecto será necesaria la conformidad de los Servicios Coordinados de Salud Pública en el Estado; y
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
-XV. Por la legalización de firmas de notario y otras autoridades administrativas, 2.39.
+XIV. La autorización de tarifas en los establecimientos mencionados en esta fracción se otorgará por la Dirección Estatal de Turismo, para cuyo efecto será necesaria la conformidad de los Servicios Coordinados de Salud Pública en el Estado;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+XV. Por la legalización de firmas de notario y otras autoridades administrativas, 2.39;
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+XVI. Por la impresión de copias certificadas de actas del estado civil de las personas, a través del sistema de Conexión Interestatal, se cobrará 2.0, y
+
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+XVII. Por el acuerdo administrativo para aclaración de libro original y duplicado, se cobrará el 2.0.
 
 ###### ARTICULO 39.
 
@@ -1709,6 +1707,22 @@ Tratándose de análisis microbiológicos de agua potable, refrescos, leche y su
 
 En el caso de análisis físico-químico de los productos citados en el párrafo inmediato anterior, se cobrará una tarifa de $300.00 por cada análisis.
 
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+ARTICULO 83 BIS. Por los servicios que preste el Estado, a través de las instituciones públicas de salud, se cobrarán los siguientes derechos:
+
+I. Los prestados por los Servicios de Salud del Estado:
+
+Los derechos se cobrarán conforme a los conceptos y las cuotas establecidas en el Anexo Único de la Ley de Ingresos correspondiente a cada ejercicio fiscal.
+
+Como regla general, el monto del cobro se establece en el nivel 5. Sin embargo, cuando el paciente o los familiares manifiesten que requieren apoyo adicional al respecto, el Departamento de Trabajo Social de la institución realizará un estudio socioeconómico y, en función del mismo, se establecerá el nivel de cobro que puede ir desde el exento, hasta el nivel 4. En las unidades médicas donde no se cuente con departamento de trabajo social, será responsabilidad del médico titular del mismo establecer el nivel del cobro. El nivel 6 se aplicará a los servicios médicos que se presten en función de convenios especiales celebrados con diferentes entidades, y
+
+II. Los prestados por el Hospital Central Dr. Ignacio Morones Prieto:
+
+Los derechos se cobrarán conforme a los conceptos y cuotas establecidas en el Anexo Único de la Ley de Ingresos correspondiente a cada ejercicio fiscal.
+
+El monto del cobro se realizará en función de los tabuladores establecidos, los cuales se determinarán en función del estudio socioeconómico que se le realice al paciente o familiar por parte del Departamento de Trabajo Social del Hospital, y podrán ser del A al D. El tabulador E únicamente aplicará a los pacientes con Seguro Popular, y los derechos correspondientes se les cobrarán a los Servicios de Salud del Estado de conformidad con los convenios celebrados.
+
 ### CAPITULO VII. DERECHOS POR EL USO DE BIENES DEL DOMINIO PUBLICO ESTATAL
 
 > <small>(ADICIONADO, P.O. 15 DE ABRIL DE 2003)</small>
@@ -2033,29 +2047,37 @@ La recaudación obtenida en términos del presente artículo se destinará en su
 
 ARTICULO 93 TER. Las personas que hagan uso del estacionamiento en los que forman parte de los bienes del Estado, cubrirán los derechos establecidos en pesos, previstos en el presente artículo, por vehículo:
 
-ESTACIONAMIENTO FUNDADORES EJE VIAL MADERO
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
-Hora o fracción $ 15.00 $ 12.00 $ 12.00
+ESTACIONA
 
-Exclusivo mensual $1,500.00 $700.00 $700.00
+MIENTOS FUNDADO EJE MADERO PLAN DE
 
-24 horas
+RES VIAL SAN LUIS
 
-Pensión nocturna -- $ 30.00 $ 30.00
+Hora o fracción $18.00 $14.00 $14.00 $5.00
 
-diaria
+Exclusivo mensual $1,800.00 $800.00 $800.00 -----
 
-Pensión nocturna $ 350.00 $350.00 $350.00
+Pensión nocturna diaria ----- $40.00 $40.00 -----
 
-mensual
+Pensión nocturna
 
-Pensión vespertina -- $250.00 $250.00
+Mensual $450.00 $450.00 $450.00 -----
 
-Exclusivo mensual -- $300.00 --
+Pensión vespertina ----- $350.00 $350.00 -----
 
-24 horas Niveles 7 y 8
+Exclusivo mensual ----- $400.00 ----- -----
 
-Por lo que respecta al estacionamiento Plan de San Luis, la tarifa aplicable será de $ 5.00 (CINCO PESOS 00/100 M.N.) durante todo el tiempo en que el vehículo permanezca en el estacionamiento en un horario de 8:00 a 15:00 horas. El exclusivo será de $ 250.00 (DOSCIENTOS CINCUENTA PESOS 00/100 M.N) mensual.
+niveles 7 y 8
+
+Exclusivo mensual ----- ----- ----- $300.00
+
+en horario de
+
+8:00 a 15:00 horas
+
+> <small>(DEROGADO PENÚLTIMO PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
 Los derechos anteriores no estarán sujetos a lo dispuesto por el artículo 93 de esta Ley.
 
@@ -2064,6 +2086,8 @@ Los derechos anteriores no estarán sujetos a lo dispuesto por el artículo 93 d
 ARTICULO 93 QUATER. Será considerado igualmente como derechos los ingresos obtenidos por la Administración Pública del Estado por el uso de bienes del dominio público o por la prestación de los servicios que otorguen a la ciudadanía.
 
 Los conceptos y tarifas estarán descritos en la Ley de Ingresos vigente para el Estado y/o en su Anexo Único, así como los comprendidos en otras disposiciones legales.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 84.
 
@@ -2113,17 +2137,21 @@ III. Por la recepción y la evaluación de la cédula de Operación Anual para l
 
 IV. Por el análisis y la contestación de solicitud de exención, exclusión o de no procedencia de permiso de operación de fuente fija, 30.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 86.
 
-Por los servicios de verificación y certificación de equipos de medición de contaminantes de vehículos automotores en circulación, en centros autorizados, se pagará el derecho de prevención y control de la contaminación conforme a la tarifa de 20 salarios mínimos.
+Por los servicios de verificación y de certificación de equipos de medición de contaminantes de vehículos automotores en circulación, en centros autorizados, se pagará el derecho de prevención y control de la contaminación, conforme a las tarifas siguientes:
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2006)</small>
+I. Verificación con vigencia de 6 meses, 3 salarios mínimos; y
+
+II. Verificación con vigencia de 12 meses, 6 salarios mínimos;
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 87.
 
-Por la autorización de centros de verificación de emisiones contaminantes de vehículos automotores, 60 salarios mínimos.
+Por la autorización o licencia de operación de centros de verificación de emisiones contaminantes de vehículos automotores, 5000 salarios mínimos; existe la obligación de pagar refrendo anual durante el mes de enero de cada ejercicio fiscal, de 500 salarios mínimos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -2183,7 +2211,35 @@ Por la evaluación y, en su caso, aprobación del estudio de riesgo, para quiene
 
 Por la solicitud de modificación o ampliación de las resoluciones del estudio de riesgo ambiental, se pagará el 50% de la tarifa establecida en el presente artículo.
 
-### CAPITULO UNICO
+### CAPÍTULO VIII. SERVICIOS PRESTADOS POR LA SECRETARÍA DE DESARROLLO ECONÓMICO
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+ARTICULO 93 QUINQUE. Por los servicios prestados en los términos de la Ley del Registro de Agentes Inmobiliarios del Estado de San Luis Potosí, se causarán las siguientes cuotas en salarios mínimos:
+
+CONCEPTO CUOTA
+
+Por la inscripción de personas morales en el Registro de
+
+Agentes inmobiliarios del Estado de San Luis Potosí 15
+
+Por la inscripción de personas físicas en el Registro de
+
+Agentes Inmobiliarios del Estado de San Luis Potosí, como
+
+asesor inmobiliario 15
+
+Por la inscripción de personas físicas en el Registro de
+
+Agentes Inmobiliarios del Estado de San Luis Potosí, como
+
+agente inmobiliario. 15
+
+Por la revalidación anual de personas físicas y morales en
+
+el Registro de Agentes Inmobiliarios del Estado de San
+
+Luis Potosí 8
 
 ###### ARTICULO 91.
 
@@ -2226,6 +2282,8 @@ Todos los derechos previstos en esta Ley se incrementarán a una tasa del veinti
 ### CAPITULO UNICO
 
 ## TITULO CUARTO. CONTRIBUCIONES DE MEJORAS
+
+### CAPITULO UNICO
 
 ###### ARTICULO 94.
 
@@ -2671,7 +2729,9 @@ d) Plano de más de 1.0x1.0 m. 6.0
 
 XV. Fotomapa. 3.7
 
-XVI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2013)
+> <small>(ADICIONADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+XVI. Forma valorada para la certificación de Actas del Registro Civil, se cobrará 0.10.
 
 XVII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2013)
 
@@ -2936,3 +2996,11 @@ P.O. 26 DE MAYO DE 2015.
 PRIMERO. Este Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 19 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0073.- REFORMAS, ADICIONES Y DEROGACIONES DE Y A LA LEY DE HACIENDA PARA EL ESTADO; SE REFORMA EL ARTÍCULO 31 DE LA LEY DE SALUD DEL ESTADO".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
