@@ -4,7 +4,7 @@ identifier: "JAL-constitucion-politica-del-estado-de-jalisco-5809"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-07-21"
-last_updated: "2015-11-12"
+last_updated: "2015-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5809&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2015.
 
 Constitución publicada en el Periódico Oficial del Estado de Jalisco, el 21, 25 y 28 de julio y 1 de agosto de 1917.
 
@@ -101,9 +101,9 @@ Todas las autoridades, en el ámbito de sus competencias, tienen la obligación 
 
 Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias de todo tipo, incluyendo las sexuales, el estado civil o cualquiera otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas.
 
-> <small>(ADICIONADO, P.O. 26 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
-El derecho a la información pública será garantizado por el Estado en los términos de esta Constitución y la ley respectiva.
+El derecho a la información pública y la protección de datos personales será garantizado por el Estado en los términos de lo que establecen la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado Mexicano sea parte, esta Constitución y las leyes en la materia.
 
 > <small>(REFORMADO, P.O. 28 DE JULIO DE 2015)</small>
 
@@ -463,17 +463,33 @@ III. La participación ciudadana en la toma de decisiones públicas, mediante el
 
 IV. La información pública veraz y oportuna;
 
-V. La protección de la información confidencial de las personas; y
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
-VI. La promoción de la cultura de transparencia, la garantía del derecho a la información y la resolución de las controversias que se susciten por el ejercicio de este derecho a través del Instituto de Transparencia e Información Pública de Jalisco.
+V. La protección de datos personales en posesión de sujetos obligados; y
 
-El Instituto es un órgano público autónomo, con personalidad jurídica y patrimonio propio.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 5 DE JULIO DE 2007)</small>
+VI. La promoción de la cultura de transparencia, la garantía del derecho a la información y la resolución de las controversias que se susciten por el ejercicio de este derecho a través del Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco.
 
-Contará con un Consejo, conformado por un Presidente y dos consejeros titulares, así como por los suplentes respectivos; los miembros del Consejo serán nombrados mediante el voto de dos terceras partes de los integrantes del Congreso del Estado, o por insaculación, conforme a los requisitos y procedimientos que establezca la ley.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
-El Instituto tendrá las atribuciones específicas que la ley le otorgue; sus resoluciones serán definitivas e inatacables, vinculantes y deberán ser cumplidas por los Poderes, entidades y dependencias públicas del Estado, Ayuntamientos y por todo organismo, público o privado, que reciba, administre o aplique recursos públicos estatales o municipales.
+El Instituto es un órgano público autónomo, con personalidad jurídica y patrimonio propio, el cual en su funcionamiento se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad. En el ámbito de sus atribuciones coadyuvará en la implementación de políticas y mecanismos de apertura gubernamental.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+El Instituto estará conformado por un Presidente y dos comisionados titulares, así como por los suplentes respectivos; los miembros del Pleno del Instituto serán nombrados mediante el voto de dos terceras partes de los integrantes del Congreso del Estado, o por insaculación, conforme a los requisitos y procedimientos que establezca la ley, procurando la igualdad de género.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+El Instituto tendrá las atribuciones específicas que la ley le otorgue; sus resoluciones serán definitivas, inatacables, vinculantes y deberán ser cumplidas por los Poderes, entidades y dependencias públicas del Estado, Ayuntamientos, por todo organismo público, así como de cualquier persona física, jurídica o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad, en términos de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Transparencia y Acceso a la Información Pública, esta Constitución y demás normatividad en la materia, salvo lo establecido en los siguientes párrafos.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+En contra de las resoluciones del Instituto a los recursos de revisión que confirmen o modifiquen la clasificación de la información, o confirmen la inexistencia o negativa de información, los particulares podrán optar por acudir ante el Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales, de conformidad con la Ley General en materia de transparencia, o ante el Poder Judicial de la Federación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+El Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales también conocerá de los recursos de revisión que señale la Ley General en materia de transparencia.
 
 > <small>(REFORMADO, P.O. 13 DE JULIO DE 1994)</small>
 
@@ -837,9 +853,13 @@ IX. Las autoridades estatales y municipales promoverán y garantizarán la trans
 
 X. El Estado y los municipios planearán, regularán y fomentarán la actividad económica mediante la competitividad, con la concurrencia de los sectores social, público y privado, en el marco de libertades que otorga la Constitución General de la República; procurarán la generación de empleos y una más justa distribución del ingreso y la riqueza, y bajo criterios de equidad social, productividad y sustentabilidad presupuestaria apoyarán e impulsarán a las empresas de los sectores social y privado de la economía.
 
-La ley regulará el ejercicio del derecho a la información pública y el procedimiento para hacerlo efectivo; las obligaciones por parte de los sujetos de aplicación de la ley respecto a la transparencia y el derecho a la información pública, así como las sanciones por su incumplimiento.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
-Será obligación de las autoridades estatales y municipales, así como de cualquier otro organismo, público o privado, que reciba, administre o aplique recursos públicos, proporcionar la información pública en su posesión, rendir cuentas de sus funciones y permitir el ejercicio del derecho a la información en los términos de la ley.
+La ley regulará el ejercicio del derecho a la información pública y el procedimiento para hacerlo efectivo; las obligaciones por parte de los sujetos de aplicación de la ley respecto a la transparencia y el derecho a la información pública, así como las sanciones por su incumplimiento, de conformidad con lo establecido por la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Transparencia y Acceso a la Información Pública, esta Constitución y demás normatividad aplicable en la materia.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+Será obligación de las autoridades estatales y municipales, de cualquier otro organismo público, así como de cualquier persona física, jurídica o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad, proporcionar la información pública en su posesión, rendir cuentas de sus funciones y permitir el ejercicio del derecho a la información en los términos de la ley.
 
 > <small>(REFORMADO, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -1195,17 +1215,17 @@ XIII. Designar, en los términos que previene esta Constitución, al ciudadano q
 
 XIV. Convocar a elecciones extraordinarias cuando fuere necesario y decidir conforme a sus atribuciones;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
-XV. Conocer y resolver sobre las renuncias de los diputados, del Gobernador del Estado, de los magistrados del Poder Judicial; de los consejeros integrantes del Consejo de la Judicatura; del Presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos y del Presidente y consejeros del Instituto de Transparencia e Información Pública de Jalisco;
+XV. Conocer y resolver sobre las renuncias de los diputados, del Gobernador del Estado, de los magistrados del Poder Judicial; de los consejeros integrantes del Consejo de la Judicatura; del Presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos y del Presidente y comisionados del Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco;
 
 > <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
 XVI. Conceder o negar licencias a los diputados y al Gobernador del Estado para separarse de sus cargos y, además a este último, para permanecer fuera del territorio del Estado;
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
-XVII. Conceder o negar las licencias para ausentarse de sus cargos que, por más de dos meses, soliciten los magistrados del Poder Judicial, el Presidente y consejeros del Instituto de Transparencia e Información Pública de Jalisco, así como el Presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos, en los términos que establezca la ley;
+XVII. Conceder o negar las licencias para ausentarse de sus cargos que, por más de dos meses, soliciten los magistrados del Poder Judicial, el Presidente y comisionados del Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco, así como el Presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos, en los términos que establezca la ley;
 
 > <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2013)</small>
 
@@ -1287,11 +1307,11 @@ XXXI. Expedir su Ley Orgánica, formar sus reglamentos y dictar las disposicione
 
 XXXII. Expedir el bando solemne para dar a conocer la declaración de Gobernador electo hecha por el Instituto Electoral, en la forma y términos que establezca la ley de la materia; y
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2007)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
-XXXIII. Elegir al Presidente y a los consejeros del Instituto de Transparencia e información Pública de Jalisco, con la aprobación de las dos terceras partes de los diputados integrantes de la Legislatura, o por insaculación, en los términos que establezca la ley de la materia.
+XXXIII. Elegir al Presidente y a los comisionados del Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco, con la aprobación de las dos terceras partes de los diputados integrantes de la legislatura, o por insaculación, en los términos que establezca la ley de la materia.
 
-El Presidente y los consejeros durarán en su encargo cuatro años y sólo podrán ser removidos de sus funciones en los términos del Título Octavo de esta Constitución; podrán ser reelectos por una sola ocasión conforme al procedimiento para su nombramiento de conformidad con la ley; y
+El Presidente y los comisionados durarán en su encargo cinco años y sólo podrán ser removidos de sus funciones en los términos del Título Octavo de esta Constitución;
 
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
 
@@ -2493,9 +2513,9 @@ En los juicios del orden civil no hay fuero ni inmunidad.
 
 El procedimiento del juicio político se regirá conforme a las siguientes prevenciones:
 
-> <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
-I. Serán sujetos de juicio político los diputados del Congreso del Estado; los magistrados del Poder Judicial y jueces de primera instancia; los titulares de las secretarías dependientes del Poder Ejecutivo del Estado; el Contralor del Estado, el Fiscal General y el Procurador Social; los integrantes del Consejo de la Judicatura; los consejeros electorales del Instituto Electoral del Estado; los magistrados del Tribunal Electoral del Estado; el Presidente y los consejeros de la Comisión Estatal de Derechos Humanos; el Presidente y los consejeros del Instituto de Transparencia e Información Pública de Jalisco; el Auditor Superior del Estado; el Presidente de la Junta Local de Conciliación y Arbitraje; los presidentes, regidores, síndicos o concejales; los funcionarios encargados de la Secretaría General de los ayuntamientos; los funcionarios encargados de las haciendas municipales; así como los titulares de organismos públicos descentralizados y empresas de participación estatal y municipal mayoritaria;
+I. Serán sujetos de juicio político los diputados del Congreso del Estado; los magistrados del Poder Judicial y jueces de primera instancia; los titulares de las secretarías dependientes del Poder Ejecutivo del Estado; el Contralor del Estado, el Fiscal General y el Procurador Social; los integrantes del Consejo de la Judicatura; los consejeros electorales del Instituto Electoral del Estado; los magistrados del Tribunal Electoral del Estado; el Presidente y los consejeros de la Comisión Estatal de Derechos Humanos; el Presidente y los comisionados del Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco; el Auditor Superior del Estado; el Presidente de la Junta Local de Conciliación y Arbitraje; los presidentes, regidores, síndicos o concejales; los funcionarios encargados de la Secretaría General de los ayuntamientos; los funcionarios encargados de las haciendas municipales; así como los titulares de organismos públicos descentralizados y empresas de participación estatal y municipal mayoritaria;
 
 II. Se determinará la responsabilidad de los servidores públicos mediante juicio político, cuando en el ejercicio de sus funciones incurran en actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho;
 
@@ -2531,11 +2551,11 @@ La comisión de delitos por parte de cualquier servidor público será perseguid
 
 Las leyes determinarán los casos y las circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito, a los servidores públicos que, durante el tiempo de su encargo o por motivos del mismo, por sí o por interpósita persona, aumenten substancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, sin que puedan demostrar su procedencia lícita. La ley sancionará con el decomiso y con la privación de la propiedad de dichos bienes, sin que se pueda considerar confiscatoria, además de las otras penas que correspondan.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
 ###### Art. 100.
 
-Para actuar penalmente contra los diputados al Congreso del Estado; los titulares de las secretarías del Poder Ejecutivo; el Fiscal General y el Procurador Social; los magistrados del Poder Judicial del Estado; el Presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; el Presidente y consejeros electorales del Instituto Electoral y de Participación Ciudadana del Estado; los magistrados del Tribunal Electoral del Estado; el Presidente y consejeros del Instituto de Transparencia e Información Pública de Jalisco; el Auditor Superior del Estado; los presidentes municipales, regidores, síndicos y concejales de los ayuntamientos o concejos municipales, se requerirá establecer la procedencia de acuerdo con las siguientes normas:
+Para actuar penalmente contra los diputados al Congreso del Estado; los titulares de las secretarias del Poder Ejecutivo; el Fiscal General y el Procurador Social; los magistrados del Poder Judicial del Estado; el Presidente y los consejeros ciudadanos de la Comisión Estatal de Derechos Humanos; el Presidente y consejeros electorales del Instituto Electoral y de Participación Ciudadana del Estado; los magistrados del Tribunal Electoral del Estado; el Presidente y comisionados del Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco; el Auditor Superior del Estado; los presidentes municipales, regidores, síndicos y concejales de los ayuntamientos o concejos municipales, se requerirá establecer la procedencia de acuerdo con las siguientes normas:
 
 > <small>(REFORMADA, P.O. 28 DE ABRIL DE 1997)</small>
 
@@ -2665,11 +2685,11 @@ Los cargos de elección popular directa son preferentes a los de nombramiento, s
 
 Los demás cargos serán aceptables voluntariamente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
 ###### Art. 111.
 
-Los diputados del Congreso del Estado, el Gobernador, los magistrados, consejeros y jueces del Poder Judicial del Estado, los integrantes del Tribunal de Arbitraje y Escalafón, los consejeros electorales del Instituto Electoral y de Participación Ciudadana, los magistrados del Tribunal Electoral, los integrantes de la Comisión Estatal de Derechos Humanos, los consejeros del Instituto de Transparencia e Información Pública del Estado, los presidentes municipales, regidores, síndicos, concejales y demás servidores públicos estatales y municipales, recibirán una remuneración adecuada, equitativa e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que se compone del sueldo y las prestaciones establecidas en la ley, misma que será determinada anualmente en los presupuestos de egresos del Estado, de los municipios o de los organismos públicos descentralizados, según corresponda, debiendo para su validez, cumplir con los principios de austeridad, disciplina presupuestal, racionalidad, proporcionalidad, equidad, certeza, motivación y demás requisitos establecidos en la ley.
+Los diputados del Congreso del Estado, el Gobernador, los magistrados, consejeros y jueces del Poder Judicial del Estado, los integrantes del Tribunal de Arbitraje y Escalafón, los consejeros electorales del Instituto Electoral y de Participación Ciudadana, los magistrados del Tribunal Electoral, los integrantes de la Comisión Estatal de Derechos Humanos, los comisionados del Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco, los presidentes municipales, regidores, síndicos, concejales y demás servidores públicos estatales y municipales, recibirán una remuneración adecuada, equitativa e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que se compone del sueldo y las prestaciones establecidas en la ley, misma que será determinada anualmente en los presupuestos de egresos del Estado, de los municipios o de los organismos públicos descentralizados, según corresponda, debiendo para su validez, cumplir con los principios de austeridad, disciplina presupuestal, racionalidad, proporcionalidad, equidad, certeza, motivación y demás requisitos establecidos en la ley.
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2004)</small>
 
@@ -3468,3 +3488,11 @@ DECRETO NÚMERO 25023/LX/14 POR EL QUE SE REFORMAN LOS ARTÍCULOS 4°, 5° Y 15 
 P.O. 12 DE NOVIEMBRE DE 2015.
 
 ÚNICO. EI presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "EI Estado de Jalisco".
+
+P.O. 19 DE DICIEMBRE DE 2015.
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+SEGUNDO. Los actuales consejeros del Instituto de Transparencia e Información Pública de Jalisco concluirán el periodo para el que fueron electos y podrán ser electos para un nuevo periodo de conformidad con el párrafo siguiente.
+
+El Comisionado Presidente electo durará en el cargo cinco años; un comisionado será electo por un periodo de cinco años y, por única ocasión, se nombrará un comisionado por un periodo de cuatro años.
