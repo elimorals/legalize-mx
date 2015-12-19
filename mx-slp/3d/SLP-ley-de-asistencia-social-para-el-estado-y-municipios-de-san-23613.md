@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-asistencia-social-para-el-estado-y-municipios-de-san-236
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-19"
-last_updated: "2014-12-02"
+last_updated: "2015-12-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE ASISTENCIA SOCIAL PARA EL ESTADO Y MUNICIPIOS DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 19 de enero de 2002.
 
@@ -65,7 +65,9 @@ I. DIF Estatal: El Sistema para el Desarrollo Integral de la Familia del Estado;
 
 II. DIF Municipal: El Sistema Municipal para el Desarrollo Integral de la Familia;
 
-III. PRODEM: La Procuraduría de la Defensa del Menor, la Mujer y la Familia;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+III. Procuraduría de Protección: La Procuraduría de Protección de Niñas, Niños, Adolescentes, la Mujer, la Familia y el Adulto Mayor;
 
 IV. Grupos vulnerables: Toda persona que pueda incluirse en las siguientes categorías:
 
@@ -123,13 +125,19 @@ d) La capacitación a la familia de técnicas efectivas para el tratamiento de p
 
 e) El tratamiento integral a las personas que viven violencia familiar, en centros de atención especializados.
 
-f) La gestión de trámites de adopción de menores en estado de desamparo conforme a la legislación civil.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
-g) La repatriación de menores en estado de riesgo.
+f) La gestión de trámites de adopción de niñas, niños y adolescentes en estado de desamparo conforme a la legislación civil.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+g) La repatriación de niñas, niños y adolescentes en estado de riesgo.
 
 h) La concertación de acciones para cubrir las necesidades de los sujetos de asistencia social.
 
-i) El ejercicio de la tutela o custodia, según sea el caso, de los menores albergados en instituciones públicas y privadas, en los términos de las disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+i) El ejercicio de la tutela o custodia, según sea el caso, de niñas, niños y adolescentes albergados en instituciones públicas y privadas, en los términos de las disposiciones legales aplicables.
 
 j) La asistencia social en materia de nutrición, emprendiendo acciones para proporcionar a grupos vulnerables, de manera temporal, ayuda alimentaria directa, orientación nutricional y en coordinación con los Servicios de Salud en el Estado, la vigilancia de su peso y talla.
 
@@ -149,7 +157,9 @@ I. En situación especialmente difícil originada por discapacidad;
 
 II. En riesgo:
 
-a) Los menores hijos de jornaleros migrantes.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+a) Niñas, niños y adolescentes hijas o hijos de jornaleros migrantes.
 
 b) Los habitantes del medio rural o urbano asentados en localidades con características socioeconómicas deficientes en forma permanente.
 
@@ -157,7 +167,9 @@ c) Las personas afectadas por desastres naturales o provocados;
 
 III. En estado de abandono:
 
-a) Los menores.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+a) Niñas, niños y adolescentes.
 
 b) Las mujeres.
 
@@ -171,7 +183,9 @@ d) Las personas enfermas crónicas y, en caso de existir, a la persona que esté
 
 IV. En estado de desventaja social:
 
-a) Los menores:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+a) Niñas, niños y adolescentes.
 
 1. Migrantes y repatriados.
 
@@ -183,9 +197,13 @@ a) Los menores:
 
 5. Que trabajen en condiciones que afecten su desarrollo e integridad.
 
-6. Hijos de jornaleros migrantes.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
-7. Hijos de madres y padres privados de la libertad que no tengan familiares que se hagan cargo de ellos.
+6. Hijas o hijos de jornaleros migrantes.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+7. Hijas o hijos de madres y padres privados de la libertad que no tengan familiares que se hagan cargo de ellos.
 
 > <small>(REFORMADO, P.O. 12 DE SEPTIEMBRE DE 2006)</small>
 
@@ -209,11 +227,9 @@ c) Los adultos mayores en situación de maltrato físico o mental.
 
 d) Los indigentes.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 30 DE JULIO DE 2011)</small>
-
-e) A las familias que se encuentren en situación de calle, por encontrarse en estado de desventaja social y que tengan a su cargo menores, personas con discapacidad o adultos mayores;
+e) A las familias que se encuentren en situación de calle, por encontrarse en estado de desventaja social y que tengan a su cargo niñas, niños y adolescentes, personas con discapacidad o adultos mayores;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -245,7 +261,7 @@ Las dependencias y entidades de la administración pública que integran el sist
 
 I. La Secretaría de Desarrollo Social y Regional;
 
-II. La Secretaría de Planeación del Desarrollo;
+II. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2015)
 
 III. La Secretaría de Finanzas;
 
@@ -257,7 +273,9 @@ VI. El DIF Estatal;
 
 VII. La Procuraduría General de Justicia, y
 
-VIII. La Unidad de Protección Civil en el Estado.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+VIII. La Coordinación Estatal de Protección Civil.
 
 ###### ARTICULO 10.
 
@@ -281,7 +299,7 @@ I. El Gobernador Constitucional del Estado, quien lo presidirá;
 
 II. El Secretario de Desarrollo Social y Regional;
 
-III. El Secretario de Planeación del Desarrollo;
+III. (DEROGADA, P.O. 19 DE DICIEMBRE DE 2015)
 
 IV. El Secretario de Finanzas;
 
@@ -293,7 +311,9 @@ VII. El Director General del DIF Estatal;
 
 VIII. El Procurador General de Justicia, y
 
-IX. El Director de Protección Civil en el Estado.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+IX. El Director General de la Coordinación Estatal de Protección Civil.
 
 El Consejo contará con un Secretario Técnico que será el Director General del DIF Estatal.
 
@@ -357,9 +377,13 @@ d) Promover la creación de fondos mixtos para la asistencia social.
 
 e) Asignar de acuerdo a su disponibilidad, recursos económicos temporales y otorgar apoyos técnicos a instituciones que lo soliciten, con base en los criterios que sean fijados por la Junta Directiva, por esta Ley y su Reglamento.
 
-f) Operar establecimientos de asistencia social en beneficio de menores, mujeres y adultos mayores en situación vulnerable.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
-g) Autorizar los procedimientos de adopción de los menores que se encuentren albergados en instituciones públicas y privadas, fungiendo como autoridad central en materia de adopciones internacionales en los términos de la Convención sobre la Protección de Menores y la Cooperación en materia de adopción internacional de La Haya, así como del Código Civil del Estado.
+f) Operar establecimientos de asistencia social en beneficio de niñas, niños y adolescentes, mujeres y adultos mayores en situación vulnerable.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+g) Autorizar los procedimientos de adopción de niñas, niños y adolescentes que se encuentren albergados en instituciones públicas y privadas, fungiendo como autoridad central en materia de adopciones internacionales, en los términos de la Convención sobre la Protección de Menores y la Cooperación en materia de adopción internacional de La Haya, así como del Código Familiar para el Estado de San Luis Potosí.
 
 > <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2010)</small>
 
@@ -435,7 +459,9 @@ ARTICULO 18 BIS. El DIF Estatal establecerá una vinculación sistemática entre
 
 A efecto de otorgar la atención a los sujetos de asistencia social a que se refiere esta Ley, el DIF Estatal contará con establecimientos públicos de asistencia social, que tendrán por objeto:
 
-I. El albergue temporal de menores con o sin discapacidad, mujeres y adultos mayores en situación vulnerable, en donde se llevan a cabo preferentemente los siguientes servicios:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+I. El albergue temporal de niñas, niños y adolescentes con o sin discapacidad, mujeres y adultos mayores en situación vulnerable, en donde se llevan a cabo preferentemente los siguientes servicios:
 
 > <small>(REFORMADO, P.O. 2 DE DICIEMBRE DE 2014)</small>
 
@@ -443,7 +469,9 @@ a) La alimentación y bebidas con alto contenido nutricional y bajo o nulo conte
 
 b) El fomento y cuidado de la salud.
 
-c) La vigilancia del desarrollo educativo en el caso de los menores.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+c) La vigilancia del desarrollo educativo en el caso de niñas, niños y adolescentes.
 
 d) La promoción de actividades educativas y recreativas.
 
@@ -465,11 +493,11 @@ El DIF Estatal operará los establecimientos públicos de asistencia social en l
 
 Asimismo, supervisará mediante los procedimientos que establece la ley, que los establecimientos privados cuyo objeto primordial sea la prestación de servicios de asistencia social, operen conforme a lo establecido en el párrafo que antecede.
 
-> <small>(REFORMADO, P.O. 12 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 21.
 
-Con el objeto de procurar y proteger el interés superior de los menores sujetos de adopción, que se encuentren albergados en instituciones públicas y privadas autorizadas, el DIF Estatal constituirá e integrará el Consejo Estatal de Adopciones, y el Consejo Técnico de Adopciones.
+Con el objeto de procurar y proteger el interés superior de niñas, niños y adolescentes sujetos a adopción, que se encuentren albergados en instituciones públicas y privadas autorizadas, el DIF Estatal constituirá e integrará el Consejo Estatal de Adopciones, y el Consejo Técnico de Adopciones.
 
 > <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2007)</small>
 
@@ -503,11 +531,15 @@ II. Establecer los requisitos administrativos para adoptar;
 
 III. Coordinarse con las autoridades competentes, a fin de cumplir con su objeto general y las funciones propias del Consejo;
 
-IV. Instituir y mantener actualizado un padrón de instituciones públicas o privadas que tengan en custodia menores susceptibles de adopción;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+IV. Instituir y mantener actualizado un padrón de instituciones públicas o privadas que tengan en custodia niñas, niños y adolescentes susceptibles de adopción;
 
 V. Determinar las instituciones públicas y privadas competentes para que realicen las evaluaciones necesarias en materia de adopción;
 
-VI. Fomentar la cultura de la adopción de menores susceptibles de ello, y
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+VI. Fomentar la cultura de la adopción de niñas, niños y adolescentes susceptibles de ello, y
 
 VII. Las demás que le confiera ésta y otras leyes.
 
@@ -523,7 +555,9 @@ II. Titular de la Dirección General del DIF Estatal: Presidencia Ejecutiva;
 
 III. Titular de la Dirección de Asuntos Jurídicos del DIF Estatal: Secretaría Técnica;
 
-IV. Primera Consejería: Procuraduría de la Defensa del Menor, la Mujer y la Familia en el Estado;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+IV. Primera Consejería: Procuraduría de Protección de Niñas, Niños, Adolescentes, la Mujer, la Familia y el Adulto Mayor;
 
 V. Segunda Consejería: Presidencia de la Junta Directiva de la Casa Cuna Margarita Maza de Juárez;
 
@@ -539,21 +573,31 @@ El cargo de integrante del Consejo Técnico de Adopciones será honorífico y no
 
 Para el mejor desempeño de sus funciones, el Consejo Técnico de Adopciones, previo acuerdo, podrá solicitar la opinión de personas expertas en la materia, las que participarán en las sesiones del Consejo, con voz, pero sin voto.
 
-La forma de sesionar del Consejo Técnico de Adopciones, así como el procedimiento administrativo de solicitud de adopción, y las facultades de cada uno de sus miembros, se establecen en el Reglamento del Consejo Técnico de Adopciones del DIF Estatal, el cual se ajustará a lo que dispone el Código Civil para el Estado, esta Ley, su Reglamento y demás disposiciones legales aplicables.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+La forma de sesionar del Consejo Técnico de Adopciones, así como el procedimiento administrativo de solicitud de adopción, y las facultades de cada uno de sus miembros, se establecen en el Reglamento del Consejo Técnico de Adopciones del DIF Estatal, el cual se ajustará a lo que dispone el Código Familiar para el Estado de San Luis Potosí, esta Ley, su Reglamento y demás disposiciones legales aplicables.
 
 > <small>(ADICIONADO, P.O. 12 DE JUNIO DE 2007)</small>
 
 ARTICULO 21 QUINQUE. El Consejo Técnico de Adopciones tendrá las siguientes atribuciones:
 
-l. Analizar detalladamente el cumplimiento de los requisitos administrativos, los expedientes para adopción propuestos al Consejo Técnico de Adopciones por la Secretaría Técnica, y los demás elementos propios del trámite administrativo, procurando en todo momento el interés superior del menor susceptible de adopción;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+I. Analizar detalladamente el cumplimiento de los requisitos administrativos, los expedientes para adopción propuestos al Consejo Técnico de Adopciones por la Secretaría Técnica, y los demás elementos propios del trámite administrativo, procurando en todo momento el interés superior de la niñez y adolescencia susceptible de adopción;
 
 II. Declarar la idoneidad o lo que proceda en su caso, de conformidad con los requisitos de adopción, previa revisión y debate acerca del expediente administrativo de las personas solicitantes;
 
-III. Asignar a los menores susceptibles de adopción albergados en las instituciones públicas, a los solicitantes previamente declarados idóneos;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
-IV. Ordenar a las áreas correspondientes o canalizar a servicios profesionales externos, para la realización de las investigaciones y estudios complementarios, que permitan enriquecer el criterio del Consejo, en relación a los solicitantes o a los menores susceptibles de adopción;
+III. Asignar a niñas, niños y adolescentes susceptibles de adopción albergados en las instituciones públicas, a los solicitantes previamente declarados idóneos;
 
-V. Adoptar las medidas pertinentes en cada caso, en lo referente a las convivencias temporales del menor con los solicitantes;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+IV. Ordenar a las áreas correspondientes o canalizar a servicios profesionales externos, para la realización de las investigaciones y estudios complementarios, que permitan enriquecer el criterio del Consejo, en relación a los solicitantes, o a niñas, niños y adolescentes susceptibles de adopción;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+V. Adoptar las medidas pertinentes en cada caso, en lo referente a las convivencias temporales de las niñas, niños y adolescentes con los solicitantes;
 
 VI. Intervenir, a través de las áreas respectivas, en el seguimiento de la convivencia en las etapas previas a la adopción y posteriores a la misma;
 
@@ -561,7 +605,9 @@ VII. Establecer la coordinación con instituciones públicas y privadas en el á
 
 VIII. Llevar registro y control de las solicitudes de adopción aprobadas;
 
-IX. Mantener el archivo especializado de expedientes de los menores otorgados en adopción, y
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+IX. Mantener el archivo especializado de expedientes de niñas, niños y adolescentes otorgados en adopción, y
 
 X. Las demás que establezca la legislación vigente en materia de adopciones.
 
@@ -575,9 +621,11 @@ El DIF Estatal llevará a cabo programas y acciones con el objeto de reducir la 
 
 La coordinación de los programas y acciones a que refiere el párrafo anterior, se establecerá en el Reglamento Interno del DIF Estatal.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 23.
 
-En los casos de desastre natural o provocado, el DIF Estatal, conforme a sus funciones y sin perjuicio de las atribuciones que tengan otras dependencias y entidades, participará con la Unidad Estatal y las unidades municipales de protección civil, en las acciones necesarias para enfrentar la emergencia.
+En los casos de desastre natural o provocado, el DIF Estatal, conforme a sus funciones y sin perjuicio de las atribuciones que tengan otras dependencias y entidades, participará con la Coordinación Estatal y las coordinaciones municipales de protección civil, en las acciones necesarias para enfrentar la emergencia.
 
 ###### ARTICULO 24.
 
@@ -661,9 +709,13 @@ I. Ejecutar los acuerdos y disposiciones de la Junta Directiva;
 
 II. Presentar para el conocimiento y aprobación de la Junta Directiva, los planes laborales, presupuestos, informe de actividades y estados financieros anuales del DIF Estatal, acompañados de los dictámenes y documentos que resulten pertinentes, y las recomendaciones que al efecto formule el Contralor Interno;
 
-III. Nombrar y remover de conformidad con lo establecido en la Ley de los Trabajadores al Servicio de las Instituciones Públicas de Gobierno del Estado, a los empleados de base y de confianza;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
-IV. Informar a la Junta Directiva la designación o remoción en su caso de directores, subdirectores, Procurador y Subprocurador de la PRODEM;
+III. Nombrar y remover de conformidad con lo establecido en la Ley de los Trabajadores al Servicio de las Instituciones Públicas del Estado de San Luis Potosí, a los empleados de base y de confianza;
+
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+IV. Informar a la Junta Directiva la designación o remoción, en su caso, de directores, subdirectores, Fiscal, y Subprocurador de la Procuraduría de Protección;
 
 V. Expedir o autorizar los nombramientos del personal y dirigir las relaciones laborales de acuerdo con las disposiciones legales aplicables;
 
@@ -727,115 +779,217 @@ Las relaciones de trabajo entre el DIF Estatal y sus trabajadores se regirán po
 
 Los trabajadores del DIF Estatal contarán con los beneficios y servicios de seguridad social que las leyes de la materia determinan.
 
-## TITULO SEGUNDO. DE LA PROCURADURIA DE LA DEFENSA DEL MENOR, LA MUJER Y LA FAMILIA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+## TITULO SEGUNDO. DE LA PROCURADURIA DE PROTECCION DE NIÑAS, NIÑOS, ADOLESCENTES, LA MUJER, LA FAMILIA, Y EL ADULTO MAYOR
 
 ### CAPITULO I. De su Naturaleza y Funciones
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 34.
 
-La PRODEM es un órgano especializado del DIF Estatal con autonomía técnica, cuyos objetivos son brindar servicios de orientación, asesoría, información y gestión jurídica en materia familiar a los sujetos de asistencia social.
+La Procuraduría de Protección es un órgano especializado del DIF Estatal, con autonomía técnica; cuyos objetivos son brindar servicios de orientación, asesoría, información y gestión jurídica en materia familiar, a los sujetos de asistencia social.
+
+En el ejercicio de sus funciones la Procuraduría de Protección podrá solicitar el auxilio de autoridades de los tres órdenes de gobierno, las que estarán obligadas a proporcionarlo de conformidad con esta Ley, la Ley General y las disposiciones aplicables. La negativa será causal de responsabilidad de los servidores públicos.
+
+Para la debida determinación, coordinación de la ejecución y seguimiento de las medidas de protección integral y restitución de los derechos de niñas, niños y adolescentes, la Procuraduría de Protección deberá establecer contacto y trabajar conjuntamente con las autoridades administrativas de asistencia social, de servicios de salud, de educación, de protección social, de cultura, deporte y con todas aquéllas con las que sea necesario, para garantizar los derechos de niñas, niños y adolescentes.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 35.
 
-Son facultades de la PRODEM las siguientes:
+Son facultades de la Procuraduría de Protección las siguientes:
 
-I. Otorgar la asistencia jurídica en materia familiar que soliciten las personas beneficiarias de los servicios de asistencia social;
+I. Otorgar la asistencia y asesoría jurídica en materia familiar que soliciten las personas beneficiarias de los servicios de asistencia social;
 
-II. Prestar asesoría jurídica, siempre que su intervención sea conveniente para mantener la integración familiar;
+II. Ser parte en los juicios de adopción internacional, en los términos de la Convención sobre la Protección de Menores y la Cooperación en Materia de Adopción Internacional; y del Código Familiar para el Estado de San Luis Potosí;
 
-III. Representar al menor en juicio y fuera de él, velando porque se respete siempre su interés superior;
+III. Formar parte del Consejo Técnico de Adopciones del DIF Estatal, del Consejo Estatal de Adopciones; y consejos de adopciones de las instituciones de asistencia privada; así como asesorar y coordinar a los consejos municipales de adopciones;
 
-IV. Ser parte en los juicios de adopción internacional, en los términos de la Convención sobre la Protección de Menores y la Cooperación en Materia de Adopción Internacional, y del Código Civil del Estado;
+IV. Realizar el trámite administrativo de las solicitudes de adopción y presentarlas ante el Consejo Técnico para que éste dictamine sobre la idoneidad de los solicitantes;
 
-V. Formar parte del Consejo Técnico de Adopciones del DIF Estatal, del Consejo Estatal de Adopciones y consejos de adopciones de las instituciones de asistencia privada, así como asesorar y coordinar a los consejos municipales de adopciones;
+V. Autorizar que niñas, niños y adolescentes entregados a los albergues públicos o al DIF Estatal, o aquéllos cuyos padres hayan sido condenados a la pérdida de la patria potestad, sean propuestos ante el Consejo de Adopciones del DIF Estatal, para su integración a una familia;
 
-VI. Realizar el trámite administrativo de las solicitudes de adopción y presentarlas ante el Consejo Técnico para que éste dictamine sobre la idoneidad de los solicitantes;
+VI. Recibir quejas, denuncias o informes sobre cualquier conducta que atente contra niñas, niños y adolescentes, y realizar las investigaciones correspondientes, para hacer valer los derechos de los mismos ante la autoridad que corresponda;
 
-VII. Autorizar que los menores entregados a los albergues públicos o al DIF Estatal, o aquellos cuyos padres hayan sido condenados a la pérdida de la patria potestad, sean propuestos ante el Consejo de Adopciones del DIF Estatal, para su integración a una familia;
+VII. Apoyar a los directores de los albergues en el ejercicio de la tutela de niñas, niños y adolescentes expósitos o abandonados acogidos en estas instituciones;
 
-VIII. Recibir quejas, denuncias o informes sobre cualquier conducta que atente contra los menores, realizar las investigaciones correspondientes y hacer valer los derechos de los mismos ante la autoridad que corresponda;
+VIII. Investigar y, en su caso, dictaminar sobre la existencia de cualquier tipo de maltrato a niñas, niños y adolescentes, y mujeres, personas con discapacidad y adultos mayores, haciéndolo del conocimiento del Ministerio Público;
 
-IX. Apoyar a los directores de los albergues en el ejercicio de la tutela de los menores expósitos o abandonados acogidos en estas instituciones;
+IX. Gestionar y canalizar para su albergue y atención a niñas, niños y adolescentes con o sin discapacidad, mujeres y adultos mayores en estado de riesgo o abandono, a instituciones públicas o privadas;
 
-X. Vigilar el exacto cumplimiento de las disposiciones de protección física y moral al menor, denunciando ante las autoridades competentes a los infractores;
+X. Actuar como coadyuvante del Ministerio Público en los casos en que se vean involucrados sujetos de asistencia social;
 
-XI. Investigar y en su caso, dictaminar sobre la existencia de cualquier tipo de maltrato a menores, mujeres, personas con discapacidad y adultos mayores, haciéndolo del conocimiento del Ministerio Público;
+XI. Solicitar en todo tiempo a las autoridades estatales o municipales la suspensión temporal o definitiva de patentes, licencias o concesiones; o el cambio de ubicación o clausura de cabarets, tabernas, bares, cervecerías, cantinas, billares o cualquier otro sitio análogo, cuando su funcionamiento afecte el bienestar social o familiar;
 
-XII. Gestionar y canalizar para su albergue y atención a los menores con o sin discapacidad, mujeres y adultos mayores en estado de riesgo o abandono, a instituciones públicas o privadas;
+XII. Promover entre las familias la constitución del patrimonio familiar;
 
-XIII. Actuar como coadyuvante del Ministerio Público en los casos en que se vean involucrados sujetos de asistencia social;
+XIII. Procurar ante la Dirección del Registro Civil, a través de las oficialías a su cargo, la regularización de las uniones libres, previa orientación a las parejas sobre la naturaleza del matrimonio, y los derechos y obligaciones que de éste derivan;
 
-XIV. Solicitar en todo tiempo a las autoridades estatales o municipales la suspensión temporal o definitiva de patentes, licencias o concesiones; o el cambio de ubicación o clausura de cabarets, tabernas, bares, cervecerías, cantinas, billares o cualquier otro sitio análogo, cuando su funcionamiento afecte el bienestar social o familiar;
+XIV. Facilitar ante las oficialías adscritas al DIF Estatal el registro de nacimiento de niñas, niños y adolescentes, siempre y cuando sean sujetos de asistencia;
 
-XV. Promover entre las familias la constitución del patrimonio familiar;
+XV. Coadyuvar a la oportuna integración de los Consejos Municipales de Adopciones y de tutelas, y auxiliar a éstos en el desempeño de sus funciones;
 
-XVI. Gestionar ante la Dirección del Registro Civil, a través de las oficialías a su cargo, la regularización de las uniones libres, previa orientación a las parejas sobre la naturaleza del matrimonio y los derechos y obligaciones que de él derivan;
+XVI. Fungir como conciliador y mediador en casos de conflicto familiar, que ante ella se tramiten, dando fe de los convenios que las partes celebren, en especial cuando los derechos de las personas que protege esta instancia hayan sido restringidos o vulnerados, conforme a las disposiciones aplicables. La conciliación no procederá en casos de violencia;
 
-XVII. Gestionar ante las oficialías adscritas al DIF Estatal el registro de nacimiento de menores, siempre y cuando sean sujetos de asistencia;
+XVII. Denunciar ante las autoridades competentes los casos de personas extraviadas, apoyando a las familias que lo soliciten, especialmente tratándose de niñas, niños y adolescentes;
 
-XVIII. Coadyuvar a la oportuna integración de los Consejos Municipales de Adopciones y de Tutelas, y auxiliar a éstos en el desempeño de sus funciones;
+XVIII. Requerir informes a instituciones públicas y privadas sobre asuntos relacionados con niñez y adolescencia de que conozcan; éstas deberán entregar la información a la brevedad en los términos que el Reglamento correspondiente establezca;
 
-XIX. Desarrollar los proyectos y programas necesarios para el mejor desempeño de sus facultades;
+XIX. Procurar la protección integral de niñas, niños y adolescentes que prevé, la Constitución Política de los Estados Unidos Mexicanos; la Constitución Local; los tratados internacionales; la Ley General de los Derechos de las Niñas, Niños y Adolescentes; la Ley de los Derechos de Niñas, Niños y Adolescentes de San Luis Potosí, y demás disposiciones aplicables. Dicha protección integral deberá abarcar, por lo menos:
 
-XX. Actuar como mediador o amigable componedor en los asuntos de orden familiar que ante ella se tramiten dando fe de los convenios que las partes celebren;
+a) Atención médica y psicológica.
 
-XXI. Expedir citatorios y llevar a cabo todas aquellas acciones necesarias para el mejor desempeño de sus funciones;
+b) Seguimiento a las actividades académicas y entorno social y cultural.
 
-XXII. Promover los derechos de las niñas, niños y adolescentes, y velar por su respeto y aplicación;
+c) La inclusión, en su caso, de quienes ejerzan la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes en las medidas de rehabilitación y asistencia;
 
-XXIII. Denunciar ante las autoridades competentes los casos de personas extraviadas, apoyando a las familias que lo soliciten, especialmente tratándose de niños y niñas;
+XX. Prestar asesoría y representación en suplencia a niñas, niños y adolescentes involucrados en procedimientos judiciales o administrativos, sin perjuicio de las atribuciones que le correspondan al Ministerio Público, así como intervenir oficiosamente, con representación coadyuvante, en todos los procedimientos jurisdiccionales y administrativos en que participen niñas, niños y adolescentes, de conformidad con lo dispuesto en la ley General de los Derechos de las Niñas, Niños y Adolescentes, la Ley de los Derechos de Niñas, Niños y Adolescentes de San Luis Potosí y demás disposiciones aplicables;
 
-XXIV. Solicitar al Agente del Ministerio Público su intervención ante el Juez de lo Familiar, en aquellos asuntos en los que por el ejercicio de la patria potestad de los padres o quien la ejerza, se ponga en peligro la vida, la salud, la seguridad o la integridad de los menores sujetos a ella, y
+XXI. Denunciar ante el Ministerio Público aquéllos hechos que se presuman constitutivos de delito en contra de niñas, niños y adolescentes;
 
-XXV. Difundir por los medios más eficaces el conocimiento de la presente Ley, de las convenciones internacionales y las demás disposiciones normativas en materia familiar, a efecto de lograr el conocimiento de las mismas y promover su observancia.
+XXII. Solicitar al Ministerio Público competente la imposición de medidas urgentes de protección especial idóneas, cuando exista un riesgo inminente contra la vida, integridad o libertad de niñas, niños y adolescentes, quien deberá decretarlas a más tardar, durante las siguientes tres horas a la recepción de la solicitud, dando aviso de inmediato a la autoridad jurisdiccional competente. Son medidas urgentes de protección especial en relación con niñas, niños y adolescentes, además de las establecidas en el Código Nacional de Procedimientos Penales, las siguientes:
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2010)</small>
+a) El ingreso de niña, niño o adolescente a un centro de asistencia social.
+
+b) La atención médica inmediata por parte de alguna Institución del Sistema Nacional de Salud.
+
+Dentro de las veinticuatro horas siguientes a la imposición de la medida urgente de protección, el órgano jurisdiccional competente deberá pronunciarse sobre la cancelación, ratificación o modificación de la medida que se encuentre vigente;
+
+XXIII. Ordenar, fundada y motivadamente, bajo su más estricta responsabilidad, la aplicación de medidas urgentes de protección especial establecidas en la fracción anterior, cuando exista riesgo inminente contra la vida, integridad o libertad de niñas, niños o adolescentes, dando aviso de inmediato al Ministerio Público y a la autoridad jurisdiccional competente.
+
+Dentro de las veinticuatro horas siguientes a la imposición de la medida urgente de protección, el órgano jurisdiccional competente deberá pronunciarse sobre la cancelación, ratificación o modificación de la medida que se encuentre vigente.
+
+Para la imposición de las medidas urgentes de protección, el Procurador de Protección podrá solicitar el auxilio de las instituciones policiales competentes.
+
+En caso de incumplimiento de las medidas urgentes de protección, el Procurador de Protección podrá solicitar la imposición de las medidas de apremio correspondientes, a la autoridad competente;
+
+XXIV. Coordinar la ejecución y dar seguimiento a las medidas de seguridad y protección que se dicten para la restitución integral de los derechos de niñas, niños y adolescentes, a fin de que las instituciones competentes actúen de manera oportuna y articulada; en caso de incumplimiento a dichas medidas, interpondrá queja ante el órgano interno que corresponda, para que se proceda a la investigación y, en su caso, se inicie el procedimiento administrativo de responsabilidad en los términos de la legislación correspondiente;
+
+XXV. Promover la participación de los sectores público, social y privado en la planificación y ejecución de acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes;
+
+XXVI. Asesorar a las autoridades competentes y a los sectores público, social y privado en el cumplimiento del marco normativo relativo a la protección de niñas, niños y adolescentes, conforme a las disposiciones aplicables;
+
+XXVII. Desarrollar los lineamentos y procedimientos a los que se sujetará para la restitución de los derechos de niñas, niños y adolescentes;
+
+XXVIII. Coadyuvar con los sistemas, Nacional; Estatal; y municipales DIF, en la elaboración de los lineamientos y procedimientos para registrar, capacitar, evaluar y certificar a las familias que resulten idóneas, considerando los requisitos señalados para el acogimiento pre-adoptivo, así como para emitir los certificados de idoneidad;
+
+XXIX. Proporcionar información para integrar y sistematizar el Registro Nacional de Centros de Asistencia Social;
+
+XXX. Autorizar, registrar, certificar y supervisar en conjunto con la Procuraduría de Protección Federal, los centros de asistencia social y, en su caso, ejercer las acciones legales que correspondan por el incumplimiento de los requisitos que establece la Ley General de los Derechos de las Niñas, Niños y Adolescentes; la Ley de los Derechos de Niñas, Niños y Adolescentes de San Luis Potosí; y demás disposiciones aplicables;
+
+XXXI. Supervisar la ejecución de las medidas especiales de protección de niñas, niños y adolescentes que hayan sido separados de su familia de origen, por resolución judicial;
+
+XXXII. Rendir un informe semestral al Sistema Estatal de Protección Integral, sobre la protección y restitución de los derechos de niñas, niños y adolescentes;
+
+XXXIII. Plantear propuestas al Sistema Estatal de Protección Integral, para que se emitan recomendaciones, expida protocolos y acuerdos de aplicación a instituciones públicas estatales y municipales, organismos e instituciones privadas, así como para la adopción de políticas públicas o acciones específicas a favor de los derechos de niñas, niños y adolescentes;
+
+XXXIV. Practicar visitas de verificación o inspección a cualquier domicilio público, privado o social que albergue, que tenga bajo su cuidado y vigilancia o, en su caso, guarda y custodia a niñas, niños o adolescentes;
+
+XXXV. Solicitar medidas para la suspensión de la difusión de información publicada en internet, o por cualquier otro medio de comunicación que afecte los derechos humanos o ponga en riesgo el sano desarrollo de niñas, niños y adolescentes, conforme a lo previsto en esta Ley y las leyes aplicables;
+
+XXXVI. Realizar y promover estudios e investigaciones para fortalecer las acciones a favor de la atención, defensa y protección de niñas, niños y adolescentes, con el fin de difundirlos entre las autoridades competentes y los sectores público, social y privado para su incorporación en los programas respectivos, y
+
+XXXVII. Las demás que les confieran otras disposiciones aplicables.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+ARTICULO 35 BIS. Para solicitar la protección y restitución integral de los derechos de niñas, niños y adolescentes, la Procuraduría de Protección deberá llevar a cabo el siguiente procedimiento:
+
+I. Detectar o recibir casos de restricción y vulneración de derechos de niñas, niños y adolescentes;
+
+II. Estar cerca a la familia o lugares en donde se encuentren niñas, niños y adolescentes, para diagnosticar la situación de sus derechos cuando exista información sobre posible restricción o vulneración de los mismos;
+
+III. Determinar en cada uno de los casos identificados, los derechos que se encuentran restringidos o vulnerados;
+
+IV. Elaborar, bajo el principio del interés superior de la niñez, un diagnóstico sobre la situación de vulneración, y un plan de restitución de derechos que incluya las propuestas de medidas para su protección;
+
+V. Acordar y coordinar con las instituciones que corresponda el cumplimiento del plan de restitución de derechos, y
+
+VI. Dar seguimiento a cada una de las acciones del plan de restitución de derechos, hasta cerciorarse de que todos los derechos de niñas, niños o adolescentes se encuentren garantizados.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+ARTICULO 35 TER. La Procuraduría de Protección ejercerá la representación en suplencia de niñas, niños y adolescentes:
+
+I. En caso de falta o ausencia de quienes ejerzan la representación originaria, y
+
+II. Cuando por otra causa así lo determine el órgano jurisdiccional o autoridad administrativa competente, con base en el interés superior de la niñez.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 36.
 
-Los directores de los hospitales públicos o privados, y médicos particulares, maestros o cualquiera otra persona u organismo, que tengan conocimiento de hechos que encuadren dentro del maltrato al menor, a la mujer, a los adultos mayores o personas con discapacidad, tendrán obligación de comunicarlo inmediatamente al Ministerio Público, así como a la PRODEM o, en su caso, a los DIF municipales, para la atención que le corresponde a cada institución en el ámbito de su (sic) respectivas competencias.
+Los directores de los hospitales públicos o privados, y médicos particulares, profesores o cualquiera otra persona u organismo, que tengan conocimiento de hechos que encuadren dentro del maltrato a niñas, niños y adolescentes, a la mujer, a los adultos mayores o personas con discapacidad, tienen obligación de comunicarlo inmediatamente al Ministerio Público, así como a la Procuraduría de Protección o, en su caso, a los DIF estatal o municipales, para la atención que le corresponde a cada institución en el ámbito de sus respectivas competencias.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 37.
 
-La PRODEM contará con un centro especializado de atención integral a las personas que viven la violencia familiar, cuya organización interna y funcionamiento se determinará en el reglamento interior de la institución.
+La Procuraduría de Protección contará con un centro especializado de atención integral a las personas que viven la violencia familiar, cuya organización interna y funcionamiento se determinará en el Reglamento Interior de la institución.
 
-> <small>(ADICIONADO, P.O. 28 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
-ARTICULO 37 BIS. Para la asesoría jurídica en materia familiar, vinculación con los DIF municipales y, en general, para llevar a cabo los objetivos de la PRODEM establecidos en el artículo 34 de la presente Ley, dicho órgano contará con ocho delegados en el Estado.
+ARTICULO 37 BIS. Para la asesoría jurídica en materia familiar, vinculación con los DIF municipales y, en general, para llevar a cabo los objetivos de la Procuraduría de Protección establecidos en el artículo 34 de la presente Ley, dicho órgano contará con ocho delegados en el Estado.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 38.
 
-La PRODEM dictará las medidas pertinentes para garantizar la integridad física y moral de aquellos menores canalizados a los albergues públicos de asistencia social.
+La Procuraduría de Protección dictará las medidas pertinentes para garantizar la integridad física y moral de aquellas niñas, niños y adolescentes canalizados a los albergues públicos de asistencia social.
 
 ### CAPITULO II. De su Integración
 
-> <small>(REFORMADO, P.O. 28 DE ABRIL DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 39.
 
-La PRODEM se integrará de la siguiente forma:
+La Procuraduría de Protección se integrará de la siguiente forma:
+
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2009)</small>
 
 I. Una Procuraduría;
 
+> <small>(REFORMADA, P.O. 28 DE ABRIL DE 2009)</small>
+
 II. Una Subprocuraduría, y
 
-III. Las ocho personas delegadas en las regiones del Estado, para la representación de la PRODEM, las coordinaciones; y el personal que sean necesarios para su buen funcionamiento.
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
-Las funciones del personal de la PRODEM serán determinadas en el Reglamento Interior.
+III. Las ocho personas delegadas en las regiones del Estado, para la representación de la Procuraduría de Protección, las coordinaciones, y el personal que sea necesarios (sic) para su buen funcionamiento.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+Las funciones del personal de la Procuraduría de Protección serán determinadas en el Reglamento Interior.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 40.
 
-El titular de la PRODEM será designado por el Gobernador Constitucional del Estado; y deberá ser de nacionalidad mexicana, contar con título y cédula profesional de licenciado en derecho expedido por autoridad competente, y cuando menos tres años de ejercicio profesional, así como preferentemente con experiencia en derecho familiar.
+El titular de la Procuraduría de Protección será designado por el Gobernador del Estado; y deberá contar con los requisitos siguientes:
 
-Sus atribuciones y causas de remoción se establecerán en el Reglamento Interior.
+I. Tener la ciudadanía mexicana;
+
+II. Gozar plenamente de sus derechos civiles y políticos;
+
+III. Contar con más de treinta y cinco años de edad, y
+
+IV. Poseer título profesional de licenciatura en derecho debidamente registrado, con al menos cinco años de experiencia en materia de procuración de justicia o defensa de niñas, niños y adolescentes; y no haber sido sentenciado por delito doloso o inhabilitado como servidor público.
+
+Sus atribuciones; así como, en su caso, causas de remoción, las establece en (sic) el Reglamento Interno.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 41.
 
-El titular de la PRODEM ejercerá las atribuciones a que se refiere esta Ley, pudiendo delegarlas en sus subalternos, en los términos del reglamento interior de la institución.
+El titular de la Procuraduría de Protección ejercerá las atribuciones a que se refiere esta Ley, pudiendo delegarlas en sus subalternos, en los términos del Reglamento Interior de la institución.
+
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 42.
 
-El titular de la PRODEM está facultado para expedir a los interesados copia certificada de las constancias que obren en el expediente en que son parte, o a la autoridad competente cuando lo solicite, de acuerdo con los criterios de la institución, debiendo salvaguardar la confidencialidad de los asuntos de su competencia.
+El titular de la Procuraduría de Protección está facultado para expedir a los interesados, copia certificada de las constancias que obren en el expediente en que son parte, o a la autoridad competente cuando lo solicite, de acuerdo con los criterios de la institución, debiendo salvaguardar la confidencialidad de los asuntos de su competencia.
 
 ## TITULO TERCERO. DE LA COORDINACION DE LOS SERVICIOS DE ASISTENCIA SOCIAL DE LAS ENTIDADES Y DEPENDENCIAS PUBLICAS
 
@@ -903,9 +1057,11 @@ III. Propiciar la creación de establecimientos de asistencia social en benefici
 
 > <small>(REFORMADA, P.O. 2 DE DICIEMBRE DE 2014)</small>
 
-IV. Impulsar el sano crecimiento de las niñas y los niños, a través de la operación de los programas de salud y alimentación de alto valor nutricional y bajo contenido cal6rico eh su municipio;
+IV. Impulsar el sano crecimiento de las niñas y los niños, a través de la operación de los programas de salud y alimentación de alto valor nutricional y bajo contenido calórico en su municipio;
 
-V. Garantizar y promover el ejercicio de los derechos de las niñas y los niños;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+V. Garantizar y promover el ejercicio de los derechos de niñas, niños y adolescentes;
 
 VI. Establecer coordinación con otras entidades del Gobierno del Estado, con instituciones de asistencia privada y clubes de servicio con el propósito de impulsar, operar y evaluar acciones de carácter interinstitucional a favor de los grupos vulnerables;
 
@@ -915,9 +1071,9 @@ VIII. Fortalecer las estructuras municipales encargadas de la asistencia social 
 
 IX. Identificar necesidades asistenciales, así como desarrollar la gestión de servicios;
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
-X. Establecer de acuerdo a su disponibilidad presupuestal, centros de asistencia social temporal para menores en estado de abandono, víctimas de violencia familiar, personas con discapacidad y adultos mayores, o aquellos que brinden protección y atención a grupos vulnerables de su municipio;
+X. Establecer, de acuerdo a su disponibilidad presupuestal, centros de asistencia social temporal para niñas, niños y adolescentes en estado de abandono, víctimas de violencia familiar, personas con discapacidad y adultos mayores, o aquéllos que brinden protección y atención a grupos vulnerables de su municipio;
 
 XI. Diseñar y aplicar programas integrales que permitan atender necesidades concretas en materia de asistencia social;
 
@@ -925,7 +1081,7 @@ XII. Fomentar la participación de las instituciones públicas, privadas y de lo
 
 XIII. Constituir con la participación de las instituciones de asistencia privada y con las dependencias públicas de su municipio, la Comisión Municipal para el Bienestar de la Infancia y la Familia, y
 
-Las demás que le asigne esta Ley, su Reglamento y demás disposiciones legales que lo rijan.
+XIV. Las demás que le asigne esta Ley, su Reglamento y demás disposiciones legales que lo rijan.
 
 ### CAPITULO II. De la Conformación y Facultades del Sistema Municipal para el Desarrollo Integral de la Familia
 
@@ -967,23 +1123,29 @@ III. Asistir a las personas, familias y grupos en condiciones de vulnerabilidad,
 
 IV. Fomentar la incorporación de las personas con discapacidad a la vida social, económica y cultural;
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
-V. Prestar asesoría jurídica, psicológica y social en materia familiar, a la población en estado de abandono y desventaja social, preferentemente a los menores, mujeres, personas con discapacidad y adultos mayores;
+V. Prestar asesoría jurídica, psicológica y social en materia familiar, a la población en estado de abandono y desventaja social, preferentemente a niñas, niños y adolescentes, mujeres, personas con discapacidad y adultos mayores;
 
-> <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
 
-VI. Investigar y, en su caso, dictaminar sobre la existencia de cualquier tipo de maltrato a menores, mujeres, personas con discapacidad y adultos mayores, haciéndolo del conocimiento del Ministerio Público;
+VI. Investigar y, en su caso, dictaminar sobre la existencia de cualquier tipo de maltrato a niñas, niños y adolescentes, mujeres, personas con discapacidad y adultos mayores, haciéndolo del conocimiento del Ministerio Público;
 
-VII. Constituir y operar el Consejo Municipal de Adopciones y gestionar los procedimientos correspondientes, atendiendo a lo dispuesto en la legislación aplicable y actuando siempre en beneficio del interés superior del menor;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+VII. Constituir y operar el Consejo Municipal de Adopciones y gestionar los procedimientos correspondientes, atendiendo a lo dispuesto en la legislación aplicable y actuando siempre en beneficio del interés superior de la niñez y de la adolescencia;
 
 VIII. Apoyar el mejoramiento de la dieta familiar;
 
-IX. Gestionar el internamiento de menores en estado de desamparo, en las instituciones de asistencia social públicas o privadas que presten servicios de atención;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+IX. Gestionar el internamiento de niñas, niños y adolescentes en estado de desamparo, en las instituciones de asistencia social públicas o privadas que presten servicios de atención;
 
 X. Fomentar los valores sociales, la utilización adecuada del tiempo libre de la familia y fortalecer los vínculos, la solidaridad y la responsabilidad familiar;
 
-XI. Apoyar en el ejercicio de la tutela a los directores de los albergues que reciban menores expósitos o abandonados;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+XI. Apoyar, en el ejercicio de la tutela, a los directores de los albergues que reciban niñas, niños y adolescentes expósitos o abandonados;
 
 XII. Promover la participación del sector público y de las instituciones de asistencia privada de su municipio, en tareas asistenciales en beneficio de la población vulnerable;
 
@@ -993,7 +1155,9 @@ XIV. Coordinar todas las tareas que en materia de asistencia social realicen otr
 
 XV. Dar atención y en su caso canalizar a instituciones especializadas a víctimas de violencia familiar;
 
-XVI. Operar establecimientos de asistencia y albergue temporal para los menores con o sin discapacidad, mujeres y adultos mayores en estado de vulnerabilidad;
+> <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+XVI. Operar establecimientos de asistencia y albergue temporal para niñas, niños y adolescentes con o sin discapacidad, mujeres y adultos mayores en estado de vulnerabilidad;
 
 > <small>(REFORMADA, P.O. 11 DE SEPTIEMBRE DE 2010)</small>
 
@@ -1211,11 +1375,9 @@ El DIF Estatal con el objeto de garantizar la permanente calidad en la prestaci�
 
 La certificación y recertificación será un criterio fundamental para la orientación de los recursos públicos que destine el Gobierno del Estado a instituciones de asistencia privada.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 19 DE DICIEMBRE DE 2015)</small>
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2008)</small>
-
-ARTICULO 76 BIS. Las instituciones privadas autorizadas, a quienes, en los términos de la Ley de Asistencia Social para el Estado y Municipios de San Luis Potosí, les sean conferidos menores para promover su adopción, contarán con un Consejo Interno de Adopciones, en el que deberá participar el Ministerio Público, y la autoridad rectora de la asistencia social en el Estado, quien vigilará la aplicación de las políticas que sobre la materia establezca ese organismo.
+ARTICULO 76 BIS. Las instituciones privadas autorizadas, a quienes, en los términos (sic) esta Ley, les sean conferidas niñas, niños y adolescentes para promover su adopción, contarán con un Consejo Interno de Adopciones, en el que deberá participar el Ministerio Público, y la autoridad rectora de la asistencia social en el Estado, quien vigilará la aplicación de las políticas que sobre la materia establezca dicho organismo.
 
 ### CAPITULO V. De los Estímulos y Reconocimientos
 
@@ -1426,3 +1588,21 @@ P.O. 2 DE DICIEMBRE DE 2014.
 PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 19 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0071.- REFORMAS, ADICIONES Y DEROGACIONES DE Y A LA LEY DE ASISTENCIA SOCIAL PARA EL ESTADO".]
+
+PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Los ajustes que este Decreto genere a los reglamentos que refiere esta Ley, el Ejecutivo del Estado y demás autoridades respectivas, deberán de efectuarlos dentro de los sesenta días naturales siguientes a la entrada en vigor del mismo.
+
+TERCERO. Cualquier disposición que haga referencia a la Procuraduría de la Defensa del Menor, la Mujer y la Familia, se entenderá que se refiere a la Procuraduría de Protección de Niñas, Niños, Adolescentes, la Mujer, la Familia, y el Adulto Mayor.
+
+CUARTO. Los recursos materiales, humanos y financieros que tiene la Procuraduría de la Defensa del Menor, la Mujer y la Familia, pasarán a la entrada en vigor de este Decreto a la Procuraduría de Protección de Niñas, Niños, Adolescentes, la Mujer, la Familia, y el Adulto Mayor.
+
+QUINTO. Los asuntos, trámites y procedimientos que actualmente se encuentren en desahogo en la Procuraduría de la Defensa del Menor, la Mujer y la Familia seguirán su curso normal ante la Procuraduría de Protección de Niñas, Niños, Adolescentes, la Mujer, la Familia, y el Adulto Mayor.
+
+SEXTO. Quien ejercía el cargo de Procurador de la Defensa del Menor, la Mujer y la Familia, si cumple con los requisitos previstos en el artículo 40 de esta Ley, continuará como titular de la Procuraduría de Protección de Niñas, Niños, Adolescentes, la Mujer, la Familia, y el Adulto Mayor; de no ser así, el titular del Poder Ejecutivo del Estado, designará a la persona que asuma dicho encargo, dentro del término de cinco días hábiles a la entrada en vigencia de este Decreto.
+
+SÉPTIMO. Se derogan las disposiciones que se contrapongan al presente Decreto.
