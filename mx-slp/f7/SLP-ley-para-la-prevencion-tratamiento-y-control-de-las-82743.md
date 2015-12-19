@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-la-prevencion-tratamiento-y-control-de-las-82743"
 country: "mx"
 rank: "ley"
 publication_date: "2011-07-30"
-last_updated: "2011-07-30"
+last_updated: "2015-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82743&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY PARA LA PREVENCION, TRATAMIENTO Y CONTROL DE LAS ADICCIONES PARA EL ESTADO DE SAN LUIS POTOSI
 
-LEY PARA LA PREVENCION, TRATAMIENTO Y CONTROL DE LAS ADICCIONES PARA EL ESTADO DE SAN LUIS POTOSI
+LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES PARA EL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 30 de julio de 2011.
 
@@ -111,7 +111,9 @@ Las disposiciones de la presente Ley, se aplicarán sin perjuicio de las conteni
 
 Son sujetos de esta Ley las personas que se encuentren en las siguientes categorías de vulnerabilidad al consumo de sustancias psicoactivas:
 
-I. Los (sic) niñas y niños;
+(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015) (REPUBLICADA, P.O. 19 DE DICIEMBRE DE 2015)
+
+I. Las niñas, niños y adolescentes;
 
 II. Las y los jóvenes, y
 
@@ -151,7 +153,9 @@ V. Impedir o retrasar la edad de inicio del consumo de sustancias psicoactivas e
 
 VI. Detener la progresión del abuso de sustancias psicoactivas o desórdenes relacionados, para disminuir los riesgos asociados a los mismos;
 
-VII. Dirigir de forma especializada hacia la niñez y juventud, campañas preventivas de publicidad sobre el uso creativo del tiempo libre, y
+(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015) (REPUBLICADA, P.O. 19 DE DICIEMBRE DE 2015)
+
+VII. Dirigir de forma especializada hacia la niñez, adolescencia, y juventud, campañas preventivas de publicidad sobre el uso creativo del tiempo libre, y
 
 VIII. Vigilar que los contenidos utilizados en la difusión de los mensajes sean los más adecuados, en cuanto a horarios, frecuencia, y tipo, para la población definida como objetivo.
 
@@ -161,7 +165,9 @@ Los contenidos de los mensajes deben ser claros específicos, con datos actualiz
 
 Corresponde al Ejecutivo del Estado:
 
-I. Incluir una partida presupuestal suficiente que garantice a las dependencias cumplir con los objetivos señalados en la presente Ley, y
+(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015) (REPUBLICADA, P.O. 19 DE DICIEMBRE DE 2015)
+
+I. Incluir una partida presupuestal suficiente que garantice a las dependencias y entidades, cumplir con los objetivos señalados en la presente Ley, y
 
 II. Disponer las medidas necesarias para la correcta aplicación de esta Ley.
 
@@ -209,7 +215,9 @@ II. Proporcionar asesoría y asistencia a los familiares con problemas de adicci
 
 III. Diseñar, en colaboración con el Consejo, campañas informativas que incrementen los valores preventivos respecto al uso y abuso de sustancias psicoactivas entre la población vulnerable;
 
-IV. Establecer programas asistenciales que brinden atención a los niños y jóvenes en situación de abandono, o de la calle;
+(REFORMADA, P.O. 19 DE DICIEMBRE DE 2015) (REPUBLICADA, P.O. 19 DE DICIEMBRE DE 2015)
+
+IV. Establecer programas asistenciales que brinden atención a niñas, niños, adolescentes, y jóvenes en situación de abandono, o de la calle;
 
 V. Aplicar las sanciones en materia de inspección que establece la Ley de Asistencia Social para el Estado y los Municipios de San Luis Potosí, y
 
@@ -345,7 +353,9 @@ VIII. Cuidar el mobiliario e instalaciones del centro público o privado de trat
 
 El ingreso voluntario de los adictos a los centros de Tratamiento y Rehabilitación requerirá solicitud del usuario por escrito, haciendo constar el motivo de la solicitud.
 
-En caso de ser menor de edad se requerirá la solicitud por escrito de sus padres, representante legal o tutor.
+(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015) (REPUBLICADO, P.O. 19 DE DICIEMBRE DE 2015)
+
+En caso de ser niña, niño o adolescente, se requerirá la solicitud por escrito de sus padres, representante legal o tutor.
 
 ###### ARTICULO 23.
 
@@ -393,7 +403,9 @@ c) La persona que presida la Comisión de Educación, Cultura, Ciencia y Tecnolo
 
 d) La persona que presida la Comisión de Salud y Asistencia Social del Congreso del Estado.
 
-e) La persona que presida de la Comisión Legislativa de Seguridad Publica, Prevención y Readaptación Social del Congreso del Estado.
+(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015) (REPUBLICADO, P.O. 19 DE DICIEMBRE DE 2015)
+
+e) La persona que presida la Comisión de Seguridad Publica, Prevención y Reinserción Social del Congreso del Estado.
 
 f) La persona que presida la Asociación de Padres de Familia del Estado.
 
@@ -401,7 +413,9 @@ g) La persona que presida de la Comisión Estatal de Derechos Humanos.
 
 h) La persona que presida la rectoría de la Universidad Autónoma de San Luis Potosí.
 
-i) La persona titular de la Procuraduría de la Defensa del Menor, la Mujer y la Familia.
+(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015) (REPUBLICADO, P.O. 19 DE DICIEMBRE DE 2015)
+
+i) La persona titular de la Procuraduría de Protección de Niñas, Niños y Adolescentes, la Mujer, la Familia y el Adulto Mayor.
 
 j) La persona titular de la Procuraduría General de Justicia del Estado.
 
@@ -525,17 +539,23 @@ III. Planes y programas de estudio para la formación de profesionales e investi
 
 ### Capítulo VI. De los Centros de Tratamiento y Rehabilitación
 
-###### ARTICULO 34.
+(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015) (REPUBLICADO, P.O. 19 DE DICIEMBRE DE 2015)
 
-Los sectores público y privado podrán prestar los servicios de orientación, prevención, tratamiento, rehabilitación y control, y reinserción social de personas con problemas de alcoholismo, tabaquismo y farmacodependencia, previo registro y autorización ante los Servicios de Salud del Estado; la Dirección Estatal de Protección Civil, y el ayuntamiento que se trate.
+###### ARTÍCULO 34.
+
+Los sectores público y privado podrán prestar los servicios de orientación, prevención, tratamiento, rehabilitación y control, y reinserción social de personas con problemas de alcoholismo, tabaquismo y farmacodependencia, previo registro y autorización ante los Servicios de Salud del Estado; la Coordinación Estatal de Protección Civil, y el ayuntamiento que se trate.
 
 ###### ARTICULO 35.
 
 La licencia expedida por los Servicios de Salud, constituye la autorización para ejercer lícitamente la materia que regula esta Ley y demás disposiciones aplicables; por tanto, es intransferible, inalienable e inembargable y cualquier acto tendiente a tales efectos, será nulo de pleno derecho.
 
-La licencia expedida por la Dirección Estatal de Protección Civil, constituye la autorización relacionada con la seguridad física de la infraestructura del centro de tratamiento y rehabilitación, por tanto, es intransferible, inalienable e inembargable y cualquier acto tendiente a tales efectos, será nulo de pleno derecho.
+(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015) (REPUBLICADO, P.O. 19 DE DICIEMBRE DE 2015)
 
-Asimismo, la Dirección Estatal de Protección Civil aplicará las sanciones en materia de inspección, que establece la Ley de Protección Civil del Estado de San Luis Potosí.
+La licencia expedida por la Coordinación Estatal de Protección Civil, constituye la autorización relacionada con la seguridad física de la infraestructura del centro de tratamiento y rehabilitación; por tanto, es intransferible, inalienable e inembargable, y cualquier acto tendiente a tales efectos será nulo de pleno derecho.
+
+(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015) (REPUBLICADO, P.O. 19 DE DICIEMBRE DE 2015)
+
+Asimismo, la Coordinación Estatal de Protección Civil aplicará las sanciones en materia de inspección, que establece la Ley del Sistema de Protección Civil del Estado de San Luis Potosí.
 
 Los centros de Tratamiento y Rehabilitación deberán contar con la licencia municipal que expida el ayuntamiento en facultad a su materia.
 
@@ -676,3 +696,21 @@ El Secretario General de Gobierno
 Lic. Marco Antonio Aranda Martínez
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 19 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0072.- REFORMAS A LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES PARA EL ESTADO”.]
+
+PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0077.- REFORMAS A LA LEY PARA LA PREVENCIÓN, TRATAMIENTO Y CONTROL DE LAS ADICCIONES PARA EL ESTADO”.]
+
+PRIMERO. Este Decreto entrará en vigencia el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
