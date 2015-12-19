@@ -4,7 +4,7 @@ identifier: "COL-reglamento-del-gobierno-municipal-de-colima-colima-60961"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-12"
-last_updated: "2013-12-21"
+last_updated: "2015-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 REGLAMENTO DEL GOBIERNO MUNICIPAL DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: P.O. 21 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2015.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 12 de abril de 2008.
 
@@ -1247,7 +1247,17 @@ En términos del primer párrafo del artículo 42 de la Ley Municipal, cada comi
 
 En su primera reunión de trabajo, las comisiones designarán de entre sus miembros a quien deba fungir como Presidente de cada una de ellas.
 
-La Comisión de Gobierno Interno estará integrada por el Presidente Municipal y por los coordinadores de las fracciones partidistas representadas en el seno del Cabildo. Dicha comisión invariablemente será presidida por el Presidente Municipal.
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+La Comisión de Gobierno Interno estará integrada por el Presidente Municipal, y por los coordinadores de las fracciones partidistas representadas en el seno del Cabildo y regidores únicos de partido y/o regidores independientes; además, el Síndico Municipal formará parte de esta comisión fungiendo como secretario técnico, teniendo derecho a voz, será el responsable de levantar las minutas de acuerdos tomados en el seno de la comisión, dar seguimiento al cumplimiento de los mismos, y en general auxiliar al presidente municipal en el desarrollo de las sesiones de la comisión.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+Los acuerdos que la Comisión de Gobierno Interno tome en cumplimiento a sus atribuciones y obligaciones, serán acordados mediante mayoría de votos, para tal efecto cada integrante de la Comisión tendrán voto ponderado, según el número de regidores que represente.
+
+> <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
+Dicha comisión invariablemente será presidida por el presidente municipal.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
@@ -3039,7 +3049,7 @@ II.- Proporcionar al Presidente Municipal el análisis de la información que ma
 
 III.- Apoyar a las dependencias municipales en las tareas de difusión que éstas requieran llevar a cabo para el mejor desempeño de sus actividades;
 
-IV.- Elaborar extractos informativos de injerencia municipal, para conocimiento de los integrantes del Ayuntamiento; y (sic)
+IV.- Elaborar extractos informativos de injerencia municipal, para conocimiento de los integrantes del Ayuntamiento; y
 
 V.- Promover y apoyar eventos periodísticos y de difusión relativos al Municipio.
 
@@ -6160,3 +6170,11 @@ P.O. 21 DE DICIEMBRE DE 2013.
 > <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBE EL ARTÍCULO SEGUNDO DEL ACUERDO DE CABILDO POR EL QUE REFORMA AL PRESENTE ORDENAMIENTO.</small>
 
 SEGUNDO: El Presidente Municipal dispondrá se Imprima, publique, circule y se le" dé el debido cumplimiento, de acuerdo a lo dispuesto por el artículo 47 fracción I, Inciso a) y f) de la Ley del Municipio Libre, artículo 180 fracción I Inciso a) y f) del Reglamento del Gobierno Municipal de Colima.
+
+P.O. 19 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO QUE MODIFICA EL ÚLTIMO PÁRRAFO Y SE AGREGA UN NOVENO Y DÉCIMO PARRAFO AL ARTÍCULO 100 DEL REGLAMENTO DE GOBIERNO MUNICIPAL DE COLIMA”.]
+
+PRIMERO: El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO: El Presidente Municipal dispondrá se imprima, publique, circule y se le dé el debido cumplimiento, de acuerdo con lo dispuesto por el artículo 47, fracción I, incisos a) y f) de la Ley del Municipio Libre, y los artículos 140, 180, fracción I, incisos a) y f) del Reglamento de Gobierno Municipal de Colima.
