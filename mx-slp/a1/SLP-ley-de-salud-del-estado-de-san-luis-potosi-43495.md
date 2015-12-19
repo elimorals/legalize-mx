@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-salud-del-estado-de-san-luis-potosi-43495"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-23"
-last_updated: "2015-06-13"
+last_updated: "2015-12-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=43495&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 23 de diciembre de 2004.
 
@@ -765,13 +765,15 @@ IV. Otros que se presten de conformidad con lo que establezca el Ejecutivo del E
 
 Son servicios a la población en general, los que se prestan en establecimientos públicos de salud a las personas que así lo requieran, regidos por criterios de perspectiva de género, no discriminación, universalidad y de equidad, fundada en las condiciones socioeconómicas de las personas usuarias.
 
+> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 31.
 
-Las cuotas de recuperación que se recauden por la prestación de servicios de salud, se ajustarán a lo que disponga la legislación fiscal del Estado y al convenio de coordinación que se celebre en la materia con el Ejecutivo Federal.
+Los derechos que se recauden por la prestación de servicios de salud, se ajustarán a lo que disponga la legislación fiscal del Estado, y al convenio de coordinación que se celebre en la materia con el Ejecutivo Federal.
 
-Para la determinación de las cuotas de recuperación se tomará en cuenta el costo de los servicios y las condiciones socioeconómicas del usuario.
+Para la determinación de los derechos se tomará en cuenta el costo de los servicios, y las condiciones socioeconómicas del usuario.
 
-Las cuotas de recuperación se fundarán en principios de solidaridad social y guardarán relación con los ingresos de los usuarios, debiéndose eximir del cobro cuando el usuario carezca de recursos para cubrirlas, o en las zonas de menor desarrollo económico y social, conforme a las disposiciones del Ejecutivo del Estado.
+Los derechos se fundarán en principios de solidaridad social y guardarán relación con los ingresos de los usuarios, debiéndose eximir del cobro cuando el usuario carezca de recursos para cubrirlas, o en las zonas de menor desarrollo económico y social, conforme a las disposiciones del Ejecutivo del Estado.
 
 ###### ARTICULO 32.
 
@@ -3905,7 +3907,7 @@ P.O. 18 DE DICIEMBRE DE 2008.
 
 DECRETO NÚMERO 555, POR EL QUE SE ADICIONAN LOS ARTÍCULOS, 57 BIS, 57 TER Y 57 QUÁTER A LA LEY DE SALUD DEL ESTADO DE SAN LUIS POTOSÍ.
 
-PRIMERO. Este Decreto entrará en vigor a los noventa días siguientes de su publicación en el Periódico Oficial del Estado;
+PRIMERO. Este Decreto entrará en vigor a los noventa días siguientes de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
@@ -4046,3 +4048,11 @@ P.O. 13 DE JUNIO DE 2015.
 PRIMERO. Este Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 19 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 0073.-REFORMAS, ADICIONES Y DEROGACIONES DE Y A LA LEY DE HACIENDA PARA EL ESTADO; SE REFORMA EL ARTÍCULO 31, DE LA LEY DE SALUD DEL ESTADO".]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan a este Decreto.
