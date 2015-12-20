@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-transito-para-los-municipios-del-estado-de-durango-10418
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-22"
-last_updated: "2014-02-16"
+last_updated: "2015-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE TRÁNSITO PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 22 de diciembre de 1996.
 
@@ -63,13 +63,17 @@ Las disposiciones establecidas en la presente Ley, son de orden público, inter�
 
 El objetivo primordial de la presente Ley, es brindar protección y seguridad a los habitantes del Estado de Durango, para lo cual será necesario regular la circulación peatonal y vehicular en cada uno de los Municipios del Estado de Durango, manteniendo la paz pública, la tranquilidad social y el respeto a los derechos humanos de la población, procurando en todo momento la conservación del medio ambiente.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 3.
 
-Para lograr lo previsto en el artículo anterior, será necesaria la planeación, ordenación, organización y operación del servicio de tránsito y vialidad dentro de la jurisdicción de cada municipio del Estado de Durango, ajustándose a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, del Estado de Durango, a lo establecido en los Reglamentos que se expiden al efecto, y demás ordenamientos aplicables, así como a los Convenios que se suscriban como consecuencia de la transferencia del Servicio Público de Tránsito.
+Para lograr lo previsto en el artículo anterior, será necesaria la planeación, ordenación, organización y operación del servicio de tránsito y vialidad dentro de la jurisdicción de cada municipio del Estado de Durango, ajustándose a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, a la Constitución Política del Estado Libre y Soberano de Durango, a la presente ley, a lo establecido en los reglamentos que se expiden para tal efecto, y demás ordenamientos aplicables, así como a los convenios que se suscriban como consecuencia de la transferencia del Servicio Público de Tránsito.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 4.
 
-Los Ayuntamientos tendrán a su cargo el Servicio Público de Tránsito, en los términos que marca la Constitución General de la República en su Artículo 115, así como el Artículo 109 de la Constitución Política del Estado de Durango.
+Los ayuntamientos tendrán a su cargo el Servicio Público de Tránsito, en los términos que marca la Constitución Política de los Estados Unidos Mexicanos en su artículo 115 Fracción III inciso H), así como el artículo 153 fracción VIII de la Constitución Política del Estado Libre y Soberano de Durango.
 
 ###### ARTICULO 5.
 
@@ -85,9 +89,11 @@ Los Ayuntamientos, dentro de su jurisdicción, podrán expedir los Reglamentos q
 
 Cada Ayuntamiento creará, organizará y pondrá en funcionamiento la dependencia que debe hacerse cargo de la administración y operación del Servicio Público de Tránsito.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 8.
 
-Las Autoridades Municipales de Tránsito, en los términos de esta Ley, están facultas para dictar las disposiciones necesarias a efecto de regular y planear el tránsito de peatones y de vehículos en las vías públicas de su jurisdicción territorial, a excepción de las vías públicas estatales y federales.
+Las autoridades municipales de tránsito, en los términos de esta ley, están facultadas para dictar las disposiciones necesarias a efecto de regular y planear el tránsito de peatones y de vehículos en las vías públicas de su jurisdicción territorial, a excepción de las vías públicas estatales y federales.
 
 ###### ARTICULO 9.
 
@@ -183,7 +189,9 @@ XI.- Diseñar y aplicar mecanismos de educación en materia de vialidad y seguri
 
 XII.- Estimular la creación y el uso de vehículos de tecnología alternativa, diferente a los automotores actuales, que representan un beneficio social;
 
-XIII.- Instrumentar las medidas necesarias para proteger a los peatones, a los menores de edad, a los discapacitados funcionales y a las personas de la tercera edad, en su carácter de usuarios de la vía pública; y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
+XIII.- Instrumentar las medidas necesarias para proteger a los peatones, a los menores de edad, a las personas con discapacidad y a los adultos mayores, en su carácter de usuarios de la vía pública; y
 
 XIV.- Proteger la salud, la seguridad individual y el patrimonio de la ciudadanía frente a los riesgos producidos por la conducción de vehículos automotores.
 
@@ -231,7 +239,9 @@ XVIII.- Las demás que les confiera esta Ley, el Reglamento o disposiciones apli
 
 Son atribuciones del Subdirector de Tránsito y Seguridad vial:
 
-I.- Cuadyuvar (sic) en las funciones del Director;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
+I.- Coadyuvar en las funciones del Director;
 
 II.- Substituir al Director en sus ausencias y asumir sus funciones; y
 
@@ -251,7 +261,9 @@ IV.- Realizar acciones de auxilio a la población en caso de siniestros o accide
 
 V.- Ejercer las funciones de vialidad y tránsito, que son:
 
-a) DE EDUCACION: Instruyendo, durante el desempeño de sus funciones, a los usuarios sobre el uso apropiado de la vía pública, el respeto a los peatones y las consideraciones especiales a los ancianos, niños y discapacitados;
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
+a) DE EDUCACIÓN: Instruyendo, durante el desempeño de sus funciones, a los usuarios sobre el uso apropiado de la vía pública, el respeto a los peatones y las consideraciones especiales a las niñas, niños, adolescentes, adultos mayores y personas con discapacidad;
 
 b) DE PREVENCION: Ejecutando medidas tendientes a evitar infracciones y accidentes de tránsito en la vía pública;
 
@@ -389,13 +401,19 @@ Igualmente, se establece la obligatoriedad por parte del Gobierno del Estado, de
 
 Para la realización del trámite para dar de baja las placas de un vehículo, se requiere la presentación de un certificado sin costo de no tener adeudos por concepto de infracciones y multas, expedido por la dirección municipal donde se encuentre registrado.
 
-> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
-ARTICULO 36 BIS.- Sin perjuicio de lo dispuesto por los artículos 34, 35 y 36 de esta Ley, las direcciones municipales de seguridad pública, vialidad o las dependencias equivalentes de los ayuntamientos, podrán expedir permisos temporales para el uso de espacios, rampas y estacionamientos de uso exclusivo para discapacitados, en los siguientes supuestos:
+ARTICULO 36 BIS.- Sin perjuicio de lo dispuesto por los artículos 34, 35 y 36 de esta Ley, las direcciones municipales de seguridad pública, vialidad o las dependencias equivalentes de los ayuntamientos, podrán expedir permisos temporales para el uso de espacios, rampas y estacionamientos de uso exclusivo para personas con discapacidad, en los siguientes supuestos:
+
+> <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2014)</small>
 
 I. A los automovilistas que de manera temporal presenten una discapacidad parcial o total.
 
-II. A las personas con discapacidad temporal, que sin ser propietarios o poseedores de un vehículo automotor, sean transportados por automovilistas que no cuenten con placas para discapacitados.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
+II. A las personas con discapacidad temporal, que sin ser propietarios o poseedores de un vehículo automotor, sean transportados por automovilistas que no cuenten con placas para personas con discapacidad.
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2014)</small>
 
 Para efectos de las fracciones anteriores, los permisos temporales deberán contener como mínimo los siguientes datos:
 
@@ -412,6 +430,8 @@ V. La vigencia que corresponderá a la incapacidad temporal que señale el dicta
 VI. Los datos del vehículo debiendo de estar completamente visible el número de placas en que se trasladará a la persona discapacitada temporalmente; y
 
 VII. La leyenda: "El presente permiso temporal es utilizado por la persona con discapacidad temporal, para que el vehículo que lo transporte pueda hacer uso de los espacios destinados para personas con discapacidad. Solicitando a las autoridades correspondientes, brindar la (sic) facilidades necesarias, para el correcto uso del presente permiso temporal."
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2014)</small>
 
 El permiso temporal deberá portarse en el vidrio parabrisas frontal del vehículo a motor, el cual deberá de estar totalmente visible hacia el exterior del mismo.
 
@@ -465,7 +485,9 @@ c) Comprobar domicilio actual;
 
 d) Presentar examen médico de agudeza audiovisual y de integridad física ante la Dirección, o constancia de que dicho examen fue efectuado por alguna institución médica en fecha reciente.
 
-En el caso de los discapacitados, el reconocimiento médico deberá tomar en cuenta el tipo de incapacidad del solicitante, su habilidad para superarla, y el acondicionamiento de su vehículo.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
+En el caso de las personas con discapacidad, el reconocimiento médico deberá tomar en cuenta el tipo de incapacidad del solicitante, su habilidad para superarla, y el acondicionamiento de su vehículo.
 
 e) Aprobar examen teórico sobre el conocimiento de esta Ley y del reglamento Municipal de la materia;
 
@@ -569,9 +591,11 @@ III. Impondrá las sanciones que procedan, sin perjuicios de la responsabilidad 
 
 IV. Retirar el vehículo.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 45.
 
-A toda persona discapacitada para la conducción normal de vehículos de motor, se le podrá expedir licencia de conducción cuando cuente, según la deficiencia, con anteojos, prótesis u otros aparatos, o el vehículo que pretenda conducir esté provisto de mecanismos y otros medios auxiliares que, previa demostración, le capaciten para conducir.
+A toda persona con discapacidad para la conducción normal de vehículos de motor, se le podrá expedir licencia de conducción cuando cuente, según la deficiencia, con anteojos, prótesis u otros aparatos, o el vehículo que pretenda conducir esté provisto de mecanismos y otros medios auxiliares que, previa demostración, le capaciten para conducir.
 
 ###### ARTICULO 46.
 
@@ -639,9 +663,11 @@ Para circular sin placas y/o sin tarjeta de circulación, se requerirá permiso,
 
 Los Municipios deberán dar aviso al Gobierno del Estado, por conducto de la Dirección correspondiente, de la violación a la Ley o a los Reglamentos de la materia en lo que se refiere al Servicio Público de Trásporte (sic), poniendo a su disposición, si el caso lo amerita, a los infractores o a las unidades para que el Gobierno del Estado proceda a la aplicación de las sanciones a que se hagan acreedores acorde a las disposiciones legales respectivas.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 52.
 
-Los Municipios están obligados a colaborar de manera eficiente con el Gobierno del Estado, para el caso de que se cometa una violación al usuario por el permisionario de un servicio público de transporte, dando aviso de inmediato al Gobierno del Estado. Los Municipios procederan a coadyuvar en la ejecución de las ordenes emitidas por la Dirección General de Transportes en el Estado, siempre y cuando no contravengan disposiciones de orden público contenidas en la Ley y los Reglamentos aplicables.
+Los Municipios están obligados a colaborar de manera eficiente con el Gobierno del Estado, para el caso de que se cometa una violación al usuario por el permisionario de un servicio público de transporte, dando aviso de inmediato al Gobierno del Estado. Los Municipios procederán a coadyuvar en la ejecución de las órdenes emitidas por la Dirección General de Transportes en el Estado, siempre y cuando no contravengan disposiciones de orden público contenidas en la Ley y los Reglamentos aplicables.
 
 ### CAPITULO NOVENO. DE LOS MEDIOS DE DEFENSA
 
@@ -788,3 +814,11 @@ En un plazo no mayor a 120 días, los ayuntamientos deberán realizar las adecua
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 20 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 498 QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE TRANSITO PARA LOS MUNICIPIOS DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
