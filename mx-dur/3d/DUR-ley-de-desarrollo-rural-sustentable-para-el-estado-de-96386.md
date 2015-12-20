@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-desarrollo-rural-sustentable-para-el-estado-de-96386"
 country: "mx"
 rank: "ley"
 publication_date: "2013-08-25"
-last_updated: "2013-08-25"
+last_updated: "2015-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96386&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE DESARROLLO RURAL SUSTENTABLE PARA EL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 25 de agosto de 2013.
 
@@ -51,9 +51,11 @@ LEY DE DESARROLLO RURAL SUSTENTABLE PARA EL ESTADO DE DURANGO
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de observancia general, de interés social y de aplicación obligatoria en el Estado de Durango.
+La presente ley es de observancia general e Interés social y reglamentaria del artículo 40 de la Constitución Política del Estado Libre y Soberano de Durango.
 
 ###### ARTÍCULO 2.
 
@@ -215,9 +217,11 @@ XLVIII.- Zonas de Restauración: Las que presentan grados severos de degradació
 
 XLIX.- Zonas Frágiles o Tierras Frágiles: Tierras que pueden ser degradadas por fenómenos naturales, cambio climático, cambio de técnicas productivas o de utilización.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 7.
 
-El Ejecutivo del Estado en coordinación con los órdenes de Gobierno, para impulsará (sic) políticas públicas y programas en el medio rural, que serán considerados prioritarios para el desarrollo del Estado y que estarán orientados a las siguientes acciones:
+El Ejecutivo del Estado en coordinación con los órdenes de Gobierno, impulsará políticas públicas y programas en el medio rural, que serán considerados prioritarios para el desarrollo del Estado y que estarán orientados a las siguientes acciones:
 
 I.- Promover el bienestar social y económico de los productores, de sus comunidades, de los trabajadores del campo y, en general, de los agentes de la sociedad rural, mediante la diversificación y la generación de empleo, incluyendo el no agropecuario en el medio rural, así como el incremento del ingreso;
 
@@ -227,7 +231,9 @@ III.- Contribuir a la soberanía y seguridad alimentaria, mediante el impulso de
 
 IV.- Fomentar la conservación de la biodiversidad y el mejoramiento de la calidad de los recursos naturales, mediante su protección y aprovechamiento sustentable;
 
-V.- Valorar las diversas funciones económicas, ambientales, sociales y culturales de las diferentes manifestaciones de la agricultura en el Estado.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
+V.- Valorar las diversas funciones económicas, ambientales, sociales y culturales de las diferentes manifestaciones de la agricultura en el Estado, aplicando criterios de preservación, restauración, aprovechamiento sustentable de los recursos naturales y la biodiversidad, así como prevención y mitigación del impacto ambiental, cuando se realicen obras de infraestructura y acciones de fomento.
 
 ### CAPÍTULO SEGUNDO. DE LAS AUTORIDADES COMPETENTES, CONCURRENTES Y COADYUVANTES
 
@@ -2064,3 +2070,13 @@ C.P. JORGE HERRERA CALDERA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 PROFR. JAIME FERNANDEZ SARACHO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 490.- QUE CONTIENE REFORMAS A LA LEY DE DESARROLLO RURAL DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- La presente ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado
+
+SEGUNDO.- Se derogan todas las disposiciones que se contrapongan con las disposiciones de esta Ley
