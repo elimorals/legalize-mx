@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-sistema-estatal-de-seguridad-publica-de-baja-84647"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-31"
-last_updated: "2014-11-30"
+last_updated: "2015-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84647&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el sábado 31 de diciembre de 2011.
 
@@ -109,7 +109,7 @@ VI. Comisión: La Comisión de Honor y Justicia de las Instituciones Policiales 
 
 VII. Consejo Estatal: El Consejo Estatal de Seguridad Pública;
 
-VIII. Consejo Ciudadano: El Consejo Ciudadano de Seguridad Pública;
+VIII. (DEROGADA, B.O. 20 DE DICIEMBRE DE 2015)
 
 IX. Consejo de Honor: El Consejo de Honor y Justicia;
 
@@ -331,9 +331,9 @@ IX. El Presidente de la Comisión Permanente de Seguridad Pública del Congreso 
 
 X. El Presidente de la Comisión Estatal de Derechos Humanos; y
 
-> <small>(ADICIONADA, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2015)</small>
 
-XI. El Presidente del Consejo Ciudadano de Seguridad Pública del Estado.
+XI. El Presidente del Consejo de Participación Ciudadana en la Prevención Social de la Violencia y la Delincuencia del Estado de Baja California Sur
 
 Por cada uno de los integrantes del Consejo Estatal se designará un suplente que lo sustituirá en sus ausencias, y acudirá a las sesiones con voz y voto.
 
@@ -679,7 +679,7 @@ VIII. Establecer en el Municipio las instancias de coordinación para la integra
 
 IX. Promover la participación de la comunidad para generar propuestas de solución a los problemas de la seguridad pública;
 
-X. Proponer los reglamentos gubernativos y de policía necesarios; (sic)
+X. Proponer los reglamentos gubernativos y de policía necesarios;
 
 ###### Artículo 27.
 
@@ -1233,7 +1233,7 @@ b) Muerte;
 
 c) Incapacidad permanente;
 
-d) Jubilación o Retiro; (sic)
+d) Jubilación o Retiro;
 
 ###### Artículo 55.
 
@@ -1895,59 +1895,49 @@ La Subsecretaría adoptará las medidas pertinentes para el efecto de instalar, 
 
 ### CAPÍTULO I. DE LAS DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 103.
 
-El Sistema para la Prevención del Delito tiene por objeto establecer las bases para la articulación de programas, proyectos y acciones tendentes a prevenir la comisión de algún delito o infracción administrativa, instrumentando las medidas necesarias para evitar su realización. Se ejecuta a través de los siguientes ámbitos de intervención:
-
-I. La prevención social;
-
-II. La prevención comunitaria; y
-
-III. La prevención de enfoque policial (sic);
+El Sistema para la Prevención del Delito tiene por objeto establecer las bases para la articulación de programas, proyectos y acciones tendentes a prevenir la comisión de algún delito o infracción administrativa, instrumentando las medidas necesarias para evitar su realización. Mismo que deberá estar acorde a los acuerdos del Consejo Ciudadano para la Prevención Social de la Violencia y la Delincuencia.
 
 ###### Artículo 104.
 
-La prevención social del delito tiene como propósito reducir los factores criminógenos mediante actividades multidisciplinarias e interinstitucionales relacionadas con el fortalecimiento de la familia, la educación, la salud, el desarrollo social, urbano y económico.
+(DEROGADO, B.O. 20 DE DICIEMBRE DE 2015)
 
 ###### Artículo 105.
 
-La prevención comunitaria del delito tiene por objeto promover la participación de la comunidad, en acciones tendentes a mejorar las condiciones de seguridad de su entorno y al desarrollo de prácticas que fomenten una cultura de prevención, autoprotección, de la denuncia ciudadana y de la solución de los conflictos a través del diálogo y la negociación.
+(DEROGADO, B.O. 20 DE DICIEMBRE DE 2015)
 
 ###### Artículo 106.
 
-La prevención del delito realizada por las instituciones de Seguridad Pública del Estado y de los Municipios, tiene por objeto promover mediante un diagnóstico de la problemática delictiva en el territorio del Estado y de los municipios, las estrategias que procuren modificar el ambiente físico para dificultar las diferentes manifestaciones de los delitos y de las infracciones administrativas, así como reducir su incidencia.
-
-Este nivel de intervención deberá realizarse considerando la prestación de los servicios específicos, que de acuerdo al ámbito de sus competencias, corresponde realizar a las instituciones de Seguridad.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 30 DE NOVIEMBRE DE 2013)</small>
+(DEROGADO, B.O. 20 DE DICIEMBRE DE 2015)
 
 ###### Artículo 107.
 
-El Programa Estatal deberá establecer las bases para la instrumentación, seguimiento y evaluación de los diversos ámbitos de intervención en materia de prevención del delito y será la Subsecretaría la instancia responsable de verificar su aplicación, en los términos de esta Ley y del Reglamento respectivo.
-
-El Consejo Estatal a iniciativa de sus integrantes, resolverá la instrumentación de acciones en materia de prevención del delito que no se encuentren previstas en el Programa Estatal y que por su naturaleza requieren la adopción inmediata de medidas para su prevención y control.
+(DEROGADO, B.O. 20 DE DICIEMBRE DE 2015)
 
 ### CAPÍTULO II. DE LOS PROGRAMAS SOBRE PREVENCIÓN DEL DELITO
 
 ###### Artículo 108.
 
-Los programas de prevención del delito son el conjunto de actividades realizadas por las Instituciones Policiales o por sus Organismos Auxiliares, que tienen como finalidad contrarrestar los factores criminógenos y contener, disminuir o evitar la comisión de delitos, conductas antisociales e infracciones administrativas, así como prevenir la victimización.
+(DEROGADO, B.O. 20 DE DICIEMBRE DE 2015)
 
 ###### Artículo 109.
 
-Los programas de prevención del delito deberán diseñarse considerando la participación interinstitucional con enfoque multidisciplinario y se encaminarán a contrarrestar los factores criminógenos, las consecuencias, daños e impacto social del delito.
+(DEROGADO, B.O. 20 DE DICIEMBRE DE 2015)
 
 ###### Artículo 110.
 
-Los programas tenderán a lograr soluciones integrales a través de la participación de las autoridades de los tres órdenes de gobierno, organizaciones civiles, académicas y comunitarias.
+(DEROGADO, B.O. 20 DE DICIEMBRE DE 2015)
 
 ###### Artículo 111.
 
-Las Instituciones Policiales, así como sus Organismos Auxiliares, promoverán la protección de las personas, de sus bienes, deberán incluir acciones a favor de personas discapacitadas, menores de edad y de aquellas que en razón de su sexo, preferencia sexual, edad, condición social, religiosa o étnica sean objeto de discriminación o rechazo.
+(DEROGADO, B.O. 20 DE DICIEMBRE DE 2015)
 
 ###### Artículo 112.
 
-Para llevar a cabo el diseño, instrumentación, actualización y evaluación de los programas de prevención del delito, las Instituciones de Seguridad Pública del Estado y de los Municipios deberán observar lo previsto en la Ley de la materia, esta Ley y los reglamentos que deriven de ella.
+(DEROGADO, B.O. 20 DE DICIEMBRE DE 2015)
 
 ## TÍTULO DÉCIMO PRIMERO. DEL SISTEMA DE PARTICIPACIÓN CIUDADANA
 
@@ -1957,15 +1947,17 @@ Para llevar a cabo el diseño, instrumentación, actualización y evaluación de
 
 El Sistema a que se refiere este Título tiene como propósito promover la participación ciudadana para el cumplimiento de los objetivos y fines de este ordenamiento y se integra a través de los siguientes ámbitos de intervención:
 
-I. El Consejo Ciudadano en materia de Seguridad Pública del Estado; y
+I. (DEROGADA, B.O. 20 DE DICIEMBRE DE 2015)
 
-II. Los Consejos Ciudadanos Municipales de Seguridad Pública;
+II. (DEROGADA, B.O. 20 DE DICIEMBRE DE 2015)
 
 III. Cualquier organismo o institución del sector público, privado, social, empresarial o académico que se relacione con el objeto de este Título.
 
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 114.
 
-La participación ciudadana para la Seguridad Pública tiene por objeto promover, fomentar, difundir, discutir, analizar y evaluar aspectos vinculados con la prevención del delito, la cultura de la legalidad, la denuncia ciudadana, la protección o autoprotección ante el delito y en general, cualquier actividad que se relacione con esta Ley, buscando sensibilizar a la ciudadanía sobre la importancia de colaborar, ya sea de manera individual u organizada con las autoridades, para el cumplimiento de los y fines que en la misma se establecen.
+La participación ciudadana para la Seguridad Pública tiene por objeto promover, fomentar, difundir, discutir, analizar y evaluar aspectos vinculados con la prevención social de la violencia y la delincuencia, la cultura de la legalidad, la denuncia ciudadana, la protección o autoprotección ante el delito y en general, cualquier actividad que se relacione con esta Ley, buscando sensibilizar a la ciudadanía sobre la importancia de colaborar, ya sea de manera individual u organizada con las autoridades, para el cumplimiento de los y fines que en la misma se establecen.
 
 > <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2013)</small>
 
@@ -1977,85 +1969,23 @@ La Subsecretaría verificará que la integración y funcionamiento de este Siste
 
 ###### Artículo 116.
 
-El Consejo Ciudadano es una instancia ciudadana autónoma, conformada por veintiún Consejeros, que tiene por objeto coadyuvar con las Instituciones de Seguridad y los Organismos Auxiliares, en el análisis del fenómeno delictivo, de las conductas antisociales y de las infracciones administrativas, generando propuestas de planes, programas y acciones para la consecución de los fines de esta Ley.
+(DEROGADO, B.O. 20 DE DICIEMBRE DE 2015)
 
 ###### Artículo 117.
 
-El Consejo Ciudadano se integra por:
-
-I. Dos Consejeros Ciudadanos por cada Municipio, de los cuales uno será Presidente;
-
-Once Consejeros Gubernamentales:
-
-II. El Gobernador del Estado;
-
-III. El Secretario General de Gobierno;
-
-IV. El Procurador General de Justicia del Estado;
-
-V. Los Presidentes Municipales; y (sic)
-
-VI. El Presidente del H. Tribunal Superior de Justicia del Estado;
-
-VII. Dos Diputados del H. Congreso del Estado;
-
-> <small>(REFORMADO, B.O. 30 DE NOVIEMBRE DE 2013)</small>
-
-El Consejo Ciudadano contará con un Secretario Técnico que será el Subsecretario de Seguridad Pública del Estado.
-
-Los cargos de Consejero Ciudadano serán de carácter honorario, por lo que no recibirán retribución económica o en especie alguna.
+(DEROGADO, B.O. 20 DE DICIEMBRE DE 2015)
 
 ###### Artículo 118.
 
-Al Consejo Ciudadano le corresponden las siguientes atribuciones:
-
-l. Elaborar un programa de trabajo en el que describan los objetivos, metas, estrategias y acciones que le permita cumplir con las funciones encomendadas por la presente Ley y los reglamentos, acuerdos y demás disposiciones que le asignen funciones;
-
-II. Promover de conformidad con los fines de la seguridad pública establecidos en la presente Ley, la participación de la sociedad en actividades para elevar la calidad de los servicios de seguridad pública, vigilar el estricto respeto a los derechos humanos y la atención en las acciones de prevención;
-
-III. Promover ante el Consejo Estatal la elaboración de los estudios que considere necesarios para dar cumplimiento a las atribuciones que le son conferidas en este artículo;
-
-IV. Dar a conocer ante la población el marco normativo e (sic) materia de la seguridad pública;
-
-V. Establecer mecanismos de vigilancia y seguimiento sobre las actividades de las autoridades de seguridad pública;
-
-VI. Proponer sistemas de organización comunitaria que contribuyan a elevar la cultura de la denuncia de ilícitos y faltas administrativas;
-
-VII. Coordinar los esfuerzos de colaboración con las autoridades competentes en la difusión de los programas, estrategias y acciones encaminados a prevenir el delito;
-
-VIII. Canalizar ante la instancia competente las propuestas que hagan los ciudadanos respecto del buen desempeño de los integrantes de las Instituciones Policiales, que se distingan en su actuación para merecer condecoraciones, estímulos y recompensas en los términos de esta Ley;
-
-IX. Promover la vinculación y colaboración con los Comités Municipales e Intermunicipales, cuyos objetivos sean afines a la presente Ley; y
-
-X. Fomentar la cultura de autoprotección ciudadana.
+(DEROGADO, B.O. 20 DE DICIEMBRE DE 2015)
 
 ###### Artículo 119.
 
-Para ser Consejero Ciudadano se requiere:
-
-I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
-
-II. Ser residente en el Estado, durante los últimos cinco años anteriores a su designación;
-
-III. Ser de notoria buena conducta, no haber sido condenado por sentencia ejecutoriada por delito doloso, ni estar sujeto a proceso penal;
-
-IV. No estar en servicio activo en el Ejército Mexicano o en la Armada de México, ni tener mando alguno en Instituciones Policiales o de Procuración de Justicia;
-
-V. No fungir como servidor público federal, estatal o municipal;
-
-VI. No ejercer cargo de elección popular;
-
-VII. Ho haber sido suspendido, destituido o inhabilitado como servidor público, en los términos de las normas aplicables;
-
-VIII. No ser ministro de algún culto religioso; y
-
-IX. Ser propuesto por asociaciones, organismos no gubernamentales, empresariales, colegios de profesionistas constituidos y registrados conforme a las Leyes respectivas.
+(DEROGADO, B.O. 20 DE DICIEMBRE DE 2015)
 
 ###### Artículo 120.
 
-El Gobernador del Estado, en caso de vacante por parte de los Consejeros Ciudadanos emitirá una convocatoria pública en el Boletín Oficial del Gobierno del Estado y en un diario de circulación estatal; a efécto de que en base a lo dispuesto por el artículo anterior, se presenten las propuestas para la integración en un plazo que no exceda de treinta días a partir de la publicación.
-
-Una vez recibidas las propuestas, el Gobernador del Estado elegirá por insaculación a los Consejeros Ciudadanos.
+(DEROGADO, B.O. 20 DE DICIEMBRE DE 2015)
 
 ### CAPÍTULO III. DE LOS SISTEMAS ESTATALES DE DENUNCIA PÚBLICA Y DE LOCALIZACIÓN DE PERSONAS Y BIENES
 
@@ -2320,3 +2250,19 @@ CUARTO.- En las disposiciones legales y administrativas del régimen normativo d
 QUINTO.- Para efectos de la presente Ley y demás disposiciones legales y administrativas, en donde se aluda a la Secretaría de Seguridad Pública, se entenderá a la Subsecretaría de Seguridad Pública.
 
 SEXTO.- Las figuras jurídicas relacionadas con el Sistema Penal Acusatorio y Oral en el Estado de Baja California Sur, entrarán en vigor de manera simultánea en los términos y plazos que se señalen en el DECRETO de DECLARATORIA de INCORPORACIÓN al Código Nacional de Procedimientos Penales emitido por este órgano legislativo, en fecha 26 de junio de 2014 y publicado mediante Decreto número 2176 de fecha 27 de junio de 2014.
+
+B.O. 20 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2310.- MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 5 Y EL PÁRRAFO SEXTO DEL ARTÍCULO 20 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR; SE CREA LA LEY DE PARTICIPACIÓN CIUDADANA EN LA PREVENCIÓN SOCIAL DE LA VIOLENCIA Y DELINCUENCIA PARA EL ESTADO DE BAJA CALIFORNIA SUR; SE REFORMAN LA FRACCIÓN XI DEL ARTÍCULO 15 Y LOS ARTÍCULOS 103 Y 114, ASÍ MISMO SE DEROGA LA FRACCIÓN VIII DEL ARTÍCULO 3 Y LOS ARTÍCULOS 104, 105, 106, 107, 108, 109, 110, 111, 112, LAS FRACCIONES I Y II DEL ARTÍCULO 113 Y LOS ARTÍCULOS 116, 117, 118, 119 Y 120 TODOS ELLOS DE LA LEY DEL SISTEMA ESTATAL DE SEGURIDAD PÚBLICA DE BAJA CALIFORNIA SUR”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO.
+
+Los programas y el sistema en materia de prevención del delito que se encuentren vigentes al amparo de la Ley del Sistema Estatal de Seguridad Pública de Baja California Sur, continuarán teniendo ese carácter, en tanto entren en vigor los que contempla la Ley de Participación Ciudadana en la Prevención Social de la Violencia y la Delincuencia para Baja California Sur.
+
+###### ARTÍCULO TERCERO.
+
+Los Consejos Ciudadanos de Seguridad Pública, Estatal y Municipales, estarán en funciones, hasta en tanto se instalen los nuevos Consejo Ciudadanos Estatal y Municipal, de Participación Ciudadana en la Prevención Social de la Violencia y la Delincuencia.
