@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-educacion-para-el-estado-de-baja-california-sur-100469"
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-22"
-last_updated: "2015-11-20"
+last_updated: "2015-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100469&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE EDUCACIÓN PARA EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 22 de abril de 2014.
 
@@ -522,6 +522,12 @@ Para la identificación, evaluación, atención educativa, acreditación y certi
 Las instituciones de educación superior autónomas por ley, podrán establecer convenios con la autoridad educativa federal a fin de homologar criterios para la atención, evaluación, acreditación y certificación, dirigidos a estudiantes con capacidades y aptitudes sobresalientes.
 
 La educación especial incluye la orientación a padres o tutores, así como también a docentes y personal de escuelas de educación básica y media superior regulares que integren a estudiantes con necesidades especiales de educación.
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2015)</small>
+
+ARTÍCULO 34 BIS.- La autoridad educativa garantizará la participación de las personas con discapacidad mediante el empleo de estrategias que valoren la diversidad, respeten las diferencias individuales de los estudiantes y promuevan las actividades físicas, motoras y cognitivas.
+
+Así mismo, promoverá la educación física inclusiva mediante la cual dará oportunidad de fomentar y fortalecer los valores sociales, educativos y culturales, y de manera más específica el desarrollo de competencias físicas, motoras y espaciales que permitan mejorar la salud, seguridad, y autonomía personal, entre otras de las niñas, niños y jóvenes con discapacidad.
 
 ###### ARTÍCULO 35.
 
@@ -1504,3 +1510,7 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 20 DE NOVIEMBRE DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE DICIEMBRE DE 2015.
+
+ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
