@@ -4,7 +4,7 @@ identifier: "BCS-ley-del-organo-de-fiscalizacion-superior-del-estado-de-baja-600
 country: "mx"
 rank: "ley"
 publication_date: "2008-03-10"
-last_updated: "2012-08-20"
+last_updated: "2015-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60094&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el lunes 10 de marzo de 2008.
 
@@ -871,6 +871,10 @@ XXVIII. Conocer con la debida oportunidad, las normas, procedimientos, métodos 
 
 XXIX. Las demás que le señale esta Ley, le confiera el Pleno del Congreso y demás disposiciones legales aplicables.
 
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2015)</small>
+
+XXX.- Recibir y registrar las declaraciones patrimonial y de Conflicto de intereses de los Servidores Públicos conforme a la Ley aplicable.
+
 Las atribuciones previstas en las fracciones II, IV, V, VII, VIII, IX, XIII, XIV, XV, XVI, XVIII, XX, XXI y XXVII son de ejercicio directo del Auditor Superior y, por tanto, no podrán ser delegadas.
 
 ###### Artículo 73.
@@ -1058,3 +1062,15 @@ Los preceptos aplicables a la presentación de la Cuenta Pública, entrarán en 
 B.O. 20 DE AGOSTO DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2307.- SE REFORMA LA FRACCIÓN VI, DEL ARTÍCULO 1, FRACCIÓN XVI DEL ARTÍCULO 46, EL ARTÍCULO 65, ARTÍCULO 68 Y 69; SE ADICIONA EL ARTÍCULO 66 BIS, LA FRACCIÓN IV Y EL ULTIMO PÁRRAFO AL ARTÍCULO 67, 67 BIS Y 69 BIS; SE DEROGA LA FRACCIÓN I DEL ARTÍCULO 66 DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS DE BAJA CALIFORNIA SUR, SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 32 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR Y SE ADICIONA LA FRACCIÓN XXX DEL ARTÍCULO 72 DE LA LEY DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Por única ocasión y para efecto de que el Órgano de Fiscalización Superior del Estado de Baja California Sur, esté en condiciones de recibir las declaraciones conforme lo establece la fracción XXX del artículo 72 del mismo ordenamiento, en correlación al artículo 66BIS (sic), 67 BIS y 69 BIS de la presente reforma a la Ley de Responsabilidades de los Servidores Públicos del Estado y de los Municipios de Baja California Sur, se le concede 30 días hábiles, contados a partir de la entrada en vigor de esta reforma.
+
+Con el propósito de asegurar que los formatos de declaración patrimonial contengan los elementos que garanticen la transparencia, deberán ser aprobados por la Comisión de Vigilancia del Órgano de Fiscalización Superior del Congreso del Estado de Baja California Sur.
+
+TERCERO.- La Contraloría General del Gobierno del Estado, deberá remitir al Órgano de Fiscalización Superior del Congreso del Estado de Baja California Sur, en un término de 30 días hábiles a partir de la entrada en vigor del presente Decreto, las declaraciones patrimoniales que alude el artículo 66 BIS de la presente reforma.
