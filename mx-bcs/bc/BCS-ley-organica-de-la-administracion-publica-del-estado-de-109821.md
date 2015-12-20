@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-administracion-publica-del-estado-de-109821"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-09-09"
-last_updated: "2015-09-09"
+last_updated: "2015-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109821&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el miércoles 9 de septiembre de 2015.
 
@@ -695,7 +695,9 @@ V. Participar en la elaboración del Presupuesto de Egresos del Estado;
 
 VI. Vigilar el registro, ejecución, avance físico y financiero, publicación, liquidación y entrega de recursos que ejerza el Gobierno del Estado;
 
-VII. Recibir y registrar las declaraciones patrimoniales de los servidores públicos conforme a la ley aplicable, en su caso, requerir información adicional, así como realizar investigaciones y denuncias correspondientes;
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2015)</small>
+
+VII. Recibir y registrar las declaraciones patrimoniales y de Conflicto de intereses de los servidores públicos conforme de la ley aplicable, en su caso requerir información adicional, así como realizar investigaciones y denuncias correspondientes;
 
 VIII. Establecer, conjuntamente con la Secretaría de Finanzas y Administración, el sistema de control de la eficiencia en la aplicación del gasto público, de evaluación respecto del presupuesto de egresos y las políticas en los programas gubernamentales, así como de los ingresos y del uso de los recursos patrimoniales de propiedad o al cuidado del Gobierno del Estado y vigilar su cumplimiento;
 
@@ -994,3 +996,9 @@ MARCOS ALBERTO COVARRUBIAS VILLASEÑOR
 SECRETARIO GENERAL DE GOBIERNO
 
 LUIS ANDRÉS CÓRDOVA URRUTIA
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+B.O. 20 DE DICIEMBRE DE 2015.
+
+ÚNICO. El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
