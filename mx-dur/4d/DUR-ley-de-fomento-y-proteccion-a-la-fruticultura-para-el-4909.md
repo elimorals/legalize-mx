@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-fomento-y-proteccion-a-la-fruticultura-para-el-4909"
 country: "mx"
 rank: "ley"
 publication_date: "1988-06-26"
-last_updated: "1996-11-17"
+last_updated: "2015-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # LEY DE FOMENTO Y PROTECCION A LA FRUTICULTURA PARA EL ESTADO DE DURANGO
 
-LEY DE FOMENTO Y PROTECCION A LA FRUTICULTURA PARA EL ESTADO DE DURANGO
+LEY DE FOMENTO Y PROTECCIÓN A LA FRUTICULTURA PARA EL ESTADO DE DURANGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 17 DE NOVIEMBRE DE 1996.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 26 de junio de 1988.
 
@@ -53,9 +53,11 @@ LEY de FOMENTO y PROTECCION a la FRUTICULTURA
 
 para el ESTADO de DURANGO
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 1o.
 
-Se declara de interés público la producción frutícola y su industrialización en el Estado de Durango. En consecuencia, la observancia de esta Ley y de las disposiciones emanadas de la misma, son de observancia obligatoria para todos los fruticultores e industriales frutícolas del Estado.
+La presente ley es de interés social, orden público y obligatoria para los fruticultores e industriales frutícolas, y tiene por objeto fomentar la producción, sanidad, tecnificación, industrialización y comercialización de la fruticultura, en los términos del último párrafo del artículo 40 de la Constitución Política del Estado Libre y Soberano de Durango.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1996)</small>
 
@@ -174,3 +176,11 @@ El Secretario General de Gobierno Lic. Gustavo Rivera Ramos.- Rúbrica.
 P.O. 17 DE NOVIEMBRE DE 1996.
 
 U N I C O: Las presentes reformas entrarán en vigor tres días despupes de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 489.- QUE CONTIENE REFORMAS A LA LEY DE FOMENTO Y PROTECCIÓN A LA FRUTICULTURA PARA EL ESTADO DE DURANGO”.]
+
+PRIMERO.- La presente ley entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se contrapongan con las disposiciones de esta Ley.
