@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-coordinacion-fiscal-del-estado-de-baja-california-sur-47
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-20"
-last_updated: "2015-06-10"
+last_updated: "2015-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # LEY DE COORDINACION FISCAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE ENERO DE 2016 EN EL B.O. DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 20 de diciembre de 2005.
 
@@ -199,11 +201,17 @@ De las 9/11 partes que el Estado recaude por concepto del Impuesto Especial Sobr
 
 a) El 70% en proporción a su nivel de población según los resultados del último censo de población, proporcionados por el Instituto Nacional de Estadística, Geografía e Informativa (sic) (INEGI).
 
-> <small>(REFORMADO, B.O. 10 DE JUNIO DE 2015)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-b) El 20% en proporción al ingreso Municipal por el Impuesto Sobre Enajenación de Bienes Muebles.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2015)</small>
 
-c) El 10% en proporción al ingreso por servicios de tránsito.
+b) El 20% en proporción al ingreso por concepto del Impuesto Sobre Enajenación de Bienes Muebles.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2015)</small>
+
+c) El 10% en proporción al ingreso por servicios de tránsito y control vehicular.
 
 ###### Artículo 10.
 
@@ -313,9 +321,25 @@ De las cantidades que el Estado perciba por concepto del Impuesto sobre Enajenac
 
 (DEROGADO, B.O. 10 DE JUNIO DE 2015)
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, B.O. 20 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 16 Bis.
 
-(DEROGADO, B.O. 10 DE FEBRERO DE 2012)
+De las cantidades que el Estado perciba por concepto de derechos en materia de Control Vehicular, de Registro Civil y de Registro Público de la Propiedad y de Comercio, corresponderán a los Municipios las cantidades que resulten de aplicar la fórmula siguiente:
+
+> <small>N. DE E. VÉASE FÓRMULA EN EL B.O. DE 20 DE DICIEMBRE DE 2015, PÁGINAS DE LA 75 A LA 76.</small>
+
+Para efectos del presente artículo no se considerarán dentro de los ingresos por control vehicular, aquellos recaudados por concepto de registro y baja al padrón vehicular, por consulta a otras entidades federativas sobre trámites y pagos efectuados, por cambio de propietario de motor, carrocería y corrección de datos.
+
+La Secretaria de Finanzas y Administración publicará en el Boletín Oficial del Estado el calendario de entrega, porcentaje, formulas y variables utilizadas, así como los montos estimados que recibirá cada Municipio de los Ingresos por Participaciones Estatales por Derechos, para cada ejercicio fiscal a más tardar el 31 de enero del ejercicio de que se trate.
+
+Los ingresos por participaciones estatales por derechos se determinará (sic) por cada ejercicio fiscal del Estado, el cual en forma provisional hará un cálculo mensual considerando los ingresos por derechos en materia de Control Vehicular, de Registro Civil y de Registro Público de la Propiedad y de Comercio obtenida en el año inmediato anterior o con base en la última información oficial disponible.
+
+Los municipios recibirán las cantidades que les correspondan conforme a esta Ley, en concepto de anticipos mensuales a cuenta de los Ingresos por Participaciones Estatales por Derechos. Los municipios recibirán el 25% de las cantidades que les correspondan en la primera semana de cada mes y el resto en la tercera semana.
+
+A más tardar dentro de los 30 días posteriores a que el Ejecutivo del Estado presente la Cuenta Pública del año anterior al Congreso del Estado para su revisión, la Secretaría de Finanzas y Administración determinará los Ingresos por Participaciones Estatales por Derechos obtenidos en el ejercicio, aplicará las cantidades que hubiera afectado provisionalmente a los Ingresos por Participaciones Estatales por Derechos y formulará de inmediato las liquidaciones que procedan.
 
 ### CAPÍTULO TERCERO. DEL CÁLCULO Y LIQUIDACIÓN DE LAS PARTICIPACIONES
 
@@ -484,3 +508,41 @@ Ejercicio Fiscal Porcentaje de retención
 ###### ARTÍCULO TERCERO.
 
 La derogación del artículo 16 de la presente Ley entrará en vigor hasta que se dejen de percibir ingresos por concepto del Impuesto Sobre Tenencia o Uso de Vehículos señalado en la Ley del Impuesto Estatal Vehicular.
+
+B.O. 20 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2314.- MEDIANTE EL CUAL SE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR Y QUE REFORMA Y ADICIONA LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del primero de enero del año dos mil dieciséis, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+SEGUNDO.- En tanto se realicen las reformas a las leyes en la materia quedan bajo la potestad del Gobierno del Estado los conceptos siguientes de derechos en materia de control vehicular:
+
+I. Registro del vehículo en el Padrón Vehicular;
+
+II. Cambio de propietario de motor, de carrocería y corrección de datos;
+
+III. Baja del vehículo del Padrón Vehicular;
+
+IV. La dotación y/o reposición de placas de identificación del servicio de control vehicular;
+
+V. Expedición de la calcomanía de revalidación;
+
+VI. Expedición de permisos provisionales de circulación;
+
+VII. Reporte de extravío de placas;
+
+VIII. Baja de Placas;
+
+IX. Revisión Electromecánica;
+
+X. Reposición de tarjeta de circulación;
+
+XI. Expedición de Licencia de Manejo;
+
+XII. Permiso provisional para manejo a jóvenes mayores de 16 años y menores de 18 años, y
+
+XIII. Reposición por robo o extravío de licencia de manejo.
+
+TERCERO.- Corresponderá a la Secretaría de Finanzas y Administración determinar el importe a descontar por concepto del costo administrativo de la recaudación a que se refiere el artículo 16 Bis de la Ley de Coordinación Fiscal del Estado de Baja California Sur conforme a las reglas que para tal efecto emita la propia Secretaría.
+
+CUARTO.- Los derechos de los trabajadores que laboran actualmente en las dependencias de control vehicular, registro civil, registro público de la propiedad y del comercio se respetarán conforme a la Ley. Los trabajadores de estas dependencias tendrán la opción de escoger de manera libre y voluntaria si es su deseo seguir perteneciendo laboralmente al ámbito municipal o ser transferidos al ámbito estatal con pleno respeto de sus derechos laborales adquiridos.
