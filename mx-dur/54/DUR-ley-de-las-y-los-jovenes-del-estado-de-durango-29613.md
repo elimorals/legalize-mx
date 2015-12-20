@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-las-y-los-jovenes-del-estado-de-durango-29613"
 country: "mx"
 rank: "ley"
 publication_date: "2003-03-06"
-last_updated: "2014-03-18"
+last_updated: "2015-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=29613&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE LAS Y LOS JÓVENES DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el jueves 6 de marzo de 2003.
 
@@ -121,19 +121,25 @@ V. La no discriminación de las y los jóvenes, cualquiera que sea su origen, fo
 
 VI. La de participación libre y democrática en los procesos de toma de decisiones que afecten su entorno.
 
-### CAPÍTULO II. DE LOS DERECHOS DE LAS Y LOS JÓVENES
+> <small>(DEROGADA SU DENOMINACIÓN, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO II
 
 ###### ARTÍCULO 4.
 
 Son derechos de las y los jóvenes los conferidos por la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Durango, los demás ordenamientos aplicables y los que expresamente señala esta Ley.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 5.
 
-DERECHO FUNDAMENTAL DE LA JUVENTUD. Las y los jóvenes tienen derecho a vivir esta etapa de su vida con calidad, creatividad, vitalidad e impregnada de valores que contribuyan a su pleno desarrollo y expresión de su potencialidad y capacidad humana.
+Las y los jóvenes tienen derecho a vivir esta etapa de su vida con calidad, creatividad, vitalidad e impregnada de valores que contribuyan a su pleno desarrollo y expresión de su potencialidad y capacidad humana
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 6.
 
-DERECHO A LA DIGNIDAD. Las y los jóvenes son inviolables en su dignidad y ésta deberá ser preservada de los efectos nocivos de la violencia, la intolerancia y el autoritarismo. Teniendo, además:
+Las y los jóvenes son inviolables en su dignidad y ésta deberá ser preservada de los efectos nocivos de la violencia, la intolerancia y el autoritarismo. Teniendo, además:
 
 I.- El reconocimiento incondicional a su persona, a su integridad física, Psicoemocional y sexual;
 
@@ -143,19 +149,25 @@ III.- El derecho a una vida libre de violencia y de cualquier tipo de explotaci�
 
 IV.- El derecho a mantener bajo confidencialidad su estado de salud física y mental y los tratamientos que le sean prescritos de conformidad con la legislación aplicable;
 
-V.- Al disfrute y goce de sus derechos humanos y libertades fundamentales, cuando residan en hogares o instituciones donde se les brinden cuidados o tratamientos con pleno respeto a su dignidad, creencias, necesidades e intimidad; y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
+V.- Al disfrute y goce de sus derechos humanos y garantías, cuando residan en hogares o instituciones donde se les brinden cuidados o tratamientos con pleno respeto a su dignidad, creencias, necesidades e intimidad; y
 
 VI. - Los demás que contribuyan a su desarrollo armónico e integral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 7.
 
-DERECHO A LA LIBERTAD. Las y los jóvenes tienen derecho a la individualidad, a la libertad, al acceso a las instituciones educativas, culturales y recreativas; así como al disfrute de tiempo libre en función de un proyecto personal de vida que contribuya a su autorrealización.
+Las y los jóvenes tienen derecho a la individualidad, a la libertad, al acceso a las instituciones educativas, culturales y recreativas; así como al disfrute de tiempo libre en función de un proyecto personal de vida que contribuya a su autorrealización.
 
 Para ello, contarán con oportunidades que les permitan participar y desarrollar plenamente sus potencialidades, capacidades y aptitudes. Las y los jóvenes podrán además:
 
 I. Seleccionar el campo de estudio artístico, deportivo, técnico o profesional de su preferencia y laborar en él, generando ingresos que correspondan al trabajo desempeñado;
 
-II. Disfrutar y ejercer de manera responsable su sexualidad, de modo que la práctica de ella contribuya a su seguridad, identidad y realización personal, así como a decidir de manera consciente y plenamente informada, el momento y el número de hijos que deseen tener;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
+II. A recibir información y educación sexual para que puedan ejercer de manera responsable su sexualidad, de modo que la práctica de ella contribuya a su seguridad, identidad y realización personal; así como a decidir de manera consciente y plenamente informada, el momento y el número de hijos que deseen tener;
 
 III. Tener acceso a programas educativos y de capacitación, que le permitan alfabetizarse o continuar preparándose en su desarrollo personal y social;
 
@@ -165,9 +177,11 @@ V. Mantener su identidad cultural, costumbres y tradiciones; así como transmiti
 
 VI. Los demás que contribuyan a su desarrollo armónico e integral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 8.
 
-DERECHO A LA IDENTIDAD, CERTEZA JURÍDICA Y FAMILIA. Las y los jóvenes tienen derecho a:
+Las y los jóvenes tienen derecho a:
 
 I. Tener una identidad, tomando como base el conjunto de atributos y derechos de la personalidad conforme a lo previsto en la legislación civil;
 
@@ -183,9 +197,19 @@ VI. A recibir un trato digno y apropiado cuando sean víctimas de cualquier tipo
 
 VII. Los demás que contribuyan a su desarrollo armónico e integral.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 9.
 
-DERECHO A LA AUTORREALIZACIÓN, INTEGRACIÓN Y PARTICIPACIÓN. Las y los jóvenes tienen derecho a contar con oportunidades que les permitan su autorrealización, su integración a la sociedad, y su participación en la toma de decisiones de interés público. Lo anterior se manifiesta en:
+Las y los jóvenes tienen derecho a contar con oportunidades que les permitan su autorrealización, su integración a la sociedad y su participación social y política como manera de mejorar sus condiciones de vida, involucrándose en la toma de decisiones de interés público en los ámbitos de los sectores social, público y privado.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
+El Estado y los municipios impulsarán acciones que hagan efectiva la participación de los jóvenes de todos los sectores de la sociedad, alentando su inclusión en organizaciones, e incentivando su derecho de adherirse en agrupaciones políticas, sociales o académicas.
+
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
+Para ello podrán:
 
 I. Disfrutar de la protección y estímulo de su familia y comunidad, de conformidad con el sistema de valores culturales de la sociedad;
 
@@ -207,39 +231,41 @@ IX. Contar con representantes ante el Instituto; y
 
 X. Los demás que contribuyan a su desarrollo armónico e integral.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 10.
 
-DERECHO A LA SALUD. Las y los jóvenes tienen derecho a:
+Las y los jóvenes tienen derecho a los servicios médicos necesarios, para la prevención, tratamiento, atención y rehabilitación de enfermedades y discapacidades, de acuerdo con las bases y modalidades que establecen las disposiciones jurídicas de la materia.
 
-I. Los servicios médicos necesarios, para la prevención, tratamiento, atención y rehabilitación de enfermedades y discapacidades, de acuerdo con las bases y modalidades que establecen las disposiciones jurídicas de la materia;
+De tal manera tendrán derecho a recibir orientación y capacitación para obtener conocimientos básicos en materia de salud, nutrición, higiene, saneamiento comunitario y ambiental, así como todo aquello que favorezca su cuidado personal;
 
-II. Recibir orientación y capacitación para obtener conocimientos básicos en materia de salud, nutrición, higiene, saneamiento comunitario y ambiental, así como todo aquello que favorezca su cuidado personal;
+Serán orientados contra el consumo de drogas, estupefacientes, uso de tecnologías o cualquier otra cosa que les genere estado de dependencia o adicción.
 
-III. Ser orientados contra el consumo de drogas, estupefacientes, uso de tecnologías o cualquier otra cosa que les genere estado de dependencia o adicción; y
-
-IV. Los demás que contribuyan a su desarrollo armónico e integral.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 11.
 
-DERECHO A LA ASISTENCIA SOCIAL. Las y los jóvenes serán sujetos de programas de asistencia social cuando se encuentren o vivan circunstancias de vulnerabilidad social, que coadyuven en la protección integral en tanto puedan valerse por sí mismos y que le auxilien a recuperar su salud y equilibrio personal, en caso de daño físico o mental.
+Las y los jóvenes serán sujetos de programas de asistencia social, cuando se encuentren o vivan circunstancias de vulnerabilidad social, que coadyuven en la protección integral en tanto puedan valerse por sí mismos y que le auxilien a recuperar su salud y equilibrio personal, en caso de daño físico o mental.
 
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
-ARTÍCULO 11 BIS.- DERECHO AL DESARROLLO SOCIAL Y HUMANO.- Las y los jóvenes tendrán derecho a tener acceso al proceso de mejoramiento de su calidad de vida, mediante la satisfacción de sus necesidades básicas, que sea construido prospectivamente bajo los principios de equidad, diversidad, libertad, universalidad, integralidad, solidaridad, participación, sustentabilidad, subsidiariedad y transparencia, con perspectiva de largo plazo; así como a las oportunidades y posibilidades que se generen por el gobierno federal, estatal o municipal y los sectores privado y social, para desplegar sus potencialidades y capacidades humanas para el logro de su mejoramiento y realización personal y social.
+ARTÍCULO 11 bis.- Las y los jóvenes tendrán derecho a tener acceso al proceso de mejoramiento de su calidad de vida, mediante la satisfacción de sus necesidades básicas, que sea construido prospectivamente bajo los principios de equidad, diversidad, libertad, universalidad, integralidad, solidaridad, participación, sustentabilidad, subsidiariedad y transparencia, con perspectiva de largo plazo; así como a las oportunidades y posibilidades que se generen por el gobierno federal, estatal o municipal y los sectores privado y social, para desplegar sus potencialidades y capacidades humanas para el logro de su mejoramiento y realización personal y social.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 12.
 
-DERECHO AL TRABAJO. Todas las y los jóvenes tienen derecho a un trabajo digno, socialmente útil y bien remunerado, de conformidad con la Ley Federal del Trabajo y acercándolos a la posibilidad de mejorar la calidad de vida en su entorno social, en un ambiente laboral sano.
+Todas las y los jóvenes tienen derecho a un trabajo digno, socialmente útil y bien remunerado, de conformidad con la legislación aplicable; el cual deberá permitir acercarlos a la posibilidad de mejorar la calidad de vida en su entorno social, y mediante un ambiente laboral sano.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
-### CAPÍTULO III. DE LOS JÓVENES EN DESVENTAJA SOCIAL
+### CAPÍTULO III. DE LAS Y LOS JÓVENES EN SITUACIÓN DE VULNERABILIDAD
 
-> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 13.
 
-Todas las y los jóvenes en situaciones de desventaja social, como pobreza, indigencia, situación de calle, analfabetismo, discapacidad, privación de la libertad, exclusión social y étnica, entre otras, tiene derecho a reinsertarse e integrarse a la sociedad y a ser sujetos de derechos y oportunidades que les permitan acceder a servicios y beneficios sociales que mejoren su calidad de vida. A recibir información, orientación y apoyo para la protección de sus derechos y para ser sujetos y beneficiarios de las políticas, programas y acciones de desarrollo social y humano.
+Todas las y los jóvenes en situaciones de vulnerabilidad, como pobreza, indigencia, situación de calle, analfabetismo, discapacidad, privación de la libertad, exclusión social y étnica, entre otras, tiene derecho a reinsertarse e integrarse a la sociedad y a ser sujetos de derechos y oportunidades que les permitan acceder a servicios y beneficios sociales que mejoren su calidad de vida. A recibir información, orientación y apoyo para la protección de sus derechos y para ser sujetos y beneficiarios de las políticas, programas y acciones de desarrollo social y humano.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
@@ -291,7 +317,7 @@ III. Desplazarse libremente y con seguridad en los espacios públicos y de servi
 
 IV. Contar con el apoyo del Instituto, de la Secretaria, del Tribunal Superior de Justicia del Estado y de la Comisión Estatal de Derechos Humanos, en lo relativo al ejercicio y respeto de sus derechos;
 
-V. A ejercer de manera responsable e informada su sexualidad, libre de prejuicios; y (sic)
+V. A ejercer de manera responsable e informada su sexualidad, libre de prejuicios; y
 
 VI. A decidir con responsabilidad el ejercicio de su paternidad y maternidad;
 
@@ -305,7 +331,7 @@ VIII. A contar con infraestructura básica que les permita desplazarse librement
 
 > <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2005)</small>
 
-El instituto y la Secretaría, implementarán programas de apoyo y sensibilización, que permitan a las jóvenes embarazadas alcanzar la aceptación conciente de su maternidad y relacionarse adecuadamente con su hijo.
+El instituto y la Secretaría, implementarán programas de apoyo y sensibilización, que permitan a las jóvenes embarazadas alcanzar la aceptación conciente (sic) de su maternidad y relacionarse adecuadamente con su hijo.
 
 ###### ARTÍCULO 18.
 
@@ -455,7 +481,7 @@ XVIII. Promover la participación de las y los jóvenes para su desarrollo y el 
 
 XIX. Llevar a cabo acciones tendientes a elevar el nivel de la calidad de vida de las y los jóvenes e impulsar la equidad entre los sectores vulnerables de la juventud;
 
-XX. Impulsar el diseño de políticas integrales que incluyan la perspectiva generacional, y (sic)
+XX. Impulsar el diseño de políticas integrales que incluyan la perspectiva generacional, y
 
 > <small>(ADICIONADA, P.O. 18 DE MARZO DE 2014)</small>
 
@@ -531,7 +557,9 @@ Secretaría de Finanzas y de Administración;
 
 Secretaria de Educación, y
 
-IV. Un Comisario Público, que será designado por la Secretaría de Contraloría y Modernización Administrativa.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
+IV. Un Comisario Público, que será designado por la Secretaría de Contraloría.
 
 Participará como Secretario Técnico con voz pero sin derecho a voto, el Titular de la Dirección General del Instituto.
 
@@ -768,3 +796,15 @@ P.O. 18 DE MARZO DE 2014.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 20 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 535.- QUE CONTIENE REFORMAS Y ADICIONES A LA LEY DE LAS Y LOS JÓVENES DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
