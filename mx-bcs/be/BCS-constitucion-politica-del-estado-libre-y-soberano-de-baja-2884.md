@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2015-09-23"
+last_updated: "2015-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "BCS"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE ENERO DE 2016 EN EL BOLETÍN OFICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 23 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2015.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -77,7 +79,9 @@ CONSTITUCION POLITICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
 4o.- Es función del Estado proveer el desenvolvimiento de todas las facultades de sus habitantes y promover en todo a que disfruten sin excepción de igualdad de oportunidades, dentro de la justicia social.
 
-5o.- Es finalidad del Estado promover la participación de todos los ciudadanos en los procesos que norman la vida pública y económica de la comunidad. Fomentar la conciencia de la solidaridad estatal, nacional e internacional.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2015)</small>
+
+5o.- Es finalidad del Estado promover la participación de todos los ciudadanos en los procesos que norman la vida pública y económica de la comunidad. Fomentar la conciencia de la solidaridad Estatal, Nacional e Internacional, se reconoce en esta Constitución, la participación ciudadana como derecho humano.
 
 > <small>(REFORMADO, B.O. 10 DE JULIO DE 2014)</small>
 
@@ -427,7 +431,9 @@ La imposición de las penas, su modificación y duración son propias y exclusiv
 
 Compete a la autoridad administrativa la aplicación de sanciones por las infracciones de los reglamentos gubernativos y de policía, las que únicamente consistirán en multa, arresto hasta por treinta y seis horas o en trabajo a favor de la comunidad; pero si el gobernado no pagaré la multa que se le hubiese impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas. Si el infractor que contravenga estas disposiciones fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día. Tratándose de trabajadores no asalariados, la multa que se imponga por infracción de los reglamentos gubernativos y de policía, no excederá del equivalente a un día de su ingreso.
 
-La seguridad pública es una función a cargo de la Federación, el Estado de Baja California Sur y sus Municipios, que comprende la prevención de los delitos; la investigación y persecución para hacerla efectiva, así como la sanción de las infracciones administrativas, en los términos de las leyes reglamentarias. La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en esta Constitución.
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2015)</small>
+
+La seguridad pública es un (sic) función a cargo de la federación, el estado de Baja California Sur y sus municipios, que comprende la prevención de los delitos; la investigación y persecución para hacerla efectiva, así como la sanción de las infracciones administrativas, en los términos de las leyes reglamentarias. En esta Constitución se reconoce la participación ciudadana como derecho humano, en materia de prevención social de la violencia y la delincuencia. La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en esta constitución.
 
 Las instituciones de seguridad pública serán de carácter civil, disciplinado y profesional. El Ministerio Público y las instituciones policiales de los tres niveles de gobierno deberán coordinarse entre sí para cumplir los objetivos de la seguridad pública y formarán parte del Sistema Nacional de Seguridad Pública, con los requisitos, bases y condiciones exigidas en el Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos y sus leyes reglamentarias.
 
@@ -1295,6 +1301,12 @@ XXVIII.- Mejorar las condiciones económicas y sociales de vida de los campesino
 
 XXIX.- Celebrar convenios con el Gobierno Federal y con los Ayuntamientos del Estado para coordinar sus atribuciones en materias concurrentes, así como para la prestación eficaz de funciones y servicios públicos, y asumir la prestación temporal de los mismos, cuando los Ayuntamientos así lo soliciten, satisfaciendo las formalidades exigidas por esta Constitución y las Leyes que de ella emanen.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, B.O. 20 DE DICIEMBRE DE 2015)</small>
+
+XXIX BIS.- Ejercer a través de las Dependencias del Ejecutivo, las atribuciones que señalan el Código Civil, el de Comercio y demás Leyes y Reglamentos en materia de registro civil, registro público de la propiedad y del comercio y de control vehicular.
+
 XXX.- Conocer de las designaciones que haga el Procurador y el Presidente del Tribunal Superior de Justicia;
 
 > <small>(REFORMADA, B.O. 18 DE JUNIO DE 2009)</small>
@@ -1739,7 +1751,11 @@ Estos bienes son inalienables, imprescriptibles e inembargables y no están suje
 
 105.- La Hacienda Pública del Estado está constituída por:
 
-I.- Los ingresos que determine su Ley de Hacienda y demás normas aplicables; y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2015)</small>
+
+I.- Los ingresos que determinen su Ley de Hacienda, de Derechos y Productos y demás normas aplicables.
 
 II.- Los ingresos que adquiera por concepto de convenios, participaciones legales, legados, donaciones o cualesquiera otras causas.
 
@@ -2061,9 +2077,11 @@ III.- Conceder licencia a sus miembros hasta por treinta días y llamar a quiene
 
 IV.- Designar al Regidor que deba sustituir al Presidente Municipal en caso de falta absoluta de éste y su suplente, y llamar a los suplentes del Síndico o Regidores en los casos de falta absoluta de éstos;
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V.- Mantener los servicios de Seguridad Pública, Policía Preventiva y de Transitó Municipales.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2015)</small>
+
+V.- Mantener los servicios de Seguridad Pública, Policía Preventiva y de Transito Municipales de acuerdo con la Ley en la materia.
 
 VI.- Establecer en el territorio del municipio las delegaciones y subdelegaciones que sean necesarias;
 
@@ -2085,7 +2103,11 @@ a) Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus agua
 
 b) Alumbrado Público;
 
-c) Seguridad Pública en los términos del Articulo 21 de la Constitución Política de los Estados Unidos Mexicanos, Policía preventiva y de Tránsito Municipales,
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, B.O. 20 DE DICIEMBRE DE 2015)</small>
+
+c) Seguridad Pública en los términos del Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, Policía preventiva y de Tránsito Municipales de acuerdo con la Ley en la materia;
 
 d) Limpia, recolección, traslado, tratamiento y disposición final de residuos;
 
@@ -2121,9 +2143,9 @@ XVI.- Los Municipios, previo acuerdo entre sus Ayuntamientos, podrán coordinars
 
 XVII.- Con la aprobación de las dos terceras partes de sus integrantes, solicitar al Congreso del Estado su aprobación para celebrar convenio para que el Gobierno del Estado, asuma una función o servicio público municipal por el tiempo que se requiera, y en su caso, establecer una prorroga.
 
-> <small>(ADICIONADA, B.O. 16 DE DICIEMBRE DE 1983)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XVIII.- Ejercer las atribuciones que señalan el Código Civil, el de Comercio y demás Leyes y Reglamentos en materia de Registro Público de la Propiedad y del Comercio.
+XVIII.- (DEROGADA, B.O. 20 DE DICIEMBRE DE 2015)
 
 > <small>(ADICIONADA, B.O. 16 DE DICIEMBRE DE 1983)</small>
 
@@ -2215,11 +2237,13 @@ VI.- Nombrar y remover a los delegados, subdelegados, alcaides y personal de pol
 
 VII.- Convocar al ayuntamiento a sesiones de acuerdo con lo que establezca el reglamento interior;
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2001)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-VIII.- Tener bajo su mando los cuerpo (sic) de seguridad publica, policía preventiva y transito municipales, en los términos que establezca los (sic) el reglamento respectivo.
+> <small>N. DE E. VÉASE LITERALIDAD DEL DECRETO 2314 PUBLICADO EN EL B.O. DE 20 DE DICIEMBRE DE 2015, PÁGINA 74.</small>
 
-La policía preventiva municipal deberá acatar las órdenes que el gobernador del estado le transmita, en casos en que el mismo juzgue como de fuerza mayor o alteración grave del orden público.
+> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2015)</small>
+
+VII (SIC).- Tener bajo su mando los cuerpos de Seguridad Publica, Policía Preventiva y Transito Municipales, en los términos que establezca el Reglamento respectivo y la Ley en la materia.
 
 IX.- Solicitar la autorización del ayuntamiento para ausentarse del municipio por más de quince días;
 
@@ -2227,9 +2251,9 @@ X.- Vigilar que los delegados y subdelegados cumplan las funciones de su encargo
 
 XI.- Remitir ejemplares a las autoridades del municipio y estatales, de las leyes, decretos y demás disposiciones, autorizados con su firma y la del Secretario, con la fecha de su publicación;
 
-> <small>(REFORMADA, B.O. 26 DE AGOSTO DE 1975)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-XII.- Nombrar oficiales del Registro Civil y autorizar a otros empleados o funcionarios municipales técnicamente preparados, a efecto de que desempeñen temporalmente las funciones de aquellos, ya sea cuando por cualquier causa falte el titular o en los lugares en que el interés social requiera en un momento dado la prestación de dichos servicios registrales, y personalmente no pueda realizarlos el oficial del Registro Civil de la jurisdicción.
+XII.- (DEROGADA, B.O. 20 DE DICIEMBRE DE 2015)
 
 #### SECCION III. DEL SINDICO
 
@@ -2281,7 +2305,9 @@ IX.- Delegaciones y Subdelegaciones Municipales
 
 X.- Catastro
 
-XI.- Registro Público de la Propiedad y del Comercio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+XI.- (DEROGADA, B.O. 20 DE DICIEMBRE DE 2015)
 
 XII.- Desarrollo Municipal
 
@@ -2414,6 +2440,10 @@ V. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar
 > <small>(REFORMADO, B.O. 10 DE MAYO DE 2003)</small>
 
 166.- La presente Constitución puede ser adicionada y reformada. Las Iniciativas que tengan ese objeto, se sujetarán a las disposiciones establecidas en los artículos 57 al 63, pero requerirán de la aprobación de cuando menos, las dos terceras partes del total de diputados que integran la Legislatura.
+
+> <small>N. DE E. SE ADVIERTE QUE MEDIANTE DECRETO No. 1407, B.O. 10 DE MAYO DE 2003, SE REFORMÓ EL ARTÍCULO 166 Y POR DECRETO No. 2306, B.O. 20 DE DICIEMBRE DE 2015, SE DEROGA UN SEGUNDO PÁRRAFO, VÉASE PUBLICACIONES.</small>
+
+> <small>(DEROGADO SEGUNDO PÁRRAFO, B.O. 20 DE DICIEMBRE DE 2015)</small>
 
 167.- Esta Constitución no perderá su fuerza y vigor aun cuando por alguna rebelión se interrumpa su observancia. En caso de que por algún trastorno público se establezca un gobierno contrario a los principios que ella sanciona, tan luego como el pueblo recobre su libertad, se restablecerá su observancia y con arreglo a ella y a las leyes que en su virtud se hubieren expedido, serán juzgados, tanto los que hubieren figurado en el gobierno de la rebelión como los que hubieren cooperado a ésta.
 
@@ -3376,3 +3406,55 @@ B.O. 23 DE SEPTIEMBRE DE 2015.
 DECRETO NÚMERO 2296, POR EL QUE SE REFORMAN LAS FRACCIONES I DEL ARTÍCULO 82 Y I DEL ARTÍCULO 84 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR.
 
 ÚNICO.- El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE DICIEMBRE DE 2015.
+
+DECRETO NÚMERO 2306, POR EL QUE SE DEROGA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 166 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR.
+
+ÚNICO.- El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE DICIEMBRE DE 2015.
+
+DECRETO 2310, POR EL QUE SE REFORMAN EL ARTÍCULO 5 Y EL PÁRRAFO SEXTO DEL ARTÍCULO 20 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE BAJA CALIFORNIA SUR.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 20 DE DICIEMBRE DE 2015.
+
+DECRETO NÚMERO 2314 POR EL QUE SE ADICIONA LA FRACCIÓN XXIX BIS AL ARTÍCULO 79; SE REFORMAN LA FRACCIÓN I DEL ARTÍCULO 105, LA FRACCIÓN V Y EL INCISO C DE LA FRACCIÓN IX DEL ARTÍCULO 148, LA FRACCIÓN VIII DEL ARTÍCULO 151 Y SE DEROGAN LA FRACCIÓN XVIII DEL ARTÍCULO 148; LA FRACCIÓN XII DEL ARTÍCULO 151, Y LA FRACCIÓN XI DEL ARTÍCULO 154, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DEL ESTADO DE BAJA CALIFORNIA SUR.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del primero de enero del año dos mil dieciséis, previa su publicación en el Boletín Oficial del Gobierno del Estado.
+
+SEGUNDO.- En tanto se realicen las reformas a las leyes en la materia quedan bajo la potestad del Gobierno del Estado los conceptos siguientes de derechos en materia de control vehicular:
+
+I. Registro del vehículo en el Padrón Vehicular;
+
+II. Cambio de propietario de motor, de carrocería y corrección de datos;
+
+III. Baja del vehículo del Padrón Vehicular;
+
+IV. La dotación y/o reposición de placas de identificación del servicio de control vehicular;
+
+V. Expedición de la calcomanía de revalidación;
+
+VI. Expedición de permisos provisionales de circulación;
+
+VII. Reporte de extravío de placas;
+
+VIII. Baja de Placas;
+
+IX. Revisión Electromecánica;
+
+X. Reposición de tarjeta de circulación;
+
+XI. Expedición de Licencia de Manejo;
+
+XII. Permiso provisional para manejo a jóvenes mayores de 16 años y menores de 18 años, y
+
+XIII. Reposición por robo o extravío de licencia de manejo.
+
+TERCERO.- Corresponderá a la Secretaría de Finanzas y Administración determinar el importe a descontar por concepto del costo administrativo de la recaudación a que se refiere el artículo 16 Bis de la Ley de Coordinación Fiscal del Estado de Baja California Sur conforme a las reglas que para tal efecto emita la propia Secretaría.
+
+CUARTO.- Los derechos de los trabajadores que laboran actualmente en las dependencias de control vehicular, registro civil, registro público de la propiedad y del comercio se respetarán conforme a la Ley. Los trabajadores de estas dependencias tendrán la opción de escoger de manera libre y voluntaria si es su deseo seguir perteneciendo laboralmente al ámbito municipal o ser transferidos al ámbito estatal con pleno respeto de sus derechos laborales adquiridos.
