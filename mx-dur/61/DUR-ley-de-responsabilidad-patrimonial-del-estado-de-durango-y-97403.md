@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-responsabilidad-patrimonial-del-estado-de-durango-y-9740
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-05"
-last_updated: "2013-12-05"
+last_updated: "2015-12-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97403&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "DUR"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE DURANGO Y SUS MUNICIPIOS
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL DÍA 1 DE ENERO DEL AÑO 2014.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 5 de diciembre de 2013.
 
@@ -51,9 +49,11 @@ Se expide la Ley de Responsabilidad Patrimonial del Estado de Durango y sus Muni
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés general y reglamentaria del último párrafo del artículo 120 de la Constitución Política del Estado Libre y Soberano de Durango.
+La presente Ley es de orden público e interés general y reglamentaria del primer párrafo del artículo 162 de la Constitución Política del Estado Libre y Soberano de Durango.
 
 ###### Articulo 2.
 
@@ -205,9 +205,11 @@ Después de recibida la solicitud, el titular de la dependencia o entidad involu
 
 Concluido el periodo probatorio, el titular estará obligado en un plazo que no excederá de los diez días hábiles, a estudiar el asunto y a emitir resolución por escrito, debidamente fundada y motivada, misma que deberá contener los elementos a que se refiere el artículo 29 de la presente Ley.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 25.
 
-El procedimiento de responsabilidad patrimonial del Estado por la vía contenciosa, se substanciará de conformidad con lo dispuesto en la Ley de Justicia Administrativa para el Estado de Durango.
+El procedimiento de responsabilidad patrimonial del Estado por la vía contenciosa, se substanciará de conformidad con lo dispuesto en la Ley de Justicia Fiscal y Administrativa para el Estado de Durango.
 
 ###### Artículo 26.
 
@@ -233,9 +235,11 @@ Las resoluciones administrativas que se dicten con motivo de los reclamos que pr
 
 Las resoluciones de la autoridad administrativa que nieguen la indemnización o que no satisfagan al interesado, podrán impugnarse por la vía contencioso administrativa conforme a las leyes de la materia.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 31.
 
-Las resoluciones dictadas por el Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado causarán estado y serán ejecutables siguiendo las reglas que se establecen en el (sic) Ley de Justicia Administrativa para el Estado de Durango.
+Las resoluciones dictadas por el Tribunal de Justicia Fiscal y Administrativa del Poder Judicial del Estado causarán estado y serán ejecutables siguiendo las reglas que se establecen en la Ley de Justicia Fiscal y Administrativa para el Estado de Durango.
 
 ### CAPÍTULO IV. DE LA CONCURRENCIA
 
@@ -324,3 +328,13 @@ SECRETARIA.
 DIP. MANUEL IBARRA MIRANO
 
 SECRETARIO.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 508.- QUE CONTIENE REFORMAS A LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO DE DURANGO Y SUS MUNICIPIOS".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
