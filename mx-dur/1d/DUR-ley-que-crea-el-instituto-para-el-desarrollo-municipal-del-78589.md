@@ -4,7 +4,7 @@ identifier: "DUR-ley-que-crea-el-instituto-para-el-desarrollo-municipal-del-7858
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-14"
-last_updated: "2010-11-14"
+last_updated: "2015-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78589&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY QUE CREA EL INSTITUTO PARA EL DESARROLLO MUNICIPAL DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el domingo 14 de noviembre de 2010.
 
@@ -45,9 +45,11 @@ LEY QUE CREA EL INSTITUTO PARA EL DESARROLLO MUNICIPAL DEL ESTADO DE DURANGO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 1.
 
-Se crea el Instituto para el Desarrollo Municipal del Estado de Durango, como un Organismo Público Descentralizado, con personalidad jurídica y patrimonio propios, con autonomía de gestión, el cual tendrá su domicilio legal en la capital del Estado.
+Se crea el Instituto para el Desarrollo Municipal del Estado de Durango, en concordancia con los numerales 47, 50, y 152 de la Constitución Política del Estado Libre y Soberano de Durango; como un Organismo Público Descentralizado, con personalidad jurídica y patrimonio propio, con autonomía de gestión, el cual tendrá su domicilio legal en la capital del Estado.
 
 ###### ARTÍCULO 2.
 
@@ -67,15 +69,17 @@ IV. Dirección: A la Dirección General;
 
 V. Director: Al Director General; y
 
-VI. Órgano Interno de Control: La Contraloría Interna del Instituto; (sic)
+VI. Órgano Interno de Control: La Contraloría Interna del Instituto;
 
 ###### ARTÍCULO 4.
 
 El Instituto, en el cumplimiento de sus objetivos, tendrá como ejes rectores, los siguientes principios básicos:
 
-l. Respeto pleno a la autonomía municipal;
+I. Respeto pleno a la autonomía municipal;
 
-II. Desarrollo integral de los municipios a través de la articulación de políticas públicas, programas y acciones de los gobiernos Federal, Estatal y Municipal, a fin de favorecer el adecuado aprovechamiento de los recursos, así como su racionalización, optimización y rendición de cuentas;
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
+II. Desarrollo integral de los municipios a través de la articulación de políticas públicas, programas y acciones de los gobiernos Federal, Estatal y Municipal, a fin de favorecer el adecuado aprovechamiento de los recursos, así como su racionalización, optimización y rendición de cuentas, en estricto apego a lo preceptuado en el artículo 160 de la Constitución Política del Estado Libre y Soberano de Durango;
 
 III. Fortalecimiento y modernización de la administración pública municipal;
 
@@ -171,11 +175,11 @@ Se podrá invitar a formar parte del Consejo con derecho a voz pero sin voto, a 
 
 El Consejo funcionará en forma colegiada, en reuniones ordinarias y extraordinarias que se convoquen y desarrollen en términos de su reglamento, las reuniones ordinarias deberán celebrarse por lo menos una vez cada tres meses, y en forma extraordinaria cuantas veces sea necesario, según la relevancia de los asuntos a tratar o cuando así lo solicite la mayoría, los acuerdos se tomarán por mayoría de sus miembros, el Presidente del Consejo tendrá voto de calidad en caso de empate.
 
-La emisión de la convocatoria a sesiones será responsabilidad del Presidente, a través del Secretario Técnico del Consejo, el orden del día y la documentación relativa a éstas, deberán ser incluidas y anexas en su caso, a dicha convocatoria, (sic)
+La emisión de la convocatoria a sesiones será responsabilidad del Presidente, a través del Secretario Técnico del Consejo, el orden del día y la documentación relativa a éstas, deberán ser incluidas y anexas en su caso, a dicha convocatoria,
 
 ###### ARTÍCULO 10.
 
-El Gobernador del Estado designará y removerá quien (sic) fungirá como Director del Instituto, quien tendrá a su cargo el manejo operativo, técnico y administrativo del mismo.
+El Gobernador del Estado designará y removerá (sic) quien fungirá como Director del Instituto, quien tendrá a su cargo el manejo operativo, técnico y administrativo del mismo.
 
 ###### ARTÍCULO 11.
 
@@ -326,3 +330,13 @@ C.P. JORGE HERRERA CALDERA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. HUGO GERARDO ROSALES BADILLO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 499.- QUE CONTIENE REFORMAS A LA LEY QUE CREA EL INSTITUTO PARA EL DESARROLLO MUNICIPAL DEL ESTADO DE DURANGO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO.- Se derogan todas las disposiciones legales que se opongan al contenido de esta ley.
