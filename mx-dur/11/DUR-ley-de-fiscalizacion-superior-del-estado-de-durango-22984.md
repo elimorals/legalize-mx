@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-fiscalizacion-superior-del-estado-de-durango-22984"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-30"
-last_updated: "2012-12-15"
+last_updated: "2015-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22984&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Gobierno Constitucional del Estado de Durango, el domingo 30 de diciembre de 2001.
 
@@ -35,9 +35,7 @@ Con fecha 13 de Diciembre del 2000, los CC. Diputados: JOSÉ ROSAS AISPURO TORRE
 
 CONSIDERANDOS:
 
-PRIMERO.- A efecto de dar cumplimiento con lo dispuesto por la Constitución PoIítica del Estado de Durango, misma que fue reformada mediante decreto No. 308 publicado en el Periódico Oficial del Gobierno del Estado, No. 43 Bis del 26 de noviembre del año 2000, por el cual se crea la Entidad de Auditoría Superior del Estado de Durango, como órgano técnico del Congreso, encargado de la fiscalización y control gubernamental materializando con ello el ejercicio de las
-
-facultades exclusivas del Poder Legislativo para asegurarse de que los recursos económicos se administren con mayor eficiencia, eficacia, transparencia y honradez para cumplir los objetivos y programas a que estén destinados, con el propósito de lograr una administración pública acorde a los nuevos tiempos de la República por lo cual se analizaron las iniciativas que fueron presentadas, mismas que tienen como finalidad, concretar el cumplimiento de la disposición constitucional al proponer la regulación, las facultades y atribuciones que en materia de Fiscalización Superior corresponden a esta Soberanía, así como establecer con precisión la estructura, organización y funcionamiento de la citada entidad de fiscalización; así como regular las generalidades relativas a los procedimientos de auditoría superior y sus derivaciones legales.
+PRIMERO.- A efecto de dar cumplimiento con lo dispuesto por la Constitución Política del Estado de Durango, misma que fue reformada mediante decreto No. 308 publicado en el Periódico Oficial del Gobierno del Estado, No. 43 Bis del 26 de noviembre del año 2000, por el cual se crea la Entidad de Auditoría Superior del Estado de Durango, como órgano técnico del Congreso, encargado de la fiscalización y control gubernamental materializando con ello el ejercicio de las facultades exclusivas del Poder Legislativo para asegurarse de que los recursos económicos se administren con mayor eficiencia, eficacia, transparencia y honradez para cumplir los objetivos y programas a que estén destinados, con el propósito de lograr una administración pública acorde a los nuevos tiempos de la República por lo cual se analizaron las iniciativas que fueron presentadas, mismas que tienen como finalidad, concretar el cumplimiento de la disposición constitucional al proponer la regulación, las facultades y atribuciones que en materia de Fiscalización Superior corresponden a esta Soberanía, así como establecer con precisión la estructura, organización y funcionamiento de la citada entidad de fiscalización; así como regular las generalidades relativas a los procedimientos de auditoría superior y sus derivaciones legales.
 
 SEGUNDO.- La Entidad de Auditoría Superior del Estado, como órgano técnico del Congreso; contará con un titular de la misma que será designado por éste, con el voto de las dos terceras partes de los Diputados presentes, y que durará cuatro años en su encargo como lo dispone la Constitución Política del Estado, sujetándose además, en el desempeño de sus funciones, a las disposiciones de la Ley de Responsabilidades de los Servidores Públicos y del Estado y de los Municipios, lo cual garantiza la imparcialidad, eficiencia, lealtad y honradez en el desempeño de sus funciones. La Entidad de fiscalización sustituirá a la actual Contaduría Mayor de Hacienda del Congreso del Estado, en el entendido de que los asuntos que se encuentren en trámite o en proceso al entrar en vigor el decreto de creación de la Entidad, continuarán tramitándose por la Entidad en los términos de la Ley Orgánica de la Contaduría Mayor de Hacienda; los bienes, archivos y recursos presupuestales asignados a la Contaduría pasarán a formar parte de la Entidad de Auditoría Superior, la cual se subroga los derechos y obligaciones de aquella; los servidores públicos y demás personal también pasarán a formar parte de la Entidad, respetándose sus derechos laborales.
 
@@ -47,7 +45,7 @@ CUARTO.- Aspecto importante lo constituye el ámbito y la competencia de la Enti
 
 QUINTO.- Se considera como un importante avance el que la reforma constitucional a que se alude en el considerando primero del presente, haya contemplado que la Entidad tenga la facultad de determinar las indemnizaciones y sanciones pecuniarias que deban fincarse en el ejercicio de sus atribuciones, facultando a la autoridad competente para aplicar el procedimiento administrativo de ejecución en el cobro de dichas indemnizaciones y sanciones, lo cual sin duda permite cumplir el objetivo de restituir a las haciendas públicas en los daños y perjuicios sufridos y que hayan sido detectados en el ejercicio de la fiscalización superior.
 
-SEXTO.- La creación de la Entidad de Auditoría Superior del Estado de Durango, surge de la necesidad de lograr el equilibro de poderes, ya que en un estado de derecho es necesaria la coordinación y colaboración entre estos para coadyuvar a una real y efectiva división de poderes que redundará en una más eficiente y eficaz administración pública para que cumpla con los cometidos de su responsabilidad con el propósito de coadyuvar a un desarrollo armónico en (sic) integral de nuestra sociedad, porque en la medida que halla (sic) un manejo transparente de los recursos públicos se eficientará la gestión pública por un lado y por el otro, se acrecentará la confianza y credibilidad de la población.
+SEXTO.- La creación de la Entidad de Auditoría Superior del Estado de Durango, surge de la necesidad de lograr el equilibro (sic) de poderes, ya que en un estado de derecho es necesaria la coordinación y colaboración entre estos para coadyuvar a una real y efectiva división de poderes que redundará en una más eficiente y eficaz administración pública para que cumpla con los cometidos de su responsabilidad con el propósito de coadyuvar a un desarrollo armónico en (sic) integral de nuestra sociedad, porque en la medida que halla (sic) un manejo transparente de los recursos públicos se eficientará la gestión pública por un lado y por el otro, se acrecentará la confianza y credibilidad de la población.
 
 SÉPTIMO.- Como se ha expresado, las iniciativas coinciden en el fondo del tema a que se hace referencia; las diferencias son de técnica legislativa y de cuestiones de redacción y de estilo.
 
@@ -85,13 +83,17 @@ LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE DURANGO
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 1.
 
-La presente ley es de orden público y tiene por objeto regular las facultades y atribuciones que en materia de fiscalización superior está investido el Poder Legislativo del Estado de Durango, así como reglamentar las atribuciones, facultades, organización y funcionamiento de la Entidad de Auditoria Superior del Estado de Durango a la que se refiere el artículo 58 de la Constitución Política del Estado.
+La presente ley es de orden público y tiene por objeto regular las facultades y atribuciones que en materia de fiscalización superior está investido el Poder Legislativo del Estado de Durango, así como reglamentar las atribuciones, facultades, organización y funcionamiento de la Entidad de Auditoría Superior del Estado de Durango, esto conforme a los artículos 85, 86 y 170 de la Constitución Política del Estado Libre y Soberano de Durango.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 2.
 
-La Entidad de Auditoría Superior del Estado de Durango es un órgano técnico auxiliar dependiente del Congreso del Estado, encargado de la fiscalización y supervisión de la gestión gubernamental, dotado de personalidad jurídica y patrimonio propios y de autonomía de gestión en el ejercicio de sus atribuciones, que apoya al Poder Legislativo en el desempeño de sus facultades exclusivas de fiscalización y tiene la competencia que le confiere la Constitución Política del Estado, esta ley y las demás disposiciones legales.
+La Entidad de Auditoría Superior del Estado es el órgano del Congreso del Estado con autonomía técnica y de gestión, en el ejercicio de sus atribuciones y para decidir sobre su administración y organización interna, funcionamiento y resoluciones en los términos que disponga la ley, encargado de la fiscalización de los recursos públicos que ejerzan los poderes y los municipios, sus entidades y dependencias, así como las administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones y órganos constitucionales autónomos, y cualquier otro ente público.
 
 ###### Artículo 3.
 
@@ -109,7 +111,9 @@ V. Comisión: La Comisión de Vigilancia de la Entidad de Auditoría Superior de
 
 VI. Secretaría: La Secretaría de Finanzas y de Administración del Gobierno del Estado;
 
-VII. Contraloría: La Secretaría de la Contraloría y Modernización Administrativa del Gobierno del Estado.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
+VII. Contraloría: La Secretaría de Contraloría;
 
 VIII. Órganos Internos de Control: Los Órganos de Control Interno de los Poderes Legislativo y Judicial, de los Ayuntamientos, y de las Entidades y Organismos del Estado y Municipios;
 
@@ -119,29 +123,35 @@ IX. Entidades: Las Entidades paraestatales y organismos descentralizados o desco
 
 X. Entes Fiscalizables: Los Poderes del Estado, los Ayuntamientos, los Organismos Autónomos, los Organismos Descentralizados de carácter estatal y municipal, y en general, cualquier persona física o moral, pública o privada, que recaude, administre, maneje o ejerza recursos públicos;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
-XI. Cuentas Públicas: Las que rinden el Gobierno del Estado, los Ayuntamientos y los Organismos Autónomos, cada año al Congreso del Estado, y en su caso, a fin de darle a conocer los resultados de su gestión financiera durante el ejercicio fiscal del año que corresponda, para comprobar si se ha dado cumplimiento a los objetivos contenidos en sus planes y programas, de conformidad con los criterios señalados en el presupuesto correspondiente;
+XI. Cuentas Públicas: Las que rinden los poderes públicos del Estado, los órganos constitucionales autónomos y los ayuntamientos, sobre el manejo, la custodia y la aplicación de fondos y recursos a su cargo, incluyendo los de origen federal, en los términos señalados por la ley.
 
 > <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 XII. Gestión Financiera: La administración, manejo, custodia y aplicación de los recursos públicos que los Poderes del Estado, Ayuntamientos, los Organismos Autónomos, y los Organismos Descentralizados de carácter estatal y municipal, utilicen anualmente para el cumplimiento de los objetivos contenidos en sus planes y programas, de conformidad con las leyes y demás disposiciones en la materia; y
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
-XIII. Informes Preliminares: Los que rinden el Gobierno del Estado, los Ayuntamientos, los Organismos Autónomos, y los Organismos Descentralizados de carácter estatal y municipal, a la Entidad de Auditoría Superior, mediante los cuales, informan de manera mensual respecto de los avances en el cumplimiento de los objetivos contenidos en sus planes y programas, así como los registros contables correspondientes a los períodos en los que deba informarse, a efecto de integrar la Cuenta Pública; estos informes, tienen como finalidad, la evaluación continua del desempeño de la gestión. La Entidad tendrá la facultad y competencia necesaria para recomendar a los entes fiscalizables, la implantación de medidas preventivas para el mejoramiento de sistemas para el perfeccionamiento de la administración pública;
+XIII. Informes Preliminares: Los que rinden los poderes públicos del Estado, los órganos constitucionales autónomos, los ayuntamientos y los organismos descentralizados de carácter estatal y municipal, a la Entidad, mediante los cuales, informan de manera mensual respecto de los avances en el cumplimiento de los objetivos contenidos en sus planes y programas, así como los registros contables correspondientes a los períodos en los que deba informarse, a efecto de integrar la Cuenta Pública; estos informes tienen como finalidad, la evaluación continua del desempeño de la gestión. La Entidad tendrá la facultad y competencia necesaria para recomendar a los entes fiscalizables, la implantación de medidas preventivas para el mejoramiento de sistemas para el perfeccionamiento de la administración pública; y
 
 XIV. Informe de resultados: El Informe de resultados de la revisión de las Cuentas Públicas que la Entidad, por conducto de la Comisión de Hacienda, Presupuesto y Cuenta Pública, presenta al Congreso.
 
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
+La Entidad deberá guardar reserva de sus actuaciones y observaciones hasta que rinda el informe de resultados correspondiente, en términos de las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 4.
 
-La fiscalización superior a cargo de la Entidad, se realizará en forma posterior a la presentación de las Cuentas Públicas. Esta se hará de manera externa, independiente y autónoma, con respecto a los sistemas de control interno de los entes fiscalizables.
+La fiscalización superior a cargo de la Entidad, se realizará en forma posterior, a partir del primer día hábil del ejercicio fiscal siguiente. Esta tiene carácter, externo, permanente, independiente y autónomo de cualquier otra forma de control o fiscalización a cargo de las instancias de control competentes, y será ejercida conforme a los principios de legalidad, definitividad, imparcialidad y confiabilidad.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 5.
 
-Son sujetos de fiscalización, los Poderes del Estado, los Ayuntamientos, los Organismos Autónomos, y los Organismos Descentralizados de carácter estatal y municipal, y en general, cualquier persona física o moral, pública o privada, que recaude, administre, maneje o ejerza recursos públicos. La Entidad sólo será fiscalizada por el Congreso del Estado.
+Son sujetos de fiscalización, los Poderes del Estado, los Órganos constitucionales autónomos, los Ayuntamientos, los Organismos Descentralizados de carácter estatal y municipal, y en general, cualquier persona física o moral, pública o privada, que recaude, administre, maneje o ejerza recursos públicos. La Entidad sólo será fiscalizada por el Congreso del Estado.
 
 ## TÍTULO SEGUNDO. DE LA ENTIDAD DE AUDITORÍA SUPERIOR DEL ESTADO
 
@@ -151,83 +161,103 @@ Son sujetos de fiscalización, los Poderes del Estado, los Ayuntamientos, los Or
 
 La Entidad, tiene las facultades y atribuciones siguientes:
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
-I. Fiscalizar en forma posterior a la presentación de las Cuentas Públicas, los ingresos y egresos, el manejo, custodia y aplicación de los fondos y recursos del Gobierno del Estado, los Ayuntamientos y los Organismos Autónomos, así como el cumplimiento de los objetivos contenidos en los planes y programas respectivos;
+I. Fiscalizar los ingresos y egresos, el manejo, la custodia y la aplicación de recursos que ejerzan las entidades fiscalizadas;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
-II. Llevar registro de los informes preliminares que deberán rendir el Gobierno del Estado, los Ayuntamientos y los Organismos Autónomos, para los efectos de la integración de sus Cuentas Públicas; así como los Organismos Descentralizados de carácter estatal y municipal, y recomendar en forma preventiva la instauración de programas que tiendan al mejoramiento, eficiencia y modernización de la Hacienda Pública;
+II. Realizar auditorías sobre el desempeño, emitiendo las recomendaciones correspondientes. Las entidades fiscalizadas deberán precisar las mejoras realizadas o, en su caso, justificar su improcedencia;
 
-III. Apoyar al Congreso del Estado en la revisión anual de las Cuentas Públicas y entregar, por conducto de la Comisión de Hacienda, Presupuesto y Cuenta Pública, el Informe de resultados de dicha revisión al propio Congreso;
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
-IV.- Recibir y registrar las declaraciones de situación patrimonial de los servidores públicos que conforme a las disposiciones legales aplicables tengan obligación de presentarlas y fincar las responsabilidades correspondientes en el caso de que ello no suceda o su presentación sea extemporánea;
+III. Revisar los procesos concluidos que los sujetos de fiscalización reporten en los informes de avance de gestión financiera. De igual manera, derivado de denuncias que presuman daño a la hacienda pública o al patrimonio de las entidades, la Entidad podrá requerir a éstas procedan a la revisión, durante el ejercicio fiscal en curso, de los hechos motivo de la denuncia y le rindan un informe;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
-V. Verificar, en forma posterior, si la gestión financiera de los Poderes del Estado, los Organismos Autónomos, y de los Ayuntamientos se efectuó conforme a las disposiciones aplicables en materia de sistemas de registro y contabilidad gubernamental: contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles; almacenes y demás activos y recursos materiales;
+IV. Llevar registro de los informes preliminares que deberán rendir el Gobierno del Estado, los Ayuntamientos y los Organismos Autónomos, para los efectos de la integración de sus Cuentas Públicas; así como los Organismos Descentralizados de carácter estatal y municipal, y recomendar en forma preventiva la instauración de programas que tiendan al mejoramiento, eficiencia y modernización de la Hacienda Pública;
 
-VI. Comprobar si la recaudación, administración, manejo y aplicación de recursos estatales y municipales; los actos, contratos, convenios, concesiones u operaciones que los entes fiscalizables celebraron o realizaron, se ajustaron a la legalidad, y si no causaron daños o perjuicios en contra de las haciendas publicas estatal y municipales y al patrimonio de las entidades;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
-VII. Verificar que los entes fiscalizables que hubieren recaudado, manejado, administrado o ejercido recursos públicos, lo hayan realizado conforme a los programas aprobados y montos autorizados; así mismo, en el caso de los egresos, con cargo a las partidas correspondientes, con apego a las disposiciones aplicables;
+V. Entregar al Congreso los informes del resultado de la revisión de la Cuenta Pública, a más tardar el último día hábil del mes de julio del año de su presentación. Dentro de dichos informes se incluirán las auditorías practicadas, los dictámenes de su revisión, los apartados correspondientes a la fiscalización del manejo de los recursos públicos por parte de los entes fiscalizables, la verificación del desempeño en el cumplimiento de los objetivos de los programas y el relativo a las observaciones de la Entidad;
 
-VIII. Verificar obras, bienes adquiridos y servicios contratados, para comprobar que las inversiones y gastos autorizados a los entes fiscalizables, se hayan aplicado legal y eficientemente al logro de los objetivos y metas de los programas aprobados y con las mejores condiciones;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
-IX. Establecer los criterios para las auditorías, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de las Cuentas Públicas, verificando que sean presentadas, en los términos de esta ley y de conformidad con los principios de contabilidad aplicables al Sector Público;
+VI. Entregar al Congreso, dentro de los primeros quince días de los meses de febrero y agosto de cada año, un informe sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas por la Entidad.
 
-X. Establecer conjuntamente con la Secretaría, la Contraloría y los Órganos Internos de Control, las reglas técnicas, procedimientos, métodos y sistemas de contabilidad y de archivo de los libros y documentos justificativos y comprobatorios del ingreso y del gasto público; así como todos aquellos elementos que permitan la práctica idónea de las auditorías y revisiones;
+VII. Recibir y registrar las declaraciones de situación patrimonial de los servidores públicos que conforme a las disposiciones legales aplicables tengan obligación de presentarlas y fincar las responsabilidades correspondientes en el caso de que ello no suceda o su presentación sea extemporánea;
 
-XI. Investigar, en su caso, los actos u omisiones que pudieran configurar alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos de los Poderes del Estado, de los Ayuntamientos y de las Entidades;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
-XII. Ordenar y efectuar visitas domiciliarias para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas, las que para este efecto se considera aplicables al cateo;
+VIII. Verificar si la gestión financiera de los Poderes del Estado, los Organismos Autónomos, y de los Ayuntamientos se efectuó conforme a las disposiciones aplicables en materia de sistemas de registro y contabilidad gubernamental: contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes muebles e inmuebles; almacenes y demás activos y recursos materiales;
 
-XIII. Colaborar, para efectos de la fiscalización de recursos federales que ejerzan los entes fiscalizables, con su similar de la Federación, en la investigación y detección de desviaciones de dichos recursos;
+IX. Comprobar si la recaudación, administración, manejo y aplicación de recursos estatales y municipales; los actos, contratos, convenios, concesiones u operaciones que los entes fiscalizables celebraron o realizaron, se ajustaron a la legalidad, y si no causaron daños o perjuicios en contra de las haciendas públicas estatal y municipales y al patrimonio de las entidades;
 
-XIV. Celebrar convenios con autoridades federales y de otras entidades federativas, así como con personas físicas o morales, tanto públicas como privadas, con el propósito de dar cumplimiento al objeto de esta ley;
+X. Verificar que los entes fiscalizables que hubieren recaudado, manejado, administrado o ejercido recursos públicos, lo hayan realizado conforme a los programas aprobados y montos autorizados; así mismo, en el caso de los egresos, con cargo a las partidas correspondientes, con apego a las disposiciones aplicables;
 
-XV. Determinar, en su caso, los daños y perjuicios que afecten a las haciendas públicas estatal, municipales y al patrimonio de las Entidades; y fincar directamente a los responsables, las indemnizaciones y sanciones pecuniarias correspondientes; así como promover ante las autoridades competentes el fincamiento de otras responsabilidades; promover las acciones de responsabilidad a que se refiere el Título Quinto de la Constitución Política del Estado y presentar las denuncias y querellas penales, en términos de la legislación aplicable;
+XI. Verificar obras, bienes adquiridos y servicios contratados, para comprobar que las inversiones y gastos autorizados a los entes fiscalizables, se hayan aplicado legal y eficientemente al logro de los objetivos y metas de los programas aprobados y con las mejores condiciones;
 
-XVI. Requerir, en su caso, a los prestadores de servicios profesionales que contrate, los informes o dictámenes de las auditorías y revisiones por ellos practicadas;
+XII. Establecer los criterios para las auditorías, procedimientos, métodos y sistemas necesarios para la revisión y fiscalización de las Cuentas Públicas, verificando que sean presentadas, en los términos de esta ley y de conformidad con los principios de contabilidad aplicables al Sector Público;
 
-XVII. Requerir, en su caso, a terceros que hubieran contratado bienes o servicios mediante cualquier título legal con los entes fiscalizables, la información relacionada con la documentación justificativa y comprobatoria de las Cuentas Públicas, a efecto de realizar las compulsas correspondientes;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
-XVIII. Solicitar a los entes fiscalizables la información necesaria para el cumplimiento de sus funciones;
+XIII. Establecer conforme a las leyes aplicables las reglas, técnicas, procedimientos, métodos y sistemas de contabilidad y de archivo de los libros y documentos justificativos y comprobatorios del ingreso y del gasto público; así como todos aquellos elementos que permitan la práctica idónea de las auditorías y revisiones;
 
-> <small>(REFORMADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
-XIX. Sancionar el proceso de entrega recepción del Gobierno del Estado, de los Organismos Autónomos y de los ayuntamientos del Estado una vez concluido dicho proceso, la Entidad proporcionará a las Administraciones Entrantes una copia del inventario que tiene reportado e integrado;
+XIV. Investigar, en su caso, los actos u omisiones que pudieran configurar alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos de los Poderes del Estado, de los Organismos Autónomos, de los Ayuntamientos y de las Entidades;
 
-XX. Fiscalizar la aplicación de los subsidios o estímulos fiscales que los entes fiscalizables hayan recibido, cualesquiera que sean sus fines y destino;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
-XXI. Conocer y resolver sobre el recurso de reconsideración que se interponga en contra de sus actos o resoluciones;
+XV. Ordenar y efectuar visitas domiciliarias para exigir la exhibición de libros, papeles, contratos, convenios, nombramientos, dispositivos magnéticos o electrónicos de almacenamiento de información o archivos indispensables para la realización de sus investigaciones, sujetándose a las leyes y a las formalidades establecidas, las que para este efecto se considera (sic) aplicables al cateo;
 
-XXII. Formular pliegos de observaciones en los términos de la ley;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
-XXIII. Elaborar su proyecto de presupuesto anual y enviarlo al Congreso del Estado por conducto de la Comisión; para su presentación ante la Secretaría;
+XVI. Colaborar, para efectos de la fiscalización de recursos federales que ejerzan los entes fiscalizables, con su similar de la Federación, en la investigación y detección de desviaciones de dichos recursos o realización de compulsas;
 
-XXIV. Expedir su Reglamento Interior; y
+XVII. Celebrar convenios con autoridades federales y de otras entidades federativas, así como con personas físicas o morales, tanto públicas como privadas, con el propósito de dar cumplimiento al objeto de esta ley;
 
-XXV. Las demás que expresamente señalen la Constitución Política del Estado, esta ley y las demás disposiciones legales y reglamentos vigentes en el Estado.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
+XVIII. Determinar, en su caso, los daños y perjuicios que afecten a las haciendas públicas estatal, municipales y al patrimonio de las Entidades; y fincar directamente a los responsables, las indemnizaciones y sanciones pecuniarias correspondientes; así como promover ante las autoridades competentes el fincamiento de otras responsabilidades; promover las acciones de responsabilidad a que se refiere el Título Séptimo de la Constitución Política del Estado y presentar las denuncias y querellas penales, en términos de la legislación aplicable;
+
+XIX. Requerir, en su caso, a los prestadores de servicios profesionales que contrate, los informes o dictámenes de las auditorías y revisiones por ellos practicadas;
+
+XX. Requerir, en su caso, a terceros que hubieran contratado bienes o servicios mediante cualquier título legal con los entes fiscalizables, la información relacionada con la documentación justificativa y comprobatoria de las Cuentas Públicas, a efecto de realizar las compulsas correspondientes;
+
+XXI. Solicitar a los entes fiscalizables la información necesaria para el cumplimiento de sus funciones;
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
+XXII. Sancionar el proceso de entrega recepción del Gobierno del Estado, de los Organismos Autónomos y de los ayuntamientos, una vez concluido dicho proceso, la Entidad proporcionará a las Administraciones Entrantes una copia del inventario que tiene reportado e integrado;
+
+XXIII. Fiscalizar la aplicación de los subsidios o estímulos fiscales que los entes fiscalizables hayan recibido, cualesquiera que sean sus fines y destino;
+
+XXIV. Conocer y resolver sobre el recurso de reconsideración que se interponga en contra de sus actos o resoluciones;
+
+XXV. Formular pliegos de observaciones en los términos de la ley;
+
+XXVI. Elaborar su proyecto de presupuesto anual y enviarlo al Congreso del Estado por conducto de la Comisión; para su presentación ante la Secretaría;
+
+XXVII. Expedir su Reglamento Interior; y
+
+XXVIII. Las demás que expresamente señalen la Constitución Política del Estado, esta ley y las demás disposiciones legales y reglamentos vigentes en el Estado.
 
 ### CAPÍTULO II. DEL AUDlTOR SUPERIOR
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 7.
 
-Al frente de la Entidad, habrá un Auditor Superior cuyo nombramiento recaerá en la persona que cumpla, además de los requisitos establecidos en las fracciones I, II, IV y V del artículo 93 de la Constitución Política del Estado, los siguientes:
+Al frente de la Entidad, habrá un Auditor Superior cuyo nombramiento recaerá en la persona que cumpla los requisitos establecidos en el artículo 88 de la Constitución Política del Estado Libre y Soberano de Durango.
 
-I. No haber sido, durante el año previo al de su nombramiento, Diputado federal o local, Magistrado del Poder Judicial Federal o del Estado, Síndico Municipal, Regidor, Tesorero Municipal, o Dirigente de Partido Político alguno;
-
-II. Contar al momento de su designación con una experiencia de, al menos, dos años en el control, manejo y fiscalización de recursos; y
-
-III. Poseer, al día del nombramiento, título profesional de contador público, administrador o licenciado en derecho, con una antigüedad mínima de diez años, expedido por autoridad o institución facultada para ello.
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 8.
 
-El Auditor Superior durará en su cargo siete años; podrá ser ratificado por una sola vez. Dentro de los ciento veinte días previos a la terminación del cargo, la Comisión dictaminará la procedencia de la ratificación, la cual deberá presentarse al pleno del Congreso para su aprobación por las dos terceras partes de los diputados.
+El Auditor Superior durará en su cargo siete años; podrá ser ratificado por una sola vez. Dentro de los ciento veinte días previos a la terminación del cargo, la Comisión dictaminará la procedencia de la ratificación, la cual deberá presentarse al Pleno del Congreso para su aprobación por las dos terceras partes de los miembros presentes del Congreso del Estado.
 
-El Auditor Superior será removido exclusivamente por las causas graves a que se refiere el artículo 15 de esta ley, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Quinto de la Constitución Política del Estado y la ley de la materia.
+El Auditor Superior será removido exclusivamente por las causas graves a que se refiere el artículo 15 de esta ley, con la misma votación requerida para su nombramiento, o por las causas y conforme a los procedimientos previstos en el Título Séptimo de la Constitución Política del Estado Libre y Soberano de Durango.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
@@ -393,33 +423,53 @@ Los Poderes del Estado, los Ayuntamientos y las Entidades, tendrán la facultad 
 
 ### CAPÍTULO I. DE LAS CUENTAS PÚBLICAS
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 20.
 
-El Gobierno del Estado, los organismos autónomos, los Ayuntamientos, y los Organismos Descentralizados de carácter estatal y municipal, deberán presentar mensualmente ante la Entidad de Auditoría Superior, informes preliminares, que contendrán la información relativa al ejercicio presupuestal sobre ingresos, recaudación, gastos erogados y modificaciones presupuestales, así como el avance del desempeño financiero y físico en las obras proyectadas para el ejercicio fiscal correspondiente.
+Los poderes públicos del Estado, los órganos constitucionales autónomos, los ayuntamientos y los organismos descentralizados de carácter estatal y municipal, deberán presentar mensualmente ante la Entidad de Auditoría Superior, informes preliminares, que contendrán la información relativa al ejercicio presupuestal sobre ingresos, recaudación, gastos erogados y modificaciones presupuestales, así como el avance del desempeño financiero y físico en las obras proyectadas para el ejercicio fiscal correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 21.
 
-Para los efectos de esta ley, las Cuentas Públicas contendrán:
+La Cuenta Pública contendrá:
 
-I. El estado analítico de ingresos, los estados programáticos, presupuestarios, financieros, económicos y contables;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
-II. El balance general o estado de situación financiera así como el registro de operaciones de la Ley de Ingresos y presupuesto de egresos
+I. El estado analítico de ingresos y egresos, los estados programáticos, presupuestarios, financieros, económicos y contables;
 
-III. El estado de deuda pública; y
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
-IV. La información general que permita el análisis de resultados.
+II. El balance general o estado de situación financiera, así como el registro de operaciones de la Ley de Ingresos y Presupuesto de Egresos;
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 15 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
-V. Los que señale la Ley General de Contabilidad Gubernamental.
+III. El estado de la deuda pública y del pago de los proyectos de inversión y de prestación de servicios de largo plazo.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
+IV. El inventario de bienes muebles e inmuebles propiedad del sujeto obligado.
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
+V. La información general que permita el análisis de resultados.
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
+VI. Los resultados de la evaluación del desempeño de los programas ejercidos durante el periodo de que se trate, utilizando aquellos indicadores que permitan determinar el cumplimiento de las metas y objetivos de cada uno de ellos.
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
+VII. La información contable, presupuestaria, programática, el análisis cualitativo de indicadores y los demás elementos que señale la Ley General de Contabilidad Gubernamental.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 22.
 
-Las Cuentas Públicas deberán ser presentadas al Congreso, por escrito y a través de medios electrónicos, por el Gobierno del Estado, los organismos autónomos y los Ayuntamientos, a más tardar el último día del mes de febrero del año siguiente al del ejercicio fiscal anual que será objeto de fiscalización. El Congreso, a través de la Comisión, la turnará a la Entidad, la cual deberá remitir el Informe de resultados a la Comisión que deba dictaminar las Cuentas Públicas. La Entidad sólo podrá fiscalizar las Cuentas Públicas del ejercicio fiscal anual que será objeto de revisión. La falta de presentación de las Cuentas Públicas o siendo ésta extemporánea, dará lugar a la imposición de las sanciones que determinen las leyes aplicables.
+Las cuentas públicas se entregarán a más tardar en el mes de febrero del año siguiente al del ejercicio fiscal anual que será objeto de fiscalización. El Congreso, a través de la Comisión, la turnará a la Entidad, la cual deberá remitir el informe de resultados a la Comisión que deba dictaminar las Cuentas Públicas.
+
+La falta de presentación de las Cuentas Públicas o siendo ésta extemporánea, dará lugar a la imposición de las sanciones que determinen las leyes aplicables.
 
 ###### Artículo 23.
 
@@ -591,7 +641,7 @@ La determinación de las responsabilidades y el fincamiento de indemnizaciones y
 
 I. Se citará personalmente al presunto o presuntos responsables a una audiencia en la sede de la Entidad, haciéndoles saber los hechos que se les imputan y que sean causa de responsabilidad en los términos de esta ley, señalando el lugar, día y hora en que tendrá verificativo dicha audiencia y su derecho a ofrecer pruebas y alegar en la misma lo que a su derecho convenga, por sí o por medio de un defensor; apercibidos que de no comparecer sin justa causa, se tendrá por precluído su derecho para ofrecer pruebas o formular alegatos, y se resolverá con los elementos que obren en el expediente respectivo.
 
-A la audiencia podrá asistir un representante del Organo Interno de Control del ente fiscaIizable al que pertenezca el o los presuntos responsables; en el caso de los Ayuntamientos, asistirá el contralor municipal o el Síndico del Ayuntamiento, si es que así lo considera el Cabildo respectivo. Entre la fecha de citación y la de la audiencia deberá mediar un plazo no menor de diez ni mayor de quince días hábiles;
+A la audiencia podrá asistir un representante del Organo Interno de Control del ente fiscalizable al que pertenezca el o los presuntos responsables; en el caso de los Ayuntamientos, asistirá el contralor municipal o el Síndico del Ayuntamiento, si es que así lo considera el Cabildo respectivo. Entre la fecha de citación y la de la audiencia deberá mediar un plazo no menor de diez ni mayor de quince días hábiles;
 
 II. Celebrada la audiencia, se emitirá resolución dentro de los quince días hábiles siguientes, en la que se determinará la existencia o inexistencia de la responsabilidad, y se fincará, en su caso, la indemnización y sanción correspondientes, a el o los responsables, y se notificará a éstos dicha resolución, remitiéndose un tanto autógrafo de la misma a la Secretaría o a la Tesorería Municipal que corresponda, para el efecto de que si, en un plazo de quince días hábiles siguientes a la fecha en que surta efectos la notificación, éste no es cubierto, o no es impugnado y debidamente garantizado en términos de las disposiciones aplicables, se haga efectivo, mediante el procedimiento administrativo de ejecución. Cuando los responsables sean servidores públicos, dicha resolución será notificada al representante del ente fiscalizable, al Organo Interno de Control respectivo y a la Contraloría, para los efectos del registro oportuno de la sanción.
 
@@ -814,3 +864,11 @@ Se derogan todas las disposiciones que se opongan al presente Decreto.
 ###### ARTICULO TERCERO.
 
 Por única ocasión, una vez aprobado el presente decreto por el pleno del Congreso, la Comisión deberá dictaminar de manera inmediata la procedencia de la ratificación prevista en el artículo 8 de la Ley, para que dentro del período ordinario de sesiones el pleno del Congreso determine lo conducente.
+
+P.O. 20 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 524.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTICULOS DE LA LEY DE FISCALIZACION SUPERIOR DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al contenido del presente Decreto.
