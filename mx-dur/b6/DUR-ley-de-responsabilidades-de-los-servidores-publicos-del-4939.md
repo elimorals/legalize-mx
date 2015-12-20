@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-responsabilidades-de-los-servidores-publicos-del-4939"
 country: "mx"
 rank: "ley"
 publication_date: "1988-02-18"
-last_updated: "2013-08-25"
+last_updated: "2015-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4939&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y DE LOS MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el 18, 21, 25 y 28 de febrero de 1988.
 
@@ -75,25 +75,35 @@ LEY de RESPONSABILIDADES de los SERVIDORES PUBLICOS del ESTADO y de los MUNICIPI
 
 ### CAPITULO UNICO. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 1o.
 
-Esta Ley tiene por objeto reglamentar el Capítulo Unico del Título Quinto de la Constitución Política del Estado Libre y Soberano de Durango, en materia de:
+Esta Ley tiene por objeto reglamentar el Capítulo Tercero del Título Séptimo de la Constitución Política del Estado Libre y Soberano de Durango, en materia de:
 
-I.- Los sujetos de responsabilidad en el servicio público estatal y municipal;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
+I.- Los sujetos de responsabilidad en el servicio público Estatal y Municipal;
 
 II.- Las obligaciones en el servicio público;
 
-III.- Las responsabilidades y sanciones administrativas en el servicio público, así como las que se deban resolver mediante juicio político;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
+III.- Las Responsabilidades y sanciones administrativas en el desempeño del servicio público, así como las que se deban resolver mediante juicio político;
 
 IV.- Las autoridades competentes y los procedimientos para aplicar las sanciones
 
-V.- Las autoridades competentes y los procedimientos para declarar la procedencia del procesamiento penal de los servidores públicos estatales y municipales que gozan de fuero;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
+V.- Los procedimientos y autoridades competentes para declarar la procedencia de la acción penal, respecto de los servidores públicos Estatales que gozan de protección constitucional, y
 
 VI.- El registro patrimonial de los servidores públicos;
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 2o.
 
-Son sujetos de esta Ley, los servidores públicos mencionados en el Artículo 116 de la Constitución Política del Estado y todas aquellas personas que administren recursos económicos estatales o municipales.
+Son sujetos de esta Ley, toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en la administración pública estatal o municipal, y en los Poderes Legislativo y Judicial del Estado, y en materia de responsabilidades administrativas, todas aquellas personas que desempeñen un empleo, cargo o comisión de cualquier naturaleza en las dependencias, entidades y organismos de los Poderes Públicos, municipios u organismos constitucionales autónomos; También lo serán las personas físicas o morales que manejen o apliquen recursos económicos Estatales, Municipales y concertados o convenidos por el Estado con la Federación y los particulares que contraten o les sean confiados caudales públicos municipales en los términos que establecen las leyes.
 
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
@@ -127,6 +137,18 @@ X. Las demás autoridades que determinen las leyes.
 
 BIS.- En todo lo que respecta a la investigación y tramitación de procedimientos de responsabilidad administrativa, serán autoridades competentes, los Órganos de Control Interno de los Poderes del Estado, de los Organismos autónomos, las dependencias y entidades, así como los de los Ayuntamientos.
 
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
+De los procedimientos de responsabilidad administrativa fincados en contra de los miembros de los Ayuntamientos y de los Organismos Autónomos, conocerá el Congreso del Estado, en los términos que prevenga su ley orgánica.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
+La responsabilidad administrativa que deba reclamarse a los servidores públicos de la Entidad de Auditoría Superior del Estado quedará a cargo de su Titular; en caso de que a este se reclame responsabilidad, se estará a lo previsto por la Ley de Fiscalización Superior del Estado de Durango.
+
+> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
+Las responsabilidades que deban reclamarse a los servidores públicos en materia de incumplimiento de recomendaciones emitidas por el organismo garante de los derechos humanos y sus garantías, serán procesadas conforme lo dispone el Capítulo Cuarto del Título Quinto de la Ley Orgánica del Congreso del Estado de Durango, una vez que la Comisión Legislativa de Derechos Humanos, haya determinado que ha lugar a fincar responsabilidades.
+
 > <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
 
 ###### ARTICULO 4o.
@@ -139,17 +161,29 @@ Para los mismos efectos, se entenderá por superior jerárquico en el Poder Ejec
 
 Para los mismos efectos, se entenderá por Entidad de Auditoria, a la Entidad de Auditoria Superior del Estado.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 5o.
 
-Los procedimientos para la aplicación de las sanciones a que se refiere el Artículo 117 de la Constitución Política, se desarrollarán autonómamente (sic) según su naturaleza y por la vía procesal que corresponda debiendo las autoridades a que alude el Artículo anterior, turnar las denuncias a quien deba conocer de ellas. No podrán imponerse dos veces por una sola conducta, sanciones de la misma naturaleza.
+Los procedimientos para la aplicación de las sanciones a que se refiere esta Ley, las responsabilidades penales o de carácter civil que dispongan otros ordenamientos, se desarrollarán autónomamente según sea su naturaleza y por la vía procesal que corresponda, debiendo las autoridades a que alude el artículo anterior, turnar las denuncias a quien deba conocer de ellas. No podrán imponerse dos veces por una sola conducta, sanciones de la misma naturaleza.
 
 ## TÍTULO SEGUNDO. Del JUICIO POLITICO y DECLARACION de PROCEDENCIA
 
 ### CAPITULO I. Sujetos, Causas de Juicio Politico y Sanciones
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 6o.
 
-Podrán ser sujetos a juicio político: Los servidores públicos a que se refiere el Artículo 118 de la Constitución Política del Estado.
+Podrán ser sujetos del juicio político los servidores públicos que señala el artículo 177 de la Constitución Política del Estado Libre y Soberano de Durango.
+
+Corresponde al Congreso del Estado, substanciar el procedimiento relativo al juicio político, conforme lo dispone su Ley Orgánica, actuando el Pleno del mismo como jurado de sentencia.
+
+La Comisión de Responsabilidades del propio Congreso, será la competente para substanciar el procedimiento, encargándose además del examen previo de denuncia del juicio político, funcionando como órgano de instrucción y órgano de acusación.
+
+La Comisión a la que alude el párrafo anterior, será considerada, para los efectos de esta ley, como Comisión Instructora.
+
+No procede el juicio político por la mera expresión de ideas.
 
 ###### ARTICULO 7o.
 
@@ -159,11 +193,17 @@ Es procedente el juicio político cuando los actos u omisiones de los servidores
 
 Redundan en perjuicio del interés público fundamental y su buen despacho:
 
-I.- El ataque a las instituciones democráticas;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
-II.- El ataque a la forma de gobierno republicano, representativo y popular del Estado, así como a la organización política y administrativa de los municipios;
+I.- El ataque que perturbe la vida jurídica y el buen funcionamiento de las instituciones democráticas establecidas en la Constitución Política de los Estados Unidos Mexicanos, y por la Constitución Política del Estado Libre y Soberano de Durango;
 
-III.- Las violaciones graves y sistemáticas a las garantías individuales o sociales;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
+II.- Los actos u omisiones encaminados a alterar la forma de gobierno republicano, representativo y popular establecida por la Constitución Política de los Estados Unidos Mexicanos y por la Constitución Política del Estado Libre y Soberano de Durango;
+
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
+III.- Las violaciones graves y sistemáticas a los derechos humanos y sus garantías;
 
 IV.- El ataque a la libertad de sufragio;
 
@@ -173,31 +213,53 @@ VI.- Cualquier infracción a la Constitución Local o a las Leyes Estatales cuan
 
 VII.- Las omisiones de carácter grave, en los términos de la fracción anterior; y
 
-VIII.- Las violaciones sistemáticas o graves a los planes, programas y presupuestos de la Administración Pública Estatal y Municipal, y a las Leyes que determinan el manejo de sus recursos económicos.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
-No procede el juicio político por la mera expresión de ideas.
+VIII.- Las violaciones sistemáticas o graves a los planes, programas y presupuestos de la Administración Pública Estatal y Municipal y a las Leyes que determinan el manejo de los caudales públicos y el endeudamiento público; y
 
-El Congreso del Estado valorará la existencia y gravedad de los actos u omisiones a que se refiere este Artículo. Cuando aquellos tengan carácter delictuoso, se formulará la declaración de procedencia a la que alude la presente Ley, y se estará a lo dispuesto por la legislación penal.
+> <small>(REFORMADA [N. DE A. ADICIONADA], P.O. 20 DE DICIEMBRE DE 2015)</small>
+
+IX.- Autorizar o asignar cualquier tipo de percepción distinta al salario y a las prestaciones que se encuentren expresamente establecidas en la ley y asignadas en el presupuesto de egresos correspondiente y de conformidad con el tabulador de sueldos respectivo. Cuando la autorización o asignación sea producto de un acuerdo colegiado, serán responsables los servidores públicos que hubieren votado a favor.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
+No procederá en ningún caso el juicio político por ataques, violaciones, daños o trastornos futuros o inciertos, posibles o hipotéticos ni cuando de (sic) actúe en cumplimiento de ejecución de las leyes.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
+Para determinar la gravedad de la violación, con el daño o el trastorno causados, se deberá considerar la intencionalidad, la perturbación del servicio, el posible atentado a la dignidad del servicio, la reiteración o la reincidencia.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 20 DE DICIEMBRE DE 2015)</small>
+
+En todos los casos, el Congreso, para establecer los criterios que determinen la gravedad de la responsabilidad del servidor público, considerará la existencia y gravedad de los actos u omisiones a los que se refiere este artículo y podrá fundarse en los dictámenes, resoluciones o sentencias precedentes, emitidos en los casos similares por la Comisión de Responsabilidades o el Pleno legislativo.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 9o.
 
-Si la resolución que se dicte en el juicio político es condenatoria, se sancionara al servidor público con destitución. Podrá también imponerse inhabilitación de uno hasta veinte años, para el ejercicio de empleos, cargos o comisiones en el servicio público.
+Si la resolución que se dicte en el Juicio Político es condenatoria, se sancionará al servidor público con destitución y en su caso, inhabilitación para el ejercicio de empleo, cargo o comisión en el servicio público por el término que señale la ley.
+
+Dichas sanciones se aplicarán en un periodo no mayor de seis meses, contados a partir de la fecha en que se declare incoado el procedimiento.
+
+En la comisión de actos u omisiones por parte de cualquier servidor público o particulares que presuman hechos de corrupción o esta se traduzca en enriquecimiento ilícito, el Congreso promoverá, la investigación penal de los hechos a efecto de sancionar conforme a las leyes aplicables dicha conducta.
 
 ### CAPÍTULO II. Procedimiento en el Juicio Político
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 10o.
 
-El juicio político solo podrá iniciarse durante el tiempo en que el servidor público desempeñe su empleo, cargo o comisión y dentro de un año después de la conclusión de sus funciones.
-
-Las sanciones respectivas, se aplicarán en un plazo no mayor de un año a partir de iniciado el procedimiento.
+El juicio político podrá iniciarse durante el tiempo en el que el servidor público desempeñe su empleo o comisión y dentro del año siguiente a su conclusión. Cuando el juicio político fuera a consecuencia de una falta administrativa grave, en los términos establecidos en la Constitución Federal, el plazo de prescripción será de siete años.
 
 ###### ARTICULO 11o.
 
 Dentro del Congreso del Estado se constituirá una comisión instructora para sustanciar el procedimiento consignado en el presente Capítulo y en los términos de la Ley Orgánica del propio Congreso.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 12o.
 
-Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular por escrito denuncia ante el Congreso del Estado por las conductas a que se refiere el Artículo número 8o. Presentada la denuncia y ratificada dentro de tres días naturales, se turnara con la documentación que le acompañe, a la Comisión instructora, para que dictamine si la conducta atribuída corresponde a alguna de las enumeradas por el precepto citado y si el inculpado está comprendido entre los servidores públicos a que se refiere el Artículo 116 de la Constitución Política del Estado, así como si la denuncia es procedente y por lo tanto amerita la incoación del procedimiento.
+Cualquier ciudadano bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular por escrito denuncia ante el Congreso del Estado por las conductas que considere ilícitas cometidas por servidores públicos o particulares, conforme a los artículos 2 y 8 de la presente ley. Presentada la denuncia y ratificada dentro de tres días naturales, se turnará a la Comisión de Responsabilidades del propio Congreso, para que dictamine si la conducta atribuida corresponde a alguna de las contempladas en las leyes como sancionable y si el inculpado está comprendido entre los servidores públicos a que se refieren los Artículos 176 y 177 de la Constitución Política del Estado; en el caso de los particulares deberá determinarse si existe presunción fundada de la existencia de los hechos que se denuncian. La comisión de responsabilidades determinará previamente si la denuncia es procedente y por lo tanto amerita la incoación del procedimiento.
 
 Las denuncias anónimas no producirán ningún efecto.
 
@@ -235,7 +297,9 @@ II.- Que existe probable responsabilidad del encausado;
 
 III.- La sanción que deba imponerse de acuerdo con el Artículo 8o. de esta Ley; y
 
-IV.- Que en caso de ser aprobadas las conclusiones, se envíe el expediente al Supremo Tribunal de Justicia del Estado, en concepto de acusación para los efectos legales respectivos.
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
+IV.- Que en caso de ser aprobadas las conclusiones, las sanciones que deban imponerse.
 
 De igual manera deberán asentarse en las conclusiones las circunstancias que hubieren ocurrido en los hechos.
 
@@ -243,31 +307,41 @@ De igual manera deberán asentarse en las conclusiones las circunstancias que hu
 
 La Comisión instructora deberá practicar todas las diligencias y formular sus conclusiones hasta entregarlas al Secretario del Congreso, conforme a los Artículos anteriores, dentro del plazo de sesenta días naturales, contando desde el día siguiente a la fecha en que se haya turnado la denuncia a no ser que por causa razonable y fundada se encuentre impedida para hacerlo, en este caso podrá solicitar del Congreso, que se amplíe el plazo por el tiempo indispensable para perfeccionar la instrucción. El nuevo plazo que se conceda no excederá de quince días naturales.
 
-Los plazos a que se refiere este Artículo, se entienden comprenidos (sic) dentro del período ordinario de sesiones del Congreso, o bien dentro del siguiente ordinario o extraordinario que se convoque.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 19o.
 
-Una vez emitidas las conclusiones a que se refieren los Artículos precedentes, la Comisión instructora las entregara al Secretario del Congreso, para que le dé cuenta al Presidente del mismo, quien anunciara que dicho Congreso debe reunirse dentro de los tres días naturales siguientes para declarar por la mayoría absoluta del número de sus miembros presentes en sesión, y después de haber sustanciado el procedimiento respectivo, con audiencia del inculpado, procederá a formular la acusación respectiva ante el Supremo Tribunal de Justicia.
+Una vez emitidas las conclusiones a que se refieren los Artículos precedentes, la Comisión instructora las entregara a la Secretaría de la Mesa Directiva, para que le dé cuenta al Presidente del mismo, quien anunciara que el Congreso debe reunirse dentro de los tres días naturales siguientes para declarar por la mayoría absoluta del número de sus miembros presentes en sesión si ha lugar a aprobar las conclusiones.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 20o.
 
-Al recibir el Supremo Tribunal de Justicia el expediente integrado y actuando como Jurado de Sentencia, citará al acusado y a su defensor si lo hubiere, para audiencia pública en la que harán la defensa oral de sus alegatos, en dicha audiencia se procederá de conformidad con las siguientes normas: En primer término, se dará lectura a las conclusiones formuladas por la Comisión del Congreso, acto contínuo se concederá la palabra a la Comisión de Diputados, al Servidor Público o a su defensor, o a ambos, por último serán retirados el Servidor Público y su defensor para discutir y votar las conclusiones y aprobar los puntos de acuerdo que en ellas se contengan, para dictar resolución por mayoría absoluta del número total de sus miembros.
+Si las conclusiones fueren aprobadas, El Presidente deberá citar a sesión pública dentro de los tres días naturales siguientes para proceder conforme lo establece la fracción V del Artículo 177 de la Constitución Política del Estado a determinar las sanciones aplicables, constituyéndose como Jurado de Sentencia. A dicha sesión deberá citarse al acusado y a su defensor si lo hubiere, para realizar la defensa oral de sus alegatos, en dicha sesión, se procederá de conformidad con las siguientes normas: En primer término, se dará lectura a las conclusiones formuladas por la Comisión de Responsabilidades del Congreso y que fueran aprobadas por el Pleno; acto continuo se concederá la palabra al Servidor Público acusado o a su defensor, o a ambos para alegar a su favor, por último serán retirados el acusado y su defensor, para discutir y votar las conclusiones finales y determinar si ha lugar o no a imponer la sanción o sanciones propuestas por la Comisión Instructora contenidas en las conclusiones aprobadas por el Pleno Legislativo, dictando resolución por mayoría absoluta del número total de sus miembros.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 21o.
 
-La audiencia a que hace referencia el Artículo anterior, se llevará a efecto dentro de los cinco días hábiles siguientes al de la citación. Una vez que se ha verificado la audiencia, el Presidente del Supremo Tribunal de Justicia, citara a los miembros que integran el Jurado de Sentencia dentro de las veinticuatro horas siguientes para que dicte la resolución por mayoría absoluta del número total de sus miembros.
+Si la resolución no fuere condenatoria, el acusado podrá, si así lo decidiere, reincorporarse a su cargo, si hubiese sido suspendido de él y en todo caso tendrá derecho a que le sean reintegrados los emolumentos públicos que dejare de percibir durante el procedimiento.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 22o.
 
-Si la resolución que se dicte en el juicio político es condenatoria, se aplicarán las sanciones que establece el Artículo 9o. de esta misma Ley.
+Si la resolución que se dicte en el juicio político es condenatoria, se aplicarán de manera inmediata las sanciones que establece el artículo 9 de esta misma Ley, mandando el Presidente del Congreso publicar la sanción o sanciones impuestas en el Periódico Oficial del Gobierno del Estado, proveyendo además, su exacta aplicación.
 
 ### CAPÍTULO III. PROCEDIMIENTO para la DECLARACION
 
 de PROCEDENCIA en RESPONSABILIDAD PENAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 23o.
 
-Cuando se presente denuncia o querella por particulares o requerimiento del Ministerio Público, cumplidos los requisitos procedimentales respectivos para el ejercicio de la acción penal, a fin de que pueda procederse en la misma vía en contra de los servidores públicos a que se refiere el Artículo 119 de la Constitución Política del Estado, se actuará en lo pertinente, de acuerdo a lo previsto en el Capítulo anterior de esta Ley en materia de juicio político, ante la Legislatura Local, la cual hará la declaración de procedencia. En este caso, la Comisión Instructora practicará todas las diligencias conducentes a establecer la presunta existencia del delito y la probable responsabilidad del inculpado, así como la subsistencia del fuero cuya remoción se solicita. El mismo procedimiento se observará en tratándose del Gobernador del Estado.
+Cuando se presente denuncia o querella por particulares o requerimiento del ministerio Público, cumplidos los requisitos procedimentales respectivos para el ejercicio de la acción penal, a fin de que pueda procederse en la misma vía en contra de los servidores públicos a que se refiere el Artículo 176 de la Constitución Política del Estado, se actuara en lo pertinente, de acuerdo a lo previsto en el Capítulo anterior de esta Ley en materia de juicio político, ante la Legislatura Local, la cual hará la declaración de procedencia. En este caso, la Comisión de Responsabilidades del Congreso en su carácter de Instructora, practicará todas las diligencias conducentes a establecer la presunta existencia del delito y la probable responsabilidad del inculpado, así como determinar sobre la subsistencia del fuero cuya remoción se solicita. El mismo procedimiento se observará en tratándose del Gobernador del Estado.
 
 Concluída esta averiguación, la Comisión dictaminará si ha lugar a proceder penalmente en contra del inculpado y si en virtud de las diligencias realizadas, la imputación fuese notoriamente improcedente, lo notificará de inmediato al Congreso del Estado para que éste resuelva si continúa o desecha, sin perjuicio de reanudar el procedimiento si posteriormente aparecen motivos que lo justifiquen.
 
@@ -285,21 +359,23 @@ Dada cuenta del dictamen correspondiente, el Presidente de la Legislatura Local 
 
 El día señalado, previa declaración al Presidente de la Legislatura Local, ésta conocerá en asamblea, del dictamen que la Comisión Instructora le presente, y procederá en los mismos términos previstos por el Artículo 19 de esta Ley en materia de juicio político, instalándose el Congreso como Jurado de Procedencia.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 26o.
 
-Si el Congreso del Estado, en los términos del Artículo 119 de la Constitución Política Local, declara que ha lugar a proceder contra el inculpado, éste quedará inmediatamente separado de su empleo, cargo o comisión, y a disposición de las autoridades competentes, para que actúen con apego a la Ley.
+Si el Congreso del Estado, en los términos del Artículo 176 de la Constitución Política Local, declara que ha lugar a proceder contra el inculpado, éste quedará inmediatamente separado de su empleo, cargo o comisión, y a disposición de las autoridades competentes, para que actúen con apego a la Ley.
 
-En caso negativo, no habrá lugar a procedimiento ulterior mientras subsista el fuero, pero tal declaración no impedirá que el procedimiento continúe su curso, cuando el servidor público haya dejado de desempeñar su empleo, cargo o comisión.
-
-La declaratoria del Congreso de ninguna manera prejuzga sobre los fundamentos de la imputación.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 27o.
 
-Cuando se siga proceso penal a un servidor público de los mencionados en el Artículo 119 de la Constitución Política del Estado, sin que para ello se haya satisfecho el procedimiento a que se refieren los Artículos anteriores, la Secretaría del Congreso del Estado, o de su Comisión Permanente, librará oficio al juez o tribunal que conozca de la causa, a fin de que suspenda el procedimiento en tanto se plantea y resuelve si ha lugar a proceder.
+Cuando se siga proceso penal a un servidor público de los mencionados en el Artículo 176 de la Constitución Política del Estado, sin que para ello se haya satisfecho el procedimiento a que se refieren los artículos anteriores, la Presidencia del Congreso del Estado, librará oficio al juez o tribunal que conozca de la causa, a fin de que se suspenda el procedimiento en tanto se plantea y resuelve si ha (sic) o no lugar a proceder.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 28o.
 
-No se requerirá declaración de procedencia del Congreso del Estado, cuando alguno de los servidores públicos a que se refiere el Artículo 119 de la Constitución Política Local, cometa un delito durante el tiempo en que se encuentre separado de su cargo.
+No se requerirá declaración de procedencia del Congreso del Estado, cuando alguno de los servidores públicos a que se refiere el Artículo 176 de la Constitución Política Local, cometa un delito durante el tiempo en que se encuentre separado de su encargo.
 
 Dicha declaratoria tampoco se requerirá cuando se entable contra cualquier servidor público, demanda del orden civil.
 
@@ -379,9 +455,11 @@ En todo caso, las votaciones deberán ser nominales, para formular, aprobar o re
 
 En el juicio político a que se refiere esta Ley, los acuerdos y determinaciones del Congreso y del Supremo Tribunal de Justicia del Estado, se tomarán en sesión pública, excepto en la que se presenta la acusación o cuando las buenas costumbres o el interés general exijan que la audiencia sea secreta.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 42o.
 
-Cuando en el curso del procedimiento a un servidor público de los mencionados en los Articulos 118 y 119 de la Constitución Política Local, se presentara nueva denuncia en su contra, se procederá respecto de ella con arreglo a esta Ley, hasta agotar la instrucción de los diversos procedimientos, procurando, de ser posible, la acumulación procesal.
+Cuando en el curso del procedimiento incoado a un servidor público de los mencionados en los Artículos 173 y 176 de la Constitución Política Local, se presentara nueva denuncia en su contra, se procederá respecto de ella con arreglo de esta Ley, hasta agotar la instrucción de los diversos procedimientos, procurando, de ser posible, la acumulación procesal.
 
 Si la acumulación fuese procedente, la Comisión formulará en un solo documento sus conclusiones, que comprenderá el resultado de los diversos procedimientos.
 
@@ -449,7 +527,9 @@ XVII.- Desempeñar su empleo, cargo o comisión sin obtener o pretender obtener 
 
 XVIII.- Abstenerse de intervenir o participar indebidamente en la selección, nombramiento, designación, contratación, promoción, suspensión, remoción cese o sanción de cualquier servidor público, cuando tenga interés personal, familiar o de negocios en el caso o pueda derivar alguna ventaja o beneficio para él o para las personas a las que se refiere la Fracción XIII;
 
-XIX.- Presentar con oportunidad y veracidad la declaración de situación patrimonial que corresponda ante la Contaduría Mayor de Hacienda del Congreso del Estado, en los términos que señala la Ley;
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
+XIX.- Presentar con oportunidad y veracidad la declaración de situación patrimonial que corresponda ante la Entidad de Auditoría Superior del Estado. La omisión o presentación extemporánea de la declaración correspondiente, dará lugar a la aplicación de las sanciones en los términos que señala la Ley;
 
 > <small>(REFORMADA, P.O. 29 DE JUNIO DE 2008)</small>
 
@@ -547,7 +627,7 @@ e) en los Ayuntamientos, la comisión de regidores que sea creada en forma expre
 
 ###### ARTICULO 52o.
 
-Las sanciones administrativas consistirán en:J
+Las sanciones administrativas consistirán en:
 
 I.- (DEROGADA, P.O. 29 DE JUNIO DE 2008)
 
@@ -839,73 +919,95 @@ En todo caso, la prescripción se interrumpirá si se da inicio al procedimiento
 
 ## TÍTULO CUARTO
 
-### CAPÍTULO UNICO. REGISTRO PATRIMONIAL de los Servidores Públicos
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO ÚNICO. REGISTRO PATRIMONIAL DE LOS SERVIDORES PÚBLICOS
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 78o.
 
-La Contaduría llevará el registro de la situación patrimonial de los servidores públicos de conformidad con esta Ley y demás disposiciones aplicables conservando bajo su más estricto responsabilidad y reserva, la documentación relativa, salvo aquéllos casos sujetos a denuncia, siempre y cuando se haya concluído la averiguación y hecha la declaración de procedencia en los términos del segundo párrafo del Artículo 23 de esta Ley.
+La Entidad de Auditoría Superior del Estado, llevará el registro de la situación patrimonial de los servidores públicos de conformidad con esta Ley y demás disposiciones aplicables conservando bajo su más estricta responsabilidad y reserva, la documentación relativa, salvo aquéllos casos sujetos a denuncia, siempre y cuando se haya concluido la averiguación y hecha la declaración de procedencia en los términos del Artículo 23 de esta Ley.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 79o.
 
-Tienen la obligación de presentar declaración anual de situación patrimonial ante la Contaduría, bajo protesta de decir verdad:
+Tienen la obligación de presentar declaración de situación patrimonial ante la Entidad de Auditoría Superior del Estado, bajo protesta de decir verdad:
 
-I.- En el Poder Legislativo: Diputados, Oficial Mayor y Contador Mayor de Hacienda;
+I.- En el Poder Legislativo: Diputados, Oficial Mayor, Directores, Subdirectores y Jefes de Departamento; en la Entidad de Auditoría Superior del Estado, el Auditor Superior, los Auditores Generales y Directores o equivalentes.
 
-II.- En el Poder Ejecutivo: Todos los funcionarios, desde el nivel de Jefes de Departamento hasta el Gobernador del Estado, así como aquellos que manejen, recauden o administren fondos y recursos estatales.
+II.- En el Poder Ejecutivo: Todos los servidores públicos, desde el nivel de jefes de departamento o equivalente, hasta el Gobernador del Estado, así como aquellos que manejen, recauden o administren fondos y recursos públicos.
 
-De la Procuraduría General de Justicia del Estado: Desde los jefes de departamento, los agentes del Ministerio Público e investigadores de Averiguaciones Previas y Policías Judiciales hasta el Procurador General.- Así mismo, a aquellos que manejen, recauden o administren fondos y recursos estatales.
+De la Fiscalía General del Estado: Desde los jefes de departamento, los agentes del Ministerio Público, Fiscales investigadores o acusadores y Policías de investigación hasta el Fiscal General. Así mismo, a aquellos que manejen, recauden o administren fondos y recursos públicos.
 
-De los Tribunales Administrativos y del Trabajo; los miembros de la Junta, secretarios Procuradores y Director, así como aquellos que manejen, recauden o administren fondos o recursos estatales;
+De los Tribunales Administrativos y del Trabajo: Los miembros de la Junta, Secretarios, Procuradores y Presidentes auxiliares, así como aquellos que manejen, recauden o administren fondos o recursos públicos;
 
-III.- De los organismos Descentralizados: Los Directores y Subdirectores; así como todos los demás servidores públicos que manejen, recauden o administren fondos y recursos estatales;
+III.- De los Organismos Descentralizados: Los Directores, Subdirectores y jefes de departamento o sus equivalentes; así como todos los demás servidores públicos que manejen, recauden o administren fondos y recursos públicos;
 
-IV.- De la Administración Publica Municipal: Presidentes Municipales, Síndicos, Regidores, Secretarios, Tesoreros y todos los demás funcionarios municipales que sean nombrados por el C. Presidente del Ayuntamiento y ratificados por el Cabildo. Así como aquellos que manejen, recauden o administren fondos y recursos públicos; y
+IV.- De la Administración Pública Municipal: Presidentes Municipales, Síndicos, Regidores, Secretarios, Tesoreros, Directores u homólogos, Presidentes de Juntas Municipales o Concejos Municipales y todos los demás servidores públicos municipales que sean nombrados por el Presidente del Ayuntamiento y ratificados por el Cabildo. Así como aquellos que manejen, recauden o administren fondos y recursos públicos;
 
-V.- Del Poder Judicial: Los Magistrados, los Jueces a que se refiere el Artículo 90 de la Constitución Política del Estado, secretarios y actuarios, así como aquellos que manejen, recauden o administren fondos y recursos estatales.
+V.- Del Poder Judicial: Del Poder Judicial (sic): Los Magistrados, Consejeros, los Jueces, los Secretarios, de Acuerdos, Proyectistas, Ejecutivos, y Sub-Secretarios, Actuarios, Visitadores Judiciales, Defensores Públicos, Directores y Subdirectores, jefes de Departamento o sus equivalentes, el Rector de la Universidad Judicial, así como aquellos que manejen, recauden o administren fondos y recursos públicos.
+
+VI.- De los Organismos Autónomos por disposición Constitucional: Los Consejeros o Comisionados, los Secretarios Técnicos o Ejecutivos, los Directores y Subdirectores, los Jefes de Departamento, los Coordinadores u homólogos, los Visitadores Generales y además los que manejen, recauden o administren fondos y recursos públicos.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 80o.
 
 La declaración de situación patrimonial deberá presentarse en los siguientes plazos:
 
-I.- Dentro de los sesenta días naturales siguientes a la toma de posesión;
+I.- Dentro de los sesenta días naturales siguientes a la toma de posesión del cargo;
 
 II.- Dentro de los treinta días naturales siguientes a la conclusión del cargo; y
 
 III.- Durante el mes de mayo de cada año deberá presentarse la declaración de situación patrimonial, acompañada de una copia de la declaración anual presentada por personas físicas para los efectos de la Ley del Impuesto sobre la Renta, salvo que en ese mismo año se hubiese presentado la declaración a que se refiere la Fracción I.
 
-Si transcurrido el plazo a que hace referencia la Fracción I, no se hubiese presentado la declaración correspondiente, sin causa justificada, quedará sin efectos el nombramiento respectivo previa declaración de la Contaduría. Lo mismo ocurrirá cuando se omita la declaración contemplada en la Fracción III.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 81o.
 
-La Contaduría expedirá las normas y los formatos bajo los cuales el servidor público deberá presentar ante ella la declaración de situación patrimonial, así como los manuales e instructivos que indicarán lo que es obligatorio declarar.
+La Entidad de Auditoría Superior del Estado expedirá las normas y los formatos bajo los cuales el servidor público deberá presentar ante ella la declaración de situación patrimonial, así como los manuales e instructivos que indicarán lo que es obligatorio declarar.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 82o.
 
-En la declaración inicial y final de situación patrimonial se manifestarán los bienes inmuebles, con la fecha y valor de adquisición.
+En la declaración inicial y final de situación patrimonial se manifestarán los bienes inmuebles, valores, depósitos en numerario, acciones de sociedad, bonos o títulos financieros, vehículos y en general los bienes que integran su patrimonio.
 
-En las declaraciones anuales se manifestarán solo las modificaciones al patrimonio, con fecha y valor de adquisición.- En todo caso se indicará el medio por el que se hizo la adquisición.
+En las declaraciones anuales se manifestarán solo las modificaciones al patrimonio, con fecha y valor de adquisición. En todo caso se indicará el medio por el que se hizo la adquisición.
 
-Tratándose de bienes muebles, la Contaduría, decidirá mediante acuerdo general, las características que deba tener la declaración.
+Tratándose de bienes muebles, la Entidad de Auditoría Superior del Estado, decidirá mediante acuerdo general, las características que deba tener la declaración.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 83o.
 
-Cuando los signos exteriores de riqueza sean ostensibles y notoriamente superiores a los ingresos lícitos que pudiera tener un servidor público, la Contaduría podrá, fundando y motivando su acuerdo, realizar la práctica de visitas de inspección y auditorías.- Cuando estos actos requieran orden de autoridades Judiciales, la Contaduría hará ante este la solicitud correspondiente.
+Cuando los signos exteriores de riqueza sean ostensibles y notoriamente superiores a los ingresos lícitos que pudiera tener un servidor público, el Titular de la Entidad de Auditoría Superior del Estado podrá, fundando y motivando su acuerdo, realizar la práctica de visitas de inspección y auditorías. Cuando estos actos requieran orden de autoridades Judiciales, la Entidad de Auditoría Superior del Estado formulará ante éstas, la solicitud correspondiente.
 
-Previamente a la inspección al inicio de la auditoría, se dará cuenta al servidor público de los hechos que motivan estas actuaciones y se le presentarán las actas en que aquellos consten, para que exponga lo que a derecho le convenga.
+El enriquecimiento ilícito podrá ser investigado originariamente por el Congreso, por conducto de la Comisión de Responsabilidades, la que deberá solicitar a la Entidad de Auditoría Superior del Estado, sin menoscabo de sus facultades en esta materia, la realización de investigaciones y auditorias.
+
+Las investigaciones y auditorías podrán ampliarse a terceras personas relacionados (sic) de cualquier forma con el servidor público o sus parientes, cuando en el ejercicio del encargo del investigado o por motivo del mismo, aumenten su patrimonio en forme (sic) ostensible, adquieran bienes sobre los cuales se indicie su obtención ilícita y no se justifique el origen de los recursos que sirvieron para la adquisición.
+
+Previamente a la inspección o al inicio de la auditoría, se dará cuenta al servidor público de los hechos que motivan estas actuaciones y se le presentarán las actas en que aquellos consten, para que exponga lo que a derecho le convenga.
+
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 84o.
 
-El servidor público a quien se practique visita de investigación o auditoría podrá interponer inconformidad ante la Contaduría contra los hechos contenidos en las actas, mediante escrito que deberá presentar dentro de los cinco días siguientes a la conclusión de aquéllas, en el que se expresarán los motivos de inconformidad y ofrecerá las pruebas que considere necesario acompañar o rendir dentro de los treinta días siguientes a la presentación del recurso.
+El servidor público a quien se practique visita de investigación o auditoría podrá interponer inconformidad ante la Entidad de Auditoría Superior del Estado contra los hechos contenidos en las actas, mediante escrito que deberá presentar dentro de los cinco días siguientes a la conclusión de aquéllas, en el que se expresarán los motivos de inconformidad y ofrecerá las pruebas que considere necesario acompañar o rendir dentro de los treinta días siguientes a la presentación del recurso.
 
-Todas las actas que se levanten con motivo de la visita, deberán ir firmadas por el servidor público y los testigos que para tal efecto se designen. Si el servidor público o los testigos se negaren a firmar, el visitador lo hará constar, sin que estas circunstancias afecten el valor probatorio que, en su caso, posea el documento.
+Todas las actas que se levanten con motivo de la visita, deberán ir firmadas por el servidor público y los testigos que para tal efecto se designen. Si el servidor público o los testigos se negaren a firmar, el auditor responsable de la investigación así lo hará constar, sin que estas circunstancias afecten el valor probatorio que, en su caso, posea el documento.
 
 ###### ARTICULO 85o.
 
 Serán sancionados en los términos que dispone el Código Penal del Estado, los servidores públicos que incurran en enriquecimiento ilícito.
 
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 86o.
 
-Para los efectos de esta Ley y del Código Penal del Estado, se computarán entre los bienes que adquieran los servidores públicos o con respecto a los cuales se conduzcan como dueños, los que reciban o de los que dispongan su cónyuge y sus dependientes económicos directos, salvo que se acredite que éstos los obtuvieron por sí mismos y por motivos ajenos al servicio público.
+Para los efectos de esta Ley y del Código Penal del Estado, se computarán entre los bienes que adquieran los servidores públicos o con respecto a los cuales se conduzcan como dueños, los que reciban o de los que dispongan su cónyuge y sus dependientes económicos directos o los emparentados con estos, salvo que se acredite que éstos los obtuvieron por sí mismos y por motivos ajenos al servicio público.
 
 ###### ARTICULO 87o.
 
@@ -917,17 +1019,17 @@ En ningún caso, se podrán recibir de dichas personas títulos de valor, bienes
 
 Se castigará como cohecho las conductas de los servidores públicos que violen lo dispuesto en este Artículo y serán sancionados en términos de la legislación penal.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 88o.
 
-Cuando los servidores públicos reciban obsequios, donativos o beneficios en general de los que se mencionan en el artículo anterior y cuyo monto sea superior al que en él se establece o sean los estrictamente prohibidos, deberán informar de ello a la Entidad de Auditoria Superior, a fin de ponerlos a su disposición. La autoridad correspondiente llevará un registro de dichos bienes.
+Cuando los servidores públicos reciban obsequios, donativos o beneficios en general de los que se mencionan en el artículo anterior y cuyo monto sea superior al que en él se establece o sean los estrictamente prohibidos, deberán informar de ello a la Entidad de Auditoría Superior, a fin de ponerlos a su disposición. La autoridad correspondiente llevará un registro de dichos bienes y el destino que deba darse a estos.
 
-> <small>(REFORMADO, P.O. 29 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 89o.
 
-La Entidad de Auditoria Superior, interpondrá denuncia ante el Ministerio Público, en contra del servidor público sujeto a la investigación respectiva, en los términos de la presente Ley, cuando no justifique la procedencia licita del incremento sustancial de su patrimonio, de los bienes adquiridos o de aquellos sobre los que se conduzca como dueño, durante el tiempo de su encargo o por motivos del mismo.
+El Congreso del Estado o la Entidad de Auditoría Superior en su caso, interpondrán denuncia ante el Ministerio Público, en contra del servidor público sujeto a la investigación respectiva, en los términos de la presente Ley, cuando no justifique la procedencia licita del incremento sustancial de su patrimonio, de los bienes adquiridos o de aquellos sobre los que se conduzca como dueño, durante el tiempo de su encargo o por motivos del mismo.
 
 T R A N S I T O R I O S
 
@@ -1008,3 +1110,15 @@ P.O. 25 DE AGOSTO DE 2013.
 Artículo Primero.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
 
 Artículo Segundo.- Se derogan aquellas disposiciones legales y reglamentarias, en lo que se opongan al presente decreto.
+
+P.O. 20 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 534.- POR EL QUE SE REFORMAN DIVERSOS ARTÍCULOS DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y SUS MUNICIPIOS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor al día de su publicación en el Periódico Oficial del Gobierno del Estado de Durango.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al contenido del presente.
