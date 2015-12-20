@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-hacienda-del-estado-de-durango-15851"
 country: "mx"
 rank: "ley"
 publication_date: "1999-12-23"
-last_updated: "2014-12-25"
+last_updated: "2015-12-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15851&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE HACIENDA DEL ESTADO DE DURANGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 23 de diciembre de 1999.
 
@@ -259,11 +259,13 @@ Los sujetos no contemplados en este artículo, que realicen pagos a que se refie
 
 La Federación, los Estados y los Municipios estarán exentos del pago de este impuesto, siempre y cuando se indique expresamente.
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2005)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-###### ARTICULO 12.
+> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
-Es facultad del titular del Poder Ejecutivo exentar total o parcialmente del Impuesto Sobre Nóminas hasta por cuatro años, a las empresas de nueva creación o a aquellas que califiquen en las condiciones de desempeño por las que podrán ser estimuladas físicamente, de conformidad con lo establecido en la Ley de Desarrollo Económico del Estado, su Reglamento, las demás Leyes y disposiciones fiscales, y con las reglas de carácter general que emita la Secretaría de Finanzas y de Administración.
+###### Artículo 12.
+
+Es facultad del Titular del Poder Ejecutivo exentar total o parcialmente del Impuesto Sobre Nómina hasta por cinco años, a las empresas de nueva creación o a aquellas que califiquen en las condiciones de desempeño por las que podrán ser estimuladas fiscalmente, de conformidad con lo establecido en la Ley de Fomento Económico Para el Estado de Durango, su Reglamento, las demás Leyes y disposiciones fiscales, y con las reglas de carácter general que emita la Secretaría de Finanzas y de Administración.
 
 ### CAPITULO II. DEL IMPUESTO PARA EL FOMENTO DE LA EDUCACION PUBLICA EN EL ESTADO
 
@@ -1549,11 +1551,9 @@ o cuando no exista valor o monto. 5
 
 Se entenderá como monto de la operación, a que se refieren distintas fracciones del presente artículo, la cantidad más alta que resulte de entre: el valor de la operación, el valor catastral vigente al momento de solicitar la inscripción, del avalúo bancario o el practicado por la Secretaría de Finanzas y de Administración, salvo que la propia fracción lo determine.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2009)</small>
-
-ARTICULO 52 BIS.- Cuando el valor de las operaciones contempladas en la fracción IV del artículo anterior sea superior al equivalente a 54 salarios mínimos elevados al año, los contribuyentes pagarán el 0.5% sobre el excedente.
+Artículo 52 bis.- (DEROGADO, P.O. 20 DE DICIEMBRE DE 2015)
 
 ###### ARTICULO 53.
 
@@ -1777,11 +1777,11 @@ I. Las personas físicas y morales a las que se les presten servicios por concep
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
-1. Por la evaluación y dictaminación del informe preventivo, manifestación de impacto ambiental y/o estudio de riego (sic):
+DÍAS DE SALARIO
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2007)</small>
 
-DÍAS DE SALARIO
+1. Por la evaluación y dictaminación del informe preventivo, manifestación de impacto ambiental y/o estudio de riego (sic):
 
 a) Inversión de menos de 500,000.00 pesos. 25
 
@@ -2007,75 +2007,89 @@ supervisión y verificación de la
 
 calidad de las mismas
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2015)</small>
 
-V. En sus funciones de derecho públicos (sic), el Estado prestará los servicios correspondientes a la prevención y control de la contaminación por residuos que no sean de competencia federal, ni municipal, de acuerdo con las leyes, reglamentos y normas de su competencia, estableciéndose los siguientes derechos:
+V. En sus funciones de derecho público, el Estado prestará los servicios correspondientes a la prevención y control de la contaminación por residuos que no sean de competencia federal, ni municipal, de acuerdo con las leyes, reglamentos y normas de su competencia, estableciéndose los siguientes derechos:
 
-1. Por la evaluación y dictaminación de planes 20
+DÍAS DE PORCENTAJE
 
-de manejo de empresas públicas o privadas
+SALARIO
 
-generadoras de residuos.
+1. Por la evaluación y dictaminación de planes de manejo que se presentan por primera vez de Empresas públicas y privadas, se causará un Derecho de acuerdo a lo siguiente:
 
-2. Por la evaluación de cada solicitud y en su
+a) Generadoras, recicladoras, almacenadoras
 
-caso autorización de las siguientes actividades
+y/o transportistas de residuos 50
 
-en materia de residuos, de acuerdo con las
+b) Recicladora, almacenadora y/o transportista
 
-leyes, reglamentos y normas:
+de residuos con más de una actividad 75
 
-a) Operaciones de unidades para la recolección 25
+c) Para las dedicadas al tratamiento
 
-y transporte de residuos.
+de residuos. 100
 
-b) Instalación y operación de sistemas de 75
+d) Para las dedicadas a la incineración
 
-almacenamiento de residuos.
+de residuos. 250
 
-c) Instalación y operación de sistemas de 75
+2. Por la evaluación y dictaminación y en su caso autorización de las renovaciones en empresas públicas y privadas de las siguientes actividades en materia de residuos, se causará un derecho de acuerdo a lo siguiente:
 
-reciclaje de residuos.
+a) Para generadoras de residuos. 20
 
-d) Instalación y operación de sistemas de 75
+b) Para las dedicadas a la recolección y
 
-reuso de residuos.
+transporte de residuos. 25
 
-e) Instalación y operación de sistemas de 100
+c) Para las dedicadas al almacenamiento
 
-tratamiento de residuos.
+de residuos. 25
 
-f) Instalación y operación de sistemas de 700
+d) Para las dedicadas al reciclaje
 
-incineración de residuos.
+de residuos. 25
 
-g) Instalación y operación de sistemas 1000
+e) Para las dedicadas al reuso de residuos. 25
 
-para el confinamiento de residuos.
+f) Para las con más de una actividad
 
-3. Por la evaluación de cada solicitud y en su caso
+de entre recicladora, almacenadora y/o
 
-autorización de proyectos para la construcción o
+transportista de residuos 35
 
-rehabilitación de sitios de disposición final.
+g) Para las dedicadas al tratamiento
 
-a) Para sitios de disposición final con recepción 100
+de residuos. 50
 
-mayor a 100 toneladas por día de residuos.
+h) Para las dedicadas a la incineración
 
-b) Para sitios de disposición final con recepción 75
+de residuos. 500
 
-de 50 hasta 100 toneladas por día de residuos.
+3. Por la evaluación de cada solicitud y en su caso autorización de proyectos para la construcción o rehabilitación o clausura de sitios de disposición final.
 
-c) Para sitios de disposición final con recepción 50
+a) Para sitios de disposición final
 
-de 10 hasta menos de 50 toneladas por día de
+con recepción mayor a 100 toneladas
 
-residuos.
+por día de residuos. 100
 
-d) Para sitios de disposición final con recepción 25
+b) Para sitios de disposición final
 
-menor a 10 toneladas por día de residuos.
+con recepción de 50 hasta 100
+
+toneladas por día de residuos. 75
+
+c) Para sitios de disposición final con
+
+recepción de 10 hasta menos de 50
+
+toneladas por día de residuos. 50
+
+d) Para sitios de disposición final
+
+con recepción menor a 10
+
+toneladas por día de residuos. 25
 
 VI. Se causarán derechos por los servicios
 
@@ -3680,5 +3694,13 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
 P.O. 25 DE DICIEMBRE DE 2014.
 
 PRIMERO. El presente decreto entrará en vigor el día primero de enero de 2015, el cual será publicado en el Periódico Oficial del Gobierno del Estado de Durango.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 20 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 507.- QUE CONTIENE REFORMAS A LA LEY DE HACIENDA DEL ESTADO DE DURANGO”.]
+
+PRIMERO. El presente decreto entrará en vigor el día 1 de Enero del año 2016.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
