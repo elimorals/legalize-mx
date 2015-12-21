@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-transparencia-y-acceso-a-la-informacion-del-estado-62050
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-19"
-last_updated: "2015-08-26"
+last_updated: "2015-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62050&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial en el Estado de Nuevo León, el sábado 19 de julio de 2008.
 
@@ -1257,21 +1257,19 @@ El Congreso del Estado, establecerá en el presupuesto de egresos del Estado los
 
 El ejercicio del presupuesto de la Comisión será revisado y fiscalizado en los términos de las disposiciones legales aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 92.
 
-La Comisión estará integrada por cuatro Comisionados, tres de los cuales serán Propietarios que en Pleno serán el Órgano Supremo de la misma, y un Supernumerario que suplirá las ausencias de aquellos, por un periodo mínimo de siete días y máximo de quince días, previa autorización del Pleno. Los tres Comisionados Propietarios elegirán a su Presidente, los dos restantes tendrán el carácter de Vocales, y durante su desempeño no podrán tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia.
+La Comisión estará integrada por cuatro Comisionados, tres de los cuales serán Propietarios que en Pleno serán el Órgano Supremo de la misma, y un Supernumerario que suplirá las ausencias de aquellos. Durante su desempeño, los Comisionados no podrán tener ningún otro empleo, cargo o comisión, salvo en instituciones docentes, científicas o de beneficencia.
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2015)</small>
+Los tres Comisionados Propietarios elegirán a su Presidente, los dos restantes tendrán el carácter de Vocales.
 
-En los casos de conflicto de intereses que obligue a abstenerse, o bien en la ausencia temporal, impedimento legal, suspensión o licencia provisional de un Comisionado Propietario dentro de los plazos establecidos en el párrafo anterior, el Supernumerario lo suplirá temporalmente. A falta definitiva de alguno de los Comisionados Propietarios, éste será sustituido en forma definitiva por el Comisionado Supernumerario quien pasará a ser Propietario, previa la ratificación que realice el Congreso del Estado.
+En los casos de conflicto de intereses que obligue a abstenerse, o bien en la ausencia temporal, impedimento legal, suspensión o licencia provisional de un Comisionado Propietario, el Supernumerario lo suplirá temporalmente.
 
-El Comisionado Supernumerario podrá asistir con voz pero sin voto a todas las sesiones. Cuando supla la falta de algún Propietario gozará de voz y voto.
+A falta definitiva de alguno de los Comisionados Propietarios, éste será sustituido en forma definitiva por el Comisionado Supernumerario quien pasará a ser Propietario, previa la ratificación que realice el Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2015)</small>
-
-Para todos los efectos legales, los Comisionados en funciones serán considerados servidores públicos, con las prerrogativas y responsabilidades que la Constitución Política del Estado de Nuevo León y demás Leyes les señalen.
+Para todos los efectos legales, los Comisionados serán considerados servidores públicos en cualquier momento, con las prerrogativas y responsabilidades que la Constitución Política del Estado de Nuevo León y demás Leyes les señalen.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE AGOSTO DE 2015)</small>
 
@@ -1337,13 +1335,11 @@ II.- Cuando por sus actos u omisiones se afecten las atribuciones de la Comisió
 
 III.- Cuando hayan sido sentenciados por un delito grave que merezca pena corporal.
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 100.
 
-Por el desempeño de su encargo, los Comisionados Propietarios percibirán una remuneración equivalente a la de un Juez de Primera Instancia del Poder Judicial del Estado.
-
-En el caso del Comisionado Supernumerario su remuneración será el equivalente al plazo o tiempo que realice funciones de suplencia, en los términos del artículo 92 de esta Ley.
+Por el desempeño de su encargo, los Comisionados percibirán una remuneración equivalente a la de un Juez de Primera Instancia del Poder Judicial del Estado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE SEPTIEMBRE DE 2012)</small>
 
@@ -1364,6 +1360,26 @@ V. Tengan interés en los procedimientos su cónyuge, sus parientes consanguíne
 VI. Se encuentren en alguna situación análoga que pueda afectar su imparcialidad.
 
 En ningún caso se dará trámite a excusas o recusaciones que tengan por efecto anular el quórum legal que el Pleno de la Comisión requiere para resolver.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
+Artículo 101 bis.- Son Atribuciones del Comisionado Supernumerario, cuando no desempeñe las funciones de Propietario, las siguientes:
+
+l. Realizar el proyecto del Presupuesto Anual de Egresos de la Comisión;
+
+II. Elaborar el Proyecto Anual de Trabajo para la aprobación del Pleno;
+
+III. Coordinar la elaboración del Informe Anual de Labores de la Comisión;
+
+IV. Representar a la Comisión en los asuntos que el Presidente o el Pleno determine;
+
+V. Expedir certificaciones y constancias de la documentación que obre en poder de la Comisión, previa autorización del Pleno;
+
+VI. Tener a su cargo la supervisión, operación y control de la oficialía de partes, previa autorización del pleno; y
+
+VII. Las demás que le sean conferidas por el Pleno.
+
+En el caso de que el Comisionado Supernumerario asuma de manera definitiva el carácter de Propietario, el Pleno de la Comisión designará a un responsable para el desempeño de las obligaciones establecidas en el presente artículo.
 
 ###### Artículo 102.
 
@@ -2146,3 +2162,13 @@ P.O. 17 DE SEPTIEMBRE DE 2012.
 P.O. 26 DE AGOSTO DE 2015.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 21 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 033. SE REFORMA EL ARTÍCULO 92; SE REFORMA EL ARTÍCULO 100; Y SE ADICIONA UN ARTÍCULO 101 BIS, TODOS DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN DEL ESTADO DE NUEVO LEÓN".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se derogan todas las disposiciones que contravengan al presente decreto.
+
+Tercero.- La Comisión de Transparencia y Acceso a la Información del Estado de Nuevo León contará con un plazo de 80 días naturales para adecuar su normatividad interna.
