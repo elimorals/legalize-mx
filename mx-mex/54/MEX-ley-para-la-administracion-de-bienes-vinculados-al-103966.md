@@ -4,7 +4,7 @@ identifier: "MEX-ley-para-la-administracion-de-bienes-vinculados-al-103966"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-17"
-last_updated: "2014-12-17"
+last_updated: "2015-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103966&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY PARA LA ADMINISTRACIÓN DE BIENES VINCULADOS AL PROCEDIMIENTO PENAL Y A LA EXTINCIÓN DE DOMINIO PARA EL ESTADO DE MÉXICO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A LOS CIENTO VEINTE DÍAS SIGUIENTES DE SU PUBLICACIÓN.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Sección Octava de la Gaceta del Gobierno del Estado de México, el miércoles 17 de diciembre de 2014.
 
@@ -109,7 +107,9 @@ Integración de la Comisión
 
 La Comisión se integrará por:
 
-I. El Secretario de Finanzas del Gobierno del Estado de México, quien la presidirá;
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2015)</small>
+
+I. El Secretario General de Gobierno del Estado de México, quien la presidirá;
 
 II. Un integrante del Consejo de la Judicatura del Poder Judicial que será designado por el Presidente del Tribunal Superior de Justicia del Estado de México;
 
@@ -117,7 +117,9 @@ III. El Procurador;
 
 IV. El Secretario de Salud del Gobierno del Estado de México;
 
-V. El Titular de la Institución en el Estado de México encargada de la atención a víctimas, y
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2015)</small>
+
+V. El Comisionado Ejecutivo de Atención a Víctimas del Estado de México.
 
 VI. El Titular del Instituto, quien fungirá como Secretario Técnico y tendrá derecho a voz pero no a voto.
 
@@ -149,9 +151,11 @@ IV. Las demás que se señalen en esta Ley y otras disposiciones jurídicas apli
 
 Objeto del Instituto
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 8.
 
-Se crea el Instituto de Administración de Bienes Vinculados al Procedimiento Penal y a la Extinción de Dominio del Estado de México, como un órgano administrativo desconcentrado de la Secretaría de Finanzas, con autonomía técnica y de gestión, cuyo objeto es la administración de los bienes asegurados, embargados, abandonados, decomisados o de extinción de dominio, así como autorizar su destino legal y en su caso, administrar y entregar el producto de su enajenación, en los términos previstos en esta Ley y demás disposiciones aplicables.
+Se crea el Instituto de Administración de Bienes Vinculados al Procedimiento Penal y a la Extinción de Dominio del Estado de México, como un órgano administrativo desconcentrado de la Secretaría General de Gobierno, con autonomía técnica y de gestión, cuyo objeto es la administración de los bienes asegurados, embargados, abandonados, decomisados o de extinción de dominio, así como la autorización de su destino legal y en su caso, la administración y entrega del producto de su enajenación, en los términos previstos en esta Ley y demás disposiciones aplicables.
 
 Al frente del Instituto habrá un Director General, quien será nombrado y removido por el Gobernador del Estado, de quien dependerán los directores, subdirectores, jefes de departamento y personal de apoyo administrativo que proceda conforme las necesidades del servicio y la disponibilidad presupuestal.
 
@@ -185,7 +189,13 @@ XI. Rendir en cada sesión ordinaria de la Comisión y del Comité Directivo, in
 
 XII. Integrar, actualizar y mejorar la base de datos con el registro de los bienes objeto de esta Ley, y
 
-XIII. Las demás que señalen otros ordenamientos, el Secretario de Finanzas del Gobierno del Estado de México o que mediante acuerdo le otorgue el Comité Directivo o la Comisión.
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2015)</small>
+
+XIII. Se informara anualmente a la Legislatura sobre el destino de los bienes.
+
+> <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 2015)</small>
+
+XIV. Las demás que señalen otros ordenamientos, el Secretario General de Gobierno del Estado de México o que por acuerdo le otorgue el Comité Directivo o la Comisión.
 
 ### Capítulo Cuarto. Comité Directivo para la Administración de Bienes Asegurados, Embargados, Abandonados, Decomisados o de Extinción de Dominio
 
@@ -201,7 +211,9 @@ Integración del Comité Directivo
 
 El Comité Directivo, se integrará por los siguientes servidores públicos:
 
-I. El Secretario de Finanzas del Gobierno del Estado de México, quien fungirá como Presidente;
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2015)</small>
+
+I. El Secretario General de Gobierno del Estado de México, quien fungirá como Presidente.
 
 II. El Titular del Instituto, quien fungirá como Secretario Técnico;
 
@@ -209,7 +221,9 @@ III. El Subsecretario de Administración de la Secretaría de Finanzas, quien fu
 
 IV. El Subprocurador General de la Procuraduría, quien fungirá como Primer Vocal;
 
-V. Un representante del Titular de la Institución en el Estado de México encargada de la atención a víctimas, y
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2015)</small>
+
+V. Un representante de la Comisión Ejecutiva de Atención a Víctimas del Estado de México.
 
 VI. El Titular de la Unidad Especializada de Inteligencia Patrimonial y Financiera, quien fungirá como Segundo Vocal.
 
@@ -550,3 +564,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 JOSÉ S. MANZUR QUIROGA
 
 (RÚBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 21 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 54.- POR EL QUE SE REFORMAN LAS FRACCIONES I Y V DEL ARTÍCULO 5, PRIMER PÁRRAFO DEL ARTÍCULO 8, FRACCIÓN XIII DEL ARTÍCULO 9 Y LAS FRACCIONES I Y V DEL ARTÍCULO 11 Y SE ADICIONA LA FRACCIÓN XIV AL ARTÍCULO 9 DE LA LEY PARA LA ADMINISTRACIÓN DE BIENES VINCULADOS AL PROCEDIMIENTO PENAL Y A LA EXTINCIÓN DE DOMINIO PARA EL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. El Ejecutivo del Estado emitirá las disposiciones reglamentarias necesarias para favorecer el cumplimiento del presente Decreto.
