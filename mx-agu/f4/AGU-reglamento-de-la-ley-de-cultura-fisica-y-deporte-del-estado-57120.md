@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-de-la-ley-de-cultura-fisica-y-deporte-del-estado-571
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-09-24"
-last_updated: "2007-09-24"
+last_updated: "2015-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57120&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # REGLAMENTO DE LA LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES
 
-REGLAMENTO DE LA LEY DE CULTURA FISICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES.
+REGLAMENTO DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE AGUASCALIENTES.
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Aguascalientes, el lunes 24 de septiembre de 2007.
 
@@ -59,7 +59,7 @@ III. PROGRAMA: El Programa Estatal de Cultura Física y Deporte;
 
 IV. CONADE: La Comisión Nacional de Cultura Física y Deporte;
 
-V. CODEME: La Confederación Deportiva Mexicana, A.C.;
+V. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2015)
 
 VI. SINADE: El Sistema Nacional de Cultura Física y Deporte;
 
@@ -85,7 +85,17 @@ XVI. RESIEDE: Registro del Sistema Estatal de Cultura Física y Deporte;
 
 XVII. SEDEC: Secretaría de Desarrollo Económico;
 
-XVIII. ISEA: Instituto de Salud del Estado de Aguascalientes.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
+XVIII. ISEA: Instituto de Servicios de Salud del Estado de Aguascalientes;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
+XIX. COEVED: Consejo Estatal de Vigilancia Electoral Deportiva; y
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
+XX. COMISIÓN ESPECIAL: Comisión Especial Estatal Contra la Violencia en el Deporte.
 
 ###### Artículo 3°.
 
@@ -201,6 +211,8 @@ VI. Las acciones de coordinación y concertación que habrán de promoverse por 
 
 VII. Los responsables de su aplicación, ejecución y seguimiento.
 
+> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REPUBLICADA], P.O. 21 DE DICIEMBRE DE 2015)</small>
+
 #### SECCIÓN SEGUNDA. De las Bases de Coordinación, Colaboración y Concertación
 
 ###### Artículo 13.
@@ -265,9 +277,11 @@ I. La homogeneización de los procedimientos de captación de datos en los padro
 
 II. Las bases para la revisión y actualización periódica de la información contenida en el padrón e inventario del RESIEDE y de los registros locales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 20.
 
-Podrán inscribirse en el RESIEDE:
+Deberán inscribirse en el RESIEDE:
 
 I. Las asociaciones y sociedades que tengan por objeto promover, practicar y contribuir al desarrollo estatal y regional de:
 
@@ -285,11 +299,41 @@ III. Los deportistas de alto rendimiento talentos deportivos;
 
 IV. Las instalaciones deportivas públicas y privadas;
 
-V. Los programas, competiciones, eventos deportivos y académicos, encuentros y congresos en materia de cultura física y deporte, y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2015)</small>
 
-VI. Los convenios, acuerdos, anexos específicos y demás actos de concertación en materia de cultura física y deporte.
+V. Los programas, competiciones, eventos deportivos y académicos, encuentros y congresos en materia de cultura física y deporte;
 
-En el caso de las asociaciones deportivas estatales deberán estar registradas para ser sujetos de los apoyos y estímulos que en su caso acuerde El IDEA.
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
+VI. Los convenios, acuerdos, anexos específicos y demás actos de concertación en materia de cultura física y deporte;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
+VII. Los entrenadores, monitores, técnicos, directores técnicos y metodólogos y demás personal de apoyo de los deportistas de alto rendimiento y talentos deportivos;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
+VIII. Los jueces y árbitros;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
+IX. Los licenciados, especialistas, maestros o doctores en Educación Física, en entrenamiento deportivo, o en ciencias del Deporte, así como los investigadores en materia de Cultura Física y Deporte;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
+X. Los mediadores y conciliadores independientes en materia deportiva;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
+XI. Los estatutos, los reglamentos de los estatutos y los reglamentos técnicos deportivos de las asociaciones y sociedades deportivas previstas en las Secciones Primera, Segunda y Tercera del Capítulo II del Título Segundo de la Ley;
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
+XII. Los beneficiarios de becas vitalicias, reconocimientos o premios otorgados en materia de Cultura Física y Deporte por la Federación, los Estados, el Distrito Federal y los municipios; y
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
+XIII. Los demás que establezca la Ley, este Reglamento y demás ordenamientos aplicables.
 
 ###### Artículo 21.
 
@@ -313,7 +357,9 @@ d. Para las asociaciones o sociedades de cultura física-deportiva: El fomento, 
 
 B. Estatutos Sociales acordes con lo establecido en la Ley, y el presente Reglamento y demás normas aplicables en el ámbito deportivo; y
 
-C. Acta en la que conste la elección de sus órganos de gobierno, Los documentos antes citados deberán presentarse protocolizados e inscritos en el Registro Público de la Propiedad y del Comercio que corresponda, con excepción de la constancia.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
+C. Las Asociaciones Deportivas Estatales deberán presentar constancia de la elección de sus Órganos de Gobierno emitida por el COEVED y la constancia de afiliación a una Asociación Deportiva Nacional.
 
 II. Acreditar su representatividad, mediante:
 
@@ -389,6 +435,24 @@ III. Contar con resultados interestatales o cumplir con marcas que lo identifiqu
 
 IV. Cumplir la reglamentación y programas de entrenamiento respectivos.
 
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 28 Bis.
+
+Las inscripciones a que se refiere la fracción IX del artículo 20 de este Reglamento deberán hacerse directamente por la persona interesada, o a través de un representante, debiendo acreditar con los documentos legales correspondientes, su licenciatura, especialidad, maestría o doctorado en materia de Cultura Física y Deporte. En el caso de los investigadores en materia de Cultura Física y Deporte, para su inscripción deberán acreditar dicha calidad con las investigaciones o trabajos publicados o en proceso de publicación, o con la constancia que emitan las instituciones educativas públicas o privadas que correspondan, avalando su calidad de investigador en relación con la Cultura Física y el Deporte.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 28 Ter.
+
+Los Mediadores y Conciliadores Independientes se inscribirán por conducto de la CAAD, quien actualizará anualmente la lista correspondiente.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 28 Quater.
+
+La inscripción a que se refiere la fracción XI del artículo 20 de este Reglamento, deberá hacerse por conducto de la asociación o sociedad de que se trate y actualizarse ante cualquier modificación, reforma o adición de los estatutos, de los reglamentos de los estatutos y de los reglamentos técnicos deportivos, cuando corresponda.
+
 ###### Artículo 29.
 
 El IDEA, dentro de un plazo que no excederá de 30 días hábiles, contados a partir de la fecha de recepción de la solicitud de inscripción al RESIEDE entregará al solicitante, si así procede, la constancia respectiva.
@@ -413,9 +477,17 @@ III. Para entes de promoción deportiva será anual y su renovación deberá sol
 
 IV. Para deportistas de alto rendimiento y talentos deportivos será anual y su renovación estará sujeta al cumplimiento de lo dispuesto por el artículo 28 del presente Reglamento;
 
-V. Para las instalaciones deportivas públicas y privadas será permanente durante la existencia y funcionamiento de las mismas, sujeto a la correspondiente actualización de los requisitos dispuestos por el artículo 25 de este Reglamento; y
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2015)</small>
 
-VI. Para programas; convocatorias a competiciones, eventos deportivos y académicos, encuentros y congresos; convenios, acuerdos y anexos específicos en materia de cultura física y deporte, será igual a la que posea el documento que le dio origen.
+V. Para las instalaciones deportivas públicas y privadas será permanente durante la existencia y funcionamiento de las mismas, sujeto a la correspondiente actualización de los requisitos dispuestos por el artículo 25 de este Reglamento;
+
+> <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
+VI. Para programas, convocatorias a competiciones, eventos deportivos y académicos, encuentros y congresos; convenios, acuerdos y anexos específicos en materia de cultura física y deporte, será igual a la que posea el documento que le dio origen; y
+
+> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
+VII. Para las personas a que se refieren las fracciones VII a X del artículo 20 de este Reglamento será anual y para su renovación deberá cumplirse con los mismos requisitos establecidos para su inscripción.
 
 ###### Artículo 31.
 
@@ -529,7 +601,17 @@ C. Contar con un registro actualizado de sus asociados o socios y, en su caso, e
 
 D. Elaborar y aplicar un programa de actividades con el objeto de promover, practicar o contribuir al desarrollo de la cultura física o el deporte de que se trate;
 
-E. Bajo ningún concepto los representantes o presidentes de las asociaciones y sociedades deportivas, recreativo-deportivas, de deporte en la rehabilitación y de cultura física-deportiva podrán formar parte de la plantilla Laboral del IDEA en su carácter de trabajadores de base, de confianza, eventuales y/o prestadores de servicios profesionales.
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
+E. Bajo ningún concepto los representantes o presidentes de las asociaciones y sociedades deportivas, recreativo-deportivas, de deporte en la rehabilitación y de cultura física-deportiva podrán formar parte de la plantilla Laboral del IDEA en su carácter de trabajadores de base, de confianza, eventuales y/o prestadores de servicios profesionales;
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
+F. Contar con la documentación normativa, contable, fiscal y operativa que acredite su debida gestión administrativa, atendiendo lo dispuesto en la Ley, este Reglamento y demás ordenamientos aplicables; y
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
+G. Capacitar y fomentar la profesionalización de sus directivos atendiendo las particularidades del desarrollo de la Cultura Física, el Deporte, la recreación y la rehabilitación.
 
 ### CAPÍTULO II. De Deporte Profesional
 
@@ -815,7 +897,7 @@ l. Un representante por cada una de las Secretarías del ISEA y de Seguridad Pú
 
 ll. Un representante designado por el COM;
 
-III. Dos representantes designados por la CODEME;
+III. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2015)
 
 IV. Un representante de los deportistas de alto rendimiento elegido conforme a las bases que emita el Comité Técnico del Fideicomiso Fondo para el Deporte de Alto Rendimiento;
 
@@ -865,7 +947,7 @@ I. El encargado del área de medicina y ciencias aplicadas del IDEA;
 
 II. El encargado del área médica del COM;
 
-III. Un representante de CODEME;
+III. (DEROGADA, P.O. 21 DE DICIEMBRE DE 2015)
 
 IV. El encargado del área de atención integral al deportista del IDEA;
 
@@ -957,27 +1039,51 @@ J. Número de expediente médico del IDEA.
 
 En el caso de que los atletas salgan sorteados para control de dopaje dentro del evento a que se refiere el artículo 15 de este Reglamento, la cartilla de referencia será elaborada y entregada en el momento de la toma de muestras.
 
-### CAPÍTULO VI. De los Riesgos, de la Prevención, de la Violencia y la Responsabilidad Civil en Espectáculos Deportivos
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO VI. De la Composición y Funcionamiento de la Comisión Especial Estatal contra la Violencia en el Deporte
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 92.
 
-Con el objeto de dar cumplimiento a la obligación de asegurar la integridad de los asistentes a los espectáculos públicos o privados en materia de cultura física y deporte y de prevenir la violencia en los mismos, El IDEA podrá celebrar convenios con las diversas dependencias, y sus municipios, así como los sectores social y privado con objeto de:
+La Comisión Especial contará como mínimo, con las instancias de dirección siguientes:
 
-I. Desarrollar investigaciones acerca del fenómeno de la violencia u otras acciones reprensibles al interior o exterior de los espacios destinados a la realización de la cultura física y el deporte;
+I. Un Pleno, que operará como la máxima instancia colegiada;
 
-II. Actualizar constantemente las disposiciones técnicas y reglamentarias en esta materia;
+II. Un Consejo Directivo, el cual se constituirá como la instancia de representación y de gobierno, con funciones de dirección, control, consulta, evaluación, seguimiento y cumplimiento de las acciones establecidas por el pleno; y
 
-III. Promover e impulsar acciones de prevención y en su caso de sanción ante las autoridades competentes;
+III. El Presidente del Pleno y del Consejo Directivo, quien será el titular del IDEA.
 
-IV. Promover medidas para el control y el consumo adecuado de bebidas alcohólicas en los espectáculos deportivos; evitar la entrada de quienes se encuentren bajo los efectos del alcohol, estupefacientes, psicotrópicos, estimulantes o sustancias análogas y prohibir la introducción de objetos peligrosos o susceptibles de ser utilizados como armas;
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2015)</small>
 
-V. Orientar a los promotores de espectáculos deportivos en la organización de sus eventos a efecto de evitar la violencia en los mismos;
+###### Artículo 92 Bis.
 
-VI. Fomentar y coordinar campañas de colaboración ciudadana;
+La Comisión Especial se integrarán por los representantes de:
 
-VII. Promover campañas de divulgación de las normas preventivas de este tipo de violencia; y
+I. Los Órganos de Cultura Física y Deporte Municipales;
 
-VIII. Recomendar la instalación de unidades de control organizativo en aquellas instalaciones o eventos deportivos que se requieran.
+II. Los equipos o clubes deportivos;
+
+III. Las ligas deportivas; y
+
+IV. Las Asociaciones Deportivas Estatales.
+
+Dicha integración se hará en los términos que establezcan las disposiciones locales aplicables.
+
+El Consejo Directivo se deberá integrar, como mínimo, por:
+
+I. Un Presidente, quien convocará a las sesiones, con voz y voto de calidad en caso de empate en las votaciones; y
+
+II. Los Vocales que establezcan la Ley y demás disposiciones locales aplicables.
+
+El procedimiento para la elección y nombramiento de los vocales así como los lineamientos para el funcionamiento, tanto del Consejo Directivo como del Pleno, se establecerán en las normas que emita las propia Comisión Especial.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 92 Ter.
+
+La Comisión Especial expedirá su respectivo Reglamento Interno de Operación, en los cuales se especificarán su funcionamiento colegiado y la creación y funciones de las instancias internas que en su caso determinen.
 
 ## TÍTULO QUINTO. DE LAS INFRACCIONES, SANCIONES Y RECURSOS
 
@@ -1123,6 +1229,130 @@ La amigable composición como vía o medio alterno para la solución de conflict
 
 Con independencia de las sanciones administrativas a las que pudiera hacerse acreedor cualquier infractor, por no acatar los acuerdos, decisiones, laudos y resoluciones emitidos por la CEAAD, su Pleno podrá solicitar de las autoridades, entidades u organismos administrativos y deportivos competentes, le impongan al infractor cualesquiera de las sanciones, correcciones disciplinarias y medidas de apremio que señala la Ley, su Reglamento y demás disposiciones reglamentarias y estatutarias.
 
+> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
+## TÍTULO SÉPTIMO. DEL CONSEJO ESTATAL DE VIGILANCIA ELECTORAL DEPORTIVA
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO I. Disposiciones Generales
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 104.
+
+El COEVED velará en forma inmediata por el ajuste a Derecho de los procesos electorales en los órganos de gobierno y representación de las Asociaciones Deportivas Estatales que reciban recursos públicos estatales o sean sujetos de los apoyos y estímulos que, en su caso, acuerde el IDEA de conformidad con la Ley, este Reglamento y demás ordenamientos aplicables, vigilando que se cumplan con los principios de legalidad, transparencia, equidad e igualdad de oportunidades dentro del marco de los principios democráticos y representativos y con estricto apego de las disposiciones estatutarias y legales aplicables.
+
+Para cumplir con lo dispuesto en el párrafo anterior, el COEVED conocerá mediante el recurso de apelación ante la CAAD, de las controversias planteadas por todas aquellas personas, físicas o morales, cuyos derechos o intereses legítimos, individuales o colectivos, se encuentren afectados por los actos, omisiones, decisiones, acuerdos o resoluciones emitidos por las Asociaciones Deportivas Estatales con motivo del desarrollo de las distintas fases de los procesos de elección en sus órganos de gobierno y representación.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO II. Del Procedimiento
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 105.
+
+El procedimiento para resolver las controversias a que se refiere el artículo 62 Bis de la Ley, se sujetará al trámite siguiente:
+
+I. La controversia deberá presentarse mediante escrito libre ante el COEVED, dentro de los cinco días hábiles siguientes al que surta efectos la notificación o se tenga conocimiento del acto, omisión, decisión, acuerdo o resolución controvertido relacionado con el desarrollo de cualquiera de las fases de los procesos de elección de los órganos de gobierno y representación de las Asociaciones Deportivas Estatales;
+
+II. En el escrito se debe precisar:
+
+a. La Asociación Deportiva Estatal que emitió el acto, decisión, acuerdo o resolución controvertida o fue omiso en su realización;
+
+b. El nombre de quien promueve la controversia;
+
+c. El domicilio que señale para efectos de recibir notificaciones;
+
+d. El acto, omisión, decisión, acuerdo o resolución que le afecta relacionado con el desarrollo de cualquiera de las fases de los procesos de elección de los órganos de gobierno y representación de las asociaciones deportivas estatales, y la fecha en que se notificó o tuvo conocimiento del mismo, acompañando, en su caso, el documento original que lo contenga y su constancia de notificación;
+
+e. Las personas cuyos derechos o intereses legítimos pudieran resultar directamente afectados por el planteamiento de la controversia;
+
+f. Los agravios que se le causaron; y
+
+g. Las pruebas que ofrezca que deberán tener relación inmediata y directa con la controversia planteada, debiendo acompañar las documentales con que cuente, incluyendo las que acrediten su personalidad cuando se actúe en nombre de otra persona, sea física o moral;
+
+III. El COEVED, dentro de los tres días hábiles siguientes a la recepción del escrito, acordará sobre la prevención, admisibilidad o no del procedimiento, tomando en consideración el cumplimiento de los requisitos señalados en la fracción anterior;
+
+IV. Si el escrito fuere obscuro o irregular o no cumpliera con alguno de los requisitos establecidos en la fracción II de este artículo, el COEVED prevendrá al promovente para que dentro del término de tres días hábiles subsane los defectos. De no hacerlo transcurrido el término, el COEVED lo tendrá por no admitido y devolverá al promovente los documentos que hubiere presentado;
+
+V. Una vez admitido el procedimiento, se correrá traslado a la Asociación Deportiva Estatal para que dentro del término de tres días hábiles siguientes a que surta efectos la notificación correspondiente rinda un informe por escrito justificando el acto, omisión, decisión, acuerdo o resolución sujeto a la controversia, ofreciendo las pruebas que correspondan. Asimismo, se notificará a las personas cuyos derechos o intereses legítimos pudieran resultar directamente afectados por el planteamiento de la controversia, que en lo sucesivo se les denominará terceros afectados, para que dentro del término de tres días hábiles siguientes a que surta efectos la notificación correspondiente manifiesten lo que a su derecho convenga ofreciendo las pruebas que consideren;
+
+VI. Recibido el informe justificado de la Asociación Deportiva Estatal y las manifestaciones de los terceros afectados, el COEVED dictará un acuerdo pronunciándose sobre la admisión de las pruebas ofrecidas por las partes de la controversia y, en su caso, de los terceros afectados, y señalará fecha y hora para que tenga verificativo una audiencia para su desahogo, debiendo realizarse notificación personal a las partes y, en su caso, a los terceros afectados. Dicha audiencia deberá celebrarse dentro de los cinco días hábiles siguientes al que se haya dictado el acuerdo señalado en esta fracción;
+
+VII. Si la audiencia tuviere que suspenderse por cualquier razón, se procederá a diferirla y se señalará nueva fecha y hora para su reanudación;
+
+VIII. Desahogadas las pruebas admitidas, en la propia audiencia se recibirán los alegatos que formulen las partes, sea por vía escrita u oral;
+
+IX. El COEVED emitirá una resolución confirmando, modificando o revocando el acto, decisión, acuerdo o resolución emitidos por la Asociación Deportiva Estatal con motivo del desarrollo de las distintas fases de los procesos de elección en sus órganos de gobierno y representación. Dicha resolución deberá emitirse dentro de los diez días hábiles siguientes a la celebración de la audiencia a que se refiere la fracción anterior. Las resoluciones definitivas dictadas por el COEVED en relación con este tipo de procedimientos podrán ser impugnadas por las partes o, en su caso, los terceros afectados mediante el recurso de apelación ante la CAAD; y
+
+X. En todo lo no previsto en la Ley y este Reglamento para la substanciación del presente procedimiento, el COEVED aplicará supletoriamente el Código de Procedimientos Civiles del Estado de Aguascalientes.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO III. De la Expedición de Constancias
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 106.
+
+El COEVED conforme a lo dispuesto por el artículo 62 Bis de la Ley, estará facultado para expedir la constancia que corresponda acerca del respeto a los principios de legalidad, transparencia, equidad e igualdad de oportunidades observados en cada elección de los órganos de gobierno y de representación de las Asociaciones Deportivas Estatales, una vez terminado el proceso electoral respectivo.
+
+Para expedir la constancia respectiva la Asociación Deportiva Estatal deberá solicitarla por escrito dentro de los cinco días hábiles siguientes a la terminación del proceso electoral respectivo, enviando una copia o ejemplar de:
+
+I. Los Estatutos o Reglamentos de los Estatutos vigentes que contengan el proceso electoral de la asociación deportiva de que se trate;
+
+II. El Padrón Deportivo Electoral vigente;
+
+III. Las convocatorias y órdenes del día para la celebración de las elecciones;
+
+IV. El registro y calificación de candidatos;
+
+V. La Asamblea Electiva; y
+
+VI. La Lista de Asistencia.
+
+El COEVED revisará la documentación y, en su caso, expedirá la constancia respectiva dentro de los diez días hábiles siguientes a la recepción de la documentación respectiva.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 107.
+
+El COEVED podrá negar la expedición de la constancia a que hace referencia el artículo anterior, en los casos siguientes:
+
+I. Si se encuentra pendiente de resolución un procedimiento instaurado en contra de dicha Asociación Deportiva Estatal ante el COEVED en relación con el proceso electoral respectivo, o si la resolución definitiva dictada por el COEVED en un procedimiento instaurado en contra de la Asociación Deportiva Estatal interesada, ha sido impugnada mediante el recurso de apelación ante la CAAD, en cuyo caso expedirá o negará la constancia respectiva tomando en cuenta la resolución definitiva que se emita cuando ésta sea firme; y
+
+II. Si se encuentra alguna irregularidad o defecto en la documentación presentada en relación con su proceso electoral, en cuyo caso informará de la misma a la Asociación Deportiva Estatal de que se trate para que haga las aclaraciones y exhiba las pruebas que considere pertinentes dentro de los tres días hábiles siguientes a que surta efectos la notificación correspondiente.
+
+Aclarada la irregularidad o defecto en la documentación presentada, si el COEVED lo considera procedente, expedirá la constancia respectiva. En el caso de que la irregularidad o defecto persista a juicio del COEVED, a pesar de haberse realizado las aclaraciones o exhibido las pruebas pertinentes, el COEVED dictará una resolución ordenando la retroacción del proceso electoral en la fase o al momento en el que la irregularidad o defecto se cometió. La resolución que emita el COEVED en este sentido, podrá ser impugnada ante la CAAD mediante el recurso de apelación.
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 108.
+
+Las Asociaciones Deportivas Estatales, seis meses antes de la celebración de los procesos electorales de sus órganos de gobierno y de representación, podrán solicitar al COEVED capacitación y orientación sobre el derecho electoral deportivo que les sea aplicable con el objeto de realizar sus respectivos procesos electorales cumpliendo con los principios de legalidad, transparencia, equidad e igualdad de oportunidades dentro del marco de los principios democráticos y representativos y con estricto apego de las disposiciones estatutarias y legales que le sean aplicables.
+
+Para lo cual, las Asociaciones Deportivas Estatales acompañarán a su solicitud una copia de sus estatutos vigentes y, en su caso, del reglamento de los estatutos vigentes que contengan en forma detallada las diversas fases de sus procesos electorales deportivos, señalando además las personas que serían capacitadas.
+
+El COEVED resolverá sobre la fecha y lugar de la capacitación y orientación, y terminada ésta, expedirá, en su caso, una constancia de capacitación electoral deportiva a la Asociación Deportiva Estatal de que se trate.
+
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO IV. Del Funcionamiento del Consejo Estatal de Vigilancia Electoral Deportiva
+
+> <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 109.
+
+Para su funcionamiento, el COEVED se integrará por un Consejero Presidente y dos Consejeros Titulares con sus respectivos Suplentes, designados por la Junta Directiva del IDEA y se auxiliará del personal jurídico, administrativo y operativo que se requiera para su adecuado funcionamiento.
+
+El COEVED requerirá para la celebración de sus sesiones de la mayoría de sus integrantes. En ausencia del Consejero Presidente, en cualquiera de las sesiones, asumirá sus funciones, el Consejero Titular de mayor antigüedad o, en su defecto, el Consejero Titular que sea ponente del asunto o de gran parte de los asuntos que se vayan a presentar en la sesión respectiva.
+
+El Consejero Presidente o, en su caso, quien presida en su ausencia la sesión correspondiente, tendrá voto de calidad.
+
+Cuando la ausencia del Consejero Presidente sea definitiva, la Junta Directiva del IDEA designará de entre los Consejeros Titulares, a quien deba sustituirlo para que concluya el periodo respectivo. Ante la ausencia definitiva de cualquiera de los Consejeros Titulares, la Junta Directiva del IDEA, designará a quien deba sustituirlo para que concluya el periodo respectivo.
+
 ## TRANSITORIOS
 
 PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
@@ -1150,3 +1380,17 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 Lic. Alfredo Morales Shaadi,
 
 DIRECTOR GENERAL DEL INSTITUTO DEL DEPORTE DEL ESTADO DE AGUASCALIENTES.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “INSTITUTO DEL DEPORTE DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+Las presentes reformas al Reglamento entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Una vez conformada la Comisión Especial Estatal contra la Violencia en el Deporte se (sic) estará obligada a expedir su respectivo Reglamento Interno de Operación.
