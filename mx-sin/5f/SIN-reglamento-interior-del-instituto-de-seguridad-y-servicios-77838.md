@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-interior-del-instituto-de-seguridad-y-servicios-7783
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-12-22"
-last_updated: "2010-12-22"
+last_updated: "2015-12-21"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SIN"
 
 REGLAMENTO INTERIOR DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DE LA EDUCACION DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DE LA EDUCACIÓN DEL ESTADO DE SINALOA, PUBLICADO EN EL P.O. DE 21 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA QUEDADO SIN EFECTOS.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2015. (SIN EFECTOS).
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 22 de diciembre de 2010.
 
@@ -838,3 +840,15 @@ Es dado en el edificio sede de la Institución, en la ciudad de Culiacán Rosale
 La Presidente de la Junta Directiva y Director General del Instituto de Seguridad y Servicios Sociales de los Trabajadores de la Educación del Estado de Sinaloa
 
 Profra. Lorena Álvarez Gámez.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DE LA EDUCACIÓN DEL ESTADO DE SINALOA Y SU ORGANIGRAMA GENERAL”.]
+
+Artículo Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Segundo.- Se deja sin efecto legal alguno, el reglamento interior de ISSSTEESIN, publicado el día 22 de diciembre del año 2010 en el Periódico Oficial "El Estado de Sinaloa".
+
+Artículo Tercero.- Cada Director formulará, dentro de un plazo de noventa días, contados a partir de la entrada en vigor de este Reglamento, sus manuales de organización, de procedimientos y de servicios al público, mismos que deberán ser sometidos a la consideración del Director General y éste a su vez a la Junta Directiva.
