@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-responsabilidad-patrimonial-del-estado-y-municipios-9412
 country: "mx"
 rank: "ley"
 publication_date: "2013-05-03"
-last_updated: "2013-05-03"
+last_updated: "2015-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94128&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 3 de mayo de 2013.
 
@@ -59,15 +59,19 @@ No quedan comprendidos en ellos, los fedatarios públicos, los concesionarios, p
 
 Por Municipio se entenderá, el Ayuntamiento, las dependencias y entidades de la Administración Pública Municipal, los Tribunales Administrativos Municipales y cualquier otro ente público de carácter Municipal.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 4.
 
-Para los efectos de esta Ley la actividad administrativa pública irregular es aquella que cause daño a los bienes y derechos de los particulares que no tengan la obligación jurídica de soportar, en virtud de no existir fundamento legal o causa jurídica de justificación para legitimar el daño de que se trate, habiéndose vulnerado una disposición legal o reglamentaria.
+Para los efectos de esta Ley la actividad administrativa pública irregular es aquella que cause daño o perjuicio a los bienes y derechos de los particulares que no tengan la obligación jurídica de soportar, en virtud de no existir fundamento legal o causa jurídica de justificación para legitimar el daño o perjuicio de que se trate, habiéndose vulnerado una disposición legal o reglamentaria.
 
-No se consideraran actividades administrativas públicas irregulares, las realizadas por el ente público del Estado o Municipio en ejercicio de un derecho tutelado, aun cuando con éstas se causare daño al particular.
+No se considerarán actividades administrativas públicas irregulares, las realizadas por el ente público del Estado o Municipio en ejercicio de un derecho tutelado, siempre y cuando se realicen en los tiempos previstos formalmente para ellos, aún cuando con éstas se causare daño o perjuicio al particular.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 5.
 
-Se considera afectado con derecho a ser indemnizado, a la persona física o moral que sufra daños materiales derivados de actos administrativos públicos irregulares realizados por el Estado de Nuevo León o de cualquiera de sus Municipios, que afecten directamente su patrimonio.
+Se considera afectado con derecho a ser indemnizado, a la persona física o moral que sufra daños materiales o perjuicios derivados de actos administrativos públicos irregulares realizados por el Estado de Nuevo León o de cualquiera de sus Municipios, que afecten directamente su patrimonio.
 
 ###### Artículo 6.
 
@@ -75,9 +79,11 @@ No habrá obligación de indemnizar de acuerdo con esta Ley, por actos materialm
 
 Tampoco habrá obligación de indemnizar conforme a esta Ley por afectaciones causadas por servidores públicos que no actúen en ejercicio de funciones públicas; por hechos imputable (sic) a terceros que hayan producido la causa de responsabilidad; por hechos derivados del descuido o la negligencia del afectado; por hechos en los cuales el afectado sea el único causante del daño; por hechos que resulten de la concurrencia de culpas del afectado y del servidor público; por hechos acontecidos para evitar un daño grave e inminente; ni cuando el afectado hubiere consentido expresa o tácitamente la actuación administrativa pública.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 7.
 
-El daño que motive la responsabilidad patrimonial que se reclame, deberá ser directamente relacionado con una o varias personas, y desproporcional al que pudiera afectar ordinariamente al común de la población. Probar la excepción a lo previsto en este párrafo le corresponderá al sujeto obligado.
+El daño o perjuicio que motive la responsabilidad patrimonial que se reclame, deberá ser directamente relacionado con una o varias personas, y desproporcional al que pudiera afectar ordinariamente al común de la población. Probar la excepción a lo previsto en este párrafo le corresponderá al sujeto obligado.
 
 ### CAPÍTULO SEGUNDO. DE LA RESPONSABILIDAD PATRIMONIAL
 
@@ -117,6 +123,8 @@ La indemnización se efectuará después de concluir los procedimientos para det
 
 Las indemnizaciones reguladas por esta Ley, únicamente comprenderán los daños y perjuicios reales que sean consecuencia inmediata y directa de la actividad administrativa pública irregular del Estado o del Municipio.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 15.
 
 Para determinar las indemnizaciones que deban realizarse conforme a esta Ley, serán aplicables los artículos 1812, 1812 Bis con excepción del tercer párrafo, 1812 Bis I, 1812 Bis II con excepción del segundo párrafo, 1812 Bis III, 2002, 2003 y 2004 del Código Civil para el Estado de Nuevo León.
@@ -125,13 +133,13 @@ Para el caso de las indemnizaciones por daño moral señaladas en esta Ley, que 
 
 Los perjuicios se indemnizarán de acuerdo a las condiciones y limitantes siguientes:
 
-I. Cuando su cuantificación en dinero no exceda de dos mil veces el salario mínimo general vigente en el Estado, se indemnizará hasta por el cien por ciento;
+I. Cuando su cuantificación en dinero no exceda de tres mil veces el salario mínimo general vigente en el Estado, se indemnizará hasta por al cien por ciento;
 
-II. Cuando la cuantificación de los perjuicios en dinero exceda de dos mil veces pero no de cinco mil veces el salario mínimo general vigente en el Estado, este excedente se indemnizará hasta al cincuenta por ciento, debiéndose pagar además la cantidad que se determine conforme a la fracción anterior; y
+II. Cuando la cuantificación de los perjuicios en dinero exceda de tres mil veces pero no de siete mil veces el salario mínimo general vigente en el Estado, este excedente se indemnizará hasta al cincuenta por ciento, debiéndose pagar además la cantidad que se determine conforme a la fracción anterior; y
 
-III. Cuando la cuantificación de los perjuicios en dinero exceda de cinco mil veces el salario mínimo general vigente en el Estado, este excedente se indemnizará hasta al veinticinco por ciento, debiéndose pagar además las cantidades que se determinen conforme a las fracciones I y II anteriores.
+III. Cuando la cuantificación de los perjuicios en dinero exceda de siete mil veces el salario mínimo general vigente en el Estado, este excedente se indemnizará hasta al veinticinco por ciento, debiéndose pagar además las cantidades que se determinen conforme a las fracciones I y II anteriores.
 
-En ningún caso, el monto determinado por concepto de perjuicios podrá exceder de 4,000 veces el salario mínimo general vigente en el área geográfica correspondiente.
+En ningún caso, el monto determinado por concepto de perjuicios podrá exceder de seis mil veces el salario mínimo general vigente en el área geográfica correspondiente.
 
 El reclamante deberá acreditar los perjuicios que le han sido ocasionados por virtud de la actividad administrativa irregular del ente público, con los documentos a que se refiere esta Ley.
 
@@ -163,9 +171,13 @@ c) Los recursos que previsiblemente serán aprobados y asignados en el rubro cor
 
 El procedimiento de actualización a que se refieren las fracciones V y VI se efectuará de conformidad con lo dispuesto en el artículo 18 Bis del Código Fiscal del Estado.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 17.
 
-El derecho a la indemnización a la que se refiere esta Ley, prescribe en noventa días naturales, que se computarán a partir del día siguiente a aquel en que se produzca el daño o perjuicio. El plazo de la prescripción sólo se interrumpirá al iniciarse el procedimiento de reclamación correspondiente.
+El derecho a la indemnización a la que se refiere esta Ley, prescribe en noventa días naturales, que se computarán a partir del día siguiente a aquel en que se produzca el daño o perjuicio, salvo que se trate que (sic) actos de tracto sucesivo, en los cuales no se computará dicho plazo.
+
+El plazo de la prescripción sólo se interrumpirá al iniciarse el procedimiento de reclamación correspondiente.
 
 El derecho al cobro de la indemnización determinada conforme a esta Ley, se extingue por el transcurso de un año contado a partir del día en que fue exigible. Este plazo sólo se interrumpirá por cada gestión de cobro que realice el particular ante el ente público del Estado o Municipio correspondiente.
 
@@ -187,9 +199,13 @@ Las indemnizaciones fijadas por las Autoridades Administrativas o que resultaran
 
 ### CAPÍTULO CUARTO. DEL PROCEDIMIENTO
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 21.
 
 El procedimiento de reclamación se iniciará a petición de la parte directamente afectada o por sus causahabientes, ante la instancia Estatal o Municipal que corresponda.
+
+Dicho procedimiento se substanciará a más tardar dentro del plazo de 90 días hábiles posteriores a la presentación de la petición.
 
 La reclamación del particular podrá resolverse mediante convenio con la instancia del Estado o Municipio que corresponda.
 
@@ -205,6 +221,8 @@ No procederá la reclamación de indemnización por responsabilidad patrimonial 
 
 La relación causa-efecto entre la acción administrativa pública irregular y la afectación patrimonial ocasionada deberá probarse conforme a las reglas de valoración de la prueba del Código de Procedimientos Civiles del Estado.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 24.
 
 Será competente para conocer y resolver las reclamaciones de indemnización por responsabilidad patrimonial que se presenten conforme a esta Ley, el órgano que en su respectivo ámbito determinen los entes públicos del Estado o del Ayuntamiento del Municipio de que se trate.
@@ -219,9 +237,9 @@ III. El domicilio del promovente para recibir notificaciones, en el lugar de la 
 
 IV. La narración y descripción cronológica de los hechos y el razonamiento en el (sic) justifica su pretensión;
 
-V. La relación causa-efecto entre el daño producido y la presunta actividad administrativa irregular del servidor del ente público;
+V. La relación causa-efecto entre el daño o perjuicio producido y la presunta actividad administrativa irregular del servidor del ente público;
 
-VI. La estimación del monto del daño ocasionado, podrá presentarse al momento de iniciada la reclamación o en el término establecido en el artículo 26 de la presente Ley, misma que deberá estar acompañada de lo siguiente:
+VI. La estimación del monto del daño o perjuicio ocasionado, podrá presentarse al momento de iniciada la reclamación o en el término establecido en el artículo 26 de la presente Ley, misma que deberá estar acompañada de lo siguiente:
 
 a) En caso de daños materiales:
 
@@ -231,7 +249,7 @@ a) En caso de daños materiales:
 
 b) Los contratos o declaraciones de impuestos originales de fecha anterior a aquella en que hubiere tenido lugar la actividad administrativa irregular, con los que pueda acreditar que efectivamente tenía derecho o posibilidad cierta de recibir los ingresos que por tal actividad alega dejó de percibir;
 
-c) En el caso de reclamación por daños personales que hubieren ocasionado la muerte, el reclamante deberá acreditar su carácter de heredero o albacea de la sucesión, supuesto en el que no aplicará el término de prescripción hasta en tanto se tenga legalmente acreditado el carácter sucesorio;
+c) En el caso de reclamación por daños personales que hubieren ocasionado la muerte, el reclamante deberá acreditar su carácter de heredero o albacea de la sucesión, supuesto en el que no aplicara el término de prescripción hasta en tanto se tenga legalmente acreditado el carácter sucesorio;
 
 d) Cuando la reclamación sea por daños personales que hubieren generado algún tipo de incapacidad, el reclamante deberá acompañar el peritaje médico en el que se concluya la incapacidad alegada;
 
@@ -239,7 +257,7 @@ e) Cuando se exija indemnización por gastos médicos efectuados, el reclamante 
 
 En ningún caso se pagará indemnización por servicios médicos recibidos por el reclamante de instituciones de seguridad social estatales o nacionales, ni por servicios médicos recibidos en el extranjero; y
 
-f) La indemnización que se exija por daños morales deberá expresar los motivos y circunstancias concretas en los que el reclamante base de la determinación de cada cantidad cuya suma integre el monto total reclamado.
+f) La indemnización que se exija por daños morales deberá expresar los motivos y circunstancias concretas en los que el reclamante base de (sic) la determinación de cada cantidad cuya suma integre el monto total reclamado.
 
 VII. El ofrecimiento de las pruebas, cuando la naturaleza del hecho así lo requiera;
 
@@ -249,17 +267,27 @@ IX. El lugar, fecha y firma o huella dactilar del interesado o, en su caso, la d
 
 La autoridad podrá ordenar a su costa otro peritaje y el reclamante deberá someterse a la práctica del mismo. En su caso, y con base en las conclusiones de uno o ambos peritajes, la autoridad determinará si procede o no el pago de la indemnización. Los peritajes deberán ser formulados por peritos de los autorizados por el Tribunal Superior de Justicia del Estado.
 
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 25.
 
-La responsabilidad del Estado o Municipio deberá ser probada por el reclamante que considere afectado su patrimonio. Por su parte, al Estado o Municipio, corresponderá probar únicamente, la participación de terceros o del propio reclamante en la producción de los daños y perjuicios irrogados al mismo; que los daños no son consecuencia de la actividad administrativa pública irregular del Estado o Municipio; que los daños derivan de hechos o circunstancias imprevisibles o inevitables según los conocimientos de la ciencia o de la técnica de que efectivamente se disponga en el momento de su acaecimiento, o bien, la existencia de caso fortuito o fuerza mayor que lo exonera de responsabilidad patrimonial.
+La responsabilidad del Estado o Municipio deberá ser probada por el reclamante que considere afectado su patrimonio. Por su parte, al Estado o Municipio, corresponderá probar únicamente, la participación de terceros o del propio reclamante en la producción de los daños y perjuicios irrogados al mismo; que los daños y perjuicios no son consecuencia de la actividad administrativa pública irregular del Estado o Municipio; que los daños y perjuicios derivan de hechos o circunstancias imprevisibles o inevitables según los conocimientos de la ciencia o de la técnica de que efectivamente se disponga en el momento de su acaecimiento, o bien, la existencia de caso fortuito o fuerza mayor que lo exonera de responsabilidad patrimonial.
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 26.
 
-Dentro de los treinta días hábiles siguientes a la conclusión del periodo probatorio, el órgano competente deberá emitir una resolución en la que se pronuncie sobre la existencia o inexistencia de la actividad administrativa irregular, del daño, y de la relación de causalidad entre la primera y el segundo.
+El procedimiento de reclamación se sujetará a los siguientes términos:
 
-Dicha resolución deberá ser notificada al reclamante y a la dependencia o entidad a la que se le hubiere imputado el daño.
+a) Dentro de los cinco días siguientes a su presentación, deberá emitirse el acuerdo de admisión, en el cual en su caso, se emplazará al órgano pertinente de la autoridad demandada.
 
-Si la resolución del órgano competente tiene por acreditados la existencia de la actividad administrativa irregular, del daño, y de la relación de causalidad directa entre la primera y el segundo, y el reclamante al inicio del procedimiento no hubiere presentado la estimación del monto de la indemnización que exija con los requisitos que se mencionan en el artículo 24 de la presente Ley, al notificarle la resolución el órgano competente requerirá al reclamante para que presente tal estimación dentro de los diez días siguientes.
+b) Una vez realizada la admisión se abrirá el periodo probatorio, que no podrá exceder de sesenta días hábiles, en el cual se calificarán y desahogarán las pruebas aportadas o requeridas que así lo ameriten.
+
+c) Dentro de los veinticinco días hábiles siguientes a la conclusión del periodo probatorio, el órgano competente deberá emitir una resolución en la que se pronuncie sobre la existencia o inexistencia de la actividad administrativa irregular, del daño o perjuicio, y de la relación de causalidad entre la primera y lo segundo.
+
+Dicha resolución deberá ser notificada al reclamante y a la dependencia o entidad a la que se le hubiere imputado el daño. Lo no previsto en esta Ley respecto al procedimiento se estará a lo señalado en el Código de Procedimientos Civiles del Estado de Nuevo León.
+
+Si la resolución del órgano competente tiene por acreditados la existencia de la actividad administrativa irregular, del daño o perjuicio, y de la relación de causalidad directa entre la primera y el segundo, y el reclamante al inicio del procedimiento no hubiere presentado la estimación del monto de la indemnización que exija con los requisitos que se mencionan en el artículo 24 de la presente Ley, al notificarle la resolución el órgano competente requerirá al reclamante para que presente tal estimación dentro de los diez días siguientes.
 
 Cuando el reclamante no presenta la estimación dentro del plazo señalado, se considerará que desiste de su pretensión de indemnización.
 
@@ -366,3 +394,15 @@ RODOLFO GÓMEZ ACOSTA
 EL C. CONTRALOR GENERAL
 
 GUSTAVO ALARCÓN MARTÍNEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 21 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 032. SE REFORMAN LOS ARTÍCULOS 4, 5, 7, 15, 17, 21, 24, 25 Y 26 DE LA LEY DE RESPONSABILIDAD PATRIMONIAL DEL ESTADO Y MUNICIPIOS DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- Los procesos presentados con anterioridad a la presente se resolverá (sic) conforme a las anteriores disposiciones.
+
+Tercero.- El Ejecutivo del Estado como los municipios contaran con un plazo de 90 días naturales para adecuar su normativa interna.
