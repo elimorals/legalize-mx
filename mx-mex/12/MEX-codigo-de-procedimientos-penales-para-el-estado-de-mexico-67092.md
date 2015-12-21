@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-penales-para-el-estado-de-mexico-67092
 country: "mx"
 rank: "codigo"
 publication_date: "2009-02-09"
-last_updated: "2015-08-06"
+last_updated: "2015-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67092&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ NOTA 1.- DE CONFORMIDAD CON EL DECRETO NO. 4 PUBLICADO EN LA G.G. DE 30 DE SEPTI
 
 NOTA 2.- DE CONFORMIDAD CON EL ARTÍCULO PRIMERO DE LA DECLARATORIA Y SEGUNDO TRANSITORIO DEL DECRETO No. 392, DE LA G.G. DE 21 DE ENERO DE 2015, POR EL QUE SE APRUEBA LA INCORPORACIÓN A SU RÉGIMEN JURÍDICO EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, COMO SEÑALA QUE DICHA DECLARATORIA SURTIRÁ SUS EFECTOS 18 DE JUNIO DE 2016, EN EL ESTADO DE MÉXICO, SIN EMBARGO, RESPECTO DE LOS PROCEDIMIENTOS PENALES INICIADOS CON ANTELACIÓN A LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE MÉXICO, SE REGIRÁN POR LAS DISPOSICIONES VIGENTES AL MOMENTO DE SU INICIO, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO UNA VEZ INICIADA LA VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN EL ESTADO DE MÉXICO.
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 21 DE DICIEMBRE DE 2015.
 
 Código publicado en la Sección Quinta de la Gaceta del Gobierno del Estado de México, el lunes 9 de febrero de 2009.
 
@@ -5221,77 +5221,25 @@ Obligaciones
 
 Al ser concedida la prelibertad, en cualquiera de sus modalidades, el juez ejecutor de sentencias competente, deberá advertir al preliberado que tendrá que ocurrir a la Institución que le haya sido señalada para hacer sus presentaciones; de informar de sus cambios de domicilio; de la obligación de desempeñar actividades lícitas; de la prohibición que tenga de ir a los lugares que se haya determinado en la resolución respectiva, así como observar una conducta intachable para con los, demás y consigo mismo y cumplir con las demás medidas terapéuticas que se le hayan señalado.
 
-Beneficio de libertad condicionada
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE ENERO DE 2014)</small>
-
 ###### Artículo 465.
 
-El beneficio de libertad condicionada al sistema de localización y rastreo es un medio de ejecutar la sanción penal hasta en tanto se alcance la prelibertad, o libertad condicional.
-
-> <small>(REFORMADO, G.G. 26 DE ENERO DE 2015)</small>
-
-Este beneficio no se concederá en los casos de internos sentenciados por el delito de extorsión, robo con violencia, secuestro, homicidio doloso con modificativas que lo califiquen o lo agraven, violación, lesiones que se infieran a menores, incapaces o pupilos por quien ejerza la patria potestad, tutela o custodia, o por un integrante de su núcleo familiar, robo que ocasione la muerte, robo de vehículo automotor o robo a casa habitación.
-
-> <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
-
-Para la concesión de este beneficio el juez se apoyará en el dictamen que emita el Consejo Interno Interdisciplinario correspondiente. Al otorgar este beneficio, el juez fijará las condiciones que deberá cumplir el interno hasta la obtención de la prelibertad o libertad condicional.
-
-Requisitos
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 22 DE ENERO DE 2014)</small>
+(DEROGADO, G.G. 21 DE DICIEMBRE DE 2015)
 
 ###### Artículo 466.
 
-El beneficio de libertad condicionada al sistema de localización y rastreo a que se refiere el artículo anterior se concederá al sentenciado que cumpla con los siguientes requisitos:
-
-I. Ser delincuente primario;
-
-II. Que la pena privativa de libertad no sea menor a siete años ni mayor de quince años;
-
-III. Que falte un año para que alcance el beneficio de prelibertad;
-
-> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
-
-IV. Pague la reparación del daño, lo garantice a satisfacción de la víctima u ofendido o se apruebe el plan de reparación del daño;
-
-> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
-
-V. Que alguna persona con reconocida solvencia moral y arraigo, se obligue a supervisar y cuidar que el beneficiado cumpla con sus condiciones impuestas al momento de su liberación, la cual deberá de residir en la misma localidad a la que se integrará el beneficiado;
-
-VI. Compruebe fehacientemente contar en el exterior con un oficio, arte o profesión o exhiba las constancias que acrediten que continúa estudiando;
-
-> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
-
-VII. Cuente con apoyo de una red familiar o de la sociedad civil que garantice su vinculación a las condiciones que le fueron fijadas para el otorgamiento del beneficio;
-
-VIII. (DEROGADA, G.G. 22 DE ENERO DE 2014)
-
-IX. (DEROGADA, G.G. 22 DE ENERO DE 2014)
-
-> <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
-
-X. No encontrarse sujeto a ningún proceso pendiente por causa distinta, ni tener sentencia ejecutoriada que cumplir en reclusión, del fuero común o federal, sea cual fuere el delito;
-
-> <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
-
-XI. Contar con línea telefónica activa en el domicilio de reinserción;
-
-> <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
-
-XII. Contar con señal de Sistema de Posicionamiento Global en el domicilio laboral y de reinserción;
-
-> <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
-
-XIII. Contar con domicilio laboral y de reinserción, al interior del Estado de México.
+(DEROGADO, G.G. 21 DE DICIEMBRE DE 2015)
 
 Causas de revocación de libertad condicionada
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 467.
 
-La prelibertad o el beneficio de libertad condicionada al sistema de localización y rastreo, serán revocados por el juez ejecutor de sentencias en los siguientes casos:
+La prelibertad será revocada por el juez ejecutor de sentencias en los siguientes casos:
 
-I. Por cometer un nuevo delito, y que dentro del término constitucional se le dicte auto de vinculación a proceso; dejándose sin efecto la revocación al existir resolución que lo deje en libertad definitiva;
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2015)</small>
+
+I. Por estar vinculado a un nuevo proceso penal por delito sancionado con prisión; dejándose sin efecto la revocación al existir resolución que lo deje en libertad definitiva;
 
 II. Cuando incumpla las condiciones con que le fue otorgada, sin causa justificada; y
 
@@ -5876,3 +5824,11 @@ CUARTO. La Junta de Gobierno del DIFEM llevará a cabo las adecuaciones reglamen
 QUINTO. La Junta de Gobierno de cada organismo público descentralizado de Asistencia Social y Protección de la Infancia de carácter municipal llevará a cabo las adecuaciones reglamentarias correspondientes a los sistemas municipales para el Desarrollo Integral de la Familia, en un plazo que no deberá exceder de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
 
 SEXTO. Las autoridades estatales y municipales preverán que sus respectivos presupuestos para el ejercicio fiscal del año 2016, se contemple lo necesario para la operación de la Procuraduría de Protección correspondiente a más tardar el primero de julio del año 2016.
+
+G.G. 21 DE DICIEMBRE DE 2015.
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
