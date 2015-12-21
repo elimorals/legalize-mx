@@ -4,7 +4,7 @@ identifier: "SON-ley-de-fiscalizacion-superior-para-el-estado-de-sonora-62119"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-14"
-last_updated: "2015-06-15"
+last_updated: "2015-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62119&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY DE FISCALIZACIÓN SUPERIOR PARA EL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 15 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el lunes 14 de julio de 2008.
 
@@ -75,13 +75,17 @@ VIII.- Recomendaciones: Medidas que el Instituto formula, tendientes a prevenir 
 
 IX.- Daño Patrimonial: El quebranto, menoscabo, daño o perjuicio que se cause a la hacienda pública o al patrimonio de los sujetos de fiscalización, cuantificable en dinero, generado por una conducta activa u omisa en la que se sustraen de manera directa o indirecta recursos económicos públicos asignados para determinado fin, dándole diverso aprovechamiento equivocado o indebido distinto para el que fue aprobado, por parte de servidores públicos o terceros ajenos a la función pública;
 
-> <small>(REFORMADA, B.O. 15 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
-X.- Servidores Públicos: Los señalados en el artículo 143 de la Constitución Política del Estado de Sonora; y
+X.- Servidores Públicos: Los señalados en el artículo 143 de la Constitución Política del Estado de Sonora;
 
-> <small>(ADICIONADA, B.O. 15 DE JUNIO DE 2015)</small>
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
-XI.- Cuenta Pública: Es el informe que los poderes del Estado y los entes públicos estatales de manera individual para ser consolidada, a través del Ejecutivo estatal y los ayuntamientos de los municipios de la Entidad y los entes públicos municipales a través de los ayuntamientos, rinden a la legislatura local, sobre su gestión financiera a efecto de comprobar que la recaudación, administración, manejo y custodia, así como la aplicación de los recursos públicos durante el ejercicio fiscal comprendido del 1o de enero al 31 de diciembre de cada año se ejercieron en los términos de las disposiciones legales y administrativas aplicables.
+XI.- Cuenta Pública: Es el informe que los poderes del Estado y los entes públicos estatales de manera individual para ser consolidada, a través del Ejecutivo estatal y los ayuntamientos de los municipios de la Entidad y los entes públicos municipales a través de los ayuntamientos, rinden a la legislatura local, sobre su gestión financiera a efecto de comprobar que la recaudación, administración, manejo y custodia, así como la aplicación de los recursos públicos durante el ejercicio fiscal comprendido del 1o de enero al 31 de diciembre de cada año se ejercieron en los términos de las disposiciones legales y administrativas aplicables; y
+
+> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
+
+XII.- Centro: El Centro de Investigaciones Parlamentarias del Estado de Sonora.
 
 ###### ARTÍCULO 3.
 
@@ -979,11 +983,79 @@ III.- Adquisición de bienes muebles e inmuebles necesarios para su objeto; y
 
 IV.- Las prioridades que señale el Auditor Mayor.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, B.O. 21 DE DICIEMBRE DE 2015)</small>
+
+###### ARTÍCULO 66.
+
+El Centro de Investigaciones Parlamentarias es un órgano técnico del Congreso del Estado, desconcentrado del Instituto Superior de Auditoria y Fiscalización, al cual le corresponde:
+
+I.- Desarrollar programas de investigación de temas relacionados con la historia, funciones, evolución y prácticas parlamentarias y en materia de fiscalización de recursos públicos;
+
+II.- Apoyar a la Mesa Directiva, a la Diputación Permanente y a las comisiones en los eventos de consulta, foros y debate, para la sistematización de las propuestas o conclusiones que se obtengan;
+
+III.- Asistir a los diputados en la elaboración de iniciativas;
+
+IV.- En coordinación con la Dirección General Jurídica del Congreso del Estado, asistir a las comisiones en la elaboración de iniciativas, dictámenes, comunicaciones y demás documentación de análisis que soliciten;
+
+V.- Atender y dar curso a las solicitudes de los diputados en materia de investigaciones, estudios y análisis legislativo;
+
+VI.- Aportar a los Diputados investigaciones técnicas que contribuyan al mejoramiento de su trabajo legislativo;
+
+VII.- Recabar información documental de análisis, debate y legislación sobre los diversos temas de interés social, económico, político y cultural, que sirvan de apoyo para un adecuado desahogo del proceso legislativo;
+
+VIII.- En coordinación con la Dirección General Jurídica del Congreso del Estado, prestar los servicios de corrección y estilo que se requieran en la elaboración de dictámenes e iniciativas de ley;
+
+IX.- Participar en los diversos grupos de trabajo que establezcan las comisiones, la Mesa Directiva, el pleno del Congreso del Estado o la Diputación Permanente, en el desarrollo de sus funciones;
+
+X.- Recopilar y clasificar la legislación y reglamentación histórica estatal con el objeto de realizar estudios sobre su génesis, evolución e impacto en la vida de la sociedad;
+
+XI.- Recopilar y clasificar la legislación federal y de otras entidades del país, incluyendo los Tratados Internacionales que México ha ratificado, con el propósito de analizar su relación con el orden jurídico del Estado;
+
+XII.- Efectuar estudios de derecho comparado en los temas relevantes del interés del Congreso del Estado;
+
+XIII.- Llevar el control de las adecuaciones que deban realizarse al marco normativo local en función de las reformas a la Constitución Política de los Estados Unidos Mexicanos que así lo ordenen;
+
+XIV.- Investigar el estado que guarda el orden jurídico estatal aplicando diversos criterios metodológicos y presentar propuestas que contribuyan a su actualización;
+
+XV.- Fomentar la celebración de convenios de colaboración e intercambio con organismos académicos, públicos, privados y sociales, locales, nacionales e internacionales;
+
+XVI.- Instrumentar programas de profesionalización y formación de especialistas en áreas del conocimiento vinculadas con el quehacer parlamentario y la fiscalización de recursos públicos;
+
+XVII.- Organizar, promover y participar en cursos, seminarios, congresos, diplomados, foros, coloquios, conferencias y mesas redondas;
+
+XVII.- (SIC) Impulsar programas editoriales y de difusión de las actividades del Congreso del Estado de Sonora; y
+
+XVIII.- Coordinar los temas de capacitación del Congreso del Estado;
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
+
+###### ARTÍCULO 67.
+
+El Centro estará presidido por un Director General, quien será apoyado por un Subdirector, ambos designados por la Comisión de Régimen Interno y Concertación Política del Congreso del Estado.
+
+Para ser nombrado Director General y Subdirector del Centro se requiere ser mexicano y contar con título profesional de Licenciado en Derecho con una antigüedad mínima de 7 años.
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
+
+###### ARTÍCULO 68.
+
+Para el ejercicio de las atribuciones establecidas en este artículo, el Centro contará con la estructura administrativa necesaria para el desempeño de sus funciones, la cual deberá ser aprobada y nombrada por la Comisión de Régimen Interno y Concertación Política del Congreso del Estado. El personal del Centro deberá contar con un perfil profesional relacionado de manera preferencial con los ámbitos académicos y de la investigación.
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
+
+###### ARTÍCULO 69.
+
+El Centro contará con el presupuesto anual que le apruebe el Congreso del Estado, el cual no podrá ser inferior al 10% del presupuesto total del Instituto.
+
 T R A N S I T O R I O S
 
 ### CAPÍTULO XIII. DE LA EXTINCIÓN DE LA OBLIGACIÓN RESARCITORIA
 
 ### CAPÍTULO XIV. DEL FONDO PARA EL FORTALECIMIENTO DE LA FISCALIZACIÓN SUPERIOR DEL ESTADO DE SONORA
+
+### CAPÍTULO XV. DEL CENTRO DE INVESTIGACIONES PARLAMENTARIAS DEL ESTADO DE SONORA
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO PRIMERO.
 
@@ -1070,3 +1142,17 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 En relación a lo establecido por el artículo 22 en cuanto al contenido de las cuentas públicas, resultará aplicable a partir de la cuenta pública correspondiente al Ejercicio Fiscal de 2014, siendo acordes con la Ley General de Contabilidad Gubernamental, los documentos aprobados por el CONAC y toda aquella disposición normativa aplicable en la materia.
+
+B.O. 21 DE DICIEMBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente a su publicación en el Boletín Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Congreso del Estado designará al Director General y al Subdirector del Centro dentro de los 15 días siguientes a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Una vez designado el Director General y el Subdirector del Centro, éstos llevarán a cabo las labores necesarias para poner en operación dicho Centro dentro de los 30 días siguientes a su designación, informando debidamente a la Comisión de Régimen Interno y Concertación Política del Congreso del Estado para los efectos administrativos conducentes.
