@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "2014-06-02"
+last_updated: "2015-12-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS DEL 14 DE ENERO DE 2016 Y DEL 18 DE ENERO DE 2016 PUBLICADAS EN EL BOLETÍN OFICIAL DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 2 DE JUNIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -53,19 +55,237 @@ El ejercicio del Poder Ejecutivo se deposita en un solo individuo que se denomin
 
 Para el ejercicio de sus atribuciones y el despacho de los asuntos de orden administrativo que correspondan al Poder Ejecutivo, la administración pública será directa y paraestatal.
 
-> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
-Integran la administración pública directa las siguientes dependencias: Secretarías, Oficialía Mayor y Procuraduría General de Justicia del Estado.
+Integran la administración pública directa las siguientes dependencias: Secretarías y Procuraduría General de Justicia del Estado.
 
 > <small>(REFORMADO, B.O. 26 DE DICIEMBRE DE 1986)</small>
 
 Componen la administración pública paraestatal las siguientes entidades: organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones civiles asimiladas a dichas empresas en los términos de la presente Ley y fideicomisos públicos.
 
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 4o.
 
-El titular del Poder Ejecutivo del Estado tendrá directamente adscritas la Oficina del Ejecutivo Estatal, la Secretaria Particular y la Secretaría Técnica. Además, podrá contar con las unidades de asesoría, de apoyo técnico y de coordinación de actividades prioritarias que se determinen de acuerdo con el presupuesto de egresos. Las atribuciones de estas unidades se especificarán en los ordenamientos jurídicos respectivos.
+Para la atención, estudio, planeación, despacho, evaluación, seguimiento y cumplimiento de los asuntos, planes, programas y acciones de Gobierno, el Titular del Ejecutivo del Estado tendrá adscritas directamente las unidades administrativas siguientes:
+
+I. Secretaría Particular;
+
+II. La Oficina del Ejecutivo del Estado;
+
+III. Secretaría Técnica del Ejecutivo; y
+
+IV. Coordinación Ejecutiva de Administración;
+
+Además, podrá contar con las unidades de asesoría, de apoyo técnico y de coordinación de actividades prioritarias que se determinen de acuerdo con el presupuesto de egresos.
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 4 Bis.
+
+La Secretaría Particular es la unidad responsable de contribuir al eficiente desarrollo de las funciones del Titular del Ejecutivo del Estado, mediante la organización y coordinación de las actividades propias de su cargo, así como de mantenerle informado sobre los compromisos oficiales contraídos; independientemente de las funciones que le sean dispuestas en otros ordenamientos, tendrá las facultades siguientes:
+
+I. Enterar al Titular del Ejecutivo del Estado de los asuntos que le sean planteados en forma verbal o por escrito;
+
+II. Coordinar, dirigir y controlar las actividades de las diferentes unidades administrativas adscritas a la Secretaría Particular;
+
+III. Coordinar los mecanismos de seguimiento a las instrucciones giradas por el Titular del Ejecutivo del Estado, en la documentación que le sea presentada en audiencias y acuerdos;
+
+IV. Coordinar la programación de eventos, reuniones, acuerdos, audiencias y giras de trabajo del Titular del Ejecutivo del Estado;
+
+V. Integrar la agenda de actividades del Titular del Ejecutivo del Estado y efectuar el seguimiento respectivo;
+
+VI. Coadyuvar en la organización de los traslados para las giras, eventos, ceremonias y demás actos que efectúe el Titular del Ejecutivo;
+
+VII. Solicitar los apoyos necesarios ante las instancias y dependencias correspondientes, para la preparación, organización y celebración de los actos en los que participe el Titular del Ejecutivo del Estado;
+
+VIII. Solicitar y gestionar lo necesario para los traslados terrestres o aéreos del Titular del Ejecutivo;
+
+IX. Establecer los mecanismos de control, para garantizar la asistencia oportuna de los funcionarios y personas que habrán de participar en eventos del Titular del Ejecutivo del Estado;
+
+X. Diseñar e instrumentar, en conjunto con la Secretaría de Gobierno, el protocolo que deberá observar durante los actos, eventos y giras de trabajo el Titular del Ejecutivo del Estado;
+
+XI. Solicitar a las instancias correspondientes el personal calificado y necesario responsable de la seguridad del Titular del Ejecutivo del Estado y coordinar a los mismos;
+
+XII. Planear, dirigir y controlar a los elementos y los mecanismos de seguridad y/o ayudantía que habrán de instrumentarse para garantizar la seguridad del Titular del Ejecutivo del Estado de manera cotidiana y particularmente en las giras y eventos de trabajo;
+
+XIII. Someter a consideración del Titular del Ejecutivo del Estado, las propuestas de funcionarios que lo representarán en actos o eventos, y comunicar las designaciones respectivas;
+
+XIV. Auxiliar el despacho de los asuntos del Titular del Ejecutivo del Estado, mediante atención directa o canalización a las instancias respectivas y efectuar el seguimiento correspondiente;
+
+XV. Facilitar y agilizar el flujo de la documentación en el despacho del Titular del Poder Ejecutivo del Estado;
+
+XVI. Participar en la coordinación de eventos cívicos en los que intervenga el Titular del Ejecutivo del Estado; y
+
+XVII. Las demás que le señalen las disposiciones legales aplicables y las que le confiera el Titular del Ejecutivo del Estado, dentro de la esfera de sus atribuciones.
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
+
+ARTICULO 4 BIS 1.- La Secretaría Particular para el cumplimiento de sus facultades estará integrada por las áreas siguientes:
+
+I. Coordinación General de Ayudantía, Logística y Seguridad;
+
+II. Dirección General de Agenda y Programación Ejecutiva;
+
+III. Secretario Particular Adjunto.
+
+Además de las áreas descritas contará con las unidades y personal que se determinen para el debido cumplimiento de sus funciones. Las atribuciones de estas unidades se especificarán en los ordenamientos jurídicos respectivos.
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
+
+ARTICULO 4 BIS 2.- La Oficina del Ejecutivo será responsable del seguimiento y evaluación de los Acuerdos e instrucciones dictados en las sesiones de los gabinetes del Ejecutivo del Estado, así como mantener informado al Titular del Ejecutivo del Estado de la situación que guarda el cumplimiento de los compromisos y acuerdos institucionales instruidos en las sesiones de gabinete, así como establecer vínculos de coordinación y colaboración con las dependencias de la administración estatal, para lo cual tendrá las facultades siguientes:
+
+I. Asesorar y apoyar al Titular del Ejecutivo del Estado en los asuntos que le encomiende, así como formular los estudios, análisis, opiniones y recomendaciones que resulten procedentes;
+
+II. Proveer al Titular del Ejecutivo del Estado de la información y datos necesarios para sus actividades, toma de decisiones y formulación de mensajes;
+
+III. Preparar las reuniones de trabajo del Titular del Ejecutivo del Estado con el C. Presidente de la República y con funcionarios de las dependencias de las diferentes instancias de Gobierno, proporcionándole la información necesaria para apoyar la adecuada toma de decisiones;
+
+IV. Brindar asesoría, estudios y análisis especializados que permitan anticipar escenarios y situaciones específicas de orden económico, social y político en la entidad, sugiriendo estrategias de acción y políticas alternativas para su oportuna solución;
+
+V. Recopilar y proporcionar al Titular del Ejecutivo del Estado y a los miembros del gabinete información de naturaleza económica, social y política que permita apoyar la oportuna y adecuada toma de decisiones dando prioridad a la formulación, seguimiento y evaluación de las políticas de gobierno;
+
+VI. Formular análisis y reportes sobre la situación que guarda la administración pública del Estado;
+
+VII. Convocar, organizar y coordinar las reuniones de gabinete legal y ampliado, así como dar seguimiento y evaluación de los acuerdos que se tomen en los gabinetes especializados, sectorial y regional o cualquier otro, elevando a la consideración del Titular del Ejecutivo del Estado la situación que guarde el cumplimiento de los mismos;
+
+VIII. Verificar el cumplimiento de los programas e instrucciones que expresamente señale el Titular del Ejecutivo del Estado;
+
+IX. Orientar y supervisar las acciones de los gabinetes del Ejecutivo del Estado de acuerdo a las políticas, lineamientos y prioridades que fije el Titular del Ejecutivo del Estado;
+
+X. Emitir recomendaciones para la operación y funcionamiento de los gabinetes del Ejecutivo del Estado;
+
+XI. Registrar los acuerdos del Titular del Ejecutivo del Estado con los titulares de las dependencias federales, estatales y municipales, así como con otras personas y servidores públicos;
+
+XII. Dar seguimiento a la agenda política y de gestión gubernamental sobre temas relevantes y estratégicos de la gestión pública, que deban ser considerados por el Titular del Ejecutivo del Estado en las sesiones de gabinete;
+
+XIII. Dar seguimiento y evaluar los programas de alto impacto social que promuevan las dependencias de la administración pública e informar al Titular del Ejecutivo del Estado de los resultados obtenidos;
+
+XIV. Diseñar y coordinar los planes y programas de seguimiento a las estrategias gubernamentales, mediante un sistema de indicadores.
+
+XV. Establecer los programas para brindar la asesoría y el apoyo al Titular del Ejecutivo del Estado en la Conferencia Nacional de Gobernadores y en las distintas conferencias, comités, consejos y reuniones de Gobernadores;
+
+XVI. Coordinar las oficinas de las comisiones Sonora Arizona y Sonora Nuevo México;
+
+XVII. Someter a consideración del Titular del Ejecutivo del Estado la información de mejoras que contribuyan al adecuado funcionamiento de la administración pública del Estado;
+
+XVIII. Coordinar el diseño y ejecución de proyectos de modernización administrativa que incidan en la simplificación y mejora continua de los procesos de trabajo y la calidad de los servicios administrativos sustantivos de las unidades administrativas; y
+
+XIX. Las demás que le señalen las disposiciones legales aplicables y las que le confiera el Titular del Ejecutivo del Estado, dentro de la esfera de sus atribuciones.
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
+
+ARTICULO 4 BIS 3.- La Oficina del Ejecutivo para el cumplimiento de sus facultades estará integrada por las áreas siguientes:
+
+I. Coordinación de Asesores;
+
+II. Coordinación Técnica del Gabinete;
+
+III. Coordinación de Evaluación y Seguimiento;
+
+IV. Oficina de Enlace y Cooperación Institucional.
+
+Además de las áreas descritas contará con las unidades y personal que se determinen para el debido cumplimiento de sus funciones. Las atribuciones de estas unidades se especificarán en los ordenamientos jurídicos respectivos.
+
+Para el debido cumplimiento de las facultades encomendadas la Oficina del Ejecutivo podrá contratar prestadores externos de servicios.
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
+
+ARTICULO 4 BIS 4.- La Secretaría Técnica del Ejecutivo será la responsable de desarrollar los estudios y proyectos estratégicos, de la atención ciudadana y de la comunicación gubernamental, para lo anterior tendrá las facultades siguientes:
+
+I. Dar seguimiento a indicadores relevantes de temas de carácter económico, social y político que se le encomienden y formular los estudios y análisis correspondientes;
+
+II. Realizar los análisis, estudios e investigación que le permitan diseñar proyectos estratégicos sobre creación o mejoras de planes y programas de políticas públicas a implementar por el Titular del Ejecutivo del Estado;
+
+III. Efectuar los estudios y análisis sobre situaciones de orden económico, social y político en la entidad;
+
+IV. Atender de manera personalizada a la ciudadanía que acude a las oficinas del Titular del Ejecutivo del Estado para solicitar algún apoyo, atención o manifestar alguna queja o sugerencia;
+
+V. Atender y dar seguimiento hasta su conclusión a los escritos de petición que realicen los ciudadanos de manera pacífica y respetuosa al Titular del Ejecutivo del Estado en las diferentes ramas de la administración pública, que le sean turnados para su atención;
+
+VI. Coordinar el registro, análisis, clasificación y gestión de la documentación recibida en giras de trabajo, oficialía de partes, medios de comunicación, redes sociales, correo electrónico, vía telefónica, programas radiofónicos y televisivos y Presidencia de la República, entre otros, para su canalización a las instancias correspondientes;
+
+VII. Establecer los procedimientos de atención a las demandas ciudadanas;
+
+VIII. Registrar y controlar la documentación soporte mediante un sistema automatizado de Control de Gestión, así como elaborar reportes estadísticos que permitan evaluar el seguimiento de las peticiones por área de atención;
+
+IX. Programar y coordinar la audiencia pública que atenderá el Titular del Ejecutivo, conjuntamente con los titulares de las dependencias y entidades paraestatales del Estado;
+
+X. Elaborar con base a los registros de peticiones que reciba, reportes estadísticos que permitan evaluar el seguimiento de las peticiones por área de atención;
+
+XI. Presentar al Titular del Ejecutivo del Estado proyectos de planes y programas que deban desarrollar las dependencias de la administración pública estatal que le permitan atender las peticiones ciudadanas;
+
+XII. Establecer las políticas y estrategias de comunicación gubernamental que permitan captar las demandas y necesidades de la sociedad;
+
+XIII. Autorizar las normas y políticas sobre la imagen institucional del Gobierno del Estado;
+
+XIV. Autorizar las publicaciones y materiales promocionales para la difusión de las acciones gubernamentales;
+
+XV. Establecer normas, lineamientos y programas para promover la realización de campañas de comunicación gubernamental;
+
+XVI. Promover la coordinación y colaboración del Poder Ejecutivo Estatal con los medios de comunicación;
+
+XVII. Coordinar con el apoyo de las dependencias y entidades paraestatales de la Administración Pública Estatal, la realización de programas o campañas específicas de comunicación gubernamental;
+
+XVIII. Coordinar y dirigir el sistema de medios de comunicación propiedad del Gobierno del Estado, en específico Televisora de Hermosillo, S.A. de C.V. (Telemax) y Radio Sonora;
+
+XIX. Realizar las tareas inherentes al monitoreo a medios de comunicación en general;
+
+XX. Programar la contratación de los medios de comunicación para el desarrollo de campañas de difusión del Titular del Ejecutivo del Estado, así como de las dependencias, entidades paraestatales y fideicomisos de la administración pública del Estado;
+
+XXI. Preparar el diseño gráfico de la imagen institucional, de las publicaciones y materiales promocionales de las actividades de la administración pública del Estado; y
+
+XXII. Las demás que le señalen las disposiciones legales aplicables y las que le confiera el Titular del Ejecutivo del Estado, dentro de la esfera de sus atribuciones.
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
+
+ARTICULO 4 BIS 5.- La Secretaría Técnica del Ejecutivo para el cumplimiento de sus facultades estará integrada por las áreas siguientes:
+
+I. Coordinación Ejecutiva de Comunicación Gubernamental;
+
+II. Coordinación de Atención Ciudadana; y
+
+III. Director General de Estudios y Proyectos Estratégicos.
+
+Además de las áreas descritas contará con las unidades y personal que se determinen para el debido cumplimiento de sus funciones. Las atribuciones de estas unidades se especificarán en los ordenamientos jurídicos respectivos.
+
+Para el debido cumplimiento de las funciones encomendadas la Secretaría Técnica del Ejecutivo podrá contratar prestadores externos de servicios.
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
+
+ARTICULO 4 BIS 6.- La Coordinación Ejecutiva de Administración tendrá como función planear, organizar y controlar el aprovechamiento de los recursos humanos, materiales, financieros y técnicos, necesarios para el funcionamiento de las unidades adscritas al Titular del Ejecutivo del Estado, así como programar, tramitar y ejecutar las acciones y procedimientos para realizar la adquisición o arrendamiento de bienes muebles e inmuebles y en general la contratación de servicios de cualquier naturaleza que requiera la gubernatura y sus unidades administrativas, teniendo las siguientes facultades:
+
+I. Programar, controlar y supervisar los servicios de mantenimiento preventivo, correctivo, de vigilancia, de fotocopiado, de telefonía, de luz y otros servicios generales a los bienes muebles de las unidades adscritas al Titular del Ejecutivo del Estado para el desarrollo de sus actividades;
+
+II. Coordinar la elaboración, previa difusión de las normas y procedimientos para la integración del anteproyecto de presupuesto anual de las unidades adscritas al Titular del Ejecutivo del Estado, a fin de remitirlo a las instancias correspondientes para su aprobación;
+
+III. Validar la elaboración del Programa Anual de Adquisiciones de las unidades adscritas al Titular del Ejecutivo del Estado;
+
+IV. Coordinar la elaboración y ejecución del presupuesto autorizado de las unidades adscritas al Titular del Ejecutivo del Estado.
+
+V. Supervisar los procesos de adquisición y contratación de bienes y servicios de conformidad con las disposiciones aplicables en la materia;
+
+VI. Supervisar la administración y el control de los recursos humanos, materiales, financieros y técnicos de las unidades adscritas al Titular del Ejecutivo del Estado, así como gestionar los requerimientos de los mismos a las unidades administrativas que la conforman;
+
+VII. Supervisar la administración de los bienes muebles e inmuebles destinados al funcionamiento de las unidades administrativas de las unidades adscritas al Titular del Ejecutivo del Estado;
+
+VIII. Gestionar los requerimientos de altas, bajas, cambios, permisos y licencias del personal, así como controlar la contratación del personal por tiempo y obra determinada y servicios profesionales de las unidades adscritas al Titular del Ejecutivo del Estado, de acuerdo a la normatividad establecida;
+
+IX. Coordinar las actividades de los enlaces administrativos de las unidades adscritas a la Titular del Ejecutivo del Estado;
+
+X. Contar con personalidad jurídica suficiente para la celebración de contratos y convenios necesarios para el debido cumplimiento de sus facultades; y
+
+XI. Las demás que le señalen las disposiciones legales aplicables y las que le confiera la Titular del Poder Ejecutivo del Estado, dentro de la esfera de sus atribuciones.
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
+
+ARTICULO 4 BIS 7.- La Coordinación Ejecutiva de Administración contará con las unidades y personal que se determinen para el debido cumplimiento de sus funciones. Las atribuciones de estas unidades se especificarán en los ordenamientos jurídicos respectivos.
+
+Para el debido cumplimiento de las facultades encomendadas la Coordinación Ejecutiva de Administración podrá contratar prestadores externos de servicios.
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
+
+ARTICULO 4 BIS 8.- Las atribuciones y funciones de las áreas que integren a las unidades adscritas directamente al ejecutivo se establecerán en las leyes, reglamentos, manuales y demás ordenamientos legales correspondientes que para tal efecto se emitan.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 17 DE DICIEMBRE DE 1992)</small>
 
@@ -81,21 +301,15 @@ La constitución de las empresas de participación estatal mayoritaria, de las s
 
 Las leyes, decretos, reglamentos, acuerdos, circulares y órdenes que suscriba el Gobernador del Estado, en ejercicio de sus funciones constitucionales, en todo caso, deberán ser refrendados con la firma del Secretario de Gobierno y comunicados por éste. Sin este requisito no surtirán efectos legales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
-###### ARTICULO 7o.
+###### ARTICULO 7.
 
-Corresponde al Gobernador del Estado nombrar y remover libremente a los Secretarios, al Oficial Mayor, al Procurador General de Justicia y a los demás trabajadores de confianza cuyo nombramiento o remoción no corresponda a otra autoridad.
+Corresponde al Titular del Ejecutivo Estado nombrar y remover libremente a los Secretarios, al Procurador General de Justicia y a los demás trabajadores de confianza cuyo nombramiento o remoción no corresponda a otra autoridad.
 
-> <small>(REFORMADO, B.O. 19 DE JUNIO DE 1986)</small>
-
-Asimismo, compete al Gobernador nombrar y remover a los demás trabajadores de la Administración Pública Directa, en los términos y conforme a los requisitos que dispongan los ordenamientos jurídicos respectivos, pudiendo delegar, por Acuerdo, esta facultad en el funcionario que designe, sin perjuicio de su ejercicio directo cuando lo juzgue conveniente.
-
-> <small>(REFORMADO, B.O. 19 DE JUNIO DE 1986)</small>
+Asimismo, compete al Titular del Ejecutivo Estado nombrar y remover libremente a los demás trabajadores de la Administración Pública Directa, en los términos y conforme a los requisitos que dispongan los ordenamientos jurídicos respectivos, pudiendo delegar por Acuerdo esta facultad en el funcionario que designe, sin perjuicio de su ejercicio directo cuando lo juzgue conveniente.
 
 El Acuerdo a que se refiere el párrafo anterior, deberá publicarse en el Boletín Oficial del Gobierno del Estado.
-
-(ADICIONADO, B.O. 20 DE MAYO DE 2004(
 
 Queda prohibido al Ejecutivo Estatal hacer entrega de numerario o bienes en especie a servidores públicos de confianza de primer nivel, a título de bono, indemnización, compensación, o cualquier otro concepto semejante o análogo, por dejar de prestar sus servicios a la conclusión del sexenio o dentro del año inmediato anterior.
 
@@ -133,15 +347,15 @@ Las dependencias de la administración pública directa tendrán igual rango y e
 
 Los titulares de las dependencias a que se refiere esta ley ejercerán sus funciones por acuerdo del Gobernador del Estado.
 
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 12.
 
-Al frente de cada Secretaría habrá un Secretario, quien para el despacho de los asuntos de su competencia se auxiliará por los subsecretarios, directores, subdirectores y demás funcionarios y empleados que autorice el Presupuesto.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 31 DE DICIEMBRE DE 2013)</small>
+Al frente de cada Secretaría habrá un Secretario, quien para el despacho de los asuntos de su competencia se auxiliará por los subsecretarios, directores, subdirectores y demás funcionarios y empleados que autorice el presupuesto.
 
 ###### ARTICULO 13.
 
-Al frente de la Oficialía Mayor habrá un Oficial Mayor, quien para el despacho de los asuntos de su competencia se auxiliará por los subsecretarios, coordinadores ejecutivos, directores generales, directores, subdirectores y demás funcionarios y empleados que autorice el presupuesto.
+(DEROGADO, B.O. 21 DE DICIEMBRE DE 2015)
 
 > <small>(REFORMADO PRIMER PÁRRAFO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -191,11 +405,11 @@ Cuando exista duda respecto de la competencia de las dependencias para la atenci
 
 ### CAPITULO II. DE LA COMPETENCIA DE LAS DEPENDENCIAS DE LA ADMINISTRACION PUBLICA DIRECTA
 
-> <small>(REFORMADO, B.O. 7 DE NOVIEMBRE DE 1991)</small>
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 21.
 
-El Procurador General de Justicia es representante legal del Poder Ejecutivo del Estado. La organización, funcionamiento, jurisdicción, competencia, facultades y obligaciones de la institución del Ministerio Público, se regirán por lo dispuesto en la Constitución Política del Estado, en la Ley Orgánica respectiva y en las demás leyes.
+El Procurador General de Justicia tendrá a su cargo la organización, funcionamiento, jurisdicción, competencia, facultades y obligaciones de la institución del Ministerio Público, se regirá por lo dispuesto en la Constitución Política del Estado, en la Ley Orgánica respectiva y en las demás leyes.
 
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -207,9 +421,7 @@ I.- Secretaría de Gobierno.
 
 II.- Secretaría de Hacienda.
 
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2013)</small>
-
-II Bis.- Oficialía Mayor;
+II Bis.- (DEROGADA, B.O. 21 DE DICIEMBRE DE 2015)
 
 III.- Secretaría de la Contraloría General.
 
@@ -233,83 +445,159 @@ IX.- Secretaría de Desarrollo Social;
 
 X.- Secretaría del Trabajo;
 
-> <small>(REFORMADA, B.O. 11 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
-XI.- Secretaría de Seguridad Pública; y
+XI.- Secretaría de Seguridad Pública;
 
-> <small>(ADICIONADA, B.O. 11 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
-XII.- Procuraduría General de Justicia.
+XII.- Procuraduría General de Justicia; y
+
+> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
+
+XIII.- Secretaría de la Consejería Jurídica.
 
 Los titulares de estas dependencias, subsecretarios, coordinadores, directores generales, directores, subdirectores, jefes de departamento, secretarios particulares y ayudantes personales, serán trabajadores de confianza, para los efectos de la Ley del Servicio Civil del Estado.
 
 En ausencia del titular de la dependencia, éste será suplido en la forma que determine el reglamento interior respectivo.
 
-> <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
+
+Las Dependencias señaladas en este artículo tendrán igual rango entre ellas.
+
+> <small>(REFORMADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 23.
 
-A la Secretaría de Gobierno le corresponde ejercer, sin perjuicio de las facultades y obligaciones que señalan los artículos 77 y 82 de la Constitución Política del Estado, las siguientes:
+A la Secretaría de Gobierno le corresponde ejercer, sin perjuicio de las facultades y obligaciones que se establecen en la Constitución Política del Estado, las siguientes:
 
-A. En materia de política interna y externa:
+I. Ser el conducto del Ejecutivo del Estado para atender los asuntos de política interna en la Entidad;
 
-I.- Ser el conducto del Ejecutivo para atender los asuntos de política interna del Estado;
+II. Conducir por delegación del Ejecutivo los asuntos que por la naturaleza y relevancia política y social, así lo determine el Gobernador del Estado;
 
-II.- Conducir las relaciones del Poder Ejecutivo con los Poderes Legislativo y Judicial y con los Ayuntamientos de los municipios del Estado; con los Poderes de la Unión y con los Gobiernos de las otras Entidades Federativas;
+III. Conducir las relaciones del Poder Ejecutivo con los Poderes Legislativo y Judicial, así como con los Ayuntamientos del Estado, autoridades de otras entidades federativas, los órganos constitucionales autónomos, partidos, agrupaciones políticas nacionales o estatales y con las organizaciones sociales;
 
-III.- Asesorar y apoyar a los Ayuntamientos que lo soliciten, en el desempeño de sus atribuciones;
+IV. Planear, programar, organizar y coordinar las giras y eventos de trabajo que realice el Titular del Ejecutivo del Estado;
 
-IV.- Auxiliar a las autoridades federales en el exacto cumplimiento de la legislación federal en materia de juegos y sorteos;
+V. Administrar y coordinar los recursos humanos, materiales y económicos para que se lleven a cabo de manera puntual las giras, eventos, ceremonias y demás actos que efectúe el Titular del Poder Ejecutivo Estatal;
 
-V.- Auxiliar a las autoridades federales en el exacto cumplimiento de la legislación en materia de asociaciones religiosas y culto público;
+VI. Coadyuvar en el ámbito de su competencia, con los poderes Legislativo y Judicial y con los ayuntamientos del Estado en el cumplimiento de sus atribuciones;
 
-> <small>(ADICIONADA, B.O. 6 DE JULIO DE 2006)</small>
+VII. Dar seguimiento para cumplir y hacer cumplir las políticas, los acuerdos, las órdenes, las circulares y demás disposiciones del Titular del Ejecutivo del Estado;
 
-V BIS.- Establecer las bases, definir, coordinar y operar las estrategias que en materia de comunicación social implemente el titular del Poder Ejecutivo del Estado;
+VIII. Refrendar para su validez y observancia legal, todas las leyes, decretos, reglamentos, circulares, acuerdos que suscriba el Titular del Ejecutivo del Estado en ejercicio de sus atribuciones;
 
-VI.- Promover la cultura cívico-política de los ciudadanos y los mecanismos de participación ciudadana;
+IX. Ser el conducto, previo Acuerdo con el Titular del Ejecutivo del Estado, para entregar a la Legislatura el Informe acerca del estado que guarda la administración pública a que hace referencia la Constitución Política del Estado;
 
-VII.- Atender los asuntos que le planteen los organismos de la sociedad civil y la población en general;
+X. Ejercer las atribuciones que en materia electoral le señalen las leyes o los convenios que para ese efecto se celebren;
 
-VIII.- Promover y atender los asuntos relacionados con el ámbito rural y agrario de la Entidad;
+XI. Coordinar y supervisar, en los términos de la legislación nacional y estatal, las acciones y programas en materia de protección civil, así como en casos de riesgo, siniestro o desastres;
 
-IX.- Formular y conducir los programas de población en coordinación con las autoridades federales, estatales y municipales que correspondan; y
+XII. Auxiliar a las autoridades federales y en el ejercicio de su competencia local, en el exacto cumplimiento de la legislación en materia de juegos, rifas, concursos y sorteos; detonantes y pirotecnia; así como en asuntos de migración.
 
-X.- Conducir las actividades del Ejecutivo Estatal en materia de protección civil.
+XIII. Auxiliar a las autoridades federales en el exacto cumplimiento de la legislación en materia de asociaciones religiosas y culto público;
 
-B. En materia de atención gubernamental:
+XIV. Promover la cultura cívico (sic) política de los ciudadanos y los mecanismos de participación, apoyando en el ámbito de su competencia a las autoridades electorales nacionales o estatales;
 
-I.- Organizar y vigilar el ejercicio de las funciones del Registro Civil, sin perjuicio de las atribuciones constitucionales del Ministerio Público;
+XV. Expedir previa autorización del Titular del Ejecutivo del Estado, las licencias, autorizaciones, concesiones y permisos cuyo otorgamiento no esté atribuido a otras dependencias del Ejecutivo;
 
-II.- Coordinar y vigilar el cumplimiento de las disposiciones en materia de notariado e imponer las sanciones por infracciones a las mismas, sin perjuicio de las atribuciones constitucionales del Ministerio Público; asimismo, administrar el Archivo de Notarías y autorizar los protocolos que deban utilizar los Notarios Públicos;
+XVI. Coordinar las acciones de gobierno para la atención de los asuntos agrarios, atender y ejecutar los programas y acciones que le instruya el Titular del Ejecutivo del Estado, en materia agraria así como informarle oportunamente sobre la situación agraria del Estado;
 
-III.- Determinar, en los términos que correspondan, el calendario oficial y administrar y publicar el Boletín Oficial del Gobierno del Estado;
+XVII. Implementar y coordinar el programa de regionalización municipal para la mejor atención de los planes y programas del gobierno.
 
-IV.- Dirigir, organizar y controlar el Archivo General de Gobierno; asimismo, llevar el registro de autógrafos y legalizar las firmas de funcionarios del Estado, de los municipios, de las instituciones educativas y, en general, de las personas que expidan documentos públicos; y
+XVIII. Implementar los planes y programas para la atención de los migrantes;
 
-V.- Organizar y vigilar el libre acceso ciudadano a la tutela judicial, a través de la institución de la Defensoría de Oficio.
+XIX. Dirigir, organizar y controlar el Archivo General de Gobierno, asimismo, llevar el registro de autógrafos y legalizar las firmas de funcionarios del Estado, de los municipios, de las instituciones educativas y, en general, de las personas que expidan documentos públicos;
 
-C. (DEROGADO, B.O. 30 DE DICIEMBRE DE 2010)
+XX. Elaborar y acordar con el Titular del Ejecutivo del Estado la agenda legislativa del Poder Ejecutivo del Estado, atendiendo a las propuestas de las dependencias y organismos, y someterla a la consideración del mismo;
 
-I. (DEROGADA, B.O. 30 DE DICIEMBRE DE 2010)
+XXI. Ser el conducto legislativo e institucional con las autoridades del Congreso del Estado y del Supremo Tribunal del Poder Judicial en la Entidad, con los Grupos Parlamentarios y con los diputados en lo individual, así como realizar las actividades inherentes a trámites delegatorios que el Gobernador del Estado le encomiende para el nombramiento, ratificación o designación de aquellos cargos o funcionarios que requieran ser aprobados por la Legislatura del Estado;
 
-ll. (DEROGADA, B.O. 30 DE DICIEMBRE DE 2010)
+XXII. Determinar y difundir, en los términos que correspondan, el calendario oficial;
 
-D. En materia jurídico-administrativa:
+XXIII. Formular y conducir los programas dirigidos a la población o sectores del Estado, que por instrucciones del Gobernador deban ser atendidos de forma directa por tratarse de asuntos con una importante transcendencia política, social o de alto impacto para el Estado;
 
-I.- Proporcionar asesoría jurídica a las dependencias del Ejecutivo del Estado;
+XXIV. Administrar y publicar el "Boletín Oficial del Gobierno del Estado";
 
-> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+XXV. Coordinar y vigilar el cumplimiento de las disposiciones en materia de notariado;
 
-II.- Intervenir en los procedimientos de expropiación por causa de utilidad pública, en los términos de la ley de la materia;
+XXVI. Establecer los lineamientos y criterios técnico-jurídicos para la aplicación y supervisión del cumplimiento de las disposiciones jurídicas en materia notarial, así como recibir, tramitar, substanciar, resolver quejas, implementar e imponer sanciones en contra de los notarios, substanciar y resolver las inconformidades que en esta materia se puedan promover y autorizar los protocolos para los notarios públicos;
 
-> <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
+XXVII. Llevar el Libro de Registro de Notarios;
 
-III.- Realizar los trámites para el ejercicio de las facultades que otorgan al Gobernador los artículos 79, fracción XXIV y 113 de la Constitución Política Local, relativas al nombramiento de los Magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Contencioso Administrativo; y
+XXVIII. Intervenir en los procedimientos de expropiación por causa de utilidad pública, en los términos de la ley de la materia;
 
-> <small>(ADICIONADA, B.O. 6 DE JULIO DE 2006)</small>
+XXIX. Organizar y vigilar el ejercicio de las funciones del Registro Civil;
 
-IV.- Participar en la coordinación de giras de trabajo, eventos especiales y cívicos en los que intervenga el titular del Poder Ejecutivo del Estado.
+XXX. Atender los asuntos que le planteen los organismos de la sociedad civil organizada, de grupos o asociaciones de ciudadanos o de sonorenses en lo individual que por la transcendencia deban ser conocimiento del Gobierno del Estado;
+
+XXXI. Coordinar, supervisar e implementar los planes, proyectos y programas de los siguientes entes: Centro Estatal para el Desarrollo Municipal; Consejo Estatal de Población; y Comisión Estatal para el Desarrollo de los Pueblos y Comunidades Indígenas;
+
+XXXII. Las demás que le sean conferidas por la Constitución, leyes, reglamentos, acuerdos y ordenamientos legales.
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
+
+ARTICULO 23 BIS.- La Secretaría de la Consejería Jurídica será la encargada de representar legalmente al Poder Ejecutivo del Estado.
+
+El titular de la Secretaría de la Consejería Jurídica se le denominará Consejero Jurídico del Poder Ejecutivo del Estado.
+
+La Secretaría de la Consejería Jurídica le corresponde ejercer las facultades siguientes:
+
+I. Brindar asesoría y apoyo técnico jurídico en forma directa al Titular del Ejecutivo del Estado, en todos aquellos asuntos que éste le encomiende;
+
+II. Representar legalmente al Titular del Ejecutivo del Estado y a la administración pública estatal en toda clase de juicios en que sea parte o autoridad responsable, pudiendo delegar ésta, en subalternos o terceros;
+
+Para el caso de delegar a terceros la representación del Titular del Ejecutivo del Estado y de la administración pública estatal, ésta podrá efectuarse mediante el otorgamiento de poder ante notario público;
+
+III. Coordinar a las áreas jurídicas de las dependencias, paraestatales, entidades, organismos administrativos desconcentrados, fideicomisos, organismos auxiliares y demás oficinas de la Administración Pública Estatal y demás oficinas de la Administración Pública Estatal, con excepción de la materia fiscal;
+
+IV. Someter a consideración del Titular del Ejecutivo Estado, para que éste ejerza con mayores elementos de decisión la facultad prevista en el artículo 79, fracción XI de la Constitución Política de Sonora, las propuestas de titulares de las Unidades Jurídicas de las dependencias, órganos administrativos desconcentrados, paraestatales, entidades, organismos, fideicomisos y demás oficinas de la Administración Pública Estatal que se señalan en los artículos 17, 22, 45, 46 y 47 de esta Ley;
+
+V. Someter a consideración del Titular del Ejecutivo Estado, para que éste ejerza con mayores elementos de convicción la facultad prevista en el artículo 79, fracción XI de la Constitución Política de Sonora, la remoción de los titulares de las Unidades Jurídicas de las dependencias, paraestatales, entidades, organismos administrativos desconcentrados, fideicomisos, organismos auxiliares y demás oficinas de la Administración Pública Estatal que se señalan en los artículos 17, 22, 45, 46 y 47 de esta Ley;
+
+VI. Requerir a las áreas jurídicas de las dependencias, organismos administrativos desconcentrados, fideicomisos, organismos auxiliares y demás oficinas de la Administración Pública Estatal, todo tipo de colaboración, informes o documentos sobre los asuntos que conozcan;
+
+VII. En caso de ser un asunto de interés público del Ejecutivo del Estado la Consejería Jurídica podrá otorgar asesoría jurídica a los Ayuntamientos;
+
+VIII. Revisar y en su caso elaborar los proyectos de iniciativas de leyes o decretos que presente el Titular del Ejecutivo del Estado a la Legislatura del Estado;
+
+IX. Revisar, y en su caso elaborar los proyectos de reglamentos, decretos o acuerdos y demás ordenamientos jurídicos que se sometan a consideración y en su caso autorización del Titular del Ejecutivo del Estado;
+
+X. Coordinar los trabajos de enlace del Poder Ejecutivo del Estado en aquellos casos que expresamente le encomiende el Gobernador del Estado, dando seguimiento estrictamente técnico al proceso parlamentario, y en su caso informar al Ejecutivo del Estado sobre las leyes y reglamentos que sean contrarios a la Constitución Política de los Estados Unidos Mexicanos, a la Constitución Política del Estado, y en su caso, proponer las medidas necesarias para su corrección;
+
+XI. Presentar en representación del Titular del Ejecutivo ante el Congreso del Estado, cuando éste así se lo encomiende, las iniciativas de leyes o decretos del Ejecutivo, distintas de aquellas que se refieran a la materia fiscal;
+
+XII. Definir, unificar y difundir los criterios para la interpretación de las disposiciones jurídicas en caso de controversia sobre la interpretación de las disposiciones jurídicas que norman el funcionamiento del Ejecutivo del Estado;
+
+XIII. Organizar y vigilar el libre acceso ciudadano a la tutela judicial, a través de la institución de la Defensoría Pública;
+
+XIV. Organizar, coordinar y controlar a la Defensoría Pública;
+
+XV. Coadyuvar con los organismos protectores de derechos humanos para el cumplimiento de las recomendaciones y conciliaciones que se le hagan de su conocimiento;
+
+XVI. Intervenir en los procedimientos de expropiación por causa de utilidad pública, en los términos de la ley de la materia;
+
+XVII. Coordinar la elaboración, revisión y sanción de los convenios, contratos y demás instrumentos jurídicos y administrativos que guarden relación con la administración pública federal, con los gobiernos estatales o cualquier organismo u organización no gubernamental;
+
+XVIII. Emitir opinión jurídica del contenido de los contratos que, sobre cualquier materia, celebren las distintas dependencias, organismos administrativos desconcentrados, fideicomisos, organismos auxiliares y demás oficinas de la Administración Pública Estatal respecto a servicios, arrendamientos, obra pública, adquisiciones, adjudicaciones, donaciones, comodatos y en general cualquier otra actividad regulada por los instrumentos legales que resulten aplicables;
+
+XIX. Realizar los actos jurídicos necesarios para reivindicar la propiedad del Estado;
+
+XX. Coordinar los trabajos inherentes a la implementación y homologación de juicios orales y del nuevo sistema de justicia penal;
+
+XXI. Certificar la documentación y expedientes que obren en los archivos de la Consejería Jurídicas y en general de toda aquella documentación necesaria para dar cumplimiento a los requerimientos que efectúen autoridades administrativas y judiciales;
+
+XXII. Delegar la facultad de certificación en aquellos Titulares Jurídicos de las dependencias cuando así se requiera; y
+
+XXIII. Las demás que le confieren otras disposiciones legales y aquellas que le encomiende el Titular del Ejecutivo del Estado.
+
+> <small>(ADICIONADO, B.O. 21 DE DICIEMBRE DE 2015)</small>
+
+ARTICULO 23 BIS 1.- La Secretaría de la Consejería Jurídica estará integrada por cuando menos cinco Subsecretarías, por la Defensoría Pública y por la Secretaría Ejecutiva de la Comisión Implementadora del nuevo sistema de justicia penal; y demás unidades y personal necesarios para el debido cumplimiento de sus facultades.
+
+Las atribuciones y funciones Subsecretarías y demás áreas que integren la Consejería se establecerán en las leyes, reglamentos, manuales y demás ordenamientos legales correspondientes.
+
+La Secretaría de la Consejería Jurídica, para el debido cumplimiento de sus funciones, podrá contratar prestadores externos de servicios.
 
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -317,13 +605,35 @@ IV.- Participar en la coordinación de giras de trabajo, eventos especiales y c�
 
 A la Secretaría de Hacienda le corresponden las facultades y obligaciones siguientes:
 
-A. (DEROGADO, B.O. 31 DE DICIEMBRE DE 2013)
+> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
+
+A. En materia de planeación:
+
+I. Formular y aplicar la política hacendaria, de gasto público y de deuda pública, del Gobierno del Estado;
+
+II. Representar a la Hacienda Pública del Estado por delegación del Gobernador, en los términos de la fracción XIX del artículo 79 de la Constitución Política Local;
+
+III. Proyectar y coordinar las actividades de planeación del desarrollo estatal, así como promover las acciones que de su instrumentación se deriven;
+
+IV. Elaborar el Plan Estatal de Desarrollo, con la participación de los sectores público, privado y social, en los términos de la Ley de Planeación, y someterlo a la consideración y aprobación del titular del Poder Ejecutivo; asimismo someter a la consideración del Ejecutivo las propuestas de adecuación al propio Plan Estatal de Desarrollo;
+
+V. Proyectar y coordinar, con la participación que corresponde a los Gobiernos Municipales, la planeación regional en el Estado;
+
+VI. Establecer los procedimientos, criterios y lineamientos generales para la elaboración e integración de los programas que se deriven del Plan Estatal de Desarrollo, y elaborar los programas especiales que le señale el Gobernador del Estado, verificando su ejecución;
+
+VII. Coordinar las actividades del Comité Estatal de Planeación para el Desarrollo del Estado de Sonora;
+
+VIII. Procurar la congruencia entre las acciones de la Administración Pública Estatal y los objetivos y prioridades del Plan Estatal de Desarrollo, y vigilar el cumplimiento de las disposiciones estatales en materia de planeación, programación, presupuestación y evaluación;
+
+IX. Integrar los programas operativos anuales globales, de acuerdo con los objetivos y prioridades del Plan Estatal de Desarrollo; y
+
+X. Ejecutar los convenios que en materia de acciones de planeación, programación, presupuestación y fiscalización, celebre el Gobierno del Estado con la Federación o municipios, así como vigilar que se efectúen las acciones convenidas con dichos órdenes de gobierno.
 
 B. En materia de ingresos:
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
-I.- Formular la política hacendaria de ingresos y de deuda pública del Gobierno del Estado, aplicándola para proyectar y calcular los ingresos del Estado, considerando las previsiones del gasto público;
+I. Proyectar y calcular los ingresos del Estado, considerando las necesidades del gasto público estatal, la utilización razonable del crédito público y el saneamiento financiero de la Administración Pública Estatal;
 
 II. Intervenir en el estudio de proyectos de leyes y disposiciones impositivas; formular y proponer al Gobernador del Estado los proyectos de las leyes anuales de ingresos y presupuestos de ingresos del Estado;
 
@@ -353,33 +663,43 @@ XIV.- Proyectar, para su incorporación en la Ley de Ingresos y el Presupuesto d
 
 C. En materia de egresos:
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
-I.- Coordinarse con la Oficialía Mayor con el objeto de que la proyección y cálculo de los egresos sean compatibles con la disponibilidad de recursos y en atención a las necesidades y políticas del desarrollo estatal;
+I. Proyectar y calcular los egresos del Gobierno del Estado y de la administración pública paraestatal, haciéndolos compatibles con la disponibilidad de recursos y en atención a las necesidades y políticas del desarrollo estatal;
 
-II.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 2013)
+> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
-III.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 2013)
+II. Formular y proponer al Gobernador del Estado, los proyectos de presupuesto de egresos del Estado y el programa financiero estatal;
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
-IV.- Realizar los trámites y registros del ejercicio del gasto público estatal y del presupuesto de egresos;
+III. Autorizar a las dependencias y entidades de la Administración Pública Estatal, el ejercicio del gasto público asignado a sus programas, conforme a la calendarización respectiva;
 
-> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
-V.- Realizar el pago de los gastos que afecten el presupuesto de egresos del Estado, de conformidad con los programas, presupuesto y calendarios financieros aprobados por la Oficialía Mayor;
+IV. Realizar los trámites y registros que requiera la vigilancia, seguimiento y evaluación del ejercicio del gasto público estatal y del presupuesto de egresos;
+
+> <small>(REFORMADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
+
+V. Autorizar el pago de los gastos que afecten el presupuesto de egresos del Estado, de conformidad con los programas, presupuesto y calendarios financieros aprobados;
 
 VI.- Cubrir con cargo a las partidas respectivas del presupuesto de egresos del Estado, los pagos correspondientes al ejercicio del gasto público estatal;
 
-VII.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 2013)
+> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
+
+VII. Autorizar las ampliaciones y reducciones de los recursos asignados a los programas a cargo de las dependencias y de las entidades incorporadas al presupuesto de egresos del Estado. Asimismo, opinar, a solicitud de la coordinadora de sector, sobre las modificaciones presupuestales de las entidades no incorporadas al presupuesto de egresos mencionado;
 
 VIII.- Verificar que los subsidios y transferencias de fondos, realizados por el Ejecutivo del Estado, con cargo a su propio presupuesto, en favor de los municipios o de instituciones de los sectores social y privado, se apliquen en los términos establecidos en los programas aprobados al efecto;
 
 IX.- Realizar o celebrar las operaciones en que se haga uso del crédito público;
 
-X.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 2013)
+> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
-XI.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 2013)
+X. Normar la planeación, programación, presupuestación, ejecución y evaluación de las obras públicas que realicen o contraten las dependencias y entidades de la Administración Pública Estatal, conforme a las leyes respectivas; y
+
+> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
+
+XI. Evaluar, periódicamente, la relación que guarden los programas y presupuestos de las dependencias y entidades de la Administración Pública Estatal, con los objetivos y prioridades del Plan Estatal de Desarrollo, así como los resultados de su ejecución, a fin de adoptar las medidas necesarias para corregir las desviaciones detectadas y adecuar, en su caso, el Plan y los programas respectivos.
 
 D. En materia catastral y registral:
 
@@ -395,25 +715,33 @@ I.- Expedir las disposiciones administrativas de carácter general que establezc
 
 II. Expedir o cancelar, en su caso, las licencias para la operación y funcionamiento de los establecimientos destinados a la fabricación, envasamiento, almacenamiento, distribución, transportación, venta y consumo de bebidas con contenido alcohólico.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
-F. En materia de sistemas de información:
+F. En materia de administración e informática:
 
-I.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 2013)
+> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
-II.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 2013)
+I. Establecer normas, lineamientos y políticas en materia de administración, organización, remuneración, capacitación, profesionalización y desarrollo del personal de la administración pública directa;
 
-III.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 2013)
+> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
-IV.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 2013)
+II. Determinar y conducir las políticas en materia mobiliaria e inmobiliaria de la administración estatal directa y administrar los bienes muebles e inmuebles propiedad del Gobierno del Estado, así como los que posea, use o disfrute por cualquier acto jurídico;
+
+> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
+
+III. Otorgar y revocar concesiones o permisos para el uso, aprovechamiento o explotación de los bienes muebles e inmuebles propiedad del dominio público del Estado;
+
+> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
+
+IV. Expedir para efectos administrativos en el ámbito de su competencia, las disposiciones que establezcan los criterios de interpretación para la aplicación de las disposiciones de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles de la Administración Pública Estatal; así como fijar los lineamientos en materia de adquisiciones, arrendamientos y prestación de servicios sobre dichos bienes muebles; y
 
 > <small>(REFORMADA, B.O. 6 DE JULIO DE 2006)</small>
 
 V.- Establecer las normas y procedimientos para la organización, coordinación y funcionamiento de los sistemas de información que permitan integrar y consolidar los proyectos presupuestarios, informes, reportes, estados financieros y demás instrumentos relacionados con la planeación, presupuestación, ejercicio y rendición de cuentas a cargo del Ejecutivo del Estado.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
-G. En materia de contabilidad gubernamental y rendición de cuentas:
+G. En materia de contabilidad, evaluación y estadística:
 
 I.- Integrar la Cuenta Pública del Gobierno del Estado y someterla a la consideración del Gobernador para los efectos constitucionales correspondientes;
 
@@ -421,77 +749,21 @@ II.- Establecer y operar el sistema de contabilidad gubernamental del Gobierno d
 
 III.- Autorizar los catálogos de cuentas para la contabilidad del gasto público estatal de las entidades, y consolidar los estados financieros que emanen de las contabilidades de las mismas;
 
-IV.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 2013)
+> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
-V.- (DEROGADA, B.O. 31 DE DICIEMBRE DE 2013)
+IV. Integrar la información necesaria para la formulación del informe que, sobre el estado que guarda la administración pública, debe rendir el Gobernador del Estado, así como para el informe sobre finanzas públicas trimestrales e informe de ejecución del Plan Estatal de Desarrollo; y
 
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
 
-VI.- Representar a la Hacienda Pública del Estado por delegación del Gobernador, en los términos de la fracción XIX del artículo 79 de la Constitución Política Local; y
+V. Determinar las directrices, estándares y procedimientos necesarios para la integración de información socioeconómica y financiera, con el objetivo de conformar índices estadísticos y elaborar el Anuario Estadístico en coordinación con el Instituto Nacional de Estadística, Geografía e Informática.
 
-> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2013)</small>
+VI. (DEROGADA, B.O. 21 DE DICIEMBRE DE 2015)
 
-VII.- Integrar, en coordinación con Oficialía Mayor, la información necesaria para la formulación del informe que, sobre el estado que guarda la administración pública, debe rendir el Gobernador del Estado, así como para los informes periódicos de las finanzas públicas e informe de ejecución del Plan Estatal de Desarrollo.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 31 DE DICIEMBRE DE 2013)</small>
+VII. (DEROGADA, B.O. 21 DE DICIEMBRE DE 2015)
 
 ###### ARTICULO 25.
 
-A la Oficialía Mayor le corresponden las facultades y obligaciones siguientes:
-
-A. En materia de planeación del desarrollo:
-
-I.- Formular la política de gasto público del Gobierno del Estado;
-
-II.- Proyectar y coordinar las actividades de planeación del desarrollo estatal, así como promover las acciones que de su instrumentación se deriven;
-
-III.- Elaborar el Plan Estatal de Desarrollo, con la participación de los sectores público, privado y social, en los términos de la Ley de Planeación y someterlo a la consideración y aprobación del titular del Poder Ejecutivo; asimismo someter a la consideración del Ejecutivo las propuestas de adecuación al propio Plan Estatal de Desarrollo;
-
-IV.- Proyectar y coordinar, con la participación que corresponde a los Gobiernos Municipales, la planeación regional en el Estado;
-
-V.- Establecer los procedimientos, criterios y lineamientos generales para la elaboración e integración de los programas que se deriven del Plan Estatal de Desarrollo, y elaborar los programas especiales que le señale el Gobernador del Estado, verificando su ejecución;
-
-VI.- Coordinar las actividades del Comité Estatal de Planeación para el Desarrollo del Estado de Sonora;
-
-VII.- Procurar la congruencia entre las acciones de la Administración Pública Estatal y los objetivos y prioridades del Plan Estatal de Desarrollo, y vigilar el cumplimiento de las disposiciones estatales en materia de planeación, programación, presupuestación y evaluación;
-
-VIII.- Integrar los programas operativos anuales globales, de acuerdo con los objetivos y prioridades del Plan Estatal de Desarrollo; y
-
-IX.- Supervisar que los convenios celebrados por el Gobierno del Estado con la federación o municipio, que comprometan recursos o afecten el presupuesto del Gobierno del Estado, estén respaldados por planeación, programación y presupuestación previa.
-
-B. En materia de programación del gasto, evaluación y estadística:
-
-I.- Proyectar y calcular los egresos del Gobierno del Estado y de la administración pública paraestatal en atención a las necesidades y políticas del desarrollo estatal;
-
-II.- Formular y proponer al Gobernador del Estado, los proyectos de presupuesto de egresos del Estado y el programa financiero estatal;
-
-III.- Autorizar a las dependencias y entidades de la Administración Pública Estatal, el ejercicio del gasto público asignado a sus programas, conforme a la calendarización respectiva;
-
-IV.- Autorizar las ampliaciones y reducciones de los recursos asignados a los programas a cargo de las dependencias y de las entidades incorporadas al presupuesto de egresos del Estado. Asimismo, opinar, a solicitud de la coordinadora de sector, sobre las modificaciones presupuéstales de las entidades no incorporadas al presupuesto de egresos mencionado;
-
-V.- Normar la planeación, programación, presupuestación, ejecución y evaluación de las obras públicas que realicen o contraten las dependencias y entidades de la Administración Pública Estatal, conforme a las leyes respectivas;
-
-VI.- Evaluar, periódicamente, la relación que guarden los programas y presupuestos de las dependencias y entidades de la Administración Pública Estatal, con los objetivos y prioridades del Plan Estatal de desarrollo, así como los resultados de su ejecución, a fin de adoptar las medidas necesarias para corregir las desviaciones detectadas y adecuar, en su caso, el Plan y los programas respectivos;
-
-VII.- Proporcionar a la Secretaría de Hacienda la información con los resultados de los programas y presupuestos de las dependencias y entidades de la Administración Pública Estatal que le permita formular a dicha dependencia los informes correspondientes;
-
-VIII.- Determinar las directrices, estándares y procedimientos necesarios para la integración de información socioeconómica y financiera; y
-
-IX.- Organizar e instrumentar un sistema de información y estadística para la planeación del desarrollo y tener bajo su custodia y responsabilidad las estadísticas del Poder Ejecutivo Estatal.
-
-C. En materia de administración:
-
-I.- Establecer normas, lineamientos y políticas en materia de administración, organización, remuneración, capacitación, profesionalización y desarrollo del personal de la administración pública estatal;
-
-II.- Determinar y conducir las políticas en materia mobiliaria e inmobiliaria de la administración estatal y administrar los bienes muebles e inmuebles propiedad del Gobierno del Estado, así como los que posea, use o disfrute por cualquier acto jurídico;
-
-III.- Otorgar y revocar concesiones o permisos para el uso, aprovechamiento o explotación de los bienes muebles e inmuebles propiedad del dominio público del Estado;
-
-IV.- Expedir para efectos administrativos en el ámbito de su competencia, las disposiciones que establezcan los criterios de interpretación para la aplicación de las disposiciones de la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles de la Administración Pública Estatal; así como fijar los lineamientos en materia de adquisiciones, arrendamientos y prestación de servicios sobre dichos bienes muebles; y
-
-> <small>(F. DE E., B.O. 28 DE ABRIL DE 2014)</small>
-
-V.- Establecer las disposiciones para la celebración de contratos que por servicios profesionales de cualquier índole requieran establecer las dependencias y entidades.
+(DEROGADO, B.O. 21 DE DICIEMBRE DE 2015)
 
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
@@ -964,6 +1236,10 @@ IX.- Promover programas y acciones de asistencia social;
 X.- Integrar y mantener actualizado un banco de datos sobre la evolución de la pobreza y el impacto de los programas sociales a efecto de orientar las políticas públicas de desarrollo social; y
 
 XI.- Promover programas relativos al desarrollo integral de los pueblos y las comunidades indígenas del Estado, procurando la preservación de sus valores culturales;
+
+> <small>(ADICIONADA, B.O. 21 DE DICIEMBRE DE 2015)</small>
+
+XII. Coordinar las acciones, planes y programas que sean implementados por el Instituto Sonorense de la Mujer, que propicien y faciliten la plena incorporación de la mujer en la vida económica, política, cultural y social.
 
 B. En materia de desarrollo regional:
 
@@ -2010,3 +2286,31 @@ El presente decreto entrará en vigor al día siguiente al de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 La Secretaría deberá expedir elaborar el Programa de Seguro del Desempleo y las disposiciones reglamentarias derivadas del presente Decreto en los siguientes 30 días siguientes a la entrada en vigor del mismo.
+
+B.O. 21 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 37 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado.
+
+Artículo Segundo.- Las disposiciones reglamentarias y administrativas que estén en vigor se aplicarán conforme a la presente Reforma; salvo que contravengan el presente Decreto en cuyo caso quedarán sin efecto.
+
+Artículo Tercero.- Los asuntos que con motivo de este Decreto deban pasar de una dependencia a otra, permanecerán en el último trámite que hubieren alcanzado hasta que las unidades administrativas que los tramitan se incorporen a la dependencia que señale este Decreto, a excepción de los trámites urgentes o sujetos a plazos improrrogables.
+
+En los casos del Centro Estatal para el Desarrollo Municipal que pasa a la Secretaría de Gobierno; y el Instituto Sonorense de la Mujer que pasa a la Secretaría de Desarrollo Social, los Secretarios del ramo implementarán las medidas adicionales que correspondan al traspaso de dichos organismos.
+
+El personal, los bienes muebles e inmuebles, los vehículos, instrumentos, aparatos, maquinaria, archivos y en general el equipo que tenía a su cargo la Secretaría de la División Jurídica pasa a formar parte de la Secretaría de la Consejería Jurídica.
+
+Artículo Cuarto.- La dependencia y unidades referidas en el presente tendrán un plazo improrrogable de ciento ochenta días para realizar la creación o modificación de sus reglamentos interiores, manuales y demás acuerdos para el debido desempeño de sus funciones.
+
+Artículo Quinto.- El Titular del Poder Ejecutivo del Estado dentro de un plazo no mayor de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto, publicará el nuevo Reglamento Interior de la Secretaría de Hacienda. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan al presente Decreto.
+
+Una vez que entre en vigor el nuevo Reglamento Interior de la Secretaría de Hacienda, se abrogará el Reglamento Interior de la Oficialía Mayor publicado en el Boletín Oficial del Gobierno del Estado Número 52, SECCIÓN II, con fecha de publicación 30 de junio de 2014.
+
+Artículo Sexto.- Los recursos humanos, materiales y bienes patrimoniales, así como las partidas presupuestales, que le correspondían a Oficialía Mayor, pasaran a la Secretaría de Hacienda.
+
+Los derechos de los trabajadores que se transfieren a la Secretaría de Hacienda se respetarán en los términos de las disposiciones jurídicas aplicables.
+
+Artículo Séptimo.- Cuando en otras leyes se otorgue denominación distinta a alguna dependencia, cuyas funciones y facultades estén contempladas en el presente Decreto, para el cumplimiento de las mismas y las que se establezcan por convenios celebrados con autoridades federales o municipales, dicha competencia se entenderá concedida a la dependencia que determine el presente Decreto.
+
+Artículo Octavo.- Se tendrán por conferidas a la Secretaría de Hacienda las atribuciones que en otras Leyes y Reglamentos se otorgan a Oficialía Mayor.
