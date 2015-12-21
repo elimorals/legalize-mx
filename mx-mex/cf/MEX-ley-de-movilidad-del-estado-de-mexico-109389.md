@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-movilidad-del-estado-de-mexico-109389"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-12"
-last_updated: "2015-08-12"
+last_updated: "2015-12-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY DE MOVILIDAD DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE FEBRERO DE 2016 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE MOVILIDAD DEL ESTADO DE MÉXICO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO, EL PRESENTE ORDENAMIENTO ENTRARÁ EN VIGOR A LOS SESENTA DÍAS HÁBILES SIGUIENTES AL DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO".</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 21 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el miércoles 12 de agosto de 2015.
 
@@ -63,13 +63,19 @@ Definiciones. Para la aplicación, interpretación y efectos de esta Ley, se ent
 
 I. Centro de Transferencia Modal: Espacio físico con infraestructura y equipamiento auxiliar de transporte, que sirve de conexión a los usuarios entre dos o más rutas o modos de transporte.
 
+> <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 2015)</small>
+
+I. Bis. Chofer: persona que conduce un vehículo del servicio público de transporte.
+
 II. Ciclista: Conductor de un vehículo de tracción humana a través de pedales. Se considera también ciclista a aquellos que conducen bicicletas asistidas por motores eléctricos.
 
 III. Conductor: Persona que maneje un vehículo automotor en cualquiera de sus modalidades.
 
 IV. Comité: Comité Estatal de Movilidad.
 
-V. Concesión: Al acto administrativo por el cual el titular del Poder Ejecutivo del Estado, por conducto de la Secretaría, autoriza a las personas físicas o jurídicas, para prestar un servicio público de transporte, en los términos y condiciones que la propia ley señala.
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2015)</small>
+
+V. Concesión: al acto administrativo por el cual el titular del Poder Ejecutivo del Estado, por conducto de la Secretaría, autoriza a sociedades mercantiles mexicanas, constituidas como sociedades anónimas de capital variable, para prestar un servicio público de transporte, en los términos y condiciones que la propia ley y su reglamentación señalan, que para surtir efectos deberán estar inscritas en el Registro Público Estatal de Movilidad.
 
 VI. Estado: Estado Libre y Soberano de México.
 
@@ -77,13 +83,15 @@ VII. Estudio de Impacto de Movilidad: Procedimiento sistemático en el que se co
 
 VIII. Ley: Ley de Movilidad del Estado de México.
 
-IX. Motocicleta: Vehículo motorizado que utiliza manubrio para su conducción, con dos o más ruedas, que está equipado con motor eléctrico o de combustión interna, que es inclinado por su conductor hacia el interior de una curva para contrarrestar la fuerza centrifuga y que cumpla con las disposiciones estipuladas en la Norma Oficial Mexicana en materia de identificación vehicular.
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2015)</small>
+
+IX. Motocicleta: vehículo motorizado que utiliza manubrio para su conducción, con dos o más ruedas, que está equipado con motor eléctrico o de combustión interna y que debe cumplir con las disposiciones estipuladas en la Norma Oficial Mexicana en materia de identificación vehicular.
 
 X. Motociclista: Persona que conduce una motocicleta.
 
 XI. Movilidad: Al derecho del que goza toda persona, sin importar su residencia, condición, modo o modalidad de transporte que utiliza, para realizar los desplazamientos efectivos dentro del Estado.
 
-XII. Operador: Persona que maneja una unidad del sistema de transporte público.
+XII. (DEROGADA, G.G. 21 DE DICIEMBRE DE 2015)
 
 XIII. Peatón: Persona que transita por la vialidad a pie y/o que utiliza de (sic) ayudas técnicas por su condición de movilidad limitada, así como en patines, patineta u otros vehículos recreativos.
 
@@ -179,11 +187,15 @@ Autoridades coadyuvantes. Las dependencias del Ejecutivo y sus organismos auxili
 
 Concurrencia de los municipios. Los municipios deberán realizar las funciones y prestar los servicios públicos que le corresponden atendiendo a lo dispuesto en esta Ley y otros ordenamientos legales. Asimismo, participarán de manera coordinada con las autoridades en materia de movilidad, en la aplicación de la Ley, cuando sus disposiciones afecten o tengan incidencia en su ámbito territorial.
 
-La autoridad municipal otorgará el visto bueno para la autorización de nuevas rutas o la adecuación de las existentes, así como la ubicación de sitios o derroteros, previo conocimiento de los estudios de impacto de movilidad.
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2015)</small>
+
+Los municipios y la Comisión Estatal de Seguridad Ciudadana coadyuvarán con la Secretaría, para que de oficio o a petición de ésta, mantengan las vías primarias y locales libres de obstáculos u objetos que impidan, dificulten u obstruyan el tránsito peatonal, ciclista o vehicular del sistema integral de movilidad y del servicio público de transporte, en el ámbito de su competencia.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 9.
 
-Atribuciones municipales en materia de movilidad. Los municipios tendrán las atribuciones siguientes en materia de movilidad:
+Atribuciones municipales en materia de movilidad.
 
 I. Aquellas relacionadas con el Sistema Integral de Movilidad, que deriven de las funciones y servicios públicos establecidos en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de México.
 
@@ -209,13 +221,13 @@ XI. Coordinarse con la Secretaría y con otros municipios de la entidad, para da
 
 XII. Autorizar la localización y características de los elementos que integran la infraestructura y el equipamiento vial de los centros de población, a través de los planes y programas de desarrollo urbano que les corresponda sancionar y aplicar.
 
-XIII. Determinar, previo acuerdo con las autoridades competentes, las rutas de acceso y paso de vehículos del servicio público de transporte de pasajeros, suburbanos y foráneos, y de carga; así como los itinerarios para los vehículos de carga, y otorgar las autorizaciones correspondientes.
+XIII. (DEROGADA, G.G. 21 DE DICIEMBRE DE 2015)
 
-XIV. Determinar la localización del equipamiento para el transporte público, tanto para la operación de las terminales de autobuses de pasajeros, como de las terminales de carga, a efecto de tramitar las respectivas concesiones y permisos.
+XIV. (DEROGADA, G.G. 21 DE DICIEMBRE DE 2015)
 
-XV. Autorizar, en coordinación con la Secretaría la ubicación de los lugares para el establecimiento de los sitios y matrices de éstos, a propuesta de los interesados.
+XV. (DEROGADA, G.G. 21 DE DICIEMBRE DE 2015)
 
-XVI. Autorizar, en coordinación con el titular del Poder Ejecutivo del Estado, la localización de las obras de infraestructura carretera; de la infraestructura y equipamiento vial, de los derechos de vía como destinos; de las zonas de restricción, así como las normas que regulen su uso.
+XVI. (DEROGADA, G.G. 21 DE DICIEMBRE DE 2015)
 
 XVII. Determinar, autorizar y exigir, en su jurisdicción territorial, la instalación de los espacios destinados para la ubicación de estacionamiento, ascenso y descenso exclusivo de personas con discapacidad, en lugares preferentes y de fácil acceso a los edificios o espacios públicos, particulares o de gobierno, cuyo uso esté destinado o implique la concurrencia del público en general.
 
@@ -231,11 +243,29 @@ XXII. Trasladar a los depósitos correspondientes las cajas, remolques y vehícu
 
 XXIII. Promover en el ámbito de su competencia las acciones para el uso racional del espacio vial, teniendo como prioridad la jerarquía de movilidad.
 
-XXIV. Aprobar las modalidades adicionales a las señaladas en esta ley derivadas de los avances tecnológicos.
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2015)</small>
 
-XXV. Las demás que confiera la presente Ley y o cualquier otra disposición relacionada con la movilidad.
+XXIV. Proponer modalidades adicionales a las señaladas en esta ley derivadas de los avances tecnológicos.
 
-El ayuntamiento ejercerá sus atribuciones técnicas y administrativas en materia de vialidad y tránsito, e intervendrá en la formulación y aplicación de los programas de transporte de pasajeros, a través de la dependencia que se determine en la legislación municipal y, en su caso, en el reglamento correspondiente.
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2015)</small>
+
+XXV. Estudiar, opinar y proponer soluciones en materia de movilidad.
+
+> <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 2015)</small>
+
+XXVI. Celebrar convenios de colaboración y participación en materia de movilidad.
+
+> <small>(ADICIONADA, G.G. 21 DE DICIEMBRE DE 2015)</small>
+
+XXVII. Las demás que confiera la presente Ley y/o cualquier otra disposición relacionada con la movilidad.
+
+> <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 2015)</small>
+
+Tratándose de concesiones únicas que afecten su territorio, los municipios podrán dirigir un escrito a la o el titular de la Secretaría, quien en un plazo no mayor a quince días hábiles, deberá contestar por escrito si procede o no su solicitud, conforme al estudio técnico de movilidad correspondiente.
+
+> <small>(ADICIONADO, G.G. 21 DE DICIEMBRE DE 2015)</small>
+
+Los municipios ejercerán sus atribuciones técnicas y administrativas en materia de vialidad, tránsito y estacionamientos, y participarán en la formulación y aplicación de los programas de transporte de pasajeros, en términos de la legislación aplicable.
 
 ### CAPÍTULO CUARTO. DEL COMITÉ ESTATAL DE MOVILIDAD
 
@@ -341,7 +371,9 @@ a) Primaria: Estará a cargo del Estado, podrá ser de cuota, libre de peaje o d
 
 b) Local: Aquella que no sea considerada vial primaria y estará a cargo de los municipios.
 
-II. Infraestructura para la movilidad: Toda aquella no comprendida como vía pública que tienda a mejorar la movilidad en el Estado, permita la movilidad de las personas, la operación y/o confinamiento del servicio de transporte, los centros de transferencia modal, las bahías de ascenso y descenso, bases de taxis, sitios, estaciones, terminales, depósito de vehículos cobertizos u otro.
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2015)</small>
+
+II. Infraestructura para la movilidad: toda aquella que tienda a mejorar la movilidad en el Estado, permita la movilidad de las personas, la operación y/o confinamiento del servicio de transporte, los centros de transferencia modal, las bahías de ascenso y descenso, bases de taxis, sitios, estaciones, terminales, depósito de vehículos cobertizos u otro.
 
 a) Elementos incorporados a las vías públicas e infraestructura de movilidad, que no forman parte intrínseca de la misma, como banquetas, calles peatonales, la señalización, iluminación y equipamiento de seguridad, vigilancia y protección civil y publicidad, entre otras.
 
@@ -529,9 +561,11 @@ IV. La información adicional que se establezca en el reglamento interior del Co
 
 ### CAPÍTULO TERCERO. DE LOS ELEMENTOS DEL SERVICIO DE TRANSPORTE
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 32.
 
-Principios que regirán la prestación del Servicio de Transporte Público. La prestación del Servicio, ya sea de manera directa por las autoridades en materia de movilidad, dependencias y organismos auxiliares o, a través de particulares que cuenten con una concesión para dichos efectos en los términos de esta Ley, se regirá por los principios de la movilidad de esta Ley y por los que se establecen a continuación:
+Principios que regirán la prestación del Servicio de Transporte Público. La prestación del servicio público, ya sea de manera directa por las autoridades en materia de movilidad, dependencias y organismos auxiliares o, a través de particulares constituidos en sociedades anónimas de capital variable, que cuenten con una concesión para dichos efectos en los términos de esta Ley, se regirá por los principios de la movilidad de esta Ley y por los que se establecen a continuación:
 
 I. Continuidad. El Servicio no puede ser interrumpido ni suspendido. Las autoridades en materia de movilidad están obligadas a sancionar todo acto que tenga como consecuencia la suspensión o interrupción de dicho servicio.
 
@@ -609,15 +643,19 @@ Corresponderá a la Secretaría de Infraestructura la programación, coordinaci�
 
 ### CAPÍTULO PRIMERO. DE LAS DISPOSICIONES COMUNES APLICABLES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 36.
 
-Disposiciones para al (sic) otorgamiento de concesiones y proyectos de asociación con particulares. Las autoridades en materia de movilidad, en el ámbito de su competencia, podrán otorgar concesiones e implementar proyectos de asociación con particulares para el cumplimiento de las atribuciones que les corresponden en materia de movilidad, de conformidad con lo siguiente:
+Disposiciones para el otorgamiento de concesiones y proyectos de asociación con particulares. Las autoridades en materia de movilidad, en el ámbito de su competencia, podrán otorgar concesiones e implementar proyectos de asociación con particulares constituidos en sociedades anónimas de capital variable, para el cumplimiento de las atribuciones que les corresponden en materia de movilidad, de conformidad con lo siguiente:
 
 I. Las autoridades en materia de movilidad, únicamente podrán otorgar concesiones o implementar proyectos de asociación con particulares para el cumplimiento de las atribuciones previstas en esta Ley.
 
 II. Los instrumentos mediante los cuales se formalice el otorgamiento de la concesión o la implementación del proyecto de asociación con particulares, deberán ser suscritos por el titular de la autoridad en materia de movilidad de que se trate.
 
-III. Las concesiones y proyectos de asociación con particulares solo podrán otorgarse a personas jurídico colectivas de nacionalidad mexicana.
+> <small>(REFORMADA, G.G. 21 DE DICIEMBRE DE 2015)</small>
+
+III. Las concesiones y proyectos de asociación con particulares solo podrán otorgarse a sociedades mercantiles de nacionalidad mexicana constituidas como sociedades anónimas de capital variable.
 
 No se podrá otorgar ni renovar concesión alguna si el concesionario no garantiza la contratación de una póliza de seguro vigente para indemnizar los daños y perjuicios, que con motivo de dicha actividad pudiese ocasionar a los usuarios, peatones, conductores o terceros en su persona o patrimonio.
 
@@ -667,9 +705,11 @@ Concesiones no previstas. Las concesiones no previstas en el presente Título se
 
 ### CAPÍTULO TERCERO. DE LA IMPLEMENTACIÓN DE PROYECTOS DE ASOCIACIÓN CON PARTICULARES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 44.
 
-Implementación de proyectos de asociación con particulares. Conforme a lo establecido en la presente Ley, las autoridades en materia de movilidad, en el ámbito de su competencia, podrán implementar proyectos de asociación con particulares para el cumplimiento de las atribuciones que les corresponden en materia de movilidad, en los supuestos y conforme al procedimiento y requisitos establecidos en el Libro Décimo Sexto del Código Administrativo del Estado de México y su Reglamento.
+Implementación de proyectos de asociación con particulares. Conforme a lo establecido en la presente Ley, las autoridades en materia de movilidad, en el ámbito de su competencia, podrán implementar proyectos de asociación con particulares constituidos como sociedades anónimas de capital variable mexicanas, en términos de lo dispuesto por la presente Ley, para el cumplimiento de las atribuciones que les corresponden en materia de movilidad, en los supuestos y conforme al procedimiento y requisitos establecidos en el Libro Décimo Sexto del Código Administrativo del Estado de México y su Reglamento.
 
 En todo caso, la implementación de estos proyectos se sujetará a los principios y objetivos establecidos en esta Ley, el Programa y demás disposiciones jurídicas aplicables.
 
@@ -774,3 +814,15 @@ EL SECRETARIO GENERAL DE GOBIERNO
 JOSÉ S. MANZUR QUIROGA
 
 (RÚBRICA).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+G.G. 21 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 55.- POR EL QUE SE REFORMAN LOS ARTÍCULOS 2, FRACCIONES V Y IX, 8, PÁRRAFO SEGUNDO, 9, FRACCIONES XXIV Y XXV, SEGUNDO PÁRRAFO, 16, FRACCIÓN II, 32, PÁRRAFO PRIMERO, 36, PÁRRAFO PRIMERO Y FRACCIÓN III, 44, PÁRRAFO PRIMERO, SE ADICIONA LA FRACCIÓN I BIS AL ARTÍCULO 2, LAS FRACCIONES XXVI Y XXVII Y UN TERCER PÁRRAFO AL ARTÍCULO 9, Y SE DEROGAN LAS FRACCIONES XII DEL ARTÍCULO 2, Y XIII, XIV, XV Y XVI DEL ARTÍCULO 9, DE LA LEY DE MOVILIDAD DEL ESTADO DE MÉXICO".]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Las personas físicas o jurídico colectivas concesionarias del servicio público de transporte, deberán constituirse en sociedades anónimas de capital variable y presentarse ante la Secretaría para el canje de concesiones a más tardar el 30 de junio de 2016.
