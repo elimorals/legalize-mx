@@ -4,7 +4,7 @@ identifier: "COA-ley-de-transito-y-transporte-del-estado-de-coahuila-de-3803"
 country: "mx"
 rank: "ley"
 publication_date: "1996-01-19"
-last_updated: "2015-09-01"
+last_updated: "2015-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3803&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 19 de enero de 1996.
 
@@ -234,6 +234,10 @@ V.- Chofer del servicio público: Se expedirá a personas que pretendan conducir
 > <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2010)</small>
 
 VI.- Chofer de carga especializada: Se expedirá a personas que pretendan conducir vehículos que transporten material peligroso conforme lo señala la fracción X del artículo 40 de esta ley, dentro de los límites del municipio o carretera estatal.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+ARTICULO 19 BIS.- Las licencias de conducir que se expidan para Chofer del Servicio Público, autoriza a su portador a conducir automóviles, camionetas o camiones destinados al servicio particular, por lo que no será necesario que se les exija otro tipo de licencia para la clase de vehículo que conduzca, con excepción de motocicleta.
 
 ###### ARTICULO 20.
 
@@ -983,7 +987,7 @@ Los conductores deberán inscribirse en el Registro, mediante la presentación d
 
 ###### ARTICULO 90.
 
-Los concesionarios, permisionarios y conductores presentarán los documentos que en cado caso le sean requeridos para la inscripción en el Registro.
+Los concesionarios, permisionarios y conductores presentarán los documentos que en cada caso le sean requeridos para la inscripción en el Registro.
 
 ###### ARTICULO 91.
 
@@ -1616,3 +1620,11 @@ SEGUNDO.- Las licencias de conducir para menores expedidas antes de la entrada e
 TERCERO.- No se aplicarán las sanciones del tipo penal previsto en esta reforma, a las personas que faciliten un vehículo a un menor de edad que cuente con licencia vigente expedida por autoridad competente, antes de la fecha de la entrada en vigor del presente decreto.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan a este decreto.
+
+P.O. 22 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 200.- SE ADICIONA EL ARTÍCULO 19 BIS DE LA LEY DE TRÁNSITO Y TRANSPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
