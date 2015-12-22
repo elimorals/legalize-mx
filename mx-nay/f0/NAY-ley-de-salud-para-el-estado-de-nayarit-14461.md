@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-salud-para-el-estado-de-nayarit-14461"
 country: "mx"
 rank: "ley"
 publication_date: "1994-04-30"
-last_updated: "2015-07-11"
+last_updated: "2015-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE SALUD PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 30 de abril de 1994.
 
@@ -141,9 +141,17 @@ XIX.- Prevención de la violencia familiar e intrafamiliar; y
 
 XX.- La prevención del consumo de narcóticos, atención a las adicciones y aplicación de las medidas de seguridad de los delitos contra la salud, en los términos del artículo 478 de la Ley General de Salud, y
 
-> <small>(ADICIONADA, P.O. 25 DE MAYO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XXI.- Las demás que establezca la Ley General de Salud y otras disposiciones jurídicas aplicables.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+XXI.- La reconstrucción mamaria como consecuencia de una mastectomía por tratamiento de cáncer de seno, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+XXII.- Las demás que establezca la Ley General de Salud y otras disposiciones jurídicas aplicables.
 
 B) En materia de salubridad local;
 
@@ -485,9 +493,13 @@ I.- La educación para la salud, la promoción del saneamiento básico y el mejo
 
 II.- La prevención y el control de las enfermedades transmisibles de atención prioritaria, de las no transmisibles más frecuentes y de los accidentes;
 
-> <small>(REFORMADA, P.O. 21 DE MAYO DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-III.- La atención médica integral, que comprende la atención médica integrada de carácter preventivo, acciones curativas, paliativas y de rehabilitación, incluyendo la atención de urgencias.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+III.- La atención médica integral, que comprende las acciones de carácter preventivo, curativo, paliativo, de urgencias, y de rehabilitación, incluyendo la reconstrucción mamaria, previo dictamen médico emitido por los Servicios de Salud de Nayarit, como parte de rehabilitación a quien se le haya realizado una mastectomía como tratamiento de cáncer de seno;
+
+> <small>(REFORMADA, P.O. 21 DE MAYO DE 2014)</small>
 
 Para efectos del párrafo anterior, la atención médica integrada de carácter preventivo consiste en realizar todas las acciones de prevención y promoción para la protección de la salud, de acuerdo con la edad, sexo y los determinantes físicos y psíquicos de las personas, realizadas preferentemente en una sola consulta.
 
@@ -541,9 +553,11 @@ I.- Preventivas, que incluyen las de promoción general y las de protección esp
 
 II.- Curativas, que tienen como fin efectuar diagnóstico temprano y proporcionar tratamiento oportuno, y;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-III.- De rehabilitación, que incluyen acciones tendientes a corregir las discapacidades físicas y mentales.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+III.- De rehabilitación, que incluyen acciones tendientes a optimizar las capacidades y funciones de las personas con discapacidad física y mental, así como la reconstrucción mamaria derivada de la realización de una mastectomía como tratamiento del cáncer de seno.
 
 ### CAPITULO III. PRESTADORES DE SERVICIOS DE SALUD
 
@@ -607,9 +621,13 @@ Los Servicios de Salud de Nayarit coadyuvarán con las autoridades educativas co
 
 Para los efectos de esta ley, se considera usuario de servicios de salud a toda persona que requiera y obtenga los que presten los sectores públicos, social y privado, en las condiciones y conforme a las bases que para cada modalidad se establezcan en esta ley y demás disposiciones aplicables.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 44.
 
-Los usuarios tendrán derecho a obtener prestaciones de salud oportuna y de calidad idónea y a recibir atención profesional y éticamente responsable, así como trato respetuoso y digno de los profesionales, técnicos y auxiliares.
+Los usuarios tendrán derecho a obtener prestaciones de salud oportuna, profesional, ética y de calidad idónea, así como la orientación necesaria respecto a riesgos, efectos y alternativas de los procedimientos, diagnósticos terapéuticos, quirúrgicos y de rehabilitación que se le indiquen o apliquen, teniendo un trato respetuoso y digno de los profesionales, técnicos y auxiliares.
 
 ###### ARTICULO 45.
 
@@ -1311,15 +1329,29 @@ La educación para la salud tiene por objeto:
 
 I.- Fomentar en la población el desarrollo de actitudes y conductas que le permitan participar en la prevención de enfermedades individuales, colectivas y accidentes, y proteger de los riesgos que pongan en peligro su salud;
 
-II.- Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
-III.- Orientar y capacitar a la población preferentemente en materias de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, riesgos en embarazos tempranos y de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de servicios de salud, prevención de accidentes, prevención y rehabilitación de discapacidad y detección oportuna de enfermedades; y
+II.- Proporcionar a la población los conocimientos sobre las causas de las enfermedades y de los daños provocados por los efectos nocivos del ambiente en la salud;
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2000)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-IV.- Prevenir a las personas, sobre todo a los jefes de familia, hombres o mujeres respecto a los efectos negativos que sobre la salud tiene la violencia intrafamiliar y el maltrato a los niños.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+III.- Orientar y capacitar a la población preferentemente en materias de nutrición, salud mental, salud bucal, educación sexual, planificación familiar, riesgos en embarazos tempranos y de automedicación, prevención de la farmacodependencia, salud ocupacional, uso adecuado de servicios de salud, prevención de accidentes, prevención y rehabilitación de discapacidad y detección oportuna de enfermedades;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+IV.- Prevenir a las personas, sobre todo a los jefes de familia, hombres o mujeres respecto a los efectos negativos que sobre la salud tiene la violencia intrafamiliar y el maltrato a los niños, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+V.- Que los usuarios reciban información, suficiente, clara, oportuna y veraz respecto a la rehabilitación del padecimiento que enfrentan, fomentando la inserción biopsicosocial.
 
 ###### ARTICULO 95.
 
@@ -3144,3 +3176,11 @@ P.O. 25 DE MARZO DE 2015.
 P.O. 11 DE JULIO DE 2015.
 
 Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+P.O. 22 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO QUE REFORMA Y ADICIONA DIVERSOS ARTÍCULOS DE LA LEY DE SALUD PARA EL ESTADO DE NAYARIT".]
+
+Primero. El presente decreto entrará en vigor a partir del primero de enero del año dos mil dieciséis, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
+
+Segundo. Los Servicios de Salud de Nayarit contarán con un plazo de 90 días hábiles, contados a partir de la entrada en vigor del presente decreto, a fin de que realicen las adecuaciones reglamentarias, administrativas y demás que resulten necesarias para su plena eficacia.
