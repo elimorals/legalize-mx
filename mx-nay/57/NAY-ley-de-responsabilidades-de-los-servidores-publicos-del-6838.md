@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-responsabilidades-de-los-servidores-publicos-del-6838"
 country: "mx"
 rank: "ley"
 publication_date: "1984-02-01"
-last_updated: "2013-11-19"
+last_updated: "2015-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6838&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2015.
 
 Ley Publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el Miércoles 1 de Febrero de 1984.
 
@@ -513,9 +513,9 @@ XXVII. Obtener y conservar, en los términos de la normativa, la documentación 
 
 XXVIII. Cumplir con las disposiciones generales en materia de programación, presupuestación, ejercicio, control y evaluación del gasto público establecidas en la ley, el reglamento así como en el Presupuesto de Egresos;
 
-> <small>(ADICIONADA, P. O. 20 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
-XXIX. No distraer de su objeto legal dinero, bienes o valores públicos para usos propios o ajenos, si por razón de sus funciones los hubieren recibido en administración, depósito o por otra causa;
+XXIX. No distraer de su objeto legal dinero, bienes o valores públicos para usos propios o ajenos, si por razón de sus funciones los hubieren recibido en administración, depósito, recaudado para su enteramiento, transferencia o por otra causa;
 
 > <small>(ADICIONADA, P. O. 20 DE JULIO DE 2011)</small>
 
@@ -631,9 +631,9 @@ Este último plazo de inhabilitación también será aplicable por infracciones 
 
 En el caso de infracciones graves se impondrá, además, la sanción de destitución.
 
-> <small>(REFORMADO, P. O. 20 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
-En todo caso, son infracciones graves el incumplimiento a las obligaciones previstas en las fracciones VIII, X a XIV, XVI, XIX, XXII, XXIII, XXX, XXXI y XXXII del artículo 54 de esta ley.
+En todo caso, son infracciones graves el incumplimiento a las obligaciones previstas en las fracciones VIII, X a XIV, XVI, XIX, XXII, XXIII, XXIX, XXX, XXXI y XXXII del artículo 54 de esta ley.
 
 Para que una persona que hubiere sido inhabilitada en los términos de la ley por un plazo mayor de diez años, pueda volver a desempeñar un empleo, cargo o comisión en el servicio público una vez transcurrido el plazo de la inhabilitación impuesta, se requerirá que lo haga saber bajo protesta de decir verdad y el titular de la dependencia o entidad a la que pretenda ingresar, dé aviso a la Secretaría o a la Contraloría Interna, según corresponda, en forma razonada y justificada, de tal circunstancia.
 
@@ -1232,3 +1232,13 @@ P.O. 19 DE NOVIEMBRE DE 2013.
 Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 Artículo Segundo. Se derogan todas las disposiciones legales y administrativas que contravengan el presente decreto.
+
+P.O. 22 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DEL PATRONATO PARA ADMINISTRAR EL IMPUESTO ESPECIAL DESTINADO A LA UNIVERSIDAD AUTÓNOMA DE NAYARIT Y DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE NAYARIT”.]
+
+Artículo primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit.
+
+Artículo segundo.- Con la finalidad de dar cumplimiento a lo previsto en el párrafo primero de la fracción V del artículo 5º de la Ley del Patronato para Administrar el Impuesto Especial destinado a la Universidad Autónoma de Nayarit, las recaudadoras que culminan su periodo en el año 2017, deberán instrumentar los mecanismos financieros y jurídicos, para convenir con el representante legal del Patronato, la forma y plazos para enterar y acreditar a más tardar el 31 de diciembre del 2016, la totalidad de los pasivos que tienen con motivo del impuesto especial destinado a la Universidad Autónoma de Nayarit, tanto de administraciones anteriores como la vigente. Posterior a ello, aplicará ordinariamente lo previsto en el párrafo primero, fracción V, del artículo 5 de la ley citada en este párrafo.
+
+Artículo tercero.- Los recursos que se obtengan con motivo de la regularización de los adeudos de administraciones anteriores, deberán ser utilizados preferentemente para infraestructura y equipamiento, de conformidad a lo establecido en la fracción IV del artículo 4 º de la Ley del Patronato para Administrar el Impuesto Especial destinado a la Universidad Autónoma de Nayarit.
