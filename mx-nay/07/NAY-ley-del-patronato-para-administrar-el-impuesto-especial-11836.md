@@ -4,7 +4,7 @@ identifier: "NAY-ley-del-patronato-para-administrar-el-impuesto-especial-11836"
 country: "mx"
 rank: "ley"
 publication_date: "1995-11-29"
-last_updated: "2014-07-26"
+last_updated: "2015-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11836&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 LEY DEL PATRONATO PARA ADMINISTRAR EL IMPUESTO ESPECIAL DESTINADO A LA UNIVERSIDAD AUTÓNOMA DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el miércoles 29 de noviembre de 1995.
 
@@ -41,7 +41,7 @@ El H. Congreso del Estado Libre y Soberano de Nayarit, representado por su XXIV 
 
 D E C R E T A :
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 20 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE DICIEMBRE DE 2008)</small>
 
 LEY DEL PATRONATO PARA ADMINISTRAR EL IMPUESTO ESPECIAL DESTINADO A LA UNIVERSIDAD AUTÓNOMA DE NAYARIT
 
@@ -117,15 +117,27 @@ VII.- Para cubrir los gastos de administración y funcionamiento del patronato, 
 
 El monto del impuesto especial, será recaudado y enterado de conformidad a las siguientes disposiciones:
 
-I.- Las recaudadoras deben enterar el impuesto al Patronato, en un plazo máximo de cinco días hábiles después de cada mes recaudado.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+I.- Las recaudadoras deben enterar el impuesto al Patronato, en un plazo máximo de veinte días hábiles después de cada mes recaudado;
 
 II.- Es obligación de los recaudadores de este impuesto contar con una cuenta bancaria específica para la recepción del ingreso y previa autorización de la autoridad correspondiente otorgar mandato especial e irrevocable a la institución bancaria en la que se aperture dicha cuenta, facultándola para transferir la totalidad de los saldos disponibles a la cuenta bancaria y número de referencia que proporcione el Patronato;
 
-III.- Las recaudadoras presentarán dentro de los cinco primeros días hábiles de cada mes, un informe ante el Patronato que registre las operaciones realizadas y el monto al que asciende los enteros realizados durante el mes inmediato anterior;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+III.- Las recaudadoras presentarán dentro de los veinte días hábiles de cada mes, un informe ante el Patronato que registre las operaciones realizadas y el monto al que asciende (sic) los enteros durante el mes inmediato anterior, debiendo justificar que la transferencia bancaria fue efectuada oportunamente;
 
 IV.- Los informes a los que hace referencia la fracción anterior, además deberán formar parte del avance de gestión financiera que rinden trimestralmente las autoridades recaudadoras al Órgano de Fiscalización Superior del Estado, y
 
-V.- El incumplimiento a las disposiciones previstas en el presente artículo constituirán conductas ilícitas que serán sancionadas de conformidad al tipo penal en el que encuadre la conducta del infractor. Lo anterior, sin perjuicio de las responsabilidades políticas o administrativas a que haya lugar.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+V.- Las recaudadoras deberán estar al corriente en los depósitos mensuales de dicho impuesto, de tal manera, que al momento de concluir el periodo de su gobierno, el único saldo deudor sea el del último mes de su administración, el cual le corresponderá reportar a la administración entrante.
+
+El incumplimiento a la obligación mencionada en el párrafo anterior, será considerado como infracción grave de acuerdo a lo previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado de Nayarit.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+Lo anterior, sin perjuicio de las responsabilidades políticas, administrativas o penales a que haya lugar, por el incumplimiento a las disposiciones previstas en este artículo.
 
 ### CAPITULO II. Del Patronato
 
@@ -171,7 +183,7 @@ V. No estar al servicio de la Federación, el Estado o los Municipios, ni ser fu
 
 VI. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión, pero si se tratare de algún delito patrimonial u otro que lastime seriamente la buena fama en el concepto público universitario, inhabilitará para el cargo cualquiera que haya sido la pena.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE DICIEMBRE DE 2008)</small>
 
 ###### ARTICULO 8o.
 
@@ -305,7 +317,7 @@ El Secretario General de Gobierno
 
 Lic. Sigfrido de la Torre Miramontes
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 20 DE DICIEMBRE DE 2008.
 
@@ -326,3 +338,13 @@ Cuarto.- Se derogan todas las disposiciones contenidas en diversos ordenamientos
 Quinto.- Dentro de los quince días hábiles siguientes a la entrada en vigor del presente decreto, los ayuntamientos por conducto de las tesorerías municipales deberán informar al Patronato los montos recaudados durante el ejercicio fiscal en curso, así como los cinco ejercicios fiscales inmediatos anteriores y en su caso los montos pendientes de enterar.
 
 Sexto.- Dentro de un plazo no mayor a 20 días hábiles contados a partir de la entrada en vigor de la presente reforma, las recaudadoras deberán suscribir con las instituciones bancarias de su elección el contrato de mandato especial e irrevocable. Dicho plazo, previo aviso al Patronato, podrá prorrogarse por 15 días hábiles adicionales, pero invariablemente los recursos deberán enterarse en su totalidad a la cuenta bancaria que proporcionará el Patronato.
+
+P.O. 22 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DEL PATRONATO PARA ADMINISTRAR EL IMPUESTO ESPECIAL DESTINADO A LA UNIVERSIDAD AUTÓNOMA DE NAYARIT Y DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE NAYARIT”.]
+
+Artículo primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, órgano del Gobierno del Estado de Nayarit.
+
+Artículo segundo.- Con la finalidad de dar cumplimiento a lo previsto en el párrafo primero de la fracción V del artículo 5º de la Ley del Patronato para Administrar el Impuesto Especial destinado a la Universidad Autónoma de Nayarit, las recaudadoras que culminan su periodo en el año 2017, deberán instrumentar los mecanismos financieros y jurídicos, para convenir con el representante legal del Patronato, la forma y plazos para enterar y acreditar a más tardar el 31 de diciembre del 2016, la totalidad de los pasivos que tienen con motivo del impuesto especial destinado a la Universidad Autónoma de Nayarit, tanto de administraciones anteriores como la vigente. Posterior a ello, aplicará ordinariamente lo previsto en el párrafo primero, fracción V, del artículo 5 de la ley citada en este párrafo.
+
+Artículo tercero. Los recursos que se obtengan con motivo de la regularización de los adeudos de administraciones anteriores, deberán ser utilizados preferentemente para infraestructura y equipamiento, de conformidad a lo establecido en la fracción IV del artículo 4º de la Ley del Patronato para Administrar el Impuesto Especial destinado a la Universidad Autónoma de Nayarit.
