@@ -4,7 +4,7 @@ identifier: "GUA-constitucion-politica-del-estado-libre-y-soberano-de-5327"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-18"
-last_updated: "2015-12-11"
+last_updated: "2015-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2015.
 
 Constitución publicada en el Periódico Oficial del Estado de Guanajuato, el 18 de octubre de 1917.
 
@@ -1275,13 +1275,13 @@ XVI.- Autorizar al Ejecutivo del Estado para que ejerza cualquier acto de domini
 
 XVII.- Desafectar los bienes destinados a un servicio público o los de uso común del Estado;
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
-XVIII.- Fiscalizar la cuenta pública del Poder Ejecutivo incluyendo la de las entidades y organismos de la administración pública paraestatal, del Poder Judicial y de los organismos autónomos por Ley; de igual manera, verificar el desempeño en el cumplimiento de los objetivos de los programas. Para tal efecto, el Congreso se apoyará en el Órgano de Fiscalización Superior, en los términos de la Ley Reglamentaria correspondiente;
+XVIII.- Fiscalizar la cuenta pública del Poder Ejecutivo incluyendo la de las entidades y organismos de la administración pública paraestatal, del Poder Judicial y de los organismos autónomos; de igual manera, verificar el desempeño en el cumplimiento de los objetivos de los programas. Para tal efecto, el Congreso se apoyará en la Auditoría Superior del Estado de Guanajuato, en los términos de la Ley;
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
-XIX.- Fiscalizar las cuentas públicas municipales incluyendo las de las entidades y organismos de la administración pública paramunicipal; de igual manera, verificar el desempeño en el cumplimiento de los objetivos de los programas. Para tal efecto, el Congreso se apoyará en el Órgano de Fiscalización Superior, a que se refiere la fracción anterior;
+XIX.- Fiscalizar las cuentas públicas municipales incluyendo las de las entidades y organismos de la administración pública paramunicipal; de igual manera, verificar el desempeño en el cumplimiento de los objetivos de los programas. Para tal efecto, el Congreso se apoyará en la Auditoría Superior del Estado de Guanajuato;
 
 XX.- Nombrar y remover a sus empleados. Estas facultades las tendrá la Diputación Permanente en las épocas en que el Congreso no esté en Período Ordinario de Sesiones;
 
@@ -1339,17 +1339,15 @@ XXVI.- Reclamar ante la Suprema Corte de Justicia de la Nación, cuando alguna r
 
 XXVII.- Decidir sobre las licencias que soliciten los Diputados y el Gobernador del Estado para separarse de sus respectivos cargos;
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2003)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
 XXVIII.- Acordar con el voto de las dos terceras partes del total de sus integrantes la práctica de auditorías a los sujetos de fiscalización, cuando exista causa justificada para ello.
 
-Vigilar y evaluar, sin perjuicio de su autonomía técnica, de gestión y presupuestaria, el desempeño del Órgano de Fiscalización Superior, en los términos que disponga la Ley.
+Vigilar y evaluar, sin perjuicio de su autonomía técnica, de gestión y presupuestaria, el desempeño de la Auditoría Superior del Estado de Guanajuato, en los términos que disponga la Ley.
 
-Remitir, en los términos de la Ley, al Órgano de Fiscalización Superior las cuentas públicas de los sujetos de fiscalización.
+Remitir, en los términos de la Ley, a la Auditoría Superior del Estado de Guanajuato las cuentas públicas de los sujetos de fiscalización.
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2012)</small>
-
-Declarar la revisión de cuentas públicas, en los términos del informe de resultados que hubiere emitido el Órgano de Fiscalización Superior, dentro de los seis meses siguientes a la presentación de dicho informe y ordenar su publicación en el Periódico Oficial del Gobierno del Estado;
+Declarar la revisión de cuentas públicas, en los términos del informe de resultados que hubiere emitido la Auditoría Superior del Estado de Guanajuato, dentro de los seis meses siguientes a la presentación de dicho informe y ordenar su publicación en el Periódico Oficial del Gobierno del Estado;
 
 XXIX.- Por acuerdo de las dos terceras partes de sus integrantes, suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por algunas de las causas graves que la Ley limitativamente prevenga, siempre y cuando los afectados hayan tenido oportunidad para rendir pruebas y hacer los alegatos que, a su juicio, convengan;
 
@@ -1405,31 +1403,37 @@ IX.- Las demás consignadas de modo expreso en esta Constitución.
 
 #### SECCION SEXTA. DE LA FISCALIZACION SUPERIOR DEL ESTADO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE MAYO DE 2012)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 66.
 
-El Órgano de Fiscalización Superior del Congreso del Estado tendrá autonomía técnica, de gestión y presupuestaria en el cumplimiento de sus atribuciones. La función de fiscalización será ejercida conforme a los principios de posterioridad, objetividad, independencia, transparencia, legalidad, definitividad, imparcialidad, confiabilidad y profesionalismo.
+La Auditoría Superior del Estado de Guanajuato tiene autonomía técnica, de gestión y presupuestaria en el cumplimiento de sus atribuciones. La función de fiscalización será ejercida conforme a los principios de objetividad, independencia, transparencia, legalidad, definitividad, imparcialidad, confiabilidad y profesionalismo.
 
 > <small>(REFORMADO, P.O. 15 DE MAYO DE 2012)</small>
 
 Son sujetos de fiscalización, las entidades señaladas en las fracciones XVIII y XIX del Artículo 63 de esta Constitución, así como el Poder Legislativo. La función fiscalizadora también comprende los recursos públicos que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, mandatos, fondos o cualquier otra figura jurídica; asimismo, estas entidades deberán llevar el control y registro contable, patrimonial y presupuestario de los recursos públicos que se les hayan destinado.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
-Los organismos autónomos presentarán al Congreso del Estado su cuenta pública trimestralmente y su concentrado anual, en la forma y términos que establezca la Ley.
+Los sujetos de fiscalización presentarán al Congreso del Estado los informes financieros y su cuenta pública con la periodicidad, forma y términos que establezca la Ley.
 
 > <small>(REFORMADO, P.O. 15 DE ABRIL DE 2003)</small>
 
 Los sujetos de fiscalización están obligados a suministrar al Congreso del Estado, por conducto de su órgano de apoyo, los datos, documentos, antecedentes o cualquier otra información que éste les solicite, relacionados con el ejercicio de la función fiscalizadora.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
-El Órgano de Fiscalización Superior tendrá las siguientes atribuciones:
+La Auditoría Superior del Estado de Guanajuato tiene las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 15 DE MAYO DE 2012)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
-I.- Analizar, evaluar y comprobar las cuentas públicas, de conformidad con los programas que para el efecto se aprueben por el Órgano. Si del examen que se realice aparecieran discrepancias entre los ingresos o los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley. En el caso de la revisión sobre el cumplimiento de los objetivos de los programas, el Órgano de Fiscalización Superior sólo podrá emitir las recomendaciones para la mejora en el desempeño de los mismos, en los términos de la Ley;
+I.- Analizar, evaluar y comprobar las cuentas públicas, de conformidad con los programas que para el efecto se aprueben por dicha Auditoría. Si del examen que se realice aparecieran discrepancias entre los ingresos o los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley. Asimismo, realizará auditorías de desempeño en el cumplimiento de objetivos y metas contenidos en los programas y sólo podrá emitir las recomendaciones para la mejora en el desempeño de los mismos, en los términos de la Ley.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+La Auditoria Superior del Estado de Guanajuato podrá solicitar información para fines de planeación de la fiscalización, así como analizar la información financiera en los términos de la Ley;
 
 > <small>(REFORMADA, P.O. 15 DE MAYO DE 2012)</small>
 
@@ -1459,9 +1463,9 @@ VII.- Dictaminar la probable responsabilidad y promover el fincamiento de sancio
 
 VIII.- Informar al Congreso del Estado, en los términos de la Ley, del resultado de la revisión de la cuenta pública y demás asuntos derivados de la fiscalización, incluyendo los dictámenes, informes de resultados, comentarios y observaciones de las auditorías;
 
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
-El Órgano de Fiscalización Superior deberá guardar reserva de sus actuaciones hasta que se sancione el Informe de Resultados por el Congreso del Estado, de conformidad con lo establecido en la fracción XXVIII del artículo 63 de esta Constitución;
+La Auditoría Superior del Estado de Guanajuato deberá guardar reserva de sus actuaciones hasta que se sancione el Informe de Resultados por el Congreso del Estado, de conformidad con lo establecido en la fracción XXVIII del artículo 63 de esta Constitución;
 
 > <small>(REFORMADA, P.O. 15 DE ABRIL DE 2003)</small>
 
@@ -1475,23 +1479,25 @@ X.- Expedir su reglamento interior y emitir las disposiciones administrativas co
 
 XI.- Celebrar, en los términos de Ley, convenios de coordinación y colaboración con otras entidades u órganos de fiscalización.
 
-> <small>(ADICIONADO, P.O. 15 DE MAYO DE 2012)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
-El Órgano de Fiscalización Superior podrá solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la cuenta pública en revisión, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión, abarque para su ejecución y pago diversos ejercicios fiscales, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la cuenta pública del ejercicio al que pertenece la información solicitada. Las observaciones y recomendaciones que, respectivamente, el Órgano de Fiscalización Superior emita, sólo podrán referirse al ejercicio de los recursos públicos de la cuenta pública en revisión.
+La Auditoría Superior del Estado de Guanajuato podrá solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la cuenta pública en revisión, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión, abarque para su ejecución y pago diversos ejercicios fiscales, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la cuenta pública del ejercicio al que pertenece la información solicitada. Las observaciones y recomendaciones que, respectivamente, la Auditoría Superior del Estado de Guanajuato emita, sólo podrán referirse al ejercicio de los recursos públicos de la cuenta pública en revisión.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
-En situaciones excepcionales que determine la Ley, el Órgano de Fiscalización Superior podrá requerir a los sujetos de fiscalización que procedan a la revisión de conceptos que estime pertinentes y le rindan un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la Ley, se procederá de conformidad en lo dispuesto en las fracciones VI y VII de este Artículo. Lo anterior, sin perjuicio de que se realicen las auditorías que procedan.
+En situaciones excepcionales que determine la Ley, la Auditoría Superior del Estado de Guanajuato podrá requerir a los sujetos de fiscalización que procedan a la revisión de conceptos que estime pertinentes y le rindan un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señaladas por la Ley, se procederá de conformidad en lo dispuesto en las fracciones VI y VII de este artículo. Lo anterior, sin perjuicio de que se realicen las auditorías que procedan.
 
-> <small>(REFORMADO, P.O. 15 DE ABRIL DE 2003)</small>
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
-El titular del Órgano de Fiscalización Superior, será designado por el voto de las dos terceras partes de los miembros de la Legislatura, de entre la terna que presente el órgano de gobierno interior del Congreso del Estado previa convocatoria que para tal efecto se expida. La Ley determinará el procedimiento para su designación.
+La Auditoría Superior del Estado de Guanajuato, podrá investigar hechos denunciados sobre presuntas irregularidades en el manejo, aplicación o custodia de los recursos públicos, y en su caso, ordenar la práctica de una auditoría o remitir al Congreso del Estado el expediente para los efectos de su competencia.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 15 DE MAYO DE 2012)</small>
+El titular de la Auditoría Superior del Estado de Guanajuato, será designado por el voto de las dos terceras partes de los miembros de la Legislatura, de entre la terna que presente el órgano de gobierno interior del Congreso del Estado previa convocatoria que para tal efecto se expida. La Ley determinará el procedimiento para su designación.
 
-El titular del Órgano de Fiscalización Superior, deberá cumplir con los requisitos señalados en las fracciones I, II, V y VI del Artículo 86 de esta Constitución, además de los que disponga la Ley. Durará en su encargo siete años y podrá ser designado nuevamente por una sola vez; durante el ejercicio de su cargo únicamente podrá ser removido por las causas graves que la Ley señale y con el voto de las dos terceras partes de los miembros de la Legislatura.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+El titular de la Auditoría Superior Estado de Guanajuato, deberá cumplir con los requisitos señalados en las fracciones I, II, V y VI del artículo 86 de esta Constitución, además de los que disponga la Ley. Durará en su encargo siete años y podrá ser designado nuevamente por una sola vez; durante el ejercicio de su cargo únicamente podrá ser removido por las causas graves que la Ley señale y con el voto de las dos terceras partes de los miembros de la Legislatura.
 
 > <small>(REFORMADO, P.O. 17 DE FEBRERO DE 1984)</small>
 
@@ -1639,9 +1645,9 @@ IV.- Procurar la conservación del orden, y vigilar la tranquilidad y la segurid
 
 V.- Rendir, ante el Congreso del Estado, el Informe a que se refiere el Artículo 78 de este Ordenamiento;
 
-> <small>(REFORMADA, P.O. 15 DE ABRIL DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
-VI.- Presentar al Congreso del Estado las iniciativas de Ley del Presupuesto General de Egresos del Estado y de Ley de Ingresos del Estado, así como su Cuenta Pública trimestral y su concentrado anual, en la forma y términos que establezca la Ley.
+VI.- Presentar al Congreso del Estado las iniciativas de Ley del Presupuesto General de Egresos del Estado y de Ley de Ingresos del Estado, así como la información financiera y cuenta pública con la periodicidad, forma y términos que establezca la Ley.
 
 > <small>(ADICIONADO, P.O. 8 DE AGOSTO DE 2008)</small>
 
@@ -2079,9 +2085,9 @@ XXIX.- Proponer al Congreso del Estado la separación del cargo de un Magistrado
 
 XXX.- Nombrar y remover al titular del Órgano encargado de la Mediación y la Conciliación y al titular del Órgano de Administración. Ambos durarán en su cargo 3 años y sólo podrán ser designados por otro periodo consecutivo;
 
-> <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
-XXXI.- Presentar trimestralmente al Congreso del Estado, la Cuenta Pública del Poder Judicial y su concentrado anual, en la forma y términos que establezca la Ley; y
+XXXI.- Presentar al Congreso del Estado, la información financiera y la cuenta pública del Poder Judicial, con la periodicidad, forma y términos que establezcan las disposiciones aplicables y la Ley; y
 
 > <small>(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2006)</small>
 
@@ -2539,7 +2545,9 @@ En dicho Presupuesto, se deberán autorizar las erogaciones plurianuales para aq
 
 En caso de que al iniciarse el año fiscal correspondiente, el Ayuntamiento no hubiese aprobado el Presupuesto de Egresos, en tanto sea aprobado, en lo conducente se continuará aplicando el vigente en el año inmediato anterior.
 
-Asimismo, presentar al Congreso del Estado, la cuenta pública del Municipio, en el plazo, forma y términos que establezca la Ley.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+Presentar al Congreso del Estado la información financiera y la cuenta pública del Municipio, con la periodicidad, forma y términos que establezcan las disposiciones aplicables y la Ley;
 
 > <small>(ADICIONADO, P.O. 5 DE MARZO DE 2010)</small>
 
@@ -3770,3 +3778,11 @@ Artículo Tercero. Se deroga el Artículo Tercero Transitorio del Decreto númer
 P.O. 11 DE DICIEMBRE DE 2015.
 
 Artículo Único. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE DICIEMBRE DE 2015.
+
+Artículo Primero. El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Artículo Segundo. La reforma que por virtud del presente Decreto se hace al artículo 66, primer párrafo, en cuanto a los principios que se establecen en el mismo, estará supeditada en su vigencia a lo dispuesto en el Artículo Segundo Transitorio del Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de combate a la corrupción, publicado en el Diario Oficial de la Federación con fecha 27 de mayo de 2015, por lo que en tanto se seguirán vigentes los principios establecidos en dicho numeral para la función de fiscalización.
+
+Artículo Tercero. Todas las referencias al Órgano de Fiscalización Superior, se entenderán hechas a la Auditoría Superior del Estado de Guanajuato.
