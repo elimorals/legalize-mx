@@ -4,7 +4,7 @@ identifier: "NAY-codigo-civil-para-el-estado-de-nayarit-6805"
 country: "mx"
 rank: "codigo"
 publication_date: "1981-08-22"
-last_updated: "2015-05-27"
+last_updated: "2015-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6805&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NAY"
 
 CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2015.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Nayarit, el sábado 22 de Agosto de 1981.
 
@@ -743,9 +743,9 @@ II.- La constancia de que prestan su consentimiento para que el matrimonio se ce
 
 III.- La declaración de dos testigos mayores de edad que conozcan a los pretendientes y les conste que no tienen impedimento legal para casarse. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos;
 
-> <small>(REFORMADA, P.O. 4 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
-IV.- Un certificado suscrito por un médico, que asegure, bajo protesta de decir verdad, que los pretendientes, no padecen enfermedad alguna crónica e incurable que sea además contagiosa; ni que sean adictos a las drogas enervantes y en el caso del varón, que no sufre de impotencia incurable para la cópula;
+IV.- Un certificado suscrito por un médico, que asegure, bajo protesta de decir verdad, que los pretendientes, no padecen enfermedad alguna crónica e incurable que sea además contagiosa; ni que sean adictos a las drogas enervantes.
 
 Para los indigentes tienen obligación de expedir gratuitamente este certificado los médicos encargados de los servicios oficiales de salud del Estado.
 
@@ -1085,7 +1085,7 @@ La aclaración de las actas del estado civil, procede cuando en el registro exis
 
 ### CAPITULO I. Disposiciones generales
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
 ## TITULO QUINTO
 
@@ -1101,19 +1101,19 @@ De los requisitos para contraer matrimonio.
 
 ###### Artículo 135.
 
-El matrimonio es un contrato civil, por el cual un sólo hombre y una sola mujer, se unen en sociedad para perpetuar la especie, con respeto entre ambos, igualdad y ayuda mutua.
+El matrimonio es un contrato civil, por el cual dos personas, se unen en sociedad para realizar vida en común, procurando entre ambos respeto, igualdad y ayuda mutua.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 136.
 
-El concubinato es la unión de hecho entre un hombre y una mujer, que realizan en forma continua, pública e ininterrumpida una vida en común de manera notoria y permanente, sin que medie en ellos vínculo matrimonial.
+El concubinato es la unión de hecho entre dos personas, que realizan en forma continua, pública e ininterrumpida una vida en común de manera notoria y permanente, sin que medie vínculo matrimonial entre sí, o con terceras personas.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 137.
 
-El concubinato solo podrá acreditarse si la relación ha sido además de pública, a titulo de marido y mujer por más de dos años en forma continua o con la procreación de hijos.
+El concubinato solo podrá acreditarse si la relación ha sido además de pública, a título de cónyuges por más de dos años en forma continua, con o sin la procreación de hijos.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE JUNIO DE 2011)</small>
 
@@ -1147,17 +1147,17 @@ De los derechos y obligaciones que nacen del matrimonio.
 
 El matrimonio debe celebrarse ante la autoridad que establece la ley con las formalidades y solemnidad que ella exige.
 
-> <small>(REFORMADO, P.O. 4 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 143.
 
-Cualquiera condición contraria a la perpetuación de la especie o a la ayuda mutua que se deben los cónyuges, no tendrá efecto jurídico alguno.
+Cualquiera condición contraria a la ayuda mutua que se deben los cónyuges, no tendrá efecto jurídico alguno.
 
-> <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 144.
 
-Podrán contraer matrimonio el hombre y la mujer que hayan cumplido dieciocho años de edad. La autoridad judicial competente puede conceder dispensas de edad por causas graves y justificadas.
+Podrán contraer matrimonio las personas que hayan cumplido dieciocho años de edad. La autoridad judicial competente puede conceder dispensas de edad por causas graves y justificadas.
 
 > <small>(REFORMADO, P.O. 13 DE DICIEMBRE DE 2013)</small>
 
@@ -1307,9 +1307,11 @@ El marido y la mujer tendrán en el hogar autoridad y consideraciones iguales, p
 
 Los cónyuges podrán desempeñar cualquier actividad excepto las que dañen la moral de la familia o la estructura de ésta. Cualquiera de ellos podrá oponerse a que el otro desempeñe la actividad de que se trata y la autoridad judicial competente resolverá sobre la oposición.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 166.
 
-El marido y la mujer, mayores de edad, tienen capacidad para administrar, contratar o disponer de sus bienes propios, y ejecutar las acciones u oponer las excepciones que a ellos correspondan, sin que para tal objeto necesite el esposo del consentimiento de la esposa, ni ésta de la autorización de aquél; salvo lo que se estipule en las capitulaciones matrimoniales sobre administración de los bienes.
+Los cónyuges, mayores de edad, tienen capacidad para administrar, contratar o disponer de sus bienes propios, y ejecutar las acciones u oponer las excepciones que a ellos correspondan, sin que para tal objeto necesiten del consentimiento o autorización de su consorte; salvo lo que se estipule en las capitulaciones matrimoniales sobre administración de los bienes.
 
 ###### Artículo 167.
 
@@ -1329,9 +1331,11 @@ El marido y la mujer, menores de edad, tendrán la administración de sus bienes
 
 El contrato de compraventa puede celebrarse entre los cónyuges cuando el matrimonio esté sujeto al régimen de separación de bienes, tratándose de la sociedad conyugal se requiere que el contrato se acompañe de las capitulaciones matrimoniales en las que conste que el bien de que se trata se encuentra fuera del patrimonio común.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 171.
 
-El marido y la mujer, durante el matrimonio, podrán ejercitar los derechos y acciones que tengan el uno en contra del otro, pero la prescripción entre ellos no corre mientras dure el matrimonio.
+Los cónyuges, durante el matrimonio, podrán ejercitar los derechos y acciones que tengan el uno en contra del otro, pero la prescripción entre ellos no corre mientras dure el matrimonio.
 
 ### CAPITULO V
 
@@ -1557,17 +1561,23 @@ Serán también propios de cada uno de los consortes los salarios, sueldos, emol
 
 Los bienes que los cónyuges adquieran en común por donación, herencia, legado, por cualquiera otro título gratuito o por don de la fortuna, entretanto se hace la división, serán administrados por ambos o por uno de ellos con acuerdo del otro; pero en ese caso, el que administre será considerado como mandatario.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 209.
 
-Ni el marido podrá cobrar a la mujer ni ésta a aquél retribución u honorario alguno por los servicios personales que le prestare, o por los consejos y asistencia que le diere; pero si uno de los consortes, por causa de ausencia o impedimento del otro, no originado por enfermedad, se encargare temporalmente de la administración de sus bienes, tendrá derecho a que se le retribuya por este servicio, en proporción a su importancia y al resultado que produjere.
+Los cónyuges no podrán cobrarse retribución u honorario alguno por los servicios personales que se prestaren, o por los consejos y asistencia que se dieren; pero si uno de los consortes, por causa de ausencia o impedimento del otro, no originado por enfermedad, se encargare temporalmente de la administración de sus bienes, tendrá derecho a que se le retribuya por este servicio, en proporción a su importancia y al resultado que produjere.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 210.
 
-El marido y la mujer que ejerzan la patria potestad se dividirán entre sí, por partes iguales, la mitad del usufructo que la ley les concede.
+Los cónyuges que ejerzan la patria potestad se dividirán entre sí, por partes iguales, la mitad del usufructo que la ley les concede.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 211.
 
-El marido responde a la mujer y ésta a aquél de los daños y perjuicios que le cause por dolo, culpa o negligencia.
+Los cónyuges responden entre sí, de los daños y perjuicios que se causen por dolo, culpa o negligencia.
 
 ### CAPITULO VIII
 
@@ -2061,9 +2071,11 @@ El parentesco de consanguinidad es el que existe entre personas que descienden d
 
 En el caso de adopción, el parentesco generado por este acto es igual al de consanguinidad para todos los efectos jurídicos.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 287.
 
-El parentesco de afinidad es el que contrae por el matrimonio, entre el varón los parientes de la mujer y entre la mujer y los parientes del varón.
+El parentesco de afinidad es el que se contrae por el matrimonio, entre los cónyuges y los parientes de su consorte.
 
 ###### Artículo 288.
 
@@ -3389,6 +3401,8 @@ El adoptante que ejerza la patria potestad tiene derecho de nombrar tutor testam
 
 De la Tutela Legítima de los Mayores de Edad Incapacitados.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 473.
 
 Ha lugar a tutela legítima:
@@ -3423,7 +3437,7 @@ De la tutela legítima de los menores abandonados, expósitos y de los acogidos 
 
 ###### Artículo 477.
 
-El marido es tutor legítimo forzoso de su mujer, y ésta lo es de su marido.
+Los cónyuges son tutores legítimos forzosos el uno del otro.
 
 ###### Artículo 478.
 
@@ -3943,9 +3957,11 @@ El nombramiento de árbitros hecho por el tutor, deberá sujetarse a la aprobaci
 
 Para que el tutor transija, cuando el objeto de la reclamación consista en bienes inmuebles, muebles preciosos o bien en valores mercantiles o industriales cuya cuantía exceda de mil pesos, necesita el consentimiento del curador y de la aprobación judicial otorgada en audiencia de éste.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 560.
 
-Ni con licencia judicial, ni en almoneda o fuera de ella puede el tutor comprar o arrendar los bienes del incapacitado, ni hacer contrato alguno respecto de ellos, para sí, sus ascendientes, su mujer o marido, hijos o hermanos por consanguinidad o afinidad. Si lo hiciere, además de la nulidad del contrato, el acto será suficiente para que se le remueva.
+Ni con licencia judicial, ni en almoneda o fuera de ella puede el tutor comprar o arrendar los bienes del incapacitado, ni hacer contrato alguno respecto de ellos, para sí, sus ascendientes, cónyuge, hijos o hermanos por consanguinidad o afinidad. Si lo hiciere, además de la nulidad del contrato, el acto será suficiente para que se le remueva.
 
 ###### Artículo 561.
 
@@ -16318,3 +16334,9 @@ DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 221, 260, 261, 263, 265 PÁRRAFO P
 Primero.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
 
 Segundo.- Los asuntos iniciados con anterioridad a la entrada en vigor del presente decreto serán concluidos conforme a las disposiciones vigentes al momento en que se solicitó el proceso de divorcio.
+
+P.O. 22 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO QUE REFORMA DIVERSOS ARTÍCULOS DEL CÓDIGO CIVIL PARA EL ESTADO DE NAYARIT”.]
+
+Único.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Nayarit.
