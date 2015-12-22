@@ -4,7 +4,7 @@ identifier: "COA-ley-de-hacienda-para-el-estado-de-coahuila-de-zaragoza-84025"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-25"
-last_updated: "2015-10-23"
+last_updated: "2015-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84025&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,11 @@ state: "COA"
 
 [NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
 
-[NOTA 2: PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2015", PUBLICADA EN EL ORDINARIO DEL P.O. DE 26 DE DICIEMBRE DE 2014.]
+[NOTA 2: PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]
 
 LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2015
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 25 de noviembre de 2011.
 
@@ -329,25 +329,29 @@ Los contribuyentes que tengan derecho y se acojan a la opción establecida en el
 
 Los contribuyentes que se acojan a la opción señalada en el artículo 27 de esta ley, gozarán de un estímulo fiscal consistente en una reducción parcial del impuesto a su cargo, en el porcentaje que mediante Decreto establezca el Ejecutivo del Estado anualmente. Para tener derecho a este estímulo la declaración correspondiente al mes de enero, deberá presentarse dentro del plazo establecido en esta ley.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 30.
 
-Las empresas que contraten adultos mayores y/o personas con capacidades diferentes, tendrán derecho a los estímulos fiscales siguientes:
+Las empresas que contraten adultos mayores y/o personas con discapacidad, tendrán derecho a los estímulos fiscales siguientes:
 
-I. No se pagará el impuesto que se cause por las erogaciones correspondientes a las personas mayores o con capacidades diferentes.
+I. No se pagará el impuesto que se cause por las erogaciones correspondientes a las personas mayores o con discapacidad.
 
 II. Adicionalmente, tendrán derecho a las reducciones siguientes:
 
-1. El 20% del impuesto que se cause, cuando ocupen de un 4% hasta un 5% de su planta de trabajadores con personas mayores y/o con capacidades diferentes.
+1. El 20% del impuesto que se cause, cuando ocupen de un 4% hasta un 5% de su planta de trabajadores con personas mayores y/o con discapacidad.
 
-2. El 25% del impuesto que se cause, cuando ocupen más de un 5% hasta un 7% de su planta de trabajadores con personas mayores y/o con capacidades diferentes.
+2. El 25% del impuesto que se cause, cuando ocupen más de un 5% hasta un 7% de su planta de trabajadores con personas mayores y/o con discapacidad.
 
-3. El 30% del impuesto que se cause, cuando ocupen más de un 7% hasta un 10% de su planta de trabajadores con personas mayores y/o con capacidades diferentes.
+3. El 30% del impuesto que se cause, cuando ocupen más de un 7% hasta un 10% de su planta de trabajadores con personas mayores y/o con discapacidad.
 
-4. El 50% del impuesto que se cause, cuando ocupen más del 10% de su planta de trabajadores con personas mayores y/o con capacidades diferentes.
+4. El 50% del impuesto que se cause, cuando ocupen más del 10% de su planta de trabajadores con personas mayores y/o con discapacidad.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 31.
 
-Para tener derecho al estímulo que otorga el artículo anterior, los contribuyentes deberán señalar en las declaraciones del Impuesto sobre Nóminas, el número de personas mayores o con capacidades diferentes que trabajen en la empresa y su remuneración.
+Para tener derecho al estímulo que otorga el artículo anterior, los contribuyentes deberán señalar en las declaraciones del Impuesto sobre Nóminas, el número de personas mayores o con discapacidad que estén activos y efectivamente trabajen en la empresa y su remuneración.
 
 EXENCIONES
 
@@ -565,7 +569,7 @@ Los tenedores o usuarios de los vehículos a que se refieren las fracciones II y
 
 En esta Sección se establecen las disposiciones aplicables a las aeronaves, embarcaciones, veleros, esquí acuático motorizado, motocicleta acuática, tabla de oleaje con motor, automóviles eléctricos y motocicletas.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2015", PUBLICADA EN EL ORDINARIO DEL P.O. DE 26 DE DICIEMBRE DE 2014.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
 
 ###### ARTICULO 43.
 
@@ -575,7 +579,7 @@ Tratándose de aeronaves nuevas, el impuesto será la cantidad que resulte de mu
 
 Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, nuevos, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo de que se trate el 1.5%.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2015", PUBLICADA EN EL ORDINARIO DEL P.O. DE 26 DE DICIEMBRE DE 2014.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
 
 ###### ARTICULO 45.
 
@@ -585,7 +589,7 @@ TARIFA
 
 > <small>N. DE E. VÉASE TABLA EN EL P.O. DE 25 DE NOVIEMBRE DE 2011, PÁGINA 10.</small>
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2015", PUBLICADA EN EL ORDINARIO DEL P.O. DE 26 DE DICIEMBRE DE 2014.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
 
 ###### ARTICULO 46.
 
@@ -675,6 +679,8 @@ La cantidad obtenida conforme al párrafo anterior, se actualizará con el facto
 
 Tratándose de vehículos de fabricación nacional o importados, de hasta nueve años modelos anteriores al de aplicación a que se refieren los artículos 38, fracción II y 47 de esta Ley, excepto automóviles destinados al transporte de hasta quince pasajeros, el impuesto será el que resulte de aplicar el procedimiento siguiente:
 
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
 I. El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente:
 
 TABLA
@@ -683,23 +689,25 @@ Años de Factor
 
 antigüedad
 
-1 0.900
+1 1.000
 
 2 0.889
 
-3 0.875
+3 0.889
 
 4 0.857
 
-5 0.833
+5 0.857
 
 6 0.800
 
-7 0.750
+7 0.800
 
 8 0.667
 
-9 0.500
+9 0.667
+
+10 0.000
 
 II. Al resultado obtenido conforme a la fracción anterior, se multiplicara por el factor de 0.245% si el peso bruto vehicular es menor a 15 toneladas o por 0.50% si el peso bruto vehicular esta entre 15 y 35 toneladas, multiplicados por el factor fiscal que resulte de dividir el peso bruto máximo vehicular expresado en toneladas entre 30. En el caso de que el peso sea mayor de 35 toneladas se tomará como peso bruto máximo esta cantidad.
 
@@ -709,29 +717,35 @@ III. La cantidad obtenida conforme a la fracción anterior, se actualizará con 
 
 Tratándose de automóviles de fabricación nacional o importados, de hasta nueve años modelo anteriores al de aplicación de esta Ley, destinados al transporte de hasta quince pasajeros, el impuesto será el que resulte de aplicar el procedimiento siguiente:
 
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
 I. El valor total del automóvil se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente:
 
 TABLA
 
-Años de antigüedad Factor de depreciación
+Años de Factor de
 
-1 0.850
+Antigüedad depreciación
+
+1 1.000
 
 2 0.725
 
-3 0.600
+3 0.725
 
 4 0.500
 
-5 0.400
+5 0.500
 
 6 0.300
 
-7 0.225
+7 0.300
 
 8 0.150
 
-9 0.075
+9 0.150
+
+10 0.000
 
 > <small>(REFORMADA, P.O. 10 DE JULIO DE 2012)</small>
 
@@ -801,7 +815,7 @@ OBJETO
 
 #### SECCION PRIMERA. AUTOMOVILES
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2015", PUBLICADA EN EL ORDINARIO DEL P.O. DE 26 DE DICIEMBRE DE 2014.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
 
 ###### ARTICULO 54.
 
@@ -843,7 +857,7 @@ Los fabricantes, ensambladores y distribuidores autorizados, así como los comer
 
 Es objeto de este impuesto, la tenencia o uso de vehículos automotores modelo de más de diez años de fabricación anteriores al ejercicio fiscal en curso, a que se refiere el artículo 38, fracción III de esta Ley, así como de todo tipo de remolques cualquiera que sea su modelo.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2015", PUBLICADA EN EL ORDINARIO DEL P.O. DE 26 DE DICIEMBRE DE 2014.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
 
 TASA
 
@@ -941,7 +955,7 @@ TASA
 
 #### SECCION TERCERA. VEHICULOS USADOS DE HASTA NUEVE AÑOS DE ANTIGÜEDAD
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2015", PUBLICADA EN EL ORDINARIO DEL P.O. DE 26 DE DICIEMBRE DE 2014.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
 
 > <small>(REFORMADO, P.O. 10 DE JULIO DE 2012)</small>
 
@@ -1091,31 +1105,51 @@ VIII. La inscripción de las autorizaciones para fraccionamiento, $310.00 (TRESC
 
 IX. El depósito de cualquier otro documento, $160.00 (CIENTO SESENTA PESOS 00/100 M.N.)
 
-X. La expedición de certificados de no antecedentes registrales de inmuebles, independientemente de la búsqueda, $810.00 (OCHOCIENTOS DIEZ PESOS 00/100 M.N.).
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+X. La expedición de certificados de no antecedentes registrales de inmuebles, $91910.00 (NOVECIENTOS DIECINUEVE PESOS 00/100 M.N.).
 
 XI. La constancia que extienda el Registro al calce de los documentos privados que se le presenten, expresando que se ha cerciorado de la autenticidad de las firmas y de la voluntad de las partes $60.00 (SESENTA PESOS 00/100 M.N.) por hoja;
 
-XII. La búsqueda de constancias para la expedición de certificados o informes, por cada predio y por cada período de cinco años o fracción, $70.00 (SETENTA PESOS 00/100 M.N.).
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
-XIII. La expedición de certificados o certificaciones relativos a las constancias del Registro, independientemente de la búsqueda:
+XII. La búsqueda de información para la expedición de constancias, certificados o informes, $79.00 (SETENTA Y NUEVE PESOS 00/100 M.N.).
 
-1. Certificados de existencia de gravámenes, $220.00 (DOSCIENTOS VEINTE PESOS 00/100 M.N.), por cada lote.
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
-2. Certificados de no existencia de gravámenes, $220.00 (DOSCIENTOS VEINTE PESOS 00/100 M.N.), por cada lote.
+XIII. La expedición de certificados o certificaciones relativos a las constancias del Registro:
 
-3. Otros certificados y certificaciones, $220.00 (DOSCIENTOS VEINTE PESOS 00/100 M.N.).
+1. Certificados de existencia o inexistencia de gravámenes, $249.00 (DOSCIENTOS CUARENTA Y NUEVE PESOS 00/100 M.N.), por cada lote.
 
-XIV. La cancelación de inscripciones en el Registro causará el 10% de los derechos que se causaron por su inscripción, sin que pueda ser inferior a $70.00 (SETENTA PESOS 00/100 M.N.);
+2. Constancia de existencia o inexistencia de propiedad, $249.00 (DOSCIENTOS CUARENTA Y NUEVE PESOS 00/100 M.N.).
+
+3. Constancia de historial registral $498.00 CUATROCIENTOS NOVENTA Y OCHO PESOS 00/100 M.N.).
+
+4. Certificado de registro, $249.00 (DOSCIENTOS CUARENTA Y NUEVO PESOS 00/100 M.N.).
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+XIV. La cancelación de inscripciones en el Registro causará el 10% de los derechos que se causaron por su inscripción, sin que pueda ser inferior a $79.00 (SETENTA Y NUEVE PESOS 00/100 M.N.);
 
 En caso de que no se conozca el importe de los derechos pagados para su inscripción, se causará el 10% de los que corresponderían por su inscripción.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+La inscripción de cancelación de aviso preventivo o definitivo por inmueble, $69 (SESENTA Y NUEVE PESOS 00/100 M.N.).
 
 XV. La inscripción de declaración unilateral de voluntad en que se contenga la lotificación de un fraccionamiento, por lote $50.00 (CINCUENTA PESOS 00/100 M.N.); y (sic)
 
 XVI. Por otros no especificados, $250.00 (DOSCIENTOS CINCUENTA PESOS 00/100 M.N.).
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 XVII. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2014)
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+XVIII. La expedición de copias simples por documento $150 (CIENTO CINCUENTA PESOS 00/100 M.N.)
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+XIX. La expedición de copias certificadas por documento $520 (QUINIENTOS VEINTE PESOS 00/100 M.N.)
 
 ###### ARTICULO 80.
 
@@ -1125,7 +1159,9 @@ El pago de estos derechos deberá efectuarse en las Instituciones de Crédito o 
 
 Para la determinación de los derechos que establece la Primera Parte de esta Sección, serán aplicables las siguientes reglas:
 
-I. Cuando se trate de actos, contratos o resoluciones por los que se transmita el dominio o la posesión de inmuebles o derechos reales, el que resulte más alto entre el valor declarado en el título o documento respectivo, el determinado en avalúo formulado por Institución Bancaria autorizada por la Secretaría de Finanzas y el determinado por la autoridad catastral estatal;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+I. Cuando se trate de actos, contratos o resoluciones por los que se transmita el dominio o la posesión de inmuebles o derechos reales, el que resulte más alto entre el valor declarado en el título o documento respectivo, y el determinado por la autoridad catastral estatal;
 
 II. En los contratos de garantía, en los embargos y otros gravámenes, el monto de las obligaciones garantizadas, cuando el monto sea indeterminado, se tomará como base el valor catastral;
 
@@ -1147,7 +1183,7 @@ SEGUNDA PARTE
 
 DEL COMERCIO
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2015", PUBLICADA EN EL ORDINARIO DEL P.O. DE 26 DE DICIEMBRE DE 2014.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
 
 ###### ARTICULO 82.
 
@@ -1169,15 +1205,21 @@ La inscripción de reestructuración de créditos, causara derechos conforme a e
 
 La misma tarifa se aplicará a los contratos celebrados por arrendadoras financieras, públicas o privadas que se refieran a financiamientos;
 
-V. La búsqueda de datos para certificados e informes, por cada período de cinco años o fracción, $90.00 (NOVENTA DOS PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
-VI. La expedición de certificados o certificaciones relativos a constancias del registro, independientemente de la búsqueda:
+V. La búsqueda de datos para certificados e informes, $102.00 (CIENTO DOS PESOS 00/100 M.N.);
 
-1. Por la primera hoja, $180.00 (CIENTO OCHENTA PESOS 00/100).
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
-2. Por cada hoja adicional, $20.00 (VEINTE PESOS 00/100 M.N.).
+VI. La expedición de certificados o certificaciones relativos a constancias del registro:
 
-3. Por otros, $110.00 (CIENTO DIEZ PESOS 00/100 M.N.).
+1. Certificado de existencia o inexistencia de gravámenes, $249.00 (DOSCIENTOS CUARENTA Y NUEVE PESOS 00/100 M.N.) por cada lote.
+
+2. Certificado de historial registral, $249.00 (DOSCIENTOS CUARENTA Y NUEVE PESOS 00/100 M.N.).
+
+3. Certificado de registro, $249.00 (DOSCIENTOS CUARENTA Y NUEVE PESOS 00/100 M.N.).
+
+4. Otros certificados y certificaciones, $249.00 (DOSCIENTOS CUARENTA Y NUEVE PESOS 00/100 M.N.).
 
 VII. La inscripción de títulos o documentos relativos a sociedades mercantiles o civiles que no expresen valor y que de su texto no pueda deducirse, siendo condición indispensable, que la escritura constitutiva se encuentre inscrita previamente en el Registro, $60.00 (SESENTA PESOS 00/100 M.N.) por hoja;
 
@@ -1215,19 +1257,27 @@ Los servicios que se presten en relación con el Registro Civil, causarán derec
 
 TARIFA
 
-I. Registro de nacimientos, $60.00 (SESENTA PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+I. Registro de nacimientos, $89.00 (OCHENTA Y NUEVE PESOS 00/100 M.N.);
 
 II. Registro de reconocimientos, $140.00 (CIENTO CUARENTA PESOS 00/100 M.N.);
 
-> <small>(REFORMADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
-III. Inscripción de ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes; o bien, de las resoluciones que rectifiquen o modifiquen una acta del Registro Civil, $152.00 (CIENTO CINCUENTA Y DOS PESOS 00/100 M.N.);
+III. Inscripción actas de tutela de ejecutorias que declaren la ausencia, la presunción de muerte o que se ha perdido la capacidad legal para administrar bienes; o bien, de las resoluciones que rectifiquen o modifiquen una acta del Registro Civil, $468.00 (CUATRCIENTOS (SIC) SESENTA Y OCHO PESOS 00/100 M.N.);
 
-IV. Registro de matrimonios, $520.00 (QUINIENTOS VEINTE PESOS 0/100 M.N.);
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
-V. Registro de divorcios, $520.00 (QUINIENTOS VEINTE PESOS 0/100 M.N.);
+IV. Registro de matrimonios, $610.00 (SEISCIENTOS DIEZ PESOS 00/100 M.N.);
 
-VI. Registro de defunciones, $50.00 (CINCUENTA PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+V. Registro de divorcios, $610.00 (SEISCIENTOS DIEZ PESOS 00/100 M.N.);
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+VI. Registro de defunciones, $76.00 (SETENTA Y SEIS PESOS 00/100 M.N.);
 
 VII. Inscripción de actos o hechos registrados en el extranjero, $400.00 (CUATROCIENTOS PESOS 00/100 M.N.);
 
@@ -1237,7 +1287,9 @@ IX. Registro de terminación de Pacto Civil de Solidaridad, $520.00 (QUINIENTOS 
 
 X. Anotaciones en los registros por mandato judicial o a petición de la parte interesada, $140.00 (CIENTO CUARENTA PESOS 00/100 M.N.);
 
-XI. Expedición de copias certificadas, $70.00 (SETENTA PESOS 00/100 M.N.), por hoja;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+XI. Expedición de copias certificadas, $99.00 (NOVENTA Y NUEVE PESOS 00/100 M.N.), por hoja;
 
 Para efectos de esta fracción, los oficiales de Registro Civil pagarán la cantidad de $60.00 (SESENTA PESOS 00/100 M.N.) por la expedición del formato correspondiente.
 
@@ -1251,7 +1303,9 @@ XIV. Expedición de certificados de inexistencia y cualquier otra clase de const
 
 XV. Búsqueda de actas en el Registro Civil, $70.00 (SETENTA PESOS 00/100 M.N.); y
 
-XVI. Por otros servicios no especificados, $140.00 (CIENTO CUARENTA PESOS 00/100 M.N.).
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+XVI. Por otros servicios no especificados, $179.00 (CIENTO SETENTA Y NUEVE PESOS 00/100 M.N.).
 
 > <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -1271,15 +1325,25 @@ I. Certificaciones, $40.00 (CUARENTA PESOS 00/100 M.N.), por hoja;
 
 II. Apostillar documentos, $250.00 (DOSCIENTOS CINCUENTA PESOS 00/100 M.N.);
 
-III. Presentación de examen para obtener patente de aspirante a notario, $30,000.00 (TREINTA MIL PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
-IV. Expedición de patente de aspirante a notario, $40,000.00 (CUARENTA MIL PESOS 00/100 M.N.);
+III. Presentación de examen para obtener patente de aspirante a notario, $43,364.00 (CUARENTA Y TRES MIL TRESCIENTOS SESENTA Y CUATRO PESOS 00/100 M.N.);
 
-V. Presentación de examen de selección para obtener la expedición de Fiat Notarial, $50,000.00 (CINCUENTA MIL PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
-VI. Expedición del Fiat Notarial, $250,000.00 (DOSCIENTOS CINCUENTA MIL PESOS 00/100 M.N.);
+IV. Expedición de patente de aspirante a notario, $57,820.00 (CINCUENTA Y SIETE MIL OCHOCIENTOS VEINTE PESOS 00/100 M.N.);
 
-VII. Expedición de constancias que avalen la función notarial, $10,000.00 (DIEZ MIL PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+V. Presentación de examen de selección para obtener la expedición de Fiat Notarial, $72,275.00 (SETENTA Y DOS MIL DOSCIENTOS SETENTA Y CINCO PESOS 00/100 M.N.);
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+VI. Expedición de Fiat Notarial, $361,341.00 (TRESCIENTOS SESENTA Y UN MIL TRESCIENTOS CUARENTA Y UN PESOS 00/100 M.N.);
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+VII. Expedición de constancias que avalen la función notarial, $14,453.00 (CATORCE MIL CUATROCIENTOS CINCUENTA Y TRES PESOS 00/100 M.N.);
 
 VIII. Expedición de certificados de necesidad, para adquisición de terrenos que hagan las sociedades mercantiles, según lo establecido en el artículo 27, fracción IV de la Constitución Política de los Estados Unidos Mexicanos, $4,960.00 (CUATRO MIL NOVECIENTOS SESENTA PESOS 00/100 M.N.);
 
@@ -1297,23 +1361,61 @@ XIV. Exhorto y legalización de firmas de éste a otro Estado, $480.00 (CUATROCI
 
 XV. Exhorto de otro Estado a éste, $480.00 (CUATROCIENTOS OCHENTA PESOS 00/100 M.N.);
 
-XVI. Búsqueda de antecedentes notariales por año o por notario y de testamento, $200.00 (DOSCIENTOS PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
-XVII. Expedición de testimonios de instrumentos notariales hasta por 10 hojas, $1,500.00 (MIL QUINIENTOS PESOS 00/100 M.N.); por hoja adicional de los testimonios $150.00 (CIENTO CINCUENTA PESOS 00/100 M.N.);
+XVI. Búsqueda de antecedentes notariales por año o por notario y de testamento, $287.00 (DOSCIENTOS OCHENTA Y SIETE PESOS 00/100 M.N.);
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+XVII. Expedición de testimonios de instrumentos notariales hasta por 10 hojas, $2,167.00 (DOS MIL CIENTO SESENTA Y SIETE PESOS 00/100 M.N.); por hoja adicional de los testimonios $180.00 (CIENTO OCHENTA PESOS 00/100 M.N.);
 
 XVIII. Expedición de segundos testimonios que obren en la Dirección de Notarías, $320.00 (TRESCIENTOS VEINTE PESOS 00/100 M.N.);
 
-XIX. Certificación de existencia o inexistencia de testamento por testador, $500.00 (QUINIENTOS PESOS 00/100 M.N.)
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
-XX. Expedición de copias certificadas de instrumentos notariales, $130.00 (CIENTO TREINTA PESOS 00/100 M.N.) por hoja;
+XIX. Certificación de existencia o inexistencia de testamento por testador, $722.00 (SETECIENTOS VEINTIDÓS PESOS 00/100 M.N.).
 
-XXI. Expedición de copias simples de instrumentos notariales, $70.00 (SETENTA PESOS 00/100 M.N.) por hoja;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
-XXII. Expedición de copias certificadas de expedientes administrativos o personales de notarios, $150.00 (CIENTO CINCUENTA PESOS 00/100 M.N.) por hoja;
+XX. Expedición de copias certificadas de instrumentos notariales, $187.00 (CIENTO OCHENTA Y SIETE PESOS 00/100 M.N.) por hoja;
 
-XXIII. Peritajes desahogados en la dirección de notarias $2,000.00 (DOS MIL PESOS 00/100 M.N.)
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
-XXIV. Autorización para cambio de distrito o residencia notarial, $200,000.00 (DOSCIENTOS MIL PESOS 00/100 M.N.);
+XXI. Expedición de copias simples de instrumentos notariales, $100.00 (CIEN PESOS 00/100 M.N.) por hoja;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+XXII. Expedición de copias certificadas de expedientes administrativos o personales de notarios, $216.00 (DOSCIENTOS DIECISÉIS PESOS 00/100 M.N.) por hoja;
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+XXIII. Peritajes desahogados en la Dirección de Notarias $2,890.00 (DOS MIL OCHOCIENTOS NOVENTA PESOS 00/100 M.N.).
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+XXIV. Autorización para cambio de distrito notarial, $289,072.00 (DOSCIENTOS OCHENTA Y NUEVE MIL SETENTA Y DOS PESOS 00/100 M.N.);
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+XXIV-A. Expedición de credenciales:
+
+a) Para Notario $690.00 (SEISCIENTOS NOVENTA PESOS 00/100 M.N.).
+
+b) Para gestor de Notario $414.00 (CUATROCIENTOS CATORCE PESOS 00/100 M.N.).
+
+c) Reposición de credencial para Notario o Gestor $276.00 (DOSCIENTOS SETENTA Y SEIS PESOS 00/100 M.N.).
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+XXIV-B. Expedición a Notarios de folios para la integración de Protocolos y Testimonios $5.00 (CINCO PESOS 00/100 M.N.) por folio.
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+XXIV-C. Licencias para suspender el ejercicio de la función notarial, $100,000.00 (CIEN MIL PESOS 00/100 M.N.). Aquellos notarios públicos que requieran suspender el ejercicio de la función notarial para ocupar un cargo de elección popular o un puesto como servidor público en el Estado de Coahuila de Zaragoza y en caso de enfermedad o incapacidad debidamente acreditada, la licencia a que se refiere esta fracción no tendrá costo.
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+XXIV-D. Expedición de constancia de actualización de conocimientos para ejercer la función notarial $20,000.00 (VEINTE MIL PESOS 00/100 M.N.).
 
 XXV. Autorización de exhumación de cadáveres para ser reinhumados en el mismo panteón $250.00 (DOSCIENTOS CINCUENTA PESOS 00/100 M.N.);
 
@@ -1371,7 +1473,19 @@ XXXI. Por los Derechos que presta la Dirección de Protección Civil:
 
 XXXII. Por Taller de orientación prematrimonial que imparte la Defensoría Jurídica Integral del Estado, $100.00 (CIEN PESOS 00/100 M.N.);
 
-XXXIII. Por otros servicios no especificados, $250.00 (DOSCIENTOS CINCUENTA PESOS 00/100 M.N.).
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+XXXIII. Por los Derechos que presta la Comisión Estatal de Seguridad:
+
+1. Certificados de no antecedentes penales $100.00 (CIEN PESOS 00/100 M.N.).
+
+2. Por el uso y mantenimiento de un dispositivo de monitoreo electrónico de localización a distancia, para personas que hayan sido sentenciadas dentro de un proceso penal y que se hagan acreedores a dicha medida de seguridad $5,000.00 (CINCO MIL PESOS 00/100 M.N.), mensuales.
+
+3. Por la aplicación de exámenes de control de confianza $6,000.00 (SEIS MIL PESOS 00/100 M.N.).
+
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+XXXIV. Por otros servicios no especificados, $284.00 (DOSCIENTOS OCHENTA Y CUATRO PESOS 00/100 M.N.)
 
 SUJETO
 
@@ -1387,7 +1501,7 @@ PRIMERA PARTE
 
 DE LA PROPIEDAD
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2015", PUBLICADA EN EL ORDINARIO DEL P.O. DE 26 DE DICIEMBRE DE 2014.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
 
 ###### ARTICULO 89.
 
@@ -1463,7 +1577,7 @@ La omisión de esta obligación se considerará como infracción en términos de
 
 #### SECCION SEGUNDA. POR SERVICIOS DEL REGISTRO CIVIL
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2015", PUBLICADA EN EL ORDINARIO DEL P.O. DE 26 DE DICIEMBRE DE 2014.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
 
 ###### ARTICULO 96.
 
@@ -1525,7 +1639,7 @@ La Secretaría de Finanzas, cuando lo considere conveniente, podrá autorizar la
 
 #### SECCION TERCERA. POR OTROS SERVICIOS
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2015", PUBLICADA EN EL ORDINARIO DEL P.O. DE 26 DE DICIEMBRE DE 2014.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
 
 ###### ARTICULO 104.
 
@@ -1539,21 +1653,37 @@ La expedición de licencia para el funcionamiento de establecimientos que enajen
 
 TARIFA
 
-I. Distribuidor de cerveza o vinos, ladies bar, cabaret, discotec bar, centro de entretenimiento con apuestas, video bar, salón de baile, casa de huéspedes, hoteles de paso y moteles de paso $150,000.00 (CIENTO CINCUENTA MIL PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
-II. Tienda de autoservicio $70,000.00 (SETENTA MIL PESOS 00/100 M.N.);
+I. Distribuidor de cerveza o vinos, ladies bar, cabaret, discotec bar, centro de entretenimiento con apuestas, video bar, salón de baile, casa de huéspedes, hoteles de paso y moteles de paso $250,000.00 (DOSCIENTOS CINCUENTA MIL PESOS 00/100 M.N.);
 
-III. Restaurante bar, restaurantes y estadios $60,000.00 (SESENTA MIL PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
-IV. Supermercados, agencias y cantina o bar $40,000.00 (CUARENTA MIL PESOS 00/100 M.N.);
+II. Tienda de autoservicio $100,000.00 (CIEN MIL PESOS 00/100 M.N.);
 
-V. Expendio de vinos y licores, tiendas de abarrotes, minisuper, casinos, clubes sociales y deportivos, círculos sociales y semejantes, billares y boliches, hoteles, salón de fiesta y subagencia $30,000.00 (TREINTA MIL PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
-VI. Cervecerías, depósitos de cerveza y otros establecimientos en los que únicamente se enajene cerveza, $20,000.00 (VEINTE MIL PESOS 00/100 M.N.);
+III. Restaurante bar, restaurantes y estadios $80,000.00 (OCHENTA MIL PESOS 00/100 M.N.);
 
-VII. Fonda, taquerías y otros de naturaleza análoga $15,000.00 (QUINCE MIL PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
-VIII. Misceláneas $10,000.00 (DIEZ MIL PESOS 00/100 M.N.);
+IV. Supermercados, agencias y cantina o bar $53,000.00 (CINCUENTA Y TRES MIL PESOS 00/100 M.N.);
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+V. Expendio de vinos y licores, tiendas de abarrotes, minisúper, casinos, clubes sociales y deportivos, círculos sociales y semejantes, billares y boliches, hoteles, salón de fiesta y subagencia $41,000.00 (CUARENTA Y UN MIL PESOS 00/100 M.N.);
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+VI. Cervecerías, depósitos de cerveza y otros establecimientos en los que únicamente se enajene cerveza, $28,000.00 (VEINTIOCHO MIL PESOS 00/100 M.N.);
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+VII. Fonda, taquerías y otros de naturaleza análoga $23,000.00 (VEINTITRÉS MIL PESOS 00/100 M.N.);
+
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+VIII. Misceláneas $20,000.00 (VEINTE MIL PESOS 00/100 M.N.);
 
 La licencia para el giro de miscelánea se expedirá exclusivamente a las personas físicas que tributen bajo el Régimen de Pequeños Contribuyentes, tendrá vigencia anual y no causará los derechos por el refrendo anual.
 
@@ -1561,7 +1691,7 @@ Se entenderá por giro de miscelánea, la compraventa al público en general, de
 
 ### CAPITULO TERCERO. POR SERVICIOS CAUSADOS POR EL USO Y/O APROVECHAMIENTO DE AUTOPISTAS ESTATALES
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2015", PUBLICADA EN EL ORDINARIO DEL P.O. DE 26 DE DICIEMBRE DE 2014.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
 
 OBJETO
 
@@ -1579,29 +1709,33 @@ El permiso únicamente será válido por el tiempo y en el lugar para el cual fu
 
 ###### ARTICULO 107.
 
-La expedición de la revalidación anual para el funcionamiento de establecimientos que enajenen bebidas alcohólicas o que presten servicios en los que se expendan dichas bebidas, causarán derechos por la cantidad de $7,000.00 (SIETE MIL PESOS 00/100 M.N.).
+La expedición de la revalidación anual para el funcionamiento de establecimientos que enajenen bebidas alcohólicas o que presten servicios en los que se expendan dichas bebidas, causarán derechos por la cantidad de $10,000.00 (DIEZ MIL PESOS 00/100 M.N.).
 
 ###### ARTICULO 108.
 
 Cuando el establecimiento cuente con licencia y habiendo presentado aviso de suspensión de actividades, la reinicie en el 1o., 2o., 3o. ó 4o., trimestre, pagará por ese año el 100%, 75%, 50% ó 25%, respectivamente, de la tarifa establecida en el artículo 107, sin perjuicio de las reducciones a que se tenga derecho conforme a los artículos 111 y 112 de esta Ley.
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
 ### CAPITULO CUARTO. POR SERVICIOS DE LA SECRETARIA DE DESARROLLO SOCIAL
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2015", PUBLICADA EN EL ORDINARIO DEL P.O. DE 26 DE DICIEMBRE DE 2014.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015, EL ARTÍCULO 127 MUESTRA UNA ACTUALIZACIÓN.]</small>
 
 #### SECCION CUARTA. POR SERVICIOS QUE PRESTA LA SECRETARIA DE GOBIERNO A TRAVES DEL ORGANISMO DESCONCENTRADO DENOMINADO "PERIODICO OFICIAL DEL GOBIERNO DEL ESTADO"
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2015", PUBLICADA EN EL ORDINARIO DEL P.O. DE 26 DE DICIEMBRE DE 2014.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
 
 OBJETO
 
 ###### ARTICULO 109.
 
-La autorización de cambio de titular de una licencia causará derechos a razón del 50% de la tarifa establecida en el artículo 105, según el establecimiento de que se trate.
+La autorización de cambio de titular de una licencia causará derechos a razón del 70% de la tarifa establecida en el artículo 105, según el establecimiento de que se trate.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 110.
 
-La autorización de cambio de domicilio de una licencia causará derechos a razón del 25% de la tarifa establecida en el artículo 105, según el establecimiento de que se trate.
+La autorización de cambio de domicilio de una licencia causará derechos a razón del 50% de la tarifa establecida en el artículo 105, según el establecimiento de que se trate.
 
 La autorización de cambio de giro de una licencia causará derechos sobre la diferencia del costo de la tarifa establecida en el artículo 105, según el establecimiento de que se trate. En ningún caso dará lugar a devolución por cambio de giro.
 
@@ -1641,11 +1775,17 @@ Los ingresos que se generen conforme al inciso anterior, deberán destinarse par
 
 II. Expedición de juego de placas para demostración de vehículos $2,070.00 (DOS MIL SETENTA PESOS 00/100 M.N.);
 
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+II-A. Refrendo anual de placas para demostración de vehículos $2,154.00 (DOS MIL CIENTO CINCUENTA Y CUATRO PESOS 00/100 M.N.);
+
 III. Expedición de tarjeta de circulación para remolques accionados por vehículos de tracción mecánica; $670.00 (SEISCIENTOS SETENTA PESOS 00/100 M.N.);
 
 IV. Expedición de placa y tarjeta de circulación con vigencia anual para motocicleta, $210.00 (DOSCIENTOS DIEZ PESOS 00/100 M.N.);
 
-V. (DEROGADA, P.O. 8 DE MAYO DE 2012)
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+V. Tarjetón Estatal de Registro Vehicular $300.00 (TRESCIENTOS PESOS 00/100 M.N.)
 
 VI. Dotación de placas metálicas con número identificatorio para los vehículos siguientes:
 
@@ -1711,6 +1851,8 @@ Los vehículos, cuyos propietarios no cumplan dentro del plazo establecido en es
 
 OBJETO
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 121.
 
 Las autoridades fiscales, en cumplimiento a lo señalado en el artículo que antecede, podrán embargar precautoriamente los vehículos que no cuenten con la tarjeta de circulación actualizada por el engomado correspondiente, cuando se incumplan las obligaciones fiscales de control vehicular en dos ejercicios fiscales consecutivos, siguiendo para ellos los procedimientos legales correspondientes.
@@ -1741,7 +1883,7 @@ El pago de los derechos a que se refiere esta Sección deberá efectuarse en las
 
 #### SECCION TERCERA. POR LOS SERVICIOS DE CONTROL VEHICULAR
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2015", PUBLICADA EN EL ORDINARIO DEL P.O. DE 26 DE DICIEMBRE DE 2014.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
 
 ###### ARTICULO 124.
 
@@ -1777,99 +1919,31 @@ PAGO
 
 El pago de estos derechos deberá efectuarse en las casetas de cobro instaladas en la autopista Allende-Agujita-Estancias por Administración Fiscal General.
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2017)</small>
+
 ### CAPITULO QUINTO. POR SERVICIOS DE LA SECRETARIA DE GESTION URBANA, AGUA Y ORDENAMIENTO TERRITORIAL
 
 ###### ARTICULO 127.
 
-Los servicios que presta la Secretaría de Desarrollo Social, causarán derechos conforme a la siguiente:
-
-TARIFA
-
-I. Por los servicios que otorga la Comisión Estatal de la Vivienda.
-
-A. Unidad Administrativa de la Regularización de la Tenencia de la Tierra:
-
-1. Por la elaboración de escritura privada de predio o lote urbano se pagarán $590.00 (QUINIENTOS NOVENTA PESOS 00/100 M.N.) por escritura;
-
-2. Por la verificación de medidas de predios o lotes se pagarán $100.00 (CIEN PESOS 00/100 M.N.) por cada inmueble a verificar;
-
-3. Por la elaboración de plano manzanero se pagarán $50.00 (CINCUENTA PESOS 00/100 M.N.) por plano que comprenda un lote;
-
-4. Por la validación de cesión de derechos se pagarán $240.00 (DOSCIENTOS CUARENTA PESOS 00/100 M.N.) por predio o lote que ampare la cesión.
-
-5. Por la constancia para trámite de predial se pagarán $50.00 (CINCUENTA PESOS 00/100 M.N.);
-
-6. Por la cancelación de escritura en proceso, a petición de parte, se pagarán $590.00 (QUINIENTOS NOVENTA PESOS 00/100 M.N.);
-
-7. Por escrituras privadas del Programa de Predios Rústicos para el Municipio de Saltillo:
-
-a. Predios/lotes de hasta 500 metros pagarán $3,500.00 (TRES MIL QUINIENTOS PESOS 00/100 M.N.);
-
-b. Predios/lotes de más de 501 metros a 10 hectáreas, pagarán $5,000.00 (CINCO MIL PESOS 00/100 M.N.);
-
-c. Predios/lotes de 10-00-01 hectáreas a 20 hectáreas, pagarán $7,000.00 (SIETE MIL PESOS 00/100 M.N.);
-
-d. Predios/lotes de 20-00-01 hectáreas a 30 hectáreas, pagarán $10,000.00 (DIEZ MIL PESOS 00/100 M.N.);
-
-8. Por escrituras privadas del Programa de Predios Rústicos para el resto del Estado:
-
-a. Predios/lotes con superficie hasta de 300 metros, pagarán $1,500.00 (MIL QUINIENTOS PESOS 00/100 M.N.);
-
-b. Predios/lotes con superficie de 301 metros hasta 10 hectáreas, pagarán $3,500.00 (TRES MIL QUINIENTOS PESOS 00/100 M.N.);
-
-c. Predios/lotes con superficie mayor de 10-00-01 hectáreas hasta 20 hectáreas, pagarán $5,000.00 (CINCO MIL PESOS 00/100 M.N.);
-
-d. Predios/lotes con superficie mayor de 20-00-01 hectáreas hasta 40 hectáreas, pagarán $8,000.00 (OCHO MIL PESOS 00/100 M.N.);
-
-B. Unidad Administrativa en materia Inmobiliaria y de Vivienda Popular.
-
-1. Por la expedición del documento que contiene la información del predio y la constancia de pago del mismo denominada carta de liberación:
-
-a. Que correspondan a las colonias Jardines del Lago, Saltillo 400, Fundadores IV Sector y Asturias de Saltillo, Coahuila de Zaragoza, se pagarán $1,400.00 (MIL CUATROCIENTOS PESOS 00/100 M.N.);
-
-b. Que correspondan a las colonias Fundadores III Sector en Saltillo, colonia Latinoamericano en Torreón y la colonia Elsa Hernández en Monclova, Coahuila de Zaragoza, se pagarán $700.00 (SETECIENTOS PESOS 00/100 M.N.);
-
-c. Que correspondan a fraccionamientos distintos a los señalados en los dos apartados anteriores en todo el territorio del Estado, se pagarán $200.00 (DOSCIENTOS PESOS 00/100 M.N.);
-
-2. Por la expedición de una carta de liberación actualizada que sustituye a la expedida en otra época, se pagarán $200.00 (DOSCIENTOS PESOS 00/100 M.N.);
-
-3. Por la expedición del documento en el que se contiene la información del predio y la constancia de pago del mismo, pero que es propiedad de algún Municipio del Estado, se expide la denominada carta de no adeudo, se pagarán $200.00 (DOSCIENTOS PESOS 00/100 M.N.);
-
-4. Por la expedición del croquis de ubicación de un predio, necesario para el trámite de número oficial ante los Municipios del Estado, se pagarán $100.00 (CIEN PESOS 00/100 M.N.);
-
-5. Por la elaboración del documento que contiene la manifestación de voluntad del propietario de un predio de ceder sus derechos como titular a favor de un tercero, documento denominado cesión de derechos:
-
-Cuando se trata de la cesión del primer titular del predio a un tercero, el costo será de $700.00 (SETECIENTOS PESOS 00/100 M.N.);
-
-Cuando se trata de la cesión del segundo titular en adelante del predio a un tercero, el costo será de $5,000.00 (CINCO MIL PESOS 00/100 M.N.);
-
-6. Por la certificación de la documentación que obra en el expediente de la dependencia, correspondiente a la titularidad de una persona respecto a un predio y de la cual el titular no tiene constancia, denominada regularización de expediente, el costo será de $500.00 (QUINIENTOS PESOS 00/100 M.N.).
-
-SUJETO
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2015)
 
 ###### ARTICULO 128.
 
-Son sujetos de este derecho, las personas físicas o morales que soliciten los servicios mencionados en el artículo anterior.
-
-Son solidariamente responsables del pago de este derecho los constructores y contratistas que realicen obras relativas al objeto de este derecho.
-
-PAGO
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2015)
 
 ###### ARTICULO 129.
 
-El pago de los derechos a que se refiere este Capítulo deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
-
-EXENCIONES
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2015)
 
 ### CAPITULO QUINTO-BIS. POR SERVICIOS DE LA SECRETARIA DE INFRAESTRUCTURA
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2015", PUBLICADA EN EL ORDINARIO DEL P.O. DE 26 DE DICIEMBRE DE 2014.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
 
-> <small>(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 130.
 
-Quedan exentos del pago de derechos a que se refiere el artículo 127 de la presente Ley, los predios sujetos a regularización y/o escrituración que por Decreto legislativo así lo determinen.
+(DEROGADO, P.O. 22 DE DICIEMBRE DE 2015)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1887,29 +1961,39 @@ I. Expedición de tarjetas de circulación y calcomanía con número identificat
 
 2. Remolque de servicio público, $620.00 (SEISCIENTOS VEINTE PESOS 00/100 M.N.).
 
-II. Tarjetón de identificación del servicio público de transporte, $280.00 (DOSCIENTOS OCHENTA PESOS 00/100 M.N)
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+II. Tarjetón de identificación del servicio público de transporte, $328.00 (TRESCIENTOS VEINTIOCHO PESOS 00/100 M.N)
 
 III. Expedición de constancia o certificación de documentos relativos a derechos de control vehicular, $160.00 (CIENTO SESENTA PESOS 00/100 M.N.); y
 
 IV. Expedición de licencias para conducir vehículos:
 
-1. Motociclista $90.00 (NOVENTA PESOS 00/100 M.N.);
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
-2. Chofer servicio particular $300.00 (TRESCIENTOS PESOS 00/100 M.N.);
+1. Motociclista $112.00 (CIENTO DOCE PESOS 00/100 M.N.);
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+2. Chofer servicio particular $410.00 (CUATROCIENTOS DIEZ PESOS 00/100 M.N.);
 
 3. Automovilista:
 
-a. $300.00 (TRESCIENTOS PESOS 00/100 M.N.) expedida con una vigencia de 2 años;
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
-b. $500.00 (QUINIENTOS PESOS 00/100 M.N.) expedida con una vigencia de hasta 4 años;
+a. $371.00 (TRESCIENTOS SETENTA Y UN PESOS 00/100 M.N.) expedida con una vigencia de 2 años;
 
-c. $100.00 (CIEN PESOS 00/100 M.N.) por cada año adicional hasta 6 años
+b. (DEROGADO, P.O. 22 DE DICIEMBRE DE 2015)
+
+c. (DEROGADO, P.O. 22 DE DICIEMBRE DE 2015)
 
 4. Chofer de servicio público $400.00 (CUATROCIENTOS PESOS 00/100 M.N.);
 
 5 Chofer para transporte de materiales peligrosos, $500.00 (QUINIENTOS PESOS 00/100 M.N.); y
 
-V. Examen teórico-práctico de conocimientos viales y fotografía digitalizada en la licencia, $60.00 (SESENTA PESOS 00/100 M.N.).
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+V. Examen teórico-práctico de conocimientos viales y fotografía digitalizada en la licencia, $79.00 (SETENTA Y UN PESOS 00/100 M.N.).
 
 OBLIGACIONES
 
@@ -1921,7 +2005,7 @@ Los avisos a que se refiere este artículo deberán presentarse dentro de los qu
 
 ### CAPITULO SEXTO. POR SERVICIOS DE LA SECRETARIA DE EDUCACION
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2015", PUBLICADA EN EL ORDINARIO DEL P.O. DE 26 DE DICIEMBRE DE 2014.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
@@ -1966,6 +2050,228 @@ Si el contribuyente, en la diligencia de embargo, se niega a ser depositario del
 En los supuestos del párrafo anterior, si es necesario, la autoridad fiscal podrá requerir el auxilio de la fuerza pública para el traslado del vehículo al lugar designado por aquélla.
 
 Si antes de que se agote el procedimiento económico-coactivo, el contribuyente cumple con el pago de los derechos a que se refiere esta Sección y los recargos correspondientes o conviene con las autoridades fiscales el cumplimiento de su adeudo, se levantará el embargo en que se hubiere practicado sobre su vehículo.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 138-A.
+
+Los servicios que presta la Secretaría de Gestión Urbana, Agua y Ordenamiento Territorial, causarán derechos conforme a la siguiente:
+
+TARIFA
+
+I. Por los servicios que otorga la Comisión Estatal de la Vivienda.
+
+A. Unidad Administrativa de la Regularización de la Tenencia de la Tierra:
+
+1. Por la elaboración de escritura privada de predio o lote urbano se pagarán $670.00 (SEISCIENTOS SETENTA PESOS 00/100 M.N.) por escritura;
+
+2. Por la verificación de medidas de predios o lotes se pagarán $114.00 (CIENTO CATORCE PESOS 00/100 M.N.) por cada inmueble a verificar;
+
+3. Por la elaboración de plano manzanero se pagarán $56.00 (CINCUENTA Y SEIS PESOS 00/100 M.N.) por plano que comprenda un lote;
+
+4. Por la validación de cesión de derechos se pagarán $272.00 (DOSCIENTOS SETENTA Y DOS PESOS 00/100 M.N.) por predio o lote que ampare la cesión.
+
+5. Por la constancia para trámite de predial se pagarán $56.00 (CINCUENTA Y SEIS PESOS 00/100 M.N.);
+
+6. Por la cancelación de escritura en proceso, a petición de parte, se pagarán $670.00 (SEISCIENTOS SETENTA PESOS 00/100 M.N.);
+
+7. Por escrituras privadas del Programa de Predios Rústicos para el Municipio de Saltillo:
+
+a. Predios/lotes de hasta 500 metros pagarán $3,970.00 (TRES MIL NOVECIENTOS SETENTA PESOS 00/100 M.N.);
+
+b. Predios/lotes de más de 501 metros a 10 hectáreas, pagarán $5,672.00 (CINCO MIL SEISCIENTOS SETENTA Y DOS PESOS 00/100 M.N.);
+
+c. Predios/lotes de 10-00-01 hectáreas a 20 hectáreas, pagarán $7,942.00 (SIETE MIL NOVECIENTOS CUARENTA Y DOS PESOS 00/100 M.N.);
+
+d. Predios/lotes de 20-00-01 hectáreas a 30 hectáreas, pagarán $11,345.00 (ONCE MIL TRESCIENTOS CUARENTA Y CINCO PESOS 00/100 M.N.);
+
+8. Por escrituras privadas del Programa de Predios Rústicos para el resto del Estado:
+
+a. Predios/lotes con superficie hasta de 300 metros, pagarán $1,702.00 (MIL SETECIENTOS DOS PESOS 00/100 M.N.);
+
+b. Predios/lotes con superficie de 301 metros hasta 10 hectáreas, pagarán $3,970.00 (TRES MIL NOVECIENTOS SETENTA PESOS 00/100 M.N.);
+
+c. Predios/lotes con superficie mayor de 10-00-01 hectáreas hasta 20 hectáreas, pagarán $5,672.00 (CINCO MIL SEISCIENTOS SETENTA Y DOS PESOS 00/100 M.N.);
+
+d. Predios/lotes con superficie mayor de 20-00-01 hectáreas hasta 40 hectáreas, pagarán $9,076.00 (NUEVE MIL SETENTA Y SEIS PESOS 00/100 M.N.);
+
+B. Unidad Administrativa en materia inmobiliaria y de vivienda popular.
+
+1. Por la expedición del documento que contiene la información del predio y la constancia de pago del mismo denominada carta de liberación:
+
+a. Que correspondan a las colonias Jardines del Lago, Saltillo 400, Fundadores IV Sector y Asturias de Saltillo, Coahuila de Zaragoza, se pagarán $1,588.00 (MIL QUINIENTOS OCHENTA Y OCHO PESOS 00/100 M.N.);
+
+b. Que correspondan a las colonias Fundadores III Sector en Saltillo, colonia Latinoamericano en Torreón y la colonia Elsa Hernández en Monclova, Coahuila de Zaragoza, se pagarán $793.00 (SETECIENTOS NOVENTA Y TRES PESOS 00/100 M.N.);
+
+c. Que correspondan a fraccionamientos distintos a los señalados en los dos apartados anteriores en todo el territorio del Estado, se pagarán $226.00 (DOSCIENTOS VEINTISÉIS PESOS 00/100 M.N.);
+
+2. Por la expedición de una carta de liberación actualizada que sustituye a la expedida en otra época, se pagarán $226.00 (DOSCIENTOS VEINTISEIS PESOS 00/100 M.N.);
+
+3. Por la expedición del documento en el que se contiene la información del predio y la constancia de pago del mismo, pero que es propiedad de algún Municipio del Estado, se expide la denominada carta de no adeudo, se pagarán $226.00 (DOSCIENTOS VEINTISÉIS PESOS 00/100 M.N.);
+
+4. Por la expedición del croquis de ubicación de un predio, necesario para el trámite de número oficial ante los Municipios del Estado, se pagarán $114.00 (CIENTO CATORCE PESOS 00/100 M.N.);
+
+5. Por la elaboración del documento que contiene la manifestación de voluntad del propietario de un predio de ceder sus derechos como titular a favor de un tercero, documento denominado cesión de derechos:
+
+Cuando se trata de la cesión del primer titular del predio a un tercero, el costo será de $793.00 (SETECIENTOS NOVENTA Y TRES PESOS 00/100 M.N.);
+
+Cuando se trata de la cesión del segundo titular en adelante del predio a un tercero, el costo será de $5,672.00 (CINCO MIL SEISCIENTOS SETENTA Y DOS PESOS 00/100 M.N.);
+
+6. Por la certificación de la documentación que obra en el expediente de la dependencia, correspondiente a la titularidad de una persona respecto a un predio y de la cual el titular no tiene constancia, denominada regularización de expediente, el costo será de $567.00 (QUINIENTOS SESENTA Y SIETE PESOS 00/100 M.N.).
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+SUJETO
+
+###### ARTICULO 138-B.
+
+Son sujeto de este derecho, las personas físicas o morales que soliciten los servicios mencionados en el artículo anterior.
+
+Son solidariamente responsables del pago de este derecho los constructores y contratistas que realicen obras relativas al objeto de este derecho.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+PAGO
+
+###### ARTICULO 138-C.
+
+El pago de los derechos a que se refiere este Capítulo deberá efectuarse en las Instituciones de Crédito o establecimientos autorizados, previamente a la prestación del servicio.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 138-D.
+
+Quedan exentos del pago de derechos a que se refiere el artículo 127 de la presente Ley, los predios sujetos a regularización y/o escrituración que por Decreto legislativo así lo determinen.
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRAN, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 138-E.
+
+Son objeto de estos Derechos, los Servicios Catastrales que presta el Instituto Coahuilense del Catastro y Información Territorial, por concepto de:
+
+I.- Registros catastrales:
+
+1.- Revisión, cálculo y registro sobre planos de fraccionamientos y lotificaciones, incluyendo los fideicomisos de administración.
+
+a).- Urbano en general $0.44 (44/100 M.N.) por M2 vendible
+
+b).- Urbanos, viviendas populares $0.22 (22/100 M.N.) por M2 vendible
+
+c).- Campestre e industriales $0.29 (29/100 M.N.) por M2 vendible
+
+2.- Revisión, cálculo y registro sobre planos de predios
+
+a).- Urbanos sobre el valor catastral el 1.5 al millar
+
+b).- Rústicos, sobre el valor catastral el 1.5 al millar
+
+II.- Certificados catastrales
+
+1.- La certificación de valores catastrales, de superficies catastrales, de nombre de propietario, poseedor o de detentador de un predio, de colindancia y dimensiones, de inexistencias de registro a nombre del solicitante y en general del manifestado datos de las que figuran en los archivos del departamento $67.00 (SESENTA Y SIETE PESOS 00/100 MN.), por cada uno.
+
+2.- Certificación de planos de predios urbanos y rústicos de los que coinciden con la información cartográfica catastral; para el trámite de adquisición de inmuebles $133.00 (CIENTO TREINTA Y TRES 00/100 M.N) por cada uno.
+
+3.- Expedición de cédula inmobiliaria catastral para escrituración de inmuebles urbanos de interés social $222.00 (DOSCIENTOS VEINTIDÓS PESOS 00/100 M.N.) por cada una.
+
+4.- Expedición de cédula inmobiliaria catastral para escrituración de inmuebles urbano y rústico $296.00 (DOSCIENTOS NOVENTA Y SEIS PESOS 00/100 M.N.) cada una.
+
+III.- Servicios de inspección de campo:
+
+1.- Verificación de información $133.00 (CIENTO TREINTA Y TRES PESOS 00/100 M.N.
+
+2.- La visita al predio $2.22 (DOS PESOS 22/100 M.N.) por M2
+
+IV.- Servicios topográficos
+
+1.- Deslinde de predios urbanos $2.96 (DOS PESOS 96/100 M.N.) por M2
+
+2.- Deslinde de predios en breña $0.37 (37/100 M.N.) por M2
+
+3.- Deslinde de predios rústicos
+
+a).- Terrenos planos desmontados $30.00 (TREINTA PESOS 00/100 M.N.) por hectárea
+
+b).- Terrenos planos con monte $44.00 (CUARENTA Y CUATRO PESOS 00/100 M.N. por hectárea
+
+c).- Terrenos con accidentes topográficos con monte $89.00 (OCHENTA Y NUEVE PESOS 00/100 M.N.) por hectárea
+
+d).- Terrenos con accidentes topográficos desmontados $67.00 (SESENTA Y SIETE PESOS 00/100 M.N.) por hectárea
+
+e).- Terrenos accidentados $148.00 (CIENTO CUARENTA Y OCHO PESOS 00/100 M.N.) por hectárea
+
+4.- Para los dos incisos anteriores, cualquiera que sea la superficie del predio, el importe de los derechos no podrá ser inferior a $665.00 (SEISCIENTOS SESENTA Y CINCO PESOS 00/100 M.N.)
+
+V.- Servicios fotogramétricos consistentes en:
+
+1.- Copia de la información existente en los archivos digitales
+
+a).- Fotografía aérea, copias de contacto de 23 x 23 cms. $355.00 (TRESCIENTOS CINCUENTA Y CINCO PESOS 00/100 M.N.) cada una.
+
+b).- Coordenadas de puntos de control orientados con el Sistema Global de Posicionamiento $1,921.00 (UN MIL NOVECIENTOS VEINTIÚN PESOS 00/100 M.N.) cada una.
+
+c).- Restitución fotogramétrica escala 1:5000 con curva de nivel cada 5 mts., $3,547.00 (TRES MIL QUINIENTOS CUARENTA Y SIETE PESOS 00/100 M.N.) Km2.
+
+VI.- Servicios de dibujo
+
+1.- Dibujo de planos urbanos, escalas hasta de 1:500
+
+a).- Tamaño del plano hasta 30 x 30 cms., $48.00 (CUARENTA Y OCHO PESOS 00/100 M.N.).
+
+b).- Sobre el excedente del tamaño anterior por decímetro cuadrado o fracción $9.00 (NUEVE PESOS 00/100 M.N.).
+
+2.- Dibujo de planos topográficos suburbanos y rústicos, escala mayor a 1:500 y tamaño del plano hasta 50 x 50 cms.
+
+a).- Polígono de hasta seis vértices $148.00 (CIENTO CUARENTA Y OCHO PESOS 00/100 M.N.)
+
+b).- Por cada vértice adicional $9.00 (NUEVE PESOS 00/100 M.N.)
+
+c).- Planos que exceden de 50 x 50 cms. Sobre los dos incisos anteriores, causarán derechos por cada decímetro cuadrado adicional o fracción $16.00 (DIECISÉIS PESOS 00/100 M.N).
+
+3.- Croquis de localización $67.00 (SESENTA Y SIETE PESOS 00/100 M.N.)
+
+4.- Servicios de digitalización y graficación de información cartográfica
+
+a).- De información catastral existente de $ 1,626.00 (UN MIL SEISCIENTOS VEINTISÉIS PESOS 00/100 M.N.) por Km2.
+
+b).- De proyectos especiales $517.00 (QUINIENTOS DIECISIETE PESOS 00/100 M.N.) por Km2.
+
+c).- Plano de la ciudad digitalizado $5,173.00 (CINCO MIL CIENTO SETENTA Y TRES PESOS 00/100 M.N.)
+
+d).- Lámina catastral digitalizada $6,651.00 (SEIS MIL SEISCIENTOS CINCUENTA Y UN PESOS 00/100 M.N.)
+
+VII.- Servicios de copiado
+
+1.- Copias xerográficas de planos que obren en los archivos del departamento
+
+a).- Hasta 30 x 30 cms. $30.00 (TREINTA PESOS 00/100 M.N.)
+
+b).- En tamaños mayores, por cada decímetro cuadrado adicional o fracción $7.40 (SIETE PESOS 40/100 M.N.).
+
+2.- Copias fotostáticas de planos o manifiestos que obren en los archivos del departamento, hasta tamaño oficio $ 22.00 (VEINTIDÓS PESOS 00/100 M.N.) por cada uno.
+
+3.- Copia xerográfica del plano urbano general catastral
+
+a).- Escala 1:10000 $665.00 (SEISCIENTOS SESENTA Y CINCO PESOS 00/100 M.N.)
+
+b).- Escalas mayores a 1:10000 a $393.00 TRESCIENTOS NOVENTA Y TRES PESOS 00/100 M.N.)
+
+4.- Copia de la cartografía catastral urbana
+
+a).- De la lámina catastral escala 1:1000 a $ 1,256.00 (UN MIL DOSCIENTOS CINCUENTA Y SEIS PESOS 00/100 M.N.)
+
+b).- De la manzana catastral escala 1: 1000 a $369.00 (TRESCIENTOS SESENTA Y NUEVE PESOS 00/100 M.N.)
+
+5.- Por otros servicios catastrales no incluidos en fracciones anteriores de $49.00 (CUARENTA Y NUEVE PESOS 00/100 M.N.) a $689.00 (SEISCIENTOS OCHENTA Y NUEVE PEOS (SIC) 00/100 M.N.).
+
+VIII.- Formatos catastrales valorados
+
+1.- Forma de declaración para el pago del ISAI, en original y cinco copias así como folio de control $250.00 (DOSCIENTOS CINCUENTA PESOS 00/100 M.N.) por cada juego.
+
+(REUBICADA [N. DE E. ANTES SECCIÓN SEGUNDA], P.O. 22 DE DICIEMBRE DE 2015)
+
+#### SECCION PRIMERA. POR SERVICIOS PRESTADOS POR EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO INSTITUTO COAHUILENSE DE CULTURA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### ARTICULO 139.
 
@@ -2065,29 +2371,81 @@ El pago de los derechos a que se refiere esta Sección, deberá efectuarse en la
 
 ###### ARTICULO 141-A.
 
-Los servicios que prestados (sic) la Secretaría de Infraestructura, causarán los derechos siguientes:
+Los servicios que presta la Secretaría de Infraestructura, causarán los derechos siguientes:
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 I. Por la expedición del permiso para la instalación de anuncios publicitarios y señalamientos informativos dentro o fuera del derecho de vía de las carreteras y caminos locales, se pagarán anualmente los derechos conforme a las cuotas que para cada caso a continuación se señala:
 
-1. Anuncios publicitarios que tienen una superficie total hasta de 25 metros cuadrados: 25 veces el salario mínimo vigente en el Estado.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
-2. Anuncios publicitarios que tienen una superficie total hasta de 50 metros cuadrados: 30 veces el salario mínimo vigente en el Estado.
+1. Anuncios publicitarios que tienen una superficie total hasta de 25 metros cuadrados: 50 Unidades de Cuenta en el Estado.
 
-3. Anuncios publicitarios que tienen una superficie total de más de 50 metros cuadrados: 60 veces el salario mínimo vigente en el Estado.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
-4. Señales informativas: 50 veces el salario mínimo vigente en el Estado.
+2. Anuncios publicitarios que tienen una superficie total hasta de 50 metros cuadrados: 60 Unidades de Cuenta en el Estado.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+3. Anuncios publicitarios que tienen una superficie total de más de 50 metros cuadrados: 120 Unidades de Cuenta en el Estado.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+4. Señales informativas: 50 Unidades de Cuenta en el Estado.
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 II. Por el otorgamiento de permisos para la construcción de obras dentro del derecho de vía de los caminos y carreteras estatales, se pagarán derechos conforme a las siguientes cuotas:
 
-1. Estudios técnicos de planos, proyectos y memorias de obra, para obras e instalaciones marginales dentro del derecho de vía, cruzamientos superficiales, subterráneos o aéreos que atraviesen carreteras o caminos de jurisdicción estatal, por cada 100 metros o fracción que exceda de dicha longitud: 30 veces el salario mínimo vigente en el estado.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+1. Para obra e instalaciones superficiales, subterráneas o aéreas marginales dentro del derecho de vía, por cada 100 metros o fracción que exceda de dicha longitud: 60 Unidades de Cuenta en el estado.
 
 2. Por la autorización para la construcción de accesos que afecten el derecho de vía en caminos y carreteras, incluyendo la supervisión de la obra, 14% sobre el costo de la misma.
 
-3. Por el estudio técnico del proyecto, supervisión y autorización de obras para paradores 1% sobre el costo total de la obra.
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
-4. Por el estudio técnico de planos, proyectos y memorias de obra y expedición de la autorización para la construcción de obras e instalaciones marginales subterráneas para cables de redes de telecomunicación que se realicen dentro de los derechos de vía de caminos y carreteras estatales, por kilómetro o fracción: 30 veces el salario mínimo vigente en el estado.
+3. Por el otorgamiento de permiso anual para la instalación y/o operación de paradores 2% sobre el costo total de la obra.
+
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+4. Para obras de cruzamiento superficiales, subterráneas o aéreas dentro del derecho de vía, por cada 100 metros o fracción que exceda dicha longitud: 100 Unidades de Cuenta en el Estado.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+5. Por el otorgamiento de permiso para la construcción, instalación o adaptación de cualquier tipo de elemento de equipamiento dentro del derecho de vía: 2% sobre el costo total de la obra.
+
+Por el otorgamiento de permiso anual para la instalación de cualquier tipo de dispositivo para el control de tránsito dentro del derecho de vía: 25 Unidades de Cuenta en el Estado.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+6. Por el otorgamiento de permiso para el remozamiento, pintura, rotulación, reparación, conservación mantenimiento de cualquier tipo de obra; elemento de equipamiento, mobiliario o dispositivos para el control de tránsito que se encuentren dentro del derecho de vía: 1% del valor de la obra.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+7. Por el otorgamiento de permiso anual para la explotación y/o operación de bancos de material en el derecho de vía o zonas laterales: 50 Unidades de Cuenta en el Estado.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+8. Por el otorgamiento de permiso para la instalación de cercas o barreras laterales en sus diversas modalidades que se ubiquen en el derecho de vía: 2% del valor total de la obra.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+9. Por el otorgamiento de permiso para la conservación, rehabilitación, reconstrucción, pavimentación o ampliación de caminos estatales: 1% del valor total de la obra.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+10. Por el otorgamiento de permiso para la construcción de puentes peatonales dentro del derecho de vía: 2% del costo total de la obra.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+11. Por el otorgamiento de permiso para la construcción de puentes vehiculares dentro del derecho de vía: 1% del costo total de la obra.
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 III. Certificaciones, $44.00 (CUARENTA Y CUATRO PESOS 00/100 M.N.), por la primera hoja; $5.00 (CINCO PESOS 00/100 M.N.), por hoja adicional;
+
+> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
 IV. Expedición de copia simple, $5.00 (CINCO PESOS 00/100 M.N.), por hoja; (sic)
 
@@ -2111,11 +2469,11 @@ El pago de los derechos a que se refiere este Capítulo, deberá efectuarse en l
 
 ### CAPITULO SEPTIMO. POR SERVICIOS DE LA SECRETARIA DE MEDIO AMBIENTE
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2015", PUBLICADA EN EL ORDINARIO DEL P.O. DE 26 DE DICIEMBRE DE 2014.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
 
 ###### ARTICULO 142.
 
-Los servicios que presta la Secretaría de Educación causarán derechos, conforme a la siguiente
+Los servicios que presta la Secretaría de Educación causarán derechos, conforme a la siguiente:
 
 TARIFA
 
@@ -2349,7 +2707,7 @@ El pago de los derechos a que se refiere este capítulo deberá efectuarse en la
 
 Por el servicio de verificación, evaluación y supervisión que las leyes de la materia encomiendan a la Secretaría de la Fiscalización y Rendición de Cuentas en la ejecución de obra pública, los contratistas con quienes se celebren contratos de obra pública directa del Estado y de servicios relacionados con la misma, pagarán un derecho equivalente al 5 al millar sobre el importe de cada una de las estimaciones de obra que presenten o sobre el importe del contrato.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2015", PUBLICADA EN EL ORDINARIO DEL P.O. DE 26 DE DICIEMBRE DE 2014.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
 
 ###### ARTICULO 149.
 
@@ -2407,19 +2765,17 @@ BASE
 
 OBJETO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 #### SECCION CUARTA. LOS PRESTADOS POR SUS UNIDADES ADMINISTRATIVAS
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2015", PUBLICADA EN EL ORDINARIO DEL P.O. DE 26 DE DICIEMBRE DE 2014.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
 
 ###### ARTICULO 154.
 
 La base para este derecho será la tonelada o equivalencia de mineral beneficiado.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2015", PUBLICADA EN EL ORDINARIO DEL P.O. DE 26 DE DICIEMBRE DE 2014.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
 
 ###### ARTICULO 155.
 
@@ -2437,7 +2793,7 @@ PAGO
 
 #### SECCION PRIMERA. POR SERVICIOS DE CONTROL DE TRANSPORTE PUBLICO
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2015", PUBLICADA EN EL ORDINARIO DEL P.O. DE 26 DE DICIEMBRE DE 2014.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
@@ -2455,65 +2811,17 @@ Los servicios que presta la Procuraduría General de Justicia del Estado a trav�
 
 TARIFA
 
-I. Los pres-tados (sic) por el Departamento de Servicios Periciales de:
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
-1. Pruebas y Técnicas:
+I. Por la constancia de no robo de vehículo, $200.00 (DOSCIENTOS PESOS 00/100 M.N.).
 
-a. Prueba de espermatobioscopia, $180.00 (CIENTO OCHENTA PESOS 00/100 M.N.)
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
-b. Técnica de bencidina, $250.00 (DOSCIENTOS CINCUENTA PESOS 00/100 M.N.);
+II. Certificaciones y constancias, $46.00 (CUARENTA Y SEIS PESOS 00/100 M.N.) por la primera hoja, y $5.00 (CINCO PESOS 00/100 M.N.) por hoja adicional.
 
-c. Técnica de fonolftaleina, $290.00 (DOSCIENTOS NOVENTA PESOS 00/100 M.N.);
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
 
-d. Prueba de leucomalaquita verde, $300.00 (TRESCIENTOS PESOS 00/100 M.N.);
-
-e. Prueba de determinación de grupo sanguíneo, $440.00 (CUATROCIENTOS CUARENTA PESOS 00/100 M.N.);
-
-f. Prueba de determinación de grupo sanguíneo/factor R.H., $560.00 (QUINIENTOS SESENTA PESOS 00/100 M.N.);
-
-g. Prueba de dequenois, $300.00 (TRESCIENTOS PESOS 00/100 M.N.);
-
-h. Prueba de radiozonato de sodio, $330.00 (TRESCIENTOS TREINTA PESOS 00/100 M.N.);
-
-i. Prueba de walker, $740.00 (SETECIENTOS CUARENTA PESOS 00/100 M.N.);
-
-j. Técnica de adler, $290.00 (DOSCIENTOS NOVENTA PESOS 00/100 M.N.);
-
-k. Técnica de takayama, $420.00 (CUATROCIENTOS VEINTE PESOS 00/100 M.N.);
-
-l. Prueba de fosfatasa, $1,160.00 (MIL CIENTO SESENTA PESOS 00/100 M.N.);
-
-m. Prueba de identificación de drogas diversas (anfetaminas, heroína cocaína, etc.), $580.00 (QUINIENTOS OCHENTA PESOS 00/100 M.N.); y
-
-n. Prueba para detectar el consumo de substancias consideradas como narcóticos (antidoping), $620.00 (SEISCIENTOS VEINTE PESOS 00/100 M.N.).
-
-2. Otros servicios periciales:
-
-a. Cotejo de proyectiles, $1,140.00 (MIL CIENTO CUARENTA PESOS 00/100 M.N.);
-
-b. Peritaje de tránsito terrestre, $2,710.00 (DOS MIL SETECIENTOS DIEZ PESOS 00/100 M.N.);
-
-c. Grafoscopía, $1,990.00 (MIL NOVECIENTOS NOVENTA PESOS 00/100 M.N.);
-
-d. Valoración de daños, $2,580.00 (DOS MIL QUINIENTOS OCHENTA PESOS 00/100 M.N.);
-
-e. Dactiloscopía, $1,580.00 (MIL QUINIENTOS OCHENTA PESOS 00/100 M.N.);
-
-f. Certificados de no antecedentes penales $100.00 (CIEN PESOS 00/100 M.N.)
-
-g. Certificaciones y constancias, $40.00 (CUARENTA PESOS 00/100 M.N.) por la primera hoja, y $5.00 (CINCO PESOS 00/100 M.N.) por hoja adicional.
-
-En todos los casos en que el personal del Departamento de Servicios Periciales, con o sin equipo, deba trasladarse fuera de los locales en que normalmente prestan sus servicios, se causarán derechos de $30.00 (TREINTA PESOS 00/100 M.N.) por kilómetro.
-
-II. Los prestados por otras unidades administrativas de la Fiscalía General del Estado:
-
-1. Certificaciones y constancias, $40.00 (CUARENTA PESOS 00/100 M.N.) por la primera hoja, y $5.00 (CINCO PESOS 00/100 M.N.) por hoja adicional.
-
-2. Por otros servicios no especificados, $210.00 (DOSCIENTOS DIEZ PESOS 00/100 M.N.).
-
-> <small>(ADICIONADA, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
-III. Por el uso y mantenimiento de un dispositivo de monitoreo electrónico de localización a distancia, para personas que hayan sido sentenciadas dentro de un proceso penal y que se hagan acreedores a dicha medida de seguridad, $5,000.00 (CINCO MIL PESOS 00/100 M.N.) mensuales.
+III. Por otros servicios no especificados, $239.00 (DOSCIENTOS TREINTA Y NUEVE PESOS 00/100 M.N.).
 
 PAGO
 
@@ -2523,19 +2831,23 @@ OBJETO
 
 ### CAPITULO DECIMO SEGUNDO. POR SERVICIOS DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-#### SECCION SEGUNDA. POR OTROS SERVICIOS
-
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2015", PUBLICADA EN EL ORDINARIO DEL P.O. DE 26 DE DICIEMBRE DE 2014.]</small>
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
-
-#### SECCION PRIMERA. POR SERVICIOS PRESTADOS POR EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO INSTITUTO COAHUILENSE DE CULTURA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
 #### SECCION SEGUNDA. POR SERVICIOS PRESTADOS POR EL INSTITUTO ESTATAL DEL DEPORTE DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 OBJETO
+
+#### SECCION SEGUNDA. POR SERVICIOS DE LA COMISIÓN ESTATAL DE LA VIVIENDA
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+#### SECCION TERCERA. DE LOS SERVICIOS CATASTRALES QUE REALIZA EL INSTITUTO COAHUILENSE DEL CATASTRO Y LA INFORMACIÓN TERRITORIAL DEL ESTADO DE COAHUILA DE ZARAGOZA
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+#### SECCION TERCERA (SIC). POR OTROS SERVICIOS
+
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
+
+> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2012)</small>
 
 ### CAPITULO DECIMO TERCERO. POR SERVICIOS DE ORGANISMOS DESCENTRALIZADOS DE GOBIERNO
 
@@ -2559,7 +2871,7 @@ SUJETO
 
 Son sujetos de este derecho las personas físicas y morales que soliciten los servicios a que se refiere el artículo anterior.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2015", PUBLICADA EN EL ORDINARIO DEL P.O. DE 26 DE DICIEMBRE DE 2014.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
 
 ###### ARTICULO 161.
 
@@ -2651,7 +2963,7 @@ SUJETO
 
 Son sujetos de este derecho las personas físicas y morales que soliciten los servicios a que se refiere el artículo anterior.
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2015", PUBLICADA EN EL ORDINARIO DEL P.O. DE 26 DE DICIEMBRE DE 2014.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]</small>
 
 ###### ARTICULO 174.
 
@@ -2851,7 +3163,7 @@ El pago de esta contribución deberá efectuarse en las autoridades fiscales, In
 
 (DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2015", PUBLICADA EN EL ORDINARIO DEL P.O. DE 26 DE DICIEMBRE DE 2014, EL ARTÍCULO 192 MUESTRA UNA ACTUALIZACIÓN.]</small>
+> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015, EL ARTÍCULO 192 MUESTRA UNA ACTUALIZACIÓN.]</small>
 
 ###### ARTICULO 192.
 
@@ -2859,7 +3171,7 @@ El pago de esta contribución deberá efectuarse en las autoridades fiscales, In
 
 ## TITULO V. PRODUCTOS
 
-> <small>[N. DE E. PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2015", PUBLICADA EN EL ORDINARIO DEL P.O. DE 26 DE DICIEMBRE DE 2014.]</small>
+PARA CONSULTAR LAS CUOTAS Y TARIFAS ACTUALIZADAS DEL PRESENTE ORDENAMIENTO VÉASE LA "INFORMACIÓN FISCAL SOBRE TARIFAS DE LAS CONTRIBUCIONES ESTABLECIDAS EN LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA, APLICABLES DURANTE EL EJERCICIO FISCAL 2016" PUBLICADA EN EL ORDINARIO DEL P.O. DE 22 DE DICIEMBRE DE 2015.]
 
 ###### ARTICULO 216.
 
@@ -3286,3 +3598,19 @@ P.O. 23 DE OCTUBRE DE 2015.
 PRIMERO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 22 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 333.- SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA PARA EL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero de dos mil dieciséis.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado.
