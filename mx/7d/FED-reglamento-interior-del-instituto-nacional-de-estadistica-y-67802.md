@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-instituto-nacional-de-estadistica-y-678
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-31"
-last_updated: "2015-06-18"
+last_updated: "2015-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67802&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-03-25"
 
 REGLAMENTO INTERIOR DEL INSTITUTO NACIONAL DE ESTADÍSTICA Y GEOGRAFÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE DICIEMBRE DE 2015.
 
 Reglamento publicado en la Cuarta Sección del Diario Oficial de la Federación, el martes 31 de marzo de 2009.
 
@@ -267,9 +267,9 @@ IX. Aprobar el Reglamento Interior del Instituto y las modificaciones al mismo;
 
 X. Aprobar el Programa Anual de Trabajo del Instituto, el cual deberá elaborarse con base en el Programa Anual de Estadística y Geografía previsto en la fracción III del artículo 9 de la Ley; el Anteproyecto de Presupuesto Anual; el establecimiento y cierre de oficinas regionales y otras instalaciones u oficinas con base en su disponibilidad presupuestaria; así como el nombramiento y remoción de los servidores públicos que ocupen los dos niveles jerárquicos inferiores al de miembro de la Junta de Gobierno;
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2015)</small>
 
-XI. Aprobar al final de cada año, el calendario que contenga las fechas de publicación de Información de Interés Nacional a que habrá de sujetarse el Instituto, en el año inmediato siguiente y las revisiones al mismo;
+XI. Aprobar al final de cada año, el calendario anual de difusión de la información estadística y geográfica y de Interés Nacional del Instituto, a los que habrá de sujetarse el Instituto, en el año inmediato siguiente;
 
 XII. Expedir los lineamientos generales, otorgar las autorizaciones y establecer los registros a que se refieren los artículos 58, 60, 61, 93 y 95 de la Ley;
 
@@ -359,7 +359,9 @@ II. Ejecutar los acuerdos de la Junta de Gobierno;
 
 III. Someter a la consideración y, en su caso, aprobación de la Junta de Gobierno los asuntos mencionados en las fracciones I, III, X y XIV del artículo 77 de la Ley. Tratándose de lo dispuesto en la fracción I del citado artículo 77, y antes de someter el asunto a la consideración de la Junta de Gobierno, en cumplimiento a lo dispuesto en el artículo 15 fracción I de la Ley, el Presidente deberá consultar al Consejo y a las demás instancias que procedan en términos de lo dispuesto por dicho ordenamiento;
 
-IV. Dar a conocer a los Poderes de la Unión y al público en general el calendario de publicación de Información de Interés Nacional una vez aprobado por la Junta de Gobierno;
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2015)</small>
+
+IV. Dar a conocer a los Poderes de la Unión y al público en general el calendario anual de difusión de la información estadística y geográfica y de Interés Nacional del Instituto, una vez aprobados por la Junta de Gobierno;
 
 V. Aplicar las políticas para la administración de los recursos humanos, financieros y materiales del Instituto, de acuerdo a sus programas y objetivos;
 
@@ -1197,6 +1199,12 @@ I. Coordinar la generación de información estadística con base en el levantam
 
 II. Coordinar la generación del Indice Nacional de Precios al Consumidor y el Indice Nacional de Precios Productor, conforme a las disposiciones normativas que al efecto apruebe la Junta de Gobierno;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2015)</small>
+
+II Bis. Coordinar la generación de la Unidad de Medida y Actualización, conforme a las disposiciones legales vigentes;
+
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
 III. Planear, programar y supervisar la organización, desarrollo y producción del Sistema de Cuentas Nacionales anuales y trimestrales, así como, los indicadores de corto plazo y las cuentas satélite, que de aquéllas se deriven; la actualización periódica del año base de los cálculos, y difundir las metodologías de cálculo y los resultados obtenidos entre los usuarios del Sistema;
@@ -1550,6 +1558,12 @@ XIX. Diseñar, implementar y evaluar el proceso metodológico para el cambio de 
 > <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 17 DE DICIEMBRE DE 2014)</small>
 
 XX. Proponer e implementar en los levantamientos de información de Índices Nacionales de Precios al Consumidor y Productor (sic) las acciones requeridas para que los Informantes incurran en los menores costos posibles en la entrega de la información que se les solicite.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO</small>
+
+> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2015)</small>
+
+XX Bis. Determinar y publicar en el Diario Oficial de la Federación el valor de la Unidad de Medida y Actualización, y difundirlo a través del portal institucional en Internet, conforme al procedimiento y periodicidad que establezca la legislación aplicable;
 
 > <small>(ADICIONADA, D.O.F. 17 DE DICIEMBRE DE 2014)</small>
 
@@ -1981,7 +1995,9 @@ I. Proponer políticas, normas y procedimientos para la integración de la infor
 
 II. Integrar estadísticas nacionales, sectoriales, estatales y regionales;
 
-III. Proponer al Presidente, previa consulta a las Unidades Administrativas del Instituto, el Calendario Anual de Publicación de Información de Interés Nacional y el Calendario de Difusión de Información de Coyuntura, para su aprobación por la Junta de Gobierno;
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2015)</small>
+
+III. Proporcionar a la Dirección General de Vinculación y Servicio Público de Información, previa consulta a las Unidades Administrativas del Instituto, las fechas propuestas de publicación de los indicadores económicos de coyuntura y de la Información de Interés Nacional que genera el Instituto, para su integración al calendario anual de difusión de la información estadística y geográfica y de Interés Nacional del Instituto, para su aprobación por la Junta de Gobierno;
 
 IV. (DEROGADA, D.O.F. 3 DE AGOSTO DE 2012)
 
@@ -2047,11 +2063,13 @@ X. Las facultades que expresamente le otorga a su Titular el artículo 13 de est
 
 Son atribuciones específicas de la Dirección General Adjunta de Análisis y Estudios Económicos, las siguientes:
 
-I. Integrar el calendario anual de indicadores económicos de coyuntura;
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
+I. Integrar las fechas propuestas de publicación de los indicadores económicos de coyuntura y de la Información de Interés Nacional que genera el Instituto, que se incorporarán al calendario anual de difusión de la información estadística y geográfica y de Interés Nacional del Instituto;
 
-II. Elaborar notas informativas utilizando la información generada por el Instituto y otras Unidades del Estado, en coordinación con la Dirección General Adjunta de Comunicación;
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2015)</small>
+
+II. Elaborar notas informativas utilizando la información generada por el Instituto, en coordinación con la Dirección General Adjunta de Comunicación;
 
 III. Diseñar y elaborar estudios econométricos que permitan generar estadística económica derivada que complemente la información producida por otras Unidades Administrativas del Instituto;
 
@@ -2493,6 +2511,10 @@ XIII. Dirigir la prestación del Servicio Público de Información Estadística 
 
 XIV. Proponer, aplicar y dirigir las políticas, normas y procedimientos para la promoción y difusión de la información estadística y geográfica que producen las Unidades del Estado e integra el Instituto;
 
+> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2015)</small>
+
+XIV Bis. Presentar a la Junta de Gobierno la propuesta de calendario anual de difusión de la información estadística y geográfica y de Interés Nacional del Instituto y sus revisiones, para su aprobación;
+
 > <small>(REFORMADA, D.O.F. 3 DE JUNIO DE 2011)</small>
 
 XV. Proponer y aplicar estrategias, políticas y las disposiciones normativas en materia de atención a usuarios y comercialización de productos y servicios respecto a la información generada por el Instituto;
@@ -2549,7 +2571,13 @@ V. Diseñar e Implementar la estrategia de promoción del conocimiento y uso de 
 
 VI. Diseñar, coordinar y administrar el Sitio del INEGI en Internet y administrar la difusión de información que genere el Instituto por medios electrónicos, de acuerdo a las mejores prácticas internacionales;
 
-VII. Difundir el Calendario Anual de Publicación de Información de Interés Nacional y el Calendario de Difusión de Información Estadística y Geográfica;
+> <small>(REFORMADA, D.O.F. 22 DE DICIEMBRE DE 2015)</small>
+
+VII. Integrar y presentar a la Dirección General el calendario anual de difusión de la información estadística y geográfica y de Interés Nacional del Instituto y sus revisiones, previa consulta a las Unidades Administrativas del Instituto;
+
+> <small>(ADICIONADA, D.O.F. 22 DE DICIEMBRE DE 2015)</small>
+
+VII Bis. Difundir el calendario anual de difusión de la información estadística y geográfica y de Interés Nacional del Instituto y sus revisiones, una vez autorizado por la Junta de Gobierno;
 
 VIII. Proponer e implementar las disposiciones normativas en materia de atención a usuarios, edición y difusión de información estadística y geográfica, así como de productos y servicios que genera el Instituto;
 
@@ -3458,3 +3486,9 @@ SEGUNDO.- A la entrada en vigor del presente Acuerdo, los asuntos en trámite se
 D.O.F. 18 DE JUNIO DE 2015.
 
 ÚNICO.- Las reformas al Reglamento Interior del Instituto Nacional de Estadística y Geografía aprobadas por el presente Acuerdo, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 22 DE DICIEMBRE DE 2015.
+
+PRIMERO.- Las reformas al Reglamento Interior del Instituto Nacional de Estadística y Geografía aprobadas por el presente Acuerdo, entrarán en vigor al día siguiente de la publicación en el Diario Oficial de la Federación, con excepción de la reforma de los artículos 19 y 23 del citado Reglamento, la cual entrará en vigor una vez que esté vigente el Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo.
+
+SEGUNDO.- El Instituto generará la Unidad de Medida y Actualización conforme al artículo Quinto transitorio de Decreto por el que se reforman y adicionan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de desindexación del salario mínimo, en tanto se emite la legislación correspondiente.
