@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-administracion-publica-del-estado-de-84030"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-11-30"
-last_updated: "2015-12-08"
+last_updated: "2015-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Coahuila, el miércoles 30 de noviembre de 2011.
 
@@ -1167,6 +1167,10 @@ XXXVII. Administrar y vigilar los almacenes generales en donde se depositan bien
 
 XXXVIII. Emitir lineamientos sobre contabilidad gubernamental y forma de consolidación de la información financiera, conforme a la normativa aplicable.
 
+> <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+XXXIX. Licitar y adjudicar contratos de obra pública, adquisiciones, arrendamientos y servicios, de conformidad con la normativa aplicable;
+
 Para la recaudación de impuestos, derechos, contribuciones y cualquier otra carga tributaria y para el ejercicio de aquellas atribuciones en la materia que se convengan con la federación y los municipios, la dependencia tendrá una unidad administrativa especializada denominada Administración Fiscal General.
 
 Las funciones de fiscalización, ejecución, representación legal y defensa jurídica de los intereses de la hacienda pública y administración tributaria serán ejercidas por la dependencia a través de la Administración Fiscal General.
@@ -1269,7 +1273,9 @@ III. Construir y conservar las obras públicas y la infraestructura de la red de
 
 IV. Brindar la asesoría técnica a las dependencias y entidades, así como a los municipios que lo soliciten, para la planeación, proyección, contratación, ejecución y supervisión de obras públicas y la conservación de las mismas;
 
-V. Licitar y adjudicar contratos de obra pública y bienes muebles, así como supervisar y vigilar el cumplimiento a la normatividad vigente y los requisitos técnicos de los proyectos;
+> <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+V. Elaborar los proyectos de obra pública a cargo del Estado, así como supervisar y vigilar el cumplimiento a la normatividad aplicable y requisitos técnicos de los mismos;
 
 VI. Integrar y mantener actualizado el inventario de la infraestructura de vías de comunicación de jurisdicción estatal;
 
@@ -1864,3 +1870,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
 TERCERO.- La Secretaría de Cultura contará con un plazo no mayor a 15 días naturales a partir de la entrada en vigor del presente Decreto para realizar las adecuaciones a su reglamento interior.
+
+P.O. 22 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 248.- SE MODIFICA LA FRACCIÓN V DEL ARTÍCULO 31; SE ADICIONA LA FRACCIÓN XXXIX DEL ARTÍCULO 29, DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan a In previsto en este Decreto.
