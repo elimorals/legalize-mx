@@ -4,7 +4,7 @@ identifier: "COA-codigo-fiscal-para-el-estado-de-coahuila-de-zaragoza-37936"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-01-02"
-last_updated: "2014-12-23"
+last_updated: "2015-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37936&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila, el viernes 2 de enero de 2004.
 
@@ -695,7 +695,11 @@ La Secretaría de Finanzas a través de la Administración Fiscal General deber�
 
 ## TITULO III. DE LAS FACULTADES DE LAS AUTORIDADES FISCALES
 
-### CAPITULO UNICO
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE NUMERACIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU NUMERACIÓN, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO PRIMERO
 
 ###### ARTICULO 33.
 
@@ -1295,11 +1299,73 @@ Los contribuyentes, transcurridos los plazos a que se refiere este artículo, po
 
 El personal oficial que intervenga en los diversos trámites relativos a la aplicación de las disposiciones tributarias estará obligado a guardar absoluta reserva en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación. Dicha reserva no comprenderá los casos que señalen las leyes fiscales y aquellos en que deban suministrarse datos a los funcionarios encargados de la administración y de la defensa de los intereses fiscales del estado, a las autoridades judiciales en procesos del orden penal o a los Tribunales competentes que conozcan de pensiones alimenticias, o en los supuestos previstos en la Ley de Acceso a la Información Pública del Estado de Coahuila. Dicha reserva tampoco comprenderá la información relativa a los créditos fiscales firmes de los contribuyentes, que las autoridades fiscales proporcionen a las sociedades de información crediticia que obtengan autorización de la Secretaría de Hacienda y Crédito Público, así como la que se proporcione para efectos de la notificación por terceros a que se refiere el último párrafo del artículo 117 de este Código.
 
-### CAPITULO I. DE LAS INFRACCIONES
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO SEGUNDO. De los Acuerdos Conclusivos
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 62-A.
+
+Cuando los contribuyentes sean objeto del ejercicio de las facultades de comprobación a que se refiere el artículo 42, fracciones II o III de este Código y no estén de acuerdo con los hechos u omisiones asentados en la última acta parcial, en el acta final, en el oficio de observaciones, que puedan entrañar incumplimiento de las disposiciones fiscales, podrán optar por solicitar la adopción de un acuerdo conclusivo. Dicho acuerdo podrá versar sobre uno o varios de los hechos u omisiones consignados y será definitivo en cuanto al hecho u omisión sobre el que verse.
+
+Sin perjuicio de lo dispuesto en el párrafo anterior, los contribuyentes podrán solicitar la adopción del acuerdo conclusivo en cualquier momento, a partir de que dé inicio el ejercicio de facultades de comprobación y hasta antes de que se les notifique la resolución que determine el monto de las contribuciones omitidas, siempre que la autoridad revisora ya haya hecho una calificación de hechos u omisiones.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 62-B.
+
+El contribuyente que opte por el acuerdo conclusivo lo tramitará a través de la Defensoría para la Protección y Promoción de los Derechos del Contribuyente. En el escrito inicial deberá señalar los hechos u omisiones que se le atribuyen con los cuales no esté de acuerdo, expresando la calificación que, en su opinión, debe darse a los mismos, y podrá adjuntar la documentación que considere necesaria.
+
+Recibida la solicitud, la Defensoría para la Protección y Promoción de los Derechos del Contribuyente requerirá a la autoridad revisora para que, en un plazo de veinte días, contados a partir del requerimiento, manifieste si acepta o no los términos en que se plantea el acuerdo conclusivo; los fundamentos y motivos por los cuales no se acepta, o bien, exprese los términos en que procedería la adopción de dicho acuerdo.
+
+En caso de que la autoridad revisora no atienda el requerimiento a que se refiere el párrafo anterior procederá la imposición de la multa prevista en el artículo 31, fracción I, de la Ley para la Protección y Promoción de los Derechos del Contribuyente del Estado de Coahuila de Zaragoza.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 62-C.
+
+La Defensoría para la Protección y Promoción de los Derechos del Contribuyente, una vez que acuse recibo de la respuesta de la autoridad fiscal, contará con un plazo de veinte días para concluir el procedimiento a que se refiere este Capítulo, lo que se notificará a las partes. De concluirse el procedimiento con la suscripción del Acuerdo, éste deberá firmarse por el contribuyente y la autoridad revisora, así como por la referida Defensoría.
+
+Para mejor proveer a la adopción del acuerdo conclusivo, la Defensoría para la Protección y Promoción de los Derechos del Contribuyente podrá convocar a mesas de trabajo, promoviendo en todo momento la emisión consensuada del acuerdo entre autoridad y contribuyente.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 62-D.
+
+El procedimiento de acuerdo conclusivo suspende los plazos a que se refiere el artículo 48, primer párrafo, de este Código, a partir de que el contribuyente presente ante la Defensoría para la Protección y Promoción de los Derechos del Contribuyente la solicitud de acuerdo conclusivo y hasta que se notifique a la autoridad revisora la conclusión del procedimiento previsto en este Capítulo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 62-E.
+
+El contribuyente que haya suscrito un acuerdo conclusivo tendrá derecho, por única ocasión, a la condonación del 100% de las multas. Las autoridades fiscales deberán tomar en cuenta los alcances del acuerdo conclusivo para, en su caso, emitir la resolución que corresponda. La condonación prevista en este artículo no dará derecho a devolución o compensación alguna.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 62-F.
+
+En contra de los acuerdos conclusivos alcanzados y suscritos por el contribuyente y la autoridad no procederá medio de defensa alguno; cuando los hechos u omisiones materia del acuerdo sirvan de fundamento a las resoluciones de la autoridad, los mismos serán incontrovertibles. Los acuerdos de referencia sólo surtirán efectos entre las partes y en ningún caso generarán precedentes.
+
+Las autoridades fiscales no podrán desconocer los hechos u omisiones sobre los que versó el acuerdo conclusivo, salvo que se compruebe que se trate de hechos falsos.
 
 ## TITULO IV. DE LAS INFRACCIONES Y DELITOS FISCALES
 
-### CAPITULO II. DE LOS DELITOS FISCALES
+### CAPITULO I. DE LAS INFRACCIONES
 
 ###### ARTICULO 63.
 
@@ -1573,7 +1639,7 @@ V. De 10 a 20 días de salario mínimo vigente en la Entidad a la establecida en
 
 Las sanciones que se apliquen en términos de este Código y de los Convenios de Colaboración Administrativa celebrados con la Federación, serán destinados a la formación de fondos de productividad, capacitación y equipamiento del personal que interviene en la administración, determinación y vigilancia de las disposiciones fiscales, conforme a la normatividad que al efecto expida el titular de las autoridades fiscales.
 
-### CAPITULO I. DE LOS RECURSOS ADMINISTRATIVOS
+### CAPITULO II. DE LOS DELITOS FISCALES
 
 ###### ARTICULO 81.
 
@@ -1727,7 +1793,7 @@ Se impondrá sanción de tres meses a tres años de prisión, al particular o em
 
 ## TITULO V. DE LOS PROCEDIMIENTOS ADMINISTRATIVOS
 
-### CAPITULO II. DE LAS NOTIFICACIONES Y LA GARANTIA DEL INTERES FISCAL
+### CAPITULO I. DE LOS RECURSOS ADMINISTRATIVOS
 
 #### SECCION I. DISPOSICIONES GENERALES
 
@@ -1931,7 +1997,7 @@ b) Si tiene su causa en un vicio de forma de la resolución impugnada, ésta se 
 
 Cuando se interponga un medio de impugnación, se suspenderá el efecto de la resolución hasta que se dicte la sentencia que ponga fin a la controversia.
 
-### CAPITULO III. DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
+### CAPITULO II. DE LAS NOTIFICACIONES Y LA GARANTIA DEL INTERES FISCAL
 
 ###### ARTICULO 117.
 
@@ -2134,6 +2200,8 @@ En el supuesto del párrafo anterior, si el particular no presenta declaración 
 No se exigirá garantía adicional si en el procedimiento administrativo de ejecución ya se hubieran embargado bienes suficientes para garantizar el interés fiscal o cuando el contribuyente declare bajo protesta de decir verdad que son los únicos que posee. En el caso de que la autoridad compruebe por cualquier medio que esta declaración es falsa podrá exigir garantía adicional, sin perjuicio de las sanciones que correspondan. En todo caso, se observará lo dispuesto en el segundo párrafo del artículo 123 de este Código.
 
 En caso de negativa o violación a la suspensión del procedimiento administrativo de ejecución, los interesados podrán ocurrir al superior jerárquico de la autoridad ejecutora conducente, de conformidad con lo dispuesto en las reglas establecidas por este Código para el citado incidente de suspensión de la ejecución.
+
+### CAPITULO III. DEL PROCEDIMIENTO ADMINISTRATIVO DE EJECUCION
 
 #### SECCION I. DISPOSICIONES GENERALES
 
@@ -2718,5 +2786,21 @@ Entre tanto entren en vigor las disposiciones relativas al buzón tributario las
 Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ###### ARTÍCULO CUARTO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 337.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día primero de enero de dos mil dieciséis.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
 
 Publíquese en el Periódico Oficial del Gobierno del Estado.
