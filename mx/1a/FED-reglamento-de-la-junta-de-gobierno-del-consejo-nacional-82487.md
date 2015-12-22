@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-la-junta-de-gobierno-del-consejo-nacional-82487"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-18"
-last_updated: "2011-08-18"
+last_updated: "2015-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82487&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2011-08-18"
 ---
 # REGLAMENTO DE LA JUNTA DE GOBIERNO DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACION
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA JUNTA DE GOBIERNO DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN, PUBLICADO EN EL D.O.F. DE 22 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA JUNTA DE GOBIERNO DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACION
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE DICIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el jueves 18 de agosto de 2011.
 
@@ -374,3 +376,19 @@ SEGUNDO.- Se deroga el Reglamento de Sesiones de la Junta de Gobierno aprobado e
 Aprobado por las personas integrantes de la Junta de Gobierno del Consejo Nacional para Prevenir la Discriminación en la segunda sesión ordinaria del día 2 de junio de 2011, en el salón de usos múltiples del Consejo Nacional para Prevenir la Discriminación, en calle Dante número 14, colonia Anzures, en la Ciudad de México.
 
 México, D.F., a 18 de agosto de 2011.- El Presidente del Consejo Nacional para Prevenir la Discriminación y de su Junta de Gobierno, Ricardo Antonio Bucio Mújica.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O.F. 22 DE DICIEMBRE DE 2015.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO POR EL QUE SE DIFUNDE EL REGLAMENTO DE LA JUNTA DE GOBIERNO, EL REGLAMENTO DE LA ASAMBLEA CONSULTIVA Y LA POLÍTICA DE INCLUSIÓN LABORAL DEL PERSONAL CON DISCAPACIDAD DEL CONSEJO NACIONAL PARA PREVENIR LA DISCRIMINACIÓN, Y SU UBICACIÓN PARA CONSULTA", QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.]</small>
+
+PRIMERO.- El Reglamento de la Junta de Gobierno del Consejo Nacional para Prevenir la Discriminación, el Reglamento de la Asamblea consultiva del CONAPRED, y la Política Interna de Inclusión Laboral para Personas con Discapacidad en el Consejo Nacional para Prevenir la Discriminación son de observancia obligatoria para el Consejo Nacional para Prevenir la Discriminación e Integrantes de la Junta de Gobierno.
+
+SEGUNDO.- El Reglamento de la Junta de Gobierno del Consejo Nacional para Prevenir la Discriminación, el Reglamento de la Asamblea consultiva del CONAPRED, y la Política Interna de Inclusión Laboral para Personas con Discapacidad en el Consejo Nacional para Prevenir la Discriminación se encuentran disponibles para su consulta en el portal de internet www.conapred.org.mx
+
+## TRANSITORIOS
+
+PRIMERO.- La entrada en vigor del presente Reglamento quedará sujeta a la publicación, en el Diario Oficial de la Federación, del Estatuto Orgánico del Consejo Nacional para Prevenir la Discriminación, aprobado por la Junta de Gobierno en su Segunda Sesión Ordinaria 2015.
+
+SEGUNDO.- Se abroga el Reglamento de la Junta de Gobierno del Consejo Nacional para Prevenir la Discriminación, publicado en el Diario Oficial de la Federación el 18 de agosto de 2011.
