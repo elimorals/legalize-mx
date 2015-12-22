@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-transito-de-la-ciudad-de-mexico-antes-109435"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-08-17"
-last_updated: "2015-08-17"
+last_updated: "2015-12-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109435&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,13 +20,13 @@ issue_date: "2015-08-17"
 ---
 # REGLAMENTO DE TRANSITO DE LA CIUDAD DE MEXICO -- ANTES REGLAMENTO DE TRANSITO DEL DISTRITO FEDERAL --
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 22 DE DICIEMBRE DE 2015 EN LA G.O. DEL DISTRITO FEDERAL, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 REGLAMENTO DE TRÁNSITO DEL DISTRITO FEDERAL
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR A LOS CIENTO VEINTE DÍAS NATURALES SIGUIENTES DE SU PUBLICACIÓN EN LA GACETA OFICIAL DEL DISTRITO FEDERAL.</small>
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 22 DE DICIEMBRE DE 2015.</small>
 
 Reglamento publicado en el No. Bis de la Gaceta Oficial del Distrito Federal, el lunes 17 de agosto de 2015.
 
@@ -1778,29 +1778,49 @@ II. Conductores de todo vehículo motorizado:
 
 a) Combustible y lubricante suficiente para su buen funcionamiento;
 
-b) (sic)
+> <small>(F. DE E., G.O. 22 DE DICIEMBRE DE 2015)</small>
 
-c) Cuartos delanteros, de luz amarilla o blanca y cuartos traseros de luz roja;
+b) Cuartos delanteros, de luz amarilla o blanca y cuartos traseros de luz roja;
 
-d) Faros delanteros, que cumplan con las Normas Oficiales Mexicanas, dotados de un mecanismo para cambio de intensidad;
+> <small>(F. DE E., G.O. 22 DE DICIEMBRE DE 2015)</small>
 
-e) Luces indicadoras de frenos en la parte trasera; direccionales y luces de parada de destello intermitente delanteras y traseras; luces para indicar movimiento en reversa; luces que iluminen la placa de matrícula posterior;
+c) Faros delanteros, que cumplan con las Normas Oficiales Mexicanas, dotados de un mecanismo para cambio de intensidad;
 
-f) Neumáticos en condiciones que garanticen la seguridad;
+> <small>(F. DE E., G.O. 22 DE DICIEMBRE DE 2015)</small>
 
-g) Parabrisas en óptimas condiciones que permita la visibilidad al interior y exterior del vehículo;
+d) Luces indicadoras de frenos en la parte trasera; direccionales y luces de parada de destello intermitente delanteras y traseras; luces para indicar movimiento en reversa; luces que iluminen la placa de matrícula posterior;
 
-h) Ambas defensas;
+> <small>(F. DE E., G.O. 22 DE DICIEMBRE DE 2015)</small>
 
-i) Dos espejos retrovisores laterales y uno interior los vehículos de transporte de carga y de pasajeros cuya carrocería impida la visión central sólo tendrán los espejos laterales;
+e) Neumáticos en condiciones que garanticen la seguridad;
 
-j) Una bocina que emita un sonido audible desde una distancia de sesenta metros en circunstancias normales;
+> <small>(F. DE E., G.O. 22 DE DICIEMBRE DE 2015)</small>
 
-k) Un dispositivo silenciador en el escape que amortigüe las explosiones del motor;
+f) Parabrisas en óptimas condiciones que permita la visibilidad al interior y exterior del vehículo;
 
-l) Cinturones de seguridad para cada ocupante del vehículo, y
+> <small>(F. DE E., G.O. 22 DE DICIEMBRE DE 2015)</small>
 
-m) Extintor, dos señalamientos de advertencia reflejantes o luminosos, neumático de refacción y la herramienta adecuada para el cambio o reparación de la misma; o en su caso, neumáticos que permitan la circulación sin presión o el sistema auxiliar que permita rodar con seguridad, con un neumático ponchado.
+g) Ambas defensas;
+
+> <small>(F. DE E., G.O. 22 DE DICIEMBRE DE 2015)</small>
+
+h) Dos espejos retrovisores laterales y uno interior los vehículos de transporte de carga y de pasajeros cuya carrocería impida la visión central sólo tendrán los espejos laterales;
+
+> <small>(F. DE E., G.O. 22 DE DICIEMBRE DE 2015)</small>
+
+i) Una bocina que emita un sonido audible desde una distancia de sesenta metros en circunstancias normales;
+
+> <small>(F. DE E., G.O. 22 DE DICIEMBRE DE 2015)</small>
+
+j) Un dispositivo silenciador en el escape que amortigüe las explosiones del motor;
+
+> <small>(F. DE E., G.O. 22 DE DICIEMBRE DE 2015)</small>
+
+k) Cinturones de seguridad para cada ocupante del vehículo, y
+
+> <small>(F. DE E., G.O. 22 DE DICIEMBRE DE 2015)</small>
+
+l) Extintor, dos señalamientos de advertencia reflejantes o luminosos, neumático de refacción y la herramienta adecuada para el cambio o reparación de la misma; o en su caso, neumáticos que permitan la circulación sin presión o el sistema auxiliar que permita rodar con seguridad, con un neumático ponchado.
 
 III. En caso de vehículos para enseñanza, adicionalmente deben contar con:
 
