@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-de-la-comision-para-el-acceso-a-la-93884"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-03-27"
-last_updated: "2013-03-27"
+last_updated: "2015-12-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION PARA EL ACCESO A LA INFORMACION PUBLICA Y PROTECCION DE DATOS PERSONALES DEL ESTADO DE PUEBLA
 
-REGLAMENTO INTERIOR DE LA COMISION PARA EL ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE PUEBLA
+REGLAMENTO INTERIOR DE LA COMISIÓN PARA EL ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2015.
 
 Reglamento publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el miércoles 27 de marzo de 2013.
 
@@ -182,6 +182,10 @@ Al frente de la Comisión habrá un(a) Presidente a quien compete la representac
 Para mejor desempeño de sus facultades podrá delegar éstas a los subalternos, excepto aquéllas que por disposición expresa le competen directamente a él( ella).
 
 En caso de renuncia o ausencia definitiva del(a) Comisionado(a) Presidente, entrará en funciones el(la) Comisionado(a) Suplente nombrado(a) por el H. Congreso del Estado tomando el cargo respectivo. En el supuesto de que el(la) suplente no pueda ejercer el cargo, éste lo ejercerá aquél cuyo nombramiento sea el más antiguo, hasta en tanto el Congreso nombre al sustituto(a) del(la) Comisionado(a) faltante.
+
+> <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2015)</small>
+
+En caso de no actualizarse el supuesto a que alude el párrafo que antecede, el cargo de Presidente de la Comisión lo ejercerá el (sic) Comisionado (a) cuyo nombramiento sea el más antiguo.
 
 ###### ARTÍCULO 12.
 
@@ -588,3 +592,11 @@ El presente Reglamento Interior entrará en vigor al día siguiente de su public
 El presente Reglamento abroga el Reglamento Interior de la Comisión para el Acceso a la Información Pública de la Administración Pública Estatal, publicado en el Periódico Oficial del Estado el día 30 de noviembre de 2005.
 
 Así lo acordó el Pleno de la Comisión para el Acceso a la Información Pública y Protección de Datos Personales del Estado en la Sesión Extraordinaria CAIP/20/12 celebrada el día diecinueve de octubre del año dos mil doce.- Comisionada Presidente.- CIUDADANA BLANCA LILIA IBARRA CADENA.- Rúbrica.- Comisionado.- CIUDADANO JOSÉ LUIS JAVIER FREGOSO SÁNCHEZ.- Rúbrica.- Comisionado.- CIUDADANO SAMUEL RANGEL RODRÍGUEZ.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DEL PLENO DE LA COMISIÓN PARA EL ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES, DE FECHA 18 DE DICIEMBRE DE 2015, POR EL QUE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 11 DEL REGLAMENTO INTERIOR DE LA COMISIÓN PARA EL ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL ESTADO”.]
+
+ÚNICO. La presente adición entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
