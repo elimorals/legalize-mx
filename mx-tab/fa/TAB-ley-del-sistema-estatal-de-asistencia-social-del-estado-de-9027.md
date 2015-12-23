@@ -4,7 +4,7 @@ identifier: "TAB-ley-del-sistema-estatal-de-asistencia-social-del-estado-de-9027
 country: "mx"
 rank: "ley"
 publication_date: "1986-12-27"
-last_updated: "2013-08-13"
+last_updated: "2015-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9027&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el sábado 27 de diciembre de 1986.
 
@@ -231,9 +231,13 @@ I. Vigilar el estricto cumplimiento de la presente Ley;
 
 II. Elaborar un Programa Estatal de Asistencia Social, conforme a las disposiciones de la Ley de Planeación, los lineamientos del Plan Estatal de Desarrollo, y demás instrumentos de planeación de la administración pública del estado;
 
-III. Con fundamento en lo establecido en la Ley para la Protección de los Derechos de las Niñas, Niños y Adolescentes del Estado de Tabasco, y atendiendo al interés superior de la infancia, el Organismo tendrá como responsabilidad coadyuvar en el cumplimiento de esa Ley, así como en la Ley Para la Prevención y Tratamiento de la Violencia Familiar del Estado de Tabasco; la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia; la Ley para la Protección de las Personas Adultas Mayores; la Ley sobre los Derechos de las Personas con Discapacidad; y demás leyes estatales y federales concernientes con individuos o grupos vulnerables, y los tratados internacionales en materia de derechos humanos con impacto en la asistencia social en cuanto a su implementación en el ámbito local;
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2015)</small>
 
-Para el caso de los Refugios para Mujeres Violentadas, el organismo como responsable de la operatividad de los mismos, procurará que durante la estancia temporal de las mujeres, niños y adultos mayores, se les otorgue como mínimo:
+III. Aplicar, en el ámbito de su competencia, la Ley General de Derechos de Niñas, Niños y Adolescentes y la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Tabasco; así como la Ley Para la Prevención y Tratamiento de la Violencia Familiar del Estado de Tabasco; la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia; la Ley para la Protección de las Personas Adultas Mayores; la Ley sobre los Derechos de las Personas con Discapacidad; y demás leyes concernientes con individuos o grupos vulnerables, y los tratados internacionales en materia de derechos humanos con impacto en la asistencia social en cuanto a su implementación en el ámbito local;
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+Para el caso de Refugios para Mujeres Violentadas, el organismo como responsable de la operatividad de los mismos, procurará que durante la estancia temporal de las mujeres, niñas, niños, adolescentes y adultos mayores, se les otorgue como mínimo:
 
 a).- Tratamiento psicológico y psicoterapéutico integral, que deberá incluir terapias de superación personal y,
 
@@ -243,9 +247,13 @@ Asimismo, por cuanto hace a los Centros de Atención para Agresores, el organism
 
 En ambos casos, el organismo se apoyará en las Secretarías o entidades competentes del estado.
 
-IV. Prestar servicios de representación y asistencia jurídica y de orientación social a niñas y niños, jóvenes, adultos mayores, personas con alguna discapacidad, madres adolescentes y solteras, mujeres víctimas de violencia familiar, indigentes, indígenas, migrantes o desplazados y todas aquellas personas que por distintas circunstancias no puedan ejercer plenamente sus derechos;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2015)</small>
 
-V. Poner a disposición del Ministerio Público, los elementos a su alcance para la protección de los derechos familiares;
+IV. Prestar servicios de representación y asistencia jurídica y de orientación social a niñas, niños y adolescentes, adultos mayores, personas con alguna discapacidad, madres adolescentes y solteras, mujeres víctimas de violencia familiar, indigentes, indígenas, migrantes o desplazados y todas aquellas personas que por distintas circunstancias no puedan ejercer plenamente sus derechos;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+V. Poner a disposición del Ministerio Público, los elementos a su alcance para la protección de los derechos familiares, así como de los derechos de niñas, niños y adolescentes;
 
 VI. Apoyar en la vigilancia de la aplicación de las Normas Oficiales Mexicanas en la materia;
 
@@ -253,7 +261,13 @@ VII. Administrar el Patrimonio de la Beneficencia Pública, e impulsar los progr
 
 VIII. Realizar inspecciones de la situación de los menores de las mujeres recluidas en los Centros de Reinserción Social del Estado para proteger sus derechos y facilitar la vida familiar;
 
-IX. Supervisar y evaluar la actividad y los servicios de asistencia social que presten las instituciones de asistencia social pública y privada, conforme a lo que establecen la Ley de Asistencia Social, la Ley General de Salud y la Ley de Salud del Estado de Tabasco, las Normas Oficiales Mexicanas en materia de asistencia social y la presente Ley;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+IX. Supervisar la actividad y los servicios de asistencia social que presten las instituciones de asistencia social pública y privada, conforme a lo que establecen la Ley de Asistencia Social, la Ley General de Salud y la Ley de Salud del Estado de Tabasco, las Normas Oficiales Mexicanas en materia de asistencia social, la presente Ley y demás ordenamientos aplicables.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+De manera específica, conforme a la Ley General de Derechos de Niñas, Niños y Adolescentes, y la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Tabasco, deberá establecer, en el ámbito de su competencia, los requisitos para autorizar, registrar, certificar y supervisar los centros de asistencia social, a fin de garantizar el cumplimiento de los derechos de niñas, niños y adolescentes privados de cuidado parental o familiar, atendidos en dichos centros;
 
 X. Elaborar y actualizar el Directorio Estatal de las Instituciones Públicas y Privadas de Asistencia Social;
 
@@ -287,9 +301,13 @@ XXIV. Promover la creación y el desarrollo de instituciones públicas y privada
 
 XXV. Establecer prioridades en materia de asistencia social;
 
-XXVI. Emitir dictamen ante el juez competente a través del Consejo Técnico de Adopciones del DIF, en los procedimientos de adopción de menores que se encuentren albergados en instituciones públicas y privadas, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política local; el Código Civil y el Código de Procedimientos Civiles, ambos para el Estado de Tabasco; y fungir como autoridad en materia de adopciones internacionales en los términos de la Convención sobre la Protección de Menores y la Cooperación en materia de adopción internacional de La Haya y de las disposiciones constitucionales y legales citadas y demás ordenamientos aplicables;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2015)</small>
 
-XXVII. Proveer la protección y asistencia necesaria a los niños migrantes no acompañados;
+XXVI. Emitir dictamen ante el juez competente y expedir, por conducto de la Procuraduría de la Defensa de la Familia y de Protección de los Derechos de Niñas, Niños y Adolescentes, el certificado de idoneidad a los solicitantes de adopción de menores, aprobado por el Consejo Técnico de Adopciones del DIF, en los procedimientos de adopción de menores que se encuentren albergados en instituciones públicas y privadas, o en familias preadoptivas, extensas, ampliadas o de acogida como modalidades de cuidados alternativos de carácter temporal, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, la Constitución local; el Código Civil y el Código de Procedimientos Civiles, ambos para el Estado de Tabasco; y fungir como autoridad en materia de adopciones internacionales en los términos de la Convención sobre la Protección de Menores y la Cooperación en materia de adopción internacional de La Haya y de las disposiciones constitucionales y legales citadas y demás ordenamientos aplicables. El titular de la Procuraduría de la Defensa de la Familia y de Protección de los Derechos de Niñas, Niños y Adolescentes será integrante del Consejo Técnico de Adopciones del DIF, y deberá cumplir las funciones y responsabilidades que le otorgan en la materia la Ley General y la Ley de Protección de los Derechos de Niñas, Niños y Adolescentes;
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+XXVII. Proveer la protección y asistencia necesaria a las niñas, niños y adolescentes migrantes, no acompañados;
 
 XXVIII. Proveer la atención necesaria a los menores de conformidad con la Convención Interamericana sobre Restitución Internacional de Menores;
 
@@ -297,9 +315,15 @@ XXIX. Asumir el ejercicio de las funciones que, en materia de asistencia social,
 
 XXX. Acreditar la elegibilidad de las personas que soliciten algún servicio público de asistencia social, o para recibir apoyo económico o en especie del Sistema;
 
-XXXI. Promover campañas en los medios masivos de comunicación sobre los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad en términos del artículo 1 de la Constitución Política de los Estados Unidos Mexicanos, y 2 de la Constitución Política del Estado Libre y Soberano de Tabasco; y
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2015)</small>
 
-XXXII. Todas las demás que esta Ley u otras estatales y federales señalen en materia de protección a la familia y asistencia social, o que deriven de tratados internacionales en materia de derechos humanos.
+XXXI. Promover campañas en los medios masivos de comunicación sobre los derechos humanos, de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad, en términos del artículo 1 de la Constitución Política de los Estados Unidos Mexicanos y 2 de la Constitución Política del Estado Libre y Soberano de Tabasco;
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+XXXII. Autorizar, por medio de la emisión de un Certificado Oficial DIF, a las personas con título profesional que ejerzan profesiones en el trabajo social, medicina, psicología o carreras afines y que presten sus servicios en instituciones públicas o privadas o como personas físicas, para que intervengan en procedimientos de adopción nacional o internacional; y cancelar, de conformidad con la ley de la materia, el Certificado Oficial DIF, cuando las personas antes indicadas vulneren los derechos de niñas, niños y adolescentes o incurran en actos contrarios al interés superior de la niñez, independientemente de las responsabilidades de orden administrativo, civil o penal que les sean imputables y las sanciones que resulten. De cada caso de cancelación el DIF Estatal dará cuenta al DIF Nacional, así como a la Secretaría de Educación del Estado, para los efectos legales correspondientes; y
+
+XXXIII. Todas las demás que esta Ley u otras estatales y federales señalen en materia de protección a la familia y asistencia social, o que deriven de tratados internacionales en materia de derechos humanos.
 
 ###### ARTICULO 17.
 
@@ -345,17 +369,19 @@ II. Coordinación General.
 
 La vigilancia de la operación del Organismo quedará a cargo de un Comisario.
 
-> <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 21.
 
-La Junta de Gobierno es la máxima autoridad del Organismo. Será presidida por el Gobernador del Estado, o por quien éste designe, y estará integrada por los titulares de las Secretarías de Salud; de Gobierno; de Desarrollo Social; de Educación; de Desarrollo Agropecuario, Forestal y Pesquero; de Administración; Planeación y Finanzas; de la Procuraduría General de Justicia; de la Secretaría Técnica de la Gubernatura del Estado; y del Instituto Estatal de las Mujeres.
+La Junta de Gobierno es la máxima autoridad del Organismo. Será presidida por el Gobernador del Estado, o por quien éste designe, y estará integrada por los titulares de las Secretarías de Salud; de Gobierno; de Desarrollo Social; de Educación; de Desarrollo Agropecuario, Forestal y Pesquero; de Administración; de Planeación y Finanzas; de la Secretaría Técnica de la Gubernatura del Estado; y del Instituto Estatal de las Mujeres. Será invitado permanente a las sesiones de la Junta de Gobierno, con voz pero sin voto, el Fiscal General del Estado.
 
 Los miembros de la Junta de Gobierno serán suplidos por los representantes que al efecto designen cada uno de los miembros propietarios de la misma.
 
 La Junta de Gobierno designará un Secretario Técnico.
 
-El Presidente del Sistema Estatal para el Desarrollo Integral de la Familia, será designado por el Gobernador del Estado y ejercerá el cargo de manera honorífica, sin retribución de emolumento o compensación.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+El Presidente de la Junta de Gobierno ejercerá el cargo de manera honorífica, sin retribución de emolumento o compensación.
 
 La Junta de Gobierno sesionará por lo menos tres veces al año.
 
@@ -377,7 +403,9 @@ V. Conocer los informes, dictámenes y recomendaciones del Comisario y del Audit
 
 VI. Aprobar el Reglamento Interior, y los Manuales de Procedimientos y de Servicios al Público;
 
-VII. Ratificar la designación y remoción a propuesta del Coordinador General del Organismo, de los servidores públicos de nivel inmediato inferior;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+VII. Designar, a propuesta del Coordinador General del Organismo, a los servidores públicos de nivel inmediato inferior;
 
 VIII. Aprobar la aceptación de herencias, legados, donaciones y demás liberalidades que le correspondan al Organismo;
 
@@ -385,15 +413,21 @@ IX. Proponer, estudiar y aprobar los proyectos de inversión;
 
 X. Gestionar sin perjuicio de la facultad de otros entes públicos, donativos y donaciones ante las entidades paraestatales Petróleos Mexicanos, Comisión Federal de Electricidad, u otras entidades, órganos o dependencias del orden federal, para su aplicación por el DIF Tabasco en el marco del Programa Estatal de Asistencia Social;
 
-XI. Conocer y aprobar los acuerdos de Coordinación que el Presidente de la Junta de Gobierno, en representación del Organismo, haya de celebrar con dependencias y entidades públicas federales, del Distrito Federal, de otros estados de la República, y con los municipios de Tabasco, o de otras entidades federativas;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2015)</small>
 
-XII. Conocer y aprobar los convenios de colaboración en materia de asistencia social con instituciones públicas o privadas nacionales e internacionales que en representación del Organismo celebre el Presidente de la Junta de Gobierno;
+XI. Conocer los acuerdos de Coordinación que el Coordinador General, en representación del Organismo, celebre con dependencias y entidades públicas federales, del Distrito Federal, de otros estados de la República, y con los Municipios de Tabasco, o de otras entidades federativas.
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+XII. Conocer los convenios de colaboración en materia de asistencia social con instituciones públicas o privadas nacionales e internacionales que, en representación del Organismo, celebre el Coordinador General.
 
 XIII. Determinar la integración de Comités Técnicos y grupos de trabajo temporales;
 
 XIV. Aprobar los programas que en materia de asistencia social pública formule el Organismo;
 
-XV. Ordenar la elaboración de programas de pedagogía de valores para su difusión en los medios de comunicación social con el propósito de promover la integración familiar y el respeto a los derechos humanos de los niños, de las mujeres, de los ancianos, de las personas con capacidades diferentes, de los migrantes y demás grupos vulnerables, así como ordenar las campañas de comunicación social que sean necesarias para dar a conocer entre la población los programas de asistencia social del Organismo; y
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+XV. Ordenar la elaboración de programas de pedagogía de valores para su difusión en los medios de comunicación social con el propósito de promover la integración familiar y el respeto a los derechos humanos de las niñas, niños y adolescentes, de las mujeres, de los adultos mayores, de las personas con capacidades diferentes, de los migrantes y demás grupos vulnerables, así como ordenar las campañas de comunicación social que sean necesarias para dar a conocer entre la población los programas de asistencia social del Organismo; y
 
 XVI. Las demás que sean necesarias para el ejercicio de las facultades anteriores.
 
@@ -421,15 +455,17 @@ IV. Formular de conformidad con las directrices de la Junta de Gobierno los proy
 
 V. Establecer los procedimientos generales para elaborar los informes de actividades y estados financieros trimestrales y anuales del Organismo, presentándolos para su aprobación a la Junta de Gobierno; y supervisar que durante el ejercicio del presupuesto cada unidad administrativa contribuya a la elaboración de los informes que deba presentar el Organismo;
 
-VI. Proponer a la Junta de Gobierno la designación y remoción de los servidores públicos de nivel inmediato inferior del Organismo;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+VI. Designar a los servidores públicos de nivel inmediato inferior del Organismo y proponer a la Junta de Gobierno su ratificación;
 
 VII. Autorizar y expedir los nombramientos de personal con el consentimiento previo de la Junta de Gobierno, y manejar las relaciones laborales de acuerdo con las disposiciones legales;
 
 VIII. Planear, dirigir y controlar el funcionamiento del Organismo con sujeción a las instrucciones de la Junta de Gobierno;
 
-IX. Refrendar los acuerdos de Coordinación que el Presidente de la Junta de Gobierno, en representación del Organismo, haya de celebrar con dependencias y entidades públicas federales, del Distrito Federal, de otros estados de la República, y con los municipios de Tabasco o de otras entidades federativas;
+IX. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2015)
 
-X. Refrendar los convenios de colaboración en materia de asistencia social que el Presidente de la Junta de Gobierno celebre en representación del Organismo, con instituciones públicas o privadas nacionales e internacionales;
+X. (DEROGADA, P.O. 23 DE DICIEMBRE DE 2015)
 
 XI. Celebrar con apego estricto a la Constitución y leyes del estado los convenios, acuerdos, contratos administrativos y ejecutar los actos administrativos y jurídicos que sean indispensables para el cumplimiento de los objetivos del Organismo;
 
@@ -471,9 +507,11 @@ El Organismo contará además con un Consejo Ciudadano Consultivo cuyos miembros
 
 El Consejo presentará opiniones y recomendaciones sobre las políticas y programas estatales del Organismo, apoyará sus actividades y contribuirá a la obtención de recursos que permitan el incremento de su patrimonio. La Junta de Gobierno será representada ante el Consejo Ciudadano Consultivo por su Presidente.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 28.
 
-La Junta de Gobierno celebrará cuando menos dos sesiones ordinarias anuales y las extraordinarias que se requieran, de conformidad con el reglamento respectivo.
+El Consejo Ciudadano Consultivo celebrará cuando menos dos sesiones ordinarias anuales y las extraordinarias que se requieran, de conformidad con el Reglamento respectivo.
 
 > <small>(REFORMADO, P.O. 13 DE AGOSTO DE 2013)</small>
 
@@ -491,13 +529,17 @@ I. El Presidente de la Junta de Gobierno;
 
 II. El Coordinador General;
 
-III. El Procurador de la Defensa del Menor y la Familia;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+III. El Procurador Estatal de Protección de la Familia y de los Derechos de Niñas, Niños y Adolescentes;
 
 IV. Los titulares de los establecimientos del DIF encargados de albergar a los menores;
 
 V. Cuatro Consejeros designados por el Presidente de la Junta de Gobierno, de los cuales uno debe ser profesional en psicología, uno profesional en medicina humana, uno profesional en trabajo social y uno profesional en derecho;
 
-VI. El titular de la Procuraduría General de Justicia, o quien éste designe por escrito en su representación; y
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+VI. El Fiscal General del Estado, o quien éste designe por escrito en su representación; y
 
 VII. El titular de la Comisión Estatal de Derechos Humanos, o quien éste designe por escrito en su representación.
 
@@ -511,9 +553,11 @@ Para el mejor desempeño de sus funciones, el Consejo Técnico de Adopciones pod
 
 El Organismo se integrará con las unidades técnicas y administrativas que el desarrollo de sus programas requieran.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 33.
 
-Con el objeto de representar a los menores de edad ante las diversas autoridades, defendiendo sus derechos y protegiéndolos en todos los aspectos y velando por la integración familiar, funcionará como Dependencia del Organismo, la Procuraduría de la Defensa del Menor y la Familia.
+Con el objeto de representar a los menores de edad ante las diversas autoridades, defendiendo sus derechos y protegiéndolos en todos los aspectos y velando por la integración familiar, funcionará como dependencia del Organismo, la Procuraduría Estatal de Protección de la Familia y de los Derechos de Niñas, Niños y Adolescentes.
 
 > <small>(REFORMADO, P.O. 16 DE JUNIO DE 1999)</small>
 
@@ -577,9 +621,11 @@ El Gobierno del Estado y el Organismo conforme a las normas técnicas que dicte 
 
 El Organismo emitirá opinión sobre el otorgamiento de subsidios a Instituciones Públicas o Privadas que actúen en el campo de la asistencia social.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 45.
 
-Las relaciones de trabajo entre el Organismo y sus trabajadores se regirán por la Ley de los trabajadores al Servicio de los Poderes, Municipios, Instituciones Descentralizadas y Sociedades de Participación Estatal Mayoritaria del Estado de Tabasco.
+Las relaciones laborales entre el Organismo y sus trabajadores se regirán por la Ley de los Trabajadores al Servicio del Estado de Tabasco.
 
 ###### ARTICULO 46.
 
@@ -736,3 +782,29 @@ QUINTO.- Los asuntos que al momento de la entrada en vigor del presente Decreto 
 SEXTO.- EI presupuesto del organismo descentralizado Sistema para el Desarrollo Integral de la Familia para 2013, será el que actualmente tiene asignado como órgano desconcentrado.
 
 SÉPTIMO.- Se derogan todas las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 23 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 234 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 16, FRACCIONES III, EN SUS PÁRRAFOS PRIMERO Y SEGUNDO, IV, V, IX, XXVI, XXVII Y XXXI; 21, PÁRRAFOS PRIMERO Y CUARTO; 22, FRACCIONES VII, XI, XII Y XV; 24, FRACCIÓN VI; 28; 30, FRACCIONES III Y VI; 33; Y 45. SE ADICIONAN: EN EL ARTÍCULO 16, UN PÁRRAFO SEGUNDO A LA FRACCIÓN IX Y UNA FRACCIÓN XXXII, RECORRIÉNDOSE EN SU ORDEN LA ACTUAL FRACCIÓN XXXII, QUE PASA A SER XXXIII. SE DEROGAN: LAS FRACCIONES IX Y X DEL ARTÍCULO 24; TODOS DE LA LEY DEL SISTEMA ESTATAL DE ASISTENCIA SOCIAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. A la entrada en vigor del presente decreto, se abroga la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Tabasco y se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Ejecutivo Estatal, dentro de los 180 días siguientes a la entrada en vigor del presente decreto, emitirá el Reglamento de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Tabasco. Dentro del mismo plazo, los Municipios emitirán sus respectivos reglamentos municipales con el mismo fin.
+
+CUARTO. El Sistema Estatal de Protección Integral y los Sistemas Municipales de Protección Integral deberán integrarse a más tardar dentro de los ciento veinte días naturales siguientes a la entrada en vigor del presente Decreto. En su primera sesión, el Presidente del Sistema Estatal de Protección Integral someterá a consideración y aprobación del mismo, los lineamientos para su integración, organización y funcionamiento, así como la designación del Titular de la Secretaría Ejecutiva del Sistema.
+
+El Titular de la Secretaría Ejecutiva del Sistema, una vez instalado el Sistema Estatal de Protección Integral, dentro de los siguientes treinta días naturales, deberá presentar a consideración y en su caso aprobación de los integrantes del Pleno, el proyecto de lineamientos.
+
+El Presidente del Sistema Estatal de Protección Integral realizará las acciones necesarias para la elaboración del Programa Estatal, el cual deberá aprobarse dentro de los noventa días naturales siguientes a la instalación del Sistema Estatal de Protección Integral.
+
+QUINTO. La Procuraduría Estatal de Protección de la Familia y de los Derechos de Niñas, Niños y Adolescentes deberá constituirse a más tardar dentro de los treinta días naturales de la entrada en vigor del presente Decreto.
+
+SEXTO. Las instituciones estatales y municipales de Asistencia Social deberán adecuar sus instalaciones, protocolos, recursos humanos y materiales dentro del año siguiente a la aprobación del presente Decreto.
+
+SÉPTIMO. Para efectos de lo dispuesto en la fracción VI del artículo 116 de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Tabasco, en tanto entran en vigor las disposiciones aplicables del Código Nacional de Procedimientos Penales, se aplicarán las medidas establecidas en la legislación procesal penal correspondiente.
+
+OCTAVO. Las autoridades estatales y municipales, con el objeto de dar cumplimiento a lo previsto en este Decreto, deberán implementar las políticas y acciones correspondientes confórme a los programas aplicables y los que deriven de la misma.
+
+NOVENO. El Ejecutivo Estatal, por conducto de la Secretaría de Planeación y Finanzas y los Ayuntamientos Municipales, conforme a sus respectivas atribuciones, realizarán los ajustes presupuestales necesarios para la adecuada operación de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Tabasco y demás reformas a que se refiere el presente Decreto.
