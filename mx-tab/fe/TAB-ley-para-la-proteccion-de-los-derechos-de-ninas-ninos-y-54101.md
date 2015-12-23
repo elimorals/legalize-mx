@@ -4,7 +4,7 @@ identifier: "TAB-ley-para-la-proteccion-de-los-derechos-de-ninas-ninos-y-54101"
 country: "mx"
 rank: "ley"
 publication_date: "2007-01-03"
-last_updated: "2013-10-12"
+last_updated: "2015-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54101&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 LEY PARA LA PROTECCIÓN DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE OCTUBRE DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TABASCO, PUBLICADO EN EL P.O. DE 23 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 3 de enero de 2007.
 
@@ -33,9 +35,7 @@ Que el H. Congreso del Estado, se ha servido dirigirme lo siguiente:
 
 LA QUINCUAGÉSIMA OCTAVA LEGISLATURA AL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TABASCO, EN EJERCICIO DE LA FACULTAD QUE LE CONFIERE EL ARTÍCULO 36, FRACCIÓN I DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE TABASCO:
 
-CONSIDERANDO
-
-.
+CONSIDERANDO.
 
 Por lo que se emite el siguiente:
 
@@ -197,7 +197,7 @@ II. Que se les atienda antes que a los adultos en todos los servicios, en equida
 
 III. Que se realice el diseño y ejecución de las políticas públicas necesarias para la protección de sus derechos; y
 
-IV Que se asignen mayores recursos a las instituciones encargadas de proteger sus derechos.
+IV. Que se asignen mayores recursos a las instituciones encargadas de proteger sus derechos.
 
 ### CAPÍTULO SEGUNDO. Derecho a la Vida
 
@@ -1077,7 +1077,7 @@ III. Dar seguimiento a los acuerdos adoptados por el Comité; y
 
 IV. Las demás inherentes a su cargo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 26 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
 ###### Artículo 85.
 
@@ -1213,7 +1213,7 @@ En los casos en que los padres, no muestren interés alguno por mejorar la situa
 
 Serán medidas aplicables a empleadores, servidores públicos o cualquier otra persona que viole o ponga en riesgo los derechos de niñas, niños y adolescentes:
 
-l. Prevención escrita acerca de la violación o puesta en riesgo del derecho de que se trate en el caso particular, con citación para ser informados debidamente sobre los derechos de tales; y
+I. Prevención escrita acerca de la violación o puesta en riesgo del derecho de que se trate en el caso particular, con citación para ser informados debidamente sobre los derechos de tales; y
 
 II. Orden de cese inmediato de la situación que viola o pone en riesgo el derecho en cuestión, cuando se hubiere actuado conforme a la fracción anterior y no comparezca en el plazo conferido para tal efecto o bien, cuando haya comparecido y continúe la misma situación perjudicial.
 
@@ -1263,7 +1263,7 @@ El procedimiento a que se refiere el artículo anterior, se verificará en la au
 
 I. Se iniciará con la comparecencia de las partes o con la constancia administrativa, que contendrá los datos generales y la relación suscinta de los hechos;
 
-II. Las partes en dicha comparecencia ofrecerán las pruebas que a sus derechos convenga a excepción de la confesional, pudiendo allegarse el conciliador todos los medios de prueba que estén reconocidos legalmente, que le permitan emitir la resolución, aplicándose supletoriamente, el Código de Procedimientos Civiles para el Estado de Tabasco; y (sic)
+II. Las partes en dicha comparecencia ofrecerán las pruebas que a sus derechos convenga a excepción de la confesional, pudiendo allegarse el conciliador todos los medios de prueba que estén reconocidos legalmente, que le permitan emitir la resolución, aplicándose supletoriamente, el Código de Procedimientos Civiles para el Estado de Tabasco; y
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2009)</small>
 
@@ -1399,7 +1399,7 @@ Artículo Tercero (sic). El Sistema para el Desarrollo Integral de la Familia de
 
 Artículo Cuarto. Se derogan todas las disposiciones de igualo menor jerarquía que contravengan lo previsto por esta Ley.
 
-DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO DEL ESTADO, EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO, A LOS CATORCE DIAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL SEIS, DIP. LUIS FEDERICO PÉREZ MALDONADO, PRESIDENTE; DlP. JOSÉ LUIS SÁNCHEZ LÓPEZ, SECRETARIO.- RÚBRICAS.
+DADO EN EL SALÓN DE SESIONES DEL PODER LEGISLATIVO DEL ESTADO, EN LA CIUDAD DE VILLAHERMOSA, CAPITAL DEL ESTADO DE TABASCO, A LOS CATORCE DIAS DEL MES DE DICIEMBRE DEL AÑO DOS MIL SEIS, DIP. LUIS FEDERICO PÉREZ MALDONADO, PRESIDENTE; DIP. JOSÉ LUIS SÁNCHEZ LÓPEZ, SECRETARIO.- RÚBRICAS.
 
 Por lo tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
@@ -1430,3 +1430,29 @@ Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto
 P.O. 12 DE OCTUBRE DE 2013.
 
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 234 POR EL QUE “SE EXPIDE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE TABASCO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO. A la entrada en vigor del presente decreto, se abroga la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Tabasco y se derogan todas las disposiciones que se opongan al presente Decreto.
+
+TERCERO. El Ejecutivo Estatal, dentro de los 180 días siguientes a la entrada en vigor del presente decreto, emitirá el Reglamento de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Tabasco. Dentro del mismo plazo, los Municipios emitirán sus respectivos reglamentos municipales con el mismo fin.
+
+CUARTO. El Sistema Estatal de Protección Integral y los Sistemas Municipales de Protección Integral deberán integrarse a más tardar dentro de los ciento veinte días naturales siguientes a la entrada en vigor del presente Decreto. En su primera sesión, el Presidente del Sistema Estatal de Protección Integral someterá a consideración y aprobación del mismo, los lineamientos para su integración, organización y funcionamiento, así como la designación del Titular de la Secretaría Ejecutiva del Sistema.
+
+El Titular de la Secretaría Ejecutiva del Sistema, una vez instalado el Sistema Estatal de Protección Integral, dentro de los siguientes treinta días naturales, deberá presentar a consideración y en su caso aprobación de los integrantes del Pleno, el proyecto de lineamientos.
+
+El Presidente del Sistema Estatal de Protección Integral realizará las acciones necesarias para la elaboración del Programa Estatal, el cual deberá aprobarse dentro de los noventa días naturales siguientes a la instalación del Sistema Estatal de Protección Integral.
+
+QUINTO. La Procuraduría Estatal de Protección de la Familia y de los Derechos de Niñas, Niños y Adolescentes deberá constituirse a más tardar dentro de los treinta días naturales de la entrada en vigor del presente Decreto.
+
+SEXTO. Las instituciones estatales y municipales de Asistencia Social deberán adecuar sus instalaciones, protocolos, recursos humanos y materiales dentro del año siguiente a la aprobación del presente Decreto.
+
+SÉPTIMO. Para efectos de lo dispuesto en la fracción VI del artículo 116 de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Tabasco, en tanto entran en vigor las disposiciones aplicables del Código Nacional de Procedimientos Penales, se aplicarán las medidas establecidas en la legislación procesal penal correspondiente.
+
+OCTAVO. Las autoridades estatales y municipales, con el objeto de dar cumplimiento a lo previsto en este Decreto, deberán implementar las políticas y acciones correspondientes conforme a los programas aplicables y los que deriven de la misma.
+
+NOVENO. El Ejecutivo Estatal, por conducto de la Secretaría de Planeación y Finanzas y los Ayuntamientos Municipales, conforme a sus respectivas atribuciones, realizarán los ajustes presupuestales necesarios para la adecuada operación de la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Tabasco y demás reformas a que se refiere el presente Decreto.
