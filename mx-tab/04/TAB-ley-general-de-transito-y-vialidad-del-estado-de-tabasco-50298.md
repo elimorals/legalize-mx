@@ -4,7 +4,7 @@ identifier: "TAB-ley-general-de-transito-y-vialidad-del-estado-de-tabasco-50298"
 country: "mx"
 rank: "ley_general"
 publication_date: "2006-03-29"
-last_updated: "2015-05-20"
+last_updated: "2015-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50298&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY GENERAL DE TRÁNSITO Y VIALIDAD DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 29 de marzo de 2006.
 
@@ -119,11 +119,17 @@ I. Realizar acciones de planeación, regulación, ordenamiento, y vigilancia en 
 
 II. Establecer las políticas y lineamientos técnicos en la materia, en términos de esta misma Ley, su Reglamento y demás legislación relativa aplicable;
 
-III Administrar y dirigir a la Policía Estatal de Caminos, así como coordinar sus acciones con las demás autoridades federales, estatales y municipales, a efecto de garantizar la debida circulación y organización del tránsito de vehículos, peatones y animales en el territorio del Estado, e igualmente en la procuración y salvaguarda del orden e interés público;
+III. Administrar y dirigir a la Policía Estatal de Caminos, así como coordinar sus acciones con las demás autoridades federales, estatales y municipales, a efecto de garantizar la debida circulación y organización del tránsito de vehículos, peatones y animales en el territorio del Estado, e igualmente en la procuración y salvaguarda del orden e interés público;
 
-IV. Conocer de los ilícitos, incidentes o faltas administrativas cometidas en la vía pública de comunicación terrestre. En su caso, dar aviso inmediato y remitir a las autoridades federales, estatales y municipales, los asuntos de su competencia en los términos jurisdiccionales y legales correspondientes, poniendo a su disposición a personas, elementos materiales y probatorios que en razón de flagrancia y de colaboración institucional obren o se encuentren en su poder; y
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2015)</small>
 
-V. Las demás que le confiera expresamente esta Ley y demás ordenamientos legales.
+IV. Conocer de los ilícitos, incidentes o faltas administrativas cometidas en la vía pública de comunicación terrestre. En su caso, dar aviso inmediato y remitir a las autoridades federales, estatales y municipales, los asuntos de su competencia en los términos jurisdiccionales y legales correspondientes, poniendo a su disposición a personas, elementos materiales y probatorios que en razón de flagrancia y de colaboración institucional obren o se encuentren en su poder;
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+V. Conocer de los ilícitos, incidentes o faltas administrativas cometidas por los conductores contra la movilidad de personas con discapacidad en lugares de libre acceso al público en general, por el uso indebido u obstrucción de rampas o espacios dedicados a su desplazamiento, estacionamiento o resguardo vehicular en plazas, locales, establecimientos comerciales o cualquier espacio de naturaleza análoga, aplicando en su caso las sanciones que correspondan. Para tales efectos, los propietarios o las personas que se encuentren al frente o como responsables del establecimiento de que se trate, deberán permitir el acceso sin dilación a las autoridades; y
+
+VI. Las demás que le confiera expresamente esta Ley y demás ordenamientos legales.
 
 El Poder Ejecutivo del Estado concertará y coordinará con las dependencias de su estructura y con las diversas autoridades competentes las medidas tendientes al efectivo cumplimiento de la presente Ley. Asimismo, deberá asignar funciones de prevención y control del tránsito en las vías estatales y otros espacios del dominio público, acorde a los convenios celebrados al respecto, sin que el ejercicio de estas desconozcan o alteren las jurisdicciones municipales.
 
@@ -137,7 +143,9 @@ II. Construir y dar mantenimiento a las vías públicas de comunicación terrest
 
 III. Definir y organizar en sus extensiones territoriales el sentido de la vialidad y preferencias de paso en sus calles, andadores, avenidas, libramientos, periféricos y demás caminos de la vía pública, pavimentados o de terracería; esas definiciones no podrán alterar o modificar el adecuado funcionamiento y sentido de circulación de las vías que converjan con las federales, estatales y de otros municipios;
 
-IV. Conocer y resolver las faltas o infracciones de tránsito consideradas en el reglamento de esta Ley, cometidas dentro de su jurisdicción;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+IV. Conocer y resolver las faltas o infracciones de tránsito consideradas en esta Ley o su Reglamento, cometidas dentro de su jurisdicción, incluidas, las contenidas en la fracción V, del artículo 5 de la presente Ley;
 
 V. Dirigir y administrar a la Policía de Tránsito y Vialidad Municipal, así como coordinar sus acciones con las demás autoridades federales, estatales y municipales, a efecto de garantizar la debida circulación y organización del tránsito de vehículos, peatones y animales en el municipio, de igual manera coadyuvará en la procuración y salvaguarda del orden e interés público; y
 
@@ -863,7 +871,9 @@ c) Cuando se compruebe que el automotor circule excedido en peso o en sus dimens
 
 d) Cuando estén prestando un servicio de transporte público de pasajeros o de carga, careciendo del permiso, autorización, concesión, habilitación o inscripción exigidos o en excesos de los mismos, previa solicitud de la autoridad competente en la materia;
 
-e) Que estando mal estacionados obstruyan la circulación o la visibilidad, los que ocupen lugares destinados a vehículos de emergencias, cajones de estacionamiento y rampas para personas con discapacidad o de servicio público de pasajeros; los abandonados en la vía pública y los que por haber sufrido deterioros no pueden circular y no fueren reparados o retirados de inmediato, serán remitidos a depósitos que indique la autoridad competente;
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+e) Que estando mal estacionados obstruyan la circulación o la visibilidad, los que ocupen lugares destinados, a vehículos de emergencias o de servicio público de pasajeros, al resguardo vehicular, a cajones de estacionamiento y/o rampas para personas con discapacidad en la vía pública o en lugares con acceso al público en general, en plazas, locales, establecimientos comerciales o cualquier espacio de naturaleza análoga; los abandonados en la vía pública y los que por haber sufrido deterioros no pueden circular y no fueren reparados o retirados de inmediato, serán remitidos a depósitos que indique la autoridad competente;
 
 f) Cuando hayan sido reportados como robados, debiendo poner al conductor del vehículo a disposición del Ministerio Público, a efecto de deslindar responsabilidades; y
 
@@ -955,7 +965,7 @@ II. Cuando el presunto infractor no pudo evitar cometer la falta y que así sea 
 
 La sanción administrativa que corresponda al conductor o conductores responsables de un percance de tránsito o de violaciones graves a su normatividad podrá aumentarse en la proporción que corresponda a los casos equiparables previstos en esta ley con otros supuestos legales del orden penal y hasta el triple de las sanciones ordinarias establecidas, cuando:
 
-I. EL (sic) infractor haya cometido la falta fingiendo la prestación de un servicio de emergencia u oficial o utilizando una franquicia indebidamente o que no le correspondía;
+I. EL infractor haya cometido la falta fingiendo la prestación de un servicio de emergencia u oficial o utilizando una franquicia indebidamente o que no le correspondía;
 
 II. La haya cometido abusando de reales situaciones de emergencia o del cumplimiento de un servicio público u oficial;
 
@@ -1058,3 +1068,19 @@ P.O. 20 DE MAYO DE 2015.
 PRIMERO. El presente decreto entrará (sic) vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
 
 SEGUNDO. En un término no mayor a 90 días siguiente al que entre en vigor el presente Decreto, deberán de realizarse las adecuaciones pertinentes al Reglamento de la Ley General de Tránsito y Vialidad del Estado de Tabasco.
+
+P.O. 23 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 245 POR EL QUE “SE REFORMAN, LA FRACCIÓN IV DEL ARTÍCULO 5; LA FRACCIÓN IV DEL ARTÍCULO 6 Y EL INCISO E), DE LA FRACCIÓN III, DEL ARTÍCULO 68. SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 5, RECORRIÉNDOSE LA ACTUAL PARA QUEDAR COMO VI; TODOS, DE LA LEY GENERAL DE TRÁNSITO Y VIALIDAD DEL ESTADO DE TABASCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado, previo el procedimiento legislativo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo del Estado deberá hacer las adecuaciones reglamentarias correspondientes en un periodo no mayor a 90 días a partir de la aprobación del presente decreto.
