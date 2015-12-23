@@ -4,7 +4,7 @@ identifier: "TAB-codigo-civil-para-el-estado-de-tabasco-15037"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-04-09"
-last_updated: "2014-12-31"
+last_updated: "2015-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15037&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 CÓDIGO CIVIL PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2015.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 9 de abril de 1997.
 
@@ -1235,21 +1235,17 @@ La aclaración de las actas del estado civil procede ante la Dirección del Regi
 
 ## TITULO SEXTO. DEL MATRIMONIO
 
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
 ### CAPITULO I. DE LOS ESPONSALES
 
 ###### ARTICULO 151.
 
-En qué consisten
-
-La promesa de matrimonio, por escrito, que se hacen mutuamente el hombre y la mujer, constituye los esponsales. Sólo pueden prometerse en matrimonio los que tienen la edad requerida para contraerlo. Los esponsales no obligan a contraer matrimonio, ni en ellos puede estipularse pena alguna por no cumplir la promesa; sin embargo, el que sin causa grave, a juicio del Juez, rehusare o difiriere indefinidamente el cumplimiento de ésta, pagará los gastos que la otra parte hubiere hecho con motivo del matrimonio proyectado.
-
-Si el matrimonio no se celebra, tienen derecho los prometidos a exigir la devolución de lo que se hubiere donado con motivo de su matrimonio concertado.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2015)
 
 ###### ARTICULO 152.
 
-Ejercicio de acciones
-
-Las acciones a que se refiere el artículo anterior, sólo pueden ejercitarse dentro de un año, contado desde el día de la negativa o diferimiento indefinido para la celebración del matrimonio.
+(DEROGADO, P.O. 23 DE DICIEMBRE DE 2015)
 
 ### CAPITULO II. DE LOS REQUISITOS PARA CONTRAER MATRIMONIO
 
@@ -2075,6 +2071,14 @@ Medidas en favor de los hijos
 
 En los procedimientos judiciales de divorcio, la autoridad que conozca de aquéllos debe tomar todas las medidas necesarias para realizar el interés que el Estado tiene, conforme a los artículos 405 y 406, en relación a los hijos de los cónyuges que sean menores o sólo estén concebidos.
 
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+En tanto se decrete el divorcio y posterior a éste, los padres evitarán cualquier acto de presión o manipulación hacia los hijos, encaminado a destruir los vínculos afectivos con el padre o la madre.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+Durante el procedimiento, el juez podrá allegarse de los elementos de convicción necesarios para determinar los alcances de su sentencia, considerando la situación económica de los divorciantes, la valoración sicológica (sic) de ambos padres o de los hijos, debiendo escuchar a los padres y a los hijos, según resulte necesario, para prevenir y evitar conductas de violencia familiar o alienación parental, considerando el interés superior de la niñez.
+
 ###### ARTICULO 266.
 
 Anotación en el acta
@@ -2294,6 +2298,14 @@ III.- En el caso de las fracciones VI y VII del artículo 272, los hijos quedar�
 IV.- En el caso de la fracción X del artículo 272, los hijos quedarán bajo la custodia del cónyuge presente, pero si aparece el declarado ausente o presuntamente muerto, recobrará los demás derechos sobre la persona y bienes de sus hijos; y
 
 V.- En el caso de la fracción XI del artículo 272, los hijos quedarán al cuidado del cónyuge que el Juez designe, previos estudios que estime necesarios y atendiendo en todo caso el interés primordial de aquéllos, pero ambos cónyuges conservarán el ejercicio de la patria potestad.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+Quienes ejerzan la patria potestad deben permitir el acercamiento constante de los menores con sus ascendientes, salvo causa justificada y por razones de seguridad de los menores. En consecuencia, evitarán cualquier acto de alienación parental.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+El juzgador protegerá y hará respetar el derecho de convivencia de los padres, salvo que existan riesgos para la seguridad de los menores.
 
 ###### ARTICULO 282.
 
@@ -3380,6 +3392,10 @@ Las personas físicas que no hayan cumplido dieciocho años son menores de edad.
 Atención del ser humano.
 
 Es de orden público la atención del ser humano durante la gestación, su nacimiento y su minoría de edad.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+Al momento de pronunciarse en relación a la situación de menores en caso de derecho familiar, el juzgador podrá dictar, de ser necesario, medidas sobre alienación parental; entendida ésta como la presión, manipulación o inducción que realizan el padre o la madre hacia los menores para predisponerlos negativamente contra uno u otra, según sea el caso.
 
 ###### ARTICULO 406.
 
@@ -5857,6 +5873,16 @@ Pueden ser objeto del patrimonio de familia la casa habitación con el mobiliari
 
 Pueden constituirlo el padre o la madre, el concubinario o la concubina, sobre sus bienes propios, sobre los bienes de la sociedad conyugal, un tercero, a título de donación o legado, y la madre soltera que quiera hacerlo para protección de su familia.
 
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+En todo caso constituyen patrimonio de familia:
+
+I.- La casa habitación, siempre que se trate de un inmueble destinado a la residencia de la familia;
+
+II.- Adicionalmente en la zona rural, una parcela que sea explotada directamente por los beneficiarios del patrimonio de familia, siempre que no exceda de cinco hectáreas y la maquinaría e instrumentos necesarios para el cultivo de la parcela; y
+
+III.- Los libros y el equipo para ejercer profesión u oficio.
+
 ###### ARTICULO 723.
 
 Efecto con relación a los bienes
@@ -5921,15 +5947,13 @@ Uno por familia
 
 Cada familia sólo puede constituir un patrimonio. Los que se constituyan subsistiendo el primero, no producirán efecto legal alguno.
 
-> <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE ARTICULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL CODIGO.</small>
-
-> <small>(REFORMADO, P.O. 7 DE OCTUBRE DE 2006)</small>
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 732.
 
 Valor máximo
 
-El valor máximo de los bienes afectos al patrimonio de familia, será el equivalente a diez mil días del salario mínimo general vigente en el Estado.
+El valor máximo de los bienes afectos al patrimonio de familia, será el equivalente a quince mil días del salario mínimo general o su equivalente vigente en el estado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -25556,6 +25580,14 @@ P.O. 31 DE DICIEMBRE DE 2014.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente Decreto.
+
+P.O. 23 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 290 POR EL QUE "SE REFORMAN: EL ARTÍCULO 732; SE ADICIONAN: DOS PÁRRAFOS AL ARTÍCULO 265; DOS PÁRRAFOS AL 281 Y UN SEGUNDO PÁRRAFO AL ARTÍCULO 405, Y UN TERCER PÁRRAFO, INTEGRADO POR TRES FRACCIONES, AL ARTÍCULO 722; Y SE DEROGA: EL CAPÍTULO I DEL TÍTULO SEXTO DEL LIBRO PRIMERO Y LOS ARTÍCULOS 151 Y 152 QUE LO INTEGRAN; TODOS DEL CÓDIGO CIVIL PARA EL ESTADO DE TABASCO”.]
+
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Tabasco.
+
+SEGUNDO.- Se derogan todas las normas legales y reglamentarias que se opongan al presente decreto.
 
 ###### ARTICULO PRIMERO.
 
