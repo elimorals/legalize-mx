@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-de-candidatos-a-ocupar-cargos-de-eleccion-popular-94
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-04-29"
-last_updated: "2013-04-29"
+last_updated: "2015-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94111&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "SIN"
 
 REGLAMENTO DE CANDIDATOS A OCUPAR CARGOS DE ELECCIÓN POPULAR DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO PARA EL REGISTRO DE CANDIDATURAS A OCUPAR CARGOS DE ELECCIÓN POPULAR, PUBLICADO EN EL P.O. DE 23 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el lunes 29 de abril de 2013.
 
@@ -571,3 +573,13 @@ TRANSISTORIOS (SIC)
 PRIMERO: El presente Reglamento entrara en vigor a partir del día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO: El presente Reglamento abroga al Reglamento de Candidaturas Comunes, aprobado por el Consejo Estatal Electoral según Acuerdo Numero ORD/6/031 en la Sexta Sesión Ordinaria del 27 de julio de 2001, y adecuados los artículos 7, 8 y 10, mediante Acuerdo Número ORD/7/043 en la Séptima Sesión Ordinaria del Consejo Estatal Electoral, el día 10 de agosto de 2001.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO]</small>
+
+P.O. 23 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO ELECTORAL DEL ESTADO DE SINALOA, MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO PARA EL REGISTRO DE CANDIDATURAS A OCUPAR CARGOS DE ELECCIÓN POPULAR”.]
+
+PRIMERO: El presente Reglamento entrara en vigor a partir del día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
+
+SEGUNDO: El presente Reglamento abroga al Reglamento para el registro (sic) Candidatos a ocupar cargos de Elección Popular, aprobado por el Consejo Estatal Electoral según Acuerdo Numero ORD/07/036 en la Séptima Sesión Ordinaria de fecha 26 de abril de 2013.
