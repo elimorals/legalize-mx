@@ -4,7 +4,7 @@ identifier: "ZAC-ley-electoral-del-estado-de-zacatecas-108579"
 country: "mx"
 rank: "ley"
 publication_date: "2015-06-06"
-last_updated: "2015-06-06"
+last_updated: "2015-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ELECTORAL DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Suplemento 3 del Periódico Oficial del Estado de Zacatecas, el sábado 6 de junio de 2015.
 
@@ -513,8 +513,6 @@ ARTÍCULO 24
 
 7. Las disposiciones relativas al género de los candidatos, el registro de los candidatos que ostenten el carácter de migrante o joven, se aplicarán sin perjuicio de los mayores avances que en esta materia señalen la normatividad interna y los procedimientos de cada partido político.
 
-(NOTA: EL 31 DE AGOSTO DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO CUARTO INCISOS C) Y D), ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 36/2015 Y SUS ACUMULADAS 37/2015, 40/2015 Y 41/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 31 DE AGOSTO DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
 Asignación de diputados por el principio de representación proporcional
 
 ARTÍCULO 25
@@ -527,45 +525,77 @@ a) Aquellos que fueron declarados nulos;
 
 b) Los alcanzados por los partidos políticos que no hubieren postulado candidatos a diputados en por lo menos trece distritos uninominales y en la totalidad de la circunscripción plurinominal;
 
-c) Los de los partidos políticos que no hubieren alcanzado el 3% de la votación valida emitida; y
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
 
-d) Los votos emitidos para candidatos independientes.
+c) Los de los partidos políticos que no hubieren alcanzado el 3% de la votación válida emitida;
 
-II. Al partido político que hubiere participado con candidatos, cuando menos en trece distritos electorales uninominales, así como en las fórmulas por listas plurinominales, y haya obtenido la mayoría de la votación estatal emitida, independiente y adicionalmente a las constancias de mayoría que hubiesen alcanzado sus candidatos, le serán asignados por el principio de representación proporcional el número de curules necesarias, hasta que el porcentaje de representación de diputados por ambos principios en la Legislatura, sea equivalente al porcentaje de votación estatal emitida que haya obtenido, adicionado hasta con ocho puntos porcentuales, sin que en ningún caso se exceda del número de dieciocho diputados del mismo partido. En esta disposición queda incluido aquel candidato que tuviere la calidad de binacional o migrante.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
 
-Conforme a esta fracción, en ningún caso el porcentaje de representación para integrar la Legislatura; podrá ser inferior al porcentaje que tal partido obtuvo en la votación estatal emitida;
+d) Los votos emitidos para candidatos independientes que no obtuvieron triunfos de mayoría; y
 
-III. En la integración de la Legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales; en este caso, se deducirá el número de diputados de representación proporcional que sean necesarios para asignar diputados a los partidos políticos que se encuentren en este supuesto;
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
 
-IV. Las diputaciones por el principio de representación proporcional que resten después de asignar las que correspondan a los partidos que se encuentre en los supuestos anteriores, y una vez que se ajuste la votación estatal emitida, se asignarán a los demás partidos políticos con derecho a ello, en proporción directa con sus respectivas votaciones estatales;
+e) Los obtenidos por los candidatos no registrados.
 
-V. Para los efectos anteriores, se procederá a la aplicación de una fórmula de proporcionalidad pura, integrada por los siguientes elementos:
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+II. Ningún partido político podrá contar con más de 18 diputados por ambos principios. En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la Legislatura que exceda en ocho puntos su porcentaje de votación estatal emitida. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total de la Legislatura, superior a la suma del porcentaje de su votación estatal emitida más el ocho por ciento. En esta disposición queda incluido aquel candidato que tuviere la calidad de binacional o migrante.
+
+> <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+III. Tomando en cuenta los respectivos porcentajes obtenidos por los partidos políticos, se hará un ejercicio hipotético con base en la votación estatal emitida, para determinar el número de diputados que corresponderá a cada uno de ellos, atendiendo a la votación que hayan recibido.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+En la integración de la Legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales; en este caso, se deducirá el número de diputados de representación proporcional que sean necesarios para asignar diputados a los partidos políticos que se encuentren en este supuesto.
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+IV. En un primer momento, se determinarán, con base en los porcentajes de votación de cada partido político, el número de diputados que le corresponderían, para efecto de determinar si no se encuentran subrepresentados.
+
+A los partidos políticos que se encuentren en el supuesto del párrafo anterior se les asignarán, de las 12 diputaciones por el principio de representación proporcional, las que fueran necesarias para dejar el estado de subrepresentación y, una vez que se ajuste la votación estatal emitida, se asignarán las que resten a los partidos políticos con derecho a ello, en proporción directa con sus respectivas votaciones estatales;
+
+V. Para los efectos anteriores, se procederá a la aplicación de una fórmula de proporcionalidad pura, integrada por los siguientes elementos;
 
 a) Cociente natural; y
 
 b) Resto mayor.
 
-VI. En primer término se determinarán los diputados que se asignarán al partido político que se encuentre en la hipótesis prevista en la fracción II de este artículo. Se procederá a efectuar una división simple del porcentaje de votación estatal emitida que haya obtenido, adicionado para efectos de asignación de diputados por este principio, entre el factor 3.333, a fin de determinar el número de diputados que le serán asignados. De resultar un número compuesto por enteros y fracciones, deberá elevarse al entero inmediato mayor;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2015)</small>
 
-VII. En segundo término se determinarán los diputados que se asignarán al partido político que se encuentre en la hipótesis prevista en la fracción III de este artículo;
+VI. En primer término se determinarán los partidos políticos que se encuentren subrepresentados. En caso de que alguno se encontrara en tal supuesto, se le asignarán el número de diputados necesarios para que deje el estado de subrepresentación;
 
-VIII. Hecho lo anterior, se ajustará la votación estatal emitida, restándole la votación total del partido que obtuvo la mayor votación y los votos que representaron triunfos por el principio de mayoría relativa en los distritos uninominales de los partidos que participan en la asignación;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2015)</small>
 
-IX. El resultado obtenido se dividirá entre el número de curules a asignar para obtener el cociente natural. Las diputaciones de representación proporcional se asignarán a los partidos con derecho a ello conforme a sus respectivas votaciones estatales ajustadas; y
+VII. Hecho lo anterior, se ajustará la votación estatal emitida, restándole la votación de todos los partidos que obtuvieron triunfos por el principio de mayoría relativa en los distritos uninominales;
 
-X. Si aún quedaren curules por repartir se utilizará el método de resto mayor, en el que participarán todos los partidos políticos que cumplan con estas bases para el reparto plurinominal.
+> <small>(N. DE E. ANTES FRACCIÓN IX, P.O. 23 DE DICIEMBRE DE 2015)</small>
 
-2. Una vez que se haya cumplido el procedimiento previsto en las bases anteriores, se procederá a lo siguiente:
+VIII. El resultado obtenido se dividirá entre el número de curules a asignar para obtener el cociente natural. Las diputaciones de representación proporcional se asignarán a los partidos con derecho a ello conforme a sus respectivas votaciones estatales ajustadas; y
+
+> <small>(REFORMADA [N. DE E. ANTES FRACCIÓN X], P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+IX. Si aún quedaran curules por repartir se utilizará el método de resto mayor, en el que participarán todos los partidos políticos que cumplan con estas bases para el reparto plurinominal.
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+2. Una vez que se haya cumplido el procedimiento previsto en las bases anteriores, se realizará la verificación de los límites de sobre y subrepresentación.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+3. Realizada la asignación de diputaciones y la verificación de los límites referidos en el numeral anterior, se procederá a lo siguiente:
 
 I. Para la asignación a que se refieren los numerales 5, 6 y 7 del artículo anterior, relativos a la fórmula de candidatos con carácter migrante, el Consejo General aplicará, al caso de cada uno de los dos partidos que hubiesen obtenido, respectivamente, los mayores porcentajes de votación estatal emitida, los criterios que a continuación se indican:
 
-a) Si tuviere derecho a la asignación de dos diputados, el primero será, el que ocupe tal lugar en la lista estatal registrada, y el segundo, el candidato con carácter migrante;
+a) Si tuviere derecho a la asignación de un diputado, será el candidato con carácter migrante.
 
-b) Si tuviere derecho a la asignación de tres diputados el primero y el segundo serán, el primero y segundo de la lista estatal registrada, y el tercero, el candidato con carácter migrante;
+b) Si tuviere derecho a la asignación de dos diputados, el primero será, el que ocupe tal lugar en la lista estatal registrada, y el segundo, el candidato con carácter migrante;
 
-c) Si tuviere derecho a la asignación de cuatro diputados el primero, segundo y tercero serán, el primero, segundo y tercero de la lista estatal registrada, y el cuarto, el candidato con carácter migrante; y
+c) Si tuviere derecho a la asignación de tres diputados el primero y el segundo serán, el primero y segundo de la lista estatal registrada, y el tercero, el candidato con carácter migrante;
 
-d) Si tuviere derecho a la asignación de cinco diputados, el primero, segundo, tercero y cuarto serán, el primero, segundo, tercero y cuarto de la lista estatal registrada, y el quinto, el candidato con carácter migrante.
+d) Si tuviere derecho a la asignación de cuatro diputados el primero, segundo y tercero serán, el primero, segundo y tercero de la lista estatal registrada, y el cuarto, el candidato con carácter migrante; y
+
+e) Si tuviere derecho a la asignación de cinco diputados, el primero, segundo, tercero y cuarto serán, el primero, segundo, tercero y cuarto de la lista estatal registrada, y el quinto, el candidato con carácter migrante.
 
 Partidos sin derecho a diputados de representación proporcional
 
@@ -6640,3 +6670,15 @@ LIC. MIGUEL ALEJANDRO ALONSO REYES
 EL SECRETARIO GENERAL DE GOBIERNO
 
 LIC. JAIME SANTOYO CASTRO.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 23 DE DICIEMBRE DE 2015.
+
+PRIMERO. La presente reforma entrará en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Publíquese en el Periódico Oficial del Gobierno del Estado.
+
+TERCERO. Ríndase informe a la Suprema Corte de Justicia de la Nación en vía de cumplimiento a su sentencia pronunciada el 31 de agosto del año en curso, dictada dentro de la Acción de Inconstitucionalidad 36/2015 y sus acumuladas 37/2015, 40/2015 y 41/2015, para los efectos legales a que haya lugar.
+
+CUARTO. Se derogan todas las disposiciones que se opongan a la presente.
