@@ -4,7 +4,7 @@ identifier: "TAB-ley-sobre-los-derechos-de-las-personas-con-discapacidad-81674"
 country: "mx"
 rank: "ley"
 publication_date: "2011-06-01"
-last_updated: "2014-05-24"
+last_updated: "2015-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81674&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY SOBRE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD PARA EL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2015.
 
 Ley publicada en el suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 1 de junio de 2001.
 
@@ -977,6 +977,10 @@ La Secretaría de Seguridad Pública a través de la Dirección General de la Po
 
 Las personas con discapacidad tendrán derecho exclusivo a ocupar los espacios de estacionamiento que sean destinados para ellos, para su identificación deberá figurar en su vehículo los logotipos internacionales de discapacidad expedidos conforme la legislación estatal en vigor.
 
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+Los propietarios, responsables, encargados o administradores de los inmuebles donde se ubiquen los espacios a que se refiere el párrafo anterior, deberán solicitar el apoyo y/o permitir el acceso de las autoridades de la policía estatal de caminos o de tránsito municipal cuando alguien más lo solicite, a efectos de que puedan ejercer sus atribuciones, retirar los vehículos con grúa e infraccionar a los conductores de vehículos que sin tener ninguna discapacidad los obstruyan estacionando sus vehículos en dichos lugares. El incumplimiento de las disposiciones a que se refiere este párrafo será sancionado en términos del artículo 140 de esta Ley.
+
 ###### ARTÍCULO 92.
 
 La Secretaría de Seguridad Pública a través de la Dirección General de la Policía Estatal de Caminos, implementará programas especiales de circulación vehicular que faciliten el libre desplazamiento de las personas con discapacidad.
@@ -1098,6 +1102,10 @@ Las aceras e intersecciones en que se construyan rampas deberán contemplar como
 ###### ARTÍCULO 104.
 
 En las zonas comerciales, los estacionamientos de vehículos deberán contar, por lo menos, con dos espacios por manzana para el ascenso y descenso de las personas con discapacidad; estos espacios estarán diseñados de acuerdo a los requerimientos específicos y señalados con el logotipo correspondiente.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+Los propietarios, responsables, encargados o administradores de los inmuebles donde se ubiquen los espacios a que se refiere el párrafo anterior, deberán solicitar el apoyo y/o permitir el acceso de las autoridades de la policía estatal de caminos o de tránsito municipal cuando alguien más lo solicite, a efectos de que puedan ejercer sus atribuciones, retirar los vehículos con grúa e infraccionar a los conductores de vehículos que sin tener ninguna discapacidad los obstruyan estacionando sus vehículos en dichos lugares. El incumplimiento de las disposiciones a que se refiere este párrafo será sancionado en términos del artículo 140 de esta Ley.
 
 ###### ARTÍCULO 105.
 
@@ -1572,3 +1580,19 @@ SECRETARIO DE GOBIERNO
 P.O. 24 DE MAYO DE 2014.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 245 POR EL QUE "SE ADICIONAN UN SEGUNDO PÁRRAFO A LOS ARTÍCULOS 91 Y 104 DE LA LEY SOBRE LOS DERECHOS DE LAS PERSONAS CON DISCAPACIDAD PARA EL ESTADO DE TABASCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado, previo el procedimiento legislativo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Ejecutivo del Estado deberá hacer las adecuaciones reglamentarias correspondientes en un periodo no mayor a 90 días a partir de la aprobación del presente decreto.
