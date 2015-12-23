@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-salud-del-estado-de-tabasco-71585"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-12"
-last_updated: "2015-05-20"
+last_updated: "2015-12-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71585&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAB"
 
 LEY DE SALUD DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el sábado 12 de diciembre de 2009.
 
@@ -181,9 +181,13 @@ XVII. Participar con las autoridades federales en el desarrollo de los programas
 
 XVIII. Ejercer la verificación y el control sanitario de los establecimientos o sitios que expendan o suministren al público alimentos y bebidas alcohólicas o no alcohólicas; en estado natural, mezclados, preparados, adicionados o acondicionados para su consumo dentro o fuera del mismo establecimiento. Basándose en las normas administrativas que al efecto se emitan;
 
-XIX. Dar cumplimiento a los acuerdos que en materia de control sanitario se emitan respecto de los establecimientos o sitios que comercializan al público, nutrientes vegetales, plaguicidas y substancias tóxicas;
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2015)</small>
 
-XX. La salud visual y auditiva desde la edad temprana; y
+XIX. La salud visual y auditiva desde la edad temprana;
+
+> <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+XX. La donación y trasplante de órganos, tejidos y células, así como la difusión de la cultura de la donación; y
 
 XXI. Las demás que establezca la Ley General de Salud y otras disposiciones jurídicas aplicables.
 
@@ -2253,6 +2257,10 @@ Toda persona es disponente de su cuerpo y podrá donarlo, total o parcialmente, 
 
 Todo lo relacionado a la disposición de órganos y tejidos de seres humanos con fines terapéuticos, se regirá conforme a lo establecido en la Ley General de Salud, sus disposiciones reglamentarias y las normas oficiales mexicanas correspondientes.
 
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+El consentimiento de las personas para disponer de su cuerpo, deberá efectuarse con la forma, circunstancias, requisitos, restricciones y prohibiciones previstos en la Ley General de Salud.
+
 ###### ARTÍCULO 242.
 
 Está prohibido el comercio de órganos y tejidos de seres humanos. La donación de los mismos con fines de trasplantes, se regirá por principios de altruismo, ausencia de ánimo de lucro y confidencialidad, por lo que su obtención y utilización serán estrictamente a título gratuito.
@@ -2261,7 +2269,115 @@ Está prohibido el comercio de órganos y tejidos de seres humanos. La donación
 
 La cultura de donación de órganos y tejidos es de interés público. El gobierno implementará en todo el territorio estatal, programas permanentes destinados a fomentar la donación de órganos y tejidos.
 
-### CAPÍTULO III. DE LA PÉRDIDA DE VIDA
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+La Secretaría de Salud promoverá la cultura de donación y trasplantes de órganos mediante propaganda informativa y pondrá a disposición del público en general, los formatos de manifestación expresa de donación de órganos en el Centro Estatal de Trasplantes y en sus módulos de atención ciudadana.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+La Secretaría de Salud, en coordinación con las demás dependencias y entidades de gobierno, u otros entes públicos desarrollará programas y acciones de información, promoción y difusión de la cultura de donación de órganos, tejidos y células.
+
+### CAPÍTULO II BIS. DEL CENTRO ESTATAL DE TRASPLANTES
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+ARTÍCULO 250 BIS.- Se crea el Centro Estatal de Trasplantes, como un órgano desconcentrado, dependiente de la Secretaría de Salud, el cual tendrá por objeto promover, apoyar y coordinar las acciones en materia de trasplantes y donación de órganos, tejidos y células que realizan las instituciones y centros de salud con fines terapéuticos, así como la difusión de la cultura de la donación y la capacitación de recursos humanos en la materia, dentro del marco de la Ley General de Salud y la Ley de Salud para el Estado de Tabasco.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+ARTÍCULO 250 BIS 1.- El Centro Estatal de Trasplantes, para el desarrollo y operación de sus funciones, administrará y ejercerá desconcentradamente los recursos que se le autoricen en el Presupuesto General de Egresos del Estado a la Secretaría de Salud; sujetándose, en su aplicación, a las disposiciones jurídicas y administrativas correspondientes.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+ARTÍCULO 250 BIS 2.- Corresponden al Centro Estatal de Trasplantes, las siguientes atribuciones:
+
+I.- Decidir y vigilar, dentro de su ámbito de competencia, la asignación de órganos, tejidos y células para trasplantes en seres humanos y, en general, de las actividades relacionadas con éstos y de los establecimientos que realizan dichos actos en cuanto se refiera a los mismos;
+
+II.- Implementar actividades educativas, de investigación, de información y de difusión, para el fomento de la cultura de la donación de órganos, tejidos y células entre los habitantes del Estado;
+
+III.- Actualizar y difundir entre los profesionales, técnicos y auxiliares de la salud, la información científica y técnica en materia de trasplantes;
+
+IV.- Coadyuvar con el Centro Nacional de Trasplantes presentando sus programas de trasplantes e integrando y actualizando la información del Registro Nacional de Trasplantes, de conformidad con lo que señalen la Ley General de Salud y las demás disposiciones aplicables;
+
+V.- Operar y mantener actualizado el Registro Estatal de Trasplantes, de conformidad a la normatividad aplicable;
+
+VI.- Proporcionar al Registro Nacional, la información en •materia de Trasplantes generada en el Estado y colaborar con sus acciones, en los términos de los acuerdos de coordinación y colaboración que se celebren;
+
+VII.- Difundir y proporcionar, con el auxilio de las unidades de atención ciudadana, hospitales y centros de salud, el formato en que deba registrarse el consentimiento expreso de la persona que desea ser donador de órganos, tejidos y células, así como el de consentimiento de donación que realicen las personas a que se refieren los artículos 323 y 324 de la Ley General de Salud;
+
+VIII.- Coadyuvar con las autoridades competentes, a fin de que se respete la voluntad de las personas que han decidido donar órganos y tejidos;
+
+IX.- Reconocer el mérito y altruismo de los donadores y sus familias, mediante la expedición de las constancias correspondientes;
+
+X.- Promover el respeto y la protección del derecho a la libre donación de órganos, tejidos y células, así como de ser sujeto de trasplantes de éstos;
+
+XI.- Desarrollar las acciones necesarias para mejorar la calidad de los procedimientos de donaciones y trasplantes;
+
+XII.- Promover la colaboración entre la autoridad sanitaria estatal con la Federación y las demás entidades federativas, para la atención de los temas relacionados a la disposición, vigilancia y control de órganos, tejidos y células de seres humanos con fines terapéuticos (donación y trasplante), de investigación y docencia;
+
+XIII.- Promover la constitución de asociaciones, organismos o grupos de apoyo que fomenten la cultura de trasplantes y donación de órganos, tejidos y células, así como la gestión de recursos financieros o materiales para la donación, procuración y trasplante de órganos, tejidos y células en las instituciones de salud que operan en el Estado;
+
+XIV.- Coadyuvar con las autoridades competentes en la prevención y combate de la disposición ilegal de órganos, tejidos y células de seres humanos;
+
+XV.- Celebrar acuerdos de coordinación y concertación con los sectores público, social y privado para el cumplimiento de su objeto y funciones;
+
+XVI.- Diseñar, instrumentar y operar el Sistema Estatal de Trasplantes;
+
+XVII.- Elaborar el Programa Estatal de Trasplantes, de acuerdo a las normas y lineamientos emanados del Programa Nacional de Trasplantes, y vigilar su aplicación;
+
+XVIII.- Proponer a las autoridades competentes de los Hospitales Públicos y Privados, mecanismos de coordinación, con el objeto de que éstas adopten las medidas necesarias para apoyar las acciones en materia de trasplantes, así como la constitución de comités internos de trasplantes; y
+
+XIX.- Las demás que le señalen la Ley General de Salud, esta Ley y otras disposiciones legales.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+ARTÍCULO 250 BIS 3.- El Centro Estatal de Trasplantes estará a cargo de un Director General, el cual será nombrado y removido libremente por el Gobernador a propuesta del Secretario de Salud, debiendo cumplir con los siguientes requisitos:
+
+I.- Ser ciudadano mexicano en pleno uso de sus derechos civiles y políticos;
+
+II.- Tener al día de la designación, cuando menos, treinta y cinco años cumplidos;
+
+III.- Poseer el día del nombramiento, con una antigüedad mínima de cinco años, título y cédula profesional de médico cirujano, expedidos y registrados por las autoridades educativas correspondientes;
+
+IV.- No desempeñar durante su función, ninguna otra actividad pública o privada, salvo en los ramos de instrucción o beneficencia pública; y
+
+V.- Gozar de buena reputación y no haber sido condenado por delito doloso que merezca una pena privativa de libertad.
+
+El Director General durará en sus funciones cuatro años, pudiendo ser ratificado por un periodo más.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+ARTÍCULO 250 BIS 4.- Corresponderá al Director General del Centro Estatal de Trasplantes, el ejercicio de las siguientes atribuciones:
+
+I.- Representar legalmente al Centro Estatal de Trasplantes, con las facultades de un apoderado general para pleitos y cobranzas y actos de administración, así como para aquellas que requieran cláusula especial conforme a la ley, quedando facultado para delegar dicha representación en uno o más apoderados para que las ejerzan individual o conjuntamente;
+
+II.- Proponer al Secretario de Salud, para su aprobación, las políticas y programas de actividades del Centro Estatal de Trasplantes;
+
+III.- Ejecutar los acuerdos que dicte el Secretario de Salud;
+
+IV.- Dirigir técnica y administrativamente el funcionamiento del Centro Estatal de Trasplantes;
+
+V.- Realizar en la asignación de los órganos, tejidos y células para los pacientes, tomando como referencia el criterio establecido en el artículo 336 de la Ley General de Salud y presentar un informe detallado de dichas asignaciones al Secretario;
+
+VI.- Organizar y dirigir el Registro Estatal de Trasplantes;
+
+VII.- Formular el anteproyecto de presupuesto anual del Centro Estatal de Trasplantes y someterlo a la consideración del Secretario de Salud para su inclusión en el proyecto de presupuesto de la Secretaría de Salud;
+
+VIII.- Vigilar la correcta aplicación de los recursos del Centro Estatal de Trasplantes, así como solicitar la práctica de las auditorías internas y externas que estime necesarias e implementar las medidas de control convenientes;
+
+IX.- Rendir un informe anual al Secretario de Salud, o cada vez que éste lo solicite, en relación a los avances de los programas establecidos, las metas alcanzadas y los estados financieros;
+
+X.- Nombrar y remover al personal del Centro Estatal de Trasplantes, conforme a las disposiciones administrativas y laborales aplicables;
+
+XI.- Celebrar acuerdos y convenios de coordinación con dependencias y entidades federales, estatales y municipales, instituciones públicas y con organismos del sector privado y social, en materia de la competencia del Centro Estatal de Trasplantes, previa autorización del Secretario;
+
+XII.- Elaborar los proyectos de Reglamento Interior del Centro Estatal de Trasplantes, manuales de organización y procedimientos y demás instrumentos de orden administrativo y ponerlos a consideración del Secretario de Salud, para su aprobación;
+
+XIII.- Realizar los actos administrativos y jurídicos que sean necesarios para el cumplimiento de las anteriores facultades y obligaciones, el logro del objeto y atribuciones del Centro Estatal de Trasplantes;
+
+XIV.- Aprobar la entrega de reconocimientos al mérito y altruismo a los donadores y sus familiares, o a instituciones y organizaciones civiles; y
+
+XV.- Las demás que señale la Ley General de Salud, la Ley de Salud del Estado de Tabasco, el Reglamento Interior del Centro Estatal de Trasplantes, el Secretario de Salud, y otras disposiciones legales.
 
 ###### ARTÍCULO 244.
 
@@ -2285,7 +2401,7 @@ La selección del donante y del receptor se hará siempre por prescripción y ba
 
 Para realizar trasplantes entre vivos, deberán cumplirse los siguientes requisitos respecto del donante:
 
-l. Ser mayor de edad y estar en pleno uso de sus facultades mentales;
+I. Ser mayor de edad y estar en pleno uso de sus facultades mentales;
 
 II. Donar un órgano par; en caso de ser impar, que al ser extraído o en parte, sus funciones pueda ser compensada por el organismo del donante de forma adecuada y suficientemente segura;
 
@@ -2313,6 +2429,36 @@ II. Existir consentimiento expreso del disponente o no constar su revocación de
 
 III. Asegurarse que no exista riesgo sanitario.
 
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+ARTÍCULO 248 BIS.- Para la disposición de órganos o tejidos para trasplantes, se estará al siguiente procedimiento, según sea el caso, sin perjuicio de lo dispuesto por la Ley General de Salud y el artículo 248 de la presente Ley:
+
+I.- El Titular del Comité Interno de Trasplantes de la institución hospitalaria, establecerá una vigilancia continua en el establecimiento, para detectar el ingreso de pacientes en estado crítico;
+
+II.- Con base en lo anterior, el Titular del Comité Interno de Trasplantes de la institución hospitalaria identificará a los donadores potenciales, con apoyo del personal médico correspondiente, y tomarán las medidas pertinentes para determinar su viabilidad como donador. El Titular del Comité Interno de Trasplantes de la institución hospitalaria, establecerá contacto con el Centro Estatal de Trasplantes para verificar si el donador potencial se encuentra inscrito en los Registros Nacional y Estatal de Trasplantes como donador con consentimiento expreso;
+
+III.- Emitido, en su caso, el diagnóstico clínico de muerte cerebral, el Titular del Comité Interno de Trasplantes de la institución hospitalaria, solicitará y gestionará oportunamente la certificación de pérdida de vida para la disposición de órganos y tejidos en los términos de la Ley General de Salud.
+
+Notificará al Ministerio Público, de manera inmediata la identificación del donante fallecido, en los casos en que la causa de la pérdida de la vida se presuma vinculada con la comisión de un delito;
+
+IV.- En caso de no localizar datos o documentos relativos al consentimiento expreso del donador potencial, el Titular del Comité Interno de Trasplantes de la institución hospitalaria, con apoyo en los médicos tratantes, de tener conocimiento de su existencia y localización, acudirá ante los familiares del paciente para notificar la muerte y solicitar la donación;
+
+V.- En todos los casos, para la disposición de órganos, tejidos, o ambos, el Titular del Comité Interno de Trasplantes de la institución hospitalaria, avisará de inmediato al Director General del Centro Estatal de Trasplantes para que, por su conducto, se obtengan las constancias pertinentes para integrar el expediente correspondiente, en los términos de la Ley General de Salud;
+
+VI.- El Director General del Centro Estatal de Trasplantes consultará el Registro Estatal de Trasplantes a su cargo y establecerá comunicación inmediata con el Registro Nacional de Trasplantes, para verificar en ellos, la lista de potenciales receptores de acuerdo al orden cronológico de registro, la compatibilidad, la oportunidad, los beneficios esperados y la urgencia, para la determinación de la asignación de los órganos y tejidos;
+
+VII.- Una vez determinada la asignación, el Director General del Centro Estatal de Trasplantes establecerá comunicación inmediata con el receptor, procurando, de ser posible, proveer a éste de los medios de transporte necesarios para su traslado hacia el establecimiento de salud donde recibirá el trasplante;
+
+VIII.- De presentarse las condiciones óptimas y no existir riesgo sanitario para la intervención, se realizará el proceso de extracción y trasplante en los establecimientos de salud autorizados para tal efecto, para lo cual el Titular del Comité Interno de Trasplantes de la institución hospitalaria, en coordinación con el Director General del Centro Estatal de Trasplantes, se asegurarán que la extracción y el trasplante se realice por equipos de profesionistas especializados con la utilización del instrumental adecuado y completo.
+
+En caso de que el Ministerio Público lo considere procedente, se invitará al médico legista para que presencie la extracción de órganos o tejidos; y
+
+IX.- Habiéndose realizado el trasplante, el Titular del Comité Interno de Trasplantes de la institución hospitalaria dará aviso oportuno por escrito del procedimiento realizado al Centro Nacional de Trasplantes y al Centro Estatal de Trasplantes, para su anotación en los registros correspondientes; y a la Fiscalía General del Estado.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+ARTÍCULO 248 BIS 1.- El Gobierno del Estado otorgará todas las facilidades posibles para el aprovechamiento de los vehículos terrestres y aéreos a su disposición, para el traslado de órganos o tejidos destinados a ser trasplantados, así como a los receptores de la donación, cuando la urgencia del caso así lo amerite.
+
 ###### ARTÍCULO 249.
 
 Los profesionales de las disciplinas para la salud que intervengan en la extracción de órganos y tejidos o en trasplantes deberán contar con el entrenamiento especializado respectivo, conforme lo determinen las disposiciones reglamentarias aplicables, y estar inscritos en el Registro Nacional de Trasplantes.
@@ -2321,13 +2467,15 @@ Los profesionales de las disciplinas para la salud que intervengan en la extracc
 
 Cuando no exista urgencia o razón médica para asignar preferentemente un órgano o tejido, ésta se sujetará estrictamente a listas que se integrarán con los datos de los mexicanos en espera, y que estarán a cargo del Centro Nacional de Trasplantes.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO III. DE LA PÉRDIDA DE VIDA
+
 ### CAPÍTULO IV. DE LOS CUIDADOS PALIATIVOS Y SUSPENSIÓN DE TRATAMIENTOS A LOS ENFERMOS EN SITUACION TERMINAL
 
 > <small>N. DE E. EN RELACION CON LA ENTRADA EN VIGOR DEL PRESENTE ARTICULO, VEASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, P.O. 22 DE MAYO DE 2010)</small>
-
-### CAPÍTULO I. DE SU VERIFICACIÓN Y CONTROL
 
 ###### ARTÍCULO 251.
 
@@ -2371,7 +2519,7 @@ No existirá impedimento alguno para que a solicitud o autorización de las sigu
 
 > <small>(REFORMADA SU DENOMINACION, P.O. 22 DE MAYO DE 2010)</small>
 
-### CAPÍTULO II. SUBSTANCIAS TÓXICAS
+### CAPÍTULO I. DE SU VERIFICACIÓN Y CONTROL
 
 ###### ARTÍCULO 254.
 
@@ -2627,7 +2775,7 @@ ARTÍCULO 269 BIS 3.- Las instituciones de salud, el personal médico y paraméd
 
 ## TÍTULO DÉCIMO QUINTO. DE LOS EXPENDIOS DE ALIMENTOS, BEBIDAS NO ALCOHÓLICAS, ALCOHÓLICAS, NUTRIENTES VEGETALES, PLAGUICIDAS Y SUBSTANCIAS TÓXICAS
 
-### CAPÍTULO I. DISPOSICIONES COMUNES
+### CAPÍTULO II. SUBSTANCIAS TÓXICAS
 
 ###### ARTÍCULO 270.
 
@@ -2659,7 +2807,7 @@ V. Cumplir con las disposiciones de higiene general y personal que correspondan.
 
 Se prohíbe la comercialización de bebidas alcohólicas en farmacias, droguerías y boticas, así como de manera ambulante.
 
-### CAPÍTULO II. MERCADOS Y CENTROS DE ABASTO
+### CAPÍTULO I. DISPOSICIONES COMUNES
 
 ###### ARTÍCULO 274.
 
@@ -2687,7 +2835,7 @@ La Secretaría de Salud, promoverá y llevará a cabo campañas permanentes de i
 
 ## TÍTULO DÉCIMO SEXTO. SALUBRIDAD LOCAL
 
-### CAPÍTULO III. DE LAS CONSTRUCCIONES
+### CAPÍTULO II. MERCADOS Y CENTROS DE ABASTO
 
 ###### ARTÍCULO 279.
 
@@ -2755,7 +2903,7 @@ La Secretaría de Salud, publicará en el periódico oficial, las normas en mate
 
 Las notificaciones que conforme a esta Ley deban publicarse, surtirán efectos a partir del día siguiente de su publicación.
 
-### CAPÍTULO IV. CEMENTERIOS, CREMATORIOS, FUNERARIAS, ANFITEATROS Y NECROTECAS
+### CAPÍTULO III. DE LAS CONSTRUCCIONES
 
 ###### ARTÍCULO 287.
 
@@ -2773,7 +2921,7 @@ La Secretaría de Salud del Gobierno del Estado, verificará que los mercados y 
 
 Los vendedores, locatarios y personas que su actividad esté vinculada con los mercados y centros de abasto estarán obligados a conservar las condiciones higiénicas para el debido mantenimiento de sus locales y el ejercicio de sus actividades se sujetarán a lo que disponga esta Ley, los reglamentos respectivos, otras disposiciones legales aplicables, y las normas Correspondientes.
 
-### CAPÍTULO V. SERVICIOS DE LIMPIEZA Y RESIDUOS PELIGROSOS
+### CAPÍTULO IV. CEMENTERIOS, CREMATORIOS, FUNERARIAS, ANFITEATROS Y NECROTECAS
 
 ###### ARTÍCULO 290.
 
@@ -2803,7 +2951,7 @@ Los propietarios o poseedores de los edificios y locales para uso comercial o de
 
 Cuando los edificios, construcciones o terrenos representen un peligro por su insalubridad o inseguridad, las autoridades sanitarias competentes podrán ordenar la ejecución de las obras que estime de urgencia con cargo a sus propietarios, encargado o poseedores o a los dueños de las negociaciones en ellos establecidos, cuando no las realicen dentro de los plazos concedidos, sin perjuicio de la sanción administrativa que proceda.
 
-### CAPÍTULO VI. RASTROS
+### CAPÍTULO V. SERVICIOS DE LIMPIEZA Y RESIDUOS PELIGROSOS
 
 ###### ARTÍCULO 297.
 
@@ -2855,7 +3003,7 @@ III. Cumplir con la normatividad sanitaria y ecológica en el manejo, procedimie
 
 IV. Las demás que se indiquen en las disposiciones reglamentarias y normas emitidas al respecto.
 
-### CAPÍTULO VII. AGUA POTABLE Y ALCANTARILLADO
+### CAPÍTULO VI. RASTROS
 
 ###### ARTÍCULO 304.
 
@@ -2879,7 +3027,7 @@ IV. Los restos de animales encontrados en la vía pública deberán de incinerar
 
 V. Queda prohibido tirar los residuos sólidos a cauces y aguas superficiales (mares, ríos, lagunas o humedales).
 
-### CAPÍTULO VIII. ESTABLOS, GRANJAS AVÍCOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
+### CAPÍTULO VII. AGUA POTABLE Y ALCANTARILLADO
 
 ###### ARTÍCULO 307.
 
@@ -2901,7 +3049,7 @@ El sacrificio de los animales sujetos al aprovechamiento humano, en cualquiera d
 
 El sacrificio de animales en los rastros se efectuará en los días y horas que fijen las autoridades municipales, tomando en consideración las condiciones de lugar y los elementos de que dispongan las autoridades sanitarias para realizar las verificaciones necesarias.
 
-### CAPÍTULO IX. SEXO-SERVICIO
+### CAPÍTULO VIII. ESTABLOS, GRANJAS AVÍCOLAS, PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
 
 ###### ARTÍCULO 312.
 
@@ -2923,7 +3071,7 @@ En las poblaciones donde no haya sistema de alcantarillado se estará a lo dispu
 
 Los proyectos para la implantación de sistema de alcantarillado deberán ser estudiados y aprobados por la autoridad municipal con la intervención que corresponda al Gobierno del Estado y la obra se llevará a cabo bajo la verificación de la misma.
 
-### CAPÍTULO X. RECLUSORIOS O CENTROS DE READAPTACIÓN SOCIAL
+### CAPÍTULO IX. SEXO-SERVICIO
 
 ###### ARTÍCULO 317.
 
@@ -2943,9 +3091,7 @@ V. Establecimientos similares: Todos aquellos dedicados a la cría, reproducció
 
 Los establecimientos a que se refiere este capítulo no podrán estar ubicados en el centro de los lugares poblados o en lugares contiguos a ellos, en un radio que delimitará la autoridad sanitaria municipal, conforme a las disposiciones legales en vigor, los establecimientos de esta naturaleza que actualmente se localicen en dichos lugares, deberán salir de las poblaciones en el plazo que señalen los Ayuntamientos.
 
-### CAPITULO XI. BAÑOS PÚBLICOS Y SPA
-
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 2011)</small>
+### CAPÍTULO X. RECLUSORIOS O CENTROS DE READAPTACIÓN SOCIAL
 
 ###### ARTÍCULO 319.
 
@@ -2993,7 +3139,9 @@ Queda prohibido el acceso de menores de edad al interior de los establecimientos
 
 La autoridad municipal, determinará los lugares en donde se permitirá el ejercicio del sexo-servicio, para lo cual podrá solicitar la opinión del Gobierno del Estado, de conformidad con las disposiciones legales reglamentarias aplicables. Será obligatorio contar con información visible a los usuarios sobre los condones y su uso.
 
-### CAPÍTULO XII. CENTROS DE REUNIÓN Y ESPECTÁCULOS
+### CAPITULO XI. BAÑOS PÚBLICOS Y SPA
+
+> <small>(REFORMADO, P.O. 21 DE MAYO DE 2011)</small>
 
 ###### ARTÍCULO 327.
 
@@ -3029,7 +3177,7 @@ En los casos a que se refiere el artículo anterior, la Secretaría de Salud deb
 
 > <small>(REFORMADO EN SU DENOMINACIÓN, P.O. 21 DE MAYO DE 2011)</small>
 
-### CAPÍTULO XIII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACIÓN DE SERVICIOS DE PELUQUERÍAS, SALONES DE BELLEZA, CENTROS DE TATUAJES Y OTROS SIMILARES
+### CAPÍTULO XII. CENTROS DE REUNIÓN Y ESPECTÁCULOS
 
 ###### ARTÍCULO 335.
 
@@ -3051,7 +3199,7 @@ La actividad de estos establecimientos estará sujeta a lo dispuesto por la Ley,
 
 ARTÍCULO 337 BIS.- Queda prohibido en los establecimientos comprendidos en este capítulo; ofertar y aplicar cualquier tipo de procedimiento de riesgo y de medicamentos o substancias administradas por vía intramuscular, intravenosa, oral, ótica, oftálmica, intratecal, intradérmica y subcutánea con fines terapéuticos, estéticos o de cualquier otra índole.
 
-### CAPÍTULO XIV. TINTORERÍAS, LAVANDERÍAS Y LAVADEROS PÚBLICOS
+### CAPÍTULO XIII. ESTABLECIMIENTOS DEDICADOS A LA PRESTACIÓN DE SERVICIOS DE PELUQUERÍAS, SALONES DE BELLEZA, CENTROS DE TATUAJES Y OTROS SIMILARES
 
 ###### ARTÍCULO 338.
 
@@ -3061,7 +3209,7 @@ Para efectos de esta Ley, se entiende por centro de reunión y espectáculos, lo
 
 La Secretaría de Salud del Gobierno del Estado, podrá en cualquier momento realizar verificación de los centros públicos de reunión con la finalidad de constatar las condiciones de saneamiento e higiene para garantizar la vida y la salud de las personas que a ellos concurran.
 
-### CAPÍTULO XV. ESTABLECIMIENTO PARA EL HOSPEDAJE
+### CAPÍTULO XIV. TINTORERÍAS, LAVANDERÍAS Y LAVADEROS PÚBLICOS
 
 ###### ARTÍCULO 340.
 
@@ -3091,7 +3239,7 @@ La realización de las perforaciones y tatuajes no deberá efectuarse a personas
 
 El funcionamiento y personal de los establecimientos señalados en el artículo anterior deberán apegarse a lo establecido en esta Ley, otras disposiciones legales aplicables, y las normas correspondientes.
 
-### CAPÍTULO XVI. CENTRO DE EDUCACIÓN INICIAL Y CUIDADO INFANTIL
+### CAPÍTULO XV. ESTABLECIMIENTO PARA EL HOSPEDAJE
 
 ###### ARTÍCULO 346.
 
@@ -3107,7 +3255,7 @@ III. Lavadero público.- El establecimiento al cual acuden los interesados para 
 
 Corresponde a la Secretaría de Salud del Gobierno del Estado, ejercer la verificación sanitaria de los establecimientos a que se refiere este capítulo, conforme a las disposiciones legales aplicables.
 
-### CAPÍTULO XVII. PREVENCIÓN Y CONTROL DE LA RABIA
+### CAPÍTULO XVI. CENTRO DE EDUCACIÓN INICIAL Y CUIDADO INFANTIL
 
 ###### ARTÍCULO 348.
 
@@ -3125,7 +3273,7 @@ La Secretaría de Salud del Gobierno del Estado, realizará la verificación san
 
 Para la construcción o acondicionamiento de un inmueble que se pretenda destinar como establecimiento para el hospedaje, así como para su funcionamiento, se deberá dar cumplimiento a lo dispuesto en la presente Ley en lo relativo a higiene, saneamiento y de ingeniería sanitaria.
 
-### CAPÍTULO I. AUTORIZACIONES
+### CAPÍTULO XVII. PREVENCIÓN Y CONTROL DE LA RABIA
 
 ###### ARTÍCULO 352.
 
@@ -3139,7 +3287,7 @@ La Secretaría de Salud, ejercerá el control y verificación sanitarios de los 
 
 Los establecimientos a que se refiere el artículo 350 de esta Ley, deberán reunir las condiciones sanitarias y de seguridad, que se establezcan en las disposiciones legales federales y locales aplicables y en las normas correspondientes, emitidas por la Secretaría de Salud federal.
 
-### CAPÍTULO II. REVOCACIÓN DE AUTORIZACIONES SANITARIAS
+### CAPÍTULO I. AUTORIZACIONES
 
 ###### ARTÍCULO 355.
 
@@ -3199,7 +3347,7 @@ El personal que labore en los establecimientos contemplados en este capítulo de
 
 ## TÍTULO DÉCIMO SÉPTIMO. AUTORIZACIONES Y CERTIFICADOS
 
-### CAPÍTULO III. CERTIFICADOS
+### CAPÍTULO II. REVOCACIÓN DE AUTORIZACIONES SANITARIAS
 
 ###### ARTÍCULO 360.
 
@@ -3315,7 +3463,7 @@ Las autorizaciones a que se refiere esta Ley, podrán ser revisadas por la autor
 
 Los derechos a que se refiere esta Ley, se regirán por lo que disponga la legislación local, y los convenios de coordinación que celebren en la materia, el Gobierno del Estado con el Ejecutivo Federal.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO III. CERTIFICADOS
 
 ###### ARTÍCULO 374.
 
@@ -3377,7 +3525,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La resolución administrativa o de revocación en su caso, surtirá efectos, de clausura definitiva, prohibición de uso, prohibición de venta o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPÍTULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 382.
 
@@ -3427,7 +3575,7 @@ V. La Secretaría de Salud, podrá reconocer centros de investigación y organiz
 
 ## TÍTULO DÉCIMO OCTAVO. VIGILANCIA SANITARIA
 
-### CAPÍTULO II. SANCIONES ADMINISTRATIVAS
+### CAPÍTULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### ARTÍCULO 388.
 
@@ -3537,7 +3685,7 @@ En el procedimiento administrativo sanitario, los actos de las autoridades se pr
 
 ## TÍTULO DÉCIMO NOVENO. MEDIDAS DE SEGURIDAD SANITARIA Y SANCIONES
 
-### CAPÍTULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPÍTULO II. SANCIONES ADMINISTRATIVAS
 
 ###### ARTÍCULO 400.
 
@@ -3635,7 +3783,7 @@ Los productos perecederos que no se reclamen por los interesados dentro de las v
 
 La desocupación o desalojo de casa, edificios, establecimientos y, en general de cualquier predio, se ordenará, previa la observancia de garantía de audiencia y de dictamen pericial, cuando a juicio de las autoridades sanitarias, se considere que es indispensable para evitar un daño grave a la salud o a la vida de las personas.
 
-### CAPÍTULO IV. RECURSO DE INCONFORMIDAD
+### CAPÍTULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### ARTÍCULO 413.
 
@@ -3735,7 +3883,7 @@ En los casos de clausura definitiva quedará (sic) sin efecto las autorizaciones
 
 Se sancionará con arresto hasta por treinta y seis horas, a la persona que interfiera o se oponga al ejercicio de las funciones de la autoridad sanitaria; y requerimientos y disposiciones de la autoridad sanitaria, provocando con ello un peligro a la salud de las personas. Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
-### CAPÍTULO V. PRESCRIPCIÓN
+### CAPÍTULO IV. RECURSO DE INCONFORMIDAD
 
 ###### ARTÍCULO 428.
 
@@ -3810,6 +3958,8 @@ En los casos de suspensión de trabajos o de servicios o de clausura temporal o 
 ###### ARTÍCULO 437.
 
 Cuando el contenido de un acta de verificación se desprenda la posible comisión de uno o varios delitos, la autoridad sanitaria competente formulará la denuncia correspondiente ante el Ministerio Público, sin perjuicio de la aplicación de la sanción administrativa que proceda.
+
+### CAPÍTULO V. PRESCRIPCIÓN
 
 ###### ARTÍCULO 438.
 
@@ -3998,3 +4148,19 @@ PRIMERO.- El correspondiente decreto entrará en vigor a los 30 días contados a
 P.O. 20 DE MAYO DE 2015.
 
 ÚNICO. El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 287 POR EL QUE “SE REFORMA: EL ARTÍCULO 5, LA FRACCIÓN XIX, DEL APARTADO A), Y SE ADICIONAN: LA FRACCIÓN XX DEL APARTADO A) DEL ARTÍCULO 5, RECORRIÉNDOSE EN SU ORDEN LA ANTERIOR FRACCIÓN XX PARA SER LA XXI; UN SEGUNDO PÁRRAFO AL ARTÍCULO 241; LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 243; LOS ARTÍCULOS 248 BIS Y 248 BIS 1; UN CAPÍTULO II BIS DENOMINADO DEL CENTRO ESTATAL DE TRASPLANTES, AL TÍTULO DÉCIMO CUARTO, INTEGRADO POR LOS ARTÍCULOS 250 BIS, 250 BIS 1, 250 BIS 2; 250 BIS 3, 250 BIS 4, TODOS DE LA LEY DE SALUD DEL ESTADO DE TABASCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el periódico Oficial del Estado de Tabasco.
+
+###### ARTÍCULO SEGUNDO.
+
+El Titular del Ejecutivo, por conducto de la Secretaría de Planeación y Finanzas deberá hacer las previsiones presupuestales necesarias para la operación del Centro Estatal de Trasplantes y establecer una partida presupuestal específica en el Presupuesto de Egresos.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquellas disposiciones en lo que se opongan al presente Decreto.
