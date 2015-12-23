@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-la-regularizacion-de-la-propiedad-inmobiliaria-de-2127
 country: "mx"
 rank: "ley"
 publication_date: "2001-03-12"
-last_updated: "2006-09-01"
+last_updated: "2015-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21276&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # LEY PARA LA REGULARIZACION DE LA PROPIEDAD INMOBILIARIA DE PREDIOS RUSTICOS EN EL ESTADO DE PUEBLA
 
-LEY PARA LA REGULARIZACION DE LA PROPIEDAD INMOBILIARIA DE PREDIOS RUSTICOS EN EL ESTADO DE PUEBLA
+LEY PARA LA REGULARIZACIÓN DE LA PROPIEDAD INMOBILIARIA DE PREDIOS RÚSTICOS EN EL ESTADO DE PUEBLA
 
-ULTIMA REFORMA PUBLICADA EN PERIODICO OFICIAL: 1 DE SEPTIEMBRE DE 2006.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY PARA LA REGULARIZACIÓN DE LA PROPIEDAD INMOBILIARIA DEL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE 23 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 12 de marzo de 2001.
 
@@ -129,7 +131,7 @@ EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Pal
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los nueve días del mes de marzo del año dos mil uno.- El Gobernador Constitucional del Estado.- LICENCIADO MELQUIADES MORALES FLORES.- Rúbrica.- La Subsecretaria Jurídica y Encargada del Despacho de la Secretaría de Gobernación.- LICENCIADA BENITA VILLA HUERTA.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 1 DE SEPTIEMBRE DE 2006.
 
@@ -138,3 +140,17 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Los juicios y demás actos jurídicos pendientes que se hayan iniciado, se encuentren en trámite o substanciación a la fecha de entrada en vigor del presente Decreto serán concluidos y se sujetan a las formas y procedimientos de los ordenamientos que les dieron origen.
 
 TERCERO.- Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 23 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE EXPIDE LA LEY PARA LA REGULARIZACIÓN DE LA PROPIEDAD INMOBILIARIA DEL ESTADO DE PUEBLA".]
+
+PRIMERO.- La presente Ley deberá publicarse en Periódico Oficial del Estado y entrará en vigor al día hábil siguiente a su publicación.
+
+SEGUNDO.- Se abroga la Ley para la Regularización de la Propiedad Inmobiliaria de los Predios Rústicos en el Estado de Puebla y para efectos de esta Ley serán inaplicables las demás disposiciones que se opongan al presente ordenamiento.
+
+TERCERO.- Los asuntos que a la entrada en vigor del presente Decreto se encuentren en trámite y substanciación, se resolverán hasta su conclusión, conforme a las normas vigentes al momento de su presentación.
+
+CUARTO.- Las instancias ejecutoras deberán publicar las reglas, lineamientos o manuales que al efecto se emitan para la aplicación de este ordenamiento.
+
+QUINTO.- Los trámites que se realicen al amparo de los programas a que se refiere el artículo primero de esta Ley, deberán concluirse conforme a los mismos.
