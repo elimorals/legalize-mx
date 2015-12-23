@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-r-ayuntamiento-de-juarez-nuevo-leon-705
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-09-16"
-last_updated: "2012-06-20"
+last_updated: "2015-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO DE JUÁREZ, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE JUNIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 16 de septiembre de 2009.
 
@@ -119,9 +119,11 @@ Concluyendo de esta manera con la toma de protesta a los integrantes del R. Ayun
 
 Antes de decretar la clausura de la sesión solemne a la que se hace referencia en los artículos anteriores, se hará la declaratoria que a partir de las 00:00 horas del día 31 de octubre queda oficial y legítimamente instalado el R. Ayuntamiento electo del Municipio de Juárez, Nuevo León.
 
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 15.
 
-El Ayuntamiento entrante celebrará dentro de las siguientes veinticuatro horas la primera sesión ordinaria en la que entre otros asuntos, se designará al Secretario del Ayuntamiento y al Secretario de Finanzas y Tesorería Municipal.
+El Ayuntamiento entrante celebrará dentro de las siguientes veinticuatro horas la primera sesión ordinaria en la que entre otros asuntos, se designará al Secretario del Ayuntamiento y al Secretario de Finanzas y Tesorería Municipal y Contralor Municipal.
 
 ###### ARTÍCULO 16.
 
@@ -165,7 +167,9 @@ VII. Las demás que contemplen los ordenamientos legales aplicables.
 
 El Presidente Municipal para fortalecer el desempeño de sus funciones, se apoyara en las dependencias y entidades que conforman el Gobierno Municipal, así como en las autoridades auxiliares.
 
-Los titulares de las dependencias y entidades del Gobierno Municipal serán nombrados y removidos por el Presidente Municipal, excepción hecha de los nombramientos de Secretario del Ayuntamiento, del Secretario de Finanzas y Tesorería Municipal, que requieren del voto de la mayoría simple del Ayuntamiento. El Presidente Municipal deberá informar, en la próxima sesión de Cabildo a los integrantes del Ayuntamiento, de los nombramientos y remociones de los Directores y Secretarios.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+Los titulares de las dependencias y entidades del Gobierno Municipal serán nombrados y removidos por el Presidente Municipal, excepción hecha de los nombramientos de Secretario del Ayuntamiento, del Secretario de Finanzas y Tesorería Municipal y Contralor Municipal, que requieren del voto de la mayoría simple del Ayuntamiento. El Presidente Municipal deberá informar, en la próxima sesión de Cabildo a los integrantes del Ayuntamiento, de los nombramientos y remociones de los Directores y Secretarios.
 
 ###### ARTÍCULO 20.
 
@@ -607,9 +611,25 @@ IX.- De Deportes
 
 X.- De Alcoholes
 
-XI.- De Salud
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2015)</small>
 
-XII.- De Reglamentos
+XI.- De Salud Pública y Asistencia Social.
+
+> <small>(REFORMADA, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+XII.- De Gobierno y Reglamentación.
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+XIII.- De Desarrollo Social.
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+XIV.- De Derechos Humanos.
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+XV.- De Seguimiento del Plan Municipal de Desarrollo.
 
 ### CAPITULO IV. DE LAS ATRIBUCIONES DE LAS COMISIONES
 
@@ -653,7 +673,9 @@ A).- Vigilar que el servicio público de limpia que se brinda a la ciudadanía s
 
 B).- Vigilar que los parques, panteones, plazas públicas y jardines del municipio se conserven en excelente estado y que la Administración Pública Municipal realice los servicios de limpieza y conservación que resulten necesarios.
 
-C).- Gestionar ante las autoridades municipales reportes de vecinos en materia de limpia, parques y jardines.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+C).- Gestionar ante las autoridades municipales reportes de vecinos en materia de limpia, parques y jardines alumbrado, bacheo, limpieza de plazas públicas,
 
 D).- Participar en conjunto con las autoridades municipales competentes para la realización de obras, proyectos y labores de mantenimiento en materia de limpia, parques y jardines.
 
@@ -689,7 +711,17 @@ M).- Estudiar y, en su caso, apoyar la celebración de convenios de coordinació
 
 N).- Gestionar ante las autoridades municipales reportes de vecinos en materia de seguridad pública, vialidad y tránsito.
 
-O).- Las demás que determine el R. Ayuntamiento
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+O).- Promover la creación de órganos o servicios especializados de emergencia y auxilio de acuerdo a las zonas y riesgos expuestos.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+P) Verificar que el Sistema Municipal de Protección Civil sea parte integrante de los Sistemas Estatal y Federal.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+Q) Las demás que determine el R. Ayuntamiento
 
 V.- DE EDUCACION Y CULTURA:
 
@@ -721,7 +753,17 @@ A).- Vigilar la correcta operación de los Cementerios y Panteones.
 
 B).- Mejorar continuamente la normatividad para la prestación de los servicios municipales en esta rama.
 
-C).- Las demás que le confiera el R. Ayuntamiento.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+C).- Estudiar las características que deban reunir los nuevos cementerios y proponer su apropiada ubicación.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+D).- Sugerir las medidas adecuadas para la conservación de los cementerios.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+E).- Las demás que le confiera el R. Ayuntamiento.
 
 VIII.- DE ECOLOGIA:
 
@@ -733,6 +775,10 @@ C).- La protección de las Áreas Naturales localizadas en el Municipio, así co
 
 D).- La reglamentación de las actividades y servicios, la coordinación entre las diversas dependencias tanto federales como estatales y la participación ciudadana en materia ecológica.
 
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+E) Las demás que le confiera el R. Ayuntamiento.
+
 IX.- DE DEPORTES:
 
 A).- Conocer y colaborar en la definición de mecanismos e instrumentos que resulten necesarios para promover, impulsar, planificar y estimular la práctica del deporte en el municipio especialmente de los niños y jóvenes.
@@ -741,7 +787,17 @@ B).- Apoyar la ejecución de obras y programas para el uso óptimo de las unidad
 
 C).- Estudiar los programas que tiendan a fomentar los deportes en el municipio.
 
-D).- Las demás que la (sic) confiera el R. Ayuntamiento.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+D).- Vigilar la conservación y buena administración de los centros deportivos y lugares de esparcimiento.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+E).- Promover el reconocimiento y apoyo a deportistas destacados del Municipio.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+F).- Las demás que la confiera el R. Ayuntamiento.
 
 X.- DE ALCOHOLES:
 
@@ -757,7 +813,9 @@ E).- Atender los asuntos referentes a mercados rodantes.
 
 F).- Las demás que le confieran los demás reglamentos municipales y el propio Ayuntamiento.
 
-XI.- DE SALUD:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+XI.- DE SALUD PÚBLICA Y ASISTENCIA SOCIAL.
 
 A).- Analizar, estudiar y dictaminar las iniciativas concernientes a la salud publica en el Municipio.
 
@@ -767,9 +825,25 @@ C).- Realizar estudios y análisis necesarios para determinar el grado de consum
 
 D).- Gestionar ante las autoridades municipales reportes de vecinos en materia de salud publica y combate a las adicciones.
 
-E).- Las demás que determine el Ayuntamiento.
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
 
-XII.- DE REGLAMENTOS:
+E).- Realizar estudios sobre programas de asistencia social y si no se tienen contemplados, proponerlos como sugerencia a las dependencias correspondientes.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+F).- Promover la colaboración con los organismos que proporcionen asistencia social en el Estado.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+G).- Promover las condiciones de seguridad e higiene para los empleados municipales.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+H).- Las demás que determine el Ayuntamiento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+XII.- GOBIERNO Y REGLAMENTACIÓN:
 
 A).- Vigilar el cumplimiento de los preceptos de la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado, las Leyes que de ellas emanen, el presente Reglamento y demás ordenamientos legales que normen la vida jurídica del Municipio.
 
@@ -779,7 +853,61 @@ C).- Elaborar proyectos de iniciativas de ley a fin de que el Ayuntamiento acuer
 
 D).- Analizar y dictaminar las iniciativas de nuevos reglamentos o de su reforma, en unión de la comisión correspondiente con el fin primordial de garantizar su redacción acorde a una adecuada técnica legislativa, que cumplan con el marco jurídico correspondiente y por consiguiente no contradigan disposiciones de carácter Federal, Estatal y otros Ordenamientos Jurídicos.
 
-E).- Las demás que le confiera el R. Ayuntamiento
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+E).- Revisar el cumplimiento de las sanciones que se impongan a los miembros del Ayuntamiento.
+
+> <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+F) Las demás que le confiera el R. Ayuntamiento.
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+XIII. DE DESARROLLO SOCIAL.
+
+A).- Promover la participación de (sic) sociedad civil organizada para que en conjunto con las diversas estancias Municipales lleven a cabo programas de Desarrollo Social con un carácter integral para las personas con discapacidad, las madres solteras y los adultos mayores.
+
+B).- Promocionar la adopción de medidas que aseguren la equidad en el acceso a los servicios de educación y salud de toda la población, poniendo fundamental atención a fin de que los grupos más vulnerables tengan acceso a dichos servicios.
+
+C).- Vigilar la creación de programas de atención a las familias disfuncionales a fin de que se les brinde apoyo.
+
+D).- Promover la ampliación de los servicios de estancias infantiles fundamentalmente en beneficio a las madres trabajadoras.
+
+E).- Fortalecer y ampliar los programas e instancias de atención a la mujer a fin de abatir toda forma de discriminación por razón de género así como la violencia contra las mujeres e intrafamiliar.
+
+F).- Promover la ampliación de los servicios de atención a la juventud, a fin de que se desarrollen programas de acceso al empleo, la educación, recreación y deporte y cultura.
+
+G).- Gestionar la creación de centros de desarrollo comunitario estratégicamente ubicados en el Municipio.
+
+H).- Los (sic) demás que le sean encomendadas por el Ayuntamiento.
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+XIV. DE DERECHOS HUMANOS:
+
+A).- Supervisar que los Derechos Humanos sean respetados en el Municipio por los Funcionarios municipales.
+
+B).- Iniciar procedimientos para conocer si hay violación de derechos humanos, a través de dos vías: de oficio cuando se percaten de conductas que pudieran violentar los derechos de los ciudadanos o por queja presencial y/o escrita presentada ante la propia Comisión.
+
+C).- Emitir recomendaciones a las autoridades Municipales para reparar los daños causados por violaciones a los derechos humanos de los habitantes del municipio.
+
+D).- Visitar los lugares donde pudiera existir un riesgo de de (sic) violación de derechos humanos, como lo son cárceles, hospitales, escuelas, centros de trabajo, entre otros al interior del municipio.
+
+E).- Emitir informes públicos respecto de violaciones de derechos humanos cometidas por funcionarios municipales y hacer propuestas legislativas para que sean respetados esos derechos.
+
+F).- Elaborar programas preventivos en materia de derechos humanos y difundirlos entre la población del municipio.
+
+G).- Las demás que le sean encomendadas por el R. Ayuntamiento.
+
+> <small>(ADICIONADA, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
+XV. DE SEGUIMIENTO DEL PLAN MUNICIPAL DE DESARROLLO:
+
+D) (SIC).- Vigilar y supervisar que se elabore, se apruebe y se publique el Plan Municipal de Desarrollo, dentro de los primeros tres meses, a partir de la instalación del Ayuntamiento.
+
+E).- Supervisar que se ejecute correctamente el Plan Municipal de Desarrollo, especialmente en los programas de obras y servicios públicos de su competencia, enfocados principalmente a aspectos relacionados con el desarrollo institucional para un buen gobierno, el desarrollo social incluyente, el desarrollo económico sostenible y el desarrollo ambiental sustentable.
+
+F).- Las demás que le confiera el R. Ayuntamiento.
 
 ###### ARTÍCULO 64.
 
@@ -1054,3 +1182,11 @@ Dado en el Salón de sesiones del R. Ayuntamiento de Juárez, Nuevo León a los 
 P.O. 20 DE JUNIO DE 2012.
 
 UNICO.- La presente reforma por adición a éste Reglamento, entrarán (sic) en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 23 DE DICIEMBRE DE 2015.
+
+> <small>[N. DE E. PUNTOS DEL ACUERDO POR EL QUE “SE APRUEBAN LAS REFORMAS POR MODIFICACIÓN, ADICIÓN Y/O DEROGACIÓN DEL REGLAMENTO INTERIOR DEL REPUBLICANO AYUNTAMIENTO DE JUÁREZ, NUEVO LEÓN”.]</small>
+
+SEGUNDO: Publíquese por una sola vez en el Periódico Oficial del Estado a fin de que surtan los efectos legales a que haya lugar.
+
+TERCERO: Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
