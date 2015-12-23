@@ -4,7 +4,7 @@ identifier: "TAB-ley-organica-del-poder-legislativo-del-estado-de-tabasco-7828"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-01-02"
-last_updated: "2013-03-02"
+last_updated: "2015-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7828&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE MARZO DE 2013.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE TABASCO, PUBLICADA EN EL PERIÓDICO OFICIAL EL 23 DE DICIEMBRE DE 2015; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR A PARTIR DEL PRIMERO DE ENERO DEL AÑO 2016.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Tabasco, el sábado 2 de enero de 1993.
 
@@ -1264,3 +1266,39 @@ P.O. 2 DE MARZO DE 2013.
 ###### ARTÍCULO ÚNICO
 
 El presente decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 23 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 236 POR EL QUE "SE EXPIDE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE TABASCO.”]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del primero de enero del año 2016.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley Orgánica del Poder Legislativo del Estado de Tabasco, publicada en el suplemento al Periódico Oficial del Estado número 5250, de fecha 2 de enero de 1993 y sus subsecuentes reformas.
+
+El Pleno del Congreso deberá expedir un nuevo Reglamento, en un plazo no mayor a noventa días naturales a partir de la publicación de esta Ley.
+
+Hasta en tanto se expida dicho ordenamiento se podrán aplicar, en lo que no se opongan a lo señalado en el presente Decreto, el Reglamento Interior y los acuerdos parlamentarios que para el mejor desarrollo de sus funciones apruebe el H. Congreso a propuesta de la Junta de Coordinación Política.
+
+###### ARTÍCULO TERCERO.
+
+De conformidad con el artículo Tercero Transitorio del Decreto 032, publicado en el Periódico Oficial del Estado de fecha 13 de septiembre de 2013, por el que se reformaron diversas disposiciones de la Constitución Política del Estado Libre y Soberano de Tabasco, la LXII Legislatura del Congreso del Estado, que fungirá del 1º de enero de 2016 al 4 de septiembre de 2018, tendrá sólo cinco períodos ordinarios de sesiones: en el primer año de ejercicio, el primer período correrá del 1º de enero al 15 de mayo de 2016 y el segundo periodo del 5 de septiembre al 15 de diciembre del mismo año; en el segundo año de ejercicio, el primer período correrá del 1º de febrero al 15 de mayo de 2017 y el segundo período del 5 de septiembre al 15 de diciembre del mismo año; el tercer año de ejercicio tendrá un solo período ordinario de sesiones, que correrá del 1º de febrero al 15 de mayo de 2018, concluyendo el ejercicio de la Legislatura el 4 de septiembre de 2018.
+
+###### ARTÍCULO CUARTO.
+
+Las menciones que en otras leyes, reglamentos u ordenamientos administrativos del Estado de Tabasco se realicen respecto de las comisiones ordinarias cuyo nombre ha sido modificado, se entenderán realizadas a las comisiones cuya denominación y facultades se modifican en el presente Ley.
+
+###### ARTÍCULO QUINTO.
+
+Hasta en tanto no se designe al Secretario General y demás servidores públicos de las direcciones que integran el Congreso, seguirán fungiendo quienes ocupan actualmente dichos cargos, a efecto de no interrumpir la adecuada operación administrativa y de apoyo a las funciones legislativas.
+
+###### ARTÍCULO SEXTO.
+
+Se instruye a la Secretaría de Planeación y Finanzas del Gobierno del Estado, a realizar las adecuaciones y ajustes presupuestales necesarios, para la adecuada operación de las áreas administrativas y de apoyo del Congreso que se crean o reestructuran en razón del presente Decreto.
+
+###### ARTÍCULO SÉPTIMO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Estado de Tabasco.
