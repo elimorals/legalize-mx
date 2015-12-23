@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2015-12-01"
+last_updated: "2015-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 1 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE DICIEMBRE DE 2015.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -100,7 +100,9 @@ II. Jefatura de la Oficina de la Jefatura de Gobierno;
 
 III. Las demás que le sean adscritas conforme a las disposiciones jurídicas y administrativas aplicables.
 
-Asimismo, se le adscriben los órganos desconcentrados denominados Junta de Asistencia Privada, Centro de Atención a Emergencias y Protección Ciudadana de la Ciudad de México y Agencia de Gestión Urbana de la Ciudad de México.
+> <small>(REFORMADO, G.O. 23 DE DICIEMBRE DE 2015)</small>
+
+Asimismo, se le adscriben los órganos desconcentrados denominados Junta de Asistencia Privada, Centro de Comando, Control, Cómputo, Comunicaciones y Contacto Ciudadano de la Ciudad de México (C5) y Agencia de Gestión Urbana de la Ciudad de México.
 
 ###### Artículo 7º.
 
@@ -290,7 +292,7 @@ VI. A la Secretaría de Desarrollo Social:
 
 3.- Dirección General de Igualdad y Diversidad Social;
 
-4.- Dirección General del Servicio Público de Localización Telefónica (LOCATEL);
+4.- (DEROGADO, G.O. 23 DE DICIEMBRE DE 2015)
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 3 DE SEPTIEMBRE DE 2009)</small>
 
@@ -4498,23 +4500,9 @@ VII. Diseñar, promover y ejecutar programas y acciones en materia de diversidad
 
 (DEROGADO, G.O. 21 DE MAYO DE 2002)
 
-> <small>(ADICIONADO, G.O. 19 DE ENERO DE 2007)</small>
-
 ###### Artículo 64 Bis.
 
-Corresponde a la Dirección General del Servicio Público de Localización Telefónica:
-
-I. Proporcionar por vía telefónica información sobre personas extraviadas, accidentadas o detenidas en las diversas instituciones hospitalarias, asistenciales, administrativas y judiciales en el Distrito Federal y zona metropolitana, así como otros servicios de interés social;
-
-II. Proporcionar el servicio de información sobre vehículos accidentados, averiados o abandonados en las carreteras que convergen al Distrito Federal, así como sobre automóviles que por diferentes motivos ingresen a los centros de detención de vehículos del Distrito Federal;
-
-III. Establecer los procedimientos de coordinación con las instituciones y gobiernos de los estados participantes, a efecto de garantizar la continuidad de los programas y servicios especializados, así como proporcionar asesoría y capacitación en la instrumentación de procesos similares;
-
-IV. Proporcionar información sobre los trámites y servicios que brinda la Administración Pública;
-
-V. Prestar asesoría telefónica a personas con problemas de toxicología, urgencias médicas o crisis emocionales; y
-
-VI. Participar en coordinación con las Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública, en la atención a la población del área metropolitana y zonas conurbadas en casos de emergencia o desastre.
+(DEROGADO, G.O. 23 DE DICIEMBRE DE 2015)
 
 ###### Artículo 64 Ter.
 
@@ -11406,7 +11394,7 @@ IX. Revisar y dar el visto bueno a los convenios, contratos y acuerdos que la Se
 
 X. Realizar las acciones jurisdiccionales y/o administrativas para la rescisión o terminación anticipada de contratos y convenios en materia de proyectos estratégicos, cuando así proceda y haya sido autorizado por el Secretario;
 
-XI Llevar el registro de los acuerdos, convenios y demás instrumentos jurídicos en los que la Secretaría sea parte y, en su caso resguardar los documentos originales que deriven de dichos actos;
+XI. Llevar el registro de los acuerdos, convenios y demás instrumentos jurídicos en los que la Secretaría sea parte y, en su caso resguardar los documentos originales que deriven de dichos actos;
 
 XII. Desahogar los recursos administrativos que sean presentados en contra de resoluciones emitidas por las Unidades Administrativas adscritas a la Secretaría;
 
@@ -16412,97 +16400,15 @@ V. Organizar servicios de asesoría jurídica, fiscal y administrativa para las 
 
 VI. Establecer un Registro de las Instituciones de Asistencia Privada y con base en éste, publicar anualmente un directorio de las mismas.
 
-> <small>(ADICIONADO, G.O. 8 DE ABRIL DE 2011)</small>
-
 ###### Artículo 197 Bis.
 
-El Centro de Atención a Emergencias y Protección Ciudadana de la Ciudad de México tiene por objeto, la captación de información integral para la toma de decisiones en materias de vialidad, seguridad pública, medio ambiente, protección civil, servicios a la comunidad y urgencias médicas, entre otras, mediante un centro integral de video monitoreo, bases de información y aplicaciones informáticas de inteligencia o cualquier servicio, sistema o equipo de telecomunicación y de geolocalización, así como la administración y operación del Servicio de Atención de Llamadas de Emergencia 066 y el Servicio de Denuncia Anónima 089, y cuenta con las atribuciones siguientes:
-
-I. Apoyar al Jefe de Gobierno del Distrito Federal y a las dependencias involucradas en la atención a emergencias diversas, en los ámbitos establecidos en el párrafo primero;
-
-II. Coadyuvar con el personal de diferentes instituciones públicas y privadas, en caso de emergencias, urgencias médicas, incendios, desastres, auxilio a la población, seguridad pública, vialidad, medio ambiente, protección civil, servicios a la comunidad, entre otras;
-
-III. Administrar un sistema de monitoreo visual en la vía pública, a través del centro integral de monitoreo;
-
-IV. Recibir información del monitoreo que realicen instituciones de seguridad privada o propietarios o usuarios de inmuebles destinados a plazas o centros comerciales, unidades deportivas, centros de esparcimiento con acceso de público en general, cuando así lo requieran y se convenga, y cualquier otro que resulte útil para el cumplimiento del objetivo del Órgano;
-
-V. Integrar un Banco de Información con los datos que genere el Centro y la que obtenga mediante intercomunicación con los bancos policiales, de protección civil, bomberos, servicios de emergencias, Locatel, entre otros, que resulte necesaria;
-
-VI. Realizar estudios y análisis, así como establecer aspectos técnicos, tecnológicos, operativos y logísticos para el desarrollo del Centro Integral de Monitoreo;
-
-VII. Proporcionar información a la Secretaría de Seguridad Pública para la toma de decisiones de inteligencia para la prevención en las materias de su competencia y en general para el cumplimiento de la Ley que Regula el Uso de Tecnología para la Seguridad Pública del Distrito Federal y demás disposiciones jurídicas aplicables;
-
-VIII. Establecer mecanismos de coordinación y distribución entre las dependencias de la Administración Pública Local, de datos, estadísticas, diagnósticos, resultados y demás información que genere el Centro, a través del sistema integral de monitoreo visual en la vía pública, a efecto de dotarlas de elementos para la oportuna toma de decisiones y una correcta planeación de programas y ejecución de acciones;
-
-IX. Auxiliar al personal de la Secretaría de Seguridad Pública, que en ejercicio de sus funciones realiza actividades en el Centro de Atención, relacionadas con procesos de obtención, clasificación, análisis, custodia y remisión de información necesaria para la prevención, investigación y persecución de los delitos; prevención y sanción de infracciones administrativas, procedimientos de reacción inmediata y aquellas señaladas en las leyes respectivas; así como al personal de la Procuraduría General de Justicia del Distrito Federal, Secretaría de Protección Civil, H. Cuerpo de Bomberos y todas aquellas que converjan en la atención de emergencias, en cumplimiento de sus atribuciones;
-
-X. Administrar y operar los Servicios de Atención de Llamadas de Emergencia 066 y Denuncia Anónima 089, mediante la recepción, registro y canalización de las solicitudes de auxilio, apoyo o denuncia, que realiza la ciudadanía vía telefónica;
-
-XI. Contratar, implementar, desarrollar, administrar y operar cualquier servicio, sistema o equipo de telecomunicación o geolocalización, que sea necesario para el cumplimiento de su objeto;
-
-XII. Las demás que le correspondan de conformidad con las disposiciones jurídicas y administrativas aplicables.
-
-> <small>(ADICIONADO, G.O. 8 DE ABRIL DE 2011)</small>
+(DEROGADO, G.O. 23 DE DICIEMBRE DE 2015)
 
 ###### Artículo 197 Ter.
 
-El Centro de Atención a Emergencias y Protección Ciudadana de la Ciudad de México, estará a cargo de un Director General, quien para el despacho de los asuntos de su competencia contará con las siguientes unidades administrativas:
+(DEROGADO, G.O. 23 DE DICIEMBRE DE 2015)
 
-I. Coordinación Ejecutiva de Administración e Implementación;
-
-II. Coordinación Ejecutiva de Análisis Estratégico;
-
-III. Coordinación Ejecutiva de Operaciones;
-
-IV. Coordinación Ejecutiva de Tecnologías e Ingeniería;
-
-V. Las demás unidades administrativas que sean necesarias para el desempeño de sus atribuciones, y les sean autorizadas en atención a la suficiencia presupuestal, quienes tendrán las funciones que señalen los manuales administrativos correspondientes.
-
-> <small>(ADICIONADO, G.O. 8 DE ABRIL DE 2011)</small>
-
-Artículo 197 Cuater.- Son facultades del Director General del Centro de Atención a Emergencias y Protección Ciudadana de la Ciudad de México, las siguientes:
-
-I. Administrar y operar el Centro, así como las instalaciones regionales que le sean indispensables para el cumplimiento de su objetivo;
-
-II. Proporcionar información o datos técnicos, tecnológicos, operativos y logísticos que le sean requeridos por otras dependencias de la Administración Pública del Distrito Federal;
-
-III. Llevar a cabo la formulación de programas para el logro de los objetivos del Centro, solicitando la opinión del Consejo Consultivo;
-
-IV. Ejecutar y evaluar los programas para el logro del (sic) los objetivos del Centro;
-
-V. Formular los dictámenes e informes determinados por las autoridades competentes;
-
-VI. Coordinar sus actividades con las demás unidades de las Dependencias competentes, ya sean federales o locales, cuando proceda;
-
-VII. Proponer la coordinación con órganos gubernamentales y privados, en asuntos de su competencia;
-
-VIII. Proponer acciones orientadas a la prevención de emergencias, desastres naturales, faltas administrativas y delitos;
-
-IX. Acordar con los titulares de las Unidades que se les adscriban, los asuntos que sean de sus respectivas competencias;
-
-X. Expedir certificaciones de los documentos existentes en los archivos a su cargo;
-
-XI. Vigilar el cumplimiento de los reglamentos, leyes y demás ordenamientos jurídico-administrativos que competan a las actividades del CAEPCCM;
-
-XII. Coordinar la elaboración de bitácoras, memorias e informes diversos, que den a conocer objetivamente avances, tendencias y modificaciones del Centro;
-
-XIII. Suscribir documentos relativos al ejercicio de sus atribuciones, así como dictámenes, justificaciones, celebrar contratos, convenios, declarar la rescisión y terminación anticipada de estos, y demás actos jurídicos de carácter administrativo o de cualquier otra índole que se celebren de conformidad con las leyes locales y federales en materia de adquisiciones, arrendamientos, servicios y obras públicas y los demás que le sean aplicables relacionados con el objeto del Centro; y aquellos designados por delegación;
-
-XIV. Establecer y coordinar los mecanismos necesarios para garantizar la operación del Centro en operación cotidiana, en crisis y en desastres mayores;
-
-XV. Coordinar, supervisar y evaluar la operación del Sistema Multidisciplinario con Sensores, Comando, Control, Comunicaciones y Computación, Información, Inteligencia e Integración SMSC4i4;
-
-XVI. Dirigir la administración y operación de los Servicios de Atención de Llamadas de Emergencia 066 y Denuncia Anónima 089;
-
-XVII. Establecer y aplicar mecanismos de coordinación con dependencias de seguridad pública, procuración de justicia y servicios de emergencia, en materia de Atención de Llamadas de Emergencia 066 y Denuncia Anónima 089, para la homologación de los servicios; y
-
-XVIII. Integrar, coordinar y realizar estudios de aspectos técnicos, tecnológicos, operativos y logísticos que resulten necesarios útiles o necesarios para el mejor desarrollo, consolidación, crecimiento y expansión del Sistema Multidisciplinario con Sensores, Comando, Control, Comunicaciones y Computación, Información, Inteligencia e Integración SMSC4i4;
-
-XIX. Nombrar y remover libremente al personal administrativo de sus unidades administrativas y de apoyo técnico, otorgar su visto bueno para la incorporación de personal acreditado por otras dependencias ante el Centro, y solicitar su remoción para la reincorporación a sus unidades administrativas originales de adscripción;
-
-XX. Representar legalmente al CAEPCCM ante cualquier autoridad, ya sea judicial o administrativa;
-
-XXI. Las demás que le sean asignadas por el Jefe de Gobierno y/o las que le correspondan de conformidad con las disposiciones jurídicas y administrativas aplicables.
+Artículo 197 Cuater.- (DEROGADO, G.O. 23 DE DICIEMBRE DE 2015)
 
 (REUBICADA, G.O. 31 DE ENERO DE 2001)
 
@@ -18097,3 +18003,19 @@ QUINTO.- La Secretaría del Medio Ambiente deberá adecuar su estructura orgáni
 SEXTO.- Las referencias hechas en ordenamientos e instrumentos administrativos a la Dirección Ejecutiva de Vigilancia Ambiental, se entenderán hechas a la Dirección General de Vigilancia Ambiental.
 
 SÉPTIMO.- Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+G.O. 23 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMA Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- La Secretaría de Desarrollo Social, la Secretaría de Finanzas y la Oficialía Mayor, en el ámbito de sus respectivas competencias, realizarán las adecuaciones jurídico-administrativas y presupuestales necesarias para la transferencia y asignación de los recursos humanos, materiales y financieros con los que actualmente cuenta la Dirección General del Servicio Público de Localización Telefónica y los que sean requeridos por el Centro de Comando, Control, Comunicación, Cómputo y Contacto Ciudadano de la Ciudad de México.
+
+CUARTO.- El "C5" realizará las adecuaciones jurídico-administrativas y presupuestales necesarias para que su Dirección General de Administración se adscriba a la Oficialía Mayor.
+
+QUINTO.- La Secretaría de Desarrollo Social continuará con el trámite y resolución de los asuntos de la competencia de la Dirección General del Servicio Público de Localización Telefónica hasta en tanto se lleva a cabo su formal incorporación al Centro de Comando, Control, Comunicación, Cómputo y Contacto Ciudadano.
+
+SEXTO.- Las referencias que se hagan en otros ordenamientos al Centro de Atención a Emergencias y Protección Ciudadana de la Ciudad de México, se entenderán hechas al Centro de Comando, Control, Comunicación, Cómputo y Contacto Ciudadano, a partir de la entrada en vigor del presente Decreto.
