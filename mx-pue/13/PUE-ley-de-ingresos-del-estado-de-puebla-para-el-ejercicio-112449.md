@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-ingresos-del-estado-de-puebla-para-el-ejercicio-112449"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2015-12-21"
-last_updated: "2015-12-21"
+last_updated: "2015-12-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=112449&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "PUE"
 ---
 # LEY DE INGRESOS DEL ESTADO DE PUEBLA, PARA EL EJERCICIO FISCAL 2016
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE DICIEMBRE DE 2015 EN EL P.O. DEL ESTADO DE PUEBLA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE INGRESOS DEL ESTADO DE PUEBLA, PARA EL EJERCICIO FISCAL 2016
 
 > <small>[N. DE E. DE CONFORMIDAD A LO DISPUESTO POR EL ARTÍCULO PRIMERO TRANSITORIO EL PRESENTE ORDENAMIENTO REGIRÁ DEL PRIMERO DE ENERO AL TREINTA Y UNO DE DICIEMBRE DEL AÑO DOS MIL DIECISÉIS, O HASTA EN TANTO ENTRE EN VIGOR LA QUE REGIRÁ PARA EL SIGUIENTE EJERCICIO FISCAL.]</small>
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Puebla, el lunes 21 de diciembre de 2015.
 
@@ -5071,11 +5069,25 @@ II. Presentar de forma periódica una declaración de tipo complementaria en los
 
 III. Los contribuyentes que hayan declarado una cantidad mayor al monto del impuesto causado, solicitarán ante la Secretaría de Finanzas y Administración la devolución o compensación del remanente, conforme al procedimiento establecido en las leyes fiscales del Estado.
 
+> <small>[N. DE E. EN RELACIÓN CON LA VIGENCIA DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 23 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 96.
 
-Las personas que soliciten los servicios prestados por el Instituto Registral y Catastral del Estado de Puebla, para la adquisición y/o regularización de la propiedad de bienes inmuebles, gozarán durante el Ejercicio Fiscal de dos mil dieciséis, de un estímulo fiscal del 100% del pago de los Derechos señalados en los artículos 24 Apartado A, Sección I, fracciones I, III inciso f), IV, XIII, XVI, Sección VIII, fracciones XXVI incisos a), b) y d), XXVII, Apartado C, fracciones V incisos a), b) y c) y, VI; 25 fracciones V, VII incisos a) y b), VIII, IX y XI; y, 87 fracción II, inciso a), siempre que el valor comercial del inmueble no exceda de $550,060.00.
+Las personas que soliciten los servicios prestados por el Instituto Registral y Catastral del Estado de Puebla derivados de los programas establecidos en términos de la Ley para la Regularización de la Propiedad Inmobiliaria del Estado de Puebla, gozarán durante el Ejercicio Fiscal de dos mil dieciséis de un estímulo fiscal del 100% del pago de los Derechos señalados en los artículos 24, 25 y 87 de la presente Ley, siempre que:
 
-Para gozar del estímulo fiscal señalado en el presente artículo, deberán atenderse las reglas de carácter general que para tal efecto se emitan.
+I.- Los actos por los que se soliciten los servicios mencionados se refieran a inmuebles destinados a vivienda o construcción de casa habitación;
+
+II.- El valor comercial del inmueble no exceda de $550,060.00;
+
+III.- El propietario, poseedor o su cónyuge no tenga otro u otros inmuebles registrados a su nombre en el Estado de Puebla;
+
+IV.- La persona física o moral podrá ser beneficiaria del estímulo fiscal una sola vez; y
+
+V.- El inmueble no podrá ser sujeto del estímulo fiscal más de una vez.
+
+Para gozar del estímulo fiscal señalado en el presente artículo, se estará a lo dispuesto en las reglas de carácter general que para tal efecto se emitan.
 
 ###### ARTÍCULO 97.
 
@@ -5133,4 +5145,18 @@ EL GOBERNADOR hará publicar y cumplir la presente disposición. Dada en el Pala
 
 Diputado Presidente. SERGIO SALOMÓN CÉSPEDES PEREGRINA. Rúbrica. Diputado Vicepresidente. FRANCISCO RODRÍGUEZ ÁLVAREZ. Rúbrica. Diputado Secretario. CUPERTINO ALEJO DOMÍNGUEZ. Rúbrica. Diputada Secretaría. MA. EVELIA RODRÍGUEZ GARCÍA. Rúbrica.
 
-Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintiséis días del mes de noviembre de dos mil quince. El Gobernador Constitucional del Estado. C. RAFAEL MORENO VALLE ROSAS. Rúbrica. El Encargado de Despacho de la Secretaría General de Gobierno. C. JORGE BENITO CRUZ BERMÚDEZ. Rúbrica. El Secretario de Finanzas y Administración. C. GUILLERMO EDMUNDO BERNAL MIRANDA. Rúbrica.
+> <small>(F. DE E. 23 DE DICIEMBRE DE 2015)</small>
+
+Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Cuatro Veces Heroica Puebla de Zaragoza, a los veintiséis días del mes de noviembre de dos mil quince. El Gobernador Constitucional del Estado. C. RAFAEL MORENO VALLE ROSAS. Rúbrica. El Encargado de Despacho de la Secretaría General de Gobierno. C. JORGE BENITO CRUZ BERMÚDEZ. Rúbrica. El Secretario de Finanzas y Administración. C. ROBERTO RIVERO TREWARTHA. Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO]</small>
+
+P.O. 23 DE DICIEMBRE DE 2015.
+
+[TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 96 DE LA LEY DE INGRESOS DEL ESTADO DE PUEBLA, PARA EL EJERCICIO FISCAL 2016”.]
+
+PRIMERO.- El presente Decreto deberá publicarse en el Periódico Oficial del Estado y regirá del primero de enero al treinta y uno de diciembre de dos mil dieciséis.
+
+SEGUNDO.- El estímulo fiscal al que se refiere el artículo 96 de la Ley de Ingresos del Estado de Puebla para el ejercicio fiscal dos mil dieciséis, será aplicable para todos los asuntos cuyo trámite se inicie durante el mencionado ejercicio fiscal hasta su conclusión.
+
+TERCERO.- Por ser el presente asunto de urgente y obvia resolución en términos de lo establecido por los artículos 69 de la Constitución Política del Estado Libre y Soberano de Puebla; 151 de la Ley Orgánica del Poder Legislativo del Estado Libre y Soberano de Puebla; y 121 del Reglamento Interior del Honorable Congreso del Estado Libre y Soberano de Puebla, se solicita la dispensa del trámite correspondiente.
