@@ -4,7 +4,7 @@ identifier: "FED-ley-para-el-aprovechamiento-de-energias-renovables-y-el-64076"
 country: "mx"
 rank: "ley"
 publication_date: "2008-11-28"
-last_updated: "2013-06-07"
+last_updated: "2015-12-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64076&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2008-11-27"
 
 LEY PARA EL APROVECHAMIENTO DE ENERGÍAS RENOVABLES Y EL FINANCIAMIENTO DE LA TRANSICIÓN ENERGÉTICA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 7 DE JUNIO DE 2013.
+> <small>N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DE LA LEY DE TRANSICIÓN ENERGÉTICA, PUBLICADA EN EL D.O.F. DE 24 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE DICIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 28 de noviembre de 2008.
 
@@ -383,7 +385,7 @@ México, D.F., a 28 de octubre de 2008.- Sen. Gustavo Madero Muñoz, Presidente.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su debida publicación y observancia, expido el presente Decreto en la Residencia del Poder Ejecutivo Federal, en la Ciudad de México, Distrito Federal, a veintisiete de noviembre de dos mil ocho.- Felipe de Jesús Calderón Hinojosa.- Rúbrica.- El Secretario de Gobernación, Fernando Francisco Gómez Mont Urueta.- Rúbrica.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.</small>
 
 D.O.F. 1 DE JUNIO DE 2011.
 
@@ -420,3 +422,85 @@ D.O.F. 7 DE JUNIO DE 2013.
 DECRETO POR EL QUE SE ADICIONA UNA FRACCIÓN VIII AL ARTÍCULO 24 DE LA LEY PARA EL APROVECHAMIENTO DE ENERGÍAS RENOVABLES Y EL FINANCIAMIENTO DE LA TRANSICIÓN ENERGÉTICA.
 
 Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE DICIEMBRE DE 2015.
+
+Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Se abrogan la Ley para el Aprovechamiento de Energías Renovables y el Financiamiento de la Transición Energética, la Ley para el Aprovechamiento Sustentable de la Energía y las demás disposiciones que se opongan al presente ordenamiento. Las referencias hechas a la Ley para el Aprovechamiento de Energías Renovables y el Financiamiento de la Transición Energética y a la Ley para el Aprovechamiento Sustentable de la Energía en otros ordenamientos jurídicos deberán entenderse como realizadas a la Ley materia de este Decreto.
+
+Tercero.- La Secretaría de Energía fijará como meta una participación mínima de energías limpias en la generación de energía eléctrica del 25 por ciento para el año 2018, del 30 por ciento para 2021 y del 35 por ciento para 2024.
+
+Cuarto.- La CONUEE deberá establecer una Hoja de Ruta en materia de Eficiencia Energética en un plazo de 260 días hábiles contados a partir de la entrada en vigor de esta Ley.
+
+Quinto.- Las disposiciones que definen la naturaleza, constitución, operación y presupuesto del Instituto, serán definidas en su Reglamento Interior, mismo que deberá ser expedido en un plazo no mayor a 180 días a partir de la entrada en vigor de esta Ley.
+
+Sexto.- Las disposiciones reglamentarias a que se refiere esta Ley deberán ser publicadas en el Diario Oficial de la Federación en un plazo no mayor a 260 días hábiles contados a partir de la entrada en vigor de esta Ley.
+
+Séptimo.- Los recursos del Fondo para la Transición Energética y el Aprovechamiento Sustentable de la Energía establecido en la Ley para el Aprovechamiento de Energías Renovables y el Financiamiento de la Transición Energética se aportarán a los fondos que se señalen en el Presupuesto de Egresos de la Federación del año en que la presente Ley entre en vigor.
+
+Octavo.- Dentro de los seis meses siguientes a la entrada en vigor del presente Decreto, el Titular del Ejecutivo Federal emitirá el Decreto por el que el Instituto de Investigaciones Eléctricas se convierte en el Instituto. En dicho Decreto se establecerán las facultades del citado organismo, observando lo establecido en este Decreto.
+
+Durante el periodo previo el Instituto de Investigaciones Eléctricas continuará prestando sus servicios con la finalidad de mantener la continuidad de sus actividades y sus recursos humanos, materiales y financieros, centros y áreas de control, sistemas y subsistemas de dichos centros, los cuales no podrán destinarse a otros fines.
+
+Noveno.- Lo previsto en las presentes disposiciones transitorias no afectará los derechos de los trabajadores activos, jubilados y pensionados del Instituto de Investigaciones Eléctricas, los cuales serán respetados conforme a lo dispuesto en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y en la Ley Federal del Trabajo.
+
+Décimo.- En tanto se expiden las disposiciones reglamentarias y administrativas derivadas del presente Decreto, se continuarán aplicando las expedidas con anterioridad a su entrada en vigor en lo que no se opongan al mismo.
+
+Décimo Primero.- La Cámara de Diputados realizará las previsiones presupuestales necesarias para dar cumplimiento a lo dispuesto en esta Ley.
+
+Los recursos iniciales de los fondos para la Transición Energética y el Aprovechamiento Sustentable de la Energía a que se refiere la Ley materia de este Decreto tendrán como base los recursos asignados en el Presupuesto de Egresos de la Federación para el Ejercicio Fiscal 2016.
+
+Este monto deberá actualizarse anualmente por la variación estimada del Índice Nacional de Precios al Consumidor.
+
+El monto que se incluya en el Presupuesto de Egresos de la Federación para el Ejercicio Fiscal correspondiente, podrá modificarse en función de la cartera de proyectos susceptibles de recibir apoyos de los fondos para la Transición Energética y el Aprovechamiento Sustentable de la Energía, que cumpla con el propósito de potenciar el financiamiento disponible para la eficiencia energética, las tecnologías limpias, la generación limpia distribuida y el aprovechamiento de las energías renovables.
+
+Décimo Segundo.- Para la elaboración del primer Programa Especial de la Transición Energética, la Secretaría retomará en lo conducente las metas, estrategias y líneas de acción contenidos en el Programa Especial de Aprovechamiento de las Energías Renovables 2014-2018.
+
+Décimo Tercero.- Para el ejercicio de sus atribuciones en materia de simplificación administrativa y simplificación de procedimientos, la Secretaría podrá seguir los trabajos realizados en el marco de la Ventanilla Única Nacional o el Sistema Nacional de Trámites.
+
+Décimo Cuarto.- Los trabajos del Consejo Consultivo de Energías Renovables establecido en la Ley para el Aprovechamiento de Energías Renovables y el Financiamiento de la Transición Energética y del Consejo Consultivo para el Aprovechamiento Sustentable de la Energía establecido en la Ley para el Aprovechamiento Sustentable de la Energía, serán transferidos al Consejo Consultivo para la Transición Energética establecido en el presente ordenamiento.
+
+Décimo Quinto.- La primera Estrategia deberá actualizarse en un período no mayor a 365 días naturales, a partir de la fecha de publicación de la presente Ley.
+
+Décimo Sexto.- Para efectos de la definición de Energías Limpias, se observará lo siguiente:
+
+I. En tanto no se expidan disposiciones que determinen umbrales máximos de emisiones o residuos para dicho efecto, solo se considerarán Energías Limpias aquellas fuentes de energía y procesos de generación que, en los términos de la fracción XXII del artículo 3 de la Ley de la Industria Eléctrica, no requieren la definición de criterios, normas o eficiencias mínimas, o aquellas cuyos criterios de eficiencia ya hayan sido determinados previamente mediante disposiciones regulatorias;
+
+II. La Secretaría de Medio Ambiente y Recursos Naturales y la Comisión Reguladora de Energía, en el ámbito de sus competencias, deberán expedir las disposiciones a que hace referencia la fracción anterior a más tardar dentro de los 365 días contados a partir de la promulgación de esta Ley;
+
+III. La eficiencia mínima para que el aprovechamiento de hidrógeno se considere una Energía Limpia no será menor a 70% del poder calorífico inferior de los combustibles utilizados en la producción de dicho hidrógeno;
+
+IV. En el caso de cogeneración solamente se considerará Energía Limpia a la generación neta de electricidad por encima de la mínima requerida para que la central califique como cogeneración eficiente en términos de la regulación que al efecto expida la CRE. La generación eléctrica mediante ciclos combinados no podrá considerarse como cogeneración eficiente;
+
+V. La eficiencia mínima para que los procesos de captura y almacenamiento geológico o biosecuestro de bióxido de carbono se consideren Energías Limpias se basará en una tasa de emisiones no mayor a 100 kg/MWh, y
+
+VI. La eficiencia mínima para que cualquier otra tecnología se considere de bajas emisiones de carbono conforme a estándares internacionales, o bien, para que la Secretaría de Energía y la Secretaría de Medio Ambiente y Recursos Naturales determinen que sean Energías Limpias, se basará en una tasa de emisiones no mayor a 100 kg/MWh.
+
+Décimo Séptimo.- La Secretaría, con el apoyo del CENACE, de la CRE, de los Transportistas, Distribuidores y Suministradores, deberá elaborar y publicar a más tardar en agosto de 2015 un informe que incluya: los beneficios, costos y tecnologías disponibles para la implementación de Redes Eléctricas Inteligentes, el estado actual de las Redes Eléctricas Inteligentes en México, a nivel nacional y regional, y sus perspectivas de desarrollo, e identificar posibles obstáculos para su implementación, así como los impactos actuales y potenciales del despliegue de dichas redes.
+
+Décimo Octavo.- La Secretaría, con el apoyo de un centro de investigación nacional, y en un plazo menor a 365 días a partir de la promulgación de esta ley, deberá realizar un primer análisis sobre: a) las posibles economías para el Estado, b) ahorros para los usuarios, y c) la reducción de la huella de carbono derivados de la instalación de tecnologías de generación limpia distribuida para usuarios domésticos y de diversas medidas de eficiencia energética, en términos del artículo 10, fracción V, de la Ley de Transición Energética.
+
+Décimo Noveno.- El primer Programa de Redes Eléctricas Inteligentes a que hace referencia la Ley de Transición Energética deberá realizar un análisis que permita identificar tecnologías necesarias para la integración de una mayor generación limpia distribuida en las Redes Generales de Distribución, en condiciones de viabilidad y eficiencia económica.
+
+El primer Programa de Redes Eléctricas Inteligentes, a que hace referencia el Capítulo VI del Título Tercero de la Ley de Transición Energética, deberá ser publicado a más tardar en enero del 2016.
+
+Vigésimo.- La Secretaría conformará el Comité Consultivo de Redes Eléctricas Inteligentes, dentro de los 90 días de la promulgación de esta Ley.
+
+Vigésimo Primero.- Las primeras evaluaciones a las políticas, normas y demás medidas de eficiencia energética a las que se refiere la Ley de Transición Energética podrán realizarse de forma escalonada durante los primeros tres años a partir de la entrada en vigor de esta Ley.
+
+Vigésimo Segundo.- Por los primeros cuatro años de vigencia de las Obligaciones en materia de Energías Limpias, y de requisitos de Certificados de Energías Limpias, se establece el siguiente Mecanismo de Flexibilidad aplicable a su cumplimiento:
+
+No aplicará lo establecido en el Lineamiento 25 de los "Lineamientos que establecen los criterios para el otorgamiento de Certificados de Energías Limpias y los requisitos para su adquisición", únicamente en lo referente a la cantidad de Certificados de Energías Limpias cuya liquidación es diferible, y los Participantes Obligados podrán diferir la Liquidación de hasta el 50% de sus Obligaciones en cada periodo de obligación, hasta por dos años cuando:
+
+I. Durante el año de aplicación de la obligación, la CRE determine que el número total de Certificados de Energías Limpias registrados no cubra al menos el 70.0% del monto total de la obligación para cada uno de los dos primeros años, o
+
+II. Cuando el precio implícito de los Certificados de Energías Limpias, calculado por la CRE de acuerdo a la metodología que para ese efecto desarrolle, resultado de las subastas de suministro básico cuya fecha de operación estándar sean los años 2018, 2019, 2020 y 2021, sea mayor a 60 Unidades de Inversión (UDIs).
+
+En caso de que no se cumpla ninguna de las dos condiciones arriba mencionadas, aplicará lo establecido en el Lineamiento 25 de los "Lineamientos que establecen los criterios para el otorgamiento de Certificados de Energías Limpias y los requisitos para su adquisición".
+
+Las Obligaciones, incluyendo la fecha de liquidación, se sujetarán a los requisitos de información, así como a los procedimientos de monitoreo y verificación que establezca la CRE, mediante el Registro Público de Certificados de Energías Limpias.
+
+Antes de finalizada la vigencia de este mecanismo de flexibilidad, la Secretaría de Energía deberá coordinar el desarrollo de una cámara de compensación a la que se refieren las Bases del Mercado Eléctrico que facilite a los usuarios calificados y otras entidades responsables de carga la participación en subastas o la realización de las mismas con el fin de adquirir contratos de cobertura de Certificados de Energías Limpias.
+
+Dos años después de la entrada en vigor de las obligaciones en materia de Certificados de Energías Limpias, la Comisión Federal de Competencia Económica, en el ámbito de sus atribuciones, realizará una evaluación de la competitividad del mercado de Certificados de Energías Limpias, y emitirá recomendaciones con el fin de mejorar su desempeño.
