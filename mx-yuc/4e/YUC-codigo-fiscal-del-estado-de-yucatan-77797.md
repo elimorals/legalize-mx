@@ -4,7 +4,7 @@ identifier: "YUC-codigo-fiscal-del-estado-de-yucatan-77797"
 country: "mx"
 rank: "codigo"
 publication_date: "2010-12-22"
-last_updated: "2014-12-26"
+last_updated: "2015-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77797&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 CÓDIGO FISCAL DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE DICIEMBRE DE 2015.
 
 Código publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el miércoles 22 de diciembre de 2010.
 
@@ -1064,6 +1064,18 @@ Cuando la autoridad constate que el aseguramiento precautorio se practicó por u
 Tratándose de los supuestos establecidos en el inciso b) de la fracción I de este artículo, el aseguramiento precautorio quedará sin efecto cuando se acredite la inscripción al registro estatal de contribuyentes o se acredite la legal posesión o propiedad de la mercancía, según sea el caso.
 
 Para la práctica del aseguramiento precautorio se observará las disposiciones contenidas en la Sección II del Capítulo III del Título V de este Código, en aquello que no se oponga a lo previsto en este artículo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 60-B.
+
+Las autoridades fiscales podrán embargar y retirar las máquinas a las que se refiere el artículo 85-J de la Ley General de Hacienda del Estado de Yucatán, a quienes no realicen el pago del derecho previsto en el capítulo XXI de la referida ley o no adhieran o retiren a las máquinas de juegos el holograma previsto en su artículo 85-M.
+
+El embargo al que se refiere este artículo se practicará sin perjuicio de la aplicación de las sanciones y demás consecuencias legales que correspondan en los términos de este código.
+
+El producto del remate de dichos bienes se destinará a los programas del estado que fomenten la actividad física y el deporte entre los jóvenes.
 
 ###### Artículo 61.
 
@@ -3678,5 +3690,21 @@ Artículo Primero. Entrada en vigor
 Este decreto entrará en vigor el 1 de enero de 2015, previa publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
 Artículo Segundo. Derogación tácita
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
+
+D.O. 24 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 326/2015 POR EL QUE SE MODIFICA EL CÓDIGO FISCAL DEL ESTADO DE YUCATÁN".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el 01 de enero de 2016, previa publicación en el diario oficial del gobierno del estado de Yucatán.
+
+Segundo. Órgano competente
+
+La Agencia de Administración Fiscal de Yucatán será la autoridad encargada de dar cumplimiento a lo dispuesto en el artículo 60-B, en los términos de las disposiciones de la Ley de la Agencia de Administración Fiscal de Yucatán y su reglamento.
+
+Tercero. Derogación tácita
 
 Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
