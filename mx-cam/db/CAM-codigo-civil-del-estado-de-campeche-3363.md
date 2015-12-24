@@ -4,7 +4,7 @@ identifier: "CAM-codigo-civil-del-estado-de-campeche-3363"
 country: "mx"
 rank: "codigo"
 publication_date: "1942-10-17"
-last_updated: "2015-12-15"
+last_updated: "2015-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 CÓDIGO CIVIL DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2015.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Campeche, el 17 de octubre de 1942.
 
@@ -10819,9 +10819,15 @@ III.- Cuando un heredero paga con sus bienes propios alguna deuda de la herencia
 
 IV.- Cuando el que adquiere un inmueble paga a un acreedor que tiene sobre él un crédito hipotecario anterior a la adquisición.
 
+> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2015)</small>
+
 ###### Art. 1952.
 
-Cuando la deuda fuere pagada por el deudor con dinero que un tercero le prestare con ese objeto, el prestamista quedará subrogado por ministerio de la ley en los derechos del acreedor, si el préstamo constare en título auténtico en que se declare que el dinero fue prestado para el pago de la misma deuda. Por falta de esta circunstancia, el que prestó sólo tendrá los derechos que exprese su respectivo contrato.
+Cuando la deuda fuera pagada por el deudor con dinero que un tercero le prestare con ese objeto, el prestamista quedará subrogado por ministerio de la ley en los derechos, privilegiados (sic), acciones y garantías del acreedor, si el préstamo constare en documento auténtico en que se declare que el dinero fue prestado para el pago de la misma deuda. Por falta de esta circunstancia, el que prestó sólo tendrá los derechos que exprese su respectivo contrato.
+
+Las garantías referidas en el párrafo anterior, incluyendo las otorgadas sobre bienes muebles e inmuebles, garantizarán por ministerio de ley las obligaciones derivadas del nuevo préstamo en los montos, plazos y demás términos acordados entre el prestamista y el deudor, sin que por ello se entienda novada la garantía ni prorrogada la obligación garantizada para los efectos de este Código. En consecuencia las garantías subrogadas, que sean susceptibles de inscripción en el registro, conservarán su grado de prelación.
+
+La subrogación de garantía que establece este artículo, deberá hacer constar fehacientemente el consentimiento del obligado solidario o del titular del bien objeto de la garantía, en caso de haberlos.
 
 ###### Art. 1953.
 
@@ -16274,3 +16280,13 @@ PRIMERO.- El presente decreto entrará en vigor treinta días después de su pub
 SEGUNDO.- El Poder Ejecutivo del Estado proveerá en la esfera administrativa la exacta observancia del presente decreto, debiendo realizar las modificaciones necesarias a los reglamentos que correspondan.
 
 TERCERO.- Se derogan todas las disposiciones legales y reglamentarias que se opongan al presente decreto.
+
+P.O. 24 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 10 POR EL QUE “SE REFORMA EL ARTÍCULO 1952 DEL CÓDIGO CIVIL DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Las Leyes locales aplicables establecerán medidas para eliminar o reducir el pago de derechos registrales que en su caso, se lleguen a generar por la modificación de las garantías derivadas de la subrogación a que se refiere el presente decreto.
+
+TERCERO.- Se derogan todas las disposiciones legales o reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
