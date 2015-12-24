@@ -4,7 +4,7 @@ identifier: "YUC-ley-general-de-hacienda-del-estado-de-yucatan-47970"
 country: "mx"
 rank: "ley_general"
 publication_date: "2005-12-29"
-last_updated: "2014-12-26"
+last_updated: "2015-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47970&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "YUC"
 
 LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN
 
-> <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 244/2014, DEL ESTADO DE YUCATÁN, PUBLICADO EN EL D.O. 26 DE DICIEMBRE DE 2014, EL CAPÍTULO IV, DEL TÍTULO TERCERO DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN, DEJARÁ DE SER APLICABLE A LOS MUNICIPIOS A PARTIR DE QUE SE HAGAN CARGO DEL SERVICIO PÚBLICO DE PANTEONES Y LA FUNCIÓN RECAUDATORIA INHERENTE AL MISMO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 26 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 24 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Diario Oficial del Gobierno del Estado de Yucatán, el jueves 29 de diciembre de 2005.
 
@@ -921,703 +919,97 @@ Los retenedores de este impuesto, están obligados a enterar una cantidad equiva
 
 ### CAPÍTULO VI. IMPUESTO ADICIONAL PARA LA EJECUCIÓN DE OBRAS MATERIALES Y ASISTENCIA SOCIAL
 
-#### SECCIÓN PRIMERA. DEL OBJETO
+#### SECCIÓN PRIMERA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
+ARTÍCULO 47 A.- (DEROGADO, D.O. 24 DE DICIEMBRE DE 2015)
 
-ARTÍCULO 47 A.- Es objeto del impuesto establecido en este Capítulo, la tenencia o uso de vehículos que se efectúe en el territorio del Estado.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Para efectos de este impuesto se entiende por vehículo: el aparato con motor que se desplaza o mueve sobre el suelo, en el agua o el aire y sirve para transportar cosas o personas y que puede incluir sin limitación entre otros, los automóviles, vehículos pick up, camiones, minibuses, microbuses, omnibuses, autobuses integrales, tractores no agrícolas tipo quinta rueda, aeronaves, motocicletas, bicimotos, cuatrimotos, motonetas y triciclos automotores, embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas, tablas de oleaje con motor, automóviles eléctricos, mixtos o híbridos y de combustión interna o con motor accionado por hidrógeno y automóviles blindados; cualquiera que sea su diseño, modelo, tipo, precio, dimensión, compartimentos, ejes, marca, origen o uso.
+ARTÍCULO 47 B.- (DEROGADO, D.O. 24 DE DICIEMBRE DE 2015)
 
-Para los efectos de este impuesto se considera que el uso o tenencia del vehículo se efectúa dentro de la circunscripción territorial del Estado, cuando se dé cualquiera de los siguientes supuestos:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-I.- El registro del vehículo se realice en el Registro Estatal de Control Vehicular del Estado de Yucatán;
-
-II.- Las personas físicas o las morales, tenedoras o usuarias de los vehículos se encuentren domiciliadas en el territorio del Estado;
-
-III.- Se hayan tramitado placas de transporte público federal ante las autoridades federales competentes radicadas en el Estado, tratándose de vehículos destinados a dicho servicio;
-
-IV.- Se hayan tramitado los certificados de aeronavegabilidad ante las autoridades federales competentes con circunscripción territorial en el Estado, y
-
-V.- Se realice la inspección de seguridad marítima por las autoridades federales competentes con circunscripción territorial en el Estado.
-
-En los términos de las disposiciones de este impuesto se presume que el propietario es tenedor o usuario del vehículo.
-
-Cuando las personas físicas y morales, que durante el ejercicio fiscal vigente, trasladen su domicilio al Estado de Yucatán; que sean tenedoras o usuarias de vehículos automotores que circulen con placas definitivas asignadas por otras entidades federativas, y que consecuentemente hayan pagado el impuesto sobre tenencia o uso de vehículos correspondiente en esa otra entidad federativa, o estén exentas de dicho impuesto no estarán obligadas a realizar el pago del impuesto señalado en el presente Capítulo por el ejercicio fiscal en el que ocurra el traslado, siempre que se acredite con la verificación que realice el Estado de Yucatán de los pagos realizados ante la entidad federativa que corresponda.
-
-Lo establecido en el párrafo anterior, procederá únicamente por lo que se refiere al ejercicio fiscal en que las personas físicas y morales hayan pagado o exentado dicho impuesto, antes de trasladarse al Estado de Yucatán.
-
-No será sujeto de devolución o compensación, el importe cubierto en exceso en otra entidad federativa.
-
-Las personas físicas o morales, tenedoras o usuarias de vehículos, sujetas al pago de este impuesto, que cambien de domicilio, deberán presentar el aviso correspondiente dentro de los primeros quince días posteriores a dicho cambio ante las oficinas que de conformidad con los lineamientos que para tal efecto se establezcan.
-
-Lo señalado en el párrafo anterior se deberá realizar independientemente de haber pagado el impuesto correspondiente al ejercicio fiscal al de aplicación de la Ley de Ingresos del Estado, ya sea en el Estado de Yucatán o en otra entidad federativa.
-
-> <small>(ADICIONADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-La Agencia de Administración Fiscal de Yucatán emitirá las disposiciones normativas necesarias para dar cumplimiento a lo establecido en este capítulo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2009)</small>
-
-ARTÍCULO 47 B.- Para efectos del impuesto establecido en este Capítulo, se entiende por:
-
-I.-Vehículo nuevo:
-
-a) El que se enajena por primera vez al consumidor por el fabricante, ensamblador, distribuidor o comerciantes en el ramo de vehículos, y
-
-b) El importado definitivamente al país que corresponda al año modelo posterior al de aplicación del impuesto establecido en este Capítulo, al año modelo en que se efectúe la importación, o a los nueve años modelos inmediatos anteriores al año de la importación definitiva.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-II.- Valor total del vehículo: el precio de enajenación del fabricante, ensamblador, distribuidor autorizado, importador, empresas comerciales con registro ante la autoridad competente como empresa autorizada para importar autos usados o comerciantes en el ramo de vehículos, según sea el caso, al consumidor, incluyendo el equipo que provenga de fábrica o el que el enajenante le adicione a solicitud del consumidor, incluyendo las contribuciones que se deban pagar con motivo de la importación, a excepción del impuesto al valor agregado.
-
-En el valor total del vehículo a que hace referencia el párrafo anterior, no se incluirán los intereses derivados de créditos otorgados para la adquisición del mismo.
-
-Tratándose de la enajenación de vehículos embargados y/o rematados por una autoridad federal, estatal o municipal en mal estado y que han sido restaurados y se transmita la propiedad mediante factura o acta, en donde el precio se consigna por unidad o por el parque vehicular completo, la Agencia de Administración Fiscal de Yucatán podrá utilizar como referencia para determinar el valor total de vehículo:
-
-a) El valor que establezcan las guías que fijan los precios del mercado automotriz para vehículos usados, al momento de efectuarse la operación;
-
-> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-b) Si el modelo del vehículo no apareciera en las mencionadas guías, se tomará como referencia para determinar el precio de mercado, el 85% del importe total del comprobante fiscal de origen expedido por el distribuidor, sin incluir el Impuesto al Valor Agregado, y
-
-c) Si no se cuenta con ninguno de los dos supuestos anteriores se practicará avalúo por un perito en la materia.
-
-Tratándose de vehículos importados de hasta 9 años anteriores al ejercicio fiscal en curso, el valor total del vehículo que servirá de base para el cálculo del impuesto se obtendrá mediante la equiparación del año modelo del vehículo importado con uno similar que sea facturado en México como nuevo de fabricación nacional o importado y conforme a esa base se calculará el impuesto respectivo de conformidad con lo establecido por el artículo 47-F de la presente Ley.
-
-Para efectos de este artículo, se entiende como vehículo similar aquel que tenga mayor grado de semejanza a otro en cuanto el motor, cilindraje, peso, dimensiones y equipamiento del mismo.
-
-III.- Año Modelo: el periodo anual en el que los fabricantes de vehículos dividen la referencia a sus modelos, el cual se consignará en la factura, carta factura o documento similar que se expida al consumidor;
-
-IV.- Modelo: es la clasificación que asigne e informe a la Secretaría de Economía del Gobierno Federal el fabricante o ensamblador. Para el caso de vehículos importados el señalado por el fabricante o ensamblador;
-
-V.- Marca: las denominaciones y distintivos que los fabricantes de automóviles y camiones dan a sus vehículos para diferenciarlos de los demás;
-
-VI.- Versión: cada una de las distintas presentaciones comerciales que tiene un modelo;
-
-VII.- Línea:
-
-a).- Automóviles con motor de gasolina o gas hasta de 4 cilindros.
-
-b).- Automóviles con motor de gasolina o gas de 6 u 8 cilindros.
-
-c).- Automóviles con motor diesel.
-
-d).- Camiones con motor de gasolina, gas o diesel.
-
-e).- Tractores no agrícolas tipo quinta rueda.
-
-f).- Autobuses integrales.
-
-g).- Automóviles eléctricos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-h).- Aeronaves.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-i).- Embarcaciones.
-
-VIII.- Comerciantes en el ramo de vehículos: a las personas físicas y morales cuya actividad sea la importación y venta de vehículos nuevos o usados;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-IX.- Índice Nacional de Precios al Consumidor: el publicado por el Banco de México en los términos de los artículos 20 segundo párrafo y 20 Bis del Código Fiscal de la Federación;
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-X.- Factores de actualización: los que determine la Agencia de Administración Fiscal de Yucatán, mismos que se publicarán en el Diario Oficial del Gobierno del Estado de Yucatán, a más tardar en el mes de diciembre de cada año, y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
-
-> <small>(ADICIONADA, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-XI.- Vehículo Usado: Aquel que no se encuentre comprendido en la fracción I de este artículo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 24 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 42.
 
 El objeto de este impuesto, lo constituyen las erogaciones que se realicen por concepto de impuestos y derechos establecidos en esta ley.
 
-#### SECCIÓN SEGUNDA. DE LOS SUJETOS
+#### SECCIÓN SEGUNDA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2009)</small>
+ARTÍCULO 47 C.- (DEROGADO, D.O. 24 DE DICIEMBRE DE 2015)
 
-ARTÍCULO 47 C.- Están obligadas al pago del impuesto sobre tenencia o uso de vehículos las personas físicas y morales, tenedoras o usuarias de los vehículos a que se refiere este Capítulo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+ARTÍCULO 47 D.- (DEROGADO, D.O. 24 DE DICIEMBRE DE 2015)
 
-> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Para los efectos de este Capítulo, tratándose de vehículos afectos al patrimonio de un fideicomiso, se considerará tenedora o usuaria de los mismos y por tanto sujeta de este impuesto y obligada al pago del mismo a la fiduciaria que se encuentre administrando dicho patrimonio.
+ARTÍCULO 47 E.- (DEROGADO, D.O. 24 DE DICIEMBRE DE 2015)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-En los casos en que exista copropiedad respecto del vehículo, cada uno de los copropietarios se presumirán tenedores o usuarios del mismo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2009)</small>
-
-ARTÍCULO 47 D.- La Federación, el Distrito Federal, los Estados, los Municipios, así como sus organismos y entidades o cualquier otra persona física o moral, deberán pagar el impuesto sobre tenencia o uso de vehículos que se establece en este Capítulo, con las excepciones que en el mismo se señalan, aún cuando de conformidad con otras leyes o decretos no estén obligados a pagar contribuciones estatales o estén exentos de ellos.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2009)</small>
-
-ARTÍCULO 47 E.- Son solidariamente responsables del pago del impuesto sobre tenencia o uso de vehículos establecido en este Capítulo:
-
-I.- Quienes por cualquier título, adquieran la propiedad, tenencia o uso del vehículo, por el adeudo del impuesto que en su caso existiera, aún cuando se trate de personas que no están obligadas al pago de este impuesto;
-
-II.- Quienes reciban en consignación o comisión para su enajenación vehículos, por el adeudo del impuesto que en su caso existiera;
-
-III.- Las autoridades y funcionarios competentes que autoricen el registro de vehículos, permisos provisionales para circulación en traslado, matrículas, altas, cambios o bajas de placas o efectúen la renovación de los mismos, sin haberse cerciorado que no existan adeudos por este impuesto, correspondiente a los últimos cinco años, salvo en los casos en que el contribuyente acredite que se encuentra liberado de esta obligación, y
-
-IV.- Las autoridades competentes que expidan los certificados de aeronavegabilidad, de matrícula para las aeronaves, o de inspección de seguridad a embarcaciones cuando al expedirlos el tenedor o usuario del vehículo no compruebe el pago del impuesto sobre tenencia o uso de vehículos a que se refiere este Capítulo, a excepción de los casos en que se encuentre liberado de ese pago.
-
-De no comprobarse que se ha cumplido con la obligación de pago, dichas autoridades lo harán del conocimiento de las autoridades fiscales correspondientes.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 24 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 43.
 
 Están obligados al pago del impuesto establecido en este capítulo, las personas físicas y las morales que efectúen las erogaciones a que se refiere el artículo inmediato anterior.
 
-#### SECCIÓN TERCERA. DE LA DETERMINACIÓN DEL IMPUESTO, DE LA BASE, TASA, TABLA O TARIFA
+#### SECCIÓN TERCERA
 
-> <small>N. DE E. EN EL DECRETO DE REFORMAS PUBLICADO EN EL D.O. DE 19 DE DICIEMBRE DE 2013 EL SEGUNDO PÁRRAFO DEL PRESENTE ARTÍCULO PASÓ A FORMAR PARTE DE LA FRACCIÓN VII.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+ARTÍCULO 47 F.- (DEROGADO, D.O. 24 DE DICIEMBRE DE 2015)
 
-ARTÍCULO 47 F.- Tratándose de vehículos nuevos el Impuesto Sobre Tenencia o Uso de Vehículos se determinará de conformidad con lo siguiente:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
+ARTÍCULO 47 G.- (DEROGADO, D.O. 24 DE DICIEMBRE DE 2015)
 
-l.- Para los vehículos de hasta 15 pasajeros, vehículos blindados y los vehículos Pick Up cuyo valor total sea mayor a lo equivalente a 6,334 salarios mínimos del área geográfica a la que corresponde el Estado, el impuesto se determinará aplicando al valor total del vehículo la siguiente:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2013)</small>
-
-TARIFA
-
-Límite Límite Cuota fija Tasa para aplicar al
-
-inferior $ superior $ $ excedente del
-
-límite inferior %
-
-0.01 613,592.94 0 3
-
-613,592.95 1,180,824.52 18,407.35 8.7
-
-1,180,824.53 1,575,509.20 67,756.80 13.3
-
-1,575,509.21 1,993,495.77 121,799.77 16.8
-
-1,993,495.78 en adelante 190,063.22 19.1
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-Tratándose de vehículos híbridos, mixtos o eléctricos nuevos, así como de aquellos que además cuenten con motor de combustión interna o con motor accionado por hidrógeno, el impuesto será la cantidad que resulte de aplicar el 0.30% al valor total del vehículo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-Tratándose de vehículos blindados, la tarifa a que se refiere esta fracción se aplicará sobre el valor total del vehículo, sin incluir el valor del material utilizado para el blindaje.
-
-II.- Para vehículos destinados al transporte de más de 15 pasajeros o de carga cuyo peso bruto vehicular sea menor a 15 toneladas y para vehículos que cuenten con placas de servicio público de transporte de pasajeros y los denominados "taxis", el impuesto será la cantidad que resulte de aplicar el 0.245% al valor total del vehículo.
-
-> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2010)</small>
-
-Para efectos de esta fracción se entiende como vehículos de más de 15 pasajeros, a los siguientes: camiones, minibuses, microbuses, omnibuses, autobuses integrales, tractores no agrícolas tipo quinta rueda, cualquiera que sea su tipo, además de los vehículos Pick Up cuyo valor total no rebase lo equivalente a 6,334 salarios mínimos del área geográfica a la que corresponde el Estado;
-
-III.- Para vehículos cuyo peso bruto vehicular sea de 15 o más toneladas, el impuesto se calculará multiplicando la cantidad que resulte de aplicar el 0.50% al valor total del vehículo, por el factor fiscal que resulte de dividir el peso bruto máximo vehicular expresado en toneladas, entre 30.
-
-Para los efectos de esta fracción, peso bruto vehicular es el peso del vehículo totalmente equipado incluyendo chasis, cabina, carrocería, unidad de arrastre con el equipo y carga útil transportable;
-
-IV.- Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo de que se trate el 2.0%;
-
-V.- Tratándose de motocicletas, bicimotos, cuatrimotos, motonetas y triciclos automotores que sean nuevas, el impuesto se calculará aplicando al valor total del vehículo la siguiente tarifa:
-
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2013)</small>
-
-TARIFA
-
-Límite inferior Límite superior Cuota fija Tasa para
-
-$ $ $ aplicar al
-
-excedente
-
-del límite
-
-inferior %
-
-0.01 257,084.38 0 3
-
-257,084.39 353,551.51 7,712.73 8.7
-
-353,551.52 475,211.41 16,105.14 13.3
-
-475,211.42 en adelante 32,285.91 16.8
-
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2013)</small>
-
-VI.- Tratándose de aeronaves nuevas de pistón, turbohélice y helicópteros, la cantidad será de $8,168.00 y para aeronaves nuevas de reacción la cantidad será de $8,799.00.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-VII.- En la enajenación o importación de vehículos de año modelo posterior al de aplicación de este Capítulo, se pagará el impuesto correspondiente al año de calendario en el que se enajene o importe, según corresponda. El impuesto para dichos vehículos se determinará en el siguiente año de calendario de acuerdo con el procedimiento que corresponda al tipo de vehículo de que se trate, bajo el criterio de vehículo nuevo. Las cantidades establecidas en las tarifas de este artículo, se actualizarán y publicarán por la Agencia de Administración Fiscal de Yucatán en el Diario Oficial del Gobierno del Estado de Yucatán en el mes de diciembre de cada año, aplicando el factor que se obtenga de dividir el Índice Nacional de Precios al Consumidor del mes de noviembre del año inmediato anterior a aquél para el que se calcula el impuesto, entre el Índice Nacional de Precios al Consumidor del mes de noviembre en que se actualizó por última vez. Estas tarifas se aplicarán a partir del mes de enero de cada año. Para efectos del artículo 47-G fracción I incisos b) y c); fracción II inciso b); fracción IV inciso b) y fracción VII inciso b), el resultado se actualizará aplicando el factor que se obtenga de dividir el Índice Nacional de Precios al Consumidor del mes de noviembre del año inmediato anterior a aquél en que se va a calcular el impuesto, entre el Índice Nacional de Precios al Consumidor del mes de noviembre del año correspondiente al modelo del vehículo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2009)</small>
-
-ARTÍCULO 47 G.- Tratándose de vehículos usados de fabricación nacional o importada, el impuesto se determinará conforme a lo siguiente:
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-I.- En los casos de vehículos destinados al transporte de más de 15 pasajeros o de carga, y para vehículos que cuenten con placas de servicio público de transporte de pasajeros y los denominados "taxis", embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas, tablas de oleaje con motor, incluyendo los vehículos Pick Up cuyo valor total no rebase el equivalente a 6,334 salarios mínimos del área geográfica a la que corresponde el Estado, así como aeronaves, vehículos eléctricos, mixtos o híbridos y de combustión interna con motor accionado por hidrógeno el impuesto será el que resulte de lo siguiente:
-
-a).- Multiplicar el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor que corresponda conforme a los años de antigüedad del vehículo, de acuerdo con la siguiente:
-
-TABLA
-
-Años de Factor
-
-Antigüedad
-
-1 0.900
-
-2 0.889
-
-3 0.875
-
-4 0.857
-
-5 0.833
-
-6 0.800
-
-7 0.750
-
-8 0.667
-
-9 o más 0.500
-
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-b).- El resultado obtenido conforme al inciso anterior se actualizará conforme al segundo párrafo de la fracción VII del artículo 47-F de esta Ley, el resultado obtenido será el impuesto a pagar.
-
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-c).- En el caso de aeronaves y helicópteros de más de diez años de fabricación, el impuesto se pagará conforme a lo siguiente:
-
-> <small>(REFORMADA, D.O. 31 DE DICIEMBRE DE 2013)</small>
-
-Tipo de aeronave Cuota
-
-$
-
-Pistón (Hélice) 2,464.88
-
-Turbohélice 13,643.36
-
-Reacción 19,707.66
-
-Helicópteros 3,029.56
-
-El monto de las cuotas establecidas en la tabla anterior se actualizará de conformidad al segundo párrafo de la fracción VII del artículo 47-F de esta Ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-La autoridad fiscal informará del cumplimiento del pago del impuesto a que se refiere este Capítulo a las autoridades competentes para expedir los certificados de aeronavegabilidad, de inspección de seguridad a embarcaciones, los certificados de matrícula para las aeronaves y cualquier otro permiso para la operación del servicio de autotransporte federal, a fin de ser considerado para efecto de su expedición, conforme al convenio que al efecto se suscriba.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-II.- Tratándose de automóviles usados, de fabricación nacional o importados, destinados al transporte de hasta 15 pasajeros y automóviles blindados, así como vehículos pick up cuyo valor total sea mayor a 6,334 salarios mínimos del área geográfica a la que corresponde el Estado, el impuesto será el que resulte de aplicar procedimiento (sic) siguiente:
-
-a).- El valor total del vehículo se multiplicará por el factor de antigüedad aplicable de acuerdo al año modelo del vehículo, de conformidad a la siguiente:
-
-TABLA
-
-Años de Factor de
-
-Antigüedad depreciación
-
-1 0.850
-
-2 0.725
-
-3 0.600
-
-4 0.500
-
-5 0.400
-
-6 0.300
-
-7 0.225
-
-8 0.150
-
-9 o más 0.075
-
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-b).- El resultado obtenido conforme al inciso anterior se actualizará de conformidad con el segundo párrafo de la fracción VII del artículo 47-F de esta Ley; a la cantidad resultante se le aplicará la tarifa a que hace referencia la fracción I del artículo 47-F de este capítulo;
-
-III.- Tratándose de motocicletas, bicimotos, cuatrimotos, motonetas y triciclos automotores, de fabricación nacional o importada, el impuesto será el que resulte de aplicar al valor total de la factura del vehículo, el factor de depreciación consignado en la siguiente tabla:
-
-Años de Factor
-
-Antigüedad depreciación
-
-1 0.9
-
-2 0.8
-
-3 0.7
-
-4 0.6
-
-5 0.5
-
-6 0.4
-
-7 0.3
-
-8 0.2
-
-9 o más 0.1
-
-A la cantidad resultante, se le aplicará la tarifa de la fracción V del artículo 47 F. de la presente Ley, y el resultado será el impuesto a pagar.
-
-IV.- Tratándose de vehículos de servicio particular, que pasen a ser de servicio público para transporte de pasajeros o de carga, el impuesto se calculará para el ejercicio fiscal siguiente a aquel en que se dé esta circunstancia conforme al siguiente procedimiento:
-
-a).- El valor total del vehículo se multiplicará por el factor que corresponda según los años de antigüedad de la tabla del inciso a) de la fracción I de este artículo, y
-
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-b).- La cantidad resultante se actualizará de conformidad al segundo párrafo de la fracción VII del artículo 47-F de esta Ley, y el resultado se multiplicará por el 0.245%.
-
-V. Tratándose de vehículos de servicio público, para transporte de pasajeros o de carga, que pasen a ser de servicio particular, el impuesto se calculará de la manera siguiente:
-
-a).- Cuando el cambio se efectúe después del primer mes del año del calendario, el impuesto causado por dicho año se calculará de acuerdo al procedimiento que se menciona en las fracciones I y II de este articulo dependiendo de la característica de que se trate, y se pagará en la proporción que resulte de aplicar el factor correspondiente de la siguiente tabla:
-
-TABLA
-
-Mes de Cambio Factor aplicable
-
-al impuesto
-
-causado
-
-Enero y Febrero 0.92
-
-Marzo 0.83
-
-Abril 0.75
-
-Mayo 0.67
-
-Junio 0.58
-
-Julio 0.50
-
-Agosto 0.42
-
-Septiembre 0.33
-
-Octubre 0.25
-
-Noviembre 0.17
-
-Diciembre 0.08
-
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-A la cantidad obtenida se le restará el importe proporcional pagado en el ejercicio del cambio.
-
-VI.- Tratándose de vehículos de más de diez años modelos anteriores al de aplicación de este capítulo, el impuesto se pagará a la tasa del 0%.
-
-Para los efectos de este artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-VII.- Tratándose de embarcaciones, veleros, esquís acuáticos motorizados, motocicletas acuáticas y tablas de oleaje con motor, usados, el impuesto será el que resulte de aplicar el procedimiento siguiente:
-
-a).- El valor total del vehículo de que se trate se multiplicará por el factor de depreciación de acuerdo al año modelo, de conformidad con la siguiente:
-
-TABLA
-
-Años de Antigüedad Factor de depreciación
-
-1 0.9250
-
-2 0.8500
-
-3 0.7875
-
-4 0.7250
-
-5 0.6625
-
-6 0.6000
-
-7 0.5500
-
-8 0.5000
-
-9 0.4500
-
-10 0.4000
-
-11 0.3500
-
-12 0.3000
-
-13 0.2625
-
-14 0.2250
-
-15 0.1875
-
-16 0.1500
-
-17 0.1125
-
-18 0.0750
-
-19 y siguientes 0.0375
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-b) La cantidad obtenida conforme al inciso anterior, se actualizará de conformidad con el segundo párrafo de la fracción VII del artículo 47-F de esta Ley, se multiplicará por el 2.0% y el resultado obtenido será el impuesto a pagar.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 24 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 44.
 
 La base de este impuesto, la constituirá el monto total de las erogaciones que realicen los contribuyentes, por concepto de pago de impuestos y derechos estatales.
 
-#### SECCIÓN CUARTA. DEL PAGO DEL IMPUESTO
+#### SECCIÓN CUARTA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2009)</small>
+ARTÍCULO 47 H.- (DEROGADO, D.O. 24 DE DICIEMBRE DE 2015)
 
-ARTÍCULO 47 H.- Los contribuyentes pagarán el impuesto por año calendario durante los tres primeros meses, salvo en el caso de vehículos cuya inscripción al Registro Estatal Vehicular se realice por primera vez, supuesto en el que el impuesto se deberá calcular y enterar en el momento en que se realice la inscripción a dicho Registro, se obtenga permiso provisional para circulación en traslado o dentro de los quince días de su enajenación, lo que ocurra primero.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+ARTÍCULO 47 I.- (DEROGADO, D.O. 24 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-El pago del impuesto se efectuará ante las oficinas autorizadas por la Secretaría de Administración y Finanzas o la Agencia de Administración Fiscal de Yucatán, bajo las modalidades que esta señale para tal efecto.
+ARTÍCULO 47 J.- (DEROGADO, D.O. 24 DE DICIEMBRE DE 2015)
 
-En caso de que no puedan comprobarse los años de antigüedad del vehículo, el impuesto a que se refiere este capítulo, se pagará como si éste fuese nuevo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Cuando la enajenación o importación de vehículos nuevos se efectúe después del primer mes del año de calendario, el impuesto causado por dicho año se pagará en la proporción que resulte de aplicar el factor correspondiente al mes de adquisición de conformidad con la siguiente:
+ARTÍCULO 47 K.- (DEROGADO, D.O. 24 DE DICIEMBRE DE 2015)
 
-TABLA
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Mes de adquisición Factor aplicable al
+ARTÍCULO 47 K BIS.- (DEROGADO, D.O. 24 DE DICIEMBRE DE 2015)
 
-impuesto causado
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Febrero 0.92
+ARTÍCULO 47 L.- (DEROGADO, D.O. 24 DE DICIEMBRE DE 2015)
 
-Marzo 0.83
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Abril 0.75
+ARTÍCULO 47 M.- (DEROGADO, D.O. 24 DE DICIEMBRE DE 2015)
 
-Mayo 0.67
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Junio 0.58
-
-Julio 0.50
-
-Agosto 0.42
-
-Septiembre 0.33
-
-Octubre 0.25
-
-Noviembre 0.17
-
-Diciembre 0.08
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2009)</small>
-
-ARTÍCULO 47 I.- No se pagará el impuesto sobre tenencia o uso de los siguientes vehículos:
-
-I.- (DEROGADA, D.O. 20 DE DICIEMBRE DE 2010)
-
-II.- Los vehículos de la Federación, Estados, Municipios y Distrito Federal que sean utilizados para la prestación de los servicios públicos de rescate, patrullas, transportes de limpia, pipas de agua, servicios funerarios, y las ambulancias dependientes de cualquiera de esas entidades o de instituciones de beneficencia autorizadas por las leyes de la materia y los destinados a los cuerpos de bomberos;
-
-III.- Los vehículos al servicio de misiones Diplomáticas y Consulares de carrera extranjeras y de sus agentes diplomáticos y consulares de carrera, siempre que sea exclusivamente para uso oficial y exista reciprocidad: excluyendo los vehículos asignados a los cónsules generales honorarios, cónsules y vicecónsules honorarios;
-
-IV.- Las embarcaciones dedicadas al transporte mercante o a la pesca comercial;
-
-V.- Los vehículos eléctricos utilizados para el transporte público de personas;
-
-VI.- Las aeronaves monomotores de una plaza, fabricadas o adaptadas para fumigar, rociar o esparcir líquidos o sólidos, con tolva de carga.
-
-VII.- Las aeronaves con capacidad de más de 20 pasajeros, destinadas al aerotransporte al público en general.
-
-VIII.- Los que tengan para su venta los fabricantes, las plantas ensambladoras, sus distribuidores y los comerciantes en el ramo de vehículos, siempre que carezcan de placas de circulación y los vehículos sean nuevos, y
-
-IX.- En los casos en los que se acredite haber cubierto un impuesto correspondiente al año de calendario de que se trate en otra entidad federativa, cuyo objeto coincida con el de este Capítulo.
-
-> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-Cuando, por cualquier motivo, un vehículo deje de estar comprendido en los supuestos a que se refieren las fracciones anteriores, su propietario, tenedor o usuario deberá dar aviso a la Agencia de Administración Fiscal de Yucatán dentro de los 15 días siguientes a aquel en que tenga lugar el hecho de que se trate y pagar el impuesto correspondiente, de conformidad con las disposiciones aplicables a los supuestos establecidos en el presente capítulo.
-
-> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-ARTÍCULO 47 J.- Los propietarios, tenedores o usuarios de los vehículos a que se refiere el artículo anterior, para gozar del beneficio que establece, deberán comprobar ante la Agencia de Administración Fiscal de Yucatán, que se encuentran comprendidos en dichos supuestos, cumpliendo los lineamientos que para tal efecto emita la citada dependencia.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-ARTÍCULO 47 K.- Cuando el vehículo sufra, por alguna causa, robo total o pérdida total, siempre que medie denuncia o querella ante la autoridad competente o bien se acredite mediante peritaje de autoridades o empresas aseguradoras, según corresponda, el impuesto se pagará en forma proporcional de acuerdo al siguiente procedimiento:
-
-El 100% del impuesto del ejercicio en el que se origina la pérdida total o robo total, se multiplica por el factor que a continuación se señala, y el resultado será el impuesto a pagar.
-
-Mes en que ocurre Factor a aplicar
-
-la pérdida total o %
-
-robo total
-
-Enero 8.33
-
-Febrero 16.66
-
-Marzo 24.99
-
-Abril 33.32
-
-Mayo 41.65
-
-Junio 49.98
-
-Julio 58.31
-
-Agosto 66.64
-
-Septiembre 74.97
-
-De Octubre a Diciembre 100
-
-Para los efectos de este artículo se entenderá que el mes en que ocurre la pérdida total es aquel en el que se suscita el siniestro, y este se encuentre consignado en el peritaje que para tal efecto emita la autoridad o empresa aseguradora; asimismo, se entenderá que el mes en que ocurre el robo total es aquél que se especifique en la autorización de baja en el Registro Estatal de Control Vehicular.
-
-Lo dispuesto en este artículo no será aplicable a los adeudos de ejercicios fiscales anteriores a aquél en que ocurrió el robo total o la pérdida total.
-
-Los contribuyentes tendrán derecho a la devolución del impuesto pagado, la cual se realizará en forma proporcional al mes en que ocurra la pérdida total o robo total, conforme a la siguiente tabla:
-
-Mes en que ocurre Factor a aplicar
-
-la pérdida total o %
-
-robo total
-
-De Enero a Febrero 0.92
-
-Marzo 0.83
-
-Abril 0.75
-
-Mayo 0.67
-
-Junio 0.58
-
-Julio 0.50
-
-Agosto 0.42
-
-Septiembre 0.33
-
-De Octubre a Diciembre 0.25
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-ARTÍCULO 47 K BIS.- Tratándose de vehículos nuevos cuyo registro sea dado de baja en el Registro Estatal de Control Vehicular, en el mismo ejercicio fiscal en que sea adquirido, el contribuyente podrá solicitar la devolución de la tenencia pagada de conformidad con el procedimiento establecido en el último párrafo del artículo 47-K, acorde con los meses en que fue tenedor o usuario del vehículo.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2009)</small>
-
-ARTÍCULO 47 L.- Los sujetos de este impuesto tendrán las siguientes obligaciones:
-
-I.- Solicitar ante las autoridades fiscales competentes la inscripción al Registro Estatal Vehicular que corresponda dentro de los plazos y los lugares señalados para tal efecto;
-
-II.- Conservar a disposición de las autoridades fiscales, acreditar y exhibir cuando lo soliciten la documentación comprobatoria del pago del impuesto que corresponda, y
-
-III.- Conservar la documentación comprobatoria relacionada con el objeto de este impuesto durante un plazo de cinco años.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-ARTÍCULO 47 M.- Los distribuidores autorizados así como las personas físicas o morales que se dediquen a la compraventa de vehículos, que tengan uno o varios establecimientos para la realización de dichas actividades dentro del territorio del Estado, tendrán la obligación de proporcionar a más tardar el día 17 de cada mes de calendario, la declaración por cada uno de los establecimientos que tengan, de la información relativa a cada uno de los vehículos enajenados en el mes inmediato anterior, a través de los medios y formatos que para tal efecto establezca la Agencia de Administración Fiscal de Yucatán.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-ARTÍCULO 47 N.- Para los efectos del impuesto señalado en este Capítulo, el Registro Estatal de Control Vehicular es la base de datos relativa a los vehículos y sus propietarios, tenedores o usuarios que se registren ante las autoridades competentes en el Estado, conformado con la información siguiente:
-
-I.- Del vehículo: número de identificación vehicular, marca, modelo, año modelo, número de cilindros, origen o procedencia, número de motor, de serie, de chasis, de placas y en los casos que proceda, la clave del Registro Público Vehicular, y
-
-II.- De los propietarios, tenedores o usuarios de los vehículos: nombre, denominación o razón social, domicilio, Clave Única de Registro de Población y, en su caso, los Registros Federal o Estatal de Contribuyentes.
-
-Los propietarios, tenedores o usuarios de vehículos con domicilio en el Estado, deberán manifestar:
-
-1.- Alta en el Registro Estatal de Control Vehicular, de un vehículo nuevo, usado, nacional o extranjero considerando a este último aquél que acredite la legal estancia en el país.
-
-2.- Baja en el Registro Estatal de Control Vehicular de un vehículo por pérdida total, robo total.
-
-3.- Cambios en el Registro Estatal de Control Vehicular por cambio de propietario, de domicilio o de servicio.
+ARTÍCULO 47 N.- (DEROGADO, D.O. 24 DE DICIEMBRE DE 2015)
 
 > <small>(REFORMADO SU NUMERAL, [N. DE E. ANTES CAPÍTULO IX], D.O. 19 DE FEBRERO DE 2014)</small>
 
@@ -1697,15 +1089,15 @@ XIV.- Derechos por los servicios de inspección, control y fiscalización que re
 
 XV.- Derechos por los servicios que preste el Poder Judicial del Estado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O. 24 DE DICIEMBRE DE 2015)</small>
 
-### CAPÍTULO VII. DEL IMPUESTO SOBRE TENENCIA O USO DE VEHÍCULOS
+### CAPÍTULO VII
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA, D.O. 30 DE DICIEMBRE DE 2009)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 24 DE DICIEMBRE DE 2015)</small>
 
 #### SECCIÓN TERCERA. DEL MOMENTO DE CAUSACIÓN
 
@@ -1789,6 +1181,28 @@ III.- Las que reciban cantidades a fin de permitir a terceros la participación 
 
 IV.- Los propietarios o legítimos poseedores de las máquinas de juegos a que se refiere este Capítulo.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O. 24 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN PRIMERA. DE LOS SUJETOS Y EL OBJETO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN SEGUNDA. DE LA BASE GRAVABLE, TASA Y ÉPOCA DE PAGO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN TERCERA. DE LAS OBLIGACIONES DE LOS CONTRIBUYENTES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2015)</small>
+
 #### SECCIÓN PRIMERA. DE LA PROPIEDAD
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
@@ -1807,7 +1221,21 @@ IV.- Los propietarios o legítimos poseedores de las máquinas de juegos a que s
 
 > <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
 
+### CAPÍTULO IX. IMPUESTO A CASAS DE EMPEÑO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 24 DE DICIEMBRE DE 2015)</small>
+
 #### SECCIÓN CUARTA
+
+###### ARTÍCULO 47-W.
+
+Están obligadas al pago del impuesto establecido en este capítulo las personas físicas y morales que, en el territorio del estado de Yucatán, en forma habitual o profesional, realicen u oferten al público contrataciones u operaciones de mutuo con interés y garantía prendaria no reguladas por leyes y autoridades financieras, respecto de aquellos bienes dados en prenda que no sean recuperados por el deudor prendario y sean posteriormente enajenados. El impuesto se causará en la fecha en la que el bien dado en prenda se enajene al público en general.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 24 DE DICIEMBRE DE 2015)</small>
 
 #### SECCIÓN PRIMERA. DE LOS SUJETOS Y EL OBJETO
 
@@ -1823,6 +1251,24 @@ Las máquinas a que se refiere esta disposición son aquellas definidas en el ar
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 19 DE DICIEMBRE DE 2013)</small>
 
+###### ARTÍCULO 47-X.
+
+El impuesto se calculará aplicando la tasa del 5% a la diferencia entre el monto del avalúo que sirve de base para el otorgamiento del crédito prendario y el monto de la enajenación del bien otorgado en garantía prendaria que celebren los sujetos de este impuesto con el público en general.
+
+El monto del avalúo es la valoración del bien mueble dado en prenda, que queda consignado en la boleta o billete de empeño, contrato o cualquier otra denominación que se otorgue al documento en el que se formalice el préstamo otorgado, los intereses pactados y cualquier otro gasto por parte del prestamista, así como el plazo para la recuperación del bien dado en prenda.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2015)</small>
+
+###### ARTÍCULO 47-Y.
+
+El pago de este impuesto se efectuará mediante declaración mensual definitiva que presentarán los contribuyentes en las oficinas autorizadas por la Agencia de Administración Fiscal de Yucatán, a más tardar el día 17 del mes siguiente a aquél en que se haya producido la enajenación de la prenda de que se trate.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 24 DE DICIEMBRE DE 2015)</small>
+
 #### SECCIÓN SEGUNDA. DE LOS SERVICIOS DE SUPERVISIÓN, VIGILANCIA Y REGISTRO
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
@@ -1836,6 +1282,14 @@ Las autoridades fiscales llevarán y actualizarán un registro de las máquinas 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 19 DE DICIEMBRE DE 2013)</small>
+
+###### ARTÍCULO 47-Z.
+
+Son obligaciones de los sujetos del impuesto:
+
+l. Llevar y conservar los registros contables y administrativos de conformidad con las leyes y demás disposiciones aplicables.
+
+II. Mantener en los establecimientos o sucursales en los cuales se realicen las operaciones o contrataciones materia de este impuesto, las boletas o billetes de empeño y contratos, o cualquier otro documento que sustenten tales operaciones o contrataciones y permitan la plena identificación del deudor prendario incluyendo su domicilio y número telefónico, así como exhibirlos cuando las autoridades competentes lo requieran.
 
 ### CAPÍTULO I. DERECHOS POR LOS SERVICIOS QUE PRESTA LA ADMINISTRACIÓN PÚBLICA EN GENERAL
 
@@ -1893,31 +1347,109 @@ V.- Presentar a las autoridades fiscales la información que se les requiera med
 
 > <small>(DEROGADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 26 DE DICIEMBRE DE 2014)</small>
 
-### CAPÍTULO II. DERECHOS POR SERVICIOS QUE PRESTA LA SECRETARÍA DE SEGURIDAD PÚBLICA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
 #### SECCIÓN SEXTA. ARTÍCULO 85 O.- (DEROGADO, D.O. 26 DE DICIEMBRE DE 2014)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, D.O. 19 DE DICIEMBRE DE 2013)</small>
 
+#### SECCIÓN PRIMERA. DE LOS SUJETOS Y EL OBJETO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN SEGUNDA. DE LOS SERVICIOS DE AUTORIZACIÓN, REGISTRO Y SUPERVISIÓN PARA LA INSTALACIÓN Y OPERACIÓN DE CASAS DE EMPEÑO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN TERCERA. DE LA DETERMINACIÓN DE LOS DERECHOS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2015)</small>
+
+###### ARTÍCULO 85-V.
+
+Los derechos por los servicios a que se refiere este capítulo, se pagarán conforme a las siguientes cuotas:
+
+l. Por el estudio de cumplimiento de requisitos para permitir la instalación y operación de casas de empeño, la expedición del permiso correspondiente y por su inscripción en el registro estatal de casas de empeño. 111.11 S.M.G
+
+II. Por la revalidación anual del estudio de cumplimiento y del permiso. 55.56 S.M.G.
+
+III. Por cada modificación que se solicite del permiso, debido a cambios en la información proporcionada al expedirse el permiso original. 16.67 S.M.G.
+
+IV. Por la reposición del permiso otorgado o de la revalidación, en caso de extravío, robo o deterioro grave, a petición del interesado. 6.95 S.M.G.
+
+V. Por la revalidación extemporánea del estudio de cumplimiento y del permiso. 83.34 S.M.G.
+
+Los derechos se pagarán ante las oficinas autorizadas previamente al inicio del trámite de las solicitudes de permiso, revalidación, modificación o reposición antes descritas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 24 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO II. DERECHOS POR SERVICIOS QUE PRESTA LA SECRETARÍA DE SEGURIDAD PÚBLICA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN CUARTA. OBLIGACIONES DE LOS CONTRIBUYENTES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2015)</small>
+
+###### ARTÍCULO 85-W.
+
+Los contribuyentes a que se refiere este capítulo tendrán las siguientes obligaciones:
+
+l. Presentar ante la Agencia de Administración Fiscal de Yucatán la solicitud de autorización para instalar y operar la casa de empeño, a través de la forma oficial que para tal efecto se publique, debidamente llenada, o a falta de ésta, mediante escrito libre que cumpla con lo dispuesto en el artículo 26 del Código Fiscal del Estado de Yucatán.
+
+La solicitud deberá contener firma autógrafa del operador de la casa de empeño, en el caso de personas físicas, o del representante legal, en el caso de personas morales que operen casas de empeño, de conformidad con el artículo 28 del Código Fiscal del Estado de Yucatán y deberá acompañarse con la siguiente documentación, en original y dos copias fotostáticas:
+
+a) Instrumento público con el que se acredite la personalidad jurídica del representante legal en el caso de personas morales, con poder general para actos de administración.
+
+b) Identificación oficial vigente con fotografía del operador en el caso de personas físicas, o del representante legal en el caso de personas morales.
+
+c) Tratándose de personas morales, los documentos públicos que acrediten su constitución y, en su caso, sus modificaciones.
+
+d) Constancia de inscripción en el registro público que al efecto lleva la Procuraduría Federal de Protección al Consumidor.
+
+e) Constancia de inscripción en el registro federal de contribuyentes.
+
+f) Constancia de inscripción en el registro estatal de contribuyentes.
+
+g) Comprobante de domicilio del establecimiento o sucursal, con un máximo de dos meses de antigüedad.
+
+h) Comprobante de pago de los derechos correspondientes.
+
+El trámite anterior aplicará también para la solicitud de revalidación anual del permiso, debiendo señalar el número de permiso otorgado por el estado para operar como casa de empeño y adjuntar copia fotostática del permiso inmediato anterior que le fue otorgado o bien, de su revalidación.
+
+Para las solicitudes de modificación y reposición, bastará cumplir los requisitos contenidos en los artículos 26 y 28 del Código Fiscal del Estado de Yucatán y señalar las razones que motivan la solicitud, así como exhibir los documentos que causan la modificación en original y dos copias fotostáticas; en el caso de robo o extravío, deberá adjuntarse una copia certificada de la denuncia de robo presentada ante el Ministerio Público o del acta de pérdida o extravío levantada ante la autoridad competente, de tratarse de reposición por deterioro del permiso o de la revalidación, este documento deberá ser entregado.
+
+II. Mantener en el establecimiento el permiso otorgado y a disposición de las autoridades, para el caso de que sea requerido.
+
+III. Proporcionar a las autoridades que así lo requieran, toda la información relacionada con los trámites administrativos realizados para la instalación, operación y funcionamiento de la casa de empeño en cumplimiento de las disposiciones de este capítulo.
+
+IV. Informar a la Agencia de Administración Fiscal de Yucatán, sobre cualquier cambio o modificación de la situación, operación o funcionamiento del establecimiento o sucursal, que implique una discrepancia con la información proporcionada al obtener el permiso y haga necesaria su modificación.
+
+V. Solicitar la cancelación del registro del permiso otorgado ante la Agencia de Administración Fiscal de Yucatán, con diez días de anticipación a aquel en el cual pretendan cerrar las puertas al público del establecimiento o sucursal por cese definitivo de operaciones, debiendo adjuntar copia fotostática del permiso original y de la última revalidación otorgada.
+
+Se procederá a la cancelación solicitada, de no existir adeudo por concepto de los derechos previstos en este capítulo.
+
+VI. Presentar la información que señalen las autoridades mediante reglas de carácter general.
+
 ### CAPÍTULO III. DERECHOS POR LOS SERVICIOS QUE PRESTA LA DIRECCIÓN DEL REGISTRO CIVIL
 
 ### CAPÍTULO IV. DERECHOS POR EL USO DE CEMENTERIOS Y PRESTACIÓN DE SERVICIOS CONEXOS
 
-### CAPÍTULO V. DERECHOS POR LOS SERVICIOS QUE PRESTA LA DIRECCIÓN DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO
-
 ## TÍTULO TERCERO. DE LOS DERECHOS
 
-### CAPÍTULO VI. SERVICIOS QUE PRESTAN LOS FEDATARIOS A QUIENES EL ESTADO LES HAYA CONCEDIDO FE PÚBLICA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
+### CAPÍTULO V. DERECHOS POR LOS SERVICIOS QUE PRESTA LA DIRECCIÓN DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DEL COMERCIO
 
 ###### ARTÍCULO 48.
 
@@ -1955,33 +1487,33 @@ No se pagarán derechos por las reposiciones que sean solicitadas por el Estado,
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
-### CAPITULO VII. DERECHOS POR LOS SERVICIOS QUE PRESTA LA DIRECCIÓN DEL ARCHIVO NOTARIAL DEL ESTADO
+### CAPÍTULO VI. SERVICIOS QUE PRESTAN LOS FEDATARIOS A QUIENES EL ESTADO LES HAYA CONCEDIDO FE PÚBLICA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 49.
 
 Se causarán derechos por la dotación, canje, reposición y baja de placas de circulación, conforme a lo siguiente:
 
-I.- Automóviles, camiones y camionetas:
+l. Automóviles, camiones y camionetas
 
-a) De servicio particular: 10.00 S.M.G.
+a) De servicio particular 13.50 S.M.G.
 
-b) De servicio público 15.00 S.M.G.
+b) De servicio público 16.00 S.M.G.
 
-c) De arrendadoras 10.41 S.M.G.
+c) De arrendadoras 12.50 S.M.G.
 
 d) De demostración 30.00 S.M.G.
 
-e) Provisionales 6.17 S.M.G.
+e) Provisionales 7.50 S.M.G.
 
-II.- Motocicletas: 4.02 S.M.G.
+II. Motocicletas 4.50 S.M.G.
 
-III.- Remolques 3.53 S.M.G.
+III. Remolques 6.25 S.M.G.
 
-IV.- Por baja de placas
-
-para todos los mencionados
-
-en las fracciones anteriores 0.83 S.M.G.
+IV. Por baja de placas para todos los mencionados en las fracciones anteriores 1.00 S.M.G.
 
 > <small>(ADICIONADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
@@ -2381,7 +1913,7 @@ Mayor a 10,001 personas 627.00 S.M.G.
 
 El Secretario de Administración y Finanzas podrá, mediante acto fundado y motivado, reducir las cuotas establecidas en este artículo cuando se trate de personas que tributen de acuerdo con el artículo 79, fracciones VI, XII, XIX, XXII, XXIII, XXIV Y XXV de la Ley del Impuesto sobre la Renta y tomando en consideración la finalidad de la realización del evento o espectáculo. Lo previsto en este artículo no constituye instancia y las resoluciones que se emitan no podrán ser impugnadas.
 
-### CAPÍTULO VIII. DERECHOS POR LOS SERVICIOS QUE PRESTA EL DIARIO OFICIAL DEL GOBIERNO DEL ESTADO DE YUCATAN
+### CAPITULO VII. DERECHOS POR LOS SERVICIOS QUE PRESTA LA DIRECCIÓN DEL ARCHIVO NOTARIAL DEL ESTADO
 
 ###### ARTÍCULO 57.
 
@@ -2533,6 +2065,12 @@ XXI. Constancia de existencia
 
 o inexistencia de registro 2.00 S.M.G.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O. 24 DE DICIEMBRE DE 2015)</small>
+
+XXII. Certificación de actas de otras entidades federativas 1.80 S.M.G.
+
 Los servicios dispuestos en las fracciones III, V, VIII, y IX, incluyen la expedición de un certificado. El Ejecutivo, mediante decreto, podrá eximir total o parcialmente el pago de los derechos que se establecen en las fracciones I, II, III, IV, VI, XI, XII y XIV, en los términos dispuestos en el Código Fiscal del Estado de Yucatán.
 
 > <small>(ADICIONADO, D.O. 27 DE NOVIEMBRE DE 2014)</small>
@@ -2541,11 +2079,7 @@ No se causarán los derechos a que se refiere la fracción XI de este artículo 
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NÚMERO 244/2014, DEL ESTADO DE YUCATÁN, PUBLICADO EN EL D.O. 26 DE DICIEMBRE DE 2014, EL CAPÍTULO IV, DEL TÍTULO TERCERO DE LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN, DEJARÁ DE SER APLICABLE A LOS MUNICIPIOS A PARTIR DE QUE SE HAGAN CARGO DEL SERVICIO PÚBLICO DE PANTEONES Y LA FUNCIÓN RECAUDATORIA INHERENTE AL MISMO.</small>
 
-### CAPÍTULO IX. DERECHOS POR LOS SERVICIOS QUE PRESTA LA CONSEJERÍA JURÍDICA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 30 DE DICIEMBRE DE 2009)</small>
+### CAPÍTULO VIII. DERECHOS POR LOS SERVICIOS QUE PRESTA EL DIARIO OFICIAL DEL GOBIERNO DEL ESTADO DE YUCATAN
 
 ###### ARTÍCULO 58.
 
@@ -2609,9 +2143,11 @@ interior del Estado 1.00 S.M.G.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
-### CAPÍTULO X. DERECHOS POR LOS SERVICIOS QUE PRESTA LA DIRECCIÓN DEL CATASTRO
+### CAPÍTULO IX. DERECHOS POR LOS SERVICIOS QUE PRESTA LA CONSEJERÍA JURÍDICA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 24 DE DICIEMBRE DE 2007)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 59.
 
@@ -2691,7 +2227,11 @@ II.- Por la inscripción de cualquier acto o convenio relacionado con el Registr
 
 III.- Por la inscripción de cualquier acto o convenio relacionado con poderes o mandatos o su revocación en el Registro de Personas Morales de Naturaleza Civil o en el Registro de Crédito Rural. 4.50 S.M.G
 
-IV.- La inscripción de cualquier acto o convenio distinto a los anteriores 5.31 S.M.G.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 24 DE DICIEMBRE DE 2015)</small>
+
+IV.- La inscripción de cualquier acto o convenio distinto a los anteriores 12.41 S.M.G.
 
 ###### ARTÍCULO 62.
 
@@ -2703,9 +2243,9 @@ II.- Cuando en un mismo documento se consignen dos o más actos o convenios, que
 
 III.- En los casos en que un documento tenga que inscribirse en varias secciones, los derechos se causarán separadamente, por cada una de las inscripciones.
 
-### CAPÍTULO XI. DERECHOS POR SERVICIO DE ALUMBRADO PÚBLICO
+### CAPÍTULO X. DERECHOS POR LOS SERVICIOS QUE PRESTA LA DIRECCIÓN DEL CATASTRO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 24 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTÍCULO 63.
 
@@ -2751,11 +2291,9 @@ Cualquier escritura pública o documento que contenga un contrato o convenio oto
 
 No se causará este derecho, en los casos en que no se causen los establecidos en las fracciones I, II y III del artículo 59 de esta ley.
 
-### CAPÍTULO XII. DERECHOS POR LOS SERVICIOS QUE PRESTA LA FISCALÍA GENERAL DEL ESTADO
+### CAPÍTULO XI. DERECHOS POR SERVICIO DE ALUMBRADO PÚBLICO
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 ###### ARTÍCULO 65.
 
@@ -2789,7 +2327,11 @@ que se otorga ante Escribano Público 0.75 S.M.G.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
-### CAPÍTULO XIII. DERECHOS POR SERVICIOS QUE PRESTA LA SECRETARÍA DE EDUCACIÓN
+### CAPÍTULO XII. DERECHOS POR LOS SERVICIOS QUE PRESTA LA FISCALÍA GENERAL DEL ESTADO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE DICIEMBRE DE 2011)</small>
 
 ###### ARTÍCULO 66.
 
@@ -2851,47 +2393,37 @@ V.- Por expedición de copias certificadas por hoja 0.10 S.M.G.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 30 DE DICIEMBRE DE 2009)</small>
 
+### CAPÍTULO XIII. DERECHOS POR SERVICIOS QUE PRESTA LA SECRETARÍA DE EDUCACIÓN
+
+###### ARTÍCULO 67.
+
+Los servicios que presta la Consejería Jurídica, causarán derechos de conformidad con lo siguiente:
+
+l. Legalización de firmas 1.75 S.M.G.
+
+II. Apostillamiento de documentos públicos 1.75 S.M.G.
+
+III. Expedición de opinión relacionada con armas de fuego y explosivos 4.50 S.M.G.
+
+IV. Certificación de plicas 0.47 S.M.G.
+
+V. Expedición de opinión para la instalación de establecimientos de juegos y sorteos 5.50 S.M.G.
+
 ### CAPÍTULO XIV. DERECHOS POR LOS SERVICIOS QUE PRESTA LA SECRETARÍA DE DESARROLLO URBANO Y MEDIO AMBIENTE
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 22 DE DICIEMBRE DE 2011)</small>
 
-###### ARTÍCULO 67.
-
-Los servicios que presta la Consejería Jurídica, causarán derechos de conformidad con lo siguiente:
-
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-I.- Legalización de firmas 0.97 S.M.G.
-
-II.- Legalización de firmas en documentos
-
-internacionales (Apostillado) 1.75 S.M.G.
-
-III.- Expedición de constancia de conformidad
-
-para el uso de explosivos por empresas constructoras 4.50 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-IV.- (DEROGADA, D.O. 30 DE DICIEMBRE DE 2009)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-V.- (DEROGADA, D.O. 19 DE DICIEMBRE DE 2013)
-
-> <small>(REFORMADA [N. DE E. ADICIONADA], D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-VI.- Certificación de plicas 0.47 S.M.G.
-
-### CAPÍTULO XV. DERECHOS POR EL USO, GOCE O APROVECHAMIENTO DE BIENES DE DOMINIO PÚBLICO DEL ESTADO
-
 ###### ARTÍCULO 68.
 
 Los servicios que presta la Dirección del Catastro causarán derechos de conformidad con lo siguiente:
 
-I.- La emisión de copias fotostáticas simples:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 24 DE DICIEMBRE DE 2015)</small>
+
+I.- La emisión de copias fotostáticas simples impresas o en línea:
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
 
@@ -2951,7 +2483,11 @@ e) (DEROGADO, D.O. 26 DE DICIEMBRE DE 2014)
 
 f) Información de bienes por propietario o por predio:
 
-De 1 a 5 predios 1.64 S.M.G.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2015)</small>
+
+De 0 a 5 predios 1.64 S.M.G.
 
 De 6 a 10 predios 3.34 S.M.G.
 
@@ -2966,6 +2502,12 @@ cada predio excedente a 21 0.20 S.M.G.
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
 
 g) Oficio de verificación de medidas, deslinde catastral, ubicación o marcación de predio 1.20 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2015)</small>
+
+h) Constancia de factibilidad para uniones divisiones y rectificaciones de medidas 1.20 S.M.G.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3005,9 +2547,11 @@ V.- (DEROGADA, D.O. 29 DE DICIEMBRE DE 2012)
 
 VI.- Por diligencias de rectificación o verificación de medidas físicas, de colindancias de predios, división, unión, urbanización, ubicación, marcación y acta circunstanciada 4.78 S.M.G.
 
-> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Más 0.10 S.M.G. por kilómetro recorrido, considerando como punto de partida la ubicación de la Dirección de Catastro del Estado, sin que el derecho establecido en este párrafo exceda de 17 S.M.G.
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2015)</small>
+
+Más 0.10 S.M.G. por kilómetro recorrido, considerando como punto de partida la ubicación de la Dirección de Catastro del Instituto de Seguridad Jurídica Patrimonial de Yucatán, sin que el derecho establecido en este párrafo exceda de 17 S.M.G.
 
 > <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2012)</small>
 
@@ -3120,6 +2664,46 @@ c) Constancia de factibilidad 1.20 S.M.G.
 ###### ARTÍCULO 73.
 
 Las instituciones públicas federales, estatales y municipales, siempre que el servicio sea destinado a un interés público, quedan exentas del pago de los derechos que establece este capítulo.
+
+### CAPÍTULO XV. DERECHOS POR EL USO, GOCE O APROVECHAMIENTO DE BIENES DE DOMINIO PÚBLICO DEL ESTADO
+
+###### ARTÍCULO 74.
+
+(DEROGADO, D.O. 27 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+###### ARTÍCULO 75.
+
+(DEROGADO, D.O. 27 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+###### ARTÍCULO 76.
+
+(DEROGADO, D.O. 27 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+###### ARTÍCULO 77.
+
+(DEROGADO, D.O. 27 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+###### ARTÍCULO 78.
+
+(DEROGADO, D.O. 27 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+###### ARTÍCULO 79.
+
+(DEROGADO, D.O. 27 DE DICIEMBRE DE 2008)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 22 DE DICIEMBRE DE 2011)</small>
 
 ### CAPÍTULO XVI. DERECHOS POR SERVICIOS QUE PRESTA LA SECRETARÍA DE SALUD
 
@@ -3547,43 +3131,29 @@ XXX.- Por trámite de importación y exportación 26.00 S.M.G.
 
 > <small>(REFORMADO, D.O. 29 DE DICIEMBRE DE 2012)</small>
 
-###### ARTÍCULO 74.
+###### ARTÍCULO 80.
 
-(DEROGADO, D.O. 27 DE DICIEMBRE DE 2008)
+Los servicios que presta la Fiscalía General del Estado, causarán derechos de conformidad con lo siguiente, por:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+I.- La expedición de certificados del Departamento de Dactiloscopía y Criminología:
 
-###### ARTÍCULO 75.
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-(DEROGADO, D.O. 27 DE DICIEMBRE DE 2008)
+a) Para trámites consulares 1.23 S.M.G.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-###### ARTÍCULO 76.
+b) De antecedentes o no antecedentes
 
-(DEROGADO, D.O. 27 DE DICIEMBRE DE 2008)
+penales 0.61 S.M.G.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+II.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 2006)
 
-###### ARTÍCULO 77.
+> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
-(DEROGADO, D.O. 27 DE DICIEMBRE DE 2008)
+III.- La autorización, registro y revalidación del permiso para prestar los servicios de seguridad privada en el Estado, se pagará un derecho equivalente a 24.99 S.M.G.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-###### ARTÍCULO 78.
-
-(DEROGADO, D.O. 27 DE DICIEMBRE DE 2008)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-###### ARTÍCULO 79.
-
-(DEROGADO, D.O. 27 DE DICIEMBRE DE 2008)
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 22 DE DICIEMBRE DE 2011)</small>
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
 
 ### CAPÍTULO XVII. DERECHOS POR LOS SERVICIOS QUE PRESTA LA UNIDAD ESTATAL DE PROTECCIÓN CIVIL
 
@@ -3628,172 +3198,6 @@ IX.- Diagnóstico de Riesgo 15.00 S.M.G.
 ARTÍCULO 85 F.- Están exentas del pago de los derechos establecidos en este capítulo, las dependencias federales, estatales y municipales, y las instituciones y asociaciones sin fines de lucro.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-###### ARTÍCULO 80.
-
-Los servicios que presta la Fiscalía General del Estado, causarán derechos de conformidad con lo siguiente, por:
-
-I.- La expedición de certificados del Departamento de Dactiloscopía y Criminología:
-
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-a) Para trámites consulares 1.23 S.M.G.
-
-> <small>(REFORMADO, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-b) De antecedentes o no antecedentes
-
-penales 0.61 S.M.G.
-
-II.- (DEROGADA, P.O. 26 DE DICIEMBRE DE 2006)
-
-> <small>(REFORMADA, D.O. 20 DE DICIEMBRE DE 2010)</small>
-
-III.- La autorización, registro y revalidación del permiso para prestar los servicios de seguridad privada en el Estado, se pagará un derecho equivalente a 24.99 S.M.G.
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2006)</small>
-
-### CAPÍTULO XVIII. DERECHOS POR EL USO DE BIENES DEL DOMINIO PÚBLICO DEL ESTADO DE YUCATÁN QUE OPEREN COMO PARADORES TURÍSTICOS DE ZONAS ARQUEOLÓGICAS Y TURÍSTICAS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-ARTÍCULO 85 G.- Por el uso de los paradores turísticos, ubicados en las áreas aledañas a las zonas arqueológicas y turísticas a que se refiere este artículo, se cobrarán los siguientes derechos:
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-I.- Chichén Itzá 1.22 S.M.G.
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-II.- Chichén Itzá (extranjeros) 2.28 S.M.G.
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-III.- Chichén Itzá horario Luz y Sonido 3.02 S.M.G.
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-IV.- Chichén Itzá horario Luz y Sonido (extranjeros) 3.02 S.M.G.
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-V.- Uxmal 1.15 S.M.G.
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-VI.- Uxmal (extranjeros) 2.03 S.M.G.
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-VII.- Uxmal horario Luz y Sonido 0.78 S.M.G.
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-VIII.- Uxmal horario Luz y Sonido (extranjeros) 1.22 S.M.G.
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-IX.- Grutas de Loltún 0.58 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-X.- Grutas de Loltún (extranjeros) 1.02 S.M.G.
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-XI.- Dzibilchaltún 0.58 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-XII.- Dzibilchaltún (extranjeros) 1.02 S.M.G.
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-XIII.- Balankanché 0.58 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-XIV.- Grutas de Balankanché (extranjeros) 1.02 S.M.G.
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-XV.- Celestún 0.58 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-XVI.- Celestún (extranjeros) 1.02 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-XVII.- Cenote X'Kekén adultos 0.48 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-XVIII.- Cenotes X'Kekén (extranjeros) 0.92 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-XIX.- Cenote Samulá adultos 0.48 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-XX.- Cenote Samulá (extranjeros) 0.92 S.M.G.
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-XXI.- Izamal horario Luz y Sonido 0.95 S.M.G.
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-XXII.- Izamal horario Luz y Sonido (extranjeros) 1.39 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-XXIII.- Ek Balam 0.92 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-XXIV.- Ek Balam (extranjeros) 1.75 S.M.G.
-
-> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-Las personas físicas que acrediten la nacionalidad mexicana estarán exentos del pago del derecho a que se refiere este artículo por el uso de los paradores turísticos los domingos, en Chichén Itzá, Uxmal, Dzibilchaltún y Ek Balam, con excepción del uso que se dé en horario de luz y sonido.
-
-> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-Las personas mayores de 60 años, menores de 13 años, jubilados, pensionados, discapacitados, profesores y estudiantes en activo, que así lo acrediten, no pagarán el derecho a que se refiere este artículo, excepto tratándose del uso de los paradores turísticos, ubicados en las áreas aledañas a los cenotes X'Kekén y Samulá en los que los estudiantes en activo pagarán el 50% del costo del derecho.
-
-> <small>(DEROGADO CUARTO PÁRRAFO, D.O. 26 DE DICIEMBRE DE 2014)</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-La recaudación de este derecho se destinará a un fideicomiso cuyo fin principal será apoyar e impulsar las actividades y los objetivos turísticos y culturales del Estado de Yucatán.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA SU NUMERACIÓN, D.O. 19 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 81.
 
@@ -4047,23 +3451,135 @@ d) Formación para el trabajo 40.07 S.M.G.
 
 > <small>(REFORMADA SU DENOMINACIÓN, D.O. 19 DE DICIEMBRE DE 2013)</small>
 
-### CAPÍTULO XIX. DERECHOS POR ACCESO A LA INFORMACIÓN
+### CAPÍTULO XVIII. DERECHOS POR EL USO DE BIENES DEL DOMINIO PÚBLICO DEL ESTADO DE YUCATÁN QUE OPEREN COMO PARADORES TURÍSTICOS DE ZONAS ARQUEOLÓGICAS Y TURÍSTICAS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+ARTÍCULO 85 G.- Por el uso de los paradores turísticos, ubicados en las áreas aledañas a las zonas arqueológicas y turísticas a que se refiere este artículo, se cobrarán los siguientes derechos:
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+I.- Chichén Itzá 1.22 S.M.G.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+II.- Chichén Itzá (extranjeros) 2.28 S.M.G.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+III.- Chichén Itzá horario Luz y Sonido 3.02 S.M.G.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+IV.- Chichén Itzá horario Luz y Sonido (extranjeros) 3.02 S.M.G.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+V.- Uxmal 1.15 S.M.G.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+VI.- Uxmal (extranjeros) 2.03 S.M.G.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+VII.- Uxmal horario Luz y Sonido 0.78 S.M.G.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+VIII.- Uxmal horario Luz y Sonido (extranjeros) 1.22 S.M.G.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+IX.- Grutas de Loltún 0.58 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
 
-ARTÍCULO 85 H.- Por los servicios que presten los sujetos obligados por la Ley de Acceso a la Información Pública para el Estado y los Municipios de Yucatán, con excepción de los municipios, se causarán derechos conforme a lo siguiente:
+X.- Grutas de Loltún (extranjeros) 1.02 S.M.G.
 
-I.- Expedición de copias simples, con anterioridad a partir de dos años, por hoja 0.10 S.M.G.
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
 
-II.- Expedición de copias simples, para el anterior y actual ejercicio, por hoja 0.04 S.M.G.
+XI.- Dzibilchaltún 0.58 S.M.G.
 
-III.- Expedición de copias certificadas 0.20 S.M.G.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-IV.- Disco magnético o Disco Compacto (por cada uno) 1.00 S.M.G.
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
 
-V.- Disco Versatil Digital 2.00 S.M.G.
+XII.- Dzibilchaltún (extranjeros) 1.02 S.M.G.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+XIII.- Balankanché 0.58 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
+
+XIV.- Grutas de Balankanché (extranjeros) 1.02 S.M.G.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+XV.- Celestún 0.58 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
+
+XVI.- Celestún (extranjeros) 1.02 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+XVII.- (DEROGADA, D.O. 24 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+XVIII.- (DEROGADA, D.O. 24 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+XIX.- (DEROGADA, D.O. 24 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+XX.- (DEROGADA, D.O. 24 DE DICIEMBRE DE 2015)
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+XXI.- Izamal horario Luz y Sonido 0.95 S.M.G.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+XXII.- Izamal horario Luz y Sonido (extranjeros) 1.39 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+XXIII.- Ek Balam 0.92 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+XXIV.- Ek Balam (extranjeros) 1.75 S.M.G.
+
+> <small>(REFORMADO, D.O. 26 DE DICIEMBRE DE 2014)</small>
+
+Las personas físicas que acrediten la nacionalidad mexicana estarán exentos del pago del derecho a que se refiere este artículo por el uso de los paradores turísticos los domingos, en Chichén Itzá, Uxmal, Dzibilchaltún y Ek Balam, con excepción del uso que se dé en horario de luz y sonido.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 24 DE DICIEMBRE DE 2015)</small>
+
+Las personas mayores de 60 años, menores de 13 años, jubilados, pensionados, discapacitados, profesores y estudiantes en activo, que así lo acrediten, no pagarán el derecho a que se refiere este artículo, excepto tratándose del uso de los paradores turísticos en el horario de luz y sonido.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
+
+La recaudación de este derecho se destinará a un fideicomiso cuyo fin principal será apoyar e impulsar las actividades y los objetivos turísticos y culturales del Estado de Yucatán.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -4173,43 +3689,33 @@ XVII.- Por cada evaluación y resolución de las solicitudes para obtener la fac
 
 XVIII.- Por cada verificación e inspección de áreas, predios y obras en materia de extracción de material pétreo 22.00 S.M.G.
 
-### CAPÍTULO XX. DERECHOS POR LOS SERVICIOS QUE PRESTA LA DIRECCIÓN DE TRANSPORTE
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADA, D.O. 24 DE DICIEMBRE DE 2015)</small>
 
-> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+XIX.- Por el registro y evaluación de las actividades de extracción de material pétreo, por metro cúbico 0.028 S.M.G.
 
-ARTÍCULO 85 l.- Por los servicios que presten la Dirección de Transporte, se causarán derechos conforme a lo siguiente:
+### CAPÍTULO XIX. DERECHOS POR ACCESO A LA INFORMACIÓN
 
-I. Reposición de la credencial inteligente de transporte urbano (CITUR) 0.53 S.M.G.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, D.O. 19 DE DICIEMBRE DE 2013)</small>
 
-> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2013)</small>
+ARTÍCULO 85 H.- Por los servicios que presten los sujetos obligados por la Ley de Acceso a la Información Pública para el Estado y los Municipios de Yucatán, con excepción de los municipios, se causarán derechos conforme a lo siguiente:
 
-II. Emisión del tarjetón único del operador de transporte público 2.00 S.M.G.
+I.- Expedición de copias simples, con anterioridad a partir de dos años, por hoja 0.10 S.M.G.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+II.- Expedición de copias simples, para el anterior y actual ejercicio, por hoja 0.04 S.M.G.
 
-> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2013)</small>
+III.- Expedición de copias certificadas 0.20 S.M.G.
 
-III. Reposición del tarjetón único del operador de transporte público 2.00 S.M.G.
+IV.- Disco magnético o Disco Compacto (por cada uno) 1.00 S.M.G.
 
-IV. Expedición de impresiones a tamaño gran escala de los croquis y rutas concesionadas 2.00 S.M.G.
-
-V. Cesión de derechos (concesión o permiso) 20.00 S.M.G.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2013)</small>
-
-VI. Reconocimiento de derechos del beneficiario como titular de concesión 10.00 S.M.G.
-
-VII. Emisión de tarjeta de información de servicio público de transporte de pasajeros 4.00 S.M.G.
+V.- Disco Versatil Digital 2.00 S.M.G.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
-> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA SU NUMERACIÓN, D.O. 19 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTÍCULO 85-G.
 
@@ -4339,11 +3845,43 @@ del anuncio publicitario o señal informativa 1 S.M.G
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 26 DE DICIEMBRE DE 2006)</small>
 
-### CAPÍTULO XXI. DERECHOS POR LOS SERVICIOS DE SUPERVISIÓN, VIGILANCIA Y REGISTRO DE MÁQUINAS DE JUEGOS Y APUESTAS
+### CAPÍTULO XX. DERECHOS POR LOS SERVICIOS QUE PRESTA LA DIRECCIÓN DE TRANSPORTE
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 19 DE DICIEMBRE DE 2013)</small>
+> <small>(ADICIONADO, D.O. 22 DE DICIEMBRE DE 2011)</small>
+
+ARTÍCULO 85 l.- Por los servicios que presten la Dirección de Transporte, se causarán derechos conforme a lo siguiente:
+
+I. Reposición de la credencial inteligente de transporte urbano (CITUR) 0.53 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2013)</small>
+
+II. Emisión del tarjetón único del operador de transporte público 2.00 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2013)</small>
+
+III. Reposición del tarjetón único del operador de transporte público 2.00 S.M.G.
+
+IV. Expedición de impresiones a tamaño gran escala de los croquis y rutas concesionadas 2.00 S.M.G.
+
+V. Cesión de derechos (concesión o permiso) 20.00 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(REFORMADA, D.O. 19 DE DICIEMBRE DE 2013)</small>
+
+VI. Reconocimiento de derechos del beneficiario como titular de concesión 10.00 S.M.G.
+
+VII. Emisión de tarjeta de información de servicio público de transporte de pasajeros 4.00 S.M.G.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O. 19 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 85-B.
 
@@ -4395,6 +3933,12 @@ ARTÍCULO 85 D.- Los ingresos que se obtengan por la recaudación de los derecho
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 20 DE DICIEMBRE DE 2010)</small>
 
+### CAPÍTULO XXI. DERECHOS POR LOS SERVICIOS DE SUPERVISIÓN, VIGILANCIA Y REGISTRO DE MÁQUINAS DE JUEGOS Y APUESTAS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 19 DE DICIEMBRE DE 2013)</small>
+
 ### CAPÍTULO XXII. DERECHOS POR LOS SERVICIOS DE INSPECCIÓN, CONTROL Y FISCALIZACIÓN QUE REALIZA LA SECRETARÍA DE LA CONTRALORÍA GENERAL
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
@@ -4429,6 +3973,16 @@ V. Por la ratificación de convenios de centros privados de mediación 4.70 S.M.
 
 La recaudación de este derecho se destinará íntegramente al Poder Judicial del Estado.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, D.O. 24 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO XXIV. DERECHOS POR LOS SERVICIOS DE AUTORIZACIÓN, REGISTRO Y SUPERVISIÓN PARA LA INSTALACIÓN Y OPERACIÓN DE CASAS DE EMPEÑO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 24 DE DICIEMBRE DE 2015)</small>
+
 ### CAPÍTULO ÚNICO
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
@@ -4446,6 +4000,44 @@ La recaudación de este derecho se destinará íntegramente al Poder Judicial de
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O. 26 DE DICIEMBRE DE 2014)</small>
 
 ### CAPÍTULO ÚNICO
+
+###### ARTÍCULO 85-R.
+
+Las personas físicas y morales que operen casas de empeño en el estado de Yucatán pagarán los derechos establecidos en este capítulo por la expedición del permiso para su instalación y funcionamiento, y por llevar a cabo su inscripción en el registro estatal de casas de empeño, con base en el estudio de cumplimiento de requisitos que realizarán las autoridades competentes del estado; así como por su revalidación anual, por cada modificación y por cada reposición del permiso otorgado.
+
+Para efectos de este capítulo, se entiende por casas de empeño, a los establecimientos que en forma habitual o profesional realicen u oferten al público contrataciones u operaciones de mutuo con interés y garantía prendaria no reguladas por leyes y autoridades financieras.
+
+Los sujetos pasivos de esta contribución deberán obtener autorización por cada establecimiento o sucursal que operen en el estado y pagar el derecho correspondiente por cada uno de ellos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O. 24 DE DICIEMBRE DE 2015)</small>
+
+###### ARTÍCULO 85-S.
+
+La Agencia de Administración Fiscal de Yucatán realizará el estudio de la solicitud presentada por el interesado así como de la documentación a que se refiere el artículo 85-W de este capítulo, a efecto de verificar que esta cumple con todos los requisitos para su funcionamiento y determinar si procede conceder el permiso o revalidación para que el establecimiento o sucursal opere como casa de empeño en el estado de Yucatán, siendo el caso, la autoridad expedirá el permiso correspondiente y efectuará su inscripción en el Registro Estatal de Casas de Empeño.
+
+El permiso otorgado será de vigencia anual y deberá solicitarse su revalidación dentro del mes anterior a su expiración. Cualquier solicitud de revalidación presentada después de concluida su vigencia, se considerará como solicitud de revalidación extemporánea.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2015)</small>
+
+###### ARTÍCULO 85-T.
+
+La Agencia de Administración Fiscal de Yucatán realizará periódicamente visitas de verificación a los establecimientos que operen como casas de empeño, a fin de supervisar y vigilar su cumplimiento a las obligaciones previstas en este capítulo. Estas visitas se sujetarán a lo dispuesto por el artículo 72 del Código Fiscal del Estado de Yucatán.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 24 DE DICIEMBRE DE 2015)</small>
+
+###### ARTÍCULO 85-U.
+
+La Agencia de Administración Fiscal de Yucatán llevará y mantendrá actualizado un registro de las casas de empeño que operan en el estado, que contendrá todos los datos relativos a las autorizaciones otorgadas, sus revalidaciones anuales, modificaciones y reposiciones.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O. 24 DE DICIEMBRE DE 2015)</small>
 
 ### CAPÍTULO ÚNICO
 
@@ -4790,3 +4382,37 @@ Las reformas contenidas en las fracciones XXIII y XXIV del artículo 85-G de la 
 Quinto. Derogación tácita
 
 Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al contenido de este decreto.
+
+D.O. 24 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 325/2015 POR EL QUE SE MODIFICA LA LEY GENERAL DE HACIENDA DEL ESTADO DE YUCATÁN".]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el 01 de enero de 2016, previa publicación en el diario oficial del gobierno del estado de Yucatán.
+
+Segundo. Impuesto sobre tenencia o uso de vehículos
+
+Las disposiciones del capítulo VII del título segundo que se deroga permanecerán vigentes con el único efecto de exigir el cumplimiento de las obligaciones que hubieran nacido durante su vigencia por la realización de las situaciones jurídicas previstas en dichas disposiciones, las cuales deberán ser cumplidas en las formas y plazos establecidos en éstas y podrán ser exigibles por la autoridad mediante las disposiciones fiscales aplicables.
+
+Tercero. Presentación de la declaración
+
+La declaración a que se refiere el artículo 47-Y de este decreto, correspondiente a los meses de enero a junio de 2016, se presentará con la información acumulada a dichos meses a más tardar el 17 de julio de 2016.
+
+Cuarto. Inaplicación del capítulo IV del título tercero
+
+El capítulo IV del título tercero de la Ley General de Hacienda del Estado de Yucatán dejará de ser aplicable a los municipios, a partir de que se hagan cargo del servicio público de panteones y su función recaudatoria inherente.
+
+Quinto. Casas de empeño
+
+Las casas de empeño que ya se encuentran operando en el territorio del estado de Yucatán dispondrán de un plazo de cinco meses, contados a partir de la entrada en vigor de este decreto, para dar cumplimiento a las disposiciones que regulan los derechos por los servicios de autorización, registro y supervisión para la instalación y operación de casas de empeño, contenidas en este decreto.
+
+La Agencia de Administración Fiscal de Yucatán podrá expedir las disposiciones que sean necesarias para la correcta y debida aplicación de este decreto.
+
+Sexto. Cálculo de los derechos previstos en el artículo 85-G
+
+Los derechos contenidos en las fracciones III y IV del artículo 85-G de la Ley General de Hacienda del Estado de Yucatán, durante los meses de enero, febrero y marzo del 2016, se calcularán de acuerdo con el último salario mínimo que estuvo vigente durante el ejercicio fiscal del 2015 en el estado de Yucatán.
+
+Séptimo. Derogación tácita
+
+Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
