@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2015-11-27"
+last_updated: "2015-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE DICIEMBRE DE 2015.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -227,7 +227,11 @@ VIII. OCTAVO CIRCUITO:
 
 IX. NOVENO CIRCUITO:
 
-1. Tres tribunales colegiados con residencia en San Luis Potosí.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO POR EL TRANSITORIO SEXTO DEL ACUERDO GENERAL 54/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 24 DE DICIEMBRE DE 2015)</small>
+
+1. Cuatro tribunales colegiados especializados: dos en materias civil y administrativa; uno en materia de trabajo, y uno en materia penal, todos con residencia en San Luis Potosí.
 
 2. Un tribunal unitario con sede en San Luis Potosí.
 
@@ -2112,3 +2116,39 @@ XXX. TRIGÉSIMO CIRCUITO: ...
 3. Cinco juzgados de Distrito en el Estado de Aguascalientes, con residencia en la ciudad del mismo nombre.
 
 XXXI. a XXXII. …”
+
+D.O.F. 24 DE DICIEMBRE DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor el uno de enero de dos mil dieciséis, con excepción de lo previsto en el transitorio TERCERO, el cual iniciará su vigencia a partir del día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación, y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal de internet del Consejo de la Judicatura Federal.
+
+TERCERO. La Coordinación de Administración Regional del Consejo de la Judicatura Federal, deberá proveer a los tribunales colegiados del Noveno Circuito, de los recursos materiales necesarios (sello oficial, directorios, placas de identificación, papelería, etc.), conforme a su denominación para que a la brevedad posible cuenten con ellos.
+
+CUARTO. Los tribunales colegiados que cambian de denominación y competencia del Noveno Circuito, conservarán todos los asuntos de las materias administrativa, civil y de trabajo turnados, radicados, en trámite, pendientes de resolución, turnados a ponencia, listados (aplazados o retirados), relacionados, pendientes de cumplimentación, así como aquellos que la ley, la jurisprudencia o la Suprema Corte de Justicia de la Nación, establezcan su conocimiento, así como los archivados de su anterior denominación. Al efecto, se mantiene la competencia originaria para continuar con las actuaciones que con posterioridad sean necesarias, para su conclusión y archivo definitivo, independientemente del cambio de denominación y competencia.
+
+Desde la fecha señalada en el artículo 2 de este Acuerdo los tribunales Colegiados que cambian de denominación y competencia del Noveno Circuito, en cuanto a los asuntos de la materia penal procederán de la siguiente manera:
+
+A) Conservarán hasta su conclusión, ejecución y archivo definitivo los asuntos de su conocimiento de la materia penal que ya hubiesen sido listados (aplazados o retirados), los relacionados, los pendientes de cumplimentación y los expedientes en archivo definitivo.
+
+Para la atención de los expedientes que se conserven, se mantiene la competencia originaria para continuar con el conocimiento de los mismos. y realizar las actuaciones que con posterioridad sean necesarias, independientemente del cambio de denominación y competencia.
+
+B) Remitirán dentro de los diez días hábiles siguientes, los asuntos de la materia penal que se encuentren en trámite y pendientes de resolución, a la oficialía de partes del Tribunal Colegiado en Materia Penal del Noveno Circuito, para su atención por el órgano judicial hasta su conclusión, ejecución y archivo definitivo.
+
+Si al momento de la remisión de los asuntos a que se ha hecho mención está pendiente el dictado de una resolución de carácter urgente, el tribunal colegiado del conocimiento de origen deberá proveer lo que en derecho proceda, hecho lo anterior, enviará el asunto.
+
+QUINTO. La integración del Pleno especializado en Materias Civil y Administrativa del Noveno Circuito, se realizará a partir del mes de enero de dos mil dieciséis, de conformidad con el Acuerdo General 8/2015 del Pleno del Consejo de la Judicatura Federal, relativo a la integración y funcionamiento de los Plenos de Circuito.
+
+SEXTO. Se reforma el numeral SEGUNDO, fracción IX, número 1 del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+"SEGUNDO. ...
+
+I. a VIII. ...
+
+IX. ...
+
+1. Cuatro tribunales colegiados especializados: dos en materias civil y administrativa; uno en materia de trabajo, y uno en materia penal, todos con residencia en San Luis Potosí.
+
+2. a 3. ...
+
+X. a XXXII. ..."
