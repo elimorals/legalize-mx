@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-del-estado-de-campeche-72269"
 country: "mx"
 rank: "ley"
 publication_date: "2009-12-21"
-last_updated: "2015-11-20"
+last_updated: "2015-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CAM"
 
 LEY DE HACIENDA DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el lunes 21 de diciembre de 2009.
 
@@ -51,9 +51,9 @@ La Hacienda Pública del Estado de Campeche se compone:
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 24 DE DICIEMBRE DE 2015)</small>
 
-I.- De los ingresos provenientes de los impuestos al comercio de libros, periódicos y revistas; sobre la extracción de materiales del suelo y subsuelo; sobre nóminas, sobre servicios de hospedaje; sobre loterías, rifas, sorteos, concursos y juegos con cruce de apuestas legalmente permitidos, adicional para la preservación del patrimonio cultural, infraestructura y deporte y, a la venta final de bebidas con contenido alcohólico;
+I.- De los ingresos provenientes de los impuestos al comercio de libros, periódicos y revistas; sobre la extracción de materiales del suelo y subsuelo; sobre nóminas; sobre servicios de hospedaje; sobre loterías, rifas, sorteos, concursos y juegos con cruce de apuestas legalmente permitidos; a las erogaciones en juegos y concursos; adicional para la preservación del patrimonio cultural, infraestructura y deporte y, a la venta final de bebidas con contenido alcohólico;
 
 II.- De los ingresos provenientes de los derechos derivados de la prestación de servicios públicos;
 
@@ -123,7 +123,7 @@ Es objeto de este impuesto la enajenación de toda clase o tipo de libros, peri�
 
 ###### ARTÍCULO 7.
 
-Son sujetos y están obligadas al pago de este impuesto las personas físicas y morales y las unidades económicas que enajenen libros, periódicos y revistas dentro del Estado de Campeche.
+Son sujetos y están obligadas (sic) al pago de este impuesto las personas físicas y morales y las unidades económicas que enajenen libros, periódicos y revistas dentro del Estado de Campeche.
 
 Para los efectos de esta Ley, se considera libro toda publicación unitaria, no periódica, impresa en cualquier soporte, cuya edición se haga en un volumen o en varios volúmenes. Dentro del concepto de libros, no quedan comprendidas aquellas publicaciones periódicas amparadas bajo el mismo título o denominación y con diferente contenido entre una publicación y otra.
 
@@ -278,6 +278,10 @@ I.- Los residentes en el Estado de Campeche, de todas las erogaciones o pagos qu
 II.- Los residentes fuera del Estado de Campeche, de todas las erogaciones o pagos que realicen de los servicios prestados en forma habitual o accidentalmente en el Estado de Campeche, independientemente del lugar en donde se realicen dichas erogaciones o pagos.
 
 También quedan comprendidos como sujetos de este impuesto, la Federación, el Estado y los Municipios, los organismos descentralizados federales, estatales y municipales, las empresas de participación estatal mayoritaria de carácter federal y estatal, las empresas de participación municipal mayoritaria, los fideicomisos constituidos por dependencias y entidades de la administración pública federal, por el Estado y por los Municipios, así como las personas de derecho público con autonomía derivada de la Constitución Federal o del Estado.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2015)</small>
+
+De igual forma, quedan comprendidas como sujetos de este impuesto las empresas productivas del Estado de cualquier orden de gobierno.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -685,6 +689,138 @@ b).- Tratándose de sorteos, cuando los participantes obtengan dicha calidad sin
 
 c).- Tratándose de sorteos, cuando todos los participantes obtengan dicha calidad a título gratuito por el solo hecho de adquirir o contratar un servicio.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO V BIS. DEL IMPUESTO A LAS EROGACIONES EN JUEGOS Y CONCURSOS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 24 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN PRIMERA. DE LOS SUJETOS Y OBJETO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2015)</small>
+
+###### ARTÍCULO 40-A.
+
+Están obligados al pago del impuesto previsto en este Capítulo las personas que realicen erogaciones para participar en las siguientes actividades en el territorio del Estado de Campeche:
+
+I. Juegos y concursos con cruce de apuestas, independientemente del nombre con el que se designen;
+
+II. Juegos y concursos en los que el premio se obtenga por el mero azar o la destreza del participante en el uso de máquinas, independientemente que en el desarrollo de los mismos se utilicen imágenes visuales electrónicas como números, símbolos, figuras u otras similares, y
+
+III. Juegos en los que sólo se reciban, capten, crucen o exploten apuestas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 24 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN SEGUNDA. DE LA BASE Y TASA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2015)</small>
+
+###### ARTÍCULO 40-B.
+
+El impuesto se calculará aplicando la tasa del 10% al monto de las erogaciones a favor de la persona física o moral que opere el establecimiento, ya sean pagos en efectivo, en especie o por cualquier otro medio que permita participar en los juegos o concursos a que se refiere el artículo 40-A.
+
+Las erogaciones a que se refiere el párrafo anterior incluyen la carga y cualquier recarga adicional que se realice mediante tarjetas, bandas magnéticas, dispositivos electrónicos, fichas, contraseñas, comprobantes o cualquier otro medio que permitan participar en los juegos o concursos a que se refieren las fracciones I y III del artículo 40-A, o el uso o acceso a las máquinas de juegos a que se refiere la fracción II del propio artículo, ya sea que dichos medios o dispositivos se usen en la fecha en que se efectúe el pago o en una posterior.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 24 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN TERCERA. DEL MOMENTO DE CAUSACIÓN
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2015)</small>
+
+###### ARTÍCULO 40-C.
+
+El impuesto se causará en el momento en que el sujeto pague al operador del establecimiento los montos o contraprestaciones que le permitan participar en dichos juegos y hasta por el monto de cada pago que se realice.
+
+El impuesto se causa, asimismo, cuando quien paga al operador del establecimiento permita a otro usuario distinto de él la participación en los juegos de apuesta o el uso de las máquinas de juegos.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 24 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN CUARTA. DE LA RECAUDACIÓN DEL IMPUESTO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2015)</small>
+
+###### ARTÍCULO 40-D.
+
+El impuesto se pagará mediante retención que efectuará el operador del establecimiento en el que se realicen los juegos o concursos o en el que se encuentren instaladas las máquinas de juegos al momento de recibir el pago o contraprestación correspondiente, y deberá enterarlo ante las oficinas autorizadas a más tardar el día veinte del mes de calendario siguiente a la fecha de su retención o el día hábil siguiente si aquel no lo fuere.
+
+Cuando el pago o contraprestación a favor del operador del establecimiento se realice en especie, el contribuyente deberá proveer de recursos en efectivo al operador del establecimiento para que éste pueda retener el impuesto. La omisión del contribuyente a lo previsto en este párrafo, no libera al operador de la responsabilidad solidaria prevista en el artículo 40-H.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 24 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN QUINTA. DE LAS OBLIGACIONES DIVERSAS DE LOS CONTRIBUYENTES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2015)</small>
+
+###### ARTÍCULO 40-E.
+
+El impuesto previsto en este Capítulo se causará y pagará con independencia del impuesto a que se refiere el artículo 35 de esta Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2015)</small>
+
+###### ARTÍCULO 40-F.
+
+Los operadores de los establecimientos en los que se realicen los juegos y concursos o en los que se instalen las máquinas de juegos, en adición a la obligación de recaudar y enterar el impuesto a que se refiere el artículo 40-D, están obligados a expedir comprobantes por cada contraprestación que cobren, incluyendo la carga y recarga, que otorguen a quienes utilicen las máquinas de juegos, en la que conste expresamente y por separado el importe recaudado.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 24 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN SEXTA. DEL DESTINO DE LAS SANCIONES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2015)</small>
+
+###### ARTÍCULO 40-G.
+
+Las sanciones económicas que, en su caso, se impongan por el incumplimiento a las obligaciones establecidas en este Capítulo se destinarán a los programas a cargo del Estado que fomenten la activación física y el deporte, así como, a la prevención y protección a la salud. Estos montos se transferirán una vez que los créditos fiscales hayan sido cubiertos y quedado firmes.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 24 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN SÉPTIMA. DE LOS RESPONSABLES SOLIDARIOS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2015)</small>
+
+###### ARTÍCULO 40-H.
+
+Serán responsables solidarios del impuesto, en adición al operador del establecimiento en el que se realicen los juegos y concursos o en los que se instalen las máquinas de juegos, cualquiera de las siguientes personas físicas o morales, cuando no sean ellas quienes reciban los pagos del contribuyente:
+
+I.- Las que organicen, administren, exploten o patrocinen los juegos referidos en el artículo 40-A;
+
+II.- Los arrendatarios de los establecimientos en los que se realicen los juegos o concursos a que se refiere el artículo 40-A;
+
+III.- Las que reciban cantidades a fin de permitir a terceros la participación en los juegos objeto del presente impuesto, y
+
+IV.- Los propietarios o legítimos poseedores de las máquinas de juegos a que se refiere este Capítulo.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE NOVIEMBRE DE 2015)</small>
@@ -699,48 +835,6 @@ c).- Tratándose de sorteos, cuando todos los participantes obtengan dicha calid
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-#### SECCIÓN SEGUNDA. DE LOS SUJETOS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-#### SECCIÓN TERCERA. DEL CÁLCULO, BASE, TASA, TABLA O TARIFA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-#### SECCIÓN CUARTA. DEL PAGO Y OBLIGACIONES
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-#### SECCIÓN PRIMERA. DEL OBJETO
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
-
-#### SECCIÓN SEGUNDA. DE LOS SUJETOS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
-
-#### SECCIÓN TERCERA. DE LA BASE
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
-
-### CAPÍTULO VII. IMPUESTO ADICIONAL PARA LA PRESERVACIÓN DEL PATRIMONIO CULTURAL, INFRAESTRUCTURA Y DEPORTE
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 26 DE DICIEMBRE DE 2013)</small>
-
-#### SECCIÓN CUARTA. DE LA TASA
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
-
 ###### ARTÍCULO 41.
 
 (DEROGADO, P.O. 20 DE NOVIEMBRE DE 2015)
@@ -749,11 +843,9 @@ c).- Tratándose de sorteos, cuando todos los participantes obtengan dicha calid
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
-#### SECCIÓN QUINTA. DEL PAGO
+#### SECCIÓN SEGUNDA. DE LOS SUJETOS
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 42.
 
@@ -775,11 +867,9 @@ c).- Tratándose de sorteos, cuando todos los participantes obtengan dicha calid
 
 > <small>(DEROGADA CON LA DENOMINACIÓN Y LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
-#### SECCIÓN SEXTA. DE LAS OBLIGACIONES
+#### SECCIÓN TERCERA. DEL CÁLCULO, BASE, TASA, TABLA O TARIFA
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 45.
 
@@ -807,11 +897,9 @@ VEHÍCULOS USADOS
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 20 DE NOVIEMBRE DE 2015)</small>
 
-#### SECCIÓN SÉPTIMA. DEL DESTINO DEL IMPUESTO
+#### SECCIÓN CUARTA. DEL PAGO Y OBLIGACIONES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 ###### ARTÍCULO 48.
 
@@ -851,7 +939,7 @@ VEHÍCULOS USADOS
 
 > <small>(ADICIONADO CON LAS SECCIONES Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
-### CAPÍTULO VIII. DEL IMPUESTO ESTATAL A LA VENTA FINAL DE BEBIDAS CON CONTENIDO ALCOHÓLICO
+### CAPÍTULO VII. IMPUESTO ADICIONAL PARA LA PRESERVACIÓN DEL PATRIMONIO CULTURAL, INFRAESTRUCTURA Y DEPORTE
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -943,6 +1031,12 @@ Los sujetos contribuyentes de este impuesto tendrán las obligaciones señaladas
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
+#### SECCIÓN SÉPTIMA. DEL DESTINO DEL IMPUESTO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
 ###### ARTÍCULO 53-G.
 
 Los ingresos que se obtengan de la recaudación del Impuesto establecido en este Capítulo se destinarán a la preservación del patrimonio cultural del Estado, infraestructura y deporte, así mismo podrán utilizarse como fuente de financiamiento para su aportación en convenios de coordinación, reasignación o paripassu con el gobierno federal.
@@ -951,7 +1045,17 @@ Los ingresos que se obtengan de la recaudación del Impuesto establecido en este
 
 > <small>(ADICIONADO CON LAS SECCIONES Y LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
-### CAPÍTULO I. POR SERVICIOS PRESTADOS POR LAS AUTORIDADES DEL REGISTRO CIVIL
+### CAPÍTULO VIII. DEL IMPUESTO ESTATAL A LA VENTA FINAL DE BEBIDAS CON CONTENIDO ALCOHÓLICO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+#### SECCIÓN PRIMERA. DEL OBJETO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 53-H.
 
@@ -965,6 +1069,12 @@ Se entiende que la venta se efectúa en territorio del Estado, si en él se llev
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
+#### SECCIÓN SEGUNDA. DE LOS SUJETOS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 53-I.
 
 Son sujetos de este impuesto, las personas físicas o morales que realicen en territorio del Estado la venta final en envase cerrado de bebidas con contenido alcohólico, excepto cerveza.
@@ -972,6 +1082,12 @@ Son sujetos de este impuesto, las personas físicas o morales que realicen en te
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+#### SECCIÓN TERCERA. DE LA BASE
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 53-J.
 
@@ -981,6 +1097,12 @@ La base del Impuesto es el precio percibido por la venta de las bebidas señalad
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
+#### SECCIÓN CUARTA. DE LA TASA
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 53-K.
 
 La tasa del impuesto será del 4.5 por ciento sobre el ingreso percibido por la venta de las bebidas objeto de este impuesto.
@@ -988,6 +1110,12 @@ La tasa del impuesto será del 4.5 por ciento sobre el ingreso percibido por la 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+#### SECCIÓN QUINTA. DEL PAGO
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 53-L.
 
@@ -1006,6 +1134,12 @@ El impuesto se calculará mensualmente y se enterará al Estado a más tardar el
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE DICIEMBRE DE 2013)</small>
+
+#### SECCIÓN SEXTA. DE LAS OBLIGACIONES
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 53-N.
 
@@ -1043,7 +1177,7 @@ II.- Registrar la obligación de pago del presente impuesto y los establecimient
 
 ## TÍTULO TERCERO. DE LOS DERECHOS
 
-### CAPÍTULO II. POR SERVICIOS PRESTADOS POR LAS AUTORIDADES DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DE COMERCIO
+### CAPÍTULO I. POR SERVICIOS PRESTADOS POR LAS AUTORIDADES DEL REGISTRO CIVIL
 
 ###### ARTÍCULO 54.
 
@@ -1139,7 +1273,7 @@ b) Cambio del Régimen Patrimonial 25
 
 El pago de los derechos que establece el artículo anterior, deberá hacerse por el contribuyente, previamente a la prestación de los servicios.
 
-### CAPÍTULO III. POR CERTIFICACIONES Y COPIAS CERTIFICADAS
+### CAPÍTULO II. POR SERVICIOS PRESTADOS POR LAS AUTORIDADES DEL REGISTRO PÚBLICO DE LA PROPIEDAD Y DE COMERCIO
 
 ###### ARTÍCULO 56.
 
@@ -1301,7 +1435,7 @@ XXVI.- Por la verificación de constancia de aviso
 
 de testamento 1
 
-### CAPÍTULO IV. POR NOTARIADO Y ARCHIVOS DE INSTRUMENTOS PÚBLICOS NOTARIALES
+### CAPÍTULO III. POR CERTIFICACIONES Y COPIAS CERTIFICADAS
 
 ###### ARTÍCULO 57.
 
@@ -1395,7 +1529,7 @@ No se cobrarán costos de envío cuando el solicitante manifieste expresamente e
 
 El pago de estos derechos deberá ser cubierto en las oficinas recaudadoras de la Secretaría de Finanzas o ante las instituciones de crédito autorizadas, las que expedirán el comprobante correspondiente, mismo que deberá ser presentado ante la autoridad respectiva, previo a la obtención del servicio.
 
-### CAPÍTULO V. POR EXPEDICIÓN DE TÍTULOS
+### CAPÍTULO IV. POR NOTARIADO Y ARCHIVOS DE INSTRUMENTOS PÚBLICOS NOTARIALES
 
 ###### ARTÍCULO 61.
 
@@ -1477,7 +1611,7 @@ Por escrituras no especificadas en las que no se determine interés pecuniario a
 
 El pago de estos derechos deberá ser cubierto en las oficinas recaudadoras de la Secretaría de Finanzas o ante las instituciones de crédito autorizadas, las que expedirán el comprobante correspondiente, mismo que deberá ser presentado ante la autoridad respectiva, previo a la obtención del servicio.
 
-### CAPÍTULO VI. POR EL USO O APROVECHAMIENTO DE BIENES PROPIEDAD DEL ESTADO O DE BIENES CONCESIONADOS AL ESTADO
+### CAPÍTULO V. POR EXPEDICIÓN DE TÍTULOS
 
 ###### ARTÍCULO 68.
 
@@ -1511,7 +1645,7 @@ b) Revalidación de títulos 1
 
 El pago de estos derechos deberá ser cubierto en las oficinas recaudadoras de la Secretaría de Finanzas o ante las instituciones de crédito autorizadas, las que expedirán el comprobante correspondiente, mismo que deberá ser presentado ante la autoridad respectiva, previo a la obtención del servicio.
 
-### CAPÍTULO VII. POR SERVICIOS PRESTADOS POR LAS AUTORIDADES DE LAS SECRETARÍAS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL Y SUS ÓRGANOS ADMINISTRATIVOS DESCONCENTRADOS
+### CAPÍTULO VI. POR EL USO O APROVECHAMIENTO DE BIENES PROPIEDAD DEL ESTADO O DE BIENES CONCESIONADOS AL ESTADO
 
 ###### ARTÍCULO 70.
 
@@ -1545,11 +1679,7 @@ Autobuses de más de 30 pasajeros 60.00
 
 El cobro de los derechos señalados aplicarán en los términos, tramos, modalidades y condiciones que señala la Ley que Establece Disposiciones para el Tránsito en el Camino de Acceso a la Zona Arqueológica de Calakmul, publicada en el Periódico Oficial del Estado, en fecha 29 de diciembre de 1994.
 
-### CAPÍTULO VIII. EXPEDICIÓN Y REVALIDACIÓN DE LICENCIAS Y PERMISOS EN MATERIA DE BEBIDAS ALCOHÓLICAS
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+### CAPÍTULO VII. POR SERVICIOS PRESTADOS POR LAS AUTORIDADES DE LAS SECRETARÍAS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL Y SUS ÓRGANOS ADMINISTRATIVOS DESCONCENTRADOS
 
 ###### ARTÍCULO 72.
 
@@ -2023,7 +2153,11 @@ sus modalidades. 10
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
-### CAPÍTULO I. POR ENAJENACIÓN DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL ESTADO
+### CAPÍTULO VIII. EXPEDICIÓN Y REVALIDACIÓN DE LICENCIAS Y PERMISOS EN MATERIA DE BEBIDAS ALCOHÓLICAS
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 73.
 
@@ -2191,15 +2325,15 @@ VII.- Por comodato anualmente 1,296
 
 Las autoridades estatales regularán en sus reglamentos respectivos o mediante disposiciones de carácter general, los requisitos para la obtención de estas licencias o permisos en materia de bebidas alcohólicas.
 
+### CAPÍTULO I. POR ENAJENACIÓN DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL ESTADO
+
 ### CAPÍTULO II. POR EL IMPORTE DE LOS ARRENDAMIENTOS DE BIENES MUEBLES E INMUEBLES PROPIEDAD DEL ESTADO
 
 ### CAPÍTULO III. POR TALLERES GRÁFICOS Y PERIÓDICO OFICIAL DEL ESTADO
 
-### CAPÍTULO IV. POR BIENES MOSTRENCOS Y VACANTES
-
 ## TÍTULO CUARTO. DE LOS PRODUCTOS
 
-### CAPÍTULO V. POR INSTITUCIONES DE ASISTENCIA SOCIAL
+### CAPÍTULO IV. POR BIENES MOSTRENCOS Y VACANTES
 
 ###### ARTÍCULO 80.
 
@@ -2217,13 +2351,13 @@ Los muebles e inmuebles que el Estado se haya adjudicado en pago de contribucion
 
 Los bienes a que se refiere el artículo anterior podrán ser donados a los Municipios e instituciones de beneficencia pública para fines directos a la comunidad y con las salvedades o condiciones que el Ejecutivo determine.
 
-### CAPÍTULO VI. POR LAS UTILIDADES DE LOS ORGANISMOS DESCENTRALIZADOS, EMPRESAS DE PARTICIPACIÓN ESTATAL MAYORITARIA Y FIDEICOMISOS
+### CAPÍTULO V. POR INSTITUCIONES DE ASISTENCIA SOCIAL
 
 ###### ARTÍCULO 84.
 
 Ingresarán íntegramente a la Hacienda Pública del Estado los importes por concepto de arrendamiento de bienes muebles e inmuebles propiedad del Estado.
 
-### CAPÍTULO VII. OTROS PRODUCTOS
+### CAPÍTULO VI. POR LAS UTILIDADES DE LOS ORGANISMOS DESCENTRALIZADOS, EMPRESAS DE PARTICIPACIÓN ESTATAL MAYORITARIA Y FIDEICOMISOS
 
 ###### ARTÍCULO 85.
 
@@ -2269,7 +2403,7 @@ a) Ejemplar 2.25
 
 b) Otras publicaciones editadas, se cobrará el costo de la impresión.
 
-### CAPÍTULO I. GARANTÍAS Y MULTAS
+### CAPÍTULO VII. OTROS PRODUCTOS
 
 ###### ARTÍCULO 88.
 
@@ -2279,19 +2413,19 @@ Ingresarán a la Hacienda Pública del Estado, previo al procedimiento correspon
 
 Los bienes de las personas que mueran intestadas, careciendo de los herederos a que se refieren los Capítulos I al V del Título Cuarto del Libro Tercero del Código Civil vigente en el Estado, serán adjudicados a la Hacienda Pública del Estado. A las personas que denuncien ante las autoridades competentes el hecho, así como la situación a que alude el artículo anterior, se les otorgará una participación del 20 % sobre el importe de los bienes denunciados, si no existe reclamación alguna.
 
-### CAPÍTULO II. REINTEGROS
+### CAPÍTULO I. GARANTÍAS Y MULTAS
 
 ###### ARTÍCULO 90.
 
 La Secretaría de Finanzas del Estado recaudará directamente las cuotas por los servicios que presten las instituciones de asistencia social estatales, con excepción de aquellas instituciones que hayan sido creadas como organismos descentralizados de la administración pública estatal.
 
-### CAPÍTULO III. DONACIONES
+### CAPÍTULO II. REINTEGROS
 
 ###### ARTÍCULO 91.
 
 Corresponden a la Hacienda Pública del Estado de Campeche, los ingresos por utilidades de los organismos descentralizados, empresas de participación estatal y fideicomisos.
 
-### CAPÍTULO IV. PRÉSTAMOS
+### CAPÍTULO III. DONACIONES
 
 ###### ARTÍCULO 92.
 
@@ -2299,7 +2433,7 @@ Se consideran como otros Productos aquellos que no se encuentren, comprendidos e
 
 ## TÍTULO QUINTO. DE LOS APROVECHAMIENTOS
 
-### CAPÍTULO V. APROVECHAMIENTOS DIVERSOS
+### CAPÍTULO IV. PRÉSTAMOS
 
 ###### ARTÍCULO 93.
 
@@ -2313,7 +2447,7 @@ Las garantías constituidas para la autorización de permisos especiales a menor
 
 Ingresarán a la Hacienda Pública las multas impuestas administrativamente por cualquier autoridad del Estado, las establecidas en calidad de penas en los procesos de orden judicial y las provenientes de la conmutación de sanciones que dispongan las Leyes respectivas. Las autoridades que las impongan, tienen obligación de comunicarlo a las autoridades hacendarias.
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO V. APROVECHAMIENTOS DIVERSOS
 
 ###### ARTÍCULO 96.
 
@@ -2323,7 +2457,7 @@ Las cantidades pagadas de más o indebidamente con cargo al Presupuesto de Egres
 
 También ingresarán por este concepto las responsabilidades administrativas que se finquen por autoridad competente y que se hagan efectivas.
 
-### CAPÍTULO PRIMERO
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 98.
 
@@ -2331,19 +2465,17 @@ Ingresarán al Erario Estatal las donaciones que se hagan en favor del Estado. C
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
-### CAPÍTULO SEGUNDO. DE LOS INGRESOS DERIVADOS DE FINANCIAMIENTOS
-
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
-
-ARTÍCULO 105 BIS.- Son los ingresos obtenidos por la celebración de empréstitos o créditos a favor del Estado, los cuales se contratarán, regularán, ejercerán y aplicarán de conformidad con la Ley de Deuda Pública del Estado de Campeche y sus Municipios.
+### CAPÍTULO PRIMERO
 
 ###### ARTÍCULO 99.
 
 (DEROGADO, P.O. 26 DE DICIEMBRE DE 2011)
 
-### CAPÍTULO ÚNICO
+### CAPÍTULO SEGUNDO. DE LOS INGRESOS DERIVADOS DE FINANCIAMIENTOS
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
+
+ARTÍCULO 105 BIS.- Son los ingresos obtenidos por la celebración de empréstitos o créditos a favor del Estado, los cuales se contratarán, regularán, ejercerán y aplicarán de conformidad con la Ley de Deuda Pública del Estado de Campeche y sus Municipios.
 
 ###### ARTÍCULO 100.
 
@@ -2367,13 +2499,13 @@ III.- Las fianzas cuya pérdida se declare por resolución firme a favor del Est
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
+
 ## TÍTULO SÉPTIMO. DE LOS INGRESOS EXTRAORDINARIOS
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ### CAPÍTULO ÚNICO
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 103.
 
@@ -2383,7 +2515,7 @@ Se consideran accesorios de las contribuciones y de los aprovechamientos, lo exp
 
 ### CAPÍTULO ÚNICO
 
-> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2010)</small>
 
 ###### ARTÍCULO 104.
 
@@ -2404,6 +2536,10 @@ Los ingresos a que se refiere el artículo que antecede, serán los siguientes:
 4.- Aportación a cargo de contratistas y destajistas que realicen obras en el Estado, por el 1% sobre el pago de cada una, para obras y acciones de beneficio social.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE DICIEMBRE DE 2011)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2011)</small>
 
 ## TÍTULO NOVENO. DE LOS INCENTIVOS
 
@@ -2672,3 +2808,19 @@ SEGUNDO.- La determinación y los pagos del Impuesto Sobre Tenencia o Uso de Veh
 TERCERO.- La determinación y los pagos del Impuesto Sobre Tenencia o Uso de Vehículos de carácter estatal correspondiente a ejercicios fiscales de 2015 y anteriores, se realizarán conforme a las disposiciones jurídicas vigentes en el ejercicio fiscal correspondiente atendiendo, en su caso, a las reglas legales de prescripción y caducidad.
 
 CUARTO.- Se derogan todas las disposiciones legales o reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 24 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 11 POR EL QUE “SE ADICIONA UN PÁRRAFO TERCERO AL ARTÍCULO 21 DE LA LEY DE HACIENDA DEL ESTADO DE CAMPECHE”.]
+
+PRIMERO.- El presente decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias de igual o menor jerarquía del marco jurídico estatal, en lo que se opongan al contenido del presente decreto.
+
+P.O. 24 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 12 POR EL QUE "SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 1" Y "SE ADICIONA AL TÍTULO SEGUNDO UN CAPÍTULO V BIS DENOMINADO "DEL IMPUESTO A LAS EROGACIONES EN JUEGOS Y CONCURSOS" INTEGRADO POR UNA SECCIÓN PRIMERA DENOMINADA "DE LOS SUJETOS Y OBJETO" CON EL ARTÍCULO 40-A, UNA SECCIÓN SEGUNDA DENOMINADA "DE LA BASE Y TASA" CON EL ARTÍCULO 40-B, UNA SECCIÓN TERCERA DENOMINADA "DEL MOMENTO DE CAUSACIÓN" CON EL ARTÍCULO 40-C, UNA SECCIÓN CUARTA DENOMINADA "DE LA RECAUDACIÓN DEL IMPUESTO" CON EL ARTÍCULO 40-D, UNA SECCIÓN QUINTA DENOMINADA "DE LAS OBLIGACIONES DIVERSAS DE LOS CONTRIBUYENTES" CON LOS ARTÍCULOS 40-E Y 40-F, UNA SECCIÓN SEXTA DENOMINADA "DEL DESTINO DE LAS SANCIONES" CON EL ARTÍCULO 40-G Y UNA SECCIÓN SÉPTIMA DENOMINADA "DE LOS RESPONSABLES SOLIDARIOS" CON EL ARTÍCULO 40-H, TODOS DE LA LEY DE HACIENDA DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor el día primero de enero del año 2016, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones legales y reglamentarias del marco jurídico estatal, que se opongan al contenido del presente decreto.
