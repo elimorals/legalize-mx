@@ -4,7 +4,7 @@ identifier: "LIEPS"
 country: "mx"
 rank: "ley"
 publication_date: "1980-12-30"
-last_updated: "2015-11-18"
+last_updated: "2015-12-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=447&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -20,7 +20,9 @@ abbreviation: "LIEPS"
 ---
 # LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCION Y SERVICIOS
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+[NOTA 1: EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS DECRETOS DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]
+
+[NOTA 2: PARA LA ACTUALIZACIÓN DE LAS CUOTAS SE SUGIERE CONSULTAR EL ACUERDO 26/2015 POR EL QUE SE ACTUALIZAN LAS CUOTAS QUE SE ESPECIFICAN EN MATERIA DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS, PUBLICADO EN EL D.O.F. DE 24 DE DICIEMBRE DE 2015.]
 
 LEY DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS
 
@@ -69,6 +71,8 @@ La Federación, el Distrito Federal, los Estados, los Municipios, los organismos
 > <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2002)</small>
 
 El impuesto a que hace referencia esta Ley no se considera violatorio de precios o tarifas, incluyendo los oficiales.
+
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LAS CUOTAS SE SUGIERE CONSULTAR EL ACUERDO 26/2015 POR EL QUE SE ACTUALIZAN LAS CUOTAS QUE SE ESPECIFICAN EN MATERIA DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS, PUBLICADO EN EL D.O.F. DE 24 DE DICIEMBRE DE 2015. VÉASE ARCHIVO ANEXO]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE NOVIEMBRE DE 2009)</small>
 
@@ -253,6 +257,8 @@ III. En la exportación definitiva que realicen las empresas residentes en el pa
 Para los efectos de esta fracción, la tasa se aplicará al valor de la enajenación a que se refiere el artículo 11 de esta Ley y, en su defecto, a la base gravable del impuesto general de exportación en términos de la Ley Aduanera.
 
 Las exportaciones a las que se les aplica la tasa del 0%, producirán los mismos efectos legales que los actos o actividades por los que se deba pagar el impuesto conforme a esta Ley y los productores que exporten serán considerados como contribuyentes del impuesto que establece esta Ley por los bienes a que se refiere esta fracción.
+
+> <small>[N. DE E. PARA LA ACTUALIZACIÓN DE LAS CUOTAS SE SUGIERE CONSULTAR EL ACUERDO 26/2015 POR EL QUE SE ACTUALIZAN LAS CUOTAS QUE SE ESPECIFICAN EN MATERIA DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS, PUBLICADO EN EL D.O.F. DE 24 DE DICIEMBRE DE 2015. VÉASE ARCHIVO ANEXO]</small>
 
 > <small>(REFORMADO, D.O.F. 18 DE NOVIEMBRE DE 2015)</small>
 
@@ -3233,3 +3239,9 @@ VI. Con la finalidad de que se den a conocer a más tardar el 31 de diciembre de
 ## Transitorio
 
 Único. El presente Decreto entrará en vigor el 1 de enero de 2016.
+
+D.O.F. 24 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO POR EL QUE SE ACTUALIZAN LAS CUOTAS QUE SE ESPECIFICAN EN MATERIA DEL IMPUESTO ESPECIAL SOBRE PRODUCCIÓN Y SERVICIOS ".]
+
+ÚNICO.- El presente Acuerdo entrará en vigor el día de su publicación en el Diario Oficial de la Federación.
