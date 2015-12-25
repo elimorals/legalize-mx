@@ -4,7 +4,7 @@ identifier: "SIN-codigo-penal-para-el-estado-de-sinaloa-6529"
 country: "mx"
 rank: "codigo"
 publication_date: "1992-10-28"
-last_updated: "2015-12-18"
+last_updated: "2015-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6529&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 CÓDIGO PENAL PARA EL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2015.
 
 Código publicado en la Sección Primera del Periódico Oficial del Estado de Sinaloa, el miércoles 28 de octubre de 1992.
 
@@ -2207,13 +2207,17 @@ VI.- Quebrantando la confianza o seguridad derivada de una relación de servicio
 
 VII.- Recayendo sobre equipaje o valores de viajeros en cualquier lugar durante el viaje;
 
-> <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2015)</small>
 
-VIII.- Recayendo sobre vales o cualquier dispositivo electrónico en forma de tarjeta plástica, emitidos por personas morales, destinados al canje de bienes y servicios; o
+VIII.- Recayendo sobre vales o cualquier dispositivo electrónico en forma de tarjeta plástica, emitidos por personas morales, destinados al canje de bienes y servicios;
 
-> <small>(ADICIONADA, P.O. 18 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2015)</small>
 
-IX.- Recayendo sobre bienes muebles de cualquier institución educativa pública, o privada con autorización o reconocimiento de validez oficial de estudios.
+IX.- Recayendo sobre bienes muebles de cualquier institución educativa pública, o privada con autorización o reconocimiento de validez oficial de estudios; o
+
+> <small>(ADICIONADA, P.O. 25 DE DICIEMBRE DE 2015)</small>
+
+X.- Respecto de bienes, productos, frutos cosechados o por cosechar, semillas, materiales, equipo, maquinaria, implementos, insumos, aditamentos o cualquier cosa relacionada, destinada, utilizada o propia de la actividad agrícola.
 
 ###### ARTICULO 205.
 
@@ -4300,3 +4304,7 @@ P.O. 25 DE MAYO DE 2015.
 P.O. 18 DE DICIEMBRE DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 25 DE DICIEMBRE DE 2015.
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
