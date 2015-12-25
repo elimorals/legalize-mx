@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-hacienda-para-el-estado-de-sinaloa-7207"
 country: "mx"
 rank: "ley"
 publication_date: "1978-11-15"
-last_updated: "2015-12-09"
+last_updated: "2015-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE HACIENDA DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Sinaloa, el 15 de noviembre de 1978.
 
@@ -3975,11 +3975,11 @@ El Poder Ejecutivo de Estado de Sinaloa, a través de la Secretaría de Administ
 
 P.O. 26 DE DICIEMBRE DE 2011.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO PRIMERO.
 
-La vigencia del presente Decreto será del 1° de enero al 31 de diciembre del año 2015, previa publicación en el Periódico Oficial "El Estado de Sinaloa".
+La vigencia del presente Decreto será del 1º de enero al 31 de diciembre del año 2016, previa publicación en el Periódico Oficial “El Estado de Sinaloa”.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
@@ -4023,35 +4023,11 @@ P.O. 9 DE DICIEMBRE DE 2015.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa".
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 136.- POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO, DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS Y DE LA LEY DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE MÉXICO”.]
+P.O. 25 DE DICIEMBRE DE 2015.
 
-PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 444”.]
 
-SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
-
-TERCERO.- El Presupuesto de Egresos y las Leyes de Ingresos deberán elaborarse de conformidad con las reglas y criterios de disciplina financiera, equilibrio presupuestario y responsabilidad hacendaria que al respecto se establecen en el presente Decreto y en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, atendiendo a los plazos establecidos en este último ordenamiento.
-
-CUARTO.- Las disposiciones relacionadas con el equilibrio presupuestario y la responsabilidad hacendaria a que se refiere el Título Segundo de la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios, entrarán en vigor para efectos del Estado y sus entes públicos en el ejercicio fiscal 2017, y para los Municipios y sus entes públicos en el ejercicio fiscal 2018, con las salvedades previstas en la citada Ley.
-
-QUINTO.- El porcentaje a que hace referencia el artículo 292 Ter del Código Financiero del Estado de México y Municipios, relativo a los adeudos del ejercicio fiscal anterior del Estado, será del 5 por ciento para el ejercicio 2017, 4 por ciento para el 2018, 3 por ciento para el 2019 y, a partir del 2020 se observará el porcentaje establecido en el artículo citado.
-
-Para el caso de los municipios, será del 5.5 por ciento para el año 2018, 4.5 por ciento para el año 2019, 3.5 por ciento para el año 2020 y, a partir del año 2021 será hasta por el 2.5 por ciento.
-
-SEXTO.- Para la aplicación del artículo 292 Quáter del Código Financiero del Estado de México y Municipios, relativo al nivel de aportación al fideicomiso para realizar acciones preventivas o atender daños ocasionados por desastres naturales, corresponderá a un 2.5 por ciento para el año 2017, 5.0 por ciento para el año 2018, 7.5 por ciento para el año 2019 y, a partir del año 2020 será de 10 por ciento.
-
-SÉPTIMO.- La fracción I del artículo 292 Quintus del Código Financiero del Estado de México y Municipios, entrará en vigor para efectos del Presupuesto de Egresos correspondiente al ejercicio fiscal 2018.
-
-Adicionalmente, los servicios personales asociados a seguridad pública y al personal médico, paramédico y afín, estarán exentos del cumplimiento de lo dispuesto en el artículo citado hasta el año 2020. En ningún caso, la excepción transitoria deberá considerar personal administrativo.
-
-Las nuevas leyes federales y estatales o reformas a las mismas, a que se refiere el último párrafo de la mencionada fracción serán aquéllas que se emitan con posterioridad a la entrada en vigor de este Decreto.
-
-OCTAVO.- Los ingresos excedentes derivados de ingresos de libre disposición a que hace referencia el artículo 317 Bis A Segundo Párrafo fracción I del Código Financiero del Estado de México y Municipios, podrán destinarse a reducir el balance presupuestario de recursos disponibles negativo de ejercicios anteriores, a partir de la entrada en vigor de este Decreto y hasta el ejercicio fiscal 2022.
-
-En lo correspondiente a los ingresos excedentes derivados de ingresos de libre disposición del Estado, podrán destinarse a los rubros mencionados en el artículo 317 Bis A segundo párrafo, sin limitación alguna, siempre y cuando el Estado se clasifique en un nivel de endeudamiento sostenible de acuerdo al Sistema de Alertas; adicionalmente podrán destinarse a gasto corriente hasta el ejercicio fiscal 2018.
-
-NOVENO.- Se derogan las disposiciones jurídicas de igual o menor jerarquía que se opongan a lo dispuesto en este Decreto.
-
-G.G. 20 DE DICIEMBRE DE 2016.
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 178.- POR EL QUE SE REFORMAN DIVERSOS ORDENAMIENTOS DEL ESTADO DE MÉXICO EN MATERIA DE DESINDEXACIÓN DE SALARIO MÍNIMO EN LA ENTIDAD”.]
 
