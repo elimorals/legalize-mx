@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-823-que-regula-las-construcciones-publicas-y-74401"
 country: "mx"
 rank: "ley"
 publication_date: "2010-03-31"
-last_updated: "2010-03-31"
+last_updated: "2015-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74401&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUMERO 823 QUE REGULA LAS CONSTRUCCIONES PUBLICAS Y PRIVADAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 31 de marzo de 2010.
 
@@ -303,7 +303,13 @@ I. Requerirán de la correspondiente licencia de construcción, salvo los casos 
 
 II. Se sujetarán a la normatividad contenida en los Programas de Desarrollo Urbano correspondientes y, en su caso, a los demás ordenamientos legales aplicables;
 
-III. Dispondrán de cajones de estacionamiento para vehículos;
+> <small>(REFORMADA, G.O. 25 DE DICIEMBRE DE 2015)</small>
+
+III. Dispondrán de cajones de estacionamiento para vehículos en la cantidad que establezcan los Planes y Programas de Desarrollo Urbano y Regional, y a falta de éstos, según lo establecido por el Reglamento de esta Ley.
+
+Tratándose de actividades comerciales, el uso de los cajones de estacionamiento a que se refiere el párrafo anterior, deberá ser sin costo para el usuario, a excepción de las que, su actividad directa sea exclusivo de ese servicio. Se podrá efectuar el cobro de una contraprestación, a las personas que no acrediten haber realizado la compra de un producto o pago de un servicio, en algún establecimiento integrante del centro determinado.
+
+El incumplimiento de esta disposición será considerado infracción administrativa sancionada por los Bandos de Policía y Buen Gobierno, cuyo monto se fijará en las Leyes de Ingresos de los Municipios.
 
 IV. Garantizarán la iluminación, ventilación y asoleamiento, así como la mitigación de defectos negativos hacia las construcciones vecinas;
 
@@ -924,3 +930,13 @@ Licenciado Fidel Herrera Beltrán
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 25 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 612 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO URBANO, ORDENAMIENTO TERRITORIAL Y VIVIENDA Y DE LA LEY QUE REGULA LAS CONSTRUCCIONES PÚBLICAS Y PRIVADAS, TODAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
