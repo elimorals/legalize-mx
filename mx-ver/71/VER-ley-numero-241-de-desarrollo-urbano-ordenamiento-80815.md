@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-241-de-desarrollo-urbano-ordenamiento-80815"
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-13"
-last_updated: "2015-12-16"
+last_updated: "2015-12-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80815&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NUMERO 241 DE DESARROLLO URBANO, ORDENAMIENTO TERRITORIAL Y VIVIENDA PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 25 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Número Extraordinario a la Gaceta Oficial del Estado de Veracruz, el miércoles 13 de abril de 2011.
 
@@ -863,6 +863,10 @@ e) Comunicaciones y transporte; y
 
 f) Administración pública y justicia.
 
+> <small>(ADICIONADO, G.O. 25 DE DICIEMBRE DE 2015)</small>
+
+Tratándose de comercio y abasto, el uso del servicio de estacionamiento deberá ser gratuito y de libre acceso, se exceptúa de lo anterior el servicio proporcionado a los usuarios que no adquieran bienes o servicio en la plaza o centro comercial y únicamente hagan uso del servicio de estacionamiento público, dicha tarifa será aprobada por el Ayuntamiento que corresponda; y se sujetará a lo establecido en la fracción III del artículo 32 de la Ley que Regula las Construcciones Públicas y Privadas del Estado de Veracruz de Ignacio de la Llave.
+
 ### CAPÍTULO SEXTO. Sustentabilidad del Desarrollo Urbano y de la Vivienda
 
 ###### Artículo 46.
@@ -1488,3 +1492,11 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan a este Decreto.
 
 Tercero. Las modificaciones a la estructura orgánica del Instituto Veracruzano de la Vivienda, estarán sujetas a la suficiencia presupuestal que le corresponda y a las autorizaciones que, en el ámbito de sus competencias, emitan la Secretaría de Finanzas y Planeación del Estado de Veracruz y la Contraloría General del Estado de Veracruz; conforme a criterios de austeridad, eficiencia y racionalidad del gasto público.
+
+G.O. 25 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 612 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE DESARROLLO URBANO, ORDENAMIENTO TERRITORIAL Y VIVIENDA Y DE LA LEY QUE REGULA LAS CONSTRUCCIONES PÚBLICAS Y PRIVADAS, TODAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
