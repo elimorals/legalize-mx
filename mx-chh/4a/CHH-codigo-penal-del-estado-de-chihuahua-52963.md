@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2015-05-30"
+last_updated: "2015-12-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2015.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -4055,6 +4055,10 @@ II. Si excediera de cuatro metros cúbicos, o su equivalente en producto transfo
 
 Las penas a que se hace referencia en los artículos 358 y 359 de este Código, se incrementarán hasta en tres años más de prisión y multa de hasta mil días de salario mínimo, cuando los recursos forestales maderables o no maderables provengan de un área natural protegida o una reserva ecológica.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2015)</small>
+
+Así mismo, las penas previstas en los artículos 358 y 359 de este Código, se incrementarán hasta en diez años más de prisión y multa de hasta tres mil veces el salario mínimo, cuando el responsable sea servidor público y tenga como obligación proteger el medio ambiente, o dentro de sus funciones se encuentren las de prevenir, investigar o sancionar al responsable de estos delitos.
+
 > <small>(ADICIONADO, P.O. 23 DE MAYO DE 2012)</small>
 
 ###### Artículo 360 Bis.
@@ -4193,17 +4197,21 @@ DELITOS CONTRA EL DESARROLLO FITOSANITARIO
 
 Al que ingrese, envíe o movilice dentro del Estado, vegetales, sus productos o subproductos, vehículos de transporte, maquinaria, materiales, equipos, agentes patogénicos, cuando los mismos ocasionen o puedan ocasionar daños a la agricultura estatal, sin contar con la documentación fitosanitaria, se le impondrá pena de dos a cinco años de prisión y de mil a diez mil días multa.
 
-> <small>(ADICIONADO, P.O. 7 DE MARZO DE 2015)</small>
+(NOTA: EL 15 DE AGOSTO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 5/2016, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 27 DE DICIEMBRE DE 2015 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 371.
 
-Al que evada un Punto de Verificación Interna, teniendo la obligación de ser inspeccionado en el mismo, al ingresar o movilizar en el Estado, vegetales, sus productos o subproductos, vehículos de transporte, maquinaria, materiales, equipos, agentes patogénicos, se le impondrá pena de uno a cuatro años de prisión y de mil a diez mil días multa.
+Al que evada un Punto de Verificación Interna o Interna Estatal, teniendo la obligación de ser inspeccionado en el mismo, al ingresar o movilizar en el Estado, vegetales, sus productos o subproductos, vehículos de transporte, maquinaria, materiales, equipos, agentes patogénicos, se le impondrá pena de uno a cuatro años de prisión y de mil a diez mil días multa.
+
+(NOTA: EL 15 DE AGOSTO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 5/2016, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 27 DE DICIEMBRE DE 2015 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
 > <small>(ADICIONADO, P.O. 7 DE MARZO DE 2015)</small>
 
 ###### Artículo 372.
 
-No se aplicará pena alguna respecto a lo dispuesto por los dos artículos que anteceden, cuando el sujeto activo realice la actividad exclusivamente con fines de autoconsumo. Lo anterior, sin perjuicio de la aplicación de medidas administrativas necesarias para la preservación del desarrollo fitosanitario.
+No se aplicará pena alguna RESPECTO A LO DISPUESTO POR LOS DOS ARTÍCULOS QUE ANTECEDEN, cuando el sujeto activo realice la actividad exclusivamente con fines de autoconsumo. Lo anterior, sin perjuicio de la aplicación de medidas administrativas necesarias para la preservación del desarrollo fitosanitario.
 
 > <small>(ADICIONADO, P.O. 7 DE MARZO DE 2015)</small>
 
@@ -4215,11 +4223,13 @@ I. Al que expida, emita o suscriba certificados en materia fitosanitaria y de si
 
 II. Al que permita o autorice, por cualquier medio, el ingreso o movilización dentro del territorio estatal, de vegetales, sus productos o subproductos, vehículos de transporte, maquinaria, materiales, equipos, agentes patogénicos, que no cumplan con los requisitos exigidos por la normatividad respectiva.
 
+(NOTA: EL 15 DE AGOSTO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 5/2016, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 27 DE DICIEMBRE DE 2015 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
 > <small>(ADICIONADO, P.O. 7 DE MARZO DE 2015)</small>
 
 ###### Artículo 374.
 
-Si en la comisión de cualquiera de las conductas previstas en los artículos anteriores se afecta el estatus fitosanitario del Estado, las sanciones se incrementarán hasta en un tercio de la pena a imponer.
+Si en la comisión de cualquiera de las conductas PREVISTAS EN LOS ARTÍCULOS ANTERIORES se afecta el estatus fitosanitario del Estado, las sanciones se incrementarán hasta en un tercio de la pena a imponer.
 
 ## TRANSITORIOS
 
@@ -4262,8 +4272,6 @@ Cuando algún ordenamiento jurídico local haga referencia a la figura de la acc
 ###### ARTÍCULO SÉPTIMO.
 
 (DEROGADO, P.O. 9 DE FEBRERO DE 2013)
-
-.
 
 DADO en el Salón de Sesiones del Poder Legislativo, en la ciudad de Chihuahua, Chih., a los treinta días del mes de noviembre del año dos mil seis.
 
@@ -4706,3 +4714,19 @@ La modificación o reubicación de las porciones normativas y las consecuencias 
 ###### ARTÍCULO CUARTO.
 
 Las disposiciones relativas a la punibilidad de la tentativa y la complicidad a que hacen referencia los artículos 75 y 78, respectivamente, del Código Penal del Estado de Chihuahua, hasta la entrada en vigor de este Decreto, seguirán aplicándose por los hechos realizados durante su vigencia. Asimismo, dichos preceptos seguirán aplicándose a las personas procesadas o sentenciadas por los delitos previstos y sancionados por los mismos artículos.
+
+P.O. 26 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1055/2015 I P.O. MEDIANTE EL CUAL SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 360 DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1056/2015 I P.O. MEDIANTE EL CUAL SE REFORMA EL ARTICULO 371 DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
