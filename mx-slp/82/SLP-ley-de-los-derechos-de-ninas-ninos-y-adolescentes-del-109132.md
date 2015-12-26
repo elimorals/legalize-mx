@@ -4,7 +4,7 @@ identifier: "SLP-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-109132"
 country: "mx"
 rank: "ley"
 publication_date: "2015-07-27"
-last_updated: "2015-07-27"
+last_updated: "2015-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109132&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el lunes 27 de julio de 2015.
 
@@ -1885,7 +1885,7 @@ I. La asamblea sesionará cada seis meses de manera ordinaria y de manera extrao
 
 II. Los integrantes tendrán derecho a voz y voto;
 
-III. Podrá autorizar la integración de subsistemas especializados en los términos del Reglamento respectivo;
+III. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2015)
 
 IV. Las decisiones de la asamblea y de los integrantes de los subsistemas deberán constar en acuerdo suscrito por el titular de la Secretaría Ejecutiva;
 
@@ -1893,17 +1893,57 @@ V. Tanto la asamblea como los subsistemas podrán emitir acuerdos y recomendacio
 
 VI. Para sesionar válidamente, será necesario contar con la asistencia de la mayoría de sus miembros y su Presidente. Las decisiones se tomarán por mayoría de votos y, en caso de empate, el Presidente tendrá voto de calidad.
 
+> <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2015)</small>
+
+Para el mejor cumplimiento de sus funciones, el Sistema Estatal de Protección podrá constituir comisiones encargadas de atender asuntos o materias específicas, y emitirá lineamientos para su integración, organización y funcionamiento, mismos que serán publicados en el Periódico Oficial del Estado.
+
+> <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 127.
 
-El Sistema Estatal de Protección Integral será representado de manera indistinta por el titular de la Dirección General del Sistema DIF San Luis Potosí, o por el titular de la Secretaría Ejecutiva, quienes deberán coordinarse en los términos del Reglamento respectivo.
+La Coordinación Operativa del Sistema Estatal de Protección Integral recaerá en un órgano administrativo desconcentrado de la Secretaría General de Gobierno que ejercerá las funciones de Secretaría Ejecutiva.
+
+La Secretaría Ejecutiva tendrá las atribuciones siguientes:
+
+I. Coordinar las acciones entre las dependencias y las entidades competentes de la Administración Pública Estatal que deriven de la presente Ley;
+
+II. Elaborar el anteproyecto del Programa Estatal para someterlo a consideración de los miembros del Sistema;
+
+III. Llevar a cabo el seguimiento y monitoreo de la ejecución del Programa Estatal;
+
+IV. Elaborar y mantener actualizado el Manual de Organización y Operación del Sistema Estatal de Protección Integral;
+
+V. Compilar los acuerdos que se tomen en el Sistema Estatal de Protección Integral, llevar el archivo de éstos y de los instrumentos jurídicos que deriven, y expedir constancia de los mismos;
+
+VI. Apoyar al Sistema Nacional de Protección Integral en la ejecución y seguimiento de los acuerdos y resoluciones emitidos;
+
+VII. Celebrar convenios de coordinación, colaboración y concertación con instancias públicas y privadas, estatales y nacionales;
+
+VIII. Administrar el sistema de información a nivel estatal a que se refiere la fracción IX del artículo 122 de la presente Ley;
+
+IX. Realizar y promover estudios e investigaciones para fortalecer las acciones en favor de la atención, defensa y protección de niñas, niños y adolescentes, con el fin de difundirlos a las autoridades competentes y a los sectores social y privado para su incorporación en los programas respectivos;
+
+X. Difundir entre las autoridades correspondientes y la población en general, los resultados de los trabajos que realice, así como toda aquélla información pública que tienda a la generación, desarrollo y consolidación de perspectiva en la materia, desagregada por lo menos, en razón de, edad, sexo, escolaridad, y discapacidad;
+
+XI. Asesorar y apoyar a los gobiernos municipales, así como a las autoridades estatales que lo requieran para el ejercicio de sus atribuciones;
+
+XII. Informar cada cuatro meses al Sistema Estatal de Protección Integral y a su Presidente, sobre sus actividades;
+
+XIII. Fungir como instancia de interlocución con organizaciones de la sociedad civil, academia y demás instituciones de los sectores social y privado;
+
+XIV. Coordinar con las secretarías ejecutivas de los sistemas municipales, la articulación de la política nacional, así como el intercambio de información necesaria, a efecto de dar cumplimiento con el objeto de esta Ley, y
+
+XV. Las demás que le encomiende el Presidente o el Sistema Estatal de Protección Integral.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 128.
 
-El titular de la Secretaría Ejecutiva; deberá cumplir con los siguientes requisitos:
+El titular de la Secretaría Ejecutiva será nombrado y removido libremente por el Presidente del Sistema Estatal de Protección; y deberá cumplir con los siguientes requisitos:
 
 I. Tener ciudadanía mexicana en pleno goce de sus derechos civiles y políticos;
 
-II. Ser originario de San Luis Potosí o haber residido en el Estado en los últimos cinco años;
+II. (DEROGADA, P.O. 26 DE DICIEMBRE DE 2015)
 
 III. Tener más de 30 años de edad;
 
@@ -1915,53 +1955,11 @@ VI. No haber sido sentenciado por delito doloso o inhabilitado como servidor pú
 
 ###### ARTÍCULO 129.
 
-El titular de la Secretaría Ejecutiva deberá llevar un registro de los acuerdos y recomendaciones del Sistema Estatal de Protección Integral y deberá dar seguimiento e informar sobre su cumplimiento; con base en lo siguiente:
-
-I. Los integrantes del Sistema Estatal de Protección Integral deberán informar al titular de la Secretaría Ejecutiva sobre el cumplimiento a los acuerdos y recomendaciones, en los términos del Reglamento respectivo;
-
-II. El titular de la Secretaría Ejecutiva deberá informar en cada sesión ordinaria o extraordinaria del seguimiento al cumplimiento a los acuerdos y recomendaciones, y
-
-III. En caso de incumplimiento, por acuerdo del Sistema, el titular de la Secretaría Ejecutiva, deberá interponer queja ante el órgano de control que corresponda, para que se proceda a la investigación y en su caso, se inicie el procedimiento administrativo de responsabilidad en los términos de la legislación correspondiente.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2015)
 
 ###### ARTÍCULO 130.
 
-Son facultades del titular de la Secretaría Ejecutiva:
-
-I. Coordinar las acciones entre las dependencias y las entidades competentes de la administración pública estatal y municipal, en los términos de la presente Ley;
-
-II. Elaborar el anteproyecto del Programa Estatal para someterlo a consideración de los miembros del Sistema Estatal de Protección Integral;
-
-III. Llevar a cabo el seguimiento y monitoreo de la ejecución del Programa Estatal;
-
-IV. Elaborar y proponer ante el Sistema Estatal de Protección Integral el Reglamento que regule a dicho órgano, así como elaborar y mantener actualizados los manuales de organización; y operación del mismo;
-
-V. Celebrar convenios de coordinación, colaboración y concertación con instancias públicas y privadas, estatales, nacionales e internacionales;
-
-VI. Conformar y administrar un sistema de información a nivel estatal, con el objeto de contar con datos desagregados que permitan monitorear los progresos alcanzados en el cumplimiento de los derechos de niñas, niños y adolescentes, incluyendo indicadores cualitativos y cuantitativos;
-
-VII. Realizar y promover estudios e investigaciones para fortalecer las acciones en favor de la atención, defensa y protección de niñas, niños y adolescentes;
-
-VIII. Difundir entre las autoridades correspondientes y la población en general los resultados de los trabajos que realice; así como toda aquella información pública que tienda a la generación, desarrollo y consolidación de perspectiva en la materia, desagregada por lo menos, en razón de edad, sexo, entidad federativa, escolaridad y discapacidad;
-
-IX. Asesorar y apoyar en la materia que regula esta Ley, a las autoridades estatales que lo requieran para el ejercicio de sus atribuciones;
-
-X. Informar cada tres meses al Sistema Estatal de Protección Integral y a su Presidente, sobre sus actividades;
-
-XI. Coordinar con las secretarías ejecutivas de los sistemas municipales la articulación de la política estatal, así como el intercambio de información necesaria a efecto de dar cumplimiento con el objeto de esta Ley;
-
-XII. Auxiliar a la Procuraduría de Protección en las medidas urgentes de protección que ésta determine, y coordinar las acciones que correspondan en el ámbito de sus atribuciones;
-
-XIII. Instrumentar y articular sus políticas públicas en concordancia con la política nacional;
-
-XIV. Coadyuvar en la adopción y consolidación del Sistema Nacional de Protección;
-
-XV. Garantizar la transversalidad de la perspectiva de derechos de niñas, niños y adolescentes en la elaboración de programas sectoriales o, en su caso, institucionales específicos, así como en las políticas y acciones de las dependencias y entidades de la administración pública local;
-
-XVI. Garantizar la transversalidad de la perspectiva de derechos de la infancia y la adolescencia en la elaboración de programas, así como en las políticas y acciones para la protección de los derechos de niñas, niños y adolescentes;
-
-XVII. Fungir como instancia de interlocución con organizaciones de la sociedad civil, academia y demás instituciones de los sectores social y privado en materia de respeto, protección, promoción y ejercicio de los derechos de niñas, niños y adolescentes, y
-
-XVIII. Las demás que se le encomienden por acuerdo del Sistema Estatal de Protección Integral, así como las establecidas en esta Ley; y la Ley General.
+(DEROGADO, P.O. 26 DE DICIEMBRE DE 2015)
 
 ### CAPÍTULO III. De los Sistemas Municipales de Protección Integral
 
@@ -2395,7 +2393,7 @@ Para los efectos de este Título se aplicarán supletoriamente las leyes de, Pro
 
 PRIMERO. Esta Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado y, en consecuencia, se abroga la Ley Sobre los Derechos de Niñas, Niños y Adolescentes del Estado de San Luis Potosí, publicada en el Periódico Oficial del Estado el 14 de agosto de 2003.
 
-SEGUNDO. El titular del Poder Ejecutivo deberá expedir el Decreto Administrativo de creación del organismo público descentralizado Sistema Estatal de Protección Integral, dentro de los treinta días naturales siguientes a la entrada en vigor de este Ordenamiento, conforme a lo establecido por esta Ley y la Ley Orgánica de la Administración Pública del Estado de San Luis Potosí.
+SEGUNDO. (DEROGADO, P.O. 26 DE DICIEMBRE DE 2015)
 
 TERCERO. La Procuraduría de Protección de Niñas, Niños, Adolescentes, la Mujer, la Familia y el Adulto Mayor del Estado de San Luis Potosí, deberá constituirse a más tardar dentro de los treinta días siguientes a la entrada en vigor de este Decreto. Para el presente ejercicio presupuestal funcionará con los recursos humanos, materiales y financieros que tiene asignados la actual Procuraduría de la Defensa del Menor, la Mujer, la Familia y el Adulto Mayor y aquéllos, que en su caso, le asigne el Sistema para el Desarrollo Integral de la Familia del Estado de San Luis Potosí.
 
@@ -2436,3 +2434,9 @@ El Secretario General de Gobierno
 Lic. José Eduardo González Sierra
 
 (Rúbrica)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 26 DE DICIEMBRE DE 2015.
+
+ÚNICO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
