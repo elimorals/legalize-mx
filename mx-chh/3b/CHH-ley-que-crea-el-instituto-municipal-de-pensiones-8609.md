@@ -4,7 +4,7 @@ identifier: "CHH-ley-que-crea-el-instituto-municipal-de-pensiones-8609"
 country: "mx"
 rank: "ley"
 publication_date: "1983-08-27"
-last_updated: "2012-02-22"
+last_updated: "2015-12-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8609&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "CHH"
 ---
 # LEY QUE CREA EL INSTITUTO MUNICIPAL DE PENSIONES
 
+> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE ENERO DE 2016 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
+
 LEY DEL INSTITUTO MUNICIPAL DE PENSIONES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2012.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DE LA LEY DEL INSTITUTO MUNICIPAL DE PENSIONES, PUBLICADA EN EL P.O. DE 26 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 27 de agosto de 1983.
 
@@ -760,3 +764,125 @@ P.O. 22 DE FEBRERO DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 26 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 1137/2015 I P.O. MEDIANTE EL CUAL SE EXPIDE LA LEY DEL INSTITUTO MUNICIPAL DE PENSIONES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley del Instituto Municipal de Pensiones publicada en el Periódico Oficial del Estado número 69, del día 27 de agosto del año 1983, así como sus reformas y adiciones.
+
+###### ARTÍCULO TERCERO.
+
+Los trabajadores que estén disfrutando una pensión a la fecha de entrada en vigor de la presente Ley, o tengan derecho adquirido a disfrutar de alguna de ellas, la mantendrán en los términos y condiciones en los que la hayan adquirido.
+
+###### ARTÍCULO CUARTO.
+
+Aquellos trabajadores que se encuentren en activo a la entrada en vigor de esta Ley, y no se encuentren en el supuesto descrito en el transitorio anterior serán considerados como trabajadores en transición.
+
+###### ARTÍCULO QUINTO.
+
+Para los trabajadores en transición, el sueldo regulador para efectos de fijar el monto de la pensión, se determinará conforme a lo siguiente: cuando al trabajador le haya sido aumentado su sueldo durante los últimos cinco años de servicio, se promediarán las percepciones recibidas en ese período, salvo que el incremento haya sido motivado por un aumento general o por ascenso escalafonario.
+
+###### ARTÍCULO SEXTO.
+
+Para los trabajadores en transición, las cuotas y aportaciones a las que se refiere la presente Ley, serán de un porcentaje de su sueldo de cotización de acuerdo con la siguiente tabla:
+
+Año Trabajador Patrón
+
+2015 5.0% 5.0%
+
+2016 6.0% 6.0%
+
+2017 7.0% 7.0%
+
+2018 8.0% 8.0%
+
+2019 9.0% 9.0%
+
+2020 10.0% 10.0%
+
+2021 11.0% 11.0%
+
+2022 12.0% 12.0%
+
+2023 12.8% 13.0%
+
+2024 12.8% 14.0%
+
+2025 en adelante 12.8% 15.0%
+
+###### ARTÍCULO SÉPTIMO.
+
+De acuerdo a la presente Ley, el trabajador en transición tendrá el derecho a la pensión por edad y antigüedad en el servicio, al contar con al menos treinta años de servicio para los hombres y veintiocho años para las mujeres, el monto de la pensión será el 100% del sueldo regulador.
+
+###### ARTÍCULO OCTAVO.
+
+Para los efectos del artículo 24 de esta Ley, el trabajador en transición tendrá derecho a una pensión por jubilación al contar con al menos treinta años de servicio para los hombres y veintiocho años para las mujeres, debiendo de haber contribuido con sus cuotas durante dicho periodo. El monto de la pensión será de 100% del salario regulador. La pensión por jubilación será vitalicia y sus beneficiaros tendrán derecho a recibir una pensión de acuerdo a lo establecido en la Sección Cuarta del Capítulo Cuarto de la presente Ley.
+
+###### ARTÍCULO NOVENO.
+
+Para los efectos del artículo 25 de esta Ley, el trabajador en transición tendrá derecho a una pensión por retiro al contar con al menos quince años de servicio debiendo de haber contribuido con sus cuotas durante dicho periodo.
+
+###### ARTÍCULO DÉCIMO.
+
+El monto de la pensión que se menciona en el párrafo anterior, se determinará de acuerdo a la siguiente tabla:
+
+HOMBRES MUJERES
+
+Antigüedad % %
+
+15 55.0 58.0
+
+16 58.0 60.0
+
+17 60.0 62.0
+
+18 62.0 63.0
+
+19 63.0 64.0
+
+20 64.0 66.0
+
+21 65.0 67.0
+
+22 66.0 70.0
+
+23 67.0 75.0
+
+24 70.0 80.0
+
+25 75.0 85.0
+
+26 80.0 90.0
+
+27 85.0 95.0
+
+28 90.0 100
+
+29 95.0
+
+30 100
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+El monto de las pensiones que generen los trabajadores en transición aumentará anualmente, en el mes de febrero, en la misma proporción en que aumenten los salarios del personal en activo, según la cuota diaria de su pensión.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Las disposiciones que no se encuentran contempladas en los Artículos Transitorios para los trabajadores en transición, se regirán de acuerdo a lo dispuesto en el cuerpo de la Ley.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Con el propósito de optimizar la viabilidad del Fondo, el monto de las cuotas y aportaciones a que se refiere el artículo 10 de esta Ley, podrán ser modificados por acuerdo del Consejo Directivo, tomando en cuenta los estudios actuariales que se realicen.
+
+Las valuaciones actuariales se deberán realizar al menos una vez cada 4 años.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+Se aplicarán supletoriamente a esta Ley las disposiciones contenidas en los Códigos Municipal, Administrativo, Fiscal, Civil y de Procedimientos Civiles, todos del Estado.
