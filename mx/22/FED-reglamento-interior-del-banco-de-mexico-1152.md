@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2015-10-01"
+last_updated: "2015-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE DICIEMBRE DE 2015.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -165,6 +165,10 @@ Dirección Jurídica
 
 Unidad de Transparencia
 
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2015)</small>
+
+Además de lo anterior, para el cumplimiento de los fines del fideicomiso público del Estado que establece el párrafo sexto del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos y la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, el Banco contará con una Coordinación Ejecutiva del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y una Coordinación Administrativa del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, que dependerán del Gobernador, así como una Subcoordinación Jurídica del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y una Contraloría Interna del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, que dependerán de las unidades administrativas a que se refiere este Reglamento Interior.
+
 > <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2013)</small>
 
 Las Direcciones Generales tendrán adscritas las Direcciones que señala el presente Reglamento. El Banco contará con una Secretaría de la Junta y una Dirección de Auditoría que dependerán de la propia Junta.
@@ -231,6 +235,10 @@ El Comité de Auditoría podrá solicitar la contratación de expertos independi
 
 Los honorarios del miembro independiente del Comité y de los expertos que en su caso se contraten, serán determinados por la propia Junta de Gobierno y sus servicios serán contratados por el Banco en los términos que ésta establezca. Las personas referidas deberán guardar confidencialidad de los asuntos e información que tengan conocimiento en el desempeño de sus funciones. Dicha obligación de confidencialidad, deberá quedar establecida en los contratos que al efecto se celebren.
 
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2015)</small>
+
+Las Coordinaciones del Fondo Mexicano del Petróleo tendrán adscritas las unidades administrativas que señala el presente Reglamento y se auxiliarán, en el cumplimiento de sus funciones de los Subcoordinadores, Titulares de Unidad y los demás empleados, previstos en la estructura correspondiente, conforme a lo que se establezca en el Acuerdo de Adscripción de las Unidades Administrativas del Banco de México.
+
 > <small>(ADICIONADO, D.O.F. 1 DE AGOSTO DE 2011)</small>
 
 ###### ARTICULO 4o.
@@ -259,19 +267,19 @@ En los poderes, comisiones y designaciones otorgados conforme al párrafo anteri
 
 El Gobernador podrá autorizar a los apoderados, comisionistas y delegados fiduciarios para que, conforme a las disposiciones aplicables, éstos otorguen o revoquen poderes generales o especiales.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 1 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 28 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 8o.
 
-Las atribuciones encomendadas por este Reglamento a los titulares de las Direcciones Generales, Secretaría de la Junta, Direcciones y Unidad de Transparencia, podrán ser ejercidas por ellos en forma individual o por dos funcionarios que actúen mancomunadamente, siempre y cuando tengan puestos de Subgerente o superior, o bien, de los rangos equivalentes a estos y se encuentren subordinados al Director General, al Secretario de la Junta, al Director o al titular de la Unidad de Transparencia, según se trate. Los Cajeros Regionales de las sucursales podrán firmar individualmente. Para efectos de lo anterior, se publicará en el Diario Oficial de la Federación el Acuerdo de Adscripción de las Unidades Administrativas correspondientes.
+Las atribuciones encomendadas por este Reglamento a los titulares de las Direcciones Generales, Coordinación Administrativa del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, Secretaría de la Junta, Direcciones y Unidad de Transparencia, podrán ser ejercidas por ellos en forma individual o por dos funcionarios que actúen mancomunadamente, siempre y cuando tengan puestos de Subgerente o superior, o bien, de los rangos equivalentes a estos y se encuentren subordinados al Director General, al Coordinador Administrativo del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, al Secretario de la Junta, al Director o al titular de la Unidad de Transparencia, según se trate. Los Cajeros Regionales de las sucursales podrán firmar individualmente. Para efectos de lo anterior, se publicará en el Diario Oficial de la Federación el Acuerdo de Adscripción de las Unidades Administrativas correspondientes.
 
-> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2015)</small>
 
-La atribución aquí concedida incluye las facultades necesarias para la suscripción de todos los actos, comprendiendo los de dominio, de administración y pleitos y cobranzas, que se encuentren directamente vinculados con la ejecución de las atribuciones conferidas por este Reglamento a los Directores Generales, Secretario de la Junta, Directores y titular de la Unidad de Transparencia, así como las suficientes para realizar actos que impliquen ejercicio presupuestal, a excepción de los previstos en el artículo 27 Bis de este Reglamento.
+La atribución aquí concedida incluye las facultades necesarias para la suscripción de todos los actos, comprendiendo los de dominio, de administración y pleitos y cobranzas, que se encuentren directamente vinculados con la ejecución de las atribuciones conferidas por este Reglamento a los Directores Generales, Coordinador Administrativo del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, Secretario de la Junta, Directores y titular de la Unidad de Transparencia, así como las suficientes para realizar actos que impliquen ejercicio presupuestal, a excepción de los previstos en el artículo 27 Bis de este Reglamento.
 
-> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2015)</small>
 
-Sin perjuicio de lo dispuesto en el segundo párrafo del presente artículo, las atribuciones encomendadas por este Reglamento a los titulares de las Direcciones Generales, Secretaría de la Junta, Direcciones y Unidad de Transparencia, incluyen las facultades suficientes para celebrar convenios, solicitar, proporcionar y publicar información, y colaborar con las personas que estimen conveniente, a fin de dar cumplimiento a sus respectivas atribuciones. Lo anterior, deberá efectuarse, en su caso, con la participación que corresponda a otras unidades administrativas, conforme a este Reglamento.
+Sin perjuicio de lo dispuesto en el segundo párrafo del presente artículo, las atribuciones encomendadas por este Reglamento a los titulares de las Direcciones Generales, la Coordinación Administrativa del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, Secretaría de la Junta, Direcciones y Unidad de Transparencia, incluyen las facultades suficientes para celebrar convenios, solicitar, proporcionar y publicar información, y colaborar con las personas que estimen conveniente, a fin de dar cumplimiento a sus respectivas atribuciones. Lo anterior, deberá efectuarse, en su caso, con la participación que corresponda a otras unidades administrativas, conforme a este Reglamento.
 
 > <small>(REFORMADO, D.O.F. 5 DE OCTUBRE DE 2010)</small>
 
@@ -309,7 +317,9 @@ Para los efectos del párrafo anterior, se entenderá por fideicomisos de foment
 
 Para los mismos efectos de los párrafos anteriores, se entenderá por entidades financieras de desarrollo a Nacional Financiera, S.N.C.; Banco Nacional de Comercio Exterior, S.N.C.; Banco Nacional de Obras y Servicios, S.N.C.; Sociedad Hipotecaria Federal, S.N.C.; Banco del Ahorro Nacional y Servicios Financieros, S.N.C.; Banco Nacional del Ejército, Fuerza Aérea y Armada, S.N.C.; la Financiera Rural; Agroasemex, S.A. de C.V., y Seguros de Crédito a la Vivienda SHF, S.A. de C.V.
 
-> <small>(DEROGADO DECIMOTERCER PÁRRAFO, D.O.F. 30 DE ENERO DE 2015)</small>
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2015)</small>
+
+Con independencia de lo dispuesto en los tres párrafos anteriores, para los efectos del presente Reglamento, se entenderá por Fondo Mexicano del Petróleo al fideicomiso público del Estado a que se refiere el artículo 28 de la Constitución Política de los Estados Unidos Mexicanos y la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo.
 
 > <small>(ADICIONADO, D.O.F. 30 DE ENERO DE 2015)</small>
 
@@ -341,6 +351,10 @@ Las facultades referidas en el párrafo que antecede, tratándose de actos de do
 
 A la extinción de cualquier fideicomiso, los delegados fiduciarios generales en representación del Banco como fiduciario, atenderán los requerimientos que formulen toda clase de autoridades, incluyendo las judiciales y administrativas, así como los particulares en términos de las disposiciones aplicables. Dichos delegados podrán actuar en forma individual.
 
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2015)</small>
+
+La limitante a que se refiere el segundo párrafo del presente artículo no será aplicable a los funcionarios adscritos a las Coordinaciones del Fondo Mexicano del Petróleo que sean designados delegados fiduciarios especiales en el Fondo Mexicano del Petróleo.
+
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 14 DE OCTUBRE DE 2005)</small>
 
 ###### ARTICULO 10.
@@ -355,15 +369,15 @@ La firma electrónica a que se refiere el párrafo anterior se utilizará cuando
 
 Para efectos de este Reglamento se entenderá por firma electrónica la información agregada o adjuntada a un mensaje de datos que esté asociada en forma lógica al propio mensaje, la cual se utilizará para identificar al autor de la firma e indicar que éste aprueba los datos contenidos en el mensaje y a su vez para asegurar que el mensaje no fue alterado y conservó su carácter confidencial.
 
-> <small>(REFORMADO, D.O.F. 1 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 11.
 
-Los Directores Generales y Directores, así como el titular de la Unidad de Transparencia, podrán delegar las facultades que les hayan sido conferidas conforme al presente Reglamento, en empleados adscritos a las respectivas unidades administrativas de las que sean titulares, y que ocupen puestos inferiores al de Subgerente.
+Los Directores Generales, el Coordinador Administrativo del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y los Directores, así como el titular de la Unidad de Transparencia, podrán delegar las facultades que les hayan sido conferidas conforme al presente Reglamento, en empleados adscritos a las respectivas unidades administrativas de las que sean titulares, y que ocupen puestos inferiores al de Subgerente.
 
-Las resoluciones por las que se deleguen facultades deberán ser firmadas por el Director General, Director de que se trate, o titular de la Unidad de Transparencia, conjuntamente con el Director General Jurídico o, en su caso, el Director Jurídico, y se publicarán en el Diario Oficial de la Federación.
+Las resoluciones por las que se deleguen facultades deberán ser firmadas por el Director General, Coordinador Administrativo del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, Director de que se trate, o titular de la Unidad de Transparencia, conjuntamente con el Director General Jurídico o, en su caso, el Director Jurídico, y se publicarán en el Diario Oficial de la Federación.
 
-Sin perjuicio de lo anterior, los Directores Generales y Directores, así como el titular de la Unidad de Transparencia, que lleven a cabo la delegación de facultades referida en el presente artículo, deberán informar de ello al Gobernador a más tardar tres días hábiles antes de la fecha en que la resolución respectiva se envíe al Diario Oficial de la Federación para su publicación.
+Sin perjuicio de lo anterior, los Directores Generales, Coordinador Administrativo del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y los Directores, así como el titular de la Unidad de Transparencia, que lleven a cabo la delegación de facultades referida en el presente artículo, deberán informar de ello al Gobernador a más tardar tres días hábiles antes de la fecha en que la resolución respectiva se envíe al Diario Oficial de la Federación para su publicación.
 
 > <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2013)</small>
 
@@ -450,6 +464,24 @@ A esta Dirección General estarán adscritas las Direcciones de Coordinación de
 La Dirección General de Relaciones Institucionales tendrá las atribuciones que se señalan en los artículos 17 Bis y 18 de este Reglamento.
 
 A esta Dirección General estarán adscritas las Direcciones de Comunicación y de Vinculación Institucional.
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2015)</small>
+
+ARTICULO 15 BIS 3.- La Coordinación Ejecutiva del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, estará a cargo del Coordinador Ejecutivo nombrado por el Comité Técnico de dicho fideicomiso conforme a lo señalado en la Ley del Fondo Mexicano del Petróleo.
+
+La Coordinación Ejecutiva del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, tendrá las atribuciones que le confiera expresamente la Ley del Fondo Mexicano del Petróleo, el contrato constitutivo del propio fideicomiso, y las demás disposiciones aplicables.
+
+Como excepción a lo dispuesto en el primer párrafo de los artículos 8 y 66 del presente Reglamento Interior, para el ejercicio de las atribuciones señaladas en esta fracción, el Coordinador Ejecutivo será suplido, en sus ausencias, por el funcionario que designe el Comité Técnico del Fondo Mexicano del Petróleo, a propuesta del Gobernador del Banco de México. El funcionario que ejerza actos en suplencia deberá indicar que actúa en los términos de este artículo.
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2015)</small>
+
+ARTICULO 15 BIS 4.- La Coordinación Administrativa del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, tendrá, además de las atribuciones señaladas en el artículo 28 Bis 1, las siguientes:
+
+I. Las funciones encomendadas al Banco de México como fiduciario en el Fondo Mexicano del Petróleo, previstas en la Ley del Fondo Mexicano del Petróleo, en el contrato constitutivo de ese fideicomiso y en las demás disposiciones aplicables.
+
+II. Llevar la contabilidad especial de ese fideicomiso, en coordinación con la Dirección de Contabilidad, Planeación y Presupuesto del Banco de México.
+
+A esta Coordinación estará adscrita la Subcoordinación Jurídica del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE ENERO DE 2015)</small>
 
@@ -791,9 +823,9 @@ XV. Dar seguimiento al cumplimiento de las disposiciones que emita el Banco conf
 
 XVI. Participar con las Direcciones de Operaciones Internacionales y de Operaciones Nacionales en el desarrollo y determinación de los términos y condiciones en los que el Banco pueda otorgar financiamientos relacionados con sus funciones de banca central y en el mercado de dinero;
 
-> <small>(REFORMADA, D.O.F. 30 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2015)</small>
 
-XVII. Diseñar, elaborar e implantar los sistemas y proporcionar los servicios de cómputo, requeridos por las Direcciones adscritas a la Dirección General de Operaciones de Banca Central, y
+XVII. Diseñar, elaborar e implantar los sistemas y proporcionar los servicios de cómputo, requeridos por las Direcciones adscritas a la Dirección General de Operaciones de Banca Central y las Coordinaciones del Fondo Mexicano del Petróleo, y
 
 > <small>(ADICIONADA, D.O.F. 30 DE ENERO DE 2015)</small>
 
@@ -1289,6 +1321,10 @@ IV. Coordinar las relaciones interinstitucionales con las autoridades del Gobier
 
 V. Administrar los transportes aéreos que requiera el Banco para el desempeño de sus funciones, así como el traslado terrestre de valores que efectúe con vehículos propios.
 
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2015)</small>
+
+ARTICULO 28 BIS 1.- La Subcoordinación Jurídica del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, proporcionará asesoría jurídica a las Coordinaciones del Fondo Mexicano del Petróleo y a las unidades administrativas adscritas a estas; llevará a cabo actos en procesos y procedimientos ante autoridades judiciales, administrativas y del trabajo relacionados con la defensa del Banco de México, en su carácter de fiduciario en el Fondo Mexicano del Petróleo, y representará al Banco en ese mismo carácter.
+
 > <small>(REFORMADO, D.O.F. 24 DE JULIO DE 1997)</small>
 
 ###### ARTICULO 29.
@@ -1371,7 +1407,17 @@ VI. Nombrar y remover a su secretario, quien deberá ser un funcionario o trabaj
 
 La Dirección General de Contraloría y Administración de Riesgos tendrá las atribuciones señaladas en los artículos 20 Bis, 30 Bis, 30 Bis 1 y 30 Bis 3 de este Reglamento, así como aquellas otras que confieran a la Contraloría del Banco las demás disposiciones aplicables.
 
-A la Dirección General de Contraloría y Administración de Riesgos estarán adscritas las Direcciones de Control Interno y de Administración de Riesgos.
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2015)</small>
+
+A la Dirección General de Contraloría y Administración de Riesgos estarán adscritas las Direcciones de Control Interno y de Administración de Riesgos y la Contraloría Interna del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo.
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2015)</small>
+
+La Contraloría Interna del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo estará a cargo del Contralor Interno nombrado por el Comité Técnico de dicho fideicomiso, conforme a lo señalado en la Ley del Fondo Mexicano del Petróleo, y le corresponderán exclusivamente las facultades de examinación y dictaminación que le confiere dicha Ley respecto del desempeño de las funciones atribuidas al titular de la Coordinación Ejecutiva del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, sin perjuicio de las demás funciones de control interno, auditoría, examinación y dictamen, que corresponda llevar a cabo a las unidades administrativas del Banco en el ámbito de sus respectivas competencias. Para el mejor desempeño de sus facultades, el Contralor Interno se coordinará con el Director General de Contraloría y Administración de Riesgos y, en su caso, con las demás unidades administrativas del Banco.
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2015)</small>
+
+Como excepción a lo dispuesto en el primer párrafo del artículo 8 del presente Reglamento Interior, el Contralor Interno a que se refiere este artículo será suplido, en sus ausencias, por el funcionario que designe al efecto el Comité Técnico del Fondo Mexicano del Petróleo.
 
 > <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2013)</small>
 
@@ -1397,7 +1443,9 @@ VIII. Proponer criterios, parámetros y métodos para la evaluación y seguimien
 
 IX. Proponer al Gobernador las normas, políticas, estándares, procedimientos y actividades que propicien el desarrollo y fortalecimiento del sistema de control interno institucional, así como informarle acerca del estado que guarda dicho sistema con base en la evaluación y seguimiento que de manera periódica se dé a los componentes que lo integran;
 
-X. Verificar que los pagos derivados del ejercicio de los presupuestos de gasto corriente e inversión física, se efectúen con apego a las disposiciones aplicables y normas emitidas, así como a las condiciones pactadas en los pedidos y contratos, realizando las pruebas de análisis y comprobación requeridas;
+> <small>(REFORMADA, D.O.F. 28 DE DICIEMBRE DE 2015)</small>
+
+X. Verificar que los pagos derivados del ejercicio de los presupuestos de gasto corriente e inversión física, incluidos aquellos correspondientes a los fideicomisos en los que el Banco actúe como fiduciario y que no cuenten con unidades administrativas especializadas en verificar el cumplimiento de las obligaciones a su cargo, se efectúen con apego a las disposiciones aplicables y normas emitidas, así como a las condiciones pactadas en los pedidos y contratos, realizando las pruebas de análisis y comprobación requeridas;
 
 XI. Acceder a cualquier tipo de información del Banco, incluyendo la clasificada como reservada o confidencial, así como tener acceso de manera directa e irrestricta a todas las áreas, registros, bienes y, en general, a cualquier información del Banco o de los fideicomisos en los que éste tenga el carácter de fiduciario. Lo anterior no aplicará a la información relativa sobre declaración de situación patrimonial de servidores públicos del Banco, ni a la referente a los procesos y procedimientos de los mencionados servidores, salvo en aquellos casos que la Comisión de Responsabilidades expresamente los autorice. Asimismo, los expedientes médicos de los servidores públicos y pensionados del Banco, así como sus derechohabientes sólo podrán consultarse con autorización previa y por escrito del Gobernador;
 
@@ -1677,9 +1725,13 @@ Capital.
 
 Reservas de Capital.
 
-> <small>(REFORMADO, D.O.F. 7 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 2015)</small>
 
-Además se incluirán en el capital contable, los rubros de Remanente de Operación del Ejercicio Anterior, en tanto éste no se haya entregado al Gobierno Federal y Cuentas de Resultados del Ejercicio en Curso. Al calce de dichos estados se hará constar el monto de las Cuentas de Orden.
+Además se incluirán en el capital contable, los rubros de Remanente de Operación del Ejercicio Anterior, en tanto este no se haya entregado al Gobierno Federal y Cuentas de Resultados del Ejercicio en Curso. Al calce de dichos estados se hará constar el monto de las Cuentas de Orden. En estas últimas, el Banco reconocerá el patrimonio fideicomitido de aquellos fideicomisos cuyo desempeño tenga a su cargo.
+
+> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2015)</small>
+
+Adicionalmente al reconocimiento a que se refieren los párrafos anteriores, el Banco llevará una contabilidad especial por cada contrato de fideicomiso, y registrará en la misma todas las operaciones realizadas. Invariablemente deberán coincidir los saldos de las contabilidades especiales de cada contrato de fideicomiso, con los saldos de las cuentas de orden en que el Banco reconozca el patrimonio fideicomitido. Cuando por la naturaleza de los fideicomisos establecidos en el Banco existan activos o pasivos a cargo o a favor del mismo, estos deberán reconocerse en el balance general del propio Banco, según corresponda.
 
 > <small>(REFORMADO, D.O.F. 22 DE DICIEMBRE DE 2008)</small>
 
@@ -2312,3 +2364,21 @@ SEGUNDO. Las reformas a los artículos 30 Bis 1, fracción V, y último párrafo
 TERCERO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legales.
 
 CUARTO. Todas las referencias al Comité de Información y a la Unidad de Enlace, que se encuentren contenidas en cualquier otro instrumento o acto jurídico, deberán entenderse hechas al Comité de Transparencia y a la Unidad de Transparencia, respectivamente.
+
+D.O.F. 28 DE DICIEMBRE DE 2015.
+
+PRIMERO. Las presentes reformas al Reglamento Interior del Banco de México entrarán en vigor el primero de enero de dos mil dieciséis.
+
+SEGUNDO. La totalidad de los actos jurídicos realizados por el Banco, en su carácter de fiduciario en el Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, con anterioridad a la entrada en vigor de las presentes modificaciones, conservarán todo su valor y fuerza legales y continuarán produciendo todos sus efectos hasta finalizar el plazo a que se refiere el párrafo siguiente.
+
+Las unidades administrativas, en el ámbito de su competencia, llevarán a cabo las acciones necesarias para que, en un plazo de 90 días hábiles contados a partir de la entrada en vigor de las presentes reformas, se extingan los derechos y obligaciones derivados de aquellos contratos o convenios celebrados por el Banco consigo mismo, a nombre y por cuenta propia, por una parte, y como fiduciario en el Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, por la otra parte, que requieran darse por terminados para permitir el ejercicio pleno de las atribuciones conferidas a las unidades administrativas en términos de las presentes reformas. Los términos y condiciones de los actos jurídicos que se extingan conforme a lo anterior, deberán quedar establecidos, en lo conducente, en normas internas del Banco emitidas en conjunto o en lo individual por las unidades administrativas competentes, para determinar el monto de los honorarios fiduciarios que cubran al Banco los gastos necesarios para la debida administración y operación del citado Fondo.
+
+TERCERO. Las referencias que se hagan en acuerdos, manuales, convenios y demás actos, a las unidades administrativas que, con anterioridad a la entrada en vigor de la presente Resolución, hayan ejecutado actos a nombre y por cuenta del Banco de México, en su carácter de fiduciario en el Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, o hayan quedado señaladas en dichos actos, se entenderán hechas o conferidas a las unidades administrativas que resulten competentes conforme a esta misma reforma.
+
+CUARTO. Los asuntos que se encuentren en trámite o pendientes de conclusión a la fecha de entrada en vigor de esta reforma y que, conforme a la misma, correspondan ser atendidos por una unidad administrativa diversa a la que haya estado a cargo de ellos hasta dicha entrada en vigor, continuarán su trámite y serán resueltos por aquella o aquellas unidades administrativas a las que se les atribuya la competencia en este ordenamiento.
+
+Los expedientes en trámite, archivo, mobiliario y, en general, equipo a cargo de las unidades administrativas que dejen de tener competencia en los asuntos de que se trate por virtud de la entrada en vigor de la presente reforma, pasarán a la nueva unidad o unidades competentes y serán distribuidos, en su caso, de conformidad con el ámbito de facultades que a cada una corresponda.
+
+QUINTO. Las modificaciones a la estructura orgánica de las unidades administrativas del Banco de México que deriven de la entrada en vigor de la presente reforma no generarán incremento en el presupuesto autorizado para recursos humanos del Banco para el siguiente ejercicio fiscal, toda vez que el presupuesto correspondiente a la estructura a que se refiere el presente artículo deberá elaborarse bajo el supuesto de que las disponibilidades presupuestales serán restituidas por los honorarios fiduciarios cobrados por el Banco con cargo al Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, de conformidad con la Ley del Fondo y el contrato constitutivo de dicho fideicomiso.
+
+SEXTO. En el evento que, de conformidad con las disposiciones de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, el nombramiento del Coordinador Ejecutivo del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, recaiga en la persona que, a su vez, ocupe el cargo de Coordinador Administrativo del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, las facultades de la Coordinación Ejecutiva y de la Coordinación Administrativa del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, señaladas en este Reglamento Interior quedarán referidas a una misma unidad administrativa, para efectos de administración del Banco de México, lo cual se deberá publicar en el Diario Oficial de la Federación y surtirá efectos al día siguiente de la publicación. En este supuesto, el titular de dicha unidad deberá especificar el carácter en que intervenga en cada acto que celebre, ya sea como Coordinador Ejecutivo del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo o como Coordinador Administrativo del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo.
