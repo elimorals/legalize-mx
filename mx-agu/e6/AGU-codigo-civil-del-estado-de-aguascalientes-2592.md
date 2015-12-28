@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2015-08-03"
+last_updated: "2015-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2015.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -385,7 +385,9 @@ A las personas que estando obligadas a declarar el nacimiento y lo hagan fuera d
 
 El registro de un nacimiento contendrá el año, mes, día, hora y lugar del mismo; el sexo y la impresión digital del presentado; el nombre y apellidos que le correspondan, sin que por motivo alguno pueda omitirse la expresión de si es presentado vivo o muerto; así como la Clave Única de Registro de Población; el nombre, edad, domicilio y nacionalidad de los padres; el nombre, domicilio y nacionalidad de los abuelos paternos y maternos; y el nombre, edad, domicilio y nacionalidad de los testigos. Si la presentación se realiza por una persona distinta de los padres, se anotará su nombre, apellidos, edad, domicilio y parentesco con el registrado, salvo las prevenciones contenidas en los Artículos siguientes.
 
-El nombre del registrado estará constituido invariablemente por nombre propio, primero y segundo apellidos.
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2015)</small>
+
+El nombre del registrado estará constituido por nombre propio así como por el primer apellido del padre y el primer apellido de la madre, en el orden que de común acuerdo determinen los padres; el orden de los apellidos del primogénito deberá aplicarse para los hijos nacidos posteriormente con el mismo vínculo y en caso de que no exista acuerdo entre los padres, el Oficial del Registro Civil determinará el orden de los apellidos mediante sorteo.
 
 Para llevar a cabo el registro del nacimiento, invariablemente el Oficial del Registro Civil, deberá exigir el certificado de nacimiento y lo cancelará, para evitar la duplicidad de registros.
 
@@ -483,11 +485,11 @@ Cuando se trate de parto múltiple se elaborará un registro por cada uno de los
 
 DE LAS ACTAS DE RECONOCIMIENTO.
 
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 69.
 
-El registro de nacimiento surte efecto de reconocimiento de hijo, en relación a los progenitores que aparezcan en el mismo. Un registro de reconocimiento debe contener, el nombre, apellidos, fecha y lugar de nacimiento; domicilio y huella digital del reconocido; nombre, apellidos, edad, domicilio y nacionalidad del reconocedor; nombre, apellidos, nacionalidad y domicilio de los abuelos; padres del reconocedor, nombres, apellidos, edad, estado civil, domicilio, nacionalidad y parentesco con el reconocido de la persona o personas que otorgan el consentimiento, en su caso, y nombres, apellidos, edad, domicilio y nacionalidad de los testigos.
+El registro de nacimiento surte efecto de reconocimiento de hijo, en relación a los progenitores que aparezcan en el mismo. Un registro de reconocimiento debe contener el nombre, apellidos en términos de lo previsto en el Artículo 53 párrafo segundo de este Código, así como fecha y lugar de nacimiento; domicilio y huella digital del reconocido; nombre, apellidos, edad, domicilio y nacionalidad del reconocedor; nombre, apellidos, nacionalidad y domicilio de los abuelos; nombres y apellidos de los padres del reconocedor así como su edad, estado civil, domicilio, nacionalidad y parentesco con el reconocido de la persona o personas que otorgan el consentimiento, en su caso, y nombres, apellidos, edad, domicilio y nacionalidad de los testigos.
 
 Cuando el reconocimiento se realice después de llevado a cabo el Registro de Nacimiento, se cancelará la Clave Unica de Registro de Población (CURP) asignada, y se formulará una nueva debiendo notificarse lo anterior a la Dirección General del Registro Nacional de Población e Identificación Personal de la Secretaría de Gobernación, o dependencia federal semejante.
 
@@ -2861,9 +2863,9 @@ Si los padres hubieren fallecido durante la menor edad de los hijos, tienen ést
 
 El hijo reconocido por el padre, por la madre o por ambos, tiene derecho:
 
-> <small>(REFORMADA, P.O. 23 DE AGOSTO DE 1998)</small>
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2015)</small>
 
-I.- A llevar el apellido paterno de sus progenitores, o ambos apellidos del que lo reconozca;
+I.- A llevar el primer apellido de sus progenitores, o ambos apellidos del que lo reconozca;
 
 II.- A ser alimentado por éste;
 
@@ -17018,3 +17020,9 @@ P.O. 3 DE AGOSTO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el mismo día en que inicie su vigencia el Decreto 201 publicado en el Periódico Oficial del Estado, el 22 de junio del 2015.
+
+P.O. 28 DE DICIEMBRE DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
