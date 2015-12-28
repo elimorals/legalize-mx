@@ -4,7 +4,7 @@ identifier: "MIC-ley-del-notariado-del-estado-de-michoacan-de-ocampo-6136"
 country: "mx"
 rank: "ley"
 publication_date: "1980-02-21"
-last_updated: "2013-07-26"
+last_updated: "2015-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6136&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY DEL NOTARIADO DEL ESTADO DE MICHOACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Michoacán, el jueves 21 de febrero de 1980.
 
@@ -49,15 +49,35 @@ LEY DEL NOTARIADO
 
 El Notariado es una función de orden público. Estará bajo la potestad del Poder Ejecutivo por conducto de la Secretaría de Gobierno y su ejercicio se encomendará a los Notarios Públicos.
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 1986)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 2o.
 
-Es facultad del Ejecutivo del Estado nombrar a los notarios públicos.
+Es facultad del Titular del Poder Ejecutivo del Estado expedir nombramiento de notario público, bajo los criterios y formalidades de selección, designación y permanencia establecidos en la presente Ley.
 
 ###### ARTICULO 3o.
 
 El notario es el profesional del Derecho investido de fe pública para hacer constar los actos y hechos jurídicos a los que los interesados deban o quieran dar autenticidad conforme a las leyes, revistiéndolos de solemnidad y formas legales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2015)</small>
+
+La función pública notarial es un ejercicio que se debe desempeñar con estricto apego a la norma jurídica, probidad, calificación, prudencia, de manera personalísima, profesionalismo e imparcialidad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2015)</small>
+
+Los notarios públicos deberán cumplir con el programa de certificación, previamente autorizado por la Secretaría de Gobierno y que implemente el Consejo de Notarios al menos cada seis meses. Esta certificación tendrá una vigencia de dos años y será expedida por la Secretaría de Gobierno y el Consejo de Notarios.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2015)</small>
+
+En caso de que el Consejo de Notarios no implemente el programa de certificación en tiempo y forma, la Secretaría de Gobierno lo implementará.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2015)</small>
+
+La Secretaría de Gobierno llevará un libro de registro de los expedientes respectivos, en los que obre copia de la constancia de certificación de los notarios y verificará periódicamente la vigencia de dicha certificación para los efectos correspondientes.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2015)</small>
+
+El notario que no cuente con la constancia de certificación vigente, será sancionado de conformidad con lo establecido por los artículos 131 y 132 de esta Ley, bajo apercibimiento que de no obtener la certificación respectiva en el plazo de hasta dos años, contado a partir del día siguiente al de la notificación de la sanción, se considerará reincidencia y será sancionado conforme al artículo 116 de esta Ley.
 
 ###### ARTICULO 4o.
 
@@ -153,7 +173,13 @@ Lo dispuesto en este precepto por ser de orden público no es objeto de pacto en
 
 En la capital del Estado los notarios de número no podrán ser menos de diez; de cuatro en Zamora, Uruapan, Apatzingán y La Piedad; de tres en Zacapu y Zitácuaro; de dos en Jiquilpan, Sahuayo, Puruándiro, Los Reyes, Lázaro Cárdenas, Pátzcuaro, Tacámbaro, Ario de Rosales y Ciudad Hidalgo y de uno en las demás cabeceras de Distrito o de Municipalidad.
 
-El Gobernador del Estado podrá crear nuevas notarías, tomando en consideración el aumento de la población y las necesidades sociales o cuando a su juicio lo exija el incremento global de los negocios.
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2015)</small>
+
+En tratándose de las demarcaciones de los distritos judiciales del Estado, habrá un notario cuando se acredite que en el Distrito Judicial de que se trate los actos notariales inscritos en el Registro Público de la Propiedad en el Estado, en la Dirección del Notariado y Archivo General de Notarías y en las oficinas de Administración de Rentas, se incrementaron en un veinte por ciento durante los dos últimos años, así como cuando el número de notarios en funciones en dicho Distrito Judicial no sea suficiente para cubrir las necesidades notariales en términos del primer párrafo de este artículo o la población del distrito judicial haya aumentado cuando menos un cinco por ciento con base en las cifras del último censo de población y vivienda o del conteo de población y vivienda, según corresponda.
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2015)</small>
+
+El Titular del Ejecutivo del Estado expedirá nombramientos de nuevos notarios y cubrirá las vacantes en caso de cesación y renuncia.
 
 ###### ARTICULO 16.
 
@@ -179,19 +205,65 @@ El notario será de número y llevará el que le corresponda, atento al orden qu
 
 ## TITULO SEGUNDO. DEL NOMBRAMIENTO DE LOS NOTARIOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 21.
 
-Para obtener nombramiento de notario, son indispensables los requisitos siguientes:
+Para obtener el nombramiento de notario, son indispensables los requisitos siguientes:
 
-I.- Ser mexicano por nacimiento, haber cumplido treinta años de edad y cinco de ejercicio profesional, estar en pleno uso de sus derechos, acreditar buena conducta y no pertenecer al estado eclesiástico;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2015)</small>
+
+I.- Ser mexicano por nacimiento, haber cumplido treinta años de edad, cinco años de haber obtenido título de licenciado en derecho o abogado, estar en pleno uso de sus derechos, acreditar buena conducta y no haber sido ministro de culto religioso dentro de los últimos tres años;
 
 II.- Tener residencia ininterrumpida en el Estado por más de tres años;
 
 III.- Haber obtenido titulo de licenciado en derecho, debidamente registrado;
 
-IV.- Gozar de buen estado de salud física y mental; y,
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2015)</small>
 
-V.- No haber sido condenado en sentencia ejecutoriada por delito doloso o preterintencional.
+IV.- Gozar de buen estado de salud física y mental;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2015)</small>
+
+V.- No haber sido condenado en sentencia ejecutoriada por delito doloso o preterintencional;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2015)</small>
+
+VI.- Inscribirse en la convocatoria respectiva para ocupar la notaría de mérito; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2015)</small>
+
+VII.- Aprobar el examen teórico práctico correspondiente con una calificación mínima de ocho, sobre un máximo de diez.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 28 DE DICIEMBRE DE 2015)</small>
+
+Los exámenes para aspirar a obtener el nombramiento de notario, se regirán por las reglas siguientes:
+
+a. Los exámenes teórico y práctico se efectuarán en el domicilio, día y hora que sean acordados, por la Secretaría de Gobierno, los cuales serán publicados en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo y en los tres periódicos de mayor circulación en el Estado, por tres días consecutivos.
+
+b. El jurado se compondrá por cinco miembros propietarios con sus suplentes respectivos. El suplente actuará a falta del titular.
+
+c. El jurado estará integrado por un Presidente nombrado por el Titular del Ejecutivo, que será servidor público de la Secretaría de Gobierno; un Secretario, designado por el Colegio de Notarios y que tendrá que ser forzosamente un notario en funciones; y, tres vocales que serán, un catedrático distinguido de la materia notarial en alguna de las universidades del Estado, designado por el Titular del Poder Ejecutivo; un notario, nombrado de común acuerdo entre el Titular del Ejecutivo y el Consejo de Notarios y el Titular de la Dirección del Notariado y Archivo General de Notarias del Gobierno del Estado de Michoacán de Ocampo.
+
+Los miembros que integren el jurado no podrán ser cónyuges o parientes consanguíneos o afines hasta el cuarto y segundo grados, respectivamente, del sustentante, ni titulares de las Notarías en que éste haya realizado su práctica o prestado servicios profesionales.
+
+d. El examen constará de dos partes, una teórica y una práctica, ambos exámenes se realizarán en el mismo lugar, en las fechas establecidas en la Convocatoria y con los mismos integrantes del jurado.
+
+e. La prueba práctica será pública y vigilada por al menos tres miembros del jurado, consistirá en la redacción de uno o varios instrumentos notariales específicos, su tema será sorteado de entre veinte formulados por el jurado, en presencia de todos los aspirantes.
+
+f. Las pruebas prácticas serán colocadas en sobres cerrados, sellados y firmados por el jurado y el aspirante.
+
+g. La prueba teórica consistirá en un examen en línea, con preguntas aleatorias relacionadas con el derecho notarial. Una vez finalizado el examen, deberá ser impresa inmediatamente la calificación correspondiente a dicho examen.
+
+h. Es el jurado en pleno a quién le compete calificar la resolución de la prueba práctica, de conformidad con lo establecido en la convocatoria.
+
+i. Las calificaciones se harán constar en el acta que el Secretario redactará y que deberá ser firmada por todos los integrantes del jurado y se harán públicas a través de la página web del Gobierno del Estado, protegiendo la identidad de los aspirantes.
+
+j. El Secretario del jurado redactará el acta en la que harán constar las calificaciones de todos los participantes, y en específico las calificaciones de aquellos aspirantes con calificación mayor a ocho, remitiéndola de inmediato al Titular del Ejecutivo quien valorará la trayectoria profesional y académica, así como la calificación, para hacer la designación de Notario.
+
+Si ninguno de los aspirantes obtuviera calificación mayor a ocho, el concurso se declarará desierto.
+
+k. El resultado de este proceso y el nombramiento otorgado por el Titular del Poder Ejecutivo, será publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo y en los tres periódicos de mayor circulación en el Estado, por tres días consecutivos.
 
 ###### ARTICULO 22.
 
@@ -199,11 +271,19 @@ Los requisitos anteriores se acreditarán, en su orden, con:
 
 Copia certificada del acta de nacimiento; acta expedida por la autoridad competente; constancia de la autoridad política del lugar; certificado de residencia otorgado por la autoridad municipal, título debidamente registrado o copia certificada del mismo; certificado emitido por dos médicos oficiales; y, constancia de la Procuraduría General de Justicia del Estado.
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 23.
 
-Cuando estuviera vacante alguna notaría o fuere creada una nueva por el Ejecutivo del Estado, el interesado presentará la solicitud correspondiente a la Secretaría de Gobierno, anotándose en aquélla día y hora en que fuere presentada, acompañando los documentos que justifiquen estar satisfechos los requisitos que señala esta Ley.
+Cuando estuviera vacante alguna notaría o fuere creada una nueva, el Ejecutivo del Estado publicará por única ocasión en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo y en los tres periódicos de mayor circulación en el Estado, durante los tres días siguientes, convocatoria pública abierta para ocupar dicho cargo, con una anticipación de cuarenta y cinco días naturales a la fecha de los exámenes.
+
+El interesado presentará la solicitud de inscripción correspondiente en la Secretaría de Gobierno, anotándose en aquélla día y hora en que fuere presentada, acompañando los documentos que satisfagan los requisitos que señala esta Ley.
+
+Entre la fecha de publicación de la convocatoria y el inicio del plazo para la inscripción de solicitudes deberá mediar un plazo de diez días hábiles. Las inscripciones se harán en la Dirección del Notariado y Archivo General de Notarías de la Secretaría de Gobierno. El plazo para la recepción de solicitudes será de diez días hábiles.
+
+Concluido el plazo de recepción de solicitudes, la Dirección del Notariado y Archivo General de Notarías de la Secretaría de Gobierno, dentro de los diez días hábiles siguientes, publicará en los mismos medios, la lista de aspirantes que haya (sic) reunido los requisitos exigidos por esta Ley, para presentar el concurso de oposición. (sic) Dirección del Notariado y Archivo General de Notarías de la Secretaría de Gobierno expedirá a los aspirantes la constancia para presentar el concurso de oposición.
+
+La lista de aspirantes podrá ser impugnada por cualquier persona que acredite tener interés jurídico ante la propia Dirección del Notariado y Archivo General de Notarías de la Secretaría de Gobierno, dentro del término de cinco días hábiles contados a partir de la fecha de su última publicación, acompañando las pruebas documentales que se estimen pertinentes. La Dirección del Notariado y Archivo General de Notarías de la Secretaría de Gobierno resolverá lo conducente en un plazo de cinco días hábiles, previa audiencia.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 1986)</small>
 
@@ -835,17 +915,21 @@ V.- Faltare algún otro requisito que produzca la nulidad por disposición expre
 
 Los notarios podrán separarse del ejercicio de sus funciones o ausentarse del lugar de su residencia en cada semestre, por diez días hábiles consecutivos o alternados, dando aviso a la Secretaría de Gobierno y a la Dirección del Notariado y Archivo General de Notarías.
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 111.
 
-El Secretario de Gobierno podrá conceder licencia al Notario que la solicite, para separarse de su cargo, hasta por el término de seis meses, la que podrá ser renunciable.
+La Secretaría de Gobierno podrá conceder licencia al notario que la solicite, para separarse de su cargo, hasta por el término de seis meses, la que podrá ser renunciable.
 
-> <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 112.
 
-Cuando el Ejecutivo conceda una licencia a un Notario, podrá designar sustituto si lo estima necesario. Ordenará la publicación correspondiente en el Periódico Oficial del Estado, comunicando esa circunstancia al Director del Registro Público de la Propiedad y a la Dirección del Notariado y Archivo General de Notarías.
+Cuando la Secretaría de Gobierno conceda una licencia a un Notario o éste sea suspendido, podrá designar sustituto si lo estima necesario. Ordenará la publicación correspondiente en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo, comunicando esa circunstancia al Director del Registro Público de la Propiedad y al Director del Notariado y Archivo General de Notarías.
+
+Si el Titular del Poder Ejecutivo designa un sustituto que se encargue del despacho de la Notaría, éste lo hará constar así en cada caso, autorizando los actos con su propio sello.
+
+Los notarios sustitutos no podrán convertirse en titulares de la notaría que están sustituyendo, dejarán de actuar como notario en cuanto termine la licencia o suspensión del titular y sólo podrán convertirse en titulares, siempre y cuando participen en el proceso que establece la presente Ley.
 
 ### CAPITULO II. DE LA SUSPENSION
 
@@ -895,9 +979,17 @@ VII.- Ser condenado por delito doloso o preterintencional en sentencia firme, a�
 
 VIII.- Haber sido suspendido en tres ocasiones durante un año;
 
-IX.- Ser declarado en estado de interdicción por enfermedad mental incurable; y,
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2015)</small>
 
-X.- Impedimento físico definitivo.
+IX.- Ser declarado en estado de interdicción por enfermedad mental incurable;
+
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2015)</small>
+
+X.- Impedimento físico definitivo; y,
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 28 DE DICIEMBRE DE 2015)</small>
+
+XI.- No acreditar por segunda ocasión consecutiva su certificación.
 
 > <small>(REFORMADO, P.O. 26 DE JULIO DE 2013)</small>
 
@@ -967,9 +1059,11 @@ La Secretaría de Gobierno designará el funcionario que se encargue de formular
 
 En el caso de separación o suspensión del Notario por un término mayor de seis meses, el sello de la notaría deberá depositarse en la Dirección del Notariado y Archivo General de Notarías.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 128.
 
-Si el Gobernador designa un sustituto que se encargue del despacho de la notaría, éste lo hará constar así en cada caso, autorizando los actos con sello propio. El sustituto deberá llenar los requisitos de esta Ley para ejercer sus funciones.
+Cuando cese en sus funciones una notaría, no se expedirá convocatoria para designar titular de la misma, si no se cumple con lo establecido en el artículo 15 de esta Ley.
 
 ## TITULO QUINTO. DE LA RESPONSABILIDAD DE LOS NOTARIOS Y CANCELACION DE GARANTIA
 
@@ -1059,21 +1153,25 @@ El Colegio de Notarios estará facultado para formular sus propios estatutos; ta
 
 Los cargos del Consejo de Notarios son gratuitos e irrenunciables sin causa justificada. Los Consejeros sólo podrán estar separados de sus cargos durante el tiempo que legalmente lo estén del desempeño de sus funciones notariales. La suspensión o cesación del notario implica la del cargo de consejero.
 
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 140.
 
 Son atribuciones del Consejo de Notarios:
 
-I.- Auxiliar al Ejecutivo del Estado en la vigilancia sobre el cumplimiento de esta Ley, reglamentos y disposiciones que aquél dictare en materia del notariado;
+I. Coadyuvar con el Ejecutivo del Estado en la vigilancia sobre el cumplimiento de esta Ley, reglamentos y disposiciones que aquél dictare en materia del notariado y servir como órgano de consulta para tal efecto;
 
-II.- Estudiar y resolver los asuntos y problemas relacionados con la función notarial que el Ejecutivo del Estado le encomiende;
+II. Coadyuvar con el Ejecutivo del Estado en la organización, práctica, calificación y validación del concurso de oposición para el nombramiento de nuevos notarios;
 
-III.- Opinar en los casos que la Ley le señale;
+III. Estudiar y resolver los asuntos y problemas relacionados con la función notarial que el Ejecutivo del Estado le encomiende;
 
-IV.- Resolver las consultas que les hicieren los notarios del Estado, referente al ejercicio de sus funciones;
+IV. Emitir recomendaciones en los casos que la Ley le señale;
 
-V.- Pugnar por la superación de la función notarial; y,
+V. Resolver las consultas que les hicieren los notarios del Estado, referente al ejercicio de sus funciones;
 
-VI.- Las demás que les confiere esta Ley y sus reglamentos.
+VI. Planear, organizar y ejecutar todos los programas de actualización y certificación que estimen convenientes, así como el curso de formación de aspirantes a notarios; y,
+
+VII. Las demás que les confiere esta Ley y sus reglamentos.
 
 ## TITULO SEPTIMO. DEL ARCHIVO GENERAL DE NOTARIAS E INSPECCION
 
@@ -1248,3 +1346,13 @@ El Titular del Poder Ejecutivo del Estado dispondrá lo necesario para que, en u
 ###### ARTÍCULO TERCERO.
 
 Durante el lapso de tiempo establecido en el artículo transitorio segundo del presente Decreto, una vez obtenidos los folios respectivos, cada Notario cerrará los libros de protocolo que se encuentren en uso como si hubieran sido completados.
+
+P.O. 28 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 02 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 2o, 3o, 15, 21, 23, 111, 112, 116, 128 y 140 DE LA LEY DEL NOTARIADO".]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+Artículo Segundo. Los notarios en funciones, a la entrada en vigor del presente Decreto, cuentan con dieciocho meses para certificarse.
+
+Artículo Tercero. El programa de certificación previsto en el artículo 3 de esta Ley, deberá ser presentado por el Consejo de Notarios a la Secretaría de Gobierno; una vez autorizado por la Secretaría de Gobierno, el Consejo de Notarios contará con cuarenta y cinco días naturales para implementarlo.
