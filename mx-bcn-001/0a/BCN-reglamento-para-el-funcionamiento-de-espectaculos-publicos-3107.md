@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-el-funcionamiento-de-espectaculos-publicos-3107
 country: "mx"
 rank: "reglamento"
 publication_date: "1986-05-20"
-last_updated: "2015-05-08"
+last_updated: "2015-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3107&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA EL FUNCIONAMIENTO DE ESPECTÁCULOS PÚBLICOS Y CENTROS DE REUNIÓN PARA EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ÚNICO, EL PRESENTE DECRETO ENTRA EN VIGOR A LOS QUINCE DÍAS DE SU PUBLICACIÓN EN TODO EL TERRITORIO DEL MUNICIPIO DE ENSENADA.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el martes 20 de mayo de 1986.
 
@@ -285,7 +283,9 @@ XIII.- Se les prohíbe a las empresas, sus representantes o empleados, vender bo
 
 XIV.- En los espectáculos públicos el uso de los Símbolos Patrios quedará sujeto a las disposiciones que emanan de la Ley en vigor sobre la materia.
 
-XV.- A las empresas teatrales les queda prohibido utilizar la música mecánica o proporcionada por aparatos eléctricos, estando obligados a emplear músicos, preferentemente sindicalizados; o en su defecto pagar la correspondiente cuota por desplazamiento.
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2015)</small>
+
+XV.- Los centros de reunión ubicados en zonas residenciales solo podrán ser utilizados para tal fin hasta las 23:59 horas.
 
 XVI.- Las empresas y los actores son solidariamente responsables por las señas, palabras y acciones que ejecuten estos últimos en sus representaciones cuando sean inmorales o bien propendan a hacer críticas que puedan constituir un acto delictuoso o inciten a que se cometan actos contra la paz pública.
 
@@ -491,11 +491,17 @@ En los lugares en que se celebren rifas o sorteos que se hayan autorizado confor
 
 De la infracción de esta disposición serán responsables las personas a favor de quienes se hubiere expedido la autorización respectiva.
 
-### Capítulo Segundo.. De los Bailes o Fiestas en casa de Particulares sin fines de Especulación
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 28 DE DICIEMBRE DE 2015)</small>
+
+### Capítulo Segundo.. De los Bailes, Fiestas o Reunión en Casa de Particulares Sin Fines de Especulación
+
+> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 42o.
 
-Las personas que deseen organizar algún baile o fiesta en domicilio particular o en salones que se alquilen para ello pero que no tengan fines de especulación, deberán obtener el permiso correspondiente de la Presidencia Municipal, solicitándolo con dos días de anticipación a la fecha en que deba verificarse, y pagarán la cantidad correspondiente que fije la Ley de Ingresos Municipales en vigor en la fecha de la solicitud.
+Las personas que deseen organizar algún baile, fiesta o reunión en domicilio particular o en salones que se alquilen para ello pero el evento sea privado sin fines de lucro, deberán obtener el permiso correspondiente de la Presidencia Municipal, solicitándolo con dos días de anticipación a la fecha en que deba verificarse, y pagarán la cantidad correspondiente que fije la Ley de Ingresos Municipales en vigor en la fecha de la solicitud, en el entendido que el permiso en mención tendrá vigencia hasta las 23:59 horas del día del evento.
+
+En los domicilios particulares en los que se pretenda efectuar algún baile, fiesta o reunión no podrán producir ruido con aparatos musicales o por cualquier otro medio sonoro, usado con elevada intensidad que provoque molestia, interfiera con el sueño, trabajo o descanso o que lesione o dañe física o psicológicamente al individuo, la flora, la fauna y a los bienes públicos o privados, en los términos del Artículo 175 fracción II del Reglamento para el Control de la Calidad Ambiental del Municipio de Ensenada, Baja California.
 
 ###### Artículo 43o.
 
@@ -663,7 +669,7 @@ c).- En caso de violación a las distintas Fracciones del artículo 23o. de este
 
 3.- Por violación a la Fracción III, multa de dos a tres días pudiendo conmutarse por arresto de uno a tres días.
 
-4.- Cuando hubiere sido censurado un programa por el Gobierno Municipal conforme a la Fracción IV del Artículo 23 del Reglamento y se permita la entrada a menores de edad a los lugares en que se presente el evento, multa de cuatro a cinco díaso de (sic) arresto de dos a cinco días.
+4.- Cuando hubiere sido censurado un programa por el Gobierno Municipal conforme a la Fracción IV del Artículo 23 del Reglamento y se permita la entrada a menores de edad a los lugares en que se presente el evento, multa de cuatro a cinco díaso (sic) arresto de dos a cinco días.
 
 5.- Por violación a la Fracción V, multa de dos a tres días o arresto de dos a cinco días.
 
@@ -962,3 +968,9 @@ SEGUNDO.- Una vez siendo aprobada la presente reforma, publíquese en el Diario 
 P.O. 8 DE MAYO DE 2015.
 
 ÚNICO.- Siendo aprobada la presente reforma, incorpórese al libro de actas y publíquese en el Periódico Oficial del Gobierno del Estado de Baja California, para efectos de iniciar la vigencia a los quince días de su publicación en todo el territorio del Municipio de Ensenada.
+
+P.O. 28 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS REGLAMENTOS PARA EL FUNCIONAMIENTO DE ESPECTÁCULOS PÚBLICOS Y CENTROS DE REUNIÓN, CONTROL DE LA CALIDAD AMBIENTAL Y AL ARTÍCULO 26 DEL BANDO DE POLICÍA Y BUEN GOBIERNO, TODOS DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA”.]
+
+ÚNICO. La presente reforma entrara en vigor al día siguiente a su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
