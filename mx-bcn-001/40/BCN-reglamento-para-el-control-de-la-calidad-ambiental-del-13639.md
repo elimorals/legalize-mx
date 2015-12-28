@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-el-control-de-la-calidad-ambiental-del-13639"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-01-29"
-last_updated: "2015-08-28"
+last_updated: "2015-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ state: "BCN"
 
 REGLAMENTO PARA EL CONTROL DE LA CALIDAD AMBIENTAL DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2015.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 29 de enero de 1999.
 
@@ -872,11 +872,11 @@ Los establecimientos y actividades mercantiles o de servicios que generen vibrac
 
 Queda prohibido instalar establos o similares, curtidoras, explotaciones avícolas, pecuarias y demás actividades que generen olores perjudiciales, en zonas habitacionales y en general dentro de los centros de población.
 
-> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
-
 ###### Artículo 84.
 
 Los responsables de establos o actividades similares que se pretendan instalar en zonas autorizadas para su funcionamiento, estarán obligados a tomar medidas necesarias para no producir olores perjudiciales al ambiente; en caso de inobservancia se sancionará conforme lo dispone el presente Reglamento.
+
+> <small>(REFORMADO, P.O. 22 DE NOVIEMBRE DE 2013)</small>
 
 ###### Artículo 85.
 
@@ -1618,7 +1618,9 @@ Se sancionará con multa de veinte a setecientos cincuenta días de salario mín
 
 I.- A los propietarios o poseedores de cualquier vehículo automotor, público o privado, que no efectúen la verificación vehicular de emisión de contaminantes a la atmósfera a que estén obligados, en los términos de los programas que se establezcan para tal efecto;
 
-II.- Utilizar aparatos amplificadores de sonido y otros dispositivos similares con el fin colectivo no comercial, que produzcan ruido en la vía pública o en el ambiente de la comunidad, que excedan de un nivel de 75 decibeles, o fuera de horario permitido;
+> <small>(REFORMADA, P.O. 28 DE DICIEMBRE DE 2015)</small>
+
+II.- Utilizar aparatos amplificadores de sonido y otros dispositivos similares con el fin colectivo no comercial, que produzcan ruido en la vía pública o en el ambiente de la comunidad, que excedan de un nivel de 55 decibeles en un horario comprendido de las 06:00 a las 22:00 horas, y de 50 decibeles en un horario comprendido de las 22:00 a las 06:00 horas y se cumpla con lo establecido en el Articulo 42 del Reglamento para el funcionamiento de Espectáculos Públicos y Centros de Reunión para el Municipio de Ensenada, Baja California.
 
 III.- Emitir ruido con vehículos de automotores en movimiento, a un nivel superior a los:
 
@@ -1825,3 +1827,9 @@ La presente reforma entrará en vigor al día siguiente de su publicación en el
 P.O. 28 DE AGOSTO DE 2015.
 
 UNICO.- Una vez siendo aprobada la presente reforma, publíquese en la Gaceta Municipal y/o en el Periódico Oficial del Gobierno del Estado de Baja California, para que surta efectos al día siguiente de su publicación en todo el territorio del Municipio de Ensenada B.C.
+
+P.O. 28 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS REGLAMENTOS PARA EL FUNCIONAMIENTO DE ESPECTÁCULOS PÚBLICOS Y CENTROS DE REUNIÓN, CONTROL DE LA CALIDAD AMBIENTAL Y AL ARTÍCULO 26 DEL BANDO DE POLICÍA Y BUEN GOBIERNO, TODOS DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrara en vigor al día siguiente a su publicacón (sic) en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
