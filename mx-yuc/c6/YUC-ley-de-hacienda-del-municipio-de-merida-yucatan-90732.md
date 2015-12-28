@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-merida-yucatan-90732"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-28"
-last_updated: "2014-12-30"
+last_updated: "2015-12-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "YUC"
 
 LEY DE HACIENDA DEL MUNICIPIO DE MÉRIDA DEL ESTADO DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 30 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 28 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Suplemento del Diario Oficial del Estado de Yucatán, el viernes 28 de diciembre de 2012.
 
@@ -161,17 +161,31 @@ El Subdirector de Ingresos tendrá facultades para suscribir:
 
 a).- Las licencias de funcionamiento municipales, cuya expedición apruebe la autoridad competente;
 
-b).- Los certificados de no adeudar contribuciones municipales, y
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+
+b).- Los certificados de no adeudar contribuciones municipales;
 
 c).- Los acuerdos de notificación y mandamientos de ejecución, de las multas federales no fiscales y de las multas impuestas por las autoridades municipales y requerimientos de pago.
 
-> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-d).- Las constancias de excepción de pago de contribuciones previstas en esta Ley y
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
-> <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+d).- Las constancias de excepción de pago de contribuciones previstas en esta Ley;
 
-e).- Los oficios de comisión de los interventores de espectáculos y diversiones públicas.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+
+e).- Los oficios de comisión de los interventores de espectáculos y diversiones públicas; y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+
+f).- Los requerimientos de documentación a contribuyentes y terceros relacionados.
 
 #### Sección Cuarta. Del órgano administrativo
 
@@ -247,9 +261,11 @@ Las aportaciones: Son los recursos que la federación transfiere a las haciendas
 
 #### Sección Séptima. Ingresos derivados de Financiamiento
 
-> <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-ARTÍCULO 20 A.- Son los ingresos obtenidos por la celebración de empréstitos internos autorizados o ratificados por el Congreso del Estado y por el Cabildo, así como los financiamientos derivados de rescate y/o aplicación de Activos Financieros.
+> <small>(ADICIONADO [N. DE E. REFORMADO], D.O. 28 DE DICIEMBRE DE 2015)</small>
+
+ARTÍCULO 20 A.- Son los ingresos obtenidos por la celebración de empréstitos internos los autorizados o ratificados por el Congreso del Estado y los autorizados de forma directa por el Cabildo, sin la aprobación específica del Congreso del Estado, ambos de conformidad con lo dispuesto en la Ley de Deuda Pública del Estado de Yucatán; así como los financiamientos derivados de rescate y/o aplicación de Activos Financieros.
 
 #### Sección Primera. De la causación y determinación
 
@@ -405,7 +421,17 @@ VI.- Exhibir los documentos públicos y privados que requiera la Dirección de F
 
 VII.- Proporcionar con veracidad los datos que requiera la Dirección de Finanzas y Tesorería Municipal.
 
-VIII.- Realizar los pagos, y cumplir con las obligaciones fiscales, en la forma y términos que señala la presente Ley.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2015)</small>
+
+VIII.- Realizar los pagos, y cumplir con las obligaciones fiscales, en la forma y términos que señala la presente Ley, y
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, D.O. 28 DE DICIEMBRE DE 2015)</small>
+
+IX.- Acreditar para la realización de trámites ante la Dirección de Finanzas y Tesorería Municipal, el Registro Federal de Contribuyentes (RFC) emitido por el Servicio de Administración Tributaria.
 
 #### Sección Décima Segunda. De la causación de los Recargos
 
@@ -423,45 +449,95 @@ En adición a lo señalado en el párrafo inmediato anterior, el Director de Fin
 
 El titular de la licencia de funcionamiento deberá revalidarla durante los cuatro primeros meses de cada administración municipal; por lo que durante este plazo dicha licencia continuará vigente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Las personas físicas o morales que deban obtener por apertura la licencia de funcionamiento municipal, tendrán que anexar a la solicitud que presentarán a la Dirección de Finanzas y Tesorería Municipal los siguientes documentos vigentes:
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 28 DE DICIEMBRE DE 2015)</small>
 
-a).- El que compruebe fehacientemente que está al día en el pago del impuesto predial correspondiente al domicilio donde se encuentra el comercio, negocio o establecimiento en caso de ser propietario; en caso contrario, deberá presentar el convenio o contrato vigente, u otro documento que compruebe la legal posesión del mismo.
+El domicilio donde se encuentre el comercio, negocio o establecimiento deberá estar al día en el pago del Impuesto Predial.
 
-b).- Licencia de Uso del Suelo para iniciar el trámite de la Licencia de Funcionamiento Municipal;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-c).- Autorización, determinación, licencia o permiso expedido por la autoridad sanitaria, que corresponda al domicilio y al giro de la licencia de funcionamiento municipal.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
-d).- El recibo de pago del derecho correspondiente al giro en su caso.
+Para la obtención de la licencia de funcionamiento por apertura; las personas físicas o morales deberán comprobar:
 
-e).- Copia del comprobante de su Clave Única de Registro de Población en su caso.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-f).- Autorización de Ocupación en los casos previstos en el Reglamento de Construcciones del Municipio de Mérida;
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+
+a).- La legal ocupación del inmueble, mediante el contrato, convenio o cualquier otro documento que lo compruebe; en caso de no ser propietario del mismo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+
+b).- La autorización de la Dirección de Desarrollo Urbano para establecer un uso diferente a casa habitación, en un predio o inmueble; mediante la Licencia de Uso del Suelo para el trámite de la Licencia de Funcionamiento Municipal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+
+c).- La autorización para que en un establecimiento se expenda al público bebidas alcohólicas; mediante la determinación, licencia o permiso expedido por la autoridad sanitaria, que corresponda al domicilio y al giro de la licencia de funcionamiento municipal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+d).- (DEROGADO, D.O. 28 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+e).- (DEROGADO, D.O. 28 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+f).- (DEROGADO, D.O. 28 DE DICIEMBRE DE 2015)
 
 g).- Tratándose de estacionamientos públicos, la constancia de asignación de tipo y categoría previstos en el Reglamento de Estacionamientos Públicos, Privados y Temporales De Vehículos Del Municipio De Mérida.
 
-h).- Tratándose de establecimientos que se encuentren en un inmueble destinado a la prestación de un servicio público, estar al corriente del pago de derechos, acreditándolo con copia del recibo oficial correspondiente o bien del recibo que emita el organismo paramunicipal administrador del servicio.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+
+h).- Tratándose de establecimientos que se encuentren en un inmueble destinado a la prestación de un servicio público, estar al corriente en el pago de los derechos por el uso y aprovechamiento de los bienes de dominio público del patrimonio municipal, o bien, del recibo que emita el organismo paramunicipal administrador del servicio.
 
 Cuando el titular de una licencia de funcionamiento correspondiente a un comercio, negocio o establecimiento pretenda funcionar con un giro diferente o en otro domicilio deberá de obtener una nueva licencia satisfaciendo los requisitos anteriores.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Para la revalidación de la licencia de funcionamiento municipal deberán presentarse:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
-a).- Licencia de funcionamiento expedida por la administración municipal inmediata anterior o constancia de la misma, expedida por la Dirección de Finanzas y Tesorería Municipal.
+Para la obtención de la licencia de funcionamiento por revalidación¸ las personas físicas o morales deberán comprobar:
 
-b).- Documento que compruebe fehacientemente que está al día en el pago del impuesto predial correspondiente al domicilio donde se encuentra el comercio, negocio o establecimiento en caso de ser propietario; en caso contrario, deberá presentar el convenio o contrato vigente, u otro documento que compruebe la legal posesión del mismo.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-c).- El recibo de pago del derecho correspondiente en su caso.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
-d).- Autorización, determinación, licencia o permiso expedido por la autoridad sanitaria que corresponda al domicilio y al giro de la licencia de funcionamiento municipal.
+a).- La autorización de la administración municipal inmediata anterior; mediante la Licencia de funcionamiento o constancia de la misma, expedida por la Dirección de Finanzas y Tesorería Municipal.
 
-e).- Copia del comprobante de su Clave Única de Registro de Población en su caso.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Para el caso de revalidación, el requisito previsto en el inciso e) se presentará solo en caso de que ese dato no esté registrado en el padrón municipal.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
-f).- Tratándose de establecimientos que se encuentren en un inmueble destinado a la prestación de un servicio público, estar al corriente del pago de derechos, acreditándolo con copia del recibo oficial correspondiente o bien del recibo que emita el organismo paramunicipal administrador del servicio.
+b).- La legal ocupación del inmueble mediante el contrato, convenio o cualquier otro documento que lo compruebe; en caso de no ser propietario del inmueble.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+c).- (DEROGADO, D.O. 28 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+
+d).- La autorización para que en un establecimiento se expenda al público bebidas alcohólicas; mediante la determinación, licencia o permiso expedido por la autoridad sanitaria, que corresponda al domicilio y al giro de la licencia de funcionamiento municipal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+e).- (DEROGADO, D.O. 28 DE DICIEMBRE DE 2015)
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+
+f).- Tratándose de establecimientos que se encuentren en un inmueble destinado a la prestación de un servicio público, estar al corriente en el pago de los derechos por el uso y aprovechamiento de los bienes de dominio público del patrimonio municipal o bien, del recibo que emita el organismo paramunicipal administrador del servicio.
 
 Para el cambio de titular de la licencia de funcionamiento, se deberá acreditar con documentación fehaciente la cesión de derechos o traslación de dominio del comercio, negocio o establecimiento de conformidad con lo establecido en la Ley de la materia.
 
@@ -635,37 +711,41 @@ I.- Los valores unitarios para el terreno correspondiente a las secciones catast
 
 > <small>N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINAS DE LA 27 A LA 55.</small>
 
-> <small>N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 7 A LA 37; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 53 A LA 83.</small>
-
-CALLES Y AVENIDAS
+> <small>N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 7 A LA 37; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 53 A LA 83; 28 DE DICIEMBRE DE 2015, PÁGINAS DE 16 A LA 50.</small>
 
 II.- Los valores unitarios para los terrenos ubicados en las calles y avenidas principales, se especifican en la siguiente tabla, sin considerar el valor de la sección a la que pertenecen:
 
 > <small>N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINAS DE LA 56 A LA 61.</small>
 
-> <small>N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 37 A LA 45; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 83 A LA 90.</small>
+> <small>N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 37 A LA 45; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 83 A LA 90; 28 DE DICIEMBRE DE 2015, PÁGINAS DE 50 A LA 58.</small>
 
 III.- Los valores unitarios para los terrenos ubicados en el periférico y las calles laterales adyacentes que provean acceso al mismo, así como en las principales vialidades ubicadas fuera del periférico, se especifican en la siguiente tabla:
 
 > <small>N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINAS DE LA 61 A LA 62.</small>
 
-> <small>N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 45 A LA 46; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 90 A LA 91.</small>
+> <small>N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 45 A LA 46; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 90 A LA 91; 28 DE DICIEMBRE DE 2015, PÁGINAS DE 58 A LA 59.</small>
 
 La aplicación de los valores unitarios contenidos en esta fracción será a la superficie que resulte de multiplicar el frente del terreno, que se encuentre sobre el periférico y las calles laterales adyacentes que provean acceso al mismo, así como en las principales vialidades ubicadas fuera del periférico, hasta por los cien primeros metros de fondo; la superficie restante será valorada con el valor unitario de la sección catastral que corresponda al terreno.
 
-PLAZAS COMERCIALES
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-IV.- Los valores unitarios para los locales correspondientes a las plazas comerciales, que incluyan su área privativa y sus pro indiviso de las áreas comunes, de acuerdo a la siguientes (sic) tabla:
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2015)</small>
+
+IV.- Los valores unitarios para los locales correspondientes a las plazas comerciales, que incluyan su unidad de propiedad exclusiva y su cuota de participación de las áreas comunes (antes, área privativa y proindiviso), de acuerdo a la siguientes (sic) tabla:
 
 > <small>N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINA 62.</small>
 
-> <small>N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINA 46; 30 DE DICIEMBRE DE 2014, PÁGINA 91.</small>
+> <small>N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINA 46; 30 DE DICIEMBRE DE 2014, PÁGINA 91; 28 DE DICIEMBRE DE 2015, PÁGINA 59.</small>
 
-V.- Los valores unitarios para los diferentes tipos de construcción y factores por zona, que se expresan en la siguiente tabla:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2015)</small>
+
+V.- Los valores unitarios para los diferentes tipos de construcción y factores por zona, que se expresan en las siguientes tablas:
 
 > <small>N. DE E. VÉASE TABLA EN EL D.O. DE 28 DE DICIEMBRE DEL 2012, PÁGINAS DE LA 63 A LA 64.</small>
 
-> <small>N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 46 A LA 48; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 91 A LA 94.</small>
+> <small>N. DE E. VÉASE REFORMAS A LA TABLA EN EL D.O. 23 DE DICIEMBRE DE 2013, PÁGINAS DE LA 46 A LA 48; 30 DE DICIEMBRE DE 2014, PÁGINAS DE LA 91 A LA 94; 28 DE DICIEMBRE DE 2015, PÁGINAS DE 60 A LA 63.</small>
 
 > <small>(ADICIONADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
 
@@ -677,7 +757,9 @@ FACTORES DE DEMÉRITO (el valor unitario de terreno se multiplicará por el fact
 
 A) DE FORMA* POR FRENTE (NO APLICA SI EL PREDIO ES INTERIOR, SIN ACCESO A VIALIDAD)
 
-> <small>(REFORMADA SU TABLA DE VALORES, D.O. 23 DE DICIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU TABLA DE VALORES, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
 FRENTE (metros): FACTOR
 
@@ -689,7 +771,17 @@ menor a 5.00 0.65
 
 7.00 o mayor 1.00
 
-B) DE FORMA* POR RELACIÓN FONDO/FRENTE (NO APLICA SI EL PREDIO ES INTERIOR)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+
+B) DE FORMA* POR RELACIÓN FONDO/FRENTE, que es el resultado de dividir el fondo entre el frente. Se podrá aplicar el factor de demérito indicado en la tabla aquí contenida, de acuerdo a la relación fondo/frente.
+
+Este demérito no aplica en los siguientes casos:
+
+I. Si el predio es interior, sin acceso a vialidad
+
+II. Para la superficie que resulte de multiplicar el frente por sí mismo y su resultado multiplicado por el factor 3.
 
 FONDO/FRENTE FACTOR:
 
@@ -698,8 +790,6 @@ FONDO/FRENTE FACTOR:
 4.01 a 5.00 0.50
 
 3.01 a 4.00 0.60
-
-3.0 o menor 1.00
 
 C) DE FORMA* POR IRREGULARIDAD
 
@@ -729,9 +819,11 @@ G) DE SUPERFICIE
 
 Si el predio es mayor de 5,000 m² el excedente de terreno por sobre esa cantidad podrá ser afectado de acuerdo a la siguiente tabla de factores
 
-> <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE TABLA, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Superficie excedente sobre 5,000 M2 Factor
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2015)</small>
+
+SUPERFICIE EXCEDENTE SOBRE 5,000 M2 Factor
 
 5,000 o menos 0.90
 
@@ -857,7 +949,11 @@ Son sujetos solidariamente responsables del pago del Impuesto Sobre Adquisición
 
 I.- Los fedatarios públicos y las personas que por disposición legal tengan funciones notariales, cuando autoricen una escritura que contenga alguno de los supuestos que se relacionan en el artículo 56 de la presente Ley y no hubiesen constatado el pago del impuesto.
 
-II.- Los funcionarios o empleados del Registro Público de la Propiedad del Estado, que inscriban cualquier acto, contrato o documento relativo a algunos de los supuestos que se relacionan en el artículo 56 de esta Ley, sin que les sea exhibido el recibo correspondiente al pago del impuesto.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2015)</small>
+
+II.- Los funcionarios o empleados del Registro Público de la Propiedad del Estado, que inscriban cualquier acto, contrato o documento relativo a algunos de los supuestos que se relacionan en el artículo 56 de esta Ley, sin que les sea exhibido el recibo y el comprobante fiscal digital por internet (CFDI) correspondiente al pago del impuesto.
 
 Del objeto
 
@@ -867,7 +963,11 @@ Es objeto del Impuesto Sobre Adquisición de Inmuebles, toda adquisición del do
 
 Para efectos de este Impuesto, se entiende por adquisición:
 
-I.- Todo acto por el que se adquiera la propiedad, incluyendo la donación y la aportación a toda clase de personas morales.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2015)</small>
+
+I.- Todo acto por el que se adquiera la propiedad, incluyendo la donación, la adjudicación por herencia o legado y la aportación a toda clase de personas morales.
 
 II.- La compraventa en la que el vendedor se reserve la propiedad del inmueble, aún cuando la transferencia de ésta se realice con posterioridad.
 
@@ -897,9 +997,13 @@ XIV.- En los casos de permuta se considerará que se efectúan dos adquisiciones
 
 De las excepciones
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 57.
 
-No se causará el Impuesto sobre adquisición de inmuebles en las adquisiciones que realicen la Federación, los Estados, el Distrito Federal, los Municipios, y en los casos siguientes:
+Se exceptúa del pago del Impuesto sobre adquisición de inmuebles en las adquisiciones que realicen la Federación, los Estados, el Distrito Federal, los Municipios, y en los casos siguientes:
 
 I.- La transformación de sociedades, con excepción de la fusión.
 
@@ -911,7 +1015,11 @@ IV.- La disolución de la copropiedad, siempre que las partes adjudicadas no exc
 
 V.- Cuando se adquieran inmuebles por herencia o legado.
 
-VI.- La donación entre cónyuges, ascendientes o descendientes en línea directa.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2015)</small>
+
+VI.- La donación entre consortes, ascendientes y descendientes en línea directa,previa (sic) comprobación del parentesco respectivo ante la Dirección de Finanzas y Tesorería Municipal.
 
 De la base
 
@@ -997,11 +1105,15 @@ Vigencia de los avalúos
 
 Los avalúos periciales que se practiquen para el efecto del pago del Impuesto Sobre Adquisición de Bienes Inmuebles tendrán una vigencia de seis meses, contados a partir de la fecha de su expedición. En todo caso, la fecha de la escritura deberá ubicarse dentro del plazo de vigencia.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+
 De la tasa
 
 ###### ARTÍCULO 60.
 
-El impuesto a que se refiere esta Sección, se calculará aplicando la tasa del 0.02, a la base señalada en el artículo 58 de esta Ley.
+El impuesto a que se refiere esta sección se calculará aplicando la tasa del 0.025, a la base señalada en el artículo 58 de esta Ley.
 
 Del manifiesto a la autoridad
 
@@ -1009,9 +1121,17 @@ Del manifiesto a la autoridad
 
 Los fedatarios públicos y las personas que por disposición legal tengan funciones notariales, deberán manifestar a la Dirección de Finanzas y Tesorería Municipal, por duplicado, dentro de los treinta días hábiles siguientes a la fecha del acto o contrato, la adquisición de inmuebles realizadas ante ellos, expresando:
 
-I.- Nombres y domicilios de los contratantes.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-II.- Nombre del fedatario público y número que le corresponda a la notaría o escribanía. En caso de tratarse de persona distinta a los anteriores, con funciones notariales, deberá expresar su nombre y el cargo que detenta.
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2015)</small>
+
+I.- Nombre, domicilio y Registro Federal de Contribuyentes (RFC) del adquirente, nombre y domicilio del enajenante.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2015)</small>
+
+II.- Nombre del fedatario público, número que le corresponda a la notaría o escribanía y su dirección de correo electrónico. En caso de tratarse de persona distinta a los anteriores, con funciones notariales, deberá expresar su nombre y el cargo que detenta.
 
 III.- Firma y sello, en su caso, del autorizante.
 
@@ -1027,19 +1147,35 @@ VIII.- Valor de la operación consignada en el contrato.
 
 IX.- Liquidación del impuesto.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+
+Para el caso de que el manifiesto no expresare el RFC del adquirente o fuere de nacionalidad Extranjera, la Dirección de Finanzas y Tesorería Municipal, expedirá el Comprobante Fiscal Digital (CFDI) para público en general o para residentes en el extranjero, según sea el caso y enviará a la dirección de correo electrónico del fedatario público el archivo XML del CFDI y su representación gráfica, de conformidad con las reglas vigentes establecidas por el Servicio de Administración Tributaria.
+
 A la manifestación señalada en este artículo, se acumulará copia del avalúo practicado al efecto.
 
-La obligación de presentar la manifestación a que se refiere el primer párrafo de este artículo no se aplicará en los casos previstos en las fracciones V y VI del artículo 57 de esta Ley.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+
+La obligación de presentar la manifestación a que se refiere el primer párrafo de éste artículo no se aplicará en los casos previstos en la fracción V del artículo 57 de esta Ley.
 
 De los responsables solidarios
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 62.
 
-Los fedatarios públicos y las personas que por disposición legal tengan funciones notariales, acumularán al instrumento donde conste la adquisición del inmueble o de los derechos sobre el mismo, copia del recibo donde se acredite haber pagado el impuesto, o bien, original del recibo con importe cero y copia del manifiesto sellado por la Dirección de Finanzas y Tesorería Municipal, cuando se trate de las operaciones consignadas en el artículo 57de (sic) esta ley. Para el caso de que las personas obligadas a pagar este impuesto, no lo hicieren, los fedatarios y las personas que por disposición legal tengan funciones notariales, se abstendrán de autorizar el contrato o escritura correspondiente.
+Los fedatarios públicos y las personas que por disposición legal tengan funciones notariales, acumularán al instrumento donde conste la adquisición del inmueble o de los derechos sobre el mismo, copia del recibo y del comprobante fiscal digital (CFDI) donde se acredite haber pagado el impuesto, o bien, original del recibo y del comprobante fiscal digital (CFDI) con importe cero y copia del manifiesto sellado por la Dirección de Finanzas y Tesorería Municipal, cuando se trate de las operaciones consignadas en el artículo 57 de esta ley. Para el caso de que las personas obligadas a pagar este impuesto, no lo hicieren, los fedatarios y las personas que por disposición legal tengan funciones notariales, se abstendrán de autorizar el contrato o escritura correspondiente.
 
-Por su parte, los registradores, no inscribirán en el Registro Público de la Propiedad del Estado, los documentos donde conste la adquisición de inmuebles o de derechos sobre los mismos, sin cerciorarse antes, de que se cumplió con la primera parte del presente artículo. La citada acumulación deberá constar en la inscripción correspondiente.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+
+Por su parte, los registradores, no inscribirán en el Registro Público de la Propiedad y del Comercio del Estado de Yucatán, los documentos donde conste la adquisición de inmuebles o de derechos sobre los mismos, sin cerciorarse antes, de que se cumplió con la primera parte del presente artículo. La citada acumulación deberá constar en la inscripción correspondiente.
 
 En caso contrario, los fedatarios públicos, las personas que tengan funciones notariales y los registradores serán solidariamente responsables del pago del impuesto y sus accesorios legales.
 
@@ -1053,7 +1189,11 @@ a).- Se celebre el acto o contrato por el que de conformidad con esta ley, se tr
 
 b).- Se eleve a escritura pública.
 
-c).- Se inscriba en el Registro Público.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+
+c).- Se inscriba en el Registro Público de la Propiedad y del Comercio del Estado de Yucatán.
 
 > <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2014)</small>
 
@@ -1061,15 +1201,31 @@ Los fedatarios públicos o aquellas personas que por disposición legal tengan f
 
 El Fedatario Público cuyo cheque sin certificar sea rechazado por la Institución Bancaria ante la que se presente para su pago por fondos insuficientes, dejará de tener ese beneficio y los pagos posteriores que realice con cheque, deberán apegarse a lo que dispone el párrafo segundo del artículo 27, sin perjuicio de la indemnización prevista en el artículo 35, ambos de esta Ley.
 
-> <small>(REFORMADO, D.O. 30 DE DICIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Cuando dichas personas realicen el pago mediante el uso de aplicaciones en Internet, deberán poner a disposición de la Dirección de Finanzas y Tesorería Municipal, previo requerimiento de esta autoridad, la documentación relativa a cada una de las operaciones realizadas para esa contribución; consiente (sic) en el manifiesto señalado en el artículo 61 de esta Ley, así como el documento que exige el antepenúltimo párrafo del propio artículo y el recibo de pago.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+
+Cuando dichas personas realicen el pago mediante el uso de aplicaciones en Internet, deberán poner a disposición de la Dirección de Finanzas y Tesorería Municipal, previo requerimiento de esta autoridad, la documentación relativa a cada una de las operaciones realizadas para esa contribución; consistente en el manifiesto señalado en el artículo 61 de esta Ley, así como el documento que exige el penúltimo párrafo del propio artículo y el recibo de pago.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
 De la sanción
 
 ###### ARTÍCULO 64.
 
-Cuando el Impuesto Sobre Adquisición de Inmuebles no cubierto dentro del plazo señalado en el artículo inmediato anterior, los contribuyentes o los obligados solidarios, en su caso, se harán acreedores a una sanción equivalente al importe de los recargos que se determinen conforme al artículo 33 de esta Ley. Lo anterior, sin perjuicio de la aplicación del recargo establecido para las contribuciones fiscales pagadas en forma extemporánea.
+Cuando el Impuesto Sobre Adquisición de Inmuebles no sea cubierto dentro del plazo señalado en el artículo inmediato anterior, los contribuyentes o los obligados solidarios, en su caso, se harán acreedores a una sanción equivalente al importe de los recargos que se determinen conforme al artículo 33 de esta Ley. Lo anterior, sin perjuicio de la aplicación del recargo establecido para las contribuciones fiscales pagadas en forma extemporánea.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+
+De la prescripción
+
+ARTÍCULO 64 A.- El crédito fiscal se extingue por prescripción en el término de cinco años. El término de la prescripción se inicia a partir de la fecha en que la Dirección de Finanzas y Tesorería Municipal tenga conocimiento del supuesto de adquisición y se podrá oponer como excepción en los recursos administrativos. El término para que se consume la prescripción se interrumpe con cada gestión de cobro que la Dirección de Finanzas y Tesorería Municipal notifique o haga saber al adquirente o por el reconocimiento expreso o tácito de éste respecto de la existencia del crédito. Se considera gestión de cobro cualquier actuación de la autoridad dentro del procedimiento administrativo de ejecución, siempre que se haga del conocimiento del adquirente.
+
+Los adquirentes podrán solicitar a la autoridad la declaratoria de prescripción de los créditos fiscales.
 
 #### Sección Tercera. Otros servicios prestados por el Ayuntamiento
 
@@ -1128,6 +1284,18 @@ a).- Si pudiera determinarse previamente el monto del ingreso, el pago se efectu
 b).- Si no pudiera determinarse previamente el monto del ingreso, el sujeto obligado enterará en la Dirección de Finanzas y Tesorería Municipal, un pago provisional mediante depósito en efectivo, cheque certificado o cheque, del .50 del importe del impuesto determinado sobre el total de los boletos autorizados para el espectáculo que se trate, y la Dirección de Finanzas y Tesorería Municipal designará interventor o interventores suficientes para que determinen el total del impuesto, pagando el sujeto obligado en el mismo acto la diferencia que existiere a su cargo, en caso contrario se le devolverá la diferencia en los términos de esta Ley.
 
 En este caso, el sujeto obligado causará y pagará, junto con la determinación, la cantidad equivalente a 04.0 salarios mínimos por cada caja, taquilla, o acceso del lugar, local o establecimiento en el que se lleve a cabo el Espectáculo o Diversión Pública, en concepto de gastos extraordinarios, previstos en el artículo 169, inciso j) de esta Ley.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+
+Las personas físicas o morales que presten a los sujetos de este impuesto el servicio de compraventa de boletos, directa o remota al público, tendrá la obligación de retener el impuesto resultante de la aplicación de la tasa referida en el artículo 68 a la totalidad del ingreso percibido por los sujetos del impuesto; y enterarlo a la Dirección de Finanzas y Tesorería en un plazo de siete días contados a partir del siguiente al de la celebración del espectáculo o diversión pública de que se trate.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+
+Los retenedores a quienes las leyes impongan la obligación de recaudar contribuciones a cargo de contribuyentes son responsables solidarios hasta por el monto de dichas contribuciones.
 
 ### CAPÍTULO II. DERECHOS
 
@@ -1221,7 +1389,11 @@ XVIII.- Autorización de la Modificación de Desarrollo Inmobiliario.
 
 XIX.- Expedición de oficio de zona de Reserva de Crecimiento.
 
-De la Base y de las Cuotas
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ACÁPITE, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO SU ACÁPITE, D.O. 28 DE DICIEMBRE DE 2015)</small>
+
+De la base y de las cuotas
 
 ###### ARTÍCULO 76.
 
@@ -1255,7 +1427,11 @@ e) Con superficie de 150,000.01 hasta
 
 200,000.00 metros cuadrados 75 Licencia
 
-f) Con superficie mayor a 200,000.01 100 Licencia
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+
+f) Con superficie mayor a 200,000.00 100 Licencia
 
 metros cuadrados
 
@@ -1263,25 +1439,79 @@ metros cuadrados
 
 2. Para Otros Desarrollos
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+
 a) Cuya superficie sea de hasta 50.00
 
-metros cuadrados. 2 Licencia
+metros cuadrados excepto lo que
+
+se señala en el inciso f) 2 Licencia
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
 b) Cuya superficie sea de 50.01
 
-hasta 100.00 metros cuadrados. 10 Licencia
+hasta 100.00 metros cuadrados
+
+excepto lo que se señala en el inciso f) 10 Licencia
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
 c) Cuya superficie sea de 100.01
 
-hasta 500.00 metros cuadrados. 25 Licencia
+hasta 500.00 metros cuadrados
+
+excepto lo que se señala en el inciso f) 25 Licencia
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
 d) Cuya superficie sea de 500.01
 
-hasta 5,000.00 metros cuadrados 50 Licencia
+hasta 5,000.00 metros cuadrados
 
-e) Cuya superficie sea mayor de 5,000.01
+excepto lo que se señala en el inciso f) 50 Licencia
 
-metros cuadrados 100 Licencia
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+
+e) Cuya superficie sea mayor de 5,000.00
+
+metros cuadrados excepto lo que se
+
+señala en el inciso f) 100 Licencia
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+
+f) Se pagará de acuerdo al giro de que se trate:
+
+1. Gasolinera o estación de servicio 714 Licencia
+
+2. Casino 2854 Licencia
+
+3. Funeraria 115 Licencia
+
+4. Expendio de cerveza, tienda de autoservicio
+
+licorería o bar 115 Licencia
+
+5. Crematorio 286 Licencia
+
+6. Restaurante, video bar, cabaret,
+
+centro nocturno o disco 286 Licencia
+
+7. Sala de fiestas cerrada 286 Licencia
 
 II.- Por el Análisis de Factibilidad de Uso de Suelo
 
@@ -1341,9 +1571,11 @@ k) Para el establecimiento de
 
 bancos de explotación de materiales. 30 Constancia
 
-> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-Para los efectos de los incisos anteriores de las fracciones I y II se entiende por Desarrollo Inmobiliario al bien inmueble que por sus características físicas o el régimen de propiedad se constituye como Fraccionamiento, División de Lotes o Condominio.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+
+Para los efectos de los incisos anteriores de las fracciones I y II se entiende por Desarrollo Inmobiliario al bien inmueble que por sus características físicas o el régimen de propiedad se constituye como Fraccionamiento o División de Lotes.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], D.O. 23 DE DICIEMBRE DE 2013)</small>
 
@@ -1375,9 +1607,13 @@ b) Licencia para demolición y/o
 
 desmantelamiento de bardas. 0.03 Metro Lineal
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+
 c) Licencia para excavación de
 
-zanjas en la vía pública 1.25 Metro Lineal
+zanjas en vialidades 1.25 Metro Lineal
 
 d) Licencia para construir bardas 0.06 Metro Lineal
 
@@ -1449,13 +1685,11 @@ tipo 0.20 Metro Lineal de vialidad
 
 VII.- Validación de planos 0.25 Por plano
 
-VIII.- Otorgamiento de constancia a
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-que se refiere la Ley sobre Régimen
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
-de Propiedad y Condominio Inmobiliario
-
-del Estado de Yucatán 5 Constancia
+VIII.- Otorgamiento de de dictamen técnico 5 Constancia
 
 IX.- Permisos de anuncios
 
@@ -1859,7 +2093,11 @@ e) De 150,0 00.01 hast a (sic) 200,000.00 metros
 
 cuadrados. 150 Autorización
 
-f) Mayores a 200,000.01 metros cuadrados 200 Autorización
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+
+f) Mayores a 200,000.00 metros cuadrados 200 Autorización
 
 > <small>(ADICIONADA, D.O. 23 DE DICIEMBRE DE 2013)</small>
 
@@ -1883,7 +2121,11 @@ e) De 150,000.01 hast a (sic) 200,000.00 metros
 
 cuadrados. 75 Autorización
 
-f) Mayores a 200,000.01 metros cuadrados 100 Autorización
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+
+f) Mayores a 200,000.00 metros cuadrados 100 Autorización
 
 De las exenciones
 
@@ -2469,9 +2711,19 @@ c) Para la instalación de mobiliario urbano distinto al señalado en el inciso 
 
 d) Para la instalación subterránea o aérea de ductos o conductores para la explotación de servicios digitales u otros de cualquier tipo: 0.05 salarios mínimos por metro lineal.
 
-> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-e) Para uso distinto a los señalados en los incisos anteriores: 10.00 salarios mínimos por metro cuadrado.
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+
+e) Para la instalación de puestos semifijos en los tianguis, ubicados en las zonas y lugares destinados al comercio, en las colonias y suburbios del municipio, que cumplan con la normatividad correspondiente; se pagará 1.0699 salarios mínimos por metro cuadrado.
+
+Cuando la aplicación de este factor resultare una cantidad superior a 75.00 pesos, se cobrará esta cantidad en vez de aquella.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+
+f) Para uso distinto a los señalados en los incisos anteriores: 10.0 salarios mínimos por metro cuadrado
 
 Para efectos de esta fracción se entiende como mobiliario urbano entre otros las casetas telefónicas, fuentes, bancas, depósitos de basura, señalización, buzones, y otros elementos análogos.
 
@@ -2511,9 +2763,11 @@ Por el permiso para realizar el comercio ambulante, se pagará un derecho de 0.1
 
 El pago de los derechos establecidos en la presente sección será posterior a la obtención de la autorización que otorgue la autoridad o dependencia municipal que corresponda.
 
-#### Sección Décima Primera. Derechos por los servicios que presta la Subdirección de Ecología
+#### Sección Décima Primera. Derechos por los servicios que presta la Subdirección de Servicios Generales
 
-> <small>(REFORMADO, D.O. 23 DE DICIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 101.
 
@@ -2535,7 +2789,11 @@ servicio funerario particular se causará
 
 un derecho de 6.2 salarios
 
-III.- Por otorgar el derecho de uso temporal a tres años, dentro de los panteones públicos municipales:
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+
+III. Por otorgar el derecho de uso temporal a tres años mínimo, dentro de los panteones públicos municipales se pagará por cada año la cuota establecida, dicho pago será en una sola exhibición por los tres años al momento en que se solicite el derecho en cuestión:
 
 a) Xoclán, General y Chuburná se pagará:
 
@@ -2679,21 +2937,37 @@ d) Preparación 2.4 salarios
 
 e) Cremación y disposición de cenizas:
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+
 1) Adulto
 
-(uso de ataúd y entrega en urna) 69.3 salarios
+(uso de ataúd y entrega en urna) 37.07 salarios
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
 2) Niño
 
-(uso de ataúd y entrega en urna) 37.1 salarios
+(uso de ataúd y entrega en urna) 19.85 salarios
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
 3) Restos áridos
 
-(entrega en urna) 29.7 salarios
+(entrega en urna) 15.88 salarios
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
 4) Órganos humanos
 
-(entrega en urna) 35.3 salarios
+(entrega en urna) 18.88 salarios
 
 > <small>(ADICIONADO, D.O. 30 DE DICIEMBRE DE 2014)</small>
 
@@ -2887,13 +3161,17 @@ Cuando por su denominación algún establecimiento no se encuentre comprendido e
 
 El derecho correspondiente a la revalidación de la licencia de funcionamiento, para los establecimientos cuyo giro sea el expendio de bebidas alcohólicas y/o cerveza se incrementará en un cien por ciento si el titular no la obtuvo durante la administración municipal inmediata anterior.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O. 23 DE DICIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
 #### Sección Décima Cuarta. Derechos por el uso de Estacionamientos y Baños Públicos, propiedad del Municipio
 
 ###### ARTÍCULO 114.
 
-Por los servicios que presta la Subdirección de Ecología se pagarán los siguientes derechos:
+Por los servicios que presta la Subdirección de Servicios Generales se pagarán los siguientes derechos:
+
+> <small>(REFORMADA, D.O. 23 DE DICIEMBRE DE 2013)</small>
 
 CONCEPTO VECES DE SALARIO MINIMO
 
@@ -2901,11 +3179,17 @@ I.- Por el uso de vertederos propiedad del
 
 Municipio de Mérida:
 
-a) Por la recepción de aguas residuales en
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-el sitio de tratamiento de aguas residuales
+> <small>(REFORMADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
 
-por cada metro cúbico: 0.25
+a) Por la recepción de lodos y aguas residuales
+
+en el sitio de tratamiento de aguas residuales
+
+por cada metro cúbico:
+
+0.25
 
 II.- Por la recepción de cada perro o gato
 
@@ -3671,6 +3955,12 @@ i).- Resistirse por cualquier medio a las visitas de inspección, a las interven
 
 j).- Proporcionar o manifestar datos falsos a la autoridad fiscal, de conformidad con lo establecido en esta Ley.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, D.O. 28 DE DICIEMBRE DE 2015)</small>
+
+k) Omitir contribuciones retenidas.
+
 ###### ARTÍCULO 177.
 
 A quien cometa las infracciones a que se refiere el artículo 176, se hará acreedor de las siguientes sanciones:
@@ -3683,7 +3973,11 @@ III.- Multa de 50 a 60 salarios mínimos, a la establecida en el inciso b).
 
 IV.- Multa de 150 a 170 salarios mínimos, a la establecida en el inciso g).
 
-V.- Multa de 50 a 60 salarios mínimos, a la establecida en el inciso i) y j).
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, D.O. 28 DE DICIEMBRE DE 2015)</small>
+
+V.- Multa de 50 a 60 salarios mínimos, a la establecida en el inciso i), j) y k).
 
 Para el caso de las infracciones previstas en los incisos c), d) y h) del artículo 176 de esta Ley, sin perjuicio de la sanción que corresponda, el Director de Finanzas y Tesorero Municipal, o el Subdirector de Ingresos, quedarán facultados para ordenar la clausura temporal del comercio, negocio o establecimiento que corresponda, por el tiempo que subsista la infracción
 
@@ -4114,3 +4408,137 @@ Las constancias que haya expedido la Dirección de Finanzas y Tesorería Municip
 A partir del ejercicio fiscal 2015 el importe anual a pagar por los contribuyentes del impuesto predial, no podrá exceder del que le haya correspondido durante el ejercicio fiscal 2014; este comparativo se efectuará solamente sobre el impuesto principal, sin tomar en consideración, bonificaciones, exenciones, reducciones, estímulos o accesorios legales.
 
 Se exceptúan de lo dispuesto en el párrafo inmediato anterior, los predios que, como resultado de alguna modificación en su superficie de terreno, construcción, así como de la tipología de su construcción, haya aumentado en más de un 50% el valor catastral que tenían antes de dichas modificaciones, de conformidad con las disposiciones legales aplicables.
+
+D.O. 28 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 329/2015 POR EL QUE SE MODIFICA LA LEY DE HACIENDA DEL MUNICIPIO DE MÉRIDA".]
+
+###### ARTÍCULO PRIMERO.
+
+Este Decreto entrará en vigor el día uno de enero del año dos mil dieciséis, previa su publicación en el Diario Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los derechos establecidos en la Sección Décima Segunda del Capítulo II del Título Segundo de esta Ley de Hacienda del Municipio de Mérida, serán aplicados únicamente en las áreas del Municipio de Mérida, por las cuales el Ejecutivo del Estado le haya transferido al Municipio atribuciones en materia de vialidad, tránsito, y de seguridad pública.
+
+###### ARTÍCULO TERCERO.
+
+En caso de que durante el ejercicio fiscal 2016 fueran modificadas mediante sesión de cabildo las tarifas autorizadas a los concesionarios para la prestación del Servicio de Recolección y Traslado de Residuos Sólidos no Peligrosos o Basura, las cuotas establecidas en la Sección Décima Quinta del Capítulo II del Título Segundo se verán incrementadas, o en su caso decrementadas (sic), en la misma proporción que las tarifas autorizadas lo sean para dichos concesionarios.
+
+###### ARTÍCULO CUARTO.
+
+Para el ejercicio fiscal 2016, en vez de aplicar lo dispuesto en el segundo párrafo del artículo 48 las bonificaciones se otorgarán de conformidad con la siguiente tabla:
+
+Mes en el que se paga el equivalente Factor de Bonificación
+
+a una anualidad
+
+Enero 0.20
+
+Febrero 0.10
+
+Marzo 0.08
+
+Para estos efectos, los contribuyentes que paguen el importe correspondiente a una anualidad en el mes de marzo no pagarán actualización y recargos sobre el impuesto correspondiente a los meses de enero y febrero del año 2016.
+
+###### ARTÍCULO QUINTO.
+
+Se otorga un estímulo fiscal en materia de impuesto predial, consistente en el acreditamiento del monto de la inversión realizada en inmuebles ubicados dentro de los perímetros "A", "B-1", "B-2", "B-3" y "B-4" de la zona de monumentos históricos en la ciudad de Mérida, demarcados en el Decreto Presidencial de Declaratoria de Zona de Monumentos Históricos, publicado en el Diario Oficial de la Federación el 18 de Octubre de 1982, contra el impuesto predial que se cause hasta el mes de diciembre de 2016, siempre y cuando los trabajos fueren iniciados y concluidos durante el año 2016, de conformidad con lo siguiente:
+
+I.- Por un importe hasta del 100% del monto de la inversión en trabajos de rescate, consolidación, restauración, o rehabilitación integral de inmuebles catalogados o declarados por el Instituto Nacional de Antropología e Historia como monumentos históricos o artísticos.
+
+II.- Por un importe hasta del 50% del monto de la inversión en trabajos de integración al contexto en inmuebles distintos a los catalogados o declarados como monumentos históricos o artísticos en el Decreto Presidencial de referencia.
+
+Para efectos de este artículo se entenderá por acreditamiento, el restar del impuesto predial que corresponda hasta el mes de diciembre de 2016, el importe de la inversión que se determine en la constancia de aplicación del estímulo.
+
+Asimismo, para efectos de este artículo, los tipos de trabajos que se podrán realizar serán los siguientes:
+
+I.- Rescate: Aquellos trabajos que se realizan para la recuperación de elementos que hubieren sido mutilados o alterados;
+
+II.- Consolidación: Aquellos trabajos que se realizan para devolver la estabilidad a partir de lo existente;
+
+III.- Restauración: Aquellos trabajos que se realizan para reincorporar algún elemento original, o con características similares a la original;
+
+IV.- Integración al contexto: Aquellos trabajos que permiten incorporar al predio en cuestión con las características de su entorno; y
+
+V.- Rehabilitación integral: Conjunto de trabajos, en interior y exterior, respetuosos de las características originales de inmueble que conlleve a su habitabilidad, y en consecuencia al uso inmediato.
+
+Previo al inicio de los trabajos, el contribuyente solicitará por escrito a la Dirección de Desarrollo Urbano, un dictamen en el cual se determine el importe de la inversión de los trabajos, que podrá considerarse en la aplicación del estímulo. Dicha solicitud deberá contener cuando menos la información que indique el importe de la inversión, fecha de inicio y conclusión, así como el tipo de trabajo que se realizará.
+
+La Dirección de Desarrollo Urbano previa revisión de la solicitud señalada en el párrafo anterior desechará o aprobará la solicitud, en este último caso emitirá el dictamen en el cual se establecerán los requisitos que el contribuyente deberá cumplir para obtener la constancia de aplicación del estímulo.
+
+Una vez concluidos todos los trabajos de conformidad con los requisitos y plazos establecidos en el dictamen el contribuyente dará aviso por escrito, dentro de los quince días hábiles siguientes, a la Dirección de Desarrollo Urbano, la que en caso de que sea procedente, emitirá la constancia de aplicación del estímulo en la cual se indicará el importe de la inversión que podrá acreditarse contra el impuesto predial, tomando en cuenta el monto de la inversión y el porcentaje de aplicación del estímulo, de acuerdo con el tipo de trabajo realizado.
+
+Después de obtener la constancia señalada en el párrafo anterior, si el impuesto lo causa sobre la base del valor catastral, el contribuyente deberá solicitar por escrito a la Dirección de Finanzas y Tesorería Municipal la aplicación del estímulo señalado en este artículo, anexando a su solicitud la constancia señalada en el párrafo anterior.
+
+Para la aplicación de dicho estímulo la Dirección de Finanzas y Tesorería Municipal dictará un acuerdo de conformidad con lo siguiente:
+
+1. Determinará el importe del impuesto que se cause hasta por el mes de diciembre de 2016.
+
+2. Procederá a realizar el acreditamiento de conformidad con lo establecido en este artículo.
+
+3. Si al realizar el acreditamiento, resultase que el importe del impuesto determinado es menor que el importe de la inversión señalada en la constancia de aplicación del estímulo, se considerará pagado en su totalidad el impuesto correspondiente al período determinado en el punto 1.
+
+4. Si al realizar el acreditamiento, resultase que el importe del impuesto determinado es mayor que el importe de la inversión determinada en la constancia de aplicación del estímulo, la diferencia deberá ser pagada al momento de aplicar el estímulo.
+
+En caso de que el impuesto predial se cause sobre la base de la contraprestación, el contribuyente deberá determinar el impuesto que se cause hasta el mes de diciembre de 2016, y realizar, en una sola declaración, el acreditamiento que señala este artículo. En este caso, le será aplicable lo dispuesto en los puntos 3 y 4 del párrafo anterior.
+
+En caso de que en los períodos comprendidos hasta el mes de diciembre de 2016 le corresponda al contribuyente tributar, por algún, o algunos meses, sobre la base del valor catastral y por otro, u otros sobre la base de la contraprestación, para la aplicación del estímulo, deberá cumplir con lo que para cada una de esas bases dispone este artículo.
+
+La suma de los acreditamientos aplicados no podrá ser mayor al importe de la inversión que se determinó en la constancia de aplicación del estímulo.
+
+El acreditamiento del importe de la inversión deberá realizarse contra el principal así como por los accesorios del mismo.
+
+La aplicación del estímulo a que se refiere este artículo no libera al contribuyente del cumplimiento de las demás obligaciones relacionadas con el impuesto predial.
+
+En ningún caso la aplicación del estímulo a que se refiere este artículo, dará lugar a devolución de cantidad alguna.
+
+###### ARTÍCULO SEXTO.
+
+Las personas físicas propietarias de inmuebles que se encuentren catalogados o declarados como monumentos históricos o artísticos por el Instituto Nacional de Antropología e Historia y ubicados dentro de los perímetros "A", "B-1", "B-2", "B-3" y "B-4" de la zona de monumentos históricos en la ciudad de Mérida, demarcados en el Decreto Presidencial de Declaratoria de Zona de Monumentos Históricos, publicado en el Diario Oficial de la Federación el 18 de Octubre de 1982, siempre y cuando dichos inmuebles sean su casa habitación, tendrán derecho a un estímulo consistente en una bonificación equivalente al 15% respecto del impuesto predial sobre la base valor catastral correspondiente al ejercicio fiscal 2016, siempre y cuando el pago de dicho impuesto se realice durante dicho ejercicio.
+
+Para poder acceder al estímulo el contribuyente deberá acreditar que el inmueble es su casa habitación y exhibir la siguiente documentación:
+
+1.- El certificado o dictamen expedido por el Instituto Nacional de Antropología e Historia en el que se señale que el inmueble está declarado o catalogado como monumento histórico o artístico.
+
+2.- Se encuentre pagado en su totalidad el impuesto predial, causado hasta por el mes de diciembre 2015.
+
+Para efectos de que el contribuyente acredite que el inmueble objeto del estímulo fiscal es su casa habitación, deberá exhibir cualquiera de los documentos comprobatorios que se relacionan a continuación, siempre que el domicilio consignado en dicha documentación coincida con el domicilio del inmueble objeto del estímulo:
+
+1. La credencial de elector, expedida por el Instituto Nacional Electoral (INE).
+
+2. Los comprobantes de los pagos efectuados por la prestación de energía eléctrica o de telefonía fija.
+
+La documentación a que se refieren las fracciones anteriores, deberá estar a nombre del propietario del inmueble objeto del estímulo.
+
+La aplicación del estímulo a que se refiere este artículo no libera al contribuyente del cumplimiento de las demás obligaciones relacionadas con el impuesto predial.
+
+En ningún caso la aplicación del estímulo a que se refiere este artículo, dará lugar a devolución de cantidad alguna.
+
+###### ARTÍCULO SÉPTIMO.
+
+Si durante el ejercicio fiscal 2016 el contribuyente hubiese pagado el importe correspondiente a esa anualidad del impuesto predial sobre la base del valor catastral, este pago se considerará como definitivo respecto de esta base; en consecuencia no le será aplicable lo dispuesto en los párrafos segundo y tercero del artículo 45 de esta Ley.
+
+###### ARTÍCULO OCTAVO.
+
+Se derogan todas las disposiciones legales que eximan a los particulares del pago de las contribuciones previstas en esta Ley con excepción de las que dispone la misma que otorguen beneficios fiscales.
+
+###### ARTÍCULO NOVENO.
+
+Las constancias que haya expedido la Dirección de Finanzas y Tesorería Municipal, para el registro de peritos valuadores, seguirán vigentes respecto de los avalúos que se emitan para efectos del Impuesto Sobre Adquisición de Inmuebles.
+
+###### ARTÍCULO DÉCIMO.
+
+En el ejercicio fiscal 2016 el importe anual a pagar por los contribuyentes del impuesto predial, no podrá exceder de un 4% del que le haya correspondido durante el ejercicio fiscal 2015 para los predios cuyo valor catastral sea menor o igual a $ 500,000.00 y para los predios cuyo valor catastral sea superior a $500,000.00 el impuesto predial no podrá exceder de un 10% del que le haya correspondido durante el ejercicio fiscal 2015. Este comparativo se efectuará solamente sobre el impuesto principal, sin tomar en consideración, bonificaciones, exenciones, reducciones, estímulos o accesorios legales.
+
+Se exceptúan de lo dispuesto en el párrafo inmediato anterior:
+
+a) Los predios, que como resultado de alguna modificación en su superficie de terreno, construcción, así como de la tipología de su construcción, haya aumentado en más de un 50% el valor catastral que tenían antes de dichas modificaciones, de conformidad con las disposiciones legales aplicables.
+
+b) Los predios que fueron objeto de traslación de dominio a partir del ejercicio inmediato anterior.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Si como resultado de las reformas constitucionales en materia de salario mínimo, se crea la Unidad de Medida y Actualización (UMA), a efecto de desvincular el salario mínimo como unidad, base, medida o referencia económica para fines ajenos a su naturaleza; se establece que para el ejercicio fiscal 2016, en donde se haga referencia en la presente Ley, al mencionado salario mínimo, éste se sustituirá por la Unidad de Medida y Actualización (UMA) que se publique para tal efecto.
+
+Cuando la aplicación de la Unidad de Medida y Actualización resultare una cantidad inferior a 72.20 pesos, se tomará como base esta cantidad en vez de la UMA.
