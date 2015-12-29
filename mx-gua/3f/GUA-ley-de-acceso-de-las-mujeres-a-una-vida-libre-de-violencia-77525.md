@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-7752
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-26"
-last_updated: "2014-12-16"
+last_updated: "2015-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Cuarta Parte del Periódico Oficial del Gobierno del Estado de Guanajuato, el viernes 26 de noviembre de 2010.
 
@@ -189,29 +189,35 @@ IV. El titular de la Secretaría de Seguridad Pública;
 
 V. El titular de la Secretaría de Educación;
 
-VI. El titular de la Secretaría de Salud;
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-VII. El titular de la Secretaría de la Transparencia y Rendición de Cuentas;
+VI. El titular de la Secretaría de Innovación, Ciencia y Educación Superior;
 
-VIII. El titular de la Procuraduría General de Justicia;
+VII. El titular de la Secretaría de Salud;
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2014)</small>
+VIII. El titular de la Secretaría de la Transparencia y Rendición de Cuentas;
 
-IX. El titular del Instituto de las Mujeres Guanajuatenses, quien ocupará la Secretaría Ejecutiva del Consejo;
+IX. El titular de la Procuraduría General de Justicia;
 
-X. El titular del Instituto de la Juventud Guanajuatense;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-XI. El titular del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato;
+X. El titular del Instituto para las Mujeres Guanajuatenses, quien ocupará la Secretaría Ejecutiva del Consejo;
 
-XII. El titular de la Procuraduría de los Derechos Humanos del Estado de Guanajuato;
+XI. El titular del Instituto de la Juventud Guanajuatense;
 
-XIII. Cuatro representantes de los municipios, por lo menos; y
+XII. El titular del Sistema para el Desarrollo Integral de la Familia del Estado de Guanajuato;
 
-XIV. Dos representantes de Organizaciones No Gubernamentales especializadas en la protección de los derechos humanos de las mujeres.
+XIII. El titular de la Procuraduría de los Derechos Humanos del Estado de Guanajuato;
+
+XIV. Cuatro representantes de los municipios, por lo menos; y
+
+XV. Dos representantes de Organizaciones No Gubernamentales especializadas en la protección de los derechos humanos de las mujeres.
 
 Cuando acuda el Gobernador del Estado, éste asumirá la presidencia y la ciudadana presidenta fungirá como vocal; ambos conservarán el derecho a voz y voto.
 
-Los integrantes a que se refieren las fracciones I, XIII y XIV de este artículo, durarán en su encargo tres años, y su designación se realizará de conformidad con los mecanismos que establezca el reglamento del Sistema Estatal.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+Los integrantes a que se refieren las fracciones I, XIV y XVde (sic) este artículo, durarán en su encargo tres años, y su designación se realizará de conformidad con los mecanismos que establezca el reglamento del Sistema Estatal.
 
 Por cada integrante del Consejo Estatal habrá un suplente quien lo cubrirá en sus ausencias.
 
@@ -455,13 +461,19 @@ I. Desarrollar programas educativos que fomenten la cultura de una vida libre de
 
 II. Integrar en las políticas educativas los principios de igualdad, equidad y no discriminación entre mujeres y hombres, y el respeto pleno a la dignidad de la mujer y a sus derechos humanos;
 
-III. Incorporar en los programas educativos, de todos los niveles de educación, el respeto a los derechos humanos de las mujeres, así como contenidos educativos tendientes a modificar los modelos de conductas sociales y culturales que impliquen prejuicios y que estén basados en la idea de la inferioridad o superioridad de uno de los sexos y en funciones estereotipadas asignadas a las mujeres y a los hombres;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+III. Proponer la incorporación en los programas educativos, de los tipos básico y medio superior, respeto a los derechos humanos de las mujeres, así como contenidos educativos tendientes a modificar los modelos de conductas sociales y culturales que impliquen prejuicios y que estén basados en la idea de la inferioridad o superioridad de uno de los sexos y en funciones estereotipadas asignadas a las mujeres y a los hombres;
 
 IV. Vigilar que los programas educativos no contengan materiales que hagan apología de la violencia contra las mujeres o contribuyan a la promoción de estereotipos que discriminen y fomenten la desigualdad entre mujeres y hombres;
 
-V. Garantizar acciones y mecanismos que favorezcan el adelanto de las mujeres en todas las etapas del proceso educativo;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-VI. Garantizar el derecho de las niñas y mujeres a la educación, a la alfabetización y al acceso, permanencia y terminación de estudios en todos los niveles;
+V. Garantizar acciones y mecanismos que favorezcan la incorporación de las mujeres en las etapas del proceso educativo de su competencia;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+VI. Garantizar el derecho de las niñas y mujeres a la educación, a la alfabetización y al acceso, permanencia y terminación de estudios en la educación de los tipos básico y medio superior;
 
 VII. Diseñar y difundir materiales educativos que promuevan la prevención y atención de la violencia contra las mujeres;
 
@@ -473,19 +485,45 @@ X. Educar en los derechos humanos a las mujeres indígenas en su lengua materna 
 
 XI. Las demás previstas para el cumplimiento de esta Ley.
 
-#### Sección Sexta. Facultades del titular de la Secretaría de Salud
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+#### Sección Sexta. Facultades del titular de la Secretaría de Innovación, Ciencia y Educación Superior
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+Facultades de la Secretaría de Innovación, Ciencia y Educación Superior
+
+###### Artículo 20 Bis.
+
+El titular de la Secretaría de Innovación, Ciencia y Educación Superior, ejercerá las siguientes facultades:
+
+I. Desarrollar programas educativos que fomenten la cultura de una vida libre de violencia contra las mujeres, así como el respeto a sus derechos humanos;
+
+II. Integrar en las políticas educativas los principios de igualdad, equidad y no discriminación entre mujeres y hombres, y el respeto pleno a la dignidad de la mujer y a sus derechos humanos;
+
+III. Proponer en los programas educativos, del tipo superior, el respeto a los derechos humanos de las mujeres, así como contenidos educativos tendientes a modificar los modelos de conductas sociales y culturales que impliquen prejuicios y que estén basados en la idea de la inferioridad o superioridad de uno de los sexos y en funciones estereotipadas asignadas a las mujeres y a los hombres;
+
+IV. Vigilar que los programas educativos no contengan materiales que hagan apología de la violencia contra las mujeres o contribuyan a la promoción de estereotipos que discriminen y fomenten la desigualdad entre mujeres y hombres;
+
+V. Garantizar acciones y mecanismos que favorezcan el adelanto de las mujeres en las etapas del proceso educativo de su competencia;
+
+VI. Diseñar y difundir materiales educativos que promuevan la prevención y atención de la violencia contra las mujeres;
+
+VII. Realizar acciones formativas a todo el personal de los centros educativos del tipo superior, en materia de derechos humanos de las mujeres, y políticas de prevención, atención, sanción y erradicación de la violencia contra éstas;
+
+VIII. Formular y aplicar modelos de detección de la violencia contra las mujeres en los centros educativos del tipo superior y dar parte a las autoridades competentes; y
+
+IX. Las demás previstas para el cumplimiento de esta Ley.
+
+#### Sección Séptima. Facultades del titular de la Secretaría de Salud
 
 Facultades del Secretario de Salud
 
-#### Sección Séptima. Facultades del titular de la Secretaría de la Transparencia y Rendición de Cuentas
+#### Sección Octava. Facultades del titular de la Secretaría de la Transparencia y Rendición de Cuentas
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
 
 Facultades del titular de la Secretaría de la Transparencia y Rendición de Cuentas
-
-#### Sección Octava. Facultades del titular de la Procuraduría General de Justicia
-
-Facultades del Procurador General de Justicia
 
 ###### Artículo 21.
 
@@ -513,9 +551,9 @@ X. Las demás previstas para el cumplimiento de esta Ley.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 2013)</small>
 
-#### Sección Novena. Facultades del titular del Instituto de la Mujer Guanajuatense
+#### Sección Novena. Facultades del titular de la Procuraduría General de Justicia
 
-Facultades del titular del IMUG
+Facultades del Procurador General de Justicia
 
 ###### Artículo 22.
 
@@ -529,9 +567,9 @@ III. Fomentar la conducta ética del servidor público en atención al respeto d
 
 IV. Las demás previstas para el cumplimiento de esta Ley.
 
-#### Sección Décima. Facultades del titular del Instituto de la Juventud Guanajuatense
+#### Sección Décima. Facultades del titular del Instituto para las Mujeres Guanajuatenses
 
-Facultades del titular del Instituto de la Juventud Guanajuatense
+Facultades del titular del IMUG
 
 ###### Artículo 23.
 
@@ -565,9 +603,11 @@ IX. Proponer la celebración de convenios de cooperación, coordinación y conce
 
 X. Las demás previstas para el cumplimiento de esta Ley.
 
-#### Sección Undécima. Facultades del titular Sistema para el Desarrollo Integral de la Familia
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-Facultades del titular del Sistema para el Desarrollo Integral de la Familia
+#### Sección Undécima. Facultades del titular del Instituto de la Juventud Guanajuatense
+
+Facultades del titular del Instituto de la Juventud Guanajuatense
 
 ###### Artículo 24.
 
@@ -601,9 +641,9 @@ XIII. Asesorar a los municipios para crear políticas públicas para prevenir, a
 
 XIV. Las demás previstas para el cumplimiento de esta Ley.
 
-#### Sección Duodécima. Facultades del titular de la Procuraduría de los Derechos Humanos
+#### Sección Duodécima. Facultades del titular (sic) Sistema para el Desarrollo Integral de la Familia
 
-Facultades del Procurador de los Derechos Humanos
+Facultades del titular del Sistema para el Desarrollo Integral de la Familia
 
 ###### Artículo 25.
 
@@ -640,6 +680,12 @@ VII. Coadyuvar en la atención de los agresores;
 VIII. Coadyuvar con las instancias competentes en la atención de las víctimas; y
 
 IX. Las demás previstas para el cumplimiento de esta Ley.
+
+Sección Decimotercera
+
+Facultades del titular de la Procuraduría de los Derechos Humanos
+
+Facultades del Procurador de los Derechos Humanos
 
 ###### Artículo 27.
 
@@ -1022,3 +1068,59 @@ P.O. 16 DE DICIEMBRE DE 2014.
 Artículo Primero. El presente Decreto entrará en vigencia el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado, con la excepción que se indica en el artículo transitorio siguiente.
 
 Artículo Segundo. De conformidad con el decreto por el que se adicionan y reforman diversas disposiciones de la Ley General de Salud; de la Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del artículo 123 Constitucional; de la Ley del Seguro Social; de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado; de la Ley para la Protección de los Derechos de Niñas, Niños y Adolescentes, y de la Ley General de Acceso de las Mujeres a una Vida Libre de Violencia, publicada en el Diario Oficial de la Federación del 2 de abril de 2014, en su artículo segundo transitorio, la reforma del artículo 23 fracción III de la Ley del Trabajo de los Servidores Públicos al Servicio del Estado y de los Municipios, entrará en vigencia el 3 de abril de 2015.
+
+P.O. 29 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 64, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE CREA EL SISTEMA DE INNOVACIÓN DEL ESTADO DE GUANAJUATO Y LA SECRETARÍA DE INNOVACIÓN, CIENCIA Y EDUCACIÓN SUPERIOR, REFORMANDO, ADICIONANDO Y DEROGANDO DISPOSICIONES DE VARIOS ORDENAMIENTOS LEGALES”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia el uno de enero 2016, previa publicación en el Periódico Oficial de Gobierno del Estado.
+
+Creación de la Secretaría de Innovación, Ciencia y Educación Superior
+
+Artículo Segundo. El Gobernador del Estado contará con un plazo de hasta noventa días naturales contados a partir de la entrada en vigencia del presente decreto, para crear la Secretaría de Innovación, Ciencia y Educación Superior. Las Secretarías de Educación, de Desarrollo Económico Sustentable, y el Consejo de Ciencia y Tecnología del Estado de Guanajuato, continuarán ejerciendo las atribuciones en materia de educación superior, economía del conocimiento y de innovación, ciencia y tecnología, respectivamente, hasta el acto formal de entrega recepción.
+
+Transferencia de recursos
+
+Artículo Tercero. Las secretarías de Educación y de Desarrollo Económico Sustentable transferirán a la Secretaría de Innovación, Ciencia y Educación Superior, los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de las funciones que tuviere encomendadas en materia de educación superior, innovación y economía del conocimiento, a través de la entrega-recepción respectiva.
+
+El Consejo de Ciencia y Tecnología transferirá a la Secretaría de Innovación, Ciencia y Educación Superior, los asuntos jurídicos, administrativos, recursos humanos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo con el que se atiende la competencia en materia de ciencia, tecnología e innovación, a través de la entrega-recepción respectiva.
+
+El personal de ambas dependencias y del Concyteg, conforme a su estatus laboral pasará a integrar la nueva Secretaría de Innovación, Ciencia y Educación Superior, sin menoscabo de los derechos adquiridos de los trabajadores.
+
+Concyteg
+
+Artículo Cuarto. El Consejo de Ciencia y Tecnología del Estado de Guanajuato continuará ejerciendo sus labores de obtención de financiamiento y atracción de recursos para lo cual el Consejo Técnico de esa entidad continuará en funciones hasta en tanto la Secretaría de Innovación, Ciencia y Educación Superior inicie formalmente sus actividades de colaboración con instituciones de financiamiento y obtención de recursos; una vez lo cual, se extinguirá.
+
+El Ejecutivo del Estado, por conducto de la Secretaría de Innovación, Ciencia y Educación Superior, informará al Congreso del Estado, sobre la conclusión del proceso de extinción del Consejo de Ciencia y Tecnología del Estado de Guanajuato.
+
+Asunción de responsabilidades
+
+Artículo Quinto. La Secretaría de Innovación, Ciencia y Educación Superior sustituye en todas sus obligaciones y asume los compromisos adquiridos por la Secretaría de Educación en materia de educación superior, debiendo cumplir íntegramente con ellos a partir de su instauración.
+
+Igualmente, la Secretaría de Innovación, Ciencia y Educación Superior sustituye en todas sus obligaciones así como los compromisos adquiridos por el Consejo de Ciencia y Tecnología del Estado de Guanajuato, en materia de innovación, ciencia y tecnología, así como las obligaciones y compromisos adquiridos por la Secretaría de Desarrollo Económico Sustentable en materia de Economía del Conocimiento debiendo cumplir íntegramente con ellos a partir de su instauración.
+
+Para todos los efectos legales correspondientes, la Secretaría de Innovación, Ciencia y Educación Superior a que alude el presente Decreto, se entenderá referida al Consejo de Ciencia y Tecnología del Estado de Guanajuato, que se menciona en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto.
+
+Constitución del Sistema
+
+Artículo Sexto. El Ejecutivo del Estado, deberá constituir el Sistema de Innovación del Estado de Guanajuato, en un término de noventa días, contados a partir de (sic) del inicio de vigencia del presente Decreto.
+
+Resolución de asuntos en trámite
+
+Artículo Séptimo. Los asuntos que en materia de educación superior actualmente estén pendientes de resolver por parte de la Secretaría de Educación y cuyo trámite haya iniciado bajo la vigencia de las disposiciones de la Ley de Educación para el Estado de Guanajuato, que se reforman, adicionan o derogan mediante el presente Decreto, se seguirán tramitando con base en esas disposiciones, hasta su debida conclusión.
+
+Asignación de recursos
+
+Artículo Octavo. La Secretaría de Finanzas, Inversión y Administración definirá los procedimientos y mecanismos necesarios para la adecuada asignación de recursos a la Secretaría de Innovación, Ciencia y Educación Superior, para su correcta operación.
+
+En el caso de los recursos federales, la Secretaría de Finanzas, Inversión y Administración realizará las gestiones con las instancias correspondientes para los efectos de este artículo.
+
+Entrega-recepción
+
+Artículo Noveno. De conformidad a lo estipulado en el Reglamento de Entrega Recepción, la Secretaría de la Transparencia y Rendición de Cuentas, vigilará el proceso de entrega recepción extraordinaria.
+
+Término para la adecuación reglamentaria
+
+Artículo Décimo. El Gobernador del Estado expedirá los reglamentos necesarios para el cumplimiento de esta reforma, en un término que no exceda de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a la presente reforma, acorde a lo establecido en el artículo tercero transitorio del presente Decreto.
