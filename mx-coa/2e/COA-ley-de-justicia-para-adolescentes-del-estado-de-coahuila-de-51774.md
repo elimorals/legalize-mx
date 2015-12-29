@@ -4,7 +4,7 @@ identifier: "COA-ley-de-justicia-para-adolescentes-del-estado-de-coahuila-de-517
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-01"
-last_updated: "2015-09-04"
+last_updated: "2015-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=51774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el viernes 1 de septiembre de 2006.
 
@@ -203,9 +203,9 @@ INTERNAMIENTO EN CENTROS EXCLUSIVOS O ÁREAS ESPECIALIZADAS. En caso de ser priv
 
 AUTORIDADES COMPETENTES. Serán autoridades competentes para conocer de la comisión de conductas cometidas por adolescentes tipificadas como delitos por las leyes penales, las siguientes:
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 2009)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-I. La Fiscalía General del Estado, a través de Agencias del Ministerio Público Especializadas en materia de adolescentes y de la Dirección de Adaptación y Tratamiento de Adolescentes.
+I. La Procuraduría General del Estado, a través de Agencias del Ministerio Público Especializadas en materia de adolescentes y de la Dirección de Adaptación y Tratamiento de Adolescentes.
 
 II. El Poder Judicial del Estado a través de:
 
@@ -397,11 +397,11 @@ VII. Contar con un registro actualizado de las instituciones públicas y privada
 
 VIII. Las demás previstas por esta ley y otras disposiciones aplicables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 44.
 
-CENTROS DE INTERNACIÓN DE ADOLESCENTES. La Fiscalía General del Estado, establecerá en las diversas regiones del Estado los Centros de Internación, conforme a las necesidades del servicio y a la disponibilidad presupuestal, que estarán adscritos directamente a la Dirección. Los titulares de los Centros de Internación tendrán las siguientes obligaciones y atribuciones:
+CENTROS DE INTERNACIÓN DE ADOLESCENTES. La Procuraduría General del Estado, establecerá en las diversas regiones del Estado los Centros de Internación, conforme a las necesidades del servicio y a la disponibilidad presupuestal, que estarán adscritos directamente a la Dirección. Los titulares de los Centros de Internación tendrán las siguientes obligaciones y atribuciones:
 
 I. Aplicar las medidas de tratamiento de internación, conforme a su competencia, impuestas por el Juez;
 
@@ -2066,3 +2066,15 @@ SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
 P.O. 4 DE SEPTIEMBRE DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 230.- SE REFORMAN LOS ARTÍCULOS 29 FRACCIÓN I Y 44 PRIMER PÁRRAFO DE LA LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTICULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
