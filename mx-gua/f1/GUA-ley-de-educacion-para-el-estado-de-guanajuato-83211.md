@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-educacion-para-el-estado-de-guanajuato-83211"
 country: "mx"
 rank: "ley"
 publication_date: "2011-10-07"
-last_updated: "2015-10-02"
+last_updated: "2015-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # LEY DE EDUCACION PARA EL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE ENERO DE 2016 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE EDUCACIÓN PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 2 DE OCTUBRE DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 7 de octubre de 2011.
 
@@ -63,9 +63,13 @@ Fomento y formación en valores universales
 
 La formación en valores universales permitirá a los habitantes del Estado de Guanajuato, su formación integral y el fortalecimiento del desarrollo de la entidad y de la Nación.
 
-La Secretaría de Educación de Guanajuato fomentará, conforme a los programas autorizados por la Secretaría de Educación Pública, los valores universales que permitan el adecuado desarrollo del educando.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-Asimismo, implementará los mecanismos para la formación en dichos valores que fortalezcan el adecuado desarrollo de la comunidad educativa.
+La Secretaría de Educación de Guanajuato y la Secretaría de Innovación, Ciencia y Educación Superior fomentarán, conforme a los programas autorizados por la Secretaría de Educación Pública, los valores universales que permitan el adecuado desarrollo del educando.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+Asimismo, implementarán los mecanismos para la formación en dichos valores que fortalezcan el adecuado desarrollo de la comunidad educativa.
 
 Laicidad y gratuidad en la educación pública
 
@@ -149,13 +153,13 @@ IX. Reconocimiento de validez oficial de estudios: Al acuerdo expreso de la auto
 
 X. Secretaría: A la Secretaría de Educación de Guanajuato;
 
-> <small>(REFORMADA, P.O. 10 DE MARZO DE 2014)</small>
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-XI. Servicio social: A la actividad temporal y obligatoria que ejecuten y presten los educandos beneficiados directamente por los servicios educativos de los tipos medio superior y superior a favor de la sociedad y del Estado; y
+XI. SICES: A la Secretaría de Innovación, Ciencia y Educación Superior;
 
-> <small>(ADICIONADA, P.O. 10 DE MARZO DE 2014)</small>
+XII. Servicio social: A la actividad temporal y obligatoria que ejecuten y presten los educandos beneficiados directamente por los servicios educativos de los tipos medio superior y superior a favor de la sociedad y del Estado; y
 
-XII. Sistema Educativo Estatal: Al conjunto de personas, instituciones y elementos educativos dedicados a la función social de la educación en la entidad, en los términos de esta Ley.
+XIII. Sistema Educativo Estatal: Al conjunto de personas, instituciones y elementos educativos dedicados a la función social de la educación en la entidad, en los términos de esta Ley.
 
 > <small>(ADICIONADO, P.O. 10 DE MARZO DE 2014)</small>
 
@@ -173,9 +177,13 @@ I. El Ejecutivo Estatal;
 
 II. La Secretaría;
 
-III. Los organismos descentralizados del sector educativo; y
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-IV. Los ayuntamientos.
+III. La SICES;
+
+IV. Los organismos descentralizados del sector educativo; y
+
+V. Los ayuntamientos.
 
 Competencia del Estado de prestar el servicio de Educación
 
@@ -183,7 +191,9 @@ Competencia del Estado de prestar el servicio de Educación
 
 Corresponde al Estado, por conducto del Ejecutivo Estatal, prestar los servicios de educación inicial, básica incluyendo la indígena, especial, media superior y superior, la normal y la relativa a la formación de maestros; así como la de adultos y la formación para el trabajo.
 
-Los tipos y modalidades educativos previstos en esta Ley, se promoverán y atenderán a través de la Secretaría, los organismos descentralizados, los particulares, o por cualquier institución que preste servicios educativos, conforme a la política educativa estatal.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+Los tipos y modalidades educativos previstos en esta Ley, se promoverán y atenderán a través de la Secretaría, la SICES, los organismos descentralizados, los particulares, o por cualquier institución que preste servicios educativos, conforme a la política educativa estatal.
 
 > <small>(ADICIONADO, P.O. 10 DE MARZO DE 2014)</small>
 
@@ -311,9 +321,11 @@ La educación en valores descansará en el principio de libertad de los educando
 
 Estrategias y apoyos
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 17.
 
-El Ejecutivo Estatal, a través de la Secretaría, implementará las estrategias o apoyos para fortalecer la educación en valores en la comunidad educativa, los cuales serán difundidos y desarrollados por los diversos actores que participan en el proceso educativo.
+El Ejecutivo Estatal, a través de la Secretaría y la SICES implementará las estrategias o apoyos para fortalecer la educación en valores en la comunidad educativa, los cuales serán difundidos y desarrollados por los diversos actores que participan en el proceso educativo.
 
 Programas complementarios
 
@@ -331,7 +343,9 @@ Simplificación y automatización
 
 Las autoridades educativas, en sus respectivas competencias, revisarán permanentemente las disposiciones, los trámites y procedimientos con objeto de simplificarlos y automatizarlos para agilizar las funciones administrativas de los educadores.
 
-En la revisión y aplicación del proceso de simplificación y automatización administrativa, la Secretaría podrá coordinarse con los sujetos involucrados en el ámbito educativo, para la consecución de este fin.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+En la revisión y aplicación del proceso de simplificación y automatización administrativa, la Secretaría y la SICES podrán coordinarse con los sujetos involucrados en el ámbito educativo, para la consecución de este fin.
 
 ## TÍTULO SEGUNDO. CALIDAD, EQUIDAD Y FINANCIAMIENTO DE LA EDUCACIÓN
 
@@ -347,11 +361,17 @@ Todos los servicios educativos que se impartan deberán procurar la excelencia, 
 
 La Secretaría evaluará la calidad de los servicios educativos de acuerdo a los lineamientos establecidos por el Instituto Nacional para la Evaluación de la Educación, de conformidad con la normativa aplicable.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+La SICES evaluará en su ámbito de competencia, la calidad de los servicios educativos de conformidad con la normativa aplicable.
+
 Mecanismos de coordinación
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 21.
 
-La Secretaría, los organismos descentralizados del sector educativo, los municipios y los particulares establecerán mecanismos de coordinación para lograr condiciones que permitan una mayor equidad educativa, con el propósito de garantizar a la población las oportunidades de acceso, promoción, permanencia y egreso en los servicios educativos.
+La Secretaría, la SICES, los organismos descentralizados del sector educativo, los municipios y los particulares establecerán mecanismos de coordinación para lograr condiciones que permitan una mayor equidad educativa, con el propósito de garantizar a la población las oportunidades de acceso, promoción, permanencia y egreso en los servicios educativos.
 
 Equidad y discapacidad
 
@@ -401,9 +421,11 @@ XVIII. Impulsarán esquemas eficientes para el suministro de alimentos nutritivo
 
 Programas compensatorios
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 23.
 
-La Secretaría y las demás instituciones que conforman el Sistema Educativo Estatal, atenderán mediante programas compensatorios a los grupos y regiones con mayor rezago educativo, para ampliar la cobertura y calidad de los servicios educativos, de conformidad con lo establecido en la Ley General de Educación.
+La Secretaría, la SICES y las demás instituciones que conforman el Sistema Educativo Estatal, atenderán mediante programas compensatorios a los grupos y regiones con mayor rezago educativo, para ampliar la cobertura y calidad de los servicios educativos, de conformidad con lo establecido en la Ley General de Educación.
 
 > <small>(ADICIONADO, P.O. 10 DE MARZO DE 2014)</small>
 
@@ -445,9 +467,11 @@ Las instituciones del Sistema Educativo Estatal se proyectarán y vincularán co
 
 Convenios con el sector productivo
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 28.
 
-La Secretaría, los organismos descentralizados del sector educativo, los ayuntamientos y los particulares que presten el servicio educativo podrán promover convenios con el sector productivo para:
+La Secretaría, la SICES los organismos descentralizados del sector educativo, los ayuntamientos y los particulares que presten el servicio educativo podrán promover convenios con el sector productivo para:
 
 I. Vincular los programas educativos con las necesidades del sector productivo;
 
@@ -483,7 +507,9 @@ Presupuesto y remanentes
 
 El presupuesto autorizado en materia educativa, incluyendo a la investigación científica y tecnológica para la entidad y el aprobado por los ayuntamientos será irreductible e intransferible a otros fines distintos a la educación. Los recursos presupuestales aprobados deberán ser prioritarios, oportunos, suficientes y crecientes en términos reales para permitir el cumplimiento de las responsabilidades estatales y municipales derivadas de la Ley General de Educación y de esta Ley. Estos recursos nunca podrán ser menores a los ejercidos en el presupuesto de egresos del año inmediato anterior.
 
-En caso de existir en el ejercicio fiscal correspondiente remanentes y demás accesorios, independientemente del presupuesto asignado para tal fin, éstos deberán aplicarse en el ejercicio fiscal siguiente para la atención de necesidades de infraestructura física de las instituciones educativas, conforme al programa de obra validado por la Secretaría.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+En caso de existir en el ejercicio fiscal correspondiente remanentes y demás accesorios, independientemente del presupuesto asignado para tal fin, éstos deberán aplicarse en el ejercicio fiscal siguiente para la atención de necesidades de infraestructura física de las instituciones educativas, conforme al programa de obra validado por la Secretaría y la SICES.
 
 Inversiones en materia educativa
 
@@ -727,11 +753,15 @@ f) Los ayuntamientos;
 
 g) La Secretaría;
 
-h) Los organismos descentralizados del sector educativo;
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-i) El Ejecutivo Estatal; y
+h) La SICES;
 
-j) El Consejo Estatal Técnico de Educación, de conformidad con la Ley General de Educación.
+i) Los organismos descentralizados del sector educativo;
+
+j) El Ejecutivo Estatal; y
+
+k) El Consejo Estatal Técnico de Educación, de conformidad con la Ley General de Educación.
 
 III. Elementos educativos:
 
@@ -1011,9 +1041,11 @@ Prevención
 
 Establecimiento
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 70.
 
-El Ejecutivo Estatal establecerá el servicio civil de carrera para el personal de confianza adscrito a la Secretaría y a los organismos descentralizados del sector educativo. Tratándose del personal de base, se atenderá a lo dispuesto en los convenios, acuerdos y demás disposiciones aplicables; respetando íntegramente los derechos adquiridos de los trabajadores de la educación.
+El Ejecutivo Estatal establecerá el servicio civil de carrera para el personal de confianza adscrito a la Secretaría, la SICES y a los organismos descentralizados del sector educativo. Tratándose del personal de base, se atenderá a lo dispuesto en los convenios, acuerdos y demás disposiciones aplicables; respetando íntegramente los derechos adquiridos de los trabajadores de la educación.
 
 > <small>(REFORMADA SU NUMERACIÓN, P.O. 10 DE MARZO DE 2014)</small>
 
@@ -1061,9 +1093,13 @@ Atribuciones de los Ayuntamientos
 
 Corresponde a los ayuntamientos:
 
-I. Colaborar, en el ámbito de su competencia, con la Secretaría para el adecuado funcionamiento de los servicios educativos;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-II. Elaborar, aprobar, ejecutar, dar seguimiento y evaluar el proyecto educativo municipal, en congruencia con la planeación educativa de la Secretaría, para la unificación y coordinación de la actividad educativa;
+I. Colaborar, en el ámbito de su competencia, con la Secretaría y la SICES para el adecuado funcionamiento de los servicios educativos;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+II. Elaborar, aprobar, ejecutar, dar seguimiento y evaluar el proyecto educativo municipal, en congruencia con la planeación educativa de la Secretaría y la SICES, para la unificación y coordinación de la actividad educativa;
 
 III. Fomentar la educación de los adultos a través de acciones de desarrollo de la comunidad, de protección al medio ambiente, así como de capacitación para el trabajo;
 
@@ -1091,9 +1127,11 @@ XIV. Las demás que le señalen otras disposiciones legales.
 
 Relación del Ejecutivo Estatal con los ayuntamientos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 75.
 
-El Ejecutivo Estatal por conducto de la Secretaría promoverá ante los ayuntamientos las siguientes acciones:
+El Ejecutivo Estatal por conducto de la Secretaría y la SICES promoverá ante los ayuntamientos las siguientes acciones:
 
 I. Concurrir en la construcción, equipamiento, mantenimiento, rehabilitación, reforzamiento, reconstrucción y habilitación de inmuebles e instalaciones destinados al servicio público educativo;
 
@@ -1111,17 +1149,17 @@ Convenios del Ejecutivo Estatal con los ayuntamientos
 
 El Ejecutivo Estatal y los ayuntamientos podrán celebrar convenios en materia educativa de conformidad con lo dispuesto en la Ley General de Educación y demás disposiciones aplicables.
 
-De conformidad con dichos convenios, el Ejecutivo Estatal por conducto de la Secretaría, podrá realizar las acciones tendientes a garantizar la corresponsabilidad en materia educativa.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+De conformidad con dichos convenios, el Ejecutivo Estatal por conducto de la Secretaría y la SICES, según correspondan, podrán realizar las acciones tendientes a garantizar la corresponsabilidad en materia educativa.
 
 Atribuciones de la Secretaría
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 77.
 
-Corresponde a la Secretaría, además de las atribuciones previstas en la Ley General de Educación, en la Ley del Instituto Nacional para la Evaluación de la Educación, en la Ley General del Servicio Profesional Docente, la Ley General de los Derechos de Niñas, Niños y Adolescentes, y en Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato, las siguientes:
+Corresponde a la Secretaría en el tipo básico y medio superior, además de las atribuciones previstas en la Ley General de Educación, en la Ley del Instituto Nacional para la Evaluación de la Educación, en la Ley General del Servicio Profesional Docente, la Ley General de los Derechos de Niñas, Niños y Adolescentes, y en la Ley de los Derechos de Niñas, Niños y Adolescentes del Estado de Guanajuato, las siguientes:
 
 I. Prestar los servicios educativos en la entidad en los términos de esta Ley;
 
@@ -1171,7 +1209,9 @@ XXII. Coordinar y operar un registro estatal de emisión, validación e inscripc
 
 XXIII. Establecer un Sistema Estatal de Información Educativa coordinado con el Sistema Nacional de Información y Gestión Educativa;
 
-XXIV. Establecer las modalidades de educación escolarizada, no escolarizada y mixta para todos los tipos y niveles educativos de conformidad con la normativa establecida;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+XXIV. Establecer las modalidades de educación escolarizada, no escolarizada y mixta para los tipos y niveles educativos de su competencia, de conformidad con la normativa establecida;
 
 XXV. Establecer, en cada uno de los planteles educativos y atendiendo a la disponibilidad presupuestal, la innovación en el servicio público de la educación, que favorezca las modalidades de la misma, aprovechando el avance científico, técnico y tecnológico;
 
@@ -1241,19 +1281,73 @@ XLVIII. Participar en la realización, en forma periódica y sistemática, de ex
 
 XLIX. Las demás que con tal carácter establezca esta Ley y otras disposiciones aplicables.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+Atribuciones de la SICES
+
+###### Artículo 77
+
+1. Corresponde a la SICES en la educación de tipo superior, además de las atribuciones previstas en la Ley General de Educación, las siguientes:
+
+I. Establecer programas en el ámbito de su competencia, que permitan ampliar la cobertura de educaciónsuperior (sic) con calidad competitiva en los ámbitos nacional e internacional;
+
+II. Promover esquemas y mecanismos para el reconocimiento de créditos que permitan la movilidad de los educandos, a fin de lograr trayectos educativos exitosos;
+
+III. Proponer y generar las condiciones para la suscripción de convenios de intercambio con instituciones de educación del tipo superior, organismos nacionales e internacionales;
+
+IV. Coordinar acciones orientadas a generar una mayor interacción, colaboración e intercambio entre las instituciones de educacióndel (sic) tipo superior;
+
+V. Promoveracciones (sic) y estrategias que permitan prevenir, atender y erradicar la violencia escolar en las instituciones de educación tipo superior, promoviendo un clima estudiantil sano y estimulante;
+
+VI. Impulsar la calidad de los servicios educativos del tipo superior;
+
+VII. Definir los criterios para la elaboración, aprobación, operación y evaluación de los programas y proyectos que se implementen en las instituciones educativas del tipo superior por parte de los municipios, dependencias y entidades de la administración pública estatal, así como organizaciones de la sociedad civil;
+
+VIII. Establecer mecanismos que permitan la permanencia y el incremento del logro educativo de los educandos del tipo superior;
+
+IX. Coordinar, en concordancia con la política educativa nacional y estatal, la presupuestación y gestión estratégica, a fin de ampliar la oferta, cobertura, pertinencia, calidad y equidad educativa;
+
+X. Proponer políticas, en los términos de la normativa aplicable, que permitan la prestación del servicio social en el tipo superior, a fin de que éste sea retributivo para la sociedad;
+
+XI. Coordinar la administración de las instituciones formadoras de profesionales de la educación;
+
+XII. Proponer a las autoridades educativas federales, los contenidos regionales que hayan de incluirse en los planes y programas de estudio para la educación normal y demás para la formación de docentes de educación básica;
+
+XIII. Proponer a las autoridades educativas federales, los contenidos estratégicos para el desarrollo del estado que hayan de incluirse en los planes y programas de estudio para la educación superior;
+
+XIV. Promover y verificar que los procesos de planeación y evaluación de los organismos públicos descentralizados del tipo superior estén acordes a la política nacional y estatal, en congruencia a la normativa;
+
+XV. Proporcionar acompañamiento y seguimiento a los organismos públicos descentralizados de educación superior en materia normativa y laboral;
+
+XVI. Impulsar la operación del servicio de educación superior en otras modalidades no escolarizadas en el Estado;
+
+XVII. Articular esfuerzos con la Secretaria para elevar el nivel educativo de la entidad al fomentar la transición entre los distintos tipos yniveles (sic) educativos y coadyuvar con la misma para promover las vocaciones en ciencia y tecnología, así como para estimular que los planes de vida de los y las estudiantes contemplen su ingreso a la educación superior, y tengan oportunidades de participación en procesos de emprendimiento e innovación;
+
+XVIII. Promover en las instituciones de educación superior instrumentos, acciones y estrategias para la vinculación de alumnos y profesores con los sectores productivos y sociales de su competencia;
+
+XIX. Diagnosticar en conjunto con la Secretaría la situación de oferta y demanda del ejercicio de las profesiones y de sus diversas ramas en el Estado, a efecto de vincularla con las vocaciones y necesidades de la Entidad, incluyendo la información estadística de contratación de profesionales recién egresados en áreas relacionadas con la profesión respectiva a corto y mediano plazo;
+
+XX. Promover la actualización y capacitación a nivel profesional; y
+
+XXI. Impulsar las modalidades de educación escolarizada, no escolarizada y mixta para el tipo superior de conformidad con la normativa.
+
 Ejecución de proyectos
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 78.
 
-La Secretaría coadyuvará con las autoridades para la ejecución de los proyectos de desarrollo sustentable, cambio climático, protección y conservación del ambiente, entre otros.
+La Secretaría y la SICES coadyuvarán con las autoridades para la ejecución de los proyectos de desarrollo sustentable, cambio climático, protección y conservación del ambiente, entre otros.
 
 Validación y evaluación de programas
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 79.
 
-La Secretaría validará y evaluará los contenidos y estrategias de los programas que pretendan implementarse en las instituciones educativas por parte de organismos públicos y privados tendientes a complementar el proceso de formación de los educandos. Para las instituciones de educación básica, dicha dependencia deberá establecer los acuerdos de coordinación respectivos. Será responsabilidad de dichos organismos su implementación y operación.
+La Secretaría y la SICES validarán y evaluarán los contenidos y estrategias de los programas que pretendan implementarse en las instituciones educativas por parte de organismos públicos y privados tendientes a complementar el proceso de formación de los educandos en apego a la normatividad aplicable a cada organismo. Para las instituciones de educación básica, la Secretaría deberá establecer los acuerdos de coordinación respectivos. Será responsabilidad de dichos organismos su implementación y operación.
 
-Las instituciones educativas del tipo medio superior y superior sectorizadas a la Secretaría se coordinarán con dichos organismos y establecerán las acciones de vinculación, para el desarrollo de los programas a que se refiere este artículo.
+Las instituciones educativas del tipo medio superior y superior sectorizadas a la Secretaría y a la SICES, respectivamente, se coordinarán con dichos organismos y establecerán las acciones de vinculación, para el desarrollo de los programas a que se refiere este artículo.
 
 Atribuciones del Ejecutivo Estatal
 
@@ -1383,9 +1477,13 @@ El calendario escolar determinado por la Secretaría de Educación Pública cont
 
 En los días hábiles marcados en el calendario escolar, las horas de labor en las instituciones educativas se dedicarán a la práctica docente y a las actividades educativas con los educandos conforme a lo previsto en los planes y programas de estudio, así como a aquellas actividades inherentes a su proceso de formación integral.
 
-La suspensión de clases y las actividades no previstas en los planes y programas de estudio sólo podrán ser autorizadas por la Secretaría. Estas autorizaciones únicamente podrán concederse en casos extraordinarios y si no implican incumplimiento de los planes y programas.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-De presentarse interrupciones por causas de fuerza mayor o caso fortuito, la Secretaría tomará las medidas para recuperar los correspondientes días y horas a fin de dar cumplimiento a los planes y programas de estudio.
+La suspensión de clases y las actividades no previstas en los planes y programas de estudio sólo podrán ser autorizadas por la Secretaría y la SICES, en el ámbito de sus competencias y en apego de la normativa de las instituciones. Estas autorizaciones únicamente podrán concederse en casos extraordinarios y si no implican incumplimiento de los planes y programas.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+De presentarse interrupciones por causas de fuerza mayor o caso fortuito, la Secretaría y la SICES, en el ámbito de su competencia, tomarán las medidas para recuperar los correspondientes días y horas a fin de dar cumplimiento a los planes y programas de estudio.
 
 Si la modificación al calendario escolar implica más de los doscientos días de clase para los educandos, los educadores serán debidamente remunerados por los días laborados adicionales al calendario.
 
@@ -1659,19 +1757,19 @@ Para el cumplimiento de lo anterior, las universidades e instituciones de educac
 
 Impulso a la Investigación
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 114.
 
-La Secretaría impulsará la investigación científica y tecnológica entre las universidades e instituciones de educación media superior y superior.
+La Secretaría y la SICES, en coordinación, impulsarán la investigación científica y tecnológica entre las universidades e instituciones de educación media superior y superior.
 
 Tránsito educativo
 
-Artículo 115 La Secretaría y las instituciones de educación media superior y superior, facilitarán el tránsito de los educandos entre un mismo tipo o modalidad educativo a otro de conformidad con las disposiciones normativas establecidas.
-
-Prestación y promoción de servicios educativos
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 115.
 
-La Secretaría y las instituciones de educación media superior y superior, facilitarán el tránsito de los educandos entre un mismo tipo o modalidad educativo a otro de conformidad con las disposiciones normativas establecidas.
+La Secretaría y las instituciones de educación media superior, la SICES y las instituciones de educación superior, facilitarán el tránsito de los educandos entre un mismo tipo o modalidad educativo a otro de conformidad con las disposiciones normativas establecidas.
 
 Prestación y promoción de servicios educativos
 
@@ -1683,9 +1781,11 @@ Así mismo, deberán considerar en sus presupuestos anuales de egresos, los recu
 
 Convenios y acuerdos interinstitucionales
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 117.
 
-El Ejecutivo Estatal y la Secretaría o sus organismos descentralizados podrán suscribir convenios o acuerdos interinstitucionales con organismos e instancias públicas o privadas de carácter estatal, nacional e internacional, que contribuyan al desarrollo y fortalecimiento de los servicios de educación media superior y superior en la entidad.
+El Ejecutivo Estatal, la Secretaría y la SICES o sus organismos descentralizados podrán suscribir convenios o acuerdos interinstitucionales con organismos e instancias públicas o privadas de carácter estatal, nacional e internacional, que contribuyan al desarrollo y fortalecimiento de los servicios de educación media superior y superior en la entidad.
 
 Fortalecimiento del patrimonio
 
@@ -1695,15 +1795,15 @@ El Ejecutivo Estatal apoyará a las instituciones públicas de educación media 
 
 Las instituciones educativas mencionadas, en cumplimiento de su objeto, podrán diversificar sus fuentes de financiamiento a través de la prestación de servicios de asesoría, capacitación, investigación, consultoría o análogos, mediante la celebración de convenios con los sectores público, social y privado.
 
-Acciones de la Secretaría para la educación media superior y superior
+Acciones de la Secretaría para la educación media superior
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2014)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 119.
 
-La Secretaría coordinará, planeará y evaluará en el ámbito de su competencia, la educación media superior y superior en la entidad. Así mismo, promoverá, apoyará y fortalecerá el desarrollo de las acciones de vinculación de las instituciones públicas con los sectores social y productivo.
+La Secretaría y la SICES coordinarán, planearán y evaluarán en el ámbito de su competencia, la educación media superior y superior en la entidad. Así mismo, promoverán, apoyarán, y fortalecerán el desarrollo de las acciones de vinculación de las instituciones públicas con los sectores social y productivo.
 
-La Secretaría se apoyará en las comisiones estatales de planeación, integradas como órganos de consulta y apoyo en materia de coordinación, planeación y evaluación de la educación media superior y superior en la entidad. Asimismo, la Secretaría, atendiendo a sus directrices institucionales y considerando el objeto de las referidas comisiones, formará parte de éstas y podrá otorgar apoyos para el cumplimiento de sus fines.
+La Secretaría y la SICES en el ámbito de sus atribuciones se apoyarán en las comisiones estatales de planeación, integradas como órganos de consulta y apoyo en materia de coordinación, planeación y evaluación de la educación media superior y superior en la entidad. Asimismo, la Secretaría y la SICES, atendiendo a sus directrices institucionales y considerando el objeto de las referidas comisiones, formaran parte de éstas y podrá otorgar apoyos para el cumplimiento de sus fines.
 
 Comisiones estatales
 
@@ -1729,9 +1829,11 @@ Los servicios de formación, actualización, capacitación y superación profesi
 
 Creación de instituciones educativas públicas
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 122.
 
-La Secretaría autorizará la creación de instituciones educativas públicas tomando en cuenta la necesidad del servicio educativo y los estudios de planeación y factibilidad, escuchando las peticiones que se deriven de los ayuntamientos, de los trabajadores de la educación y de las organizaciones de padres, de conformidad con las disposiciones normativas.
+La Secretaría y la SICES autorizarán, en el ámbito de su competencia, la creación de instituciones educativas públicas tomando en cuenta la necesidad del servicio educativo y los estudios de planeación y factibilidad, escuchando las peticiones que se deriven de los ayuntamientos, de los trabajadores de la educación y de las organizaciones de padres, de conformidad con las disposiciones normativas.
 
 Organismo responsable de la infraestructura física educativa
 
@@ -1747,9 +1849,11 @@ Las actividades de construcción, equipamiento, mantenimiento, rehabilitación, 
 
 Concurrencia en la infraestructura física educativa
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 125.
 
-Corresponde a la Secretaría, por conducto del organismo a que se refiere el presente capítulo, promover ante los ayuntamientos y sectores público, social y privado, la concurrencia en: la construcción, equipamiento, mantenimiento, rehabilitación, reforzamiento, reconstrucción y habilitación de inmuebles e instalaciones destinados al servicio público educativo.
+Corresponde a la Secretaría y a la SICES, en el ámbito de su competencia, por conducto del organismo a que se refiere el presente capítulo, promover ante los ayuntamientos y sectores público, social y privado, la concurrencia en: la construcción, equipamiento, mantenimiento, rehabilitación, reforzamiento, reconstrucción y habilitación de inmuebles e instalaciones destinados al servicio público educativo.
 
 Participación para el financiamiento
 
@@ -1801,19 +1905,21 @@ La evaluación debe ser retroalimentadora del proceso educativo. Su propósito e
 
 > <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 10 DE MARZO DE 2014)</small>
 
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2014)</small>
-
 Conocimiento de resultados
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 129
 
-1. La Secretaría dará a conocer a los docentes, alumnos, padres de familia y a la sociedad en general, los resultados que permitan medir el desarrollo y los avances de la educación de la entidad.
+1. La Secretaría y la SICES, en el ámbito de su competencia darán a conocer a los docentes, alumnos, padres de familia y a la sociedad en general, los resultados que permitan medir el desarrollo y los avances de la educación de la entidad.
 
 Colaboración en la evaluación
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 130.
 
-Las instituciones educativas públicas y las particulares con autorización o reconocimiento de validez oficial de estudios, deben otorgar a la Secretaría todas las facilidades y colaboración para la evaluación del proceso educativo.
+Las instituciones educativas públicas y las particulares con autorización o reconocimiento de validez oficial de estudios, deben otorgar a la Secretaría y la SICES, todas las facilidades y colaboración para la evaluación del proceso educativo.
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2014)</small>
 
@@ -1909,7 +2015,13 @@ Para establecer un nuevo plantel se requerirá, según el caso, una nueva autori
 
 IV. Disponer de equipo, y materiales educativos para cumplir con los requerimientos del servicio que pretenden prestar; y
 
-V. Acreditar la preparación y capacitación del personal directivo, docente, técnico y de apoyo, mediante los documentos que certifiquen la escolaridad necesaria, de conformidad con las disposiciones normativas.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+V. Acreditar la preparación y capacitación del personal directivo, docente, técnico y de apoyo, mediante los documentos que certifiquen la escolaridad necesaria, de conformidad con las disposiciones normativas; y
+
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+VI. Obtener la validación de la SICES previamente a la autorización de los estudios a impartirse por parte de las instituciones formadoras de profesionales de la educación o para el reconocimiento de validez oficial de estudios.
 
 Procedimiento, etapas y plazos
 
@@ -2442,3 +2554,59 @@ Artículo Octavo. Las organizaciones de asistencia social que realicen cualquier
 Designación de representantes de la sociedad civil ante el Sistema
 
 Artículo Noveno. Por única ocasión el Gobernador del Estado designará en forma directa a los representantes de la sociedad civil ante el Sistema Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes previstos en la fracción XIII del artículo 91.
+
+P.O. 29 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 64, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE CREA EL SISTEMA DE INNOVACIÓN DEL ESTADO DE GUANAJUATO Y LA SECRETARÍA DE INNOVACIÓN, CIENCIA Y EDUCACIÓN SUPERIOR, REFORMANDO, ADICIONANDO Y DEROGANDO DISPOSICIONES DE VARIOS ORDENAMIENTOS LEGALES".]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia el uno de enero 2016, previa publicación en el Periódico Oficial de Gobierno del Estado.
+
+Creación de la Secretaría de Innovación, Ciencia y Educación Superior
+
+Artículo Segundo. El Gobernador del Estado contará con un plazo de hasta noventa días naturales contados a partir de la entrada en vigencia del presente decreto, para crear la Secretaría de Innovación, Ciencia y Educación Superior. Las Secretarías de Educación, de Desarrollo Económico Sustentable, y el Consejo de Ciencia y Tecnología del Estado de Guanajuato, continuarán ejerciendo las atribuciones en materia de educación superior, economía del conocimiento y de innovación, ciencia y tecnología, respectivamente, hasta el acto formal de entrega recepción.
+
+Transferencia de recursos
+
+Artículo Tercero. Las secretarías de Educación y de Desarrollo Económico Sustentable transferirán a la Secretaría de Innovación, Ciencia y Educación Superior, los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de las funciones que tuviere encomendadas en materia de educación superior, innovación y economía del conocimiento, a través de la entrega-recepción respectiva.
+
+El Consejo de Ciencia y Tecnología transferirá a la Secretaría de Innovación, Ciencia y Educación Superior, los asuntos jurídicos, administrativos, recursos humanos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo con el que se atiende la competencia en materia de ciencia, tecnología e innovación, a través de la entrega-recepción respectiva.
+
+El personal de ambas dependencias y del Concyteg, conforme a su estatus laboral pasará a integrar la nueva Secretaría de Innovación, Ciencia y Educación Superior, sin menoscabo de los derechos adquiridos de los trabajadores.
+
+Concyteg
+
+Artículo Cuarto. El Consejo de Ciencia y Tecnología del Estado de Guanajuato continuará ejerciendo sus labores de obtención de financiamiento y atracción de recursos para lo cual el Consejo Técnico de esa entidad continuará en funciones hasta en tanto la Secretaría de Innovación, Ciencia y Educación Superior inicie formalmente sus actividades de colaboración con instituciones de financiamiento y obtención de recursos; una vez lo cual, se extinguirá.
+
+El Ejecutivo del Estado, por conducto de la Secretaría de Innovación, Ciencia y Educación Superior, informará al Congreso del Estado, sobre la conclusión del proceso de extinción del Consejo de Ciencia y Tecnología del Estado de Guanajuato.
+
+Asunción de responsabilidades
+
+Artículo Quinto. La Secretaría de Innovación, Ciencia y Educación Superior sustituye en todas sus obligaciones y asume los compromisos adquiridos por la Secretaría de Educación en materia de educación superior, debiendo cumplir íntegramente con ellos a partir de su instauración.
+
+Igualmente, la Secretaría de Innovación, Ciencia y Educación Superior sustituye en todas sus obligaciones así como los compromisos adquiridos por el Consejo de Ciencia y Tecnología del Estado de Guanajuato, en materia de innovación, ciencia y tecnología, así como las obligaciones y compromisos adquiridos por la Secretaría de Desarrollo Económico Sustentable en materia de Economía del Conocimiento debiendo cumplir íntegramente con ellos a partir de su instauración.
+
+Para todos los efectos legales correspondientes, la Secretaría de Innovación, Ciencia y Educación Superior a que alude el presente Decreto, se entenderá referida al Consejo de Ciencia y Tecnología del Estado de Guanajuato, que se menciona en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto.
+
+Constitución del Sistema
+
+Artículo Sexto. El Ejecutivo del Estado, deberá constituir el Sistema de Innovación del Estado de Guanajuato, en un término de noventa días, contados a partir de del (sic) inicio de vigencia del presente Decreto.
+
+Resolución de asuntos en trámite
+
+Artículo Séptimo. Los asuntos que en materia de educación superior actualmente estén pendientes de resolver por parte de la Secretaría de Educación y cuyo trámite haya iniciado bajo la vigencia de las disposiciones de la Ley de Educación para el Estado de Guanajuato, que se reforman, adicionan o derogan mediante el presente Decreto, se seguirán tramitando con base en esas disposiciones, hasta su debida conclusión.
+
+Asignación de recursos
+
+Artículo Octavo. La Secretaría de Finanzas, Inversión y Administración definirá los procedimientos y mecanismos necesarios para la adecuada asignación de recursos a la Secretaría de Innovación, Ciencia y Educación Superior, para su correcta operación.
+
+En el caso de los recursos federales, la Secretaría de Finanzas, Inversión y Administración realizará las gestiones con las instancias correspondientes para los efectos de este artículo.
+
+Entrega-recepción
+
+Artículo Noveno. De conformidad a lo estipulado en el Reglamento de Entrega Recepción, la Secretaría de la Transparencia y Rendición de Cuentas, vigilará el proceso de entrega recepción extraordinaria.
+
+Término para la adecuación reglamentaria
+
+Artículo Décimo. El Gobernador del Estado expedirá los reglamentos necesarios para el cumplimiento de esta reforma, en un término que no exceda de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a la presente reforma, acorde a lo establecido en el artículo tercero transitorio del presente Decreto.
