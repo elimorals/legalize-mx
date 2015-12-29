@@ -4,7 +4,7 @@ identifier: "COL-ley-de-deuda-publica-del-estado-de-colima-21187"
 country: "mx"
 rank: "ley"
 publication_date: "2001-04-28"
-last_updated: "2013-06-26"
+last_updated: "2015-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21187&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE DEUDA PÚBLICA DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 28 de abril del 2001.
 
@@ -99,15 +99,13 @@ VII.- Secretaría: la Secretaría de Finanzas del Gobierno del Estado; y
 
 VIII.- Registro: el Registro Estatal de Deuda Pública.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 5º.
 
-No constituyen deuda pública las obligaciones financieras que contraigan las entidades públicas a que se refiere el artículo 2° de esta Ley, para solventar necesidades temporales, siempre que su liquidación se realice en el mismo ejercicio fiscal para el cual fueron contratadas. Sin perjuicio de lo señalado, excepcionalmente podrán ser reconocidas por el Congreso dichas obligaciones financieras como operaciones constitutivas de deuda pública, siempre que el destino de las mismas hubiera sido inversión pública productiva, e incluso, refinanciarse a largo plazo y establecer como fuente o garantía de pago de las mismas las participaciones en ingresos federales y/o cualquier otro ingreso del que se pueda disponer para tales efectos conforme a la normativa aplicable, debiendo contar con la autorización previa a través del Decreto correspondiente.
+Las obligaciones financieras que contraigan las entidades públicas a que se refiere el artículo 2° de esta Ley, para solventar necesidades temporales, siempre que su liquidación se realice en el mismo ejercicio fiscal para el cual fueron contratadas, se considerarán dentro de los montos anuales de endeudamiento autorizadas por el Congreso.
 
-> <small>(REFORMADO, P.O. 1 DE MARZO DE 2008)</small>
-
-Tampoco constituyen deuda pública los adelantos de participaciones federales.
+No constituirán deuda pública, los adelantos de participaciones provenientes del fondo general a que se refiere la Ley de Coordinación Fiscal del Estado.
 
 ###### ARTICULO 6°.
 
@@ -209,7 +207,7 @@ VI.- Aprobar la constitución de los fideicomisos o instrumentos jurídicos proc
 
 VII.- Aprobar los lineamientos para la operación de los fideicomisos o instrumentos jurídicos y garantías o fuentes de pago procedentes del ámbito municipal y, en su caso, del paramunicipal;
 
-VIII.- Aprobar los convenios para que el Gobierno suscriba obligaciones financieras por cuenta del Ayuntamiento y opere los fideicomisos o instrumentos jurídicos a que se refiere la fracción anterior; y (sic)
+VIII.- Aprobar los convenios para que el Gobierno suscriba obligaciones financieras por cuenta del Ayuntamiento y opere los fideicomisos o instrumentos jurídicos a que se refiere la fracción anterior; y
 
 > <small>(REFORMADA, P.O. 26 DE SEPTIEMBRE DE 2009)</small>
 
@@ -372,3 +370,9 @@ El presente Decreto entrará en vigor al siguiente día de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Para los efectos del presente Decreto, se deroga todo aquello que en la legislación local se oponga al mismo.
+
+P.O. 29 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO NO. 39 POR EL QUE SE REFORMA EL ARTÍCULO 5, DE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE COLIMA; ASI MISMO LA FRACCIÓN I, Y SE DEROGA LA FRACCIÓN IV, DEL ARTÍCULO 67 TER DE LA LEY DE PRESUPUESTO Y GASTO PÚBLICO DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
