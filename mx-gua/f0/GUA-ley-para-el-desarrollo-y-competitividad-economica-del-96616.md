@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-el-desarrollo-y-competitividad-economica-del-96616"
 country: "mx"
 rank: "ley"
 publication_date: "2013-11-15"
-last_updated: "2014-04-08"
+last_updated: "2015-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96616&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,7 @@ state: "GUA"
 
 LEY PARA EL DESARROLLO Y COMPETITIVIDAD ECONÓMICA DEL ESTADO DE GUANAJUATO Y SUS MUNICIPIOS
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL 1 DE ENERO DE 2014 PREVIA SU PUBLICACIÓN.</small>
-
-TEXTO ORIGINAL.
-
-N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 8 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Quinta Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de noviembre de 2013.
 
@@ -171,11 +167,15 @@ I. El Gobernador del Estado;
 
 II. El Secretario;
 
-III. Los titulares de las dependencias y entidades de la Administración Pública Estatal que atendiendo a los objetivos de esta Ley, deben intervenir en su aplicación, acorde con las atribuciones que les señalen otras disposiciones jurídicas;
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-IV. Los ayuntamientos; y
+III. Al Secretario de Innovación, Ciencia y Educación Superior;
 
-V. Los titulares de las dependencias y entidades de la Administración Pública Municipal que atendiendo a los objetivos de esta Ley, deben intervenir en su aplicación, acorde con las atribuciones que les señalen otras disposiciones jurídicas.
+IV. Los titulares de las dependencias y entidades de la Administración Pública Estatal que atendiendo a los objetivos de esta Ley, deben intervenir en su aplicación, acorde con las atribuciones que les señalen otras disposiciones jurídicas;
+
+V. Los ayuntamientos; y
+
+VI. Los titulares de las dependencias y entidades de la Administración Pública Municipal que atendiendo a los objetivos de esta Ley, deben intervenir en su aplicación, acorde con las atribuciones que les señalen otras disposiciones jurídicas.
 
 Facultades del Gobernador del Estado
 
@@ -219,7 +219,9 @@ VIII. Impulsar políticas y estrategias de asociación y vinculación entre las 
 
 IX. Impulsar y desarrollar políticas de capacitación y formación permanente de capital humano y de emprendedores;
 
-X. Promover convenios de colaboración entre el sector empresarial y las instituciones educativas para implementar los programas de formación dual;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+X. Promover, en coordinación con el Secretario de Innovación, Ciencia y Educación Superior, convenios de colaboración entre el sector empresarial y las instituciones educativas para implementar los programas de formación dual;
 
 XI. Impulsar la creación y consolidación de empresas que contribuyan al desarrollo económico;
 
@@ -287,7 +289,9 @@ V. El titular de la Secretaría de Educación;
 
 VI. El titular de la Secretaría de Obra Pública;
 
-VII. El Director General del Consejo de Ciencia y Tecnología del Estado de Guanajuato;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+VII. El titular de la Secretaría de Innovación, Ciencia y Educación Superior;
 
 VIII. El Presidente Ejecutivo del Consejo de Fomento al Comercio Exterior;
 
@@ -325,7 +329,7 @@ Son atribuciones del Consejo:
 
 I. Sugerir políticas y estrategias para el desarrollo y competitividad económica;
 
-II. Proponer estrategias que impulsen el desarrollo científico y tecnológico para apoyar la planta productiva y el empleo, la modernización y competitividad de las empresas;
+II. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2015)
 
 III. Sugerir estrategias que contribuyan a generar nuevos empleos, diversificar y consolidar las cadenas productivas con mayor valor agregado y ampliar la oferta comercial de las empresas;
 
@@ -559,13 +563,17 @@ VII. Impulsar una cultura empresarial que fomente el espíritu emprendedor, a tr
 
 VIII. Fomentar la moda y el diseño, como distintivos de diferenciación y competitividad;
 
-IX. Impulsar a través de la economía del conocimiento, del sistema de parques y de los modelos de aceleración de empresas, el desarrollo competitivo de los nuevos sectores y la oferta de productos de alto valor agregado;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+IX. Impulsar a través de la economía del conocimiento, y de los modelos de creación y aceleración de empresas privadas, el desarrollo competitivo de los nuevos sectores y la oferta de productos de alto valor agregado;
 
 X. Favorecer el desarrollo de esquemas de financiamiento, fondos de garantía, micro financiamientos, entre otros, para capitalizar las empresas e impulsar su productividad y competitividad;
 
 XI. Impulsar la innovación en el proceso productivo con la aplicación de las nuevas tecnologías; y
 
-XII. Fomentar en el ámbito empresarial los procesos de investigación tecnológica para generar activos intangibles.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+XII. Fomentar en el ámbito empresarial los procesos de investigación tecnológica para generar activos intangibles, coordinándose con la Secretaría de Innovación, Ciencia y Educación Superior.
 
 #### Sección Sexta. Gestión para el financiamiento
 
@@ -577,13 +585,15 @@ La Secretaría impulsará acciones para acercar productos financieros accesibles
 
 #### Sección Séptima. Capacitación del capital humano y certificación de su competencia laboral
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
 Políticas en materia de capacitación para el trabajo
 
 ###### Artículo 27.
 
-La Secretaría, en el ámbito de su competencia y en coordinación con la Secretaría de Educación del Estado de Guanajuato, orientará las políticas en materia de capacitación para el trabajo que se identifiquen con la problemática y el modelo de desarrollo económico de cada zona y región económica.
+La Secretaría, en el ámbito de su competencia y en coordinación con la Secretaría y la Secretaría de Innovación, Ciencia y Educación Superior, orientarán las políticas en materia de capacitación para el trabajo que se identifiquen con la problemática y el modelo de desarrollo económico de cada zona y región económica.
 
-La Secretaría promoverá en coordinación con la Secretaría de Educación de Guanajuato la inclusión en los programas académicos en los niveles medio superior y superior autorizados por ésta, actividades vinculadas con la cultura emprendedora.
+La Secretaría promoverá en coordinación con la Secretaría de Educación de Guanajuato y la Secretaría de Innovación, Ciencia y Educación Superior la inclusión en los programas académicos en los tiposmedio (sic) superior y superior, actividades vinculadas con la cultura emprendedora.
 
 Capacitación y adiestramiento
 
@@ -683,7 +693,11 @@ II. Coadyuvar con las empresas establecidas o con ánimo de establecerse en el e
 
 III. Vincular al inversionista nacional y extranjero con organismos públicos y privados;
 
-IV. Promover estímulos fiscales para incentivar actividades y acciones relacionadas con la generación y utilización productiva de conocimiento e innovaciones tecnológicas; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+IV. Promover estímulos fiscales para incentivar actividades y acciones relacionadas con la generación y utilización productiva de conocimiento e innovaciones tecnológicas;
+
+Para el efecto de la gestión en materia de innovación tecnológica, se coordinará con la Secretaría de Innovación, Ciencia y Educación Superior; y
 
 V. Promover apoyos económicos para la capacitación especializada en materia de cultura emprendedora, de desarrollo de emprendedores y de empresas de reciente creación.
 
@@ -691,9 +705,11 @@ V. Promover apoyos económicos para la capacitación especializada en materia de
 
 Fomento a la economía del conocimiento
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 39.
 
-La Secretaría fomentará la economía del conocimiento buscando una mayor incorporación de la tecnología y la innovación que se traduzca en el desarrollo de actividades de mayor valor agregado y empleos bien remunerados, a efecto de conseguir los siguientes objetivos:
+La Secretaría de Innovación, Ciencia y Educación Superior, en coordinación con la Secretaría, fomentará la economía del conocimiento buscando una mayor incorporación de la tecnología y la innovación que se traduzca en el desarrollo de actividades de mayor valor agregado y empleos bien remunerados, a efecto de conseguir los siguientes objetivos:
 
 I. Promover las redes de innovación de personas, empresas e instituciones que generan conocimiento para que produzcan beneficios económicos y sociales;
 
@@ -707,9 +723,11 @@ V. Fomentar la incorporación de investigadores, tecnólogos y profesionales en 
 
 Impulso de acciones
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 40.
 
-La Secretaría y las demás dependencias y entidades de la Administración Pública Estatal en el ámbito de sus competencias, para los efectos del artículo anterior, impulsarán las siguientes acciones:
+La Secretaría de Innovación, Ciencia y Educación Superior, y las demás dependencias y entidades de la Administración Pública Estatal en el ámbito de sus competencias, para los efectos del artículo anterior, impulsarán las siguientes acciones:
 
 I. Crear mecanismos que favorezcan relaciones fluidas entre las organizaciones y asociaciones empresariales, universidades, inversionistas y gobierno;
 
@@ -850,3 +868,61 @@ MIGUEL MÁRQUEZ MÁRQUEZ
 EL SECRETARIO DE GOBIERNO
 
 ANTONIO SALVADOR GARCÍA LÓPEZ
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 29 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 64, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE CREA EL SISTEMA DE INNOVACIÓN DEL ESTADO DE GUANAJUATO Y LA SECRETARÍA DE INNOVACIÓN, CIENCIA Y EDUCACIÓN SUPERIOR, REFORMANDO, ADICIONANDO Y DEROGANDO DISPOSICIONES DE VARIOS ORDENAMIENTOS LEGALES”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia el uno de enero 2016, previa publicación en el Periódico Oficial de Gobierno del Estado.
+
+Creación de la Secretaría de Innovación, Ciencia y Educación Superior
+
+Artículo Segundo. El Gobernador del Estado contará con un plazo de hasta noventa días naturales contados a partir de la entrada en vigencia del presente decreto, para crear la Secretaría de Innovación, Ciencia y Educación Superior. Las Secretarías de Educación, de Desarrollo Económico Sustentable, y el Consejo de Ciencia y Tecnología del Estado de Guanajuato, continuarán ejerciendo las atribuciones en materia de educación superior, economía del conocimiento y de innovación, ciencia y tecnología, respectivamente, hasta el acto formal de entrega recepción.
+
+Transferencia de recursos
+
+Artículo Tercero. Las secretarías de Educación y de Desarrollo Económico Sustentable transferirán a la Secretaría de Innovación, Ciencia y Educación Superior, los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de las funciones que tuviere encomendadas en materia de educación superior, innovación y economía del conocimiento, a través de la entrega-recepción respectiva.
+
+El Consejo de Ciencia y Tecnología transferirá a la Secretaría de Innovación, Ciencia y Educación Superior, los asuntos jurídicos, administrativos, recursos humanos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo con el que se atiende la competencia en materia de ciencia, tecnología e innovación, a través de la entrega-recepción respectiva.
+
+El personal de ambas dependencias y del Concyteg, conforme a su estatus laboral pasará a integrar la nueva Secretaría de Innovación, Ciencia y Educación Superior, sin menoscabo de los derechos adquiridos de los trabajadores.
+
+Concyteg
+
+Artículo Cuarto. El Consejo de Ciencia y Tecnología del Estado de Guanajuato continuará ejerciendo sus labores de obtención de financiamiento y atracción de recursos para lo cual el Consejo Técnico de esa entidad continuará en funciones hasta en tanto la Secretaría de Innovación, Ciencia y Educación Superior inicie formalmente sus actividades de colaboración con instituciones de financiamiento y obtención de recursos; una vez lo cual, se extinguirá.
+
+El Ejecutivo del Estado, por conducto de la Secretaría de Innovación, Ciencia y Educación Superior, informará al Congreso del Estado, sobre la conclusión del proceso de extinción del Consejo de Ciencia y Tecnología del Estado de Guanajuato.
+
+Asunción de responsabilidades
+
+Artículo Quinto. La Secretaría de Innovación, Ciencia y Educación Superior sustituye en todas sus obligaciones y asume los compromisos adquiridos por la Secretaría de Educación en materia de educación superior, debiendo cumplir íntegramente con ellos a partir de su instauración.
+
+Igualmente, la Secretaría de Innovación, Ciencia y Educación Superior sustituye en todas sus obligaciones así como los compromisos adquiridos por el Consejo de Ciencia y Tecnología del Estado de Guanajuato, en materia de innovación, ciencia y tecnología, así como las obligaciones y compromisos adquiridos por la Secretaría de Desarrollo Económico Sustentable en materia de Economía del Conocimiento debiendo cumplir íntegramente con ellos a partir de su instauración.
+
+Para todos los efectos legales correspondientes, la Secretaría de Innovación, Ciencia y Educación Superior a que alude el presente Decreto, se entenderá referida al Consejo de Ciencia y Tecnología del Estado de Guanajuato, que se menciona en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto.
+
+Constitución del Sistema
+
+Artículo Sexto. El Ejecutivo del Estado, deberá constituir el Sistema de Innovación del Estado de Guanajuato, en un término de noventa días, contados a partir de (sic) del inicio de vigencia del presente Decreto.
+
+Resolución de asuntos en trámite
+
+Artículo Séptimo. Los asuntos que en materia de educación superior actualmente estén pendientes de resolver por parte de la Secretaría de Educación y cuyo trámite haya iniciado bajo la vigencia de las disposiciones de la Ley de Educación para el Estado de Guanajuato, que se reforman, adicionan o derogan mediante el presente Decreto, se seguirán tramitando con base en esas disposiciones, hasta su debida conclusión.
+
+Asignación de recursos
+
+Artículo Octavo. La Secretaría de Finanzas, Inversión y Administración definirá los procedimientos y mecanismos necesarios para la adecuada asignación de recursos a la Secretaría de Innovación, Ciencia y Educación Superior, para su correcta operación.
+
+En el caso de los recursos federales, la Secretaría de Finanzas, Inversión y Administración realizará las gestiones con las instancias correspondientes para los efectos de este artículo.
+
+Entrega-recepción
+
+Artículo Noveno. De conformidad a lo estipulado en el Reglamento de Entrega Recepción, la Secretaría de la Transparencia y Rendición de Cuentas, vigilará el proceso de entrega recepción extraordinaria.
+
+Término para la adecuación reglamentaria
+
+Artículo Décimo. El Gobernador del Estado expedirá los reglamentos necesarios para el cumplimiento de esta reforma, en un término que no exceda de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a la presente reforma, acorde a lo establecido en el artículo tercero transitorio del presente Decreto.
