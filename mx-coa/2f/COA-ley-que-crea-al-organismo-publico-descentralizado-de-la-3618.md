@@ -4,7 +4,7 @@ identifier: "COA-ley-que-crea-al-organismo-publico-descentralizado-de-la-3618"
 country: "mx"
 rank: "ley"
 publication_date: "1983-04-05"
-last_updated: "1992-10-20"
+last_updated: "2015-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "COA"
 ---
 # LEY QUE CREA AL ORGANISMO PUBLICO DESCENTRALIZADO DE LA ADMINISTRACION MUNICIPAL DENOMINADO "DIRECCION DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL MUNICIPIO DE SALTILLO"
 
-LEY QUE CREA AL ORGANISMO PUBLICO DESCENTRALIZADO DE LA ADMINISTRACION MUNICIPAL DENOMINADO "DIRECCION DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL MUNICIPIO DE SALTILLO"
+LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN MUNICIPAL DENOMINADO DIRECCIÓN DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL MUNICIPIO DE SALTILLO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE OCTUBRE DE 1992.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO DÉCIMO TERCERO DE LA LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN MUNICIPAL DENOMINADO DIRECCIÓN DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL MUNICIPIO DE SALTILLO, PUBLICADA EN EL P.O. DE 29 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el martes 5 de abril de 1983.
 
@@ -722,3 +724,279 @@ LIC. ENRIQUE MARTINEZ Y MARTINEZ.
 P.O. 20 DE OCTUBRE DE 1992.
 
 UNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 352.- LEY ORGÁNICA DEL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN MUNICIPAL DENOMINADO DIRECCIÓN DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL MUNICIPIO DE SALTILLO”.]
+
+PRIMERO. El presente decreto entrará en vigor a partir del día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Los trabajadores que estén disfrutando una pensión a la fecha de entrada en vigor de la presente Ley, o tengan derecho adquirido a disfrutar de alguna de ellas, la mantendrán en los términos y condiciones en los que la hayan adquirido.
+
+TERCERO. Para los trabajadores en transición el salario regulador a que se refiere el artículo 5 fracción IX, será el promedio ponderado de los últimos sueldos de cotización, previa actualización mediante el Índice Nacional de Precios al Consumidor, de acuerdo del año en que alcance los requisitos para obtener una pensión al 100%, conforme a la siguiente tabla:
+
+Año en que adquiere el derecho Número de años de
+
+a la jubilación al máximo. sueldo a promediar
+
+2016 1
+
+2017 2
+
+2018 3
+
+2019 4
+
+2020 5
+
+2021 6
+
+2022 7
+
+2023 8
+
+2024 9
+
+2025 o posterior 10
+
+CUARTO. Para los efectos del artículo 39 de la presente Ley, el trabajador que se encontraba en activo al 16 de julio de 1999, la edad mínima de la jubilación dependerá de los años que le falten para alcanzar los 30 años de servicio, de acuerdo con la siguiente tabla:
+
+AÑOS QUE LE FALTEN EDAD MINIMA
+
+AL TRABAJADOR PARA DE JUBILACION
+
+CUMPLIR 30 AÑOS DE
+
+SERVICIO.
+
+HOMBRES MUJERES
+
+HOMBRES MUJERES
+
+0 45 43
+
+1 46 44
+
+2 47 45
+
+3 48 46
+
+4 49 47
+
+5 50 48
+
+6 51 49
+
+7 52 50
+
+8 53 51
+
+9 54 52
+
+10 55 53
+
+11 56 54
+
+12 57 55
+
+13 58 56
+
+14 59 57
+
+15 60 58
+
+16 61 59
+
+17 62 60
+
+18 63 61
+
+19 64 62
+
+20 o más 65 63
+
+QUINTO. Para los efectos del artículo 40 de la presente Ley, el trabajador que al 16 de julio de 1999, se encontraba en activo, la edad mínima de jubilación dependerá de los años que le falten para alcanzar cuando menos 60 años de edad, en esa fecha y su antigüedad mínima deberá ser de al menos 15 años de servicio.
+
+Años que le falten al trabajador
+
+para alcanzar un mínimo de 60
+
+años de edad y 15 años de servicio Edad mínima de jubilación
+
+0 60
+
+1 60.5
+
+2 61
+
+3 61.5
+
+4 62
+
+5 62.5
+
+6 63
+
+7 63.5
+
+8 64
+
+9 64.5
+
+10 65
+
+SEXTO.- El trabajador en transición podrá retirarse con una antigüedad de 15 años de servicio y la edad mínima establecida en el artículo cuarto transitorio de esta Ley, sin embargo, el beneficio no podrá ser mayor al porcentaje del sueldo pensionable que se indica en la siguiente tabla:
+
+15 años de servicio 55% 23 años de servicio 79%
+
+16 años de servicio 58% 24 años de servicio 82%
+
+17 años de servicio 61% 25 años de servicio 85%
+
+18 años de servicio 64% 26 años de servicio 88%
+
+19 años de servicio 67% 27 años de servicio 91%
+
+20 años de servicio 70% 28 años de servicio 94%
+
+21 años de servicio 73% 29 años de servicio 97%
+
+22 años de servicio 76% 30 o más años de servicio 100%
+
+SÉPTIMO. Para que los trabajadores en transición tengan acceso a las pensiones por invalidez por causas ajenas al trabajo, se requiere al menos 5 años de antigüedad en el servicio. El monto de la pensión no podrá ser mayor al porcentaje del sueldo pensionable que se indica en la siguiente tabla:
+
+Años de Porcentaje Años de Porcentaje
+
+Servicio del sueldo Servicio del Sueldo
+
+Pensionable Pensionable
+
+10 50% 21 73%
+
+11 51% 22 76%
+
+12 53% 24 82%
+
+14 54% 25 85%
+
+15 55% 26 88%
+
+16 58% 27 91%
+
+17 61% 28 94%
+
+18 164% 29 97%
+
+19 67% 30 o más 100%
+
+20 70%
+
+OCTAVO. Para que los beneficiarios del trabajador en transición accedan a la pensión por muerte por causas ajenas al trabajo, se requiere al menos 5 años de antigüedad en el servicio. El monto de la pensión no podrá ser mayor al porcentaje del sueldo pensionable que se indica en la siguiente tabla:
+
+Años de Porcentaje del Años de Porcentaje del
+
+Servicio Sueldo Pensionable Servicio Sueldo Pensionable
+
+10 40% 21 73%
+
+11 43% 22 76%
+
+12 46% 23 79%
+
+13 49% 24 82%
+
+14 52% 25 85%
+
+15 55% 26 88%
+
+16 58% 27 91%
+
+17 61% 28 94%
+
+18 64% 29 97%
+
+19 67% 30 o más 100%
+
+20 70%
+
+NOVENO. Para los trabajadores en transición que se encontraban en activo al 16 de julio de 1999, el estímulo a la permanencia a que se refiere el artículo 41 de esta Ley, será de un 20% del salario de cotización, más un 2% del salario por cada año de servicio en exceso de 30. Este estímulo no forma parte del salario regulador establecido en la fracción IX, del artículo 5 de la Ley.
+
+DÉCIMO. Para los trabajadores en transición, las aportaciones a cargo del patrón, serán de un porcentaje del sueldo de cotización de acuerdo con la siguiente tabla:
+
+AÑO PORCENTAJE
+
+2015 13.5%
+
+2016 14.0%
+
+2017 14.5%
+
+2018 15.0%
+
+2019 15.5%
+
+2020 16.0%
+
+2021 16.5%
+
+2022 17.0%
+
+2023 17.5%
+
+2024 18.0%
+
+2025 18.5%
+
+2026 18.5%
+
+2027 18.0%
+
+2028 17.5%
+
+2029 17.0%
+
+2030 16.5%
+
+2031 en adelante 16.0%
+
+DÉCIMO PRIMERO. Las cuotas a cargo del trabajador en transición, serán de un porcentaje de su sueldo de cotización de acuerdo con la siguiente tabla:
+
+AÑO PORCENTAJE
+
+2016 0.5%
+
+2017 1.0%
+
+2018 1.5%
+
+2019 2.0%
+
+2020 2.5%
+
+2021 3.0%
+
+2022 3.5%
+
+2023 4.0%
+
+2024 4.5%
+
+2025 5.0%
+
+2026 5.5%
+
+2027 6.0%
+
+2028 6.5%
+
+2029 7.0%
+
+2030 7.5%
+
+2031 EN ADELANTE 8.0%
+
+DÉCIMO SEGUNDO. Para los efectos del artículo 70 de la presente Ley, los familiares beneficiarios de los pensionados y de los trabajadores en transición al fallecimiento de estos, tienen derecho a una pensión equivalente al 90% del importe de la pensión que venía disfrutando o a que tenía derecho el trabajador;
+
+DÉCIMO TERCERO. Se abroga la Ley que crea al Organismo Publico Descentralizado de la Administración Municipal Denominado “Dirección de Pensiones y otros Beneficios Sociales para los Trabajadores al Servicio del Municipio de Saltillo”, publicada en el Periódico Oficial, el martes 5 de abril de 1983.
+
+DÉCIMO CUARTO. Se derogan todas las disposiciones que se opongan a la presente ley.
