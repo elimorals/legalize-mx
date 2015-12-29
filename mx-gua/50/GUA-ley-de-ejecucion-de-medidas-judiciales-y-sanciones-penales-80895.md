@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-ejecucion-de-medidas-judiciales-y-sanciones-penales-8089
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-15"
-last_updated: "2015-10-02"
+last_updated: "2015-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80895&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # LEY DE EJECUCION DE MEDIDAS JUDICIALES Y SANCIONES PENALES DEL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE ENERO DE 2016 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE EJECUCIÓN DE MEDIDAS JUDICIALES Y SANCIONES PENALES DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 2 DE OCTUBRE DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de abril de 2011.
 
@@ -77,9 +77,11 @@ Glosario
 
 Para los efectos de la presente Ley, se entenderá por:
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-I. Autoridades auxiliares: Las Secretarías de Gobierno, de Finanzas, Inversión y Administración, de Educación, de Desarrollo Social y Humano, de Salud, de Desarrollo Económico Sustentable, de Desarrollo Agroalimentario y Rural, Instituciones Policiales del Estado y de los municipios, organismos autónomos y descentralizados estatales y municipales, así como todas aquellas que les resulte participación, conforme a su naturaleza y atribuciones, en el desarrollo y ejecución del objeto de la presente Ley;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+I. Autoridades auxiliares: Las Secretarías de Gobierno; de Finanzas, Inversión y Administración; de Educación; de Innovación, Ciencia y Educación Superior; de Desarrollo Social y Humano; de Salud; de Desarrollo Económico Sustentable; de Desarrollo Agroalimentario y Rural; Instituciones Policiales del Estado y de los municipios; organismos autónomos y descentralizados estatales y municipales, así como todas aquellas que les resulte participación, conforme a su naturaleza y atribuciones, en el desarrollo y ejecución del objeto de la presente Ley;
 
 II. Centros: Los establecimientos destinados exclusivamente a la aplicación de la prisión preventiva;
 
@@ -263,7 +265,7 @@ Atribuciones de la Secretaría en relación con las medidas cautelares y condici
 
 Con el objeto de cumplir con las atribuciones antes señaladas, la Secretaría podrá:
 
-l. Hacer comparecer, cuando medie orden judicial, a los inculpados y sentenciados con fines de notificación, información, registro y control de las medidas cautelares o condiciones decretadas, así como acudir a los domicilios que aquéllos proporcionaron, con el objeto de constatar la información proporcionada;
+I. Hacer comparecer, cuando medie orden judicial, a los inculpados y sentenciados con fines de notificación, información, registro y control de las medidas cautelares o condiciones decretadas, así como acudir a los domicilios que aquéllos proporcionaron, con el objeto de constatar la información proporcionada;
 
 II. Requerir la información y documentación a las autoridades auxiliares e integrar un informe técnico para su remisión al juez en el que se especifiquen las circunstancias particulares del cumplimiento, incumplimiento o irregularidad en las medidas cautelares y condiciones decretadas, así como la imposibilidad material para la ejecución de dichas medidas; y
 
@@ -357,7 +359,7 @@ I. Garantía económica, tratándose de prendas e hipotecas;
 
 II. Prohibición de salir del país; y
 
-II. Abstención de viajar al extranjero.
+III. Abstención de viajar al extranjero.
 
 > <small>(REFORMADO ACÁPITE, P.O. 7 DE JUNIO DE 2013)</small>
 
@@ -373,11 +375,25 @@ I. Durante el proceso penal, de las medidas cautelares o condiciones de suspensi
 
 II. Durante la fase de cumplimiento de sentencia firme, de las consecuencias aplicables a las personas jurídicas colectivas consistentes en la prohibición de realizar determinadas operaciones o suspensión.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
 Secretaría de Educación
 
 ###### Artículo 24.
 
-Corresponde a la Secretaría de Educación, durante el proceso penal, el auxilio en la ejecución de la condición de aprender una profesión u oficio o seguir cursos de capacitación en el lugar o la institución que determine el juez y en la medida cautelar de suspensión provisional en el ejercicio de la profesión.
+Corresponde a la Secretaría de Educación, durante el proceso penal, el auxilio en la ejecución de la condición de aprender un oficio o seguir cursos de capacitación en el lugar o la institución que determine el juez y en la medida cautelar de suspensión provisional en el ejercicio de la profesión.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+Secretaría de Innovación, Ciencia y Educación Superior
+
+###### Artículo 24 Bis.
+
+Corresponde a (sic) Secretaría de Innovación, Ciencia y Educación Superior, durante el proceso penal, el auxilio en la ejecución de la condición de aprender una profesión en el lugar o la institución que determine el juez.
 
 Secretaría de Desarrollo Social y Humano
 
@@ -429,7 +445,7 @@ Instituciones policiales del estado y de los municipios
 
 Corresponde a las Instituciones policiales, dependientes de la Secretaría y de los municipios, el auxilio en la ejecución:
 
-l. Durante el proceso penal, de las medidas cautelares o condiciones de:
+I. Durante el proceso penal, de las medidas cautelares o condiciones de:
 
 a) Prohibición al inculpado de salir de la localidad en la cual reside, del ámbito territorial que fije el juez, o del país, sin autorización;
 
@@ -711,9 +727,11 @@ III. Abstenerse de consumir sustancias psicotrópicas, drogas, estupefacientes u
 
 IV. Participar en programas especiales para la prevención y tratamiento de adicciones. Corresponde a la Secretaría de Salud, incorporar al inculpado para su participación en dichos programas, la que además revisará los resultados e informará sobre su cumplimiento;
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-V. Aprender una profesión u oficio o seguir cursos de capacitación en el lugar o la institución que determine el juez. Se sujetará a la revisión, por parte de la Secretaría de Educación, de la Secretaría de Desarrollo Económico Sustentable y de la Secretaría de Desarrollo Agroalimentario y Rural, las cuales incorporarán al inculpado en alguno (sic) de las instituciones que ofrezcan servicios educativos o de capacitación para el trabajo, informando sobre los avances programáticos que alcance el inculpado, y sobre la culminación de los estudios, en su caso;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+V. Aprender una profesión u oficio o seguir cursos de capacitación en el lugar o la institución que determine el juez. Se sujetará a la revisión, por parte de la Secretaría de Innovación, Ciencia y Educación Superior, de la Secretaría de Educación, de la Secretaría de Desarrollo Económico Sustentable y de la Secretaría de Desarrollo Agroalimentario y Rural, las cuales incorporarán al inculpado en alguno (sic) de las instituciones que ofrezcan servicios educativos o de capacitación para el trabajo, informando sobre los avances programáticos que alcance el inculpado, y sobre la culminación de los estudios, en su caso;
 
 VI. Prestar servicio social a favor del Estado o de instituciones de beneficencia pública. La Dirección inscribirá al inculpado en un listado especial de prestadores de servicio social y le indicará la institución en la que deba realizarse, el horario en el que se cumplirá, y las labores que desempeñará. Asimismo, supervisará el trabajo del inculpado periódicamente e informará sobre su cumplimiento;
 
@@ -847,7 +865,7 @@ Externación durante la semana de trabajo, educativa o de capacitación con recl
 
 El internamiento de fin de semana quedará sujeto a las siguientes reglas:
 
-l. Tendrá lugar desde las dieciocho horas del día sábado hasta las dieciocho horas del día domingo;
+I. Tendrá lugar desde las dieciocho horas del día sábado hasta las dieciocho horas del día domingo;
 
 II. Su cumplimiento se realizará en el Centro de Prevención y Reinserción Social más próximo al lugar de residencia habitual del sentenciado, en lugares completamente separados a los destinados para internos que compurguen la pena de prisión o se encuentren en prisión preventiva;
 
@@ -1005,7 +1023,7 @@ Requisitos para la libertad preparatoria
 
 La libertad preparatoria se concederá a los sentenciados que hayan cubierto los siguientes requisitos:
 
-l. Haber reparado el daño o que esa sanción hubiese prescrito;
+I. Haber reparado el daño o que esa sanción hubiese prescrito;
 
 II. Haber observado buena conducta durante su reclusión y el tiempo del periodo preliberacional;
 
@@ -1731,11 +1749,15 @@ Fomento de la lectura y establecimiento de bibliotecas
 
 En todo Centro y Centro de Prevención y Reinserción Social se fomentara el interés de los internos por la lectura y el estudio; para ello, deberá contar con una biblioteca provista de bibliografía adecuada para esos fines y para respaldar los niveles de educación obligatorios.
 
-Programas educativos de nivel medio superior y superior
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+Programas educativos de los tipos medio superior y superior
 
 ###### Artículo 162.
 
-La Dirección, en coordinación con la Secretaría de Educación, propiciará las circunstancias necesarias a fin de que en los Centros o Centros de Prevención y Reinserción Social en donde los internos soliciten participar en programas educativos de nivel medio superior y superior, éstos sean impartidos en el interior de dichos establecimientos, a través de instituciones educativas que la Secretaría de Educación determine, mediante programas presenciales o a distancia.
+La Dirección, en coordinación con la Secretaría de Educación y la Secretaría de Innovación, Ciencia y Educación Superior, según corresponda, propiciará las circunstancias necesarias a fin de que en los Centros o Centros de Prevención y Reinserción Social en donde los internos soliciten participar en programas educativos de los tipos medio superior y superior, éstos sean impartidos en el interior de dichos establecimientos, a través de instituciones educativas que dependiendo de la competencia del programa educativo determine, mediante programas presenciales o a distancia.
 
 ### Capítulo VI. Salud
 
@@ -2210,3 +2232,59 @@ Artículo Octavo. Las organizaciones de asistencia social que realicen cualquier
 Designación de representantes de la sociedad civil ante el Sistema
 
 Artículo Noveno. Por única ocasión el Gobernador del Estado designará en forma directa a los representantes de la sociedad civil ante el Sistema Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes previstos en la fracción XIII del artículo 91.
+
+P.O. 29 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 64, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE CREA EL SISTEMA DE INNOVACIÓN DEL ESTADO DE GUANAJUATO Y LA SECRETARÍA DE INNOVACIÓN, CIENCIA Y EDUCACIÓN SUPERIOR, REFORMANDO, ADICIONANDO Y DEROGANDO DISPOSICIONES DE VARIOS ORDENAMIENTOS LEGALES”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia el uno de enero (sic) 2016, previa publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+Creación de la Secretaría de Innovación, Ciencia y Educación Superior
+
+Artículo Segundo. El Gobernador del Estado contará con un plazo de hasta noventa días naturales contados a partir de la entrada en vigencia del presente decreto, para crear la Secretaría de Innovación, Ciencia y Educación Superior. Las Secretarías de Educación, de Desarrollo Económico Sustentable, y el Consejo de Ciencia y Tecnología del Estado de Guanajuato, continuarán ejerciendo las atribuciones en materia de educación superior, economía del conocimiento y de innovación, ciencia y tecnología, respectivamente, hasta el acto formal de entrega recepción.
+
+Transferencia de recursos
+
+Artículo Tercero. Las secretarías de Educación y de Desarrollo Económico Sustentable transferirán a la Secretaría de Innovación, Ciencia y Educación Superior, los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de las funciones que tuviere encomendadas en materia de educación superior, innovación y economía del conocimiento, a través de la entrega-recepción respectiva.
+
+El Consejo de Ciencia y Tecnología transferirá a la Secretaría de Innovación, Ciencia y Educación Superior, los asuntos jurídicos, administrativos, recursos humanos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo con el que se atiende la competencia en materia de ciencia, tecnología e innovación, a través de la entrega-recepción respectiva.
+
+El personal de ambas dependencias y del Concyteg, conforme a su estatus laboral pasará a integrar la nueva Secretaría de Innovación, Ciencia y Educación Superior, sin menoscabo de los derechos adquiridos de los trabajadores.
+
+Concyteg
+
+Artículo Cuarto. El Consejo de Ciencia y Tecnología del Estado de Guanajuato continuará ejerciendo sus labores de obtención de financiamiento y atracción de recursos para lo cual el Consejo Técnico de esa entidad continuará en funciones hasta en tanto la Secretaría de Innovación, Ciencia y Educación Superior inicie formalmente sus actividades de colaboración con instituciones de financiamiento y obtención de recursos; una vez lo cual, se extinguirá.
+
+El Ejecutivo del Estado, por conducto de la Secretaría de Innovación, Ciencia y Educación Superior, informará al Congreso del Estado, sobre la conclusión del proceso de extinción del Consejo de Ciencia y Tecnología ael (sic) Estado de Guanajuato.
+
+Asunción de responsabilidades
+
+Artículo Quinto. La Secretaría de Innovación, Ciencia y Educación Superior sustituye en todas sus obligaciones y asume los compromisos adquiridos por la Secretaría de Educación en materia de educación superior, debiendo cumplir íntegramente con ellos a partir de su instauración.
+
+Igualmente, la Secretaría de Innovación, Ciencia y Educación Superior sustituye en todas sus obligaciones así como los compromisos adquiridos por el Consejo de Ciencia y Tecnología del Estado de Guanajuato, en materia de innovación, ciencia y tecnología, así como las obligaciones y compromisos adquiridos por la Secretaría de Desarrollo Económico Sustentable en materia de Economía del Conocimiento debiendo cumplir íntegramente con ellos a partir de su instauración.
+
+Para todos los efectos legales correspondientes, la Secretaría de Innovación, Ciencia y Educación Superior a que alude el presente Decreto, se entenderá referida al Consejo de Ciencia y Tecnología del Estado de Guanajuato, que se menciona en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto.
+
+Constitución del Sistema
+
+Artículo Sexto. El Ejecutivo del Estado, deberá constituir el Sistema de Innovación del Estado de Guanajuato, en un término de noventa días, contados a partir de (sic) del inicio de vigencia del presente Decreto.
+
+Resolución de asuntos en trámite
+
+Artículo Séptimo. Los asuntos que en materia de educación superior actualmente estén pendientes de resolver por parte de la Secretaría de Educación y cuyo trámite haya iniciado bajo la vigencia de las disposiciones de la Ley de Educación para el Estado de Guanajuato, que se reforman, adicionan o derogan mediante el presente Decreto, se seguirán tramitando con base en esas disposiciones, hasta su debida conclusión.
+
+Asignación de recursos
+
+Artículo Octavo. La Secretaría de Finanzas, Inversión y Administración definirá los procedimientos y mecanismos necesarios para la adecuada asignación de recursos a la Secretaría de Innovación, Ciencia y Educación Superior, para su correcta operación.
+
+En el caso de los recursos federales, la Secretaría de Finanzas, Inversión y Administración realizará las gestiones con las instancias correspondientes para los efectos de este artículo.
+
+Entrega-recepción
+
+Artículo Noveno. De conformidad a lo estipulado en el Reglamento de Entrega Recepción, la Secretaría de la Transparencia y Rendición de Cuentas, vigilará el proceso de entrega recepción extraordinaria.
+
+Término para la adecuación reglamentaria
+
+Artículo Décimo. El Gobernador del Estado expedirá los reglamentos necesarios para el cumplimiento de esta reforma, en un término que no exceda de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a la presente reforma, acorde a lo establecido en el artículo tercero transitorio del presente Decreto.
