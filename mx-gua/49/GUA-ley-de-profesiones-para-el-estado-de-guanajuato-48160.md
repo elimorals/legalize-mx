@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-profesiones-para-el-estado-de-guanajuato-48160"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-20"
-last_updated: "2013-06-07"
+last_updated: "2015-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48160&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE PROFESIONES PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Guanajuato, el martes 20 de diciembre de 2005.
 
@@ -247,7 +247,11 @@ IX. Rama profesional. Conocimientos especializados de una profesión, obtenidos 
 
 X. Secretaría. La Secretaría de Educación de Guanajuato, y
 
-XI. Título profesional. Documento expedido por autoridad competente o por instituciones educativas oficiales y particulares con autorización o reconocimiento de validez oficial de estudios en los términos de la Ley de la materia, en favor de la persona física que cumplió con los requisitos y lineamientos académico-administrativos previamente establecidos o que hayan sido acreditados mediante otro procedimiento previsto por las disposiciones jurídicas aplicables.
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+XI. SICES. La Secretaría de Innovación, Ciencia y Educación Superior, y
+
+XII. Título profesional. Documento expedido por autoridad competente o por instituciones educativas oficiales y particulares con autorización o reconocimiento de validez oficial de estudios en los términos de la Ley de la materia, en favor de la persona física que cumplió con los requisitos y lineamientos académico-administrativos previamente establecidos o que hayan sido acreditados mediante otro procedimiento previsto por las disposiciones jurídicas aplicables.
 
 ###### Artículo 6.
 
@@ -309,7 +313,7 @@ X. Emitir los lineamientos de actualización profesional;
 
 XI. Hacer del conocimiento del Ministerio Público los actos que puedan ser constitutivos de delitos en el ejercicio de una profesión o en la usurpación de la misma; y denunciar ante las autoridades competentes las violaciones a la presente Ley;
 
-XII. Diagnosticar la situación de oferta y demanda del ejercicio de las profesiones y de sus diversas ramas en el Estado;
+XII. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2015)
 
 XIII. Instaurar los procedimientos administrativos que se deriven de las infracciones previstas en esta Ley y demás disposiciones normativas que regulan el ejercicio profesional;
 
@@ -333,9 +337,11 @@ XXII. Las demás que se deriven de esta Ley, de su reglamento y de otras disposi
 
 El Titular del Poder Ejecutivo podrá convocar a los colegios municipales de profesionistas para implementar programas de asistencia social en beneficio de la colectividad.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 12.
 
-Las autoridades estatales y municipales y los particulares están obligados a proporcionar a la Secretaría los datos, informes y documentos que se les soliciten, en relación a la materia regulada por esta Ley.
+Las autoridades estatales y municipales y los particulares están obligados a proporcionar a la Secretaría y a la SICES, los datos, informes y documentos que se les soliciten, en relación a la materia regulada por esta ley.
 
 ### CAPÍTULO V. DE LOS DERECHOS Y OBLIGACIONES DE LOS PROFESIONISTAS Y USUARIOS DE SERVICIOS PROFESIONALES
 
@@ -373,7 +379,7 @@ El registro de títulos profesionales es de orden público. La Secretaría estab
 
 #### SECCIÓN SEGUNDA. DE LOS COLEGIOS ESTATALES POR PROFESIÓN
 
-###### Articulo 18.
+###### Artículo 18.
 
 Son derechos de los profesionistas en legal ejercicio en el Estado de Guanajuato:
 
@@ -553,7 +559,7 @@ Cuando alguna Ley atribuya funciones especiales a asociaciones de profesionistas
 
 El registro otorgado a los colegios municipales de profesionistas es intransferible y no negociable.
 
-###### Articulo 31.
+###### Artículo 31.
 
 Los colegios estatales por profesión son organismos no gubernamentales constituidos conforme a esta Ley, integrados por un representante de cada uno de los colegios municipales de profesionistas que cuenten con la representatividad a que se refiere el artículo 24.
 
@@ -617,9 +623,13 @@ I. Los presidentes de todos los colegios estatales por profesión, con voz y vot
 
 II. El Secretario de Educación del Estado, con voz y sin derecho a voto, y
 
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+III. El Secretario de Innovación, Ciencia y Educación Superior, con voz y sin derecho a voto; y
+
 > <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
-III. El Rector General de la Universidad de Guanajuato, con voz y sin derecho a voto.
+IV. El Rector General de la Universidad de Guanajuato, con voz y sin derecho a voto.
 
 El Consejo será presidido por uno de los presidentes de los colegios estatales por profesión y contará con un secretario técnico, quien será el titular de la Unidad Administrativa referida en el párrafo primero del artículo 11, el que tendrá derecho a voz pero no a voto en las reuniones del mismo.
 
@@ -639,7 +649,9 @@ b) Acciones para el fomento del ejercicio profesional;
 
 c) Proyectos en materia educativa y del ejercicio profesional;
 
-d) Actualizaciones a los planes y programas de estudio del tipo medio superior y superior a la Secretaría, con el objeto de mejorar la formación de los profesionistas que egresen de las instituciones educativas pertenecientes al Sistema Educativo Estatal;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+d) Actualizaciones a los planes y programas de estudio del tipo medio superior y superior a la Secretaría y a la SICES, respectivamente, con el objeto de mejorar la formación de los profesionistas que egresen de las instituciones educativas pertenecientes al sistema educativo estatal;
 
 e) Diagnósticos relativos a las necesidades de oferta y demanda educativa del tipo medio superior y superior en el Estado;
 
@@ -661,7 +673,7 @@ Las inconformidades a que se refiere el artículo 40 fracción III, deberán pre
 
 El Consejo de Profesionistas del Estado de Guanajuato, escuchando al colegio respectivo y desahogando las pruebas ofrecidas por las partes y aquellas que estime necesarias, resolverá las inconformidades planteadas.
 
-###### Articulo 42.
+###### Artículo 42.
 
 El funcionamiento del Consejo de Profesionistas del Estado de Guanajuato, se determinará en el reglamento de esta Ley, debiendo sesionar como mínimo tres veces al año.
 
@@ -675,9 +687,13 @@ Cada consejo técnico estará integrado por:
 
 I. Un representante de la Secretaría, designado por el Secretario de Educación del Estado, quien fungirá como presidente;
 
-II. Los presidentes de los colegios estatales por profesión, que pertenezcan al área del conocimiento de que se trate, y
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-III. Un representante de la Universidad de Guanajuato y de una universidad o institución de educación superior que ofrezca las carreras del área del conocimiento de que se trate.
+II. Un representante de la SICES, designado por el Secretario de Innovación, Ciencia y Educación Superior;
+
+III. Los presidentes de los colegios estatales por profesión, que pertenezcan al área del conocimiento de que se trate, y
+
+IV. Un representante de la Universidad de Guanajuato y de una universidad o institución de educación superior que ofrezca las carreras del área del conocimiento de que se trate.
 
 ###### Artículo 45.
 
@@ -1206,3 +1222,59 @@ P.O. 7 DE JUNIO DE 2013.
 Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 64, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE CREA EL SISTEMA DE INNOVACIÓN DEL ESTADO DE GUANAJUATO Y LA SECRETARÍA DE INNOVACIÓN, CIENCIA Y EDUCACIÓN SUPERIOR, REFORMANDO, ADICIONANDO Y DEROGANDO DISPOSICIONES DE VARIOS ORDENAMIENTOS LEGALES".]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia el uno de enero 2016, previa publicación en el Periódico Oficial de Gobierno del Estado.
+
+Creación de la Secretaría de Innovación, Ciencia y Educación Superior
+
+Artículo Segundo. El Gobernador del Estado contará con un plazo de hasta noventa días naturales contados a partir de la entrada en vigencia del presente decreto, para crear la Secretaría de Innovación, Ciencia y Educación Superior. Las Secretarías de Educación, de Desarrollo Económico Sustentable, y el Consejo de Ciencia y Tecnología del Estado de Guanajuato, continuarán ejerciendo las atribuciones en materia de educación superior, economía del conocimiento y de innovación, ciencia y tecnología, respectivamente, hasta el acto formal de entrega recepción.
+
+Transferencia de recursos
+
+Artículo Tercero. Las secretarías de Educación y de Desarrollo Económico Sustentable transferirán a la Secretaría de Innovación, Ciencia y Educación Superior, los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de las funciones que tuviere encomendadas en materia de educación superior, innovación y economía del conocimiento, a través de la entrega-recepción respectiva.
+
+El Consejo de Ciencia y Tecnología transferirá a la Secretaría de Innovación, Ciencia y Educación Superior, los asuntos jurídicos, administrativos, recursos humanos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo con el que se atiende la competencia en materia de ciencia, tecnología e innovación, a través de la entrega-recepción respectiva.
+
+El personal de ambas dependencias y del Concyteg, conforme a su estatus laboral pasará a integrar la nueva Secretaría de Innovación, Ciencia y Educación Superior, sin menoscabo de los derechos adquiridos de los trabajadores.
+
+Concyteg
+
+Artículo Cuarto. El Consejo de Ciencia y Tecnología del Estado de Guanajuato continuará ejerciendo sus labores de obtención de financiamiento y atracción de recursos para lo cual el Consejo Técnico de esa entidad continuará en funciones hasta en tanto la Secretaría de Innovación, Ciencia y Educación Superior inicie formalmente sus actividades de colaboración con instituciones de financiamiento y obtención de recursos; una vez lo cual, se extinguirá.
+
+El Ejecutivo del Estado, por conducto de la Secretaría de Innovación, Ciencia y Educación Superior, informará al Congreso del Estado, sobre la conclusión del proceso de extinción del Consejo de Ciencia y Tecnología del Estado de Guanajuato.
+
+Asunción de responsabilidades
+
+Artículo Quinto. La Secretaría de Innovación, Ciencia y Educación Superior sustituye en todas sus obligaciones y asume los compromisos adquiridos por la Secretaría de Educación en materia de educación superior, debiendo cumplir íntegramente con ellos a partir de su instauración.
+
+Igualmente, la Secretaría de Innovación, Ciencia y Educación Superior sustituye en todas sus obligaciones así como los compromisos adquiridos por el Consejo de Ciencia y Tecnología del Estado de Guanajuato, en materia de innovación, ciencia y tecnología, así como las obligaciones y compromisos adquiridos por la Secretaría de Desarrollo Económico Sustentable en materia de Economía del Conocimiento debiendo cumplir íntegramente con ellos a partir de su instauración.
+
+Para todos los efectos legales correspondientes, la Secretaría de Innovación, Ciencia y Educación Superior a que alude el presente Decreto, se entenderá referida al Consejo de Ciencia y Tecnología del Estado de Guanajuato, que se menciona en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto.
+
+Constitución del Sistema
+
+Artículo Sexto. El Ejecutivo del Estado, deberá constituir el Sistema de Innovación del Estado de Guanajuato, en un término de noventa días, contados a partir de (sic) del inicio de vigencia del presente Decreto.
+
+Resolución de asuntos en trámite
+
+Artículo Séptimo. Los asuntos que en materia de educación superior actualmente estén pendientes de resolver por parte de la Secretaría de Educación y cuyo trámite haya iniciado bajo la vigencia de las disposiciones de la Ley de Educación para el Estado de Guanajuato, que se reforman, adicionan o derogan mediante el presente Decreto, se seguirán tramitando con base en esas disposiciones, hasta su debida conclusión.
+
+Asignación de recursos
+
+Artículo Octavo. La Secretaría de Finanzas, Inversión y Administración definirá los procedimientos y mecanismos necesarios para la adecuada asignación de recursos a la Secretaría de Innovación, Ciencia y Educación Superior, para su correcta operación.
+
+En el caso de los recursos federales, la Secretaría de Finanzas, Inversión y Administración realizará las gestiones con las instancias correspondientes para los efectos de este artículo.
+
+Entrega-recepción
+
+Artículo Noveno. De conformidad a lo estipulado en el Reglamento de Entrega Recepción, la Secretaría de la Transparencia y Rendición de Cuentas, vigilará el proceso de entrega recepción extraordinaria.
+
+Término para la adecuación reglamentaria
+
+Artículo Décimo. El Gobernador del Estado expedirá los reglamentos necesarios para el cumplimiento de esta reforma, en un término que no exceda de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a la presente reforma, acorde a lo establecido en el artículo tercero transitorio del presente Decreto.
