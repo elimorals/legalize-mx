@@ -4,7 +4,7 @@ identifier: "GUA-ley-organica-del-poder-ejecutivo-para-el-estado-de-18976"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2000-12-15"
-last_updated: "2015-03-13"
+last_updated: "2015-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18976&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY ORGANICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE ENERO DE 2016 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL PODER EJECUTIVO PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de diciembre del año 2000.
 
@@ -83,13 +85,11 @@ IV.- Eje: La agrupación de las dependencias y entidades que estén sectorizadas
 
 V.- Coordinadora de Eje: La dependencia de la Administración Pública Estatal que regula en el Eje un conjunto de dependencias y sus entidades sectorizadas.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 5o.
 
-El Gobernador del Estado para auxiliarse en el desempeño de sus funciones, tendrá directamente adscritas las unidades de asesoría, de apoyo técnico y administrativo, y de coordinación para la conformación de estructuras organizacionales y de políticas públicas, así como en materia de tecnología de la información y de comunicación social. También podrá establecer oficinas de representación del Gobierno del Estado fuera del propio territorio, que determine de acuerdo a sus atribuciones; al presupuesto que se autorice y con apego a la Ley.
+El Gobernador del Estado para auxiliarse en el desempeño de sus funciones, tendrá directamente adscritas las unidades de asesoría, de apoyo técnico y administrativo, de acceso a la información, de archivos y de coordinación para la conformación de estructuras organizacionales y de políticas públicas, así como en materia de tecnología de la información y de comunicación social. También podrá establecer oficinas de representación del Gobierno del Estado fuera del propio territorio, que determine de acuerdo a sus atribuciones, al presupuesto que se autorice y con apego a la Ley.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -191,9 +191,13 @@ X.- La Secretaría de la Transparencia y Rendición de Cuentas;
 
 XI.- La Secretaría de Turismo; y
 
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+XII.- Secretaría de Innovación, Ciencia y Educación Superior; y
+
 > <small>(ADICIONADA [N. DE E. REUBICADA], P.O. 18 DE MAYO DE 2007)</small>
 
-XII.- La Procuraduría General de Justicia.
+XIII.- La Procuraduría General de Justicia.
 
 ###### Artículo 14.
 
@@ -567,9 +571,7 @@ b) Normar y coordinar los servicios de informática de la Administración Públi
 
 c) Establecer planes, programas y estrategias para coordinar las operaciones de la Administración Pública Estatal en materia de servicios de tecnología de información, desarrollando y manteniendo una infraestructura de informática que facilite la comunicación y operación eficiente de los sistemas y procesos; y
 
-> <small>(ADICIONADO, P.O. 13 DE MARZO DE 2015)</small>
-
-d) Administrar el Archivo General de (sic) Estado.
+d) (DEROGADO, P.O. 29 DE DICIEMBRE DE 2015)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -611,9 +613,9 @@ d) Elaborar la prospectiva de los requerimientos de la inversión estatal:
 
 e) Coordinar conjuntamente con la Secretaría de Salud, la elaboración y ejecución del Programa Estatal de Infraestructura en el área de salud;
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-f) Convenir con las Secretarías de Desarrollo Económico Sustentable, de Salud, de Desarrollo Agroalimentario y Rural, de Obra Pública y de Educación, estrategias, programas y proyectos de desarrollo y fortalecimiento a la planta productiva;
+f) Convenir con las Secretarías de Desarrollo Económico Sustentable, de Salud, de Desarrollo Agroalimentario y Rural, de Obra Pública y de Innovación, Ciencia y Educación Superior, estrategias, programas y proyectos de desarrollo y fortalecimiento a la planta productiva;
 
 g) Coordinar conjuntamente con la Secretaría de Obra Pública, la presupuestación de la obra pública del Gobierno del Estado, formulando sus estudios y proyectos;
 
@@ -627,13 +629,17 @@ i) Coadyuvar en los procesos de concertación de la propuesta de inversión regi
 
 IX.- Las demás que le señalen las leyes y reglamentos aplicables en la entidad o que le asigne legalmente el Gobernador del Estado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 25.
 
-La Secretaría de Educación es la dependencia encargada de garantizar el derecho a la educación, en los términos que consagra el Artículo 3º de la Constitución Política de los Estados Unidos Mexicanos y de promover la educación integral, de calidad, con valores, durante y para toda la vida, y le competen las siguientes atribuciones:
+La Secretaría de Educación es la dependencia encargada de garantizar el derecho a la educación básica y media superior, en los términos que consagra el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos y de promover la educación integral, de calidad, con valores, durante y para toda la vida, y le competen las siguientes atribuciones:
 
 I.- En materia de planeación educativa:
 
-a) Coordinar y vigilar la educación a cargo del Estado, los municipios y los particulares, en todos los tipos, niveles y modalidades, de conformidad con la legislación aplicable, los convenios de coordinación celebrados por el Poder Ejecutivo Estatal y las atribuciones que al mismo le transfiera la Federación, procurando que la misma reúna los requisitos de equidad, cobertura, calidad y pertinencia;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+a) Coordinar y vigilar la educación a cargo del Estado, los municipiosy (sic) los particulares, en los tipos básico y medio superior, y en las modalidades que les correspondan, de conformidad con la legislación aplicable, los convenios de coordinación celebrados por el Poder Ejecutivo Estatal y lasatribuciones (sic) que al mismo le transfiera la Federación, procurando que la misma reúna los requisitos de equidad, cobertura, calidad y pertinencia;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -651,13 +657,11 @@ a) Coordinar y supervisar con las Secretarías de Desarrollo Agroalimentario y R
 
 III.- En materia de investigación:
 
-a) Fomentar el desarrollo de las humanidades, ciencias sociales, naturales y exactas, así como incrementar la investigación básica y aplicada en todas ellas, por conducto de esta Secretaría o de los organismos que al efecto se constituyan;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+a) Fomentar el desarrollo de las humanidades, ciencias sociales, naturales y exactas, así como fomentar la vocación por la investigación por conducto de esta Secretaría o de los organismos que al efecto se constituyan;
 
-> <small>(REFORMADO, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
-
-b) Impulsar la formación de posgraduados e investigadores en las diferentes ramas del conocimiento, procurando su vinculación con las actividades de fomento al desarrollo del Estado;
+b) (DEROGADO, P.O. 29 DE DICIEMBRE DE 2015)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -669,7 +673,11 @@ IV.- En materia administrativa:
 
 a) Revalidar los estudios, diplomas, grados y títulos equivalentes a la enseñanza que se imparte en el Estado, en los términos de la Ley de la materia;
 
-b) Llevar el registro y control de los profesionistas que egresen del Sistema Educativo Estatal y organizar el servicio social respectivo en los niveles y modalidades competencia de esta Secretaría;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+b) Llevar el registro y control de los profesionistas que egresen del Sistema Educativo Estatal y organizar el servicio social respectivo en lostiposy (sic) modalidades que correspondan.
+
+Para este efecto y en lo que resulte aplicable en educación superior, se coordinará con la Secretaría de Innovación, Ciencia y Educación Superior; y
 
 c) Planear y supervisar el uso de bienes inmuebles e instalaciones destinadas a la educación, cultura, recreación y deporte;
 
@@ -715,7 +723,9 @@ h) (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2003)
 
 i) (DEROGADO, P.O. 21 DE NOVIEMBRE DE 2003)
 
-j) Promover y coordinar con las universidades e instituciones de educación media y superior o con los organismos que las agrupen legalmente, así como con la Secretaría de Educación, el servicio social para que se constituya como un detonador del desarrollo general;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+j) Promover y coordinar con las universidades e instituciones de educación media y superior o con los organismos que las agrupen legalmente, así como con las secretarías de Educación, y de Innovación, Ciencia y Educación Superior, el servicio social para que se constituya como un detonador del desarrollo general;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -877,11 +887,11 @@ o) Fomentar el mantenimiento y mejora de las fuentes de empleo, mediante capacit
 
 p) Promover la creación de organismos que se encarguen de difundir la cultura de calidad y competitividad de las empresas;
 
-> <small>(REFORMADO, P.O. 21 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-q) Convenir con las Secretarías de Finanzas, Inversión y Administración, Salud, Desarrollo Agroalimentario y Rural, Obra Pública y Educación, estrategias, programas y proyectos de desarrollo y fortalecimiento a la planta productiva;
+q) Convenir con las secretarías de Finanzas, Inversión y Administración, Salud, Desarrollo Agroalimentario y Rural, Obra Pública e Innovación, Ciencia y Educación Superior, estrategias, programas y proyectos de desarrollo y fortalecimiento a la planta productiva;
 
-r) Promover la vinculación del sector productivo con las instituciones educativas del nivel superior, en coordinación con la Secretaría de Educación;
+r) (DEROGADO, P.O. 29 DE DICIEMBRE DE 2015)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -947,7 +957,9 @@ VIII.- Promover el aumento de la producción y la productividad agropecuaria, a 
 
 IX.- Fomentar entre los productores agrícolas y ganaderos, así como con sus organizaciones y asociaciones gremiales, la utilización de nuevas técnicas, sistemas y procedimientos que mejoren la productividad, apoyando los programas de investigación y enseñanza agropecuaria, y proponiendo la creación de escuelas, campos experimentales y centros de enseñanza superior;
 
-X.- Coordinarse con las Secretarías de Educación y de Desarrollo Social y Humano, así como con las entidades competentes del Poder Ejecutivo del Estado y con las instituciones de enseñanza e investigación media y superior que cuenten con programas o proyectos en la materia, para el desempeño de las atribuciones señaladas en las dos fracciones anteriores;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+X.- Coordinarse con las Secretarías de Educación, delnnovación, (sic) Ciencia y Educación Superior, y de Desarrollo Social y Humano, así como con las entidades competentes del Poder Ejecutivo del Estado y con las instituciones de enseñanza e investigación media y superior que cuenten con programas o proyectos en la materia, para el desempeño de las atribuciones señaladas en las dos fracciones anteriores;
 
 XI.- Promover, coordinar y controlar los programas tendientes a la integración de actividades económicas en el medio rural que permitan la generación de empleos eventuales y permanentes y el desarrollo de la ocupación productiva, en coordinación con la Secretaría de Desarrollo Económico Sustentable;
 
@@ -1337,6 +1349,68 @@ XV.- Impulsar el desarrollo de la industria cinematográfica y promover al Estad
 
 XVI.- Las demás que le señalen las leyes y reglamentos aplicables en la Entidad o que le asigne legalmente el Gobernador del Estado.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 32 Ter.
+
+La Secretaría de Innovación, Ciencia y Educación Superior es la dependencia encargada de impulsar la superación a través de la planeación, programación, desarrollo, promoción y evaluación de la educación superior, la ciencia, tecnología e innovación y la vinculación de los sectores productivos con la ciencia y tecnología, observando la autonomía universitaria determinada por Ley y le competen las siguientes atribuciones:
+
+I.- En materia de ciencia, tecnología e innovación;
+
+a) Apoyar la investigación, científica y tecnológica en todas las áreas del conocimiento y cultura en el estado, mediante el impulso de proyectos en materia de ciencia, tecnología e innovación;
+
+b) Fomentar la colaboración internacional para fortalecer la capacidad científica y tecnológica del estado;
+
+c) Promover la vinculación efectiva entre las instituciones de enseñanza, investigación y desarrollo tecnológico con los sectores productivos y sociales, que permita la solución de problemas e incrementar su competitividad;
+
+d) Promover la participación de las Instituciones de Educación Superior, Centros de Investigación y sector productivo en conjunto con las dependencias y entidades de Gobierno del estado, en los procesos de toma de decisiones en materia de política científica, tecnológica y de innovación;
+
+e) Evaluar y actualizar permanentemente las políticas, estrategias y metas en materia de ciencia, tecnología e innovación;
+
+f) Fomentar el desarrollo tecnológico y la innovación en el Estado con el fin de incrementar el potencial y la capacidad productiva de los sectores empresarial, industrial y de desarrollo social en un entorno de sustentabilidad;
+
+g) Fomentar y apoyar los procesos de transferencia del conocimiento, que estimulen el desarrollo económico y social;
+
+h) Procurar y apoyar la cultura emprendedora con innovación a través de los organismos públicos y privados responsables de la realización de proyectos y programas que atiendan esta necesidad;
+
+i) Promover y apoyar la creación, atracción y desarrollo de empresas de base tecnológica y parques científicos, tecnológicos y de innovación en el estado;
+
+j) Apoyar la formación de recursos humanos de alto nivel académico para la investigación científica y tecnológica;
+
+k) Promover la atracción y permanencia de investigadores y tecnólogos, que permita incrementar la capacidad científica, tecnológica y de innovación en el Estado;
+
+l) Formular acciones tendientes a la difusión, la divulgación y la apropiación social de la ciencia, tecnología e innovación, en la economía y sociedad del conocimiento;
+
+m) Gestionar apoyos económicos y materiales ante las distintas instancias públicas y privadas, que le permitan apoyar de manera creciente las actividades de ciencia y tecnología e innovación;
+
+n) Asesorar al Poder Ejecutivo del Estado, a los municipios, a las dependencias del Gobierno Federal en el Estado, así como a las personas físicas o morales que lo soliciten sobre asuntos relacionados con la ciencia, la tecnología y la innovación; y
+
+o) Diagnosticar en conjunto con la Secretaría de Desarrollo Económico Sustentable el desarrollo e impulso de las vocaciones económicas de las diversas zonas económicas y los sectores económicos tradicionales y no tradicionales del Estado y su situación con respecto a las cadenas de valor y productivas y los sectores estratégicos de la Entidad.
+
+II.- En materia de educación superior:
+
+a) Conformar, coordinar y articular el Sistema de Educación Superior del Estado así como diseñar, planear y verificar el cumplimiento de la política, asegurando su cobertura con calidad y pertinencia;
+
+b) Impulsar la generación de mecanismos alternos de financiamiento en las instituciones de educación superior, así como promover su autogestión;
+
+c) Coordinar el sector de educación superior en la entidad;
+
+d) Coordinar acciones para la pertinencia de la oferta educativa del tipo superior, en colaboración con otras instancias, a fin de aprobarla y, en su caso, proponer su adecuación;
+
+e) Promover mecanismos tendientes a fomentar la investigación, desarrollo tecnológico, vinculación, innovación y extensión en las instituciones de educación superior que operen en el Estado, conforme a la misión y normativa de las instituciones;
+
+f) Fomentar a través de las instituciones educativas, las vocaciones científicas y tecnológicas;
+
+g) Establecer acciones y estrategias de coordinación con organismos públicos y privados para el desarrollo de la cultura emprendedora y la innovación en las instituciones de educación superior, así como fomentar el sistema estatal de innovación y el emprendimiento de base tecnológica;
+
+h) Administrar el Sistema Estatal de Información de la Educación Superior del estado de Guanajuato. Para este efecto, se coordinará con la Secretaría de Educación y las instituciones de educación superior que se ubican en la entidad;
+
+i) Fomentar la participación del sector productivo en la educación superior, mediante programas y proyectos que impulsen la práctica profesional, la pertinencia educativa y la innovación; y
+
+j) Impulsar la formación de posgraduados e investigadores en las diferentes ramas del conocimiento, procurando su vinculación con las actividades de fomento al desarrollo del Estado.
+
+III. Las demás que le señalen las leyes o que le asigne legalmente el Gobernador del Estado.
+
 ###### Artículo 33.
 
 La Procuraduría General de Justicia es la institución encargada de ejercitar las atribuciones conferidas al Ministerio Público por la Constitución Política de los Estados Unidos Mexicanos, representar el interés de la sociedad y garantizar el Estado de Derecho; asimismo, le competen las funciones que la Constitución Política del Estado de Guanajuato le otorga y las demás que le confieran las disposiciones jurídicas aplicables.
@@ -1481,11 +1555,9 @@ VI.- Autorizar la práctica de auditorías externas para vigilar la correcta apl
 
 VII.- Aprobar la suscripción de convenios;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 18 DE SEPTIEMBRE DE 2012)</small>
-
-VIII.- Autorizar actos y contratos en los términos de la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Sector Público en el Estado de Guanajuato;
+VIII.- Autorizar actos y contratos en los términos de la Ley de Contrataciones Públicas para el Estado de Guanajuato;
 
 IX.- Autorizar actos de dominio sobre su patrimonio inmobiliario, sujetándose a las disposiciones constitucionales; y
 
@@ -1927,7 +1999,7 @@ LO TENDRA ENTENDIDO EL CIUDADANO GOBERNADOR CONSTITUCIONAL DEL ESTADO Y DISPONDR
 
 Por lo tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
-Dado en la Residencia del Poder Ejecutivo del Estado en la Ciudad de Guanajuato, Capital a los 05 cinco días del mes de Diciembre del 2000 dos mil.
+Dado en la Residencia del Poder Ejecutivo del Estado en la Ciudad de Guanajuato, Capital a los 05 cinco días del mes de Diciembre 2000 dos mil.
 
 JUAN CARLOS ROMERO HICKS.
 
@@ -2044,3 +2116,59 @@ P.O. 13 DE MARZO DE 2015.
 Artículo Primero. El presente Decreto entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial de (sic) Gobierno del Estado.
 
 Artículo Segundo. Para dar cumplimiento al presente decreto, la Secretaría de Finanzas, Inversión y Administración efectuará los ajustes presupuestales para el traslado del Archivo General del Estado de la Secretaría de Gobierno a aquélla.
+
+P.O. 29 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 64, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE CREA EL SISTEMA DE INNOVACIÓN DEL ESTADO DE GUANAJUATO Y LA SECRETARÍA DE INNOVACIÓN, CIENCIA Y EDUCACIÓN SUPERIOR, REFORMANDO, ADICIONANDO Y DEROGANDO DISPOSICIONES DE VARIOS ORDENAMIENTOS LEGALES”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia el uno de enero (sic) 2016, previa publicación en el Periódico Oficial de (sic) Gobierno del Estado.
+
+Creación de la Secretaría de Innovación, Ciencia y Educación Superior
+
+Artículo Segundo. El Gobernador del Estado contará con un plazo de hasta noventa días naturales contados a partir de la entrada en vigencia del presente decreto, para crear la Secretaría de Innovación, Ciencia y Educación Superior. Las Secretarías de Educación, de Desarrollo Económico Sustentable, y el Consejo de Ciencia y Tecnología del Estado de Guanajuato, continuarán ejerciendo las atribuciones en materia de educación superior, economía del conocimiento y de innovación, ciencia y tecnología, respectivamente, hasta el acto formal de entrega recepción.
+
+Transferencia de recursos
+
+Artículo Tercero. Las secretarías de Educación y de Desarrollo Económico Sustentable transferirán a la Secretaría de Innovación, Ciencia y Educación Superior, los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de las funciones que tuviere encomendadas en materia de educación superior, innovación y economía del conocimiento, a través de la entrega-recepción respectiva.
+
+El Consejo de Ciencia y Tecnología transferirá a la Secretaría de Innovación, Ciencia y Educación Superior, los asuntos jurídicos, administrativos, recursos humanos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo con el que se atiende la competencia en materia de ciencia, tecnología e innovación, a través de la entrega-recepción respectiva.
+
+El personal de ambas dependencias y del Concyteg, conforme a su estatus laboral pasará a integrar la nueva Secretaría de Innovación, Ciencia y Educación Superior, sin menoscabo de los derechos adquiridos de los trabajadores.
+
+Concyteg
+
+Artículo Cuarto. El Consejo de Ciencia y Tecnología del Estado de Guanajuato continuará ejerciendo sus labores de obtención de financiamiento y atracción de recursos para lo cual el Consejo Técnico de esa entidad continuará en funciones hasta en tanto la Secretaría de Innovación, Ciencia y Educación Superior inicie formalmente sus actividades de colaboración con instituciones de financiamiento y obtención de recursos; una vez lo cual, se extinguirá.
+
+El Ejecutivo del Estado, por conducto de la Secretaría de Innovación, Ciencia y Educación Superior, informará al Congreso del Estado, sobre la conclusión del proceso de extinción del Consejo de Ciencia y Tecnología ael (sic) Estado de Guanajuato.
+
+Asunción de responsabilidades
+
+Artículo Quinto. La Secretaría de Innovación, Ciencia y Educación Superior sustituye en todas sus obligaciones y asume los compromisos adquiridos por la Secretaría de Educación en materia de educación superior, debiendo cumplir íntegramente con ellos a partir de su instauración.
+
+Igualmente, la Secretaría de Innovación, Ciencia y Educación Superior sustituye en todas sus obligaciones así como los compromisos adquiridos por el Consejo de Ciencia y Tecnología del Estado de Guanajuato, en materia de innovación, ciencia y tecnología, así como las obligaciones y compromisos adquiridos por la Secretaría de Desarrollo Económico Sustentable en materia de Economía del Conocimiento debiendo cumplir íntegramente con ellos a partir de su instauración.
+
+Para todos los efectos legales correspondientes, la Secretaría de Innovación, Ciencia y Educación Superior a que alude el presente Decreto, se entenderá referida al Consejo de Ciencia y Tecnología del Estado de Guanajuato, que se menciona en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto.
+
+Constitución del Sistema
+
+Artículo Sexto. El Ejecutivo del Estado, deberá constituir el Sistema de Innovación del Estado de Guanajuato, en un término de noventa días, contados a partir de (sic) del inicio de vigencia del presente Decreto.
+
+Resolución de asuntos en trámite
+
+Artículo Séptimo. Los asuntos que en materia de educación superior actualmente estén pendientes de resolver por parte de la Secretaría de Educación y cuyo trámite haya iniciado bajo la vigencia de las disposiciones de la Ley de Educación para el Estado de Guanajuato, que se reforman, adicionan o derogan mediante el presente Decreto, se seguirán tramitando con base en esas disposiciones, hasta su debida conclusión.
+
+Asignación de recursos
+
+Artículo Octavo. La Secretaría de Finanzas, Inversión y Administración definirá los procedimientos y mecanismos necesarios para la adecuada asignación de recursos a la Secretaría de Innovación, Ciencia y Educación Superior, para su correcta operación.
+
+En el caso de los recursos federales, la Secretaría de Finanzas, Inversión y Administración realizará las gestiones con las instancias correspondientes para los efectos de este artículo.
+
+Entrega-recepción
+
+Artículo Noveno. De conformidad a lo estipulado en el Reglamento de Entrega Recepción, la Secretaría de la Transparencia y Rendición de Cuentas, vigilará el proceso de entrega recepción extraordinaria.
+
+Término para la adecuación reglamentaria
+
+Artículo Décimo. El Gobernador del Estado expedirá los reglamentos necesarios para el cumplimiento de esta reforma, en un término que no exceda de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a la presente reforma, acorde a lo establecido en el artículo tercero transitorio del presente Decreto.
