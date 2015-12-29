@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-pemex-exploracion-y-produccion-108879"
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-07-03"
-last_updated: "2015-07-03"
+last_updated: "2015-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108879&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-06-26"
 
 ESTATUTO ORGÁNICO PEMEX EXPLORACIÓN Y PRODUCCIÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE DICIEMBRE DE 2015.
 
 Estatuto publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 3 de julio de 2015.
 
@@ -51,7 +51,9 @@ II. Administrar los pozos, campos y reservas descubiertas de hidrocarburos;
 
 III. Desarrollar campos de producción de hidrocarburos;
 
-IV. Administrar los servicios integrales de intervenciones a pozos y el suministro y logística de equipos, en el territorio nacional, en la zona económica exclusiva del país y en el extranjero;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+IV. Llevar a cabo la perforación, terminación y reparación de pozos, así como la ejecución y administración de los servicios integrales de intervenciones a pozos y el suministro y logística de equipos, en el territorio nacional, en la zona económica exclusiva del país y en el extranjero;
 
 V. Llevar a cabo servicios integrados de mantenimiento y aseguramiento de confiabilidad de ductos e instalaciones marinas y terrestres en territorio nacional, en la zona económica exclusiva del país y en el extranjero;
 
@@ -87,7 +89,9 @@ XIX. En general, realizar las operaciones relacionadas directa o indirectamente 
 
 Para los efectos del presente Estatuto, se entenderá por:
 
-I. Activos: A los Activos de Exploración Aguas Profundas, de Exploración Aguas Someras, de Exploración Áreas Terrestres, de Exploración No Convencional, de Producción Cantarell, de Producción Ku-Maloob-Zaap, de Producción Abkatun-Pol-Chuc, de Producción Litoral de Tabasco-Tsimin-Xux, de Producción Lakach-Kunah-Piklis, de Producción Ayatsil-Tekel-Utsil, de Producción Macuspana-Muspac, de Producción Samaria-Luna, de Producción Bellota-Jujo, de Producción Cinco Presidentes, de Producción Poza Rica-Altamira, de Producción de Aceite Veracruz, de Producción Aceite Terciario del Golfo, de Producción Tampico-Misantla, de Producción Burgos y de Producción de Gas Veracruz;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+I. Activos: A los Activos de Exploración Aguas Profundas, de Exploración Aguas Someras, de Exploración Áreas Terrestres, de Exploración No Convencional, de Producción Cantarell, de Producción Ku-Maloob-Zaap, de Producción Abkatun-Pol-Chuc, de Producción Litoral de Tabasco-Tsimin-Xux, de Producción Lakach-Kunah-Piklis, de Producción Ayatsil-Tekel-Utsil, de Producción Macuspana-Muspac, de Producción Samaria-Luna, de Producción Bellota-Jujo, de Producción Cinco Presidentes, de Producción Poza Rica-Altamira, de Producción Aceite Terciario del Golfo, de Producción Tampico-Misantla, de Producción Burgos y de Producción de Gas Veracruz;
 
 II. Activo de Exploración Aguas Profundas: Corresponde a las superficies otorgadas para llevar a cabo actividades de exploración, que se ubican en áreas marinas con batimetrías mayores a 500 metros;
 
@@ -99,7 +103,9 @@ V. Activo de Exploración Yacimientos No Convencionales: Corresponde a superfici
 
 VI. Activos de Producción Aguas Someras: Corresponde a los campos, otorgados para su explotación, ubicados en áreas marinas entre la línea de costa y la isobata de 500 metros, integrados por el Activo de Producción Cantarell, Activo de Producción Ku-Maloob-Zaap, Activo de Producción Abkatun-Pol-Chuc, Activo de Producción Litoral de Tabasco-Tsimin-Xux y Ayatsil-Tekel-Utsil;
 
-VII. Activos de Producción Áreas Terrestres: Corresponde a los campos otorgados para su explotación, ubicados en áreas terrestres, integrados por el Activo de Producción Macuspana-Muspac, Activo de Producción Samaria-Luna, Activo de Producción Bellota-Jujo, Activo de Producción Cinco Presidentes, Activo de Producción Poza Rica-Altamira y Activo de Producción de Aceite Veracruz;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+VII. Activos de Producción Áreas Terrestres: Corresponde a los campos otorgados para su explotación, ubicados en áreas terrestres, integrados por el Activo de Producción Macuspana-Muspac, Activo de Producción Samaria-Luna, Activo de Producción Bellota-Jujo, Activo de Producción Cinco Presidentes y Activo de Producción Poza Rica-Altamira;
 
 VIII. Activos de Producción Campos de Gas No Asociado: Corresponde a los campos otorgados para la explotación de yacimientos de gas no asociado, integrados por el Activo de Producción Burgos y Activo de Producción de Gas Veracruz;
 
@@ -107,11 +113,19 @@ IX. Activos de Producción Campos No Convencionales: Corresponde a los campos ot
 
 X. Acuerdo de Creación: El instrumento aprobado por el Consejo de Administración de Petróleos Mexicanos por virtud del cual se crea a la empresa productiva del Estado subsidiaria de Petróleos Mexicanos denominada Pemex Exploración y Producción;
 
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+X BIS. Administrador de Activo: Lo será el servidor público designado titular de cada uno de los Activos de Pemex Exploración y Producción, con nivel equivalente a Gerente;
+
 XI. Aplicaciones Informáticas Especializadas: Es aquel Software Técnico especializado que está disponible en el mercado, de aplicación exclusiva en las actividades sustantivas de Pemex Exploración y Producción;
 
-XII. Cadena de Valor: A las actividades de evaluación del potencial petrolero, de incorporación de reservas, de caracterización inicial y delimitación de yacimientos, de desarrollo de campos, de explotación de yacimientos y de distribución y comercialización de Hidrocarburos;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
 
-XIII. Comité de Dirección: Es el órgano colegiado integrado por el Coordinador Operativo, el Director de Desarrollo y Producción y el Director de Exploración, y será presidido por quien ocupe el cargo de Director Ejecutivo;
+XII. Cadena de Valor: A las actividades de evaluación del potencial petrolero, de incorporación de reservas, de caracterización inicial y delimitación de yacimientos, de desarrollo de campos, de explotación de yacimientos y de manejo y comercialización de Hidrocarburos;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+XIII. Comité de Dirección: Es el órgano colegiado integrado por el Director de Desarrollo y Producción, el Director de Recursos, Reservas y Asociaciones y el Director de Exploración, y será presidido por quien ocupe el cargo de Director Ejecutivo;
 
 XIV. Consejeros: Los designados con tal carácter, propietarios y suplentes, de conformidad con el Acuerdo de Creación;
 
@@ -119,9 +133,13 @@ XV. Consejo de Administración: El Consejo de Administración de Pemex Exploraci
 
 XVI. Cuenca: Receptáculo donde se deposita una columna sedimentaria que comparte, en varios niveles estratigráficos, una historia tectonoestratigráfica común y en donde pueden o no estar presentes los elementos y procesos de un sistema petrolero (roca generadora, almacenadora, sello, trampa, expulsión, migración y acumulación de Hidrocarburos);
 
-XVII. Director Ejecutivo: El servidor público que sea designado por el Consejo de Administración de Petróleos Mexicanos para presidir el Comité de Dirección, de entre el Coordinador Operativo, el Director de Desarrollo y Producción o el Director de Exploración;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
 
-XVIII. Directores: El Coordinador Operativo, el Director de Desarrollo y Producción y el Director de Exploración;
+XVII. Director Ejecutivo: El servidor público que sea designado por el Consejo de Administración de Petróleos Mexicanos para presidir el Comité de Dirección, de entre el Director de Desarrollo y Producción, el Director de Recursos, Reservas y Asociaciones o el Director de Exploración;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+XVIII. Directores: El Director de Desarrollo y Producción, el Director de Recursos, Reservas y Asociaciones y el Director de Exploración;
 
 XIX. Empresas Filiales: Aquellas en las que Pemex Exploración y Producción participa, directa o indirectamente, en más del cincuenta por ciento de su capital social, con independencia de que se constituyan conforme a la legislación mexicana o a la extranjera;
 
@@ -239,9 +257,13 @@ VI. Suscribir las actas de las sesiones, y
 
 VII. Las demás que le señalen las disposiciones aplicables y aquellas necesarias para el cumplimiento de las funciones del Consejo de Administración.
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 8.
 
-El Secretario y el Prosecretario serán designados por el Consejo de Administración a propuesta de su Presidente, y tendrán voz pero no voto en las sesiones del Consejo de Administración.
+El Consejo de Administración contará con un Secretario y un Prosecretario, quienes serán designados por el propio Consejo y asistirán a las sesiones con voz, pero sin voto. La propuesta de designación del Secretario corresponderá al Presidente y la del Prosecretario al Comité de Dirección.
+
+El Secretario será suplido en sus ausencias por el Prosecretario.
 
 ###### Artículo 9.
 
@@ -263,9 +285,11 @@ VII. Suscribir los acuerdos del Consejo de Administración;
 
 VIII. Hacer del conocimiento del Comité de Dirección los acuerdos adoptados por el Consejo de Administración, así como darles seguimiento e integrar el informe correspondiente en las sesiones, con base en el reporte proporcionado por Pemex Exploración y Producción;
 
-IX. Ordenar la protocolización de las actas y acuerdos que, en su caso, lo requieran, así como la publicación en el Diario Oficial de la Federación de aquellos asuntos que resulten conducentes;
+IX. (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 2015)
 
-X. Expedir constancias y certificaciones de acuerdos y actas, así como de cualquier documento que obre en el archivo de la Secretaría del Consejo, y
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+X. Expedir constancias y certificaciones de acuerdos y actas, así como de cualquier documento que obre en el archivo de la Secretaría del Consejo de Administración, y
 
 XI. Las demás que expresamente el Consejo de Administración o el Presidente le señalen, así como aquellas que se requieran para el adecuado desarrollo de las sesiones o las que sean necesarias para el ejercicio de las funciones anteriores y las que se prevean en las disposiciones jurídicas aplicables.
 
@@ -273,7 +297,7 @@ XI. Las demás que expresamente el Consejo de Administración o el Presidente le
 
 Le corresponderán al Prosecretario las funciones siguientes:
 
-I. Suplir al Secretario en sus ausencias, en el ejercicio de sus funciones;
+I. (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 2015)
 
 II. Integrar el orden del día de las sesiones, así como la información necesaria para convocar y llevar a cabo el desarrollo de las mismas;
 
@@ -281,11 +305,23 @@ III. Administrar, resguardar y digitalizar el archivo del Consejo de Administrac
 
 IV. Elaborar los proyectos de actas de las sesiones y, una vez aprobadas y firmadas, asentarlas en los libros respectivos;
 
-V. Expedir constancias y certificaciones de acuerdos y actas, así como de cualquier documento que obre en el archivo de la Secretaría del Consejo;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+V. Expedir constancias y certificaciones de acuerdos y actas, así como de cualquier documento que obre en el archivo de la Secretaría del Consejo de Administración;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+V BIS. Difundir en Pemex Exploración y Producción los acuerdos adoptados por el Consejo de Administración, así como darles seguimiento y rendir el informe correspondiente en las sesiones;
 
 VI. Integrar, registrar y clasificar la información que genere u obtenga el Consejo de Administración, en términos de las disposiciones aplicables y considerando las medidas que al respecto adopte el Consejo de Administración de Pemex;
 
-VII. Apoyar en la administración del Portal del Consejo, en la sección correspondiente a Pemex Exploración y Producción;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+VII. Apoyar en la administración del Portal del Consejo de Administración, en relación con la sección correspondiente a Pemex Exploración y Producción;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+VII BIS. Ordenar la protocolización de las actas y acuerdos que, en su caso, lo requieran, así como la publicación en el Diario Oficial de la Federación de aquellos asuntos que resulten conducentes;
 
 VIII. Solicitar la difusión de las actas y acuerdos del Consejo de Administración en la página de Internet de Pemex;
 
@@ -307,43 +343,67 @@ El acceso al Portal del Consejo se otorgará exclusivamente a los Consejeros, in
 
 El Consejo de Administración sesionará en forma ordinaria trimestralmente, de conformidad con el calendario que se acuerde en la última sesión ordinaria del ejercicio inmediato anterior.
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 14.
 
-Cuando la urgencia o importancia de algún asunto lo requiera, el Presidente por sí, o a petición del Comité de Dirección o de cuando menos dos Consejeros, podrá instruir al Secretario para que convoque a una sesión extraordinaria.
+Cuando la urgencia o importancia de algún asunto lo requiera, el Presidente por propia iniciativa, o a petición del Comité de Dirección o cuando menos dos Consejeros, podrán instruir al Secretario para que convoque a una sesión extraordinaria.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 15.
 
-Las sesiones deberán convocarse con una anticipación que no podrá ser menor a siete días hábiles de la fecha de la sesión para las sesiones ordinarias y dos días hábiles para las sesiones extraordinarias.
+Las sesiones deberán convocarse con una anticipación que no podrá ser menor a siete días hábiles de la fecha de la sesión para las sesiones ordinarias y de cuatro días hábiles para las extraordinarias.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 16.
 
 La convocatoria, así como la documentación correspondiente, será enviada a los Consejeros e invitados vía electrónica, o a través del Portal del Consejo o por escrito y deberá indicar la fecha, hora y lugar para la celebración de la sesión.
 
+El proyecto del orden del día deberá circularse entre los Consejeros, con dos días hábiles de anticipación a la emisión de la convocatoria, a efecto de que puedan realizar comentarios y sugerencias.
+
 Las convocatorias a sesiones ordinarias se deberán acompañar de la siguiente información:
 
 I. El proyecto de orden del día;
 
-II. La documentación soporte de los asuntos incorporados en el orden del día.
+II. La documentación soporte de los asuntos incorporados en el orden del día, la cual deberá ser puntual y considerar solamente los elementos indispensables para la toma de decisiones;
 
-En caso de que exista información relacionada con temas del orden del día de una sesión, que se haya generado u obtenido con posterioridad a la fecha de la convocatoria, la misma se podrá hacer llegar a los Consejeros e invitados con una anticipación no menor a dos días hábiles al día de la sesión, en caso de sesiones ordinarias, y un día hábil para sesiones extraordinarias;
+La documentación soporte deberá incluir los acuerdos de aprobación u opinión, según corresponda, de las instancias previas necesarias, conforme a la normatividad aplicable;
+
+En caso de que se genere información superveniente relacionada con temas del orden del día de una sesión, distinta a las autorizaciones a que se refiere el párrafo anterior, la misma se podrá hacer llegar a los Consejeros con una anticipación no menor a dos días hábiles al día de la sesión, en caso de sesiones ordinarias, y de un día hábil, para sesiones extraordinarias;
 
 III. Las propuestas de acuerdo para cada asunto del orden del día;
 
-IV. El informe sobre el seguimiento en la atención de los acuerdos adoptados por el propio Consejo de Administración, y
+IV. El informe sobre el seguimiento en la atención de los acuerdos adoptados por el Consejo de Administración, que contendrá:
+
+a) Las acciones a seguir, incluyendo un apartado especial para los compromisos adoptados por la Administración en cada sesión del Consejo de Administración;
+
+b) El responsable dentro de la Administración a nivel de Director Corporativo o Comité de Dirección de la Empresa Productiva Subsidiaria o Director General de la empresa filial;
+
+c) Fecha tentativa para su cumplimiento, y
+
+d) El avance del mismo.
 
 V. El proyecto de acta de la sesión anterior.
 
 Las convocatorias para sesiones extraordinarias deberán acompañarse de la información señalada en las fracciones I, II y III anteriores.
 
+Tratándose de nombramientos de directivos de Pemex Exploración y Producción que ocupen cargos en la jerarquía inmediata inferior a los Directores, se deberá enviar la información referente a las personas propuestas, conforme a las disposiciones que en la materia determine el Consejo de Administración de Petróleos Mexicanos, al mismo tiempo en que se envíe la convocatoria con la finalidad de que pueda analizarse con la debida anticipación.
+
+Sólo se incorporarán en el orden del día los asuntos que cuenten con las aprobaciones u opiniones de las instancias previas, conforme a la normatividad aplicable.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 17.
 
-Para la inclusión de un tema en el orden del día de una sesión, el enlace de Pemex Exploración y Producción que sea designado por el Director Ejecutivo deberá hacer la solicitud al Secretario, acompañándola con la nota y la documentación soporte en un plazo no menor a diez días hábiles antes de las sesiones ordinarias y tres días hábiles para extraordinarias.
+Para la inclusión de un tema en el orden del día de una sesión, el enlace de Pemex Exploración y Producción que sea designado por el Director Ejecutivo deberá hacer la solicitud al Secretario, acompañándola con la documentación soporte en un plazo no menor a diez días hábiles antes de las sesiones ordinarias y cinco días hábiles para extraordinarias.
 
-Las notas de los asuntos del orden del día y su documentación soporte, deberán cumplir con lo siguiente:
+Las notas de los asuntos del orden del día, deberán cumplir con lo siguiente:
 
 I. Estar suscritas por los responsables de su contenido y elaboración, y
 
-II. En su caso, estar clasificadas de conformidad con lo dispuesto en la legislación en materia de transparencia y acceso a la información pública y demás disposiciones aplicables.
+II. En su caso, estar clasificadas de conformidad con lo dispuesto en la legislación en materia de transparencia y demás normativa aplicable. En la clasificación respectiva, se deberá distinguir la información contenida en el documento relativo a la propuesta, así como el contenido del acuerdo propuesto, para efectos de su expedición.
 
 No podrá incorporarse un asunto al orden del día de la sesión, si no se cumple con los requisitos anteriores.
 
@@ -351,25 +411,31 @@ No podrá incorporarse un asunto al orden del día de la sesión, si no se cumpl
 
 En caso de que una sesión convocada no pueda celebrarse en la fecha programada o sea suspendida, ésta podrá celebrarse o reanudarse en cualquier momento, sin que para ello tenga que mediar nueva convocatoria, siendo suficiente con el aviso que el Secretario haga a los Consejeros, con una anticipación de al menos veinticuatro horas.
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 19.
 
-Las sesiones se celebrarán en el domicilio legal de Pemex Exploración y Producción, sin perjuicio de que, a juicio del Presidente, puedan celebrarse en otro domicilio, el cual deberá quedar establecido en la convocatoria correspondiente.
+Las sesiones del Consejo de Administración se celebrarán en el domicilio legal de Pemex Exploración y Producción, sin perjuicio de que, a juicio del Presidente, puedan celebrarse en otro domicilio, el cual deberá quedar establecido en la convocatoria correspondiente.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 20.
 
-Las sesiones del Consejo de Administración se celebrarán a puerta cerrada y a las mismas asistirán los Consejeros, el Secretario, el Prosecretario, los invitados permanentes, así como los invitados y el personal de apoyo necesario para su desarrollo.
+Las sesiones del Consejo de Administración se celebrarán a puerta cerrada y a las mismas asistirán los Consejeros, el Secretario, el Prosecretario, los invitados permanentes, así como el personal de apoyo necesario para el desarrollo de las mismas.
 
 El Auditor Externo será invitado cuando el Presidente así lo determine.
 
-Los miembros del Comité de Dirección podrán ser asistidos en las sesiones del Consejo de Administración por directivos de Pemex Exploración y Producción, cuando la naturaleza del asunto así lo requiera.
+Los miembros del Comité de Dirección podrán ser asistidos en las sesiones del Consejo de Administración por directivos de Pemex Exploración y Producción, cuando la naturaleza del asunto así lo requiera, quienes deberán abandonar la sesión al concluir su intervención.
 
 También podrán asistir a las sesiones con el carácter de invitados, aquellas personas que autorice el Presidente por sí o a propuesta del Comité de Dirección.
 
 No podrán asistir a las sesiones personas distintas a las señaladas en los párrafos anteriores.
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 21.
 
-Para la validez de las sesiones, se requerirá como mínimo la asistencia de la mitad más uno de los Consejeros. Dicho quórum se declarará al inicio de la sesión y se deberá mantener en la misma.
+Para la validez de las sesiones, se requerirá como mínimo la asistencia de la mitad más uno de los Consejeros. Dicho quórum se declarará al inicio de la sesión y se deberá mantener durante la misma.
 
 Los Consejeros podrán participar en las sesiones del Consejo de Administración por medios remotos de comunicación audiovisual, lo cual deberá ser informado por el Secretario al Consejo de Administración al momento de verificar el quórum, y se deberá hacer constar en el acta respectiva.
 
@@ -377,9 +443,17 @@ Los Consejeros podrán participar en las sesiones del Consejo de Administración
 
 En cada sesión se deberán recabar las firmas de los Consejeros e invitados que asistan de manera presencial. Asimismo, en el caso de asistencia por medios remotos de comunicación audiovisual, el Secretario deberá recabar posteriormente las firmas respectivas, haciendo constar en cada caso en el acta correspondiente, el medio a través del cual se llevó a cabo su participación en la sesión de que se trate.
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 23.
 
-En las sesiones ordinarias se tratarán los asuntos que hayan sido incorporados en el orden del día notificado con la convocatoria y sólo en casos urgentes o trascendentes, a petición del Presidente, de algún Consejero o del Comité de Dirección, el Consejo de Administración podrá autorizar la inclusión en el orden del día de un asunto para que se someta a su consideración el mismo día de la sesión, en el apartado que corresponda, según su naturaleza.
+En las sesiones se tratarán los asuntos que hayan sido incorporados en el orden del día notificado con la convocatoria y, sólo en casos urgentes o trascendentes, a petición del Presidente, de algún Consejero o del Comité de Dirección, el Consejo de Administración podrá autorizar la inclusión en el orden del día de un asunto para que se someta a su consideración el mismo día de la sesión, en el apartado que corresponda, según su naturaleza.
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+Artículo 23 BIS. En las sesiones ordinarias, el Comité de Dirección deberá presentar la situación financiera de Pemex Exploración y Producción, así como el desempeño de las proyecciones de flujo, para conocimiento del Consejo de Administración.
+
+Para el caso de los Estados Financieros de Pemex Exploración y Producción, estos deberán ser entregados a los Consejeros antes de que se hagan públicos y presentarse comparados con el presupuesto a cada trimestre, revelando información por segmentos.
 
 ###### Artículo 24.
 
@@ -407,45 +481,59 @@ Cada acta será sometida a consideración del Consejo de Administración en la s
 
 Una vez firmadas, las actas deberán incorporarse a la página de Internet de Pemex y en el Portal del Consejo.
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 29.
 
-Para efectos de la difusión de acuerdos y actas del Consejo de Administración, se observará lo dispuesto en la legislación en materia de transparencia y acceso a la información pública y demás disposiciones aplicables.
+Para efectos de la difusión de acuerdos y actas del Consejo de Administración, se observará lo dispuesto en la legislación y demás disposiciones aplicables en materia de transparencia.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 30.
 
 La clasificación de los acuerdos y actas se llevará a cabo de conformidad con la información remitida por las áreas responsables de la elaboración de los documentos presentados al Consejo de Administración.
 
-En caso de clasificación de acuerdos o actas del Consejo de Administración, corresponderá al Secretario la elaboración de la versión pública respectiva, de conformidad con la normativa aplicable.
+En caso de clasificación de acuerdos o actas del Consejo de Administración, corresponderá al Prosecretario la elaboración de la versión pública respectiva, de conformidad con la normativa aplicable.
 
 ###### Artículo 31.
 
 Las solicitudes de información a que se refiere el artículo 13 del Acuerdo de Creación, podrán realizarse por escrito, o bien, a través de cualquier medio de comunicación electrónica, incluyendo el Portal del Consejo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 32.
 
-La solicitud a que se refiere el artículo anterior deberá contener:
+Las solicitudes a que se refiere el artículo anterior deberán contener:
 
 I. Datos de identificación de la información solicitada, incluyendo fuente, fecha y cualquier dato que facilite su localización o integración;
 
-II. Área de Pemex Exploración y Producción o de Pemex que a su juicio pueda contar con la información requerida, y
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+II. Área de Pemex Exploración y Producción o de Pemex que, a juicio del Consejero, pueda contar con la información requerida, y
 
 III. Tema general con el cual se encuentre relacionada la información.
 
 La información o documentación solicitada se deberá poner a disposición del Consejero que la requirió, en un plazo no mayor a diez días hábiles contados a partir de la recepción de la solicitud.
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 33.
 
-Los Consejeros, Secretario, Prosecretario y los invitados del Consejo de Administración, estarán obligados a guardar la confidencialidad sobre la información expuesta en la sesión, así como a no revelarla; debiendo custodiar y cuidar la documentación e información que, por razón de su participación en el Consejo de Administración, tengan conocimiento o que esté bajo su responsabilidad o resguardo, así como impedir y evitar su uso, sustracción, destrucción, ocultamiento, utilización, reproducción o difusión no autorizada por dicho órgano de gobierno.
+Los Consejeros, Secretario, Prosecretario y los invitados del Consejo de Administración, estarán obligados a guardar la confidencialidad, así como a no revelar, custodiar y cuidar la documentación e información de la que, por razón de su participación en el Consejo de Administración, tengan conocimiento o que esté bajo su responsabilidad, así como impedir y evitar su uso, sustracción, destrucción, ocultamiento o utilización indebidos.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 34.
 
-Las situaciones no previstas en el presente capítulo que se refieran a la operación del Consejo de Administración, podrán ser resueltas por el propio Consejo de Administración, escuchando la opinión de la Dirección Jurídica de Pemex.
+La interpretación de las reglas corresponderá al Consejo de Administración, escuchando la opinión del área jurídica de Pemex.
 
 ## TÍTULO TERCERO. DE LOS DIRECTIVOS Y PERSONAL DE PEMEX EXPLORACIÓN Y PRODUCCIÓN
 
 ### CAPÍTULO PRIMERO. DEL COMITÉ DE DIRECCIÓN, DEL COORDINADOR OPERATIVO Y DE LOS DIRECTORES DE DESARROLLO Y PRODUCCIÓN Y DE EXPLORACIÓN Y DEL DIRECTOR EJECUTIVO
 
-### CAPÍTULO SEGUNDO. DE LOS SUBDIRECTORES Y GERENTES
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO PRIMERO. DEL COMITÉ DE DIRECCIÓN, DEL DIRECTOR EJECUTIVO Y DE LOS DIRECTORES DE DESARROLLO Y PRODUCCIÓN, DE RECURSOS, RESERVAS Y ASOCIACIONES Y DE EXPLORACIÓN
 
 ###### Artículo 35.
 
@@ -519,15 +607,17 @@ Son indelegables las funciones señaladas en las fracciones I, III, V, VI, IX, X
 
 Para el funcionamiento coordinado de las Empresas Productivas Subsidiarias de Pemex previsto en el Acuerdo de Creación, el Comité de Dirección deberá atender las instrucciones que reciba del Director General de Pemex directamente o a través de las direcciones corporativas, conforme a sus respectivas funciones, para la ejecución y supervisión de las estrategias, políticas, lineamientos y acuerdos aprobados por el Consejo de Administración de Pemex.
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 37.
 
-El Comité de Dirección se auxiliará de las áreas adscritas a la Coordinación Operativa y Direcciones, en el ámbito de sus respectivas funciones, en las subdirecciones, gerencias y demás áreas de Pemex Exploración y Producción, así como del personal adscrito a éstas.
+El Comité de Dirección se auxiliará de las áreas adscritas a las Direcciones de Desarrollo y Producción, de Recursos, Reservas y Asociaciones y de Exploración, en el ámbito de sus respectivas funciones, en las subdirecciones, gerencias y demás áreas de Pemex Exploración y Producción, así como del personal adscrito a éstas.
 
 ###### Artículo 38.
 
 El informe anual que rinda el Comité de Dirección al Consejo de Administración, en términos de la fracción XXI, del artículo 15, del Acuerdo de Creación, deberá formularse conforme a la alineación que exista con las distintas áreas de Pemex, incorporando un apartado que permita conocer la contabilidad separada de los servicios comunes prestados por Pemex, así como del sistema de pensiones.
 
-#### SECCIÓN PRIMERA. DEL COMITÉ DE DIRECCIÓN
+#### SECCIÓN SEGUNDA. DEL DIRECTOR EJECUTIVO
 
 ###### Artículo 39.
 
@@ -537,13 +627,19 @@ El Director Ejecutivo fungirá como representante del Comité de Dirección y ej
 
 El Director Ejecutivo, en adición a las facultades establecidas en los artículos 12, último párrafo, 13, 15, segundo y tercer párrafos, 16, tercer párrafo y 17 del Acuerdo de Creación, tendrá la representación de Pemex Exploración y Producción, para lo cual gozará de las más amplias facultades para pleitos y cobranzas, actos de administración y actos de dominio, en términos de los tres primeros párrafos del artículo 2554 del Código Civil Federal, y sus correlativos en los Códigos Civiles de las entidades federativas, incluso las que requieran autorización, poder o cláusula especial en términos del artículo 2587 del Código Civil citado, por lo que podrá en forma enunciativa más no limitativa desistirse, transigir, comprometer en árbitros, absolver y articular posiciones, hacer cesión de bienes, recusar, recibir pagos, realizar los demás actos que expresamente determine la ley, incluyendo la facultad para formular querellas en casos de delitos que sólo se pueden perseguir a petición de parte afectada; para otorgar el perdón; para ejercitar y desistirse de acciones judiciales y administrativas, inclusive en el juicio de amparo. Asimismo, contará con la representación legal y patronal en términos de los artículos 11, 692, 786 y 876, de la Ley Federal del Trabajo. Igualmente estará facultado; para emitir, avalar, suscribir, endosar, librar y negociar títulos de crédito en términos de la Ley General de Títulos y Operaciones de Crédito; asimismo tendrá la naturaleza de encargado de la defensa jurídica de Pemex Exploración y Producción para efectos del artículo 5 de la Ley Federal de Procedimiento Contencioso Administrativo y demás ordenamientos aplicables; así como para otorgar y revocar toda clase de poderes generales o especiales.
 
-#### SECCIÓN SEGUNDA. DEL DIRECTOR EJECUTIVO
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN TERCERA. DE LOS DIRECTORES DE DESARROLLO Y PRODUCCIÓN, DE RECURSOS, RESERVAS Y ASOCIACIONES Y DE EXPLORACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 40.
 
-Los Directores tendrán, en el ámbito de competencia de su respectiva Coordinación o Dirección, las funciones siguientes:
+Los Directores tendrán, en el ámbito de competencia de su respectiva Dirección, las funciones siguientes:
 
-I. Representar a Pemex Exploración y Producción, en los asuntos relacionados con su Coordinación Operativa o su Dirección, así como en aquellas responsabilidades o funciones que le asigne o delegue expresamente el Comité de Dirección, para lo cual gozarán, conjunta o separadamente, de las más amplias facultades para pleitos y cobranzas, actos de administración y actos de dominio, en términos de los tres primeros párrafos del artículo 2554 del Código Civil Federal, y sus correlativos en los Códigos Civiles de las entidades federativas, incluso las que requieran autorización, poder o cláusula especial en términos del artículo 2587 del Código Civil citado, por lo que podrán en forma enunciativa más no limitativa desistirse, transigir, comprometer en árbitros, absolver y articular posiciones, hacer cesión de bienes, recusar, recibir pagos, realizar los demás actos que expresamente determine la ley, incluyendo la facultad para formular querellas en casos de delitos que sólo se pueden perseguir a petición de parte afectada; para otorgar el perdón; para ejercitar y desistirse de acciones judiciales y administrativas, inclusive en el juicio de amparo. Asimismo, contarán con la representación legal y patronal en términos de los artículos 11, 692, 786 y 876, de la Ley Federal del Trabajo. Igualmente estarán facultados para emitir, avalar, suscribir, endosar, librar y negociar títulos de crédito en términos de la Ley General de Títulos y Operaciones de Crédito; asimismo tendrán la naturaleza de encargados de la defensa jurídica de Pemex Exploración y Producción para efectos del artículo 5 de la Ley Federal de Procedimiento Contencioso Administrativo y demás ordenamientos aplicables; así como para otorgar y revocar toda clase de poderes generales o especiales;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+I. Representar a Pemex Exploración y Producción, en los asuntos relacionados con su Dirección, así como en aquellas responsabilidades o funciones que le asigne o delegue expresamente el Comité de Dirección, para lo cual gozarán, conjunta o separadamente, de las más amplias facultades para pleitos y cobranzas, actos de administración y actos de dominio, en términos de los tres primeros párrafos del artículo 2554 del Código Civil Federal, y sus correlativos en los Códigos Civiles de las entidades federativas, incluso las que requieran autorización, poder o cláusula especial en términos del artículo 2587 del Código Civil citado, por lo que podrán en forma enunciativa más no limitativa desistirse, transigir, comprometer en árbitros, absolver y articular posiciones, hacer cesión de bienes, recusar, recibir pagos, realizar los demás actos que expresamente determine la ley, incluyendo la facultad para formular querellas en casos de delitos que sólo se pueden perseguir a petición de parte afectada; para otorgar el perdón; para ejercitar y desistirse de acciones judiciales y administrativas, inclusive en el juicio de amparo. Asimismo, contarán con la representación legal y patronal en términos de los artículos 11, 692, 786 y 876, de la Ley Federal del Trabajo. Igualmente estarán facultados para emitir, avalar, suscribir, endosar, librar y negociar títulos de crédito en términos de la Ley General de Títulos y Operaciones de Crédito; asimismo tendrán la naturaleza de encargados de la defensa jurídica de Pemex Exploración y Producción para efectos del artículo 5 de la Ley Federal de Procedimiento Contencioso Administrativo y demás ordenamientos aplicables; así como para otorgar y revocar toda clase de poderes generales o especiales;
 
 II. Supervisar la implementación de los planes y programas de las estrategias y directrices establecidas por Pemex en materia de Planeación Estratégica Institucional y operativa, seguridad industrial, salud en el trabajo y protección ambiental, disciplina y confiabilidad operacional, gestión de mantenimiento, integridad de infraestructura y mejora del desempeño operativo;
 
@@ -565,7 +661,9 @@ X. Dirigir la implementación de los mecanismos de coordinación, control, entre
 
 XI. Coadyuvar en la implementación del Sistema de Control Interno, promover el fortalecimiento de la cultura de control, así como contribuir a la efectividad de los controles internos institucionales;
 
-XII. Dirigir al interior de su Coordinación Operativa o Dirección, la ejecución de los acuerdos adoptados por las Estructuras de Gobierno para la Mejora de Procesos;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+XII. Dirigir al interior de su Dirección, la ejecución de los acuerdos adoptados por las Estructuras de Gobierno para la Mejora de Procesos;
 
 XIII. Liderar los procesos de negocio que le sean asignados, e informar su desempeño al Comité Ejecutivo de Pemex;
 
@@ -587,7 +685,9 @@ XXI. Coordinar la integración de la información necesaria para la elaboración
 
 XXII. Revisar, proponer y suscribir los documentos que contengan la información que se someterá a la consideración del Consejo de Administración, así como atender los requerimientos de información de dicho órgano de gobierno, por conducto del Comité de Dirección;
 
-XXIII. Supervisar la atención de los requerimientos de programación y de presupuesto de la Coordinación Operativa o de la Dirección a su cargo y de las áreas adscritas a éstas, conforme a las disposiciones que para este efecto emita Pemex;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+XXIII. Supervisar la atención de los requerimientos de programación y de presupuesto de la Dirección a su cargo y de las áreas adscritas a éstas, conforme a las disposiciones que para este efecto emita Pemex;
 
 XXIV. Coordinar con las áreas competentes de Pemex, las gestiones de los recursos humanos, materiales, financieros, Tecnología de Información, Procura y Abastecimiento, infraestructura y demás apoyo administrativo;
 
@@ -597,7 +697,9 @@ XXVI. Administrar el patrimonio de Pemex Exploración y Producción y disponer d
 
 XXVII. Participar en los procedimientos de selección y evaluación del desempeño de los subdirectores y gerentes de Pemex Exploración y Producción, con base en lo aprobado por el Consejo de Administración de Pemex y en coordinación con la Dirección Corporativa de Recursos Humanos;
 
-XXVIII. Nombrar a los gerentes;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+XXVIII. Nombrar a los gerentes y Administradores de Activos, según corresponda;
 
 XXIX. Validar las propuestas de requerimientos para la elaboración del programa de capacitación, en coordinación con la Dirección Corporativa de Recursos Humanos, así como dar seguimiento a su implementación;
 
@@ -653,9 +755,9 @@ Son indelegables las funciones señaladas en las fracciones II, III, V, VI, VII,
 
 Los Directores solicitarán a la Dirección Jurídica de Pemex el otorgamiento y revocación de poderes generales o especiales.
 
-### CAPÍTULO TERCERO. DEL PERSONAL DE PEMEX EXPLORACIÓN Y PRODUCCIÓN
+### CAPÍTULO SEGUNDO. DE LOS SUBDIRECTORES Y GERENTES
 
-#### SECCIÓN TERCERA. DEL COORDINADOR OPERATIVO Y DE LOS DIRECTORES DE DESARROLLO Y PRODUCCIÓN Y DE EXPLORACIÓN
+#### SECCIÓN PRIMERA. DE LOS SUBDIRECTORES
 
 ###### Artículo 42.
 
@@ -763,11 +865,15 @@ Son indelegables las funciones señaladas en las fracciones II, III, V, VI, VII,
 
 Para la realización de sus actividades, los subdirectores se auxiliarán de las gerencias y demás áreas adscritas a su subdirección.
 
-#### SECCIÓN PRIMERA. DE LOS SUBDIRECTORES
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN SEGUNDA. DE LOS GERENTES Y ADMINISTRADORES DE ACTIVOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 44.
 
-Cada uno de los gerentes tendrá, en el ámbito de competencia de su respectiva gerencia, las funciones siguientes:
+Cada uno de los gerentes y Administradores de Activos tendrá, en el ámbito de competencia de su respectiva gerencia o Activo, las funciones siguientes:
 
 I. Representar a Pemex Exploración y Producción, en el ámbito de sus funciones, con facultades para actos de administración, en términos del artículo 2554, segundo párrafo, del Código Civil Federal, y sus correlativos en los códigos civiles de las entidades federativas, así como en aquellos otros asuntos que le asignen o deleguen indistintamente y de manera expresa sus superiores jerárquicos;
 
@@ -809,7 +915,9 @@ XIX. Proporcionar la información necesaria para la elaboración del anteproyect
 
 XX. Elaborar los documentos que contengan la información que se someterá a la consideración del Consejo de Administración;
 
-XXI. Elaborar los requerimientos de programación y de presupuesto de su gerencia y de las áreas adscritas a ésta, conforme a las disposiciones que para este efecto emita Pemex;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+XXI. Elaborar los requerimientos de programación y de presupuesto de su gerencia o activo y de las áreas adscritas a ésta, conforme a las disposiciones que para este efecto emita Pemex;
 
 XXII. Gestionar las necesidades en materia de infraestructura, equipos, servicios, obras, nuevas inversiones y, en general, de los recursos humanos, materiales, financieros, de Tecnología de Información, Procura y Abastecimiento, y demás apoyo para el cumplimiento de sus funciones;
 
@@ -833,7 +941,9 @@ XXXI. Emitir y suscribir evaluaciones técnicas;
 
 XXXII. Atender la sustanciación y resolución de los reclamos, recursos de reconsideración y conciliaciones que deriven de los procedimientos de contratación y de la ejecución de los contratos;
 
-XXXIII. Evaluar el funcionamiento de su gerencia y de las áreas adscritas a la misma;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+XXXIII. Evaluar el funcionamiento de su gerencia o activo y de las áreas adscritas a las mismas;
 
 XXXIV. Elaborar propuestas de objetivos, estrategias, metas e indicadores de producción, confiabilidad y mejora;
 
@@ -853,7 +963,9 @@ XLI. Informar sobre los resultados de la operación para su evaluación;
 
 XLII. Participar en la organización, clasificación y conservación de la información, en cumplimiento a los ordenamientos en la materia;
 
-XLIII. Resolver los asuntos de su competencia y de las áreas adscritas a su gerencia;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+XLIII. Resolver los asuntos de su competencia y de las áreas adscritas a su gerencia o activo;
 
 XLIV. Solicitar a la Dirección Jurídica de Pemex el otorgamiento y revocación de poderes;
 
@@ -865,7 +977,11 @@ XLVII. Las demás señaladas en otros artículos del presente Estatuto, por el C
 
 Son indelegables las funciones señaladas en las fracciones III, VIII, IX, X, XIV, XVIII, XXV, XXXIX, XL y XLVI del presente artículo.
 
-### CAPÍTULO PRIMERO. DE LA ESTRUCTURA BÁSICA
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+Cualquier mención que de manera genérica se haga a los gerentes, se entenderá referida también a los Administradores de Activos.
+
+### CAPÍTULO TERCERO. DEL PERSONAL DE PEMEX EXPLORACIÓN Y PRODUCCIÓN
 
 ###### Artículo 45.
 
@@ -875,15 +991,19 @@ En caso de que las actividades que deban desarrollar requieran la representació
 
 ## TÍTULO CUARTO. DE LA ESTRUCTURA ORGÁNICA DE PEMEX EXPLORACIÓN Y PRODUCCIÓN
 
-### CAPÍTULO SEGUNDO. DE LA COORDINACIÓN OPERATIVA
+### CAPÍTULO PRIMERO. DE LA ESTRUCTURA BÁSICA
 
 ###### Artículo 46.
 
 La estructura orgánica básica de Pemex Exploración y Producción tendrá las áreas siguientes:
 
-I. Coordinación Operativa.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
 
-1. Subdirección de Auditoría de Reservas de Hidrocarburos.
+I. Dirección de Recursos, Reservas y Asociaciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+1. Subdirección de Recursos Prospectivos y Auditoría de Reservas de Hidrocarburos.
 
 a) Gerencia de Recursos y Certificación de Reservas.
 
@@ -894,6 +1014,16 @@ b) Gerencia de Administración de Proyectos.
 a) Gerencia de Programación.
 
 b) Gerencia de Evaluación.
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+3. Subdirección de Gestión de Alianzas.
+
+a) Gerencia de Identificación de Oportunidades de Alianzas de Desarrollo y Producción.
+
+b) Gerencia de Identificación de Oportunidades de Alianzas de Exploración.
+
+c) Gerencia de Administración de Alianzas.
 
 II. Dirección de Desarrollo y Producción.
 
@@ -933,7 +1063,7 @@ f) Activo de Producción Cinco Presidentes.
 
 g) Activo de Producción Poza Rica-Altamira.
 
-h) Activo de Producción de Aceite Veracruz.
+h) (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 2015)
 
 4. Subdirección de Producción Campos No Convencionales.
 
@@ -961,9 +1091,9 @@ b) Gerencia de Proyectos Aguas Profundas.
 
 c) Gerencia de Proyectos Aguas Someras.
 
-d) Gerencia de Proyectos Campos No Convencionales.
+d) (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 2015)
 
-e) Gerencia de Proyectos Campos de Gas No Asociado.
+e) (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 2015)
 
 f) Gerencia de Proyectos Campos de Crudos Extrapesados.
 
@@ -1005,23 +1135,35 @@ b) Gerencia de Proyectos de Infraestructura Marina.
 
 c) Gerencia de Proyectos de Infraestructura Terrestre.
 
-d) Gerencia de Administración de Información Técnica de Explotación.
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
 
-e) Gerencia de Cumplimiento Regulatorio.
+d) Gerencia de Integración y Seguimiento de Servicios.
 
-10. Subdirección de Acondicionamiento y Distribución de Hidrocarburos.
+e) DEROGADO, D.O.F. 29 DE DICIEMBRE DE 2015)
 
-a) Gerencia de Coordinación de Operación.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
 
-b) Gerencia de Estrategia de Comercialización de Hidrocarburos y Servicios.
+10. Subdirección de Coordinación Operativa y Comercial.
 
-c) Gerencia de Acondicionamiento y Distribución de Hidrocarburos Norte.
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
 
-d) Gerencia de Acondicionamiento y Distribución de Hidrocarburos Sur.
+a) Gerencia de Coordinación de Operaciones.
 
-e) Gerencia de Acondicionamiento y Distribución de Hidrocarburos Marina Noreste.
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
 
-f) Gerencia de Acondicionamiento y Distribución de Hidrocarburos Marina Suroeste.
+b) Gerencia de Estrategias Comerciales de Hidrocarburos.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+c) Gerencia de Medición y Balances.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+d) Gerencia de Administración de Contratos de Compraventa y Servicios de Hidrocarburos.
+
+e) DEROGADO, D.O.F. 29 DE DICIEMBRE DE 2015)
+
+f) (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 2015)
 
 11. Subdirección de Administración del Portafolio.
 
@@ -1031,11 +1173,19 @@ b) Gerencia de Integración, Optimización y Evaluación del Portafolio.
 
 c) Gerencia de Gestión de Desarrollo y Producción.
 
-12. Subdirección de Gestión de Alianzas.
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
 
-a) Gerencia de Identificación, Selección y Evaluación de Oportunidades.
+d) Gerencia de Administración de Información Técnica de Explotación.
 
-b) Gerencia de Administración de Alianzas.
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+e) Gerencia de Cumplimiento Regulatorio.
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+f) Gerencia de Seguimiento y Mejora Continua de Costos.
+
+12. (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 2015)
 
 III. Dirección de Exploración.
 
@@ -1047,7 +1197,7 @@ b) Gerencia de Procesamiento Sísmico.
 
 c) Gerencia de Métodos No Sísmicos.
 
-d) Gerencia de Administración de Información Técnica de Exploración.
+d) (DEROGADO, D.O.F. 29 DE DICIEMBRE DE 2015)
 
 2. Subdirección de Geociencias y Aseguramiento Técnico.
 
@@ -1057,11 +1207,17 @@ b) Gerencia de Evaluación de Prospectos de Nuevas Áreas.
 
 c) Gerencia de Integridad de Procesos.
 
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+d) Gerencia de Administración de Información Técnica de Exploración.
+
 3. Subdirección de Administración del Portafolio y Acceso a Nuevas Áreas.
 
 a) Gerencia de Administración del Portafolio.
 
-b) Gerencia de Gestión de Nuevas Áreas y Asociaciones.
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+b) Gerencia de Gestión de Acceso a Nuevas Áreas.
 
 c) Gerencia de Seguimiento al Plan de Exploración.
 
@@ -1083,13 +1239,19 @@ f) Activo de Exploración Yacimientos No Convencionales.
 
 5. Gerencia de Desarrollo Sustentable, Seguridad Industrial, Salud en el Trabajo y Protección Ambiental.
 
-### CAPÍTULO TERCERO. DE LA DIRECCIÓN DE DESARROLLO Y PRODUCCIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
 
-#### SECCIÓN SEGUNDA. DE LOS GERENTES
+### CAPÍTULO SEGUNDO. DE LA DIRECCIÓN DE RECURSOS, RESERVAS Y ASOCIACIONES
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE RECURSOS, RESERVAS Y ASOCIACIONES
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 47.
 
-La Coordinación Operativa tendrá las funciones siguientes:
+La Dirección de Recursos, Reservas y Asociaciones tendrá las funciones siguientes:
 
 I. Coordinar la participación de la Dirección de Exploración y de la Dirección de Desarrollo y Producción en la Planeación Estratégica Institucional;
 
@@ -1109,15 +1271,31 @@ VIII. Coordinar la gestión y atención de requerimientos de información de las
 
 IX. Dirigir la optimización de los movimientos de equipos de perforación de las Direcciones de Exploración y Desarrollo y Producción;
 
-X. Gestionar los recursos humanos, materiales, financieros, servicios generales y bienes patrimoniales, requeridos para la operación y el cumplimiento de objetivos de la Dirección, y
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
 
-XI. Coordinar la atención de requerimientos y solicitudes de instancias gubernamentales y áreas de Petróleos Mexicanos.
+X. Gestionar los recursos humanos, materiales, financieros, servicios generales y bienes patrimoniales, requeridos para la operación y el cumplimiento de objetivos de la Dirección;
 
-#### SECCIÓN PRIMERA. DE LA COORDINACIÓN OPERATIVA
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+XI. Coordinar la atención de requerimientos y solicitudes de instancias gubernamentales y áreas de Petróleos Mexicanos;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+XII. Coordinar la implantación de la estrategia de alianzas, asociaciones y nuevos negocios de Exploración y Producción, y
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+XIII. Definir en conjunto con la Dirección de Exploración y la Dirección de Desarrollo y Producción los esquemas de asociación para las áreas exploratorias y campos petroleros incluyendo contratos integrales de servicios petroleros.
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN SEGUNDA. DE LA SUBDIRECCIÓN DE RECURSOS PROSPECTIVOS Y AUDITORÍA DE RESERVAS DE HIDROCARBUROS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 48.
 
-La Subdirección de Auditoría de Reservas de Hidrocarburos tendrá las funciones siguientes:
+La Subdirección de Recursos Prospectivos y Auditoría de Reservas de Hidrocarburos tendrá las funciones siguientes:
 
 I. Definir y coordinar los procesos de evaluación, certificación y reclasificación de reservas de Hidrocarburos;
 
@@ -1153,7 +1331,7 @@ II. Definir los elementos y criterios de las categorías de reservas para docume
 
 III. Definir los criterios técnicos que deberán cumplir, con base en el nivel de riesgo e inversión, los diferentes proyectos, áreas o bloques asignados de Exploración, Desarrollo y Producción, para poder documentarlo en el portafolio de inversión de Pemex Exploración y Producción.
 
-#### SECCIÓN SEGUNDA. DE LA SUBDIRECCIÓN DE AUDITORÍA DE RESERVAS DE HIDROCARBUROS
+#### SECCIÓN TERCERA. DE LA SUBDIRECCIÓN DE TRANSFERENCIAS DE EXPLORACIÓN A DESARROLLO Y PRODUCCIÓN
 
 ###### Artículo 51.
 
@@ -1219,9 +1397,107 @@ VII. Establecer y actualizar los mecanismos de solicitud de información adicion
 
 VIII. Evaluar el impacto económico de los movimientos de equipos de perforación de las Direcciones de Exploración y Desarrollo y Producción y proponer acciones de agregación de valor.
 
-#### SECCIÓN TERCERA. DE LA SUBDIRECCIÓN DE TRANSFERENCIAS DE EXPLORACIÓN A DESARROLLO Y PRODUCCIÓN
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
 
-### CAPÍTULO CUARTO. DE LA DIRECCIÓN DE EXPLORACIÓN
+#### SECCIÓN CUARTA. DE LA SUBDIRECCIÓN DE GESTIÓN DE ALIANZAS
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 53 Bis.
+
+La Subdirección de Gestión de Alianzas tendrá las funciones siguientes:
+
+I. Definir y supervisar los procesos para la identificación, formulación y documentación de nuevas oportunidades de negocio en coordinación con las áreas competentes;
+
+II. Aplicar la estrategia para el establecimiento de nuevas alianzas para la mejor gestión de los recursos y participaciones accionarias en las alianzas o asociaciones en coordinación con las áreas competentes;
+
+III. Gestionar la migración de las asignaciones otorgadas, Contratos Integrales de Exploración y Producción (CIEP) o de Contratos de Obra Pública Financiada (COPF) a Contratos para la Exploración y Extracción de Hidrocarburos (CEE), y de ser el caso transferir la alianza a la Dirección que corresponda para su operación;
+
+IV. Coordinar la transferencia de recursos presupuestales que aseguren el cumplimiento de las obligaciones contractuales adquiridas con socios y con el Estado Mexicano;
+
+V. Supervisar el cumplimiento y la administración de los Acuerdos de Operación Conjunta que se firmen con socios y los Contratos de Exploración y Extracción de Hidrocarburos (CEE) que se firmen con el Estado Mexicano y evaluar su desempeño;
+
+VI. Consolidar la información para atender los requerimientos de autoridades internas y externas respecto a los Contratos para la Exploración y Extracción de Hidrocarburos (CEE) que se firmen con socios y con el Estado Mexicano, en coordinación con otras áreas competentes;
+
+VII. Coordinar la difusión y capacitación para dar cumplimiento a las obligaciones adquiridas en los Contratos para la Exploración y Extracción de Hidrocarburos (CEE) en alianzas y sus respectivos Acuerdos de Operación Conjunta;
+
+VIII. Participar en los Grupos Directivos de las Alianzas, así como en la implementación de los acuerdos, y
+
+IX. Suscribir o coordinar la suscripción de los contratos que se establecen en el Título Segundo de la Ley de Hidrocarburos.
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 53 Ter.
+
+La Gerencia de Identificación de Oportunidades de Alianzas de Desarrollo y Producción tendrá las funciones siguientes:
+
+I. Identificar oportunidades y formular los casos de negocio para monetizar los activos de desarrollo y producción a través de la incorporación de socios;
+
+II. Integrar el portafolio de nuevas oportunidades de inversión en materia de desarrollo y producción;
+
+III. Realizar la valuación de mercado, proponer y estructurar los casos para migrar asignaciones a Contratos para la Exploración y Extracción de Hidrocarburos (CEE);
+
+IV. Proponer los elementos técnicos, operativos, de ejecución y financieros que deberán cubrir los potenciales socios para alianzas conforme a las disposiciones aplicables;
+
+V. Participar en las licitaciones públicas que representen oportunidades de negocio para desarrollo y producción en coordinación con otras áreas competentes;
+
+VI. Documentar y gestionar las aprobaciones necesarias ante las diferentes autoridades del sector y órganos reguladores, para migración de asignaciones a Contratos para la Exploración y Producción de Hidrocarburos (CEE), en coordinación con las áreas competentes;
+
+VII. Identificar posibles socios, conducir los contactos iniciales y participar en las negociaciones, en coordinación con las áreas competentes;
+
+VIII. Proponer modificaciones a los términos y condiciones de los Contratos Estandarizados para el estudio, valuación, creación y terminación de alianzas;
+
+IX. Proponer, formular casos de negocio y participar en la evaluación de oportunidades de fusiones o adquisiciones para capturar oportunidades que agreguen valor al negocio de desarrollo de campos, distribución, acondicionamiento y producción de Hidrocarburos, y
+
+X. Elaborar e instrumentar mecanismos de difusión, capacitación y dar asistencia técnica interna en materia de formulación de casos de negocios que impliquen alianzas, en coordinación con la Dirección Corporativa de Recursos Humanos.
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 53 Quáter.
+
+La Gerencia de Identificación de Oportunidades de Alianzas de Exploración tendrá las funciones siguientes:
+
+I. Identificar oportunidades de alianzas para exploración en el entorno nacional e internacional;
+
+II. Alinear la oportunidad de negocio con el plan de ejecución de la estrategia del Plan de Negocios;
+
+III. Realizar estudios en el mercado internacional sobre los esquemas de asociación que existen en materia de exploración;
+
+IV. Proponer esquemas de asociación con base en el análisis integral del caso de negocio;
+
+V. Participar en los procesos de negociación de asociaciones para integrar las mejores prácticas comerciales;
+
+VI. Elaborar e instrumentar mecanismos de difusión, capacitación y dar asistencia técnica interna en materia de formulación de casos de negocios que impliquen alianzas, en coordinación con la Dirección Corporativa de Recursos Humanos;
+
+VII. Participar en conjunto con las áreas operativas correspondientes en los comités operativos de alianzas derivados de los Acuerdos de Operación Conjunta y coordinar los acuerdos generados en materia de Exploración;
+
+VIII. Establecer los mecanismos para mitigación de riesgos en los posibles escenarios de incumplimiento de contratos, y
+
+IX. Identificar las variables asociadas a desarrollos conceptuales que pudieran aumentar el valor comercial de la alianza para ser consideradas en la formulación del caso de negocio.
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 53 Quinquies.
+
+La Gerencia de Administración de Alianzas tendrá las funciones siguientes:
+
+I. Documentar y gestionar la transferencia de recursos técnicos y financieros que aseguren el cumplimiento de las obligaciones contractuales adquiridas con socios y con el Estado Mexicano;
+
+II. Administrar los contratos que se firmen con socios y con el Estado Mexicano, así como evaluar su desempeño;
+
+III. Verificar la mejora continua del proceso de administración de alianzas y de identificación, selección y evaluación de oportunidades de exploración y de desarrollo y producción;
+
+IV. Recopilar e integrar la información para atender los requerimientos de autoridades internas y externas respecto a los Contratos para la Exploración y Extracción de Hidrocarburos (CEE) y los que se firmen con socios y con el Estado Mexicano;
+
+V. Administrar y supervisar las alianzas operadas por terceros a través de los comités y grupos de trabajo establecidos, observando los modelos de gobierno establecidos por la Dirección Corporativa de Alianzas y Nuevos Negocios, incluyendo la propuesta de modificación o en su caso terminación de la alianza, en coordinación con otras áreas competentes;
+
+VI. Aplicar mejores prácticas en la industria para la gestión de las alianzas;
+
+VII. Administrar, supervisar, gestionar, y en su caso operar los vehículos de asociación que formen parte de las alianzas de manera coordinada con las áreas competentes, y
+
+VIII. Documentar en coordinación con las áreas correspondientes, el proceso de migración de los Contratos Integrales de Exploración y Producción (CIEP) y los Contratos de Obra Pública Financiada (COPF) a Contratos para la Exploración y Extracción de Hidrocarburos (CEE).
+
+### CAPÍTULO TERCERO. DE LA DIRECCIÓN DE DESARROLLO Y PRODUCCIÓN
 
 #### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE DESARROLLO Y PRODUCCIÓN
 
@@ -1229,7 +1505,9 @@ VIII. Evaluar el impacto económico de los movimientos de equipos de perforació
 
 La Dirección de Desarrollo y Producción tendrá las funciones siguientes:
 
-I. Dirigir la estrategia para administrar el desarrollo de campos y la producción de Hidrocarburos, dar seguimiento y evaluar su ejecución;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+I. Dirigir la estrategia para administrar el desarrollo de campos, la producción y comercialización de Hidrocarburos, dar seguimiento y evaluar su ejecución;
 
 II. Coordinar la documentación de las inversiones en materia de desarrollo y producción e informar a las áreas competentes de Pemex Exploración y Producción;
 
@@ -1251,15 +1529,23 @@ La Subdirección de Producción Aguas Profundas tendrá las funciones siguientes
 
 I. Diseñar las estrategias para administrar la producción de Hidrocarburos;
 
-II. Coordinar el desarrollo de campos, la explotación y transporte de Hidrocarburos;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
 
-III. Transferir la custodia de los Hidrocarburos producidos a la Subdirección de Acondicionamiento y Distribución de Hidrocarburos;
+II. Coordinar el desarrollo de campos, la explotación y recolección de Hidrocarburos;
 
-IV. Adecuar y modernizar la infraestructura de explotación y transporte de Hidrocarburos;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+III. Transferir la custodia de los Hidrocarburos producidos para su transporte;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+IV. Adecuar y modernizar la infraestructura de explotación y recolección de Hidrocarburos;
 
 V. Desarrollar y ejecutar la estrategia para la identificación y el desarrollo de oportunidades de explotación de reservas en la vecindad de campos productores;
 
-VI. Proponer la estrategia de reclasificación de reservas probables;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+VI. Proponer al Director de Desarrollo y Producción la estrategia de reclasificación de reservas probables;
 
 VII. Coordinar la supervisión de la ejecución de los contratos derivados de alianzas para la explotación de los campos asignados;
 
@@ -1273,7 +1559,9 @@ El Activo de Producción Lakach-Kunah-Piklis tendrá las siguientes funciones:
 
 I. Planear, programar y llevar a cabo la explotación de los yacimientos, así como su supervisión;
 
-II. Administrar el mantenimiento de la infraestructura de explotación, de transporte y de proceso;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+II. Administrar el mantenimiento de la infraestructura de explotación, de recolección y de proceso;
 
 III. Elaborar y ejecutar los programas y proyectos de inversión;
 
@@ -1299,17 +1587,29 @@ La Subdirección de Producción Aguas Someras tendrá las funciones siguientes:
 
 I. Diseñar las estrategias para administrar la producción de Hidrocarburos;
 
-II. Coordinar el desarrollo de campos, la explotación y transporte de Hidrocarburos;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
 
-III. Transferir la custodia de los Hidrocarburos producidos a la Subdirección de Acondicionamiento y Distribución de Hidrocarburos;
+II. Coordinar el desarrollo de campos, la explotación y recolección de Hidrocarburos;
 
-IV. Adecuar y modernizar la infraestructura de explotación y transporte de Hidrocarburos;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+III. Transferir la custodia de los Hidrocarburos producidos para su transporte;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+IV. Adecuar y modernizar la infraestructura de explotación y recolección de Hidrocarburos;
 
 V. Desarrollar y ejecutar la estrategia para la identificación y el desarrollo de oportunidades de explotación de reservas en la vecindad de campos productores;
 
-VI. Proponer la estrategia de reclasificación de reservas probables;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+VI. Proponer al Director de Desarrollo y Producción la estrategia de reclasificación de reservas probables;
 
 VII. Coordinar la supervisión de la ejecución de los contratos derivados de alianzas para la explotación de los campos asignados;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+VII BIS. Supervisar el cumplimiento y la administración de los Contratos Integrales de Exploración y Producción (CIEP) y los Contratos de Obra Pública Financiada (COPF), así como atender los requerimientos de las autoridades internas y externas respecto a dichos contratos;
 
 VIII. Vigilar y evaluar el desempeño en la administración y operación de los almacenes de residuos peligrosos y de manejo especial que generen sus áreas productivas y de servicios, y
 
@@ -1325,7 +1625,9 @@ II. Integrar, revisar, adecuar y proponer el portafolio y la cartera de inversio
 
 III. Integrar y analizar la información de la evaluación del desempeño de las funciones de las unidades administrativas, y
 
-IV. Coordinar la evaluación y documentación para la reclasificación de reservas probadas y probables en los proyectos de explotación.
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+IV. Coordinar la evaluación y documentación para la reclasificación de reservas de Hidrocarburos en los proyectos de explotación.
 
 ###### Artículo 59.
 
@@ -1333,7 +1635,9 @@ La Gerencia de Construcción, Supervisión, Perforación y Mantenimiento tendrá
 
 I. Administrar las estrategias de mantenimiento, optimización de instalaciones, atención a pozos, automatización y medición de Hidrocarburos;
 
-II. Coordinar las actividades operativas de producción, proceso, almacenamiento y transporte de Hidrocarburos;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+II. Coordinar las actividades operativas de producción, proceso y recolección de Hidrocarburos;
 
 III. Conducir las relaciones con las Subdirecciones de Servicio;
 
@@ -1349,7 +1653,9 @@ Los Activos de Producción Cantarell, de Producción Ku-Maloob-Zaap, de Producci
 
 I. Planear, programar y llevar a cabo la explotación de los yacimientos, así como su supervisión;
 
-II. Administrar el mantenimiento de la infraestructura de explotación, de transporte y de proceso;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+II. Administrar el mantenimiento de la infraestructura de explotación, de recolección y de proceso;
 
 III. Elaborar y ejecutar los programas y proyectos de inversión;
 
@@ -1375,11 +1681,17 @@ La Subdirección de Producción Campos Terrestres tendrá las funciones siguient
 
 I. Diseñar las estrategias para administrar la producción de Hidrocarburos;
 
-II. Coordinar el desarrollo de campos, la explotación y transporte de Hidrocarburos;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
 
-III. Transferir la custodia de los Hidrocarburos producidos a la Subdirección de Acondicionamiento y Distribución de Hidrocarburos;
+II. Coordinar el desarrollo de campos, la explotación y recolección de Hidrocarburos;
 
-IV. Adecuar y modernizar la infraestructura de explotación y transporte de Hidrocarburos;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+III. Transferir la custodia de los Hidrocarburos producidos para su transporte;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+IV. Adecuar y modernizar la infraestructura de explotación y recolección de Hidrocarburos;
 
 V. Desarrollar y ejecutar la estrategia para la identificación y el desarrollo de oportunidades de explotación de reservas en la vecindad de campos productores;
 
@@ -1387,9 +1699,15 @@ VI. Proponer al Director de Desarrollo y Producción la estrategia de reclasific
 
 VII. Coordinar la supervisión de la ejecución de los contratos derivados de alianzas para la explotación de los campos asignados;
 
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+VII Bis. Supervisar el cumplimiento y la administración de los Contratos Integrales de Exploración y Producción (CIEP) y los Contratos de Obra Pública Financiada (COPF), así como atender los requerimientos de las autoridades internas y externas respecto a dichos contratos;
+
 VIII. Vigilar y evaluar el desempeño en la administración y operación de los almacenes de residuos peligrosos y de manejo especial que generen sus áreas productivas y de servicios, y
 
-IX. Coordinar la planeación, evaluación e integración del portafolio y la cartera de proyectos de inversión de explotación.
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+IX. Coordinar la planeación, evaluación e integración del portafolio y la cartera de proyectos de inversión de explotación en Campos Terrestres.
 
 ###### Artículo 62.
 
@@ -1401,7 +1719,9 @@ II. Integrar, revisar, adecuar y proponer el portafolio y la cartera de inversio
 
 III. Integrar y analizar la información de la evaluación del desempeño de las funciones de las unidades administrativas, y
 
-IV. Coordinar la evaluación y documentación para la reclasificación de reservas probadas y probables en los proyectos de explotación.
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+IV. Coordinar la evaluación y documentación para la reclasificación de reservas de Hidrocarburos en los proyectos de explotación.
 
 ###### Artículo 63.
 
@@ -1409,7 +1729,9 @@ La Gerencia de Construcción, Supervisión, Perforación y Mantenimiento tendrá
 
 I. Administrar las estrategias de mantenimiento, optimización de instalaciones, atención a pozos, automatización y medición de Hidrocarburos;
 
-II. Coordinar las actividades operativas de producción, proceso, almacenamiento y transporte de Hidrocarburos;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+II. Coordinar las actividades operativas de producción, proceso y recolección de Hidrocarburos;
 
 III. Conducir las relaciones con las Subdirecciones de Servicio;
 
@@ -1419,13 +1741,17 @@ V. Coordinar, analizar, proponer y gestionar movimientos logísticos y de equipo
 
 VI. Promover la medición y el control de calidad de los Hidrocarburos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 64.
 
-Los Activos de Producción Macuspana-Muspac, de Producción Samaria-Luna, de Producción Bellota-Jujo, de Producción Cinco Presidentes, de Producción Poza Rica-Altamira y de Producción de Aceite Veracruz, tendrán cada uno dentro del ámbito de su competencia, las funciones siguientes:
+Los Activos de Producción Macuspana-Muspac, de Producción Samaria-Luna, de Producción Bellota-Jujo, de Producción Cinco Presidentes y de Producción Poza Rica-Altamira, tendrán cada uno dentro del ámbito de su competencia, las funciones siguientes:
 
 I. Planear, programar y llevar a cabo la explotación de los yacimientos, así como su supervisión;
 
-II. Administrar el mantenimiento de la infraestructura de explotación, de transporte y de proceso;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+II. Administrar el mantenimiento de la infraestructura de explotación, de recolección y de proceso;
 
 III. Elaborar y ejecutar los programas y proyectos de inversión;
 
@@ -1451,11 +1777,17 @@ La Subdirección de Producción Campos No Convencionales tendrá las funciones s
 
 I. Diseñar las estrategias para administrar la producción de Hidrocarburos;
 
-II. Coordinar el desarrollo de campos, la explotación y transporte de Hidrocarburos;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
 
-III. Transferir la custodia de los Hidrocarburos producidos a la Subdirección de Acondicionamiento y Distribución de Hidrocarburos;
+II. Coordinar el desarrollo de campos, la explotación y recolección de Hidrocarburos;
 
-IV. Adecuar y modernizar la infraestructura de explotación y transporte de Hidrocarburos;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+III. Transferir la custodia de los Hidrocarburos producidos para su transporte;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+IV. Adecuar y modernizar la infraestructura de explotación y recolección de Hidrocarburos;
 
 V. Desarrollar y ejecutar la estrategia para la identificación y el desarrollo de oportunidades de explotación de reservas en la vecindad de campos productores;
 
@@ -1463,9 +1795,15 @@ VI. Proponer al Director de Desarrollo y Producción la estrategia de reclasific
 
 VII. Coordinar la supervisión de la ejecución de los contratos derivados de alianzas para la explotación de los campos asignados;
 
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+VII Bis. Supervisar el cumplimiento y la administración de los Contratos Integrales de Exploración y Producción (CIEP) y los Contratos de Obra Pública Financiada (COPF), así como atender los requerimientos de las autoridades internas y externas respecto a dichos contratos;
+
 VIII. Vigilar y evaluar el desempeño en la administración y operación de los almacenes de residuos peligrosos y de manejo especial que generen sus áreas productivas y de servicios, y
 
-IX. Coordinar la planeación, evaluación e integración del portafolio y la cartera de inversiones de explotación.
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+IX. Coordinar la planeación, evaluación e integración del portafolio y la cartera de proyectos de inversión de explotación en Campos No Convencionales.
 
 ###### Artículo 66.
 
@@ -1473,7 +1811,9 @@ La Gerencia de Construcción, Supervisión, Perforación y Mantenimiento tendrá
 
 I. Administrar las estrategias de mantenimiento, optimización de instalaciones, atención a pozos, automatización y medición de Hidrocarburos;
 
-II. Coordinar las actividades operativas de producción, proceso, almacenamiento y transporte de Hidrocarburos;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+II. Coordinar las actividades operativas de producción, proceso y recolección de Hidrocarburos;
 
 III. Conducir las relaciones con las Subdirecciones de Servicio;
 
@@ -1489,7 +1829,9 @@ Los Activos de Producción Aceite Terciario del Golfo y de Producción Tampico-M
 
 I. Planear, programar y llevar a cabo la explotación de los yacimientos, así como su supervisión;
 
-II. Administrar el mantenimiento de la infraestructura de explotación, de transporte y de proceso;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+II. Administrar el mantenimiento de la infraestructura de explotación, de recolección y de proceso;
 
 III. Elaborar y ejecutar los programas y proyectos de inversión;
 
@@ -1515,11 +1857,17 @@ La Subdirección de Producción Campos de Gas No Asociado tendrá las funciones 
 
 I. Diseñar las estrategias para administrar la producción de Hidrocarburos;
 
-II. Coordinar el desarrollo de campos, la explotación y transporte de Hidrocarburos;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
 
-III. Transferir la custodia de los Hidrocarburos producidos a la Subdirección de Acondicionamiento y Distribución de Hidrocarburos;
+II. Coordinar el desarrollo de campos, la explotación y recolección de Hidrocarburos;
 
-IV. Adecuar y modernizar la infraestructura de explotación y transporte de Hidrocarburos;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+III. Transferir la custodia de los Hidrocarburos producidos para su transporte;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+IV. Adecuar y modernizar la infraestructura de explotación y recolección de Hidrocarburos;
 
 V. Desarrollar y ejecutar la estrategia para la identificación y el desarrollo de oportunidades de explotación de reservas en la vecindad de campos productores;
 
@@ -1527,9 +1875,15 @@ VI. Proponer al Director de Desarrollo y Producción la estrategia de reclasific
 
 VII. Coordinar la supervisión de la ejecución de los contratos derivados de alianzas para la explotación de los campos asignados;
 
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+VII Bis. Supervisar el cumplimiento y la administración de los Contratos Integrales de Exploración y Producción (CIEP) y los Contratos de Obra Pública Financiada (COPF), así como atender los requerimientos de las autoridades internas y externas respecto a dichos contratos;
+
 VIII. Vigilar y evaluar el desempeño en la administración y operación de los almacenes de residuos peligrosos y de manejo especial que generen sus áreas productivas y de servicios, y
 
-IX. Coordinar la planeación, evaluación e integración del portafolio y la cartera de inversiones de explotación.
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+IX. Coordinar la planeación, evaluación e integración del portafolio y la cartera de proyectos de inversión de explotación en Campos de Gas No Asociado.
 
 ###### Artículo 69.
 
@@ -1541,7 +1895,9 @@ II. Integrar, revisar, adecuar y proponer el portafolio y la cartera de inversio
 
 III. Integrar y analizar la información de la evaluación del desempeño de las funciones de las unidades administrativas, y
 
-IV. Coordinar la evaluación y documentación para la reclasificación de reservas probadas y probables en los proyectos de explotación.
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+IV. Coordinar la evaluación y documentación para la reclasificación de reservas de Hidrocarburos en los proyectos de explotación.
 
 ###### Artículo 70.
 
@@ -1549,7 +1905,9 @@ La Gerencia de Construcción, Supervisión, Perforación y Mantenimiento tendrá
 
 I. Administrar las estrategias de mantenimiento, optimización de instalaciones, atención a pozos, automatización y medición de Hidrocarburos;
 
-II. Coordinar las actividades operativas de producción, proceso, almacenamiento y transporte de Hidrocarburos;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+II. Coordinar las actividades operativas de producción, proceso y recolección de Hidrocarburos;
 
 III. Conducir las relaciones con las Subdirecciones de Servicio;
 
@@ -1565,7 +1923,9 @@ Los Activos de Producción Burgos y de Producción de Gas Veracruz, tendrán cad
 
 I. Planear, programar y llevar a cabo la explotación de los yacimientos, así como su supervisión;
 
-II. Administrar el mantenimiento de la infraestructura de explotación, de transporte y de proceso;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+II. Administrar el mantenimiento de la infraestructura de explotación, de recolección y de proceso;
 
 III. Elaborar y ejecutar los programas y proyectos de inversión;
 
@@ -1589,7 +1949,9 @@ X. Participar en los Grupos Directivos de las Alianzas y ejecutar los programas 
 
 La Subdirección de Desarrollo de Campos tendrá las funciones siguientes:
 
-I. Diseñar la estrategia de desarrollo de los campos de Aguas Profundas, Aguas Someras, No Convencionales, Gas No Asociado, Crudos Extrapesados, así como de Recuperación Secundaria y Mejorada, que determine el Director de Desarrollo y Producción;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+I. Diseñar la estrategia de desarrollo de los campos de Aguas Profundas, Aguas Someras, Crudos Extrapesados, así como de Recuperación Secundaria y Mejorada, que determine el Director de Desarrollo y Producción;
 
 II. Diseñar la estrategia para la ingeniería y construcción de obras y de servicios de Intervenciones a Pozos, así como supervisar su ejecución en los campos en desarrollo;
 
@@ -1605,17 +1967,23 @@ VI. Coordinar la planeación, evaluación e integración del portafolio y la car
 
 La Gerencia de Programación y Evaluación Operativa tendrá las funciones siguientes:
 
-I. Llevar a cabo la planeación, dar seguimiento y evaluar la ejecución de proyectos, programas operativos e iniciativas estratégicas, debiendo proporcionar dicha información cuando le sea requerida por las áreas de PEMEX que dan seguimiento a los proyectos de inversión y sus obras.
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+I. Llevar a cabo la planeación, dar seguimiento y evaluar la ejecución de proyectos, programas operativos e iniciativas estratégicas, debiendo proporcionar dicha información cuando le sea requerida por las áreas de Pemex que dan seguimiento a los proyectos de inversión y sus obras.
 
 II. Integrar, revisar, adecuar y proponer el portafolio y la cartera de inversiones de desarrollo de campos y las adecuaciones presupuestales que les correspondan;
 
 III. Recopilar e integrar la información para atender los requerimientos de autoridades internas y externas respecto a los contratos integrales de Exploración y Producción (CIEP), contratos de obra pública financiada (COPF) y los que se firmen con socios y con el Estado Mexicano, y
 
-IV. Coordinar la evaluación y documentación para la reclasificación de reservas probadas y probables en los proyectos de desarrollo de campos.
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+IV. Coordinar la evaluación y documentación para la reclasificación de reservas de Hidrocarburos en los proyectos de desarrollo de campos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 74.
 
-Las Gerencias de Proyectos Aguas Profundas, de Proyectos Aguas Someras, de Proyectos Campos No Convencionales, de Proyectos Campos de Gas No Asociado, de Proyectos Crudos Extrapesados y de Proyectos de Recuperación Secundaria y Mejorada, tendrán cada una dentro del ámbito de su competencia, las funciones siguientes:
+Las Gerencias de Proyectos Aguas Profundas, de Proyectos Aguas Someras, de Proyectos Crudos Extrapesados y de Proyectos de Recuperación Secundaria y Mejorada, tendrán cada una dentro del ámbito de su competencia, las funciones siguientes:
 
 I. Elaborar, actualizar e implementar el plan de ejecución de los proyectos de desarrollo de sus respectivas gerencias;
 
@@ -1799,7 +2167,9 @@ La Subdirección de Confiabilidad tendrá las funciones siguientes:
 
 I. Asistir a las unidades administrativas de la Dirección de Desarrollo y Producción en situaciones de emergencia;
 
-II. Llevar a cabo las acciones en materia de integridad mecánica de la infraestructura de acondicionamiento y distribución de Hidrocarburos;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+II. Llevar a cabo las acciones en materia de integridad mecánica de la infraestructura de explotación y recolección de Hidrocarburos;
 
 III. Proporcionar los servicios integrados de mantenimiento de ductos e instalaciones marinas y terrestres que la Dirección de Desarrollo y Producción designe;
 
@@ -1929,17 +2299,29 @@ IV. Identificar e implementar las acciones correctivas en caso de potenciales re
 
 V. Participar o, en su caso, atender las consultas, así como los reclamos, controversias y conciliaciones derivados de aspectos técnicos y administrativos relacionados con la ejecución de los contratos de los proyectos de inversión;
 
-VI. Coordinar los servicios de administración de información técnica, conocimiento técnico, Aplicaciones Informáticas Especializadas y mejores prácticas de Desarrollo y Producción;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
 
-VII. Coordinar la definición y alcances de los servicios de la Tecnología de Información;
+VI. Coordinar la elaboración de planes de ejecución de obras y servicios de intervenciones a pozos alineados a los Proyectos de Inversión;
 
-VIII. Coordinar las redes de especialistas, mentores técnicos, líderes de disciplina y asignación de talento técnico;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
 
-IX. Participar en la integración de la estrategia y la definición de alternativas de vanguardia tecnológica de Desarrollo y Producción;
+VII. Gestionar ante la Dirección Corporativa de Procura y Abastecimiento la contratación de construcción de obras y servicios de intervenciones a pozos;
 
-X. Vigilar y evaluar el desempeño en la administración y operación de los almacenes de residuos peligrosos y de manejo especial que generen sus áreas productivas y de servicios, y
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
 
-XI. Coordinar y supervisar el cumplimiento regulatorio aplicable a la actividad de Desarrollo y Producción.
+VIII. Coordinar el desarrollo de ingeniería de obras de infraestructura;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+IX. Administrar los Contratos de obras y servicios de intervenciones a pozos;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+X. Evaluar y dar seguimiento a los indicadores de desempeño operativo y económico de los contratos de construcción obras y servicios de intervenciones a pozos, y
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+XI. Vigilar y evaluar el desempeño en la administración y operación de los almacenes de residuos peligrosos y de manejo especial que generen sus áreas productivas y de servicios.
 
 ###### Artículo 86.
 
@@ -1975,21 +2357,275 @@ VII. Administrar y operar los almacenes de residuos peligrosos y de manejo espec
 
 VIII. Coordinar la implementación y el proceso de entrega de las obras de su respectiva infraestructura de acuerdo a sus programas de ejecución.
 
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 88.
+
+La Gerencia de Integración y Seguimiento de Servicios tendrá las funciones siguientes:
+
+I. Integrar los planes de ejecución de obras y servicios de intervenciones a pozos alineados a los proyectos de inversión;
+
+II. Integrar y gestionar ante la Dirección Corporativa de Procura y Abastecimiento la contratación de construcción de obras y servicios de intervenciones a pozos;
+
+III. Dar seguimiento, evaluar y controlar los costos asociados a la construcción de infraestructura y servicios de intervenciones a pozos;
+
+IV. Dar seguimiento y controlar la ejecución de proyectos en materia de obras y servicios de intervenciones a pozos, y
+
+V. Evaluar y dar seguimiento a los indicadores de desempeño operativo y económico de los contratos de construcción de obras y servicios de intervenciones a pozos.
+
+###### Artículo 89.
+
+(DEROGADO, D.O.F. 29 DE DICIEMBRE DE 2015)
+
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN DÉCIMA PRIMERA. DE LA SUBDIRECCIÓN DE COORDINACIÓN OPERATIVA Y COMERCIAL
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 90.
+
+La Subdirección de Coordinación Operativa y Comercial tendrá las funciones siguientes:
+
+I. Coordinar la medición de Hidrocarburos en puntos de transferencia de custodia, así como verificar en coordinación con las áreas correspondientes la medición en los puntos de entrega;
+
+II. Coordinar el acceso y disponibilidad, así como supervisar el desempeño de los servicios contratados para el tratamiento, transporte y almacenamiento de los Hidrocarburos;
+
+III. Supervisar la entrega de Hidrocarburos a terceros en los términos y condiciones contratados, en coordinación con las áreas correspondientes;
+
+IV. Coordinar la administración de las ventas de primera mano y compra de Hidrocarburos y de los servicios asociados a su comercialización;
+
+V. Aprobar e implementar las estrategias operativas y comerciales para la compra y venta de Hidrocarburos;
+
+VI. Aprobar e implementar el plan rector de medición en los puntos de transferencia de custodia, y
+
+VII. Coordinar la integración de la información de la producción, manejo, compras y ventas de Hidrocarburos a nivel nacional.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 91.
+
+La Gerencia de Coordinación de Operaciones tendrá las funciones siguientes:
+
+I. Consolidar los planes y programas periódicos de la disponibilidad, el manejo a puntos de entrega y las ventas de Hidrocarburos;
+
+II. Evaluar el cumplimiento de los programas de disponibilidad, entrega y ventas de Hidrocarburos;
+
+III. Elaborar los programas de nominaciones de venta de Hidrocarburos;
+
+IV. Realizar el plan integral para el transporte, almacenamiento, tratamiento y comercialización de Hidrocarburos;
+
+V. Supervisar los servicios de tratamiento, transporte, mezclado y entrega de Hidrocarburos;
+
+VI. Establecer los parámetros operativos para la entrega al sistema de transporte de Hidrocarburos;
+
+VII. Participar en la aplicación de planes de respuesta a contingencias operativas en la recolección, transporte y entrega de Hidrocarburos, y
+
+VIII. Participar en los Grupos Directivos de las Alianzas y coordinar los programas operativos de Alianzas en materia de la Subdirección.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 92.
+
+La Gerencia de Estrategias Comerciales de Hidrocarburos tendrá las funciones siguientes:
+
+I. Diseñar las mezclas y estrategias de comercialización de Hidrocarburos;
+
+II. Elaborar análisis de inteligencia de mercados de comercialización de Hidrocarburos;
+
+III. Identificar nuevas oportunidades de negocio para la comercialización de Hidrocarburos;
+
+IV. Elaborar los escenarios de venta de Hidrocarburos de corto, mediano y largo plazo;
+
+V. Diseñar las metodologías y modelos de precios de Hidrocarburos;
+
+VI. Identificar la distribución de ingresos por venta de Hidrocarburos, y
+
+VII. Participar en los Grupos Directivos de las Alianzas y coordinar los programas operativos de Alianzas en materia de la Subdirección.
+
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 93.
+
+La Gerencia de Medición y Balances tendrá las funciones siguientes:
+
+I. Establecer la estrategia de medición y balances de Hidrocarburos;
+
+II. Coordinar el diseño y operación de los sistemas de información de balances, monitoreo de recolección, acondicionamiento y entrega de Hidrocarburos;
+
+III. Reglamentar la medición de Hidrocarburos manejados;
+
+IV. Realizar los balances de Hidrocarburos producidos, de disponibilidad, de manejo y entrega de Hidrocarburos;
+
+V. Documentar las metodologías de medición y balances de Hidrocarburos ante las instancias competentes;
+
+VI. Determinar los factores de distribución volumétrica de los Hidrocarburos manejados, y
+
+VII. Participar en la aplicación de planes de respuesta a contingencias operativas en la recolección, transporte y entrega de Hidrocarburos.
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 93 Bis.
+
+La Gerencia de Administración de Contratos de Compraventa y Servicios de Hidrocarburos tendrá las funciones siguientes:
+
+I. Establecer, negociar, formalizar, administrar y evaluar el cumplimiento de los términos y condiciones de los contratos de compra de Hidrocarburos a terceros;
+
+II. Establecer, negociar, formalizar, administrar y evaluar el cumplimiento de los términos y condiciones de los contratos de venta de Hidrocarburos a terceros;
+
+III. Establecer, negociar, formalizar, administrar y evaluar el cumplimiento de los términos y condiciones de los contratos de servicios asociados a la comercialización de Hidrocarburos;
+
+IV. Mantener actualizados los sistemas institucionales relacionados con las transacciones de compra y venta de Hidrocarburos y servicios asociados;
+
+V. Gestionar las metodologías y modelos de precios de Hidrocarburos ante las instancias competentes, y
+
+VI. Participar en la aplicación de planes de respuesta a contingencias operativas en la recolección, transporte y entrega de Hidrocarburos.
+
+#### SECCIÓN DÉCIMA SEGUNDA. DE LA SUBDIRECCIÓN DE ADMINISTRACIÓN DEL PORTAFOLIO
+
+###### Artículo 94.
+
+La Subdirección de Administración del Portafolio tendrá las funciones siguientes:
+
+I. Participar en las actividades de la Planeación Estratégica Institucional;
+
+II. Participar en la elaboración del programa de ejecución de la estrategia de Pemex Exploración y Producción y coordinar su implementación en materia de desarrollo y producción;
+
+III. Documentar e informar a las áreas competentes de Pemex Exploración y Producción las inversiones en materia de desarrollo y producción;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+IV. Coordinar la evaluación integral del negocio;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+V. Coordinar el proceso de dictamen técnico de proyectos/asignaciones de desarrollo y producción;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+VI. Coordinar los servicios de administración de información técnica, conocimiento técnico, Aplicaciones Informáticas Especializadas y mejores prácticas de Desarrollo y Producción;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+VII. Coordinar la definición y alcances de los servicios de la Tecnología de Información;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+VIII. Coordinar las redes de especialistas, mentores técnicos, líderes de disciplina y asignación de talento técnico;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+IX. Participar en la integración de la estrategia y la definición de alternativas de vanguardia tecnológica de Desarrollo y Producción;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+X. Coordinar y supervisar el cumplimiento regulatorio aplicable a la actividad de Desarrollo y Producción;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+XI. Coordinar la elaboración de lineamientos y metodologías de cálculo, para la programación, seguimiento, evaluación y control en materia de costos asociados a la Cadena de Valor de Pemex Exploración y Producción;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+XII. Definir la capacidad de recursos de ejecución y de tecnológica de asignaciones/campos de la Dirección de Desarrollo y Producción, y
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+XIII. Proponer oportunidades de alianzas de asignaciones/campos de Desarrollo y Producción.
+
+###### Artículo 95.
+
+La Gerencia de Dictamen Técnico de Proyectos tendrá las funciones siguientes:
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+I. Coordinar la participación de los pares técnicos, la integración de la documentación y el proceso del dictamen técnico de los proyectos/asignaciones de inversión de desarrollo y producción;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+II. Definir y vigilar la aplicación de la metodología a seguir durante el proceso de diseño de proyectos/asignaciones de inversión de desarrollo y producción;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+III. Dirigir el dictamen técnico de los proyectos/asignaciones de inversión de desarrollo y producción;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+IV. Administrar el resguardo de documentación y dictamen de los proyectos/asignaciones de inversión de desarrollo y producción, debiendo proporcionar dicha información cuando le sea requerida por las áreas de Pemex que dan seguimiento a los proyectos/asignaciones de inversión y sus obras, y
+
+V. Definir y vigilar la aplicación de metodologías, procesos y estándares en materia de Intervenciones a Pozos.
+
+###### Artículo 96.
+
+La Gerencia de Integración, Optimización y Evaluación del Portafolio tendrá las funciones siguientes:
+
+I. Documentar, evaluar, integrar y optimizar el portafolio y la cartera de inversiones de desarrollo de campos y producción;
+
+II. Participar en el diseño, implementación y supervisión de las estrategias o de desarrollo de campos y producción, así como en la elaboración e implementación del programa de ejecución de la estrategia de Pemex Exploración y Producción;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+III. Coordinar la aplicación de metodologías para documentación de proyectos/asignaciones de inversión de desarrollo de campos y producción;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+IV. Coordinar y dar seguimiento al desempeño del negocio de la Dirección de Desarrollo y Producción, así como definir e implantar el proceso de evaluación e indicadores de desempeño y metas del programa de ejecución de la estrategia del mismo;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+V. Determinar los resultados, valor económico y viabilidad financiera de los proyectos de la Dirección de Desarrollo y Producción;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+VI. Determinar la capacidad de recursos de ejecución y tecnológica de asignaciones/campos de la Dirección de Desarrollo y Producción, y
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+VII. Proponer oportunidades de alianzas de asignaciones/campos de Desarrollo y Producción.
+
+###### Artículo 97.
+
+La Gerencia de Gestión de Desarrollo y Producción tendrá las funciones siguientes:
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+I. Elaborar los programas operativos de actividad física, incorporación de reservas, producción, manejo y entrega de Hidrocarburos y de recursos financieros y darles seguimiento;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+II. Coordinar, gestionar y desarrollar los mecanismos de identificación y análisis de los factores críticos de los proyectos/asignaciones y su ejecución;
+
+III. Participar en la gestión y establecimiento de estándares e indicadores de desempeño de las actividades de Desarrollo y Producción;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+IV. Coordinar el proceso de seguimiento y análisis de desviaciones de las metas físicas, volumétricas y financieras establecidas en los proyectos/asignaciones de inversión y programas operativos e informar a las instancias competentes sobre los avances en la planeación y ejecución de los programas, proyectos/asignaciones e iniciativas de Desarrollo y Producción y su problemática;
+
+V. Coordinar la integración de la documentación para su presentación a los Órganos de Gobierno de Pemex Exploración y Producción y de Pemex, así como ante dependencias y entidades de la Administración Pública Federal, y
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+VI. Administrar y actualizar la información oficial de la Base de Datos Institucional de Pemex Exploración y Producción.
+
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 97 Bis.
 
 La Gerencia de Administración de Información Técnica de Explotación tendrá las funciones siguientes:
 
-I. Identificar la información técnica relevante de los proyectos y actividades de la Cadena de Valor, así como establecer los lineamientos para su recolección, captura, validación, clasificación, almacenamiento y difusión de información y mejores prácticas;
+I. Identificar la información técnica relevante de los proyectos/asignaciones y actividades de la Cadena de Valor, así como establecer los procedimientos para su recolección, captura, validación, clasificación, almacenamiento y difusión de información y mejores prácticas;
 
 II. Gestionar los mecanismos de administración de la información técnica y controlar su uso, resguardo, entrega, transferencia y difusión;
 
 III. Coordinar la gestión de los contratos de las Aplicaciones Informáticas Especializadas, así como administrar su ejecución y aprovechamiento;
 
-IV. Definir, coordinar y gestionar con la Dirección Corporativa de Procesos de Negocio y Tecnología de Información, la realización de los servicios que dicha unidad administrativa presta, y
+IV. Definir, coordinar y gestionar con la Dirección Corporativa de Procesos de Negocio y Tecnología de Información, la realización de los servicios que dicha área presta, y
 
 V. Analizar, dictaminar y evaluar el desempeño de las solicitudes de las asistencias técnicas especializadas para el desarrollo de actividades de la Cadena de Valor de Desarrollo y Producción.
 
-###### Artículo 89.
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 97 Ter.
 
 La Gerencia de Cumplimiento Regulatorio tendrá las funciones siguientes:
 
@@ -2007,199 +2643,43 @@ VI. Dar apoyo a otras áreas de la Dirección de Desarrollo y Producción en mat
 
 VII. Difundir al interior de la Dirección de Desarrollo y Producción la regulación emitida por las autoridades para su debida observancia.
 
-#### SECCIÓN DÉCIMA PRIMERA. DE LA SUBDIRECCIÓN DE ACONDICIONAMIENTO Y DISTRIBUCIÓN DE HIDROCARBUROS
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
 
-###### Artículo 90.
+###### Artículo 97 Quáter.
 
-La Subdirección de Acondicionamiento y Distribución de Hidrocarburos tendrá las funciones siguientes:
+La Gerencia de Seguimiento y Mejora Continua de Costos tendrá las funciones siguientes:
 
-I. Coordinar la medición, transporte, acondicionamiento, almacenamiento y distribución de Hidrocarburos, así como las ventas de primera mano y ventas entre Empresas Productivas Subsidiarias que la Dirección de Desarrollo y Producción designe;
+I. Determinar y difundir procedimientos, premisas, reglas de negocio y metodologías de cálculo para la programación, ejecución y seguimiento de costos;
 
-II. Diseñar y coordinar estrategias operativas y comerciales en materia de sistemas de mezclado, distribución y compraventa de Hidrocarburos;
+II. Definir indicadores de seguimiento de costos, actividades y servicios alineados a las premisas de la Dirección Corporativa de Finanzas;
 
-III. Coordinar el desarrollo e implantación de sistemas de medición, monitoreo, automatización y control en ductos e instalaciones
+III. Llevar a cabo análisis comparativos de metodologías y niveles de costos de empresas a nivel internacional;
 
-IV. Vigilar y evaluar el desempeño en la administración y operación de los almacenes de residuos peligrosos y de manejo especial que generen sus áreas productivas y de servicios, y
+IV. Coordinar la determinación de cédulas de costos para la programación de las diversas actividades de la Cadena de Valor de Pemex Exploración y Producción;
 
-V. Adecuar y modernizar la infraestructura de explotación y transporte de Hidrocarburos.
+V. Dar seguimiento y evaluar los costos asociados a la ejecución de las actividades de la Cadena de Valor de Pemex Exploración y Producción;
 
-###### Artículo 91.
+VI. Identificar, documentar y proponer acciones de mejora continua de costos asociados a las diferentes actividades de la Cadena de Valor de Pemex Exploración y Producción, y
 
-La Gerencia de Coordinación de Operación tendrá las funciones siguientes:
+VII. Definir los requerimientos del negocio en cuanto a herramientas y sistemas para la estimación y el seguimiento de costos.
 
-I. Coordinar las operaciones de distribución y manejo de Hidrocarburos producidos en territorio nacional;
-
-II. Proponer y desarrollar proyectos de optimización de infraestructura para el transporte, distribución y acondicionamiento de Hidrocarburos;
-
-III. Integrar los planes y programas periódicos para la disponibilidad y distribución de la producción de la Dirección de Desarrollo y Producción;
-
-IV. Evaluar el cumplimiento diario de los programas de disponibilidad de la producción;
-
-V. Establecer los parámetros operativos para el transporte en la venta de Hidrocarburos;
-
-VI. Dirigir las operaciones en la aplicación de planes de respuesta a emergencias, y
-
-VII. Administrar los procesos estratégicos y coordinar la operación de los sistemas de información de transporte y distribución de Hidrocarburos.
-
-###### Artículo 92.
-
-La Gerencia de Estrategia de Comercialización de Hidrocarburos y Servicios tendrá las funciones siguientes:
-
-I. Desarrollar modelos de mezclas de petróleo crudo y gas natural;
-
-II. Establecer y negociar los términos y condiciones para la comercialización de petróleo crudo, gas natural, condensado, insumos y servicios asociados a la producción, así como su administración y evaluación;
-
-III. Gestionar los permisos, autorizaciones, metodologías y modelos de precios y tarifas ante las instancias competentes para la realización de las actividades de la Subdirección;
-
-IV. Llevar a cabo la administración financiera de las ventas de petróleo crudo, gas natural, condensados y derivados a exportación y entre Empresas Productivas Subsidiarias;
-
-V. Implementar mejoras continuas en sus procesos;
-
-VI. Elaborar los programas de nominaciones de petróleo crudo, gas natural y condensado, de corto, mediano y largo plazo;
-
-VII. Identificar y documentar oportunidades de negocio de transporte y distribución de Hidrocarburos, y
-
-VIII. Participar en los Grupos Directivos de las Alianzas y ejecutar los programas operativos de alianzas.
-
-###### Artículo 93.
-
-Las Gerencias de Acondicionamiento y Distribución de Hidrocarburos Norte, de Acondicionamiento y Distribución de Hidrocarburos Sur, de Acondicionamiento y Distribución de Hidrocarburos Marina Noreste y de Acondicionamiento y Distribución de Hidrocarburos Marina Suroeste, tendrán cada una dentro del ámbito de su competencia, las funciones siguientes:
-
-I. Llevar a cabo el transporte, acondicionamiento y distribución de los Hidrocarburos;
-
-II. Determinar y llevar a cabo el mantenimiento de su infraestructura;
-
-III. Ejecutar el plan de implantación del sistema de confiabilidad operativa y el sistema de seguridad, salud en el trabajo y la protección ambiental;
-
-IV. Ejecutar los planes de respuesta a emergencias;
-
-V. Administrar y operar los almacenes de residuos peligrosos y de manejo especial que generen sus áreas productivas y de servicios, acorde a los lineamientos emitidos en materia ambiental, y
-
-VI. Implantar los sistemas de medición, monitoreo, automatización y control en ductos e instalaciones.
-
-#### SECCIÓN DÉCIMA SEGUNDA. DE LA SUBDIRECCIÓN DE ADMINISTRACIÓN DEL PORTAFOLIO
-
-###### Artículo 94.
-
-La Subdirección de Administración del Portafolio tendrá las funciones siguientes:
-
-I. Participar en las actividades de la Planeación Estratégica Institucional;
-
-II. Participar en la elaboración del programa de ejecución de la estrategia de Pemex Exploración y Producción y coordinar su implementación en materia de desarrollo y producción;
-
-III. Documentar e informar a las áreas competentes de Pemex Exploración y Producción las inversiones en materia de desarrollo y producción;
-
-IV. Coordinar la evaluación integral del negocio, y
-
-V. Coordinar el proceso de dictamen técnico de proyectos de desarrollo y producción.
-
-###### Artículo 95.
-
-La Gerencia de Dictamen Técnico de Proyectos tendrá las funciones siguientes:
-
-I. Coordinar la participación de los pares técnicos, la integración de la documentación y el proceso del dictamen técnico de los proyectos de inversión de desarrollo y producción;
-
-II. Definir y vigilar la aplicación de la metodología a seguir durante el proceso de diseño de proyectos de inversión de desarrollo y producción;
-
-III. Dirigir el dictamen técnico de los proyectos de inversión de desarrollo y producción;
-
-IV. Administrar el resguardo de documentación y dictamen de los proyectos de inversión de desarrollo y producción, debiendo proporcionar dicha información cuando le sea requerida por las áreas de Pemex que dan seguimiento a los proyectos de inversión y sus obras, y
-
-V. Definir y vigilar la aplicación de metodologías, procesos y estándares en materia de Intervenciones a Pozos.
-
-###### Artículo 96.
-
-La Gerencia de Integración, Optimización y Evaluación del Portafolio tendrá las funciones siguientes:
-
-I. Documentar, evaluar, integrar y optimizar el portafolio y la cartera de inversiones de desarrollo de campos y producción;
-
-II. Participar en el diseño, implementación y supervisión de las estrategias o de desarrollo de campos y producción, así como en la elaboración e implementación del programa de ejecución de la estrategia de Pemex Exploración y Producción;
-
-III. Coordinar la aplicación de metodologías para documentación de proyectos de inversión de desarrollo de campos y producción;
-
-IV. Coordinar y dar seguimiento al desempeño del negocio de la Dirección de Desarrollo y Producción, así como definir e implantar el proceso de evaluación e indicadores de desempeño y metas del programa de ejecución de la estrategia del mismo, y
-
-V. Determinar los resultados, costos, valor económico y viabilidad financiera de la Dirección de Desarrollo y Producción.
-
-###### Artículo 97.
-
-La Gerencia de Gestión de Desarrollo y Producción tendrá las funciones siguientes:
-
-I. Elaborar los programas operativos de actividad física, incorporación de reservas, producción, distribución de Hidrocarburos y de recursos financieros y darles seguimiento;
-
-II. Coordinar, gestionar y desarrollar los mecanismos de identificación y análisis de los factores críticos de los proyectos y su ejecución;
-
-III. Participar en la gestión y establecimiento de estándares e indicadores de desempeño de las actividades de Desarrollo y Producción;
-
-IV. Coordinar el proceso de seguimiento y análisis de desviaciones de las metas físicas, volumétricas y financieras establecidas en los proyectos de inversión y programas operativos e informar a las instancias competentes sobre los avances en la planeación y ejecución de los programas, proyectos e iniciativas de Desarrollo y Producción y su problemática;
-
-V. Coordinar la integración de la documentación para su presentación a los Órganos de Gobierno de Pemex Exploración y Producción y de Pemex, así como ante dependencias y entidades de la Administración Pública Federal, y
-
-VI. Administrar las bases de datos de Desarrollo y Producción.
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
 
 #### SECCIÓN DÉCIMA TERCERA. DE LA SUBDIRECCIÓN DE GESTIÓN DE ALIANZAS
 
 ###### Artículo 98.
 
-La Subdirección de Gestión de Alianzas tendrá las funciones siguientes:
-
-I. Definir y supervisar los procesos para la identificación, formulación y documentación de nuevas oportunidades de negocio en coordinación con las áreas competentes;
-
-II. Aplicar la estrategia para el establecimiento de nuevas alianzas y Farm Outs para la mejor gestión de los recursos y participaciones accionarias en las alianzas o asociaciones en coordinación con las áreas competentes;
-
-III. Realizar las gestiones con las autoridades competentes para solicitar la migración de las asignaciones otorgadas, a contratos de exploración y extracción;
-
-IV. Coordinar la transferencia de recursos presupuestales que aseguren el cumplimiento de las obligaciones contractuales adquiridas con socios y con el Estado Mexicano;
-
-V. Supervisar el cumplimiento y la administración de los contratos integrales de Exploración y Producción (CIEP) y los contratos de obra pública financiada (COPF) de los contratos que se firmen con socios y con el Estado Mexicano y evaluar su desempeño, así como suscribir los contratos que establece el Título Segundo de la Ley de Hidrocarburos;
-
-VI. Consolidar la información para atender los requerimientos de autoridades internas y externas respecto a los contratos integrales de Exploración y Producción (CIEP) y los contratos de obra pública financiada (COPF) de los contratos que se firmen con socios y con el Estado Mexicano, en coordinación con otras áreas competentes;
-
-VII. Coordinar la difusión y capacitación para dar cumplimiento a las obligaciones adquiridas en contratos en alianzas y Farm Outs, y
-
-VIII. Participar en los Grupos Directivos de las Alianzas y coordinar la implementación de los acuerdos.
+(DEROGADO, D.O.F. 29 DE DICIEMBRE DE 2015)
 
 ###### Artículo 99.
 
-La Gerencia de Identificación, Selección y Evaluación de Oportunidades tendrá las funciones siguientes:
-
-I. Identificar oportunidades y formular los casos de negocio para monetizar los activos de desarrollo y producción a través de la incorporación de socios;
-
-II. Integrar el portafolio de nuevas oportunidades de inversión en materia de desarrollo y producción;
-
-III. Realizar la valuación de mercado, proponer y estructurar los casos para migrar asignaciones a contratos para la exploración y extracción de Hidrocarburos;
-
-IV. Proponer los elementos técnicos, operativos, de ejecución y financieros que deberán cubrir los potenciales socios para alianzas y Farm Outs conforme a las disposiciones aplicables;
-
-V. Participar en las licitaciones públicas que representen oportunidades de negocio para desarrollo y producción en coordinación con otras áreas competentes;
-
-VI. Documentar y gestionar las aprobaciones necesarias ante las diferentes autoridades del sector y órganos reguladores, para migración de asignaciones a contratos para la Exploración y Producción de Hidrocarburos, en coordinación con las áreas competentes;
-
-VII. Identificar posibles socios, conducir los contactos iniciales y participar en las negociaciones, en coordinación con las áreas competentes;
-
-VIII. Proponer modificaciones a los términos y condiciones de los Contratos Estandarizados para el estudio, valuación, creación y terminación de alianzas;
-
-IX. Proponer, formular casos de negocio y participar en la evaluación de oportunidades de fusiones o adquisiciones para capturar oportunidades que agreguen valor al negocio de desarrollo de campos, distribución, acondicionamiento y producción de Hidrocarburos, y
-
-X. Elaborar e instrumentar mecanismos de difusión, capacitación y dar asistencia técnica interna en materia de formulación de casos de negocios que impliquen alianzas y Farm Outs, en coordinación con la Dirección Corporativa de Recursos Humanos.
+(DEROGADO, D.O.F. 29 DE DICIEMBRE DE 2015)
 
 ###### Artículo 100.
 
-La Gerencia de Administración de Alianzas tendrá las funciones siguientes:
+(DEROGADO, D.O.F. 29 DE DICIEMBRE DE 2015)
 
-I. Documentar y gestionar la transferencia de recursos técnicos y financieros que aseguren el cumplimiento de las obligaciones contractuales adquiridas con socios y con el Estado Mexicano;
-
-II. Administrar los contratos integrales de Exploración y Producción (CIEP), contratos de obra pública financiada (COPF) y los que se firmen con socios y con el Estado Mexicano, así como evaluar su desempeño;
-
-III. Recopilar e integrar la información para atender los requerimientos de autoridades internas y externas respecto a los contratos integrales de Exploración y Producción (CIEP), contratos de obra pública financiada (COPF) y los que se firmen con socios y con el Estado Mexicano;
-
-IV. Verificar la mejora continua del proceso de administración de alianzas, Farm Outs y de identificación, selección y evaluación de oportunidades;
-
-V. Administrar y supervisar las alianzas desde el punto de vista operativo a través de los comités y grupos de trabajo establecidos, incluyendo la propuesta de modificación o en su caso terminación de la alianza, en coordinación con otras áreas competentes;
-
-VI. Aplicar mejores prácticas en la industria para la gestión de las alianzas y Farm Outs, y
-
-VII. Administrar, supervisar, gestionar, y en su caso operar los vehículos que formen parte de las alianzas y Farm Outs de manera coordinada con las áreas competentes.
+### CAPÍTULO CUARTO. DE LA DIRECCIÓN DE EXPLORACIÓN
 
 #### SECCIÓN PRIMERA. DE LA DIRECCIÓN DE EXPLORACIÓN
 
@@ -2229,11 +2709,15 @@ La Subdirección de Soluciones Geofísicas tendrá las funciones siguientes:
 
 I. Proponer y Autorizar la aplicación de soluciones geofísicas a la actividad exploratoria;
 
-II. Verificar el cumplimiento de los programas de adquisición y procesamiento geofísico;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
 
-III. Acordar y autorizar la transferencia de la información geofísica a la autoridad que corresponda, y
+II. Verificar el cumplimiento de los programas de adquisición y procesamiento geofísico, y
 
-IV. Coordinar los servicios de administración de información técnica, conocimiento técnico, Aplicaciones Informáticas Especializadas y mejores prácticas de Exploración.
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+III. Acordar y autorizar la transferencia de la información geofísica a la autoridad que corresponda.
+
+IV. (DEROGADA, D.O.F. 29 DE DICIEMBRE DE 2015)
 
 ###### Artículo 103.
 
@@ -2273,25 +2757,7 @@ IV. Identificar, evaluar y proponer Tecnologías Especializadas que permitan mej
 
 ###### Artículo 106.
 
-La Gerencia de Administración de Información Técnica de Exploración tendrá las funciones siguientes:
-
-I. Identificar la información técnica relevante de los proyectos y actividades de la Cadena de Valor, así como establecer los lineamientos para su recolección, captura, validación, clasificación, almacenamiento y difusión de información y mejores prácticas;
-
-II. Gestionar los mecanismos de administración de la información técnica y controlar su uso, resguardo, entrega, transferencia y difusión;
-
-III. Coordinar la gestión de los contratos de las Aplicaciones Informáticas Especializadas, así como administrar su ejecución y aprovechamiento;
-
-IV. Coordinar y gestionar con la Dirección Corporativa de Procesos de Negocio y Tecnología de Información, la realización de los servicios que dicha unidad administrativa presta;
-
-V. Analizar, dictaminar y evaluar el desempeño de las solicitudes de las asistencias técnicas especializadas para el desarrollo de actividades de la Cadena de Valor de Exploración;
-
-VI. Documentar propuestas para la integración de la estrategia tecnológica de Exploración;
-
-VII. Coordinar la identificación e implementación de nuevas tecnologías en Exploración;
-
-VIII. Instrumentar las redes de especialistas, mentores técnicos, líderes de disciplina y asignación de talento técnico, y
-
-IX. Coordinar los derechos de propiedad intelectual de Exploración.
+(DEROGADO, D.O.F. 29 DE DICIEMBRE DE 2015)
 
 #### SECCIÓN TERCERA. DE LA SUBDIRECCIÓN DE GEOCIENCIAS Y ASEGURAMIENTO TÉCNICO
 
@@ -2301,9 +2767,17 @@ La Subdirección de Geociencias y Aseguramiento Técnico tendrá las funciones s
 
 I. Coordinar los estudios exploratorios, enfocados al entendimiento de Cuencas, Sistemas Petroleros, Plays y prospectos;
 
-II. Supervisar el cumplimiento de la integridad técnica del proceso de evaluación del potencial e incorporación de reservas, y
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
 
-III. Verificar el alineamiento e integridad técnica de las propuestas de acceso a nuevas áreas.
+II. Supervisar el cumplimiento de la integridad técnica del proceso de evaluación del potencial e incorporación de reservas;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+III. Verificar el alineamiento e integridad técnica de las propuestas de acceso a nuevas áreas, y
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+IV. Coordinar los servicios de administración de información técnica, conocimiento técnico, Aplicaciones Informáticas Especializadas y mejores prácticas de Exploración.
 
 ###### Artículo 108.
 
@@ -2337,6 +2811,30 @@ III Verificar la congruencia del portafolio integral de Oportunidades y Localiza
 
 IV. Integrar, validar y mantener actualizada la base de datos de Oportunidades y Localizaciones Exploratorias.
 
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 110 Bis.
+
+La Gerencia de Administración de Información Técnica de Exploración tendrá las funciones siguientes:
+
+I. Identificar la información técnica relevante de los proyectos/asignaciones y actividades de la Cadena de Valor, así como establecer los procedimientos para su recolección, captura, validación, clasificación, almacenamiento y difusión de información y mejores prácticas;
+
+II. Gestionar los mecanismos de administración de la información técnica y controlar su uso, resguardo, entrega, transferencia y difusión;
+
+III. Coordinar la gestión de los contratos de las Aplicaciones Informáticas Especializadas, así como administrar su ejecución y aprovechamiento;
+
+IV. Coordinar y gestionar con la Dirección Corporativa de Procesos de Negocio y Tecnología de Información, la realización de los servicios que dicha unidad administrativa presta;
+
+V. Analizar, dictaminar y evaluar el desempeño de las solicitudes de las asistencias técnicas especializadas para el desarrollo de actividades de la Cadena de Valor de Exploración;
+
+VI. Documentar propuestas para la integración de la estrategia tecnológica de Exploración;
+
+VII. Coordinar la identificación e implementación de nuevas tecnologías en Exploración;
+
+VIII. Instrumentar las redes de especialistas, mentores técnicos, líderes de disciplina y asignación de talento técnico, y
+
+IX. Identificar y solicitar a la Dirección Jurídica la gestión de los derechos de propiedad intelectual de Exploración.
+
 #### SECCIÓN CUARTA. DE LA SUBDIRECCIÓN DE ADMINISTRACIÓN DEL PORTAFOLIO Y ACCESO A NUEVAS ÁREAS
 
 ###### Artículo 111.
@@ -2351,13 +2849,27 @@ III. Documentar e informar a las áreas competentes de Pemex Exploración y Prod
 
 IV. Administrar la integración y jerarquización del portafolio y la cartera de inversiones;
 
-V. Identificar, jerarquizar y proponer la participación de Pemex Exploración y Producción en alianzas y proyectos exploratorios en nuevas áreas;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+V. Identificar, jerarquizar y proponer la participación de Pemex Exploración y Producción en el acceso a proyectos exploratorios en nuevas áreas;
 
 VI. Validar la congruencia de las evaluaciones económicas de las oportunidades de inversión exploratoria;
 
-VII. Proponer la distribución de las asignaciones presupuestales alineadas a las prioridades y estrategias definidas en el Plan de Negocios, y
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
 
-VIII. Integrar y dar seguimiento a los programas operativos y al cumplimiento de las metas exploratorias.
+VII. Proponer la distribución de las asignaciones presupuestales alineadas a las prioridades y estrategias definidas en el Plan de Negocios;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+VIII. Integrar y dar seguimiento a los programas operativos y al cumplimiento de las metas exploratorias;
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+IX. Preparar y proponer los casos de negocio para las oportunidades de acceso a nuevas áreas, y
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+X. Supervisar la ejecución de los contratos derivados de alianzas para la exploración, en coordinación con las áreas competentes.
 
 ###### Artículo 112.
 
@@ -2371,11 +2883,15 @@ III. Documentar, evaluar, integrar y optimizar el portafolio y cartera de invers
 
 IV. Generar y jerarquizar escenarios económicos de proyectos en áreas asignadas y en su caso, de nuevas áreas, así como proponer los planes de inversión.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 113.
 
-La Gerencia de Gestión de Nuevas Áreas y Asociaciones, tendrá las funciones siguientes:
+La Gerencia de Gestión de Acceso a Nuevas Áreas tendrá las funciones siguientes:
 
-I. Identificar oportunidades y formular los casos de negocio en el entorno nacional e internacional;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+I. Proponer oportunidades de alianzas para exploración en el entorno nacional e internacional;
 
 II. Evaluar, jerarquizar y proponer el acceso a nuevas áreas, asociaciones y Farm Outs, para la participación en las licitaciones y la adjudicación de contratos para la exploración y extracción de Hidrocarburos;
 
@@ -2385,15 +2901,27 @@ IV. Identificar alternativas de asociaciones y alianzas con otras empresas;
 
 V. Participar en los procesos de negociación de acceso a nuevas áreas, asociaciones y Farm Outs;
 
-VI. Coordinar la ejecución de los contratos derivados de alianzas para la exploración;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+VI. Dar seguimiento y evaluación a la ejecución de los contratos derivados de alianzas para la exploración, en coordinación con otras áreas;
 
 VII. Administrar, supervisar, gestionar, y en su caso operar los vehículos parte de las alianzas de manera coordinada con las áreas competentes;
 
-VIII. Proponer los elementos técnicos, operativos, de ejecución y financieros que deberán cubrir los potenciales socios para alianzas conforme a las disposiciones aplicables;
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
 
-IX. Gestionar los mecanismos de difusión, capacitación y asistencia técnica interna en materia de formulación de casos de negocios que impliquen alianzas, y
+VIII. Integrar al portafolio de exploración las nuevas oportunidades de inversión;
 
-X. Participar en los Grupos Directivos de las Alianzas y coordinar la implementación de los acuerdos.
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+IX. Implantar los mecanismos de difusión, capacitación y asistencia técnica interna en materia de formulación de casos de negocios que impliquen alianzas;
+
+> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+X. Participar en los Grupos Directivos de las Alianzas y coordinar la implementación de los acuerdos, y
+
+> <small>(ADICIONADA, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+XI. Administrar las alianzas a través de los comités y grupos de trabajo establecidos, incluyendo la propuesta de modificación o en su caso terminación de la alianza, en coordinación con las áreas competentes.
 
 ###### Artículo 114.
 
@@ -2557,11 +3085,15 @@ En toda clase de juicios y procedimientos en que deban intervenir los Directores
 
 En caso de ausencia temporal de los Directores, los mismos serán suplidos por los funcionarios que se indican a continuación, en ese orden, o bien, por los servidores públicos que designe el Director Ejecutivo, quienes deberán ocupar la jerarquía inmediata inferior:
 
-a) El Director de Desarrollo y Producción por el Subdirector de Administración del Portafolio o por el Subdirector de Acondicionamiento y Distribución de Hidrocarburos;
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+a) El Director de Desarrollo y Producción por el Subdirector de Administración del Portafolio o por el Subdirector de Coordinación Operativa y Comercial;
 
 b) El Director de Exploración por el Subdirector de Administración del Portafolio y Acceso a Nuevas Áreas o por el Subdirector de Aseguramiento Operativo, y
 
-c) El Coordinador Operativo por el Subdirector de Auditoría de Reservas de Hidrocarburos o por el Subdirector de Transferencias de Exploración a Desarrollo y Producción.
+> <small>(REFORMADO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+c) El Director de Recursos, Reservas y Asociaciones por el Subdirector de Recursos Prospectivos y Auditoría de Reservas de Hidrocarburos o por el Subdirector de Transferencias de Exploración a Desarrollo y Producción.
 
 Tratándose de las ausencias del servidor público designado como Director Ejecutivo, el mismo será suplido por el Director que aquél designe, o bien por cualquiera de los otros Directores en el orden descendente establecido en los incisos anteriores.
 
@@ -2615,7 +3147,9 @@ En los supuestos señalados en el párrafo anterior, Pemex Exploración y Produc
 
 DÉCIMO. En cumplimiento al Acuerdo CA-094/2015, del 22 de mayo de 2015, adoptado en la Sesión 890 Extraordinaria del Consejo de Administración de Petróleos Mexicanos, la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Exploración y Producción, de manera transitoria operará y contará con los recursos humanos, materiales y financieros, así como los bienes, derechos y obligaciones que correspondían a la Unidad de Negocio de Perforación del Organismo Subsidiario Pemex-Exploración y Producción.
 
-Por lo anterior, la Unidad de Negocio de Perforación que correspondía al Organismo Subsidiario Pemex-Exploración y Producción, estará adscrita de manera transitoria a la Coordinación Operativa, que deberá coordinarse con las Direcciones Corporativas de Petróleos Mexicanos cuando así corresponda en términos del Estatuto Orgánico de Petróleos Mexicanos, y contará con las áreas y funciones siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+Por lo anterior, la Unidad de Negocio de Perforación que correspondía al Organismo Subsidiario Pemex-Exploración y Producción, estará adscrita de manera transitoria a la Dirección de Recursos, Reservas y Asociaciones, que deberá coordinarse con las Direcciones Corporativas de Petróleos Mexicanos cuando así corresponda en términos del Estatuto Orgánico de Petróleos Mexicanos, y contará con las áreas y funciones siguientes:
 
 1. Unidad de Negocio de Perforación.
 
@@ -2707,8 +3241,74 @@ II. Establecer directrices para la homologación y actualización de procedimien
 
 III. Administrar los proyectos de modernización de equipos para intervenciones de pozos.
 
+> <small>(ADICIONADO, D.O.F. 29 DE DICIEMBRE DE 2015)</small>
+
+DÉCIMO PRIMERO. En cumplimiento al Acuerdo CA-182/2015, del 24 de septiembre de 2015, adoptado en la Sesión 899 Extraordinaria del Consejo de Administración de Petróleos Mexicanos, la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Exploración y Producción, de manera transitoria operará y contará con las funciones de la Subdirección de Acondicionamiento y Distribución de Hidrocarburos, hasta en tanto dichas funciones sean realizadas por la Subdirección de Tratamiento y Logística Primaria de la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Logística.
+
+Las funciones a que se refiere el presente transitorio son las siguientes:
+
+I. Coordinar la medición, transporte, acondicionamiento, almacenamiento y distribución de Hidrocarburos, así como las ventas de primera mano y ventas entre Empresas Productivas Subsidiarias que la Dirección de Desarrollo y Producción designe;
+
+II. Diseñar y coordinar estrategias operativas y comerciales en materia de sistemas de mezclado, distribución y compraventa de Hidrocarburos;
+
+III. Coordinar el desarrollo e implantación de sistemas de medición, monitoreo, automatización y control en ductos e instalaciones;
+
+IV. Vigilar y evaluar el desempeño en la administración y operación de los almacenes de residuos peligrosos y de manejo especial que generen sus áreas productivas y de servicios;
+
+V. Adecuar y modernizar la infraestructura de explotación y transporte de Hidrocarburos;
+
+VI. Coordinar las operaciones de distribución y manejo de Hidrocarburos producidos en territorio nacional;
+
+VII. Proponer y desarrollar proyectos de optimización de infraestructura para el transporte, distribución y acondicionamiento de Hidrocarburos;
+
+VIII. Integrar los planes y programas periódicos para la disponibilidad y distribución de la producción de la Dirección de Desarrollo y Producción;
+
+IX. Evaluar el cumplimiento diario de los programas de disponibilidad de la producción;
+
+X. Establecer los parámetros operativos para el transporte en la venta de Hidrocarburos;
+
+XI. Dirigir las operaciones en la aplicación de planes de respuesta a emergencias;
+
+XII. Administrar los procesos estratégicos y coordinar la operación de los sistemas de información de transporte y distribución de Hidrocarburos;
+
+XIII. Desarrollar modelos de mezclas de petróleo crudo y gas natural;
+
+XIV. Establecer y negociar los términos y condiciones para la comercialización de petróleo crudo, gas natural, condensado, insumos y servicios asociados a la producción, así como su administración y evaluación;
+
+XV. Gestionar los permisos, autorizaciones, metodologías y modelos de precios y tarifas ante las instancias competentes para la realización de las actividades de la Subdirección;
+
+XVI. Llevar a cabo la administración financiera de las ventas de petróleo crudo, gas natural, condensados y derivados a exportación y entre Empresas Productivas Subsidiarias;
+
+XVII. Implementar mejoras continuas en sus procesos;
+
+XVIII. Elaborar los programas de nominaciones de petróleo crudo, gas natural y condensado, de corto, mediano y largo plazo;
+
+XIX. Identificar y documentar oportunidades de negocio de transporte y distribución de Hidrocarburos;
+
+XX. Participar en los Grupos Directivos de las Alianzas y ejecutar los programas operativos de alianzas;
+
+XXI. Llevar a cabo el transporte, acondicionamiento y distribución de los Hidrocarburos;
+
+XXII. Determinar y llevar a cabo el mantenimiento de su infraestructura;
+
+XXIII. Ejecutar el plan de implantación del sistema de confiabilidad operativa y el sistema de seguridad, salud en el trabajo y la protección ambiental;
+
+XXIV. Ejecutar los planes de respuesta a emergencias;
+
+XXV. Administrar y operar los almacenes de residuos peligrosos y de manejo especial que generen sus áreas productivas y de servicios, acorde a los lineamientos emitidos en materia ambiental, y
+
+XXVI. Implantar los sistemas de medición, monitoreo, automatización y control en ductos e instalaciones.”
+
 Una vez que el Consejo de Administración de Petróleos Mexicanos emita la Declaratoria de entrada en vigor del Acuerdo de Creación de la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Perforación y Servicios, la Empresa Productiva del Estado Subsidiaria de Petróleos Mexicanos, denominada Pemex Exploración y Producción deberá transferir a la primera, los recursos humanos, materiales y financieros, así como los bienes, derechos y obligaciones que correspondían a la Unidad de Negocio de Perforación del Organismo Subsidiario Pemex-Exploración y Producción.
 
 El presente Estatuto Orgánico de la Empresa Productiva del Estado subsidiaria de Petróleos Mexicanos denominada Pemex Exploración y Producción, fue aprobado por el Consejo de Administración de Pemex Exploración y Producción, con fundamento en el artículo 12, fracción VI y Transitorio Octavo del Acuerdo de Creación de la Empresa Productiva del Estado subsidiaria de Petróleos Mexicanos, denominada Pemex Exploración y Producción, en sesión de instalación celebrada el día 24 de junio de 2015, mediante acuerdo número CAEPS-PEP-004/2015.
 
 Ciudad de México, D.F., a 26 de junio de 2015.- El Director Jurídico de Petróleos Mexicanos, Marco Antonio de la Peña Sánchez.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 29 DE DICIEMBRE DE 2015.
+
+PRIMERO. Las presentes reformas, adiciones y derogaciones al Estatuto Orgánico de Pemex Exploración y Producción, entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Las áreas cuyas funciones se modifican o se crean en virtud de las reformas y adiciones al Estatuto Orgánico de Pemex Exploración y Producción, deberán realizar lo necesario para que se lleve a cabo la transferencia de los recursos humanos, materiales y financieros que correspondan, en coordinación con las Direcciones Corporativas de Petróleos Mexicanos competentes.
