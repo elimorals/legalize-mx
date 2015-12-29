@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-coordinacion-fiscal-del-estado-de-guanajuato-5334"
 country: "mx"
 rank: "ley"
 publication_date: "1991-12-27"
-last_updated: "2014-12-16"
+last_updated: "2015-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5334&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el viernes 27 de diciembre de 1991.
 
@@ -95,21 +95,21 @@ V.- 20% de la participación del Impuesto sobre Automóviles Nuevos; y
 
 VI.- 100% del Fondo de Fomento Municipal;
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-VII.- 20% de los recursos derivados del Fondo de Fiscalización y Recaudación; y
+VII.- 20% de los recursos derivados del Fondo de Fiscalización y Recaudación;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 16 DE DICIEMBRE DE 2014)</small>
+VIII.- 20% de los recursos derivados del Impuesto Especial sobre Producción y Servicios a la venta final de gasolinas y diesel;
 
-VIII.- 20% de los recursos derivados del Impuesto Especial sobre Producción y Servicios a la venta final de gasolinas y diesel; y
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+IX.- 20% del Fondo de Compensación del Impuesto Sobre Automóviles Nuevos; y
 
-> <small>(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-IX.- 20% del Fondo de Compensación del Impuesto Sobre Automóviles Nuevos.
+X.- 100% del Impuesto sobre la Renta participable correspondiente a los municipios, de conformidad con lo dispuesto por el artículo 3-B de la Ley de Coordinación Fiscal.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE DICIEMBRE DE 1996)</small>
 
@@ -153,7 +153,7 @@ La distribución de los ingresos provenientes del Fondo de Compensación del Imp
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
-###### ARTICULO 5.
+###### ARTICULO 5o.
 
 El Fondo de Fomento Municipal, se distribuirá entre los municipios de acuerdo con lo siguiente:
 
@@ -175,7 +175,7 @@ La mecánica de distribución anterior no será aplicable en el evento de que en
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
-###### ARTICULO 5-A.
+###### ARTICULO 5o-A.
 
 Las participaciones a municipios provenientes del Fondo de Fiscalización y Recaudación, se distribuirán de acuerdo a los siguientes criterios:
 
@@ -193,7 +193,7 @@ El fondo a que se refiere este artículo se distribuirá en forma trimestral, a 
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
-###### ARTICULO 5-B.
+###### ARTICULO 5o-B.
 
 Las participaciones a municipios provenientes de la aplicación del Impuesto Especial sobre Producción y Servicios a la venta final de gasolinas y diesel, se distribuirán de la siguiente manera:
 
@@ -225,7 +225,7 @@ Los recursos que obtengan los municipios de acuerdo con lo previsto en este art�
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
-###### ARTICULO 5-C.
+###### ARTICULO 5o-C.
 
 Las participaciones del Impuesto Especial sobre Producción y Servicios por la enajenación de cerveza, bebidas refrescantes, alcohol, bebidas alcohólicas fermentadas y bebidas alcohólicas, así como de tabaco labrado y los derechos por licencias de funcionamiento para la producción, almacenamiento, distribución y enajenación de bebidas alcohólicas, se distribuirán entre los municipios de acuerdo con lo siguiente:
 
@@ -245,55 +245,31 @@ b) El 50% restante entre todos los municipios, en razón proporcionalmente inver
 
 La mecánica de distribución anterior no será aplicable en el evento de que en el año de cálculo los recursos referidos en el artículo 3°, fracciones III y IV de esta Ley, sean inferiores a lo observado en 2007. En dicho supuesto, la distribución se realizará en función de la cantidad efectivamente generada en el año de cálculo y de acuerdo al coeficiente efectivo que cada Municipio haya recibido de dicho Fondo en el año 2007.
 
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 5o-D.
+
+Las participaciones a que se refiere el artículo 3, fracción X, de la presente Ley, se distribuirán a cada municipio del Estado, conforme al importe de la recaudación que se obtenga del Impuesto sobre la Renta que efectivamente se entere a la Federación en los términos de la Ley de Impuesto sobre la Renta, así como de las demás disposiciones normativas que para ese efecto establezca el Gobierno de la República, correspondiente al salario del personal que preste o desempeñe un servicio personal subordinado en las dependencias del municipio de que se trate, así como en sus entidades paramunicipales, siempre que el salario sea efectivamente pagado por los entes públicos municipales mencionados con cargo a sus participaciones u otros ingresos locales.
+
+Para efectos del párrafo anterior, se considerará la recaudación que se obtenga por el Impuesto sobre la Renta relativo, una vez descontadas las devoluciones por dicho concepto.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE DICIEMBRE DE 2014)</small>
-
-###### ARTICULO 5o.
-
-El Fondo de Fomento Municipal, el Impuesto Especial sobre Producción y Servicios y los Derechos por Licencias de Funcionamiento para Almacenamiento, Distribución y Compra-venta de Bebidas Alcohólicas, se distribuirán entre los municipios de acuerdo con lo siguiente:
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 25 DE DICIEMBRE DE 2007)</small>
-
-I.- Recibirán anualmente una cantidad igual a la que les hubiere correspondido en el año 2007; y
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2007)</small>
-
-II.- Adicionalmente percibirán la cantidad que resulte de aplicar al monto del incremento que tengan las participaciones a que se refiere este artículo en el año para el que se hace el cálculo en relación con el año 2007, el coeficiente que se determine conforme a las siguientes reglas:
-
-a).- El 50% por partes iguales entre la totalidad de los Municipios del Estado; y
-
-b).- El 50% restante entre todos los Municipios en razón proporcionalmente inversa a la Población, de acuerdo a lo que establece el Artículo 4o. Fracción II Inciso b) de esta Ley.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 25 DE DICIEMBRE DE 2007)</small>
-
-La mecánica de distribución anterior no será aplicable en el evento de que en el año de cálculo los recursos referidos en el artículo 3°., tracciones III, IV y VI de esta ley, sean interiores a lo observado en 2007. En dicho supuesto, la distribución se realizará en función de la cantidad efectivamente generada en el año de cálculo y de acuerdo al coeficiente efectivo que cada municipio haya recibido de dicho Fondo en el año 2007.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 25 DE DICIEMBRE DE 2007)</small>
 
 ###### ARTICULO 6o.
 
 El Gobierno del Estado, por conducto de la Secretaría de Finanzas, Inversión y Administración, pagará a los municipios de forma preliminar, las cantidades que les correspondan, derivadas de las participaciones a que se refiere el artículo 3 de la presente Ley, los días 10 y 25 de cada mes o al día siguiente hábil, las que deberán entregarse en efectivo y sin condicionamiento alguno.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-> <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
-
-En lo concerniente a las diferencias por ajustes, éstas se pagarán en la fecha más próxima de las indicadas en el párrafo precedente. Para el caso de ajustes a cargo de los municipios, los ajustes se aplicarán cuando exista la suficiencia presupuestal necesaria.
+En lo concerniente a las diferencias por ajustes y las participaciones a que se refiere el artículo 3, fracción X, de esta Ley, se pagarán dentro de los 5 días siguientes a su recepción. Para el caso de ajustes a cargo de los municipios, los ajustes se aplicarán cuando exista la suficiencia presupuestal necesaria.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2014)</small>
 
-###### ARTICULO 6°-A.
+###### ARTICULO 6o-A.
 
 Los municipios del estado deberán enviar a la Secretaría de Finanzas, Inversión y Administración la información de la recaudación del impuesto predial y los derechos por suministro de agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales, a que se refieren los artículos 4 y 5-A de la presente ley, a más tardar el último día hábil del mes de febrero del ejercicio posterior al que se informe; mediante el portal de internet o medios que para tal efecto habilite la Secretaría de Finanzas, Inversión y Administración.
 
@@ -313,15 +289,9 @@ La compensación entre el derecho del Municipio a recibir Participaciones, y las
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2013)</small>
 
-###### ARTICULO 8.
-
-El Gobierno del Estado, por conducto de la Secretaría de Finanzas, Inversión y Administración, deberá publicar en el Periódico Oficial del Gobierno del Estado, así como en su página oficial de internet el calendario de entrega, porcentaje, fórmulas y variables utilizadas, así como los montos estimados de las participaciones que la Entidad reciba y de las que tenga obligación de participar a sus municipios. Para tal fin se atenderá lo establecido en la Ley de Coordinación Fiscal vigente en el ámbito federal.
-
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
-
 ###### ARTICULO 8o.
 
-El Gobierno del Estado, por conducto de la Secretaría de Finanzas, Inversión y Administración, deberá publicar en el Periódico Oficial y en uno de los de mayor circulación en la entidad, dentro del mes de enero de cada año, el monto de las participaciones que hubieren correspondido a cada uno de los municipios, durante el ejercicio fiscal del año inmediato anterior.
+El Gobierno del Estado, por conducto de la Secretaría de Finanzas, Inversión y Administración, deberá publicar en el Periódico Oficial del Gobierno del Estado, así como en su página oficial de internet el calendario de entrega, porcentaje, fórmulas y variables utilizadas, así como los montos estimados de las participaciones que la Entidad reciba y de las que tenga obligación de participar a sus municipios. Para tal fin se atenderá lo establecido en la Ley de Coordinación Fiscal vigente en el ámbito federal.
 
 > <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
 
@@ -482,3 +452,9 @@ P.O. 16 DE DICIEMBRE DE 2014.
 Artículo Primero. El presente Decreto entrará en vigor a partir del 1 de enero de 2015, previa publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. Se derogan las disposiciones legales que se opongan al presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 62, DE LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE REFORMAN LAS FRACCIONAES (SIC) VII, VIII Y IX DEL ARTÍCULO 3º Y EL ARTÍCULO 6º, SEGUNDO PÁRRAFO., Y SE ADISIONAN (SIC) LOS ARTÍCULOS 3º, CON UNA FRACIÓN (SIC) X; Y 5º-D DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO”.]
+
+Artículo Único. El presente Decreto entrará en vigor el 1 de enero de 2016, previa publicación en el Periódico Oficial del Gobierno del Estado.
