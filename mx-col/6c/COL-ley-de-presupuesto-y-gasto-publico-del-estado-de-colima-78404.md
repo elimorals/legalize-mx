@@ -4,7 +4,7 @@ identifier: "COL-ley-de-presupuesto-y-gasto-publico-del-estado-de-colima-78404"
 country: "mx"
 rank: "ley"
 publication_date: "2010-12-25"
-last_updated: "2015-08-01"
+last_updated: "2015-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78404&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY DE PRESUPUESTO Y GASTO PUBLICO DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 25 de diciembre de 2010.
 
@@ -641,13 +641,15 @@ A fin de dar cumplimiento a lo establecido en el artículo 8 Bis de esta Ley, lo
 
 La austeridad, racionalidad y disciplina en el gasto público será eje rector de la función pública, por lo que los sujetos de esta Ley, en el ámbito de su competencia, están obligados a:
 
-I. Limitar los gastos de comunicación social o institucional a un máximo del 0.5% de su presupuesto;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+l. Limitar los gastos de comunicación social o institucional a un máximo del 0.5% de su presupuesto; y hasta en un 6% para los poderes Legislativo y Judicial.
 
 II. Abstenerse de autorizar bonos, compensaciones, gratificaciones o donaciones que no se encuentren previamente contemplados en el presupuesto de la dependencia o entidad paraestatal y que no estén convenidas;
 
 III. Limitar la remodelación de oficinas de acuerdo al presupuesto aprobado para tal efecto, y solo cuando existan fallas estructurales que no puedan postergarse, implique una ocupación más eficiente de los espacios en los inmuebles, genere ahorros en el mediano plazo, o se destine a reparar daños provenientes de casos fortuitos;
 
-IV. Abstenerse de contratar seguros de gastos médicos mayores y cualquier otro servicio de salud con empresas privadas, con cargo al erario público;
+IV. (DEROGADA, P.O. 29 DE DICIEMBRE DE 2015)
 
 V. Adquirir y arrendar bienes inmuebles únicamente cuando no se cuente con bienes aptos para cubrir las necesidades correspondientes y, previo análisis costo-beneficio;
 
@@ -764,3 +766,9 @@ P.O. 1 DE AGOSTO DE 2015.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima"; sin perjuicio de los presupuestos y gastos que se hayan aprobado con anterioridad a la vigencia del mismo.
 
 SEGUNDO. En cumplimiento a las reformas y adiciones de este Decreto, para el ejercicio fiscal 2015, la previsión de recursos para gastos de operación de los sujetos de la Ley deberá reflejar las reducciones y supresión de partidas presupuestarias correspondientes.
+
+P.O. 29 DE DICIEMBRE DE 2015
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 39 POR EL QUE SE REFORMA EL ARTÍCULO 5, DE LA LEY DE DEUDA PÚBLICA DEL ESTADO DE COLIMA; ASÍ MISMO LA FRACCIÓN I, Y SE DEROGA LA FRACCIÓN IV, DEL ARTÍCULO 67 TER DE LA LEY DE PRESUPUESTO Y GASTO PÚBLICO DEL ESTADO DE COLIMA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial "El Estado de Colima".
