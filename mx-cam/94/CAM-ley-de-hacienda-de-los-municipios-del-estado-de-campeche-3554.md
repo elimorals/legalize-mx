@@ -4,7 +4,7 @@ identifier: "CAM-ley-de-hacienda-de-los-municipios-del-estado-de-campeche-3554"
 country: "mx"
 rank: "ley"
 publication_date: "1993-12-04"
-last_updated: "2014-12-23"
+last_updated: "2015-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3554&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "CAM"
 ---
 # LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 1 DE ABRIL DE 2016 EN EL P.O. DEL ESTADO DE CAMPECHE, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Campeche, el sábado 4 de diciembre de 1993.
 
@@ -451,11 +453,13 @@ Terrenos inexplotados 1.50%
 
 CARMEN
 
-URBANOS: Habitacional 0.20%
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-Comercial y de Servicios 0.30%
+URBANOS: Habitacional 0.17%
 
-Industrial 0.30%
+Comercial y de Servicios 0.29%
+
+Industrial 0.29%
 
 Baldíos 2.00%
 
@@ -1507,7 +1511,11 @@ Los propietarios o arrendatarios de predios donde estén establecidos comercios 
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
-ARTÍCULO. 85.- Los servicios de aseo y limpia por recolección de basura, deberán pagarse cada mes en la Tesorería Municipal correspondiente, de acuerdo al número de veces el salario mínimo general diario vigente en el Estado, de acuerdo con la siguiente:
+###### ARTÍCULO 85.
+
+Los servicios de aseo y limpia por recolección de basura, deberán pagarse cada mes en la Tesorería Municipal correspondiente, de acuerdo al número de veces el salario mínimo general diario vigente en el Estado, de acuerdo con la siguiente:
+
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 30 PUBLICADO EN EL P.O. DE 29 DE DICIEMBRE DE 2015, SE DEROGA EL GRUPO 2.</small>
 
 T A R I F A
 
@@ -1517,101 +1525,47 @@ DE BASURA GRUPO 1 GRUPO 2 GRUPO 3
 
 I.- Domiciliario por mes:
 
-A. Residencial 2.00 a 3.00 1.21 a 1.51 2.00 a 3.00
+A. Residencial 2.00 a 3.00 (DEROGADO) 2.00 a 3.00
 
-B. Media 1.50 a 2.00 0.90 a 1.12 1.50 a 2.00
+B. Media 1.50 a 2.00 (DEROGADO) 1.50 a 2.00
 
 C. Popular e interés
 
-social 1.00 a 1.50 0.44 a 0.60 1.00 a 1.50
+social 1.00 a 1.50 (DEROGADO) 1.00 a 1.50
 
-D.- Precaria 0.50 a 1.00 0.21 a 0.37 0.37 a 30.30
+D.- Precaria 0.50 a 1.00 (DEROGADO) 0.37 a 30.30
 
 II.- Comercial, Industrial
 
 y de prestación de servicios
 
-por mes: 5 a 300 0.37 a 45.45 0.37 a 30.30
+por mes: 5 a 300 (DEROGADO) 0.37 a 30.30
 
 III.- Servicios especiales
 
-por viaje: 50 22.72 3.78
+por viaje: 50 (DEROGADO) 3.78
 
 IV.- Por recolecta de productos dentro del relleno sanitario se cobrará por tonelada:
 
-A. Vidrio y chatarra 0.75 0.75 0.37
+A. Vidrio y chatarra 0.75 (DEROGADO) 0.37
 
-B. Papel y cartón 0.60 0.60 0.30
+B. Papel y cartón 0.60 (DEROGADO) 0.30
 
-C. Aluminio y plástico 0.75 0.75 0.37
+C. Aluminio y plástico 0.75 (DEROGADO) 0.37
 
-D. Trapo y varios 0.60 0.60 0.30
+D. Trapo y varios 0.60 (DEROGADO) 0.30
 
 E. Por descargar
 
 basura dentro del
 
-relleno sanitario: 20 0.75 0.37
+relleno sanitario: 20 (DEROGADO) 0.37
 
 > <small>(ADICIONADO, P.O. 26 DE DICIEMBRE DE 2013)</small>
 
 Para los efectos del presente artículo, el Municipio de Champotón, formará parte del Grupo 1.
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 26 DE DICIEMBRE DE 2013)</small>
-
-###### ARTÍCULO 85.
-
-Los servicios de aseo y limpia por recolección de basura, deberán pagarse cada mes en la Tesorería Municipal correspondiente, de acuerdo al número de veces el salario mínimo general diario vigente en el Estado, de acuerdo con la siguiente:
-
-T A R I F A
-
-RECOLECTA
-
-DE BASURA GRUPO 1 GRUPO 2 GRUPO 3
-
-I.- Domiciliario por mes:
-
-A. Residencial 1.21 a 1.51 1.21 a 1.51 0.60 a 0.75
-
-B. Media 0.90 a 1.12 0.90 a 1.12 0.44 a 0.56
-
-C. Popular e interés
-
-social 0.44 a 0.60 0.44 a 0.60 0.21 a 0.34
-
-D.- Precaria 0.21 a 0.37 0.21 a 0.37 0.10 a 0.18
-
-II.- Comercial, Industrial
-
-y de prestación de servicios
-
-por mes: 0.37 a 75.76 0.37 a 45.45 0.37 a 30.30
-
-III.- Servicios especiales
-
-por viaje: 37.98 22.72 3.78
-
-IV.- Por recolecta de
-
-productos dentro del
-
-relleno sanitario se
-
-cobrará por tonelada:
-
-A. Vidrio y chatarra 0.75 0.75 0.37
-
-B. Papel y cartón 0.60 0.60 0.30
-
-C. Aluminio y plástico 0.75 0.75 0.37
-
-D. Trapo y varios 0.60 0.60 0.30
-
-E. Por descargar
-
-basura dentro del
-
-relleno sanitario: 0.75 0.75 0.37
 
 #### SECCION TERCERA BIS. POR CONTROL Y LIMPIEZA DE LOTES BALDIOS
 
@@ -3072,3 +3026,11 @@ Primero.- El presente decreto entrará en vigor el día 1° de enero del año 20
 Segundo.- Se derogan todas las disposiciones legales y reglamentarias en lo que se opongan al presente decreto.
 
 Tercero.- Cuando el contenido de esta Ley se refiera al Código Fiscal del Estado, se entenderá que se remite al Código Fiscal Municipal del Estado de Campeche, y sólo en el caso que la figura, instrumento o término correspondiente, no se encontrare regulado por el citado Código, se aplicará supletoriamente el Código Fiscal del Estado.
+
+P.O. 29 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 30 POR EL QUE "SE REFORMA EL ARTÍCULO 26 Y SE DEROGA EL GRUPO 2 DEL ARTÍCULO 85 DE LA LEY DE HACIENDA DE LOS MUNICIPIOS DEL ESTADO DE CAMPECHE".]
+
+PRIMERO.- El presente decreto entrará en vigor el día 1º de enero de 2016, previa su publicación en el Periódico Oficial del Estado de Campeche.
+
+SEGUNDO.- La determinación y los pagos de derechos por Servicios de Aseo y Limpia por Recolección de Basura correspondientes a ejercicios fiscales de 2015 y anteriores, se realizarán conforme a las disposiciones jurídicas vigentes en el ejercicio fiscal respectivo atendiendo, en su caso, a las reglas legales de prescripción y caducidad.
