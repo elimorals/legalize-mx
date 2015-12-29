@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-kanasin-yucatan-58393"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-22"
-last_updated: "2008-12-27"
+last_updated: "2015-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58393&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "YUC"
 ---
 # LEY DE HACIENDA DEL MUNICIPIO DE KANASIN, YUCATAN
 
-LEY DE HACIENDA DEL MUNICIPIO DE KANASIN, YUCATAN
+LEY DE HACIENDA DEL MUNICIPIO DE KANASÍN, YUCATÁN
 
-ULTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 27 DE DICIEMBRE DE 2008.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO DE LA LEY DE HACIENDA DEL MUNICIPIO DE KANASÍN, YUCATÁN, PUBLICADA EN EL D.O. DE 29 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE DICIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el sábado 22 de diciembre de 2007.
 
@@ -1798,3 +1800,23 @@ D.O. 27 DE DICIEMBRE DE 2008.
 ###### ARTÍCULO ÚNICO.
 
 Este Decreto entrará en vigor al día siguiente a su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+D.O. 29 DE DICIEMBRE DE 2015.
+
+> <small>[N. DE E. ARTÍCULOS TRANSITORIOS DEL “DECRETO 330/2015 POR EL QUE SE EMITEN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE BACA, TEABO, UMÁN Y KANASÍN”.]</small>
+
+Artículo Primero.- Se abroga la Ley de Hacienda del Municipio de Kanasín, publicada en el Diario Oficial del Gobierno del Estado el día 22 de diciembre de 2007, mediante el Decreto 43 y sus reformas publicadas el 27 de diciembre del 2008 mediante Decreto 154.
+
+Artículo Segundo.- A partir de la entrada en vigor de la presente Ley quedan sin efecto todas las disposiciones fiscales que se opongan a la misma.
+
+Artículo Tercero.- El cobro de los derechos, así como las tasas, cuotas y tarifas aplicables a los servicios que a la fecha de la publicación de la presente Ley, no hayan sido transferidos formalmente al Ayuntamiento por el Gobierno del Estado, entrarán en vigor hasta la celebración del convenio respectivo.
+
+## ARTÍCULOS TRANSITORIOS
+
+###### ARTÍCULO PRIMERO.
+
+El cobro de los derechos, así como las tasas, cuotas y tarifas aplicables a los servicios que a la fecha de la publicación de este decreto, no hayan sido transferidos formalmente (sic) los Ayuntamientos por el Gobierno del Estado de Yucatán, entrarán en vigor hasta la celebración del convenio respectivo.
+
+###### ARTÍCULO SEGUNDO.
+
+Este Decreto, entrará en vigor el día 01 de enero del año 2016, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
