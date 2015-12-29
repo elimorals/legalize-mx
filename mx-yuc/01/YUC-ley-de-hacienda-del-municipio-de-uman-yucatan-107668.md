@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-hacienda-del-municipio-de-uman-yucatan-107668"
 country: "mx"
 rank: "ley"
 publication_date: "2015-04-27"
-last_updated: "2015-04-27"
+last_updated: "2015-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=107668&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "YUC"
 ---
 # LEY DE HACIENDA DEL MUNICIPIO DE UMAN, YUCATAN
 
-LEY DE HACIENDA DEL MUNICIPIO DE UMÁN, YUCATÁN
+LEY DE HACIENDA DEL MUNICIPIO DE UMÁN, YUCATÁN.
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO DE LA LEY DE HACIENDA DEL MUNICIPIO DE UMÁN, YUCATÁN, PUBLICADA EN EL D.O. DE 29 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE DICIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en la Edición Vespertina del Diario Oficial del Estado de Yucatán, el lunes 27 de abril de 2015.
 
@@ -2340,3 +2342,25 @@ Gobernador del Estado de Yucatán
 Roberto Antonio Rodríguez Asaf
 
 Secretario General de Gobierno
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O. 29 DE DICIEMBRE DE 2015.
+
+> <small>[N. DE E. ARTÍCULOS TRANSITORIOS DEL ARTÍCULO TERCERO DEL “DECRETO 330/2015 POR EL QUE SE EMITEN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE BACA, TEABO, UMÁN Y KANASÍN”.]</small>
+
+Artículo Primero.- Esta ley entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo.- En lo no previsto por esta Ley, se aplicará supletoriamente lo establecido por el Código Fiscal y la Ley de Hacienda Municipal, ambas del Estado de Yucatán.
+
+Artículo Tercero.- Se abroga la Ley de Hacienda del Municipio de Umán, publicada en el Diario Oficial del Gobierno del Estado de Yucatán de fecha 27 abril de 2015.
+
+> <small>[N. DE E. ARTÍCULOS TRANSITORIOS DEL “DECRETO 330/2015 POR EL QUE SE EMITEN LAS LEYES DE HACIENDA DE LOS MUNICIPIOS DE BACA, TEABO, UMÁN Y KANASÍN”.]</small>
+
+###### ARTÍCULO PRIMERO.
+
+El cobro de los derechos, así como las tasas, cuotas y tarifas aplicables a los servicios que a la fecha de la publicación de este decreto, no hayan sido transferidos formalmente (sic) los Ayuntamientos por el Gobierno del Estado de Yucatán, entrarán en vigor hasta la celebración del convenio respectivo.
+
+###### ARTÍCULO SEGUNDO.
+
+Este Decreto, entrará en vigor el día 01 de enero del año 2016, previa su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
