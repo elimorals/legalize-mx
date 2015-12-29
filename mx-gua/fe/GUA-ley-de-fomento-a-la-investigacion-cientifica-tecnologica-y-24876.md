@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-fomento-a-la-investigacion-cientifica-tecnologica-y-2487
 country: "mx"
 rank: "ley"
 publication_date: "2002-05-17"
-last_updated: "2013-06-07"
+last_updated: "2015-12-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24876&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "GUA"
 ---
 # LEY DE FOMENTO A LA INVESTIGACION CIENTIFICA, TECNOLOGICA Y A LA INNOVACION PARA EL ESTADO DE GUANAJUATO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE ENERO DE 2016 EN EL PERIÓDICO OFICIAL DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA, TECNOLÓGICA Y A LA INNOVACIÓN PARA EL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 17 de mayo de 2002.
 
@@ -37,17 +39,25 @@ DECRETO NUMERO 115.
 
 LA H. QUINCUAGESIMA OCTAVA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, DECRETA:
 
+> <small>[N. DE E. EL DECRETO NÚMERO 64, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA, PUBLICADO EN EL P.O. DE 29 DE DICIEMBRE DE 2015, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ORDENAMIENTO.]</small>
+
 LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA, TECNOLÓGICA Y A LA INNOVACIÓN PARA EL ESTADO DE GUANAJUATO
 
 ## TÍTULO PRIMERO
 
 ### CAPÍTULO ÚNICO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO [N. DE E. ADICIONADO SU ACÁPITE], P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+Objeto de la ley
+
 ###### Artículo 1o.
 
 La presente Ley es de orden público e interés social y tiene por objeto establecer las normas para:
 
-I.- Desarrollar, fortalecer y fomentar las capacidades científicas y tecnológicas en el Estado como instrumentos de promoción del desarrollo sustentable, la competitividad económica, la mejoría de la calidad de vida y la transformación cultural de la sociedad;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+I.- Dar las bases para la operación del Sistema de Innovación del Estado de Guanajuato el cual tiene como finalidad articular y potenciar las capacidades en materia de desarrollo científico, tecnológico y de innovación, además de fomentar la atracción, creación y desarrollo de empresas de base tecnológica en el estado.
 
 II.- Impulsar y fortalecer la generación, aplicación, divulgación y difusión de la investigación científica y tecnológica, el desarrollo tecnológico y de la innovación como inversiones estratégicas del Estado;
 
@@ -55,11 +65,19 @@ III.- Promover la coordinación y colaboración interinstitucional e intersector
 
 IV.- Promover la orientación de la investigación científica y tecnológica y de la innovación a las demandas del entorno social; la atención de la problemática y necesidades del Estado y de sus sectores gubernamental, académico, empleador y social y la generación y avance del conocimiento científico y tecnológico;
 
-V.- Fortalecer el Sistema de Ciencia y Tecnología del Estado mediante la formación, promoción y capacitación de recursos humanos de alto nivel académico;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-VI.- Realizar la planeación estatal en materia de ciencia y tecnología, así como la aprobación del Programa Estatal de Ciencia y Tecnología; y
+V.- Fortalecer el Sistema de Innovación del Estado de Guanajuato mediante la formación, promoción y capacitación de recursos humanos de alto nivel académico;
+
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+VI.- Realizar la planeación estatal en materia de innovación, ciencia y tecnología, así como la aprobación del Programa Estatal de Ciencia, Tecnología e Innovación; y
 
 VII.- Promover en las instituciones educativas de la Entidad, la investigación y el desarrollo de la ciencia y la tecnología.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO SU ACÁPITE], P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+Innovación actividad prioritaria
 
 ###### Artículo 2o.
 
@@ -67,19 +85,35 @@ La investigación científica y tecnológica, el desarrollo tecnológico y la in
 
 El Gobernador del Estado promoverá la investigación, el desarrollo tecnológico y la innovación para asegurar, mediante el fortalecimiento y promoción de las capacidades científicas y tecnológicas en general, el efectivo desarrollo económico, social, educativo y cultural de la Entidad.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO SU ACÁPITE], P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+Glosario
+
 ###### Artículo 3o.
 
 Para los efectos de esta Ley se entenderá por:
 
-I.- CONCYTEG: Al Consejo de Ciencia y Tecnología del Estado de Guanajuato;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+I.- SICES: Secretaría de Innovación, Ciencia y Educación Superior.
 
 II.- Investigación científica y tecnológica: Las actividades sistemáticas de generación, mejoramiento, divulgación, difusión y aplicación de los conocimientos en las diversas áreas relacionadas con la ciencia y la tecnología, orientadas a las demandas sociales, a la atención de la problemática de la Entidad, de sus sectores, así como al avance del conocimiento;
 
-III.- Desarrollo Tecnológico: El proceso de aplicación del conocimiento para la producción de bienes o servicios;
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+III.-. Desarrollo Tecnológico: El proceso de aplicación del conocimiento para la producción de bienes o servicios;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 29 DE DICIEMBRE DE 2015)</small>
 
 IV.- Innovación: La transformación de una idea en un producto, proceso de fabricación o enfoque de un servicio social determinado, en uno nuevo o mejorado, así como a la transformación de una tecnología en otra de mayor utilidad; y
 
-V.- Sistema de Ciencia y Tecnología del Estado: El integrado por las instituciones de educación superior y media superior; centros de investigación, instituciones o dependencias ejecutoras o financiadoras de acciones científicas y tecnológicas e instituciones u organismos dedicados a la difusión o divulgación científica y tecnológica.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+V.- SIEG: Sistema de Innovación del Estado de Guanajuato.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO SU ACÁPITE], P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+Autoridades
 
 ###### Artículo 4o.
 
@@ -89,19 +123,29 @@ I.- El Gobernador del Estado;
 
 II.- Los Ayuntamientos; y
 
-III.- El CONCYTEG.
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+III.- La Secretaría de Innovación, Ciencia y Educación Superior.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO SU ACÁPITE], P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+Atribuciones del Gobernador
 
 ###### Artículo 5o.
 
 Corresponde al Gobernador del Estado:
 
-I.- Planear, conducir y coordinar la política general que oriente el desarrollo sustentable del Estado a través de la ciencia y la tecnología impulsando acciones de fomento y colaboración entre las instituciones que integran el Sistema de Ciencia y Tecnología del Estado;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+I.- Planear, conducir y coordinar la política general que oriente el desarrollo sustentable del Estado a través de la innovación, la ciencia y la tecnología impulsando acciones de fomento y colaboración entre las Instituciones que integran el SIEG;
 
 > <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
 II.- Establecer en el Plan Estatal de Desarrollo y en el Programa de Gobierno del Estado las políticas y programas relativos al fomento de la ciencia y la tecnología en el Estado, de conformidad con lo previsto en esta Ley;
 
-III.- Aprobar y expedir el Programa Estatal de Ciencia y Tecnología;
+> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+III.- Aprobar y expedir el Programa Estatal de Ciencia, Tecnología e Innovación;
 
 > <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
 
@@ -115,13 +159,23 @@ VI.- Celebrar toda clase de actos jurídicos necesarios para el cumplimiento del
 
 VII.- Las demás que le señalen las disposiciones legales aplicables.
 
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
-
 ###### Artículo 5o Bis.
+
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 2015)
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+Recursos
+
+###### Artículo 6o.
 
 El Ejecutivo del Estado y los Ayuntamientos, en sus procesos de planeación, destinarán recursos económicos prioritarios, suficientes, oportunos y crecientes en términos reales en sus respectivos presupuestos de egresos para la investigación científica y tecnológica, desarrollo tecnológico e innovación.
 
-###### Artículo 6o.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+Competencia de los Ayuntamientos
+
+###### Artículo 7o.
 
 Los Ayuntamientos procurarán, en el ámbito de su competencia:
 
@@ -129,7 +183,7 @@ I.- Establecer las políticas conforme a las cuales desarrollen actividades que 
 
 II.- Fijar en sus presupuestos correspondientes los recursos necesarios para la realización de las actividades relacionadas con la ciencia y la tecnología;
 
-III.- Realizar las acciones necesarias para impulsar la ciencia y la tecnología en general, en coordinación con el Ejecutivo del Estado y con el CONCYTEG;
+III.- Realizar las acciones necesarias para impulsar la ciencia y la tecnología en general, en coordinación con el Ejecutivo del Estado;
 
 IV.- Participar en los órganos de consulta a que se refiere esta Ley;
 
@@ -139,275 +193,355 @@ VI.- Apoyar la formación de recursos humanos de alto nivel académico; y
 
 VII.- Realizar aquéllas otras actividades que se prevengan en esta Ley o en otros ordenamientos y que tengan como finalidad alcanzar el desarrollo municipal a través de las acciones relacionadas con el fortalecimiento y la promoción de la ciencia y la tecnología.
 
-###### Artículo 7o.
-
-El Consejo de Ciencia y Tecnología del Estado de Guanajuato, es un organismo público descentralizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propios.
-
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
-
-El Consejo estará sectorizado a Secretaría que se establezca en el Reglamento Interior del CONCYTEG.
-
 ## TÍTULO SEGUNDO
 
-### CAPÍTULO ÚNICO. DE LAS AUTORIDADES
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO PRIMERO. SISTEMA DE INNOVACIÓN DEL ESTADO DE GUANAJUATO
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+Fines del SIEG
 
 ###### Artículo 8o.
 
-El CONCYTEG, tendrá las siguientes atribuciones:
+El SIEG se integra con el conjunto de representantes del gobierno Estatal y Federal, de instituciones de educación superior públicas y privadas, centros de investigación, empresas y Parques Tecnológicos del estado de Guanajuato, que sin perder su identidad y régimen jurídico, se adhieren al SIEG, y en el marco de principios rectores, contribuyen de manera ordenada y articulada entre sí, a los siguientes fines:
 
-I.- Apoyar la investigación preferentemente científica y tecnológica, el desarrollo tecnológico y la innovación en el Estado mediante el impulso de proyectos de investigación y desarrollo en materia de ciencia y tecnología;
+I.- Articular y potenciar las capacidades científicas y tecnológicas de las instituciones que forman parte del SIEG para la atención de problemáticas relevantes del desarrollo social y económico de la entidad;
 
-II.- Formular las acciones tendientes a la generación, divulgación y difusión, así como la aplicación de la ciencia y la tecnología, del desarrollo tecnológico y de la innovación en el Estado;
+II.- Contribuir a la formulación de políticas públicas de beneficio social;
 
-III.- Apoyar la formación de recursos humanos de alto nivel académico para la investigación científica y tecnológica, mediante el fortalecimiento de los posgrados en el Estado, y en general de todos aquellos cursos y programas de actualización de conocimientos de alto nivel científico y tecnológico;
+III.- Aprovechar de manera integral los diferentes recursos materiales y humanos generados por la sinergia de los diferentes organismos participantes, en la realización de programas y proyectos cuyo objetivo sea el desarrollo de un Estado productivo, generador de inversión y con un desarrollo regional equilibrado y sustentable;
 
-IV.- Estimular la atracción y permanencia de investigadores en el Estado, coordinando sus acciones con los organismos públicos o privados que tengan esta misma función;
+IV.- Formar científicos y tecnólogos altamente competentes para impulsar el desarrollo de la región;
 
-V.- Mantener actualizada la información estadística relativa a la ciencia y a la tecnológica en el Estado, así como integrar y difundir estudios sobre ciencia y tecnología;
+V.- Contribuir a que el Estado sea exitoso en el desarrollo científico y tecnológico e innovación, que coadyuve continuamente a la mejora del bienestar de la población;
 
-VI.- Asesorar al Ejecutivo del Estado, a los municipios, a las dependencias del Gobierno Federal en el Estado, así como a las personas físicas o morales que lo soliciten sobre asuntos relacionados con la ciencia, la tecnología y la innovación;
+VI.- Coadyuvar con la atracción de inversiones nacionales y extranjeras que buscan obtener su consolidación o desarrollo competitivo a través del conocimiento y personal altamente calificado; y
 
-VII.- Fomentar la colaboración interinstitucional en materia de ciencia y tecnología y la vinculación de las instituciones de enseñanza, investigación y desarrollo tecnológico para la ejecución de acciones coordinadas;
+VII.- Contribuir a la industrialización, generación de empresas de base tecnológica y el impulso económico del Estado mediante el desarrollo y utilización de tecnologías modernas, altamente competitivas y sustentables.
 
-VIII.- Gestionar apoyos económicos y materiales ante las distintas instancias públicas y privadas que le permitan apoyar de manera creciente las actividades de ciencia y tecnología en los términos de esta Ley;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-IX.- Promover la participación de las comunidades científica y tecnológica del Estado para la toma de las decisiones;
-
-X.- Revisar, evaluar y actualizar periódicamente las políticas y estrategias con la finalidad de analizar sus impactos en la solución de los problemas del Estado y en la generación del conocimiento;
-
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
-
-XI.- Proponer al titular del Ejecutivo del Estado políticas y mecanismos de apoyo a la ciencia, la tecnología y la innovación en materia de estímulos fiscales y financieros, facilidades administrativas y de comercio exterior entre otros;
-
-XII.- Vigilar el cumplimiento de la presente Ley; y
-
-XIII.- Las demás inherentes al cumplimiento de su objeto y las que le señalen las disposiciones legales y reglamentarias aplicables.
+Principios rectores
 
 ###### Artículo 9o.
 
-El patrimonio del CONCYTEG se integrará con:
+Todas las actividades académicas, de generación y aplicación innovadora del conocimiento, y de formación de científicos y tecnólogos que se desarrollen en el marco del SIEG se regirán por los principios de colaboración, intercambio académico, pertinencia, calidad, competitividad, efectividad, responsabilidad, objetividad y honestidad.
 
-I.- Los recursos que en su favor se establezcan en el Presupuesto General de Egresos del Estado;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-II.- Las aportaciones, subsidios y apoyos que en su favor otorguen los Gobiernos Federal y Municipales;
-
-III.- Las aportaciones, herencias, donaciones, legados y demás recursos en dinero o en especie que reciba de personas físicas o morales por cualquier título legal;
-
-IV.- Los bienes y los productos de los fideicomisos en los que participe como fideicomisario;
-
-V.- Los ingresos y bienes muebles e inmuebles que adquiera por cualquier título legal para el cumplimiento de sus funciones y atribuciones; y
-
-VI.- Las utilidades, productos financieros y rendimientos de sus bienes y derechos.
+Actividades a potenciar
 
 ###### Artículo 10.
 
-El CONCYTEG contará con los siguientes órganos:
+Para cumplir con su objeto, el SIEG contará con una estructura organizativa y con mecanismos y medios eficaces que potencien y articulen las capacidades de las instituciones que forman parte del mismo, en materia de formación de recursos humanos de alto nivel, desarrollo científico, tecnológico y de innovación.
 
-I.- Consejo Directivo;
+El SIEG potenciará la Red de Parques Tecnológicos de Guanajuato para que puedan instalarse las instituciones de educación superior, los centros de investigación y las Empresas de Base Tecnológica, sin perder por ello, su identidad y régimen jurídico propio.
 
-II.- Consejo Técnico;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-III.- Dirección General; y
-
-IV.- Órgano de Vigilancia.
-
-El gobierno y administración del CONCYTEG estará a cargo del Consejo Directivo y del Director General, respectivamente. El control interno corresponderá al Órgano de Vigilancia.
+Evaluación
 
 ###### Artículo 11.
 
-El Consejo Directivo será la máxima autoridad y estará integrado por los siguientes miembros:
+La coordinación, integración, funcionamiento y cumplimiento de los fines del SIEG, serán evaluados cada tres años por los esquemas y procedimientos que la Secretaría de Innovación, Ciencia y Educación Superior proponga y sean aprobados por el Consejo Directivo del SIEG.
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-I.- Un ciudadano designado por el Gobernador del Estado, quien fungirá como Presidente;
-
-II.- El Director General del CONCYTEG, quien fungirá como Secretario, con derecho a voz, pero no a voto;
-
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
-
-III.- El titular de la Secretaría de la Transparencia y Rendición de Cuentas; y
-
-IV.- Catorce vocales, que serán:
-
-a) Los titulares de las Secretarías que establezca el Reglamento de la presente Ley;
-
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
-
-b) El Rector General de la Universidad de Guanajuato;
-
-c) Representantes del sector académico y empleador, que serán nombrados de conformidad con el Reglamento de la presente Ley.
-
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
-
-Cada integrante del Consejo Directivo designará un suplente. Los suplentes de los representantes de los sectores académicos y empleados del Estado serán nombrados por el Gobernador del Estado a propuesta del Director General del CONCYTEG.
-
-Los cargos de los integrantes del Consejo Directivo, salvo el de Director General serán honoríficos, por lo que no recibirán retribución, emolumento ni compensación alguna por su desempeño.
-
-> <small>(ADICIONADO, P.O. 7 DE JUNIO DE 2013)</small>
-
-Cuando acuda el Gobernador del Estado, éste asumirá la presidencia y el ciudadano presidente fungirá como vocal; ambos conservarán el derecho a voz y voto.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
+Consejo Asesor
 
 ###### Artículo 12.
 
-El titular de la Secretaría de la Transparencia y Rendición de Cuentas o su suplente, tendrá las siguientes atribuciones:
+El SIEG podrá asesorarse por un grupo de expertos integrados en un Consejo Asesor en las materias representativas de los sectores de educación, investigación, empresarial y social que considere necesarias para lograr los objetivos de la política en Ciencia, Tecnología e Innovación y la evaluación de la misma. Las propuestas y resultados de los expertos serán utilizados para definir o enriquecer las estrategias, programas, proyectos y acciones del SIEG, y con ello asegurar la mejora continua de su calidad en el cumplimiento de sus fines.
 
-I.- Asistir a las sesiones del Consejo Directivo;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-II.- Vigilar el cumplimiento de las políticas y acciones establecidas para la consecución de los objetivos del CONCYTEG;
+### CAPÍTULO SEGUNDO. INGRESO Y PERMANENCIA DE ORGANISMOS EN EL SIEG
 
-III.- Solicitar la información necesaria para el cumplimiento de sus funciones; y
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-IV.- Las demás que le otorgue esta Ley y otros ordenamientos jurídicos.
-
-### CAPÍTULO PRIMERO. DE SUS ATRIBUCIONES
+Esquema de colaboración
 
 ###### Artículo 13.
 
-La toma de decisiones y la mecánica del desarrollo de los asuntos competencia del Consejo Directivo será determinada en el Reglamento de la presente Ley.
+Las instituciones de educación superior, centros de investigación, empresas y Parques Tecnológicos en el Estado que deseen formar parte del SIEG y participar en sus programas, deberán estar dispuestas a contribuir a los fines del mismo, mediante esquemas de colaboración en materia de formación de recursos humanos, investigación científica, innovación, desarrollo tecnológico y uso compartido de infraestructura.
+
+Los centros de investigación e instituciones de educación superior que formen parte del SIEG deberán contar al menos con:
+
+I.- Programas educativos de Técnico Superior Universitario, licenciatura técnica, licenciatura o posgrados reconocidos por su buena calidad de acuerdo a su misión con base en los esquemas nacionales vigentes de evaluación y acreditación; y
+
+II.- Grupos de investigación o cuerpos académicos con probada capacidad para el desarrollo científico y tecnológico o la innovación y cuyas líneas de investigación contribuyan a los fines del SIEG.
+
+Los Centros de Investigación que no ofrezcan programas de posgrado, deberán contar con grupos de investigación con probada capacidad para la investigación científica o tecnológica y cuyas líneas de investigación demuestren resultados de impactos significativos y que contribuyan a los fines del SIEG.
+
+Las empresas deberán mostrar interés por ampliar y fortalecer sus capacidades tecnológicas, a través de la colaboración con instituciones y centros de investigación del SIEG. Asimismo, deberán invertir recursos en los proyectos que se acuerden en el marco del SIEG para lograr el fortalecimiento de su capacidad de innovar.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+Lineamientos
 
 ###### Artículo 14.
 
-Los representantes de los sectores académico y empleador, referidos en el inciso c) de la fracción IV del artículo 11, durarán en su cargo cuatro años y podrán ser designados nuevamente, por un periodo más.
+La Secretaría de Innovación, Ciencia y Educación Superior establecerá los lineamientos para la incorporación y permanencia de instituciones de educación superior, centros de investigación, parques tecnológicos y empresas en el SIEG. Los lineamientos deberán considerar los beneficios para las instituciones al formar parte del SIEG, así como las obligaciones que habrán de asumir para el cumplimiento de sus fines.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+Periodo de permanencia
 
 ###### Artículo 15.
 
-El Consejo Directivo tendrá las siguientes atribuciones:
+Las instituciones formarán parte del SIEG y participarán en sus programas por un periodo de tres años, al término de los cuales deberán solicitar la renovación de su permanencia en el SIEG. La solicitud de renovación deberá acompañarse de la evidencia de su contribución a los fines del mismo, durante el tiempo de su permanencia. En la evaluación de la solicitud el Consejo Directivo deberá tomar en cuenta de manera prioritaria, la disposición mostrada por la institución para llevar a cabo esfuerzos de articulación y colaboración con las instituciones que forman parte del SIEG, en el desarrollo de la oferta educativa, la investigación, la transferencia tecnológica y la innovación.
 
-I.- Establecer las políticas del CONCYTEG;
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-II.- Analizar el Programa Estatal de Ciencia y Tecnología y remitirlo para su aprobación al Gobernador del Estado, así como conducir el mismo;
+### CAPÍTULO TERCERO. ORGANIZACIÓN Y FUNCIONAMIENTO DEL SIEG
 
-III.- Aprobar el anteproyecto del presupuesto de egresos del CONCYTEG;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-IV.- Aprobar los estados financieros del CONCYTEG;
-
-V.- Aprobar el anteproyecto de reglamento interior del CONCYTEG y someterlo a la consideración del Gobernador del Estado;
-
-VI.- Ratificar el nombramiento del Director General y nombrar y remover a los servidores públicos del CONCYTEG a propuesta del Director General;
-
-VII.- Aprobar en su caso, la asignación de recursos económicos a los proyectos específicos presentados por el Consejo Técnico;
-
-VIII.- Autorizar la práctica de auditorias externas para vigilar la correcta aplicación de los recursos;
-
-IX.- Aprobar las bases generales para la suscripción de convenios;
-
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
-
-X.- Autorizar actos y contratos en los términos de la Ley de Adquisiciones, Enajenaciones, Arrendamientos y Contratación de Servicios del Sector Público en el Estado de Guanajuato;
-
-XI.- Autorizar actos de dominio sobre su patrimonio inmobiliario, sujetándose a las disposiciones constitucionales y legales; y
-
-XII.- Las demás que le señalen las disposiciones legales aplicables y el Reglamento de la presente Ley.
-
-### CAPÍTULO SEGUNDO. DEL PATRIMONIO
+Integración
 
 ###### Artículo 16.
 
-El Consejo Técnico es el órgano de evaluación y planeación científica y tecnológica, y estará integrado por:
+El SIEG, para el logro de sus fines, contará con un Consejo Directivo, el cual se integrará de la siguiente manera:
 
-I.- Un Presidente, que será el Director General del CONCYTEG; y
+I.- El Gobernador del Estado, quien fungirá como Presidente;
 
-II.- Investigadores distinguidos del Estado, designados por el Consejo Directivo, a propuesta del Director General, consultando la opinión de la comunidad científica o tecnológica del Estado, de conformidad con el Reglamento de esta Ley.
+II.- El Secretario de Innovación, Ciencia y Educación Superior, quien fungirá como Secretario Técnico;
 
-Los investigadores referidos, durarán en su cargo cuatro años y podrán ser designados, por un periodo más.
+III.- El Rector General de la Universidad de Guanajuato;
+
+IV.- Tres representantes de las instituciones de educación superior y centros de investigación que formen parte del SIEG;
+
+V.- Tres representantes de las empresas y Parques Tecnológicos que formen parte del SIEG;
+
+VI.- Representantes de la Federación, previa invitación:
+
+a) Un representante del Consejo Nacional de Ciencia y Tecnología;
+
+b) Un representante de la Secretaría de Educación Pública; y
+
+c) Un representante de la Secretaría de Economía; y
+
+VII.- Los titulares de las secretarías de:
+
+a) Finanzas, Inversión y Administración;
+
+b) Educación;
+
+c) Desarrollo Económico Sustentable; y
+
+d) Desarrollo Agroalimentario y Rural.
+
+La integración de los representantes del gobierno Federal, de instituciones de educación superior, centros de investigación, empresas y Parques Tecnológicos del estado de Guanajuato, será a partir de su adhesión voluntaria en los términos de esta Ley.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+Carácter honorífico de los cargos
 
 ###### Artículo 17.
 
-El Consejo Técnico tendrá las siguientes atribuciones:
+Los cargos de los integrantes del Consejo Directivo del SIEG son de carácter honorario, por lo que no recibirán retribución, emolumento o compensación alguna por su desempeño. El Gobernador del Estado designará a los representantes señalados en las fracciones IV y V del artículo 16, a propuesta del Secretario de Innovación, Ciencia y Educación Superior. Los integrantes del Consejo Directivo deberán designar a un suplente, quien los sustituirá en sus ausencias.
 
-I.- Llevar a cabo la planeación estratégica para el cumplimiento de las funciones y atribuciones del CONCYTEG;
+La permanencia de los integrantes señalados en las fracciones III y IV del artículo 16, será de cuatro años y podrán ser ratificados por una ocasión.
 
-II.- Identificar los objetivos y metas específicas del CONCYTEG, tales como: la vinculación interinstitucional e intersectorial en materia de ciencia y tecnología; la difusión y divulgación de los conocimientos científicos y tecnológicos y la formación de recursos humanos de alto nivel académico;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-III.- Dictaminar sobre los proyectos de investigación, desarrollo tecnológico e innovación presentados por la Dirección General;
-
-IV.- Proponer al Consejo Directivo la asignación de recursos económicos a los proyectos específicos presentados por la Dirección General;
-
-V.- Dar seguimiento a los proyectos apoyados por el CONCYTEG a partir de los informes presentados por la Dirección General;
-
-VI.- Verificar la terminación de los proyectos y la aplicación de sus resultados;
-
-VII.- Establecer lazos de vinculación con instancias de carácter científico en otros Estados del país y en el extranjero;
-
-VIII.- Informar al Consejo Directivo de sus actividades por conducto del Director General; y (sic)
-
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
-
-IX.- Validar los proyectos de investigación científica y tecnológica, desarrollo tecnológico e innovación para ser beneficiarios de los estímulos fiscales establecidos en la presente ley;
-
-> <small>(ADICIONADA, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
-
-X.- Validar a los empleadores que contraten recursos humanos destinados a la investigación y desarrollen tecnología e innovación para ser beneficiarios de los estímulos fiscales establecidos en la presente ley; y
-
-XI.- Las demás que le señalen las disposiciones legales aplicables y el Reglamento de la presente Ley.
+Atribuciones del Consejo Directivo
 
 ###### Artículo 18.
 
-La Dirección General del CONCYTEG estará a cargo de un Director General, el que se auxiliará de las unidades administrativas y el personal que determine el Reglamento de la presente Ley.
+El Consejo Directivo del SIEG, tendrá las siguientes atribuciones:
+
+I.- Proponer estrategias para asegurar la integración, coordinación, planeación y adecuado funcionamiento del SIEG en el cumplimiento de sus fines, y para potenciar las capacidades de los organismos e instituciones que lo integran, en el marco de los objetivos del Plan Estatal de Desarrollo y el Programa de Gobierno, así como de la política de ciencia, tecnología e innovación del Estado;
+
+II.- Aprobar el Programa Estatal de Ciencia, Tecnología e Innovación, el cual deberá ser formulado para un período de seis años, asegurando su contribución efectiva al logro de los objetivos del Plan Estatal de Desarrollo, del Programa de Gobierno, del Programa Estatal de Ciencia, Tecnología e Innovación y de la política de ciencia, tecnología, e innovación del Estado;
+
+III.- Analizar, discutir y, en su caso, acordar los programas, proyectos y actividades relativos al desarrollo del SIEG;
+
+IV.- Aprobar la agenda de trabajo anual del SIEG;
+
+V.- Impulsar la colaboración entre las instituciones que conforman el SIEG, para la formación de profesionales, tecnólogos y científicos de alto nivel, y para el desarrollo de programas y proyectos que coadyuven a la atención de problemáticas relevantes del desarrollo social y económico del Estado y que contribuyan a los fines del SIEG;
+
+VI.- Promover la mejora continua de la calidad de los programas educativos que ofrecen las instituciones de educación superior y centros de investigación que integran el SIEG, y que sean pertinentes para el cumplimiento de sus fines;
+
+VII.- Impulsar el desarrollo, la mejora continua y el aseguramiento de la calidad de los programas de Técnico Superior Universitario, Licenciaturas y Posgrados que ofrezcan las instituciones que conforman el SIEG, promoviendo además acciones de colaboración entre dichas instituciones;
+
+VIII.- Fomentar el fortalecimiento de las líneas de generación y aplicación del conocimiento de los grupos de investigación y Cuerpos Académicos de las Instituciones de Educación Superior y Centros de Investigación que sean pertinentes para el logro de los fines del SIEG;
+
+IX.- Fomentar el fortalecimiento de las capacidades tecnológicas y de innovación de las Empresas asentadas en el Estado, en particular de aquellas que formen parte del SIEG;
+
+X.- Identificar las empresas con las cuales el SIEG podría establecer esquemas de colaboración para el desarrollo de programas y proyectos de interés para las partes;
+
+XI.- Proponer a la Secretaría de Innovación, Ciencia y Educación Superior, lineamientos particulares para la incorporacióny (sic) la permanencia de instituciones de educación superior, centros de investigación, empresas y parques tecnológicos en el SIEG;
+
+XII.- Establecer lineamientos para el uso eficiente y compartido de la infraestructura de las instituciones que pertenecen al SIEG;
+
+XIII.- Proponer al Secretario de Innovación, Ciencia y Educación Superior, integrantespara (sic) conformar el Consejo de Asesores Expertos del SIEG;
+
+XV.- Acordar la incorporacióny (sic) la permanencia de Instituciones de Educación Superior, Centros de Investigación, Parques Tecnológicos y Empresas al SIEG; y
+
+XVI.- Establecer grupos de trabajo y esquemas organizativos para garantizar el desarrollo de sus funciones y su buen funcionamiento.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+Apoyo de la SIEG
 
 ###### Artículo 19.
 
-Para ser Director General, se deberán cubrir los siguientes requisitos:
+El Consejo Directivo del SIEG se apoyará en los recursos humanos e infraestructura de la Secretaría de Innovación, Ciencia y Educación Superior para la realización de sus actividades.
 
-I.- Ser ciudadano mexicano;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-II.- Contar con amplia solvencia moral y con reconocida experiencia en investigación científica y tecnológica; y
-
-III.- No desempeñar ningún cargo o empleo en la Administración Pública a la fecha de su nombramiento, salvo los académicos o docentes, así como los relacionados con la investigación en las áreas de la ciencia y la tecnología.
+Sesiones del Consejo Directivo
 
 ###### Artículo 20.
 
-El Director General, tendrá las siguientes atribuciones:
+El Consejo Directivo del SIEG, sesionará de manera ordinaria al menos dos veces al año y de manera extraordinaria cuando su Presidente así lo determine, o a solicitud de al menos la tercera parte de sus integrantes. Los acuerdos tomados en sus sesiones serán válidos cuando sean aprobados por la mitad más uno de los integrantes presentes. En caso de empate el Presidente tendrá voto de calidad. Las sesiones serán válidas si se realizan por videoconferencia o virtuales y se desarrollarán en la plataforma informática establecida para tales efectos, en la que la asistencia de los integrantes del Consejo Directivo se comprobará y sus votaciones se emitirán, respectivamente, a través de la plataforma. Para tales efectos, el Secretario Técnico deberá corroborar, dentro de la plataforma, que existan los participantes necesarios para sesionar. El desarrollo de las sesiones virtuales deberá quedar grabado en archivo electrónico.
 
-> <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-I.- Formular y someter a la aprobación del Consejo Directivo los programas derivados del Plan Estatal de Desarrollo y del Programa de Gobierno del Estado, así como el programa anual de actividades del CONCYTEG;
+#### SECCIÓN PRIMERA. PRESIDENTE DEL SIEG
 
-II.- Formular el anteproyecto del presupuesto de egresos del CONCYTEG;
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-III.- Elaborar el Programa Estatal de Ciencia y Tecnología, en los términos de la presente Ley;
-
-IV.- Ejecutar los acuerdos del Consejo Directivo y los del Gobernador del Estado;
-
-V.- Celebrar toda clase de actos, contratos y convenios necesarios para el cumplimiento de los fines del CONCYTEG, previa aprobación del Consejo Directivo;
-
-VI.- Representar legalmente al CONCYTEG y delegar esta representación;
-
-VII.- Proponer al Consejo Directivo el nombramiento y remoción de los funcionarios del CONCYTEG;
-
-VIII.- Rendir informes al Consejo Directivo del ejercicio de su función, en cada sesión ordinaria;
-
-IX.- Dar seguimiento a los proyectos de investigación apoyados por el CONCYTEG; y
-
-X.- Las demás que le señalen las disposiciones legales aplicables, la presente Ley y su Reglamento.
-
-#### SECCIÓN PRIMERA. DEL CONSEJO DIRECTIVO
+Atribuciones del Presidente
 
 ###### Artículo 21.
 
-El control y vigilancia del CONCYTEG estará a cargo de un órgano de vigilancia.
+El Presidente del Consejo Directivo del SIEG, tendrá las siguientes atribuciones:
 
-El órgano de vigilancia tendrá el carácter de contraloría interna, el cual será el responsable de controlar, vigilar, fiscalizar y evaluar el uso correcto de los recursos materiales y financieros del CONCYTEG, con el fin de determinar el correcto desempeño del organismo.
+I.- Convocar a sesión a los integrantes del Consejo Directivo, por conducto del Secretario Técnico;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 7 DE JUNIO DE 2013)</small>
+II.- Vigilar la ejecución de los acuerdos del Consejo Directivo con el apoyo del Secretario Técnico del mismo;
 
-#### SECCIÓN SEGUNDA. DEL CONSEJO TÉCNICO
+III.- Someter a la aprobación del Consejo Directivo, el Programa Estatal de Ciencia, Tecnología e Innovación, y en su caso, las adecuaciones que se requieran para el cumplimiento de sus objetivos. El Programa Estatal de Ciencia, Tecnología e Innovación deberá estar enmarcado en los objetivos del Plan Estatal de Desarrollo y de la política de ciencia, tecnología e innovación del Estado;
+
+IV.- Someter a la aprobación del Consejo Directivo, los lineamientos de operación del SIEG;
+
+V.- Promover el establecimiento de infraestructura compartida por las instituciones que forman parte del SIEG;
+
+VI.- Promover el establecimiento de programas de Técnico Superior Universitario, Licenciatura y Posgrados de buena calidad que otorguen grados compartidos por instituciones que conformen el SIEG, y que sean pertinentes para el cumplimiento de los fines del mismo;
+
+VII.- Fomentar la colaboración entre las Instituciones de Educación Superior y Centros de Investigación del SIEG con las Instituciones de Educación Normal y Media Superior del Estado;
+
+VIII.- Promover la colaboración entre el SIEG e Instituciones de Educación Superior y Centros de Investigación Nacionales y Extranjeros para el cumplimiento de sus fines;
+
+IX.- Proponer al Consejo Directivo, esquemas para el seguimiento y evaluación de la integración, coordinación y funcionamiento del SIEG; y
+
+X.- Fomentar la evaluación periódica del funcionamiento del SIEG y de los esquemas adoptados de relación y colaboración entre éste y organismos nacionales y extranjeros.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN SEGUNDA. SECRETARIO TÉCNICO DEL CONSEJO DIRECTIVO DEL SIEG
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+Atribuciones del Secretario Técnico
 
 ###### Artículo 22.
 
-La Contraloría Interna dependerá orgánica y funcionalmente de la Secretaría de la Transparencia y Rendición de Cuentas y presupuestalmente del CONCYTEG.
+El Secretario Técnico del Consejo Directivo tendrá las siguientes atribuciones:
 
-> <small>(REFORMADO, P.O. 7 DE JUNIO DE 2013)</small>
+I.- Levantar las actas de las sesiones del Consejo Directivo;
 
-La Contraloría Interna estará integrada por el Titular designado por la Secretaría de la Transparencia y Rendición de Cuentas y por el personal necesario que su presupuesto permita.
+II.- Llevar el control de seguimiento de los acuerdos aprobados por el Consejo Directivo;
 
-La Contraloría Interna, tendrá las facultades que le establezca la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato y demás disposiciones jurídicas aplicables.
+III.- Apoyar al Presidente del Consejo Directivo en la formulación del proyecto de Programa Estatal de Ciencia, Tecnología e Innovación del SIEG y sus actualizaciones, así como del programa anual de trabajo;
 
-#### SECCIÓN TERCERA. DE LA DIRECCIÓN GENERAL
+IV.- Dar seguimiento al desarrollo de los programas, proyectos y actividades del SIEG e informar al Presidente del Consejo Directivo;
+
+V.- Coordinar los esquemas de seguimiento y evaluación de la integración, coordinación y desarrollo del SIEG y presentar los resultados obtenidos al Presidente del Consejo Directivo para su análisis en el pleno del mismo;
+
+VI.- Recibir las solicitudes de incorporación o de renovación de la permanencia al SIEG de instituciones de educación superior, centros de investigación, parques tecnológicos y empresas, e informar al Presidente del Consejo Directivo para acordar lo conducente;
+
+VII.- Atender las solicitudes del Consejo de Asesores Expertos en el desarrollo de sus actividades y coadyuvar a su adecuado funcionamiento;
+
+VIII.- Atender los asuntos que el Presidente del Consejo Directivo le encomiende para el seguimiento y cumplimiento de los acuerdos del Consejo Directivo y de los fines del SIEG; y
+
+IX.- Las demás que le encomiende el Consejo Directivo o el Presidente delmismo (sic) para los fines del SIEG.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN TERCERA. INTEGRANTES DEL CONSEJO DIRECTIVO DEL SIEG
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+Atribuciones de los integrantes del Consejo
 
 ###### Artículo 23.
+
+Los integrantes del Consejo Directivo tendrán las siguientes atribuciones:
+
+I.- Asistir a las sesiones del Consejo Directivo del SIEG;
+
+II.- Deliberar respecto de los asuntos que sean sometidos a la consideración del Consejo Directivo, contando con voz y voto para la aprobación de acuerdos;
+
+III.- Firmar las actas de las sesiones a las que asistan;
+
+IV.- Proponer al Presidente del Consejo Directivo, por conducto del Secretario Técnico del mismo, los asuntos que consideren pudieran formar parte del orden del día;
+
+V.- Proponer medidas y estrategias para la consecución de los objetivos del Consejo Directivo y del SIEG;
+
+VI.- Proponer al Consejo Directivo esquemas para el seguimiento y evaluación de la coordinación, integración y funcionamiento del SIEG;
+
+VII.- Cumplir los acuerdos del Consejo Directivo; y
+
+VIII.- Las demás que les confiera la Ley y les asigne el Presidente del Consejo Directivo con base en las disposiciones legales aplicables.
+
+###### Artículo 23 Bis.
+
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 2015)
+
+###### Artículo 23 Ter.
+
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 2015)
+
+###### Artículo 23 Quater.
+
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 2015)
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+#### SECCIÓN CUARTA. CONSEJO DE ASESORES EXPERTOS
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+Integración
+
+###### Artículo 24.
+
+El SIEG contará con un Consejo de Asesores Expertos integrado por cinco del sector académico, y cinco del sector empresarial que deberán contar con probada experiencia y visión en la innovación y el desarrollo sustentable para coadyuvar al cumplimiento de sus fines. Su presidente será designado por el Gobernador del Estado.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+Facultades del Consejo de Asesores Expertos
+
+###### Artículo 25.
+
+El Consejo de Asesores Expertos tendrá las facultades siguientes:
+
+I.- Asesorar al Presidente del Consejo Directivo en la formulación de los planes estratégicos del SIEG;
+
+II.- Formular recomendaciones específicas para la mejora continua de la calidad de los programas y para la coordinación, organización y funcionamiento del SIEG;
+
+III.- Proponer el desarrollo de programas y proyectos específicos para el cumplimiento de los fines del SIEG;
+
+IV.- Emitir opinión sobre las solicitudes de incorporación y permanencia en el SIEG, de instituciones de educación superior, centros de investigación, parques tecnológicos y empresas, y
+
+V.- Las demás que el Consejo Directivo recomiende y que no se opongan a lo establecido al propósito del SIEG.
+
+## TÍTULO TERCERO
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO PRIMERO. PRINCIPIOS ORIENTADORES DEL FORTALECIMIENTO A LA ACTIVIDAD CIENTÍFICA, TECNOLÓGICA Y A LA INNOVACIÓN
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+Principios para dar apoyos
+
+###### Artículo 26.
 
 Los principios que regirán los apoyos que el Gobernador del Estado otorgue para la investigación científica, el desarrollo tecnológico y la innovación en general, así como en particular los proyectos de ciencia y tecnología, serán los siguientes:
 
@@ -435,31 +569,55 @@ XI.- Para otorgar el apoyo, el Ejecutivo del Estado convendrá con las personas 
 
 XII.- Las actividades de investigación, desarrollo e innovación que lleven a cabo directamente las dependencias y entidades de la Administración Pública deberán procurar la identificación y solución de problemas y retos de interés general, contribuir al avance del conocimiento, permitir mejorar la calidad de vida de la población y del medio ambiente y apoyar la formación de recursos humanos especializados en ciencia y tecnología, sin perjuicio de la libertad de investigación de las personas ni de la autonomía de las instituciones.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-###### Artículo 23 Bis.
+### CAPÍTULO SEGUNDO. ESTÍMULOS FISCALES
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+Subsidios y estímulos fiscales
+
+###### Artículo 27.
 
 Los proyectos en investigación científica y desarrollo tecnológico e innovación gozarán de subsidios o estímulos fiscales de conformidad con el Código Fiscal para el Estado de Guanajuato.
 
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-###### Artículo 23 Ter.
+Estímulo fiscal en el impuesto sobre nominas
+
+###### Artículo 28.
 
 Los empleadores que participen activamente y contraten o reciban la prestación del trabajo personal subordinado orientado a la investigación científica y tecnológica, así como al desarrollo tecnológico e innovación, gozarán del estímulo fiscal en relación al impuesto sobre nóminas previsto en la Ley de Hacienda para el Estado de Guanajuato.
 
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-###### Artículo 23 Quater.
+Validación para acceder a los subsidios y estímulos
 
-Para acceder a los subsidios y estímulos fiscales referidos en la presente Ley, se deberá contar con la validación del Consejo Técnico del CONCYTEG.
+###### Artículo 29.
 
-###### Artículo 24.
+Para acceder a los subsidios y estímulos fiscales referidos en la presente Ley, se deberá contar con la validación del Consejo Directivo del Sistema de Innovación del Estado de Guanajuato.
+
+## TÍTULO CUARTO
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO PRIMERO. DIVULGACIÓN, DIFUSIÓN Y FOMENTO DE LA CULTURA CIENTÍFICA
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+Fortalecimiento de la cultura científica
+
+###### Artículo 30.
 
 Para desarrollar, fortalecer y consolidar una cultura científica en la sociedad, el Ejecutivo del Estado y los Ayuntamientos, en su caso, promoverán la participación de los sectores gubernamental, académico, empleador y social en la divulgación y difusión de las actividades científicas y tecnológicas.
 
 Asimismo, fomentarán la realización de actividades orientadas a la divulgación de la ciencia y la tecnología al interior de las dependencias y entidades que conformen la Administración Pública.
 
-###### Artículo 25.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+Distribución de competencia para el fomento
+
+###### Artículo 31.
 
 En el ámbito de sus respectivas competencias y de acuerdo con las necesidades del Estado, la demanda social y los recursos disponibles, los sectores gubernamental, académico, empleador y social procurarán:
 
@@ -471,19 +629,25 @@ III.- Impulsar la creación de programas y espacios formativos, recreativos e in
 
 IV.- Promover la producción de materiales cuya finalidad sea la divulgación del conocimiento científico y tecnológico.
 
-## TÍTULO TERCERO. DEL CONSEJO DE CIENCIA Y TECNOLOGÍA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-### CAPÍTULO TERCERO. DE LOS ÓRGANOS DEL CONCYTEG
+### CAPÍTULO SEGUNDO. FORMACIÓN DE RECURSOS HUMANOS
 
-###### Artículo 26.
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-El CONCYTEG formulará las normas y los criterios para la elaboración de programas que tengan por objeto la formación de recursos humanos de alto nivel académico en las diversas áreas de la ciencia y la tecnología.
+Formación de recursos humanos
 
-### CAPÍTULO CUARTO. DEL CONTROL Y VIGILANCIA
+###### Artículo 32.
 
-###### Artículo 27.
+La SICES formulará las normas y los criterios para la elaboración de programas que tengan por objeto la formación de recursos humanos de alto nivel académico en las diversas áreas de la ciencia y la tecnología.
 
-Para la formación de recursos humanos orientados a la investigación científica y tecnológica el CONCYTEG deberá:
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+Facultades de la SICES para la formación de recursos humanos
+
+###### Artículo 33.
+
+Para la formación de recursos humanos orientados a la investigación científica y tecnológica la SICES deberá:
 
 I.- Promover en las dependencias de la Administración Pública y en los sectores académico, empleador y social acciones y estrategias para la formación de recursos humanos de alto nivel académico;
 
@@ -493,71 +657,35 @@ III.- Promover programas de apoyos y becas para la realización de estudios de p
 
 IV.- Apoyar la integración de las comunidades científica y tecnológica del Estado.
 
-###### Artículo 28.
-
-Corresponde al Gobernador del Estado aprobar y publicar en el Periódico Oficial del Gobierno del Estado el Programa Estatal de Ciencia y Tecnología, el cual tendrá por objeto fijar las políticas estatales para impulsar y fortalecer la generación, difusión, divulgación y aplicación de la ciencia y tecnología en la Entidad, así como su revisión anual.
-
-En la elaboración del Programa se promoverá la participación de los distintos grupos sociales y sectores de la Entidad en los términos de la Ley de Planeación para el Estado de Guanajuato.
-
-###### Artículo 29.
-
-El Programa será elaborado por la Dirección General del CONCYTEG, con la asesoría del Consejo de Planeación para el Desarrollo del Estado de Guanajuato y de acuerdo con las propuestas que le presenten las dependencias y entidades de la Administración Pública Estatal que apoyen o realicen investigación científica y tecnológica.
-
-En la elaboración del Programa se tomarán en cuenta, además, las propuestas de las comunidades científica y tecnológica, las que formulen las Instituciones de Educación Superior, así como aquéllas que surjan de los órganos de gobierno y de los órganos consultivos de participación ciudadana del CONCYTEG.
-
-## TÍTULO CUARTO
-
-> <small>(REFORMADA SU NUMERACIÓN [ANTES CAPÍTULO ÚNICO], P.O. 11 DE SEPTIEMBRE DE 2012)</small>
-
-### CAPÍTULO PRIMERO. DE LOS PRINCIPIOS ORIENTADORES DEL FORTALECIMIENTO A LA ACTIVIDAD CIENTÍFICA, TECNOLÓGICA Y A LA INNOVACIÓN
-
-###### Artículo 30.
-
-El Sistema Estatal de Información sobre Ciencia y Tecnología estará integrado por la información, datos, estudios e investigaciones destinadas a difundir, divulgar, promover y fomentar la ciencia y la tecnología en general, como instrumento para desarrollar de manera armónica y sustentable las capacidades científicas y tecnológicas del Estado.
-
-Corresponde al CONCYTEG integrar, administrar y actualizar el Sistema Estatal de Información sobre Ciencia y Tecnología.
-
-El Sistema será accesible al público en general, sin perjuicio de los derechos de propiedad industrial e intelectual y las reglas de confidencialidad que al efecto se establezcan.
-
-###### Artículo 31.
-
-Las dependencias y entidades de la Administración Pública Estatal colaborarán con el CONCYTEG en la integración y actualización del Sistema Estatal de Información sobre Ciencia y Tecnología.
-
-El Gobernador del Estado podrá convenir con los gobiernos de la Federación, de los demás Estados y de los Municipios, así como con las instituciones de educación, su colaboración para la integración y actualización del Sistema.
-
-Las personas o instituciones públicas o privadas que reciban apoyo por parte del CONCYTEG para la realización de actividades en ciencia y tecnología proveerán la información que se les requiera, señalando aquélla que por derechos de propiedad o por alguna otra razón fundada deba reservarse.
-
-Las personas o instituciones del sector privado que realicen actividades sobre ciencia y tecnología podrán coadyuvar voluntariamente con el Sistema.
-
-### CAPÍTULO SEGUNDO. ESTÍMULOS FISCALES
-
-> <small>(ADICIONADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
-
-###### Artículo 32.
-
-El CONCYTEG formulará las bases de organización y funcionamiento del Sistema Estatal de Información sobre Ciencia y Tecnología.
-
-Las bases preverán lo necesario para que el Sistema favorezca la vinculación entre la investigación y sus formas de aplicación y generación.
-
-## TÍTULO SEXTO
-
-### CAPÍTULO PRIMERO. DE LA CONSULTA Y PARTICIPACIÓN CIUDADANA
-
-###### Artículo 33.
-
-El CONCYTEG integrará órganos consultivos de participación ciudadana que tendrán por objeto promover la participación de los Municipios, de las comunidades científica y tecnológica del Estado y de los sectores gubernamental, académico, empleador y social, para la formulación de propuestas, políticas y líneas de acción en materia de ciencia y tecnología.
-
-En la integración de los órganos consultivos de participación ciudadana deberán observarse los criterios de pluralidad, renovación periódica, representatividad de los diversos integrantes de las comunidades científica y tecnológica y de los sectores, así como de equilibrio entre las diversas regiones del Estado.
-
 ## TÍTULO QUINTO
 
-### CAPÍTULO PRIMERO. DE LA DIVULGACIÓN, DIFUSIÓN Y FOMENTO DE LA CULTURA CIENTÍFICA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO PRIMERO. CONSULTA Y PARTICIPACIÓN CIUDADANA
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+Órganos consultivos
 
 ###### Artículo 34.
 
-Los órganos consultivos de participación ciudadana intervendrán en el proceso de planeación a través de los Consejos Sectoriales de Planeación, para tal efecto deberán designar a uno de sus integrantes, el cual deberá ser representante de la sociedad organizada.
+La SICES integrará órganos consultivos de participación ciudadana, que tendrán por objeto promover la participación de los Municipios, de las comunidades científica y tecnológica del Estado y de los sectores gubernamental, académico, empleador y social, para la formulación de propuestas, políticas y líneas de acción en materia de ciencia y tecnología.
+
+En la integración de los órganos consultivos de participación ciudadana deberán observarse los criterios de pluralidad, renovación periódica, representatividad de los diversos integrantes de las comunidades científica y tecnológica y de los sectores, así como de equilibrio entre las diversas regiones del Estado.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+Consejos sectoriales de planeación
 
 ###### Artículo 35.
+
+Los órganos consultivos de participación ciudadana intervendrán en el proceso de planeación a través de los Consejos Sectoriales de Planeación, para tal efecto deberán designar a uno de sus integrantes, el cual deberá ser representante de la sociedad organizada.
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+Atribuciones de los órganos consultivos
+
+###### Artículo 36.
 
 Los órganos consultivos de participación ciudadana, tendrán las siguientes atribuciones:
 
@@ -565,63 +693,93 @@ I.- Participar en la formulación y evaluación de las políticas de apoyo a la 
 
 II.- Identificar las áreas y necesidades en materia de ciencia y tecnología de los diversos Municipios y regiones del Estado y proponer las acciones específicas para atender las demandas de atención y apoyo determinadas;
 
-III.- Participar en la elaboración del Programa Estatal de Ciencia y Tecnología;
+III.- Participar en la elaboración del Programa Estatal de Ciencia, Tecnología e Innovación;
 
-IV.- Servir como instancia para la participación ciudadana en el CONCYTEG y como vínculo de éste con la sociedad guanajuatense en los distintos Municipios y regiones del Estado; y
+IV.- Servir como instancia para la participación ciudadana en el SIEG y como vínculo de éste con la sociedad guanajuatense en los distintos Municipios y regiones del Estado; y
 
-V.- Atender las tareas especiales que le encomiende la Dirección General del CONCYTEG.
+V.- Atender las tareas especiales que le encomiende el presidente del SIEG.
 
 En el Reglamento de esta Ley se establecerán las bases conforme a las cuales deberán integrarse los órganos consultivos de participación ciudadana, así como las normas que regirán su funcionamiento.
 
-### CAPÍTULO SEGUNDO. DE LA VINCULACION ENTRE LA INVESTIGACIÓN Y LA EDUCACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-###### Artículo 36.
+### CAPÍTULO SEGUNDO. VINCULACIÓN ENTRE LA INVESTIGACIÓN Y LA EDUCACIÓN
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+Propósito de la investigación
+
+###### Artículo 37.
 
 La investigación científica y tecnológica que el Ejecutivo del Estado apoye en los términos de esta Ley buscará contribuir a desarrollar un sistema de educación, de formación y de capacitación de recursos humanos de calidad y alto nivel académico.
 
-### CAPÍTULO SEGUNDO. DE LA FORMACIÓN DE RECURSOS HUMANOS
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-###### Artículo 37.
+Instituciones públicas de educación superior
+
+###### Artículo 38.
 
 Las instituciones públicas de educación superior coadyuvarán a través de sus investigadores y docentes en actividades de divulgación y enseñanza científica y tecnológica, sin perjuicio de sus ámbitos de autonomía, a fin de promover el desarrollo sustentable del Estado a través de la promoción de la cultura científica.
 
 Asimismo, promoverán la incorporación de contenidos científicos y tecnológicos en sus diferentes programas educativos y fomentarán la realización de acciones de divulgación de la ciencia y la tecnología en el Estado, a fin de satisfacer las necesidades de la población en materia de educación científica y tecnológica.
 
-> <small>(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-###### Artículo 38.
-
-El titular del poder ejecutivo otorgará estímulos y reconocimientos a quienes realicen logros sobresalientes en investigación científica y tecnológica e innovación, y promoverá que su actividad de investigación contribuya a mantener y fortalecer la calidad de la educación y proteger, preservar y mejorar el medio ambiente, así como la divulgación de la ciencia y la tecnología e innovación en general, a través de los programas que para tales efectos instrumente.
+Estímulos y reconocimientos
 
 ###### Artículo 39.
 
-El Gobernador del Estado promoverá ante la autoridad educativa federal el diseño y la aplicación de métodos y programas para la enseñanza y fomento de la ciencia y tecnología en todos los niveles de educación.
+El titular del poder ejecutivo otorgará estímulos y reconocimientos a quienes realicen logros sobresalientes en investigación científica y tecnológica e innovación, y promoverá que su actividad de investigación contribuya a mantener y fortalecer la calidad de la educación y proteger, preservar y mejorar el medio ambiente, así como la divulgación de la ciencia y la tecnología e innovación en general, a través de los programas que para tales efectos instrumente.
 
-### CAPÍTULO TERCERO. DE LA VINCULACIÓN CON LOS SECTORES PÚBLICO Y PRIVADO
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+Fomento de la ciencia y tecnología en la educación
 
 ###### Artículo 40.
 
-Las dependencias y entidades de la Administración Pública, así como las instituciones públicas de educación superior, en sus respectivos ámbitos de competencia, promoverán la innovación y el desarrollo tecnológico; para tal efecto, establecerán instrumentos o mecanismos de vinculación con los sectores público y privado de la Entidad.
+el Gobernador del Estado promoverá ante la autoridad educativa federal el diseño y la aplicación de métodos y programas para la enseñanza y fomento de la ciencia y tecnología en todos los tipos y niveles de educación.
 
-### CAPÍTULO TERCERO. DEL PROGRAMA ESTATAL DE CIENCIA Y TECNOLOGÍA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO TERCERO. VINCULACIÓN CON LOS SECTORES PÚBLICO Y PRIVADO
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+Mecanismos de vinculación
 
 ###### Artículo 41.
 
-La vinculación procurará ser multidisciplinaria e interdisciplinaria, y buscará la coordinación de acciones en materia de ciencia y tecnología, tomando en cuenta las demandas y necesidades de los sectores gubernamental, académico, privado o social de la Entidad, y la orientación del trabajo de la infraestructura estatal hacia la generación y avance del conocimiento científico y tecnológico.
+las dependencias y entidades de la administración pública, así como las instituciones públicas de educación superior, en sus respectivos ámbitos de competencia, promoverán la innovación y el desarrollo tecnológico; para tal efecto, establecerán instrumentos o mecanismos de vinculación con los sectores público y privado de la Entidad.
 
-### CAPÍTULO CUARTO. DE LA COORDINACIÓN Y DESCENTRALIZACIÓN
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+Propósito de la vinculación
 
 ###### Artículo 42.
+
+La vinculación procurará ser multidisciplinaria e interdisciplinaria, y buscará la coordinación de acciones en materia de ciencia y tecnología e innovación, tomando en cuenta las demandas y necesidades de los sectores gubernamental, académico, privado o social de la Entidad, y la orientación del trabajo de la infraestructura estatal hacia la generación y avance del conocimiento científico y tecnológico.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO CUARTO. COORDINACIÓN
+
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
+Suscripción de convenios
+
+###### Artículo 43.
 
 El Ejecutivo del Estado podrá suscribir convenios de coordinación y colaboración con los Municipios, con el Gobierno Federal y con los gobiernos de otros Estados o con instituciones públicas o privadas de investigación y enseñanza a fin de establecer programas y apoyos específicos de carácter local para impulsar la descentralización de la investigación científica y tecnológica.
 
 En los convenios a que se refiere el párrafo anterior se determinarán los objetivos comunes y las obligaciones de las partes y en su caso, además, los compromisos concretos de financiamiento y de aplicación de los principios que se establecen en esta Ley.
 
-### CAPÍTULO CUARTO. DE LA INFORMACIÓN
+> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
-###### Artículo 43.
+Coordinación entre la administración pública
 
-El CONCYTEG convendrá con las entidades y dependencias de la Administración Pública a efecto de lograr acciones coordinadas que fomenten las actividades en ciencia y tecnología.
+###### Artículo 44.
+
+La Secretaría de Innovación, Ciencia y Educación Superiorconvendrá (sic) con las entidades y dependencias de la Administración Pública a efecto de lograr acciones coordinadas que fomenten las actividades en ciencia y tecnología.
 
 T R A N S I T O R I O S
 
@@ -660,3 +818,59 @@ P.O. 7 DE JUNIO DE 2013.
 Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 64, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE CREA EL SISTEMA DE INNOVACIÓN DEL ESTADO DE GUANAJUATO Y LA SECRETARÍA DE INNOVACIÓN, CIENCIA Y EDUCACIÓN SUPERIOR, REFORMANDO, ADICIONANDO Y DEROGANDO DISPOSICIONES DE VARIOS ORDENAMIENTOS LEGALES”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia el uno de enero 2016, previa publicación en el Periódico Oficial de Gobierno del Estado.
+
+Creación de la Secretaría de Innovación, Ciencia y Educación Superior
+
+Artículo Segundo. El Gobernador del Estado contará con un plazo de hasta noventa días naturales contados a partir de la entrada en vigencia del presente decreto, para crear la Secretaría de Innovación, Ciencia y Educación Superior. Las Secretarías de Educación, de Desarrollo Económico Sustentable, y el Consejo de Ciencia y Tecnología del Estado de Guanajuato, continuarán ejerciendo las atribuciones en materia de educación superior, economía del conocimiento y de innovación, ciencia y tecnología, respectivamente, hasta el acto formal de entrega recepción.
+
+Transferencia de recursos
+
+Artículo Tercero. Las secretarías de Educación y de Desarrollo Económico Sustentable transferirán a la Secretaría de Innovación, Ciencia y Educación Superior, los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de las funciones que tuviere encomendadas en materia de educación superior, innovación y economía del conocimiento, a través de la entrega-recepción respectiva.
+
+El Consejo de Ciencia y Tecnología transferirá a la Secretaría de Innovación, Ciencia y Educación Superior, los asuntos jurídicos, administrativos, recursos humanos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo con el que se atiende la competencia en materia de ciencia, tecnología e innovación, a través de la entrega-recepción respectiva.
+
+El personal de ambas dependencias y del Concyteg, conforme a su estatus laboral pasará a integrar la nueva Secretaría de Innovación, Ciencia y Educación Superior, sin menoscabo de los derechos adquiridos de los trabajadores.
+
+Concyteg
+
+Artículo Cuarto. El Consejo de Ciencia y Tecnología del Estado de Guanajuato continuará ejerciendo sus labores de obtención de financiamiento y atracción de recursos para lo cual el Consejo Técnico de esa entidad continuará en funciones hasta en tanto la Secretaría de Innovación, Ciencia y Educación Superior inicie formalmente sus actividades de colaboración con instituciones de financiamiento y obtención de recursos; una vez lo cual, se extinguirá.
+
+El Ejecutivo del Estado, por conducto de la Secretaría de Innovación, Ciencia y Educación Superior, informará al Congreso del Estado, sobre la conclusión del proceso de extinción del Consejo de Ciencia y Tecnología del Estado de Guanajuato.
+
+Asunción de responsabilidades
+
+Artículo Quinto. La Secretaría de Innovación, Ciencia y Educación Superior sustituye en todas sus obligaciones y asume los compromisos adquiridos por la Secretaría de Educación en materia de educación superior, debiendo cumplir íntegramente con ellos a partir de su instauración.
+
+Igualmente, la Secretaría de Innovación, Ciencia y Educación Superior sustituye en todas sus obligaciones así como los compromisos adquiridos por el Consejo de Ciencia y Tecnología del Estado de Guanajuato, en materia de innovación, ciencia y tecnología, así como las obligaciones y compromisos adquiridos por la Secretaría de Desarrollo Económico Sustentable en materia de Economía del Conocimiento debiendo cumplir íntegramente con ellos a partir de su instauración.
+
+Para todos los efectos legales correspondientes, la Secretaría de Innovación, Ciencia y Educación Superior a que alude el presente Decreto, se entenderá referida al Consejo de Ciencia y Tecnología del Estado de Guanajuato, que se menciona en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto.
+
+Constitución del Sistema
+
+Artículo Sexto. El Ejecutivo del Estado, deberá constituir el Sistema de Innovación del Estado de Guanajuato, en un término de noventa días, contados a partir de (sic) del inicio de vigencia del presente Decreto.
+
+Resolución de asuntos en trámite
+
+Artículo Séptimo. Los asuntos que en materia de educación superior actualmente estén pendientes de resolver por parte de la Secretaría de Educación y cuyo trámite haya iniciado bajo la vigencia de las disposiciones de la Ley de Educación para el Estado de Guanajuato, que se reforman, adicionan o derogan mediante el presente Decreto, se seguirán tramitando con base en esas disposiciones, hasta su debida conclusión.
+
+Asignación de recursos
+
+Artículo Octavo. La Secretaría de Finanzas, Inversión y Administración definirá los procedimientos y mecanismos necesarios para la adecuada asignación de recursos a la Secretaría de Innovación, Ciencia y Educación Superior, para su correcta operación.
+
+En el caso de los recursos federales, la Secretaría de Finanzas, Inversión y Administración realizará las gestiones con las instancias correspondientes para los efectos de este artículo.
+
+Entrega-recepción
+
+Artículo Noveno. De conformidad a lo estipulado en el Reglamento de Entrega Recepción, la Secretaría de la Transparencia y Rendición de Cuentas, vigilará el proceso de entrega recepción extraordinaria.
+
+Término para la adecuación reglamentaria
+
+Artículo Décimo. El Gobernador del Estado expedirá los reglamentos necesarios para el cumplimiento de esta reforma, en un término que no exceda de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a la presente reforma, acorde a lo establecido en el artículo tercero transitorio del presente Decreto.
