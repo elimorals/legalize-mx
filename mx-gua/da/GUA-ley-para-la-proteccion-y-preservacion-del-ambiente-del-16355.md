@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-la-proteccion-y-preservacion-del-ambiente-del-16355"
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-08"
-last_updated: "2013-06-07"
+last_updated: "2015-12-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=16355&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 LEY PARA LA PROTECCIÓN Y PRESERVACIÓN DEL AMBIENTE DEL ESTADO DE GUANAJUATO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 8 de febrero de 2000.
 
@@ -857,7 +857,7 @@ Quedan exentas de autorización de impacto ambiental:
 
 I.- Las obras y actividades de emergencia que sean necesarias para prevenir o para mitigar los daños causados o que pudieran ocasionarse con motivo de desastres naturales, accidentes o catástrofes;
 
-II.- Las obras o actividades que por su magnitud, ubicación, condiciones de su entorno y calidad en sus procesos de producción, previo análisis de la solicitud a que se refiere el artículo 27, se considere nula o poco significativa la generación de impactos; y (sic)
+II.- Las obras o actividades que por su magnitud, ubicación, condiciones de su entorno y calidad en sus procesos de producción, previo análisis de la solicitud a que se refiere el artículo 27, se considere nula o poco significativa la generación de impactos; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO ÚNICO TRANSITORIO DEL ARTÍCULO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1063,9 +1063,11 @@ Los ayuntamientos formularán programas de educación ambiental no formal dirigi
 
 El Estado celebrará acuerdos con instituciones de educación superior para la creación de las carreras ambientales, así como convenios con centros de investigación, instituciones de los sectores social y privado y organismos a nivel nacional.
 
+> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 72.
 
-El Ejecutivo del Estado promoverá con la participación de la Secretaría de Educación, instituciones educativas de nivel superior, centros de investigación y autoridades federales, un programa estatal de educación ambiental.
+El Ejecutivo del Estado promoverá con la participación de la Secretaría de Educación, de la Secretaría de Innovación, Ciencia y Educación Superior, y de instituciones educativas de tipo superior, centros de investigación y autoridades federales, un programa estatal de educación ambiental.
 
 ###### Artículo 73.
 
@@ -2396,3 +2398,59 @@ P.O. 7 DE JUNIO DE 2013.
 Artículo Primero. El presente decreto entrará en vigencia el cuarto día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 Artículo Segundo. El Ejecutivo del Estado deberá realizar los ajustes en los reglamentos y decretos que deriven del presente Decreto Legislativo en un término de seis meses, contados a partir del inicio de vigencia del presente Decreto.
+
+P.O. 29 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 64, EXPEDIDO POR LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE GUANAJUATO, MEDIANTE EL CUAL, SE CREA EL SISTEMA DE INNOVACIÓN DEL ESTADO DE GUANAJUATO Y LA SECRETARÍA DE INNOVACIÓN, CIENCIA Y EDUCACIÓN SUPERIOR, REFORMANDO, ADICIONANDO Y DEROGANDO DISPOSICIONES DE VARIOS ORDENAMIENTOS LEGALES”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto entrará en vigencia el uno de enero 2016, previa publicación en el Periódico Oficial de Gobierno del Estado.
+
+Creación de la Secretaría de Innovación, Ciencia y Educación Superior
+
+Artículo Segundo. El Gobernador del Estado contará con un plazo de hasta noventa días naturales contados a partir de la entrada en vigencia del presente decreto, para crear la Secretaría de Innovación, Ciencia y Educación Superior. Las Secretarías de Educación, de Desarrollo Económico Sustentable, y el Consejo de Ciencia y Tecnología del Estado de Guanajuato, continuarán ejerciendo las atribuciones en materia de educación superior, economía del conocimiento y de innovación, ciencia y tecnología, respectivamente, hasta el acto formal de entrega recepción.
+
+Transferencia de recursos
+
+Artículo Tercero. Las secretarías de Educación y de Desarrollo Económico Sustentable transferirán a la Secretaría de Innovación, Ciencia y Educación Superior, los asuntos jurídicos, administrativos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo de las unidades administrativas que hayan venido usando para la atención de las funciones que tuviere encomendadas en materia de educación superior, innovación y economía del conocimiento, a través de la entrega-recepción respectiva.
+
+El Consejo de Ciencia y Tecnología transferirá a la Secretaría de Innovación, Ciencia y Educación Superior, los asuntos jurídicos, administrativos, recursos humanos, mobiliario, vehículos, instrumentos, aparatos, maquinaria, archivos y en general, el equipo con el que se atiende la competencia en materia de ciencia, tecnología e innovación, a través de la entrega-recepción respectiva.
+
+El personal de ambas dependencias y del Concyteg, conforme a su estatus laboral pasará a integrar la nueva Secretaría de Innovación, Ciencia y Educación Superior, sin menoscabo de los derechos adquiridos de los trabajadores.
+
+Concyteg
+
+Artículo Cuarto. El Consejo de Ciencia y Tecnología del Estado de Guanajuato continuará ejerciendo sus labores de obtención de financiamiento y atracción de recursos para lo cual el Consejo Técnico de esa entidad continuará en funciones hasta en tanto la Secretaría de Innovación, Ciencia y Educación Superior inicie formalmente sus actividades de colaboración con instituciones de financiamiento y obtención de recursos; una vez lo cual, se extinguirá.
+
+El Ejecutivo del Estado, por conducto de la Secretaría de Innovación, Ciencia y Educación Superior, informará al Congreso del Estado, sobre la conclusión del proceso de extinción del Consejo de Ciencia y Tecnología del Estado de Guanajuato.
+
+Asunción de responsabilidades
+
+Artículo Quinto. La Secretaría de Innovación, Ciencia y Educación Superior sustituye en todas sus obligaciones y asume los compromisos adquiridos por la Secretaría de Educación en materia de educación superior, debiendo cumplir íntegramente con ellos a partir de su instauración.
+
+Igualmente, la Secretaría de Innovación, Ciencia y Educación Superior sustituye en todas sus obligaciones así como los compromisos adquiridos por el Consejo de Ciencia y Tecnología del Estado de Guanajuato, en materia de innovación, ciencia y tecnología, así como las obligaciones y compromisos adquiridos por la Secretaría de Desarrollo Económico Sustentable en materia de Economía del Conocimiento debiendo cumplir íntegramente con ellos a partir de su instauración.
+
+Para todos los efectos legales correspondientes, la Secretaría de Innovación, Ciencia y Educación Superior a que alude el presente Decreto, se entenderá referida al Consejo de Ciencia y Tecnología del Estado de Guanajuato, que se menciona en otros decretos, reglamentos, convenios u otros instrumentos jurídicos emitidos con anterioridad al presente Decreto.
+
+Constitución del Sistema
+
+Artículo Sexto. El Ejecutivo del Estado, deberá constituir el Sistema de Innovación del Estado de Guanajuato, en un término de noventa días, contados a partir de del (sic) inicio de vigencia del presente Decreto.
+
+Resolución de asuntos en trámite
+
+Artículo Séptimo. Los asuntos que en materia de educación superior actualmente estén pendientes de resolver por parte de la Secretaría de Educación y cuyo trámite haya iniciado bajo la vigencia de las disposiciones de la Ley de Educación para el Estado de Guanajuato, que se reforman, adicionan o derogan mediante el presente Decreto, se seguirán tramitando con base en esas disposiciones, hasta su debida conclusión.
+
+Asignación de recursos
+
+Artículo Octavo. La Secretaría de Finanzas, Inversión y Administración definirá los procedimientos y mecanismos necesarios para la adecuada asignación de recursos a la Secretaría de Innovación, Ciencia y Educación Superior, para su correcta operación.
+
+En el caso de los recursos federales, la Secretaría de Finanzas, Inversión y Administración realizará las gestiones con las instancias correspondientes para los efectos de este artículo.
+
+Entrega-recepción
+
+Artículo Noveno. De conformidad a lo estipulado en el Reglamento de Entrega Recepción, la Secretaría de la Transparencia y Rendición de Cuentas, vigilará el proceso de entrega recepción extraordinaria.
+
+Término para la adecuación reglamentaria
+
+Artículo Décimo. El Gobernador del Estado expedirá los reglamentos necesarios para el cumplimiento de esta reforma, en un término que no exceda de ciento ochenta días, contados a partir de la entrada en vigor del presente Decreto. En tanto se expiden, continuarán vigentes los actuales en lo que no se opongan a la presente reforma, acorde a lo establecido en el artículo tercero transitorio del presente Decreto.
