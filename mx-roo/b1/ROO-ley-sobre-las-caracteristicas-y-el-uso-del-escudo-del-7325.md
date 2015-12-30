@@ -4,7 +4,7 @@ identifier: "ROO-ley-sobre-las-caracteristicas-y-el-uso-del-escudo-del-7325"
 country: "mx"
 rank: "ley"
 publication_date: "1978-03-31"
-last_updated: "2011-02-25"
+last_updated: "2015-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7325&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ROO"
 ---
 # LEY SOBRE LAS CARACTERISTICAS Y EL USO DEL ESCUDO DEL ESTADO DE QUINTANA ROO
 
-LEY SOBRE LAS CARACTERISTICAS Y EL USO DEL ESCUDO DEL ESTADO DE QUINTANA ROO
+LEY SOBRE LAS CARACTERÍSTICAS Y EL USO DEL ESCUDO DEL ESTADO DE QUINTANA ROO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE FEBRERO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Quintana Roo, el 31 de marzo de 1978.
 
@@ -57,11 +57,11 @@ El Gobierno del Estado y las autoridades Estatales y Municipales harán la debid
 
 En todas las Escuelas e Instituciones de Educación Públicas y privadas se colocará en sitio preferente el Escudo del Estado, a fin de que la juventud Quintanarroense conozca su simbología y aprenda a guardarle el respeto debido.
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 6°.
 
-El escudo del Estado de Quintana Roo, se compone con las características siguientes: escudo moderno, semirredondo, medio partido y cortado de gules y azur sobre oro, con figura cimera de sol naciente con diez haces de rayos en gules y oro. En el cuartel diestro superior caracol estilizado de oro. En el cuartel siniestro superior estrella de cinco puntas en plata. En punta tres triángulos estables sobre Glifo Maya del viento “IK” en Sinople. Bordea el emblema cuarteles y cantones en franja simple.
+El escudo del Estado de Quintana Roo, se compone con las características siguientes: escudo moderno, semirredondo, medio partido y cortado de gules y azur sobre oro, con figura cimera de sol naciente con once haces de rayos en gules y oro. En el cuartel diestro superior caracol estilizado de oro. En el cuartel siniestro superior estrella de cinco puntas en plata. En punta tres triángulos estables sobre Glifo Maya del viento “IK” en Sinople. Bordea el emblema cuarteles y cantones en franja simple.
 
 ### CAPITULO II. Del Uso del Escudo
 
@@ -156,3 +156,17 @@ P.O. 24 DE FEBRERO DE 2011.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO.- Los escudos que se exhiban en los edificios públicos, escuelas o en otras instituciones, deberán ajustarse a la reforma del Artículo 6 de la Ley Sobre las Características y el Uso del Escudo del Estado de Quintana Roo establecida en el presente Decreto. Se exceptúan los escudos esculpidos en edificios o centros históricos que se encuentren ubicados en el Estado de Quintana Roo, que constituyan por su valor cultural o trascendencia social, parte indisoluble de la peculiaridad del pueblo .quintanarroense.
+
+P.O. 30 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 377 POR EL QUE SE REFORMA El ARTÍCULO 6 DE LA LEY SOBRE LAS CARACTERÍSTICAS Y EL USO DEL ESCUDO DEL ESTADO DE QUINTANA ROO; SE REFORMA EL ARTÍCULO 11 DE LA LEY SOBRE LAS CARACTERÍSTICAS, DIFUSIÓN Y EJECUCIÓN DEL HIMNO A QUINTANA ROO; SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 75 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO; SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 22 DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE QUINTANA ROO, Y SE REFORMA EL INCISO F) DEL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 121 POR EL QUE LA HONORABLE XIV LEGISLATURA DEL ESTADO DE QUINTANA ROO EMITE LA DECLARATORIA DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO Y ORAL EN LOS ORDENAMIENTOS LEGALES DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, PUBLICADO EN El PERIÓDICO OFICIAL DEL ESTADO DE QUINTANA ROO DE FECHA 6 DE JUNIO DE 2014”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día 6 de enero del año 2016, previa su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. El uso de los escudos que se esgriman en los edificios públicos, escuelas o en otras instituciones, deberán ajustarse a la reforma del artículo 6 de la Ley Sobre las Características y el Uso del Escudo del Estado de Quintana Roo, establecida en el presente decreto. Se exceptúan los escudos esculpidos en edificios, monumentos y centros históricos que se encuentren ubicados en el Estado de Quintana Roo, que constituyan por su valor cultural o trascendencia social, parte invariable de la característica del pueblo quintanarroense, independientemente del material en que se obren.
+
+TERCERO. Los juicios iniciados en el Distrito Judicial de Cancún, con anterioridad a la entrada en vigor del presente decreto, serán concluidos en dicho Distrito Judicial.
+
+CUARTO. Remítase copia del presente Decreto a los poderes públicos de la Federación, de las Entidades Federativas y del Distrito Federal, así como a los demás poderes del Estado de Quintana Roo, para su conocimiento y efectos a que haya lugar.
+
+QUINTO. Remítase copia del presente Decreto a la Procuraduría General de Justicia, al Instituto de la Defensoría Pública del Estado, al Centro de Justicia Alternativa, a la Secretaría de Seguridad Pública y a los Honorables Ayuntamientos, todos del Estado de Quintana Roo, para los efectos correspondientes.
