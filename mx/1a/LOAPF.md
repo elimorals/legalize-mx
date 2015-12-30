@@ -4,7 +4,7 @@ identifier: "LOAPF"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-12-29"
-last_updated: "2015-12-17"
+last_updated: "2015-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=370&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LOAPF"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Diario Oficial de la Federación, el miércoles 29 de diciembre de 1976.
 
@@ -750,7 +750,7 @@ XVII.- Llevar a cabo las tramitaciones y registros que requiera el control y la 
 
 XVIII.- Formular la Cuenta Anual de la Hacienda Pública Federal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO CUARTO DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL Y DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA QUE MODIFICA LA LEY, D.O.F. 30 DE DICIEMBRE DE 2015.</small>
 
 > <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
 
@@ -902,9 +902,13 @@ XII.- Promover la construcción de obras de infraestructura y equipamiento para 
 
 XIII.- Asegurar la adecuada distribución, comercialización y abastecimiento de los productos de consumo básico de la población de escasos recursos, con la intervención que corresponde a la Secretaría de Economía así como a la Secretaría de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación; bajo principios que eviten el uso o aprovechamiento indebido y ajenos a los objetivos institucionales;
 
-XIV.- (DEROGADA, D.O.F. 2 DE ENERO DE 2013)
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
 
-XV.- (DEROGADA, D.O.F. 2 DE ENERO DE 2013)
+XIV.- Formular, conducir y evaluar la política de fomento y desarrollo del sector social de la economía;
+
+> <small>(ADICIONADA, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
+
+XV.- Fomentar la organización y constitución de toda clase de sociedades cooperativas, cuyo objeto sea la producción industrial, la distribución o el consumo, y
 
 > <small>(REFORMADA, D.O.F. 2 DE ENERO DE 2013)</small>
 
@@ -1274,9 +1278,7 @@ VIII.- Regular, orientar y estimular las medidas de protección al consumidor;
 
 IX.- Participar con las Secretarías de Desarrollo Social, de Agricultura, Ganadería, Desarrollo Rural, Pesca y Alimentación y de Medio Ambiente y Recursos Naturales, en la distribución y comercialización de productos y el abastecimiento de los consumos básicos de la población;
 
-> <small>(REFORMADA, D.O.F. 29 DE DICIEMBRE DE 1982)</small>
-
-X.- Fomentar la organización y constitución de toda clase de sociedades cooperativas, cuyo objeto sea la producción industrial, la distribución o el consumo;
+X.- (DEROGADA, D.O.F. 30 DE DICIEMBRE DE 2015)
 
 > <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2000)</small>
 
@@ -2977,3 +2979,51 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. Con la entrada en vigor de este Decreto, se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al mismo.
 
 Tercero. A partir del inicio de las precampañas y hasta el día de la jornada electoral, el Gobierno Federal y los gobiernos de las entidades federativas y municipios, suspenderán la distribución o sustitución de equipos receptores o decodificadores, así como los programas de entrega de televisiones digitales que realice en aquellas entidades federativas en las que se verifiquen procesos electorales durante el 2016. El Instituto Nacional Electoral verificará el cumplimiento de esta disposición y aplicará, en su caso, las sanciones correspondientes. La entrega, distribución o sustitución de equipos receptores, decodificadores, o televisores digitales en contravención a lo dispuesto en este artículo será sancionada en términos de la Ley General de Instituciones y Procedimientos Electorales.
+
+D.O.F. 30 DE DICIEMBRE DE 2015.
+
+DECRETO POR EL QUE SE ADICIONAN LAS FRACCIONES XIV Y XV AL ARTÍCULO 32 Y SE DEROGA LA FRACCIÓN X DEL ARTÍCULO 34 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA FEDERAL.
+
+Primero. El presente Decreto entrará en vigor el primero de enero del año dos mil dieciséis, sin perjuicio de lo señalado en las siguientes disposiciones transitorias.
+
+Segundo. El Ejecutivo Federal, a más tardar a los ciento veinte días naturales siguientes a la entrada en vigor del presente Decreto, deberá realizar las modificaciones a las disposiciones reglamentarias correspondientes.
+
+Tercero. El Acuerdo de organización y funcionamiento del Instituto Nacional de la Economía Social publicado el 22 de julio de 2013 en el Diario Oficial de la Federación, continuará aplicándose en lo que no se oponga a este Decreto, hasta que la Secretaría de Desarrollo Social emita el nuevo Acuerdo. En tanto ello sucede, dicha Secretaría resolverá respecto de aquello que no se encuentre previsto.
+
+Cuarto. Los oficiales mayores de la secretarías de Desarrollo Social y de Economía, con la participación que corresponda al Instituto Nacional de la Economía Social y el apoyo de la Secretaría de Hacienda y Crédito Público, realizarán todas las acciones administrativas para dar cumplimiento a lo establecido en el presente Decreto, mismas que deberán estar concluidas a más tardar en el plazo a que se refiere el transitorio Segundo de este Decreto.
+
+Quinto. Los derechos laborales de los trabajadores del Instituto Nacional de la Economía Social no se verán afectados con motivo de la entrada en vigor de este Decreto.
+
+En caso de que la Secretaría de Desarrollo Social determine, con base en las prioridades de gasto público del ejercicio fiscal de que se trate, así como en las necesidades y funciones del Instituto Nacional de la Economía Social, que se deben realizar modificaciones a la estructura orgánica de éste, los derechos laborales de los trabajadores deberán ser respetados conforme a la Ley.
+
+Sexto. En el plazo referido en el transitorio segundo de este Decreto, la Secretaría de Desarrollo Social emitirá las reglas de operación, que contendrán al menos lo siguiente:
+
+a) Para la consolidación empresarial y el desarrollo de organismos del sector social de la economía que cumplan con los requisitos establecidos en las propias reglas de operación recibirán los apoyos del Instituto.
+
+b) Los beneficiarios de los programas que actualmente opera la Secretaría correspondientes y que se incorporen a los programas operados por el Instituto, serán sujetos de las reglas de operación del programa de fomento a la economía social y deberán cumplir con los criterios vigentes de elegibilidad y requisitos para ser beneficiarios de los programas operados por el Instituto.
+
+c) Los mecanismos de evaluación y transparencia sobre los resultados de los programas a cargo del Instituto y el padrón de beneficiarios a través de las disposiciones aplicables.
+
+Con la finalidad de verificar el cumplimiento de las políticas públicas de fomento y apoyo, el Consejo Nacional de Evaluación de la Política de Desarrollo Social realizará la evaluación de los programas a cargo de la Secretaría de Desarrollo Social, y los remitirá a la Cámara de Diputados, en los términos que establece la Ley de la Economía Social y Solidaria Reglamentaria del párrafo octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía.
+
+D.O.F. 30 DE DICIEMBRE DE 2015.
+
+DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL Y DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Consejo Nacional de Armonización Contable, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto, emitirá las reglas de operación que deberán cumplir las entidades federativas para la integración y funcionamiento de sus consejos de armonización contable.
+
+Tercero. Las entidades federativas deberán instalar sus consejos de armonización contable a más tardar a los treinta días naturales siguientes a la emisión de las reglas a que se refiere el artículo transitorio anterior.
+
+Cuarto. En la fecha a que se refiere el transitorio Primero del presente Decreto, entrará en vigor la modificación prevista a la fracción XIX del artículo 31 de la Ley Orgánica de la Administración Pública Federal, establecida en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 2 de enero de 2013.
+
+Quinto. El Ejecutivo Federal deberá realizar las reformas necesarias al Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y demás disposiciones aplicables, de conformidad con lo previsto en este Decreto, dentro de los noventa días naturales posteriores a la entrada en vigor del presente Decreto.
+
+Sexto. Derivado de lo previsto en el presente Decreto, los trámites que se hayan iniciado ante la Secretaría de la Función Pública serán concluidos por la Secretaría de Hacienda y Crédito Público.
+
+Las secretarías de Hacienda y Crédito Público y de la Función Pública realizarán las acciones que correspondan en el ámbito administrativo para que, dentro de los noventa días naturales posteriores a la entrada en vigor del presente Decreto, la Secretaría de Hacienda y Crédito Público reciba los asuntos en trámite, a fin de dar cumplimiento a lo previsto en el párrafo anterior.
+
+Las erogaciones que, en su caso, realicen las dependencias a que se refiere el párrafo anterior en cumplimiento a este Decreto, se cubrirán con cargo a sus respectivos presupuestos aprobados para el ejercicio fiscal correspondiente.
+
+Séptimo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
