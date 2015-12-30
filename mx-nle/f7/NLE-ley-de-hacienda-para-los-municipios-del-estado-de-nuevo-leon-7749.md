@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-para-los-municipios-del-estado-de-nuevo-leon-77
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2014-12-29"
+last_updated: "2015-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7749&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -633,6 +633,38 @@ En caso de que la Tesorería Municipal advierta que los contribuyentes no cumpli
 
 Los servidores públicos adscritos a las tesorerías municipales brindarán a los contribuyentes la debida orientación y facilidades para poder acceder a estos beneficios.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 21 Bis 12-B.
+
+El impuesto predial podrá ser pagado total o parcialmente en dinero o en especie, siempre y cuando el bien o bienes entregados al Municipio con el objetivo de saldar el adeudo de dicho impuesto, tenga como finalidad el fomento a la protección del medio ambiente mediante materiales que puedan ser reciclados o reusados, de conformidad con el listado de materiales que establezca cada Municipio y que deberán publicar en el Periódico Oficial del Estado de Nuevo León.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 21 Bis 12-C.
+
+Los Municipios, en el ámbito de sus posibilidades, deberán establecer programas de recaudación fiscal del impuesto predial con la finalidad de fomentar la cultura del medio ambiente, mediante mecanismos de reciclaje o reúso de los materiales que estime la autoridad.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 21 Bis 12-D.
+
+El Municipio deberá entregar un recibo por el pago que se realizó al impuesto predial, el cual en caso de no contar con adeudos, se acreditará en contribuciones futuras.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 21 Bis 12-E.
+
+Los Municipios podrán celebrar con empresas y/o particulares convenios para la compra-venta de los materiales a reciclar o reusar, el comprador de los materiales de conformidad a los valores de mercado, al momento de la transacción expedirá por cada operación comprobante de pago, este se hará efectivo al presentarlo en las oficinas recaudadoras del Municipio correspondiente.
+
+Derivado de las operaciones señaladas en el párrafo anterior, las empresas y/o particulares convenidos para la compra de materiales, deberán depositar a favor del Municipio, la misma cantidad de dinero señalada en los comprobantes de pago expedidos a los contribuyentes y acorde a lo estipulado en el convenio.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 21 Bis 12-F.
+
+Los convenios señalados en el artículo 21 Bis 12-E deberán ser publicados en el Periódico Oficial del Estado de Nuevo León, en un plazo no mayor a 30 días naturales a partir de su celebración.
+
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 1998)</small>
 
 ###### ARTICULO 21 Bis 13.
@@ -853,7 +885,7 @@ Para efectos de este impuesto se entiende por adquisición, la que se derive de:
 
 > <small>(REFORMADA, P.O. 13 DE ENERO DE 2007)</small>
 
-I.- Todo acto por el que se transmita la propiedad, o cualquiera de sus modalidades, incluyendo derechos de copropiedad, así como la aportación a toda clase de asociaciones y sociedades.
+I.- Todo acto por el que se trasmitan la propiedad, o cualquiera de sus modalidades, incluyendo derechos de copropiedad, así como la aportación a toda clase de asociaciones y sociedades.
 
 II.- La compra-venta en la que el vendedor se reserve la propiedad, aún cuando la transferencia de ésta opere con posterioridad.
 
@@ -2795,39 +2827,39 @@ Por licencia para la utilización de equipamiento urbano o la vía pública para
 
 Están exentos del pago, a que se refiere el párrafo anterior, los partidos políticos, siempre que destinen el medio de difusión de que se trate, a la promoción de actividades que sean propias de su objeto.
 
-(REUBICADO, P.O. 31 DE DICIEMBRE DE 1986)
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-### CAPITULO IX. POR LIMPIEZA DE LOTES BALDIOS
+### CAPITULO IX. Por limpieza de Lotes Baldíos o Casas Desocupadas
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-###### ARTICULO 65.
+###### Artículo 65.
 
-Los propietarios de predios baldíos deberán efectuar el desmonte, desyerba o limpieza de su inmueble, retirando la rama, basura o escombro, tres veces al año a más tardar en los meses de marzo, julio y noviembre respectivamente.
+Los propietarios de predios como lotes baldíos o casas desocupadas deberán efectuar el desmonte, desyerbe o limpieza de su inmueble, retirando la rama, basura o escombro, tres veces al año a más tardar en los meses de marzo, julio y noviembre respectivamente.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-Independientemente de la (sic) fechas señaladas en el párrafo anterior, la Autoridad Municipal podrá requerir en cualquier momento al propietario o poseedor del predio baldío, para que realice la limpieza, desmonte y desyerba de su predio, cuando el mismo esté provocando condiciones de insalubridad o inseguridad.
+Independientemente de las fechas señaladas en el párrafo anterior, la Autoridad Municipal podrá requerir en cualquier momento al propietario o poseedor del lote baldío o casa desocupada para que realice la limpieza, desmonte y desyerbe de su lote baldío o casa desocupada, cuando el mismo esté provocando condiciones de insalubridad o inseguridad.
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-De no cumplirse con lo dispuesto en los dos párrafos anteriores el Municipio podrá por sí mismo o mediante contratación de terceros, efectuar el servicio de desmonte, desyerba o limpieza del predio baldío, según sea el caso; circunstancias en las cuales el propietario estará obligado a pagar al Municipio la prestación del servicio. Así mismo la Autoridad Municipal competente le impondrá una multa de uno a tres tantos de los derechos que le correspondería pagar, dependiendo de la reincidencia.
+De no cumplirse con lo dispuesto en los dos párrafos anteriores el Municipio podrá por sí mismo o mediante contratación de terceros, efectuar el servicio de desmonte, desyerbe o limpieza del lote baldío o casa desocupada, según sea el caso; esto de acuerdo con el procedimiento que se establezca en los reglamentos municipales correspondientes y el propietario estará obligado a pagar al Municipio la prestación del servicio. Así mismo la Autoridad Municipal competente le impondrá una multa de tres a seis tantos de los derechos que le correspondería pagar, dependiendo de la reincidencia.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
 
 El pago de la multa que se impusiere al infractor no lo exime de las obligaciones establecidas en este artículo.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
 Cuando el Municipio efectúe los servicios a los que se refiere el párrafo anterior, se causarán los derechos conforme a la siguiente tarifa por metro cuadrado:
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
+a) Lotes baldíos con superficie hasta 1,000 metros cuadrados, por cada metro cuadrado 0.60 cuotas
 
-a) Predios con superficie hasta 1,000 metros cuadrados 0.30 cuotas
+b) Por el excedente de 1,000 metros cuadrados, por cada metro cuadrado excedente en lotes baldíos 0.52 cuotas
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b) Por el excedente de 1,000 metros cuadrados, por cada metro cuadrado excedente 0.26 cuotas
+En el caso de casas desocupadas se cobrarán las cuotas que resulten por la superficie que fue objeto de desmonte, desyerbe o limpieza.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
@@ -2837,17 +2869,25 @@ Para los efectos de este artículo deberá entenderse por:
 
 Desmonte.- Es la acción de cortar y retirar del predio baldío aquellos arbustos de tallo leñoso, cuyo diámetro sea inferior a 5 centímetros.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-Desyerba.- Es la acción de cortar y retirar del predio baldío aquellas plantas de tallo herbáceo que se encuentren en el mismo.
+Desyerbe.- Es la acción de cortar y retirar del predio baldío aquellas plantas de tallo herbáceo que se encuentren en el mismo.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+Casa desocupada.- Es aquella edificación que cualquiera que haya sido su uso no es la residencia habitual de ninguna persona ni es utilizada de forma estacional, periódica o esporádica por nadie; estando deshabitada o simplemente abandonada.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+Entendiéndose por abandono, el estado físico del inmueble en cuestión que a simple vista puede observar algunas de estas características: deterioro en su fachada, suciedad, basura, plantas o maleza sin cortar, vidrios rotos, puertas o cerraduras en evidente estado de oxidación.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2000)</small>
 
 Reincidencia.- Se considera que se presenta la reincidencia cuando no se cumpla en más de una ocasión con la obligación que establece el primer párrafo de este artículo, habiéndose requerido previamente por el Municipio.
 
-> <small>(REFORMADO, P.O. 13 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-El propietario podrá solicitar al Municipio el servicio de recolección, traslado y disposición final de basura producto de la limpieza de su predio, siendo el costo de este servicio la cantidad de 6 cuotas por metro cúbico o fracción de materia recolectada.
+El propietario podrá solicitar al Municipio el servicio de recolección, traslado y disposición final de basura producto de la limpieza de su lote baldío o casa desocupada, siendo el costo de este servicio la cantidad de 6 cuotas por metro cúbico o fracción de materia recolectada.
 
 > <small>(ADICIONADO CON EL ARTICULO QUE LO INTEGRA, P.O. 29 DE DICIEMBRE DE 1989)</small>
 
@@ -3756,3 +3796,19 @@ P.O. 27 DE DICIEMBRE DE 2013.
 P.O. 29 DE DICIEMBRE DE 2014.
 
 Único.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 066. SE REFORMA POR ADICIÓN DE LOS ARTÍCULOS 21 BIS 12-B, 21 BIS 12-C, 21 BIS 12-D, 21 BIS 12-E Y 21 BIS 12-F, LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEÓN”.]
+
+Primero.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- Los Municipios del Estado de Nuevo León deberán hacer las modificaciones necesarias a sus ordenamientos jurídicos en un plazo no mayor a 90 días naturales, a partir de la entrada en vigor del presente decreto.
+
+P.O. 30 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 069. SE REFORMA EL NOMBRE DEL CAPÍTULO IX DEL TÍTULO TERCERO Y EL ARTÍCULO 65 DE LA LEY DE HACIENDA PARA LOS MUNICIPIOS DEL ESTADO DE NUEVO LEÓN".]
+
+Primero.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Nuevo León.
+
+Segundo.- Los municipios contarán con 90 días hábiles a partir de la entrada en vigor de este decreto para modificar su reglamentación municipal correspondiente.
