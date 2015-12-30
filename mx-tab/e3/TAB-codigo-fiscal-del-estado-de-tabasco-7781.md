@@ -4,7 +4,7 @@ identifier: "TAB-codigo-fiscal-del-estado-de-tabasco-7781"
 country: "mx"
 rank: "codigo"
 publication_date: "1993-09-25"
-last_updated: "2014-12-24"
+last_updated: "2015-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "TAB"
 
 CÓDIGO FISCAL DEL ESTADO DE TABASCO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE DECRETO ENTRA EN VIGOR EL 1 DE ENERO DE 2015.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Tabasco, el sábado 25 de septiembre de 1993.
 
@@ -163,49 +161,63 @@ VII. El Director Técnico de Recaudación;
 
 VIII. El Director de Auditoría Fiscal;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+IX. El Director General de Fiscalización;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+X. El Director de Licencias e Inspecciones;
+
 > <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-IX. El Director General de Catastro y Ejecución Fiscal;
+XI. El Director General de Catastro y Ejecución Fiscal;
 
 > <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-X. El Director de Catastro;
+XII. El Director de Catastro;
 
 > <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-XI. El Titular de la Unidad de Ejecución Fiscal;
+XIII. El Titular de la Unidad de Ejecución Fiscal;
 
 > <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
-XII. El Director de Control de Procesos;
+XIV. El Director de Control de Procesos;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-XIII. Los Receptores de Rentas;
+XV. Los Receptores de Rentas;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-XIV. Los Notificadores;
+XVI. Los Notificadores;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-XV. Los Ejecutores;
+XVII. Los Ejecutores;
 
 > <small>(REFORMADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-XVI. Los Visitadores;
+XVIII. Los Visitadores;
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-XVII. Los Verificadores;
+XIX. Los Verificadores;
 
 > <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
-XVIII. Los Auditores; y
+XX. Los Auditores; y
 
-> <small>(ADICIONADA, P.O. 21 DE DICIEMBRE DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-XIX. Los demás que señalen las leyes, así como aquellas personas habilitadas por acuerdo expreso del Secretario de Planeación y Finanzas para ejercer funciones relacionadas con la gestión y la recepción de pago de contribuciones; en este último caso dicho acuerdo debe ser publicado en el Periódico Oficial del Estado de Tabasco.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXI. Los Demás que señalen las leyes, así como aquellas personas habilitadas por acuerdo expreso del Secretario de Planeación y Finanzas para ejercer funciones relacionadas con la gestión y la recepción de pago de contribuciones; en este último caso dicho acuerdo debe ser publicado en el Periódico Oficial del Estado de Tabasco.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -915,25 +927,43 @@ III. Conceder subsidios o estímulos fiscales.
 
 Las resoluciones que conforme a este artículo dicte el Ejecutivo Estatal, deberán señalar las contribuciones a que se refieren, salvo, que se trate de estímulos fiscales, así como, el monto o proporción de los beneficios, plazos que se concedan y los requisitos que deban cumplirse por los beneficiados.
 
-> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-###### Artículo 34 Bis.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-La Administración Pública Estatal, Centralizada y Paraestatal, el Poder Legislativo, el Poder Judicial, Municipios y Órganos Constitucionales Autónomos, en ningún caso contratarán adquisiciones, arrendamientos, servicios u obra pública con los particulares que:
+###### Artículo 34
+
+Bis.- La Administración Pública Estatal, Centralizada y Paraestatal, el Poder Legislativo, el Poder Judicial, Municipios y Órganos Constitucionales Autónomos, en ningún caso contratarán adquisiciones, arrendamientos, servicios u obra pública con los particulares que en contravención a las disposiciones aplicables incurran en alguno de los siguientes casos:
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 I. Tengan a su cargo créditos fiscales firmes.
 
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 II. Tengan a su cargo créditos fiscales determinados, firmes o no, que no se encuentren pagados o garantizados en alguna de las formas permitidas por este Código.
+
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 III. No se encuentren inscritos en el Registro Estatal de Contribuyentes.
 
+> <small>(ADICIONADA, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 IV. Habiendo vencido el plazo para presentar alguna declaración, y con independencia de que en la misma resulte o no cantidad a pagar, ésta no haya sido presentada. Lo dispuesto en esta fracción no es aplicable tratándose de omisión en la presentación de declaraciones que sean exclusivamente informativas.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 Para los efectos de este artículo la autoridad fiscal competente expedirá la constancia que corresponda, previa solicitud del particular y pago del derecho correspondiente conforme a la Ley de Hacienda del Estado de Tabasco, dicha constancia tendrá vigencia de un mes contado desde la fecha de su expedición.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 La prohibición establecida en este artículo no será aplicable a los particulares que se encuentren en los supuestos de las fracciones I y II de este artículo, siempre que celebren convenio con las autoridades fiscales en los términos que este Código establece para cubrir a plazos, ya sea como pago diferido o en parcialidades, los adeudos fiscales que tengan a su cargo deberán ser cubiertos con los recursos que obtengan por enajenación, arrendamiento, servicios u obra pública que se pretendan contratar y que no se ubiquen en algún otro de los supuestos contenidos en este artículo.
 
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+
 Para estos efectos, en el convenio se establecerá que las dependencias antes citadas retengan una parte de la contraprestación para ser enterada al fisco estatal para el pago de los adeudos correspondientes, lo cual la autoridad fiscal deberá hacer del conocimiento de las citadas dependencias para que cumplan con la retención y entero, apercibiéndolas como si de embargo de créditos se tratase de conformidad con el primer párrafo del artículo 129 de este Código.
+
+> <small>(ADICIONADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
 Los proveedores a quienes se adjudique el contrato sólo podrán subcontratar con aquellos contribuyentes que estén al corriente de sus obligaciones fiscales, de conformidad con lo dispuesto por este artículo.
 
@@ -2153,13 +2183,33 @@ IV. Por edictos, en el caso de que la persona a quien deba notificarse hubiera f
 
 V. Por instructivo, solamente en los casos y con las formalidades a que se refiere el segundo párrafo del artículo 97 de este Código.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+La Secretaría de Planeación y Finanzas podrá habilitar a terceros para que realicen las notificaciones previstas en la fracción I de este artículo, cumpliendo las formalidades previstas en este Código.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+Para los efectos del artículo 56 primer párrafo de este Código, los terceros habilitados para realizar las notificaciones, están obligados a guardar absoluta reserva de los datos de los contribuyentes que las autoridades fiscales les suministren para ese fin, observando en todo momento los convenios de confidencialidad suscritos con la Secretaría de Planeación y Finanzas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+Para los efectos de los artículos 95, 96 y 97 de este Código, el notificador de los terceros habilitados, deberá identificarse ante la persona con quien se entienda la diligencia, mediante la constancia de identificación que para tales actos emita la empresa tercera contratada por la Secretaría de Planeación y Finanzas.
+
 ###### Artículo 95.
 
 Las notificaciones surtirán sus efectos el día hábil siguiente a aquel en que fueron hechas y al practicarlas deberá proporcionarse al interesado copia del acto administrativo que se notifique.
 
-> <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-Cuando se haga la notificación, deberá señalarse la fecha en que se efectúe, recabando, el nombre y la firma de la persona con quien se entienda la diligencia. Si ésta se niega a una u otra cosa, se hará constar en el acta de notificación.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+En la notificación, deberá señalarse la fecha en que ésta se efectúe, recabando el nombre y la firma de la persona con quien se entienda la diligencia. Si dicha persona se niega a una u otra cosa, se hará constar en el acta de notificación.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -2183,7 +2233,11 @@ Cuando la notificación deba efectuarse personalmente y el notificador no encuen
 
 Tratándose de actos relativos al procedimiento administrativo de ejecución, el citatorio será siempre para la espera antes señalada y, si la persona citada o su representante legal no esperaren, se practicará la diligencia con quien se encuentre en su domicilio o en su defecto con un vecino. En caso de que estos últimos se negaren a recibir la notificación, ésta se hará por medio de instructivo que se fijará en lugar visible de dicho domicilio, debiendo el notificador asentar la razón de tal circunstancia para dar cuenta al jefe de la oficina recaudadora.
 
-Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, los honorarios que establezca este Código se causarán a cargo de quien incurrió en incumplimiento.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se cobrará por concepto de honorarios 3 días de salario mínimo general vigente en el Estado, y se causarán a cargo de quien incurrió en incumplimiento.
 
 > <small>(REFORMADO, P.O. 24 DE DICIEMBRE DE 2014)</small>
 
@@ -2341,7 +2395,11 @@ III. Tratándose de personas físicas el depositario de los bienes será el prop
 
 IV. Deberá inscribirse en el Instituto Registral del Estado de Tabasco que corresponda el embargo de los bienes que estén sujetos a esta formalidad;
 
-V. Deberá cubrirse, con anticipación a la práctica de la diligencia del embargo en la vía administrativa, los gastos de ejecución señalados en el Reglamento. El pago así efectuado tendrá el carácter de definitivo y en ningún caso procederá su devolución una vez practicada la diligencia.
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+V. Deberá cubrirse, con anticipación a la práctica de la diligencia del embargo en la vía administrativa, los gastos de ejecución que correspondan. El pago así efectuado tendrá el carácter de definitivo y en ningún caso procederá su devolución una vez practicada la diligencia.
 
 > <small>(ADICIONADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
 
@@ -2583,9 +2641,55 @@ Para que sea aplicable la excepción a que se refiere el párrafo anterior, ser�
 
 En ningún caso el fisco estatal intervendrá en los juicios universales. Cuando se inicie el juicio de quiebra, suspensión de pago o de concurso, el Juez que conozca del asunto deberá dar aviso a las autoridades fiscales para que, en su caso, hagan exigibles los créditos fiscales a su favor a través del Procedimiento Administrativo de Ejecución.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 119.
 
-Cuando sea necesario emplear el Procedimiento Administrativo de Ejecución para hacer efectivo un crédito fiscal, las personas físicas y las morales deberán pagar gastos de ejecución, conforme lo determine el Reglamento para el cobro de honorarios y gastos de ejecución.
+Cuando sea necesario emplear el Procedimiento Administrativo de Ejecución para hacer efectivo un crédito fiscal, las personas físicas y las morales estarán obligadas a pagar el 2% del crédito fiscal por concepto de gastos de ejecución, por cada una de las diligencias que a continuación se indican:
+
+I. Por el requerimiento señalado en el primer párrafo del artículo 120 de este Código;
+
+II. Por la de embargo, incluyendo los señalados en los artículos 36, fracción II y 101, fracción V de este Código.
+
+III. Por la de remate, enajenación fuera de remate o adjudicación al fisco estatal.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+Cuando en los casos de las fracciones anteriores, el 2% del crédito sea inferior a $380.00 se cobrará esta cantidad en vez del 2% del crédito.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+En ningún caso los gastos de ejecución, por cada una de las diligencias a que se refiere este artículo, excluyendo las erogaciones extraordinarias y las contribuciones que se paguen por la Federación para liberar de cualquier gravamen bienes que sean objeto de remate, podrán exceder de $59,540.00.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+Asimismo, se pagarán por concepto de gastos de ejecución, los extraordinarios en que se incurra con motivo del procedimiento administrativo de ejecución, incluyendo los que en su caso deriven de los embargos señalados en los artículos 36, fracción II y 101, fracción V, de este Código, que comprenderán los de transporte de los bienes embargados, de avalúos, de impresión y publicación de convocatorias y edictos, de investigaciones, de inscripciones, de cancelaciones o de solicitudes de información, en el registro público que corresponda, los erogados por la obtención del certificado de liberación de gravámenes, los honorarios de los depositarios y de los peritos, salvo cuando dichos depositarios renuncien expresamente al cobro de tales honorarios, los devengados por concepto de escrituración y las contribuciones que origine la transmisión de dominio de los bienes inmuebles enajenados o adjudicados a favor del Estado en los términos de lo previsto por los artículos 159 de este Código, y las contribuciones que se paguen por el Estado para liberar de cualquier gravamen a los bienes que sean objeto de remate.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+Los gastos de ejecución se determinarán por la autoridad ejecutora, debiendo pagarse junto con los demás créditos fiscales, salvo que se interponga el recurso de revocación.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+Cuando las autoridades fiscales ordenen la práctica de un avalúo, y éste resulte superior en más de un 10% del valor declarado por el contribuyente, éste deberá cubrir el costo de dicho avalúo.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+Los ingresos recaudados por concepto de gastos de ejecución, se destinarán conforme lo aprobado en el Presupuesto de Egresos del Estado.
 
 #### Sección Segunda. Embargo
 
@@ -3636,3 +3740,15 @@ El plazo para el cómputo de la prescripción a que se refiere el párrafo quint
 Tratándose de los créditos fiscales exigibles con anterioridad al 1 de enero de 2006, la Secretaría de Planeación y Finanzas tendrá un plazo máximo de dos años para hacer efectivo el cobro de dichos créditos contados a partir de la entrada en vigor del presente Decreto, siempre que se trate de créditos que no se encuentren controvertidos en dicho periodo; de controvertirse, el plazo máximo de dos años será suspendido.
 
 La aplicación del presente artículo no configurará responsabilidad administrativa para servidores públicos encargados de la ejecución y cobro de créditos fiscales, siempre y cuando realicen las gestiones de cobro correspondientes.
+
+P.O. 30 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 269 POR EL QUE "SE REFORMAN LOS ARTÍCULOS: 34 BIS, PÁRRAFO PRIMERO; 95, PÁRRAFO SEGUNDO; 97, PÁRRAFO TERCERO; 108, FRACCIÓN V; 119, PÁRRAFO PRIMERO. SE ADICIONAN: LAS FRACCIONES IX Y X AL ARTÍCULO 8, PASANDO LAS ACTUALES IX, X, XI, XII, XIII, XIV, XV, XVI, XVII, XVIII Y XIX A SER LAS FRACCIONES XI, XVII, XIII, XIV, XV, XVI, XVII, XVIII, XIX, XX, XXI; AL 94, LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO; AL 119 LOS PÁRRAFOS SEGUNDO, TERCERO, CUARTO QUINTO, SEXTO Y SÉPTIMO. TODOS DEL CÓDIGO FISCAL DEL ESTADO DE TABASCO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor el 01 de enero de 2016.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento para el Cobro y Aplicación de Honorarios por Notificación de Créditos Fiscales y Gastos de Ejecución y se derogan todas las disposiciones que se opongan al contenido del presente decreto.
