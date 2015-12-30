@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-hacienda-del-estado-de-zacatecas-19080"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2014-12-31"
+last_updated: "2015-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ZAC"
 ---
 # LEY DE HACIENDA DEL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE ENERO DE 2016 EN EL P.O. DEL ESTADO DE ZACATECAS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE HACIENDA DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el sábado 30 de diciembre del 2000.
 
@@ -143,15 +145,13 @@ V. Tratándose de otros bienes muebles distintos a los señalados en las fraccio
 
 DE LA TASA
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 8.
 
-Este impuesto se determinará aplicando a la base gravable, la tasa del 1.40 %. En ningún caso el impuesto determinado será menor de 1 cuota.
+Este impuesto se determinará aplicando a la base gravable, la tasa del 1.40%. En ningún caso el impuesto determinado será menor de $68.00.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-En ningún caso el impuesto determinado será menor de $66.00.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
 DEL PAGO
 
@@ -793,7 +793,9 @@ VEHÍCULOS USADOS
 
 ARTICULO 36 QUINQUIES.- Tratándose de vehículos de fabricación nacional o importada de hasta nueve años de antigüedad, el impuesto se determinará conforme a lo siguiente:
 
-I. Tratándose de vehículos usados de fabricación nacional o importados, a que se refieren (sic) los artículos 36 TER, fracciones I, III, IV y V de este Capítulo, el impuesto será el que resulte de multiplicar el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor que corresponda conforme a los año de antigüedad del vehículo, de acuerdo con la siguiente:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+I. Tratándose de vehículos usados de fabricación nacional o importados, a que se refieren las fracciones I, III, IV y V del artículo 36 TER de este Capítulo, el impuesto será el que resulte de multiplicar el importe del impuesto causado en el ejercicio fiscal inmediato anterior por el factor que corresponda conforme a los años de antigüedad del vehículo, de acuerdo con la siguiente:
 
 TABLA
 
@@ -911,21 +913,23 @@ b) La cantidad obtenida conforme al inciso anterior, se multiplicará por el fac
 
 IV. Tratándose de aeronaves y helicópteros de más de diez años de fabricación anteriores al de aplicación de este Capítulo, el impuesto se pagará conforme a la siguiente:
 
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
 TABLA
 
-TIPO DE CUOTA
+Tipo de Importe
 
-VEHÍCULOS
+Vehículos
 
 AERONAVES:
 
-Hélice $ 448.00
+Hélice $459.00
 
-Turbohélice 2,480.00
+Turbohélice $2,542.00
 
-Reacción 3,583.00
+Reacción $3,672.00
 
-HELICÓPTEROS 551.00
+HELICÓPTEROS $565.00
 
 V. Tratándose de motocicletas usadas de fabricación nacional o importadas, el impuesto será el que resulte de aplicar el procedimiento siguiente:
 
@@ -985,13 +989,15 @@ DEL PAGO
 
 Tratándose de vehículos usados de más de diez años y hasta veinte años de antigüedad al del año modelo de aplicación de este Capítulo; así como todo tipo de remolques, cualquiera que sea su año modelo, el impuesto se pagará de conformidad a los siguientes importes:
 
-TIPO DE VEHÍCULOS IMPORTE
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-Vehículos de motor $528.00
+Tipo de vehículos Importe
 
-Remolques $132.00
+Vehículos de motor $541.00
 
-Motocicletas y similares $132.00
+Remolques $135.00
+
+Motocicletas y similares $135.00
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
@@ -1085,17 +1091,17 @@ V. Los que tengan para su venta los fabricantes, las plantas ensambladoras, sus 
 
 VI. Cuando un vehículo sea registrado en otra entidad federativa y el propietario presente la documentación que acredite este hecho dentro de los 15 días hábiles siguientes a la realización de este supuesto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-ARTICULO 39 TER.- De resultar extemporánea la presentación de la documentación a que hace referencia el artículo 39 BIS fracción VI, se hará acreedor a una sanción equivalente a $1,320.00.
+ARTICULO 39 TER.- De resultar extemporánea la presentación de la documentación a que hace referencia el artículo 39 BIS fracción VI, se hará acreedor a una sanción equivalente a $1,353.00.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 Cuando por cualquier motivo un vehículo deje de estar comprendido en los supuestos a que se refiere el artículo 39 de este Capítulo, el tenedor o usuario del mismo deberá pagar el impuesto correspondiente dentro de los 15 días siguientes a aquél en que tenga lugar el hecho de que se trate
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-ARTICULO 39 QUATER.- Los tenedores o usuarios de los artículos a que se refiere (sic) las fracciones I y II del artículo 39 BIS de este Capítulo, para gozar del beneficio que el mismo establece, deberán comprobar ante la Secretaría de Finanzas que se encuentran comprendidos en dichos supuestos.
+ARTICULO 39 QUATER.- Los tenedores o usuarios de los vehículos a que se refieren las fracciones I y II del artículo 39 BIS de este Capítulo, para gozar del beneficio que el mismo establece, deberán comprobar ante la Secretaría de Finanzas que se encuentran comprendidos en dichos supuestos.
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
@@ -1153,25 +1159,25 @@ Los servicios que preste la Secretaría General de Gobierno por concepto de:
 
 I. Los derechos por el servicio de expedición de opinión favorable por parte del Ejecutivo del Estado, para el trámite de permisos, licencias o renovación de las mismas, respecto de la compraventa, transporte, fabricación, uso, consumo y almacenamiento de explosivos y sus componentes, se causarán al tenor de lo siguiente:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a) Para empresas del ramo de la minería..............$9,900.00
+a) Para empresas del ramo de la minería $10,146.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b) Para empresas del ramo de la construcción.... $6,600.00
+b) Para empresas del ramo de la construcción $6,764.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-c) Para mediana industria..................................... $3,300.00
+c) Para mediana industria $3,382.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-d) Para microindustrias y empresas ejidales......... $1,650.00
+d) Para microindustrias y empresas ejidales $1,691.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-e) Para el uso de explosivos por una sola vez en obras pequeñas de carácter municipal…............................................................$660.00
+e) Para el uso de explosivos por una sola vez en obras pequeñas de carácter municipal $676.00
 
 II. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2004; P.O. 31 DE DICIEMBRE DE 2011)
 
@@ -1185,85 +1191,85 @@ IV. Por la Dirección Estatal de Protección Civil por concepto de:
 
 a) Capacitación en brigadas de protección civil:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-De 1 a 10 participantes.....................$660.00
+De 1 a 10 participantes $676.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-De 11 a 20 participantes...................$1,320.00
+De 11 a 20 participantes $1,353.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-De 11 a 30 participantes...................$1,980.00
+De 21 a 30 participantes $2,029.00
 
 b) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2013)
 
 c) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2013)
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-d) Revisión y autorización del programa interno de protección civil……………………………….$1,900.00;
+d) Revisión, autorización y registro del programa interno de protección civil $1,900.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-e) Registro de grupos voluntarios………………………………$132.00;
+e) Registro de grupos voluntarios $135.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-f) Renovación del registro de grupos voluntarios………………$132.00;
+f) Renovación del registro de grupos voluntarios $135.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-g) Registro de instructores independientes, empresas asesoras, capacitadoras y consultoras de estudio de riesgo de vulnerabilidad, terceros acreditados......................................................................................$660.00;
+g) Registro de instructores independientes, empresas asesoras, capacitadoras y consultoras de estudio de riesgo de vulnerabilidad, terceros acreditados $675.00;
 
 h) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2013)
 
 i) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2013)
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-j) Renovación del registro de instructores independientes, empresas asesoras, capacitadoras y consultoras de estudio en riesgo de vulnerabilidad, terceros acreditados……………………………$660.00;
+j) Renovación del registro de instructores independientes, empresas asesoras, capacitadoras y consultoras de estudio en riego (sic) de vulnerabilidad, terceros acreditados $675.00;
 
 k) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2013)
 
 l) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2013)
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-m) Emisión de opinión técnica previa al otorgamiento de licencias de construcción, atendiendo al nivel de riesgo, tendrá un costo de:
+m) Emisión de opinión técnica previa de otorgamiento de licencias de construcción, atendiendo al nivel de riego (sic), tendrá un costo de:
 
-1. Nivel de riesgo bajo……………………$440.00;
+1. Nivel de riesgo bajo $450.00;
 
-2. Nivel de riesgo medio………………….$660.00;
+2. Nivel de riesgo medio $675.00;
 
-3. Nivel de riesgo alto…………………… $1,320.00;
+3. Nivel de riesgo alto $1,350.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-n) Emisión de registro de operación para prestadores de servicios para distribución y recarga de extinguidor……..$660.00;
+n) Emisión de registro de operación para prestadores de servicios para distribución y recarga de extinguidor $675.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-o) Renovación del registro de operación para prestadores de servicios para distribución y recarga de extinguidores…..$660.00;
+o) Renovación del registro de operación para prestadores de servicios para distribución y recarga de extinguidores $675.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-p) Servicios de ambulancia al sector privado para eventos masivos con fines de lucro…………………………………...$1,320.00;
+p) Servicios de ambulancia al sector privado para eventos masivos con fines de lucro $1,353.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-q) Servicio privado de traslado en la ambulancia por cada 10 km………………………….……………. $132.00;
+q) Servicio privado de traslado en la ambulancia por cada 10 km $135.00;
 
 r) (DEROGADO, P.O. 28 DE DICIEMBRE DE 2013)
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-s) Análisis de riesgos internos y externos de inmuebles…………….. $990.00;
+s) Análisis de riesgos internos y externos de inmuebles $1,015.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-t) Cursos técnicos especializados por persona………………………..$660.00;
+t) Cursos técnicos especializados por persona $676.00;
 
 > <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
@@ -1281,29 +1287,29 @@ Salarios Mínimos
 
 I. La Dirección de Fraccionamientos:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a) Expedición de Título……………………….$528.00
+a) Expedición de Título $541.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b) Constancias para Procampo………………...$0.00
+b) Constancias para Procampo $0.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-c) Otras constancias……………………………$66.00
+c) Otras constancias $68.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-d) Autorización para créditos con bancos……...$99.00
+d) Autorización para créditos con bancos $101.00
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 e) Adjudicaciones 3% avalúo catastral
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-f) Copia certificada del título………………….$330.00
+f) Copia certificada del título $338.00
 
 g) (DEROGADO, P.O. 30 DE DICIEMBRE DE 2009)
 
@@ -1311,13 +1317,13 @@ h) (DEROGADO, P.O. 30 DE DICIEMBRE DE 2009)
 
 i) (DEROGADO, P.O. 30 DE DICIEMBRE DE 2009)
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-j) Copia simple de título……………………….$132.00
+j) Copia simple de título $135.00
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-k) Trámite por cambio de uso de suelo………..$99.00
+k) Trámite por cambio de uso de suelo $101.00
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2009)</small>
 
@@ -1327,195 +1333,183 @@ correspondiente al incremento en el valor de
 
 la superficie que modifique su uso)
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-l) Copia certificada de documentos distintos a
+l) Copia certificada de documentos distintos a títulos
 
-títulos (De una a cinco fojas)………………….$132.00
+(De una a cinco fojas) $135.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-m) Inspección física u ocular………………….$660.00
+m) Inspección física u ocular $676.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-n) Trámite relativo a la reproducción en copia heliográfica de plano general y/o fraccionamiento……………..$1,188.00
+n) Trámite relativo a la reproducción en copia heliográfica de plano general y/o fraccionamiento $1,217.00
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
 o) Diligencias de apeo y deslinde, levantamientos topográficos en general e inscripción ocular:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-No. Superficie Has. Terreno Terreno Terreno Plano Lomerío Accidentado
+Superficie Has. Terreno Terreno de Terreno Plano Lomerío Accidentado
 
-1.- Hasta 5-00-00 Has $660.00 $990.00 $1,650.00
+Hasta 5-00-00 Has $676.00 $1,015.00 $1,691.00
 
-2.- De 5-00-01 a
+De 5-00-01 a
 
-15-00-00 Has. $990.00 $1,320.00 $2,310.00
+15-00-00 Has. $1,015.00 $1,353.00 $2,367.00
 
-3.- De 15-00-01 a
+De 15-00-01 a
 
-30-00-00 Has. $1,320.00 $1,980.00 $2,970.00
+30-00-00 Has. $1,353.00 $2,029.00 $3,044.00
 
-4.- De 30-00-01 a
+De 30-00-01 a
 
-50-00-00 Has. $1,980.00 $2,310.00 $3,300.00
+50-00-00 Has. $2,029.00 $2,367.00 $3,382.00
 
-5.- De 50-00-01 a
+De 50-00-01 a
 
-80-00-00 Has. $2,640.00 $2,970.00 $3,630.00
+80-00-00 Has. $2,705.00 $3,044.00 $3,720.00
 
-6.- De 80-00-01 a
+De 80-00-01 a
 
-110-00-00 Has. $3,960.00 $4,620.00 $5,280.00
+110-00-00 Has. $4,058.00 $4,735.00 $5,411.00
 
-7.- De 110-00-001 a
+De 110-00-001 a
 
-200-00-00 Has. $4,620.00 $5,280.00 $5,940.00
+200-00-00 Has. $4,735.00 $5,411.00 $6,087.00
 
-8.- De 200-00-01
+De 200-00-01
 
 Hectáreas en adelante,
 
 se aumentará por cada
 
-hectárea excedente $66.00 $66.00 $66.00
+hectárea excedente $68.00 $68.00 $68.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-p) Por registro de disposición testamentaria………….$396.00
+p) Por registro de disposición testamentaria $406.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-q) Trámite por cambio de régimen de propiedad. ……..$1,320.00;
+q) Trámite por cambio de régimen de propiedad. $1,353.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-r) Escrito de desistimiento y/o adjudicación. ………….$198.00
+r) Escrito de desistimiento y/o adjudicación. $203.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-s) Escrito de denuncia de juicio sucesorio. ……………$198.00
+s) Escrito de denuncia de juicio sucesorio. $203.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-t) Escrito de adjudicación previa
+t) Escrito de adjudicación previa declaración de vacancia. $203.00
 
-declaración de vacancia. ………………………………$198.00
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+u) Elaboración de planos. $135.00
 
-u) Elaboración de planos. ……………………………..$132.00
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-v) Solicitudes varias. ………………………………….$198.00
+v) Solicitudes varias. $203.00
 
 > <small>(ADICIONADA, P.O. 2 DE DICIEMBRE DE 2002)</small>
 
 II. La Dirección del Registro Civil:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a) Expedición y entrega de acta……………………….$99.00
+a) Expedición y entrega de acta. $101.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b) Expedición y entrega de constancia de
-
-inexistencia……………………………………………$99.00
+b) Expedición y entrega de constancia de inexistencia $101.00
 
 c) (DEROGADO, P.O. 29 DE DICIEMBRE DE 2010)
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-d) Trámite administrativo de aclaración de acta
+d) Trámite administrativo de aclaración de acta de registro civil. $203.00
 
-de registro civil……………………………………….$198.00
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+e) Trámite para solicitud de actas de registro civil a oficialías del interior del Estado u otra Entidad Federativa $68.00
 
-e) Trámite para solicitud de actas de registro civil
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a oficialías del interior del Estado u otra Entidad
+f) Autorización para registro de actas de registro civil provenientes del extranjero. $406.00
 
-Federativa…………………………………………….$66.00
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-f) Autorización para registro de actas de registro
-
-civil provenientes del extranjero………………………$396.00
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-g) Servicio de Expedición de Actas Interestatales…….$198.00
+g) Servicio de Expedición de Actas Interestatales $203.00
 
 > <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
 III. La Dirección de Notarías:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a) Expedición de testimonio por hoja…………………$99.00
+a) Expedición de segundo testimonio por hoja $101.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b) Autorización de protocolo notarial ordinario o abierto....$363.00
+b) Autorización de protocolo notarial ordinario o abierto $372.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-c) Expedición de copia certificada…………………….$66.00
+c) Expedición de copia certificada por hoja $68.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-d) Autorización definitiva de escrituras asentadas en protocolos notariales depositados en el Archivo General de Notarías, además del costo señalado en el inciso a) de esta fracción……………………………$264.00
+d) Autorización definitiva de escrituras asentadas en protocolo notariales depositados en el Archivo General de Notarías, además del costo señalado en el inciso a) de esta fracción: $271.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-e) Examen de suficiencia para aspirante a notario…….$2,706.00
+e) Examen de suficiencia para aspirante a notario: $2,773.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-f) Examen de oposición para el ejercicio notarial….....$3,828.00
+f) Examen de oposición para el ejercicio notarial: $3,923.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-g) Expedición de patente de aspirante a notario............$5,940.00
+g) Expedición de patente de aspirante a notario: $6,087.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-h) Expedición de patente de notario...............................$13,002.00
+h) Expedición de patente de notario: $13,324.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-i) Registro de convenio de suplencia notarial o convenio de asociación notarial..........................$1,386.00
+i) Registro de convenio de suplencia notarial o convenio de asociación notarial: $1,420.00
 
 > <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
 IV. La unidad de legalización de firmas adscrita a la Coordinación General Jurídica:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a) Certificado de estudio………………$132.00
+a) Certificado de estudio. $135.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b) Título profesional…………………...$132.00
+b) Título profesional. $135.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-c) De cualquier materia………………..$132.00
+c) De cualquier materia. $135.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-d) Notarios públicos……………………$132.00
+d) Notarios públicos. $135.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-e) Apostilla de documentos…………….$330.00
+e) Apostilla de documentos. $338.00
 
 ### CAPITULO III. SERVICIOS DE LA SECRETARÍA DE FINANZAS
 
@@ -1537,89 +1531,99 @@ Grupo C: Pánuco, Mezquital del Oro, Vetagrande, Apulco, Jiménez del Téul, Mom
 
 II.- Las verificaciones a los establecimientos que lleve a cabo el Estado, se causarán de acuerdo al grupo al que pertenezca el municipio donde se ubique el domicilio del establecimiento, de acuerdo a los siguientes importes:
 
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
 Grupo A B C
 
-$330.00 $264.00 $198.00
+$338.00 $271.00 $203.00
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 III.- La anuencia que expida el Estado se tasara de acuerdo a los siguientes importes:
 
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
 Grupo A B C
 
-$462.00 $396.00 $330.00
+$473.00 $406.00 $338.00
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 IV.- Los derechos relativos a las licencias originarán el pago de los siguientes importes:
 
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
 Grupo A B C
 
 Expedición
 
-de licencia $99,792.00 $74,646.00 $50,226.00
+de licencia $102,267.00 $76,497.00 $51,472.00
 
-Renovación $5,610.00 $3,894.00 $2,574.00
+Renovación $5,749.00 $3,991.00 $2,638.00
 
-Transferencia $13,728.00 $8,580.00 $ 3,432.00
+Transferencia $14,068.00 $8,793.00 $ 3,517.00
 
-Cambio de giro $13,728.00 $8,580.00 $3,432.00
+Cambio de giro $14,068.00 $8,793.00 $3,517.00
 
 Cambio de
 
-domicilio $13,728.00 $8,580.00 $3,432.00
+domicilio $14,068.00 $8,793.00 $3,517.00
 
-Los Permisos Eventuales en los tres grupos tendrán un costo de $ 1,320.00, más $ 462.00 por cada día.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+Los Permisos Eventuales en los tres grupos tendrán un costo de $1,353.00, más $473.00 por cada día.
 
 A) Tratándose de Centro Nocturno o Cabaret
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
 Grupo A B C
 
-Expedición de Licencia $ 132,000.00 $ 99,000.00 $ 66,330.00
+Expedición de Licencia $135,274.00 $101,455.00 $67,975.00
 
-Renovación $ 7,392.00 $ 5,148.00 $ 3,366.00
+Renovación
 
-Transferencia $ 18,150.00 $ 11,352.00 $ 4,554.00
+Transferencia $7,575.00 $5,276.00 $3,449.00
 
-Cambio de giro $ 18,150.00 $ 11,352.00 $ 4,554.00
+Cambio de giro $18,600.00 $11,634.00 $4,667.00
 
-Cambio de domicilio $ 18,150.00 $ 11,352.00 $ 4,554.00
+Cambio de domicilio $18,600.00 $11,634.00 $4,667.00
 
 B).- Del alcohol etílico:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
 Grupo A B C
 
-Expedición de licencia $ 50,226.00 $ 37,356.00 $ 24,486.00
+Expedición de licencia $51,472.00 $38,282.00 $25,093.00
 
-Renovación $ 5,610.00 $ 3,894.00 $ 2,574.00
+Renovación $5,749.00 $3,991.00 $2,638.00
 
-Transferencia $ 7,722.00 $ 5,148.00 $ 2,574.00
+Transferencia $7,914.00 $5,276.00 $2,638.00
 
-Cambio de giro $ 7,722.00 $ 5,148.00 $ 2,574.00
+Cambio de Giro $7,914.00 $5,276.00 $2,638.00
 
-Cambio de domicilio $ 7,722.00 $ 5,148.00 $ 2,574.00
+Cambio de Domicilio $7,914.00 $5,276.00 $2,638.00
 
 C).- Tratándose de venta única de cerveza y/o bebidas refrescantes, cuya graduación no exceda de 10° G.L.:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
 Grupo A, B, C
 
-Expedición de licencia……………….$ 2,574.00
+Expedición de licencia $2,638.00
 
-Renovación…………………………..$ 1,716.00
+Renovación $1,759.00
 
-Transferencia…………………………$ 2,574.00
+Transferencia $2,638.00
 
-Cambio de giro……………………….$ 2,574.00
+Cambio de giro $2,638.00
 
-Cambio de domicilio………………….$ 858.00
+Cambio de domicilio $879.00
 
-Los Permisos Eventuales en los tres grupos tendrán un costo de $ 858.00, más $ 66.00 por cada día adicional.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+Los Permisos Eventuales en los tres grupos tendrán un costo de $879.00, más $68.00 por cada día adicional.
 
 V.- Los derechos a que se refiere este artículo, cuando se aludan a establecimientos o locales en los que se expendan bebidas alcohólicas para su consumo dentro de los mismos, se incrementará un 10%.
 
@@ -1627,27 +1631,29 @@ V.- Los derechos a que se refiere este artículo, cuando se aludan a establecimi
 
 VI. De los permisos eventuales en el marco de la celebración de la Feria Nacional de Zacatecas, a que se refiere el artículo 30 de la Ley sobre Bebidas Alcohólicas para el Estado, tendrán el costo siguiente:
 
-Cantina o Bar………………………………..….$ 13,200.00
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-Centro nocturno……………………………..….$ 19,800.00
+Cantina o Bar $13,527.00
 
-Cervecería…………………………………..…..$ 13,200.00
+Centro nocturno $20,291.00
 
-Centro botanero .…………………………….…$ 19,800.00
+Cervecería $13,527.00
 
-Merendero…………………………………….…$ 19,800.00
+Centro botanero $20,291.00
 
-Discoteca…………………………………….…..$ 66,000.00
+Merendero $20,291.00
 
-Restaurante……………………………………...$ 33,000.00
+Discoteca $67,637.00
 
-Salón o Finca para baile……………………..…$ 19,800.00
+Restaurante $33,818.00
 
-Cenaduría…………………………………….…..$ 6,600.00
+Salón o Finca para baile $20,291.00
 
-Depósito………………………………………..…$ 13,200.00
+Cenaduría $6,764.00
 
-Licorería……………………………………..……$ 13,200.00
+Depósito $13,527.00
+
+Licorería $13,527.00
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -1663,35 +1669,35 @@ I. En los casos de registro y expedición de placas tratándose de vehículos nu
 
 Salarios Mínimos
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a). Vehículo de Servicio Particular ………………….....$ 990.00
+a). Vehículo de servicio particular $1,015.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b). Vehículo de Servicio Público ……………….............$ 990.00
+b). Vehículo de servicio público $1,015.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-c). Demostración de vehículo de agencia autorizada …..$ 1,320.00
+c). Demostración de vehículo de agencia autorizada $1,353.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-d). Remolque …………………………………………...$ 462.00
+d). Remolque $473.00
 
 II. Registro y expedición de placas incluyendo tarjeta de circulación, para:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a). Motocicleta y similares……………….……………$ 330.00;
+a). Motocicleta y similares $338.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b). Bicicleta……………………………………………$ 66.00.
+b). Bicicleta $68.00.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-III. Reposición de tarjeta de circulación: .......................$ 66.00.
+III. Reposición de tarjeta de circulación: $68.00.
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
 
@@ -1701,25 +1707,23 @@ con otras entidades, respecto de vehículos que
 
 soliciten emplacamiento en el Estado, conforme a lo siguiente:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a). Expedición con vigencia de tres días hábiles…………$ 264.00;
+a). Expedición con vigencia de tres días hábiles $271.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b). Reposición ………………………………………..…..$ 264.00.
+b). Reposición $271.00.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-V. Baja de Placas ............................................................$ 66.00;
+V. Baja de Placas $68.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2011)</small>
+Para el trámite de baja, una vez iniciado el ejercicio fiscal, deberá de estar cubierto el impuesto por tenencia o uso de vehículos y los derechos de refrendo de tarjeta de circulación, del ejercicio en que se solicite la baja respectiva, debiendo no tener adeudos de ejercicios anteriores.
 
-Para el trámite de baja, una vez iniciado el ejercicio fiscal, deberá de estar cubierto el impuesto por tenencia o uso de vehículos y los derechos de refrendo de tarjeta de circulación, del ejercicio en que se solicite la baja respectiva.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-VI. Las personas que realicen sus pagos de Impuestos y Derechos de control vehicular, vía internet, cubrirán por concepto de envío de la tarjeta de circulación y demás documentación comprobatoria, por medio de Servicio Postal Mexicano………………………………………..$ 198.00;
+VI. Las personas que realicen sus pagos de Impuestos y Derechos de control vehicular, vía Internet, cubrirán por concepto de envío de tarjeta de circulación y demás documentación comprobatoria, por medio de (sic) Servicio Postal Mexicano $203.00;
 
 > <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -1737,75 +1741,75 @@ El refrendo de la tarjeta de circulación y expedición de calcomanía con vigen
 
 I. Vehículos de servicio particular:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a). Del año en curso ………………………………….$ 1,188.00
+a). Del año en curso $1,217.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b). Con un año de antigüedad…………………….......$ 1,122.00
+b). Con un año de antigüedad $1,150.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-c). Con dos años de antigüedad ……………………….$ 1,056.00
+c). Con dos años de antigüedad $1,082.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-d). Con tres años de antigüedad……………………...$ 990.00
+d). Con tres años de antigüedad $1,015.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-e). Con cuatro años de antigüedad……………… .....$ 924.00
+e). Con cuatro años de antigüedad $947.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-f). Con cinco y más años de antigüedad……………..$ 858.00
+f). Con cinco y más años de antigüedad $879.00
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2006)</small>
 
 II. Vehículos al servicio público:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a). Del año en curso ………………………………...$ 1,188.00
+a). Del año en curso $1,217.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b). Con un año de antigüedad…………………….…$ 1,122.00
+b). Con un año de antigüedad $1,150.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-c). Con dos años de antigüedad …………………….$ 1,056.00
+c). Con dos años de antigüedad $1,082.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-d). Con tres años de antigüedad………………….…$ 990.00
+d). Con tres años de antigüedad $1,015.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-e). Con cuatro años de antigüedad……………….…$ 924.00
+e). Con cuatro años de antigüedad $947.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-f). Con cinco y más años de antigüedad……………$ 858.00
+f). Con cinco y más años de antigüedad $879.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-III. Remolques............................................................$ 429.00.
+III. Remolques $440.00.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-IV. Motocicletas ........................................................$ 231.00.
+IV. Motocicletas $237.00.
 
 > <small>(ADICIONADO, P.O. 2 DE ENERO DE 2002)</small>
 
 Cuando no se cubra la contribución dentro del plazo señalado, deberán pagarse recargos y actualización por concepto de indemnización a la Hacienda Pública Estatal por falta de pago oportuno, de conformidad con la Ley de Ingresos del Estado.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 50.
 
-El almacenamiento y guarda en recintos oficiales de bienes embargados conforme al procedimiento administrativo de ejecución por día…............$ 66.00.
+El almacenamiento y guarda en recintos oficiales de bienes embargados conforme al procedimiento administrativo de ejecución por día $68.00.
 
 ### CAPITULO IV. SERVICIOS DE CATASTRO
 
@@ -1815,29 +1819,29 @@ Los servicios que presten por concepto de:
 
 I. Avalúo:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a). Tratándose de terrenos urbanos cuyo valor no exceda de $ 60,225.00 (valor catastral asignado al terreno de interés social)…….…$ 198.00;
+a). Tratándose de terrenos urbanos cuyo valor no exceda de $60,225.00 (valor catastral asignado al terreno de interés social) $203.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b). Tratándose de terrenos urbanos cuyo valor se encuentre entre los $ 60,225.00 y $168,630.00 (valor catastral asignado al terreno de interés medio)………………………………………………..$ 462.00;
+b). Tratándose de terrenos urbanos cuyo valor se encuentre entre los $60,225.00 y $168,630.00 (Valor catastral asignado al terreno de interés medio) $473.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-c). Tratándose de terrenos rústicos cuyo valor no exceda de $ 96,360.00 …$ 198.00;
+c). Tratándose de terrenos rústicos cuyo valor no exceda de $96,360.00 $203.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-d). Tratándose de terrenos rústicos cuyo valor se encuentre entre $ 96,360.00 y $ 192,720.00..................................................................$ 462.00;
+d). Tratándose de terrenos rústicos cuyo valor se encuentre entre $96,360.00 y $192,720.00 $473.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-e). Tratándose de predio con construcción, cuyo valor no exceda al equivalente a $168,630.00 (valor catastral asignado a la vivienda popular)……………………………………………….$ 330.00;
+e). Tratándose de predio con construcción, cuyo valor no exceda al equivalente a $168,630.00 (valor catastral asignado a la vivienda popular) $338.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-f). Tratándose de predio con construcción cuyo valor se encuentre entre los $ 168,630.00 y $ 337,260.00 (valor catastral asignado a la vivienda de interés medio) ………………………………………………..$ 726.00;
+f). Tratándose de predio con construcción cuyo valor se encuentre entre los $168,630.00 y $337,260.00 (valor catastral asignado a la vivienda de interés medio) $744.00;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE 2008)</small>
 
@@ -1855,9 +1859,7 @@ Para el caso de expedición de avalúos cuya vigencia haya caducado conforme a l
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
-- Durante el mes siguiente a la
-
-fecha de caducidad. 20.00%
+- Durante el mes siguiente a la fecha de caducidad. 20.00%
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
@@ -1871,29 +1873,29 @@ A partir del inicio del cuarto mes posterior a la caducidad se considerará como
 
 II. Deslinde o levantamiento topográfico de predios urbanos:
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+a) Hasta de 200.00 m2. $609.00
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+b) De 200.01 a 400.00 m2. $744.00
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+c) De 400.01 a 600.00 m2. $879.00
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+d) De 600.01 a 1000.00 m2. $1,285.00
+
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-a) Hasta de 200.00 m2. ….......………........................$594.00
+Para la superficie mayor de mil metros, por cada metro cuadrado excedente se aplicará un importe de: $ 0.25
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b) De 200.01 a 400.00 m2. ….............………………$ 726.00
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-c) De 400.01 a 600.00 m2. ……............…………….$ 858.00
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-d) De 600.01 a 1000.00 m2. ……...........……………$ 1,254.00
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-Para la superficie mayor de mil metros, por cada metro cuadrado excedente se aplicará un importe de: ................................................$ 0.25
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-III. Elaboración del plano que tenga por objeto el servicio a que se refiere la fracción anterior: ..........................................................$ 462.00;
+III. Elaboración del plano que tenga por objeto el servicio a que se refiere la fracción anterior: $473.00;
 
 IV. Deslinde o levantamiento topográfico de predios rústicos:
 
@@ -1903,59 +1905,59 @@ No. Superficie Has. Terreno Terreno Terreno
 
 Plano de Lomerío Accidentado
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a) Hasta 5-00-00 Has. $ 924.00 $ 1,980.00 $ 3,498.00
+a) Hasta 5-00-00 Has. $947.00 $2,029.00 $3,585.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
 b) De 5-00-01 a
 
-10-00-00 Has. $ 1,452.00 $ 3,498.00 $ 4,026.00
+10-00-00 Has. $1,488.00 $3,585.00 $4,126.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
 c) De 10-00-01 a
 
-15-00-00 Has. $ 2,442.00 $ 4,554.00 $ 4,950.00
+15-00-00 Has. $2,503.00 $4,667.00 $5,073.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
 d) De 15-00-01 a
 
-20-00-00 Has. $ 2,970.00 $ 5,544.00 $ 7,062.00
+20-00-00 Has. $3,044.00 $5,681.00 $7,237.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
 e) De 20-00-01 a
 
-40-00-00 Has. $ 6,006.00 $ 8,580.00 $ 11,154.00
+40-00-00 Has. $6,155.00 $8,793.00 $11,431.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
 f) De 40-00-01 a
 
-60-00-00 Has. $ 9,108.00 $ 11,616.00 $ 14,190.00
+60-00-00 Has. $9,334.00 $11,904.00 $14,542.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
 g) De 60-00-01 a
 
-80-00-00 Has. $ 12,144.00 $ 14,718.00 $ 17,292.00
+80-00-00 Has. $12,445.00 $15,083.00 $17,721.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
 h) De 80-00-01 a
 
-100-00-00 Has. $ 15,246.00 $ 17,754.00 $ 20,328.00
+100-00-00 Has. $15,624.00 $18,194.00 $20,832.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
 i) De 100-00-01 a
 
-200-00-00 Has. $ 18,282.00 $ 21,318.00 $ 25,410.00
+200-00-00 Has. $18,735.00 $21,847.00 $26,040.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
 j) De 200-00-01,
 
@@ -1965,139 +1967,131 @@ se aumentará por
 
 cada hectárea
 
-excedente. ………Has. $ 66.00 $ 66.00 $ 66.00
+excedente. Has. $68.00 $68.00 $68.00
 
 k) Si el levantamiento topográfico se solicita con curvas de nivel, se tasará el doble de lo que resulte la clasificación del terreno que le corresponda;
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
-l) Cuando el levantamiento topográfico que se
-
-solicite deba realizarse a una distancia mayor
-
-a un radio de 30 kilómetros de la ciudad de
-
-Zacatecas, se cobrará por cada kilómetro
-
-adicional $4.00
+l) Cuando el levantamiento topográfico que se solicite deba realizarse a una distancia mayor a un radio de 30 kilómetros de la ciudad de Zacatecas, se cobrará por cada kilómetro adicional $4.00
 
 V. Elaboración del plano que tenga por objeto el servicio a que se refiere la fracción anterior:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a). 1:100 a 1:5,000 ………………………................…………..…$ 1,914.00;
+a). 1:100 a 1:5,000 $1,961.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b). 1:5,001 a 1:10,000 … ………………...............…………….$ 1,122.00;
+b). 1:5,001 a 1:10,000 $1,150.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-c). 1:10,001 en adelante ……..………..............………………....$ 462.00;
+c). 1:10,001 en adelante $473.00;
 
 VI. Certificación de acta de:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a). Deslinde de predios ……………………..…................………$ 264.00;
+a). Deslinde de predios $271.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b). Ficha catastral ……...…..…………………..................……….$ 264.00.
+b). Ficha catastral $271.00.
 
 VII. Certificación de plano en:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a). Urbano ……………………………………….……$ 264.00;
+a). Urbano $271.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b). Rústico ……...…..………………………………...$ 264.00.
+b). Rústico $271.00.
 
 VIII. Copia de plano:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a). Plano impreso de la zona conurbada Zacatecas-Guadalupe, edición 1995……………………………………………….....$ 330.00.
+a). Plano impreso de la zona conurbada Zacatecas-Guadalupe, edición 1995 $338.00.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b). Plano manzanero de zonas urbanas de las cabeceras municipales de: Zacatecas, Guadalupe, Fresnillo, Jerez, Río Grande, Sombrerete, Ojocaliente, Calera, Jalpa, Loreto, Tlaltenango, Valparaíso y Villanueva ……$ 1,914.00.
+b). Plano manzanero de zonas urbanas de las cabeceras municipales de: Zacatecas, Guadalupe, Fresnillo, Jerez, Río Grande, Sombrerete, Ojocaliente, Calera, Jalpa, Loreto, Tlaltenango, Valparaíso y Villanueva $1,961.00.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-c). Plano manzanero de zonas urbanas de las cabeceras municipales de: Morelos, Villa de Cos, Pinos, Juchipila, Juan Aldama, Luis Moya, Miguel Auza, Monte Escobedo, Nochistlán de Mejía, Saín Alto, Tabasco, Tepetongo, Villa García, Cañitas de Felipe Pescador, Teúl de González Ortega, Chalchihuites, Fco. R. Murguía, Concepción del Oro, Cuauhtémoc, Tepechitlán, Trancoso y Santa María de la Paz. ………$ 1,584.00.
+c). Plano manzanero de zonas urbanas de las cabeceras municipales de: Morelos, Villa de Cos, Pinos, Juchipila, Juan Aldama, Luis Moya, Miguel Auza, Monte Escobedo, Nochistlán de Mejía, Saín Alto, Tabasco, Tepetongo, Villa García, Cañitas de Felipe Pescador, Téul de González Ortega, Chalchihuites, Fco. R. Murguía, Concepción del Oro, Cuauhtémoc, Tepechitlán, Trancoso y Santa María de la Paz $1,623.00.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-d). Plano manzanero de zonas urbanas de las cabeceras municipales de: Apozol, Apulco, Atolinga, Benito Juárez, Jiménez del Teúl, García de la Cadena, Genaro Codina, Gral. Enrique Estrada, Gral. Joaquín Amaro, Gral. Pánfilo Natera, Huanusco, Momax, Moyahua de Estrada, Mazapil, Melchor Ocampo, Mezquital del Oro, Noria de Ángeles, Pánuco, El Salvador, Susticacán, Vetagrande, Villa Hidalgo y Villa González Ortega…..$ 924.00.
+d). Plano manzanero de zonas urbanas de las cabeceras municipales de: Apozol, Apulco, Atolinga, Benito Juárez, Jiménez del Téul, García de la Cadena, Genaro Codina, Gral. Enrique Estrada, Gral. Joaquín Amaro, Gral. Pánfilo Natera, Huanusco, Momax, Moyahua de Estrada, Mazapil, Melchor Ocampo, Mezquital del Oro, Noria de Angeles, Pánuco, El Salvador, Susticacán, Vetagrande, Villa Hidalgo y Villa González Ortega $947.00.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-e). Plano del Estado de Zacatecas con la división política de los municipios, vías de comunicación y localización de poblaciones. …………..$ 2,046.00
+e). Plano del Estado de Zacatecas con la división política de los Municipios, vías de comunicación y localización de poblaciones $2,097.00
 
 IX. Expedición de planos manzaneros con impresión digital, con predios, manzanero, curvas a nivel, cuotas de crucero y nombres de calles con alcance de 1 km 2:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a). Escala 1:1000 ………………………………$ 2,046.00;
+a). Escala 1:1000 $2,097.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b). Escala 1:2000 ……...........………………….$ 1,056.00;
+b). Escala 1:2000 $1,082.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-c). Escala 1:5000 ……………………………....$ 594.00.
+c). Escala 1:5000 $609.00.
 
 X. Expedición de planos manzaneros con impresión digital, con predios y nombres de calles de alcance de 1 km 2:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a). Escala 1:1000 ………………………..…….$ 990.00;
+a). Escala 1:1000 $1,015.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b). Escala 1:2000 ……....………….……….….$ 726.00;
+b). Escala 1:2000 $744.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-c). Escala 1:5000 ……………………………...$ 594.00.
+c). Escala 1:5000 $609.00.
 
 XI. Expedición de copia de título de propiedad o de otro existente en los archivos de catastro:
 
-((REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a). Certificadas, hasta por cinco fojas: ……….............................$ 264.00;
-
-Por cada foja excedente $15.00
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-b). Simples, hasta por cinco fojas: ……................................…... $ 66.00;
+a). Certificadas, hasta por cinco fojas: $271.00;
 
 Por cada foja excedente $15.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XII. Verificación física de inmueble ....................................................$ 594.00;
+b). Simples, hasta por cinco fojas: $68.00;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+Por cada foja excedente $15.00
 
-XIII. Expedición de constancias de propiedad o no propiedad……….$ 264.00;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+XII. Verificación física de inmueble $609.00;
 
-XIV. Por los servicios que se soliciten cuando los antecedentes a que se refiera se encuentren fuera del distrito judicial al que se dirija la petición, se cobrará una tarifa adicional por documento equivalente a: ..............................$ 330.00.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+XIII. Expedición de constancias de propiedad o no propiedad $271.00;
 
-XV. Solicitud de particulares de elaboración de planos……………$ 132.00.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+XIV. Por los servicios que se soliciten cuando los antecedentes a que se refiera se encuentren fuera del distrito judicial al que se dirija la petición, se cobrará una tarifa adicional por documento equivalente a: $338.00.
 
-XVI. El concepto de solicitud de búsqueda de documentos...………$ 132.00.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XV. Solicitud de particulares de elaboración de planos $135.00.
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XVI. El concepto de solicitud de búsqueda de documentos $135.00.
 
 > <small>(DEROGADO ANTEPENÚLTIMO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -2117,21 +2111,23 @@ Los servicios que presten por concepto de:
 
 Salarios Mínimos
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-I. Calificación Registral, por testimonio o documento .........................$ 33.00;
+I. Calificación Registral, por testimonio o documento $34.00;
 
 II. Inscripción de documentos relativos a bienes inmuebles:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a). Tratándose de inmuebles con valor de hasta $ 168,630.00, se cubrirá la tarifa mínima general por inmueble equivalente a:….… $ 726.00;
+a). Tratándose de inmuebles con valor de hasta $168,630.00, se cubrirá la tarifa mínima general por inmueble equivalente a: $744.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b). Tratándose de inmuebles cuyo valor se sitúe entre los $ 168,630.00 y $ 337,260.00 se cubrirá la tarifa base por inmueble de:…$ 1,914.00;
+b). Tratándose de inmuebles cuyo valor se sitúe entre los $168,630.00 y $337,260.00 se cubrirá la tarifa base por inmueble de: $1,961.00;
 
-Para inscripciones cuyo monto rebase el rango de valor establecido en el inciso anterior, se aplicará la tarifa adicional del 1.0% al monto excedente.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+Para inscripciones cuyo monto rebase el rango de valor establecido en el párrafo anterior, se aplicará la tarifa adicional del 1.0% al monto excedente.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -2139,23 +2135,9 @@ En ningún caso, los derechos por inscripción de documentos relativos a bienes 
 
 La base gravable será el valor que resulte mayor entre el avalúo practicado por la Dirección de Catastro y Registro Público, el inserto en el documento o el avalúo bancario.
 
-> <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-Registro de instrumentos notariales
-
-celebrados ante fedatarios públicos
-
-de otras entidades federativas, con
-
-consecuencias jurídicas en el Estado,
-
-de otras entidades federativas, con
-
-consecuencias jurídicas en el Estado,
-
-adicionalmente el monto de derechos
-
-que cause el acto, 30 cuotas
+Registro de instrumentos notariales celebrados ante fedatarios públicos de otras entidades federativas, con consecuencias jurídicas en el Estado, adicionalmente al monto de derechos que cause el acto $2,029.00
 
 > <small>(DEROGADO SEXTO PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
@@ -2199,87 +2181,89 @@ Para los efectos de este capítulo se equiparan a la compraventa los siguientes 
 
 18.- División de copropiedad, por cada uno de los predios resultantes.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-III. Diligencias de apeo y deslinde: .............................................. $ 198.00;
+III. Diligencias de apeo y deslinde: $203.00;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-IV. Capitulaciones matrimoniales: ............................................... $ 198.00;
+IV. Capitulaciones matrimoniales: $203.00;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-V. En la inscripción del régimen de propiedad en condominio, por cada departamento, despacho, vivienda, local, cajón de estacionamiento o cualquier otro tipo de unidades privativas:...................................$ 198.00;
+V. En la inscripción del régimen de propiedad en condominio, por cada departamento, despacho, vivienda, local, cajón de estacionamiento o cualquier otro tipo de unidades privativas: $203.00;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-VI. Fusión de predios, por cada uno de los predios fusionados……$ 66.00;
+VI. Fusión de predios, por cada uno de los predios fusionados $68.00;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-VII. Actos, contratos, convenios o autorizaciones por los que se fraccione, lotifique o subdivida un predio, por cada lote o fracción: .................$ 66.00;
+VII. Actos, contratos, convenios o autorizaciones por los que se fraccione, lotifique o subdivida un predio, por cada lote o fracción: $68.00;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
 VIII. Por la inscripción y anotación relativa a la limitación o gravamen de la propiedad y posesión de inmuebles, se tasará al 0.35% sobre el valor de limitación o gravamen, cuando no se determine o no se inserte éste, se tasarán, tratándose de actos o contratos de la forma siguiente:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a). Arrendamiento, subarrendamiento o cesión de arrendamiento ….$ 726.00
+a). Arrendamiento, subarrendamiento o cesión de arrendamiento $744.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b). Constitución o sustitución de garantías reales …………..........$ 726.00
+b). Constitución o sustitución de garantías reales $744.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-c). Sesión de garantías u obligaciones reales …………………….$ 726.00
+c). Subrogación de garantías, Sesión de garantías u obligaciones reales $744.00
 
-> <small>(REFORMADO P, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-d). Comodato o convenios judiciales ……………....……………$ 726.00
+d). Comodato o convenios judiciales $744.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-e). Demandas o resoluciones que limiten el derecho de propiedad o posesión…………………………………………………………..$ 726.00
+e). Demandas o resoluciones que limiten el derecho de propiedad o posesión
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+$744.00
 
-f). Fideicomiso de afectación o administración en garantía y en el que el o los fideicomitentes, se reserven expresamente la propiedad…….$ 726.00
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+f). Fideicomiso de afectación o administración en garantía y en el que el o los fideicomitentes, se reserven expresamente la propiedad $744.00
 
-g). El cumplimiento de condiciones suspensivas a que se haya sujetado la transmisión de la propiedad ………………………..….$ 726.00
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+g). El cumplimiento de condiciones suspensivas a que se haya sujetado la transmisión de la propiedad $744.00
 
-h). Fianzas ……………..…………………………………………$ 726.00
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+h). Fianzas $744.00
 
-i). Prendas sobre crédito inscrito ………………………………….$ 726.00
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+i). Prendas sobre crédito inscrito $744.00
 
-j). Prenda de frutos pendientes ………..……..…………………...$ 726.00
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+j). Prenda de frutos pendientes $744.00
 
-k). Uso, usufructo, servidumbre y contratos de crédito refaccionario, de habilitación y avío celebrado entre particulares …………….$ 726.00
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+k). Uso, usufructo, servidumbre y contratos de crédito refaccionario, de habilitación y avío celebrado entre particulares $744.00
 
 l). (DEROGADO, P.O. 28 DE DICIEMBRE DE 2013)
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-IX. Por el registro de cédula hipotecaria, embargo judicial o administrativo, se tasará en $ 594.00 sobre el monto total de lo reclamado, siempre y cuando este sea igual o menor al equivalente a $ 168,630.00; cuando el importe de lo reclamado sea mayor a $ 168,630.00, se tasará al 1%;
+IX. Por el registro de cédula hipotecaria, embargo judicial o administrativo, se tasará en $609.00 sobre el monto total de lo reclamado, siempre y cuando este sea igual o menor al equivalente a $168,630.00; cuando el importe de lo reclamado sea mayor a $168,630.00, se tasará al 1%;
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
 
 X. Contrato de promesa de venta, se tasará al 0.4% sobre el valor que se manifieste en el documento.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XI. Contrato de apertura de crédito: ............................................... $ 396.00
+XI. Contrato de apertura de crédito: $406.00
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 27 DE DICIEMBRE 2008)</small>
 
@@ -2295,9 +2279,9 @@ Créditos hipotecarios, refaccionarios, de habilitación y avío, otorgados dent
 
 En materia de crédito para adquisición de vivienda el registro de contrato de hipoteca y crédito simple, se tasará al 0.115% sobre el importe de la operación que se consigne, sin cargo por concepto de contrato de apertura de crédito.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XIII. Inscripción de documentos que contengan los siguientes actos: .....................$ 594.00
+XIII. Inscripción de documentos que contengan los siguientes actos: $609.00
 
 a) Testamento.
 
@@ -2327,13 +2311,13 @@ c) Compraventa;
 
 d) Compraventa con reserva de dominio se tasará sobre el valor inserto en el documento; a falta de éste sobre el avalúo que practique la Secretaria de Finanzas.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XV. Registro de personas morales o aumento de su capital social, 0.28 % sobre el monto de capital social o sus aumentos, en los casos que dicho capital no exceda de $185,000.00 se pagarán: …………………….................................................................... $ 726.00
+XV. Registro de personas morales o aumento de su capital social, 0.28% sobre el monto de capital social o sus aumentos, en los casos que dicho capital no exceda de $185,000.00 se pagarán: $744.00
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XVI. Registro de documentos que contengan los siguientes actos:........................ $ 594.00
+XVI. Registro de documentos que contengan los siguientes actos: $609.00
 
 a) Disolución de personas morales;
 
@@ -2345,85 +2329,83 @@ d) Modificaciones al pacto social constitutivo;
 
 e) Registro de emisiones de acciones, cédulas, obligaciones o certificados de participación, depósito o de copias autorizadas por balance, transformación de sociedades y en general otros actos inscribibles;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XVII. Cancelación de inscripción o anotación: .................................................... $ 132.00, y
+XVII. Cancelación de inscripción o anotación: $135.00, y
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XVIII. Registro de instrumentos notariales celebrados ante fedatarios públicos de otras Entidades Federativas, con consecuencias jurídicas en el Estado, adicionalmente al monto de derechos que cause el acto: ………………………………………………… $ 1,980.00.
+XVIII. Registro de instrumentos notariales celebrados ante fedatarios públicos de otras Entidades Federativas, con consecuencias jurídicas en el Estado, adicionalmente al monto de derechos que cause el acto: $2,029.00.
 
 (DEROGADO ÚLTIMO PÁRRAFO, P.O. 28 DE DICIEMBRE DE 2013) (REPUBLICADO POR EL ARTÍCULO TERCERO TRANSITORIO DEL DECRETO NO. 220, P.O. 3 DE DICIEMBRE DE 2014)
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 53.
 
-Contrato innominado: .................................... $ 1,716.00.
+Contrato innominado: $1,759.00.
 
 ###### ARTICULO 54.
 
 Expedición de certificado de:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-I. No propiedad: ..…………………………………………………………………..$ 198.00;
+I. No propiedad: $203.00;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-II. Inscripción o no inscripción: ……………………………………………………$ 198.00;
+II. Inscripción o no inscripción: $203.00;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-III. Libertad de gravamen: …………………………………………………………$ 132.00;
+III. Libertad de gravamen: $135.00;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-IV. Existencia de gravamen, a la fracción anterior se adicionará por cada gravamen: ….… $ 33.00.
+IV. Existencia de gravamen, a la fracción anterior se adicionará por cada gravamen: $34.00.
 
 ###### ARTICULO 55.
 
 Expedición de copia de título de propiedad o de cualquier otro documento existente en libros o archivo del registro:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-I. Certificadas hasta cinco fojas: ………..………………………………………. $ 264.00;
+I. Certificadas hasta por cinco fojas: $271.00;
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
 Por cada foja excedente $15.00;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-II. Simples, hasta cinco fojas: …….………………………………………………$ 66.00;
+II. Simples, hasta por cinco fojas: $68.00;
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE 2008)</small>
 
 Por cada foja excedente $10.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 56.
 
-Ratificación o certificación de firmas: ........................................ $ 198.00;
+Ratificación o certificación de firmas: $203.00;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 57.
 
-Cuando de un mismo título se consignen dos o más actos jurídicos, por cada acto: ..............$ 198.00.
+Cuando de un mismo título se consignen dos o más actos jurídicos, por cada acto: $203.00.
 
-Si el mismo origina dos o más inscripciones,
+Si el mismo origina dos o más inscripciones, se tasarán por separado. 6 cuotas
 
-se tasarán por separado. 6 cuotas
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+Por los servicios que se soliciten cuando los antecedentes a que se refiera se encuentren fuera del distrito judicial en el que se dirija la petición, se cobrará una tarifa adicional por documento equivalente a: $338.00.
 
-Por los servicios que se soliciten cuando los antecedentes a que se refiera se encuentren fuera del distrito judicial en el que se dirija la petición, se cobrará una tarifa adicional por documento equivalente a: .................................................................................. $ 330.00.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-Por los servicios de certificados y copias que se soliciten cuando los antecedentes a que se refiera se encuentren fuera del distrito de la capital del Estado y solicitado en la Dirección, se cobrará una tarifa adicional por documento equivalente a: ………. $ 594.00.
+Por los servicios de certificados y copias que se soliciten cuando los antecedentes a que se refiera se encuentren fuera del distrito de la capital del Estado y solicitado en la Dirección, se cobrará una tarifa adicional por documento equivalente a: $609.00.
 
 > <small>(DEROGADO QUINTO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -2443,51 +2425,39 @@ I. Otorgamiento de licencia con vigencia de un año para fraccionar, lotificar o
 
 a) De interés social:
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-1.- De 1-00-00 a 5-00-00 has, por m2 vendible $ 0.30;
+1.- De 1-00-00 a 5-00-00 has, por m2 vendible $0.31;
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-2.- De 5-00-01 has, en adelante por m2
-
-vendible $ 0.50;
+2.- De 5-00-01 has, en adelante por m2 vendible $0.51;
 
 b) Habitaciones de tipo medio:
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-1.- De 1.00.01 has, en adelante por m2
+1.- De 1.00.01 has, en adelante por m2 vendible $0.51;
 
-vendible $ 0.50;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+c) Habitacional residencial, por m2 vendible $1.33;
 
-c) Habitacional residencial, por m2 vendible $ 1.30;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+d) Habitacional campestre, por m2 vendible $1.33;
 
-d) Habitacional campestre, por m2 vendible $ 1.30;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
+e) Comercial y zonas destinadas al comercio en los fraccionamientos habitacionales, por m2 vendible $1.64;
 
-e) Comercial y zonas destinadas al comercio
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-en los fraccionamientos habitacionales, por
+f) Granja de explotación agropecuaria, por m2 vendible $1.64;
 
-m2 vendible $ 1.60;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
-
-f) Granja de explotación agropecuaria, por
-
-m2 vendible $ 1.60;
-
-> <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
-
-g) Funerario o cementerio, por m3 del
-
-volumen de las fosas o gavetas $ 5.30;
+g) Funerario o cementerio, por m3 del volumen de las fosas o gavetas $ 5.43;
 
 > <small>[N. DE E. ESTE PÁRRAFO NO FUE ABROGADO EXPRESAMENTE POR EL LEGISLADOR, P.O. 1 DE ENERO DE 2003]</small>
 
@@ -2499,75 +2469,75 @@ II. Expedición de dictamen para diligencia de información Ad-Perpetuam;
 
 a) Rústicos:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-1.- Hasta 1-00-00 Has ………………….............................................................………$ 660.00;
+1.- Hasta 1-00-00 Has $676.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-2.- De 1-00-01 Has en adelante, se aumentará por hectárea o fracción…………. $ 297.00.
+2.- De 1-00-01 Has en adelante, se aumentará por hectárea o fracción $304.00.
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
 b) Urbano, por m2 $2.00;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-III. Expedición de constancia estatal de compatibilidad urbanística:……………..$ 528.00;
+III. Expedición de constancia estatal de compatibilidad urbanística: $541.00;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-IV. Registro de director responsable de obra, con vigencia de un año:…………. $ 1,056.00;
+IV. Registro de director responsable de obra, con vigencia de un año: $1,082.00;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-V. Revalidación anual de registro de director responsable de obra:……………... $ 528.00;
+V. Revalidación anual de registro de director responsable de obra: $541.00;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-VI. Por cada copia de expediente de documentos de Programas y Esquemas de Desarrollo Urbano o de Fraccionamientos Urbanos Autorizados:…………………………… $ 66.00;
+VI. Por cada copia de expediente de documentos de Programas y Esquemas de Desarrollo Urbano o de Fraccionamientos Urbanos Autorizados: $68.00;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-VII. Por cada copia heliográfica de planos de Programas y Esquemas de Desarrollo Urbano o de Fraccionamientos Urbanos autorizados:… $ 330.00;
+VII. Por cada copia heliográfica de planos de Programas y Esquemas de Desarrollo Urbano o de Fraccionamientos Urbanos autorizados: $338.00;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-VIII. Expedición de dictamen en materia de planeación y desarrollo urbano:……… $ 396.00;
+VIII. Expedición de dictamen en materia de planeación y desarrollo urbano: $406.00;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-###### ARTÍCULO 59.
+###### ARTICULO 59.
 
-Los servicios prestados por concepto de inscripción a concurso: ............$ 2,244.00;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
-
-I. Costo por cada disco magnético de “3.5” que se proporcione a los concursantes. $ 10.00;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-II. Costo por cada disco compacto "CD" que se proporcione a los concursantes: ....................... $ 66.00;
+Los servicios prestados por concepto de inscripción a concurso: $2,300.00;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
-III. Por cada foja de las bases y demás documentos que se proporcionen a los concursantes. $ 4.00 c/u;
+I. Costo por cada disco magnético de "3.5" que se proporcione a los concursantes. $10.00;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-IV. Por cada copia heliográfica que se proporcione: ............................................... $ 112.00;
+II. Costo por cada disco compacto "CD" que se proporcione a los concursantes: $68.00;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
-V. Sobre tamaño legal por cada paquete de concurso. $ 4.50 c/u;
+III. Por cada foja de las bases y demás documentos que se proporcionen a los concursantes. $4.00 c/u;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-VI. Costo por inscripción a cada licitación de obra…………………………........$ 2,970.00;
+IV. Por cada copia heliográfica que se proporcione: $115.00;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-VII. Costo por inscripción a licitaciones de suministros, servicios y arrendamientos……………………$ 2,112.00.
+V. Sobre tamaño legal por cada paquete de concurso $5.00 c/u;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+VI. Costo por inscripción a cada licitación de obra $3,044.00;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+VII. Costo por inscripción a licitaciones de suministros, servicios y arrendamientos $2,164.00.
 
 ###### ARTICULO 60.
 
@@ -2577,17 +2547,17 @@ Las verificaciones posteriores a que se refiere el artículo anterior, deberán 
 
 ARTICULO 60 BIS.- Los servicios prestados por concepto de:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-I. Elaboración de oficio de cancelación de garantía hipotecaria, reserva de dominio o límites establecidos en los contratos privados emitidos en su momento por el Instituto Zacatecano de la Vivienda Social ………………………………………………...$ 594.00;
+I. Elaboración de oficio de cancelación de garantía hipotecaria, reserva de dominio o límites establecidos en los contratos privados emitidos en su momento por el Instituto Zacatecano de la Vivienda Social $609.00;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-II. Elaboración de convenio de subsanación de escritura; con relación a los contratos privados emitidos por el entonces Instituto Zacatecano de la Vivienda Social ….$ 924.00; y
+II. Elaboración de convenio de subsanación de escritura; con relación a los contratos privados emitidos por el entonces Instituto Zacatecano de la Vivienda Social $947.00; y
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-III. Expedición de títulos y escrituras privadas, respecto a los programas de vivienda que ejecuta la Secretaría de Infraestructura ....$ 3,036.00.
+III. Expedición de títulos y escrituras privadas, respecto a los programas de vivienda que ejecuta la Secretaría de Infraestructura $3,111.00.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
@@ -2599,23 +2569,23 @@ Los servicios que presten por concepto de:
 
 l. Por registro con vigencia de un año en el padrón:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a) De proveedores………………………………………...$ 462.00
+a) De proveedores $462.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b) De contratistas…………………………………………$ 660.00
+b) De contratistas $676.00
 
 II. Por revalidación del registro con vigencia de un año:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a) De proveedores…………….........…………………….$ 330.00
+a) De proveedores $338.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b) De contratistas………………..........…………………..$ 462.00
+b) De contratistas $473.00
 
 III. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2011)
 
@@ -2639,37 +2609,37 @@ La Secretaría de Finanzas o en su caso los organismos descentralizados, al hace
 
 Los servicios prestados por concepto de:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-I. Expedición y/o validación de Certificado, Título Profesional, Diploma de Especialidad o Grado Académico de egresados de instituciones educativas o incorporadas .............$ 66.00.
+I. Expedición y/o validación de Certificado, Título Profesional, Diploma de Especialidad o Grado Académico de egresados de instituciones educativas o incorporadas $68.00.
 
 II. Expedición de diplomas a egresados de:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a). Academias y centros de capacitación para el trabajo ........................... $ 66.00;
+a). Academias y centros de capacitación para el trabajo $68.00;
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
-b) Tipo medio básico $ 10.00;
+b) Tipo medio básico $10.00;
 
 III. Expedición de duplicados de certificados de estudios de:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a) Preescolar, primaria o secundaria $ 25.00;
+a) Preescolar, primaria o secundaria $26.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b) Academias $ 30.00;
+b) Academias $31.00;
 
-> <small>(REFORMADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-c) Nivel medio superior $ 34.00;
+c) Nivel medio superior $35.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-d) De tipo superior $ 45.00;
+d) De tipo superior $46.00;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -2677,15 +2647,15 @@ IV. Práctica de examen extraordinario de regularización:
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
-a) De educación secundaria $ 10.00;
+a) De educación secundaria $10.00;
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
-b) De nivel medio superior o academias $ 15.00;
+b) De nivel medio superior o academias $15.00;
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
-c) De tipo superior $ 20.00;
+c) De tipo superior $20.00;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -2693,103 +2663,101 @@ V. Examen de evaluación general de conocimiento (EGC):
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
-a) De educación primaria $ 20.00;
+a) De educación primaria $20.00;
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
-b) De educación secundaria por materia $ 15.00;
+b) De educación secundaria por materia $15.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-c) De tipo superior por materia $ 30.00;
+c) De tipo superior por materia $31.00;
 
 VI. Exámenes profesionales que sustenten los egresados de escuelas del Estado:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a). De centros de capacitación para el trabajo o academias ......$ 66.00;
+a). De centros de capacitación para el trabajo o academias $68.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b). De idiomas .............................................................................$ 66.00;
+b). De idiomas $68.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-c) De tipo superior $ 60.00;
+c) De tipo superior $61.00;
 
 VII. Revalidación de estudios de:
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
-a) Primaria $ 15.00;
+a) Primaria $15.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b) Secundaria por grado $ 30.00;
+b) Secundaria por grado $31.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-c) Tipo medio superior ........................................ $ 264.00;
+c) Tipo medio superior $271.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-d) Tipo superior ................................................... $ 924.00;
+d) Tipo superior $947.00;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
-VIII. Forma de certificado o boleta de evaluación extra a la dotación ordinaria, por cada una: $ 7.00;
+VIII. Forma de certificado o boleta de evaluación extra a la dotación ordinaria, por cada una: $7.00;
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
-IX. Expedición de copias certificadas de documentos,
-
-por cada foja tamaño carta u oficio: $ 12.00;
+IX. Expedición de copias certificadas de documentos, por cada foja tamaño carta u oficio: $12.00;
 
 X. Reposición de certificados:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a) De primaria o secundaria $ 35.00;
+a) De primaria o secundaria $36.00;
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b) De tipo medio superior o academias $ 50.00;
+b) De tipo medio superior o academias $51.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-c) De tipo superior $ 70.00;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-XI. Compulsa de documentos, por foja……….............$9.00;
-
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
-
-XII. Por cualquier otra certificación o expedición de constancia distintas a las señaladas en las fracciones anteriores: $30.00;
+c) De tipo superior $72.00;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XIII. Por solicitud, estudio y resolución del trámite de reconocimiento de validez oficial de estudio de tipo superior..............................$ 9,042.00;
+XI. Compulsa de documentos, por foja $9.00;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XIV. Por solicitud, estudio y resolución del trámite de reconocimiento de validez oficial de estudio del nivel medio superior o equivalente y de formación para el trabajo, sea cual fuere la modalidad...........$ 990.00;
+XII. Por cualquier otra certificación o expedición de constancia distintas a las señaladas en las fracciones anteriores: $31.00;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XIII. Por solicitud, estudio y resolución del trámite de reconocimiento de validez oficial de estudio de tipo superior $9,266.00;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XIV. Por solicitud, estudio y resolución del trámite de reconocimiento de validez oficial de estudio del nivel medio superior o equivalente y de formación para el trabajo, sea cual fuere la modalidad $1,015.00;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
 XV. Acreditación y certificación de conocimientos de tipo elemental:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a) Completo $ 26.00;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
-
-b) Por área $ 13.00;
+a) Completo $27.00;
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
-c) Por grado $ 7.00;
+b) Por área $13.00;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+
+c) Por grado $7.00;
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
@@ -2797,33 +2765,33 @@ XVI. Acreditación y certificación de conocimiento por materia de:
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
-a) Secundaria $ 14.00;
+a) Secundaria $14.00;
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
-b) Preparatoria $ 20.00;
+b) Preparatoria $20.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-c) Tipo superior $ 30.00;
+c) Tipo superior $31.00;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
-XVII. Revisión de certificados de estudios, por grado escolar: $ 8.00;
+XVII. Revisión de certificados de estudios, por grado escolar: $8.00;
 
 XVIII. Equivalencia de estudios:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a) Secundaria, por grado $ 30.00;
+a) Secundaria, por grado $31.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b). Tipo Medio Superior............................................. $ 264.00;
+b). Tipo medio superior $271.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-c). Tipo Superior........................................................ $ 924.00.
+c). Tipo superior $947.00.
 
 > <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
@@ -2831,139 +2799,139 @@ XIX. Inspección y vigilancia de establecimientos educativos particulares, por a
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-a) De tipo inicial........................................................ $ 9.00;
+a) De tipo inicial $9.00;
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-b) De tipo básico....................................................... $ 11.00;
+b) De tipo básico $11.00;
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-c) De tipo medio, academias comerciales, centros de formación para el trabajo, Normales y demás para la formación de maestros de educación básica.......................................................................... $ 13.00;
+c) De tipo medio, academias comerciales, centros de formación para el trabajo, Normales y demás para la formación de maestros de educación básica $13.00;
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-d) De tipo superior. ................... ................................ $ 20.00;
+d) De tipo superior $20.00;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XX. Registro de colegio de profesionistas .............$ 3,300.00;
+XX. Registro de colegio de profesionistas $3,382.00;
 
 > <small>(REFORMADA, P.O. 22 DE DICIEMBRE DE 2004)</small>
 
-XXI. Registro de socios a un colegio de profesionistas $ 20.00;
+XXI. Registro de socios a un colegio de profesionistas $20.00;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-XXII. Registro de títulos profesionales……………………$20.00;
+XXII. Registro de títulos profesionales $20.00;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XXIII. Certificación o constancia de registro de título profesional, diploma de especialidad o grado académico ...............................…$198.00;
+XXIII. Certificación o constancia de registro de título profesional, diploma de especialidad o grado académico $203.00;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XXIV. Autorización provisional para ejercer como pasante .... $ 330.00;
+XXIV. Autorización provisional para ejercer como pasante $338.00;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XXV. Autorización provisional para ejercer con título en trámite……$ 330.00;
+XXV. Autorización provisional para ejercer con título en trámite $338.00;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XXVI. Timbre holograma con código de seguridad para el trámite de registro de título y expedición de Cédula..........$ 33.00;
+XXVI. Timbre holograma con código de seguridad para el trámite de registro de título y expedición de Cédula $34.00;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XXVII. Legalización de certificados:
+XXVII. Autenticación de certificados:
 
-a) Secundaria $ 30.00;
+a) Secundaria $31.00;
 
-b) Medio superior $ 40.00;
+b) Medio superior 41.00;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XXVIII. Por solicitud, estudio y resolución de trámite de autorización para impartir educación preescolar, primaria, secundaria, normal y demás para la formación de maestros, sea cual fuere la modalidad…..................$ 1,518.00;
+XXVIII. Por solicitud, estudio y resolución de trámite de autorización para impartir educación preescolar, primaria, secundaria, normal y demás para la formación de maestros, sea cual fuere la modalidad $1,556.00;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XXIX. Por solicitud, estudio y resolución del trámite de cambio a planes y programas de estudio de tipo superior con reconocimiento de validez oficial de estudios…………………………………….. $ 4,158.00;
+XXIX. Por solicitud, estudio y resolución del trámite de cambio a planes y programas de estudio de tipo superior con reconocimiento de validez oficial de estudios $4,261.00;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XXX. Registro de Federación de Colegios de Profesionistas……………….………….…… $ 6,204.00;
+XXX. Registro de Federación de Colegios de Profesionistas $6,358.00;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XXXI. Solicitud de alta de nuevos Colegios a una Federación de Colegios de Profesionistas..................................................... $ 594.00;
+XXXI. Solicitud de alta de nuevos Colegios a una Federación de Colegios de Profesionistas $609.00;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XXXII. Solicitud de cambio de Consejo Directivo de un Colegio de Profesionistas o Federación de Colegios de Profesionistas ..…… $ 594.00;
+XXXII. Solicitud de cambio de Consejo Directivo de un Colegio de Profesionistas o Federación de Colegios de Profesionistas $609.00;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XXXIII. Solicitud de cambio de denominación de un Colegio de Profesionistas o una Federación de Colegios de Profesionistas …$ 528.00;
+XXXIII. Solicitud de cambio de denominación de un Colegio de Profesionistas o una Federación de Colegios de Profesionistas $541.00;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XXXIV. Solicitud de cambio de estatutos de un Colegio de Profesionistas o una Federación de Colegios de Profesionistas ….. $ 528.00;
+XXXIV. Solicitud de cambio de estatutos de un Colegio de Profesionistas o una Federación de Colegios de Profesionistas $541.00;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XXXV. Por solicitud, estudio y resolución de trámite por cambio de domicilio y/o de titular de nivel superior con reconocimiento de validez oficial de estudios………………………………..….............$4,620.00;
+XXXV. Por solicitud, estudio y resolución de trámite por cambio de domicilio y/o de titular de nivel superior con reconocimiento de validez oficial de estudios $4,735.00;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XXXVI. Por solicitud, estudio y resolución de trámite por cambio de domicilio y/o titular de educación primaria, secundaria, normal y demás para la formación de maestros, sea cual fuera la modalidad: ….....…… $1,320.00;
+XXXVI. Por solicitud, estudio y resolución de trámite por cambio de domicilio y/o titular de educación primaria, secundaria, normal y demás para la formación de maestros, sea cual fuera la modalidad: $1,353.00;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XXXVII. Por solicitud, estudio y resolución de trámite por cambio de domicilio y/o titular de los niveles de preescolar y medio superior o equivalente y actualización de planes y programas de estudio de formación para el trabajo, sea cual fuere la modalidad………………….$1,320.00;
+XXXVII. Por solicitud, estudio y resolución de trámite por cambio de domicilio y/o titular de los niveles de preescolar y medio superior o equivalente y actualización de planes y programas de estudio de formación para el trabajo, sea cual fuere la modalidad $1,353.00;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XXXVIII. Por solicitud, estudio y resolución de trámite de Registro para impartir Educación Inicial……………….$1,518.00
+XXXVIII. Por solicitud, estudio y resolución de trámite de Registro para impartir Educación Inicial $1,556.00;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XXXIX. Por solicitud, estudio y resolución de trámite de cambio de titular y/o domicilio de Educación Inicial con Registro........ $1,326.00
+XXXIX. Por solicitud, estudio y resolución de trámite de cambio de titular y/o domicilio de Educación Inicial con Registro $1,359.00;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XL. Enmienda al registro en relación al título profesional o grado académico……………….……………………….$132.00
+XL. Enmienda al registro en relación al título profesional o grado académico $135.00;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XLI. Solicitud de expedición de copias de documentos contenidos en los expedientes de la Dirección de Profesiones: copias certificadas.........$ 16.50
+XLI. Solicitud de expedición de copias de documentos contenidos en los expedientes de la Dirección de Profesiones: copias certificadas $17.00;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XLII. Registro de peritos profesionales……...……………….$660.00
+XLII. Registro de peritos profesionales $676.00;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XLIII. Refrendo anual de registro de peritos……….................$330.00
+XLIII. Refrendo anual de registro de peritos $338.00;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XLIV. Registro de Institución Educativa…………………...$2,838.00
+XLIV. Registro de Institución Educativa $2,908.00;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XLV. Enmienda al registro para modificar la nomenclatura de la Institución Educativa……..………….... ..$500.00
+XLV. Enmienda al registro para modificar la nomenclatura de la Institución Educativa $512.00;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XLVI. Enmienda al registro para modificar la nomenclatura de carrera….................$500.00
+XLVI. Enmienda al registro para modificar la nomenclatura de carrera $512.00;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XLVII. Enmienda al registro para adición de carrera…………....………..................$500.00
+XLVII. Enmienda al registro para adición de carrera $512.00;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XLVIII. Consulta de archivo a la Dirección de Profesiones (cuando la solicitud de consulta se derive de un acto de carácter judicial no será sujeto de cobro)….......................... $96.00
+XLVIII. Consulta de archivo a la Dirección de Profesiones (cuando la solicitud de consulta se derive de un acto de carácter judicial no será sujeto de cobro) $98.00
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
@@ -2973,27 +2941,29 @@ XLVIII. Consulta de archivo a la Dirección de Profesiones (cuando la solicitud 
 
 Los servicios prestados por concepto de:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-I. Autorización de traslado de cadáver: $ 40.00;
+I. Autorización de traslado de cadáver: $41.00;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
 II. Otorgamiento a proveedores de las bases para concursos de:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a). Adquisiciones, hasta 10 fojas ......................................... $1,056.00;
+a). Adquisiciones, hasta 10 fojas $1,082.00;
 
-b) Por cada foja adicional $ 35.00;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+b) Por cada foja adicional $36.00;
 
-III. Inscripción a concurso de adquisición por invitación…………......……..…$ 792.00;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+III. Inscripción a concurso de adquisición por invitación $812.00;
 
-IV. Inscripción a concurso de obra por invitación…………………...…………$1,452.00;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+IV. Inscripción a concurso de obra por invitación $1,488.00;
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
@@ -3005,73 +2975,85 @@ ARTICULO 63 BIS.- Los servicios prestados a las empresas de seguridad privada, p
 
 I. Expedición de autorización, para prestar servicios de seguridad privada en el Estado de Zacatecas en la modalidad:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a) De vigilancia de inmuebles ……………….................$16,500.00;
+a) De vigilancia de inmuebles $16,909.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b) Protección y vigilancia de personas y bienes ………..$16,500.00;
+b) Protección y vigilancia de personas y bienes $16,909.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-c) Instalación, mantenimiento y operación de sistemas y equipos de seguridad con monitoreo ………………….……………………….$19,800.00;
+c) Instalación, mantenimiento y operación de sistemas y equipos de seguridad con monitoreo $20,291.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-d) Instalación, mantenimiento y operación de sistemas y equipos de seguridad sin monitoreo .…….…………………………………….$9,900.00;
+d) Instalación, mantenimiento y operación de sistemas y equipos de seguridad sin monitoreo $10,146.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-e) Traslado y custodia de bienes, fondos y valores ……$33,000.00.
+e) Traslado y custodia de bienes, fondos y valores $33,818.00.
 
 II. Expedición de revalidación, para prestar servicios de seguridad privada en el Estado de Zacatecas en la modalidad:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a) De vigilancia de inmuebles ………….........................$15,180.00;
+a) De vigilancia de inmuebles $15,556.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b) Protección y vigilancia de personas y bienes ……….$15,180.00;
+b) Protección y vigilancia de personas y bienes $15,556.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-c) Instalación, mantenimiento y operación de sistemas y equipos de seguridad con monitoreo …………………………………….…$18,480.00;
+c) Instalación, mantenimiento y operación de sistemas y equipos de seguridad con monitoreo $18,938.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-d) Instalación, mantenimiento y operación de sistemas y equipos de seguridad sin monitoreo …………………..…………………....$ 8,580.00;
+d) Instalación, mantenimiento y operación de sistemas y equipos de seguridad sin monitoreo $8,793.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-e) Traslado y custodia de bienes, fondos y valores …..$31,680.00;
+e) Traslado y custodia de bienes, fondos y valores $32,466.00;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-III. Modificación de la autorización para prestar servicios de seguridad privada que realizan los particulares en el Estado de Zacatecas……..........................……….$6,600.00, y
+III. Modificación de la autorización para prestar servicios de seguridad privada que realizan los particulares en el Estado de Zacatecas $6,764.00; y
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-IV. Por cambio de representante legal de las empresas prestadoras de servicios de seguridad privada …………………$3,300.00
+IV. Por cambio de representante legal de las empresas prestadoras de servicios de seguridad privada $3,382.00
 
 La autorización y revalidación que refieren las fracciones I y II del presente artículo, serán vigentes por el ejercicio fiscal en que se expidan.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-ARTICULO 63 TER.- Por los servicios que preste el Poder Judicial del Estado o la Secretaría de Seguridad Pública de (sic) Gobierno del Estado, en el ámbito de sus respectivas competencias, derivados del Sistema Penitenciario y de Ejecución de Sanciones, en los términos de lo dispuesto en el Código Procesal Penal para el Estado, por concepto de Expedición de certificados de:
+ARTICULO 63 TER.- Por los servicios que preste el Poder Judicial del Estado o la Secretaria de Seguridad Pública del Gobierno del Estado, en el ámbito de sus respectivas competencias, derivados del Sistema Penitenciario y de Ejecución de Sanciones, en los términos de lo dispuesto en el Código Procesal Penal para el Estado, por concepto de Expedición de certificados de:
 
-a) Remisión parcial de la pena..............………....$264.00;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b) Libertad condicional …………….…………..$396.00;
+a) Remisión parcial de la pena $271.00;
 
-c) Indulto……..………….....................................$792.00;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-d) Pre-liberación ………..….................................$198.00;
+b) Libertad condicional $406.00;
 
-e) Constancia de reinserción social y certificaciones.………....$66.00; y
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-f) Prelibertad …………………….………….$132.00.
+c) Indulto $812.00;
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+d) Pre-liberación $203.00;
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+e) Constancia de reinserción social y certificaciones $68.00; y
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+f) Prelibertad $135.00.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2011)</small>
 
@@ -3083,53 +3065,55 @@ Los servicios prestados en materia de Transporte y Tránsito, por concepto de:
 
 I. Por expedición de licencia de manejo, incluido el examen médico para tal efecto:
 
-Tipo 2 años 4 años 6 años
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+Tipo 2 años 4 años 6 años
 
 a) Operador de
 
-servicio público $ 363.00 $ 594.00 $ 726.00
+servicio público $372.00 $609.00 $744.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+b) Chofer $440.00 $744.00 $879.00
 
-b) Chofer $ 429.00 $ 726.00 $ 858.00
+c) Automovilista $372.00 $676.00 $812.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+d) Motociclista $237.00 $406.00 $541.00
 
-c) Automovilista $ 363.00 $ 660.00 $ 792.00
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+Reposición de la licencia de conducir $150.00
 
-d) Motociclista $ 231.00 $ 396.00 $ 528.00
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+Cuando se solicite la reposición de la licencia de conducir, se expedirá una nueva del mismo tipo, con la misma fecha de emisión y vencimiento que hubiere tenido la licencia original.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2003)</small>
 
 II. Examen médico a conductores de vehículo:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a) Examen médico a conductores de vehículos que participen en un hecho de tránsito aplicándose (etílico) ...........................................$ 198.00;
+a) Examen médico a conductores de vehículos que participen en un hecho de tránsito aplicándose (etílico) $203.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b) Toxicológico ...............................................................$ 396.00.
+b) Toxicológico $406.00.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-III. Expedición de permiso provisional de manejo para mayores de 16 años y menores de 18 años incluido certificado médico, hasta por 90 días: …………………....$ 132.00.
+III. Expedición de permiso provisional de manejo para mayores de 16 años y menores de 18 años incluido certificado médico, hasta por 90 días: $135.00.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-IV. Vehículo depositado en los recintos de tránsito, por día:…....…$ 33.00.
+IV. Vehículo depositado en los recintos de tránsito, por día: $34.00.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-V. Gafetes para operadores del servicio público: ..............................$ 396.00.
+V. Gafetes para operadores del servicio público: $406.00.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-VI. Por servicio de grúa: ....................................................................$ 330.00.
+VI. Por servicio de grúa: $338.00.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2002)</small>
 
@@ -3139,61 +3123,61 @@ VII. Expedición de permiso para circular sin placas:
 
 a) Por 5 días
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-1. Servicio Público: ...............................$ 330.00;
+1. Servicio Público: $338.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-2. Servicio Particular: ...........................$ 198.00.
+2. Servicio Particular: $203.00.
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
 b) Por 10 días
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-1. Servicio Público: ..............................$ 462.00;
+1. Servicio Público: $473.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-2. Servicio Particular: ...........................$ 330.00.
+2. Servicio Particular: $338.00.
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 2002)</small>
 
 c) Por 15 días
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-1. Servicio Público: ..............................$ 594.00;
+1. Servicio Público: $609.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-2. Servicio Particular: ...........................$ 462.00.
+2. Servicio Particular: $473.00.
 
 > <small>(ADICIONADO, P.O. 1 DE ENERO DE 2003)</small>
 
 d) Por treinta días:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-1. Servicio Particular .........................................$ 924.00;
+1. Servicio Particular $947.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-2. Servicio Público ............................................$ 1,056.00.
+2. Servicio Público $1,082.00.
 
 > <small>(ADICIONADA, P.O. 1 DE ENERO DE 2003)</small>
 
 VIII. Permiso para carga y descarga:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a). Por un día .....................................................$ 198.00;
+a). Por un día $203.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b). Por treinta días...............................................$ 726.00.
+b). Por treinta días $744.00.
 
 ###### ARTICULO 65.
 
@@ -3201,85 +3185,85 @@ La revisión operativa de unidades de servicio público de pasajeros y carga:
 
 I. Servicio público de transporte colectivo urbano y suburbano, por unidad:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a). Iniciación..........................................................$ 15,840.00;
+a). Iniciación $16,233.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b). Año posterior....................................................$ 660.00.
+b). Año posterior $676.00.
 
 II. Servicio público de transporte colectivo foráneo, por unidad:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a). Iniciación..........................................................$ 15,180.00;
+a). Iniciación $15,556.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b). Año posterior...................................................$ 660.00.
+b). Año posterior $676.00.
 
 III. Servicio público de taxi, por unidad
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a). Iniciación.........................................................$ 12,144.00;
+a). Iniciación $12,445.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b). Año posterior ..................................................$ 660.00.
+b). Año posterior $676.00.
 
 IV. Servicio público de transporte turístico, por unidad:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a). Iniciación.........................................................$ 8,052.00;
+a). Iniciación $8,252.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b). Año posterior..................................................$ 660.00.
+b). Año posterior $676.00.
 
 V. Servicio público de arrendamiento, hasta por 10 unidades:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a). Iniciación.........................................................$ 13,728.00;
+a). Iniciación $14,068.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b). Por cada unidad excedente de las 10 primeras……$ 3,564.00;
+b). Por cada unidad excedente de las 10 primeras $3,652.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-c). Año posterior ..................................................$ 924.00.
+c). Año posterior $947.00.
 
 VI. Servicio público de transporte proporcionado por agencia funeraria, de carga de materiales, de carga liviana y de grúa, por unidad:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a). Iniciación.........................................................$ 7,986.00;
+a). Iniciación $8,184.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b). Año posterior..................................................$ 528.00.
+b). Año posterior $541.00.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-VII. Certificación de servicio público: ................$ 198.00.
+VII. Certificación de servicio público: $203.00.
 
 VIII. Revisión operativa de:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a). Cambio de vehículo........................................$ 264.00;
+a). Cambio de vehículo $271.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b). Cambio de ruta................................................$ 792.00
+b). Cambio de ruta $812.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-c). Ampliación de ruta .........................................$ 396.00
+c). Ampliación de ruta $406.00.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE DICIEMBRE DE 2012)</small>
 
@@ -3289,73 +3273,73 @@ c). Ampliación de ruta .........................................$ 396.00
 
 Por la evaluación y emisión de dictamen de impacto ambiental:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-I. Informe preventivo ……………..……………$ 1,980.00
+I. Informe preventivo $2,029.00
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE 2008)</small>
 
 II. Estudio de impacto ambiental tipo general.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a) Con nivel de impacto bajo……………………$ 3,630.00
+a) Con nivel de impacto bajo $3,720.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b) Con nivel de impacto medio…..…………......$ 3,960.00
+b) Con nivel de impacto medio $4,058.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-c) Con nivel de impacto alto……………………$ 4620.00
+c) Con nivel de impacto alto $4,735.00
 
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE 2008)</small>
 
 III. Estudio de impacto ambiental tipo intermedio.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a) Con nivel de impacto bajo…………………..$ 5,280.00
+a) Con nivel de impacto bajo $5,411.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b) Con nivel de impacto medio: ……………….$ 6,930.00
+b) Con nivel de impacto medio: $7,102.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-c) Con nivel de impacto alto: ………………….$ 9,768.00
+c) Con nivel de impacto alto: $10,010.00
 
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE 2008)</small>
 
 IV. Estudio de impacto ambiental tipo específico.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a) Con nivel de impacto bajo……………….......$ 10,560.00
+a) Con nivel de impacto bajo $10,822.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b) Con nivel de impacto medio: ………….....…$ 13,200.00
+b) Con nivel de impacto medio: $13,527.00
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-c) Con nivel de impacto alto: …………………..$ 15,972.00
+c) Con nivel de impacto alto: $16,368.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-V. Exención de trámite de impacto ambiental …………$ 330.00.
+V. Exención de trámite de impacto ambiental $338.00.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-VI. Ratificación y ampliación de resolución de impacto ambiental…... $ 396.00.
+VI. Ratificación y ampliación de resolución de impacto ambiental $406.00.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-VII. Estudio de riesgo ambiental……………….………$ 6,600.00.
+VII. Estudio de riesgo ambiental $6,764.00.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-VIII. Evaluación y resolución de la solicitud de modificación de proyectos autorizados en materia de impacto ambiental…………..$ 2,310.00.
+VIII. Evaluación y resolución de la solicitud de modificación de proyectos autorizados en materia de impacto ambiental $2,367.00.
 
 ###### ARTICULO 67.
 
@@ -3365,47 +3349,47 @@ Salarios Mínimos
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-I. Reproducción de material didáctico, ecológico y ambiental…............$10.00 por foja
+I. Reproducción de material didáctico, ecológico y ambiental $10.00 por foja
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
-II. Reproducción de material informático ecológico y ambiental en medio de almacenamiento (USB, Disco compacto o cualquier otro)…………$16.00 por foja digitalizada c/u
+II. Reproducción de material informático ecológico y ambiental en medio de almacenamiento (USB, Disco compacto o cualquier otro) $16.00 por foja digitalizada c/u
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-III. Reproducción de material informático ecológico y ambiental disponible en archivos digitalizados a disco compacto..........................................$165.00 c/u
+III. Reproducción de material con información ecológico (sic) y ambiental disponible en archivos digitalizados a disco compacto $169.00 c/u;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-IV. Información de planos con información ecológica y ambiental…….$ 396.00 c/u
+IV. Información de planos con información ecológico (sic) y ambiental $406.00 c/u;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-V. Reproducción de planos con información ecológica y ambiental………........… $ 165.00 c/u
+V. Reproducción de planos con información ecológico (sic) y ambiental $169.00 c/u;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-VI. Asesoría y capacitación en materias de ecología y medio ambiente por cada hora……………………………………$ 528.00.
+VI. Asesoría y capacitación en materias de ecología y medio ambiente por cada (sic) $541.00
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-VII. Registro en el Padrón de Prestadores de Servicio Ecológico y Ambiental……...............................................................$ 1,650.00.
+VII. Registro en el Padrón de Prestadores de Servicio Ecológico y Ambiental $1,691.00.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-VIII. Reproducción en plotter...........................................................$ 264.00.
+VIII. Reproducción en plotter $271.00.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-IX. Autorización por simulacro de incendio……...……….…....…$ 396.00.
+IX. Autorización por simulacro de incendio $406.00.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-X. Registro de generadores de residuos de manejo especial….…..….$ 396.00.
+X. Registro de generadores de residuos de manejo especial $406.00.
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XI. Trámite de certificación ambiental…………………………..$ 1,650.00.
+XI. Trámite de certificación ambiental $1,691.00.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
@@ -3415,15 +3399,17 @@ XI. Trámite de certificación ambiental…………………………..$ 1,650.
 
 ARTICULO 67 BIS.- Los servicios que preste la Procuraduría General de Justicia del Estado, por concepto de pruebas periciales:
 
-(VÉASE ARCHIVO ANEXO)
+> <small>[N. DE E. VÉASE TABLA EN EL SUPLEMENTO DEL P.O. DE 28 DE DICIEMBRE DE 2013, PÁGINAS DE LA 26 A LA 29.]</small>
+
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN EL SUPLEMENTO DEL P.O. DE 30 DE DICIEMBRE DE 2015, PÁGINAS DE LA 39 A LA 42.]</small>
 
 ### CAPITULO XII. OTROS DERECHOS
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 68.
 
-Ratificación o certificación de firmas de contratos o actos jurídicos privados ante autoridades judiciales o administrativas distintas de las de Catastro y Registro Público de la Propiedad y del Comercio: ................................................................ $ 66.00.
+Ratificación o certificación de firmas de contratos o actos jurídicos privados ante autoridades judiciales o administrativas distintas de las de Catastro y Registro Público de la Propiedad y del Comercio: $68.00.
 
 ###### ARTICULO 69.
 
@@ -3431,27 +3417,25 @@ Las copias certificadas, constancias y certificaciones de cualquier naturaleza q
 
 I. La primera foja relativa a asuntos correspondientes:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a). Al año en curso………………………………..…….$ 66.00;
+a). Al año en curso $68.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b). Al año anterior………….............…………………..$ 132.00;
+b). Al año anterior $135.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-c). A más de dos años anteriores ………........……...$ 198.00.
+c). A más de dos años anteriores $203.00;
 
 > <small>(REFORMADO, P.O. 1 DE ENERO DE 2003)</small>
 
-d) Por cada foja excedente correspondiente
+d) Por cada foja excedente correspondiente a asuntos de cualquier año $10.00.
 
-a asuntos de cualquier año $ 10.00.
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-II. Certificado de no antecedentes penales ..................................... $ 99.00.
+II. Certificado de no antecedentes penales $101.00.
 
 > <small>(ADICIONADA, P.O. 27 DE DICIEMBRE 2008)</small>
 
@@ -3467,69 +3451,73 @@ El pago de derechos, a que se refieren los artículos 68 y 69, por servicios que
 
 ARTICULO 69 BIS.- Los servicios que prestan las dependencias y entidades de la Administración Pública Centralizada a que se refieren los artículos 22 y 44 de la Ley Orgánica de la Administración Pública del Estado de Zacatecas, por la reproducción de la información a través de documentos físicos, en medios de almacenamiento o por envío vía internet, que le sean solicitados en materia del derecho a la información pública, se cobrará conforme a lo siguiente:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-I. Por la expedición de copia simple por hoja ………………$15.00;
+I. Por la expedición de copia simple por hoja $1.00;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-II. Por expedición de copia certificada por hoja ……………. $17.00;
+II. Por expedición de copia certificada por hoja $1.70;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-III. Por la expedición de copia a color por hoja ……………...$17.00;
+III. Por la expedición de copia a color por hoja $1.70;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-IV. Por cada hoja enviada por internet que contenga la información requerida..........$ 17.00;
+IV. Por cada hoja enviada por internet que contenga la información requerida $1.70;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-V. Por cada hoja transferida a un medio de almacenamiento (USB, Disco Compacto o cualquier otro), que contenga la información requerida…………………………..............................................$17.00
+V. Por cada hoja transferida a un medio de almacenamiento (USB, Disco Compacto o cualquier otro), que contenga la información requerida $1.70;
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-VI. Por expedición de copia simple de
+VI. Por expedición de copia simple de planos por metro cuadrado de papel $61.00;
 
-planos por metro cuadrado de papel. $60.00;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
-
-VII. Por expedición de copia certificada de
-
-planos por metro cuadrado de papel. $80.00;
+VII. Por expedición de copia certificada de planos por metro cuadrado de papel $82.00;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 VIII. Cuando se requiera el envío de información a través del Servicio Postal Mexicano o empresas privadas de mensajería, además del costo que se cause por la expedición de las copias que refiere el presente artículo, dicho envío tendrá un costo de:
 
-a) Por conducto del Servicio Postal Mexicano ………………$ 66.00;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b) A través de empresas privadas de mensajería para envío estatal….$198.00;
+a) Por conducto del Servicio Postal Mexicano $68.00;
 
-c) A través de empresas privadas de mensajería para envío nacional.. $462.00;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-d) A través de empresas privadas de mensajería para envío al extranjero…….$660.00;
+b) A través de empresas privadas de mensajería para envío estatal $203.00;
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+c) A través de empresas privadas de mensajería para envío nacional $473.00;
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+d) A través de empresas privadas de mensajería para envío al extranjero $676.00;
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 Los mismos importes y tarifas serán aplicables por la expedición de los documentos físicos o que en medio magnético u óptico realicen los Poderes Legislativo y Judicial y que le sean solicitados en materia de acceso a la información pública. Lo anterior sin perjuicio de las exenciones o no causación de derechos que por estos conceptos se encuentren previstas (sic) en otras leyes.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-ARTICULO 69 TER.- Por el derecho de expedición de certificados del Instituto de Selección y Capacitación del Estado de Zacatecas, se cobrarán…………….........$ 4,752.00.
+ARTICULO 69 TER.- Por el derecho de expedición de certificados del Instituto de Selección y Capacitación del Estado de Zacatecas, se cobrarán $4,870.00.
 
 > <small>(ADICIONADO, P.O. 28 DE DICIEMBRE DE 2013)</small>
 
 ARTICULO 69 QUATER.- Por los servicios que presta el Organismo Regularizador de la Tenencia de la Tierra en Zacatecas:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-I. Expedición de títulos y escrituras privadas de propiedad, respecto del Programa Estatal de regularización de la Tenencia de la Tierra Urbana ……………....................$ 3,036.00, y
+I. Expedición de títulos y escrituras privadas de propiedad, respecto del Programa Estatal de regularización de la Tenencia de la Tierra Urbana $3,111.00, y
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-II. Expedición de documentos privados individuales para la obtención del dominio pleno de los inmuebles sujetos al régimen de fraccionamientos rurales…………..............$ 3,036.00.
+II. Expedición de documentos privados individuales para la obtención del dominio pleno de los inmuebles sujetos al régimen de fraccionamientos rurales $3,111.00.
 
 ## TITULO IV. DE LOS PRODUCTOS
 
@@ -3549,45 +3537,41 @@ a) Certificación de actas de registro civil $7.00;
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2010)</small>
 
-b) Asentamiento de actas de registro civil,
-
-cada juego $18.00
+b) Asentamiento de actas de registro civil, cada juego $18.00
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2011)</small>
 
 1. Nacimiento, matrimonio o defunción, cada juego $20.00;
 
-c) Asentamiento de escritura pública $ 2.50;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-d) Otras formas impresas, cada una $ 2.50;
+c) Asentamiento de escritura pública $3.00;
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+d) Otras formas impresas, cada una $3.00;
 
 e) Leyes, reglamentos, folletos y demás publicaciones, su costo se determinará de conformidad con el tiraje de la edición, número de hojas y calidad de impresión y encuadernación;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-f) Juego de 150 fojas de protocolo notarial abierto….......……$ 660.00
+f) Juego de 150 fojas de protocolo notarial abierto $676.00;
 
-g) Formas de solicitud para inicio, renovación,
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-cambio de domicilio, cambio de giro o
+g) Formas de solicitud para inicio, renovación, cambio de domicilio, cambio de giro o transferencia del derecho de licencia, de establecimientos con venta de bebidas alcohólicas $9.00;
 
-transferencia del derecho de licencia, de
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-establecimientos con venta de bebidas
+h) Formas de permisos provisionales para circular sin placas $68.00;
 
-alcohólicas $ 8.40;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+i) Hologramas y certificados para Centros de Verificación $89.00;
 
-h) Formas de permisos provisionales para circular sin placas…...………$ 66.00;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-i) Hologramas y certificados para Centros de Verificación…….........…… $ 87.12;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-j) Hoja de rechazo para Centros de Verificación………….............…...… $ 33.00.
+j) Hoja de rechazo para Centros de Verificación $34.00.
 
 III. De capitales y valores del Estado, sus rendimientos;
 
@@ -3597,31 +3581,35 @@ IV. Los provenientes del Periódico Oficial. Estos se causarán conforme a la si
 
 a) Por suscripción; Importe
 
-1.- Por semestre…………………….......................$ 1,320.00;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-2.- Por año…………………………….…………..$ 1,980.00;
+1.- Por semestre $1,353.00;
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+2.- Por año $2,029.00;
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
 b) Por enviar a otros lugares fuera de la ciudad de Zacatecas en el país;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-1.- Por semestre………………………………………...…$ 1,650.00;
+1.- Por semestre $1,691.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-2.- Por año……………..………………………………...…$ 2,640.00;
+2.- Por año $2,705.00;
 
 c) Por enviar al extranjero;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-1.- Por semestre…………………………………………..$ 2,640.00;
+1.- Por semestre $2,705.00;
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-2.- Por año……………………………………………..…$ 4,620.00.
+2.- Por año $4,735.00.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2005)</small>
 
@@ -3649,7 +3637,7 @@ b) De fechas anteriores;
 
 VI. Aviso judicial, administrativo, edicto, notificación y otros actos que se publiquen conforme a disposiciones legales, tendrá un costo;
 
-Por palabra $ 0.40.
+Por palabra $0.40.
 
 ###### ARTICULO 71.
 
@@ -3872,3 +3860,11 @@ P.O. 31 DE DICIEMBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día primero de enero del año dos mil quince, previa publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DE LAS “REFORMAS A LA LEY DE HACIENDA DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL 2016”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor el día primero de enero del año dos mil dieciséis, previa publicación en el Periódico Oficial Órgano del Gobierno del Estado de Zacatecas.
