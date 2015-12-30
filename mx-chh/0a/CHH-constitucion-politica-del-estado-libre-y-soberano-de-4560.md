@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2015-12-09"
+last_updated: "2015-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "CHH"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 23 DE ENERO DE 2016 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2015.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -665,7 +663,7 @@ Concluido cada proceso electoral, el Tribunal Estatal Electoral presentará al C
 
 El Tribunal Estatal Electoral hará uso de los medios de apremio necesarios para hacer cumplir de manera expedita sus sentencias y resoluciones, en los términos que fije la ley.
 
-(NOTA: EL 26 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2015 Y SUS ACUMULADAS 72/2015 Y 82/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(NOTA: EL 26 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2015 Y SUS ACUMULADAS 72/2015 Y 82/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedien tes/).
 
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
@@ -1079,7 +1077,25 @@ IX.- Autorizar al Gobernador:
 
 A.- Para que, conforme a las bases que le fije el mismo Congreso y sometiéndolos después a su aprobación, celebre arreglos sobre límites del territorio del Estado, los cuales quedarán sujetos a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos.
 
-B.- Para que, con la limitación que establece el artículo 117, fracción VIII, de la Constitución General, celebre contratos o empréstitos sobre el crédito del Estado, con sujeción a las bases que se le fijen por la Legislatura, a cuya aprobación serán sometidos aquéllos.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+B) Para que, en materia de deuda pública y con la limitación que establece el artículo 117, fracción VIII, de la Constitución General, celebre contratos, empréstitos y otorgue garantías sobre el crédito del Estado, con sujeción a las bases siguientes:
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+1. Ningún empréstito podrá celebrarse sino para la ejecución de obras que directamente produzcan un incremento en los ingresos públicos o, en términos de la ley de la materia, los que se realicen con propósitos de regulación monetaria, las operaciones de refinanciamiento o reestructura de deuda que deberán realizarse bajo las mejores condiciones de mercado; así como las que se contraten durante una emergencia declarada por el Gobierno del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+2. El Congreso del Estado aprobará, anualmente, los montos de endeudamiento que deberán incluirse en la ley de ingresos, que en su caso requiera el Gobierno del Estado y las entidades de su sector público, conforme a las bases de la ley correspondiente. El Ejecutivo Estatal informará anualmente al Congreso del Estado sobre el ejercicio de dicha deuda a cuyo efecto el Gobernador le hará llegar el informe que sobre el ejercicio de los recursos correspondientes hubiera realizado. El Gobierno del Estado informará igualmente al Congreso del Estado al rendir la cuenta pública.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+3. El Congreso del Estado establecerá en las leyes, las bases generales para que el Estado y los municipios puedan incurrir en endeudamiento; los límites y modalidades bajo los cuales dichos órganos de gobierno podrán afectar sus respectivas participaciones para cubrir los empréstitos y obligaciones de pago que contraigan; la obligación de dichos órganos de gobierno de inscribir y publicar la totalidad de sus empréstitos y obligaciones de pago en un registro público único, de manera oportuna y transparente; un sistema de alertas sobre el manejo de la deuda; así como las sanciones aplicables a los servidores públicos que no cumplan sus disposiciones.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+4. El Congreso del Estado, a través de la comisión legislativa respectiva, analizará la estrategia de ajuste para fortalecer las finanzas públicas del Estado, planteada en los convenios que se pretendan celebrar con el Gobierno Federal para obtener garantías y, en su caso, emitirá las observaciones que estime pertinentes en un plazo máximo de quince días hábiles, inclusive durante los periodos de receso del Congreso del Estado. Lo anterior se aplicará para el caso de un nivel elevado de deuda en los términos de la ley. Asimismo, de manera inmediata a la suscripción del convenio correspondiente, será informado de la estrategia de ajuste para los municipios que se encuentren en el mismo supuesto.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1983)</small>
 
@@ -1606,6 +1622,14 @@ Art. 83 bis.- La Auditoría Superior del Estado es un órgano del Congreso que t
 > <small>(ADICIONADO, P.O. 9 DE MAYO DE 2007)</small>
 
 Art. 83 ter.- La fiscalización será posterior. Una vez fiscalizadas las cuentas públicas y emitidos los decretos que contengan, en su caso, irregularidades en el manejo, recaudación y aplicación de fondos públicos, la Auditoría Superior del Estado, bajo su más estricta responsabilidad, deberá presentar, sin dilación, las denuncias penales e iniciar los procedimientos civiles y administrativos a fin de determinar responsabilidades; y en general, ejercitar todas las acciones ante las autoridades competentes hasta en tanto se apliquen las sanciones previstas por la ley y se reparen los daños o perjuicios causados al patrimonio público.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+Asimismo, la fiscalización abarcará lo relativo a los ingresos, egresos y deuda; las garantías que, en su caso, otorgue el Gobierno Federal respecto a empréstitos del Estado y municipios; el manejo, la custodia y la aplicación de fondos y recursos de los Poderes del Estado y de los entes públicos estatales, así como realizar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los programas federales, a través de los informes que se rendirán en los términos que disponga la ley.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+También fiscalizará, en coordinación con la Auditoría Superior de la Federación, los recursos que provengan de las participaciones federales.
 
 ## TITULO VIII.
 
@@ -2861,6 +2885,20 @@ IV. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, 
 
 V. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+Art. 165 ter.- El Estado y los municipios no podrán contraer obligaciones o empréstitos sino cuando se destinen a inversiones públicas productivas y a su refinanciamiento o reestructura, mismas que deberán realizarse bajo las mejores condiciones del mercado, inclusive los que contraigan organismos descentralizados, empresas públicas y fideicomisos y, en el caso del Estado, adicionalmente para otorgar garantías respecto al endeudamiento de los municipios.
+
+Lo anterior, conforme a las bases que establezca la ley correspondiente, en los términos de lo previsto en esta Constitución, y por los conceptos y hasta por los montos que se aprueben.
+
+Los ejecutivos, estatal y municipales, informarán de su ejercicio al rendir la cuenta pública. En ningún caso se podrán destinar empréstitos para cubrir gasto corriente.
+
+El Congreso del Estado, con el voto de las dos terceras partes de sus miembros presentes, en la contratación de empréstitos y obligaciones, podrá autorizar los montos máximos para obtener las mejores condiciones del mercado, previo análisis de su destino, capacidad de pago y, en su caso, el otorgamiento de garantía o el establecimiento de la fuente de pago.
+
+Sin perjuicio de lo anterior, el Estado y los municipios podrán contratar obligaciones para cubrir sus necesidades de corto plazo, sin rebasar los límites máximos y condiciones que establezca la ley.
+
+Las obligaciones a corto plazo, deberán liquidarse a más tardar tres meses antes del término del periodo de gobierno correspondiente, y no podrán contratarse nuevas obligaciones durante esos últimos tres meses.
+
 > <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
 ###### Art. 166.
@@ -2901,7 +2939,11 @@ DEL DESARROLLO SUSTENTABLE.
 
 El Sistema Estatal de Fiscalización es el integrado por el Congreso del Estado y su órgano técnico, la Auditoría Superior del Estado, los entes fiscalizables, la información contable y presupuestal, la normatividad y procedimientos. Deberá contribuir al desarrollo permanente en la eficiencia, eficacia, economía y transparencia en el ejercicio de los recursos públicos y la rendición de cuentas.
 
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 30 DE DICIEMBRE DE 2015)</small>
+
 El Estado vigilará la estabilidad de las finanzas públicas y del sistema financiero, a fin de coadyuvar a generar condiciones favorables para el crecimiento económico y el empleo. El Plan Estatal de Desarrollo y los planes municipales deberán observar dicho principio.
+
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], P.O. 30 DE DICIEMBRE DE 2015)</small>
 
 La función de fiscalización se desarrollará, inclusive, en materia de deuda pública y su ejercicio.
 
@@ -2986,6 +3028,10 @@ Los servidores públicos, en ejercicio de sus funciones, pueden contraer respons
 I.- Penal, por la comisión de delitos.
 
 II.- Administrativa, por la realización de actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+Asimismo, serán responsables por el manejo indebido de los recursos públicos obtenidos por medio de deuda pública, sin perjuicio de que, en su caso, proceda la denuncia penal correspondiente.
 
 III.- Oficial, por los actos u omisiones que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho, y
 
@@ -4336,3 +4382,15 @@ SEXTO.- Quien presida la Junta de Coordinación Política del Congreso durante e
 SÉPTIMO.- Los Diputados que integran la LXIV Legislatura deberán presentar el informe correspondiente al último año de ejercicio legislativo, a que se refiere el artículo 65, fracción IV, segundo párrafo de la Constitución Local, en el período comprendido del primero al treinta de septiembre de 2016.
 
 OCTAVO.- Cuando en otras disposiciones jurídicas se haga mención a la Junta de Coordinación Parlamentaria, se entenderá que está referida a la Junta de Coordinación Política.
+
+P.O. 30 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 951/2015 IX P.E. MEDIANTE EL CUAL SE REFORMA EL PRIMER PÁRRAFO DEL INCISO B), DE LA FRACCIÓN IX, DEL ARTÍCULO 64; Y SE ADICIONAN LOS NUMERALES 1, 2, 3, Y 4, AL INCISO B), DE LA FRACCIÓN IX, DEL ARTÍCULO 64; LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 83 Y EL ARTÍCULO 165 TER; LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 170, Y UN SEGUNDO PÁRRAFO A LA FRACCIÓN II DEL ARTÍCULO 178, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+Conforme lo dispone el Artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y de los debates del Congreso, a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o por la Diputación Permanente, en su caso, el cómputo de votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
