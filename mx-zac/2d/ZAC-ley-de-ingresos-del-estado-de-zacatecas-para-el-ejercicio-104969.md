@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-ingresos-del-estado-de-zacatecas-para-el-ejercicio-10496
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2014-12-31"
-last_updated: "2014-12-31"
+last_updated: "2015-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104969&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 LEY DE INGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL 2015
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE INGRESOS DEL ESTADO DE ZACATECAS PARA EL EJERCICIO FISCAL 2016, PUBLICADA EN EL P.O. DE 30 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Suplemento 2 del Periódico Oficial del Estado de Zacatecas, el miércoles 31 de diciembre de 2014.
 
@@ -144,3 +146,23 @@ PROFR. FRANCISCO ESCOBEDO VILLEGAS.
 EL SECRETARIO DE FINANZAS
 
 ING. FERNANDO ENRIQUE SOTO ACOSTA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE DICIEMBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente decreto entrará en vigor el primer día del mes de enero del año dos mil dieciséis, previa publicación en el Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley de Ingresos del Estado de Zacatecas para el ejercicio fiscal 2015 contenida en el decreto número 256, publicado el 31 de diciembre del 2014, en el Suplemento número 2 al número 105 del Periódico Oficial, Órgano de Gobierno del Estado de Zacatecas.
+
+###### ARTÍCULO TERCERO.
+
+Durante el ejercicio fiscal 2016 continuarán en vigor en todos sus términos las autorizaciones establecidas en el Decreto por el que se autoriza el Programa de Financiamiento por el monto de 2'050,000 millones de pesos.
+
+###### ARTÍCULO CUARTO.
+
+Para los efectos de lo dispuesto por la fracción IX del artículo 1 de la Ley de Ingresos del Estado de Zacatecas, respecto a la decisión de con quiénes de los distintos acreedores bancarios proponentes se contratarán los créditos previstos en esta Ley, la H. Legislatura del Estado integrará una comisión supervisora integrada por los coordinadores de las distintas fracciones parlamentarias representadas en ella. La función de la comisión a que se refiere este párrafo es conocer, previo a la contratación, las cotizaciones propuestas por las instituciones bancarias y asegurarse que el destino del crédito corresponda a las condiciones de autorización.
