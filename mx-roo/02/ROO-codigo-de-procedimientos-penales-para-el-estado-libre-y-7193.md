@@ -4,7 +4,7 @@ identifier: "ROO-codigo-de-procedimientos-penales-para-el-estado-libre-y-7193"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-10-07"
-last_updated: "2015-07-24"
+last_updated: "2015-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7193&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE QUINTANA RO
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL DECRETO NÚMERO 121, PUBLICADO EN EL P.O. DE 6 DE JUNIO DE 2014, LOS PROCEDIMIENTOS PENALES INICIADOS CON ANTERIORIDAD A LA ENTRADA EN VIGOR DEL SISTEMA PROCESAL PENAL ACUSATORIO Y ORAL EN EL ESTADO, SERÁN CONCLUIDOS CONFORME A LAS DISPOSICIONES LEGALES VIGENTES CON ANTERIORIDAD A LA ENTRADA EN VIGOR DE DICHO SISTEMA EN EL DISTRITO JUDICIAL QUE CORRESPONDA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2015.
 
 > <small>N. DE E. CONTIENE LA DECLARATORIA PUBLICADA EN EL P.O. DE 6 DE JUNIO DE 2014.</small>
 
@@ -4429,7 +4429,9 @@ d) El 10 de septiembre de 2015 en el Distrito Judicial de Lázaro Cárdenas, con
 
 e) El 10 de noviembre de 2015 en el Distrito Judicial de Cozumel, con cabecera en la ciudad del mismo nombre, que comprende la Isla de Cozumel del Estado de Quintana Roo;
 
-f) El 30 de enero 2016 (sic) en el Distrito Judicial de Solidaridad, con cabecera en la Ciudad de Playa del Carmen, el cual comprende la circunscripción territorial de los Municipios de Solidaridad y Tulum del Estado de Quintana Roo, así como los polígonos descritos en la fracción IV del Artículo 128 de la Constitución Política del Estado, predios conocidos como "Calica" y "Parque Ecológico de Xel-Há" pertenecientes al Municipio de Cozumel;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+f) El 30 de enero (sic) 2016 en el Distrito Judicial de Solidaridad, con cabecera en la Ciudad de Playa del Carmen, el cual comprende la circunscripción territorial de los Municipios de Solidaridad, Tulum y Puerto Morelos del Estado de Quintana Roo, así como los polígonos descritos en la fracción IV del Artículo 128 de la Constitución Política del Estado, predios conocidos como "Calica" y "Parque Ecológico de Xel-Há" pertenecientes al Municipio de Cozumel;
 
 g) El 30 de abril de 2016 en el Distrito Judicial de Isla Mujeres, con cabecera en la ciudad del mismo nombre, el cual comprende Isla Mujeres del Estado de Quintana Roo, y
 
@@ -4456,3 +4458,17 @@ P.O. 24 DE JULIO DE 2015.
 PRIMERO. El presente Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan a las contenidas en el presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 377 POR EL QUE SE REFORMA EL ARTÍCULO 6 DE LA LEY SOBRE LAS CARACTERÍSTICAS Y EL USO DEL ESCUDO DEL ESTADO DE QUINTANA ROO; SE REFORMA EL ARTÍCULO 11 DE LA LEY SOBRE LAS CARACTERÍSTICAS, DIFUSIÓN Y EJECUCIÓN DEL HIMNO A QUINTANA ROO; SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 75 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO; SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 22 DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE QUINTANA ROO, Y SE REFORMA EL INCISO F) DEL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 121 POR EL QUE LA HONORABLE XIV LEGISLATURA DEL ESTADO DE QUINTANA ROO EMITE LA DECLARATORIA DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO Y ORAL EN LOS ORDENAMIENTOS LEGALES DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUINTANA ROO DE FECHA 6 DE JUNIO DE 2014”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día 6 de enero del año 2016, previa su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. El uso de los escudos que se esgriman en los edificios públicos, escuelas o en otras instituciones, deberán ajustarse a la reforma del artículo 6 de la Ley Sobre las Características y el Uso del Escudo del Estado de Quintana Roo, establecida en el presente decreto. Se exceptúan los escudos esculpidos en edificios, monumentos y centros históricos que se encuentren ubicados en el Estado de Quintana Roo, que constituyan por su valor cultural o trascendencia social, parte invariable de la característica del pueblo quintanarroense, independientemente del material en que se obren.
+
+TERCERO. Los juicios iniciados en el Distrito Judicial de Cancún, con anterioridad a la entrada en vigor del presente decreto, serán concluidos en dicho Distrito Judicial.
+
+CUARTO. Remítase copia del presente Decreto a los poderes públicos de la Federación, de las Entidades Federativas y del Distrito Federal, así como a los demás poderes del Estado de Quintana Roo, para su conocimiento y efectos a que haya lugar.
+
+QUINTO. Remítase copia del presente Decreto a la Procuraduría General de Justicia, al Instituto de la Defensoría Pública del Estado, al Centro de Justicia Alternativa, a la Secretaría de Seguridad Pública y a los Honorables Ayuntamientos, todos del Estado de Quintana Roo, para los efectos correspondientes.
