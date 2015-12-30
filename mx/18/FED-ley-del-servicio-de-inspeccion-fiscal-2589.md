@@ -4,7 +4,7 @@ identifier: "FED-ley-del-servicio-de-inspeccion-fiscal-2589"
 country: "mx"
 rank: "ley"
 publication_date: "1936-04-13"
-last_updated: "2012-04-09"
+last_updated: "2015-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2589&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "1936-03-17"
 
 LEY DEL SERVICIO DE INSPECCIÓN FISCAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE ABRIL DE 2012.
+> <small>N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL SEGUNDO TRANSITORIO DE LA LEY DE TESORERÍA DE LA FEDERACIÓN, PUBLICADA EN LA PRIMERA SECCIÓN DEL DIARIO OFICIAL DE LA FEDERACIÓN; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL 1 DE ENERO DEL EJERCICIO FISCAL SIGUIENTE AL DE SU APROBACIÓN.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE DICIEMBRE DE 2015 (ABROGADA).
 
 > <small>N. DE E. POR DISPOSICIÓN DEL ARTÍCULO SEGUNDO DEL DECRETO DE REFORMAS A LA PRESENTE LEY, SERÁN APLICABLES PARA LO SUCESIVO TODAS ESTAS DISPOSICIONES, AL DEPARTAMENTO DEL DISTRITO FEDERAL. LAS FACULTADES QUE DICHOS ORDENAMIENTOS ATRIBUYEN A LA SECRETARÍA DE HACIENDA Y CRÉDITO PÚBLICO, QUEDAN ATRIBUIDAS, PARA LO SUCESIVO, A LA SECRETARÍA DE BIENES NACIONALES E INSPECCIÓN ADMINISTRATIVA, D.O.F. 31 DE DICIEMBRE DE 1946.</small>
 
@@ -769,7 +771,7 @@ Las disposiciones legales a que se refiere el artículo anterior, entretanto se 
 
 En cumplimiento de lo dispuesto por la fracción I del artículo 89 de la Constitución Política de los Estados Unidos Mexicanos, y para su publicación y observancia, promulgo la presente ley, en la residencia del Poder Ejecutivo Federal, en la ciudad de México, a los diecisiete días del mes de marzo de mil novecientos treinta y seis.- Lázaro Cárdenas.- Rúbrica.- El Secretario de Estado y del Despacho de Hacienda y Crédito Público, Eduardo Suárez.- Rúbrica.- Al C. Licenciado Silvano Barba González, Secretario de Gobernación.- Presente.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 D.O.F. 31 DE AGOSTO DE 1936.
 
@@ -790,3 +792,33 @@ D.O.F. 9 DE ABRIL DE 2012.
 Primero. El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 Segundo. A partir de la fecha en que entre en vigor este Decreto, se dejan sin efecto las disposiciones que contravengan o se opongan al mismo.
+
+D.O.F. 30 DE DICIEMBRE DE 2015.
+
+PRIMERO.- La presente Ley entrará en vigor el 1 de enero del ejercicio fiscal siguiente al de su aprobación.
+
+SEGUNDO.- Se abrogan la Ley del Servicio de Tesorería de la Federación, publicada en el Diario Oficial de la Federación el 31 de diciembre de 1985, y la Ley del Servicio de Inspección Fiscal, publicada en el Diario Oficial de la Federación el 13 de abril de 1936.
+
+TERCERO.- Se derogan todas aquellas disposiciones jurídicas que se opongan a lo establecido en la presente Ley.
+
+El Reglamento de la Ley del Servicio de Tesorería de la Federación y demás disposiciones jurídicas derivadas de la Ley del Servicio de Tesorería de la Federación que se abroga, seguirán vigentes en todo lo que no se opongan a la Ley de Tesorería de la Federación, hasta en tanto se expida el Reglamento de esta última o las disposiciones jurídicas que las sustituyan.
+
+CUARTO.- Los asuntos que se encuentren en trámite o pendientes de resolución a la fecha de entrada en vigor de la presente Ley, deberán sustanciarse y concluirse de conformidad con las disposiciones vigentes al momento de su inicio o tramitación, salvo las solicitudes de autorización para ser Auxiliares, las cuales deberán sujetarse a lo dispuesto en esta Ley.
+
+Los convenios, contratos, resoluciones y autorizaciones vigentes a la entrada en vigor de la presente Ley y que se hayan celebrado o emitido conforme a la Ley que se abroga, continuarán surtiendo sus efectos, en lo que no se opongan a la presente Ley.
+
+QUINTO.- Tratándose de los recursos a que se refiere el artículo 30 de esta Ley que hayan sido entregados a la Tesorería con anterioridad a la entrada en vigor de la misma, el sujeto que haya realizado la entrega deberá informar a la Tesorería el concepto o instrucción de destino o aplicación correspondiente, dentro del año siguiente a la entrada en vigor de esta Ley.
+
+En caso de que la Tesorería no reciba la información señalada en el párrafo anterior, dentro de los tres meses siguientes al vencimiento del plazo mencionado en el citado párrafo, aplicará al erario federal dichos recursos en el concepto que corresponda de la Ley de Ingresos de la Federación del ejercicio fiscal que corresponda.
+
+SEXTO.- Los recursos disponibles del Fondo de Garantía para Reintegros al Erario Federal a que se refiere el artículo 55 de la Ley del Servicio de Tesorería de la Federación que se abroga, deberán transferirse por la Tesorería a la Cuenta Corriente en el concepto que corresponda conforme a la Ley de Ingresos de la Federación del ejercicio fiscal que corresponda, dentro de los tres meses siguientes a la entrada en vigor de esta Ley, y se aplicarán a cubrir el Presupuesto de Egresos de la Federación de acuerdo con lo previsto por la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+
+SÉPTIMO.- Los procedimientos de transferencia de bienes que pasaron a propiedad del fisco federal que tenga a su cargo el Servicio de Administración Tributaria en su calidad de Auxiliar y se encuentren en trámite a la entrada en vigor de la presente Ley, se realizarán por parte de dicho órgano administrativo desconcentrado en su calidad de entidad transferente en términos de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público.
+
+OCTAVO.- Las referencias realizadas en leyes, reglamentos o en cualquier otra disposición jurídica a la Ley del Servicio de Tesorería de la Federación que se abroga se entenderán hechas a la presente Ley.
+
+NOVENO.- La Tesorería de la Federación podrá disponer y transferir al Servicio de Administración y Enajenación de Bienes, dentro de los doce meses siguientes a la entrada en vigor de esta Ley, los bienes respecto de los cuales no se puede determinar la fecha de adjudicación o de la que legalmente pueda disponer la Tesorería de la Federación que recibió por cualquier título con anterioridad a la entrada en vigor de esta Ley y que por su naturaleza sean susceptibles de transferirse. Este plazo constituye una excepción a lo señalado en el artículo 6 ter de la Ley Federal para la Administración y Enajenación de Bienes del Sector Público.
+
+DÉCIMO.- Para efectos de esta Ley, la Procuraduría General de la República se entenderá comprendida en el concepto de Dependencia a que se refiere el artículo 2 de la misma, hasta en tanto entren en vigor las disposiciones constitucionales relativas a la Fiscalía General de la República a que se refiere el Transitorio Décimo Sexto del “Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia política-electoral”, publicado en el Diario Oficial de la Federación el 10 de febrero de 2014.
+
+DÉCIMO PRIMERO.- Cuando en otras leyes, reglamentos, disposiciones de carácter general o cualquier otro instrumento normativo se haga referencia a los “servicios de tesorería”, se entenderá hecha a las “Funciones de tesorería” reguladas en la presente Ley, siempre y cuando dicha mención no se oponga a lo dispuesto en la misma.
