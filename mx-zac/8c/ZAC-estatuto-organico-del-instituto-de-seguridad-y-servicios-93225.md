@@ -4,7 +4,7 @@ identifier: "ZAC-estatuto-organico-del-instituto-de-seguridad-y-servicios-93225"
 country: "mx"
 rank: "estatuto"
 publication_date: "2013-02-06"
-last_updated: "2013-02-06"
+last_updated: "2015-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93225&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ZAC"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE ZACATECAS, PUBLICADO EN EL P.O. DE 30 DE SEPTIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2015 (ABROGADO).
 
 Estatuto publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 6 de febrero de 2013.
 
@@ -279,7 +281,7 @@ IV. Un representante de la Sección 58 del Sindicato Nacional de Trabajadores de
 
 V. Un representante del Sindicato Independiente de Trabajadores de Telesecundaria en el Estado de Zacatecas; y
 
-VI. El Director General; (sic)
+VI. El Director General;
 
 El Presidente de la Comisión de Vigilancia, tendrá voto de calidad en caso de empate.
 
@@ -1014,3 +1016,19 @@ Tercero.- Los asuntos que se encuentren en trámite a cargo de otras áreas admi
 Cuarto.- Dentro del término de 30 días naturales, contados a partir de la entrada en vigor del presente Reglamento Interior, deberá expedirse el Manual de Organización, y 180 días naturales el Manual de Procedimientos y publicarse en el Periódico Oficial, Órgano del Gobierno del Estado.
 
 APROBADO POR LA JUNTA DIRECTIVA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE ZACATECAS, EN SESIÓN ORDINARIA NÚMERO 3356/262/2012, CELEBRADA EN LA CIUDAD DE GUADALUPE, ZACATECAS, A LOS 20 DÍAS DEL MES DE DICIEMBRE DEL 2012.- RÚBRICAS.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 30 DE SEPTIEMBRE DE 2015.
+
+Primero.- El presente Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+Segundo.- Se abroga el Estatuto Orgánico del ISSSTEZAC, publicado en el suplemento 3 al número 11 del Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas, correspondiente al día 06 de febrero del 2013.
+
+Tercero.- Los asuntos que se encuentren en trámite a cargo de otras áreas administrativas, que se modifiquen o cambien de adscripción, los resolverá la unidad administrativa que el presente Estatuto Orgánico establezca.
+
+Cuarto.- Dentro del término de 90 días naturales, contados a partir de la entrada en vigor del presente Reglamento Interior, deberá expedirse el Manual de Organización y 180 días naturales el Manual de Procedimientos y publicarlos en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas.
+
+Quinto.- La Comisión de Vigilancia y los Comités de Apoyo presentarán a la Junta Directivas (sic) el anteproyecto de su propio Reglamento mediante el Director General.
+
+Sexto.- El presente Estatuto Orgánico del ISSSTEZAC considera en su redacción un lenguaje incluyente de Género.
