@@ -4,7 +4,7 @@ identifier: "TLA-ley-organica-de-la-administracion-publica-del-estado-de-12108"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1998-04-07"
-last_updated: "2014-12-24"
+last_updated: "2015-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12108&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el martes 7 de abril de 1998.
 
@@ -104,6 +104,10 @@ El Gobernador del Estado de Tlaxcala podrá crear y suprimir comités, patronato
 ###### ARTICULO 8°.
 
 Las Dependencias y Entidades de la Administración Pública Estatal conducirán sus actividades en forma programática y con arreglo a las políticas, prioridades, métodos, objetivos y metas de los planes de gobierno que establezca el Gobernador del Estado directamente o a través de las Dependencias competentes. Se establecerán los mecanismos y sistemas de planeación, programación, organización, presupuesto, contabilidad, evaluación, información, auditoría interna y control de gestión correspondientes.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+Asimismo, los titulares de las Dependencias y Entidades de la Administración Pública Estatal son responsables de la planeación, programación, registro, comprobación, control y ejercicio del presupuesto de los programas a su cargo, así como de la presentación de informes, supervisión y evaluación del cumplimiento de metas y gasto, trámite de prórrogas y cierre de programas, de los recursos estatales y federales que se encuentren a su cargo, conforme a las disposiciones jurídicas aplicables.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE JULIO DE 2013)</small>
 
@@ -513,7 +517,9 @@ a).- Preparar los proyectos de presupuesto anual de Egresos del Poder Ejecutivo 
 
 b).- Registrar el ejercicio del presupuesto de egresos, vigilar que no se excedan las partidas autorizadas, efectuar los pagos de acuerdo a los programas, partidas de gasto y transferencias autorizadas a cada una de las Dependencias del Gobierno del Estado y Organismos Paraestatales.
 
-c).- Elaborar y pagar las nóminas de cada una de las Dependencias del Poder Ejecutivo del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+c).- Pagar las nóminas de cada una de las Dependencias del Poder Ejecutivo del Gobierno del Estado, a petición de la Oficialía Mayor de Gobierno.
 
 III.- EN MATERIA DE CONTROL Y VIGILANCIA:
 
@@ -771,7 +777,9 @@ VII.- Desarrollar programas para la enseñanza y práctica del deporte en el Est
 
 VIII.- Organizar los programas de trabajo social y coordinarse con las diversas dependencias tanto estatales como federales, para la ejecución de los mismos.
 
-IX.- Controlar el escalafón del Magisterio del Gobierno del Estado; y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+IX.- Elaborar la nómina de los trabajadores adscritos a la misma y someterla a validación de la Oficialía Mayor de Gobierno para la autorización de pago correspondiente, y controlar el escalafón del Magisterio del Gobierno del Estado; y
 
 X.- Las demás que señalen las Leyes.
 
@@ -997,7 +1005,9 @@ VIII. Compilar y publicar la legislación vigente en el Estado, en coordinación
 
 IX. Dirigir y publicar el Periódico Oficial;
 
-X. Llevar el control administrativo de los servidores públicos del Estado;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+X. Llevar el control administrativo de los servidores públicos del Estado, así como autorizar las plantillas de personal, tabuladores de sueldos, elaboración y autorización de pago de la nómina de los trabajadores al servicio del Poder Ejecutivo, a excepción de aquellos adscritos a la Secretaría de Educación Pública, respecto de los cuales únicamente validará la nómina y autorizará su pago;
 
 XI. Organizar y vigilar el ejercicio de las funciones del Registro Civil;
 
@@ -1438,3 +1448,15 @@ Para efectos del nombramiento del tesorero y del director de Obras Públicas, el
 ###### ARTÍCULO TERCERO.
 
 Se derogan todas aquellas disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO No. 194.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL CÓDIGO FINANCIERO PARA EL ESTADO DE TLAXCALA Y SUS MUNICIPIOS Y DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día hábil siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido de este Decreto.
