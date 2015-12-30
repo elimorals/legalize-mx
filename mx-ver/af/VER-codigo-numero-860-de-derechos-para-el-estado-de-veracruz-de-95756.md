@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-860-de-derechos-para-el-estado-de-veracruz-de-957
 country: "mx"
 rank: "codigo"
 publication_date: "2013-07-31"
-last_updated: "2014-12-30"
+last_updated: "2015-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95756&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO NÚMERO 860 DE DERECHOS PARA EL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 30 DE DICIEMBRE DE 2015.
 
 Código publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 31 de julio de 2013.
 
@@ -3093,59 +3093,21 @@ XVI. Curso especial de preparación para examen de ingreso a institución de edu
 
 XVII. Curso especial de preparación para examen de ingreso a institución de educación superior (foráneos): 13.0 salarios mínimos
 
-XVIII. Primer semestre:
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-a) Trámite de expedición de cédula de inscripción: 0.9 salarios mínimos
+XVIII. Trámite de inscripción al primer semestres: 7.1 salarios mínimos
 
-b) Trámite de expedición de credencial: 0.5 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-c) Trámite de expedición de reglamento escolar: 0.2 salarios mínimos
+XIX. Trámite de inscripción del segundo al sexto semestre: 6.5 salarios mínimos
 
-d) Trámite de expedición de constancia de cumplimiento de requisitos para presentar exámenes: 0.7 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-e) Otros servicios institucionales: 3.7 salarios mínimos
+XX. Trámites relativos a la unidad de nivelación académica en horario discontinuo (UNA):
 
-f) Servicios administrativos diversos: 0.4 salarios mínimos
+A. Trámite de inscripción al primer semestre unidad de nivelación académica en horario discontinuo (UNA): 5.5 salarios mínimos
 
-XIX. Segundo a sexto semestre:
-
-a) Trámite de expedición de cédula de inscripción: 0.9 salarios mínimos
-
-b) Trámite de resello de credencial: 0.4 salarios mínimos
-
-c) Trámite de expedición de constancia de cumplimiento de requisitos para presentar exámenes: 0.7 salarios mínimos
-
-d) Otros servicios institucionales: 3.7 salarios mínimos
-
-e) Servicios administrativos diversos: 0.4 salarios mínimos
-
-XX. Trámites relativos a la Unidad de Nivelación Académica en Horario Discontinuo (UNA):
-
-A. Primer semestre:
-
-1. Trámite de expedición de cédula de inscripción UNA: 0.9 salarios mínimos
-
-2. Trámite de expedición de credencial: 0.5 salarios mínimos
-
-3. Otros servicios institucionales: 1.6 salarios mínimos
-
-4. Trámite de expedición de reglamento escolar: 0.2 salarios mínimos
-
-5. Trámite de expedición de constancia de cumplimiento de requisitos para presentar exámenes: 0.7 salarios mínimos
-
-6. Servicios administrativos diversos: 0.4 salarios mínimos
-
-B. Segundo a sexto semestre
-
-1. Trámite de expedición de cédula de inscripción UNA: 0.9 salarios mínimos
-
-2. Trámite de expedición de credencial: 0.4 salarios mínimos
-
-3. Otros servicios institucionales: 1.6 salarios mínimos
-
-4. Trámite de expedición de constancia de cumplimiento de requisitos para presentar exámenes: 0.7 salarios mínimos
-
-5. Servicios administrativos diversos: 0.4 salarios mínimos
+B. Trámite de inscripción del segundo al sexto semestre unidad de nivelación académica en horario discontinuo (UNA): 4.0 salarios mínimos
 
 > <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
@@ -3657,17 +3619,17 @@ b) Servicio de interés social de
 
 saneamiento: 20.5 salarios mínimos
 
-> <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 28.
 
 Por los servicios prestados por el Instituto de Capacitación para el Trabajo del Estado de Veracruz:
 
-I. Trámite de expedición de documentos: 0.57 salarios mínimos
+I. Trámite de expedición de documentos: 0.55 salarios mínimos
 
-II. Examen (reconocimiento oficial en competencia ocupacional): 16.29 salarios mínimos
+II. Exámenes (reconocimiento oficial en competencia ocupacional): 15.68 salarios mínimos
 
-III. Cursos regulares: 7.82 salarios mínimos
+III. Cursos regulares: 7.53 salarios mínimos
 
 > <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
@@ -4193,73 +4155,123 @@ XXXVI. Trámite de expedición de kárdex: 1 salario mínimo
 
 XXXVII. Trámite de reposición de carga académica: 0.8 salarios mínimos
 
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXXVIII. Trámite de expedición de cédula de inscripción a curso de titulación: 32.6 salarios mínimos
+
 > <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 36.
 
 Por los servicios prestados por el Instituto Tecnológico Superior de Alvarado:
 
-I. Trámite de expedición de constancia de cumplimiento de requisitos para ficha de examen de admisión: 13 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-II. Trámite de expedición de cédula de inscripción escolarizado (incluye credencial sin costo): 21.2 salarios mínimos
+I. Trámite de expedición de constancia de cumplimiento de requisitos para ficha de examen de admisión: 12 salarios mínimos
 
-III. Trámite de expedición de cédula de inscripción semiescolarizado (incluye credencial sin costo): 29.3 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-IV. Trámite de expedición de cédula de reinscripción escolarizado: 21.2 salarios mínimos
+II. Trámite de expedición de cédula de inscripción escolarizado (incluye credencial sin costo): 19 salarios mínimos
 
-V. Trámite de expedición de cédula de reinscripción semiescolarizado: 29.3 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-VI. Trámite de expedición de cédula de reinscripción extemporánea escolarizado: 39.1 salarios mínimos
+III. Trámite de expedición de cédula de inscripción semiescolarizado (incluye credencial sin costo): 27 salarios mínimos
 
-VII. Trámite de expedición de cédula de reinscripción extemporánea semiescolarizado: 52.1 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+IV. Trámite de expedición de cédula de reinscripción escolarizado: 19 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+V. Trámite de expedición de cédula de reinscripción semiescolarizado: 27 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+VI. Trámite de expedición de cédula de reinscripción extemporánea escolarizado: 37 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+VII. Trámite de expedición de cédula de reinscripción extemporánea semiescolarizado: 49 salarios mínimos
 
 VIII. Trámite de expedición de cédula de baja temporal: 0.8 salarios mínimos
 
-IX. Trámite de expedición de cédula de baja definitiva: 3.3 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-X. Trámite de expedición reposición credencial estudiante: 1.6 salarios mínimos
+IX. Trámite de expedición de cédula de baja definitiva: 3 salarios mínimos
 
-XI. Trámite (sic) expedición de duplicado de documentos: 1.2 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XII. Trámite de expedición de constancia de estudios con y sin calificaciones: 1.2 salarios mínimos
+X. Trámite de expedición reposición credencial estudiante: 1 salarios mínimos (sic)
 
-XIII. Trámite de expedición de kárdex: 1.2 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XIV. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen global: 4.1 salarios mínimos
+XI. Trámite (sic) expedición de duplicado de documentos: 1 salarios mínimos (sic)
 
-XV. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen especial: 7.3 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XVI. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen extraordinario: 2.4 salarios mínimos
+XII. Trámite de expedición de constancia de estudios con y sin calificaciones: 1 salarios mínimos (sic)
 
-XVII. Trámite de expedición de cédula para curso de verano: 9.8 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XVIII. Trámite de expedición de cédula para curso de verano de intercambio: 13 salarios mínimos
+XIII. Trámite de expedición de Kárdex: 1 salario mínimo
 
-XIX. Trámite de expedición de constancia de liberación de inglés: 4.9 salarios mínimos
+XIV. (DEROGADA, G.O. 30 DE DICIEMBRE DE 2015)
 
-XX. Trámite de expedición de constancia de liberación residencia: 2.4 salarios mínimos
+XV. (DEROGADA, G.O. 30 DE DICIEMBRE DE 2015)
+
+XVI. (DEROGADA, G.O. 30 DE DICIEMBRE DE 2015)
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XVII. Trámite de expedición de cédula para curso de verano: 9 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XVIII. Trámite de expedición de cédula para curso de verano de intercambio: 12 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XIX. Trámite de expedición de constancia de liberación de inglés: 4 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XX. Trámite de expedición de constancia de liberación (sic) residencia: 2 salarios mínimos
 
 XXI. Trámite de expedición de constancia de acreditación idioma inglés: 9 salarios mínimos
 
-XXII. Trámite de expedición o duplicado de certificado de estudios completo: 14.7 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XXIII. Trámite de expedición o duplicado de certificado de estudios incompleto: 11.4 salarios mínimos
+XXII. Trámite de expedición o duplicado de certificado de estudios completo: 13 salarios mínimos
 
-XXIV. Trámite de expedición de carta pasante: 8.1 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XXV. Paquete de egresado: 81.5 salarios mínimos
+XXIII. Trámite de expedición o duplicado de certificado de estudios incompleto: 10 salarios mínimos
 
-XXVI. Trámite de expedición de constancia de no adeudo: 0.7 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXIV. Trámite de expedición de carta (sic) pasante: 6 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXV. Paquete de titulación: 75 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXVI. Trámite de expedición de constancia de no adeudo: 1 salarios mínimos (sic)
 
 XXVII. Trámite de expedición de cédula de inscripción a biblioteca virtual. (BIVITEC): 2.4 salarios mínimos
 
-XXVIII. Trámite de expedición de carnet biblioteca: 0.2 salarios mínimos
+XXVIII. (DEROGADA, G.O. 30 DE DICIEMBRE DE 2015)
 
 XXIX. Trámite de expedición de holograma para credencial de estudiante: 0.2 salarios mínimos
 
-XXX. Trámite de convalidación de estudio: 8.1 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XXXI. Trámite de expedición de constancia de equivalencia de estudio: 8.1 salarios mínimos
+XXX. Trámite de convalidación de estudio: 6 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXXI. Trámite de expedición de constancia de equivalencia de estudio: 7 salarios mínimos
 
 > <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
@@ -4267,43 +4279,125 @@ XXXI. Trámite de expedición de constancia de equivalencia de estudio: 8.1 sala
 
 Por los servicios prestados por el Instituto Tecnológico Superior de Chicontepec:
 
-I. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen de admisión: 8.1 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-II. Trámite de expedición de cédula de inscripción: 19.6 salarios mínimos
+I. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen de admisión: 7.58 salarios mínimos
 
-III. Trámite de expedición de cédula de reinscripción: 19.6 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-IV. Trámite de convalidación de estudios: 3.3 salarios mínimos
+II. Trámite de expedición de cédula de inscripción: 18.18 salarios mínimos
 
-V. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen especial: 1.6 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-VI. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen global: 1.6 salarios mínimos
+III. Trámite de expedición de cédula de reinscripción: 18.18 salarios mínimos
 
-VII. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen extraordinario: 0.5 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-VIII. Trámite de expedición de cédula para curso de verano: 8.1 salarios mínimos
+IV. Trámite de convalidación de estudios: 3.03 salarios mínimos
 
-IX. Trámite de expedición de cédula para curso de inglés por modulo: 6.5 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-X. Trámite de reposición de credencial: 0.8 salarios mínimos
+V. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen especial: 1.52 salarios mínimos
 
-XI. Trámite de duplicado de constancia de estudios: 0.4 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XII. Trámite de expedición de carta de pasante: 1.6 salarios mínimos
+VI. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen global: 1.52 salarios mínimos
 
-XIII. Trámite de legalización de certificado: 9.8 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XIV. Trámite de legalización de título: 9.8 salarios mínimos
+VII. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen extraordinario: 0.45 salarios mínimos
 
-XV. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen profesional: 16.3 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XVI. Trámite de expedición de título y cédula profesional: 27.7 salarios mínimos
+VIII. Trámite de expedición de cédula para curso de verano: 7.58 salarios mínimos
 
-XVII. Trámite de expedición de certificado de licenciatura: 16.3 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XVIII. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen general de inglés: 16.3 salarios mínimos
+IX. Trámite de expedición de cédula para curso de inglés por modulo: 6.06 salarios mínimos
 
-XIX. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen de nivelación de inglés: 4.9 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+X. Trámite de reposición de credencial: 0.76 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XI. Trámite de duplicado de constancia de estudios: 0.38 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XII. Trámite de expedición de carta de pasante: 1.52 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XIII. Trámite de legalización de certificado: 9.09 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XIV. Trámite de legalización de título: 9.09 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XV. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen profesional: 15.15 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XVI. Trámite de expedición de título y cédula profesional: 25.76 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XVII. Trámite de expedición de certificado de licenciatura: 15.15 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XVIII. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen general de inglés: 15.15 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XIX. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen de nivelación de inglés: 4.55 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XX. Trámite de expedición de duplicado de boleta de calificaciones: 0.38 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXI. Trámite de expedición de duplicado de constancia de estudios: 0.38 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXII. Trámite de expedición de cédula para curso de titulación: 22.73 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXIII. Trámite de expedición de autorización provisional para ejercer por estar el título en trámite: 7.58 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXIV. Trámite de reinscripción con descuento del 10% por acuerdo del comité académico: 16.36 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXV. Trámite de reinscripción con descuento del 20% por acuerdo del comité académico: 14.55 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXVI. Trámite de reinscripción con descuento del 33% por acuerdo del comité académico: 12.12 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXVII. Trámite de reinscripción con descuento del 50% por acuerdo del comité académico: 9.09 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXVIII. Trámite de ficha (sic) nuevo ingreso con descuento del 40% por acuerdo del comité académico: 4.55 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXIX. Trámite de inscripción con condonación del 100% por acuerdo del comité académico: 0 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXX. Trámite de reinscripción con condonación del 100% por acuerdo del comité académico: 0 salarios mínimos
 
 > <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
@@ -4457,85 +4551,195 @@ XXX. Trámite de expedición de cédula para curso de inglés tradicional: 11.4 
 
 Por los servicios prestados por el Instituto Tecnológico Superior de Huatusco:
 
-I. Trámite de expedición de cédula de registro de admisión flexible: 10.82 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-II. Trámite de expedición de cédula de registro de admisión escolarizado: 2.67 salarios mínimos
+I. Trámite de expedición (sic) ficha de admisión a distancia: 10.82 salarios mínimos
 
-III. Trámite de expedición de antología propedéutica: 0.81 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-IV. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen (aplicado por CENEVAL): 2.22 salarios mínimos
+II. Trámite de expedición (sic) ficha de admisión escolarizado: 3.13 salarios mínimos
 
-V. Trámite de expedición de cédula de inscripción flexible: 13.85 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-VI. Trámite de expedición de cédula de inscripción escolarizado: 6.92 salarios mínimos
+III. Trámite de expedición de antología propedéutica: 1.57 salarios mínimos
 
-VII. Trámite de expedición de cédula de reinscripción: 13.03 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-VIII. Trámite de expedición de cédula de reinscripción (beca mérito académico): 7.82 salarios mínimos
+IV. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen (aplicado por CENEVAL): 3.14 salarios mínimos
 
-IX. Trámite de expedición de cédula de reinscripción extemporánea: 14.66 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-X. Trámite de expedición de constancia de estudios: 0.41 salarios mínimos
+V. Trámite de expedición de cédula (sic) inscripción a distancia: 15.68 salarios mínimos
 
-XI. Trámite de expedición de constancia de estudios con calificaciones: 0.49 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XII. Trámite de expedición de constancia del 75% avance residencias profesionales: 0.49 salarios mínimos
+VI. Trámite de expedición de cédula de inscripción escolarizado: 7.84 salarios mínimos
 
-XIII. Trámite de expedición de kárdex: 0.49 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XIV. Trámite de expedición de constancia de cumplimiento de requisitos para presentar exámenes globales y especiales: 1.30 salarios mínimos
+VII. Trámite de expedición de cédula de reinscripción: 14.11 salarios mínimos
 
-XV. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen global de inglés: 4.07 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XVI. Trámite de expedición de constancia de no adeudo de material: 0.41 salarios mínimos
+VIII. Trámite de expedición de cédula de reinscripción (beca mérito académico): 7.84 salarios mínimos
 
-XVII. Trámite de expedición de constancia de liberación de residencia: 0.49 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XVIII. Trámite de expedición de constancia terminación de estudios: 0.81 salarios mínimos
+IX. Trámite de expedición de cédula de reinscripción extemporánea: 17.25 salarios mínimos
 
-XIX. Trámite de expedición de constancia de liberación de actividades extraescolares: 0.41 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XX. Trámite de expedición de constancia de liberación de servicio social: 0.49 salarios mínimos
+X. Trámite de expedición de constancia de estudios: 1.6 salarios mínimos
 
-XXI. Trámite de expedición de diploma de especialidad: 0.81 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XXII. Ceremonia de graduación: 1.63 salarios mínimos
+XI. Trámite de expedición de constancia de estudios con calificaciones: 1.6 salarios mínimos
 
-XXIII. Trámite de expedición de carta pasante: 1.96 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XXIV. Trámite de expedición de carta de buena conducta: 0.41 salarios mínimos
+XII. Trámite de expedición de cédula de constancia del 75% avance (sic) residencias profesionales: 1.6 salarios mínimos
 
-XXV. Trámite de expedición de certificado de estudios profesionales: 7.33 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XXVI. Trámite de legalización de certificado: 5.75 salarios mínimos
+XIII. Trámite de expedición de kárdex: 1.6 salarios mínimos
 
-XXVII. Acto protocolario: 8.15 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XXVIII. Trámite de expedición de acta de exención de examen profesional: 0.81 salarios mínimos
+XIV. Trámite de expedición de constancia de cumplimiento de requisitos para presentar exámenes globales y especiales: 2.35 salarios mínimos
 
-XXIX. Trámite de elaboración de título profesional: 11.40 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XXX. Trámite de validación de título profesional: 11.40 salarios mínimos
+XV. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen global de inglés: 7.84 salarios mínimos
 
-XXXI. Trámite de legalización de título profesional: 7.33 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XVI. Trámite de expedición de constancia de no adeudo de material: 1.6 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XVII. Trámite de expedición de constancia de liberación de residencia: 1.6 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XVIII. Trámite de expedición de constancia (sic) terminación de estudios: 1.6 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XIX. Trámite de expedición de constancia de liberación de actividades extraescolares: 1.6 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XX. Trámite de expedición de constancia de liberación de servicio social: 1.6 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXI. Trámite de expedición de diploma de especialidad: 1.6 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXII. Ceremonia de graduación: 2.35 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXIII. Trámite de expedición de carta (sic) pasante: 2.35 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXIV. Trámite de expedición de carta de buena conducta: 1.6 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXV. Trámite de expedición de certificado de estudios profesionales: 9.41 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXVI. Trámite de legalización de certificado: 7.84 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXVII. Acto protocolario: 9.41 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXVIII. Trámite de expedición de acta de exención de examen profesional: 1.6 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXIX. Trámite de elaboración de título profesional: 12.54 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXX. Trámite de validación de título profesional: 12.54 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXXI. Trámite de legalización de título profesional: 9.41 salarios mínimos
 
 XXXII. Trámite de registro de título y cédula profesional: 32.58 salarios mínimos
 
-XXXIII. Trámite de expedición de cédula de baja definitiva: 0.33 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XXXIV. Trámite de expedición de cédula de baja temporal: 0.33 salarios mínimos
+XXXIII. Trámite de expedición de cédula (sic) baja definitiva: 1.6 salarios mínimos
 
-XXXV. Trámite de expedición de cédula para curso de verano práctico: 8.96 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XXXVI. Trámite de expedición de cédula para curso de verano teórico: 8.15 salarios mínimos
+XXXIV. Trámite de expedición de cédula (sic) baja temporal: 1.6 salarios mínimos
 
-XXXVII. Trámite de expedición de cédula para curso de inglés: 4.07 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XXXVIII. Trámite de expedición de cédula para curso de titulación: 81.46 salarios mínimos
+XXXV. Trámite de expedición de cédula para curso de verano práctico: 9.41 salarios mínimos
 
-XXXIX. Trámite de expedición de duplicado de boleta: 0.33 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XL. Trámite de expedición de reposición de credencial: 0.81 salarios mínimos
+XXXVI. Trámite de expedición de cédula para curso de verano teórico: 9.41 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXXVII. Trámite de expedición de cédula para curso de inglés: 7.84 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXXVIII. Trámite de expedición de cédula para curso de titulación: 94.08 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXXIX. Trámite de expedición de duplicado de boleta: 1.6 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XL. Trámite de expedición de reposición de credencial: 1.6 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XLI. Trámite de expedición de cédula de reinscripción a distancia: 18.81 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XLII. Trámite de expedición de cédula de reinscripción extemporánea a distancia: 21.95 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XLIII. Trámite de expedición de cédula de reinscripción por traslado: 2.35 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XLIV. Trámite de expedición de cancelación y cambio de residencia profesional y servicio social: 2.35 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XLV. Trámite de expedición de duplicado de carga académica: 1.60 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XLVI. Trámite de expedición de constancia de convalidación de estudios: 7.84 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XLVII. Trámite de expedición de constancia de equivalencia de estudios: 7.84 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XLVIII. Trámite de expedición de cédula de reinscripción por convalidación: 18.81 salarios mínimos
 
 > <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
@@ -4703,43 +4907,83 @@ XXXIV. Trámite de expedición de cédula profesional provisional: 11.4 salarios
 
 XXXV. Trámite de legalización de título: 10.4 salarios mínimos
 
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXXVI. Trámite de expedición de cédula de curso de titulación: 43.94 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXXVII. Trámite de expedición de cédula de examen de liberación del idioma inglés: 9.8 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXXVIII. Trámite de expedición de cédula de participación a congresos de ingenierías: 11.72 salarios mínimos
+
 > <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 44.
 
 Por los servicios prestados por el Instituto Tecnológico Superior de Misantla:
 
-I. Trámite de expedición de constancia de cumplimiento de requisitos para el acta de examen profesional: 1.1 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-II. Acto protocolario: 9.8 salarios mínimos
+I. Trámite de expedición de acta de examen profesional: 1.1 salarios mínimos
 
-III. Trámite de expedición de carta de buena conducta: 1.6 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-IV. Trámite de expedición de carta de pasante: 4.9 salarios mínimos
+II. Acto protocolario: 9.41 salarios mínimos
 
-V. Trámite de expedición de certificado oficial (completo o incompleto): 13.8 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-VI. Trámite de expedición de constancia con calificaciones: 0.8 salarios mínimos
+III. Trámite de expedición de carta de buena conducta: 1.57 salarios mínimos
 
-VII. Trámite de expedición de constancia de estudios: 0.8 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-VIII. Trámite de expedición de constancia de no adeudo de material: 0.8 salarios mínimos
+IV. Trámite de expedición de carta de pasante: 4.7 salarios mínimos
 
-IX. Trámite de expedición de constancia de residencias profesionales: 0.8 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-X. Trámite de expedición de duplicado de constancia de servicio social: 0.8 salarios mínimos
+V. Trámite de expedición de certificado oficial (completo o incompleto): 13.33 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+VI. Trámite de expedición de constancia con calificaciones: 0.78 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+VII. Trámite de expedición de constancia de estudios: 0.78 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+VIII. Trámite de expedición de constancia de no adeudo de material: 0.78 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+IX. Trámite de expedición de constancia de residencias profesionales: 0.78 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+X. Trámite de expedición de duplicado de constancia de servicio social: 0.78 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
 XI. Trámite de expedición de cédula para curso de verano:
 
-a) Práctico: 13 salarios mínimos
+a) Práctico: 12.55 salarios mínimos
 
-b) Teórico: 10.6 salarios mínimos
+b) Teórico: 10.19 salarios mínimos
 
-XII. Trámite de expedición de cédula de solicitud para devolución de documentos: 0.8 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XIII. Trámite de expedición de duplicado de credencial: 1.6 salarios mínimos
+XII. Trámite de expedición de cédula de solicitud para devolución de documentos: 0.78 salarios mínimos
 
-XIV. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen de inglés: 9.8 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XIII. Trámite de expedición de duplicado de credencial: 1.57 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XIV. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen de inglés: 9.41 salarios mínimos
 
 XV. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen especial: 2.4 salarios mínimos
 
@@ -4749,65 +4993,131 @@ XVII. Trámite de expedición de constancia de cumplimiento de requisitos para p
 
 XVIII. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen global: 6.5 salarios mínimos
 
-XIX. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen profesional: 13 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XX. Trámite de expedición de constancia de cumplimiento de requisitos para ficha de examen de admisión: 17.9 salarios mínimos
+XIX. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen profesional: 12.55 salarios mínimos
 
-XXI. Trámite de expedición de constancia de cumplimiento de requisitos para ficha de examen de admisión extemporánea: 19.6 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XXII. Ceremonia de graduación: 6.5 salarios mínimos
+XX. Trámite de expedición de constancia de cumplimiento de requisitos para ficha de examen de admisión: 17.25 salarios mínimos
 
-XXIII. Trámite de expedición de cédula de inscripción primer semestre: 32.6 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XXIV. Trámite de expedición de cédula de reinscripción tercer semestre en adelante: 31 salarios mínimos
+XXI. Trámite de expedición de constancia de cumplimiento de requisitos para ficha de examen de admisión extemporánea: 18.82 salarios mínimos
 
-XXV. Trámite de expedición de cédula de inscripción y reinscripción (extemporáneo): 35.8 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XXVI. Trámite de expedición de cédula de reinscripción por traslado: 40.7 salarios mínimos
+XXII. Ceremonia de graduación: 6.27 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXIII. Trámite de expedición de cédula de inscripción primer semestre: 32.93 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXIV. Trámite de expedición de cédula de reinscripción tercer semestre en adelante: 31.36 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXV. Trámite de expedición de cédula de inscripción y reinscripción (extemporáneo): 39.20 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXVI. Trámite de expedición de cédula de reinscripción por traslado: 62.73 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
 XXVII. Servicios extraordinarios de centro de información:
 
-a) Por día/préstamo externo adicional: 0.2 salarios mínimos
+a) Por día/préstamo externo: 0.16 salarios mínimos
 
-b) Por día/préstamo interno adicional: 0.1 salarios mínimos
+b) Por hora/préstamo interno: 0.1 salarios mínimos
 
-XXVIII. Trámite de registro de tema de titulación: 3.3 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XXIX. Trámite de expedición de título profesional: 57 salarios mínimos
+XXVIII. Trámite de registro de tema de titulación: 3.14 salarios mínimos
 
-XXX. Trámite de expedición de duplicado de boleta: 1.6 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XXXI. Trámite de expedición de constancia de traslado: 4.9 salarios mínimos
+XXIX. Trámite de expedición de título profesional: 54.88 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXX. Trámite de expedición de duplicado de boleta: 1.57 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXXI. Trámite de expedición de constancia de traslado: 4.70 salarios mínimos
 
 XXXII. Trámite de expedición de cancelación y cambio de residencias profesional y servicio social: 4.1 salarios mínimos
 
-XXXIII. Trámite de expedición de duplicado de carga académica: 1.6 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XXXIV. Trámite de expedición de constancia de cumplimiento de requisitos para ficha de examen de admisión modalidad abierta: 19.6 salarios mínimos
+XXXIII. Trámite de expedición de duplicado de carga académica: 1.57 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXXIV. Trámite de expedición de constancia de cumplimiento de requisitos para ficha de examen de admisión modalidad abierta: 18.82 salarios mínimos
 
 XXXV. Trámite de expedición de constancia de cumplimiento de requisitos para ficha de examen de admisión modalidad abierta extemporánea: 21.2 salarios mínimos
 
-XXXVI. Trámite de expedición de cédula de inscripción primer semestre modalidad abierta: 39.1 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XXXVII. Trámite de expedición de cédula de reinscripción tercer semestre en adelante modalidad abierta: 37.5 salarios mínimos
+XXXVI. Trámite de expedición de cédula de inscripción primer semestre modalidad abierta: 39.99 salarios mínimos
 
-XXXVIII. Trámite de expedición de cédula de inscripción y reinscripción extemporánea modalidad abierta: 44 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXXVII. Trámite de expedición de cédula de reinscripción tercer semestre en adelante modalidad abierta: 38.42 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXXVIII. Trámite de expedición de cédula de inscripción y reinscripción extemporánea modalidad abierta: 47.04 salarios mínimos
 
 XXXIX. Servicio Internet inalámbrico por semestre: 4.1 salarios mínimos
 
-XL. Trámite de expedición de cédula para curso de inglés 80 horas: 13 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XLI. Trámite de expedición de cédula para curso de inglés 60 horas: 9.8 salarios mínimos
+XL. Trámite de expedición de cédula para curso de inglés 80 horas: 12.55 salarios mínimos
 
-XLII. Trámite de expedición de cédula de nivel de inglés 40 horas: 8.1 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XLIII. Trámite de expedición de constancia de convalidación de estudios: 8.1 salarios mínimos
+XLI. Trámite de expedición de cédula para curso de inglés 60 horas: 9.41 salarios mínimos
 
-XLIV. Trámite de expedición de constancia de equivalencia de estudios: 8.1 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XLII. Trámite de expedición de cédula de nivel de inglés 40 horas: 7.84 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XLIII. Trámite de expedición de constancia de convalidación de estudios: 7.84 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XLIV. Trámite de expedición de constancia de equivalencia de estudios: 7.84 salarios mínimos
 
 XLV. Trámite de expedición de cédula de reinscripción por convalidación: 40.7 salarios mínimos
 
 XLVI. Trámite de expedición de constancia de cumplimiento de requisitos para cambio de ficha: 4.1 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XLVII. Trámite de examen de segunda oportunidad: 1.57 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XLVIII. Trámite de expedición de certificado de estudios de maestría: 15.68 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XLIX. Trámite de título y cédula de maestría: 70.57 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+L. Tramite de expedición de acta de examen profesional de maestría: 1.57 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+LI. Trámite de examen profesional de Maestría: 15.68 salarios mínimos
 
 > <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
@@ -4883,6 +5193,14 @@ XXXIII. Trámite de expedición de cédula de inscripción y reinscripción saba
 
 XXXIV. Trámite de expedición de certificado completo: 4.89 salarios mínimos
 
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXXV. Trámite de expedición de solicitud de designación de sinodales para examen profesional: 14.14 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXXVI. Trámite de liberación por retraso en entrega de libros en la biblioteca escolar: 0.13 salarios mínimos
+
 > <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 46.
@@ -4907,7 +5225,9 @@ VIII. Trámite de expedición de constancia de estudios sin calificaciones: 0.7 
 
 IX. Trámite de expedición de constancia de estudios con calificaciones: 0.7 salarios mínimos
 
-X. Trámite de reposición de credencial: 0.8 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+X. Trámite de reposición de credencial: 1.09 salarios mínimos
 
 XI. Trámite de expedición de carta de buena conducta: 0.7 salarios mínimos
 
@@ -4915,7 +5235,9 @@ XII. Trámite de expedición de carta de pasante: 4.9 salarios mínimos
 
 XIII. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen profesional: 24.4 salarios mínimos
 
-XIV. Trámite de expedición de título y cédula profesional: 46 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XIV. Trámite de expedición de título profesional: 40.7 salarios mínimos
 
 XV. Trámite de expedición de constancia de residencias: 0.7 salarios mínimos
 
@@ -4930,6 +5252,26 @@ XIX. Trámite de expedición de cédula para ingresar al curso de inglés: 15.5 
 XX. Trámite de expedición del certificado de estudios legalizado: 16.3 salarios mínimos
 
 XXI. Trámite de expedición de copia de arancel de pago: 0.7 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXII. Trámite de expedición de cédula profesional: 7.8 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXIII. Trámite de expedición de cédula de inscripción con beca institucional 10%: 23.5 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXIV. Trámite de expedición de cédula de inscripción con beca institucional 20%: 18.8 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXV. Trámite de expedición de cédula de inscripción con beca institucional 30%: 16.4 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXVI. Trámite de expedición de cédula de inscripción con beca institucional 50%: 11.7 salarios mínimos
 
 > <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
@@ -4987,23 +5329,35 @@ XXII. Trámite de expedición de cédula para el módulo de inglés: 4.89 salari
 
 Por los servicios prestados por el Instituto Tecnológico Superior de Poza Rica:
 
-I. Acto protocolario: 6.95 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+I. Acto protocolario: 6.96 salarios mínimos
 
 II. Trámite de expedición de carta de pasante: 4.63 salarios mínimos
 
 III. Trámite de expedición del certificado completo: 16.99 salarios mínimos
 
-IV. Trámite de expedición del certificado incompleto: 12.35 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+IV. Trámite de expedición del certificado incompleto: 12.36 salarios mínimos
 
 V. Trámite de expedición de cédula para ingresar al curso propedéutico: 23.16 salarios mínimos
 
-VI. Trámite de expedición del duplicado de boleta: 0.56 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-VII. Trámite de expedición del duplicado de carta de buena conducta: 0.56 salarios mínimos
+VI. Trámite de expedición del duplicado de boleta: 0.54 salarios mínimos
 
-VIII. Trámite de expedición del duplicado de constancia: 0.56 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-IX. Trámite de expedición del duplicado de credencial: 0.85 salarios mínimos
+VII. Trámite de expedición del duplicado de carta de buena conducta: 0.54 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+VIII. Trámite de expedición del duplicado de constancia: 0.54 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+IX. Trámite de expedición del duplicado de credencial: 0.84 salarios mínimos
 
 X. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen profesional: 12.66 salarios mínimos
 
@@ -5015,25 +5369,35 @@ XIII. Trámite de expedición de título y cédula profesional: 50.96 salarios m
 
 XIV. Trámite de expedición de cédula de inscripción: 49.41 salarios mínimos
 
-XV. Trámite de legalización de certificado: 10.81 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XV. Trámite de legalización de certificado: 10.80 salarios mínimos
 
 XVI. Trámite de legalización de título: 10.73 salarios mínimos
 
-XVII. Trámite de registro de matrícula mensual en la maestría: 26.25 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XVIII. Trámite de expedición de cédula de reinscripción: 46.32 salarios mínimos
+XVII. Trámite de registro de matrícula mensual en maestría: 30.19 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XVIII. Trámite de expedición de cédula de reinscripción: 46.33 salarios mínimos
 
 XIX. Trámite de expedición de cédula de baja definitiva: 1.31 salarios mínimos
 
 XX. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen especial: 2.39 salarios mínimos
 
-XXI. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen de admisión: 20.07 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXI. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen de admisión: 20.08 salarios mínimos
 
 XXII. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen extraordinario: 1.51 salarios mínimos
 
 XXIII. Trámite de expedición de constancia de cumplimiento de requisitos para exentar examen profesional: 3.86 salarios mínimos
 
-XXIV. Trámite para la expedición de cédula provisional: 13.13 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXIV. Trámite de expedición de cédula provisional: 13.12 salarios mínimos
 
 XXV. Trámite de expedición de duplicado de acta de examen: 3.09 salarios mínimos
 
@@ -5041,11 +5405,21 @@ XXVI. Trámite de expedición de constancia de convalidación de estudios: 4.94 
 
 XXVII. Trámite de opinión técnica para la emisión de la constancia de equivalencia de estudios: 6.33 salarios mínimos
 
-XXVIII. Trámite de reposición de credencial de biblioteca: 0.93 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XXIX. Trámite de expedición de constancia de cumplimiento de requisitos para ficha de examen de admisión para extensión Coyutla: 9.26 salarios mínimos
+XXVIII. Trámite de reposición de credencial de biblioteca: 0.91 salarios mínimos
 
-XXX. Trámite de expedición de constancia de cumplimiento de requisitos para ficha de examen de admisión para extensión Tihuatlán: 9.26 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXIX. Trámite de expedición de constancia de cumplimiento de requisitos para ficha de examen de admisión para extensiones de Coyutla, Tihuatlán y Zozocolco de Hidalgo: 9.66 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXX. Trámite de expedición de constancia de inscripción para extensiones (sic) Coyutla y Zozocolco de Hidalgo: 23.78 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXXI. Trámite de expedición de constancia de reinscripción para extensiones de Coyutla y Zozocolco de Hidalgo: 22.29 salarios mínimos
 
 > <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
@@ -5315,7 +5689,9 @@ II. Trámite de expedición de cédula de baja temporal del alumno: 1.6 salarios
 
 III. Trámite de expedición de carta de pasante: 15.5 salarios mínimos
 
-IV. Trámite de expedición de cédula profesional: 19.6 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+IV. Trámite de expedición de cédula profesional: 23.14 salarios mínimos
 
 V. Trámite de expedición de certificado de estudios: 17.1 salarios mínimos
 
@@ -5385,35 +5761,71 @@ XXXV. Trámite de expedición de título: 61.1 salarios mínimos
 
 Por los servicios prestados por el Instituto Tecnológico Superior de Zongolica:
 
-I. Trámite de expedición de cédula de inscripción nuevo ingreso: 24.4 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-II. Trámite de expedición de cédula de reinscripción: 14.7 salarios mínimos
+I. Trámite de expedición de cédula de inscripción (sic) nuevo ingreso: 14.1 salarios mínimos
 
-III. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen especial (global): 1.6 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-IV. Trámite de expedición del duplicado de boleta: 0.4 salarios mínimos
+II. Trámite de expedición de cédula de reinscripción: 14.1 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+III. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen especial (global): 1.56 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+IV. Trámite de expedición del duplicado de boleta: 0.3 salarios mínimos
 
 V. Trámite de expedición del duplicado de constancia de estudios sin calificaciones: 0.5 salarios mínimos
 
 VI. Trámite de expedición del duplicado de la constancia de estudios con calificaciones: 0.5 salarios mínimos
 
-VII. Trámite de reposición de credencial: 0.7 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-VIII. Trámite de expedición del duplicado de carta de buena conducta: 0.4 salarios mínimos
+VII. Trámite de reposición de credencial: 0.6 salarios mínimos
 
-IX. Trámite de expedición de cédula para ingresar al curso de verano: 7.3 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+VIII. Trámite de expedición del duplicado de carta de buena conducta: 0.3 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+IX. Trámite de expedición de cédula para ingresar al curso de verano: 7.05 salarios mínimos
 
 X. Trámite de expedición de cédula de baja definitiva: 1.1 salarios mínimos
 
-XI. Paquete de egresados: 14.7 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XII. Acto protocolario de recepción profesional: 11.4 salarios mínimos
+XI. Paquete de egresados: 14.11 salarios mínimos
 
-XIII. Trámite de expedición de título y cédula profesional: 29.3 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XIV. Trámite de expedición del certificado completo o incompleto: 10.6 salarios mínimos
+XII. Acto protocolario de recepción profesional: 10.97 salarios mínimos
 
-XV. Trámite de expedición de la carta de pasante: 2.4 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XIII. Trámite de expedición de título y cédula profesional: 28.2 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XIV. Trámite de expedición del certificado completo o incompleto: 10.19 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XV. Trámite de expedición de la carta de pasante: 2.35 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XVI. Trámite de tarjeta de impresión: 0.22 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XVII. Trámite de fotocopiado: 0.16 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XVIII. Trámite de examen de titulación: 23.52 salarios mínimos
 
 > <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
@@ -5421,47 +5833,117 @@ XV. Trámite de expedición de la carta de pasante: 2.4 salarios mínimos
 
 Por los servicios prestados por la Universidad Politécnica de Huatusco:
 
-I. Trámite de expedición de constancia de cumplimiento de requisitos para ficha de examen de admisión: 4.9 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-II. Trámite de expedición de cédula de inscripción: 13 salarios mínimos
+I. Trámite de expedición de constancia de cumplimiento de requisitos para ficha de examen de admisión: 4 salarios mínimos
 
-III. Trámite de expedición de cédula de inscripción extemporánea: 15.5 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-IV. Trámite de expedición de cédula de reinscripción: 13 salarios mínimos
+II. Trámite de expedición de cédula de inscripción: 10.6 salarios mínimos
 
-V. Trámite de expedición de cédula de reinscripción extemporánea: 15.5 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-VI. Trámite de expedición del duplicado de boleta, credencial, constancia de estudios y kárdex: 1 salario mínimo
+III. Trámite de expedición de cédula de inscripción extemporánea: 12.5 salarios mínimos
 
-VII. Trámite de expedición de cédula de baja temporal: 4.1 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-VIII. Trámite de expedición de cédula de baja definitiva: 7.3 salarios mínimos
+IV. Trámite de expedición de cédula de reinscripción: 10.6 salarios mínimos
 
-IX. Trámite de expedición de cédula para ingresar al curso de regularización: 9.8 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-X. Trámite de expedición del certificado de estudios completo: 9.8 salarios mínimos
+V. Trámite de expedición de cédula de reinscripción extemporánea: 12.5 salarios mínimos
 
-XI. Trámite de expedición del certificado de estudios incompleto: 9.8 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XII. Trámite de expedición de título: 29.3 salarios mínimos
+VI. Trámite de expedición del duplicado de boleta, credencial, constancia de estudios y kárdex: 0.8 salario mínimo
 
-XIII. Trámite de expedición de cédula profesional: 25.7 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XIV. Trámite de expedición del duplicado del certificado de estudios: 9.8 salarios mínimos
+VII. Trámite de expedición de cédula de baja temporal: 3.3 salarios mínimos
 
-XV. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen general de egreso de licenciatura (EGEL): 19.6 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XVI. Trámite de expedición del duplicado del acta de exención de examen profesional: 6.5 salarios mínimos
+VIII. Trámite de expedición de cédula de baja definitiva: 6 salarios mínimos
 
-XVII. Trámite de expedición del duplicado de la constancia de liberación del servicio social: 6.5 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XVIII. Trámite de expedición de la constancia de competencia por ciclo de formación: 9.8 salarios mínimos
+IX. Trámite de expedición de cédula para ingresar al curso de regularización: 7.9 salarios mínimos
 
-XIX. Trámite de expedición de copia certificada de documento oficial: 2.6 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XX. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen global: 5.7 salarios mínimos
+X. Trámite de expedición del certificado de estudios completo: 7.9 salarios mínimos
 
-XXI. Trámite de expedición de la constancia de exención de examen profesional: 6.5 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XI. Trámite de expedición del certificado de estudios incompleto: 7.9 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XII. Trámite de expedición de título: 23.7 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XIII. Trámite de expedición de cédula profesional: 20.8 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XIV. Trámite de expedición del duplicado del certificado de estudios: 7.9 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XV. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen general de egreso de licenciatura (EGEL): 15.8 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XVI. Trámite de expedición del duplicado del acta de exención de examen profesional: 5.3 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XVII. Trámite de expedición del duplicado de la constancia de liberación del servicio social: 5.3 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XVIII. Trámite de expedición de la constancia de competencia por ciclo de formación: 7.9 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XIX. Trámite de expedición de copia certificada de documento oficial: 2.2 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XX. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen global: 4.7 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXI. Trámite de expedición de la constancia de exención de examen profesional: 5.3 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXII. Expedición de duplicado de holograma: 0.2 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXIII. Trámite de reinscripción con beca institucional del 25 por ciento: 7.9 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXIV. Trámite de reinscripción con beca institucional del 50 por ciento: 5.3 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXV. Trámite de reinscripción con beca institucional del 80 por ciento: 2.2 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXVI. Trámite de reinscripción extemporánea con beca institucional del 25 por ciento: 9.9 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXVII. Trámite de reinscripción extemporánea con beca institucional del 50 por ciento: 7.3 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXVIII. Trámite de reinscripción extemporánea con beca institucional del 80 por ciento: 4.1 salarios mínimos
 
 > <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
@@ -5509,17 +5991,25 @@ XVII. Trámite de expedición de certificados para Microsoft (usuario externo): 
 
 Por los servicios prestados por la Universidad Tecnológica del Centro de Veracruz:
 
-I. Trámite de expedición de cédulas para admisiones TSU: 6.52 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-II. Trámite de expedición de cédula de inscripciones TSU: 3.26 salarios mínimos
+I. Trámite de admisiones TSU: 5.25 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+II. Trámite de expedición de cédula de inscripciones TSU: 2.62 salarios mínimos
 
 III. Trámite de expedición de cédula para cursar cuatrimestre de TSU: 19.55 salarios mínimos
 
-IV. Trámite de expedición de constancias: 0.73 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+IV. Trámite de expedición de constancias: 0.59 salarios mínimos
 
 V. Trámite de expedición de duplicado de documentos: 0.8 salarios mínimos
 
-VI. Protocolo de titulación TSU: 50.51 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+VI. Trámite de protocolo de Titulación TSU: 40.69 salarios mínimos
 
 VII. Trámite de expedición de constancia de cumplimiento de requisitos para presentar CENEVAL EXANI: 4.07 salarios mínimos
 
@@ -5529,17 +6019,23 @@ IX. Trámite para el cotejo de sellos: 7.3 salarios mínimos
 
 X. Trámite de expedición de copia digitalizada, planes y programas de estudio: 8.1 salarios mínimos
 
-XI. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen a título de suficiencia: 2.85 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XI. Trámite para presentar examen a título de suficiencia: 2.30 salarios mínimos
 
 XII. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen EGETSU: 11.7 salarios mínimos
 
 XIII. Trámite de expedición de certificados incompletos: 3.3 salarios mínimos
 
-XIV. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen extraordinario: 1.63 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XIV. Trámite para presentar examen extraordinario: 1.31 salarios mínimos
 
 XV. Trámite de expedición de duplicado de certificado: 7.3 salarios mínimos
 
-XVI. Trámite de reposición de gafete: 2.44 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XVI. Trámite de reposición de gafete: 1.97 salarios mínimos
 
 XVII. Trámite de expedición de cédula de admisión ingeniería: 7.3 salarios mínimos
 
@@ -5553,7 +6049,21 @@ XXI. Trámite de expedición de constancia de cumplimiento de requisitos para pr
 
 XXII. Trámite de expedición de constancia de la inscripción en ingeniería: 13.03 salarios mínimos
 
-XXIII. Trámites administrativos para la titulación por ingeniería: 60.28 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXIII. Trámites administrativos para la titulación por ingeniería: 48.56 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXIV. Trámite de reinscripciones TSU: 2.62 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXV. Trámite de inscripción en ingeniería: 10.50 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXVI. Trámite de reinscripción en ingeniería: 2.62 salarios mínimos
 
 > <small>(REFORMADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
@@ -5989,43 +6499,155 @@ Remoto de Radio Análoga: 711 salarios mínimos
 
 Por los servicios prestados por el Instituto Tecnológico Superior de Jesús Carranza:
 
-I. Trámite de expedición de constancia de cumplimiento de requisitos para el examen de admisión: 16.1 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-II. Trámite de expedición de cédula de inscripción: 16.1 salarios mínimos
+I. Trámite de expedición de constancia de cumplimiento de requisitos para el examen de admisión: 18.5 salarios mínimos
 
-III. Trámite de expedición de cédula de reinscripción: 15.2 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-IV. Trámite de expedición de credencial institucional: 1.3 salarios mínimos
+II. Trámite de expedición de cédula de inscripción: 18.5 salarios mínimos
 
-V. Trámite de expedición de credencial biblioteca: 0.5 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-VI. Trámite de expedición de duplicado de constancia sin calificaciones: 0.9 salarios mínimos
+III. Trámite de expedición de cédula de reinscripción: 18.5 salarios mínimos
 
-VII. Trámite de expedición de duplicado de constancia con calificaciones: 1.1 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-VIII. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen extraordinario: 1.8 salarios mínimos
+IV. Trámite de expedición de credencial institucional: 1.48 salarios mínimos
 
-IX. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen global: 3.6 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-X. Trámite de expedición de constancia de cumplimiento de requisitos para presentar examen especial: 3.6 salarios mínimos
+V. Trámite de expedición de credencial (sic) biblioteca: 0.5 salarios mínimos
 
-XI. Trámite de expedición de cédula para curso de verano: 15.2 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XII. Trámite de expedición de cédula para curso de inglés semestral: 8.1 salarios mínimos
+VI. Trámite de expedición de duplicado de constancia sin calificaciones: 1.03 salarios mínimos
 
-XIII. Trámite de expedición de certificado legalizado completo: 8.6 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XIV. Trámite de expedición de certificado legalizado incompleto: 8.6 salarios mínimos
+VII. Trámite de expedición de duplicado de constancia con calificaciones: 1.27 salarios mínimos
 
-XV. Paquete de titulación: 44 salarios mínimos
+VIII. (DEROGADA, G.O. 30 DE DICIEMBRE DE 2015)
 
-XVI. Acto protocolario: 11.4 salarios mínimos
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XVII. Paquete de egresados: 19.6 salarios mínimos
+IX. Trámite de expedición de constancia de cumplimiento de Curso global: 18.5 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+X. Trámite de expedición de constancia de cumplimiento de Curso especial: 23.52 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XI. Trámite de expedición de cédula para curso de verano: 18.5 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XII. Trámite de expedición de cédula para curso de inglés semestral: 9.3 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XIII. Trámite de expedición de certificado legalizado completo: 9.89 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XIV. Trámite de expedición de certificado legalizado incompleto: 9.89 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XV. Paquete de titulación: 59.58 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XVI. Acto protocolario: 13.1 salarios mínimos
+
+> <small>(REFORMADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XVII. Paquete de egresados: 22.53 salarios mínimos
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 30 DE DICIEMBRE DE 2015)</small>
 
 XVIII. Trámite de expedición de constancia de acreditación del idioma inglés: 2.4 salarios mínimos
 
+> <small>(REFORMADA [N. DE E. REPUBLICADA], G.O. 30 DE DICIEMBRE DE 2015)</small>
+
 XIX. Trámite de expedición de cédula de inscripción al 50%: 8.05 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XX. Trámite para presentación (sic) examen de Inglés: 9.31 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXI. Trámite (sic) expedición de duplicado (sic) boleta académica: 0.78 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXII. Trámite (sic) expedición duplicado de boleta act. extraescolar: 0.78 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXIII. Trámite de reposición de acta de examen profesional: 3.6 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXIV. Trámite de expedición de Kárdex: 0.78 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXV. Trámite de baja de alumno: 3.6 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXVI. Trámite de expedición de carta de buena conducta: 1.03 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXVII. Trámite de expedición de duplicado de constancia de servicio social: 1.03 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXVIII. Avance reticular 0.78 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXIX. Trámite de expedición de historial académico: 1.27 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXX. Trámite de cambio de carrera: 3.6 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXXI. Trámite de examen de segunda oportunidad: 2.19 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXXII. Trámite de expedición de duplicado de carta de pasante: 4.7 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXXIII. Trámite de convalidación de estudios: 2.82 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXXIV. Trámite de inscripción extemporánea: 21.59 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXXV. Trámite de reinscripción extemporánea: 21.59 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXXVI. Trámite de equivalencia de estudios: 7.84 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXXVII. Trámite de reposición de recibo de cobro: 0.78 salarios mínimos
+
+> <small>(ADICIONADA, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XXXVIII. Trámite de expedición de diploma de especialidad: 1.88 salarios mínimos
 
 > <small>(ADICIONADO, G.O. 16 DE DICIEMBRE DE 2013)</small>
 
@@ -6102,6 +6724,48 @@ i) Trámite de expedición de constancia simple: 2.69 salarios mínimos
 j) Trámite de expedición de constancia de no adeudo: 3.58 salarios mínimos
 
 k) Trámite para la expedición de título: 44.80 salarios mínimos
+
+> <small>(ADICIONADO, G.O. 30 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 59 Ter.
+
+Por los servicios prestados por la Academia Veracruzana de Lenguas Indígenas:
+
+I. Por la Certificación de Proficiencia Lingüística:
+
+a) Certificación de Proficiencia Lingüística General:
+
+i) Profesional/Laboral 17.12 salarios mínimos
+
+ii) Estudiantes 10.69 salarios mínimos
+
+b) Certificación de Proficiencia Lingüística con enfoque en Sector Salud:
+
+i) Profesional/Laboral 17.12 salarios mínimos
+
+ii) Estudiantes 10.69 salarios mínimos
+
+c) Certificación de Proficiencia Lingüística con enfoque en Desarrollo Social:
+
+i) Profesional/Laboral 17.12 salarios mínimos
+
+ii) Estudiantes 10.69 salarios mínimos
+
+II. Por la traducción a la Lengua Indígena por grado de complejidad por hoja:
+
+a) Muy fácil 3.42 salarios mínimos
+
+b) Fácil 6.34 salarios mínimos
+
+c) Elevado 6.34 salarios mínimos
+
+d) Muy elevado 7.75 salarios mínimos
+
+e) Complejo 11.78 salarios mínimos
+
+f) Muy complejo 12.21 salarios mínimos
+
+g) Altamente complejo 18.89 salarios mínimos
 
 ## Título Cuarto. De los Derechos por Servicios Prestados Por el Poder Judicial del Estado
 
@@ -6234,3 +6898,11 @@ G.O. 30 DE DICIEMBRE DE 2014.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan a este Decreto.
+
+G.O. 30 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 624 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO DE DERECHOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación.
