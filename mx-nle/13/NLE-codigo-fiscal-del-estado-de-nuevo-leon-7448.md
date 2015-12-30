@@ -4,7 +4,7 @@ identifier: "NLE-codigo-fiscal-del-estado-de-nuevo-leon-7448"
 country: "mx"
 rank: "codigo"
 publication_date: "1984-11-30"
-last_updated: "2012-12-31"
+last_updated: "2015-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CÓDIGO FISCAL DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 30 de noviembre de 1984.
 
@@ -549,6 +549,10 @@ X.- Las sociedades escindidas, por las contribuciones causadas en relación con 
 
 La responsabilidad solidaria comprenderá los accesorios, con excepción de las multas. Lo dispuesto en este párrafo no impide que los responsables solidarios puedan ser sancionados por actos u omisiones propios.
 
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+Para efectos del impuesto sobre nóminas a que se refiere la Ley de Hacienda del Estado, son responsables solidarios del pago de dicho impuesto quienes contraten o reciban la prestación del trabajo personal subordinado, no obstante que el pago de las remuneraciones se realice por conducto de terceros.
+
 ###### ARTICULO 28.
 
 Las personas morales, así como las personas físicas que deban presentar declaraciones periódicas, deberán solicitar si procediere, su inscripción en el Registro de Contribuyentes de la Secretaría de Finanzas y Tesorería General del Estado y dar, en su caso, los siguientes avisos:
@@ -895,6 +899,12 @@ V.- Cuando no resulte posible continuar o concluir el ejercicio de las facultade
 
 VI.- Si en el cierre del acta final de la visita no estuviere presente el visitado o su representante, se le dejará citatorio para que esté presente a una hora determinada del día siguiente, si no se presentare, el acta final se levantará ante quien estuviere presente en el lugar visitado; en ese momento cualquiera de los visitadores que haya intervenido en la visita, el visitado o la persona con quien se entiende la diligencia y los testigos firmarán el acta de la que se dejará copia al visitado. Si el visitado, la persona con quien se entendió la diligencia o los testigos no comparecen a firmar el acta, se niegan a firmarla, o el visitado o la persona con quien se entendió la diligencia se niega a aceptar copia del acta, dicha circunstancia se asentará en la propia acta sin que esto afecte la validez y valor probatorio de la misma.
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+VII.- Cuando de la revisión de las actas de visita y demás documentación vinculada a éstas, se observe que el procedimiento no se ajustó a las normas aplicables, que pudieran afectar la legalidad de la determinación del crédito fiscal, la autoridad podrá de oficio, por una sola vez, reponer el procedimiento, a partir de la violación formal cometida.
+
+Lo señalado en el párrafo anterior, será sin perjuicio de la responsabilidad en que pueda incurrir el servidor público que motivó la violación.
+
 > <small>(ADICIONADO, P.O. 27 DE DICIEMBRE DE 2002)</small>
 
 Concluida la visita en el domicilio fiscal, para iniciar otra a la misma persona, se requerirá nueva orden, inclusive cuando las facultades de comprobación sean para el mismo ejercicio y por las mismas contribuciones.
@@ -916,6 +926,16 @@ II.- Fallecimiento del contribuyente, hasta en tanto se designe al representante
 III.- Cuando el contribuyente cambie su domicilio fiscal sin haber presentado el aviso correspondiente, o cuando no se le localice en el que haya señalado.
 
 IV.- Interposición de algún medio de defensa contra los actos o actividades motivo de la revisión, dichos plazos se suspenderán desde la fecha en que se interponga el medio de defensa hasta que se dicte su resolución definitiva.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+V.- Cuando el contribuyente no atienda el requerimiento de datos, informes o documentos solicitados por las autoridades fiscales para verificar el cumplimiento de sus obligaciones fiscales, durante el periodo que transcurra entre el día del vencimiento del plazo otorgado en el requerimiento y hasta el día en que conteste o atienda el requerimiento, sin que la suspensión pueda exceder de seis meses. En el caso de dos o más solicitudes de información, se sumarán los distintos periodos de suspensión y en ningún caso el periodo de suspensión podrá exceder de un año.
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+VI.- Tratándose de la fracción VII del artículo anterior, el plazo se suspenderá a partir de que la autoridad informe al contribuyente la reposición del procedimiento.
+
+Dicha suspensión no podrá exceder de un plazo de dos meses contados a partir de que la autoridad notifique al contribuyente la reposición del procedimiento.
 
 Cuando las autoridades no concluyan la visita o revisión dentro de los plazos autorizados, las facultades de comprobación se entenderán concluidas a su vencimiento, quedando a salvo las facultades de las autoridades para determinar la situación fiscal del contribuyente o responsable solidario con base en la verificación realizada dentro del plazo autorizado.
 
@@ -1593,6 +1613,10 @@ Se impondrá sanción de tres meses a tres años de prisión, a quien:
 
 I.- Se atribuya como propias actividades ajenas ante el registro estatal de contribuyentes.
 
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+II.- Expida, adquiera o enajene comprobantes fiscales que amparen operaciones inexistentes, falsas o actos jurídicos simulados.
+
 No se formulará querella, si quien encontrándose en el supuesto anterior informa del hecho a la autoridad fiscal.
 
 ###### ARTICULO 105.
@@ -1827,13 +1851,11 @@ El interesado podrá optar por impugnar un acto a través del recurso de revocac
 
 (DEROGADO, P.O. 23 DE DICIEMBRE DE 2009)
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA EL CÓDIGO.</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 23 DE DICIEMBRE DE 2009)</small>
+###### ARTÍCULO 126.
 
-###### ARTICULO 126.
-
-Cuando el recurso de revocación se interponga porque el procedimiento administrativo de ejecución no se ajustó a la Ley, las violaciones cometidas antes del remate, sólo podrán hacerse valer ante la autoridad recaudadora hasta el momento de la publicación de la convocatoria de remate, y dentro de los diez días siguientes a la fecha de publicación de la citada convocatoria, salvo que se trate de actos de ejecución sobre bienes legalmente inembargables o de actos de imposible reparación material, casos en que el plazo para interponer el recurso se computará a partir del día hábil siguiente al en que surta efectos la notificación del requerimiento de pago o del día hábil siguiente al de la diligencia de embargo.
+Cuando el recurso de revocación se interponga porque el procedimiento administrativo de ejecución no se ajustó a la Ley, las violaciones cometidas antes del remate, sólo podrán hacerse valer ante la autoridad recaudadora hasta el momento de la publicación de la convocatoria de remate, y dentro de los diez días siguientes a la fecha de publicación de la citada convocatoria, salvo que se trate de actos de ejecución sobre dinero en efectivo, depósitos en cuenta abierta en instituciones de crédito, organizaciones auxiliares de crédito o sociedades cooperativas de ahorro y préstamo, así como de bienes legalmente inembargables o de actos de imposible reparación material, casos en que el plazo para interponer el recurso se computará a partir del día hábil siguiente al en que surta efectos la notificación del requerimiento de pago o del día hábil siguiente al de la diligencia de embargo.
 
 Si las violaciones tuvieren lugar con posterioridad a la mencionada convocatoria o se trate de venta de bienes fuera de subasta, el recurso se hará valer contra la resolución que finque el remate o la que autorice la venta fuera de subasta.
 
@@ -1983,11 +2005,11 @@ Tratándose de actos relativos al procedimiento administrativo de ejecución, el
 
 Si las notificaciones se refieren a requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales, se causarán los gastos de ejecución a cargo de quien incurrió en el incumplimiento.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-###### ARTICULO 137.
+###### ARTÍCULO 137.
 
-Cuando las personas a quienes se haya de notificar, omitan señalar domicilio en su primer escrito o hayan variado su domicilio fiscal para el caso de que lo hubieren manifestado ante la propia autoridad y no hubieren notificado esta situación o bien, cuando habiéndose efectuado la notificación a través de edictos, el notificado no compareciere, las notificaciones que deban efectuarse, aún las de carácter personal, se efectuarán por estrados a través de instructivo que deberá contener el texto íntegro de la resolución y que se fijará durante cinco días en un sitio abierto al público de las oficinas de la autoridad y del cual se dejará constancia en el expediente respectivo. En estos casos se tendrá como fecha de notificación la del sexto día, contado a partir del siguiente a aquél en que se hubiera fijado el documento.
+Cuando las personas a quienes se haya de notificar, omitan señalar domicilio en su primer escrito o hayan variado su domicilio fiscal para el caso de que lo hubieren manifestado ante la propia autoridad y no hubieren notificado esta situación, o bien se ignore su domicilio o el de su representante, desaparezca, se oponga a la diligencia de notificación, o cuando habiéndose efectuado la notificación a través de edictos, el notificado no compareciere, las notificaciones que deban efectuarse, aún las de carácter personal, se efectuarán por estrados a través de instructivo que deberá contener el texto íntegro del acto de autoridad que se pretenda notificar y que se fijará durante cinco días en un sitio abierto al público de las oficinas de la autoridad y del cual se dejará constancia en el expediente respectivo. En estos casos se tendrá como fecha de notificación la del sexto día, contado a partir del siguiente a aquél en que se hubiera fijado el documento.
 
 ###### ARTICULO 138.
 
@@ -3068,3 +3090,9 @@ P.O. 17 DE DICIEMBRE DE 2010.
 P.O. 31 DE DICIEMBRE DE 2012.
 
 Único.- El presente Decreto entrará en vigor el día 1° de enero del año 2013.
+
+P.O. 30 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 038. SE REFORMAN LOS ARTÍCULOS 126, PRIMER PÁRRAFO, Y 137, Y SE ADICIONA LOS ARTÍCULOS 27, CON UN TERCER PÁRRAFO, 48, CON UNA FRACCIÓN VII, 48 BIS, CON LAS FRACCIONES V Y VI Y 104, CON LA FRACCIÓN II; TODOS DEL CÓDIGO FISCAL DEL ESTADO".]
+
+Único.- El presente Decreto entrará en vigor el día 1° de enero del año 2016.
