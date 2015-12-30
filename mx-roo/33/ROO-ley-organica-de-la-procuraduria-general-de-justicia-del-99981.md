@@ -4,7 +4,7 @@ identifier: "ROO-ley-organica-de-la-procuraduria-general-de-justicia-del-99981"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-12-24"
-last_updated: "2015-11-11"
+last_updated: "2015-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99981&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Número 113 Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 24 de diciembre de 2013.
 
@@ -571,7 +571,9 @@ Para el ejercicio de sus funciones y atribuciones, las Subprocuradurías se deli
 
 I. La Subprocuraduría de la Zona Sur, con sede en la Ciudad de Chetumal, Quintana Roo y con jurisdicción territorial en los municipios de Othón P. Blanco y Bacalar;
 
-II. La Subprocuraduría de la Zona Norte, con sede en la Ciudad de Cancún, Quintana Roo y con jurisdicción territorial en los municipios de Benito Juárez, Isla Mujeres y Lázaro Cárdenas;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+II. La Subprocuraduría de la Zona Norte, con sede en la Ciudad de Cancún, Quintana Roo y con jurisdicción territorial en los municipios de Benito Juárez, Isla Mujeres, Lázaro Cárdenas y Puerto Morelos;
 
 III. La Subprocuraduría de la Zona Centro, con sede en la Ciudad de Felipe Carrillo Puerto, Quintana Roo y con jurisdicción territorial en los municipios de Felipe Carrillo Puerto y José María Morelos, y
 
@@ -3542,3 +3544,17 @@ P.O. 11 DE NOVIEMBRE DE 2015.
 PRIMERO. El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado de Quintana Roo.
 
 SEGUNDO. Para garantizar el cumplimiento del presente Decreto, el Titular del Poder Ejecutivo del Estado, por conducto de la Secretaría de Finanzas y Planeación del Estado, establecerá las partidas presupuestales pertinentes en el Presupuesto de Egresos del Estado, a efecto de que la Fiscalía Especializada en Materia de Delitos Electorales cuente con los recursos humanos, financieros y materiales que requiera para su efectiva operación.
+
+P.O. 30 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 377 POR EL QUE SE REFORMA El ARTÍCULO 6 DE LA LEY SOBRE LAS CARACTERÍSTICAS Y EL USO DEL ESCUDO DEL ESTADO DE QUINTANA ROO; SE REFORMA EL ARTÍCULO 11 DE LA LEY SOBRE LAS CARACTERÍSTICAS, DIFUSIÓN Y EJECUCIÓN DEL HIMNO A QUINTANA ROO; SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 75 DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUINTANA ROO; SE REFORMA LA FRACCIÓN II DEL ARTÍCULO 22 DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE QUINTANA ROO, Y SE REFORMA EL INCISO F) DEL ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 121 POR EL QUE LA HONORABLE XIV LEGISLATURA DEL ESTADO DE QUINTANA ROO EMITE LA DECLARATORIA DE INCORPORACIÓN DEL SISTEMA PROCESAL PENAL ACUSATORIO Y ORAL EN LOS ORDENAMIENTOS LEGALES DEL ESTADO LIBRE Y SOBERANO DE QUINTANA ROO, PUBLICADO EN El PERIÓDICO OFICIAL DEL ESTADO DE QUINTANA ROO DE FECHA 6 DE JUNIO DE 2014”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día 6 de enero del año 2016, previa su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. El uso de los escudos que se esgriman en los edificios públicos, escuelas o en otras instituciones, deberán ajustarse a la reforma del artículo 6 de la Ley Sobre las Características y el Uso del Escudo del Estado de Quintana Roo, establecida en el presente decreto. Se exceptúan los escudos esculpidos en edificios, monumentos y centros históricos que se encuentren ubicados en el Estado de Quintana Roo, que constituyan por su valor cultural o trascendencia social, parte invariable de la característica del pueblo quintanarroense, independientemente del material en que se obren.
+
+TERCERO. Los juicios iniciados en el Distrito Judicial de Cancún, con anterioridad a la entrada en vigor del presente decreto, serán concluidos en dicho Distrito Judicial.
+
+CUARTO. Remítase copia del presente Decreto a los poderes públicos de la Federación, de las Entidades Federativas y del Distrito Federal, así como a los demás poderes del Estado de Quintana Roo, para su conocimiento y efectos a que haya lugar.
+
+QUINTO. Remítase copia del presente Decreto a la Procuraduría General de Justicia, al Instituto de la Defensoría Pública del Estado, al Centro de Justicia Alternativa, a la Secretaría de Seguridad Pública y a los Honorables Ayuntamientos, todos del Estado de Quintana Roo, para los efectos correspondientes.
