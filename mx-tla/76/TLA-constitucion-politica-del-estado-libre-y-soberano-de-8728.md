@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "2015-11-06"
+last_updated: "2015-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2015.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -1025,19 +1025,29 @@ XV. Expedir leyes que regulen las relaciones de trabajo entre los poderes del Es
 
 XVI. Legislar a efecto de que el Estado y los municipios puedan contraer obligaciones o empréstitos en términos de las prescripciones generales previstas en el artículo 101 de la Constitución Política del Estado Libre y Soberano de Tlaxcala;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XVII. En materia de Fiscalización:
+XVII. En materia de fiscalización:
 
-a) Recibir bimestralmente las cuentas públicas que le remitan al Congreso los poderes Legislativo, Ejecutivo y Judicial y mensualmente los municipios y demás entes públicos;
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-b) Dictaminar anualmente las cuentas públicas de los poderes, municipios, organismos autónomos y demás entes públicos fiscalizables basándose en el informe que remita el Órgano de Fiscalización Superior. La dictaminación será a más tardar el treinta de octubre posterior al ejercicio fiscalizado;
+a) Recibir trimestralmente las cuentas públicas que le remitan al Congreso los poderes Legislativo, Ejecutivo y Judicial, los Organismos Autónomos, municipios y demás entes públicos y turnarla al Órgano de Fiscalización Superior;
+
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+b) Dictaminar anualmente las cuentas públicas de los poderes, municipios, organismos autónomos y demás entes públicos fiscalizables, basándose en el informe que remita el Órgano de Fiscalización Superior. La dictaminación deberá efectuarse a más tardar el treinta y uno de agosto posterior al ejercicio fiscalizado. En el año de elecciones para la renovación del Poder Ejecutivo, la fecha límite para la dictaminación del periodo enero-septiembre de ese año será el quince de diciembre, mientras que el trimestre restante octubre-diciembre se sujetará al periodo ordinario de presentación y dictaminación.
+
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
 c) Designar al titular del Órgano de Fiscalización Superior, por el voto de las dos terceras partes de los integrantes del Congreso, quien durará en su encargo por un periodo de siete años, sin posibilidad de ser reelecto y deberá contar con experiencia de cinco años en materia de control; auditoría financiera y de responsabilidades, podrá ser removido por causas graves que la ley señale, con la misma votación requerida para su nombramiento;
 
+> <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
+
 d) Expedir leyes en materia de contabilidad gubernamental que regirán la contabilidad pública y la presentación homogénea de información financiera, de ingresos y egresos, así como patrimonial, para los poderes del Estado, entidades, organismos autónomos y municipios, a fin de garantizar su armonización contable a nivel estatal, e
 
-e) Evaluar el desempeño del Órgano de Fiscalización Superior, para lo cual recibirá y sancionará el Programa Operativo Anual; así como un informe bimestral sobre la evolución de sus trabajos de fiscalización.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+e) Evaluar el desempeño del Órgano de Fiscalización Superior, para lo cual recibirá y sancionará el Programa Operativo Anual; así como un informe trimestral sobre la evolución de sus trabajos de fiscalización.
 
 XVIII. Aprobar o no los convenios que el Gobernador pretenda celebrar con los Estados circunvecinos, respecto de las cuestiones de límites y someter tales convenios a la ratificación del Congreso de la Unión;
 
@@ -1415,9 +1425,9 @@ VII. Rendir por escrito al Congreso del Estado, el informe sobre la situación g
 
 VIII. Presentar al Congreso a más tardar el día quince de noviembre de cada año, los proyectos de Ley de Ingresos y Presupuesto de Egresos que habrán de regir en el año siguiente;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-IX. Rendir al Congreso la cuenta pública en forma bimestral; esta cuenta deberá rendirse dentro de los primeros cinco días posteriores al período de que se trate, en los términos de la ley correspondiente;
+IX. Rendir al Congreso la cuenta pública en forma trimestral; esta cuenta deberá presentarse dentro de los treinta días naturales posteriores al período de que se trate, en los términos de la Ley correspondiente.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1721,11 +1731,11 @@ La administración, vigilancia y disciplina del Poder Judicial, estará a cargo 
 
 Los magistrados del Tribunal Superior de Justicia durarán en el cargo seis años y podrán ser ratificados, previa evaluación en términos de lo establecido por esta Constitución. Elegirán de entre ellos a un presidente que durará en su encargo dos años y podrá ser reelecto por una sola vez. Solo podrán ser removidos de sus cargos, por el Congreso del Estado por faltas u omisiones graves en el desempeño de sus funciones; por incapacidad física o mental; por sanción impuesta en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado, o por haber cumplido sesenta y cinco años.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 80.
 
-El Tribunal Superior de Justicia, funcionará en pleno y tendrá las facultades siguientes:
+El Tribunal Superior de Justicia, funcionando en pleno, tendrá las facultades siguientes:
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2001)</small>
 
@@ -1771,9 +1781,9 @@ X. Publicar en el boletín judicial del Estado, las disposiciones de observancia
 
 XI. Conceder licencias a sus magistrados para que puedan separarse de sus cargos hasta por seis meses, llamando al respectivo suplente, siempre y cuando no se trate de ocupar un cargo de elección popular; en todo caso, presentará la renuncia correspondiente con el carácter de irrevocable;
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-XII. Rendir la cuenta pública bimestralmente al Congreso del Estado dentro de los primeros cinco días posteriores al período de que se trate en términos de la ley de la materia, y
+XII. Rendir la cuenta pública trimestralmente al Congreso del Estado dentro de los treinta días naturales posteriores al periodo de que se trate en términos de la ley de la materia, y
 
 > <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -2189,11 +2199,11 @@ Los presupuestos de egresos serán aprobados por los ayuntamientos, con base en 
 
 Los recursos que integran la Hacienda Municipal serán ejercidos en forma directa por los Ayuntamientos, o por quien ellos autoricen, conforme a la Ley.
 
-> <small>(REFORMADO, P.O. 1 DE FEBRERO DE 1984)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 92.
 
-Los Ayuntamientos remitirán para su aprobación al Congreso, las cuentas del ejercicio anual por períodos mensuales, que se rendirán durante los primeros quince días de cada mes.
+. Los Ayuntamientos remitirán para su aprobación al Congreso, las cuentas del ejercicio anual por periodos trimestrales, que se rendirán durante los treinta días naturales posteriores al periodo de que se trate.
 
 > <small>(REFORMADO, P.O. 18 DE MAYO DE 2001)</small>
 
@@ -2547,7 +2557,9 @@ La Hacienda Pública ejercerá la facultad económico-coactiva para hacer efecti
 
 La revisión y fiscalización de las cuentas públicas estará a cargo de un órgano técnico del Congreso del Estado, denominado Órgano de Fiscalización Superior el cual, en el desempeño de sus funciones, tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones, así como para decidir sobre su organización interna, funcionamiento y resoluciones de conformidad con la ley. Su presupuesto será integrado al presupuesto general del Congreso.
 
-La función de fiscalización se desarrollará conforme a los principios de posterioridad, anualidad, legalidad, imparcialidad y confiabilidad. Son sujetos de fiscalización superior, los poderes del Estado, los municipios, entidades, organismos autónomos y en general cualquier persona pública o privada que haya recaudado, administrado, manejado o ejercido recursos públicos.
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+La función de fiscalización se desarrollará conforme a los principios de legalidad, imparcialidad y confiabilidad. Son sujetos de fiscalización superior, los poderes del Estado, los municipios, entidades, organismos autónomos y en general cualquier persona pública o privada que haya recaudado, administrado, manejado o ejercido recursos públicos.
 
 > <small>(REFORMADO, P.O. 1 DE AGOSTO DE 2008)</small>
 
@@ -3564,3 +3576,21 @@ Lo previsto en los artículos 2, 7 bis, 48 bis, 51 y 60 quater de la Ley Orgáni
 ###### ARTÍCULO SÉPTIMO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+En términos de lo dispuesto por el artículo 120 de la Constitución Política del Estado Libre y Soberano de Tlaxcala, remítase el presente Decreto a los sesenta Ayuntamientos del Estado, para los efectos señalados en dicho precepto.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Gobierno del Estado de Tlaxcala y entrará en vigor el día siguiente al de su publicación.
+
+###### ARTÍCULO TERCERO.
+
+El Congreso del Estado deberá de armonizar en virtud del contenido de la presente reforma, la Ley de Fiscalización Superior para el Estado de Tlaxcala y sus Municipios y demás disposiciones normativas aplicables en un término de treinta días naturales a partir de que entre en vigor el presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
