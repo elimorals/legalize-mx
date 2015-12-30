@@ -4,7 +4,7 @@ identifier: "TLA-reglamento-interior-del-congreso-del-estado-de-tlaxcala-25080"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-05-24"
-last_updated: "2015-10-28"
+last_updated: "2015-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2015.
 
 Reglamento publicado en el Extraordinario del Periódico Oficial del Estado de Tlaxcala, el viernes 24 de mayo de 2002.
 
@@ -57,7 +57,9 @@ I. Comisiones: las comisiones ordinarias y especiales referidas en los artículo
 
 II. Comisiones Unidas: cuando dos o más comisiones realizan sus actividades en forma conjunta por así requerirlo el asunto de que se trate y previa determinación de la Mesa Directiva o, en su caso, de la Junta de Coordinación y Concertación Política, o cuando así lo prevenga la Ley. La identificación de las Comisiones Unidas está seguida del nombre de cada una de ellas;
 
-III. Congreso: el Honorable Congreso del Estado de Tlaxcala;
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+III. Congreso: el Congreso del Estado de Tlaxcala;
 
 IV. Constitución: la Constitución Política del Estado Libre y Soberano de Tlaxcala;
 
@@ -77,9 +79,11 @@ Sus disposiciones son obligatorias para los diputados, la Junta de Coordinación
 
 Los casos no previstos y su interpretación administrativa, serán resueltos por el pleno del Congreso, la Comisión Permanente o la Junta de Coordinación y Concertación Política, en su caso, con excepción de la actividad parlamentaria y conducción de las sesiones concedidas a la Mesa Directiva por la Ley Orgánica del Poder Legislativo.
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 4.
 
-El tratamiento que recibirá el Congreso será el de "Honorable Congreso del Estado de Tlaxcala".
+El tratamiento que recibirá el Congreso será el de "Congreso del Estado de Tlaxcala”.
 
 ## Título Segundo. De la Conclusión e Inicio de la Legislatura
 
@@ -165,9 +169,9 @@ c. Miembros del Concejo Municipal;
 
 d. Consejeros de la Comisión Estatal de Derechos Humanos;
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-e. Consejeros del Instituto Electoral de Tlaxcala;
+e. Contralor del Instituto Tlaxcalteca de Elecciones;
 
 f. Auditor de Fiscalización Superior;
 
@@ -879,9 +883,17 @@ VI. De la orientación al público en general sobre protección civil y segurida
 
 A la Comisión de Trabajo, Competitividad, Seguridad Social y Previsión Social; le corresponde:
 
-I. Conocer de los pronunciamientos en materia del trabajo, y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-II. Proponer a las autoridades correspondientes la adopción de medidas de previsión social.
+I. Conocer de los pronunciamientos en materia del trabajo;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+II. Proponer a las autoridades correspondientes la adopción de medidas de previsión social, y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+III. Impulsar y conocer los asuntos en materia de competitividad.
 
 ###### Artículo 62.
 
@@ -904,6 +916,68 @@ II. Organizar y facilitar el acceso a la información y dar trámite a las solic
 III. Elaborar los proyectos de iniciativa de reformas y adiciones a la Constitución, a la Ley de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Tlaxcala y demás Leyes en la materia, y
 
 IV. Elaborar los dictámenes con Proyecto de Decreto o Acuerdos sobre los asuntos que le sean turnados, según sea el caso.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 62 Ter.
+
+A la Comisión de Medio Ambiente y Recursos Naturales, le corresponde:
+
+I. Dictaminar las iniciativas que se presenten en la materia de su competencia.
+
+II. Adecuar el marco jurídico para la preservación del medio ambiente y de los recursos naturales;
+
+III. Modificar la legislación de la materia para fomentar la participación ciudadana para la solución de los problemas ambientales;
+
+IV. Promover ante las autoridades competentes la implementación de políticas públicas en la preservación del medio ambiente y el manejo sustentable de los recursos naturales;
+
+V. Promover y fomentar la preservación de los recursos naturales y procurar las medidas legislativas necesarias para su aprovechamiento y conservación, y
+
+VI. Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva, la Comisión Permanente o la Junta de Coordinación y Concertación Política.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 62 Quáter.
+
+Corresponde a la Comisión de Desarrollo Humano y Social:
+
+I. Conocer y dictaminar en:
+
+a) La legislación que en materia de desarrollo social sea necesaria para el mejoramiento de la calidad de vida de la población, y
+
+b) El establecimiento de acciones o programas tendientes a combatir la pobreza extrema;
+
+II. La elaboración de investigaciones, foros y documentos que sean alternativas eficaces en el diseño de políticas públicas que tutelen el desarrollo humano y social, y
+
+III. Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne la Mesa Directiva; la Comisión Permanente o la Junta de Coordinación y Concertación Política.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 62 Quinquies.
+
+Corresponde a la Comisión de Fomento Artesanal y MIPYMES:
+
+I. Conocer y dictaminar en los asuntos que se refieran al desarrollo y fomento de la actividad artesanal y el apoyo a los artesanos, así como los demás análogos que, a juicio del Presidente del Congreso o de la Comisión Permanente, en su caso, le sean turnados, y
+
+II. Promover y fomentar la inversión en micro, pequeñas y medianas empresas.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 62 Sexies.
+
+Corresponde a la Comisión de la Familia y su Desarrollo Integral:
+
+I. Conocer y dictaminar los asuntos relacionados con la familia en la rama del derecho civil, así como temas vinculados con la familia y sus integrantes;
+
+II. La revisión del marco normativo en el que se establece todo lo relacionado a la familia, a su protección y desarrollo, así como el de asistencia social y desarrollo humano;
+
+III. La normatividad, política, planes y programas de desarrollo humano y asistencia social en el estado;
+
+IV. La elaboración de investigaciones, foros y documentos que sean alternativas eficaces en el diseño de políticas públicas que tutelen la reunificación familiar y el desarrollo humano integral;
+
+V. El establecimiento de un contacto permanente con las instituciones públicas y privadas dedicadas al desarrollo integral de la familia y a la asistencia social, para conocer sus necesidades y estar en la posibilidad de presentar proyectos orientados a cubrirlas, y
+
+VI. Las demás que le confiera este Reglamento, las Leyes aplicables o le asigne a la Mesa Directiva, la Comisión Permanente o la Junta de Coordinación y Concertación Política.
 
 #### Sección Tercera. Procedimiento
 
@@ -980,6 +1054,12 @@ La discusión y aprobación del dictamen ocurrirá en sesión diferente.
 Toda comisión presentará su dictamen por escrito de los asuntos de su competencia, dentro de los treinta días siguientes al de la fecha en que los haya recibido, pudiendo la presidencia de la Mesa Directiva, por sí misma o a petición del autor o autores de la iniciativa o proposición, fijar plazo diferente para su desahogo.
 
 En atención a la importancia y complejidad de los asuntos, las comisiones deberán rendir su dictamen en el plazo que en cada caso se les asigne, pero si vencido el término no se hubiere rendido el dictamen, la comisión informará sobre los motivos del impedimento y podrá solicitar una prórroga al órgano que le haya encomendado el asunto, el que decidirá lo que corresponda.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 76 Bis.
+
+Las comisiones que dictaminen un número mayor a cincuenta expedientes parlamentarios en el año legislativo, tendrán derecho a un estímulo económico anual.
 
 ###### Artículo 77.
 
@@ -1154,6 +1234,10 @@ Si durante el curso de una sesión, alguno de los miembros del Congreso reclamar
 ###### Artículo 105.
 
 Se considerará ausente de una sesión al diputado que no esté presente al pasarse lista y al que habiéndolo estado abandonare el recinto sin autorización de la presidencia.
+
+> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+Para obtener el permiso de abandono definitivo de la sesión del pleno, los diputados deberán comunicarlo previamente al Presidente de la Mesa Directiva, quien valorará la pertinencia del caso, y de conceder el permiso, deberá notificar al pleno en voz alta el mismo y los motivos de éste.
 
 ###### Artículo 106.
 
@@ -1643,13 +1727,17 @@ Las actas en las que se asienten los asuntos tratados por el Pleno, en sesiones 
 
 Para la debida conservación, archivo e historia del proceso legislativo estatal, la Secretaría Parlamentaria, conservará el ``Diario de los Debates''.
 
-> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 178.
 
-El Congreso contará con una publicación oficial denominada "Diario de los Debates del Honorable Congreso del Estado de Tlaxcala", la que deberá contener: La sesión, el sumario, nombre de quien la preside, copia fiel del acta de la sesión del Pleno anterior, versión de las discusiones en el orden que se desarrollen e inserción de todos los documentos a los que se les dé lectura y de aquellos documentos en que se dispense su lectura.
+El Congreso contará con una publicación oficial denominada "Diario de los Debates del Congreso del Estado de Tlaxcala" la que deberá contener: La sesión, el sumario, nombre de quien la preside, copia fiel del acta de la sesión del pleno anterior, versión de las discusiones en el orden que se desarrollen e inserción de todos los documentos a los que se les dé lectura y aquellos documentos en que se dispense su lectura.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2008)</small>
 
 No se publicarán las discusiones y documentos relacionados con las sesiones privadas.
+
+> <small>(REFORMADO, P.O. 7 DE ABRIL DE 2008)</small>
 
 El Congreso, a través de la Secretaría Parlamentaria, garantizará que los diputados tengan acceso a las versiones estenográficas y a la información que se genere en las sesiones del Pleno, a través de sistemas de cómputo, mecanismos e instrumentos expeditos, ágiles, eficientes y económicos. Asimismo, garantizará que la población en general tenga acceso a la información contenida en el Diario de los Debates.
 
@@ -1798,5 +1886,17 @@ Este poder deberá armonizar el Reglamento Interior del Congreso del Estado, en 
 Las comisiones ordinarias que se crean en virtud del presente Decreto, deberán de conformarse en un plazo máximo de noventa días después de la publicación en el Periódico Oficial del Gobierno del Estado.
 
 ###### ARTÍCULO CUARTO.
+
+Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 195.- POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL CONGRESO DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación, en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
 
 Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
