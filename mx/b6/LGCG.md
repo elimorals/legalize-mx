@@ -4,7 +4,7 @@ identifier: "LGCG"
 country: "mx"
 rank: "ley_general"
 publication_date: "2008-12-31"
-last_updated: "2013-12-09"
+last_updated: "2015-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64770&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LGCG"
 
 LEY GENERAL DE CONTABILIDAD GUBERNAMENTAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 9 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 31 de diciembre de 2008.
 
@@ -90,7 +90,9 @@ X. Deuda pública: las obligaciones de pasivo, directas o contingentes, derivada
 
 XI. Endeudamiento neto: la diferencia entre el uso del financiamiento y las amortizaciones efectuadas de las obligaciones constitutivas de deuda pública, durante el período que se informa;
 
-XII. Entes públicos: los poderes Ejecutivo, Legislativo y Judicial de la Federación y de las entidades federativas; los entes autónomos de la Federación y de las entidades federativas; los ayuntamientos de los municipios; los órganos político-administrativos de las demarcaciones territoriales del Distrito Federal; y las entidades de la administración pública paraestatal, ya sean federales, estatales o municipales;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
+
+XII. Entes públicos: los poderes Ejecutivo, Legislativo y Judicial de la Federación y de las entidades federativas; los órganos autónomos de la Federación y de las entidades federativas; los ayuntamientos de los municipios; los órganos político-administrativos de las demarcaciones territoriales del Distrito Federal; y las entidades de la administración pública paraestatal federal, estatal o municipal;
 
 XIII. Entidades federativas: los estados de la Federación y el Distrito Federal;
 
@@ -202,7 +204,9 @@ II. Emitir los requerimientos de información adicionales y los convertidores de
 
 III. Emitir lineamientos para el establecimiento de un sistema de costos;
 
-IV. Emitir las reglas de operación del consejo, así como las del comité;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
+
+IV. Emitir las reglas de operación del Consejo, del comité y de los consejos de armonización contable de las entidades federativas;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -238,6 +242,10 @@ XIV. Las demás establecidas en esta Ley.
 
 El consejo presentará, a más tardar el último día hábil de febrero, el informe anual al Congreso de la Unión, en el que incluirá las recomendaciones que estime pertinentes para el mejor cumplimiento de los objetivos de esta Ley.
 
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
+
+Para el ejercicio de sus atribuciones, el Consejo podrá auxiliarse en los consejos de armonización contable de las entidades federativas, en términos de lo dispuesto en la presente Ley.
+
 ###### Artículo 10.
 
 El consejo sesionará, cuando menos, tres veces en un año calendario. Su presidente, con apoyo del secretario técnico, realizará las convocatorias que estime pertinentes o resulten necesarias.
@@ -251,6 +259,28 @@ En segunda convocatoria, existe quórum para que sesione el consejo cuando se en
 Las decisiones se tomarán por mayoría de votos de los miembros del consejo presentes en la reunión. En caso de empate, el presidente del consejo tendrá el voto de calidad. Cuando se trate de proyectos normativos, los miembros del consejo deberán asentar en el acta correspondiente las razones del sentido de su voto en caso de que sea en contra.
 
 Las sesiones del consejo se harán constar en actas que deberán ser suscritas por los miembros que participaron en ellas y se harán públicas a través de internet, en apego a las disposiciones aplicables en materia de transparencia y acceso a la información. El secretario técnico del consejo es responsable de la elaboración de las actas, la obtención de las firmas correspondientes, así como de su custodia y publicación.
+
+> <small>(ADICIONADO, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 10 Bis.
+
+Cada entidad federativa establecerá un consejo de armonización contable, los cuales auxiliarán al Consejo en el cumplimiento de lo dispuesto en esta Ley.
+
+Los consejos de armonización contable de las entidades federativas tendrán las atribuciones siguientes:
+
+I. Brindar asesoría a los entes públicos de su entidad federativa y de los municipios de su estado o de los órganos político-administrativos de las demarcaciones territoriales del Distrito Federal, según corresponda, para dar cumplimiento a las normas contables y lineamientos para la generación de información financiera que emita el Consejo;
+
+II. Establecer acciones de coordinación entre el gobierno de su entidad federativa con los municipios o los órganos político-administrativos de las demarcaciones territoriales del Distrito Federal, según corresponda, para dar cumplimiento a lo dispuesto en la presente Ley;
+
+III. Requerir información a los entes públicos de su entidad federativa y de los municipios de su estado o de los órganos político-administrativos de las demarcaciones territoriales del Distrito Federal, según corresponda, sobre los avances en la armonización de su contabilidad conforme a las normas contables emitidas por el Consejo;
+
+IV. Analizar la información que reciban de los entes públicos de su entidad federativa y de los municipios de su estado o de los órganos político-administrativos de las demarcaciones territoriales del Distrito Federal, según corresponda, e informar al Secretario Técnico del Consejo los resultados correspondientes;
+
+V. Proponer recomendaciones al Secretario Técnico del Consejo respecto de las normas contables y de la emisión de información financiera, y
+
+VI. Las demás que determine el Consejo.
+
+Los consejos de armonización contable de las entidades federativas se integrarán y funcionarán de conformidad con las reglas de operación que emita el Consejo.
 
 ### CAPÍTULO II. Del Secretario Técnico
 
@@ -272,7 +302,9 @@ VI. Programar los estudios que se consideren indispensables en apoyo del desarro
 
 VII. Realizar los procesos de consulta no vinculantes sobre los proyectos de normas contables ante las instituciones públicas y colegiadas que se estimen necesarios;
 
-VIII. Recibir, evaluar y dar respuesta a las propuestas técnicas que presenten el comité, las instituciones públicas y privadas, y los miembros de la sociedad civil;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
+
+VIII. Recibir, evaluar y dar respuesta a las propuestas técnicas que presenten el comité, los consejos de armonización contable de las entidades federativas, las instituciones públicas y privadas, y los miembros de la sociedad civil;
 
 IX. Asesorar y capacitar a los entes públicos en lo relacionado con la instrumentación e interpretación de las normas contables emitidas;
 
@@ -280,7 +312,9 @@ X. Emitir opinión o resolver consultas en los asuntos vinculados con la contabi
 
 XI. Interpretar las normas contables y disposiciones que son objeto de su función normativa;
 
-XII. Dar seguimiento, orientar y evaluar los avances en la armonización de la contabilidad, así como en las acciones que realicen los entes públicos para adoptar e implementar las decisiones que emita el consejo;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
+
+XII. Dar seguimiento a los avances en la armonización de la contabilidad de los entes públicos, con base en la información que remitan los consejos de armonización contable de las entidades federativas y los entes públicos federales;
 
 XIII. Elaborar el marco metodológico para llevar a cabo la integración y análisis de los componentes de las finanzas públicas a partir de los registros contables y el proceso presupuestario, considerando los principales indicadores sobre la postura fiscal y los elementos de las clasificaciones de los ingresos y gastos, y
 
@@ -346,7 +380,9 @@ El secretario técnico publicará el plan anual de trabajo del consejo en el Dia
 
 El consejo deberá difundir oportunamente el contenido de los planes de trabajo, las actas de sus sesiones, sus acuerdos, el sentido de las votaciones y la demás información que considere pertinente.
 
-El consejo, por conducto del secretario técnico, llevará un registro de los actos que, en los términos del artículo 7 de esta Ley, realicen los gobiernos de las entidades federativas, los municipios y las demarcaciones territoriales del Distrito Federal para adoptar e implementar las decisiones del consejo. Para tales efectos, éstos deberán remitir la información relacionada a dichos actos, dentro de un plazo de 15 días hábiles contados a partir de la fecha en la que concluya el plazo que el consejo haya establecido para tal fin.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
+
+El Consejo, por conducto de su Secretario Técnico, llevará un registro de los actos que, en términos del artículo 7 de esta Ley, realicen los entes públicos de las entidades federativas y de los municipios o los órganos político-administrativos de las demarcaciones territoriales del Distrito Federal, para adoptar las decisiones del Consejo. Para tales efectos, los consejos de armonización contable de las entidades federativas deberán remitir la información relacionada con dichos actos, dentro de un plazo de quince días hábiles contados a partir de la fecha en la que concluya el plazo que el Consejo haya establecido para tal fin.
 
 El secretario técnico publicará la información a que se refiere este artículo en una página de Internet desarrollada expresamente para esos efectos, la cual deberá ser accesible para la población en general.
 
@@ -422,9 +458,11 @@ Asimismo, en la cuenta pública incluirán la relación de los bienes que compon
 
 Los registros contables de los bienes a que se refiere el artículo anterior se realizarán en cuentas específicas del activo.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 25.
 
-Los entes públicos elaborarán un registro auxiliar sujeto a inventario de los bienes muebles o inmuebles bajo su custodia que, por su naturaleza, sean inalienables e imprescriptibles, como lo son los monumentos arqueológicos, artísticos e históricos.
+Los entes públicos, conforme lo determine el Consejo en términos de las disposiciones jurídicas aplicables, elaborarán un registro auxiliar sujeto a inventario de los bienes bajo su custodia que, por su naturaleza, sean inalienables e imprescriptibles.
 
 ###### Artículo 26.
 
@@ -442,9 +480,11 @@ Los entes públicos contarán con un plazo de 30 días hábiles para incluir en 
 
 Los registros contables reflejarán, en la cuenta específica del activo que corresponda, la baja de los bienes muebles e inmuebles. El consejo emitirá lineamientos para tales efectos.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 29.
 
-Las obras en proceso deberán registrarse, invariablemente, en una cuenta contable específica del activo, la cual reflejará su grado de avance en forma objetiva y comprobable.
+Las obras en proceso deberán registrarse invariablemente, en una cuenta contable específica del activo.
 
 ###### Artículo 30.
 
@@ -454,9 +494,11 @@ El consejo emitirá, para efectos contables, las disposiciones sobre registro y 
 
 Cuando se realice la transición de una administración a otra, los bienes que no se encuentren inventariados o estén en proceso de registro y hubieren sido recibidos o adquiridos durante el encargo de su administración, deberán ser entregados oficialmente a la administración entrante a través de un acta de entrega y recepción. La administración entrante realizará el registro e inventario a que se refiere esta Ley.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 32.
 
-Los entes públicos deberán registrar en una cuenta de activo, los fideicomisos sin estructura orgánica y contratos análogos sobre los que tenga derecho o de los que emane una obligación.
+Los entes públicos deberán registrar en una cuenta de activo, los derechos patrimoniales que tengan en fideicomisos sin estructura orgánica, mandatos y contratos análogos. Asimismo, deberán registrar en una cuenta de activo la participación que tengan en el patrimonio o capital de las entidades de la administración pública paraestatal, así como de las empresas productivas del Estado.
 
 ### CAPÍTULO III. Del Registro Contable de las Operaciones
 
@@ -526,83 +568,81 @@ Los estados financieros y la información emanada de la contabilidad deberán su
 
 Los entes públicos deberán expresar de manera destacada en sus estados financieros los esquemas de pasivos, incluyendo los que sean considerados deuda pública en términos de la normativa aplicable.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 46.
 
-En lo relativo a la Federación, los sistemas contables de las dependencias del poder Ejecutivo; los poderes Legislativo y Judicial; las entidades y los órganos autónomos permitirán, en la medida que corresponda, la generación periódica de los estados y la información financiera que a continuación se señala:
+En lo relativo a la Federación, los sistemas contables de los poderes Ejecutivo, Legislativo y Judicial, las entidades de la Administración Pública Paraestatal y los órganos autónomos, permitirán en la medida que corresponda, la generación periódica de los estados y la información financiera que a continuación se señala:
 
 I. Información contable, con la desagregación siguiente:
 
-a) Estado de situación financiera;
+a) Estado de actividades;
 
-b) Estado de variación en la hacienda pública;
+b) Estado de situación financiera;
 
-c) Estado de cambios en la situación financiera;
+c) Estado de variación en la hacienda pública;
 
-d) Informes sobre pasivos contingentes;
+d) Estado de cambios en la situación financiera;
 
-e) Notas a los estados financieros;
+e) Estado de flujos de efectivo;
 
-f) Estado analítico del activo;
+f) Informes sobre pasivos contingentes;
 
-g) Estado analítico de la deuda y otros pasivos, del cual se derivarán las siguientes clasificaciones:
+g) Notas a los estados financieros;
 
-i. Corto y largo plazo, así como por su origen en interna y externa;
+h) Estado analítico del activo, e
 
-ii. Fuentes de financiamiento;
+i) Estado analítico de la deuda y otros pasivos, del cual se derivarán las clasificaciones siguientes:
 
-iii. Por moneda de contratación, y
+1. Corto y largo plazo, así como por su origen en interna y externa;
 
-iv. Por país acreedor;
+2. Fuentes de financiamiento;
+
+3. Por moneda de contratación, y
+
+4. Por país acreedor;
 
 II. Información presupuestaria, con la desagregación siguiente:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
-
 a) Estado analítico de ingresos, del que se derivará la presentación en clasificación económica por fuente de financiamiento y concepto, incluyendo los ingresos excedentes generados;
 
-b) Estado analítico del ejercicio del presupuesto de egresos del que se derivarán las siguientes clasificaciones:
+b) Estado analítico del ejercicio del presupuesto de egresos del que se derivarán las clasificaciones siguientes:
 
-i. Administrativa;
+1. Administrativa;
 
-ii. Económica y por objeto del gasto, y
+2. Económica;
 
-iii. Funcional-programática;
+3. Por objeto del gasto, y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+4. Funcional.
 
-> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
-
-El estado analítico del ejercicio del presupuesto de egresos deberá identificar los montos y adecuaciones presupuestarias y subejercicios por Ramo y/o Programa;
+El estado analítico del ejercicio del presupuesto de egresos deberá identificar los montos y adecuaciones presupuestarias y subejercicios por ramo y programa;
 
 c) Endeudamiento neto, financiamiento menos amortización, del que derivará la clasificación por su origen en interno y externo;
 
-d) Intereses de la deuda;
+d) Intereses de la deuda, y
 
-e) Un flujo de fondos que resuma todas las operaciones y los indicadores de la postura fiscal;
+e) Un flujo de fondos que resuma todas las operaciones;
 
 III. Información programática, con la desagregación siguiente:
 
 a) Gasto por categoría programática;
 
-b) Programas y proyectos de inversión;
+b) Programas y proyectos de inversión, y
 
 c) Indicadores de resultados, y
 
 IV. La información complementaria para generar las cuentas nacionales y atender otros requerimientos provenientes de organismos internacionales de los que México es miembro.
 
-Los estados analíticos sobre deuda pública y otros pasivos, y el de capital deberán considerar por concepto el saldo inicial del ejercicio, las entradas y salidas por transacciones, otros flujos económicos y el saldo final del ejercicio.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(ADICIONADO, D.O.F. 12 DE NOVIEMBRE DE 2012)</small>
+Los estados analíticos sobre deuda pública y otros pasivos, y el de patrimonio deberán considerar por concepto el saldo inicial del ejercicio, las entradas y salidas por transacciones, otros flujos económicos y el saldo final del ejercicio.
 
 En las cuentas públicas se reportarán los esquemas bursátiles y de coberturas financieras de los entes públicos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 47.
 
-En lo relativo a las entidades federativas, los sistemas contables de las dependencias del poder Ejecutivo; los poderes Legislativo y Judicial; las entidades y los órganos autónomos deberán producir, en la medida que corresponda, la información referida en el artículo anterior, con excepción de la fracción I, inciso g) de dicho artículo, cuyo contenido se desagregará como sigue:
+En lo relativo a las entidades federativas, los sistemas contables de los poderes Ejecutivo, Legislativo y Judicial, las entidades de la Administración Pública Paraestatal y los órganos autónomos deberán producir, en la medida que corresponda, la información referida en el artículo anterior, con excepción de la fracción I, inciso i) de dicho artículo, cuyo contenido se desagregará como sigue:
 
 I. Estado analítico de la deuda, del cual se derivarán las siguientes clasificaciones:
 
@@ -614,9 +654,11 @@ II. Endeudamiento neto, financiamiento menos amortización, y
 
 III. Intereses de la deuda.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 48.
 
-En lo relativo a los ayuntamientos de los municipios y los órganos político-administrativos de las demarcaciones territoriales del Distrito Federal, los sistemas deberán producir, como mínimo, la información contable y presupuestaria a que se refiere el artículo 46, fracción I, incisos a), b), c), e) y f); y fracción II, incisos a) y b).
+En lo relativo a los ayuntamientos de los municipios o los órganos político-administrativos de las demarcaciones territoriales del Distrito Federal y las entidades de la Administración Pública Paraestatal municipal, los sistemas deberán producir, como mínimo, la información contable y presupuestaria a que se refiere el artículo 46, fracciones I, incisos a), b), c), d), e), g) y h), y II, incisos a) y b) de la presente Ley.
 
 ###### Artículo 49.
 
@@ -682,9 +724,11 @@ Para ello, deberán utilizar indicadores que permitan determinar el cumplimiento
 
 Adicionalmente se deberá presentar información por dependencia y entidad, de acuerdo con la clasificación establecida en la fracción IV del artículo 46 de esta Ley.
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 55.
 
-Las cuentas públicas de los ayuntamientos de los municipios y de los órganos político-administrativos de las demarcaciones territoriales del Distrito Federal deberán contener, como mínimo, la información contable y presupuestaria a que se refiere el artículo 48. Asimismo, de considerarlo necesario, el consejo determinará la información adicional que al respecto se requiera, en atención a las características de los mismos.
+Las cuentas públicas de los ayuntamientos de los municipios deberán contener la información contable y presupuestaria a que se refiere el artículo 48 de la presente Ley conforme a lo que determine el Consejo, en atención a las características de los mismos.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1162,7 +1206,9 @@ Los entes públicos deberán publicar en sus páginas de Internet a más tardar 
 
 Los entes públicos deberán publicar a más tardar a los 30 días posteriores a la conclusión de las evaluaciones, los resultados de las mismas e informar sobre las personas que realizaron dichas evaluaciones.
 
-Las Secretarías de Hacienda y de la Función Pública y el Consejo Nacional de Evaluación de la Política de Desarrollo Social, en el ámbito de su competencia, de conformidad con el artículo 110 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria enviarán al consejo los criterios de evaluación de los recursos federales ministrados a las entidades federativas, los municipios y las demarcaciones territoriales del Distrito Federal así como los lineamientos de evaluación que permitan homologar y estandarizar tanto las evaluaciones como los indicadores estratégicos y de gestión para que dicho consejo, en el ámbito de sus atribuciones, proceda a determinar los formatos para la difusión de los resultados de las evaluaciones, conforme a lo establecido en el artículo 56 de esta Ley.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
+
+La Secretaría de Hacienda y el Consejo Nacional de Evaluación de la Política de Desarrollo Social, en el ámbito de su competencia y de conformidad con el artículo 110 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria, enviarán al Consejo los criterios de evaluación de los recursos federales ministrados a las entidades federativas, los municipios y los órganos político-administrativos de las demarcaciones territoriales del Distrito Federal, así como los lineamientos de evaluación que permitan homologar y estandarizar tanto las evaluaciones como los indicadores para que dicho Consejo, en el ámbito de sus atribuciones, proceda a determinar los formatos para la difusión de los resultados de las evaluaciones, conforme a lo establecido en el artículo 56 de esta Ley.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1172,7 +1218,9 @@ Las Secretarías de Hacienda y de la Función Pública y el Consejo Nacional de 
 
 A más tardar el último día hábil de marzo, en los términos del artículo anterior y demás disposiciones aplicables, se revisarán y, en su caso, se actualizarán los indicadores de los fondos de aportaciones federales y de los programas y convenios a través de los cuales se transfieran recursos federales, con base en los cuales se evaluarán los resultados que se obtengan con dichos recursos. Los indicadores actualizados deberán incluirse en los informes trimestrales y en las cuentas públicas, en los términos de los artículos 48 de la Ley de Coordinación Fiscal y 85 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
 
-La Secretaría de Hacienda, con el apoyo técnico de la Secretaría de la Función Pública y del Consejo Nacional de Evaluación de la Política de Desarrollo Social, entregará conjuntamente con las dependencias coordinadoras de los fondos, programas y convenios, el último día hábil del mes de abril de cada año a la Cámara de Diputados del Congreso de la Unión, un informe sobre las adecuaciones efectuadas, en su caso, a los indicadores del desempeño, así como su justificación.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
+
+La Secretaría de Hacienda, con el apoyo técnico del Consejo Nacional de Evaluación de la Política de Desarrollo Social, entregará conjuntamente con las dependencias coordinadoras de los fondos, programas y convenios, el último día hábil del mes de abril de cada año a la Cámara de Diputados del Congreso de la Unión, un informe sobre las adecuaciones efectuadas, en su caso, a los indicadores del desempeño, así como su justificación.
 
 En ese mismo plazo, la Secretaría de Hacienda entregará a la Cámara de Diputados del Congreso de la Unión, un informe del avance alcanzado por las entidades federativas, los municipios y las demarcaciones territoriales del Distrito Federal, en la implantación y operación del Presupuesto Basado en Resultados y del Sistema de Evaluación del Desempeño, en lo que corresponde a los recursos federales transferidos y, en su caso, las medidas que se aplicarán coordinadamente entre estos órdenes de gobierno para el logro de los objetivos definidos en las disposiciones aplicables.
 
@@ -1363,3 +1411,23 @@ Quinto.- Las autoridades competentes respetarán los derechos de los trabajadore
 Sexto.- A más tardar a los 45 días naturales siguientes a la entrada en vigor del presente Decreto, la Secretaría de Desarrollo Social, previa opinión de la Secretaría de Hacienda y Crédito Público, deberá publicar en el Diario Oficial de la Federación los Lineamientos del Fondo de Aportaciones para la Infraestructura Social, a que hace referencia el artículo 33 del presente Decreto.
 
 …
+
+D.O.F. 30 DE DICIEMBRE DE 2015.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Consejo Nacional de Armonización Contable, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto, emitirá las reglas de operación que deberán cumplir las entidades federativas para la integración y funcionamiento de sus consejos de armonización contable.
+
+Tercero. Las entidades federativas deberán instalar sus consejos de armonización contable a más tardar a los treinta días naturales siguientes a la emisión de las reglas a que se refiere el artículo transitorio anterior.
+
+Cuarto. En la fecha a que se refiere el transitorio Primero del presente Decreto, entrará en vigor la modificación prevista a la fracción XIX del artículo 31 de la Ley Orgánica de la Administración Pública Federal, establecida en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 2 de enero de 2013.
+
+Quinto. El Ejecutivo Federal deberá realizar las reformas necesarias al Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y demás disposiciones aplicables, de conformidad con lo previsto en este Decreto, dentro de los noventa días naturales posteriores a la entrada en vigor del presente Decreto.
+
+Sexto. Derivado de lo previsto en el presente Decreto, los trámites que se hayan iniciado ante la Secretaría de la Función Pública serán concluidos por la Secretaría de Hacienda y Crédito Público.
+
+Las secretarías de Hacienda y Crédito Público y de la Función Pública realizarán las acciones que correspondan en el ámbito administrativo para que, dentro de los noventa días naturales posteriores a la entrada en vigor del presente Decreto, la Secretaría de Hacienda y Crédito Público reciba los asuntos en trámite, a fin de dar cumplimiento a lo previsto en el párrafo anterior.
+
+Las erogaciones que, en su caso, realicen las dependencias a que se refiere el párrafo anterior en cumplimiento a este Decreto, se cubrirán con cargo a sus respectivos presupuestos aprobados para el ejercicio fiscal correspondiente.
+
+Séptimo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
