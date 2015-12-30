@@ -4,7 +4,7 @@ identifier: "LFPRH"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2006-03-30"
-last_updated: "2015-11-18"
+last_updated: "2015-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49841&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFPRH"
 
 LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 30 de marzo de 2006.
 
@@ -296,9 +296,11 @@ c) Ejercer las atribuciones a que se refieren los incisos d) y f) de la fracció
 
 Los ejecutores de gasto público que cuenten con autonomía presupuestaria deberán sujetarse a lo previsto en esta Ley y a las disposiciones específicas contenidas en las leyes de su creación, sujetándose al margen de autonomía establecido en el presente artículo. Las empresas productivas del Estado y sus empresas productivas subsidiarias se sujetarán exclusivamente a lo dispuesto en sus respectivas leyes.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 6.
 
-El Ejecutivo Federal, por conducto de la Secretaría, estará a cargo de la programación y presupuestación del gasto público federal correspondiente a las dependencias y entidades. El control y la evaluación de dicho gasto corresponderán a la Secretaría y a la Función Pública, en el ámbito de sus respectivas atribuciones. Asimismo, la Función Pública inspeccionará y vigilará el cumplimiento de las disposiciones de esta Ley y de las que de ella emanen, respecto de dicho gasto.
+El Ejecutivo Federal, por conducto de la Secretaría, estará a cargo de la programación, presupuestación, evaluación y control presupuestario del gasto público federal correspondiente a las dependencias y entidades. Asimismo, la Función Pública, en términos de las disposiciones jurídicas que rigen sus funciones de control y auditoría, inspeccionará y vigilará el cumplimiento de las disposiciones de esta Ley y de las que de ella emanen, respecto de dicho gasto por parte de las dependencias y entidades.
 
 Los Poderes Legislativo y Judicial y los entes autónomos, por conducto de sus respectivas unidades de administración, deberán coordinarse con la Secretaría para efectos de la programación y presupuestación en los términos previstos en esta Ley. El control y la evaluación de dicho gasto corresponderán a los órganos competentes, en los términos previstos en sus respectivas leyes orgánicas.
 
@@ -2222,15 +2224,15 @@ V. Las evaluaciones deberán incluir información desagregada por sexo relaciona
 
 VI. Deberán dar seguimiento a la atención de las recomendaciones que se emitan derivado de las evaluaciones correspondientes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE ENERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 111.
 
-La Secretaría y la Función Pública, en el ámbito de sus respectivas competencias, verificarán periódicamente, al menos cada trimestre, los resultados de recaudación y de ejecución de los programas y presupuestos de las dependencias y entidades, con base en el sistema de evaluación del desempeño, entre otros, para identificar la eficiencia, economía, eficacia, y la calidad en la Administración Pública Federal y el impacto social del ejercicio del gasto público, así como aplicar las medidas conducentes. Igual obligación y para los mismos fines, tendrán las dependencias, respecto de sus entidades coordinadas.
+La Secretaría verificará periódicamente, al menos cada trimestre, los resultados de recaudación y de ejecución de los programas y presupuestos de las dependencias y entidades, con base en el sistema de evaluación del desempeño, entre otros, para identificar la eficiencia, economía, eficacia, y la calidad en la Administración Pública Federal y el impacto social del ejercicio del gasto público, así como aplicar las medidas conducentes. Igual obligación y para los mismos fines, tendrán las dependencias, respecto de sus entidades coordinadas.
 
-> <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
 
-El sistema de evaluación del desempeño a que se refiere el párrafo anterior del presente artículo será obligatorio para los ejecutores de gasto. Dicho sistema incorporará indicadores para evaluar los resultados presentados en los informes trimestrales, enfatizando en la calidad de los bienes y servicios públicos, la satisfacción del ciudadano y el cumplimiento de los criterios establecidos en el párrafo segundo del artículo 1 de esta Ley. La Secretaría y la Función Pública emitirán las disposiciones para la aplicación y evaluación de los referidos indicadores en las dependencias y entidades; los Poderes Legislativo y Judicial y los entes autónomos emitirán sus respectivas disposiciones por conducto de sus unidades de administración.
+El sistema de evaluación del desempeño a que se refiere el párrafo anterior será obligatorio para los ejecutores de gasto. Dicho sistema incorporará indicadores para evaluar los resultados presentados en los informes trimestrales, enfatizando en la calidad de los bienes y servicios públicos, la satisfacción del ciudadano y el cumplimiento de los criterios establecidos en el párrafo segundo del artículo 1 de esta Ley. La Secretaría emitirá las disposiciones para la aplicación y evaluación de los indicadores estratégicos en las dependencias y entidades. Los Poderes Legislativo y Judicial y los entes autónomos emitirán sus respectivas disposiciones por conducto de sus unidades de administración.
 
 > <small>(REFORMADO, D.O.F. 24 DE ENERO DE 2014)</small>
 
@@ -2583,3 +2585,23 @@ D.O.F. 18 DE NOVIEMBRE DE 2015.
 DECRETO POR EL QUE SE ADICIONA EL ARTICULO 19 BIS A LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA.
 
 Único. El presente Decreto entrará en vigor el 1 de enero de 2016.
+
+D.O.F. 30 DE DICIEMBRE DE 2015.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Consejo Nacional de Armonización Contable, dentro de los sesenta días naturales siguientes a la entrada en vigor del presente Decreto, emitirá las reglas de operación que deberán cumplir las entidades federativas para la integración y funcionamiento de sus consejos de armonización contable.
+
+Tercero. Las entidades federativas deberán instalar sus consejos de armonización contable a más tardar a los treinta días naturales siguientes a la emisión de las reglas a que se refiere el artículo transitorio anterior.
+
+Cuarto. En la fecha a que se refiere el transitorio Primero del presente Decreto, entrará en vigor la modificación prevista a la fracción XIX del artículo 31 de la Ley Orgánica de la Administración Pública Federal, establecida en el Decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Ley Orgánica de la Administración Pública Federal, publicado en el Diario Oficial de la Federación el 2 de enero de 2013.
+
+Quinto. El Ejecutivo Federal deberá realizar las reformas necesarias al Reglamento de la Ley Federal de Presupuesto y Responsabilidad Hacendaria y demás disposiciones aplicables, de conformidad con lo previsto en este Decreto, dentro de los noventa días naturales posteriores a la entrada en vigor del presente Decreto.
+
+Sexto. Derivado de lo previsto en el presente Decreto, los trámites que se hayan iniciado ante la Secretaría de la Función Pública serán concluidos por la Secretaría de Hacienda y Crédito Público.
+
+Las secretarías de Hacienda y Crédito Público y de la Función Pública realizarán las acciones que correspondan en el ámbito administrativo para que, dentro de los noventa días naturales posteriores a la entrada en vigor del presente Decreto, la Secretaría de Hacienda y Crédito Público reciba los asuntos en trámite, a fin de dar cumplimiento a lo previsto en el párrafo anterior.
+
+Las erogaciones que, en su caso, realicen las dependencias a que se refiere el párrafo anterior en cumplimiento a este Decreto, se cubrirán con cargo a sus respectivos presupuestos aprobados para el ejercicio fiscal correspondiente.
+
+Séptimo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
