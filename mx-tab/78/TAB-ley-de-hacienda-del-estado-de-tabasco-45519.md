@@ -4,7 +4,7 @@ identifier: "TAB-ley-de-hacienda-del-estado-de-tabasco-45519"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-22"
-last_updated: "2014-12-24"
+last_updated: "2015-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 LEY DE HACIENDA DEL ESTADO DE TABASCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2014.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE HACIENDA DEL ESTADO DE TABASCO, PUBLICADA EN EL P.O. DE FECHA 30 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Tabasco, el miércoles 22 de junio de 2005.
 
@@ -3778,3 +3780,13 @@ SEGUNDO.- Las motocicletas “moto taxi” que tengan actividad legal dentro del
 TERCERO.- Las obligaciones relativas al Impuesto Vehicular Estatal que hubieran nacido durante su vigencia por la realización de las situaciones jurídicas previstas en el capítulo séptimo de esta Ley vigente hasta el 31 de diciembre de 2014, deberán ser cumplidas en las formas y plazos establecidos en los mismos y en las demás disposiciones fiscales aplicables.
 
 CUARTO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 30 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 268 POR EL QUE "SE EXPIDE LA LEY DE HACIENDA DEL ESTADO DE TABASCO.”]
+
+PRIMERO.- La presente Ley será publicada en el periódico oficial del Estado y entrará en vigor el día uno del mes de enero del año dos mil dieciséis.
+
+SEGUNDO. Se abroga La Ley de Hacienda del Estado de Tabasco publicada en el suplemento 6552 B del Periódico Oficial del Estado de Tabasco de fecha 22 de junio de 2005 y se derogan todas las disposiciones que se opongan a lo dispuesto en la presente Ley.
+
+TERCERO.- Las obligaciones relativas al Impuesto Vehicular Estatal que hubieran nacido durante su vigencia por la realización de las situaciones jurídicas previstas en el capítulo séptimo de la Ley de Hacienda del Estado vigente hasta el 31 de diciembre de 2014, deberán ser cumplidas en las formas y plazos establecidos en los mismos y en las demás disposiciones fiscales aplicables.
