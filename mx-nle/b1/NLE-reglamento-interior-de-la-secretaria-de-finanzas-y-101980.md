@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-secretaria-de-finanzas-y-101980"
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-08-11"
-last_updated: "2014-08-11"
+last_updated: "2015-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101980&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y TESORERÍA GENERAL DEL ESTADO DE NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2015.
 
 Reglamento publicado en el Periódico Oficial del Estado, el lunes 11 de agosto de 2014.
 
@@ -341,7 +341,7 @@ III. Brindar apoyo administrativo, en asuntos materia de la Subsecretaría, a lo
 
 IV. Coordinar la labor de los representantes de la Secretaría en los comités de adquisiciones de las entidades de la Administración Pública del Estado; y
 
-V. Mediante un Coordinador General del área, administrar y vigilar el uso adecuado y regular de las aeronaves propiedad del Gobierno del Estado, su mantenimiento, conservación y utilización conforme a las leyes y demás normas aplicables.
+V. (DEROGADA, P.O. 30 DE DICIEMBRE DE 2015)
 
 #### SECCIÓN CUARTA. DE LA DIRECCIÓN DE PATRIMONIO
 
@@ -1222,3 +1222,17 @@ EL C. SECRETARIO GENERAL DE GOBIERNO
 EL C. SECRETARIO DE FINANZAS Y TESORERO GENERAL DEL ESTADO
 
 RODOLFO GÓMEZ ACOSTA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL CUAL SE DEROGA LA FRACCIÓN V, DEL ARTÍCULO 11 DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y TESORERÍA GENERAL DEL ESTADO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se instruye a la Secretaría de Finanzas y Tesorería General del Estado a que realice (sic) los trámites administrativos necesarios para llevar a cabo la transferencia de recursos humanos, materiales y financieros que procedan conforme a este Decreto, a la Dirección Administrativa de la Secretaría Particular del Gobernador.
