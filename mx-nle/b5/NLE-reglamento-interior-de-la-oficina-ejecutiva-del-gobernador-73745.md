@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-oficina-ejecutiva-del-gobernador-7374
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-26"
-last_updated: "2010-09-24"
+last_updated: "2015-12-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73745&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA OFICINA EJECUTIVA DEL GOBERNADOR
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 de Septiembre de 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 30 DE DICIEMBRE DE 2015.
 
 Reglamento publicado en la Sección Segunda del Periódico Oficial del Estado de Nuevo León, el viernes 26 de febrero de 2010.
 
@@ -93,7 +93,7 @@ a. Coordinación Administrativa.
 
 IV. Coordinación Técnica de Gabinete, Planeación, Evaluación e Innovación Gubernamental;
 
-V. Coordinación de Relaciones Públicas Institucionales, y (sic)
+V. Coordinación de Relaciones Públicas Institucionales, y
 
 VI. Unidad de Asuntos Internacionales.
 
@@ -283,9 +283,17 @@ IV. Llevar el control presupuestal del ejercicio de los recursos humanos, financ
 
 V. Solicitar, dar seguimiento y supervisar las gestiones relacionadas con el mantenimiento de las instalaciones, mobiliario y equipo de oficina, equipo de comunicación, cómputo y vehículos oficiales, asignados a la Secretaría Particular;
 
-VI. Solicitar, dar seguimiento y supervisar la calidad del suministro de bienes y servicios generales, con el propósito de obtenerlos oportunamente y que cumplan con las características y especificaciones solicitadas por la Secretaría Particular, y
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-VII. Las demás que le confiera el Titular de la Secretaría Particular y las disposiciones jurídicas aplicables.
+VI. Solicitar, dar seguimiento y supervisar la calidad del suministro de bienes y servicios generales, con el propósito de obtenerlos oportunamente y que cumplan con las características y especificaciones solicitadas por la Secretaría Particular;
+
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+VII. Mediante un Coordinador General del área, administrar y vigilar el uso adecuado y regular de las aeronaves propiedad del Gobierno del Estado, su mantenimiento, conservación y utilización conforme a las leyes y demás normas aplicables, y
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+VIII. Las demás que le confiera el Titular de la Secretaría Particular y las disposiciones jurídicas aplicables.
 
 #### Sección Tercera. De las atribuciones de la Oficina de Representación del Gobierno del Estado en el Distrito Federal
 
@@ -516,3 +524,15 @@ CARLOS ALMADA LÓPEZ
 P.O. 24 DE SEPTIEMBRE DE 2010.
 
 ÚNICO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 30 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL CUAL SE DEROGA LA FRACCIÓN V, DEL ARTÍCULO 11 DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y TESORERÍA GENERAL DEL ESTADO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se instruye a la Secretaría de Finanzas y Tesorería General del Estado a que realice los trámites administrativos necesarios para llevar a cabo la transferencia de recursos humanos, materiales y financieros que procedan conforme a este Decreto, a la Dirección Administrativa de la Secretaría Particular del Gobernador.
