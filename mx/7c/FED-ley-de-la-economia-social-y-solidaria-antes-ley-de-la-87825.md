@@ -4,7 +4,7 @@ identifier: "FED-ley-de-la-economia-social-y-solidaria-antes-ley-de-la-87825"
 country: "mx"
 rank: "ley"
 publication_date: "2012-05-23"
-last_updated: "2013-06-11"
+last_updated: "2015-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87825&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,9 @@ issue_date: "2012-05-22"
 ---
 # LEY DE LA ECONOMIA SOCIAL Y SOLIDARIA -- ANTES LEY DE LA ECONOMIA SOCIAL Y SOLIDARIA, REGLAMENTARIA DEL PARRAFO OCTAVO DEL ARTICULO 25 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, EN LO REFERENTE AL SECTOR SOCIAL DE LA ECONOMIA -- ANTES LEY DE LA ECONOMIA SOCIAL Y SOLIDARIA, REGLAMENTARIA DEL PARRAFO SEPTIMO DEL ARTICULO 25 DE LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, EN LO REFERENTE AL SECTOR SOCIAL DE LA ECONOMIA --
 
-LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA, REGLAMENTARIA DEL PÁRRAFO SÉPTIMO DEL ARTÍCULO 25 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN LO REFERENTE AL SECTOR SOCIAL DE LA ECONOMÍA
+LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA, REGLAMENTARIA DEL PÁRRAFO OCTAVO DEL ARTÍCULO 25 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN LO REFERENTE AL SECTOR SOCIAL DE LA ECONOMÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el miércoles 23 de mayo de 2012.
 
@@ -39,13 +39,17 @@ SE EXPIDE LA LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA, REGLAMENTARIA DEL PÁRRAFO 
 
 Artículo Único. Se expide la Ley de la Economía Social y Solidaria, Reglamentaria del Párrafo Séptimo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al sector social de la economía.
 
-LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA, REGLAMENTARIA DEL PÁRRAFO SÉPTIMO DEL ARTÍCULO 25 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN LO REFERENTE AL SECTOR SOCIAL DE LA ECONOMÍA.
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
+
+LEY DE LA ECONOMÍA SOCIAL Y SOLIDARIA, REGLAMENTARIA DEL PÁRRAFO OCTAVO DEL ARTÍCULO 25 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN LO REFERENTE AL SECTOR SOCIAL DE LA ECONOMÍA.
 
 ## TÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 1o.
 
-La presente Ley es reglamentaria del párrafo séptimo del artículo 25 de la Constitución Política de los Estados Unidos Mexicanos en lo concerniente al Sector Social de la Economía.
+La presente Ley es reglamentaria del párrafo octavo del artículo 25 de la Constitución Política de los Estados Unidos Mexicanos en lo concerniente al Sector Social de la Economía.
 
 La presente Ley es de orden público, interés social y de observancia general en todo el territorio nacional y se aplicará sin perjuicio de otras disposiciones que dicten los Poderes Ejecutivo y Legislativo Federal y de las Entidades Federativas, así como municipales, en el ámbito de sus respectivas competencias.
 
@@ -61,11 +65,11 @@ I. Establecer mecanismos para fomentar el desarrollo, fortalecimiento y visibili
 
 II. Definir las reglas para la promoción, fomento y fortalecimiento del Sector Social de la Economía, como un sistema eficaz que contribuya al desarrollo social y económico del país, a la generación de fuentes de trabajo digno, al fortalecimiento de la democracia, a la equitativa distribución del ingreso y a la mayor generación de patrimonio social.
 
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 3o.
 
-El Sector Social de la Economía es el sector de la economía a que hace mención el párrafo séptimo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, el cual funciona como un sistema socioeconómico creado por organismos de propiedad social, basados en relaciones de solidaridad, cooperación y reciprocidad, privilegiando al trabajo y al ser humano, conformados y administrados en forma asociativa, para satisfacer las necesidades de sus integrantes y comunidades donde se desarrollan, en concordancia con los términos que establece la presente Ley.
+El Sector Social de la Economía es el sector de la economía a que se refiere el párrafo octavo del artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, el cual funciona como un sistema socioeconómico creado por organismos de propiedad social, basados en relaciones de solidaridad, cooperación y reciprocidad, privilegiando al trabajo y al ser humano, conformados y administrados en forma asociativa, para satisfacer las necesidades de sus integrantes y comunidades donde se desarrollan, en concordancia con los términos que establece la presente Ley.
 
 ###### Artículo 4o.
 
@@ -93,7 +97,9 @@ I. Sector, el que se refiere en el artículo 3o. de la presente Ley;
 
 II. Organismos del Sector, a las organizaciones, empresas y sociedades del Sector Social de la Economía;
 
-III. Secretaría, a la Secretaría de Economía;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
+
+III. Secretaría, a la Secretaría de Desarrollo Social;
 
 IV. Instituto, al Instituto Nacional de la Economía Social;
 
@@ -127,9 +133,9 @@ XV. Organismos de integración y representación, en singular o plural, a organi
 
 XVI. Consejo, al Consejo Consultivo de Fomento a la Economía Social, y
 
-> <small>(ADICIONADA, D.O.F. 11 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
 
-XVII. Acuerdo, al Acuerdo de Organización y Funcionamiento del Instituto.
+XVII. Acuerdo, al Acuerdo de Organización y Funcionamiento del Instituto, que emita el titular de la Secretaría.
 
 ###### Artículo 6o.
 
@@ -269,27 +275,31 @@ II. En su caso la Legislación Civil Federal, y
 
 III. Los usos y prácticas imperantes entre los Organismos del Sector.
 
-El Ejecutivo Federal, a través de la Secretaría de Economía, interpretará para efectos administrativos los preceptos de la presente Ley.
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
+
+El Ejecutivo Federal, a través de la Secretaría, interpretará para efectos administrativos los preceptos de la presente Ley.
 
 ## TÍTULO II. DE LA ESTRUCTURA DEL SECTOR SOCIAL DE LA ECONOMÍA
 
 ### CAPÍTULO I. DEL INSTITUTO
 
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 13.
 
-Se crea el Instituto Nacional de la Economía Social como un órgano administrativo desconcentrado de la Secretaría de Economía, el cual contará con autonomía técnica, operativa y de gestión en los términos establecidos en esta Ley.
+Se crea el Instituto Nacional de la Economía Social como un órgano administrativo desconcentrado de la Secretaría, el cual contará con autonomía técnica, operativa y de gestión.
 
-El Instituto tiene como objeto instrumentar políticas públicas de fomento al sector social de la economía, con el fin de fortalecer y consolidar al sector como uno de los pilares de desarrollo económico del país, a través de la participación, capacitación, investigación, difusión y apoyo a proyectos productivos del sector.
+El Instituto tiene como objeto instrumentar, como parte de la Política Nacional de Desarrollo Social, las políticas públicas de fomento y desarrollo del sector social de la economía, con el fin de fortalecer y consolidar al Sector como uno de los pilares de desarrollo económico y social del país, a través de la participación, capacitación, investigación, difusión y apoyo a proyectos productivos del Sector.
 
-> <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2013)</small>
-
-La organización y funcionamiento del Instituto, además de lo previsto en la Ley, será determinada en términos del Acuerdo que al respecto emita el Secretario de Economía.
+La organización y funcionamiento del Instituto, además de lo previsto en esta Ley, será determinada en términos del Acuerdo.
 
 ###### Artículo 14.
 
 El Instituto tendrá como funciones las siguientes:
 
-I. Instrumentar la Política Nacional de Fomento y Desarrollo del Sector Social de la Economía;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
+
+I. Instrumentar, como parte de la Política Nacional de Desarrollo Social, la política de fomento y desarrollo del sector social de la economía;
 
 II. Propiciar condiciones favorables para el crecimiento y consolidación del Sector, mediante el establecimiento del Programa de Fomento a la Economía Social;
 
@@ -321,9 +331,9 @@ XI. Promover la creación de Organismos de Representación del Sector de conform
 
 XII. Promover y apoyar la creación de Organismos del Sector que se constituyan y operen conforme a las Leyes que regulan sus materias específicas, para la prestación de servicios financieros al mismo Sector;
 
-> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
 
-XIII. Difundir los valores, principios y fines del Sector, así como sus principales logros empresariales y asociativos, y las demás que se establezcan en el Acuerdo que emita el Secretario de Economía;
+XIII. Difundir los valores, principios y fines del Sector, así como sus principales logros empresariales y asociativos, y las demás que se establezcan en el Acuerdo;
 
 XIV. Elaborar y mantener actualizado el catálogo de los diferentes tipos de Organismos del Sector, teniendo en cuenta los principios, valores y fines establecidos en la presente Ley;
 
@@ -351,9 +361,9 @@ XX. Favorecer cadenas productivas de valor, locales, regionales, nacionales y gl
 
 XXI. El Instituto en materia de fomento, determinará las reglas, lineamientos y, en general, todo lo necesario a fin de garantizar el adecuado ejercicio de los recursos públicos, en la prestación de apoyos y estímulos a los organismos del sector, y
 
-> <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
 
-XXII. Las demás que señale el Acuerdo que emita el Secretario de Economía.
+XXII. Las demás que señale el Acuerdo.
 
 ###### Artículo 15.
 
@@ -373,7 +383,9 @@ Para la consecución de su objeto y para el ejercicio de sus atribuciones el Ins
 
 I. Un Consejo Consultivo;
 
-II. Un Director General, designado y removido libremente por el Titular del Ejecutivo Federal a propuesta del Secretario de Economía, y
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
+
+II. Un Director General, designado y removido libremente por el Titular del Ejecutivo Federal a propuesta del titular de la Secretaría, y
 
 III. Las instancias, unidades administrativas y servidores públicos necesarios para la consecución de su objeto.
 
@@ -389,7 +401,9 @@ I. Ejercer la representación legal del Instituto;
 
 II. Elaborar el programa anual de actividades del Instituto;
 
-III. Elaborar, proponer y someter a consideración del Secretario de Economía, para su aprobación, los programas y acciones de fomento a la actividad económica del Sector;
+> <small>(REFORMADA, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
+
+III. Elaborar, proponer y someter a consideración del titular de la Secretaría, para su aprobación, los programas y acciones de fomento y desarrollo a la actividad económica del Sector;
 
 > <small>(REFORMADA, D.O.F. 11 DE JUNIO DE 2013)</small>
 
@@ -399,11 +413,13 @@ IV. Presentar un informe anual de actividades a la Secretaría, y turnarlo a las
 
 V. Las demás que señale el Acuerdo del Instituto.
 
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 19.
 
-El Instituto contará con delegaciones en términos del Acuerdo que emita el Secretario de Economía.
+El Instituto contará con delegaciones en términos del Acuerdo.
+
+> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2013)</small>
 
 Los titulares de las delegaciones tendrán las atribuciones que determine el Acuerdo referido en el párrafo anterior.
 
@@ -421,11 +437,11 @@ Las relaciones laborales entre el Instituto y sus trabajadores, se regirán por 
 
 El Consejo es el órgano del Instituto de participación ciudadana y conformación plural, que tendrá por objeto analizar y proponer acciones que incidan en el cumplimiento del Programa de Fomento a la Economía Social.
 
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 22.
 
-La regulación del Consejo, se regirá en términos del Acuerdo que emita el Secretario de Economía, así como por sus Normas Internas de Funcionamiento.
+El Consejo se regirá en términos del Acuerdo, así como por sus Normas Internas de Funcionamiento.
 
 > <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2013)</small>
 
@@ -737,11 +753,11 @@ Para la evaluación se deberán incluir los indicadores de resultados, de gesti�
 
 El proceso de evaluación de la Política de Economía Social, se realizará cada tres años.
 
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 55.
 
-Los resultados de las evaluaciones serán entregados a la Secretaría de Economía, al Instituto, al Consejo Consultivo de Fomento, a la Comisión de Fomento Cooperativo y Economía Social de la Cámara de Diputados del Congreso de la Unión, a la Comisión de Fomento Económico de la Cámara de Senadores y puestos a disposición del público en general a través de las páginas Web de esas instancias.
+Los resultados de las evaluaciones serán entregados a la Secretaría, al Instituto y al Consejo, así como a las comisiones de Fomento Cooperativo y Economía Social y de Desarrollo Social de la Cámara de Diputados y a las comisiones de Fomento Económico y de Desarrollo Social de la Cámara de Senadores. Asimismo, los resultados de las evaluaciones serán puestos a disposición del público en general a través de las páginas web de dichas instancias públicas.
 
 ###### Artículo 56.
 
@@ -814,3 +830,27 @@ SEGUNDO. La integración del Consejo Consultivo se tendrá que realizar en un pl
 TERCERO. La Secretaría deberá expedir el Acuerdo a que se refiere esta Ley en un plazo no mayor a ciento ochenta días naturales, posteriores a la publicación del presente Decreto en el Diario Oficial de la Federación.
 
 CUARTO. En tanto la Secretaría no emita el Acuerdo a que se refiere esta Ley, el Instituto se regirá, en todo aquello que no la contravenga, de acuerdo con las disposiciones aplicables al momento de entrar en vigor este decreto.
+
+D.O.F. 30 DE DICIEMBRE DE 2015.
+
+Primero. El presente Decreto entrará en vigor el primero de enero del año dos mil dieciséis, sin perjuicio de lo señalado en las siguientes disposiciones transitorias.
+
+Segundo. El Ejecutivo Federal, a más tardar a los ciento veinte días naturales siguientes a la entrada en vigor del presente Decreto, deberá realizar las modificaciones a las disposiciones reglamentarias correspondientes.
+
+Tercero. El Acuerdo de organización y funcionamiento del Instituto Nacional de la Economía Social publicado el 22 de julio de 2013 en el Diario Oficial de la Federación, continuará aplicándose en lo que no se oponga a este Decreto, hasta que la Secretaría de Desarrollo Social emita el nuevo Acuerdo. En tanto ello sucede, dicha Secretaría resolverá respecto de aquello que no se encuentre previsto.
+
+Cuarto. Los oficiales mayores de la secretarías de Desarrollo Social y de Economía, con la participación que corresponda al Instituto Nacional de la Economía Social y el apoyo de la Secretaría de Hacienda y Crédito Público, realizarán todas las acciones administrativas para dar cumplimiento a lo establecido en el presente Decreto, mismas que deberán estar concluidas a más tardar en el plazo a que se refiere el transitorio Segundo de este Decreto.
+
+Quinto. Los derechos laborales de los trabajadores del Instituto Nacional de la Economía Social no se verán afectados con motivo de la entrada en vigor de este Decreto.
+
+En caso de que la Secretaría de Desarrollo Social determine, con base en las prioridades de gasto público del ejercicio fiscal de que se trate, así como en las necesidades y funciones del Instituto Nacional de la Economía Social, que se deben realizar modificaciones a la estructura orgánica de éste, los derechos laborales de los trabajadores deberán ser respetados conforme a la Ley.
+
+Sexto. En el plazo referido en el transitorio segundo de este Decreto, la Secretaría de Desarrollo Social emitirá las reglas de operación, que contendrán al menos lo siguiente:
+
+a) Para la consolidación empresarial y el desarrollo de organismos del sector social de la economía que cumplan con los requisitos establecidos en las propias reglas de operación recibirán los apoyos del Instituto.
+
+b) Los beneficiarios de los programas que actualmente opera la Secretaría correspondientes y que se incorporen a los programas operados por el Instituto, serán sujetos de las reglas de operación del programa de fomento a la economía social y deberán cumplir con los criterios vigentes de elegibilidad y requisitos para ser beneficiarios de los programas operados por el Instituto.
+
+c) Los mecanismos de evaluación y transparencia sobre los resultados de los programas a cargo del Instituto y el padrón de beneficiarios a través de las disposiciones aplicables.
+
+Con la finalidad de verificar el cumplimiento de las políticas públicas de fomento y apoyo, el Consejo Nacional de Evaluación de la Política de Desarrollo Social realizará la evaluación de los programas a cargo de la Secretaría de Desarrollo Social, y los remitirá a la Cámara de Diputados, en los términos que establece la Ley de la Economía Social y Solidaria Reglamentaria del párrafo octavo del Artículo 25 de la Constitución Política de los Estados Unidos Mexicanos, en lo referente al Sector Social de la Economía.
