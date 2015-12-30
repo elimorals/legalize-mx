@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-hacienda-del-estado-nuevo-leon-7748"
 country: "mx"
 rank: "ley"
 publication_date: "1974-12-28"
-last_updated: "2015-12-03"
+last_updated: "2015-12-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7748&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 LEY DE HACIENDA DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el sábado 28 de diciembre de 1974.
 
@@ -2873,9 +2873,13 @@ b) Por expedición de certificado de inscripción catastral, por predio ….. 2 
 
 V.- Por certificación de información catastral, actual o histórica, por lote o inmueble ..... 5 cuotas
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
-VI.- Por rectificación de medidas, por lote ….. 10 cuotas
+VI.- Por servicios relativos a la rectificación de medidas:
+
+a) Por rectificación de medidas, por lote ..... 10 cuotas
+
+b) Por análisis de rectificación de medidas georeferenciadas, por lote ..... 58 cuotas
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -2985,9 +2989,11 @@ b) Plano certificado de lote de terreno, indicando medidas, y ubicación, según
 
 XIII.- Por servicios de control vehicular, que se prestan:
 
+> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
 a) Por ingreso o refrendo anual en el padrón de vehículos de
 
-motor y remolques 22 cuotas
+motor y remolques 25 cuotas
 
 b) Por expedición o reposición de constancia de registro vehícular 5 cuotas
 
@@ -2995,13 +3001,11 @@ b) Por expedición o reposición de constancia de registro vehícular 5 cuotas
 
 XIV.- Por autorización y refrendo anual de placas de demostración 30 cuotas
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, P.O. 17 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
 
 XV.- Por expedición, reposición o canje de placas de vehículos de
 
-motor y remolques 5 cuotas
+motor y remolques 5.25 cuotas
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2005)</small>
 
@@ -3330,6 +3334,56 @@ d) Evaluación de la factibilidad de
 aprovechamiento de recursos minerales
 
 no reservados a la Federación 72 cuotas
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+VI. Certificación estatal de cumplimiento ambiental 15 cuotas
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+VII. Evaluación de Impacto Urbano Regional 375 cuotas
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+VIII. Evaluación de Congruencia en planes o programas de desarrollo urbano 375 cuotas
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+IX. Evaluación de Congruencia en planes o programas parciales de desarrollo urbano 187.50 cuotas
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+X. Evaluación de Medidas de Mitigación en zonas de riesgo para
+
+desarrollos en predios con superficie de hasta 499 metros
+
+cuadrados 34 cuotas
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XI. Evaluación de Medidas de Mitigación en zonas de riesgo para
+
+desarrollos en predios con superficie mayor a 499 y hasta 999
+
+metros cuadrados 187.50 cuotas
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XII. Evaluación de Medidas de Mitigación en zonas de riesgo
+
+para multifamiliares u otros desarrollos con superficie mayor
+
+a 999 metros cuadrados 375 cuotas
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XIII. Asistencia Técnica del Centro de Colaboración
+
+Geoespacial 187.50 cuotas
+
+> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2015)</small>
+
+XIV. Asistencia Técnica para trámites urbanísticos 34 cuotas
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 1993)</small>
 
@@ -4258,3 +4312,9 @@ Sexto.- El Titular del Ejecutivo del Estado incluirá, en su iniciativa de Ley d
 Séptimo.- El Titular del Ejecutivo del Estado, deberá implementar esquemas que incentiven el pago de las contribuciones adeudadas de este impuesto.
 
 Octavo.- El H. Congreso del Estado, deberá aprobar las reformas complementarias a los ordenamientos legales que se estimen pertinentes, en un plazo que no exceda de 120 días hábiles posteriores a la publicación del presente Decreto.
+
+P.O. 30 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 065. SE REFORMA EL ARTÍCULO 276, EN SUS FRACCIONES VI; XIII, INCISO A) Y XV; SE ADICIONA EN SU ARTÍCULO 276 BIS, CON LAS FRACCIONES DE LA VI A LA XIV; TODOS DE LA LEY DE HACIENDA DEL ESTADO DE NUEVO LEÓN".]
+
+Único.- El presente Decreto entrará en vigor el día 1° de enero del año 2016.
