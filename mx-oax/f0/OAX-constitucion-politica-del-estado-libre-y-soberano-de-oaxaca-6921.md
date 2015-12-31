@@ -4,7 +4,7 @@ identifier: "OAX-constitucion-politica-del-estado-libre-y-soberano-de-oaxaca-692
 country: "mx"
 rank: "constitucion"
 publication_date: "1922-04-04"
-last_updated: "2015-06-30"
+last_updated: "2015-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6921&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Constitución promulgada por bando solemne, el martes 4 de abril de 1922.
 
@@ -1677,9 +1677,13 @@ XXIII. Coordinar y evaluar, sin perjuicio de la autonomía técnica y de gestió
 
 XXIV. Legislar acerca de la administración, conservación y enajenación de los bienes del Estado, y de la inversión de los capitales que a éste pertenezcan;
 
-> <small>(REFORMADA, P.O. 8 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-XXV. Dar bases generales conforme a las cuales el Ejecutivo puede concertar empréstitos interiores y aprobar estos empréstitos;
+XXV. Autorizar por el voto de las dos terceras partes de sus miembros presentes, los montos máximos para contraer obligaciones o empréstitos cuando se destinen a inversiones público productivas y a su refinanciamiento o reestructura, mismas que deberán realizarse bajo las mejores condiciones del mercado, previo análisis de su destino, capacidad de pago y, en su caso, el otorgamiento de garantía o el establecimiento de la fuente de pago.
+
+Sin perjuicio de lo anterior, el Estado y Municipios podrán contraer obligaciones para cubrir sus necesidades de corto plazo, sin rebasar los límites máximos y condiciones que establezca la legislación general aplicable. Las obligaciones a corto plazo, deberán liquidarse a más tardar tres meses antes del término del periodo de gobierno correspondiente y no podrán contratarse nuevas obligaciones durante los últimos tres meses.
+
+En ningún caso podrán destinarse empréstitos para cubrir gasto corriente.
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE FEBRERO DE 2013)</small>
 
@@ -1849,7 +1853,7 @@ LXIV. Decretar amnistías cuando se trate de delitos de la competencia de los tr
 
 > <small>(REFORMADA, P.O. 20 DE MARZO DE 2004)</small>
 
-LXV. Autorizar el Plan Estatal de Desarrollo; y (sic)
+LXV. Autorizar el Plan Estatal de Desarrollo; y
 
 > <small>(REFORMADA, P.O. 15 DE ABRIL DE 2011)</small>
 
@@ -2011,9 +2015,13 @@ IV. Derivado de sus investigaciones promover los procedimientos de responsabilid
 
 V. Entregar al Congreso del Estado, los informes de resultados de la revisión de la Cuenta Pública de los poderes del Estado, órganos autónomos y municipios, así como de la revisión y fiscalización practicada a los informes periódicos que le presenten los entes fiscalizables del Estado, en los plazos y con las modalidades que la ley señale.
 
-> <small>(ADICIONADA, P.O. 15 DE ABRIL DE 2011)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-VI. Iniciar leyes en las materias de su competencia, imponer las sanciones administrativas que la Ley establezca y, en su caso, ordenar procedimientos ante la autoridad competente.
+VI. Iniciar leyes en las materias de su competencia, imponer las sanciones administrativas que la Ley establezca y, en su caso, ordenar procedimientos ante la autoridad competente, y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+VII. Fiscalizar las acciones del Estado y Municipios, en materia de deuda pública.
 
 > <small>(ADICIONADO, P.O. 18 DE ABRIL DE 2008)</small>
 
@@ -2247,9 +2255,9 @@ XVVI (SIC). Representar al Estado en las comisiones federales y en las comisione
 
 XVII. Ejercer actos de dominio sobre el patrimonio del Estado en los términos de esta Constitución;
 
-> <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1990)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-XVIII. Contratar empréstitos para inversiones públicas productivas con la aprobación del Congreso;
+XVIII. Contratar obligaciones o empréstitos, en los términos del artículo 59 fracción XXV de esta Constitución.
 
 > <small>(ADICIONADA, P.O. 29 DE OCTUBRE DE 1990)</small>
 
@@ -3363,11 +3371,9 @@ Para los efectos de las responsabilidades a que alude este título se reputarán
 
 El Gobernador del Estado, para los efectos de este Título, sólo es responsable por delitos graves del orden común y por violación expresa del Artículo 81 de esta Constitución sin perjuicio de la responsabilidad política que se consigna en los términos del Artículo 110 de la Constitución Federal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULOS TRANSITORIOS PRIMERO Y SEXTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2015)</small>
-
-Los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo y de Cuentas; Consejeros de la Judicatura; los Titulares de las Secretarías y de los órganos autónomos nombrados por el congreso y el Fiscal General del Estado de Oaxaca, son responsables por violaciones a la Constitución Política de los Estados Unidos Mexicanos y a las leyes federales, a esta Constitución y a las leyes que de ellas emanen, así como por el manejo indebido de fondos y recursos del Estado.
+Los Diputados al Congreso del Estado, los Magistrados del Tribunal Superior de Justicia y del Tribunal de lo Contencioso Administrativo y de Cuentas, Consejeros de la Judicatura; los Titulares de las Secretarías y de los órganos autónomos nombrados por el Congreso y el Fiscal General del Estado de Oaxaca, son responsables por violaciones a la Constitución Política de los Estados Unidos Mexicanos y a las leyes generales y federales, a esta Constitución y a las leyes que de ellas emanen, así como por el manejo indebido de fondos, recursos del Estado y deuda pública.
 
 > <small>(ADICIONADO, P.O. 30 DE JUNIO DE 2015)</small>
 
@@ -4755,6 +4761,16 @@ VIGESIMO SEXTO. En tanto el Congreso del Estado no emita la Ley a la que hace re
 
 Los asuntos que se encuentren en trámite al momento de realizar la transferencia de funciones y de personal serán resueltos hasta su conclusión por el órgano que inicio dicho procedimiento.
 
-VIGESIMO SEPTIMO. Para los efectos de cumplir con el mandato del artículo 111, los Tribunales de lo Contencioso Administrativo y de Fiscalización se fusionarán para crear el Tribunal de lo Contencioso Administrativo y de Cuentas. El Pleno del Tribunal Superior de Justicia, determinara la nueva adscripción de los actuales Magistrados del Tribunal de Fiscalización del Poder Judicial del Estado y el Consejo de la Judicatura decretará los mecanismos de transferencia del personal, así como los recursos humanos, materiales y financieros de ambos tribunales hacia el nuevo órgano jurisdiccional.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+VIGESIMO SEPTIMO. Para los efectos de cumplir con el mandato del artículo 111, los Tribunales de lo Contencioso Administrativo y de Fiscalización se fusionarán para crear el Tribunal de lo Contencioso Administrativo y de Cuentas. El Consejo de la Judicatura, determinará la nueva adscripción de los actuales Magistrados del Tribunal de Fiscalización y Contencioso Administrativo del Poder Judicial del Estado, el Consejo de la Judicatura decretará los mecanismos de transferencia del personal, así como los recursos humanos, materiales y financieros de ambos tribunales hacia el nuevo órgano jurisdiccional.
 
 VIGESIMO OCTAVO. Los Magistrados en funciones de los Tribunales de lo Contencioso Administrativo y de Fiscalización conformarán el Tribunal de lo Contencioso Administrativo y de Cuentas, por el tiempo para el cual fueron electos. Los presidentes de dichos tribunales integrarán la Sala Superior del Tribunal de lo Contencioso Administrativo y de Cuentas.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1384.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el día de su publicación.
+
+SEGUNDO. El artículo 59 fracción XXV del presente Decreto entrará en vigor el uno de enero de dos mil dieciséis, previa publicación en el Órgano de difusión oficial del Estado.
