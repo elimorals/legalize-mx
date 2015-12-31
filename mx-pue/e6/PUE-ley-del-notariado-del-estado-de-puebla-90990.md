@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-notariado-del-estado-de-puebla-90990"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-31"
-last_updated: "2012-12-31"
+last_updated: "2015-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90990&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 LEY DEL NOTARIADO DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO NOVENO TRANSITORIO DE LA LEY DEL NOTARIADO DEL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE 31 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en la Novena Sección del Periódico Oficial del Estado de Puebla, el lunes 31 de diciembre de 2012.
 
@@ -1804,3 +1806,29 @@ OCTAVO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
 EL GOBERNADOR, hará publicar y cumplir la presente disposición. Dada en el Palacio del Poder Legislativo, en la Heroica Ciudad de Puebla de Zaragoza, a los once días del mes de diciembre de dos mil doce.- Diputado Presidente.- ENRIQUE NACER HERNÁNDEZ.- Rúbrica.- Diputado Vicepresidente.- RAMÓN FELIPE LÓPEZ CAMPOS.- Rúbrica.- Diputado Secretario.- JESÚS SALVADOR ZALDÍVAR BENAVIDES.- Rúbrica.- Diputado Secretario.- ALEJANDRO OAXACA CARREÓN.- Rúbrica.
 
 Por lo tanto mando se imprima, publique y circule para sus efectos. Dado en el Palacio del Poder Ejecutivo, en la Heroica Puebla de Zaragoza, a los doce días del mes de diciembre de dos mil doce.- El Gobernador Constitucional del Estado.- C. RAFAEL MORENO VALLE ROSAS.- Rúbrica.- El Secretario General de Gobierno.- C. FERNANDO LUIS MANZANILLA PRIETO.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE EXPIDE LA LEY DEL NOTARIADO DEL ESTADO DE PUEBLA; ASÍ COMO REFORMA EL ARTÍCULO 784 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. La presente Ley y decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Consejo de Notarios deberá emitir el Código de Ética al que se refiere esta Ley, dentro de los cuarenta y cinco días hábiles siguientes de la entrada en vigor de la presente Ley.
+
+TERCERO. El Consejo de Notarios presentará la propuesta de arancel correspondiente, dentro de los cinco días hábiles siguientes a la entrada en vigor de la presente Ley, a la que anexará las consideraciones que sustenten su propuesta. De no presentarlo en este plazo, el Poder Ejecutivo del Estado lo emitirá sin la opinión del Consejo de Notarios.
+
+CUARTO. La digitalización o escaneo de los instrumentos a que se refiere esta Ley, versará sobre los que se otorguen a partir de la entrada en vigor de la misma.
+
+QUINTO. Se respetan los derechos adquiridos por los particulares y Notarios Titulares, Auxiliares, Suplentes y Asociados, durante la vigencia de las leyes del Notariado anteriores a ésta.
+
+SEXTO. El Consejo de Notarios deberá presentar a la Secretaría General de Gobierno el calendario respectivo para atender programas de atención ciudadana en juntas auxiliares y zonas marginadas, dentro de los cinco días hábiles siguientes a la entrada en vigor de la presente.
+
+SÉPTIMO. Queda prohibido a los Notarios protocolizar contratos privados traslativos de dominio de bienes inmuebles que hubieren sido firmados antes de la entrada en vigor de esta Ley, con excepción de los casos previstos en esta Ley o aquéllos en que así lo ordene la autoridad judicial.
+
+OCTAVO. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+NOVENO. Se abroga la Ley del Notariado del Estado de Puebla, publicada en el Periódico Oficial del Estado el treinta y uno de diciembre de dos mil doce, 9ª sección.
+
+DÉCIMO. Todos los asuntos pendientes de trámite, se concluirán con la Ley del Notariado vigente al momento de su sustanciación.
