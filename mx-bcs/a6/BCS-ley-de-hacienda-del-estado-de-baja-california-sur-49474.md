@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-hacienda-del-estado-de-baja-california-sur-49474"
 country: "mx"
 rank: "ley"
 publication_date: "2006-02-21"
-last_updated: "2012-09-30"
+last_updated: "2015-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=49474&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY DE HACIENDA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 30 DE SEPTIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el martes 21 de febrero de 2006.
 
@@ -515,17 +515,19 @@ II. Instituciones de asistencia y beneficencia privadas.
 
 Para los efectos de la Fracción II de este artículo, se consideran instituciones de asistencia y beneficencia privadas, aquéllas que cuenten con constancia que las acredite como tales, expedida por la autoridad estatal competente y siempre que no se trate de organismos descentralizados de la administración pública federal, estatal o municipal, ni reciban subsidios, donativos o recursos de alguna otra forma provenientes de la administración pública del Estado o de sus municipios.
 
-> <small>(REFORMADO, B.O. 11 DE MARZO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 40.
 
-Los ingresos recaudados por el Impuesto Sobre Nóminas se destinarán íntegramente a la realización de inversiones públicas productivas y su distribución se realizará de la manera siguiente:
+Los ingresos recaudados por el Impuesto Sobre Nóminas que se entreguen al Gobierno del Estado, se destinarán íntegramente a la realización de inversiones públicas productivas; en el caso de los Municipios, se estará a lo dispuesto en la fracción II del presente artículo. Su distribución se realizará de la manera siguiente:
+
+> <small>(REFORMADA, B.O. 11 DE MARZO DE 2008)</small>
 
 I. El 62.4% de estos recursos se entregarán al Gobierno del Estado para su aplicación conforme los mecanismos que el mismo acuerde;
 
-(REFORMADO, B.O. 31 DE DICIEMBRE DE 2009) (F. DE E., B.O. 10 DE SEPTIEMBRE DE 2010)
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2015)</small>
 
-II.- El 37.6 % restante se distribuirá entre los municipios del Estado conforme a los porcentajes establecidos en el artículo 6 de la ley de Coordinación Fiscal del Estado de Baja California Sur. El 53.2% de estos recursos será depositado directamente por la Secretaría de Finanzas del Gobierno del Estado al patrimonio del Fideicomiso para Obras de Infraestructura Social constituido en cada municipio; el· 46.8% restante lo recibirá cada municipio y podrá ejercerlo de manera directa en obras de infraestructura social o depositarlo en citado fideicomiso.
+II. El 37.6% restante se distribuirá entre los Municipios del Estado conforme a los porcentajes establecidos en el artículo 6 de la Ley de Coordinación Fiscal del Estado de Baja California Sur. El 53.2% de estos recursos será depositado directamente por la Secretaría de Finanzas del Gobierno del Estado al patrimonio del Fideicomiso para Obras de Infraestructura Social constituido en cada municipio; el 46.8% restante lo recibirá cada municipio y podrá ejercerlo de manera directa en obras de infraestructura social y/o al pago de alumbrado público.
 
 > <small>(DEROGADO CON LAS SECCIONES Y ARTÍCULOS QUE LO INTEGRAN, B.O. 28 DE FEBRERO DE 2006)</small>
 
@@ -1218,3 +1220,11 @@ B.O. 10 DE FEBRERO DE 2012.
 B.O. 30 DE SEPTIEMBRE DE 2012.
 
 ÚNICO.- El presente Decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 2323.- SE REFORMA EL PÁRRAFO ÚNICO Y LA FRACCIÓN II DEL ARTÍCULO 40 DE LA LEY DE HACIENDA; Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 14 DE LA LEY DE COORDINACIÓN FISCAL, AMBAS DEL ESTADO DE BAJA CALIFORNIA SUR".]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
