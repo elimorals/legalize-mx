@@ -4,7 +4,7 @@ identifier: "CHP-codigo-de-atencion-a-la-familia-y-grupos-vulnerables-para-50467
 country: "mx"
 rank: "codigo"
 publication_date: "2006-05-02"
-last_updated: "2015-09-21"
+last_updated: "2015-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50467&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO DE ATENCIÓN A LA FAMILIA Y GRUPOS VULNERABLES PARA EL ESTADO LIBRE Y SOBERANO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Código publicado en el Periódico Oficial del Estado de Chiapas, el martes 2 de mayo de 2006.
 
@@ -1767,721 +1767,389 @@ IV. Desarrollar programas que impulsen una cultura de paz, a través de la promo
 
 (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY PARA LA INCLUSIÓN DE LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE CHIAPAS, P.O. 21 DE SEPTIEMBRE DE 2015)
 
+> <small>(DEROGADO CON LOS TÍTULOS, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS , P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 # Libro Quinto. De los Derechos de las Personas Adultas Mayores en el Estado
 
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS , P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ## Título Primero. Disposiciones Generales
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS , P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ### Capítulo Único. Generalidades
 
 ###### Artículo 230.
 
-El presente Código tiene por objeto proteger y reconocer los derechos de las personas adultas mayores de 60 años en adelante, sin distinción alguna, para propiciarle una mejor calidad de vida y su plena integración al desarrollo humano, comunitario, social, económico, político y cultural.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 231.
 
-La aplicación y seguimiento del presente Código, estará a cargo de:
-
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
-
-I. El Poder Ejecutivo Estatal, a través de la Secretaría de Desarrollo y Participación Social.
-
-II. Las diferentes Dependencias y Entidades del Estado, así como los municipios, en el ámbito de su respectiva competencia y jurisdicción.
-
-III. La familia del adulto mayor vinculada por el parentesco, de conformidad con lo dispuesto por el Código Civil del Estado; y,
-
-IV. Los ciudadanos y la sociedad civil organizada, cualquiera que sea su forma o denominación.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 232.
 
-Las autoridades referidas en el artículo anterior, así como las instituciones privadas de educación, salud, cultura, recreación y deporte, deben brindar facilidades para que toda la población de Adultos Mayores, tenga acceso a los servicios que prestan, promoviendo e impulsando su independencia y participación dentro de la sociedad, a fin de lograr en los ellos, su dignidad y plenitud humana.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 233.
 
-El Ejecutivo del Estado, en coordinación con los gobiernos municipales, organizará, operará, supervisará y evaluará la prestación de los servicios básicos de salud a los Adultos Mayores, que proporcionen las dependencias y entidades de la Administración Pública Estatal y por personas físicas o morales de los sectores social y privado.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
-
-Para lo cual el Ejecutivo del Estado, a través de la Secretaría de Desarrollo y Participación Social, tendrá las siguientes atribuciones:
-
-a) Procurar asistencia técnica y financiera a instituciones y organismos públicos cuyos objetivos sean afines a los del presente Código;
-
-b) Desarrollar en forma coordinada con los municipios, programas de apoyo financiero y social; y,
-
-c) Fomentar la participación, así como apoyar la actividad de las organizaciones privadas que orienten sus acciones a favor de los Adultos Mayores, a través de apoyos técnicos, humanos, laborales y de servicios.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 234.
 
-Las dependencias estatales y municipales dentro de sus planes, proyectos y programas que lleven a cabo, deberán incluir de manera expresa el apoyo a los adultos mayores.
-
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 235.
 
-Corresponderá al DIF-Chiapas, promover la interrelación sistemática de acciones en favor de los adultos mayores que llevan a cabo las Instituciones Públicas, además de operar programas que trasciendan en el desarrollo humano de los adultos mayores.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 236.
 
-El Ejecutivo del Estado, a través de la Secretaría de Desarrollo y Participación Social y el DIF Chiapas, promoverá, ejecutará y coordinará con la Federación y los Municipios; convenios de colaboración, para que las instituciones públicas de salud y asistencia social implementen programas preventivos hacia la vejez, brinden información gerontológico disponible en los ámbitos médico, socioeconómico, jurídico y demás relativos, con el objeto de incrementar la cultura de los adultos mayores.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
+
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS , P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ## Título Segundo. De los Principios y Derechos
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS , P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ### Capítulo I. De los Principios
 
 ###### Artículo 237.
 
-Son principios rectores en la observación y aplicación de este Código:
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
-I. Autonomía y Autorrealización: Comprende todas aquellas acciones que se realicen en beneficio de los adultos mayores, tendientes a fortalecer su independencia personal, su capacidad de decisión, así como su desarrollo personal y comunitario;
-
-II. Participación: La intervención de los adultos mayores en todos los órdenes de la vida pública y en especial, en lo relativo a los aspectos que les atañen directamente, deberán ser consultados y tomados en cuenta; asimismo se promoverá su presencia e intervención;
-
-III. Equidad: Consiste en el trato justo y proporcional en las condiciones de acceso y disfrute de los satisfactores necesarios para el bienestar de los adultos mayores, sin distinción de sexo, situación económica, raza, identidad étnica, credo, religión o cualquier otra circunstancia;
-
-IV. Corresponsabilidad: La concurrencia de los sectores público y social y en especial de las comunidades y familias, como una actitud de responsabilidad compartida, para la consecución del objeto de este Código; y,
-
-V. Atención Preferente: Es aquella que obliga a los Órganos Estatales y Municipales de Gobierno, a implementar programas acordes a las diferentes etapas, características y circunstancias de los adultos mayores.
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS , P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ### Capítulo II. De los Derechos
 
 ###### Artículo 238.
 
-De manera enunciativa, este Código reconoce a los adultos mayores los siguientes derechos:
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
-I. De la integridad y dignidad:
-
-a) A la vida con calidad, siendo obligación de la familia, de los Órganos de Gobierno Estatales y Municipales, así como de la sociedad, garantizar a los adultos mayores, el acceso a los programas que tengan por objeto posibilitar el ejercicio de este derecho;
-
-b) A la no discriminación y al disfrute pleno, sin distinción alguna, de los derechos que este Código y otras disposiciones consagran;
-
-c) A una vida libre de violencia;
-
-d) A ser respetados en su persona, en su integridad física, psicoemocional y sexual;
-
-e) A ser protegidos contra toda forma de explotación y malos tratos físicos y mentales;
-
-f) A recibir protección por parte de su familia, Órganos de Gobierno Estatales, Municipales y de la Sociedad;
-
-g) A gozar de oportunidades por parte de las instituciones públicas y privadas;
-
-h) A vivir en entornos seguros, dignos y decorosos, que cumplan con sus necesidades y requerimientos y en donde ejerzan libremente sus derechos;
-
-i) Ser respetados y reconocidos en su calidad de seres humanos hombres y mujeres, como dignos adultos mayores, cualesquiera que sea su origen étnico o racial, impedimentos o situaciones de cualquier tipo; y,
-
-j) Vivir con honorabilidad en sus hogares y cerca de sus familiares hasta el último momento de su existencia, a menos que medie causa de enfermedad grave, contagiosa o mental que requiera su internamiento en instituciones especializadas; o bien que sus descendientes o parientes colaterales hasta el cuarto grado se vean imposibilitados para ofrecerles el cuidado y atención necesaria que los adultos mayores requieren.
-
-II. De la certeza jurídica y familiar:
-
-a) A vivir en el seno de una familia, o a mantener relaciones personales y contacto directo con ella, aún en el caso de estar separados, salvo si ello es contrario a sus intereses;
-
-b) A expresar su opinión libremente, conocer sus derechos y a participar en el ámbito familiar y comunitario, así como en todo procedimiento administrativo o judicial, que afecte sus esferas personal, familiar y social;
-
-c) A recibir un trato digno y apropiado cuando sean víctimas, o ellos mismos cometan cualquier tipo de ilícito o infracción;
-
-d) A recibir el apoyo de las Instituciones Estatales y Municipales en el ejercicio y respeto de sus derechos;
-
-e) A contar con asesoría jurídica gratuita cuando lo considere necesario, poniendo especial cuidado en la protección de su integridad física y de su patrimonio personal y familiar;
-
-f) Disfrutar de sus derechos humanos y libertades fundamentales, cuando residan en hogares o en instituciones donde se les brinde cuidados o tratamiento con pleno respeto a su dignidad, creencias, necesidades e intimidad, así como de su derecho a adoptar decisiones sobre su cuidado y calidad de vida.
-
-III. De la salud y alimentación:
-
-a) A tener acceso a los satisfactores necesarios, considerando alimentos, bienes, servicios y condiciones humanas o materiales, para su atención integral;
-
-b) A tener acceso a los servicios de salud, en los términos del párrafo tercero del Artículo cuarto constitucional, así como de conformidad con la Ley de Salud del Estado de Chiapas, con el objeto de que gocen cabalmente de bienestar físico, mental, psicoemocional y sexual, para obtener mejoramiento en su calidad de vida y la prolongación de esta;
-
-c) A recibir orientación y capacitación en materia de salud, nutrición e higiene, así como a todo aquello que favorezca su cuidado personal;
-
-d) Gozar de calidad en la atención especializada en gerontología y geriatría en los diversos niveles del sector salud; y,
-
-e) Gozar de atención médica en los Centros o Servicios Públicos de Prevención y Atención de la Salud, en forma inmediata.
-
-El Instituto de Salud del Estado de Chiapas, velará porque se verifique el derecho al disfrute de la salud de los adultos mayores, su acceso a los servicios de prevención y tratamiento de las enfermedades, así como su rehabilitación.
-
-IV. De la educación, recreación, información y participación:
-
-a) De asociarse, reunirse y conformar organizaciones de adultos mayores, para promover su desarrollo e incidir en las acciones dirigidas a este sector;
-
-b) A recibir información sobre las instituciones que prestan servicios para su atención integral;
-
-c) A tener acceso a la creación, producción y difusión de libros, publicaciones, obras artísticas y producciones audiovisuales, radiofónicas y multimedia, en los que se promuevan sus derechos y deberes;
-
-d) A que se establezcan políticas y acciones pertinentes para facilitar a los adultos mayores, los espacios adecuados que les permitan ejercer derechos recreativos y culturales. Los campos deportivos, gimnasios y la infraestructura oficial adecuada para la práctica del deporte o actividades recreativas, estarán a disposición de ese grupo en condiciones de igualdad, y de acuerdo con las reglamentaciones que se emitan;
-
-e) A recibir educación conforme lo señala el Artículo tercero de la Constitución Política de los Estados Unidos Mexicanos;
-
-f) A participar en la vida cultural, deportiva y recreativa de su comunidad;
-
-g) A participar en los procesos productivos, de educación y capacitación de su comunidad; y,
-
-h) A formar parte de los diversos órganos de representación y consulta ciudadana.
-
-V. Del trabajo:
-
-a) A gozar de oportunidades de acceso al trabajo o de otras posibilidades de obtener un ingreso propio, así como a recibir una capacitación adecuada; y,
-
-b) A participar en la bolsa de trabajo de las instituciones públicas o privadas para transmitir sus conocimientos, sabiduría y experiencia a la comunidad, independientemente de su condición de jubilado, pensionado, desempleado o estado en que se encuentre.
-
-VI. De la denuncia popular:
-
-Toda persona, grupo social, organizaciones no gubernamentales, asociaciones o sociedades, podrán denunciar ante los órganos competentes, todo hecho, acto u omisión que se produzca o pueda producir daño o afectación a los derechos y garantías que establece el presente Código, o que contravenga cualquier otra de sus disposiciones o de los demás ordenamientos que regulen materias relacionadas con los adultos mayores.
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS , P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ## Título Tercero. De las Obligaciones de la Familia y la Sociedad
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS , P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ### Capítulo Único. Disposiciones Generales
 
 ###### Artículo 239.
 
-la familia del adulto mayor deberá cumplir su función social, por lo tanto, de manera constante y permanente deberá hacerse cargo de cada una de las personas adultas mayores que formen parte de ella, conociendo sus necesidades, proporcionándoles los elementos necesarios para su atención integral.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 240.
 
-El lugar ideal para que el adulto mayor permanezca es su hogar, y sólo en caso de enfermedad, decisión personal o causas de fuerza mayor, podrá solicitar su ingreso en alguna institución asistencial pública o privada dedicada al cuidado de adultos mayores.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 241.
 
-Los familiares de los adultos mayores, cualquiera que sea el nexo consanguíneo que los una, deberán proporcionarles hogar y protección permanente, suministro oportuno de alimentos, vestido, atención médica y medicamentos, así como contribuir a la satisfacción de sus necesidades humanas de fortalecimiento de lazos afectivos y espirituales.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 242.
 
-la familia tendrá las siguientes obligaciones:
-
-I. Otorgar alimentos, de conformidad con lo establecido en el Código Civil del Estado;
-
-II. Fomentar la convivencia familiar cotidiana, donde el adulto mayor participe activamente, y promover al mismo tiempo los valores que incidan en sus necesidades afectivas, de protección y de apoyo;
-
-III. Conocer los derechos de los adultos mayores, previstos en el presente Código, así como los que se encuentran contemplados en nuestra Constitución y demás ordenamientos para su debida observancia; y,
-
-IV. Evitar que alguno de sus integrantes, cometa cualquier acto de discriminación, abuso, explotación, aislamiento, violencia o actos jurídicos que pongan en riesgo su persona, bienes y derechos.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 243.
 
-Será obligación de sus descendientes, representantes legales o las personas encargadas de ellos, cumplir con las instrucciones y los controles médicos que se prescriban para velar por la salud de adultos mayores bajo su cuidado, además, serán responsables de dar el uso correcto a los alimentos que ellas reciban como suplemento nutritivo de la dieta.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 244.
 
-Los adultos mayores tendrán derecho a ser cuidados por sus descendientes, así como a permanecer en su hogar, del cual no podrán ser expulsadas ni impedidas de regresar a él.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 245.
 
-Los adultos mayores tendrán derecho a permanecer en el seno de una familia, siempre que se les asegure la convivencia familiar y comunitaria. Cuando el cumplimiento de éste derecho peligre por razones socioeconómicas, ambientales y de salud, las instituciones públicas competentes procurarán las oportunidades que se requieran para superar la problemática familiar, así como la capacitación y orientación de los descendientes.
-
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 246.
 
-Los adultos mayores no podrán ser separados de su familia, salvo en circunstancias especiales determinadas por la Ley. En este caso, tendrán derecho a la protección y asistencia jurídica por parte del DIF-Chiapas.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 247.
 
-La medida cautelar administrativa de protección, tendiente a remover temporalmente del seno familiar a la persona adulta mayor, sólo se aplicará, cuando la conducta que la originó sea atribuible a alguien que conviva con ella y no exista otra alternativa.
-
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
-
-Si no existiera otra alternativa que remover de la casa al adulto mayor para su ubicación temporal, deberán tenerse en cuenta, en primer término, a la familia en línea descendiente o colateral; o con las personas con quienes mantenga lazos afectivos. Agotados estos recursos, se procederá a ubicarlo en los programas que para este efecto promueva y gestionen las Entidades facultadas para realizarlo, o en su caso, en la casa hogar del DIF-Chiapas.
-
-Siempre deberá informarse al adulto mayor, en forma adecuada, sobre los motivos que justifican la aplicación de la medida cautelar y se escuchará su opinión.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 248.
 
-Los adultos mayores que no vivan con su familia, tienen derecho a tener contacto con su círculo familiar y afectivo, tomando en cuenta su interés personal en esta decisión.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 249.
 
-El derecho a recibir alimentos se garantiza en los términos previstos en el Código Civil vigente en el Estado. Extraordinariamente, la prestación alimentaría comprenderá, además, el pago de lo siguiente:
-
-I. Gastos médicos extraordinarios, de necesidad notoria y urgente;
-
-II. Suministro de los medicamentos que requiera para su salud;
-
-III. Gastos por terapia o atención especializada, en gerontología, geriatría y psicogerontología; y,
-
-IV. Gastos funerarios.
-
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 250.
 
-Si el obligado preferente se ausentara, sufriera incapacidad temporal o imposibilidad del hecho para cumplir con el deber de brindar alimentos a un adulto mayor, el Estado le procurará brindar supletoriamente los alimentos por medio de la incorporación de éstas a procesos de promoción social y desarrollo humano, mediante programas institucionales en los que de acuerdo con su situación particular, intervendrá el DIF-Chiapas, gestionando su incorporación a las estancias para personas adultas mayores.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 251.
 
-Cuando los familiares ejerzan sobre las personas adultas mayores abusos físicos y psicológicos, negligencia en el cuidado, trato vejatorio y discriminatorio, o violen sus derechos, serán sancionados conforme al presente Código y demás relativas.
-
-De igual forma se sancionará a los ciudadanos en general o instituciones lucrativas o no, públicas o privadas que comentan las conductas mencionadas en el párrafo anterior.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 252.
 
-Corresponde a los grupos de la sociedad civil organizada de adultos mayores, participar de manera coordinada y concertada con el Consejo para la Integración de las Personas Adultas Mayores del Estado de Chiapas y con el Centro Gerontológico, así como respetar los programas de apoyo a favor de ellos mismos.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 253.
 
-Los descendientes o el encargado del adulto mayor, estarán obligados a velar por su estado físico, intelectual, moral, afectivo, espiritual y social.
-
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 254.
 
-Cuando los descendientes descuiden o abandonen a una persona adulta mayor, el DIF-Chiapas denunciará esta situación al Fiscal del Ministerio Público, quien realizará las investigaciones correspondientes; en caso de abandono, el representante social solicitará al DIF-Chiapas, en auxilio de sus funciones, se ingrese al adulto mayor a un centro asistencial.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 255.
 
-La Secretaría de Desarrollo y Participación Social en coordinación con el DIF Chiapas, deberá tomar las medidas de prevención o provisión para que la familia participe en la atención de las personas adultas mayores en situación de riesgo o desamparo.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
+
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS , P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ## Título Cuarto. De las Facultades y Obligaciones de las Autoridades
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS , P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ### Capítulo I. Disposiciones Generales
 
 ###### Artículo 256.
 
-El Poder Ejecutivo del Estado, impulsará los servicios de salud, educación, nutrición, vivienda, desarrollo integral y seguridad social a los adultos mayores; en tal virtud y sin perjuicio de lo previsto en otras disposiciones legales, las Dependencias y Entidades de la Administración Pública Estatal, deberán ejercer las facultades y cumplir con las obligaciones previstas en el presente Título.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS , P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ### Capítulo II. Del Poder Ejecutivo
 
 ###### Artículo 257.
 
-Corresponde al Titular del Poder Ejecutivo, a través de las Dependencias y Entidades de la Administración Pública Estatal, observar y realizar los fines del presente Código:
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
-I. Realizar, promover y alentar los programas de asistencia, protección, provisión, prevención, participación y atención;
-
-II. Concertar con los Municipios, los convenios que se requieran, para la realización de programas de defensa y representación jurídica;
-
-III. Concertar la participación de los sectores social y privado en la planeación y ejecución de programas;
-
-IV. Coordinar las acciones y promover medidas de financiamiento para la creación y funcionamiento de instituciones y servicios para garantizar sus derechos;
-
-V. Fomentar e impulsar la atención integral;
-
-VI. Promover, fomentar, difundir y defender el ejercicio de sus derechos, así como las obligaciones de los responsables de estos;
-
-VII. Fomentar y promocionar la estabilidad y el bienestar familiar;
-
-VIII. Implementar, en coordinación con las instancias competentes, las medidas de seguridad pública y de protección civil en los centros educativos, culturales y recreativos, así como acciones preventivas con la participación de la comunidad;
-
-IX. Integrar el Consejo;
-
-X. Crear los mecanismos o instancias correspondientes para el cumplimiento de este Código; y,
-
-XI. Las demás que le confieran otros ordenamientos jurídicos.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS , P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ### Capítulo III. De la Secretaría de Desarrollo y Participación Social
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
-
 ###### Artículo 258.
 
-La Secretaría de Desarrollo y Participación Social, deberá coordinar e implementar las acciones que se requieran, para promover la integración social de los adultos mayores y para brindarles los servicios de asistencia social y atención integral a los que se refiere el presente Código.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 259.
 
-La Secretaría de Desarrollo y Participación Social, implementará las acciones pertinentes para garantizar la cobertura en materia alimentaria para los adultos mayores, impulsando la participación comunitaria para la dotación de alimentos nutricionalmente balanceados para los adultos mayores.
-
-Con objeto de ampliar los mecanismos de información a la población a fin de que conozcan alternativas alimentarías para los adultos mayores deberá:
-
-I. Organizar campañas de orientación e información nutricional de acuerdo a las condiciones físicas de los adultos mayores;
-
-II. Publicar materiales de orientación nutricional y organizar campañas de difusión en medios masivos de comunicación; y,
-
-III. Establecer convenios específicos de colaboración con instituciones y organismos públicos, sociales y privados que brinden orientación alimenticia a los adultos mayores.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 260.
 
-La Secretaría de Desarrollo y Participación Social, promoverá la coordinación de las instituciones federales y locales de salud y educación, para implementar programas de sensibilización y capacitación con objeto de favorecer la convivencia familiar con los adultos mayores para que ésta sea armónica.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 261.
 
-La Secretaría de Desarrollo y Participación Social, promoverá la coordinación con las instituciones educativas, tanto oficiales como privadas, para la implementación de políticas y programas de educación y capacitación para los adultos mayores.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 262.
 
-La Secretaría de Desarrollo y Participación Social, en coordinación con los Municipios, implementará un programa de estímulos e incentivos a los adultos mayores que estudien.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 263.
 
-La Secretaría de Desarrollo y Participación Social, implementará programas a efecto de crear y difundir entre la población en general y en la familia, la cultura de dignificación, respeto e integración a la sociedad de los adultos mayores.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS , P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ### Capítulo IV. De la Secretaría de Salud
 
 ###### Artículo 264.
 
-Corresponde a la Secretaría de Salud, de conformidad con las disposiciones jurídicas aplicables:
-
-I. Garantizar el acceso a la atención médica en las clínicas y hospitales, con una orientación especializada para los adultos mayores;
-
-II. Proporcionarles una cartilla médica de auto-cuidado que será utilizada indistintamente en las instituciones públicas y privadas, en la cual se especificará el estado general de salud, enfermedades crónicas, tipo de sangre, medicamentos administrados, reacciones secundarias e implementos para aplicar/os, tipo de dieta suministrada, consultas médicas y asistencia a grupos de auto-cuidado;
-
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
-
-III. En coordinación con el DIF-Chiapas y los DIF Municipales, implementará programas con el objeto de proporcionar los medicamentos que necesiten para mantener un buen estado de salud;
-
-IV. Fomentar la creación de redes de atención en materia de asistencia médica, cuidados y rehabilitación, a través de la capacitación y sensibilización sobre la problemática específica de los adultos mayores; y,
-
-V. Procurar asegurar la atención integral de este grupo, procurando la participación activa de la familia y la comunidad, así como establecer las condiciones necesarias para la permanencia de los descendientes, representante legal o encargado, cuando el adulto mayor sea internado en algún nosocomio;
-
-VI. Garantizar en la medida de lo posible, el acceso a los servicios de atención médica de calidad, especializados en geriatría, gerontología y psicogerontología;
-
-VII. Promover, por los medios más adecuados, políticas preventivas permanentes contra el abuso y la violencia que se suscitan en el seno familiar, comunitario, social, educativo y laboral, así como contra la insalubridad
-
-VIII. Realizar convenios con la SCT para beneficiar a las personas adultas mayores, con descuentos del 50% en transporte urbano y foráneo.
-
-Se entenderá por atención médica al conjunto de servicios integrales para la prevención, tratamiento, curación y rehabilitación que se proporcionan a los adultos mayores en todos los niveles, con el fin de proteger, promover y restaurar su salud.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 265.
 
-La Secretaría de Salud, implementará programas y concertará convenios con las instituciones de salud del Gobierno Federal, Organismos Internacionales relativos a la Salud y la Iniciativa privada, a fin de que los adultos mayores puedan tener acceso a los servicios de atención médica que proporcione el sistema de salud.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 266.
 
-Las instituciones públicas, privadas y sociales, que otorguen atención médica, deberán contar con personal que posea vocación, capacidad y conocimientos en el cuidado de las personas adultas mayores.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 267.
 
-Los Hospitales, Clínicas y los Centros de Salud, públicos o privados, deberán prestar de entre sus servicios, los de gerontología, geriatría y psicogerontología. Asimismo, los centros públicos y privados de salud deberán de valorar inmediatamente a todo adulto mayor que se presuma víctima de abuso o maltrato.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 268.
 
-Los directores y el personal encargado de los centros de salud, públicos o privados, a donde se lleven adultos mayores para atenderlas, deberán denunciar ante el Fiscal del Ministerio Público, cualquier sospecha razonable de maltrato o abuso cometido en contra de ellas. Igual obligación tendrán las autoridades y el personal de centros educativos, estancias, o cualquier otro sitio en donde permanezcan, se atiendan o se preste algún servicio a estas personas.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 269.
 
-A falta del obligado preferente, las personas adultas mayores maltratadas o en condiciones de pobreza, tendrán derecho a una atención integral por parte del Estado en la medida de lo posible, a través de los programas de las instituciones afines. Para gozar de este beneficio, deberán participar en los programas de capacitación que, para tal efecto desarrollen las instituciones competentes.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 270.
 
-Los Centros de Salud, públicos y privados, procurarán llevar a cabo las siguientes acciones:
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
-I. Llevar registros actualizados del ingreso y el egreso de adultos mayores, donde conste el tratamiento y la atención médica que se les brindo; y,
-
-II. Gestionar, en forma inmediata una cartilla de control de salud y autocuidado para los adultos mayores, por medio del Centro de Salud de su adscripción. La cartilla de control de salud y autocuidado contendrá un resumen del historial de salud de la persona adulta mayor y servirá para identificarla en instituciones de salud, tanto públicas como privadas.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS , P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ### Capítulo V. De la Secretaría de Educación
 
 ###### Artículo 271.
 
-Corresponderá a la Secretaría de Educación, estimular a las adultos mayores a la creación y al goce de la cultura. Facilitará el acceso a la expresión a través de talleres, exposiciones, concursos y eventos comunitarios estatales, nacionales e internacionales.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 272.
 
-La Secretaría de Educación, promoverá ante las instancias correspondientes en los eventos culturales organizados en el Estado y los Municipios, el acceso gratuito o descuentos especiales, previa acreditación de edad, a través de una identificación personal.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 273.
 
-La Secretaría de Educación diseñará programas culturales para efectuar concursos en los que participen exclusivamente adultos mayores, otorgando a los ganadores los reconocimientos y premios correspondientes.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 274.
 
-Los adultos mayores tienen derecho a participar de manera activa, en las festividades cívicas y tradicionales que se celebren en su comunidad; en todo caso, promoviendo que ellas sean las transmisoras del valor y significado histórico de las costumbres, efemérides y de lo que se celebre.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 275.
 
-En todo momento, el adulto mayor tiene la libre opción de integrarse a las actividades implementadas para la población en general, o las específicas para ellos.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS , P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ### Capítulo VI. De la Secretaría de Economía y la Secretaría de Turismo
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
-
 ###### Artículo 276.
 
-La Secretaría de Economía en coordinación con la Secretaría de Turismo, promoverán actividades de recreación y turismo con tarifas preferentes, diseñadas para personas adultas mayores.
-
-Para tal efecto, se realizarán acciones respectivas a fin de que en parques, jardines, kioscos, plazas públicas, teatros al aire libre y demás lugares públicos destinados a la recreación, se cuente con espacios y actividades que faciliten la integración de los adultos mayores.
-
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 277.
 
-Para garantizar el derecho a la recreación y turismo, la Secretaría de Economía en coordinación con la Secretaría de Turismo, difundirá permanentemente, a través de los medios masivos de comunicación, las actividades, que se realizan a favor de los adultos mayores.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS , P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ### Capítulo VII. De la Secretaría del Trabajo
 
-> <small>(REFORMADO Y REUBICADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
-
 ###### Artículo 278.
 
-Corresponde a la Secretaría del Trabajo:
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
-I. Implementar los programas necesarios, a efecto de promover el empleo para los adultos mayores, tanto en el sector público como privado, atendiendo a su profesión u oficio, experiencia o conocimientos teóricos y prácticas; e,
-
-II. Impulsar programas de autoempleo para los adultos mayores, de acuerdo a su profesión u oficio a través de apoyos financieros, de capitalización y la creación de redes de producción, distribución y comercialización.
-
-> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS , P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ### Capítulo VIII. Del Sistema para el Desarrollo Integral de la Familia
 
-(REUBICADO Y REFORMADO PRIMER PÁRRAFO, P.O. 23 DE SEPTIEMBRE DE 2009)
-
 ###### Artículo 279.
 
-Corresponde al DIF-Chiapas, en materia de adultos mayores:
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
-I. Proporcionar en forma gratuita los servicios de asistencia y orientación jurídica, en especial aquellos que se refieren a su integridad y la seguridad de su patrimonio;
-
-II. Realizar programas de prevención y protección para los adultos mayores en situación de riesgo o desamparo, para incorporarlos al núcleo familiar o albergarlos en instituciones adecuadas;
-
-> <small>(REFORMADA, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
-
-III. Coadyuvar con la Procuraduría General de Justicia del Estado, en la atención y tratamiento de los adultos mayores víctimas de cualquier delito;
-
-IV. Impulsar y promover el reconocimiento y ejercicio de los derechos de los adultos mayores;
-
-V. Promover, mediante la vía conciliatoria, la solución a la problemática familiar, cuando no se trate de actos u omisiones tipificados como delitos por el Código Penal vigente en el Estado;
-
-VI. Recibir y dar seguimiento a quejas, denuncias e informes, sobre la violación de derechos de los adultos mayores, haciéndolo del conocimiento de las autoridades competentes y de ser procedente ejercer las acciones legales correspondientes;
-
-VII. Denunciar ante las autoridades competentes, cuando sea procedente, cualquier caso de maltrato, lesiones, abuso físico o psíquico, sexual, abandono, descuido o negligencia, explotación, y en general cualquier acto que perjudique a los adultos mayores;
-
-VIII. Procurar que los adultos mayores en situación de riesgo o desamparo, cuente con un lugar donde vivir, que cubra sus necesidades básicas;
-
-IX. Vigilar que las instituciones presten el cuidado y la atención adecuada, a los adultos mayores respetando sus derechos, a través de mecanismos de seguimiento y supervisión, en coordinación con la Secretaría de Desarrollo Social;
-
-X. Establecer programas de apoyo a las familias para que la falta de recursos no sea causa de separación de los adultos mayores; y,
-
-XI. Las demás que le confieran otros ordenamientos jurídicos.
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS , P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ## Título Quinto. Del Consejo para la Integración de las Personas Adultas Mayores del Estado
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS , P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ### Capítulo Único. De su Naturaleza, Objeto y Atribuciones
 
 ###### Artículo 280.
 
-Se crea el Consejo para la Integración de los Adultos Mayores del Estado, como un órgano honorario de consulta, asesoría y evaluación de acciones de concertación, coordinación, planeación y promoción necesarias para favorecer la plena integración y desarrollo de los adultos mayores.
-
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 281.
 
-El Consejo estará integrado por los titulares de:
-
-> <small>(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2010)</small>
-
-I. La Secretaría de Desarrollo y Participación Social, quien fungirá como su Presidente;
-
-II. El DIF-Chiapas, quien fungirá como Secretario Técnico;
-
-III. La Secretaría de Salud;
-
-IV. La Secretaría de Educación;
-
-V. La Secretaría de Economía;
-
-VI. La Secretaría de Seguridad y Protección Ciudadana;
-
-VII. La Secretaría de Pueblos Indios;
-
-VIII. La Secretaría del Trabajo;
-
-IX. La Procuraduría General de Justicia del Estado;
-
-X. El Instituto del Deporte;
-
-XI. El Instituto de Seguridad Social para los Trabajadores al Servicio del Estado;
-
-XII. El Instituto de Población y Ciudades Rurales; y,
-
-XIII. Los Diputados del H. Congreso del Estado, de las Comisiones relacionadas con la materia.
-
-Los titulares de las dependencias antes señaladas, podrán nombrar a un representante del nivel jerárquico inmediato, quienes asistirán de manera permanente a las sesiones del Consejo.
-
-El Consejo podrá invitar también, con la aprobación de la mayoría de sus integrantes, a que asistan a las sesiones que celebre, a representantes de otras instancias locales, federales e internacionales, así como académicos, especialistas o empresarios encargados de desarrollar programas, actividades o investigaciones relacionadas con la población de adultos mayores, mismos que tendrán derecho a voz pero no a voto.
-
-El Consejo se reunirá con una periodicidad que no sea menor de cuatro veces al año, de acuerdo al calendario que será aprobado en la primera sesión ordinaria de su ejercicio, pudiendo celebrar las sesiones extraordinarias que se requiera.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 282.
 
-El Consejo tendrá las siguientes funciones:
-
-I. Propiciar la colaboración y participación de instituciones públicas y privadas en acciones que la Administración Pública emprenda para la atención integral de los adultos mayores;
-
-II. Proponer la realización de estudios que contribuyan a mejorar la planeación y programación de las medidas y acciones para elevar la calidad de vida de los adultos mayores;
-
-III. Participar en la evaluación de programas para la población de adultos mayores, así como proponer a las instituciones encargadas de dichos programas, los lineamientos y mecanismos para su ejecución;
-
-IV. Fomentar la elaboración, publicación y distribución de material informativo para dar a conocer la situación de la población de adultos mayores en el Estado, alternativas de participación, solución de problemas y mejora de servicios y programas;
-
-V. Proponer la participación ciudadana en actividades y proyectos dirigidos a la plena integración de los adultos mayores en la vida económica, política, social y cultural;
-
-VI. Proponer mecanismos de concertación y de coordinación en materia de desarrollo social;
-
-VII. Emitir su Reglamento; y,
-
-VIII. Las demás que le confieran otros ordenamientos jurídicos.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 283.
 
-Para el mejor desempeño de sus funciones, el Consejo deberá organizar grupos de trabajo, bajo la coordinación de la Secretaría Técnica del mismo.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 284.
 
-Al Presidente del Consejo le corresponde:
-
-I. Representar al Consejo ante las distintas autoridades e instituciones públicas y privadas;
-
-II. Presidir las reuniones del Consejo;
-
-III. Dirigir y moderar los debates durante las sesiones;
-
-IV. Dictar las políticas necesarias para mejorar la operación del Consejo; y,
-
-V. Someter a consideración del Consejo, los estudios, propuestas y opiniones que emitan los grupos de trabajo.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 285.
 
-Al Secretario Técnico del Consejo le corresponde:
-
-I. Coordinar las actividades del Consejo y de los grupos de trabajo;
-
-II. Convocar a sesiones a los integrantes del Consejo;
-
-III. Formular la orden del día para las sesiones del-Consejo;
-
-IV. Someter a consideración del Consejo los programas de trabajo del mismo;
-
-V. Difundir y dar seguimiento a las resoluciones y trabajo del Consejo;
-
-VI. Suplir al Presidente del Consejo en casos de ausencia;
-
-VII. Proporcionar asesoría técnica al Consejo;
-
-VIII. Pasar lista a los miembros integrantes del Consejo;
-
-IX. Elaborar las actas de cada una de las sesiones, programas de trabajo, orden del día y documentación necesaria para las sesiones de trabajo;
-
-X. Entregar actas de sesiones, programas de trabajo, orden del día y documentación necesaria para las sesiones de trabajo; y,
-
-XI. Realizar los trabajos que le encomiende el Presidente del Consejo.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 286.
 
-La integración de los grupos de trabajo, sus atribuciones y las sesiones del Consejo, serán definidas en el reglamento que al efecto se expida.
-
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 287.
 
-Con el objeto de proteger en cada uno de los municipios del Estado, los derechos de los adultos mayores, los Ayuntamientos establecerán el Consejo Municipal para la Integración de las Personas Adultas Mayores, el cual será presidido por el Presidente Municipal e integrado por el DIF Municipal, así como por las autoridades que realicen funciones relacionadas con el desarrollo social, salud, educación y seguridad pública.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 5 DE NOVIEMBRE DE 2010)</small>
-
-El Presidente Municipal podrá invitar a participar en el Consejo, a representantes del DIF Chiapas, las Secretarías de Salud, de Desarrollo y Participación Social, de Educación, de Seguridad y Protección Ciudadana, de Pueblos Indios, de la Procuraduría General de Justicia del Estado, del Instituto de Población y Ciudades Rurales, del Instituto del Deporte; así como a representantes de organizaciones sociales y privadas dedicadas a la atención, de los adultos mayores.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS , P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ## Título Sexto. Del Proceso Especial de Protección ante el DIF-Chiapas
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS , P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ### Capítulo Único. Del Proceso Especial de Protección ante la Procuraduría
 
 ###### Artículo 288.
 
-Los principios del proceso especial de protección se aplicarán en defensa del interés superior de los adultos mayores. La Administración Pública Estatal deberá garantizar el principio de defensa y el debido proceso legal, relativo a las decisiones que pretendan resolver algún conflicto surgido, en virtud del ejercicio de los derechos contemplados en este Código.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 289.
 
-La Procuraduría, es el órgano competente para conocer sobre el proceso especial de protección previsto en el presente Título.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 290.
 
-Las medidas de protección a los adultos mayores, serán aplicables, siempre que los derechos reconocidos en este Código sean amenazados o violados.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 291.
 
-En casos de amenaza grave o violación de los derechos reconocidos en el presente Código, el proceso especial de protección podrá iniciarse por denuncia presentada por cualquier persona, autoridad u organismo de derechos humanos.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 292.
 
-Conocido el hecho o recibida la denuncia, se constatará la situación, se escuchará a las partes involucradas y se recibirán las pruebas que las partes presenten y dictará inmediatamente las medidas de protección que correspondan.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 293.
 
-Comprobada en la instancia administrativa la existencia de indicios de maltrato o abuso en perjuicio de una persona adulta mayor, se deberá interponer de manera inmediata la denuncia penal correspondiente. Si la persona denunciada tuviere alguna relación directa de filiación, parentesco, responsabilidad o representación con la persona adulta mayor ofendida, se planteará, a la vez, la acción pertinente ante el Juez de lo Familiar o Mixto en su caso, a petición de parte.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 294.
 
-Serán medidas aplicables a los descendientes o responsables de personas adultas mayores las siguientes:
-
-I. Remitirlas a programas oficiales o comunitarios de apoyo, orientación y tratamiento a la familia;
-
-II. Remitirlas a un tratamiento psicológico o psiquiátrico para lograr la integración familiar en caso de ser necesario; y,
-
-III. Responsabilizarse de los gastos médicos, alimenticios de los adultos mayores.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 295.
 
-Serán medidas aplicables a patrones, funcionarios públicos o cualquier otra persona que viole o amenace con violar los derechos de los adultos mayores, las siguientes:
-
-I. Prevención escrita acerca de la violación o amenaza contra el derecho de que se trate en el caso particular, con citación para ser informados debidamente sobre los derechos del adulto mayor; y,
-
-II. Orden mediante la cual se aperciba el cese inmediato de la situación que viola o amenaza con violar el derecho en cuestión.
-
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2009)</small>
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 296.
 
-Contra lo resuelto por la Procuraduría, podrá interponerse el recurso que proceda de acuerdo a lo dispuesto por la Ley de Procedimientos Administrativos para el Estado de Chiapas y se substanciará conforme a la misma.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
+
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS , P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ## Título Séptimo. De las Sanciones
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS , P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ### Capítulo I. De las Reglas para la Imposición de Sanciones
 
 ###### Artículo 297.
 
-Para la determinación de la imposición de sanciones que contempla este Código, se atenderá lo siguiente:
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
-I. La gravedad de la falta;
-
-II. La capacidad económica del infractor;
-
-III. La magnitud del daño ocasionado; y,
-
-IV. La reincidencia del infractor.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS , P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ### Capítulo II. De las Sanciones y Medidas de Seguridad
 
 ###### Artículo 298.
 
-El incumplimiento a las disposiciones contenidas en este Código, será motivo para la aplicación de las siguientes sanciones:
-
-I. Multa equivalente de uno a mil veces el salario mínimo vigente en el Estado, a quienes menoscaben la integridad física o moral de un adulto mayor y aquellos que encubran este tipo de conductas;
-
-II. Clausura parcial o total, temporal o definitiva de las fuentes o actividades que contravengan las disposiciones de este Código;
-
-III. Tratándose de servidores públicos la sanción será desde la amonestación hasta la destitución del cargo, de conformidad con lo que establece la Ley de Responsabilidades de los Servidores Públicos del Estado; y,
-
-IV. Si el infractor fuese jornalero, obrero o trabajador no asalariado, la multa será equivalente a un día de su jornal, salario o ingreso diario, tratándose de personas desempleadas sin ingresos, la multa máxima será el equivalente a un día de salario mínimo.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 299.
 
-En el caso de que la trasgresión constituya un hecho punible, los hechos se harán del conocimiento del Fiscal del Ministerio Público, a efecto de que se proceda en contra de los responsables.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 300.
 
-La infracción de las disposiciones contenidas en este Código, será denunciada ante la autoridad competente, quien considerando la gravedad de la falta aplicará la sanción que corresponda conforme a este Código.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 301.
 
-Presentada la queja contra un funcionario público, el superior jerárquico deberá aplicar el procedimiento que establece la Ley de Responsabilidades de los Servidores Públicos del Estado o las medidas correspondientes al régimen al que pertenezca la persona denunciada, sin perjuicio de las sanciones pecuniarias a que se haga acreedora.
-
-La aplicación de estas medidas deberá ser inmediata, para evitar que la sanción prescriba, bajo pena de incurrir el superior jerárquico en el delito-de incumplimiento de deberes, si omitiere aplicarla. Si se constatare que el funcionario reincide en su falta, se procederá a sancionarlo en la vía administrativa que corresponda.
+(DEROGADO POR ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS, P.O. 31 DE DICIEMBRE DE 2015)
 
 ## Transitorios
 
@@ -2564,3 +2232,23 @@ Artículo Tercero.- El Presidente del Consejo Estatal para la Atención e Inclus
 Artículo Cuarto.- Las disposiciones reglamentarias derivadas de esta Ley, deberán ser expedidas por el Ejecutivo del Estado en un plazo no mayor a los ciento ochenta días naturales, contados a partir de la entrada en vigor del presente Decreto.
 
 Artículo Quinto.- Se derogan todas aquellas disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 143 LEY DE ASISTENCIA E INTEGRACIÓN DE LAS PERSONAS ADULTAS MAYORES DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
+
+Artículo Tercero.- Se deroga el Libro Quinto denominado "De los Derechos de las Personas Adultas Mayores en el Estado", que corresponde los artículos 230 al 301 del Código de Atención a la Familia y Grupos Vulnerables para el Estado Libre y Soberano de Chiapas.
+
+Artículo Cuarto.- El Consejo para Asistencia e Integración de las Personas Adultas Mayores, deberá quedar constituido en un plazo no mayor de noventa días naturales, contados a partir de la entrada en vigor del presente Decreto.
+
+Artículo Quinto.- Los Municipios en el Estado, en un término de noventa días naturales, contados a partir de la entrada en vigor de la presente Ley, integrarán los Consejos Municipales correspondientes.
+
+Artículo Sexto.- El Estado y los municipios, en el ámbito de sus respectivas competencias, expedirán los ordenamientos legales correspondientes y tomarán las medidas presupuestales y administrativas correspondientes, para garantizar el pleno ejercicio de los derechos de las personas adultas mayores.
+
+El Estado y los municipios podrán coordinarse con la Federación para garantizar el derecho a que se refiere el párrafo anterior, en los términos de la legislación aplicable, con el fin de garantizar la atención y servicios dignos a las personas adultas mayores, propiciando su plena participación en todas las esferas de la vida.
+
+Artículo Séptimo.- El Sistema para el Desarrollo Integral de la Familia del Estado de Chiapas, llevará a cabo las acciones que resulten necesarias para el debido cumplimiento del presente Decreto.
