@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-administracion-publica-para-el-estado-de-839
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-11-21"
-last_updated: "2015-11-16"
+last_updated: "2015-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83958&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el lunes 21 de noviembre de 2011.
 
@@ -87,9 +87,11 @@ Las entidades de la Administración Pública Paraestatal podrán integrarse a di
 
 El Gobernador del Estado determinará los asuntos específicos en que las Dependencias del Ejecutivo Estatal y Entidades Paraestatales deban coordinarse, tanto entre sí, como con las Administraciones Municipales y, en el marco del Sistema Nacional de Planeación, con Dependencias y Entidades de la Administración Pública Federal, mediante la celebración de los acuerdos correspondientes.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 8.
 
-El Gobernador del Estado, de conformidad con lo dispuesto por la legislación aplicable en la materia, fijará y conducirá la política educativa, cultural y deportiva y determinará la orientación de la planeación, organización, dirección y evaluación de los programas y metas. En materia de salud y ecología, lo hará de acuerdo con las disposiciones legales vigentes.
+El Gobernador del Estado, de conformidad con lo dispuesto por la legislación aplicable en la materia, fijará y conducirá la política de igualdad entre mujeres y hombres, de acceso de las mujeres a una vida libre de violencia, educativa, cultural y deportiva y determinará la orientación de la planeación, organización, dirección y evaluación de los programas y metas. En materia de salud y ecología, lo hará de acuerdo con las disposiciones legales vigentes.
 
 ###### Artículo 9.
 
@@ -146,6 +148,12 @@ XII.- Secretaría de Salud;
 XIII.- Secretaría de Seguridad Pública; y
 
 XIV.- Secretaría del Trabajo y Previsión Social.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 13 Bis.
+
+Cada dependencia del Poder Ejecutivo deberá contar con una Unidad Institucional para la Igualdad entre Mujeres y Hombres que tendrá la función de vigilar la incorporación de la perspectiva de género en la planeación, organización, ejecución y evaluación de las políticas públicas, así como garantizar la institucionalización de la igualdad sustantiva, con base en lo establecido en la Ley para la Igualdad entre Mujeres y Hombres del Estado de Hidalgo. Dicha Unidad dependerá y será designada por la persona titular de cada Secretaria, además tendrá mínimo el nivel de subdirección.
 
 ###### Artículo 14.
 
@@ -257,7 +265,13 @@ XXVI.- Orientar, autorizar, coordinar, supervisar y evaluar los programas de com
 
 XXVII.- Planear, dirigir, coordinar y evaluar el sistema de radio y televisión estatal, promoviendo la producción cinematográfica y la industria editorial; así como vigilar que las publicaciones impresas, las transmisiones de radio y televisión locales, y la exhibición de películas cinematográficas, se mantengan dentro de los límites de respeto a la vida privada, a la paz y moral pública, a la dignidad personal y no ataquen derechos de terceros ni provoquen la comisión de algún delito o perturben el orden público;
 
-XXVIII.- Efectuar análisis, diagnósticos y estudios que permitan al Titular del Poder Ejecutivo Estatal, contar con información estratégica y recomendaciones de carácter técnico, así como aprobar e instruir en coordinación con las autoridades competentes de la Administración Pública Estatal, la elaboración de los indicadores de impacto social y desempeño de la gestión gubernamental; además de integrar información confiable, oportuna y pertinente relacionada con beneficiarios e impacto de los programas gubernamentales; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XXVIII.- Efectuar análisis, diagnósticos y estudios que permitan al Titular del Poder Ejecutivo Estatal, contar con información estratégica y recomendaciones de carácter técnico, así como aprobar e instruir en coordinación con las autoridades competentes de la Administración Pública Estatal, la elaboración de los indicadores de impacto social y desempeño de la gestión gubernamental; además de integrar información confiable, oportuna y pertinente relacionada con beneficiarios e impacto de los programas gubernamentales;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XXVIII Bis.- Promover, fomentar y fortalecer los planes y programas que contribuyan a la igualdad, participación política y seguridad entre mujeres y hombres; y
 
 XXIX.- Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
@@ -295,7 +309,9 @@ XIV.- Ejercer la facultad económico-coactiva conforme a las leyes relativas;
 
 XV.- Proponer al Gobernador del Estado, en coordinación con la Secretaría de Contraloría, el dictamen de cancelación de cuentas que de acuerdo a la normatividad resulten incobrables, así como el otorgamiento de subsidios fiscales en los casos que procedan;
 
-XVI.- Autorizar la administración de recursos para el ejercicio del gasto público en función con el presupuesto aprobado y de las disponibilidades financieras del Gobierno Estatal, de conformidad a las disposiciones que en materia de racionalidad, armonización contable y evaluación del desempeño establezca la Secretaría;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XVI.- Autorizar la administración de recursos para el ejercicio del gasto público en función con el presupuesto aprobado y de las disponibilidades financieras del Gobierno Estatal, de conformidad a las disposiciones que en materia de racionalidad, armonización contable y evaluación del desempeño establezca la Secretaría, asegurándose en todos los casos que los presupuestos estén elaborados con perspectiva de género.
 
 > <small>(REFORMADA, P.O. 9 DE JULIO DE 2012)</small>
 
@@ -947,7 +963,13 @@ XXXIV.- Implementar mecanismos idóneos para la prevención, detección y combat
 
 XXXV.- Regular, formular, ejecutar y coordinar las políticas y lineamientos, así como programas en materia de transparencia, acceso y difusión de la información pública gubernamental, corrección y protección de datos personales, implementando las medidas necesarias para una eficaz colaboración y asistencia técnica con el órgano garante en la materia, los organismos federales, estatales, municipales e internacionales, de conformidad con la legislación aplicable y vigente en la materia;
 
-XXXVI.- Coadyuvar con las dependencias y entidades de la Administración Pública Estatal en las controversias o asuntos en materia de acceso a la información y protección de datos personales; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XXXVI.- Coadyuvar con las dependencias y entidades de la Administración Pública Estatal en las controversias o asuntos en materia de acceso a la información y protección de datos personales;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XXXVI Bis.- Evaluar en coordinación con la Unidad Institucional para la Igualdad entre Mujeres y Hombres, a través del Órgano Interno de Control de cada dependencia, la incorporación de la igualdad sustantiva en la planeación y organización de las políticas públicas; y
 
 XXXVII.- Las demás que señalen las Leyes y Reglamentos vigentes en el Estado.
 
@@ -1013,7 +1035,9 @@ XXVIII.- Promover, fomentar y difundir la investigación educativa en todos sus 
 
 XXIX.- Promover y fomentar el aprecio por el patrimonio histórico-cultural de la Entidad, así como fortalecer la educación artística en los espacios educativos y la destinada a la población en general, estableciendo para tal efecto, mecanismos de coordinación institucional con las autoridades de la administración pública federal, estatal y municipal, competentes en la materia;
 
-XXX.- Fomentar una cultura de la legalidad, equidad y respeto a los derechos humanos en todos los niveles y servicios del sistema educativo estatal;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XXX.- Fomentar una cultura de la legalidad, igualdad sustantiva y respeto a los derechos humanos en todos los niveles y servicios del sistema educativo estatal;
 
 XXXI.- Fomentar y difundir la investigación científica y tecnológica en los servicios de educación superior y media superior; así como consolidar los espacios de divulgación de la ciencia y la tecnología;
 
@@ -1173,7 +1197,9 @@ XIX.- Promover, en coordinación con la Secretaría de Turismo y Cultura, la rec
 
 XX.- Coordinar y vigilar el funcionamiento del Tribunal Estatal de Conciliación y Arbitraje;
 
-XXI.- Aplicar las políticas que establezca el Titular del Poder Ejecutivo, para la promoción y protección de los derechos de los menores que trabajan, y propiciar acciones que impulsen el desarrollo de los derechos laborales de las mujeres en equidad con los hombres;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XXI.- Aplicar las políticas que establezca el Titular del Poder Ejecutivo, para la promoción y protección de los derechos de los menores que trabajan, y propiciar acciones que impulsen el desarrollo de los derechos laborales de las mujeres en igualdad sustantiva con los hombres, en concordancia con la Ley para la Igualdad entre Mujeres y Hombres del Estado de Hidalgo;
 
 XXII.- Desahogar consultas sobre la interpretación de las normas de la Ley Federal del Trabajo, de los contratos colectivos de trabajo y de la Ley de los Trabajadores al Servicio de los Gobiernos Estatal y Municipales, así como de los Organismos Descentralizados para el Estado de Hidalgo;
 
@@ -1314,3 +1340,11 @@ CUARTO. Todos los asuntos de la Coordinación de Investigación que se encuentre
 QUINTO. Se abroga la Ley Orgánica del Ministerio Público, publicada en el Periódico Oficial del Estado de Hidalgo, el 31 de diciembre de 2007.
 
 SEXTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 505 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA PARA EL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
