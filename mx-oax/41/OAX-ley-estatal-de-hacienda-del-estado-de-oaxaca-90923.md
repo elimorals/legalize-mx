@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-hacienda-del-estado-de-oaxaca-90923"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-15"
-last_updated: "2014-12-27"
+last_updated: "2015-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90923&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ESTATAL DE HACIENDA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 15 de diciembre de 2012.
 
@@ -123,15 +123,31 @@ I. Sobre el monto total de los ingresos por la enajenación de billetes o boleto
 
 II. Ingresos por la obtención de premios 6 por ciento.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 8.
 
 Las personas físicas, morales o unidades económicas que organicen o celebren eventos generadores de premios objeto de este impuesto, tendrán las siguientes obligaciones:
 
-I. El impuesto causado de acuerdo con la fracción I del artículo anterior de esta Ley, se pagará mediante declaración dentro de los quince días siguientes a la realización de las rifas, loterías, sorteos o concursos;
+I. Presentar ante la Secretaría o en la Delegación o Subdelegación Fiscal que corresponda a su domicilio fiscal en el Estado, a más tardar tres días antes de realizarse el evento o espectáculo público:
 
-II. Retener y enterar el impuesto retenido mediante declaración dentro (sic) los quince días siguientes a la entrega del premio, en la Oficina Recaudadora que corresponda a su domicilio fiscal en el Estado, y
+a) El aviso en el formato que para tal efecto emita la Secretaría;
 
-III. Proporcionar, cuando lo solicite el interesado, constancia de retención de dicho impuesto.
+b) Garantizar el interés fiscal que ampare el 4 por ciento del valor total del boletaje a vender, mediante billete de depósito, efectivo o cheque de caja, y
+
+c) En los casos de ampliación o suspensión del evento, presentar el aviso correspondiente a más tardar un día antes de la realización prevista.
+
+II. Presentar su declaración de pago dentro de los quince días siguientes a la realización de las rifas, loterías, sorteos o concursos, cuando se trate del impuesto causado conforme a la fracción I del artículo anterior de esta Ley.
+
+III. Retener y enterar el impuesto retenido mediante declaración dentro (sic) los quince días siguientes a la entrega del premio, en la Secretaría o en la Delegación o Subdelegación Fiscal que corresponda a su domicilio fiscal en el Estado, para el caso de la fracción II del artículo anterior, y
+
+IV. Proporcionar, cuando lo solicite el interesado, constancia de retención de dicho impuesto.
+
+Ante el incumplimiento de cualquiera de las obligaciones previstas en las fracciones anteriores el sujeto obligado se hará acreedor a una multa por el equivalente de 50 a 100 veces el Salario Mínimo.
+
+Cuando los sujetos obligados no garanticen el interés fiscal de conformidad con lo dispuesto por el inciso b) fracción I del presente artículo, la autoridad fiscal podrá suspender la organización o evento, hasta en tanto no se garantice el pago del impuesto, para lo cual el interventor designado podrá solicitar el auxilio de la fuerza pública.
+
+Los servidores públicos estatales o municipales, al otorgar permisos para la realización de rifas, loterías, sorteos y/o concursos, deberán dar aviso a la Secretaría o a sus Delegaciones o Subdelegaciones Fiscales, de las autorizaciones que otorguen a más tardar al día siguiente de su emisión.
 
 ###### ARTÍCULO 9.
 
@@ -181,7 +197,9 @@ I. El aviso en el formato que para tal efecto emita la Secretaría;
 
 II. Garantizar el interés fiscal que ampare el 4 por ciento del valor total del boletaje a vender, mediante billete de depósito, efectivo o cheque de caja, y
 
-III. Dar aviso correspondiente en los casos de ampliación o suspensión del periodo de realización de la diversión o espectáculo, ante la Oficina Recaudadora de su jurisdicción, a más tardar el último día que comprenda el aviso cuya vigencia se vaya a ampliar o suspender.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+III. Presentar el aviso correspondiente en los casos de ampliación o suspensión del periodo de realización de la diversión o espectáculo, ante la Secretaría o en la Delegación o Subdelegación Fiscal que corresponda a su domicilio fiscal en el Estado, a más tardar el último día que comprenda el aviso cuya vigencia se vaya a ampliar o suspender.
 
 Ante el incumplimiento de cualquiera de las obligaciones previstas en las fracciones anteriores el sujeto obligado se hará acreedor a una multa por el equivalente de 50 a 100 veces el Salario.
 
@@ -193,9 +211,11 @@ Las personas físicas, morales o unidades económicas que realicen actividades d
 
 Cuando los sujetos de este impuesto, obligados a garantizar el interés fiscal de acuerdo con lo dispuesto en el artículo 15 fracción II, no hubieren cumplido tal obligación, la autoridad fiscal podrá suspender la diversión o espectáculo, hasta en tanto no se garantice el pago del impuesto, para lo cual el interventor designado podrá solicitar el auxilio de la fuerza pública.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 18.
 
-Los servidores públicos estatales o municipales al otorgar permisos para la realización de diversiones o espectáculos públicos, deberán dar aviso a la Secretaría o a sus Oficinas Recaudadoras, de las autorizaciones que otorguen a más tardar al día siguiente de su emisión.
+Los servidores públicos estatales o municipales, al otorgar permisos para la realización de diversiones o espectáculos públicos, deberán dar aviso a la Secretaría o a sus Delegaciones o Subdelegaciones Fiscales, de las autorizaciones que otorguen a más tardar al día siguiente de su emisión.
 
 ###### ARTÍCULO 19.
 
@@ -249,7 +269,7 @@ Son sujetos de este impuesto las persona físicas que perciban ingresos por otor
 
 Se consideran ingresos por otorgar el uso o goce temporal de bienes inmuebles los siguientes:
 
-I. Los provenientes de arrendamiento o subarrendamiento y en general, por otorgar a título oneroso el uso o goce temporal de bienes inmuebles en cualquier otra forma, y
+I. Los provenientes de arrendamiento o subarrendamiento y en general, por otorgar a título oneroso el uso o goce temporal de bienes inmueblesen cualquier otra forma, y
 
 II. Los rendimientos de certificados de participación inmobiliaria no amortizables.
 
@@ -562,6 +582,10 @@ inferior %
 338,964.02 455,605.22 15,440.66 13.3
 
 455,605.23 En adelante 30,953.94 16.8
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+VII. Vehículos nuevos que se destinen al servicio público de transporte de pasaje y/o carga que cuenten con concesión vigente del servicio público, el impuesto será la cantidad que resulte de aplicar el 0.25 por ciento al valor total del vehículo.
 
 ###### ARTÍCULO 38.
 
@@ -895,7 +919,13 @@ I. Quienes por cualquier título adquieran la propiedad, tenencia o uso del veh�
 
 II. Quienes reciban vehículos en consignación o comisión, para su enajenación, por el adeudo del impuesto previsto en este Capítulo, que en su caso existiera, y
 
-III. Los servidores públicos que autoricen el registro de vehículos, sin haberse cerciorado de la existencia de adeudos por este impuesto a favor de la hacienda pública.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+III. Los servidores públicos que autoricen el registro de Vehículos, sin haberse cerciorado de la existencia de adeudos por este impuesto a favor de la hacienda pública, y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+IV. Quienes por cualquier título enajenen o transfieran la propiedad, tenencia o uso del Vehículo, sin haber presentado el aviso y baja correspondiente, por los adeudos del impuesto que en su caso se generen posteriores a dicha enajenación.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -965,7 +995,7 @@ Cuando se pague el impuesto a que se refiere el presente capítulo dentro de los
 
 Este impuesto se pagará dentro de los primeros 15 días hábiles siguientes a aquel en el que se realice la operación objeto de este impuesto, junto con los derechos por servicio de control vehicular relativos al cambio de propietario; y en tanto se efectúe el pago, los vehículos de motor usado serán la garantía del pago del impuesto y los derechos respectivos.
 
-Las oficinas recaudadoras al determinar y recaudar este impuesto y los derechos por servicios de control vehicular respectivos, expedirán el recibo oficial correspondiente y sellarán el documento original que ampara la compra-venta; al margen de dicho documento anotarán el número, fecha e importe del recibo respectivo.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 51.
 
@@ -1027,7 +1057,9 @@ II. El pago de este impuesto se efectuará mediante declaración bimestral defin
 
 III. Presentar declaración anual informativa del ejercicio dentro de los tres meses siguientes al cierre del mismo, cuando hayan obtenido ingresos anuales superiores a $100,000.00.
 
-Tratándose de contribuyentes con establecimientos en diversos lugares del territorio del Estado, deberán presentar una sola declaración en la Oficina Recaudadora correspondiente a su domicilio fiscal, o bien, en las oficinas autorizadas que correspondan, acumulando en la misma el valor total de las operaciones realizadas en los diversos establecimientos y el total del impuesto retenido.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Tratándose de contribuyentes con establecimientos en diversos lugares del territorio del Estado, deberán presentar una sola declaración en la Secretaría o en la Delegación o Subdelegación Fiscal correspondiente a su domicilio fiscal en el Estado, o bien, en las oficinas autorizadas que correspondan, acumulando en la misma el valor total de las operaciones realizadas en los diversos establecimientos y el total del impuesto retenido.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1129,9 +1161,11 @@ La responsabilidad solidaria subsistirá hasta en tanto el intermediario laboral
 
 La base del impuesto es el monto total de las erogaciones realizadas por concepto de remuneraciones al trabajo personal en términos del artículo 63 de esta Ley.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 66.
 
-Este impuesto se calculará aplicando la tasa del 2 por ciento sobre la base que señala el artículo anterior.
+Este impuesto se calculará aplicando la tasa del 3 por ciento sobre la base que señala el artículo anterior.
 
 Este impuesto se causará en el momento en que se realice el pago de las remuneraciones por la prestación del trabajo personal.
 
@@ -1315,7 +1349,9 @@ TRANSITORIOS:
 
 PRIMERO: El presente Decreto entrará en vigor el uno de enero de dos mil trece, previa publicación en el Periódico Oficial del Estado.
 
-SEGUNDO: Se abroga el Decreto Número 238, publicado en el Periódico Oficial del Estado el 30 de diciembre de 2000, por el que se promulgó la Ley de Hacienda del Estado de Oaxaca, así como los decretos, en los que se haya autorizado reformas, adiciones y derogaciones subsecuentes, y todas aquellas disposiciones que se opongan a lo dispuesto en la presente Ley. Lo tendrá entendido el Gobernador del Estado y hará que se publique y se cumpla.
+SEGUNDO: Se abroga el Decreto Número 238, publicado en el Periódico Oficial del Estado el 30 de diciembre de 2000, por el que se promulgó la Ley de Hacienda del Estado de Oaxaca, así como los decretos, en los que se haya autorizado reformas, adiciones y derogaciones subsecuentes, y todas aquellas disposiciones que se opongan a lo dispuesto en la presente Ley.
+
+Lo tendrá entendido el Gobernador del Estado y hará que se publique y se cumpla.
 
 DADO EN EL SALÓN DE SESIONES DEL H. CONGRESO DEL ESTADO.- San Raymundo Jalpan, Centro, Oaxaca a 10 de diciembre de 2012.
 
@@ -1368,3 +1404,9 @@ P.O. 31 DE DICIEMBRE DE 2013.
 P.O. 27 DE DICIEMBRE DE 2014.
 
 ÚNICO: El presente Decreto entrará en vigor el uno de enero de dos mil quince, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1666.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE HACIENDA".]
+
+ÚNICO. El presente Decreto entrará en vigor el día uno de enero de dos mil dieciséis, previa publicación en el Órgano de difusión oficial del Estado.
