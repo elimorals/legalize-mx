@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-obra-publica-del-estado-de-chiapas-95643"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-31"
-last_updated: "2015-07-01"
+last_updated: "2015-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE OBRA PÚBLICA DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 31 de julio de 2013.
 
@@ -55,11 +55,15 @@ Ley de Obra Pública del Estado de Chiapas
 
 La presente ley es de orden público y tiene por objeto regular las acciones relativas a la planeación, programación, presupuestación, contratación, ejecución, supervisión, gasto, control y demás acciones complementarias a la obra pública; excepto en aquellos casos que se encuentren reservados por disposición de Ley o Decreto de Creación del Ejecutivo a un organismo especializado; con el fin de asegurar al Estado y sus municipios, las condiciones disponibles en cuanto a su precio, calidad, financiamiento, oportunidad y demás circunstancias que beneficien el interés público.
 
-###### Artículo 2°.
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 2º.
 
 Están sujetos a la disposición de esta ley:
 
-I.- El Poder Ejecutivo del Estado, por conducto de la Secretaría de Infraestructura, tratándose de la obra pública en el ámbito estatal.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+I.- El Poder Ejecutivo del Estado, por conducto de la Secretaría de Obra Pública y Comunicaciones, tratándose de la obra pública en el ámbito estatal.
 
 II.- Los municipios por conducto de sus órganos u organismos administrativos que tengan facultades para ejecutar obra pública en términos de la Ley Orgánica Municipal, de su Decreto de Creación o cuando así lo determine el Ayuntamiento Municipal.
 
@@ -71,17 +75,19 @@ La ejecución de la obra pública que realice el Poder Ejecutivo del Estado o lo
 
 Para los efectos de la presente Ley, se entenderá por:
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-I.- Secretaría: A la Secretaría de Infraestructura y Comunicaciones, que es la Dependencia del Poder Ejecutivo del Estado de Chiapas facultada para ejecutar Obra Pública, excepto en aquellos casos referentes a la Infraestructura Física Educativa de Vivienda, infraestructura de desarrollo de energías, la construcción de Villas y Ciudades Rurales, y del Sistema Estatal de Seguridad Pública e implementación del Sistema de Justicia Penal en el Estado, o cualquier otro rubro, que por disposición de Ley, se encuentre reservada a una instancia diferente.
+I.- Secretaría: A la Secretaría de Obra Pública y Comunicaciones, que es la Dependencia del Poder Ejecutivo del Estado de Chiapas facultada para ejecutar Obra Pública, excepto en aquellos casos referentes a la Infraestructura Física Educativa del Estado, de vivienda, infraestructura de desarrollo de energías, la construcción de Villas y Ciudades Rurales, y del Sistema Estatal de Seguridad Pública e implementación del Sistema de Justicia Penal en el Estado, así como caminos e infraestructura hidráulica o cualquier otro rubro, que por disposición de Ley se encuentre reservada a una instancia diferente.
 
-> <small>(REFORMADA, P.O. 1 DE JULIO DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-II.- Comité de Obra Pública/Comité: Al Comité de Obra Pública del Poder Ejecutivo del Estado, cuando se haga referencia a la Obra Pública en el ámbito Estatal, con excepción de lo concerniente a la Infraestructura Física Educativa, de Vivienda, de infraestructura de desarrollo de energías, para la construcción de Villas y Ciudades Rurales y del Sistema Estatal de Seguridad Pública e implementación del Sistema de Justicia Penal en el Estado, que estarán a cargo de un Comité de Obras específico, según corresponda; o a los Comités de Obras Públicas de los Municipios de que se trate, cuando se refiere a Obra Pública en el ámbito Municipal.
+II.- Comité de Obra Pública/Comité: Al Comité de Obra Pública del Poder Ejecutivo del Estado, cuando se haga referencia a la Obra Pública en el ámbito Estatal, con excepción de lo concerniente a la Infraestructura Física Educativa, de Vivienda, de infraestructura de desarrollo de energías, para la construcción de Villas y Ciudades Rurales y del Sistema Estatal de Seguridad Pública e implementación del Sistema de Justicia Penal en el Estado, así como caminos e infraestructura hidráulica, que estarán a cargo de un Comité de Obras específico, según corresponda; o a los Comités de Obras Públicas de los Municipios de que se trate, cuando se refiere a Obra Pública en el ámbito Municipal.
 
 III.- Municipios: Los señalados como tales en la Constitución Política local y en Ley Orgánica Municipal del Estado de Chiapas;
 
-IV.- Titulares: Al Secretario de Infraestructura, tratándose de obra pública estatal no reservada por disposición de ley a otro organismo; y los presidentes de los Ayuntamientos o Consejos Municipales, en el caso de los municipios;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+IV.- Titulares: Al Secretario de Obra Pública y Comunicaciones, tratándose de obra pública estatal no reservada por disposición de ley a otro organismo; y los presidentes de los Ayuntamientos o Consejos Municipales, en el caso de los municipios;
 
 V.- Contratista: A la persona física o moral que celebra contratos de obra pública en los términos de esta ley;
 
@@ -99,7 +105,9 @@ c).- Costo de la preparación que exclusivamente corresponderá al pago de honor
 
 d).- En su caso, el costo de la emisión de garantías.
 
-IX.- Supervisor: Al servidor público adscrito a la Secretaría de Infraestructura o municipios, encargado de supervisar, vigilar, revisar y controlar el desarrollo de los trabajos de la obra pública, en sus aspectos de cantidad, calidad, costo y tiempo establecidos en el contrato respectivo y en los programas de ejecución del mismo; de tomar las decisiones técnicas correspondientes y necesarias para la correcta ejecución de los trabajos, mismo que será designado por la Secretaría de Infraestructura o el Municipio, según sea el caso, tan pronto sea adjudicada la obra correspondiente;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+IX.- Supervisor: Al servidor público adscrito a la Secretaría de Obra Pública y Comunicaciones, encargado de supervisar, vigilar, revisar y controlar el desarrollo de los trabajos de la obra pública, en sus aspectos de cantidad, calidad, costo y tiempo establecidos en el contrato respectivo y en los programas de ejecución del mismo; de tomar las decisiones técnicas correspondientes y necesarias para la correcta ejecución de los trabajos, mismo que será designado por la Secretaría de Obra Pública y Comunicaciones o el Municipio, según sea el caso, tan pronto sea adjudicada la obra correspondiente;
 
 X.- Supervisor Externo: A la persona física o moral que mediante el contrato correspondiente, desarrollará las actividades de supervisión de obra en términos de la presente ley, su reglamento y demás disposiciones normativas vigentes, ajustándose en todo caso a los lineamientos que emita la Secretaria de la Función Pública;
 
@@ -577,9 +585,9 @@ En el ejercicio de sus atribuciones el órgano de control respectivo podrá inte
 
 Para la contratación de la obra pública en cualquiera de las modalidades a las que se refiere el artículo 40 de esta Ley, se constituye el Comité de Obra Pública del Poder Ejecutivo del Estado y los Comités de Obra Pública en cada uno de los municipios de la Entidad. El primero estará a cargo de lo concerniente a la obra pública en el ámbito estatal que no se encuentre reservada por disposición de ley a un organismo especializado, los segundos en el ámbito territorial del municipio de que se trate.
 
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-Para el caso específico de la infraestructura Física Educativa, de infraestructura de Vivienda, de infraestructura de desarrollo de energías, de la Construcción de Villas y Ciudades Rurales; así como para la Infraestructura del Sistema Estatal de Seguridad Pública e Implementación del Sistema de Justicia Penal en el Estado, existirá un Comité de Obra Pública del Instituto de la Infraestructura Física Educativa del Estado de Chiapas, un Comité de Obra Pública de la Promotora de Vivienda Chiapas, un Comité de Obra Pública del Instituto de Desarrollo de Energías del Estado de Chiapas, un Comité de Obra Pública del Instituto de Población y Ciudades Rurales y un Comité de Obra Pública del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública, que invariablemente estarán integrados por su respectivo titular, quien los presidirá, así como por los responsables de las áreas técnicas, administrativas, jurídicas y demás que tengan bajo su responsabilidad la ejecución de Obra Pública en la materia respectiva.
+Para el caso específico de la infraestructura Física Educativa, de infraestructura de Vivienda, de infraestructura de desarrollo de energías, de la Construcción de Villas y Ciudades Rurales, de la Infraestructura del Sistema Estatal de Seguridad Pública e Implementación del Sistema de Justicia Penal en el Estado; así como de caminos e infraestructura hidráulica, existirá un Comité de Obra Pública del Instituto de la Infraestructura Física Educativa del Estado de Chiapas, un Comité de Obra Pública de la Promotora de Vivienda Chiapas, un Comité de Obra Pública del Instituto de Desarrollo de Energías del Estado de Chiapas, un Comité de Obra Pública del Instituto de Población y Ciudades Rurales, un Comité de Obra Pública del Secretariado Ejecutivo del Sistema Estatal de Seguridad Pública y un Comité de Obra de la Comisión de Caminos e Infraestructura Hidráulica, que invariablemente estarán integrados por su respectivo titular, quien los presidirá, así como por los responsables de las áreas técnicas, administrativas, jurídicas y demás que tengan bajo su responsabilidad la ejecución de Obra Pública en la materia respectiva.
 
 En la conformación, operación y ejecución de los Comités de obra pública, se deberá observar lo estipulado en la presente Ley. Estos Comités serán los responsables de llevar a cabo la adjudicación de la obra pública en cualquiera de las modalidades a la que se refiere la presente Ley, debiendo emitir el fallo correspondiente sobre los asuntos de su competencia que sometan a su consideración las instancias responsables.
 
@@ -587,7 +595,9 @@ En la conformación, operación y ejecución de los Comités de obra pública, s
 
 El Comité de Obra Pública, estará integrado por los siguientes miembros:
 
-I. Un Presidente, que será el Secretario de Infraestructura.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+l. Un Presidente, que será el Secretario de Obra Pública y Comunicaciones.
 
 II. Un Director Ejecutivo, que será nombrado por el Titular del Poder Ejecutivo del Estado.
 
@@ -601,7 +611,9 @@ c) Los Titulares de las áreas adscritas a la Secretaría de Infraestructura, qu
 
 d) Un representante de la Cámara Mexicana de la Industria de la Construcción.
 
-El Secretario de Infraestructura, designará a la persona que fungirá como Secretario Técnico del Comité, interviniendo en las sesiones y acuerdos de este, únicamente con derecho a voz.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+El Secretario de Obra Pública y Comunicaciones designará a la persona que fungirá como Secretario Técnico del Comité, interviniendo en las sesiones y acuerdos de este, únicamente con derecho a voz.
 
 Fungirán como invitados con derecho únicamente a voz, en todas las sesiones del Comité: El representante que designe la Secretaría de la Función Pública, como invitado permanente; un representante del Instituto de Acceso a la Información Pública Estatal; un representante del Órgano de Fiscalización Superior del Congreso del Estado; un representante del Colegio de Ingenieros Civiles del Estado de Chiapas; un representante del Colegio de Arquitectos del Estado de Chiapas; y los especialistas, que en su caso, determine el Presidente o el Comité, para recibir su asesoramiento u opinión técnica en las diversas disciplinas que puedan resultar como tema de discusión, de acuerdo a las características, magnitud, complejidad o especialidad técnica de la obra pública que se pretenda contratar. Los miembros del Comité y los invitados deberán guardar absoluta confidencialidad de la información a que tengan acceso referente a los asuntos en proceso de discusión que no hayan sido resueltos por el Comité. La participación de los invitados no hace necesaria su firma en el acta de la sesión correspondiente, salvo en aquellos casos donde a petición de los invitados y por acuerdo del Comité, sus comentarios deban ser asentados en la misma acta para el desahogo de un asunto.
 
@@ -1784,3 +1796,11 @@ Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de s
 Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Artículo Tercero.- Con relación a los Procedimientos de Obra Pública en materia de desarrollo de energías, que antes de la entrada en vigor del presente Decreto hubieren iniciado y aún se encuentren en trámite, seguirán siendo atendidos por el Comité de Obra Pública respectivo.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 054 DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE OBRA PÚBLICA DEL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
