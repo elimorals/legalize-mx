@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-ejecutivo-del-estado-de-oaxaca-77567"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-01"
-last_updated: "2015-04-22"
+last_updated: "2015-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77567&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el miércoles 1 de diciembre de 2010.
 
@@ -301,11 +301,11 @@ XIV. Secretaría de la Contraloría y Transparencia Gubernamental.
 
 XV. Secretaría del Medio Ambiente y Recursos Naturales.
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 28.
 
-El Gobernador del Estado definirá las dependencias, subsecretarías, direcciones, áreas administrativas, de asesoría, apoyo y de coordinación, que las necesidades de su función requieran en áreas prioritarias que él mismo determine, de acuerdo con el presupuesto de egresos autorizado atendiendo al artículo 85 de la Constitución Política del Estado.
+El Gobernador del Estado definirá las dependencias, subsecretarias, direcciones, áreas administrativas, de asesoría, apoyo y de coordinación, que las necesidades de su función requieran en áreas prioritarias que él mismo determine, de acuerdo con el presupuesto de egresos autorizado atendiendo al artículo 82 de la Constitución Política del Estado.
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
 
@@ -319,11 +319,11 @@ Cuando el titular de alguna de las dependencias, se ausente de sus funciones por
 
 Ante la falta del titular de la Dependencia o Entidad, el Gobernador del Estado podrá nombrar un encargado de despacho.
 
-> <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 30.
 
-Será obligación de los titulares de las Dependencias y Entidades, la emisión de sus Manuales: de Organización, de Procedimientos, de Trámites y Servicios al Público, necesarios para su funcionamiento, de acuerdo con su Reglamento Interno y los lineamientos que establezca la Secretaría de Administración.
+Será obligación de los titulares de las Dependencias y Entidades, la emisión de sus Manuales de Organización y de Procedimientos necesarios para su funcionamiento, de acuerdo con su Reglamento Interno y los lineamientos que establezca la Secretaría de Administración.
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
 
@@ -1111,7 +1111,9 @@ XXV. Las demás que en el ámbito de su competencia le confiera directamente el 
 
 A la Secretaría de Finanzas le corresponde el despacho de los siguientes asuntos:
 
-I. Diseñar y ejecutar las políticas de ingresos y egresos estatales, compatibilizando éstos con los requerimientos del gasto público y procurando un sano equilibrio financiero;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+I. Diseñar y ejecutar las políticas fiscales, presupuestarias, hacendarias y de inversión, que contribuyan a un balance presupuestario sostenible;
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
 
@@ -1121,9 +1123,9 @@ II. Realizar las proyecciones financieras que permitan la formulación de los in
 
 III. Coadyuvar con la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca para definir la visión estratégica estatal de mediano y largo plazo, conforme a la fracción II del artículo 49 Bis de la presente Ley;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-IV. Establecer el seguimiento y evaluación de la situación física y financiera llevando el control y registro de los programas, proyectos y acciones que realiza el Poder Ejecutivo con recursos propios y los provenientes de transferencias y reasignaciones de recursos federales de conformidad a las disposiciones legales aplicables, proporcionando la información pertinente a las instancias competentes para la integración de informes;
+IV. Establecer el seguimiento de la situación física y financiera de los proyectos de inversión autorizados a las Dependencias y Entidades de la Administración Pública;
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
 
@@ -1133,11 +1135,9 @@ V. Determinar las adecuaciones presupuestarias que procedan, con base en los res
 
 VI. Autorizar las adecuaciones presupuestarias siempre que permitan un mejor cumplimiento de los objetivos de los programas a cargo de las Dependencias y Entidades;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-VII. Concertar la coinversión de recursos con los Ayuntamientos, conforme a los lineamientos de inversión pública emitidos anualmente.
-
-Así mismo, de manera coordinada con la Secretaría General de Gobierno y la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca, en el ámbito de sus respectivas competencias, concertar y atender las propuestas de los sectores conforme a su viabilidad presupuestal, avalando los convenios que para esto sean necesarios;
+VII. Participar en la concertación de recursos con los Sectores y/o Ayuntamientos en coordinación con la Secretaría General de Gobierno y la Coordinación General del COPLADE;
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
 
@@ -1185,7 +1185,9 @@ XXII. Orientar y brindar asistencia técnica a los sectores en la elaboración d
 
 XXIII. Coordinar la función de catastro, definiendo lineamientos generales para la formulación del Plano Catastral y el Padrón de la Propiedad Urbana y Rural del Estado;
 
-XXIV. Intervenir en las operaciones en que el Gobierno del Estado haga uso del crédito público, así como llevar un Registro Único de Obligaciones y Empréstitos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XXIV. Intervenir en las operaciones de financiamiento, asegurando las mejores condiciones de mercado;
 
 XXV. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2014)
 
@@ -1221,7 +1223,9 @@ XXXVII. Imponer las sanciones que correspondan por infracciones a las disposicio
 
 XXXVIII. Ejercer la facultad económica coactiva en el ámbito de sus atribuciones fiscales;
 
-XXXIX. Establecer y operar el sistema de contabilidad gubernamental;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XXXIX. Establecer el Sistema de Contabilidad Gubernamental y emitir los lineamientos para la integración de los soportes de los registros en el Sistema, así como de la documentación justificativa y comprobatoria de los mismos;
 
 XL. Formular mensualmente los estados financieros;
 
@@ -1305,13 +1309,13 @@ XII. Reglamentar y coordinar el desarrollo de sistemas de información, a (sic) 
 
 XIII. Establecer coordinadamente con las Dependencias y Entidades, programas de modernización y calidad administrativa, con el propósito de promover la eficacia y eficiencia de la Administración Pública, en los términos de los objetivos, estrategias y líneas de acción del Plan Estatal de Desarrollo;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XIV. Diseñar, definir y autorizar las estructuras administrativas de las dependencias, entidades, órganos desconcentrados y auxiliares del Gobierno del Estado;
+XIV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2015)
 
 XV. Normar los criterios metodológicos de niveles de las Dependencias y Entidades;
 
-XVI. Diseñar las estructuras administrativas de las Dependencias y Entidades de la Administración Pública Estatal, y proponerlas a la consideración presupuestal de la Secretaría (sic) Finanzas, las que una vez valoradas, de acuerdo al presupuesto autorizado, deberán ser validadas y rubricadas por el Secretario de Administración, quien inmediatamente deberá remitirlas, adjuntando el expediente de dictamen, para la autorización definitiva del Gobernador del Estado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XVI. Diseñar, definir y validar las estructuras administrativas de las Dependencias y Entidades de la Administración Pública Estatal, previo análisis de impacto presupuestario convenido con la Secretaría de Finanzas, para la autorización final del Gobernador del Estado;
 
 XVII. Emitir las normas y disposiciones de la Administración Pública Estatal, para la adquisición, arrendamiento o enajenación de bienes y servicios, de conformidad con la normatividad aplicable;
 
@@ -1329,11 +1333,13 @@ XXII. Proponer a consideración del Gobernador del Estado, la creación, modific
 
 XXIII. Conducir y coordinar el desarrollo de programas de mejoramiento administrativo con Dependencias y Entidades de la Administración Pública Estatal, revisando permanentemente los sistemas, métodos y procedimientos de trabajo;
 
-XXIV. Inventariar todas las adquisiciones de bienes muebles y realizar el catálogo de bienes inmuebles del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+XXIV. Llevar el registro de las adquisiciones de bienes muebles destinados al servicio de la Administración Pública, así como integrar el catálogo de bienes inmuebles del Gobierno del Estado;
 
-XXV. Administrar, controlar, asegurar la conservación y, en su caso, la recuperación del patrimonio mueble del Gobierno del Estado; así como, autorizar, controlar y ejecutar coordinadamente con la Dependencia del ramo o entidad, la conservación, remodelación, mantenimiento y obra de inmuebles del Estado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XXV. Administrar el patrimonio mueble del Estado, así como autorizar y en su caso realizar el mantenimiento, conservación y remodelación de los inmuebles propiedad del Estado;
 
 XXVI. Realizar el procedimiento de enajenación y arrendamiento de bienes muebles, pertenecientes a la Administración Pública Estatal, conforme a la normatividad aplicable, previo acuerdo del Titular del Ejecutivo;
 
@@ -1353,7 +1359,9 @@ XXXII. Integrar, actualizar, controlar y publicar el Registro de las Entidades d
 
 XXXIII. Establecer políticas generales y programas estratégicos para la mejora de procesos, la aplicación de tecnologías de la información, la simplificación administrativa y la mejora regulatoria;
 
-XXXIV. Administrar los parques y espacios recreativos propiedad del Gobierno del Estado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XXXIV. Administrar los parques y espacios recreativos en su custodia;
 
 > <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
 
@@ -1363,7 +1371,9 @@ XXXVI. Administrar el Hangar Oficial del Gobierno del Estado;
 
 XXXVII. Administrar la Casa Oficial del Gobierno del Estado;
 
-XXXVIII. Suplir al Presidente del Comité de Transparencia y Acceso a la Información Pública del Poder Ejecutivo del Estado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XXXVIII. Representar al Estado en la defensa y recuperación de los bienes propiedad del Estado;
 
 XXXIX. Informar anualmente al Titular del Ejecutivo del resultado de las evaluaciones que en el ámbito de su competencia realice a las Dependencias y Entidades, y proponer las medidas correctivas que procedan;
 
@@ -1375,9 +1385,7 @@ XL. Llevar a cabo el trámite y registro de las obras intelectuales, marcas y li
 
 XLI. Llevar y actualizar el registro, supervisión, seguimiento y control de las plantillas de personal, así como los movimientos de altas y bajas, de las Dependencias y Entidades de la Administración Pública Estatal;
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XLII. Planear, organizar y coordinar las giras internacionales que deba realizar el Titular o servidores públicos adscritos al Poder Ejecutivo del Estado, realizando la gestión correspondiente ante la Secretaría de Relaciones Exteriores e instancias competentes;
+XLII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2015)
 
 > <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
 
@@ -1387,9 +1395,7 @@ XLIII. Llevar y actualizar, el registro y control de tabuladores salariales y to
 
 XLIV. Dictar las disposiciones administrativas, así como, coordinarse con los sectores especializados en materia del patrimonio edificado cultural o cualquier otro, a efecto de mantener actualizados los inventarios que corresponden a los bienes del Ejecutivo del Estado;
 
-> <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
-XLV. Determinar los lineamientos para el aprovechamiento de la reserva territorial propiedad del Estado, así como, de los inmuebles susceptibles de utilizarse para satisfacer necesidades de proyectos sustentables desarrollados por las dependencias y entidades, y
+XLV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2015)
 
 > <small>(ADICIONADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
 
@@ -1685,7 +1691,7 @@ XXV. Las demás que en el ámbito de su competencia le confiera directamente el 
 
 A la Jefatura de la Gubernatura le corresponde el despacho de los siguientes asuntos:
 
-I. Coordinar y llevar a cabo el seguimiento de los acuerdos que se tomen en el seno de los gabinetes, fungiendo como Secretaría Técnica, elevando a la consideración del Gobernador del Estado, la situación que guarde el cumplimiento de los mismos;
+I. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2015)
 
 II. Dar seguimiento a los acuerdos, convenios y programas que suscriba el Gobernador del Estado;
 
@@ -1693,9 +1699,9 @@ II. Dar seguimiento a los acuerdos, convenios y programas que suscriba el Gobern
 
 III. Establecer en coordinación con la Secretaría de Finanzas y la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca los indicadores que permitan medir las variaciones del desarrollo del Estado de Oaxaca;
 
-> <small>(REFORMADA, P.O. 8 DE NOVIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-IV. Fungir como instancia Técnica de Evaluación, así como, normar y establecer el sistema de evaluación del desempeño para el monitoreo y la evaluación del Plan Estatal de Desarrollo y demás programas institucionales, en coordinación con las Dependencias y Entidades de la Administración Pública Estatal, y con base en la evaluación del avance físico financiero, realizada por la Secretaría de Finanzas;
+IV. Fungir como Instancia Técnica de Evaluación; así como normar y establecer el Sistema de Evaluación del Desempeño para la evaluación del Plan Estatal de Desarrollo, los planes y programas que de él se deriven, en coordinación de las Dependencias y Entidades de la Administración Pública Estatal;
 
 V. Establecer los lineamientos generales e integrar el Informe Anual sobre la situación que guarda la Administración Pública Estatal;
 
@@ -1789,35 +1795,69 @@ XIV. Las demás que en el ámbito de su competencia le confiera directamente el 
 
 A la Coordinación General de Educación Media Superior y Superior, Ciencia y Tecnología, le corresponde el despacho de los siguientes asuntos:
 
-I. Coordinar la planeación, programación, presupuestación y evaluación de los servicios que ofrezca el conjunto de instituciones, subsistemas y organismos de educación para adultos, media superior, superior, ciencia y tecnología que funcionan en el Estado, en congruencia con la legislación federal y estatal aplicable en la materia;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+I. Coordinar la planeación, programación, presupuestación y evaluación de los servicios que ofrezca el conjunto de instituciones, subsistemas y organismos de capacitación para el trabajo, educación media superior, preparatoria abierta, superior, ciencia y tecnología que funcionan en el Estado, en congruencia con la legislación federal y estatal en la materia;
 
 II. Establecer los adecuados canales de comunicación y coordinación con el Instituto Estatal de Educación Pública de Oaxaca, para el desarrollo de la política educativa en el Estado;
 
-III. Ser el conducto oficial y autoridad educativa para tratar los asuntos relacionados con la educación para adultos, educación media superior, superior, ciencia y tecnología de Oaxaca;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-IV. Promover, concertar y desarrollar proyectos y acciones que impulsen la consolidación de la educación para adultos, media superior, superior, ciencia y tecnología de Oaxaca;
+III. Ser el conducto oficial y autoridad educativa para tratar los asuntos relacionados con la capacitación para el trabajo, educación media superior, preparatoria abierta, educación superior, ciencia y tecnología de Oaxaca;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+IV. Promover, concertar y desarrollar proyectos y acciones que impulsen la consolidación de la capacitación para el trabajo, educación media superior, preparatoria abierta, educación superior, ciencia y tecnología de Oaxaca;
 
 V. Promover y suscribir convenios con la Federación, Estados, Municipios y Organismos nacionales e internacionales públicos o privados, para el fortalecimiento del sector que coordina, conforme a la normatividad aplicable a la materia;
 
-VI. Realizar estudios sobre la demanda, cobertura, pertinencia y calidad de la educación para adultos, media superior, superior, ciencia y tecnología, propiciando su consolidación y desarrollo;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-VII. Establecer las políticas para la ampliación de la oferta educativa e incremento de la matrícula en las instituciones de educación para adultos, media superior, superior, ciencia y tecnología, de acuerdo a las prioridades establecidas en el Plan Nacional de Desarrollo, el Plan Estatal de Desarrollo y en sus respectivos programas sectoriales;
+VI. Realizar estudios sobre la demanda, cobertura, pertinencia y calidad de la educación media superior, preparatoria abierta, educación superior, ciencia y tecnología, propiciando su consolidación y desarrollo;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+VII. Establecer las políticas para la ampliación de la oferta educativa e incremento de la materia en las instituciones de educación media superior, preparatoria abierta, educación superior, ciencia y tecnología o sedes de capacitación para el trabajo de acuerdo a las prioridades establecidas en el Plan Nacional de Desarrollo, el Plan Estatal de Desarrollo y en sus respectivos programas sectoriales,
 
 VIII. Elaborar y/o validar los estudios de factibilidad, previo aval de la Comisión Estatal para la Planeación y Programación de la Educación Media Superior y de la Comisión Estatal para la Planeación de la Educación Superior, en el ámbito de sus competencias;
 
-IX. Gestionar y promover la obtención de recursos destinados al desarrollo y consolidación de la educación para adultos, media superior, superior, ciencia y tecnología;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+IX. Gestionar y promover la obtención de recursos destinados al desarrollo y consolidación de la capacitación para el trabajo, educación media superior, preparatoria abierta, educación superior, ciencia y tecnología;
 
 X. Coordinar la elaboración y supervisar la ejecución del Programa de Ciencia y Tecnología para el Estado de Oaxaca, conforme a lo señalado en la normatividad aplicable a la materia;
 
-XI. Establecer los mecanismos de vinculación con el sector académico, instituciones de educación media superior y superior, centros e institutos de investigación, así como con el sector productivo, público, privado y social, conforme a las perspectivas del desarrollo económico, social y cultural en el Estado de Oaxaca;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-XII. Establecer y coordinar programas que promuevan el desempeño académico para el ingreso, permanencia y continuidad de los estudiantes de educación media superior, superior y posgrado;
+XI. Establecer los mecanismos de vinculación con el sector académico, instituciones de capacitación para el trabajo, educación media superior y superior, centros e institutos de investigación, así como con el sector productivo, públicos, privado y social, conforme a las perspectivas del desarrollo económico, social y cultural en el Estado de Oaxaca;
 
-XIII. Coadyuvar con el Instituto Estatal de Educación Pública de Oaxaca en el otorgamiento y retiro del reconocimiento de validez oficial de estudios a los particulares, para ofrecer servicios de educación media superior, superior y posgrado; así como en la revalidación, convalidación u otorgamiento de equivalencias de estudios para la educación de adultos media superior y superior de acuerdo con los lineamientos legales correspondientes;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-XIV. Conformar las bases de datos que permitan generar la información estadística para la consolidación del funcionamiento de la educación para adultos, educación media superior, superior, ciencia y tecnología, y
+XII. Establecer y coordinar los programas de apoyo económico a través de becas y créditos que promuevan el desempeño académico para el ingreso, permanencia y egreso de los estudiantes de educación media superior y superior;
 
-XV. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás normatividad aplicable.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XIII. Resolver sobre el otorgamiento y retiro del reconocimiento de validez oficial de estudios a los particulares, que pretendan ofertar servicios de educación media superior y superior en el Estado, así como, para impartir capacitación para el trabajo,
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XIV. Conformar las bases de datos que permitan generar la información estadística para la consolidación del funcionamiento de la capacitación para el trabajo, educación media superior, preparatoria abierta, educación superior, ciencia y tecnología;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XV. Revalidar, convalidar u otorgar equivalencias de estudios para la educación media superior y superior de acuerdo a los lineamientos legales correspondientes;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XVI. Establecer y realizar los sistemas de control escolar de las instituciones públicas y particulares en capacitación para el trabajo, educación media superior, preparatoria abierta y educación superior;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XVII. Expedir constancias, certificados de estudios, diplomas, títulos y grados académicos en el ámbito de su competencia, así como, validar títulos y grados académicos de servicios de educación normal y para la formación de docentes, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XVIII. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, la legislación federal y estatal, su Reglamento Interno y demás normatividad aplicable en la materia.
 
 > <small>(REFORMADO, P.O. 10 DE MARZO DE 2012)</small>
 
@@ -1851,31 +1891,9 @@ El Gobernador del Estado podrá constituir comisiones intersecretariales, para e
 
 Las Entidades de la Administración Pública Estatal podrán integrarse a dichas comisiones, cuando se trate de asuntos relacionados con su objeto.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE NOVIEMBRE DE 2013)</small>
-
 ###### ARTÍCULO 56.
 
-La Comisión Intersecretarial de Gasto-Financiamiento es un organismo integrado por los Secretarios de Finanzas, de Administración y de la Contraloría y Transparencia Gubernamental, así como, el titular de la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca y los demás funcionarios que determine el Gobernador del Estado.
-
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
-
-El Secretario de Finanzas fungirá como Secretario Técnico de la Comisión.
-
-> <small>(ADICIONADO, P.O. 10 DE MARZO DE 2012)</small>
-
-A la Comisión Intersecretarial de Gasto-Financiamiento le corresponderá el despacho de los siguientes asuntos:
-
-I. Recomendar que sean compatibles las decisiones que se tomen en materia de gasto público y su financiamiento, y de los programas correspondientes, así como sugerir medidas tendientes al mejoramiento del Sistema de Control y Evaluación del Ejercicio Presupuestal;
-
-II. Analizar el comportamiento del gasto público y su financiamiento, para evitar desviaciones respecto a lo programado y sugerir las medidas correctivas, y en su caso, recomendar los ajustes a los programas operativos anuales y de inversión de la Administración Pública Estatal
-
-III. Examinar la situación financiera de las Entidades de la Administración Pública Estatal, preferentemente la de aquellas que presenten condiciones críticas, en colaboración con los coordinadores de sector o representantes de las propias Entidades, para proponer las medidas conducentes;
-
-IV. Proponer un calendario de ingresos y gastos para prever las necesidades de financiamiento que, con la oportunidad requerida, permita contar con los recursos suficientes para lograr el debido cumplimiento de las obligaciones del Estado, cuidando que se armonice el ejercicio del presupuesto de egresos con los recursos provenientes de la Ley de Ingresos y del Programa Estatal de Financiamiento;
-
-V. Promover mecanismos de comunicación permanente entre las Secretarías de Finanzas, de Administración y de la Contraloría y Transparencia Gubernamental, que permitan conocer, con oportunidad y confiabilidad, el ejercicio del gasto público y su financiamiento; y
-
-VI. Las demás que en el ámbito de su competencia le confiera directamente el Gobernador del Estado, su Reglamento Interno y demás disposiciones normativas aplicables.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### ARTÍCULO 57.
 
@@ -1891,9 +1909,9 @@ VI. Las demás que en el ámbito de su competencia le confiera directamente el G
 
 El Gobernador del Estado podrá constituir mediante acuerdo o decreto los gabinetes sectoriales o especializados que considere necesarios para el despacho de los asuntos en que deban intervenir las Dependencias y Entidades.
 
-> <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-Todos los gabinetes serán presididos por el Titular de la Jefatura de la Gubernatura y en su ausencia los presidirá el servidor público que funja como Coordinador del Gabinete Sectorial o Especializado, debiendo recaer la coordinación, en el titular de la Dependencia u Órgano Auxiliar cabeza de Sector o en el titular de la Dependencia u Órgano Auxiliar cuya competencia se refiera a la especialidad del Gabinete.
+Todos los gabinetes serán presididos por el Titular de la Secretaría General de Gobierno y en su ausencia los presidirá el servidor público que funja como Coordinador del Gabinete Sectorial o Especializado, debiendo recaer la coordinación, en el titular de la Dependencia u Órgano Auxiliar cabeza de Sector o en el titular de la Dependencia u Órgano Auxiliar cuya competencia se refiera a la especialidad del Gabinete.
 
 > <small>(REFORMADO, P.O. 22 DE ABRIL DE 2015)</small>
 
@@ -2324,3 +2342,11 @@ El mismo criterio se aplicará al nombrar al titular de dicha dependencia. Las o
 TERCERO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas.
 
 CUARTO. El Congreso del Estado contará con un término de sesenta días para realizar las reformas a las leyes estatales que resulten pertinentes, para el cumplimiento del presente Decreto a partir de su entrada en vigor.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1386.- MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente hábil de su publicación en el Órgano de difusión oficial del Estado.
+
+SEGUNDO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas.
