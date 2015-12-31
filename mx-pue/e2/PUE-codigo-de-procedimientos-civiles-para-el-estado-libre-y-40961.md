@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-procedimientos-civiles-para-el-estado-libre-y-40961"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-08-09"
-last_updated: "2015-11-25"
+last_updated: "2015-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el lunes 9 de agosto de 2004.
 
@@ -5679,19 +5679,41 @@ Cuando todos los herederos sean mayores de edad, hubieren sido reconocidos judic
 
 Cuando todos los herederos sean mayores de edad y hubieren sido reconocidos judicialmente con tal carácter, el procedimiento podrá seguirse tramitando ante notario público, de acuerdo con lo que se establece en este Capítulo.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 784.
 
-Cuando todos los herederos sean mayores de edad, o siendo menores estén emancipados con tutor y hubieren sido instituidos en un testamento público abierto, mientras no hubiere controversia alguna, la testamentaría podrá ser extrajudicial ante notario público, con arreglo a lo que se establece en las fracciones siguientes:
+Cuando todos los herederos sean mayores de edad, o siendo menores estén emancipados con tutor, mientras no hubiere controversia alguna, la testamentaria o intestamentaria podrá ser extrajudicial ante Notario público, con arreglo a lo siguiente:
 
-I.- El albacea, si lo hubiere, los herederos, o en su caso los legatarios instituidos, exhibirán al notario copia certificada del acta de defunción del autor de la herencia, un testimonio del testamento; harán constar que reconocen la validez de éste, que aceptan la herencia o legado, que reconocen sus derechos hereditarios, que el albacea acepta el cargo instituido por el autor de la sucesión y que va a proceder a formar el inventario de los bienes de la herencia;
+l. De la sucesión testamentaria:
 
-II.- El notario dará a conocer esas declaraciones de los interesados por medio de dos publicaciones que se harán con un intervalo mínimo de diez días, en un periódico de los de mayor circulación en el Estado y pedirá informe al Archivo General de Notarías sobre si el que se le exhibió es el último testamento otorgado por el autor de la herencia;
+a) El albacea, si lo hubiere, los herederos, o en su caso los legatarios instituidos, exhibirán al Notario copia certificada del acta de defunción del autor de la herencia, un testimonio del testamento; harán constar que reconocen la validez de este, que aceptan la herencia o legado, que reconocen sus derechos hereditarios, que el albacea acepta el cargo instituido por el autor de la sucesión y que va a proceder a formar el inventario de los bienes de la herencia;
 
-III.- Practicado el inventario por el albacea y estando conformes con él los herederos y legatarios, en su caso, lo presentarán para su protocolización y todos ellos comparecerán ante el notario para la firma del acta correspondiente;
+b) El Notario dará a conocer esas declaraciones de los interesados por medio de dos publicaciones que se harán con un intervalo mínimo de diez días, en un periódico de los de mayor circulación en el Estado y pedirá informe al Archivo General de Notarías sobre si el que se le exhibió es el último testamento otorgado por el autor de la herencia;
 
-IV.- La escritura de partición y adjudicación se hará como lo previno el testador y a falta de ello, como lo convengan los herederos, y
+c) Practicado el inventario por el albacea y estando conformes con el los herederos y legatarios, en su caso, lo presentarán para su protocolización y todos ellos comparecerán ante el Notario para la firma del acta correspondiente; y
 
-V.- Siempre que haya oposición de algún aspirante a la herencia o de cualquier acreedor, sea impugnado el testamento, la capacidad para heredar, o se suscite controversia entre los interesados, el notario suspenderá su intervención y remitirá todo lo actuado al Tribunal Superior de Justicia, para que éste lo turne al Juez competente que deba conocer del asunto.
+d) La escritura de partición y adjudicación se hará como lo previno el testador y a falta de ello, como lo convengan los herederos.
+
+II. De la sucesión intestamentaria:
+
+a) La sucesión intestamentaria podrá tramitarse ante Notario si el último domicilio del autor de la sucesión fue el Estado de Puebla, o si se encuentran ubicados en la entidad uno o la mayor parte de los bienes, lo cual deberán acreditar;
+
+b) Los herederos acreditarán su entroncamiento con el autor de la sucesión mediante copia certificada de las actas de nacimiento respectivas, expedidas por el Registro del Estado Civil de las Personas y exhibirán la copia certificada del acta de defunción del autor de la sucesión. Podrán tramitar esta sucesión, el o la cónyuge, los ascendientes, descendientes y colaterales hasta el cuarto grado; fuera de estos casos, la sucesión deberá tramitarse por la vía judicial.
+
+Cumplido lo anterior, el Notario deberá pedir al Archivo General de Notarías constancias de no tener depositado testamento o informe de que haya otorgado alguno el autor de la sucesión. Si hubiere testamento se estará a lo dispuesto en el apartado anterior;
+
+c) Los herederos, en el orden de derechos previsto por el Código Civil, comparecerán todos ante Notario; y previa declaración de que no conocen de la existencia de persona alguna diversa de ellos con derecho a heredar en el mismo grado o en uno preferente al de ellos mismos, se procederá en los términos siguientes:
+
+A. El Notario hará constar en instrumento público el inicio del trámite de la sucesión y que le fueron acreditados los requisitos señalados en los incisos que anteceden.
+
+B. El Notario está obligado a dar a conocer las declaraciones de los herederos a que se refieren los incisos anteriores, mediante dos publicaciones que se harán en un diario de mayor circulación en el Estado Puebla (sic), con intervalo de diez días, con la mención del número de instrumento que corresponda, a efecto de convocar a quien o quienes se crean con derecho a los bienes de la herencia, para que se presenten dentro de los diez días siguientes al de la última publicación, a deducir sus derechos.
+
+C. Transcurrido el último plazo citado en el inciso anterior y acreditada su calidad de herederos, procederán a designar de común acuerdo el albacea o albaceas definitivos de la sucesión, estos últimos aceptarán su cargo, protestarán su fiel desempeño y presentarán al Notario el inventario y avalúos de los bienes que forman el acervo hereditario del autor de la sucesión para que, con la aprobación de todos los coherederos, lo que se hará constar en instrumento público.
+
+D. Los herederos y albacea otorgarán las escrituras de partición y adjudicación, conforme a las disposiciones de la Ley de la materia para los intestados o como los propios herederos convengan, previa la rendición de cuentas por él o los albaceas si las hubiere, lo que podrán hacer constar en el instrumento citado en el punto anterior.
+
+Si durante el trámite de las sucesiones previstas en este artículo surge oposición de algún aspirante a la herencia o de cualquier acreedor, sea impugnado el testamento, la capacidad para heredar, o se suscite controversia entre los interesados, el Notario suspenderá su intervención y remitirá todo lo actuado al Tribunal Superior de Justicia, para que éste lo turne al Juez competente que deba conocer del asunto.
 
 ###### Artículo 785.
 
@@ -6448,3 +6470,27 @@ P.O. 25 DE NOVIEMBRE DE 2015.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE EXPIDE LA LEY DEL NOTARIADO DEL ESTADO DE PUEBLA; ASÍ COMO REFORMA EL ARTÍCULO 784 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. La presente Ley y decreto entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. El Consejo de Notarios deberá emitir el Código de Ética al que se refiere esta Ley, dentro de los cuarenta y cinco días hábiles siguientes de la entrada en vigor de la presente Ley.
+
+TERCERO. El Consejo de Notarios presentará la propuesta de arancel correspondiente, dentro de los cinco días hábiles siguientes a la entrada en vigor de la presente Ley, a la que anexará las consideraciones que sustenten su propuesta. De no presentarlo en este plazo, el Poder Ejecutivo del Estado lo emitirá sin la opinión del Consejo de Notarios.
+
+CUARTO. La digitalización o escaneo de los instrumentos a que se refiere esta Ley, versará sobre los que se otorguen a partir de la entrada en vigor de la misma.
+
+QUINTO. Se respetan los derechos adquiridos por los particulares y Notarios Titulares, Auxiliares, Suplentes y Asociados, durante la vigencia de las leyes del Notariado anteriores a ésta.
+
+SEXTO. El Consejo de Notarios deberá presentar a la Secretaría General de Gobierno el calendario respectivo para atender programas de atención ciudadana en juntas auxiliares y zonas marginadas, dentro de los cinco días hábiles siguientes a la entrada en vigor de la presente.
+
+SÉPTIMO. Queda prohibido a los Notarios protocolizar contratos privados traslativos de dominio de bienes inmuebles que hubieren sido firmados antes de la entrada en vigor de esta Ley, con excepción de los casos previstos en esta Ley o aquéllos en que así lo ordene la autoridad judicial.
+
+OCTAVO. Se derogan todas las disposiciones que se opongan a la presente Ley.
+
+NOVENO. Se abroga la Ley del Notariado del Estado de Puebla, publicada en el Periódico Oficial del Estado el treinta y uno de diciembre de dos mil doce, 9ª sección.
+
+DÉCIMO. Todos los asuntos pendientes de trámite, se concluirán con la Ley del Notariado vigente al momento de su sustanciación.
