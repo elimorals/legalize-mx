@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-municipal-para-el-estado-de-hidalgo-76288"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-08-09"
-last_updated: "2015-06-29"
+last_updated: "2015-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76288&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY ORGANICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE MARZO DE 2016 EN EL P.O. DEL ESTADO DE HIDALGO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 9 de agosto de 2010.
 
@@ -79,13 +81,17 @@ III.- La presente Ley; y
 
 IV.- Los Bandos y Reglamentos que cada Municipio expida de acuerdo a sus condiciones territoriales, socio-económicas, su capacidad administrativa y financiera.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 4.
 
-Dentro de las disposiciones contenidas en este ordenamiento se consideran bases generales los siguientes Artículos: 1 a 27, 29 a 48, 50 a 54, 56 fracción I, 57 a 60 fracción I, 61 a 79, 93 a 102, 104 a 110, 112 a 115, 119 a 121 y 138 a 197.
+Dentro de las disposiciones contenidas en este ordenamiento se consideran bases generales los siguientes artículos: 1 a 27, 29 a 48, 50 a 54, 56 fracción I, 57 a 60 fracción I, 61 a 79, 93 a 102, 104 a 110, 112 a 115, 119 a 121, 138 a 145 y 146 a 194.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 5.
 
-A falta de Reglamentos en los Municipios, son supletorios los siguientes Artículos: 28, 49, 55, 56 fracción II, 60 fracción II, 80 a 92, 103, 111, 116 a 118; 122 a 137 y 198.
+A falta de reglamentos en los municipios, son supletorios los siguientes artículos: 28, 49, 55, 56 fracción II, 60 fracción II, 80 a 92, 103, 108, 111, 116 a 118; 122 a 137, 145 BIS, 145 TER, 145 SEPTIMUS, 145 OCTAVUS y 145 NOVENUS.
 
 ###### ARTÍCULO 6.
 
@@ -653,9 +659,19 @@ w).- Autorizar al Presidente Municipal para solicitar al Gobernador, la expropia
 
 x).- Prevenir y combatir, en proporción, a la posibilidad de sus recursos, la contaminación ambiental;
 
-y).- Designar al Regidor o Regidores que deban suplir al Presidente Municipal y a los Síndicos, en caso de falta absoluta de éstos y de sus suplentes; y
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+y).- Designar al Regidor o Regidores que deban suplir al Presidente Municipal y a los Síndicos, en caso de falta absoluta de éstos y de sus suplentes;
 
 z).- Asumir las facultades y obligaciones derivadas de la Ley de Deuda Pública, particularmente para el efecto de contraer obligaciones o celebrar empréstitos o créditos que deriven del crédito público y que, en términos de la Ley de la materia, constituyan deuda pública, así como lo relativo a su administración, registro y control.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+aa).- Instrumentar y articular, en concordancia con la política nacional y estatal, la política municipal orientada a erradicar la violencia contra las mujeres y el logro de la igualdad sustantiva entre mujeres y hombres; y
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+bb).- Incorporar la perspectiva de género en los planes, programas y acciones municipales.
 
 II.- Asimismo, podrán:
 
@@ -791,13 +807,17 @@ XXIV. Deporte;
 
 XXV.- Vivienda;
 
-> <small>(REFORMADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-XXVI. Pesca y Acuacultura; y
+XXVI.- Pesca y Acuacultura;
 
-> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-XXVII. Desarrollo Rural y atención a pueblos y comunidades Indígenas.
+XXVII.- Desarrollo Rural y atención a pueblos y comunidades Indígenas; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XXVIII.- Erradicación de la violencia contra las mujeres e igualdad de género.
 
 La concurrencia comprende la elaboración, ejecución y operación de programas, obras, servicios y acciones, de acuerdo con sus capacidades técnicas, administrativas y financieras, conforme a los Convenios de Coordinación que, para tal efecto, se celebren y en los términos que disponga la legislación correspondiente.
 
@@ -896,6 +916,18 @@ gg).- Presentar ante la Auditoría Superior del Congreso del Estado, su declarac
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
 hh).- Tratándose de municipios pertenecientes a Zonas Metropolitanas, elaborar un Programa Municipal de Desarrollo Urbano y Ordenamiento Territorial que contenga proyectos y programas congruentes con el Plan de Desarrollo Estatal y Municipal en materia metropolitana y que deberá ser presentado a más tardar noventa días después de tomar posesión de su cargo.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+ii) Promover la armonización normativa en materia de derechos humanos;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+jj) Establecer programas de sensibilización y capacitación dirigido a las y los servidores públicos municipales y a la población en general dirigidos a modificar los roles y estereotipos sociales que reproduzcan la violencia de género, difundir los derechos humanos de mujeres y hombres y la resolución pacífica de conflictos; y
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+kk) Elaborar, en concordancia con la legislación y programas nacionales y estatales, el Programa Municipal para la Igualdad y No Discriminación, considerando las disposiciones específicas en materia de prevenir, atender y eliminar la discriminación, así como en materia de igualdad entre mujeres y hombres, dentro de los tres primeros meses del inicio de la Administración Municipal, en concordancia con la respectiva presentación del Plan de Desarrollo.
 
 II.- Asimismo, podrán:
 
@@ -1279,9 +1311,11 @@ VI.- El tiempo que durarán en su encargo, el cual no será mayor de un año, co
 
 Asimismo, establecerán las causas de remoción por causa justificada, del Delegado y Subdelegado, respetando la garantía de audiencia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 81.
 
-Las disposiciones contenidas en los Reglamentos no facultarán a los órganos auxiliares Municipales para que impongan sanciones.
+Las disposiciones contenidas en los reglamentos no facultarán a los órganos auxiliares municipales para que impongan sanciones, ni apliquen procedimientos de conciliación en casos de violencia familiar o sexual.
 
 Los órganos auxiliares de cualquier denominación, al interior de las comunidades, pueblos o barrios de los Municipios de la Entidad, se encuentran obligados en todo momento a respetar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Hidalgo, la presente Ley, los Bandos Municipales y sus Reglamentos, así como las Leyes Estatales de observancia general, en consecuencia, deben abstenerse de actos contrarios a las mismas.
 
@@ -1303,13 +1337,17 @@ IV.- Auxiliar en todo lo que requiera al Presidente Municipal para el mejor cump
 
 V.- Auxiliar en la elaboración del Reglamento Interno de las comunidades indígenas reconocidas, a fin de que se establezcan, limiten y regulen los usos y costumbres propios, respetando el derecho a la consulta;
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+VI.- Los delegados y subdelegados podrán elaborar un plan de desarrollo rural o urbano según sea el caso, mismo que precisará los objetivos, estrategias, líneas de acción y prioridades del Desarrollo Integral de la comunidad con una visión de 20 a 30 años a futuro;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+VII.- Promover la igualdad entre mujeres y hombres y la erradicación de la violencia contra las mujeres; y
+
 > <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
-VI.- Los delegados y subdelegados podrán elaborar un plan de desarrollo rural o urbano según sea el caso, mismo que precisará los objetivos, estrategias, líneas de acción y prioridades del Desarrollo Integral de la comunidad con una visión de 20 a 30 años a futuro; y
-
-> <small>(ADICIONADA, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
-
-VII.- Las demás que le otorguen los reglamentos respectivos.
+VIII.- Las demás que le otorguen los reglamentos respectivos.
 
 ###### ARTÍCULO 82.
 
@@ -1325,9 +1363,11 @@ El Presidente Municipal, con el acuerdo de la mayoría de los integrantes del Ay
 
 Los Delegados y Subdelegados, están facultados para presidir los Consejos de Colaboración Municipal, si así lo aprueba la mayoría de los vecinos del pueblo, comunidad, zona, demarcación, colonia, fraccionamiento o barrio, en primera convocatoria pública o los que asistan en segunda convocatoria.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 84.
 
-Los Consejos de Colaboración. Municipal se integrarán con vecinos del Municipio, en la forma y términos que determine el Reglamento Interior del Ayuntamiento.
+Los Consejos de Colaboración Municipal se integrarán con vecinos del Municipio, en la forma y términos que determine el Reglamento Interior del Ayuntamiento procurando la participación igualitaria de mujeres y hombres.
 
 ## TÍTULO CUARTO. DE LOS ORGANISMOS DESCENTRALIZADOS Y EMPRESAS DE PARTICIPACIÓN MUNICIPAL
 
@@ -1857,9 +1897,15 @@ XVI.- Fomento al turismo y la recreación;
 
 XVII.- Regulación y vigilancia de toda clase de espectáculos;
 
-XVIII.- Instalaciones propiedad del Municipio destinadas a la actividad deportiva; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-XIX.- Los demás que los Reglamentos Municipales determinen, según sus condiciones territoriales y socioeconómicas; así como sus capacidades técnicas administrativas y financieras.
+XVIII.- Instalaciones propiedad del Municipio destinadas a la actividad deportiva;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XIX.- Fomento a la igualdad sustantiva entre mujeres y hombres y erradicación de la violencia contra las mujeres; y
+
+XX.- Los demás que los Reglamentos Municipales determinen, según sus condiciones territoriales y socioeconómicas; así como sus capacidades técnicas administrativas y financieras.
 
 Estos servicios podrán prestarse con el concurso del Gobierno del Estado, mediante convenio cuando, previa autorización del Ayuntamiento, lo soliciten las autoridades Municipales en términos de Ley.
 
@@ -2045,6 +2091,10 @@ El Titular del Desarrollo Integral de la Familia Municipal, deberá contar con e
 
 En cada Municipio, deberá existir un cuerpo de seguridad pública, que estará bajo el mando del Presidente Municipal, el que acatará las órdenes que el Gobernador del Estado le trasmita en aquellos casos que juzgue como de fuerza mayor o alteración grave del orden público y las previstas por el Artículo 115 de la Constitución Política de los Estados Unidos Mexicanos.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Al cuerpo de seguridad pública municipal le corresponde la ejecución y vigilancia de las órdenes de protección a que hace referencia la Ley de Acceso de las Mujeres a una Vida Libre de Violencia, cuando así sea determinado por la autoridad que la expide.
+
 ###### ARTÍCULO 124.
 
 La prestación de los servicios de Policía Preventiva y Tránsito, estarán encomendados a los agentes de vigilancia Municipal, cuyo titular será designado y removido por el Presidente Municipal.
@@ -2215,6 +2265,8 @@ ARTÍCULO 146 (SIC) QUINQUIES.- Los Pueblos y las comunidades indígenas tienen 
 
 ARTÍCULO 146 (SIC) SEXTUS.- El Municipio a través de La Secretaría de Desarrollo para Pueblos y Comunidades Indígenas deberá realizar estudios, en coordinación con las comunidades indígenas, a fin de evaluar la incidencia económica, social, cultural y sobre el ambiente, que las actividades de desarrollo previstas, puedan tener sobre esos pueblos. Los resultados de estos estudios se considerarán como criterios fundamentales para la ejecución de las actividades del desarrollo.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 130.
 
 Los Ayuntamientos necesitan autorización del Congreso del Estado, para:
@@ -2275,7 +2327,41 @@ Los Ayuntamientos, con apego a la legislación vigente sobre asentamientos human
 
 Los acuerdos, concesiones, licencias, permisos y autorizaciones otorgados por autoridades, funcionarios o empleados Municipales, que carezcan de la competencia necesaria para ello, o los que se dicten por error, dolo o violencia, que perjudiquen o restrinjan los derechos del Municipio sobre sus bienes de dominio público o sobre cualquier materia administrativa, serán anulados administrativamente por los Ayuntamientos, previa audiencia de los interesados.
 
-### CAPÍTULO PRIMERO. DE LA MUNICIPALIZACIÓN
+### CAPÍTULO DÉCIMO TER. DE LA INSTANCIA MUNICIPAL PARA EL DESARROLLO DE LAS MUJERES
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+ARTÍCULO 145 SEPTIMUS.- En cada municipio, podrá existir una Instancia Municipal para el Desarrollo de las Mujeres, creada como organismo descentralizado o centralizado de la administración pública municipal, que tendrá por objeto:
+
+I. Fomentar acciones que posibiliten la no discriminación, la igualdad jurídica, de oportunidades y de trato entre mujeres y hombres;
+
+II. Promover acciones en coordinación con otras instancias, relativas a la prevención, atención, sanción y erradicación de la violencia contra las mujeres; y
+
+III. Favorecer el ejercicio pleno de todos los derechos de las mujeres y su participación en la vida política, cultural, económica y social del municipio.
+
+La persona titular de la Instancia Municipal para el Desarrollo de las Mujeres deberá contar, como mínimo, con bachillerato o carrera técnica, y tener conocimientos inherentes al buen desempeño de su cargo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+ARTÍCULO 145 OCTAVUS.- La Instancia Municipal para el Desarrollo de las Mujeres tendrá las siguientes atribuciones:
+
+I. Fungir como órgano de consulta, capacitación y asesoría del Ayuntamiento, Presidente Municipal, dependencias de la administración pública municipal, organizaciones sociales y asociaciones civiles y de empresas, en materia de igualdad de género, implementación de la perspectiva de género y erradicación de la violencia contra las mujeres;
+
+II. Promover y concertar acciones, apoyos y colaboraciones con los sectores social y privado, en la coordinación de esfuerzos participativos en favor de una política de igualdad entre mujeres y hombres;
+
+III. Promover la celebración de convenios o cualquier acto jurídico con instituciones públicas o privadas, para llevar a cabo programas o proyectos que propicien el desarrollo integral de las mujeres, así como para lograr el cumplimiento de su objeto;
+
+IV. Promover la incorporación de la perspectiva de género en la planeación, organización, ejecución y control de programas y proyectos, con el fin de eliminar las brechas de desigualdad subsistentes;
+
+V. Promover e impulsar condiciones que hagan posible la defensa y el ejercicio de los derechos de las mujeres; la igualdad de oportunidades; y su participación activa en todos los órdenes de la vida;
+
+VI. Instrumentar, en concordancia con la política nacional y estatal, la política pública relativa a la igualdad sustantiva entre mujeres y hombres y erradicación de la violencia contra las mujeres; y
+
+VII. Las demás que le otorguen las Leyes, su Reglamento y demás ordenamientos legales.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+ARTÍCULO 145 NOVENUS.- Las dependencias y organismos de la administración pública municipal, dentro del ámbito de su competencia, participarán con la Instancia Municipal para el Desarrollo de las Mujeres en el diseño, planeación, ejecución y evaluación de los programas, proyectos o acciones, derivadas del ejercicio de las atribuciones legalmente conferidas.
 
 ###### ARTÍCULO 139.
 
@@ -2361,6 +2447,8 @@ El Comité de Planeación, contará con el apoyo técnico que en cada caso se co
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 2 DE SEPTIEMBRE DE 2013)</small>
 
+### CAPÍTULO PRIMERO. DE LA MUNICIPALIZACIÓN
+
 ### CAPÍTULO SEGUNDO. DE LAS CONCESIONES DE LOS SERVICIOS PÚBLICOS MUNICIPALES
 
 ### CAPÍTULO PRIMERO. DE LA CONCILIACIÓN MUNICIPAL
@@ -2371,11 +2459,9 @@ El Comité de Planeación, contará con el apoyo técnico que en cada caso se co
 
 ### CAPÍTULO CUARTO. DE LAS RESPONSABILIDADES DE LAS AUTORIDADES MUNICIPALES
 
-### CAPÍTULO ÚNICO
-
 ## TÍTULO SÉPTIMO. DE LA MUNICIPALIZACIÓN Y CONCESIÓN DE LOS SERVICIOS PÚBLICOS
 
-### CAPÍTULO PRIMERO. ASESORÍA MUNICIPAL
+### CAPÍTULO ÚNICO
 
 ###### ARTÍCULO 146.
 
@@ -2405,7 +2491,7 @@ Seguido el trámite que señala el artículo precedente, el Ayuntamiento, con la
 
 En caso de que se apruebe la municipalización del servicio y el Municipio carezca de recursos para prestarlo, podrá nuevamente otorgarlo en concesión en términos de esta Ley.
 
-### CAPÍTULO SEGUNDO. DE LOS DERECHOS HUMANOS
+### CAPÍTULO PRIMERO. ASESORÍA MUNICIPAL
 
 ###### ARTÍCULO 152.
 
@@ -2509,6 +2595,8 @@ IV.- Que las instalaciones y equipo se encuentren en condiciones para la prestac
 
 ## TÍTULO OCTAVO. DE LA JUSTICIA ADMINISTRATIVA
 
+### CAPÍTULO SEGUNDO. DE LOS DERECHOS HUMANOS
+
 ###### ARTÍCULO 160.
 
 La justicia administrativa es una instancia que tiene por objeto mantener la tranquilidad, la seguridad y el orden públicos, así como procurar el cumplimiento de los ordenamientos legales, administrativos y reglamentarios del Municipio y se impartirá por un Conciliador Municipal.
@@ -2569,9 +2657,17 @@ I.- Girar órdenes de aprehensión;
 
 II.- Imponer sanción alguna que no esté expresamente señalada en la normatividad Municipal aplicable;
 
-III.- Juzgar asuntos de carácter civil e imponer sanciones de carácter penal; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-IV.- Ordenar la detención que sea competencia de otras autoridades.
+III.- Juzgar asuntos de carácter civil e imponer sanciones de carácter penal;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+IV.- Ordenar la detención que sea competencia de otras autoridades; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+V.- No podrán aplicar procedimientos de conciliación en casos de violencia familiar o sexual, en estos casos tienen la obligación de canalizar a las victimas ante las instancias o dependencias correspondientes.
 
 ###### ARTÍCULO 164.
 
@@ -2908,3 +3004,17 @@ P.O. 29 DE JUNIO DE 2015.
 DECRETO NÚMERO 433, POR EL QUE SE REFORMA, EL SEGUNDO PÁRRAFO DEL INCISO P FRACCIÓN II Y SE ADICIONA UN TERCER PÁRRAFO, RECORRIÉNDOSE LOS SUBSECUENTES DEL ARTÍCULO 56 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE HIDALGO.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 507 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 542, QUE REFORMA LOS INCISOS II) Y JJ) Y SE ADICIONA EL INCISO KK), A LA FRACCIÓN I DEL ARTÍCULO 4 (SIC) DE LA LEY ORGÁNICA MUNICIPAL PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
