@@ -4,7 +4,7 @@ identifier: "HID-ley-de-entidades-paraestatales-del-estado-de-hidalgo-95591"
 country: "mx"
 rank: "ley"
 publication_date: "2013-07-29"
-last_updated: "2013-07-29"
+last_updated: "2015-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95591&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 29 de julio de 2013.
 
@@ -183,7 +183,11 @@ XI.- Nombrar y remover, a propuesta del Director General, a los servidores públ
 
 XII.- Nombrar y remover a propuesta de su presidente, al secretario y prosecretario del Órgano de Gobierno quienes podrán ser miembros o no del mismo;
 
-XIII.- Aprobar la constitución de reservas y aplicación de las utilidades de las Empresas de Participación Estatal Mayoritaria. En los casos de los excedentes económicos de los Organismos Descentralizados, proponer la constitución de reservas y su aplicación, para la determinación que señale el Ejecutivo Estatal a través de la Secretaría de Finanzas y Administración;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XIII.- Aprobar la constitución de reservas en las entidades que conforman la administración pública paraestatal, siempre que correspondan a utilidades de las empresas de participación estatal mayoritaria, ingresos excedentes, o bien remanentes derivados de economías en aportaciones, transferencias, subsidios y convenios.
+
+La constitución de reservas a que se refiere la presente fracción será procedente siempre que los ingresos excedentes, las utilidades o los remanentes sean reintegrados a la Secretaría de Finanzas y Administración, la que, en su caso, expedirá las autorizaciones respectivas, atendiendo, entre otras, las disposiciones que se establezcan en la Ley de Ingresos del ejercicio fiscal de que se trate.
 
 XIV.- Establecer, con sujeción a las disposiciones legales aplicables, las normas y bases para la adquisición, arrendamiento y enajenación de inmuebles que la Entidad Paraestatal requiera para la prestación de sus servicios, de conformidad con la Ley de Bienes del Estado;
 
@@ -616,3 +620,13 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO DE HIDALGO
 
 LIC. JOSÉ FRANCISCO OLVERA RUIZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 508 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ENTIDADES PARAESTATALES PARA EL ESTADO DE HIDALGO, DE LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE HIDALGO; DE LA LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO Y DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el primero de enero del año 2016, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
