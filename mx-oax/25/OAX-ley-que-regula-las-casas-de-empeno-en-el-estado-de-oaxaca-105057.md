@@ -4,7 +4,7 @@ identifier: "OAX-ley-que-regula-las-casas-de-empeno-en-el-estado-de-oaxaca-10505
 country: "mx"
 rank: "ley"
 publication_date: "2015-01-02"
-last_updated: "2015-08-01"
+last_updated: "2015-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=105057&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "OAX"
 
 LEY QUE REGULA LAS CASAS DE EMPEÑO EN EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2015.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY QUE REGULA LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE OAXACA, PUBLICADA EN EL P.O. DE 31 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el viernes 2 de enero de 2015.
 
@@ -582,3 +584,11 @@ NOTA: Las presentes firmas corresponden al Decreto N° 879.- por el que la Sexag
 P.O. 1 DE AGOSTO DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el órgano de difusión oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1662.- MEDIANTE EL CUAL SE APRUEBA LA LEY QUE REGULA LA APERTURA, INSTALACIÓN Y FUNCIONAMIENTO DE LAS CASAS DE EMPEÑO EN EL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Decreto entrará en vigor el uno de enero de dos mil dieciséis, previa publicación en el Órgano de difusión oficial del Estado.
+
+SEGUNDO. A la entrada en vigor de esta Ley, se abroga la Ley que Regula las Casas de Empeño en el Estado de Oaxaca de fecha dieciocho de diciembre de dos mil catorce y publicado el dos de enero de dos mil quince, asimismo se deroga cualquier disposición que se oponga o contradiga lo preceptuando en la presente Ley.
