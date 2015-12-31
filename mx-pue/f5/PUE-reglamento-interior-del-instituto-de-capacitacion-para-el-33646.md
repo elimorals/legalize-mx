@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-interior-del-instituto-de-capacitacion-para-el-33646
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-08-13"
-last_updated: "2003-08-13"
+last_updated: "2015-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "PUE"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE CAPACITACION PARA EL TRABAJO DEL ESTADO DE PUEBLA
 
-REGLAMENTO INTERIOR DEL INSTITUTO DE CAPACITACION PARA EL TRABAJO DEL ESTADO DE PUEBLA
+REGLAMENTO INTERIOR DEL INSTITUTO DE CAPACITACIÓN PARA EL TRABAJO DEL ESTADO DE PUEBLA
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO DE CAPACITACIÓN PARA EL TRABAJO DEL ESTADO DE PUEBLA, PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el miércoles 13 de agosto de 2003.
 
@@ -752,3 +754,13 @@ El presente Reglamento será susceptible de reformas en cualquier tiempo, mismas
 Dado en la residencia del Poder Ejecutivo del Estado, en la Heroica Puebla de Zaragoza, a los veinticinco días del mes de febrero del año dos mil tres.
 
 Dada la formalización del presente Reglamento Interior por la H. Junta Directiva del Instituto de Capacitación para el Trabajo del Estado de Puebla, se firmó por los miembros de la misma en la Dirección General del Instituto de Capacitación para el Trabajo del Estado de Puebla, con sede en la Ciudad de Puebla de Zaragoza, en el Estado de Puebla, a los 25 días del mes de febrero de 2003. H. Junta Directiva del ICATEP.- Representantes del Gobierno Estatal: Secretario de Desarrollo Económico y Presidente de la H. Junta Directiva del ICATEP.- SEÑOR ANTONIO ZARAÍN GARCÍA.- Rúbrica.- Director del Centro Internacional de Prospectiva y Altos Estudios del Estado de Puebla.- DOCTOR LUIS G. BENAVIDES ILIZALITURRI.- Rúbrica.- Representantes del Gobierno Federal: Representante del Ingeniero José Efrén Castillo Sarabia, Director General de Centros de Formación para el Trabajo.- TÉCNICO ALFONSO REBOLLAR IBARRA.- Rúbrica.- Representante Federal de la Secretaría de Educación Pública en el Estado de Puebla.- LICENCIADO ENOC TAMARÍZ MONTIEL.- Rúbrica.- Representantes del Sector Productivo: Director del Segmento de Negocios ''Plastic Additives'' en la Empresa CIBA.- INGENIERO ARTURO LUNA SANTOS.- Rúbrica.- Representante del Ingeniero Luis G. Inman Peraldi, Presidente de la Cámara Nacional de la Industria de Transformación Delegación Puebla.- DOCTOR CHARLES E. MTONOUS ABBOUD.- Rúbrica.- Representante del Sector Social: Representante del Licenciado Jorge René Sánchez Juárez, Secretario General de la Confederación Revolucionaria de Obreros y Campesinos en el Estado de Puebla.- LICENCIADO JULIO CÉSAR SÁNCHEZ JUÁREZ.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL EJECUTIVO DEL ESTADO, POR EL QUE EXPIDE EL REGLAMENTO INTERIOR DEL INSTITUTO DE CAPACITACIÓN PARA EL TRABAJO DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Reglamento se publicará en el Periódico Oficial del Estado y entrará en vigor al día hábil siguiente de su publicación.
+
+SEGUNDO. Se abroga el Reglamento Interior de Trabajo (sic) del Instituto de Capacitación para el Trabajo del Estado de Puebla, publicado en el Periódico Oficial del Estado, el trece de agosto de dos mil tres, así como cualquier otra disposición que se oponga al presente Reglamento.
