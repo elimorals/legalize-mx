@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-577-hacendario-para-el-municipio-de-70963"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-11-04"
-last_updated: "2015-03-13"
+last_updated: "2015-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO NÚMERO 577 HACENDARIO PARA EL MUNICIPIO DE COSOLEACAQUE DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Código publicado en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 4 de noviembre de 2009.
 
@@ -420,6 +420,12 @@ En caso de cambio de nomenclatura o numeración oficial, la autoridad fiscal act
 La obligación fiscal nace cuando se realizan las situaciones jurídicas o de hecho, previstas en las leyes fiscales vigentes durante el lapso en que ocurran.
 
 Las contribuciones se determinarán y liquidarán conforme a las disposiciones vigentes en el momento de su causación, pero le serán aplicables las normas sobre procedimiento que se expidan con posterioridad.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Artículo 34 bis. Se causarán honorarios por concepto de entrega de notificaciones por requerimientos para el cumplimiento de obligaciones no satisfechas dentro de los plazos legales. Serán pagados por el notificado por un monto equivalente a un salario mínimo.
+
+La obligación de pago se hará del conocimiento del infractor conjuntamente con la notificación de la infracción de que se trate. Los honorarios deberán ser cubiertos a más tardar en la fecha en que se cumpla con el requerimiento.
 
 ###### Artículo 35.
 
@@ -1147,7 +1153,9 @@ b) De quince a treinta días de salario mínimo, por infracción a las fraccione
 
 c) De treinta a cincuenta días de salario mínimo, por infracción a las fracciones II, III, V, VI, IX, XI, XIII, XIV, XVI, XVII y XVIII;
 
-II. La infracción que establece la fracción XX del artículo 88 de este Código, se sancionará con multa igual al valor del crédito omitido;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+II. La infracción que establece la fracción XX del artículo 88 de este Código, se sancionará con multa del cien a ciento cincuenta por ciento del crédito omitido;
 
 III. Las infracciones comprendidas en el artículo 89 de este Código, se sancionarán con multa de cincuenta a cien días de salario mínimo;
 
@@ -1381,6 +1389,10 @@ IV. Los nudo propietarios, los titulares de certificados de vivienda y de partic
 
 V. El fideicomitente y, en su caso, el fiduciario, en tanto no le transmitan la propiedad del predio al fideicomisario o a otras personas, en cumplimiento al contrato de fideicomiso.
 
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+VI. Los poseedores que, por cualquier título, tengan la concesión o permiso del uso, goce y destino de bienes de dominio público de la Federación, Estado o Municipio;
+
 ###### Artículo 115.
 
 Son sujetos con responsabilidad solidaria los siguientes:
@@ -1427,9 +1439,15 @@ El Impuesto Predial se causará anualmente y se liquidará y pagará conforme a 
 
 El pago del Impuesto Predial será semestral y se realizará dentro de los meses de enero y julio de cada año, en la Tesorería u oficinas autorizadas. Los sujetos de este impuesto que opten por el pago anual podrán efectuarlo en el mes de enero, en una sola exhibición y, en este caso, obtendrán un descuento del veinte por ciento, incluidos quienes paguen la cuota mínima. Este plazo podrá prorrogarse hasta el día último del mes de febrero, por acuerdo del Cabildo, el que se comunicará al H. Congreso.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Por acuerdo de Cabildo el plazo para el pago del impuesto predial podrá prorrogarse durante el mes de febrero, comunicándolo al H. Congreso, con un descuento hasta del 20% a quienes realicen el pago anual en una sola exhibición.
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 119.
 
-Están exentos del pago del Impuesto Predial, los bienes del dominio público de la Federación, del Estado y de los Municipios.
+Están exentos del pago del Impuesto Predial los bienes de dominio público de la Federación, del Estado y del Municipio, salvo que estos bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines distintos de los de su objeto público.
 
 ###### Artículo 120.
 
@@ -1439,13 +1457,17 @@ Cuando la Tesorería advierta que un inmueble ha salido del dominio público de 
 
 Los contribuyentes del impuesto predial que sean pensionados o jubilados y, en caso de fallecimiento de éstos, la viuda o concubina legalmente reconocida, tendrán derecho a un descuento del cincuenta por ciento del importe anual a pagar, previa acreditación fehaciente de los supuestos respectivos y de encontrarse al corriente en el pago de este impuesto. Esta prerrogativa se aplicará únicamente a un inmueble, siempre que se trate de la casa habitación del contribuyente y el pago se realice durante los meses de enero o febrero del ejercicio correspondiente.
 
-Las personas mayores de sesenta años, contribuyentes de este impuesto, que no se encuentren en los supuestos descritos, también tendrán derecho a obtener el descuento al que se refiere el párrafo anterior, previo cumplimiento de los requisitos señalados en el mismo, si el valor catastral del inmueble correspondiente no excediere de seis mil salarios mínimos.
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Las personas mayores de sesenta años, contribuyentes de este impuesto, que no se encuentren en los supuestos descritos, también tendrán derecho a obtener el descuento al que se refiere el párrafo anterior, previo cumplimiento de los requisitos señalados en el mismo, si el valor catastral del inmueble correspondiente no excediere de diez mil salarios mínimos.
 
 A estos descuentos no se podrá adicionar el descuento señalado en el artículo 118 de este Código.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 122.
 
-El impuesto anual a pagar no podrá ser menor a tres salarios mínimos, excepto lo dispuesto por el artículo 118 de este Código.
+El impuesto anual a pagar no podrá ser menor a cinco salarios mínimos, excepto lo dispuesto por el artículo 118 de este Código.
 
 El pago de este impuesto se considerará definitivo, salvo prueba en contrario.
 
@@ -1555,9 +1577,11 @@ En los inmuebles adquiridos durante el período de tres años anteriores, contad
 
 En la adquisición por prescripción positiva, la base del impuesto se determinará con valores referidos a la fecha en que cause ejecutoria la resolución judicial; en la adquisición por herencia, a la fecha de la adjudicación; y en la información ad perpétuam, a la fecha de la resolución judicial.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 134.
 
-Para determinar la base del impuesto los contribuyentes o los fedatarios ante quienes se hagan constar los actos objeto del mismo, deberán contar con el Certificado de Valor Catastral o Catastral Provisional, actualizado a la fecha en que se hubiere realizado el acto generador del impuesto.
+Para determinar la base del impuesto los contribuyentes o los fedatarios ante quienes se hagan constar los actos objeto del mismo deberán contar con el Certificado de Valor Catastral o Catastral Provisional, actualizado a la fecha en que se hubiere realizado el acto generador del impuesto, con base en las Tablas de Valores publicadas en la Gaceta Oficial, órgano del Gobierno del Estado, en términos de la Ley de Catastro del Estado de Veracruz de Ignacio de la Llave.
 
 ###### Artículo 135.
 
@@ -1721,7 +1745,9 @@ e) El número de cada clase de localidades de que conste el local donde vaya a c
 
 II. Al serles concedida la autorización:
 
-a) Presentar a la Tesorería la emisión total del boletaje de entrada a la diversión o espectáculo público, cuando menos cuatro días hábiles anteriores a aquél en que dé comienzo la función, con el propósito de que sean autorizados con el sello correspondiente;
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+a) Presentar a la Tesorería la emisión total del boletaje de entrada a la diversión o espectáculo público, cuando menos cuatro días hábiles anteriores a aquél en que dé comienzo la función, con el propósito de que sean autorizados con el sello correspondiente. En caso de que se trate de venta y distribución de boletos electrónicos o a través de software comercial, ya sea de forma directa o por medio de un tercero, deberá cumplir con los requisitos que en su caso establezca la Tesorería al momento de conceder la autorización.
 
 b) Cada boleto deberá estar numerado progresivamente y contener el nombre de la empresa o persona que realice la función, precio de entrada o admisión, la identificación de la localidad a que de derecho, lugar, fecha y hora de la función;
 
@@ -1891,9 +1917,13 @@ Esta contribución se causará y pagará, aplicando a la base que corresponda, l
 
 I. Siete y medio por ciento adicional sobre el impuesto predial;
 
-II. Doce por ciento adicional sobre los impuestos sobre espectáculos públicos; sobre loterías, rifas, sorteos y concursos; sobre juegos permitidos; y sobre fraccionamientos; y
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
 
-III. Doce por ciento adicional sobre los derechos y productos que establece el presente Código.
+II. Quince por ciento adicional sobre los impuestos sobre espectáculos públicos; sobre loterías, rifas, sorteos y concursos; sobre juegos permitidos; y sobre fraccionamientos; y
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+III. Quince por ciento adicional sobre los derechos y productos que establece el presente Código.
 
 ###### Artículo 173.
 
@@ -1913,9 +1943,11 @@ Son sujetos de este impuesto las personas físicas o morales que obtengan ingres
 
 La base de este impuesto será el valor catastral del inmueble o el valor de operación consignado en escritura pública, si este último es mayor.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 177.
 
-Este impuesto se causará, liquidará y pagará aplicando a la base gravable determinada la tasa de dos al millar.
+Este impuesto se causará, liquidará y pagará aplicando a la base gravable determinada la tasa de dos punto cinco al millar.
 
 ###### Artículo 178.
 
@@ -2055,75 +2087,109 @@ Los permisos o autorizaciones de carácter temporal, para giros comerciales que 
 
 La expedición de licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales con giros comerciales que enajenen o expendan bebidas alcohólicas, estará sujeta a los requisitos que establezca el reglamento municipal respectivo o, en su defecto, el Cabildo, mediante reglas o disposiciones de carácter general.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
 Por la expedición de licencias a que este artículo se refiere, se pagarán las cuotas siguientes:
 
-Giro: Costo de la licencia
+Giro Costo de la licencia en número de salarios mínimos
 
-en número de
+Abarrotes con venta de cerveza 250
 
-salarios mínimos:
+Abarrotes con venta de cerveza, vinos y
 
-Abarrotes con venta de cerveza 150
+licores 500
 
-Abarrotes con venta de cerveza,
+Agencias 1,250
 
-Vinos y licores 275
+Almacenes o distribuidores 1,250
 
-Agencias 500
+Billares 500
 
-Almacenes o Distribuidores 500
+Cantinas o bares 1,300
 
-Billares 400
-
-Cantinas o bares 500
-
-Centros de eventos sociales 500
+Centros de eventos sociales 1,000
 
 Centros deportivos o recreativos 500
 
-Centros nocturnos y cabarets 2,000
+Centros nocturnos y cabarets 3,900
 
-Cervecerías 400
+Cervecerías 500
 
 Clubes sociales 300
 
 Depósitos 300
 
-Discotecas 2,000
+Discotecas 3,900
 
-Hoteles 400
+Hoteles 800
 
 Moteles 400
 
-Kermeses, ferias y bailes públicos 250
+Kermeses, ferias y bailes públicos 600
 
-Licorerías 250
+Licorerías 550
 
-Loncherías, taquerías, marisquerías,
+Loncherías, taquerías, marisquerías, fondas,
 
-fondas, coctelerías, torterías, pizzerías
+coctelerías, torterías, pizzerías y similares 350
 
-y similares 300
+Minisúper, ultramarinos 650
 
-Mini súper 300
+Peñas, canta bar, café bar, video bar y café
 
-Peñas, canta bar, café bar, video bar
+cantante 1,300
 
-y café cantante 350
+Restaurante 500
 
-Restaurante 350
+Restaurante-bar 800
 
-Restaurante-bar 400
+Servicar 500
 
-Servicar 300
+Supermercados 1,500
 
-Supermercados 500
+Centros Comerciales 2,300
 
-Centros comerciales 500
+Establecimientos en los que lleven a cabo
 
-Los derechos por refrendos anuales se calcularán a razón del diez por ciento del costo de la licencia.
+juegos con apuestas y sorteos o casinos 2,300
 
-Los establecimientos a que se refiere este artículo que no se encuentren en actividad deberán cubrir el pago del refrendo correspondiente dentro de los tres primeros meses del año, de lo contrario se cancelará la licencia, el permiso o la autorización de funcionamiento respectivo.
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Los derechos por refrendos anuales se calcularán a razón del veinte por ciento del costo de la licencia.
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Los establecimientos a que se refiere este artículo que no se encuentren en actividad deberán cubrir el pago del refrendo correspondiente dentro del mes de enero, de lo contrario se cancelará la licencia, el permiso o la autorización de funcionamiento respectivo.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Por la ampliación de horario de servicio de los establecimientos o locales con giros comerciales que enajenen o expendan bebidas alcohólicas, se causará el pago de derechos por las horas autorizadas, conforme a la siguiente tabla y cuota en salarios mínimos, sin que exceda el horario permitido en el artículo 174 de la Ley de Salud del Estado de Veracruz de Ignacio de la Llave:
+
+Giro Salarios mínimos
+
+por cada hora
+
+Cantina 6
+
+Peña 6
+
+Bar 6
+
+Cervecería 6
+
+Centro Nocturno o Cabaret 6
+
+Discoteca 6
+
+Centros comerciales 5
+
+Minisuper, Ultramarinos, Supermercados 3
+
+Tiendas de Abarrotes, Misceláneas, Ultramarinos,
+
+Mini Súper y Supermercados, Depósitos de Cerveza
+
+y Depósitos de Vinos y Licores 0.08
 
 #### SECCIÓN II. De los Derechos por Anuncios Comerciales y Publicidad
 
@@ -2149,13 +2215,39 @@ Las autoridades municipales establecerán en sus reglamentos respectivos, o medi
 
 Los derechos a que se refiere esta Sección, se cobrarán por la autorización respectiva, de acuerdo a las cuotas siguientes:
 
-I. Por la colocación de anuncios comerciales en la vía pública o tenga efectos sobre ésta, repercutiendo en la imagen urbana, de ocho a dieciséis salarios mínimos, anualmente;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
 
-II. Por la colocación eventual de anuncios comerciales en la vía pública o tenga efectos sobre ésta, repercutiendo en la imagen urbana, cuatro salarios mínimos por evento;
+I. Por la colocación de anuncios comerciales en la vía pública o tenga efectos sobre ésta, repercutiendo en la imagen urbana, de acuerdo a la siguiente clasificación:
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+a) Popular: de dos a cuatro salarios mínimos por metro cuadrado de superficie del anuncio, por cada anunciante, semestralmente;
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+b) Interés social: de cuatro a cinco salarios mínimos por metro cuadrado de superficie del anuncio, por cada anunciante, semestralmente;
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+c) Medio: de cinco a seis salarios mínimos por metro cuadrado de superficie del anuncio, por cada anunciante, semestralmente; y
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+d) Residencial: de seis a nueve salarios mínimos por superficie del anuncio, por cada anunciante, semestralmente.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Para aquellos anuncios que tengan efectos sobre la carretera costera del golfo y los barrios primero y segundo de la cabecera municipal, de ocho a nueve salarios mínimos por metro cuadrado de superficie del anuncio, por cada anunciante hacia la vialidad, semestralmente.
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+II. Por la colocación eventual de anuncios comerciales que tengan efectos en la vía pública, repercutiendo en la imagen urbana, diez salarios mínimos por evento;
 
 III. Por el anuncio de eventos en altavoz móvil, cuatro salarios mínimos por evento; y
 
-IV. Por la colocación de anuncios comerciales en el interior o exterior de vehículos en los que se preste el servicio de transporte público de pasajeros, seis salarios mínimos, anualmente.
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+IV. Por la colocación de anuncios comerciales en el interior o exterior de vehículos en los que se preste el servicio de transporte público de pasajeros, díez salarios mínimos, semestralmente.
 
 No causarán los derechos previstos en esta Sección, la colocación de anuncios, o cualquier acto publicitario, realizado con fines de asistencia o beneficencia pública; la publicidad de partidos políticos y de asociaciones religiosas; la publicidad de la Federación, del Estado, o del Municipio; y la publicidad que se realice con fines nominativos para la identificación de la negociación, siempre y cuando se realice en el propio establecimiento.
 
@@ -2465,13 +2557,19 @@ a) Interés Social y Popular, 2 salarios mínimos, y
 
 b) Residencial, Industrial y Comercial, 10 salarios mínimos.
 
-IX. Por solicitudes de información conforme a la Ley de Transparencia y Acceso a la Información Pública para el Estado:
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+IX. Por diversas constancias en materia ambiental, 20 salarios mínimos;
+
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+X. Por solicitudes de información conforme a la Ley de Transparencia y Acceso a la Información Pública para el Estado:
 
 a) Por copias simples o impresos por medio de dispositivo informático, por cada hoja tamaño carta u oficio: 0.02 salarios mínimos;
 
-b) Por copias certificadas distintas a las señaladas en las fracciones anteriores, por cada hoja o fracción: 0.02 salarios mínimos;
+b) Por copias certificadas distintas a las señaladas en las fracciones anteriores, por cada hoja o fracción: 0.02 salarios mínimos; y
 
-c) Por información grabada en disco de 3.5 pulgadas o disco compacto, por copia: 0.03 salarios mínimos.
+c) Por información grabada en dispositivo electrónico de almacenamiento o disco compacto, por copia: 0.03 salarios mínimos.
 
 El costo del envío de información corresponderá a las tarifas que apliquen las empresas de servicios de mensajería contratadas, así como a las determinadas por el Servicio Postal Mexicano, para el caso de envíos por correo certificado.
 
@@ -2591,9 +2689,13 @@ Interés social 0.3
 
 Popular 0.2
 
-II. Por cada industria o comercio, así como empresas que presenten espectáculos públicos, 0.010 salarios mínimos por kilogramo o 0.025 salarios mínimos por metro cúbico, sin que en ningún caso la cuota resulte menor a la establecida para inmuebles de uso habitacional de tipo residencial.
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
 
-Aquellos contribuyentes que opten por el pago anual recibirán un descuento del quince por ciento.
+II. . Por cada industria o comercio, así como empresas que presenten espectáculos públicos, 0.016 salarios mínimos por kilogramo o 0.025 salarios mínimos por metro cúbico, sin que en ningún caso la cuota resulte menor a la establecida para inmuebles de uso habitacional de tipo residencial.
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Aquellos contribuyentes que opten por el pago anual recibirán un descuento del diez por ciento.
 
 ### CAPÍTULO IX. De los Derechos por Limpieza de Predios no Edificados
 
@@ -2627,7 +2729,9 @@ Son sujetos de este derecho, las personas físicas o morales que sean propietari
 
 Es base gravable el volumen de material extraído cuantificado en metros cúbicos o, en su defecto, por el lapso de explotación del banco de material.
 
-Por los derechos a que se refiere este Capítulo se pagará, por metro cúbico o fracción de material extraído, la cuota de 0.01 salarios mínimos.
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Por los derechos a que se refiere este Capítulo se pagará, por metro cúbico o fracción de material extraído, la cuota de 0.025 salarios mínimos.
 
 En el caso de que no sea posible determinar el volumen de material extraído, este derecho se pagará a razón de un salario mínimo diario.
 
@@ -2719,13 +2823,19 @@ II. Registro de nacimientos ordinarios
 
 y extemporáneos 1.20
 
-III. Reconocimiento de hijos 1.20
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+III. Reconocimiento de hijos 2.5
 
 IV. Adopciones 2.5
 
-V. Celebración de matrimonios en oficina 10
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
 
-VI. Celebración de matrimonios a domicilio 50
+V. Celebración de matrimonios en oficina 20
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+VI. Celebración de matrimonios a domicilio 60
 
 VII. Inscripción de sentencias 13.20
 
@@ -2735,7 +2845,13 @@ IX. Expedición de certificados de vecindad 1.20
 
 X. Notas marginales en los libros de actas 2.5
 
-Por búsqueda de los documentos anteriores, se pagarán 2 salarios mínimos, cuando no se proporcionen los datos exactos para su localización.
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XI. Inscripción de actas del extranjero 13.20
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Por búsqueda de los documentos anteriores, se pagarán 2 salarios mínimos, por cada diez años o fracción del periodo que comprenda la búsqueda, cuando no se proporcionen los datos exactos para su localización.
 
 En los casos de trámites urgentes, se aumentará su costo en un cien por ciento más de la cuota autorizada.
 
@@ -2759,7 +2875,9 @@ II. Por ocupación de espacios en la vía pública o áreas municipales se pagar
 
 III. Ocupación temporal de la vía pública o áreas municipales por vehículos, aparatos mecánicos o electromecánicos en época de días de mercado o celebraciones de ferias o similares, por metro cuadrado o fracción pagarán una cuota diaria de 0.05 salarios mínimos;
 
-IV. La ocupación de espacios en vía pública o áreas municipales, por postería eléctrica, líneas aéreas de cable, puestos de revistas, etcétera, exceptuando las áreas verdes, se pagará diariamente por metro cuadrado de superficie; 0.05 salarios mínimos;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+IV. La ocupación de espacios en vía pública o áreas municipales, por postería eléctrica, etcétera, exceptuando las áreas verdes, se pagará diariamente por metro cuadrado de superficie, 0.075 salarios mínimos.
 
 V. La ocupación de la vía pública requiere autorización en los casos y con las cuotas que a continuación se indican: Andamios, tapiales y otros usos no especificados, por metro lineal diariamente:
 
@@ -2773,15 +2891,87 @@ a) Instalaciones lineales diversas por metro 0.05 salarios mínimos.
 
 b) Instalaciones no lineales por metro cuadrado o fracción por planta o piso de profundidad 0.1375 salarios mínimos.
 
-VII. Por ocupación temporal de la vía pública o áreas municipales a vendedores ambulantes por puesto semifijo de hasta dos metros lineales de frente, diariamente 0.075 salarios mínimos.
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+VII. Por ocupación temporal de la vía pública o áreas municipales, por metro cuadrado o fracción, diariamente 0.075 salarios mínimos.
 
 El estacionamiento en la vía pública se pagará mediante utilización de parquímetros, por hora o fracción a razón de 0.125 salarios mínimos.
 
-### CAPÍTULO ÚNICO
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO XIV. DE LOS DERECHOS POR SERVICIOS PRESTADOS EN MATERIA DE PROTECCIÓN CIVIL
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 247 Bis.
+
+Por los servicios prestados en materia de Protección Civil se causarán y cobrarán en salarios mínimos, los siguientes derechos:
+
+I. Por la emisión de dictámenes técnicos de instalaciones públicas y privadas, existentes y futuras, de acuerdo a la Ley de Protección Civil y la Reducción del Riesgo de Desastres para el Estado de Veracruz de Ignacio de la Llave.
+
+Alto Riesgo
+
+1 a 166 metros cuadrados de superficie 26
+
+167 a 332 metros cuadrados de superficie 52
+
+333 a 500 metros cuadrados de superficie 80
+
+Riesgo Medio
+
+1 a 166 metros cuadrados de superficie 23
+
+167 a 332 metros cuadrados de superficie 46
+
+333 a 500 metros cuadrados de superficie 70
+
+Bajo Riesgo
+
+1 a 60 metros cuadrados de superficie 7
+
+61 a 125 metros cuadrados de superficie 14
+
+126 a 190 metros cuadrados de superficie 21
+
+191 a 250 metros cuadrados de superficie 28
+
+251 a 315 metros cuadrados de superficie 35
+
+316 a 380 metros cuadrados de superficie 42
+
+381 a 500 metros cuadrados de superficie 60
+
+En estos casos, la autoridad en materia de protección civil estará facultada para incrementar el monto en 20 salarios mínimos adicionales por cada 500 metros cuadrados de superficie o fracción que exceda los primeros 500 metros cuadrados de superficie de los rubros mencionados.
+
+II. Por impartición de cada curso de capacitación a personas morales o físicas como entidades del sector privado:
+
+Persona Física 2
+
+Persona Moral 60
+
+III. Por registro como tercero acreditado que por su actividad y experiencia se vinculen con la protección civil para llevar a cabo cursos de capacitación, estudios de riesgo vulnerabilidad, programas internos y especiales:
+
+Persona Física: 25
+
+IV. Renovación de registro como terceros acreditados.
+
+Persona Física: 12
+
+V. Por la autorización de programas especiales de Protección Civil que se presenten para la realización de un evento o espectáculo en el municipio de Cosoleacaque para promotores particulares, se pagará:
+
+Aforo del evento:
+
+De 1 a 1 ,000 asistentes: 40
+
+De 1,001 a 5,000 asistentes: 60
+
+De 5;001 a 10,000 asistentes: 80
+
+De 10,001 en adelante: 90
 
 ## TÍTULO TERCERO. DE LAS CONTRIBUCIONES POR MEJORAS
 
-### CAPÍTULO I. Disposiciones Generales del Servicio de Tesorería
+### CAPÍTULO ÚNICO
 
 ###### Artículo 248.
 
@@ -3015,7 +3205,7 @@ Los ingresos extraordinarios se causarán y recaudarán de conformidad con los o
 
 ## TÍTULO PRIMERO. DE LOS SERVICIOS DE TESORERÍA
 
-### CAPÍTULO II. De los Pagos y Ministraciones
+### CAPÍTULO I. Disposiciones Generales del Servicio de Tesorería
 
 ###### Artículo 269.
 
@@ -3075,7 +3265,7 @@ El servicio de recaudación y concentración de fondos podrá efectuarse por con
 
 Las instituciones bancarias, crediticias o comerciales pagarán intereses, por concepto de indemnización, en caso de entrega o concentración extemporánea de fondos, conforme a la tasa que al respecto determine la Tesorería, misma que se establecerá en los contratos que con ellos se celebren.
 
-### CAPÍTULO III. De la Prescripción de Fondos y Créditos
+### CAPÍTULO II. De los Pagos y Ministraciones
 
 ###### Artículo 274.
 
@@ -3095,7 +3285,7 @@ La Tesorería y las entidades solamente autorizarán el pago de anticipos que es
 
 Todo pago o salida de valores se registrará en la contabilidad de la Tesorería y de las correspondientes entidades.
 
-### CAPÍTULO IV. De las Garantías a Favor o a Cargo del Municipio
+### CAPÍTULO III. De la Prescripción de Fondos y Créditos
 
 ###### Artículo 277.
 
@@ -3107,7 +3297,7 @@ Cuando no sea posible determinar la fecha en que legalmente pudo exigirse la dev
 
 Los depósitos de los particulares en las cuentas del Ayuntamiento no generarán intereses a favor de quien los haya constituido o de sus beneficiarios.
 
-### CAPÍTULO V. De la Custodia y Vigilancia de Fondos y Valores
+### CAPÍTULO IV. De las Garantías a Favor o a Cargo del Municipio
 
 ###### Artículo 278.
 
@@ -3137,7 +3327,7 @@ Las garantías que reciba el Ayuntamiento por contratos administrativos, en conc
 
 Las garantías a que alude el párrafo anterior se podrán hacer efectivas por la Tesorería o la Sindicatura, con sujeción a los procedimientos que establezcan los ordenamientos legales de la materia.
 
-### CAPÍTULO VI. De la Colaboración Administrativa
+### CAPÍTULO V. De la Custodia y Vigilancia de Fondos y Valores
 
 ###### Artículo 283.
 
@@ -3207,7 +3397,7 @@ I. Si es sobrante, ordenará su registro en la contabilidad, haciéndolo del con
 
 II. Cuando sea faltante, requerirá al responsable para que efectúe el reintegro en el acto; si el responsable justifica satisfactoriamente la razón del mismo, únicamente dará cuenta pormenorizada a la Tesorería. Si no lo justifica debidamente o no lo restituye, independientemente de cuidar que en el primer supuesto se dé entrada a las cantidades o valores faltantes, informará a la Contraloría o su equivalente, para los efectos que procedan conforme a la ley.
 
-### CAPÍTULO I. Del Presupuesto de Egresos
+### CAPÍTULO VI. De la Colaboración Administrativa
 
 ###### Artículo 294.
 
@@ -3225,7 +3415,7 @@ Los Convenios de Colaboración Administrativa que comprometan al Municipio por u
 
 ## TÍTULO SEGUNDO. DEL PRESUPUESTO DE EGRESOS Y GASTO PÚBLICO
 
-### CAPÍTULO II. Del Gasto Público
+### CAPÍTULO I. Del Presupuesto de Egresos
 
 #### SECCIÓN I. De la Integración y Estructura del Presupuesto de Egresos
 
@@ -3335,7 +3525,7 @@ Cuando, con posterioridad a la aprobación del presupuesto, surjan situaciones e
 
 La formulación de los programas institucionales se sujetará a la estructura programática aprobada por la Tesorería, de conformidad con los lineamientos que para tales fines expida.
 
-### CAPÍTULO III. De la Administración de los Recursos
+### CAPÍTULO II. Del Gasto Público
 
 #### SECCIÓN ÚNICA. Del Ejercicio del Gasto Público Municipal
 
@@ -3395,7 +3585,7 @@ El Cabildo determinará la forma en que deberán invertirse los subsidios que ot
 
 El Cabildo podrá autorizar la participación municipal en empresas, sociedades y asociaciones civiles y mercantiles, ya sea para su creación o para la adquisición de todo o parte de su capital social o su patrimonio, previa autorización del H. Congreso.
 
-### CAPÍTULO IV. De la Contabilidad y Cuenta Pública
+### CAPÍTULO III. De la Administración de los Recursos
 
 #### SECCIÓN I. Disposiciones Generales en Materia de Administración de Recursos Públicos
 
@@ -3575,7 +3765,7 @@ El Ayuntamiento y entidades no comprometerán los recursos del capítulo de serv
 
 Si existen contratos por honorarios, no incrementarán sus percepciones ni obtendrán percepciones adicionales a las establecidas en el contrato respectivo.
 
-### CAPÍTULO V. Del Control y Evaluación del Gasto Público
+### CAPÍTULO IV. De la Contabilidad y Cuenta Pública
 
 #### SECCIÓN I. De la Contabilidad Gubernamental
 
@@ -3603,11 +3793,15 @@ La Tesorería emitirá las instrucciones sobre la forma y términos en que las e
 
 Las entidades someterán a la consideración de la Tesorería las modificaciones que consideren necesarias o convenientes a su sistema de contabilidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 357.
 
-Los estados financieros y demás información financiera, presupuestal y contable, serán consolidados por la Tesorería, la que será responsable de:
+Los estados financieros y demás información contable, presupuestal y programática, serán consolidados por la Tesorería, la que será responsable de:
 
-I. Formular la cuenta anual de la Hacienda Pública Municipal, en términos del artículo 22 de la Ley de Fiscalización Superior para el Estado de Veracruz de Ignacio de la Llave;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+I. Formular la cuenta anual de la Hacienda Pública Municipal, en términos de lo dispuesto por la Ley de Fiscalización Superior para el Estado de Veracruz de Ignacio de la Llave;
 
 II. Proporcionar al Presidente y a la Comisión de Hacienda la información que el Órgano de Fiscalización Superior del Estado requiera en el ejercicio de sus funciones;
 
@@ -3747,9 +3941,11 @@ La Tesorería será responsable de integrar la cuenta pública del Municipio, la
 
 La Tesorería determinará la forma en que se presentarán los informes para la integración de la cuenta pública, para lo cual podrá solicitar a las dependencias y entidades la información complementaria y aclaraciones que considere convenientes.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 378.
 
-La Comisión de Hacienda, en coordinación con la Tesorería, someterá a la consideración del Cabildo la Cuenta Pública Municipal del ejercicio inmediato anterior, a más tardar el treinta de abril de cada año, excepto en el último de su ejercicio, que se presentará en el mes de diciembre de ese mismo año.
+La Comisión de Hacienda, en coordinación con la Tesorería, someterá a la consideración del Cabildo la Cuenta Pública Municipal del ejercicio inmediato anterior durante el mes de enero de cada año. Tratándose del último año de la administración municipal, deberán someterla a la consideración del Cabildo durante el mes de diciembre, o bien, hasta el último día del mes de enero.
 
 ###### Artículo 379.
 
@@ -3757,7 +3953,7 @@ El Ayuntamiento presentará al H. Congreso, para su estudio, dictamen y aprobaci
 
 De no presentar en tiempo la cuenta pública anual al H. Congreso, el Presidente, los integrantes de la Comisión de Hacienda y el Tesorero serán penalmente responsables por el delito de abuso de autoridad o incumplimiento del deber legal. La Dirección de Servicios Jurídicos del H. Congreso presentará de oficio la denuncia ante el Ministerio Público.
 
-### CAPÍTULO I. Disposiciones Preliminares
+### CAPÍTULO V. Del Control y Evaluación del Gasto Público
 
 #### SECCIÓN I. Del Control y Evaluación
 
@@ -3907,7 +4103,7 @@ Las dependencias y entidades proporcionarán los informes, documentos y, en gene
 
 ## TÍTULO ÚNICO
 
-### CAPÍTULO II. De las Facultades de las Autoridades en Materia de Deuda
+### CAPÍTULO I. Disposiciones Preliminares
 
 ###### Artículo 397.
 
@@ -3967,7 +4163,7 @@ Las entidades públicas a que se refieren las fracciones II a IV del artículo 3
 
 También se considera deuda extraordinaria la que autorice el H. H. (SIC) Congreso del Estado, mediante decretos posteriores al inicio del ejercicio para la contratación de financiamientos que se destinen a inversiones públicas productivas.
 
-### CAPÍTULO III. De la Programación de la Deuda Pública
+### CAPÍTULO II. De las Facultades de las Autoridades en Materia de Deuda
 
 ###### Artículo 404.
 
@@ -4039,7 +4235,7 @@ VI. Las demás que le confieran este Código y otras leyes.
 
 A fin de que las entidades a que refieren las fracciones II a IV del artículo 398 de este Código, puedan obtener autorización del Ayuntamiento para la contratación de financiamientos en el caso previsto en la fracción II del artículo 404, deberán proporcionar a la Tesorería sus programas financieros y la información que arroje su capacidad de pago, así como toda aquella que se les solicite, a fin de determinar sus necesidades de crédito y la viabilidad de su pago.
 
-### CAPÍTULO IV. De la Contratación de los Financiamientos
+### CAPÍTULO III. De la Programación de la Deuda Pública
 
 ###### Artículo 408.
 
@@ -4073,7 +4269,7 @@ XII. Los demás requisitos que fije el H. Congreso.
 
 El Ayuntamiento, al someter al H. Congreso el proyecto de Ley de Ingresos, propondrá los montos del endeudamiento neto necesario y acompañará su programa de financiamiento, mismo que contendrá los elementos de juicio suficientes para fundamentar su propuesta, entre los que se encontrará la indicación clara de los recursos que se utilizarán para el pago de los financiamientos.
 
-### CAPÍTULO V. De las Garantías y Fuentes de Pago
+### CAPÍTULO IV. De la Contratación de los Financiamientos
 
 ###### Artículo 410.
 
@@ -4135,7 +4331,7 @@ Las entidades mencionadas en las fracciones II a IV del artículo 398 de este C�
 
 Cuando el Municipio se coordine o asocie a otro o al Estado para la prestación de servicios municipales, se podrán contratar en forma consolidada las operaciones a que se refiere el presente ordenamiento, pero se establecerán por separado las obligaciones a cargo de cada participante y de esta forma se inscribirán en el Registro de Deuda Pública Municipal o Estatal, en su caso.
 
-### CAPÍTULO VI. De la Vigilancia y Registro de las Operaciones de Financiamiento
+### CAPÍTULO V. De las Garantías y Fuentes de Pago
 
 ###### Artículo 420.
 
@@ -4173,7 +4369,7 @@ VI. Que el Ayuntamiento esté al corriente en el cumplimiento de sus obligacione
 
 Todo esto sin perjuicio de los requisitos que para tal efecto señale el Código Financiero para el Estado.
 
-### CAPÍTULO VII. De la Afectación de los Ingresos Derivados de la Coordinación Fiscal
+### CAPÍTULO VI. De la Vigilancia y Registro de las Operaciones de Financiamiento
 
 ###### Artículo 423.
 
@@ -4257,7 +4453,7 @@ La inscripción en el Registro de Deuda Pública Municipal de las obligaciones a
 
 Las operaciones de crédito autorizadas, sólo podrán modificarse con los mismos requisitos y formalidades relativos a su autorización.
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO VII. De la Afectación de los Ingresos Derivados de la Coordinación Fiscal
 
 ###### Artículo 434.
 
@@ -4277,7 +4473,7 @@ Para todo lo no previsto en este Libro se estará a lo que señale el Código Fi
 
 ## TÍTULO PRIMERO. DE LOS BIENES EN GENERAL
 
-### CAPÍTULO II. De las Autoridades y sus Atribuciones
+### CAPÍTULO I. Disposiciones Generales
 
 ###### Artículo 436.
 
@@ -4337,6 +4533,22 @@ VIII. Los que el municipio adquiera legalmente, por vía de derecho común, a t�
 
 Los bienes de dominio público municipal son inalienables, imprescriptibles e inembargables. Los bienes de dominio privado serán de dominio público, cuando se apliquen o de hecho se utilicen a esos fines.
 
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+En ningún caso se podrán embargar los bienes muebles e inmuebles afectos a un servicio público, así como los ingresos propios, ni los provenientes de participaciones o aportaciones federales.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Tampoco podrán embargarse las cuentas bancarias inscritas a nombre del Municipio.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Los magistrados, jueces, actuarios, secretarios y demás funcionarios judiciales que ordenen, tramiten o ejecuten diligencias o traben embargos en contravención a lo dispuesto en este artículo, incurrirán en la responsabilidad civil, administrativa o penal que establece la legislación estatal.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Sólo podrán embargarse los bienes del dominio privado del Municipio a que se refiere el artículo 441 de este Código.
+
 ###### Artículo 441.
 
 Los bienes del dominio privado del Municipio son susceptibles de enajenación, uso, usufructo o arrendamiento a particulares; también podrán gravarse o ser objeto de garantía de crédito. En todos los casos se requerirá acuerdo del Cabildo, aprobado por las dos terceras partes de sus integrantes, y la autorización del H. Congreso o de la Diputación Permanente.
@@ -4351,7 +4563,7 @@ Los actos de adquisición, administración, uso, aprovechamiento, explotación o
 
 Los actos de planeación, programación, adquisición, almacenaje, control, destino, baja y arrendamiento; así como los procedimientos de rescisión administrativa y de enajenación de bienes muebles municipales se regirán por la ley de la materia.
 
-### CAPÍTULO III. Del Inventario
+### CAPÍTULO II. De las Autoridades y sus Atribuciones
 
 ###### Artículo 444.
 
@@ -4381,7 +4593,7 @@ XI. Determinar el valor de los lotes de su propiedad susceptibles de enajenació
 
 XII. Las demás que les señalen la Constitución, el presente Código y demás leyes aplicables.
 
-### CAPÍTULO I. De los Bienes Muebles
+### CAPÍTULO III. Del Inventario
 
 ###### Artículo 445.
 
@@ -4419,7 +4631,7 @@ La Comisión de Hacienda, de conformidad con lo establecido en la Ley Orgánica 
 
 ## TÍTULO SEGUNDO. DEL DOMINIO Y ADMINISTRACIÓN DE LOS BIENES
 
-### CAPÍTULO II. De los Bienes Inmuebles
+### CAPÍTULO I. De los Bienes Muebles
 
 ###### Artículo 449.
 
@@ -4429,7 +4641,7 @@ El Ayuntamiento, con apoyo en la Comisión de Hacienda, expedirá las normas rel
 
 Las enajenaciones de los bienes muebles no podrán realizarse a favor de los servidores públicos municipales que, en cualquier forma, intervengan en los actos relativos, ni de sus cónyuges o parientes consanguíneos y por afinidad hasta el cuarto grado, o de terceros con los que dichos servidores tengan vínculos privados o de negocios. Las enajenaciones que se realicen en contravención a ello serán causa de responsabilidad y serán nulos de pleno derecho.
 
-### CAPÍTULO ÚNICO. De la Rescisión Administrativa
+### CAPÍTULO II. De los Bienes Inmuebles
 
 ###### Artículo 451.
 
@@ -4617,6 +4829,8 @@ Los Notarios Públicos al otorgar las escrituras o instrumentos que contengan la
 
 ## TÍTULO TERCERO
 
+### CAPÍTULO ÚNICO. De la Rescisión Administrativa
+
 ###### Artículo 478.
 
 Son causas de rescisión administrativa:
@@ -4704,3 +4918,11 @@ G.O. 13 DE MARZO DE 2015.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+G.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 619 POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO NÚMERO 577 HACENDARIO PARA EL MUNICIPIO DE COSOLEACAQUE, VER.”.]
+
+Artículo primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Artículo segundo. Se derogan las disposiciones que se opongan al presente decreto.
