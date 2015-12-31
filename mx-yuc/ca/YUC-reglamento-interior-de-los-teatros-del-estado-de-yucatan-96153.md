@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-interior-de-los-teatros-del-estado-de-yucatan-96153"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-10-03"
-last_updated: "2013-10-03"
+last_updated: "2015-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96153&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "YUC"
 
 REGLAMENTO INTERIOR DE LOS TEATROS DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LOS TEATROS DEL ESTADO DE YUCATÁN, PUBLICADO EN EL D.O. DE 31 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 31 DE DICIEMBRE DE 2015. (ABROGADO).
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el jueves 3 de octubre de 2013.
 
@@ -644,3 +646,21 @@ SECRETARIO GENERAL DE GOBIERNO
 C. RAÚL ANTONIO VELA SOSA
 
 SECRETARIO DE LA CULTURA Y LAS ARTES
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 334/2015 POR EL QUE SE EMITE EL REGLAMENTO INTERIOR DE LOS TEATROS DEL ESTADO DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+Segundo. Abrogación
+
+A partir de la entrada en vigor de este decreto quedará abrogado el Decreto 112/2008 por el que se emite el Reglamento Interior de los Teatros del Estado de Yucatán, publicado en el diario oficial del estado el 3 de octubre de 2013.
+
+Tercero. Derogación tácita
+
+Se derogan todas las disposiciones normativas de igual o menor jerarquía en lo que se opongan a lo establecido en este decreto.
