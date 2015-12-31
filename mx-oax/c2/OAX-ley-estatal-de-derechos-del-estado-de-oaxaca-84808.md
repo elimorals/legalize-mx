@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-derechos-del-estado-de-oaxaca-84808"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-24"
-last_updated: "2014-12-31"
+last_updated: "2015-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "OAX"
 ---
 # LEY ESTATAL DE DERECHOS DEL ESTADO DE OAXACA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE ENERO DE 2016 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ESTATAL DE DERECHOS DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2014.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 31 DE DICIEMBRE DE 2014 NO APLICA AL ARTICULADO DEL DECRETO 880 PUBLICADO EN EL P.O. DE 27 DE DICIEMBRE DE 2014.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 24 de diciembre de 2011.
 
@@ -55,7 +55,9 @@ Las cuotas de los derechos que se establecen en esta Ley se actualizarán con el
 
 Cuando de conformidad con la Ley Orgánica del Poder Ejecutivo del Estado u otras disposiciones, los servicios que presta una dependencia de la administración pública centralizada o descentralizada, pasan a ser proporcionados por otra dependencia u organismo, se entenderá que las disposiciones señaladas en esta Ley para aquéllos se aplicarán a éstos, así como cuando cambien de nombre los registros o padrones que conforman el servicio o la Ley que lo establece, se seguirán pagando los derechos correspondientes conforme a los preceptos que los establecen.
 
-La Secretaría de Finanzas elaborará y distribuirá el contenido de esta Ley en las recaudaciones, colecturías de rentas y oficinas autorizadas para el cobro de los derechos para su observancia; la modificación, alteración en las cuotas establecidas darán lugar al inicio de procedimientos de responsabilidad administrativa, civil o penal que le sea aplicable.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+La Secretaría de Finanzas elaborará y distribuirá el contenido de esta Ley en las delegaciones fiscales y oficinas autorizadas para el cobro de los derechos para su observancia; la modificación, alteración en las cuotas establecidas darán lugar al inicio de procedimientos de responsabilidad administrativa, civil o penal que le sea aplicable.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -73,7 +75,9 @@ La prestación de servicios continuos así como el otorgamiento del uso, goce o 
 
 Los derechos que se establecen en esta Ley se pagarán en el monto, forma, lugar y época de pago que determine la misma.
 
-La Federación, los Municipios, los Poderes, órganos autónomos, dependencias y organismos descentralizados o cualquier otra persona, aun cuando de conformidad con otras leyes o decretos no estén obligados a pagar derechos o estén exentos de ellas, deberán pagar los derechos que establece esta Ley con las excepciones que en la misma se señalan.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+La Federación, los Municipios, los Poderes, Órganos Autónomos, Dependencias y Entidades Paraestatales o cualquier otra persona, deberán pagar los derechos que establece esta ley excepto cuando se trate de bienes de dominio público de la Federación, del Estado o Municipios; y solamente en caso de que esos bienes sean utilizados bajo cualquier título para fines administrativos o propósitos distintos a los de su objeto público, deberán enterar el pago de los derechos que corresponda.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -209,6 +213,10 @@ IV. Actividades Académicas y/o Culturales: A las que desarrollen e impulsen la 
 
 Las actividades de este rubro que persigan fines económicos, serán tratadas como actividad empresarial.
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+V. Actividad Deportiva: La actividad física, individual o en conjunto, con fines competitivos o recreativos, que se sujeta a reglas previamente establecidas y coadyuvan a la formación integral de las personas y al desarrollo armónico y conservación de sus facultades físicas y mentales.
+
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### ARTICULO 8o.
@@ -278,6 +286,16 @@ Las leyes, decretos, reglamentos, acuerdos, circulares y órdenes que suscriba e
 Son sujetos de este derecho las personas físicas, morales públicas y privadas que soliciten el uso, goce o aprovechamiento de bienes inmuebles en custodia de la Coordinación de Espacios Culturales.
 
 La prestación del uso, goce o aprovechamiento de bienes de dominio público del Estado de este capítulo, podrá realizarse a través de convenios de colaboración administrativa para la difusión de las tradiciones y cultura oaxaqueña e incentivar la promoción de nuevos talentos y de artistas independientes, en el que se determinará el costo de la prestación del inmueble, y para efectos de esta Ley se denominará como derechos de taquilla.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Para los efectos del presente capítulo se entenderá por:
+
+I. Artista Independiente: Al creador o intérprete que no depende de institución o empresa, comercializando por sí mismo sus productos culturales y que de manera autónoma financia sus actividades.
+
+II. Empresa cultural: A las que se dedica a la producción y comercialización de contenidos que son intangibles y de naturaleza cultural, como son los que se dedican al montaje de exposiciones, campañas de difusión cultural, desarrollo de contenidos culturales para su difusión, edición de catálogos y guías digitales de fondos de carácter histórico.
+
+III. Grupo independiente: A dos o más individuos interactuantes e interdependientes, que se reúnen para crear o interpretar por sí mismos sus productos culturales y que financian con recursos propios la realización de sus actividades.
 
 Los ingresos obtenidos por el uso, goce o aprovechamiento de los bienes de dominio público del Estado, contenidos en este capítulo, se destinarán a los mismos mediante programas anuales de restauración, conservación, mantenimiento e investigación.
 
@@ -537,6 +555,10 @@ IX Establecimiento comercial por mes: $2,679.00
 
 X Visita guiada por persona: $20.00
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Las visitas guiadas para grupos de estudiantes provenientes de instituciones públicas nacionales serán gratuitas previa solicitud de la institución señalando día y hora de la visita.
+
 #### Sección Segunda. Del Museo Estatal de Arte Popular "Oaxaca"
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
@@ -632,6 +654,10 @@ Pesos
 IV Establecimiento comercial, por mes: $2,679.00
 
 V Visita guiada por persona $20.00
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Las visitas guiadas para grupos de estudiantes provenientes de instituciones públicas nacionales serán gratuitas previa solicitud de la institución señalando día y hora de la visita.
 
 #### Sección Tercera. Del Teatro Macedonio Alcalá
 
@@ -997,6 +1023,10 @@ III Establecimiento comercial, por mes: $2,679.00
 
 IV Acceso al Museo, por persona: $20.00
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Las visitas guiadas para grupos de estudiantes provenientes de instituciones públicas nacionales serán gratuitas previa solicitud de la institución señalando día y hora de la visita.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 15 DE DICIEMBRE DE 2012)</small>
@@ -1015,201 +1045,25 @@ I Museo
 
 a) Acceso al Museo, por persona: $20.00
 
-#### Sección Primera. Del Auditorio Guelaguetza
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MAYO DE 2014)</small>
+Las visitas guiadas para grupos de estudiantes provenientes de instituciones públicas nacionales serán gratuitas previa solicitud de la institución señalando día y hora de la visita.
 
-#### Sección Segunda. Planetario Nundehui
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+#### Sección Novena. De la Casa de la Cultura Oaxaqueña
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-### Capítulo Segundo. Bienes de Dominio Público en Custodia de la Secretaría de Administración
+Artículo 14 C. Por el uso, goce o aprovechamiento de bienes en custodia de la Casa de la Cultura Oaxaqueña, se causarán y pagarán derechos de conformidad con lo siguiente:
 
-###### Artículo 15.
+Número de
 
-Por el uso, goce o aprovechamiento de bienes del dominio público del Estado en custodia de la Secretaría de Administración, las personas físicas y morales causarán y pagarán derechos conforme a las siguientes cuotas:
-
-#### Sección Segunda Bis. Espacios en Instalaciones de Oficinas y Complejos Públicos
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
-
-Artículo 17 A. Las personas físicas o morales a las que se les otorgue el uso, goce o aprovechamiento de espacios en instalaciones de oficinas y complejos públicos, causarán y pagarán derechos de conformidad con las siguientes cuotas:
-
-Pesos
-
-I (DEROGADA, P.O. 31 DE DICIEMBRE DE 2013)
-
-II (DEROGADA, P.O. 31 DE DICIEMBRE DE 2013)
-
-III (DEROGADA, P.O. 31 DE DICIEMBRE DE 2013)
-
-IV Colocación de cajeros de Instituciones
-
-de Crédito, por mes: $893.00
-
-VI (SIC) Establecimientos de locales de
-
-Instituciones de Crédito, por mes:
-
-Tipo A hasta 50 metros cuadrados $15,536.00
-
-Tipo B hasta 100 metros cuadrados: $31,071.00
-
-Tipo C hasta 273 metros cuadrados: $41,429.00
-
-VII Establecimientos de locales para
-
-venta de alimentos:
-
-Hasta 22 metros cuadrados: $13,393.00
-
-#### Sección Tercera. Estadio de Futbol "Benito Juárez"
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
-
-###### Artículo 16.
-
-Por el uso, goce o aprovechamiento del Auditorio Guelaguetza, se causarán derechos que se pagarán de conformidad con las siguientes cuotas:
-
-Número de salarios
+Salarios
 
 mínimos
 
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
-
-I Actividades Artísticas por 24 horas: 1490.00
-
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
-
-II Actividades Gubernamentales
-
-por 24 horas: 745.00
-
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
-
-III Actividades Culturales y Sociales que
-
-no causen cobro de boletaje por 24 horas: 784.00
-
-IV (DEROGADA, P.O. 10 DE MAYO DE 2014)
-
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
-
-V Por hora adicional en cualquiera de las
-
-fracciones anteriores: 24.00
-
-> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 10 DE MAYO DE 2014)</small>
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DENOMINACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE DICIEMBRE DE 2012)</small>
-
-#### Sección Primera. Registro Civil
-
-#### Sección Segunda. Registro Público de la Propiedad y del Comercio
-
-###### Artículo 17.
-
-Las personas físicas que tengan acceso al Planetario Nundehui causarán y pagarán derechos de conformidad con las siguientes cuotas:
-
-Pesos
-
-I Planetario
-
-a) Acceso al Planetario $20.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 15 DE DICIEMBRE DE 2012)</small>
-
-#### Sección Tercera. Del Ejercicio Notarial
-
-### Capítulo Tercero. Bienes de Dominio Público en Custodia de la Casa de la Cultura Oaxaqueña
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
-
-#### Sección Cuarta. Publicaciones
-
-###### Artículo 18.
-
-Por el uso, goce o aprovechamiento del Estadio de Futbol "Benito Juárez", se causarán derechos que se pagarán de conformidad con las siguientes cuotas:
-
-Número de salarios
-
-mínimos
-
-I Estadio de futbol “Benito Juárez”
-
-a) Actividades Artísticas, Culturales
-
-y Académicas, por 8 horas: 1,400.00
-
-b) Actividades Gubernamentales, por 8 horas: 700.00
-
-c) Actividades Deportivas, por 3 horas:
-
-1 Liga MX o su equivalente: 300.00
-
-2 Primera División A: 200.00
-
-3 Segunda División: 150.00
-
-4 Tercera División o Eventos Deportivos
-
-de Promoción: 100.00
-
-d) Por hora adicional en cualquiera de los
-
-incisos anteriores: 100.00
-
-II Explanada y canchas de básquetbol
-
-a) Exposiciones Comerciales y Ferias,
-
-por 15 días: 1200.00
-
-b) Actividades Artísticas, Culturales y
-
-Verbenas populares, por 8 horas: 700.00
-
-c) Actividades Gubernamentales,
-
-por 8 horas: 350.00
-
-III Estacionamiento del Estadio
-
-Actividades Artísticas, Culturales y
-
-Deportivas, por 8 horas: 180.00
-
-IV Teatro al aire libre “Ciudad de
-
-las Canteras”, por 3 horas: 3.00
-
-Se cobrará adicionalmente el 25 por ciento sobre el costo del derecho a pagar por el uso del inmueble, por concepto de energía eléctrica.
-
-#### Sección Quinta. De los Servicios en materia de Control de Confianza
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2014)</small>
-
-###### Artículo 19.
-
-Por el uso, goce o aprovechamiento de bienes en custodia de la Casa de la Cultura Oaxaqueña, se causarán y pagarán derechos de conformidad con lo siguiente:
-
-Número de salarios
-
-mínimos
-
-I Foro Margarita Maza Parada
+I Foro Margarita Maza Parada:
 
 a) Por 3 horas: 37.00
 
@@ -1221,7 +1075,7 @@ d) Equipo de iluminación, por 1 hora: 17.00
 
 e) Mobiliario, por 1 hora: 10.00
 
-II Pérgola Sor Juana Inés de la Cruz
+II Pérgola Sor Juana Inés de la Cruz:
 
 a) Por 3 Horas: 18.00
 
@@ -1233,9 +1087,9 @@ d) Equipo de iluminación, por 1 hora: 17.00
 
 e) Mobiliario, por 1 hora: 10.00
 
-III Sala Arcelia Yáñiz
+III Sala Arcelia Yáñiz:
 
-a) Por 3 horas: 26.50
+a) Por 3 Horas: 26.50
 
 b) Por 1 Hora: 11.50
 
@@ -1243,7 +1097,7 @@ c) Equipo de sonido, por 1 hora: 6.00
 
 d) Equipo de iluminación, por 1 hora: 7.00
 
-IV Sala Andrés Henestrosa
+IV Sala Andrés Henestrosa:
 
 a) Por 3 Horas: 26.50
 
@@ -1259,87 +1113,19 @@ Para el caso de que no sea utilizado el equipo de sonido e iluminación se cobra
 
 Tratándose de Actividades Gubernamentales, se causará el pago del 50 por ciento de la cuota establecida en la fracción e inciso de que se trate.
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-### Capítulo Cuarto. Del Jardín Etnobotánico
+#### Sección Décima. Centro de las Artes de San Agustín
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+Artículo 14 D. Las personas físicas, morales y unidades económicas que soliciten el uso, goce o aprovechamiento de las instalaciones del Centro de las Artes de San Agustín, causarán y pagarán derechos de conformidad con las siguientes cuotas:
 
-Artículo 19 A. Por el uso, goce o aprovechamiento de las instalaciones del Jardín Etnobotánico, se causarán y pagarán derechos de conformidad con las siguientes cuotas:
+Número de
 
-Número de salarios
+Salarios
 
 mínimos
-
-I Plazuela
-
-a) Por 7 horas: 2255.00
-
-b) Actividades Gubernamentales: 1130.00
-
-c) Por hora adicional: 562.00
-
-II Patio del Huaje
-
-a) Por 7 horas: 1130.00
-
-b) Actividades Gubernamentales: 566.00
-
-c) Por hora adicional: 281.00
-
-III Cubo de la Escalera
-
-a) Por 3 horas: 42.00
-
-b) Actividades Gubernamentales: 22.00
-
-IV La Taquilla
-
-a) Por 3 horas: 42.00
-
-b) Actividades Gubernamentales: 22.00
-
-V Las Orquídeas
-
-a) Por 3 horas: 33.00
-
-b) Actividades Gubernamentales: 20.00
-
-VI Imagen del Jardín con fines comerciales
-
-a) Sesión de Fotografía o Video: 200.00
-
-Pesos
-
-VII Visitas Guiadas
-
-a) Español
-
-1 Por hora: $50.00
-
-b) Inglés
-
-1 Por hora: $100.00
-
-Las sesiones de fotografía o video de carácter educativo y cultural no serán sujetos al pago de derechos.
-
-En las visitas guiadas se otorgará un estímulo fiscal del 50 por ciento a estudiantes con credencial de instituciones educativas nacionales y adultos mayores.
-
-Las visitas guiadas para grupos de estudiantes provenientes de instituciones públicas nacionales serán gratuitas previa solicitud de la institución señalando día y hora de la visita.
-
-> <small>(ADICIONADA SU DENOMINACIÓN [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2014)</small>
-
-### Capítulo Quinto. Centro de las Artes de San Agustín
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-Artículo 19 B. Las personas físicas, morales y unidades económicas que soliciten el uso, goce o aprovechamiento de las instalaciones del Centro de las Artes de San Agustín, causarán y pagarán derechos de conformidad con las siguientes cuotas:
-
-Número de salarios
-
-Mínimos
 
 I Sesión fotográfica individual: 33.00
 
@@ -1347,11 +1133,233 @@ II Sesión fotográfica grupal: 82.00
 
 III Talleres para fotografía, grabado tradicional,
 
-digital de producciones artísticas y culturales por
+gráfica digital de producciones artísticas y
 
-actividad: 95.00
+culturales por actividad: 95.00
 
 IV Establecimiento comercial, por mes: 46.00
+
+### Capítulo Segundo. Bienes de Dominio Público en Custodia de la Secretaría de Administración
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 15.
+
+Por el uso, goce o aprovechamiento de bienes del dominio público del Estado en custodia de la Secretaría de Administración, las personas físicas y morales causarán y pagarán los derechos conforme a las cuotas señaladas en las siguientes secciones:
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+#### Sección Primera. Planetario Nundehui
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Artículo 15 A. Las personas físicas que tengan acceso al Planetario Nundehui causarán y pagarán derechos por el acceso al Planetario $20.00.
+
+Las visitas guiadas para grupos de estudiantes provenientes de instituciones públicas nacionales serán gratuitas previa solicitud de la institución señalando día y hora de la visita.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+#### Sección Segunda. Espacios en Instalaciones de Oficinas y Complejos Públicos
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 16.
+
+Las personas físicas o morales a las que se les otorgue el uso, goce o aprovechamiento de espacios en instalaciones de oficinas y complejos públicos, causarán y pagarán derechos de conformidad con las siguientes cuotas:
+
+Pesos
+
+I Colocación de cajeros de Instituciones de Crédito, 893.00
+
+por mes:
+
+II Establecimientos de locales de Instituciones de Crédito, por mes:
+
+Tipo A hasta 50 metros cuadrados: 15,536.00
+
+Tipo B hasta 100 metros cuadrados: 31,071.00
+
+Tipo C hasta 273 metros cuadrados: 41,429.00
+
+III Establecimientos de locales para venta de alimentos:
+
+Hasta 22 metros cuadrados: 13,393.00
+
+> <small>(DEROGADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+#### Sección Segunda Bis
+
+#### Sección Tercera. Estadio de Futbol "Benito Juárez"
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 17.
+
+Por el uso, goce o aprovechamiento del Estadio de Futbol "Benito Juárez", se causarán derechos que se pagarán de conformidad con las siguientes cuotas:
+
+Número de
+
+Salarios
+
+mínimos
+
+I Estadio de futbol "Benito Juárez":
+
+a) Actividades Deportivas: 122.00
+
+b) Actividades Gubernamentales, Académicas y/o 236.00
+
+Culturales:
+
+c) Explanada y Canchas de Basquetbol: 55.00
+
+d) Estacionamiento: 403.00
+
+II Teatro al aire libre "Ciudad de las Canteras", por 3 horas: 3.00
+
+Se cobrará adicionalmente el 25 por ciento sobre el costo del derecho a pagar por el uso del inmueble, por concepto de energía eléctrica.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+#### Sección Cuarta. Unidad Deportiva "Venustiano Carranza"
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Artículo 17 A. Por el uso, goce o aprovechamiento de la Unidad Deportiva "Venustiano Carranza", se causarán y pagarán derechos por evento, consiste en 50 salarios mínimos.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+### Capítulo Tercero. Bienes de Dominio Público en Custodia de la Secretaría de Turismo y Desarrollo Económico
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+#### Sección Primera. Del Auditorio Guelaguetza
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 18.
+
+Por el uso, goce o aprovechamiento del Auditorio Guelaguetza, se causarán derechos que se pagarán de conformidad con las siguientes cuotas:
+
+Número de
+
+Salarios
+
+mínimos
+
+I Sección A:
+
+a) Actividades Gubernamentales 24 horas: 500.00
+
+b) Actividades Artísticas por 24 horas: 1000.00
+
+c) Actividades Culturales y Sociales que no 550.00
+
+causen cobro de boletaje por 24 horas:
+
+II Secciones A y B:
+
+a) Actividades Gubernamentales por 24 horas: 830.00
+
+b) Actividades Artísticas por 24 horas: 1660.00
+
+c) Actividades Culturales y Sociales que no 880.00
+
+causen cobro de boletaje por 24 horas:
+
+III Secciones A, B, C y D:
+
+a) Actividades Gubernamentales por 24 horas: 1600.00
+
+b) Actividades Artísticas por 24 horas: 3200.00
+
+c) Actividades Culturales y Sociales que no 1700.00
+
+causen cobro de boletaje:
+
+IV Por hora adicional en cualquiera de las 10.00
+
+fracciones anteriores:
+
+V Por día montaje y desmontaje: 455.00
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+#### Sección Segunda. Del Jardín Etnóbotanico
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 19.
+
+Por el uso, goce o aprovechamiento de las instalaciones del Jardín Etnobotánico, se causarán y pagarán derechos de conformidad con las siguientes cuotas:
+
+Número de
+
+Salarios
+
+mínimos
+
+I Plazuela y Patio del Huaje:
+
+a) Por 24 horas: 3185.00
+
+b) Actividades Gubernamentales: 1590.00
+
+II Patio del Huaje:
+
+a) Por 24 horas: 1130.00
+
+b) Actividades Gubernamentales: 566.00
+
+III Cubo de la Escalera, por 3 horas:
+
+a) Actividades Gubernamentales: 20.00
+
+b) Particulares: 40.00
+
+c) Por hora adicional: 5.00
+
+IV La Taquilla, por 3 horas:
+
+a) Actividades Gubernamentales: 20.00
+
+b) Particulares: 40.00
+
+c) Por hora adicional: 5.00
+
+V Imagen del jardín con fines comerciales:
+
+Sesión de fotografía o video por 1 hora: 220.00
+
+VI Imagen del jardín sin fines comerciales:
+
+Sesión de fotografía o video por 1 hora: 20.00
+
+VII Visitas Guiadas:
+
+a) Español:
+
+1 Por hora: $50.00
+
+b) Inglés:
+
+1 Por hora: $ 100.00
+
+Las sesiones de fotografía o video de carácter educativo y cultural no serán sujetos al pago de derechos.
+
+En las visitas guiadas se otorgará un estímulo fiscal del 50 por ciento a estudiantes con credencial de instituciones educativas nacionales y adultos mayores.
+
+Las visitas guiadas para grupos de estudiantes provenientes de instituciones públicas nacionales serán gratuitas previa solicitud de la institución señalando día y hora de la visita.
+
+A las ciudadanas y ciudadanos oaxaqueños que presenten acta de nacimiento del Estado de Oaxaca, así como el pago de derechos del Registro Civil para contraer matrimonio civil en este espacio, se les otorgará un estímulo fiscal del cincuenta por ciento en el pago de los derechos correspondientes.
+
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+### Capítulo Cuarto. Artículo 19 A. (DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
+
+> <small>(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+### Capítulo Quinto. Artículo 19 B. (DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 20.
 
@@ -1469,7 +1477,7 @@ III Reposición de credencial: 1.43
 
 Los servicios solicitados con carácter de urgente causarán cuota doble.
 
-#### Sección Sexta. De los Servicios en Materia de Protección Civil
+#### Sección Primera. Registro Civil
 
 ###### Artículo 24.
 
@@ -1665,7 +1673,7 @@ La Dirección del Registro Civil trimestralmente deberá informar a la Secretar�
 
 Los servicios prestados a las personas físicas dentro del "Programa Identidad sin Fronteras" tendrán un incremento del 25% sobre la cuota del servicio que se proporcione.
 
-#### Sección Séptima. De los Servicios que se presten en materia de Regularización de la Tenencia de la Tierra Urbana
+#### Sección Segunda. Registro Público de la Propiedad y del Comercio
 
 ###### Artículo 25.
 
@@ -2297,13 +2305,9 @@ La cantidad a pagar no deberá exceder de 20
 
 salarios mínimos.
 
-Los servicios enumerados en los artículos 25 y 26 solicitados con carácter de urgentes causarán cuota doble.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-#### Sección Primera. De la Dirección General de Tránsito
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+#### Sección Tercera. Del Ejercicio Notarial
 
 ###### Artículo 27.
 
@@ -2447,11 +2451,7 @@ por haber aprobado exámenes: 1650.00
 
 Los libros de los Notarios deberán reunir los requisitos que establecen los artículos 41 al 45 de la Ley del Notariado para el Estado de Oaxaca.
 
-#### Sección Segunda. Servicios de Seguridad y Vigilancia
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+#### Sección Cuarta. Publicaciones
 
 ###### Artículo 28.
 
@@ -2541,17 +2541,13 @@ VI Ejemplar que contenga convocatorias. 0.50
 
 No se causará el pago de derechos de publicaciones a que se refiere el artículo anterior, cuando se trate de la promulgación de leyes y decretos provenientes de la actividad del Poder Legislativo; decretos y acuerdos suscritos por el Titular del Poder Ejecutivo, acuerdos del Pleno del Poder Judicial, así como de los acuerdos y disposiciones emitidos por los Órganos Autónomos.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+Los Poderes Legislativo y Judicial, Órganos Autónomos, Ayuntamientos, así como las Dependencias y Entidades de la Administración Pública Estatal, pagarán los derechos correspondientes cuando se trate de publicaciones de acuerdos del Pleno del Poder Judicial y Órganos Autónomos, reglamentos, manuales, convocatorias para licitaciones públicas, estados financieros, convenios, edictos, cédulas de notificación, circulares, informes, avisos o aquellos que no cumplan con las características señaladas en el párrafo anterior.
 
-Los Poderes Legislativo y Judicial, Órganos Autónomos, Ayuntamientos, así como las Dependencias y Entidades de la Administración Pública Estatal, pagarán los derechos correspondientes cuando se trate de publicaciones de convocatorias para licitaciones públicas, estados financieros, convenios, edictos, cédulas de notificación, circulares, informes, avisos o aquellos que no cumplan con las características señaladas en el párrafo anterior.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
-
-Los Talleres Gráficos del Estado deberán proporcionar por lo menos dos ejemplares sin costo de todas las publicaciones al Poder Legislativo, al Archivo del Poder Ejecutivo del Estado, al Archivo General de la Nación y al Diario Oficial de la Federación con el propósito de conservarlos como parte de su acervo cultural; de igual manera deberá entregarse dos ejemplares a la persona física o moral que ordene y pague derechos por publicación.
+Los Talleres Gráficos del Estado deberán proporcionar por lo menos dos ejemplares sin costo de todas las publicaciones al Poder Legislativo, al Archivo del Poder Ejecutivo del Estado, al Archivo General de la Nación y al Diario Oficial de la Federación con el propósito de conservarlos como parte de su acervo cultural; así mismo, deberá entregarse un ejemplar a la persona física o moral que ordene y pague derechos por publicación.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2561,11 +2557,9 @@ Los ingresos recaudados por los servicios contenidos en esta sección se destina
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-#### Sección Primera. Del Servicio Público
+#### Sección Quinta. De los Servicios en materia de Control de Confianza
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 30.
 
@@ -2573,11 +2567,7 @@ Por los servicios públicos que se presten en materia de aplicación de evaluaci
 
 Los ingresos recaudados con motivo de la aplicación de evaluaciones de control de confianza, hasta por un sesenta por ciento serán destinados a cubrir las erogaciones derivadas de los servicios que se prestan en el Centro Estatal de Evaluación y Control de Confianza, y los costos inherentes al mismo.
 
-#### Sección Segunda. Del Control Vehicular
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+#### Sección Sexta. De los Servicios en Materia de Protección Civil
 
 ###### Artículo 31.
 
@@ -2781,11 +2771,7 @@ f) Obras de ingeniería civil: 60.00
 
 g) Transporte especializado de explosivos: 60.00
 
-#### Sección Primera. Atención en Salud
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+#### Sección Séptima. De los Servicios que se presten en materia de Regularización de la Tenencia de la Tierra Urbana
 
 ###### Artículo 32.
 
@@ -2997,7 +2983,11 @@ IV Impartición de curso de formación
 
 básica para integrantes de seguridad privada: 65.00
 
-#### Sección Segunda. Vigilancia y Control Sanitario
+#### Sección Primera. De la Dirección General de Tránsito
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 35.
 
@@ -3089,7 +3079,11 @@ camión y autobuses: 3.00
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-#### Sección Primera. Servicios Ecológicos
+#### Sección Segunda. Servicios de Seguridad y Vigilancia
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 37.
 
@@ -3101,17 +3095,21 @@ mínimos
 
 I Servicios de seguridad y vigilancia:
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 a) Sin arma, por elemento en un turno de
 
-12 horas, por mes: 165.00
+12 horas, por mes: 157.00
 
 b) Sin arma, por elemento en un turno
 
 (sic) 12 horas, por quince días: 83.00
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 c) Con arma, por elemento en un turno de
 
-12 horas, por mes: 176.00
+12 horas, por mes: 168.00
 
 d) Con arma, por elemento en un turno
 
@@ -3121,15 +3119,19 @@ e) De oficialidad con arma, por elemento en
 
 un turno de 12 horas, por mes: 193.00
 
-f) Escolta, por elemento en un turno de 12
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-horas, por mes: 231.00
+f) Escolta, por elemento en un turno de
 
-g) Con vehículo de motor con dos elementos
+12 horas, por mes: 220.00
 
-armados a bordo en un turno de 12 horas, por
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-mes: 852.00
+g) Escolta con vehículo de motor con dos
+
+elementos armados a bordo en un turno de
+
+12 horas, por mes: 813.00
 
 h) Con cuatrimoto y dos elementos armados
 
@@ -3219,7 +3221,7 @@ una cámara mensual: 25.00
 
 > <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-#### Sección Segunda. Supervisión de Obra Pública
+#### Sección Primera. Del Servicio Público
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -3461,15 +3463,27 @@ XXXIII. Por prórroga de permiso para servicio especial: 100.00
 
 XXXIV. Por la expedición de constancia pericial: 4.40
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XXXV. Expedición de Autorización
+
+para impartir cursos de capacitación
+
+a concesionarios, permisionarios u
+
+operadores del servicio público: 100.00
+
 Los concesionarios, propietarios y/o tenedores de vehículos destinados al servicio público deberán someter a la revisión pericial dichos vehículos en los primeros tres meses de cada año.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(ADICIONADA, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-#### Sección Tercera. Por el Suministro de Agua Potable
+#### Sección Segunda. Del Control Vehicular
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 39.
 
@@ -3573,6 +3587,16 @@ VIII Reposición de tarjeta de circulación de
 
 vehículos en cualquiera de sus modalidades: 4.60
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+IX Expedición de placas y calcomanías
+
+con terminación especial, por alta o
+
+canje total para vehículos destinados
+
+al servicio privado pagaran adicionalmente: 100.00
+
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 41.
@@ -3583,13 +3607,13 @@ Número de salarios
 
 mínimos
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA [N. DE E. EN SU CANTIDAD], P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 I Por el uso, goce o aprovechamiento de
 
 placas y calcomanía de vehículos destinados
 
-al servicio privado: 6.40
+al servicio privado: 8.80
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
@@ -3813,7 +3837,11 @@ de carga y descarga de mercancías): 2.20
 
 ### Capítulo Cuarto. Por los Servicios que presta la Secretaría de Salud
 
-#### Sección Primera. Por los Servicios que presta la Casa de la Cultura Oaxaqueña
+#### Sección Primera. Atención en Salud
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 ###### Artículo 44.
 
@@ -3827,7 +3855,7 @@ Los ingresos que se obtengan por los servicios de atención en salud, deberán s
 
 Tratándose de personas físicas que no cuenten con seguro popular, los servicios deberán ser pagados atendiendo al estudio socioeconómico que se realice.
 
-#### Sección Segunda. Por los Servicios que preste el Taller de Artes Plásticas Rufino Tamayo
+#### Sección Segunda. Vigilancia y Control Sanitario
 
 ###### Artículo 45.
 
@@ -3905,15 +3933,17 @@ XV Certificado de manejo y dispensación de
 
 Medicamentos (por persona): 14.00
 
-XVI Certificado anual para transporte a granel de
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-agua en remolque o vehículos cisterna:
+XVI Certificado anual para trasporte a granel
 
-a) Con capacidad menor a 5000 litros: 18.00
+de agua en remolque o vehículos cisterna: 13.00
 
-b) Con capacidad de 5000 a 10, 000 litros: 36.00
+a) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
 
-c) Con capacidad de mayor a 10, 000 litros: 54.00
+b) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
+
+c) (DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
 
 XVII Certificado Sanitario único de instalaciones
 
@@ -3995,7 +4025,7 @@ de personas físicas o morales en el Padrón de
 
 Contratistas de Obra Pública: 30.00
 
-#### Sección Tercera. Por los Servicios que preste el Centro de Iniciación Musical de Oaxaca
+#### Sección Primera. Servicios Ecológicos
 
 ###### Artículo 47.
 
@@ -4475,9 +4505,11 @@ I Verificación y holograma para
 
 vehículos particulares: 9.50
 
+> <small>(REFORMADA [N. DE E. EN SU CANTIDAD], P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 II Verificación y holograma para
 
-vehículos doble cero: 10.00
+vehículos doble cero: 9.50
 
 III Verificación y holograma para
 
@@ -4517,15 +4549,23 @@ III Regularización de planes de sitios y
 
 tiraderos a cielo abierto: 125.00
 
-#### Sección Primera. Del Control Zoosanitario
+#### Sección Segunda. Supervisión de Obra Pública
 
-> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 56.
 
-Los contratistas que celebren contratos de obra pública y servicios relacionados con la misma, con dependencias y entidades, pagarán sobre el importe total de la contratación sin incluir el importe al Impuesto al Valor Agregado, el uno punto cinco por ciento por los servicios de supervisión.
+Los contratistas que celebren contratos de obra pública y servicios relacionados con la misma, con dependencias y entidades, pagarán sobre el importe total de la contratación sin incluir el importe al Impuesto al Valor Agregado, el dos punto cinco por ciento por los servicios de supervisión.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 Las oficinas pagadoras de las dependencias y entidades, al hacer el pago del anticipo retendrán el importe del derecho a que se refiere el párrafo anterior y depositarán de inmediato a la cuenta bancaria que para tal efecto apertura la Secretaría de Finanzas dando aviso de la misma.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
 Cuando se trate de contrataciones en las que no se haya pactado la entrega de anticipo, las oficinas pagadoras de las dependencias y entidades, al hacer el pago de la primera estimación retendrán el importe del derecho a que se refiere el presente artículo y procederán en los mismos términos descritos en el párrafo anterior.
 
@@ -4537,15 +4577,19 @@ Tratándose de la contratación de obras por parte de los Municipios donde una p
 
 Los ingresos que se obtengan por la recaudación de este derecho, se destinarán hasta en un 70 por ciento de los montos que les correspondan a la Secretaría de las Infraestructuras y el Ordenamiento Territorial Sustentable; Caminos y Aeropistas de Oaxaca; Comisión Estatal del Agua; Comisión Estatal de Vivienda; Instituto Oaxaqueño Constructor de Infraestructura Física Educativa; Servicios de Agua Potable y Alcantarillado de Oaxaca, entre otras, para el fortalecimiento del servicio de supervisión de las obras públicas a que se refiere este articulo, el 30 por ciento será destinado y ejercido para la evaluación del desempeño a que se refiere la Ley de Coordinación Fiscal, Ley Estatal de Presupuesto y Responsabilidad Hacendaría y las demás disposiciones legales aplicables.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+
 Procederá la ministración de los montos recaudados en esta sección siempre que las dependencias y entidades presenten el informe de los derechos retenidos dentro de los primeros diez días naturales de cada mes para su conciliación.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE DEROGACIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 > <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
-#### Sección Primera. De las Constancias
+#### Sección Tercera. Por el Suministro de Agua Potable
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 2013)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
 ###### Artículo 57.
 
@@ -4593,9 +4637,7 @@ Artículo 59 A. Las personas físicas que tengan acceso a la Feria Internacional
 
 ### Capítulo Séptimo. Por los Servicios que presta la Secretaría de las Culturas y Artes de Oaxaca
 
-#### Sección Segunda. Servicios Catastrales
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+#### Sección Primera. Por los Servicios que presta la Casa de la Cultura Oaxaqueña
 
 ###### Artículo 60.
 
@@ -4685,7 +4727,7 @@ a) Danza: 17.64
 
 b) Música: 14.11
 
-#### Sección Primera. De los Servicios del Archivo del Poder Ejecutivo
+#### Sección Segunda. Por los Servicios que preste el Taller de Artes Plásticas Rufino Tamayo
 
 ###### Artículo 61.
 
@@ -4699,7 +4741,7 @@ I Pago de Inscripción de Cursos Permanentes: 15.40
 
 II Pago de Inscripción de Cursos Especiales: 10.59
 
-#### Sección Primera. De las Constancias
+#### Sección Tercera. Por los Servicios que preste el Centro de Iniciación Musical de Oaxaca
 
 ###### Artículo 62.
 
@@ -4719,7 +4761,9 @@ II Pago de Inscripción a cursos semestrales: 11.55
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN], P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-#### Sección Segunda. Inspección y Vigilancia
+#### Sección Primera. Del Control Zoosanitario
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 ###### Artículo 63.
 
@@ -5233,9 +5277,9 @@ A partir de la entrada en vigor del presente Decreto, el Instituto Superior de S
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REFORMADA ANTES SECCIÓN SEGUNDA DEL CAPÍTULO OCTAVO DEL TÍTULO TERCERO], P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-#### Sección Primera. Por los servicios que presta la Comisión Estatal del Agua
+#### Sección Primera. De las Constancias
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE MARZO DE 2013)</small>
 
 ###### Artículo 67.
 
@@ -5383,15 +5427,23 @@ XII Por la expedición de constancias
 
 a que alude la Ley de Deuda Pública: 5.00
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XIII Por reposición de permiso para la
+
+apertura, instalación y funcionamiento
+
+de casas de empeño en el Estado: 80.00
+
 > <small>(REFORMADO, P.O. 2 DE MARZO DE 2013)</small>
 
 Para efectos de la fracción XI, cuando se trate de objetos cuyas dimensiones sean por fracción de la medida establecida, se cobrará en proporción al espacio que ocupe.
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REFORMADA ANTES SECCIÓN TERCERA DEL CAPÍTULO OCTAVO DEL TÍTULO TERCERO], P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-#### Sección Segunda. Por los Servicios de Agua Potable y Alcantarillado de Oaxaca
+#### Sección Segunda. Servicios Catastrales
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 68.
 
@@ -5439,11 +5491,13 @@ VI Por cancelación de registro de
 
 cuenta catastral: 5.50
 
-VII Por impresión de cada boleta a los
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-Ayuntamientos que cuentan con convenio
+VII Por impresión o reimpresión del recibo
 
-exclusivo de impresión de boletas: 0.16
+de pago de la boleta de pago del impuesto
+
+predial, previa autorización de los Ayuntamientos: 0.16
 
 VIII Archivo digital del padrón municipal catastral
 
@@ -5483,15 +5537,19 @@ I No registro catastral por persona. 1.00
 
 II Ubicación y superficie por cada inmueble 13.30
 
-III Manifiestos o avisos en general
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-que sirvieron de base para la apertura
+III De documentos o datos asentados
 
-de registros catastrales, exceptuando
+en los registros catastrales que sirvieron
 
-el título de propiedad, en un periodo
+en base para la apertura de los registros
 
-de 5 años o fracción de año. 3.30
+catastrales, por cada periodo de 5 años
+
+o fracción de un año, contados a partir
+
+de la fecha del Registro: 3.30
 
 IV Avalúo emitido por Perito Valuador
 
@@ -5931,6 +5989,8 @@ de no adeudo patrimonial: 1.00
 
 XI Por los servicios que prestan sus organismos sectorizados
 
+#### Sección Primera. De los Servicios del Archivo del Poder Ejecutivo
+
 ###### Artículo 79.
 
 Las personas físicas y morales que soliciten servicios a cargo del Archivo del Poder Ejecutivo, causarán y pagarán cuotas de conformidad con lo siguiente:
@@ -5995,6 +6055,8 @@ digitalizado por hoja: 0.28
 
 ### Capítulo Décimo. Por los Servicios que presta la Secretaría de la Contraloría y Transparencia Gubernamental
 
+#### Sección Primera. De las Constancias
+
 ###### Artículo 80.
 
 Por los servicios que presta la Secretaría de la Contraloría y Transparencia Gubernamental, se causarán y pagarán los derechos de la siguiente forma:
@@ -6011,6 +6073,8 @@ II Por la expedición de constancias de
 
 no existencia de sanciones: 1.50
 
+#### Sección Segunda. Inspección y Vigilancia
+
 ###### Artículo 81.
 
 Por los servicios de inspección, vigilancia y control que las leyes le encomienden a la Secretaría de la Contraloría y Transparencia Gubernamental, los contratistas que celebren contratos de obra pública y servicios relacionados con la misma, con dependencias y entidades, pagarán sobre el importe de cada una de las estimaciones de trabajo el cinco al millar.
@@ -6023,9 +6087,17 @@ Para efectos de lo anterior, la Secretaría de la Contraloría y Transparencia G
 
 La omisión total o parcial en lo antes señalado, afectará el presupuesto de la dependencia en un equivalente a dos veces el valor de la omisión efectuada, sin perjuicio de las demás sanciones establecidas en otras Leyes para los citados servidores públicos.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 82.
 
-Los servidores públicos a cargo de la prestación de servicios deberán realizar la conciliación con la Secretaría de Finanzas dentro de los primeros 10 días naturales de concluido el mes de calendario sobre los servicios prestados y lo efectivamente recaudado.
+Las personas físicas, morales o unidades económicas en su carácter de proveedores o prestadores de servicios al Gobierno del Estado, causarán y pagarán sobre el importe total de la contratación sin incluir el Impuesto al Valor Agregado, el dos punto cinco por ciento por los servicios de inspección, vigilancia y control a cargo de la Secretaría de la Contraloría y Transparencia Gubernamental.
+
+Las Dependencias y Entidades retendrán el importe del derecho a que se refiere el presente artículo y depositarán de inmediato a la cuenta bancaria que para tal efecto aperture la Secretaría de Finanza, debiendo de dar aviso sobre el depósito efectuado.
+
+Los ingresos que se obtengan por la recaudación de este derecho, se destinarán hasta en un 50 por ciento de los montos que les correspondan a la Secretaría de la Contraloría y Transparencia Gubernamental; el 50 por ciento será destinado y ejercido para la evaluación del desempeño a que se refiere la Ley de Coordinación Fiscal, Ley Estatal de Presupuesto y Responsabilidad Hacendaría y las demás disposiciones legales aplicables.
+
+Se faculta a la Secretaría de Finanzas para que en el ámbito de su competencia emita las disposiciones administrativas y legales, para la implementación del presente artículo.
 
 ## Título Cuarto. Por los Servicios que se prestan en Materia Educativa
 
@@ -6171,17 +6243,19 @@ V Ficha de exámen para selección: 3.92
 
 A los alumnos que obtengan al término de sus periodos lectivos promedios de evaluaciones que se ubiquen entre 8.5 y 10, se sujetarán a los siguientes descuentos en inscripción y reinscripción:
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 PROMEDIO DESCUENTO
 
-De 8.5 a 9.0 25%
+De 8.5 a 9.0 50%
 
-De 9.1 a 9.5 50%
+De 9.1 a 9.5 75%
 
-De 9.6 a 10 75%
+De 9.6 a 10 100%
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-Tratándose de estudiantes que provengan de zonas marginadas, se aplicarán porcentajes de becas determinadas por el Consejo Directivo que van del 25%, 50% 75% de descuento en inscripción y reinscripción.
+El Consejo Directivo determinará el otorgamiento de becas que van desde el 25%, 50%, 75% y 100% por los conceptos de inscripción y reinscripción.
 
 ### Capítulo Tercero. Por los Servicios que presta la Universidad del Istmo
 
@@ -7089,697 +7163,773 @@ Se aplicarán porcentajes de becas determinadas por el H. Consejo Académico que
 
 Los contribuyentes que reciban servicios en materia educativa a cargo del Instituto Estatal de Educación Pública de Oaxaca, se causarán y pagarán los derechos de la siguiente forma:
 
-Número de salarios
+Número de
+
+Salarios
 
 mínimos
 
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 I Educación Preescolar:
 
-a) Autorización para impartir estudios
+a) Autorización para impartir educación preescolar: 19.50
 
-con validez oficial del nivel preescolar: 19.72
+b) Actualización y modificación de los acuerdos de 16.50
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+autorización por cambio de domicilio, titular o nombre de
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+la institución:
 
-b) Actualización de los acuerdos de
+c) Certificación de estudios de educación preescolar: 0.92
 
-reconocimiento de validez oficial por
+d) Corrección de certificados de educación preescolar: 0.92
 
-cambio de domicilio, titular, plan y
+e) Consulta de archivos de educación preescolar: 2.25
 
-programas de estudios, actualización
+f) Visitas de verificación, inspección y vigilancia a los 0.10
 
-de los mismos o nombre de la institución: 16.50
+particulares que soliciten o le hayan sido otorgada
 
-c) Certificación de estudios de
+autorización para impartir educación preescolar, por
 
-educación preescolar: 0.92
+alumno:
 
-d) Corrección de certificados de
+g) Por la resolución que recaiga respecto de la solicitud de 16.50
 
-educación preescolar: 0.92
+autorización para impartir educación preescolar:
 
-e) Consulta de archivos de
+h) Revocación o cancelación de la autorización, a petición 16.50
 
-educación preescolar: 2.25
+del particular:
 
-f) Visitas de inspección y
+i) Expedición de constancias de liberación de 3.00
 
-vigilancia a instituciones con
+responsabilidades relacionadas con el trámite de
 
-reconocimiento de validez oficial
+documentación escolar:
 
-de nivel preescolar, por alumno: 0.11
+j) Inscripción y registro en el Sistema Estatal de Información 0.90
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Educativa:
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+k) Por el estudio y trámite de la solicitud de autorización 16.50
 
-g) Autorización del funcionamiento de
+para impartir educación preescolar:
 
-escuelas particulares: 16.50
+i) Constancia de historial académico: 0.90
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 II Educación Primaria:
 
-a) Autorización para impartir estudios
+a) Autorización para impartir educación primaria: 19.50
 
-con validez oficial del nivel primaria: 19.72
+b) Actualización y modificación de los acuerdos de 19.50
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+autorización por cambio de domicilio, titular o nombre de
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+la institución:
 
-b) Actualización de los acuerdos de
+c) Expedición de certificación de educación primaria: 0.92
 
-reconocimiento de validez oficial por
+d) Corrección de certificación de educación primaria: 0.92
 
-cambio de domicilio, titular, plan y
+e) Revalidación de estudios de educación primaria: 0.67
 
-programas de estudios, actualización de
+f) Evaluación general de conocimiento: 0.90
 
-los mismos o nombre de la institución: 19.72
+g) Visitas de verificación, inspección y vigilancia a los 0.10
 
-c) Expedición de certificación
+particulares que soliciten o le hayan sido otorgada
 
-de educación primaria: 0.92
+autorización para impartir educación primaria, por
 
-d) Corrección de certificación
+alumno:
 
-de educación primaria: 0.92
+h) Consulta de archivos de educación primaria: 2.25
 
-e) Revalidación de estudios
+i) Por la resolución que recaiga respecto de la solicitud de 16.00
 
-de educación primaria: 0.67
+autorización para impartir educación primaria:
 
-f) Examen a título de suficiencia: 0.82
+j) Revocación o cancelación de la autorización, a petición 16.50
 
-g) Visitas de inspección y vigilancia
+del particular:
 
-a instituciones con reconocimiento de
+k) Expedición de constancias de liberación de 3.00
 
-validez oficial de nivel primaria,
+responsabilidades relacionadas con el trámite de
 
-por alumno: 0.11
+documentación escolar:
 
-h) Consulta de archivos de
+l) Inscripción y registro en el Sistema Estatal de Información 0.90
 
-educación primaria: 2.25
+Educativa:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+m) Por el estudio y trámite de la solicitud de autorización 16.50
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+para impartir educación primaria:
 
-i) Autorización del funcionamiento de
+ñ (sic)) Constancia de historial académico: 0.90
 
-escuelas particulares: 15.40
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 III Educación Secundaria:
 
-a) Autorización para impartir estudios
+a) Autorización para impartir educación secundaria: 19.50
 
-con validez oficial del nivel secundaria: 19.72
+b) Actualización y modificación de los acuerdos de 19.50
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+autorización por cambio de domicilio, titular o nombre de
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+la institución:
 
-b) Actualización de los acuerdos de
+c) Expedición de certificación de estudios de educación 0.92
 
-reconocimiento de validez oficial por
+secundaria:
 
-cambio de domicilio, titular, plan y
+d) Corrección de certificados de educación secundaria: 0.92
 
-programas de estudios, actualización
+e) Expedición de informe de calificaciones de estudios 0.92
 
-de los mismos o nombre de la institución: 19.72
+parciales de educación secundaria:
 
-c) Equivalencia de estudios: 0.62
+f) Legalización de diplomas de actividades tecnológicas de 0.92
 
-d) Expedición de certificación de
+educación secundaria:
 
-estudios de educación secundaria: 0.92
+g) Legalización de duplicados de constancias de exámenes 0.92
 
-e) Corrección de certificados de
+extraordinarios de regulación de educación secundaria:
 
-educación secundaria: 0.92
+h) Revalidación de estudios: 0.62
 
-f) Expedición de informe de
+i) Examen extraordinario por asignatura: 0.90
 
-calificaciones de estudios
+j) Por la resolución que recaiga respecto de la solicitud de 16.00
 
-parciales de educación secundaria: 0.92
+autorización para impartir educación secundaria:
 
-g) Legalización de diplomas de actividades
+k) Visitas de verificación, inspección y vigilancia a los 0.50
 
-tecnológicas de educación secundaria: 0.92
+particulares que soliciten o le hayan sido otorgada
 
-h) Legalización de duplicados
+autorización para impartir educación secundaria, por
 
-de constancias de exámenes
+alumno:
 
-extraordinarios de regulación
+l) Consulta de archivos de educación secundaria: 2.25
 
-de educación secundaria: 0.92
+m) Revocación o cancelación de la autorización, a petición 16.50
 
-i) Revalidación de estudios: 0.62
+del particular:
 
-j) Exámen extraordinario por materia: 0.33
+ñ (sic)) Inscripción y registro en el Sistema Estatal de Información 0.90
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+Educativa:
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+o) Por el estudio y trámite de la solicitud de autorización 16.50
 
-k) Autorización del funcionamiento de
+para impartir educación secundaria:
 
-escuelas particulares: 15.40
+p) Informe de calificaciones parciales: 0.90
 
-l) Visitas de inspección y vigilancia
+q) Constancia de historial académico: 0.90
 
-a instituciones con reconocimiento de
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-validez oficial de nivel secundaria,
+IV Educación inicial:
 
-por alumno: 0.51
+a) Autorización para impartir educación inicial, en cualquiera 19.50
 
-m) Consulta de archivos de
+de sus modalidades y tipos:
 
-educación secundaria: 2.25
+b) Por el estudio y trámite de la solicitud de autorización 16.50
 
-IV Educación Media Superior:
+para impartir educación inicial:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+c) Por la resolución que recaiga respecto de la solicitud de 3.00
 
-> <small>(REFORMADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+autorización para impartir educación inicial:
 
-a) Actualización de los acuerdos de
+d) Actualización y modificación de los acuerdos de 16.50
 
-reconocimiento de validez oficial por
+autorización:
 
-cambio de domicilio, titular, plan y
+e) Renovación de la autorización otorgada para prestar los 16.50
 
-programas de estudios, actualización
+servicios de educación inicial:
 
-de los mismos o nombre de la
+f) Visitas de verificación, inspección y vigilancia a los 0.90
 
-institución: 19.71
+prestadores del servicio que cuenten con autorización
 
-b) Reconocimiento de estudios con
+para impartir educación inicial, por niño o niña:
 
-validez oficial del nivel media superior: 19.71
+g) Revocación o terminación voluntaria de la autorización 16.50
 
-c) Autorización de exámenes ordinarios
+otorgada al prestador del servicio educativo:
 
-de preparatoria abierta: 0.86
+h) Expedición de constancias de liberación de 3.00
 
-d) Consulta de archivo escolar
+responsabilidades relacionadas con el trámite de
 
-de educación media superior: 2.66
+documentación escolar:
 
-e) Equivalencia de estudios: 6.16
+i) Inscripción en el Registro Estatal de los Centros de 0.90
 
-f) Visitas de inspección y vigilancia
+Atención Infantil y/o en el Sistema Estatal de Información
 
-a instituciones con reconocimiento de
+Educativa:
 
-validez oficial de nivel medio superior,
+j) Análisis de factibilidad por cada tipo o modalidad de que 16.50
 
-por alumno: 0.48
+se trate:
 
-g) Autorización de exámenes
+k) Impartición de curso especializado en servicios de 10.90
 
-extemporáneos de preparatoria abierta: 0.78
+atención, cuidado y desarrollo integral infantil:
 
-h) Duplicado de certificado de terminación
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-de estudios de preparatoria abierta: 0.58
+V Educación Normal Superior:
 
-i) Duplicado de credencial del
+a) Autorización para impartir estudios con validez oficial del 19.72
 
-subsistema de preparatoria abierta: 0.51
+nivel superior:
 
-j) Expedición de certificación de estudios
+b) Reconocimiento de validez oficial de estudios de 152.90
 
-(Duplicado de Certificado de Terminación
+educación superior:
 
-de Estudios o Certificado Parcial) de
+c) Consulta de archivo escolar de educación superior: 2.95
 
-educación media superior (Bachillerato) a
+d) Equivalencia de estudios de nivel superior: 17.85
 
-egresados de Instituciones liquidadas
+e) Cambios a planes y programas de estudios de 66.00
 
-y/o clausuradas con Reconocimiento de
+educación superior con reconocimiento de validez
 
-Validez Oficial de Estudios otorgado
+oficial de estudios:
 
-por el Gobierno del Estado de Oaxaca: 3.29
+f) Actualización de los acuerdos de reconocimiento de 66.00
 
-k) Expedición de Constancia de
+validez oficial de estudios de nivel superior por cambio de
 
-Antecedentes Escolares de estudios
+titular, domicilio, nombre de la institución, así como la
 
-de Educación Media Superior (Bachillerato)
+actualización del plan y programas de estudios:
 
-cursados en Instituciones liquidadas
+g) Visitas de inspección y vigilancia a instituciones con 1.10
 
-y/o clausuradas con Autorización o
+reconocimiento de validez oficial de nivel superior, por
 
-Reconocimiento de Validez Oficial de
+alumno:
 
-Estudios otorgado por el Gobierno
+h) Expedición de Certificación de Acta de Examen 5. 77
 
-del Estado de Oaxaca: 2.47
+Profesional de Licenciatura a egresados de Instituciones
 
-l) Revalidación de estudios: 6.16
+liquidadas y/o clausuradas con Autorización o
 
-m) Exámen extraordinario por materia: 0.43
+Reconocimiento de Validez Oficial de Estudios otorgado
 
-n) Exámen a título de suficiencia 0.48
+por el Gobierno del Estado de Oaxaca:
 
-ñ) Expedición y/o autentificación de
+i) Expedición de Certificación de Acta de Examen 6.00
 
-certificados de terminación de estudios
+Profesional de Normal Primaria a egresados de
 
-de educación media superior: 2.57
+Instituciones liquidadas y/o clausuradas con Autorización
 
-o) Exámen profesional: 1.65
+otorgado por el Gobierno del Estado de Oaxaca:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+j) Expedición de Certificación de Estudios (Duplicado de 4.94
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+Certificado de Terminación de Estudios o Certificado
 
-p) Autorización del funcionamiento de
+Parcial) de Educación Superior (Licenciatura) a
 
-escuelas particulares: 16.50
+egresados de Instituciones liquidadas y/o clausuradas
 
-V Educación Superior:
+con Autorización o Reconocimiento de Validez Oficial de
 
-a) Autorización para impartir estudios
+Estudios otorgado por el Gobierno del Estado de Oaxaca:
 
-con validez oficial del nivel superior: 19.72
+k) Expedición de Certificación de Estudios (Duplicado de 4.00
 
-b) Reconocimiento de validez oficial
+Certificado de Terminación de Estudios o Certificado
 
-de estudios de educación superior: 152.90
+Parcial) de Normal Primaria a egresados de Instituciones
 
-c) Consulta de archivo escolar
+liquidadas y/o clausuradas con Autorización otorgado por
 
-de educación superior: 2.95
+el Gobierno del Estado de Oaxaca:
 
-d) Equivalencia de estudios
+l) Expedición de Certificación de Estudios (Duplicados de 4.94
 
-de nivel superior: 17.85
+Certificado de Terminación de Estudios o Certificado
 
-e) Cambios a planes y programas de estudios
+Parcial de Educación Superior) (Posgrado) a egresados
 
-de educación superior con reconocimiento
+de Instituciones liquidadas y/o clausuradas con
 
-de validez oficial de estudios: 66.00
+Autorización o Reconocimiento de Validez Oficial de
 
-f) Actualización de los acuerdos de
+Estudios otorgado por el Gobierno del Estado de Oaxaca:
 
-reconocimiento de validez oficial de estudios
+ll) Expedición de Certificación de Título Profesional de 5.77
 
-de nivel superior por cambio de
+Licenciatura a egresados de Instituciones liquidadas y/o
 
-titular, domicilio, nombre de la institución,
+clausuradas con Autorización o Reconocimiento de
 
-así como la actualización del plan
+Validez Oficial de Estudios otorgado por el Gobierno del
 
-y programas de estudios: 66.00
+Estado de Oaxaca:
 
-g) Visitas de inspección y vigilancia
+m) Expedición de Certificación de Título Profesional de 6.00
 
-a instituciones con reconocimiento de
+Normal Primaria a egresados de Instituciones liquidadas
 
-validez oficial de nivel superior,
+y/o clausuradas con Autorización otorgado por el
 
-por alumno: 1.10
+Gobierno del Estado de Oaxaca:
 
-h) Expedición de Certificación de
+n) Expedición de Constancia de Antecedentes Escolares de 2.47
 
-Acta de Examen Profesional de
+estudios de Educación Superior (Licenciatura) cursados
 
-Licenciatura a egresados de Instituciones
+en Instituciones liquidadas y/o clausuradas con
 
-liquidadas y/o clausuradas con
+Autorización o Reconocimiento de Validez Oficial de
 
-Autorización o Reconocimiento de Validez
+Estudios otorgado por el Gobierno del Estado de Oaxaca:
 
-Oficial de Estudios otorgado por el
+ñ) Expedición de Constancia de Antecedentes Escolares de 2.47
 
-Gobierno del Estado de Oaxaca: 5.77
+estudios de Educación Superior (Posgrado) cursados en
 
-i) Expedición de Certificación de Acta
+Instituciones liquidadas y/o clausuradas con Autorización
 
-de Examen Profesional de Normal
+o Reconocimiento de Validez Oficial de Estudios otorgado
 
-Primaria a egresados de Instituciones liquidadas
+por el Gobierno del Estado de Oaxaca:
 
-y/o clausuradas con Autorización o
+o) Otorgamiento de Título Profesional de Licenciatura a 19.52
 
-Reconocimiento de Validez Oficial de
+egresados de Instituciones liquidadas y/o clausuradas
 
-Estudios otorgado por el Gobierno
+con Autorización o Reconocimiento de Validez Oficial de
 
-del Estado de Oaxaca: 5.77
+Estudios otorgado por el Gobierno del Estado de Oaxaca:
 
-j) Expedición de Certificación de Estudios
+p) Otorgamiento de Título Profesional de Normal Primaria a 18.00
 
-(Duplicado de Certificado de Terminación
+egresados de Instituciones liquidadas y/o clausuradas
 
-de Estudios o Certificado Parcial) de
+con Autorización otorgado por el Gobierno del Estado de
 
-Educación Superior (Licenciatura) a
-
-egresados de Instituciones liquidadas
-
-y/o clausuradas con Autorización o
-
-Reconocimiento de Validez Oficial de
-
-Estudios otorgado por el Gobierno
-
-del Estado de Oaxaca: 4.94
-
-k) Expedición de Certificación de Estudios
-
-(Duplicado de Certificado de Terminación
-
-de Estudios o Certificado Parcial) de Normal
-
-Primaria a egresados de Instituciones
-
-liquidadas y/o clausuradas con Autorización
-
-o Reconocimiento de Validez Oficial de
-
-Estudios otorgado por el Gobierno
-
-del Estado de Oaxaca: 3.29
-
-l) Expedición de Certificación de Estudios
-
-(Duplicados de Certificado de Terminación
-
-de Estudios o Certificado Parcial de
-
-Educación Superior) (Posgrado) a egresados
-
-de Instituciones liquidadas y/o clausuradas
-
-con Autorización o Reconocimiento
-
-de Validez Oficial de Estudios otorgado
-
-por el Gobierno del Estado de Oaxaca: 4.94
-
-ll) Expedición de Certificación de Título
-
-Profesional de Licenciatura a egresados
-
-de Instituciones liquidadas y/o
-
-clausuradas con Autorización o
-
-Reconocimiento de Validez Oficial de
-
-Estudios otorgado por el Gobierno del
-
-Estado de Oaxaca: 5.77
-
-m) Expedición de Certificación de Título
-
-Profesional de Normal Primaria a
-
-egresados de Instituciones liquidadas
-
-y/o clausuradas con Autorización
-
-o Reconocimiento de Validez Oficial
-
-de Estudios otorgado por el Gobierno del
-
-Estado de Oaxaca: 5.77
-
-n) Expedición de Constancia de
-
-Antecedentes Escolares de estudios
-
-de Educación Superior (Licenciatura)
-
-cursados en Instituciones liquidadas
-
-y/o clausuradas con Autorización o
-
-Reconocimiento de Validez Oficial
-
-de Estudios otorgado por el Gobierno
-
-del Estado de Oaxaca: 2.47
-
-ñ) Expedición de Constancia de
-
-Antecedentes Escolares de estudios
-
-de Educación Superior (Posgrado)
-
-cursados en Instituciones liquidadas
-
-y/o clausuradas con Autorización o
-
-Reconocimiento de Validez Oficial de
-
-Estudios otorgado por el Gobierno
-
-del Estado de Oaxaca: 2.47
-
-o) Otorgamiento de Título Profesional
-
-de Licenciatura a egresados de
-
-Instituciones liquidadas y/o
-
-clausuradas con Autorización o
-
-Reconocimiento de Validez Oficial de
-
-Estudios otorgado por el Gobierno
-
-del Estado de Oaxaca: 19.52
-
-p) Otorgamiento de Título Profesional
-
-de Normal Primaria a egresados de
-
-Instituciones liquidadas y/o clausuradas
-
-Con Autorización o Reconocimiento
-
-de Validez Oficial de Estudios otorgado
-
-por el Gobierno del Estado de Oaxaca: 17.04
+Oaxaca:
 
 q) Revalidación de estudios: 27.50
 
-r) Exámen extraordinario por materia
+r) Examen extraordinario por materia de educación 1.37
 
-de educación superior: 1.37
+superior:
 
-s) Exámen a título de suficiencia por
+s) Examen a título de suficiencia por materia de educación 2.00
 
-materia de educación superior: 2.00
+superior:
 
-t) Exámen profesional o de grado: 3.30
+t) Examen profesional o de grado: 3.30
 
-u) Autorización temporal para
+u) Actualización de los acuerdos de reconocimiento de 19.72
 
-ejercer como pasante: 5.50
+validez oficial por cambio de domicilio, titular, plan y
 
-v) Constancia de registro de título
+programas de estudios, actualización de los mismos o
 
-profesional y no sanción: 2.47
+nombre de la institución:
 
-w) Registro de título y expedición
+v) Autorización del funcionamiento de escuelas particulares: 16.50
 
-de cédula profesional: 13.75
+w) Expedición y autenticación de título profesional, diploma 3.30
 
-x) Devolución de documentos originales
+de especialidad o grado académico a egresados de
 
-por registro de título profesional: 0.14
+instituciones liquidadas y/o clausuradas:
 
-y) Duplicado de cédula profesional: 4.92
+x) Expedición y autenticación de certificado de terminación 2.47
 
-z) Otorgamiento de grado académico
+de estudios y certificación de estudios:
 
-de los estudios de Especialidad, Maestría
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-o Doctorado, a egresados de Instituciones
+VI Otros Trámites y Servicios:
 
-liquidadas y/o clausuradas con
+a) Registro de Asociaciones Civiles como Asociación de 149.50
 
-Autorización o Reconocimiento de
+Profesionistas o Colegio de Profesionistas en el Estado
 
-Validez Oficial de Estudios otorgado
+de Oaxaca:
 
-por el Gobierno del Estado de Oaxaca: 19.52
+b) Registro de Derechos de Autor: 3.12
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
-
-aa) Actualización de los acuerdos de
-
-reconocimiento de validez oficial por
-
-cambio de domicilio, titular, plan y
-
-programas de estudios, actualización
-
-de los mismos o nombre de la institución: 19.72
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
-
-bb) Autorización del funcionamiento
-
-de escuelas particulares: 16.50
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
-
-cc) Expedición y autenticación de título
-
-profesional, diploma de especialidad o
-
-grado académico a egresados de instituciones
-
-liquidadas y/o clausuradas: 3.30
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
-
-dd) Expedición y autenticación de certificado
-
-de terminación de estudios y certificación
-
-de estudios: 2.47
-
-VI Educación para Adultos:
-
-a) Centros de Enseñanza Ocupacional: 2.65
-
-> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-VII Capacitación para el Trabajo
-
-a) Reconocimiento de validez
-
-oficial de estudios del nivel de
-
-capacitación para el trabajo: 19.72
-
-b) Expedición de certificado
-
-de terminación de estudios: 0.92
-
-c) Registro de diploma de capacitación
-
-para el trabajo: 0.51
-
-d) Visitas de inspección y vigilancia
-
-a instituciones con reconocimiento
-
-de validez oficial de capacitación para
-
-el trabajo por alumno: 0.48
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
-
-e) Autorización del funcionamiento de
-
-escuelas particulares de formación para el
-
-trabajo, sea cual fuera la modalidad: 16.50
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
-
-f) Actualización de los acuerdos de
-
-reconocimiento de validez oficial por cambio
-
-de domicilio, titular, plan y programas de
-
-estudios, actualización de los mismos
-
-o nombre de la institución: 19.72
-
-VIII Otros Trámites y Servicios:
-
-a) Legalización de boletas de evaluación
-
-y certificados de terminación de estudios
-
-de alumnos que se van a estudiar
-
-al extranjero: 9.24
-
-b) Registro de Asociaciones Civiles como
-
-Asociación de Profesionistas o Colegio
-
-de Profesionistas en el Estado de Oaxaca: 149.50
-
-c) Registro de Derechos de Autor: 3.12
-
-d) Registro de Diploma de Especialidad:
+c) Registro de Diploma de Especialidad:
 
 1 Para nivel licenciatura: 15.62
 
 2 Para nivel técnico o profesional técnico: 4.71
 
-e) Expedición de diploma de
+d) Compulsa de documentos de educación inicial, 0.90
 
-capacitación para el ejercicio docente: 10.58
+preescolar, primaria y secundaria, capacitación para el
 
-f) Compulsa de documentos de
+trabajo, normal y demás para formación de docentes, por
 
-educación preescolar, primaria, secundaria,
+hoja:
 
-media superior y superior, por hoja: 0.17
+e) Legalización de firmas para educación normal y 9.00
 
-g) Legalización de firmas: 8.25
+formación de docentes:
 
-h) Expedición de autorización para
+f) Enmiendas al registro profesional en relación con el título 13.75
 
-el ejercicio de una especialidad: 13.75
+profesional o grado académico:
 
-i) Expedición de autorización para
+g) Autorización temporal para ejercer como pasante: 6.00
 
-constituir un Colegio de Profesionistas: 13.75
+h) Constancia de registro de título profesional y no 3.00
 
-j) Enmiendas al registro profesional en
+sanción:
 
-relación a los Colegios de Profesionistas: 13.75
+i) Registro de título y expedición de cédula profesional: 14.00
 
-k) Enmiendas al registro profesional
+j) Devolución de documentos originales por registro de 0.90
 
-en relación con el título profesional
+título profesional:
 
-o grado académico: 13.75
+k) Duplicado de cédula profesional: 5.00
 
-> <small>(REFORMADA SU DENOMINACIÓN [N. DE E. REFORMADO], P.O. 27 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-### Capítulo Décimo Cuarto. Por los Servicios que presta el Instituto de Estudios de Bachillerato del Estado de Oaxaca
+### Capítulo Décimo Cuarto. Por los Servicios que presta la Coordinación General de Educación Media Superior y Superior, Ciencia y Tecnología
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Artículo 92 A. Los contribuyentes que reciban servicios en materia educativa a cargo de la Coordinación General de Educación Media Superior y Superior, Ciencia y Tecnología, se causarán y pagarán los derechos de la siguiente forma:
+
+Número de
+
+Salarios
+
+mínimos
+
+I Educación Media Superior:
+
+a) Actualización de los acuerdos de Reconocimiento de 19.50
+
+Validez Oficial de Estudios por cambio de domicilio,
+
+titular plan y programas de estudios, actualización de
+
+los mismos o nombre de la institución:
+
+b) Reconocimiento Validez Oficial de Estudios del nivel 19.50
+
+medio superior:
+
+c) Autorización de exámenes ordinarios de preparatoria 0.90
+
+abierta:
+
+d) Consulta de archivo escolar de educación media 3.00
+
+superior:
+
+e) Equivalencia de estudios: 7.00
+
+f) Visitas de inspección y vigilancia a instituciones con 0.50
+
+Reconocimiento de Validez Oficial de Estudios del
+
+nivel medio superior, por alumno:
+
+g) Autorización de exámenes extemporáneos de 0.90
+
+preparatoria abierta:
+
+h) Duplicado de Certificado de Terminación de Estudios 0.90
+
+de preparatoria abierta:
+
+i) Duplicado de credencial del subsistema de 0.90
+
+preparatoria abierta:
+
+j) Expedición de Certificado de Estudios (Duplicado de
+
+Certificado de Terminación de Estudios o Certificado
+
+Parcial) de educación media superior (bachillerato); a 4.00
+
+egresados de instituciones liquidadas y/o clausuradas
+
+con Reconocimiento de Validez Oficial de Estudios
+
+otorgado por el Gobierno del Estado de Oaxaca:
+
+k) Expedición de Constancia de Antecedentes Escolares 3.00
+
+de Estudios de educación media superior
+
+(Bachillerato) cursados en instituciones liquidadas y/o
+
+clausuradas con Reconocimiento de Validez Oficial de
+
+Estudios otorgado por el Gobierno del Estado de
+
+Oaxaca:
+
+l) Revalidación de estudios: 7.00
+
+m) Examen extraordinario por materia: 0.90
+
+n) Examen a título de suficiencia: 0.90
+
+ñ) Expedición y/o autentificación de Certificados de 3.00
+
+Terminación de Estudios de educación media superior:
+
+o) Examen profesional: 2.00
+
+p) Autorización de funcionamiento de escuelas 16.50
+
+particulares:
+
+II Educación Superior:
+
+a) Autorización para impartir estudios con 19.50
+
+Reconocimiento de Validez Oficial de Estudios del
+
+nivel superior:
+
+b) Reconocimiento de Validez Oficial de Estudios de 153.00
+
+educación superior:
+
+c) Consulta de archivo escolar de educación superior: 3.00
+
+d) Equivalencia de estudios de nivel superior: 18.00
+
+e) Cambios a planes y programas de estudios de 67.00
+
+educación superior con Reconocimiento de Validez
+
+Oficial de Estudios:
+
+f) Actualización de los acuerdos de Reconocimiento de 68.00
+
+Validez Oficial de Estudios de nivel superior, por
+
+cambio de titular, domicilio, nombre de la institución,
+
+así como la actualización del plan y programas de
+
+estudios:
+
+g) Visitas de inspección y vigilancia a instituciones con 2.00
+
+Reconocimiento de Validez Oficial de Estudios de nivel
+
+superior, por alumno:
+
+h) Expedición de Certificación de Acta de Examen 6.00
+
+Profesional de Licenciatura a egresados de
+
+instituciones liquidadas y/o clausuradas con
+
+Reconocimiento de Validez Oficial de Estudios
+
+otorgado por el Gobierno del Estado de Oaxaca:
+
+i) Expedición de Certificación de Estudios (Duplicado de 5.00
+
+Certificado de Terminación de Estudios o Certificado
+
+Parcial) de educación superior (Licenciatura); a
+
+egresados de instituciones liquidadas y/o clausuradas
+
+con Reconocimiento de Validez Oficial de Estudios
+
+otorgado por el Gobierno del Estado de Oaxaca:
+
+j) Expedición de Certificación de Estudios (Duplicados 5.00
+
+de Certificado de Terminación de Estudios o
+
+Certificados Parcial de educación superior)
+
+(Posgrado); a egresados de instituciones liquidadas
+
+y/o clausuradas con Reconocimiento de Validez Oficial
+
+de Estudios otorgado por el Gobierno del Estado de
+
+Oaxaca:
+
+k) Expedición de Certificación de Título Profesional de 6.00
+
+Licenciatura a egresados de instituciones liquidadas
+
+y/o clausuradas con Reconocimiento de Validez Oficial
+
+de Estudios otorgado por el Gobierno del Estado de
+
+Oaxaca:
+
+l) Expedición de Constancia Antecedentes Escolares de 3.00
+
+estudios de educación superior (Licenciatura; cursados
+
+con instituciones liquidadas y/o clausuradas con
+
+Reconocimiento de Validez Oficial de Estudios
+
+otorgado por el Gobierno del Estado de Oaxaca:
+
+m) Expedición de Constancia de Antecedentes Escolares 3.00
+
+de estudios de educación superior (Posgrado)
+
+cursados en instituciones liquidadas y/o clausuradas
+
+con Reconocimiento de Validez Oficial de Estudios
+
+otorgado por el Gobierno del Estado de Oaxaca:
+
+n) Otorgamiento de Título Profesional de Licenciatura; a 19.50
+
+estudios a egresados de instituciones liquidadas y/o
+
+clausuradas con Reconocimiento de Validez Oficial de
+
+Estudios otorgado por el Gobierno del Estado de
+
+Oaxaca:
+
+ñ) Revalidación de estudios: 28.00
+
+o) Examen extraordinario por materia de educación 2.00
+
+superior:
+
+p) Examen a título de suficiencia por la materia de 2.00
+
+educación superior:
+
+q) Examen profesional o de grado: 4.00
+
+r) Autorización temporal para ejercer como pasante: 6.00
+
+s) Constancia de registro de Título Profesional y no 3.00
+
+sanción:
+
+t) Registro de Título y expedición de Cédula Profesional: 14.00
+
+u) Devolución de documentos originales por el registro de 0.90
+
+Título Profesional:
+
+v) Duplicado de Cédula Profesional: 5.00
+
+w) Otorgamiento de grado académico de los estudios de 19.50
+
+Especialidad, Maestría o Doctorado, a egresados de
+
+instituciones Liquidadas y/o clausuradas con
+
+Reconocimiento de Validez Oficial de Estudios
+
+otorgado por el Gobierno del Estado de Oaxaca:
+
+x) Actualización de los acuerdos de Reconocimiento de 19.50
+
+Validez Oficial de Estudios por cambio de domicilio
+
+titular, plan y programas de estudios actualización de
+
+los mismos o nombre de la institución:
+
+y) Autorización del funcionamiento de escuelas 16.50
+
+particulares:
+
+z) Expedición y autenticación de Título Profesional, 4.00
+
+Diploma de Especialidad o grado académico; a
+
+egresados de instituciones liquidadas y/o clausuradas
+
+con Reconocimiento de Validez Oficial de Estudios
+
+otorgado por el Gobierno del Estado de Oaxaca:
+
+aa) Expedición y autenticación de Certificado de 3.00
+
+Terminación de Estudios y Certificación de Estudios:
+
+III Otros Trámites y Servicios:
+
+a) Legalización de boletas de evaluación y Certificados 10.00
+
+de Terminación de Estudios de alumnos que se van a
+
+estudiar al extranjero:
+
+b) Registro de Asociaciones Civiles como Asociación de 150.00
+
+Profesionistas o Colegio de Profesionistas en el
+
+Estados (sic) de Oaxaca:
+
+c) Registro de Derechos de Autor: 4.00
+
+d) Registro de Derechos de Diploma de Especialidad:
+
+1 Para nivel Licenciatura: 16.00
+
+2 Para nivel Técnico o Profesional Técnico: 5.00
+
+e) Compulsa de documentos de educación preescolar 0.90
+
+primaria, secundaria, media superior y superior, por
+
+hoja:
+
+f) Legalización de firmas: 9.00
+
+g) Expedición de autorización para el ejercicio de una 14.00
+
+Especialidad:
+
+h) Expedición de autorización para constituir un Colegio 14.00
+
+de Profesionistas:
+
+i) Enmiendas al registro profesional en relación a los 14.00
+
+Colegios de Profesionistas:
+
+j) Enmiendas al registro profesional en relación con el 14.00
+
+Título Profesional o grado académico:
 
 ### Capítulo Décimo Quinto. Por los Servicios que presta el Instituto Tecnológico de Teposcolula
 
@@ -7997,6 +8147,10 @@ Los beneficios antes señalados no podrán ser acumulables.
 
 > <small>(ADICIONADA SU DENOMINACIÓN [N. DE E. REFORMADO], P.O. 27 DE DICIEMBRE DE 2014)</small>
 
+### Capítulo Décimo Noveno (SIC). Por los servicios que presta el Instituto de Capacitación y Productividad para el Trabajo del Estado de Oaxaca
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 96.
 
 Los contribuyentes que reciban servicios en materia educativa a cargo del Colegio de Estudios Científicos y Tecnológicos del Estado de Oaxaca, se causarán y pagarán los derechos de la siguiente forma:
@@ -8121,21 +8275,49 @@ De 8.6 a 9 50%
 
 De 9.1 a 10 100%
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 15 DE DICIEMBRE DE 2012)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 97.
 
-Los servidores públicos a cargo de la administración y prestación de servicios educativos deberán presentar dentro de los primeros diez días naturales de concluido el trimestre informe de los servicios prestados en el periodo a la Secretaría de Finanzas.
+Las personas físicas, morales y unidades económicas causarán y pagarán derechos por los servicios que presta el Instituto de Capacitación y Productividad para el Trabajo del Estado de Oaxaca, conforme a los conceptos y cuotas siguientes:
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+Número de
+
+Salarios
+
+mínimos
+
+I Por la Evaluación de Competencia Laboral: 15.00
+
+II Por la Expedición de Certificados de:
+
+a) Nivel 1: 3.00
+
+b) Nivel 2: 5.00
+
+c) Nivel 3: 7.00
+
+d) Nivel 4: 12.00
+
+e) Nivel 5: 13.00
+
+III Por Reposición de Certificados: 7.00
+
+IV Por la Acreditación de Centros de Evaluación: 335.00
+
+V Por la Acreditación de Estándares de Competencia: 112.00
+
+VI Por la Renovación de Estándares de Competencia: 112.00
+
+VII Por la impartición de Cursos de Capacitación: 15.00
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Artículo 97 A. Los servidores públicos a cargo de la administración y prestación de servicios educativos deberán presentar dentro de los primeros diez días naturales de concluido el trimestre informe de los servicios prestados en el periodo a la Secretaría de Finanzas.
 
 Así mismo deberán remitir el listado de beneficiarios de los descuentos contenidos en el presente título, identificando el nombre del estudiante, modalidad y monto del beneficio.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-El incumplimiento de los informes a que se refiere el presente artículo se dará a conocer a la Secretaria de la Contraloría y Transparencia Gubernamental para que determine lo conducente.
+El incumplimiento de los informes a que se refiere el presente artículo se dará a conocer a la Secretaría de la Contraloría y Transparencia Gubernamental para que determine lo conducente.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -8147,6 +8329,10 @@ El incumplimiento de los informes a que se refiere el presente artículo se dar�
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, P.O. 15 DE DICIEMBRE DE 2012)</small>
 
+#### Sección Primera. Por los servicios que presta la Comisión Estatal del Agua
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
 ###### Artículo 98.
 
 Las personas físicas, morales o unidades económicas que soliciten la prestación de servicios a cargo de la Comisión Estatal del Agua, causarán y pagarán derechos conforme a los conceptos y cuotas siguientes
@@ -8156,6 +8342,10 @@ Las personas físicas, morales o unidades económicas que soliciten la prestaci�
 Los conceptos y cuotas de servicios relacionados con el suministro de agua potable a cargo de los organismos operadores de agua adscritos a la Comisión Estatal del Agua, deberán ser publicados en el Periódico Oficial del Estado a más tardar el último día hábil de enero de cada ejercicio fiscal.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2013)</small>
+
+#### Sección Segunda. Por los Servicios de Agua Potable y Alcantarillado de Oaxaca
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 ###### Artículo 99.
 
@@ -8231,315 +8421,237 @@ Artículo 99 A. Los ingresos que se obtengan por los servicios a que se refiere 
 
 Los servidores públicos a cargo de la prestación de los servicios a que alude este Título deberán realizar la conciliación con la Secretaría de Finanzas dentro de los primeros diez días hábiles de concluido el mes de calendario sobre los servicios prestados y lo efectivamente recaudado.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 15 DE DICIEMBRE DE 2012)</small>
+## Título Sexto. Por los Servicios que presta el Sistema para el Desarrollo Integral de la Familia de Oaxaca
 
-## Título Sexto. Por los servicios que presta el Instituto de Capacitación y Productividad para el Trabajo del Estado de Oaxaca
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 100.
-
-Las personas físicas, morales y unidades económicas causarán y pagarán derechos por los servicios que presta el Instituto de Capacitación y Productividad para el Trabajo del Estado de Oaxaca, conforme a los conceptos y cuotas siguientes:
-
-Número de Salarios
-
-Mínimos
-
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
-
-I Por la Evaluación de Competencia
-
-Laboral: 15.00
-
-II Por la Expedición de Certificados de:
-
-a) Nivel 1: 3.00
-
-b) Nivel 2: 5.00
-
-c) Nivel 3: 7.00
-
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2014)</small>
-
-d) Nivel 4: 12.00
-
-> <small>(REFORMADO, P.O. 10 DE MAYO DE 2014)</small>
-
-e) Nivel 5: 13.00
-
-III Por Reposición de Certificados: 7.00
-
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
-
-IV Por la Acreditación de Centros
-
-de Evaluación: 335.00
-
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
-
-V Por la Acreditación de Estándares de
-
-Competencia: 112.00
-
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
-
-VI Por la Renovación de Estándares de
-
-Competencia: 112.00
-
-> <small>(REFORMADA, P.O. 10 DE MAYO DE 2014)</small>
-
-VII Por la Impartición de
-
-Cursos de Capacitación: 15.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE TÍTULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 15 DE DICIEMBRE DE 2012)</small>
-
-## Título Séptimo. Por los servicios que presta el Sistema para el Desarrollo Integral de la Familia de Oaxaca
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
-
-###### Artículo 101.
 
 Las personas físicas que soliciten servicios funerarios a cargo del Velatorio Popular Manuel Fernández Fiallo, causarán y pagarán derechos por los conceptos y cuotas siguientes:
 
 Pesos
 
-I Recepción de cadáver en el Aeropuerto y
+I Recepción de cadáver en el Aeropuerto y traslado a la 450.00
 
-traslado a la Ciudad de Oaxaca de Juárez: $350.00
+Ciudad de Oaxaca de Juárez:
 
-II Por el traslado de cadáver de la Ciudad de
+II Por el traslado de cadáver de la Ciudad de Oaxaca de 12.00
 
-Oaxaca de Juárez a cualquier población del
+Juárez a cualquier población del interior del Estado, por
 
-interior del Estado, por cada kilómetro de
+cada kilómetro de distancia:
 
-distancia: $10.50
+III Por el uso de la Capilla ardiente, por 48 horas:
 
-III Por el uso de la Capilla ardiente, por
+b) (sic) Adquiriendo ataúd u otros servicios: 800.00
 
-48 horas: $650.00
+d) Sin comprar ataúd: 1,300.00
 
-IV Por uso de carroza para cortejo en la
+IV Por uso de carroza para cortejo en la Ciudad de 450.00
 
-Ciudad de Oaxaca de Juárez y municipios
-
-conurbados, por día: $350.00
+Oaxaca de Juárez y Municipios conurbados:
 
 V Por la adquisición de ataúdes de madera:
 
-a) Infantil de 0.60 metros: $300.00
+a) Infantil de 0.60 metros: 400.00
 
-b) Infantil de 1.00 metros: $400.00
+b) Infantil de 1.00 metros: 600.00
 
-c) Infantil de 1.20 metros: $500.00
+c) Infantil de 1.20 metros: 700.00
 
-d) Infantil de 1.60 metros: $800.00
+d) Infantil de 1.60 metros: 1,050.00
 
-f (sic)) Adulto modelo económico de
+e) Adulto modelo económico de 1.90 metros: 1,300.00
 
-1.90 metros: $1,000.00
+f) Adulto modelo Alaska de 1.90 metros: 1,700.00
 
-g) Adulto modelo Alaska de 1.90 metros: $1,500.00
+g) Adulto modelo Especial de 1.90 metros: 2,250.00
 
-h) Adulto modelo Especial de
+h) Adulto modelo de cruz de 1.90 metros: 2,450.00
 
-1.90 metros: $2,000.00
+i) Adulto modelo Bóveda de 1.90 metros: 3,200.00
 
-i) Adulto modelo de cruz de 1.90 metros: $2,200.00
+j) Adulto modelo Pino Barnizado de 1.90 metros: 6,500.00
 
-j) Adulto modelo Bóveda de 1.90 metros: $3,000.00
+k) Adulto modelo Cedro Barnizado de 1.90 metros: 10,500.00
 
-k) Adulto modelo Pino Barnizado de 1.90
+VI Por renta de equipo de velación a domicilio por:
 
-metros: $6,500.00
+b) 48 horas: 500.00
 
-l) Adulto modelo Cedro Barnizado
+d) 9 días: 800.00
 
-de 1.90 metros: $9,000.00
+VII Por tramites en Oficialías del Registro Civil en 250.00
 
-VI Por renta del equipo de Velación
+Oaxaca de Juárez:
 
-a domicilio por:
+El titular del Sistema para el Desarrollo Integral de la Familia determinará el otorgamiento de descuentos que van desde el 25% al 80%, a las personas en condiciones de vulnerabilidad que no cuenten con los recursos económicos suficientes, por los conceptos que establece las fracciones, I, IV, V, VI y VII del presente artículo.
 
-a) 48 horas: $350.00
+> <small>(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-b) 9 días: $650.00
+## Título Séptimo.
 
-VII Por embalsamiento de cadáver:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-a) Sencillo $400.00
+###### Artículo 101.
 
-b) Con tesis $800.00
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
-
-###### Artículo 102.
-
-Las personas físicas que soliciten los servicios a cargo de los CADI, causarán y pagarán derechos conforme a los conceptos y cuotas siguientes:
-
-Pesos
+Las personas físicas que soliciten los servicios a cargo de los Centros de Asistencia Infantil Comunitarios por sus siglas CAIC, causarán y pagarán derechos conforme a los conceptos y cuotas siguientes:
 
 I Servicio de medicina general:
 
-a) Consulta: $35.00
+Pesos
 
-b) Aplicación de Inyección, con jeringa
+a) Consulta: 35.00
 
-y aguja proporcionado por el DIF: $10.00
+b) Aplicación de Inyección, con jeringa y 15.00
 
-c) Aplicación de Inyección: $5.00
+aguja proporcionado por el DIF:
 
-d) Toma de presión arterial: $5.00
+c) Aplicación de Inyección: 10.00
 
-e) Curaciones: $20.00
+d) Toma de presión arterial: 10.00
 
-f) Toma de muestras para Papanicolau: $20.00
+e) Curaciones: 30.00
 
-e (sic) ) Expedición de certificado médico: $30.00
+f) Toma de muestras para Papanicolaou: 30.00
 
-II Servicios Odontológicos
+g) Expedición de certificado médico: 30.00
 
-a) Consulta: $35.00
+h) Toma de glucosa: 20.00
 
-b) Amalgama Adulto, por pieza: $50.00
+II Servicios Odontológicos:
 
-c) Amalgama Infantil, por pieza: $50.00
+a) Consulta: 35.00
 
-d) Profilaxis General: $70.00
+b) Amalgama Adulto, por pieza: 70.00
 
-e) Profilaxis Media: $35.00
+c) Amalgama Infantil, por pieza: 70.00
 
-f) Fluór: $50.00
+d) Profilaxis General: 100.00
 
-g) Extracción Adulto, por pieza dental: $50.00
+e) Profilaxis Media: 50.00
 
-h) Extracción Infantil por pieza dental: $40.00
+f) Flúor: 50.00
 
-i) Resina Adulto: $60.00
+g) Extracción Adulto, por pieza dental: 70.00
 
-j) Resina Infantil: $60.00
+h) Extracción Infantil por pieza dental: 60.00
 
-k) Rayos X por pieza dental: $40.00
+i) Resina Adulto: 100.00
 
-l) Curación: $30.00
+j) Resina Infantil: 100.00
 
-III Servicio Psicológico
+k) Rayos X por pieza dental: 60.00
 
-a) Consulta $30.00
+l) Curación: 50.00
 
-IV Servicios del Centro de Atención de
+m) lonómero: 50.00
 
-Desarrollo Integral
+III Servicio Psicológico:
 
-a) Inscripción Maternal anual: $50.00
+a) Consulta: 50.00
 
-b) Inscripción Preescolar anual: $50.00
+b) Terapia de pareja: 50.00
 
-V Servicios Educativos
+c) Constancia: 50.00
 
-a) Inscripción Maternal anual: $500.00
+d) Estudio Psicométrico: 100.00
 
-b) Inscripción Maternal mensual: $50.00
+IV Servicios Educativos:
 
-c) Inscripción Preescolar anual: $500.00
+a) Inscripción Maternal anual: 100.00
 
-d) Inscripción Preescolar mensual: $50.00
+b) Inscripción Preescolar anual: 100.00
 
-VI Impartición de Cursos y Talleres
+c) Cuota mensual Maternal: 100.00
 
-a) Corte y Confección: $80.00
+d) Cuota mensual Preescolar: 100.00
 
-b) Manualidades: $100.00
+V Impartición de Cursos y Talleres:
 
-c) Belleza: $100.00
+a) Corte y Confección: 80.00
 
-d) Guitarra: $120.00
+b) Manualidades: 100.00
 
-e) Tejido: $80.00
+c) Belleza: 100.00
 
-f) Macramé: $80.00
+d) Guitarra: 120.00
 
-g) Terapia de Lenguaje: $60.00
+e) Tejido: 80.00
 
-h) Apoyo a Tareas: $50.00
+f) Terapia de Lenguaje: 200.00
 
-i) Artes Marciales: $150.00
+g) Apoyo a Tareas: 200.00
 
-j) Inglés: $100.00
+h) Artes Marciales: 150.00
 
-k) Baile de Salón: $100.00
+i) Inglés: 100.00
 
-l) Cerámica: $100.00
+j) Baile de Salón: 100.00
 
-m) Aeróbicos: $100.00
+k) Pintura y Dibujo: 100.00
 
-n) Pintura y Dibujo: $100.00
+l) Tahitiano: 175.00
 
-o) Tahitiano: $150.00
+m) Futbol Infantil: 75.00
 
-p) Yoga: $150.00
+n) Cocina: 150.00
 
-q) Futbol Infantil: $70.00
+ñ) Actividades y conocimientos de preescolar: 130.00
 
-r) Cocina: $150.00
+o) Danza Árabe: 100.00
 
-s) Gelatina Artística: $100.00
+p) Música: 100.00
 
-t) Actividades y conocimientos de
+q) Vitral: 40.00
 
-preescolar: $130.00
+r) Pintura Textil: 40.00
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+s) Manualidades y Elaboración de Piñatas: 50.00
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+t) Sastrería: 100.00
 
-###### Artículo 103.
+u) Zumba: 50.00
 
-Por los servicios a cargo de los CENDI, las personas físicas causarán y pagarán derechos anuales conforme a los conceptos y cuotas siguientes:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 102.
+
+Por los servicios a cargo del Centro de Atención y Desarrollo Infantil por sus siglas CADI, las personas físicas causarán y pagarán los siguientes derechos:
 
 Pesos
 
-I Maternal y/o preescolar por alumno,
+I Cuota mensual Maternal y/o Preescolar 500.00
 
-Nivel socioeconómico A: $500.00
+por alumno, Nivel Socioeconómico A:
 
-II Maternal y/o preescolar por alumno,
+II Cuota mensual Maternal y/o Preescolar 360.00
 
-Nivel socioeconómico B: $360.00
+por alumno, Nivel Socioeconómico B:
 
-III Maternal y/o preescolar por alumno,
+III Cuota mensual Maternal y/o Preescolar 180.00
 
-Nivel socioeconómico C: $180.00
+por alumno, Nivel Socioeconómico C:
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+###### Artículo 103.
+
+Por los servicios de desayuno y comida preparada en la cocinas y/o comedores nutricionales comunitarios de lunes a viernes, se pagarán 10.00 pesos mensuales por cada beneficiario.
+
+Las Autoridades Municipales interesadas en el Programa de Participación Comunitaria para el Desarrollo Humano con Asistencia Alimentaria, que otorgarán estos servicios, deberán suscribir contratos administrativos con el Sistema DIF Oaxaca.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 104.
 
-Por los servicios de desayuno y comida preparada en las cocinas y/o comedores nutricionales comunitarios de lunes a viernes, se causarán derechos y se pagarán $10.00 por cada beneficiario.
-
-Las Autoridades Municipales interesadas en el Programa de Participación Comunitaria para el Desarrollo Humano con Asistencia Alimentaria deberán suscribir contratos administrativos con el Sistema DIF.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, P.O. 15 DE DICIEMBRE DE 2012)</small>
+Los ingresos que se recauden por los servicios que presta el DIF, serán destinados a los programas y actividades a cargo del Sistema DIF Oaxaca.
 
 ###### Artículo 105.
 
-Los ingresos que se recauden por los servicios que presta el DIF, serán destinados a los programas y actividades a cargo del Sistema DIF.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
 
 T R A N S I T O R I O S:
 
@@ -8622,3 +8734,9 @@ P.O. 27 DE DICIEMBRE DE 2014.
 PRIMERO. El presente Decreto entrará en vigor a partir del día uno de enero del año dos mil quince, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Se presente la adecuación del salario mínimo desvinculado como unidad de medida para el pago de Derechos y Catastro una vez que el Congreso de la Unión lo apruebe.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1669.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ESTATAL DE DERECHOS".]
+
+ÚNICO. El presente Decreto entrará en vigor el uno de enero de dos mil dieciséis, previa publicación en el Órgano de difusión oficial del Estado.
