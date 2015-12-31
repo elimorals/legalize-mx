@@ -4,7 +4,7 @@ identifier: "BCN-ley-organica-de-la-administracion-publica-del-estado-de-2699"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1986-01-20"
-last_updated: "2015-12-18"
+last_updated: "2015-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2699&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Baja California, el lunes 20 de enero de 1986.
 
@@ -653,9 +653,13 @@ DE LA COMPETENCIA DE LA SECRETARIA DE DESARROLLO SOCIAL.
 
 A la Secretaría de Desarrollo Social le corresponde la atención y trámite de los siguientes asuntos:
 
-I.- Formular, definir, conducir, articular y evaluar las políticas, estrategias y acciones de desarrollo social; que comprende aquellos programas en materia de población, salud, vivienda, servicios públicos, educación, cultura y deporte, que en coordinación con las entidades de gobierno correspondientes, sean diseñados y programados exclusivamente para la atención de grupos marginados o con rezago socioeconómico en el Estado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-II.- Formular, definir, conducir, articular y evaluar el programa sectorial y los programas especiales de desarrollo social para presentarlos al ejecutivo del Estado;
+I.- Formular, definir, conducir y articular las políticas, estrategias y acciones de desarrollo social; que comprende aquellos programas en materia de población, salud, vivienda, servicios públicos, educación, cultura y deporte, que en coordinación con las entidades de gobierno correspondientes, sean diseñados y programados exclusivamente para la atención de grupos marginados o con rezago socioeconómico en el Estado;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+II.- Formular, definir, conducir y articular el programa sectorial y los programas especiales de desarrollo social para presentarlos al ejecutivo del Estado;
 
 III.- Elaborar diagnósticos en coordinación con las dependencias y entidades de la Administración Pública del Estado, Ayuntamientos y Comités Comunitarios, sobre la situación que presentan las comunidades y grupos sociales más desprotegidos; así como de impacto social de los programas implementados, considerando los indicadores de gestión;
 
@@ -665,9 +669,9 @@ V.- Formular en coordinación con la Secretaría de Planeación y Finanzas, los 
 
 VI.- Vigilar y asegurar que en los programas institucionales de las dependencias y entidades de la Administración Pública del Estado, se incorporen los compromisos que surjan del programa Sectorial de Desarrollo Social;
 
-VII.- Dar seguimiento y evaluar los resultados de los programas de desarrollo social;
+VII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2015)
 
-VIII.- Promover la coordinación de programas y acciones de bienestar social y combate a la pobreza que se desarrollan en el Estado, con las dependencias federales y los Ayuntamientos;
+VIII.- (DEROGADA, P.O. 31 DE DICIEMBRE DE 2015)
 
 IX.- Coordinar en el Estado las aciones (sic) que en materia de desarrollo social convengan el Ejecutivo Estatal y el Ejecutivo Federal;
 
@@ -2110,3 +2114,9 @@ P.O. 18 DE DICIEMBRE DE 2015.
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 413 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LA FRACCIÓN XVIII DEL ARTÍCULO 19 DE LA LEY ORGÁNICA DEL A (SIC) ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 326 MEDIANTE EL CUAL SE APRUEBA LA REFORMA A LAS FRACCIONES I Y II Y SE DEROGAN LAS FRACCIONES VII Y VIII DEL ARTÍCULO 26 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA, ASÍ COMO LA CREACIÓN DE LA LEY DE DESARROLLO SOCIAL PARA EL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
