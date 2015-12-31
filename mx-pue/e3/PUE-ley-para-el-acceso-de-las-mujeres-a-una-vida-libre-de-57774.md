@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-el-acceso-de-las-mujeres-a-una-vida-libre-de-57774"
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2014-11-18"
+last_updated: "2015-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57774&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Puebla, el lunes 26 de noviembre de 2007.
 
@@ -111,7 +111,9 @@ XIV.- Sistema Estatal: El Sistema Estatal de Prevención, Atención, Sanción y 
 
 XV.- Sistema Nacional: El Sistema Nacional para Prevenir, Atender, Sancionar y Erradicar la Violencia contra las Mujeres; y
 
-XVI.- Violencia contra las Mujeres: Cualquier acción u omisión que con motivo de su género, les cause daño físico, psicológico, económico, patrimonial, sexual o la muerte, en cualquier ámbito.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XVI.- Violencia contra las Mujeres: Cualquier acción u omisión que con motivo de su género, les cause daño físico, psicológico, económico, patrimonial, sexual, obstétrico o la muerte, en cualquier ámbito.
 
 ###### ARTÍCULO 7.
 
@@ -161,13 +163,21 @@ IV.- Violencia patrimonial.- Es cualquier acto u omisión que afecta la superviv
 
 V.- Violencia sexual.- Es cualquier acto que dañe o lesiona el cuerpo y/o la sexualidad de la mujer, por tanto atenta contra su integridad física, libertad o dignidad; y
 
-VI.- Cualquier otra forma análoga que por acción u omisión, tiendan a lesionar o sean susceptibles de dañar la integridad, libertad o dignidad, de las mujeres.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+VI.- Violencia Obstétrica.- Es toda acción u omisión por parte del personal médico y de salud que dañe, lastime, denigre o cause la muerte a la mujer durante el embarazo, parto y puerperio, así como la negligencia en su atención médica que se exprese en un trato deshumanizado, en un abuso de medicalización y patologización de los procesos naturales, considerando como tales la omisión de la atención oportuna y eficaz de las emergencias obstétricas; practicar el parto por vía de cesárea, sin que cumpla con los criterios médicos acordes a la normatividad oficial en ésta materia; el uso de métodos anticonceptivos o esterilización sin que medie el consentimiento voluntario, expreso e informado de la mujer, así como obstaculizar sin causa médica justificada el apego precoz del niño o niña con su madre, negándole la posibilidad de cargarlo y amamantarlo inmediatamente después de nacer; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+VII.- Cualesquiera otras formas análogas que lesionen o sean susceptibles de dañar la dignidad, integridad o libertad de las mujeres.
 
 #### SECCIÓN PRIMERA. DE LA VIOLENCIA CONTRA LAS MUJERES EN EL ÁMBITO FAMILIAR
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 11.
 
-La violencia contra las mujeres en el ámbito familiar es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera física, verbal, psicológica, patrimonial, económica y sexual a las mujeres, dentro o fuera del domicilio familiar, ejercida por cualquier persona que tengan o hayan tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una situación de hecho.
+La violencia contra las mujeres en el ámbito familiar es el acto abusivo de poder u omisión intencional, dirigido a dominar, someter, controlar, o agredir de manera física, verbal, psicológica, patrimonial, económica, sexual y obstétrica a las mujeres, dentro o fuera del domicilio familiar, ejercida por cualquier persona que tengan o hayan (sic) tenido relación de parentesco por consanguinidad o afinidad, de matrimonio, concubinato o mantengan o hayan mantenido una situación de hecho.
 
 ###### ARTÍCULO 12.
 
@@ -876,6 +886,14 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 18 DE NOVIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LA FRACCIÓN XVI DEL ARTÍCULO 6, LA FRACCIÓN VI DEL ARTÍCULO 10 Y EL ARTÍCULO 11, Y ADICIONA LA FRACCIÓN VII DEL ARTÍCULO 10, TODOS DE LA LEY PARA EL ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
