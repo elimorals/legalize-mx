@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-derechos-del-estado-de-chiapas-98511"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-31"
-last_updated: "2015-05-20"
+last_updated: "2015-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=98511&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY DE DERECHOS DEL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE MAYO DE 2015.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE DERECHOS DEL ESTADO DE CHIAPAS, PUBLICADA EN EL P.O. DE 31 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el martes 31 de diciembre de 2013.
 
@@ -3896,3 +3898,15 @@ Artículo Tercero.- A partir de la entrada en vigor del presente Decreto, las me
 Artículo Cuarto.- La Secretaría de Hacienda y la Secretaría de Seguridad y Protección Ciudadana, en el ámbito de sus respectivas competencias, llevarán a cabo las acciones necesarias para el adecuado cumplimiento del presente Decreto.
 
 Artículo Quinto.- La Secretaría de Hacienda y la Secretaría de Seguridad y Protección Ciudadana, en un término no mayor de noventa días deberán proponer al Ejecutivo del Estado, las adecuaciones a su Reglamento interior.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+> <small>[N. DE E. ARTÍCULOS TRANSITORIOS DEL “DECRETO NO. 058 LEY DE DERECHOS DEL ESTADO DE CHIAPAS”.]</small>
+
+Artículo Primero.- El presente Decreto entrará en vigor el primero de enero de dos mil dieciséis.
+
+Artículo Segundo.- Se abroga la Ley de Derechos del Estado de Chiapas, publicada mediante Decreto número 316, en el Periódico Oficial número 078, de fecha martes treinta y uno de diciembre de dos mil trece, así como las demás disposiciones que de ella se hayan emitido y se opongan al contenido de la presente Ley.
+
+Artículo Tercero.- Los contribuyentes que adquirieron tarjeta de circulación en el ejercicio fiscal 2015, se considerará el efecto valorado como permanente, y no se le expedirá una nueva en los ejercicios fiscales subsecuentes, a excepción de que se cause reposición o alta vehicular.
+
+Artículo Cuarto.- Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente Decreto.
