@@ -4,7 +4,7 @@ identifier: "HID-ley-de-asentamientos-humanos-desarrollo-urbano-y-57069"
 country: "mx"
 rank: "ley"
 publication_date: "2007-09-17"
-last_updated: "2012-08-27"
+last_updated: "2015-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57069&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE AGOSTO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Alcance al Periódico Oficial del Estado de Hidalgo, el lunes 17 de septiembre de 2007.
 
@@ -421,7 +421,7 @@ XXI.- Proporcionar la información de su competencia para la integración del Si
 
 XXII.- Vigilar el cumplimiento de esta Ley, calificar las infracciones y aplicar las sanciones y las medidas de seguridad de su competencia, en los términos de la presente Ley, así como solicitar el apoyo del Estado, en su caso, para tal efecto;
 
-XXIII.- Conocer y resolver los recursos, en el ámbito de su competencia, de conformidad con la Ley Estatal del Procedimiento Administrativo para el Estado de Hidalgo; y (sic)
+XXIII.- Conocer y resolver los recursos, en el ámbito de su competencia, de conformidad con la Ley Estatal del Procedimiento Administrativo para el Estado de Hidalgo; y
 
 XXIV.- Las demás que le otorgue esta Ley y otras disposiciones legales y reglamentarias aplicables.
 
@@ -1307,7 +1307,7 @@ VI.- Interponer las denuncias o querellas, respecto de los hechos delictivos rel
 
 VII.- Gestionar ante los Ayuntamientos de los Municipios del Estado, la dotación por parte de éstos, de los servicios públicos que requieran los asentamientos humanos en proceso de regularización;
 
-VIII.- Dar seguimiento, ejecutar y cumplir con los compromisos y acuerdos tomados entre sus integrantes en el ámbito de sus respectivas competencias; y (sic)
+VIII.- Dar seguimiento, ejecutar y cumplir con los compromisos y acuerdos tomados entre sus integrantes en el ámbito de sus respectivas competencias; y
 
 > <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
@@ -2277,7 +2277,9 @@ VII.- Incurrir en actos u obras referentes a un asentamiento humano que propicie
 
 VIII.- Continuar ejerciendo los derechos derivados de un permiso o autorización al vencerse el término del mismo, sin haber obtenido su renovación o prórroga;
 
-IX.- La contravención a las normas básicas para las vías públicas establecidas en la presente Ley y en el Reglamento respectivo;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+IX.- La contravención a las normas básicas para las vías públicas establecidas en la presente Ley y en el Reglamento respectivo, así como ocasionar daños a dichas vías públicas;
 
 X.- Llevar a cabo los procesos urbanos con violación manifiesta a las disposiciones de esta Ley, sus Reglamentos y a los programas que integran el Sistema;
 
@@ -2319,9 +2321,11 @@ II.- La suspensión, clausura temporal o definitiva, demolición o modificación
 
 III.- La revocación de las licencias, autorizaciones y permisos otorgados, cuando se incurra en el supuesto contemplado en la fracción VI, y en su caso, multa de 1000 a 2000 veces el salario mínimo vigente;
 
-> <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-IV.- Suspensión, clausura temporal o definitiva, demolición o modificación de construcciones e instalaciones y multa de 250 a 2000 veces el salario mínimo vigente, en caso de incurrir en el supuesto que establecen las fracciones VII, VIII y IX;
+IV.- Suspensión, clausura temporal o definitiva, demolición o modificación de construcciones e instalaciones y multa de 250 a 2000 salarios mínimos, en caso de incurrir en el supuesto que establecen las fracciones VII, VIII y IX.
+
+Asimismo, y sin perjuicio de la sanción a que se refiere el primer párrafo de esta fracción, tratándose de daños ocasionados a vías públicas, adicionalmente se sancionará al particular con un importe equivalente al 30% de la cuantificación del daño;
 
 > <small>(REFORMADA, P.O. 27 DE AGOSTO DE 2012)</small>
 
@@ -2498,3 +2502,11 @@ Se derogan todas las disposiciones legales que se opongan al presente Decreto.
 ###### ARTÍCULO TERCERO.
 
 Cuando las atribuciones que el presente Decreto confiere a las dependencias del Poder Ejecutivo del Estado, se encuentren señaladas en las demás leyes locales a otras dependencias y órganos con denominación diversa, se entenderá que corresponden a las dependencias que este ordenamiento prevé, en los términos dispuestos por el mismo.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 508 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ENTIDADES PARAESTATALES PARA EL ESTADO DE HIDALGO, DE LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE HIDALGO; DE LA LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO Y DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el primero de enero del año 2016, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
