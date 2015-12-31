@@ -4,7 +4,7 @@ identifier: "HID-ley-de-coordinacion-fiscal-para-el-estado-de-hidalgo-5443"
 country: "mx"
 rank: "ley"
 publication_date: "1989-12-30"
-last_updated: "2015-04-06"
+last_updated: "2015-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,7 @@ state: "HID"
 
 LEY DE COORDINACIÓN FISCAL PARA EL ESTADO DE HIDALGO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2014, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR EL 1 DE ENERO DE 2015.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 6 DE ABRIL DE 2015 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 309 PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el sábado 30 de diciembre de 1989.
 
@@ -155,13 +151,13 @@ IV.- PARA OBTENER EL GRADO DE MARGINACIÓN DE CADA MUNICIPIO DEL ESTADO, SE CONS
 
 LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN DEBERÁ ACTUALIZAR, ANUALMENTE, LOS CUATRO FACTORES DINÁMICOS ESTABLECIDOS EN EL ARTÍCULO ANTERIOR Y APLICAR LOS AJUSTES CORRESPONDIENTES A CADA MUNICIPIO, EN BASE A LA INFORMACIÓN DISPONIBLE EXPEDIDA POR LAS AUTORIDADES COMPETENTES EN CADA MATERIA.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 8°.
 
-DE CONFORMIDAD CON LO DISPUESTO EN LOS ARTÍCULOS 5° Y 6° DE LA PRESENTE LEY, LAS PARTICIPACIONES FEDERALES QUE CORRESPONDEN A LOS MUNICIPIOS DEL ESTADO, SE DISTRIBUIRÁN DE ACUERDO A LOS SIGUIENTES COEFICIENTES:
+DE CONFORMIDAD CON LO DISPUESTO EN LOS ARTÍCULOS 5° Y 6° DE LA PRESENTE LEY, LAS PARTICIPACIONES FEDERALES QUE CORRESPONDEN A LOS MUNICIPIOS DEL ESTADO, SE DISTRIBUIRÁN DE ACUERDO A LOS SIGUIENTES PORCENTAJES:
 
-> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 22 DE DICIEMBRE DE 2014, PÁGINAS DE LA 37 A LA 39.</small>
+> <small>[N. DE E. VÉASE TABLA EN EL P.O. DE 31 DE DICIEMBRE DE 2015, PÁGINAS DE LA 53 A LA 55.]</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -676,3 +672,11 @@ PRIMERO.- El presente Decreto entrará en vigor el día 01 de enero de 2015, pre
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
 
 TERCERO.- Con el propósito de que los Municipios y los prestadores de servicio cuenten con un plazo perentorio para el cumplimiento de lo dispuesto en el artículo 5° de este Decreto, con relación al Derecho de Alumbrado Público, las disposiciones contenidas en él, entrarán en vigor hasta el 1° de julio del año 2015.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+[N. DE. TRANSITORIOS DEL “DECRETO NÚM. 553.- QUE ADICIONA, MODIFICA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE HACIENDA DEL ESTADO DE HIDALGO Y DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor el primero de enero del año 2016, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
