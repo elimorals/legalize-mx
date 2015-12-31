@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-justicia-administrativa-para-el-estado-de-oaxaca-47648"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2015-01-02"
+last_updated: "2015-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47648&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 31 de diciembre de 2005.
 
@@ -45,11 +45,11 @@ LEY DE JUSTICIA ADMINISTRATIVA PARA EL ESTADO DE OAXACA
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 1.
 
-La presente Ley es de orden público y de interés social, se aplicará en todo el Estado de Oaxaca en los actos administrativos y los procedimientos que desarrollen las Dependencias del Poder Ejecutivo del Gobierno del Estado, Entidades Paraestatales y Órganos Desconcentrados de la Administración Pública Estatal; cuando estas emitan una resolución administrativa de cualquier naturaleza; por los Ayuntamientos de los Municipios del Estado de Oaxaca, por las Dependencias de estos y por sus Entidades Paramunicipales, en los términos establecidos por el artículo 111 segundo párrafo e inciso C de la Constitución Política del Estado. De igual forma regulará la organización y funcionamiento del Tribunal de lo Contencioso Administrativo del Estado de Oaxaca y la impartición de la Justicia Administrativa en el Estado de Oaxaca.
+La presente Ley es de orden público y de interés social, se aplicará en todo el Estado de Oaxaca en los actos administrativos y los procedimientos que desarrollen las Dependencias del Poder Ejecutivo del Gobierno del Estado, Entidades Paraestatales y Órganos Desconcentrados de la Administración Pública Estatal, cuando estas emitan resoluciones administrativas de cualquier naturaleza; por los Ayuntamientos de los Municipios del Estado de Oaxaca, por las Dependencias de estos y por sus Entidades Paramunicipales, en los términos establecidos por el artículo 111 segundo párrafo, fracciones VI y VII de la Constitución Política del Estado. De igual forma regulará la organización y funcionamiento del Tribunal de lo Contencioso Administrativo y de Cuentas del Estado de Oaxaca y la impartición de la Justicia Administrativa en el Estado de Oaxaca.
 
 La presente Ley no será aplicable a las materias de carácter electoral, de justicia agraria y laboral, resoluciones administrativas que tengan relación con la defensa de los derechos humanos, con las actividades desarrolladas por la Universidad Autónoma “Benito Juárez” de Oaxaca; ni por las dictadas por el Ministerio Público en ejercicio de sus funciones constitucionales de investigación de los delitos o de la representación social. NI con los conflictos suscitados entre los integrantes de los Ayuntamientos ni por la elección de las autoridades auxiliares de carácter municipal.
 
@@ -71,9 +71,13 @@ VI. Ayuntamientos.- Los Ayuntamientos de los Municipios del Estado de Oaxaca;
 
 VII. Contraloría.- La Secretaría de la Contraloría del Poder Ejecutivo del Gobierno del Estado de Oaxaca;
 
-VIII. Procuraduría.- La Procuraduría General de Justicia del Gobierno del Estado de Oaxaca;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-IX. Tribunal: Tribunal de lo Contencioso Administrativo del Estado de Oaxaca;
+VIII. Fiscalía.- La Fiscalía General del Estado.
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+IX. Tribunal: Tribunal de lo Contencioso Administrativo y de Cuentas del Poder Judicial del Estado.
 
 X. Autoridad: La que dicta, ordena, ejecuta o trata de cumplir determinaciones de naturaleza administrativa con fundamento en la Ley o instrumento jurídico con el que habitualmente actúa, o en su decreto o instrumento de creación y que da origen al cumplimiento de la presente Ley o a ser parte en el Procedimiento Contencioso Administrativo;
 
@@ -97,7 +101,17 @@ Esta Ley se aplicará supletoriamente a las diversas leyes administrativas, regl
 
 Para que produzcan efectos jurídicos, deberán publicarse en el Periódico Oficial del Gobierno del Estado, todo acto administrativo de carácter general que involucre a la ciudadanía, tales como los decretos, acuerdos, circulares y cualquier otro de la misma naturaleza. Asimismo, los actos administrativos de carácter individual deberán notificarse personalmente a los interesados y publicarse en dicho órgano informativo cuando así lo establezcan las leyes.
 
-Los instructivos, manuales, formatos y cualquier modelo de papelería que sea de interés general que expidan las dependencias, entidades, ayuntamientos, Contraloría, Procuraduría o el Tribunal, deberán publicarse previamente a su aplicación, en el Periódico Oficial del Gobierno del Estado de Oaxaca y estar a la vista en los tableros de avisos de las Dependencias y entidades correspondientes, sin perjuicio de utilizar medios masivos cuando así lo consideren conveniente.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Los instructivos, manuales, formatos y cualquier modelo de papelería que sea de interés general que expidan las dependencias, entidades, Contraloría, la Auditoría Superior y la Fiscalía, deberán publicarse previamente a su aplicación, en el Periódico Oficial del Gobierno del Estado de Oaxaca y estar a la vista en los tableros de avisos de las Dependencias y entidades correspondientes, sin perjuicio de utilizar medios masivos de comunicación cuando así lo consideren conveniente.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Los ayuntamientos realizarán las publicaciones a que se refiere el párrafo anterior en su Gaceta o medio de publicación Oficial si lo tuvieren y si no tuvieren medio oficial lo harán en el Periódico Oficial del Gobierno del Estado de Oaxaca y estar a la vista en los tableros de avisos de las Dependencias y entidades municipales correspondientes, sin perjuicio de utilizar medios masivos de comunicación cuando así lo consideren conveniente.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+El Tribunal deberá realizar las publicaciones a las que se refiere este artículo en el Boletín Judicial, en sus estrados y en la página de transparencia del Poder Judicial.
 
 ## TITULO SEGUNDO. DEL REGIMEN JURIDICO DE LOS ACTOS ADMINISTRATIVOS
 
@@ -357,9 +371,11 @@ Las notificaciones por edictos se realizarán haciendo publicaciones que contend
 
 En las notificaciones por edictos se tendrá como fecha de notificación la de la última publicación en el Periódico Oficial del Gobierno del Estado y en uno de los periódicos diarios de mayor circulación en el territorio estatal, si no son coincidentes las fechas de las publicaciones, se tomará la última efectuada, independientemente del órgano que la publicó.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 27.
 
-Las notificaciones personales surtirán sus efectos el día en que hubieren sido realizadas. Los plazos empezarán a correr a partir del día siguiente a aquél en que haya surtido efectos la notificación.
+Las notificaciones personales surtirán sus efectos el día siguiente al en que hubieran sido realizadas. Los plazos empezarán a correr a partir del día siguiente a aquél en que haya surtido efectos la notificación.
 
 Se tendrá como fecha de notificación por correo certificado la que conste en el acuse de recibo.
 
@@ -773,25 +789,31 @@ Cuando hayan de tenerse en cuenta nuevos hechos o documentos que no obren en el 
 
 No se tomarán en cuenta en la resolución del recurso, hechos, documentos o alegatos del recurrente, cuando habiendo podido aportarlos durante el procedimiento administrativo no lo haya hecho.
 
-# LIBRO SEGUNDO. DE LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE OAXACA
+> <small>N. DE E. EL DECRETO NÚMERO 1367, EXPEDIDO POR LA LXII LEGISLATURA, PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2015, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE LIBRO.</small>
 
-## TITULO PRIMERO. DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+# LIBRO SEGUNDO. DE LA ORGANIZACION Y FUNCIONAMIENTO DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO Y DE CUENTAS DEL ESTADO DE OAXACA
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+## TITULO PRIMERO. DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO Y DE CUENTAS
 
 ### CAPITULO UNICO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 80.
 
-La organización y funcionamiento del Tribunal de lo Contencioso Administrativo del Estado de Oaxaca se regulará por las disposiciones contenidas en este Libro, en la Ley Orgánica del Poder Judicial y el reglamento del Tribunal.
+La organización y funcionamiento del Tribunal de lo Contencioso Administrativo y de Cuentas del Estado de Oaxaca se regulará por las disposiciones contenidas en este Libro, en la Ley Orgánica del Poder Judicial y el Reglamento Interno del Tribunal.
 
-(REFORMADO, P.O. 4 DE JULIO DE 2012) (F. DE E., P.O. 18 DE JULIO DE 2012)
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 81.
 
-La jurisdicción administrativa la ejercerá el Tribunal de lo Contencioso Administrativo, Tribunal Especializado del Poder Judicial; órgano permanente, autónomo en su funcionamiento e independiente en sus decisiones, que ejerce el control de legalidad. Dotado de plena jurisdicción para dictar sus resoluciones e imperio para hacerlas cumplir; con facultad para interpretar la Ley de justicia administrativa a través de sus resoluciones. La estructura del Tribunal será determinada por esta ley. La administración, disciplina y vigilancia del Tribunal corresponderá al Consejo de la Judicatura.
+La jurisdicción administrativa la ejercerá el Tribunal de lo Contencioso Administrativo y de Cuentas, Tribunal Especializado del Poder Judicial; órgano permanente, autónomo en su funcionamiento e independiente en sus decisiones, que ejerce el control de legalidad. Dotado de plena jurisdicción para dictar sus resoluciones e imperio para hacerlas cumplir; con facultad para interpretar la Ley de justicia administrativa a través de sus resoluciones. La estructura del Tribunal está determinada en la Ley Orgánica del Poder Judicial y la administración, disciplina y vigilancia del Tribunal corresponderá al Consejo de la Judicatura.
 
-A los juzgados de primera instancia existentes se les otorga jurisdicción en materia administrativa y serán competentes conforme a los lineamientos que emita el Consejo de la Judicatura.
+Las salas unitarias de primera instancia tienen jurisdicción en materia administrativa y serán competentes para conocer y resolver conforme a lo dispuesto por esta Ley y los lineamientos que emita el Consejo de la Judicatura.
 
 ###### ARTICULO 82.
 
@@ -803,93 +825,43 @@ II. Entre los municipios y el Gobierno del Estado, con motivo de los actos deriv
 
 III. Entre dos o más municipios, derivados de los acuerdos o convenios administrativos de colaboración;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-IV.- Entre los particulares y la administración pública municipal, en los casos a que se refiere el inciso C del artículo 111 de la Constitución Local.
+IV. Entre los particulares y la administración pública municipal, en los casos a que se refieren las fracciones VI y VII del artículo 111 de la Constitución Local.
 
 Cuando de acuerdo a las leyes de la materia, los municipios cuenten con organismos locales que diriman las controversias particulares y la administración pública municipal, el Tribunal tendrá competencia como instancia revisora de los anteriores.
 
 V. Entre particulares y otros organismos públicos, cuando las leyes de la materia le conceden competencia expresa al Tribunal.
 
-## TITULO SEGUNDO. DE LA ORGANIZACION Y COMPETENCIA DEL TRIBUNAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-### CAPITULO PRIMERO. DE LA INTEGRACION DEL TRIBUNAL
+## TITULO SEGUNDO. DE LA ORGANIZACION Y FUNCIONAMIENTO DEL TRIBUNAL
 
-> <small>N. DE E. DE LAS REFORMAS APROBADAS POR EL ARTÍCULO ÚNICO DEL DECRETO NÚMERO 1297, PUBLICADO EN EL P.O. 4 DE JULIO DE 2012, SE MODIFICO DE FORMA SUSTANCIAL LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
+### CAPITULO PRIMERO. DE LA ORGANIZACION DEL TRIBUNAL
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 83.
 
-El Tribunal se integrará por:
+La estructura del Tribunal se determina en la Ley Orgánica del Poder Judicial del Estado de Oaxaca.
 
-I. Órganos:
-
-a) El Pleno;
-
-b) La Presidencia;
-
-c) La Sala Superior; y
-
-d) Los juzgados de lo contencioso administrativo de primera instancia.
-
-II. Los servidores públicos adscritos a los órganos son:
-
-a) Magistrados;
-
-b) Secretario General de Acuerdos;
-
-c) Jueces de primera instancia de lo Contencioso Administrativo;
-
-c) (sic) Secretarios de Estudio y Cuenta;
-
-d) Secretarios Judiciales;
-
-e) Actuarios;
-
-f) Unidad de Gestión administrativa;
-
-g) Coordinador de Asesores del Consejo de la Judicatura;
-
-h) Unidad de Capacitación;
-
-i) Los servidores públicos y auxiliares técnicos necesarios.
-
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 84.
 
-En la capital del Estado, funcionarán hasta dos juzgados de primera instancia. El acuerdo de creación se publicará en el Periódico Oficial del Gobierno del Estado, donde deberá precisarse la competencia territorial del juzgado de nueva creación, con las características de jurisdicción y competencias previstas en esta ley.
+El número de Salas unitarias de primera instancia del Tribunal se determinará de acuerdo a las necesidades del trabajo, cuando lo considere necesario el Consejo de la Judicatura; el acuerdo de creación se publicará en el Periódico Oficial del Estado, en donde deberá precisarse la competencia territorial de la Sala de nueva creación, la que tendrá todas las características de autoridad, soberanía, jurisdicción y competencia contempladas en esta Ley.
 
-En el resto del Estado se actuara conforme a lo dispuesto en el segundo párrafo del artículo 81 de esta Ley.
-
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 85.
 
-Los juzgados de primera instancia se integrarán por:
+Las salas unitarias de primera instancia del Tribunal tendrán la estructura establecida en la Ley Orgánica del Poder Judicial y en el Reglamento Interno.
 
-I. Un Juez;
-
-II. Secretarios judiciales;
-
-III. Actuarios, Oficiales Administrativos, y demás personal técnico y administrativo que el Consejo de la Judicatura autorice al respecto.
-
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 86.
-
-La Sala Superior del Tribunal se integrará por:
-
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
-
-l. Los magistrados y será presidida por el Presidente del Tribunal;
-
-II. Secretarios de Estudio y cuenta;
-
-III. Actuarios;
-
-IV. Empleados y demás Funcionarios técnicos.
 
 En la tramitación y resolución de los recursos de revisión, el Presidente de la Sala Superior actuará con el Secretario General de Acuerdos del Tribunal.
 
@@ -899,95 +871,41 @@ En la tramitación y resolución de los recursos de revisión, el Presidente de 
 
 Los Magistrados del Tribunal se regirán en cuanto a sus emolumentos, prestaciones y jubilación por lo establecido en la Ley Orgánica del Poder Judicial del Estado.
 
-### CAPITULO SEGUNDO. DEL PLENO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+### CAPITULO SEGUNDO. DE LA SALA SUPERIOR
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 88.
 
-Las sesiones ordinarias del pleno se celebrarán en los días, horas y términos que señale el Reglamento Interno del Tribunal, las sesiones extraordinarias se celebrarán cuando lo considere necesario el Presidente o lo pida la mayoría de los Magistrados.
+Las sesiones ordinarias de la Sala Superior se celebrarán en los días, horas y términos que señale el Reglamento Interno del Tribunal; las sesiones extraordinarias se celebrarán cuando lo considere necesario el Presidente, o lo pida la mayoría de los magistrados.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 89.
 
-El Pleno del Tribunal se integrará por la totalidad de magistrados. Para que sesionen se requiere de la instalación del quórum legal que será la mitad mas uno. El Presidente tendrá el voto de calidad en caso de empate, salvo cuando se trate de elegir al Presidente del Tribunal, para lo cual se estará a lo dispuesto por la fracción V del artículo 111 de la Constitución Local.
-
-Las decisiones del Pleno se tomarán por unanimidad o mayoría de votos. En caso de decisión por mayoría, se asentará el voto en contra, particular y razonado
-
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+Para que la Sala Superior sesione, se requiere de la instalación del quórum legal. Sesionará en número impar de magistrados. El Presidente tendrá voto de calidad en caso de empate.
 
 ###### ARTICULO 90.
 
-Son atribuciones del Pleno del Tribunal:
-
-I. Elegir de entre sus Magistrados, al Presidente del Tribunal, quien también presidirá el Pleno y la Sala Superior;
-
-II. (DEROGADA, P.O. 4 DE JULIO DE 2012)
-
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
-
-III. Nombrar al secretario general de acuerdos común al Pleno y a la Sala Superior, a propuesta del Presidente;
-
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
-
-IV. Aprobar y reformar el Reglamento Interior del Tribunal;
-
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
-
-V. Proponer el anteproyecto del presupuesto de egresos del Tribunal al Consejo de la Judicatura para su inclusión en el proyecto del presupuesto de egresos del Poder Judicial;
-
-VI. (DEROGADA, P.O. 4 DE JULIO DE 2012)
-
-VII. (DEROGADA, P.O. 4 DE JULIO DE 2012)
-
-VIII. (DEROGADA, P.O. 4 DE JULIO DE 2012)
-
-IX. Las demás que le fije esta Ley.
-
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE OCTUBRE DE 2009)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### ARTICULO 91.
 
-Son atribuciones y obligaciones de la Presidencia del Tribunal:
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-I. Representar al Tribunal ante toda clase de autoridades;
+### CAPITULO TERCERO. DE LAS SALAS DEL TRIBUNAL
 
-II. Despachar la correspondencia del Tribunal y de la Sala Superior;
-
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
-
-III. Rendir los informes previos y justificados en los juicios de amparo interpuestos en contra del Pleno y Sala Superior del Tribunal; en sus ausencias que no excedan de 15 días, lo hará el magistrado que designa el Presidente del Tribunal;
-
-IV. Presidir, dirigir los debates y conservar el orden de las sesiones del pleno y de la Sala Superior;
-
-V. (DEROGADA, P.O. 4 DE JULIO DE 2012)
-
-VI. (DEROGADA, P.O. 4 DE JULIO DE 2012)
-
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
-
-VII. Formular anualmente el anteproyecto del presupuesto de egresos del Tribunal, someterlo al Pleno para su aprobación y proponerlo al Consejo de la Judicatura para su inclusión en el proyecto de presupuesto del Poder Judicial;
-
-VIII. Rendir al pleno, en la última sesión de cada año, un informe de las actividades realizadas en este periodo;
-
-IX. (DEROGADA, P.O. 4 DE JULIO DE 2012)
-
-X. Las demás que le confiera la ley.
-
-> <small>(ADICIONADO, P.O. 4 DE JULIO DE 2012)</small>
-
-La Presidencia del Tribunal, para el ejercicio de sus atribuciones y el cumplimiento de sus obligaciones, se auxiliará de la Secretaría particular y de la Coordinación de Comunicación Social y Relaciones Públicas.
-
-### CAPITULO TERCERO. DE LA PRESIDENCIA DEL TRIBUNAL
-
-> <small>(REFORMADO Y REUBICADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 92.
 
-La función jurisdiccional se ejerce por la Sala Superior y los Juzgados de lo Contencioso Administrativo en su respectivo ámbito de competencia.
+Las Salas del Tribunal son el medio para que funcione éste, en su ámbito de competencia.
 
-> <small>(REFORMADO Y REUBICADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 93.
 
@@ -995,65 +913,65 @@ La Sala Superior tendrá las siguientes atribuciones:
 
 I. Resolver el recurso de revisión previsto en esta Ley;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
+II. Conocer de las excusas e impedimentos de los Magistrados y solicitar al Consejo de la Judicatura la designación de quien deba sustituirlos;
 
-II. Conocer de las excusas e impedimentos de los magistrados y jueces;
-
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
-
-III. Establecer los criterios obligatorios para los juzgados de primera instancia;
+III. Fijar los criterios del Tribunal, resolviendo las contradicciones entre las Salas unitarias de primera instancia;
 
 IV. Conocer y resolver excitativas que formulen las partes en el juicio;
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
+V. Resolver los conflictos de competencia que se susciten entre las Salas, y
 
-V. Resolver los conflictos de competencia que se susciten entre los juzgados;
+VI. Las demás que fije la Ley Orgánica y esta Ley.
 
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
-
-VI. Imponer los medios de apremio cuando así proceda, conforme a lo dispuesto por el artículo 124 de esta ley.
-
-> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2012)</small>
-
-VII. Conocer y resolver excitativas de justicia en contra de los Juzgados;
-
-> <small>(ADICIONADA, P.O. 4 DE JULIO DE 2012)</small>
-
-VIII. Las demás que fije la Ley y el reglamento interno del Tribunal.
-
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 94.
 
-Las resoluciones de la Sala Superior se emitirán por unanimidad o por mayoría de votos de los Magistrados, quienes no podrán abstenerse de votar. El Magistrado que disienta con el sentido de un fallo, deberá formular por escrito su voto particular, según lo disponga el reglamento interior, debiéndose glosar tal opinión al expediente de actuaciones.
+Las resoluciones de la Sala Superior se emitirán por unanimidad o por mayoría de votos de los Magistrados, quienes no podrán abstenerse de votar. El Magistrado que disienta con el sentido de un fallo, deberá formular por escrito su voto particular o razonado, según lo disponga el reglamento interior, debiéndose glosar tal opinión al expediente de actuaciones.
+
+Si el magistrado disiente con los argumentos y no con el sentido podrá formular su voto concurrente.
 
 Las sesiones de la Sala Superior serán públicas, con excepción de los casos en que el interés público, el orden o la ley exijan que sean privadas.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 95.
 
-(DEROGADO, P.O. 4 DE JULIO DE 2012)
+Son atribuciones de las salas unitarias de primera instancia:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2012)</small>
+I. Instruir y resolver el Procedimiento Contencioso Administrativo;
+
+II. Dictar las resoluciones en los asuntos de su competencia;
+
+III. Despachar su correspondencia;
+
+IV. Elaborar las versiones públicas de las sentencias emitidas y los criterios relevantes en protección a derechos de grupos vulnerados;
+
+V. Imponer las correcciones disciplinarias, así como hacer uso de los medios de apremio que procedan;
+
+VI. Las demás atribuciones de carácter jurisdiccional-administrativo que se deriven de disposiciones contenidas en otras leyes, decretos, reglamentos y acuerdos.
+
+VII. Exhortar a las partes cuando la naturaleza del acto lo permita para que diriman sus controversias, mediante la utilización de vías alternas de solución de conflictos;
+
+VIII. Rendir al Presidente del Tribunal informe mensual de sus labores, así como de las principales resoluciones emitidas y los criterios sustentados.
+
+El trámite de los asuntos corresponderá por turno a las Salas Unitarias de Primera Instancia, en los términos que disponga el Reglamento Interior del Tribunal.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 96.
 
-Los juzgados de primera instancia de lo Contencioso Administrativo son competentes para conocer y resolver de los juicios que se promuevan en contra de:
-
-> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
+Las Salas Unitarias del Tribunal Contencioso Administrativo y de Cuentas son competentes para conocer y resolver de los juicios que se promuevan en contra de:
 
 I. Los actos y resoluciones emanados de las autoridades del Poder Ejecutivo, de los Municipios y de sus organismos descentralizados y desconcentrados, cuando éstos actúen como autoridades, dictándolas, ordenándolas, ejecutándolas o tratando de ejecutarlas y que causen agravios a los particulares, por no ajustarse a los elementos y requisitos de validez previstos por el artículo 7 de ésta ley;
 
-II. Las resoluciones dictadas por las autoridades fiscales, estatales, municipales y de sus órganos descentralizados y desconcentrados, en que se determine la existencia de una obligación fiscal, se fije ésta en cantidad líquida o se den las bases para su liquidación, nieguen la devolución de cantidades que procedan conforme a la ley, o cualquiera otra que cause un agravio de carácter fiscal.
+II. Las resoluciones dictadas por las autoridades fiscales, estatales, municipales y de sus órganos descentralizados y desconcentrados, en que se determine la existencia de una obligación fiscal, se fije ésta en cantidad líquida o se den las bases para su liquidación, nieguen la devolución de cantidades que procedan conforme a la ley o cualquiera otra que cause un agravio de carácter fiscal;
 
 III. Las resoluciones en materia de responsabilidad administrativa;
 
 IV. Las resoluciones que se dicten sobre interpretación y cumplimiento de contratos celebrados con la administración pública;
 
-V. Los actos fiscales o administrativos que impliquen una resolución negativa ficta, configurándose ésta cuando las promociones o peticiones que se formulen ante las autoridades no sean resueltas en los plazos que la ley o reglamento fijen o a falta de dicho plazo en noventa días naturales;
-
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
-
-En el caso de positiva ficta, que emane de otra autoridad distinta a la fiscal, bastará que el actor presente su petición, apegada al artículo 13 de la Constitución Política del Estado Libre y Soberano de Oaxaca, y acredite con el sello de la oficina o por cualquier otro medio, que fue recibida por la demandada, y esta no dio satisfacción al Derecho de Petición, el juzgado declarará la existencia o inexistencia de la positiva ficta.
+V. Los actos fiscales o administrativos que impliquen una resolución negativa ficta, configurándose ésta cuando las promociones o peticiones que se formulen ante las autoridades no sean resueltas en los plazos que la ley o reglamento fijen o a falta de dicho plazo en noventa días naturales; En el caso de positiva ficta, que emane de otra autoridad distinta a la fiscal, bastará que el actor presente su petición, apegada al artículo 13 de la Constitución Política del Estado Libre y Soberano de Oaxaca, y acredite con el sello de la oficina o por cualquier otro medio, que fue recibida por la demandada, y esta no dio satisfacción al Derecho de Petición, el juzgado declarará la existencia o inexistencia de la positiva ficta.
 
 VI. Las resoluciones administrativas y fiscales favorables a los particulares que se promuevan por las autoridades para que puedan ser modificadas o nulificadas;
 
@@ -1065,21 +983,21 @@ a). Que el crédito que le exige se ha extinguido legalmente;
 
 b). Que el monto del crédito es inferior al exigible;
 
-c). Que es poseedor, a título de propietario del bien embargado;
+c). Que es poseedor, a título de propietario del bien embargado
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
-
-d). Que el procedimiento coactivo no se ajuste a la ley. En este caso, la oposición no se podrá hacer valer, sino contra la resolución que apruebe el remate; salvo que se trate de resoluciones cuya ejecución material sea de imposible reparación.
+d). Que el procedimiento coactivo no se ajuste a la ley. En este caso, la oposición no se podrá hacer valer, sino contra la resolución que apruebe el remate; salvo que se trate de resoluciones cuya ejecución material sea (sic) imposible reparación.
 
 IX. Conocerá del recurso de queja, procediendo en los términos de esta Ley;
 
-X. Del resarcimiento de daños y perjuicios que las autoridades administrativas deban pagar a los particulares, cuando aquellas, por la ejecución de obras, o por irresponsabilidad en el incumplimiento de sus obligaciones, le causen a un particular un menoscabo en su patrimonio pecuniario o moral.
+X. Del resarcimiento de daños y perjuicios que las autoridades administrativas deban pagar a los particulares, cuando aquellas, por la ejecución de obras, o por irresponsabilidad en el incumplimiento de sus obligaciones, le causen a un particular un menoscabo en su patrimonio pecuniario o moral;
 
 XI. De la legalidad o nulidad de remates, subastas o similares, embargos y pretensiones de requerimiento dictadas por autoridades diversas a las del Poder Judicial del Estado, y
 
-XII. De los asuntos cuya resolución esté reservada al Tribunal de lo contencioso administrativo conforme a lo dispuesto por ésta u otras leyes.
+XII. De los asuntos cuya resolución esté reservada al Tribunal de lo contencioso administrativo conforme a lo dispuesto por ésta u otras leyes
 
-### CAPITULO CUARTO. DE LAS SALAS DEL TRIBUNAL
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+### CAPITULO CUARTO. DE LOS MAGISTRADOS
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
 
@@ -1103,25 +1021,17 @@ Los magistrados rendirán la protesta de ley ante el Pleno del Tribunal Superior
 
 Los Magistrados durarán en el ejercicio de su cargo ocho años y podrán ser reelectos en los términos de la Constitución Política del Estado, y podrán jubilarse conforme a lo dispuesto en la Ley Orgánica del Poder Judicial del Estado
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
-
 ###### ARTICULO 101.
 
-El magistrado Presidente del Tribunal durará en el cargo dos años, pudiendo ser reelecto por una vez; durante su gestión será además titular de la Sala Superior. La elección se hará en Pleno, en la primera sesión del año correspondiente. Las faltas temporales del Presidente menores de 15 días serán cubiertas por el Magistrado que designe éste, el Pleno designará a quien cubra una ausencia mayor a dicho plazo, pero menor a seis meses.
-
-Cuando la falta sea definitiva, el Pleno elegirá nuevo Presidente
-
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### ARTICULO 102.
 
-Las licencias de los Magistrados, serán concedidas en los términos que establece la ley Orgánica del Poder Judicial del Estado
-
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### ARTICULO 103.
 
-Durante el ejercicio de su cargo, los Magistrados y los demás servidores públicos del Tribunal están impedidos para litigar y asesorar empresas o particulares, salvo en causa propia. Queda exceptuada de esta prohibición la actividad docente de manera honorífica.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
 
 ARTICULO 103 BIS A- (DEROGADO, P.O. 4 DE JULIO DE 2012)
 
@@ -1135,13 +1045,13 @@ ARTICULO 103 BIS E.- (DEROGADO, P.O. 4 DE JULIO DE 2012)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE JULIO DE 2012)</small>
 
-### CAPITULO QUINTO. DE LOS MAGISTRADOS
+### CAPITULO SEXTO (SIC). DEL SECRETARIO GENERAL DE ACUERDOS, JUECES, SECRETARIOS JUDICIALES, ACTUARIOS Y DEMÁS SERVIDORES PÚBLICOS DEL TRIBUNAL
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 104.
 
-El Tribunal contará con un Secretario General de Acuerdos, que actuará con el Pleno y con la Sala Superior, respectivamente; tendrá las siguientes atribuciones:
+El Tribunal contará con un Secretario General de Acuerdos, que actuará con la Sala Superior y con el Presidente, respectivamente; tendrá las siguientes atribuciones:
 
 I. Acordar con el Presidente lo relativo a las sesiones del Tribunal en pleno y auxiliarlo en el cumplimiento de sus atribuciones;
 
@@ -1169,53 +1079,45 @@ XI. Conservar en su poder el sello del Tribunal y utilizarlo en cumplimiento de 
 
 XII. Recibir las demandas, formar el expediente respectivo y realizar el registro correspondiente;
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2015)</small>
+> <small>(ADICIONADA, (N. DE E. REFORMADA], P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-XIII. Dar cuenta diariamente al Presidente del Tribunal bajo su más estricta responsabilidad y dentro de las veinticuatro horas siguientes a su recepción, de todas las demandas, promociones, y escritos que se reciban y turnarlos para su trámite a la Sala o Juzgado que corresponda por turno;
+XIII. Dar cuenta diariamente al Presidente del Tribunal bajo su más estricta responsabilidad y dentro de las veinticuatro horas siguientes a su recepción, de todas las demandas, promociones, y escritos que se reciban y turnarlos para su trámite;
 
 XIV. (DEROGADA, P.O. 4 DE JULIO DE 2012)
 
 XV. Las demás que por ley le correspondan, las que asigne (sic) Reglamento, el Tribunal en pleno o el Presidente del Tribunal.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
-
 ###### ARTICULO 105.
 
-Corresponde a los jueces de primera instancia de lo Contencioso Administrativo:
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
 
-I. Instruir y resolver el Procedimiento Contencioso Administrativo;
-
-II. Exhortar a las partes cuando la naturaleza del acto lo permita para que diriman sus controversias, mediante la utilización de vías alternas de solución de conflictos.
-
-III. Dictar las resoluciones en los asuntos de su competencia;
-
-IV. Despachar su correspondencia;
-
-V. Rendir al Presidente del Tribunal informe mensual de sus labores, así como de las principales resoluciones emitidas y los criterios sustentados;
-
-VI. En el ámbito jurisdiccional imponer las correcciones disciplinarias a si (sic) como hacer uso de los medios de apremio que procedan.
-
-VII. Suplir a los magistrados en sus faltas temporales, con excepción de las sesiones del pleno, en términos de la fracción XXXIV del Articulo 52 de la Ley Orgánica del Poder Judicial del Estado; y
-
-VIII. Las demás que le señale el Pleno, la Ley Orgánica del Poder Judicial, su reglamento interno, los acuerdos generales del Consejo de la Judicatura y demás atribuciones de carácter jurisdiccional que se deriven de disposiciones contenidas en otras leyes, decretos, reglamentos y acuerdos.
-
-El trámite de los asuntos corresponderá por turno a los Juzgados de primera instancia, en los términos que disponga esta Ley y el Reglamento Interno del Tribunal
-
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 106.
 
-Corresponde a los secretarios judiciales de lo contencioso administrativo de Primera Instancia:
+Corresponde a los Secretarios de Acuerdos del Tribunal de lo Contencioso Administrativo y de Cuentas:
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
 
 I. Dar fe y firmar las resoluciones, acuerdos y actuaciones emitidos por los juzgados al que estén adscritos, autorizándolos con su firma;
 
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
+
 II. Llevar los libros de gobierno para registro de documentos que con motivo de las funciones del Juzgado, deban manejarse;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
 
 III. Excepcionalmente efectuar las diligencias que le encomienden los Juzgados, cuando éstas deban practicarse fuera del local de Tribunal;
 
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
+
 IV. Redactar y autorizar las actas de las diligencias, en las que les corresponda dar cuenta;
 
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
+
 V. Expedir certificados de las constancias que obren en los expedientes; y
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
 
 VI. Las demás que les señale el Juez.
 
@@ -1247,9 +1149,11 @@ III. Elaborar diariamente la lista de acuerdos y resoluciones y fijarla en lugar
 
 IV. Las demás que le encomiende el Tribunal en Pleno, el Magistrado de la Sala Superior y el Juez
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 109.
 
-Los Asesores de lo Contencioso Administrativo, desempeñarán, las siguientes funciones:
+Los Asesores del Tribunal Contencioso Administrativo y de Cuentas, desempeñaran, las siguientes funciones:
 
 > <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
 
@@ -1275,23 +1179,37 @@ V. Coordinar la prestación de los Servicios administrativos necesarios para el 
 
 VI. Las demás atribuciones que le asigne el Consejo de la Judicatura y el Reglamento Interior del Tribunal.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 110.
 
-Coordinador de Asesores de lo Contencioso Administrativo:
+Corresponde al Coordinador de Asesores del Tribunal Contencioso Administrativo y de Cuentas:
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
 
 I. Llevar un registro pormenorizado de las consultas, visitas, asesorías y juicios promovidos ante el Tribunal de lo Contencioso Administrativo;
 
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
+
 II. Difundir y promover sus actividades y servicios;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
 
 III. Rendir anualmente ante el Consejo de la Judicatura el informe sobre las actividades realizadas por ésta y por los Asesores de lo Contencioso Administrativo;
 
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
+
 IV. Servir como órgano de consulta de la ciudadanía con relación a dudas y problemas técnico-jurídicos que les sean necesarios;
+
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
 
 V. Proponer, en cualquier tiempo, la conciliación de intereses ante las autoridades o servidores públicos demandados, en los asuntos que presten asesoría, siempre que no fueran de carácter fiscal; y
 
+> <small>(REFORMADA, P.O. 4 DE JULIO DE 2012)</small>
+
 VI. Las demás que le encomiende el Consejo de la Judicatura y las que le señalen otras disposiciones legales.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
 
 Los servicios prestados por esta Dirección serán de manera gratuita a los ciudadanos que lo soliciten.
 
@@ -1317,49 +1235,55 @@ Los estudios tendrán el reconocimiento que se otorga a todos los de esta especi
 
 La difusión de la justicia administrativa y su fomento en la sociedad es una obligación del Estado.
 
-> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 112.
 
-El Secretario General de Acuerdos, los jueces, los secretarios de estudio y cuenta, secretarios judiciales, así como los asesores y actuarios, deberán contar con titulo y cédula profesional de licenciado en derecho. El Director de gestión administrativa, deberá contar con título y cédula profesional de administrador público, administración de empresas, ingeniero industrial o contador público; todos deberán ser mexicanos, tener cuando menos dos años de práctica en materia administrativa o fiscal; y no contar con antecedentes penales en términos de la Ley Orgánica del Poder Judicial del Estado.
-
-Las faltas temporales de los secretarios judiciales serán cubiertas por el secretario judicial de la adscripción, o a falta de éstos, por el actuario del mismo. Las faltas temporales de los actuarios, serán cubiertas por quien designe el Consejo de la Judicatura.
-
-Las faltas temporales del Secretario General de Acuerdos serán cubiertas por el secretario de estudio y cuenta que designe el Consejo de la Judicatura
-
-### CAPITULO SEXTO. DEL SECRETARIO GENERAL DE ACUERDOS, JUECES, SECRETARIOS JUDICIALES, ACTUARIOS Y DEMÁS SERVIDORES PÚBLICOS DEL TRIBUNAL
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
-
-###### ARTICULO 113.
-
-Los periodos vacacionales serán fijados por el Consejo de la Judicatura. Se suspenderán las labores y no correrán los plazos, en los días referidos en el artículo 19, y todos aquellos que acuerde el pleno del Tribunal.
-
-# LIBRO TERCERO. DEL JUICIO ANTE EL TRIBUNAL CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE OAXACA
-
-## TITULO UNICO. DEL JUICIO CONTENCIOSO ADMINISTRATIVO
-
-### CAPITULO SEPTIMO. DE LAS VACACIONES
+El Secretario General de Acuerdos, los secretarios de estudio y cuenta, secretarios de acuerdos, así como los asesores y actuarios, deberán contar con título y cedula profesional de licenciado en derecho. El director de gestión administrativa, deberá contar con título y cedula profesional de administrador público, administración de empresas, ingeniero industrial o contador público; todos deberán ser mexicanos, tener cuando menos dos años de práctica en materia administrativa o fiscal; y no contar con antecedentes penales en términos de la ley orgánica del poder judicial del estado.
 
 > <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
 
+Las faltas temporales de los secretarios judiciales serán cubiertas por el secretario judicial de la adscripción, o a falta de éstos, por el actuario del mismo. Las faltas temporales de los actuarios, serán cubiertas por quien designe el Consejo de la Judicatura.
+
+> <small>(REFORMADO, P.O. 4 DE JULIO DE 2012)</small>
+
+Las faltas temporales del Secretario General de Acuerdos serán cubiertas por el secretario de estudio y cuenta que designe el Consejo de la Judicatura
+
+### CAPITULO SEPTIMO. DE LAS VACACIONES
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 113.
+
+Los periodos vacacionales de los servidores públicos del Tribunal serán aquellos que se establecen en la Ley Orgánica y en los Acuerdos Generales del Consejo de la Judicatura.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+# LIBRO TERCERO. DEL JUICIO ANTE EL TRIBUNAL CONTENCIOSO ADMINISTRATIVO Y DE CUENTAS
+
+## TITULO UNICO. DEL JUICIO CONTENCIOSO ADMINISTRATIVO
+
+### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 114.
 
-El juicio ante el Tribunal de lo Contencioso Administrativo del Estado de Oaxaca, se regirá por las disposiciones contenidas en el presente Libro.
+El juicio ante el Tribunal, se regirá por las disposiciones contenidas en el presente libro.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 115.
 
-El Tribunal de lo Contencioso Administrativo tendrá jurisdicción en todo el territorio Estatal, con la competencia y organización que establece esta Ley y otros ordenamientos aplicables. El Tribunal residirá en la Ciudad de Oaxaca Juárez (sic) o en la zona conurbada, y podrá contar con juzgados de Primera Instancia ubicados en las diversas regiones del Estado y Salas, las que deberán ser autorizadas por el Consejo de la Judicatura, quien delimitará su ámbito de competencia.
+El Tribunal tendrá jurisdicción en todo el territorio Estatal, con la competencia y organización que establece esta Ley y otros ordenamientos aplicables. El Tribunal residirá en el Municipio de Oaxaca (sic) Juárez o en su zona conurbada, y podrá contar con salas unitarias de primera instancia ubicadas en las diversas regiones del Estado, las que deberán ser autorizadas por el Consejo de la Judicatura conforme a las disposiciones de la Ley Orgánica y el Reglamento Interior del Consejo.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 116.
 
-Los juicios que se promuevan ante el Tribunal, se substanciarán y resolverán con arreglo a las disposiciones de esta Ley. A falta de disposición expresa, se aplicarán supletoriamente el Código de Procedimientos Civiles para el Estado de Oaxaca así como el Código Fiscal del Estado o Municipal, en lo que no sean contrarios y resulten aplicables.
+Los juicios de lo Contencioso administrativo y fiscal que se promuevan ante el Tribunal, se substanciarán y resolverán con arreglo a las disposiciones de esta Ley. A falta de disposición expresa, se aplicarán supletoriamente el Código de Procedimientos Civiles para el Estado de Oaxaca así como el Código Fiscal del Estado o Municipal, en lo que no sean contrarios y resulten aplicables.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
-
-En los casos en que se alegue que el acto impugnado afecta los intereses legítimos de dos o más personas, y éstas promuevan juicio, en el escrito de demanda deberán designar un representante común que elegirán de entre ellos mismos, y si no lo hicieren, el Juez designará con tal carácter a cualquiera de los interesados al admitir la demanda.
+En los casos en que se alegue que el acto impugnado afecta los intereses legítimos de dos o más personas, y éstas promuevan juicio conjuntamente, en el escrito de demanda deberán designar un representante común que elegirán de entre ellos mismos, y si no lo hicieren, el Magistrado de la Sala designará con tal carácter a cualquiera de los interesados al admitir la demanda.
 
 ###### ARTICULO 117.
 
@@ -1401,11 +1325,11 @@ En los juicios que se tramiten ante los juzgados de primera instancia del Tribun
 
 Cuando las leyes y reglamentos que rijan el acto impugnado establezcan algún recurso o medio de defensa, será optativo para el particular agotarlo o promover el juicio ante el Tribunal; ejercitada la acción ante éste último, precluye el derecho para ocurrir a otro medio ordinario de defensa.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 123.
 
-El titular de cada juzgado y de la Sala Superior del Tribunal, a efecto de mantener el buen orden y hacer que se guarde el respeto y consideraciones debidas al Tribunal o a cualquiera de sus miembros, en el desempeño de sus funciones oficiales o como consecuencia de su ejercicio, podrán imponer de acuerdo a la gravedad de la falta, indistintamente cualquiera de las siguientes correcciones disciplinarias.
+El titular de cada Sala y el Presidente del Tribunal, a efecto de mantener el buen orden y hacer que se guarde el respeto y consideraciones debidas al Tribunal o a cualquiera de sus miembros, en el desempeño de sus funciones oficiales o como consecuencia de su ejercicio, podrán imponer al infractor de acuerdo a la gravedad de la falta, indistintamente cualquiera de las siguientes correcciones disciplinarias:
 
 I. Amonestación;
 
@@ -1431,9 +1355,11 @@ II. Requerimiento al superior jerárquico de la autoridad obligada al cumplimien
 
 Las multas se harán efectivas por la Secretaría de Finanzas del Gobierno del Estado, para lo cual el Tribunal girará el oficio correspondiente. La Secretaría de Finanzas informará al Tribunal el haber hecho efectiva la multa, señalando los datos que comprueben su cobro.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 126.
 
-Las actuaciones del Tribunal, los escritos de las partes y los dictámenes de los peritos deberán ser redactados en español; los documentos redactados en otro idioma, deberán acompañarse con su correspondiente traducción por el perito oficial nombrado por el Tribunal.
+Las actuaciones del Tribunal, los dictámenes de los peritos deberán ser redactados en español. Los escritos de las partes deberán redactarse preferentemente en español. Aquellos documentos redactados en otro idioma, deberán acompañarse con su correspondiente traducción, en caso de no ser así, la traducción se hará por el perito oficial nombrado por el Tribunal.
 
 No se emplearán abreviaturas, ni rasparán las partes equivocadas, debiendo, en su caso, poner sobre las mismas una línea delgada que permita la lectura y se añadirán entre líneas las que se cambien, salvándose al final con toda precisión el error cometido.
 
@@ -1441,23 +1367,25 @@ No se emplearán abreviaturas, ni rasparán las partes equivocadas, debiendo, en
 
 Las actuaciones se escribirán con letra, las fechas con número y letra, las cantidades y los artículos con número.
 
-> <small>(ADICIONADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-Los Secretarios de Acuerdos autorizarán las actuaciones jurisdiccionales. También cuidarán que los expedientes sean foliados al agregarse cada una de las hojas, las rubricarán y pondrán el sello oficial en el fondo del expediente, de manera que queden selladas las dos fojas.
+El Secretario General y los Secretarios de Acuerdos autorizarán las actuaciones jurisdiccionales. También cuidarán que los expedientes sean foliados al agregarse cada una de las hojas, las rubricarán y pondrán el sello oficial en el fondo del expediente, de manera que queden selladas las dos fojas.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-El Secretario General de Acuerdos, los Jueces, los Secretarios judiciales así como los Actuarios tienen fe pública en todo lo relativo al ejercicio de sus funciones, debiendo conducirse siempre con estricto apego a la verdad.
+El Secretario General de Acuerdos, los Secretarios de Acuerdos de Sala, así como los Actuarios tienen fe pública en todo lo relativo al ejercicio de sus funciones, debiendo conducirse siempre con estricto apego a la verdad.
 
 ###### ARTICULO 127.
 
 El Tribunal esta facultado para desechar de plano las promociones notoriamente improcedentes, o que se interpongan con el fin evidente de dilatar otro procedimiento.
 
-### CAPITULO PRIMERO. DISPOSICIONES GENERALES
+### CAPITULO SEGUNDO. DE LOS IMPEDIMENTOS Y EXCUSAS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 128.
 
-Los Magistrados y los Jueces están impedidos para conocer de los juicios que se tramiten ante el Tribunal de lo Contencioso Administrativo, en los siguientes casos:
+Los Magistrados están impedidos para conocer de los juicios que se tramiten ante el Tribunal Contencioso Administrativo y de Cuentas, en los siguientes casos:
 
 I. Cuando tengan algún interés personal en el asunto;
 
@@ -1475,25 +1403,23 @@ VII. Cuando exista entre el funcionario y alguna de las partes, sus abogados o r
 
 En el juicio contencioso administrativo no procede la recusación.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
-
 ###### ARTICULO 129.
 
-La excusa se presentará ante la Presidencia de la Sala Superior y de ser procedente se remitirá el asunto al Juez que por turno corresponda.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 130.
 
-El Magistrado o Juez que, teniendo impedimento para conocer de determinado asunto no se excuse, o no teniéndolo, se excuse para que se le aparte de su conocimiento, incurrirá en responsabilidad, la que dará lugar, en su caso, al procedimiento administrativo disciplinario en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca.
+El Magistrado que, teniendo impedimento para conocer de determinado asunto no se excuse, o no teniéndolo, se excuse para que se le aparte de su conocimiento, incurrirá en responsabilidad, la que dará lugar, en su caso, al procedimiento administrativo disciplinario en los términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca
 
-### CAPITULO SEGUNDO. DE LOS IMPEDIMENTOS Y EXCUSAS
+### CAPITULO TERCERO. DE LA IMPROCEDENCIA Y SOBRESEIMIENTO
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 131.
 
-Es improcedente el juicio ante el Tribunal de lo Contencioso Administrativo contra actos:
+Es improcedente el juicio ante el Tribunal Contencioso Administrativo y de Cuentas contra actos:
 
 I.- Del propio Tribunal.
 
@@ -1539,7 +1465,7 @@ VII.- Por convenio entre las partes, siempre y cuando éste haya sido celebrado 
 
 Para dictar resolución en los casos de sobreseimiento no será necesario que se hubiese celebrado la audiencia final.
 
-### CAPITULO TERCERO. DE LA IMPROCEDENCIA Y SOBRESEIMIENTO
+### CAPITULO CUARTO. DE LAS PARTES
 
 ###### ARTICULO 133.
 
@@ -1571,25 +1497,41 @@ Sólo podrán demandar o intervenir en el juicio, las personas que tengan un int
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 12 DE OCTUBRE DE 2009)</small>
 
-### CAPITULO CUARTO. DE LAS PARTES
+### CAPITULO QUINTO. DE LOS PLAZOS
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 135.
 
 Son días hábiles para la promoción, substanciación y resolución del juicio contencioso administrativo, todos los días del año, con exclusión de los sábados y domingos, así como los señalados en el calendario oficial del Tribunal.
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Se suspenderán las labores y no correrán los plazos, en los días referidos en el artículo 19 y todos aquellos que acuerde el Tribunal o el Consejo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 136.
 
-El plazo para interponer la demanda ante el Tribunal de lo Contencioso Administrativo será de treinta días hábiles, contados a partir del día siguiente al en que surta efectos, conforme a la ley aplicable al acto, la notificación de la resolución o acto que se combata; o conste fehacientemente que el o los interesados o afectados tienen conocimiento del acto.
+El plazo para interponer la demanda ante el tribunal será de treinta días hábiles, contados a partir del día siguiente al en que surta efectos, conforme a la ley aplicable al acto, la notificación de la resolución o acto que se combata; o conste fehacientemente que el o los interesados o afectados tienen conocimiento del acto.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 Cuando se impugne la negativa ficta o se demande la declarativa de configuración de la positiva ficta, el interesado podrá presentar la demanda en cualquier tiempo, mientras no se dicte la resolución expresa y siempre que hayan transcurrido los plazos a que se refiere el artículo 96 en su fracción V de esta Ley.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 En el juicio que tenga por objeto el resarcimiento de daños y perjuicios a que se refiere el artículo 96, fracción X, de esta Ley, la demanda podrá interponerse dentro de los seis meses siguientes a la fecha en que se originó la causa de responsabilidad.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 En el juicio de lesividad, referido en el artículo 96, fracción VI, las autoridades para ejercitar su acción, gozarán del término de cinco años, siguientes a la fecha en que sea emitida la resolución que pretenden nulificar, salvo que haya producido efectos de tracto sucesivo, caso en el que se podrá demandar la nulidad en cualquier época, sin exceder de los cinco años del último efecto.
 
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+
 Cuando el particular radique en el extranjero y no tenga representante en la República, el plazo para iniciar el juicio será de cuarenta y cinco días.
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 Cuando el particular falleciere dentro de los plazos a que se refiere este artículo, se suspenderá el término, hasta que haya sido designado albacea o representante de la sucesión.
 
@@ -1617,9 +1559,7 @@ II. Los plazos se contarán por días hábiles.
 
 Para los efectos del artículo anterior, cuando alguna de las partes resida fuera del lugar donde se encuentre el Tribunal, se tendrán por presentadas en tiempo las promociones, si aquélla deposita el escrito u oficio relativos dentro del plazo legal, por correo certificado con acuse de recibo, en la oficina de correos que corresponda al lugar de su residencia.
 
-### CAPITULO QUINTO. DE LOS PLAZOS
-
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+### CAPITULO SEXTO. DE LAS NOTIFICACIONES
 
 ###### ARTICULO 140.
 
@@ -1673,9 +1613,9 @@ Las notificaciones se sujetarán a las siguientes formalidades:
 
 I. Las notificaciones personales se harán directamente a quien deba ser notificada, a su representante legal o al autorizado en los términos de este ordenamiento, en el domicilio señalado para tal efecto. Si no se encontrare ninguno de ellos, cerciorado el Actuario que es el domicilio correcto, bajo su responsabilidad dejará citatorio con cualquier persona que se encuentre en el domicilio para que se le espere a una hora fija del día hábil siguiente, si se negara a recibirlo se fijará en la puerta o lugar visible del domicilio. El citatorio deberá contener nombre y domicilio del citado, el del Juzgado o Sala del Tribunal que manda practicar la diligencia, número de expediente, fecha y hora a la que se cita, fecha del citatorio, nombre y firma del Actuario, de todo lo anterior se levantará acta circunstanciada.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-El instructivo deberá contener: La expresión del Juzgado o Sala del Tribunal que mande practicar la diligencia, número de expediente, nombre de las partes, fecha y hora de entrega, nombre y firma de la persona que recibe, así como nombre y firma del Actuario. Al instructivo deberá adjuntarse copia del acuerdo o resolución de que se trate y cuando proceda, copias de traslado debidamente selladas y cotejadas por el Secretario
+El instructivo deberá contener: La denominación de la Sala del Tribunal que mande practicar la diligencia, número de expediente, nombre de las partes, fecha y hora de entrega, nombre y firma de la persona que recibe, así como nombre y firma del Actuario. Así como el acuerdo o resolución de que se trate y cuando proceda, copias de traslado debidamente selladas y cotejadas por el Secretario.
 
 Cuando el domicilio se encontrare cerrado la citación o notificación se entenderá con el vecino más cercano, a quien se entregará copia simple del acuerdo o resolución que se notifica, debiéndose fijar una copia adicional en la puerta o lugar visible del domicilio haciéndose constar lo anterior en acta circunstanciada, la que obrará en autos.
 
@@ -1705,11 +1645,13 @@ Las partes afectadas por una notificación irregular, deberán pedir su nulidad 
 
 Toda notificación irregular u omitida se entenderá legalmente hecha a partir del día en que el interesado se ostente conocedor de su contenido.
 
-### CAPITULO SEXTO. DE LAS NOTIFICACIONES
+### CAPITULO SEPTIMO. DE LA DEMANDA
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 146.
 
-La demanda deberá formularse por escrito y presentarse ante el Tribunal o el Juzgado que tenga jurisdicción territorial en el lugar de residencia del actor, dentro del término a que se refiere el artículo 136 de la presente Ley. Los particulares que residan fuera del lugar de residencia del Juzgado o Tribunal podrán también presentar su demanda por correo certificado con acuse de recibo.
+La demanda deberá formularse por escrito y presentarse ante el Tribunal o la Sala que tenga jurisdicción territorial en el lugar de residencia del actor, dentro del término a que se refiere el artículo 136 de la presente Ley. Los particulares que residan fuera del lugar de residencia del Tribunal podrán también presentar su demanda por correo certificado con acuse de recibo.
 
 ###### ARTICULO 147.
 
@@ -1773,9 +1715,7 @@ II. Si requerido el actor para que subsane las omisiones o imprecisiones de la d
 
 Contra el auto que deseche una demanda, procederá el recurso de revisión en los términos que establezca esta Ley.
 
-### CAPITULO SEPTIMO. DE LA DEMANDA
-
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+### CAPITULO OCTAVO. DE LA CONTESTACION
 
 ###### ARTICULO 153.
 
@@ -1817,13 +1757,13 @@ En la contestación de la demanda no podrá variarse la fundamentación y motiva
 
 En la contestación de la demanda o antes de que se dicte sentencia, la autoridad demandada podrá allanarse a las pretensiones del actor o revocar el acto impugnado, debiendo acreditarlo ante el juzgado.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 157.
 
-Vencido el plazo para contestación y ampliación de la demanda, en su caso, se hayan o no producido éstas, el Juez dictará al siguiente día hábil, un auto en el que se fijen el día y hora en que tendrá lugar la audiencia de ley, la cual deberá celebrarse dentro de los diez días hábiles siguientes a la fecha del auto.
+Vencido el plazo para contestación y ampliación de la demanda, en su caso, se hayan o no producido éstas, el Magistrado dictará al siguiente día hábil, un auto en el que se fijen el día y hora en que tendrá lugar la audiencia de ley, la cual deberá celebrarse dentro de los diez días hábiles siguientes a la fecha del auto.
 
-### CAPITULO OCTAVO. DE LA CONTESTACION
+### CAPITULO NOVENO. DE LAS PRUEBAS Y SU VALORACION
 
 ###### ARTICULO 158.
 
@@ -1875,17 +1815,17 @@ La prueba pericial procede, cuando sean necesarios conocimientos especiales en a
 
 Cuando la parte actora ofrezca como prueba la pericial, la demandada y el tercero, si lo hubiere, en su escrito de contestación deberán nombrar perito de su parte. Si el ofrecimiento proviene de la demandada, los terceros o es ordenada por el Tribunal, se concederá el término de tres días a las contrapartes para los mismos efectos; a no ser que se pusieran de acuerdo en el nombramiento de uno sólo. Las partes deben presentar a sus peritos dentro de los tres días siguientes al en que surta efectos la notificación del acuerdo en que se le tuvo como tal, para que manifieste la aceptación y protesta del cargo, apercibido que si alguna de las partes omite el nombramiento correspondiente o no presenta a su perito, se entenderá que se sujeta al o los que se hayan tenido por designados.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-Los peritos nombrados deberán tener título en la especialidad a la que pertenezca la cuestión en análisis y si esto no fuera posible, podrán ser nombradas personas con conocimiento de la materia, a juicio del Juez. Asimismo, deberán estar inscritos en el Registro de Peritos que lleve el Tribunal.
+Los peritos nombrados deberán tener título en la especialidad a la que pertenezca la cuestión en análisis y si esto no fuera posible, podrán ser nombradas personas con conocimiento de la materia. Asimismo, deberán estar certificados por el Consejo.
 
 Los peritos deberán rendir por escrito sus dictámenes el día de la audiencia de pruebas y alegatos.
 
 En caso de diferencia en los dictámenes rendidos, el Tribunal nombrará un tercero en discordia. Para lo cual se suspenderá la audiencia y se señalará fecha para su continuación con la finalidad de dar el tiempo necesario al perito tercero en discordia para que formule su dictamen.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-El Juez designará al perito tercero en discordia preferentemente de los que conforman el Registro de Peritos, que al efecto se lleve en el Tribunal.
+El Magistrado designará al perito tercero en discordia de entre los peritos certificados por el Consejo.
 
 > <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
@@ -1955,15 +1895,17 @@ I. Harán prueba plena la confesión expresa de las partes y los actos contenido
 
 II. El valor de la pericial y testimonial, así como el de las demás pruebas, quedará a la prudente y razonada apreciación del Juzgador.
 
-### CAPITULO NOVENO. DE LAS PRUEBAS Y SU VALORACION
+### CAPITULO DECIMO. DE LA AUDIENCIA FINAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 174.
 
-La audiencia deberá celebrarse el día y hora señalada para tal efecto, será pública, salvo en los casos que, a juicio del Juez, sea necesario que sea reservada.
+La audiencia deberá celebrarse el día y hora señalada para tal efecto, será pública, salvo en los casos que sea reservada conforme a las disposiciones de la Ley Orgánica.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-Los Juzgados recibirán en la audiencia todas las pruebas, salvo aquéllas que por su naturaleza, deban desahogarse previamente, fuera del local o residencia del Tribunal ya sea por personal comisionado o vía exhorto, en cuyo caso en la audiencia se agregarán las constancias donde conste que aquellas ya fueron desahogadas.
+La sala recibirá en la audiencia todas las pruebas, salvo aquéllas que por su naturaleza, deban desahogarse previamente, fuera del local o residencia del Tribunal ya sea por persona comisionado (sic) o vía exhorto, en cuyo caso en la audiencia se agregarán las constancias donde conste que aquellas ya fueron desahogadas
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
 
@@ -1977,9 +1919,9 @@ En toda diligencia que se levante fuera del local de los Juzgados del Tribunal, 
 
 La documental en vía de informe se rendirá por escrito y contendrá la declaración bajo protesta de decir verdad de la cuestión planteada acompañando, en su caso, los documentos que se requieran.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-Los Jueces podrán formular toda clase de preguntas a las partes, sus representantes, peritos y testigos, respecto de las cuestiones debatidas.
+El magistrado de la Sala podrá formular toda clase de preguntas a las partes, sus representantes, peritos y testigos, respecto de las cuestiones debatidas.
 
 > <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
@@ -1999,13 +1941,13 @@ La audiencia podrá suspenderse, o prorrogarse de oficio o a solicitud de alguna
 
 Formulados los alegatos, se citará para oír sentencia, misma que deberá pronunciarse dentro del plazo de quince días hábiles.
 
-### CAPITULO DECIMO. DE LA AUDIENCIA FINAL
+### CAPITULO DECIMO PRIMERO. DE LA SENTENCIA
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 176.
 
-Los Juzgado de primera instancia, al pronunciar sentencia suplirán las deficiencias de la queja planteada por el administrado en su demanda, siempre y cuando de los hechos narrados se deduzca el agravio, pero en todos los casos se contraerá a los puntos de la litis.
+La Sala Unitaria de Primera Instancia, al pronunciar sentencia suplirá las deficiencias de la queja planteada por el actor en su demanda, siempre y cuando de los hechos narrados se deduzca el agravio pero en todos los casos se contraerá a los puntos de la litis.
 
 ###### ARTICULO 177.
 
@@ -2041,9 +1983,7 @@ El Tribunal podrá hacer valer de oficio, por ser de orden público, la incompet
 
 Las sentencias definitivas deberán reconocer total o parcialmente la legalidad y validez de la resolución o acto impugnado; declarar total o parcialmente la nulidad de los mismos y de las consecuencias que de éstos se deriven, o decretar la nulidad del acto o resolución modificándolos para determinado efecto, debiendo precisar con claridad la forma y término en que la autoridad debe cumplir, salvo cuando se trate de facultades discrecionales. Asimismo, si la sentencia se dicta para determinado efecto, está será clara al explicar dicho efecto y sus alcances materiales.
 
-### CAPITULO DECIMO PRIMERO. DE LA SENTENCIA
-
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+### CAPITULO DECIMO SEGUNDO. DE LA ACLARACION DE LA SENTENCIA
 
 ###### ARTICULO 180.
 
@@ -2057,7 +1997,7 @@ La Sala o el Juzgado del Tribunal que emitió la sentencia, resolverá dentro de
 
 La interposición de la aclaración, interrumpe el plazo para interponer la revisión en primera instancia.
 
-### CAPITULO DECIMO SEGUNDO. DE LA ACLARACION DE LA SENTENCIA
+### CAPITULO DECIMO TERCERO. DE LA EJECUCION DE LAS SENTENCIAS
 
 ###### ARTICULO 182.
 
@@ -2087,7 +2027,7 @@ III. El Juzgado podrá imponer multa de cincuenta y un a ciento cincuenta días 
 
 El Juzgado requerirá continuamente al Órgano de Control Interno que corresponda, para que inicie y concluya el procedimiento administrativo disciplinario al que se refiere la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, hasta obtener la sanción del rebelde, imponiendo iguales multas al órgano de Control Interno que corresponda, para el caso de desacato.
 
-### CAPITULO DECIMO TERCERO. DE LA EJECUCION DE LAS SENTENCIAS
+### CAPITULO DECIMO CUARTO. DE LA SUSPENSION
 
 ###### ARTICULO 185.
 
@@ -2131,15 +2071,15 @@ II. En los casos en que la suspensión pudiera causar daños o perjuicios a terc
 
 En caso de afectaciones no estimables en dinero, de proceder la suspensión, se fijará discrecionalmente el importe de la garantía.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-La suspensión a la que se refiere este inciso quedará sin efecto, si previa resolución del Juez, el tercero otorga a su vez contragarantía para restituir las cosas al estado que guardaban antes de la notificación del acto impugnado al solicitante y a pagar los daños y perjuicios que se le hayan ocasionado, si finalmente la sentencia definitiva que se dicte fuere favorable a sus pretensiones, así como el costo de la garantía que este último hubiere otorgado. No procede admitir la contragarantía si, de ejecutarse el acto, quedare sin materia el juicio.
+La suspensión a la que se refiere este inciso quedará sin efecto, si previa resolución del Magistrado, el tercero otorga a su vez contragarantía para restituir las cosas al estado que guardaban antes de la notificación del acto impugnado al solicitante y a pagar los daños y perjuicios que se le hayan ocasionado, si finalmente la sentencia definitiva que se dicte fuere favorable a sus pretensiones, así como el costo de la garantía que este último hubiere otorgado. No procede admitir la contragarantía si, de ejecutarse el acto, quedare sin materia el juicio.
 
 III. En los demás casos, se concederá determinando la situación en que habrán de quedar las cosas, así como las medidas pertinentes para preservar la materia del juicio principal, hasta que se pronuncie sentencia firme.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-El monto de la garantía y contragarantía será fijado por el Juez o quien lo supla.
+El monto de la garantía y contragarantía será fijado por el Magistrado o quien lo supla.
 
 IV. El procedimiento será:
 
@@ -2147,31 +2087,31 @@ IV. El procedimiento será:
 
 a). La solicitud podrá ser formulada en la demanda o en escrito diverso presentado ante el Juzgado en que se encuentre radicado el juicio, en cualquier tiempo mientras no se dicte sentencia firme;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-b). Se tramitará por cuerda separada, bajo la responsabilidad del Juez;
+b). Se tramitará por cuerda separada;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-c). El Juez deberá conceder o negar la suspensión provisional de la ejecución, a más tardar dentro del día hábil siguiente a la presentación de la solicitud;
+c). El Magistrado deberá conceder o negar la suspensión provisional de la ejecución, a más tardar dentro del día hábil siguiente a la presentación de la solicitud;
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-d). El Juez requerirá a la autoridad demandada un informe relativo a la suspensión definitiva, el que se deberá rendir en el término de tres días. Vencido el término, con el informe o sin él, el Juez resolverá lo que corresponda, dentro de los tres días siguientes.
+d). El Magistrado requerirá a la autoridad demandada un informe relativo a la suspensión definitiva, el que se deberá rendir en el término de tres días. Vencido el término, con el informe o sin él, el Magistrado resolverá lo que corresponda, dentro de los tres días siguientes.
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-V. Mientras no se dicte sentencia firme en el juicio, el Juez podrá modificar o revocar la resolución que haya concedido o negado la suspensión definitiva, cuando ocurra un hecho superveniente que lo justifique; y
+V. Mientras no se dicte sentencia firme en el juicio, el Magistrado podrá modificar o revocar la resolución que haya concedido o negado la suspensión definitiva, cuando ocurra un hecho superveniente que lo justifique; y
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-VI. Cuando el solicitante de la suspensión obtenga sentencia favorable firme, el Juez ordenará la cancelación o liberación de la garantía otorgada. En caso de que la sentencia firme le sea desfavorable, a petición de la contraparte o en su caso, del tercero, y previo acreditamiento de que se causaron perjuicios o se sufrieron daños, el Juzgado ordenará hacer efectiva la garantía otorgada ante la autoridad.
+VI. Cuando el solicitante de la suspensión obtenga sentencia favorable firme, el Magistrado ordenará la cancelación o liberación de la garantía otorgada. En caso de que la sentencia firme le sea desfavorable, a petición de la contraparte o en su caso, del tercero, y previo acreditamiento de que se causaron perjuicios o se sufrieron daños, la Sala ordenará hacer efectiva la garantía otorgada ante la autoridad.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 189.
 
-La suspensión podrá concederse con efectos restitutorios, únicamente cuando se trate de actos privativos de la libertad decretados al particular por la autoridad administrativa; o bien, cuando a juicio del Juez sea necesario otorgarle estos efectos, con el objeto de conservar la materia del litigio o impedir perjuicios irreparables al particular.
+La suspensión podrá concederse con efectos restitutorios, únicamente cuando se trate de actos privativos de la libertad decretados al particular por la autoridad administrativa; o bien, cuando a juicio del Magistrado sea necesario otorgarle estos efectos, con el objeto de conservar la materia del litigio o impedir perjuicios irreparables al particular.
 
 La suspensión a que se refiere este artículo procede también de oficio si tiene interés la sociedad y se decretara de plano en el mismo auto en que se admita la demanda, comunicándose sin demora a la autoridad responsable para su inmediato cumplimiento.
 
@@ -2179,9 +2119,9 @@ La suspensión a que se refiere este artículo procede también de oficio si tie
 
 En los casos que proceda la suspensión pero pueda ocasionar daños y perjuicios a terceros se concederá la misma, si el actor otorga garantía bastante para reparar el daño e indemnizar los perjuicios que con ella se causaren, sino obtiene sentencia favorable en el juicio.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-En la hipótesis prevista en este artículo, para que surta efectos la suspensión, el actor deberá otorgar previamente la garantía ante el Juez, en cualquiera de las formas previstas por esta Ley.
+En la hipótesis prevista en este artículo, para que surta efectos la suspensión, el actor deberá otorgar previamente la garantía ante el Magistrado, en cualquiera de las formas previstas por esta Ley.
 
 ###### ARTICULO 191.
 
@@ -2199,7 +2139,7 @@ Todas las autoridades que intervengan en el acto con cualquier carácter, aún c
 
 Cuando se trate de hacer efectiva la responsabilidad proveniente de las garantías y contra-garantías que se otorguen con motivo de la suspensión, el interesado deberá tramitar ante el Juzgado que corresponda, un incidente que deberá promoverse dentro de los sesenta días naturales siguientes al en que surta efectos la notificación de la sentencia definitiva; pero si no se presentase dentro de ese término se procederá a la devolución o cancelación en su caso, de la garantía o contra garantía, sin perjuicio de que pueda exigirse tal responsabilidad ante las autoridades del orden común.
 
-### CAPITULO DECIMO CUARTO. DE LA SUSPENSION
+### CAPITULO DECIMO QUINTO. DE LOS INCIDENTES
 
 ###### ARTICULO 194.
 
@@ -2231,49 +2171,51 @@ IV. Se trate de juicios promovidos por el mismo actor, respecto del mismo acto q
 
 El incidente a que se refiere el artículo anterior deberá hacerse valer hasta antes de la celebración de la audiencia final y se tramitará ante el Juzgado que conozca del juicio, en la cual la demanda se presentó primero y esta dictará resolución en un plazo que no exceda de diez días. La acumulación podrá tramitarse de oficio.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 197.
 
-Una vez decretada la acumulación el Juez ordenará que el juicio más reciente se acumule al primer juicio, en un plazo que no exceda de tres días.
+Una vez decretada la acumulación se ordenará que el juicio más reciente se acumule al primer juicio, en un plazo que no exceda de tres días.
 
 ###### ARTICULO 198.
 
 El perjudicado por una notificación que no fuere hecha conforme lo dispone esta Ley, podrá pedir que se declare la nulidad de la misma en los términos previstos en esta Ley, ofreciendo las pruebas pertinentes en el mismo escrito en que se promueva la nulidad.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-Admitida la promoción, se dará vista a las partes por tres días para que exponga lo que a su derecho convengan y ofrezcan las pruebas de su interés; transcurrido dicho plazo el Juez dictará acuerdo ordenando el desahogo de las pruebas admitidas que así lo ameriten, lo cual deberá efectuarse en un término que no exceda de cinco días hábiles. Transcurrido este, el Juez pronunciará la resolución correspondiente.
+Admitida la promoción, sé dará vista a las partes por tres días para que exponga (sic) lo que a su derecho convengan y ofrezcan las pruebas de su interés; transcurrido dicho plazo se ordenará el desahogo de las pruebas admitidas que así lo ameriten, lo cual deberá efectuarse en un término que no exceda de cinco días hábiles. Transcurrido este, la Sala pronunciara la resolución correspondiente.
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
 
 Si se declara la nulidad, el Juez ordenará reponer el procedimiento desde la notificación anulada y se sancionará al actuario en los términos que señale el reglamento interior.
 
-### CAPITULO DECIMO QUINTO. DE LOS INCIDENTES
+### CAPITULO DECIMO SEXTO. DE LA INTERRUPCION DEL PROCEDIMIENTO
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 199.
 
-La interrupción del procedimiento por causa de muerte, incapacidad, declaración de ausencia, quiebra, disolución de la persona moral o desaparición del órgano de la administración pública se tramitará ante el Juzgado y procederá cuando antes de la celebración de la audiencia final se de cualquiera de dichos supuestos.
+La interrupción del procedimiento por causa de muerte, incapacidad, declaración de ausencia, quiebra, disolución de la persona moral o desaparición del órgano de la administración pública procederá cuando antes de la celebración de la audiencia final se dé cualquiera de dichos supuestos.
 
 ###### ARTICULO 200.
 
 La interrupción durará hasta un año para que se apersone en el juicio el representante legal de la parte que hubiese fallecido o se provea a la substitución del correspondiente representante procesal y se sujetará a lo siguiente:
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-I. Se decretará por el Juzgado a partir de la fecha en que este tenga conocimiento de la existencia de alguno de los supuestos a los que se refiere este artículo, y
+I. Se decretará a partir de la fecha en que ésta tenga conocimiento de la existencia de alguno de los supuestos a los que se refiere este artículo, y
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-II. Si transcurrido el plazo máximo e interrupción no comparece el albacea, el representante legal, o tutor, el Juez acordará la reanudación del juicio, ordenando que todas las notificaciones se efectúen por lista al representante de la sucesión, de la liquidación o de la autoridad demandada según sea el caso.
+II. Si transcurrido el plazo máximo de la interrupción no comparece el albacea, el representante legal, o tutor, se reanudará el juicio, y todas las notificaciones se efectuaran por lista al representante de la sucesión, de la liquidación o de la autoridad demandada según sea el caso.
 
-### CAPITULO DECIMO SEXTO. DE LA INTERRUPCION DEL PROCEDIMIENTO
+### CAPITULO DECIMO SEPTIMO. DE LOS RECURSOS
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 201.
 
-En los juicios que se tramiten ante el Tribunal de lo contencioso administrativo, no se admitirán más recursos que los de queja y revisión.
+En los juicios que se tramiten ante el Tribunal de lo contencioso administrativo y de Cuentas, no se admitirán más recursos que los de queja y revisión.
 
 ###### ARTICULO 202.
 
@@ -2281,11 +2223,13 @@ El recurso de queja es procedente:
 
 I. Contra los actos de las autoridades demandadas por exceso o defecto en la ejecución del auto en que se haya concedido a la parte actora la suspensión del acto reclamado, y
 
-> <small>(REFORMADA, P.O. 2 DE ENERO DE 2015)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-II. Contra los actos de las mismas autoridades, por repetición del acto o resolución anulada o por exceso o defecto en la ejecución de la sentencia dictada por los Juzgados de primera instancia.
+II. Contra los actos de las mismas autoridades, por repetición del acto o resolución anulada o por exceso o defecto en la ejecución de la sentencia dictada.
 
-En el escrito se expresarán las razones por las que se consideren que existe repetición del acto o resolución anulada, o que existe exceso o defecto en la ejecución de la sentencia dictada por el juzgado.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+En el escrito se expresarán las razones por las que se consideren que existe repetición del acto o resolución anulada, o que existe exceso o defecto en la ejecución de la sentencia.
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
 
@@ -2311,11 +2255,11 @@ La resolución a que se refiere el párrafo que antecede, se notificará tambié
 
 Si el Juez resuelve que hubo exceso o defecto en el cumplimiento de la sentencia o en la suspensión del acto reclamado, dejará sin efectos el acto o resolución que provocó la queja y se concederá a la autoridad responsable, veinticuatro horas para que dé cumplimiento debido al fallo, señalando la forma y términos precisados en la suspensión o sentencia, conforme a los cuales se debe cumplir.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 206.
 
-Contra los acuerdos y resoluciones dictados por los Jueces de primera instancia, procede el recurso de revisión, cuyo conocimiento y resolución corresponde a la Sala Superior.
+Contra los acuerdos y resoluciones dictados por las salas unitarias de primera instancia, procede el recurso de revisión, cuyo conocimiento y resolución corresponde a la Sala Superior.
 
 > <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
@@ -2393,7 +2337,9 @@ Resuelto el recurso, se notificará a las partes y al Juzgado correspondiente, r
 
 El Reglamento interno de este Órgano Jurisdiccional, dispondrá la organización, forma de sesiones de la Sala Superior y de sus votaciones.
 
-### CAPITULO DECIMO SEPTIMO. DE LOS RECURSOS
+### CAPITULO DECIMO OCTAVO. DE LAS EXCITATIVAS DE JUSTICIA
+
+> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 209.
 
@@ -2405,25 +2351,29 @@ Las partes podrán formular exitativa (sic) de justicia ante la Sala Superior, s
 
 Recibida la excitativa de justicia la presidencia de la Sala Superior, solicitará informe al titular del Juzgado de primera instancia, quien deberá rendirlo en el plazo de cinco días.
 
-La Presidencia dará cuenta a los integrantes de la Sala Superior, que si encuentran fundada la excitativa, resolverán otorgar un plazo que no excederá de cinco días para que el titular del Juzgado pronuncie la resolución respectiva, si no se cumpliere con dicha obligación el responsable será sustituido por el Juez que corresponda.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-### CAPITULO DECIMO OCTAVO. DE LAS EXCITATIVAS DE JUSTICIA
+La Presidencia dará cuenta a los integrantes de la Sala Superior, que si encuentran fundada la excitativa, resolverán otorgar un plazo que no excederá de cinco días para que el titular de la Sala pronuncie la resolución respectiva, si no se cumpliere con dicha obligación el responsable será sustituido por el Magistrado que corresponda.
 
-> <small>(REFORMADO, P.O. 12 DE OCTUBRE DE 2009)</small>
+### CAPITULO DECIMO NOVENO. DEL AUXILIO DEL TRIBUNAL
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 211.
 
-Las dependencias de los poderes Ejecutivo, Legislativo y Judicial, así como los ayuntamientos del Estado de Oaxaca, prestarán al Tribunal de lo Contencioso Administrativo, el auxilio necesario para el cumplimiento de sus determinaciones.
+Las dependencias de los poderes Ejecutivo, Legislativo y Judicial, así como los ayuntamientos del Estado de Oaxaca, prestarán al Tribunal de lo Contencioso Administrativo y de Cuentas, el auxilio necesario para el cumplimiento de sus determinaciones.
 
-### CAPITULO DECIMO NOVENO. DEL AUXILIO DEL TRIBUNAL
+### CAPITULO VIGESIMO. DE LOS CRITERIOS
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 212.
 
 Los criterios establecidos en las sentencias que dicte la Sala Superior serán obligatorios para el Tribunal, siempre que lo resuelto se sustente en cinco ejecutorias no interrumpidas por otra en contrario.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2015)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-La Sala Superior también definirá el criterio obligatorio, cuando exista contradicción entre los que sostengan los Juzgados de primera, mediante denuncia que haga el Magistrado que haya sustentado la contradictoria, o a petición de parte interesada.
+La Sala Superior también definirá el criterio obligatorio, cuando exista contradicción entre los que sostengan las salas unitarias de primera instancia, mediante denuncia que haga el Magistrado que haya sustentado la contradictoria, o a petición de parte interesada.
 
 El Secretario General de Acuerdos compilará, glosará, estructurará y llevará sistemáticamente el compendio de criterios sustentados y validados.
 
@@ -2440,10 +2390,6 @@ Para la modificación de los criterios a que se refiere el artículo anterior, s
 El pleno podrá definir los criterios cuando exista contradicción entre las dictadas por los Juzgados, mediante denuncia que le haga el Juez que haya sustentado la contradictoria o a petición de parte interesada.
 
 ### CAPITULO VIGESIMO PRIMERO. DE LA REGLAMENTACION INTERNA
-
-### CAPITULO VIGESIMO. DE LOS CRITERIOS
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE OCTUBRE DE 2009)</small>
 
 ###### ARTICULO 215.
 
@@ -2560,3 +2506,27 @@ TERCERO.- El Consejo de la Judicatura determinará sobre el procedimiento que si
 P.O. 2 DE ENERO DE 2015.
 
 UNICO.- El presente Decreto entrará en vigor en la fecha de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 1367.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE JUSTICIA DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Los magistrados integrantes de los Tribunales Contencioso Administrativo y de Fiscalización que se fusionan estarán en funciones hasta terminar el periodo por el que fueron designados, al término del cual podrán participar en el proceso de elección al cargo de magistrado del Tribunal de lo Contencioso Administrativo y de Cuentas.
+
+TERCERO. La adscripción de los magistrados integrantes de los Tribunales que se fusionan se hará en los términos establecidos en el vigésimo séptimo y vigésimo octavo transitorios del decreto número 1263, publicado en el Extra, del Periódico Oficial de fecha treinta de junio de dos mil quince, dentro de los sesenta días que sigan a la publicación del presente decreto. En ese plazo el Consejo de la Judicatura emitirá los acuerdos generales para la instalación formal del Tribunal.
+
+CUARTO. El Consejo de la .Judicatura adscribirá al personal de la Unidad de Capacitación del Tribunal de lo Contencioso Administrativo, a la Escuela Judicial. Asimismo readscribirá al personal administrativo de los tribunales que se fusionan al Consejo de la Judicatura en las áreas administrativas afines a aquellas en las que se haya desempeñado. Los jueces adscritos al Tribunal de lo Contencioso administrativo del Poder Judicial serán cambiados de adscripción a los juzgados de primera instancia que determine el Consejo de la Judicatura.
+
+QUINTO. Todas las referencias a los tribunales que se fusionan, en las leyes y reglamentos, se entenderán referidas al Tribunal de lo Contencioso Administrativo y de Cuentas en términos de esta Ley y los procedimientos y resoluciones se seguirán en los términos de la ley vigente al momento de su inicio entendidas las referencias a juzgados de la Ley de Justicia Administrativa como hechas a las Salas Unitarias del Tribunal de lo Contencioso Administrativo y de Cuentas.
+
+SEXTO. El Tribunal de lo Contencioso Administrativo y de Cuentas y el Consejo de la Judicatura, en la esfera de sus atribuciones, expedirán la normatividad necesaria para el cumplimiento de esta reforma y aquel conocerá de las responsabilidades administrativas graves hasta en tanto se cumplan los supuestos que establecen los artículos segundo y cuarto transitorio del decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de combate a la corrupción, publicado en el Diario Oficial de la Federación el 27 de mayo de 2015.
+
+SÉPTIMO. En tanto entran en vigor las leyes en materia de combate a la corrupción en el Estado, se aplicará la Ley de Responsabilidad de los Servidores Públicos del Estado y Municipios de Oaxaca vigente.
+
+OCTAVO. La Sala Especializada de Justicia Indígena se integrara conforme al Décimo Sexto artículo Transitorio, ultima parte del Decreto 1263 publicado en el Extra del Periódico Oficial de treinta de junio de dos mil quince.
+
+NOVENO. El tribunal presupuestará las partidas necesarias para la dirección de igualdad de género y la sala de justicia indígena.
+
+DÉCIMO. Se abrogan todas las disposiciones que se opongan a lo que establece el presente decreto.
