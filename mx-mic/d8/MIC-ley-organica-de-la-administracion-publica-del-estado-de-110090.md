@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-de-la-administracion-publica-del-estado-de-110090"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-09-29"
-last_updated: "2015-09-29"
+last_updated: "2015-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110090&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Décima Sección del Periódico Oficial del Estado de Michoacán, el martes 29 de septiembre de 2015.
 
@@ -203,13 +203,17 @@ XII. Secretaría de Educación;
 
 XIII. Secretaría de Cultura;
 
-XIV: Secretaría de Salud;
+XIV. Secretaría de Salud;
 
 XV. Secretaria de Política Social;
 
 XVI. Secretaría de los Pueblos Indígenas;
 
 XVII. Secretaría del Migrante; y,
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XVII bis. Secretaría de Igualdad Sustantiva y Desarrollo de las Mujeres Michoacanas; y,
 
 XVIII. Procuraduría General de Justicia.
 
@@ -1043,13 +1047,13 @@ III. Establecer los lineamientos generales y coordinar los programas específico
 
 IV. Establecer y regular políticas y programas de apoyo y orientación en materia alimentaria, en coordinación con las diferentes instancias del Gobierno del Estado; y los distintos órdenes del Gobierno Federal, de los estados, del Distrito Federal y municipios;
 
-V. Formular, normar y coordinar políticas y programas que promuevan la equidad, la igualdad de oportunidades y que eliminen los mecanismos de exclusión social de grupos de atención prioritaria;
+V. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2015)
 
 VI. Promover, normar y coordinar acciones y programas de combate a la pobreza que se ejecuten en el Estado;
 
 VII. Formular, normar, coordinar y vigilar la aplicación de políticas y programas de prevención y atención a grupos sociales altamente vulnerables;
 
-VIII. Promover, fomentar e instrumentar las condiciones que posibiliten la no discriminación, la igualdad de oportunidades, el ejercicio pleno de todos los derechos de las mujeres y su participación equitativa en condiciones de igualdad en los ámbitos, social, económico, político, cultural y familiar del Estado;
+VIII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2015)
 
 IX. Formular, promover, instrumentar y evaluar políticas públicas que den atención a la juventud, con el fin de fomentar su desarrollo social, cultural, productivo, educativo, político y económico para incorporarlos y hacerlos partícipes del desarrollo integral del Estado;
 
@@ -1176,6 +1180,60 @@ XVII. Asesorar a las dependencias estatales y municipales que lo soliciten, en e
 XVIII. Coadyuvar con la Secretaría de Relaciones Exteriores en la asistencia y orientación de los migrantes michoacanos, a petición de parte, en su caso, ante las autoridades extranjeras, para la defensa de sus derechos humanos, así como en otras acciones que se requieran para la atención y protección de los migrantes michoacanos; y,
 
 XIX. Las demás que le confieran las normas jurídicas aplicables.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 34 Bis.
+
+A la Secretaría de Igualdad Sustantiva y Desarrollo de las Mujeres Michoacanas le corresponde las atribuciones siguientes:
+
+I. Coordinar la instrumentación y evaluación de políticas públicas y programas estatales que promuevan la equidad, la igualdad de oportunidades entre mujeres y hombres;
+
+II. Promover un modelo de equidad de género como un sistema de gestión con perspectiva de género, que proporciona herramientas a empresas, instituciones públicas y organizaciones sociales para asumir un compromiso con la igualdad entre mujeres y hombre (sic);
+
+III. Promover, fomentar e instrumentar las acciones necesarias que posibiliten la no discriminación y la igualdad de oportunidades en el Estado;
+
+IV. Instrumentar los sistemas de información para la difusión de información y documentación actualizada, confiable y oportuna que permiten hacer visibles las desigualdades entre las mujeres y los hombres en Michoacán y den elementos para realizar análisis con perspectiva de género;
+
+V. Formular y gestionar ante las instituciones competentes, programas, proyectos y acciones con perspectiva de género y derechos humanos de las mujeres, así como su ejecución, seguimiento y evaluación, evitando toda forma de discriminación;
+
+VI. Coordinar con las dependencias y entidades de la Administración Pública del Estado, la conjunción de esfuerzos a fin de generar una herramienta común, para el reconocimiento público de los centros de trabajo que demuestran la adopción y el cumplimiento de procesos y prácticas a favor de la igualdad laboral y no discriminación;
+
+VII. Promover la evaluación transversal de programas, proyectos y acciones que faciliten a las mujeres el pleno desarrollo de sus potencialidades;
+
+VIII. Elaborar un Programa Estatal de Igualdad de Género, con el objetivo (sic) apoyar a organizaciones de la sociedad civil para que desarrollen proyectos orientados a impulsar la igualdad de género en los ámbitos social, político, económico o cultural;
+
+IX. Proponer al Gobernador del Estado convenios con las instituciones de la Federación, Estados, Municipios, organismos nacionales e internacionales programas, proyectos y acciones, que favorezcan el desarrollo integral de las mujeres en el Estado;
+
+X. Proponer al Gobernador del Estado, las iniciativas de ley en lo relativo a los derechos fundamentales de las mujeres;
+
+XI. Promover el fortalecimiento de la transversalidad de la perspectiva de género que contribuya a la implementación de una Política Pública en materia de Igualdad entre Mujeres y Hombres;
+
+XII. Coordinar la formación y capacitación con perspectiva de género de las y los servidores públicos;
+
+XIII. Gestionar ante las instancias correspondientes, recursos financieros para la elaboración y ejecución de proyectos productivos;
+
+XIV. Coordinar y fortalecer el servicio social y prácticas profesionales a estudiantes y pasantes de instituciones educativas públicas o privadas de nivel superior y nivel medio superior en materia de género e igualdad;
+
+XV. Promover programas y proyectos transversales, que ofrezcan las distintas dependencias y entidades de la administración estatal, para el adelanto de las mujeres michoacanas, en el cumplimiento y ejercicio de sus derechos humanos;
+
+XVI. Coordinar la asesoría y el apoyo psicológico y de defensa de los derechos de las mujeres;
+
+XVII. Impulsar acciones que contribuyan a prevenir, atender, sancionar y erradicar el problema de la violencia contra las mujeres por razones de género en todas sus vertientes, en coordinación con las instancias correspondientes;
+
+XVIII. Promover una cultura de igualdad mediante imágenes plurales, equilibradas y no discriminatorias;
+
+XIX. Fortalecer la participación social, política y cultural de las mujeres, que contribuya a la consolidación de la democracia y al cambio en las prácticas culturales, mediante procesos de desarrollo de capacidades y habilidades personales;
+
+XX. Promover la implantación de políticas públicas en materia de perspectiva de género en los procesos educativos, en coordinación con la Secretaría de Educación en el Estado, mediante la incorporación de conocimientos y divulgación de la información tendientes a la generación de igualdad para las mujeres y hombres;
+
+XXI. Promover ante las autoridades correspondientes, las medidas y acciones que contribuyan a garantizar el acceso y permanencia de las mujeres en todos los niveles y modalidades del sistema educativo;
+
+XXII. Fomentar el acceso de las mujeres a un sistema de salud que favorezca su desarrollo personal y social, incorporando el respeto a la medicina tradicional y a las diferencias culturales;
+
+XXIII. Promover la creación de centros municipales de atención a las mujeres, en coordinación con los ayuntamientos, con el objeto de atender las necesidades de las mujeres michoacanas; y,
+
+XXIV. Las demás que le confieran las normas jurídicas aplicables.
 
 ###### Artículo 35.
 
@@ -1347,9 +1405,11 @@ Se abroga la Ley Orgánica de la Administración Pública del Estado de Michoac�
 
 Los recursos humanos, materiales y financieros correspondientes a las Secretarías de la Mujer y de los Jóvenes, se transferirán a los organismos que creará el Gobernador del Estado para estos sectores.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO CUARTO.
 
-El Gobernador del Estado emitirá el Decreto de creación de los organismos rectores de la política pública para la Igualdad Sustantiva y de la Juventud, así como los lineamientos para su operación, en un periodo no mayor a noventa días, contado a partir de la entrada en vigor del presente decreto.
+El Gobernador del Estado emitirá el Decreto de creación del organismo rector de la política pública para la Juventud, así como los lineamientos para su operación, en un periodo no mayor a noventa días, contado a partir de la entrada en vigor del presente Decreto.
 
 ###### ARTÍCULO QUINTO.
 
@@ -1404,6 +1464,14 @@ ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIRECT
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 25 veinticinco días del mes de septiembre del año 2015 dos mil quince.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- DR. SALVADOR JARA GUERRERO.- EL SECRETARIO DE GOBIERNO.- LIC. JAIME AHUIZÓTL ESPARZA CORTINA.- (Firmados).
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 122 POR EL QUE "SE ADICIONA LA FRACCIÓN XVII BIS AL ARTÍCULO 17 Y EL ARTÍCULO 34 BIS; SE DEROGAN, LAS FRACCIONES V Y VIII DEL ARTÍCULO 32; Y, SE REFORMA, EL ARTÍCULO CUARTO TRANSITORIO DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MICHOACÁN DE OCAMPO".]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el periódico oficial.
 
 ###### ARTÍCULO DÉCIMO.
 
