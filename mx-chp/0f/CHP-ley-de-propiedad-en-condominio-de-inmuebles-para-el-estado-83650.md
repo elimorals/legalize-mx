@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-propiedad-en-condominio-de-inmuebles-para-el-estado-8365
 country: "mx"
 rank: "ley"
 publication_date: "2011-09-28"
-last_updated: "2011-09-28"
+last_updated: "2015-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83650&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 28 de septiembre de 2011.
 
@@ -219,6 +219,10 @@ Es de interés público la construcción de mercados o plazas comerciales bajo e
 
 En los mercados y plazas comerciales que se constituyan bajo este régimen, se podrá destinar para los comerciantes ambulantes, un área que no será menor a la quinta parte de la superficie total de ellos, siempre y cuando lo autorice la asamblea de condóminos.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Tratándose de plazas comerciales, el uso del servicio de estacionamiento deberá ser gratuito y de libre acceso, se exceptúa de lo anterior el servicio proporcionado a los usuarios que no adquieran bienes o servicios en la plaza o centro comercial y únicamente hagan uso del servicio de estacionamiento público, dicha tarifa estará establecida en las leyes de ingresos de los Municipios que correspondan.
+
 ###### ARTÍCULO 18.
 
 El administrador del bien inmueble en condominio, sin lesionar los derechos de los condóminos, señalara a los comerciantes ambulantes el sitio del área autorizada por la asamblea, a que se refiere el artículo anterior, en el cual podrá cada uno de ellos ejercer su comercio.
@@ -399,7 +403,7 @@ VII.- Delimitar con cualquier tipo de material o pintar señalamientos de exclus
 
 Por ningún motivo se podrá hacer uso de los estacionamientos en las áreas de uso común, para fines distintos;
 
-VIII.- Poseer animales que por su número, tamaño o naturaleza afecten las condiciones de seguridad, salubridad o comodidad del condominio o de los condóminos. En todos los casos, los condóminos, sus arrendatarios o cesionarios, serán absolutamente responsables de las acciones de los animales que introduzcan al condominio que afecten la limpieza, salubridad y protección o que causen cualquier daño, molestia, plaga o enfermedades a otros condóminos y habitantes del mismo; y, (sic)
+VIII.- Poseer animales que por su número, tamaño o naturaleza afecten las condiciones de seguridad, salubridad o comodidad del condominio o de los condóminos. En todos los casos, los condóminos, sus arrendatarios o cesionarios, serán absolutamente responsables de las acciones de los animales que introduzcan al condominio que afecten la limpieza, salubridad y protección o que causen cualquier daño, molestia, plaga o enfermedades a otros condóminos y habitantes del mismo; y,
 
 IX.- Realizar obras en la propiedad exclusiva que puedan poner en peligro la seguridad y estabilidad física del edificio ocasionando peligro o riesgo a los habitantes del condominio o que no permitan la conservación de zonas comunes o su flora, así como las que realicen los condóminos en áreas comunes que afecten la comodidad de tránsito del condominio; las que impidan permanentemente el uso de una parte o servicio común, aunque sea a un solo dueño, y las que demeriten cualquier parte exclusiva de una unidad condominal;
 
@@ -705,11 +709,11 @@ XII.- Entregar mensualmente a cada condómino, recabando constancia de quien lo 
 
 a) Relación pormenorizada de ingresos y egresos del mes anterior;
 
-b) Detalle (sic) de las aportaciones y cuotas pendientes. El Administrador tendrá a disposición de los condóminos que lo soliciten, una relación pormenorizada de los mismos, reservando por seguridad los datos personales de los condóminos que solo podrán conocer los miembros del Comité de Vigilancia o alguna autoridad que los solicite de manera fundada y motivada.
+b) Detalle de las aportaciones y cuotas pendientes. El Administrador tendrá a disposición de los condóminos que lo soliciten, una relación pormenorizada de los mismos, reservando por seguridad los datos personales de los condóminos que solo podrán conocer los miembros del Comité de Vigilancia o alguna autoridad que los solicite de manera fundada y motivada.
 
 c) Saldo y fines para los que se destinarán los fondos el mes siguiente;
 
-d) Saldo de las cuentas bancarias, de los recursos en inversiones, con mención de intereses; y, (sic)
+d) Saldo de las cuentas bancarias, de los recursos en inversiones, con mención de intereses; y,
 
 e) Relación detallada de las cuotas por pagar a los proveedores de bienes y/o servicios del condominio;
 
@@ -747,7 +751,7 @@ XX.- Realizar las demás funciones y cumplir con las obligaciones que establezca
 
 XXI.- El administrador del condominio deberá poner a disposición de la Asamblea, el respectivo libro de actas debidamente autorizado, cuando ésta se haya convocado en los términos que para tal efecto establece la Ley;
 
-XXII.- Fomentar entre los condóminos y habitantes del condominio, el conocimiento y el cumplimiento de la presente Ley, su reglamento, la escritura constitutiva y otras disposiciones normativas que de común acuerdo en asamblea general se haya (sic) implementado;
+XXII.- Fomentar entre los condóminos y habitantes del condominio, el conocimiento y el cumplimiento de la presente Ley, su reglamento, la escritura constitutiva y otras disposiciones normativas que de común acuerdo en asamblea general se haya implementado;
 
 XXIII.- Exigir la responsabilidad en que incurran los condóminos al realizar obras que afecten la estabilidad y seguridad de condominios;
 
@@ -861,7 +865,7 @@ La labor del Promotor Vecinal es transitoria, su permanencia estará en razón d
 
 ###### ARTÍCULO 77.
 
-El Promotor Vecinal será nombrado o removido por la Asamblea General, su cargo podrá remunerado (sic) y tendrá las siguientes funciones:
+El Promotor Vecinal será nombrado o removido por la Asamblea General, su cargo podrá (sic) remunerado y tendrá las siguientes funciones:
 
 a) Apoyar la creación de una cultura de responsabilidad social y ecológica en las unidades habitacionales, desarrollando competencias para fomentar la convivencia vecinal y comunitaria, organizada y armónica, que propicie un mejoramiento de la calidad de vida y la generación de plusvalía, favoreciendo la autonomía y autogestión de las comunidades;
 
@@ -871,7 +875,7 @@ b) Impulsar las competencias necesarias en los derechohabientes y acreditados pa
 
 El Promotor Vecinal tendrá las siguientes obligaciones:
 
-a) Fomentar entre los vecinos la creación de sus órganos internos y la adopción de valores de cultura vecinal entre ellos, impulsando y promoviendo una jornada de difusión e instrumentación de los principios básicos que componen la cultural (sic) condominal;
+a) Fomentar entre los vecinos la creación de sus órganos internos y la adopción de valores de cultura vecinal entre ellos, impulsando y promoviendo una jornada de difusión e instrumentación de los principios básicos que componen la (sic) cultural condominal;
 
 b) Impulsar la práctica de asistencia comunitaria que asesore a los órganos internos en su operación;
 
@@ -893,7 +897,7 @@ g) Mantener en todo momento la neutralidad en materia de proselitismo político 
 
 La elaboración del reglamento, será por quienes otorguen la escritura constitutiva del condominio. Cualquier modificación al reglamento, se acordará en asamblea general extraordinaria, a la que deberá de asistir por lo menos la mayoría simple de los condóminos. Las resoluciones requerirán de un mínimo de votos que represente el 51 % del valor del indiviso del condominio.
 
-La elaboración y/o modificación al reglamento deberán ser registrados (sic) ante el órgano administrativo municipal.
+La elaboración y/o modificación al reglamento deberán ser registrados ante el órgano administrativo municipal.
 
 ###### ARTÍCULO 80.
 
@@ -1302,3 +1306,13 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I, del artículo 44, de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Tuxtla Gutiérrez, Chiapas; a los veintiocho días del mes de septiembre del año dos mil once.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 144 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 17 DE LA LEY DE PROPIEDAD EN CONDOMINIO DE INMUEBLES PARA EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
