@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-del-poder-judicial-del-estado-de-oaxaca-87658"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-04-28"
-last_updated: "2015-05-07"
+last_updated: "2015-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87658&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE OAXACA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 7 DE MAYO DE 2015, LA PRESENTE REFORMA ENTRARÁ EN VIGOR EN LA FORMA Y TÉRMINOS SEÑALADOS EN EL DECRETO MEDIANTE EL CUAL SE DETERMINA EL INICIO DE VIGENCIA DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES EN CADA UNA DE LAS REGIONES DEL ESTADO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Cuarta Sección del Periódico Oficial del Estado de Oaxaca, el sábado 28 de abril de 2012.
 
@@ -59,11 +59,17 @@ El representante legal del Poder Judicial del Estado es el presidente del Tribun
 
 ###### Artículo 2.
 
-Corresponde a los Tribunales del Poder Judicial la facultad de interpretar y aplicar la Constitución Política del Estado Libre y Soberano de Oaxaca, los tratados internacionales, las leyes en los asuntos de fiscalización, en materia electoral, de lo contencioso administrativo, del orden civil, familiar, penal y de adolescentes del fuero común.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Corresponde a los Tribunales del Poder Judicial la facultad de interpretar y aplicar la Constitución Política del Estado Libre y Soberano de Oaxaca, los tratados internacionales, las leyes en los asuntos de lo contencioso administrativo y de cuentas, del orden civil, familiar, penal y de adolescentes del fuero común.
 
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
 Los tribunales y juzgados del Poder Judicial tendrán jurisdicción concurrente del orden federal, cuando expresamente les sea conferida y en todas las materias aplicarán el control difuso de constitucionalidad y convencionalidad en términos de la Constitución Política de los Estados Unidos Mexicanos y de los tratados internacionales en materia de derechos humanos de los que el Estado mexicano sea parte.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Emitirán sus resoluciones de conformidad con los principios pro persona, progresividad, buena fe, justicia, democracia, respeto de los derechos humanos, no discriminación, buena gobernanza, igualdad de derechos, libre determinación y respeto a la diversidad e identidad cultural, en el marco del pluralismo jurídico.
 
 ###### Artículo 3.
 
@@ -77,11 +83,13 @@ I. El pleno del Tribunal Superior de Justicia del Estado;
 
 II. Las salas especializadas en razón de la materia;
 
-III. El Tribunal Estatal Electoral;
+III. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2015)
 
-IV. El Tribunal de Fiscalización;
+IV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2015)
 
-V. El Tribunal de lo Contencioso Administrativo;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+V. El Tribunal de lo Contencioso Administrativo y de Cuentas;
 
 > <small>(REFORMADA, P.O. 7 DE MAYO DE 2015)</small>
 
@@ -299,9 +307,17 @@ XVIII. Las demás que determinen las leyes, los reglamentos y acuerdos generales
 
 La presidencia del Tribunal Superior de Justicia, para el ejercicio de sus atribuciones y el cumplimiento de sus obligaciones, contará con las siguientes unidades auxiliares:
 
-1. Coordinación de comunicación social; y
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-2. Coordinación de relaciones públicas.
+1. La Coordinación de Comunicación Social;
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+2. La Coordinación de Relaciones Públicas; y
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+3. La Dirección de Igualdad de Género.
 
 ###### Artículo 19.
 
@@ -352,6 +368,24 @@ II. Las salas penales; de las solicitudes de reconocimiento de inocencia, anulac
 III. En alzada, de los recursos que la ley de la materia determine en los procesos seguidos ante la primera instancia, exceptuando a los del Tribunal Contencioso Administrativo. En materia penal, con excepción de lo dispuesto en la ley de justicia para adolescentes, el reconocimiento de inocencia y anulación de sentencia deberán ser conocidos por magistrados que no hubieren intervenido en el mismo asunto en apelación; y
 
 IV. La Sala Constitucional conocerá de aquellos asuntos previstos en el artículo 106, apartado B, de la Constitución Política del Estado de Oaxaca.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+V.- La Sala de Justicia Indígena, con excepción de la materia política electoral, garantizará y conocerá los derechos de los pueblos indígenas y su jurisdicción teniendo las siguientes atribuciones:
+
+a) Conocer de los asuntos relacionados con las resoluciones emitidas por las autoridades de los pueblos y comunidades indígenas en ejercicio de su función jurisdiccional al aplicar sus sistemas normativos, para constatar que en el procedimiento respectivo se hayan respetado los principios y derechos humanos tutelados en la Constitución Federal, los tratados internacionales y la Constitución particular del Estado.
+
+La Sala de Justicia Indígena podrá convalidar la determinación emitida por la autoridad indígena u ordenar se emita una nueva resolución. En todos los casos planteados, se deberán armonizar los derechos individuales y colectivos, analizando de fondo y considerando debidamente los sistemas normativos indígenas en el marco del pluralismo jurídico, a fin de preservar la integridad comunitaria.
+
+b) Conocer de las inconformidades que se presenten con motivo de las modificaciones a los sistemas normativos indígenas;
+
+c) Conocer de las inconformidades que se susciten entre los ayuntamientos, agencias municipales y de policía, núcleos rurales y autoridades comunitarias de los pueblos indígenas, en ejercicio de las facultades que les confiere la ley o sus sistemas normativos, cuya resolución no sea competencia del Congreso del Estado y de otras instancias;
+
+d) Substanciar y resolver el juicio para la protección de los derechos de los pueblos indígenas y afromexicano, por incumplimiento de las recomendaciones emitidas por la Defensoría de los Derechos Humanos del Pueblo de Oaxaca; y
+
+e) Conocer de las inconformidades relacionadas con el ejercicio del derecho a la consulta y consentimiento libre, previo e informado de los pueblos y comunidades indígenas.
+
+La Sala de Justicia Indígena se allegará de oficio de las pruebas pertinentes y necesarias. En cualquier etapa del procedimiento se podrá admitir amicus curiae.
 
 ###### Artículo 24.
 
@@ -475,6 +509,10 @@ Del territorio.
 
 En el Estado habrá juzgados penales, civiles, orales mercantiles, familiares, de control, tribunales de enjuiciamiento, especializados en justicia para adolescentes, de ejecución de sanciones, ejecución de penas, mixtos y de lo contencioso administrativo; que sean necesarios para la pronta y expedita administración de justicia.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+En los distritos judiciales con población mayoritariamente indígena, los juzgados resolverán los asuntos de su competencia atendiendo las normas estatales y las normas indígenas en un marco de pluralismo jurídico.
+
 > <small>(REFORMADO, P.O. 7 DE MAYO DE 2015)</small>
 
 La jurisdicción de primera instancia en materia penal acusatoria y de justicia para adolescentes comprende a los jueces de control, de enjuiciamiento y de ejecución de penas.
@@ -547,7 +585,9 @@ Los jueces son inamovibles; la inamovilidad de los jueces se da en su relación 
 
 Son obligaciones de los jueces:
 
-I. Conocer en primera instancia de los asuntos civiles, penales, responsabilidad para adolescentes, mercantiles, familiares y en materia administrativa; y auxiliar a los Tribunales Federales, cuando para ello sean requeridos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+I. Conocer en primera instancia, de los asuntos civiles, penales, responsabilidad para adolescentes, mercantiles, familiares; y auxiliar a los Tribunales Federales cuando para ello sean requeridos.
 
 II. Calificar las excusas y recusaciones de sus secretarios de acuerdos y de los peritos ante él designados;
 
@@ -639,7 +679,7 @@ De su naturaleza, integración y funcionamiento.
 
 El Consejo de la Judicatura es el órgano del Poder Judicial del Estado con independencia técnica, de gestión y capacidad para emitir resoluciones y acuerdos generales. Es el encargado de conducir la administración, vigilancia, disciplina y carrera judicial del Poder Judicial, con excepción del Tribunal Superior de Justicia, en los términos que señala la Constitución Política del Estado Libre y Soberano de Oaxaca y esta ley.
 
-###### Articulo 49.
+###### Artículo 49.
 
 El Consejo de la Judicatura se integrará por cinco miembros. La presidencia del Consejo de la Judicatura recaerá en el presidente del Tribunal Superior de Justicia. Habrá un consejero magistrado, un consejero juez, quienes serán designados bajo criterios de evaluación y antigüedad. Habrá un miembro designado por cada uno de los poderes Ejecutivo y Legislativo. Los consejeros no representan a quien los designa, por lo que ejercerán su función con independencia e imparcialidad.
 
@@ -651,7 +691,7 @@ Las comisiones tendrán la duración, objeto y funciones que acuerde el pleno de
 
 Las ausencias temporales del presidente serán suplidas por el consejero magistrado del Tribunal Superior de Justicia.
 
-###### Articulo 50.
+###### Artículo 50.
 
 Los consejeros durarán cinco años en su cargo, serán sustituidos de manera escalonada y no podrán ser nombrados para un nuevo periodo.
 
@@ -717,7 +757,9 @@ XXII. Establecer la normatividad y los criterios para modernizar las estructuras
 
 XXIII. Conceder licencias en los términos previstos en esta ley;
 
-XXIV. Nombrar en términos de esta ley, tanto en los tribunales especializados como en los juzgados y tribunales de primera instancia, en casos de ausencias de alguno de sus servidores públicos o empleados, a un interino;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XXIV. Nombrar, en términos de esta Ley, en los juzgados y salas de primera instancia, en los casos de ausencias de alguno de sus servidores públicos o empleados, a un interino;
 
 XXV. Dictar las disposiciones necesarias para regular el turno de los asuntos de la competencia de los juzgados y tribunales de primera instancia, cuando en un mismo lugar haya varios de ellos;
 
@@ -735,9 +777,11 @@ XXXI. Regular las autorizaciones para abandonar el lugar de residencia de los se
 
 XXXII. Dictar las disposiciones necesarias para la recepción, control, adjudicación y destino de los bienes asegurados y decomisados;
 
-XXXIII. Nombrar y remover en los términos que señale su reglamento y acuerdos generales, al titular de la Coordinación de Asesores de los Tribunales Especializados, así como a éstos;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-XXXIV. Autorizar al juez de lo Contencioso Administrativo en caso de suplencia o excusa de un magistrado, en los términos de su reglamento; y
+XXXIII. Nombrar y remover en los términos que señale el reglamento interno y acuerdos generales, al titular y asesores de la Coordinación de Asesores del Tribunal Contencioso Administrativo y de Cuentas;
+
+XXXIV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2015)
 
 XXXV. Desempeñar cualquier otra función que la ley le encomiende.
 
@@ -2203,337 +2247,245 @@ VII. El monto del beneficio, daño o perjuicio económico derivado del incumplim
 
 Los órganos encargados de imponer las sanciones por faltas de los servidores públicos del Poder Judicial, son los presidentes de las Salas del Tribunal Superior de Justicia, la visitaduría general, la comisión de disciplina y el pleno del Consejo de la Judicatura.
 
+> <small>N. DE E. EL DECRETO NÚMERO 1367, EXPEDIDO POR LA LXII LEGISLATURA, PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2015, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE LIBRO.</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 # LIBRO OCTAVO.
 
-DE LOS TRIBUNALES ESPECIALIZADOS.
+DEL TRIBUNAL ESPECIALIZADO.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ## Título primero.
 
-Del Tribunal Estatal Electoral.
+Del Tribunal de lo Contencioso Administrativo y de Cuentas.
 
 ### Capítulo I.
 
 Disposiciones preliminares.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 145.
 
-El Tribunal Estatal Electoral es un órgano especializado, de carácter permanente, autónomo en su funcionamiento e independiente en sus decisiones. Es la máxima autoridad jurisdiccional en materia electoral del Estado de Oaxaca.
+El Tribunal de lo Contencioso Administrativo y de Cuentas es un órgano especializado del Poder Judicial, de carácter permanente, autónomo en su funcionamiento e independiente en sus decisiones. Es la máxima autoridad jurisdiccional del Estado de Oaxaca en materia de fiscalización, rendición de cuentas, responsabilidad de los servidores públicos, combate a la corrupción y administrativa.
 
-El recinto del Tribunal Estatal Electoral es inviolable. Toda fuerza pública tiene impedido el acceso, salvo con el correspondiente permiso del pleno o del presidente del Tribunal, bajo cuyo mando quedarán dichas fuerzas.
+Las resoluciones de la Sala Superior del Tribunal serán definitivas e inatacables en el orden local.
+
+El recinto del Tribunal de lo Contencioso Administrativo y de Cuentas es inviolable. Toda fuerza pública tiene impedido el acceso, salvo con el correspondiente permiso del Presidente del Tribunal, bajo cuyo mando quedarán dichas fuerzas.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 146.
 
-El Tribunal Estatal Electoral residirá en la capital del Estado o en zona conurbada y se integrará con tres magistrados propietarios y tres suplentes, los que estarán en ejercicio del cargo por la naturaleza de sus funciones.
+El Tribunal es competente para:
+
+I. Conocer, sustanciar y resolver mediante juicio de inconformidad contra las controversias suscitadas por resoluciones que en materia de cuentas emita la Auditoría Superior del Estado;
+
+II. Conocer, substanciar y resolver mediante juicio las resoluciones en materia de responsabilidad administrativa que emita la Auditoría o los Órganos de Control Interno de la Administración Pública;
+
+III. Conocer, sustanciar, resolver en única instancia e imponer las sanciones en los procedimientos de los servidores públicos relacionados con responsabilidades administrativas graves y resarcitorias;
+
+IV. Conocer, substanciar y resolver en los procedimientos relacionados con cualquier persona que haya cometido hechos de corrupción que no constituyan delitos, así como de aquellos que resulten beneficiados por los mismos, de igual forma, su participación en actos vinculados con responsabilidades administrativas graves;
+
+V. Determinar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la hacienda pública estatal, municipal o al patrimonio de los entes públicos estatales;
+
+VI. Imponer a los particulares que intervengan en actos vinculados con faltas administrativas graves, con independencia de otro tipo de responsabilidades, las sanciones económicas, inhabilitación para participar en adquisiciones, arrendamientos, servicios u obras públicas, así como el resarcimiento de los daños y perjuicios a los que se refiere la fracción que antecede. Las personas morales serán sancionadas en los términos de esta fracción cuando los actos vinculados con faltas administrativas graves sean realizados por personas físicas que actúen a nombre o representación de la persona moral y en beneficio de ella. También podrá decretarse la suspensión de actividades, disolución o intervención de la sociedad respectiva cuando se trate de faltas administrativas graves que causen perjuicio a la Hacienda Pública, siempre que se acredite la participación de sus órganos de administración, de vigilancia o de sus socios, o en aquellos casos en que se advierta que la sociedad es utilizada de manera sistemática para vincularse con faltas administrativas graves, en estos supuestos la sanción se ejecutará hasta que la resolución sea definitiva;
+
+VII. Resolver las controversias que se susciten entre la Administración Pública Estatal y los particulares. Así como las que se susciten entre los municipios entre sí o entre éstos y el Gobierno del Estado, como consecuencia de los convenios que se celebren para el ejercicio de funciones, de ejecución de obras o prestación de servicios públicos municipales conforme a la ley de la materia, y
+
+VIII. Conocer de las controversias que se susciten entre los particulares y la Administración Pública Municipal, cuando no haya organismos o disposiciones de carácter municipal aprobadas por el Congreso del Estado que diriman dichas controversias.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 147.
 
-Los magistrados del Tribunal serán nombrados en los términos establecidos en la Constitución Política del Estado Libre y Soberano de Oaxaca.
+El Tribunal, al resolver los procesos y procedimientos, garantizará que los actos y las resoluciones administrativas y de cuentas, se sujeten a los principios de imparcialidad, legalidad, igualdad, publicidad, audiencia, constitucionalidad, convencionalidad, presunción de inocencia, in dubio pro reo y pro persona.
+
+En los casos que involucren personas, comunidades, municipios y pueblos indígenas y afromexicano, se observarán los sistemas normativos indígenas y las determinaciones de dichos pueblos.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 148.
 
-Los magistrados del Tribunal, además de satisfacer los requisitos señalados en el artículo 101 de la Constitución Política del Estado Libre y Soberano de Oaxaca, deberán:
+La administración, vigilancia y disciplina en este Tribunal, corresponderá al Consejo de la Judicatura, por conducto de la Comisión de Administración Vigilancia y Disciplina del Tribunal de lo Contencioso Administrativo y de Cuentas.
 
-I. Contar con credencial vigente para votar con fotografía;
+La Comisión de Administración, Vigilancia y Disciplina del Tribunal propondrá al Pleno del Consejo de la Judicatura los Proyectos de Acuerdos Generales que sean necesarios para mejorar o hacer eficiente la administración del Tribunal.
 
-II. Acreditar conocimientos en derecho electoral;
+La Coordinación de Asesores dependerá de la Comisión de Administración del Tribunal.
 
-III. No desempeñar, ni haber desempeñado el cargo de presidente del Comité Ejecutivo Nacional o Estatal de un partido político;
+La Escuela Judicial tendrá a su cargo la capacitación y especialización del personal del Tribunal.
 
-IV. No haber sido registrado como candidato para cargo de elección popular, en los últimos cinco años inmediatos anteriores a la designación;
-
-V. No desempeñar ni haber desempeñado cargo de dirección nacional, estatal, distrital o municipal en algún partido político, en los cinco años inmediatos anteriores a la designación, no haber sido representante de algún partido político sea a nivel estatal o federal; y
-
-VI. No ser ministro de algún culto religioso.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ### Capítulo II.
 
-Integración y funcionamiento.
+Estructura del Tribunal.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 149.
 
-Los magistrados durarán en el ejercicio de su encargo ocho años, en los términos del período previsto en los artículos 102 y 111 de la Constitución Política del Estado Libre Soberano de Oaxaca, pudiendo ser reelectos por un período igual y podrán jubilarse en los términos del capítulo relativo a las jubilaciones para los magistrados del Tribunal Superior de Justicia.
+El Tribunal se integrará por:
+
+I. Órganos jurisdiccionales:
+
+a) La Presidencia;
+
+b) La Sala Superior;
+
+c) Las salas unitarias de primera instancia que podrán tener el carácter de salas especializadas o auxiliares; y
+
+II. Órganos administrativos:
+
+a) La Comisión de Administración, Vigilancia y Disciplina.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 150.
 
-La ausencia temporal de los magistrados propietarios será cubierta por los suplentes, en la forma que determine el reglamento interno del Tribunal.
+Los servidores públicos adscritos a los órganos, son:
 
-La falta definitiva de los magistrados, dará lugar a que el pleno lo comunique al Gobernador del Estado, para que convoque al procedimiento de selección. Mientras tanto se observará lo que determine el reglamento interno del Tribunal, tratándose de un magistrado propietario.
+a) Magistrados;
+
+b) Secretario General de Acuerdos;
+
+c) Secretarios de Estudio y Cuenta;
+
+d) Secretarios de Acuerdos;
+
+e) Actuarios, y
+
+f) Los servidores públicos y auxiliares técnicos necesarios.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 151.
 
-Los magistrados durante el tiempo de su ejercicio, no podrán ocupar cargo en partidos políticos ni desempeñar otro empleo, cargo o comisión en la federación, en cualquier estado de la república, en los municipios o en el ámbito privado, excepto la docencia o la investigación académica que sea compatible con la Magistratura.
+La Sala Superior del Tribunal es la máxima autoridad del Tribunal, y se integrará por:
+
+I. Cinco magistrados;
+
+II. Secretario General de Acuerdos;
+
+III. Secretarios de Estudio y cuenta;
+
+IV. Actuarios;
+
+V. Empleados y demás Funcionarios técnicos.
+
+En la tramitación de los recursos de revisión, el Presidente de la Sala Superior actuará con el Secretario General de Acuerdos del Tribunal.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 152.
 
-Las retribuciones y prestaciones que reciban los magistrados propietarios del Tribunal Estatal Electoral, serán igual a la que perciban los magistrados del Tribunal Superior de Justicia y lo que disponga su reglamento interno y que estarán señaladas en el Presupuesto de Egresos del Estado.
+El presidente de la Sala Superior será el presidente del Tribunal.
 
-Las retribuciones y prestaciones que reciban los magistrados suplentes serán conforme al presupuesto de egresos y el reglamento interno.
+Las resoluciones de la Sala Superior se tomarán por unanimidad o por mayoría de votos y sus sesiones serán públicas, salvo en los casos que por disposición de la ley o determinación de la propia Sala sean privadas cuando se estime que se pudiera afectar el orden público. En caso de disenso de una resolución los magistrados podrán emitir su voto particular.
+
+La Sala Superior tendrá las siguientes atribuciones:
+
+I. Vigilar la autonomía e independencia del Tribunal;
+
+II. Recibir y en su caso aceptar o rechazar, la renuncia al cargo de presidente del tribunal;
+
+III. Designar o remover a propuesta del presidente a quien ocupe la Secretaria General de Acuerdos;
+
+IV. Elegir al Presidente del Tribunal;
+
+V. Conocer y resolver las controversias que se susciten en materia de Cuentas y las impugnaciones de resoluciones sancionatorias, que emita la Auditoría Superior del Estado;
+
+VI. Conocer y calificar, en cada caso, los impedimentos o las excusas de los magistrados integrantes y de los magistrados unitarios;
+
+VII. Tramitar y resolver en segunda instancia, de las determinaciones de las salas unitarias, en los casos previstos en las fracciones VI, VII y VIII del artículo 146 de esta Ley;
+
+VIII. Emitir los acuerdos que sean necesarios para la pronta y eficaz administración de justicia;
+
+IX. Establecer, de acuerdo a su competencia, los criterios relevantes, en casos de obscuridad o ambigüedad de la ley;
+
+X. Habilitar un recinto alterno para sesionar, cuando las condiciones de seguridad no lo permitan;
+
+XI. Aprobar el proyecto de presupuesto de egresos, para su inclusión en el proyecto de presupuesto del Poder Judicial;
+
+XII. Aprobar su reglamento interno, y
+
+XIII. Las demás que le conceda esta ley, el Reglamento Interno del Tribunal y otras disposiciones legales que resulten aplicables.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 153.
 
-El Tribunal es competente para:
+Las salas unitarias de primera instancia se integrarán por:
 
-I. Conocer de los medios de impugnación que se interpongan respecto de las elecciones del Gobernador del Estado, Diputados y Concejales de los ayuntamientos por los reglamentos de partidos políticos y de los sistemas normativos indígenas; así como de todas las controversias que determine la Constitución local, las leyes de la materia y los sistemas normativos indígenas, reconocidos en el artículo 2 de la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales;
+I. Un magistrado;
 
-II. Conocer de las impugnaciones, que se susciten en las elecciones de representantes de agencias municipales y agencias de policías de núcleos rurales, colonias, fraccionamientos y de todos aquellos entes de las localidades que sean electos mediante el sufragio de los ciudadanos;
+II. Secretarios de Acuerdos;
 
-III. Resolver en única instancia, las impugnaciones que se presenten en contra de la elección de Gobernador del Estado;
+III. Actuarios, Oficiales Administrativos, y demás personal técnico y administrativo que el Consejo de la Judicatura autorice al respecto.
 
-IV. Realizar el cómputo final y la calificación de la elección de Gobernador del Estado, una vez resueltas las impugnaciones que se hubieren interpuesto en contra de la misma, o cuando se tenga constancia de que no se presentó algún recurso de inconformidad;
+Las Salas unitarias conocerán de materias específicas, con la jurisdicción, competencia y residencia que se determinen en el Reglamento Interior, de acuerdo a los estudios y propuesta de la Comisión de Administración Vigilancia y Disciplina del Tribunal al Pleno del Consejo de la Judicatura, con base en las necesidades del servicio.
 
-V. Emitir la declaratoria del Gobernador electo respecto del candidato que hubiese obtenido el mayor número de votos, comunicándola a la Legislatura para su difusión mediante Bando Solemne y por otros medios idóneos;
+Dichas Salas observaran para su organización, integración y en su caso funcionamiento, lo dispuesto en el Reglamento Interior y las posibilidades presupuestales.
 
-VI. Decretar la nulidad de la elección del Gobernador del Estado, los Diputados y de Concejales de los ayuntamientos por los regímenes de partidos políticos y de sistemas normativos indígenas, reconocidos en el artículo 2 de la Constitución Política de los Estados Unidos Mexicanos y en los Tratados Internacionales, por causas expresamente establecidas en la ley, la que preverá los plazos respectivos para el desahogo de todas las instancias de impugnación tomando en cuenta el principio de definitividad de los procesos electorales;
-
-VII. Decretar la nulidad de las elecciones de representantes de núcleos rurales, colonias, fraccionamientos y de todos aquellos entes de las localidades que sean electos mediante el sufragio de los ciudadanos, por las causas expresamente establecidas por la norma, la que preverá los plazos respectivos para el desahogo de todas las instancias de impugnación, tomando en cuenta el principio de definitividad de los procesos electorales;
-
-VIII. Conocer de los medios de impugnación que se interpongan en los procesos de revocación de mandato, plebiscito y referéndum;
-
-IX. Emitir la Declaratoria de revocación de mandato de Gobernador del Estado;
-
-X. Declarar su instalación de manera permanente con motivo del proceso electoral de los Sistemas Normativos Indígenas;
-
-XI. Expedir el reglamento interno y acuerdos generales del Tribunal Estatal Electoral, para su adecuado funcionamiento;
-
-XII. Discutir el proyecto del presupuesto del Tribunal para su aprobación y presentación al Consejo de la Judicatura;
-
-XIII. Resolver las controversias laborales que se susciten entre el Instituto Estatal Electoral y de Participación Ciudadana y de sus trabajadores;
-
-XIV. Resolver los incidentes para el cumplimiento de las sentencias;
-
-XV. Aprobar los criterios relevantes a propuesta del magistrado presidente;
-
-XVI. Emitir los acuerdos generales necesarios para la pronta y eficaz resolución de los asuntos, estableciendo los criterios en caso de oscuridad o ausencia de la ley; y
-
-XVII. Conocer de los demás asuntos que expresamente determinen la constitución y las leyes.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 154.
 
-El Tribunal al resolver los medios de impugnación, garantizará que los actos y las resoluciones de las autoridades electorales se sujeten a los principios de certeza, imparcialidad, independencia, legalidad y objetividad.
+El Secretario de Acuerdos de la Sala Unitaria será propuesto por el magistrado unitario al Consejo de la Judicatura.
 
-Las resoluciones del Tribunal serán definitivas e inatacables en el orden local.
+El magistrado unitario calificará las excusas o impedimentos que presente el Secretario de Acuerdos y comunicará al Consejo de la Judicatura del impedimento calificado de legal para que se proceda a designar al Secretario de Acuerdos que sustituirá al que se encuentre impedido.
+
+En los casos de ausencia del magistrado de la Sala Unitaria por causa de fuerza mayor, el Consejo de la Judicatura podrá autorizar a un secretario de acuerdos para que resuelva los asuntos en ausencia del titular.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 155.
 
-El Tribunal funcionará en pleno, sus resoluciones se tomarán por mayoría de votos y sus sesiones serán públicas, salvo en los casos que esta ley prevea.
+El magistrado unitario podrá:
 
-El pleno del Tribunal, estará integrado por tres magistrados propietarios, quienes tendrán las siguientes atribuciones:
+I. Solicitar directamente, cuando así se requiera, el auxilio de la fuerza pública en su Sala; en este caso, dará aviso al presidente del Tribunal;
 
-I. Elegir entre sus integrantes al presidente del Tribunal quien durará en el ejercicio de su encargo el plazo previsto en el artículo 111 de la Constitución Política del Estado Libre y Soberano de Oaxaca;
+II. Autorizar el ingreso a su Sala, de toda fuerza pública, quedando esta fuerza bajo su mando directo, y
 
-II. Designar o remover a propuesta del presidente a quien ocupe la secretaría general;
+III. Las demás que le asigne la Ley y el Reglamento Interior del Tribunal.
 
-III. Aprobar y en su caso reformar el reglamento interno del Tribunal y ordenar su publicación;
-
-IV. Remitir su presupuesto de egresos al Consejo de la Judicatura, para su inclusión en el proyecto del presupuesto del Poder Judicial;
-
-V. Calificar las excusas o impedimentos que presenten los magistrados del Tribunal;
-
-VI. Habilitar un recinto alterno para sesionar cuando las condiciones de seguridad no lo permitan;
-
-VII. Solicitar cuando así se requiera el auxilio de la fuerza pública;
-
-VIII. Autorizar el ingreso al Tribunal de toda fuerza pública quedando dichas fuerzas bajo el mando del presidente;
-
-IX. Designar a propuesta del presidente a los magistrados que integraran las comisiones que se requieran; y
-
-X. Las demás que le asigne la constitución local, la ley y el reglamento interno del Tribunal.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 156.
 
-Son atribuciones y obligaciones del Presidente del Tribunal:
+La Sala Superior residirá en la capital del estado o en la zona conurbada, y las salas unitarias de primera instancia tendrán la residencia y competencia territorial, que determine el Consejo de la Judicatura.
 
-I. Presidir las sesiones del pleno del Tribunal, dirigir los debates y vigilar que se conserve el orden durante las sesiones;
-
-II. Comunicar a las autoridades y organismos respectivos, las resoluciones que dicte el Tribunal, para su cumplimiento;
-
-III. Dictar los acuerdos de trámite en los asuntos de la competencia del Tribunal;
-
-IV. Comisionar en caso necesario a los magistrados del Tribunal, para el desahogo o perfeccionamiento de una prueba si el caso lo amerita;
-
-V. Organizar y supervisar el turno de los expedientes al magistrado que corresponda;
-
-VI. Convocar a los magistrados suplentes para que integren pleno en ausencia de los propietarios;
-
-VII. Proponer al pleno del Tribunal, el nombramiento de quien ocupe la secretaría general;
-
-VIII. Representar al Tribunal en los asuntos en que sea parte; ante toda clase de autoridades e instituciones; y cuando así se requiera, otorgar poderes especiales para pleitos y cobranzas;
-
-IX. Conducir las relaciones con otros organismos públicos, privados y demás entes que la materia electoral requiera;
-
-X. Despachar la correspondencia del Tribunal;
-
-XI. Requerir a las autoridades y a los organismos electorales, para que cumplan con las resoluciones que dicte el Tribunal;
-
-XII. Tomar la protesta a los servidores públicos del Tribunal que esta ley prevé;
-
-XIII. Solicitar cuando así se requiera el auxilio de la fuerza pública;
-
-XIV. Autorizar el ingreso de la fuerza pública al Tribunal, a cuyo mando quedará;
-
-XV. Proponer al pleno a los magistrados para integrar las comisiones que se requieran;
-
-XVI. Rendir un informe anual en el mes (sic) diciembre del ejercicio correspondiente ante el pleno del Tribunal, en sesión ordinaria, dando cuenta de su administración y de los principales criterios adoptados en su (sic) resoluciones y ordenar su publicación; y
-
-XVII. Las demás que le confiere la Constitución local, la ley y el reglamento interno del Tribunal.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 157.
 
-Los magistrados propietarios integrantes del Tribunal tendrán las siguientes atribuciones:
+La Comisión de Administración se integra por el Presidente del Tribunal y dos consejeros de la Judicatura, en los términos previstos en esta Ley.
 
-I. Asistir, participar y votar en las sesiones a las que sean convocados por el presidente del Tribunal;
-
-II. Resolver en forma colegiada los asuntos de su competencia;
-
-III. Formular los proyectos de resolución de los expedientes que le sean turnados para tal efecto;
-
-IV. Dar cuenta en sesión pública, o por conducto de un magistrado suplente o su secretario de estudio y cuenta, de los proyectos de resolución, señalando las motivaciones y los preceptos en que se funden;
-
-V. Discutir y votar los proyectos de resolución sometidos a su consideración;
-
-VI. Formular voto particular o voto razonado en caso de disentir de un proyecto de resolución y solicitar se agregue al expediente;
-
-VII. Solicitar al pleno, que sus proyectos de resolución se agreguen a los expedientes como voto particular, cuando no sean aprobados por la mayoría; o formular voto razonado, que deberá formular parte de la resolución que se dicte. El magistrado contará con cuarenta y ocho horas para emitir y engrosar por escrito su voto particular o razonado;
-
-VIII. Realizar los engroses de los fallos aprobados cuando sean designados para tal efecto;
-
-IX. Cuando corresponda revisar, dirigir el trámite y sustanciar los recursos y medios de impugnación;
-
-X. Las que sean necesarias para el correcto funcionamiento del Tribunal; y
-
-XI. Las demás que les confieren la constitución local, la ley y el reglamento interno del Tribunal.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ### Capítulo III.
 
-Del personal del Tribunal Estatal Electoral.
+De los Magistrados.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 158.
 
-Son atribuciones y obligaciones de los magistrados suplentes:
+Los magistrados durarán en el ejercicio de su encargo ocho años, en los términos del periodo previsto en el artículo 111 de la Constitución Política del Estado Libre y Soberano de Oaxaca, pudiendo ser reelectos por un periodo igual; y podrán jubilarse en los términos del capítulo relativo a las jubilaciones para los magistrados del Tribunal Superior de Justicia.
 
-I. Asistir y participar con voz a las sesiones del Pleno;
+En los casos de retiro voluntario, o forzoso, o en el caso de fallecimiento del magistrado en activo, el Consejo de la Judicatura determinará la indemnización o pensión que le corresponda, atendiendo al periodo laborado.
 
-II. Integrar en orden alfabético el Pleno en ausencia de un magistrado propietario;
-
-III. Ser instructores de los medios de impugnación;
-
-IV. Proponer, al pleno los proyectos de resolución definitiva de los asuntos turnados;
-
-V. Integrar las comisiones cuando así lo designe el pleno; y
-
-VI. Las demás que le encomiende el pleno, el presidente, esta ley y el reglamento interno del Tribunal.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 159.
 
-El secretario general del Tribunal, tendrá las siguientes atribuciones:
+Los magistrados del Tribunal, además de satisfacer los requisitos señalados en el artículo 101 de la Constitución Política del Estado Libre y Soberano de Oaxaca, deberán contar con conocimientos en Derecho Administrativo, Fiscal, de Fiscalización o de Cuentas.
 
-I. Dar fe con su firma de los actos relativos al ejercicio de su cargo;
-
-II. Dar cuenta de los escritos y educaciones de los asuntos de su competencia:
-
-a) Al pleno del Tribunal, tomar las votaciones en las sesiones y laborar las actas respectivas;
-
-b) Al magistrado presidente;
-
-c) A los demás magistrados;
-
-III. Dictar, previo acuerdo con el presidente, los financiamientos generales para la identificación, integración y turno de los expedientes;
-
-IV. Certificar los testimonios que se expidan de los asuntos del pleno y documentos que se encuentren en el archivo general y sean ordenados por la superioridad;
-
-V. Supervisar el debido funcionamiento de los archivos del Tribunal;
-
-VI. Vigilar que los actuarios cumplan con sus funciones;
-
-VII. Cumplir las tareas que le encomienden el pleno y el presidente;
-
-VIII. Realizar las notificaciones de las resoluciones recaídas en los expedientes, cuando así se requiera; y
-
-IX. Las demás que le otorguen las leyes aplicables y el reglamento interno del Tribunal.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 160.
-
-La secretaría general contará con las siguientes atribuciones:
-
-I. Dar fe de la admisión de los medios de impugnación de la competencia del Tribunal, así como de los escritos de las partes en los procesos;
-
-II. Dar lectura de la propuesta de desechamiento de los medios de impugnación, cuando sea manifiesta su notoria improcedencia;
-
-III. Integrar los expedientes para el trámite de los medios de impugnación interpuestos ante el Tribunal; y,
-
-IV. Turnar los expedientes para su estudio y resolución a los magistrados del Tribunal.
-
-La secretaría general, contará con los recursos humanos y técnicos que sean necesarios y permita el presupuesto de egresos.
-
-###### Artículo 161.
-
-Para el desempeño de sus funciones, de acuerdo con el presupuesto de egresos, la secretaría general contará con el apoyo de las áreas siguientes:
-
-I. Secretaría auxiliar;
-
-II. Oficialía de actuarios;
-
-III. Oficialía de partes; y
-
-IV. Archivo judicial.
-
-Los requisitos para ocupar estas áreas y demás cargos, así como sus respectivas atribuciones serán los que establezca el reglamento interno del Tribunal.
-
-###### Artículo 162.
-
-El secretario general del Tribunal deberá acreditar experiencia en materia electoral y reunir los requisitos que se exigen para secretario general de acuerdos del Tribunal Superior de Justicia.
-
-###### Artículo 163.
-
-Durante los procesos electorales todos los días y horas son hábiles. El horario de labores se sujetará a las necesidades del servicio.
-
-Los trabajadores del Tribunal están obligados a prestar sus servicios durante los horarios que señale el reglamento interno del Tribunal, tomando en cuenta lo que dispone el párrafo anterior.
-
-Durante los procesos electorales, no se pagarán horas extras, no obstante se preverá en el presupuesto de egresos las compensaciones extraordinarias, que deban otorgarse a los trabajadores del Tribunal, considerando los horarios en que hayan laborado y la carga de trabajo que hubiesen desahogado.
-
-## Título Segundo.
-
-Del Tribunal de Fiscalización.
-
-###### Artículo 164.
-
-El Tribunal de Fiscalización es la máxima autoridad jurisdiccional en materia de fiscalización y rendición de cuentas; se integrará con tres magistrados propietarios y tres magistrados suplentes.
-
-###### Artículo 165.
-
-El Tribunal ejercerá sus atribuciones a través de ponencias por cada uno de los magistrados propietarios con apoyo de los magistrados suplentes. El pleno del Tribunal en la sesión de elección del presidente realizará esta asignación.
-
-El Tribunal funcionará con el personal que le sea necesario para la pronta y expedita administración de justicia.
-
-###### Artículo 166.
-
-El Tribunal tendrá ámbito de competencia en todo el territorio del Estado.
-
-### Capítulo I.
-
-Disposiciones generales.
-
-###### Artículo 167.
-
-Los magistrados durarán en el ejercicio de su encargo ocho años, pudiendo ser reelectos por un período igual. Durante el tiempo de su ejercicio, no podrán ocupar cargo en partidos políticos ni desempeñar otro empleo, cargo o comisión en la federación, en cualquier estado de la república, en los municipios o en el ámbito privado, excepto la docencia o la investigación académica.
-
-Las retribuciones y prestaciones que reciban los magistrados propietarios del Tribunal de Fiscalización, serán igual a la que perciban los magistrados del Tribunal Superior de Justicia y lo que disponga su reglamento interno y que estarán señaladas en el Presupuesto de Egresos del Estado.
-
-Las retribuciones y prestaciones que reciban los magistrados suplentes serán conforme al presupuesto de egresos y el reglamento interno.
-
-###### Artículo 168.
-
-Para ser magistrado se requiere:
-
-I. Contar con experiencia mínima acreditada de cinco años en materia de fiscalización o rendición de cuentas; y
-
-II. Ser nombrado en los términos señalados por la Constitución Política del Estado Libre y Soberano de Oaxaca y satisfacer los requisitos que la misma exige para los magistrados del Tribunal Superior de Justicia.
-
-### Capítulo II
-
-Del pleno del Tribunal de Fiscalización.
-
-###### Artículo 169.
 
 Corresponde a los magistrados:
 
@@ -2541,199 +2493,209 @@ I. Gozar del fuero que les concede la Constitución Política del Estado Libre y
 
 II. No ser privados de sus cargos, sino en los términos del artículo 117 de la Constitución Política del Estado Libre y Soberano de Oaxaca;
 
-III. Percibir una remuneración adecuada la cual no podrá ser reducida durante su encargo;
+III. Percibir una remuneración adecuada, la cual no podrá ser reducida durante su encargo;
 
-IV. Desempeñar las comisiones que acuerde el pleno o el Presidente del Tribunal, dando cuenta por escrito con el resultado de la encomienda;
+IV. Desempeñar las comisiones que acuerde la Sala Superior o el Presidente del Tribunal, dando cuenta por escrito con el resultado de la encomienda, y
 
-V. Conocer y resolver mediante juicio las controversias suscitadas por resoluciones sancionatorias que emita la Auditaría Superior del Estado;
+V. Las demás que les fijen la Ley y el Reglamento Interior.
 
-VI. Conocer y resolver mediante juicio las controversias que se susciten derivadas del procedimiento de revisión y fiscalización de las Cuentas Públicas Estatal y Municipales, una vez presentado el informe del resultado correspondiente, y;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-VII. Las demás que les confieran la Constitución Política del Estado Libre y Soberano de Oaxaca, la ley de la materia y disposiciones aplicables.
+###### Artículo 161.
 
-###### Artículo 170.
+Los Magistrados estarán impedidos para conocer de los juicios que se tramiten ante la Sala Superior o las salas unitarias, en los siguientes casos:
 
-El Tribunal funcionará en pleno, el cual se integra con los tres magistrados propietarios y lo presidirá el magistrado presidente del Tribunal de Fiscalización; contra sus resoluciones no procede recurso alguno, el quórum se integrará con la presencia cuando menos de la mayoría de sus miembros.
+I. Cuando tengan algún interés personal en el asunto;
 
-Los magistrados suplentes formarán parte del pleno cuando sustituyan a los magistrados propietarios.
+II. Cuando tengan interés directo o indirecto, su cónyuge, sus parientes consanguíneos en línea recta, sin limitación de grado, sus colaterales hasta el cuarto grado y los parientes por afinidad, hasta el segundo grado;
 
-###### Artículo 171.
+III. Cuando hayan sido apoderados o patronos de alguna de las partes, dentro del mismo negocio;
 
-Las sesiones del pleno serán ordinarias y extraordinarias; las ordinarias se verificarán dentro de los primeros diez días de cada mes, precisamente el día que convoque el presidente del Tribunal y las extraordinarias cuando sean necesarias.
+IV. Cuando hayan dictado el acto impugnado, o intervenido, con cualquier carácter, en la emisión del mismo o en su ejecución;
 
-Las sesiones del pleno serán públicas pero podrán ser privadas cuando así lo consideren pertinente o lo solicite la mayoría, por convenir al orden público.
+V. Cuando figuren como parte en un juicio similar, pendiente de resolución en el Tribunal;
 
-De todas las sesiones, se levantará acta circunstanciada que deberá ser firmada por los magistrados asistentes.
+VI. Cuando estén en una situación que pueda afectar su imparcialidad, en forma análoga o más grave que las mencionadas, y
 
-# LIBRO NOVENO.
+VII. Cuando exista entre el funcionario y alguna de las partes, sus abogados o representantes, una relación de amistad o enemistad manifiesta.
 
-DEL TRIBUNAL DE LO CONTENCIOSO ADMINISTRATIVO.
+En los juicios que se tramiten ante este tribunal no procede la recusación.
 
-## Título Único.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-De su integración y funcionamiento.
+###### Artículo 162.
 
-### Capítulo III.
+La excusa se presentará ante la Presidencia de la Sala Superior, y de ser procedente, se remitirá el asunto al Magistrado que por turno corresponda.
 
-De la residencia del Tribunal de Fiscalización.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-###### Artículo 172.
+###### Artículo 163.
 
-Las audiencias serán públicas, salvo disposición contraria de la ley y se celebrarán en días hábiles.
+El Magistrado que teniendo impedimento para conocer de determinado asunto, no se excuse, o no teniéndolo, se excuse para que se le aparte de su conocimiento, incurrirá en responsabilidad; en este caso, la Sala Superior por conducto del Presidente del Tribunal, lo hará del conocimiento del Congreso del Estado para que inicie el procedimiento de juicio político; sin perjuicio de que si la Sala advierta la comisión de un delito, de vista a la Fiscalía para que determine lo conducente.
 
-###### Artículo 173.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-Las resoluciones del pleno se tomarán por unanimidad o por mayoría de votos. En caso de decisión por mayoría, se asentará el voto en contra particular o razonado.
+###### Artículo 164.
 
-###### Artículo 174.
+La falta definitiva de un magistrado, dará lugar a que el Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura, lo comunique al Gobernador del Estado, para que convoque al procedimiento de selección; mientras tanto, se observará lo que determine el Reglamento Interior del Tribunal. Además el Presidente dará aviso al Consejo de la Judicatura, para que designe al magistrado que lo sustituya en tanto se realiza el procedimiento de selección.
 
-Son facultades exclusivas del pleno, además de las que la Constitución del Estado otorga al Tribunal de Fiscalización, las siguientes:
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-I. Vigilar la autonomía e independencia del Tribunal;
+###### Artículo 165.
 
-II. Recibir y en su caso aceptar o rechazar la renuncia al cargo de Presidente del Tribunal;
+Los magistrados y demás servidores públicos del Tribunal, durante el tiempo de su ejercicio, estarán impedidos para litigar y asesorar, a empresas o particulares, salvo causa propia, y no podrán ocupar cargo alguno en partidos políticos ni desempeñar otro empleo, cargo o comisión en la federación, en cualquier estado de la República, en los municipios o en el ámbito privado; excepto la docencia o la investigación académica, que sea compatible con la magistratura.
 
-III. Designar o remover a propuesta del presidente a quien ocupe la Secretaría General;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-IV. Celebrar acuerdos con instituciones públicas o privadas de los asuntos de su competencia;
+###### Artículo 166.
 
-V. Conocer de la recusación o excusa de los magistrados integrantes;
+Las retribuciones y prestaciones que reciban los magistrados de este Tribunal, serán iguales a las que perciban los magistrados del Tribunal Superior de Justicia y lo que disponga su Reglamento Interior y que estarán señaladas en el presupuesto de egresos del Estado.
 
-VI. Calificar en cada caso los impedimentos o excusas que sus miembros presenten, para conocer de asuntos de la competencia del pleno;
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-VII. Emitir los acuerdos que sean necesarios para la pronta y eficaz administración de justicia, establecer de acuerdo a su competencia los criterios relevantes, en casos de obscuridad o ambigüedad de la ley;
+### Capítulo IV. De la Presidencia
 
-VIII. Proponer ante el Consejo de la Judicatura su anteproyecto de presupuesto de egresos para su inclusión en el proyecto de presupuesto del Poder Judicial;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-IX. Aprobar su reglamento interno; y
+###### Artículo 167.
 
-X. Las demás que le conceda esta ley, el reglamento interno del Tribunal y otras disposiciones legales que resulten aplicables.
+El Tribunal estará presidido por el magistrado de Sala Superior que, en votación secreta por cédula de los integrantes de la Sala Superior, resulte electo. El magistrado electo tomará inmediata posesión de su cargo y rendirá la protesta como presidente del Tribunal de lo Contencioso Administrativo y de Cuentas. Durará en su cargo tres años, con posibilidades de ser reelecto por un periodo adicional. Las ausencias del presidente menores de diez días hábiles, serán cubiertas por el magistrado que este designe. Las ausencias mayores de diez días, pero menores de seis meses, serán cubiertas por el magistrado que designe la Sala Superior en calidad de sustituto.
 
-###### Articulo 175.
+Las ausencias mayores de seis meses, o si ocurriera la falta absoluta del presidente por cualquier causa, la Sala Superior elegirá un presidente interino para que termine el periodo.
 
-El Tribunal, estará presidido por el magistrado que en votación secreta resulte electo en sesión plenaria. El magistrado electo tomará inmediata posesión de su cargo y rendirá la protesta como Presidente del Tribunal de Fiscalización. Durará en su cargo dos años con posibilidades de ser reelecto por un período adicional. En caso de no llegar a un acuerdo resolverá el Consejo de la Judicatura.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-Las ausencias del presidente menores de diez días hábiles serán cubiertas por el magistrado que designe. Las ausencias mayores de diez días pero menores de seis meses, serán cubiertas por el magistrado que designe el pleno en calidad de sustituto.
+###### Artículo 168.
 
-Las ausencias mayores de seis meses, o sí ocurriera la falta absoluta del presidente por cualquier causa, el pleno elegirá un presidente interino para que termine el período.
-
-###### Artículo 176.
-
-Corresponde al presidente del Tribunal de Fiscalización:
+Corresponde al Presidente del Tribunal:
 
 I. Representar legalmente al Tribunal;
 
-II. Representar al Tribunal en todos los actos oficiales, esta representación podrá delegarse en el servidor público del Tribunal que designe el propio presidente;
+II. Representar al Tribunal en todos los actos oficiales; esta representación podrá delegarse en el servidor público del Tribunal que designe el propio presidente;
 
-III. Presidir y dirigir los debates del pleno y las audiencias que celebre, conservando el orden durante su desarrollo;
+III. Presidir y dirigir los debates del Pleno de la Sala Superior y las audiencias que celebre, conservando el orden durante su desarrollo;
 
-IV. Convocar al pleno a sesiones ordinarias las cuales se llevaran dentro de los diez primeros días de cada mes o extraordinarias, cada vez que lo estime conveniente o lo pida cuando menos la mayoría de los magistrados;
+IV. Convocar a sesiones ordinarias y extraordinarias en los días, horas y términos que señale el reglamento interno del tribunal, las sesiones extraordinarias se celebraran cada vez que lo estime necesario el presidente o lo pida la mayoría de los magistrados;
 
-V. Tramitar todos los asuntos de la competencia del pleno, hasta ponerlos en estado de resolución; para ello podrá designar al magistrado ponente en cada asunto;
+V. Tramitar todos los asuntos de la competencia de la Sala Superior, hasta ponerlos en estado de resolución; para ello podrá designar al magistrado ponente en cada asunto;
 
-VI. Autorizar, conjuntamente con el secretario general de acuerdos, los acuerdos que dicte el pleno en los asuntos de su competencia y las actas correspondientes a las sesiones, haciendo constar en éstas, las deliberaciones del pleno, respecto de los asuntos de que se trate;
+VI. Autorizar, conjuntamente con el Secretario General, los acuerdos que dicte la Sala Superior en los asuntos de su competencia y las actas correspondientes a las sesiones, haciendo constar en estas, las deliberaciones, respecto de los asuntos de que se trate;
 
 VII. Vigilar el respeto al fuero constitucional y la inviolabilidad del recinto del Tribunal;
 
-VIII. Proponer al pleno los proyectos de acuerdos generales conducentes al mejoramiento de la administración de justicia;
+VIII. Proponer a los magistrados de la Sala Superior los proyectos de acuerdos generales conducentes al mejoramiento de la justicia administrativa y de cuentas;
 
-IX. Proponer al Pleno del Tribunal, el nombramiento del secretario general de acuerdos;
+IX. Proponer a la Sala Superior del Tribunal, el nombramiento del Secretario General de Acuerdos;
 
 X. Vigilar que la administración de justicia sea pronta y expedita;
 
-XI. Cuidar que los magistrados rindan los datos estadísticos del movimiento de asuntos de su competencia;
+XI. Supervisar que los magistrados rindan los datos estadísticos del movimiento de asuntos de su competencia;
 
-XII. Presentar oportunamente a consideración del pleno, el anteproyecto del presupuesto de egresos del Tribunal;
+XII. Presentar oportunamente a consideración de los magistrados de la Sala Superior, el anteproyecto del presupuesto de egresos del Tribunal elaborado por la Comisión de Administración del Tribunal para su oportuna integración al presupuesto del Poder Judicial;
 
-XIII. Dar cuenta al pleno, al término de cada período de sesiones y cuantas veces sea requerido para ello, de todos los actos que lleve a cabo en el ejercicio de sus funciones;
+XIII. Presentar al Consejo de la Judicatura el proyecto de presupuesto de egresos para su inclusión en el proyecto de presupuesto del Poder Judicial;
 
-XIV. Publicar los acuerdos generales y los propios. En cada caso se indicará la forma de publicación.
+XIV. Rendir anualmente un informe de las actividades del tribunal y de la presidencia;
 
-XV. Proponer al pleno con la anuencia de los magistrados los criterios jurisprudenciales y relevantes en caso de obscuridad o ambigüedad de la ley, para su acuerdo y publicación correspondiente;
+XV. Presidir la Comisión de Administración, Vigilancia y Disciplina del Tribunal y representarla en términos de esta Ley y el Reglamento Interno del Tribunal;
 
-XVI. Poner en conocimiento del pleno del Tribunal las tesis o criterios jurisprudenciales y relevantes;
+XVI. Publicar los acuerdos generales y los propios, en cada caso se indicará la forma de publicación;
 
-XVII. Firmar en representación del Tribunal los informes que le sean solicitados; y
+XVII. Proponer a la Sala Superior los criterios jurisprudenciales y relevantes en caso de obscuridad o ambigüedad de la ley, para su acuerdo y publicación correspondiente;
 
-XVIII. Las demás que señale esta ley, el reglamento interno del Tribunal y otros ordenamientos que resultan aplicables.
+XVIII. Firmar en representación del Tribunal, de la Sala Superior y de la Comisión de Administración, Vigilancia y Disciplina del Tribunal los informes que le sean solicitados;
 
-### Capítulo IV.
+XIX. Celebrar acuerdos con instituciones públicas o privadas sobre asuntos de competencia del Tribunal, y
 
-De los auxiliares del Tribunal.
+XX. Las demás que señale esta ley, el Reglamento Interno del Tribunal y otros ordenamientos que resultan aplicables.
 
-###### Artículo 177.
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+### Capítulo V. De los Auxiliares
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 169.
 
 El Tribunal contará para el ejercicio de sus atribuciones y el cumplimiento de sus obligaciones, con los siguientes auxiliares:
 
-I. Secretario general de acuerdos;
+I. Secretario General de Acuerdos;
 
-II. Secretarios de estudio y cuenta; y
+II. Secretarios de Estudio y Cuenta;
 
-III. Actuarios.
+III. Secretarios de Acuerdos; y
 
-Cuando el Tribunal lo estime conducente para la resolución del asunto, podrá solicitar la opinión de consultores especializados, en los términos regulados en el reglamento interno del Tribunal.
+IV. Actuarios.
+
+Cuando la Sala Superior del Tribunal lo estime conducente para la resolución del asunto, podrá solicitar la opinión de consultores especializados, en los términos regulados en el Reglamento Interior del Tribunal y de acuerdo a las posibilidades presupuestarias.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 170.
+
+El Secretario General de Acuerdos, deberá acreditar experiencia de tres años y reunir los requisitos que se exigen para el Secretario General de Acuerdos del Tribunal Superior de Justicia; sus funciones se encuentran previstas en la Ley y en el Reglamento Interior del Tribunal.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 171.
+
+Los secretarios de estudio y cuenta, de acuerdos, actuarios y consultores, deberán cumplir con los requisitos que se establecen en el Reglamento Interior para cada uno de esos cargos.
+
+> <small>N. DE E. EL DECRETO NÚMERO 1367, EXPEDIDO POR LA LXII LEGISLATURA, PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2015, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE LIBRO.</small>
+
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+# LIBRO NOVENO
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+### Capítulo único. De la Coordinación de Asesores
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 172.
+
+La Coordinación de Asesores de lo Contencioso Administrativo y de Cuentas se integra con el Coordinador de Asesores y el número de Asesores que determine el Consejo de la Judicatura, su finalidad es proporcionar asesoría profesional, especializada en materia fiscal y administrativa de forma gratuita a las personas en materia contenciosa administrativa. En materia de cuentas proporcionarán asesoría profesional, especializada a los servidores públicos de los municipios que se rigen por sistemas normativos internos. Estará a cargo de un coordinador de asesores y su estructura, organización y funcionamiento se establece en el Reglamento Interno y en los acuerdos generales del Consejo de la Judicatura.
+
+###### Artículo 173.
+
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
+
+###### Artículo 174.
+
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
+
+###### Artículo 175.
+
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
+
+###### Artículo 176.
+
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
+
+###### Artículo 177.
+
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 178.
 
-El secretario general de acuerdos, deberá acreditar experiencia de 3 años en materia de fiscalización y reunir los requisitos que se exigen para secretario general de acuerdos del Tribunal Superior de Justicia.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 179.
 
-Son funciones del secretario general de acuerdos:
-
-I. Realizar las notificaciones para la celebración de las sesiones del pleno;
-
-II. Preparar la agenda de los asuntos que se desahogarán en las sesiones del pleno y someterla a consideración del magistrado presidente para su aprobación;
-
-III. Concurrir a las sesiones del pleno y dar fe de sus acuerdos;
-
-IV. Redactar las actas plenarias y verificar que queden debidamente firmadas y transcritas en los libros correspondientes;
-
-V. Dar cuenta al pleno, oportuna y exactamente con los asuntos de la competencia del mismo;
-
-VI. Autorizar los acuerdos, resoluciones y actas del pleno; los acuerdos de su presidente, aún aquellos de las comisiones en que éste forme parte;
-
-VII. Practicar las diligencias que ordene el pleno;
-
-VIII. Certificar los testimonios que se expidan de los asuntos del pleno y de los documentos que se encuentren en el archivo general y sean ordenados por la superioridad o solicitados por parte interesada;
-
-IX. Desahogar la correspondencia del pleno y remitir a su destinatario los exhortos y despachos recibidos para su tramitación;
-
-X. Distribuir por riguroso turno los asuntos entre los integrantes del Tribunal, para la elaboración del proyecto de resolución;
-
-XI. Dar fe de los acuerdos de trámite en los asuntos de la competencia del Tribunal, hasta ponerlos en estado de resolución;
-
-XII. Vigilar que los acuerdos del Tribunal se cumplan y que el personal adscrito cumpla con sus deberes; en caso contrario informará al presidente, quien podrá dar cuenta a la comisión de disciplina del Consejo de la Judicatura para los efectos legales a que haya lugar;
-
-XIII. Supervisar que las notificaciones de los acuerdos y resoluciones se hagan en tiempo y forma;
-
-XIV. Ser responsable de los sellos oficiales, documentos y valores depositados;
-
-XV. Recibir los escritos, promociones y demás documentos que le sean presentados, dar cuenta con ellos a su superior inmediato dentro de los plazos legales;
-
-XVI. Asentar en los expedientes las diligencias, certificaciones y razones ordenadas, desahogando el acuerdo correspondiente; y
-
-XVII. Las demás que señale esta ley, el reglamento interno del Tribunal, el pleno o el presidente del Tribunal de Fiscalización en todo lo referente al servicio.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 180.
 
-Los requisitos para ocupar los demás cargos, así como sus respectivas atribuciones serán los que establezca el reglamento interno del Tribunal.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 181.
 
-La justicia en materia administrativa, se impartirá por el Tribunal de lo Contencioso Administrativo y tendrá a su cargo resolver las controversias que se susciten entre la Administración Pública Estatal y los particulares; así como las que se susciten entre los Municipios entre sí o entre éstos y el Gobierno de Estado; como consecuencia de los convenios que celebren para el ejercicio de funciones, de ejecución de obras o prestación de servicios públicos municipales.
-
-La Ley de Justicia Administrativa establecerá las normas para su organización y funcionamiento, el procedimiento y los recursos contra sus resoluciones; con sujeción a los principios de igualdad, publicidad, audiencia y legalidad.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 182.
 
-Todo lo que se refiere a la estructura orgánica del Tribunal de lo Contencioso Administrativo se sujetará a lo previsto en el Libro Segundo de la Ley de Justicia Administrativa; y a lo dispuesto en esta ley orgánica y el reglamento interno del Tribunal.
-
-Los magistrados del Tribunal de lo Contencioso Administrativo, durante el tiempo de su ejercicio, no podrán ocupar cargo en partidos políticos ni desempeñar otro empleo, cargo o comisión en la federación, en cualquier estado de la república, en los municipios o en el ámbito privado, excepto la docencia o la investigación académica.
-
-Las retribuciones y prestaciones que reciban los magistrados propietarios de este Tribunal, serán igual a la que perciban los magistrados del Tribunal Superior de Justicia y lo que disponga su reglamento interno y que estarán señaladas en el Presupuesto de Egresos del Estado.
-
-Las retribuciones y prestaciones que reciban los magistrados suplentes serán conforme al presupuesto de egresos y el reglamento interno.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
 
 T R A N S I T O R I O S:
 
@@ -2832,3 +2794,27 @@ PRIMERO. El presente Decreto se publicará en el periódico oficial del Estado y
 SEGUNDO. Los procedimientos penales iniciados, que se inicien o se encuentren pendientes de resolución por hechos suscitados con anterioridad a la entrada en vigor del presente Decreto, se seguirán conforme a las disposiciones normativas aplicables en el momento de su comisión.
 
 TERCERO. Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1367.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE JUSTICIA DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE OAXACA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Los magistrados integrantes de los Tribunales Contencioso Administrativo y de Fiscalización que se fusionan estarán en funciones hasta terminar el periodo por el que fueron designados, al término del cual podrán participar en el proceso de elección al cargo de magistrado del Tribunal de lo Contencioso Administrativo y de Cuentas.
+
+TERCERO. La adscripción de los magistrados integrantes de los Tribunales que se fusionan se hará en los términos establecidos en el vigésimo séptimo y vigésimo octavo transitorios del decreto número 1263, publicado en el Extra, del Periódico Oficial de fecha treinta de junio de dos mil quince, dentro de los sesenta días que sigan a la publicación del presente decreto. En ese plazo el Consejo de la Judicatura emitirá los acuerdos generales para la instalación formal del Tribunal.
+
+CUARTO. El Consejo de la Judicatura adscribirá al personal de la Unidad de Capacitación del Tribunal de lo Contencioso Administrativo, a la Escuela Judicial. Asimismo readscribirá al personal administrativo de los tribunales que se fusionan al Consejo de la Judicatura en las áreas administrativas afines a aquellas en las que se haya desempeñado. Los jueces adscritos al Tribunal de lo Contencioso administrativo del Poder Judicial serán cambiados de adscripción a los juzgados de primera instancia que determine el Consejo de la Judicatura.
+
+QUINTO. Todas las referencias a los tribunales que se fusionan, en las leyes y reglamentos, se entenderán referidas al Tribunal de lo Contencioso Administrativo y de Cuentas en términos de esta Ley y los procedimientos y resoluciones se seguirán en los términos de la ley vigente al momento de su inicio entendidas las referencias a juzgados de la Ley de Justicia Administrativa como hechas a las Salas Unitarias del Tribunal de lo Contencioso Administrativo y de Cuentas.
+
+SEXTO. El Tribunal de lo Contencioso Administrativo y de Cuentas y el Consejo de la Judicatura, en la esfera de sus atribuciones, expedirán la normatividad necesaria para el cumplimiento de esta reforma y aquel conocerá de las responsabilidades administrativas graves hasta en tanto se cumplan los supuestos que establecen los artículos segundo y cuarto transitorio del decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de combate a la corrupción, publicado en el Diario Oficial de la Federación el 27 de mayo de 2015.
+
+SÉPTIMO.- En tanto entran en vigor las leyes en materia de combate a la corrupción en el Estado, se aplicará la Ley de Responsabilidad de los Servidores Públicos del Estado y Municipios de Oaxaca vigente.
+
+OCTAVO. La Sala Especializada de Justicia Indígena se integrara conforme al Décimo Sexto artículo Transitorio, última parte del Decreto 1263 publicado en el Extra del Periódico Oficial de treinta de junio de dos mil quince.
+
+NOVENO.- El tribunal presupuestará las partidas necesarias para la dirección de igualdad de género y la sala de justicia indígena.
+
+DÉCIMO. Se abrogan todas las disposiciones que se opongan a lo que establece el presente decreto.
