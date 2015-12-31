@@ -4,7 +4,7 @@ identifier: "OAX-ley-organica-municipal-del-estado-de-oaxaca-78509"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-11-30"
-last_updated: "2015-08-21"
+last_updated: "2015-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=78509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Oaxaca, el martes 30 de noviembre de 2010.
 
@@ -1051,7 +1051,11 @@ XV.- Promover la integración del Concejo Municipal de Protección Civil;
 
 XVI.- Informar durante las sesiones ordinarias del Ayuntamiento sobre el estado que guarda la administración municipal y del avance de sus programas;
 
-XVII.- Vigilar la correcta administración del patrimonio municipal;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XVII.- Recepcionar los recursos provenientes de los Fondos de Participaciones, Aportaciones, que le corresponda al Municipio, así como los asignados en el Decreto de Presupuesto de Egresos de la Federación, Programas, Convenios o Subsidios Federales, vigilando la correcta administración de los mismos, así como del patrimonio municipal
+
+Para lo cual deberá notificar a la Secretaría de Finanzas las cuentas bancarias productivas específicas receptoras y administradoras de los recursos señalados en el párrafo anterior.
 
 > <small>(REFORMADA, P.O. 26 DE JULIO DE 2014)</small>
 
@@ -2694,3 +2698,9 @@ P.O. 21 DE AGOSTO DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO.- Quedan derogadas todas la (sic) disposiciones legales que se opongan a esta reforma.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 1387.- MEDIANTE EL CUAL SE, REFORMA LA FRACCIÓN XVII DEL ARTÍCULO 68, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE OAXACA".]
+
+ÚNICO: El presente Decreto entrará en vigor el uno de enero de dos mil dieciséis, previa publicación en el Órgano de difusión oficial del Estado.
