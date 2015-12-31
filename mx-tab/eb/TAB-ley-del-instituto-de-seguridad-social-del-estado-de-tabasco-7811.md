@@ -4,7 +4,7 @@ identifier: "TAB-ley-del-instituto-de-seguridad-social-del-estado-de-tabasco-781
 country: "mx"
 rank: "ley"
 publication_date: "1984-08-01"
-last_updated: "1999-06-16"
+last_updated: "2015-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "TAB"
 
 LEY DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE TABASCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JUNIO DE 1999.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE SEGURIDAD SOCIAL DEL ESTADO DE TABASCO, PUBLICADA EN EL P.O. DE 31 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Tabasco, el 1 de agosto de 1984.
 
@@ -213,7 +215,7 @@ La administración y control de los servicios del Instituto estará a cargo de u
 
 (DEROGADO, P.O. 16 DE JUNIO DE 1999)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 16 DE JUNIO DE 1999)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE JUNIO DE 1999)</small>
 
 ###### Artículo 20.
 
@@ -361,7 +363,7 @@ c).- El 0.5% del sueldo base para el seguro de retiro.
 
 d).- El 5.0% del sueldo base para prestaciones económicas, sociales, pensiones y jubilaciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 1987)</small>
 
 ###### ARTICULO 32.
 
@@ -657,7 +659,7 @@ El monto de las pensiones se calculará aplicando las siguientes reglas:
 
 I.- Cuando el servidor público fallezca después de quince años de servicio, la pensión se otorgará en los términos del artículo 49 de este ordenamiento, y
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE DICIEMBRE DE 1987)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE DICIEMBRE DE 1987)</small>
 
 II.- Al fallecer el jubilado o pensionado por vejez o invalidez, sus deudos en el orden establecido por esta Ley, continuarán percibiendo esta pensión.
 
@@ -1267,7 +1269,7 @@ LIC. JOSÉ EDUARDO BELTRAN HERNANDEZ
 
 SECRETARIO DE GOBIERNO
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 19 DE DICIEMBRE DE 1987.
 
@@ -1281,7 +1283,7 @@ UNICO.- Este Decreto surtirá sus efectos legales a partir de su publicación en
 
 P.O. 16 DE JUNIO DE 1999.
 
-SE TRANSCRIBEN UNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
+SE TRANSCRIBEN ÚNICAMENTE LOS TRANSITORIOS DEL DECRETO DE REFORMAS QUE SE RELACIONAN CON LA LEY.
 
 PRIMERO.- La relación laboral de los trabajadores de los organismos que cambian su naturaleza jurídica, continuará rigiéndose como hasta ahora por la Ley de los Trabajadores al Servicio del Estado de Tabasco y demás disposiciones legales aplicables.
 
@@ -1290,3 +1292,109 @@ CUARTO.- Las disposiciones del presente ordenamiento serán incorporadas en lo c
 QUINTO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
 
 SEXTO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO 294 POR EL QUE "SE EXPIDE LA LEY DE SEGURIDAD SOCIAL DEL ESTADO DE TABASCO”.]
+
+PRIMERO.- La presente Ley entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se abroga la Ley del Instituto de Seguridad Social del Estado de Tabasco de fecha 01 de agosto de 1984, publicada en el suplemento del Periódico Oficial del Gobierno del Estado número 4371; y se derogan todas las demás disposiciones legales que se opongan a la presente Ley.
+
+TERCERO.- Todos los procedimientos relacionados con las prestaciones solicitadas al ISSET, que se encuentren en trámite, se regirán por la ley abrogada.
+
+CUARTO.- Todos los recursos humanos, financieros y materiales con que cuente el Órgano desconcentrado ISSET, pasarán al nuevo organismo descentralizado ISSET, sin perjuicio de los derechos laborales de los trabajadores, así como los activos y pasivos del organismo respectivo.
+
+Las dependencias competentes del Gobierno del Estado coadyuvarán a la realización de los trámites correspondientes, según su competencia.
+
+QUINTO.- Dentro de los cuarenta y cinco días siguientes al inicio de su vigencia, se instalará la Junta de Gobierno. El actual Director continuará en su encargo, salvo determinación en contrario del Titular del Poder Ejecutivo.
+
+SEXTO.- A los asegurados que se encuentren cotizando al ISSET a la fecha de entrada en vigor de la presente Ley, se les reconocerán los períodos cotizados con anterioridad, así como los derechos adquiridos.
+
+Para efectos del Artículo 6, Fracción VII, respecto de aportación extraordinaria para la afiliación de ascendientes, éste se aplicará para nuevas contrataciones.
+
+SÉPTIMO.- Para cumplir con lo señalado en el artículo 34 de esta Ley, el aumento de la cuota será gradual y se aplicará de manera proporcional a cada una de las prestaciones, hasta alcanzar el 16% de cuota establecida, de acuerdo a la siguiente tabla:
+
+Porcentaje a aumentar Año CUOTA
+
+5 PRIMERO 13%
+
+2 SEGUNDO 15%
+
+1 TERCERO 16%
+
+El primer incremento se aplicará a partir de la entrada en vigor de la LSSET y en lo subsecuente se comenzará a aplicar a partir del día 01 del mes de enero del año siguiente.
+
+OCTAVO.- Aquellos asegurados que no tengan derecho a pensión alguna de las amparadas por la ley abrogada, deberán de apegarse a las nuevas disposiciones de la presente Ley.
+
+NOVENO.- A partir del día siguiente a la publicación de esta Ley en el Periódico Oficial del Gobierno del Estado, los asegurados del régimen de la ley abrogada que tengan derecho a pensión, tendrán seis meses para solicitar por escrito al ISSET su permanencia en el régimen o su transición al régimen establecido en esta Ley.
+
+La solicitud al ISSET se hará a través de los Entes Públicos en los que laboren los asegurados, en los términos que se establezcan y se le hayan dado a conocer, y ésta será definitiva, irrenunciable y no podrá modificarse. El formato que se apruebe para ejercer este derecho deberá ser publicado en el Periódico Oficial del Gobierno del Estado.
+
+Cuando el asegurado no manifieste la opción que elige dentro del plazo previsto, se entenderá que opta por transitar al régimen previsto en esta Ley.
+
+DÉCIMO.- Los asegurados que hubieran optado por transitar del régimen anterior de pensiones al régimen actual, contarán en su cuenta individual con un capital inicial equivalente al monto de sus aportaciones según el artículo 31, fracción d), de la ley abrogada, y además tendrán derecho a la acreditación de una prima de transición.
+
+DÉCIMO PRIMERO.- El valor de la prima de transición será una cantidad consistente en un porcentaje, del monto total de sus aportaciones, que será fijado por la Junta de Gobierno, misma cantidad que también será utilizada como capital inicial para su cuenta individual.
+
+DÉCIMO SEGUNDO.- A los Trabajadores que no opten por la acreditación de la prima de transición del Instituto, a partir de la entrada en vigor de la presente Ley, se les aplicarán las siguientes modalidades:
+
+1. Las prestaciones otorgadas a estos asegurados serán las siguientes:
+
+I.- PRESTACIONES MÉDICAS:
+
+a) Preventiva;
+
+b) Curativa; y
+
+c) De maternidad;
+
+II.- PENSIONES POR:
+
+a) Jubilación;
+
+b) Retiro por edad avanzada y tiempo de servicio;
+
+c) Invalidez;
+
+d) Viudez;
+
+e) Orfandad; y
+
+f) La Ascendencia.
+
+III.- PRESTACIONES SOCIOECONÓMICAS:
+
+a) Seguro de vida;
+
+b) Seguro de desempleo;
+
+c) Apoyo de gastos funerarios; y
+
+d) Culturales, recreativas, deportivas y asistenciales.
+
+IV.- CRÉDITOS:
+
+a) A corto y mediano plazo;
+
+b) Hipotecarios; y
+
+V.- FONDO DE AHORRO PARA EL RETIRO.
+
+2. El esquema de Cuotas y aportaciones será el siguiente:
+
+Todo Servidor Público comprendido en el artículo 2 de la presente Ley, tienen la obligación de contribuir con sus cuotas al Instituto con el porcentaje de su sueldo base mensual que se detalla en el artículo 34 de la presente Ley, en los términos señalados en el Séptimo Transitorio.
+
+Los Entes Públicos, tienen la obligación de aportar lo estipulado en el artículo 35 de la presente Ley.
+
+3. Los asegurados sin distinción de sexo que hubieren cotizado treinta años o más y cumplan con la edad establecida en el artículo 86 de la LSSET, tendrán derecho a una pensión por Jubilación equivalente al promedio mensual de su sueldo base de los tres últimos años y su percepción comenzará a partir del día siguiente a aquel en que el asegurado hubiese disfrutado el último sueldo antes de causar baja;
+
+4. Los asegurados que cumplan sesenta años de edad o más y veinticinco o más años de cotización al Instituto, tendrán derecho a una pensión de Retiro por edad avanzada y tiempo de servicio equivalente a un porcentaje del promedio de sueldo base de los últimos tres años, que se define de conformidad con el artículo 88 de la LSSET.
+
+5. A los asegurados a que se refiere este artículo, en caso de invalidez, estarán sujetos a un período mínimo de cotización de cinco años para tener derecho a pensión, misma que se otorgará por un porcentaje del promedio de sueldo base de los últimos tres años, de conformidad con el artículo 89 de la LSSET.
+
+Los beneficiarios del asegurado fallecido, en el orden que establece la sección de pensión por Fallecimiento, tendrán derecho a una pensión equivalente al 100% de la que hubiese correspondido al trabajador por concepto de pensión por invalidez.
+
+DÉCIMO TERCERO.- Los asegurados que hayan elegido la acreditación de la prima de transición, a efectos de tener derecho a lo previsto en el artículo 66 de la LSSET, deberán cumplir los requisitos de edad o tiempo de cotización, estipulados en los artículos 86, 88, 90 y 94 de esta LSSET.
+
+Las demás prestaciones y obligaciones serán las consideradas en los términos de la presente LSSET.
