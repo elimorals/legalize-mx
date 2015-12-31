@@ -4,7 +4,7 @@ identifier: "CHP-ley-de-mejora-regulatoria-para-el-estado-y-los-municipios-91563
 country: "mx"
 rank: "ley"
 publication_date: "2012-11-28"
-last_updated: "2012-11-28"
+last_updated: "2015-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91563&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 LEY DE MEJORA REGULATORIA PARA EL ESTADO Y LOS MUNICIPIOS DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TERCERO TRANSITORIO DE LA LEY DE MEJORA REGULATORIA PARA EL ESTADO Y LOS MUNICIPIOS DE CHIAPAS, PUBLICADA EN EL P.O. DE 31 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Chiapas, el miércoles 28 de noviembre de 2012.
 
@@ -33,9 +35,7 @@ Decreto Número 023
 
 La Honorable Sexagésima Quinta Legislatura Constitucional del Estado Libre y Soberano de Chiapas, en uso de las facultades que le concede la Constitución Política local; y,
 
-Considerando
-
-.
+Considerando...
 
 Por las anteriores consideraciones este Honorable Congreso del Estado, ha tenido a bien emitir la siguiente:
 
@@ -530,3 +530,25 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I del artículo 44 de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la ciudad de Tuxtla Gutiérrez, Chiapas; a los nueve días del mes de noviembre del año dos mil doce.
 
 Juan Sabines Guerrero, Gobernador del Estado.- Noé Castañón León, Secretario General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO,]</small>
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 041 LEY DE MEJORA REGULATORIA PARA EL ESTADO Y LOS MUNICIPIOS DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+Artículo Tercero.- Se abroga la Ley de Mejora Regulatoria para el Estado y los Municipios de Chiapas, publicado mediante Decreto número 023, publicada en el Periódico Oficial en fecha veintiocho de noviembre del año dos mil doce.
+
+Artículo Cuarto.- En un plazo no mayor a 60 días hábiles, contados a partir de la publicación del presente Decreto, el titular de la Secretaría de Economía deberá someter a consideración del Ejecutivo del Estado el Reglamento de la Ley para su expedición y publicación en el Periódico Oficial del Estado.
+
+Artículo Quinto.- Los procedimientos y demás asuntos relacionados con los instrumentos a que se refiere esta Ley, que hayan iniciado con anterioridad a su entrada en vigor, se tramitarán y resolverán conforme a las disposiciones que les dieron origen, en lo que no se oponga a esta Ley.
+
+Artículo Sexto.- En un plazo no mayor a 45 días hábiles contados a partir de la publicación del presente Decreto, deberá quedar instalado el Consejo de Mejora Regulatoria del Estado, de acuerdo a la estructura que le ha sido asignada por medio del presente Decreto.
+
+Artículo Séptimo.- Las Dependencias y Entidades de la Administración Pública Estatal, contarán con el término de 45 días hábiles, contados a partir de la publicación del presente Decreto para dar cumplimiento al artículo 57 de la presente Ley.
+
+Asimismo, los Ayuntamientos contarán con el término de 45 días hábiles, contados a partir de la publicación del presente Decreto para dar cumplimiento al artículo 57 de la presente Ley.
