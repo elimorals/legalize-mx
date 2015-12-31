@@ -4,7 +4,7 @@ identifier: "BCS-ley-que-regula-el-almacenaje-distribucion-venta-y-consumo-24773
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-07"
-last_updated: "2015-08-31"
+last_updated: "2015-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY QUE REGULA EL ALMACENAJE, DISTRIBUCIÓN, VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Número Extraordinario del Boletín Oficial del Estado de Baja California Sur, el lunes 7 de enero de 2002.
 
@@ -699,7 +699,9 @@ e).- Venta previa.- Se considera la venta del servicio de Bar para un evento, si
 
 Los establecimientos referidos en el artículo 11 de la presente ley, se sujetarán al horario siguiente:
 
-I. Las licorerías así como los abarrotes, mini-super y supermercados con venta de licores y/o cerveza, operarán de las 8 a las 22 horas, de lunes a domingo;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2015)</small>
+
+I. Las licorerías así como los abarrotes, mini-super y supermercados con venta de licores y/o cerveza, operarán de las 8 a las 22 horas, de lunes a domingo. A partir de esa hora solo podrán tener actividad mediante el pago de horas extras.
 
 II. Las cervecerías, cantinas, bares, y restaurant-bar, abrirán de las 08 a las 02 horas del día siguiente, de lunes a domingo. A partir de esa hora solo podrán tener actividad mediante el pago de horas extras.
 
@@ -1204,3 +1206,11 @@ PRIMERO.- El presente decreto entrará en vigor el día 01 de Octubre de 2015, p
 SEGUNDO.- Los Ayuntamientos de la Entidad deberán realizar los ajustes y adecuaciones que correspondan a su reglamentación municipal, con motivo de las modificaciones contenidas en el presente decreto, las cuales deberán entrar en vigor el día 01 de Octubre de 2015.
 
 TERCERO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+B.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2322.- SE REFORMAN LA FRACCIÓN I DEL ARTÍCULO 19, DE LA LEY QUE REGULA EL ALMACENAJE, DISTRIBUCIÓN, VENTA Y CONSUMO DE BEBIDAS ALCOHÓLICAS EN EL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
