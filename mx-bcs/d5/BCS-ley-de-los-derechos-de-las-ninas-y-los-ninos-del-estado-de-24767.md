@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-los-derechos-de-las-ninas-y-los-ninos-del-estado-de-2476
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-07"
-last_updated: "2015-05-20"
+last_updated: "2015-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24767&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 LEY DE LOS DERECHOS DE LAS NIÑAS Y LOS NIÑOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE MAYO DE 2015.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADA EN EL B.O. EL 31 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Número Extraordinario al Boletín Oficial del Estado de Baja California Sur, el lunes 7 de enero de 2002.
 
@@ -1008,3 +1010,37 @@ CUARTO: Se derogan todas aquellas disposiciones de igual o menor rango que se op
 B.O. 20 DE MAYO DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2277.- SE EXPIDE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- La presente Ley entrará en vigor el primero de enero del año dos mil dieciséis, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se abroga la Ley de los Derechos de las Niñas y Niños del Estado de Baja California Sur, publicada en el Boletín Oficial del Gobierno del Estado en fecha 07 de enero de 2002, así como todas las reformas que se opongan al presente Decreto.
+
+TERCERO.- A partir de la entrada en vigor del presente decreto, la Procuraduría de la Defensa del Menor y la Familia del Estado, sólo modifica su denominación por la de Procuraduría de Protección de Niñas, Niños y Adolescentes, por lo que conserva su naturaleza jurídica y objeto, así como las obligaciones y derechos que le correspondían hasta la vigencia de esta Ley. Se entenderán referidas a ésta todas las menciones que en leyes y reglamentos se hagan de aquélla.
+
+Respecto de los adultos mayores, las personas adultas con discapacidad y en general la población vulnerable serán atendidas por el área que el Sistema Estatal DIF determine, para lo cual deberá modificar su reglamento interno en un término no mayor de 180 días naturales.
+
+CUARTO.- El Sistema Estatal de Protección y los Sistemas Municipales de Protección, deberán integrarse a más tardar dentro de los 180 días naturales siguientes a la entrada en vigor de la presente Ley.
+
+QUINTO.- En la esfera de su competencia, las disposiciones reglamentarias derivadas de la presente Ley, deberán ser expedidas por el Ejecutivo Estatal en un plazo no mayor a los 180 días naturales, contados a partir de la entrada en vigor de la presente Ley.
+
+SEXTO.- Los Municipios del Estado, deben expedir las disposiciones reglamentarias aplicables en un plazo no mayor a los 180 días naturales, contados a partir de la entrada en vigor de la presente Ley.
+
+SÉPTIMO.- En su primera sesión, el Presidente del Sistema Estatal de Protección someterá a consideración y aprobación de dicho Sistema, los lineamientos para su integración, organización y funcionamiento, así como la designación del Titular de la Secretaría Ejecutiva.
+
+OCTAVO.- Los Sistemas de Protección Integral Estatal y Municipales deberán integrarse a más tardar dentro de los 180 días naturales siguientes a la entrada en vigor de la presente Ley. El Programa Estatal y los Programas Municipales, tendrán que ser aprobados dentro de los 60 días naturales siguientes a la instalación del Sistema Estatal de Protección y los Sistemas Municipales, respectivamente.
+
+NOVENO.- De conformidad con el Transitorio Décimo de la Ley General de los Derechos de las Niñas, Niños y Adolescentes, para efectos de lo dispuesto en la fracción VIII del artículo 109 de la presente Ley, en tanto entran en vigor las disposiciones aplicables del Código Nacional de Procedimientos Penales, se aplicarán las medidas establecidas en la legislación procesal penal correspondiente.
+
+DÉCIMO.- Las Instituciones o Centros de Asistencia Social que se encuentren operando con antelación a la entrada en vigor de la Ley General de los Derechos de las Niñas, Niños y Adolescentes, deben realizar las adecuaciones conducentes dentro del plazo contemplado en el transitorio décimo primero del decreto que expide ese ordenamiento.
+
+DÉCIMO PRIMERO.- El Congreso del Estado, a propuesta del Ejecutivo Estatal, establecerá una partida presupuestal para coadyuvar en la implementación de las adecuaciones referidas en el transitorio anterior y la operación de las Instituciones o Centros de Asistencia Social dependientes del Sistema.
+
+DÉCIMO SEGUNDO.- Para los efectos correspondientes, se entenderán como conceptos sinónimos el de hogar voluntario al de familia de acogida; y el relativo a hogar sustituto u hogar sustituto en vías de adopción al de familia de acogimiento pre adoptivo.
+
+DÉCIMO TERCERO.- A partir del ejercicio fiscal de 2016, las diferentes instancias de los tres órdenes de gobierno en el Estado de Baja California Sur, deberán incluir en su Presupuesto Operativo Anual (POA), los recursos necesarios para operar los programas de fortalecimiento, organización y funcionamiento para la Protección de las Niñas, Niños, y Adolecentes en la Entidad. Así mismo el Ejecutivo del Estado gestionará ante la Cámara de Diputados y la Secretaría de Hacienda y Crédito Público, la asignación de partidas presupuestales para el Estado de Baja California Sur, destinadas al fortalecimiento de las entidades encargadas de la aplicación y observancia de esta Ley.
+
+DÉCIMO CUARTO.- El Congreso del Estado de Baja California Sur, con el objeto de dar cumplimiento en la ley que se expide por virtud del presente decreto, en un plazo de doce meses, deberá realizar la armonización del marco jurídico estatal a efectos de implementar los planes y programas que deriven del mismo, así como de garantizar y reconocer los derechos consagrados en el presente ordenamiento.
