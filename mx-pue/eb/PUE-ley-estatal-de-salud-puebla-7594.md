@@ -4,7 +4,7 @@ identifier: "PUE-ley-estatal-de-salud-puebla-7594"
 country: "mx"
 rank: "ley"
 publication_date: "1994-11-15"
-last_updated: "2015-07-28"
+last_updated: "2015-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7594&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ESTATAL DE SALUD DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Puebla, el martes 15 de noviembre de 1994.
 
@@ -185,7 +185,9 @@ III. Cementerios, crematorios y funerarias;
 
 IV. Limpieza pública;
 
-V. Rastros;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+V. Rastros, unidades de sacrificio o mataderos;
 
 VI. Agua potable y alcantarillado;
 
@@ -379,13 +381,17 @@ IV. Fomentar la educación física aeróbica con el propósito de prevenir la ob
 
 V. Coordinar con las autoridades educativas la implementación de un programa de registro de peso y talla de los educandos que tengan tendencias a la obesidad o que estén desnutridos; lo que se hará del conocimiento de los padres para lo que corresponda;
 
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-VI. Emitir un listado de productos con bajo o nulo valor nutricional, así como aquéllos que causen daño directo e inmediato a la salud, manteniéndolo actualizado y difundirlo a través de las autoridades educativas de la Entidad, así como difundir los resultados que se alcancen entre los padres de familia; y
+VI. Emitir un listado de productos con bajo o nulo valor nutricional, así como aquéllos que causen daño directo e inmediato a la salud, manteniéndolo actualizado y difundirlo a través de las autoridades educativas de la Entidad, así como difundir los resultados que se alcancen entre los padres de familia;
 
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-VII. Vigilar que los establecimientos destinados a la venta y consumo de alimentos y/o bebidas que cuenten con más de dos sucursales, publiquen en un lugar visible el listado, carta o menú, las calorías que contiene cada alimento o bebida.
+VII. Vigilar que los establecimientos destinados a la venta y consumo de alimentos y/o bebidas que cuenten con más de dos sucursales, publiquen en un lugar visible el listado, carta o menú, las calorías que contiene cada alimento o bebida; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+VIII. Promover acciones en materia de control sanitario de los establecimientos y servicios establecidos en la fracción V del apartado B del artículo 4º de la presente Ley, incluyendo la capacitación.
 
 ###### ARTICULO 13.
 
@@ -2005,23 +2011,29 @@ Para toda actividad relacionada con este capítulo, se estará a lo dispuesto po
 
 ### CAPITULO VI. RASTROS
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 212.
 
-Para los efectos de ésta Ley, se entiende por rastro, el establecimiento destinado al sacrificio de animales para el consumo público.
+Para los efectos de esta Ley, se entiende por rastro y por unidad de sacrificio o matadero, a todo establecimiento dedicado al sacrificio y faenado de animales para abasto, de acuerdo con la capacidad diaria de sacrificio que se determine en la normatividad aplicable.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 213.
 
-El funcionamiento, aseo y conservación de los rastros municipales, quedará a cargo de la Autoridad Municipal correspondiente. Si los rastros fueren particulares, dichas actividades recaerán en sus propietarios o administradores, pero siempre bajo la verificación de las Autoridades Municipales competentes. Quedan sujetos en ambos casos, a la observancia de lo dispuesto por esta Ley y otras disposiciones legales aplicables. Queda prohibido el funcionamiento de rastros no autorizados.
+El funcionamiento, aseo y conservación de los rastros municipales, quedará a cargo de la Autoridad Municipal correspondiente. Cuando los rastros, unidades de sacrificio o mataderos fueren particulares, dichas actividades recaerán en sus propietarios o administradores, pero siempre bajo la verificación de las Autoridades Municipales competentes. Quedan sujetos en ambos casos, a la observancia de lo dispuesto por esta Ley y otras disposiciones legales aplicables. Queda prohibido el funcionamiento de rastros, unidades de sacrificio o mataderos no autorizados.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 214.
 
-Los animales deberán ser examinados en pie y en canal por la Autoridad Sanitaria del Estado, la cual señalará que carne puede destinarse a la venta pública.
+Los animales deberán ser examinados en canal por la Autoridad Sanitaria del Estado o aquella autorizada del Municipio, esta última de acuerdo con los convenios que para tal efecto se celebren, la cual señalará que carne puede destinarse a la venta pública.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 215.
 
-Queda prohibido el sacrificio de animales en domicilios particulares o en la vía pública, cuando las carnes sean destinadas al consumo público.
-
-Podrá sacrificarse ganado menor en domicilios particulares solo en el caso de que se destine la carne y los demás productos derivados de éste, al consumo familiar.
+Queda prohibido el sacrificio de animales en domicilios particulares o en la vía pública, cuando las carnes sean destinadas al consumo público, toda vez que sólo podrá realizarse en los rastros, unidades de sacrificio o mataderos. Podrá sacrificarse ganado menor en domicilios particulares sólo en el caso de que se destine la carne y los demás productos derivados de éste, al consumo familiar.
 
 ###### ARTICULO 216.
 
@@ -2035,9 +2047,11 @@ La Autoridad Sanitaria del Estado en el ámbito de su respectiva competencia, en
 
 La Norma Oficial Mexicana aplicable, establecerá los requisitos sanitarios y medidas de funcionamiento que deberán cumplir los vehículos para el transporte de animales destinados al sacrificio.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 219.
 
-El sacrificio de animales en los rastros, se efectuará en los días y horas que fijen las Autoridades Sanitarias del Estado y Municipal, tomando en consideración las condiciones de lugar y los elementos de que dispongan dichas autoridades para realizar las verificaciones sanitarias.
+El sacrificio de animales en los rastros, unidades de sacrificio o mataderos, se efectuará en los días y horas que fijen las Autoridades Sanitarias del Estado y Municipal, tomando en consideración las condiciones de lugar y los elementos de que dispongan dichas autoridades para realizar las verificaciones sanitarias.
 
 ### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
 
@@ -2333,7 +2347,7 @@ II. La posesión, comercio, importación, distribución, transporte y utilizaci�
 
 III. Los libros de control de estupefacientes o substancias psicotrópicas así como los recetarios destinados a la prescripción de estupefacientes;
 
-IV. La internación de cadáveres de seres humanos en el territorio estatal, su traslado de esta entidad federativa a otra o al extranjero, y el embalsamamiento (sic); y
+IV. La internación de cadáveres de seres humanos en el territorio estatal, su traslado de esta entidad federativa a otra o al extranjero, y el embalsamamiento; y
 
 V. La internación en el territorio estatal o la salida de él, de órganos y tejidos de seres humanos, incluyendo la sangre, componentes sanguíneos, células progenitoras hematopoyéticas y hemoderivados.
 
@@ -2435,6 +2449,8 @@ La resolución de revocación surtirá efectos, en su caso, de clausura definiti
 
 ### CAPITULO UNICO
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 276.
 
 Para los efectos de ésta Ley, se entiende por certificado la constancia expedida en los términos que establezcan las Autoridades Sanitarias del Estado, para la comprobación o información de determinados hechos.
@@ -2471,9 +2487,7 @@ Las Autoridades Judiciales o Administrativas sólo admitirán como válidos los 
 
 ###### ARTICULO 281.
 
-Corresponde a las Autoridades Sanitarias del Estado, la vigilancia del cumplimiento de esta Ley y demás disposiciones que se dicten con base en ella.
-
-Con respecto a las funciones de control y regulación sanitaria que se descentralicen a los Municipios, la Secretaría de Salud Pública del Estado podrá desarrollar acciones para evitar riesgos o daños a la salud de la población. En todos estos casos, la propia Secretaría pondrá en conocimiento de las Autoridades Municipales las acciones que lleve a cabo.
+Corresponde a las Autoridades Sanitarias del Estado, la vigilancia del cumplimiento de esta Ley y demás disposiciones que se dicten con base en ella. Con respecto a las funciones de control y regulación sanitaria que se descentralicen o se lleven a cabo de manera coordinada con los Municipios, la Secretaría de Salud podrá desarrollar acciones para evitar riesgos o daños a la salud de la población. En todos estos casos, la propia Secretaría pondrá en conocimiento de las Autoridades Municipales las acciones que lleve a cabo.
 
 ###### ARTICULO 282.
 
@@ -2559,7 +2573,7 @@ VI. Con la impugnación a que se refiere la fracción anterior, el interesado de
 
 > <small>(REFORMADA, P.O. 10 DE MARZO DE 2000)</small>
 
-VII. La impugnación presentada en los términos de las fracciones anteriores dará lugar a que el interesado, a su cuenta y cargo, solicite a la Autoridad Sanitaria, el análisis de la muestra testigo en un laboratorio que la misma señale; en el caso de insumos médicos el análisis se deberá realizar en un laboratorio autorizado como laboratorio de control analítico auxiliar de la regulación sanitaria. El resultado del análisis de la muestra testigo será el que en definitiva acredite si el producto en cuestión reúne o no los requisitos y especificaciones sanitarios exigidos; y
+VII. La impugnación presentada en los términos de las fracciones anteriores dará lugar a que el interesado, a su cuenta y cargo, solicite a la Autoridad Sanitaria, el análisis de la muestra testigo en un laboratorio que la misma señale; en el caso de insumos médicos el análisis se deberá realizar en un laboratorio autorizado como laboratorio de control analítico auxiliar de regulación la sanitaria. El resultado del análisis de la muestra testigo será el que en definitiva acredite si el producto en cuestión reúne o no los requisitos y especificaciones sanitarios exigidos; y
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2000)</small>
 
@@ -3130,3 +3144,13 @@ PRIMERO. En los establecimientos a que se refiere el artículo 133 Bis, tendrán
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LOS ARTÍCULOS 4 APARTADO B, FRACCIÓN V; 12 APARTADO C, FRACCIONES VI Y VII; 212; 213; 214; 215; 219 Y 281, Y ADICIONA UNA FRACCIÓN VIII AL APARTADO C DEL ARTÍCULO 12, TODOS DE LA LEY ESTATAL DE SALUD”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. La Secretaría de Salud del Estado realizará las acciones correspondientes con el objeto de suscribir los convenios con los Ayuntamientos que determine para promover acciones referentes a rastros, unidades de sacrificio o mataderos, previendo en los mismos, lo relativo a la capacitación del personal para las labores en la materia.
+
+TERCERO. Se derogan todas las disposiciones que contravengan al presente Decreto.
