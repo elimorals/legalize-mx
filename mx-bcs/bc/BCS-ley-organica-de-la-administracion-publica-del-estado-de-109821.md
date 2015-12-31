@@ -4,7 +4,7 @@ identifier: "BCS-ley-organica-de-la-administracion-publica-del-estado-de-109821"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2015-09-09"
-last_updated: "2015-12-20"
+last_updated: "2015-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109821&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCS"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el miércoles 9 de septiembre de 2015.
 
@@ -141,7 +141,9 @@ II.- Secretaría de Finanzas y Administración;
 
 III.- Secretaría de Planeación Urbana, Infraestructura y Transporte;
 
-IV.- Secretaría de Educación;
+> <small>(REFORMADA, B.O. 31 DE DICIEMBRE DE 2015)</small>
+
+IV.- Secretaría de Educación Pública;
 
 V.- Secretaría de Desarrollo Económico, Medio Ambiente y Recursos Naturales;
 
@@ -451,9 +453,11 @@ XIX. Vigilar el cumplimiento de las bases y los requisitos conforme a los cuales
 
 XX. Las demás que le señalen las leyes aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 24.
 
-A la Secretaría de Educación le corresponde el ejercicio de las siguientes atribuciones:
+La Secretaría de Educación Pública, es la dependencia encargada de garantizar el ejercicio del derecho a la educación según lo establecido en los Artículos 12 y 13 de la Constitución del Estado Libre y Soberano de Baja California Sur y corresponde el ejercicio de las siguientes atribuciones:
 
 I. Planear, coordinar y vigilar la educación a cargo del Estado, los municipios y los particulares, en todos los tipos, niveles y modalidades, de conformidad con la legislación aplicable, los convenios de coordinación celebrados por el Gobernador del Estado y las atribuciones que al mismo le transfiera la Federación, procurando que las mismas reúnan los requisitos de equidad, cobertura, calidad y pertinencia;
 
@@ -469,27 +473,39 @@ VI. Supervisar la celebración y cumplimiento de los convenios que en materia ed
 
 VII. Coordinar los esfuerzos institucionales para facilitar el acceso y desarrollo de oportunidades de la educación a través de un sistema estatal de becas, créditos y apoyos educativos que permita a los estudiantes del estado acceder, permanecer y concluir sus estudios en los diferentes tipos, niveles y modalidades de la educación;
 
-VIII. Fomentar el desarrollo de las humanidades, ciencias sociales, naturales y exactas, así como incrementar la investigación básica y aplicada en todas ellas, por conducto de los organismos sectorizados a ella;
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2015)</small>
 
-IX. Coordinar, con las universidades e instituciones de educación superior, el servicio social de pasantes, la orientación vocacional y otros aspectos educativos que se acuerden, con respecto a las políticas educativas de las mismas;
+VIII. Proponer criterios educativos y culturales en la producción radiofónica y televisiva del Gobierno del Estado;
 
-X. Establecer el registro estatal de educandos, educadores y planteles educativos ubicados en el Estado;
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2015)</small>
 
-XI. Llevar el registro y control de los profesionistas que egresen del sistema educativo estatal; así como de los colegios, asociaciones de profesionales y títulos académicos;
+IX. Impulsar la formación de investigadores en las diferentes ramas del conocimiento;
 
-XII. Revalidar los estudios, diplomas, grados y títulos equivalentes a la enseñanza que se imparte en el Estado, en los términos de la ley en la materia;
+> <small>(ADICIONADA, B.O. 31 DE DICIEMBRE DE 2015)</small>
 
-XIII. Otorgar reconocimientos de validez oficial de estudios, conforme a las normas y lineamientos correspondientes, a los estudios que ofrecen las instituciones de educación media superior y superior en la entidad;
+X. Promover la divulgación y el conocimiento de las ciencias y las humanidades en la sociedad.
 
-XIV. Planear y supervisar el uso de bienes inmuebles e instalaciones destinadas a la educación, cultura, ciencia y tecnología, recreación y deporte a su cargo;
+XI. Fomentar el desarrollo de las humanidades, ciencias sociales, naturales y exactas, así como incrementar la investigación básica y aplicada en todas ellas, por conducto de los organismos sectorizados a ella;
 
-XV. Coordinar, en el ámbito que le compete al Estado, la política de desarrollo cultural y deporte, así como elaborar y, en su caso, ejecutar los convenios de coordinación que celebre el Gobierno del Estado con los gobiernos federal, municipales y con otras entidades federativas;
+XII. Coordinar, con las universidades e instituciones de educación superior, el servicio social de pasantes, la orientación vocacional y otros aspectos educativos que se acuerden, con respecto a las políticas educativas de las mismas;
 
-XVI. Proteger, mantener y acrecentar el patrimonio histórico de la entidad y coordinar las funciones del cronista del Estado;
+XIII. Establecer el registro estatal de educandos, educadores y planteles educativos ubicados en el Estado;
 
-XVII. Coordinar el funcionamiento del Patronato del Estudiante Sudcaliforniano, en los términos de las disposiciones legales que resulten aplicables, y
+XIV. Llevar el registro y control de los profesionistas que egresen del sistema educativo estatal; así como de los colegios, asociaciones de profesionales y títulos académicos;
 
-XVIII. Las demás que le señalen las leyes aplicables.
+XV. Revalidar los estudios, diplomas, grados y títulos equivalentes a la enseñanza que se imparte en el Estado, en los términos de la ley en la materia;
+
+XVI. Otorgar reconocimientos de validez oficial de estudios, conforme a las normas y lineamientos correspondientes, a los estudios que ofrecen las instituciones de educación media superior y superior en la entidad;
+
+XVII. Planear y supervisar el uso de bienes inmuebles e instalaciones destinadas a la educación, cultura, ciencia y tecnología, recreación y deporte a su cargo;
+
+XVIII. Coordinar, en el ámbito que le compete al Estado, la política de desarrollo cultural y deporte, así como elaborar y, en su caso, ejecutar los convenios de coordinación que celebre el Gobierno del Estado con los gobiernos federal, municipales y con otras entidades federativas;
+
+XIX. Proteger, mantener y acrecentar el patrimonio histórico de la entidad y coordinar las funciones del cronista del Estado;
+
+XX. Coordinar el funcionamiento del Patronato del Estudiante Sudcaliforniano, en los términos de las disposiciones legales que resulten aplicables, y
+
+XXI. Las demás que le señalen las leyes aplicables.
 
 ###### ARTÍCULO 25.
 
@@ -987,7 +1003,7 @@ S E C R E T A R I A
 
 EN CUMPLIMIENTO A LO DISPUESTO POR LA FRACCIÓN II DEL ARTÍCULO 79 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE BAJA CALIFORNIA SUR, EN LA RESIDENCIA DEL PODER EJECUTIVO, A LOS NUEVE DÍAS DEL MES DE SEPTIEMBRE DEL AÑO DOS MIL QUINCE.
 
-A T EN T M E N T E
+A T E N T A M E N T E
 
 GOBERNADOR CONSTITUCIONAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
@@ -1002,3 +1018,11 @@ LUIS ANDRÉS CÓRDOVA URRUTIA
 B.O. 20 DE DICIEMBRE DE 2015.
 
 ÚNICO. El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE DICIEMBRE DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Sin perjuicio de lo dispuesto en el presente decreto, toda la documentación que fue expedida bajo la denominación "secretaría de educación" tendrá plena validez y seguirá surtiendo los efectos legales para la cual fue expedida.
+
+TERCERO.- En el caso de formatos, formas, comprobantes, cedulas, certificados, licencias, boletas y toda aquellas (sic) documentación que utilice la secretaría para el cumplimento de sus fines que incluya la denominación “secretaria de educación” que se haya impreso previamente a la expedición del presente decreto se continuara usando hasta que se termine su vigencia o tiraje y tendrá plena validez oficial.
