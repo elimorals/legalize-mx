@@ -4,7 +4,7 @@ identifier: "PUE-reglamento-de-la-ley-de-vialidad-para-el-estado-libre-y-95370"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-07-17"
-last_updated: "2013-07-19"
+last_updated: "2015-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95370&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 REGLAMENTO DE LA LEY DE VIALIDAD PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Reglamento publicado en la Tercera Sección del Periódico Oficial del Estado de Puebla, el miércoles 17 de julio de 2013.
 
@@ -1249,7 +1249,7 @@ La imposición de la sanción señalada para cada falta de manera específica y 
 
 > <small>[N. DE E. VÉASE TABLA EN LA TERCERA SECCIÓN DEL P.O. DEL 17 DE JULIO DE 2013, PAGINAS DE LA 29 A LA 39.]</small>
 
-> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN LA TERCERA SECCIÓN DEL P.O. DE 19 DE JULIO DE 2013, PÁGINA 4.]</small>
+> <small>[N. DE E. VÉASE REFORMAS A LA TABLA EN LA TERCERA SECCIÓN DEL P.O. DE 19 DE JULIO DE 2013, PÁGINA 4; 31 DE DICIEMBRE DE 2015, PÁGINAS DE LA 3 A LA 15.]</small>
 
 ###### ARTÍCULO 66.
 
@@ -1318,6 +1318,26 @@ IV. Cualquier otra contravención a lo dispuesto en la Ley de Vialidad y el pres
 ###### Artículo 74.
 
 Las multas impuestas por la autoridad vial y que previamente hayan sido corroboradas mediante dispositivos o medios tecnológicos, tienen el carácter de irrevocables, previo cumplimiento de los requisitos establecidos en la Ley de Vialidad y el presente Reglamento.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 74 Bis.
+
+las infracciones por exceder los límites de velocidad captadas a través de cualquier dispositivo o medio tecnológico a que se refiere este Reglamento, se sancionarán de la siguiente manera:
+
+NÚMERO DE INFRACCIÓN SANCIÓN
+
+a) PRIMERA 7 a 14 Días de Salario Mínimo Vigente, con
+
+un beneficio de reducción del 100%.
+
+b) SEGUNDA 7 a 14 Días de Salario Mínimo Vigente
+
+c) TERCERA 8 a 16 Días de Salario Mínimo Vigente
+
+d) CUARTA 9 a 18 Días de Salario Mínimo Vigente
+
+e) QUINTA Y SUBSECUENTES 10 a 20 Días de Salario Mínimo Vigente
 
 ###### Artículo 75.
 
@@ -1452,3 +1472,15 @@ P.O. 19 DE JULIO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL EJECUTIVO DEL ESTADO, POR EL QUE REFORMA EL TABULADOR DE INFRACCIONES, CONTENIDO EN EL ARTÍCULO 65, Y ADICIONA EL ARTICULO 74 BIS, AMBOS DEL REGLAMENTO DE LA LEY DE VIALIDAD PARA EL ESTADO DE PUEBLA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor a partir del primero de enero de dos mil dieciséis.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al presente Decreto.
