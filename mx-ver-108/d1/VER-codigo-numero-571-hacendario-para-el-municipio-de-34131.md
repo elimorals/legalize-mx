@@ -4,7 +4,7 @@ identifier: "VER-codigo-numero-571-hacendario-para-el-municipio-de-34131"
 country: "mx"
 rank: "codigo"
 publication_date: "2003-08-26"
-last_updated: "2015-03-13"
+last_updated: "2015-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34131&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "VER"
 
 CÓDIGO HACENDARIO PARA EL MUNICIPIO DE MINATITLÁN, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el martes 26 de agosto de 2003.
 
@@ -97,11 +97,13 @@ XV. Ley de Catastro: La Ley de Catastro del Estado de Veracruz de Ignacio de la 
 
 XVI. Ley de Coordinación Fiscal: La Ley de Coordinación Fiscal en el ámbito federal;
 
-XVII. Municipio: el de Minatitlán, del Estado de Veracruz de Ignacio de la Llave;
+XVII. Municipio: el de Minatitlán del Estado de Veracruz de Ignacio de la Llave;
 
 XVIII. Oficina Ejecutora: La oficina de Ejecución Fiscal de la Tesorería o su equivalente, encargada del cobro coactivo de un crédito fiscal;
 
-XIX. Presidente: El Presidente Municipal del Ayuntamiento;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XIX. Presidente: El Presidente Municipal Constitucional del Ayuntamiento;
 
 XX. Reglas, normas o disposiciones de carácter general: Aquellas que el Cabildo apruebe y publique, de conformidad por lo establecido por este Código, para conceder derechos o imponer obligaciones a los sujetos pasivos de la relación tributaria;
 
@@ -111,9 +113,21 @@ XXII. Tesorería: La Tesorería del Ayuntamiento; y
 
 XXIII. Tesorero: El Titular de la Tesorería del Ayuntamiento;
 
-> <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
 
-XXIV. Multa: Sanción a la conducta infractora sobre el pago de impuestos, derechos, productos, aprovechamientos, con el fin de que los sujetos pasivos no vuelvan a incurrir en omisión en el cumplimiento de su pago.
+XXIV. Multa: Sanción a la conducta infractora sobre el pago de impuestos, derechos, productos, aprovechamientos y el incumplimiento a las disposiciones reglamentarias vigentes establecidas por el H. ayuntamiento en el Municipio, con el fin de que los sujetos pasivos no vuelvan a incurrir en omisión en el cumplimiento de su pago;
+
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XXV. Ley de contabilidad: Ley General de Contabilidad Gubernamental;
+
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XXVI. La Secretaría de Finanzas: La Secretaría de Finanzas, Administración y Tesorería; y
+
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XXVII. Secretario de Finanzas: El titular de la Secretaría de Finanzas, Administración y Tesorería.
 
 ###### Artículo 3.
 
@@ -191,7 +205,13 @@ IV. Los titulares de organismos públicos descentralizados o de empresas de part
 
 V. Los demás servidores públicos que auxilien a la Tesorería en el ejercicio de sus atribuciones, a los que las leyes y convenios confieren facultades específicas en materia de hacienda municipal o las reciban por delegación expresa de las autoridades señaladas en este artículo; y
 
-VI. Las que así considera el Código Financiero para el Estado de Veracruz de Ignacio de la Llave, cuando actúen en términos de los convenios que, al efecto, celebren el Gobierno del Estado y el Municipio.
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+VI. Las que así considere el Código Financiero para el Estado de Veracruz de Ignacio de la Llave, cuando actúen en términos de los convenios que, al efecto, celebren el Gobierno del Estado y el Municipio; y
+
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+VII. El secretario de Finanzas, Administración y Tesorería.
 
 Las autoridades fiscales ejercerán sus facultades en la forma y los términos señalados en las disposiciones legales y reglamentarias, decretos o acuerdos delegatorios específicos.
 
@@ -271,9 +291,11 @@ En los demás artículos de este Código en que se haga referencia únicamente a
 
 Sólo podrá afectarse un ingreso fiscal a un fin especial, cuando así lo dispongan expresamente este Código y las demás leyes aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 27.
 
-El cobro de las contribuciones, productos o aprovechamientos se realizará en días y horas hábiles, en las oficinas de la Tesorería o en los lugares que ésta designe.
+El cobro de las contribuciones, productos o aprovechamientos se realizará en días y horas hábiles en los lugares que la autoridad fiscal designe para estos fines.
 
 La ampliación de horarios y autorización de días inhábiles para el pago de dichos ingresos se publicará en la Tabla de Avisos del Ayuntamiento, misma que deberá ubicarse en el recinto oficial de éste y, de ser posible, se difundirá a través del medio de comunicación de mayor cobertura en el Municipio.
 
@@ -463,9 +485,11 @@ La falta de pago de un crédito fiscal en la fecha o dentro del plazo establecid
 
 Las contribuciones o aprovechamientos cuyo pago se haya omitido y que las autoridades fiscales determinen como consecuencia del ejercicio de sus facultades de comprobación, así como de los demás créditos fiscales, deberán pagarse o garantizarse, junto con sus accesorios, dentro de los quince días siguientes a aquél en que haya surtido efectos su notificación.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 40.
 
-Los adeudos por contribuciones o accesorios podrán pagarse a plazos, en una sola exhibición o en parcialidades, previa autorización del Tesorero, a solicitud por escrito de los obligados. El plazo que al efecto se autorice no podrá ser mayor de veinticuatro meses.
+Los adeudos por contribuciones o accesorios podrán pagarse a plazos, en una sola exhibición o en parcialidades, previa autorización del Tesorero, a solicitud por escrito de los obligados. El plazo que al efecto se autorice no podrá ser mayor de doce meses.
 
 La solicitud de pago en parcialidades sólo podrá referirse a adeudos de contribuciones o accesorios de ejercicios fiscales anteriores al de la solicitud.
 
@@ -639,7 +663,9 @@ V. Embargo en la vía administrativa.
 
 La garantía comprenderá, además de las contribuciones adeudadas, los accesorios causados, así como los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este período y en tanto no se cubra el crédito, deberá renovarse y ampliarse la garantía que cubra el crédito garantizado y el importe de los recargos correspondientes a los doce meses siguientes.
 
-La Tesorería vigilará que sean garantizadas las prestaciones a favor de la Hacienda Municipal, conforme a las disposiciones legales en vigor. Mediante reglas generales emitidas por el Cabildo, se establecerán los requisitos que deberán reunir las garantías. La autoridad fiscal hará la calificación correspondiente de las que se ofrezcan, vigilando periódicamente, o cuando lo estime oportuno, que tales garantías conserven su eficacia y, en caso contrario, exigirá su ampliación o procederá a tomar las medidas necesarias para asegurar los intereses del fisco.
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+La autoridad fiscal vigilará que sean garantizadas las prestaciones a favor de la Hacienda Municipal, conforme a las disposiciones legales en vigor. Mediante reglas generales emitidas por el Cabildo, se establecerán los requisitos que deberán reunir las garantías. La autoridad fiscal hará la calificación correspondiente de las que se ofrezcan, vigilando periódicamente, o cuando lo estime oportuno, que tales garantías conserven su eficacia y, en caso contrario, exigirá su ampliación o procederá a tomar las medidas necesarias para asegurar los intereses del fisco.
 
 Se podrá dispensar el otorgamiento de la garantía del interés fiscal, mediante acuerdo que emita el Cabildo, cuando en relación con el monto del crédito respectivo, sea notoria la insuficiencia de la capacidad económica del deudor.
 
@@ -747,7 +773,9 @@ La autoridad fiscal recibirá las declaraciones, avisos, solicitudes, manifiesto
 
 Además de los casos que señalen las leyes fiscales y el Código de Procedimientos Administrativos, se podrá rechazar la presentación de promociones de los particulares, cuando no contengan o se anote de manera incorrecta el nombre del contribuyente; el número de cuenta y de licencia, o cualquier otro que lo identifique en los registros municipales de la contribución de que se trate; su domicilio fiscal; no aparezcan debidamente firmados; no se acompañen los anexos; o, tratándose de declaraciones, éstas contengan errores aritméticos. En este último caso, la autoridad fiscal podrá cobrar las contribuciones que resulten de corregir los errores aritméticos y sus accesorios.
 
-En los casos en que las formas para la presentación de avisos, declaraciones, manifestaciones y cualquier otra de naturaleza análoga que prevengan las disposiciones fiscales no se hubieren aprobado y publicado por la Tesorería, los obligados a presentarlas las formularán en escrito libre por triplicado, incluyendo los datos señalados en el artículo siguiente. En caso de que se trate de la obligación de pago, se deberá señalar además el monto del mismo.
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+En los casos en que las formas para la presentación de avisos, declaraciones, manifestaciones y cualquier otra de naturaleza análoga que prevengan las disposiciones fiscales no se hubieren aprobado y publicado por la autoridad fiscal, los obligados a presentarlas las formularán en escrito libre por triplicado, incluyendo los datos señalados en el artículo siguiente. En caso de que se trate de la obligación de pago, se deberá señalar además el monto del mismo.
 
 Los contribuyentes podrán presentar las declaraciones respectivas a través de medios electrónicos, cuando el Cabildo hubiere aprobado esta modalidad.
 
@@ -807,7 +835,25 @@ IX. Emitir o, en su caso, ordenar la publicación de los edictos que procedan en
 
 X. Elaborar, integrar y mantener actualizados los padrones de contribuyentes, así como los demás registros que establezcan las leyes fiscales; y
 
-XI. Determinar, mediante resolución, la responsabilidad solidaria.
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XI. Determinar, mediante resolución, la responsabilidad solidaria;
+
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XII. Dar a conocer a las Sociedades de Información Crediticia y demás disposiciones aplicables, la información relativa a los adeudos fiscales de los contribuyentes que a partir de dos años de falta de pago y que por ende se consideren firmes.
+
+Sea que estos adeudos emanen de contribuciones locales, estatales o federales coordinadas.
+
+A efecto de la correcta y debida aplicación de la facultad prevista en esta fracción, la autoridad fiscal podrá solicitar o auxiliarse de la colaboración que brinden las autoridades federales, cuando sus disposiciones no sean contrarias a la naturaleza propia del derecho fiscal.
+
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XIII. Revocar, Cancelar o Anular Licencias de funcionamiento, permisos, autorizaciones y demás instrumentos similares de jurisdicción municipal que establezca el presente Código a las personas físicas o morales que soliciten por primera vez o bien como renovación de alguno de los antes mencionados, como consecuencia de la violación a las disposiciones reglamentarias aplicables en cada caso;
+
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XIV. Realizar visitas domiciliarias, auditorías, inspecciones, vigilancia y verificaciones a los comercios, industrias y en general a todo establecimiento con actividad económica y demás contribuyentes cautivos con el objetivo de garantizar la plena observancia y cumplimiento del presente Código, así como de las disposiciones reglamentarias aplicables en la materia correspondiente.
 
 ###### Artículo 67.
 
@@ -847,7 +893,9 @@ VIII. Solicitar de los sujetos pasivos, responsables solidarios o terceros con e
 
 IX. Practicar las inspecciones y verificaciones de los lugares, inmuebles, bienes o mercancías, en la forma que para el control de las obligaciones fiscales determine la Tesorería, de conformidad con el Código de Procedimientos Administrativos;
 
-X. Ordenar la clausura provisional o definitiva de establecimientos comerciales por incumplimiento o infracción a las disposiciones fiscales;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+X. Ordenar la clausura provisional o definitiva de establecimientos comerciales, de servicios o de cualquier tipo de actividad económica regulada por el presente Código, así como de construcciones, ampliaciones, modificaciones e instalaciones de cualquier tipo sobre propiedades dentro del territorio del municipio, por incumplimiento a las disposiciones reglamentarias, fiscales, y demás ordenamientos aplicables en la materia;
 
 XI. Practicar avalúos de bienes inmuebles, de acuerdo a la legislación aplicable;
 
@@ -874,6 +922,10 @@ b) Solicitar el auxilio de la fuerza pública; o
 c) Solicitar a la autoridad correspondiente que se proceda por desobediencia a un mandato legítimo de autoridad competente.
 
 Las facultades señaladas en las fracciones VI, VII, IX, XII, XIII y XIV de este artículo, se podrán llevar a cabo en los lugares donde se encuentren los inmuebles, tratándose de contribuciones relacionadas con los mismos, o en el lugar donde se presenten las diversiones o espectáculos públicos o se celebren loterías, rifas, sorteos, concursos, juegos con apuestas y apuestas permitidas de toda clase.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Los servidores públicos que intervengan en los diversos trámites relativos a la aplicación de las disposiciones tributarias estarán obligados a guardar absoluta reserva y confidencialidad en lo concerniente a las declaraciones y datos suministrados por los contribuyentes o por terceros con ellos relacionados, así como los obtenidos en el ejercicio de las facultades de comprobación. Dicha reserva y confidencialidad no comprenderá los casos que señalen las disposiciones legales correspondientes. Por lo que, deberán conducirse en términos de la Ley para la Tutela de datos personales en el Estado de Veracruz.
 
 ###### Artículo 71.
 
@@ -953,9 +1005,11 @@ I. Aquellos que, de conformidad con otras leyes, tengan obligación de guardar r
 
 II. Los que participen en tareas de asistencia al contribuyente previstas por las disposiciones fiscales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 82.
 
-No se impondrán multas cuando se cumplan en forma espontánea las obligaciones fiscales fuera de los plazos señalados por las disposiciones de esa naturaleza o cuando se haya incurrido en infracción a causa de fuerza mayor o de caso fortuito por hechos ajenos a la voluntad del infractor, circunstancia que éste deberá probar a satisfacción de las autoridades.
+No se impondrán multas cuando se cumplan en forma espontánea las obligaciones fiscales fuera de los plazos señalados por las disposiciones de esa naturaleza o cuando se haya incurrido en infracción a causa de fuerza mayor o de caso fortuito por hechos ajenos a la voluntad del infractor, circunstancia que éste deberá probar a satisfacción de la autoridad fiscal.
 
 Se considerará que el cumplimiento no es espontáneo en el caso de que:
 
@@ -981,7 +1035,9 @@ a) Tratándose de infracciones que tengan como consecuencia la omisión en el pa
 
 b) Tratándose de infracciones que no impliquen omisión en el pago de contribuciones, la segunda o posteriores veces que se sancione al infractor por la comisión de una infracción establecida en el mismo artículo y fracción de este Código.
 
-Para determinar la reincidencia, se considerarán únicamente las infracciones cometidas dentro de los últimos tres años.
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Para determinar la reincidencia, se considerarán únicamente las infracciones cometidas dentro de los últimos cuatro años.
 
 IV. Considerar como agravante en la comisión de una infracción fiscal, cuando se dé cualquiera de los siguientes supuestos:
 
@@ -1021,7 +1077,9 @@ VI. Manifestar negociaciones propias o realizar actividades gravables a través 
 
 VII. No tener los permisos, cédulas, boletas de registro o cualquier otro documento exigido por las disposiciones fiscales, en los lugares que para el efecto se señalen; no citar su clave de registro o cuenta, según el caso, en las declaraciones, manifestaciones, solicitudes y gestiones que hagan ante cualquier dependencia;
 
-VIII. Abrir una negociación o establecimiento comercial, industrial o de prestación de servicios sin solicitar previamente la cédula de empadronamiento y, en su caso, la licencia correspondiente o sin llenar los requisitos exigidos por los ordenamientos fiscales;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+VIII. Abrir una negociación o establecimiento comercial, industrial o de prestación de servicios sin solicitar previamente la cédula de empadronamiento y la licencia de funcionamiento correspondiente, o sin cumplir los requerimientos establecidos en los respectivos reglamentos municipales de la materia así como los requisitos exigidos por los ordenamientos fiscales aplicables.
 
 IX. Tener en las negociaciones o establecimientos comerciales, industriales o de prestación de servicios, instalaciones diversas de las aprobadas por el Ayuntamiento, cuando las disposiciones legales exijan tal aprobación, o modificarlas sin el correspondiente aviso o permiso;
 
@@ -1049,9 +1107,17 @@ XX. No conservar la documentación comprobatoria durante el plazo que establece 
 
 XXI. Omitir total o parcialmente el pago de contribuciones o créditos fiscales de cualquier tipo y que sea descubierta por las autoridades fiscales mediante el ejercicio de sus facultades de comprobación;
 
-XXII. No dar aviso a la Tesorería, o hacerlo extemporáneamente respecto del cese de actividades definitivo; y
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
 
-XXIII. Incurrir en cualquier otro acto u omisión distinto de los enumerados en las fracciones anteriores que, en alguna forma, infrinja las disposiciones fiscales.
+XXII. No dar aviso a la Tesorería, o hacerlo extemporáneamente respecto del cese de actividades temporales o definitivas;
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XXIII. Incurrir en cualquier otro acto u omisión distinto de los enumerados en las fracciones anteriores que, en alguna forma, infrinja las disposiciones fiscales; y
+
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XXIV. No contar con licencia de funcionamiento respectiva a la actividad económica desarrollada.
 
 ###### Artículo 89.
 
@@ -1073,7 +1139,7 @@ VI. Coadyuvar con los infractores, en cualquier forma, en la evasión total o pa
 
 Son infracciones cuya responsabilidad recae en los servidores públicos, las siguientes:
 
-I: Extender actas, expedir certificados, legalizar firmas, autorizar documentos, inscribirlos o registrarlos, sin que exista constancia de que se pagó la contribución correspondiente;
+I. Extender actas, expedir certificados, legalizar firmas, autorizar documentos, inscribirlos o registrarlos, sin que exista constancia de que se pagó la contribución correspondiente;
 
 II. Recibir el pago de una prestación fiscal y no enterar su importe de inmediato;
 
@@ -1143,7 +1209,9 @@ b) De quince a treinta días de salario mínimo, por infracción a las fraccione
 
 c) De treinta a cincuenta días de salario mínimo, por infracción a las fracciones II, III, V, VI, IX, XI, XIII, XIV, XVI, XVII, XVIII y XIX;
 
-II. La infracción que establece la fracción XXI del artículo 88 de este Código, se sancionará con multa de cien a ciento cincuenta por ciento del crédito omitido;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+II. La infracción que establecen las fracciones XXI y XXIV del artículo 88 de este Código, se sancionará con multa de cien a ciento cincuenta por ciento del crédito omitido;
 
 III. Las infracciones comprendidas en el artículo 89 de este Código, se sancionarán con multa de cincuenta a cien días de salario mínimo;
 
@@ -1375,7 +1443,13 @@ III. Los copropietarios y los coposeedores;
 
 IV. Los nudopropietarios, los titulares de certificados de vivienda y de participación inmobiliaria; y
 
-V. El fideicomitente y, en su caso, el fiduciario, en tanto no le transmitan la propiedad del predio al fideicomisario o a otras personas, en cumplimiento al contrato de fideicomiso.
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+V. El fideicomitente y, en su caso, el fiduciario, en tanto no le transmitan la propiedad del predio al fideicomisario o a otras personas, en cumplimiento al contrato de fideicomiso;
+
+> <small>(ADICIONADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+VI. Los poseedores que, por cualquier título, tengan la concesión o permiso del uso, goce y destino de bienes de dominio público de la Federación, Estado o Municipio.
 
 ###### Artículo 115.
 
@@ -1419,31 +1493,41 @@ Para efectos de este impuesto, en los predios objeto de fraccionamiento, el nuev
 
 El Impuesto Predial se causará anualmente y se liquidará y pagará conforme a la tasa que sobre la base gravable autorice el Congreso en la Ley de Ingresos del Municipio para el ejercicio fiscal de que se trate.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 118.
 
-El pago del Impuesto Predial será semestral y se realizará dentro de los meses de enero y julio de cada año, en la Tesorería u oficinas autorizadas.
+El pago del Impuesto Predial será semestral y se realizará dentro de los meses de enero y julio de cada año, en los lugares y medios de pago oficiales que establezca la autoridad fiscal.
 
-Los sujetos de este impuesto que opten por el pago anual podrán efectuarlo en el mes de enero, en una sola exhibición y, en este caso, obtendrán un descuento del veinte por ciento, incluidos quienes paguen la cuota mínima. Este plazo podrá prorrogarse hasta el día último del mes de febrero, por acuerdo del Cabildo, el que se comunicará al Congreso.
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Los sujetos de este impuesto que opten por el pago anual podrán efectuarlo entre los meses de enero y marzo, en una sola exhibición y, en este caso, obtendrán un descuento del veinte por ciento en el mes de enero, del diez por ciento en el mes de febrero y del cinco por ciento en el mes de marzo, incluidos quienes paguen la cuota mínima. Este plazo podrá prorrogarse hasta el día último del mes de marzo, por acuerdo del Cabildo, el que se comunicará al Congreso.
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 119.
 
-Están exentos del pago del Impuesto Predial, los bienes del dominio público de la Federación, del Estado y de los Municipios.
+Están exentos del pago del Impuesto Predial, los bienes del dominio público de la Federación, del Estado y de los Municipios, salvo que tales bienes, total o parcialmente sean utilizados por entidades paraestatales, empresas productivas del estado o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
 ###### Artículo 120.
 
 Cuando la Tesorería advierta que un inmueble ha salido del dominio público de la Federación, del Estado o de los Municipios, ordenará el cobro de los impuestos cuyo pago se hubiese omitido, incluidos los recargos, multas y accesorios que procedan.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 121.
 
-Los contribuyentes del impuesto predial que sean pensionados o jubilados y, en caso de fallecimiento de éstos, la viuda o concubina legalmente reconocida, tendrán derecho a un descuento del cincuenta por ciento del importe anual a pagar, previa acreditación fehaciente de los supuestos respectivos y de encontrarse al corriente en el pago de este impuesto. Esta prerrogativa se aplicará únicamente a un inmueble, siempre que se trate de la casa habitación del contribuyente y el pago se realice durante los meses de enero o febrero del ejercicio correspondiente.
+Los contribuyentes del impuesto predial que sean pensionados o jubilados y, en caso de fallecimiento de éstos, la viuda o concubina legalmente reconocida, tendrán derecho a un descuento el cual se establecerá de forma expresa en la Ley de Ingresos correspondientes al periodo fiscal aplicable.
 
 Las personas mayores de sesenta años, contribuyentes de este impuesto, que no se encuentren en los supuestos descritos, también tendrán derecho a obtener el descuento al que se refiere el párrafo anterior, previo cumplimiento de los requisitos señalados en el mismo, si el valor catastral del inmueble correspondiente no excediere de seis mil salarios mínimos.
 
 A este descuento no se podrá adicionar el previsto en el artículo 118 de este Código.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 122.
 
-El impuesto anual a pagar no podrá ser menor a tres salarios mínimos, excepto lo dispuesto por el artículo 118 de este Código.
+El impuesto anual a pagar no podrá ser menor a cuatro salarios mínimos, excepto lo dispuesto por el artículo 118 de este Código.
 
 El pago de este impuesto se considerará definitivo, salvo prueba en contrario.
 
@@ -1537,11 +1621,11 @@ El Impuesto Sobre Traslación de Dominio de Bienes Inmuebles, se causará en tod
 
 Son sujetos de este impuesto, las personas físicas o morales que adquieran inmuebles ubicados dentro del territorio del Municipio, por alguna de las formas señaladas en el artículo anterior.
 
-> <small>(REFORMADO PRIMER PARRAFO, G.O. 20 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 133.
 
-Será base gravable del Impuesto Sobre Traslación de Dominio de Bienes Inmuebles el valor que resulte más alto entre el de operación y el valor catastral o catastral provisional, con base a las tablas de valores publicadas en la Gaceta Oficial, órgano del gobierno del estado, en términos de la Ley número 42 de Catastro del Estado de Veracruz de Ignacio de la Llave.
+Será base gravable del Impuesto Sobre Traslación de Dominio de Bienes Inmuebles el valor que resulte más alto entre el valor de operación, el valor catastral y el catastral provisional, con base en las Tablas de Valores publicadas en la Gaceta Oficial, órgano del Gobierno del Estado, en términos de la Ley de Catastro del Estado de Veracruz de Ignacio de la Llave.
 
 Para los efectos de este impuesto se considera, salvo prueba en contrario, que se transmiten, bajo cualquier título, terreno y construcción, si ésta se ha iniciado antes de la celebración del contrato respectivo, aun cuando con anterioridad se hubiese celebrado promesa de venta del terreno.
 
@@ -1549,9 +1633,21 @@ Cuando con motivo de la adquisición, el adquirente asuma la obligación de paga
 
 Para los efectos de este impuesto, se considera que el usufructo y la nuda propiedad tienen un valor cada uno de ellos, del cincuenta por ciento del valor de la propiedad.
 
-En los inmuebles adquiridos durante el período de tres años anteriores, contado a partir de la fecha de la operación actual, el impuesto se calculará sobre el valor que resulte de disminuir del valor mayor, a que se refiere el párrafo primero, aquel valor que se tomó como base para el cálculo del impuesto en la última adquisición.
+> <small>(DEROGADO QUINTO PÁRRAFO, G.O. 31 DE DICIEMBRE DE 2015)</small>
 
 En la adquisición por prescripción positiva, la base del impuesto se determinará con valores referidos a la fecha en que cause ejecutoria la resolución judicial; en la adquisición por herencia, a la fecha de la adjudicación; y en la información ad perpetuam, a la fecha de la resolución judicial.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Tratándose de adquisiciones de inmuebles en proceso de construcción, el valor de avalúo se determinará de acuerdo a las características estructurales y arquitectónicas actuales del proyecto de construcción respectivo.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Cuando se trate de adquisición por causa de muerte, el valor del inmueble que se considerará será el que resulte más alto entre los mencionados en el primer párrafo, vigente al momento de otorgarse la escritura de adjudicación de los bienes de la sucesión, dicho valor deberá estar referido a la fecha de adjudicación, venta o cesión de los bienes de la sucesión.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Cuando se adquiera sólo una porción del inmueble o el usufructo o la nuda propiedad, la base gravable que se considerará para el cálculo del impuesto, será el valor del inmueble en su totalidad que resulte más alto de los mencionados en el primer párrafo, al impuesto determinado se le aplicará la proporción correspondiente a la parte que fue adquirida y el resultado será el monto del impuesto a pagar.
 
 > <small>(REFORMADO, G.O. 20 DE DICIEMBRE DE 2006)</small>
 
@@ -1601,9 +1697,11 @@ Si en la declaración se oculta superficie de terreno o de las construcciones co
 
 El pago de este impuesto se realizará dentro de los treinta días siguientes a la fecha en que sean firmadas las escrituras públicas correspondientes o, cuando se trate de resoluciones administrativas o judiciales o de documentos otorgados fuera del Estado, dentro de los treinta días siguientes a la fecha en que causen ejecutoria o sean autorizados.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 141.
 
-No se causará este impuesto, en las adquisiciones de bienes inmuebles que realicen la Federación, los Estados y los Municipios, para formar parte del dominio público.
+No se causará este impuesto en las adquisiciones de bienes inmuebles adquiridos por parte de la Federación, de los Estados y de los Municipios, salvo que tales bienes sean utilizados, total o parcialmente, por entidades paraestatales, empresas productivas del Estado, o por particulares bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
 No causarán este impuesto las adquisiciones de inmuebles que se realicen en los siguientes casos:
 
@@ -1837,9 +1935,11 @@ Son sujetos de este impuesto, las personas físicas o morales, ya sean propietar
 
 Este impuesto se causará mensualmente por cada establecimiento en que se celebren juegos permitidos.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 164.
 
-Este impuesto se causará y pagará conforme a la tarifa mensual de 0.25 salarios mínimos por mesa o máquina de juego.
+El impuesto señalado en el presente capítulo se causará y pagará conforme a las tarifas establecidas en la Ley de Ingresos correspondiente al periodo fiscal aplicable.
 
 ###### Artículo 165.
 
@@ -1879,15 +1979,11 @@ Son sujetos de esta contribución, quienes realicen los pagos a que se refiere e
 
 Es base de esta contribución el importe de los pagos por concepto de los impuestos, derechos y productos municipales.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 172.
 
-Esta contribución se causará y pagará, aplicando a la base que corresponda, las tarifas o tasas siguientes:
-
-I. Siete y medio por ciento adicional sobre el impuesto predial;
-
-II. Diez por ciento adicional sobre los impuestos sobre espectáculos públicos; sobre loterías, rifas, sorteos y concursos; sobre juegos permitidos; y sobre fraccionamientos; y
-
-III. Diez por ciento adicional sobre los derechos y productos que establece el presente Código.
+Esta contribución se causará y pagará, aplicando a la base que corresponda y se establecerán en la Ley de Ingresos correspondiente al periodo fiscal aplicable.
 
 ###### Artículo 173.
 
@@ -1903,13 +1999,17 @@ Es objeto de este impuesto la percepción de ingresos que obtengan los fracciona
 
 Son sujetos de este impuesto las personas físicas o morales que obtengan ingresos de acuerdo a lo establecido en el artículo anterior, siempre que el fraccionamiento se realice o surta sus efectos dentro del territorio del Municipio.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 176.
 
-La base de este impuesto será el valor catastral del inmueble o el valor de operación consignado en escritura pública, si este último es mayor.
+Será base gravable de este Impuesto el valor que resulte más alto entre el de operación, el valor catastral o catastral provisional y el del avalúo comercial.
+
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 177.
 
-Este impuesto se causará, liquidará y pagará aplicando a la base gravable determinada la tasa de uno al millar.
+Este impuesto se causará, liquidará y pagará aplicando a la base gravable determinada la tasa de dos punto cinco al millar.
 
 ###### Artículo 178.
 
@@ -1956,6 +2056,10 @@ Son sujetos del pago de derechos las personas físicas o morales que reciban ser
 ###### Artículo 185.
 
 Los derechos por la prestación de servicios deberán ser congruentes con el costo total del servicio, incluso el financiero, excepto cuando dichos costos tengan un carácter de administración del servicio.
+
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Se considerará para todos los derechos por la prestación de servicios, la realización de trámites de carácter urgente que implique la prestación del servicio requerido en contra entrega en un lapso de tiempo menor al determinado usualmente por la dependencia respectiva. Por tanto, se establece el costo del trámite urgente en un cien por ciento más de lo tasado en el código hacendario para el Municipio de Minatitlán vigente.
 
 ###### Artículo 186.
 
@@ -2031,7 +2135,9 @@ Son sujetos de este derecho las personas físicas o morales que soliciten del Ay
 
 El Municipio, en términos de lo dispuesto por la Ley de Coordinación Fiscal y demás normatividad aplicable, ejercerá facultades operativas de verificación al momento de expedir las licencias a que se refiere este Código y deberá solicitar a los interesados la exhibición de su cédula de inscripción al Registro Federal de Contribuyentes.
 
-En términos de la normatividad aludida en el párrafo anterior, la licencia, permiso o autorización de funcionamiento, o el registro o refrendo anual en su caso, no causarán cuota alguna, pero sus propietarios cumplirán los requisitos que para su otorgamiento señalen los reglamentos municipales, incluyendo el pago de formas valoradas a razón de un salario mínimo.
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+En términos de la normatividad aludida en el párrafo anterior, la licencia, permiso o autorización de funcionamiento, o el registro o refrendo anual en su caso, no causarán cuota alguna, pero sus propietarios cumplirán los requisitos que para su otorgamiento señalen los reglamentos municipales, incluyendo el pago de formas valoradas a razón de cinco salarios mínimos.
 
 Se exceptúan de la no causación los giros comerciales que enajenen o expendan bebidas alcohólicas en forma total o parcial al público en general, en cuyo caso deberán cubrir la cuota o tarifa establecida en el presente Código por el otorgamiento o refrendo de cada licencia, pero la omisión a dicha obligación se sancionará con multa equivalente a la cuota o tarifa señalada para el refrendo, según el caso y, de persistir la omisión dentro del término de quince días, se procederá a la clausura.
 
@@ -2049,67 +2155,9 @@ Los permisos o autorizaciones de carácter temporal, para giros comerciales que 
 
 La expedición de licencias, permisos o autorizaciones para el funcionamiento de establecimientos o locales con giros comerciales que enajenen o expendan bebidas alcohólicas, estará sujeta a los requisitos que establezca el reglamento municipal respectivo o, en su defecto, el Cabildo, mediante reglas o disposiciones de carácter general.
 
-Por la expedición de licencias a que este artículo se refiere, se pagarán las cuotas siguientes:
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
 
-Giro: Costo de la licencia en
-
-número de salarios mínimos:
-
-Abarrotes con venta de cerveza 35
-
-Abarrotes con venta de cerveza,
-
-vinos y licores 100
-
-Agencias 250
-
-Almacenes o Distribuidores 250
-
-Billares 200
-
-Cantinas o bares 200
-
-Centros de eventos sociales 50 a 250
-
-Centros deportivos o recreativos 250
-
-Centros nocturnos y cabarets 1,000
-
-Cervecerías 100
-
-Clubes sociales 175
-
-Depósitos 75
-
-Discotecas 625
-
-Hoteles y moteles 200
-
-Kermeses, ferias y bailes públicos 125
-
-Licorerías 115
-
-Loncherías, taquerías, marisquerías,
-
-fondas, coctelerías, torterías, pizzerías
-
-y similares 75
-
-Minisúper 100 a 300
-
-Peñas, canta bar, café bar, video
-
-bar y café cantante 150
-
-Restaurante 150
-
-Restaurante-bar 200
-
-Servicar 150
-
-Supermercados 100 a 300
-
-Los derechos por refrendos anuales se calcularán a razón del diez por ciento del costo de la licencia.
+Por la expedición de licencias a que este artículo se refiere, se establecerán las cuotas específicas en la Ley de Ingresos correspondiente al periodo fiscal aplicable.
 
 #### SECCIÓN II. DE LOS DERECHOS POR ANUNCIOS COMERCIALES Y PUBLICIDAD
 
@@ -2135,13 +2183,21 @@ Las autoridades municipales establecerán en sus reglamentos respectivos, o medi
 
 Los derechos a que se refiere esta Sección, se cobrarán por la autorización respectiva, de acuerdo a las cuotas siguientes:
 
-I. Por la colocación de anuncios comerciales en la vía pública o tenga efectos sobre ésta, repercutiendo en la imagen urbana, de cuatro a ocho salarios mínimos, anualmente;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
 
-II. Por la colocación eventual de anuncios comerciales en la vía pública o tenga efectos sobre ésta, repercutiendo en la imagen urbana, dos salarios mínimos por evento;
+I. Por la colocación de anuncios comerciales en la vía pública o tenga efectos sobre ésta, repercutiendo en la imagen urbana, cuatro salarios mínimos por metro cuadrado, anualmente;
 
-III. Por el anuncio de eventos en altavoz móvil, dos salarios mínimos por evento; y
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
 
-IV. Por la colocación de anuncios comerciales en el interior o exterior de vehículos en los que se preste el servicio de transporte público de pasajeros, tres salarios mínimos, anualmente.
+II. Por la colocación eventual de anuncios comerciales en la vía pública o tenga efectos sobre ésta, repercutiendo en la imagen urbana, dos salarios mínimos por día;
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+III. Por el anuncio de eventos en altavoz móvil, dos salarios mínimos por día; y
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+IV. Por la colocación de anuncios comerciales en el interior o exterior de vehículos en los que se preste el servicio de transporte público de pasajeros, dos salarios mínimos, mensuales.
 
 No causarán los derechos previstos en esta Sección, la colocación de anuncios, o cualquier acto publicitario, realizado con fines de asistencia o beneficencia pública; la publicidad de partidos políticos y de asociaciones religiosas; la publicidad de la Federación, del Estado, o del Municipio; y la publicidad que se realice con fines nominativos para la identificación de la negociación, siempre y cuando se realice en el propio establecimiento.
 
@@ -2153,9 +2209,21 @@ Son objeto de este derecho los servicios que el Ayuntamiento preste, a solicitud
 
 I. Alineamiento de predios, en términos de la Ley de Desarrollo Regional y Urbano y sus Reglamentos;
 
-II. Por asignación de número oficial e inspección de predios;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
 
-III. Por licencias:
+II. Por asignación de número oficial;
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+III. Por inspección de predio;
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+IV. Por constancia de zonificación o de factibilidad de uso de suelo o constancia de seguridad estructural;
+
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+V. Por licencias:
 
 a) De construcción de bardas, con excepción de las colindantes con la vía pública;
 
@@ -2173,13 +2241,41 @@ g) Por la construcción de tanques subterráneos para almacenamiento de material
 
 h) Para la conversión al régimen de propiedad en condominio;
 
-i) De uso de suelo; y
+i) Por movimiento o traslado de tierra;
 
-j) De cambio de uso de suelo, en caso de que el Municipio contare con un Programa de Ordenamiento Urbano, en términos de la normatividad aplicable;
+j) Por conexión de agua potable y/o drenaje a un predio y sus respectivas obras;
 
-IV. Por deslinde de predios; y
+k) Para las obras e instalaciones superficiales, subterráneas o aéreas en las vías públicas;
 
-V. Por registro, estudio y aprobación de planos y proyectos de construcción, remodelación o ampliación.
+l) Para la construcción e instalación de antenas para radiotelecomunicación y/o de anuncios publicitarios que requieran elementos estructurales;
+
+m) De uso de suelo; y
+
+n) De cambio de uso de suelo, cuando el municipio contare con un programa de ordenamiento urbano, en términos de la normatividad aplicable;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+VI. Por deslinde de predios;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+VII. Por revisión de planos;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+VIII. Por registro, estudio y aprobación de planos y proyectos de construcción, remodelación o ampliación;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+IX. Por ocupación temporal de la vía pública;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+X. Por prórrogas de licencias; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XI. Por constancias de terminación o suspensión voluntaria de obra;
 
 ###### Artículo 207.
 
@@ -2201,1345 +2297,11 @@ En el caso de que el servicio se preste en rebeldía del usuario, se notificará
 
 Los servicios de deslinde de predios tendrán como base la superficie del predio y se realizarán por peritos designados por el Ayuntamiento. Si practicado el deslinde resulta una diferencia en la superficie del predio, superior o inferior, sobre la que se utilizó como base para el pago de los derechos, se hará el ajuste correspondiente, procediendo al cobro o devolución, según el caso.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 212.
 
-Los derechos por obras materiales se causarán y pagarán, en salarios mínimos, conforme a las siguientes cuotas:
-
-I. Por derechos de alineamiento de predios, calculados sobre el total de metros lineales que tenga el terreno frente a la vía pública, en términos de la normatividad aplicable:
-
-Si el terreno es de uso:
-
-Habitacional, de categoría
-
-De 1 a 10 ML.
-
-Salarios Mínimos
-
-Residencial 3
-
-Medio 2
-
-Interés Social 1.5
-
-Popular 1
-
-De más de 10 a 50 ML.
-
-Salarios Mínimos
-
-Residencial 3.5
-
-Medio 3
-
-Interés Social 2.5
-
-Popular 2
-
-De más de 50 ML.
-
-Salarios Mínimos
-
-Residencial 4
-
-Medio 3.5
-
-Interés Social 2.5
-
-Popular 2
-
-Si el terreno es de uso:
-
-De 1 a 10 ML.
-
-Salarios Mínimos
-
-Comercial 4
-
-Industrial 4
-
-Agropecuario 3
-
-De servicio 2
-
-De más de 10 a 50 ML.
-
-Salarios Mínimos
-
-Comercial 5
-
-Industrial 5
-
-Agropecuario 4
-
-De servicio 2.5
-
-De más de 50 ML.
-
-Salarios Mínimos
-
-Comercial 6
-
-Industrial 6
-
-Agropecuario 5
-
-Servicio 3
-
-II. Por asignación de número oficial e inspección de predios, cada uno:
-
-Si el terreno es de uso:
-
-Habitacional, de categoría Salarios Mínimos
-
-Residencial 2
-
-Medio 1.5
-
-Interés Social 1
-
-Popular 0.5
-
-Si el terreno es de uso:
-
-Comercial 2
-
-Industrial 2
-
-Agropecuario 1
-
-De servicio 1
-
-III. Por licencias:
-
-a) De construcción de bardas, con excepción de las colindantes en la vía pública, por metro lineal o fracción:
-
-Si el terreno es de uso:
-
-Habitacional, de categoría
-
-De 1 a 20 ML.
-
-Salarios Mínimos
-
-Residencial 6
-
-Medio 5
-
-Interés Social 1
-
-Popular 1
-
-De más de 20 a 50 ML.
-
-Salarios Mínimos
-
-Residencial 8
-
-Medio 6
-
-Interés Social 3
-
-Popular 3
-
-De más de 50 a 100 ML.
-
-Salarios Mínimos
-
-Residencial 9
-
-Medio 8
-
-Interés Social 4
-
-Popular 4
-
-De más de 100 a 200 ML.
-
-Salarios Mínimos
-
-Residencial 11
-
-Medio 9
-
-Interés Social 5
-
-Popular 5
-
-De más de 200 a 500 ML.
-
-Salarios Mínimos
-
-Residencial 12
-
-Medio 10
-
-Interés Social 6
-
-Popular 6
-
-De más de 500 ML.
-
-Salarios Mínimos
-
-Residencial 14
-
-Medio 12
-
-Interés Social 7
-
-Popular 7
-
-Si el terreno es de uso:
-
-De 1 a 20 ML.
-
-Salarios Mínimos
-
-Comercial 7
-
-Industrial 9
-
-Agropecuario 4
-
-De servicio 5
-
-De más de 20 a 50 ML.
-
-Salarios Mínimos
-
-Comercial 9
-
-Industrial 11
-
-Agropecuario 6
-
-Servicio 7
-
-De más de 50 a 100 ML.
-
-Salarios Mínimos
-
-Comercial 10
-
-Industrial 12
-
-Agropecuario 8
-
-De servicio 9
-
-De más de 100 a 200 ML.
-
-Salarios Mínimos
-
-Comercial 12
-
-Industrial 14
-
-Agropecuario 10
-
-De servicio 11
-
-De más de 200 a 500 ML.
-
-Salarios Mínimos
-
-Comercial 15
-
-Industrial 17
-
-Agropecuario 12
-
-De Servicio 13
-
-De más de 500 ML.
-
-Salarios Mínimos
-
-Comercial 22
-
-Industrial 24
-
-Agropecuario 14
-
-De servicio 15
-
-b) De construcción o ampliación, por metro cuadrado o fracción:
-
-Si el terreno es de uso:
-
-De 1 a 40 M2.
-
-Salarios Mínimos
-
-Residencial 7
-
-Medio 6
-
-Interés Social 3
-
-Popular (sic)
-
-De más de 40 a 60 M2.
-
-Salarios Mínimos
-
-Residencial 12
-
-Medio 9
-
-Interés Social 4.5
-
-Popular 4.5
-
-De más de 60 a 80 M2.
-
-Salarios Mínimos
-
-Residencial 15
-
-Medio 12
-
-Interés Social 6
-
-Popular 6
-
-De más de 80 a 100 M2.
-
-Salarios Mínimos
-
-Residencial 17.5
-
-Medio 14.6
-
-Interés Social 7.3
-
-Popular 7.3
-
-De más de 100 a 150 M2.
-
-Salarios Mínimos
-
-Residencial 23.5
-
-Medio 20.5
-
-Interés Social 10.5
-
-Popular 10.5
-
-De más de 150 a 200 M2.
-
-Salarios Mínimos
-
-Residencial 30
-
-Medio 27
-
-Interés Social 13
-
-Popular 13
-
-De más de 200 a 300 M2.
-
-Salarios Mínimos
-
-Residencial 33
-
-Medio 29
-
-Interés Social 14.6
-
-Popular 14.6
-
-De más de 300 a 500 M2.
-
-Salarios Mínimos
-
-Residencial 36
-
-Medio 32
-
-Interés Social 16
-
-Popular 16
-
-De más de 500 a 1,000 M2.
-
-Salarios Mínimos
-
-Residencial 39
-
-Medio 35
-
-Interés Social 17.5
-
-Popular 17.5
-
-De más de 1,000 M2.
-
-Salarios Mínimos
-
-Residencial 42
-
-Medio 38
-
-Interés Social 19
-
-Popular 19
-
-Si el terreno es de uso:
-
-De 1 a 40 M2.
-
-Salarios Mínimos
-
-Comercial 13
-
-Industrial 12
-
-Agropecuario 8
-
-De servicio 9
-
-De más de 40 a 60 M2
-
-Salarios Mínimos
-
-Comercial 16
-
-Industrial 14
-
-Agropecuario 9
-
-Servicio 10
-
-De más de 60 a 80 M2
-
-Salarios Mínimos
-
-Comercial 17.5
-
-Industrial 15.5
-
-Agropecuario 10
-
-De servicio 11
-
-De más de 80 a 100 M2
-
-Salarios Mínimos
-
-Comercial 21
-
-Industrial 20
-
-Agropecuario 11
-
-De servicio 12
-
-De más de 100 a 150 M2
-
-Salarios Mínimos
-
-Comercial 24
-
-Industrial 23
-
-Agropecuario 12
-
-De Servicio 13
-
-De más de 150 a 200 M2.
-
-Salarios Mínimos
-
-Comercial 27
-
-Industrial 26
-
-Agropecuario 13
-
-De servicio 14
-
-De más de 200 a 300 M2.
-
-Salarios Mínimos
-
-Comercial 29
-
-Industrial 28
-
-Agropecuario 14
-
-De Servicio 15
-
-De más de 300 a 500 M2.
-
-Salarios Mínimos
-
-Comercial 36
-
-Industrial 35
-
-Agropecuario 16
-
-De servicio 18
-
-De más de 500 a 1,000 M2.
-
-Salarios Mínimos
-
-Comercial 44
-
-Industrial 42
-
-Agropecuario 18
-
-De Servicio 16
-
-De más de 1,000 M2.
-
-Salarios Mínimos
-
-Comercial 73
-
-Industrial 70
-
-Agropecuario 40
-
-De servicio 30
-
-c) Para fusionar, subdividir o relotificar, en términos de la normatividad aplicable, por metro cuadrado o fracción sobre el total de la superficie:
-
-Si el terreno es de uso:
-
-Habitacional, de categoría:
-
-De 1 a 500 M2.
-
-Salarios Mínimos
-
-Residencial 4
-
-Medio 2
-
-Interés Social 1.5
-
-Popular 1
-
-De más de 500 a 1,000 M2.
-
-Salarios Mínimos
-
-Residencial 6
-
-Medio 4
-
-Interés Social 3
-
-Popular 2
-
-De más de 1,000 a 3,000 M2.
-
-Salarios Mínimos
-
-Residencial 10
-
-Medio 8
-
-Interés Social 6
-
-Popular 4
-
-De más de 3,000 a 5,000 M2.
-
-Salarios Mínimos
-
-Residencial 20
-
-Medio 15
-
-Interés Social 10
-
-Popular 6
-
-De más de 5,000 a 10,000 M2.
-
-Salarios Mínimos
-
-Residencial 25
-
-Medio 20
-
-Interés Social 15
-
-Popular 10
-
-De más de 10,000 M2.
-
-Salarios Mínimos
-
-Residencial 30
-
-Medio 25
-
-Interés Social 20
-
-Popular 15
-
-Si el terreno es de uso:
-
-De 1 a 500 M2
-
-Salarios Mínimos
-
-Comercial 5
-
-Industrial 5
-
-Agropecuario 1
-
-De servicio 2
-
-De más de 500 a 1,000 M2
-
-Salarios Mínimos
-
-Comercial 8
-
-Industrial 8
-
-Agropecuario 2
-
-Servicio 4
-
-De más de 1,000 a 3,000 M2
-
-Salarios Mínimos
-
-Comercial 15
-
-Industrial 15
-
-Agropecuario 8
-
-De servicio 12
-
-De más de 3,000 a 5,000 M2
-
-Salarios Mínimos
-
-Comercial 24
-
-Industrial 24
-
-Agropecuario 10
-
-De servicio 19
-
-De más de 5,000 a 10,000 M2
-
-Salarios Mínimos
-
-Comercial 30
-
-Industrial 30
-
-Agropecuario 10
-
-De Servicio 20
-
-De más de 10,000 M2.
-
-Salarios Mínimos
-
-Comercial 40
-
-Industrial 40
-
-Agropecuario 15
-
-De servicio 25
-
-d) Para fraccionamientos de terrenos, en términos de la normatividad aplicable, sobre el área total a fraccionar o lotificar, por metro cuadrado o fracción:
-
-Si el terreno es de uso:
-
-Habitacional de categoría
-
-De 1 a 500 M2
-
-Salarios Mínimos
-
-Residencial 4
-
-Medio 2
-
-Interés Social 1.5
-
-Popular 1
-
-De más de 500 a 1,000 M2.
-
-Salarios Mínimos
-
-Residencial 6
-
-Medio 4
-
-Interés Social 3
-
-Popular 2
-
-De más de 1,000 a 3,000 M2.
-
-Salarios Mínimos
-
-Residencial 10
-
-Medio 8
-
-Interés Social 6
-
-Popular 4
-
-De más de 3,000 a 5,000 M2.
-
-Salarios Mínimos
-
-Residencial 20
-
-Medio 15
-
-Interés Social 10
-
-Popular 6
-
-De más de 5,000 a 10,000 M2.
-
-Salarios Mínimos
-
-Residencial 25
-
-Medio 20
-
-Interés Social 15
-
-Popular 10
-
-De más de 10,000 M2.
-
-Salarios Mínimos
-
-Residencial 30
-
-Medio 25
-
-Interés Social 20
-
-Popular 15
-
-Si el terreno es de uso:
-
-De 1 a 500 M2.
-
-Salarios Mínimos
-
-Comercial 5
-
-Industrial 5
-
-Agropecuario 1
-
-De servicio 2
-
-De más de 500 a 1,000 M2
-
-Salarios Mínimos
-
-Comercial 8
-
-Industrial 8
-
-Agropecuario 2
-
-Servicio 4
-
-De más de 1,000 a 3,000 M2
-
-Salarios Mínimos
-
-Comercial 15
-
-Industrial 15
-
-Agropecuario 4
-
-De servicio 8
-
-De más de 3,000 a 5,000 M2
-
-Salarios Mínimos
-
-Comercial 20
-
-Industrial 20
-
-Agropecuario 6
-
-De servicio 15
-
-De más de 5,000 a 10,000 M2
-
-Salarios Mínimos
-
-Comercial 30
-
-Industrial 30
-
-Agropecuario 10
-
-De Servicio 20
-
-De más de 10,000 M2
-
-Salarios Mínimos
-
-Comercial 40
-
-Industrial 40
-
-Agropecuario 15
-
-De servicio 25
-
-e) Por demoliciones, por metro cuadrado:
-
-Si el terreno es de uso:
-
-Habitacional, de categoría
-
-De 1 a 50 M2
-
-Salarios Mínimos
-
-Residencial 8
-
-Medio 6
-
-Interés Social 5
-
-Popular 4
-
-De más de 50 a 100 M2
-
-Salarios Mínimos
-
-Residencial 10
-
-Medio 8
-
-Interés Social 6
-
-Popular 5
-
-De más de 100 a 200 M2
-
-Salarios Mínimos
-
-Residencial 12
-
-Medio 10
-
-Interés Social 8
-
-Popular 6
-
-De más de 200 M2
-
-Salarios Mínimos
-
-Residencial 15
-
-Medio 12
-
-Interés Social 8
-
-Popular 6
-
-Si el terreno es de uso:
-
-De 1 a 50 M2
-
-Salarios Mínimos
-
-Comercial 10
-
-Industrial 10
-
-Agropecuario 4
-
-De servicio 8
-
-De más de 50 a 100 M2
-
-Salarios Mínimos
-
-Comercial 15
-
-Industrial 15
-
-Agropecuario 5
-
-Servicio 10
-
-De más de 100 a 200 M2
-
-Salarios Mínimos
-
-Comercial 20
-
-Industrial 20
-
-Agropecuario 10
-
-De servicio 12
-
-De más de 200 M2
-
-Salarios Mínimos
-
-Comercial 25
-
-Industrial 25
-
-Agropecuario 20
-
-De servicio 15
-
-f) Por la construcción de albercas y depósitos de agua, por metro cúbico o fracción, 0.25 salarios mínimos.
-
-g) Por la construcción de tanques subterráneos para almacenamiento de material peligroso, por metro cúbico o fracción, 0.50 salarios mínimos.
-
-h) Para la conversión al régimen de propiedad en condominio, por metro cuadrado:
-
-Si el terreno es de uso:
-
-Habitacional de categoría:
-
-De 1 a 100 m2.
-
-Salarios Mínimos
-
-Residencial 8
-
-Medio 5
-
-Interés Social 3
-
-Popular 2
-
-De más de 100 a 200 M2.
-
-Salarios Mínimos
-
-Residencial 12
-
-Medio 8
-
-Interés Social 5
-
-Popular 3
-
-De más de 200 a 300 M2.
-
-Salarios Mínimos
-
-Residencial 15
-
-Medio 12
-
-Interés Social 8
-
-Popular 5
-
-De más de 300 a 400 M2.
-
-Salarios Mínimos
-
-Residencial 20
-
-Medio 15
-
-Interés Social 12
-
-Popular 8
-
-De más de 400 a 500 M2.
-
-Salarios Mínimos
-
-Residencial 25
-
-Medio 20
-
-Interés Social 15
-
-Popular 12
-
-De más de 500 a 1,000 M2.
-
-Salarios Mínimos
-
-Residencial 30
-
-Medio 25
-
-Interés Social 20
-
-Popular 15
-
-De más de 1000 M2.
-
-Salarios Mínimos
-
-Residencial 35
-
-Medio 30
-
-Interés Social 25
-
-Popular 20
-
-Si el terreno es de uso:
-
-De 1 a 100 M2
-
-Salarios Mínimos
-
-Comercial 10
-
-Industrial 10
-
-Agropecuario 2
-
-De servicio 5
-
-De más de 100 a 200 M2
-
-Salarios Mínimos
-
-Comercial 15
-
-Industrial 15
-
-Agropecuario 3
-
-Servicio 8
-
-De más de 200 a 300 M2
-
-Salarios Mínimos
-
-Comercial 20
-
-Industrial 20
-
-Agropecuario 5
-
-De servicio 12
-
-De más de 300 a 400 M2
-
-Salarios Mínimos
-
-Comercial 25
-
-Industrial 25
-
-Agropecuario 8
-
-De servicio 15
-
-De más de 400 a 500 M2
-
-Salarios Mínimos
-
-Comercial 30
-
-Industrial 30
-
-Agropecuario 12
-
-De Servicio 20
-
-De más de 500 a 1000 M2
-
-Salarios Mínimos
-
-Comercial 35
-
-Industrial 35
-
-Agropecuario 15
-
-De Servicio 25
-
-De más de 1000 M2
-
-Salarios Mínimos
-
-Comercial 40
-
-Industrial 40
-
-Agropecuario 20
-
-De servicio 30
-
-i)De uso de suelo, según clasificación, por metro cuadrado o fracción
-
-Salarios mínimos
-
-Vivienda 0.05
-
-Industria 0.10
-
-Comercio 0.30
-
-Servicios 0.20
-
-j) De cambio de uso de suelo, cuando el Municipio contare con un Programa de Ordenamiento Urbano, en términos de la normatividad aplicable, se pagará el cincuenta por ciento de la cuota establecida para una licencia de uso de suelo.
-
-IV. Por deslinde de predios, por metro cuadrado o fracción:
-
-Si el terreno es de uso
-
-Habitacional, de categoría:
-
-De 1 a 200 M2.
-
-Salarios Mínimos
-
-Residencial 3
-
-Medio 3
-
-Interés Social 2
-
-Popular 1.5
-
-De más de 200 a 300 M2.
-
-Salarios Mínimos
-
-Residencial 4
-
-Medio 4
-
-Interés Social 3
-
-Popular 2
-
-De más de 300 a 500 M2.
-
-Salarios Mínimos
-
-Residencial 8
-
-Medio 8
-
-Interés Social 5
-
-Popular 3
-
-De más de 500 a 1000 M2.
-
-Salarios Mínimos
-
-Residencial 12
-
-Medio 10
-
-Interés Social 8
-
-Popular 6
-
-De más de 1,000 a 3,000 M2.
-
-Salarios Mínimos
-
-Residencial 25
-
-Medio 20
-
-Interés Social 12
-
-Popular 8
-
-De más de 3,000 a 5,000 M2.
-
-Salarios Mínimos
-
-Residencial 50
-
-Medio 40
-
-Interés Social 15
-
-Popular 12
-
-De más de 5,000 a 10,000 M2.
-
-Salarios Mínimos
-
-Residencial 80
-
-Medio 70
-
-Interés Social 20
-
-Popular 15
-
-De más de 10,000 M2.
-
-Salarios Mínimos
-
-Residencial 100
-
-Medio 90
-
-Interés Social 25
-
-Popular 20
-
-Si el terreno es de uso:
-
-De 1 a 200 M2
-
-Salarios Mínimos
-
-Comercial 4
-
-Industrial 4
-
-Agropecuario 1.5
-
-De servicio 3
-
-De más de 200 a 300 M2
-
-Salarios Mínimos
-
-Comercial 6
-
-Industrial 6
-
-Agropecuario 2
-
-Servicio 4
-
-De más de 300 a 500 M2
-
-Salarios Mínimos
-
-Comercial 8
-
-Industrial 8
-
-Agropecuario 3
-
-De servicio 8
-
-De más de 500 a 1,000 M2
-
-Salarios Mínimos
-
-Comercial 12
-
-Industrial 12
-
-Agropecuario 6
-
-De servicio 10
-
-De más de 1,000 a 3,000 M2
-
-Salarios Mínimos
-
-Comercial 15
-
-Industrial 15
-
-Agropecuario 8
-
-De Servicio 20
-
-De más de 3,000 a 5,000 M2
-
-Salarios Mínimos
-
-Comercial 30
-
-Industrial 50
-
-Agropecuario 12
-
-De Servicio 40
-
-De más de 5,000 a 10,000 M2
-
-Salarios Mínimos
-
-Comercial 60
-
-Industrial 60
-
-Agropecuario 15
-
-De Servicio 70
-
-De más de 10,000 M2.
-
-Salarios Mínimos
-
-Comercial 120
-
-Industrial 120
-
-Agropecuario 20
-
-De servicio 90
-
-V. Por registro, estudio y aprobación de planos y proyectos de construcción, remodelación o ampliación
-
-Si el terreno es de uso:
-
-Habitacional de categoría
-
-Salarios Mínimos
-
-Residencial 2
-
-Medio 1.5
-
-Interés Social 1
-
-Popular 0.50
-
-Si el terreno es de uso:
-
-Salarios Mínimos
-
-Comercial 2
-
-Industrial 2
-
-Agropecuario 1
-
-De servicio 1
-
-La modificación de proyectos también causará derechos, a razón de un cincuenta por ciento sobre las cuotas que correspondan.
+Los derechos por obras materiales se describirán, causarán y pagarán, en salarios mínimos, conforme a las cuotas establecidas en la Ley de Ingresos correspondiente al periodo fiscal aplicable.
 
 ### CAPÍTULO IV. DE LOS DERECHOS POR LOS SERVICIOS DE AGUA POTABLE Y DRENAJE DEL MUNICIPIO
 
@@ -3599,21 +2361,9 @@ Son sujetos de este derecho, las personas físicas o morales que soliciten los s
 
 Los funcionarios facultados para prestar los servicios a que se refiere este Capítulo verificarán que previamente se hayan cubierto los derechos correspondientes.
 
-Los derechos por expedición de certificaciones y otros servicios, se causarán y pagarán conforme a las cuotas siguientes:
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
 
-I. Certificado o certificaciones expedidos por funcionarios o empleados municipales, incluyendo la búsqueda de datos para expedirlos, por cada certificado, de 1.25 salarios mínimos.
-
-II. Copias de documentos que obren en los archivos de oficinas municipales:
-
-a) Por hoja escrita a doble espacio en ambas caras, 1.25 salarios mínimos.
-
-b) Por hoja que indica el inciso anterior, escrita a un espacio por ambas caras, 1.25 salarios mínimos.
-
-c) En los casos a que se refieren las fracciones anteriores, cuando se escriba por una sola cara de la hoja, 1.25 salarios mínimos.
-
-En el caso a que se refiere esta fracción además de los derechos que establecen los incisos que anteceden, se cobrará por la búsqueda de los documentos de los que deba sacarse copia cuando el interesado no proporcione los datos exactos para su localización, por cada año que comprenda la busca, 0.25 salarios mínimos; y
-
-III. Evaluación de impacto ambiental, veinte salarios mínimos.
+Los derechos por expedición de certificaciones y otros servicios, se causarán y pagarán conforme a las cuotas establecidas en la Ley de Ingresos correspondiente al periodo fiscal aplicable.
 
 ### CAPÍTULO VI. DE LOS DERECHOS POR SERVICIOS DE RASTRO O LUGARES AUTORIZADOS
 
@@ -3637,7 +2387,9 @@ El pago de este derecho se efectuará previamente a la prestación del servicio,
 
 Por la prestación de servicios que se proporcionan en los rastros públicos municipales se causarán derechos conforme a las cuotas siguientes:
 
-I. Bovino, por cada animal: 1.5 a 3.0 salarios mínimos;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+I. Bovino, por cada animal: 2 a 3.0 salarios mínimos;
 
 II. Porcino y equino, por cada animal: 0.5 a 1.0 salarios mínimos;
 
@@ -3655,27 +2407,11 @@ VI. Por uso de frigoríficos, después de transcurridas veinticuatro horas del i
 
 Son objeto de estos derechos, los servicios de inhumación, cremación y exhumación de cadáveres o restos humanos, apertura y cierre de gavetas, depósito de restos en osario, construcción, reconstrucción y ampliación de monumentos, criptas o fosas.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 230.
 
-Son sujetos de estos derechos, las personas físicas o morales que soliciten la prestación de los servicios que señala el artículo anterior, quienes pagarán, en salarios mínimos, las cuotas siguientes:
-
-I. Inhumaciones por siete años y refrendo de fosas 1
-
-II. Inhumaciones en fosas a perpetuidad 3
-
-III. Depósito de restos en osario por una temporalidad de 7 años 1
-
-IV. Depósito de restos en el osario a perpetuidad 3
-
-V. Construcción, reconstrucción, ampliación o modificación de monumentos, criptas o fosas 4.2
-
-VI. Inhumación de restos, apertura o cierre de gavetas y demás operaciones semejantes 5.0
-
-VII. Exhumaciones 5.0
-
-VIII. Reinhumaciones 5.0
-
-IX. Cremaciones 35.0
+Son sujetos de estos derechos las personas físicas o morales que soliciten la prestación de los servicios que señala el artículo anterior, quienes pagarán, en salarios mínimos, las cuotas establecidas en la Ley de Ingresos correspondiente al periodo fiscal aplicable.
 
 ### CAPÍTULO VIII. DE LOS DERECHOS POR SERVICIOS DE RECOLECCIÓN, TRANSPORTE Y DISPOSICIÓN FINAL DE DESECHOS SÓLIDOS
 
@@ -3703,31 +2439,21 @@ En caso de que se concesione el servicio, las tarifas que cobren los concesionar
 
 El pago de derechos a que este Capítulo se refiere, deberá efectuarse:
 
-I. Tratándose de los sujetos señalados en la fracción I del artículo anterior, durante los primeros diez días de cada mes, pudiéndose optar por efectuar el pago de manera anual, durante los primeros dos meses del ejercicio fiscal;
+> <small>(REFORMADA, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+I. Tratándose de los sujetos señalados en la fracción I del Artículo 233 del presente Código, durante los días laborables desde el mes de enero y hasta el último día del mes de marzo en conjunto con el pago del impuesto predial correspondiente al inmueble;
 
 II. Tratándose de establecimientos comerciales, industriales o prestadores de servicios, el pago deberá realizarse dentro de los primeros quince días del mes siguiente a aquél en que se prestó el servicio; y
 
 III. Tratándose de empresas de espectáculos públicos, el pago se hará conforme a lo dispuesto por el artículo 149, fracción II, inciso h), de este Código.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 235.
 
-Los derechos a que este Capítulo se refiere, se causarán y pagarán mensualmente de conformidad con las cuotas siguientes:
+Los derechos a que este Capítulo se refiere se causarán y pagarán de acuerdo a la periodicidad establecida en el artículo 234 del presente Código y de acuerdo a las cuotas establecidas en la Ley de Ingresos correspondiente al periodo fiscal aplicable.
 
-I. Por cada inmueble destinado a uso habitacional, de tipo:
-
-Salarios mínimos
-
-Residencial 0.5
-
-Medio 0.4
-
-Interés social 0.3
-
-Popular 0.2
-
-II. Por cada industria o comercio, así como empresas que presenten espectáculos públicos, 0.5 a 100 salarios mínimos mensuales, sin que en ningún caso la cuota resulte menor a la establecida para inmuebles de uso habitacional de tipo residencial.
-
-Aquellos contribuyentes que opten por el pago anual recibirán un descuento del veinte por ciento.
+Aquellos contribuyentes que opten por el pago anual durante los meses de enero a febrero recibirán un descuento del quince por ciento en el primer mes y diez por ciento en el segundo.
 
 ### CAPÍTULO IX. DE LOS DERECHOS POR LIMPIEZA DE PREDIOS NO EDIFICADOS
 
@@ -3761,77 +2487,19 @@ Son sujetos de este derecho, las personas físicas o morales que sean propietari
 
 Es base gravable el volumen de material extraído cuantificado en metros cúbicos o, en su defecto, por el lapso de explotación del banco de material.
 
-Por los derechos a que se refiere este Capítulo se pagará, por metro cúbico o fracción de material extraído, la cuota de 0.01 salarios mínimos.
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Por los derechos a que se refiere este Capítulo se pagará, por metro cúbico o fracción de material extraído, la cuota de 0.025 salarios mínimos.
 
 En el caso de que no sea posible determinar el volumen de material extraído, este derecho se pagará a razón de un salario mínimo diario.
 
 ### CAPÍTULO XI. DE LOS DERECHOS POR SERVICIOS PRESTADOS POR LA TESORERÍA
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 242.
 
-Son objeto de estos derechos los servicios siguientes, que se causarán y pagarán de conformidad con las cuotas que en cada caso se señalan:
-
-I. Rectificación o cancelación de los datos asentados en la declaración inicial de traslado de dominio, a solicitud del interesado, 1 salario mínimo;
-
-> <small>(REFORMADA, G.O. 20 DE DICIEMBRE DE 2006)</small>
-
-II. Por la expedición de Cédula del Registro Único de Bienes Inmuebles, por predio 7 salarios mínimos;
-
-> <small>(REFORMADA, G.O. 20 DE DICIEMBRE DE 2006)</small>
-
-III. Por la expedición de un certificado de valor catastral o catastral provisional; para efecto del impuesto de traslación de dominio u otros, 10 salarios mínimos;
-
-> <small>(REFORMADA, G.O. 20 DE DICIEMBRE DE 2006)</small>
-
-IV. Por la expedición de una constancia de datos catastrales, 4 salarios mínimos;
-
-> <small>(REFORMADA, G.O. 20 DE DICIEMBRE DE 2006)</small>
-
-V. Por la expedición de constancia de No Adeudo o cualquier otro que se expida, 2 salario mínimos
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 20 DE DICIEMBRE DE 2006)</small>
-
-VI. Expedición de cartografía catastral, propiedad del municipio:
-
-a) Copias en papel heliográfico o bond por plano general de localidad, con curvas de nivel al metro y cuotas de crucero, en escala 1:2,000, por hoja, 4.5 salarios mínimos.
-
-b) Copias en papel heliográfico o bond por plano general de localidad, en escalas aproximadas 1:4,000, 1:5,000, 1:7,500 y 1:10,000, 3 salarios mínimos.
-
-c) Copias en papel heliográfico o bond por plano manzanero de localidades catastradas, en escala 1:500 ó 1:1,000.
-
-1.- De 1 hasta 100 planos, por plano, 4.5 salarios mínimos.
-
-2.- De 101 planos en adelante, por plano, 3 salarios mínimos.
-
-d) Copias del plano de región catastral, sin escala, con nomenclatura y valores catastrales del suelo urbano, por hoja; 3 salarios mínimos.
-
-e) Copias del plano perimetral tamaño carta de un predio registrado en la cartografía catastral urbana, en escala 1:500, por plano; 3 salarios mínimos.
-
-f) Cartografía digital en escala 1:1,000 en formatos DXF., DWG. y ARC/INFO., por km2:
-
-1.- Cobertura de manzanas, 22 salarios mínimos.
-
-2.- Cobertura de predios, 64 salarios mínimos.
-
-3.- Cobertura de construcciones, 64 salarios mínimos.
-
-4.- Cobertura de curvas de nivel a cada metro, 10 salarios mínimos.
-
-g) Copias de contacto de fotografías aéreas, en escalas 1:4,500 1:10,000 y 1:20,000:
-
-1.- En papel bond, imagen blanco y negro. En formato 23 x 23 cm., por copia, 1 salario mínimo.
-
-2.- Grabada con escáner e impresión en papel bond blanco y negro, en formato 23 x 23 cm., por copia, 1.1 salario mínimo.
-
-3.- Grabada en diskette de 3.5" o disco compacto, por copia, 3.8 salarios mínimos.
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 20 DE DICIEMBRE DE 2006)</small>
-
-VII. Por la certificación de cada plano catastral propiedad del municipio, 3 salarios mínimos.
-
-> <small>(ADICIONADA, G.O. 20 DE DICIEMBRE DE 2006)</small>
-
-VIII. La certificación de documentos públicos que obran en el archivo de la Tesorería, 2 salarios mínimos.
+Son objeto de estos derechos los servicios prestados por la tesorería los que se describirán, causarán y pagarán de conformidad con lo establecido en la Ley de Ingresos correspondiente al periodo fiscal aplicable.
 
 ###### Artículo 243.
 
@@ -3839,35 +2507,33 @@ Son sujetos de estos derechos, las personas físicas o morales que soliciten los
 
 ### CAPÍTULO XII. DE LOS DERECHOS POR LOS SERVICIOS DEL REGISTRO CIVIL
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 244.
 
-Son objeto de estos derechos los servicios de inscripción de actos del estado civil y la expedición de copias de las actas respectivas, así como los servicios extraordinarios de celebración de matrimonios a domicilio y los demás que señale la legislación en la materia.
+Son objeto de estos derechos los servicios de inscripción de actos del estado civil, la expedición de copias certificadas de las actas respectivas, las constancias diversas referentes al estado civil de las personas, así como los servicios extraordinarios de celebración de matrimonios a domicilio y los demás que señale la legislación en la materia.
 
 ###### Artículo 245.
 
 Son sujetos de estos derechos, las personas físicas o morales que soliciten los servicios a que se refiere el artículo anterior.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 246.
 
-Los derechos a que se refiere este Capítulo se causarán y pagarán, en salarios mínimos, de acuerdo a las cuotas siguientes:
+Los derechos a que se refiere este Capítulo se causarán y pagarán, en salarios mínimos, de acuerdo a las cuotas establecidas en la Ley de Ingresos correspondiente al periodo fiscal aplicable.
 
-> <small>(REFORMADA, G.O. 13 DE MARZO DE 2015)</small>
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
 
-I. Por la expedición de copias de actas del Registro Civil, incluyendo el papel sellado, 1.042 salarios mínimos, con excepción de la primera copia certificada del acta de registro de nacimiento de una persona y, en su caso, del acta de adopción;
+Cuando no se proporcionen los datos exactos de localización para alguno de los documentos anteriores se pagará una cuota de 0.5 salarios mínimos.
 
-II. Registro de nacimientos ordinarios y extemporáneos, 1.042 salarios mínimos;
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
 
-III. Reconocimiento de hijos, 5.21 salarios mínimos;
+Cuando se trate de trámites urgentes se incrementará el costo del mismo en un cien por ciento más de la cuota autorizada.
 
-IV. Adopciones, 1.042 salarios mínimos;
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
 
-V. Celebración de matrimonios en oficina, 10.42 salarios mínimos;
-
-VI. Celebración de matrimonios a domicilio, 20.83 salarios mínimos;
-
-VII. Inscripción de sentencias, 5.21 salarios mínimos; y
-
-VIII. Divorcios, 10.42 salarios mínimos.
+Cuando los documentos se soliciten por algún medio de tipo electrónico, telefónico o cualquier otro que la tecnología permita y se requiera un envío físico del mismo, el costo de cada trámite se tomará como equivalente al servicio urgente y dependiendo del lugar, los servicios de paquetería que se contemplen y el costo de envío no será incluido.
 
 ### CAPÍTULO XIII. DE LOS DERECHOS POR OCUPACIÓN DE INMUEBLES DEL DOMINIO PÚBLICO
 
@@ -3877,23 +2543,97 @@ Es objeto de estos derechos la ocupación de inmuebles del dominio público del 
 
 Las personas que utilicen espacios en mercados, así como en tianguis, deberán acreditar ante el Ayuntamiento, el permiso correspondiente al área que ocupen, a efecto de conformarse un padrón por cada mercado, debiendo el Ayuntamiento expedir una Cédula de Registro, previo el pago de derechos correspondientes.
 
+> <small>(REFORMADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 248.
 
-Los derechos por la ocupación de espacios, se calcularán y pagarán de conformidad con las cuotas siguientes:
+Los derechos por la ocupación de espacios, se describirán, calcularán y pagarán de conformidad con las cuotas establecidas en la Ley de Ingresos correspondiente al periodo fiscal aplicable.
 
-I. La ocupación de espacios en mercados municipales se pagará diariamente por metro cuadrado, a razón de 0. 01 a 0.05 salarios mínimos.
+> <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, G.O. 31 DE DICIEMBRE DE 2015)</small>
 
-Las altas, traspasos, cambios, ampliaciones de giro y arreglo o modificaciones de locales o áreas que ocupen, se efectuarán de conformidad con la normatividad aplicable, previa autorización del Ayuntamiento;
+### CAPÍTULO XIV. DE LOS DERECHOS POR SERVICIOS PRESTADOS EN MATERIA DE PROTECCIÓN CIVIL
 
-II. La ocupación de espacios en vía pública o áreas municipales, exceptuando las áreas verdes, se pagará diariamente, por metro cuadrado o fracción, previa autorización correspondiente, a razón de 0.05 a 0.125 salarios mínimos;
+> <small>(ADICIONADO, G.O. 31 DE DICIEMBRE DE 2015)</small>
 
-III. La ocupación temporal de la vía pública o áreas municipales, exceptuando las áreas verdes, por vehículos, aparatos mecánicos o electromecánicos, por tianguis, ferias o similares, se pagará diariamente, por metro cuadrado o fracción, a razón de 1 a 4 salarios mínimos;
+###### Artículo 248 Bis
 
-IV. El estacionamiento en la vía pública se pagará, mediante utilización de parquímetros, a razón de 0.125 salarios mínimos por hora o fracción.
+Por los servicios prestados en materia de Protección Civil se causarán y cobrarán en salarios mínimos, los siguientes derechos:
 
-### CAPÍTULO ÚNICO
+I. Por la emisión de dictámenes técnicos y anuencias de instalaciones públicas y privadas.
+
+Alto riesgo
+
+1 a 166 metros cuadrados de superficie: 26
+
+167 a 332 metros cuadrados de superficie: 52
+
+333 a 500 metros cuadrados de superficie: 80
+
+Riesgo medio
+
+1 a 166 metros cuadrados de superficie: 23
+
+167 a 332 metros cuadrados de superficie: 46
+
+333 a 500 metros cuadrados de superficie: 70
+
+Bajo riesgo
+
+1 a 60 metros cuadrados de superficie: 7
+
+61 a 125 metros cuadrados de superficie: 14
+
+126 a 190 metros cuadrados de superficie: 21
+
+191 a 250 metros cuadrados de superficie: 28
+
+251 a 315 metros cuadrados de superficie: 35
+
+316 a 380 metros cuadrados de superficie: 42
+
+381 a 500 metros cuadrados de superficie: 60
+
+Se cobrarán 20 salarios mínimos adicionales por cada 500 metros cuadrados de superficie o fracción que exceda los primeros 500 metros cuadrados de superficie de los rubros mencionados.
+
+II. Por impartición de cada curso de capacitación a personas físicas o morales:
+
+Persona física: 2
+
+Persona moral: 60
+
+III. Por registro como tercero acreditado que por su actividad y experiencia se vinculen con la protección civil, para llevar a cabo cursos de capacitación, estudios de riesgo y vulnerabilidad, programas internos y especiales:
+
+Persona física: 25
+
+Persona moral: 50
+
+IV. Renovación de registro como terceros acreditados.
+
+Persona física: 12
+
+Personas morales: 24
+
+V. Por la autorización de programas especiales de Protección Civil que se presenten para la realización de un evento o espectáculo en el municipio, para promotores particulares, se pagará:
+
+Aforo del evento:
+
+De 1 a 1,000 asistentes: 40
+
+De 1,001 a 5,000 asistentes: 60
+
+De 5,001 a 10,000 asistentes: 80
+
+De 10,001 en adelante: 90
+
+VI. Por la emisión de la factibilidad de Protección Civil, para
+
+Personas físicas: 3
+
+Personas morales: 10
 
 ## TÍTULO TERCERO. DE LAS CONTRIBUCIONES POR MEJORAS
+
+### CAPÍTULO ÚNICO
 
 ###### Artículo 249.
 
@@ -4140,3 +2880,11 @@ G.O. 13 DE MARZO DE 2015.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
+
+G.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 621 POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DEL CÓDIGO NÚMERO 571 HACENDARIO PARA EL MUNICIPIO DE MINATITLÁN, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Artículo Primero. El presente decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+Artículo Segundo. Se derogan las disposiciones que se opongan al presente decreto.
