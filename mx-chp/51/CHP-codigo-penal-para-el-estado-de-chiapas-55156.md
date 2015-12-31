@@ -4,7 +4,7 @@ identifier: "CHP-codigo-penal-para-el-estado-de-chiapas-55156"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-03-14"
-last_updated: "2015-09-21"
+last_updated: "2015-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55156&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHP"
 
 CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Código publicado en la Tercera Sección del Periódico Oficial del Estado de Chiapas, el miércoles 14 de marzo de 2007.
 
@@ -3959,9 +3959,11 @@ El que así lo hiciera mostrando tatuajes, haciendo señas con las manos, portan
 
 Las penas señaladas en este artículo, se aplicarán siempre que haya sido la persona a quien se solicitó la dádiva o el dinero, quien haya determinado el objeto o la cantidad a entregar a los pandilleros, ya que en el caso contrario, cuando haya sido el pandillero quien haya exigido una cantidad o, un objeto determinado, o la totalidad de los valores de la víctima, se aplicarán en este supuesto las penas correspondientes al delito de robo con sus modalidades.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 375.
 
-Los que en grupo de dos o más personas, exijan pago de peaje, para transitar sobre cualquier lugar dentro del territorio del Estado, a transeúntes o conductores de vehículos del servicio particular o público, serán sancionados con prisión de tres a cinco años.
+Los que en grupo de dos o más personas, obstruyan la vía pública, entendiéndose con esto las calles, libramientos, boulevares, avenidas, camellones, carreteras, y en general todo espacio de dominio público y uso común, que por disposición de la autoridad o por razón del servicio, están destinadas al tránsito de personas, vehículos o cosas; exijan pago de peaje, para transitar sobre estas, a transeúntes o conductores de vehículos del servicio particular o público, serán sancionados con prisión de cinco a diez años.
 
 #### Sección Tercera. Delincuencia Organizada
 
@@ -4715,7 +4717,9 @@ II.- Cualquier persona que promueva la conducta ilícita del servidor público, 
 
 III.- El servidor público que, por sí o por interpósita persona, solicite o promueva cualquier resolución o la realización de cualquier acto materia del empleo, cargo o comisión de otro servidor público, que produzca beneficios económicos para sí o para cualquiera de las personas a que hace referencia la fracción I del artículo anterior.
 
-IV.- Al que valiéndose del cargo que ocupe en el gobierno, una empresa descentralizada o de participación estatal, o en cualquiera agrupación de carácter sindical, o de sus relaciones con los servidores públicos o dirigentes de dichos organismos, obtenga dinero, valores, dádivas, obsequios o cualquier otro beneficio a cambio de:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+IV.- Al que valiéndose del cargo que ocupe en el gobierno, una empresa descentralizada o de participación estatal, o en cualquiera agrupación de carácter sindical, o en forma particular, obtenga dinero, valores, dádivas, obsequios o cualquier otro beneficio a cambio de:
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE INCISO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4728,6 +4732,10 @@ b) Ofertar servicios de gestoría, que impliquen o hagan presuponer capacidad pa
 c) Otorgar sin derecho concesiones o permisos temporales o permanentes para la prestación del servicio público del transporte.
 
 d) Otorgar o prometer más de una concesión o permiso para la prestación del servicio público del transporte, respecto de personas físicas.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+V.- Al servidor público y/o cualquier persona que por sí y/o por interpósita persona, solicite o reciba dinero o cualquier otra dadiva con la promesa de gestionar, otorgar o concursar para una plaza laboral, cargo o comisión en la administración pública estatal o municipal.
 
 Al que cometa el delito de tráfico de influencia, se le impondrán de tres a ocho años de prisión, multa de cincuenta a trescientos días de salario y destitución e inhabilitación de dos a seis años para desempeñar otro empleo, cargo o comisión públicos.
 
@@ -5748,3 +5756,19 @@ Artículo Primero. El presente Decreto entrará en vigor a partir del día sigui
 Artículo Segundo. Se derogan todas las disposiciones legales que dentro del estado de Chiapas hagan alusión al catálogo de delitos graves y/o de prisión preventiva oficiosa.
 
 Artículo Tercero. Todos los procedimientos penales que se hayan iniciado antes de la vigencia del presente Decreto, se substanciarán por las normas procesales aplicables al momento de la comisión del delito de que se trate.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 042 DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 375 DEL CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 043 DECRETO POR EL QUE SE REFORMA EL PÁRRAFO PRIMERO DE LA FRACCIÓN IV Y SE ADICIONA LA FRACCIÓN V AL ARTÍCULO 433 DEL CÓDIGO PENAL PARA EL ESTADO DE CHIAPAS”.]
+
+Artículo Primero.- El presente Decreto entrará en vigor, al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
