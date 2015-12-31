@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-responsabilidades-de-los-servidores-publicos-del-7590"
 country: "mx"
 rank: "ley"
 publication_date: "1984-06-29"
-last_updated: "2015-02-11"
+last_updated: "2015-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7590&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Puebla, el viernes 29 de junio de 1984.
 
@@ -515,11 +515,13 @@ Las declaraciones o resoluciones aprobadas por el Congreso del Estado con arregl
 
 Recibida por el Congreso del Estado la notificación de las declaratorias de las Cámaras del Congreso de la Unión relativa al Gobernador del Estado, Diputados Locales y Magistrados del Tribunal Superior de Justicia de la Entidad, a que se refiere el artículo 111 de la Constitución General de la República, procederá como lo dispone la presente Ley.
 
-> <small>(REFORMADO, P.O. 15 DE JULIO DE 1986)</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 48.
 
-En todo lo no previsto en los procedimientos que se contemplan en los Títulos Segundo y Tercero de esta Ley, así como en la apreciación y valoración de las pruebas, se observarán las disposiciones del Código de Procedimientos en Materia de Defensa Social del Estado. Asimismo, se aplicarán en lo conducente, las del Código de Defensa Social del Estado.
+En todo lo no previsto en los procedimientos que se contemplan en los Títulos Segundo y Tercero de esta Ley, así como en la apreciación y valoración de las pruebas, se observarán las disposiciones del Código de Procedimientos Civiles para el Estado Libre y Soberano de Puebla.
 
 ## TITULO TERCERO. RESPONSABILIDAD (SIC) ADMINISTRATIVAS
 
@@ -593,7 +595,13 @@ XXI.- Abstenerse de cualquier acto u omisión que implique incumplimiento de cua
 
 XXII.- Abstenerse los servidores del Estado y los del Municipio, de ejercer incorrectamente las atribuciones que específicamente les confiere la Ley de Desarrollo Urbano al formular, aprobar y administrar los Planes y Programas Estatales y Municipales de Desarrollo, aplicables a los centros de población ubicados dentro del territorio sobre el que ejerzan sus atribuciones; y
 
-XXIII.- Las demás que le impongan las Leyes y Reglamentos.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XXIII.- Abstenerse de respetar el derecho de las personas al uso de su nombre, provocando, por negligencia o ineptitud, que tramiten rectificaciones, enmiendas o aclaraciones de actas, cuando la ley expresamente no las requiera o que sean notoriamente improcedentes, y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XXIV.- Las demás que le impongan las Leyes y Reglamentos.
 
 ###### Artículo 51.
 
@@ -1140,5 +1148,23 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 11 DE FEBRERO DE 2015.
 
 PRIMERO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL ARTÍCULO 48 DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor treinta días hábiles siguientes a su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. En los procedimientos iniciados con anterioridad a la entrada en vigor de la presente reforma, pendientes de resolución y ejecución substanciados conforme al artículo 68 de la Ley de Responsabilidades de los Servidores Públicos del Estado, continuarán aplicándose las disposiciones del Código de Procedimientos en Materia de Defensa Social del Estado.
+
+TERCERO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMA LOS ARTÍCULOS 67 Y 936 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA, ASIMISMO REFORMA LA FRACCIÓN XXIII Y ADICIONA LA XXIV DEL ARTÍCULO 50 DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
