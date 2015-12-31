@@ -4,7 +4,7 @@ identifier: "CHP-ley-que-crea-el-instituto-del-cafe-de-chiapas-99845"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-05"
-last_updated: "2014-03-19"
+last_updated: "2015-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99845&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHP"
 
 LEY QUE CREA EL INSTITUTO DEL CAFÉ DE CHIAPAS
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 19 DE MARZO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Chiapas, el miércoles 5 de marzo de 2014.
 
@@ -45,9 +43,11 @@ Ley que crea el Instituto del Café de Chiapas
 
 ### Capítulo I. De la creación, domicilio y personalidad jurídica del Instituto del Café de Chiapas
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 1°.
 
-Se crea el Instituto del Café de Chiapas, en adelante el Instituto, como un organismo público descentralizado no sectorizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propio, autonomía administrativa, presupuestal, técnica, de gestión, de operación y ejecución, para el adecuado desempeño y desarrollo de sus funciones, mismo que atenderá los asuntos que el presente decreto, su reglamento interior y demás normatividad aplicable le señalen.
+Se crea el Instituto del Café de Chiapas, en adelante el Instituto, como un organismo descentralizado de la Administración Pública Estatal, sectorizado a la Secretaría del Campo, con personalidad jurídica y patrimonio propios, autonomía administrativa, presupuestal, técnica, de gestión, operación y ejecución, para el adecuado desempeño y desarrollo de sus funciones, mismo que atenderá los asuntos que este instrumento, su reglamento interior y demás normatividad aplicable le señalen.
 
 ###### Artículo 2°.
 
@@ -378,3 +378,13 @@ Dado en el Salón de Sesiones del H. Congreso del Estado Libre y Soberano de Chi
 De conformidad con la fracción I del artículo 44 de la Constitución Política local y para su observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la ciudad de Tuxtla Gutiérrez, Chiapas; a los cuatro días del mes de marzo del año dos mil catorce.
 
 Manuel Velasco Coello, Gobernador del Estado de Chiapas.- Óscar Eduardo Ramírez Aguilar, Secretario General de Gobierno.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 145 DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 1° DE LA LEY QUE CREA EL INSTITUTO DEL CAFÉ DE CHIAPAS”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Artículo Segundo. Se derogan todas las disposiciones que se opongan a lo dispuesto en el presente decreto.
