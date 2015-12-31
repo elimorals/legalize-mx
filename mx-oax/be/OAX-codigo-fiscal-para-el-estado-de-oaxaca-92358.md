@@ -4,7 +4,7 @@ identifier: "OAX-codigo-fiscal-para-el-estado-de-oaxaca-92358"
 country: "mx"
 rank: "codigo"
 publication_date: "2012-12-22"
-last_updated: "2015-08-05"
+last_updated: "2015-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92358&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO FISCAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Código publicado en la cuarta sección del periódico oficial del Estado de Oaxaca el sábado 22 de diciembre de 2012.
 
@@ -827,9 +827,11 @@ Cuando las autoridades fiscales hubiesen iniciado el ejercicio de sus facultades
 
 Asimismo, si después de haberse presentado dos o más declaraciones complementarias a la original, se pretenden presentar otras declaraciones complementarias en las que se modifiquen conceptos que originen el pago de lo indebido del contribuyente o tengan efectos que reduzcan las cargas tributarias de éste, deberá proporcionarse la información y en su caso anexarse a éstas los documentos que acrediten la existencia y veracidad de tales operaciones.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 61.
 
-Las personas que conforme a las disposiciones fiscales tengan obligación de presentar solicitudes en materia de registro estatal de contribuyentes, declaraciones, avisos o informes, ante las autoridades fiscales, lo harán en las formas impresas que siendo aprobadas por la Secretaría hayan sido publicadas en el Periódico Oficial del Gobierno del Estado, debiendo proporcionar el número de ejemplares, los datos e informes y los documentos que dichas formas requieran; o bien, deberán hacerlo mediante documento digital cuando así establezca la mencionada Secretaría mediante Reglas, o por la aplicación de leyes que regulen la referida forma de presentación.
+Las personas que conforme a las disposiciones fiscales tengan obligación de presentar solicitudes en materia de registro estatal de contribuyentes, declaraciones, avisos o informes, ante las autoridades fiscales, lo harán en las formas que siendo aprobadas por la Secretaría hayan sido publicadas en el Periódico Oficial del Estado, debiendo proporcionar, los datos e informes y los documentos que dichas formas requieran; o bien, deberán hacerlo mediante documento digital cuando así establezca la mencionada Secretaría mediante Reglas, o por la aplicación de leyes que regulen la referida forma de presentación.
 
 Cuando las formas para la presentación de las declaraciones, avisos e informes que prevengan las disposiciones fiscales, no hubieran sido aprobadas y publicadas en el Periódico Oficial del Gobierno del Estado por la Secretaría a más tardar un mes antes de la fecha en que el contribuyente esté obligado a utilizarlas, los obligados a presentarlas podrán utilizar las últimas formas publicadas por la citada dependencia y, si no existiera forma publicada, las formularán en escrito libre que contenga su nombre, denominación o razón social, domicilio y clave del registro estatal de contribuyentes, así como el periodo y los datos relativos a la obligación que pretendan cumplir; si se trata de obligación de pago, deberá señalarse además el monto del mismo.
 
@@ -1663,9 +1665,11 @@ Durante el periodo en que el contribuyente se encuentre pagando a plazos, las ca
 
 Lo dispuesto en el párrafo anterior no es aplicable cuando el contribuyente se ubique en alguna causal de revocación, o cuando deje de pagar en tiempo y monto alguna de las parcialidades, supuestos en los cuales se actualizará ésta de conformidad con lo previsto por el artículo 23 de este Código, desde la fecha en que debió efectuar el último pago y hasta que éste se realice.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 113.
 
-Los hechos que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código o en las leyes fiscales realizadas por las autoridades fiscales, o bien que consten en los expedientes, documentos o bases de datos que lleven, tengan acceso o en su poder dichas autoridades, así como aquéllos proporcionados por terceros relacionados con el contribuyente, responsables solidarios, o por otras autoridades, podrán servir para motivar las resoluciones de la Secretaría y cualquier otra autoridad u organismo descentralizado o desconcentrado competente en materia de contribuciones estatales.
+Los hechos que se conozcan con motivo del ejercicio de las facultades de comprobación previstas en este Código o en las leyes fiscales realizadas por las autoridades fiscales, o bien que consten en los expedientes, documentos o bases de datos que lleven, tengan acceso o en su poder dichas autoridades, así como aquéllos proporcionados por terceros relacionados con el contribuyente, responsables solidarios, o por otras autoridades, podrán servir para motivar los actos o resoluciones de la Secretaría y cualquier otra autoridad u organismo descentralizado o desconcentrado competente en materia de contribuciones estatales.
 
 Cuando las autoridades fiscales emitan resoluciones con base a la información señalada en el párrafo anterior, excepto tratándose de hechos conocidos en el ejercicio directo ante el contribuyente de sus facultades de comprobación, y previamente a la emisión de la resolución que corresponda, deberán correr traslado al interesado de los elementos que integren el expediente respectivo, concediendo un plazo de quince días al contribuyente para que manifieste lo que a su derecho corresponda, lo cual deberá formar parte del expediente respectivo.
 
@@ -2195,7 +2199,7 @@ III. Las autoridades fiscales estatales podrán, en cualquier tiempo, solicitar 
 
 La visita domiciliaria o la solicitud de documentación e información que se realice a un contribuyente que dictamine sus contribuciones estatales en los términos de este Código, cuyo único propósito sea el obtener información relacionada con un tercero, no se considerará revisión de dictamen.
 
-El plazo a que se refiere el segundo párrafo de la fracción I de este artículo, independientemente del plazo se establece en el artículo 74 de este Código.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 Las facultades de comprobación a que se refiere este artículo, se podrán ejercer sin perjuicio de lo dispuesto en el último párrafo del artículo 66 de este Código.
 
@@ -3379,7 +3383,9 @@ IV. Cuando hayan cesado los efectos del acto o resolución impugnada.
 
 Cuando el recurso de revocación se interponga porque el procedimiento administrativo de ejecución no se ajustó a lo establecido en este Código, las violaciones cometidas antes del remate, sólo podrán hacerse valer ante la autoridad recaudadora hasta los diez días siguientes a la fecha de publicación de la convocatoria a remate.
 
-Lo dispuesto en el párrafo anterior no es aplicable cuando la interposición del recurso se realice por tratarse de actos de ejecución sobre bienes legalmente inembargables, o de actos de imposible reparación material, casos en que el plazo de quince días para interponer el recurso, se computará a partir del día hábil siguiente al en que surta efectos la diligencia de embargo.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Lo dispuesto en el párrafo anterior no es aplicable cuando la interposición del recurso se realice por tratarse de actos de ejecución sobre dinero en efectivo, depósitos en cuenta abierta en instituciones de crédito, organizaciones auxiliares de crédito o sociedades cooperativas de ahorro y préstamo, así como bienes legalmente inembargables, o de actos de imposible reparación material, casos en que el plazo de quince días para interponer el recurso, se computará a partir del día hábil siguiente al en que surta efectos la notificación del requerimiento de pago o del día hábil siguiente al de la diligencia de embargo.
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -3907,11 +3913,17 @@ QUINTO: Las infracciones y delitos cometidos durante la vigencia del Código que
 
 SEXTO: En tanto se expida el Reglamento del Código Fiscal para el Estado de Oaxaca, se continuará aplicando las reglas de carácter general vigentes en lo que no se opongan al presente Código.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+SÉPTIMO: Las disposiciones relativas a las notificaciones electrónicas a que se refiere el presente ordenamiento, entrarán en vigor a partir del uno de enero de dos mil diecisiete.
+
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
-SÉPTIMO: Las Disposiciones relativas a las notificaciones electrónicas a que se refiere el presente ordenamiento, entrarán en vigor a partir del uno de enero de dos mil dieciséis.
-
 Respecto a las disposiciones de la firma electrónica a que se refiere el presente ordenamiento, entrarán en vigor al mismo tiempo que indique la ley en la materia.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+En relación a lo dispuesto por el primer párrafo del artículo 218 del presente ordenamiento, el mismo entrará en vigor el uno de enero de dos mil diecisiete, en tanto la Secretaría podrá llevar a cabo dicho remate en el local de la oficina ejecutora o en cualquier otro que ésta disponga previo acuerdo del titular de dicha oficina, mismo que deberá ser publicado en la página oficial de la Secretaría.
 
 OCTAVO: El Titular del Poder Ejecutivo a la brevedad posible, instrumentará las medidas pertinentes y necesarias, para la elaboración de un estudio de impacto presupuestario que permita crear una institución que tenga a su cargo la defensa del contribuyente.
 
@@ -3974,3 +3986,9 @@ P.O. 27 DE DICIEMBRE DE 2014.
 P.O. 5 DE AGOSTO DE 2015.
 
 ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 1667.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL PARA EL ESTADO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor el uno de enero de dos mil dieciséis, previa publicación en el Órgano de difusión del Estado.
