@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-derechos-y-productos-del-estado-de-baja-california-66135
 country: "mx"
 rank: "ley"
 publication_date: "2008-12-24"
-last_updated: "2015-07-10"
+last_updated: "2015-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66135&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 LEY DE DERECHOS Y PRODUCTOS DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 10 DE JULIO DE 2015.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY DE DERECHOS Y PRODUCTOS DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADA EN EL B.O. DE 31 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Extraordinario del Boletín Oficial del Estado de Baja California Sur, el miércoles 24 de diciembre de 2008.
 
@@ -1348,3 +1350,19 @@ B.O. 10 DE JULIO DE 2015.
 PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
+
+B.O. 31 DE DICIEMBRE DE 2015.
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del primero de enero del año dos mil dieciséis, previa su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se abroga la Ley de Derechos y Productos del Estado de Baja California Sur, publicada mediante Decreto 1782 en el Boletín Oficial del Gobierno del Estado de Baja California Sur número 66 de fecha 24 de diciembre del 2008, así como sus posteriores reformas.
+
+TERCERO.- Las formas valoradas, así como la papelería con las que cuenten los Ayuntamientos a la fecha de entrada en vigor de la presente Ley que sean utilizadas para prestación de los servicios por concepto de control vehicular, de registro civil y de registro público de la propiedad y del comercio, se seguirán utilizando por la Secretaria de Finanzas y Administración hasta agotar su existencia.
+
+CUARTO.- Derivado del proceso de homologación de tarifas en materia de derechos de Control Vehicular, Registro Civil y Registro Público de la Propiedad y del Comercio en los cinco municipios del Estado de Baja California Sur, la Secretaría de Finanzas y Administración aplicará un estímulo fiscal sobre el pago del derecho en aquellos municipios que registren un incremento mayor al 25% respecto de la tarifa contenida en esta Ley y la tarifa vigente para el mismo derecho en el año 2015 incluyendo el Impuesto Adicional.
+
+El proceso de homologación en los municipios se aplicará de manera gradual durante los ejercicios fiscales 2016 y 2017, en los cuales el estímulo fiscal aplicado se irá disminuyendo hasta lograr la homologación con la tarifa contenida en la presente Ley. En ningún caso, el pago del derecho será menor al del ejercicio fiscal inmediato anterior.
+
+La Secretaría de Finanzas y Administración deberá publicar mediante reglas de carácter general, a más tardar el 31 de diciembre de 2015, los conceptos, montos y normas de aplicación del estímulo que estarán vigentes en los ejercicios fiscales 2016 y 2017.
+
+QUINTO.- Se derogan todas las disposiciones que se opongan a la presente Ley.
