@@ -4,7 +4,7 @@ identifier: "PUE-ley-para-las-personas-con-discapacidad-del-estado-de-puebla-661
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-12"
-last_updated: "2015-08-19"
+last_updated: "2015-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY PARA LAS PERSONAS CON DISCAPACIDAD DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Puebla, el lunes 12 de enero de 2009.
 
@@ -275,7 +275,7 @@ III.- Un Secretario, que será el Director General del Sistema DIF;
 
 IV.- Un Coordinador Técnico;
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE ENERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE ENERO DE 2011)</small>
 
 V.- Siete subcomisiones que representan a los siguientes sectores, mismos que serán presididos por el Secretario del ramo o por el representante que él designe, en los términos que para tal efecto señale el Reglamento Interior:
 
@@ -369,7 +369,7 @@ VIII.- A que se respete su integridad física y mental en igualdad de condicione
 
 IX.- Tener privacidad de la información y de la rehabilitación, en igualdad de condiciones con los demás.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ENERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2010)</small>
 
 ###### Artículo 17.
 
@@ -511,11 +511,13 @@ En el procedimiento de orientación y tratamiento psicológico se deberán incor
 
 ### CAPÍTULO QUINTO. DE LA EDUCACIÓN REGULAR Y ESPECIAL
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 35.
 
-La educación general que imparta y regule la Secretaría de Educación Pública, deberá contribuir al desarrollo integral de las personas con discapacidad, para potenciar y ejercer plenamente sus capacidades, habilidades y aptitudes.
+La educación general que imparta y regule la Secretaría de Educación Pública, deberá contribuir al desarrollo integral de las personas con discapacidad y con necesidades educativas especiales, para potenciar y ejercer plenamente sus capacidades, habilidades y aptitudes.
 
-Los programas que formen parte del sistema educativo en el Estado, deberán promover una nueva cultura de respeto a la dignidad y a los derechos humanos, y la no discriminación de las personas con discapacidad.
+Los programas que formen parte del sistema educativo en el Estado, deberán promover una cultura de respeto a la dignidad y a los derechos humanos, y a la no discriminación de las personas con discapacidad y con necesidades educativas especiales.
 
 ###### Artículo 36.
 
@@ -667,7 +669,7 @@ Se proporcionará a través de la Comisión Estatal Coordinadora, dentro del Pro
 
 ### CAPÍTULO ÚNICO
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 20 DE ENERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2010)</small>
 
 ###### Artículo 59.
 
@@ -828,5 +830,11 @@ SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 P.O. 19 DE AGOSTO DE 2015.
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al siguiente día de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
