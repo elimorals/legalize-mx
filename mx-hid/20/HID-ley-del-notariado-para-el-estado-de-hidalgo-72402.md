@@ -4,7 +4,7 @@ identifier: "HID-ley-del-notariado-para-el-estado-de-hidalgo-72402"
 country: "mx"
 rank: "ley"
 publication_date: "2010-01-25"
-last_updated: "2010-01-25"
+last_updated: "2015-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72402&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DEL NOTARIADO PARA EL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el lunes 25 de enero de 2010.
 
@@ -93,7 +93,9 @@ XII.- Colegio.- Colegio de Notarios Públicos del Estado de Hidalgo.
 
 Corresponderá al Ejecutivo vigilar el cumplimiento de esta Ley y la eficaz prestación del servicio público notarial, a través de la Secretaría por conducto de la Coordinación, mediante la Dirección; autoridades que concentrarán y sistematizarán para efectos estadísticos la información sobre los actos notariales y sus requerimientos, a fin de que se pueda regular en el orden administrativo la eficaz y suficiente prestación del servicio público notarial.
 
-El Estado podrá requerir a los Notarios Públicos que colaboren en la prestación del servicio público notarial para satisfacer demandas inaplazables de interés social, fijando las condiciones a las que deberán sujetarse.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+El Estado podrá requerir a los notarios públicos que colaboren de forma gratuita en la prestación del servicio público notarial para satisfacer demandas inaplazables de interés social, fijando las condiciones a las que deberán sujetarse.
 
 Los Notarios Públicos tendrán obligación solidaria cuando fueren expensados para ello en el pago de impuestos y derechos que generen los actos pasados ante su Fe. La tramitación por cuenta de terceros hasta la inscripción del título ante el registro Público que corresponda, cuando así le fuere solicitado.
 
@@ -251,9 +253,19 @@ Los Notarios Públicos Titulares y Adscritos podrán actuar con la misma fe, per
 
 Notario Público Titular es aquel a cuyo favor el Ejecutivo extiende patente con ese carácter, para la organización y el despacho de los asuntos de la notaría; y Notario Público Adscrito, aquél a cuyo favor extiende el Ejecutivo patente con este carácter a solicitud del Notario Público Titular para actuar dentro del Protocolo de este último.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 21.
 
-La patente de Notario Público Titular es vitalicia y sólo podrá ser suspendida o revocada en los casos y términos previstos en esta Ley, debiendo siempre oírse al Notario Público y considerarse el dictamen del Colegio de Notarios.
+La patente de notario público titular es vitalicia y sólo podrá ser revocada en los casos y términos previstos en esta Ley, a excepción de que se revoque de pleno derecho, cuando el notario público incurra en cualquiera de las siguientes causas de terminación de la función notarial:
+
+I. No iniciar o reiniciar funciones conforme a lo dispuesto en esta Ley;
+
+II. Renunciar expresamente a su cargo;
+
+III. Ser condenado por delito intencional por sentencia ejecutoriada privativa de libertad; y
+
+IV. Cuando tenga incapacidad física o mental permanente que imposibilite comprobadamente el desempeño de la función.
 
 ###### ARTÍCULO 22.
 
@@ -299,13 +311,37 @@ I.- Rendir la protesta de Ley ante la Secretaría dentro de los diez días hábi
 
 II.- Proveerse de los folios que integran el Protocolo y sello de autorizar;
 
-III.- Registrar el sello de autorizar, su firma autógrafa y electrónica y antefirma ante el H. Tribunal Superior de Justicia, al Procurador General de Justicia, a la Dirección, a los Presidentes Municipales comprendidos en el Distrito Judicial donde el Notario nombrado deberá desempeñar el cargo, a las Oficinas Fiscales, Locales y Federales de la residencia del Notario, al Registro Público y al Colegio;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-IV.- Establecer la notaría en el lugar de su residencia e iniciar funciones dentro de los noventa días hábiles siguientes a su protesta, dando aviso a las autoridades que señala la presente Ley;
+III.- Registrar el sello de autorizar, así como su firma autógrafa, electrónica y antefirma ante la Dirección;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+IV.- Establecer la notaría en el lugar autorizado por la patente e iniciar funciones dentro de los noventa días hábiles siguientes a su protesta, dando aviso del inicio al Tribunal Superior de Justicia, a la Procuraduría General de Justicia, a la Dirección, a las Presidencias Municipales comprendidas en el distrito judicial donde el notario deberá desempeñar el cargo, a las Oficinas Fiscales, locales y federales que correspondan, al Registro Público de la Propiedad y del Comercio y al Colegio.
+
+Para el caso de que el notario público cambie el domicilio de su notaría, éste dará el aviso correspondiente a la Dirección, solicitando se publique a su costa el cambio en el Periódico Oficial del Estado y en uno de los diarios de mayor circulación en la Entidad; y
 
 V.- Obtener fianza o seguro de responsabilidad civil profesional a favor de la Secretaría, por la cantidad que resulte de multiplicar por mil, el importe del salario mínimo general diario en el Estado, vigente a la fecha de la constitución de la misma. Dicha fianza o seguro deberá mantenerse vigente y actualizarse en el mes de enero de cada año, modificándose en la misma forma en que se haya modificado a esa fecha el salario mínimo de referencia, salvo que la fianza o seguro a esa fecha cubra una cantidad mayor.
 
 El Notario Público deberá presentar anualmente del Colegio o, en su caso, de la compañía legalmente autorizada, el documento que acredite la constitución de la fianza correspondiente ante la Dirección. La omisión en que incurra el Notario Público a esta disposición será sancionada por la autoridad administrativa en términos de la presente Ley. El contrato de fianza correspondiente se celebrará en todo caso en el concepto de que el fiador no gozará de los beneficios de orden y excusión.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+###### ARTÍCULO 25 Bis.
+
+Para el caso de terminación de funciones, se procederá de la manera siguiente:
+
+I.- El notario público que haya solicitado el cambio de adscripción, debe concluir todos los asuntos que tenga pendientes, entregando los volúmenes que integran el protocolo a su cargo, debidamente cerrados a la Dirección para su resguardo definitivo;
+
+II.- El notario público que deje de ejercer definitivamente sus funciones o que le haya sido revocada la patente y no estuviere asociado o no tuviere adscrito, al decretarse la revocación o faltar definitivamente, la conclusión de sus asuntos se realizará por un notario que será nombrado por la Dirección y por el Colegio;
+
+III.- Para los supuestos de las fracciones anteriores, una vez que el protocolo sea remitido a la Dirección, ésta asentará una razón de clausura en el último volumen recibido y levantará acta para dejar constancia de los volúmenes que se reciben;
+
+IV.- El notario entregará a la Dirección los folios que no fueron utilizados y ésta asentará dentro del acta a que se refiere la fracción anterior, el número del último folio empleado, dejando constancia de los folios restantes, los cuales serán inutilizados;
+
+V.- Dentro de la entrega del protocolo, el notario deberá incluir los índices y apéndices, así como el sello de autorizar; y
+
+VI.- La Dirección podrá requerir al notario público para que subsane o regularice cualquier omisión, antes de que se autorice la entrega del protocolo.
 
 ### CAPÍTULO SEGUNDO. EL EXAMEN DE OPOSICIÓN
 
@@ -369,7 +405,9 @@ El Secretario levantará el acta correspondiente que deberá en todos los casos 
 
 El Presidente del Jurado, una vez tomada la decisión de este cuerpo colegiado sobre quien resultó triunfador en el examen de oposición, lo dará a conocer en público. Asimismo en su caso, comunicará al Ejecutivo el resultado del examen de oposición y le remitirá la documentación relativa.
 
-## TÍTULO IV. DEL OTORGAMIENTO DE LA PATENTE, DE LA ACTIVIDAD DEL NOTARIO PÚBLICO, DE LOS NOTARIOS PÚBLICOS ADSCRITOS Y DE LAS PERMUTAS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+## TÍTULO IV. DEL OTORGAMIENTO DE LA PATENTE, DE LA ACTIVIDAD DEL NOTARIO PÚBLICO, DE LOS NOTARIOS PÚBLICOS ADSCRITOS, DE LOS CONVENIOS DE ASOCIACIÓN Y DE LAS PERMUTAS
 
 ### CAPÍTULO PRIMERO. OTORGAMIENTO DE LA PATENTE
 
@@ -381,9 +419,11 @@ Las patentes de Notario Público Titular y Adscrito, deberán ser inscritas en l
 
 Una vez inscritas las patentes en el Registro Público, tendrán efectos de publicidad, por lo que no será necesario que los Notarios Públicos tengan que acreditar su nombramiento en procedimientos judiciales y de otra índole.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 36.
 
-El nombramiento se publicará por una sola vez en el Periódico Oficial del Estado y en alguno de los diarios de mayor circulación en la Entidad dándose cumplimiento a lo que establece la Fracción III del Artículo 25 de ésta Ley.
+El nombramiento se publicará por una sola vez en el Periódico Oficial del Estado y en alguno de los diarios de mayor circulación en la Entidad.
 
 ###### ARTÍCULO 37.
 
@@ -393,9 +433,11 @@ En el libro de Registro de Notarios Públicos deberán anotarse también los cam
 
 ### CAPÍTULO SEGUNDO. ACTIVIDAD DEL NOTARIO PÚBLICO
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 38.
 
-Los Notarios Públicos en ejercicio de sus funciones están obligados a radicarse en un lugar determinado, dentro del Distrito Judicial de su adscripción; si se trata de Notario Público Único en el Distrito, deberá establecer su residencia y la oficina de la notaría en la cabecera. Se abstendrá de ejercer sus funciones fuera de los límites que corresponden a su Distrito Judicial.
+Los notarios públicos al ejercer sus funciones, están obligados a establecer su oficina dentro del distrito judicial señalado en la patente. Si se trata de un notario público único en el distrito judicial, éste, deberá establecer su oficina en la cabecera distrital que corresponda. Los notarios públicos titulares y adscritos, deberán ejercer sus funciones dentro de los límites de su adscripción; en caso contrario, se harán acreedores a la sanción correspondiente, conforme al procedimiento de investigación establecido en esta ley.
 
 ###### ARTÍCULO 39.
 
@@ -405,9 +447,11 @@ En los Distritos Judiciales donde haya uno o varios Notarios Públicos, ejercer�
 
 En el ejercicio de su Función el Notario Público recibirá de los otorgantes y comparecientes la protesta de conducirse con verdad y les hará saber las penas con las que la Ley sanciona el falso testimonio. Asimismo les explicará con su orientación profesional respecto del valor y las consecuencias legales de los actos que motivan su actuación y la autorización definitiva del instrumento notarial.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 41.
 
-Para los Notarios Públicos son días de despacho obligatorios, los establecidos en esta Ley. Sin embargo, podrá el Notario voluntariamente autorizar cualquier acto, en cualquier día y a cualquier hora. Tratándose de testamento de alguna persona enferma de gravedad, el Notario no podrá rehusarse a ninguna hora del día o de la noche, a menos que ocurra alguna circunstancia grave que le impida asistir a dicho acto.
+Los notarios públicos despacharán de lunes a viernes. Podrá el Notario público autorizar actos, en cualquier otro día. Tratándose de testamento de alguna persona enferma de gravedad, el notario no podrá rehusarse a ninguna hora del día o de la noche, a menos que ocurra alguna circunstancia grave que le impida asistir al acto.
 
 ###### ARTÍCULO 42.
 
@@ -457,7 +501,9 @@ VI.- Ejercer sus funciones, si el objeto del acto es física o legalmente imposi
 
 VII.- Recibir y conservar en depósito sumas de dinero, valores o documentos que representen numerario con motivo de los actos o hechos en que intervengan, excepto el dinero o cheques destinados al pago de gastos, impuestos o derechos, causados por las actas o escrituras efectuadas ante ellos;
 
-VIII.- Permitir que otra persona se ostente como si fuera el propio Notario, o que otra persona desarrolle actividades propias del Notario o fuera del Distrito Judicial autorizado para su actuación; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+VIII.- Permitir que otra persona se ostente como si fuera el propio notario, o que otra persona desarrolle actividades propias del notario en oficina diferente dentro o fuera del distrito judicial autorizado para su actuación, así como tener oficinas fuera de la demarcación asignada para atender al público en trámites relacionados con la notaría a su cargo; y
 
 IX.- En el caso de ser Notario Público Titular, ejercer la función de adscrito en otra Notaria.
 
@@ -617,7 +663,9 @@ El sello del Notario Público se imprimirá en la parte superior izquierda del a
 
 Se encuadernarán los folios por libros cuando las escrituras o actas redactadas se aproximen o lleguen a doscientos folios.
 
-Inmediatamente después de ponerse la nota de cierre que ordena el Artículo 78 de la presente Ley, cada libro deberá encuadernarse y empastarse sólidamente.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Inmediatamente después de ponerse la razón de cierre, cada libro deberá encuadernarse y empastarse sólidamente, enviándolo a la Dirección para la respectiva certificación de cierre, de conformidad con lo previsto en la presente ley.
 
 ###### ARTÍCULO 70.
 
@@ -677,11 +725,11 @@ El Notario Público Titular es responsable administrativamente de la conservaci�
 
 Dentro de los sesenta días hábiles siguientes a la integración de cada libro del Protocolo, sino (sic) hubiera impedimento legal el Notario Público deberá asentar en una hoja adicional que deberá agregarse al final del libro una razón de cierre en la que se indicara la fecha del asiento, el número de folios utilizados e inutilizados, la cantidad de instrumentos asentados y los autorizados, los pendientes de autorizar, los que no pasaron y pondrá al calce de la misma su firma y sello de autorizar.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 79.
 
-A partir de la fecha en que se asiente la razón del cierre del libro a que se refiere el Artículo anterior, el Notario Público dispondrá de un plazo máximo de ciento ochenta días para encuadernarlo y enviarlo a la Dirección, la que revisará solamente la exactitud de la razón a que se refiere el Artículo anterior debiendo devolver el libro al Notario Público dentro de los diez días hábiles siguientes a la fecha de entrega con la certificación de cierre.
-
-La encuadernación de los libros será en pasta rígida de buena calidad. En el lomo de cada libro se imprimirá con letra dorada en la parte superior el nombre del Notario Público, el número de la Notaria, su Distrito Judicial y en el inferior el número del libro.
+A partir de la fecha en que se asiente la razón del cierre del libro a que se refiere el artículo anterior, el notario público dispondrá de un plazo máximo de ciento ochenta días para encuadernarlo y enviarlo a la Dirección, la que revisará solamente la exactitud de la razón a que se refiere el artículo anterior debiendo devolver el libro al notario público dentro de los diez días hábiles siguientes a la fecha de entrega con la certificación de cierre. Los libros que sean remitidos después del plazo indicado, causaran el cobro de una multa equivalente a 2 salarios mínimos por cada libro. La Dirección no autorizará folios cuando no sean enviados los libros para la certificación de cierre, dentro del plazo señalado.
 
 ###### ARTÍCULO 80.
 
@@ -701,13 +749,17 @@ Por cada libro el Notario Público llevará una carpeta denominada apéndice, en
 
 Los expedientes que se protocolicen por mandamiento judicial se devolverán al juzgado de su procedencia y se agregarán copias de las actuaciones más importantes al apéndice del libro respectivo, se consideran como un solo documento al igual que los que por su conexidad deban considerarse como tales.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 84.
 
-El apéndice forma parte del Protocolo y obra en refuerzo del razonamiento y fe documental del Notario Público. Lo anterior no impide la validez y veracidad de los documentos asentados ni la validez independiente de certificaciones que se hagan con base en ellos. Las carpetas del apéndice deberán quedar encuadernadas en uno o varios volúmenes con indicación del número del libro del Protocolo a que corresponden y el de los instrumentos dentro del plazo a que se refiere el Artículo 72 de esta Ley o bien podrá hacerlo al término de cada libro que también encuaderne.
+El apéndice forma parte del Protocolo y obra en refuerzo del razonamiento y fe documental del Notario Público. Lo anterior no impide la validez y veracidad de los documentos asentados ni la validez independiente de certificaciones que se hagan con base en ellos. Las carpetas del apéndice deberán quedar encuadernadas en uno o varios volúmenes con indicación del número del libro del Protocolo a que corresponden y el de los instrumentos dentro del plazo a que se refiere esta Ley o bien podrá hacerlo al término de cada libro que también encuaderne.
 
-###### Artículo 85.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-El Notario Público deberá guardar en la notaría, los libros durante cinco años contados a partir de la fecha de la certificación de cierre de la Dirección a que se refiere el Artículo 72 de esta Ley. Dentro de los diez días hábiles siguientes a la expiración de este término, los entregará a la Dirección junto con sus apéndices para su guarda definitiva, salvo que la Dirección carezca de la capacidad de guarda, en cuyo caso el Notario Público los conservará por tiempo indefinido.
+###### ARTÍCULO 85.
+
+El Notario Público deberá guardar en la notaría, los libros durante cinco años contados a partir de la fecha de la certificación de cierre de la Dirección a que se refiere esta Ley. Dentro de los diez días hábiles siguientes a la expiración de este plazo, los entregará a la Dirección junto con sus apéndices para su guarda definitiva, salvo que la Dirección carezca de la capacidad de guarda, en cuyo caso el Notario Público los conservará por tiempo indefinido.
 
 ### CAPÍTULO CUARTO. DEL ÍNDICE
 
@@ -729,7 +781,9 @@ VI.- La denominación del acto o hecho que contiene.
 
 El índice se formará a medida que los instrumentos se vayan asentando en forma progresiva en los folios.
 
-Al entregarse definitivamente la decena de libros a la Dirección se acompañará un ejemplar de dicho índice y el otro lo conservará el Notario Público.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Al entregarse definitivamente los libros a la Dirección se acompañará un ejemplar de dicho índice y el otro lo conservará el notario público.
 
 ## TÍTULO VI. DE LAS ESCRITURAS, ACTAS Y LOS TESTIMONIOS DE LAS ESCRITURAS
 
@@ -905,13 +959,23 @@ IV.- Cuando exista obligación para el Notario Público de dar aviso para el oto
 
 Cuando se anule, revoque, rescinda o modifique el acto contenido en una escritura, se deberá extender cuando proceda una nueva y se realizará la anotación o la comunicación que proceda en los términos previstos en el Artículo anterior.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 105.
 
-Las enajenaciones de bienes inmuebles y la constitución o transmisión de derechos reales deberán constar en escritura ante Notario Público, salvo los casos de excepción que señalen las Leyes.
+Las enajenaciones de bienes inmuebles y la constitución o transmisión de derechos reales deberán constar en escritura ante notario público, salvo los casos de excepción que señalen las leyes. Para que se otorgue una escritura relativa a bienes inmuebles el notario público exigirá a la parte interesada el título o títulos respectivos que acrediten la propiedad y los antecedentes necesarios para justificarla.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 106.
 
-Para que se otorgue una escritura relativa a bienes inmuebles el Notario Público exigirá a la parte interesada el título o títulos respectivos que acrediten la propiedad y los antecedentes necesarios para justificarla.
+Siempre que se otorgue o se revoque un poder por personas físicas o morales que no tengan actividad mercantil, el notario público ante quien se otorgó, presentará aviso a la Dirección dentro de los cinco días hábiles siguientes, en el que expresará la fecha del otorgamiento, el nombre y generales del apoderado y del poderdante. La Dirección llevará un registro de los poderes con los datos que se mencionan.
+
+El notario público dará de alta en el sistema del Registro Nacional de Avisos de Poderes Notariales, los poderes que se otorguen ante su fe.
+
+Los notarios públicos ante quienes se tramite una escritura por conducto de apoderados, deberán verificar si el poder se encuentra inscrito en el Registro Nacional de Avisos de Poderes Notariales o si éstos no han sido revocados.
+
+Para el caso de que el aviso de poder se presente fuera del plazo indicado ante la Dirección, se impondrá multa equivalente a 8 salarios mínimos.
 
 ###### ARTÍCULO 107.
 
@@ -926,6 +990,10 @@ El aviso en todo caso cubrirá los requisitos que para el efecto señala el Regi
 Los Jueces y los Notarios Públicos ante quienes se tramite una sucesión, recabarán informes de la Dirección acerca de si ésta o el registro nacional tienen registrados testamentos otorgados por la persona de cuya sucesión se trate y en su caso, la fecha de los mismos.
 
 Al expedir el informe indicado la Dirección mencionará en él, si con anterioridad ha proporcionado el mismo informe a otro funcionario.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Para el caso de que el aviso de testamento se presente fuera del plazo indicado, se impondrá multa equivalente a 30 salarios mínimos.
 
 ###### ARTÍCULO 108.
 
@@ -1179,7 +1247,9 @@ VII.- Los demás que le otorguen éste y otros ordenamientos.
 
 Son obligaciones de los Notarios Públicos:
 
-I.- Ejercer la Función Notarial con probidad, diligencia, eficiencia e imparcialidad, constituyéndose en consejero jurídico de quienes solicitan sus servicios, proporcionando además consultoría gratuita a la ciudadanía;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+I.- Ejercer la función notarial con probidad, diligencia, eficiencia e imparcialidad, constituyéndose en consejero jurídico de quienes solicitan sus servicios, atendiéndolos personalmente, proporcionando además consultoría gratuita a la ciudadanía;
 
 II.- Guardar secreto de los actos pasados ante su fe, salvo la información que requieran las Autoridades Competentes;
 
@@ -1189,13 +1259,25 @@ IV.- Pertenecer al Colegio;
 
 V.- Actualizar durante los primeros treinta días hábiles de cada año, la garantía a que se refiere esta Ley, atendiendo a los criterios generales de incremento de los salarios mínimos, debiendo mantenerla vigente inclusive durante todo el año siguiente a aquél en que haya dejado de ejercer en forma definitiva;
 
-VI.- Sujetarse al arancel para el cobro de honorarios, gastos de gestoría y notariales;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+VI.- Sujetarse al arancel para el cobro de honorarios, gastos de gestoría y notariales.
+
+El notario deberá especificar al interesado cada uno de los conceptos de cobro; para lo cual, una vez realizados los pagos, se expedirá un recibo que deberá estar foliado y firmado, ya sea por el notario o por la persona que esté autorizada por él para expedir recibos, una vez expedido, el notario deberá hacerse responsable del contenido del mismo en cualquier momento.
 
 VII.- Mantener abiertas sus oficinas por lo menos ocho horas diarias en días hábiles;
 
-VIII.- Reanudar sus funciones dentro de los treinta días hábiles siguientes al de la terminación de la licencia o de la suspensión, salvo lo dispuesto en el articulo 43 de esta de Ley; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-IX.- Las demás que les imponga esta Ley u otros ordenamientos.
+VIII.- Reanudar sus funciones dentro de los treinta días hábiles siguientes al de la terminación de la licencia o de la suspensión, salvo lo dispuesto en el artículo 43 de esta de (sic) Ley;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+IX.- Cuando así sean expensados, deberán entregar a los interesados los testimonios debidamente inscritos en el Registro Público de la Propiedad y del Comercio, cuando contengan actos traslativos de dominio u otros actos jurídicos que deban ser inscritos, a más tardar dentro de los 4 meses siguientes, a partir de que se haya firmado la escritura, salvo causa justificada; para el caso de que el interesado se encargue de la inscripción en el Registro Público de la Propiedad, el notario deberá entregar el testimonio en 2 meses a partir de que se haya firmado la escritura, salvo causa justificada. El notario público que incumpla con los plazos señalados sin causa justificada, se hará acreedor a una multa de 1 a 12 meses de salario mínimo; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+X.- Las demás que les imponga esta ley u otros ordenamientos.
 
 ### CAPÍTULO SEGUNDO. DE LOS IMPEDIMENTOS
 
@@ -1377,17 +1459,37 @@ X.- En los casos que proceda, autorizar definitivamente las escrituras con su fi
 
 XI.- Llevar registro de los avisos de testamentos que se otorguen ante Notario Público e informar de su existencia al Registro Nacional que establezcan las legislaciones correspondientes, a las autoridades judiciales o Notarios Públicos que lo soliciten; previa consulta o captura de los datos relativos;
 
-XII.- Recibir los sellos deteriorados, alterados o recuperados después de su extravío o aquellos que no cumplan los requisitos previstos por la Ley o su Reglamento para su destrucción;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-XIII.- Resguardar los sellos de los Notarios Públicos que hayan sido separados temporalmente de la Función;
+XII.- Llevar el registro de los avisos de otorgamiento y revocación de poderes notariales, previo pago de derechos correspondientes e informar de su existencia a las autoridades judiciales o a notarios públicos que lo soliciten;
 
-XIV.- Dar apoyo a las autoridades judiciales y administrativas en el cumplimiento de sus funciones y atribuciones;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-XV.- Integrar expedientes de las notarías y de los Notarios Públicos en lo que corresponda, así como los registros de los actos relacionados con la Función Notarial que deban ser objeto de control y expedir las credenciales de identificación;
+XIII.- Recibir los sellos deteriorados, alterados o recuperados después de su extravío o aquellos que no cumplan con los requisitos previstos por la ley o su reglamento, para su destrucción;
 
-XVI.- Informar a la Secretaría de las irregularidades en los Protocolos que entreguen los Notarios Públicos; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-XVII.- Las demás que señale esta Ley, su Reglamento, otras leyes y las que le confiera la Secretaría.
+XIV.- Resguardar los sellos de los notarios públicos que hayan sido separados temporalmente de la función;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XV.- Dar apoyo a las autoridades judiciales y administrativas en el cumplimiento de sus funciones y atribuciones;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XVI.- Integrar expedientes de las notarías y de los notarios públicos en lo que corresponda, así como los registros de los actos relacionados con la función notarial que deban ser objeto de control y expedir las credenciales de identificación;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XVII.- Informar a la Secretaría de las irregularidades en los protocolos que entreguen los notarios públicos;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XVIII.- Ventilar el procedimiento administrativo de queja y substanciar el procedimiento de investigación a que se refiere la presente ley, imponiendo las sanciones correspondientes; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XIX.- Las demás que señales (sic) esta ley, su reglamento, otras leyes y las que le confiera la Secretaría.
 
 ###### ARTÍCULO 165.
 
@@ -1529,9 +1631,9 @@ II.- Daños y perjuicios causados por el Notario Público con motivo del ejercic
 
 III.- Multas que le hayan impuesto.
 
-## TÍTULO X (SIC)
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2016)</small>
 
-DE LA SUPERVISIÓN NOTARIAL, DE LA RESPONSABILIDAD DE LOS NOTARIOS PÚBLICOS, DEL PROCEDIMIENTO PARA LA IMPOSICIÓN DE SANCIONES Y DE LA RESPONSABILIDAD DE TERCEROS
+## TÍTULO X (SIC). DE LA SUPERVISIÓN NOTARIAL, DE LA RESPONSABILIDAD DE LOS NOTARIOS PÚBLICOS, DEL PROCEDIMIENTO ADMINISTRATIVO DE QUEJA Y DE LA RESPONSABILIDAD DE TERCEROS
 
 ### CAPÍTULO PRIMERO. DE LA SUPERVISIÓN NOTARIAL
 
@@ -1593,17 +1695,37 @@ VIII.- El Notario Público o la persona con quien se entienda la diligencia y lo
 
 IX.- El Notario Público o la persona con quien se entienda la inspección podrá formular observaciones en el acto de la diligencia y ofrecer pruebas en relación a los hechos u omisiones contenidos en el acta de la misma, o bien, el Notario Público podrá hacer uso de ese derecho por escrito dentro del término de cinco días hábiles siguientes a la fecha en que se hubiere levantado el acta;
 
-X.- Si la inspección fuera general el Notario Público deberá ser notificado por lo menos con diez días hábiles de anticipación. Tratándose de inspección especial a instancia de parte deberá realizarse personalmente con cinco días hábiles de anticipación y agregarse copia del escrito y anexos que la motivan, en caso de no encontrarse el Notario Público en el domicilio, la notificación se hará por correo certificado con acuse de recibo;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+X.- Si la inspección fuera general el Notario Público deberá ser notificado por lo menos con cinco días hábiles de anticipación. Tratándose de inspección especial a instancia de parte deberá realizarse con tres días hábiles de anticipación y agregarse copia del escrito y anexos que la motivan, en caso de no encontrarse el Notario Público en el domicilio, la notificación se hará por correo certificado con acuse de recibo;
 
 Xl.- Si la visita fuere general el inspector revisará todo el Protocolo o diversas partes de éste, para cerciorarse del cumplimiento de la Función Notarial en sus formalidades, sin que pueda revisar el contenido del instrumento;
 
-XII.- Sí la visita fuera especial se inspeccionara aquella parte del Protocolo y demás instrumentos notariales únicamente en lo relativo a los hechos o actos que motivaron a la Autoridad para ordenar la visita; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-XIII.- En una y otra visitas el inspector se cerciorará si están empastados los correspondientes apéndices que debieran estarlo y así lo hará constar en el acta respectiva.
+XII.- Sí la visita fuera especial se inspeccionara aquella parte del Protocolo y demás instrumentos notariales únicamente en lo relativo a los hechos o actos que motivaron a la Autoridad para ordenar la visita;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XIII.- En una y otra visitas el inspector se cerciorará si están empastados los correspondientes apéndices que debieran estarlo y así lo hará constar en el acta respectiva; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XIV. Si la visita tiene por objeto un instrumento determinado se examinará la redacción, sus cláusulas y declaraciones así como en su caso su situación registral.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 181.
 
-Sí la visita tiene por objeto un instrumento determinado se examinará la redacción, sus cláusulas y declaraciones así como en su caso su situación registral.
+De conformidad con lo dispuesto por el artículo 16 de esta ley, cuando la Dirección tenga conocimiento por cualquier medio de que algún notario tiene establecida oficina o despacho diverso a la de su notaría, dentro o fuera del distrito judicial autorizado por la patente, deberá de oficio:
+
+I.- Realizar inspección, sin previa notificación, para evitar que las evidencias o circunstancias que pudieran demostrar que en la oficina o despacho donde presuntamente el notario atiende asuntos relacionados con la función notarial se alteren, y en caso de que no se permita el acceso, recabar prueba testimonial u otros medios de prueba para corroborar esa violación a la ley;
+
+II.- Levantar acta circunstanciada, haciendo constar todo lo que se observe en el desarrollo de la inspección, firmada por el personal de la Dirección que acuda a la inspección y por quienes en ella intervinieran, si éstos no quisieren firmar, no será motivo de invalidez del acta levantada. Se notificará al notario para que en un plazo de 5 días hábiles manifieste lo que a su derecho convenga;
+
+III.- Informar al Titular del Ejecutivo del resultado de dicha inspección, quien deberá emitir la resolución que corresponda; y
+
+IV.- Notificar personalmente la resolución al notario público.
 
 ### CAPÍTULO SEGUNDO. DE LA RESPONSABILIDAD DE LOS NOTARIOS PÚBLICOS
 
@@ -1619,73 +1741,83 @@ Siempre que se inicie una averiguación previa en la que resulte indiciado un No
 
 El Notario Público incurrirá en responsabilidad administrativa por violaciones a esta Ley o a otras Leyes relacionadas con el ejercicio de su Función Pública siempre que tales violaciones sean imputables a él. No tendrá responsabilidad cuando el resultado de sus actuaciones sea por error de opinión jurídica fundada o a consecuencia de las manifestaciones, declaraciones o instrucciones de las partes o éstas hayan expresado su consentimiento con ese resultado sin perjuicio de la legalidad que regula la Función Notarial.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 184.
 
-El Ejecutivo por conducto de la Secretaria sancionará a los Notarios Públicos por las violaciones en que incurran a los preceptos de esta Ley, aplicando según la gravedad del caso las siguientes sanciones:
+El Ejecutivo por conducto de la Secretaría sancionará a los notarios públicos por las violaciones en que incurran a los preceptos de esta ley, aplicando según la gravedad del caso las siguientes sanciones:
 
-I.- Amonestación por escrito;
+I.- Multa
 
-II.- Multa;
+II.- Suspensión temporal; y
 
-III.- Suspensión temporal; y
+III.- Revocación de la Patente.
 
-IV.- Revocación de la Patente.
-
-Estas sanciones se notificarán personalmente al Notario Público responsable y se harán del conocimiento del Colegio.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 185.
 
-Las sanciones a que se refiere el Artículo anterior serán aplicables de manera gradual. Para la aplicación de sanciones la Dirección al motivar su resolución deberá tomar en cuenta las circunstancias y gravedad del caso, los perjuicios y daños que directamente se hubieren ocasionado si los hubo, el grado de diligencia del Notario Público para la solución del problema, su antigüedad en el cargo, sus antecedentes profesionales y los servicios prestados al Gobierno, la Sociedad y al Notariado. Las autoridades pedirán la opinión del Colegio.
+Para la aplicación de las sanciones a que se refiere el artículo anterior, la Dirección emitirá acuerdo debidamente fundado y motivado, excepto cuando se trate del procedimiento administrativo de queja, donde se deberá agotar el mismo hasta la resolución, para la aplicación de la sanción correspondiente.
 
 ###### ARTÍCULO 186.
 
-Se sancionará al Notario Público con amonestación escrita:
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
 
-I.- Por retraso injustificado imputable a él en la realización de una actuación o desahogo de un trámite relacionado con un servicio solicitado y expensado por el solicitante, siempre que éste hubiere entregado toda la documentación previa que el Notario Público requiera;
-
-II.- Por abstenerse de dar avisos, de llevar los correspondientes índices, de encuadernar los libros del Protocolo y sus apéndices o conservarlos en términos de Ley; o de entregar oportunamente los libros del Protocolo, apéndices e índices a la Dirección cuando así proceda;
-
-III.- Por separarse de sus funciones sin haber dado previo aviso u obtenido licencia o por no reiniciar funciones oportunamente en términos de ella o de esta Ley y sólo cuando se trate de la primera vez en que incurra en esta falta;
-
-IV.- Por negarse a ejercer sus funciones habiendo sido requerido y expensado en su caso para ello, sin que medie explicación o justificación fundada por parte del Notario Público al solicitante;
-
-V.- Por negarse a ejercer sus funciones en actividades de orden público e interés social por mandato legal o a solicitud de la Dirección;
-
-VI.- Por negarse a ejercer sus funciones en días y horas hábiles y excepcionalmente en los inhábiles en los términos de esta Ley; y
-
-VII.- Por incumplir en tiempo el otorgamiento o dejar de mantener en vigor la garantía del ejercicio de sus funciones siempre que se trate de la primera vez que el Notario Público cometa esta falta.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 187.
 
-Se sancionará al Notario Público con multa de uno a doce meses de salario mínimo general vigente en el momento del incumplimiento:
+Se sancionará al notario con multa de uno a doce meses de salario mínimo general vigente en el momento del incumplimiento:
 
-I.- Por reincidir en la comisión de alguna de las faltas a que se refiere el Artículo anterior o por dejar de otorgar o renovar en tiempo la fianza en el plazo de un mes a partir de la aplicación de la sanción a que se refiere la fracción VII del Artículo anterior;
+I.- Por retraso injustificado imputable al notario público o a su personal en la realización de una actuación o trámite de una escritura de acuerdo al servicio solicitado, siempre y cuando, el interesado hubiere entregado la documentación previa que el notario público le requiera y acredite haber cumplido con los pagos o gastos solicitados;
 
-II.- Por incurrir en alguna de las hipótesis previstas en los Artículos 11 y 45, fracciones, I, V, y VII de esta Ley;
+II.- Por abstenerse de llevar los correspondientes índices, de encuadernar los libros del Protocolo y sus apéndices o conservarlos en términos de Ley; o de enviar oportunamente los libros del protocolo, apéndices e índices que le solicite la Dirección, conforme a lo establecido en la presente Ley;
 
-III.- Por realizar cualquier actividad que sea incompatible con el desempeño de sus funciones de Notario Público de acuerdo a lo previsto por esta Ley; y
+III.- Por separarse de sus funciones sin haber dado previo aviso u obtenido licencia;
 
-IV.- Por no ajustarse al arancel o a los convenios celebrados en materia de honorarios legalmente aplicables.
+IV.- Por negarse a ejercer sus funciones habiendo sido requerido y expensado en su caso para ello, sin que medie explicación o justificación fundada por parte del notario público al solicitante;
 
-###### ARTÍCULO 188.
+V.- Por negarse a ejercer sus funciones en actividades de orden público e interés social por mandato legal o a solicitud de la Dirección;
 
-Se sancionará con suspensión del ejercicio de la Función Notarial hasta por un año:
+VI.- Por negarse a ejercer sus funciones en días y horas hábiles y excepcionalmente en los inhábiles en los términos de esta Ley;
 
-I.- Por reincidir en alguno de los supuestos señalados en el Artículo anterior o por no haber constituido o reconstituido la fianza a partir de la aplicación de la sanción a que se refiere la fracción I del Artículo anterior;
+VI.- (SIC) Por incumplir en tiempo el otorgamiento o dejar de mantener en vigor la garantía del ejercicio de sus funciones siempre que se trate de la primera vez que el Notario Público cometa esta falta; y
+
+VIII.- Por deficiencias administrativas en el ejercicio de la función notarial.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 188.
+
+Se sancionará con suspensión del ejercicio de la función notarial hasta por un año:
+
+I.- Por reincidir en alguno de los supuestos señalados en el artículo anterior o por no haber constituido o reconstituido la fianza a partir de la aplicación de la sanción a que se refiere la fracción VII del artículo anterior;
 
 II.- Por revelar injustificada y dolosamente datos sobre los cuales deba guardar secreto profesional, cuando por ello se causen directamente daños o perjuicios al usuario del servicio notarial;
 
-III.- Por incurrir en alguna de las prohibiciones que señala el Artículo 45 fracciones I, II, y III; y
+III.- Por incurrir en alguna de las prohibiciones que señala el artículo 45 fracciones I, II, III, IV, V, VI, VII y IX;
 
-IV.- Permitir que otra persona se ostente como si fuera el propio Notario o que otra persona desarrolle actividades propias del Notario en oficina diferente a la Notaría o fuera del Distrito Judicial autorizado para su actuación. De igual manera cuando un Notario Público reiteradamente actúe o tenga oficinas fuera de su Distrito Judicial.
+IV.- Cuando en el ejercicio de su función incurra en reiteradas deficiencias administrativas y las mismas hayan sido oportunamente advertidas al notario público por la autoridad competente, siendo aquél omiso en corregirlas;
+
+V.- Por incumplir con la obligación de integrar debidamente los apéndices de las escrituras otorgadas ante su fe;
+
+VI.- Por realizar cualquier actividad que sea incompatible con el desempeño de sus funciones de Notario Público de acuerdo a lo previsto por esta Ley; y
+
+VI (SIC).- Por no ajustarse al arancel o a los convenios celebrados en materia de honorarios legalmente aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 189.
 
-Se sancionará al Notario Público con la revocación de la patente en los siguientes casos:
+Se sancionará al notario público con la revocación de la patente en los siguientes casos:
 
-I.- Por incurrir reiteradamente en alguno de los supuestos señalados en el Artículo anterior;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-II.- Cuando en el ejercicio de su Función incurra en reiteradas deficiencias administrativas y las mismas hayan sido oportunamente advertidas al Notario Público por la autoridad competente, siendo aquél omiso en corregirlas;
+I.- Por reincidir en alguno de los supuestos señalados en el artículo anterior;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+II.- Por permitir que otra persona se ostente como si fuera el propio notario o que otra persona desarrolle actividades propias del notario en oficina diferente a la notaría dentro o fuera del distrito judicial autorizado para su actuación y de igual manera cuando un notario público tenga oficinas fuera de su distrito judicial, de acuerdo a lo establecido en la presente ley;
 
 III.- Por falta grave de probidad, por notorias y reiteradas deficiencias en el ejercicio de la Función Notarial o dolo debidamente comprobado;
 
@@ -1693,21 +1825,29 @@ IV.- Por permitir la suplantación de su persona, firma o sello; y
 
 V.- Las demás que prevea esta Ley.
 
-La resolución por la que a un Notario Público le sea revocada la patente será firmada por el Ejecutivo.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-### CAPÍTULO TERCERO. DEL PROCEDIMIENTO PARA LA IMPOSICIÓN DE SANCIONES
+La resolución por la que a un notario público le sea revocada la patente será firmada por el Ejecutivo. Cuando a un notario público se le revoque la patente o por cualquier causa deje de ejercer definitivamente sus funciones, la Secretaría lo hará del conocimiento general, publicándose por una vez en el Periódico Oficial y en uno de los diarios de circulación en el Estado.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2016)</small>
+
+### CAPÍTULO TERCERO. DEL PROCEDIMIENTO ADMINISTRATIVO DE QUEJA
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 190.
 
-Para la aplicación de las sanciones previstas en los Artículos anteriores, se observará el siguiente procedimiento:
+En el procedimiento administrativo de queja, se observarán las siguientes reglas:
 
 I.- Toda persona que acredite fehacientemente su interés jurídico, podrá presentar por escrito ante la Secretaría por conducto de la Dirección, queja contra el Notario Público al que se le impute la actuación que amerite sanción de carácter administrativo por violaciones a esta ley y a otras relacionadas directamente con su Función. El quejoso deberá identificarse asentando nombre o razón social, el de su representante legal, el domicilio en la plaza así como el nombre de los autorizados para oír y recibir notificaciones; así como una descripción clara y sucinta de los hechos o razones en que apoya su queja; debiendo exhibir las constancias documentales o en su caso señalar los testigos idóneos que acrediten sus manifestaciones a fin de justificarla debidamente. Si la queja fuere oscura o irregular, la Dirección prevendrá al ocursante para que la aclare o la corrija, concediéndole un término de tres días hábiles para desahogar el requerimiento; vencido dicho término, si el interesado no desahoga la prevención en el tiempo o forma señalados, se desechara por improcedente la queja presentada;
 
-II.- La Dirección recibirá la queja y previo a su admisión solicitará al Notario Público en cuestión un informe sobre los hechos que la motivaron que deberá ser rendido en un término no mayor de siete días hábiles a efecto de determinar la procedencia de la queja o solucionarla por la vía conciliatoria. Para el caso de que sea procedente o que el Notario Público haga caso omiso al requerimiento o no se lograre la conciliación, acordara su admisión a trámite, procederá a registrar la queja en el libro de Gobierno que al efecto exista; abrirá el expediente respectivo, notificará y correrá traslado del acuerdo de admisión junto con la queja y sus anexos al Notario Público de que se trate ordenando en los casos que proceda la visita de inspección especial en los términos de esta Ley.
+II.- La Dirección recibirá la queja y previo a su admisión solicitará al Notario Público en cuestión un informe sobre los hechos que la motivaron que deberá ser rendido en un término no mayor de siete días hábiles a efecto de determinar la procedencia de la queja o solucionarla por la vía conciliatoria. Para el caso de que sea procedente o que el Notario Público haga caso omiso al requerimiento o no se lograre la conciliación, acordara su admisión a trámite, procederá a registrar la queja en el libro de Gobierno que al efecto exista; abrirá el expediente respectivo, notificará y correrá traslado del acuerdo de admisión junto con la queja y sus anexos al Notario Público de que se trate ordenando en los casos que proceda la visita de inspección especial en los términos de esta Ley;
 
 En materia de notificaciones la Dirección actuara conforme a las reglas que establece el Código de Procedimientos Civiles para el Estado de Hidalgo;
 
-III.- Desahogada la visita de inspección especial a que se refiere la fracción anterior, la Dirección citará a las partes a una junta de conciliación la cual solo podrá diferirse una vez a instancia de parte; en dicha junta se les exhortará a conciliar sus intereses. De no haber conciliación se abrirá el periodo probatorio durante un plazo de diez días hábiles, cuya admisión y valoración estará sujeta a las reglas establecidas en el Código de Procedimientos Civiles para el juicio ordinario. Concluido el término probatorio, se procederá en un término de tres días hábiles a recibir los alegatos por escrito primero del quejoso, luego del Notario Público; una vez rendidos, la Dirección procederá a solicitar la opinión del Colegio sobre los hechos materia de la queja, el cual contará con un plazo de siete días hábiles para emitirla, para lo cual deberá imponerse de los autos. Acto seguido, se citará a las partes para oír la resolución correspondiente la que se pronunciara dentro de los treinta días hábiles siguientes.
+III.- Desahogada la visita de inspección especial a que se refiere la fracción anterior, la Dirección citará a las partes a una junta de conciliación la cual solo podrá diferirse una vez a instancia de parte; en dicha junta se les exhortará a conciliar sus intereses. De no haber conciliación se abrirá el periodo probatorio durante un plazo de diez días hábiles, cuya admisión y valoración estará sujeta a las reglas establecidas en el Código de Procedimientos Civiles para el juicio ordinario. Concluido el término probatorio, se procederá en un término de tres días hábiles a recibir los alegatos por escrito primero del quejoso, luego del Notario Público; una vez rendidos, la Dirección procederá a solicitar la opinión del Colegio sobre los hechos materia de la queja, el cual contará con un plazo de siete días hábiles para emitirla, para lo cual deberá imponerse de los autos. Acto seguido, se citará a las partes para oír la resolución correspondiente la que se pronunciara dentro de los treinta días hábiles siguientes; y
+
+IV.- Para el caso de que se haya presentado la queja y se dejare de promover dentro de ella por más de 180 días hábiles, sin tener impulso del procedimiento, se decretará de oficio la caducidad por inactividad de la misma.
 
 ###### ARTÍCULO 191.
 
@@ -1755,9 +1895,11 @@ IV.- A quien fuera de su ámbito legal de competencia produzca instrumentos púb
 
 Se aplicarán las penas previstas por el Artículo 266 del Código Penal al que sin ser Notario, o siendo Notario con patente de otra Entidad distinta del Estado de Hidalgo, introduzca a éste o conserve en su poder, por sí o por interpósita persona, libros de Protocolo o de folios de otra entidad, con la finalidad de llevar a cabo actos que únicamente pueden realizar Notarios del Estado de Hidalgo.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 198.
 
-Las autoridades competentes procederán a la clausura de las oficinas o lugares en donde se cometa delito en términos de alguno de los supuestos previstos por los Artículos 189 y 190 de esta Ley y donde se viole el Artículo 16, independientemente de las sanciones correspondientes.
+La Dirección procederá a la clausura de las oficinas en donde se hayan cometido infracciones en términos de la presente ley.
 
 ## TÍTULO XI. DEL ARANCEL DE LOS NOTARIOS PÚBLICOS
 
@@ -1818,3 +1960,13 @@ DADO EN LA RESIDENCIA DEL PODER EJECUTIVO DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
 LIC. MIGUEL ÁNGEL OSORIO CHONG.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 637, QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DEL NOTARIADO PARA EL ESTADO DE HIDALGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto
