@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-coordinacion-fiscal-para-el-estado-de-oaxaca-19102"
 country: "mx"
 rank: "ley"
 publication_date: "2000-12-30"
-last_updated: "2014-12-27"
+last_updated: "2015-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=19102&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE COORDINACIÓN FISCAL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 30 de diciembre de 2000.
 
@@ -229,57 +229,51 @@ Para efectos del párrafo anterior, se considerará la recaudación que se obten
 
 Asimismo, para que resulte aplicable lo dispuesto en el primer párrafo de este artículo, los Municipios deberán enterar a la Federación el 100% de la retención que deben efectuar del Impuesto Sobre la Renta correspondiente a los ingresos por salarios pagados con cargo a sus Participaciones y otros ingresos, debiendo informar a la Secretaría dicho entero.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2002)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 8.
 
-Las Participaciones que correspondan a los Municipios, resultantes de los fondos que establece la presente Ley, se calcularán y distribuirán por conducto de la Secretaría con base en las disposiciones que al efecto establezca la Legislatura del Estado.
+Las Participaciones que correspondan a los Municipios, resultantes de los fondos que establece la Ley de Coordinación, se calcularán y distribuirán por conducto de la Secretaría con base en el Decreto que anualmente el Congreso apruebe.
 
-> <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+Las Participaciones se transferirán a las cuentas bancarias productivas específicas notificadas a la Secretaría anualmente, mediante acta de cabildo aprobada por mayoría de sus integrantes, donde conste la institución financiera, clave interbancaria y el número de referencia de las mismas, además de señalar la elección de ministración que acuerde el Ayuntamiento.
 
-De conformidad con lo dispuesto en la Ley de Coordinación, la Secretaría enterará las Participaciones a los Municipios de acuerdo a lo siguiente:
+La ministración podrá realizarse a petición del Ayuntamiento:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+I. En forma mensual dentro de los cinco días hábiles siguientes a la fecha en que se reciban de la Federación, o
 
-I. En forma mensual dentro de los cinco días hábiles siguientes a la fecha en que se reciban de la Federación, en concepto de anticipos a cuenta de Participaciones.
+II. Los días quince y último de cada mes en partes iguales.
 
-Con base en los ajustes cuatrimestrales y definitivos que realice la Federación en los plazos y términos previstos en la Ley de Coordinación, la Secretaría efectuará los ajustes a los Municipios; los cuales serán liquidados dentro de los cinco días hábiles siguientes a la fecha en que el Estado reciba dichos ajustes.
+Una vez notificada la liquidación de ajustes de participaciones que realice la Federación al Estado, la Secretaría efectuará igualmente los ajustes de participaciones que correspondan a los Municipios, realizando la liquidación y entero que resulte a favor de los mismos en los términos y plazos que establezca la Ley de Coordinación Fiscal.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+Recibidos los recursos de los fondos de Participaciones así como de los fondos de Aportaciones en las cuentas bancarias productivas específicas, los Municipios deberán registrarlos como ingresos y expedir el comprobante fiscal digital a favor del Gobierno del Estado de Oaxaca, remitiéndolo en un plazo máximo de diez días naturales contados a partir de su recepción a la Secretaría.
 
-(REFORMADA, P.O. 30 DE DICIEMBRE DE 2009) (F. DE E., P.O. 16 DE ENERO DE 2010)
+El retraso en la entrega de los fondos de Participaciones y fondos de Aportaciones ocasionará el pago de intereses, a la tasa de recargos que establece el Congreso de la Unión para la liquidación a plazos de las contribuciones federales.
 
-II. En concepto de anticipos a cuenta de participaciones los días 15 y último de cada mes en partes iguales, cuando el Municipio autorice a la Secretaría, mediante petición expresa a través de acta de cabildo aprobada por mayoría de sus integrantes formulada exclusivamente para estos efectos.
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+ARTICULO 8 A.- El Ejecutivo Estatal a través de la Secretaría, podrá realizar la ministración de recursos provenientes de los Fondos de Participaciones, Aportaciones y cualquier otro recurso asignado a través del Decreto de Presupuesto de Egresos de la Federación, Convenios, Programas o Subsidios a favor de los Municipios en las cuentas bancarias productivas específicas que sean notificadas por el responsable directo de la administración pública municipal, siempre que por algunas de las causas que se citan a continuación, fuera imposible cumplir con el contenido del artículo anterior.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+Son causales que imposibilitan el cumplimiento de lo dispuesto en el Artículo 8 de la presente Ley, entre otras:
 
-El monto quincenal que se liquidará a cada municipio en concepto de anticipo a cuenta de Participaciones se calculará tomando como base el 90% de los Montos estimados en el Decreto y se distribuirá de acuerdo con los factores de distribución señalados en el propio Decreto.
+I. La notificación de la resolución judicial en donde se determine la suspensión de los derechos políticos electorales de uno o varios integrantes del Ayuntamiento, que impidan la instalación del mismo y/o el nombramiento del tesorero municipal;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+II. La declaratoria de revocación de mandato y/o sustitución de concejales determinada por el Congreso, que impidan la instalación del Ayuntamiento o el nombramiento del tesorero municipal, o
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+III. Cuando el Ayuntamiento no notifique a la Secretaría de Finanzas las cuentas bancarias productivas específicas mediante el acta de cabildo a que alude el Artículo 8.
 
-Los Municipios que soliciten el pago de sus Participaciones en forma quincenal bajo los términos antes señalados, deberán autorizar a la Secretaría en el mismo acuerdo de cabildo, que ésta efectúe en forma cuatrimestral el cálculo de las diferencias entre las cantidades pagadas en concepto de anticipos a cuenta de Participaciones y las Participaciones determinadas provisionalmente por la Federación en los términos de la Ley de Coordinación. Las diferencias calculadas bajo este mecanismo, serán liquidadas dentro de los dos meses siguientes al cuatrimestre que corresponda.
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA LA LEY.</small>
+ARTICULO 8 B.- El Estado a través de la Secretaría constituirá un Fideicomiso de Administración y Pago, con las subcuentas que sean necesarias para identificar los recursos de Participaciones y Aportaciones que correspondan a los Municipios, siempre que por algunas de las causas que se citan a continuación, fuera imposible ministrar los recursos que por disposición legal les corresponda.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
+Son causales que imposibilitan la ministración de recursos de Participaciones y Aportaciones, entre otras:
 
-La participación que corresponde a los Municipios, resultantes del fondo establecido en el artículo 7A de la presente Ley; se enterará conjuntamente con el pago de participaciones más cercano a la fecha en el que el Estado reciba de la Federación el citado fondo. Por lo que corresponde al fondo establecido en el artículo, 7B, éste se enterará en el mes siguiente al cual se realice la recaudación del Impuesto
+I. La declaración de nulidad de elecciones de autoridades municipales declarada por el órgano electoral competente;
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2003)</small>
+II. La ausencia legalmente notificada de concejos municipales y/o administradores municipales, y
 
-El retraso en la entrega ocasionará el pago de intereses, a la tasa de recargos que establece el Congreso de la Unión para la liquidación a plazos de las contribuciones federales.
+III. Cualquier otra que impida tener certeza jurídica de quien o quienes son los servidores públicos municipales responsables de la administración de la hacienda pública municipal.
 
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2012)</small>
-
-Recepcionados los montos por los Municipios, estos deberán registrarlos como ingresos propios y remitir el recibo oficial correspondiente en un plazo máximo de diez días contados a partir de su recepción a la Secretaría.
-
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2011)</small>
-
-Para efectos de recepción de los ingresos regulados en la presente Ley, los Municipios señalaran a la Secretaría de Finanzas en el acta de cabildo a que alude la fracción II del presente artículo, la clabe interbancaria, número de referencia de la cuenta e institución financiera a la cual debe realizarse la transferencia.
+Una vez superado (sic) las causales de imposibilidad la Secretaría de Finanzas ordenará al Fiduciario la transferencia de recursos a las cuentas bancarias productivas específicas que señalen las autoridades municipales, incluidas en ellas los rendimientos financieros que se hayan generado en las cuentas del Fideicomiso a que se refiere el presente Artículo.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -313,33 +307,29 @@ La Secretaría publicará en el Periódico Oficial del Estado trimestralmente el
 
 Los factores de participación que conforme a las bases de los artículos 6 y 7 de la presente Ley resulten, se revisarán y modificarán anualmente. En tanto que dichos factores no se actualicen, se aplicarán provisionalmente los que correspondan al año inmediato anterior.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 13.
 
-Las Participaciones que correspondan a los Municipios son inembargables; no pueden afectarse a fines específicos, ni estar sujetas a retención, salvo aquellas correspondientes al Fondo General de Participaciones, al Fondo de Fomento Municipal y a los recursos a que se refiere el artículo 4-A, fracción I, de la Ley de Coordinación, que podrán ser afectadas para el pago de obligaciones contraídas por los Municipios con la autorización del Congreso e inscritas a petición de éstos ante la Secretaría de Hacienda y Crédito Público en el Registro de Obligaciones y Empréstitos de Entidades y Municipios, a favor de la Federación, de las Instituciones de Crédito que operen en territorio nacional, así como de personas físicas o morales de nacionalidad mexicana.
+Las Participaciones que correspondan a los Municipios serán cubiertas en efectivo, no en obra, sin condicionamiento alguno y no podrán ser objeto de embargo ni de deducciones, sin perjuicio de lo dispuesto en el artículo 9 de la Ley de Coordinación.
 
-Las obligaciones de los Municipios se registrarán cuando cuenten con la garantía solidaria del Estado, salvo cuando a juicio de la Secretaría de Hacienda y Crédito Público tengan suficientes Participaciones para responder a sus compromisos, de acuerdo con lo establecido en el Reglamento del Artículo 9o. de la Ley de Coordinación.
+Los Municipios sólo podrán afectar los fondos que establece el artículo 9 de la Ley de Coordinación, siempre y cuando sus obligaciones respaldadas no excedan el monto equivalente al 100 por ciento de sus ingresos de libre disposición aprobados en sus respectivas leyes de ingresos del ejercicio fiscal correspondiente, conforme sea establecido en el Reglamento del Registro Público Único.
 
-Tratándose de obligaciones que se originen de la emisión de valores, para efectos de su inscripción en el Registro de Obligaciones y Empréstitos de Entidades y Municipios, bastará con que se presente evidencia de dichos valores de acuerdo al procedimiento establecido en el Reglamento del Artículo 9o. de la Ley de Coordinación, en el entendido que dentro de los diez días hábiles siguientes a la inscripción de los mismos, deberá notificarse a la Secretaría de Hacienda y Crédito Público, su circulación o colocación; de lo contrario, se procederá a la cancelación de la inscripción.
+Se consideran ingresos de libre disposición los ingresos de gestión y las participaciones federales que les corresponda por mandato de ley.
 
-El Estado y Municipios efectuarán los pagos de las obligaciones contraídas en términos de este artículo, a través de fideicomisos o vehículos de fuente de pago o garantía de conformidad con lo dispuesto por la Ley de Deuda Pública.
+Los Municipios podrán convenir con el Estado la afectación de sus Participaciones o Aportaciones susceptibles de afectación, dicho convenio deberá contener la autorización para que la Secretaría realice pagos por cuenta del mismo hasta por el monto que la Ley de Coordinación establezca.
 
 ###### ARTICULO 14.
 
 (DEROGADO, P.O. 31 DE DICIEMBRE DE 2013)
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 15.
 
-La compensación entre el derecho del Municipio a recibir Participaciones y las obligaciones que tenga con la Federación, Estado y otros Municipios por créditos de cualquier naturaleza, operará de la forma siguiente:
+Las compensaciones que se requieran efectuar a los Municipios como consecuencia de ajustes en participaciones o descuentos originados del incumplimiento de obligaciones fiscales federales y/o estatales, no estarán sujetas a lo dispuesto en el artículo 13 de esta Ley.
 
-I.- Contra cualquier clase de créditos o adeudos a cargo del Municipio a favor de la Federación, el Estado, otros Municipios o de entidades de la administración pública paraestatal.
-
-II.- Cuando se trate de cualquier clase de créditos o deudas a cargo de la Federación, Estado, otros Municipios o de entidades de la administración pública paraestatal, a favor del Municipio.
-
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2007)</small>
-
-La Secretaría podrá realizar pagos por cuenta del Ayuntamiento con cargo a sus Participaciones municipales y a los recursos del Fondo de Aportaciones para la Infraestructura Social Municipal en un monto no mayor al 25% que anualmente le corresponde a los Municipios, cuando así lo solicite el Ayuntamiento, o cuando dichas Participaciones o Fondo haya sido afectados como fuente de pago o en garantía, de adeudos en los términos de la legislación aplicable.
+Procederán las compensaciones con cargo a las Participaciones, cuando existan obligaciones pendientes de liquidar ante las autoridades federales o estatales por los Municipios; exista acuerdo entre las partes interesadas y/o esta Ley así lo autorice.
 
 ###### ARTICULO 16.
 
@@ -399,9 +389,9 @@ c) Evidencias de conclusión, e
 
 d) Indicadores de desempeño.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-Asimismo, el Fondo de Aportaciones para la Infraestructura Social Municipal, podrá afectarse para garantizar obligaciones en caso de incumplimiento, o servir como fuente de pago de dichas obligaciones que contraigan con la Federación, las instituciones de crédito que operen en territorio nacional o con personas físicas o morales de nacionalidad mexicana, siempre que cuenten con la autorización del Congreso y se inscriban a petición del Estado o Municipio, ante la Secretaría de Hacienda y Crédito Público, en el Registro de Obligaciones y Empréstitos de Entidades y Municipios, así como el Registro Único de Obligaciones y Empréstitos a que se refiere el quinto párrafo del artículo 9 de la Ley de Coordinación, de igual manera se registrará en el Registro a que alude la Ley de Deuda Pública.
+El Fondo de Aportaciones para la Infraestructura Social Municipal, podrá afectarse para garantizar obligaciones en caso de incumplimiento, o servir como fuente de pago de obligaciones que contraigan con la Federación, instituciones de crédito que operen en territorio nacional o con personas físicas o morales de nacionalidad mexicana, siempre que cuenten con la autorización del Congreso, y se inscriban en el Registro Público Único a cargo de la Secretaría de Hacienda y Crédito Público.
 
 > <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -429,7 +419,9 @@ El Fondo de Aportaciones para el Fortalecimiento de los Municipios se determinar
 
 El Estado por conducto de la Secretaría, enterará mensualmente este fondo por partes iguales a los Municipios, de manera ágil y directa sin más limitaciones ni restricciones, incluyendo aquellas de carácter administrativo, que las correspondientes a los fines que se establecen en el artículo 19 de esta Ley.
 
-Al efecto, el Gobierno del Estado deberá publicar en el Periódico Oficial y en dos Periódicos de los de mayor circulación en la Entidad los montos que corresponda a cada Municipio por concepto de este fondo, así como el calendario de ministración, a más tardar el 31 de enero de cada año.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+El Estado por conducto de la Secretaría a más tardar el 31 de enero de cada año, deberá publicar en el Periódico Oficial del Estado, en el periódico de mayor circulación en el Estado de Oaxaca y en la página electrónica de la Secretaría de Finanzas, los montos de los fondos de Participaciones que corresponda a cada uno de los Municipios, así como el calendario de ministración.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -836,3 +828,9 @@ SEXTO: La fracción VII del artículo 17 de esta Ley, entrará en vigor a partir
 P.O. 27 DE DICIEMBRE DE 2014.
 
 ÚNICO: El presente Decreto entrará en vigor a partir del día uno de enero del año dos mil quince, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1664.- MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE COORDINACIÓN FISCAL PARA EL ESTADO DE OAXACA”.]
+
+ÚNICO: El presente Decreto entrará en vigor el uno de enero de dos mil dieciséis, previa publicación en el Órgano de difusión oficial del Estado.
