@@ -4,7 +4,7 @@ identifier: "HID-ley-de-desarrollo-social-del-estado-de-hidalgo-53770"
 country: "mx"
 rank: "ley"
 publication_date: "2006-12-29"
-last_updated: "2013-05-27"
+last_updated: "2015-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=53770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Hidalgo, el viernes 29 de diciembre de 2006.
 
@@ -143,9 +143,17 @@ V.- El derecho a un ambiente sano;
 
 VI.- El derecho a la no-discriminación;
 
-VII.- El derecho al trabajo y la seguridad social; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-VIII.- El derecho a la equidad y la igualdad.
+VII.- El derecho al trabajo y la seguridad social;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+VIII.- El derecho a la equidad y la igualdad; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+IX.- El derecho al agua.
 
 ### CAPITULO III. DE LA APLlCACION E INTERPRETACION DE LA NORMA
 
@@ -974,3 +982,11 @@ P.O. 27 DE MAYO DE 2013.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 524, QUE REFORMA LAS FRACCIONES VII Y VIII Y ADICIONA LA FRACCIÓN IX, DEL ARTÍCULO 4 DE LA LEY DE DESARROLLO SOCIAL DEL ESTADO DE HIDALGO”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO.- Se deroga cualquier disposición que se oponga al contenido del presente Decreto.
