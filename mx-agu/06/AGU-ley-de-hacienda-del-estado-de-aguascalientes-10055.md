@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-hacienda-del-estado-de-aguascalientes-10055"
 country: "mx"
 rank: "ley"
 publication_date: "1984-01-01"
-last_updated: "2015-05-25"
+last_updated: "2015-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10055&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE HACIENDA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Suplemento al Número 1, Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 1 de enero de 1984.
 
@@ -927,6 +927,68 @@ Para obtener la baja del Padrón Vehicular del Estado o realizar el canje de pla
 
 Se presume, que el usuario o tenedor del vehículo automotor, es quien se encuentra registrado como propietario ante la Secretaria de Finanzas del Estado.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Los interesados en llevar a cabo el registro de vehículos, por concepto de inscripción a que se refieren los párrafos segundo y sexto de este Artículo, deberán comprobar ante la autoridad fiscal el pago de una contribución similar al Impuesto Sobre Tenencia o uso de Vehículos Automotores y/o al Impuesto Sobre Tenencia o Uso de Vehículos Nuevos y de hasta 9 Años Modelo Anterior, vigentes en el Estado durante los ejercicios fiscales 2011 a 2015. Dicha comprobación deberá realizarse respecto de cinco ejercicios fiscales anteriores, con documento en original y/o la copia certificada del pago realizado en la entidad federativa correspondiente.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Para otorgar la inscripción de vehículos cuyo valor total sea mayor de $300,000.00 que porten placas de otra entidad federativa en donde no se pague un gravamen similar al Impuesto Sobre Tenencia o Uso de Vehículos Automotores y/o al Impuesto Sobre Tenencia o Uso de Vehículos Nuevos y de hasta 9 Años Modelo Anterior, vigentes en el Estado durante los ejercicios fiscales 2011 a 2015, los propietarios deberán pagar el monto que corresponda a dichos Impuestos, de los 5 ejercicios fiscales anteriores a la fecha de solicitud de registro.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Para efectos del Padrón Vehicular del Estado y de esta Ley, se consideran:
+
+I.- Automóviles: Vehículos destinados para el transporte de hasta diez pasajeros accionados con motores de combustión interna sin importar el número de cilindros, energía eléctrica y/o híbridos;
+
+II.- Motocicletas: Vehículos accionados con motores de combustión interna y/o energía eléctrica y/o híbridos sin importar el número de cilindros, en cualquier denominación que se les dé;
+
+III.- Ómnibus: Vehículos destinados para el transporte de más de diez pasajeros, accionados con motores de combustión interna sin importar el número de cilindros;
+
+IV.- Camiones: Vehículos destinados para el transporte de bienes, o personas y bienes cuando la ley de la materia lo permita, accionados con motores de combustión interna sin importar el número de cilindros; y
+
+V.- Tractocamiones: Vehículos fabricados para arrastrar remolques enganchados mediante sistemas mecánicos o hidráulicos, accionados por motores de combustión interna sin importar el número de cilindros y tractocamiones tipo quinta rueda.
+
+VI.- Vehículo nuevo:
+
+a) El que se enajena por primera vez al consumidor por el fabricante, ensamblador, distribuidor o comerciantes en el ramo de vehículos.
+
+b) El importado definitivamente al País que corresponda al año modelo posterior al ejercicio fiscal que transcurra, al año modelo del ejercicio fiscal que transcurra, o a los nueve años modelos inmediatos anteriores al año de la importación definitiva.
+
+VII.- Valor total del vehículo: El precio de enajenación del fabricante, ensamblador, distribuidor autorizado, importador, empresas comerciales con registro ante la Secretaría de Economía como empresa para importar autos usados o comerciantes en el ramo de vehículos, según sea el caso, al consumidor, incluyendo el equipo que provenga de fábrica o el que el enajenante le adicione a solicitud del consumidor, incluyendo las contribuciones que se deban pagar con motivo de la importación, consignado en la primera facturación, a excepción del impuesto al valor agregado.
+
+En el valor total del vehículo a que hace referencia el párrafo anterior, no se incluirán los intereses derivados de créditos otorgados para la adquisición del mismo.
+
+Tratándose de vehículos de procedencia extranjera, o bien, en caso de que no sea posible conocer el valor consignado en la factura de la primera enajenación, se considerará como valor total del vehículo la del promedio del valor de los vehículos de las mismas características y modelo, registrados en el Padrón Vehicular del Estado de Aguascalientes, el cual se llevará a cabo sumando todos los importes de facturas de la primera enajenación al primer consumidor de los vehículos registrados con la misma clave vehicular otorgada por el Servicio de Administración Tributaria, de año modelo igual y se divide entre el número de ellas.
+
+VIII.- Marca: Los signos distintivos consistentes en denominaciones, diseños o formas tridimensionales, que los fabricantes de automóviles y camiones dan a sus vehículos para diferenciarlos de los demás.
+
+IX.- Año modelo: El año de fabricación o ejercicio automotriz comprendido, por el periodo entre el 1° de octubre del año anterior y el 30 de septiembre del año que transcurra.
+
+X.- Modelo: Todas aquellas versiones de la carrocería básica con dos, tres, cuatro o cinco puertas que se deriven de una misma línea. Por carrocería básica se entenderá, el conjunto de piezas metálicas o de plástico, que configuran externamente a un vehículo y de la que derivan los diversos modelos.
+
+XI.- Versión: Cada una de las distintas presentaciones comerciales que tiene un modelo.
+
+XII.- Línea:
+
+a) Automóviles con motor de gasolina o gas sin importar el número de cilindros.
+
+b) Automóviles con motor diesel.
+
+c) Camiones con motor de gasolina, gas o diesel.
+
+d) Tractocamiones tipo quinta rueda.
+
+e) Autobuses integrales.
+
+f) Automóviles eléctricos.
+
+g) Automóviles híbridos.
+
+h) Motocicletas.
+
+XIII.- Comerciantes en el ramo de vehículos: Personas físicas y morales cuya actividad sea la importación y venta de vehículos nuevos o usados.
+
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL P.O. DE 31 DE DICIEMBRE DE 2014, EL PRESENTE APARTADO QUEDARÁ DEROGADO A PARTIR DEL 1 DE ENERO DE 2016.</small>
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE APARTADO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA LA LEY.</small>
@@ -1765,7 +1827,7 @@ La Secretaría de Finanzas del Estado podrá autorizar a los contribuyentes, la 
 
 #### SECCION CUARTA. De la Base
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2003)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 #### SECCION QUINTA. Del Pago
 
@@ -1969,15 +2031,93 @@ III.- Los intermediarios respecto de las adquisiciones gravadas por este impuest
 
 El impuesto se causará y pagará de acuerdo a lo siguiente:
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+I.- En caso de automóviles de modelo del ejercicio fiscal que transcurre que sean destinados al transporte hasta de quince pasajeros, el impuesto será la cantidad que resulte de aplicar al valor total del vehículo, la siguiente:
 
-La cantidad que resulte de aplicar el 50% a la base, constituida por el Impuesto Sobre Tenencia o Uso de Vehículos Nuevos y de hasta 9 Años Modelo Anterior, del ejercicio fiscal en que se efectúe la adquisición. Respecto de vehículos usados de motor cuyo año modelo de antigüedad corresponda al periodo de los últimos diez años a la fecha en que se realice su adquisición, el pago mínimo por este concepto es de $458.00 cantidad que deberá de actualizarse a la fecha en que se lleve a cabo la operación, de conformidad con lo previsto en el Artículo 4° de esta Ley.
+TARIFA
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
+Límite inferior Límite superior Cuota fija Tasa para aplicarse
+
+sobre el
+
+$ $ $ excedente del límite
+
+inferior %
+
+0.01 568, 370.00 0.00 1.50
+
+568, 370.01 1,093, 796.50 8, 525.55 4.35
+
+1, 093, 796.51 1.470, 183.75 31,381.60 6.65
+
+1, 470, 183.76 1, 846, 571.00 56, 411.35 8.40
+
+1, 846, 571.01 En adelante 88, 027.88 9.55
+
+II.- Tratándose de automóviles blindados, excepto camiones, la tarifa a que se refiere la Fracción anterior, se aplicará sobre el valor total del vehículo, sin incluir el valor del material utilizado para el blindaje. En ningún caso, el impuesto que se tenga que pagar por dichos vehículos, será mayor al que tendrían que pagarse por la versión de mayor precio de enajenación de un automóvil sin blindaje del mismo modelo y año. Cuando no exista vehículo sin blindar que corresponda al mismo modelo, año o versión del automóvil blindado, el impuesto para este último, será la cantidad que resulte de aplicar al valor total del vehículo, la tarifa establecida en esta fracción, multiplicando el resultado por el factor de 0.80;
+
+III.- Para automóviles de modelo del ejercicio fiscal que transcurre destinados al transporte de más de quince pasajeros o efectos cuyo peso bruto vehicular sea menor a 15 toneladas y para automóviles nuevos que cuenten con placas de servicio público de transporte de pasajeros y los denominados “taxis”, el impuesto será la cantidad que resulte de aplicar el 0.1225% al valor total del automóvil. Cuando el peso bruto vehicular sea de 15 a 35 toneladas, el impuesto se calculará multiplicando, la cantidad que resulte de aplicar el 0.25% al valor total del automóvil, por el factor fiscal que resulte de dividir el peso bruto máximo vehicular expresado en toneladas, entre 30. En el caso de que el peso sea mayor de 35 toneladas se tomará como peso bruto máximo vehicular esta cantidad.
+
+Para los efectos de esta Fracción, peso bruto vehicular es el peso del vehículo totalmente equipado incluyendo chasis, cabina, carrocería, unidad de arrastre con el equipo y carga útil transportable.
+
+Para los efectos de este Artículo, se entiende por vehículos destinados a transporte de más de quince pasajeros o para el transporte de efectos, los camiones, vehículos Pick Up sin importar el peso bruto vehicular, tractocamiones tipo quinta rueda, así como los minibuses, microbuses y autobuses, cualquiera que sea su tipo y peso bruto vehicular.
+
+IV.- Tratándose de motocicletas de modelo del ejercicio fiscal que transcurre, el impuesto se calculará aplicando al valor total de la motocicleta, la siguiente:
+
+TARIFA
+
+Límite inferior Límite superior Cuota fija Tasa para aplicarse sobre
+
+$ $ $ el excedente del límite
+
+inferior %
+
+0.01 238,136.66 0.01 1.50
+
+238,136.67 327,493.79 3,572.05 4.35
+
+327,493.80 440,187.97 7,459.08 6.65
+
+440,187.98 En adelante 14,953.24 8.40
+
+V.- Tratándose de vehículos de fabricación nacional o importados, de hasta nueve años modelo anteriores al ejercicio fiscal que transcurra, el impuesto será el que resulte de aplicar el procedimiento siguiente:
+
+a) El valor total del vehículo se multiplicará por el factor de depreciación, de acuerdo al año modelo del vehículo, de conformidad con la siguiente:
+
+TABLA
+
+Años de antigüedad Factor de depreciación
+
+1 0.850
+
+2 0.725
+
+3 0.600
+
+4 0.500
+
+5 0.400
+
+6 0.300
+
+7 0.225
+
+8 0.150
+
+9 0.075
+
+b) La cantidad obtenida conforme al inciso anterior, se actualizará por el factor de actualización. Dicho factor se obtendrá dividiendo el Índice Nacional de Precios al Consumidor del mes noviembre del ejercicio inmediato anterior entre el citado índice correspondiente al mes de noviembre del ejercicio anterior al año modelo del vehículo, y al resultado se le aplicará la tarifa o tasa de conformidad a la Fracción de este Artículo que corresponda.
+
+Para efectos de la depreciación y actualización a que se refiere este Artículo, los años de antigüedad se calcularán con base en el número de años transcurridos a partir del año modelo al que corresponda el vehículo.
+
+Los montos de las cantidades a que se refiere el presente Artículo, se actualizarán cuando el incremento porcentual acumulado del Índice Nacional de Precios al Consumidor desde el mes en que se actualizaron por última vez, exceda del 10%. Dicha actualización se llevará a cabo a partir del mes de enero del siguiente ejercicio fiscal a aquél en el que se haya dado dicho incremento, aplicando el factor correspondiente al periodo comprendido desde el mes en el que éstas se actualizaron por última vez y hasta el último mes del ejercicio en el que se exceda el por ciento citado, mismo que se obtendrá de conformidad con lo dispuesto en el Artículo 4° de esta Ley.
+
+El pago mínimo por este concepto será igual al importe de los derechos de control vehicular causados en el ejercicio fiscal en el cual se realice el trámite, por cada operación.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 60.
 
-Tratándose de vehículos cuyo año modelo de antigüedad corresponda al periodo anterior a los últimos diez años a la fecha en que se realiza la adquisición de vehículos usados de motor se pagará $458.00 por cada operación, cantidad que deberá de actualizarse a la fecha en que se lleve a cabo la operación, de conformidad con lo previsto en el Artículo 4° de esta Ley.
+Tratándose de vehículos cuyo año modelo corresponda al periodo anterior a los últimos diez años a la fecha en que se realiza la adquisición de vehículos usados de motor se pagará una cantidad igual al importe de los derechos de control vehicular causados en el ejercicio fiscal en el cual se realice el trámite, por cada operación.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2003)</small>
 
@@ -2800,3 +2940,27 @@ P.O. 25 DE MAYO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto, iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Para efectos de la comprobación del pago de un gravamen similar al Impuesto Sobre Tenencia o uso de Vehículos Automotores y/o al Impuesto Sobre Tenencia o Uso de Vehículos Nuevos y de hasta 9 Años Modelo Anterior, los cinco ejercicios fiscales anteriores, a que se refieren los párrafos décimo tercero y décimo cuarto de (sic) Artículo 36 de la Ley de Hacienda del Estado de Aguascalientes, se comprobarán según la siguiente tabla:
+
+Ejercicio fiscal que transcurra Comprobación del Impuesto
+
+2016 2011, 2012, 2013, 2014
+
+y 2015
+
+2017 2012, 2013, 2014 y 2015
+
+2018 2013, 2014 y 2015
+
+2019 2014 y 2015
+
+2020 2015
