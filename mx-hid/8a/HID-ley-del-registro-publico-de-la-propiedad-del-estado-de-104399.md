@@ -4,7 +4,7 @@ identifier: "HID-ley-del-registro-publico-de-la-propiedad-del-estado-de-104399"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-22"
-last_updated: "2015-02-16"
+last_updated: "2015-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104399&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "HID"
 
 LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Alcance Dos del Periódico Oficial del Estado de Hidalgo, el lunes 22 de diciembre de 2014.
 
@@ -72,6 +72,10 @@ El Registro Público de la Propiedad, por conducto de las Oficinas Registrales, 
 ###### ARTÍCULO 4.
 
 El Registro Público de la Propiedad del Estado de Hidalgo es un Órgano Desconcentrado de la Secretaría de Gobierno, con autonomía técnica y financiera irreductible.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+El Estado percibirá los derechos que en su caso se determinen en la legislación fiscal por la prestación de servicios que realice a través del Registro, y éstos se cobrarán por cada acto registral o de inscripción, con independencia de la forma en que se ingresen y de las situaciones jurídicas que les hubieran dado origen.
 
 ###### ARTÍCULO 5.
 
@@ -1364,3 +1368,11 @@ P.O. 16 DE FEBRERO DE 2015.
 PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 508, QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ENTIDADES PARAESTATALES PARA EL ESTADO DE HIDALGO, DE LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE HIDALGO; DE LA LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO Y DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO".]
+
+PRIMERO. El presente Decreto entrará en vigor el primero de enero del año 2016, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
