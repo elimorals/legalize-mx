@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-responsabilidades-de-los-servidores-publicos-del-22753"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-12"
-last_updated: "2015-02-02"
+last_updated: "2015-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22753&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2001.
 
@@ -587,11 +587,17 @@ XXX.- Abstenerse de tramitar o intervenir como abogado, representante, apoderado
 
 XXXI.- Abstenerse de realizar cualquier acto que implique distinción, exclusión o restricción que, basada en el origen étnico o nacionalidad, género, edad, discapacidad, condición social o económica, condiciones de salud, embarazo, lengua, religión, opiniones, preferencias sexuales, estado civil o cualquier otra que tenga por efecto impedir o anular el reconocimiento o el ejercicio de los derechos y la igualdad real de oportunidades de las personas;
 
-> <small>(ADICIONADA, P.O. 13 DE JULIO DE 2009)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-XXXII.- Abstenerse de proporcionar apoyo o prestar algún servició a los partidos políticos o a sus candidatos, por sí o a través de sus subordinados, usando del tiempo correspondiente a sus labores, de manera ilegal; y
+XXXII.- Abstenerse de proporcionar apoyo o prestar algún servicio a los partidos políticos o a sus candidatos, por sí o a través de sus subordinados, usando del tiempo correspondiente a sus labores, de manera ilegal;
 
-XXXIII.- Las demás que les impongan las leyes y disposiciones reglamentarias o administrativas.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XXXIII.- Abstenerse de modificar el sueldo base de cotización de los servidores públicos, a menos que ello se realice acatando lo dispuesto a este respecto en la Ley de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes; y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XXXIV.- Las demás que les impongan las leyes y disposiciones reglamentarias o administrativas.
 
 ###### ARTICULO 71.
 
@@ -863,7 +869,9 @@ Las responsabilidades a que alude el artículo anterior, se fincarán:
 
 I.- A los servidores públicos que hayan cometido las irregularidades administrativas; y
 
-II.- A los servidores que por la índole de sus funciones hayan omitido la revisión o autorizado los actos irregulares.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+II.- A los servidores públicos que por la índole de sus funciones hayan autorizado los actos irregulares.
 
 Los presuntos responsables garantizarán con el embargo precautorio en forma individual el importe de los pliegos preventivos, a reserva de la calificación o constitución definitiva de la responsabilidad.
 
@@ -1320,3 +1328,11 @@ En tanto no inicie su vigencia la autonomía de la Fiscalía General del Estado,
 ###### ARTÍCULO SEXTO.
 
 En tanto no inicie su vigencia el Sistema Penal Acusatorio las referencias hechas en el presente Decreto a delitos de prisión preventiva oficiosa se entenderán realizada (sic) a delitos graves, según sea el caso.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 269: REFORMAS A LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
