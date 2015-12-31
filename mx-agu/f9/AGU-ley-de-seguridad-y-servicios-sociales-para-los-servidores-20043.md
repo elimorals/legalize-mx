@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-seguridad-y-servicios-sociales-para-los-servidores-20043
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-29"
-last_updated: "2014-09-29"
+last_updated: "2015-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=20043&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 29 de enero de 2001.
 
@@ -78,6 +78,16 @@ I. Activo Administrado por el Instituto: Al valor de mercado de los Activos Obje
 II. Activos Objeto de Inversión: A los Instrumentos, Valores Extranjeros, Mercancías y operaciones con Derivados, reportos y préstamos de valores;
 
 III. Bancos: A las Instituciones de Crédito, así como a las entidades extranjeras que realicen las mismas operaciones que las Instituciones de Crédito;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+III BIS. Categoría, Nivel y Puesto de los Servidores Públicos, a los siguientes:
+
+a) Categoría: Al grupo de puestos de trabajo al que pertenecen todos aquellos que guardan, entre sí, semejanza en cuanto a funciones, grado de responsabilidad y atribuciones;
+
+b) Nivel: A los diferentes rangos que, para efectos de remuneración, existen dentro de una misma Categoría; y
+
+c) Puesto: Al empleo, cargo o comisión en que se desempeña cada servidor público.
 
 IV. Componentes de Renta Variable: A los Instrumentos de Renta Variable y Valores Extranjeros de Renta Variable con los que se obtenga exposición a activos accionarios autorizados a través de Vehículos que confieran derechos sobre los mismos, acciones o Derivados;
 
@@ -615,6 +625,10 @@ A los enteros de que tratan las fracciones IV y VI del presente Artículo que no
 
 El sueldo base de cotización será aquel con el que la Entidad afilie al Instituto a los servidores públicos de su adscripción, de conformidad con el tabulador de salarios establecidos en su propio presupuesto, mismo que no podrá ser inferior a un salario mínimo general vigente en el Estado, a excepción del caso de los pensionistas que cotizarán de acuerdo al monto de la pensión que disfruten. Dicho sueldo será la base para el cálculo de las aportaciones y el otorgamiento de las prestaciones a que se refiere esta Ley.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Se prohíbe a las entidades modificar el sueldo base de cotización, sin que exista cambio de forma general, en el tabulador de salarios establecidos en su propio presupuesto.
+
 ###### ARTICULO 38.
 
 Los servidores públicos designados por cada entidad para el cumplimiento de las obligaciones a que se contrae el Artículo 36, serán responsables de los daños y perjuicios que ocasionen con acciones y omisiones al Instituto o a los servidores públicos en los términos de esta Ley, independientemente de la responsabilidad civil, penal o administrativa que proceda.
@@ -1040,6 +1054,20 @@ El monto de la pensión de retiro por edad y antigüedad en el servicio será ig
 27 años de aportación 96%
 
 28 años de aportación 100%
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+ARTICULO 88 BIS.- En el supuesto de que el sueldo base de cotización del servidor público que solicite la pensión a que se refiere el Artículo anterior haya aumentado en más de un 40% dentro de los últimos setenta y dos meses de servicio, el monto de la pensión de retiro por edad y antigüedad en el servicio será igual al porcentaje del sueldo base de cotización promedio que el servidor público haya disfrutado durante los últimos setenta y dos meses de servicio en personal de confianza y doce meses en el sindicalizado, en relación con los años de aportación al Instituto que establece la tabla del Artículo 88.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+ARTICULO 88 TER.- No se aplicará lo dispuesto en el Artículo que antecede, sino lo previsto en el Artículo 88, cuando el aumento en el sueldo base de cotización se encuentre en alguno de los supuestos siguientes:
+
+l. Ascenso obtenido por el servidor público mediante los procedimientos establecidos en la normatividad aplicable, si no se incrementó el sueldo base de cotización del Puesto al que ascendió, con motivo de este hecho.
+
+II. Cambio de adscripción a otra dependencia o entidad, si no se incrementó el sueldo base de cotización correspondiente al Puesto ocupado por el servidor público con motivo de su nombramiento y se siguieron los procedimientos establecidos en la normatividad aplicable.
+
+III. Modificación generalizada del tabulador de la dependencia o entidad en la que estuvo laborando el servidor púbico (sic).
 
 #### SECCION TERCERA. Pensión e Indemnización por Invalidez
 
@@ -1954,3 +1982,9 @@ Dentro de los 90 días naturales siguientes a la publicación del presente Decre
 ###### ARTÍCULO TERCERO.
 
 Dentro de los 90 días naturales siguientes a la publicación del presente Decreto, la Junta Directiva del Instituto de Seguridad y Servicios Sociales de los Servidores Públicos del Estado de Aguascalientes, deberá expedir el Reglamento del Fondo Asistencial para Pensionistas en Situación Extraordinaria.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+###### ARTICULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
