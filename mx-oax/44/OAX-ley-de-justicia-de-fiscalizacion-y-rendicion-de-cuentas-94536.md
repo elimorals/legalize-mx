@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-justicia-de-fiscalizacion-y-rendicion-de-cuentas-94536"
 country: "mx"
 rank: "ley"
 publication_date: "2013-06-01"
-last_updated: "2013-06-01"
+last_updated: "2015-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE JUSTICIA DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Tercera Sección del Periódico Oficial del Estado de Oaxaca, el sábado 1 de junio de 2013.
 
@@ -41,21 +41,23 @@ LEY DE JUSTICIA DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE OAXA
 
 ### CAPÍTULO I. Del ámbito de aplicación, de la interpretación y del objeto
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público, de observancia general en todo el territorio del Estado de Oaxaca y Reglamentaria de las fracciones I y II, del apartado B del Artículo 111 de la Constitución Política del Estado Libre y Soberano de Oaxaca y tiene por objeto garantizar que los actos y resoluciones de la Auditoría Superior del Estado, previstos en el Artículo 2 de la presente Ley se sujeten a los principios de legalidad, definitividad y demás principios constitucionales, a través del Juicio de Inconformidad, cuyo trámite y substanciación corresponde conocer al Tribunal de Fiscalización del Poder Judicial del Estado.
+La presente Ley es de orden público, de observancia general en todo el territorio del Estado de Oaxaca y Reglamentaria del primer párrafo, fracción VII, y segundo párrafo, fracciones I, IV y VII, del Artículo 111 de la Constitución Política del Estado Libre y Soberano de Oaxaca, tiene por objeto garantizar que los actos y resoluciones de la Auditoría Superior del Estado, previstos en el Artículo 2 de la presente Ley se sujeten a los principios de legalidad, definitividad y demás principios constitucionales, a través del Juicio de Inconformidad, cuyo trámite y resolución corresponde conocer al Tribunal de lo Contencioso Administrativo y de Cuentas del Poder Judicial del Estado.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 2.
 
-Corresponde al Tribunal de Fiscalización del Poder Judicial del Estado de Oaxaca, conocer y resolver mediante Juicio de Inconformidad:
+Corresponde al Tribunal de lo Contencioso Administrativo y de Cuentas del Poder Judicial del Estado, conocer y resolver las controversias a las que se refieren las fracciones I y II del artículo 146 de la Ley Orgánica.
 
-I. Las controversias derivadas del procedimiento de revisión y fiscalización, sobre el informe de resultados de las Cuentas Públicas Estatal y Municipales que lleve a cabo la Auditoria Superior, y
-
-II. Las impugnaciones de resoluciones sancionatorias, que emita la Auditoría Superior del Estado.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 3.
 
-Para los efectos de esta Ley, se entenderá por:
+Para los efectos de la presente Ley se entiende por:
 
 I. Constitución: La Constitución Política del Estado Libre y Soberano del Estado (sic) de Oaxaca;
 
@@ -67,7 +69,9 @@ IV. Ley de Justicia: La Ley de Justicia de Fiscalización y Rendición de Cuenta
 
 V. Ley de Fiscalización: La Ley de Fiscalización Superior del Estado de Oaxaca;
 
-VI. Tribunal: El Tribunal de Fiscalización del Poder Judicial del Estado de Oaxaca;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+VI. Tribunal.- Tribunal de lo Contencioso Administrativo y de Cuentas del Estado de Oaxaca;
 
 VII. Auditoría Superior: La Auditoría Superior del Estado de Oaxaca;
 
@@ -75,9 +79,13 @@ VIII. Congreso: El Honorable Congreso del Estado de Oaxaca;
 
 IX. Juicio: El Juicio de inconformidad;
 
-X. Instructor: El magistrado que realiza el trámite, substanciación y proyecto de resolución en forma de sentencia, del juicio y del recurso establecidos en la presente Ley;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-XI. Pleno: El Pleno del Tribunal de Fiscalización del Poder Judicial del Estado de Oaxaca;
+X. Instructor.- Presidente del Tribunal de lo Contencioso Administrativo y de Cuentas del Estado de Oaxaca;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XI. Fiscalía.- La Fiscalía General del Estado de Oaxaca;
 
 XII. Recurso: El Recurso de queja; y
 
@@ -95,15 +103,19 @@ A falta de disposición expresa, para la resolución de los asuntos, se aplicar�
 
 Corresponde al Tribunal conocer y resolver del medio de impugnación previsto en el Artículo 28 del presente ordenamiento, en la forma y términos establecidos por esta Ley, el Reglamento y por los criterios generales que en aplicación de la misma dicte el Pleno.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 6.
 
-En lo no previsto en la presente Ley, a falta de disposición expresa, se estará a lo dispuesto en el Código de Procedimientos Civiles para el Estado de Oaxaca.
+En el desarrollo de los procedimientos que establece esta Ley, a falta de disposición expresa, se aplicará supletoriamente la Ley de Justicia Administrativa para el Estado de Oaxaca, y en caso de que aun así no se regule suficientemente la institución cuya supletoriedad se requiera, se estará a lo dispuesto en el Código de Procedimientos Civiles para el Estado de Oaxaca.
 
 ###### ARTÍCULO 7.
 
 La Auditoría, las autoridades estatales y municipales del Estado de Oaxaca, así como sus servidores públicos, personas físicas o morales, pública (sic) o privadas que haya recaudado, administrado, manejado, o ejercido recursos públicos, que con motivo del trámite, sustanciación y resolución del juicio a que se refiere el Artículo 2, no cumplan las disposiciones de esta Ley o desacaten las resoluciones que dicte el Tribunal, serán sancionados en los términos del presente ordenamiento y demás disposiciones aplicables.
 
-El Tribunal al advertir la probable comisión de alguna conducta ilícita de naturaleza penal dará vista al Ministerio Público para los efectos legales.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+El Tribunal al advertir la probable comisión de alguna conducta ilícita de naturaleza penal dará vista a la Fiscalía para los efectos legales.
 
 ## TÍTULO SEGUNDO. Del juicio de inconformidad
 
@@ -113,31 +125,55 @@ El Tribunal al advertir la probable comisión de alguna conducta ilícita de nat
 
 El Tribunal, conforme a las disposiciones del presente ordenamiento, resolverá los asuntos de su competencia con plena jurisdicción.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 9.
 
-La suspensión del acto impugnado, a petición del interesado, se concederá siempre que se garantice el monto de la sanción ante el Tribunal.
+La suspensión del acto impugnado, se concederá a petición del interesado, siempre que se garantice el monto de la sanción ante el Tribunal. Se podrá solicitar en cualquier tiempo hasta antes de la citación para sentencia. El trámite de la suspensión se hará por cuerda separada.
+
+La garantía deberá exhibirse como requisito de eficacia en un plazo de cinco días siguientes contados a partir de que surta efectos la notificación del acuerdo en que se fije la misma, en cualquiera de las siguientes modalidades:
+
+I. En efectivo ante el Fondo para la Administración de Justicia del Poder Judicial del Estado.
+
+II. En fianza ante el Tribunal.
+
+La suspensión solicitada no surtirá efectos si dentro del plazo señalado en el artículo anterior no se otorga la garantía.
+
+Cuando el interesado al solicitar la suspensión, acredite que ha garantizado el monto de la sanción ante la Auditoría, se concederá aquella y desde luego surtirá efectos.
+
+La suspensión tendrá por efecto mantener las cosas en el estado en que se encuentren, hasta en tanto se pronuncie la sentencia definitiva.
 
 ### CAPÍTULO II. De los plazos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 10.
 
-El Juicio de Inconformidad deberá promoverse dentro de los quince días hábiles contados a partir del día siguiente a aquél en que se tenga conocimiento del acto o resolución impugnado, salvo las excepciones previstas expresamente en el presente ordenamiento.
+El Juicio de Inconformidad deberá promoverse dentro de los quince días hábiles contados a partir del día siguiente a aquél en que surta efectos la notificación, o de que se tenga conocimiento, de la resolución o acto impugnado, salvo las excepciones previstas expresamente en el presente ordenamiento.
 
 Los plazos previstos en esta Ley, se contarán en días hábiles, salvo disposición en contrario.
 
-No se consideraran días hábiles, los sábados y domingos, y demás señalados en la Ley Federal del Trabajo, así como, los días en que tenga vacaciones generales el Tribunal o aquellos en que se suspendan las labores, los que se harán del conocimiento público mediante acuerdo que emita el Pleno, mismo que, será publicado en Periódico Oficial del Gobierno del Estado.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+No se consideraran días hábiles, los sábados, domingos, y demás señalados en la Ley Federal del Trabajo, aquellos en que así lo determine el Consejo de la Judicatura del Poder Judicial del Estado, así como los días en que tenga vacaciones generales el Tribunal o aquellos en que se suspendan las labores, los que se harán del conocimiento público mediante acuerdo que emita la Sala Superior y se publicarán en la forma que ésta lo determine.
 
 ###### ARTÍCULO 11.
 
 En los autos se hará constar por el Secretario que corresponda, el día en que comienzan a correr los plazos y aquél en que deben concluir.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Los plazos empezarán a correr a partir del día siguiente a aquél en que surta efectos la notificación y se incluirá en ellos el día del vencimiento.
+
 ###### ARTÍCULO 12.
 
 Una vez concluidos los plazos fijados a las partes, sin necesidad de que se acuse rebeldía, seguirá el procedimiento su curso y se tendrá por perdido el derecho que, dentro de ellos, debió ejercerse.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 13.
 
-El plazo para el desahogo de pruebas será de treinta días hábiles improrrogables, salvo caso fortuito o fuerza mayor; en estos casos el Instructor mandará desahogarlas a petición de parte, conforme a los plazos previstos en la Legislación Supletoria al presente ordenamiento.
+Las pruebas se desahogaran en una audiencia de pruebas y alegatos; las ofrecidas en tiempo que no pudieran ser desahogadas por caso fortuito o fuerza mayor en la fecha y hora señaladas por el Instructor, a petición de parte hecha en esa propia audiencia, se diferirá ésta y se procederá a señalar nueva fecha y hora para la continuación de la misma y el desahogo de las mismas, ello por una sola vez.
 
 ### CAPÍTULO III. De los requisitos del escrito de impugnación
 
@@ -187,15 +223,27 @@ V. Cuando el acto o resolución impugnado sea materia de un Recurso de Reconside
 
 VI. Cuando el promovente carezca de legitimación, en los términos de la presente Ley.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 17.
 
-Son causales de sobreseimiento, del Juicio de Inconformidad:
+Son causales de sobreseimiento del Juicio de Inconformidad:
 
-I. El desistimiento de la demanda, por el promovente;
+I. El desistimiento de la demanda hecho por el promovente;
 
-II. Una vez en trámite el juicio, aparezca o sobrevenga alguna causal de improcedencia en términos de la presente Ley; y
+II. Aparezca o sobrevenga alguna causal de improcedencia en el trámite del juicio, en términos de la presente Ley; y
 
-III. Cuando el interesado o agraviado fallezca.
+III. Cuando el interesado o el agraviado fallezca.
+
+Presentada la demanda y en su caso la ampliación, el actor podrá desistir de éstas, lo que sólo importará la pérdida de la instancia y requiere el consentimiento de la Auditoría Superior, excepto si ésta última no ha sido emplazada.
+
+El desistimiento de la acción extingue ésta, aun sin consentimiento de la demandada.
+
+En los casos de desistimiento, el instructor mandará ratificar al actor, previa identificación con documento indubitable, cuya copia se agregará en autos.
+
+En todos los casos, el desistimiento produce el efecto de que las cosas vuelvan al estado que tenían antes de la presentación de la demanda.
+
+El sobreseimiento podrá decretarse en cualquier momento durante el procedimiento o en la sentencia.
 
 ### CAPÍTULO V. De las partes y de la legitimación
 
@@ -233,7 +281,9 @@ I. Documental pública;
 
 II. Documental privada;
 
-III. Confesión;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+III. Confesión expresa, no mediante posiciones;
 
 IV. Testimonial;
 
@@ -247,13 +297,21 @@ VIII. Instrumental de actuaciones;
 
 IX. Otros medios de prueba conducentes.
 
-Las pruebas a las que se refiere este Articulo deberán ofrecerse con los escritos respectivos y siempre que el oferente proporcione los elementos necesarios para su desahogo.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-Los Tribunales podrán limitar los medios de prueba ofrecidos para demostrar un hecho o una circunstancia, cuando resulten excesivos.
+Las pruebas a las que se refiere este artículo deberán ofrecerse en los escritos de demanda, informe, contestación y contestación de la ampliación y siempre que el oferente proporcione los elementos necesarios para su desahogo, y que no se trate de aquellas que debieron haberse aportado ante la Auditoria Superior del Estado.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Podrán limitarse los medios de prueba ofrecidos para demostrar un hecho o una circunstancia, en este caso deberá fundarse cuidadosamente esta determinación.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 22.
 
 En caso de que se ofrezca la prueba pericial o testimonial, se precisarán los hechos sobre los que deban versar y se señalarán los nombres, apellidos y domicilios de los peritos o de los testigos; quienes además deberán ser mencionados en los escritos respectivos. Sin estos señalamientos se tendrán por no ofrecidas dichas pruebas.
+
+Tratándose de la prueba testimonial a cargo de las autoridades, las corporaciones oficiales y las dependencias que formen parte de la administración pública se pedirá su declaración por oficio en el plazo de ocho días.
 
 ###### ARTÍCULO 23.
 
@@ -279,31 +337,59 @@ La presentación de los peritos quedará a cargo de la parte oferente.
 
 Los documentos públicos tendrán valor probatorio pleno, salvo prueba en contrario respecto de su autenticidad o de la veracidad de los hechos a que se refieran.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 26.
 
-Podrán admitirse, concluido el plazo probatorio y hasta antes de los alegatos, y sin que se suspenda el curso del juicio, las escrituras y documentos justificativos de hechos ocurridos con posterioridad, de los anteriores cuya existencia ignorare el que los presenta bajo protesta de decir verdad, de los conocidos que no hubieran podido adquirirse con anterioridad por causa no imputable al oferente y aquéllos que, dentro del plazo, hubieren sido pedidos y no hayan sido remitidos al Tribunal hasta después de concluido dicho plazo.
+Podrán admitirse, concluido el desahogo de pruebas, hasta antes de la citación para sentencia, sin que se suspenda el curso del juicio, bajo protesta o promesa de decir verdad:
+
+I. Los documentos justificativos de hechos ocurridos con posterioridad a dicho plazo.
+
+II. Los anteriores cuya existencia ignorare el que los presenta, y
+
+III. Aquéllos que, en los escritos respectivos, se acredite que hubieran sido pedidos, y no hayan sido remitidos al Tribunal hasta antes de concluir el desahogo de las pruebas.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 27.
 
-Los medios de prueba serán valorados por el Tribunal para resolver, atendiendo a las reglas de la lógica, de la sana crítica y de la experiencia, tomando en cuenta las disposiciones especiales señaladas en este capítulo.
+La confesión expresa hecha en la demanda, en la contestación, o en cualquier otro acto del juicio, hará prueba plena, sin necesidad de ratificación ni de ser ofrecida como prueba.
+
+Los demás medios de prueba que no tengan asignado un valor específico por esta Ley, serán valorados por el Tribunal para resolver, atendiendo a las reglas de la lógica, de la sana crítica y de la experiencia, tomando en cuenta las disposiciones especiales señaladas en este capítulo.
 
 ### CAPÍTULO VII. De la sustanciación del juicio de inconformidad
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 28.
 
-El juicio de inconformidad se substanciara conforme a la presente Ley, al Reglamento del Tribunal, a los criterios y acuerdos generales que éste emita, (sic)
+El juicio de inconformidad se substanciará conforme a la presente Ley, a la aplicación supletoria de la Ley de Justicia Administrativa para el Estado de Oaxaca, y si subsiste insuficiencia en la supletoriedad, se aplicará el Código de Procedimientos Civiles para el Estado de Oaxaca.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 29.
 
-Recibido el escrito de inconformidad, el presidente del Tribunal radicará el asunto en un plazo de tres días hábiles; y turnará el expediente al Instructor para sustanciar el proceso.
+Recibido en el Tribunal el escrito en que se promueva el Juicio de Inconformidad, el Secretario de Acuerdos dará cuenta con él al Instructor, quien dictará el acuerdo en el que determine si admite, previene o desecha la demanda, dentro de un plazo de cinco días hábiles.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 30.
 
-Recibido el expediente el Instructor dictará el acuerdo correspondiente dentro de un plazo de cinco días hábiles.
+Cuando el actor no acompañe el documento con el que acredite su personalidad, el Instructor dictará el acuerdo de prevención para que el promovente dentro del plazo de tres días exhiba original o copia certificada del o los documentos necesarios, que satisfagan el requerimiento, apercibiéndolo que en caso de no hacerlo en dicho plazo se tendrá por no presentado el escrito de impugnación.
+
+A toda demanda deberán acompañarse necesariamente las copias del escrito y de los documentos que se exhiban, para el efecto de correr traslado al colitigante.
+
+Cuando no se adjunten las copias de la demanda y de los documentos para el traslado respectivo, el instructor prevendrá al promovente para que dentro del plazo de tres días las exhiba, apercibiéndolo que de no hacerlo se tendrá por no presentada la demanda.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 31.
 
-Turnado el expediente al Instructor, éste ordenará se emplace a la Auditoría para que rinda su informe en un plazo de cinco días hábiles, el cual deberá contener por lo menos:
+Si la demanda satisface los requisitos de ley, o cumplidas las prevenciones si las hubiere, el Instructor, en el plazo de cinco días hábiles, dictará el acuerdo en el que se admita.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Al admitirse la demanda, se ordenará el emplazamiento a la Auditoría para que rinda su informe en un plazo de cinco días hábiles, el cual deberá contener por lo menos:
 
 I. Si el promovente o el compareciente, tienen reconocida su personería; y
 
@@ -319,11 +405,11 @@ II. El expediente completo con todas las actas producto de la revisión de la Cu
 
 III. Cualquier otro documento que estime necesario para la resolución del asunto.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 33.
 
-Cuando el actor no señale domicilio o no acompañe documentos para acreditar la personalidad el Instructor requerirá para que dentro del plazo de tres días se subsane la omisión con el apercibimiento de que, en caso de incumplimiento se tendrá por no presentado el escrito de impugnación.
-
-Si el actor no señala domicilio procesal en su escrito, se le notificará por estrados y adicionalmente en el portal electrónico oficial.
+Cuando el actor no señale domicilio en el lugar de residencia del Tribunal para recibir notificaciones, o de plano no señale domicilio para tal efecto, las notificaciones se le harán por lista de acuerdos y adicionalmente en el portal electrónico oficial, en los términos que señala el último párrafo del artículo 108 del Código de Procedimientos Civiles.
 
 ###### ARTÍCULO 34.
 
@@ -335,9 +421,21 @@ Si del informe de la Auditoria se desprenden nuevos hechos, o hechos no aducidos
 
 Con el escrito de ampliación se correrá traslado a la Auditoría para que rinda informe sobre los hechos de la ampliación.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Transcurridos los plazos a que se refiere este artículo, si el actor no contesta la vista, o la Auditoria no rinde el informe sobre los hechos de ampliación, se tendrá por perdido el derecho respectivo de las partes y seguirá el procedimiento su curso en los términos previstos por el artículo 12 de la Ley.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 36.
 
-Una vez recibido el informe de la Auditoria, transcurrido el plazo para su recepción, o contestado el informe de la ampliación de demanda, se procederá a calificar las pruebas ofrecidas, y en su caso se señalará fecha y hora para su desahogo. El no desahogo de las pruebas ofrecidas y admitidas por causa imputable al oferente, en ningún supuesto será motivo para sobreseer el medio de impugnación. En todo caso, se resolverá con los elementos que existan en autos.
+Una vez recibido el informe de la Auditoria, o contestado el informe de la ampliación de demanda, o transcurrido el plazo en cada caso, se procederá a determinar sobre la admisión de las pruebas ofrecidas, mandando preparar aquellas que así lo ameriten. Preparadas las pruebas, en su caso, se señalará fecha y hora en que tendrá lugar la audiencia de desahogo de pruebas y de alegatos, la cual deberá celebrarse dentro de los quince días hábiles siguientes, la que deberá efectuarse el día y hora señalados para tal efecto; será pública, salvo en los casos que, a juicio del Tribunal, deba ser reservada para evitar afectaciones al orden público.
+
+La audiencia se celebrará aún sin asistencia de las partes; las peticiones y oposiciones que realicen las partes que asistan a la audiencia, se resolverán de plano en el transcurso de ésta.
+
+La audiencia podrá suspenderse, o prorrogarse de oficio o a solicitud de alguna de las partes, cuando exista motivo fundado a juicio del Magistrado que conoce del asunto.
+
+El no desahogo de las pruebas ofrecidas y admitidas por causa imputable al oferente, en ningún caso será motivo para sobreseer el medio de impugnación. Éste se resolverá con los elementos que existan en autos.
 
 ###### ARTÍCULO 37.
 
@@ -345,17 +443,19 @@ El Instructor podrá requerir a la Auditoría, a las autoridades estatales y mun
 
 Asimismo, en casos extraordinarios debidamente acreditados, el Instructor, a petición de parte, podrá ordenar que se realice alguna diligencia o que una prueba se perfeccione o desahogue, siempre que ello no signifique una dilación que haga jurídica o materialmente irreparable la violación reclamada, o sea un obstáculo para resolver dentro de los plazos establecidos, de conformidad con lo señalado en la presente Ley.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 38.
 
-Una vez concluido el plazo de desahogo de pruebas, se concederá a las partes un plazo de dos días para que formulen su escrito de alegatos, apercibiéndolos que de no presentarlos tendrán por perdido su derecho.
-
-Al vencer el plazo a que se refiere el párrafo anterior, con los alegatos o sin ellos, se emitirá el acuerdo correspondiente para que se liste el asunto y se presente el proyecto de sentencia ante el Pleno del Tribunal.
+Hecha la citación para sentencia el Instructor turnará el expediente al magistrado que corresponda para que presente el proyecto de sentencia ante la Sala Superior.
 
 ### CAPÍTULO VIII. De las sentencias
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 39.
 
-El Pleno dictará sus sentencias en sesión pública, de conformidad con lo que establezcan la Ley Orgánica y el Reglamento del propio Tribunal, así como las reglas y el procedimiento siguientes:
+Las sentencias se discutirán y aprobarán, de conformidad con lo que establezcan la Ley Orgánica y el Reglamento del propio Tribunal, así como las reglas y el procedimiento siguientes:
 
 I. Abierta la sesión pública por el presidente del Tribunal, se procederá a exponer cada uno de los asuntos listados con las consideraciones y preceptos jurídicos en que se funden, así como el sentido de los puntos resolutivos que se proponen;
 
@@ -367,9 +467,11 @@ En las sesiones públicas sólo podrán participar y hacer uso de la palabra los
 
 A propuesta del Presidente del Tribunal, se podrá aplazar la resolución de un asunto listado, por causa justificada, y en atención (sic) su trascendencia a consideración de la mayoría de los Magistrados, la sesión podrá ser privada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 40.
 
-Las sentencias que sean dictadas por el Pleno del Tribunal, serán definitivas e inatacables; estas podrán:
+Las sentencias serán definitivas e inatacables; éstas podrán:
 
 I. Sobreseer el Juicio;
 
@@ -381,17 +483,21 @@ IV. Dejar sin efectos el acto impugnado o revocarlo total o parcialmente; y
 
 V. Modificar el acto impugnado o dictar uno nuevo que lo sustituya cuando el juicio interpuesto sea total o parcialmente resuelto a favor del promovente.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 41.
 
-Cuando se omitan señalar los preceptos jurídicos presuntamente violados o se citen de manera equivocada, el Pleno resolverá tomando en consideración los que debieron ser invocados o los que resulten aplicables al caso concreto.
+Cuando se omitan señalar los preceptos jurídicos presuntamente violados o se citen de manera equivocada, la Sala Superior resolverá tomando en consideración los que debieron ser invocados o los que resulten aplicables al caso concreto.
 
 ###### ARTÍCULO 42.
 
 El Secretario General ordenará que se publique en los estrados y portal electrónico oficial, por lo menos con veinticuatro horas de antelación, la lista de los asuntos que serán ventilados en cada sesión, o en un plazo menor cuando se trate de asuntos de urgente resolución.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 43.
 
-Las sentencias que pronuncie el Pleno deberán hacerse constar por escrito y contendrán:
+Las sentencias deberán hacerse constar por escrito y contendrán:
 
 I. La fecha, el lugar y el Tribunal que la dicta;
 
@@ -405,11 +511,13 @@ V. Los puntos resolutivos; y
 
 VI. En su caso, el plazo para su cumplimiento.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 44.
 
-El Pleno no podrá variar ni modificar sus sentencias una vez discutidas y firmadas; pero si aclarar algún concepto o suplir cualquier omisión que contenga sobre un punto discutido en la controversia.
+La Sala Superior no podrá variar ni modificar sus sentencias una vez discutidas y firmadas; pero sí aclarar algún concepto o suplir cualquier omisión que contenga sobre un punto discutido en la controversia.
 
-Las partes dentro del plazo de tres días al que surta efectos la notificación, podrán solicitar al Pleno la aclaración de la sentencia por una sola vez, señalando con toda precisión la contradicción, ambigüedad u oscuridad, cuya aclaración se solicite. El Pleno dentro del mismo plazo resolverá lo procedente, sin variar el sentido de la resolución.
+Las partes dentro del plazo de tres días al que surta efectos la notificación, podrán solicitar la aclaración de la sentencia por una sola vez, señalando con toda precisión la contradicción, ambigüedad u oscuridad, cuya aclaración se solicite. La Sala Superior dentro del mismo plazo resolverá lo procedente, sin variar el sentido de la resolución.
 
 ### CAPÍTULO IX. De las notificaciones
 
@@ -423,7 +531,9 @@ Las notificaciones surtirán sus efectos el día hábil siguiente de aquél en q
 
 las notificaciones se efectuarán:
 
-I. Personalmente a los particulares y por oficio a las autoridades, cuando se trate de emplazamientos, citaciones, requerimientos, reposiciones de autos, la que señale día y hora para el desahogo de la audiencia y regularización del procedimiento y demás acuerdos o resoluciones que puedan ser recurribles y aquéllas que el Instructor o el Pleno estimen necesarios;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+I. Personalmente a los particulares y por oficio a las autoridades, cuando se trate de emplazamientos, citaciones, requerimientos, reposiciones de autos, la que señale día y hora para el desahogo de la audiencia de pruebas y alegatos, los demás acuerdos o resoluciones que puedan ser recurribles y aquéllas que el Instructor estime necesarias;
 
 II. Por lista de acuerdos, ubicadas en las Oficinas del Tribunal, cuando así lo señale la parte interesada o se trate de actos distintos a la fracción anterior;
 
@@ -445,11 +555,15 @@ Si no obstante de haber dejado citatorio, el citado no se encontrare, el Actuari
 
 Cuando el domicilio se encontrare cerrado, la citación o notificación se entenderá con el vecino más cercano a quien se entregará copia simple del acuerdo o resolución que se notifica, debiéndose fijar una copia adicional en la puerta o lugar visible del domicilio, haciéndose constar lo anterior en acta circunstanciada, la que se agregará a los autos;
 
-II. El oficio de notificaciones a las autoridades, deberá contener nombre del actor, número de expediente, fecha y síntesis del contenido de los acuerdos o resoluciones de que se trate, fecha y número de oficio, nombre de la autoridad que se notifica, fecha de la notificación, firma del Actuario, sello oficial de la autoridad que se notifica y firma de quien recibe la notificación. Al oficio de notificación, se adjuntará copia del acuerdo o resolución de que se trate y copias de traslado, cuando proceda. El Actuario dejará constancia de lo anterior en el expediente respectivo.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+II. El oficio de notificación a las autoridades, deberá contener nombre del actor, número de expediente, fecha y síntesis del contenido del acuerdo o resolución de que se trate, fecha y número de oficio, nombre de la autoridad que se notifica, fecha de la notificación, firma del Actuario, sello oficial de la autoridad que se notifica y firma de quien recibe la notificación. Al oficio de notificación se adjuntará copia del acuerdo o resolución de que se trate y copias de traslado, cuando proceda. El Actuario dejará constancia de lo anterior en el expediente respectivo.
 
 Cuando las autoridades se encuentren fuera del lugar de residencia del Tribunal, el oficio de notificación se enviará por correo certificado con acuse de recibo del Servicio Postal Mexicano, requisitado en la forma que prevé el párrafo que antecede; y
 
-III. La lista de acuerdos deberá contener el nombre de la persona a quien se notifica, número de expediente, la fecha y síntesis del contenido de los acuerdos o resoluciones de que se trate. El Actuario autorizará con su firma la lista de estrados, ubicándola en el tablero de avisos del Tribunal y asentando en autos la constancia correspondiente, misma que se fijará al día siguiente al que le sea turnado el expediente en que conste el acuerdo que se notifica.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+III. La lista de notificación deberá contener: el nombre de la persona a quien se notifica, número de expediente, la fecha y síntesis del contenido de los acuerdos o resoluciones de que se trate. El Actuario autorizará con su firma la lista de estrados, ubicándola en el tablero de avisos del Tribunal y asentando en autos la constancia correspondiente, misma que se fijará al día siguiente al que le sea turnado el expediente en que conste el acuerdo que se notifica. Asentará en el expediente las razones correspondientes de fijación y retiro de la lista.
 
 El Actuario asentará razón de todas y cada una de las circunstancias observadas en la diligencia de la notificación, acta que agregará al expediente, junto con las constancias que acrediten que se realizó en los términos del presente Artículo.
 
@@ -459,17 +573,29 @@ Asimismo, cuando proceda, se asentará la entrega de documentos.
 
 Las notificaciones que no se realicen en la forma que establecen las disposiciones relativas, serán nulas.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+La parte afectada por una notificación irregular, deberá pedir su nulidad en la actuación subsiguiente en la que intervengan; de lo contrario quedará aquella convalidada. La promoción de nulidad de notificación se decidirá de plano.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Si la nulidad es procedente, el instructor determinará en su resolución las actuaciones que son nulas, inclusive las no mencionadas por quien promovió la nulidad; o porque no puedan subsistir, ni pudieran haber sido practicadas sin la existencia previa de unas y la validez de otras.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 49.
 
-Las partes afectadas por una notificación irregular, deberán pedir su nulidad en la actuación subsiguiente en la que intervengan; de lo contrario quedará aquella convalidada.
-
-Toda notificación irregular u omitida se entenderá legalmente hecha a partir del día en que el interesado se ostente conocedor de su contenido.
+Las resoluciones judiciales pronunciadas en las audiencias del procedimiento, se tendrán por notificadas en ese mismo acto, sin necesidad de formalidad alguna, a quienes estén presentes o debieron haber estado.
 
 ### CAPÍTULO X. De la acumulación
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 50.
 
-Para la resolución pronta y expedita del juicio de inconformidad, el Pleno podrá decretar la acumulación al inicio o durante la sustanciación, o para la resolución de los medios de impugnación.
+Para la resolución pronta y expedita del juicio de inconformidad, podrá decretarse la acumulación al inicio, durante la sustanciación, o para la resolución de los medios de impugnación.
+
+La acumulación podrá tramitarse a petición de parte, o de oficio.
 
 ###### ARTÍCULO 51.
 
@@ -483,31 +609,59 @@ III. Sean las partes y las violaciones diversos o no, se impugnen actos que sean
 
 IV. Se trate de juicios promovidos por el mismo actor, respecto del mismo acto que se reclama, aunque los agravios sean distintos.
 
-La acumulación podrá tramitarse de oficio.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+La acumulación se solicitará ante el Instructor que esté conociendo del juicio en el cual la demanda se presentó primero, hasta antes de que se formulen los alegatos, siendo necesario que se especifique en la solicitud si los autos que deban acumularse se encuentran ante un mismo instructor o con instructores diversos.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Recibida la solicitud, el instructor ordenará que se realice inspección judicial en los expedientes cuya acumulación se pretende. Esta inspección deberá realizarse dentro de los tres días siguientes a la petición. Efectuada la inspección, el instructor, dentro de los tres días posteriores pronunciará la resolución.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+El mismo trámite se dará a la acumulación de oficio.
 
 ###### ARTÍCULO 52.
 
 Una vez decretada la acumulación el Instructor ordenará que el juicio más reciente se acumule al primer juicio, en un plazo que no exceda de tres días.
 
-### CAPÍTULO XI. De las medidas de apremio
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+La tramitación de la acumulación no suspenderá el procedimiento del juicio principal.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO XI. De las correcciones disciplinarias y de las medidas de apremio
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 53.
 
-Para hacer cumplir las disposiciones del presente ordenamiento y las sentencias que dicte, así como para mantener el orden, el respeto y la consideración debidos, el Tribunal podrá aplicar discrecionalmente los medios de apremio y las correcciones disciplinarias siguientes:
+El Instructor, a efecto de mantener el buen orden y hacer que se guarde el respeto y consideraciones debidas al Tribunal o a cualquiera de sus miembros, en el desempeño de sus funciones oficiales o como consecuencia de su ejercicio, podrá imponer de acuerdo a la gravedad de la falta, indistintamente, cualquiera de las siguientes correcciones disciplinarias:
 
-I. Apercibimiento;
+I. Amonestación;
 
-II. Amonestación;
+II. Previo apercibimiento, multa de cincuenta hasta mil veces el salario mínimo diario general vigente en el Estado de Oaxaca. En caso de reincidencia se podrá aplicar hasta el doble de la cantidad señalada;
 
-III. Multa de cincuenta hasta mil veces el salario mínimo diario general vigente en el Estado de Oaxaca. En caso de reincidencia se podrá aplicar hasta el doble de la cantidad señalada;
+III. Suspensión hasta por quince días;
 
-IV. Auxilio de la fuerza pública; y
+IV. Expulsión del local y, en caso necesario, con el auxilio de la fuerza pública, y
 
 V. Arresto hasta por treinta y seis horas.
 
+Si algún acto llegare a constituir delito, se levantará acta circunstanciada y se dará vista al Ministerio Público.
+
+El Tribunal, para hacer cumplir sus determinaciones, podrá emplear indistintamente cualquiera de los siguientes medios de apremio:
+
+I. Previo apercibimiento, multa de cincuenta hasta mil veces el salario mínimo diario general vigente en el Estado de Oaxaca. En caso de reincidencia se podrá aplicar hasta el doble de la cantidad señalada; y
+
+II. Requerimiento al superior jerárquico de la autoridad obligada al cumplimiento de un mandato del Tribunal.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTÍCULO 54.
 
-Los medios de apremio y las correcciones disciplinarias a que se refiere el Artículo anterior, serán aplicados por el Pleno, por su Presidente y por el Instructor, con el apoyo de la autoridad competente, de conformidad con las reglas que al efecto establezca la Ley Orgánica y el Reglamento.
+Los medios de apremio y las correcciones disciplinarias a que se refiere el Artículo anterior, serán aplicados por la Sala Superior o por el Presidente, con el apoyo de la autoridad competente, de conformidad con las reglas que al efecto establezca la Ley Orgánica y el Reglamento.
 
 ## TÍTULO TERCERO. Del recurso en materia de fiscalización
 
@@ -515,37 +669,29 @@ Los medios de apremio y las correcciones disciplinarias a que se refiere el Art�
 
 ###### ARTÍCULO 55.
 
-El recurso de queja procederá contra los acuerdos y resoluciones dictados por el Instructor, cuyo conocimiento y resolución corresponde al Pleno.
-
-Podrán ser impugnados por las partes, a través de este recurso:
-
-I. Los acuerdos que admitan o desechen el escrito de impugnación;
-
-II. El acuerdo que deseche pruebas; y
-
-III. Las resoluciones que decreten o nieguen la improcedencia o el sobreseimiento.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### ARTÍCULO 56.
 
-El recurso de queja se presentará por escrito con expresión de agravios ante el Presidente del Tribunal, que dictó el acuerdo o resolución que se impugna, dentro de los cinco días siguientes a la notificación del acuerdo impugnado.
-
-Acordará la recepción del mismo y ordenará se corra traslado a las demás partes, para que dentro del plazo de cinco días hábiles contados a partir de que surta efectos la notificación, contesten lo que a sus derechos convenga.
-
-Una vez que se reciban los escritos de las demás partes, o bien, transcurrido el plazo sin que hubieren presentado escrito alguno; el Presidente, previa certificación del transcurso y conclusión del plazo, dará cuenta al Pleno para que el expediente sea turnado a otro Magistrado para la elaboración del proyecto de resolución.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### ARTÍCULO 57.
 
-El proyecto será sometido a la consideración de los integrantes del Pleno, en la sesión que corresponda.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
 
-Resuelto el recurso, se notificará a las partes.
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-## TÍTULO CUARTO. De la rendición de Cuentas
+## TÍTULO CUARTO. De la Cultura de la rendición de Cuentas
 
-### CAPÍTULO ÚNICO. De los acuerdos generales
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+### CAPÍTULO ÚNICO. Mejores prácticas
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 58.
 
-El Pleno podrá emitir acuerdos generales para mejorar las buenas prácticas de la Auditoría y los entes fiscalizables derivados de la resolución de los asuntos de su competencia en los que se advierta una afectación a la cultura de la rendición de cuentas.
+La Sala Superior podrá emitir acuerdos generales para mejorar las buenas prácticas de la Auditoría y los entes fiscalizables derivados de la resolución de los asuntos de su competencia en los que se advierta una afectación a la cultura de la rendición de cuentas.
 
 T R A N S I T O R I O S:
 
@@ -594,3 +740,29 @@ Tlalixtac de Cabrera, Centro, Oax., a 02 de mayo del 2013.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. ALFONSO JOSÉ GÓMEZ SANDOVAL HERNÁNDEZ.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1367.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO LIBRE Y SOBERANO DE OAXACA; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE OAXACA; SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE JUSTICIA DE FISCALIZACIÓN Y RENDICIÓN DE CUENTAS PARA EL ESTADO DE OAXACA”.]
+
+PRIMERO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Los magistrados integrantes de los Tribunales Contencioso Administrativo y de Fiscalización que se fusionan estarán en funciones hasta terminar el periodo por el que fueron designados, al término del cual podrán participar en el proceso de elección al cargo de magistrado del Tribunal de lo Contencioso Administrativo y de Cuentas.
+
+TERCERO. La adscripción de los magistrados integrantes de los Tribunales que se fusionan se hará en los términos establecidos en el vigésimo séptimo y vigésimo octavo transitorios del decreto número 1263, publicado en el Extra, del Periódico Oficial de fecha treinta de junio de dos mil quince, dentro de los sesenta días que sigan a la publicación del presente decreto. En ese plazo el Consejo de la Judicatura emitirá los acuerdos generales para la instalación formal del Tribunal.
+
+CUARTO. El Consejo de la Judicatura adscribirá al personal de la Unidad de Capacitación del Tribunal de lo Contencioso Administrativo, a la Escuela Judicial. Asimismo readscribirá al personal administrativo de los tribunales que se fusionan al Consejo de la Judicatura en las áreas administrativas afines a aquellas en las que se haya desempeñado. Los jueces adscritos al Tribunal de lo Contencioso administrativo del Poder Judicial serán cambiados de adscripción a los juzgados de primera instancia que determine el Consejo de la Judicatura.
+
+QUINTO. Todas las referencias a los tribunales que se fusionan, en las leyes y reglamentos, se entenderán referidas al Tribunal de lo Contencioso Administrativo y de Cuentas en términos de esta Ley y los procedimientos y resoluciones se seguirán en los términos de la ley vigente al momento de su inicio entendidas las referencias a juzgados de la Ley de Justicia Administrativa como hechas a las Salas Unitarias del Tribunal de lo Contencioso Administrativo y de Cuentas.
+
+SEXTO. El Tribunal de lo Contencioso Administrativo y de Cuentas y el Consejo de la Judicatura, en la esfera de sus atribuciones, expedirán la normatividad necesaria para el cumplimiento de esta reforma y aquel conocerá de las responsabilidades administrativas graves hasta en tanto se cumplan los supuestos que establecen los artículos segundo y cuarto transitorio del decreto por el que se reforman, adicionan y derogan diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de combate a la corrupción, publicado en el Diario Oficial de la Federación el 27 de mayo de 2015.
+
+SÉPTIMO.- En tanto entran en vigor las leyes en materia de combate a la corrupción en el Estado, se aplicará la Ley de Responsabilidad de los Servidores Públicos del Estado y Municipios de Oaxaca vigente.
+
+OCTAVO. La Sala Especializada de Justicia Indígena se integrara conforme al Décimo Sexto artículo Transitorio, ultima parte del Decreto 1263 publicado en el Extra del Periódico Oficial de treinta de junio de dos mil quince.
+
+NOVENO.- El tribunal presupuestará las partidas necesarias para la dirección de igualdad de género y la sala de justicia indígena.
+
+DÉCIMO. Se abrogan todas las disposiciones que se opongan a lo que establece el presente decreto.
