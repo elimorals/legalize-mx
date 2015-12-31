@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-catastro-para-el-estado-de-oaxaca-10646"
 country: "mx"
 rank: "ley"
 publication_date: "1996-12-16"
-last_updated: "2014-12-31"
+last_updated: "2015-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=10646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "OAX"
 
 LEY DE CATASTRO PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE DICIEMBRE DE 2014.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 31 DE DICIEMBRE DE 2014 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 880 PUBLICADO EN EL P.O. DE 27 DE DICIEMBRE DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el lunes 16 de diciembre de 1996.
 
@@ -85,9 +83,9 @@ I. La identificación, descripción, delimitación, mensura y valuación de los 
 
 II. La integración y actualización permanente de la información relativa a los registros, padrones y documentos referentes a las características cualitativas y cuantitativas de los bienes inmuebles ubicados en el territorio del Estado.
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-III. La formulación de las Tablas de Valores Unitarios de Suelo y de las Construcciones solicitadas por los Municipios en términos de esta Ley.
+III. La formulación de las tablas de Valores Unitarios de Suelo y Construcciones y los planos de zonificación catastral solicitadas por los Municipios en términos de esta Ley.
 
 > <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2007)</small>
 
@@ -147,11 +145,9 @@ II. Los actos traslativos de dominio celebrados ante notarios y registradores;
 
 III. Las características del inmueble.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2008)</small>
-
-Las manifestaciones deberán hacerse en un plazo de treinta días naturales contados a partir de la expedición de los documentos en los que se haga constar la posesión, propiedad o la fecha de celebración de los actos traslativos de dominio, en los formatos oficiales que para el caso apruebe y expida el Instituto Catastral del Estado de Oaxaca, acompañando los documentos o planos que señala esta Ley y su Reglamento.
+Las manifestaciones o avisos deberán hacerse en un plazo de treinta días naturales contados a partir de la expedición de los documentos en los que se haga constar la posesión, propiedad o la fecha de celebración de los actos traslativos de dominio, por medio de los tramites de integración al Padrón Catastral, traslado de dominio, cesión de derechos, corrección o actualización de datos, medidas, construcción y fraccionamiento, subdivisión y fusión de bienes inmuebles en los formatos oficiales que para el caso expida el Instituto Catastral del Estado de Oaxaca, acompañando los documentos o planos que señala esta ley y su Reglamento.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -317,9 +313,7 @@ II. Ejecutar las normas, políticas y lineamientos que en materia de Catastro di
 
 III. Expedir las normas administrativas e instructivos técnicos para la realización de las actividades y operaciones catastrales de conformidad con la presente Ley y su Reglamento.
 
-> <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
-
-IV. Proponer al Consejo Consultivo Catastral las normas técnicas y administrativas para la formulación del Programa Estatal de Catastro, considerando los Planes y Programas de Desarrollo Urbano, mismos que orientarán a las autoridades competentes para la actualización de las Tablas de Valores Unitarios de Suelo y Construcciones, los Planos de Zonificación Catastral y el Instructivo Técnico de Valuación; así como la identificación, registro, valuación, revaluación y deslinde de los bienes inmuebles ubicados en el territorio del Estado, en estricto apego a los ordenamientos antes citados;
+IV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2015)
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
@@ -413,9 +407,9 @@ XXVIII. Expedir planos, copias de fotografías aéreas y ortofotos conteniendo d
 
 XXIX. Realizar los estudios técnicos en coordinación con las instancias competentes para la identificación y georreferenciación de los límites del territorio del Estado y de sus municipios.
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-XXX. Expedir certificaciones sobre documentos o datos asentados en los registros catastrales y notificar a los interesados las operaciones catastrales efectuadas.
+XXX. Expedir certificaciones de los documentos o datos que obran en el expediente que sirvieron de antecedentes para la apertura de registros catastrales y notificar a los interesados las operaciones catastrales efectuadas;
 
 > <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
@@ -429,9 +423,9 @@ XXXII. Sistematizar la información estadística y generar los indicadores de ge
 
 XXXIII. Elaborar las propuestas de Planos de Zonificación Catastral;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-XXXIV. (DEROGADA, P.O. 17 DE DICIEMBRE DE 2011)
+XXXIV. Cancelación de Trámite Catastral
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -489,9 +483,7 @@ IV. Formular los programas institucionales y elaborar los proyectos de presupues
 
 V. Nombrar y remover, con la aprobación del Secretario de Finanzas, a los funcionarios y, en su caso, a los delegados del Instituto.
 
-> <small>(ADICIONADA, P.O. 26 DE DICIEMBRE DE 2005)</small>
-
-VI. Presentar trimestralmente al Consejo Consultivo el informe de avance en cumplimiento de los objetivos y programas autorizados; y,
+VI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2015)
 
 > <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
@@ -499,41 +491,11 @@ VII. Las demás que expresamente determine esta Ley, su Reglamento y otras dispo
 
 ###### ARTÍCULO 20.
 
-El Instituto contará con un Consejo Consultivo Catastral, como órgano técnico auxiliar, que estará integrado por:
-
-I. Un Presidente, que será el titular de la Secretaría de Finanzas.
-
-> <small>(REFORMADA, P.O. 26 DE DICIEMBRE DE 2005)</small>
-
-II. Cuatro Consejeros, que serán los titulares de la Secretaría de Obras Públicas, de Secretaría de Desarrollo Rural, de la Secretaría de Economía y de la Coordinación General del Comité Estatal de Planeación para el Desarrollo de Oaxaca.
-
-El Consejo Consultivo contará con un Secretario Técnico que será el Director General del Instituto, con derecho a voz, pero sin derecho a voto.
-
-Por cada propietario habrá un suplente.
-
-Las sesiones del Consejo serán válidas cuando asistan, como mínimo, tres de sus miembros y las decisiones se tomarán por mayoría de votos. En caso de empate, tendrá voto de calidad el Presidente del Consejo.
-
-El Consejo sesionará por lo menos dos veces al año ordinariamente. El Presidente podrá convocar a sesiones extraordinarias cuantas veces sea necesario.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### ARTÍCULO 21.
 
-Corresponde al Consejo Consultivo Catastral:
-
-I. Estudiar y emitir opinión sobre los proyectos de zonificación catastral y de valores unitarios de suelo y construcción, formulados por el Instituto.
-
-II. Proponer adecuaciones a los métodos y sistemas para el desarrollo de las operaciones y procedimientos catastrales.
-
-III. Emitir opinión acerca de los estudios y proyectos de fotogrametría y medición catastrales.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
-
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2008)</small>
-
-IV. Invitar a sus sesiones a los representantes del Colegio de Notarios, Colegio de Arquitectos, Colegio de Valuadores, Colegio de Urbanistas, Procuraduría Agraria, Registro Agrario Nacional y demás personas y organismos relacionados con el Catastro, a fin de realizar consultas de carácter técnico en relación con las funciones del Consejo.
-
-V. Invitar a sus sesiones a los representantes de los Municipios, cuando los asuntos a tratar se relacionen con su territorio.
-
-VI. Convocar y organizar foros de consulta, a fin de que las instituciones, organizaciones y personas interesadas en el funcionamiento del Catastro puedan formular propuestas y sugerencias en relación a la materia catastral.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### ARTÍCULO 22.
 
@@ -584,6 +546,10 @@ XII. Certificación de los avalúos.
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
 XIII. Cancelación de registro de cuenta catastral en el Sistema de Información Territorial por resolución judicial, o cuando se trate de duplicidad de cuentas, y éstas amparen el mismo bien inmueble a nombre del mismo poseedor o propietario; y
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+También procederá la cancelación de registro de cuenta catastral en el Sistema de Información Territorial, cuando exista duplicidad de cuentas derivadas de programas de regularización de la tenencia de la tierra por las autoridades competente (sic) y dichas cuentas amparen el mismo bien inmueble.
 
 > <small>(ADICIONADA, P.O. 22 DE DICIEMBRE DE 2012)</small>
 
@@ -825,13 +791,11 @@ Contra los actos en los que se fije el valor catastral de los bienes inmuebles, 
 
 ### CAPÍTULO SÉPTIMO. DE LAS TABLAS DE VALORES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ÚNICO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTÍCULO 48.
 
-Corresponde al Congreso del Estado aprobar las Tablas de Valores Unitarios de Suelo y Construcciones, así como el Instructivo Técnico de Valuación, los que surtirán efectos a partir de su aprobación y publicación en el Periódico Oficial del Estado, debiendo considerarse para su elaboración, al menos los siguientes factores:
+Corresponde al Congreso del Estado aprobar las Tablas de Valores Unitarios de Suelo y Construcciones, los planos de Zonificación Catastral, así como el Instructivo Técnico de Valuación, los que surtirán efectos a partir de su aprobación y publicación en el Periódico Oficial del Estado, debiendo considerarse para su elaboración, al menos los siguientes factores:
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VER TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
@@ -1043,17 +1007,9 @@ ARTÍCULO 55 BIS.- Cuando los propietarios o poseedores o cualquiera otra person
 
 Todas las autoridades, dependencias o instituciones que intervengan o den autorización para la celebración de actos jurídicos que por cualquier motivo modifiquen las características de la propiedad inmueble en general o de un bien en particular, están obligadas a manifestarlas al Instituto, dentro de un plazo de 30 días naturales, contados a partir de la fecha en que intervinieron o autorizaron la modificación de elementos que caractericen al predio o construcción.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 1999)</small>
-
 ###### ARTÍCULO 57.
 
-Las manifestaciones y avisos que deban ser presentados en los términos de esta Ley y su Reglamento, deberán hacerse en los formatos que apruebe y expida el Instituto y acompañar los documentos o planos que se exigen en las mismas.
-
-> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2005)</small>
-
-> <small>(DEROGADO TERCER PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2005)</small>
-
-> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 26 DE DICIEMBRE DE 2005)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
 
 > <small>(REFORMADO, P.O. 26 DE DICIEMBRE DE 2005)</small>
 
@@ -1551,7 +1507,7 @@ Se impondrá una multa de 100 a 500 días de salario mínimo vigente, cuando los
 
 Se impondrá multa de entre 100 a 500 días de salario mínimo vigente, a todos aquellos Notarios Públicos que intervengan en la celebración de contratos que transmitan o modifiquen el dominio de inmuebles, en los siguientes casos:
 
-l. Cuando no cumplan el término de 30 días naturales para dar aviso al Instituto sobre la celebración de un acto jurídico en el que intervengan y que modifique las características de la propiedad o posesión de un inmueble.
+I. Cuando no cumplan el término de 30 días naturales para dar aviso al Instituto sobre la celebración de un acto jurídico en el que intervengan y que modifique las características de la propiedad o posesión de un inmueble.
 
 II. Cuando presenten al Instituto Catastral del Estado de Oaxaca información no fidedigna respecto a los bienes inmuebles a los que se refiere la fracción anterior.
 
@@ -1794,3 +1750,9 @@ P.O. 27 DE DICIEMBRE DE 2014.
 PRIMERO. El presente Decreto entrará en vigor a partir del día uno de enero del año dos mil quince, previa publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 SEGUNDO. Se presente la adecuación del salario mínimo desvinculado como unidad de medida para el pago de Derechos y Catastro una vez que el Congreso de la Unión lo apruebe.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1668.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE CATASTRO PARA EL ESTADO DE OAXACA”.]
+
+ÚNICO. El presente Decreto entrará en vigor el uno de enero de dos mil dieciséis, previa publicación en el Órgano de difusión oficial del Estado.
