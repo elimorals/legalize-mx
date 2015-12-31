@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-del-estado-de-77783"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-28"
-last_updated: "2015-08-03"
+last_updated: "2015-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77783&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL DECRETO NÚMERO 221, PUBLICADO EN EL P.O. DE 3 DE AGOSTO DE 2015, VÉASE ARTÍCULO SEGUNDO TRANSITORIO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial de Estado de Aguascalientes, el martes 28 de diciembre de 2010.
 
@@ -233,7 +231,7 @@ Para el estudio, planeación, resolución y despacho de los asuntos de los diver
 
 > <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
 
-l. Secretaría General de Gobierno;
+I. Secretaría General de Gobierno;
 
 II. Secretaría de Seguridad Pública;
 
@@ -487,7 +485,7 @@ V. Firmar en conjunto con el Gobernador del Estado todos los despachos que expid
 
 VI. Presentar ante el Congreso del Estado las iniciativas de Ley y Decretos que el Gobernador del Estado formule al Poder Legislativo;
 
-VIl. Dar opinión al Gobernador del Estado sobre los proyectos de convenios que pretenda celebrar;
+VII. Dar opinión al Gobernador del Estado sobre los proyectos de convenios que pretenda celebrar;
 
 VIII. Integrar y coordinar el proyecto de Agenda de Iniciativas de leyes y decretos que serán presentados por el Gobernador del Estado a la Legislatura Local, atendiendo a las propuestas de las Dependencias y Entidades de la Administración Pública del Estado;
 
@@ -575,9 +573,9 @@ XLIX. Vigilar el cumplimiento de las normas relativas a la capacitación y adies
 
 L. Prestar asistencia jurídica gratuita a los sindicatos o trabajadores que lo soliciten y representarlos ante los tribunales del trabajo;
 
-Ll. Promover y apoyar el incremento de la calidad y la productividad;
+LI. Promover y apoyar el incremento de la calidad y la productividad;
 
-Lll. Fomentar y apoyar la organización para el trabajo y el autoempleo;
+LII. Fomentar y apoyar la organización para el trabajo y el autoempleo;
 
 LIII. Impulsar y apoyar el desarrollo social, cultural y recreativo de los trabajadores y sus familias;
 
@@ -779,7 +777,11 @@ XXXII. Llevar cuenta y registro de las operaciones financieras efectuadas por el
 
 XXXIII. Emitir o autorizar, según el caso, los catálogos de cuentas para la contabilidad del gasto público del Estado;
 
-XXXIV. (DEROGADA, P.O. 3 DE AGOSTO DE 2015)
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XXXIV. Realizar las actividades de conformidad con las disposiciones aplicables para la administración, enajenación, asignación, o destrucción de los bienes que por su naturaleza o situación, o que como resultado de diversos procedimientos judiciales o administrativos, se encuentren asegurados, en posesión, en resguardo o en propiedad del Gobierno del Estado, así como los abandonados a su favor.
 
 > <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
 
@@ -1531,7 +1533,7 @@ VI. Integrar, elaborar y remitir a la Secretaría de Finanzas para su pago, la n
 
 > <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
 
-VIl. Autorizar las propuestas de creación de nuevas áreas en las Dependencias de la Administración Pública Estatal que no se encuentran previstas en este ordenamiento;
+VII. Autorizar las propuestas de creación de nuevas áreas en las Dependencias de la Administración Pública Estatal que no se encuentran previstas en este ordenamiento;
 
 > <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
 
@@ -1603,7 +1605,7 @@ VI. Coordinar, controlar y evaluar a las contralorías internas de las Dependenc
 
 > <small>(REFORMADA, P.O. 3 DE AGOSTO DE 2015)</small>
 
-VIl. Acordar con el Titular del Poder Ejecutivo del Estado la designación y remoción de los Contralores Internos en las Dependencias del Poder Ejecutivo y de los comisarios o sus equivalentes, en los órganos de vigilancia de los consejos o juntas de gobierno y administración de las Entidades del Poder Ejecutivo;
+VII. Acordar con el Titular del Poder Ejecutivo del Estado la designación y remoción de los Contralores Internos en las Dependencias del Poder Ejecutivo y de los comisarios o sus equivalentes, en los órganos de vigilancia de los consejos o juntas de gobierno y administración de las Entidades del Poder Ejecutivo;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -2184,3 +2186,21 @@ El Poder Ejecutivo deberá realizar las adecuaciones administrativas y reglament
 ###### ARTÍCULO QUINTO.
 
 Las disposiciones normativas que refieran a la Secretaría de Gobierno o Secretario de Gobierno, se entenderán hechas a la Secretaría General de Gobierno o al Secretario General de Gobierno, según correspondan.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+###### ARTICULO PRIMERO.
+
+La Ley para la Administración y Enajenación de Bienes del Sector Público para el Estado de Aguascalientes, así como la reforma al Artículo 31, Fracción XXXIV de la Ley Orgánica de la Administración Pública del Estado de Aguascalientes, entrarán en vigor en la misma fecha en que inicie su vigencia el Decreto que emita el Poder Ejecutivo a fin de crear el Órgano Estatal de Administración y Enajenación de Bienes.
+
+###### ARTICULO SEGUNDO.
+
+La creación del órgano desconcentrado denominado Órgano Estatal de Administración y Enajenación de Bienes, así como la designación del Director General previstos en la presente Ley, se realizarán una vez que existan las disponibilidades presupuestales correspondientes, por lo que para estos efectos, la Secretaría quedará facultada a realizar cualquier reasignación de recursos con el fin de dotar a dicho órgano desconcentrado del personal e infraestructura necesaria para su adecuado funcionamiento, así mismo, y en caso de ser necesario, como excepción a lo dispuesto en el inciso b) de la fracción II Reasignaciones entre diferentes Capítulos del Artículo 25 del Presupuesto de Egresos del Estado de Aguascalientes para el Ejercicio Fiscal 2016, la SEFI podrá realizar reasignaciones al Capítulo 1000, en cuyo caso, los recursos deberán provenir de los Capítulos 2000, 3000 y 4000.
+
+###### ARTICULO TERCERO.
+
+El Reglamento Interior del Órgano Estatal de Administración y Enajenación de Bienes deberá expedirse dentro de los 180 días siguientes a la fecha en que inicie su vigencia el Decreto que emita el Poder Ejecutivo para crear dicho Órgano.
+
+###### ARTICULO CUARTO.
+
+El procedimiento previsto en la Fracción IV del Artículo 1 de la Ley para la Administración y Enajenación de Bienes del Sector Público para el Estado de Aguascalientes, se podrá ejecutar una vez creado el órgano desconcentrado y designado el Director General, así como instalado el Consejo Técnico previsto en la presente Ley.
