@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-entidades-paraestatales-del-estado-de-oaxaca-11811"
 country: "mx"
 rank: "ley"
 publication_date: "1998-02-28"
-last_updated: "2015-04-22"
+last_updated: "2015-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11811&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 28 de febrero de 1998.
 
@@ -207,11 +207,11 @@ IV. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2014)
 
 V. Autorizar la publicación de los estados financieros, previo informe y validación del comisario;
 
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2009)</small>
+VI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2015)
 
-VI. Aprobar de acuerdo con las Leyes aplicables, las políticas, bases y programas generales que regulen los convenios, contratos, pedidos o acuerdos que deban celebrar la Entidad Paraestatal con terceros en obras públicas, adquisiciones, arrendamientos y prestación de servicios relacionados con bienes muebles;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-VII. Proponer al Ejecutivo Estatal, por conducto de la Comisión Intersecretarial de Gasto-Financiamiento, con intervención de la Dependencia Coordinadora de Sector, los convenios de fusión con otras entidades paraestatales;
+VII. Proponer al Ejecutivo Estatal, por conducto de la Secretaría de Administración y la dependencia Coordinadora de Sector, la fusión, extinción o desincorporación, según sea el caso, de las entidades paraestatales;
 
 VIII. Autorizar la creación interna de comisiones o grupos de trabajo;
 
@@ -221,9 +221,11 @@ X. Nombrar y remover a propuesta de su secretario técnico al secretario auxilia
 
 XI. (DEROGADA, P.O. 27 DE DICIEMBRE DE 2014)
 
-XII. Observar las normas y bases para la adquisición, arrendamiento y enajenación de muebles e inmuebles que la entidad paraestatal requiera, para la prestación de sus servicios, con sujeción a las disposiciones legales respectivas;
+XII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2015)
 
-XIII. Analizar y aprobar en su caso, los informes periódicos que rinda el Director General con la intervención que corresponda a los Comisarios; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XIII. Ser informados trimestralmente de los avances de gestión financiera, previo a la entrega que se realice a la Secretaría de Finanzas para su incorporación al Informe que se envía al Congreso del Estado y a la Auditoría Superior del Estado;
 
 > <small>(REFORMADA, P.O. 22 DE ABRIL DE 2015)</small>
 
@@ -255,17 +257,21 @@ VI. Establecer los procedimientos para controlar la calidad de los suministros y
 
 VII. Recabar información y elementos estadísticos, que reflejen el estado de las funciones en la entidad paraestatal, a fin de mejorar las gestiones de la misma;
 
-> <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-VIII. Establecer los sistemas de control internos necesarios para alcanzar las metas u objetivos propuestos, así como presentar los proyectos de Reglamento Interno y Manuales Administrativos ante el Órgano de Gobierno para su aprobación;
+VIII. Establecer los sistemas de control interno necesarios para alcanzar los objetivos y metas propuestos.
 
-IX. Presentar trimestralmente al Órgano de Gobierno, el informe del desempeño de las actividades de la entidad paraestatal, incluido el ejercicio de los presupuestos de ingresos y egresos y los estados financieros correspondientes. En el informe y en los documentos de apoyo, se cotejarán las metas propuestas y los compromisos asumidos por la dirección con las realizaciones alcanzadas;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-X. Establecer los mecanismos de evaluación que destaquen la eficiencia y la eficacia, con que se desempeñe la entidad paraestatal y presentar al Órgano de Gobierno por lo menos dos veces al año, la evaluación de gestión con el detalle que previamente se acuerde con dicho órgano;
+IX. Presentar trimestralmente al Órgano de Gobierno, los informes de avance de gestión financiera, previo a su envió a la Secretaría de Finanzas para su integración al Informe que se remite al Congreso del Estado y a la Auditoría Superior del Estado;
 
-> <small>(REFORMADA, P.O. 22 DE MARZO DE 2005)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-XI. Proporcionar la información y dar acceso a la documentación que le soliciten la Secretarías de Finanzas y de Administración, así como la Secretaría de la Contraloría o el Auditor Externo, para el cumplimiento de sus funciones y la que el Congreso del Estado le solicite;
+X. Establecer los mecanismos de evaluación que permitan conocer los resultados de los programas con base en el Sistema de Evaluación del Desempeño que determine la instancia técnica de evaluación, a fin de identificar el cumplimiento de los criterios contenidos en la Ley Estatal de Presupuesto y Responsabilidad Hacendaria, y en su caso aplicar las medidas conducentes;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XI. Proporcionar la información y dar acceso a la documentación justificativa y comprobatoria que le soliciten los órganos de control y fiscalización federales y/o estatales;
 
 XII. Ejecutar los acuerdos que dicte el Órgano de Gobierno; y
 
@@ -281,7 +287,7 @@ II. Ejercitar las acciones y oponer las excepciones que procedan para la defensa
 
 III. Presentar, dentro del ámbito de su competencia, denuncias y formular querellas, ante el Ministerio Público y ratificar las mismas; en su caso, sin perjuicio del patrimonio de la entidad paraestatal, otorgar el perdón al acusado cuando proceda;
 
-IV. Emitir y negociar títulos de crédito, conforme a la Ley de Deuda Pública Estatal y Municipal;
+IV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2015)
 
 > <small>(REFORMADA, P.O. 7 DE AGOSTO DE 2009)</small>
 
@@ -337,9 +343,11 @@ Las convocatorias y orden del día, se comunicarán por escrito con cinco días 
 
 Las convocatorias para sesiones extraordinarias, indicaran además, el asunto especifico que las motiva.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 18.
 
-El Gobernador del Estado, podrá decretar o solicitar a la Legislatura, en su caso, a propuesta de la Comisión Intersecretarial de Gasto-Financiamiento y previa opinión del titular de la Dependencia Coordinadora del Sector que corresponda, la fusión, extinción o desincorporación de cualquier entidad paraestatal que no cumpla con sus fines u objeto social o cuyo funcionamiento resulte inconveniente, para la economía del Estado o el interés público.
+El Gobernador del Estado, podrá decretar o solicitar a la Legislatura, en su caso, a propuesta de la Secretaría de Administración, o de la Dependencia Coordinadora de Sector o de la Instancia Técnica de Evaluación, según sea, la fusión, extinción o desincorporación de cualquier entidad paraestatal, cuando del resultado de la evaluación del desempeño se determine que la misma no contribuye al logro de los objetivos planteados en el Plan Estatal de Desarrollo, o bien, que el costo de operación no sea sostenible para la hacienda pública del Estado.
 
 ###### ARTICULO 19.
 
@@ -373,9 +381,15 @@ IV. La obtención o aplicación de recursos para fines de asistencia o seguridad
 
 En desincorporación o extinción de los Organismos, deberán observarse las mismas formalidades establecidas para su creación, debiendo la Ley o Decreto respectivo, fijar la forma y términos en que se realizará la misma.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 22.
 
-En lo interno, la programación, supervisión, control y evaluación de los organismos descentralizados estará a cargo de su respectivo Órgano de Gobierno.
+La planeación, programación, operación y ejercicio de los recursos públicos aprobados a las entidades paraestatales son responsabilidad de la misma.
+
+El control y fiscalización de los recursos públicos aprobados a las entidades paraestatales, estará a cargo de los órganos de control y fiscalización federales y/o estatales.
+
+El seguimiento de los registros presupuestarios y contables estará a cargo de la Secretaría de Finanzas, en tanto que la evaluación del desempeño estará a cargo de la Instancia Técnica de Evaluación.
 
 ### CAPITULO II. EMPRESAS DE PARTICIPACION ESTATAL
 
@@ -523,9 +537,17 @@ La aplicación, ejercicio, control, evaluación y comprobación de los presupues
 
 En el ejercicio de recursos federales, serán responsables de su aplicación, ejercicio, control, comprobación y evaluación en cumplimiento de las disposiciones contenidas en la Ley General de Contabilidad Gubernamental, reglas, lineamientos, acuerdos y convenios aplicables a la fuente de financiamiento federal que les da origen.
 
-Para la recepción de recursos federales deberán contar con una cuenta bancaria especifica productiva que darán a conocer a la Secretaria de Finanzas, realizando el trámite presupuestal dentro de los tres días hábiles después de recibir el comunicado de que los recursos se han ministrado al Estado, a fin de que la Secretaría de Finanzas ministre dichos recursos en el plazo que se establezca en las disposiciones aplicables al recurso federal.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-El trámite presupuestal deberá acompañarse del comprobante fiscal digital expedido a favor del Gobierno del Estado de Oaxaca, señalando en el concepto la denominación del recurso federal y el monto que será transferido a la cuenta bancaria productiva específica notificada a la Secretaría de Finanzas.
+Para la recepción de recursos federales deberán solicitar a la Secretaría de Finanzas, autorización para la apertura de cuentas bancarias productivas específicas para cada uno de los recursos federales que se les transfiera a fin de identificarlos plenamente. Dicha solicitud únicamente amparará la autorización de una cuenta bancaria.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Las entidades paraestatales deberán previo a la transferencia de recursos federales, enviar a la Secretaría de Finanzas el comprobante fiscal digital a favor del Gobierno del Estado de Oaxaca, señalando el concepto del recurso federal ha (sic) transferir y el monto.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+El incumplimiento de lo establecido en el párrafo anterior, se hará del conocimiento de la Secretaría de la Contraloría y Transparencia Gubernamental, a fin de que realice los trámites legales a que haya lugar.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
@@ -535,13 +557,19 @@ Las entidades paraestatales elaborarán trimestralmente, estados financieros que
 
 Mismos que se pondrá a disposición del público en general a través de medios electrónicos, observando las disposiciones contenidas en la Ley General de Contabilidad Gubernamental y Ley de Transparencia y Acceso a la Información Pública para el Estado de Oaxaca.
 
-### CAPITULO II. DEL CONTROL Y VIGILANCIA POR PARTE DEL EJECUTIVO ESTATAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+### CAPITULO II. DEL SEGUIMIENTO, CONTROL, SUPERVISIÓN Y EVALUACIÓN
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 45.
 
-Corresponde al Ejecutivo del Estado, el control y vigilancia de las entidades, a través de las Secretarías de Finanzas y de Administración, así como la Secretaría de la Contraloría y la coordinación, supervisión y evaluación, por conducto de las Dependencias Coordinadoras de Sector respectivas.
+Corresponde al Ejecutivo del Estado, el seguimiento de las entidades paraestatales, a través de las Secretarías de Finanzas y Administración.
+
+El control y supervisión a través de la Secretaría de la Contraloría y Transparencia Gubernamental y de las Dependencias coordinadoras de Sector.
+
+Corresponde al Ejecutivo Estatal a través de la Instancia Técnica de Evaluación establecer los indicadores de desempeño que permitan medir el logro de los objetivos de las entidades paraestatales.
 
 > <small>(REFORMADO, P.O. 27 DE DICIEMBRE DE 2014)</small>
 
@@ -651,6 +679,24 @@ VI. Tener acceso a toda clase de documentación, que les permita cumplir con las
 
 VII. Las demás que le determine esta Ley y la normatividad aplicable.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+ARTICULO 49 BIS.- La Instancia Técnica de Evaluación, en el ámbito de su competencia, tendrá respecto de las entidades paraestatales lo siguiente:
+
+l. Normar y coordinar la implementación del Sistema de Evaluación del Desempeño;
+
+II. Establecer los indicadores que permitan medir el logro de los objetivos alcanzados;
+
+III. Realizar el monitoreo y la evaluación de los planes, programas y proyectos de desarrollo;
+
+IV. Fomentar el desarrollo de capacidades técnicas para el seguimiento y la evaluación de resultados;
+
+V. Solicitar e integrar los informes de resultados de las evaluaciones realizadas y proponer medidas correctivas;
+
+VI Normar e implementar mecanismos de seguimiento a la atención de las recomendaciones derivadas de las evaluaciones, y
+
+VII. Las demás que señalen las leyes, reglamentos, decretos, acuerdos y otras disposiciones legales aplicables
+
 > <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
 
 ###### ARTICULO 50.
@@ -659,11 +705,11 @@ Cuando por reformas a las Leyes, varíe la denominación o atribuciones de las S
 
 ### CAPITULO III. DEL REGISTRO DE ENTIDADES PARAESTATALES
 
-> <small>(REFORMADO, P.O. 22 DE MARZO DE 2005)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 51.
 
-Se establece el Registro de entidades paraestatales de la Administración Pública Estatal, el cual estará a cargo de la Secretaría de la Contraloría.
+El registro de Entidades Paraestatales Estatales, estará a cargo de la Secretaría de Administración.
 
 ###### ARTICULO 52.
 
@@ -808,3 +854,11 @@ El mismo criterio se aplicará al nombrar al titular de dicha dependencia. Las o
 TERCERO. Las disposiciones contenidas en el presente Decreto, prevalecerán sobre aquellas de igual o menor rango que se les opongan, aun cuando no estén expresamente derogadas.
 
 CUARTO. El Congreso del Estado contará con un término de sesenta días para realizar las reformas a las leyes estatales que resulten pertinentes, para el cumplimiento del presente Decreto a partir de su entrada en vigor.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚM. 1665.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE ENTIDADES PARAESTATALES DEL ESTADO DE OAXACA".]
+
+PRIMERO: El presente Decreto entrará en vigor al día siguiente hábil de su publicación en el Órgano de difusión oficial del Estado.
+
+SEGUNDO: Se derogan todas las disposiciones legales de igual o menor rango que se opongan al presente Decreto.
