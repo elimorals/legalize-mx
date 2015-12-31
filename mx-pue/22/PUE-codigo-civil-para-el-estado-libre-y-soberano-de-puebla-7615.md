@@ -4,7 +4,7 @@ identifier: "PUE-codigo-civil-para-el-estado-libre-y-soberano-de-puebla-7615"
 country: "mx"
 rank: "codigo"
 publication_date: "1985-04-30"
-last_updated: "2015-11-25"
+last_updated: "2015-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado, el día 30 de abril de 1985.
 
@@ -216,6 +216,10 @@ IV.- Tender a la realización del fin de la ley aplicable.
 ###### Artículo 26.
 
 Es de orden público la protección legal y judicial de las personas de notorio atraso intelectual, de manifiesta pobreza, discapacitadas, que carezcan de instrucción o tengan alguna otra situación de desventaja frente a quienes se encuentren en la situación contraria.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+La protección a que hace referencia el párrafo que antecede, también se realizará atendiendo al principio del interés superior de la niñez; así como de la Primera Infancia, en términos de lo previsto en la Ley de los Derechos de las Niñas, Niños y Adolescentes del Estado de Puebla.
 
 ###### Artículo 27.
 
@@ -505,13 +509,15 @@ Si al registrar a un niño no se sabe quiénes son los padres de él, el nombre 
 
 Ninguna persona está obligada a agregar a su nombre de soltera o soltero, el apellido de su cónyuge o concubino, por lo que si lo hiciere, cualesquiera que fueren los motivos, este hecho no surtirá ningún efecto legal.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 67.
 
-La persona física tiene derecho a usar uno, algunos o todos sus nombres, sin que por ello varíe su identidad y puede, asimismo, oponerse a que otra persona los use sin derecho.
+Todas las personas físicas tienen derecho a un nombre y pueden oponerse a que otra persona lo use sin derecho.
 
-En el caso de que alguien tenga interés en demostrar que tal situación le causa perjuicio, le corresponde probarla.
+Si las personas físicas tienen varios nombres propios, tienen derecho a usar uno, algunos o todos ellos, sin que por ello varíe su identidad y sin que sea necesario que se rectifique el acta de nacimiento. La ley sancionará a quien impida el ejercicio libre de este derecho.
+
+A quien lo alegue, le corresponde probar la falta de identidad.
 
 ###### Artículo 68.
 
@@ -2631,29 +2637,43 @@ I.- Ser mayores de edad;
 
 II.- No haber procreado ni adoptado hijos;
 
-III.- Estar sometidos a separación de bienes, como régimen económico actual de su matrimonio o, en caso de ser ese régimen el de sociedad conyugal, no haber adquirido bienes inmuebles que sean gananciales y haber liquidado esa sociedad por convenio;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+III.- Estar sometidos a separación de bienes, como régimen económico actual de su matrimonio o, en caso de ser ese régimen el de sociedad conyugal presentar convenio de liquidación.
 
 IV.- No estar la mujer encinta;
 
 V.- Tener su domicilio familiar actual dentro del territorio del Estado de Puebla, y haberlo tenido en él los seis meses anteriores a su promoción;
 
-VI.- Tener más de un año de casados.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+VI.- Tener al menos un año de casados.
 
 ###### Artículo 437.
 
 Son aplicables al divorcio administrativo, entre otras, las siguientes disposiciones:
 
-I.- Los cónyuges que reúnan los requisitos del artículo anterior, se presentarán personalmente ante el Juez del Registro del Estado Civil de su domicilio familiar, si dicho Juez es abogado titulado, o en caso contrario, ante el Director del Registro Civil en la Capital del Estado.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+I.- Los cónyuges que reúnan los requisitos del artículo anterior, se presentarán personalmente ante el Juez del Registro del Estado Civil de su domicilio familiar o el Notario de su elección;
 
 II.- Comprobarán con certificado médico que la mujer no está en cinta; y con los documentos respectivos los demás requisitos que exige el artículo anterior.
 
-III.- Declararán bajo protesta de decir verdad que no tuvieron hijos en su matrimonio, ni adoptaron alguno.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+III.- Declararán bajo protesta de decir verdad que no tuvieron hijos en su matrimonio, ni adoptaron alguno, y que si fuere el caso, éstos no son menores o mayores incapaces.
 
 IV.- Manifestarán expresamente su voluntad de divorciarse.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 438.
 
-El Juez del Registro del Estado Civil o en su caso el Director del Registro Civil hará constar, en diligencia de la que levantará acta, la solicitud de divorcio, citará a los cónyuges para que se presenten a ratificarla a los quince días, y si lo hacen y notare que la decisión de éstos es irrevocable, los declarará divorciados.
+El Juez del Registro del Estado Civil, hará constar, en diligencia de la que levantará acta, la solicitud de divorcio, citará a los cónyuges para que se presenten a ratificarla a los quince días, y si lo hacen y notare que la decisión de éstos es irrevocable, los declarará divorciados.
+
+Para el caso del trámite de divorcio ante el Notario, se remitirá copia del acta notarial de divorcio administrativo, al Registro del Estado Civil de la Jurisdicción donde hayan celebrado el contrato matrimonial y al Archivo Estatal, en un plazo máximo de quince días naturales, para las anotaciones que correspondan.
+
+El acta notarial de divorcio administrativo, produce los mismos efectos que la sentencia definitiva dictada por el órgano jurisdiccional.
 
 ###### Artículo 439.
 
@@ -2661,21 +2681,21 @@ En el caso del artículo anterior, se aplicarán las siguientes disposiciones:
 
 I.- Si es el Juez del Registro del Estado Civil quien declara el divorcio, levantará el acta correspondiente a éste; y
 
-II.- Si el divorcio es declarado por el Director del Registro Civil, enviará copia de la declaración al Juez del Registro del Estado Civil del domicilio familiar de los divorciados, para que levante el acta respectiva.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+II.- Si el divorcio es declarado por el Notario, se remitirá copia de la declaración, o el acta notarial en su caso, al Juez del Registro del Estado Civil del domicilio familiar de los divorciados, para que levante el acta respectiva.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 440.
 
-Antes de levantar el acta a que se refiere el artículo 438, el Juez del Registro del Estado Civil o, en su caso, el Director del Registro Civil, personalmente identificará a los cónyuges y les leerá el artículo siguiente.
+Antes de levantar el acta a que se refiere el artículo 438, el Juez del Registro del Estado Civil o en su caso el Notario, personalmente identificará a los cónyuges y les leerá el artículo siguiente.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 441.
 
-El divorcio obtenido conforme al artículo 438, no surtirá efectos legales y los promoventes sufrirán además, en su caso, las penas que correspondan al delito de falsedad, si se comprueban uno o más de los siguientes hechos:
-
-I.- Que uno de los cónyuges, o los dos, eran menores de edad al promover el divorcio.
-
-II.- Que tuvieron hijos.
-
-III.- Que la esposa se encontraba encinta al promoverlo.
+Si se comprueba que el divorcio administrativo, no cumple lo establecido por el artículo 436, no surtirá efectos legales y los promoventes sufrirán además, las penas que correspondan al delito de falsedad.
 
 #### Sección Tercera.- Divorcio voluntario
 
@@ -5829,13 +5849,13 @@ III.- Los herederos de las personas comprendidas en las dos fracciones anteriore
 
 IV.- Los que, según los artículos 575 y 576, pueden intentar la acción que en ellos se trata y los que hayan sido reconocidos después de haber sido registrado su nacimiento.
 
-> <small>(REFORMADO, P.O. 22 DE ENERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 936.
 
-Cuando la rectificación tienda a enmendar errores, yerros o defectos mecanográficos, ortográficos, numéricos y otros meramente accidentales del acta asentada, procede su aclaración, la que se promoverá ante el Director del Registro del Estado Civil, quien resolverá lo procedente y si la resolución es negativa, la aclaración deberá demandarse en juicio.
+Cuando se trate de enmendar errores, yerros o defectos mecanográficos, ortográficos, numéricos y otros meramente accidentales del acta asentada, procede su aclaración ante el Director del Registro del Estado Civil.
 
-De resultar procedente la rectificación administrativa, el Director del Registro del Estado Civil remitirá una copia certificada de la resolución al Archivo Estatal a efecto de hacer las anotaciones que correspondan al libro duplicado, y otra al Juzgado del Registro del Estado Civil en el que fue expedida, para que se proceda a realizar las anotaciones en el libro original de actas.
+De resultar procedente la aclaración, el Director del Registro del Estado Civil remitirá una copia certificada de la resolución al Archivo Estatal a efecto de hacer las anotaciones que correspondan al libro duplicado, y otra al Juzgado del Registro del Estado Civil en el que fue expedida, para que se proceda a realizar las anotaciones en el libro original de actas.
 
 ###### Artículo 937.
 
@@ -20216,6 +20236,30 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 25 DE NOVIEMBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE REFORMA (SIC) LOS ARTÍCULOS 67 Y 936 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA, ASIMISMO REFORMA LA FRACCIÓN XXIII Y ADICIONA LA XXIV DEL ARTÍCULO 50 DE LA LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día hábil siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 26 DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA LAS FRACCIONES III Y VI DEL ARTÍCULO 436, LAS FRACCIONES I Y III DEL 437, EL 438, LA FRACCIÓN II DEL 439, EL 440 Y EL 441, TODOS DEL CÓDIGO CIVIL PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
