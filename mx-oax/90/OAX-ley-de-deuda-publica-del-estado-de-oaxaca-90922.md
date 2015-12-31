@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-deuda-publica-del-estado-de-oaxaca-90922"
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-15"
-last_updated: "2015-11-05"
+last_updated: "2015-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90922&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 LEY DE DEUDA PÚBLICA DEL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Sexta Sección del Periódico Oficial, del Estado de Oaxaca, el sábado 15 de diciembre de 2012.
 
@@ -45,9 +45,11 @@ Ley de Deuda Pública
 
 ## Título I. Disposiciones Generales
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 1.
 
-La presente Ley es reglamentaria del artículo 20 párrafo décimo tercero de la Constitución Política del Estado Libre y Soberano de Oaxaca, en relación con los artículos 59 fracciones XV, XXV, XXVI; y 79 fracción XVIII de la propia Constitución; y tiene por objeto establecer las bases y requisitos para la aprobación, concertación, contratación, registro, regulación y control de la deuda pública a cargo de los Sujetos Obligados.
+La presente Ley es reglamentaria del artículo 20 párrafo décimo tercero de la Constitución Política del Estado Libre y Soberano de Oaxaca, en relación con los artículos 59 fracciones XV, XXV, XXVI; y 79 fracción XVIII de la propia Constitución, y tiene por objeto establecer las bases y requisitos para la aprobación, concertación, contratación y control de la deuda pública a cargo de los Sujetos Obligados.
 
 > <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2015)</small>
 
@@ -105,7 +107,7 @@ XX. Reestructuración: A la modificación de tasas de interés, plazos, forma de
 
 XXI. Refinanciamiento: A la contratación de una deuda para pagar total o parcialmente otra existente;
 
-XXII. Registro: Al Registro Único de Obligaciones y Empréstitos;
+XXII. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2015)
 
 XXIII. Secretaría: A la Secretaría de Finanzas del Poder Ejecutivo; y
 
@@ -133,7 +135,9 @@ La aplicación, interpretación y emisión de disposiciones administrativas de e
 
 La Secretaría de la Contraloría y Transparencia Gubernamental vigilará en el ámbito de su competencia la aplicación de la misma.
 
-La Auditoria Superior del Estado fiscalizará el estricto cumplimiento de las disposiciones contenidas en esta ley.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+La fiscalización sobre el cumplimiento de lo dispuesto en esta ley, corresponderá a la Federación de conformidad con la Legislación Federal aplicable y a la Auditoria Superior del Estado de Oaxaca.
 
 ## Título II. De la Competencia y Obligaciones de los Órganos en Materia de Deuda Pública
 
@@ -147,13 +151,15 @@ II. El Ejecutivo del Estado; y
 
 III. Los Municipios.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 6.
 
-Corresponde al Pleno del Congreso, en materia de Deuda Pública autorizar:
+Corresponde a las dos terceras partes de los miembros presentes del Congreso autorizar:
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-I. Los montos máximos de Endeudamiento a los Sujetos Obligados en las correspondientes leyes de ingresos;
+I. Los montos máximos para contraer obligaciones o empréstitos, su refinanciamiento o reestructura en términos de la Constitución Política del Estado Libre y Soberano de Oaxaca;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -213,7 +219,9 @@ Esta disposición aplicará para municipios con capacidad de pago en función de
 
 Para la contratación a que se refiere el párrafo anterior, una vez alcanzado el monto de referencia, no se podrá contratar una obligación similar sino hasta los treinta días posteriores a su liquidación.
 
-Estas obligaciones formarán parte del Registro.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Estas obligaciones formarán parte del Registro Público Único de conformidad con la Legislación aplicable en la materia.
 
 Las obligaciones de pago contratadas por el Ejecutivo del Estado con base en lo dispuesto por el presente artículo, no podrán ser pagadas con Deuda Pública.
 
@@ -271,15 +279,17 @@ XI. Notificar a la Secretaría de Hacienda y Crédito Público y a cualquier otr
 
 Dicha notificación deberá contener instrucción que señale términos y condiciones aplicables al pago de los ingresos provenientes de las participaciones o aportaciones federales de que se trate, siempre que se hayan cumplido los requisitos señalados en los contratos o documentos correspondientes para la modificación de dicha instrucción y no se afecten los derechos de los acreedores.
 
-Cualquier modificación notificada por el Ejecutivo del Estado a la Secretaría de Hacienda y Crédito Público, deberá anotarse en el Registro;
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Cualquier modificación notificada por el Ejecutivo del Estado a la Secretaría de Hacienda y Crédito Público, deberá anotarse en los registros presupuestales y contables;
 
 XII. A petición del Congreso, certificar que la capacidad de pago de los municipios sea suficiente para cubrir puntualmente los compromisos que se contraigan. Para tal efecto, deberá evaluar y supervisar el cumplimiento de las disposiciones en materia de Deuda Pública y la adecuada estructura financiera de los mismos;
 
 XIII. Asesorar a los Municipios que así lo soliciten, en todo lo relativo a la concertación y contratación de deuda;
 
-XIV. Llevar el Registro de todas las operaciones que constituyan Deuda Pública contratada y de las Obligaciones de Pago por parte de los Sujetos Obligados, anotando en este, los datos a que se refiere el artículo 24 de esta ley; y
+XIV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2015)
 
-XV. Certificar la cancelación del Registro de la Deuda Pública.
+XV. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 12.
 
@@ -305,15 +315,21 @@ VIII. Autorizar al servidor público para celebrar y suscribir los contratos, y 
 
 IX. Solicitar la capacitación que brinde la Secretaría en todo lo relativo a la concertación y contratación de deuda;
 
-X. Solicitar a la Secretaria la inscripción en el Registro la deuda y Obligaciones de Pago contraídas por los Municipios.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+X. Solicitar la inscripción de la deuda y obligaciones de pago en el Registro Público Único, de conformidad con la legislación aplicable en la materia.
 
 Las atribuciones a que se refiere este artículo serán ejercidas, en lo conducente por el Municipio de conformidad con sus leyes.
 
 ## Título III. De la Contratación de Deuda Pública y sus Derivados
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 13.
 
-Los Sujetos Obligados únicamente podrán llevar a cabo operaciones que constituyan Deuda Pública cuando los recursos obtenidos de las mismas se destinen a Inversiones Públicas Productivas.
+Los Sujetos Obligados, únicamente podrán llevar a cabo operaciones que constituyan Deuda Pública, cuando los recursos obtenidos de las mismas se destinen a inversiones público productivas y a su refinanciamiento o reestructura, en términos de lo establecido en la Constitución Política del Estado Libre y Soberano de Oaxaca.
+
+En ningún caso podrá destinarse Deuda Pública para cubrir gasto corriente.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
@@ -331,9 +347,11 @@ La contratación de deuda y la conformación de Obligaciones de Pago a cargo de 
 
 Los Sujetos Obligados no podrán contraer Deuda Pública con personas físicas o morales extranjeras o con gobiernos de otras naciones. Asimismo, los Financiamientos que contraigan dichos Sujetos Obligados deberán ser pagaderos en moneda nacional y dentro del territorio de la República Mexicana.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 17.
 
-La Deuda Pública y las Obligaciones de Pago que se suscriban, cualquiera que sea su naturaleza, deberán ser inscritas en el Registro, que al efecto lleve la Secretaría.
+La Deuda Pública y las Obligaciones de Pago que se suscriban, cualquiera que sea su naturaleza, deberán ser inscritas en el Registro Público Único, de conformidad con la Legislación Federal aplicable.
 
 ###### Artículo 18.
 
@@ -347,15 +365,19 @@ Los requisitos señalados en este artículo no aplicarán para la deuda contraí
 
 Cuando los Municipios requieran de la garantía del Estado, deberán formular la solicitud correspondiente ante la Secretaría; acompañando la información que ésta determine, que permita dictaminar su capacidad de pago y el tipo de inversión pública productiva que se pretende financiar con los recursos de la deuda.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 20.
 
 Los Sujetos Obligados deberán cumplir con lo siguiente:
 
-I. Llevar un Registro de la Deuda Pública que contraten y solicitar su inscripción en el Registro;
+I. Llevar los Registros Presupuestales y Contables de la Deuda Pública que contraten en términos de las disposiciones legales aplicables;
 
-II. Comunicar trimestralmente a la Secretaría los datos de toda la Deuda Pública contratada, así como de los movimientos realizados respecto de la misma; y
+II. Solicitar su inscripción en el Registro Público Único, de conformidad con la Legislación aplicable en la materia;
 
-III. Proporcionar a la Secretaría toda la información necesaria para que ésta pueda realizar la certificación a que se refiere la fracción XIII del artículo 11 de esta ley.
+III. Comunicar trimestralmente a la Secretaría, los datos de la Deuda Pública contratada, así como de los movimientos realizados respecto de la misma, y
+
+IV. Proporcionar a la Secretaría toda la información necesaria para integrar trimestralmente los informes de la Deuda Pública del Estado, así como los informes de avance de gestión, en términos de la Ley General de Contabilidad Gubernamental y Ley Estatal de Presupuesto y Responsabilidad Hacendaria.
 
 ###### Artículo 21.
 
@@ -371,245 +393,105 @@ IV. La garantía ó Afectación, según sea el caso; y
 
 V. Aval, si es el caso.
 
-## Título IV. Del Registro Único de Obligaciones y Empréstitos
+> <small>[N. DE E. EL DECRETO NÚMERO 1663 EXPEDIDO POR LA SEXAGÉSIMA SEGUNDA LEGISLATURA, PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2015, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE TÍTULO.]</small>
 
-### Capítulo Primero. Del Registro de los Empréstitos
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+## Título IV. De la Información, Rendición de Cuentas y Sanciones
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 22.
 
-La Secretaría tendrá a su cargo el Registro constitutivo de Deuda Pública Estatal y Municipal y de las Obligaciones de Pago. En dicho Registro se anotarán el monto, condiciones financieras, destino de los recursos obtenidos, fuente de pago y características generales, así como los requisitos que se establecen en el artículo 23 de esta Ley.
+Los sujetos obligados se sujetarán a la Ley General de Contabilidad Gubernamental para presentar la información sobre la situación de la Deuda Pública, en los informes de avances de gestión correspondientes y en su respectiva cuenta pública.
 
-Toda operación que constituya Deuda Pública llevada a cabo por los Sujetos Obligados de conformidad con esta Ley, en las que el Congreso autorice Afectaciones conforme a la fracción III del artículo 6 de esta ley, deberán inscribirse en el Registro, el cual tendrá efectos declárativos.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 23.
-
-Para obtener la inscripción de las operaciones en el Registro, los Sujetos Obligados deberán solicitarla ante la Secretaría.
-
-La solicitud deberá ser acompañada por la documentación siguiente:
-
-I. Original o copia certificada del documento o contrato en el que conste la deuda contraída por el Sujeto Obligado correspondiente, incluida copia certificada de los títulos de crédito que en su caso hayan sido suscritos, así como de las garantías y Afectaciones otorgadas en relación con dicha deuda;
-
-II. Original o copia certificada del documento que acredite la autorización del Congreso;
-
-III. En su caso, copia certificada del acta en la que conste el acuerdo del Ayuntamiento;
-
-IV. Descripción de los elementos principales de la operación cuyo registro se solicita, entre los que se deberá establecer:
-
-a) Deudor directo;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-b) Acreedor, proveedor o contratista;
-
-c) Tipo de operación;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-d) Importe total;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-e) Fin, destino y objeto;
-
-f) Tasa de interés ordinario;
-
-g) Tasa de interés moratorio;
-
-h) Comisiones;
-
-i) Plazo;
-
-j) Amortizaciones;
-
-k) Afectación;
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
-
-l) Importe y porcentaje del total que se paga o garantiza con las participaciones y aportaciones federales, y
-
-m) Cualquier otro documento o información relevante del financiamiento.
-
-###### Artículo 24.
-
-En el Registro se asentarán los siguientes datos:
-
-I. El número progresivo de inscripción que corresponda y su fecha;
-
-II. El número que le corresponda, en su caso, en el Registro de Obligaciones y Empréstitos de Entidades Federativas y Municipios, de la Secretaría de Hacienda y Crédito Público;
-
-III. La autorización del Congreso;
-
-IV. El nombre del acreedor, los montos, los plazos y las tasas de interés;
-
-V. Destino;
-
-VI. Plazo de liquidación;
-
-VII. Garantías otorgadas;
-
-VIII. Afectaciones;
-
-IX. La amortización del capital e intereses pactados durante su vigencia;
-
-X. Las sanciones derivadas del incumplimiento de las condiciones del empréstito; y
-
-XI. La cancelación de la inscripción y su fecha.
-
-###### Artículo 25.
-
-Una vez integrada la solicitud de Registro, la Secretaria resolverá dentro del término de diez días hábiles sobre la procedencia de la inscripción y notificará a las partes interesadas su resolución anotando en los documentos materia del Registro, la constancia relativa a su inscripción.
-
-Cuando no se cumplan los requisitos para la inscripción, la Secretaría notificará al Sujeto obligado para que subsane la omisión en un término de diez días hábiles, de lo contrario dicha solicitud se tendrá por no presentada.
-
-La Secretaría expedirá las certificaciones respecto de la Deuda Pública y respecto a las demás Obligaciones de Pago inscritas en el Registro.
-
-###### Artículo 26.
-
-El número progresivo y la fecha de inscripción en el Registro, dará preferencia a los acreditados para los efectos de exigibilidad en el pago de las obligaciones. Dicha preferencia no aplicará en caso de que las Afectaciones se hagan a través de un fideicomiso o un mecanismo similar para una o varias operaciones determinadas o determinables, en cuyo caso aplicará la prelación y preferencia en el pago indicado en los contratos de fideicomiso u otros documentos mediante los cuales se implementen los mecanismos legales correspondientes.
-
-A solicitud del Municipio, la Secretaría podrá asumir el compromiso de hacer pagos a favor de uno o más acreedores, con cargo a las participaciones o aportaciones federales como fuente de pago, conforme a lo aprobado en la Ley General de Ingresos Municipales del Estado de Oaxaca o decreto emitido por el Congreso.
-
-###### Artículo 27.
-
-Las operaciones inscritas en el Registro sólo podrán modificarse con los mismos requisitos y formalidades previstos para su inscripción y contar con la aceptación de las partes interesadas. Se entenderá aceptada la modificación, cuando el instrumento esté suscrito por las partes.
-
-###### Artículo 28.
-
-Los Sujetos Obligados deberán informar dentro de los cinco días hábiles de concluido el trimestre a la Secretaría la situación que guarde la deuda contraída u operaciones a que hacen referencia la fracción III del artículo 6 de esta Ley.
-
-###### Artículo 29.
-
-Los Sujetos Obligados que hayan cumplido con todas sus obligaciones derivadas de una operación que constituya Deuda Pública inscrita en el Registro, deberán solicitar a la Secretaría la cancelación de dicha deuda.
-
-## Título V. De la Información y Transparencia
-
-###### Artículo 30.
-
-La solicitud de cancelación de la Deuda Pública deberá presentarse dentro de los cinco días hábiles contados a partir de la fecha de liquidación en su totalidad de la deuda y acompañarse de la certificación o la constancia según sea el caso, que haga el acreedor en el sentido de que se ha efectuado el pago total correspondiente, sin dicha documentación la Secretaría no realizará la cancelación respectiva.
-
-La Secretaría procederá a realizar la cancelación de la deuda en el Registro, debiendo emitir para tal efecto la certificación respectiva, cuando esta le sea solicitada.
-
-### Capítulo Segundo. Del Registro de los Instrumentos Derivados
-
-###### Artículo 31.
-
-Para obtener la inscripción de los Instrumentos Derivados en el Registro, los Sujetos Obligados deberán presentar ante la Secretaría una solicitud que deberá ser acompañada por la documentación siguiente:
-
-I. Copia certificada del documento o contrato marco de Instrumentos Derivados;
-
-II. Copia certificada de la Carta de Confirmación de la operación;
-
-III. Descripción de los elementos principales del Instrumento Derivado cuyo Registro se solicita, entre los que se deberá establecer:
-
-a) Deudor directo;
-
-b) Acreedor;
-
-c) Tipo de operación;
-
-d) Monto de referencia;
-
-e) Tasa y fuente de la tasa;
-
-f) Época de pago;
-
-g) Plazo; y
-
-h) Cualquier otro documento o información relevante del Instrumento Derivado.
-
-###### Artículo 32.
-
-En el Registro se asentarán los siguientes datos:
-
-I. El número progresivo de inscripción que corresponda y su fecha relacionada con la Inscripción en el Registro;
-
-II. El nombre del acreedor;
-
-III. Deudor directo;
-
-IV. Tipo de operación;
-
-V. Monto de referencia;
-
-VI. Tasa y fuente de la tasa;
-
-VII. Época de pago;
-
-VIII. Plazo; y
-
-IX. Cualquier otro documento o información relevante del Instrumento Derivado.
-
-### Capítulo Tercero. Del Registro de las Obligaciones de Pago
-
-###### Artículo 33.
-
-Para obtener la inscripción de las Obligaciones de Pago en el Registro, los Sujetos Obligados deberán solicitarla ante la Secretaría.
-
-La solicitud deberá ser acompañada por la documentación siguiente:
-
-I. Copia certificada del documento o contrato marco de las Obligaciones de Pago;
-
-a) Deudor directo;
-
-b) Acreedor;
-
-c) Tipo de operación;
-
-d) Monto de referencia;
-
-e) Tasa y fuente de la tasa;
-
-f) Época de pago;
-
-g) Plazo; y
-
-h) Cualquier otro documento o información relevante de la Obligación de Pago.
-
-###### Artículo 34.
-
-En el Registro se asentarán los siguientes datos:
-
-I. El número progresivo de inscripción que corresponda y su fecha relacionada con la Inscripción en el Registro;
-
-II. El nombre del acreedor;
-
-III. Deudor directo;
-
-IV. Tipo de operación;
-
-V. Monto de referencia;
-
-VI. Tasa y fuente de la tasa;
-
-VII. Época de pago;
-
-VIII. Plazo; y
-
-IX. Cualquier otro documento o información relevante del Instrumento Derivado.
-
-###### Artículo 35.
-
-El Estado por conducto de la Secretaría, deberá publicar trimestralmente, el monto de la Deuda Pública que refleje el Registro, en el Periódico Oficial del Estado.
-
-###### Artículo 36.
-
-La situación de la Deuda Pública deberá publicarse dentro de los diez días hábiles de concluido el trimestre en un diario de mayor circulación en el estado y en el territorio nacional, además del Periódico Oficial del Estado.
-
-Adicionalmente, lo pondrá a disposición del público en general a través de su página electrónica a más tardar cinco días hábiles posteriores a la fecha señalada en el párrafo anterior.
-
-###### Artículo 37.
 
 Los Municipios deberán informar a la Secretaría dentro de los cinco días hábiles de concluido el trimestre la situación que guarda la Deuda Pública contraída u operaciones a que hacen referencia la fracción III del artículo 6 de esta Ley.
 
 Los Municipios deberán publicar los informes a que se refiere el párrafo primero de este artículo en los órganos locales de difusión y los pondrán a disposición del público en general a través de sus respectivas páginas electrónicas de internet o de otros medios locales de difusión a más tardar cinco días hábiles posteriores a la fecha señalada en el párrafo anterior.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 24.
+
+Los Sujetos Obligados deberán informar al Congreso la situación que guarda la Deuda Pública y las Obligaciones de Pago, en los informes trimestrales de avance de gestión y cuenta pública.
+
+> <small>[N. DE E. EL DECRETO NÚMERO 1663 EXPEDIDO POR LA SEXAGÉSIMA SEGUNDA LEGISLATURA, PUBLICADO EN EL P.O. DE 31 DE DICIEMBRE DE 2015, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE TÍTULO.]</small>
+
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 25.
+
+Los servidores públicos que incumplan con las obligaciones establecidas en la presente Ley y demás disposiciones aplicables en la materia, serán sancionados de conformidad con lo previsto en la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca, en términos del Título Séptimo de la Constitución Política del Estado Libre y Soberano de Oaxaca.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 26.
+
+Las sanciones e indemnizaciones que se determinen por el incumplimiento a las disposiciones de esta Ley tendrán el carácter de créditos fiscales y se fijarán en cantidad liquida, sujetándose al procedimiento administrativo de ejecución que establece el Código Fiscal para el Estado de Oaxaca.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 27.
+
+Los servidores públicos del Estado y los Municipios informarán a la autoridad competente cuando las infracciones de esta Ley impliquen la comisión de una conducta sancionada en los términos de la legislación penal.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 28.
+
+Las sanciones e indemnizaciones a que se refiere esta Ley se impondrán y exigirán con independencia de las responsabilidades de carácter político, penal, administrativo o civil que, en su caso lleguen a determinarse por las autoridades competentes.
+
+###### Artículo 29.
+
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
+
+## Título V. De las Sanciones
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 30.
+
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
+
+###### Artículo 31.
+
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
+
+###### Artículo 32.
+
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
+
+###### Artículo 33.
+
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
+
+###### Artículo 34.
+
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
+
+###### Artículo 35.
+
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
+
+###### Artículo 36.
+
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
+
+###### Artículo 37.
+
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
+
 ###### Artículo 38.
 
-Los Sujetos Obligados deberán informar al Congreso la situación que guarda la Deuda Pública y las Obligaciones de Pago.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 39.
 
-Los servidores públicos que incumplan con las obligaciones establecidas en la presente Ley, así como las que establece la Ley Estatal de Presupuesto y Responsabilidad Hacendaria, serán objeto de las sanciones que establecen la Constitución Política del Estado Libre y Soberano de Oaxaca y la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios de Oaxaca.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
 
 T R A N S I T O R I O S:
 
@@ -674,3 +556,9 @@ PRIMERO.- El presente Decreto entrará en vigor el mismo día de su Publicación
 SEGUNDO.- Con base en los Artículos 40 y 52 de la Ley de Coordinación Fiscal, el Ejecutivo del Estado podrá únicamente suscribir convenio para la obtención anticipada a valor presente de recursos provenientes del Fondo de Aportaciones Múltiples para la construcción, equipamiento y rehabilitación de infraestructura física de los niveles de educación básica, media superior y superior en su modalidad universitaria, impartida por el Estado.
 
 TERCERO.- El Titular del Poder Ejecutivo del Estado tendrá la obligación de hacer del conocimiento de sus habitantes e informar trimestralmente al Congreso del Estado, los montos que reciba, las obras y acciones realizadas, el costo de cada una, su ubicación y beneficios, así como el resultado alcanzado al término de cada ejercicio.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1663.- MEDIANTE EL CUAL SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY DE DEUDA PÚBLICA”.]
+
+ÚNICO. El presente Decreto entrará en vigor el uno de enero de dos mil dieciséis, previa publicación en el Órgano de difusión oficial del Estado.
