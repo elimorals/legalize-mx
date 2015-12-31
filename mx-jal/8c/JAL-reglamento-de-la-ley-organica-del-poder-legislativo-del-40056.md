@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-organica-del-poder-legislativo-del-40056"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-06-19"
-last_updated: "2012-10-13"
+last_updated: "2015-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40056&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE OCTUBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Reglamento publicado en la Sección IV del Periódico Oficial del Estado de Jalisco, el sábado 19 de junio de 2004.
 
@@ -221,7 +221,9 @@ III. Asunto que motivo la convocatoria;
 
 I. Se verifica el registra (sic) de asistencia de los diputados presentes y declara la existencia de quórum;
 
-II. Honores a la bandera y entonación de el Himno Nacional;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+II. Honores a las banderas y entonación de los himnos, Nacional y del Estado de Jalisco;
 
 III. Las Fracciones o Grupos parlamentarios representados en el Congreso del Estado establecen su posición política, respecto al informe del año legislativo; y
 
@@ -633,7 +635,7 @@ II. Elaborar al libro de actas de la comisión;
 
 III. Llevar el seguimiento de los asuntos de la comisión a que sea adscrito;
 
-IV. Participar con voz en las sesiones siempre que lo autorice el presidente; y (sic)
+IV. Participar con voz en las sesiones siempre que lo autorice el presidente; y
 
 > <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2006)</small>
 
@@ -715,7 +717,7 @@ II. A juicio del Presidente de la Comisión y con acuse expreso de aceptación d
 
 2. Es obligación del personal contribuir al buen desarrollo de las reuniones, conduciéndose en éstas con orden y respeto hacia todos los presentes, de lo contrario podrán ser retirados de la reunión a propuesta del presidente con aprobación de la mayoría de los integrantes de la comisión.
 
-### CAPÍTULO V. DE LOS FOROS DE CONSULTA PÚBLICA
+### CAPÍTULO V. DE LOS FOROS DE CONSULTA PÚBLICA Y DEL CONGRESO ABIERTO
 
 > <small>(ADICIONADO, P.O. 20 DE OCTUBRE DE 2005)</small>
 
@@ -797,6 +799,48 @@ Artículo 94 M.
 
 Los gastos originados para la realización de los foros de consulta pública correrán con cargo al presupuesto anual de las Comisiones participantes y se repartirá de manera proporcional entre las mismas. Las adquisiciones que se realicen, para este mismo fin, deberán ajustarse a las disposiciones del título decimotercero de este reglamento.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Artículo 94 N.
+
+1. Las comisiones legislativas pueden considerar, al momento de elaborar los dictámenes de iniciativas de ley correspondientes, los comentarios vertidos por la ciudadanía mediante las tecnologías de la información.
+
+2. Al margen de las tecnologías aprobadas, siempre deberá existir una página de (sic) electrónica denominada "Congreso Jalisco Abierto" que garantice la interacción del Poder Legislativo con la ciudadanía, para que ésta emita opinión o sugerencia respecto de las iniciativas que cada comisión legislativa reciba para su dictaminación de acuerdo a sus atribuciones, dicho portal deberá contener por lo menos:
+
+I. Copia de las iniciativas de ley en versión de sólo lectura, que sean turnadas a cada comisión;
+
+II. Un buzón electrónico ciudadano por comisión para recibir las sugerencias y comentarios por cada iniciativa;
+
+III. Ligas electrónicas para informar sobre:
+
+a) El proceso legislativo,
+
+b) Conceptos legislativos, y
+
+c) La legislación estatal vigente.
+
+IV. El tiempo de vigencia del buzón por cada iniciativa para recibir comentarios, la que no podrá ser menor a diez días naturales;
+
+V. Un formulario para que las personas viertan sus comentarios en el buzón electrónico.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Artículo 94 O.
+
+1. El buzón deberá abrirse al momento de que las comisiones turnen cada iniciativa entre sus miembros.
+
+2. Las comisiones podrán ampliar el periodo de vigencia del buzón electrónico ciudadano por veinte días más, o de disminuir el plazo en caso de urgencia justificada, conforme a los plazos establecidos en los artículos 107 y 108 de la Ley Orgánica del Poder Legislativo del Estado.
+
+3. El ponente de cada dictamen de iniciativa de ley será el responsable de revisar el buzón electrónico ciudadano aunque tendrán acceso a él todos los integrantes de la comisión.
+
+4. Las comisiones deben mencionar las propuestas recibidas y un razonamiento sobre la aceptación o rechazo de las mismas en el dictamen que elaboren.
+
+5. El presidente de cada comisión verificará que la Dirección de Apoyo Informático administre y conserve actualizado el buzón electrónico ciudadano y el archivo histórico de comentarios.
+
 (REUBICADO [N. DE E. ANTES CAPITULO V], P.O. 20 DE OCTUBRE DE 2005)
 
 ###### Artículo 86.
@@ -843,7 +887,7 @@ B) Los términos para la dictaminación a los que se refiere la ley, iniciaran a
 
 2. La Comisión de Puntos Constitucionales, Estudios Legislativos y Reglamentos, tendrá un plazo de cuatro días hábiles, para emitir su opinión si las tuviere, que será anexada al dictamen.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE OCTUBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ### CAPÍTULO VI. DE LAS SANCIONES
 
@@ -1087,7 +1131,7 @@ XXXII. Disponer lo conducente a efecto de diseñar, desarrollar y mantener los s
 
 (ADICIONADA, P.O. 17 DE MARZO DE 2005) (F. DE E., P.O. 14 DE MAYO DE 2005)
 
-XXXIII. Foliar con el número progresivo anual que corresponda, las iniciativas presentadas en la Asamblea y acusar de recibo a los autores; y (sic)
+XXXIII. Foliar con el número progresivo anual que corresponda, las iniciativas presentadas en la Asamblea y acusar de recibo a los autores; y
 
 > <small>(REFORMADA, P.O. 13 DE OCTUBRE DE 2012)</small>
 
@@ -2337,7 +2381,7 @@ P.O. 7 DE ENERO DE 2006.
 
 P.O. 18 DE FEBRERO DE 2006.
 
-DECRETO NÚMERO 21215-LVII/06, POR EL QUE SE ADICIONA EL CAPÍTULO VI AL TÍTULO SÉPTIMO DEL REGLAMENTO DE LEY ORGÉNICA DEL PODER LEGISLATIVO.
+DECRETO NÚMERO 21215-LVII/06, POR EL QUE SE ADICIONA EL CAPÍTULO VI AL TÍTULO SÉPTIMO DEL REGLAMENTO DE LEY ORGÁNICA DEL PODER LEGISLATIVO.
 
 PRIMERO. Se deja sin efectos el acuerdo legislativo 466/04 de 14 de septiembre del 2004, mediante el cual se establecen las reglas y lineamientos para la disposición, uso y rendición de cuentas de los recursos asignados a las comisiones y comités.
 
@@ -2444,3 +2488,23 @@ P.O. 13 DE OCTUBRE DE 2012.
 PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
 
 SEGUNDO. El Congreso del Estado, a través de la Secretaría General, deberá realizar las acciones necesarias para que, a más tardar el 1.° de enero de 2013, se edite la versión impresa de la Gaceta Parlamentaria.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO 25788/LXI/15 QUE MODIFICA EL CAPÍTULO IX DEL TÍTULO V Y LOS ARTÍCULOS 19-A, 19-D, 19-F, 19-M, 27, 35, 49, 62-G, 62-H, 70, 71, 72, 73, 77-C, 78, 82, 85, 92, 95, 98, 103, 103 BIS, 107, 108, 110, 112, 115, 122, 153, 154, 160, 188, 207, 209, 210, 219, 220, 226, 228, 241 Y 263, SE ADICIONA UN ARTÍCULO 185-BIS, Y SE DEROGA EL ARTÍCULO 28 BIS DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO, Y SE MODIFICA EL ARTÍCULO 19 Y EL CAPÍTULO V ARTÍCULOS 94 N Y 94 O DEL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO".]
+
+PRIMERO. El presente decreto entrará (sic) vigor al siguiente día de su aprobación.
+
+SEGUNDO. Publíquese en el Periódico Oficial "El Estado de Jalisco".
+
+TERCERO. El artículo 70 de la Ley Orgánica del Poder Legislativo del Estado de Jalisco entrará en vigor a los treinta días de la publicación del presente decreto.
+
+CUARTO. Las disposiciones que hacen referencia a la consulta ciudadana contenidas en los artículos 115 párrafo 3 de la Ley Orgánica del Poder Legislativo, así como 94 N y 94 O de su reglamento, entrarán en vigor 60 días después de su aprobación y se sujetará a las siguientes reglas:
+
+I. Se instruye a la Dirección de Apoyo Informático elabore la página electrónica "Congreso Jalisco Abierto", en los términos del presente decreto;
+
+II. Se instruye a la Dirección de Comunicación Social para que de a conocer la nueva herramienta legislativa de interacción ciudadana; y
+
+III. Se instruye a la Secretaría General para que semestralmente haga una evaluación de la página electrónica "Congreso Jalisco Abierto" y, en su caso, proponga a la Junta de Coordinación Política otras herramientas derivadas de las tecnologías de la información.
+
+QUINTO. Los asuntos pendientes de resolver por las comisiones de Ciencia y Tecnología, para el Desarrollo Humano y la Familia, Equidad de Género, Participación Ciudadana y Acceso a la Información Pública, Readaptación Social y Vialidad, Transporte y Comunicaciones deben ser remitidos a las comisiones de Innovación, Ciencia y Tecnología, Familia, Desarrollo Humano e Integración Social, Igualdad de Género, Participación Ciudadana, Transparencia y Acceso a la Información Pública, de Readaptación y Reinserción Social y de Movilidad y Transporte, respectivamente, para continuar su trámite y concluirse, observando las disposiciones de esta ley.
