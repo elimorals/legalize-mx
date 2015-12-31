@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-vialidad-para-el-estado-libre-y-soberano-de-puebla-91334
 country: "mx"
 rank: "ley"
 publication_date: "2012-12-31"
-last_updated: "2014-07-11"
+last_updated: "2015-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91334&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE VIALIDAD PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Décima Séptima Sección del Periódico Oficial del Estado de Puebla, el lunes 31 de diciembre de 2012.
 
@@ -491,6 +491,10 @@ Las placas, la tarjeta de circulación y las calcomanías y hologramas son intra
 
 La circulación de camiones de carga, así como las maniobras de carga y descarga de mercancías no podrá realizarse por las avenidas, calzadas, paseos y calles principales comprendidas dentro de los centros de población de la Entidad, durante las horas que se establezcan en el Reglamento.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+ARTÍCULO 29 BIS.- Se retirarán de circulación con grúa o cualquier otro medio idóneo las motocicletas que no porten placas de circulación o permiso provisional correspondiente, con o sin la presencia del conductor, siendo retenidas en el depósito vehicular, debiendo cumplir con los requisitos previstos en Ley para su devolución.
+
 ###### ARTÍCULO 30.
 
 Cuando se estén llevando a cabo obras o trabajos en las vialidades, que entorpezcan la circulación de peatones y vehículos, el responsable de dichas obras deberá tomar las medidas preventivas necesarias para garantizar la seguridad de los mismos, observando lo establecido en la presente Ley, su Reglamento y demás ordenamientos legales aplicables.
@@ -666,3 +670,11 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO.- Las autoridades competentes emitirán las disposiciones reglamentarias o administrativas que correspondan al presente Decreto, en un término que no exceda de noventa días.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE ADICIONA EL ARTÍCULO 29 BIS A LA LEY DE VIALIDAD PARA EL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
