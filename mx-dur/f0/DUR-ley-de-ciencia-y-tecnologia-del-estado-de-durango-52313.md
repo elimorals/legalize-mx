@@ -4,7 +4,7 @@ identifier: "DUR-ley-de-ciencia-y-tecnologia-del-estado-de-durango-52313"
 country: "mx"
 rank: "ley"
 publication_date: "2006-10-26"
-last_updated: "2006-10-26"
+last_updated: "2015-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52313&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "DUR"
 
 LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Periódico Oficial del Estado de Durango, el jueves 26 de octubre de 2006.
 
@@ -33,7 +33,7 @@ Con fecha 31 de Mayo del presente año, el C.P.P. Ismael Alfredo Hernández Dera
 
 C O N S I D E R A N D O S
 
-.
+[...]
 
 Con base en los anteriores Considerandos, esta H. LXIII Legislatura del Estado, expide el siguiente:
 
@@ -45,9 +45,11 @@ LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE DURANGO
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 1.
 
-La presente Ley, es de orden público y de interés social, con aplicación en todo el territorio del Estado de Durango.
+La presente Ley, es de orden público y de interés social, con aplicación en todo el territorio del Estado de Durango; el fortalecimiento de la Ciencia y Tecnología deberá ser en función de desarrollo económico competitivo y sustentable de la entidad.
 
 ###### Artículo 2.
 
@@ -64,6 +66,10 @@ IV. Coordinar las actividades científicas y tecnológicas de las entidades de l
 V. Elevar la productividad y la competitividad de la entidad, mediante la aplicación de los avances científicos y tecnológicos, propiciando la transformación productiva, económica, social y cultural de la sociedad en su conjunto, y
 
 VI. En general, impulsar y fortalecer la investigación científica y el desarrollo tecnológico en el Estado.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+VII. Fomentar la innovación y desarrollo científico y tecnológico, a fin de impulsar la producción de bienes y servicios de alto valor agregado, que generen empleos de calidad y sean competitivos en el mercado global.
 
 ###### Artículo 3.
 
@@ -113,7 +119,7 @@ VII. Sectores productivos: empresas, industrias generales y de servicios, así c
 
 VIII. Sistema Estatal: Sistema de Ciencia y Tecnología del Estado de Durango;
 
-IX Sistema de lnvestigadores: Sistema Estatal de Investigadores, y
+IX. Sistema de investigadores: Sistema Estatal de Investigadores, y
 
 X. Registro Estatal: Registro Estatal de Ciencia y Tecnología.
 
@@ -145,15 +151,21 @@ VIII. El Consejo de Ciencia y Tecnología del Estado de Durango.
 
 La planeación de la política de ciencia y tecnología del estado, y los municipios, es parte del proceso de planeación del desarrollo estatal y municipal y se establecerá, en la parte relativa, en los siguientes instrumentos:
 
-I. El Plan Estatal de Desarrollo;
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-II. El Plan Municipal de Desarrollo;
+I. Plan Estratégico;
 
-III. El Programa Sectorial de Ciencia y Tecnología y los programas regionales, especiales e institucional que se deriven del primero;
+II. El Plan Estatal de Desarrollo;
 
-IV. El Programa Operativo Anual, y
+III. El Plan Municipal de Desarrollo;
 
-V. El Presupuesto de Egresos del COCYTED para el ejercicio fiscal que corresponda.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+IV. El Programa Sectorial de Ciencia y Tecnología y los programas regionales, especiales e institucionales que se deriven del primero.
+
+V. El Programa Operativo Anual, y
+
+VI. El presupuesto de Egresos del COCYTED para el ejercicio fiscal que corresponda.
 
 Los planes se formularán, aprobarán y publicarán en los términos que establece la Ley de Planeación del Estado de Durango y deberán ser congruentes con la política nacional, el Plan Nacional de Desarrollo y los programas que de este se deriven, además de considerar proyecciones de corto, mediano y largo plazo. En este último caso, deberá efectuarlas por un período mínimo de 15 años.
 
@@ -361,7 +373,7 @@ VI. Las demás que de acuerdo con el Programa Estatal se requieran llevar a cabo
 
 Con la finalidad de promover un desarrollo sustentable en la entidad, el Titular del Poder Ejecutivo impulsará la creación de instancias municipales y regionales para que, en coordinación con el COCYTED, participen en la difusión, divulgación y promoción científica y tecnológica, de acuerdo con su autonomía y ámbito territorial.
 
-#### SECCIÓN SEXTA. DEL FlNANCIAMIENTO Y LA INFRAESTRUCTURA PARA LA CIENCIA Y LA TECNOLOGÍA
+#### SECCIÓN SEXTA. DEL FINANCIAMIENTO Y LA INFRAESTRUCTURA PARA LA CIENCIA Y LA TECNOLOGÍA
 
 ###### Artículo 27.
 
@@ -743,7 +755,7 @@ XVII. Las demás que le señalen las disposiciones legales aplicables, la presen
 
 En su carácter de representante legal del COCYTED, el Director General podrá: celebrar y otorgar toda clase de actos jurídicos y documentos; ejercer facultades de dominio, administración y pleitos y cobranzas; presentar denuncias y formular querellas ante el Ministerio Público y ratificar las mismas; ejercitar y desistirse de acciones judiciales, inclusive del juicio de amparo; comprometer asuntos de arbitraje y celebrar transacciones; otorgar, sustituir y revocar poderes generales y especiales; siempre que tales acciones sean inherentes al objeto del organismo, tengan la autorización previa de la Junta Directiva y correspondan a lo dispuesto por el Artículo 28 de la Ley de Entidades Paraestatales del Estado de Durango.
 
-lII. DE LOS ÓRGANOS AUXILIARES DE LA DIRECCIÓN GENERAL
+III. DE LOS ÓRGANOS AUXILIARES DE LA DIRECCIÓN GENERAL
 
 ###### Artículo 63.
 
@@ -864,3 +876,17 @@ C. P. ISMAEL ALFREDO HERNÁNDEZ DERAS.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. OLIVERIO REZA CUELLAR.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 467.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DE CIENCIA Y TECNOLOGÍA DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Esta Ley entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a la presente.
