@@ -4,7 +4,7 @@ identifier: "PUE-codigo-fiscal-del-estado-de-puebla-7515"
 country: "mx"
 rank: "codigo"
 publication_date: "1987-12-29"
-last_updated: "2014-12-31"
+last_updated: "2015-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7515&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO FISCAL DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Código publicado en la Sección Cuarta del Periódico Oficial del Estado de Puebla, el martes 29 de diciembre de 1987.
 
@@ -53,9 +53,7 @@ CODIGO FISCAL DEL ESTADO DE PUEBLA
 
 La hacienda pública para atender los gastos del Estado percibirá en cada ejercicio fiscal las contribuciones, productos, aprovechamientos, participaciones, fondos y recursos participables, aportaciones, reasignaciones, incentivos económicos y demás ingresos que determinen las leyes fiscales del Estado, así como los que se establezcan en los convenios celebrados con los distintos ámbitos de gobierno y particulares, y los provenientes de donaciones, legados, herencias y reintegros que se hicieren a su favor.
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 1993)</small>
-
-No serán válidas las exenciones a las contribuciones estatales no contenidas en las leyes fiscales del Estado.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 > <small>(ADICIONADO, P.O. 2 DE AGOSTO DE 1994)</small>
 
@@ -533,7 +531,13 @@ e) A falta de los anteriores, el lugar en que se hubiere realizado el hecho gene
 
 f) El lugar que manifieste el contribuyente ante las autoridades fiscales federales.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 3 DE DICIEMBRE DE 1991)</small>
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+g) Únicamente en los casos en que la persona física, que realice actividades señaladas en los incisos anteriores no cuente con un local, su casa habitación.
+
+Para estos efectos, las autoridades fiscales harán del conocimiento del contribuyente en su casa habitación, que cuenta con un plazo de diez días para acreditar que su domicilio corresponde a uno de los supuestos previstos en alguno de los incisos anteriores de esta fracción o bien, sea presentado el aviso correspondiente ante el Registro Estatal de Contribuyentes.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE DICIEMBRE DE 1991)</small>
 
 II.- En el caso de personas morales:
 
@@ -745,7 +749,9 @@ ARTICULO 24 A.- En el caso de que las demás disposiciones de este Código hagan
 
 ARTICULO 24 B.- Los contribuyentes que de acuerdo a las disposiciones fiscales estén obligados a llevar contabilidad, deberán observar las siguientes reglas:
 
-Los asientos en la contabilidad serán analíticos y deberán efectuarse dentro del mes en que se realicen las actividades respectivas quedando incluidos en la contabilidad los registros y cuentas especiales a que obliguen las disposiciones fiscales, las que lleven los contribuyentes aun cuando no sean obligatorias y los libros y registros sociales a que obliguen otras leyes.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Los asientos en la contabilidad serán analíticos y deberán efectuarse en el mes en que se realicen las operaciones, actos o actividades, a que se refieran, a más tardar dentro de los cinco días siguientes del mes posterior en que se realizó el acto o actividad de que se trate; quedando incluidos en la contabilidad los registros y cuentas especiales a que obliguen las disposiciones fiscales, las que lleven los contribuyentes, aún cuando no sean obligatorias y los libros y registros sociales a que obliguen otras leyes.
 
 > <small>(ADICIONADO, P.O. 11 DE DICIEMBRE DE 2000)</small>
 
@@ -839,6 +845,10 @@ V.- Señalar domicilio ubicado en la circunscripción territorial del Estado de 
 
 VI.- Acreditar la representación del promovente cuando gestione a nombre de otro.
 
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+VII.- Anexar copia de una identificación oficial con fotografía, vigente, del promovente o de su representante legal, en caso de personas morales.
+
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
 
 Cuando no se cumpla con alguno de los requisitos a que se refiere este artículo, las autoridades fiscales requerirán al promovente para que en un término de cinco días cumpla con el requisito omitido. En caso de no subsanarse la omisión en dicho término, la promoción se tendrá por no presentada.
@@ -877,9 +887,11 @@ En los casos en que las formas para la presentación de avisos, declaraciones, m
 
 ### CAPITULO I. DEL NACIMIENTO DEL CREDITO FISCAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 30.
 
-La obligación fiscal nace cuando se realizan las situaciones jurídicas o de hecho previstas en las Leyes Fiscales. Se determinará y liquidará conforme a las disposiciones vigentes en el momento de su nacimiento pero le serán aplicables las normas sobre procedimiento que se expidan con posterioridad.
+La obligación fiscal nace cuando se realizan las situaciones jurídicas o de hecho previstas en las Leyes Fiscales. Se determinará y liquidará conforme a las disposiciones vigentes en el momento de su nacimiento pero le serán aplicables las normas sobre procedimiento vigentes en el momento en que éste se efectúe.
 
 Cualquiera estipulación privada, relativa al pago de un crédito fiscal que se oponga a lo dispuesto por las Leyes Fiscales, se tendrá como inexistente jurídicamente y por lo tanto no producirá efecto legal alguno.
 
@@ -915,11 +927,11 @@ La falta de pago de un Crédito Fiscal en la fecha o plazo establecido en las di
 
 ### CAPITULO II. DEL PAGO DE LOS CREDITOS FISCALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE MARZO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 33.
 
-Pago es el cumplimiento de una obligación fiscal determinada en cantidad líquida, que deberá cubrirse en moneda nacional y podrá hacerse en efectivo, giro postal, telegráfico o bancario, cheque certificado, cheque de caja, tarjeta de crédito o débito, depósito referenciado, y transferencia de fondos reguladas por el Banco de México, incluyendo las que se realicen de manera electrónica o en especie, en los casos que así lo prevengan las leyes.
+Pago es el cumplimiento de una obligación fiscal determinada en cantidad líquida, que deberá cubrirse en moneda nacional y podrá hacerse en efectivo, cheque certificado, cheque de caja, tarjeta de crédito o débito, depósito referenciado o por transferencia electrónica referenciada, a través del Sistema de Pagos Electrónicos Interbancarios (SPEI) o, en especie en los casos que así lo prevengan las leyes.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
@@ -1051,9 +1063,9 @@ Para determinar las contribuciones se considerarán, inclusive las fracciones de
 
 Las Autoridades Fiscales están obligadas a devolver las cantidades pagadas indebidamente y las que procedan de conformidad con las Leyes Fiscales. La devolución deberá hacerse a petición del interesado de conformidad a las reglas siguientes:
 
-> <small>(REFORMADA, P.O. 2 DE AGOSTO DE 1994)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-I.- El contribuyente deberá solicitar la devolución por escrito ante la autoridad fiscal del Estado, cumpliendo con los requisitos a que se refieren los artículos 25 y 26 de éste Código.
+I.- El contribuyente deberá solicitar la devolución por escrito ante la autoridad Fiscal del Estado, debiendo señalar la Clave Única del Registro de Población, además de los requisitos a que se refieren los artículos 25 y 26 de este Código.
 
 II.- El contribuyente deberá acompañar a su solicitud el o los documentos de los que se desprenda el derecho a la devolución.
 
@@ -1095,33 +1107,25 @@ Si la devolución se hubiere efectuado y no procediera, se causarán recargos en
 
 Las autoridades fiscales podrán compensar de oficio o a petición de parte interesada, los créditos fiscales en materia de contribuciones, productos y aprovechamientos estatales, y sus accesorios.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 38-B.
 
-Los contribuyentes obligados a pagar mediante declaración, podrán optar por compensar las cantidades que tengan a su favor contra las que estén obligados a pagar por adeudo propio o por retención a terceros, aún cuando se trate de diferente naturaleza. Al efecto, bastará que efectúen la compensación de dichas cantidades actualizadas, desde el mes en que se realizó el pago de lo indebido, hasta aquel en que la compensación se realice.
+Los contribuyentes obligados a pagar mediante declaración, podrán optar por compensar las cantidades que tengan a su favor contra las que estén obligados a pagar por adeudo propio o por retención a terceros, aun cuando se trate de diferente naturaleza, de conformidad con lo siguiente:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+I. El contribuyente deberá solicitar la compensación por escrito ante la autoridad Fiscal del Estado, cumpliendo con los requisitos a que se refieren los artículos 25 y 26 de este Código.
 
-Los contribuyentes presentarán el aviso de compensación y promoción por escrito ante la autoridad fiscal del Estado, dentro de los cinco días siguientes a aquél en el que la misma se haya efectuado, acompañados de la documentación que se solicite en el formato que para estos efectos autorice y publique en el Periódico Oficial del Estado, la Secretaría de Finanzas y Administración.
+II. Acompañar a su solicitud el o los documentos de los que se desprenda el derecho a la compensación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CÓDIGO.</small>
+Las cantidades pagadas indebidamente por las que se solicite la compensación, se actualizarán desde el mes en que se realizó el pago de lo indebido, hasta aquél en que la compensación se realice.
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+La Autoridad Fiscal competente dictará la resolución correspondiente en un plazo que no excederá de cuatro meses contados a partir de la fecha de la presentación de su solicitud; salvo que la autoridad requiera al contribuyente los datos, informes o documentos necesarios para verificar la procedencia de su solicitud, casos en los que este plazo se contará a partir de la fecha en que se dé por cumplimentado el requerimiento de que se trate.
 
-Los contribuyentes que hayan ejercido la opción a que se refiere el primer párrafo del presente artículo, que tuvieran saldo a favor de las cantidades pagadas indebidamente, una vez efectuada la compensación, podrán solicitar su devolución en los términos que establece este Código.
-
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CÓDIGO.</small>
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
+Una vez efectuada la compensación, los contribuyentes que tuvieran saldo a favor de las cantidades pagadas indebidamente, podrán solicitar su devolución en los términos que establece este Código o podrán optar por seguir compensando dicho saldo hasta agotarlo.
 
 Si la compensación se hubiera efectuado y no procediera, se causarán recargos en los términos del artículo 35 de este Código sobre las cantidades compensadas indebidamente, actualizadas por el período transcurrido desde el mes en que se efectuó la compensación indebida, hasta aquél en que se haga el pago del monto de la compensación indebidamente efectuada.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CÓDIGO.</small>
-
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2010)</small>
-
-No se podrán compensar las cantidades cuya devolución se haya solicitado o cuando haya prescrito la obligación para devolverlas.
+No se podrán compensar las cantidades cuya devolución se haya autorizado o cuando el derecho para reclamar la devolución se haya extinguido.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA AL CÓDIGO.</small>
 
@@ -1175,23 +1179,25 @@ Cuando se suspenda el procedimiento administrativo de ejecución en los término
 
 Asimismo, se suspenderá el plazo a que se refiere este artículo, cuando el contribuyente hubiera desocupado su domicilio fiscal sin haber presentado el aviso de cambio correspondiente o cuando hubiere señalado de manera incorrecta su domicilio fiscal. Para estos efectos, la autoridad fiscal levantará acta circunstanciada en la que haga constar dicha situación, documento que se fijará en los estrados de la autoridad que haya levantado dicha acta o en la página electrónica de aquélla, en los términos que establece este Código.
 
-> <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-El plazo para que se configure la prescripción no podrá exceder de diez años contados a partir de que el crédito fiscal pudo ser legalmente exigido, salvo que dicho plazo se encuentre suspendido por las causas previstas en este artículo.
+El plazo para que se configure la prescripción, en ningún caso, incluyendo cuando este se haya interrumpido, podrá exceder de diez años contados a partir de que el crédito fiscal pudo ser legalmente exigido. En dicho plazo no se computarán los periodos en los que se encontraba suspendido por las causas previstas en este artículo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 40.
 
-El término para que se consuma la prescripción se interrumpe con cada gestión de cobro que la Autoridad Fiscal notifique o haga saber al sujeto pasivo, o por el reconocimiento expreso o tácito de éste, respecto de la existencia del crédito.
+El término para que se consuma la prescripción se interrumpe con cada gestión de cobro que la Autoridad Fiscal notifique o haga saber al sujeto pasivo de la existencia del crédito, o por el reconocimiento expreso o tácito del deudor, respecto de la existencia del mismo.
 
-Se considera gestión de cobro cualquier actuación de la Autoridad dentro del procedimiento administrativo de ejecución, siempre que se haga del conocimiento del sujeto pasivo.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Se considera gestión de cobro cualquier actuación de la Autoridad dentro del procedimiento administrativo de ejecución, siempre que se notifique al sujeto pasivo de conformidad con lo dispuesto en el artículo 76 de este Código.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
 La declaratoria de prescripción de los créditos fiscales podrá realizarse de oficio por la autoridad fiscal o a petición del contribuyente, de conformidad con las Reglas de Carácter General que emita y publique la Secretaría de Finanzas y Administración.
 
-## TITULO CUARTO. DE LAS FACULTADES DE LAS
-
-AUTORIDADES FISCALES
+## TITULO CUARTO. DE LAS FACULTADES DE LAS AUTORIDADES FISCALES
 
 ### CAPITULO I. DE LAS FACULTADES
 
@@ -1294,6 +1300,10 @@ f) Practicar visitas de inspección a los contribuyentes a fin de verificar la e
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
 
 g) Practicar visitas de inspección a los contribuyentes, a fin de verificar la inscripción y presentación de los demás avisos a que estén obligados en materia del Registro Estatal de Contribuyentes, así como la veracidad de los datos asentados en las declaraciones presentadas por los contribuyentes.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+h) Practicar visitas de inspección a los contribuyentes, a fin de verificar la existencia, uso y control de las placas de demostración que tengan asignadas los fabricantes, ensambladores, distribuidores o comerciantes en el ramo de vehículos nuevos, o en su caso, la documentación que compruebe la asignación de dichas placas a un vehículo en su poder.
 
 Las autoridades fiscales podrán ejercer sus facultades de comprobación en el domicilio señalado por los contribuyentes en los avisos que se presenten ante las autoridades fiscales federales o estatales.
 
@@ -1453,9 +1463,7 @@ El monto para liquidar el adeudo a que se hace referencia en el párrafo anterio
 
 III.- Una vez recibida la solicitud de autorización de pago a plazos, ya sea en parcialidades o diferido, de las contribuciones omitidas, productos o aprovechamientos y de sus accesorios, la autoridad exigirá la garantía del interés fiscal en relación al 80% del monto total del adeudo al que se hace referencia en la fracción II del artículo 41-B de este Código, más la cantidad que resulte de aplicar la tasa de recargos por plazo y por el plazo solicitado de acuerdo a lo dispuesto en las fracciones I y II de este artículo.
 
-> <small>(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2006)</small>
-
-La autoridad fiscal podrá dispensar el otorgamiento de la garantía del interés fiscal cuando en relación con el monto del crédito respectivo, sea notoria la insolvencia del deudor o la insuficiencia de su capacidad económica;
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 IV.- Se revocará la autorización para pagar a plazos en parcialidades o en forma diferida, cuando:
 
@@ -1573,6 +1581,12 @@ II.- Cuando el monto de los créditos fiscales represente más del 60% del total
 
 La autorización de la condonación parcial referida en este artículo, deberá sujetarse a la normatividad que para tal efecto se emita.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 41-I.
+
+El Ejecutivo del Estado, mediante resoluciones de carácter general podrá condonar o eximir, total o parcialmente, el pago de contribuciones estatales y sus accesorios, productos y aprovechamientos, autorizar su pago a plazo, diferido o en parcialidades, cuando se haya afectado o trate de impedir que se afecte la situación de algún lugar o región del Estado, una rama de actividad, la producción o venta de productos, o la realización de una actividad, así como en caso de catástrofes sufridas por fenómenos meteorológicos, plagas o epidemias.
+
 ### CAPITULO II. DE LOS ACTOS DE VERIFICACION
 
 Y FISCALIZACION
@@ -1605,11 +1619,11 @@ Las personas designadas para efectuar la visita la podrán hacer conjunta o sepa
 
 V.- Se deberán indicar las contribuciones sujetas a revisión y en su caso los ejercicios o períodos a que deberá limitarse la visita.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 42-A.
 
-Para los efectos de lo dispuesto por los incisos f) y g) de la fracción VII del artículo 41 de este Código, las visitas de inspección se realizarán conforme a lo siguiente:
+Para los efectos de lo dispuesto por los incisos f), g) y h) de la fracción VII del artículo 41 de este Código, las visitas de inspección se realizarán conforme a lo siguiente
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2006)</small>
 
@@ -2125,9 +2139,9 @@ III.- Obtener más de un registro de contribuyente, citarlo incorrectamente u om
 
 IV.- Utilizar interpósita persona para manifestar negociaciones propias.
 
-> <small>(REFORMADA, P.O. 11 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-V.- No presentar las declaraciones, solicitudes, avisos, manifiestos y cualquier otro de naturaleza análoga que dispongan las leyes fiscales del Estado, salvo cuando la presentación sea espontánea.
+V.- No presentar las declaraciones, solicitudes, avisos, manifiestos y cualquier otro de naturaleza análoga que dispongan las Leyes Fiscales del Estado, o presentarlos a requerimiento de las autoridades fiscales, salvo cuando la presentación sea espontánea.
 
 > <small>(REFORMADA, P.O. 6 DE DICIEMBRE DE 1996)</small>
 
@@ -2200,6 +2214,10 @@ XXVI.- No presentar el escrito libre a que se refiere el último párrafo de la 
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
 XXVII.- No presentar el aviso de suspensión de actividades a que se refiere el último párrafo de fracción II del artículo 24 de este Código;
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XXVIII.- No exhibir ante las autoridades fiscales las placas de demostración, no contar con los documentos que acrediten el registro de entrada y salida de dichas placas del domicilio de los fabricantes, ensambladores, distribuidores o comerciantes en el ramo de vehículos o, hacer uso indebido de alguna de estas formas valoradas, conforme a las Reglas de Carácter General que para tal efecto emita la autoridad competente.
 
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
@@ -2279,9 +2297,9 @@ IX.- De $2,490.00 a $4,975.00 a la establecida en la fracción X;
 
 X.- De $2,680.00 a $5,295.00 a la comprendida en la fracción IV;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-XI.- De $3,000.00 a $16,585.00 a las comprendidas en las fracciones I, VIII, XII y XIII.
+XI.- De $3,000.00 a $16,585.00 a las comprendidas en las fracciones I, VIII, XII, XIII y XXVIII.
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -2671,6 +2689,10 @@ II.- Prenda o hipoteca.
 
 III.- Fianza otorgada por Institución autorizada, la que no gozará de los beneficios de orden y excusión.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Para efectos fiscales, en el caso de que la póliza de fianza se exhiba en documento digital, deberá contener la firma electrónica avanzada o el sello digital de la afianzadora.
+
 IV.- Obligación solidaria asumida por tercero que compruebe su idoneidad y solvencia.
 
 V.- Embargo en la vía administrativa.
@@ -2678,6 +2700,16 @@ V.- Embargo en la vía administrativa.
 > <small>(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2001)</small>
 
 VI.- Títulos valor.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 81-A.
+
+Las garantías constituidas para asegurar el interés fiscal a que se refieren las fracciones II, IV y V del Artículo 81 de este Código, se harán efectivas a través del procedimiento administrativo de ejecución.
+
+Si la garantía consiste en depósito de dinero en alguna entidad financiera o sociedad cooperativa de ahorro y préstamo, una vez que el crédito fiscal quede firme se ordenará su aplicación por la autoridad fiscal.
+
+Tratándose de fianza otorgada por institución autorizada para garantizar obligaciones fiscales a cargo de terceros, al hacerse exigible, se aplicarán los procedimientos establecidos en la Ley de Instituciones de Seguros y Fianzas.
 
 ###### ARTICULO 82.
 
@@ -2689,7 +2721,7 @@ La Autoridad Fiscal está facultada para aceptar o rechazar cualquiera de las fo
 
 La garantía deberá comprender además de la cantidad adeudada actualizada, los accesorios causados así como de los que se causen en los doce meses siguientes a su otorgamiento. Al terminar este período en tanto no se cubra el crédito, deberá actualizarse su importe cada año y ampliarse la garantía para que cubra el crédito actualizado y el importe de los recargos.
 
-Se podrá dispensar el otorgamiento de la garantía del interés fiscal, cuando en relación con el monto del crédito respectivo, sea notoria la solvencia del deudor o la insuficiencia de su capacidad económica.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 84.
 
@@ -2815,6 +2847,10 @@ En ningún caso los honorarios a que se refieren los párrafos anteriores podrá
 
 Para los efectos de este artículo se entenderá como salario mínimo diario vigente en el Estado, el que resulte aplicable en el momento en que se efectúen las erogaciones respectivas.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Los ingresos recaudados por concepto de gastos de ejecución, se destinaran al establecimiento de un fondo para incentivar la productividad recaudatoria, para financiar programas de formación de funcionarios fiscales, para desarrollar la infraestructura y el equipamiento tecnológico de quienes participen en la recaudación de ingresos fiscales, así como para programas de fomento con el público en general del cumplimiento de las obligaciones fiscales. El destino de estos ingresos será con independencia del presupuesto que tengan asignado las autoridades fiscales.
+
 ### CAPITULO II. DEL EMBARGO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE DICIEMBRE DE 2013)</small>
@@ -2847,11 +2883,11 @@ El embargo de bienes raíces, de derechos reales o de negociaciones de cualquier
 
 Cuando los bienes raíces, derechos reales o negociaciones queden comprendidos en la jurisdicción de dos o más oficinas del Instituto Registral y Catastral del Estado, en todas ellas se inscribirá el embargo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 90.
 
-El ejecutor designado por la Autoridad Fiscal, se constituirá en el domicilio del deudor y deberá identificarse ante la persona con quien se practicará la diligencia de requerimiento de pago y de embargo de bienes, con intervención de la negociación en su caso, cumpliendo las formalidades que este Código señala para las notificaciones personales. De esta diligencia se levantará acta pormenorizada entregando copia a la persona con quien se entienda la misma.
+El ejecutor designado por la Autoridad Fiscal, se constituirá en el domicilio del deudor o en el lugar donde se encuentren los bienes propiedad de éste y deberá identificarse ante la persona con quien se practicará la diligencia de requerimiento de pago y de embargo de bienes, con intervención de la negociación en su caso, cumpliendo las formalidades que este Código señala para las notificaciones personales. De esta diligencia se levantará acta pormenorizada entregando copia a la persona con quien se entienda la misma.
 
 Si el embargo recayere en bienes muebles, el ejecutor podrá hacer la extración (sic) de los mismos o en su caso nombrar depositario en términos de lo dispuesto por este Código.
 
@@ -2908,6 +2944,10 @@ IV.- Bienes inmuebles.
 > <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 La persona con quien se entienda la diligencia de embargo podrá designar dos testigos, y si no lo hiciere o al terminar la diligencia los testigos designados se negaren a firmar, así lo hará constar el ejecutor en el acta, sin que tales circunstancias afecten la legalidad del embargo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+En este caso, el deudor o la persona con quien se entienda la diligencia deberá manifestar, bajo protesta de decir verdad, si dichos bienes reportan cualquier gravamen real, embargo anterior, se encuentran en copropiedad o pertenecen a sociedad conyugal alguna.
 
 ###### ARTICULO 95.
 
@@ -2993,13 +3033,15 @@ VIII.- Las pensiones de cualquier tipo.
 
 IX.- Los ejidos.
 
-> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-ARTICULO 96 A.- El embargo de crédito a que se refiere el artículo 94 fracción II de este Código, será notificado directamente por el Departamento Técnico de Ejecución o la Oficina Recaudadora y de Asistencia al Contribuyente a los deudores del embargado, para que no hagan el pago de las cantidades respectivas a éste, sino en la caja de la citada oficina, apercibidos de doble pago en caso de desobediencia.
+###### ARTICULO 96-A.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
+El embargo de créditos a que se refiere el artículo 94 fracción II de este Código, será notificado directamente por la Autoridad Fiscal competente a los deudores del embargado, para que no hagan el pago de las cantidades respectivas a éste, sino en la caja de la citada autoridad, apercibidos de doble pago en caso de desobediencia.
 
-Si en cumplimiento de lo dispuesto en el párrafo anterior, se paga un crédito cuya cancelación deba anotarse en el Registro Público de la Propiedad, la Oficina Recaudadora y de Asistencia al Contribuyente realizará los trámites administrativos correspondientes.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Si en cumplimiento de lo dispuesto en el párrafo anterior, se paga un crédito cuya cancelación deba anotarse en el Registro Público de la Propiedad, la Autoridad Fiscal competente realizará los trámites administrativos correspondientes.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
@@ -3051,23 +3093,29 @@ I.- Recuperar el monto de crédito fiscal adeudado de los ingresos de la negocia
 
 II.- Retirar de la negociación intervenida el 10% de los ingresos en dinero, separando las cantidades que correspondan por concepto de salarios y demás créditos preferentes a que se refiere este Código, y enterarlos en la caja de la Oficina Ejecutora diariamente o a medida que efectúe la recaudación.
 
-> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-Cuando el interventor tenga conocimiento de irregularidades en el manejo de la negociación o de operaciones que pongan en peligro los intereses del fisco estatal, dictará las medidas provisionales urgentes que estime necesarias para proteger dichos intereses y dará cuenta a la Oficina Recaudadora y de Asistencia al Contribuyente, la que podrá ratificarlas o modificarlas.
+Cuando el interventor tenga conocimiento de irregularidades en el manejo de la negociación o de operaciones que pongan en peligro los intereses del fisco estatal, dictará las medidas provisionales urgentes que estime necesarias para proteger dichos intereses y dará cuenta a la Autoridad Fiscal competente, la que podrá ratificarlas o modificarlas.
 
-> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-Si las medidas a que se refiere el párrafo anterior no fueren acatadas, la Oficina Recaudadora y de Asistencia al Contribuyente ordenará que cese la intervención con cargo a la caja y se convierta en administración, o bien se procederá a enajenar la negociación, conforme a este Código y las demás disposiciones legales aplicables.
+Si las medidas a que se refiere el párrafo anterior no fueren acatadas, la Autoridad Fiscal competente ordenará que cese la intervención con cargo a la caja y se convierta en administrador, o bien se procederá a enajenar la negociación, conforme a este Código y las demás disposiciones legales aplicables.
 
 > <small>(ADICIONADA, P.O. 29 DE DICIEMBRE DE 1995)</small>
 
 III.- Rendir cuentas mensuales comprobadas a la Oficina Ejecutora.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 100-A.
+
+El interventor administrador tendrá todas las facultades que correspondan a la administración de la sociedad y plenos poderes con las facultades que se requieran cláusula especial conforme a la ley, para ejercer actos de dominio y de administración, para pleitos y cobranzas, otorgar o suscribir títulos de crédito, presentar denuncias y querellas y desistir de estas últimas, previo acuerdo de la Autoridad Fiscal competente, así como otorgar los poderes generales o especiales que juzgue conveniente, revocar los otorgados por la sociedad intervenida y los que él mismo hubiere conferido.
+
 > <small>(ADICIONADO, P.O. 31 DE MARZO DE 2006)</small>
 
-ARTICULO 100 A.- El interventor administrador tendrá todas las facultades que correspondan a la administración de la sociedad y plenos poderes con las facultades que requieran cláusula especial conforme a la ley, para ejercer actos de dominio y de administración, para pleitos y cobranzas, otorgados o suscribir títulos de crédito, presentar denuncias y querellas y desistir de estas últimas, previo acuerdo de la Oficina Recaudadora y de Asistencia al Contribuyente, así como para otorgar los poderes generales o especiales que juzgue conveniente, revocar los otorgados por la sociedad intervenida y los que él mismo hubiere conferido.
-
 La actuación del interventor no quedará supeditada al consejo de administración, asamblea de accionistas, socios o partícipes.
+
+> <small>(ADICIONADO, P.O. 31 DE MARZO DE 2006)</small>
 
 Tratándose de negociaciones que no constituyan una sociedad, el interventor tendrá todas las facultades de dueño para la conservación y buena marcha del negocio.
 
@@ -3107,11 +3155,11 @@ Igual sanción, de acuerdo al valor de dichos bienes, se aplicará al depositari
 
 Las autoridades fiscales podrán proceder a la enajenación de la negociación intervenida o a la enajenación de los bienes o derechos que componen la misma, de forma separada, cuando lo recaudado en tres meses no alcance a cubrir por lo menos el 24% del crédito fiscal, salvo que se trate de negociaciones que obtengan sus ingresos en un determinado periodo del año, en cuyo caso el porcentaje será el que corresponda al número de meses transcurridos a razón del 8% mensual y siempre que lo recaudado no alcance para cubrir el porcentaje del crédito que resulte.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 102.
 
-La intervención se levantará cuando el crédito fiscal se hubiera satisfecho o cuando de conformidad con este Código se haya enajenado la negociación. En estos casos la Oficina Recaudadora y de Asistencia al Contribuyente comunicará el hecho a la oficina del Instituto Registral y Catastral del Estado que corresponda para que se cancele la inscripción respectiva.
+La intervención se levantará cuando el crédito fiscal se hubiera satisfecho o cuando de conformidad con este Código se haya enajenado la negociación. En estos casos la Autoridad Fiscal competente comunicará el hecho a la oficina del Instituto Registral y Catastral del Estado que corresponda para que se cancele la inscripción respectiva.
 
 ### CAPITULO III. DEL REMATE
 
@@ -3127,11 +3175,11 @@ III.- Cuando el embargado no proponga comprador antes del día en que se finque 
 
 IV.- Al quedar firme la resolución confirmatoria del acto impugnado, recaído en los medios de defensa que se hubieren hecho valer.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2006)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 104.
 
-Salvo los casos que este Código autoriza, todo remate se hasta en subasta pública que se celebrará en el local de la oficina Recaudadora y de Asistencia al Contribuyente o a través de medios electrónicos.
+Salvo los casos que este Código autoriza, todo remate se hará en subasta pública que se celebrará en el local de la Autoridad Fiscal competente o a través de medios electrónicos.
 
 La Autoridad Fiscal con objeto de obtener un mayor rendimiento, podrá designar otro lugar para el remate u ordenar que los bienes embargados se rematen en lotes o en fracciones o en piezas sueltas.
 
@@ -3153,9 +3201,9 @@ Cuando el embargado o terceros acreedores no interpongan el recurso dentro del p
 
 Cuando el dictamen rendido por el perito del embargado o terceros acreedores resulte un valor superior a un 10% al determinado conforme al primer párrafo de este artículo, la Autoridad Ejecutora designará dentro del término de seis días, un perito tercero valuador. El avalúo que se fije por este tercero será la base para el remate de los bienes.
 
-> <small>(REFORMADO, P.O. 3 DE DICIEMBRE DE 1991)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-En todos los casos previstos en este artículo los peritos deberán rendir su dictamen en un plazo de diez días si se trata de bienes muebles: veinte días si son inmuebles y treinta días cuando sean negociaciones, contados a partir de la fecha de su designación.
+En todos los casos previstos en este artículo los peritos deberán rendir su dictamen en un plazo de cinco días si se trata de bienes muebles, diez días si son inmuebles y quince días cuando sean negociaciones, contados a partir de la fecha de su designación.
 
 > <small>(ADICIONADO, P.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -3167,9 +3215,9 @@ Los avalúos de los bienes embargados que se practiquen para efectos fiscales te
 
 El remate deberá ser convocado para una fecha fijada, al día siguiente de haberse efectuado la notificación del avalúo, para que tenga verificativo dentro de los veinte días siguientes. La publicación de la convocatoria se hará cuando menos diez días antes del inicio del periodo señalado para el remate.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-La convocatoria se fijará en el sitio visible y usual de la Oficina Recaudadora y de Asistencia al Contribuyente, y en los lugares públicos que se estime conveniente. Además la convocatoria se dará a conocer en la página electrónica de las autoridades fiscales. En la convocatoria se darán a conocer los bienes objeto del remate, el valor que servirá de base para su enajenación, así como los requisitos que deberán cumplir los postores para concurrir al mismo.
+La convocatoria se fijará en el sitio visible y usual de la Oficina de la Autoridad Fiscal competente, y en los lugares públicos que se estime conveniente. Además, la convocatoria se dará a conocer en la página electrónica de las autoridades fiscales. En la convocatoria se darán a conocer los bienes objeto del remate, el valor que servirá de base para su enajenación, así como los requisitos que deberán cumplir los postores para concurrir al mismo.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -3189,61 +3237,147 @@ Mientras no se finque el remate, el embargado puede hacer el pago de las cantida
 
 Es postura legal la que cubra las dos terceras partes del valor señalado como base para el remate.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 111.
 
-En toda postura deberá ofrecerse de contado cuando menos la parte suficiente para cubrir el interés fiscal. Si éste es superado por la base fijada para el remate, la diferencia podrá reconocerse en favor del ejecutado, de acuerdo con las condiciones que pacten este último y el postor.
+En toda postura deberá ofrecerse de contado cuando menos la parte suficiente para cubrir el interés fiscal; si éste es superado por la base fijada por el remate, se procederá en los términos del artículo 128 de este Código.
 
 Si el importe de la postura es menor al crédito fiscal, se rematarán de contado los bienes embargados.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+La autoridad exactora podrá enajenar a plazos los bienes embargados en los casos y condiciones que previamente se establezcan en las Reglas de Carácter General que autorice y de a conocer el Secretario de Finanzas y Administración. En este supuesto quedará liberado de la obligación de pago el embargado.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 112.
 
-Al escrito en que se haga la postura se acompañará necesariamente billete de depósito por un importe cuando menos del diez por ciento del valor fijado a los bienes en la convocatoria expedida al efecto. En las poblaciones donde no haya alguna de esas instituciones, el depósito se hará en efectivo en la propia oficina ejecutora.
+Al escrito en que se haga la postura se acompañará necesariamente billete de depósito por un importe cuando menos del diez por ciento del valor fijado a los bienes en la convocatoria expedida al efecto. En las poblaciones donde no haya alguna de esas instituciones, el depósito se hará en efectivo en la propia oficina ejecutora o a través de medios electrónicos, debiéndose enviar en documento digital a la dirección electrónica que señale la convocatoria para el remate.
+
+La autoridad fiscal mandará los mensajes que confirmen la recepción de las posturas.
+
+Para intervenir en una subasta será necesario que el postor, antes de enviar su postura realice una transferencia electrónica de fondos equivalente cuando menos al diez por ciento del valor fijado a los bienes en la convocatoria.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 113.
 
-El importe de los depósitos que se constituyan de acuerdo con lo que establece el artículo anterior servirá de garantía para el cumplimiento de las obligaciones que contraigan los postores por las adjudicaciones que se les hagan de los bienes rematados. Inmediatamente después de fincado el remate, previa orden de la Autoridad Fiscal, se devolverán los billetes de depósito a los postores, excepto el que corresponda al postor admitido, cuyo valor continuará como garantía del cumplimiento de su obligación y en su caso, como parte del precio de venta.
+El importe de los depósitos que se constituyan de acuerdo con lo que establece el artículo anterior servirá de garantía para el cumplimiento de las obligaciones que contraigan los postores por las adjudicaciones que se les hagan de los bienes rematados.
+
+Si el remate es subasta pública que se celebra en el local de la Autoridad Fiscal, inmediatamente después de fincado el remate, previa orden de la Autoridad Fiscal, se devolverán en el acto los billetes de depósito a los postores, y a través de medios electrónicos, después de fincado el remate se devolverán a los postores los fondos transferidos electrónicamente, excepto el que corresponda al postor admitido, cuyo valor continuará como garantía del cumplimiento de su obligación y en su caso, como parte del precio de venta.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 114.
 
-El escrito en que se haga la postura deberá contener :
+El escrito en que se haga la postura si el remate es subasta pública celebrado en el local de la Autoridad Fiscal competente, deberá contener:
 
 I.- Cuando se trate de personas físicas, el nombre, la nacionalidad y el domicilio del postor, y en su caso, la clave del registro federal de contribuyentes; tratándose de sociedades, el nombre o razón social, la fecha de constitución, la clave del Registro Federal de Contribuyentes y el domicilio social.
 
 II.- La cantidad que se ofrezca.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 114-A.
+
+En el supuesto de que el remate sea en subasta pública a través de medios electrónicos, el documento digital en que se haga la postura, deberá contener los siguientes datos:
+
+I. Cuando se trate de personas físicas, el nombre, la nacionalidad y el domicilio del postor y, en su caso, la clave del Registro Federal de Contribuyentes; tratándose de sociedades, el nombre o razón social, la fecha de constitución, la clave del Registro Federal de Contribuyentes en su caso y el domicilio social.
+
+II. La cantidad que se ofrezca.
+
+III. El número de cuenta bancaria y nombre de la institución de crédito en la que se reintegrarán, en su caso, las cantidades que se hubieran dado en depósito.
+
+IV. La dirección de correo electrónico y el domicilio para oír y recibir notificaciones.
+
+V. El monto y número de transferencia electrónica de fondos que haya realizado.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 114-B.
+
+En caso de que los postores no cumplan con los requisitos a que se refieren los artículos 114 o 114-A del presente ordenamiento y los que se señalen en la convocatoria, la autoridad ejecutora no las calificará como posturas legales, situación que se hará del conocimiento del interesado.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 115.
 
-El día y hora señalados en la convocatoria, el jefe de la oficina ejecutora hará saber a los presentes qué posturas fueron calificadas como legales y cuál es la mejor de ellas, concediendo plazos sucesivos de cinco minutos cada uno, hasta que la última postura no sea mejorada.
+El día y hora señalados en la convocatoria, la Autoridad Fiscal competente, hará saber a los presentes qué posturas fueron calificadas como legales y cuál es la mejor de ellas, concediendo plazos sucesivos de cinco minutos cada uno, hasta que la última postura no sea mejorada.
 
-> <small>(REFORMADO, P.O. 31 DE MARZO DE 2006)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-La autoridad fiscal fincará el remate en favor de quien hubiere hecho la mejor postura, se comunicará el resultado del mismo en la Oficina Recaudadora y de Asistencia al Contribuyente, y a través de medios electrónicos a los postores que hubieran participado en él, otorgando copia del acta que al efecto se levante.
+La autoridad fiscal fincará el remate en favor de quien hubiere hecho la mejor postura, se comunicará el resultado del mismo en la Oficina de la propia Autoridad Fiscal competente, y a través de medios electrónicos a los postores que hubieran participado en él, otorgando copia del acta que al efecto se levante.
 
 Si en la última postura se ofrece igual suma de contado, por dos o más postores, se designará por suerte la que deba aceptarse.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Si el remate es en la página electrónica de subastas de la autoridad ejecutora, se especificará el periodo correspondiente a cada remate, el registro de los postores y las posturas que se reciban, así como la fecha y hora de su recepción.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Cada subasta tendrá una duración de cinco días que empezará a partir de las 12:00 horas del primer día y concluirá a las 12:00 horas del quinto día.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+En dicho periodo los postores presentarán sus posturas y podrán mejorar las propuestas.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Para los efectos de este párrafo se entenderá que las 12:00 horas corresponden a la Zona Centro.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Si dentro de los veinte minutos previos al vencimiento del plazo de remate se recibe una postura que mejore las anteriores, el remate no se cerrará conforme al término mencionado en el párrafo precedente, en este caso y a partir de las 12:00 horas del día de que se trate, la autoridad ejecutora concederá plazos sucesivos de 5 minutos cada uno, hasta que la última postura no sea mejorada.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Una vez transcurrido el último plazo sin que se reciba una mejor postura se tendrá por concluido el remate.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+La autoridad ejecutora fincará el remate a favor de quien haya hecho la mejor postura. Cuando existan varios postores que hayan ofrecido una suma igual y dicha suma sea la postura más alta, se aceptará la primera postura que se haya recibido.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Una vez fincado el remate se comunicará el resultado del mismo a través de medios electrónicos a los postores que hubieren participado en él, remitiendo el acta que al efecto se levante.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### ARTICULO 116.
 
-Cuando el postor en cuyo favor se hubiera fincado un remate no cumpla con las obligaciones que contraiga y las que este Código señala, perderá el importe del depósito que hubiera constituido y éste se aplicará de plano por la Autoridad Fiscal, a favor del Erario Estatal. En este caso se reanudarán las almonedas en la forma y plazos que les señalan los artículos respectivos.
+Cuando el postor en cuyo favor se hubiera fincado un remate no cumpla con las obligaciones que contraiga y las que este Código señala, perderá el importe del depósito que hubiera constituido y éste se aplicará de plano por la Autoridad Fiscal, a favor del erario estatal.
+
+La autoridad exactora podrá adjudicar el bien al postor que haya presentado la segunda postura de compra más alta y así sucesivamente, siempre que dicha postura sea mayor o igual al precio base de enajenación fijado.
+
+Al segundo o siguientes postores les serán aplicables los mismos plazos para el cumplimiento de las obligaciones del postor ganador.
+
+En caso de incumplimiento de los postores, se iniciará nuevamente la almoneda en la forma y plazos que les señalan los artículos respectivos.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 117.
 
-Fincado el remate de bienes muebles se aplicará el depósito constituido y el postor dentro de los tres días siguientes a la fecha del remate, enterará en la caja de la Autoridad Fiscal, el saldo de la cantidad ofrecida de contado en su postura, o la que resulte de las mejoras.
+Fincado el remate de bienes muebles se aplicará el depósito constituido y el postor dentro de los tres días siguientes a la fecha del remate, enterará a la Autoridad Fiscal, el saldo de la cantidad ofrecida de contado en su postura, o la que resulte de las mejoras si el remate es subasta pública celebrado en el local de la Autoridad Fiscal, y mediante transferencia electrónica de fondos efectuada, si el remate es en la página electrónica de subastas de la autoridad ejecutora.
 
-Tan pronto como el postor cumpla con el requisito a que se refiere el párrafo anterior, la Autoridad Fiscal procederá a entregarle los bienes que le hubiere adjudicado.
+Tan pronto como el postor cumpla con el requisito a que se refiere el párrafo anterior, se citará al contribuyente para que dentro de un plazo de tres días entregue los comprobantes fiscales relativos a los bienes enajenados, los cuales deberán cumplir, en lo conducente, con los requisitos a que se refiere el Código Fiscal de la Federación, apercibido de que si no lo hace, la autoridad ejecutora emitirá el documento correspondiente en su rebeldía.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE MARZO DE 2006)</small>
+Posteriormente, la autoridad deberá entregar al adquirente, conjuntamente con estos documentos, los bienes que le hubiere adjudicado.
+
+Una vez adjudicados los bienes al adquirente, éste deberá retirarlos en el momento en que la autoridad los ponga a su disposición, en caso de no hacerlo se causarán derechos por el almacenaje a partir del día siguiente, en términos de lo dispuesto en la Ley de Ingresos del Estado del ejercicio fiscal que corresponda.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 118.
 
-Fincado el remate de bienes inmuebles o negociaciones se aplicará el depósito constituido. Dentro de los diez días siguientes a la fecha del remate, el postor enterará a través de las cajas de las Oficinas Recaudadoras y de Asistencia al Contribuyente el saldo de la cantidad ofrecida de contado en su postura o la que resulte de las mejoras.
+Fincado el remate de bienes inmuebles o negociaciones se aplicará el depósito constituido. Dentro de los diez días siguientes a la fecha del remate, el postor enterará al erario estatal el saldo de la cantidad ofrecida de contado en su postura o la que resulte de las mejoras, si el remate es en subasta pública celebrado en el local de la Autoridad Fiscal competente, y mediante transferencia electrónica de fondos efectuada, si el remate es en la página electrónica de subasta de la autoridad ejecutora.
 
 Hecho el pago a que se refiere el párrafo anterior y designado al notario por el postor, se citará al ejecutado para que dentro del plazo de diez días otorgue y firme la escritura de venta correspondiente, apercibido de que si no lo hace, la Autoridad Fiscal lo hará en su rebeldía.
 
 Aún en este caso, el deudor responderá de la evicción y saneamiento del inmueble rematado.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2014)</small>
-
-Una vez adjudicados los bienes al adquirente, éste deberá retirarlos en el momento en que la Autoridad los ponga a su disposición, en caso de no hacerlo se causarán diariamente derechos por el almacenaje por $20.00.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2012)</small>
 
@@ -3254,6 +3388,18 @@ Los bienes pasarán a ser propiedad del adquirente libres de todo gravamen y a f
 ###### ARTICULO 120.
 
 Una vez que se haya otorgado y firmado la escritura en que conste la adjudicación de un inmueble, la Autoridad Fiscal dispondrá que se entregue al adquirente, girando las órdenes necesarias aún las de desocupación, si estuviere habitado por el ejecutado o por terceros que no pudieren acreditar legalmente el uso.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+###### ARTICULO 120-A.
+
+En el caso en que los bienes rematados no puedan ser entregados al postor a cuyo favor se hubiera fincado el remate en la fecha en que éste lo solicite, por existir impedimento jurídico debidamente fundado para ello, aquél podrá, en un plazo de seis meses contado a partir de la fecha en que solicite la entrega de los bienes, solicitar a la autoridad fiscal la entrega del monto pagado por la adquisición de dichos bienes. La autoridad entregará la cantidad respectiva en un plazo de dos meses contado a partir de la fecha en que se efectúe la solicitud. Si dentro de este último plazo cesa la causa por la cual la autoridad fiscal se vio imposibilitada para efectuar la entrega de los bienes rematados, se procederá a la entrega de los mismos en lugar de entregar al postor las cantidades pagadas por esos bienes.
+
+Transcurrido el plazo de seis meses a que se refiere el párrafo anterior, sin que el postor solicite a la autoridad fiscal la entrega del monto pagado por la adquisición de dichos bienes, el importe de la postura causará abandono a favor del fisco estatal dentro de dos meses contados a partir de la fecha en que concluya el plazo antes citado y se estará a lo dispuesto en el artículo 128-A de este Código.
+
+En el caso en que la Autoridad Fiscal entregue las cantidades pagadas por la adquisición de los bienes rematados, se dejará sin efectos el remate efectuado.
+
+Si con posterioridad a la entrega de las cantidades señaladas anteriormente cesa la causa por la cual la Autoridad Fiscal se vio imposibilitada jurídicamente para efectuar la entrega de los bienes rematados, ésta deberá iniciar nuevamente el procedimiento establecido en esta Sección para enajenar los mismos, dentro de los quince días siguientes a aquél en que haya cesado el impedimento o se cuente con resolución firme que permita hacerlo.
 
 ###### ARTICULO 121.
 
@@ -3269,7 +3415,7 @@ II.- A falta de pujas.
 
 III.- En caso de postura o pujas iguales.
 
-La adjudicación se hará al valor que corresponda para la almoneda de que se trate.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### ARTICULO 123.
 
@@ -3278,6 +3424,14 @@ Cuando no se hubiera fincado el remate en la primera almoneda, se fijara nueva f
 La base para el remate en la segunda almoneda se determinará deduciendo un 20% de la señalada para la primera.
 
 Si tampoco se fincare el remate en la segunda almoneda, se considerará que el bien fue enajenado en un 50% del valor del avalúo, aceptándose como dación en pago para el efecto de que la autoridad fiscal pueda adjudicárselo, enajenarlo o donarlo para obras o servicios públicos, o a instituciones de asistencia o beneficiencia (sic) autorizadas.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+La adjudicación se tendrá por formalizada una vez que la autoridad ejecutora firme el acta de adjudicación correspondiente.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Cuando la traslación de bienes se deba inscribir en el Registro Público de la Propiedad, el acta de adjudicación debidamente firmada por la autoridad ejecutora tendrá el carácter de escritura pública y será el documento público que se considerará como testimonio de escritura para los efectos de inscripción en dicho Registro.
 
 ###### ARTICULO 124.
 
@@ -3300,6 +3454,10 @@ El producto obtenido del remate, enajenación o adjudicación de los bienes al e
 ###### ARTICULO 127.
 
 En tanto no se hubieran rematado, enajenado o adjudicado los bienes, el embargado podrá pagar el crédito total o parcialmente y recuperarlos inmediatamente en la proporción del pago, tomándose en cuenta el precio del avalúo.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Una vez realizado el pago por el embargado o cuando obtenga resolución o sentencia favorable derivada de la interposición de algún medio de defensa antes de que se hubieran rematado, enajenado o adjudicado los bienes que obliguen a las autoridades a entregar los mismos, éste deberá retirar los bienes motivo del embargo en el momento en que la autoridad los ponga a su disposición y en caso de no hacerlo se causarán derechos por el almacenaje a partir del día siguiente.
 
 ###### ARTICULO 128.
 
@@ -3409,7 +3567,9 @@ III.- Señalar los agravios que le causa el acto impugnado.
 
 IV.- Acompañar las pruebas y mencionar los hechos controvertidos de que se trate.
 
-V.- Acreditar la personalidad del recurrente, cuando no se gestione a nombre propio.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+V.- Los documentos que acrediten su personalidad cuando actúe a nombre de otro o de personas morales, o en los que conste que ésta ya hubiera sido reconocida por la autoridad fiscal que emitió el acto o resolución impugnada.
 
 > <small>(REFORMADA, P.O. 18 DE DICIEMBRE DE 2006)</small>
 
@@ -3896,6 +4056,14 @@ PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicac
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 31 DE DICIEMBRE DE 2014.
+
+PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DEL CÓDIGO FISCAL DEL ESTADO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto deberá publicarse en el Periódico Oficial del Estado y entrará en vigor al día siguiente de su publicación.
 
