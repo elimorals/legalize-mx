@@ -4,7 +4,7 @@ identifier: "JAL-ley-organica-del-poder-legislativo-del-estado-de-jalisco-37204"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2004-02-07"
-last_updated: "2015-12-17"
+last_updated: "2015-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37204&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Sección Cuarta del Periódico Oficial del Estado de Jalisco, el sábado 7 de febrero de 2004.
 
@@ -261,7 +261,9 @@ En materia de planeación institucional del Poder Legislativo, le corresponde al
 
 I. Elaborar, aprobar, ejecutar, supervisar, evaluar y rendir un informe del Plan General del Poder Legislativo, su actualización o modificación;
 
-II. Aprobar su Programa Operativo Anual para la conducción de acciones administrativas;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+II. Aprobar sus matrices de indicadores de resultados para la conducción de acciones administrativas en los términos de la legislación en la materia;
 
 III. Realizar acciones derivadas de sus facultades legales, coordinadas en el marco de los programas intersectoriales;
 
@@ -281,11 +283,11 @@ Artículo 19 C.
 
 Las previsiones del Plan General del Poder Legislativo se referirán a las medidas necesarias para el mejoramiento de la actividad legislativa y de la administración del Congreso del Estado, las cuales deberán ser compatibles con la visión y disposiciones del Plan Estatal de Desarrollo.
 
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-Artículo 19 D.
+###### Artículo 19-D.
 
-Cuando de los acuerdos tomados por el COPLADE, se derive la realización de acciones que requieran modificaciones legislativas, dichos acuerdos podrán ser tomados en consideración en el Programa Operativo Anual y la Agenda Legislativa, para su debida programación e inclusión en el proceso legislativo, en su caso.
+1. Cuando de los acuerdos tomados por el Poder Legislativo, se derive la realización de acciones que requieran modificaciones legislativas, dichos acuerdos pueden ser tomados en consideración en las matrices de indicadores de resultados y la agenda legislativa, para su debida programación e inclusión en el proceso legislativo, en su caso.
 
 > <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
 
@@ -293,11 +295,11 @@ Artículo 19 E.
 
 El Plan General del Poder Legislativo será actualizado o modificado en virtud de consideraciones justificativas del propio Congreso, pudiendo solicitar para tal efecto, la opinión del COPLADE y del Comité de Planeación del Poder Judicial, en cuyo caso sus lineamientos no podrán ser incompatibles con la visión establecida en el Plan Estatal de Desarrollo.
 
-> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-Artículo 19 F.
+###### Artículo 19-F.
 
-El Congreso del Estado, a través del presidente de la Mesa Directiva, rendirá un informe anual del desarrollo del Plan General del Poder Legislativo, los Programas Operativos Anuales y la Agenda Legislativa.
+1. El Congreso del Estado, a través del presidente de la Mesa Directiva, rendirá un informe anual del desarrollo del Plan General del Poder Legislativo, las matrices de indicadores de resultados y la agenda legislativa.
 
 > <small>(ADICIONADO, P.O. 4 DE ENERO DE 2007)</small>
 
@@ -351,11 +353,13 @@ En el proceso de planeación, el Congreso del Estado se sujetará a los siguient
 
 I. La elaboración del Plan General del Poder Legislativo, su actualización o modificación, se publicará dentro de los primeros siete meses de iniciada la legislatura;
 
-II. La Agenda Legislativa deberá publicarse dentro de los primeros dos meses de iniciada la legislatura; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 16 DE AGOSTO DE 2012)</small>
+II. La agenda legislativa deberá publicarse dentro de los primeros tres meses de iniciada la Legislatura; y
 
-III. Los programas operativos anuales serán aprobados a más tardar el día 1.° de enero de cada año.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+III. Las matrices de indicadores de resultados serán aprobadas a más tardar dentro de la segunda quincena de febrero de cada año.
 
 (REUBICADO [N. DE E. ANTES CAPÍTULO V], P.O. 4 DE ENERO DE 2007)
 
@@ -499,11 +503,11 @@ III. El acta en la que conste el nombre del Diputado que haya sido designado o e
 
 3. La mesa directiva del Congreso del Estado, con base en las comunicaciones de los coordinadores de las Fracciones o Grupos Parlamentarios, establece un registro del número de integrantes de cada uno de ellos y sus modificaciones.
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2013)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 27.
 
-1. De acuerdo con la representación de cada fracción o grupo parlamentario y, en su caso, de diputados independientes, la Comisión de Administración acuerda la asignación de recursos y oficinas adecuadas a cada uno de ellos. Adicionalmente a dicha asignación, dispone una subvención mensual para cada fracción o grupo parlamentario, integrada por una suma fija de carácter general y otra variable, en función del número de diputados que las conformen, mismas que deben cumplir con lo dispuesto en la ley y encontrarse en el Presupuesto de Egresos del Poder Legislativo.
+1. De acuerdo con la representación de cada fracción o grupo parlamentario y, en su caso, de diputados independientes, la Comisión de Administración asignará las oficinas y los recursos materiales necesarios a cada uno para el desempeño de sus funciones.
 
 ###### Artículo 28.
 
@@ -511,15 +515,7 @@ III. El acta en la que conste el nombre del Diputado que haya sido designado o e
 
 2. La asignación definitiva de las áreas que correspondan a las Fracciones o Grupos Parlamentarios está a cargo de la Junta de Coordinación Política del Congreso del Estado.
 
-> <small>(REFORMADO, P.O. 20 DE MARZO DE 2013)</small>
-
-###### Artículo 28 Bis.
-
-1. Los grupos parlamentarios a través de sus coordinadores o los diputados independientes deberán entregar a la Secretaría General, con copia para su conocimiento a la Comisión de Administración, un informe mensual sobre la aplicación de los recursos económicos y materiales que les son asignados, anexando la documentación comprobatoria que justifique las erogaciones realizadas, los cuales deberán ser publicados en la página de Internet del Congreso del Estado.
-
-2. La falta del informe a que se refiere el párrafo anterior, dará lugar a la suspensión de la ministración siguiente hasta en tanto no sea entregado.
-
-3. En caso de que al finalizar el ejercicio fiscal correspondiente las fracciones parlamentarias o los diputados independientes no hubieren entregado las comprobaciones relativas a los gastos ejercidos, la Secretaría General descontará las cantidades no comprobadas de la dieta de quienes las hayan ejercido, una vez agotado el esquema de comprobación.
+Artículo 28 bis. (DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
 
 ## TÍTULO CUARTO. ÓRGANOS DE DIRECCIÓN
 
@@ -577,7 +573,9 @@ III. Llevar el control de las asistencias de los diputados, tanto al inicio como
 
 IV. Cuidar que las iniciativas, dictámenes, acuerdos, propuestas, mociones y demás escritos que se presenten en la sesión, cumplan con los requisitos de formulación y presentación;
 
-V. Representar jurídicamente al Poder Legislativo del Estado, a través de su Presidente y dos secretarios, en todos los procedimientos jurisdiccionales en que éste sea parte, ejercitando de manera enunciativa más no limitativa todas las acciones, defensas y recursos necesarios en los juicios: civiles, penales, administrativos, mercantiles o electorales, así como los relativos a los medios de control constitucional en todas sus etapas procesales, rindiendo informes previos y justificados, incluyendo los recursos que señala la Ley de Amparo y la Ley Reglamentaria de las fracciones I y II del artículo 105, de la Constitución Política de los Estados Unidos Mexicanos y la demás legislación aplicable en la materia, y con las más amplias facultades para pleitos y cobranzas para toda clase de bienes y asuntos e intereses de este Poder, en la defensa de sus derechos que la ley le confiere en el ámbito de sus atribuciones. La mesa directiva puede delegar dicha representación de forma general o especial;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+V. Representar jurídicamente al Poder Legislativo del Estado, a través de su presidente y dos secretarios, en todos los procedimientos jurisdiccionales en que éste sea parte, y ejercer de manera enunciativa más no limitativa, todas las acciones, defensas y recursos necesarios en los juicios: civiles, penales, administrativos, mercantiles o electorales, así como los relativos a los medios de control constitucional en todas sus etapas procesales, rindiendo informes previos y justificados, incluyendo los recursos que señala la Ley de Amparo y la Ley Reglamentaria de las fracciones I y II del artículo 105, de la Constitución Política de los Estados Unidos Mexicanos y la demás legislación aplicable en la materia, y con las más amplias facultades para pleitos y cobranzas para toda clase de bienes y asuntos e intereses de este Poder, en la defensa de sus derechos que la ley le confiera en el ámbito de sus atribuciones. La mesa directiva podrá delegar dicha representación de forma general o especial, sin perjuicio de la que recaiga en diversos servidores públicos por ministerio de ley;
 
 VI. Realizar el registro, seguimiento y vigilancia de los asuntos encomendados a las comisiones y comités, así como de las asistencias de los Diputados a las sesiones de la Asamblea y a las reuniones de los órganos que establece esta ley;
 
@@ -809,13 +807,17 @@ XVII. Coordinar y supervisar las actividades que desarrollan los módulos de inf
 
 XVIII. Recibir y custodiar los ingresos económicos del Poder Legislativo, y llevar la contabilidad de las operaciones derivadas del ejercicio presupuestal;
 
-> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADA P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-XIX. Solventar conforme a los lineamientos generales establecidos por la Asamblea y de acuerdo con las previsiones del Presupuesto de Egresos los gastos ordinarios en que incurran las unidades administrativas a su cargo; y
+XIX. Solventar conforme a los lineamientos generales establecidos por la Asamblea y de acuerdo con las previsiones del presupuesto de Egresos los requerimientos financieros de las unidades administrativas a su cargo;
 
-> <small>(ADICIONADA, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-XX. Las demás que le confieran la presente ley y su reglamento.
+XX. Ser responsable de la Unidad de Transparencia; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XXI. Las demás que le confieran la presente ley y su reglamento.
 
 ###### Artículo 50.
 
@@ -1143,25 +1145,25 @@ V. Analizar el efecto social de la legislación federal y estatal relacionados c
 
 VI. Las demás que señalen las leyes y reglamentos de la materia.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE MARZO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-### CAPÍTULO IX. Órgano Técnico de Desarrollo Humano
+### CAPÍTULO IX. Órgano Técnico de Familia, Desarrollo Humano e Integración Social
 
 > <small>(ADICIONADO, P.O. 24 DE MARZO DE 2007)</small>
 
 Artículo 62 G.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-1. El Órgano Técnico de Desarrollo Humano y Familia del Congreso del Estado es el auxiliar de la Comisión (sic) Desarrollo Humano y Familia que, bajo los principios de especialidad e imparcialidad, asesora y colabora en los estudios y análisis necesarios para la toma de decisiones de carácter técnico o legislativo en materia de desarrollo humano que deba conocer dicha comisión.
+1. El Órgano Técnico de Familia, Desarrollo Humano e Integración Social del Congreso del Estado es el auxiliar de la Comisión de Familia, Desarrollo Humano e Integración Social que, bajo los principios de especialidad e imparcialidad, asesora y colabora en los estudios y análisis necesarios para la toma de decisiones de carácter técnico o legislativo en materia de desarrollo humano que deba conocer dicha Comisión.
 
-> <small>(REFORMADO, P.O. 29 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-2. El titular deberá ser designado por la Asamblea con mayoría absoluta de votos a propuesta que haga la Junta de Coordinación Política, de uno de la terna remitida por la Comisión de Desarrollo Humano y Familia. Durará en su encargo el término de cada legislatura, pudiendo ser reelecto; continúa en sus funciones hasta la realización de la elección correspondiente y sólo puede ser removido por causa justificada por mayoría absoluta de votos.
+2. El titular deberá ser designado por la Asamblea con mayoría absoluta de votos a propuesta que haga la Junta de Coordinación Política, de uno de la terna remitida por la Comisión de Familia, Desarrollo Humano e Integración Social. Durará en su encargo el término de cada legislatura, pudiendo ser reelecto; continúa en sus funciones hasta la realización de la elección correspondiente y sólo puede ser removido por causa justificada por mayoría absoluta de votos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-3. Para ser designado titular del Órgano Técnico de Desarrollo Humano y Familia se requiere:
+3. Para ser designado titular del Órgano Técnico de Familia, Desarrollo Humano e Integración Social se requiere:
 
 I. Ser mexicano mayor de edad y estar en pleno goce de sus derechos;
 
@@ -1175,17 +1177,29 @@ IV. No haber sido condenado por delito intencional que amerite pena de privació
 
 Artículo 62 H.
 
-1. El Órgano Técnico de Desarrollo Humano y Familia tiene las siguientes atribuciones:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-I. Colaborar con las tareas de la Comisión Legislativa de Desarrollo Humano y Familia y del resto de las comisiones legislativas del Congreso del Estado que así lo requieran;
+1. El órgano Técnico de Familia, Desarrollo Humano e Integración Social tiene las siguientes atribuciones:
 
-II. Colaborar en el estudio, análisis y dictaminación de las reformas constitucionales y legales propuestas ante la Asamblea que impliquen cuestiones relativas a los temas de desarrollo humano y la familia, así como asistenciales;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-III. Coadyuvar con los diputados que deseen presentar iniciativas en materia de desarrollo humano, familia y asistencia social;
+I. Colaborar con las tareas de la Comisión Legislativa de Familia, Desarrollo Humano e Integración Social y del resto de las comisiones legislativas del Congreso del Estado que así lo requieran;
 
-IV. Realizar de manera permanente estudio acerca de temas de desarrollo humano, familia y asistencia social, entre otros, y estar en contacto permanente con las instituciones públicas y privadas dedicadas al desarrollo integral de la familia y la asistencia de grupos vulnerables para conocer sus necesidades y así estar en la aptitud de presentar proyectos que tiendan a satisfacerlas;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-V. Apoyar en la revisión de los dictámenes de las comisiones legislativas relativos a los asuntos de desarrollo humano y familia, y
+II. Colaborar en el estudio, análisis y dictaminación de las reformas constitucionales y legales propuestas ante la Asamblea que impliquen cuestiones relativas a los temas de familia, desarrollo humano e integración social, así como asistenciales:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+III. Coadyuvar con los diputados que deseen presentar iniciativas en materia de familia, desarrollo humano e integración social;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+IV. Realizar de materia permanente estudio acerca de temas de desarrollo de la familia, el desarrollo humano y la integración social, entre otros, y estar en contacto permanente con las instituciones públicas y privadas dedicadas al desarrollo integral de la familia y la asistencia de grupos vulnerables para conocer sus necesidades y así estar en la aptitud de presentar proyectos que tiendan a satisfacerlas;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+V. Apoyar en la revisión de los dictámenes de las comisiones legislativas relativos a los asuntos de familia, desarrollo humano e integración social; y
 
 VI. Las demás que le correspondan de conformidad con las leyes y reglamentos vigentes.
 
@@ -1367,9 +1381,17 @@ VII. Invitar a los titulares de las distintas dependencias o entidades estatales
 
 4. Las comisiones legislativas pueden contar con el apoyo de un secretario técnico. El desempeño de los servidores públicos del Congreso del Estado que realicen estas funciones es regulado por las disposiciones reglamentarias aplicables.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 70.
 
-1. El Presidente de cada Comisión Legislativa es el responsable de los documentos y expedientes de los asuntos que se le turnan para su estudio, por tanto, debe firmar en el libro de registro que para tal efecto lleva el Secretario General, el recibo de ellos y devolver los que en su poder se encuentren sin resolución o dictamen; al dejar de presidir la comisión legislativa o al finalizar la Legislatura.
+1. Para el turno de los asuntos que determine el Pleno, la Secretaría General a través de la Dirección de Procesos Legislativos, remitirá al Presidente de la Comisión Legislativa de que se trate copia electrónica de los documentos y archivos electrónicos que obren en el expediente, a efecto de que ésta se encuentre en posibilidad de resolverlo, y conservará en su poder los originales, los cuales pondrá a disposición de las instancias de dictaminación para consulta, salvo los informes finales de cuenta pública, los cuales serán enviados en original al presidente de la Comisión de Vigilancia.
+
+2. Cuando el Presidente de la Comisión reciba documentos originales deberá firmar el recibo de ellos en el libro de registro que para tal efecto lleva el Secretario General, y deberá devolverlos cuando ya no los necesite para dictamen, al dejar de presidir la comisión legislativa o al finalizar la Legislatura.
+
+3. La Dirección de Procesos Legislativos, previa autorización de la Secretaría General, enviará a la Dirección de Biblioteca, Archivo y Editorial, los documentos originales de los asuntos concluidos.
 
 ###### Artículo 71.
 
@@ -1387,15 +1409,31 @@ V. Promover las visitas, entrevistas y acciones necesarias para el estudio y dic
 
 VI. Presentar a la Asamblea, los acuerdos, resoluciones o dictámenes de los asuntos que competan a su comisión;
 
-> <small>(REFORMADA, P.O. 18 DE FEBRERO DE 2006)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-VII. Presentar al Comité de Proceso Legislativo, informe cada cuatro meses sobre reuniones de trabajo de comisión, asistencias de los diputados. Dicho informe deberá presentarse a más tardar quince días anteriores al término del ejercicio de la Mesa Directiva en funciones;
+VII. Presentar al Comité de Proceso Legislativo, informe cada cuatro meses sobre las reuniones de trabajo de comisión y asistencias de los diputados. Dicho informe deberá presentarse a más tardar quince días anteriores al término del ejercicio de la Mesa Directiva en funciones;
 
-VIII. Las demás que señala esta ley y las disposiciones reglamentarias aplicables.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+VIII. Representar jurídicamente a la Comisión en los procedimientos donde sea señalada como autoridad responsable, parte demandada o tercero, con el auxilio técnico de la Dirección de Asuntos Jurídicos y Dictamen Legislativo:
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+IX. Suscribir las comunicaciones e informes oficiales que versen sobre los trabajos de la Comisión; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+X. Las demás que señala esta ley y las disposiciones reglamentarias aplicables.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+2. El presidente deberá informar a los vocales en la siguiente sesión ordinaria de la Comisión, respecto a los actos que realice en uso de las facultades señaladas en el párrafo 1 fracciones VIII y IX.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 72.
 
-1. Por regla general las sesiones de las comisiones legislativas son públicas, salvo que la mayoría de sus integrantes decida que, por la naturaleza del asunto a tratar, deba ésta de celebrarse en forma reservada.
+1. Las sesiones de las comisiones legislativas son públicas.
 
 ###### Artículo 73.
 
@@ -1417,9 +1455,9 @@ IV. Asuntos Metropolitanos;
 
 V. Asuntos Migratorios;
 
-> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-VI. Ciencia y Tecnología;
+VI. Innovación, Ciencia y Tecnología;
 
 > <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2007)</small>
 
@@ -1441,9 +1479,9 @@ X. Desarrollo Económico;
 
 XI. Desarrollo Forestal;
 
-> <small>(REFORMADA, P.O. 29 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-XII. Para el Desarrollo Humano y la Familia;
+XII. Familia, Desarrollo Humano e Integración Social;
 
 > <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2007)</small>
 
@@ -1461,9 +1499,9 @@ XV. Desarrollo Urbano;
 
 XVI. Educación;
 
-> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-XVII. Equidad de Género;
+XVII. Igualdad de Género;
 
 > <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2007)</small>
 
@@ -1501,9 +1539,9 @@ XXV. Juventud y deporte;
 
 XXVI. Medio Ambiente y Desarrollo Sustentable;
 
-> <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-XVIII (SIC). Participación Ciudadana y Acceso a la Información pública;
+XXVII. Participación Ciudadana, Transparencia y Acceso a la Información Pública;
 
 > <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2007)</small>
 
@@ -1513,9 +1551,9 @@ XXVIII. Planeación para el Desarrollo;
 
 XXIX. Puntos Constitucionales, Estudios Legislativos y Reglamentos;
 
-> <small>(ADICIONADA, P.O. 3 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-XXX. Readaptación Social;
+XXX. Readaptación y Reinserción Social;
 
 > <small>(ADICIONADA, P.O. 3 DE FEBRERO DE 2007)</small>
 
@@ -1539,11 +1577,9 @@ XXXIV. Trabajo y Previsión Social;
 
 XXXV. Turismo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-> <small>(REFORMADA, P.O. 5 DE JULIO DE 2008)</small>
-
-XXXVI. Vialidad, Transporte y Comunicaciones, y
+XXXVI. Movilidad y Transporte; y
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE ESTE ORDENAMIENTO.</small>
 
@@ -1647,11 +1683,15 @@ II. En coordinación con las autoridades federales, el fomento y seguimiento a p
 
 Artículo 77 C.
 
-1. Corresponde a la Comisión de Ciencia y Tecnología el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+1. Corresponde a la Comisión de innovación, Ciencia y Tecnología el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
 
 I. La legislación relacionada con la ciencia y tecnología en el ámbito estatal; y
 
-II. Las políticas, planes y programas; así como asuntos relativos al fomento de la Ciencia y la Tecnología en el Estado o para los Jaliscienses.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+II. Las políticas, planes y programas; así como asuntos relativos al fomento de la Innovación, Ciencia y Tecnología en el Estado o para los Jaliscienses.
 
 ###### Artículo 78.
 
@@ -1661,9 +1701,13 @@ I. La legislación en materia de promoción de las bellas artes, manifestaciones
 
 II. El fomento y estímulo de las manifestaciones de creatividad artística e intelectual en el Estado;
 
-III. El otorgamiento de recompensas a quienes hayan prestado servicios de importancia a la humanidad o al Estado, en forma concurrente con la comisión de Educación, Ciencia y Tecnología;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-IV. La declaración de beneméritos a quienes hubiesen distinguido en la prestación de servicios eminentes a la Nación y al Estado, en forma conjunta con la comisión de Educación, Ciencia y Tecnología; y
+III. El otorgamiento de recompensas a quienes hayan prestado servicios de importancia a la humanidad o al Estado, en forma concurrente con las comisiones de Educación y la de Innovación, Ciencia y Tecnología;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+IV. La declaración de beneméritos a quienes hubiesen distinguido en la prestación de servicios eminentes a la Nación y al Estado, en forma conjunta con las comisiones de Educación y la de Innovación, Ciencia y Tecnología; y
 
 V. Los planes y programas en materia de cultura.
 
@@ -1721,13 +1765,15 @@ III. Las políticas, programas y proyectos de apoyo financiero a las actividades
 
 ###### Artículo 82.
 
-1. Corresponde a la Comisión de Desarrollo Humano y Familia el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+1. Corresponde a la Comisión de Familia, Desarrollo Humano e Integración Social el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
 
 I. La legislación, políticas, planes y programas tendientes a la promoción, desarrollo y fortalecimiento de los valores y defensa de la familia;
 
 II. La legislación en materia de asistencia social y desarrollo humano;
 
-III. La normatividad, políticas, planes y programas de desarrollo humano y asistencial para grupos vulnerables en el ámbito estatal;
+III. La normatividad, políticas, planes y programas de desarrollo humano, desarrollo social y asistencial para grupos vulnerables en el ámbito estatal;
 
 IV. La propuesta ante la Junta de Coordinación Política de la terna para el nombramiento del titular del Órgano Técnico de Desarrollo Humano y Familia;
 
@@ -1823,9 +1869,13 @@ VI (SIC). Establecer las bases y organizar anualmente el Parlamento Infantil del
 
 ###### Artículo 85.
 
-1. Corresponde a la Comisión de Equidad de Género el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-I. Las propuestas tendientes a garantizar la equidad entre la mujer y el hombre en la sociedad y aquellas con el objeto de garantizar la igualdad y la tolerancia, así como evitar la discriminación al respecto; y
+1. Corresponde a la Comisión de Igualdad de Género el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+I. Las propuestas tendientes a garantizar la igualdad entre la mujer y el hombre en la sociedad y aquellas con el objeto de promover la tolerancia y evitar la discriminación al respecto; y
 
 II. Las políticas, planes y programas tendientes al fortalecimiento de los valores universales.
 
@@ -1929,21 +1979,29 @@ II. Las políticas, planes y programas para la prevención, difusión, atención
 
 1. Corresponde a la Comisión de Justicia el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
 
-I. La legislación civil, penal y administrativa en su aspecto adjetivo;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+I. La legislación civil y administrativa en su aspecto adjetivo;
 
 II. La legislación relativa al Poder Judicial y al Ministerio Público;
 
-III. La Ley Orgánica de la Procuraduría General de Justicia;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+III. La Ley Orgánica de la Fiscalía General del Estado de Jalisco;
 
 > <small>(REFORMADA, P.O. 8 DE JULIO DE 2014)</small>
 
 IV. La elección y en su caso la ratificación de magistrados del Supremo Tribunal de Justicia y del Tribunal de lo Administrativo;
 
-V. La elección de los integrantes del Consejo General del Poder Judicial;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+V. La elección de los integrantes del Consejo de la Judicatura del Estado de Jalisco;
 
 VI. La concesión de amnistía y en su caso, conjuntamente con la Comisión de Puntos Constitucionales, Estudios Legislativos y Reglamentos;
 
-VII. La ratificación del Procurador General de Justicia del Estado; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+VII. La ratificación del Fiscal General del Estado de Jalisco; y
 
 VIII. Las políticas, planes y programas correspondientes.
 
@@ -1971,9 +2029,9 @@ IV. La prevención, control y combate de la contaminación, en el ámbito de com
 
 ###### Artículo 95.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE DICIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-1. Corresponde a la Comisión de Participación Ciudadana y Acceso a la Información Pública el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
+1. Corresponde a la Comisión de Participación Ciudadana, Transparencia y Acceso a la Información Pública el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
 
 > <small>(REFORMADA, P.O. 9 DE DICIEMBRE DE 2010)</small>
 
@@ -2027,15 +2085,17 @@ XII. La supervisión y coordinación del órgano técnico de Técnica Legislativ
 
 XIII. La propuesta a la Asamblea del nombramiento y la remoción de los servidores públicos del órgano técnico de Técnica Legislativa.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 98.
 
-1. Corresponde a la Comisión de Readaptación Social el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
+1. Corresponde a la Comisión de Readaptación y Reinserción Social el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
 
-I. La legislación en materia de readaptación social y penitenciaria;
+I. La legislación en materia de readaptación y reinserción social;
 
-II. La regulación de los sistemas integrales de tratamiento penal y funcionamiento de las instancias de prevención y readaptación social; y
+II. La regulación de los sistemas integrales de tratamiento penal y funcionamiento de las instancias de readaptación y reinserción social; y
 
-III. Las políticas, planes y programas tendientes al fortalecimiento de la readaptación social.
+III. Las políticas, planes y programas tendientes al fortalecimiento de la readaptación y reinserción social.
 
 > <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2007)</small>
 
@@ -2119,9 +2179,9 @@ IV. Las políticas, planes y programas de difusión en materia de turismo.
 
 ###### Artículo 103.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE NOVIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-1. Corresponde a la Comisión de Vialidad, Transporte y Comunicaciones el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
+1. Corresponde a la Comisión de Movilidad y Transporte el estudio y dictamen o el conocimiento, respectivamente, de los asuntos relacionados con:
 
 I. La legislación de la materia;
 
@@ -2131,9 +2191,17 @@ III. Los convenios que celebre el Poder Ejecutivo del Estado con los ayuntamient
 
 IV. La prestación directa o concesionada del transporte de personas y cosas utilizando las vías estatales de comunicación;
 
-V. La construcción y funcionamiento de las vías de comunicación estatales; y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-VI. Las políticas, planes y programas para la difusión y fortalecimiento de la cultura y educación vial.
+V. La construcción y funcionamiento de las vías de comunicación estatales;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+VI. Las políticas, planes y programas para la difusión y fortalecimiento de la cultura y educación vial; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+VII. El análisis y fortalecimiento de la movilidad en la entidad, para el beneficio de la colectividad, tomando como base la priorización de los sujetos activos de la movilidad establecidos en la legislación de la materia.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2177,9 +2245,17 @@ XVI. Presentar al Congreso del Estado, el dictamen relativo a la terna para desi
 
 XVII. Dictaminar acerca de la solicitud de licencia o remoción del Auditor Superior;
 
-XVIII. Vigilar que los servidores públicos de la Auditoría Superior se conduzcan en los términos de esta ley y la de Responsabilidades para los Servidores Públicos del Estado de Jalisco y presentar las denuncias correspondientes al Auditor Superior, y
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-XIX. Las demás que establezca esta ley y otras disposiciones legales aplicables.
+XVIII. Vigilar que los servidores públicos de la Auditoría Superior se conduzcan en los términos de esta ley y la de Responsabilidades para los Servidores Públicos del Estado de Jalisco y presentar las denuncias correspondientes al Auditor Superior;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XIX. La legislación en materia de fiscalización, cuenta pública y rendición de cuentas; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XX. Las demás que establezca esta ley y otras disposiciones legales aplicables.
 
 ### CAPÍTULO III. Comités
 
@@ -2215,9 +2291,9 @@ XIX. Las demás que establezca esta ley y otras disposiciones legales aplicables
 
 4. El diputado al que le hubiera sido derivada la iniciativa debe formular su proyecto de dictamen dentro del plazo de quince días naturales, salvo que la iniciativa requiera, a juicio de la comisión, plazo no mayor; caso en el cual puede prorrogarse, cuidando siempre de respetar los plazos en que la Comisión debe dictaminar.
 
-> <small>(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-5. Una vez presentado el proyecto de dictamen para su discusión, éste debe ser entregado por cualquier medio electrónico o magnético que contenga el dictamen y en caso necesario mediante copia fotostática, con el acuse de recibo correspondiente, a los integrantes de la comisión a más tardar tres días naturales antes de la sesión de comisión en que vaya a discutirse.
+5. Una vez presentado el proyecto de dictamen para su discusión, éste debe ser entregado por medio electrónico o magnético que contenga el dictamen y en caso necesario mediante copia fotostática, con el acuse de recibo correspondiente, a los integrantes de la comisión a más tardar tres días hábiles antes de la sesión de comisión en que vaya a discutirse.
 
 6. Si el proyecto presentado por el diputado es aprobado sin adiciones o reformas se tiene como resolución definitiva de la comisión. Si en la reunión de Comisión en que se estudie este proyecto se aprueban modificaciones o adiciones al mismo, deben hacerse en ese momento y proceder a su firma.
 
@@ -2250,6 +2326,10 @@ IV. Tratándose de las iniciativas que involucren la enajenación o actos trasla
 > <small>(F. DE E., P.O. 10 DE MAYO DE 2012)</small>
 
 Concluidos los plazos señalados en el párrafo anterior, y tratándose únicamente para casos de los ahí contemplados, la Asamblea del Congreso deberá resolver el dictamen de referencia, en un término no mayor de 15 días naturales posteriores a la fecha del turno del dictamen, por parte de las comisiones dictaminadoras, al área correspondiente. Concluido el término señalado anteriormente, sin que hubiese resuelto dicho dictamen, se entenderá por aprobada la iniciativa en cuestión, bajo el concepto de la afirmativa ficta.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+V. Se establezca plazo diverso para su dictamen en la agenda legislativa común o medie acuerdo específico de la Asamblea que determine plazo distinto.
 
 > <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2011)</small>
 
@@ -2287,9 +2367,15 @@ IV. Es supletoria de este procedimiento la Ley Orgánica del Poder Judicial del 
 
 3. Si del estudio y análisis se desprende que existen diversos ordenamientos relacionados con la iniciativa y no son considerados por ésta, la comisión puede ampliar su dictamen para incluir éstos.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 110.
 
-1. El voto particular tiene el carácter de reserva y se le da el trámite ordinario.
+1. El diputado que en comisión disienta de la mayoría podrá formular voto particular por escrito.
+
+2. El voto disidente se presenta ante la Comisión hasta el día hábil siguiente a aquel en que se apruebe el dictamen.
+
+3. El voto puede ser total o parcial, según modifique total o parcialmente el dictamen.
 
 ###### Artículo 111.
 
@@ -2297,9 +2383,11 @@ IV. Es supletoria de este procedimiento la Ley Orgánica del Poder Judicial del 
 
 2. Las observaciones del Instituto de Investigación y Estudios Legislativos deben versar sobre problemas de constitucionalidad, contravención a otras normas legales, técnica legislativa, congruencia interna o corrección del estilo.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 112.
 
-1. Para los efectos de los debates en la Asamblea, los Presidentes de las comisiones anexan a los dictámenes los votos particulares que se presenten.
+1. El voto particular se anexará al dictamen y deberá contener en lo general los elementos legales y reglamentarios del mismo.
 
 ###### Artículo 113.
 
@@ -2324,6 +2412,12 @@ La mayoría de los vocales de una comisión pueden convocar a sesión con las fo
 1. Las comisiones pueden celebrar foros de consulta pública o reuniones con especialistas de la materia para tratar asuntos de su competencia.
 
 2. Las comisiones legislativas pueden recabar de las oficinas públicas que funcionen en el Estado, todos los informes que se estimen convenientes para su trabajo, bien sea por escrito o mediante la comparecencia de sus titulares a las sesiones de éstas.
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE NUMERAL, VÉASE TRANSITORIO CUARTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+3. Las comisiones legislativas pueden abrir un periodo de consulta ciudadana, previo a la dictaminación de las iniciativas de ley, a través de las tecnologías de la información aprobadas por el Pleno.
 
 ###### Artículo 116.
 
@@ -2387,13 +2481,21 @@ V. La propuesta a la Asamblea sobre la edición de libros, revistas, folletos o 
 
 ###### Artículo 122.
 
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 1. Corresponden al Comité de Peticiones y Atención Ciudadana los asuntos relacionados con:
 
-I. El registro, seguimiento y vigilancia de los asuntos encomendados a Dirección de Vinculación Ciudadana relativos a la atención de peticiones de carácter administrativo, que no sean susceptibles del proceso legislativo, en que los particulares o agrupaciones privadas, expongan problemas que les afecten;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+I. La atención, resolución y respuesta directa de peticiones de particulares, que no sean susceptibles del proceso legislativo;
 
 II. La vigilancia de las políticas y disposiciones reglamentarias para el desarrollo de las tareas de vinculación ciudadana del Congreso del Estado; particularmente de aquellas que se llevan a cabo en los módulos de enlace e información legislativa que se encuentran habilitados en la entidad, proponiendo en su caso, la instalación de otros; y
 
 III. El enlace con agrupaciones privadas y organismos no gubernamentales.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+2. Las respuestas a las peticiones que no señalen domicilio, correo electrónico u otra forma de contacto con el solicitante, deberán publicarse al día siguiente de su emisión en los estrados del Palacio del Poder Legislativo y en la página oficial del Congreso del Estado, cuando menos por cinco días hábiles.
 
 ###### Artículo 123.
 
@@ -2661,9 +2763,13 @@ III. Aprobar una resolución referente a las facultades del Congreso del Estado 
 
 ###### Artículo 153.
 
-1. El Congreso del Estado puede presentar iniciativas de ley o decreto ante el Congreso del Estado de la Unión, de conformidad con lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-2. Las iniciativas de ley o decreto son resoluciones que el Congreso del Estado, a propuesta de cualquiera de los diputados o de las comisiones legislativas, emite para plantear al Congreso del Estado de la Unión, la creación, reforma, adición, derogación o abrogación de leyes federales o artículos de la Constitución Política de los Estados Unidos Mexicanos, se aprueban mediante acuerdo legislativo; el cual debe ser votado en la siguiente sesión en que fue presentado.
+1. El Congreso del Estado puede presentar iniciativas de ley o decreto ante el Congreso de la Unión, de conformidad con lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+2. Las iniciativas de ley o decreto son resoluciones que el Congreso del Estado, a propuesta de cualquiera de los diputados o de las comisiones legislativas, emite para plantear al Congreso de la Unión la creación, reforma, adición, derogación o abrogación de leyes federales o artículos de la Constitución Política de los Estados Unidos Mexicanos, y se aprueban mediante dictamen de acuerdo legislativo presentado por la Comisión de Puntos Constitucionales, Estudios Legislativos y Reglamentos.
 
 3. El voto que el Congreso del Estado emite en su calidad de integrante del Constituyente Permanente Federal, sigue el mismo trámite que las iniciativas de ley.
 
@@ -2684,6 +2790,10 @@ c) Motivar cada uno de los artículos que se adicionan, reforman o derogan;
 II. Artículos que debe contener la ley, el decreto o acuerdo legislativo correspondiente; y
 
 III. Disposiciones transitorias.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+2. Presentada la iniciativa, el autor deberá entregar a la Dirección de Procesos Legislativos copia electrónica de su iniciativa en formato editable, la cual estará disponible para la formulación del proyecto de dictamen.
 
 ###### Artículo 155.
 
@@ -2737,7 +2847,25 @@ III. Parte Resolutiva que es la propuesta que se pone a consideración de la Asa
 
 2. Si la Asamblea decide que el dictamen regrese a la comisión, deben observarse los plazos de dictaminación que establece esta ley.
 
-3. En el caso de que se rechace un dictamen y no se solicite que regrese a comisión o que siendo solicitado no sea aprobado por la Asamblea, se tiene por desechada la iniciativa.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+3. Si la Asamblea aprueba un dictamen que propone aprobar una iniciativa de ley o decreto, se procede a la elaboración de la minuta correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+4. Si la Asamblea aprueba un dictamen que propone desechar una iniciativa, el asunto se archiva como concluido.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+5. Si la Asamblea rechaza un dictamen que propone aprobar una iniciativa, se tiene por desechada la iniciativa y el asunto se archiva como concluido.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+6. Si la Asamblea rechaza un dictamen que propone desechar una iniciativa, el Presidente ordena que la iniciativa regrese a comisiones.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+7. Concluido el asunto la Secretaría General dispondrá que se hagan las anotaciones pertinentes en su registro electrónico y causará baja como carga de trabajo de las comisiones.
 
 ### CAPÍTULO V. Discusiones
 
@@ -2907,6 +3035,20 @@ III. Por desórdenes en el Recinto Oficial.
 
 1. Si un dictamen consta de más de cien artículos, se discute parcialmente por libros, títulos, capítulos o secciones en que el mismo esté dividido, pero se vota separadamente cada uno de los artículos, párrafos, fracciones o incisos que tenga el dictamen.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Artículo 185 bis.
+
+1. Cuando el dictamen presentado a discusión y votación tuviere voto particular anexo se atenderá a las siguientes reglas:
+
+I. Sí el voto particular es total y el dictamen es aprobado por la Asamblea, se archiva sin votación;
+
+II. Si el voto particular es total y el dictamen es rechazado por la Asamblea, el voto particular se somete a votación en calidad de dictamen alterno;
+
+III. Si el voto particular es parcial y el dictamen es aprobado en lo general por la Asamblea, el voto particular se somete a votación como propuesta de modificación; y
+
+IV. Si el voto particular es parcial y el dictamen es rechazado por la Asamblea, el voto particular se archiva sin votación.
+
 ###### Artículo 186.
 
 1. Lo preceptuado por este capítulo, se aplica en lo conducente a las demás discusiones que se presenten durante el desarrollo de las sesiones.
@@ -2944,6 +3086,10 @@ IX. Solicitar orden;
 X. Solicitar que el orador concrete su intervención o propuesta; y
 
 XI. Las demás que se señalen en esta ley y su reglamento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+2. Las mociones señaladas en las fracciones I, IX y X del párrafo anterior no son debatibles.
 
 ###### Artículo 189.
 
@@ -3053,9 +3199,11 @@ I. Empieza por el Secretario situado a la derecha del Presidente y sigue en el s
 
 1. Son minutas de decreto las que versan sobre la creación, reforma, adición, derogación y abrogación de disposiciones sobre el otorgamiento de derechos o imposición de obligaciones a determinadas personas y es relativa a tiempos y lugares específicos.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 207.
 
-1. Las minutas de ley y decreto son puestas a discusión, por una sola vez, en lo general y en lo particular. La votación de las minutas se hace en forma económica, de acuerdo a lo que establece esta ley.
+1. Las minutas de ley y decreto son puestas a discusión, por una sola vez, en lo general y en lo particular, la votación de las minutas se hace en forma nominal, de acuerdo a lo que establece esta ley.
 
 ###### Artículo 208.
 
@@ -3077,11 +3225,15 @@ I. Empieza por el Secretario situado a la derecha del Presidente y sigue en el s
 
 2. La división en libros, títulos y secciones se realiza cuando la extensión, naturaleza y complejidad de las disposiciones lo ameriten.
 
-3. La numeración de los libros, títulos, capítulos, secciones, artículos y fracciones es progresiva, y respecto a los incisos, se usan las letras del alfabeto para su distinción.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+3. La numeración de los libros, títulos, capítulos, secciones, artículos, párrafos y fracciones es progresiva, y respecto a los incisos, se usan las letras del alfabeto para su distinción.
 
 4. La numeración de los capítulos y fracciones se hace utilizando números romanos.
 
-5. La numeración de los artículos se hace utilizando números arábigos.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+5. La numeración de los artículos se hace utilizando números arábigos así como los párrafos, cuando en una Ley se siga el esquema de párrafos numerados.
 
 6. Toda minuta de ley o de decreto se inicia con las siguientes palabras: "El Congreso del Estado Decreta:"; debe ser expedida en el Recinto del Congreso del Estado, llevar la fecha de aprobación y ser suscrita por el Presidente y los secretarios. Es remitida al Ejecutivo para su sanción, promulgación y publicación, mediante oficio que firmen los secretarios, con excepción de lo establecido por el último párrafo del artículo 33 de la Constitución Política del Estado.
 
@@ -3109,7 +3261,9 @@ III. Los dos últimos dígitos en números arábigos del año de su aprobación.
 
 1. Los procedimientos especiales contemplados en este título corresponden a facultades del Congreso del Estado que requieren un trámite distinto al procedimiento legislativo ordinario.
 
-2. Las resoluciones derivadas de los procedimientos de elección o ratificación, en su caso, de los servidores públicos y de procedimientos para la sustanciación de trámite para desintegración de ayuntamientos y suspensión o revocación del mandato a alguno de sus miembros y la elección de los concejos municipales Tienen carácter de acuerdo parlamentario, se notifican y surten efectos de inmediato; es remitida para su publicación en el Periódico Oficial "El Estado de Jalisco".
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+2. Las resoluciones derivadas de los procedimientos señalados en los capítulos V y VII de este Título tienen carácter de acuerdo legislativo; se notifican conforme a la ley de la materia, surten efectos de inmediato y serán remitidas para su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 ###### Artículo 211.
 
@@ -3153,7 +3307,7 @@ III. Los dos últimos dígitos en números arábigos del año de su aprobación.
 
 ### CAPÍTULO V. Elección o Ratificación de Servidores Públicos de la competencia del Congreso del Estado
 
-> <small>(REFORMADO, P.O. 8 DE JULIO DE 2014)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 217.
 
@@ -3167,7 +3321,7 @@ III. Los dos últimos dígitos en números arábigos del año de su aprobación.
 
 ###### Artículo 219.
 
-1. Para la elección o en su caso ratificación de los magistrados del Supremo Tribunal de Justicia del Estado; del Tribunal Administrativo del Estado de Jalisco; de los Consejeros del Consejo General del Poder Judicial; del Procurador General de Justicia; del Procurador de Desarrollo Urbano; y del Presidente y Consejeros de la Comisión Estatal de Derechos Humanos se está a lo que establecen la Constitución Política del Estado y la legislación aplicable.
+1. Para la elección o en su caso ratificación de los magistrados del Supremo Tribunal de Justicia del Estado; del Tribunal Administrativo del Estado de Jalisco; de los Consejeros del Consejo de la Judicatura; del Fiscal General del Estado; del Contralor del Estado; del Procurador de Desarrollo Urbano; del Presidente y Consejeros de la Comisión Estatal de Derechos Humanos; y de los Consejeros del Instituto de Transparencia e Información Pública del Estado se está a lo que establecen la Constitución Política del Estado y la legislación aplicable.
 
 ###### Artículo 220.
 
@@ -3175,7 +3329,9 @@ III. Los dos últimos dígitos en números arábigos del año de su aprobación.
 
 I. La comisión competente, con base en el análisis de los expedientes o dictámenes técnicos recibidos, elabora el dictamen relativo al proyecto en el que se propone a las personas para ocupar dichos cargos; y
 
-II. La Asamblea, la Mesa Directiva y la comisión o comisiones responsables están obligadas a desahogar la agenda del proceso legislativo a los tiempos establecidos por la Constitución Política del Estado y la legislación aplicable; para la elección o ratificación y, en su caso, evitar la ratificación tácita.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+II. La Asamblea, la Mesa Directiva y la comisión o comisiones responsables están obligadas a desahogar la agenda del proceso legislativo a los tiempos establecidos por la Constitución Política del Estado y la legislación aplicable; para la elección o ratificación.
 
 2. En caso de que no se alcance la votación requerida para efectuar la elección, o en su caso ratificación, de los servidores públicos, la comisión competente debe actuar conforme a lo establecido en la Constitución Política del Estado y las leyes aplicables.
 
@@ -3215,7 +3371,9 @@ II. La Asamblea, la Mesa Directiva y la comisión o comisiones responsables est�
 
 ###### Artículo 226.
 
-1. Una vez ratificada la queja o denuncia, se presenta a la Asamblea del Congreso del Estado para que se turne a las comisiones de Gobernación y Desarrollo Municipal, las cuales califican si la causa atribuida corresponde a las previstas por la ley, y dictaminan en un plazo de cinco días hábiles si la denuncia merece atenderse.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+1. Una vez ratificada la queja o denuncia, se presenta a la Asamblea del Congreso del Estado para que se turne a las Comisiones de Gobernación y Desarrollo Municipal, las cuales califican si la causa atribuida corresponde a las previstas por la ley y, si la denuncia reúne los requisitos de procedencia, deberá dictaminarse en un plazo de hasta cuarenta y cinco días hábiles.
 
 2. Si las comisiones de Gobernación y de Desarrollo Municipal resuelven que la queja o denuncia no debe atenderse, deben proponer dictamen de acuerdo legislativo en tal sentido para que sea la Asamblea la que resuelva lo conducente.
 
@@ -3230,6 +3388,10 @@ REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2012)
 ###### Artículo 228.
 
 1. Las comisiones de Gobernación y de Desarrollo Municipal actúan como instancias instructoras del Congreso del Estado, las cuales sustancian la causa, se allegan y reciben información, argumentos, declaraciones, reconocimientos y en general todas las pruebas necesarias y desahogan las mismas para el esclarecimiento de la verdad.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+2. En cualquier tiempo las comisiones señaladas en este artículo pueden recabar información o hacer los requerimientos que consideren pertinentes para el mayor esclarecimiento de los hechos.
 
 > <small>(REFORMADO, P.O. 6 DE SEPTIEMBRE DE 2012)</small>
 
@@ -3351,7 +3513,9 @@ II. Un secretario;
 
 III. Un Tesorero; y
 
-III (SIC). Un vocal por cada delegación o agencia municipal que se pretenda su incorporación al nuevo municipio.
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+IV. Un Vocal por cada delegación o agencia municipal que se pretenda su incorporación al nuevo municipio.
 
 2. Por cada propietario se deberá designar un suplente.
 
@@ -3551,9 +3715,13 @@ I. Municipios colindantes del pretendido nuevo municipio;
 
 II. Secretaría General de Gobierno;
 
-III. Secretaría de Promoción Económica;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-IV. Secretaría de Medio Ambiente para el Desarrollo Sustentable;
+III. Secretaría de Desarrollo Económico;
+
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+IV. Secretaría de Medio Ambiente y Desarrollo Territorial;
 
 V. Consejo Estatal de Población del Estado de Jalisco, y
 
@@ -4222,3 +4390,21 @@ Vigésimo. La implementación del nuevo Sistema Penal Acusatorio para los delito
 P.O. 17 DE DICIEMBRE DE 2015.
 
 ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el periódico oficial El Estado de Jalisco.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+PRIMERO. El presente decreto entrará (sic) vigor al siguiente día de su aprobación.
+
+SEGUNDO. Publíquese en el Periódico Oficial "El Estado de Jalisco".
+
+TERCERO. El artículo 70 de la Ley Orgánica del Poder Legislativo del Estado de Jalisco entrará en vigor a los treinta días de la publicación del presente decreto.
+
+CUARTO. Las disposiciones que hacen referencia a la consulta ciudadana contenidas en los artículos 115 párrafo 3 de la Ley Orgánica del Poder Legislativo, así como 94 N y 94 O de su reglamento, entrarán en vigor 60 días después de su aprobación y se sujetará a las siguientes reglas:
+
+I. Se instruye a la Dirección de Apoyo Informático elabore la página electrónica "Congreso Jalisco Abierto", en los términos del presente decreto;
+
+II. Se instruye a la Dirección de Comunicación Social para que de a conocer la nueva herramienta legislativa de interacción ciudadana; y
+
+III. Se instruye a la Secretaría General para que semestralmente haga una evaluación de la página electrónica "Congreso Jalisco Abierto" y, en su caso, proponga a la Junta de Coordinación Política otras herramientas derivadas de las tecnologías de la información.
+
+QUINTO. Los asuntos pendientes de resolver por las comisiones de Ciencia y Tecnología, para el Desarrollo Humano y la Familia, Equidad de Género, Participación Ciudadana y Acceso a la Información Pública, Readaptación Social y Vialidad, Transporte y Comunicaciones deben ser remitidos a las comisiones de Innovación, Ciencia y Tecnología, Familia, Desarrollo Humano e Integración Social, Igualdad de Género, Participación Ciudadana, Transparencia y Acceso a la Información Pública, de Readaptación y Reinserción Social y de Movilidad y Transporte, respectivamente, para continuar su trámite y concluirse, observando las disposiciones de esta ley.
