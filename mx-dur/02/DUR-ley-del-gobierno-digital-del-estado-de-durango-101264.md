@@ -4,7 +4,7 @@ identifier: "DUR-ley-del-gobierno-digital-del-estado-de-durango-101264"
 country: "mx"
 rank: "ley"
 publication_date: "2014-02-16"
-last_updated: "2014-02-16"
+last_updated: "2015-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101264&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "DUR"
 
 LEY DEL GOBIERNO DIGITAL DEL ESTADO DE DURANGO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO PRIMERO TRANSITORIO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR UN AÑO DOS MESES POSTERIORES A LA FECHA DE SU PUBLICACIÓN.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Ley publicada en Periódico Oficial del Estado de Durango, el domingo 16 de febrero de 2014.
 
@@ -53,9 +51,11 @@ LEY DEL GOBIERNO DIGITAL DEL ESTADO DE DURANGO
 
 ### CAPÍTULO I. Disposiciones Generales
 
+> <small>(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 1.
 
-La presente Ley es de orden público y observancia general en el territorio de Durango, y tiene por objeto:
+La presente Ley es de orden público y de observancia general en el territorio de Durango, conforme a lo establecido en el artículo 30 de la Constitución Política del Estado Libre y Soberano de Durango, y tiene por objeto:
 
 I.- Fomentar y consolidar en el Estado de Durango el uso y aprovechamiento estratégico de las Tecnologías de la Información, a fin de consolidar un gobierno digital para una mayor integración y desarrollo de la sociedad; y
 
@@ -103,7 +103,9 @@ IV. Comisión: A la Comisión Estatal de Gobierno Digital de Durango.
 
 V. Comité: El Comité de Desarrollo Tecnológico de Durango.
 
-VI. Contraloría: La Secretaría de la Contraloría y Modernización Administrativa del Estado;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+VI. Contraloría: La Secretaría de Contraloría.
 
 VII. Datos personales: Los que se definen en la Ley de Transparencia y Acceso a la Información Pública de Durango.
 
@@ -568,3 +570,17 @@ C. P. JORGE HERRERA CALDERA
 EL SECRETARIO GENERAL DE GOBIERNO
 
 PROFR. JAIME FERNÁNDEZ SARACHO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 468.- QUE CONTIENE REFORMAS A DIVERSOS ARTÍCULOS DE LA LEY DEL GOBIERNO DIGITAL DEL ESTADO DE DURANGO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan a las previstas en el presente Decreto.
