@@ -4,7 +4,7 @@ identifier: "HID-ley-de-control-vehicular-para-el-estado-de-hidalgo-97915"
 country: "mx"
 rank: "ley"
 publication_date: "2013-12-31"
-last_updated: "2015-04-06"
+last_updated: "2015-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97915&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "HID"
 
 LEY DE CONTROL VEHICULAR PARA EL ESTADO DE HIDALGO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE DICIEMBRE DE 2014.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 6 DE ABRIL DE 2015 NO APLICA AL ARTICULADO DEL DECRETO 309 PUBLICADO EN EL P.O. DE 22 DE DICIEMBRE DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Alcance del Periódico Oficial del Estado de Hidalgo, el martes 31 de diciembre de 2013.
 
@@ -647,6 +645,12 @@ En todos los casos de remoción de placas metálicas la autoridad entregará el 
 
 Las autoridades que remuevan placas metálicas en términos del presente artículo, deberán remitirlas a la Secretaría en un plazo no mayor a 5 días hábiles, contados a partir del día siguiente en que se proceda a su remoción.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Artículo 40 BIS. En todos los casos de remoción de placas a que se refiere el artículo 40 de la presente Ley se procederá también a la remoción de la tarjeta de circulación correspondiente.
+
+Con el objeto de evitar el mal uso de los elementos de identificación vehicular que sean removidos o recuperados, la Secretaría procederá a su destrucción de manera inmediata.
+
 ## TÍTULO CUARTO. DEL PROCEDIMIENTO Y RECURSOS
 
 ###### Artículo 41.
@@ -684,3 +688,11 @@ PRIMERO.- El presente Decreto entrará en vigor el día 01 de enero de 2015, pre
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
 
 TERCERO.- Con el propósito de que los Municipios y los prestadores de servicio cuenten con un plazo perentorio para el cumplimiento de lo dispuesto en el artículo 5° de este Decreto, con relación al Derecho de Alumbrado Público, las disposiciones contenidas en él, entrarán en vigor hasta el 1° de julio del año 2015.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM. 508 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE ENTIDADES PARAESTATALES PARA EL ESTADO DE HIDALGO, DE LA LEY DE CONTROL VEHICULAR PARA EL ESTADO DE HIDALGO; DE LA LEY DE ASENTAMIENTOS HUMANOS, DESARROLLO URBANO Y ORDENAMIENTO TERRITORIAL DEL ESTADO DE HIDALGO Y DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor el primero de enero del año 2016, previa su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente decreto.
