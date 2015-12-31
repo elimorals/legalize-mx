@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-del-registro-civil-del-estado-de-baja-california-691
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-06-20"
-last_updated: "2009-12-31"
+last_updated: "2015-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCS"
 
 REGLAMENTO DEL REGISTRO CIVIL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 31 DE DICIEMBRE DE 2009.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO DEL REGISTRO CIVIL DEL ESTADO DE BAJA CALIFORNIA SUR, PUBLICADO EN EL B.O. DE 31 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2015 (ABROGADO).
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el sábado 20 de junio de 2009.
 
@@ -859,8 +861,24 @@ EL SECRETARIO GENERAL DE GOBIERNO.
 
 T. C. C. LUIS ARMANDO DIAZ.
 
-N. DE E.: A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.
+N. DE E.: A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.
 
 B.O. 31 DE DICIEMBRE DE 2009.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno de Baja California Sur.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DEL REGISTRO CIVIL DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+###### ARTÍCULO PRIMERO
+
+El presente Reglamento entra en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+###### ARTÍCULO SEGUNDO
+
+Se abroga el Reglamento del Registro Civil del Estado de Baja California Sur, publicado en el Boletín Oficial del Gobierno del Estado número 27 de fecha 20 de junio del año 2009, así como sus posteriores reformas.
+
+###### ARTÍCULO TERCERO.
+
+En tanto se expiden los nuevos acuerdos mediante los cuales se crean las Oficialías del Registro Civil, continuarán vigentes los acuerdos de creación, así como las Oficialías del Registro Civil que en ellos se hubiesen creado, que hayan sido publicados en el Boletín Oficial del Gobierno del Estado de Baja California Sur, con anterioridad a la entrada en vigor del presente Reglamento.
