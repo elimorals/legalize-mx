@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-coordinacion-fiscal-del-estado-de-baja-california-sur-47
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-20"
-last_updated: "2015-12-20"
+last_updated: "2015-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "BCS"
 ---
 # LEY DE COORDINACION FISCAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE ENERO DE 2016 EN EL B.O. DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 20 de diciembre de 2005.
 
@@ -301,7 +299,9 @@ El Congreso del Estado, a través del Órgano Superior de Fiscalización, será 
 
 De las cantidades que el Estado perciba por concepto del Impuesto sobre nómina, conforme al artículo 40 de la ley de Hacienda del Estado, corresponderá a los Municipios el 37.6%, mismo que a su vez se distribuirá en los porcentajes establecidos para la distribución del Fondo de Fomento Municipal, de conformidad a lo previsto en el Artículo 6 de esta Ley.
 
-Los municipios deberán destinar estos recursos exclusivamente a obras de infraestructura social.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2015)</small>
+
+Los Municipios deberán destinar estos recursos exclusivamente a obras de infraestructura social y/o al pago de Alumbrado Público.
 
 > <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2011)</small>
 
@@ -546,3 +546,11 @@ XIII. Reposición por robo o extravío de licencia de manejo.
 TERCERO.- Corresponderá a la Secretaría de Finanzas y Administración determinar el importe a descontar por concepto del costo administrativo de la recaudación a que se refiere el artículo 16 Bis de la Ley de Coordinación Fiscal del Estado de Baja California Sur conforme a las reglas que para tal efecto emita la propia Secretaría.
 
 CUARTO.- Los derechos de los trabajadores que laboran actualmente en las dependencias de control vehicular, registro civil, registro público de la propiedad y del comercio se respetarán conforme a la Ley. Los trabajadores de estas dependencias tendrán la opción de escoger de manera libre y voluntaria si es su deseo seguir perteneciendo laboralmente al ámbito municipal o ser transferidos al ámbito estatal con pleno respeto de sus derechos laborales adquiridos.
+
+B.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 2323.- SE REFORMA EL PÁRRAFO ÚNICO Y LA FRACCIÓN II DEL ARTÍCULO 40 DE LA LEY DE HACIENDA; Y EL PÁRRAFO SEGUNDO DEL ARTÍCULO 14 DE LA LEY DE COORDINACIÓN FISCAL, AMBAS DEL ESTADO DE BAJA CALIFORNIA SUR”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
