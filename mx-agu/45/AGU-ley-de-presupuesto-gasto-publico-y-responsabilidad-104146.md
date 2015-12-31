@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-presupuesto-gasto-publico-y-responsabilidad-104146"
 country: "mx"
 rank: "ley"
 publication_date: "2014-12-31"
-last_updated: "2014-12-31"
+last_updated: "2015-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=104146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PRESUPUESTO, GASTO PÚBLICO Y RESPONSABILIDAD HACENDARIA DEL ESTADO DE AGUASCALIENTES Y SUS MUNICIPIOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el miércoles 31 de diciembre de 2014.
 
@@ -567,9 +567,75 @@ La Secretaría en los casos previstos en el presente artículo, no será respons
 
 La Secretaría podrá realizar Reasignaciones de conformidad con las reglas contenidas en el Presupuesto de Egresos del Estado.
 
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
 ###### Artículo 49.
 
-Los Excedentes Fiscales que correspondan según la Ley de Ingresos del Estado, las economías generadas por las Dependencias del Ejecutivo con motivo del ejercicio eficiente y eficaz del gasto público, el saldo del ejercicio fiscal anterior señalado en la fracción III del Artículo 40 de la Ley, los recursos mencionados en el Artículo 41 de la Ley podrán utilizarse según las reglas contenidas en el Presupuesto de Egresos del Estado.
+Una vez concluido el ejercicio fiscal en el cual se generaron los Excedentes Fiscales que correspondan, según la Ley de Ingresos del Estado, las economías generadas por las Dependencias del Ejecutivo con motivo del ejercicio eficiente y eficaz del gasto público; el saldo del ejercicio fiscal anterior señalado en la Fracción III del Artículo 40 de la Ley; y los recursos mencionados en el Artículo 41 de la Ley, así como de los ingresos excedentes que perciban las Entidades del Ejecutivo respecto de los previstos en la Ley de Ingresos del Estado de dicho ejercicio fiscal, deberán transmitirse por la Secretaría, sin incluir los provenientes de las aportaciones federales y las Reasignaciones por Convenio, al fondo señalado en el Artículo 49 Bis.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 49 Bis.
+
+La Secretaría en su carácter de fideicomitente único de la Administración Pública Centralizada, constituirá, mediante fideicomiso irrevocable, un fondo que permita mayor estabilidad financiera en las finanzas públicas del Gobierno del Estado, que se denominará Fondo de Estabilización, el cual no será considerado como Entidad del Ejecutivo, cuyo patrimonio se integrará con los recursos que provengan:
+
+I.- De los diversos conceptos en los términos del Artículo 49 de la Ley;
+
+II.- De las Entidades del Ejecutivo en los términos del Artículo 41 de la Ley, así como por los ingresos excedentes que perciban respecto de los previstos en la Ley de Ingresos del Estado del ejercicio fiscal correspondiente. Quedan exceptuados los ingresos excedentes que obtengan los fideicomisos públicos considerados como Entidades del Ejecutivo, cuya naturaleza sea el desarrollo inmobiliario o económico;
+
+III.- De los Ingresos que obtenga el Fideicomiso de Inversión y Administración para el Desarrollo Económico del Estado de Aguascalientes por la enajenación de inmuebles; y
+
+IV.- Del ejercicio de los derechos que como fideicomisario tiene el Gobierno del Estado en los fideicomisos públicos considerados como Entidades del Ejecutivo, que no se encuentren previstos en la Ley de Ingresos del Estado del ejercicio fiscal correspondiente.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 49 Ter.
+
+El fin principal del Fondo de Estabilización, será distribuir su patrimonio para permitir una mayor estabilidad financiera en las finanzas públicas del Gobierno del Estado, debiendo preverse en el contrato de fideicomiso lo siguiente:
+
+I.- Con los recursos señalados en el Artículo 49 Bis, la creación de una cuenta específica para compensar y darle cobertura a los ingresos del Gobierno del Estado ante caídas del ejercicio fiscal correspondiente, derivadas de menores entregas del:
+
+a) Fondo General de Participaciones que se transmitan al Gobierno del Estado, excluyendo aquellas a distribuirse entre los Municipios, de conformidad con el calendario de entrega, porcentaje, fórmulas y variables utilizadas, así como los montos estimados que recibirá cada entidad federativa de dicho Fondo General que publica para cada ejercicio fiscal la Secretaría de Hacienda y Crédito Público en el Diario Oficial de la Federación, en cumplimiento de lo dispuesto por el Artículo 3° la (sic) Ley de Coordinación Fiscal; y
+
+b) Fondo de Estabilización de los Ingresos de las Entidades Federativas, de conformidad con el Artículo 21 de la Ley Federal de Presupuesto y Responsabilidad Hacendaria.
+
+Se considerará que existen caídas en los ingresos, cuando las entregas trimestrales del Fondo General de Participaciones al Gobierno del Estado y las provenientes del Fondo de Estabilización de los Ingresos de las Entidades Federativas, sean menores a las previstas para el trimestre correspondiente de conformidad con el calendario señalado en el inciso a) de esta Fracción;
+
+II.- La cuenta prevista en la Fracción I de este Artículo, será revolvente y, para cada ejercicio fiscal, procurará alcanzar un saldo objetivo correspondiente al seis punto cincuenta por ciento de la estimación, sin considerar aquellas a distribuirse entre los Municipios, para el Gobierno del Estado de Aguascalientes del Fondo General de Participaciones que publica para cada ejercicio fiscal la Secretaría de Hacienda y Crédito Público en el Diario Oficial de la Federación, en cumplimiento a lo dispuesto por el Artículo 3° de la Ley de Coordinación Fiscal; y
+
+III.- Al tercer trimestre del ejercicio fiscal correspondiente, una vez alcanzado el saldo objetivo habiendo considerado la existencia o no de caídas en los ingresos en los términos del último párrafo de la Fracción I de éste Artículo, con el resto de los recursos patrimoniales, previo el análisis costo-beneficio, se determinará la mejor alternativa de aplicación de los recursos entre:
+
+a) Pagar en forma anticipada la deuda pública del Gobierno del Estado, la prelación de pagos de la deuda pública se definirá con base en el análisis costo-beneficio; o
+
+b) Disponer los recursos para el desarrollo de proyectos cuyo ejercicio del gasto no se encuentre previsto en el Presupuesto de Egresos del Estado del ejercicio fiscal correspondiente, a través de las Dependencias del Ejecutivo y Entidades del Ejecutivo, de obra pública, servicios públicos, infraestructura social, seguridad pública, desarrollo económico o rural, y agroindustriales, así como de aquellos en que participen las Dependencias del Ejecutivo o Entidades del Ejecutivo como contrapartes en convenios con otros órdenes de gobierno y para estímulos en la atracción de inversiones de gran magnitud y generación de empleos a gran escala en los términos del Presupuesto de Egresos del Estado del ejercicio fiscal correspondiente.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 49 Quater.
+
+El Fondo de Estabilización contará con un Comité Técnico, el cual se integrará con servidores públicos y con un miembro independiente, este último designado por los miembros de ese cuerpo colegiado.
+
+Los servidores públicos miembros del Comité Técnico, no recibirán contraprestación alguna por el desempeño de este cargo y la correspondiente al miembro independiente, será determinada por los miembros del propio Comité Técnico.
+
+Las demás formalidades para la constitución y funcionamiento del Comité Técnico serán establecidas en el contrato de fideicomiso del Fondo de Estabilización.
+
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 49 Quinquies.
+
+El Comité Técnico tendrá entre sus principales atribuciones:
+
+l.- Aprobar en el primer bimestre de cada ejercicio fiscal, el monto del saldo objetivo en los términos de la Fracción II del Artículo 49 Ter;
+
+II.- Una vez obtenido el monto del saldo objetivo, ante sus disminuciones, autorizar con los excedentes existentes, la reposición hasta donde alcance, del saldo objetivo en la cuenta específica;
+
+III.- A propuesta del Presidente del Comité Técnico, determinar en cada trimestre del ejercicio fiscal correspondiente, la existencia o no de caídas en los ingresos, de conformidad con lo dispuesto en el último párrafo de la Fracción I del Artículo 49 Ter;
+
+IV.- En caso de existir caída en los ingresos, autorizar el retiro de la cuenta específica para entregar a la Secretaría, la cantidad existente para compensar la caída; y
+
+V.- En el tercer trimestre del ejercicio fiscal correspondiente, aprobar la distribución de los recursos del Fondo de Estabilización en los términos del artículo 49 Ter, así como seleccionar los proyectos señalados en el inciso b) de la Fracción III de dicho artículo.
+
+Se considerarán válidas las sesiones, así como los acuerdos tomados por el Comité Técnico, cuando asistan por lo menos la mitad más uno de los integrantes, debiendo estar siempre presente su Presidente y el miembro independiente.
 
 ###### Artículo 50.
 
@@ -864,3 +930,15 @@ Dip. Oswaldo Rodríguez García,
 SEGUNDO SECRETARIO.
 
 En cumplimiento de lo dispuesto por la fracción I del Artículo 46 de la Constitución Política del Estado de Aguascalientes y para su debida publicación y observancia, promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 29 de diciembre de 2014.- Carlos Lozano de la Torre.- Rúbrica.- El Jefe de Gabinete, Antonio Javier Aguilera García.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los recursos que reciba la Secretaría de Finanzas del Estado, en términos del Artículo 49 Bis deberán ser aportados al "Fondo de Estabilización" una vez constituido el mismo.
