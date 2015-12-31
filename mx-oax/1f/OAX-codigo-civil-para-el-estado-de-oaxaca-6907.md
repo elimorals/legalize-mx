@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2015-08-26"
+last_updated: "2015-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -747,7 +747,7 @@ Al escrito a que se refiere el Artículo anterior se acompañarán:
 
 I. Copia Certificada del Acta de Nacimiento o de algún documento expedido por Autoridad competente por el que se acredite la mayoría de edad e identidad, de cada uno de los pretendientes;
 
-II. La constancia de que prestan su consentimiento para que el matrimonio se celebre, las personas a que se refieren los Artículos 148, 149 y 150 de este mismo Código;
+II. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2015)
 
 III. La declaración de dos testigos mayores de edad que conozcan a los pretendientes y les conste que no tienen impedimento legal para casarse. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos;
 
@@ -760,6 +760,14 @@ Si de acuerdo con lo dispuesto en el artículo 200 fuera necesario que las capit
 VI. Copia certificada del acta de defunción del cónyuge fallecido, si alguno de los contrayentes es viudo, o de la parte resolutiva de la sentencia definitiva de divorcio, o de nulidad del Matrimonio, en caso de que alguno de los pretendientes hubiere sido casado anteriormente;
 
 VII. Copia certificada de la dispensa de impedimento, si lo hubo.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+VIII. La declaración de ambos contrayentes de no haber sido acusados o sentenciados por violencia familiar.
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+IX. En caso de que alguno de los contrayentes haya sido acusado o sentenciado por violencia familiar, será necesario que su pareja entregue al Juez una declaración en la que exprese que está consciente de la situación y que pese a ello, mantiene su voluntad de contraer matrimonio.
 
 > <small>(REFORMADO, P.O. 20 DE FEBRERO DE 1982)</small>
 
@@ -795,11 +803,15 @@ Se levantará luego el acta de matrimonio en la cual se hará constar:
 
 I. Los nombres, apellidos, edad, ocupación, nacionalidad y lugar de nacimiento de los contrayentes;
 
-II. Si son mayores o menores de edad;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+II. La edad de los contrayentes.
 
 III. Los nombres, apellidos y domicilio de los padres;
 
-IV. El consentimiento de éstos, de los abuelos o tutores, o el de las autoridades que deban suplirlos si son menores de edad los contrayentes;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+IV. El consentimiento de los contrayentes
 
 V. Que no hubo impedimento para el matrimonio o que éste se dispensó;
 
@@ -1151,17 +1163,13 @@ Para contraer matrimonio, tanto el hombre como la mujer necesitan haber cumplido
 
 (DEROGADO, P.O. 20 DE DICIEMBRE DE 2013)
 
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
-
 ###### Artículo 151.
 
-Cuando los interesados tengan dieciséis años o más, pero menos de dieciocho años de edad, por medio de sus representantes legítimos podrán ocurrir (sic) ante el Juez competente, quien podrá otorgar la dispensa de edad por causas graves y justificadas, en la forma que determine el Código de Procedimientos Civiles. De lo anterior, se dará al Ministerio Público la intervención que a su representación corresponda.
-
-> <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 152.
 
-Si el Juez en el caso del artículo anterior, se niega a suplir el consentimiento para que se celebre el matrimonio, los interesados ocurrirán a la Sala Familiar del Tribunal Superior de Justicia del Estado, en los términos que disponga el Código de Procedimientos Civiles.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 153.
 
@@ -1173,13 +1181,15 @@ Si el Juez en el caso del artículo anterior, se niega a suplir el consentimient
 
 ###### Artículo 155.
 
-El juez que hubiere autorizado a un menor para contraer matrimonio, no podrá revocar el consentimiento, una vez que lo haya otorgado, sino por justa causa superveniente.
+(DEROGADO, P.O. 31 DE DICIEMBRE DE 2015)
 
 ###### Artículo 156.
 
 Son impedimentos para celebrar el contrato de matrimonio:
 
-I. La falta de edad requerida por la ley, cuando no haya sido dispensada;
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+I. La falta de edad requerida por la ley.
 
 > <small>(REFORMADO, P.O. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -1205,7 +1215,9 @@ IX. Padecer alguno de los estados de incapacidad a que se refiere la Fracción I
 
 X. El matrimonio subsistente con persona distinta de aquella con quien se pretende contraer.
 
-De estos impedimentos sólo son dispensables la falta de edad y el parentesco en línea colateral desigual.
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+De estos impedimentos sólo es dispensable el parentesco en línea colateral desigual.
 
 ###### Artículo 157.
 
@@ -15874,3 +15886,9 @@ P.O. 24 DE AGOSTO DE 2015.
 P.O. 26 DE AGOSTO DE 2015.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 1373.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA”.]
+
+UNICO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
