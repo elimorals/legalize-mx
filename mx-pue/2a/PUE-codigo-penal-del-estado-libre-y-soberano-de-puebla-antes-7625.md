@@ -4,7 +4,7 @@ identifier: "PUE-codigo-penal-del-estado-libre-y-soberano-de-puebla-antes-7625"
 country: "mx"
 rank: "codigo"
 publication_date: "1986-12-23"
-last_updated: "2015-10-22"
+last_updated: "2015-12-31"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Puebla, el martes 23 de diciembre de 1986.
 
@@ -3171,7 +3171,7 @@ Si el falsario hiciere uso de los documentos u objetos falsos que se detallan en
 
 #### SECCION TERCERA.- VIOLACION
 
-> <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 1998)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 260.
 
@@ -3231,7 +3231,7 @@ No se procederá contra el estuprador, sino por queja del ofendido, de sus padre
 
 ###### Artículo 267.
 
-Al que por medio de la violencia física o moral tuviere cópula con una persona sea cual fuere su sexo, se le aplicarán de seis a veinte años de prisión y multa de cincuenta a quinientos días de salario.
+Al que por medio de la violencia física o moral tuviere cópula con una persona sea cual fuere su sexo, se le aplicarán de ocho a veinte años de prisión y multa de cincuenta a quinientos días de salario.
 
 > <small>(REFORMADO, P.O. 30 DE DICIEMBRE DE 2013)</small>
 
@@ -3311,9 +3311,9 @@ II.- La cópula con persona menor de doce años de edad; y
 
 III.- La introducción en una persona, por vía anal o vaginal, de cualquier objeto distinto al miembro viril, usando violencia física o moral.
 
-> <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2000)</small>
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-En los casos previstos en las fracciones I y II, se impondrá al autor del delito, de ocho a cuarenta años de prisión y multa de ciento veinte a mil doscientos días de salario. En el caso de la fracción III la sanción será la establecida en el artículo 267.
+En los casos previstos en las fracciones I y II, se impondrá al autor del delito, de diez a cuarenta años de prisión y multa de ciento veinte a mil doscientos días de salario. En el caso de la fracción III la sanción será la establecida en el artículo 267 de este ordenamiento legal.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE SECCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4135,6 +4135,12 @@ Además de las sanciones descritas en el artículo anterior, el sujeto activo pe
 
 Además de las penas aplicables por el concurso real, si la víctima se encuentra embarazada, el delito de Feminicidio se sancionará con una pena de cincuenta a setenta años de prisión.
 
+> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+###### Artículo 338 Quinquies.
+
+Se presumirá que hay tentativa de feminicidio cuando las lesiones dolosas previstas en los artículos 306 fracción II, y 307, ocasionadas a una mujer, tengan algún precedente de violencia contemplada en esos artículos o en los artículos 284 Bis y 284 Ter respecto del mismo agresor.
+
 #### SECCION TERCERA.- INCUMPLIMIENTO DE LA OBLIGACIÓN ALIMENTARIA
 
 > <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
@@ -4611,13 +4617,17 @@ XXII.- Cuando recaiga sobre documentos que se conserven en oficinas públicas, c
 
 XXIII.- Cuando se cometa en una oficina bancaria, recaudadora u otra en que se conserven caudales o valores, o contra personas que las custodien o transporten;
 
-> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-XXIV.- Cuando se cometa en contra de persona con discapacidad o de más de sesenta años de edad; y
+XXIV.- Cuando se cometa en contra de persona con discapacidad o de más de sesenta años de edad;
 
-> <small>(ADICIONADA, P.O. 27 DE JULIO DE 2012)</small>
+> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
-XXV.- Por quien haya sido o sea personal de empresas que presten servicios de seguridad privada, aunque no esté en servicio.
+XXV.- Por quien haya sido o sea personal de empresas que presten servicios de seguridad privada, aunque no esté en servicio, y
+
+> <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2015)</small>
+
+XXVI.- Cuando se cometa dentro de instituciones educativas y sean sustraídos bienes muebles destinados a dichas actividades.
 
 > <small>(ADICIONADO, P.O. 4 DE ENERO DE 2012)</small>
 
@@ -6286,6 +6296,30 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 P.O. 22 DE OCTUBRE DE 2015.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+DECRETO POR EL QUE SE REFORMAN LAS FRACCIONES XXIV Y XXV, Y SE ADICIONA LA FRACCIÓN XXVI, TODAS DEL ARTÍCULO 380 DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+DECRETO POR EL QUE SE ADICIONA EL ARTÍCULO 338 QUINQUIES AL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA EL PRIMER PÁRRAFO DEL ARTÍCULO 267 Y EL SEGUNDO PÁRRAFO DEL ARTÍCULO 272, AMBOS DEL CÓDIGO PENAL DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
 
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
