@@ -4,7 +4,7 @@ identifier: "HID-ley-organica-de-la-universidad-autonoma-del-estado-de-15269"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1977-05-01"
-last_updated: "2010-06-07"
+last_updated: "2015-12-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15269&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "HID"
 ---
 # LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DEL ESTADO DE HIDALGO
 
-LEY ORGANICA DE LA UNIVERSIDAD AUTONOMA DEL ESTADO DE HIDALGO
+LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DEL ESTADO DE HIDALGO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 7 DE JUNIO DE 2010.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DEL ESTADO DE HIDALGO, PUBLICADA EN EL P.O. DE 31 DE DICIEMBRE DE 2015, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015 (ABROGADA).
 
 Ley publicada en el Folleto Especial del Periódico Oficial del Estado de Hidalgo, el domingo 1 de mayo de 1977.
 
@@ -112,8 +114,6 @@ Son Consejeros ex-oficio, con voz y voto:
 I.- El Rector de la Universidad.
 
 II.- Los Directores de institutos o escuelas dependientes de la Universidad
-
-.
 
 III.- El Directivo alumno de más alta jerarquía de la agrupación que afilie a la mayoría de los estudiantes de la Universidad.
 
@@ -447,7 +447,7 @@ Por tanto, mando se imprima, publique y circule, para su debido cumplimientos.
 
 DADO en el Palacio del Poder Ejecutivo en la Ciudad de Pachuca de Soto, Hidalgo, a los treinta días del mes de marzo de mil novecientos setenta y siete.- El Gobernador Constitucional Interino del Estado, LIC. JOSE LUIS SUAREZ MOLINA.- El Secretario de Gobierno, LIC. FERNANDO LUGO VERDUZCO.- Rúbricas.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 7 DE JUNIO DE 2010.
 
@@ -458,3 +458,13 @@ SEGUNDO.- Por única vez el mandato del Rector en funciones, tendrá una duraci�
 TERCERO.- Los Directores de los Institutos y las Escuelas en funciones, dependientes de la Universidad, concluirán su mandato dentro de los tres meses siguientes a la elección de Rector, conforme a este Decreto, para proceder en los términos a la renovación de dichos cargos, dentro de los tres meses posteriores a la elección del Rector.
 
 CUARTO.- Se derogan las disposiciones que contravengan lo dispuesto en el presente Decreto.
+
+P.O. 31 DE DICIEMBRE DE 2015.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 638 QUE CONTIENE LA LEY ORGÁNICA DE LA UNIVERSIDAD AUTÓNOMA DEL ESTADO DE HIDALGO”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
+
+SEGUNDO. Se abroga la Ley Orgánica de la Universidad Autónoma del Estado de Hidalgo del 29 de marzo de 1977 que fue posteriormente sancionada por el Ejecutivo del Estado y publicada el 1 de mayo del mismo año, así como todas las disposiciones que se opongan al contenido de la presente Ley.
+
+TERCERO. Las actuales autoridades universitarias encargadas de la administración del patrimonio de la Universidad continuarán ejerciendo sus funciones de la manera habitual hasta que se conforme el Patronato de acuerdo con los términos dispuestos en la presente Ley.
