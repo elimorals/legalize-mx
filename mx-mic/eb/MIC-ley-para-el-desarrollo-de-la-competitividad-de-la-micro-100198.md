@@ -4,7 +4,7 @@ identifier: "MIC-ley-para-el-desarrollo-de-la-competitividad-de-la-micro-100198"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-27"
-last_updated: "2014-03-27"
+last_updated: "2016-01-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100198&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA DEL ESTADO DE MICHOACÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ENERO DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Michoacán, el jueves 27 de marzo de 2014.
 
@@ -45,9 +45,11 @@ LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPR
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2016)</small>
+
 ###### ARTÍCULO 1.
 
-La presente Ley es de orden público e interés social y tiene por objeto, fomentar la creación de las micro, pequeñas y medianas empresas y el apoyo para su viabilidad, productividad, competitividad y sustentabilidad, a través de una política que establezca, programas, acciones y objetivos.
+La presente Ley es de orden público e interés social y tiene por objeto, fomentar la creación de las micro, pequeñas y medianas empresas, así como impulsar la creación de incubadoras de negocios en los centros de educación media superior y superior, que faciliten el establecimiento de empresas formales y competitivas, y brindar el apoyo para su viabilidad, productividad, competitividad y sustentabilidad, a través de una política que establezca, programas, acciones y objetivos.
 
 ###### ARTÍCULO 2.
 
@@ -75,27 +77,31 @@ VI. Consejo: El Consejo Estatal para la Competitividad de la Micro, Pequeña y M
 
 VII. Consultoría: Servicio empresarial que consiste en la transferencia de conocimientos, metodologías y aplicaciones, con la finalidad de mejorar los procesos de la empresa que recibe la atención;
 
-VIII. Ley: La Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa del Estado de Michoacán;
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2016)</small>
 
-IX. Mediana empresa: La unidad económica que cuenta para el desarrollo de su actividad de 31 a 100 empleados en el caso de actividad comercial, de 51 a 100 empleados en el caso de servicios y de 51 a 250 empleados en el caso de la industria;
+VIII. Incubadora: Centro de apoyo que brinda asesorías especializadas para evaluar una idea de negocio y lograr que se convierta en una empresa formal;
 
-X. Micro empresa: La unidad económica que para el desarrollo de su actividad cuenta hasta con 10 empleados en el caso de actividad comercial, de servicios e industria;
+IX. Ley: La Ley para el Desarrollo de la Competitividad de la Micro, Pequeña y Mediana Empresa del Estado de Michoacán;
 
-XI. MIPYMES: Micro, pequeñas y medianas empresas, legalmente constituidas, con base en la estratificación establecida por la Secretaría, de común acuerdo con la Secretaría de Hacienda y Crédito Público;
+X. Mediana empresa: La unidad económica que cuenta para el desarrollo de su actividad de 31 a 100 empleados en el caso de actividad comercial, de 51 a 100 empleados en el caso de servicios y de 51 a 250 empleados en el caso de la industria;
 
-XII. Organizaciones Empresariales: Las cámaras empresariales y sus confederaciones en su carácter de organismos de interés público, así como las asociaciones, instituciones y agrupamientos que representen a las MIPYMES como interlocutores ante el Estado y los municipios;
+XI. Micro empresa: La unidad económica que para el desarrollo de su actividad cuenta hasta con 10 empleados en el caso de actividad comercial, de servicios e industria;
 
-XIII. Pequeña empresa: La unidad económica que cuenta para el desarrollo de su actividad de 11 a 30 empleados en el caso de actividad comercial, de 11 a 50 empleados en el caso de servicios e industria;
+XII. MIPYMES: Micro, pequeñas y medianas empresas, legalmente constituidas, con base en la estratificación establecida por la Secretaría, de común acuerdo con la Secretaría de Hacienda y Crédito Público;
 
-XIV. Programas: Esquemas para la ejecución de acciones y participación del gobierno del Estado y de los Municipios;
+XIII. Organizaciones Empresariales: Las cámaras empresariales y sus confederaciones en su carácter de organismos de interés público, así como las asociaciones, instituciones y agrupamientos que representen a las MIPYMES como interlocutores ante el Estado y los municipios;
 
-XV. Sectores: Los sectores privado, social, del conocimiento y educativo;
+XIV. Pequeña empresa: La unidad económica que cuenta para el desarrollo de su actividad de 11 a 30 empleados en el caso de actividad comercial, de 11 a 50 empleados en el caso de servicios e industria;
 
-XVI. Sector Público: Dependencias y Entidades de la Administración Pública Estatal y Municipal;
+XV. Programas: Esquemas para la ejecución de acciones y participación del gobierno del Estado y de los Municipios;
 
-XVII. Reglamento: El Reglamento de esta Ley; y,
+XVI. Sectores: Los sectores privado, social, del conocimiento y educativo;
 
-XVIII. Secretaría: La Secretaría de Desarrollo Económico; (sic)
+XVII. Sector Público: Dependencias y Entidades de la Administración Pública Estatal y Municipal;
+
+XVIII. Reglamento: El Reglamento de esta Ley; y,
+
+XIX. Secretaría: La Secretaría de Desarrollo Económico;
 
 ###### ARTÍCULO 5.
 
@@ -203,13 +209,17 @@ XIII. Proponer a través de las instancias competentes, la homologación de la n
 
 XIV. Diseñar un esquema de seguimiento e identificación de resultados de los programas de apoyo establecidos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2016)</small>
+
 ###### ARTÍCULO 9.
 
-La Secretaría promoverá la participación del Sector Público y Privado y de los Municipios a través de convenios que celebre, de acuerdo a:
+La Secretaría deberá promover la participación de los Ayuntamientos, así como de los sectores público, social y privado, a través de convenios o cualquier otro instrumento legal para:
 
 I. La formación de una cultura empresarial enfocada al desarrollo de la competitividad en las MIPYMES a través de la detección de necesidades en Capacitación, Asesoría y Consultoría;
 
-II. El fomento a la constitución de incubadoras de empresas, y a la iniciativa y creatividad de los emprendedores;
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2016)</small>
+
+II. El fomento a la constitución de incubadoras de empresas, y a la iniciativa y creatividad de los emprendedores de los sectores social, privado, educativo medio superior y superior;
 
 III. La formación de especialistas en Consultoría y Capacitación;
 
@@ -233,7 +243,9 @@ XII. La ejecución y evaluación de una estrategia para generar las condiciones 
 
 XIII. Un entorno favorable para la creación, desarrollo y crecimiento con calidad de las MIPYMES considerando las necesidades, el potencial y vocación de cada región;
 
-XIV. La celebración de acuerdos con las dependencias y entidades de la Administración Pública Estatal, los Municipios o grupos de Municipios, para una promoción coordinada de las acciones de fomento para la competitividad de las MIPYMES, que desarrollen las propuestas regionales y la concurrencia de programas y proyectos;
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2016)</small>
+
+XIV. La celebración de acuerdos con las dependencias y entidades de la Administración Pública Estatal, las instituciones públicas y privadas de educación media superior y superior, los Ayuntamientos o grupos de Ayuntamientos, para una promoción coordinada de las acciones de fomento para la competitividad de las MIPYMES, que desarrollen las propuestas regionales y la concurrencia de programas y proyectos;
 
 XV. Participar en el desarrollo de un sistema general de información y consulta para la planeación sobre los sectores productivos y cadenas productivas;
 
@@ -273,7 +285,9 @@ I. Capacitación y formación empresarial, así como de asesoría y consultoría
 
 II. Procesos de certificación de calidad y competitividad para las MIPYMES, de acuerdo a su actividad económica;
 
-III. Fomento para la constitución de incubadoras de empresas y formación de emprendedores;
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2016)</small>
+
+III. El fomento para la constitución de incubadoras de empresas y formación de emprendedores de los sectores social, privado, educativo medio superior y superior;
 
 IV. Formación, integración y apoyo a las cadenas productivas, agrupamientos empresariales y vocaciones productivas locales y regionales;
 
@@ -379,7 +393,9 @@ II. Evaluar anualmente los mecanismos, programas y acciones de la política para
 
 III. Desarrollar mecanismos para que las MIPYMES reciban consultoría y capacitación en áreas de comercialización y mercadeo, tecnología y procesos de producción, diseño de producto y financiamiento, así como en materia de normalización y certificación;
 
-IV. Fomentar la constitución de incubadoras de empresas, y la iniciativa y creatividad de los emprendedores;
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2016)</small>
+
+IV. Fomentar la constitución de incubadoras de empresas, y la iniciativa y creatividad de los emprendedores de los sectores social, privado, educativo medio superior y superior;
 
 V. Procurar la formación de especialistas en consultoría y capacitación;
 
@@ -393,11 +409,21 @@ IX. Estimular la integración y eficiencia de las cadenas productivas, con la pa
 
 X. Formular mecanismos y estrategias de promoción a la exportación directa e indirecta de las MIPYMES;
 
-XI. Impulsar esquemas que faciliten el acceso al financiamiento de las MIPYMES;
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2016)</small>
 
-XII. Instituir los premios estatales que reconozcan la competitividad de las MIPYMES en los términos que él mismo determine; y,
+XI. Impulsar esquemas que faciliten el acceso al financiamiento de las MIPYMES, y de las empresas constituidas como resultado de los programas de incubadoras de empresas en las instituciones públicas y privadas de educación media superior y superior;
 
-XIII. Proponer los incentivos necesarios que permitan potencializar la competitividad de las MIPYMES.
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2016)</small>
+
+XII. Instituir los premios estatales y que reconozcan la competitividad de las MIPYMES, y de las empresas constituidas como resultado de los programas de incubadoras de empresas en las instituciones públicas y privadas, en los términos que él mismo determine;
+
+> <small>(REFORMADA, P.O. 1 DE ENERO DE 2016)</small>
+
+XIII. Proponer los incentivos necesarios que permitan potencializar la competitividad de las MIPYMES, así como las empresas que surjan de las iniciativas en las instituciones públicas y privadas de educación media superior y superior; y,
+
+> <small>(ADICIONADA, P.O. 1 DE ENERO DE 2016)</small>
+
+XIV. Promover en las instituciones de educación media superior y superior, la incorporación al Registro Nacional de Instituciones y Empresas Científicas y Tecnológicas, del Consejo Nacional de Ciencia y Tecnología, para la continuidad de apoyos a las empresas en temas de investigación científica, desarrollo tecnológico e innovación.
 
 ###### ARTÍCULO 24.
 
@@ -417,9 +443,13 @@ a) De Gestión. Que consistirá en la intervención de la Secretaría ante insta
 
 2. La obtención de asesoría para la solución de problemáticas que inhiben la competitividad de las empresas y afecten su operación.
 
-b) De Desarrollo Empresarial. Que consistirá en apoyos directos a las MIPYMES a través de los programas de fomento enfocados a la:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE ENERO DE 2016)</small>
 
-1. Formación de emprendedores.
+b) De Desarrollo Empresarial. Que consistirá en apoyos directos a las MIPYMES, así como a las empresas surgidas en las instituciones de educación media y educación media superior, a través de los programas de fomento enfocados a la:
+
+> <small>(REFORMADO, P.O. 1 DE ENERO DE 2016)</small>
+
+1. Formación de emprendedores de los sectores social, privado, educativo medio superior y superior.
 
 2. Capacitación, adiestramiento y certificación.
 
@@ -456,6 +486,10 @@ c) Contratación de personas adultas mayores o personas productivas con capacida
 d) Proyectos de consumo y uso de energías renovables no contaminantes, aplicadas al consumo de energía proveniente de fuentes renovables no contaminantes, desarrollo de auditorías de eficiencia energética, así como las demás relacionadas con este tipo de proyectos; y,
 
 e) Contraten e inscriban en régimen de seguridad social, de 5 a más empleados.
+
+> <small>(ADICIONADO, P.O. 1 DE ENERO DE 2016)</small>
+
+f) Su constitución formal como resultado de las incubadoras de negocios en las instituciones de educación media superior y superior.
 
 ###### ARTÍCULO 27.
 
@@ -572,3 +606,13 @@ ATENTAMENTE.- "SUFRAGIO EFECTIVO. NO REELECCIÓN".- PRESIDENTE DE LA MESA DIRECT
 En cumplimiento a lo dispuesto por el artículo 60 fracción I y 65 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo, para su debida publicación y observancia, promulgo el presente Decreto, en la residencia del Poder Ejecutivo, en la ciudad de Morelia, Michoacán, a los 05 cinco días del mes de marzo del año 2014 dos mil catorce.
 
 SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR DEL ESTADO.- LIC. FAUSTO VALLEJO FIGUEROA.- EL SECRETARIO DE GOBIERNO.- LIC. JOSÉ JESÚS REYNA GARCÍA. (Firmados).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 1 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 99 POR EL QUE "SE REFORMAN LOS ARTÍCULOS 1, 9, FRACCIONES II Y XIV; 12, FRACCIÓN III, 23. FRACCIONES IV, XI, XII, Y XIII, Y 25 INCISO B) PUNTO 1, SE ADICIONAN LOS ARTÍCULOS 4, FRACCIONES VIII, Y SE RECORREN CON SU CONTENIDO LA VIGENTE VIII, PARA QUEDAR COMO FRACCIÓN IX, Y SUBSECUENTES HASTA LA XIX, TODAS DE LA LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA DEL ESTADO DE MICHOACÁN; 23, LA FRACCIÓN XIV. Y 26, INCISO F) DE LA LEY PARA EL DESARROLLO DE LA COMPETITIVIDAD DE LA MICRO, PEQUEÑA Y MEDIANA EMPRESA DEL ESTADO DE MICHOACÁN”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
