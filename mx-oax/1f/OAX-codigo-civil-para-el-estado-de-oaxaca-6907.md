@@ -4,7 +4,7 @@ identifier: "OAX-codigo-civil-para-el-estado-de-oaxaca-6907"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2015-12-31"
+last_updated: "2016-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6907&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO CIVIL PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2016.
 
 Código publicado en el Suplemento del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -2177,6 +2177,14 @@ Serán considerados como violencia en los términos de este artículo, los actos
 
 Para efectos de éste artículo, se entiende por integrante de la familia a la persona que se encuentre unida a otra por una relación de matrimonio, concubinato, o por un lazo de parentesco consanguíneo, en línea recta ascendente o descendente sin limitación de grado, colateral o afín hasta el cuarto grado, así como de parentesco civil.
 
+(NOTA: EL 24 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 11/2016, DECLARÓ LA INVALIDEZ DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES" (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 2 DE ENERO DE 2016)</small>
+
+COMETE VIOLENCIA FAMILIAR EN LA FORMA DE ALIENACIÓN PARENTAL EL INTEGRANTE DE LA FAMILIA QUE TRANSFORMA LA CONCIENCIA DE UN MENOR CON EL OBJETO DE IMPEDIR, OBSTACULIZAR O DESTRUIR SUS VÍNCULOS CON UNO DE SUS PROGENITORES.
+
 > <small>N. DE E. DE ACUERDO CON LAS REFORMAS APROBADAS POR LA QUINCUAGÉSIMA SÉPTIMA LEGISLATURA EN EL DECRETO NO. 291, PUBLICADO EN EL P.O. EL 20 DE ABRIL DE 2001, EL PRESENTE TÍTULO QUEDA INTEGRADO POR DOS CAPÍTULOS.</small>
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ABRIL DE 2001)</small>
@@ -2963,6 +2971,22 @@ Si el padre y la madre se separan o viven separados decidirán, de común acuerd
 
 En todo caso, los hijos tienen derecho de convivir con el progenitor que esté separado, para lo cual, en caso de discenso (sic) entre el padre y la madre, el Juez regulará el régimen de visitas y convivencia que mejor atienda a los intereses de los hijos. Para tomar su decisión, deberá oír a los menores.
 
+(NOTA: EL 24 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 11/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES" (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2016)</small>
+
+Artículo 429 Bis A.- Quien tenga el cuidado y custodia de los hijos debe procurar el respeto y el acercamiento constante de los menores con el otro ascendiente que también ejerza la patria potestad; en consecuencia, cada uno de los ascendientes deberá evitar cualquier acto de alienación parental, encaminado a producir en el menor rechazo, rencor, odio, miedo o desprecio hacia el otro progenitor. BAJO PENA DE SUSPENDERSE O DECLARARSE LA PÉRDIDA DE SU EJERCICIO.
+
+Se entiende por alienación parental la manipulación o inducción que un progenitor realiza hacia su hijo, mediante la desaprobación o crítica tendiente a producir en el menor rechazo, rencor, odio, miedo o desprecio hacia el otro progenitor.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2016)</small>
+
+Artículo 429 Bis B.- A efecto de que el menor sea adecuadamente escuchando (sic), deberá contar con un Asistente de menores o un perito, debiendo ser en ambos casos profesional en psicología, quien asistirá al menor para facilitar la comunicación libre y espontánea, valorar su aptitud para comprender los hechos y darle protección psicoemocional en las sesiones donde sea oído por el Juez en privado sin la presencia de los progenitores. El menor para ser escuchado deberá contar con una edad mínima de 7 años, de acuerdo a lo que establece el Código Civil para el Estado de Oaxaca.
+
+Dicho asistente será designado por el Sistema Estatal para el Desarrollo Integral de la Familia o la Dirección de Servicios Periciales del Tribunal y tendrá la facultad de solicitar hasta dos entrevistas previas a la escucha del menor, siendo obligatorio para el progenitor que tenga la guardia y custodia del menor dar cumplimiento a sus requerimientos.
+
 ###### Artículo 430.
 
 En los casos previstos en los artículos 394 y 395 cuando por cualquier circunstancia deje de ejercer la patria potestad alguno de los padres, entrará a ejercerla el otro.
@@ -3153,15 +3177,17 @@ III. Por la exposición que el que, o los que, ejerzan la patria potestad hicier
 
 La patria potestad se pierde o se suspende en los casos de divorcio según las prevenciones del artículo 295 de este código.
 
-> <small>(ADICIONADA [N. DE E. CONTIENE LAS OBSERVACIONES Y FUNDAMENTO DEL PODER EJECUTIVO DEL ESTADO], P.O. 26 DE AGOSTO DE 2015)</small>
+(NOTA: EL 24 DE OCTUBRE DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD11/2016, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE OCTUBRE DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-IV. Cuando el que ejerce la patria potestad hubiera cometido contra la persona o bienes de los hijos, un delito doloso; y
+[En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES" (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
-[La fracción IV del presente artículo fue observada por el titular del Poder Ejecutivo del Estado, de conformidad con lo dispuesto en el segundo párrafo de la fracción VI del artículo 53 de la Constitución Política del Estado Libre y Soberano de Oaxaca].
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2016)</small>
+
+IV. CUANDO EL QUE LA EJERCE PRODUCE ACTOS DE ALIENACIÓN PARENTAL, EXISTIENDO LA POSIBILIDAD DE PONER EN RIESGO LA SALUD, EL ESTADO EMOCIONAL O INCLUSO LA VIDA DEL MENOR.
 
 > <small>(ADICIONADA, P.O. 24 DE AGOSTO DE 2015)</small>
 
-V.- Por incumplimiento de la obligación alimentaria por más de 90 días sin causa justificada.
+V. Por incumplimiento de la obligación alimentaria por más de 90 días sin causa justificada.
 
 ###### Artículo 460.
 
@@ -3180,6 +3206,10 @@ I. Por incapacidad, declarada judicialmente.
 II. Por ausencia, declarada en forma;
 
 III. Por sentencia condenatoria que imponga como pena esta suspensión.
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE ENERO DE 2016)</small>
+
+IV. Por no permitir que se lleven a cabo las convivencias decretadas por la autoridad judicial o por convenio aprobado judicialmente.
 
 ###### Artículo 463.
 
@@ -15892,3 +15922,15 @@ P.O. 31 DE DICIEMBRE DE 2015.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 1373.- MEDIANTE EL CUAL SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA”.]
 
 UNICO. El Presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 2 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1380.- MEDIANTE EL CUAL REITERA EN SU TOTALIDAD LAS DISPOSICIONES DEL DECRETO 1360, APROBADO EN SESIÓN ORDINARIA DE FECHA DIEZ Y NUEVE DE NOVIEMBRE DE DOS MIL QUINCE MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 336 BIS B, 459 FRACCIÓN IV Y 462 FRACCIÓN IV; SE ADICIONAN LOS ARTÍCULOS 429 BIS A Y 429 BIS B, TODOS DEL CÓDIGO CIVIL PARA EL ESTADO DE OAXACA OBSERVADAS POR EL GOBERNADOR CONSTITUCIONAL DEL ESTADO”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+TRANSITORIO:
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO.- Comuníquese al Titular del Ejecutivo del Estado, para los efectos legales correspondientes.
