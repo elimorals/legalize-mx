@@ -4,7 +4,7 @@ identifier: "COL-ley-que-establece-las-cuotas-y-tarifas-para-el-pago-de-48149"
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-31"
-last_updated: "2013-12-14"
+last_updated: "2016-01-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=48149&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,11 +23,13 @@ state: "COL"
 ---
 # LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PUBLICOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE COQUIMATLAN, COLIMA
 
-LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE COQUIMATLAN, COLIMA
+LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE Y ALCANTARILLADO DEL MUNICIPIO DE COQUIMATLÁN, COLIMA
 
-> <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE COQUIMATLÁN, COLIMA, PUBLICADA EN EL P.O. DE 14 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EL 1° DE ENERO DE 2014, PREVIA SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL ”EL ESTADO DE COLIMA”.</small>
+NOTA 1 DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO TRANSITORIOS DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE COQUIMATLÁN, COLIMA, PUBLICADA EN EL P.O. DE 14 DE DICIEMBRE DE 2013, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EL 1° DE ENERO DE 2014, PREVIA SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL ”EL ESTADO DE COLIMA”.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2013 (ABROGADA).
+NOTA 2. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE COQUIMATLÁN, COLIMA, PUBLICADA EN EL P.O. DE 2 DE ENERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2016 (REPUBLICADA ABROGACIÓN)
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Colima, el sábado 31 de diciembre de 2005.
 
@@ -474,3 +476,53 @@ c).- Se descontara hasta el 60% de los recargos, en caso que los usuarios realic
 d).- Se descontara hasta el 50% de los recargos en caso de que los usuarios realicen convenio para efectuar el pago del adeudo dentro de un periodo máximo de doce meses.
 
 e).- Se descontara hasta el 100% de recargos a todos aquellos usuarios que tengan convenios anteriores y actualice o ponga al corriente su situación.
+
+P.O. 2 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE ESTABLECE LAS CUOTAS Y TARIFAS PARA EL PAGO DE DERECHOS POR LOS SERVICIOS PÚBLICOS DE AGUA POTABLE, ALCANTARILLADO Y SANEAMIENTO DEL MUNICIPIO DE COQUIMATLÁN, COLIMA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el 1° de Enero de 2016, previa su publicación en el Periódico Oficial "EL ESTADO DE COLIMA".
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga la Ley que Establece las Cuotas y Tarifas para el Pago de Derechos por los Servicios Públicos de Agua Potable y Alcantarillado del Municipio de Coquimatlán, Colima, publicada en el Periódico Oficial "El Estado de Colima" el día 31 de diciembre de 2005, mediante Decreto No. 315, así como las demás disposiciones que se opongan a la presente Ley.
+
+###### ARTÍCULO TERCERO.
+
+Para el ejercicio fiscal 2016, a los contribuyentes que acrediten ser ciudadanos mexicanos y tener la calidad de pensionados o jubilados, podrán gozar del beneficio previsto en la fracción III del artículo 31 de esta Ley sin recargos, siempre y cuando se pongan al corriente en el pago de los servicios de agua potable, drenaje y saneamiento del ejercicio fiscal 2015 y anteriores, durante los meses de enero a abril del citado año.
+
+###### ARTÍCULO CUARTO.
+
+Para el ejercicio fiscal 2016, se otorgara el 50% de descuento por concepto de saneamiento tomando como base el artículo 8 de esta ley, siempre y cuando cubran el pago en el mismo año fiscal.
+
+###### ARTÍCULO QUINTO.
+
+Se autoriza realizar los ajustes correspondientes en los en el (sic) pago de los derechos por los servicios de agua potable, drenaje y saneamiento, durante los meses de enero a diciembre de 2016, a través de programas de recuperación de adeudos vencidos, para lo cual se podrá realizar descuentos hasta del total de los recargos conforme a las siguientes reglas:
+
+I.- Se aplicará en beneficio de quienes adeuden ejercicios fiscales anteriores al 2016;
+
+a).- Se descontara hasta el 100% de los recargos, siempre que la totalidad del adeudo se cubra en una sola exhibición.
+
+b).- Se descontara hasta el 80% de los recargos, en caso de que los usuarios realicen convenio para efectuar el pago total del adeudo dentro de un periodo máximo de tres meses.
+
+c).- Se descontara hasta el 60% de los recargos, en caso que los usuarios realicen convenio para efectuar el pago del adeudo dentro un periodo máximo de seis meses.
+
+d).- Se descontara hasta el 50% de los recargos en caso de que los usuarios realicen convenio para efectuar el pago del adeudo dentro de un periodo máximo de doce meses.
+
+e).- Se descontara hasta el 100% de recargos a todos aquellos usuarios que tengan convenios anteriores y actualice o ponga al corriente su situación.
+
+> <small>(ADICIONADO DECRETO 510, P.O. 33, SUP. 1, 27 JUNIO 2015)</small>
+
+###### ARTÍCULO SEXTO.
+
+Por concepto de estimulo fiscal, a los contribuyentes que paguen el servicio de agua potable, alcantarillado y saneamiento correspondiente al ejercicio fiscal 2016 y anteriores, dentro de los meses de julio a diciembre del actual ejercicio fiscal, se les aplicará un descuento en los recargos generados por la falta de pago, así como en las multas que hubieran sido impuestas por el mismo concepto, en los porcentajes que van del 100% al 60%, en los siguientes periodos:
+
+PERIODO JULIO SEPTIEMBRE NOVIEMBRE
+
+BASE AGOSTO OCTUBRE DICIEMBRE
+
+100% 80% 60%
+
+Lo dispuesto en el presente transitorio, no les será aplicable a los contribuyentes que celebren convenio de pago en parcialidades.
