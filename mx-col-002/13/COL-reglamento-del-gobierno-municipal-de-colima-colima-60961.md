@@ -4,7 +4,7 @@ identifier: "COL-reglamento-del-gobierno-municipal-de-colima-colima-60961"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-12"
-last_updated: "2015-12-19"
+last_updated: "2016-01-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 REGLAMENTO DEL GOBIERNO MUNICIPAL DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2016.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 12 de abril de 2008.
 
@@ -249,11 +249,11 @@ El Gobierno Municipal ejerce las atribuciones que le confiere la Ley Municipal p
 
 El Ayuntamiento, se renovará cada tres años, integrándose por un Presidente Municipal, un Síndico, seis regidores electos por el principio de mayoría relativa y cinco regidores mediante la vía de representación proporcional, en la forma y términos previstos por los artículos 89 fracción IV de la Constitución Local, 3° y 25 de la Ley Municipal, y los aplicables del Código Electoral del Estado; debiendo observar al respecto las demás disposiciones establecidas por el Título Segundo, Capítulo I, de la propia Ley Municipal.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
 
 ###### Artículo 19.
 
-El Ayuntamiento electo se instalará con la mayoría de sus miembros, en sesión solemne y pública el 15 de Octubre del año de su elección, sus integrantes durarán en su cargo tres años y, no podrán ser reelectos para el período inmediato siguiente de acuerdo con lo dispuesto por los artículos 115, fracción I de la Constitución Federal, 87 fracción I y 88 de la Constitución Local, 30 y 32 de la Ley Municipal.
+El Ayuntamiento electo se instalará con la mayoría de sus miembros, en sesión solemne y pública el 15 de octubre del año de su elección, sus integrantes durarán en su cargo tres años, y tendrán derecho a ser electos consecutivamente para el mismo cargo, por un período adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. Las personas que, por elección indirecta o por nombramiento o designación de alguna autoridad, desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, podrán ser electas para el mismo cargo para el período inmediato, de acuerdo con lo dispuesto por los artículos 115, fracción I, de la Constitución Federal, y 87, fracción I, y 88 de la Constitución Local.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
@@ -475,11 +475,13 @@ II.- Cuando deban rendirse informes en materia contenciosa.
 
 A las sesiones privadas sólo asistirán los integrantes del cabildo y el Secretario del Ayuntamiento; el acta que de las mismas se levante, seguirá el procedimiento de dispensa a que se refiere el artículo 99 de este Reglamento.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2016)</small>
 
 ###### Artículo 46.
 
-El recinto oficial del Ayuntamiento para la celebración de sesiones será la Sala de Cabildos, ubicada en el edificio sede del Gobierno Municipal.
+El recinto oficial del Ayuntamiento para la celebración de sesiones será el Auditorio "General Manuel Álvarez", ubicado en el edificio sede del Gobierno Municipal.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
 Cuando los munícipes acuerden, en términos del artículo 44 de este Reglamento, que una sesión revista el carácter de privada, se solicitará de manera diligente y cortés al público asistente que desaloje el recinto oficial. Podrán celebrarse sesiones de cabildo en cualquier otro lugar del municipio, siempre que haya sido declarado previamente recinto oficial para el efecto. Los lugares en donde se llevan a cabo las sesiones, contarán con los espacios adecuados y suficientes para la asistencia del público, conforme lo prevé el artículo 39 de la Ley Municipal.
 
@@ -759,13 +761,21 @@ XXI.- Formular anualmente, de manera conjunta con el Tesorero Municipal, con la 
 
 XXII.- Solicitar, una vez aprobado por el cabildo el presupuesto anual de egresos, su publicación en el Periódico Oficial "El Estado de Colima", la cual deberá efectuarse a más tardar el 15 de enero del año siguiente.
 
-XXIII.- Remitir al Congreso, por conducto de la Contaduría Mayor de Hacienda, las copias del presupuesto de egresos y del acta de la sesión de cabildo en que hubiere sido aprobado, para su conocimiento y efectos de seguimiento, de revisión y fiscalización de la cuenta pública.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2016)</small>
 
-XXIV.- Ser el conducto para remitir, a nombre del cabildo, al Congreso y a la Contaduría Mayor de Hacienda, a más tardar el 15 del mes siguiente, la cuenta pública mensual presentada ante el pleno del cuerpo edilicio en la que se detallen los ingresos y egresos registrados en cada uno de los meses respectivos. Así como el acuerdo correspondiente aprobado por el cabildo.
+XXIII.- Remitir al Congreso, por conducto del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, las copias del presupuesto de egresos y del acta de la sesión de cabildo en que hubiere sido aprobado, para su conocimiento y efectos de seguimiento, de revisión y fiscalización de la cuenta pública.
 
-XXV.- Ser el conducto para remitir, a nombre del cabildo, al Congreso y a la Contaduría Mayor de Hacienda, dentro de los treinta días posteriores a cada trimestre, el informe trimestral analizado y aprobado por el propio cabildo sobre el estado que guardan las finanzas públicas del Ayuntamiento y de sus entidades, así como los resultados presupuestales de ingresos, gastos, el acervo de la deuda y la plantilla del personal por dependencia o entidad paramunicipal, así como el avance físico y financiero de los programas autorizados. Debiendo acompañar el acuerdo correspondiente aprobado por el cabildo.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2016)</small>
 
-XXVI.- Ser el conducto para remitir al Congreso y a la Contaduría Mayor de Hacienda, para efectos de su revisión y fiscalización, los dictámenes de revisión de la cuenta pública municipal correspondientes a cada semestre del año, aprobados por el cabildo, antes del 30 de julio el relativo al primer semestre y antes del 30 de enero del año siguiente el que corresponda al segundo semestre.
+XXIV.- Ser el conducto para remitir, a nombre del cabildo, al Congreso y al Órgano Superior de Auditoria y Fiscalización Gubernamental del Estado, a más tardar el 15 del mes siguiente, la cuenta pública mensual presentada ante el pleno del cuerpo edilicio en la que se detallen los ingresos y egresos registrados en cada uno de los meses respectivos. Así como el acuerdo correspondiente aprobado por el cabildo.
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2016)</small>
+
+XXV.- Ser el conducto para remitir, a nombre del cabildo, al Congreso y al Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, dentro de los treinta días posteriores a cada trimestre, el informe trimestral analizado y aprobado por el propio cabildo sobre el estado que guardan las finanzas públicas del Ayuntamiento y de sus entidades, así como los resultados presupuestales de ingresos, gastos, el acervo de la deuda y la plantilla del personal por dependencia o entidad paramunicipal, así como el avance físico y financiero de los programas autorizados. Debiendo acompañar el acuerdo correspondiente aprobado por el cabildo.
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2016)</small>
+
+XXVI.- Ser el conducto para remitir al Congreso y al Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, para efectos de su revisión y fiscalización, los dictámenes de revisión de la cuenta pública municipal correspondientes a cada semestre del año, aprobados por el cabildo, antes del 30 de julio el relativo al primer semestre y antes del 30 de enero del año siguiente el que corresponda al segundo semestre.
 
 XXVII.- Vigilar que el ejercicio del gasto se realice con estricto apego al presupuesto de egresos aprobado y a la Ley de Presupuesto, Contabilidad y Gasto Público Municipal.
 
@@ -813,9 +823,13 @@ VII.- La vigilancia y supervisión en el ejercicio del presupuesto municipal, as
 
 VIII.- Elaborar, conjuntamente con la Comisión de Hacienda Municipal, los dictámenes de revisión de la cuenta pública municipal correspondiente a cada uno de los dos semestres del año, para la aprobación correspondiente del cabildo, antes de terminar el plazo de los 30 días naturales siguientes a la conclusión de cada semestre.
 
-IX.- Vigilar que se remitan los dictámenes de la cuenta pública municipal de cada semestre correspondientes al ejercicio fiscal, previa aprobación del cabildo, al Congreso y a la Contaduría Mayor de Hacienda, para efectos de su revisión y fiscalización.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2016)</small>
 
-X.- Vigilar que se presenten al Congreso y a la Contaduría Mayor de Hacienda, la cuenta pública municipal mensual y el informe trimestral sobre el estado que guardan las finanzas públicas del Ayuntamiento y de sus entidades, que incluye los resultados presupuestales de ingresos, gastos, el acervo de la deuda y la plantilla del personal por dependencia o entidad paramunicipal, así como el avance físico y financiero de los programas autorizados.
+IX.- Vigilar que se remitan los dictámenes de la cuenta pública municipal de cada semestre correspondientes al ejercicio fiscal, previa aprobación del cabildo, al Congreso y al Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, para efectos de su revisión y fiscalización.
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2016)</small>
+
+X.- Vigilar que se presenten al Congreso y al Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, la cuenta pública municipal mensual y el informe trimestral sobre el estado que guardan las finanzas públicas del Ayuntamiento y de sus entidades, que incluye los resultados presupuestales de ingresos, gastos, el acervo de la deuda y la plantilla del personal por dependencia o entidad paramunicipal, así como el avance físico y financiero de los programas autorizados.
 
 XI.- Presentar ante el cabildo iniciativas de reglamentos, bandos y demás disposiciones administrativas de observancia general, así como para reformar, derogar, abrogar y adicionar dichos ordenamientos, en su caso.
 
@@ -1449,7 +1463,9 @@ XV.- Las demás que le confieren las leyes y las que se deriven de los acuerdos 
 
 Son facultades y obligaciones de la Comisión de Hacienda Municipal:
 
-I.- Intervenir conjuntamente con el Tesorero Municipal en la formulación del anteproyecto de la Ley General de Ingresos y el Presupuesto de Egresos del Municipio, así como elaborar los dictámenes de los proyectos correspondientes, para aprobación del cabildo.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2016)</small>
+
+I.- Intervenir conjuntamente con el Tesorero Municipal en la formulación del anteproyecto de la Ley de Ingresos del Municipio de Colima y el Presupuesto de Egresos del Municipio, así como elaborar los dictámenes de los proyectos correspondientes, para aprobación del cabildo.
 
 II.- Vigilar que todos los contratos de compra-venta y de cualquier naturaleza, que impliquen aspectos financieros y afecten los intereses del Ayuntamiento, se lleven a cabo en los términos más favorables para éste.
 
@@ -1461,15 +1477,21 @@ V.- El examen constante y actualizado de toda la información necesaria, para in
 
 VI.- Elaborar el dictamen para la autorización de empréstitos e instrumentos de deuda pública, que comprometan los recursos patrimoniales y financieros del Ayuntamiento.
 
-VII.- Presentar al cabildo la cuenta pública mensual en la que se detallen los ingresos y egresos registrados en cada uno de los meses respectivos, con el fin de que el pleno autorice su remisión al Congreso y a la Contaduría Mayor de Hacienda para los efectos legales correspondientes.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2016)</small>
 
-VIII.- Analizar y presentar al cabildo el informe trimestral sobre el estado que guardan las finanzas públicas del Ayuntamiento y de sus entidades, así como los resultados presupuestales de ingresos, gastos, el acervo de la deuda y la plantilla del personal por dependencia o entidad paramunicipal, así como el avance físico y financiero de los programas autorizados, con el fin de que el pleno autorice su remisión al Congreso y a la Contaduría Mayor de Hacienda para los efectos legales correspondientes.
+VII.- Presentar al cabildo la cuenta pública mensual en la que se detallen los ingresos y egresos registrados en cada uno de los meses respectivos, con el fin de que el pleno autorice su remisión al Congreso y al Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, para los efectos legales correspondientes.
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2016)</small>
+
+VIII.- Analizar y presentar al cabildo el informe trimestral sobre el estado que guardan las finanzas públicas del Ayuntamiento y de sus entidades, así como los resultados presupuestales de ingresos, gastos, el acervo de la deuda y la plantilla del personal por dependencia o entidad paramunicipal, así como el avance físico y financiero de los programas autorizados, con el fin de que el pleno autorice su remisión al Congreso y al Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado, para los efectos legales correspondientes.
 
 IX.- Elaborar el dictamen de revisión de los resultados semestrales de la Cuenta Pública Municipal correspondiente al ejercicio fiscal, para su aprobación por el cabildo y presentación al Congreso dentro de los treinta días naturales siguientes a la conclusión de cada semestre, para los efectos de su revisión y fiscalización en términos de lo dispuesto por los artículos 33 fracción XI y 95 de la Constitución Local.
 
 X.- Vigilar y supervisar el ejercicio del presupuesto de egresos, así como el cumplimiento de las metas establecidas en los programas autorizados.
 
-XI.- Coordinarse con las demás comisiones y dependencias que se estimen pertinentes, para que los presupuestos de egresos sean realistas y congruentes con la Ley General de Ingresos contemplada por la administración municipal dentro de cada ejercicio fiscal.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2016)</small>
+
+XI.- Coordinarse con las demás comisiones y dependencias que se estimen pertinentes, para que los presupuestos de egresos sean realistas y congruentes con la Ley de Ingresos del Municipio de Colima contemplada dentro de cada ejercicio fiscal ...
 
 XII.- Proponer todas las medidas, planes y proyectos para el mejoramiento y fortalecimiento de la hacienda municipal.
 
@@ -1597,7 +1619,9 @@ XII.- Vigilar que las becas que se otorguen o se tramiten en cualquiera de las d
 
 XIII.- Dictaminar, junto con la Comisión de Desarrollo Urbano, Ecología y Vivienda, las propuestas para las nomenclaturas de calles, parques y jardines, así como la instalación de monumentos, bustos y estatuas.
 
-XIV.- Promover la difusión de eventos culturales que se verifiquen en el Municipio, en especial los que tenga a su cargo la Dirección de Cultura y Fomento Educativo.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2016)</small>
+
+XIV.- Promover la difusión de eventos culturales que se verifiquen en el Municipio, en especial los que tenga a su cargo la Dirección de Cultura y Educación.
 
 XV.- Pugnar para que se preserven en el municipio las tradiciones y costumbres de la sociedad colimense, y
 
@@ -1649,7 +1673,9 @@ VIII.- Poner a consideración del cabildo los dictámenes para desafectar, desin
 
 IX.- Vigilar que se cumplan los ordenamientos legales de carácter federal, estatales y municipales en materia de cementerios.
 
-X.- Coordinarse con las Direcciones Generales de Servicios Públicos, Obras Públicas, y la de Desarrollo Urbano, Ecología y Vivienda, para proponer las disposiciones necesarias en los cementerios, que atiendan a la salubridad general de aquellos, y en lo concerniente al alineamiento de fosas, plantación de árboles y vegetación, características de las criptas, mausoleos, y servicios propios del cementerio.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2016)</small>
+
+X.- Coordinarse con las Direcciones Generales de Servicios Públicos y Desarrollo Sustentable, para proponer las disposiciones necesarias en los cementerios, que atiendan a la salubridad general de aquellos, y en lo concerniente al alineamiento de fosas, plantación de árboles y vegetación, características de las criptas, mausoleos, y servicios propios del cementerio.
 
 XI.- Estudiar y proponer, ante la autoridad municipal, el precio de los terrenos destinados a la utilización de fosas y el arrendamiento de las mismas, a efecto de que contemplen los elementos económicos en la Ley de Ingresos municipal.
 
@@ -1823,11 +1849,13 @@ X.- Promover y mantener el vínculo y la relación con sectores involucrados en 
 
 XI.- En general todas las que le asignen las leyes y los acuerdos del cabildo.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2016)</small>
 
 ###### Artículo 123.
 
-Son facultades y obligaciones de la Comisión de Desarrollo Urbano, Ecología y Vivienda:
+Son facultades y obligaciones de la Comisión de Desarrollo Urbano y Vivienda:
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
 A.- En materia de Desarrollo Urbano.
 
@@ -1849,7 +1877,9 @@ VIII.- Opinar sobre los programas de regularización de la tenencia de la tierra
 
 IX.- Vigilar e intervenir en lo referente a reservas territoriales que incidan en el Municipio, así como en los aspectos relativos a sus límites y colindancias.
 
-X.- Vigilar que los desarrolladores de planes y programas de urbanización municipal cumplan con los preceptos legales vigentes, en particular con los aplicables en las figuras de la incorporación municipal y la municipalización, para lo cual deberá coordinarse con la Comisión de Obras y Servicios Públicos Municipales, así como con las Direcciones Generales de Obras Públicas, y la de Servicios Públicos.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2016)</small>
+
+X.- Vigilar que los desarrolladores de planes y programas de urbanización municipal cumplan con los preceptos legales vigentes, en particular con los aplicables en las figuras de la incorporación municipal y la municipalización, para lo cual deberá coordinarse con la Comisión de Obras y Servicios Públicos Municipales, así como con las Direcciones Generales de Desarrollo Sustentable y de Servicios Públicos.
 
 XI.- Vigilar que la ejecución de la obra pública realizada por el Ayuntamiento, el Gobierno del Estado y la Federación se ajuste al Plan Municipal de Desarrollo Urbano.
 
@@ -1866,6 +1896,8 @@ XVI.- Dictaminar sobre los convenios en materia de desarrollo urbano que suscrib
 XVII.- En general las que le confieran las leyes y las que se deriven de los acuerdos que emita el cabildo.
 
 B.- (DEROGADO, P.O. 22 DE ENERO DE 2011) (REPUBLICADO, P.O. 10 DE DICIEMBRE DE 2011)
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
 C. En materia de Vivienda.
 
@@ -1931,7 +1963,9 @@ V.- Atender y proponer obras y servicios públicos demandados por los habitantes
 
 VI.- Formar parte del Consejo Consultivo Municipal de Desarrollo Urbano.
 
-VII.- Vigilar la ejecución de las obras públicas programadas por la Dirección General de Obras Públicas.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2016)</small>
+
+VII.- Vigilar la ejecución de las obras públicas programadas por la Dirección General de Desarrollo Sustentable.
 
 VIII.- Emitir opiniones y dictámenes sobre la aprobación de nuevas obras.
 
@@ -2113,7 +2147,9 @@ IV.- Las Autoridades Auxiliares Municipales.
 
 V.- Los organismos de Participación Ciudadana y Vecinal constituidos en el Municipio.
 
-VI.- Los ciudadanos del Municipio mediante el ejercicio de la figura de participación ciudadana denominada Iniciativa Popular, que acrediten tener su domicilio en el mismo, siempre que la propuesta la suscriban un mínimo del 5% de los ciudadanos inscritos en el listado nominal de electores.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2016)</small>
+
+VI.- Los ciudadanos del Municipio mediante el ejercicio de la figura de participación ciudadana denominada Iniciativa Popular, siempre que la propuesta la suscriban el 3%, por lo menos, de los ciudadanos inscritos en el listado nominal de electores del municipio.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
@@ -2269,11 +2305,11 @@ Cuando las faltas excedan de quince días, el cabildo nombrará al Secretario de
 
 Todo lo relacionado con la desintegración y desaparición del Ayuntamiento y suspensión o revocación del mandato de cualesquiera de sus miembros, se estará a lo dispuesto por los artículos 115, fracción I, de la Constitución Federal, 87, fracción I, de la Constitución Local, 59 de la Ley Municipal, así como a lo establecido al respecto en la Ley para Regular la Participación del Congreso en Asuntos Municipales, para lo cual, el Congreso emitirá la declaratoria correspondiente y en cuyo procedimiento se deberán observar las garantías de audiencia y de debido proceso legal a favor de los integrantes del Ayuntamiento.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
 
 ###### Artículo 153.
 
-El miembro del Ayuntamiento que sin previo aviso, licencia o causa justificada falte a cualquier sesión de cabildo, podrá ser sancionado por el cabildo con una multa equivalente a quince días de salario mínimo; si la falta del munícipe ocurre por cinco sesiones de cabildo consecutivas sin causa justificada, el cabildo podrá suspenderlo de manera definitiva por el término que falte de su período y por conducto del Presidente Municipal será llamado su suplente para ocupar su cargo, quien entrará de inmediato en funciones con todas las prerrogativas y obligaciones correspondientes al propietario, en términos de los artículos 87 fracción I inciso b) de la Constitución Local, 56 de la Ley Municipal y 147 del presente Reglamento, sin perjuicio de consignarlo ante la autoridad correspondiente por su abandono de funciones públicas.
+El miembro del Ayuntamiento que sin previo aviso, licencia o causa justificada falte a cualquier sesión de cabildo, podrá ser sancionado por el cabildo con una multa de diez a quince unidades de medida y actualización; si la falta del munícipe ocurre por cinco sesiones de cabildo consecutivas sin causa justificada, el cabildo podrá suspenderlo de manera definitiva por el término que falte de su período y por conducto del Presidente Municipal será llamado su suplente para ocupar su cargo, quien entrará de inmediato en funciones con todas las prerrogativas y obligaciones correspondientes al propietario, en términos de los artículos 87 fracción I inciso b) de la Constitución Local, 56 de la Ley Municipal y 147 del presente Reglamento, sin perjuicio de consignarlo ante la autoridad correspondiente por su abandono de funciones públicas.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
@@ -2281,13 +2317,11 @@ El miembro del Ayuntamiento que sin previo aviso, licencia o causa justificada f
 
 Los servidores públicos de la administración municipal centralizada y paramunicipal que incurran en violaciones al presente Reglamento, serán sancionados en los términos de la Ley Estatal de Responsabilidades de los Servidores Públicos.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2016)</small>
 
 ###### Artículo 155.
 
-Los ciudadanos que incurran en violaciones al presente Reglamento, particularmente durante la celebración de las sesiones de cabildo, serán sancionados con multa por el equivalente a tres días de salario mínimo general diario vigente en el Municipio, sin perjuicio de la sanción penal que en su caso corresponda.
-
-Los casos de reincidencia y el procedimiento a que debe sujetarse la imposición de las sanciones previstas por este artículo, serán resueltos en los términos de la Ley Municipal y la reglamentación aplicable.
+Los ciudadanos que incurran en violaciones al presente Reglamento, particularmente durante la celebración de las sesiones de cabildo, serán sancionados con multa por el equivalente de tres a diez unidades de medida y actualización, sin perjuicio de la sanción penal que en su caso corresponda.
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
@@ -2485,33 +2519,29 @@ De conformidad con lo dispuesto por el artículo 4º de la Ley de Presupuesto, C
 
 ### CAPÍTULO III. DEL FUNCIONAMIENTO DEL GOBIERNO MUNICIPAL
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
 
 ###### Artículo 176.
 
 El Ayuntamiento ejerce su administración por conducto de las siguientes dependencias:
 
-I.- Secretaría del H. Ayuntamiento.
+l. Secretaría del H. Ayuntamiento.
 
-II.- Oficialía Mayor.
+II. Oficialía Mayor.
 
-III.- Tesorería Municipal.
+III. Tesorería Municipal.
 
-IV.- Contraloría Municipal.
+IV. Contraloría Municipal.
 
-V.- Dirección General de Obras Públicas.
+V. Dirección General de Desarrollo Sustentable.
 
-VI.- Dirección General de Servicios Públicos.
+VI. Dirección General de Servicios Públicos.
 
-VII.- Dirección General de Desarrollo Urbano, Ecología y Vivienda.
+VII. Dirección General de Asuntos Jurídicos
 
-VIII.- Dirección General de Seguridad Pública y Vialidad.
+VIII. Dirección General de Seguridad Ciudadana y Vialidad.
 
-IX.- (DEROGADA, P.O. 10 DE DICIEMBRE DE 2011)
-
-X.- Dirección General de Desarrollo Económico y Social.
-
-XI.- (DEROGADA, P.O. 10 DE DICIEMBRE DE 2011)
+IX. Dirección General de Desarrollo Humano.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
@@ -2545,305 +2575,277 @@ VIII.- Otras formas de organización ciudadana, que determine el cabildo o el Pr
 
 ### CAPÍTULO IV. DE LOS ÓRGANOS Y DEPENDENCIAS DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL CENTRALIZADA
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
 
 ###### Artículo 179.
 
 Para el cumplimiento de sus finalidades que le son propias, el Ayuntamiento organiza la estructura orgánica de la Administración Pública Municipal Centralizada, con las siguientes dependencias:
 
-I.- PRESIDENCIA MUNICIPAL
+l. PRESIDENCIA MUNICIPAL
 
-I.- Secretaría Particular
+a. Secretaría Particular
 
-a) Jefatura de Departamento de Gestión Social.
+i. Jefatura de Departamento de Gestión Social
 
-b) Jefatura de Área de Asistencia.
+1. Jefatura de Área de Asistencia
 
-II.- Dirección de Comunicación Social y Difusión.
+b. Secretaría Técnica
 
-a) Jefatura del Departamento de Prensa.
+c. Dirección de Comunicación Social
 
-b) Jefatura del Área de Radio y Televisión.
+i. Jefatura de Departamento de Prensa
 
-c) (DEROGADO, P.O. 8 DE JUNIO DE 2013) (REPUBLICADO POR QUINTO TRANSITORIO DEL ACUERDO QUE CREA EL INSTITUTO DE LAS MUJERES PARA EL MUNICIPIO DE COLIMA, P.O. 8 DE JUNIO DE 2013)
+1. Jefatura de Área de Radio y Televisión
 
-III.- Dirección de Atención y Participación Social
+d. Dirección de Atención y Participación Ciudadana
 
-a) Jefatura de Departamento Zona Norte.
+i. Jefatura de Departamento Zona Norte
 
-b) Jefatura de Departamento Zona Sur.
+ii. Jefatura de Departamento Zona Sur
 
-c) Procuraduría de Vecinos.
+1. Procuraduría de Vecinos
 
-d) Organizaciones de Participación Social.
+e. Dirección de Planeación
 
-e) (DEROGADO, P.O. 8 DE JUNIO DE 2013) (REPUBLICADO POR QUINTO TRANSITORIO DEL ACUERDO QUE CREA EL INSTITUTO DE LAS MUJERES PARA EL MUNICIPIO DE COLIMA, P.O. 8 DE JUNIO DE 2013)
+i. Jefatura de Departamento de Operación y Seguimiento
 
-IV.- Jefatura del Departamento de Proyectos.
+ii. Jefatura de Departamento de Planeación y Evaluación
 
-II (SIC).- Jefatura de Área de Proyectos.
+iii. Jefatura de Departamento de Proyectos de Inversión
 
-V. Jefatura de Área de Asistencia.
+iv. Jefatura de Departamento de Gestión de Proyectos Sociales
 
 II. SECRETARÍA DEL AYUNTAMIENTO
 
-I.- Dirección de Cultura, Educación y Deporte.
+a. Dirección de Abasto y Comercialización
 
-a) Jefatura del Departamento de Educación y Cultura.
+i. Jefatura de Departamento de Mercados y Vía Pública
 
-b) Jefatura de Departamento de Fomento Deportivo.
+1. Jefatura de Área de Mercados y Vía Pública
 
-c) Jefatura de Área de Eventos Culturales.
+b. Dirección de Registro Civil
 
-II.- Dirección de Abasto y Comercialización
+i. Secretaría del Registro Civil
 
-a) Jefatura del Departamento de Mercados y Vía Pública.
+ii. Junta Municipal de Reclutamiento
 
-1. Jefatura del Área de Mercados y Vía Pública.
+iii. Jefatura de Departamento del Panteón Municipal
 
-III.- Dirección del Registro Civil.
+c. Centro Preventivo Municipal
 
-a) Jefatura de Departamento del Panteón Municipal.
+d. Junta Municipal de Tepames
 
-b) Secretaría del Registro Civil.
+e. Junta Municipal de Lo de Villa
 
-c) Junta Municipal de Reclutamiento.
+f. Comisarías Municipales
 
-IV.- Dirección de Asuntos Jurídicos.
+III. OFICIALÍA MAYOR
 
-a) Jefatura de Departamento Jurídico.
+i. Jefatura de Departamento de Servicios Generales y Eventos Especiales
 
-b) Jefatura de Área Penal.
+a. Dirección de Recursos Humanos
 
-c) Jefatura de Área Laboral.
+i. Jefatura de Departamento de Personal
 
-V.- Centro Preventivo Municipal.
+ii. Jefatura de Departamento de Capacitación
 
-VI.- Junta Municipal de Tepames.
+iii. Jefatura de Departamento de Calidad
 
-VII.- Junta Municipal de Lo de Villa.
+1. Jefatura de Área de Control de Incidencias
 
-VIII.- Comisarías Municipales.
+b. Dirección de Recursos Materiales y Control Patrimonial
 
-IX. (DEROGADA, P.O. 10 DE DICIEMBRE DE 2011)
+i. Jefatura de Departamento de Compras
 
-III.- OFICIALÍA MAYOR
+ii. Jefatura de Departamento de Control Patrimonial
 
-I.- Dirección de Recursos Humanos.
+c. Dirección de Taller Mecánico
 
-a) Jefatura de Departamento de Personal.
+1. Jefatura de Área de Taller Mecánico
 
-b) Jefatura de Departamento de Capacitación y Calidad.
+d. Dirección de Sistemas
 
-c) Jefatura de Área de Calidad y Mejora Continua.
+i. Jefatura de Departamento de Redes
 
-d) Jefatura de Área de Control de Incidencias.
+1. Jefatura de Área de Mantenimiento
 
-II.- Dirección de Recursos Materiales y Control Patrimonial.
+IV. TESORERÍA MUNICIPAL
 
-a) Jefatura de Departamento de Compras.
+a. Dirección de Ingresos
 
-b) Jefatura de Departamento de Control Patrimonial.
+i. Jefatura de Departamento de Ejecución
 
-c) Jefatura de Departamento del Taller Mecánico.
+1. Jefatura de Área de Créditos Fiscales
 
-III.- Dirección de Sistemas.
+b. Dirección de Egresos y Contabilidad
 
-a) Jefatura de Departamento de Redes.
+i. Jefatura de Departamento de Contabilidad
 
-b) Jefatura de Área de Mantenimiento.
+1. Jefatura de Área de Control Presupuestal
 
-IV.- Jefatura de Departamento de Servicios Generales y Eventos Especiales.
+c. Dirección de Catastro
 
-IV.- TESORERÍA MUNICIPAL
+i. Jefatura de Departamento Administrativo y de Servicios
 
-I.- Dirección de Ingresos.
+ii. Jefatura de Departamento del Suelo
 
-a) Jefatura del Departamento de Ejecución.
+d. Dirección de Inspección y Licencias
 
-1. Jefatura del Área de Política Fiscal.
+i. Jefatura de Departamento de Inspección
 
-II.- Dirección de Egresos y Contabilidad.
+ii. Jefatura de Departamento de Licencias
 
-a) Jefatura del Área de Control Presupuestal.
+1. Jefatura de Área de Licencias
 
-b) Jefatura del Departamento de Contabilidad.
+V. CONTRALORÍA
 
-III. - Dirección de Catastro.
+i. Jefatura de Área de Transparencia
 
-a) Jefatura de Departamento de Ventanilla de Servicios.
+a. Jefatura de Departamento de Auditoría Financiera
 
-b) Jefatura de Departamento Técnico.
+b. Jefatura de Departamento de Auditoría de Obra Pública y Precios Unitarios
 
-c) (DEROGADO, P.O. 10 DE DICIEMBRE DE 2011)
+i. Jefatura de Área de Auditoría de Programas Sociales
 
-IV.- Dirección de Inspección y Licencias.
+VI. DIRECCIÓN GENERAL DE DESARROLLO SUSTENTABLE
 
-a) Jefatura de Departamento de Inspección.
+a. Dirección de Construcción
 
-b) Jefatura de Departamento de Licencias.
+i. Jefatura de Departamento de Proyectos y Presupuestos
 
-c) Jefatura de Área de Licencias.
+ii. Jefatura de Departamento de Supervisión
 
-V. (DEROGADA, P.O. 10 DE DICIEMBRE DE 2011)
+b. Dirección de Mantenimiento
 
-V.- CONTRALORÍA MUNICIPAL.
+i. Jefatura de Departamento de Mantenimiento de Edificios
 
-a) Jefatura del Departamento de Auditoría Financiera.
+ii. Jefatura de Departamento de Mantenimiento de Vialidades
 
-b) Jefatura de Departamento de Auditoría de Obra Pública y Precios Unitarios
+c. Dirección de Desarrollo Urbano
 
-c) Jefatura del Área de Auditoría de Programas Sociales.
+i. Jefatura de Departamento de Planeación y Regulación Urbana
 
-VI.- DIRECCIÓN GENERAL DE OBRAS PÚBLICAS.
+ii. Jefatura de Departamento de Licencias de Construcción
 
-I.- Dirección de Construcción.
+iii. Jefatura de Departamento de Inspección y Supervisión de Obras
 
-a) Jefatura del Departamento de Proyectos y Presupuestos.
+d. Dirección de Ecología
 
-b) Jefatura del Departamento de Supervisión.
+1. Jefatura de Área de Calidad Ambiental
 
-II.- Dirección de Mantenimiento y Conservación de Infraestructura Urbana.
+VII. DIRECCIÓN GENERAL DE SERVICIOS PÚBLICOS
 
-a) Jefatura del Departamento de Mantenimiento de Edificios.
+i. Jefatura de Departamento de Personal
 
-b) Jefatura del Departamento de Rehabilitación y Mantenimiento de Vialidades.
+1. Jefatura de Área de Apoyo Técnico
 
-VII.- DIRECCIÓN GENERAL DE SERVICIOS PÚBLICOS.
+ii. Jefatura de Departamento de Control de Mascotas
 
-I.- Dirección de Limpia y Sanidad.
+a. Dirección de Limpia y Sanidad
 
-a) Jefatura del Departamento de Limpia y Sanidad.
+i. Jefatura de Departamento de Limpia y Sanidad
 
-b) Jefatura del Departamento del Relleno Sanitario.
+ii. Jefatura de Departamento de Relleno Sanitario
 
-c) Jefatura del Departamento de Lotes Baldíos.
+1. Jefatura de Área de Lotes Baldíos
 
-c (sic)) Jefatura de Departamento de Lotes Baldíos e Inspección.
+2. Jefatura de Área de Recolección de Residuos Sólidos, Turno Matutino
 
-d) Jefatura del Departamento de Inspección.
+3. Jefatura de Área de Recolección de Residuos Sólidos, Turno Vespertino
 
-II.- Dirección de Parques y Jardines.
+4. Jefatura de Área de Recolección de Residuos Sólidos, Turno Nocturno
 
-a) Jefatura del Departamento de la Zona I de la Ciudad.
+b. Dirección de Parques y Jardines
 
-b) Jefatura del Departamento de la Zona II de la Ciudad.
+i. Jefatura de Departamento de Parques y Jardines
 
-c) Jefatura del Departamento de la Zona III de la Ciudad.
+1. Jefatura de Área de Parques y Áreas Deportivas
 
-d) Jefatura del Departamento de la Zona IV de la Ciudad.
+c. Dirección de Alumbrado Público
 
-e) Jefatura de Área de la Zona Rural.
+i. Jefatura de Departamento de Alumbrado Público
 
-III.- Dirección de Alumbrado Público.
+1. Jefatura de Área de Medición
 
-a) Jefatura del Departamento de Alumbrado Público.
+VIII. Derogado.
 
-b) Jefatura del Área de Mantenimiento y Reparación.
+IX. DIRECCIÓN GENERAL DE ASUNTOS JURÍDICOS
 
-IV.- Jefatura del Departamento de Personal.
+a. Jefatura de Departamento de Asuntos Jurídicos
 
-V.- Jefatura de Área de Apoyo Técnico.
+i. Jefatura de Área Penal
 
-VI.- Jefatura del Departamento de Control de Perros, Gatos y Otras Mascotas.
+ii. Jefatura de Área Laboral
 
-VIII.- DIRECCIÓN GENERAL DE DESARROLLO URBANO, ECOLOGÍA Y VIVIENDA.
+iii. Jefatura de Área Administrativa-Fiscal
 
-I.- Dirección de Desarrollo Urbano.
+iv. Jefatura de Área de Consultas y Dictámenes
 
-a) Jefatura del Departamento de Planeación y Ordenamiento Urbano.
+X. DIRECCIÓN GENERAL DE SEGURIDAD CIUDADANA Y VIALIDAD
 
-b) Jefatura del Departamento de Licencias de Construcción.
+i. Jefatura de Departamento Administrativo
 
-c) Jefatura del Departamento de Inspección y Supervisión de Obras.
+a. Dirección Operativa de Seguridad Ciudadana y Vialidad
 
-d) (DEROGADO, P.O. 10 DE DICIEMBRE DE 2011)
+i. Jefatura de Departamento de Comandancia de Seguridad Ciudadana y Vialidad
 
-II.- Dirección de Vivienda
+1. Jefatura de Área de Academia
 
-a) Jefatura de Área de Calidad Ambiental.
+ii. Jefatura de Departamento de Ingeniería de Tránsito
 
-III.- Jefatura de Departamento de Vivienda.
+1. Jefatura de Área de Señalamientos Viales
 
-IX.- (DEROGADA, P.O. 10 DE DICIEMBRE DE 2011)
+2. Jefatura de Área de Semáforos
 
-I.- (DEROGADA, P.O. 10 DE DICIEMBRE DE 2011)
+iii. Jefatura de Departamento de Normas e Infracciones
 
-II.- (DEROGADA, P.O. 10 DE DICIEMBRE DE 2011)
+1. Jefatura de Área de Educación Vial
 
-III.- (DEROGADA, P.O. 10 DE DICIEMBRE DE 2011)
+2. (sic)
 
-IV.- (DEROGADA, P.O. 10 DE DICIEMBRE DE 2011)
+XI. DIRECCIÓN GENERAL DE DESARROLLO HUMANO
 
-X.- DIRECCIÓN GENERAL DE SEGURIDAD PÚBLICA Y VIALIDAD.
+a. Dirección de Desarrollo Económico
 
-I.- Dirección Operativa de Seguridad Pública y Vialidad.
+i. Jefatura de Departamento del Centro Municipal de Negocios
 
-a) Jefatura de Departamento de Comandancia de Seguridad Pública y Vialidad.
+ii. Jefatura de Departamento de Promoción Económica
 
-1.- Jefatura de Área de Academia.
+1. Jefatura de Área de Promoción Turística
 
-b) Jefatura de Departamento de Ingeniería de Tránsito.
+2. Jefatura de Área de Servicios Empresariales
 
-1.- Jefatura de Área de Señalamientos Vial.
+3. Jefatura de Área de CONOCER
 
-2. - Jefatura de Área de Semáforos.
+b. Dirección de Desarrollo Social
 
-c) Consejo de Honor y Justicia.
+i. Jefatura de Departamento de Vivienda
 
-d) (DEROGADO, P.O. 10 DE DICIEMBRE DE 2011)
+ii. Jefatura de Departamento de Programas Sociales
 
-e) (DEROGADO, P.O. 10 DE DICIEMBRE DE 2011)
+c. Dirección de Desarrollo Rural
 
-f) (DEROGADO, P.O. 10 DE DICIEMBRE DE 2011)
+i. Jefatura de Departamento de Gestión y Operación
 
-g) (DEROGADO, P.O. 10 DE DICIEMBRE DE 2011)
+ii. Jefatura de Departamento de Vinculación
 
-h) (DEROGADO, P.O. 10 DE DICIEMBRE DE 2011)
+d. Dirección de Cultura y Educación
 
-II.- Jefatura de Departamento de Normas e Infracciones.
+i. Jefatura de Departamento de Cultura y Educación
 
-III.- Jefatura de Área de Educación Vial.
+1. Jefatura de Área de Eventos Culturales
 
-XI.- DIRECCIÓN GENERAL DE DESARROLLO ECONÓMICO Y SOCIAL.
+e. Dirección de Fomento Deportivo
 
-I.- Dirección de Fomento Económico.
+i. Jefatura de Departamento de Cultura Física, Deporte y Recreación
 
-a) Jefatura de Departamento de Servicios Empresariales.
+ii. Jefatura de Departamento de Mantenimiento y Conservación de Espacios
 
-b) Jefatura de Departamento de Promoción Económica.
+Deportivos
 
-c) Jefatura de Área del Centro Municipal de Negocios.
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2016)</small>
 
-d) Jefatura de Área de la Oficina Municipal de Enlace.
-
-e) (DEROGADO, P.O. 10 DE DICIEMBRE DE 2011)
-
-II.- Dirección de Desarrollo Social.
-
-a) Jefatura de Departamento de Planeación y Participación Social.
-
-b) Jefatura de Departamento de Programas Sociales.
-
-c) Jefatura de Área de Seguimiento de Obras.
-
-d) (DEROGADO, P.O. 10 DE DICIEMBRE DE 2011)
-
-e) (DEROGADO, P.O. 10 DE DICIEMBRE DE 2011)
-
-III.- Dirección de Desarrollo Rural.
-
-a) Jefatura de Departamento de Gestión y Operación.
-
-b) Jefatura de Departamento de Vinculación.
-
-XII.- (DEROGADA, P.O. 10 DE DICIEMBRE DE 2011)
-
-I.- (DEROGADA, P.O. 10 DE DICIEMBRE DE 2011)
-
-II.- (DEROGADA, P.O. 10 DE DICIEMBRE DE 2011)
-
-III.- (DEROGADA, P.O. 10 DE DICIEMBRE DE 2011)
+Artículo 179 bis.- Salvo disposición expresa en contrario, la ausencia de los titulares de las dependencias que integran la Administración Pública Municipal centralizada será suplida por el servidor público que ocupe el nivel jerárquico inmediato inferior; si son varios, suplirá la ausencia el que designe entre ellos, mediante oficio, el titular de la Dependencia respectiva.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
@@ -3037,37 +3039,83 @@ II.- Llevar un control diario de la recepción de peticiones, quejas y sugerenci
 
 III.- Llevar un control puntual y dar seguimiento a las demandas y peticiones de la ciudadanía que se realicen durante las Audiencias Públicas.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2016)</small>
+
+Artículo 189 bis.- La Secretaría Técnica tendrá a su cargo las siguientes funciones:
+
+a) Proveer oportunamente al Presidente las herramientas necesarias para atender eficientemente las peticiones que le sean canalizadas por el Secretario Particular.
+
+b) Supervisar la recepción, registro, clasificación y envío de la documentación y correspondencia que reciba.
+
+c) Apoyar al Presidente en las actividades de organización y operación de la oficina.
+
+d) Supervisión en el empleo de recursos asignados a la Presidencia y actividades del personal a su cargo.
+
+e) Coordinarse con el Secretario Particular para el registro y control de eventos en los que participa el Presidente, a fin de proporcionarle el apoyo requerido.
+
+f) Coordinar sus actividades con las demás áreas de la Presidencia, proporcionándole al Presidente el apoyo necesario en el ámbito de su competencia.
+
+g) Recibir y atender en forma oportuna los asuntos que le encomiende el Presidente.
+
+h) Desempeñar las funciones y comisiones especiales que el Presidente le confiera y mantenerlo informado sobre su desarrollo y ejecución.
+
+i) Apoyar al Secretario Particular en la organización de la agenda de trabajo del Presidente, así como organizar y desarrollar las actividades administrativas, internas o externas, en las que el Presidente tenga participación.
+
+j) Organizar las actividades y al personal de apoyo administrativo de la Presidencia.
+
+k) Cumplir con las instrucciones de todos los asuntos que le sean encomendados por el Presidente.
+
+l) Las demás que le encomiende el Presidente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2016)</small>
 
 ###### Artículo 190.
 
-Para auxiliar al Presidente Municipal en materia de Comunicación, el Ayuntamiento tendrá una Dirección de Comunicación Social y Difusión, la cual estará a cargo de una persona denominada Director de Comunicación Social y Difusión, al que le corresponden las siguientes facultades y obligaciones:
-
-I.- Informar a la comunidad, a través de los diferentes medios de comunicación, las disposiciones, acciones, planes, programas y subprogramas del gobierno y administración municipal centralizada y paramunicipal que sean de interés público;
-
-II.- Proporcionar al Presidente Municipal el análisis de la información que manejan los medios de comunicación acerca del Ayuntamiento en cualquiera de sus aspectos;
-
-III.- Apoyar a las dependencias municipales en las tareas de difusión que éstas requieran llevar a cabo para el mejor desempeño de sus actividades;
-
-IV.- Elaborar extractos informativos de injerencia municipal, para conocimiento de los integrantes del Ayuntamiento; y
-
-V.- Promover y apoyar eventos periodísticos y de difusión relativos al Municipio.
-
-VI.- Las demás que le otorguen las Leyes, Reglamentos y Manuales de Organización.
-
-> <small>(REFORMADO, P.O. 21 DE DICIEMBRE DE 2013)</small>
-
-###### Artículo 191.
-
-Para auxiliar al Presidente Municipal en materia de Participación Social, el Ayuntamiento tendrá una Dirección de Atención y Participación Social, la cual estará a cargo de una persona denominada Director de Atención y Participación Social. Esta Dirección se integra por la Jefatura de Departamento Zona Norte, la Jefatura de Departamento Zona Sur, la Procuraduría de Vecinos, las Organizaciones de Participación Social que para el efecto serán las siguientes: La Junta General de Comités de Participación Social; los Comités de Participación Social; los Comités para Obras Determinadas; los Comités de Vigilancia de áreas designadas por el Ayuntamiento y las demás que determine el cabildo o el Presidente Municipal.
+Para auxiliar al Presidente Municipal en materia de Comunicación, el Ayuntamiento tendrá una Dirección de Comunicación Social, la cual estará a cargo de una persona denominada Director de Comunicación Social, al que le corresponden las siguientes facultades y obligaciones:
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
+I.- Informar a la comunidad, a través de los diferentes medios de comunicación, las disposiciones, acciones, planes, programas y subprogramas del gobierno y administración municipal centralizada y paramunicipal que sean de interés público;
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+
+II.- Proporcionar al Presidente Municipal el análisis de la información que manejan los medios de comunicación acerca del Ayuntamiento en cualquiera de sus aspectos;
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+
+III.- Apoyar a las dependencias municipales en las tareas de difusión que éstas requieran llevar a cabo para el mejor desempeño de sus actividades;
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+
+IV.- Elaborar extractos informativos de injerencia municipal, para conocimiento de los integrantes del Ayuntamiento; y
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+
+V.- Promover y apoyar eventos periodísticos y de difusión relativos al Municipio.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+
+VI.- Las demás que le otorguen las Leyes, Reglamentos y Manuales de Organización.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+
+###### Artículo 191.
+
+Para auxiliar al Presidente Municipal en materia de Participación Ciudadana, el Ayuntamiento tendrá una Dirección de Atención y Participación Ciudadana, la cual estará a cargo de una persona denominada Director de Atención y Participación Ciudadana. Esta Dirección se integrará por la Jefatura de Departamento Zona Norte y la Jefatura de Departamento Zona Sur, además de la Procuraduría de Vecinos, que tendrá el rango de Jefatura de Área.
+
+Tendrá a su cargo la coordinación de las Organizaciones de Participación Social que para el efecto serán las siguientes: La Junta General de Comités de Participación Social; los Comités de Participación Social; los Comités para Obras Determinadas; los Comités de Vigilancia de áreas designadas por el Ayuntamiento y las demás que determine el Cabildo o el Presidente Municipal.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2016)</small>
+
 ###### Artículo 192.
 
-Al Director de Atención y Participación Social, le corresponde las siguientes funciones:
+Al Director de Atención y Participación Ciudadana le corresponden las siguientes funciones:
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
 I.- Constituir y coordinar los Comités de Participación Social.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
 II.- Atender, gestionar y dar seguimiento a la demanda social del Municipio o, en su caso, canalizar los asuntos a otras instancias según su ámbito de competencia.
 
@@ -3075,21 +3123,37 @@ II.- Atender, gestionar y dar seguimiento a la demanda social del Municipio o, e
 
 III.- Promover y dar seguimiento a los programas y proyectos comunitarios de los Comités de Participación Social y las organizaciones de la sociedad civil del Municipio de Colima.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+
 IV.- Coordinar campañas para el desarrollo humano, del entorno social y urbano.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
 V.- Programar y convocar a los Comités de Participación Social, organizaciones de la sociedad civil, jóvenes, ciudadanos y grupos vulnerables que así lo soliciten para que asistan a las audiencias públicas y reuniones que programe el Ayuntamiento.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+
 VI.- Difundir y promover la participación social en la aplicación de referéndums, plebiscitos e iniciativas conforme lo establece la Ley de Participación Ciudadana del Estado de Colima y en las acciones de beneficio comunitario que lleve acabo (sic) el Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
 VII.- Difundir periódicamente la labor que desarrollan las estructuras de participación social.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+
 VIII.- Atender y canalizar los conflictos vecinales a través de la procuraduría vecinal.
 
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+
 IX.- Coordinarse con las distintas dependencias municipales para la integración de los Comités de Obra determinada.
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
 X.- Realizar estudios de impacto social para identificar el grado de aceptación de obras o servicios, previa solicitud de ciudadanos y dependencias municipales.
 
 XI.- (DEROGADA, P.O. 8 DE JUNIO DE 2013) (REPUBLICADA POR QUINTO TRANSITORIO DEL ACUERDO QUE CREA EL INSTITUTO DE LAS MUJERES PARA EL MUNICIPIO DE COLIMA, P.O. 8 DE JUNIO DE 2013)
+
+> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
 XII.- Las demás que acuerde el Presidente Municipal y las que otorguen las Leyes y Reglamentos.
 
@@ -3145,11 +3209,17 @@ C) Cuando alguna de las partes ocurra ante las autoridades competentes.
 
 V.- El incumplimiento de dos citatorios consecutivos será motivo de amonestación.
 
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2016)</small>
+
 VI.- El incumplimiento de cada citatorio después de la amonestación o de cualquier acuerdo asignado ante el Procurador de Vecinos, será motivo de una sanción económica para la parte que incumpla, que consistirá:
 
-A) En el pago de una multa de uno a cinco salarios mínimos, a efectuarse ante la Tesorería Municipal.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
 
-B) De un salario mínimo solo cuando se trate de obreros, campesinos, jornaleros, y empleados que ganen menos de tres salarios mínimos vigentes en el Estado, en términos del artículo 21 de la Constitución Federal.
+A) En el pago de una multa de una a cinco unidades de medida y actualización, a efectuarse ante la Tesorería Municipal.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+
+B) De un salario mínimo, cuando se trate de obreros, campesinos, jornaleros y trabajadores no asalariados, en términos del artículo 21 de la Constitución Federal.
 
 VII.- Cuando una de las partes en conflicto decida recurrir ante los tribunales de justicia del Estado o de la Federación, para solucionar sus problemas, deberá notificar por escrito su decisión a la Procuraduría Vecinal para que esta proceda a dar por concluida su competencia en este caso.
 
@@ -3164,6 +3234,36 @@ C) Cuando alguna de las partes ocurra ante los Tribunales de Justicia del Estado
 IX.- Recibir e investigar, en forma expedita, las quejas, reclamaciones y proposiciones que por escrito u oralmente presenten los afectados por la actividad de la administración pública local.
 
 X.- Rendir anualmente al Presidente Municipal un informe de sus actividades incluyendo las propuestas de solución y las respuestas de las autoridades requeridas. Este informe deberá incluir proposiciones de iniciativa de reformas al procedimiento o a las leyes que regulan la actividad de la administración pública municipal.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2016)</small>
+
+Artículo 196 bis.- Para auxiliar al Presidente Municipal en materia de Planeación, el Ayuntamiento tendrá una Dirección de Planeación, la cual estará a cargo de una persona denominada Director de Planeación. Esta Dirección ejercerá las siguientes funciones:
+
+I.- Fungir como integrante del COPLADEMUN.
+
+II.- Participar en la elaboración del Plan Municipal de Desarrollo.
+
+III.- Conocer e informar al Presidente Municipal de los distintos programas de inversión Estatales y Federales, para el Desarrollo Municipal.
+
+IV.- Integrar el Programa Operativo Anual para la ejecución de la obra pública y los Programas Sociales, y presentarlo para su depuración a las distintas dependencias municipales.
+
+V.- Remitir la propuesta de inversión anual al COPLADECOL y a la Delegación de la Secretaría de Desarrollo Social, para su aprobación definitiva.
+
+VI.- Revisar conjuntamente con las dependencias municipales los acuerdos de coordinación que en materia de programación, presupuestación, y gasto público, para la ejecución de Obra Pública y Programas Sociales, firme el Presidente Municipal.
+
+VII.- Integrar los expedientes técnicos y financieros en coordinación con las distintas dependencias municipales, a efecto de cumplimentar las disposiciones normativas para la adecuada ejecución del programa de obra pública y de servicios.
+
+VIII.- En coordinación con la Dirección General de Desarrollo Sustentable, realizar las labores de supervisión de la obra pública, llevando el seguimiento físico y financiero, así como de avance de ejecución e informar periódicamente al Comité de Planeación para el Desarrollo del Estado sobre tal avance.
+
+IX.- Tramitar al Comité de Planeación para el Desarrollo del Estado, los expedientes técnicos y financieros de las obras aprobadas para la asignación de los recursos, agotando su procedimiento hasta la obtención y comprobación de los mismos.
+
+X.- Conjuntamente con las dependencias municipales supervisar, evaluar y observar que el ejercicio financiero de las obras autorizadas en el programa de inversión, sea congruente con el avance físico programado, con sujeción al expediente técnico aprobado.
+
+XI.- Dar seguimiento a la ejecución de la obra pública programada hasta su finiquito, incluyendo la integración del expediente técnico administrativo para la entrega de la obra en cuestión a la ciudadanía.
+
+XII.- Evaluar y registrar el cumplimiento de las estrategias y proyectos contemplados en el Plan Municipal de Desarrollo, entregando un reporte mensual al respecto al Presidente Municipal.
+
+XIII.- Compilar y procesar la información básica en las diferentes dependencias locales, para elaborar el anexo estadístico y el texto del Informe de Gobierno Municipal.
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
@@ -3235,61 +3335,15 @@ XII.- Coordinar las labores de Jueces Calificadores y del Alcaide de la Cárcel 
 
 XIII.- Las demás que le otorguen las Leyes, Reglamentos y Manuales de Organización.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
 
 ###### Artículo 202.
 
-La Secretaría del Ayuntamiento para el desempeño de sus funciones, contará con las siguientes dependencias: Dirección de Cultura, Educación y Deporte, que integrará la jefatura de Departamento de Educación y Cultura, Jefatura de Departamento de Fomento Deportivo y Jefatura de Área de Eventos Culturales; Dirección de Abasto y Comercialización, que integra Jefatura de Departamento de Mercados y Vía Pública; Dirección del Registro Civil que integra Jefatura de Departamento del Panteón Municipal, la Secretaría del Registro Civil y Junta Municipal de Reclutamiento; Dirección de Asuntos Jurídicos, que integra Jefatura de Departamento Jurídico, Jefatura de Área Penal y Jefatura de Área Laboral; Centro Preventivo Municipal, Juntas y Comisarías Municipales.
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+La Secretaría del Ayuntamiento, para el desempeño de sus funciones, contará con las siguientes dependencias: Dirección de Abasto y Comercialización, que se integrará por una Jefatura de Departamento de Mercados y Vía Pública y una Jefatura de Área de Mercados y Vía Pública; Dirección del Registro Civil, que se integrará por la Secretaría del Registro Civil, la Junta Municipal de Reclutamiento y la Jefatura de Departamento del Panteón Municipal; el Centro Preventivo Municipal y las Juntas y Comisarías Municipales.
 
 ###### Artículo 203.
 
-Serán funciones de la Dirección de Cultura y Fomento Educativo, las siguientes:
-
-a) Fomentar, organizar y realizar eventos y ceremonias cívicas, y en su caso coordinarse con las dependencias competentes de los Gobiernos Federal y Estatal.
-
-b) Coordinar y ejercer los programas cívicos y sociales que apruebe el Cabildo.
-
-c) Organizar, controlar y vigilar el patrimonio cultural del Municipio.
-
-d) Fomentar, patrocinar, organizar y ejecutar programas artístico-culturales, conferencias, seminarios, simposios y toda clase de eventos científicos, culturales y recreativos.
-
-e) Promover y fomentar la participación de la población en la construcción y conservación de centros culturales.
-
-f) Establecer, promover y fomentar la impartición de cursos, programas de capacitación y adiestramiento en materia de cultura, tendiente al fomento de ésta en el Municipio.
-
-g) Establecer y manejar centros juveniles de cultura.
-
-h) Propiciar la formación de clubes juveniles, coordinar y supervisar sus funciones.
-
-i) Instaurar medidas tendientes a prevenir el alcoholismo, la drogadicción, la prostitución, y todo hábito que degrade a los seres humanos.
-
-j) Participar en la conformación y formar parte del Comité Municipal de Educación.
-
-k) Promover y fomentar la participación de la población en la construcción y conservación de centros deportivos en el municipio.
-
-l) Establecer, promover y fomentar la impartición de cursos, programas de capacitación y adiestramiento en materia de recreación y deporte, tendiente al fomento y diversificación de estas actividades en el municipio.
-
-m) Establecer, organizar y vigilar el adecuado funcionamiento de los centros deportivos de recreación y deporte del municipio.
-
-n) Establecer, organizar y vigilar el adecuado funcionamiento de las canchas deportivas de usos múltiples del municipio.
-
-ñ) Establecer, organizar y realizar de manera programada y calendarizada campañas y eventos deportivos y recreativos para todo tipo de personas en el municipio, aprovechando los espacios públicos ubicados en el mismo.
-
-o) Coordinarse en la promoción, el fomento y organización de eventos y certámenes deportivos con las diversas instancias públicas federales, estatales y municipales de la materia, así como con instituciones, organizaciones y asociaciones privadas y sociales.
-
-p) Gestionar ante las diversas instancias públicas de la Federación y del Estado de la materia, los apoyos y asistencia financiera, material y humana para la promoción, fomento y organización de eventos y certámenes deportivos en el municipio.
-
-q) Estimular, premiar y reconocer a los deportistas y deportistas del municipio, promoviendo y fomentando las diversas disciplinas deportivas en el municipio.
-
-r) Recibir, analizar, canalizar y coordinar las diversas peticiones y solicitudes de material y uniformes deportivos que realizan al ayuntamiento y/o al Presidente Municipal las instituciones educativas, padres de familias, asociaciones y organizaciones deportivas, entre otros.
-
-s) Difundir, promover y fomentar la organización y celebración del Premio Municipal del Deporte, para su entrega a los deportistas y atletas exitosos del municipio.
-
-t) Constituir el Consejo Municipal del Deporte, formando parte de este Consejo el titular del área deportiva en el municipio.
-
-u) Las demás que le confieran las leyes, este Reglamento, otras disposiciones reglamentarias y manuales de organización.
+(DEROGADO, P.O. 2 DE ENERO DE 2016)
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
@@ -3381,61 +3435,7 @@ g) Llevar un control de registro de las actividades sociales, políticas, econó
 
 h) Guardar contacto permanente y directo con las autoridades municipales del medio rural.
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
-
-###### Artículo 206 Bis.
-
-Para auxiliar al Secretario del Ayuntamiento, en materia de los aspectos legales y reglamentarios, el Ayuntamiento tendrá una Dirección de Asuntos Jurídicos, la cual estará a cargo de una persona denominada Director de Asuntos Jurídicos. Esta Dirección contará con la Jefatura de Departamento Jurídico, la Jefatura de Área Penal y Jefatura de Área Laboral, y tendrá las siguientes atribuciones:
-
-I.- Dar consulta legal al Cabildo, Presidente y, en general, a todas las dependencias del municipio cuando así lo requieran para el mejor desempeño de sus actividades;
-
-II.- Tramitar los juicios y amparos en los que el Ayuntamiento fuere parte;
-
-III.- Formular los anteproyectos de los reglamentos municipales;
-
-IV.- Preparar los documentos legales que el Ayuntamiento o el Presidente deban enviar a los Gobiernos Federal y Estatal, así como a los particulares;
-
-V.- Revisar e intervenir en los contratos y convenios municipales;
-
-VI.- Representar al Ayuntamiento o al Presidente en los asuntos legales que estas autoridades indiquen;
-
-VII.- Compilar las normas jurídicas del Ayuntamiento, así como manejar la legislación federal y estatal relativa al ámbito municipal;
-
-VIII.- Proponer al Presidente reformas a las normas jurídicas municipales;
-
-IX.- Instaurar procedimientos administrativos y recibir comparecencias, testimonios y ratificaciones respecto de asuntos que atañen al Ayuntamiento;
-
-X.- Ejercer las funciones y coordinar las actividades que le competen en materia electoral;
-
-XI.- Promover y participar en el establecimiento de convenios entre el Ayuntamiento y el Instituto Electoral del Estado para el ejercicio de las funciones propias del área;
-
-XII.- Auxiliar en el registro electoral manteniendo su vigencia, e informar al Ayuntamiento y al Instituto Electoral del Estado la situación del mismo;
-
-XIII.- Coadyuvar en la vigilancia y brindar el apoyo que compete al Ayuntamiento para el desarrollo de los comicios electorales;
-
-XIV.- Llevar el registro de cultos y mantener actualizado el padrón de los responsables de los templos establecidos en el municipio;
-
-XV.- Vigilar y supervisar, las actividades religiosas que se desarrollen en el municipio, a fin de que sean ajustadas las disposiciones legales específicas en vigor;
-
-XVI.- Remitir, tanto a la Secretaría General de Gobierno como a la Secretaría de Gobernación, los informes que le sean requeridos respecto al establecimiento de cultos y sectas religiosas en el municipio;
-
-XVII.- Llevar una estadística acerca de las conductas antisociales o de faltas administrativas en que incurra la ciudadanía, para que, siendo de su competencia, conozcan de ellos las autoridades municipales de la zona rural o los Jueces Calificadores de la Cárcel Preventiva;
-
-XVIII.- Detectar y vigilar cualquier actividad pública que altere el orden de la comunidad;
-
-XIX.- Vigilar el estricto cumplimiento y desempeño de las funciones de las autoridades y empleados municipales;
-
-XX.- Cuidar la debida observancia de la Ley de Responsabilidades de los Servidores Públicos y someter a consideración del Presidente Municipal las faltas en que incurran los funcionarios municipales;
-
-XXI.- Vigilar, en coordinación con la Contraloría Municipal, que los funcionarios salientes hagan la debida entrega de las oficinas a los entrantes, ya sea por conclusión de encargo o separación de la fuente de trabajo de aquéllos;
-
-XXII.- Tener a su cargo la Unidad de Enlace de Transparencia y Acceso a la Información Pública Municipal, en términos de la Ley de Transparencia y Acceso a la Información Pública del Estado de Colima y del Reglamento de Acceso a la Información Pública del Municipio de Colima;
-
-XXIII.- Denunciar, ante las autoridades competentes, los casos que lo ameriten conforme a la Ley;
-
-XXIV.- Auxiliar y apoyar en sus funciones al Director del Registro Civil;
-
-XXV.- Las demás que le confiera el Ayuntamiento, la ley, reglamentos y demás disposiciones legales aplicables.
+Artículo 206 bis.- (DEROGADO, P.O. 2 DE ENERO DE 2016)
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
@@ -3525,7 +3525,9 @@ El Oficial Mayor en términos del artículo 7º, fracción IV, de la Ley de Pres
 
 La Oficialía Mayor para el desempeño de sus funciones, contará con las siguientes dependencias:
 
-Dirección de Recursos Humanos, que integra Jefatura del Departamento de Personal, Jefatura del Departamento de Capacitación y Calidad, Jefatura de Área de Calidad y Mejora Continua, y Jefatura de Área de Control de Incidencias; Dirección de Recursos Materiales y Control Patrimonial, que integra Jefatura del Departamento de Compras; Jefatura del Departamento de Control Patrimonial; Jefatura del Departamento del Taller Mecánico; Dirección de Sistemas, que integra Jefatura del Departamento de Redes, y Jefatura de Área de Mantenimiento; y Jefatura de Departamento de Servicios Generales y Eventos Especiales.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+
+Jefatura de Departamento de Servicios Generales y Eventos Especiales; Dirección de Recursos Humanos, que se integrará por una Jefatura de Departamento de Personal, una Jefatura de Departamento de Capacitación, una Jefatura de Departamento de Calidad y una Jefatura de Área de Control de Incidencias; Dirección de Recursos Materiales y Control Patrimonial, que se integrará por una Jefatura del Departamento de Compras y una Jefatura del Departamento de Control Patrimonial; Dirección de Taller Mecánico, que tendrá una Jefatura de Área del propio Taller; y Dirección de Sistemas, que se integrará por una Jefatura de Departamento de Redes y una Jefatura de Área de Mantenimiento.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
@@ -3603,6 +3605,42 @@ q) Aplicar el Diagnóstico de Necesidades de Capacitación al personal del Ayunt
 
 r) Proporcionar al trabajador los conocimientos, para eficientar sus habilidades, aptitudes y destrezas para dar cumplimiento a las competencias requeridas por el puesto.
 
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2016)</small>
+
+Artículo 216 bis.- La Jefatura de Departamento de Calidad tendrá a su cargo las siguientes funciones:
+
+l.- Establecer y difundir en las dependencias centralizadas y descentralizadas del Ayuntamiento una cultura de trabajo bajo un modelo de Calidad y Mejora Continua.
+
+II.- Ser un facilitador en el establecimiento, implementación y mantenimiento de los procesos necesarios para el Sistema de Gestión de la Calidad, con la finalidad de preservar la certificación de los procesos a través de la mejora continua.
+
+III.- Promover la toma de conciencia de los requisitos del cliente en todos los niveles del gobierno local a través de la capacitación adecuada, de la comunicación interna y del seguimiento de la percepción del cliente.
+
+IV.- Realizar semestralmente revisiones al Sistema de Gestión de la Calidad e implementar acciones de mejora continua.
+
+V.- Informar al Presidente Municipal todas las actividades derivadas del Sistema de Gestión de la Calidad ISO 90012000.
+
+VI.- Analizar los datos que proporcionan información sobre: satisfacción del cliente, requisitos del producto, acciones preventivas y correctivas
+
+VII.- Integrar el Comité de Calidad, el cual deberá estar conformado por los titulares del más alto nivel de cada una de las dependencias municipales, así como por el Presidente Municipal.
+
+VIII.- Coordinar y llevar a cabo sesiones ordinarias y extraordinarias del Comité de Calidad.
+
+IX.- Capacitar y definir el cuerpo de Auditores Internos del Ayuntamiento, en coordinación con el área de Capacitación.
+
+X.- Programar, coordinar y llevar a cabo Auditorías Internas.
+
+XI.- Vigilar la implementación del Sistema de Gestión de la Calidad en todas las áreas del Ayuntamiento, derivado de los resultados de auditorías realizadas y el análisis de datos de los procesos.
+
+XII.- Coordinar la Oficina de Servicios Múltiples, así como entidades que participen en la recepción y expedición de trámites y servicios que se otorgan en la misma, para la que tendrán como objetivo conjuntar esfuerzos de las dependencias participantes, con la finalidad de cumplir los siguientes objetivos:
+
+a) Coordinar a las dependencias y entidades con las autoridades de los diferentes niveles de Gobierno Municipal para promover la pronta resolución de trámites municipales.
+
+b) Establecer los mecanismos para disminuir plazos, requisitos y documentos, teniendo como objetivo el establecimiento de un sistema de calidad y mejora continua, que permita la atención oportuna, amable y en el menor tiempo posible dar una respuesta al ciudadano; y
+
+c) Colaborar en el otorgamiento de información requisitoria de los diversos trámites que ahí se expidan a través de un módulo, al igual que el apoyo en la gestión de trámites solicitados, teniendo como objetivo el cumplimiento de los tiempos de respuesta, así como la respuesta por escrito.
+
+XIII.- Las dependencias que brindan servicios en la Oficina de Servicios Múltiples (OSM) deberán mantener una estrecha coordinación con la Coordinación de Calidad para que los trámites y servicios que se otorguen en la OSM cumplan con el horario de atención, amabilidad, así como los tiempos de respuesta, debiendo observar el cumplimiento de la normatividad aplicable.
+
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 217.
@@ -3675,43 +3713,13 @@ u) Brindar el servicio de arrastre a los vehículos propiedad del Ayuntamiento, 
 
 v) Realizar convenios de colaboración con talleres mecánicos externos, particulares y del o los Gobiernos Federal, Estatal y/o Municipal, para realizar las funciones establecidas en el presente Ordenamiento.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
 
 ###### Artículo 218.
 
-La Jefatura de Área de Calidad y Mejora Continua, tendrá a su cargo las siguientes funciones:
+La Dirección de Taller Mecánico tendrá a su cargo el mantenimiento y reparación de los vehículos propiedad del Municipio. Estará a cargo de un Director de Área, y tendrá una Jefatura de Área de apoyo.
 
-I.- Establecer y difundir en las dependencias centralizadas y descentralizadas del Ayuntamiento una cultura de trabajo bajo un modelo de Calidad y Mejora Continua.
-
-II.- Ser un facilitador en el establecimiento, implementación y mantenimiento de los procesos necesarios para el Sistema de Gestión de la Calidad, con la finalidad de preservar la certificación de los procesos a través de la mejora continua.
-
-III.- Promover la toma de conciencia de los requisitos del cliente en todos los niveles del gobierno local a través de la capacitación adecuada, de la comunicación interna y del seguimiento de la percepción del cliente.
-
-IV.- Realizar semestralmente revisiones al Sistema de Gestión de la Calidad e implementar acciones de mejora continua.
-
-V.- Informar al Presidente Municipal todas las actividades derivadas del Sistema de Gestión de la Calidad ISO 90012000.
-
-VI.- Analizar los datos que proporcionan información sobre: satisfacción del cliente, requisitos del producto, acciones preventivas y correctivas
-
-VII.- Integrar el Comité de Calidad, el cual deberá estar conformado por los titulares del más alto nivel de cada una de las dependencias municipales, así como por el Presidente Municipal.
-
-VIII.- Coordinar y llevar a cabo sesiones ordinarias y extraordinarias del Comité de Calidad.
-
-IX.- Capacitar y definir el cuerpo de Auditores Internos del Ayuntamiento, en coordinación con el área de Capacitación.
-
-X.- Programar, coordinar y llevar a cabo Auditorías Internas.
-
-XI.- Vigilar la implementación del Sistema de Gestión de la Calidad en todas las áreas del Ayuntamiento, derivado de los resultados de auditorías realizadas y el análisis de datos de los procesos.
-
-XII.- Coordinar la Oficina de Servicios Múltiples, así como entidades que participen en la recepción y expedición de trámites y servicios que se otorgan en la misma, para la que tendrán como objetivo conjuntar esfuerzos de las dependencias participantes, con la finalidad de cumplir los siguientes objetivos:
-
-a) Coordinar a las dependencias y entidades con las autoridades de los diferentes niveles de Gobierno Municipal para promover la pronta resolución de trámites municipales.
-
-b) Establecer los mecanismos para disminuir plazos, requisitos y documentos, teniendo como objetivo el establecimiento de un sistema de calidad y mejora continua, que permita la atención oportuna, amable y en el menor tiempo posible dar una respuesta al ciudadano; y
-
-c) Colaborar en el otorgamiento de información requisitoria de los diversos trámites que ahí se expidan a través de un módulo, al igual que el apoyo en la gestión de trámites solicitados, teniendo como objetivo el cumplimiento de los tiempos de respuesta, así como la respuesta por escrito.
-
-XIII.- Las dependencias que brindan servicios en la Oficina de Servicios Múltiples (OSM) deberán mantener una estrecha coordinación con la Coordinación de Calidad para que los trámites y servicios que se otorguen en la OSM cumplan con el horario de atención, amabilidad, así como los tiempos de respuesta, debiendo observar el cumplimiento de la normatividad aplicable.
+Su superior jerárquico inmediato será el Oficial Mayor, al cual estará adscrito orgánicamente, pero operativamente ejercerá sus funciones en estrecha coordinación con los Directores Generales de Servicios Públicos y de Seguridad Ciudadana y Vialidad, a cuyas dependencias brindará una atención prioritaria cuando las necesidades del servicio así lo demanden.
 
 > <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
@@ -3767,19 +3775,25 @@ El Tesorero Municipal será responsable de las erogaciones que se efectúen y qu
 
 El Tesorero Municipal en términos del artículo 7º, fracción III, de la Ley de Presupuesto, Contabilidad y Gasto Público Municipal es autoridad en materia de presupuesto, contabilidad y gasto público municipal, y tiene como atribuciones las señaladas en el artículo 10 y demás relativas y aplicables de dicho Ordenamiento.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2016)</small>
 
 ###### Artículo 222.
 
-El Tesorero Municipal, además de las facultades y obligaciones que le señala la Ley Municipal en su artículo 72, las referidas en las Leyes Estatales, particularmente la Ley General de Ingresos del Municipio, la Ley General de Hacienda Municipal, la Ley de Presupuesto, Contabilidad y Gasto Público Municipal, la Ley de Deuda Pública del Estado, la Ley de Coordinación Fiscal del Estado, la Ley de Catastro del Estado, la Ley de Patrimonio Municipal y demás Legislación Fiscal en materia municipal, los ordenamientos legales y convenios que emita el cabildo, así como las que le asigne el Presidente Municipal, le corresponden las siguientes atribuciones:
+El Tesorero Municipal, además de las facultades y obligaciones que le señala la Ley Municipal en su artículo 72, las referidas en las Leyes Estatales, particularmente la Ley de Ingresos del Municipio de Colima, la Ley de Hacienda para el Municipio de Colima, la Ley de Presupuesto, Contabilidad y Gasto Público Municipal, la Ley de Deuda Pública del Estado, la Ley de Coordinación Fiscal del Estado, la Ley del Instituto para el Registro del Territorio del Estado y su Reglamento, la Ley de Patrimonio Municipal y demás Legislación Fiscal en materia municipal, los ordenamientos legales y convenios que emita el cabildo, así como las que le asigne el Presidente Municipal, le corresponden las siguientes atribuciones:
 
-I.- Planear y proyectar el presupuesto anual de ingresos, así como formular y someter a consideración del Presidente Municipal el Anteproyecto de la Ley General de Ingresos del Municipio.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2016)</small>
 
-II.- Recaudar los impuestos, derechos, productos y aprovechamientos de conformidad con la Ley General de Ingresos del Municipio, así como las participaciones que por ley o convenio le correspondan al Municipio en el rendimiento de los impuestos federales y estatales, con las excepciones previstas en las leyes.
+I.- Planear y proyectar el presupuesto anual de ingresos, así como formular y someter a consideración del Presidente Municipal el Anteproyecto de la Ley de Ingresos del Municipio de Colima.
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2016)</small>
+
+II.- Recaudar los impuestos, derechos, productos y aprovechamientos de conformidad con la Ley de Ingresos del Municipio de Colima, así como las participaciones que por ley o convenio le correspondan al Municipio en el rendimiento de los impuestos federales y estatales, con las excepciones previstas en las leyes.
 
 III.- Formular mensualmente el estado de origen y aplicación de los recursos municipales.
 
-IV.- Ejercer la facultad económica-coactiva conforme al Código Fiscal Municipal y los reglamentos aplicables para hacer efectivos:
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2016)</small>
+
+IV.- Ejercer la facultad económica-coactiva, por sí o por conducto del Director de Ingresos, conforme al Código Fiscal Municipal y los reglamentos aplicables para hacer efectivos:
 
 a).- Los créditos fiscales exigibles, cualesquiera que sea su naturaleza.
 
@@ -3797,7 +3811,9 @@ g).- El cobro de los tributos, recargos, intereses y multas federales y estatale
 
 V.- Presentar a la Comisión de Hacienda Municipal la cuenta pública mensual y el informe trimestral a que se refieren las fracciones VII y VIII del artículo 8 de la Ley de Presupuesto, Contabilidad y Gasto Público Municipal.
 
-VI.- Integrar y conservar en su poder los libros, registros y archivos contables, así como los documentos comprobatorios de las operaciones financieras que se realicen y ponerlos a disposición de la Contaduría Mayor de Hacienda para la revisión y fiscalización de la cuenta pública municipal.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2016)</small>
+
+VI.- Integrar y conservar en su poder los libros, registros y archivos contables, así como los documentos comprobatorios de las operaciones financieras que se realicen y ponerlos a disposición del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado para la revisión y fiscalización de la cuenta pública municipal.
 
 VII.- Determinar y aplicar las sanciones que procedan por el incumplimiento de las disposiciones fiscales.
 
@@ -3845,11 +3861,13 @@ XXIX.- Revisar las adjudicaciones decretadas por la Dirección de Ingresos del M
 
 XXX.- Las demás que le otorguen las Leyes, Reglamentos y Manuales de Organización.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
 
 ###### Artículo 223.
 
-La Tesorería Municipal para el desempeño de sus funciones, contará con las siguientes dependencias: Dirección de Ingresos, que integra Jefatura de Departamento de Ejecución y Jefatura de Área de Política Fiscal;Dirección de Egresos y Contabilidad, que integra Jefatura de Área de Control Presupuestal y Jefatura de Departamento de Contabilidad; Dirección de Catastro Municipal que integra Jefatura de Departamento de Ventanilla de Servicios y Jefatura de Departamento Técnico; y la Dirección de Inspección y Licencias, que integra Jefatura de Departamento de Inspección, Jefatura de Departamento de Licencias y Jefatura de Área de Licencias.
+La Tesorería Municipal para el desempeño de sus funciones, contará con las siguientes dependencias:
+
+Dirección de Ingresos, que se integrará por una Jefatura de Departamento de Ejecución y una Jefatura de Área de Créditos Fiscales; Dirección de Egresos y Contabilidad, que se integrará por una Jefatura de Área de Control Presupuestal y una Jefatura de Departamento de Contabilidad; Dirección de Catastro Municipal, que se integrará por una Jefatura de Departamento Administrativo y de Servicios y una Jefatura de Departamento del Suelo; y la Dirección de Inspección y Licencias, que se integrará por una Jefatura de Departamento de Inspección, una Jefatura de Departamento de Licencias y una Jefatura de Área de Licencias.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
@@ -3877,7 +3895,9 @@ i) Aceptar las garantías que se otorguen para cubrir créditos fiscales y, en s
 
 j) Recaudar, concentrar, custodiar, vigilar y situar los fondos provenientes de la aplicación de la Ley de Ingresos del Municipio y los que, por otros conceptos, al erario municipal corresponda el derecho a percibirlos por cuenta propia o ajena, así como establecer la mecánica de recaudación vigilando sus índices.
 
-k) Ejercer el procedimiento administrativo de ejecución.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+
+k) Ejercer la facultad económico-coactiva, conforme al Código Fiscal Municipal y los reglamentos aplicables para hacer efectivos los créditos fiscales exigibles del orden municipal.
 
 l) Verificar que, los depositarios de bienes embargados en los procedimientos de ejecución, cumplan con las obligaciones de su encargo, y, en caso contrario, fincar las responsabilidades correspondientes, acordando la sustitución del depositario.
 
@@ -3899,7 +3919,9 @@ b) Informar oportunamente sobre el comportamiento de la disponibilidad de los re
 
 c) Establecer criterios uniformes para la interpretación y registro contable de todos los movimientos que realicen, haciéndolo adecuada y oportunamente.
 
-d) Rendir cuentas comprobadas del movimiento de fondos que formule el Congreso del Estado, por conducto de la Contaduría Mayor de Hacienda.
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+
+d) Rendir cuentas comprobadas del movimiento de fondos que formule el Congreso del Estado, por conducto del Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado.
 
 e) Controlar, registrar y enterar sobre las retenciones de impuestos y otros conceptos que corresponda efectuar al Gobierno Municipal conforme a las leyes, realizando las aplicaciones correspondientes.
 
@@ -3973,11 +3995,11 @@ En los términos del artículo 77 de la Ley Municipal, para los efectos de la ev
 
 El Contralor Municipal para ejercer su cargo, deberá cumplir con los requisitos establecidos en el artículo 68 de la Ley Municipal, en relación con el artículo 198 del presente Reglamento.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
 
 ###### Artículo 230.
 
-La Contraloría Municipal contará para el ejercicio de sus funciones, con las siguientes unidades administrativas: Jefatura del Departamento de Auditoría Financiera; Jefatura del Departamento de Auditoría de Obra Pública y Precios Unitarios y Jefatura de Área de Auditoría de Programas Sociales.
+La Contraloría Municipal contará para el ejercicio de sus funciones, con las siguientes unidades administrativas: una Jefatura de Área de Transparencia; la Jefaturas de Departamento de Auditoría Financiera y de Auditoría de Obra Pública y Precios Unitarios, así como la Jefatura de Área de Auditoría de Programas Sociales.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
@@ -4027,23 +4049,33 @@ XVII.- Apoyar a la comisión de Hacienda y Síndico Municipal en la elaboración
 
 XVIII.- Verificar que los saldos que presenten los Estados Financieros mensuales sean correctos.
 
-XIX.- Solicitar a los titulares de las dependencias y entidades de la administración pública municipal que participen con el Tesorero y el Presidente Municipal en el cumplimiento de las observaciones que formule la Contaduría Mayor de Hacienda.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2016)</small>
+
+XIX.- Solicitar a los titulares de las dependencias y entidades de la administración pública municipal que participen con el Tesorero y el Presidente Municipal en el cumplimiento de las observaciones que formule el Órgano Superior de Auditoría y Fiscalización Gubernamental del Estado.
 
 XX.- Coordinar que los servidores públicos presenten la declaración de situación patrimonial en tiempo y forma, conforme lo señala la Ley Estatal de Responsabilidades de los Funcionarios Públicos.
 
-XXI.- Las demás que le otorguen las Leyes, Reglamentos y Manuales de Organización.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
+XXI.- Tener a su cargo la Unidad de Transparencia y Acceso a la Información Pública, en términos de la Ley de Transparencia y Acceso a la Información Pública y del Reglamento de Transparencia y Acceso a la Información Pública para el Municipio de Colima; y
 
-#### SECCIÓN VI. DIRECCIÓN GENERAL DE OBRAS PÚBLICAS
+> <small>(ADICIONADA, P.O. 2 DE ENERO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+XXII.-·Las demás que le otorguen las Leyes, Reglamentos y Manuales de Organización.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE ENERO DE 2016)</small>
+
+#### SECCIÓN VI. DIRECCIÓN GENERAL DE DESARROLLO SUSTENTABLE
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
 
 ###### Artículo 233.
 
-Para auxiliar al Presidente Municipal en el cumplimiento de los programas de obra pública aprobados por el Ayuntamiento, así como el mantenimiento de la Infraestructura Urbana, el Ayuntamiento tendrá una Dirección General de Obras Públicas, la cual estará a cargo de una persona denominada Director General de Obras Públicas.
+Para auxiliar al Presidente Municipal en el cumplimiento de los programas de obra pública aprobados por el Ayuntamiento, el mantenimiento de la Infraestructura Urbana, en la formulación y conducción de las políticas generales de asentamientos humanos, urbanismo, ecología, control del uso del suelo y vivienda dentro de la jurisdicción territorial del Municipio, basándose en programas de desarrollo urbano y en coordinación con los Consejos Consultivos y Comités Técnicos relativos al desarrollo urbano, en términos de la Constitución Federal, la Constitución Local, la Ley Municipal, así como de conformidad con la Ley de Asentamientos Humanos, el Reglamento de Zonificación y demás ordenamientos que se expidan en la materia, el Ayuntamiento tendrá una Dirección General de Desarrollo Sustentable, la cual estará a cargo de una persona denominada Director General de Desarrollo Sustentable.
 
-A la Dirección General de Obras Públicas, le corresponde:
+A la Dirección General de Desarrollo Sustentable le corresponde:
+
+A. En materia de Obras Públicas:
 
 I.- Elaborar y ejecutar los proyectos de obra pública que cada año lleva a cabo la Administración Pública Municipal, en base al presupuesto autorizado y a la política de prioridades que defina el Presidente Municipal y los programas de trabajo;
 
@@ -4065,11 +4097,47 @@ IX.- Llevar a cabo y supervisar técnicamente los proyectos y la realización de
 
 X.- Las demás que le encomienden el Presidente Municipal, este Reglamento y otras disposiciones reglamentarias.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+B. En materia de Desarrollo Urbano y Ecología:
+
+l.- Expedir el dictamen de vocación del suelo, gestionando previamente ante la Secretaría de Infraestructura y Desarrollo Urbano del Gobierno del Estado se verifique su congruencia, en los casos previstos en la Ley de Asentamientos Humanos del Estado.
+
+II.- Autorizar los proyectos ejecutivos de urbanización y controlar su ejecución.
+
+III.- Expedir las licencias o permisos de urbanización.
+
+IV.- Autorizar la publicidad que los urbanizadores y promotores inmobiliarios utilicen, con base en el correspondiente programa parcial de urbanización previamente autorizado.
+
+V.- Autorizar la fusión, subdivisión y relotificación.
+
+VI.- Vigilar el cumplimiento de las obligaciones a cargo de los urbanizadores y promotores, requiriendo otorguen las garantías que establece la Ley de Asentamientos Humanos del Estado.
+
+VII.- Vigilar en las urbanizaciones que no hayan sido municipalizadas, que los urbanizadores o promotores presten adecuada y suficientemente los servicios a que se encuentran obligados conforme a la Ley de Asentamientos Humanos del Estado y la autorización respectiva.
+
+VIII.- Otorgar licencias o permisos para construcción, remodelación, ampliación y demolición de inmuebles.
+
+IX.- Expedir el certificado de habitabilidad.
+
+X.- Establecer el registro de los profesionales que actuarán como peritos y directores responsables de obras, con quienes los urbanizadores podrán contratar la supervisión de las obras de urbanización y edificación, mismos que actuarán en auxilio de la dependencia municipal.
+
+XI.- Asesorar y apoyar a las agrupaciones sociales que emprendan acciones dirigidas a la conservación y mejoramiento de sitios, fincas y monumentos del patrimonio urbano y arquitectónico.
+
+XII.- Controlar las acciones, obras y servicios que se ejecuten en el Municipio para que sean compatibles con la legislación, programas y zonificación aplicables.
+
+XIII.- Vigilar el cumplimiento y aplicación de las disposiciones de la Ley de Asentamientos Humanos del Estado, tomando las acciones necesarias para impedir se realicen actos de aprovechamiento de predios y fincas, no autorizados o en contravención de las disposiciones legales aplicables.
+
+XIV.- Llevar el registro de los programas municipales de desarrollo urbano, para su difusión, consulta pública, control y evaluación.
+
+XV.- Calificar en el ámbito de su competencia, las infracciones e imponer las medidas de seguridad y sanciones que establece la Ley de Asentamientos Humanos del Estado, Reglamentos Municipales y demás disposiciones jurídicas aplicables.
+
+XVI.- Autorizar a los urbanizadores y promotores iniciar la promoción de venta de lotes o fincas; y
+
+XVII.- Las demás atribuciones que se establezcan en las Leyes, Reglamentos y Manuales de Organización del Municipio.
+
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
 
 ###### Artículo 234.
 
-Para el desenvolvimiento de sus funciones, la coordinación, supervisión y vigilancia la Dirección General de Obras Públicas, cuenta con dos Direcciones de Área: La Dirección de Construcción, que cuenta con dos Jefaturas de Departamento, la de Proyectos y Presupuestos y la de Supervisión, y la Dirección de Mantenimiento y Conservación de Infraestructura Urbana, que a su vez cuenta con dos Jefaturas de Departamento, la de Mantenimiento de Edificios y la de Rehabilitación y Mantenimiento de Vialidades, teniendo dichas Direcciones las siguientes funciones: (sic)
+Para el desenvolvimiento de sus funciones, la Dirección General de Desarrollo Sustentable contará con cuatro Direcciones de Área: la Dirección de Construcción, que contará con dos Jefaturas de Departamento, la de Proyectos y Presupuestos y la de Supervisión; la Dirección de Mantenimiento, que a su vez contará con dos Jefaturas de Departamento: la de Mantenimiento de Edificios y la de Mantenimiento de Vialidades; la Dirección de Desarrollo Urbano, que contará con tres Jefaturas de Departamento: de Planeación y Regulación Urbana, de Licencias de Construcción y de Inspección y Supervisión de Obras; y una Dirección de Ecología, que tendrá una Jefatura de Área de Calidad Ambiental; teniendo dichas Direcciones las siguientes funciones: (sic)
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
@@ -4081,7 +4149,9 @@ I.- Establecer políticas a seguir y coordinar acciones que permitan la construc
 
 II.- Cumplir los procedimientos que señala la legislación vigente para el proceso de contratación y adjudicación de las obras cuando se realizan por contrato.
 
-III.- Suplir las ausencias del Director General de Obras Públicas.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2016)</small>
+
+III.- Suplir las ausencias del Director General de Desarrollo Sustentable.
 
 IV.- Asistir técnicamente y servir de enlace en la coordinación, planeación y ejecución de proyectos tendientes a mejorar e incrementar la infraestructura municipal.
 
@@ -4089,19 +4159,89 @@ V.- Realizar los proyectos y presupuestos de obra, vigilando y supervisando que 
 
 VI.- Coordinar, ejecutar, revisar y autorizar las estimaciones, así como ejercer el control presupuestal de la obra pública municipal en términos de las especificaciones señaladas en los proyectos de obra aprobados y de lo establecido en las Leyes y Ordenamientos de la materia, desde el inicio de obra hasta la entrega recepción de la misma.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2016)</small>
 
 ###### Artículo 236.
 
-A la Dirección de Mantenimiento y Conservación de Infraestructura Urbana le corresponde:
+A la Dirección de Mantenimiento le corresponde:
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
 I.- Establecer políticas a seguir y coordinar acciones que permitan el mantenimiento planificado de infraestructura, equipamiento y estructura vial de comunicación local y conexión regional.
 
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
+
 II.- Asistir técnicamente y servir de enlace en la coordinación, planeación y ejecución de proyectos tendientes a mejorar la infraestructura municipal.
 
-III.- Proyectar y ejecutar acciones que permitan el mantenimiento preventivo y correctivo de los inmuebles a cargo del Municipio, basándose en las políticas fijadas por la Dirección General de Obras Públicas.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2016)</small>
 
-IV.- El registro y control de la maquinaria y equipo propiedad del Municipio que se utiliza en la obra pública, así como proyectar y ejecutar acciones que permitan el mantenimiento preventivo y correctivo de la infraestructura urbana, vialidades urbanas y caminos vecinales y saca cosechas, basándose en las políticas fijadas por la Dirección General de Obras Públicas.
+III.- Proyectar y ejecutar acciones que permitan el mantenimiento preventivo y correctivo de los inmuebles a cargo del Municipio, basándose en las políticas fijadas por la Dirección General de Desarrollo Sustentable.
+
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2016)</small>
+
+IV.- El registro y control de la maquinaria y equipo propiedad del Municipio que se utiliza en la obra pública, así como proyectar y ejecutar acciones que permitan el mantenimiento preventivo y correctivo de la infraestructura urbana, vialidades urbanas y caminos vecinales y saca cosechas, basándose en las políticas fijadas por la Dirección General de Desarrollo Sustentable.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2016)</small>
+
+Artículo 236 bis.- A la Dirección de Desarrollo Urbano le corresponden las siguientes funciones:
+
+I.- Expedir el dictamen de vocación del suelo, gestionando previamente ante la Secretaría de Infraestructura y Desarrollo Urbano del Gobierno del Estado se verifique su congruencia, en los casos previstos en la Ley de Asentamientos Humanos del Estado.
+
+II.- Autorizar los proyectos ejecutivos de urbanización y controlar su ejecución.
+
+III.- Expedir las licencias o permisos de urbanización.
+
+IV.- Autorizar la publicidad que los urbanizadores y promotores inmobiliarios utilicen, con base en el correspondiente programa parcial de urbanización previamente autorizado.
+
+V.- Autorizar la fusión, subdivisión y relotificación.
+
+VI.- Vigilar el cumplimiento de las obligaciones a cargo de los urbanizadores y promotores, requiriendo otorguen las garantías que establece la Ley de Asentamientos Humanos del Estado.
+
+VII.- Vigilar en las urbanizaciones que no hayan sido municipalizadas, que los urbanizadores o promotores presten adecuada y suficientemente los servicios a que se encuentran obligados conforme a la Ley de Asentamientos Humanos del Estado y la autorización respectiva.
+
+VIII.- Otorgar licencias o permisos para construcción, remodelación, ampliación y demolición de inmuebles.
+
+IX.- Expedir el certificado de habitabilidad.
+
+X.- Establecer el registro de los profesionales que actuarán como peritos y directores responsables de obras, con quienes los urbanizadores podrán contratar la supervisión de las obras de urbanización y edificación, mismos que actuarán en auxilio de la dependencia municipal.
+
+XI.- Asesorar y apoyar a las agrupaciones sociales que emprendan acciones dirigidas a la conservación y mejoramiento de sitios, fincas y monumentos del patrimonio urbano y arquitectónico.
+
+XII.- Controlar las acciones, obras y servicios que se ejecuten en el Municipio para que sean compatibles con la legislación, programas y zonificación aplicables.
+
+XIII.- Vigilar el cumplimiento y aplicación de las disposiciones de la Ley de Asentamientos Humanos del Estado, tomando las acciones necesarias para impedir se realicen actos de aprovechamiento de predios y fincas, no autorizados o en contravención de las disposiciones legales aplicables.
+
+XIV.- Llevar el registro de los programas municipales de desarrollo urbano, para su difusión, consulta pública, control y evaluación.
+
+XV.- Calificar en el ámbito de su competencia, las infracciones e imponer las medidas de seguridad y sanciones que establece la Ley de Asentamientos Humanos del Estado, Reglamentos Municipales y demás disposiciones jurídicas aplicables.
+
+XVI.- Autorizar a los urbanizadores y promotores iniciar la promoción de venta de lotes o fincas; y
+
+XVII.- Las demás atribuciones que se establezcan en las Leyes, Reglamentos y Manuales de Organización del Municipio.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2016)</small>
+
+Artículo 236 ter.- A la Dirección de Ecología le competen las siguientes funciones:
+
+I.- Regular las acciones que en materia de preservación y restauración del equilibrio ecológico y protección al ambiente se realicen en bienes y zonas de jurisdicción del Municipio.
+
+II.- Coordinar la participación del Municipio con el Estado en materia de preservación y restauración del equilibrio ecológico y la protección al ambiente.
+
+III.- Definir los principios de la política ecológica municipal y los instrumentos para su aplicación.
+
+IV.- Señalar la competencia del Municipio y la concurrencia entre éste y el Estado, en materias de preservación y restauración del equilibrio ecológico y la protección al ambiente; así como la participación de estos órdenes de gobierno con la Federación en las materias indicadas.
+
+V.- Establecer y normar el sistema municipal de áreas naturales protegidas.
+
+VI.- Procurar el aprovechamiento sustentable de los elementos naturales, de manera que sea compatible la obtención de beneficios económicos y sociales con el equilibrio de los ecosistemas.
+
+VII.- Prevenir y controlar la contaminación de la atmósfera, agua y suelo, que sean competencia municipal.
+
+VIII.- Estructurar los mecanismos de coordinación y participación responsable de los sectores públicos, social y privado, en las materias que regula este ordenamiento.
+
+IX.- Definir el sistema de medidas de prevención, control, seguridad y las sanciones a cargo del Municipio en las materias mencionadas en este artículo; y
+
+X.- Demás atribuciones que se establezcan en las Leyes, Reglamentos y Manuales de Organización del Municipio.
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
@@ -4185,11 +4325,11 @@ XXV.- Supervisar el diseño, la implementación y la difusión de los programas 
 
 XXVI.- Las demás que le otorguen las Leyes, Reglamentos y Manuales de Organización.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
 
 ###### Artículo 240.
 
-Para tal efecto, la Dirección General de Servicios Públicos contará con las siguientes dependencias; Dirección de Limpia y Sanidad, que integra Jefatura del Departamento de Limpia y Sanidad, Jefatura del Departamento de Relleno Sanitario, Jefatura de Departamento de Lotes Baldíos e Inspección; Dirección de Parques y Jardines, que integra las Jefaturas de Área de la Zonas I, II, III, de la Ciudad, Jefatura de Área de la Zona IV y Zona Rural de la Ciudad; Dirección de Alumbrado Público, que integra Jefatura del Departamento de Alumbrado Público y Jefatura de Área de Mantenimiento y Reparación; Jefatura del Departamento de Personal;-Jefatura (sic) de Área de Apoyo Técnico y Jefatura del Departamento de Control de Perros, Gatos y otras Mascotas.
+Para tal efecto, la Dirección General de Servicios Públicos contará con las siguientes dependencias: Dirección de Limpia y Sanidad, que se integrará por las Jefaturas de Departamento: de Limpia y Sanidad y de Relleno Sanitario, y las Jefaturas de Área de Lotes Baldíos, de Recolección de Residuos Sólidos Turno Matutino, Recolección de Residuos Sólidos Turno Vespertino y Recolección de Residuos Sólidos Turno Nocturno; Dirección de Parques y Jardines, que se integrará por la Jefatura de Departamento de Parques y Jardines y Ja Jefatura de Área de Parques y Áreas Deportivas; Dirección de Alumbrado Público, que se integrará por la Jefatura de Departamento de Alumbrado Público y Jefatura de Área de Medición; la Jefatura del Departamento de Personal y su Jefatura de Área de Apoyo Técnico; y la Jefatura de Departamento de Control de Mascotas.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
@@ -4283,121 +4423,95 @@ e).- Llevar el control de los fondos revolventes buscando atender a todas las Di
 
 g (sic)).- Llevar el control y seguimiento ordenado de los contratos de recolección y traslado de residuos sólidos, así como del uso del relleno sanitario.
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
+> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE ENERO DE 2016)</small>
 
 #### SECCIÓN VIII. DIRECCIÓN GENERAL DE DESARROLLO URBANO, ECOLOGÍA Y VIVIENDA
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
-
 ###### Artículo 245.
 
-Para auxiliar al Presidente Municipal en materia de Desarrollo Urbano, Ecología y Vivienda, el Ayuntamiento tendrá una Dirección General de Desarrollo Urbano, Ecología y Vivienda, misma que estará a cargo de una persona denominada Director General de Desarrollo Urbano, Ecología y Vivienda. El cual tiene como funciones, las de formular y conducir las políticas generales de asentamientos humanos, urbanismo, ecología, control del uso del suelo y vivienda dentro de la jurisdicción territorial del Municipio, basándose en programas de desarrollo urbano y en coordinación con los Consejos Consultivos y Comités Técnicos relativos al desarrollo urbano, en términos de la Constitución Federal, la Constitución Local, la Ley Municipal, así como de conformidad con la Ley de Asentamientos Humanos, el Reglamento de Zonificación y demás ordenamientos que se expidan en la materia.
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 2 DE ENERO DE 2016)
 
 ###### Artículo 246.
 
-Para tal efecto, la Dirección General de Desarrollo Urbano, Ecología y Vivienda, contará con las siguientes dependencias; Dirección de Desarrollo Urbano, que integra, Jefatura de Departamento de Planeación y Ordenamiento Urbano, Jefatura de Departamento de Licencias de Construcción y Jefatura de Departamento de Inspección y Supervisión de Obras; Dirección de Ecología que integra Jefatura de Área de Calidad Ambiental; y Jefatura de Departamento de Vivienda. Para el desempeño de sus funciones y responsabilidades, así como la coordinación, supervisión y vigilancia de sus actividades, tendrá además de las funciones encomendadas a la misma, las señaladas para sus dependencias.
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 2 DE ENERO DE 2016)
 
 ###### Artículo 247.
 
-A la Dirección de Desarrollo Urbano, le corresponden las siguientes funciones:
-
-I.- Expedir el dictamen de vocación del suelo, gestionando previamente ante la Secretaría de Desarrollo Urbano del Gobierno del Estado se verifique su congruencia, en los casos previstos en la Ley de Asentamientos Humanos del Estado.
-
-II.- Autorizar los proyectos ejecutivos de urbanización y controlar su ejecución.
-
-III.- Expedir las licencias o permisos de urbanización.
-
-IV.- Autorizar la publicidad que los urbanizadores y promotores inmobiliarios utilicen, con base en el correspondiente programa parcial de urbanización previamente autorizado.
-
-V.- Autorizar la fusión, subdivisión y relotificación.
-
-VI.- Vigilar el cumplimiento de las obligaciones a cargo de los urbanizadores y promotores, requiriendo otorguen las garantías que establece la Ley de Asentamientos Humanos del Estado.
-
-VII.- Vigilar en las urbanizaciones que no hayan sido municipalizadas, que los urbanizadores o promotores presten adecuada y suficientemente los servicios a que se encuentran obligados conforme a la Ley de Asentamientos Humanos del Estado y la autorización respectiva.
-
-VIII.- Otorgar licencias o permisos para construcción, remodelación, ampliación y demolición de inmuebles.
-
-IX.- Expedir el certificado de habitabilidad.
-
-X.- Establecer el registro de los profesionales que actuarán como peritos y directores responsables de obras, con quienes los urbanizadores podrán contratar la supervisión de las obras de urbanización y edificación, mismos que actuarán en auxilio de la dependencia municipal.
-
-XI.- Asesorar y apoyar a las agrupaciones sociales que emprendan acciones dirigidas a la conservación y mejoramiento de sitios, fincas y monumentos del patrimonio urbano y arquitectónico.
-
-XII.- Controlar las acciones, obras y servicios que se ejecuten en el Municipio para que sean compatibles con la legislación, programas y zonificación aplicables.
-
-XIII.- Vigilar el cumplimiento y aplicación de las disposiciones de la Ley de Asentamientos Humanos del Estado, tomando las acciones necesarias para impedir se realicen actos de aprovechamiento de predios y fincas, no autorizados o en contravención de las disposiciones legales aplicables.
-
-XIV.- Llevar el registro de los programas municipales de desarrollo urbano, para su difusión, consulta pública, control y evaluación.
-
-XV.- Calificar en el ámbito de su competencia, las infracciones e imponer las medidas de seguridad y sanciones que establece la Ley de Asentamientos Humanos del Estado, Reglamentos Municipales y demás disposiciones jurídicas aplicables.
-
-XVI.- Autorizar a los urbanizadores y promotores iniciar la promoción de venta de lotes o fincas; y
-
-XVII.- Las demás atribuciones que se establezcan en las Leyes, Reglamentos y Manuales de Organización del Municipio.
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 2 DE ENERO DE 2016)
 
 ###### Artículo 248.
 
-A la Dirección de Ecología, le competen las siguientes funciones:
-
-I.- Regular las acciones que en materia de preservación y restauración del equilibrio ecológico y protección al ambiente se realicen en bienes y zonas de jurisdicción del Municipio.
-
-II.- Coordinar la participación del Municipio con el Estado en materia de preservación y restauración del equilibrio ecológico y la protección al ambiente.
-
-III.- Definir los principios de la política ecológica municipal y los instrumentos para su aplicación.
-
-IV.- Señalar la competencia del Municipio y la concurrencia entre éste y el Estado, en materias de preservación y restauración del equilibrio ecológico y la protección al ambiente; así como la participación de estos Órdenes de Gobierno con la Federación en las materias indicadas.
-
-V.- Establecer y normar el sistema municipal de áreas naturales protegidas.
-
-VI.- Procurar el aprovechamiento sustentable de los elementos naturales, de manera que sea compatible la obtención de beneficios económicos y sociales con el equilibrio de los ecosistemas.
-
-VII.- Prevenir y controlar la contaminación de la atmósfera, agua y suelo, que sean competencia municipal.
-
-VIII.- Estructurar los mecanismos de coordinación y participación responsable de los sectores públicos, social y privado, en las materias que regula este Ordenamiento.
-
-IX.- Definir el sistema de medidas de prevención, control, seguridad y las sanciones a cargo del Municipio en las materias mencionadas en este artículo; y
-
-X.- Demás atribuciones que se establezcan en las Leyes, Reglamentos y Manuales de Organización del Municipio.
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 2 DE ENERO DE 2016)
 
 ###### Artículo 249.
 
-A la Jefatura de Departamento de Vivienda, le corresponden las siguientes funciones:
+(DEROGADO, P.O. 2 DE ENERO DE 2016)
 
-I.- Promover la creación de reservas territoriales destinadas al establecimiento de vivienda.
-
-II.- Analizar, planear, proponer y gestionar las soluciones a los problemas de asentamientos humanos irregulares en el medio urbano y rural.
-
-III.- Promover, planear y ejecutar programas de mejoramiento de vivienda, pies de casa, vivienda progresiva y vivienda terminada, tanto en el medio urbano como en el rural, y realizar los estudios geográficos, socioeconómicos, financieros y de factibilidad que permitan a la autoridad municipal tomar decisiones en forma eficaz y oportuna respecto a las inversiones en este renglón.
-
-IV.- Tener a su cargo la acción inmobiliaria del Municipio.
-
-V.- Participar en el manejo técnico del patrimonio inmobiliario, y
-
-VI.- Demás atribuciones que se establezcan en las Leyes, Reglamentos y Manuales de Organización del Municipio.
-
-> <small>(DEROGADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 10 DE DICIEMBRE DE 2011)</small>
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 2 DE ENERO DE 2016)</small>
 
 #### SECCIÓN IX. DIRECCIÓN GENERAL DE ASUNTOS JURÍDICOS
 
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2016)</small>
+
 ###### Artículo 250.
 
-(DEROGADO, P.O. 10 DE DICIEMBRE DE 2011)
+Para auxiliar al Presidente Municipal en asuntos legales y reglamentarios, el Ayuntamiento tendrá una Dirección General de Asuntos Jurídicos, la cual estará a cargo de una persona denominada Director General de Asuntos Jurídicos. Esta Dirección General contará con cuatro Jefaturas de Área, que serán: Área Penal, Área Laboral, Área Administrativa-Fiscal y Área de Consultas y Dictámenes.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2016)</small>
 
 ###### Artículo 251.
 
-(DEROGADO, P.O. 10 DE DICIEMBRE DE 2011)
+La Dirección General de Asuntos Jurídicos tendrá las siguientes atribuciones:
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
+I.- Dar consulta legal al Cabildo, Presidente y, en general, a todas las dependencias del Municipio cuando así lo requieran para el mejor desempeño de sus actividades.
 
-#### SECCIÓN X. DIRECCIÓN GENERAL DE SEGURIDAD PÚBLICA Y VIALIDAD
+II.- Tramitar los juicios y amparos en los que el Ayuntamiento fuere parte;
+
+III.- Formular los anteproyectos de los reglamentos municipales;
+
+IV.- Preparar los documentos legales que el Ayuntamiento o el Presidente deban enviar a los Gobiernos Federal y Estatal, así como a los particulares;
+
+V.- Revisar e intervenir en los contratos y convenios municipales;
+
+VI.- Representar al Ayuntamiento o al Presidente en los asuntos legales que estas autoridades indiquen;
+
+VII.- Compilar las normas jurídicas del Ayuntamiento, así como manejar la legislación federal y estatal relativas al ámbito municipal;
+
+VIII.- Proponer al Presidente reformas a las normas jurídicas municipales;
+
+IX.- Instaurar procedimientos administrativos y recibir comparecencias, testimonios y ratificaciones respecto de asuntos que atañen al Ayuntamiento;
+
+X.- Ejercer las funciones y coordinar las actividades que le competen en materia electoral;
+
+XI.- Promover y participar en el establecimiento de convenios entre el Ayuntamiento y el Instituto Electoral del Estado para el ejercicio de las funciones propias del área;
+
+XII.- Auxiliar en el registro electoral manteniendo su vigencia, e informar al Ayuntamiento y al Instituto Electoral del Estado la situación del mismo;
+
+XIII.- Coadyuvar en la vigilancia y brindar el apoyo que compete al Ayuntamiento para el desarrollo de los comicios electorales;
+
+XIV.- Llevar el registro de cultos y mantener actualizado el padrón de los responsables de los templos establecidos en el Municipio;
+
+XV.- Vigilar y supervisar, las actividades religiosas que se desarrollen en el Municipio, a fin de que sean ajustadas las disposiciones legales específicas en vigor;
+
+XVI.- Remitir, tanto a la Secretaría General de Gobierno como a la Secretaría de Gobernación, los informes que le sean requeridos respecto al establecimiento de cultos y sectas religiosas en el Municipio;
+
+XVII.- Llevar una estadística acerca de las conductas antisociales o de faltas administrativas en que incurra la ciudadanía, para que, siendo de su competencia, conozcan de ellos las autoridades municipales de la zona rural o los Jueces Calificadores del Centro Preventivo Municipal;
+
+XVIII.- Detectar y vigilar cualquier actividad pública que altere el orden de la comunidad;
+
+XIX.- Vigilar el estricto cumplimiento y desempeño de las funciones de las autoridades y empleados municipales;
+
+XX.- Cuidar la debida observancia de la Ley de Responsabilidades de los Servidores Públicos y someter a consideración del Presidente Municipal las faltas en que incurran los funcionarios municipales;
+
+XXI.- Vigilar, en coordinación con la Contraloría Municipal, que los funcionarios salientes hagan la debida entrega de las oficinas a los entrantes, ya sea por conclusión de encargo o separación de la fuente de trabajo de aquéllos;
+
+XXII.- Denunciar, ante las autoridades competentes, los casos que lo ameriten conforme a la Ley; y
+
+XXIII.- Las demás que le confiera el Ayuntamiento, la Ley, Reglamentos y demás disposiciones legales aplicables.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE ENERO DE 2016)</small>
+
+#### SECCIÓN X. DIRECCIÓN GENERAL DE SEGURIDAD CIUDADANA Y VIALIDAD
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
@@ -4405,79 +4519,137 @@ VI.- Demás atribuciones que se establezcan en las Leyes, Reglamentos y Manuales
 
 Para el otorgamiento a la ciudadanía de los servicios de seguridad pública, tránsito y control de tráfico vial dentro del Municipio y para auxiliar al Presidente Municipal en el ejercicio de estas funciones, el Ayuntamiento contará con una Dirección General de Seguridad Pública y Vialidad, la cual estará a cargo de una persona denominada Director de Seguridad Pública y Vialidad.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
 
 ###### Artículo 253.
 
-El Director General de Seguridad Pública y Vialidad tendrá a su mando el cuerpo administrativo, técnico y operativo de la Policía Preventiva y de Tránsito, una Dirección Operativa de Seguridad Pública y Vialidad, que integra Jefatura de Departamento de Comandancia de Seguridad Pública y Vialidad, y ésta a su vez se compone de Jefatura de Área de Academia; Jefatura de Departamento de Ingeniería de Tránsito, Jefatura de Área de Señalamientos Vial, y Jefatura de Área de Semáforos; Jefatura de Departamento de Normas e Infracciones; Jefatura de Área de Educación Vial; así como comandantes, radio operadores y agentes de policía preventiva y policía de tránsito, los cuales conformarán el tipo y número de plazas que señale el presupuesto de egresos respectivo.
+El Director General de Seguridad Ciudadana y Vialidad tendrá a su mando el cuerpo administrativo, técnico y operativo de la Policía Preventiva y de Tránsito, una Dirección Operativa de Seguridad Ciudadana y Vialidad, que se integrará por una Jefatura de Departamento de Comandancia de Seguridad Ciudadana y Vialidad y ésta, a su vez, se compondrá de una Jefatura de Área de Academia; por una Jefatura de Departamento de Ingeniería de Tránsito, que tendrá dos Jefaturas de Área: de Señalamientos Viales y de Semáforos; una Jefatura de Departamento de Normas e Infracciones, que tendrá una Jefatura de Área de Educación Vial; y una Jefatura de Departamento Administrativo; así como comandantes, radio operadores y agentes de policía preventiva y policía de tránsito, los cuales conformarán el tipo y número de plazas que señale el presupuesto de egresos respectivo.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2016)</small>
 
 ###### Artículo 254.
 
-La Dirección General de Seguridad Pública y Vialidad, tendrá las funciones siguientes:
+La Dirección General de Seguridad Ciudadana y Vialidad, tendrá fas funciones siguientes:
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
 I.- Hacer cumplir los Ordenamientos Legales vigentes en materia de Seguridad Pública, Tránsito y Vialidad.
 
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
+
 II.- Proponer al Presidente Municipal el tabulador de multas para su aplicación por desacato al Bando de Policía y Gobierno, así como el aplicable a las infracciones que se cometan al Reglamento de Tránsito y Vialidad vigente en el Municipio, previa autorización del cabildo y para ser publicado en la Ley General de Ingresos del Municipio.
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
 III.- Diseñar Programas de Prevención del Delito, realizar pláticas informativas y de difusión del buen comportamiento ciudadano de manera coordinada con otras instituciones afines, así como dar énfasis en los planteles de nivel básico sobre las normas de Educación Vial encaminados a crear conciencia y hábitos de respeto a los ordenamientos legales en materia del Bando de Policía y Gobierno y de Tránsito y Vialidad, a efecto de prevenir la comisión de faltas administrativas y delitos, así como evitar la comisión de hechos de tránsito.
 
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
+
 IV.- Informar a la ciudadanía a través de los diversos medios y técnicas de comunicación, sobre las medidas preventivas de Seguridad Pública, Tránsito y Vialidad que deberán observarse para mantener el orden público y regular el tráfico vehicular.
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
 V.- Instrumentar programas operativos en coordinación con las dependencias de los demás órganos de gobierno a fin de aplicar medidas preventivas sobre seguridad pública y en materia de seguridad vial.
 
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
+
 VI.- Autorizar, restringir y regular la circulación de vehículos en los centros de población que por su tipo, dimensiones y características, así como por los materiales o sustancias que transporten, puedan representar riesgo para la comunidad.
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
 VII.- Regular y ordenar en los centros de población la señalización vial procurando la actualización y modernización de los sistemas tecnológicos de control vehicular.
 
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
+
 VIII.- En materia de vialidad, instrumentar programas operativos para fomentar una cultura ecológica en la población y evitar la contaminación ambiental derivada de la emisión de ruidos, polvos y gases tóxicos, coordinándose con las autoridades Estatales, Federales y Municipales, en el ámbito de sus respectivas esferas de competencia.
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
 IX.- Establecer y hacer respetar los señalamientos y dispositivos electrónicos que regulan la circulación vial en las zonas urbanas, suburbanas y rurales de los centros de población, a fin de mantener la seguridad del tránsito.
 
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
+
 X.- Promover la observancia de la normatividad a que deberán sujetarse los habitantes del Municipio en materia de seguridad pública.
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
 XI.- Diseñar e instrumentar los Programas de Seguridad Pública y Vialidad con la aplicación de operativos reactivos y el uso de equipo tecnológico para mantener el orden y la paz pública, así como regular y dar mayor fluidez y seguridad a la circulación de peatones y vehículos.
 
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
+
 XII.- Coordinarse con la Oficialía Mayor del Ayuntamiento para implementar cursos de capacitación y actualización del personal operativo, técnico y de apoyo administrativo que forma parte de la Dirección General.
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
 XIII.- Participar en la actualización y adecuación de Leyes y Reglamentos que correspondan al área, así como cuidar su aplicación y observar su cumplimiento.
 
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
+
 XIV.- Promover la participación de la comunidad en la implementación de Programas de Seguridad Pública y Prevención del Delito.
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
 XV.- Informar al Consejo Municipal de Seguridad Pública sobre las actividades que realice la Dirección General en cumplimiento de sus funciones.
 
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
+
 XVI.- Promover ante la Academia Estatal y Nacional de Seguridad Pública la implementación de programas de capacitación que permitan profesionalizar los perfiles personales de los elementos de seguridad pública y vialidad.
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
 XVII.- Las demás que señalen la Ley, los Reglamentos y Manuales de Organización.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 2 DE ENERO DE 2016)</small>
 
 ###### Artículo 255.
 
-La Dirección Operativa de Seguridad Pública y Vialidad tendrá las funciones siguientes:
+La Dirección Operativa de Seguridad Ciudadana y Vialidad tendrá las funciones siguientes:
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
 I.- Auxiliar al Director General en el cumplimiento de sus funciones y en su caso supliéndolo en sus ausencias.
 
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
+
 II.- Realizar el diseño de programas de prevención del delito, tanto en el ámbito especial como general, atendiendo las particularidades de la población de acuerdo con las áreas urbana, suburbana o rural.
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
 III.- Coordinar las acciones que en materia de educación vial se realizan en las instituciones educativas y a población abierta.
 
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
+
 IV.- Promover la participación de la comunidad en la elaboración y ejecución de los programas de prevención del delito, con el propósito de lograr la corresponsabilidad ciudadana en las labores operativas de seguridad pública.
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
 V.- Planear, ejecutar y vigilar el cumplimiento de programas permanentes de respeto a las normas viales encaminados a prevenir y disminuir el índice de accidentes de tránsito en las vialidades de la Ciudad Capital y en las zonas rurales del Municipio.
 
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
+
 VI.- Fomentar preferentemente entre los conductores jóvenes la cultura del conductor responsable, como medida alterna para lograr la disminución de accidentes motivados por el abuso en la ingesta de alcohol o el consumo de estupefacientes y/o psicotrópicos.
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
 VII.- Promover entre los conductores, la regularización documental de vehículos para evitar su detención y retiro de la circulación, así como promover la obtención y/o regularización de la licencia de manejo.
 
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
+
 IX (SIC).- Promover y fomentar la cultura de la autoprotección de la salud de los conductores y vigilar que los motociclistas respeten los señalamientos viales, conduzcan a velocidad moderada, usen el casco protector de forma correcta y que manejen con precaución.
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
 X.- Promover y fomentar entre todos los conductores que manejen en las vías de jurisdicción municipal la cortesía vial y el respeto del derecho de terceros al uso de la vía pública, como factores esenciales para la prevención de accidentes.
 
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
+
 XI.- Impulsar la actualización y modernización de los sistemas tecnológicos de control vehicular para mejorar el orden del tránsito en las vialidades del Municipio.
 
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
+
 XII.- Promover el mejoramiento de la señalización del tránsito en los rubros informativo, restrictivo y preventivo, a fin de generar las condiciones de un tráfico vehicular más fluido y seguro.
+
+> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
 XIII.- Las demás que le señale el Presidente Municipal, el Director General y este Reglamento.
 
@@ -4485,75 +4657,61 @@ XIII.- Las demás que le señale el Presidente Municipal, el Director General y 
 
 (DEROGADO, P.O. 10 DE DICIEMBRE DE 2011)
 
-> <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE ENERO DE 2016)</small>
 
-#### SECCIÓN XI. DIRECCIÓN GENERAL DE DESARROLLO ECONÓMICO Y SOCIAL
+#### SECCIÓN XI. DIRECCIÓN GENERAL DE DESARROLLO HUMANO
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
 
 ###### Artículo 257.
 
-Para auxiliar al Presidente Municipal en materia de Planeación Democrática y Estratégica del Desarrollo, así como en lo relativo al fortalecimiento de las actividades productivas locales, el Ayuntamiento tendrá una Dirección General de Desarrollo Económico y Social, la cual estará a cargo de una persona denominada Director General de Desarrollo Económico y Social, al que le corresponden las funciones siguientes:
+Para auxiliar al Presidente Municipal en materia de Desarrollo Humano, el Ayuntamiento tendrá una Dirección General de Desarrollo Humano, la cual estará a cargo de una persona denominada Director General de Desarrollo Humano.
 
-I.- Ejercer la Coordinación General del Comité de Planeación para el Desarrollo del Municipio.
-
-II.- Proponer al Presidente Municipal el Plan Municipal de Desarrollo, en congruencia con las políticas de inversión y desarrollo que fijen los Gobiernos Federal y Estatal.
-
-III.- Evaluar e informar al Presidente Municipal del avance de los programas de inversión para el desarrollo municipal.
-
-IV.- Instrumentar los mecanismos adecuados, que permitan al Ayuntamiento y al Presidente Municipal disponer de información precisa y oportuna para la eficaz toma de decisiones y correcta planeación del desarrollo.
-
-V.- Proponer al Presidente Municipal los acuerdos de cooperación que deban realizarse entre el sector público local y los sectores social y privado, a efecto de promover el desarrollo integral del Municipio.
-
-VI.- Proponer al Ayuntamiento las políticas aplicables al fomento económico municipal, en estrecha coordinación con los demás sectores sociales involucrados.
-
-VII.- Coordinar y gestionar la ejecución del Plan Anual Municipal de Turismo.
-
-VIII.- Promover, fomentar y coordinar las actividades necesarias para fortalecer la actividad comercial en el Municipio.
-
-IX.- Favorecer el desarrollo tecnológico de las empresas locales.
-
-X.- Concretar la realización de estudios en materia económica acerca del Municipio.
-
-XI.- Integrar el Consejo Municipal de Estímulos a la Inversión del Municipio, como Secretario Ejecutivo del mismo, así como desempeñar las funciones y atribuciones que le confiere el Reglamento de Estímulos a la Inversión para el Municipio de Colima.
-
-XII.- Las demás que señalen la Ley, los Reglamentos y Manuales de Organización.
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
 
 ###### Artículo 258.
 
-La Dirección General de Desarrollo Económico y Social contará con tres Direcciones de Área: Dirección de Fomento Económico, que integra Jefatura de Departamento de Servicios Empresariales, Jefatura de Departamento de Promoción Económica, Jefatura de Área del Centro Municipal de Negocios, y Jefatura de Área de la Oficina de Enlace Municipal; la Dirección de Desarrollo Social que integra Jefatura de Departamento de Planeación y Participación Social, Jefatura de Departamento de Programas Sociales y Jefatura de Área de Seguimiento de Obras; y Dirección de Desarrollo Rural que integra Jefatura de Departamento de Gestión y Operación y Jefatura de Departamento de Vinculación.
+La Dirección General de Desarrollo Humano contará con cinco Direcciones de Área: la Dirección de Desarrollo Económico, que se integrará por la Jefatura de Departamento del Centro Municipal de Negocios y la Jefatura de Departamento de Promoción Económica que, a su vez, tendrá tres Jefaturas de Área: de Promoción Turística, de Servicios Empresariales y de CONOCER; la Dirección de Desarrollo Social, que se integrará por las Jefaturas de Departamento de Vivienda y de Programas Sociales; la Dirección de Desarrollo Rural, que se integrará por la Jefatura de Departamento de Gestión y Operación y la Jefatura de Departamento de Vinculación; la Dirección de Cultura y Educación, que se integrará por la jefatura de Departamento de Cultura y Educación y la Jefatura de Área de Eventos Culturales; y la Dirección de Fomento Deportivo, que se integrará por las jefaturas de Departamento de Cultura Física, Deporte y Recreación, y de Mantenimiento y Conservación de Espacios Deportivos.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
 
 ###### Artículo 259.
 
-La Dirección de Fomento Económico, estará constituida por las siguientes dependencias administrativas:
+La Dirección de Desarrollo Económico estará constituida por las siguientes dependencias administrativas:
 
-La Jefatura de Departamento de Servicios Empresariales, ejercerá las siguientes funciones:
+a) La Jefatura de Departamento del Centro Municipal de Negocios, que ejercerá las siguientes funciones:
 
-I. Establecer, coordinar y dirigir la Ventanilla Única de Gestión Empresarial, que facilite el establecimiento y operación de nuevos negocios.
+I.- Promover, en coordinación con las dependencias y entidades municipales, diagnósticos sobre las regulaciones referidas a las materias de sus respectivas competencias, para hacer las recomendaciones tendientes a mejorar su marco normativo de actuación, así como los trámites, procedimientos, requisitos y plazos;
 
-II. Promocionar la generación de nuevas fuentes de empleo y contribuir a consolidar las ya existentes, mediante la gestión de esquemas de financiamiento públicos y privados.
+II.- Coordinar los trabajos de la Oficina responsable del Sistema de Apertura Rápida de Empresas.
 
-III. Establecer un Sistema Municipal de Capacitación y Seguimiento al Empresariado Social.
+III.- Elaborar, coordinar y evaluar el Programa Municipal de Mejora Regulatoria para someterlo a consideración del Ayuntamiento.
 
-IV. Fomentar esquemas de asociación e integración entre unidades económicas, que fortalezcan la productividad y la competitividad de la micro, pequeña y mediana empresa.
+IV.- Promover la transparencia en la elaboración y aplicación de las regulaciones, a fin de que éstas generen beneficios superiores a sus costos y propicien el máximo beneficio para la sociedad.
 
-V. Favorecer la integración de la actividad económica local al mercado regional, nacional e internacional.
+V.- Recibir las propuestas ciudadanas sobre mejoras a las regulaciones municipales para hacer más eficientes las funciones y prestación de servicios públicos a cargo del Ayuntamiento.
 
-VI. Estimular los programas de capacitación, productividad y calidad total de las empresas Colimenses.
+VI.- Propiciar que se reduzcan los costos que imponen las disposiciones administrativas y los que se derivan del proceso de apertura y funcionamiento de empresas como medida para alentar la productividad y competitividad.
 
-VII. Mantener un inventario actualizado de franquicias y opciones de negocios en el Municipio; así como asesorar a los empresarios Colimenses para consolidar franquicias locales.
+VII.- Proponer al Ayuntamiento la celebración de convenios con el Gobierno del Estado y, a través de éste, con la Federación, para el funcionamiento del Sistema de Apertura Rápida de Empresas en el ámbito municipal.
 
-VIII. Coordinar, promover y evaluar la Bolsa de Trabajo municipal, de tal manera que sea un instrumento eficiente y efectivo de promoción y captación de empleos.
+VIII.- Promover, en coordinación con el Consejo Estatal de Mejora Regulatoria y la Comisión Federal de Mejora Regulatoria, el establecimiento de Centros de Apertura Rápida de Empresas, en los que se brinde asesoría y orientación sobre trámites para la apertura de empresas.
 
-IX. Las demás que sean necesarias para el cumplimiento del objeto y fines propuestos.
+IX.- Promover la desregulación de normas y trámites que inhiban el desarrollo económico en los diversos sectores de la actividad empresarial y social.
 
-La Jefatura de Departamento de Promoción Económica, ejercerá las siguientes funciones:
+X.- Proponer estrategias de difusión sobre las acciones que se realicen en materia de mejora regulatoria.
 
-I. Fomentar el crecimiento económico del municipio, que impulse el fortalecimiento equilibrado de los sectores de la economía, en un marco jurídico que brinde seguridad a las empresas en todo el proceso productivo.
+XI.- Coordinar con organismos del Ayuntamiento u otros de carácter público o privado, lo relacionado en materia regulatoria.
+
+XII.- Establecer, coordinar y evaluar el Programa Municipal de Capacitación para trabajadores y empresarios.
+
+XIII.- Promover, coordinar y gestionar la vinculación con la Secretaría del Trabajo y la Secretaría de Economía del Gobierno Federal, para poner en marcha el programa de capacitación.
+
+XIV.- Proponer al Ayuntamiento la celebración de convenios con los Gobiernos Estatal y Federal, para la capacitación empresarial y laboral.
+
+b) La Jefatura de Departamento de Promoción Económica, que ejercerá las siguientes funciones:
+
+l. Fomentar el crecimiento económico del municipio, que impulse el fortalecimiento equilibrado de los sectores de la economía, en un marco jurídico que brinde seguridad a las empresas en todo el proceso productivo.
 
 II. Impulsar la desregulación en materia económica y simplificación administrativa a fin de crear un entorno favorable y competitivo para impulsar las actividades económicas.
 
@@ -4631,52 +4789,6 @@ XXXVIII. Brindar capacitación a productores, artistas y artesanos estatales par
 
 XXXIX. Promover el consumo y adquisición de productos estatales de calidad a través de los medios de comunicación.
 
-La Jefatura de Área del Centro Municipal de Negocios, ejercerá las siguientes funciones:
-
-I.- Promover, en coordinación con las dependencias y entidades municipales, diagnósticos sobre las regulaciones referidas a las materias de sus respectivas competencias, para hacer las recomendaciones tendientes a mejorar su marco normativo de actuación, así como los trámites, procedimientos, requisitos y plazos;
-
-II.- Coordinar los trabajos de la Oficina responsable del Sistema de Apertura Rápida de Empresas.
-
-III.- Elaborar, coordinar y evaluar el Programa Municipal de Mejora Regulatoria para someterlo a consideración del Ayuntamiento.
-
-IV.- Promover la transparencia en la elaboración y aplicación de las regulaciones, a fin de que éstas generen beneficios superiores a sus costos y propicien el máximo beneficio para la sociedad.
-
-V.- Recibir las propuestas ciudadanas sobre mejoras a las regulaciones municipales para hacer más eficientes las funciones y prestación de servicios públicos a cargo del Ayuntamiento.
-
-VI.- Propiciar que se reduzcan los costos que imponen las disposiciones administrativas y los que se derivan del proceso de apertura y funcionamiento de empresas como medida para alentar la productividad y competitividad.
-
-VII.- Proponer al Ayuntamiento la celebración de convenios con el Gobierno del Estado y, a través de éste, con la Federación, para el funcionamiento del Sistema de Apertura Rápida de Empresas en el ámbito municipal.
-
-VIII.- Promover, en coordinación con el Consejo Estatal de Mejora Regulatoria y la Comisión Federal de Mejora Regulatoria, el establecimiento de Centros de Apertura Rápida de Empresas, en los que se brinde asesoría y orientación sobre trámites para la apertura de empresas.
-
-IX.- Promover la desregulación de normas y trámites que inhiban el desarrollo económico en los diversos sectores de la actividad empresarial y social.
-
-X.- Proponer estrategias de difusión sobre las acciones que se realicen en materia de mejora regulatoria.
-
-XI.- Coordinar con organismos del Ayuntamiento u otros de carácter público o privado, lo relacionado en materia regulatoria.
-
-XII.- Establecer, coordinar y evaluar el Programa Municipal de Capacitación para trabajadores y empresarios.
-
-XIII.- Promover, coordinar y gestionar la vinculación con la Secretaría del Trabajo y la Secretaría de Economía del Gobierno Federal, para poner en marcha el programa de capacitación.
-
-XIV.- Proponer al Ayuntamiento la celebración de convenios con los Gobiernos Estatal y Federal, para la capacitación empresarial y laboral.
-
-Jefatura de Área de la Oficina Municipal de Enlace, con fundamento en el Convenio de Colaboración Administrativa para el Establecimiento y Operación de una Oficina de Enlace entre el Ayuntamiento de Colima y la Secretaría de Relaciones Exteriores, Delegación Colima (LA SECRETARÍA), signado el 30 de Marzo del 2006, le corresponden las siguientes funciones:
-
-I.- Proporcionar y distribuir de manera gratuita, a través del responsable y el personal de la Oficina, la información y los requisitos, formatos y trámites necesarios para la obtención de pasaportes ordinarios, permisos para la constitución de sociedades y asociaciones y de reformas de sus estatutos, certificados y declaratorias de nacionalidad mexicana por nacimiento, becas que promueve "LA SECRETARÍA", así como todo lo referente a las actividades de apoyo, protección preventiva y operativa de los intereses de los mexicanos en el exterior, así como la difusión de la política exterior de México.
-
-II.- Recibir las solicitudes y documentación soporte de acuerdo con los reglamentos respectivos, manuales e instructivos que señale "LA SECRETARÍA", para iniciar el trámite de los servicios señalados en el párrafo que antecede, acompañado el Formato de Declaración General de Pago de Derechos respectivo, que acredite el pago de los derechos correspondientes.
-
-III.- Remitir debidamente custodiados a la Delegación de "LA SECRETARÍA" en Colima, los expedientes completos para la expedición de los trámites solicitados, así como aquellos asuntos que sean de su competencia.
-
-IV.- En su oportunidad, entregar a los interesados los pasaportes ordinarios, permisos, certificados y declaratorias tramitados satisfactoriamente y, en su caso, los expedientes que no procedan.
-
-V.- Realizar campañas de difusión y promoción de la "OFICINA MUNICIPAL DE ENLACE", a fin de dar a conocer al público los servicios que brinda.
-
-VI.- Revisar y controlar los movimientos de aquellas oficinas municipales que, instaladas en la sede de la Unidad, coadyuven en la prestación de los servicios que le competen a ésta.
-
-VII.- Las demás que expresamente sean autorizadas por "LA SECRETARÍA".
-
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 260.
@@ -4723,41 +4835,27 @@ XIX.- Promover la participación del Municipio en eventos nacionales e internaci
 
 XX.- Las demás que sean necesarias para el cumplimiento del objeto y fines propuestos.
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
 
 ###### Artículo 260 Bis.
 
-La Dirección de Desarrollo Social, estará constituida por las siguientes dependencias:
+La Dirección de Desarrollo Social estará constituida por las siguientes dependencias:
 
-Jefatura de Departamento de Planeación y Participación Social, ejercerá las siguientes funciones:
+a) La Jefatura de Departamento de Vivienda, a la que le corresponden las siguientes funciones:
 
-I.- Fungir como integrante del COPLADEMUN.
+I.- Promover la creación de reservas territoriales destinadas al establecimiento de vivienda.
 
-II.- Participar en la elaboración del Plan Municipal de Desarrollo.
+II.- Analizar, planear, proponer y gestionar las soluciones a los problemas de asentamientos humanos irregulares en el medio urbano y rural.
 
-III.- Conocer e informar al Presidente Municipal de los distintos programas de inversión Estatales y Federales, para el Desarrollo Municipal.
+III.- Promover, planear y ejecutar programas de mejoramiento de vivienda, pies de casa, vivienda progresiva y vivienda terminada, tanto en el medio urbano como en el rural, y realizar los estudios geográficos, socioeconómicos, financieros y de factibilidad que permitan a la autoridad municipal tomar decisiones en forma eficaz y oportuna respecto a las inversiones en este renglón.
 
-IV.- Integrar el Programa Operativo Anual para la ejecución de la obra pública y los Programas Sociales, y presentarlo para su depuración a las distintas dependencias municipales.
+IV.- Tener a su cargo la acción inmobiliaria del Municipio.
 
-V.- Remitir la propuesta de inversión anual al COPLADECOL y a la Delegación de la Secretaría de Desarrollo Social, para su aprobación definitiva.
+V.- Participar en el manejo técnico del patrimonio inmobiliario, y
 
-VI.- Revisar conjuntamente con las dependencias municipales los acuerdos de coordinación que en materia de programación, presupuestación, y gasto público, para la ejecución de Obra Pública y Programas Sociales, firme el Presidente Municipal.
+VI.- Demás atribuciones que se establezcan en las Leyes, Reglamentos y Manuales de Organización del Municipio.
 
-VII.- Integrar los expedientes técnicos y financieros en coordinación con las distintas dependencias municipales, a efecto de cumplimentar las disposiciones normativas para la adecuada ejecución del programa de obra pública y de servicios.
-
-VIII.- En coordinación con la Dirección General de Obras Públicas realizar las labores de supervisión de la obra pública, llevando el seguimiento físico y financiero, así como de avance de ejecución e informar periódicamente al Comité de Planeación para el Desarrollo del Estado sobre tal avance.
-
-IX.- Tramitar al Comité de Planeación para el Desarrollo del Estado, los expedientes técnicos y financieros de las obras aprobadas para la asignación de los recursos, agotando su procedimiento hasta la obtención y comprobación de los mismos.
-
-X.- Conjuntamente con las dependencias municipales supervisar, evaluar y observar que el ejercicio financiero de las obras autorizadas en el programa de inversión, sea congruente con el avance físico programado, con sujeción al expediente técnico aprobado.
-
-XI.- Dar seguimiento a la ejecución de la obra pública programada hasta su finiquito, incluyendo la integración del expediente técnico administrativo para la entrega de la obra en cuestión a la ciudadanía.
-
-XII.- Evaluar y registrar el cumplimiento de las estrategias y proyectos contemplados en el Plan Municipal de Desarrollo, entregando un reporte mensual al respecto a la Dirección General.
-
-XIII.- Compilar y procesar la información básica en las diferentes dependencias locales, para elaborar el anexo estadístico y el texto del Informe de Gobierno Municipal.
-
-Jefatura de Departamento de Programas Sociales, ejercerá las siguientes funciones:
+b) La Jefatura de Departamento de Programas Sociales, que ejercerá las siguientes funciones:
 
 I.- Elaborar conjuntamente con las dependencias municipales la Programación Presupuestal del Programa Operativo Anual.
 
@@ -4775,7 +4873,7 @@ VII.- Recepción y verificación del padrón de beneficiarios del Programa de Be
 
 VIII.- Generar listado base de beneficiarios.
 
-IX Integrar expedientes y actas de los Comités de Becas.
+IX.- Integrar expedientes y actas de fas Comités de Becas.
 
 X.- Reportar Altas, Bajas y Cambios de los beneficiarios que se presenten durante el ciclo escolar.
 
@@ -4792,32 +4890,6 @@ XV.- Realizar el programa de pago bimestral.
 XVI.- Realizar la comprobación de recursos ante Tesorería Municipal.
 
 XVII.- Realizar la Evaluación del Programa Anual con las calificaciones de inicio y fin de ciclo escolar de cada alumno, para medir el impacto al respecto, presentando un informe anual al Comité de Participación Social en la Educación.
-
-Jefatura de Área de Seguimiento de Obras, ejercerá las siguientes funciones:
-
-I.- Contribuir al desarrollo social de los habitantes de la zona urbano- marginada del Municipio, mediante la aportación de recursos propios y aquellos instrumentos que permiten mezcla de recursos, para la ejecución de obras de infraestructura y acciones sociales que brinden un desarrollo integral de la sociedad.
-
-II.- Concentrar propuestas sociales y de infraestructura que ingresarán al Programa Hábitat.
-
-III.- Participar en el diseño de los proyectos sociales.
-
-IV.- Capturar presupuesto Hábitat de cada proyecto en el Sistema Integral de Información.
-
-V.- Coordinar la correcta ejecución de proyectos sociales.
-
-VI.- Proveer y difundir las reglas anuales de operación entre los responsables de proyectos.
-
-VII.- Asesorar y capacitar a encargados de proyectos sociales en el manejo de formatos para la presentación de propuestas, requisiciones, compras, comprobación, control de proyecto, concentrar los documentos de comprobación de obras y acciones, capturar facturas en el sistema y elaborar Cuentas por Liquidar Certificadas (CLC).
-
-VIII.- Efectuar reuniones mensuales con responsables de proyectos para concentrar la documentación comprobatoria que solicita la Secretaría de Desarrollo Social por proyecto: Informes mensuales, fotos, IHB (Informes de Hogares Beneficiados), ICI (Informe de Capacidad Instalada), CIS (Cédula de Información Socioeconómica).
-
-IX.- Llevar el control y manejo estadístico del avance físico y financiero de cada proyecto.
-
-X.- Calendarizar y Participar en la integración de Comité de Obra de cada Proyecto y en el cierre de las mismas.
-
-XI.- Participar en las reuniones mensuales del programa Hábitat convocadas por la Delegación en Colima de la Secretaría de Desarrollo Social del Gobierno Federal.
-
-XII.- Establecer políticas y acciones de coordinación con la Secretaría de Planeación del Gobierno del Estado y Secretaría de Desarrollo Social Federal.
 
 > <small>(DEROGADA, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
@@ -4912,6 +4984,60 @@ VII.- Disponer de los listados de usuarios y beneficiarios de los programas fede
 VIII.- Presentar en cada una de las reuniones de las comunidades rurales la información y los avances físico-financieros de los diferentes programas y acciones.
 
 IX.- Integrar los Comités de Productores Rurales.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2016)</small>
+
+Artículo 265 bis.- Serán funciones de la Dirección de Educación y Cultura las siguientes:
+
+a) Fomentar, organizar y realizar eventos y ceremonias cívicas, y en su caso coordinarse con las dependencias competentes de los Gobiernos Federal y Estatal.
+
+b) Coordinar y ejercer los programas cívicos y sociales que apruebe el Cabildo.
+
+c) Organizar, controlar y vigilar el patrimonio cultural del Municipio.
+
+d) Fomentar, patrocinar, organizar y ejecutar programas artístico-culturales, conferencias, seminarios, simposios y toda clase de eventos científicos, culturales y recreativos.
+
+e) Promover y fomentar la participación de la población en la construcción y conservación de centros culturales.
+
+f) Establecer, promover y fomentar la impartición de cursos, programas de capacitación y adiestramiento en materia de cultura, tendiente al fomento de ésta en el Municipio.
+
+g) Establecer y manejar centros juveniles de cultura.
+
+h) Propiciar la formación de clubes juveniles, coordinar y supervisar sus funciones.
+
+i) Instaurar medidas tendientes a prevenir el alcoholismo, la drogadicción, la prostitución, y todo hábito que degrade a los seres humanos.
+
+j) Participar en la conformación y formar parte del Comité Municipal de Educación.
+
+k) Las demás que le confieran las leyes, este Reglamento, otras disposiciones reglamentarias y manuales de organización.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2016)</small>
+
+Artículo 265 ter.- Serán funciones de la Dirección de Fomento Deportivo las siguientes:
+
+a) Promover y fomentar la participación de la población en la construcción y conservación de centros deportivos en el municipio.
+
+b) Establecer, promover y fomentar la impartición de cursos, programas de capacitación y adiestramiento en materia de recreación y deporte, tendiente al fomento y diversificación de estas actividades en el municipio.
+
+c) Establecer, organizar y vigilar el adecuado funcionamiento de los centros deportivos de recreación y deporte del municipio.
+
+d) Establecer, organizar y vigilar el adecuado funcionamiento de las canchas deportivas de usos múltiples del municipio.
+
+e) Establecer, organizar y realizar de manera programada y calendarizada campañas y eventos deportivos y recreativos para todo tipo de personas en el municipio, aprovechando los espacios públicos ubicados en el mismo.
+
+f) Coordinarse en la promoción, el fomento y organización de eventos y certámenes deportivos con las diversas instancias públicas federales, estatales y municipales de la materia, así como con instituciones, organizaciones y asociaciones privadas y sociales.
+
+g) Gestionar ante las diversas instancias públicas de la Federación y del Estado de la materia, los apoyos y asistencia financiera, material y humana para la promoción, fomento y organización de eventos y certámenes deportivos en el municipio.
+
+h) Estimular, premiar y reconocer a los deportistas y (sic) deportistas del municipio, promoviendo y fomentando las diversas disciplinas deportivas en el municipio.
+
+i) Recibir, analizar, canalizar y coordinar las diversas peticiones y solicitudes de material y uniformes deportivos que realizan al ayuntamiento y/o al Presidente Municipal las instituciones educativas, padres de familias, asociaciones y organizaciones deportivas, entre otros.
+
+j) Difundir, promover y fomentar la organización y celebración del Premio Municipal del Deporte, para su entrega a los deportistas y atletas exitosos del municipio.
+
+k) Constituir el Consejo Municipal del Deporte, formando parte de este Consejo el titular del área deportiva en el municipio.
+
+l) Las demás que le confiera el Ayuntamiento, la ley, reglamentos y demás disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
@@ -5565,7 +5691,9 @@ Las infracciones a las normas contenidas en los Reglamentos Municipales o en los
 
 I.- Amonestación.
 
-II.- Multa de tres a diez mil días de salario mínimo general vigente en la zona económica del Municipio de Colima.
+> <small>(REFORMADA, P.O. 2 DE ENERO DE 2016)</small>
+
+II.- Multa de tres a diez mil unidades de medida y actualización.
 
 III.- Si el infractor no pagare la multa impuesta, se permutará ésta por arresto, que en ningún caso excederá de 36 horas.
 
@@ -5771,11 +5899,13 @@ Para efecto del cumplimiento de los citados requisitos, los interesados deberán
 
 #### SECCIÓN II. DE LA CONVOCATORIA Y REGISTRO DE CANDIDATOS
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
 
 ###### Artículo 332.
 
 El Presidente Municipal convocará para la elección de las autoridades auxiliares del Municipio en un plazo que no excederá de 20 días naturales contados a partir de la fecha en que tome posesión del cargo, misma que deberá publicarse, por una sola vez, en uno de los periódicos de mayor circulación en el Municipio y fijarse, además, en los sitios públicos de costumbre.
+
+En los casos de haber elecciones extraordinarias de gobernador, de diputado local o de ayuntamiento, la elección de las autoridades auxiliares municipales deberá verificarse sesenta días después de haberse realizado las dos primeras o sesenta días después de que tome posesión el Cabildo que haya resultado electo de tal suerte que no exista concurrencia en las elecciones de cualquiera de estos cargos con la de las autoridades auxiliares municipales.
 
 Los ciudadanos residentes en los lugares de que se trate contarán con 5 días naturales para presentar propuestas de candidatos, a partir de la publicación de la convocatoria.
 
@@ -6178,3 +6308,17 @@ P.O. 19 DE DICIEMBRE DE 2015.
 PRIMERO: El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
 
 SEGUNDO: El Presidente Municipal dispondrá se imprima, publique, circule y se le dé el debido cumplimiento, de acuerdo con lo dispuesto por el artículo 47, fracción I, incisos a) y f) de la Ley del Municipio Libre, y los artículos 140, 180, fracción I, incisos a) y f) del Reglamento de Gobierno Municipal de Colima.
+
+P.O. 2 DE ENERO DE 2016.
+
+> <small>[N. DE E. SE TRANSCRIBEN ÚNICAMENTE LOS PUNTOS DEL "ACUERDO QUE MODIFICA DIVERSOS ARTÍCULOS DEL REGLAMENTO DEL GOBIERNO MUNICIPAL DE COLIMA".]</small>
+
+PRIMERO.- Es de aprobarse y se aprueba la modificación [...]
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+TERCERO.- El Presidente Municipal dispondrá se imprima, publique, circule y se le dé el debido cumplimiento, de acuerdo con lo dispuesto por el artículo 47, fracción I, incisos a) y f), de la Ley del Municipio Libre del Estado de Colima, y 140 del Reglamento del Gobierno del Municipio de Colima.
+
+CUARTO.- Se derogan todas las disposiciones reglamentarias que se opongan a las modificaciones contenidas en el presente acuerdo
+
+QUINTO.- Las menciones que se hagan en otros ordenamientos de las dependencias municipales cuya denominación queda modificada por esta reforma, se entenderán referidas a las dependencias municipales de nueva creación, con su denominación actualizada.
