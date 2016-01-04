@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-ecologia-y-medio-ambiente-para-el-municipio-27961
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-01-17"
-last_updated: "2013-12-20"
+last_updated: "2016-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,9 @@ state: "BCN"
 
 REGLAMENTO DE ECOLOGÍA Y MEDIO AMBIENTE PARA EL MUNICIPIO DE TECATE, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE DICIEMBRE DE 2013.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE PROTECCIÓN AL AMBIENTE PARA EL MUNICIPIO DE TECATE, BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 4 DE ENERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 17 de enero de 2003.
 
@@ -207,13 +209,13 @@ XXVIII. Participar en la prevención y control de emergencias ecológicas y cont
 
 XXIX. Participar en la atención de asuntos que afecten el equilibrio ecológico del Municipio junto con el de otros Municipios;
 
-XXX. Participar en la formulación de programas federales, estatales ó municipales, que contemplen acciones para la preservación, conservación ó restauración del equilibrio ecológico y la protección al ambiente; y (sic)
+XXX. Participar en la formulación de programas federales, estatales ó municipales, que contemplen acciones para la preservación, conservación ó restauración del equilibrio ecológico y la protección al ambiente; y
 
 XXXI. Determinar para su autorización el techo financiero de sus ejercicios fiscales.
 
 XXXII. Aplicar las sanciones administrativas y medidas técnicas correspondientes por infracciones a este Reglamento.
 
-XXXV. Las demás que el cabildo le confiera.
+XXXV (SIC). Las demás que el cabildo le confiera.
 
 ###### ARTICULO 8.
 
@@ -2090,3 +2092,11 @@ LIC. ROBERTO RODRÍGUEZ VALENZUELA
 P.O. 20 DE DICIEMBRE DE 2013.
 
 Único.- Las presentes Reformas y Adiciones, entrarán en vigor a partir del día siguiente en que sean publicadas en el Periódico Oficial del Estado de Baja California.
+
+P.O. 4 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA EL REGLAMENTO DE PROTECCIÓN AL AMBIENTE PARA EL MUNICIPIO DE TECATE, B.C.”.]
+
+PRIMERO.- El presente Reglamento entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO.- Se abroga el Reglamento de Ecología y Medio Ambiente para el Municipio de Tecate, B.C. publicado en el Periódico Oficial No. 04, de fecha 17 de Enero de 2003, Tomo CX.
