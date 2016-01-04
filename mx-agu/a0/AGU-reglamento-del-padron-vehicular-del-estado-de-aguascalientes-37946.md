@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-del-padron-vehicular-del-estado-de-aguascalientes-37
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-03-01"
-last_updated: "2014-12-08"
+last_updated: "2016-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37946&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,15 +23,13 @@ state: "AGU"
 
 REGLAMENTO DEL PADRÓN VEHICULAR DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2016.
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 1 de marzo de 2004.
 
 FELIPE GONZALEZ GONZALEZ, Gobernador Constitucional del Estado Libre y Soberano de Aguascalientes, en ejercicio de la facultad que me confiere el Articulo 46 primer párrafo, fracción I de la Constitución Política del Estado de Aguascalientes y con fundamento en el Articulo 121 primer párrafo, fracción I de la Constitución Política de los Estados Unidos Mexicanos; Artículos 2º y 29 fracción XIV de la Ley Orgánica de la Administración Pública del Estado de Aguascalientes; Artículo 5º de la Ley de Vialidad del Estado de Aguascalientes vigente; Artículos 6º y 9º del Código Fiscal del Estado de Aguascalientes vigente; y Articulo 36 de la Ley de Hacienda del Estado de Aguascalientes vigente, a sus habitantes sabed:
 
 CONSIDERANDO:
-
-.
 
 Que para facilitar el cumplimiento voluntario de las obligaciones en materia del Padrón Vehicular del Estado, y en cumplimiento al Primero Transitorio del Decreto mediante el cual se expide la Ley de Hacienda del Estado de Aguascalientes publicado en el Periódico Oficial del Estado el 31 de diciembre de 2003, en consecución a los compromisos de reforma al marco jurídico fiscal señalados en el Plan Estatal de Desarrollo 1998-2004, he tenido a bien expedir el siguiente:
 
@@ -66,6 +64,26 @@ IX. Reglamento: El Reglamento del Padrón Vehicular del Estado de Aguascalientes
 > <small>(ADICIONADA, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
 X. Constancia de Registro: Al documento mediante el cual se da fe de la inscripción en el Padrón Vehicular del Estado, denominado Constancia de Registro Vehicular.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2016)</small>
+
+XI. Representante legal: persona física autorizada para representar legalmente a una persona física o moral.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2016)</small>
+
+XII. Vehículo automotor nuevo: el que aún no ha sido enajenado al consumidor final por el fabricante, ensamblador o distribuidor.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2016)</small>
+
+XIII. Placas de demostración: a las placas de circulación que se otorgan a las personas físicas o morales cuya actividad principal es la enajenación de vehículos nuevos, a fin de que puedan llevar a cabo las demostraciones de manejo de los mismos.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2016)</small>
+
+XIV. Agencia o establecimiento: personas morales cuya actividad principal es la enajenación de vehículos nuevos.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2016)</small>
+
+XV. Papel membretado: en el que consta impreso, el nombre, domicilio, teléfonos y el logotipo o algún otro diseño de la agencia o establecimiento comercial.
 
 ###### ARTICULO 2o.
 
@@ -115,7 +133,7 @@ Tratándose de vehículos en arrendamiento financiero, la solicitud de inscripci
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-###### ARTICULO 8º.
+###### ARTICULO 8o.
 
 La inscripción al Padrón procederá una vez recibida la solicitud, siempre y cuando el interesado cumpla con los requisitos siguientes ante la Secretaría:
 
@@ -137,7 +155,9 @@ V. Tratándose de vehículos inscritos en el Padrón de otras Entidades Federati
 
 El trámite de citas para la revisión física de vehículos a que se refiere la presente fracción, será regulado por la Secretaría de acuerdo al Manual para el sistema de citas que al efecto se emita.
 
-Se exceptúa de la obligación de solicitar la verificación y revisión a que se refiere el primer párrafo a los vehículos que hayan sido refacturados por empresas no domiciliadas en el Estado, siempre y cuando quién expida dicha documentación sea el último propietario registrado en el Padrón Vehicular del Estado de Aguascalientes en el ejercicio fiscal en que se realice el trámite;
+> <small>(REFORMADO TERCER PÁRRAFO, P.O. 4 DE ENERO DE 2016)</small>
+
+Se exceptúa de la obligación de solicitar la verificación y revisión a que se refiere el primer párrafo de esta fracción, de los vehículos cuyos propietarios acrediten su propiedad con comprobantes fiscales expedidos por empresas no domiciliadas en el Estado de Aguascalientes, siempre y cuando quién expida dicha documentación sea el último propietario registrado en el Padrón Vehicular del Estado de Aguascalientes, durante el ejercicio fiscal en que se realice el trámite, así como de los vehículos nuevos cuya propiedad se acredite con Comprobante Fiscal Digital (CFDI), expedido en otra entidad federativa del país, siempre y cuando se solicite su inscripción dentro de los 30 días siguientes a la fecha de su emisión;
 
 > <small>(REFORMADA, P.O. 1 DE MARZO DE 2010)</small>
 
@@ -161,7 +181,7 @@ Además de los requisitos anteriores, los vehículos de procedencia extranjera d
 
 > <small>(ADICIONADO, P.O. 8 DE DICIEMBRE DE 2014)</small>
 
-###### ARTICULO 8°-A.
+###### ARTICULO 8o-A.
 
 Cuando se exija la revisión física de vehículos en términos del presente Reglamento, la autoridad que realice ésta revisión, contará con un plazo de quince días hábiles para emitir el documento donde determine la situación legal del vehículo.
 
@@ -371,7 +391,7 @@ Cuando la documentación comprobatoria proceda de otra Entidad Federativa, a efe
 
 > <small>(REFORMADO, P.O. 8 DE DICIEMBRE DE 2014)</small>
 
-###### ARTÍCULO 25.
+###### ARTICULO 25.
 
 En los trámites de inscripción, cambio de propietario o de servicio canje y baja de un vehículo en el Padrón, cuando no sea posible regresar una o ambas placas de circulación, el interesado deberá de entregar, en su caso, la placa con la que cuente y, anexar acta informativa en donde conste la manifestación del extravío de la o de las placas, levantada ante la Procuraduría General de Justicia y presentar el vehículo para su verificación física en la Secretaría, salvo en los casos de canje, robo o destrucción, baja administrativa y cuando así lo considere la propia Secretaría.
 
@@ -453,9 +473,117 @@ El impuesto acreditable se podrá aplicar al pago del Impuesto Sobre Tenencia o 
 
 > <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2013)</small>
 
-###### ARTÍCULO 31.
+###### ARTICULO 31.
 
 Para efectos de la fracción I del artículo 35 de la ley de Hacienda del Estado, la calidad de pensionado, jubilado o persona adulta mayor se acreditará con: credencial del IMSS, ISSSTE, ISSSSPEA, PEMEX, DIF e INAPAM; o bien el documento con el que acredite alguna de éstas calidades a entera satisfacción de la Secretaría.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 4 DE ENERO DE 2016)</small>
+
+## TÍTULO VI. DE LAS PLACAS DE DEMOSTRACIÓN
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2016)</small>
+
+###### ARTICULO 32.
+
+Los fabricantes, ensambladores y distribuidores de vehículos automotores nuevos, excepto de motonetas, cuatrimotos y motocicletas, que tengan su domicilio fiscal dentro del territorio del Estado de Aguascalientes, que requieran desplazar vehículos nuevos de un lugar a otro, dentro del territorio del Estado, con la finalidad de demostrarlos, podrán solicitar a la Secretaría le sea asignadas placas de demostración de vehículos.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2016)</small>
+
+###### ARTICULO 33.
+
+Los sujetos a que se refiere el artículo anterior, que deseen obtener placas de demostración, deberán acudir a la Dirección General de Recaudación, de la Secretaría, con la siguiente documentación de la agencia o establecimiento solicitante, en original y copia:
+
+a. Carta de solicitud de placas de demostración en papel membretado, firmada por el Representante Legal, Registro Federal de Contribuyentes de la agencia o establecimiento comercial de que se trate;
+
+b. Acta constitutiva;
+
+c. Comprobante de domicilio con antigüedad no mayor a tres meses;
+
+d. Poder Notarial del Representante Legal;
+
+e. Identificación oficial vigente del Representante Legal;
+
+f. Estar al corriente en el cumplimiento de sus obligaciones fiscales federales y estatales; y
+
+g. Dar cumplimiento a lo señalado en el artículo 38 del presente Reglamento.
+
+Una vez cubiertos todos los requisitos señalados en el presente artículo, se deberá de cubrir las tarifas correspondientes a las contribuciones por concepto de juego de placas y Derechos de Control Vehicular.
+
+Posteriormente le será entregado el (o los) juego(s) de placas de demostración y la(s) tarjeta(s) de circulación, previa firma de recibido del Representante Legal.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2016)</small>
+
+###### ARTICULO 34.
+
+Las placas de demostración tendrán vigencia hasta en tanto no sea autorizado un nuevo canje total de placas en el Estado y al término de la misma deberán de ser devueltas a la autoridad, por su parte, las tarjetas de circulación tienen vigencia anual, es decir del 1° de enero a 31 de diciembre del ejercicio fiscal en que hayan sido emitidas.
+
+Para efectos de canje de placas, se deberá de regresar a la Secretaría el juego de las no vigentes.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2016)</small>
+
+###### ARTICULO 35.
+
+Se otorgarán un máximo de diez juegos de placas de demostración por cada establecimiento o sucursal del fabricante, ensamblador o distribuidor
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2016)</small>
+
+###### ARTICULO 36.
+
+En los casos de robo, extravío o deterioro, la persona física o el representante legal del fabricante, ensamblador o distribuidor, deberá presentar dentro de los cinco días hábiles siguientes al acontecimiento o hecho del que se trate en la Secretaría de Finanzas lo siguiente:
+
+a. En caso de robo o extravío de una o ambas del juego de placas, entregar en su caso la otra placa y presentar el documento original del acta levantada ante el Ministerio Público.
+
+b. En caso de deterioro, se deberá presentar escrito libre en papel membretado en el que el Representante Legal manifieste el hecho y entregar las placas y la tarjeta de circulación.
+
+Cuando se cumpla con lo señalado en el punto anterior, la Secretaría podrá asignar al contribuyente, previo pago de los derechos correspondientes, un nuevo juego de placas y tarjeta de circulación, independientemente de que le haya sido entregado el máximo establecido.
+
+Una vez cubierto el pago de las contribuciones y previa firma de recibido del Representante Legal, le será entregado el juego de placas de demostración y la tarjeta de circulación correspondiente.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2016)</small>
+
+###### ARTICULO 37.
+
+Los fabricantes, ensambladores y distribuidores que cuenten con placas de demostración deberán:
+
+a. Efectuar el pago de los Derechos que se causan por este concepto a más tardar el 31 de marzo del ejercicio fiscal correspondiente, para tal efecto deberán acudir al Departamento de Registro de Vehículos para que les sea autorizado el pago.
+
+b. Una vez realizado el pago, deberán acudir con copia del recibo correspondiente, al Departamento de Registro de Vehículos de la Secretaría a solicitar la tarjeta de circulación.
+
+c. Cuando se desee dar de baja un juego de Placas de Demostración, el Representante Legal de la persona a la que le fueron asignadas las placas de demostración, deberá de presentar escrito en papel membretado, de solicitud de la baja, anexando al mismo copia de su identificación oficial vigente, el juego de placas y recibo en el que conste el pago correspondiente por el derecho de baja.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2016)</small>
+
+###### ARTICULO 38.
+
+Son obligaciones de los propietarios o poseedores de los vehículos que porten Placas de Demostración, las siguientes:
+
+a. Circular únicamente dentro del territorio del Estado de Aguascalientes, dentro de un radio de acción de 40 kilómetros del domicilio de la agencia o establecimiento a la agencia o establecimiento al que le fueron otorgadas las placas de demostración.
+
+b. Portar las placas sujetándolas firmemente, en los lugares para ello destinados por el fabricante.
+
+c. Llevar dentro del vehículo el original de la tarjeta de circulación y mostrarla a la autoridad competente cuando le sea solicitada.
+
+d. Las placas deberán utilizarse exclusivamente para demostración de los vehículos.
+
+e. En caso de cierre de alguno de los establecimientos de la persona moral a la que le fueron otorgadas placas de demostración se deberán de devolver a la Secretaría, los juegos de las placas que les hayan sido asignadas para su uso en dicho establecimiento.
+
+f. Las placas de demostración que no se utilicen para los fines para los que fueron autorizadas, deberán de permanecer en el domicilio de persona moral para el cual fueron autorizadas.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2016)</small>
+
+###### ARTICULO 39.
+
+Se prohíbe la utilización de las placas de demostración en otros vehículos que no sean nuevos; en los vehículos que ya fueron enajenados por el fabricante, ensamblador o distribuidor; y en los que no sean propiedad de la persona física o moral a la cual le fueron autorizadas.
+
+A quién incumpla esa prohibición, será sancionado con la suspensión total del derecho a utilizar Placas de Demostración durante el ejercicio fiscal que transcurra y el ejercicio fiscal siguiente.
+
+Igual sanción se aplicará en caso de ser utilizadas en vehículos que circulen fuera del territorio del Estado de Aguascalientes.
+
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2016)</small>
+
+###### ARTICULO 40.
+
+En caso de cierre de alguno de los establecimientos y no sean regresadas las placas de demostración a la Secretaría en un plazo mayor a 30 días naturales siguientes al cierre, sin justificación aceptada por esa Dependencia, la agencia o establecimiento a la que fueron asignadas las placas de demostración será sancionada con la suspensión total del derecho a utilizar este tipo de placas, hasta por tres años.
 
 T R A N S I T O R I O S :
 
@@ -508,3 +636,11 @@ P.O. 8 DE DICIEMBRE DE 2014.
 PRIMERO.- Publíquese las presentes reformas y adición, en el Periódico Oficial del Estado de Aguascalientes.
 
 SEGUNDO.- Las presentes Reformas entrarán en vigor el día siguiente al de su publicación
+
+P.O. 4 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO QUE REFORMA Y ADICIONA DISPOSICIONES DEL REGLAMENTO DEL PADRÓN VEHICULAR DEL ESTADO DE AGUASCALIENTES”.]
+
+PRIMERO.- Publíquese la presente reforma, en el Periódico Oficial del Estado de Aguascalientes.
+
+SEGUNDO.- La presente reforma entrarán (sic) en vigor el día siguiente al de su publicación.
