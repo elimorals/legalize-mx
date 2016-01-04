@@ -4,7 +4,7 @@ identifier: "AGU-codigo-municipal-de-aguascalientes-aguascalientes-57523"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-11-12"
-last_updated: "2015-11-16"
+last_updated: "2016-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57523&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "AGU"
 
 CÓDIGO MUNICIPAL DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2016.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 12 de noviembre de 2007.
 
@@ -2377,9 +2377,13 @@ Para el caso del supuesto establecido en el párrafo anterior, dicha facultad se
 
 XII. Registrar en el Sistema de Contabilidad Gubernamental todos los expedientes de Obra Pública.
 
-> <small>(ADICIONADA, P.O. 13 DE ABRIL DE 2015)</small>
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2016)</small>
 
-XIII. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal.
+XIII. Realizar directamente o a través de terceros las obras o acciones destinadas a viviendas unifamiliares de hogares ubicados en las zonas identificadas como de atención prioritaria, de pobreza extrema, de alto y muy alto rezago social así como otras zonas del municipio que presenten carencias sociales contenidas en los indicadores del informe anual emitido por el CONEVAL, previo estudio socioeconómico o su equivalente, que incluyan construcción nueva, ampliación, remodelación, mantenimiento o reparación integral de las construcciones; otorgándolas al propietario del inmueble en la calidad de título gratuito todo ello apegado al marco de los programas y sus reglas de operación, ya sean federales, estatales y/o municipales. Por cada intervención que la secretaria realice, deberá signarse un convenio de concertación con el propietario especificando la autorización manifiesta para que la acción corresponda así como los alcances y metas de la acción programada, su costo y supervisión correspondiente.
+
+> <small>(ADICIONADA, P.O. 4 DE ENERO DE 2016)</small>
+
+XIV. Las demás que señale la Ley o le encomiende el H. Ayuntamiento por conducto del Presidente Municipal
 
 APARTADO DÉCIMO PRIMERO
 
@@ -3421,11 +3425,15 @@ ARTÍCULO 138 SEPTIS.- La Comisión tendrá las siguientes funciones:
 
 I. Resolver las denuncias que se planteen ante ella por conducto de laCoordinación (sic) de Prevención y Atención Integral de la Violencia de Género del Instituto Municipal de la Mujer de Aguascalientes, por desacato al presente Código, Código de Ética para la Administración Pública del Municipio de Aguascalientes, y el Reglamento Interior de Trabajo del Municipio de Aguascalientes, única y exclusivamente en los casos de discriminación, violencia laboral, hostigamiento y acoso sexual.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2016)</small>
+
+ARTÍCULO 138 OCTIES.- Para los efectos de la fracción VI del artículo anterior se entiende por:
+
 > <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2012)</small>
 
-ARTÍCULO 138 OCTIES.- Para los efectos de la fracción V del artículo anterior se entiende por:
-
 a) Hostigamiento sexual: El ejercicio del poder en una relación de subordinación real de la víctima frente al agresor en el ámbito laboral. Se expresa en conductas verbales, físicas o psicológicas, relacionadas con la sexualidad de connotación lasciva. El hostigamiento sexual incluye provocaciones, insinuaciones o invitaciones, pero de manera reiterada, lo que implica que un acto aislado no es considerado en la definición.
+
+> <small>(ADICIONADO, P.O. 20 DE FEBRERO DE 2012)</small>
 
 b) Acoso Sexual: La forma de violencia en la que, si bien no existe la subordinación, hay un ejercicio abusivo de poder que conlleva a un estado de indefensión y de riesgo para la víctima, independientemente de que se realice en uno o varios eventos.
 
@@ -16085,6 +16093,60 @@ Para el caso de establecimientos comerciales de tipo eventual, deberá incluir u
 
 Todo comercio de tipo periódico que maneje o expenda material de tipo tóxico, flamable, volátil o material de tipo peligroso, deberá presentar el cuestionario de información básica ambiental, el cual será parte primordial para la autorización del giro de que se trate.
 
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2016)</small>
+
+###### ARTÍCULO 1156
+
+BIS.- Para la autorización de la Constancia de Alineamiento y Compatibilidad Urbanística con Uso del Suelo destinado a Torre de Telecomunicación o Estación Terrena (antenas), además de las condiciones y requisitos técnicos previstos en el Programa de Desarrollo Urbano aplicable se debe acatar lo siguiente:
+
+A) El predio deberá de colindar en su acceso con una vía primaria, secundaria o suburbana; la superficie mínima del predio deberá ser de 75 metros cuadrados, ya sea en piso o en azotea, así mismo la superficie mínima de desplante y área de seguridad en la planta o base de la antena deberá de ser proporcional a la (sic) las dimensiones de la antena, en un metro cuadrado de desplante por cada diez de altura, así mismo no podrá ser menor de dos metros cuadrados él área de desplante.
+
+B) La altura máxima permitida para cualquier instalación será de 42 metros desde el nivel del piso, cuando se desplante sobre un inmueble la altura máxima permitida será de 42 metros y se tomará en cuenta la altura total de la edificación en conjunto con la longitud de la estructura. Cuando el inmueble sobrepase la altura antes referida, la Secretaría podrá otorgar la constancia al solicitante, una vez que este cumpla con las condiciones que la propia instancia le indique.
+
+C) Aunado a la solicitud, el solicitante deberá de anexar a esta:
+
+1. La memoria del cálculo estructural y en los casos en que se instale en fincas y/o estructuras existentes, esta memoria deberá de incluir las consideraciones y/o reforzamiento a la finca y/o estructura existente, dicha memoria deberá de ser firmada por un perito especializado en estructuras registrado en el padrón del Municipio
+
+2. Copia simple de las escrituras y/o del contrario (sic) de arrendamiento del predio donde se colocará la estructura.
+
+3. Proyecto ejecutivo.
+
+4. Memoria de cálculo de la instalación eléctrica, firmada por un perito especializado e instalaciones eléctricas con registro vigente en la SEDUM.
+
+5. Dictamen de la dirección y/o departamento de Protección Civil Municipal que señale que la instalación de la estructura es segura en materia de sus competencias.
+
+6. Proveer las coordenadas geográficas de la ubicación de la radiobase a fin de integrarlas al Sistema de Información Geográfico correspondiente.
+
+D) No será expedida la constancia cuando ya exista dentro de un radio de 400 metros otra instalación de este tipo.
+
+E) Cuando se solicita la constancia en zona o monumento histórico, arqueológico o artístico, aunado a los requisititos que establece este artículo, deberá de contar con la autorización del Instituto correspondiente.
+
+F) En caso de instalar camuflaje en las radiobases para antenas, este deberá de concordar y cumplir con lo dispuesto por la dirección general de aeronáutica civil para este tema, previa opinión del Subcomité Municipal de Imagen Urbana.
+
+G) Cuando las especificaciones de la antena lo permitan, se podrá instalar ésta, en la estructura de un anuncio espectacular, ello previo análisis y autorización del proyecto por parte de la Secretaria, debiendo quedar oculta dentro del mismo.
+
+H) El Municipio podrá celebrar contratos de arrendamiento con las empresas de telecomunicación respecto de los predios.
+
+I) El gobierno municipal podrá destinar espacios dentro de las áreas de donación propias localizadas en los desarrollos habitacionales para la renta a particulares para la instalación de las estructuras materia de este artículo.
+
+J) El propietario del inmueble y la compañía propietaria de la estructura, serán responsables de cualquier daño que ésta pueda causar a los bienes municipales o a terceros. Para tal efecto, deberá garantizarse mediante un seguro contratado ante una compañía legalmente autorizada por la Comisión Nacional de Seguros y Fianzas que cubra los daños causados por cualquier eventualidad.
+
+K) Las personas físicas o jurídicas que instalen o renten estructuras destinadas para radiobase deberán identificarlas por medio de una placa metálica con una medida de 0.30 x 0.60 metros, visible desde la vía pública, que contenga:
+
+I. Nombre, denominación o razón social.
+
+II. Número de licencia.
+
+III. Domicilio para recibir notificaciones en el municipio.
+
+En el caso de las antenas que sean instaladas en anuncios espectaculares o en forma de esculturas, la paca (sic) de identificación deberá de ser de la mitad de las dimensiones mencionadas y estar puesta en la base de la estructura.
+
+L) En caso de ampliación o modificación se deberá iniciar un nuevo trámite, cumpliendo con lo señalado.
+
+M) No requieren de licencia para su colocación las estructuras que tengan carácter de uso privado como son: radio comunicación privada, radio aficionados banda civil, siempre que no rebasen una altura de 5.00 metros de la propia estructura independiente de la base o construcción, permitiéndose solamente se instale uno por servicio, finca o negocio, sin embargo si se deberá de dar aviso de la instalación de las mismas a (sic) municipio.
+
+Una vez que el solicitante cumpla con cada uno de los requisitos aplicables, la Secretaria tendrá un plazo de diez días hábiles para resolver el trámite. Sí en dicho plazo la Secretaria no resuelve la solicitud, se entenderá como resuelta en sentido negativo.
+
 ### CAPÍTULO IX. Denuncia Popular
 
 ###### ARTÍCULO 1157.
@@ -23326,3 +23388,21 @@ TERCERO. El Ayuntamiento asignará los recursos necesarios para que se creen las
 CUARTO. El Ayuntamiento asignará, en el ejercicio presupuestal siguiente, los recursos necesarios a efecto de que a los vehículos propiedad Municipal, que hayan sido adquiridos del 2010 a la fecha, se les realicen las modificaciones necesarias para que cuenten con el dispositivo de manos libres inalámbrico.
 
 QUINTO. El Municipio realizará, a partir de la publicación del presente decreto, una campaña de difusión para dar a conocer a la ciudadanía las modificaciones previstas en el presente dictamen.
+
+P.O. 4 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIO DE LA “REFORMA DEL ARTÍCULO 138 OCTIES DEL CÓDIGO MUNICIPAL; Y REFORMA AL ARTÍCULO 16 DEL REGLAMENTO INTERIOR DE LA COMISIÓN PARA ERRADICACIÓN DE LA VIOLENCIA LABORAL”.]
+
+UNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado y serán aplicables incluso a los procedimientos que se encuentren en trámite.
+
+P.O. 4 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIO DE "REFORMAS Y ADICIONES AL ARTÍCULO 109 DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES".]
+
+ÚNICO.- Las disposiciones del presente Dictamen entrarán en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 4 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIO DE LA “ADICIÓN DEL ARTÍCULO 1156 BIS DEL CÓDIGO MUNICIPAL DE AGUASCALIENTES”.]
+
+Único. La presente adición al Código Municipal de Aguascalientes entrara en vigor al día siguiente de su Publicación en el Periódico Oficial del Estado.
