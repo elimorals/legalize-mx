@@ -4,7 +4,7 @@ identifier: "PUE-constitucion-politica-del-estado-libre-y-soberano-de-puebla-751
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-10-02"
-last_updated: "2015-10-19"
+last_updated: "2016-01-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7519&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Puebla, el martes 2 de octubre de 1917.
 
@@ -755,9 +755,9 @@ No pueden ser electos diputados propietarios o suplentes:
 
 I.- El Gobernador del Estado, aun cuando se separe definitivamente de su cargo.
 
-> <small>(REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2000)</small>
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2016)</small>
 
-II.- Los Magistrados en ejercicio del Tribunal Superior de Justicia del Estado y los del Tribunal Electoral del Estado, los Secretarios de Despacho del Ejecutivo, los Subsecretarios, el Procurador General de Justicia, el Secretario Particular del Gobernador, los Directores de las Dependencias del Ejecutivo, el Presidente de la Junta Local de Conciliación y Arbitraje y los Titulares de los cuerpos de Seguridad Pública del Estado;
+II.- Los Magistrados en ejercicio del Tribunal Superior de Justicia del Estado y los del Tribunal Electoral del Estado, los Secretarios de Despacho del Ejecutivo, los Subsecretarios, el Fiscal General del Estado, el Secretario Particular del Gobernador, los Directores de las Dependencias del Ejecutivo, el Presidente de la Junta Local de Conciliación y Arbitraje y los Titulares de los cuerpos de Seguridad Pública del Estado;
 
 III.- Los funcionarios del Gobierno Federal
 
@@ -1471,6 +1471,10 @@ La Administración Pública debe ser eficaz, eficiente, congruente y planeará e
 
 La Administración Pública del Estado será centralizada y paraestatal.
 
+> <small>(ADICIONADO, P.O. 4 DE ENERO DE 2016)</small>
+
+El Consejero Jurídico es el representante jurídico del Estado. El Gobernador podrá otorgar esa representación a alguno de los servidores públicos que lo auxilien para casos singulares.
+
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
 ###### Artículo 83.
@@ -1615,65 +1619,103 @@ Cada tres años, al renovarse el Poder Legislativo, el Presidente del Tribunal S
 
 ### CAPITULO UNICO
 
-> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2016)</small>
 
 ###### Artículo 95.
 
-El Ministerio Público es una Institución dependiente del Poder Ejecutivo a cuyo cargo está velar por la exacta observancia de las leyes de interés público, hacer efectivos los derechos concedidos al Estado e intervenir en los juicios que afecten a personas a quienes la ley otorgue especial protección.
+El Ministerio Público se organizará en una Fiscalía General del Estado, como órgano público autónomo, dotado de personalidad jurídica y de patrimonio propios, el cual se regirá por los principios de eficiencia, imparcialidad, legalidad, objetividad, profesionalismo, responsabilidad y respeto a los derechos humanos.
 
-Corresponde al Ministerio Público y a las policías la investigación de los delitos y a aquél, el ejercicio de la acción penal ante los tribunales. Los particulares podrán ejercer la acción penal ante la autoridad judicial en los casos previstos en la ley.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2016)</small>
+
+Incumbe al Ministerio Público la persecución de los delitos del orden común cometidos en el territorio del Estado, la representación de los intereses de la sociedad, la promoción de una pronta, completa y debida impartición de justicia que abarque la reparación del daño causado, la protección de los derechos de las víctimas y el respeto a los derechos humanos de todas las personas; velar por la exacta observancia de las leyes de interés público; intervenir en los juicios que afecten a personas a quienes la Ley otorgue especial protección y ejercer las demás atribuciones previstas en otros ordenamientos aplicables. Los particulares podrán ejercer la acción penal ante la autoridad judicial en los casos previstos en la Ley.
+
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2010)</small>
 
 Las policías actuarán bajo la conducción y mando del Ministerio Público en la investigación y persecución de los delitos.
 
+> <small>(REFORMADO, P.O. 16 DE JUNIO DE 2010)</small>
+
 El Ministerio Público podrá aplicar criterios de oportunidad para el ejercicio de la acción penal, en los supuestos y condiciones que establezca la ley.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2016)</small>
 
 ###### Artículo 96.
 
-El Ministerio Público estará a cargo de un Procurador General de Justicia, quien se auxiliará con los funcionarios que determine la Ley Orgánica correspondiente, la que fijará sus respectivas atribuciones.
+El Ministerio Público estará a cargo de un Fiscal General del Estado, quien para el ejercicio de sus funciones contará con las Fiscalías Generales o Especializadas y el personal necesario bajo su autoridad y mando directo, en los términos que establezca la Ley, la cual señalará los requisitos y el procedimiento para su nombramiento, sustitución o remoción.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2016)</small>
 
 ###### Artículo 97.
 
-Los funcionarios a que se refiere el artículo anterior serán nombrados y removidos libremente por el Gobernador del Estado y durarán en su cargo, hasta en tanto se nombre a quienes deban substituirlos.
+El Fiscal General del Estado durará en su encargo siete años, y será designado y removido conforme a lo siguiente:
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+I.- A partir de la ausencia definitiva del Fiscal General del Estado, el Congreso del Estado contará con veinte días para integrar una lista de al menos diez candidatos al cargo, aprobada por las dos terceras partes de los miembros presentes, la cual enviará al Ejecutivo.
+
+Si el Ejecutivo no recibe la lista en el plazo antes señalado, enviará libremente al Congreso una terna y designará provisionalmente al Fiscal General del Estado, quien ejercerá sus funciones hasta en tanto se realice la designación definitiva conforme a lo establecido en este artículo. En este caso, el Fiscal General del Estado designado podrá formar parte de la terna.
+
+II.- Recibida la lista a que se refiere la fracción anterior, dentro de los diez días siguientes el Ejecutivo formulará una terna de entre los integrantes de la lista, y la enviará a la consideración del Congreso.
+
+III.- El Congreso, con base en la terna y previa comparecencia de las personas propuestas, designará al Fiscal General del Estado, con el voto de las dos terceras partes de los miembros presentes dentro del plazo de diez días.
+
+En caso de que el Ejecutivo no envíe la terna a que se refiere la fracción anterior, el Congreso tendrá diez días para designar al Fiscal General del Estado, de entre los candidatos de la lista que señala la fracción l.
+
+Si el Congreso no hace la designación en los plazos que establecen los párrafos anteriores, el Ejecutivo designará al Fiscal General del Estado, de entre los candidatos que integren la lista o, en su caso, la terna respectiva.
+
+IV.- El Fiscal General del Estado podrá ser removido por el Ejecutivo por las causas graves que establezca la Ley. La remoción podrá ser objetada por el voto de la mayoría de los miembros presentes del Congreso, dentro de un plazo de diez días hábiles, en cuyo caso el Fiscal General del Estado será restituido en el ejercicio de sus funciones. Si el Congreso no se pronuncia al respecto, se entenderá que no existe objeción.
+
+V.- En los recesos del Congreso, la Comisión Permanente lo convocará de inmediato a sesiones extraordinarias para la designación o formulación de objeción a la remoción del Fiscal General del Estado.
+
+VI.- Las ausencias del Fiscal General del Estado serán suplidas en los términos que determine la Ley.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2016)</small>
 
 ###### Artículo 98.
 
-El Procurador es el representante jurídico del Estado. El Gobernador podrá otorgar esa representación a alguno de los secretarios que lo auxilien para casos singulares.
+La Fiscalía General del Estado contará con las Fiscalías Generales o Especializadas que establezca la Ley, cuyos titulares serán nombrados y removidos por el Fiscal General del Estado. El nombramiento y remoción de los Fiscales podrá ser objetado por el Congreso, mediante el voto de las dos terceras partes de los miembros presentes, en el plazo que fije la Ley. Si el Congreso no se pronunciare en este plazo, se entenderá que no tiene objeción.
 
-> <small>(REFORMADO, P.O. 25 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE ENERO DE 2016)</small>
 
 ###### Artículo 99.
 
-Para ser Procurador General de Justicia, se requiere:
+Para ser Fiscal General del Estado se requiere:
 
-I.- Ser ciudadano mexicano por nacimiento, en pleno goce de sus derechos políticos y civiles;
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2016)</small>
+
+I.- Ser ciudadano mexicano, en pleno goce de sus derechos políticos y civiles;
+
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2011)</small>
 
 II.- Tener cuando menos treinta y cinco años cumplidos el día de su designación;
 
-III.- Ser profesional del derecho con título legalmente expedido, con antigüedad mínima de siete años;
+> <small>(REFORMADA, P.O. 4 DE ENERO DE 2016)</small>
+
+III.- Ser profesional del derecho con título legalmente expedido, con antigüedad mínima de diez años;
+
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2011)</small>
 
 IV.- Gozar de buena reputación; y
 
+> <small>(REFORMADA, P.O. 25 DE JULIO DE 2011)</small>
+
 V.- No haber sido condenado por delito doloso.
 
-La Ley fijará los requisitos que deben reunir los demás funcionarios de la Institución del Ministerio Público.
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+La Ley fijará los requisitos que deben reunir los demás funcionarios de la Fiscalía General del Estado.
+
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2016)</small>
 
 ###### Artículo 100.
 
-El Gobernador conocerá de la renuncia y licencias del Procurador y éste de la renuncia y licencias de los demás funcionarios y empleados del Ministerio Público.
+El Fiscal General del Estado presentará anualmente ante el Congreso, un informe de actividades. De igual forma, deberá comparecer cuando se le cite a rendir cuentas o a informar sobre su gestión.
 
-> <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
+> <small>(REFORMADO, P.O. 4 DE ENERO DE 2016)</small>
 
 ###### Artículo 101.
 
-Los funcionarios de que trata este título no tendrán en los juicios en que intervengan, ninguna prerrogativa especial y se sujetarán en todo a las leyes de procedimientos.
+El Fiscal General del Estado y los demás funcionarios de la Fiscalía General serán responsables de toda falta, omisión o violación a la Ley en que incurran con motivo de sus funciones.
+
+La Ley establecerá las bases para la formación y actualización de los servidores públicos de la Fiscalía General del Estado, así como para el desarrollo de la carrera profesional de los mismos, la cual se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
 
 > <small>(REFORMADO, P.O. 17 DE NOVIEMBRE DE 1982)</small>
 
@@ -3115,7 +3157,7 @@ P.O. 29 DE AGOSTO DE 2012.
 
 DECLARATORIA DEL DECRETO QUE REFORMA LA FRACCIÓN I DEL ARTÍCULO 17 Y EL PRIMER PÁRRAFO DEL 118 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA.
 
-PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas han sido aprobadas en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
+PRIMERO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas han sido aprobadas en términos de las disposiciones constitucionales aplicables y reforman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
 
 SEGUNDO.- El Presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
@@ -3232,3 +3274,29 @@ PRIMERO. El Honorable Congreso del Estado Libre y Soberano de Puebla, declara qu
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al Presente Decreto.
+
+P.O. 4 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE TIENE POR APROBADA LA MINUTA DE DECRETO, POR VIRTUD DE LA CUAL SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 37, EL PRIMER Y SEGUNDO PÁRRAFOS DEL 95, EL 96, EL 97, EL 98, EL PRIMER PÁRRAFO Y SUS FRACCIONES I Y III, Y EL ÚLTIMO PÁRRAFO DEL 99, EL 100 Y EL 101, Y SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO 82, TODOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE PUEBLA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- El Procurador General de Justicia que se encuentre en funciones al momento de entrar en vigor las presentes reformas, quedará designado por virtud de este Decreto, Fiscal General del Estado por el tiempo que establece el artículo 97 de la Constitución Política del Estado Libre y Soberano de Puebla, sin perjuicio del procedimiento de remoción previsto en la fracción IV del mismo artículo.
+
+TERCERO.- Las facultades conferidas a la Procuraduría General de Justicia del Estado en leyes, reglamentos y demás disposiciones jurídicas, se entenderán conferidas a la Fiscalía General del Estado, siempre que sean compatibles con las atribuciones que le otorga esta Constitución y su carácter de órgano constitucional autónomo.
+
+Las menciones hechas a la Procuraduría General de Justicia del Estado, o al Procurador General de Justicia del Estado en las leyes, reglamentos y demás disposiciones jurídicas, se entenderán referidas a la Fiscalía General del Estado o al Fiscal General del Estado, respectivamente, en los términos referidos en el párrafo anterior.
+
+CUARTO.- Los actuales servidores públicos de la Procuraduría General de Justicia del Estado permanecerán en sus cargos hasta que, en su caso, sean ratificados o designados por el Fiscal General del Estado los titulares de las unidades administrativas creadas por la legislación aplicable.
+
+QUINTO.- Los procedimientos jurisdiccionales y administrativos relacionados con la separación, remoción, cese o cualquier otra forma de terminación del servicio de los servidores públicos que prestaban sus servicios en la Procuraduría General de Justicia del Estado al día de entrada en vigor de este Decreto, concluirán conforme a la normatividad que les fue aplicable en el momento del inicio del procedimiento.
+
+SEXTO.- El personal sustantivo de la Procuraduría General de Justicia del Estado que pertenezca al servicio de carrera previsto en Ley Orgánica de la Procuraduría General de Justicia del Estado de Puebla y sus disposiciones reglamentarias, podrá integrarse al servicio de carrera de la Fiscalía General del Estado, si cumple lo que establece el programa respectivo.
+
+SÉPTIMO.- Los recursos humanos, materiales, financieros y presupuestales con que cuenta la Procuraduría General del Estado, incluyendo todos sus bienes actuales y los derechos derivados de los fondos o fideicomisos vigentes, pasarán a formar parte de la Fiscalía General del Estado.
+
+OCTAVO.- La Fiscalía General del Estado seguirá aplicando todas las disposiciones reglamentarias y administrativas vigentes que no se opongan al presente Decreto, hasta en tanto se expidan y entren en vigor sus propias disposiciones.
+
+NOVENO.- Los asuntos en los que el Procurador General de Justicia ejerza la representación jurídica del Estado que se encuentren en trámite a la entrada en vigor del Decreto, deberán remitirse dentro de los 20 días hábiles siguientes, a la Consejería Jurídica o a la dependencia que esta determine.
+
+DÉCIMO.- El Honorable Congreso del Estado Libre y Soberano de Puebla, declara que estas reformas y adición han sido aprobadas en términos de las disposiciones constitucionales aplicables y forman parte de la Constitución Política del Estado Libre y Soberano de Puebla.
