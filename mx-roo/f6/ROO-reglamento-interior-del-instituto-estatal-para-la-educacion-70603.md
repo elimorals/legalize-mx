@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-del-instituto-estatal-para-la-educacion-706
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-10-15"
-last_updated: "2009-10-15"
+last_updated: "2016-01-04"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70603&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "ROO"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL PARA LA EDUCACION DE JOVENES Y ADULTOS
 
-REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL PARA LA EDUCACION DE JOVENES Y ADULTOS
+REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL PARA LA EDUCACIÓN DE JÓVENES Y ADULTOS DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL PARA LA EDUCACIÓN DE JÓVENES Y ADULTOS, PUBLICADO EN EL P.O. DE 4 DE ENERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO DEROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE ENERO DE 2016 (DEROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el jueves 15 de octubre del 2009.
 
@@ -343,7 +345,7 @@ I. Acordar con el Director General, el trámite, resolución y despacho de los a
 
 II. Planear, programar, organizar, dirigir, controlar, ejecutar y evaluar el desarrollo de los programas y actividades encomendadas al área de su competencia por el Director General, de acuerdo con los lineamientos y ordenamientos legales aplicables;
 
-IlI. Desempeñar las funciones y comisiones que el Director General les delegue o encomiende y mantenerlo, oportuna y debidamente informado sobre el desarrollo de sus actividades y el cumplimiento de los programas institucionales asignados al ámbito de su competencia;
+III. Desempeñar las funciones y comisiones que el Director General les delegue o encomiende y mantenerlo, oportuna y debidamente informado sobre el desarrollo de sus actividades y el cumplimiento de los programas institucionales asignados al ámbito de su competencia;
 
 IV. Informar periódicamente al Director General, de los avances y resultados obtenidos y, en su caso, de la problemática o situaciones que pudiesen afectar el adecuado cumplimiento de las funciones y programas asignados, proponiendo las medidas que estime pertinentes;
 
@@ -758,3 +760,19 @@ INTEGRANTE REPRESENTACION ESTATAL
 PROF. FRANCISCO J. NOVELO ORDÓÑEZ
 
 DIRECTOR GENERAL DEL INSTITUTO ESTATAL PARA LA EDUCACIÓN DE JÓVENES Y ADULTOS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 4 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL INSTITUTO ESTATAL PARA LA EDUCACIÓN DE JÓVENES Y ADULTOS”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+SEGUNDO. Se deroga el Reglamento Interior del Instituto Estatal para la Educación de Jóvenes y Adultos, publicado en el Periódico Oficial del Estado de Quintana Roo, el 15 de Octubre de 2009.
+
+TERCERO. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
+
+CUARTO. El Manual de Organización y el Manual de Procedimientos se expedirán dentro de los 90 días siguientes a la entrada en vigor del presente Reglamento, resolviendo el Director General las cuestiones administrativas que deban operarse en tanto éste no se emita.
+
+QUINTO. La Dirección de Asuntos Jurídicos, será la encargada de resolver la aclaración de dudas y modificaciones del presente Reglamento Interior.
