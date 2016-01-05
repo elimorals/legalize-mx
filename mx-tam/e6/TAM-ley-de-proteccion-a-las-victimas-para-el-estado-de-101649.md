@@ -4,7 +4,7 @@ identifier: "TAM-ley-de-proteccion-a-las-victimas-para-el-estado-de-101649"
 country: "mx"
 rank: "ley"
 publication_date: "2014-07-01"
-last_updated: "2014-07-01"
+last_updated: "2016-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101649&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TAM"
 
 LEY DE PROTECCIÓN A LAS VÍCTIMAS PARA EL ESTADO DE TAMAULIPAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE ENERO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Tamaulipas, el martes 1 de julio de 2014.
 
@@ -67,9 +67,15 @@ VI. Establecer los deberes y obligaciones específicos a cargo de las autoridade
 
 VII. Establecer las sanciones que correspondan al incumplimiento por acción o por omisión de cualquiera de las disposiciones fijadas en esta Ley.
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2016)</small>
+
 ###### ARTÍCULO 2.
 
-Los preceptos contenidos en la presente Ley deben ser respetados y cumplidos por todo servidor público e institución, pública o privada, los que estarán obligados a garantizar la protección de las víctimas, proporcionándoles ayuda, asistencia y reparación integral en el orden estatal.
+1. Los preceptos contenidos en la presente Ley deben ser respetados y cumplidos por todo servidor público e institución, pública o privada, los que estarán obligados a garantizar la protección de las víctimas, proporcionándoles ayuda, asistencia y reparación integral en el orden estatal.
+
+2. Esta Ley será de aplicación complementaria y, en su caso, supletoria a la Ley General de Víctimas en todo lo referente a derechos, procedimientos, mecanismos e instituciones reconocidos o creados en el Estado de Tamaulipas para garantizar la adecuación y efectividad plenas de la Ley General de Víctimas en todo lo que dicha Ley General no contemple de antemano. Nada en la presente Ley deberá ser interpretado o utilizado de manera tal que contravenga a la Ley General de Víctimas o los acuerdos adoptados con apego a esa Ley General por parte del Sistema Nacional de Víctimas, del que Tamaulipas es parte.
+
+3. Todas las autoridades del Estado de Tamaulipas deberán respetar, en el ámbito de sus respectivas competencias, garantizar, promover y proteger los derechos de las víctimas reconocidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales en la materia y la Ley General de Víctimas. Los conceptos, principios, definiciones y medidas de ayuda, asistencia, atención, protección y reparación integral contemplados en la Ley General de Víctimas serán garantizados por las autoridades estatales y municipales, en los términos dispuestos por la referida legislación general en la materia y, de manera complementaria, por lo dispuesto en el presente ordenamiento.
 
 ###### ARTÍCULO 3.
 
@@ -103,7 +109,9 @@ Los mecanismos, medidas y procedimientos establecidos en esta Ley, se determinar
 
 Para los efectos de esta Ley, se entenderá por:
 
-I. Abogado Victimal: Al Asesor Jurídico del Gobierno del Estado de Tamaulipas, perteneciente a la Comisión de Atención a las Víctimas de los Delitos;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2016)</small>
+
+I. Asesor Jurídico: Al Asesor Jurídico o Asesora Jurídica Estatal de Atención a Víctimas;
 
 II. Asesoría Jurídica Estatal: A la Asesoría Jurídica Estatal brindada por la Comisión de referencia;
 
@@ -157,9 +165,17 @@ XXIII. Servidores Públicos: Toda persona que desempeñe cualquier empleo, cargo
 
 XXIV. Sistema: Sistema Nacional de Atención a Víctimas;
 
-XXV. Sistema Estatal: El Sistema Estatal de Atención a las Víctimas; y
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2016)</small>
 
-XXVI. Violación de Derechos Humanos: Todo acto u omisión que afecte los Derechos Humanos reconocidos en la Constitución o en los Tratados Internacionales aplicables, cuando el agente sea servidor público en el ejercicio de sus funciones o atribuciones o un particular que ejerza funciones públicas. También se considera violación de Derechos Humanos cuando la acción u omisión referida sea realizada por un particular instigado o autorizado, explícita o implícitamente por un servidor público, o cuando actúe con aquiescencia o colaboración de un servidor público.
+XXV. Sistema Estatal: El Sistema Estatal de Atención a las Víctimas;
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2016)</small>
+
+XXVI. Supervisión de la autoridad: La consistente en la observación y orientación de los sentenciados, ejercidas por personal especializado, con la finalidad de coadyuvar a la protección de la víctima y la comunidad. Esta medida se establecerá cuando la privación de la libertad sea sustituida por otra sanción, sea reducida la pena privativa de libertad o se conceda la suspensión condicional de la pena; y
+
+> <small>(ADICIONADA, P.O. 5 DE ENERO DE 2016)</small>
+
+XXVII. Violación de Derechos Humanos: Todo acto u omisión que afecte los Derechos Humanos reconocidos en la Constitución o en los Tratados Internacionales, cuando el agente sea servidor público en el ejercicio de sus funciones o atribuciones o un particular que ejerza funciones públicas. También se considera violación de Derechos Humanos cuando la acción u omisión referida sea realizada por un particular instigado o autorizado, explícita o implícitamente por un servidor público, o cuando actúe con aquiescencia o colaboración de un servidor público.
 
 ### CAPÍTULO III. DE LOS DERECHOS DE LAS VÍCTIMAS
 
@@ -171,7 +187,9 @@ XXVI. Violación de Derechos Humanos: Todo acto u omisión que afecte los Derech
 
 I. A una investigación pronta y eficaz que lleve, en su caso, a la identificación y enjuiciamiento de los responsables de delitos y de violaciones de los Derechos Humanos y a su reparación integral;
 
-II. A ser reparadas de manera integral y efectiva por el daño o menoscabo que han sufrido en sus derechos como consecuencia de las violaciones a Derechos Humanos;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2016)</small>
+
+II. A ser reparadas por el Estado de manera integral, adecuada, diferenciada, transformadora y efectiva por el daño o menoscabo que han sufrido en sus derechos como consecuencia de violaciones a derechos humanos y por los daños que esas violaciones les causaron;
 
 III. A conocer la verdad de lo ocurrido acerca de los hechos en que les fueron violados sus Derechos Humanos para lo cual la autoridad deberá informar los resultados de las investigaciones y de los derechos que en su favor contemplan la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Tamaulipas, así como en la legislación de la materia;
 
@@ -191,7 +209,9 @@ X. A solicitar, acceder y recibir, en forma clara y precisa, toda la informació
 
 XI. A obtener en forma oportuna, rápida y efectiva todos los documentos que requiera para el ejercicio de sus derechos, respetando los procedimientos que establezcan las leyes;
 
-XII. A conocer el estado de los procesos judiciales y administrativos en los que tenga un interés como interviniente;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2016)</small>
+
+XII. A conocer el estado de los procesos judiciales y administrativos en los que tenga un interés como interviniente, y a participar activa y efectivamente en ellos;
 
 XIII. A ser efectivamente escuchada por la autoridad respectiva, cuando se encuentre presente en la audiencia, diligencia o en cualquier otra actuación y antes de que la autoridad se pronuncie;
 
@@ -223,9 +243,37 @@ XXVI. A ejercer los recursos legales en contra de las decisiones que afecten sus
 
 XXVII. A que se les otorgue, en los casos que procedan, la ayuda provisional y humanitaria;
 
-XXVIII. A recibir la protección de su identidad, datos personales y confidencialidad; y
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2016)</small>
 
-XXIX. Los demás señalados por los Tratados Internacionales de los que el Estado Mexicano sea parte, la Ley General, la presente Ley y demás normatividad aplicable a la materia.
+XXVIII. A recibir la protección de su identidad, datos personales y confidencialidad;
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2016)</small>
+
+XXIX. A acudir y a participar en escenarios de diálogo institucional;
+
+> <small>(ADICIONADA, P.O. 5 DE ENERO DE 2016)</small>
+
+XXX. A participar en la formulación, Implementación y seguimiento de la política pública de prevención, ayuda, atención, asistencia y reparación integral;
+
+> <small>(ADICIONADA, P.O. 5 DE ENERO DE 2016)</small>
+
+XXXI. A que las políticas públicas que son implementadas con base en la presente Ley tengan un enfoque transversal de género y diferencial, particularmente en atención a la infancia, los adultos mayores y población indígena;
+
+> <small>(ADICIONADA, P.O. 5 DE ENERO DE 2016)</small>
+
+XXXII. A trabajar de forma colectiva con otras víctimas para la defensa de sus derechos, incluida su reincorporación a la sociedad;
+
+> <small>(ADICIONADA, P.O. 5 DE ENERO DE 2016)</small>
+
+XXXIII. A participar en espacios colectivos donde se proporcione apoyo individual o colectivo que le permita relacionarse con otras víctimas;
+
+> <small>(ADICIONADA, P.O. 5 DE ENERO DE 2016)</small>
+
+XXXIV. A recibir gratuitamente la asistencia de un Intérprete o traductor de su lengua, en caso de que no comprendan el idioma español o tenga discapacidad auditiva, verbal o visual; y
+
+> <small>(ADICIONADA, P.O. 5 DE ENERO DE 2016)</small>
+
+XXXV. Los demás señalados por los Tratados Internacionales de los que el Estado Mexicano sea parte, la Ley General, la presente Ley y demás normatividad aplicable a la materia.
 
 ###### ARTÍCULO 9.
 
@@ -275,11 +323,13 @@ Los Centros de Atención Integral a Víctimas deberán estar al alcance de las v
 
 ### CAPÍTULO II. DEL ALOJAMIENTO Y ALIMENTACIÓN
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2016)</small>
+
 ###### ARTÍCULO 15.
 
-1. El Sistema para el Desarrollo Integral de la Familia del Estado de Tamaulipas, los Sistemas Municipales para el Desarrollo Integral de la Familia y demás instituciones públicas que existan y brinden estos servicios en el ámbito Estatal o Municipal, brindarán directamente alojamiento y alimentación en condiciones de seguridad y dignidad a las víctimas que se encuentren en especial condición de vulnerabilidad o que se encuentren amenazadas o desplazadas de su lugar de residencia por causa del hecho punible cometido contra ellas o de la violación de sus derechos humanos. El alojamiento y la alimentación se brindarán durante el tiempo que sea necesario para garantizar que la víctima supere las condiciones de emergencia y pueda retornar libremente en condiciones seguras y dignas a su hogar.
+1. La Comisión brindará alojamiento y alimentación en condiciones de seguridad y dignidad a las víctimas que se encuentren en especial condición de vulnerabilidad o que se encuentren amenazadas o desplazadas de su lugar de residencia por causa del hecho punible cometido contra ellas o de la violación de sus derechos humanos. El alojamiento y la alimentación se brindarán durante el tiempo que sea necesario para garantizar que la víctima supere las condiciones de emergencia y pueda retornar libremente en condiciones seguras y dignas a su hogar.
 
-2. Se podrán establecer convenios de coordinación con instituciones privadas para la prestación de estos servicios.
+2. La Comisión podrá celebrar convenios de colaboración y coordinación con los Sistemas para el Desarrollo Integral de la Familia, tanto a nivel estatal como municipal, así como con otras Instituciones públicas y privadas, para la prestación de estos servicios.
 
 ###### ARTÍCULO 16.
 
@@ -293,7 +343,19 @@ La atención de que sean objeto las mujeres, los niños, niñas y adolescentes y
 
 2. Serán sancionados administrativa, civil o penalmente, de conformidad con las leyes aplicables, los servidores públicos estatales o municipales que contribuyan a poner en riesgo la seguridad de las víctimas, ya sea a través de intimidación, represalias, amenazas directas, negligencia, o cuando existan datos suficientes que demuestren que las víctimas podrían ser nuevamente afectadas por la colusión de dichas autoridades con los responsables de la comisión del delito o con un tercero implicado que amenace o dañe la integridad física o moral de una víctima.
 
-3. La Secretaría de Seguridad Pública del Estado dispondrá del personal que custodie a las víctimas o a los ofendidos del delito y sus familiares, cuando así lo solicite la Comisión de Atención a las Víctimas de los Delitos u otra instancia competente de la Procuraduría General de Justicia del Estado.
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2016)</small>
+
+3. Independientemente de lo establecido en el párrafo que antecede, incurrirán en responsabilidad administrativa, y serán sancionados conforme a la Ley de Responsabilidades de los Servidores Públicos del Estado de Tamaulipas, los servidores públicos que:
+
+I. Impidan u obstaculicen el acceso de las víctimas y sus representantes a la información, no sujeta a reserva legal, sobre las causas de su victimización y sobre las causas y condiciones de las violaciones a las que se refiere la presente Ley, así como a conocer la verdad acerca de esas violaciones;
+
+II. Proporcionen información falsa a las víctimas o sobre los hechos que produjeron la victimización; y
+
+III. Discriminen por razón de la victimización.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2016)</small>
+
+4. La Secretaría de Seguridad Pública del Estado dispondrá del personal que custodie a las víctimas o a los ofendidos del delito y sus familiares, cuando así lo solicite la Comisión u otra instancia competente de la Procuraduría General de Justicia del Estado.
 
 ###### ARTÍCULO 18.
 
@@ -587,13 +649,17 @@ d) El Presidente de la Comisión de Seguridad Pública, Prevención y Reinserci�
 
 III. El Presidente del Supremo Tribunal de Justicia y del Consejo de la Judicatura del Poder Judicial del Estado;
 
-IV. El Presidente de la Comisión de Derechos Humanos del Estado;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2016)</small>
 
-V. Tres representantes de los Municipios del Estado, nombrados conforme a la (sic) dispuesto por el Reglamento;
+IV. El Presidente de la Comisión de Derechos Humanos del Estado; y
 
-VI. 2 representantes de organizaciones de la sociedad civil especializadas en la defensa de víctimas del delito y de violaciones de derechos humanos; y
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2016)</small>
 
-VII. 2 representantes de grupos de Víctimas.
+V. Tres representantes de los Municipios del Estado, nombrados conforme a lo dispuesto por el Reglamento.
+
+VI. (DEROGADA, P.O. 5 DE ENERO DE 2016)
+
+VII. (DEROGADA, P.O. 5 DE ENERO DE 2016)
 
 ###### ARTÍCULO 40.
 
@@ -615,21 +681,39 @@ VII. 2 representantes de grupos de Víctimas.
 
 ###### ARTÍCULO 41.
 
-1. La Comisión Estatal de Atención a las Víctimas, es el órgano operativo del Sistema Estatal de Atención a las Víctimas encargado de gestionar y proporcionar a la víctima u ofendido del delito lo necesario para que reciban atención, asistencia y protección en términos de lo dispuesto por la presente Ley.
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2016)</small>
 
-2. Para el cumplimiento de sus funciones, contará con autonomía técnica y de gestión.
+1. La Comisión Estatal de Atención a las Víctimas, es el órgano operativo del Sistema Estatal de Atención a las Víctimas encargado de gestionar y proporcionar a las víctimas lo necesario para que reciban atención, asistencia y protección en términos de lo dispuesto por los Tratados Internacionales de los que el Estado Mexicano sea parte, la Ley General, la presente Ley y demás normatividad aplicable a la materia.
 
-3. El Gobernador del Estado expedirá su Reglamento Interior, en el cual se precisará lo relativo a su estructura, atribuciones y funciones, en todo aquello que no se encuentre expresamente previsto por esta Ley.
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2016)</small>
+
+2. Para el cumplimiento de sus funciones, contará con personalidad jurídica, patrimonio propio y gozará de autonomía técnica y de gestión.
+
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2016)</small>
+
+3. El Gobernador del Estado expedirá su Estatuto Orgánico, en el cual se precisará lo relativo a su estructura, atribuciones y funciones, en todo aquello que no se encuentre expresamente previsto por esta Ley.
 
 4. En la ejecución de las funciones, acciones, planes y programas previstos en esta Ley, la Comisión garantizará la representación y participación directa de las víctimas y organizaciones de la sociedad civil, propiciando su intervención en la construcción de políticas públicas, así como el ejercicio de labores de vigilancia, supervisión y evaluación de las instituciones integrantes del Sistema Estatal con el objetivo de garantizar un ejercicio transparente de sus atribuciones.
 
 5. La Comisión contará con el personal administrativo necesario para cumplir sus funciones.
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2016)</small>
+
 ###### ARTÍCULO 42.
 
-1. La Comisión estará integrada por tres comisionados, quienes serán nombrados por el Gobernador del Estado, con la ratificación de cuando menos las dos terceras partes de los miembros presentes del Congreso del Estado, en la sesión del Pleno que corresponda.
+1. La Comisión estará Integrada por tres comisionadas o comisionados. El Ejecutivo Estatal enviará al Congreso del Estado, previa convocatoria pública, tres propuestas por cada integrante de la Comisión a elegir. El Congreso del Estado elegirá a las o los comisionados por el voto de las dos terceras partes de los presentes, en la sesión del Pleno que corresponda.
 
-2. En su conformación, el Ejecutivo y el Congreso del Estado garantizarán la representación de las diversas regiones geográficas del Estado, así como de las diversas especializaciones sobre hechos victimizantes y la igualdad de género.
+2. Una vez cerrada la convocatoria, deberá publicarse la lista de las propuestas recibidas.
+
+3. Para garantizar que en la Comisión estén representados colectivos de víctimas, especialistas y expertos que trabajen en la atención a víctimas, ésta se conformará en los siguientes términos de las propuestas presentadas al Ejecutivo Estatal:
+
+I. Dos comisionados especialistas en derecho, psicología, derechos humanos, sociología o especialidades equivalentes con experiencia en la materia de esta Ley, propuestos por universidades públicas; y
+
+II. Un comisionado o comisionada representando a colectivos de víctimas, propuesto por organizaciones no gubernamentales registradas ante la Secretaria de Relaciones Exteriores, o por el organismo público de derechos humanos.
+
+4. Para la elección de los comisionados, el Congreso del Estado conformará una Comisión Plural integrada por los presidentes de las Comisiones de Justicia y Gobernación, que se constituirá en la Comisión responsable de encabezar el proceso de selección y que recibirá las propuestas de comisionados.
+
+5. En su conformación, el Ejecutivo y el Congreso del Estado garantizarán las diversas especializaciones sobre hechos victimizantes y la igualdad de género.
 
 ###### ARTÍCULO 43.
 
@@ -863,7 +947,9 @@ Para ser beneficiario del apoyo del Fondo, además de los requisitos que al efec
 
 1. El Fondo se conformará con:
 
-I. Recursos previstos expresamente para dicho fin en el Presupuesto de Egresos del Estado de Tamaulipas en el rubro correspondiente, sin que pueda disponerse de dichos recursos para fines diversos a los señalados por esta Ley;
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2016)</small>
+
+I. Recursos previstos expresamente para dicho fin en el Presupuesto de Egresos del Estado de Tamaulipas, cuyo monto no podrá ser inferior al 0.014 por ciento del Gasto Programable anual del total del mismo, sin que puedan disponerse de dichos recursos para fines diversos a los señalados por esta ley;
 
 II. Recursos obtenidos por la enajenación de bienes decomisados en procesos penales, en términos de lo previsto por la Ley de Extinción de Dominio para el Estado de Tamaulipas;
 
@@ -874,6 +960,8 @@ IV. Recursos provenientes de multas y sanciones pecuniarias impuestas por la aut
 V. Recursos provenientes de multas y sanciones impuestas al Estado por violaciones a Derechos Humanos, que en términos de esta Ley y su Reglamento se establezcan;
 
 VI. Donaciones o aportaciones en efectivo o especie realizadas por terceros, personas físicas o morales, de carácter público, privado o social, nacional o extranjera, de manera altruista;
+
+> <small>(REFORMADA, P.O. 5 DE ENERO DE 2016)</small>
 
 VII. El monto de la reparación integral del daño cuando el beneficiario renuncie a ella o no lo reclame dentro del plazo legal establecido;
 
@@ -886,6 +974,24 @@ X. Los rendimientos que generen los recursos del Fondo; y
 XI. Los montos que se recuperen en virtud del derecho de repetición en los términos de Ley.
 
 2. La Comisión velará por la optimización del uso de los recursos, priorizando en todo momento aquellos casos de mayor gravedad.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2016)</small>
+
+ARTÍCULO 57 BIS.
+
+1. El Estado se subrogará en los derechos de las víctimas para cobrar el importe que por concepto de compensación haya erogado en su favor con cargo al Fondo.
+
+2. Para tal efecto, se aportarán al Estado los elementos de prueba necesarios para el ejercicio de los derechos derivados de la subrogación.
+
+3. El Ministerio Público estará obligado a ofrecer los elementos probatorios señalados en el párrafo anterior, en los momentos procesales oportunos, a fin de garantizar que sean valorados por el juzgador al momento de dictar sentencia, misma que deberá prever de manera expresa la subrogación a favor del Estado en el derecho de la víctima a la reparación del daño y el monto correspondiente a dicha subrogación, en los casos en que así proceda.
+
+4. En el caso de las compensaciones por error judicial, éstas se cubrirán con cargo al presupuesto del Poder Judicial del Estado.
+
+> <small>(ADICIONADO, P.O. 5 DE ENERO DE 2016)</small>
+
+ARTÍCULO 57 TER.
+
+El Estado ejercerá el procedimiento económico coactivo para hacer efectiva la subrogación del monto de la reparación conforme a las disposiciones aplicables, sin perjuicio de que dicho cobro pueda reclamarse por la víctima en la vía civil, para cobrar la reparación del daño del sentenciado o de quien esté obligado a cubrirla, en términos de las disposiciones que resulten aplicables.
 
 ###### ARTÍCULO 58.
 
@@ -1079,9 +1185,11 @@ La Comisión de Derechos Humanos del Estado deberá realizar sus labores priorit
 
 Se brindará la Asesoría Jurídica de Atención a Víctimas del Estado de Tamaulipas, como área especializada en asesoría jurídica, dependiente de la Comisión.
 
+> <small>(REFORMADO, P.O. 5 DE ENERO DE 2016)</small>
+
 ###### ARTÍCULO 84.
 
-Dicha asesoría jurídica, estará integrada por Abogados Victimales estatales de Atención a Víctimas, peritos y profesionistas técnicos de diversas disciplinas que se requieran para la defensa de los derechos de las víctimas.
+Dicha asesoría jurídica, estará integrada por Asesores Jurídicos Estatales de Atención a Víctimas, peritos y profesionistas técnicos de diversas disciplinas que se requieran para la defensa de los derechos de las víctimas.
 
 ###### ARTÍCULO 85.
 
@@ -1089,7 +1197,9 @@ El servicio de la Asesoría Jurídica será gratuito y se prestará a todas las 
 
 ###### ARTÍCULO 86.
 
-Se establece la figura del Abogado Victimal, el cual tendrá las funciones siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE ENERO DE 2016)</small>
+
+Se establece la figura del Asesor Jurídico, el cual tendrá las funciones siguientes:
 
 I. Asistir y asesorar a la víctima desde el primer momento en que tenga contacto con la autoridad;
 
@@ -1152,3 +1262,29 @@ Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimient
 Dado en la residencia del Poder Ejecutivo, en Victoria, Capital del Estado de Tamaulipas, al primer día del mes de julio del año dos mil catorce.
 
 ATENTAMENTE.- SUFRAGIO EFECTIVO. NO REELECCIÓN.- EL GOBERNADOR CONSTITUCIONAL DEL ESTADO.- EGIDIO TORRE CANTÚ.- Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO.- HERMINIO GARZA PALACIOS.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 5 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. LXII-614, MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 2, 7 FRACCIONES I, XXV Y XXVI, 8 PÁRRAFO 2 FRACCIONES II, XII, XXVIII Y XXIX, 15, 17 PÁRRAFO 3, 39 FRACCIONES IV Y V, 41 PÁRRAFOS 1, 2 Y 3, 42, 57 PÁRRAFO 1, FRACCIONES I Y VII, 84 Y 86 PÁRRAFO ÚNICO; SE ADICIONAN LOS ARTÍCULOS 7 FRACCIÓN XXVII, 8 FRACCIONES XXX A XXXV DEL PÁRRAFO 2, 17 PÁRRAFO 4, 57 BIS Y 57 TER; Y SE DEROGAN LAS FRACCIONES VI Y VII DEL ARTÍCULO 39, DE LA LEY DE PROTECCIÓN A LAS VÍCTIMAS PARA EL ESTADO DE TAMAULIPAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Sistema Estatal de Atención a las Víctimas, incluyendo a la Comisión Estatal de Atención a las Víctimas, deberá quedar instalado dentro de los 90 días naturales posteriores a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Gobierno del Estado deberá hacer las previsiones presupuestales necesarias para la operación de la presente ley y establecer una partida presupuestal específica en el Presupuesto de Egresos del Estado para el siguiente ejercicio fiscal, incluyendo la constitución del Fondo de Atención a Víctimas del Estado de Tamaulipas.
+
+###### ARTÍCULO CUARTO.
+
+Los recursos humanos, financieros y materiales, así como los bienes inmuebles adscritos al servicio del Organismo Público Desconcentrado denominado Instituto de Atención a Víctimas del Delito, se transferirán al Organismo Público Descentralizado señalado en el artículo 41 reformado mediante el presente Decreto, y éste los asignará al funcionamiento de las unidades administrativas bajo su adscripción.
+
+###### ARTÍCULO QUINTO.
+
+Se derogan todas las disposiciones jurídicas que se opongan al presente Decreto.
