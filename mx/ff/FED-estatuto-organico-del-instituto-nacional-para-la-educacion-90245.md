@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-instituto-nacional-para-la-educacion-9024
 country: "mx"
 rank: "estatuto"
 publication_date: "2012-11-26"
-last_updated: "2012-11-26"
+last_updated: "2016-01-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90245&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,9 @@ issue_date: "2012-11-05"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL PARA LA EDUCACIÓN DE LOS ADULTOS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DEL INSTITUTO NACIONAL PARA LA EDUCACIÓN DE LOS ADULTOS, PUBLICADO EN EL D.O.F. DE 5 DE ENERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 5 DE ENERO DE 2016 (ABROGADO).
 
 Estatuto publicado en la Tercera Sección del Diario Oficial de la Federación, el lunes 26 de noviembre de 2012.
 
@@ -706,3 +708,15 @@ El presente Estatuto Orgánico del Instituto Nacional para la Educación de los 
 En cumplimiento al Acuerdo SE/I-12/03.01,R dictado en la Primera Sesión Extraordinaria de 2012 de la Junta de Gobierno del Instituto Nacional para la Educación de los Adultos, y con fundamento en los artículos 59, fracción XII, de la Ley Federal de las Entidades Paraestatales, y 16, fracción II, del Decreto por el que se reforma el diverso por el que se crea el Instituto Nacional para la Educación de los Adultos, publicado en el Diario Oficial de la Federación el 23 de agosto de 2012, el suscrito Director General del citado organismo público descentralizado procede a tramitar la publicación del presente Estatuto Orgánico en el Diario Oficial de la Federación.
 
 El Director General del Instituto Nacional para la Educación de los Adultos, Juan de Dios Castro Muñoz.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 5 DE ENERO DE 2016.
+
+PRIMERO.- El presente Estatuto Orgánico surtirá efectos al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Se abroga el Estatuto Orgánico del Instituto Nacional para la Educación de los Adultos, publicado en el Diario Oficial de la Federación el 26 de noviembre de 2012, así como aquellas disposiciones internas que se opongan al presente ordenamiento.
+
+TERCERO.- Las unidades administrativas con denominaciones nuevas o distintas que aparecen en el presente Estatuto Orgánico y que tienen competencia en asuntos que anteriormente correspondían a otras unidades, se harán cargo de los mismos, continuarán su substanciación o dictarán las resoluciones respectivas.
+
+CUARTO.- La implementación del presente Estatuto Orgánico será con cargo al presupuesto autorizado al INEA, por lo que no se requerirán recursos adicionales en el presente ejercicio fiscal, ni se incrementará su presupuesto regularizable.
