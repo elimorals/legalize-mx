@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2015-11-23"
+last_updated: "2016-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE FEBRERO DE 2016 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ENERO DE 2016.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -153,7 +155,9 @@ I. Interpretar para efectos administrativos las disposiciones de este Código;
 
 II. Formular programas y ajustar su actuación al plan estatal de desarrollo, a los programas estatales y, en su caso, a los planes y programas municipales aplicables;
 
-III. Impulsar y aplicar programas de mejora regulatoria;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+III. Impulsar y aplicar programas de Mejora Regulatoria y Gobierno Digital;
 
 IV. Expedir normas técnicas en los casos previstos en este Código y realizar, directamente o a través de terceros autorizados, la evaluación de conformidad. La expedición de una norma técnica estará reservada a las dependencias de la administración pública estatal;
 
@@ -201,7 +205,9 @@ IV. Que su objeto sea posible de hecho, determinado o determinable y esté previ
 
 V. Cumplir con la finalidad de interés público señalada en el ordenamiento que resulte aplicable, sin que puedan perseguirse otros fines distintos;
 
-VI. Constar por escrito, indicar la autoridad de la que emane y contener la firma autógrafa del servidor público, salvo en aquellos casos que el ordenamiento aplicable autorice una forma distinta de emisión;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+VI. Constar por escrito o de manera electrónica indicando la autoridad de la que emane y contener la firma autógrafa, electrónica avanzada o el sello electrónico en su caso del servidor público;
 
 VII. Tratándose de un acto administrativo de molestia, estar fundado y motivado, señalando con precisión el o los preceptos legales aplicables, así como las circunstancias generales o especiales, razones particulares o causas inmediatas que se hayan tenido en consideración para la emisión del acto, debiendo constar en el propio acto administrativo la adecuación entre los motivos aducidos y las normas aplicadas al caso concreto;
 
@@ -209,9 +215,13 @@ VIII. Expedirse de conformidad con los principios, normas e instituciones juríd
 
 IX. Guardar congruencia en su contenido y, en su caso, con lo solicitado;
 
-X. Señalar el lugar y la fecha de su emisión, así como los datos relativos a la identificación precisa del expediente, documentos, nombre y domicilio de las personas de que se trate;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-XI. Tratándose de actos administrativos que deban notificarse, se hará mención expresa de la oficina en que se encuentra y puede ser consultado el expediente respectivo;
+X. Señalar el lugar y la fecha de su emisión, así como los datos relativos a la identificación precisa del expediente, documentos, nombre y domicilio físico o correo electrónico de las personas de que se trate;
+
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+XI. Tratándose de actos administrativos que deban notificarse, se hará mención expresa de la dependencia emisora, la oficina en la que se encuentra dicho expediente o el portal electrónico a través del cual puede realizar la consulta del expediente respectivo;
 
 XII. Tratándose de resoluciones desfavorables a los derechos e intereses legítimos de los particulares, deberá hacerse mención del derecho y plazo que tienen para promover el recurso administrativo de inconformidad o el juicio ante el Tribunal de lo Contencioso Administrativo;
 
@@ -681,9 +691,13 @@ En los casos de los Ayuntamientos, sus organismos auxiliares, y los Tribunales A
 
 47.- La Secretaría de la Contraloría deberá llevar un control de los resultados de cada intervención de los Testigos Sociales.
 
-La dependencia contratante deberá proporcionar la información necesaria mediante la entrega de un informe circunstanciado dentro de los diez días hábiles posteriores a la conclusión del procedimiento respectivo.
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
 
-El Testigo deberá presentar copia de su testimonio a la Secretaría de la Contraloría y a la Unidad Contratante.
+La dependencia contratante deberá proporcionar la información necesaria mediante la entrega de un informe circunstanciado dentro de los diez días hábiles posteriores a la conclusión del procedimiento respectivo, a través de la oficina correspondiente o vía electrónica en el portal transaccional que para tal efecto se cree.
+
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
+El Testigo deberá presentar copia de su testimonio a la Secretaría de la Contraloría y a la Unidad Contratante, de manera presencial o electrónica.
 
 En los casos de los Ayuntamientos, sus organismos auxiliares, y los Tribunales Administrativos; dicho control de resultados será llevado por sus respectivos Órganos de Control.
 
@@ -859,19 +873,33 @@ La Universidad Autónoma del Estado de México y el Instituto de Transparencia y
 
 De la misma manera se publicará y actualizará una lista de los Testigos Sociales que hayan perdido su registro.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
 
 ###### Artículo 1.
 
-50.- Para registrarse como Testigo Social, deberá presentarse solicitud por medio de escrito libre ante el Comité de Registro de Testigos Sociales, al que se deberá adjuntar en original o copia certificada:
+50. Para registrarse como Testigo Social, deberá presentarse solicitud por medio de escrito libre ante el Comité de Registro de Testigos Sociales, ya sea de manera física o electrónica. A dicho escrito deberán adjuntarse los archivos físicos en original o copia certificada o digitales de los siguientes documentos:
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
 
 I. Credencial de Elector en caso de persona física, si se trata de Organización no gubernamental, documento con el que acredite su constitución formal y que su fin no es preponderantemente económico;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+
 II. No haber sido sentenciado por delito intencional que acredite pena corporal;
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+
 III. Ficha curricular en la que se muestre la experiencia laboral o docente, así como las constancias que lo acrediten;
+
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
 
 IV. Escrito en el que manifieste bajo protesta de decir verdad:
 
@@ -881,11 +909,27 @@ b) Que, en caso de haber sido servidor público con anterioridad, no se encuentr
 
 c) Que se abstendrá de participar en contrataciones en las que pudiera existir conflicto de intereses por su vinculación familiar, laboral o académica con alguno de los servidores públicos que participen en el proceso.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+
 V. Constancia de haber asistido a los cursos de capacitación que determine el Comité de Registro de Testigos Sociales sobre la normatividad aplicable.
 
 Este requisito podrá excusarse si la experiencia del Testigo es demostrable.
 
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(ADICIONADA, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+
 VI. En su caso, el pago de los derechos correspondientes.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Para el caso de la entrega de documentos electrónicos, si el funcionario del Comité de Registro de Testigos Sociales tiene un motivo fundado de que los documentos electrónicos anexados son falsos, deberá requerir al interesado para que en un plazo no mayor a cinco días hábiles, el solicitante acuda a la oficina correspondiente, para que se realice el cotejo de los documentos físicos con los otorgados vía electrónica.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Si los solicitantes otorgan documentos falsos, ya sea en formatos físicos o digitales, el funcionario encargado del registro, deberá dar vista al Ministerio Público para los efectos conducentes.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1071,7 +1115,9 @@ El personal del activo pasará a situación de retiro de acuerdo con lo establec
 
 55.- Deberá emitir su testimonio al final de su participación en el procedimiento para el que fue contratado; mismo que deberá entregar tanto a la dependencia contratante como a la Secretaría de la Contraloría y al Comité de Registro de Testigos Sociales para los efectos que procedan; el testimonio deberá ser publicado en la página de internet de la dependencia contratante dentro de los 5 días siguientes a su presentación.
 
-En los casos de participación en procedimientos de contratación en dependencias y organismos auxiliares del Poder Ejecutivo, el testimonio se presenta ante la unidad administrativa correspondiente; en el caso de los Ayuntamientos, sus organismos auxiliares y los Tribunales Administrativos, se presentará ante sus respectivos Órganos de Control.
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
+En los casos de participación en procedimientos de contratación en dependencias y organismos auxiliares del Poder Ejecutivo, el testimonio se presenta ante la unidad administrativa correspondiente o de manera electrónica, a través del portal que para tal efecto se habilite; en el caso de los Ayuntamientos, sus organismos auxiliares y los Tribunales Administrativos, se presentará ante sus respectivos Órganos de Control o de manera electrónica en la página de internet correspondiente.
 
 Este documento es independiente y no libera a los servidores públicos de ninguna responsabilidad por posibles actos que se hayan realizado en contravención de la normatividad aplicable durante los procedimientos de contratación.
 
@@ -1105,7 +1151,9 @@ VI. La referencia de los procesos de la contratación en que haya participado el
 
 VII. Conclusiones, en las que se incluirán las recomendaciones y propuestas para el fortalecimiento de la transparencia, imparcialidad, eficiencia y eficacia en los procedimientos de contratación; y
 
-VIII. Nombre y firma del Testigo Social.
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+VIII. Nombre y firma autógrafa, electrónica avanzada o sello electrónico en su caso del Testigo Social.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1123,7 +1171,9 @@ VIII. Nombre y firma del Testigo Social.
 
 59.- El Testigo Social deberá presenciar las contrataciones desde su inicio hasta su conclusión, aún cuando observe irregularidades o violaciones a los principios de transparencia, imparcialidad, honradez y legalidad.
 
-En estos casos, el Testigo Social deberá informar de inmediato y por escrito, al Órgano de Control respectivo, detallando las presuntas irregularidades, a efecto de que se determine lo conducente.
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
+En estos casos, el Testigo Social deberá informar de inmediato y por escrito presentado de manera presencial o electrónica, al Órgano de Control respectivo, detallando las presuntas irregularidades, a efecto de que se determine lo conducente.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1177,7 +1227,9 @@ VII. Las demás que sean necesarias en cada caso.
 
 63.- Las cuotas que con motivo de la participación de un Testigo Social se deban de cubrir, estarán a cargo de la dependencia contratante y deberán ser presupuestadas en el monto total del procedimiento de contratación en el que este participará.
 
-Los Testigos Sociales deberán entregar a la dependencia contratante la documentación legal y fiscal correspondiente previamente al pago.
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Los Testigos Sociales deberán entregar a la dependencia contratante la documentación legal y fiscal correspondiente previamente al pago. La entrega podrá realizarse en el módulo correspondiente o en el portal electrónico que se habilite para tal efecto.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1273,13 +1325,11 @@ V. Que exista un alto requerimiento para hacer más transparente el proceso.
 
 71.- Si de la revisión que se efectúe se determina que el Testigo Social incumplió alguna de sus responsabilidades; se condujo con parcialidad; de manera subjetiva; hizo mal manejo o utilizó para su beneficio la información a la que tuvo acceso con motivo de su participación en las contrataciones o en las sesiones de los Comités; intentó influir sobre la adjudicación correspondiente; obstaculizó el desarrollo normal del procedimiento respectivo; se condujo sin respeto con alguno o con todos los participantes; mostró preferencia por algún licitante o cualquier conducta similar, se hará acreedor a la cancelación definitiva de su registro como Testigo Social, independientemente de las sanciones que procedan conforme a la legislación vigente.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, G.G. 6 DE SEPTIEMBRE DE 2010)</small>
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
 
 ###### Artículo 1.
 
-72.- Si las violaciones son cometidas por un Testigo Social que forma parte de una Organización no Gubernamental, su registro no se cancela, se le deberá notificar la imposibilidad de volver a nombrar al infractor como testigo, en caso de volverlo a nombrar su registro se cancelará.
+72. Si las violaciones son cometidas por un Testigo Social que forma parte de una organización no gubernamental, su registro no se cancela, se le deberá notificar, a través del correo electrónico que otorgue para dicho efecto o de manera personal, la imposibilidad de volver a nombrar al infractor como testigo, en caso de volverlo a nombrar su registro se cancelará.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1575,7 +1625,9 @@ Las dependencias y organismos de la administración pública estatal y municipal
 
 12.- La Secretaría de Salud establecerá el Registro Estatal de Salud, en el que inscribirá de manera sistematizada la información que obtenga a través del sistema a que se refiere el artículo anterior.
 
-El registro será público, no tendrá efectos constitutivos ni surtirá efectos contra terceros.
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
+El registro será público y deberá estar disponible en la página de Internet de la Secretaría de Salud. El registro no tendrá efectos constitutivos ni surtirá efectos contra terceros.
 
 ## TITULO SEGUNDO. De los Institutos Especializados en Materia de Salud del Estado de México
 
@@ -2865,7 +2917,7 @@ Las escalas de los cuerpos técnico profesional están integradas por el persona
 
 ###### Artículo 2.
 
-49 Septies.- Para efectos del presento Capítulo, el Consejo Rector de Impacto Sanitario tendrá las funciones siguientes:
+49 Septies.- Para efectos del presente Capítulo, el Consejo Rector de Impacto Sanitario tendrá las funciones siguientes:
 
 I. Emitir el Dictamen de Factibilidad de Impacto Sanitario, para el funcionamiento de rastros.
 
@@ -2981,13 +3033,11 @@ Queda prohibido que los desechos o líquidos que conduzcan los drenajes sean ver
 
 60.- Cuando las construcciones, terrenos, edificios o locales representen un peligro para la población por su insalubridad, la "COPRISEM" podrá ordenar al propietario o poseedor la realización de las obras que estime necesarias para evitar el peligro o, en su defecto, ordenar la ejecución de las obras con cargo al omiso.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, G.G. 9 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
 
 ###### Artículo 2.
 
-61.- Todo cambio de propietario de un establecimiento, de razón social o denominación o, en su caso, la suspensión de actividades, trabajos o servicios, debe ser comunicado a la "COPRISEM".
+61. Todo cambio de propietario de un establecimiento, de razón social o denominación o, en su caso, la suspensión de actividades, trabajos o servicios, debe ser comunicado a la "COPRISEM", a través de sus oficinas o en el portal de internet que se cree para tal efecto.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -4799,7 +4849,9 @@ d) La consolidación de la capacidad de gestión urbana de los municipios;
 
 e) La homologación de las normas y procedimientos municipales que regulan el desarrollo urbano de los centros de población;
 
-f) La simplificación administrativa de los instrumentos de gestión y control del desarrollo urbano, así como la mejora regulatoria y transparencia en los procedimientos respectivos;
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
+f) La simplificación administrativa de los instrumentos de gestión y control del desarrollo urbano, así como la mejora regulatoria, la implementación de plataformas tecnológicas para el desahogo de trámites y transparencia en los procedimientos respectivos.
 
 g) La planeación conjunta y coordinada de las conurbaciones y zonas metropolitanas entre autoridades estatales y municipios y con los gobiernos Federal, estatales y del Distrito Federal, según sea el caso; y
 
@@ -5183,7 +5235,9 @@ III. Integrar las constancias de viabilidad que incluirán las opiniones técnic
 
 IV. A petición de la Secretaría, dar seguimiento a la ejecución de las obras de urbanización, infraestructura y equipamiento urbano de los conjuntos urbanos, subdivisiones y condominios, a efecto de que los integrantes y participantes de la misma, rindan informes respecto del avance físico de las obras que correspondan al ámbito de su competencia;
 
-V. Proponer a las autoridades competentes la adopción de las medidas necesarias para la mejora regulatoria y la desgravación de los procesos de administración y operación urbana y de producción de vivienda;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+V. Proponer a las autoridades competentes la adopción de medidas necesarias para la mejora regulatoria, la implementación de tecnologías de la información en el desahogo de los trámites y la desgravación de los procesos de administración y operación urbana y de producción de vivienda.
 
 VI. Promover medidas y mecanismos para simplificar y agilizar los procedimientos de autorización de trámites en la materia;
 
@@ -5283,7 +5337,9 @@ I. La Secretaría o el municipio que corresponda, elaborará el proyecto de plan
 
 a) Publicará aviso del inicio de consulta pública. Para el caso de planes de competencia estatal, en el Periódico Oficial “Gaceta del Gobierno”, en un periódico de circulación estatal y en la página electrónica de la Secretaría;
 
-b) El aviso a que se refiere el inciso anterior, señalará los lugares y fechas en los cuales el proyecto del plan estará a disposición del público para su consulta, así como calendario de audiencias públicas en las que los interesados deberán presentar por escrito sus planteamientos respecto a dicho proyecto;
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
+b) El aviso a que se refiere el inciso anterior, señalará los lugares, fechas y portales informativos en los cuales el proyecto del plan estará a disposición del público para su consulta, así como calendario de audiencias públicas en las que los interesados deberán presentar por escrito en formato físico o electrónico sus planteamientos respecto a dicho proyecto.
 
 c) El plazo para la consulta pública no deberá ser menor a un mes;
 
@@ -5585,7 +5641,9 @@ IV. Diez o más viviendas en un predio o lote.
 
 La constancia de viabilidad a que se refiere este artículo, tendrá vigencia de un año, pudiendo prorrogarse por un año más, solamente tendrá efectos informativos y no constituirá autorización del desarrollo.
 
-La Secretaría, de ser el caso, comunicará al interesado que no se le entregará dicha constancia de viabilidad.
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
+La Secretaría, de ser el caso, comunicará al interesado por medio de sus oficinas, estrados o correo electrónico que otorgue para efecto de recibir notificaciones y documentos, que no se le entregará dicha constancia de viabilidad.
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -5687,7 +5745,9 @@ Los conjuntos urbanos de Unidades Económicas de Alto Impacto no podrán formar 
 
 38.- La autorización de conjuntos urbanos se sujetará a los lineamientos siguientes:
 
-I. Deberá ser solicitada ante la Secretaría, acompañada de la documentación que establezca la reglamentación del presente Libro;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+I. Deberá ser solicitada ante la Secretaría de manera física o electrónica, acompañada de la documentación que establezca la reglamentación del presente Libro;
 
 > <small>(REFORMADA, G.G. 14 DE MAYO DE 2014)</small>
 
@@ -5983,7 +6043,9 @@ Para su obtención, los interesados deberán incluir en la solicitud respectiva,
 
 56.- La licencia de uso del suelo se sujetará a lo siguiente:
 
-I. Será tramitada por el interesado ante la autoridad competente y resuelta conforme al procedimiento establecido al efecto por la reglamentación de este Libro;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+I. Será tramitada por el interesado ante la autoridad competente, vía presencial en las oficinas correspondientes o de manera electrónica, a través del portal que se cree para tal efecto y deberá ser resuelta conforme al procedimiento establecido al efecto por la reglamentación de este Libro;
 
 II. Tendrá por objeto autorizar las normas para el uso y aprovechamiento del suelo establecidas en el plan municipal de desarrollo urbano aplicable;
 
@@ -6013,9 +6075,9 @@ En caso de no estar instalada tal Comisión, la autoridad encargada del desarrol
 
 IV. Tratándose de cambios a usos del suelo de impacto regional, se requerirá de dictamen de impacto regional y demás requisitos que establezca la reglamentación de este Libro.
 
-> <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
 
-Cuando se trate de cambios a usos de suelo de impacto regional, los municipios deberán remitir mensualmente al sistema estatal, copia certificada de las autorizaciones de cambio de uso del suelo, de densidad, de los coeficientes de ocupación y utilización del suelo y de altura de edificaciones que hayan expedido.
+Cuando se trate de cambios a usos de suelo de impacto regional, los municipios deberán remitir mensualmente de manera física o electrónica al sistema estatal, copia certificada signada con firma autógrafa, electrónica avanzada o sello electrónico en su caso, de las autorizaciones de cambio de uso del suelo, de densidad, de los coeficientes de ocupación y utilización del suelo y de altura de edificaciones que hayan expedido.
 
 > <small>(REFORMADO, G.G. 1 DE SEPTIEMBRE DE 2011)</small>
 
@@ -6841,9 +6903,9 @@ Las dependencias y organismos de la administración pública estatal y municipal
 
 31.- La Secretaría General de Gobierno a través de la Coordinación General de Protección Civil, establecerá el Registro Estatal de Protección Civil, quien verificará y vigilará su correcto funcionamiento, en el que se inscribirá de manera sistematizada la información a que se refiere el artículo anterior.
 
-> <small>(ADICIONADO, G.G. 19 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
 
-El Registro será público, no tendrá efectos constitutivos, ni surtirá efectos contra terceros.
+El Registro será público, deberá estar disponible en el portal informativo que para tal efecto se establezca dentro del sitio web del Consejo Estatal de Seguridad Ciudadana, no tendrá efectos constitutivos, ni surtirá efectos contra terceros.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -7079,11 +7141,9 @@ Con la finalidad de garantizar la seguridad de los pasajeros, los vehículos de 
 
 7.- Corresponde a la Secretaría de Transporte matricular los vehículos de transporte de pasajeros colectivo, de alta capacidad o masivo individual, especializado, de carga, mixto y el destinado para prestar un servicio a la población por parte de organismos y dependencias federales, estatales o municipales; expidiendo calcomanías, tarjetas de circulación y demás elementos de identificación que se estimen necesarios.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
 
-> <small>(ADICIONADO, G.G. 2 DE DICIEMBRE DE 2013)</small>
-
-La Secretaría de Transporte deberá proporcionar en forma mensual a la Secretaría de Finanzas los datos, informes y documentos a fin de verificar, unificar y mantener actualizado el padrón vehicular para efectos fiscales.
+La Secretaría de Movilidad deberá proporcionar en forma mensual, de manera física o electrónica a la Secretaría de Finanzas los datos, informes y documentos a fin de verificar, unificar y mantener actualizado el padrón vehicular para efectos fiscales.
 
 > <small>(REFORMADO, G.G. 16 DE OCTUBRE DE 2014)</small>
 
@@ -8581,6 +8641,8 @@ De igual forma se exceptúa de esta prohibición el transporte y traslado de ár
 
 ### CAPITULO TERCERO. De las organizaciones de productores
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
+
 ###### Artículo 8.
 
 16.- Son obligaciones de los conductores de vehículos automotores:
@@ -9019,7 +9081,7 @@ II. Multa de 50 a 100 días de salario mínimo vigente y el pago de los derechos
 
 ###### Artículo 9.
 
-5.- Los productores podrán constituirse en Asociaciones Locales de Productores Rurales y éstas, en Asociaciones Municipales, Uniones Regionales y Federaciones Estatales de Productores Rurales, mediante su registro en la Secretaría de Desarrollo Agropecuario, en los términos de la reglamentación correspondiente, fecha a partir de la cual tendrán personalidad jurídica.
+5. Los productores podrán constituirse en Asociaciones Locales de Productores Rurales y éstas, en Asociaciones Municipales, Uniones Regionales y Federaciones Estatales de Productores Rurales, mediante su registro en la Secretaría de Desarrollo Agropecuario, en los términos de la reglamentación correspondiente, fecha a partir de la cual tendrán personalidad jurídica. El registro deberá realizarse de manera presencial o a través de las plataformas tecnológicas que la Secretaría habilite para tal efecto.
 
 Se entiende por productor rural la persona física que directa o indirectamente se dedique a la producción de especies vegetales o animales, o quienes agreguen valor a su producción mediante procesos de transformación y comercialización.
 
@@ -10663,7 +10725,9 @@ La inconformidad administrativa se presentará ante la Contraloría, por escrito
 
 Lo dispuesto en el párrafo anterior será aplicable tratándose de inconformidades que se promuevan en contra de actos provenientes de procedimientos de licitación, invitación restringida, para la contratación de obra o servicios relacionados con la misma, que se ejecuten o se pretendan ejecutar con recursos estatales total o parcialmente.
 
-Tratándose de obras que se ejecuten o se pretendan ejecutar con recursos municipales, la inconformidad administrativa se presentará por escrito ante el ayuntamiento correspondiente.
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Tratándose de obras que se ejecuten o se pretendan ejecutar con recursos municipales, la inconformidad administrativa se presentará por escrito en formato físico o electrónico ante el ayuntamiento correspondiente.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -10677,7 +10741,9 @@ Tratándose de obras que se ejecuten o se pretendan ejecutar con recursos munici
 
 I. Nombre del inconforme o de quien promueva en su representación;
 
-II. Domicilio en el Estado de México para recibir notificaciones;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+II. Domicilio en el Estado de México o correo electrónico para recibir notificaciones;
 
 III. Número del concurso, nombre de la obra o servicio y el motivo de inconformidad;
 
@@ -10692,6 +10758,14 @@ VII. Las pruebas que ofrezca;
 VIII. La solicitud de suspensión del acto motivo de inconformidad, en su caso.
 
 El inconforme deberá adjuntar a su escrito el documento que acredite su personalidad, cuando no gestione a nombre propio, así como los documentos que ofrezca como prueba.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Las pruebas y otros documentos podrán presentarse en formato físico o electrónico. Para el caso de la entrega de documentos electrónicos, si el funcionario encargado de la tramitación de la inconformidad tiene un motivo fundado de que los documentos electrónicos anexados son falsos, deberá requerir al interesado para que en un plazo no mayor a cinco días hábiles, el solicitante acuda a la oficina de la Contraloría más cercana a su domicilio o a las oficinas del ayuntamiento correspondiente, para que se realice el cotejo de los documentos físicos con los otorgados vía electrónica.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Si los solicitantes otorgan documentos falsos, ya sea en formatos físicos o digitales, el funcionario encargado de la tramitación de la inconformidad deberá dar vista al Ministerio Público para los efectos conducentes.
 
 > <small>(ADICIONADO, P.O. 2 DE SEPTIEMBRE DE 2003)</small>
 
@@ -11549,7 +11623,13 @@ III. Suscribir acuerdos y convenios con los ayuntamientos del Estado de México,
 
 IV. Aprobar el Programa Estatal como sustento del Sistema de Planeación Democrática para el Desarrollo del Estado de México y municipios;
 
-V. Las demás que expresamente le determine este Libro y otros ordenamientos aplicables.
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+V. Proponer las acciones y lineamientos técnicos que deberán seguirse para implementar el uso estratégico de las tecnologías de la información, conforme a lo establecido en las disposiciones en materia de Gobierno Digital para la investigación y generación de información geográfica, estadística y catastral;
+
+> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
+
+VI. Las demás que expresamente le determine este Libro y otros ordenamientos aplicables.
 
 > <small>(REFORMADO, G.G. 14 DE MAYO DE 2014)</small>
 
@@ -11607,7 +11687,13 @@ IX. Aprobar la tarifa de los servicios y productos que genere el IGECEM y su pub
 
 X. Aprobar la instalación de delegaciones regionales y la circunscripción territorial que a cada una corresponda;
 
-XI. La (sic) demás necesarias para el ejercicio de las facultades anteriores, en términos de los ordenamientos jurídicos aplicables.
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+XI. Aprobar las acciones y lineamientos técnicos que deberá seguir el IGECEM en cuanto a la implementación del uso estratégico de las tecnologías de la información en la investigación y generación de información geográfica, estadística y catastral;
+
+> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
+
+XII. Las demás necesarias para el ejercicio de las facultades anteriores, en términos de los ordenamientos jurídicos aplicables.
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -11655,7 +11741,13 @@ XVII. Fungir o designar al secretario técnico de los comités sectoriales, regi
 
 XVIII. Emitir el documento que acredite la inscripción en el Registro Estatal de Especialistas en Valuación Inmobiliaria y en Levantamiento Topográfico Catastral;
 
-XIX. Las demás que le confieran otros ordenamientos.
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+XIX. Ejecutar las acciones que el IGECEM deberá seguir para llevar a cabo la implementación de instrumentos tecnológicos que permitan la eficiencia en la investigación y generación de información geográfica, estadística y catastral, dictando las medidas para su cumplimiento;
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+XX. Las demás que le confieran otros ordenamientos.
 
 Para el cumplimiento de estas atribuciones el Director General del IGECEM contará con las unidades administrativas necesarias en las materias de administración, planeación, informática, geografía, estadística, catastro y servicios de información.
 
@@ -11875,13 +11967,13 @@ Cuando se deba divulgar la información que se indica en el párrafo anterior, �
 
 26.- Los informantes podrán exigir ante el IGECEM que sean rectificados los datos que les conciernen, conforme a lo establecido por la Ley de Transparencia.
 
-> <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
 
 ###### Artículo 14.
 
-27.- Las dependencias y organismos auxiliares de carácter estatal o municipal, que intervengan o den autorización para transmitir o modificar el dominio directo de un predio o modificar las características técnicas o administrativas de los inmuebles estarán obligadas a informar al IGECEM por escrito, dentro de un plazo de 20 días hábiles, contados a partir de la fecha en que intervinieron o autorizaron el acto correspondiente.
+27. Las dependencias y organismos auxiliares de carácter estatal o municipal, que intervengan o den autorización para transmitir o modificar el dominio directo de un predio o modificar las características técnicas o administrativas de los inmuebles estarán obligadas a informar al IGECEM por escrito o por vía electrónica, dentro de un plazo de veinte días hábiles, contados a partir de la fecha en que intervinieron o autorizaron el acto correspondiente.
 
-Tratándose de particulares cuyas operaciones consten en documentos privados, la información relativa a las operaciones a que se refiere este artículo, deberá presentarse al Ayuntamiento, dentro de los quince días hábiles siguientes a la fecha de la operación respectiva.
+Tratándose de particulares cuyas operaciones consten en documentos privados, la información relativa a las operaciones a que se refiere este artículo, deberá presentarse al Ayuntamiento, dentro de los quince días hábiles siguientes a la fecha de la operación respectiva, ya sea de manera física o a través del portal de internet que los Ayuntamientos habiliten para tal efecto.
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -11930,6 +12022,10 @@ Las dependencias, entidades y unidades administrativas de los poderes Legislativ
 ###### Artículo 14.
 
 34.- El IGECEM integrará y conservará bajo su guarda y custodia el acervo de información geográfica, estadística y catastral del Estado de México, mismo que estará a disposición de los interesados para su consulta, o adquisición conforme a la tarifa que apruebe el Consejo Directivo del IGECEM, con las salvedades y restricciones que establezcan las disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+La información a la que alude el párrafo anterior deberá estar alineada con la política de datos abiertos establecida en la Ley General de Transparencia y Acceso a la Información Pública Gubernamental, Ley de Gobierno Digital del Estado de México y Municipios y demás disposiciones relativas y aplicables.
 
 > <small>(ADICIONADO, G.G. 22 DE AGOSTO DE 2005)</small>
 
@@ -13475,7 +13571,9 @@ La inconformidad administrativa se presentará ante los respectivos órganos de 
 
 I. Nombre del inconforme o de quien promueva en su representación;
 
-II. Domicilio en el Estado para recibir notificaciones;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+II. Domicilio en el Estado de México o correo electrónico para recibir notificaciones;
 
 III. El motivo de inconformidad;
 
@@ -13489,7 +13587,17 @@ VII. Las pruebas que ofrezca;
 
 VII (SIC). La solicitud de suspensión del acto motivo de inconformidad, en su caso.
 
-El inconforme deberá adjuntar a su escrito el documento que acredite su personalidad, cuando no gestione a nombre propio, así como los documentos que ofrezca como prueba.
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
+El inconforme deberá adjuntar a su escrito el documento que acredite su personalidad, cuando no gestione a nombre propio, así como los documentos que ofrezca como prueba. Los documentos antes mencionados podrán presentarse en formato físico o electrónico.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Para el caso de la entrega de documentos electrónicos, si el funcionario encargado de la tramitación de la inconformidad tiene un motivo fundado de que los documentos electrónicos anexados son falsos, deberá requerir al interesado para que un plazo no mayor a cinco días hábiles, el solicitante acuda a la oficina del órgano de control interno correspondiente, para que se realice el cotejo de los documentos físicos con los otorgados vía electrónica.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Si los solicitantes otorgan documentos falsos, ya sea en formatos físicos o electrónicos, el funcionario encargado de la tramitación de la inconformidad deberá dar vista al Ministerio Público para los efectos conducentes.
 
 > <small>(ADICIONADO, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -14851,13 +14959,15 @@ III. Estatutos y representación de concesionarios y permisionarios; y
 
 IV. Las demás que señale el reglamento correspondiente.
 
-El Registro Estatal de Comunicaciones será público y tendrá efectos declarativos.
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
+El Registro Estatal de Comunicaciones será público, deberá estar disponible en el portal de internet de la Secretaría de Infraestructura y tendrá efectos declarativos.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 31 DE MARZO DE 2011)</small>
 
 ### CAPITULO TERCERO. De las constancias
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 3 DE JULIO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
 
 ###### Artículo 17.
 
@@ -15419,6 +15529,26 @@ H). Para la construcción e instalación de estaciones repetidoras y antenas par
 
 3. Planos o diseños que fomenten la integración de la estructura al contexto.
 
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Las solicitudes para la obtención de una licencia de construcción podrán realizarse de manera presencial ante la instancia correspondiente o vía electrónica, a través del portal que para tal efecto se habilite.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Los documentos que se requieran podrán entregarse en formato electrónico.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Para el caso de la firma de los planos por parte del perito responsable de obra, este signará con su firma electrónica avanzada o en su caso, sello electrónico cada uno de los documentos en los que se especifique dicho requisito.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Si se realiza la entrega de documentos electrónicos y el funcionario encargado de la tramitación de la licencia tiene un motivo fundado de que dichos instrumentos son falsos, deberá requerir al interesado para que un plazo no mayor a cinco días hábiles, el solicitante acuda a la oficina correspondiente, para que se realice el cotejo de los documentos físicos con los otorgados vía electrónica.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Si los solicitantes otorgan documentos falsos, ya sea en formatos físicos o electrónicos, el funcionario encargado de la tramitación de la licencia deberá dar vista al Ministerio Público para los efectos conducentes.
+
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
 ###### Artículo 18.
@@ -15575,7 +15705,7 @@ Si no lo hicieren dentro del plazo que se les haya fijado, el propio municipio l
 
 ###### Artículo 18.
 
-33. El titular de la licencia o permiso de construcción o el perito responsable de la obra deberá dar aviso por escrito a la autoridad municipal de la terminación de las obras autorizadas, dentro de los treinta días hábiles posteriores a su conclusión, a efecto de que le expida la constancia de terminación total o parcial de la obra.
+33. El titular de la licencia o permiso de construcción o el perito responsable de la obra, deberá dar aviso por escrito o vía electrónica a la autoridad municipal, de la terminación de las obras autorizadas, dentro de los treinta días hábiles posteriores a su conclusión, a efecto de que le expida la constancia de terminación de obra.
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -15588,6 +15718,10 @@ Tratándose de construcciones de inmuebles destinados a la actividad comercial o
 > <small>(ADICIONADO, G.G. 3 DE JULIO DE 2015)</small>
 
 La autoridad municipal competente autorizará las modificaciones realizadas al proyecto original, siempre que no se afecten las condiciones de seguridad, estabilidad, destino, uso, habitabilidad e higiene, se respeten las restricciones indicadas y las tolerancias que fijen las normas técnicas y demás disposiciones jurídicas aplicables.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+La constancia podrá ser expedida a través de los medios electrónicos que disponga el municipio y será válida, siempre que en ella conste la firma electrónica avanzada o el sello electrónico del funcionario responsable de la emisión de dicho documento.
 
 > <small>(ADICIONADO, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -15608,6 +15742,10 @@ Los Municipios expedirán la constancia de suspensión voluntaria de la obra, pa
 35.- La constancia de alineamiento y número oficial es el documento expedido por los municipios, que tiene por objeto delimitar la colindancia de un inmueble determinado con respecto a la vía pública adyacente, así como precisar sus restricciones de construcción y el número oficial que le corresponde.
 
 La constancia se podrá otorgar para ambos o para uno u otro servicio, de acuerdo a la solicitud del interesado, la cual se acompañará del croquis de localización y del documento que acredite la propiedad o posesión del inmueble respectivo.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+La solicitud de emisión de la constancia podrá hacerse de manera física o electrónica. Para ello, el solicitante podrá presentar los documentos que se describen en el párrafo anterior en formato electrónico.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 9 DE SEPTIEMBRE DE 2011)</small>
 
@@ -18375,7 +18513,7 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 G.G. 12 DE AGOSTO DE 2015.
 
-DECRETO NÚMERO 485, POR EL QUE SE ADICIONA LA SECCIÓN CUARTA DENOMINADA "DE LOS PRESTADORES DE SERVICIOS ELECTRÓNICOS Y PROVEEDORES DE TRANSPORTE" Y LOS ARTÍCULOS 7.57 BIS, 7.57 TER, 7.57 QUÁTER, 7.57 QUINTUS Y 7.57 SEXIES DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
+DECRETO NÚMERO 485, POR EL QUE SE ADICIONA LA SECCIÓN CUARTA DENOMINADA "DE LOS PRESTADORES DE SERVICIOS ELECTRÓNICOS Y PROVEEDORES DE TRANSPORTE" Y LOS ARTÍCULOS 7.57 BIS, 7.57 TER.7.57 QUÁTER. 7.57 QUINTUS Y 7.57 SEXIES DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
@@ -18486,3 +18624,37 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. El Ejecutivo del Estado y los Ayuntamientos, en el ámbito de su respectiva competencia, dispondrán lo necesario para que se realice una amplia campaña de difusión del presente decreto.
+
+G.G. 6 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 57.- POR EL QUE SE EXPIDEN LA LEY DE LA GESTIÓN PÚBLICA DIGITAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS Y LA LEY DEL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO” DEL ESTADO DE MÉXICO Y SE REFORMAN DIVERSAS DISPOSICIONES DE OTROS ORDENAMIENTOS JURÍDICOS”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Para efecto de los trámites y servicios, las autoridades del Estado estarán obligados a colocar en los Portales Transaccionales, las aplicaciones necesarias, en los sitios web antes mencionados en un plazo no mayor a un año a partir del día en que entre en vigor el presente Decreto.
+
+CUARTO.- Las disposiciones legales y administrativas expedidas en la materia regulada por este Decreto, vigentes al momento de la publicación de la misma, seguirán vigentes en lo que no se opongan a ésta, hasta en tanto se expidan las que deban sustituirlas.
+
+QUINTO.- El Ejecutivo Estatal deberá presentar a consideración del Consejo durante su primera sesión, los proyectos de reglamentos, para su posterior publicación.
+
+SEXTO.- Las facultades que de conformidad con el presente Decreto deban ejercer las autoridades del Estado, las llevarán a cabo a través de los órganos que correspondan, de conformidad con el ámbito de competencia respectivo.
+
+SÉPTIMO.- Dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, se deberá instalar el Consejo Estatal de Gobierno Digital por convocatoria del Presidente de la misma.
+
+OCTAVO.- Dentro del año siguiente a la entrada en vigor de este Decreto, las autoridades del Estado deberán tener en el SEITS la totalidad de sus trámites y servicios.
+
+NOVENO.- En la primera sesión del Consejo se deberán expedir las disposiciones que deberán observar las autoridades del Estado, en el diseño y establecimiento de las medidas de seguridad y de protección de los datos personales que proporcionen las personas al efectuar trámites y servicios electrónicos, la Agenda Digital y los Estándares de Tecnologías de la información, mismos que deberán publicarse en la Gaceta del Gobierno del Estado de México.
+
+DÉCIMO.- Para que las dependencias establecidas en el artículo 66 de la Ley de Gobierno Digital del Estado de México y Municipios sean autoridades certificadoras en el Estado, se debe celebrar un convenio de colaboración entre ellas y el Gobierno del Estado, para efecto de darles tal carácter.
+
+DÉCIMO PRIMERO.- El RETyS deberá operar en observancia a lo establecido por el presente Decreto en un plazo no mayor a noventa días posteriores a la entrada en vigor del decreto.
+
+DÉCIMO SEGUNDO.- A partir de la entrada en vigor del presente Decreto, todos los trámites y servicios que prestan las autoridades del Estado podrán ser desahogados de manera electrónica, sin perjuicio de aquellos que ya se realizaban a través de esa vía.
+
+DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, queda abrogada la Ley para el Uso de los Medios Electrónicos del Estado de México publicada en el periódico oficial “Gaceta del Gobierno” el tres de septiembre de dos mil diez.
+
+DÉCIMO CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+DÉCIMO QUINTO.- Las erogaciones que deriven de la aplicación de este Decreto, deberán estar consideradas en la partida presupuestal que apruebe la Honorable Legislatura del Estado para tal efecto.
