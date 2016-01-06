@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2015-08-19"
+last_updated: "2016-01-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE FEBRERO DE 2016 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ENERO DE 2016.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -115,9 +117,9 @@ Las dependencias del Ejecutivo y los organismos auxiliares a que se refiere el a
 
 Así mismo, promoverán que sus planes, programas y acciones, sean realizados con perspectiva de género.
 
-> <small>(ADICIONADO, G.G. 15 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
 
-De igual forma, deberán implementar un programa permanente, coordinado y continuo de Mejora Regulatoria, conforme a las reglas que establece la ley de la materia.
+De igual forma, deberán implementar un programa permanente, coordinado y continuo de Mejora Regulatoria y Gobierno Digital, conforme a las reglas que establecen las leyes y demás disposiciones de dichas materias.
 
 ###### Artículo 14.
 
@@ -391,11 +393,11 @@ XX. Promover que los recursos públicos destinados a los programas sociales, se 
 
 XXI. Las demás que señalen otros ordenamientos legales.
 
-> <small>(REFORMADO, G.G. 8 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
 
 ###### Artículo 23.
 
-La Secretaría de Finanzas, es la encargada de la planeación, programación, presupuestación y evaluación de las actividades del Poder Ejecutivo, de la administración financiera y tributaria de la hacienda pública del Estado y de prestar el apoyo administrativo que requieran las dependencias del Poder Ejecutivo del Estado.
+La Secretaría de Finanzas, es la encargada de la planeación, programación, presupuestación y evaluación de las actividades del Poder Ejecutivo, de la administración financiera y tributaria de la hacienda pública del Estado y de prestar el apoyo administrativo y tecnológico que requieran las dependencias del Poder Ejecutivo del Estado.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 8 DE DICIEMBRE DE 2005)</small>
 
@@ -651,13 +653,37 @@ En los convenios antes mencionados que celebre el Estado se podrán estipular la
 
 LV. Hacer efectivas las garantías otorgadas bajo cualquier modalidad a favor del Gobierno del Estado de México, mediante los procedimientos previstos en las disposiciones legales y reglamentarias aplicables.
 
-> <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-LVI. Determinar el destino final tratándose de tráileres, autobuses y cualquier tipo de remolques, una vez declarados abandonados;
+LVI. Implementar, desarrollar y fomentar la política de Gobierno Digital y el uso estratégico de tecnologías de la información en el ejercicio de la gestión pública dentro de la Entidad.
 
-> <small>(ADICIONADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 6 DE ENERO DE 2016)</small>
 
-LVII. Las demás que señalen las leyes y reglamentos vigentes en el Estado de México.
+LVII. Emitir lineamientos técnicos en materia de Gobierno Digital conforme a lo establecido en los ordenamientos jurídicos aplicables.
+
+> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
+
+LVIII. Dar asesoría en materia de Gobierno Digital a los sujetos de la Ley de Gobierno Digital del Estado de México y Municipios, teniendo como base la normatividad aplicable en dicha materia.
+
+> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
+
+LIX. Implementar y administrar el Registro Único de Personas Acreditadas del Estado de México, y realizar todas las acciones que de ello (sic). Para la realización de las acciones establecidas en esta fracción, la Secretaría deberá coordinarse con el Consejo Estatal de Gobierno Digital, aplicando las disposiciones de la normatividad aplicable.
+
+> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
+
+LX. Implementar y administrar el Sistema Estatal de Información, Trámites y Servicios, en coordinación con el Consejo Estatal de Gobierno Digital.
+
+> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
+
+LXI. Aplicar las políticas en materia de protección de datos personales respecto del almacenamiento y custodia de información que derive del ejercicio de sus atribuciones.
+
+> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
+
+LXII. Promover, formular, instrumentar, ejecutar, dar seguimiento y evaluar las políticas, lineamientos, acciones y programas en materia de Mejora Regulatoria aplicadas al uso estratégico de tecnologías de la información de conformidad con la Ley de Gobierno Digital del Estado de México y Municipios.
+
+> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
+
+LXIII. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1427,6 +1453,10 @@ V. Apoyar la creación y desarrollo de agroindustrias en el Estado y fomentar la
 
 V Bis. Desarrollar y coordinar con las dependencias del Ejecutivo, organismos públicos descentralizados y ayuntamientos el Programa de Mejora Regulatoria, a través de la Comisión Estatal de Mejora Regulatoria;
 
+> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
+
+V Ter. Desarrollar e implementar políticas que vayan encaminadas al uso estratégico de las tecnologías de la información y que impulsen el desarrollo económico dentro de la entidad, así como la generación de nuevas empresas y empleos y fomenten la competitividad dentro de las regiones del estado. Las acciones enunciadas en esta fracción deberán realizarse con apego a los lineamientos técnicos que establezca la Ley de Gobierno Digital del Estado de México y Municipios, y su Reglamento.
+
 > <small>(REFORMADA, G.G. 16 DE DICIEMBRE DE 2004)</small>
 
 VI. Apoyar los programas de investigación tecnológica, industrial y fomentar su divulgación;
@@ -1619,9 +1649,9 @@ V. Establecer y dictar las bases generales para la realización de auditorías e
 
 VI. Comprobar el cumplimiento por parte de las dependencias, organismos auxiliares y fideicomisos de la administración pública estatal; de las obligaciones derivadas de las disposiciones en materia de planeación, presupuestación, ingresos, financiamiento, inversión, deuda, patrimonio y fondos y valores de la propiedad o al cuidado del gobierno estatal.
 
-> <small>(REFORMADA, G.G. 15 DE OCTUBRE DE 2012)</small>
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-VII. Realizar por sí o a solicitud de parte, auditorías y evaluaciones a las dependencias, organismos auxiliares y fideicomisos de carácter estatal, con el fin de promover la eficacia y transparencia en sus operaciones y verificar de acuerdo con su competencia el cumplimiento de los objetivos y metas contenidos en sus programas, de manera trimestral a los programas de mejora regulatoria y a la actualización del Registro Estatal de Trámites y Servicios.
+VII. Realizar por sí o a solicitud de parte, auditorías y evaluaciones a las dependencias, organismos auxiliares y fideicomisos de carácter estatal, con el fin de promover la eficacia y la transparencia en sus operaciones y verificar de acuerdo con su competencia el cumplimiento de los objetivos y metas contenidos en sus programas, de manera trimestral a los programas de mejora regulatoria, a la actualización del Registro Estatal de Trámites y Servicios, así como a las disposiciones contenidas en la Ley de Gobierno Digital del Estado de México y Municipios, y su Reglamento.
 
 VIII. Inspeccionar y vigilar directamente o a través de los órganos de control, que las dependencias, organismos auxiliares y fideicomisos de la administración pública estatal, cumplan con las normas y disposiciones en materia de: sistema de registro y contabilidad, contratación y pago de personal, contratación de servicios, obra pública, adquisiciones, arrendamientos, conservación, uso, destino, afectación, enajenación y baja de bienes y demás activos y recursos materiales de la administración pública estatal.
 
@@ -1919,13 +1949,13 @@ G.G. 31 DE DICIEMBRE DE 1986.
 
 ###### ARTICULO UNICO.
 
-Publíquese el presente Decreto en la "Gaceta de Gobierno" del Estado, el cual entrará en vigor el día primero de Enero de Mil Novecientos Ochenta y Siete.
+Publíquese el presente Decreto en la "Gaceta de Gobierno" del Estado, el cual entrará en vigor el día primero de enero de mil novecientos ochenta y siete.
 
 G.G. 8 DE JULIO DE 1987.
 
 ###### ARTICULO UNICO.
 
-Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
+Publíquese el presente Decreto en la "Gaceta de Gobierno" del Estado, el cual entrará en vigor el día primero de Enero de Mil Novecientos Ochenta y Siete.
 
 G.G. 14 DE SEPTIEMBRE DE 1987.
 
@@ -2842,3 +2872,37 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 TERCERO. El Titular del Ejecutivo del Estado expedirá las reformas reglamentarias respectivas en un plazo no mayor de sesenta días hábiles a partir de la entrada en vigor del presente Decreto.
 
 CUARTO. La Secretaría de Finanzas proveerá los recursos necesarios para dar cumplimiento a lo establecido por el presente Decreto.
+
+G.G. 6 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 57. POR EL QUE SE EXPIDEN LA LEY DE LA GESTIÓN PÚBLICA DIGITAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS Y LA LEY DEL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO” DEL ESTADO DE MÉXICO Y SE REFORMAN DIVERSAS DISPOSICIONES DE OTROS ORDENAMIENTOS JURÍDICOS”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno"
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”
+
+TERCERO.- Para efecto de los trámites y servicios, las autoridades del Estado estarán obligados a colocar en los Portales Transaccionales, las aplicaciones necesarias, en los sitios web antes mencionados en un plazo no mayor a un año a partir del día en que entre en vigor el presente Decreto.
+
+CUARTO.- Las disposiciones legales y administrativas expedidas en la materia regulada por este Decreto, vigentes al momento de la publicación de la misma, seguirán vigentes en lo que no se opongan a ésta, hasta en tanto se expidan las que deban sustituirlas.
+
+QUINTO.- El Ejecutivo Estatal deberá presentar a consideración del Consejo durante su primera sesión, los proyectos de reglamentos para su posterior publicación.
+
+SEXTO.- Las facultades que de conformidad con el presente Decreto deban ejercer las autoridades del Estado, las llevarán a cabo a través de los órganos que correspondan, de conformidad con el ámbito de competencia respectivo.
+
+SÉPTIMO.- Dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, se deberá instalar el Consejo Estatal de Gobierno Digital por convocatoria del Presidente de la misma.
+
+OCTAVO.- Dentro del año siguiente a la entrada en vigor de este Decreto, las autoridades del Estado deberán tener en el SEITS la totalidad de sus trámites y servicios.
+
+NOVENO.- En la primera sesión del Consejo se deberán expedir las disposiciones que deberán observar las autoridades del Estado, en el diseño y establecimiento de las medidas de seguridad y de protección de los datos personales que proporcionen las personas al efectuar trámites y servicios electrónicos, la Agenda Digital y los Estándares de Tecnologías de la Información, mismos que deberán publicarse en la Gaceta del Gobierno del Estado de México.
+
+DÉCIMO.- Para que las dependencias establecidas en el artículo 66 de la Ley de Gobierno Digital del Estado de México y Municipios sean autoridades certificadoras en el Estado, se debe celebrar un convenio de colaboración entre ellas y el Gobierno del Estado, para efecto de darles tal carácter.
+
+DÉCIMO PRIMERO.- El RETyS deberá operar en observancia a lo establecido por el presente Decreto en un plazo no mayor a noventa días posteriores a la entrada en vigor del decreto.
+
+DÉCIMO SEGUNDO.- A partir de la entrada en vigor del presente Decreto, todos los trámites y servicios que prestan las autoridades del Estado podrán ser desahogados de manera electrónica, sin perjuicio de aquellos que ya se realizaban a través de esa vía.
+
+DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, queda abrogada la Ley para el Uso de los Medios Electrónicos del Estado de México publicada en el periódico oficial “Gaceta del Gobierno” el tres de septiembre de dos mil diez.
+
+DÉCIMO CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+DÉCIMO QUINTO.- Las erogaciones que deriven de la aplicación de este Decreto, deberán estar consideradas en la partida presupuestal que apruebe la Honorable Legislatura del Estado para tal efecto.
