@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-proteccion-de-datos-personales-del-estado-de-mexico-8934
 country: "mx"
 rank: "ley"
 publication_date: "2012-08-31"
-last_updated: "2012-08-31"
+last_updated: "2016-01-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89341&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY DE PROTECCION DE DATOS PERSONALES DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE FEBRERO DE 2016 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE PROTECCIÓN DE DATOS PERSONALES DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ENERO DE 2016.
 
 Ley publicada en la Sección Tercera de la Gaceta Oficial del Estado de México, el viernes 31 de agosto del 2012.
 
@@ -101,7 +103,9 @@ V. Consentimiento: Manifestación de la voluntad expresa, mediante la cual, el t
 
 VI. Comités: Los Comités de Información de los sujetos obligados;
 
-VII. Datos personales: Cualquier información concerniente a una persona física identificada o identificable;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+VII. Datos personales: Cualquier información concerniente a una persona física o jurídica colectiva identificada o identificable, establecida en cualquier formato o modalidad y que esté almacenada en bases de datos, conforme a lo establecido en esta Ley.
 
 VIII. Datos personales sensibles: Aquellos que afectan la esfera más íntima de su Titular, o cuya utilización indebida pueda dar origen a discriminación o conlleve un riesgo grave para éste.
 
@@ -115,9 +119,13 @@ XI. Días: Días hábiles;
 
 XII. Disociación: Procedimiento mediante el cual los datos personales no pueden asociarse al titular, ni permitir por su estructura, contenido o grado de desagregación, la identificación individual del mismo;
 
-XIII. Documentos: Los expedientes, reportes, estudios, actas, resoluciones, oficios, correspondencia, acuerdos, directivas, directrices, circulares, convenios, contratos, instructivos, notas, memorandos, estadísticas, o bien, cualquier otro registro que documente el ejercicio de las facultades o la actividad de los sujetos obligados y sus servidores públicos, sin importar su fuente o fecha de elaboración. Los documentos podrán estar en cualquier medio, sea escrito, sonoro, visual, electrónico, informático u holográfico;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-XIV. Documento de seguridad: Instrumento que contiene los procedimientos y medidas de seguridad física, administrativa y técnica para garantizar la confidencialidad, integridad y disponibilidad de los datos contenidos en los sistemas de datos personales;
+XIII. Documentos: Los expedientes, reportes, estudios, actas, resoluciones, oficios, correspondencia, acuerdos, directivas, directrices, circulares, convenios, contratos, instructivos, notas, memorándums, estadísticas, o bien, cualquier otro registro que documente el ejercicio de las facultades o la actividad de los sujetos obligados y sus servidores públicos, sin importar su fuente o fecha de elaboración. Los documentos podrán estar en cualquier formato, sea escrito, sonoro, visual, electrónico, informático, holográfico o de cualquier tecnología de información existente.
+
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+XIV. Documento de seguridad: Instrumento que contiene los procedimientos y medidas de seguridad física, tecnológica, administrativa y técnica para garantizar la confidencialidad, integridad y disponibilidad de los datos contenidos en los sistemas de datos personales.
 
 XV. Encargado: El servidor público o persona física jurídica colectiva, facultado y nombrado por el responsable de la base de datos;
 
@@ -139,9 +147,13 @@ XXIII. Responsable: El servidor público que en el ejercicio de sus facultades d
 
 XXIV. Sistema de datos personales: El conjunto ordenado de datos personales contenidos en los archivos de un sujeto obligado;
 
-XXV. Titular: Persona física a quien corresponden los datos personales que sean objeto de tratamiento;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-XXVI. Transmisión: Toda comunicación o entrega parcial o total de datos personales realizada por los sujetos obligados a una persona distinta del titular;
+XXV. Titular: Persona física o jurídico colectiva a quien corresponden los datos personales que sean objeto de tratamiento.
+
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+XXVI. Transmisión: Toda comunicación o entrega parcial o total de datos personales realizada por los sujetos obligados a una persona distinta del titular y ejecutada de manera física o por cualquier tecnología de información existente.
 
 XXVII. Transmisor: Sujeto obligado que posee los datos personales objeto de la transmisión;
 
@@ -325,21 +337,27 @@ Transmisiones entre Unidades Administrativas Adscritas a los Sujetos Obligados
 
 No se considerarán transmisiones las efectuadas entre el responsable y el encargado de los datos personales y las realizadas entre unidades administrativas adscritas al mismo sujeto obligado en el ejercicio de sus atribuciones.
 
-Consentimiento en las Transmisiones
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Consentimiento en las transmisiones
 
 ###### Artículo 23.
 
-En los casos no previstos por el artículo 21 de esta Ley, los sujetos obligados sólo podrán transmitir datos personales cuando medie el consentimiento expreso del titular incluyendo la firma autógrafa o bien a través de un medio de autenticación similar. En su caso, los sujetos obligados deberán cumplir con las disposiciones aplicables en materia de certificados digitales y/o firmas electrónicas.
+En los casos no previstos por el artículo 21 de esta Ley, los sujetos obligados solo podrán transmitir datos personales cuando medie el consentimiento expreso del titular.
+
+Se entenderá que el titular de los datos otorgó su consentimiento cuando en el documento respectivo se incluya su firma autógrafa, su firma electrónica avanzada o su sello electrónico. Los sujetos obligados deberán cumplir con las disposiciones aplicables en materia de certificados digitales o firmas electrónicas avanzadas, estipuladas en la Ley de Gobierno Digital del Estado de México y Municipios, su Reglamento, así como en las demás disposiciones aplicables a la materia.
 
 El servidor público encargado de recabar el consentimiento del titular, deberá informar previamente a éste, la identidad del destinatario, el fundamento que autoriza la transmisión, la finalidad de la transmisión y los datos personales a transmitir, así como las implicaciones de otorgar, de ser el caso, su consentimiento.
+
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
 
 Transmisiones entre entidades federativas e internacionales
 
 ###### Artículo 24.
 
-En caso de que los destinatarios de los datos sean instituciones de otras entidades federativas, los sujetos obligados deberán asegurarse que tales instituciones garanticen que cuentan con niveles de protección, semejantes o superiores, a los establecidos en esta Ley y, en la propia normatividad del ente público de que se trate.
+En caso de que los destinatarios de los datos sean instituciones de otras entidades federativas, los sujetos obligados deberán asegurarse que tales instituciones garanticen que cuentan con niveles de protección, semejantes o superiores, a los establecidos en la presente Ley y demás ordenamientos aplicables.
 
-En el supuesto de que los destinatarios de los datos sean personas o instituciones de otros países, el responsable del sistema de datos personales deberá realizar la cesión de los mismos, conforme a las disposiciones previstas en la legislación federal aplicable, siempre y cuando se garanticen los niveles de seguridad y protección previstos en la presente Ley.
+En el supuesto de que los destinatarios de los datos sean personas o instituciones de otros países, el responsable del sistema de datos personales deberá realizar la cesión de los mismos, conforme a las disposiciones previstas en la legislación federal aplicable, siempre y cuando se garanticen los niveles de seguridad y protección previstos en la presente Ley y en los ordenamientos establecidos en el párrafo anterior.
 
 ## Título Tercero. De los Derechos ARCO
 
@@ -435,11 +453,15 @@ Las denuncias serán tramitadas en términos del procedimiento aprobado por el I
 
 Cuando derivado de la investigación de los casos de violación del derecho a la protección de datos personales, se desprenda que puede existir menoscabo de otros derechos humanos correlativos, el Instituto se coordinará con las instancias u organismos competentes, para la investigación correspondiente, con la finalidad de garantizar cabalmente la protección integral de dichos derechos humanos.
 
-Del Tratamiento
+> <small>(REFORMADO ACÁPITE, G.G. 6 DE ENERO DE 2016)</small>
+
+Del tratamiento
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
 
 ###### Artículo 33.
 
-Cuando los datos personales sensibles sean objeto de tratamiento, el sujeto obligado deberá obtener el consentimiento expreso y por escrito del titular para su tratamiento, a través de su firma autógrafa o cualquier mecanismo de autenticación.
+Cuando los datos personales sensibles sean objeto de tratamiento, el sujeto obligado deberá obtener el consentimiento expreso del titular, que deberá constar por escrito en formato físico o electrónico y, conteniendo la firma autógrafa, firma electrónica avanzada o el sello electrónico del mismo.
 
 Sólo podrán crearse sistemas de datos personales sensibles, cuando así lo disponga la ley, mismos que deberán ser debidamente resguardados; garantizándose el manejo cuidadoso de los mismos.
 
@@ -481,17 +503,23 @@ En el caso de solicitudes de rectificación de datos personales, el titular debe
 
 En el caso de solicitudes de cancelación de datos personales, el interesado deberá señalar las razones por las cuales considera que el tratamiento de los datos no se ajusta a lo dispuesto en la ley, o en su caso, acreditar la procedencia del ejercicio de su derecho de oposición.
 
-Modalidades de la Presentación de la Solicitud
+> <small>(REFORMADO ACÁPITE, G.G. 6 DE ENERO DE 2016)</small>
+
+Modalidades de la presentación de la solicitud
 
 ###### Artículo 36.
 
 La presentación de las solicitudes de acceso, rectificación, cancelación u oposición de datos personales se podrá realizar en cualquiera de las siguientes modalidades:
 
-I. Por escrito presentada personalmente por el titular o su representante legal en la Unidad de Información, en los formatos establecidos para tal efecto, o bien a través de correo ordinario, correo certificado o servicio de mensajería;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+I. Por escrito presentado personalmente por el titular o su representante legal en la Unidad de Información, en los formatos establecidos para tal efecto, o bien a través de correo ordinario, correo certificado o servicio de mensajería. En los casos previstos en esta fracción, la solicitud deberá estar signada con la firma autógrafa del solicitante.
 
 II. Verbalmente por el titular o su representante legal en la Unidad de Información, la cual deberá ser capturada por el responsable en el formato respectivo; o
 
-III. Por el sistema electrónico que el Instituto establezca para tal efecto.
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+III. Por el sistema electrónico que el Instituto establezca para tal efecto. El escrito que se presente a través del sistema, deberá contener la firma electrónica avanzada del solicitante.
 
 Orientación al Titular para el Ejercicio de sus Derechos
 
@@ -709,17 +737,23 @@ Los datos personales relativos a sanciones penales o infracciones administrativa
 
 ### Capítulo Primero. Medidas de Seguridad
 
-Medidas de Seguridad
+> <small>(REFORMADO ACÁPITE, G.G. 6 DE ENERO DE 2016)</small>
+
+Medidas de seguridad
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
 
 ###### Artículo 58.
 
-Los sujetos obligados deberán adoptar, mantener y documentar las medidas de seguridad administrativa, física y técnica necesarias para garantizar la integridad, confidencialidad y disponibilidad de los datos personales, mediante acciones que eviten su daño, alteración, pérdida, destrucción, o el uso, transmisión y acceso no autorizado, de conformidad con lo dispuesto en los lineamientos que al efecto se expidan.
+Los sujetos obligados deberán adoptar, mantener y documentar las medidas de seguridad administrativa, tecnológica, física y técnica necesarias para garantizar la integridad, confidencialidad y disponibilidad de los datos personales, mediante acciones que eviten su daño, alteración, pérdida, destrucción, o el uso, transmisión y acceso no autorizado, de conformidad con lo dispuesto en los lineamientos que al efecto se expidan.
 
 Dichas medidas serán adoptadas en relación con el menor o mayor grado de protección que ameriten los datos personales, deberán constar por escrito y ser comunicadas al Instituto para su registro.
 
 Las medidas de seguridad que al efecto se establezcan deberán indicar el nombre y cargo del servidor público responsable o, en su caso, la persona física o jurídica colectiva que intervengan en el tratamiento de datos personales con el carácter de responsable del sistema de datos personales o usuario, según corresponda. Cuando se trate de usuarios se deberán incluir los datos del acto jurídico mediante el cual, el sujeto obligado otorgó el tratamiento del sistema de datos personales.
 
-En el supuesto de actualización de estos datos, la modificación respectiva deberá notificarse al Instituto, dentro de los treinta días hábiles siguientes a la fecha en que se efectuó.
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
+En el supuesto de actualización de estos datos, la modificación respectiva deberá notificarse al Instituto en sus oficinas o en el portal que para tal efecto se cree, dentro de los treinta días hábiles siguientes a la fecha en que se efectuó.
 
 Tipos y Niveles de Seguridad
 
@@ -811,11 +845,15 @@ IX. Notificar al Órgano garante y al Comité o su equivalente en el caso de los
 
 ### Capítulo Tercero. Del Documento de Seguridad
 
-Obligatoriedad del Documento de Seguridad
+> <small>(REFORMADO ACÁPITE, G.G. 6 DE ENERO DE 2016)</small>
+
+Obligatoriedad del documento de seguridad
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
 
 ###### Artículo 62.
 
-Los sujetos obligados elaborarán y aprobarán un documento de seguridad que contenga las medidas de seguridad administrativa, física y técnica aplicables a los sistemas de datos personales, tomando en cuenta los estándares internacionales de seguridad, la presente Ley así como los lineamientos que se expidan.
+Los sujetos obligados elaborarán y aprobarán un documento que contenga las medidas de seguridad administrativas, tecnológicas, físicas y técnicas aplicables a los sistemas de datos personales, tomando en cuenta los estándares internacionales de seguridad, la presente Ley así como los lineamientos que se expidan.
 
 El documento de seguridad será de observancia obligatoria para los responsables, encargados y demás personas que realizan algún tipo de tratamiento a los sistemas de datos personales. A elección del sujeto obligado, éste podrá ser único e incluir todos los Sistemas de datos personales que posea; o bien, por unidad administrativa en que se incluyan los sistemas de datos personales en custodia; o individualizado para cada sistema.
 
@@ -863,9 +901,11 @@ j) Cancelación de datos.
 
 Carácter de Reservado del Documento de Seguridad
 
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
 ###### Artículo 64.
 
-El documento de seguridad y demás documentación generada para la gestión de las medidas de seguridad administrativa, física y técnica tendrán el carácter de información reservada y serán de acceso restringido.
+La documentación generada para la gestión de las medidas de seguridad administrativas, tecnológicas, físicas y técnicas tendrán el carácter de información reservada y serán de acceso restringido.
 
 ## Título Séptimo
 
@@ -1050,3 +1090,39 @@ EL SECRETARIO GENERAL DE GOBIERNO
 LIC. ERNESTO JAVIER NEMER ALVAREZ
 
 (RUBRICA).
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 6 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUMERO 57.- POR EL QUE SE EXPIDEN, LA LEY DE LA GESTIÓN PÚBLICA DIGITAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS Y LA LEY DEL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO” DEL ESTADO DE MÉXICO Y SE REFORMAN DIVERSAS DISPOSICIONES DE OTROS ORDENAMIENTOS JURÍDICOS”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”
+
+TERCERO.- Para efecto de los trámites y servicios, las autoridades del Estado estarán obligados a colocar en los Portales Transaccionales, las aplicaciones necesarias, en los sitios web antes mencionados en un plazo no mayor a un año a partir del día en que entre en vigor el presente Decreto.
+
+CUARTO.- Las disposiciones legales y administrativas expedidas en la materia regulada por este Decreto, vigentes al momento de la publicación de la misma, seguirán vigentes en lo que no se opongan a ésta, hasta en tanto se expidan las que deban sustituirlas.
+
+QUINTO.- El Ejecutivo Estatal deberá presentar a consideración del Consejo durante su primera sesión, los proyectos de reglamentos, para su posterior publicación.
+
+SEXTO.- Las facultades que de conformidad con el presente Decreto deban ejercer las autoridades del Estado, las llevarán a cabo a través de los órganos que correspondan, de conformidad con el ámbito de competencia respectivo.
+
+SÉPTIMO.- Dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, se deberá instalar el Consejo Estatal de Gobierno Digital por convocatoria del Presidente de la misma.
+
+OCTAVO.- Dentro del año siguiente a la entrada en vigor de este Decreto, las autoridades del Estado deberán tener en el SEITS la totalidad de sus trámites y servicios.
+
+NOVENO.- En la primera sesión del Consejo se deberán expedir las disposiciones que deberán observar las autoridades del Estado, en el diseño y establecimiento de las medidas de seguridad y de protección de los datos personales que proporcionen las personas al efectuar trámites y servicios electrónicos, la Agenda Digital y los Estándares de Tecnologías de la Información, mismos que deberán publicarse en la Gaceta del Gobierno del Estado de México.
+
+DÉCIMO.- Para que las dependencias establecidas en el artículo 66 de la Ley de Gobierno Digital del Estado de México y Municipios sean autoridades certificadoras en el Estado, se debe celebrar un convenio de colaboración entre ellas y el Gobierno del Estado, para efecto de darles tal carácter.
+
+DÉCIMO PRIMERO.- El RETyS deberá operar en observancia a lo establecido por el presente Decreto, en un plazo no mayor a noventa días posteriores a la entrada en vigor del decreto.
+
+DÉCIMO SEGUNDO.- A partir de la entrada en vigor del presente Decreto, todos los trámites y servicios que prestan las autoridades del Estado podrán ser desahogados de manera electrónica, sin perjuicio de aquellos que ya se realizaban a través de esa vía.
+
+DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, queda abrogada la Ley para el Uso de los Medios Electrónicos del Estado de México publicada en el periódico oficial “Gaceta del Gobierno” el tres de septiembre de dos mil diez.
+
+DÉCIMO CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+DÉCIMO QUINTO.- Las erogaciones que deriven de la aplicación de este Decreto, deberán estar consideradas en la partida presupuestal que apruebe la Honorable Legislatura del Estado para tal efecto.
