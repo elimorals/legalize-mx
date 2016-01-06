@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-r-ayuntamiento-del-municipio-de-57379"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-10-22"
-last_updated: "2015-09-14"
+last_updated: "2016-01-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57379&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 22 de octubre de 2007.
 
@@ -291,7 +291,9 @@ La instalación se realizará en sesión solemne de acuerdo con lo establecido p
 
 El protocolo para la instalación del Ayuntamiento a que se refiere el artículo 23 de la Ley seguirá el siguiente orden:
 
-I. Toma de protesta por el Presidente Municipal saliente al Presidente Municipal Electo;
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
+
+I. Toma de protesta por el Presidente Municipal entrante;
 
 II. Toma de protesta por el Presidente Municipal de los dos Síndicos Electos;
 
@@ -783,7 +785,9 @@ III. Solemnes.
 
 Las sesiones ordinarias, tendrán por objeto atender los asuntos de Gobierno y de la Administración Pública Municipal y deberán celebrarse dos veces por mes, cualquier día de la semana, teniendo una duración de 3 horas como máximo, misma que podrá ser ampliada cuando así lo determine la mayoría de los integrantes del Ayuntamiento, a propuesta del Presidente Municipal.
 
-La convocatoria a las sesiones ordinarias correrá a cargo del Presidente Municipal o el Secretario del Ayuntamiento a petición del primero, y deberá realizarse por escrito enviado a las oficinas de cada uno de los integrantes del Ayuntamiento con un mínimo de 48 horas de anticipación; corresponderá al Secretario del Ayuntamiento cerciorarse de la recepción de dichos escritos, realizando todas las diligencias necesarias para el cumplimiento de dicho encargo; adicionalmente la convocatoria a la sesión deberá ser publicada en la Página Oficial del Municipio por lo menos 24 horas antes del inicio de la sesión.
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
+
+La convocatoria a las sesiones ordinarias correrá a cargo del Presidente Municipal o el Secretario del Ayuntamiento a petición del primero, y deberá realizarse por escrito enviado a las oficinas de cada uno de los integrantes del Ayuntamiento con un mínimo de 24 horas de anticipación; corresponderá al Secretario del Ayuntamiento cerciorarse de la recepción de dichos escritos, realizando todas las diligencias necesarias para el cumplimiento de dicho encargo; adicionalmente la convocatoria a la sesión deberá ser publicada en la Página Oficial del Municipio por lo menos 12 horas antes del inicio de la sesión.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
@@ -897,7 +901,9 @@ III. Asuntos generales.
 
 IV. Clausura
 
-Los asuntos generales a que se refiere la fracción III del presente artículo deberán ser inscritos al principio de la sesión y comprenden además, las solicitudes de revocación de los Acuerdos del Ayuntamiento, siempre que éstas se encuentren respaldadas por al menos seis miembros del Ayuntamiento e incluyan las razones de interés público, plenamente justificadas y motivadas que la justifiquen.
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
+
+Los asuntos generales a que se refiere la fracción III del presente artículo deberán ser inscritos al principio de la sesión y comprenden además, las solicitudes de revocación de los Acuerdos del Ayuntamiento, siempre que éstas se encuentren respaldadas por mayoría simple de los miembros presentes del Ayuntamiento e incluyan las razones de interés público, plenamente justificadas y motivadas que la justifiquen.
 
 La revocación de Acuerdos del Ayuntamiento requiere para su aprobación de por lo menos el número de votos requerido para su aprobación.
 
@@ -911,13 +917,11 @@ Tratándose de asuntos específicos de las Comisiones a que se refiere la fracci
 
 La lectura del dictamen podrá ser dispensada previa solicitud, cuando así lo apruebe la mayoría de los miembros del Ayuntamiento.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
 
 ###### Artículo 58.
 
-Concluida la lectura del dictamen que presente la Comisión o dispensado la misma en términos del artículo anterior, el Presidente Municipal someterá el asunto al Ayuntamiento para su discusión y posterior aprobación.
+Concluida la lectura del dictamen que presente la Comisión o dispensado la misma en términos del artículo anterior, el Presidente Municipal someterá el asunto al Ayuntamiento para su discusión y posterior votación.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
@@ -1155,7 +1159,9 @@ La votación nominal se llevará a cabo atendiendo a lo siguiente:
 
 I. El Secretario del Ayuntamiento dirá en voz alta el nombre y apellido de cada integrante del Ayuntamiento y este dirá el sentido de su voto, mismo que podrá ser a favor, en contra o abstención;
 
-II. Posteriormente, el mismo Secretario del Ayuntamiento tomará nota de los que voten afirmativamente, así como quienes lo hagan en sentido afirmativo o en abstención;
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
+
+II. Posteriormente, el mismo Secretario del Ayuntamiento tomará nota de los que voten afirmativamente, así como quienes lo hagan en sentido negativo o en abstención;
 
 III. Concluida la votación, el Secretario del Ayuntamiento procederá a efectuar el cómputo y dará el resultado de la misma.
 
@@ -1499,7 +1505,9 @@ III. Vigilar que las quejas presentadas por los ciudadanos respecto a servicios 
 
 IV. Vigilar que el servicio de limpia que se brinda a la ciudadanía sea eficiente y oportuno;
 
-V. Vigilar que los parques, panteones, plazas públicas y jardines del municipio se conserven en buen Estado y que la Administración Pública Municipal realice los servicios de limpieza y conservación que resulten necesarios;
+> <small>(REFORMADA, P.O. 6 DE ENERO DE 2016)</small>
+
+V. Vigilar que los parques, panteones, plazas públicas y jardines del municipio se conserven en buen Estado y que la Administración Pública Municipal que resulten necesarios (sic);
 
 VI. Revisar la observancia de los ordenamientos federales, estatales y municipales aplicables al ramo de panteones;
 
@@ -1703,7 +1711,9 @@ Podrán comparecer a las sesiones de las comisiones, los servidores públicos de
 
 Las comisiones, por conducto de su Presidente, recibirán los asuntos que les sean turnados por acuerdo del Ayuntamiento y se darán a la tarea de analizarlos, discutirlos y emitir dictamen y/o recomendaciones en forma expedita.
 
-Las dependencias administrativas turnarán sus peticiones a través del Secretario del Ayuntamiento, quien las pondrá a consideración del Ayuntamiento para que por acuerdo se designe a la Comisión encargada para conocer el mismo.
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
+
+Las dependencias administrativas turnarán sus peticiones a través del Presidente Municipal, quien las pondrá a consideración del Ayuntamiento para que por acuerdo se designe a la Comisión encargada para conocer el (sic) mismo.
 
 Cualquier ciudadano o miembro del Ayuntamiento podrá presentar asuntos a la comisión que le corresponda, mediante simple oficio dirigido al Presidente de ésta, quien lo pondrá a consideración de los demás integrantes en la sesión de la comisión.
 
@@ -1883,13 +1893,11 @@ Aprobada la iniciativa de Reglamento o su modificación, el Secretario del Ayunt
 
 El Presidente Municipal ordenará una vez que sean aprobadas por el Ayuntamiento las publicaciones de los Reglamentos, Reformas o Adiciones en el Periódico Oficial del Estado y en la Gaceta Municipal. La publicación en fecha distinta en la Faceta de las reformas, modificaciones o adiciones no afecta su entrada en vigor.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
-
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 6 DE ENERO DE 2016)</small>
 
 ###### Artículo 123.
 
-La Gaceta Municipal es el medio de comunicación oficial del Gobierno y su publicación ordinaria será el día viernes de cada semana, a través de la página electrónica del Municipio, y en forma impresa cuando así lo estime a propuesta del Presidente Municipal.
+La Gaceta Municipal es el medio de comunicación oficial del Gobierno y su publicación ordinaria será el día viernes de cada semana, a través de la página electrónica del Municipio, o en forma impresa cuando así lo estime a propuesta del Presidente Municipal.
 
 > <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
@@ -2126,3 +2134,7 @@ P.O. 14 DE SEPTIEMBRE DE 2015.
 Primero.- La presente reforma será publicada en el Periódico Oficial del Estado después de su aprobación y entrará en vigor el día 31 de octubre de 2015.
 
 Segundo.- Los procedimientos y demás actos jurídicos que se encuentren en trámite a la entrada en vigor del presente Decreto, serán resueltos conforme a las normas vigentes al momento de su inicio.
+
+P.O. 6 DE ENERO DE 2016.
+
+> <small>[N. DE E. “LA REFORMA POR MODIFICACIÓN DEL REGLAMENTO INTERIOR DEL R. AYUNTAMIENTO DEL MUNICIPIO DE GENERAL ESCOBEDO, N.L.”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.]</small>
