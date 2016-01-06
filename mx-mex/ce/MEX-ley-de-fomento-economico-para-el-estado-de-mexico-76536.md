@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-fomento-economico-para-el-estado-de-mexico-76536"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-07"
-last_updated: "2015-07-27"
+last_updated: "2016-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY DE FOMENTO ECONOMICO PARA EL ESTADO DE MEXICO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE FEBRERO DE 2016 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ENERO DE 2016.
 
 Ley publicada en la Sección Tercera de la Gaceta de Gobierno del Estado de México, el martes 7 de septiembre de 2010.
 
@@ -59,7 +61,11 @@ La presente Ley es de observancia general en el Estado de México, y su aplicaci
 
 En la realización del objeto de la Ley, la Secretaría de Desarrollo Económico del Estado de México y el Consejo Estatal de Fomento Económico y Competitividad tomarán las medidas necesarias a efecto de que las actividades económicas se realicen con apego a los criterios de sustentabilidad. Los municipios contribuirán al cumplimiento de tales objetivos, en lo que señale la normatividad aplicable.
 
-> <small>(ADICIONADO, G.G. 16 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
+La Secretaría de Desarrollo Económico del Estado de México, el Consejo Estatal de Fomento Económico y Competitividad, la Secretaría de Finanzas y los Ayuntamientos en el ámbito de sus respectivas competencias, deberán observar las políticas de Gobierno Digital que emitan los órganos competentes en la materia, con el fin de que sean implementados los criterios correspondientes para la realización de los trámites a través de las tecnologías de la información.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
 
 Los particulares participarán, en la medida de sus posibilidades, adoptando medidas que promuevan la cultura de la prevención como instrumento para incentivar el desarrollo económico a partir de la generación de mejores condiciones generales de seguridad.
 
@@ -221,13 +227,21 @@ XXI. Involucrar a sectores vulnerables, integrantes de los pueblos indígenas y 
 
 XXII. Fomentar y realizar actividades para la adopción de la cultura de la prevención como instrumento para favorecer el fomento económico, en los términos de esta Ley.
 
-XXIII. Las demás acciones que se establecen en ésta y otras disposiciones legales aplicables.
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+XXIII. Realizar acciones relacionadas con el uso estratégico de las tecnologías de la información, de conformidad a los lineamientos técnicos.
+
+> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
+
+XIV (SIC). Las demás acciones que se establecen en ésta y otras disposiciones legales aplicables.
 
 ###### Artículo 6.
 
 La Secretaría, para el cumplimiento de los objetivos de esta Ley, promoverá:
 
-I. El desarrollo de mecanismos e instrumentos que sirvan para facilitar y agilizar la gestión empresarial de trámites y servicios ante las dependencias, para la instalación, apertura, operación y ampliación de empresas;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+l. El desarrollo de mecanismos e instrumentos de carácter tecnológico, que sirvan para facilitar y agilizar la gestión empresarial de trámites y servicios ante las dependencias, para la instalación, apertura, operación y ampliación de empresas.
 
 II. La formación y capacitación empresarial, con el objeto de identificar y resolver problemas relacionados con la organización, producción y mercadeo de las empresas;
 
@@ -555,7 +569,9 @@ IX. Promover la creación de infraestructura para albergar proyectos de negocio;
 
 X. Realizar el seguimiento de la evolución de los negocios apoyados por el Instituto;
 
-XI. Proponer mejoras regulatorias para el desarrollo de la micro, pequeña y mediana empresa;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+XI. Proponer políticas de Mejora Regulatoria y Gobierno Digital para el desarrollo de la micro, pequeña y mediana empresa, de conformidad a los lineamientos técnicos.
 
 XII. Impulsar el fortalecimiento y consolidación de empresas constituidas por emprendedores;
 
@@ -787,7 +803,9 @@ VII. Gestionar financiamientos con tasas preferenciales para la actividad artesa
 
 VIII. Coadyuvar con las autoridades federales, estatales y municipales en la protección, rehabilitación y racionalización de las fuentes de recursos naturales que se utilizan en la producción de artesanías;
 
-IX. Desarrollar y ejecutar programas de desconcentración administrativa, que le permita prestar sus servicios con inmediatez a los artesanos;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+IX. Desarrollar y ejecutar programas de desconcentración administrativa y de uso estratégico de tecnologías de la información, que le permita prestar sus servicios con inmediatez a los artesanos.
 
 X. Determinar la regionalización del territorio del Estado para fines de desarrollo artesanal;
 
@@ -1065,6 +1083,10 @@ La Secretaría promoverá la celebración de convenios con las dependencias fede
 
 El SAREMEX contará con un conjunto de normas, instancias, instrumentos, políticas, acciones y servicios orientados a coordinar, controlar, gestionar y evaluar los procesos a cargo de las dependencias estatales y municipales del Estado de México, competentes para la emisión de autorizaciones, permisos, licencias, dictámenes, cédulas, constancias y otras resoluciones, relativos a la instalación, apertura, operación y ampliación de empresas en la Entidad, cuya actividad económica no requiera del dictamen de impacto regional.
 
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+El SAREMEX deberá adoptar los lineamientos y criterios que emitan las autoridades en materia de Gobierno Digital y que permitan la implementación de tecnologías de la información en los trámites que se realicen en estas instancias.
+
 ###### Artículo 56.
 
 La atención de las gestiones empresariales que se realicen al amparo del SAREMEX estará a cargo de los municipios, mediante el trabajo coordinado de las dependencias involucradas.
@@ -1085,15 +1107,25 @@ I. Coordinar la gestión de trámites empresariales, mediante la implementación
 
 II. Orientar e informar a los particulares sobre los trámites, servicios, programas y otras acciones que requieren realizar para el cumplimiento de las obligaciones relacionadas con la gestión empresarial;
 
-III. Integrar la operación de la ventanilla única de gestión;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+III. Integrar la operación de la ventanilla de gestión.
 
 IV. Determinar los esquemas de coordinación interinstitucional, así como de control de procesos y seguimiento a la gestión empresarial;
 
-V. Coordinar el establecimiento de ventanillas únicas de cobertura regional;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+V. Coordinar el establecimiento de ventanillas de gestión de cobertura regional.
 
 VI. Hacer difusión, por los medios que considere idóneos, sobre los planes, programas y servicios de las dependencias, así como de las cámaras, instituciones y asociaciones del sector privado, tendentes al desarrollo, capacitación o incremento de la calidad de la gestión empresarial; y
 
-VII. Las demás que establezca el Reglamento y otros ordenamientos aplicables.
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+VII. Desarrollar acciones en materia de Mejora Regulatoria y Gobierno Digital que permitan una gestión eficiente de trámites empresariales.
+
+> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
+
+VIII. Las demás que establezca el Reglamento y otros ordenamientos aplicables.
 
 ###### Artículo 59.
 
@@ -1130,6 +1162,10 @@ IV. Informar al particular que al acudir a la ventanilla única del SUGE, para r
 V. Instrumentar factibilidades, vistos buenos o cualquier esquema de autorización previa, cuando así sea el caso, a efecto de que el particular conozca la viabilidad de su proyecto antes de efectuar pagos o contratar servicios que impliquen gastos; y
 
 VI. Llevar a cabo acciones de mejora continua de los procesos que intervienen en el SUGE, a fin de garantizar el adecuado funcionamiento del mismo.
+
+> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
+
+VII. Implementar tecnologías de la información para la realización de trámites así como lineamientos técnicos.
 
 #### Sección Segunda. De la Comisión Estatal de Atención Empresarial
 
@@ -1424,3 +1460,37 @@ NOVENO. Cuando en otros ordenamientos legales administrativos, documentación y 
 DÉCIMO. Las Secretarías General de Gobierno, de Finanzas y de la Contraloría, en el ámbito de sus respectivas competencias, dispondrán lo necesario para el cumplimiento del presente Decreto.
 
 DÉCIMO PRIMERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 6 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 57. POR EL QUE SE EXPIDEN LA LEY DE LA GESTIÓN PÚBLICA DIGITAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS Y LA LEY DEL PERIÓDICO OFICIAL "GACETA DE GOBIERNO" DEL ESTADO DE MÉXICO Y SE REFORMAN DIVERSAS DISPOSICIONES DE OTROS ORDENAMIENTOS JURÍDICOS".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno"
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno"
+
+TERCERO.- Para efecto de los trámites y servicios, las autoridades del Estado estarán obligados a colocar en los Portales Transaccionales, las aplicaciones necesarias, en los sitios web antes mencionados en un plazo no mayor a un año a partir del día en que entre en vigor el presente Decreto.
+
+CUARTO.- Las disposiciones legales y administrativas expedidas en la materia regulada por este Decreto, vigentes al momento de la publicación de la misma, seguirán vigentes en lo que no se opongan a ésta, hasta en tanto se expidan las que deban sustituirlas.
+
+QUINTO.- El Ejecutivo Estatal deberá presentar a consideración del Consejo durante su primera sesión, los proyectos de reglamentos para su posterior publicación.
+
+SEXTO.- Las facultades que de conformidad con el presente Decreto deban ejercer las autoridades del Estado, las llevarán a cabo a través de los órganos que correspondan, de conformidad con el ámbito de competencia respectivo.
+
+SÉPTIMO.- Dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, se deberá instalar el Consejo Estatal de Gobierno Digital por convocatoria del Presidente de la misma.
+
+OCTAVO.- Dentro del año siguiente a la entrada en vigor de este Decreto, las autoridades del Estado deberán tener en el SEITS la totalidad de sus trámites y servicios.
+
+NOVENO.- En la primera sesión del Consejo se deberán expedir las disposiciones que deberán observar las autoridades del Estado, en el diseño y establecimiento de las medidas de seguridad y de protección de los datos personales que proporcionen las personas al efectuar trámites y servicios electrónicos, la Agenda Digital y los Estándares de Tecnologías de la Información, mismos que deberán publicarse en la Gaceta del Gobierno del Estado de México.
+
+DÉCIMO.- Para que las dependencias establecidas en el artículo 66 de la Ley de Gobierno Digital del Estado de México y Municipios sean autoridades certificadoras en el Estado, se debe celebrar un convenio de colaboración entre ellas y el Gobierno del Estado, para efecto de darles tal carácter.
+
+DÉCIMO PRIMERO.- El RETyS deberá operar en observancia a lo establecido por el presente Decreto en un plazo no mayor a noventa días posteriores a la entrada en vigor del decreto.
+
+DÉCIMO SEGUNDO.- A partir de la entrada en vigor del presente Decreto, todos los trámites y servicios que prestan las autoridades del Estado podrán ser desahogados de manera electrónica, sin perjuicio de aquellos que ya se realizaban a través de esa vía.
+
+DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, queda abrogada la Ley para el Uso de los Medios Electrónicos del Estado de México publicada en el periódico oficial "Gaceta del Gobierno" el tres de septiembre de dos mil diez.
+
+DÉCIMO CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+DÉCIMO QUINTO.- Las erogaciones que deriven de la aplicación de este Decreto, deberán estar consideradas en la partida presupuestal que apruebe la Honorable Legislatura del Estado para tal efecto.
