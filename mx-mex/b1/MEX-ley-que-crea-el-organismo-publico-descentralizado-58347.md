@@ -4,7 +4,7 @@ identifier: "MEX-ley-que-crea-el-organismo-publico-descentralizado-58347"
 country: "mx"
 rank: "ley"
 publication_date: "2007-12-03"
-last_updated: "2013-02-25"
+last_updated: "2016-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58347&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DENOMINADO INSTITUTO DE LA FUNCION REGISTRAL DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE FEBRERO DE 2016 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSTITUTO DE LA FUNCIÓN REGISTRAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ENERO DE 2016.
 
 Ley publicada en la Sección Tercera a la Gaceta del Gobierno del Estado de México, el lunes 3 de diciembre de 2007.
 
@@ -249,7 +251,13 @@ XXII. Vigilar la situación financiera y patrimonial del Instituto de la Funció
 
 XXIII. Autorizar la contratación de auditores externos para que lleven a cabo auditorías al Instituto de la Función Registral del Estado de México, sin perjuicio de lo dispuesto en el artículo 6 de esta Ley; y
 
-XXIV. Las demás que le confieran esta Ley, así como otras disposiciones legales.
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+XXIV. Aprobar las acciones en materia de gobierno digital que se implementarán en la realización de los trámites y servicios que presta el Instituto.
+
+> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
+
+XXV. Las demás que le confieran esta Ley, así como otras disposiciones legales.
 
 ###### Artículo 9.
 
@@ -397,7 +405,7 @@ Según se requiera conforme a la legislación aplicable, en los casos de enajena
 
 ###### Artículo 19.
 
-En los términos del Código Financiero del Estado de México y Municipios, no se considerarán deuda pública las obligaciones de pasivo directas, indirectas o contingentes, derivadas de créditos, préstamos, empréstitos, emisiones de valores o financiamientos a cargo de fideicomisos en los que el Instituto de la Función Registral del Estado de México participe con carácter de fideicomitente o de fideicomitente (sic) y fideicomisario, siempre y cuando se cumplan las condiciones que para dichos efectos establezca el Código Financiero del Estado de México y Municipios. Asimismo, no constituirá financiamiento ni deuda pública los recursos que en su caso reciba el Instituto de la Función Registral del Estado de México por cualquier concepto de parte de los fideicomisos mencionados. En el mismo sentido, no se considerarán deuda pública las obligaciones de hacer y no hacer, así como las declaraciones realizadas por el Instituto de la Función Registral del Estado de México y las indemnizaciones derivadas de las mismas que asuma el Instituto de la Función Registral del Estado de México, siempre que no constituyan garantías en favor de terceros, conforme a lo previsto en la presente Ley y en los términos del Código Financiero del Estado de México y Municipios.
+En los términos del Código Financiero del Estado de México y Municipios, no se considerarán deuda pública las obligaciones de pasivo directas, indirectas o contingentes, derivadas de créditos, préstamos, empréstitos, emisiones de valores o financiamientos a cargo de fideicomisos en los que el Instituto de la Función Registral del Estado de México participe con carácter de fideicomitente o de fideicomitente y fideicomisario, siempre y cuando se cumplan las condiciones que para dichos efectos establezca el Código Financiero del Estado de México y Municipios. Asimismo, no constituirá financiamiento ni deuda pública los recursos que en su caso reciba el Instituto de la Función Registral del Estado de México por cualquier concepto de parte de los fideicomisos mencionados. En el mismo sentido, no se considerarán deuda pública las obligaciones de hacer y no hacer, así como las declaraciones realizadas por el Instituto de la Función Registral del Estado de México y las indemnizaciones derivadas de las mismas que asuma el Instituto de la Función Registral del Estado de México, siempre que no constituyan garantías en favor de terceros, conforme a lo previsto en la presente Ley y en los términos del Código Financiero del Estado de México y Municipios.
 
 ###### Artículo 20.
 
@@ -532,3 +540,37 @@ SEGUNDO.- El presente Decreto entrará en vigor el día siguiente de su publicac
 TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
 
 CUARTO.- El Gobernador del Estado, al presentar la Cuenta Pública del Gobierno del estado de México y Organismos Auxiliares del Ejercicio Fiscal 2013, informará de los recursos ejercidos por la Consejería Jurídica.
+
+G.G. 6 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 57.- POR EL QUE SE EXPIDEN LA LEY DE LA GESTIÓN PÚBLICA DIGITAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS Y LA LEY DEL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO” DEL ESTADO DE MÉXICO Y SE REFORMAN DIVERSAS DISPOSICIONES DE OTROS ORDENAMIENTOS JURÍDICOS”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”
+
+TERCERO.- Para efecto de los trámites y servicios, las autoridades del Estado estarán obligados (sic) a colocar en los Portales Transaccionales, las aplicaciones necesarias, en los sitios web antes mencionados en un plazo no mayor a un año a partir del día en que entre en vigor el presente Decreto.
+
+CUARTO.- Las disposiciones legales y administrativas expedidas en la materia regulada por este Decreto, vigentes al momento de la publicación de la misma, seguirán vigentes en lo que no se opongan a ésta, hasta en tanto se expidan las que deban sustituirlas.
+
+QUINTO.- El Ejecutivo Estatal deberá presentar a consideración del Consejo durante su primera sesión, los proyectos de reglamentos, para su posterior publicación.
+
+SEXTO.- Las facultades que de conformidad con el presente Decreto deban ejercer las autoridades del Estado, las llevarán a cabo a través de los órganos que correspondan, de conformidad con el ámbito de competencia respectivo.
+
+SÉPTIMO.- Dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, se deberá instalar el Consejo Estatal de Gobierno Digital por convocatoria del Presidente de la misma.
+
+OCTAVO.- Dentro del año siguiente a la entrada en vigor de este Decreto, las autoridades del Estado deberán tener en el SEITS la totalidad de sus trámites y servicios.
+
+NOVENO.- En la primera sesión del Consejo se deberán expedir las disposiciones que deberán observar las autoridades del Estado, en el diseño y establecimiento de las medidas de seguridad y de protección de los datos personales que proporcionen las personas al efectuar trámites y servicios electrónicos, la Agenda Digital y los Estándares de Tecnologías de la Información, mismos que deberán publicarse en la Gaceta del Gobierno del Estado de México.
+
+DÉCIMO.- Para que las dependencias establecidas en el artículo 66 de la Ley de Gobierno Digital del Estado de México y Municipios sean autoridades certificadoras en el Estado, se debe celebrar un convenio de colaboración entre ellas y el Gobierno del Estado, para efecto de darles tal carácter.
+
+DÉCIMO PRIMERO.- El RETyS deberá operar en observancia a lo establecido por el presente Decreto, en un plazo no mayor a noventa días posteriores a la entrada en vigor del decreto.
+
+DÉCIMO SEGUNDO.- A partir de la entrada en vigor del presente Decreto, todos los trámites y servicios que prestan las autoridades del Estado podrán ser desahogados de manera electrónica, sin perjuicio de aquellos que ya se realizaban a través de esa vía.
+
+DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, queda abrogada la Ley para el Uso de los Medios Electrónicos del Estado de México publicada en el periódico oficial “Gaceta del Gobierno” el tres de septiembre de dos mil diez.
+
+DÉCIMO CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+DÉCIMO QUINTO.- Las erogaciones que deriven de la aplicación de este Decreto, deberán estar consideradas en la partida presupuestal que apruebe la Honorable Legislatura del Estado para tal efecto.
