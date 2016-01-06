@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-documentos-administrativos-e-historicos-del-estado-5980"
 country: "mx"
 rank: "ley"
 publication_date: "1986-03-24"
-last_updated: "2014-05-14"
+last_updated: "2016-01-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5980&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY DE DOCUMENTOS ADMINISTRATIVOS E HISTORICOS DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE FEBRERO DE 2016 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE DOCUMENTOS ADMINISTRATIVOS E HISTÓRICOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 14 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ENERO DE 2016.
 
 Ley publicada en la Sección Primera de la Gaceta del Gobierno del Estado de México, el lunes 24 de marzo de 1986.
 
@@ -41,9 +43,11 @@ LEY DE DOCUMENTOS ADMINISTRATIVOS E HISTORICOS DEL ESTADO DE MEXICO
 
 ### CAPITULO PRIMERO. DISPOSICIONES GENERALES
 
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
 ###### Artículo 1.
 
-La presente Ley, es de Orden Público e Interés Social y tiene por objeto normar y regular la Administración de Documentos Administrativos e Históricos de los Poderes del Estado, Municipios y Organismos Auxiliares. Se entiende por documento, cualquier objeto que pueda dar constancia de un hecho.
+La presente Ley, es de orden público e interés social y tiene por objeto normar y regular la administración de documentos administrativos e históricos de las autoridades del Estado y los municipios en el ámbito de su competencia. Se entiende por documento, cualquier objeto o archivo electrónico o de cualquier otra tecnología existente que pueda dar constancia de un hecho.
 
 ###### Artículo 2.
 
@@ -57,9 +61,11 @@ b) Los actos que se realicen para generar, recibir, mantener, custodiar, reconst
 
 Los sujetos públicos encargados de realizar los actos a que se refiere el artículo anterior, son los Poderes del Estado, Municipios y Organismos Auxiliares. Los usuarios, son aquellas personas, que reciben el beneficio del uso temporal y controlado de los Documentos que obran en los Archivos.
 
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
 ###### Artículo 4.
 
-Todo documento que realicen los servidores públicos, deberá depositarse en los Archivos de trámite correspondientes, en la forma y términos prevenidos por esta Ley, y demás disposiciones administrativas que se dicten al respecto.
+Todo documento que realicen los servidores públicos, deberá depositarse en los archivos de trámite correspondientes o en instrumentos tecnológicos que permitan la conservación de documentos electrónicos, en la forma y términos previstos por esta Ley, y demás disposiciones administrativas que se dicten al respecto.
 
 ###### Artículo 5.
 
@@ -71,9 +77,11 @@ El servidor público, encargado de recibir documentos, los registrará en el act
 
 Los usuarios tendrán acceso a la información de los documentos, conforme a lo dispuesto por la ley de la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
+
 ###### Artículo 7.
 
-En los casos de extravío, pérdida, robo o destrucción de un documento, el servidor público responsable de su custodia y conservación, deberá proceder a su recuperación o reconstitución, si ello fuere posible, dando cuenta inmediata a su superior jerárquico de dicho extravío, pérdida, robo o destrucción.
+En los casos de extravío, pérdida, robo o destrucción de un documento físico o electrónico, el servidor público responsable de su custodia y conservación, deberá proceder a su recuperación o reconstitución, si ello fuere posible, dando cuenta inmediata a su superior jerárquico de dicho extravío, pérdida, robo o destrucción.
 
 En caso de robo, deberá denunciar inmediatamente a las autoridades competentes, para realizar la investigación.
 
@@ -129,9 +137,11 @@ k) Las Oficinas de Organización y Métodos prestaran el apoyo técnico necesari
 
 I) Cuando un servidor público deje de desempeñar un determinado cargo, deberá hacer entrega a quien corresponda, de toda la documentación oficial que esté en su poder, procurando que dicha entrega se realice de conformidad con las políticas y procedimientos que para el efecto se establezcan.
 
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
 ###### Artículo 12.
 
-El Archivo Histórico del Estado se integrará con los documentos que habiendo sido clasificados como Históricos, sean entregados por cualquier título a la Administración del Poder Ejecutivo del Estado.
+El Archivo Histórico del Estado se integrará con los documentos físicos y electrónicos que habiendo sido clasificados como Históricos, sean entregados por cualquier título a la Administración del Poder Ejecutivo del Estado.
 
 ###### Artículo 13.
 
@@ -141,7 +151,9 @@ Los documentos que integren el Archivo Histórico del Estado únicamente podrán
 
 El titular del Archivo Histórico del Estado, será el encargado de controlar, apoyar técnicamente la clasificación, catalogación, conservación, restauración, reproducción, resguardo y depuración de los documentos históricos del Estado y tendrá las siguientes atribuciones:
 
-a) Procurar integrar el archivo con documentos históricos originales, evitando en lo posible, la guarda de documentos ilegibles e impresos de poca duración.
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
+a) Procurar integrar el archivo con documentos históricos originales y electrónicos, evitando en lo posible, la guarda de documentos ilegibles e impresos de poca duración.
 
 b) Seleccionar de la documentación existente en los archivos administrativos, los que puedan tener información de valor histórico, o en su caso, integrar todos aquellos que en su conjunto formen evidencias históricas importantes.
 
@@ -157,77 +169,99 @@ En el Poder Ejecutivo Estatal, habrá Archivos Histórico, de transferencia y de
 
 PODER LEGISLATIVO
 
-> <small>(F. DE E., G.G. 29 DE MAYO DE 1986)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
 
 ###### Artículo 16.
 
-El Archivo General de la Legislatura del Estado, se integrará por todos aquellos documentos que emanen de este Organo y por aquellos que por cualquier título remitan el Ejecutivo del Estado o cualquier otra autoridad y tendrá las funciones y objetivos siguientes:
+El Archivo General de la Legislatura del Estado, se integrará por todos aquellos documentos físicos y electrónicos que emanen de este Órgano y por aquellos que por cualquier título remitan el Ejecutivo del Estado o cualquier otra autoridad y tendrá las funciones y objetivos siguientes:
 
 a) Deberá mantener nexos operativos con el Archivo General del Poder Ejecutivo y el Archivo Histórico del Estado, para efectos de clasificación, catalogación y depuración de documentos.
 
 b) Establecerá nexos de coordinación con el Archivo General del Poder Ejecutivo, para efectos de reproducir y publicar información de interés general.
 
-c) El personal del Archivo mantendrá al corriente !a clasificación, catalogación y ordenación física de los documentos a efecto de que se proporcione el servicio de consulta con la debida oportunidad y eficacia.
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
 
-d) Procurará utilizar técnicas especializadas en reproducción y conservación de documentos, cuando éstos contengan materias de interés administrativo, interés general, histórico o institucional, o bien, para efectos de seguridad, sustitución de documentos o facilidad de consulta.
+c) El personal del Archivo mantendrá al corriente la clasificación, catalogación y ordenación física y electrónica de los documentos a efecto de que se proporcione el servicio de consulta con la debida oportunidad y eficacia.
+
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
+d) Procurará utilizar técnicas especializadas en reproducción, en tecnologías de la información y en conservación de documentos, cuando éstos contengan materias de interés administrativo, interés general, histórico o institucional, o bien, para efectos de seguridad, sustitución de documentos o facilidad de consulta.
 
 PODER JUDICIAL
 
-> <small>(F. DE E., G.G. 29 DE MAYO DE 1986)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
 
 ###### Artículo 17.
 
-El Archivo General del Poder Judicial del Estado, se integrará por todos aquellos documentos que emanen de este Organo y por aquellos que por cualquier título remitan el Ejecutivo del Estado o cualquier otra autoridad y tendrá los fines y objetivos siguientes:
+El Archivo General del Poder Judicial del Estado, se integrará por todos aquellos documentos físicos y electrónicos que emanen de este Organo y por aquellos que por cualquier título remitan el Ejecutivo del Estado o cualquier otra autoridad y tendrá los fines y objetivos siguientes:
 
 a) Deberá mantener nexos operativos con el Archivo General del Poder Ejecutivo y el Archivo Histórico del Estado, para efecto de clasificación, catalogación y depuración de documentos.
 
 b) Establecerá nexos de coordinación con el Archivo General del Poder Ejecutivo, para efectos de reproducir y publicar información de interés general.
 
-c) El personal del archivo mantendrá al corriente la clasificación, catalogación y ordenación física de los documentos a efecto de que se proporcione el servicio de consulta con la debida oportunidad y eficacia.
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
 
-d) Procurará utilizar técnicas especializadas en reproducción y conservación de documentos, cuando éstos contengan materias de interés administrativo, interés general, histórico o institucional, o bien, para efectos de seguridad, sustitución de documentos o facilidad de consulta.
+c) El personal del archivo mantendrá al corriente la clasificación, catalogación y ordenación física y electrónica de los documentos a efecto de que se proporcione el servicio de consulta con la debida oportunidad y eficacia.
+
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
+d) Procurará utilizar técnicas especializadas en reproducción, en tecnologías de la información y en conservación de documentos, cuando éstos contengan materias de interés administrativo, interés general, histórico o institucional, o bien, para efectos de seguridad, sustitución de documentos o facilidad de consulta.
 
 ARCHIVOS MUNICIPALES
 
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
 ###### Artículo 18.
 
-El Archivo Municipal se integrará por todos aquellos documentos que en cada trienio se hubieren administrado, así como de aquellos emitidos o que emitan el Poder Ejecutivo o cualquier otra autoridad y los particulares.
+El Archivo Municipal se integrará por todos aquellos documentos físicos y electrónicos que en cada trienio se hubieren administrado, así como de aquellos emitidos o que emitan el Poder Ejecutivo o cualquier otra autoridad y los particulares.
 
 ###### Artículo 19.
 
 El Archivo Municipal estará bajo la responsabilidad del Secretario del Ayuntamiento y tendrá las siguientes funciones:
 
-a) Recibir la documentación, procediendo a su organización y resguardo.
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
+a) Recibir la documentación física y electrónica, procediendo a su organización y resguardo en los espacios e instrumentos tecnológicos que se destinen para tal efecto.
 
 b) Establecer una identificación, clasificación y catalogación de documentos a fin de que se proporcione el servicio de consulta con la debida oportunidad y eficacia.
 
 c) Establecerá nexos operativos con el Archivo General del Poder Ejecutivo y el Archivo Histórico del Estado, para efectos de clasificación, catalogación y depuración de documentos.
 
-d) Se procurará utilizar técnicas especializadas en archivonomía, reproducción y conservación de documentos, cuando éstos contengan materias de interés administrativo general, histórico, institucional, o bien, para efectos de seguridad, sustitución de documentos o facilidad de consulta.
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
+d) Se procurará utilizar técnicas especializadas en archivonomía, en tecnologías de la información, en reproducción y en conservación de documentos, cuando éstos contengan materias de interés administrativo general, histórico, institucional, o bien, para efectos de seguridad, sustitución de documentos o facilidad de consulta.
 
 e) Establecerá nexos de coordinación con el Archivo General del Poder Ejecutivo, para efecto de producir y publicar información de interés general.
 
 ORGANISMOS AUXILIARES
 
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
 ###### Artículo 20.
 
-El Archivo de los Organismos Auxiliares, se integrará por los documentos que de ellos emanen y los que le remita el Ejecutivo del Estado o cualquier otra autoridad particular.
+El archivo de los órganos autónomos, se integrará por los documentos físicos y electrónicos que de ellos emanen y los que le remita el Ejecutivo del Estado o cualquier otra autoridad particular.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
 
 ###### Artículo 21.
 
-El titular de cada Organismo Auxiliar designará el personal responsable de sus archivos, el cual procederá a lo siguiente:
+El titular de cada órgano autónomo designará el personal responsable de sus archivos, el cual procederá a lo siguiente:
 
 a) Establecer una identificación, clasificación y catalogación de documentos a fin de que se proporcione el servicio de consulta con la debida oportunidad y eficacia.
 
 b) Establecer nexos operativos con el Archivo General del Poder Ejecutivo y el Archivo Histórico del Estado, para efectos de clasificación, catalogación y depuración de documentos.
 
-c) Procurar la utilización de técnicas especializadas en archivonomía, reproducción y conservación de documentos cuando éstos contengan materias de interés administrativo general, histórico, institucional, o bien, para efectos de seguridad, sustitución de documentos o facilidad de consulta.
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
+c) Procurar la utilización de técnicas especializadas en archivonomía, en tecnologías de la información, en reproducción y en conservación de documentos cuando éstos contengan materias de interés administrativo general, histórico, institucional, o bien, para efectos de seguridad, sustitución de documentos o facilidad de consulta.
 
 ### CAPITULO TERCERO. DEL SISTEMA ESTATAL DE DOCUMENTACION
 
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
 ###### Artículo 22.
 
-El Sistema Estatal de Documentación, tiene por objeto crear los mecanismos necesarios que permitan a los Poderes del Estado, Municipios y Organismos Auxiliares, el mejor funcionamiento de sus archivos administrativos y la investigación y conservación de documentos históricos en forma coordinada.
+El Sistema Estatal de Documentación, tiene por objeto crear los mecanismos necesarios que permitan a las autoridades del Estado y los municipios en el ámbito de su competencia, el mejor funcionamiento de sus archivos administrativos y la investigación y conservación de documentos históricos en forma coordinada.
 
 ###### Artículo 23.
 
@@ -269,7 +303,9 @@ Un Representante del Poder Legislativo.
 
 Un Representante del Poder Judicial.
 
-El Director de Organización y Documentación de la Secretaría de Administración; y
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
+El Director General de Innovación.
 
 Un Representante de los Ayuntamientos.
 
@@ -353,7 +389,9 @@ a) Centros de Documentación.
 
 b) Unidades de Correspondencia.
 
-c) Unidades de Sistemas y Equipos Auxiliares de la Documentación
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
+c) Unidades de Informática y/o de Tecnologías de la información.
 
 d) Todas aquellas unidades documentales, existentes que fueren creadas por los organismos correspondientes.
 
@@ -486,3 +524,37 @@ PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del G
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO.- Cuando en los ordenamientos jurídicos estatales se haga referencia a la Secretaría de Finanzas, Planeación y Administración; de Desarrollo Urbano y Obras Públicas; de Educación, Cultura y Bienestar Social; del Trabajo y de la Previsión Social y, de Ecología, se entenderá, respectivamente, a la Secretaría de Finanzas; de Desarrollo Urbano; de Educación, de Trabajo y, de Medio Ambiente.
+
+G.G. 6 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 57.- POR EL QUE SE EXPIDEN LA LEY DE LA GESTIÓN PÚBLICA DIGITAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS, Y LA LEY DEL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO" DEL ESTADO DE MÉXICO Y SE REFORMAN DIVERSAS DISPOSICIONES DE OTROS ORDENAMIENTOS JURÍDICOS".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno"
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno"
+
+TERCERO.- Para efecto de los trámites y servicios, las autoridades del Estado estarán obligados a colocar en los Portales Transaccionales, las aplicaciones necesarias, en los sitios web antes mencionados en un plazo no mayor a un año a partir del día en que entre en vigor el presente Decreto.
+
+CUARTO.- Las disposiciones legales y administrativas expedidas en la materia regulada por este Decreto, vigentes al momento de la publicación de la misma, seguirán vigentes en lo que no se opongan a ésta, hasta en tanto se expidan las que deban sustituirlas.
+
+QUINTO.- El Ejecutivo Estatal deberá presentar a consideración del Consejo durante su primera sesión, los proyectos de reglamentos para su posterior publicación.
+
+SEXTO.- Las facultades que de conformidad con el presente Decreto deban ejercer las autoridades del Estado, las llevarán a cabo a través de los órganos que correspondan, de conformidad con el ámbito de competencia respectivo.
+
+SÉPTIMO.- Dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, se deberá instalar el Consejo Estatal de Gobierno Digital por convocatoria del Presidente de la misma.
+
+OCTAVO.- Dentro del año siguiente a la entrada en vigor de este Decreto, las autoridades del Estado deberán tener en el SEITS la totalidad de sus trámites y servicios.
+
+NOVENO.- En la primera sesión del Consejo se deberán expedir las disposiciones que deberán observar las autoridades del Estado, en el diseño y establecimiento de las medidas de seguridad y de protección de los datos personales que proporcionen las personas al efectuar trámites y servicios electrónicos, la Agenda Digital y los Estándares de Tecnologías de la información, mismos que deberán publicarse en la Gaceta del Gobierno del Estado de México.
+
+DÉCIMO.- Para que las dependencias establecidas en el artículo 66 de la Ley de Gobierno Digital del Estado de México y Municipios sean autoridades certificadoras en el Estado, se debe celebrar un convenio de colaboración entre ellas y el Gobierno del Estado, para efecto de darles tal carácter.
+
+DÉCIMO PRIMERO.- El RETyS deberá operar en observancia a lo establecido por el presente Decreto, en un plazo no mayor a noventa días posteriores a la entrada en vigor del decreto.
+
+DÉCIMO SEGUNDO.- A partir de la entrada en vigor del presente Decreto, todos los trámites y servicios que prestan las autoridades del Estado podrán ser desahogados de manera electrónica, sin perjuicio de aquellos que ya se realizaban a través de esa vía.
+
+DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, queda abrogada la Ley para el Uso de los Medios Electrónicos del Estado de México publicada en el periódico oficial "Gaceta del Gobierno" el tres de septiembre de dos mil diez.
+
+DÉCIMO CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+DÉCIMO QUINTO.- Las erogaciones que deriven de la aplicación de este Decreto, deberán estar consideradas en la partida presupuestal que apruebe la Honorable Legislatura del Estado para tal efecto.
