@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-planeacion-del-estado-de-mexico-y-municipios-22804"
 country: "mx"
 rank: "ley"
 publication_date: "2001-12-21"
-last_updated: "2015-08-25"
+last_updated: "2016-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22804&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY DE PLANEACION DEL ESTADO DE MEXICO Y MUNICIPIOS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE FEBRERO DE 2016 EN LA GACETA DEL GOBIERNO DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE PLANEACIÓN DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 25 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ENERO DE 2016.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 21 de diciembre de 2001.
 
@@ -63,11 +65,11 @@ Los poderes Legislativo, Ejecutivo y Judicial del Estado de México y los ayunta
 
 Es responsabilidad del titular del Ejecutivo Estatal conducir la planeación para el desarrollo del Estado de México, y al interior de los municipios dicha responsabilidad recaerá en los Presidentes Municipales, quienes lo harán con base en las disposiciones legales y en ejercicio de sus atribuciones con respeto irrestricto a las garantías constitucionales, así como al fortalecimiento del pacto federal y del municipio libre y autónomo.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
 
 ###### Artículo 3.
 
-El desarrollo del Estado y Municipios se sustenta en el proceso de planeación democrática, en congruencia con la planeación nacional del desarrollo, integrando al Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios, los planes de desarrollo municipal, los programas sectoriales, regionales y especiales; y su ejecución atenderá a los plazos y condiciones que requiera su estrategia.
+El desarrollo del Estado y Municipios se sustenta en el proceso de planeación democrática, en congruencia con la planeación nacional del desarrollo, integrando al Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios, los planes de desarrollo municipal, los programas sectoriales, regionales y especiales, la Agenda Digital; y su ejecución atenderá a los plazos y condiciones que requiera su estrategia.
 
 > <small>(REFORMADO, G.G. 25 DE AGOSTO DE 2015)</small>
 
@@ -91,27 +93,37 @@ La planeación democrática para el desarrollo, como proceso permanente, debe se
 
 El proceso de planeación democrática para el desarrollo de los habitantes del Estado de México y municipios, comprenderá la formulación de planes y sus programas, los cuales deberán contener un diagnóstico, prospectiva, objetivos, metas, estrategias, prioridades y líneas de acción; la asignación de recursos, de responsabilidades, de tiempos de ejecución, de control, seguimiento de acciones y evaluación de resultados, así como la determinación, seguimiento y evaluación de indicadores para el desarrollo social y humano.
 
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
 ###### Artículo 8.
 
-En la ejecución de la planeación democrática para el desarrollo del Estado de México y municipios, deberá asegurarse la disposición de los recursos humanos, materiales, financieros y naturales necesarios para alcanzar los objetivos y metas de la estrategia de desarrollo, considerando en su asignación y uso, su optimización y la disponibilidad que de ellos exista en los distintos grupos y organizaciones sociales, privados y órdenes de gobierno.
+En la ejecución de la planeación democrática para el desarrollo del Estado de México y municipios, deberá asegurarse la disposición de los recursos humanos, materiales, financieros, naturales y tecnológicos necesarios para alcanzar los objetivos y metas de la estrategia de desarrollo, considerando en su asignación y uso, su optimización y la disponibilidad que de ellos exista en los distintos grupos y organizaciones sociales, privados y órdenes de gobierno.
 
 ###### Artículo 9.
 
 En la planeación democrática para el desarrollo del Estado de México y municipios, se deberán consolidar los métodos para la generación, tratamiento, uso y divulgación de la información geográfica y estadística como sustento del proceso de planeación establecido en la presente Ley, a fin de disponer de información veraz, oportuna y suficiente, con el propósito de garantizar la permanencia y fortalecimiento del desarrollo del Estado de México y municipios.
 
-> <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
 
-Los titulares de las dependencias, organismos, entidades públicas y unidades administrativas de los poderes Legislativo, Ejecutivo y Judicial y de los gobiernos municipales, las personas físicas y jurídicas colectivas, así como de los grupos sociales y privados, deberán proporcionar y hacer uso de la información e investigación geográfica, estadística y catastral de conformidad con lo dispuesto por el ordenamiento de la materia y demás disposiciones legales.
+Los titulares de las dependencias, organismos, entidades públicas y unidades administrativas de los poderes Legislativo, Ejecutivo y Judicial y de los gobiernos municipales, las personas físicas y jurídicas colectivas, así como de los grupos sociales y privados, deberán proporcionar y hacer uso de la información e investigación geográfica, estadística, catastral, así como de los datos abiertos, de conformidad con lo dispuesto por el ordenamiento de la materia y demás disposiciones legales.
 
 ###### Artículo 10.
 
 Para efectos de esta Ley, se entiende por:
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Agenda Digital. La prevista en la Ley de la Gestión Pública Digital para el Estado de México y Municipios.
 
 Convenio de coordinación. Instrumento de orden público por medio del cual la administración de los gobiernos estatal y municipales convienen en crear, transferir, modificar o extinguir obligaciones de las partes firmantes, para cumplir objetivos y metas plasmados en los planes de desarrollo.
 
 Convenio de participación. Instrumento de orden público por medio del cual la administración de los gobiernos estatal y municipales convienen con los ciudadanos, grupos u organizaciones sociales y privados crear, transferir, modifica o extinguir aquellas obligaciones de las partes firmantes para cumplir objetivos y metas plasmados en los planes de desarrollo.
 
 Corto plazo. Período hasta de un año, en el cual el presupuesto por programas determina y orienta en forma detallada las asignaciones y el destino de los recursos para la realización de acciones concretas.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Datos abiertos. Los previstos en la Ley de la Gestión Pública Digital para el Estado de México y Municipios, así como en las demás disposiciones aplicables.
 
 > <small>(REFORMADO, G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -185,7 +197,9 @@ El Sistema de Planeación Democrática para el Desarrollo del Estado de México 
 
 En el Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios participan los poderes Legislativo, Ejecutivo y Judicial, los ayuntamientos y los habitantes del Estado de México. Su organización se llevará a cabo a través de las estructuras de las administraciones públicas estatal y municipales y en su vertiente de coordinación por el Comité de Planeación para el Desarrollo del Estado de México y por los comités de planeación para el desarrollo municipal, "COPLADEMUN".
 
-El Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios comprende como instrumentos, el proceso de planeación estratégica; los planes; los programas; el presupuesto por programas; el sistema de control, seguimiento y evaluación; el Sistema Estatal de Información e Investigación Geográfica, Estadística y Catastral; los lineamientos metodológicos; y las políticas de planeación que autoricen el Gobierno del Estado y los ayuntamientos.
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
+El Sistema de Planeación Democrática para el Desarrollo del Estado de México y Municipios comprende como instrumentos, el proceso de planeación estratégica; los planes, los programas; el presupuesto por programas; el sistema de control, seguimiento y evaluación; el Sistema Estatal de Información e Investigación Geográfica, Estadística y Catastral; la Agenda Digital; los lineamientos metodológicos; y las políticas de planeación que autoricen el Gobierno del Estado y los ayuntamientos.
 
 ###### Artículo 14.
 
@@ -215,6 +229,10 @@ X. Los dictámenes de reconducción y actualización.
 
 XI. Los planes de desarrollo a largo plazo.
 
+> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
+
+XII. La Agenda Digital.
+
 ###### Artículo 15.
 
 Compete al Gobernador del Estado, en materia de planeación democrática para el desarrollo:
@@ -237,7 +255,13 @@ VII. Determinar las bases para la coordinación y participación;
 
 VIII. Integrar con la participación ciudadana el Plan de Largo Plazo del Estado de México para los próximos 30 años y en su caso readecuarlo cada seis años;
 
-IX. Las demás que se establezcan en otros ordenamientos.
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+IX. Enviar el proyecto del Plan de Desarrollo del Estado de México al Consejo Estatal de Gobierno Digital para su examen y opinión en materia de Gobierno Digital
+
+> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
+
+X. Las demás que se establezcan en otros ordenamientos.
 
 ###### Artículo 16.
 
@@ -277,7 +301,9 @@ III. Controlar los procesos administrativos y la fiscalización del ejercicio de
 
 IV. Determinar y sancionar las responsabilidades que se deriven de la evaluación efectuada a los Planes Estatal y Municipales y sus programas;
 
-V. Verificar y cumplir el Plan Nacional de Desarrollo y el Plan de Desarrollo del Estado de México y sus programas;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+V. Verificar y cumplir el Plan Nacional de Desarrollo, el Plan de Desarrollo del Estado de México, de la Agenda Digital y sus programas;
 
 VI. Las demás que se establezcan en otros ordenamientos.
 
@@ -299,9 +325,9 @@ VI. Asegurar, mediante los procesos de planeación estratégica, la congruencia 
 
 VII. Supervisar la correcta vinculación de los programas y presupuestos de los organismos o entidades públicas sectorizados en la dependencia bajo su cargo, con los objetivos y metas del Plan Estatal de Desarrollo y sus programas;
 
-> <small>(REFORMADA, G.G. 17 DE NOVIEMBRE DE 2010)</small>
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-VIII. Generar, proporcionar y utilizar la información oficial del Estado de México, a través de las unidades de información, planeación, programación y evaluación; e incorporar el uso y aplicación de estadísticas e indicadores en el proceso de planeación, para impulsar el desarrollo equitativo de las mujeres y los hombres en todos los sectores de la atención pública;
+VIII. Generar, proporcionar y utilizar la información oficial y los datos abiertos del Estado de México, a través de las unidades de información, planeación, programación y evaluación; e incorporar el uso y aplicación de estadísticas e indicadores en el proceso de planeación, para impulsar el desarrollo equitativo de las mujeres y los hombres en todos los sectores de la atención pública;
 
 IX. Proponer el presupuesto por programas para la ejecución de las acciones que correspondan al área de su competencia;
 
@@ -309,7 +335,9 @@ X. Elaborar sus programas de corto, mediano y largo plazo;
 
 XI. Informar veraz y oportunamente a la Secretaría, del cumplimiento en los avances de las etapas de planeación en el ámbito de su competencia;
 
-XII. Cumplir con el Plan Nacional de Desarrollo y el Plan de Desarrollo del Estado de México y sus programas;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+XII. Cumplir con el Plan Nacional de Desarrollo, el Plan de Desarrollo del Estado de México, la Agenda Digital y sus programas;
 
 XIII. Las demás que se establezcan en otros ordenamientos.
 
@@ -323,7 +351,9 @@ I. Elaborar, aprobar, ejecutar, dar seguimiento, evaluar y el control del Plan d
 
 II. Establecer los órganos, unidades administrativas o servidores públicos que lleven a cabo las labores de información, planeación, programación y evaluación;
 
-III. Asegurar la congruencia del Plan de Desarrollo Municipal con el Plan de Desarrollo del Estado y el Plan Nacional de Desarrollo, así como con los programas sectoriales, regionales y especiales que se deriven de éstos últimos, manteniendo una continuidad programática de mediano y largo plazos;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+III. Asegurar la congruencia del Plan de Desarrollo Municipal con el Plan de Desarrollo del Estado de México, la Agenda Digital y el Plan Nacional de Desarrollo, así como con los programas sectoriales, regionales y especiales que se deriven de éstos últimos, manteniendo una continuidad programática de mediano y largo plazos;
 
 IV. Garantizar, mediante los procesos de planeación estratégica, la congruencia organizativa con las acciones que habrán de realizar para alcanzar los objetivos, metas y prioridades de la estrategia del desarrollo municipal;
 
@@ -337,7 +367,9 @@ VII. Propiciar la participación del Ejecutivo Federal, Ejecutivo Estatal, grupo
 
 VIII. Integrar y elaborar el presupuesto por programas para la ejecución de las acciones que correspondan, de acuerdo con las leyes, reglamentos y demás disposiciones;
 
-IX. Cumplir con el Plan Nacional de Desarrollo, el Plan de Desarrollo del Estado de México, el Plan de Desarrollo Municipal y los programas que de éstos se deriven;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+IX. Cumplir con el Plan Nacional de Desarrollo, el Plan de Desarrollo del Estado de México, la Agenda Digital, el Plan de Desarrollo Municipal y los programas que de estos se deriven;
 
 > <small>(ADICIONADA, G.G. 22 DE JUNIO DE 2015)</small>
 
@@ -363,7 +395,9 @@ V. Vigilar que las actividades en materia de planeación de las áreas a las que
 
 VI. Evaluar y dar seguimiento al cumplimiento de los convenios de coordinación y de participación, respecto de las obligaciones a su cargo;
 
-VII. Cumplir con el Plan Nacional de Desarrollo, el Plan de Desarrollo del Estado de México, el Plan de Desarrollo Municipal y los programas que de éstos se deriven;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+VII. Cumplir con el Plan Nacional de Desarrollo, el Plan de Desarrollo del Estado de México, la Agenda Digital, el Plan de Desarrollo Municipal y los programas que de éstos se deriven;
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 26 DE DICIEMBRE DE 2007)</small>
 
@@ -383,7 +417,9 @@ II. Generar, sistematizar, proporcionar y vigilar la utilización de la informac
 
 III. Aplicar las normas y metodología correspondientes a la información estadística y geográfica;
 
-IV. Cumplir con el Plan Nacional de Desarrollo y el Plan de Desarrollo del Estado de México y sus programas;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+IV. Cumplir con el Plan Nacional de Desarrollo y el Plan de Desarrollo del Estado de México, la Agenda Digital y sus programas;
 
 V. (DEROGADA, G.G. 26 DE DICIEMBRE DE 2007)
 
@@ -812,3 +848,37 @@ G.G. 25 DE AGOSTO DE 2015.
 PRIMERO.- Publíquese el Presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 6 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 57.- POR EL QUE SE EXPIDEN LA LEY DE LA GESTIÓN PÚBLICA DIGITAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS Y LA LEY DEL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO” DEL ESTADO DE MÉXICO Y SE REFORMAN DIVERSAS DISPOSICIONES DE OTROS ORDENAMIENTOS JURÍDICOS”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Para efecto de los trámites y servicios, las autoridades del Estado estarán obligados a colocar en los Portales Transaccionales, las aplicaciones necesarias, en los sitios web antes mencionados en un plazo no mayor a un año a partir del día en que entre en vigor el presente Decreto.
+
+CUARTO.- Las disposiciones legales y administrativas expedidas en la materia regulada por este Decreto, vigentes al momento de la publicación de la misma, seguirán vigentes en lo que no se opongan a ésta, hasta en tanto se expidan las que deban sustituirlas.
+
+QUINTO.- El Ejecutivo Estatal deberá presentar a consideración del Consejo durante su primera sesión, los proyectos de reglamentos para su posterior publicación.
+
+SEXTO.- Las facultades que de conformidad con el presente Decreto deban ejercer las autoridades del Estado, las llevarán a cabo a través de los órganos que correspondan, de conformidad con el ámbito de competencia respectivo.
+
+SÉPTIMO.- Dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, se deberá instalar el Consejo Estatal de Gobierno Digital por convocatoria del Presidente de la misma.
+
+OCTAVO.- Dentro del año siguiente a la entrada en vigor de este Decreto, las autoridades del Estado deberán tener en el SEITS la totalidad de sus trámites y servicios.
+
+NOVENO.- En la primera sesión del Consejo se deberán expedir las disposiciones que deberán observar las autoridades del Estado, en el diseño y establecimiento de las medidas de seguridad y de protección de los datos personales que proporcionen las personas al efectuar trámites y servicios electrónicos, la Agenda Digital y los Estándares de Tecnologías de la información, mismos que deberán publicarse en la Gaceta del Gobierno del Estado de México.
+
+DÉCIMO.- Para que las dependencias establecidas en el artículo 66 de la Ley de Gobierno Digital del Estado de México y Municipios sean autoridades certificadoras en el Estado, se debe celebrar un convenio de colaboración entre ellas y el Gobierno del Estado, para efecto de darles tal carácter.
+
+DÉCIMO PRIMERO.- El RETyS deberá operar en observancia a lo establecido por el presente Decreto, en un plazo no mayor a noventa días posteriores a la entrada en vigor del decreto.
+
+DÉCIMO SEGUNDO.- A partir de la entrada en vigor del presente Decreto, todos los trámites y servicios que prestan las autoridades del Estado podrán ser desahogados de manera electrónica, sin perjuicio de aquellos que ya se realizaban a través de esa vía.
+
+DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, queda abrogada la Ley para el Uso de los Medios Electrónicos del Estado de México publicada en el periódico oficial “Gaceta del Gobierno” el tres de septiembre de dos mil diez.
+
+DÉCIMO CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+DÉCIMO QUINTO.- Las erogaciones que deriven de la aplicación de este Decreto, deberán estar consideradas en la partida presupuestal que apruebe la Honorable Legislatura del Estado para tal efecto.
