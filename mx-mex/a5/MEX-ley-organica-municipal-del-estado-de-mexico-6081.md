@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-municipal-del-estado-de-mexico-6081"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1993-03-02"
-last_updated: "2015-12-03"
+last_updated: "2016-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6081&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY ORGANICA MUNICIPAL DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADA EL 3 DE FEBRERO DE 2016 Y EL 1 DE JUNIO DE 2016 EN LA GACETA DEL GOBIERNO DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ENERO DE 2016.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 2 de marzo de 1993.
 
@@ -571,9 +573,9 @@ Para lo cual los Ayuntamientos deberán expedir o reformar, en su caso, en la te
 
 Los ayuntamientos sesionarán cuando menos una vez cada ocho días o cuantas veces sea necesario en asuntos de urgente resolución, a petición de la mayoría de sus miembros y podrán declararse en sesión permanente cuando la importancia del asunto lo requiera.
 
-> <small>(REFORMADO, G.G. 8 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
 
-Las sesiones de los ayuntamientos serán públicas.
+Las sesiones de los ayuntamientos serán públicas y podrán trasmitirse a través de la página de internet del municipio.
 
 Las sesiones de los ayuntamientos se celebrarán en la sala de cabildos; y cuando la solemnidad del caso lo requiera, en el recinto previamente declarado oficial para tal objeto.
 
@@ -619,19 +621,19 @@ Los ayuntamientos podrán sesionar con la asistencia de la mayoría de sus integ
 
 Los ayuntamientos no podrán revocar sus acuerdos sino en aquellos casos en que se hayan dictado en contravención a la Ley, lo exija el interés público o hayan desaparecido las causas que lo motivaron, y siguiendo el procedimiento y las formalidades que fueron necesarios para tomar los mismos, en cuyo caso se seguirán las formalidades de ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 5 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
 
 ###### Artículo 30.
 
-Las sesiones del ayuntamiento serán presididas por el presidente municipal o por quien lo sustituya legalmente; constarán en un libro de actas en el cual deberán asentarse los extractos de los acuerdos y asuntos tratados y el resultado de la votación. Cuando se refieran a reglamentos y otras normas de carácter general que sean de observancia municipal éstos constarán íntegramente en el libro de actas debiendo firmar en ambos casos los miembros del Ayuntamiento que hayan estado presentes, debiéndose difundir en la Gaceta Municipal entre los habitantes del municipio y en los estrados de la Secretaría del Ayuntamiento. De las actas, se les entregará copia certificada a los integrantes del Ayuntamiento que lo soliciten en un plazo no mayor de ocho días.
+Las sesiones del ayuntamiento serán presididas por el presidente municipal o por quien lo sustituya legalmente; constarán en un libro que deberá contener las actas en las cuales deberán asentarse los extractos de los acuerdos y asuntos tratados y el resultado de la votación. Cuando se refieran a reglamentos y otras normas de carácter general que sean de observancia municipal estos constarán íntegramente en el libro de actas debiendo firmar en ambos casos los miembros del Ayuntamiento que hayan estado presentes, debiéndose difundir en el (sic) Gaceta Municipal y en los estrados de la Secretaría del Ayuntamiento. De las actas, se les entregará copia certificada en formato físico o electrónico a los integrantes del Ayuntamiento que lo soliciten en un plazo no mayor de ocho días hábiles. Los documentos electrónicos en el que consten las firmas electrónicas avanzadas o el sello electrónico de los integrantes del Ayuntamiento tendrá (sic) el carácter de copia certificada.
 
 > <small>(REFORMADO, G.G. 8 DE DICIEMBRE DE 2014)</small>
 
 Todos los acuerdos de las sesiones que no contengan información clasificada y el resultado de su votación, serán difundidos cada mes en la Gaceta Municipal y en los estrados de la Secretaría del Ayuntamiento, así como los datos de identificación de las actas que contengan información clasificada, incluyendo en cada caso, el fundamento legal que clasifica la información.
 
-> <small>(ADICIONADO, G.G. 9 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
 
-Para cada sesión se deberá contar con una versión estenográfica que permita hacer las aclaraciones pertinentes, la cual formará parte del Acta correspondiente.
+Para cada sesión se deberá contar con una versión estenográfica o videograbada que permita hacer las aclaraciones pertinentes, la cual formará parte del acta correspondiente. La versión estenográfica o videograbada deberá estar disponible en la página de internet del Ayuntamiento y en las oficinas de la Secretaría del Ayuntamiento.
 
 > <small>(ADICIONADO, G.G. 9 DE MARZO DE 2011)</small>
 
@@ -672,6 +674,14 @@ I Ter. Aprobar y promover un programa para el otorgamiento de la licencia provis
 > <small>(ADICIONADO, G.G. 20 DE NOVIEMBRE DE 2014)</small>
 
 El otorgamiento de la licencia a que hace referencia el párrafo anterior, en ningún caso estará sujeto al pago de contribuciones ni a donación alguna; la exigencia de cargas tributarias, dádivas o cualquier otro concepto que condicione su expedición será sancionada en términos de la Ley de Responsabilidades de los Servidores Públicos del Estado y Municipios.
+
+> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
+
+I Quáter. Formular, aprobar, implementar y ejecutar las políticas, programas y acciones en materia de Gobierno Digital, conforme a los lineamientos técnicos establecidos en la Ley de Gobierno Digital del Estado de México y Municipios, su Reglamento y en aquellas disposiciones jurídicas de la materia.
+
+> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
+
+I Quintus. Participar en la presentación e instrumentación de Gobierno Digital que prevé la Ley de la materia.
 
 II. Celebrar convenios, cuando así fuese necesario, con las autoridades estatales competentes; en relación con la prestación de los servicios públicos a que se refiere el artículo 115, fracción III de la Constitución General, así como en lo referente a la administración de contribuciones fiscales;
 
@@ -831,9 +841,9 @@ XXXV. Coadyuvar en la ejecución de los planes y programas federales y estatales
 
 XXXV Bis.- Establecer, fomentar, coordinar y difundir permanentemente programas y acciones en materia de educación vial. Para el cumplimiento de esta disposición los ayuntamientos se auxiliarán de la participación directa de los concesionarios y permisionarios del transporte público;
 
-> <small>(REFORMADA, G.G. 8 DE DICIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-XXXVI. Editar, publicar y circular la Gaceta Municipal órgano oficial, cuando menos cada tres meses para la difusión de todos los acuerdos de Cabildo de las sesiones que no contengan información clasificada, los acuerdos de carácter general tomados por el ayuntamiento y de otros asuntos de interés público;
+XXXVI. Editar, publicar y circular la Gaceta Municipal órgano oficial en formato físico o electrónico, cuando menos cada tres meses para la difusión de todos los acuerdos de Cabildo de las sesiones que no contengan información clasificada, los acuerdos de carácter general tomados por el ayuntamiento y de otros asuntos de interés público;
 
 XXXVII. Organizar y promover la instrucción cívica que mantenga a los ciudadanos en conocimiento del ejercicio de sus derechos;
 
@@ -1158,6 +1168,10 @@ Para tal efecto, deberá garantizar que el otorgamiento de la licencia no esté 
 > <small>(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014)</small>
 
 XIII Quáter. Expedir o negar licencias o permisos de funcionamiento, previo acuerdo del ayuntamiento, para las unidades económicas, empresas y parques industriales, dando respuesta en un plazo que no exceda de tres días hábiles posteriores a la fecha de la resolución del ayuntamiento;
+
+> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
+
+XIII Quinquies. Desarrollar y ejecutar las políticas, programas y acciones en materia de Gobierno Digital, impulsando el uso estratégico de las tecnologías de la información en los trámites y servicios que se otorgan por parte del Ayuntamiento, conforme a lo establecido en la Ley de Gobierno Digital del Estado de México y Municipios, su Reglamento y conforme a las disposiciones jurídicas de la materia;
 
 > <small>N. DE E. LA APLICACIÓN DE ESTA FRACCIÓN SERA A PARTIR DEL PRIMERO DE ENERO DE 2012; PREVIO A SU APLICACIÓN, LOS INFORMES DE LOS PRESIDENTES MUNICIPALES SE LLEVARÁN A CABO DENTRO DE LOS PRIMEROS DIEZ DÍAS DEL MES DE AGOSTO, CON LAS FORMALIDADES ESTABLECIDAS EN LA LEY, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA.</small>
 
@@ -2559,9 +2573,9 @@ Artículo 147 G.- La Comisión de Derechos Humanos del Estado de México notific
 
 Artículo 147 H.- La toma de protesta del Defensor Municipal de Derechos Humanos, se realizará en sesión de cabildo, en la que estará presente la o el Presidente de la Comisión de Derechos Humanos del Estado de México o quien lo represente.
 
-> <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
 
-La Secretaría del ayuntamiento, dará a conocer a los habitantes el nombramiento respectivo que se publicará en el órgano oficial de difusión del municipio, además de enviar a la Comisión de Derechos Humanos del Estado de México copia certificada del acta de la sesión de cabildo correspondiente al nombramiento.
+La Secretaría del ayuntamiento, dará a conocer a los habitantes el nombramiento respectivo que se publicará en el órgano oficial de difusión del municipio, además de enviar a la Comisión de Derechos Humanos del Estado de México copia certificada en documento físico o electrónico del acta de la sesión de cabildo correspondiente al nombramiento. Se contará como copia certificada en documento electrónico, para efectos del párrafo anterior, aquel instrumento en el que conste la firma electrónica avanzada o el sello electrónico del Secretario del ayuntamiento.
 
 > <small>(ADICIONADO, G.G. 6 DE AGOSTO DE 2009)</small>
 
@@ -3144,6 +3158,10 @@ V. Servicios públicos municipales;
 > <small>(ADICIONADA, G.G. 15 DE OCTUBRE DE 2012)</small>
 
 V Bis. Los principios, acciones y etapas del programa de mejora regulatoria;
+
+> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
+
+V Ter. Los principios, acciones y lineamientos bajo los cuales se regirá la política de Gobierno Digital que se adoptará en el municipio.
 
 VI. Desarrollo económico y bienestar social;
 
@@ -4348,3 +4366,37 @@ SEGUNDO. El presente Decreto entrará en vigor el día siguiente de su publicaci
 TERCERO. Las autoridades en el ámbito de su competencia realizarán las adecuaciones normativas correspondientes, para dar cumplimiento a lo establecido por el presente Decreto.
 
 CUARTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+G.G. 6 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 57. POR EL QUE SE EXPIDEN LA LEY DE LA GESTIÓN PÚBLICA DIGITAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS Y LA LEY DEL PERIÓDICO OFICIAL "GACETA DE GOBIERNO" DEL ESTADO DE MÉXICO Y SE REFORMAN DIVERSAS DISPOSICIONES DE OTROS ORDENAMIENTOS JURÍDICOS".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno"
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno"
+
+TERCERO.- Para efecto de los trámites y servicios, las autoridades del Estado estarán obligados a colocar en los Portales Transaccionales, las aplicaciones necesarias, en los sitios web antes mencionados en un plazo no mayor a un año a partir del día en que entre en vigor el presente Decreto.
+
+CUARTO.- Las disposiciones legales y administrativas expedidas en la materia regulada por este Decreto, vigentes al momento de la publicación de la misma, seguirán vigentes en lo que no se opongan a ésta, hasta en tanto se expidan las que deban sustituirlas.
+
+QUINTO.- El Ejecutivo Estatal deberá presentar a consideración del Consejo durante su primera sesión, los proyectos de reglamentos para su posterior publicación.
+
+SEXTO.- Las facultades que de conformidad con el presente Decreto deban ejercer las autoridades del Estado, las llevarán a cabo a través de los órganos que correspondan, de conformidad con el ámbito de competencia respectivo.
+
+SÉPTIMO.- Dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, se deberá instalar el Consejo Estatal de Gobierno Digital por convocatoria del Presidente de la misma.
+
+OCTAVO.- Dentro del año siguiente a la entrada en vigor de este Decreto, las autoridades del Estado deberán tener en el SEITS la totalidad de sus trámites y servicios.
+
+NOVENO.- En la primera sesión del Consejo se deberán expedir las disposiciones que deberán observar las autoridades del Estado, en el diseño y establecimiento de las medidas de seguridad y de protección de los datos personales que proporcionen las personas al efectuar trámites y servicios electrónicos, la Agenda Digital y los Estándares de Tecnologías de la Información, mismos que deberán publicarse en la Gaceta del Gobierno del Estado de México.
+
+DÉCIMO.- Para que las dependencias establecidas en el artículo 66 de la Ley de Gobierno Digital del Estado de México y Municipios sean autoridades certificadoras en el Estado, se debe celebrar un convenio de colaboración entre ellas y el Gobierno del Estado, para efecto de darles tal carácter.
+
+DÉCIMO PRIMERO.- El RETyS deberá operar en observancia a lo establecido por el presente Decreto en un plazo no mayor a noventa días posteriores a la entrada en vigor del decreto.
+
+DÉCIMO SEGUNDO.- A partir de la entrada en vigor del presente Decreto, todos los trámites y servicios que prestan las autoridades del Estado podrán ser desahogados de manera electrónica, sin perjuicio de aquellos que ya se realizaban a través de esa vía.
+
+DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, queda abrogada la Ley para el Uso de los Medios Electrónicos del Estado de México publicada en el periódico oficial "Gaceta del Gobierno" el tres de septiembre de dos mil diez.
+
+DÉCIMO CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+DÉCIMO QUINTO.- Las erogaciones que deriven de la aplicación de este Decreto, deberán estar consideradas en la partida presupuestal que apruebe la Honorable Legislatura del Estado para tal efecto.
