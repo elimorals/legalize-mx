@@ -4,7 +4,7 @@ identifier: "MEX-ley-registral-para-el-estado-de-mexico-82739"
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-18"
-last_updated: "2015-07-03"
+last_updated: "2016-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82739&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY REGISTRAL PARA EL ESTADO DE MEXICO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE FEBRERO DE 2016 EN LA GACETA DEL GOBIERNO DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY REGISTRAL PARA EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 3 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ENERO DE 2016.
 
 Ley publicada en la Sección Tercera de la Gaceta de Gobierno del Estado de México, el jueves 18 de agosto de 2011.
 
@@ -65,7 +67,9 @@ I. Archivo: Archivo General de Notarías;
 
 II. Asientos Regístrales: Las notas de presentación, las anotaciones preventivas, las inscripciones, las cancelaciones y las rectificaciones;
 
-III. Acervo Registral: Libros, apéndices e índices, sus imágenes, extractos o contenidos capturados o digitalizados, sus respaldos, folios electrónicos y base de datos;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+III. Acervo Registral: Libros, apéndices e índices, sus imágenes, documentos físicos o electrónicos, extractos o contenidos capturados o digitalizados, sus respaldos, folios electrónicos y base de datos.
 
 IV. Boletín: Información electrónica que emite diariamente cada oficina registral, sobre el proceso registral;
 
@@ -85,9 +89,13 @@ XI. Folio Electrónico: Documento electrónico correspondiente a un inmueble o a
 
 XII. Formato Precodificado: Documento electrónico base del sistema de Folio Electrónico, que contiene los datos esenciales sobre un acto o hecho registrable para la práctica del asiento correspondiente;
 
-XIII. Firma Electrónica: Firma Electrónica Avanzada con valor jurídico equivalente al de la firma autógrafa definida en la Ley para el Uso de Medios Electrónicos del Estado de México;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-XIV. Firma Electrónica Notarial: Firma Electrónica de un Notario Público, la cual se considera con igual valor jurídico que su firma autógrafa y su sello de autorizar en términos de la Ley para el Uso de Medios Electrónicos del Estado de México y demás disposiciones aplicables;
+XIII. Firma Electrónica: Firma Electrónica Avanzada con valor jurídico equivalente al de la firma autógrafa definida en la Ley de Gobierno Digital del Estado de México y Municipios.
+
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+XIV. Firma Electrónica Notarial: Firma Electrónica de un Notario Público, la cual se considera con igual valor jurídico que su firma autógrafa y su sello de autorizar en términos de la Ley de Gobierno Digital del Estado de México y Municipios, la Ley del Notariado del Estado de México y demás disposiciones aplicables.
 
 XV. Hoja de Seguridad: Papel oficial en que se expiden las certificaciones;
 
@@ -105,9 +113,17 @@ XXI. Registro Público: Registro Público de la Propiedad del Estado de México;
 
 XXII. Resguardo: Custodia administrativa de documentos;
 
-XXIII. Sistema Informático: Sistema de Información Registral del Estado de México, conforme al cual los Asientos Regístrales se practican en el Folio Electrónico correspondiente a cada inmueble o persona jurídica colectiva; y
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-XXIV. Traslado: Transmisión de la información registral al Folio Electrónico.
+XXIII. Sello Electrónico: al de la Ley de Gobierno Digital del Estado de México y Municipios.
+
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+XXIV. Sistema Informático: Sistema de Información Registral del Estado de México, conforme al cual los Asientos Registrales se practican en el Folio Electrónico correspondiente a cada inmueble o persona jurídica colectiva.
+
+> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
+
+XXV. Traslado: Transmisión de la información registral al Folio Electrónico.
 
 ### CAPITULO SEGUNDO. DEL DOMICILIO Y LA COMPETENCIA DEL INSTITUTO
 
@@ -339,9 +355,11 @@ II. Como medio de control de los mismos.
 
 La función registral se apoyará en los archivos de validación sustentados en el Sistema Informático.
 
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
 ###### Artículo 24.
 
-La Dirección General del Sistema Estatal de Informática, adscrita a la Secretaría de Finanzas del Gobierno del Estado de México con base en la Ley para el Uso de Medios Electrónicos del Estado de México y demás disposiciones aplicables, determinará el uso de la Firma Electrónica en los documentos y Asientos Regístrales relativos al Acervo Registral.
+La determinación del uso de la Firma Electrónica o el Sello Electrónico en los documentos y Asientos Regístrales relativos al Acervo Registral, se hará de conformidad a la Ley de Gobierno Digital del Estado de México y Municipios y demás disposiciones aplicables.
 
 ###### Artículo 25.
 
@@ -387,9 +405,11 @@ La consulta electrónica externa solamente podrá hacerse por Notarios Públicos
 
 Cuando la autorización a que se refiere el artículo anterior se otorgue a Notarios Públicos, dicha autorización permitirá el envío de solicitudes por medios electrónicos con la utilización de la Firma Electrónica Notarial. El Registro enviará por el mismo medio el acuse de recibo al propio Notario. Dicho acuse servirá como boleta de ingreso y la determinación que recaiga a la solicitud se enviará por el mismo medio, a fin de que el Notario pueda imprimir ambas. El régimen jurídico de la utilización de la Firma Electrónica Notarial y de las Copias Certificadas Electrónicas en materia registral, se regirá por el Código, por la Ley del Notariado para el Estado de México y por esta Ley.
 
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
 ###### Artículo 30.
 
-Para garantizar la integridad, confidencialidad y disponibilidad de la información registral, el Sistema Informático contará con las medidas de seguridad necesarias, autorizaciones y procedimientos según la Ley para el Uso de Medios Electrónicos del Estado de México y las demás disposiciones aplicables.
+Para garantizar la integridad, confidencialidad y disponibilidad de la información registral, el Sistema Informático contará con las medidas de seguridad necesarias, autorizaciones y procedimientos conforme a lo establecido en la Ley de Gobierno Digital del Estado de México y Municipios, su Reglamento y demás disposiciones aplicables.
 
 > <small>(REFORMADO, G.G. 3 DE JULIO DE 2015)</small>
 
@@ -905,6 +925,22 @@ Cuando las solicitudes de los interesados o los mandamientos de autoridad no exp
 
 Durante los días y horas hábiles podrán realizarse todos los trámites en el Registro y permitirse la consulta de los asientos mediante la expedición de constancias y certificaciones. El Director General deberá proveer todos los medios para su debido cumplimiento.
 
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Los trámites ante el Registro podrán realizarse vía electrónica en el portal transaccional que para tal efecto se habilite, constando en la solicitud la firma electrónica avanzada o el Sello Electrónico del interesado. La presentación de solicitudes podrá realizarse en día y hora hábil o inhábil.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Si una solicitud fue presentada en día y hora inhábil, esta se tendrá por presentada el primer día y hora hábil siguiente al de su interposición.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Si una solicitud fue presentada en día hábil pero hora inhábil está se tendrá por presentada el primer día y hora hábil siguiente al de su interposición.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Se tendrá por días y horas hábiles, aquellos que establezca el Registro mediante un acuerdo, que deberá ser publicado en el Periódico Oficial “Gaceta del Gobierno”.
+
 ###### Artículo 80.
 
 Al expedirse un certificado de existencia o inexistencia de gravámenes, de acuerdo a lo previsto en los artículos 8.23 al 8.28 inclusive, del Código; en el mismo se harán constar todos los asientos vigentes y los avisos definitivos que no se hayan convertido en inscripción. A los certificados deberá acompañarse siempre copia fiel del folio correspondiente.
@@ -937,23 +973,33 @@ Una vez recibida la solicitud del certificado de no inscripción, se expedirá e
 
 ### CAPITULO SEPTIMO. DEL PROCEDIMIENTO ADMINISTRATIVO DE INMATRICULACION
 
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
 ###### Artículo 86.
 
-El procedimiento administrativo de inmatriculación, deberá promoverse por el titular del derecho consignado en el documento que se exhiba o por persona legitimada para ello, ante la oficina registral que corresponda a la circunscripción del inmueble.
+El procedimiento administrativo de inmatriculación, deberá promoverse por el titular del derecho consignado en el documento que se exhiba o por persona legitimada para ello, ante la oficina registral que corresponda a la circunscripción del inmueble o en el portal que para tal efecto habilite el Registro.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
 
 ###### Artículo 87.
 
-La inmatriculación iniciará con un escrito en el que el solicitante deberá expresar bajo protesta de decir verdad:
+La inmatriculación iniciará con un escrito en formato físico o electrónico en el que el solicitante deberá expresar bajo protesta de decir verdad:
 
 I. Autoridad a la que se dirige;
 
 II. Nombre del peticionario y, en su caso, el de quien promueva en su nombre;
 
-III. Domicilio para recibir notificaciones dentro de la circunscripción territorial de la oficina registral o señalar los estrados de la misma;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+III. Domicilio dentro de la circunscripción territorial de la oficina registral o correo electrónico para recibir notificaciones o señalar los estrados de la misma.
 
 IV. Descripción y ubicación del inmueble, con su denominación si la tiene; medidas, superficie y colindancias; nombres y domicilios de sus colindantes actuales, en su caso, señalando la población y el municipio; y
 
 V. Causa y origen de su posesión y acreditación del tiempo de ocupación del inmueble, fecha de adquisición del mismo, mención del nombre de la persona de quien adquirió la posesión y de ser posible el nombre del original o anterior poseedor.
+
+> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
+
+VI. Firma autógrafa, electrónica o el sello electrónico de la persona que suscribe el escrito.
 
 ###### Artículo 88.
 
@@ -979,15 +1025,33 @@ IX. Comprobante de pago de derechos expedido por la oficina, institución bancar
 
 X. Avalúo catastral de autoridad estatal o municipal o de especialista en valuación inmobiliaria con registro vigente, cuando proceda.
 
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Si el escrito en el que se promueve el procedimiento se presenta a través de la página de Internet que el Registro habilite, se podrán anexar los documentos descritos en las fracciones anteriores en formato electrónico.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Si el encargado de la sustanciación del procedimiento de inmatriculación tiene un motivo fundado de que los documentos electrónicos anexados pudieran ser falsos, deberá requerir al interesado para que un plazo no mayor a tres días hábiles acuda a la oficina registral de su circunscripción territorial, para que se realice el cotejo de los documentos físicos con los exhibidos vía electrónica.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Si el promovente del procedimiento de inmatriculación exhibe documentos falsos, ya sea en formatos físicos o digitales, el funcionario encargado del (sic) tramitación de este deberá dar vista al Ministerio Público para los efectos conducentes.
+
 ###### Artículo 89.
 
 Reunidos los requisitos señalados en los artículos 86 y 87 de la presente Ley, el Registrador elaborará cédula que contendrá nombre del promovente, número de orden de presentación y número progresivo del expediente, que incluirá la referencia al año en que inicia, entregando copia al interesado.
 
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Para el caso de la presentación electrónica del escrito en el que se promueve el procedimiento de inmatriculación, el sistema generará un acuse de recibo en el que se encontrarán los datos descritos en el párrafo anterior.
+
 El número de expediente se anotará en todas las promociones y actuaciones que se produzcan con el mismo.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
 
 ###### Artículo 90.
 
-El Registrador estará facultado para requerir al solicitante de la inmatriculación, los datos, documentos o constancias que sean necesarios cuando considere incompleta la justificación del derecho del promovente.
+El Registrador estará facultado para requerir al solicitante de la inmatriculación, los datos, documentos o constancias que sean necesarios cuando considere incompleta la justificación del derecho del promovente, siguiendo las reglas establecidas en esta Ley, respecto de la entrega de documentos físicos o electrónicos.
 
 Para efectos del párrafo anterior, el Registrador dictará un acuerdo apercibiendo al solicitante para que en un término no mayor a quince días hábiles, exhiba o proporcione los datos, documentos o constancias solicitadas, el cual hará de su conocimiento a través de la publicación que se fije en los estrados de cada oficina registral y surtirá sus efectos a partir de la fecha de publicación del mismo.
 
@@ -1013,7 +1077,9 @@ Una vez efectuada la notificación respectiva, el Registrador ordenará la publi
 
 Para oponerse al procedimiento establecido en este Capítulo se requiere:
 
-I. Presentación de un escrito que deberá contener:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
+
+I. Presentación de un escrito, en formato físico o electrónico, que deberá contener:
 
 a) Nombre y domicilio del oponente;
 
@@ -1025,7 +1091,15 @@ II. Título, documento o constancia que le acredite como legítimo propietario o
 
 III. Que no se haya dictado la inmatriculación correspondiente.
 
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+IV. Firma autógrafa o electrónica o el sello electrónico de la persona que suscribe el escrito.
+
 Si el expediente se encuentra en la Dirección General para su resolución, el Registrador remitirá de inmediato la oposición, a efecto de que el Director General lo tome en consideración al momento de emitir la resolución respectiva.
+
+> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
+
+Los documentos descritos en la fracción II de este artículo podrán entregarse en formato físico o electrónico, siguiéndose las reglas establecidas en el artículo 79 de esta Ley.
 
 ###### Artículo 95.
 
@@ -1103,19 +1177,23 @@ El solicitante del servicio podrá interponer el recurso de inconformidad, contr
 
 El recurso de inconformidad, se sustanciará ante el Director General en la forma y términos previstos por el artículo siguiente, quien ordenará que se practique la anotación preventiva a que se refiere el Artículo 8.54 fracción V, del Código.
 
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
 ###### Artículo 106.
 
-El recurso de inconformidad deberá interponerse por escrito, en un plazo no mayor de quince días hábiles contados a partir del día siguiente de la publicación de la suspensión o denegación por parte del Registrador en el Boletín. El Director General en un plazo no mayor de quince días hábiles siguientes a su interposición, previa audiencia del interesado, resolverá el recurso, dando por terminada la instancia.
+El recurso de inconformidad deberá interponerse por escrito en formato físico o electrónico, en un plazo no mayor de quince días hábiles contados a partir del día siguiente de la publicación de la suspensión o denegación por parte del Registrador en el Boletín. El Director General en un plazo no mayor de quince días hábiles siguientes a su interposición, previa audiencia del interesado, resolverá el recurso, dando por terminada la instancia.
+
+Los escritos deberán contener la firma autógrafa o electrónica avanzada o el sello electrónico de la persona que promueve el recurso de inconformidad, según el formato en el que sea presentada la promoción. Además se podrán presentar documentos en formato físico o electrónico, siguiéndose las reglas establecidas en esta Ley.
 
 El recurso de inconformidad será desechado de plano en los siguientes casos:
 
-I. Cuando falte la firma del interesado;
+I. Cuando falte la firma del interesado.
 
-II. Ante la falta de legitimación del recurrente;
+II. Ante la falta de legitimación del recurrente.
 
-III. Cuando haya salida sin registro a petición de parte, una vez calificado;
+III. Cuando haya salida sin registro a petición de parte, una vez calificado.
 
-IV. Cuando no se haya subsanado mediante los documentos idóneos; y
+IV. Cuando no se haya subsanado mediante los documentos idóneos.
 
 V. Cuando se interponga fuera de plazo.
 
@@ -1310,3 +1388,37 @@ PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Go
 SEGUNDO. El presente. Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
 
 TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+G.G. 6 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 57 POR EL QUE SE EXPIDEN LA LEY DE LA GESTIÓN PÚBLICA DIGITAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS Y LA LEY DEL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO” DEL ESTADO DE MÉXICO Y SE REFORMAN DIVERSAS DISPOSICIONES DE OTROS ORDENAMIENTOS JURÍDICOS”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno"
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno"
+
+TERCERO.- Para efecto de los trámites y servicios, las autoridades del Estado estarán obligados a colocar en los Portales Transaccionales, las aplicaciones necesarias, en los sitios web antes mencionados en un plazo no mayor a un año a partir del día en que entre en vigor el presente Decreto.
+
+CUARTO.- Las disposiciones legales y administrativas expedidas en la materia regulada por este Decreto, vigentes al momento de la publicación de la misma, seguirán vigentes en lo que no se opongan a ésta, hasta en tanto se expidan las que deban sustituirlas.
+
+QUINTO.- El Ejecutivo Estatal deberá presentar a consideración del Consejo durante su primera sesión, los proyectos de reglamentos, para su posterior publicación.
+
+SEXTO.- Las facultades que de conformidad con el presente Decreto deban ejercer las autoridades del Estado, las llevarán a cabo a través de los órganos que correspondan, de conformidad con el ámbito de competencia respectivo.
+
+SÉPTIMO.- Dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, se deberá instalar el Consejo Estatal de Gobierno Digital por convocatoria del Presidente de la misma.
+
+OCTAVO.- Dentro del año siguiente a la entrada en vigor de este Decreto, las autoridades del Estado deberán tener en el SEITS la totalidad de sus trámites y servicios.
+
+NOVENO.- En la primera sesión del Consejo se deberán expedir las disposiciones que deberán observar las autoridades del Estado, en el diseño y establecimiento de las medidas de seguridad y de protección de los datos personales que proporcionen las personas al efectuar trámites y servicios electrónicos, la Agenda Digital y los Estándares de Tecnologías de la Información, mismos que deberán publicarse en la Gaceta del Gobierno del Estado de México.
+
+DÉCIMO.- Para que las dependencias establecidas en el artículo 66 de la Ley de Gobierno Digital del Estado de México y Municipios sean autoridades certificadoras en el Estado, se debe celebrar un convenio de colaboración entre ellas y el Gobierno del Estado, para efecto de darles tal carácter.
+
+DÉCIMO PRIMERO.- El RETyS deberá operar en observancia a lo establecido por el presente Decreto, en un plazo no mayor a noventa días posteriores a la entrada en vigor del decreto.
+
+DÉCIMO SEGUNDO.- A partir de la entrada en vigor del presente Decreto, todos los trámites y servicios que prestan las autoridades del Estado podrán ser desahogados de manera electrónica, sin perjuicio de aquellos que ya se realizaban a través de esa vía.
+
+DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, queda abrogada la Ley para el Uso de los Medios Electrónicos del Estado de México publicada en el periódico oficial "Gaceta del Gobierno” el tres de septiembre de dos mil diez.
+
+DÉCIMO CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+DÉCIMO QUINTO.- Las erogaciones que deriven de la aplicación de este Decreto, deberán estar consideradas en la partida presupuestal que apruebe la Honorable Legislatura del Estado para tal efecto.
