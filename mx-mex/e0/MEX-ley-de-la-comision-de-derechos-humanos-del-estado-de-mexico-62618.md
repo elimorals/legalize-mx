@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-la-comision-de-derechos-humanos-del-estado-de-mexico-626
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-14"
-last_updated: "2015-08-06"
+last_updated: "2016-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY DE LA COMISION DE DERECHOS HUMANOS DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE FEBRERO DE 2016 EN LA GACETA DEL GOBIERNO DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE LA COMISIÓN DE DERECHOS HUMANOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ENERO DE 2016.
 
 Ley publicada en la Gaceta de Gobierno del Estado de México, el jueves 14 de agosto de 2008.
 
@@ -215,9 +217,13 @@ XXXI. Promover, en coordinación con el Gobierno Federal, programas y proyectos 
 
 XXXII. Impulsar la participación de las organizaciones privadas dedicadas a la promoción y defensa de los derechos humanos de niñas, niños y adolescentes, en la ejecución de los programas estatales;
 
-> <small>(ADICIONADA, G.G. 6 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-XXXIII. Las demás que sean necesarias para el cumplimiento de sus objetivos, que se deriven de esta Ley y demás ordenamientos legales.
+XXXIII. Implementar el uso estratégico de las tecnologías de la información para la presentación de quejas y el seguimiento de los procedimientos que se realizan ante la Comisión.
+
+> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
+
+XXXIV. Las demás que sean necesarias para el cumplimiento de sus objetivos, que se deriven de esta Ley y demás ordenamientos legales.
 
 > <small>(REFORMADO, G.G. 24 DE JUNIO DE 2015)</small>
 
@@ -481,7 +487,9 @@ IV. Las demás que les confiera esta Ley, otras disposiciones legales y la o el 
 
 Los Visitadores de la Comisión tienen las facultades y obligaciones siguientes:
 
-l. Recibir, rechazar, admitir y tramitar las quejas que les sean presentadas;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+I. Recibir, rechazar admitir y tramitar las quejas que les sean presentadas de manera física o por medios electrónicos.
 
 II. Remitir a las autoridades u organismos correspondientes, las quejas que no sean competencia del Organismo;
 
@@ -735,15 +743,27 @@ Las quejas deben presentarse dentro del plazo de un año, a partir del conocimie
 
 Tratándose de violaciones graves a la integridad física o psíquica, de lesa humanidad, a la vida, ataques a la libertad personal fuera del procedimiento judicial, o alguno de los actos prohibidos por el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos, la queja puede presentarse en cualquier tiempo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
+
 ###### Artículo 63.
 
-Las quejas pueden presentarse verbalmente, por escrito o por cualquier medio de comunicación.
+Las quejas pueden presentarse de manera física, en forma verbal o escrita, o por medios electrónicos.
 
 En el supuesto de que los quejosos o agraviados no puedan identificar a las autoridades o servidores públicos que consideren hayan afectado sus derechos fundamentales, la queja será admitida, si procede, bajo la condición de que se logre dicha identificación en la investigación posterior a los hechos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
+
 ###### Artículo 64.
 
-Las quejas que no sean formuladas directa y personalmente ante la Comisión, deben ser ratificadas dentro del plazo de cinco días hábiles.
+Las quejas que sean presentadas por medios electrónicos ante la Comisión, deben ser ratificadas dentro del plazo de cinco días hábiles.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Para los efectos del párrafo anterior, el Organismo citará al quejoso por la misma vía en la que fue propuesta la queja, para que comparezca de manera personal
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+En caso de realizarse la queja o denuncia vía telefónica, el quejoso deberá otorgar un domicilio o un correo electrónico donde se le notificará de todos los actos inherentes a la queja. Si la queja o denuncia se realiza por medios electrónicos, el quejoso deberá proporcionar una dirección de correo electrónico donde se le notificará de todos los actos concernientes a su queja.
 
 ###### Artículo 65.
 
@@ -987,13 +1007,23 @@ El Recurso de Reconsideración tiene por objeto que la Comisión confirme, revoq
 
 El superior jerárquico a quien se haya emitido una Recomendación y el servidor público señalado como responsable de violaciones a derechos humanos, están legitimados para interponer, por una sola ocasión, el Recurso de Reconsideración.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
+
 ###### Artículo 112.
 
-El término para la interposición del Recurso de Reconsideración es de cinco días hábiles, contados a partir del día siguiente de haberse notificado la Recomendación al superior jerárquico o al servidor público involucrado.
+El término para la interposición del Recurso de Reconsideración es de cinco días hábiles, contados a partir del día siguiente de haberse notificado en forma física o electrónica la Recomendación al superior jerárquico o al servidor público involucrado
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+El Recurso de Reconsideración podrá ser presentado por escrito o de manera electrónica. El escrito deberá ser firmado y el (sic) presentado de forma electrónica y estar signado con la firma electrónica avanzada y sello electrónico del servidor público correspondiente.
 
 ###### Artículo 113.
 
 En contra de las resoluciones definitivas o de los informes definitivos de las autoridades sobre el cumplimiento de las Recomendaciones; así como por omisiones o inacción del Organismo, los quejosos pueden interponer los recursos de impugnación o de queja, que se sustancian ante la Comisión Nacional de los Derechos Humanos en términos de su Ley y su Reglamento Interno.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Los recursos de impugnación o de queja podrán ser interpuestos por escrito o de manera electrónica. Los escritos presentados electrónicamente deberán estar firmados o signados con la Firma Electrónica Avanzada del promovente para que se le pueda dar trámite a su petición.
 
 ## TÍTULO CUARTO. DE LAS AUTORIDADES Y SERVIDORES PÚBLICOS
 
@@ -1206,3 +1236,37 @@ CUARTO. La Junta de Gobierno del DIFEM llevará a cabo las adecuaciones reglamen
 QUINTO. La Junta de Gobierno de cada organismo público descentralizado de Asistencia Social y Protección de la Infancia de carácter municipal llevará a cabo las adecuaciones reglamentarias correspondientes a los sistemas municipales para el Desarrollo Integral de la Familia, en un plazo que no deberá exceder de ciento ochenta días hábiles contados a partir de la entrada en vigor del presente Decreto.
 
 SEXTO. Las autoridades estatales y municipales preverán que sus respectivos presupuestos para el ejercicio fiscal del año 2016, se contemple lo necesario para la operación de la Procuraduría de Protección correspondiente a más tardar el primero de julio del año 2016.
+
+G.G. 6 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 57.- POR EL QUE SE EXPIDEN LA LEY DE LA GESTIÓN PÚBLICA DIGITAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS Y LA LEY DEL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO" DEL ESTADO DE MÉXICO Y SE REFORMAN DIVERSAS DISPOSICIONES DE OTROS ORDENAMIENTOS JURÍDICOS".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno"
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno"
+
+TERCERO.- Para efecto de los trámites y servicios, las autoridades del Estado estarán obligados a colocar en los Portales Transaccionales, las aplicaciones necesarias, en los sitios web antes mencionados en un plazo no mayor a un año a partir del día en que entre en vigor el presente Decreto.
+
+CUARTO.- Las disposiciones legales y administrativas expedidas en la materia regulada por este Decreto, vigentes al momento de la publicación de la misma, seguirán vigentes en lo que no se opongan a ésta, hasta en tanto se expidan las que deban sustituirlas.
+
+QUINTO.- El Ejecutivo Estatal deberá presentar a consideración del Consejo durante su primera sesión, los proyectos de reglamentos, para su posterior publicación.
+
+SEXTO.- Las facultades que de conformidad con el presente Decreto deban ejercer las autoridades del Estado, las llevarán a cabo a través de los órganos que correspondan, de conformidad con el ámbito de competencia respectivo.
+
+SÉPTIMO.- Dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, se deberá instalar el Consejo Estatal de Gobierno Digital por convocatoria del Presidente de la misma.
+
+OCTAVO.- Dentro del año siguiente a la entrada en vigor de este Decreto, las autoridades del Estado deberán tener en el SEITS la totalidad de sus trámites y servicios.
+
+NOVENO.- En la primera sesión del Consejo se deberán expedir las disposiciones que deberán observar las autoridades del Estado, en el diseño y establecimiento de las medidas de seguridad y de protección de los datos personales que proporcionen las personas al efectuar trámites y servicios electrónicos, la Agenda Digital y los Estándares de Tecnologías de la Información, mismos que deberán publicarse en la Gaceta del Gobierno del Estado de México.
+
+DÉCIMO.- Para que las dependencias establecidas en el artículo 66 de la Ley de Gobierno Digital del Estado de México y Municipios sean autoridades certificadoras en el Estado, se debe celebrar un convenio de colaboración entre ellas y el Gobierno del Estado, para efecto de darles tal carácter.
+
+DÉCIMO PRIMERO.- El RETyS deberá operar en observancia a lo establecido por el presente Decreto en un plazo no mayor a noventa días posteriores a la entrada en vigor del decreto.
+
+DÉCIMO SEGUNDO.- A partir de la entrada en vigor del presente Decreto, todos los trámites y servicios que prestan las autoridades del Estado podrán ser desahogados de manera electrónica, sin perjuicio de aquellos que ya se realizaban a través de esa vía.
+
+DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, queda abrogada la Ley para el Uso de los Medios Electrónicos del Estado de México publicada en el periódico oficial "Gaceta del Gobierno" el tres de septiembre de dos mil diez.
+
+DÉCIMO CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+DÉCIMO QUINTO.- Las erogaciones que deriven de la aplicación de este Decreto, deberán estar consideradas en la partida presupuestal que apruebe la Honorable Legislatura del Estado para tal efecto.
