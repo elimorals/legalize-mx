@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-agua-para-el-estado-de-mexico-y-municipios-92540"
 country: "mx"
 rank: "ley"
 publication_date: "2013-02-22"
-last_updated: "2015-07-27"
+last_updated: "2016-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92540&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY DEL AGUA PARA EL ESTADO DE MEXICO Y MUNICIPIOS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE FEBRERO DE 2016 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DEL AGUA PARA EL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 27 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ENERO DE 2016.
 
 Ley publicada en la Sección Tercera de la Gaceta del Gobierno del Estado de México, el viernes 22 de febrero de 2013.
 
@@ -659,7 +661,13 @@ XXXI Bis. Verificar el debido cumplimiento del Permiso de Distribución y del Di
 
 XXXII. Emitir su reglamento Interior; y
 
-XXXIII. Las demás que le señale esta Ley y otras disposiciones aplicables.
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+XXXIII. Aplicar en los trámites que se realicen ante la Comisión, los lineamientos técnicos en materia de Gobierno Digital que establezcan los ordenamientos jurídicos de la materia.
+
+> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
+
+XXXIV. Las demás que le señale esta Ley y otras disposiciones aplicables.
 
 ###### Artículo 19.
 
@@ -979,6 +987,10 @@ Los organismos operadores adoptarán las medidas necesarias para alcanzar su aut
 
 Los ingresos que obtengan los organismos operadores, por los servicios que presten, deberán destinarse exclusivamente a la planeación, construcción, mejoramiento, ampliación, rehabilitación y mantenimiento de la infraestructura hidráulica bajo su administración, así como para la prestación de los servicios.
 
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Para el desahogo de los trámites que se deban realizar en los organismos operadores y que tengan como finalidad la obtención de un servicio que estos prestan, se deberán aplicar los lineamientos técnicos que establece la Ley de Gobierno Digital del Estado de México y Municipios y su Reglamento.
+
 ###### Artículo 38.
 
 La administración de los organismos operadores municipales estará a cargo de un consejo directivo y un director general.
@@ -1127,7 +1139,13 @@ VIII. Conocer la información sobre los servicios a que se refiere la presente L
 
 IX. Ser sujeto de los estímulos que determine la autoridad competente; y
 
-X. Las demás que establezca esta Ley, su Reglamento y otras disposiciones legales aplicables.
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+X. Realizar trámites y solicitar servicios a través del portal transaccional que se creen para tal efecto por parte de las autoridades establecidas en este ordenamiento.
+
+> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
+
+XI. Las demás que establezca esta Ley, su Reglamento y otras disposiciones legales aplicables.
 
 ### CAPÍTULO QUINTO. DE LA PROGRAMACIÓN HÍDRICA
 
@@ -1599,7 +1617,13 @@ III. El financiamiento para la construcción, ampliación, rehabilitación, mant
 
 IV. La medición y cobranza de los servicios que prestan los prestadores de los servicios; y
 
-V. Las demás actividades que se convengan con la Comisión, los municipios y los organismos operadores, en el ámbito de sus respectivas competencias.
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+V. El desarrollo de programas o aplicaciones de carácter tecnológico que permita el uso estratégico de tecnologías de la información dentro de los trámites y servicios que prestan la Secretaría, la Comisión, los municipios y los organismos operadores.
+
+> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
+
+VI. Las demás actividades que se convengan con la Comisión, los municipios y los organismos operadores, en el ámbito de sus respectivas competencias.
 
 ### CAPÍTULO DÉCIMO PRIMERO. DEL SISTEMA DE INFORMACIÓN DEL AGUA
 
@@ -1639,9 +1663,13 @@ XIII. Clasificar la información a que se refieren las fracciones anteriores y d
 
 #### SECCIÓN PRIMERA. DEL REGISTRO PÚBLICO DEL AGUA
 
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
 ###### Artículo 104.
 
-Se crea el Registro Público del Agua como la instancia que tiene a su cargo la inscripción de los actos jurídicos a que se refiere la presente Ley y su Reglamento, y estará a cargo de la Secretaría.
+Se crea el Registro Público del Agua como la instancia que tiene a su cargo la inscripción de los actos jurídicos a que se refiere la presente Ley y su Reglamento que consten en documentos físicos o electrónicos y estará a cargo de la Secretaría.
+
+Para que un documento electrónico sea susceptible de inscripción, deberá estar insertada la firma electrónica avanzada o el sello electrónico en su caso, de los que intervinieron en el acto. Dichos documentos deberán constar en libros o folios electrónicos que habilite la Secretaría y deberán resguardarse conforme a la normatividad aplicable en la materia.
 
 ###### Artículo 105.
 
@@ -1679,9 +1707,15 @@ El Registro Público del Agua se organizará y funcionará en los términos que 
 
 La Secretaría tiene facultad para:
 
-I. Autorizar la apertura y cierre de los libros o folios, así como las inscripciones que se efectúen;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+I. Autorizar la apertura y cierre de los libros o folios electrónicos, así como las inscripciones que se efectúen física o electrónicamente.
 
 II. Expedir las certificaciones y constancias que le sean solicitadas, así como atender y resolver las consultas que en materia registral se presenten;
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Para la expedición de las certificaciones y constancias a que se refiere esta fracción, estas tendrán plena validez jurídica si se entregan al solicitante a través de medios electrónicos, siempre que conste en el documento, la firma electrónica avanzada o el sello electrónico del funcionario autorizado para emitir dichos documentos.
 
 III. Efectuar las anotaciones preventivas;
 
@@ -2035,9 +2069,11 @@ El concesionario deberá otorgar garantía que responda de los defectos o vicios
 
 La explotación, uso y aprovechamiento de aguas claras y agua en bloque de jurisdicción estatal, de conformidad con la disponibilidad que exista, se realizará con base en los convenios de asignación, que al efecto suscriban la Secretaría y/o la Comisión, de acuerdo con las reglas y condiciones que establece esta Ley y su Reglamento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
+
 ###### Artículo 133.
 
-Para los efectos del artículo anterior, se deberá presentar solicitud por escrito. La solicitud de asignación de agua deberá contener al menos lo siguiente:
+Para los efectos del artículo anterior, se deberá presentar solicitud por escrito en formato físico o electrónico. La solicitud de asignación de agua deberá contener al menos lo siguiente:
 
 I. Nombre y domicilio del solicitante;
 
@@ -2056,6 +2092,10 @@ VII. El acuerdo del Cabildo para autorizar la suscripción del Convenio o la aut
 VIII. El plazo por el que solicita la asignación, que no deberá exceder de quince años.
 
 Conjuntamente con la solicitud de asignación, se solicitará, en su caso, el permiso de descarga de aguas residuales y el permiso para la realización de las obras que se requieran.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+En la solicitud deberá constar la firma autógrafa o electrónica avanzada y el sello electrónico en su caso, de la persona autorizada, de acuerdo al formato en que haya sido entregado el escrito.
 
 ###### Artículo 134.
 
@@ -2229,7 +2269,9 @@ El Permiso de Distribución solo ampara una pipa.
 
 Para obtener el Permiso de Distribución se deberá cumplir con los requisitos siguientes:
 
-I. Presentar solicitud por escrito que contenga:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
+
+I. Presentar solicitud por escrito en formato físico o electrónico que contenga:
 
 a) Nombre y domicilio del permisionario y en su caso de su representante legal.
 
@@ -2252,6 +2294,14 @@ V. Cubrir los derechos por el Permiso de Distribución;
 VI. Para el Permiso de Distribución municipal se deberá contar con el Dictamen de Factibilidad para la Distribución de Agua;
 
 VII. Las demás que establezca la normatividad en la materia.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Para el caso de la entrega de escritos electrónicos en el que se anexan documentos electrónicos, si el funcionario encargado de la tramitación de la solicitud tiene un motivo fundado que los documentos electrónicos anexados se presuman sean falsos, deberá requerir al interesado para que en un plazo no mayor a cinco días acuda a la oficina de la Comisión, del municipio o del organismo operador correspondiente, para que se realice el cotejo de los documentos físicos con los otorgados vía electrónica.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Si los solicitantes otorgan documentos que se presuman sean falsos, ya sea en formatos físicos o electrónicos, el funcionario encargado de la ventanilla deberá dar vista al Ministerio Público correspondiente.
 
 > <small>(ADICIONADO, G.G. 12 DE NOVIEMBRE DE 2013)</small>
 
@@ -2562,3 +2612,37 @@ NOVENO. Cuando en otros ordenamientos legales administrativos, documentación y 
 DÉCIMO. Las Secretarías General de Gobierno, de Finanzas y de la Contraloría, en el ámbito de sus respectivas competencias, dispondrán lo necesario para el cumplimiento del presente Decreto.
 
 DÉCIMO PRIMERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
+
+G.G. 6 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 57. POR EL QUE SE EXPIDEN LA LEY DE LA GESTIÓN PÚBLICA DIGITAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS Y LA LEY DEL PERIÓDICO OFICIAL "GACETA DE GOBIERNO" DEL ESTADO DE MÉXICO Y SE REFORMAN DIVERSAS DISPOSICIONES DE OTROS ORDENAMIENTOS JURÍDICOS".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno"
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO.- Para efecto de los trámites y servicios, las autoridades del Estado estarán obligados a colocar en los Portales Transaccionales, las aplicaciones necesarias, en los sitios web antes mencionados en un plazo no mayor a un año a partir del día en que entre en vigor el presente Decreto.
+
+CUARTO.- Las disposiciones legales y administrativas expedidas en la materia regulada por este Decreto, vigentes al momento de la publicación de la misma, seguirán vigentes en lo que no se opongan a ésta, hasta en tanto se expidan las que deban sustituirlas.
+
+QUINTO.- El Ejecutivo Estatal deberá presentar a consideración del Consejo durante su primera sesión, los proyectos de reglamentos, para su posterior publicación.
+
+SEXTO.- Las facultades que de conformidad con el presente Decreto deban ejercer las autoridades del Estado, las llevarán a cabo a través de los órganos que correspondan, de conformidad con el ámbito de competencia respectivo.
+
+SÉPTIMO.- Dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, se deberá instalar el Consejo Estatal de Gobierno Digital por convocatoria del Presidente de la misma.
+
+OCTAVO.- Dentro del año siguiente a la entrada en vigor de este Decreto, las autoridades del Estado deberán tener en el SEITS la totalidad de sus trámites y servicios.
+
+NOVENO.- En la primera sesión del Consejo se deberán expedir las disposiciones que deberán observar las autoridades del Estado, en el diseño y establecimiento de las medidas de seguridad y de protección de los datos personales que proporcionen las personas al efectuar trámites y servicios electrónicos, la Agenda Digital y los Estándares de Tecnologías de la información, mismos que deberán publicarse en la Gaceta del Gobierno del Estado de México.
+
+DÉCIMO.- Para que las dependencias establecidas en el artículo 66 de la Ley de Gobierno Digital del Estado de México y Municipios sean autoridades certificadoras en el Estado, se debe celebrar un convenio de colaboración entre ellas y el Gobierno del Estado, para efecto de darles tal carácter.
+
+DÉCIMO PRIMERO.- El RETyS deberá operar en observancia a lo establecido por el presente Decreto en un plazo no mayor a noventa días posteriores a la entrada en vigor del decreto.
+
+DÉCIMO SEGUNDO.- A partir de la entrada en vigor del presente Decreto, todos los trámites y servicios que prestan las autoridades del Estado podrán ser desahogados de manera electrónica, sin perjuicio de aquellos que ya se realizaban a través de esa vía.
+
+DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, queda abrogada la Ley para el Uso de los Medios Electrónicos del Estado de México publicada en el periódico oficial "Gaceta del Gobierno" el tres de septiembre de dos mil diez.
+
+DÉCIMO CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+DÉCIMO QUINTO.- Las erogaciones que deriven de la aplicación de este Decreto, deberán estar consideradas en la partida presupuestal que apruebe la Honorable Legislatura del Estado para tal efecto.
