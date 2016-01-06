@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-del-poder-judicial-del-estado-de-mexico-6086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-09-08"
-last_updated: "2014-12-19"
+last_updated: "2016-01-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,11 @@ state: "MEX"
 ---
 # LEY ORGANICA DEL PODER JUDICIAL DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE FEBRERO DE 2016 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE MÉXICO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL DECRETO NO. 4 PUBLICADO EN LA G.G. DE 30 DE SEPTIEMBRE DE 2009, EL SISTEMA PROCESAL PENAL ACUSATORIO ADVERSARIAL Y ORAL HA SIDO INCORPORADO EN EL PRESENTE ORDENAMIENTO, Y ENTRARÁ EN VIGOR EN LOS SIGUIENTES PLAZOS Y DISTRITOS: 1) EL PRIMERO DE OCTUBRE DE DOS MIL NUEVE, EN LOS DISTRITOS JUDICIALES DE TOLUCA, LERMA, TENANCINGO Y TENANGO DEL VALLE; 2) EL PRIMERO DE ABRIL DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE CHALCO, OTUMBA Y TEXCOCO; 3) EL PRIMERO DE OCTUBRE DE DOS MIL DIEZ, EN LOS DISTRITOS JUDICIALES DE NETZAHUALCÓYOTL, EL ORO, IXTLAHUACA, SULTEPEC Y TEMASCALTEPEC; 4) EL PRIMERO DE ABRIL DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE TLALNEPANTLA, CUAUTITLÁN Y ZUMPANGO; 5) EL PRIMERO DE OCTUBRE DE DOS MIL ONCE, EN LOS DISTRITOS JUDICIALES DE ECATEPEC DE MORELOS, JILOTEPEC Y VALLE DE BRAVO.</small>
-
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 18 DE DICIEMBRE DE 2014.
-
-N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO EL 19 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ENERO DE 2016.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 8 de septiembre de 1995.
 
@@ -145,9 +143,9 @@ III. Realizar todas las acciones necesarias para la plena ejecución de sus reso
 
 IV. Auxiliar a los órganos jurisdiccionales de la federación y a las demás autoridades, en los términos de las disposiciones legales;
 
-> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-V. Diligenciar exhortos, cartas rogatorias, suplicatorias, requisitorias y despachos en las materias de su competencia, que les envíen los jueces del Estado, de otras entidades federativas o del extranjero que se ajusten a las leyes procesales aplicables;
+V. Diligenciar de manera física o electrónica exhortos, cartas rogatorias, suplicatorias, requisitorias y despachos en las materias de su competencia, que les envíen los jueces del Estado, de otras entidades federativas o del extranjero que se ajusten a las leyes procesales aplicables.
 
 VI. Proporcionar a las autoridades competentes los datos e informes que soliciten, cuando proceda conforme a la ley;
 
@@ -157,7 +155,13 @@ VII. Oír a los interesados en los asuntos de que conozcan cuando les sea solici
 
 VIII.- Disponer lo necesario para que los magistrados y jueces usen toga en las audiencias públicas, reuniones del Tribunal y actos solemnes judiciales;
 
-IX. Las demás que los ordenamientos legales les impongan.
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+IX. Implementar a través del Consejo de la Judicatura, las políticas de Gobierno Digital y de uso estratégico de tecnologías de la información que ayuden a que la impartición de justicia se realice de una manera más pronta y expedita. Los lineamientos en materia de Gobierno Digital tendrán que ser observados con base en las disposiciones de la materia, así como en los criterios que establezca el Consejo Estatal de Gobierno Digital para tal efecto.
+
+> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
+
+X. Las que los ordenamientos legales les impongan.
 
 ###### Artículo 9.
 
@@ -531,7 +535,9 @@ IV. Designar a los magistrados sustitutos de las salas en los casos de excusa, i
 
 V. Vigilar que los presidentes de las salas colegiadas, los magistrados unitarios y los jueces proporcionen mensualmente los datos estadísticos de los asuntos de su competencia;
 
-VI. Ordenar y coordinar la atención de la correspondencia del tribunal, así como el trámite, envío y diligenciación de exhortos, cartas rogatorias, suplicatorias, requisitorias o despachos;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+VI. Ordenar y coordinar la atención de la correspondencia del tribunal, así como el trámite, envío y diligenciación física o electrónica de exhortos, cartas rogatorias, suplicatorias, requisitorias o despachos.
 
 VII. Presidir el Consejo de la Judicatura, coordinar sus acciones y ejecutar los acuerdos dictados por éste;
 
@@ -680,6 +686,12 @@ La sala respectiva calificará las excusas e impedimentos de sus integrantes. Si
 > <small>(ADICIONADO, G.G. 8 DE MAYO DE 2003)</small>
 
 Los Presidentes de las salas colegiadas distribuirán por riguroso turno entre él y los demás miembros de la sala, los tocas para su estudio y presentación oportuna del proyecto de resolución.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+###### Artículo 49 Bis.
+
+Los Magistrados deberán hacer uso de las tecnologías de la información que establezca el Consejo de la Judicatura para la tramitación de los juicios que conozcan.
 
 ###### Artículo 50.
 
@@ -929,11 +941,13 @@ XXXIV. Coordinarse con la Dirección General de Prevención y Readaptación Soci
 
 XXXV. Vigilar que los jueces ejecutores de sentencias revisen oficiosamente y de manera periódica los expedientes de los internos con sentencia ejecutoriada; y
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-> <small>(ADICIONADA, G.G. 30 DE SEPTIEMBRE DE 2009)</small>
+XXXVI. Establecer las acciones sobre las que se regirá la implementación de la política de Gobierno Digital y del uso estratégico de las tecnologías de la información, en los procesos jurisdiccionales que se realizan ante los juzgados y salas que componen el Tribunal Superior de Justicia.
 
-XXXVI. Las demás que le confiere esta Ley y otros ordenamientos.
+> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
+
+XXXVII. Las demás que le confiere esta Ley y otros ordenamientos.
 
 ###### Artículo 64.
 
@@ -1069,7 +1083,9 @@ I. De los juicios civiles y mercantiles cuando el valor del negocio exceda de mi
 
 II. De los actos de jurisdicción voluntaria relacionados con inmatriculaciones, informaciones de dominio o ad perpetuam y juicios donde se ejerciten acciones posesorias, cualquiera que sea el valor del negocio;
 
-III. De la diligenciación de exhortos, cartas rogatorias, suplicatorias, requisitorias y despachos en materia civil o mercantil que envíen los jueces del Estado, de otras entidades federativas o del extranjero, que se ajusten a la ley procesal del Estado;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+III. De la diligenciación física o electrónica de exhortos, cartas rogatorias, suplicatorias, requisitorias y despachos en materia civil o mercantil que envíen los jueces del Estado, de otras entidades federativas o del extranjero, que se ajusten a la Ley procesal del Estado.
 
 IV. De las diligencias preliminares de consignación, cuando el valor de los bienes o la cantidad que se ofrezca, exceda del monto señalado en la fracción I de este artículo; y
 
@@ -1091,7 +1107,9 @@ II. De los juicios sucesorios;
 
 III. De las diligencias preliminares de consignación en materia familiar;
 
-IV. De la diligenciación de exhortos, cartas rogatorias, suplicatorias, requisitorias y despachos relacionados con el derecho familiar que envíen los jueces del Estado, de otras entidades federativas o del extranjero, que se ajusten a la ley procesal del Estado; y
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+IV. De la diligenciación física o electrónica de exhortos, cartas rogatorias, suplicatorias, requisitorias y despachos relacionados con el derecho familiar que envíen los jueces del Estado, de otras entidades federativas o del extranjero, que se ajusten a la Ley procesal del Estado.
 
 V. De los demás asuntos familiares cuyo conocimiento les atribuyan las leyes.
 
@@ -1131,9 +1149,9 @@ I. Cumplir y hacer cumplir sin demora y con apego a la ley, los acuerdos y deter
 
 II. Dirigir el desarrollo de los procesos, presidir las audiencias de pruebas y dictar las resoluciones en términos de ley;
 
-> <small>(REFORMADA, G.G. 28 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-III. Diligenciar exhortos, cartas rogatorias, suplicatorias, requisitorias y despachos que envíen los jueces del Estado, de otras entidades federativas o del extranjero, que se ajusten a las leyes procesales aplicables;
+III. Diligenciar de manera física o electrónica exhortos, cartas rogatorias, suplicatorias, requisitorias y despachos que envíen los jueces del Estado, de otras entidades federativas o del extranjero, que se ajusten a las Leyes procesales aplicables.
 
 IV. Rendir al Tribunal Superior de Justicia y a las autoridades correspondientes, dentro de los primeros cinco días de cada mes, los datos estadísticos de los asuntos de su competencia iniciados y concluidos;
 
@@ -1151,7 +1169,13 @@ X. Vigilar que los secretarios lleven al día los libros que sean necesarios a j
 
 XI. Asistir a los cursos de actualización y cumplir con los programas del Instituto de Capacitación y Especialización Judicial; y
 
-XII. Conocer de los demás asuntos que les atribuyan las leyes.
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+XII. Hacer uso de las tecnologías de la información que establezca el Consejo de la Judicatura para la tramitación de los juicios que conozcan.
+
+> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
+
+XIII. Conocer de los demás asuntos que les atribuyan las leyes.
 
 > <small>(REFORMADO, G.G. 23 DE MAYO DE 2007)</small>
 
@@ -1241,7 +1265,9 @@ I. Cumplir y hacer cumplir sin demora y con estricto apego a la ley, los acuerdo
 
 II. Dirigir el desarrollo de los procesos, presidir las audiencias de pruebas y dictar las resoluciones oportunamente;
 
-III. Diligenciar exhortos, cartas rogatorias, suplicatorias, requisitorias y despachos que envíen los jueces del Estado, de otras entidades federativas o del extranjero, que se ajusten a las leyes procesales del Estado;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+III. Diligenciar de manera física o electrónica exhortos, cartas rogatorias, suplicatorias, requisitorias y despachos que envíen los jueces del Estado, de otras entidades federativas o del extranjero, que se ajusten a las leyes procesales del Estado.
 
 IV. Rendir al Tribunal Superior de Justicia y a las autoridades correspondientes, dentro de los primeros cinco días de cada mes, los datos estadísticos de los asuntos de su competencia iniciados y concluidos;
 
@@ -1259,7 +1285,13 @@ X. Vigilar que los secretarios lleven al día los libros que sean necesarios a j
 
 XI. Asistir a los cursos de actualización y cumplir con los programas del Instituto de Capacitación y Especialización Judicial; y
 
-XII. Conocer de los demás asuntos que les atribuyan las leyes.
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+XII. Hacer uso de las tecnologías de la información que establezca el Consejo de la Judicatura para la tramitación de los juicios que conozcan.
+
+> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
+
+XIII. Conocer de los demás asuntos que les atribuyan las leyes.
 
 ###### Artículo 85.
 
@@ -1327,13 +1359,21 @@ Son obligaciones de los secretarios:
 
 I. Cumplir con el horario de labores fijado por el Consejo de la Judicatura, vigilar que sus subalternos también lo hagan y llevar el libro de asistencia para su control;
 
-II. Recibir por sí o por conducto de la oficialía de partes, los escritos o promociones que se les presenten, anotar al calce la razón del día y la hora de presentación, expresando el número de hojas que contengan los documentos que se acompañen. También deberán asentar razón idéntica en la copia, con la firma del que recibe el escrito y el sello del juzgado o tribunal, para que quede en poder del interesado;
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
+
+II. Recibir por sí, por conducto de la oficialía de partes o a través de la plataforma tecnológica que para tal efecto se habilite, los escritos o promociones que se les presenten. Para el caso de la recepción física de documentos, el secretario deberá anotar al calce la razón del día y la hora de presentación, expresando el número de hojas que contengan los documentos que se acompañen. También deberán asentar razón idéntica en la copia, con la firma del que recibe el escrito y el sello del juzgado o tribunal, para que quede en poder del interesado.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Para los supuestos en el que se realice la recepción electrónica de escritos o promociones, el Consejo de la Judicatura deberá establecer la forma en la que se realicen las actividades descritas en esta fracción.
 
 > <small>(REFORMADA, G.G. 8 DE MAYO DE 2003)</small>
 
 III. Dar cuenta diariamente dentro de las 24 horas siguientes de su recepción, al presidente del Tribunal Superior de Justicia, al presidente de la sala colegiada, al magistrado unitario, o al juez, según corresponda, con los escritos, promociones y avisos presentados por los interesados, así como con los oficios y demás documentos que se reciban y tramitar la correspondencia oficial;
 
-IV. Autorizar los despachos, exhortos, actas, diligencias y autos, así como toda clase de resoluciones dictadas por el presidente del Tribunal Superior de Justicia o del pleno, magistrados de las salas o juez, según corresponda;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+IV. Autorizar los despachos, exhortos, actas, diligencias y autos, así como toda clase de resoluciones dictadas por el presidente del Tribunal Superior de Justicia o del pleno, magistrados de las salas o juez, que se expidan de manera física o electrónica, según corresponda;
 
 V. Asentar en los expedientes puntualmente las certificaciones, constancias y demás razones que la ley o el superior ordenen:
 
@@ -1393,11 +1433,11 @@ Los ejecutores, notificadores y los demás servidores desempeñarán las labores
 
 ### CAPÍTULO OCTAVO BIS. DE LAS CENTRALES DE EJECUTORES Y NOTIFICADORES
 
-> <small>(ADICIONADO, G.G. 10 DE MAYO DE 2013)</small>
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
 
 ###### Artículo 93.
 
-1.- El Consejo de la Judicatura podrá crear centrales de ejecutores y notificadores por Distrito Judicial o en parte de éste, las que tendrán a su cargo realizar las notificaciones personales y diligencias que deban efectuarse fuera de los órganos jurisdiccionales y dentro de la competencia territorial que ejerzan estos.
+1.- El Consejo de la Judicatura podrá crear centrales de ejecutores y notificadores por Distrito Judicial o en parte de éste, las que tendrán a su cargo realizar las notificaciones personales y diligencias físicas o electrónicas que deban efectuarse fuera de los órganos jurisdiccionales y dentro de la competencia territorial que ejerzan estos.
 
 > <small>(ADICIONADO, G.G. 10 DE MAYO DE 2013)</small>
 
@@ -1627,7 +1667,9 @@ II. Realizar emplazamientos por cédula o instructivo, en lugar distinto del se�
 
 III. Llevar a cabo embargos, aseguramientos, retención de bienes o lanzamientos a personas físicas o morales que no sean las designadas en el auto respectivo o cuando en el momento de la diligencia o antes de retirarse el servidor público judicial, se le demuestre que esos bienes son ajenos;
 
-IV. Dejar de hacer con la debida oportunidad, las notificaciones personales o abstenerse de practicar las diligencias encomendadas, cuando éstas deban efectuarse fuera del tribunal o juzgado;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+IV. Dejar de hacer con la debida oportunidad, las notificaciones personales físicas o electrónicas, o abstenerse de practicar las diligencias encomendadas, cuando éstas deban efectuarse fuera del tribunal o juzgado o de manera electrónica.
 
 V. Retardar indebidamente las notificaciones, emplazamientos, embargos o diligencias de cualquier clase que les fueren encomendadas; y
 
@@ -1673,7 +1715,9 @@ VII. Incumplir las instrucciones de sus superiores jerárquicos relacionadas con
 
 El procedimiento de responsabilidad administrativa en contra de los servidores públicos del Poder Judicial, deberá iniciarse:
 
-I. Por denuncia, que en su caso se ratificará, la cual deberá constar por escrito, bajo protesta de decir verdad y estar suscrita por el denunciante, con indicación de su domicilio.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
+
+I. Por denuncia, que en su caso se ratificará, la cual deberá constar por escrito en formato físico o electrónico, bajo protesta de decir verdad y estar suscrita por el denunciante, con indicación de su domicilio o de la dirección de correo electrónico que otorgue para ser notificado.
 
 Están legitimados para formular denuncias por faltas administrativas:
 
@@ -1685,17 +1729,41 @@ b). El Ministerio Público, en los procesos en que intervenga.
 
 c) La víctima u ofendido, en los procesos penales.
 
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+La denuncia presentada en documento digital deberá realizarse a través del portal que para tal efecto habilite el Consejo de la Judicatura y deberá contener la firma electrónica avanzada o el sello electrónico del denunciante.
+
 Si falta alguno de los requisitos anteriores, la denuncia será desechada de plano.
 
 II. Por acta levantada con motivo de las visitas practicadas a las salas y a los juzgados o por hechos que se desprendan del ejercicio de la función de los servidores.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
+
 ###### Artículo 119.
 
-Toda denuncia o acta levantada en contra de algún servidor público del Poder Judicial, se presentará ante la Dirección de la Contraloría o su delegación correspondiente, la que dará cuenta dentro del término de 24 horas al presidente del Consejo de la Judicatura, quien designará a alguno de sus miembros como instructor, para que se encargue de la sustanciación del expediente respectivo, pudiendo auxiliarse, en su caso, de la Contraloría Interna. El procedimiento se instruirá en los términos siguientes:
+Las denuncias o actas levantadas en contra de algún servidor público del Poder Judicial podrán ser presentadas ante la Dirección de la Contraloría o su delegación correspondiente o a través del portal que habilite el Consejo de la Judicatura. Una vez ingresada la denuncia o el acta levantada, la Dirección de la Contraloría o su delegación correspondiente, darán cuenta al presidente del Consejo de la Judicatura, de la presentación de la denuncia o acta levantada dentro de un plazo no mayor a veinticuatro horas posteriores al ingreso del escrito. El presidente del Consejo de la Judicatura designará a alguno de sus miembros como instructor, para que se encargue de la sustanciación del expediente respectivo, pudiendo auxiliarse, en su caso, de la Contraloría Interna. El procedimiento se instruirá en los términos siguientes:
 
 I. Se iniciará con la denuncia o acta en la que se ofrecerán las pruebas respectivas;
 
-II. Se le hará saber al servidor público el contenido de la denuncia o del acta, para que dentro de los cinco días hábiles siguientes al de la notificación rinda un informe por escrito y ofrezca las pruebas que estime pertinentes;
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Si la denuncia o acta fue presentada en formato electrónico las pruebas podrán ser presentadas en documentos electrónicos. Si el encargado de la sustanciación del procedimiento tiene un motivo fundado de que los documentos electrónicos anexados pudieran ser falsos, deberán requerir al interesado para que un plazo no mayor a tres días hábiles acuda a la oficina del Tribunal que se le indique, para que se realice el cotejo de los documentos físicos con los exhibidos vía electrónica.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Si se presume que los solicitantes exhiben documentos falsos, ya sea en formatos físicos o digitales, el funcionario encargado del trámite de la queja o acta deberá dar vista al Ministerio Público correspondiente, para que en uso de sus facultades investigue si se actualiza el delito previsto en el Código Penal del Estado de México.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
+
+II. Se le hará saber al servidor público el contenido de la denuncia o del acta, para que dentro de los cinco días hábiles siguientes al de la notificación rinda un informe por escrito en formato físico o electrónico y ofrezca las pruebas que estime pertinentes.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Las pruebas podrán ser presentadas en formato físico o electrónico, si el encargado de la sustanciación del procedimiento tiene un motivo fundado de que los documentos electrónicos anexados pudieran ser falsos, deberá requerir al servidor público para que en un plazo no mayor a tres días hábiles acuda a la oficina del Tribunal que se le indique, para que se realice el cotejo de los documentos físicos con los exhibidos vía electrónica.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Si se presume que los solicitantes exhiben documentos falsos, ya sea en formatos físicos o digitales, el funcionario encargado de la queja o acta deberá dar vista al Ministerio Público correspondiente, para que en uso de sus facultades investigue si se actualiza el delito previsto en el Código Penal del Estado de México, independientemente de las sanciones administrativas que esto conlleve.
 
 III. Se citará al servidor público y al denunciante, en su caso, a una audiencia que se celebrará dentro de un plazo igual al que se refiere la fracción anterior, y en ella se les oirá y se desahogarán las pruebas tendientes a la comprobación de la falta administrativa o de la justificación de la conducta del servidor público;
 
@@ -1751,17 +1819,29 @@ La oficina estará a cargo de un jefe, quien deberá tener conocimientos en arch
 
 Se depositarán en el Archivo Judicial:
 
-> <small>(REFORMADA, G.G. 23 DE MAYO DE 2007)</small>
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-I. Todos los expedientes del orden civil, mercantil, familiar, penal y de justicia para adolescentes concluidos por los tribunales del Estado;
+I. Todos los expedientes físicos y electrónicos del orden civil, mercantil, familiar, penal y de justicia para adolescentes concluidos por los tribunales del Estado.
 
-II. Los expedientes en materia civil, mercantil o familiar en los que se haya dejado de promover por más de un año; y
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+II. Los expedientes físicos y electrónicos en materia civil, mercantil o familiar en los que se haya dejado de promover por más de un año.
 
 III. Los demás documentos que las leyes determinen.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
+
 ###### Artículo 126.
 
-Los tribunales, al remitir los expedientes para su resguardo al Archivo Judicial, además de hacer las anotaciones respectivas en el libro de gobierno, llevarán otro libro en el cual asentarán en forma de inventario, lo que contenga cada remisión. El jefe del archivo pondrá al calce de este inventario, una constancia de recibo, y dará cuenta inmediata por escrito al presidente del tribunal.
+Los tribunales, al remitir los expedientes físicos para su resguardo al Archivo Judicial, además de hacer las anotaciones respectivas en el libro de gobierno, llevarán otro libro en el cual asentarán en forma de inventario, lo que contenga cada remisión. El jefe del archivo pondrá al calce de este inventario, una constancia de recibo, y dará cuenta inmediata por escrito al presidente del tribunal.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+La remisión de los expedientes electrónicos se realizará a través de los medios que establezca el Consejo de la Judicatura y deberán estar resguardados en dispositivos electrónicos que permitan la conservación de los documentos y que cumplan con los estándares de seguridad informática emitidos por el Consejo Estatal de Gobierno Digital y por la Secretaría de Finanzas del Gobierno del Estado de México.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Los tribunales y el Archivo Judicial tendrán un libro electrónico en el que se asentarán las remisiones y el recibo de los expedientes electrónicos, respectivamente. El jefe del archivo deberá dar cuenta de inmediato de la recepción de expedientes electrónicos al presidente del tribunal por medio de un escrito electrónico en la que deberá estar insertada su Firma Electrónica Avanzada o el Sello Electrónico.
 
 ###### Artículo 127.
 
@@ -1855,11 +1935,13 @@ La tesis del Pleno del Tribunal Superior de Justicia que resuelva la contradicci
 
 La resolución que dirima la controversia no afectará por ningún motivo las situaciones jurídicas concretas definidas en juicio con anterioridad a la misma.
 
-> <small>(REFORMADO, G.G. 13 DE SEPTIEMBRE DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
 
 ###### Artículo 141.
 
-La contradicción de tesis deberá denunciarse por escrito al Presidente del Tribunal Superior de Justicia, señalándose las salas que incurren en contradicción y en qué consiste; el nombre del denunciante y su relación con el asunto. El Presidente analizará la procedencia de la denuncia y dará cuenta de ella al Pleno del Tribunal, en la siguiente sesión.
+La contradicción de tesis deberá denunciarse por escrito físico o electrónico al Presidente del Tribunal Superior de Justicia, señalándose las salas que incurren en contradicción y en qué consiste; el nombre del denunciante y su relación con el asunto. El Presidente analizará la procedencia de la denuncia y dará cuenta de ella al Pleno del Tribunal, en la siguiente sesión.
+
+> <small>(REFORMADO, P.O. 13 DE SEPTIEMBRE DE 1996)</small>
 
 La contradicción de tesis podrá ser denunciada por:
 
@@ -1872,6 +1954,10 @@ III.- Los jueces del Estado cuando después de haber dictado resolución en el a
 IV.- El Procurador General de Justicia del Estado, cuando considere que se afecta el interés de la sociedad; y
 
 V.- El Coordinador General de Compilación y Sistematización de Tesis del Tribunal Superior de Justicia.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Las denuncias que consten en escritos electrónicos deberán contener la Firma Electrónica Avanzada o el sello electrónico de la persona que suscribió el documento.
 
 > <small>(REFORMADO, G.G. 8 DE MAYO DE 2003)</small>
 
@@ -2185,9 +2271,13 @@ III. Mantener y conservar actualizados registros estadísticos de procesos por m
 
 IV. Computarizar las acciones del tribunal en áreas de personal, contabilidad, recursos materiales y otras que se requieran;
 
-V. Llevar el registro computarizado de todas aquellas actividades de apoyo al servicio de la administración de justicia, que se determine por el Consejo de la Judicatura; y
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-VI. Capturar y sistematizar la legislación y la jurisprudencia de los tribunales federales y estatales.
+V. Capturar y sistematizar la legislación y la jurisprudencia de los tribunales federales y estatales.
+
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+VI. Administrar las plataformas tecnológicas que establezca el Consejo de la Judicatura para la tramitación de los juicios que se conozcan por los juzgados y salas que componen el tribunal.
 
 ###### Artículo 167.
 
@@ -3084,3 +3174,37 @@ G.G. 18 DE DICIEMBRE DE 2014.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+G.G. 6 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 57.- POR EL QUE SE EXPIDEN LA LEY DE LA GESTIÓN PÚBLICA DIGITAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS Y LA LEY DEL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO" DEL ESTADO DE MÉXICO Y SE REFORMAN DIVERSAS DISPOSICIONES DE OTROS ORDENAMIENTOS JURÍDICOS".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno"
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta de Gobierno"
+
+TERCERO.- Para efecto de los trámites y servicios, las autoridades del Estado estarán obligados (sic) a colocar en los Portales Transaccionales, las aplicaciones necesarias, en los sitios web antes mencionados en un plazo no mayor a un año a partir del día en que entre en vigor el presente Decreto.
+
+CUARTO.- Las disposiciones legales y administrativas expedidas en la materia regulada por este Decreto, vigentes al momento de la publicación de la misma, seguirán vigentes en lo que no se opongan a ésta, hasta en tanto se expidan las que deban sustituirlas.
+
+QUINTO.- El Ejecutivo Estatal deberá presentar a consideración del Consejo durante su primera sesión, los proyectos de reglamentos, para su posterior publicación.
+
+SEXTO.- Las facultades que de conformidad con el presente Decreto deban ejercer las autoridades del Estado, las llevarán a cabo a través de los órganos que correspondan, de conformidad con el ámbito de competencia respectivo.
+
+SÉPTIMO.- Dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, se deberá instalar el Consejo Estatal de Gobierno Digital por convocatoria del Presidente de la misma.
+
+OCTAVO.- Dentro del año siguiente a la entrada en vigor de este Decreto, las autoridades del Estado deberán tener en el SEITS la totalidad de sus trámites y servicios.
+
+NOVENO.- En la primera sesión del Consejo se deberán expedir las disposiciones que deberán observar las autoridades del Estado, en el diseño y establecimiento de las medidas de seguridad y de protección de los datos personales que proporcionen las personas al efectuar trámites y servicios electrónicos, la Agenda Digital y los Estándares de Tecnologías de la información, mismos que deberán publicarse en la Gaceta del Gobierno del Estado de México.
+
+DÉCIMO.- Para que las dependencias establecidas en el artículo 66 de la Ley de Gobierno Digital del Estado de México y Municipios sean autoridades certificadoras en el Estado, se debe celebrar un convenio de colaboración entre ellas y el Gobierno del Estado, para efecto de darles tal carácter.
+
+DÉCIMO PRIMERO.- El RETyS deberá operar en observancia a lo establecido por el presente Decreto en un plazo no mayor a noventa días posteriores a la entrada en vigor del decreto.
+
+DÉCIMO SEGUNDO.- A partir de la entrada en vigor del presente Decreto, todos los trámites y servicios que prestan las autoridades del Estado podrán ser desahogados de manera electrónica, sin perjuicio de aquellos que ya se realizaban a través de esa vía.
+
+DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, queda abrogada la Ley para el Uso de los Medios Electrónicos del Estado de México publicada en el periódico oficial "Gaceta del Gobierno" el tres de septiembre de dos mil diez.
+
+DÉCIMO CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+DÉCIMO QUINTO.- Las erogaciones que deriven de la aplicación de este Decreto, deberán estar consideradas en la partida presupuestal que apruebe la Honorable Legislatura del Estado para tal efecto.
