@@ -4,7 +4,7 @@ identifier: "MEX-ley-del-notariado-del-estado-de-mexico-23258"
 country: "mx"
 rank: "ley"
 publication_date: "2002-01-03"
-last_updated: "2014-05-09"
+last_updated: "2016-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23258&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY DEL NOTARIADO DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE FEBRERO DE 2016 EN LA GACETA DEL GOBIERNO DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DEL NOTARIADO DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 9 DE MAYO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 6 DE ENERO DE 2016.
 
 Ley publicada en la Gaceta del Gobierno, el 3 de enero de 2002.
 
@@ -62,6 +64,10 @@ II. La Consejería Jurídica del Ejecutivo Estatal.
 Para los efectos del presente ordenamiento, se entiende por:
 
 I. Archivo, al Archivo General de Notarías del Estado de México;
+
+> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
+
+I Bis. Firma Electrónica Notarial: a la Firma Electrónica de un Notarlo Público, la cual se considera con igual valor jurídico que su firma autógrafa y su sello de autorizar en términos de la Ley de Gobierno Digital del Estado de México y Municipios, la presente Ley y demás disposiciones aplicables.
 
 II. Colegio, al Colegio de Notarios del Estado de México;
 
@@ -207,9 +213,9 @@ II. Otorgar depósito en efectivo ante el Colegio para integrarlo al Fondo de Ga
 
 III. Proveerse a su costa del protocolo y sello de autorizar;
 
-> <small>(REFORMADA, G.G. 25 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-IV. Registrar el sello de autorizar y su firma ante la Consejería, el Archivo y el Colegio;
+IV. Registrar el sello de autorizar, el sello electrónico, su firma autógrafa y su firma electrónica notarial, ante la Consejería, el Archivo y el Colegio.
 
 V. Establecer la notaría en el lugar de su residencia e iniciar funciones dentro de los noventa días hábiles siguientes a su protesta, dando aviso a las autoridades que señala el Reglamento, al Colegio y a la comunidad, mediante publicación a su costa en el periódico oficial "Gaceta del Gobierno" y en dos diarios de mayor circulación en el Estado de México.
 
@@ -501,33 +507,49 @@ En todos los casos anteriores, el Titular del Archivo hará constar en acta tal 
 
 ### CAPITULO SEGUNDO. DEL PROTOCOLO
 
-#### SECCION PRIMERA. DEL PROTOCOLO ORDINARIO, DEL ESPECIAL Y DEL ESPECIAL FEDERAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 6 DE ENERO DE 2016)</small>
+
+#### SECCION PRIMERA. DEL PROTOCOLO ORDINARIO, DEL ELECTRONICO, DEL ESPECIAL Y DEL ESPECIAL FEDERAL
+
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
 
 ###### Artículo 50.
 
-Protocolo es el libro o conjunto de libros que se forman con los folios separados y numerados progresivamente en los que el notario asienta y autentifica, con las formalidades de ley, los actos y hechos jurídicos otorgados ante su fe, así como los libros de cotejos y sus correspondientes apéndices e índices.
+Protocolo es el libro o conjunto de libros físicos o electrónicos que se forman con los folios físicos o electrónicos separados y numerados progresivamente en los que el notario asienta y autentifica, con las formalidades de ley, los actos y hechos jurídicos otorgados ante su fe, así como los libros de cotejos y sus correspondientes apéndices e índices.
 
-> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
+Los Protocolos pueden ser físicos o electrónicos, dependiendo del formato en el que se encuentren los folios que contengan los actos o hechos jurídicos en los que el notario haya otorgado su fe.
 
-La Consejería asentará en los folios entregados por el Colegio, en una hoja en blanco, razón que contenga el lugar y la fecha de autorización; el número de folios entregados y el volumen o volúmenes a los que correspondan; el nombre y apellidos del notario; el número de la notaría y su lugar de residencia; así como la expresión de que esos folios solamente deben ser utilizados por el notario para quien se autorizan, por su asociado o por quien legalmente lo sustituya en sus funciones.
+El protocolo electrónico es el libro o conjunto de libros en formato digital, que se forma con folios electrónicos separados y numerados progresivamente en los que el notario asienta y autentifica, con las formalidades de la ley, los actos jurídicos que fueron realizados de forma electrónica y otorgados ante su fe, así como sus correspondientes apéndices e índices
+
+Para el caso de los folios físicos, la Consejería asentará en los folios entregados por el Colegio, en una hoja en blanco, razón que contenga el lugar y la fecha de autorización; el número de folios entregados y el volumen o volúmenes a los que correspondan; el nombre y apellidos del notario; el número de la notaría y su lugar de residencia; así como la expresión de que esos folios solamente deben ser utilizados por el notario para quien se autorizan, por su asociado o por quien legalmente lo sustituya en sus funciones.
 
 La hoja en que conste esta razón deberá encuadernarse al principio de cada volumen autorizado.
 
-> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
+Para la entrega de folios electrónicos, por parte del Colegio, la Consejería deberá crear una base de datos en la que se asienten los datos establecidos en el párrafo anterior, misma que deberá ser compartida con el Colegio y el Archivo, para efecto de las autorizaciones de los folios. Para el resguardo de la base de datos, se deberán observar los lineamientos técnicos establecidos en la Ley de Gobierno Digital del Estado de México y Municipios, su Reglamento, y otras disposiciones aplicables.
 
-La Consejería comunicará al Archivo la fecha de autorización de los folios para su control correspondiente.
+La Consejería comunicará al Colegio y al Archivo la fecha de autorización de los folios físicos y/o electrónicos para su control correspondiente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
 
 ###### Artículo 51.
 
-El protocolo pertenece al Estado. Los notarios lo tendrán en custodia bajo su más estricta responsabilidad por cinco años contados a partir de la fecha de autorización del siguiente libro o juego de libros para seguir actuando.
+El protocolo pertenece al Estado. Los notarios lo tendrán en custodia bajo su más estricta responsabilidad por cinco años contados a partir de la fecha de autorización del siguiente libro o juego de libros ya sean físicos o electrónicos para seguir actuando.
 
 Transcurrido este término, remitirán los libros respectivos al Archivo, para su resguardo definitivo.
 
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Para el caso de los libros en formato electrónico, el Archivo deberá emitir los lineamientos bajo los cuales se realizará remisión de los mismos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
+
 ###### Artículo 52.
 
-El Colegio, a costa de los notarios, los proveerá de los folios necesarios para asentar los instrumentos con las siguientes características:
+El Colegio, a costa de los notarios, los proveerá de los folios físicos y electrónicos necesarios para asentar los instrumentos con las siguientes características:
 
-I. Tendrán 34 centímetros de largo por 21.5 de ancho. Se asentarán en ellos las escrituras y actas, las firmas y autorizaciones preventiva y definitiva correspondientes; y a continuación, en dichos folios se asentarán las notas complementarias en tanto exista espacio para ello. Si fuera necesario asentar alguna nota complementaria y no hubiera espacio en el folio del protocolo se asentará la mención pertinente al final de éste, y en fojas de papel común se efectuarán dichas notas complementarias que se agregarán al apéndice.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
+
+I. Tendrán 34 centímetros de largo por 21.5 de ancho. Se asentarán en ellos las escrituras y actas, las firmas autógrafas, electrónica notarial, el sello electrónico y autorizaciones preventiva y definitiva correspondientes; y a continuación, en dichos folios se asentarán las notas complementarias en tanto exista espacio para ello. Si fuera necesario asentar alguna nota complementaria y no hubiera espacio en el folio del protocolo se asentará la mención pertinente al final de éste, y en fojas de papel común se efectuarán dichas notas complementarias que se agregarán al apéndice.
 
 Los folios de protocolo tendrán a los lados un espacio en blanco de 3 centímetros en su parte interna y de 2.5 centímetros en el exterior;
 
@@ -536,6 +558,18 @@ II. Llevarán impreso en el ángulo superior derecho del anverso el número del 
 > <small>(REFORMADA, G.G. 25 DE FEBRERO DE 2013)</small>
 
 III. Serán autorizados cada uno por la Consejería.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+El protocolo electrónico tendrá las mismas características de forma que el protocolo físico, formándose por ciento cincuenta folios electrónicos que conservarán en la medida de lo posible las características de su contraparte física.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Asentando las firmas electrónicas de las partes y del notario que autoriza o de quien legalmente lo sustituya.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Se tendrá por autorizados los protocolos electrónicos cuando en él se encuentre la Firma Electrónica Avanzada y el sello electrónico de la autoridad.
 
 ###### Artículo 53.
 
@@ -553,9 +587,19 @@ El notario no podrá autorizar acto alguno sin que lo haga constar en los folios
 
 Al iniciar la formación de un libro, el Notario asentará en una hoja en blanco, una razón con su sello y firma, la que deberá encuadernarse después de la autorización de la Consejería, en la que hará constar la fecha en que se inicia, el número que le corresponda y la mención de que el libro se formará con las escrituras y actas notariales autorizadas por el notario o por quien legalmente lo sustituya.
 
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Tratándose del protocolo electrónico la autorización de su actuación debe aparecer al principio de cada libro electrónico con las mismas características del protocolo físico, junto con las firmas electrónicas avanzadas y sello electrónico de la autoridad.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
+
 ###### Artículo 55.
 
-Cuando con posterioridad a la iniciación de un libro haya cambio de notario, el que lo sustituya asentará a continuación de la clausura extraordinaria o bien, después del último instrumento extendido, con su sello y firma, una razón en ese sentido con su nombre y apellidos. Igual requisito se observará cuando se inicie una asociación o cuando un notario suplente, provisional o interino empiece o termine de actuar.
+Cuando con posterioridad a la iniciación de un libro haya cambio de notario, el que lo sustituya asentará a continuación de la clausura extraordinaria o bien, despues del último instrumento extendido, una razón en ese sentido con su nombre y apellidos, debiendo constar con su sello y su firma autógrafa o electrónica notarial. Igual requisito se observará cuando se inicie una asociación o cuando un notario suplente, provisional o interino empiece o termine de actuar.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+En el protocolo electrónico la clausura extraordinaria se llevará a cabo en un folio electrónico donde se asentará la representación de la Consejería, la fecha, el número que le corresponda y la mención de que el libro se formará con las escrituras y actas notariales autorizadas por el notario o por quien legalmente le sustituye.
 
 ###### Artículo 56.
 
@@ -565,13 +609,21 @@ Antes de usar un folio, se pondrá el sello del notario o los de los notarios as
 
 Todo instrumento se iniciará al principio del anverso del folio, utilizándose, a elección del notario, los procedimientos más eficientes de impresión, siempre que ésta resulte indeleble, legible y nítida, debiendo utilizar los folios por ambas caras.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
+
 ###### Artículo 58.
 
-Los instrumentos, incluyendo los que contengan la razón de "NO PASO", se ordenarán y protegerán por el notario provisionalmente en carpetas seguras. Cuando el notario tenga su protocolo en varios volúmenes, al llegar al último folio de cualquiera de los volúmenes en uso, dejará de usar el juego completo y se inutilizarán los folios en blanco. El notario encuadernará los folios que integren los volúmenes de su protocolo, disponiendo de un máximo de tres meses para ello, a partir de la fecha de clausura ordinaria.
+Los instrumentos, incluyendo los que contengan la razón de "NO PASO", se ordenarán y protegerán por el notario provisionalmente en carpetas seguras. Cuando el notario tenga su protocolo en varios volúmenes, al llegar al último folio de cualquiera de los volúmenes en uso, dejará de usar el juego completo y se inutilizarán los folios en blanco. El notario encuadernará los folios físicos u ordenará los electrónicos, que integren los volúmenes de su protocolo, disponiendo de un máximo de tres meses para ello, a partir de la fecha de clausura ordinaria.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Los libros electrónicos que conformarán el protocolo electrónico deberán ser resguardados por el notario en duplicado de manera ordenada, siguiendo el procedimiento señalado en el Reglamento de la presente Ley.
+
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
 
 ###### Artículo 59.
 
-Cuando un folio o solamente el anverso o su reverso resulten inutilizados, la impresión del texto del instrumento se continuará correctamente en el folio o en el anverso o reverso siguiente utilizable, según el caso. El folio inutilizado total o parcialmente deberá conservarse en el sitio que le corresponda, y el notario asentará al final del texto de la escritura la mención de haber sido inutilizado el folio o el anverso o reverso correspondientes, y se cruzará todo el espacio en caracteres grandes con la leyenda "ESTA PAGINA NO VALE" y la firma del notario.
+Cuando un folio o solamente el anverso o su reverso resulten inutilizados, la impresión del texto del instrumento se continuará correctamente en el folio o en el anverso o reverso siguiente utilizable, según el caso. El folio inutilizado total o parcialmente deberá conservarse en el sitio que le corresponda, y el notario asentará al final del texto de la escritura la mención de haber sido inutilizado el folio o el anverso o reverso correspondientes y se cruzará todo el espacio en caracteres grandes con la leyenda "ESTA PAGINA NO VALE" y la firma autógrafa o electrónica del notario.
 
 ###### Artículo 60.
 
@@ -596,6 +648,10 @@ El notario agregará al apéndice copia certificada de las resoluciones que por 
 ###### Artículo 63.
 
 Los documentos del apéndice no podrán desglosarse y se entregarán debidamente encuadernados al Archivo cuando se remita el libro de protocolo al que correspondan.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Por lo que hace a los archivos que comprende el apéndice digital, estos se entregarán ordenados en un archivo digital anexo, que se resguardará en el mismo medio electrónico diseñado para tal fin.
 
 ###### Artículo 64.
 
@@ -673,6 +729,10 @@ Cuando el notario considere que ya no puede dar cabida a otro instrumento más e
 
 La razón se asentará en hoja en blanco que se encuadernará al final del volumen y será autorizada con su firma y sello, además se inutilizarán por medio de líneas diagonales los folios en blanco.
 
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+En los libros electrónicos la razón de cierre se hará en un folio electrónico con las mismas características que su contraparte física.
+
 > <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 74.
@@ -697,9 +757,11 @@ El notario que reciba una notaría cuyo titular deje de actuar por cualquiera de
 
 ### CAPITULO PRIMERO. DE LAS ESCRITURAS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
+
 ###### Artículo 78.
 
-Escritura es el instrumento original que el notario asienta en el protocolo para hacer constar uno o más actos jurídicos, autorizado con su firma y sello.
+Escritura es el instrumento original que el notario asienta en el protocolo físico o electrónico para hacer constar uno o más actos jurídicos, autorizados con firma autógrafa o electrónica y sello.
 
 Se entenderá también como escritura el acta que contenga un extracto con los elementos personales y materiales del documento en que se consigne un contrato o actos jurídicos, siempre que esté firmada en cada una de sus hojas por quienes en el intervengan y por el notario, quien además pondrá el sello, señalará el número de hojas de que se compone, así como la relación completa de sus anexos que se agregarán al apéndice y reúna los demás requisitos que señala este capítulo.
 
@@ -799,6 +861,14 @@ Firmada la escritura por los otorgantes y demás comparecientes, para lo cual de
 
 Cuando la escritura no sea firmada en el mismo acto por todos los comparecientes, siempre que no se deba firmar en un solo acto por su naturaleza o por disposición legal, el notario irá asentando el "ANTE MI" con su firma, a medida que sea firmada por las partes, expresando la fecha en cada caso; y cuando todos la hayan firmado, imprimirá además su sello, con lo cual quedará autorizada preventivamente, o en su caso, definitivamente.
 
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+En los actos jurídicos realizados por medios electrónicos, el notario la autorizará de forma preventiva con la razón ANTE MI y su firma electrónica notarial.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+El notario no podrá autorizar de manera parcial los actos realizados de forma electrónica.
+
 ###### Artículo 87.
 
 Las escrituras asentadas por un notario podrán ser firmadas y autorizadas por otro notario que legalmente lo supla o sustituya, siempre que se cumpla lo siguiente:
@@ -811,7 +881,9 @@ II. El notario que lo supla o sustituya, exprese el motivo de su intervención y
 
 El notario deberá autorizar definitivamente la escritura cuando estén pagados los impuestos que causó el acto y cumplidos aquellos requisitos que conforme a las leyes sean necesarios para la autorización de la misma.
 
-La autorización definitiva se pondrá al pie de la escritura, inmediatamente después de la autorización preventiva, y contendrá el lugar y la fecha en que se haga, así como la firma y sello del notario.
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
+La autorización definitiva se pondrá al pie de la escritura, inmediatamente después de la autorización preventiva, y contendrá el lugar y la fecha en que se haga, así como la firma autógrafa o electrónica notarial y sello electrónico, en su caso.
 
 Esta autorización podrá ser suscrita por el notario que actúe en ese momento o, en su caso, por el titular del Archivo.
 
@@ -825,13 +897,23 @@ Los notarios se abstendrán de autorizar cualquier escritura, si ésta no es fir
 
 Transcurridos los términos señalados, la escritura sin autorizar quedará sin efecto, y el notario pondrá al final del texto la razón de "NO PASO" e imprimirá su sello y firma.
 
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+En el caso de actos jurídicos electrónicos el notario se abstendrá de autorizarlos si no son firmados electrónicamente de forma inmediata por los otorgantes.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+La escritura sin autorizar quedará sin efecto, y el notario pondrá al final del texto la razón de "NO PASÓ'', su firma electrónica notarial y sello electrónico.
+
 ###### Artículo 91.
 
 Si la escritura contiene varios actos jurídicos y dentro del término que para cada caso establece el artículo anterior, se firma por los otorgantes uno o varios de dichos actos y deja de firmarse por los otorgantes de otro u otros actos, el notario pondrá la razón de autorización preventiva en lo concerniente a los actos cuyos otorgantes firmaron, e inmediatamente después asentará en nota complementaria la certificación de "NO PASO", sólo respecto al acto no firmado, el cual quedará sin efecto.
 
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
 ###### Artículo 92.
 
-Todas las razones y anotaciones complementarias de una escritura o acta serán rubricadas por el notario y numeradas ordinalmente.
+Todas las razones y anotaciones complementarias de una escritura o acta serán rubricadas autógrafa o electrónicamente por el notario y numeradas ordinalmente.
 
 ###### Artículo 93.
 
@@ -955,21 +1037,43 @@ En las actas de protocolización de documentos o de diligencias jurisdiccionales
 
 Testimonio es la copia auténtica en la que el notario, bajo su firma y sello, reproduce el texto de la escritura o acta y sus documentos anexos.
 
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Se entiende por testimonio al documento físico o electrónico, en el cual obra una copia física o electrónica de la escritura que obra en el protocolo físico o electrónico del notario y que se encuentren firmados.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
+
 ###### Artículo 110.
 
-El notario por cualquier medio de reproducción o impresión indeleble, podrá expedir testimonios de conformidad con las disposiciones previstas para tal efecto en el Reglamento.
+El notario por cualquier medio de reproducción, tecnología de información o impresión indeleble, podrá expedir testimonios de conformidad con las disposiciones previstas para tal efecto en el Reglamento.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Para que un testimonio expedido a través de cualquier tecnología de información sea válido, se requiere que contenga la firma electrónica notarial.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
 
 ###### Artículo 111.
 
-Copia certificada es la reproducción que de una escritura, un acta, sus documentos de apéndices o bien, de los documentos presentados por los interesados, expida un notario o el titular del Archivo, en su caso.
+Copia certificada es la reproducción establecida en formato físico o electrónico que de una escritura, un acta, sus documentos de apéndices o bien, de los documentos presentados por los interesados, expida un notario o el titular del Archivo, en su caso.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Para que las copias certificadas expedidas a través de formatos electrónicos sean válidas, se necesita que contenga la firma electrónica notarial que las expidió.
 
 ###### Artículo 112.
 
 El notario podrá expedir copias certificadas de las escrituras o actas, a solicitud de las autoridades competentes, a petición de los otorgantes o para efectos de trámites administrativos y fiscales.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
+
 ###### Artículo 113.
 
-Certificación notarial es la razón en la que el notario hace constar un acto o hecho que obra en su protocolo, en un documento que él mismo expide o en un documento preexistente, también lo será la afirmación de que una transcripción o reproducción coincide fielmente con su original.
+Certificación notarial es la razón en la que el notario hace constar un acto o hecho que obra en su protocolo, en un documento físico o electrónico que él mismo expide o en un documento preexistente, también lo será la afirmación de que una transcripción o reproducción coincide fielmente con su original.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Para que una certificación notarial expedida en documento digital sea válida, se necesita que contenga la firma electrónica notarial que la expidió.
 
 ### CAPITULO CUARTO. DEL VALOR JURIDICO DE LOS DOCUMENTOS NOTARIALES, SUS EFECTOS Y NULIDAD
 
@@ -997,9 +1101,13 @@ III. Si son autorizadas por el notario fuera del territorio del Estado de Méxic
 
 IV. Si han sido redactadas en idioma distinto al español;
 
-V. Si están autorizadas con la firma y sello del notario, cuando deban contener razón de "NO PASO" por no estar firmadas por todos los que debieron hacerlo;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-VI. Cuando no estén autorizadas con la firma y sello del notario;
+V. Si están autorizadas con la firma autógrafa o electrónica notarial y sello del notario, cuando deban contener razón de "NO PASO" por no estar firmadas por todos los que debieron hacerlo;
+
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+VI. Cuando no estén autorizadas con la firma autógrafa o electrónica notarial y sello del notario;
 
 VII. Si el notario no constató la identidad de los otorgantes;
 
@@ -1027,7 +1135,9 @@ I. Cuando la escritura o acta sea declarada nula;
 
 II. Si el notario no se encuentra en ejercicio de sus funciones o los autoriza fuera del territorio del Estado de México;
 
-III. Cuando no estén autorizados con la firma y sello del notario;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+III. Cuando no estén autorizados con la firma autógrafa o electrónica notarial y sello del notario.
 
 IV. Si carece de algún requisito que produzca la nulidad por disposición expresa de la ley.
 
@@ -1097,11 +1207,11 @@ El Colegio coordinará a los notarios que desempeñen la función de arbitro o m
 
 ### CAPITULO PRIMERO. DEL ARCHIVO GENERAL DE NOTARIAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 25 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
 
 ###### Artículo 131.
 
-El Archivo tiene a su cargo la custodia, conservación y reproducción de los documentos contenidos en los protocolos y sus apéndices, así como la guarda de los sellos y demás documentos que en él se depositen; dependerá de la Consejería y tendrá su sede en la capital del Estado, pudiendo establecer oficinas regionales de acuerdo a las necesidades del servicio.
+El Archivo tiene a su cargo la custodia, conservación y reproducción de los documentos físicos o electrónicos contenidos en los protocolos y sus apéndices, así como la guarda de los sellos y demás documentos que en él se depositen; dependerá de la Consejería y tendrá su sede en la capital del Estado, pudiendo establecer oficinas regionales de acuerdo a las necesidades del servicio.
 
 El Archivo conservará el patrimonio histórico contenido en los protocolos notariales.
 
@@ -1109,15 +1219,19 @@ El Archivo conservará el patrimonio histórico contenido en los protocolos nota
 
 El Archivo se formará:
 
-I. Con los protocolos y documentos que los notarios remitan para su depósito, conforme a las disposiciones de esta Ley y su Reglamento;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+I. Con los protocolos y documentos físicos o electrónicos que los notarios remitan para su depósito, conforme a las disposiciones de esta Ley y su Reglamento.
 
 II. Con los sellos de los notarios que deban conservarse en depósito;
 
 III. Con los demás documentos propios del Archivo.
 
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
 ###### Artículo 133.
 
-El Archivo es público respecto de los documentos que lo integran con más de cincuenta años de antigüedad, y de ellos se expedirán testimonios o copias certificadas a las personas que lo soliciten, previo pago de los derechos correspondientes, exceptuando aquéllos documentos sobre los que la ley imponga limitación o prohibición. De los documentos que no tengan esa antigüedad, sólo podrán mostrarse o expedirse reproducciones a las personas que acrediten tener interés jurídico, a los notarios o las autoridades judiciales, administrativas o fiscales.
+El Archivo es público respecto de los documentos que lo integran con más de cincuenta años de antigüedad, y de ellos se expedirán testimonios o copias certificadas en formato físico o electrónico, a las personas que lo soliciten, previo pago de los derechos correspondientes, exceptuando aquéllos documentos sobra los que la ley imponga limitación o prohibición. De los documentos que no tengan esa antigüedad, sólo podrán mostrarse o expedirse reproducciones a las personas que acrediten tener interés jurídico, a los notarios o las autoridades judiciales, administrativas o fiscales.
 
 ###### Artículo 134.
 
@@ -1133,9 +1247,13 @@ IV. Estudiar y proponer técnicas de conservación y métodos para el respaldo d
 
 V. Vigilar y requerir el exacto cumplimiento por parte de los notarios de la entrega de protocolos, una vez transcurrido el plazo señalado en esta Ley;
 
-VI. Expedir testimonios, copias simples o certificadas de las actas o escrituras contenidas en los protocolos y sus apéndices que obren en el Archivo, a petición de los notarios o de las personas que acrediten su interés jurídico o cuando así lo ordene la autoridad competente;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-VII. Autorizar definitivamente las escrituras con su firma y sello, cubriendo los requisitos previos o posteriores a aquélla;
+VI. Expedir testimonios, copias simples o certificadas de las actas o escrituras contenidas en los protocolos y sus apéndices que obren en el Archivo, a petición de los notarios o de las personas que acrediten su interés jurídico o cuando así lo ordene la autoridad competente. Los testimonios, copias simples o certificadas y escrituras que se emitan a través de documentos electrónicos, deberán contener la firma electrónica avanzada y el sello electrónico del titular del Archivo.
+
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+VII. Autorizar definitivamente las escrituras con su firma autógrafa o firma electrónica avanzada y el sello correspondiente cubriendo los requisitos previos o posteriores a aquella.
 
 VIII. Llevar un registro de los testamentos que se otorguen ante notario, de los cuales hayan dado aviso en cumplimiento del artículo 95 de esta Ley, e informar de su existencia a las autoridades judiciales o notarios que lo soliciten;
 
@@ -1151,9 +1269,13 @@ XII. Integrar expedientes de las notarías y de los notarios en lo que correspon
 
 XIII. Informar a la Consejería las irregularidades en los protocolos que entreguen los Notarios;
 
-> <small>(REFORMADA, G.G. 25 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-XIV. Las demás que señale esta Ley, su Reglamento, otros ordenamientos legales y las que le confiera la Consejería.
+XIV. Implementar las políticas y lineamientos técnicos que establezca el Consejo Estatal de Gobierno Digital.
+
+> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
+
+XV. Las demás que señale esta Ley, su Reglamento, otros ordenamientos legales y las que le confiera la Consejería.
 
 ### CAPITULO SEGUNDO. DEL COLEGIO DE NOTARIOS
 
@@ -1185,7 +1307,9 @@ VII. Proponer modificaciones a las disposiciones relacionadas con la Institució
 
 VIII. Expedir su Reglamento Interno, el cual deberá publicarse en el periódico oficial "Gaceta del Gobierno";
 
-IX. Proveer a los notarios de los folios para el protocolo ordinario, especial, especial federal y para el libro de cotejos y de los elementos que se puedan utilizar como medidas de seguridad en los documentos notariales;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+IX. Proveer a los notarios de los folios para el protocolo ordinario, electrónico, especial, especial federal y para el libro de cotejos y de los elementos que se puedan utilizar como medidas de seguridad en los documentos notariales.
 
 X. Administrar y operar el Fondo de Garantía del Notariado del Estado;
 
@@ -1451,7 +1575,9 @@ a). Haber recibido el monto de impuestos o derechos causados por la operación c
 
 Para los efectos de la presente disposición se entenderá que el notario ha incurrido en falta de probidad, si los montos citados no son pagados a más tardar ciento ochenta días después del término que por ley corresponda para ser enterados, sin que medie justificación legal alguna.
 
-b). Permitir la suplantación de su persona o el uso por un tercero de su sello de autorizar o su firma.
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
+b). Permitir la suplantación de su persona o el uso por un tercero de su sello de autorizar o su firma autógrafa o electrónica notarial.
 
 > <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
 
@@ -1500,6 +1626,14 @@ V. Al que siendo notario de otra entidad, introduzca al territorio del Estado po
 ###### Artículo 160.
 
 Se aplicará la pena que corresponda al delito de falso testimonio previsto en el Código Penal, a quien haga declaraciones falsas que consten en instrumento público otorgado ante notario del Estado de México.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+###### Artículo 160 Bis.
+
+Si las personas interesadas en la contratación de los servicios de un notario público del Estado de México hacen entrega de documentos físicos o electrónicos, que éste presuma como falsos, deberá requerir a la persona que entregó dichos documentos para que se haga un cotejo de los mismos, con los instrumentos originales o con aquellas constancias que le hayan dado origen a dicho documento.
+
+Si el notario se cerciora que los solicitantes otorgaron documentos falsos, ya sea en formatos físicos o electrónicos, el notario deberá dar vista al Ministerio Público para los efectos conducentes.
 
 ## TITULO SEPTIMO. DEL ARANCEL DE LOS NOTARIOS
 
@@ -1588,3 +1722,37 @@ TERCERO.- Se derogan las disposiciones de igual o menor jerarquía que se oponga
 CUARTO.- El colegio cumplirá con todos los requisitos que establezca la normatividad vigente en la materia.
 
 QUINTO.- Los productos, rendimientos e intereses generados por el Fondo de Garantía del Notariado, en el período comprendido del 4 de marzo de 2002, a la entrada en vigor de este Decreto, se aplicarán al cumplimiento de las atribuciones del Colegio de Notarios del Estado de México, sobre todo a aquellas destinadas a la superación profesional de sus miembros, previa aprobación de la Asamblea General de Colegiados.
+
+G.G. 6 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 57.- POR EL QUE SE EXPIDEN LA LEY DE LA GESTIÓN PÚBLICA DIGITAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS Y LA LEY DEL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO" DEL ESTADO DE MÉXICO Y SE REFORMAN DIVERSAS DISPOSICIONES DE OTROS ORDENAMIENTOS JURÍDICOS”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno"
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”
+
+TERCERO.- Para efecto de los trámites y servicios, las autoridades del Estado estarán obligados a colocar en los Portales Transaccionales, las aplicaciones necesarias, en los sitios web antes mencionados en un plazo no mayor a un año a partir del día en que entre en vigor el presente Decreto.
+
+CUARTO.- Las disposiciones legales y administrativas expedidas en la materia regulada por este Decreto, vigentes al momento de la publicación de la misma, seguirán vigentes en lo que no se opongan a ésta, hasta en tanto se expidan las que deban sustituirlas.
+
+QUINTO.- El Ejecutivo Estatal deberá presentar a consideración del Consejo durante su primera sesión, los proyectos de reglamentos para su posterior publicación.
+
+SEXTO.- Las facultades que de conformidad con el presente Decreto deban ejercer las autoridades del Estado, las llevarán a cabo a través de los órganos que correspondan, de conformidad con el ámbito de competencia respectivo.
+
+SÉPTIMO.- Dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, se deberá instalar el Consejo Estatal de Gobierno Digital por convocatoria del Presidente de la misma.
+
+OCTAVO.- Dentro del año siguiente a la entrada en vigor de este Decreto, las autoridades del Estado deberán tener en el SEITS la totalidad de sus trámites y servicios.
+
+NOVENO.- En la primera sesión del Consejo se deberán expedir las disposiciones que deberán observar las autoridades del Estado, en el diseño y establecimiento de las medidas de seguridad y de protección de los datos personales que proporcionen las personas al efectuar trámites y servicios electrónicos, la Agenda Digital y los Estándares de Tecnologías de la Información, mismos que deberán publicarse en la Gaceta del Gobierno del Estado de México.
+
+DÉCIMO.- Para que las dependencias establecidas en el artículo 66 de la Ley de Gobierno Digital del Estado de México y Municipios sean autoridades certificadoras en el Estado, se debe celebrar un convenio de colaboración entre ellas y el Gobierno del Estado, para efecto de darles tal carácter.
+
+DÉCIMO PRIMERO.- El RETyS deberá operar en observancia a lo establecido por el presente Decreto, en un plazo no mayor a noventa días posteriores a la entrada en vigor del decreto.
+
+DÉCIMO SEGUNDO.- A partir de la entrada en vigor del presente Decreto, todos los trámites y servicios que prestan las autoridades del Estado podrán ser desahogados de manera electrónica, sin perjuicio de aquellos que ya se realizaban a través de esa vía.
+
+DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, queda abrogada la Ley para el Uso de los Medios Electrónicos del Estado de México publicada en el periódico oficial “Gaceta del Gobierno” el tres de septiembre de dos mil diez.
+
+DÉCIMO CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+DÉCIMO QUINTO.- Las erogaciones que deriven de la aplicación de este Decreto, deberán estar consideradas en la partida presupuestal que apruebe la Honorable Legislatura del Estado para tal efecto.
