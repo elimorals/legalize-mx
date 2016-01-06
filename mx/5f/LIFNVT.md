@@ -4,7 +4,7 @@ identifier: "LIFNVT"
 country: "mx"
 rank: "ley"
 publication_date: "1972-04-24"
-last_updated: "2015-06-04"
+last_updated: "2016-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=534&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LIFNVT"
 
 LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE ENERO DE 2016.
 
 Ley publicada en el Diario Oficial de la Federación, el lunes 24 de abril de 1972.
 
@@ -646,9 +646,11 @@ IV.- Proporcionar al Instituto los elementos necesarios para precisar la existen
 
 V.- Permitir las inspecciones y visitas domiciliarias que practique el Instituto, las que se sujetarán a lo establecido por esta Ley, el Código Fiscal de la Federación y sus disposiciones reglamentarias. A efecto de evitar duplicidad de acciones, el Instituto podrá convenir con el Instituto Mexicano del Seguro Social la coordinación de estas acciones fiscales;
 
-> <small>(ADICIONADA, D.O.F. 6 DE ENERO DE 1997)</small>
+> <small>(REFORMADA, D.O.F. 6 DE ENERO DE 2016)</small>
 
-VI.- Atender los requerimientos de pago e información que les formule el Instituto, de conformidad con las disposiciones legales y reglamentarias correspondientes;
+VI.- Atender los requerimientos de pago e información que les formule el Instituto a través de cualquier medio, incluyendo los electrónicos, que el Instituto ponga a su alcance, de conformidad con las disposiciones legales y reglamentarias correspondientes.
+
+A los medios electrónicos a los que se refiere el párrafo anterior le será aplicable, en lo conducente, lo dispuesto en el Código Fiscal de la Federación;
 
 > <small>(ADICIONADA, D.O.F. 6 DE ENERO DE 1997)</small>
 
@@ -697,6 +699,26 @@ II. Del contrato: Objeto; periodo de vigencia; perfiles, puestos o categorías i
 El patrón contratista incorporará por cada uno de sus trabajadores, el nombre del beneficiario de los servicios o trabajos contratados en el sistema de cómputo autorizado por el Instituto.
 
 Cuando el patrón contratista se obligue a poner a disposición del beneficiario, trabajadores para prestar los servicios o ejecutar los trabajos en varios centros de trabajo ubicados en la circunscripción territorial de más de una delegación recaudadora del Instituto, el patrón y el beneficiario deberán comunicar la información a que se refiere el quinto párrafo de este artículo, únicamente ante la delegación de recaudación dentro de cuya circunscripción se ubique su respectivo domicilio fiscal.
+
+> <small>(ADICIONADO, D.O.F. 6 DE ENERO DE 2016)</small>
+
+###### ARTICULO 29 Ter.
+
+Los patrones podrán presentar solicitudes o promociones al Instituto, por escrito o a través de cualquier medio electrónico. El Reglamento de inscripción, Pago de Aportaciones y Entero de Descuentos al Instituto del Fondo Nacional de la Vivienda para los Trabajadores establecerá los requisitos para efectuar las promociones por medios electrónicos.
+
+En materia de promociones y notificaciones a través de medios electrónicos, serán aplicables las disposiciones del Código Fiscal de la Federación, en lo que no se opongan a la presente Ley.
+
+> <small>(ADICIONADO, D.O.F. 6 DE ENERO DE 2016)</small>
+
+###### ARTICULO 29 Quáter.
+
+El Instituto utilizará medios electrónicos para el cumplimiento de su objeto y podrá tener el carácter de autoridad certificadora, en términos de lo dispuesto por la Ley de Firma Electrónica Avanzada, para emitir certificados digitales a efecto de aplicar el uso de firma electrónica avanzada en las formas y procedimientos a su cargo.
+
+Las disposiciones del Código Fiscal de la Federación en materia de medios electrónicos serán aplicables a las contribuciones administradas por el Instituto como organismo fiscal autónomo, mismo que actuará como autoridad certificadora y proporcionará los servicios de certificación de firmas electrónicas avanzadas en tal contexto.
+
+El Instituto podrá reconocer el uso de los certificados digitales emitidos por otras autoridades certificadoras en el ámbito de la competencia a que se refiere esta Ley, surtiendo los mismos efectos jurídicos.
+
+El Consejo de Administración del Instituto, en términos de lo dispuesto por el Código Fiscal de la Federación, o en su caso, la Ley de Firma Electrónica Avanzada, aprobará la normatividad en materia de uso de medios electrónicos, mensajes de datos, firma electrónica avanzada, así como esquemas de almacenamiento electrónico, misma que deberá publicarse en el Diario Oficial de la Federación.
 
 > <small>(REFORMADO, D.O.F. 30 DE DICIEMBRE DE 1983)</small>
 
@@ -810,11 +832,13 @@ Tratándose de los trabajadores que reciban crédito de vivienda por parte del I
 
 Al terminarse la relación laboral, el patrón deberá entregar al trabajador una constancia de la clave de su registro.
 
-> <small>(REFORMADO, D.O.F. 6 DE ENERO DE 1997)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE ENERO DE 2016)</small>
 
 ###### ARTICULO 35.
 
-El pago de las aportaciones y descuentos señalados en el artículo 29 será por mensualidades vencidas, a más tardar los días diecisiete del mes inmediato siguiente.
+El pago de las aportaciones y descuentos señalados en el artículo 29, será por mensualidades vencidas, a más tardar los días diecisiete del mes inmediato siguiente, a través de los formularios electrónicos o impresos que determine el Instituto.
+
+> <small>(REFORMADO, D.O.F. 6 DE ENERO DE 1997)</small>
 
 El Instituto podrá emitir y notificar liquidaciones para el cobro de las aportaciones y descuentos a que se refiere el artículo 29. Estas liquidaciones podrán ser emitidas y notificadas por el Instituto Mexicano del Seguro Social conjuntamente con las liquidaciones del seguro de retiro, cesantía en edad avanzada y vejez, previo convenio de coordinación entre ambas instituciones.
 
@@ -1569,3 +1593,9 @@ Segundo. A partir de la publicación de este ordenamiento, el Instituto del Fond
 D.O.F. 4 DE JUNIO DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 6 DE ENERO DE 2016.
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo. El Instituto del Fondo Nacional de la Vivienda para los Trabajadores dentro de los 180 días siguientes a partir de la entrada en vigor del presente Decreto, expedirá las reformas y adiciones correspondientes relativas a las disposiciones materia de este Decreto.
