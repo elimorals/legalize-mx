@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2015-12-09"
+last_updated: "2016-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # CODIGO CIVIL DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE FEBRERO DE 2016 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 9 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ENERO DE 2016.
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -4173,9 +4175,11 @@ Valor máximo del patrimonio familiar
 
 Requisitos para constituir patrimonio familiar
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
+
 ###### Artículo 4.
 
-383.- La persona que quiera constituir un patrimonio familiar, lo manifestará por escrito al Juez de la ubicación del inmueble, precisando las características del mismo, y comprobando:
+383.- La persona que quiera constituir un patrimonio familiar, lo manifestará por escrito en documento físico o en su caso electrónico al Juez de la ubicación del inmueble precisando las características del mismo y comprobando:
 
 I. Que es mayor de edad o emancipado;
 
@@ -4184,6 +4188,10 @@ II. La existencia de la familia a cuyo favor se va a constituir el patrimonio;
 III. Que son propiedad del constituyente los bienes destinados al patrimonio, y que no reportan gravámenes fuera de las servidumbres;
 
 IV. Que el valor de los bienes que van a constituir el patrimonio no excede del fijado en la ley.
+
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Uso de medios electrónicos
 
 Constitución del patrimonio familiar
 
@@ -8697,6 +8705,14 @@ Concepto de contrato
 
 31.- Los convenios que crean o transfieren obligaciones y derechos, reciben el nombre de contratos.
 
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Concepto de contrato
+
+###### Artículo 7.
+
+31 Bis.- Todo convenio o contrato que se encuentre regulado en el presente Código, podrá realizarse a través de medios electrónicos y deberá constar en documentos electrónicos.
+
 Consensualismo en los contratos
 
 ###### Artículo 7.
@@ -8741,29 +8757,31 @@ Invocación infundada de acontecimientos extraordinarios
 
 37.- Aquél que de manera infundada invoque acontecimientos extraordinarios con el único propósito de incumplir obligaciones convenidas, deberá pagar a su contraparte un treinta por ciento más de lo que pretendía nulificar o reducir.
 
+### CAPITULO IV. Del Consentimiento
+
+Clases de consentimiento
+
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
 ###### Artículo 7.
 
 38.- Son hábiles para contratar todas las personas no exceptuadas por la ley.
 
 Legitimación para hacer valer la incapacidad
 
-### CAPITULO IV. Del Consentimiento
-
-Clases de consentimiento
-
 ###### Artículo 7.
 
 39.- La incapacidad de una de las partes no puede ser invocada por la otra en provecho propio, salvo que sea indivisible el objeto del derecho o de la obligación común.
+
+### CAPITULO V. Vicios del Consentimiento
+
+Vicios del consentimiento
 
 ###### Artículo 7.
 
 40.- El capaz para contratar, puede hacerlo por sí o por medio de otro legalmente autorizado.
 
 Autorización para contratar a nombre de otro
-
-### CAPITULO V. Vicios del Consentimiento
-
-Vicios del consentimiento
 
 ###### Artículo 7.
 
@@ -8777,15 +8795,15 @@ Ratificación de contratos celebrados por quien no es representante
 
 Si no se obtiene la ratificación, el otro contratante tendrá derecho de exigir daños y perjuicios a quien indebidamente contrató.
 
-###### Artículo 7.
-
-43.- El consentimiento puede ser expreso o tácito. Es expreso cuando se manifiesta verbalmente, por escrito o por signos inequívocos. El tácito resultará de hechos o de actos que lo presupongan o que autoricen a presumirlo, excepto en los casos en que por ley o por convenio la voluntad deba manifestarse expresamente.
-
-Oferta sujeta a plazo
-
 ### CAPITULO VI. Del Objeto, Motivo o Fin de los Contratos
 
 Objeto de los contratos
+
+###### Artículo 7.
+
+43.- El consentimiento puede ser expreso o tácito. Es expreso cuando se manifiesta verbalmente, por escrito en documentos físicos, electrónicos o por signos inequívocos. El tácito resultará de hechos o de actos que lo presupongan o que autoricen a presumirlo, excepto en los casos en que por ley o por convenio la voluntad deba manifestarse expresamente.
+
+Oferta sujeta a plazo
 
 ###### Artículo 7.
 
@@ -8829,19 +8847,21 @@ Modificación a la oferta
 
 Oferta y aceptación por telégrafo u otro medio
 
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
 ###### Artículo 7.
 
-51.- La propuesta y aceptación hechas por telégrafo, fax o medio electrónico, producen efectos si los contratantes con anterioridad habían estipulado por escrito esta manera de contratar, y si los originales de los respectivos telegramas, fax o medio electrónico contienen las firmas autógrafas de los contratantes y los signos convencionales establecidos entre ellos.
+51.- La propuesta y aceptación hechas por telégrafo, fax o cualquier medio electrónico producen efectos si los contratantes con anterioridad habían estipulado por escrito esta manera de contratar, y si los originales de los respectivos telegramas, fax o documentos electrónicos contienen las firmas autógrafas, electrónicas avanzadas o los sellos electrónicos de los contratantes y los signos convencionales establecidos entre ellos.
+
+### CAPITULO VII. De la Forma de los Contratos
+
+Manera y términos de obligarse en los contratos
 
 ###### Artículo 7.
 
 52.- El consentimiento no es válido si se sufre lesión, si se da por error, arrancado por violencia o sorprendido por dolo o mala fe.
 
 Error de hecho o derecho
-
-### CAPITULO VII. De la Forma de los Contratos
-
-Manera y términos de obligarse en los contratos
 
 ###### Artículo 7.
 
@@ -8913,6 +8933,10 @@ Ratificación del acto
 
 64.- La ratificación del acto afectado de invalidez por violencia, dolo o mala fe, extingue la acción de nulidad.
 
+### CAPITULO VIII. De la Clasificación de los Contratos
+
+Contrato unilateral
+
 ###### Artículo 7.
 
 65.- Son objeto de los contratos:
@@ -8922,10 +8946,6 @@ I. El bien que el obligado debe dar;
 II. El hecho que el obligado debe hacer o no hacer.
 
 Características del bien objeto del contrato
-
-### CAPITULO VIII. De la Clasificación de los Contratos
-
-Contrato unilateral
 
 ###### Artículo 7.
 
@@ -8977,21 +8997,23 @@ El fin o motivo determinante en los contratos
 
 72.- El fin o motivo determinante de la voluntad de los que contratan, tampoco debe ser contrario a las leyes de orden público.
 
-###### Artículo 7.
-
-73.- En los contratos civiles cada uno se obliga en la manera y términos que aparezca que quiso obligarse, sin que para la validez del contrato se requieran formalidades determinadas, fuera de los casos expresamente designados por la ley.
-
-Falta de formalidad en los contratos
-
 ### CAPITULO IX. De las Cláusulas que pueden Contener los Contratos
 
 Cláusulas convencionales y esenciales
 
 ###### Artículo 7.
 
+73.- En los contratos civiles cada uno se obliga en la manera y términos que aparezca que quiso obligarse, sin que para la validez del contrato se requieran formalidades determinadas, fuera de los casos expresamente designados por la ley.
+
+Falta de formalidad en los contratos
+
+###### Artículo 7.
+
 74.- La falta de formalidad exigida por la ley origina la nulidad del contrato, salvo disposición en contrario; pero si la voluntad de las partes para celebrarlo consta de manera fehaciente, cualquiera de ellas puede exigir que se dé al contrato la forma legal.
 
-Firma del documento por los contratantes
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 6 DE ENERO DE 2016)</small>
+
+Firma del documento por el contratante
 
 ###### Artículo 7.
 
@@ -8999,15 +9021,19 @@ Firma del documento por los contratantes
 
 Si alguna de ellas no puede o no sabe firmar, imprimirá su huella digital.
 
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Si el contrato consta en documentos electrónicos, debe estar plasmada la Firma Electrónica Avanzada o el Sello Electrónico de las personas que intervengan en el acto, la omisión de este requisito tendrá los mismos efectos que la falta de firma autógrafa en documentos escritos.
+
+### CAPITULO X. De la Interpretación de los Contratos
+
+Voluntad declarada y voluntad interna
+
 ###### Artículo 7.
 
 76.- El contrato es unilateral cuando una sola de las partes se obliga hacia la otra sin que ésta le quede obligada.
 
 Contrato bilateral
-
-### CAPITULO X. De la Interpretación de los Contratos
-
-Voluntad declarada y voluntad interna
 
 ###### Artículo 7.
 
@@ -9025,15 +9051,15 @@ Contrato oneroso y aleatorio
 
 79.- El contrato oneroso es conmutativo cuando las prestaciones que se deben las partes son ciertas desde que se celebra, de manera que ellas pueden apreciar inmediatamente el beneficio o la pérdida que les cause éste. Es aleatorio, cuando la prestación debida depende de un acontecimiento incierto que hace que no sea posible la evaluación de la ganancia o pérdida ni a cargo de quien es, sino hasta que se realice.
 
+### CAPITULO XI. Disposiciones Finales
+
+Contratos atípicos o innominados
+
 ###### Artículo 7.
 
 80.- Los contratantes pueden establecer las cláusulas que crean convenientes; pero las que se refieren a requisitos esenciales del contrato o sean consecuencia de su naturaleza ordinaria, se tendrán por puestas aunque no se expresen, a no ser que las segundas sean renunciadas en los casos y términos permitidos por la ley.
 
 Cláusula penal
-
-### CAPITULO XI. Disposiciones Finales
-
-Contratos atípicos o innominados
 
 ###### Artículo 7.
 
@@ -9111,6 +9137,10 @@ Proporción de la pena en obligaciones mancomunadas
 
 93.- En las obligaciones mancomunadas cada uno de los deudores responderá de la parte de la pena que le corresponda en proporción a su deuda.
 
+### CAPITULO I. De las Ofertas al Público
+
+Obligación derivada de la oferta al público
+
 ###### Artículo 7.
 
 94.- Si los términos de un contrato son claros y no dejan duda sobre la intención de los contratantes, se estará al sentido literal de sus cláusulas.
@@ -9118,10 +9148,6 @@ Proporción de la pena en obligaciones mancomunadas
 Si las palabras parecieren contrarias a la intención evidente de los contratantes, prevalecerá ésta sobre aquéllas.
 
 Intención sobre los bienes y casos
-
-### CAPITULO I. De las Ofertas al Público
-
-Obligación derivada de la oferta al público
 
 ###### Artículo 7.
 
@@ -9163,31 +9189,31 @@ Desconocimiento de la voluntad o intención sobre el objeto
 
 101.- Si las dudas recaen sobre el objeto principal del contrato, de manera que no pueda saberse cuál fue la intención o la voluntad de los contratantes, el contrato será nulo.
 
-###### Artículo 7.
-
-102.- Los contratos que no estén específicamente reglamentados en este Código, se regirán por las reglas generales de los contratos; por las estipulaciones de las partes, y, en lo que fueren omisas, por las disposiciones del contrato con el que tengan más analogía, de los reglamentados en este ordenamiento.
-
-Actos a los que se aplican las normas legales de contrato
-
 ### CAPITULO II. De la Estipulación en Favor de Terceros
 
 Casos en que puede hacerse estipulación a favor de tercero
 
 ###### Artículo 7.
 
-103.- Las disposiciones legales sobre contratos serán aplicables a todos los convenios y a otros actos jurídicos, en lo que no se opongan a la naturaleza de éstos o de las disposiciones legales especiales sobre los mismos.
+102.- Los contratos que no estén específicamente reglamentados en este Código, se regirán por las reglas generales de los contratos; por las estipulaciones de las partes, y, en lo que fueren omisas, por las disposiciones del contrato con el que tengan más analogía, de los reglamentados en este ordenamiento.
+
+Actos a los que se aplican las normas legales de contrato
 
 ###### Artículo 7.
 
-104.- El hecho de ofrecer al público bienes o servicios en determinado precio, obliga a sostener su ofrecimiento.
-
-Promesa de recompensa
+103.- Las disposiciones legales sobre contratos serán aplicables a todos los convenios y a otros actos jurídicos, en lo que no se opongan a la naturaleza de éstos o de las disposiciones legales especiales sobre los mismos.
 
 ## TITULO TERCERO. De la Declaración Unilateral de la Voluntad
 
 ### CAPITULO I. De las Obligaciones que Nacen de los Hechos Ilícitos y del Riesgo Creado
 
 Obligaciones que originan los hechos ilícitos
+
+###### Artículo 7.
+
+104.- El hecho de ofrecer al público bienes o servicios en determinado precio, obliga a sostener su ofrecimiento.
+
+Promesa de recompensa
 
 ###### Artículo 7.
 
@@ -9237,15 +9263,15 @@ Derecho a decidir al recompensado
 
 111.- El promitente tiene derecho de designar la persona que deba decidir a quién o a quiénes de los concursantes se otorga la recompensa.
 
+### CAPITULO II. De la Reparación del Daño y los Perjuicios
+
+Restablecer a la situación anterior o pago de daños y perjuicios
+
 ###### Artículo 7.
 
 112.- En los contratos se pueden hacer estipulaciones en favor de tercero en los casos previstos por este Código.
 
 Derecho del tercero
-
-### CAPITULO II. De la Reparación del Daño y los Perjuicios
-
-Restablecer a la situación anterior o pago de daños y perjuicios
 
 ###### Artículo 7.
 
@@ -9271,15 +9297,15 @@ Excepciones contra el tercero
 
 116.- El promitente podrá, salvo pacto en contrario, oponer al tercero las excepciones derivadas del contrato.
 
+## TITULO CUARTO. Del Enriquecimiento Ilegítimo o sin Causa
+
+Obligación que nace del enriquecimiento sin causa
+
 ###### Artículo 7.
 
 117.- El que sin causa se enriquece en detrimento de otro, está obligado a indemnizarlo de su empobrecimiento en la medida que él se ha enriquecido.
 
 Obligación que surge del pago de lo indebido
-
-## TITULO CUARTO. Del Enriquecimiento Ilegítimo o sin Causa
-
-Obligación que nace del enriquecimiento sin causa
 
 ###### Artículo 7.
 
@@ -9365,15 +9391,15 @@ Pago para realizar un fin ilícito
 
 131.- Lo que se hubiere entregado para la realización de un fin que sea ilícito o contrario a las buenas costumbres, no quedará en poder del que lo recibió. El cincuenta por ciento se destinará al Sistema para el Desarrollo Integral de la Familia del Estado de México y el otro cincuenta por ciento tiene derecho de recuperarlo el que lo entregó.
 
+## TITULO QUINTO. De la Gestión de Negocios
+
+Forma de actuar del gestor
+
 ###### Artículo 7.
 
 132.- El que sin mandato y sin estar obligado a ello se encarga de un asunto de otro, debe obrar conforme a los intereses del dueño del negocio.
 
 Obligaciones del gestor
-
-## TITULO QUINTO. De la Gestión de Negocios
-
-Forma de actuar del gestor
 
 ###### Artículo 7.
 
@@ -9449,17 +9475,17 @@ Pago de alimentos por gestor
 
 144.- El tercero que presta alimentos, tiene derecho a reclamar su pago al obligado a darlos, aunque éste no haya dado su consentimiento, a no ser que los haya dado con ánimo de hacer un acto de beneficencia.
 
-###### Artículo 7.
-
-145.- El que obrando ilícitamente o contra las buenas costumbres, aún cuando sea incapaz, cause daño a otro, está obligado a repararlo, a menos que pruebe que el daño se produjo como consecuencia de culpa o negligencia inexcusable de la víctima.
-
-Daño causado por el ejercicio de un derecho
-
 ## TITULO SEXTO. De la Responsabilidad Subjetiva y Objetiva
 
 ### CAPITULO III. De las Personas Obligadas a la Reparación del Daño y de los Perjuicios
 
 Responsabilidad solidaria de los que causan daño
+
+###### Artículo 7.
+
+145.- El que obrando ilícitamente o contra las buenas costumbres, aún cuando sea incapaz, cause daño a otro, está obligado a repararlo, a menos que pruebe que el daño se produjo como consecuencia de culpa o negligencia inexcusable de la víctima.
+
+Daño causado por el ejercicio de un derecho
 
 ###### Artículo 7.
 
@@ -9477,15 +9503,15 @@ Daños recíprocos
 
 148.- Cuando sin el empleo de mecanismos, instrumentos u otros objetos, a que se refiere el artículo anterior, y sin culpa o negligencia de ninguna de las partes, se producen daños, cada una de ellas los soportará.
 
+### CAPITULO I. De las Obligaciones Condicionales
+
+Obligación condicional
+
 ###### Artículo 7.
 
 149.- La reparación del daño consistirá, a elección del ofendido, en el restablecimiento de la situación anterior cuando ello sea posible, o en el pago de daños y perjuicios.
 
 Indemnización por muerte o incapacidad
-
-### CAPITULO I. De las Obligaciones Condicionales
-
-Obligación condicional
 
 ###### Artículo 7.
 
@@ -9575,15 +9601,15 @@ Publicación de la sentencia
 
 160.- Cuando el daño moral haya afectado a la víctima, en su decoro, honor, crédito, prestigio, reputación o consideración, el Juez ordenará, a petición de ésta y con cargo al responsable, la publicación de un extracto de la sentencia, que refleje adecuadamente la naturaleza y alcance de la misma, a través de los medios informativos que considere convenientes.
 
+### CAPITULO II. De las Obligaciones a Plazo
+
+Concepto de obligación de pago
+
 ###### Artículo 7.
 
 161.- Las personas que han causado en común un daño, son responsables solidariamente hacia la víctima por la reparación a que están obligados, de acuerdo con las disposiciones de este capítulo.
 
 Responsabilidad de las personas jurídicas colectivas
-
-### CAPITULO II. De las Obligaciones a Plazo
-
-Concepto de obligación de pago
 
 ###### Artículo 7.
 
@@ -9705,17 +9731,17 @@ Plazo de prescripción de la acción de la reparación del daño
 
 178.- La acción para exigir la reparación de los daños causados, prescribe en dos años contados a partir del día en que se haya causado el daño.
 
-###### Artículo 7.
-
-179.- La obligación es condicional cuando su exigibilidad o su resolución dependen de un acontecimiento futuro e incierto.
-
-Condición suspensiva
-
 ## TITULO SEPTIMO. De las Diferentes Especies de Obligaciones
 
 ### CAPITULO III. De las Obligaciones Facultativas, Conjuntivas y Alternativas
 
 Obligación facultativa
+
+###### Artículo 7.
+
+179.- La obligación es condicional cuando su exigibilidad o su resolución dependen de un acontecimiento futuro e incierto.
+
+Condición suspensiva
 
 ###### Artículo 7.
 
@@ -9793,17 +9819,17 @@ V. Las mejoras del bien por su naturaleza, o por el tiempo, serán en favor del 
 
 VI. Si el bien se mejora a expensas del deudor, tendrá éste el derecho de un usufructuario.
 
-###### Artículo 7.
-
-190.- Es obligación a plazo aquélla para cuyo cumplimiento se ha señalado un día cierto.
-
-Concepto de día cierto
-
 ### CAPITULO IV
 
 De las Obligaciones Mancomunadas, Solidarias, Divisibles e Indivisibles.
 
 Obligaciones mancomunadas
+
+###### Artículo 7.
+
+190.- Es obligación a plazo aquélla para cuyo cumplimiento se ha señalado un día cierto.
+
+Concepto de día cierto
 
 ###### Artículo 7.
 
@@ -9853,15 +9879,15 @@ Pérdida del derecho a usar el plazo cuando son varios deudores
 
 197.- Si fueren varios los deudores solidarios, lo dispuesto en el artículo anterior sólo comprenderá al que se hallare en alguno de los casos señalados.
 
+### CAPITULO V. De las Obligaciones de Dar
+
+Prestación de un bien
+
 ###### Artículo 7.
 
 198.- Cuando el deudor debe una prestación única, pero con la posibilidad de liberarse cumpliendo otra distinta, la obligación es facultativa.
 
 Obligación conjunta
-
-### CAPITULO V. De las Obligaciones de Dar
-
-Prestación de un bien
 
 ###### Artículo 7.
 
@@ -10003,15 +10029,15 @@ Incumplimiento de la prestación del hecho
 
 221.- La falta de prestación del hecho se regirá por lo dispuesto en capítulo relativo a las obligaciones de hacer o no hacer.
 
+### CAPITULO VI. De las Obligaciones de Hacer o de No Hacer
+
+Incumplimiento de obligación de hacer
+
 ###### Artículo 7.
 
 222.- Cuando hay pluralidad de deudores o de acreedores tratándose de una misma obligación, existe la mancomunidad.
 
 Simple mancomunidad de deudores o acreedores
-
-### CAPITULO VI. De las Obligaciones de Hacer o de No Hacer
-
-Incumplimiento de obligación de hacer
 
 ###### Artículo 7.
 
@@ -10217,6 +10243,10 @@ I. Si hubo culpa de parte de los deudores, todos responderán de los daños y pe
 
 II. Si sólo algunos fueron culpables, únicamente ellos responderán de los daños y perjuicios.
 
+### CAPITULO I. De la Cesión de Derechos
+
+Cesión de créditos
+
 ###### Artículo 7.
 
 256.- La prestación de un bien puede consistir:
@@ -10228,10 +10258,6 @@ II. En la transmisión temporal del uso o goce de bien cierto;
 III. En la restitución de bien ajeno o pago de bien debido.
 
 Acreedor de bien cierto
-
-### CAPITULO I. De la Cesión de Derechos
-
-Cesión de créditos
 
 ###### Artículo 7.
 
@@ -10351,6 +10377,10 @@ III. La obligación sea indivisible;
 
 IV. Por contrato se ha determinado otra obligación.
 
+### CAPITULO II. De la Cesión de Deudas
+
+Sustitución de deudores
+
 ###### Artículo 7.
 
 272.- Si el obligado a prestar un hecho no lo hiciere, el acreedor tiene derecho de pedir que a costa de aquél se ejecute por otro, cuando la substitución sea posible.
@@ -10359,25 +10389,21 @@ Lo mismo se observará si no lo hiciere de la manera convenida. En este caso el 
 
 Incumplimiento de obligación de no hacer
 
-### CAPITULO II. De la Cesión de Deudas
-
-Sustitución de deudores
-
 ###### Artículo 7.
 
 273.- El que estuviere obligado a no hacer alguna cosa, quedará sujeto al pago de daños y perjuicios en caso de incumplimiento. Si hubiere obra material, podrá exigir el acreedor que sea destruida a costa del obligado.
-
-###### Artículo 7.
-
-274.- Habrá cesión de créditos cuando el acreedor transfiere a otro los que tenga contra su deudor.
-
-Cesión del crédito sin consentimiento del deudor
 
 ## TITULO OCTAVO. De la Transmisión de las Obligaciones
 
 ### CAPITULO III. De la Subrogación
 
 Subrogación por ministerio de ley
+
+###### Artículo 7.
+
+274.- Habrá cesión de créditos cuando el acreedor transfiere a otro los que tenga contra su deudor.
+
+Cesión del crédito sin consentimiento del deudor
 
 ###### Artículo 7.
 
@@ -10507,15 +10533,15 @@ Cesión gratuita
 
 295.- Si la cesión fuere gratuita, el cedente no será responsable para con el cesionario, ni por la existencia del crédito, ni por la solvencia del deudor.
 
+### CAPITULO I. Del Pago
+
+Concepto de pago
+
 ###### Artículo 7.
 
 296.- Para que haya sustitución de deudores es necesario que el acreedor consienta expresa o tácitamente.
 
 Presunción de consentimiento del acreedor
-
-### CAPITULO I. Del Pago
-
-Concepto de pago
 
 ###### Artículo 7.
 
@@ -10551,6 +10577,10 @@ Consecuencias de la sustitución nula
 
 302.- Cuando se declara nula la sustitución de deudor, la deuda renace con todos sus accesorios, pero con la reserva de derechos que pertenezcan a tercero de buena fe.
 
+### CAPITULO II. Del Ofrecimiento del Pago y de la Consignación
+
+Consignación del bien debido
+
 ###### Artículo 7.
 
 303.- La subrogación se verificará por ministerio de la ley sin necesidad de declaración alguna de los interesados, cuando:
@@ -10564,10 +10594,6 @@ III. Un heredero paga alguna deuda de la herencia;
 IV. El que adquiere un inmueble paga a un acreedor que tiene sobre él un crédito hipotecario.
 
 Deuda pagada con dinero de un tercero
-
-### CAPITULO II. Del Ofrecimiento del Pago y de la Consignación
-
-Consignación del bien debido
 
 ###### Artículo 7.
 
@@ -10585,17 +10611,17 @@ Pago a los subrogados
 
 306.- El pago a los subrogados en diversas porciones del mismo crédito, cuando no basten los bienes del deudor para cubrirlos, se hará según la prioridad de la subrogación.
 
-###### Artículo 7.
-
-307.- Pago o cumplimiento es la entrega del bien, cantidad debida, prestación del hecho o del servicio que se hubiere prometido.
-
-Dación en pago
-
 ## TITULO NOVENO. Del Cumplimiento de las Obligaciones
 
 ### CAPITULO I. Consecuencias del Incumplimiento de las Obligaciones
 
 Rescisión de las obligaciones
+
+###### Artículo 7.
+
+307.- Pago o cumplimiento es la entrega del bien, cantidad debida, prestación del hecho o del servicio que se hubiere prometido.
+
+Dación en pago
 
 ###### Artículo 7.
 
@@ -10793,15 +10819,15 @@ Evicción del bien con que se paga
 
 339.- Si el acreedor sufre la evicción del bien que recibe en pago, renacerá la obligación original.
 
+### CAPITULO II. Del Saneamiento por Evicción
+
+Concepto de evicción
+
 ###### Artículo 7.
 
 340.- El ofrecimiento de pago seguido de la consignación del bien debido produce efectos de pago, si reúne los requisitos que exige la ley.
 
 Derecho a la consignación
-
-### CAPITULO II. Del Saneamiento por Evicción
-
-Concepto de evicción
 
 ###### Artículo 7.
 
@@ -10825,6 +10851,12 @@ Ofrecimiento y consignación legales
 
 344.- Si el ofrecimiento y la consignación se hicieren legalmente, todos los gastos serán de cuenta del acreedor.
 
+## TITULO DECIMO. Del Incumplimiento de las Obligaciones
+
+### CAPITULO III. Del Saneamiento por Vicios Ocultos
+
+Vicios ocultos
+
 ###### Artículo 7.
 
 345.- La facultad de rescindir las obligaciones se entiende implícita en las recíprocas, para el caso de que uno de los obligados no cumpliere lo que le corresponde.
@@ -10832,12 +10864,6 @@ Ofrecimiento y consignación legales
 El perjudicado podrá escoger entre exigir el cumplimiento o la rescisión de la obligación, con el resarcimiento de daños y perjuicios en ambos casos. También podrá pedir la rescisión aún después de haber optado por el cumplimiento, cuando éste resultare imposible.
 
 Daños y perjuicios
-
-## TITULO DECIMO. Del Incumplimiento de las Obligaciones
-
-### CAPITULO III. Del Saneamiento por Vicios Ocultos
-
-Vicios ocultos
 
 ###### Artículo 7.
 
@@ -10965,15 +10991,15 @@ Costas por incumplimiento
 
 365.- El pago de los gastos y costas judiciales será a cargo del que faltare al cumplimiento de la obligación.
 
+### CAPITULO I. De los Actos Celebrados en Fraude de Acreedores
+
+Requisitos de la nulidad del acto del deudor
+
 ###### Artículo 7.
 
 366.- Habrá evicción cuando el que adquirió algún bien fuere privado del todo o parte de él por sentencia que cause ejecutoria, en razón de algún derecho anterior a la adquisición.
 
 Obligación de todo enajenante a la evicción
-
-### CAPITULO I. De los Actos Celebrados en Fraude de Acreedores
-
-Requisitos de la nulidad del acto del deudor
 
 ###### Artículo 7.
 
@@ -11123,15 +11149,15 @@ Evicción en caso de remate judicial
 
 387.- En las ventas hechas en remate judicial, el vendedor no está obligado por causa de la evicción que sufriera el bien vendido, sino a restituir el precio que haya producido la venta.
 
+### CAPITULO II. De la Simulación de los Actos Jurídicos
+
+Acto simulado
+
 ###### Artículo 7.
 
 388.- En los contratos conmutativos el enajenante está obligado al saneamiento por los vicios ocultos del bien enajenado que lo hagan impropio para los usos a que se le destina, o que disminuyan de tal modo este uso, que de haberlo conocido el adquirente no hubiere hecho la adquisición o habría dado menos precio por el bien.
 
 Derecho de rescisión o rebaja del precio
-
-### CAPITULO II. De la Simulación de los Actos Jurídicos
-
-Acto simulado
 
 ###### Artículo 7.
 
@@ -11241,17 +11267,17 @@ Vicios ocultos de bien adquirido por remate o adjudicación
 
 406.- El adquirente no tiene acción por vicios ocultos si obtuvo el bien por remate o por adjudicación judicial.
 
-###### Artículo 7.
-
-407.- El acreedor puede pedir la nulidad de los actos celebrados por su deudor que le perjudiquen, si de esos actos resulta la insolvencia del deudor, y el crédito es anterior a ellos.
-
-Mala fe del deudor y su contratante
-
 ## TITULO DECIMO PRIMERO. Efectos de las Obligaciones con Relación a Terceros
 
 ### CAPITULO I. De la Compensación
 
 Casos en que hay compensación
+
+###### Artículo 7.
+
+407.- El acreedor puede pedir la nulidad de los actos celebrados por su deudor que le perjudiquen, si de esos actos resulta la insolvencia del deudor, y el crédito es anterior a ellos.
+
+Mala fe del deudor y su contratante
 
 ###### Artículo 7.
 
@@ -11347,15 +11373,15 @@ Enajenación presumiblemente fraudulenta
 
 423.- Se presumen fraudulentas las enajenaciones hechas a título oneroso por quienes antes hubiesen sido condenadas por sentencia en cualquier instancia, o expedido mandamiento de embargo; si las enajenaciones o embargos perjudican los derechos de sus acreedores.
 
+### CAPITULO II. De la Confusión de Derechos
+
+La calidad de acreedor y deudor se reúnen en una persona
+
 ###### Artículo 7.
 
 424.- Es simulado el acto en que las partes declaran o confiesan falsamente lo que en realidad no ha pasado o no se ha convenido entre ellas.
 
 Clases de simulación
-
-### CAPITULO II. De la Confusión de Derechos
-
-La calidad de acreedor y deudor se reúnen en una persona
 
 ###### Artículo 7.
 
@@ -11381,17 +11407,17 @@ Consecuencias de la nulidad del acto simulado
 
 También subsistirán los gravámenes impuestos a favor de tercero de buena fe.
 
-###### Artículo 7.
-
-429.- Tiene lugar la compensación cuando dos personas recíprocamente reúnen la calidad de deudores y acreedores.
-
-Efecto de la compensación
-
 ## TITULO DECIMO SEGUNDO. De la Extinción de las Obligaciones
 
 ### CAPITULO III. De la Remisión de la Deuda
 
 Perdón de la deuda
+
+###### Artículo 7.
+
+429.- Tiene lugar la compensación cuando dos personas recíprocamente reúnen la calidad de deudores y acreedores.
+
+Efecto de la compensación
 
 ###### Artículo 7.
 
@@ -11511,15 +11537,15 @@ Compensación en perjuicio de tercero
 
 447.- La compensación no surte efectos en perjuicio de los derechos de tercero.
 
+### CAPITULO IV. De la Novación
+
+Concepto de novación
+
 ###### Artículo 7.
 
 448.- La obligación se extingue por confusión, cuando las calidades de acreedor y de deudor se reúnen en una persona. La obligación renace si la confusión cesa.
 
 Confusión en la persona del acreedor o deudor solidario
-
-### CAPITULO IV. De la Novación
-
-Concepto de novación
 
 ###### Artículo 7.
 
@@ -11531,15 +11557,15 @@ Caso en que no hay confusión
 
 450.- Mientras se hace la partición de una herencia, no hay confusión, cuando el deudor hereda al acreedor o éste a aquél.
 
+### CAPITULO V. De la Prescripción Extintiva
+
+Extinción de la obligación por prescripción
+
 ###### Artículo 7.
 
 451.- El acreedor puede renunciar a su derecho y remitir, en todo o en parte, las prestaciones que le son debidas, excepto en aquellos casos en que la ley lo prohíbe.
 
 Consecuencias de la remisión de la deuda principal
-
-### CAPITULO V. De la Prescripción Extintiva
-
-Extinción de la obligación por prescripción
 
 ###### Artículo 7.
 
@@ -11557,15 +11583,15 @@ Presunción de la remisión
 
 454.- La devolución de la prenda es presunción de la remisión del derecho a la garantía, salvo prueba en contrario.
 
+### CAPITULO I. Disposiciones Generales
+
+Bienes con los que se responde de las obligaciones
+
 ###### Artículo 7.
 
 455.- Hay novación de una obligación, cuando las partes en ella interesadas la alteren sustancialmente sustituyéndola por otra.
 
 Formalidad de la novación
-
-### CAPITULO I. Disposiciones Generales
-
-Bienes con los que se responde de las obligaciones
 
 ###### Artículo 7.
 
@@ -11619,15 +11645,15 @@ Efectos de la novación con alguno de los deudores solidarios
 
 464.- Por la novación hecha entre el acreedor y alguno de los deudores solidarios, quedan exonerados todos los demás codeudores, sin perjuicio de los derechos del deudor solidario que paga por entero para exigir de los demás deudores la parte que les corresponde.
 
+### CAPITULO II. De los Créditos Hipotecarios, Pignoraticios y de algunos otros Privilegios
+
+Adeudos fiscales
+
 ###### Artículo 7.
 
 465.- La prescripción extintiva es un medio de liberarse de las obligaciones, mediante el transcurso de cierto tiempo y con las condiciones establecidas por la ley.
 
 Personas beneficiadas con la prescripción
-
-### CAPITULO II. De los Créditos Hipotecarios, Pignoraticios y de algunos otros Privilegios
-
-Adeudos fiscales
 
 ###### Artículo 7.
 
@@ -11787,17 +11813,17 @@ SEGUNDA PARTE
 
 De los Créditos y sus Acreedores
 
-###### Artículo 7.
-
-489.- El deudor responde del cumplimiento de sus obligaciones con todos sus bienes, con excepción de aquellos que, conforme a la ley, son inalienables e inembargables.
-
-Concurso de acreedores
-
 ## TITULO UNICO. De la Concurrencia y Prelación de los Créditos
 
 ### CAPITULO III. De algunos Acreedores Preferentes sobre Determinados Bienes
 
 Pago preferente con el valor de los bienes
+
+###### Artículo 7.
+
+489.- El deudor responde del cumplimiento de sus obligaciones con todos sus bienes, con excepción de aquellos que, conforme a la ley, son inalienables e inembargables.
+
+Concurso de acreedores
 
 ###### Artículo 7.
 
@@ -11909,15 +11935,15 @@ Crédito preferente originado de convenio fraudulento
 
 506.- El crédito cuya preferencia provenga de convenio fraudulento entre el acreedor y el deudor, pierde toda preferencia, a no ser que el dolo sólo provenga del deudor, quien en este caso será responsable de los daños y prejuicios que se sigan a los demás acreedores, independientemente de la responsabilidad penal en que incurra.
 
+### CAPITULO IV. Acreedores de Primera Clase
+
+Orden para pagar con el valor del resto de bienes
+
 ###### Artículo 7.
 
 507.- Los adeudos fiscales provenientes de impuestos, se pagarán preferentemente con el valor de los bienes que los hayan causado.
 
 Créditos que no entran a concurso
-
-### CAPITULO IV. Acreedores de Primera Clase
-
-Orden para pagar con el valor del resto de bienes
 
 ###### Artículo 7.
 
@@ -11989,6 +12015,10 @@ Acreedores que no entran al concurso de herederos
 
 517.- Los acreedores que obtuvieren la separación de bienes no podrán entrar al concurso del heredero, aunque aquellos no alcancen a cubrir sus créditos.
 
+### CAPITULO V. Acreedores de Segunda Clase
+
+Pago de obligaciones secundarias
+
 ###### Artículo 7.
 
 518.- Con el valor de los bienes serán pagados preferentemente:
@@ -12013,9 +12043,9 @@ Tratándose de bienes muebles, cesará la preferencia si hubieren sido inmoviliz
 
 IX. Los créditos anotados en el Registro de la Propiedad, en virtud de mandamiento judicial, por embargos, secuestros o ejecución de sentencias, sobre los bienes anotados y solamente en cuanto a créditos posteriores.
 
-### CAPITULO V. Acreedores de Segunda Clase
+### CAPITULO VI. Acreedores de Tercera Clase
 
-Pago de obligaciones secundarias
+Obligaciones pagadas en tercer lugar
 
 ###### Artículo 7.
 
@@ -12035,9 +12065,9 @@ VI. La responsabilidad civil en la parte que comprende el pago de los gastos de 
 
 En lo que se refiere a la obligación de restituir, por tratarse de devoluciones de bien ajeno, no entra en concurso, y por lo que toca a las otras indemnizaciones que se deban por el delito, se pagarán como si se tratara de acreedores comunes de cuarta clase.
 
-### CAPITULO VI. Acreedores de Tercera Clase
+### CAPITULO VII. Acreedores de Cuarta Clase
 
-Obligaciones pagadas en tercer lugar
+Obligaciones pagadas en cuarto lugar
 
 ###### Artículo 7.
 
@@ -12049,27 +12079,23 @@ II. Los créditos no fiscales del erario y los créditos de los administradores 
 
 III. Los créditos de los establecimientos de beneficencia pública o privada.
 
-### CAPITULO VII. Acreedores de Cuarta Clase
-
-Obligaciones pagadas en cuarto lugar
-
-###### Artículo 7.
-
-521.- Satisfechos los créditos a que se refieren los artículos anteriores, se pagaran los créditos que consten en documento auténtico realizado por Fedatario Público.
-
 ### CAPITULO UNICO. De la Promesa
 
 Precontrato
 
 ###### Artículo 7.
 
-522.- Pagados los créditos enumerados en los capítulos que preceden, se pagarán los créditos que consten en documento privado.
-
-Pago del resto de las obligaciones
+521.- Satisfechos los créditos a que se refieren los artículos anteriores, se pagaran los créditos que consten en documento auténtico realizado por Fedatario Público.
 
 ### CAPITULO I. Disposiciones Generales
 
 Elementos de la compraventa
+
+###### Artículo 7.
+
+522.- Pagados los créditos enumerados en los capítulos que preceden, se pagarán los créditos que consten en documento privado.
+
+Pago del resto de las obligaciones
 
 ###### Artículo 7.
 
@@ -12079,17 +12105,17 @@ TERCERA PARTE
 
 De las Diversas Especies de Contratos
 
-###### Artículo 7.
-
-524.- La promesa es el contrato preparatorio por el que una o ambas partes se obligan a celebrar, dentro de un cierto plazo, un contrato.
-
-Obligación de hacer
-
 ## TITULO PRIMERO. De los Contratos Preparatorios
 
 ### CAPITULO II. De la Materia de la Compraventa
 
 Legitimación para vender
+
+###### Artículo 7.
+
+524.- La promesa es el contrato preparatorio por el que una o ambas partes se obligan a celebrar, dentro de un cierto plazo, un contrato.
+
+Obligación de hacer
 
 ###### Artículo 7.
 
@@ -12137,17 +12163,17 @@ II. Por convenio;
 
 III. Por no reclamarse el cumplimiento de la promesa dentro de diez días después de haber fenecido el plazo; en cuyo caso, caducará la anotación en el Registro Público de la Propiedad.
 
-###### Artículo 7.
-
-532.- Hay compraventa cuando uno de los contratantes se obliga a transferir la propiedad de un bien o de un derecho, y el otro, a su vez, se obliga a pagar por ello un precio cierto y en dinero.
-
-Consentimiento sobre bien y precio
-
 ## TITULO SEGUNDO. De la Compraventa
 
 ### CAPITULO III. De los que Pueden Vender y Comprar
 
 Compra de inmuebles por extranjeros
+
+###### Artículo 7.
+
+532.- Hay compraventa cuando uno de los contratantes se obliga a transferir la propiedad de un bien o de un derecho, y el otro, a su vez, se obliga a pagar por ello un precio cierto y en dinero.
+
+Consentimiento sobre bien y precio
 
 ###### Artículo 7.
 
@@ -12263,15 +12289,15 @@ Ventas al menudeo de bebidas embriagantes
 
 551 Las ventas al menudeo de bebidas embriagantes, hechas al fiado, no dan derecho para exigir su precio.
 
+### CAPITULO IV. De las Obligaciones del Vendedor
+
+Obligaciones del vendedor
+
 ###### Artículo 7.
 
 552.- Ninguno puede vender sino lo que es de su propiedad; en caso contrario se estará a lo dispuesto en este capítulo, independientemente de la responsabilidad penal.
 
 Venta de bien ajeno
-
-### CAPITULO IV. De las Obligaciones del Vendedor
-
-Obligaciones del vendedor
 
 ###### Artículo 7.
 
@@ -12289,15 +12315,15 @@ Venta de bienes o derechos litigiosos
 
 555.- La venta de bienes o derechos litigiosos no está prohibida; pero el vendedor que no declare la circunstancia de hallarse el bien en litigio, es responsable de los daños y perjuicios si el comprador sufre la evicción, quedando, además sujeto a las penas respectivas.
 
+### CAPITULO V. De la Entrega del Bien Vendido
+
+Entrega real, jurídica y virtual
+
 ###### Artículo 7.
 
 556.- Los extranjeros y las personas jurídicas colectivas pueden comprar inmuebles sujetándose a lo dispuesto en el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos y en sus leyes reglamentarias.
 
 Incapacidad para comprar
-
-### CAPITULO V. De la Entrega del Bien Vendido
-
-Entrega real, jurídica y virtual
 
 ###### Artículo 7.
 
@@ -12345,6 +12371,10 @@ Compraventa nula
 
 562.- Las compras hechas en contravención a lo dispuesto en este capítulo, serán nulas, ya se hayan hecho directamente o por interpósita persona.
 
+### CAPITULO VI. De las Obligaciones del Comprador
+
+Principal obligación del comprador
+
 ###### Artículo 7.
 
 563.- El vendedor está obligado a:
@@ -12357,9 +12387,9 @@ III. Garantizar las calidades del bien;
 
 IV. Responder de la evicción.
 
-### CAPITULO VI. De las Obligaciones del Comprador
+### CAPITULO VII. De algunas Modalidades del Contrato de Compraventa
 
-Principal obligación del comprador
+Pacto de no vender a determinada persona
 
 ###### Artículo 7.
 
@@ -12372,10 +12402,6 @@ La jurídica cuando, aún sin estar entregado materialmente el bien, la ley lo c
 Desde el momento en que el comprador acepte que el bien vendido quede a su disposición, se tendrá por virtualmente recibido de él, y el vendedor que lo conserve en su poder sólo tendrá los derechos y obligaciones de un depositario.
 
 Gastos de entrega
-
-### CAPITULO VII. De algunas Modalidades del Contrato de Compraventa
-
-Pacto de no vender a determinada persona
 
 ###### Artículo 7.
 
@@ -12423,15 +12449,15 @@ Mora de recibir el bien vendido
 
 572.- Si el comprador se constituyó en mora de recibir, pagará al vendedor el alquiler de los lugares u objetos en que se contenga lo vendido, y el vendedor quedará liberado del cuidado ordinario de conservar el bien y solamente será responsable del dolo o de la culpa grave.
 
+### CAPITULO VII. De la Forma del Contrato de Compraventa
+
+Formalidad de la compraventa
+
 ###### Artículo 7.
 
 573.- El comprador debe cumplir todo aquello a que se haya obligado, y especialmente pagar el precio del bien en el tiempo, lugar y forma convenidos.
 
 Pago del precio en lugar de entrega del bien
-
-### CAPITULO VII. De la Forma del Contrato de Compraventa
-
-Formalidad de la compraventa
 
 ###### Artículo 7.
 
@@ -12483,15 +12509,15 @@ Pago de más del cincuenta por ciento del precio
 
 581.- Cuando el comprador haya pagado más del cincuenta por ciento del precio del bien, y el vendedor le reclama la rescisión, aquel tendrá el derecho de optar por pagar los abonos adeudados con los daños, perjuicios y costas.
 
+### CAPITULO IX. De las Ventas Judiciales
+
+Reglas para la venta judicial
+
 ###### Artículo 7.
 
 582.- Puede pactarse que el bien comprado no se venda a determinada persona, pero es nula la cláusula en que se estipule que no puede venderse a persona alguna.
 
 Pacto de retroventa
-
-### CAPITULO IX. De las Ventas Judiciales
-
-Reglas para la venta judicial
 
 ###### Artículo 7.
 
@@ -12591,15 +12617,15 @@ Facultad de recuperar el bien de terceros
 
 597.- El comprador con reserva de dominio tendrá sobre el bien las mismas facultades que el vendedor frente a terceros.
 
+### CAPITULO I. De las Donaciones en General
+
+Concepto de donación
+
 ###### Artículo 7.
 
 598.- El contrato de compraventa requiere para su validez la forma escrita.
 
 Formalidad de la compraventa de muebles
-
-### CAPITULO I. De las Donaciones en General
-
-Concepto de donación
 
 ###### Artículo 7.
 
@@ -12619,15 +12645,15 @@ Responsabilidad de terceros por la falta de forma
 
 Los Fedatarios Públicos asesorarán gratuitamente a los interesados en este tipo de operaciones.
 
+### CAPITULO II. De las Personas que Pueden Recibir Donaciones
+
+Legitimación de los no nacidos para recibir por donación
+
 ###### Artículo 7.
 
 602.- Las ventas en remate judicial, además de las reglas específicas de la ley procesal, se regirán por las disposiciones de este título, en cuanto a la sustancia del contrato y a las obligaciones y derechos del comprador y del vendedor, con las modificaciones que se expresen en este capítulo.
 
 Transmisión de la propiedad sin gravamen
-
-### CAPITULO II. De las Personas que Pueden Recibir Donaciones
-
-Legitimación de los no nacidos para recibir por donación
 
 ###### Artículo 7.
 
@@ -12639,15 +12665,15 @@ Enajenación judicial para dividir el bien común
 
 604.- En las enajenaciones judiciales que hayan de verificarse para dividir el bien común, se observará lo dispuesto para la partición entre herederos.
 
+## TITULO TERCERO. De la Permuta
+
+Concepto de permuta
+
 ###### Artículo 7.
 
 605.- La permuta es un contrato por el cual cada uno de los contratantes se obliga a darse un bien por otro.
 
 Permuta de bien ajeno
-
-## TITULO TERCERO. De la Permuta
-
-Concepto de permuta
 
 ###### Artículo 7.
 
@@ -12671,17 +12697,17 @@ Reglas aplicables a la permuta
 
 609.- Con excepción de lo relativo al precio, son aplicables a este contrato las reglas de la compraventa, en cuanto no se opongan a los artículos anteriores.
 
-###### Artículo 7.
-
-610.- La donación es un contrato, por virtud del cual una persona llamada donante, transfiere, en forma gratuita, una parte de sus bienes presentes, a otra llamada donataria quien acepta dicha liberalidad.
-
-Clases de donación
-
 ## TITULO CUARTO. De las Donaciones
 
 ### CAPITULO III. De la Revocación y Reducción de las Donaciones
 
 Revocación por sobrevenir hijos
+
+###### Artículo 7.
+
+610.- La donación es un contrato, por virtud del cual una persona llamada donante, transfiere, en forma gratuita, una parte de sus bienes presentes, a otra llamada donataria quien acepta dicha liberalidad.
+
+Clases de donación
 
 ###### Artículo 7.
 
@@ -12789,19 +12815,23 @@ Donación consistente en prestaciones periódicas
 
 628.- La donación que consista en prestaciones periódicas se extingue con la muerte del donante.
 
-###### Artículo 7.
-
-629.- Los no nacidos pueden adquirir por donación, con tal que hayan estado concebidos al tiempo en que aquélla se hizo y nazcan vivos y viables.
-
-Simulación de otro contrato para hacer donación
-
 ### CAPITULO I. Del Mutuo Simple
 
 Del Mutuo
 
 ###### Artículo 7.
 
+629.- Los no nacidos pueden adquirir por donación, con tal que hayan estado concebidos al tiempo en que aquélla se hizo y nazcan vivos y viables.
+
+Simulación de otro contrato para hacer donación
+
+###### Artículo 7.
+
 630.- Las donaciones hechas simulando otro contrato a personas que conforme a la ley no puedan recibirlas, son nulas, ya se hagan de un modo directo, o por interpósita persona.
+
+### CAPITULO II. Del Mutuo con Interés
+
+Legalidad de señalar interés por el mutuo
 
 ###### Artículo 7.
 
@@ -12812,10 +12842,6 @@ Si transcurren cinco años desde que se hizo la donación y el donante no ha ten
 Si dentro del mencionado plazo naciera un hijo póstumo del donante, la donación se tendrá por revocada en su totalidad.
 
 Reducción de la donación
-
-### CAPITULO II. Del Mutuo con Interés
-
-Legalidad de señalar interés por el mutuo
 
 ###### Artículo 7.
 
@@ -12967,17 +12993,17 @@ Donatario responsable de los frutos
 
 654.- Revocada o reducida una donación por inoficiosa, el donatario sólo responderá de los frutos desde que sea notificado de la demanda.
 
-###### Artículo 7.
-
-655.- El mutuo es un contrato por el cual el mutuante se obliga a transferir la propiedad de una suma de dinero o de otros bienes fungibles al mutuatario, quien se obliga a devolver otro tanto de la misma especie y calidad.
-
-Reglas del mutuo sin plazo
-
 ## TITULO QUINTO. Del Mutuo
 
 ### CAPITULO I. Disposiciones Generales
 
 Definición de arrendamiento
+
+###### Artículo 7.
+
+655.- El mutuo es un contrato por el cual el mutuante se obliga a transferir la propiedad de una suma de dinero o de otros bienes fungibles al mutuatario, quien se obliga a devolver otro tanto de la misma especie y calidad.
+
+Reglas del mutuo sin plazo
 
 ###### Artículo 7.
 
@@ -13029,15 +13055,15 @@ Mutuo con menor para proporcionarse alimentos
 
 662.- No es nulo el mutuo que celebre el menor para proporcionarse los alimentos que necesite, cuando su representante legítimo se encuentre ausente.
 
+### CAPITULO II. De las Obligaciones del Arrendador
+
+Obligaciones del arrendador
+
 ###### Artículo 7.
 
 663.- Es permitido estipular interés por el mutuo, ya consista en dinero, ya en géneros.
 
 Interés legal o convencional
-
-### CAPITULO II. De las Obligaciones del Arrendador
-
-Obligaciones del arrendador
 
 ###### Artículo 7.
 
@@ -13073,17 +13099,17 @@ Prohibición de capitalizar de antemano los intereses
 
 669.- Las partes no pueden, bajo pena de nulidad, convenir de antemano que los intereses se capitalicen y que produzcan intereses.
 
-###### Artículo 7.
-
-670.- En el contrato de arrendamiento, el arrendador se obliga a transmitir el uso o goce temporal de un bien al arrendatario, quien se obliga a pagar un precio.
-
-Formalidad y plazo de arrendamiento
-
 ## TITULO SEXTO. Del Arrendamiento
 
 ### CAPITULO III. De las Obligaciones del Arrendatario
 
 Obligaciones del arrendatario
+
+###### Artículo 7.
+
+670.- En el contrato de arrendamiento, el arrendador se obliga a transmitir el uso o goce temporal de un bien al arrendatario, quien se obliga a pagar un precio.
+
+Formalidad y plazo de arrendamiento
 
 ###### Artículo 7.
 
@@ -13201,6 +13227,12 @@ Normas del arrendamiento de orden público
 
 685.- Las disposiciones sobre arrendamiento son de orden público e interés social, siendo por tanto irrenunciables. Cualquier estipulación en contrario, se tendrá por no puesta.
 
+### CAPITULO IV. Disposiciones Especiales para Arrendamiento de Bienes
+
+Urbanos Destinados a Casa Habitación
+
+Condiciones higiénicas y de salubridad
+
 ###### Artículo 7.
 
 686.- El arrendador está obligado a:
@@ -13217,15 +13249,13 @@ V. Responder de los daños y perjuicios que sufra el arrendatario por los defect
 
 Falta de reparaciones necesarias
 
-### CAPITULO IV. Disposiciones Especiales para Arrendamiento de Bienes
-
-Urbanos Destinados a Casa Habitación
-
-Condiciones higiénicas y de salubridad
-
 ###### Artículo 7.
 
 687.- Si el arrendador no hace las reparaciones necesarias para el uso a que esté destinado el bien, el arrendatario podrá optar por rescindir el contrato o reclamar que con cargo a las rentas se hagan dichas reparaciones.
+
+### CAPITULO V. Del arrendamiento de fincas rústicas
+
+Normas que rigen el arrendamiento de fincas rústicas
 
 ###### Artículo 7.
 
@@ -13246,10 +13276,6 @@ VI. Devolver el bien al término del contrato, en las condiciones en que lo reci
 VII. Poner en conocimiento del arrendador cualquier acto o hecho que lesione o pueda ocasionar un daño al bien arrendado.
 
 Lugar de pago de las rentas
-
-### CAPITULO V. Del arrendamiento de fincas rústicas
-
-Normas que rigen el arrendamiento de fincas rústicas
 
 ###### Artículo 7.
 
@@ -13285,15 +13311,15 @@ Arrendatarios con derecho de preferencia de compra
 
 694.- Si son varios los arrendatarios que desean ejercitar el derecho de preferencia sobre la venta, será elegido el que tenga más antigüedad; de existir varios, el primero que cumpla con los requisitos y condiciones señalados en la oferta, y en caso de que fueren varios, se dejará a la suerte.
 
+### CAPITULO VI. Del Arrendamiento de Bienes Muebles
+
+Disposiciones aplicables al arrendamiento de muebles
+
 ###### Artículo 7.
 
 695.- Toda vivienda que se dé en arrendamiento, deberá reunir las condiciones de higiene y salubridad necesarias.
 
 Contenido del contrato de arrendamiento
-
-### CAPITULO VI. Del Arrendamiento de Bienes Muebles
-
-Disposiciones aplicables al arrendamiento de muebles
 
 ###### Artículo 7.
 
@@ -13325,15 +13351,15 @@ Monto del incremento de la renta
 
 698.- En la novación del contrato de arrendamiento de vivienda, el incremento de la renta no podrá exceder del diez por ciento.
 
+### CAPITULO VII. Del subarriendo
+
+Legitimación para subarrendar
+
 ###### Artículo 7.
 
 699.- El arrendamiento de fincas rústicas se regirá por las disposiciones de este capítulo y en su defecto por las reglas generales sobre el arrendamiento.
 
 Tiempo de pago de las rentas
-
-### CAPITULO VII. Del subarriendo
-
-Legitimación para subarrendar
 
 ###### Artículo 7.
 
@@ -13359,15 +13385,15 @@ Obligación del nuevo arrendatario
 
 703.- El nuevo arrendatario tiene obligación de permitir al saliente, lo necesario para la recolección y aprovechamiento de los frutos pendientes al terminar el contrato, todo con arreglo a las costumbres del lugar.
 
+### CAPITULO VIII. De la terminación del contrato de arrendamiento
+
+Causas de terminación del arrendamiento
+
 ###### Artículo 7.
 
 704.- Son aplicables al arrendamiento de bienes muebles las disposiciones de este título que sean compatibles con la naturaleza de los mismos.
 
 Arrendamiento sin plazo
-
-### CAPITULO VIII. De la terminación del contrato de arrendamiento
-
-Causas de terminación del arrendamiento
 
 ###### Artículo 7.
 
@@ -13421,19 +13447,23 @@ Arrendamiento de predio rústico
 
 713.- Si en el arrendamiento de un predio rústico se incluye el ganado de labranza o de cría existente, el arrendatario tendrá respecto del ganado, los mismos derechos y obligaciones inherentes a la naturaleza del contrato de arrendamiento.
 
-###### Artículo 7.
-
-714.- El arrendatario no puede subarrendar el bien arrendado en todo, ni en parte, ni ceder sus derechos sin consentimiento del arrendador; si lo hiciere, responderá solidariamente con el tercero de los daños y perjuicios.
-
-Autorización general para subarrendar
-
 ### CAPITULO I. Del Depósito
 
 Definición del contrato de depósito
 
 ###### Artículo 7.
 
+714.- El arrendatario no puede subarrendar el bien arrendado en todo, ni en parte, ni ceder sus derechos sin consentimiento del arrendador; si lo hiciere, responderá solidariamente con el tercero de los daños y perjuicios.
+
+Autorización general para subarrendar
+
+###### Artículo 7.
+
 715.- Si el subarriendo se hiciere en virtud de la autorización general concedida en el contrato, el arrendatario será responsable al arrendador, como si él mismo continuara en el uso o goce del bien.
+
+### CAPITULO II. Del Secuestro
+
+Concepto de secuestro
 
 ###### Artículo 7.
 
@@ -13459,10 +13489,6 @@ IX. Evicción del bien dado en arrendamiento.
 
 Arrendamiento de plazo determinado
 
-### CAPITULO II. Del Secuestro
-
-Concepto de secuestro
-
 ###### Artículo 7.
 
 717.- Al vencimiento del plazo, el contrato termina en el día prefijado, si ha subsistido, se observará lo previsto en las disposiciones generales de este contrato.
@@ -13485,15 +13511,15 @@ Enajenación judicial del bien arrendado
 
 720.- Si el inmueble fuere enajenado judicialmente, el contrato de arrendamiento subsistirá, a menos que haya sido celebrado dentro de los tres meses anteriores al secuestro, en cuyo caso, el contrato podrá darse por concluido.
 
+## TITULO SEPTIMO. Del Comodato
+
+Elementos personales del comodato
+
 ###### Artículo 7.
 
 721.- El comodato es un contrato por el cual uno de los contratantes concede gratuitamente el uso de un bien, y el otro contrae la obligación de restituirlo individualmente.
 
 Elemento formal del comodato
-
-## TITULO SEPTIMO. Del Comodato
-
-Elementos personales del comodato
 
 ###### Artículo 7.
 
@@ -13595,17 +13621,17 @@ Muerte del comodatario
 
 737.- El comodato termina por la muerte del comodatario.
 
-###### Artículo 7.
-
-738.- El depósito es un contrato por el cual el depositario se obliga hacia el depositante a recibir un bien que aquél le confía, y a guardarlo para restituirlo cuando lo pida el depositante.
-
-Derecho del depositario a la retribución
-
 ## TITULO OCTAVO. Del Depósito y del Secuestro
 
 ### CAPITULO I. Disposiciones Generales
 
 Concepto de mandato
+
+###### Artículo 7.
+
+738.- El depósito es un contrato por el cual el depositario se obliga hacia el depositante a recibir un bien que aquél le confía, y a guardarlo para restituirlo cuando lo pida el depositante.
+
+Derecho del depositario a la retribución
 
 ###### Artículo 7.
 
@@ -13731,15 +13757,15 @@ Responsabilidad por el depósito necesario
 
 759.- Los establecimientos de bienes y servicios, no responden de los bienes que introduzcan los usuarios, a menos que los pongan bajo el cuidado de los empleados del establecimiento de que se trate.
 
+### CAPITULO II. De las Obligaciones del Mandatario con Respecto al Mandante
+
+Instrucciones del mandante
+
 ###### Artículo 7.
 
 760.- El secuestro es el depósito de un bien litigioso en poder de un tercero, hasta que se decida a quien deba entregarse.
 
 Verificación de secuestro
-
-### CAPITULO II. De las Obligaciones del Mandatario con Respecto al Mandante
-
-Instrucciones del mandante
 
 ###### Artículo 7.
 
@@ -13757,17 +13783,17 @@ Disposiciones que rigen el secuestro
 
 763.- Fuera de las excepciones previstas, rigen para el secuestro, las mismas disposiciones que para el depósito.
 
-###### Artículo 7.
-
-764.- El mandato es un contrato por el que el mandatario se obliga a ejecutar por cuenta y a nombre del mandante, o sólo por la primera, los actos jurídicos que éste le encarga.
-
-Formación del contrato de mandato
-
 ## TITULO NOVENO. Del Mandato
 
 ### CAPITULO III. De las Obligaciones del Mandante con Relación al Mandatario
 
 Anticipo para ejecutar el mandato
+
+###### Artículo 7.
+
+764.- El mandato es un contrato por el que el mandatario se obliga a ejecutar por cuenta y a nombre del mandante, o sólo por la primera, los actos jurídicos que éste le encarga.
+
+Formación del contrato de mandato
 
 ###### Artículo 7.
 
@@ -13879,15 +13905,15 @@ En este caso, el mandatario es el obligado directamente en favor de la persona c
 
 Lo dispuesto en este artículo se entiende sin perjuicio de las acciones entre mandante y mandatario.
 
+### CAPITULO IV. De las Obligaciones y Derechos del Mandante y del Mandatario con Relación a Tercero
+
+Obligación del mandante de cumplir lo ejecutado
+
 ###### Artículo 7.
 
 779.- El mandatario, en el desempeño de su encargo, se sujetará a las instrucciones recibidas del mandante y en ningún caso podrá proceder contra disposiciones expresas del mismo.
 
 Consulta al mandante por el mandatario
-
-### CAPITULO IV. De las Obligaciones y Derechos del Mandante y del Mandatario con Relación a Tercero
-
-Obligación del mandante de cumplir lo ejecutado
 
 ###### Artículo 7.
 
@@ -13965,15 +13991,15 @@ Derechos y obligaciones del mandatario sustituto
 
 792.- El substituto tiene para con el mandante los mismos derechos y obligaciones que el mandatario.
 
+### CAPITULO V. Del Mandato Judicial
+
+Concepto de mandato judicial
+
 ###### Artículo 7.
 
 793.- El mandante debe anticipar al mandatario, si éste lo pide, las cantidades necesarias para la ejecución del mandato.
 
 Reembolso al mandatario
-
-### CAPITULO V. Del Mandato Judicial
-
-Concepto de mandato judicial
 
 ###### Artículo 7.
 
@@ -14003,15 +14029,15 @@ Mandatos solidarios
 
 798.- Si dos o más personas hubiesen nombrado a un sólo mandatario para algún negocio común, le quedan obligadas solidariamente.
 
+### CAPITULO VI. De los Diversos Modos de Terminar el Mandato
+
+Causas de terminación del mandato
+
 ###### Artículo 7.
 
 799.- El mandante debe cumplir todas las obligaciones que el mandatario haya contraído dentro de los límites del mandato.
 
 Límite del mandato
-
-### CAPITULO VI. De los Diversos Modos de Terminar el Mandato
-
-Causas de terminación del mandato
 
 ###### Artículo 7.
 
@@ -14029,15 +14055,15 @@ Tercero que conoce los límites del mandato
 
 802.- El tercero que hubiere contratado con el mandatario que se excedió en sus facultades y las conocía, no tendrá acción contra éste, a no ser que se hubiere obligado personalmente.
 
+### CAPITULO I. De la Prestación de Servicios Profesionales
+
+Convenio sobre retribución por servicios profesionales
+
 ###### Artículo 7.
 
 803.- Por el mandato judicial se otorgan facultades al mandatario para que a nombre del mandante comparezca ante autoridades judiciales a realizar los actos jurídico procesales, juicios o procedimientos que se le encomiendan.
 
 Incapacidades legales para ser procurador
-
-### CAPITULO I. De la Prestación de Servicios Profesionales
-
-Convenio sobre retribución por servicios profesionales
 
 ###### Artículo 7.
 
@@ -14135,6 +14161,10 @@ Ratificación de lo ejecutado en exceso
 
 814.- El mandante puede ratificar, antes de la sentencia que cause ejecutoria, lo que el procurador hubiere hecho excediéndose del poder.
 
+### CAPITULO II. Del Contrato de Obra a Precio Alzado
+
+Empresario que dirige y pone los materiales
+
 ###### Artículo 7.
 
 815.- El mandato termina por:
@@ -14154,10 +14184,6 @@ VI. Conclusión del negocio para el que fue concedido;
 VII. Declaración de ausencia.
 
 Revocación del mandato por el mandante
-
-### CAPITULO II. Del Contrato de Obra a Precio Alzado
-
-Empresario que dirige y pone los materiales
 
 ###### Artículo 7.
 
@@ -14213,17 +14239,17 @@ Actos del mandatario posteriores a la conclusión del cargo
 
 824.- Sabiendo que ha cesado el mandato, lo que el mandatario hiciere con un tercero que ignora el término de la procuración, no obliga al mandante, excepto si el mandato se confiere para tratar con determinada persona, no se le notifica la revocación del mandato y ésta ha actuado de buena fe.
 
-###### Artículo 7.
-
-825.- El que presta y el que recibe los servicios profesionales pueden fijar, de común acuerdo, retribución por ellos.
-
-Falta de convenio sobre honorarios profesionales
-
 ## TITULO DECIMO. Del Contrato de Prestación de Servicios
 
 ### CAPITULO III. Del contrato de transporte
 
 Reglas del contrato de transporte
+
+###### Artículo 7.
+
+825.- El que presta y el que recibe los servicios profesionales pueden fijar, de común acuerdo, retribución por ellos.
+
+Falta de convenio sobre honorarios profesionales
 
 ###### Artículo 7.
 
@@ -14283,17 +14309,17 @@ Normas aplicables
 
 835.- En todo lo no previsto en este capítulo, se estará a las disposiciones del contrato de mandato.
 
-###### Artículo 7.
-
-836.- Cuando el empresario dirige la obra y pone los materiales en el contrato de obra a precio alzado, se sujetará a las reglas de este capítulo.
-
-Riesgo de la obra
-
 ### CAPITULO III BIS. Del Contrato Electrónico de Transporte
 
 > <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2015)</small>
 
 Contrato electrónico de transporte privado de personas
+
+###### Artículo 7.
+
+836.- Cuando el empresario dirige la obra y pone los materiales en el contrato de obra a precio alzado, se sujetará a las reglas de este capítulo.
+
+Riesgo de la obra
 
 ###### Artículo 7.
 
@@ -14461,15 +14487,15 @@ Responsabilidades de los empresarios constructores
 
 864.- Los empresarios constructores son responsables por la inobservancia de las disposiciones municipales, estatales o federales, y por todo el daño que causen a los vecinos; así como por el pago de los impuestos y demás prestaciones laborales y de seguridad social que se deriven de la relación de trabajo con sus operarios.
 
+### CAPITULO IV. Del Contrato de Hospedaje
+
+Elementos del contrato
+
 ###### Artículo 7.
 
 865.- El contrato por el cual una persona se obliga a transportar, bajo su inmediata dirección o la de sus dependientes, a personas o bienes y otra persona llamada pasajero o cargador utiliza el transporte para sí mismo o para trasladar bienes, a cambio del pago de una cantidad cierta y en dinero se regirá por las reglas de este capítulo.
 
 Defectos de los conductores o medios de transporte
-
-### CAPITULO IV. Del Contrato de Hospedaje
-
-Elementos del contrato
 
 ###### Artículo 7.
 
@@ -14579,6 +14605,10 @@ Consecuencias del termino por fuerza mayor
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 12 DE AGOSTO DE 2015)</small>
 
+### CAPITULO I. De las Asociaciones
+
+Concepto de contrato de asociación
+
 ###### Artículo 7.
 
 880 Bis.- Es un acuerdo de voluntades por el cual una persona denominada usuario obtiene a través de una aplicación tecnológica, un medio de traslado ofrecido directamente por proveedores privados de transporte.
@@ -14586,10 +14616,6 @@ Consecuencias del termino por fuerza mayor
 > <small>(ADICIONADO, G.G. 12 DE AGOSTO DE 2015)</small>
 
 Contrato electrónico de transporte privado de personas a través de una prestadora de servicios electrónicos
-
-### CAPITULO I. De las Asociaciones
-
-Concepto de contrato de asociación
 
 ###### Artículo 7.
 
@@ -14633,13 +14659,13 @@ Personas que pueden ser prestadores de servicios electrónicos y proveedor priva
 
 880 Quintus.- Para ser prestador de servicios electrónicos y proveedor privado de transporte se deberá cumplir con los requisitos que prevé el Código Administrativo del Estado de México.
 
+### CAPITULO II. De las sociedades
+
 ###### Artículo 7.
 
 881.- El contrato de hospedaje tiene lugar cuando alguno presta a otro albergue, mediante la retribución convenida, comprendiéndose o no, según se estipule, los alimentos y otros servicios que origine el hospedaje.
 
 Consentimiento tácito en el hospedaje
-
-### CAPITULO II. De las sociedades
 
 ###### Artículo 7.
 
@@ -14661,15 +14687,15 @@ TITULO DECIMOPRIMERO
 
 De las Asociaciones, de las Sociedades y de la Aparcería Rural
 
+### CAPITULO III. De la Aparcería Rural
+
+Clases de aparcería rural
+
 ###### Artículo 7.
 
 885.- La asociación civil es un contrato por el cual se reúnen de manera que no sea enteramente transitoria, dos o más personas, para realizar un fin común y que no tenga carácter preponderantemente económico.
 
 Elementos formales del contrato de asociación
-
-### CAPITULO III. De la Aparcería Rural
-
-Clases de aparcería rural
 
 ###### Artículo 7.
 
@@ -14849,12 +14875,6 @@ Régimen de las instituciones de asistencia privada
 
 908.- Las instituciones de asistencia privada se regirán por las leyes especiales correspondientes.
 
-###### Artículo 7.
-
-909.- La sociedad civil se constituye mediante un contrato, por el cual los socios se obligan a combinar sus recursos o sus esfuerzos para la realización de un fin común de carácter preponderantemente económico, que no constituya una especulación comercial, mediante la aportación de sus bienes o industria, o de ambos, para dividir entre sí las ganancias y pérdidas.
-
-Aportación de bienes
-
 ### CAPITULO I. Del Juego y de la Apuesta
 
 Concepto del contrato de juego
@@ -14862,6 +14882,12 @@ Concepto del contrato de juego
 #### SECCION PRIMERA. Disposiciones Generales
 
 Concepto de sociedad civil
+
+###### Artículo 7.
+
+909.- La sociedad civil se constituye mediante un contrato, por el cual los socios se obligan a combinar sus recursos o sus esfuerzos para la realización de un fin común de carácter preponderantemente económico, que no constituya una especulación comercial, mediante la aportación de sus bienes o industria, o de ambos, para dividir entre sí las ganancias y pérdidas.
+
+Aportación de bienes
 
 ###### Artículo 7.
 
@@ -14933,15 +14959,15 @@ Estipulación sobre socios capitalistas
 
 917.- No puede estipularse que a los socios capitalistas se les restituya su aporte con una cantidad adicional haya o no ganancias.
 
+#### SECCION SEGUNDA. De los Socios
+
+Obligaciones de los socios
+
 ###### Artículo 7.
 
 918.- Cada socio estará obligado al saneamiento para el caso de evicción de los bienes que aporte a la sociedad, como corresponde a todo enajenante, y a indemnizar por los vicios de esos bienes, como lo está el vendedor respecto del comprador; más si lo que prometió fue el aprovechamiento de bienes determinados, responderá de ellos según los principios que rigen las obligaciones entre el arrendador y el arrendatario.
 
 Aumento de capital
-
-#### SECCION SEGUNDA. De los Socios
-
-Obligaciones de los socios
 
 ###### Artículo 7.
 
@@ -14977,6 +15003,10 @@ Responsabilidad del socio excluido
 
 924.- El socio excluido es responsable de la parte de pérdidas que le corresponda, y los otros socios pueden retener la parte del capital y utilidades de aquél, hasta concluir las operaciones pendientes al tiempo de la exclusión, debiendo hacerse hasta entonces la liquidación correspondiente.
 
+#### SECCION TERCERA. De las Asambleas
+
+Órgano supremo de la sociedad
+
 ###### Artículo 7.
 
 925.- La asamblea es el órgano supremo de la sociedad y sus decisiones son obligatorias.
@@ -14984,10 +15014,6 @@ Responsabilidad del socio excluido
 Excepto en los casos en que la ley exige unanimidad de votos, los acuerdos serán tomados por mayoría computada por aportaciones, pero cuando una sola represente el mayor interés y se trate de sociedades con más de tres socios se necesita por lo menor de la tercera parte de los mismos.
 
 Asambleas ordinarias y extraordinarias
-
-#### SECCION TERCERA. De las Asambleas
-
-Órgano supremo de la sociedad
 
 ###### Artículo 7.
 
@@ -15009,15 +15035,15 @@ Quórum legal
 
 Para las asambleas extraordinarias se requerirá un quórum del setenta y cinco por ciento de los socios en primera convocatoria y en segunda con mayoría simple.
 
+#### SECCION CUARTA. De la Administración de la Sociedad
+
+Socio o socios administradores
+
 ###### Artículo 7.
 
 929.- La administración de la sociedad debe conferirse a uno o más socios, en este último caso, los acuerdos serán tomados por mayoría de votos.
 
 Derecho de los socios no administradores
-
-#### SECCION CUARTA. De la Administración de la Sociedad
-
-Socio o socios administradores
 
 ###### Artículo 7.
 
@@ -15053,6 +15079,10 @@ Rendición de cuentas por los administradores
 
 934.- El socio o socios administradores están obligados a rendir cuentas siempre que lo pidan la mayoría de los socios, aún cuando no sea la época fijada en los estatutos sociales.
 
+#### SECCION QUINTA. De la Disolución de la Sociedad
+
+Causas de disolución
+
 ###### Artículo 7.
 
 935.- La sociedad se disuelve por:
@@ -15074,10 +15104,6 @@ VII. Por la renuncia de uno de los socios, cuando se trate de sociedades de dura
 VIII. Resolución Judicial.
 
 Renuncia maliciosa
-
-#### SECCION QUINTA. De la Disolución de la Sociedad
-
-Causas de disolución
 
 ###### Artículo 7.
 
@@ -15101,15 +15127,15 @@ Obligaciones de la sociedad con terceros
 
 939.- La disolución de la sociedad no modifica los compromisos contraídos con terceros.
 
+#### SECCION SEXTA. De la Liquidación de la Sociedad
+
+Tiempo en el que se liquida la sociedad
+
 ###### Artículo 7.
 
 940.- Disuelta la sociedad se pondrá inmediatamente en liquidación, la cual se practicará en el plazo de seis meses, salvo lo que dispongan los estatutos sociales.
 
 Agregado a la razón social
-
-#### SECCION SEXTA. De la Liquidación de la Sociedad
-
-Tiempo en el que se liquida la sociedad
 
 ###### Artículo 7.
 
@@ -15177,15 +15203,15 @@ Excepción de los socios industriales para responder por las pérdidas
 
 950.- Salvo lo dispuesto en los estatutos, los socios industriales no responderán de las pérdidas.
 
+### CAPITULO II. De la Renta Vitalicia
+
+Elementos de la renta vitalicia
+
 ###### Artículo 7.
 
 951.- La aparcería rural puede ser agrícola y de ganado.
 
 Formas del contrato de aparcería
-
-### CAPITULO II. De la Renta Vitalicia
-
-Elementos de la renta vitalicia
 
 ###### Artículo 7.
 
@@ -15353,15 +15379,15 @@ TITULO DECIMOSEGUNDO
 
 De los Contratos Aleatorios
 
+### CAPITULO I. De la Fianza en General
+
+Elementos del contrato de fianza
+
 ###### Artículo 7.
 
 978.- El contrato de juego es aquel mediante el cual, la ganancia o pérdida depende del resultado favorable o adverso de una actividad lícita que se desarrolla entre las partes, con fines de distracción o de ganancia o con ambos fines.
 
 Concepto del contrato de apuesta
-
-### CAPITULO I. De la Fianza en General
-
-Elementos del contrato de fianza
 
 ###### Artículo 7.
 
@@ -15397,15 +15423,15 @@ Loterías o rifas
 
 984.- Las loterías o rifas, cuando se permitan, serán regidas, por las leyes especiales que las autoricen, o por los reglamentos correspondientes.
 
+### CAPITULO II. De los Efectos de la Fianza entre el Fiador y el Acreedor
+
+Excepciones inherentes a la obligación principal
+
 ###### Artículo 7.
 
 985.- La renta vitalicia es un contrato por el cual el pensionario, se obliga a pagar periódicamente al pensionista, una cantidad de dinero o bienes fungibles, durante la vida de esa o de otra u otras personas determinadas, a cambio de la entrega al pensionario, de una cantidad de dinero o de un bien estimado, cuyo dominio se le transfiere.
 
 Constitución de la renta vitalicia
-
-### CAPITULO II. De los Efectos de la Fianza entre el Fiador y el Acreedor
-
-Excepciones inherentes a la obligación principal
 
 ###### Artículo 7.
 
@@ -15493,15 +15519,15 @@ TITULO DECIMOTERCERO
 
 De la Fianza
 
+### CAPITULO III. De los Efectos de la Fianza entre el Fiador y el Deudor
+
+Derecho de indemnización del fiador que paga
+
 ###### Artículo 7.
 
 1000.- La fianza es un contrato por el cual una persona se compromete con el acreedor a pagar por el deudor si éste no lo hace. Siempre deberá constar por escrito.
 
 Clases de fianza
-
-### CAPITULO III. De los Efectos de la Fianza entre el Fiador y el Deudor
-
-Derecho de indemnización del fiador que paga
 
 ###### Artículo 7.
 
@@ -15605,15 +15631,15 @@ Fianzas sujetas a este Código
 
 1017.- Quedan sujetos a las disposiciones de este título, las fianzas otorgadas por individuos o compañías accidentalmente en favor de determinadas personas siempre que no las extiendan en forma de póliza; que no las anuncien públicamente por la prensa o por cualquier otro medio, y que no empleen agentes que las ofrezcan.
 
+### CAPITULO IV. De los Efectos de la Fianza entre los Cofiadores
+
+Derecho del fiador que paga contra los otros fiadores
+
 ###### Artículo 7.
 
 1018.- El fiador tiene derecho a oponer las excepciones que sean inherentes a la obligación principal, mas no las que sean personales del deudor.
 
 Renuncia de derechos por el fiador
-
-### CAPITULO IV. De los Efectos de la Fianza entre los Cofiadores
-
-Derecho del fiador que paga contra los otros fiadores
 
 ###### Artículo 7.
 
@@ -15719,15 +15745,15 @@ Fiadores de un deudor por una sola deuda
 
 1033.- Si son varios los fiadores de un deudor por una sola deuda, responderá cada uno de ellos por la totalidad de aquélla, no habiendo convenio en contrario; pero sí sólo uno de los fiadores es demandado, podrá hacer llamar a los demás para que se defiendan juntamente, y en la proporción debida estén a las resultas del juicio.
 
+### CAPITULO V. De la Extinción de la Fianza
+
+Extinción de la obligación del fiador
+
 ###### Artículo 7.
 
 1034.- El fiador que paga debe ser indemnizado por el deudor, aunque éste no haya prestado su consentimiento para la constitución de la fianza. Si ésta se hubiere otorgado contra la voluntad del deudor, no tendrá derecho alguno el fiador para cobrar lo que pagó, sino en cuanto hubiere beneficiado el pago al deudor.
 
 Aspectos que abarca la indemnización al fiador
-
-### CAPITULO V. De la Extinción de la Fianza
-
-Extinción de la obligación del fiador
 
 ###### Artículo 7.
 
@@ -15793,15 +15819,15 @@ IV. Se obligó a relevarlo de la fianza en tiempo determinado, y éste ha transc
 
 V. La deuda se hace exigible por el vencimiento del plazo.
 
+### CAPITULO VI. De la Fianza Legal o Judicial
+
+Requisitos del fiador legal o judicial
+
 ###### Artículo 7.
 
 1043.- Cuando son dos o más los fiadores de un mismo deudor y por una misma deuda, el que la haya pagado podrá reclamar de cada uno de los otros la parte que proporcionalmente les corresponda.
 
 Insolvencia de algún fiador
-
-### CAPITULO VI. De la Fianza Legal o Judicial
-
-Requisitos del fiador legal o judicial
 
 ###### Artículo 7.
 
@@ -15847,15 +15873,15 @@ Responsabilidad del que fía al fiador
 
 1049.- El que fía al fiador, en caso de insolvencia de éste, es responsable para con los otros fiadores en los mismos términos en que lo sería el fiador fiado.
 
+### CAPITULO I. Disposiciones Generales
+
+Concepto de prenda
+
 ###### Artículo 7.
 
 1050.- La obligación del fiador se extingue al mismo tiempo que la del deudor y por las mismas causas que las demás obligaciones.
 
 Confusión de obligaciones del deudor y fiador
-
-### CAPITULO I. Disposiciones Generales
-
-Concepto de prenda
 
 ###### Artículo 7.
 
@@ -15909,15 +15935,15 @@ Derecho del fiador sobre deuda exigible
 
 1059.- Cuando la deuda principal por tiempo indefinido se vuelva exigible, el fiador puede pedir al acreedor que promueva judicialmente, dentro del plazo de un mes, el cumplimiento de la obligación, si no lo hace o deja caducar el juicio por inactividad, el fiador quedará liberado.
 
+### CAPITULO II. De la Prenda sobre Créditos
+
+Notificación al deudor del crédito
+
 ###### Artículo 7.
 
 1060.- La fianza que haya de darse por disposición de la ley o de providencia judicial, excepto cuando el fiador sea una institución de crédito, debe tener bienes inmuebles inscritos en el Registro Público de la Propiedad y de un valor que garantice las obligaciones que contraiga.
 
 Fiador legal o judicial que no requiere propiedad de inmuebles
-
-### CAPITULO II. De la Prenda sobre Créditos
-
-Notificación al deudor del crédito
 
 ###### Artículo 7.
 
@@ -15953,15 +15979,15 @@ TITULO DECIMOCUARTO
 
 De la Prenda
 
+### CAPITULO III. De los Derechos y Obligaciones del Acreedor y Deudor Prendarios
+
+Derechos del acreedor prendario
+
 ###### Artículo 7.
 
 1066.- Mediante la prenda se constituye un derecho real, sobre un bien mueble determinado, para garantizar el cumplimiento de una obligación y su preferencia en el pago.
 
 Requisitos formales de la prenda
-
-### CAPITULO III. De los Derechos y Obligaciones del Acreedor y Deudor Prendarios
-
-Derechos del acreedor prendario
 
 ###### Artículo 7.
 
@@ -16023,19 +16049,23 @@ Instituciones autorizadas para prestar dinero sobre prenda
 
 1076.- Las instituciones con autorización legal que presten dinero sobre prenda, se regirán por las leyes y reglamentos que las rijan y supletoriamente por las disposiciones de este título.
 
-###### Artículo 7.
-
-1077.- Si el objeto dado en prenda fuere un crédito o acciones negociables, para que la prenda quede legalmente constituida, debe ser notificado el deudor del crédito dado en prenda.
-
-Obligación del acreedor en poder del título
-
 ### CAPITULO IV. De la Venta del Bien Pignorado
 
 Incumplimiento del pago
 
 ###### Artículo 7.
 
+1077.- Si el objeto dado en prenda fuere un crédito o acciones negociables, para que la prenda quede legalmente constituida, debe ser notificado el deudor del crédito dado en prenda.
+
+Obligación del acreedor en poder del título
+
+###### Artículo 7.
+
 1078.- Siempre que la prenda fuere un crédito, el acreedor que tuviere en su poder el título, estará obligado a hacer todo lo que sea necesario para que no se altere o menoscabe el derecho que aquél representa.
+
+### CAPITULO V. De la Extinción de la Prenda
+
+Causas de extinción de la prenda
 
 ###### Artículo 7.
 
@@ -16050,10 +16080,6 @@ III. Ser indemnizado de los gastos necesarios y útiles que hiciere para conserv
 IV. Exigir del deudor otra prenda o el pago de la deuda, aún antes del plazo convenido, si el bien pignorado se pierde o se deteriora sin su culpa.
 
 Aviso al dueño para que defienda el bien
-
-### CAPITULO V. De la Extinción de la Prenda
-
-Causas de extinción de la prenda
 
 ###### Artículo 7.
 
@@ -16111,15 +16137,15 @@ Reducción de la prenda por pagos parciales
 
 1088.- Cuando el deudor esté facultado para hacer pagos parciales y se hayan dado en prenda varios bienes, o uno que sea cómodamente divisible, ésta se irá reduciendo proporcionalmente a los pagos hechos, con tal que los derechos del acreedor siempre queden garantizados.
 
+### CAPITULO I. De la Hipoteca en General
+
+Concepto de hipoteca
+
 ###### Artículo 7.
 
 1089.- Si el deudor no paga en el plazo convenido, el acreedor podrá pedir judicialmente la venta del bien pignorado.
 
 Aplicación del bien al acreedor
-
-### CAPITULO I. De la Hipoteca en General
-
-Concepto de hipoteca
 
 ###### Artículo 7.
 
@@ -16155,6 +16181,10 @@ Extensión del derecho de prenda
 
 1095.- El derecho que da la prenda al acreedor se extiende a los accesorios del bien.
 
+### CAPITULO II. De la hipoteca voluntaria
+
+Concepto de hipoteca voluntaria
+
 ###### Artículo 7.
 
 1096.- La prenda termina por:
@@ -16169,19 +16199,15 @@ TITULO DECIMOQUINTO
 
 De la Hipoteca
 
-### CAPITULO II. De la hipoteca voluntaria
+### CAPITULO III. De la Hipoteca Necesaria
 
-Concepto de hipoteca voluntaria
+Concepto de hipoteca necesaria
 
 ###### Artículo 7.
 
 1097.- La hipoteca es un derecho real constituido sobre bienes que no se entregan al acreedor y que da derecho a éste, en caso de incumplimiento de la obligación garantizada, a ser pagado con el valor de los bienes, en el grado de preferencia establecido por la ley.
 
 Requisito formal de la hipoteca
-
-### CAPITULO III. De la Hipoteca Necesaria
-
-Concepto de hipoteca necesaria
 
 ###### Artículo 7.
 
@@ -16371,12 +16397,6 @@ Clases de Hipoteca
 
 1124.- La hipoteca puede ser voluntaria, necesaria o inversa.
 
-###### Artículo 7.
-
-1125.- Es hipoteca voluntaria la convenida entre las partes o impuesta por disposición del propietario de los bienes sobre los que se constituye.
-
-Hipoteca constituida unilateralmente
-
 ### CAPÍTULO III BIS. De la hipoteca inversa
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TERCERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
@@ -16384,6 +16404,12 @@ Hipoteca constituida unilateralmente
 > <small>(ADICIONADO, G.G. 7 DE MAYO DE 2013)</small>
 
 Concepto de la hipoteca inversa
+
+###### Artículo 7.
+
+1125.- Es hipoteca voluntaria la convenida entre las partes o impuesta por disposición del propietario de los bienes sobre los que se constituye.
+
+Hipoteca constituida unilateralmente
 
 ###### Artículo 7.
 
@@ -16463,15 +16489,15 @@ Efectos de la segunda y subsecuentes prórrogas
 
 Lo mismo se observará en el caso de que el acreedor conceda un nuevo plazo para que se le pague el crédito.
 
+### CAPITULO IV. De la extinción de las hipotecas
+
+Causas de extinción de la hipoteca
+
 ###### Artículo 7.
 
 1137.- Se llama necesaria a la hipoteca especial y expresa que por disposición de la ley, están obligadas a constituir ciertas personas para asegurar los bienes que administran, o para garantizar los créditos de determinados acreedores.
 
 Plazo para exigir hipoteca necesaria
-
-### CAPITULO IV. De la extinción de las hipotecas
-
-Causas de extinción de la hipoteca
 
 ###### Artículo 7.
 
@@ -16533,6 +16559,12 @@ Derechos de los que pueden pedir la constitución de hipoteca necesaria
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 7 DE MAYO DE 2013)</small>
 
+### CAPITULO I. De los Documentos Registrables
+
+Documentos jurídicos registrables
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 7.
 
 1144 Bis.- Es la que se constituye sobre un inmueble que es la vivienda habitual y propia del pensionista para garantizar el capital que se le concede por el pensionario para cubrir sus necesidades económicas de vida, en los términos de este Capítulo.
@@ -16542,12 +16574,6 @@ Derechos de los que pueden pedir la constitución de hipoteca necesaria
 > <small>(ADICIONADO, G.G. 7 DE MAYO DE 2013)</small>
 
 Contrato de hipoteca inversa
-
-### CAPITULO I. De los Documentos Registrables
-
-Documentos jurídicos registrables
-
-> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 7.
 
@@ -16663,6 +16689,12 @@ Supletoriedad
 
 1144 Undecies.- No serán de aplicación para la hipoteca inversa los artículos 7.1112, 7.1113 y 7.1114 de este Código.
 
+### CAPITULO II. De la Prelación
+
+Prioridad de la inscripción
+
+> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
+
 ###### Artículo 7.
 
 1145.- La hipoteca concluye cuando:
@@ -16684,12 +16716,6 @@ VII. Se declare prescrita la acción hipotecaria;
 VIII. Se consolide o confunda la propiedad del bien hipotecado en el acreedor.
 
 Hipoteca extinguida por dación en pago
-
-### CAPITULO II. De la Prelación
-
-Prioridad de la inscripción
-
-> <small>(REFORMADO, G.G. 18 DE AGOSTO DE 2011)</small>
 
 ###### Artículo 7.
 
@@ -18204,3 +18230,37 @@ TERCERO.- El Consejo Dictaminador en un plazo que no excederá de treinta días 
 CUARTO.- Los lineamientos que para efecto se expidan deberán considerar los procedimientos necesarios a fin de conocer los Antecedentes Penales de los solicitantes; así como los de informar a las autoridades correspondientes del resultado del dictamen emitido por el Consejo Dictaminador.
 
 QUINTO.- Se derogan las disposiciones de igual o menor jerarquía que se, opongan a lo establecido en el presente Decreto.
+
+G.G. 6 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 57.- POR EL QUE SE EXPIDEN LA LEY DE LA GESTIÓN PÚBLICA DIGITAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS Y LA LEY DEL PERIÓDICO OFICIAL “GACETA DEL GOBIERNO” DEL ESTADO DE MÉXICO Y SE REFORMAN DIVERSAS DISPOSICIONES DE OTROS ORDENAMIENTOS JURÍDICOS”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial “Gaceta del Gobierno”
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”.
+
+TERCERO.- Para efecto de los trámites y servicios, las autoridades del Estado estarán obligados a colocar en los Portales Transaccionales, las aplicaciones necesarias, en los sitios web antes mencionados en un plazo no mayor a un año a partir del día en que entre en vigor el presente Decreto.
+
+CUARTO.- Las disposiciones legales y administrativas expedidas en la materia regulada por este Decreto, vigentes al momento de la publicación de la misma, seguirán vigentes en lo que no se opongan a ésta, hasta en tanto se expidan las que deban sustituirlas.
+
+QUINTO.- El Ejecutivo Estatal deberá presentar a consideración del Consejo durante su primera sesión, los proyectos de reglamentos, para su posterior publicación.
+
+SEXTO.- Las facultades que de conformidad con el presente Decreto deban ejercer las autoridades del Estado, las llevarán a cabo a través de los órganos que correspondan, de conformidad con el ámbito de competencia respectivo.
+
+SÉPTIMO.- Dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, se deberá instalar el Consejo Estatal de Gobierno Digital por convocatoria del Presidente de la misma.
+
+OCTAVO.- Dentro del año siguiente a la entrada en vigor de este Decreto, las autoridades del Estado deberán tener en el SEITS la totalidad de sus trámites y servicios.
+
+NOVENO.- En la primera sesión del Consejo se deberán expedir las disposiciones que deberán observar las autoridades del Estado, en el diseño y establecimiento de las medidas de seguridad y de protección de los datos personales que proporcionen las personas al efectuar trámites y servicios electrónicos, la Agenda Digital y los Estándares de Tecnologías de la Información, mismos que deberán publicarse en la Gaceta del Gobierno del Estado de México.
+
+DÉCIMO.- Para que las dependencias establecidas en el artículo 66 de la Ley de Gobierno Digital del Estado de México y Municipios sean autoridades certificadoras en el Estado, se debe celebrar un convenio de colaboración entre ellas y el Gobierno del Estado, para efecto de darles tal carácter.
+
+DÉCIMO PRIMERO.- El RETyS deberá operar en observancia a lo establecido por el presente Decreto, en un plazo no mayor a noventa días posteriores a la entrada en vigor del decreto.
+
+DÉCIMO SEGUNDO.- A partir de la entrada en vigor del presente Decreto, todos los trámites y servicios que prestan las autoridades del Estado podrán ser desahogados de manera electrónica, sin perjuicio de aquellos que ya se realizaban a través de esa vía.
+
+DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, queda abrogada la Ley para el Uso de los Medios Electrónicos del Estado de México publicada en el periódico oficial “Gaceta del Gobierno” el tres de septiembre de dos mil diez.
+
+DÉCIMO CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+DÉCIMO QUINTO.- Las erogaciones que deriven de la aplicación de este Decreto, deberán estar consideradas en la partida presupuestal que apruebe la Honorable Legislatura del Estado para tal efecto.
