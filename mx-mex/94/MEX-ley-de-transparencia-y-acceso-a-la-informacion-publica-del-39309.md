@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-3930
 country: "mx"
 rank: "ley"
 publication_date: "2004-04-30"
-last_updated: "2013-07-29"
+last_updated: "2016-01-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39309&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE MEXICO Y MUNICIPIOS -ANTES LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACION PUBLICA DEL ESTADO DE MEXICO-
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE FEBRERO DE 2016 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 29 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 6 DE ENERO DE 2016.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 30 de abril de 2004.
 
@@ -99,61 +101,69 @@ Los particulares tendrán acceso preferente a la información personal que de el
 
 Para los efectos de esta Ley, se entenderá por:
 
-> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-I. Ley: A la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios;
+I. Comité de Información: al cuerpo colegiado que se integre para resolver sobre la información que deberá clasificarse, así como para atender y resolver los requerimientos de las Unidades de Información y del Instituto.
 
-> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-II. Datos personales: La información concerniente a una persona física, identificada o identificable;
+II. Datos Personales: a cualquier información concerniente a una persona física o jurídica colectiva identificada o indentificable, establecida en cualquier formato o modalidad y que esté almacenada en bases de datos, conforme a lo establecido en esta Ley.
 
-> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-III. Órganos Autónomos: El Instituto Electoral del Estado de México, el Tribunal Estatal Electoral, la Comisión de Derechos Humanos del Estado de México, el Instituto de Transparencia y Acceso a la Información Pública del Estado de México y Municipios, las Universidades e Instituciones de Educación Superior dotadas de autonomía, y cualquier otro establecido en la Constitución Política del Estado Libre y Soberano de México;
+III. Derecho de Acceso a la Información: a la facultad que tiene toda persona para acceder a la información pública generada, o en poder de los sujetos obligados con forme (sic) a esta Ley.
 
-IV. Servidor Público.- Toda persona que desempeñe un empleo, cargo o comisión en alguno de los poderes del Estado, en los municipios, en los tribunales administrativos y organismos auxiliares, así como los titulares o quienes hagan sus veces en empresas de participación estatal o municipal, sociedades o asociaciones asimiladas a estas, en los fideicomisos públicos y en los órganos autónomos. Por lo que toca a los demás trabajadores del sector auxiliar, su calidad de servidores públicos estará determinada por los ordenamientos legales respectivos;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+IV. Documentos: a los expedientes, reportes, estudios, actas, resoluciones, oficios, correspondencia, acuerdos, directivas, directrices, circulares, convenios, contratos, instructivos, notas, memorándums, estadísticas, o bien, cualquier otro registro que documente el ejercicio de las facultades o la actividad de los sujetos obligados y sus servidores públicos, sin importar su fuente o fecha de elaboración. Los documentos podrán estar en cualquier formato, sea escrito, sonoro, visual, electrónico, informático, holográfico o de cualquier tecnología de información existente.
 
-V. Información Pública: La contenida en los documentos que los sujetos obligados generen en el ejercicio de sus atribuciones;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-VI. Información Clasificada: Aquella considerada por la presente Ley como reservada o confidencial;
+V. Información Clasificada: aquella considerada por la presente Ley como reservada o confidencial.
 
-VII. Información Reservada: La clasificada con este carácter de manera temporal por las disposiciones de esta Ley, cuya divulgación puede causar daño en términos de lo establecido por artículo 20 del presente ordenamiento;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+VI. Información Confidencial: a la clasificada con este carácter, por las disposiciones de esta u otras leyes.
 
-VIII. Información Confidencial: La clasificada con este carácter por las disposiciones de esta u otras leyes;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+VII. Información Pública: a la contenida en los documentos que los sujetos obligados generen en ejercicio de sus atribuciones.
 
-IX. Instituto: El Instituto de Transparencia y Acceso a la Información Pública del Estado de México y Municipios;
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-X. Comité de Información: Cuerpo colegiado que se integre para resolver sobre la información que deberá clasificarse, así como para atender y resolver los requerimientos de las Unidades de Información y del Instituto;
+VIII. Información Reservada: a la clasificada con este carácter de manera temporal por las disposiciones de esta Ley, cuya divulgación puede causar daño en términos de lo establecido por el artículo 20 del presente ordenamiento.
 
-> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-XI. Unidades de Información: Las establecidas por los sujetos obligados para tramitar las solicitudes de acceso a la información pública, a datos personales, así como a corrección y supresión de éstos;
+IX. Instituto: al Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios.
 
-> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-XII. Servidor Público Habilitado: Persona encargada dentro de las diversas unidades administrativas o áreas del sujeto obligado, de apoyar con la información o datos personales que se ubiquen en la misma, a sus respectivas Unidades de Información, respecto de las solicitudes presentadas, y aportar en primera instancia el fundamento y motivación de la clasificación de la información;
+X. Ley: a la Ley de Transparencia y Acceso a la Información Pública del Estado de México y Municipios.
 
-> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-XIII. Seguridad del Estado: La integridad de los elementos esenciales del Estado Mexicano y del Estado de México y Municipios, como población, territorio, gobierno, orden jurídico, la soberanía estatal, la autonomía municipal y la seguridad interior;
+XI. Órganos Autónomos: al Instituto Electoral del Estado de México, el Tribunal Estatal Electoral, la Comisión de Derechos Humanos del Estado de México, el Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios, las Universidades e Instituciones de Educación Superior dotadas de autonomía, y cualquier otro establecido en la Constitución Política del Estado Libre y Soberano de México.
 
-> <small>(REFORMADA, G.G. 24 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-XIV. Versión Pública: Documento en el que se elimina, suprime o borra la información clasificada como reservada o confidencial para permitir su acceso;
+XII. Seguridad del Estado: a la integridad de los elementos esenciales del Estado de México y Municipios, como población, territorio, gobierno, orden jurídico, la soberanía estatal, la autonomía municipal y la seguridad interior.
 
-> <small>(ADICIONADA, G.G. 24 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-XV. Documentos: Los expedientes, estudios, actas, resoluciones, oficios, acuerdos, circulares, contratos, convenios, estadísticas o bien cualquier registro en posesión de los sujetos obligados, sin importar su fuente o fecha de elaboración. Los documentos podrán estar en medios escritos, impresos, sonoros, visuales, electrónicos, informáticos u holográficos; y
+XIII. Servidor Público: a toda persona que desempeñe un empleo, cargo o comisión en alguno de los poderes del Estado, en los municipios, en los tribunales administrativos y organismos auxiliares, así como los titulares o quienes hagan sus veces en empresas de participación estatal o municipal, sociedades o asociaciones asimiladas a estas, en los fideicomisos públicos y en los órganos autónomos. Por lo que toca a los demás trabajadores del sector auxiliar, su calidad de servidores públicos estará determinada por los ordenamientos legales respectivos.
 
-> <small>(ADICIONADA, G.G. 24 DE JULIO DE 2008)</small>
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-XVI. Derecho de Acceso a la Información: Es la facultad que tiene toda persona para acceder a la información pública generada, o en poder de los sujetos obligados conforme a esta Ley.
+XIV. Servidor Público Habilitado: a la persona encargada dentro de las diversas unidades administrativas o áreas del sujeto obligado, de apoyar con información y datos personales que se ubiquen en la misma, a sus respectivas Unidades de Información, respecto de las solicitudes presentadas, y aportar en primera instancia el fundamento y motivación de la clasificación de la información.
+
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+XV. Unidades de Información: a las establecidas por los sujetos obligados para tramitar las solicitudes de acceso a la información pública, a datos personales, así como los derechos ARCO definidos en la Ley de Protección de Datos Personales del Estado de México.
+
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+
+XVI. Versión Pública: al documento en el que se elimina, suprime o borra la información clasificada como reservada o confidencial para permitir su acceso.
 
 ## TITULO SEGUNDO. SUJETOS DE LA LEY
 
@@ -435,7 +445,7 @@ I. Contenga datos personales;
 
 II. Así lo consideren las disposiciones legales; y
 
-III. Se entregue a los Sujetos Obligados bajo promesa de secresía.
+III. Se entregue a los Sujetos Obligados bajo promesa de secresía (sic).
 
 > <small>(REFORMADO, G.G. 29 DE DICIEMBRE DE 2006)</small>
 
@@ -495,7 +505,7 @@ III. Aprobar, modificar o revocar la clasificación de la información;
 
 IV. Supervisar la aplicación de los lineamientos en materia de acceso a la información pública para el manejo, mantenimiento y seguridad de los datos personales, así como los criterios de clasificación expedidos por el Instituto;
 
-V. Elaborar un programa para facilitar la sistematización y actualización de la información, mismo que deberá remitirse al Instituto dentro de los primeros veinte días de cada año; y (sic)
+V. Elaborar un programa para facilitar la sistematización y actualización de la información, mismo que deberá remitirse al Instituto dentro de los primeros veinte días de cada año; y
 
 VI. Enviar los datos necesarios para la elaboración del informe anual del Instituto, de conformidad con lo que éste solicite;
 
@@ -983,9 +993,9 @@ II. Acto impugnado, Unidad de Información que lo emitió y fecha en que se tuvo
 
 III. Razones o motivos de la inconformidad;
 
-> <small>(REFORMADA, G.G. 29 DE DICIEMBRE DE 2006)</small>
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-IV. Firma del recurrente o en su caso huella digital para el caso de que se presente por escrito, requisitos sin los cuales no se dará trámite al recurso.
+IV. Firma autógrafa, electrónica avanzada del recurrente o en su caso huella digital para el caso de que se presente por escrito, requisitos sin los cuales no se dará trámite el recurso.
 
 Al escrito de recurso deberá acompañarse copia del escrito que contenga el acto impugnado.
 
@@ -1256,3 +1266,37 @@ G.G. 29 DE JULIO DE 2013.
 PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 6 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 57. POR EL QUE SE EXPIDEN LA LEY DE LA GESTIÓN PÚBLICA DIGITAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS Y LA LEY DEL PERIÓDICO OFICIAL "GACETA DEL GOBIERNO" DEL ESTADO DE MÉXICO Y SE REFORMAN DIVERSAS DISPOSICIONES DE OTROS ORDENAMIENTOS JURÍDICOS".]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno"
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno"
+
+TERCERO.- Para efecto de los trámites y servicios, las autoridades del Estado estarán obligados a colocar en los Portales Transaccionales, las aplicaciones necesarias, en los sitios web antes mencionados en un plazo no mayor a un año a partir del día en que entre en vigor el presente Decreto.
+
+CUARTO.- Las disposiciones legales y administrativas expedidas en la materia regulada por este Decreto, vigentes al momento de la publicación de la misma, seguirán vigentes en lo que no se opongan a ésta, hasta en tanto se expidan las que deban sustituirlas.
+
+QUINTO.- El Ejecutivo Estatal deberá presentar a consideración del Consejo durante su primera sesión, los proyectos de reglamentos para su posterior publicación.
+
+SEXTO.- Las facultades que de conformidad con el presente Decreto deban ejercer las autoridades del Estado, las llevarán a cabo a través de los órganos que correspondan, de conformidad con el ámbito de competencia respectivo.
+
+SÉPTIMO.- Dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, se deberá instalar el Consejo Estatal de Gobierno Digital por convocatoria del Presidente de la misma.
+
+OCTAVO.- Dentro del año siguiente a la entrada en vigor de este Decreto, las autoridades del Estado deberán tener en el SEITS la totalidad de sus trámites y servicios.
+
+NOVENO.- En la primera sesión del Consejo se deberán expedir las disposiciones que deberán observar las autoridades del Estado, en el diseño y establecimiento de las medidas de seguridad y de protección de los datos personales que proporcionen las personas al efectuar trámites y servicios electrónicos, la Agenda Digital y los Estándares de Tecnologías de la Información, mismos que deberán publicarse en la Gaceta del Gobierno del Estado de México.
+
+DÉCIMO.- Para que las dependencias establecidas en el artículo 66 de la Ley de Gobierno Digital del Estado de México y Municipios sean autoridades certificadoras en el Estado, se debe celebrar un convenio de colaboración entre ellas y el Gobierno del Estado, para efecto de darles tal carácter.
+
+DÉCIMO PRIMERO.- El RETyS deberá operar en observancia a lo establecido por el presente Decreto en un plazo no mayor a noventa días posteriores a la entrada en vigor del decreto.
+
+DÉCIMO SEGUNDO.- A partir de la entrada en vigor del presente Decreto, todos los trámites y servicios que prestan las autoridades del Estado podrán ser desahogados de manera electrónica, sin perjuicio de aquellos que ya se realizaban a través de esa vía.
+
+DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, queda abrogada la Ley para el Uso de los Medios Electrónicos del Estado de México publicada en el periódico oficial "Gaceta del Gobierno" el tres de septiembre de dos mil diez.
+
+DÉCIMO CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+DÉCIMO QUINTO.- Las erogaciones que deriven de la aplicación de este Decreto, deberán estar consideradas en la partida presupuestal que apruebe la Honorable Legislatura del Estado para tal efecto.
