@@ -4,7 +4,7 @@ identifier: "MEX-codigo-de-procedimientos-administrativos-del-estado-de-17468"
 country: "mx"
 rank: "codigo"
 publication_date: "1997-02-07"
-last_updated: "2015-08-07"
+last_updated: "2016-01-06"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17468&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # CODIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MEXICO
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE FEBRERO DE 2016 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE JULIO DE 2015.
-
-> <small>N. DE E. LA FE DE ERRATAS PUBLICADA EN LA G.G. EL 7 DE AGOSTO DE 2015 NO APLICA AL ARTICULADO DEL DECRETO NÚMERO 461 PUBLICADO EN LA G.G. DE 6 DE JULIO DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ENERO DE 2016.
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el viernes 7 de febrero de 1997.
 
@@ -291,31 +291,41 @@ II. Por edicto que se publique por una sola vez en la Gaceta del Gobierno o en l
 
 Las subsecuentes notificaciones del procedimiento o del proceso, aún cuando se trate de actos y resoluciones que puedan ser impugnados, podrán realizarse por estrados siempre que exista apercibimiento de por medio;
 
-> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-III. Por estrados ubicados en sitio abierto de las oficinas de las dependencias públicas o del Tribunal, cuando así lo señale la parte interesada, cuando se trate de actos distintos a citaciones, requerimientos y demás resoluciones o actos que puedan ser impugnados o bien, cuando se trate de las subsecuentes notificaciones del procedimiento o del proceso, una vez realizada la primer notificación por edicto en la que se aperciba al particular para que en el término de tres días señale domicilio dentro del Estado de México, y éste no hubiese comparecido al procedimiento o proceso, o cuando habiéndose apersonado no hubiese señalado domicilio dentro del Estado.
+III. Por estrados físicos o digitales. Los primeros serán los ubicados en sitio abierto de las oficinas de las dependencias públicas o del Tribunal, cuando así lo señale la parte interesada, cuando se trate de actos distintos a citaciones, requerimientos y demás resoluciones o actos que puedan ser impugnados o bien, cuando se trate de las subsecuentes notificaciones del procedimiento o del proceso, una vez realizada la primer notificación por edicto en la que se aperciba al particular para que en el término de tres días señale domicilio dentro del Estado de México, y este no hubiese comparecido al procedimiento o proceso, o cuando habiéndose apersonado no hubiese señalado domicilio dentro del Estado.
 
-Las notificaciones por estrados se harán en una lista que se fijará y publicará en el local de las oficinas de las dependencias públicas o de las salas del Tribunal, en lugar visible y de fácil acceso, así como en el portal de internet de dichas oficinas o del Tribunal. La fijación y publicación de esta lista se realizará a primera hora hábil del día siguiente al de la fecha de la resolución que la ordena.
+Las notificaciones por estrados se harán en una lista que se fijará y publicará en el local de las oficinas de las dependencias públicas o de las salas del Tribunal, en lugar visible y de fácil acceso, así como en el portal transaccional de dichas oficinas o del Tribunal. La fijación y publicación de esta lista se realizará a primera hora hábil del día siguiente al de la fecha de la resolución que la ordena.
 
-El notificador, actuario o funcionario público de la dependencia de que se trate, asentará en el expediente la razón respectiva;
+El notificador, actuario o funcionario público de la dependencia de que se trate, asentará en el expediente la razón respectiva.
 
 IV. En las oficinas de las dependencias públicas o del Tribunal, si se presentan los particulares o autoridades administrativas a quienes debe notificarse, incluyendo las que han de practicarse personalmente o por oficio;
 
-> <small>(REFORMADA, G.G. 22 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-V. Por vía electrónica previa solicitud que realice la parte interesada en los términos que precisa la Ley para el Uso de Medios Electrónicos del Estado de México;
+V. Por vía electrónica previa solicitud que realice la parte interesada en los términos que precisa la Ley de Gobierno Digital del Estado de México y Municipios.
 
 > <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
 
 VI. Por cualquier otro medio que expresamente permitan las leyes aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
+
 ###### Artículo 26.
 
-Las notificaciones personales se harán en el domicilio que para tal efecto se haya señalado en el procedimiento o proceso administrativo. Cuando el procedimiento administrativo se inicie de oficio, las notificaciones se practicarán en el domicilio registrado ante las autoridades administrativas.
+Las notificaciones personales se harán en el domicilio físico o electrónico que para tal efecto se haya señalado en el procedimiento o proceso administrativo. Cuando el procedimiento administrativo se inicie de oficio, las notificaciones se practicarán en el domicilio registrado ante las autoridades administrativas.
 
-Las notificaciones se entenderán con la persona que deba ser notificada o su representante legal; a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio para que se le espere a una hora fija del día hábil siguiente y de negarse a recibirlo, se efectuará por instructivo que se fijará en la puerta o lugar visible del propio domicilio. Si quien haya de notificarse no atendiere el citatorio, la notificación se hará por conducto de cualquier persona que se encuentre en el domicilio en que se realice la diligencia y, de negarse a recibirla, se realizará por instructivo que se fijará en la puerta de ese domicilio. En los casos en que el domicilio se encontrare cerrado, la citación o notificación se entenderá con el vecino más cercano, debiéndose fijar una copia adicional en la puerta o lugar visible del domicilio.
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
 
-En el momento de la notificación se entregará al notificado o a la persona con quien se entienda la diligencia, copia simple del documento a que se refiere la notificación.
+Se entenderá como domicilio electrónico, al correo electrónico que los solicitantes otorguen para efecto de oír y recibir todo tipo de notificaciones y documentos
+
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Para el caso de las notificaciones realizadas en el domicilio físico, estas se entenderán con la persona que deba ser notificada o su representante legal; a falta de ambos, el notificador dejará citatorio con cualquier persona que se encuentre en el domicilio para que se le espere a una hora fija del día hábil siguiente y de negarse a recibirlo, se efectuará por instructivo que se fijará en la puerta o lugar visible del propio domicilio. Si quien haya de notificarse no atendiere el citatorio, la notificación se hará por conducto de cualquier persona que se encuentre en el domicilio en que se realice la diligencia y, de negarse a recibirla, se realizará por instructivo que se fijará en la puerta de ese domicilio. En los casos en que el domicilio se encontrare cerrado, la citación o notificación se entenderá con el vecino más cercano, debiéndose fijar una copia adicional en la puerta o lugar visible del domicilio.
+
+> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+
+En el momento de la realización de la notificación física se entregará al notificado o a la persona con quien se entienda la diligencia, copia simple del documento a que se refiere la notificación.
 
 > <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
 
@@ -325,19 +335,25 @@ El notificador asentará razón de todas y cada una de las circunstancias observ
 
 El Tribunal podrá encomendar por exhorto a los tribunales de lo contencioso administrativo de los estados, la práctica de las diligencias de notificación que deban efectuarse en sus respectivas jurisdicciones.
 
+> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+
+Las notificaciones electrónicas se tendrán por realizadas cuando estén disponibles en el domicilio electrónico de los solicitantes o de las partes.
+
 > <small>(ADICIONADO, G.G. 22 DE ENERO DE 2014)</small>
 
 Artículo 26 bis.- Las notificaciones por vía electrónica se sujetarán a las reglas siguientes:
 
-I. A cualquier autoridad que tuviere intervención en el juicio, la primera notificación deberá hacerse por oficio impreso en los términos precisados en el artículo 25 fracción I, de este Código, o a través de oficio digital si ya cuenta con registro electrónico.
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
+
+I. A cualquier autoridad que tuviere intervención en el juicio, la primera notificación deberá hacerse por oficio impreso en los términos precisados en el artículo 25 fracción I, de este Código, o a través de documento electrónico si ya cuenta con domicilio electrónico registrado.
 
 En todos los casos, las constancias de notificación respectivas se agregarán a los autos.
 
 Todas las autoridades están obligadas a acusar de recibo la recepción electrónica de las notificaciones que les fueren practicadas a través de medios electrónicos, a más tardar al día siguiente al en que las reciban. En este plazo la dependencia pública o el Tribunal con acuse o sin él, tendrá por hecha la notificación;
 
-II. Los actores o terceros interesados que cuenten con registro electrónico, deberán acusar por ese medio la recepción de la notificación.
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-De no acusar el recibo dentro de las veinticuatro horas siguientes a la en que sea remitida la notificación, el Tribunal la tendrá por hecha;
+II. Se tendrá por notificados a los actores o terceros interesados en el momento en que la notificación se encuentre disponible en su domicilio electrónico.
 
 III. En cualquier momento del juicio, las partes que hayan solicitado notificaciones electrónicas podrán pedir al Tribunal que dejen de practicarse en esa forma y se les realicen por escrito.
 
@@ -359,15 +375,9 @@ III. Las que se hagan por edicto, desde el día hábil posterior al de la public
 
 IV. El día siguiente hábil en que el interesado o su representante se haga sabedor de la notificación omitida o irregular.
 
-> <small>(ADICIONADA, G.G. 22 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-V. Las realizadas por vía electrónica, al día siguiente al en que la parte notificada envíe a las dependencias públicas o al Tribunal el acuse de recibo.
-
-Si dicho acuse no se recibe dentro del día hábil siguiente al en que se haya enviado la notificación, ésta surtirá efectos en términos del párrafo anterior.
-
-> <small>(ADICIONADO, G.G. 22 DE ENERO DE 2014)</small>
-
-El notificador de la dependencia pública o el actuario del Tribunal agregarán al expediente la constancia respectiva.
+V. Las realizadas por vía electrónica, en el momento en el que la notificación se encuentre disponible en el domicilio electrónico de los solicitantes o las partes.
 
 > <small>(REFORMADO, G.G. 22 DE ENERO DE 2014)</small>
 
@@ -3020,3 +3030,37 @@ TERCERO. La Secretaría de la Contraloría del Estado de México en un plazo de 
 CUARTO. Para la operación del Registro Estatal de Inspectores en materia fiscal, las secretarías de Finanzas y de la Contraloría deberán suscribir el convenio correspondiente.
 
 QUINTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido por el presente Decreto.
+
+G.G. 6 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 57. POR EL QUE SE EXPIDEN LA LEY DE LA GESTIÓN PÚBLICA DIGITAL PARA EL ESTADO DE MÉXICO Y MUNICIPIOS Y LA LEY DEL PERIÓDICO OFICIAL “GACETA DE GOBIERNO” DEL ESTADO DE MÉXICO Y SE REFORMAN DIVERSAS DISPOSICIONES DE OTROS ORDENAMIENTOS JURÍDICOS”.]
+
+PRIMERO.- Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno"
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Gaceta del Gobierno”
+
+TERCERO.- Para efecto de los trámites y servicios, las autoridades del Estado estarán obligados a colocar en los Portales Transaccionales, las aplicaciones necesarias, en los sitios web antes mencionados en un plazo no mayor a un año a partir del día en que entre en vigor el presente Decreto.
+
+CUARTO.- Las disposiciones legales y administrativas expedidas en la materia regulada por este Decreto, vigentes al momento de la publicación de la misma, seguirán vigentes en lo que no se opongan a ésta, hasta en tanto se expidan las que deban sustituirlas.
+
+QUINTO.- El Ejecutivo Estatal deberá presentar a consideración del Consejo durante su primera sesión, los proyectos de reglamentos para su posterior publicación.
+
+SEXTO.- Las facultades que de conformidad con el presente Decreto deban ejercer las autoridades del Estado, las llevarán a cabo a través de los órganos que correspondan, de conformidad con el ámbito de competencia respectivo.
+
+SÉPTIMO.- Dentro de los treinta días naturales siguientes a la entrada en vigor del presente Decreto, se deberá instalar el Consejo Estatal de Gobierno Digital por convocatoria del Presidente de la misma.
+
+OCTAVO.- Dentro del año siguiente a la entrada en vigor de este Decreto, las autoridades del Estado deberán tener en el SEITS la totalidad de sus trámites y servicios.
+
+NOVENO.- En la primera sesión del Consejo se deberán expedir las disposiciones que deberán observar las autoridades del Estado, en el diseño y establecimiento de las medidas de seguridad y de protección de los datos personales que proporcionen las personas al efectuar trámites y servicios electrónicos, la Agenda Digital y los Estándares de Tecnologías de la Información, mismos que deberán publicarse en la Gaceta del Gobierno del Estado de México.
+
+DÉCIMO.- Para que las dependencias establecidas en el artículo 66 de la Ley de Gobierno Digital del Estado de México y Municipios sean autoridades certificadoras en el Estado, se debe celebrar un convenio de colaboración entre ellas y el Gobierno del Estado, para efecto de darles tal carácter.
+
+DÉCIMO PRIMERO.- El RETyS deberá operar en observancia a lo establecido por el presente Decreto en un plazo no mayor a noventa días posteriores a la entrada en vigor del decreto.
+
+DÉCIMO SEGUNDO.- A partir de la entrada en vigor del presente Decreto, todos los trámites y servicios que prestan las autoridades del Estado podrán ser desahogados de manera electrónica, sin perjuicio de aquellos que ya se realizaban a través de esa vía.
+
+DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, queda abrogada la Ley para el Uso de los Medios Electrónicos del Estado de México publicada en el periódico oficial “Gaceta del Gobierno” el tres de septiembre de dos mil diez.
+
+DÉCIMO CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+DÉCIMO QUINTO.- Las erogaciones que deriven de la aplicación de este Decreto, deberán estar consideradas en la partida presupuestal que apruebe la Honorable Legislatura del Estado para tal efecto.
