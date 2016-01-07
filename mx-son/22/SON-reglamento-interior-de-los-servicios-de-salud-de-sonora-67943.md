@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-los-servicios-de-salud-de-sonora-67943"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-26"
-last_updated: "2011-07-04"
+last_updated: "2016-01-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67943&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DE LOS SERVICIOS DE SALUD DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 4 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE ENERO DE 2016.
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 26 de marzo del 2009.
 
@@ -33,9 +33,11 @@ REGLAMENTO INTERIOR DE LOS SERVICIOS DE SALUD DE SONORA
 
 ### CAPÍTULO I. DEL OBJETO Y ESTRUCTURA DEL ORGANISMO
 
+> <small>(REFORMADO, B.O. 7 DE ENERO DE 2016)</small>
+
 ###### ARTÍCULO 1°.
 
-Los Servicios de Salud de Sonora es un organismo descentralizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propios, con funciones de autoridad administrativa en los términos establecidos en la Ley de su creación, tiene como objeto prestar servicios de salud a población que no cuenta con seguridad social y familias beneficiadas con el Sistema de Protección Social en Salud en la Entidad, en materia de salubridad general, en cumplimiento a lo dispuesto por la Ley General de Salud, la Ley de Salud para el Estado de Sonora, los Acuerdos de Coordinación para la Descentralización Integral de los Servicios de Salud y el de Coordinación para la Ejecución del Sistema de Protección Social en Salud en el Estado, celebrados entre el Gobierno Federal y el Gobierno del Estado y demás disposiciones jurídicas que le son aplicables.
+Los Servicios de Salud de Sonora es un organismo descentralizado de la Administración Pública Estatal, con personalidad jurídica y patrimonio propios, con funciones de autoridad administrativa en los términos establecidos en la Ley de su creación, tiene como objeto prestar servicios de salud a población que no cuenta con seguridad social y personas afiliadas al Sistema de Protección Social en Salud en la Entidad, en materia de salubridad general, en cumplimiento a lo dispuesto por la Ley General de Salud, la Ley de Salud para el Estado de Sonora, los Acuerdos de Coordinación para la Descentralización Integral de los Servicios de Salud y demás disposiciones jurídicas que le son aplicables.
 
 ###### ARTÍCULO 2°.
 
@@ -91,7 +93,7 @@ f) Dirección General de Administración;
 
 g) Dirección General de Planeación y Desarrollo;
 
-h) Dirección General del Régimen de Protección Social en Salud;
+h) (DEROGADO, B.O. 7 DE ENERO DE 2016)
 
 i) Dirección de Tecnologías de la Información y Comunicaciones;
 
@@ -313,9 +315,9 @@ XXIV.- Proporcionar información del área de su competencia, de acuerdo a lo di
 
 XXV.- Presentar a la Junta los informes de actividades y estados financieros anuales de los Servicios;
 
-XXVI.- Dirigir el Sistema en el Estado;
+XXVI.- (DEROGADA, B.O. 7 DE ENERO DE 2016)
 
-XXVII.- Representar al Sistema ante terceros con la facultad de suscribir acuerdos, convenios, contratos y otros actos jurídicos en los que se deriven funciones y competencias del mismo, de conformidad con las disposiciones aplicables;
+XXVII.- (DEROGADA, B.O. 7 DE ENERO DE 2016)
 
 XXVIII.- Implementar las acciones necesarias para el cumplimiento del sistema integral de archivos; y
 
@@ -361,9 +363,11 @@ XVI.- Custodiar y garantizar el cuidado, conservación y buen uso de los recurso
 
 XVII.- Supervisar y evaluar el desarrollo de los programas autorizados a las unidades administrativas que le están adscritas;
 
-XVIII.- Coordinar la elaboración del Programa Operativo Anual del Sistema y someterlo a consideración del Presidente Ejecutivo y de la Junta;
+XVIII.- (DEROGADA, B.O. 7 DE ENERO DE 2016)
 
-XIX.- Vigilar la correcta administración de los recursos que sean necesarios para el mantenimiento, desarrollo de infraestructura y equipamiento de las unidades prestadoras de servicios de salud, conforme a las prioridades que determine el Gobierno del Estado, para el adecuado funcionamiento del Sistema;
+> <small>(REFORMADA, B.O. 7 DE ENERO DE 2016)</small>
+
+XIX.- Vigilar la correcta administración de los recursos que sean necesarios para el mantenimiento, desarrollo de infraestructura y equipamiento de las unidades prestadoras de servicios de salud, conforme a las prioridades que determine el Gobierno del Estado, para el adecuado funcionamiento de los Servicios;
 
 XX.- Apoyar la implementación de esquemas de operación que mejoren la atención, modernicen la administración de servicios y registros clínicos, alienten la certificación del personal y promuevan la certificación de establecimientos de atención médica;
 
@@ -387,7 +391,7 @@ IV.- Evaluar la impartición de atención médica y sus servicios auxiliares de 
 
 V.- Asesorar y apoyar a los municipios de la Entidad que lo soliciten, en la instrumentación de medidas y acciones en materia de atención médica y demás relacionadas con la salubridad, cuya ejecución esté a cargo de los Ayuntamientos;
 
-VI.- Coordinar las acciones para que las unidades prestadoras de servicios de salud cuenten con los elementos de capacidad, seguridad y calidad necesarios para cubrir las intervenciones del Catálogo Universal de Servicios Esenciales de Salud en el marco de las acciones del Sistema;
+VI.- (DEROGADA, B.O. 7 DE ENERO DE 2016)
 
 VII.- Participar en la definición de criterios para evaluar el desempeño de las unidades de atención en el Estado y proponer programas de intervención y mejora continua que coadyuven al mejoramiento en la prestación de los servicios;
 
@@ -435,9 +439,9 @@ XII.- Dirigir el diseño e implementación de los proyectos de infraestructura t
 
 XIII.- Coordinar la detección de necesidades de equipo de cómputo, mantenimiento e insumos y canalizarlos a las instancias correspondientes;
 
-XIV.- Aprobar las bases para la elaboración del programa presupuesto anual del Sistema, así como el de los acuerdos de gestión entre los prestadores de servicios de salud;
+XIV.- (DEROGADA, B.O. 7 DE ENERO DE 2016)
 
-XV.- Validar la información financiera de los recursos del Sistema transferidos al Estado, en los términos de los convenios respectivos y vigilar la aplicación de la normatividad en la materia; y
+XV.- (DEROGADA, B.O. 7 DE ENERO DE 2016)
 
 XVI.- Las demás que le confieran las disposiciones legales aplicables y el Presidente Ejecutivo, dentro de la esfera de sus atribuciones.
 
@@ -561,7 +565,9 @@ XI.- Las demás que le confieran las disposiciones legales aplicables y el Presi
 
 La Dirección General de Servicios de Salud a la Persona estará adscrita a la Coordinación General de Servicios de Salud y tendrá el cumplimiento de las siguientes atribuciones:
 
-I.- Planear, organizar, dirigir y controlar la operación de los servicios de atención médica, garantizando el acceso a los servicios de salud a la población que no cuenta con seguridad social y familias beneficiadas del Sistema, priorizando aquellos servicios que actúan sobre la prevención de riesgos a la salud;
+> <small>(REFORMADA, B.O. 7 DE ENERO DE 2016)</small>
+
+I.- Planear, organizar, dirigir y controlar la operación de los servicios de atención médica, garantizando el acceso a los servicios de salud a la población que no cuenta con seguridad social y personas afiliadas al Sistema, priorizando aquellos servicios que actúan sobre la prevención de riesgos a la salud;
 
 II.- Planear, organizar, dirigir, coordinar y controlar las actividades que garanticen la integración de los diferentes servicios de cada una de las unidades médicas, en los que se incluyen área médica, enfermería, trabajo social, auxiliares de diagnóstico y tratamiento, con énfasis en las acciones de prevención y protección a la salud dirigidas prioritariamente a los programas de acción de atención a la salud de la Infancia y Adolescencia; Adulto y Adulto Mayor; Salud Reproductiva; Salud Bucal y Prevención de Accidentes y lo que requieran para fomentar el cumplimiento de la normatividad vigente, en el marco de lo señalado en los Programas Nacional y Estatal de Salud;
 
@@ -569,7 +575,7 @@ III.- Fortalecer el Modelo Integrado de Atención a la Salud (MIDAS), a fin de g
 
 IV.- Participar, vigilar y evaluar en forma permanente, en coordinación con las áreas competentes, las Unidades Médicas de los Servicios, a fin de que alcancen y mantengan la Acreditación y la Certificación en atención médica, con énfasis en la capacidad resolutiva de las Unidades Médicas para lograr y garantizar mejores condiciones de salud;
 
-V.- Coordinar la operación de los programas para beneficio del Sistema, a través de los mecanismos de supervisión y tutoría para el desarrollo de acciones enfocadas a la protección social en salud de la población, bajo un esquema de gestión que garantice el máximo beneficio a la población;
+V.- (DEROGADA, B.O. 7 DE ENERO DE 2016)
 
 VI.- Coordinar y controlar las acciones en materia de promoción de la salud en sus vertientes de educación saludable, comunidades saludables y cartillas nacionales de salud, para fortalecer el saneamiento básico, la salud familiar y escolar, así como el apoyo a los programas de acción, impulsando la participación social sonorense y la corresponsabilidad ciudadana que contribuya a fortalecer estilos de vida saludables;
 
@@ -655,9 +661,7 @@ I.- Proponer al Coordinador General de Administración las políticas, normas, s
 
 II.- Coordinar, operar y supervisar los sistemas de administración y control del personal en apego a las disposiciones legales aplicables;
 
-> <small>(REFORMADA, B.O. 4 DE JULIO DE 2011)</small>
-
-III. Recibir y administrar, en coordinación con la Dirección General del Régimen Protección Social en Salud, así como con la Dirección General de Planeación y Desarrollo, las aportaciones asignadas para operar el Sistema; y radicar, en su caso, los recursos necesarios a los prestadores de servicio, mediante los diversos acuerdos;
+III. (DEROGADA, B.O. 7 DE ENERO DE 2016)
 
 IV.- Supervisar que los recursos financieros sean transferidos de manera transparente y oportuna;
 
@@ -751,61 +755,9 @@ XVII.- Elaborar los anteproyectos de inversión y gestionar la aplicación de re
 
 XVIII.- Las demás que le confieran las disposiciones legales aplicables y el Presidente Ejecutivo, dentro de la esfera de sus atribuciones.
 
-> <small>(REFORMADO PRIMER PARRAFO, B.O. 4 DE JULIO DE 2011)</small>
-
 ###### ARTÍCULO 34.
 
-La Dirección General del Régimen de Protección Social en Salud estará adscrita a la Coordinación General de Administración y Finanzas y tendrá el cumplimiento de las siguientes atribuciones:
-
-> <small>(REFORMADA, B.O. 4 DE JULIO DE 2011)</small>
-
-l.- Integrar el Programa Operativo Anual del Sistema en coordinación con la Dirección General de Planeación y Desarrollo, para la consideración de la Coordinación General de Administración y Finanzas y del Presidente Ejecutivo;
-
-II.- Mantener coordinación con la Comisión Nacional de Protección Social en Salud para la instrumentación y adecuado funcionamiento del Sistema en el Estado;
-
-III.- Ejercer las funciones asignadas al Régimen de Protección Social en Salud, según el artículo 3° del Reglamento de la Ley General de Salud en Materia de Protección Social en Salud;
-
-IV.- Participar en la definición del marco organizacional del Sistema;
-
-V.- Vigilar la atención a los beneficiarios en las unidades médicas, así como las acciones para la implantación del Sistema;
-
-VI.- Proporcionar a la Federación la información estadística de recursos y servicios que se brinden a la población incorporada al Sistema;
-
-VII.- Coordinar la relación entre el Sistema y otras Instituciones públicas y privadas;
-
-VIII.- Validar los acuerdos de gestión elaborados coordinadamente entre las unidades prestadoras de servicios de salud y el Sistema;
-
-> <small>(REFORMADA, B.O. 4 DE JULIO DE 2011)</small>
-
-IX.- Validar y autorizar las aportaciones para la operación del Sistema que sean asignadas a las unidades prestadoras de servicios, en coordinación con la Dirección General de Planeación y Desarrollo;
-
-> <small>(REFORMADA, B.O. 4 DE JULIO DE 2011)</small>
-
-X.- Realizar la programación de metas y presupuesto de las unidades de acuerdo a las obligaciones del Sistema y en coordinación con la Dirección General de Planeación y Desarrollo;
-
-XI.- Supervisar la aplicación de las aportaciones de acuerdo a las (sic) lineamientos de integración del gasto marcados por la Comisión Nacional de Protección Social en Salud en coordinación con la Dirección General de Administración;
-
-XII.- Vigilar que los recursos financieros del Sistema sean transferidos de manera transparente y oportuna;
-
-XIII.- Conciliar con la Dirección General de Administración la información comprobatoria del ejercicio de los recursos financieros del Sistema, así como el seguimiento al gasto del mismo;
-
-XIV.- Elaborar y enviar a la Comisión Nacional de Protección Social en Salud, los reportes financieros comprometidos en el convenio de implementación del Sistema y en los lineamientos establecidos por la misma;
-
-XV.- Vigilar que la provisión de servicios de salud se efectúe a través de los prestadores de servicios, con la garantía de la disposición y suministro de insumos necesarios para su oferta oportuna y de calidad, en los términos de la legislación vigente;
-
-XVI.- Supervisar que la provisión de servicios de salud se realice de conformidad con lo que se estipule en los acuerdos de gestión;
-
-XVII.- Implementar y evaluar la estrategia de afiliación de acuerdo a los compromisos y lineamientos emitidos por la Comisión Nacional de Protección Social en Salud y conforme a las prioridades definidas por el Estado;
-
-XVIII.- Coordinar acciones con las instituciones de seguridad social, con la finalidad de intercambiar información y comprobar la situación de aseguramiento de los beneficiarios del Sistema;
-
-XIX.- Administrar la integración y actualización del padrón de beneficiarios del Sistema;
-
-> <small>(REFORMADA, B.O. 4 DE JULIO DE 2011)</small>
-
-XX.- Programar las necesidades de inversión y equipamiento de acuerdo a las necesidades generales de los Servicios, en coordinación con la Dirección General de Planeación y Desarrollo, para su seguimiento y aplicación; y
-
-XXI.- Las demás que le confieran las disposiciones legales aplicables y el Presidente Ejecutivo, dentro de la esfera de sus atribuciones.
+(DEROGADO, B.O. 7 DE ENERO DE 2016)
 
 > <small>(ADICIONADO, B.O. 4 DE JULIO DE 2011)</small>
 
@@ -1062,3 +1014,15 @@ El presente Acuerdo entrará en vigor al día siguiente de su publicación en el
 ###### ARTICULO SEGUNDO.
 
 Los manuales de organización, de procedimientos y de servicios al público, así como las cartas compromiso al ciudadano y el Reglamento Interno de la Unidad de Especialidades Médicas de Cirugía Ambulatoria, deberán expedirse dentro de los sesenta días posteriores a la publicación del presente Acuerdo.
+
+B.O. 7 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LOS SERVICIOS DE SALUD DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Los manuales de Organización, de Procedimientos y de Servicios al Público de los Servicios de Salud de Sonora, deberán actualizarse de conformidad con las disposiciones del presente Acuerdo, dentro de los sesenta días posteriores a la publicación del mismo en el Boletín Oficial del Gobierno del Estado.
