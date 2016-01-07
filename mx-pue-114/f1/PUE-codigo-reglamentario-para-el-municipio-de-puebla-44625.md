@@ -4,7 +4,7 @@ identifier: "PUE-codigo-reglamentario-para-el-municipio-de-puebla-44625"
 country: "mx"
 rank: "codigo"
 publication_date: "2004-12-31"
-last_updated: "2016-01-06"
+last_updated: "2016-01-07"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44625&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "PUE"
 ---
 # CODIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO Y SUS ACUERDO DE MODIFICACIONES, SE SUGIERE CONSULTAR LOS ARTÍCULOS TRANSITORIOS CORRESPONDIENTES.]</small>
+
 CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE ENERO DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Puebla, el viernes 31 de diciembre de 2004.
 
@@ -263,595 +265,367 @@ El Municipio de Puebla será gobernado por un Cuerpo Colegiado, al que se le den
 
 El Ayuntamiento, para la ejecución y cumplimiento de las atribuciones que le señalan las Leyes, se reunirá en el recinto oficial, denominado "Salón de Cabildos del Palacio Municipal del Municipio de Puebla" o cuando el caso lo requiera, en el recinto previamente declarado oficial, para efecto de sesionar en términos de lo dispuesto en la Ley Orgánica y de conformidad con las disposiciones jurídicas señaladas en el presente Código.
 
+> <small>(DEROGADO CON EL APARTADO Y ARTÍCULOS QUE LO INTEGRAN POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)</small>
+
 ### CAPÍTULO 5. DE LA INTEGRACIÓN Y FUNCIONAMIENTO DEL CABILDO
 
 ### CAPÍTULO 6. DE LAS JUNTAS AUXILIARES
 
 ###### Artículo 22.
 
-El presente Capítulo tiene por objeto regular las Sesiones de Cabildo y la organización y el funcionamiento de las Comisiones del Ayuntamiento. Este ordenamiento será obligatorio para los integrantes del Ayuntamiento y el Secretario General.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 23.
 
-El Presidente, los Regidores y el Síndico Municipal, son inviolables por las opiniones que manifiesten en el ejercicio de su cargo y no podrán ser reconvenidos ni enjuiciados por ellas, con excepción de lo dispuesto en este Capítulo.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 24.
 
-Para efectos de este Capítulo se entiende por Sesión de Cabildo, la reunión que efectúan todos los miembros del Ayuntamiento como cuerpo colegiado con la finalidad de conocer, discutir y en su caso aprobar la instrumentación de medidas específicas que resuelvan las necesidades colectivas que enfrenta la sociedad que representan. Es el acto de Gobierno Municipal de mayor investidura.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 25.
 
-Las cuestiones no previstas en este ordenamiento serán resueltas por el propio Ayuntamiento por el voto de la mayoría simple de sus miembros y de conformidad con las disposiciones legales.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)</small>
 
 DE LAS SESIONES DE CABILDO
 
 ###### Artículo 26.
 
-Son obligaciones y atribuciones del Presidente Municipal:
-
-I. Asistir con puntualidad a las Sesiones de Cabildo para Presidirlas;
-
-II. Hacer la declaratoria del inicio de la Sesión de Cabildo;
-
-III. Dirigir las Sesiones de Cabildo, cuidando que se desarrollen conforme al orden del Día;
-
-IV. Conceder el uso de la palabra en las sesiones de Cabildo, a los integrantes del Ayuntamiento en el orden que lo soliciten;
-
-V. Hacer uso de la palabra en las Sesiones de Cabildo para emitir su criterio sobre el asunto que se esté tratando, teniendo voto de calidad en caso de empate, sea cual fuere la forma de votación;
-
-VI. Solicitar la votación respectiva al punto en discusión;
-
-VII. Observar y hacer que los demás miembros del Ayuntamiento guarden el respeto entre sí y al recinto oficial, durante el desarrollo de las Sesiones de Cabildo pudiendo amonestar o en su caso proponer al pleno la imposición de medidas disciplinarias para lograr el orden necesario, consistentes en retirarle el uso de la palabra, extrañamiento u ordenar el desalojo del recinto donde se realice la Sesión;
-
-VIII. Solicitar el auxilio de la fuerza pública con el objeto de salvaguardar la inviolabilidad del recinto oficial del Cabildo;
-
-IX. Procurar la amplia discusión de cada asunto en las Sesiones de Cabildo;
-
-X. Resolver las mociones de procedimiento u orden que se formulen por los integrantes del Ayuntamiento, durante el desarrollo de las sesiones;
-
-XI. Citar en la sesión del Cabildo en los términos de la Ley Orgánica Municipal a cualquier funcionario de la Administración Pública Municipal, quien sólo podrá ser cuestionado en relación con el tema que motive su comparecencia;
-
-XII. Hacer la declaratoria del cierre de la Sesión de Cabildo, cuando esté agotada el orden del día o cuando proceda conforme a lo dispuesto por el presente Capítulo;
-
-XIII. Ordenar que los asuntos aprobados en Sesión, se comuniquen a quien corresponda; y
-
-XIV. Vigilar y hacer cumplir el presente Capítulo.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 27.
 
-Los Regidores forman parte del cuerpo colegiado que delibera, analiza, resuelve, evalúa, controla y vigila los actos de administración y del Gobierno Municipal, además de ser los encargados de vigilar la correcta prestación de los servicios públicos, así como el adecuado funcionamiento de los diversos ramos de la administración municipal, con base en lo dispuesto por la Ley Orgánica Municipal.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 28.
 
-Los Regidores podrán proponer al Ayuntamiento un plan anual de trabajo de sus respectivas comisiones y podrán generar propuestas para las diversas áreas de la administración municipal; así como la adopción de las medidas que estimen pertinentes para el mejor desempeño de sus funciones.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 29.
 
-Son obligaciones y atribuciones de los Regidores:
-
-I. Asistir con puntualidad a las Sesiones de Cabildo;
-
-II. Solicitar al Presidente Municipal el uso de la palabra esperando el turno que les corresponda para su intervención en las sesiones de Cabildo;
-
-III. Guardar el respeto a los demás integrantes del Ayuntamiento, funcionarios, Comparecientes, público asistente y al recinto oficial donde se celebren las Sesiones;
-
-IV. Manifestar su inconformidad sobre el trámite que dicte el Presidente Municipal para la solución de determinado asunto, debiendo señalar el que a su criterio sea el procedente y exponer los motivos y fundamentos en que se base;
-
-V. Solicitar la información que requieran para el desempeño de sus atribuciones a los titulares de las diferentes áreas de la Administración Pública Municipal y al Síndico;
-
-VI. Cumplir con las obligaciones o comisiones que les hayan sido encomendadas;
-
-VII. Asistir a las reuniones de trabajo de las Comisiones de las cuales sea integrante;
-
-VIII. Proporcionar al Ayuntamiento todos los informes o dictámenes que les sean requeridos sobre las comisiones que desempeñen; y
-
-IX. Vigilar el cumplimiento de las disposiciones normativas aplicables, disposiciones administrativas y circulares emanadas del Ayuntamiento.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 30.
 
-Son obligaciones y atribuciones del Síndico Municipal:
-
-I. Asistir con toda puntualidad a las Sesiones de Cabildo, con derecho a participar en ellas con voz y con voto;
-
-II. Sentarse a la derecha del Presidente Municipal con las excepciones que este Capítulo señala;
-
-III. Guardar el orden y respeto a los integrantes del Ayuntamiento y al Recinto Oficial donde se celebren las Sesiones;
-
-IV. Solicitar al Presidente le conceda el uso de la palabra para expresar su criterio respecto al asunto que considere pertinente esperando el turno que le corresponda, durante el desarrollo de las sesiones de Cabildo;
-
-V. Formular las protestas conducentes cuando estime perjudiciales los acuerdos del Ayuntamiento;
-
-VI. Rendir por escrito un informe anual de las actividades realizadas, cuando sea requerido por el Ayuntamiento o por el Presidente Municipal; y
-
-VII. Proporcionar la información requerida por los miembros del Ayuntamiento;
-
-> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2007)</small>
-
-VIII. Realizar un estudio, análisis y revisión del contenido de la impresión de las Actas de las Sesiones de Cabildo, que serán aprobadas en la Sesión Ordinaria siguiente.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 31.
 
-Son obligaciones y atribuciones del Secretario del Ayuntamiento:
-
-I. Citar a Sesiones ordinarias, solemnes y privadas de Cabildo;
-
-II. Asistir a las Sesiones de Cabildo teniendo voz informativa, careciendo de voto;
-
-III. Sentarse a la izquierda del Presidente con las excepciones que este Capítulo señala;
-
-IV. Recoger y computar los votos de los miembros del Ayuntamiento en la Sesión de Cabildo dando cuenta de ello;
-
-V. Levantar acta de las Sesiones agregando los anexos respectivos;
-
-VI. Llevar un registro de asistencia a las Sesiones en la que hará constar las faltas injustificadas o justificadas de los miembros del Ayuntamiento;
-
-VII. Notificar los asuntos aprobados en Sesión de Cabildo a quien corresponda;
-
-VIII. Dar curso a los oficios y documentos que estén dirigidos al Ayuntamiento o por su competencia a alguna de las Comisiones, debiendo llevar el registro de los mismos;
-
-IX. Facilitar a los miembros del Ayuntamiento, el asesoramiento necesario para el buen desempeño de sus funciones;
-
-X. Llevar un archivo sobre citatorios, ordenes del día y cualquier material informativo que ayude para aclaraciones futuras;
-
-XI. Rendir por escrito, los informes que le sean solicitados por el Presidente, Síndico o los Regidores; y
-
-XII. Cuidar de la publicación de los dispositivos jurídicos y/o acuerdos del pleno del Cabildo en su caso;
-
-> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2007)</small>
-
-XIII.- Remitir y notificar mediante oficio los acuerdos aprobados por los integrantes del Honorable Cuerpo Edilicio y elaborar las Actas de Cabildo, en un término de 10 días hábiles posteriores a la celebración de la Sesión de Cabildo;
-
-> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2007)</small>
-
-XIV.- Hacer del conocimiento de la Contraloría Municipal la Estructura Administrativa con la que funcionan las Secretarías, Dependencias y Organismos Públicos Descentralizados de la Administración Municipal;
-
-> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2007)</small>
-
-XV.- Hacer del conocimiento del Ayuntamiento y de los Organismos Públicos Descentralizados, al final de cada año, una memoria documental y estadística de los trabajos realizados por el Cabildo Municipal;
-
-> <small>(ADICIONADA, P.O. 12 DE FEBRERO DE 2007)</small>
-
-XVI.- Integrar un archivo trimestral que consigne las Actas Circunstanciadas que se levantan con motivo del trabajo de las Comisiones Permanentes y Transitorias del Honorable Cabildo Municipal.
-
-> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2007)</small>
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 31 Bis.
 
-La preparación, logística, desahogo y ejecución de las Sesiones de Cabildo, así como la notificación de los acuerdos aprobados por los miembros del Cabildo, estarán a cargo de la Dirección Jurídica de la Secretaría del Honorable Ayuntamiento.
-
-> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2007)</small>
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 31 Ter.
 
-Son facultades y obligaciones de la Dirección Jurídica de la Secretaría del Honorable Ayuntamiento:
-
-I.- Recopilar la Noticia Administrativa de todas las dependencias que conforman la administración centralizada municipal, mismas que serán remitidas a más tardar tres días hábiles antes del día en que se efectué la notificación de la Sesión Ordinaria;
-
-II.- Llevar un registro con números consecutivos de Dictámenes, Puntos de Acuerdo, Excitativas e Informes que se presenten al Pleno del Honorable Cabildo para su aprobación, mismos que observarán las siguientes disposiciones:
-
-a) Quien remita Dictámenes, Puntos de Acuerdo, Excitativas e Informes a la Dirección Jurídica, deberá hacerlo con cuarenta y ocho horas antes a la notificación para la cita a la Sesión de Cabildo correspondiente:
-
-b) Todos los Dictámenes, Puntos de Acuerdo, Excitativas e Informes serán homologados a un formato único que presentará: la imagen institucional del H. Ayuntamiento; el número consecutivo que corresponda; una breve síntesis a manera de cintillo que exponga quien lo presente, la facultad que ostenta y el asunto en materia; antecedentes, considerandos de hecho y de derecho que correspondan; y en su caso los resolutivos que dictaminen, acuerden o reglamenten en materia municipal; y
-
-c) Los Dictámenes, Puntos de Acuerdo, Excitativas e Informes serán signados al margen y al calce respectivamente por quien los presenta.
-
-III.- Elaborar los documentos derivados de los acuerdos que tome el Honorable Cabildo, así como observar su debido cumplimiento hasta dejados en estado de resolución;
-
-IV.- Hacer la transcripción estenográfica de las Actas de Cabildo; y
-
-V.- Llevar una memoria digital o base de datos de las Sesiones de Cabildo efectuadas, los Dictámenes, Puntos de Acuerdo, Excitativas e Informes que contengan las mismas y la descripción del estado que guarda cada acuerdo tomado por los Integrantes del Honorable Cabildo.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 32.
 
-Las sesiones de Cabildo se celebrarán en el salón de Cabildo, a menos que por acuerdo del mismo, se declare de manera temporal como recinto oficial otro lugar.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 33.
 
-El lugar o lugares en que se celebren las Sesiones de Cabildo serán inviolables y sólo tendrá acceso la fuerza pública, en los casos establecidos en la Ley Orgánica y en este Capítulo.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 34.
 
-Las sesiones de Cabildo serán ordinarias, extraordinarias y solemnes las cuales serán públicas, y privadas cuando así lo determine el propio Capítulo.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 35.
 
-El Ayuntamiento sesionará ordinariamente, por lo menos una vez al mes, el día y la hora que así lo acuerde, pudiendo modificar esta fecha cuando por razones fundadas así lo considere necesario.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 36.
 
-La cita para las Sesiones ordinarias, solemnes ya sea abiertas o privadas estará a cargo del Secretario del Ayuntamiento, quien lo hará por lo menos con setenta y dos horas de anticipación, debiendo anexar el orden del día así como copia de los dictámenes que serán presentados.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 37.
 
-Las Sesiones ordinarias de Cabildo se desarrollarán en el orden siguiente:
-
-1. Lista de Asistencia;
-
-2. Declaratoria de Quórum y apertura de la Sesión;
-
-3. Lectura y Aprobación en su caso del orden del día;
-
-4. Aprobación del acta de la Sesión anterior;
-
-5. Informe del Secretario del Ayuntamiento de los asuntos existentes en cartera que se hubiesen turnado a Comisiones, así como de los tramitados por el mismo Secretario o el Presidente Municipal;
-
-6. Informe mensual de la noticia administrativa y estadística que rinde el Presidente Municipal;
-
-7. Lectura, discusión y en su caso aprobación de los dictámenes, iniciativas o proposiciones;
-
-8. Asuntos generales.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 38.
 
-Serán extraordinarias las sesiones que se celebren cuando algún asunto urgente lo requiera.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 39.
 
-Las Sesiones extraordinarias serán convocadas con una hora mínimo de anticipación, por el Presidente Municipal o la mayoría de los Regidores.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 40.
 
-Cuando la Sesión extraordinaria sea convocada por la mayoría de los Regidores deberán hacerlo por escrito, expresando claramente el motivo que la origine y cuando exista posibilidad, deberán anexar copia de los documentos que sean necesarios para el desahogo del o los temas a tratar.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 41.
 
-En las Sesiones extraordinarias sólo se tratarán los asuntos listados en el orden del día.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 42.
 
-El orden del día de las Sesiones extraordinarias y solemnes se ajustará a lo establecido en este Capítulo y en la ley Orgánica Municipal.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 43.
 
-Las Sesiones de Cabildo serán públicas salvo en los siguientes casos:
-
-I. Cuando el Ayuntamiento acuerde que un asunto por su contenido deba tratarse con reserva, el Presidente Municipal ordenará se desaloje el recinto y declarará que se abre la Sesión Privada;
-
-II. Cuando el público asistente no guarde el orden, en cuyo caso el Presidente Municipal los invitara abandonar el recinto, pudiendo utilizar la fuerza pública para tal efecto reanudando la Sesión únicamente con los miembros del Ayuntamiento; y
-
-III. Cuando lo determine el Cabildo.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 44.
 
-A las sesiones públicas concurrirán quienes deseen hacerlo, pero en todo caso deberán guardar el orden y abstenerse de hacer manifestaciones ruidosas u ofensivas.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 45.
 
-En el caso de la fracción primera del artículo 43 los miembros del Ayuntamiento, estarán obligados a guardar su contenido sin perjuicio de la responsabilidad civil, penal o administrativa en que pudiera incurrir quien lo divulgara.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 46.
 
-Las Sesiones durarán tres horas sin perjuicio de que puedan prolongarse a solicitud de cualquier Regidor por el tiempo necesario, previo acuerdo de la mayoría de los integrantes del Cabildo.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 47.
 
-La suspensión procederá una vez concluido el punto correspondiente del orden del día que se hubiese iniciado antes del término señalado.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 48.
 
-Por acuerdo del Cabildo, se podrá declarar como permanente una Sesión:
-
-I. Cuando a juicio de sus miembros el asunto o asuntos que la motivaron exijan la prolongación indefinida de la misma;
-
-II. Cuando exista en el Municipio un estado de emergencia que lo amerite.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 49.
 
-Serán Sesiones solemnes de Cabildo, aquellas que el Ayuntamiento les de ese carácter, por la importancia del asunto de que se trate; en todo caso se considerarán Sesiones solemnes:
-
-I. La Sesión en que se instale el Ayuntamiento;
-
-II. La que se dedique a recibir el informe anual del Presidente Municipal sobre el estado que guarda la administración del Municipio.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 50.
 
-Si a la Sesión de Cabildo asistiera el Ejecutivo del Estado se abrirá la sesión designando una comisión de cortesía que lo recibirá a la puerta del recinto y lo acompañara hasta su lugar en el presidium; al término de la Sesión la misma comisión de cortesía lo acompañara a la salida del recinto.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 51.
 
-Cuando el Ejecutivo del Estado ingrese o salga del recinto de las Sesiones del Cabildo los miembros del Ayuntamiento lo recibirán y despedirán de pie.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 52.
 
-Cuando el Ejecutivo del Estado asista a la Sesión tomará asiento en el presidium al lado izquierdo del Presidente Municipal.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 53.
 
-Si el Ejecutivo del Estado desea dirigir la palabra en la Sesión deberá solicitarlo al Presidente Municipal, quien decidirá lo procedente comunicándolo al pleno del Cabildo.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 54.
 
-Si a la Sesión de Cabildo acudiese el Presidente de la República se aplicarán las mismas disposiciones a que se refieren los artículos anteriores.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 55.
 
-Si a la Sesión de Cabildo asistiere la representación de cualquiera de los Poderes del Estado o de la Unión, el pleno del Cabildo decidirá el ceremonial que deba practicarse, que en todos los casos atenderá al respeto y colaboración que se deba entre dichos Poderes.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 56.
 
-En aquellas Sesiones que el pleno del Cabildo considere deberán rendirse los Honores de Ordenanza a los Símbolos Patrios pero siempre se realizarán en las que se establecen en el Artículo 49.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 57.
 
-Para que las Sesiones de Cabildo sean válidas se necesita como requisito previo que se haya citado a la totalidad de los integrantes del Ayuntamiento en términos de este Capítulo.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 58.
 
-Para efectos del artículo anterior el domicilio de los miembros del Ayuntamiento será:
-
-I. Para el Presidente Municipal la Oficialía de Partes de la Secretaría General;
-
-II. Para los Regidores la Oficialía de Partes de la sala de Regidores; y
-
-III. Para el Sindico la Oficialía de partes de la Sindicatura.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 59.
 
-Para instalar legalmente la Sesión de Cabildo es necesaria la presencia de la mayoría simple de los Miembros del Ayuntamiento y del Secretario General o la persona que lo sustituya legalmente.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 60.
 
-Si pasada una hora de la señalada para el inicio de la Sesión no hubiera el número suficiente de miembros para integrar el quórum legal los presentes podrán retirarse siendo obligación del Secretario General levantar acta en la que conste tal circunstancia debiendo convocar a una nueva sesión la que se desarrollará dentro de las 24 horas siguientes.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 61.
 
-Cuando algún integrante del Ayuntamiento no pueda acudir a cualquier Sesión de Cabildo lo comunicara oportunamente y por escrito al Secretario General.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 62.
 
-Si por alguna causa algún integrante del Ayuntamiento no puede permanecer dentro de la Sesión de Cabildo en la sesión deberá comunicarlo de manera verbal al Presidente Municipal para poder retirarse de la Sesión.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 63.
 
-Las participaciones de los integrantes del Ayuntamiento durante las Sesiones de Cabildo se ajustaran en todo caso a la orden del día previamente aprobada y deberán realizarse en términos atentos y respetuosos hacia el Cabildo Municipal.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 64.
 
-En la presentación y discusión de los asuntos del orden del día, cualquier integrante del Ayuntamiento podrá solicitar autorización para utilizar equipo de sonido, fotográfico, electrónico o de ayuda audiovisual con la finalidad de ilustrar su intervención.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 65.
 
-Quien presente un asunto de discusión deberá estar presente durante la misma.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 66.
 
-El Presidente Municipal al dirigir los debates podrá tomar parte en la discusión y dar los informes que considere necesarios o que le sean solicitados.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 67.
 
-Cuando la discusión derive en cuestiones ajenas al tema tratado el Presidente Municipal hará volver al tema y procurara centrar el debate y llamar al orden a quien lo quebrante.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 68.
 
-A criterio de los integrantes del Ayuntamiento los asuntos se discutirán primero en lo general y enseguida en lo particular.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 69.
 
-En la discusión de los asuntos que se planteen participaran los integrantes del Ayuntamiento que deseen hacerlo. El Presidente Municipal concederá el uso de la palabra pero en todo caso observara el orden de solicitud de la misma.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 70.
 
-Los Regidores integrantes de la Comisión ponente podrán participar en la discusión del asunto planteado tantas veces como sea necesario, los demás integrantes del Cabildo podrán participar hasta en tres ocasiones.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 71.
 
-La discusión de cualquier asunto se podrá diferir o ampliar mediante acuerdo de los integrantes del Cabildo.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 72.
 
-Si a la pregunta del Presidente, los integrantes del Ayuntamiento determinan que el asunto está suficientemente discutido, declarará cerrada la discusión y procederá a levantar la votación de la misma.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 73.
 
-Los oradores que participen en la Sesión de Cabildo se dirigirán a los integrantes del mismo, en forma impersonal y con todo debido respeto.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 74.
 
-El señalar faltas cometidas por funcionarios públicos en el ejercicio de sus funciones no será considerado faltar al orden.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 75.
 
-Desechando un dictamen, éste no podrá volver a presentar al sometimiento del Cabildo; sólo se procederá a la devolución del dictamen a la Comisión que lo elaboró, en caso de que el Cabildo acuerde que se presente en la siguiente Sesión, con las reformas que al efecto se hubiesen señalado.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 76.
 
-Si algún miembro del Cabildo sé inconforma con el trámite que el Presidente Municipal dé a algún asunto, podrá presentar su inconformidad y será discutido hablando hasta dos Regidores en contra y dos a favor enseguida se tomará la votación para rectificar o ratificar el trámite.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 77.
 
-Sólo se suspenderá la discusión de un asunto por las causas siguientes:
-
-I. Por que el pleno del cabildo acuerde dar preferencia a otro asunto de mayor importancia o urgencia;
-
-II. Por propuesta de suspensión que realice algún Regidor quien deberá expresar lo motivos fundados de su solicitud y ésta sea aprobada por la mayoría del Cabildo; y
-
-III. Cuando sea necesario como medida para establecer el orden o la seguridad.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 78.
 
-Los oradores no podrán ser interrumpidos salvo que medie moción al orador o de orden en los términos del presente Capítulo.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 79.
 
-Cualquier miembro del Ayuntamiento podrá realizar mociones al orador que esté haciendo uso de la palabra, con el objeto de preguntar o solicitar aclaración respecto de algún punto de su intervención.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 80.
 
-Toda moción al orador deberá dirigirse al Presidente Municipal, quien consultará al orador si da su aceptación. En caso de que la acepte tomará las medidas pertinentes para que se lleve a cabo; de no ser así, la sesión seguirá su curso.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 81.
 
-Se considera como moción de orden toda propuesta que tenga algunos de los siguientes objetivos:
-
-I. Aplazar la discusión de un asunto pendiente por tiempo determinado o indeterminado;
-
-II. Solicitar algún receso durante la sesión;
-
-III. Suspender la sesión por alguna de las causas establecidas en el presente Capítulo;
-
-IV. Pedir la suspensión de una intervención que no se ajuste al orden, que se aparta del punto a discusión o que sea ofensiva y de índole personal para algún miembro del Ayuntamiento;
-
-V. Pedir la aplicación del presente Capítulo; y
-
-VI. Las mociones de orden serán resueltas por el Presidente Municipal, en el uso de las atribuciones que le confiere este Capítulo.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 82.
 
-Las resoluciones o acuerdos del Ayuntamiento se tomarán por votación de la mayoría de los integrantes presentes, a menos que la Ley Orgánica Municipal indique lo contrario.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 83.
 
-Habrá tres formas de ejercer el voto en las Sesiones de Cabildo:
-
-I. Nominales;
-
-II. Económicas; y
-
-III. Por Cédula.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 84.
 
-La votación nominal se efectuará en la siguiente forma:
-
-I. Cada miembro del Ayuntamiento, dirá en voz alta el sentido de su voto;
-
-II. El Secretario anotará los que voten afirmativamente, así como quienes lo hagan en sentido negativo; y
-
-III. Concluida la votación, el Secretario procederá a efectuar el cómputo y dirá el número total de cada lista.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 85.
 
-Se realizará votación nominal o por cédula cuando algún miembro del Ayuntamiento lo solicite, y la mayoría lo apruebe en ese sentido.
-
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2006)</small>
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 86.
 
-Las demás votaciones sobre resoluciones o acuerdos del Ayuntamiento, serán económicas; la votación económica consistirá en levantar la mano. En este caso el Secretario solicitará el sentido de los votos a favor o en contra.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 87.
 
-En caso de empate, independientemente de la forma de ejercer el voto empleado, el Presidente Municipal, resolverá el asunto en cuestión en ejercicio de su voto de calidad.
-
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2006)</small>
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 88.
 
-El Presidente, los Regidores y el Síndico deberán votar todo proyecto de acuerdo, dictamen o resolución que se ponga a su consideración, y sólo podrán abstenerse de ello por disposición de ley.
-
-Se considera que existe causa justificada para abstenerse de votar, cuando se trate de votarse a sí mismo o en asuntos en los que tengan un interés personal que condicione la emisión de una opinión objetiva e imparcial por existir vínculos familiares, económicos o intereses de alguna otra clase.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 89.
 
-Mientras se realiza la votación ningún integrante del Ayuntamiento podrá retirarse del recinto ni excusarse de votar salvo por lo dispuesto en este Capítulo.
-
-> <small>(REFORMADO, P.O. 18 DE OCTUBRE DE 2006)</small>
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 90.
 
-En caso de que un miembro del Ayuntamiento, se ausente del Salón de Sesiones se entenderá que su voto es en el sentido de la mayoría.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 91.
 
-El Regidor que no estuviere presente hasta antes de pasar lista de asistencia en la Sesión de Cabildo, sólo tendrá derecho de voz y no de voto en la Sesión de que se trate.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 92.
 
-De cada Sesión de Cabildo el Secretario del Ayuntamiento levantará por duplicado acta circunstanciada en la que se anotará la hora de inicio y término de la Sesión, el lugar, fecha, nombre de los asistentes, relación de los asuntos anotados y de los acuerdos del Ayuntamiento. Los dos ejemplares del acta deberán ser firmados por el Presidente Municipal, el Síndico Municipal y el Secretario del Ayuntamiento.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 93.
 
-Un tanto del acta lo conservará el Presidente Municipal, otro el Secretario, todos bajo su custodia y responsabilidad.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 94.
 
-Los ejemplares de las actas se foliarán y se encuadernarán bimestralmente adjuntándose en cada volumen un índice de acuerdos y de los anexos que se deriven del contenido, de las actas se formará un expediente.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 95.
 
-El Ayuntamiento se organizará en su interior en Comisiones, que podrán ser permanentes o transitorias de acuerdo con lo establecido con la Ley Orgánica Municipal, dichas comisiones tienen por objeto el estudio, análisis y la elaboración de dictámenes y/o propuestas al Ayuntamiento en pleno, de los problemas de los distintos ramos de la Administración Pública Municipal.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 96.
 
-Las comisiones establecidas podrán ser modificadas en su número y composición, en cualquier momento, por acuerdo de la mayoría de los miembros del Ayuntamiento.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 97.
 
-Para el desempeño de sus funciones las Comisiones:
-
-I. Podrán solicitar el asesoramiento necesario a la Secretaria General, así como los recursos financieros que tengan asignados conforme al presupuesto anual aprobado por el Ayuntamiento; y
-
-II. Podrán solicitar, todo tipo de información, documentación, circulares, así como copias de la documentación de los expedientes a las dependencias administrativas del Municipio, para el mejor desempeño de sus funciones.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 98.
 
-Las comisiones deberán funcionar por separado, pero podrán, previa aprobación del Ayuntamiento, funcionar unidas dos o más de ellas para estudiar, dictaminar y someter a discusión y aprobación del propio Ayuntamiento, algún asunto que requiera de la participación conjunta de algunas de ellas.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 99.
 
-Las Comisiones del Ayuntamiento deberán sesionar por lo menos una vez por mes.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 100.
 
-Las comisiones despacharan los asuntos que les encomienden en un plazo no mayor al existente entre una y otra Sesión Ordinaria de Cabildo.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 101.
 
-Si transcurrido este plazo la Comisión considera necesario demorar o suspender el curso de algún asunto, emitirá dictamen en este sentido para que el Ayuntamiento acuerde lo conveniente.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 102.
 
-En caso de incumplimiento del artículo anterior, cualquiera de los Regidores, podrán solicitar al Ayuntamiento se designe una Comisión para que despache el asunto sin perjuicio de las responsabilidades en que pudiera incurrir aquella que no lo hubiere hecho.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 103.
 
-En las comisiones, se observarán las siguientes normas:
-
-I. Se reunirán previa convocatoria de su presidente, comunicada a los restantes miembros de la comisión con un día de anticipación, por lo menos, a la fecha y hora señalada para la reunión, en la que se hará constar el listado de los asuntos a tratar;
-
-II. La reunión será válida si asisten la mayoría de los integrantes de la comisión, entre los que deberá estar su Presidente. En caso contrario, se hará una segunda convocatoria para celebrarla a más tardar al siguiente día hábil y, en tal caso, la reunión se celebrará válidamente con los miembros que concurran;
-
-> <small>(REFORMADA, P.O. 18 DE OCTUBRE DE 2006)</small>
-
-III. Las resoluciones se tomarán por mayoría de votos de los integrantes que asistan a la reunión, y en ningún caso los Regidores integrantes de la misma con derecho a voto, podrán abstenerse de hacerlo, salvo cuando la propia comisión considere que están impedidos por disposición legal. En caso de empate, el Presidente de la comisión tendrá voto de calidad;
-
-IV. Las comisiones actuarán con plena libertad en los trabajos de discusión, análisis y resolución de los asuntos que les correspondan;
-
-V. Las Comisiones deberán girar invitación para la celebración de las reuniones de la misma, a los miembros del Ayuntamiento que no formen parte de la Comisión.
-
-VI. Podrán asistir a la reunión los regidores que no sean miembros de la comisión, con voz pero sin voto. Asimismo podrán asistir cualesquiera personas que la comisión acuerde invitar; y
-
-VII. Se levantará un acta de cada reunión, con el apoyo de la Secretaria General en la que hará constar la relación sucinta de los asuntos tratados y los acuerdos tomados y será firmada por todos los asistentes.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 104.
 
-Los dictámenes respecto de los asuntos que les hayan turnado a las comisiones, deberán ser rendidos por escrito a través de la Secretaria General quien a su vez deberá entregar una copia de los mismos a todos los integrantes del Ayuntamiento por lo menos con setenta y dos horas de anticipación a la Sesión Ordinaria de Cabildo que corresponda y deberán contener cuando menos:
-
-I. Los datos de identificación del asunto al que se refieran;
-
-II. La fecha de su recepción en la comisión;
-
-III. La relación de las actuaciones realizadas por la comisión para normar su criterio al dictaminar;
-
-IV. Los motivos que formaron convicción en la Comisión para emitir su dictamen en el sentido propuesto;
-
-V. Los fundamentos legales del dictamen;
-
-VI. Los puntos resolutivos; y
-
-VII. Las firmas de los integrantes de la comisión que lo hayan aprobado.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 105.
 
-Si un Regidor no está de acuerdo con el dictamen que presenta la Comisión de la que forma parte lo manifestara en la Sesión de Cabildo durante la discusión del mismo.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 106.
 
-Los Regidores nombrados para integrar alguna Comisión permanente o transitoria, sólo podrán rehusar ante el Ayuntamiento su desempeño por causa justificada o cuando tengan interés personal. El Ayuntamiento procederá al nombramiento inmediato de quien lo sustituya.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 ###### Artículo 107.
 
-Las Comisiones rendirán al Ayuntamiento un informe anual de las labores que desarrollen sus respectivas comisiones.
+(DEROGADO POR EL ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, P.O. 7 DE ENERO DE 2016)
 
 > <small>N. DE E. DEROGADO EL TÍTULO DENOMINADO "DE LAS NOTIFICACIONES POR MEDIO ELECTRÓNICOS", CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 29 DE MAYO DE 2015.</small>
 
@@ -36202,6 +35976,16 @@ PRIMERO. El presente Capítulo entrará en vigor a los treinta días hábiles si
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
 
 P.O. 6 DE ENERO DE 2016.
+
+PRIMERO. El presente Dictamen entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Puebla.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Dictamen.
+
+TERCERO. La Secretaría Ejecutiva deberá de emitir o adecuar los lineamientos, en un término de un año a partir de la publicación del presente Dictamen en el Periódico Oficial del Estado de Puebla, para someterlos a consideración de la Comisión correspondiente y ser aprobados por el Honorable Cabildo.
+
+P.O. 7 DE ENERO DE 2016.
+
+ÚNICO. El presente Dictamen entrará en vigor el quince de marzo de dos mil dieciséis.
 
 ## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO DEL HONORABLE AYUNTAMIENTO DEL MUNICIPIO DE PUEBLA, DE FECHA 11 DE DICIEMBRE DE 2015, QUE APRUEBA EL DICTAMEN PRESENTADO POR LOS INTEGRANTES DE LA COMISIÓN DE PARTICIPACIÓN CIUDADANA, POR EL QUE MODIFICA EL CAPÍTULO 8, DENOMINADO DE LOS CONSEJOS DE PARTICIPACIÓN CIUDADANA, DEL CÓDIGO REGLAMENTARIO PARA EL MUNICIPIO DE PUEBLA”.]
 
