@@ -4,7 +4,7 @@ identifier: "VER-reglamento-de-proteccion-a-los-animales-para-el-municipio-95448
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-07-19"
-last_updated: "2013-07-19"
+last_updated: "2016-01-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95448&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,9 @@ state: "VER"
 
 REGLAMENTO DE PROTECCIÓN A LOS ANIMALES PARA EL MUNICIPIO DE VERACRUZ, ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO DE PROTECCIÓN Y BIENESTAR DE LOS ANIMALES PARA EL MUNICIPIO LIBRE DE VERACRUZ, PUBLICADO EN LA G.O. DE 7 DE ENERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE ENERO DE 2016 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Estado de Veracruz, el viernes 19 de julio de 2013.
 
@@ -1167,3 +1169,17 @@ Tercero. Publíquese en la Gaceta Oficial, de la Editora de Gobierno del Estado 
 Cuarto. Las personas físicas y morales, establecimientos, negociaciones, instituciones educativas, empresas, fábricas, entre otras, deberán tomar las medidas necesarias para cumplir con lo establecido en el presente ordenamiento en un plazo máximo de 90 días naturales contados a partir de su entrada en vigor.
 
 Así lo proveyeron y confirmaron los ciudadanos que integran el Cabildo del Honorable Ayuntamiento de Veracruz, licenciada Luz Carolina Gudiño Corro, presidenta municipal.-Rúbrica. Hiram Israel Barragán Alfaro, síndico único.-Rúbrica. C. María Teodora Coria Escobar, regidora primera.-Rúbrica. Ingeniero Christian Thomas Ovalle, regidor segundo.-Rúbrica. C. Ricardo Colorado Alfonso, regidor tercero.-Rúbrica. L.A.E. Antonio Salamanca Barcelata, regidor cuarto.-Rúbrica. C. José Antonio Peña Hernández, regidor quinto.-Rúbrica. L.E.P. Aurora Luisa Alvízar Guerrero, regidora sexta.-Rúbrica. Licenciado Daniel Galindo Moreno, regidor séptimo.-Rúbrica. Licenciado Jorge Víctor Flores Guerrero, regidor octavo.-Rúbrica. C.P. María Catalina Exsome López, regidora novena.-Rúbrica. C. Víctor Hugo García Estrada, regidor décimo.-Rúbrica. Profr. Guillermo Gonzalo Aguilera Aguirre, regidor décimo primero.-Rúbrica. Dr. Pedro Rafael Tovar Porte la, regidor décimo segundo.-Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 7 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE PROTECCIÓN Y BIENESTAR DE LOS ANIMALES PARA EL MUNICIPIO LIBRE DE VERACRUZ”.]
+
+###### ARTÍCULO PRIMERO.
+
+El Reglamento para la Protección y el Bienestar de los Animales para el Municipio de Veracruz, Estado de Veracruz de Ignacio de La Llave, obligarán y surtirán sus efectos tres días después de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento de Protección a los Animales para el Municipio de Veracruz, Estado de Veracruz de Ignacio de la Llave, publicado en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave, número 279 de fecha 19 de julio de 2013, así como las disposiciones que se opongan al presente reglamento.
