@@ -4,7 +4,7 @@ identifier: "VER-ley-de-prevencion-y-atencion-del-acoso-escolar-para-el-83622"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-01"
-last_updated: "2015-03-27"
+last_updated: "2016-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83622&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY DE PREVENCION Y ATENCION DEL ACOSO ESCOLAR PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE - ANTES LEY NUMERO 303 CONTRA EL ACOSO ESCOLAR PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE-
 
-LEY NÚMERO 303 CONTRA EL ACOSO ESCOLAR PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+LEY DE PREVENCIÓN Y ATENCIÓN DEL ACOSO ESCOLAR PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE ENERO DE 2016.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el martes 1 de noviembre de 2011.
 
@@ -43,19 +43,19 @@ LA SEXAGÉSIMA SEGUNDA LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO LIBRE Y SOB
 
 L E Y NÚMERO 303
 
-CONTRA EL ACOSO ESCOLAR PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 8 DE ENERO DE 2016)</small>
+
+LEY DE PREVENCIÓN Y ATENCIÓN DEL ACOSO ESCOLAR PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE.
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO, G.O. 27 DE MARZO DE 2015)</small>
+> <small>(REFORMADO, G.O. 8 DE ENERO DE 2016)</small>
 
 ###### Artículo 1.
 
-La presente Ley es de orden público e interés social y tiene por objeto complementar la prevención y erradicación del acoso escolar en los centros educativos públicos y privados del Estado, sobre la base de que un ambiente libre de violencia es fundamental para respetar los derechos humanos, consolidar la democracia y garantizar los principios de equidad y no discriminación, la dignidad humana y la paz entre los educandos.
-
-Todo alumno tiene derecho a un ambiente escolar libre de acoso y violencia.
+La presente Ley es de orden público e interés social y tiene por objeto prevenir y erradicar el acoso escolar, así como generar un ambiente de seguridad y orden en las instituciones educativas públicas y privadas del Estado, sobre la base de que un ambiente libre de violencia es fundamental para respetar los derechos humanos, consolidar la democracia y garantizar los principios de equidad y no discriminación, la dignidad humana y la paz entre los educandos. Todo alumno tiene derecho a un ambiente escolar seguro, libre de acoso y violencia.
 
 ###### Artículo 2.
 
@@ -85,11 +85,35 @@ VIII. Propiciar, en el ambiente escolar, el desarrollo de una cultura de protecc
 
 IX. Regular la creación y funcionamiento de los Centros de Mediación Escolar en las Instituciones Educativas del Estado.
 
+> <small>(ADICIONADO, G.O. 8 DE ENERO DE 2016)</small>
+
+###### Artículo 3 Bis.
+
+Son principios conforme a los cuales las autoridades plantearán, ejecutarán, darán seguimiento y evaluarán sus acciones para garantizar un ambiente libre de violencia y acoso escolar, en las instituciones educativas y su entorno:
+
+I. La cultura de la paz y la prevención de la violencia;
+
+II. El respeto a los derechos humanos, especialmente de mujeres, pueblos indígenas, discapacitados, migrantes y demás grupos en situación de vulnerabilidad;
+
+III. El interés superior de la niñez;
+
+IV. La coordinación interinstitucional;
+
+V. La no discriminación;
+
+VI. La perspectiva de género;
+
+VII. El respeto a la diversidad cultural; y
+
+VIII El respeto a la libertad de expresión, opinión e información.
+
 ###### Artículo 4.
 
 Para los efectos de esta Ley se entenderá por:
 
-I. Acoso escolar: El uso intenso o repetido por uno o más estudiantes de expresiones escritas, verbales o visuales, realizadas por cualquier medio, o un acto físico, gesto, o cualquier combinación de ellos, dirigidos en contra de otro estudiante, con el propósito de:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE ENERO DE 2016)</small>
+
+I. Acoso escolar: El uso intenso o repetido, por uno o más estudiantes, de expresiones escritas, verbales o visuales, realizadas por cualquier medio, o un acto físico, gesto o cualquier combinación de ellos, dentro o fuera de su centro educativo, dirigidos en contra de otro estudiante que se encuentre indefenso, con el propósito de:
 
 a) Causarle daño físico o emocional, o daños a su propiedad;
 
@@ -125,21 +149,51 @@ XII. Registro Estatal para el Control del Acoso Escolar: La compilación detalla
 
 XIII. Secretaría: La Secretaría de Educación del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
-> <small>(ADICIONADA, G.O. 27 DE MARZO DE 2015)</small>
+> <small>(ADICIONADA, G.O. 8 DE ENERO DE 2016)</small>
 
-XIV. Centro de Mediación Escolar: El organismo que tiene por objeto la solución de los conflictos de acoso escolar que se originen en las instituciones educativas, mediante el acuerdo voluntario de las partes involucradas con la intervención de mediador capacitado.
+XIV. Coordinación interinstitucional: Mecanismos de cooperación, apoyo mutuo e intercambio de acciones, entre diversas instancias de gobierno, conforme sus propios ámbitos de competencia, que permitan la concurrencia de acciones basadas en el pragmatismo, el compromiso y la confianza, para la elaboración conjunta de políticas entre los diversos órdenes de gobierno. En los municipios con presencia indígena, sus autoridades actuarán como instancias de intermediación entre las autoridades educativas con las comunidades indígenas de la región, respetando su dignidad y la diversidad de sus culturas, tradiciones, historias y aspiraciones, al tiempo que se apliquen programas que permitan modificar patrones de conducta que atenten contra los derechos humanos, especialmente de mujeres, niñas, niños, discapacitados, migrantes y demás grupos en situación de vulnerabilidad;
 
-### CAPÍTULO II. DE LAS AUTORIDADES, DISTRIBUCIÓN DE COMPETENCIAS Y COORDINACIÓN
+> <small>(ADICIONADA, G.O. 8 DE ENERO DE 2016)</small>
+
+XV. Cultura de la paz: Conjunto de valores, actitudes y tradiciones que reflejan el respeto a la vida de las personas, su dignidad y derechos; el rechazo a la violencia en todas sus formas, y la adhesión a los principios de libertad, igualdad, justicia, democracia, solidaridad, tolerancia y entendimiento, tanto entre los pueblos, como entre los grupos y las personas;
+
+> <small>(ADICIONADA, G.O. 8 DE ENERO DE 2016)</small>
+
+XVI. Discriminación entre la comunidad educativa: Todo trato diferenciado, por distinción, exclusión o restricción desfavorable, que basado en el origen étnico o nacional, sexo, edad, discapacidad, condición social o económica, de salud, embarazo, lengua, religión, opiniones, preferencias sexuales, o cualquier otra causa, tenga por objeto impedir o anular los derechos y oportunidades de las personas que integran la comunidad escolar;
+
+> <small>(ADICIONADA, G.O. 8 DE ENERO DE 2016)</small>
+
+XVII. Prevención escolar: Estrategias y acciones necesarias para aminorar y eliminar las causas y condiciones relacionadas con conductas antisociales y circunstancias propicias que pueden implicar riesgos a la comunidad escolar, al interior y en el entorno de los centros educativos;
+
+> <small>(ADICIONADA, G.O. 8 DE ENERO DE 2016)</small>
+
+XVIII. Seguridad escolar: El resguardo de la integridad física, afectiva y social de los integrantes de la comunidad escolar, al interior y en el entorno que rodea la escuela, derivadas del conjunto de acciones preventivas y de atención coordinadas por las autoridades competentes;
+
+> <small>(ADICIONADA, G.O. 8 DE ENERO DE 2016)</small>
+
+XIX. Tolerancia: Respeto a las ideas, creencias y actitudes de los demás, por la diversidad cultural, que en ningún caso justificará la violación de los derechos humanos, ni faltas a la dignidad de las personas; y
+
+> <small>(ADICIONADA, G.O. 8 DE ENERO DE 2016)</small>
+
+XX. Violencia de género: La violencia contra las mujeres es una forma de discriminación, que impide que ellas gocen de algunos derechos o libertades. Se realiza por cualquier acción o conducta basada en su género que cause muerte, daño o sufrimiento físico, patrimonial, económico, sexual o psicológico, a la mujer, en el ámbito público o privado, y que se puede dar en lo familiar, laboral, docente o social.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 8 DE ENERO DE 2016)</small>
+
+### CAPÍTULO II. DE LAS AUTORIDADES, DISTRIBUCIÓN DE COMPETENCIAS Y COORDINACIÓN, EN MATERIA DE ACOSO ESCOLAR
 
 ###### Artículo 5.
 
 El Poder Ejecutivo del Estado, a través de la Secretaría, ejercerá sus atribuciones en materia de prevención e intervención ante casos de acoso escolar, de conformidad con la distribución de competencias prevista en esta Ley.
 
-En las atribuciones que esta Ley otorga para prevenir o intervenir en casos de acoso, podrán colaborar, en su caso, las siguientes dependencias y entidades: la Secretaría de Salud, el Sistema para el Desarrollo Integral de la Familia, la Secretaría de Seguridad Pública y la Procuraduría General de Justicia del Estado cuando por la naturaleza o gravedad de los casos de acoso escolar así lo determinen las autoridades escolares y en virtud del Registro Estatal para el Control del Acoso Escolar.
+> <small>(REFORMADO, G.O. 8 DE ENERO DE 2016)</small>
+
+En las atribuciones que esta Ley les otorga para prevenir o intervenir en casos de acoso escolar, según su respectivo ámbito de competencia, colaborarán las autoridades previstas en su Título Quinto.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 8 DE ENERO DE 2016)</small>
 
 ###### Artículo 6.
 
-Para los fines de esta Ley se consideran autoridades:
+En materia de acoso escolar, se consideran autoridades:
 
 I. El Titular del Poder Ejecutivo Estatal;
 
@@ -207,13 +261,17 @@ XIV. Sancionar a los cómplices en casos de acoso escolar y represalias;
 
 XV. Establecer responsabilidades administrativas en caso de incumplimiento del personal escolar a las disposiciones contenidas en esta Ley;
 
-XVI. Preparar y presentar a la Secretaría un informe anual sobre acoso escolar; y
+> <small>(REFORMADA, G.O. 8 DE ENERO DE 2016)</small>
+
+XVI. Elaborar un acta de hechos, cuando se presenten conductas que configuren acoso escolar, en la que se asentarán los datos por sexo y edad de los involucrados, el lugar de su acontecimiento, circunstancias, así como las medidas institucionales tomadas. Cada acta deberá resguardarse bajo estricta confidencialidad, a fin de proteger la identidad de niñas, niños y adolescentes involucrados. Posteriormente, en ella se asentarán observaciones sobre los resultados de la intervención institucional en las conductas de agresor y víctima. Las actas formarán parte de un archivo que el director escolar generará y constituirán la base de su informe anual que sobre acoso escolar presentará a la Secretaría.
 
 XVII. Derivar hacia personal capacitado los casos de violencia y acoso escolar que se presenten en un centro educativo.
 
+> <small>(REFORMADO, G.O. 8 DE ENERO DE 2016)</small>
+
 ###### Artículo 9.
 
-Las escuelas deberán manejar el Expediente Único de cada alumno, el cual deberá contener información socioeconómica y desempeño académico, registro que en su caso se levantará al estudiante que sea activo de conductas específicas en esta Ley, así como cualquier otra documentación referente al alumno.
+Las escuelas deberán manejar un expediente único de cada alumno, que contendrá información socioeconómica, desempeño escolar, así como cualquier otra documentación referente al alumno. En su caso, al expediente de la víctima y del agresor, le será agregada una copia del acta a que se refiere el artículo anterior.
 
 ###### Artículo 10.
 
@@ -277,9 +335,11 @@ Cuando lo solicite el padre o tutor de la víctima de acoso o violencia escolar 
 
 La Secretaría elaborará el Plan de Prevención del Acoso Escolar. Dicho Plan deberá elaborarse con una amplia consulta con autoridades, personal escolar directivo, personal especializado, padres de familia o tutores y educandos, en la que se establezca un período para recibir comentarios públicos.
 
+> <small>(REFORMADO, G.O. 8 DE ENERO DE 2016)</small>
+
 ###### Artículo 17.
 
-El Plan de Prevención del Acoso Escolar será de cumplimiento obligatorio y se revisará, evaluará y actualizará cada dos años.
+El plan de prevención del acoso escolar será de cumplimiento obligatorio y se revisará, evaluará y actualizará cada año.
 
 ###### Artículo 18.
 
@@ -337,9 +397,11 @@ Las escuelas deberán generar actividades de capacitación u orientación al per
 
 La Secretaría elaborará, a través de un proceso amplio de consulta, el Plan de Intervención en Casos de Acoso Escolar. El Plan de Intervención será armónico con el Plan de Prevención del Acoso Escolar y deberá consultarse con autoridades, personal escolar directivo, personal especializado, padres de familia o tutores, y educandos, durante un período para recibir comentarios públicos.
 
+> <small>(REFORMADO, G.O. 8 DE ENERO DE 2016)</small>
+
 ###### Artículo 23.
 
-El Plan de Intervención en Casos de Acoso Escolar será de cumplimiento obligatorio y se revisará, evaluará y actualizará cada dos años.
+El plan de intervención en casos de acoso escolar será de cumplimiento obligatorio y se revisará, evaluará y actualizará cada año.
 
 ###### Artículo 24.
 
@@ -383,21 +445,11 @@ La capacitación permanente y de manera anual del personal escolar, de conformid
 
 Cada Director escolar será responsable de la ejecución y supervisión del Plan de Intervención en Casos de Acoso Escolar.
 
+> <small>(REFORMADO, G.O. 8 DE ENERO DE 2016)</small>
+
 ###### Artículo 27.
 
-Cualquier miembro del personal escolar deberá informar inmediatamente al Director de la escuela de cualquier caso de acoso escolar o represalia, del cual haya sido testigo o tenga noticia.
-
-Tras la recepción de dicho informe, el Director de la escuela investigará sin demora y lo registrará en la bitácora escolar. Si el Director de la escuela, o su designado, determina que el acoso escolar o represalias han ocurrido, deberá:
-
-I. Notificar del hecho a la Secretaría;
-
-II. Notificar a las autoridades competentes si el Director de la escuela o su designado estiman que la gravedad del acoso pueda requerir su intervención;
-
-III. Tomar las medidas y aplicar las disciplinarias apropiadas, de conformidad con esta Ley y los reglamentos internos de cada escuela;
-
-IV. Informar a los padres o tutores del autor y cómplices; y
-
-V. Comunicar a los padres o tutores de la víctima, las medidas adoptadas para prevenir o sancionar cualquier acto de acoso escolar o represalia.
+Cualquier integrante del personal escolar informará de inmediato al Director de la escuela sobre cualquier caso de acoso escolar o represalia del cual haya sido testigo o tenga noticia, para que éste sin demora realice una investigación de los hechos.
 
 ###### Artículo 28.
 
@@ -485,9 +537,11 @@ IV. La implementación de sanciones; y
 
 V. En todos los casos, el informe reservará los datos personales de los involucrados en el acoso, de conformidad con las leyes de la materia.
 
+> <small>(REFORMADO, G.O. 8 DE ENERO DE 2016)</small>
+
 ###### Artículo 42.
 
-Las escuelas deberán presentar un Informe Semestral a la Secretaría, con respecto a los incidentes de acoso y violencia escolar, a efecto de (sic) éste sea considerado en el Registro Estatal para el Control del Acoso Escolar.
+Los directores de las escuelas presentarán un informe anual a la Secretaría sobre los incidentes de acoso y violencia escolar, a efecto de que sean considerados en el Registro Estatal para el Control del Acoso Escolar.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 27 DE MARZO DE 2015)</small>
 
@@ -559,6 +613,18 @@ Cualquier persona tendrá acceso a la información obtenida a través del Regist
 
 La Secretaría garantizará el libre, pleno y permanente acceso a la información contenida en el Registro para el Control del Acoso Escolar y será la responsable de publicarlo en su portal de transparencia y acceso a la información.
 
+> <small>(ADICIONADO, G.O. 8 DE ENERO DE 2016)</small>
+
+###### Artículo 43 Bis.
+
+En los procedimientos para aplicar sanciones o medidas disciplinarias, se tomarán las medidas necesarias para que al menos uno de los padres o tutores se encuentre presente. En cada procedimiento se garantizará el derecho de la niña o niño a ser escuchado; así, se estimularán:
+
+I. El respeto a los derechos humanos, el respeto a sus padres y a su propia identidad cultural y valores;
+
+II. El desarrollo de la tolerancia; y
+
+III. El rechazo a la violencia como una grave amenaza a los derechos humanos y a la dignidad de las personas; y propiciará que el agresor tome conciencia de que el acoso afecta al individuo y a la comunidad, e impide la protección de los derechos del propio agresor.
+
 ## TÍTULO CUARTO. DE LA VIGILANCIA Y SANCIONES
 
 ### CAPÍTULO I. DE LAS SANCIONES PARA LOS AUTORES Y CÓMPLICES
@@ -567,21 +633,31 @@ La Secretaría garantizará el libre, pleno y permanente acceso a la informació
 
 Las sanciones o medidas disciplinarias para los autores, cómplices de acoso escolar o represalias en las modalidades establecidas en esta Ley serán las siguientes:
 
-I. Amonestación privada: Advertencia verbal y mediante un reporte escrito de manera preventiva que se hace al autor o cómplice sobre las consecuencias de su conducta, y de las medidas aplicables frente a una futura reincidencia;
+> <small>(REFORMADA, G.O. 8 DE ENERO DE 2016)</small>
 
-II. Tratamiento: Obligación del autor o cómplice a dar cumplimiento a la medida correctiva a que haya lugar;
+I. Amonestación privada: Advertencia verbal y mediante reporte escrito, de manera preventiva, que se hace al autor o cómplice sobre las consecuencias de su conducta, así como de las medidas aplicables ante la reincidencia. El Director del plantel se reunirá, de forma separada, con la víctima, a fin de escucharle y de manifestarle expresamente el rechazo institucional a cualquier forma de violencia, y evaluar su situación a fin de tomar las medidas para su recuperación;
 
-III. Suspensión de clases: Cese temporal de asistencia a clases, acompañada de las tareas que, de acuerdo al programa de estudio vigente, deba realizar durante el tiempo que determine el Director escolar; y
+> <small>(REFORMADA, G.O. 8 DE ENERO DE 2016)</small>
 
-IV. Transferencia a otra escuela: Baja definitiva de la escuela donde se encuentre el autor o cómplice, cuando hayan sido agotadas las sanciones anteriores y exista reincidencia en su conducta. Se canalizará al Sistema Educativo para su reubicación.
+II. Tratamiento: Obligación del autor o cómplice de dar cumplimiento a las medidas correctivas a que haya lugar, privilegiando las que busquen la reparación del daño. El Director del plantel informará a los padres del agresor sobre las medidas y acciones para modificar su patrón de conducta. De igual forma, y por separado, el Director informará a los padres de la víctima sobre las medidas y acciones para apoyarla a salir de la situación de vulnerabilidad, así como para lograr su recuperación física y psicológica;
+
+> <small>(REFORMADA, G.O. 8 DE ENERO DE 2016)</small>
+
+III. Suspensión de asistencia a clases: Una vez realizadas las acciones institucionales tendientes a apoyar al agresor en la modificación de su patrón de conducta, de convertirse en reincidente se procederá a su cese temporal de asistencia a clases que se acompañará de las tareas que, conforme al programa de estudios vigente, deba realizar durante el tiempo que determine el Director escolar; y
+
+> <small>(REFORMADA, G.O. 8 DE ENERO DE 2016)</small>
+
+IV. Transferencia a otra escuela: Baja definitiva de la escuela donde se encuentre el autor o cómplice, cuando se verifique que han sido agotadas las sanciones anteriores y se compruebe que existe reincidencia en la conducta agresora. Se canalizará al Sistema Educativo, para su reubicación previa recomendación de un especialista de la Secretaría, y acompañada de un dictamen que fundamente la conveniencia del cambio.
 
 ###### Artículo 45.
 
 Los directores escolares o su designado serán los responsables de aplicar, previa investigación, la sanción correspondiente.
 
+> <small>(REFORMADO, G.O. 8 DE ENERO DE 2016)</small>
+
 ###### Artículo 46.
 
-Cuando la gravedad de la conducta de acoso escolar tenga consecuencias penales se procederá conforme al Plan de Intervención, dando parte a la autoridad competente.
+Cuando la gravedad de la conducta de acoso escolar tuviere consecuencias penales, se procederá conforme al Plan de Intervención; y de inmediato, se dará parte a la autoridad competente.
 
 ### CAPÍTULO II. DE LAS SANCIONES PARA EL PERSONAL ESCOLAR
 
@@ -622,6 +698,264 @@ La Secretaría podrá apercibir de manera privada a la institución educativa qu
 ###### Artículo 49.
 
 En contra de las resoluciones de las autoridades educativas dictadas con fundamento en las disposiciones de esta Ley y demás derivadas de ésta, podrá interponerse el recurso administrativo de revisión previsto en la Ley de Educación para el Estado de Veracruz de Ignacio de la Llave.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, G.O. 8 DE ENERO DE 2016)</small>
+
+## TÍTULO QUINTO. DE LA PREVENCIÓN Y LA SEGURIDAD ESCOLAR
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 8 DE ENERO DE 2016)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, G.O. 8 DE ENERO DE 2016)</small>
+
+###### Artículo 50.
+
+El Poder Ejecutivo del Estado y los Ayuntamientos, conforme su ámbito de competencia, adoptarán las medidas y acciones de prevención y seguridad escolar, con la participación de los sectores público, privado y social, a fin de generar un ambiente de seguridad y orden en la comunidad escolar y su entorno, como base para el desarrollo de las actividades educativas.
+
+> <small>(ADICIONADO, G.O. 8 DE ENERO DE 2016)</small>
+
+###### Artículo 51.
+
+Las autoridades deberán, en su ámbito de competencia:
+
+I. Establecer las normas que regirán las acciones y programas en materia de prevención y seguridad escolar;
+
+II. Determinar las bases de coordinación entre las diversas autoridades relacionadas con la prevención, seguridad y protección civil, en el ámbito escolar;
+
+III. Fomentar la creación de vínculos permanentes entre quienes interactúan en la comunidad escolar y la sociedad; y
+
+IV. Establecer mecanismos para diagnosticar, prevenir y sancionar el acoso escolar, violencia de género, discriminación y, en general, cualquier acto que atente contra los derechos humanos y la dignidad de los estudiantes, dentro y fuera de las instituciones educativas.
+
+> <small>(ADICIONADO, G.O. 8 DE ENERO DE 2016)</small>
+
+###### Artículo 52.
+
+Los programas y acciones en materia de prevención y seguridad tenderán a:
+
+I. Fomentar la cultura de la paz, respeto a los derechos humanos, la tolerancia y la legalidad;
+
+II. Enseñar a evitar y rechazar toda forma de violencia, como una grave amenaza a los derechos humanos;
+
+III. Favorecer la cohesión entre compañeros y erradicar la exclusión, a través del desarrollo de habilidades para la cooperación;
+
+IV. Desarrollar alternativas a la violencia, mediante la expresión de las discrepancias, el diálogo y la resolución pacífica de conflictos;
+
+V. Enseñar y fortalecer el conocimiento de los valores, como parte de la educación de alumnos, maestros y padres de familia, para hacer de los centros educativos lugares tranquilos, de sano desarrollo y convivencia;
+
+VI. Detectar, diagnosticar y atender las conductas, hechos y circunstancias específicas que en cada plantel educativo constituyan focos de atención inmediata, para prevenir la generación de riesgos en la comunidad escolar; y
+
+VII. Considerar niveles de prevención dirigidos a la población en general, y en especial a niñas, niños y jóvenes en riesgo elevado de sufrir violencia o de realizarla.
+
+> <small>(ADICIONADO, G.O. 8 DE ENERO DE 2016)</small>
+
+###### Artículo 53.
+
+Al Gobernador del Estado corresponde, en la materia de esta ley:
+
+I. Dictar y conducir la política, así como establecer las disposiciones y criterios para su instrumentación;
+
+II. Celebrar convenios de coordinación y ejecución; y
+
+III. Orientar de manera transversal las políticas de prevención escolar, a fin de que, dentro de los propios programas de las instituciones estatales, se consoliden acciones y apliquen recursos para la reducción de factores de riesgo.
+
+> <small>(ADICIONADO, G.O. 8 DE ENERO DE 2016)</small>
+
+###### Artículo 54.
+
+Al Secretario de Educación corresponde, en la materia de esta ley:
+
+I. Proponer al Gobernador del Estado la política en materia de prevención y seguridad escolar;
+
+II. Celebrar convenios con los Ayuntamientos de la Entidad;
+
+III. Proponer que se consideren las necesidades específicas para cada una de las regiones del Estado;
+
+IV. Desarrollar programas y acciones con perspectiva de género e interculturalidad, en coordinación con las demás dependencias de la Administración Pública, según sus ámbitos de competencia, con los Ayuntamientos y con la sociedad en general;
+
+V. Motivar la organización de la comunidad escolar, en los diversos niveles educativos, estimulando el estudio y práctica de los valores éticos, así como de las causas que generan inseguridad;
+
+VI. En coordinación con la Secretaría de Seguridad Pública, establecer medidas que garanticen la seguridad en los centros educativos, a fin de que exista un ambiente libre de violencia;
+
+VII. Elaborar el diagnóstico de la situación al interior de los centros educativos, y en su entorno, a fin de aplicar programas específicos de prevención y seguridad;
+
+VIII. Promover y apoyar actividades extracurriculares que complementen y respalden la formación de los educandos;
+
+IX. Contribuir a reducir los factores sociales y físicos que inciden en riesgos para la comunidad escolar;
+
+X. Alentar el interés familiar y comunitario en la protección de los alumnos en los planteles escolares y su entorno; y
+
+XI. Las demás que esta Ley y otras disposiciones le confieran.
+
+> <small>(ADICIONADO, G.O. 8 DE ENERO DE 2016)</small>
+
+###### Artículo 55.
+
+Al Secretario de Salud, en coordinación con la Secretaría de Educación, le corresponde en el ámbito de las escuelas:
+
+I. Promover hábitos de conducta que contribuyan a proteger la salud y solucionar problemas de salud, así como intervenir en programas de prevención de enfermedades y accidentes;
+
+II. Proporcionar conocimientos sobre las enfermedades y sus causas;
+
+III. Orientar en materia de nutrición, salud mental, bucal, planificación familiar y salud reproductiva, riesgos de automedicación, prevención de las adicciones y detección oportuna de enfermedades; y
+
+IV. Las demás que esta Ley y otras disposiciones le confieran.
+
+> <small>(ADICIONADO, G.O. 8 DE ENERO DE 2016)</small>
+
+###### Artículo 56.
+
+Al Secretario de Seguridad Pública corresponde:
+
+I. Desarrollar programas y realizar acciones para prevenir la violencia en los centros educativos;
+
+II. Celebrar convenios en la materia de esta ley, con las demás dependencias de la Administración Pública Estatal, según sus ámbitos de competencia, con los Ayuntamientos y con agrupaciones de la sociedad en general;
+
+III. Auxiliar en las revisiones que le solicite el Director de un centro educativo, proporcionando supervisión y asesoría; y
+
+IV. Las demás que esta Ley y otras disposiciones le confieran.
+
+> <small>(ADICIONADO, G.O. 8 DE ENERO DE 2016)</small>
+
+###### Artículo 57.
+
+Al Secretario de Turismo y Cultura, en coordinación con la Secretaría de Educación, en las escuelas le corresponde:
+
+I. Promover la cultura de la paz, el diálogo y la cooperación;
+
+II. Impulsar el respeto a los derechos humanos y el rechazo a todas las formas de violencia;
+
+III. Definir los objetivos y programas culturales y recreativos;
+
+IV. Promover programas de una sana alimentación y práctica del deporte;
+
+V. Impulsar la protección del patrimonio cultural del Estado, así como su conocimiento;
+
+VI. Fomentar la interrelación de orden cultural, entre los diversos centros educativos;
+
+VII. Apoyar las manifestaciones positivas de las tradiciones de las diversas regiones y comunidades del Estado; y
+
+VIII. Las demás que esta Ley y otras disposiciones le confieran.
+
+> <small>(ADICIONADO, G.O. 8 DE ENERO DE 2016)</small>
+
+###### Artículo 58.
+
+Al Fiscal General del Estado, en el ámbito de las escuelas, le corresponde:
+
+I. Coordinarse con las autoridades competentes para la atención de los hechos presuntamente delictuosos y para la realización de las acciones procedentes; y
+
+II. Las demás que esta Ley y otras disposiciones le confieran.
+
+> <small>(ADICIONADO, G.O. 8 DE ENERO DE 2016)</small>
+
+###### Artículo 59.
+
+Al Secretario de Protección Civil corresponde en el ámbito escolar:
+
+I. Promover la cultura de la protección civil, en coordinación con todas las autoridades señaladas en esta Ley, según proceda;
+
+II. Promover la inserción de los temas de protección civil en los programas educativos de todos los niveles;
+
+III. Fomentar la participación de las autoridades, maestros y alumnos, en acciones de protección civil;
+
+IV. Establecer programas básicos de atención, auxilio y apoyo al restablecimiento de la normalidad en las escuelas, frente a los desastres provocados por los diferentes agentes perturbadores;
+
+V. En los planteles de educación superior, promover el desarrollo de planes y programas para la formación de especialistas en la materia, así como en la investigación de las causas y efectos de los desastres; y
+
+VI. Las demás que esta Ley y otras disposiciones le confieran.
+
+> <small>(ADICIONADO, G.O. 8 DE ENERO DE 2016)</small>
+
+###### Artículo 60.
+
+A los Ayuntamientos corresponde:
+
+I. Establecer y promover líneas de colaboración de la comunidad escolar con los cuerpos de prevención;
+
+II. Aplicar programas de prevención social del delito, en coordinación con los centros escolares;
+
+III. Propiciar eventos en los que se destaque y estimule la participación de la comunidad en favor de la prevención y seguridad escolar;
+
+IV. Coordinarse permanentemente con las Secretarías de Educación y de Protección Civil, para aplicar en todas las escuelas los programas de disminución de factores de riesgo;
+
+V. Proveer la mejora de espacios educativos y de infraestructura vial en las proximidades de los centros educativos, para resguardar la integridad de la comunidad escolar;
+
+VI. Auxiliar en las revisiones de inmuebles e instalaciones escolares que pongan en riesgo a los alumnos e instruir a la Unidad Municipal de Protección Civil que implemente las acciones procedentes;
+
+VII. Impulsar el respeto a los valores, creencias, costumbres de los pueblos indígenas, y el respeto a los derechos humanos de sus integrantes;
+
+VIII. Impulsar la participación de la comunidad en los programas y acciones que permitan modificar patrones de conducta para eliminar prejuicios y prácticas que atenten contra los derechos humanos; y
+
+IX. Las demás que esta Ley y otras disposiciones le confieran.
+
+> <small>(ADICIONADO, G.O. 8 DE ENERO DE 2016)</small>
+
+###### Artículo 61.
+
+Al Director de cada centro educativo corresponde:
+
+I. Propiciar el respeto a la dignidad de los alumnos;
+
+II. Fomentar la convivencia de alumnos y personal docente, basada en la confianza y el respeto mutuo;
+
+III. En coordinación con las autoridades competentes, establecer programas permanentes de formación sobre:
+
+a) Cultura de la paz y la legalidad;
+
+b) Promoción de valores;
+
+c) Equidad de género;
+
+d) Interculturalidad;
+
+e) Prevención de adicciones;
+
+f) Prevención de violencia social y escolar;
+
+g) Educación sexual;
+
+h) Promoción de medidas de autoprotección;
+
+i) Violencia intrafamiliar;
+
+j) Educación vial;
+
+k) Uso responsable del servicio telefónico de emergencias;
+
+l) Primeros auxiliar y protección civil; y
+
+m) Mecanismos alternativos de solución de controversias, en materia de seguridad escolar;
+
+IV. Promover el respeto y cuidado del medio ambiente;
+
+V. Promover una línea telefónica o un medio alterno para comunicar situaciones de emergencia, teniendo en lugar visible para todos los números de emergencia;
+
+VI. Implementar los programas de prevención y seguridad escolar, en coordinación con las autoridades competentes;
+
+VII. En colaboración con la Unidad Municipal de Protección Civil correspondiente, elaborar el diagnóstico de riesgos del plantel y sitios aledaños;
+
+VIII. Instrumentar un programa de medidas de seguridad y protección, atendiendo a las características propias de cada centro escolar;
+
+IX. Fomentar la cultura de la paz y de la prevención, así como la denuncia ciudadana de aquellas acciones contrarias a la legalidad;
+
+X. Fungir como vínculo efectivo de coordinación con las autoridades escolares y de seguridad pública;
+
+XI. Informar a la autoridad competente sobre establecimientos comerciales que pudieren poner en riesgo la seguridad escolar; y
+
+XII. Las demás que esta Ley y otras disposiciones le confieran.
+
+> <small>(ADICIONADO, G.O. 8 DE ENERO DE 2016)</small>
+
+###### Artículo 62.
+
+Los integrantes de la comunidad escolar harán del conocimiento del Director del plantel cualquier deterioro del inmueble o sus instalaciones, que pudiere poner en riesgo la salud o integridad física de la propia comunidad.
+
+> <small>(ADICIONADO, G.O. 8 DE ENERO DE 2016)</small>
+
+###### Artículo 63.
+
+El director del plantel educativo, los maestros y los padres de familia, conjuntamente, establecerán estrategias de revisión continua de las pertenencias de los alumnos, con el fin de detectar la posesión de sustancias u objetos prohibidos, y tomar las medidas procedentes, en coordinación con las autoridades competentes.
 
 T R A N S I T O R I O S
 
@@ -664,3 +998,11 @@ G.O. 27 DE MARZO DE 2015.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se establece un plazo de tres meses a partir del día siguiente de la entrada en vigor del presente Decreto, para la creación de los Centros de Mediación Escolar, en las Instituciones Educativas del Estado.
+
+G.O. 8 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 609 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY CONTRA EL ACOSO ESCOLAR PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
