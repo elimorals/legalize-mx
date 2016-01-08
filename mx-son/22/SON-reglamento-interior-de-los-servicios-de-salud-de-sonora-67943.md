@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-los-servicios-de-salud-de-sonora-67943"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-26"
-last_updated: "2016-01-07"
+last_updated: "2016-01-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67943&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 REGLAMENTO INTERIOR DE LOS SERVICIOS DE SALUD DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 7 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 8 DE ENERO DE 2016.
 
 Reglamento publicado en la Sección I del Boletín Oficial del Estado de Sonora, el jueves 26 de marzo del 2009.
 
@@ -83,23 +83,45 @@ a) Coordinación General de Servicios de Salud;
 
 b) Coordinación General de Administración y Finanzas;
 
-c) Dirección General de Servicios de Salud a la Comunidad;
+> <small>(REFORMADO, B.O. 8 DE ENERO DE 2016)</small>
+
+c) Dirección General de Promoción a la Salud y Prevención de Enfermedades
 
 d) Dirección General de Servicios de Salud a la Persona;
 
 e) Dirección General de Enseñanza y Calidad;
 
-f) Dirección General de Administración;
+> <small>(REFORMADO, B.O. 8 DE ENERO DE 2016)</small>
 
-g) Dirección General de Planeación y Desarrollo;
+f) Dirección General de Hospitales
 
-h) (DEROGADO, B.O. 7 DE ENERO DE 2016)
+> <small>(REFORMADO, B.O. 8 DE ENERO DE 2016)</small>
 
-i) Dirección de Tecnologías de la Información y Comunicaciones;
+g) Dirección General de Salud Mental y Adicciones
 
-j) Dirección de Infraestructura Física; y
+> <small>(REFORMADO [N. DE E. ADICIONADO], B.O. 8 DE ENERO DE 2016)</small>
 
-k) Unidad de Asuntos Jurídicos.
+h) Dirección General de Administración
+
+> <small>(REFORMADO, B.O. 8 DE ENERO DE 2016)</small>
+
+i) Dirección General de Planeación y Desarrollo
+
+> <small>(REFORMADO, B.O. 8 DE ENERO DE 2016)</small>
+
+j) Dirección General de Tecnologías de la Información y Comunicaciones
+
+> <small>(REFORMADO, B.O. 8 DE ENERO DE 2016)</small>
+
+k) Dirección General de Infraestructura Física
+
+> <small>(ADICIONADO, B.O. 8 DE ENERO DE 2016)</small>
+
+l) Dirección General de Recursos Humanos
+
+> <small>(ADICIONADO, B.O. 8 DE ENERO DE 2016)</small>
+
+m) Unidad de Asuntos Jurídicos
 
 III. ÓRGANOS DESCONCENTRADOS:
 
@@ -111,7 +133,7 @@ c) Hospital Oncológico del Estado de Sonora
 
 d) Hospital General de Ciudad Obregón
 
-e) Servicio Estatal de Salud Mental
+e) (DEROGADO, B.O. 8 DE ENERO DE 2016)
 
 f) Laboratorio Estatal de Salud Pública
 
@@ -128,6 +150,50 @@ j) Unidad de Especialidades Médicas de Cirugía Ambulatoria; y
 > <small>(ADICIONADO, B.O. 4 DE JULIO DE 2011)</small>
 
 k) Jurisdicciones Sanitarias.
+
+> <small>(ADICIONADO, B.O. 8 DE ENERO DE 2016)</small>
+
+l) Administración del Patrimonio de la Beneficencia Pública
+
+> <small>(ADICIONADO, B.O. 8 DE ENERO DE 2016)</small>
+
+m) Hospitales Generales
+
+> <small>(ADICIONADO, B.O. 8 DE ENERO DE 2016)</small>
+
+n) Hospitales Comunitarios
+
+> <small>(ADICIONADO, B.O. 8 DE ENERO DE 2016)</small>
+
+ñ) Hospital Integral de Puerto Peñasco
+
+> <small>(ADICIONADO, B.O. 8 DE ENERO DE 2016)</small>
+
+o) Hospital Psiquiátrico Cruz del Norte
+
+> <small>(ADICIONADO, B.O. 8 DE ENERO DE 2016)</small>
+
+p) Centro de Higiene Mental Dr. Carlos Nava Muñoz
+
+> <small>(ADICIONADO, B.O. 8 DE ENERO DE 2016)</small>
+
+q) Centro Infantil para el Desarrollo Neuroconductual
+
+> <small>(ADICIONADO, B.O. 8 DE ENERO DE 2016)</small>
+
+r) Centros Integrales de Salud Mental
+
+> <small>(ADICIONADO, B.O. 8 DE ENERO DE 2016)</small>
+
+s) Unidad de Atención Integral a las Adicciones
+
+> <small>(ADICIONADO, B.O. 8 DE ENERO DE 2016)</small>
+
+t) Centro de Atención Primaria de Adicciones
+
+> <small>(ADICIONADO, B.O. 8 DE ENERO DE 2016)</small>
+
+u) Unidades de Desintoxicación
 
 Se anexa organigrama estructural.
 
@@ -449,13 +515,13 @@ XVI.- Las demás que le confieran las disposiciones legales aplicables y el Pres
 
 ### CAPÍTULO VI. DE LAS ATRIBUCIONES GENÉRICAS DE LAS DIRECCIONES GENERALES, DIRECCIONES Y DE LA UNIDAD DE ASUNTOS JURÍDICOS
 
-> <small>(REFORMADO, B.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, B.O. 8 DE ENERO DE 2016)</small>
 
 ###### ARTÍCULO 27.
 
 Los Directores Generales que estarán al frente de las Direcciones Generales y de la Unidad y los Directores que constituyan los Servicios, tendrán a su cargo la conducción técnica y administrativa de las mismas y serán responsables de su correcto funcionamiento. Dichos titulares serán auxiliados en la atención y despacho de los asuntos a su cargo, por el personal que las necesidades del servicio requiera y que aparezca en el presupuesto autorizado de los Servicios.
 
-Los titulares y el personal de las Direcciones Generales de Servicios de Salud a la Comunidad, de Servicios de Salud a la Persona, de Enseñanza y Calidad, de Administración, y de Planeación y Desarrollo, de la Unidad de Asuntos Jurídicos, así como de las Direcciones de Tecnologías de la Información y Comunicaciones y de Infraestructura Física, no percibirán dos sueldos por las funciones que desarrollen tanto en la Secretaría como en los Servicios, atendiendo lo dispuesto en el artículo 152 de la Constitución Política del Estado de Sonora.
+Los titulares y el personal de las Direcciones Generales de Promoción a la Salud y Prevención de Enfermedades, de Servicios de Salud a la Persona, de Hospitales, de Salud Mental y Adicciones, de Enseñanza y Calidad, de Planeación y Desarrollo, de Administración, de Recursos Humanos, Unidad de Asuntos Jurídicos, Tecnologías de la Información y Comunicaciones, e Infraestructura Física, no percibirán dos sueldos por las funciones que desarrollen tanto en la Secretaría como en los Servicios, atendiendo lo dispuesto en el artículo 152 de la Constitución Política del Estado Libre y Soberano de Sonora.
 
 > <small>(REFORMADO PRIMER PARRAFO, B.O. 4 DE JULIO DE 2011)</small>
 
@@ -477,9 +543,9 @@ V.- Proponer a la Coordinación General respectiva, la organización interna de 
 
 VI.- Establecer los mecanismos de coordinación, programación, información, control, evaluación e implementación de la mejora continua para incrementar la eficiencia y eficacia operativa en la unidad administrativa a su cargo, de acuerdo a la normatividad aplicable y disposiciones que emitan las Coordinaciones Generales y el Presidente Ejecutivo;
 
-> <small>(REFORMADA, B.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADA, B.O. 8 DE ENERO DE 2016)</small>
 
-VII.- Participar, conforme a los lineamientos establecidos, en la elaboración y actualización de cartas compromiso al ciudadano, así como de los manuales de organización, de procedimientos y de servicios al público de la unidad administrativa a su cargo;
+VII.- Elaborar y actualizar los reglamentos, manuales de organización y de procedimientos, trámites y servicios al público, así como cartas compromiso al ciudadano, cuando proceda, conforme a los lineamientos establecidos en la materia, y cuando sea el caso, coordinadamente con las unidades administrativas y médicas de los Servicios, en las que impacte la modificación de la normatividad administrativa y reglamentación;
 
 VIII.- Prestar el apoyo técnico para la definición de las políticas, lineamientos y criterios necesarios para la formulación, revisión, actualización, seguimiento y evaluación de los programas del sector, de los programas y proyectos estratégicos que de ellos se deriven, así como del Programa Operativo Anual;
 
@@ -535,9 +601,11 @@ XXIX.- Las demás que le confieran las disposiciones legales aplicables y el Pre
 
 ### CAPÍTULO VII. DE LAS ATRIBUCIONES ESPECÍFICAS DE LAS DIRECCIONES GENERALES, DIRECCIONES Y DE LA UNIDAD DE ASUNTOS JURÍDICOS
 
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE ENERO DE 2016)</small>
+
 ###### ARTÍCULO 29.
 
-La Dirección General de Servicios de Salud a la Comunidad estará adscrita a la Coordinación General de Servicios de Salud y tendrá el cumplimiento de las siguientes atribuciones:
+La Dirección General de Promoción a la Salud y Prevención de Enfermedades estará adscrita a la Coordinación General de Servicios de Salud y tendrá el cumplimiento de las siguientes atribuciones:
 
 I.- Participar en la operación del Sistema de Encuestas Nacionales de Salud que correspondan a las necesidades de salud del Estado;
 
@@ -557,53 +625,105 @@ VIII.- Establecer y operar un sistema de supervisión que permita el fortalecimi
 
 IX.- Orientar a los prestadores de servicios de salud hacia el desempeño de alta calidad y a la satisfacción de la población;
 
-X.- Realizar la investigación esencial en salud sobre los programas de acción y prioridades estatales para mejora de la prestación de los servicios en el área de competencia; y
+> <small>(REFORMADA, B.O. 8 DE ENERO DE 2016)</small>
 
-XI.- Las demás que le confieran las disposiciones legales aplicables y el Presidente Ejecutivo, dentro de la esfera de sus atribuciones.
+X.- Realizar la investigación esencial en salud sobre los programas de acción y prioridades estatales para mejora de la prestación de los servicios en el área de competencia;
+
+> <small>(REFORMADA, B.O. 8 DE ENERO DE 2016)</small>
+
+XI.- Coordinar y controlar las acciones en materia de promoción de la salud en sus vertientes de educación saludable, comunidades saludables y cartillas nacionales de salud, para fortalecer el saneamiento básico, la salud familiar y escolar, así como el apoyo a los programas de acción, impulsando la participación social sonorense y la corresponsabilidad ciudadana que contribuya a fortalecer estilos de vida saludables;
+
+> <small>(ADICIONADA, B.O. 8 DE ENERO DE 2016)</small>
+
+XII.- Dirigir, coordinar, supervisar y evaluar el desarrollo del Laboratorio Estatal de Salud Pública, Centro Estatal de la Transfusión Sanguínea y Centros Ambulatorios para la Prevención y Atención a VIH-SIDA e Infecciones de Transmisión Sexual;
+
+> <small>(ADICIONADA, B.O. 8 DE ENERO DE 2016)</small>
+
+XIII.- Distribuir, controlar y supervisar el uso y manejo de los certificados de nacimiento, en colaboración con las Jurisdicciones Sanitarias; y
+
+> <small>(ADICIONADA, B.O. 8 DE ENERO DE 2016)</small>
+
+XIV.- Las demás que le confieran las disposiciones legales aplicables y el Presidente Ejecutivo, dentro de la esfera de sus atribuciones.
 
 ###### ARTÍCULO 30.
 
 La Dirección General de Servicios de Salud a la Persona estará adscrita a la Coordinación General de Servicios de Salud y tendrá el cumplimiento de las siguientes atribuciones:
 
-> <small>(REFORMADA, B.O. 7 DE ENERO DE 2016)</small>
+I.- (DEROGADA, B.O. 8 DE ENERO DE 2016)
 
-I.- Planear, organizar, dirigir y controlar la operación de los servicios de atención médica, garantizando el acceso a los servicios de salud a la población que no cuenta con seguridad social y personas afiliadas al Sistema, priorizando aquellos servicios que actúan sobre la prevención de riesgos a la salud;
+> <small>(REFORMADA, B.O. 8 DE ENERO DE 2016)</small>
 
-II.- Planear, organizar, dirigir, coordinar y controlar las actividades que garanticen la integración de los diferentes servicios de cada una de las unidades médicas, en los que se incluyen área médica, enfermería, trabajo social, auxiliares de diagnóstico y tratamiento, con énfasis en las acciones de prevención y protección a la salud dirigidas prioritariamente a los programas de acción de atención a la salud de la Infancia y Adolescencia; Adulto y Adulto Mayor; Salud Reproductiva; Salud Bucal y Prevención de Accidentes y lo que requieran para fomentar el cumplimiento de la normatividad vigente, en el marco de lo señalado en los Programas Nacional y Estatal de Salud;
+II.- Planear, organizar, dirigir, coordinar y controlar la operación y actividades que garanticen la integración de los diferentes servicios de cada una de las Unidades de Primer Nivel, con énfasis en las acciones de prevención y protección a la salud dirigidas prioritariamente a los programas de acción de atención a la salud de la infancia y adolescencia, adulto y adulto mayor, salud reproductiva, salud bucal, prevención de accidentes y nutrición, asimismo, en cumplimiento a la normatividad vigente, en el marco de lo señalado en los Programas Nacional y Estatal de Salud;
 
-III.- Fortalecer el Modelo Integrado de Atención a la Salud (MIDAS), a fin de garantizar el funcionamiento de un sistema de escalonamiento por niveles de atención y regionalización;
+> <small>(REFORMADA, B.O. 8 DE ENERO DE 2016)</small>
 
-IV.- Participar, vigilar y evaluar en forma permanente, en coordinación con las áreas competentes, las Unidades Médicas de los Servicios, a fin de que alcancen y mantengan la Acreditación y la Certificación en atención médica, con énfasis en la capacidad resolutiva de las Unidades Médicas para lograr y garantizar mejores condiciones de salud;
+III.- Fortalecer el Modelo Integral de Atención a la Salud (MIA), en las Unidades de Primer Nivel, a fin de garantizar el funcionamiento de un sistema de escalonamiento por niveles de atención y regionalización;
 
-V.- (DEROGADA, B.O. 7 DE ENERO DE 2016)
+> <small>(REFORMADA, B.O. 8 DE ENERO DE 2016)</small>
 
-VI.- Coordinar y controlar las acciones en materia de promoción de la salud en sus vertientes de educación saludable, comunidades saludables y cartillas nacionales de salud, para fortalecer el saneamiento básico, la salud familiar y escolar, así como el apoyo a los programas de acción, impulsando la participación social sonorense y la corresponsabilidad ciudadana que contribuya a fortalecer estilos de vida saludables;
+IV.- Participar con las Unidades del Primer Nivel de los Servicios, en forma permanente y en coordinación con la Dirección General de Hospitales, en la acreditación y certificación de calidad en la atención médica, con énfasis en la capacidad resolutiva de las Unidades Médicas para lograr y garantizar mejores condiciones de salud;
 
-VII.- Fomentar la aplicación de la normatividad vigente en materia de atención médica y salud pública, apoyando las funciones de las Jurisdicciones Sanitarias y Unidades de Primer y Segundo Nivel de los Servicios;
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 8 DE ENERO DE 2016)</small>
 
-VIII.- Organizar, dirigir y evaluar el sistema de referencia y contrarreferencia de usuarios para garantizar un uso óptimo de la infraestructura, equipo y recursos de cada unidad médica, así como para elevar la eficiencia y calidad de la atención a la población;
+V.- Vigilar el cumplimiento de las normas oficiales y procedimientos establecidos para los programas de acción y control de enfermedades;
 
-IX.- Participar en el fortalecimiento de respuesta del Sistema Estatal de Salud, mediante la racionalización y aprovechamiento de la estructura física, la innovación y evaluación de la tecnología en salud, que permita una mayor eficiencia en la prestación de servicios;
+VI.- (DEROGADA, B.O. 8 DE ENERO DE 2016)
 
-X.- Participar en los proyectos de mejoramiento de la infraestructura y equipo médico, así como en los comités de adquisiciones y comisiones que tengan como fin la utilización racional de los recursos que se requieran en las unidades médicas de los Servicios, con el fin de mejorar su nivel de complejidad, resolución y adecuación de la tecnología para beneficio de la población;
+> <small>(REFORMADA, B.O. 8 DE ENERO DE 2016)</small>
 
-XI.- Participar en la integración de proyectos técnicos de infraestructura en salud que propongan nuevos modelos de unidades en beneficio de la población;
+VII.- Fomentar la aplicación de la normatividad vigente en materia de atención médica y salud pública, apoyando las funciones de las Jurisdicciones Sanitarias y Unidades de Primer Nivel de los Servicios;
 
-XII.- Establecer y operar un sistema de supervisión que permita el fortalecimiento de los procesos y garanticen óptimos resultados en el desarrollo de los programas de acción;
+> <small>(REFORMADA, B.O. 8 DE ENERO DE 2016)</small>
 
-XIII.- Participar, coordinadamente con las áreas competentes, en la integración del Tabulador General de Servicios Médico Asistenciales;
+VIII.- Fomentar y vigilar la utilización del sistema de referencia y contrarreferencia de usuarios para garantizar un uso óptimo de la infraestructura, equipo y recursos de cada unidad médica, así como para elevar la eficiencia y calidad de la atención a la población;
 
-XIV.- Participar en la integración de convenios y contratos de subrogación de servicios de atención médica quirúrgica, laboratorios, servicios de apoyo al diagnóstico y tratamiento, así como estudios especiales que se suscriban con las diferentes instituciones públicas o privadas del Estado;
+> <small>(REFORMADA, B.O. 8 DE ENERO DE 2016)</small>
 
-XV.- Promover la investigación esencial en salud sobre los programas de acción y prioridades estatales, en coordinación con la Dirección General de Enseñanza y Calidad;
+IX.- Participar en el fortalecimiento de respuesta del Sistema Estatal de Salud, mediante la racionalización y aprovechamiento de la estructura física, la innovación y evaluación de la tecnología en salud, que permita una mayor eficiencia en la prestación de servicios de las Unidades de Primer Nivel;
 
-XVI.- Participar en la definición de políticas y estrategias de atención a la salud, en las Unidades Médicas de los Servicios;
+> <small>(REFORMADA, B.O. 8 DE ENERO DE 2016)</small>
 
-XVII.- Participar en las reuniones de los Comités Internos de Administración, Planeación y Evaluación (CIDAPE) de las Jurisdicciones Sanitarias, así como analizar sus propuestas para definir alternativas de solución a los problemas que se presentan;
+X.- Participar en los proyectos de mejoramiento de la infraestructura y equipo médico, así como en los comités de adquisiciones y comisiones que tengan como fin la utilización racional de los recursos que se requieran en las Unidades de Primer Nivel de los Servicios, con el fin de mejorar su nivel de complejidad, resolución y adecuación de la tecnología para beneficio de la población;
 
-XVIII.- Motivar la participación de los recursos humanos para la salud en los programas de desarrollo integral, en coordinación con la Dirección General de Enseñanza y Calidad; y
+> <small>(REFORMADA, B.O. 8 DE ENERO DE 2016)</small>
 
-XIX.- Las demás que le confieran las disposiciones legales aplicables y el Presidente Ejecutivo, dentro de la esfera de sus atribuciones.
+XI.- Participar en la integración de proyectos técnicos de infraestructura en salud que propongan nuevos modelos de Unidades de Primer Nivel en beneficio de la población;
+
+> <small>(REFORMADA, B.O. 8 DE ENERO DE 2016)</small>
+
+XII.- Establecer y operar un sistema de supervisión en las Unidades de Primer Nivel, que permita el fortalecimiento de los procesos y garanticen óptimos resultados en el desarrollo de los programas de acción;
+
+> <small>(REFORMADA, B.O. 8 DE ENERO DE 2016)</small>
+
+XIII.- Vigilar y evaluar el comportamiento de los programas de acción mediante revisión continua de los diferentes indicadores y metas;
+
+> <small>(REFORMADA, B.O. 8 DE ENERO DE 2016)</small>
+
+XIV.- Participar, coordinadamente con las áreas competentes, en la integración del tabulador general de servicios médico asistenciales;
+
+> <small>(REFORMADA, B.O. 8 DE ENERO DE 2016)</small>
+
+XV.- Participar en la integración de convenios y contratos de subrogación de servicios de atención médica, servicios de apoyo al diagnóstico y tratamiento, así como estudios especiales de las Unidades de Primer Nivel que se suscriban con las diferentes instituciones públicas o privadas del Estado;
+
+> <small>(REFORMADA, B.O. 8 DE ENERO DE 2016)</small>
+
+XVI.- Promover la investigación esencial en salud sobre los programas de acción y prioridades estatales del primer nivel, en coordinación con la Dirección General de Enseñanza y Calidad;
+
+> <small>(REFORMADA, B.O. 8 DE ENERO DE 2016)</small>
+
+XVII.- Participar en la definición de políticas y estrategias de atención a la salud, en las Unidades de primer nivel de los Servicios;
+
+> <small>(REFORMADA, B.O. 8 DE ENERO DE 2016)</small>
+
+XVIII.- Participar en las reuniones del Comité Interno de Administración, Planeación y Evaluación (CIDAPE) de las Jurisdicciones Sanitarias, así como analizar sus propuestas para definir alternativas de solución a los problemas que se presentan;
+
+> <small>(REFORMADA, B.O. 8 DE ENERO DE 2016)</small>
+
+XIX.- Motivar la participación de los recursos humanos para la salud en los programas de desarrollo integral de las unidades de primer nivel, en coordinación con la Dirección General de Enseñanza y Calidad; y
+
+> <small>(ADICIONADA, B.O. 8 DE ENERO DE 2016)</small>
+
+XX.- Las demás que le confieran las disposiciones legales aplicables y el Presidente Ejecutivo, dentro de la esfera de sus atribuciones.
 
 ###### ARTÍCULO 31.
 
@@ -657,11 +777,15 @@ XXI.- Las demás que le confieran las disposiciones legales aplicables y el Pres
 
 La Dirección General de Administración estará adscrita a la Coordinación General de Administración y Finanzas y tendrá el cumplimiento de las siguientes atribuciones:
 
-I.- Proponer al Coordinador General de Administración las políticas, normas, sistemas y procedimientos para la administración y control de los recursos humanos asignados a los Servicios, de acuerdo a los lineamientos y normatividad aplicable;
+> <small>(REFORMADA, B.O. 8 DE ENERO DE 2016)</small>
 
-II.- Coordinar, operar y supervisar los sistemas de administración y control del personal en apego a las disposiciones legales aplicables;
+I.- Proponer al Coordinador General de Administración y Finanzas las políticas, normas, sistemas y procedimientos para la administración y control de los recursos materiales y financieros asignados a los Servicios, así como administrar y controlar dichos recursos de acuerdo a los lineamientos y la normatividad aplicable;
 
-III. (DEROGADA, B.O. 7 DE ENERO DE 2016)
+> <small>(REFORMADA, B.O. 8 DE ENERO DE 2016)</small>
+
+II.- Coordinar, operar y supervisar los sistemas de administración y control del recurso material y financiero, en apego a las disposiciones legales aplicables;
+
+III.- (DEROGADA, B.O. 7 DE ENERO DE 2016)
 
 IV.- Supervisar que los recursos financieros sean transferidos de manera transparente y oportuna;
 
@@ -735,9 +859,7 @@ XII.- (DEROGADA, B.O. 4 DE JULIO DE 2011)
 
 XIII.- Proyectar, promover, ejecutar y supervisar los mecanismos de evaluación y seguimiento a los programas y proyectos especiales, con el propósito de optimizar la asignación de recursos y el mejoramiento de la productividad de los Servicios, emitiendo informes de resultados que apoyen la toma de decisiones;
 
-> <small>(REFORMADA, B.O. 4 DE JULIO DE 2011)</small>
-
-XIV.- Dar seguimiento a los acuerdos derivados del Consejo Nacional de Salud, así como integrar los informes de avances de los mismos;
+XIV.- (DEROGADA, B.O. 8 DE ENERO DE 2016)
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 4 DE JULIO DE 2011)</small>
 
@@ -759,41 +881,181 @@ XVIII.- Las demás que le confieran las disposiciones legales aplicables y el Pr
 
 (DEROGADO, B.O. 7 DE ENERO DE 2016)
 
-> <small>(ADICIONADO, B.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE ENERO DE 2016)</small>
 
-###### ARTÍCULO 34 Bis.
+ARTÍCULO 34 BIS.- La Dirección General de Tecnologías de la Información y Comunicaciones estará adscrita a la Coordinación General de Administración y Finanzas y tendrá el cumplimiento de las siguientes atribuciones:
 
-La Dirección de Tecnologías de la Información y Comunicaciones estará adscrita a la Coordinación General de Administración y Finanzas y tendrá el cumplimiento de las siguientes atribuciones:
+> <small>(REFORMADA, B.O. 8 DE ENERO DE 2016)</small>
 
-I.- Conducir el desarrollo informático y promover el aprovechamiento de las tecnologías de la información y comunicaciones como herramienta estratégica para mejorar la productividad y la calidad de los servicios de salud que se proporcionan, en coordinación con la Oficina de Innovación Gubernamental del Ejecutivo Estatal;
+I.- Conducir el desarrollo informático de los Servicios y promover el aprovechamiento de las tecnologías de la información y comunicaciones como herramienta estratégica para mejorar la productividad y la calidad de los servicios de salud que se proporcionan, en coordinación con las instancias gubernamentales en la materia;
+
+> <small>(ADICIONADA, B.O. 4 DE JULIO DE 2011)</small>
 
 II.- Proponer, desarrollar e implementar las políticas y estándares técnicos aplicables para el uso innovador de las tecnologías de la información y comunicaciones en los Servicios, de conformidad con lo establecido por el Comité de Desarrollo Tecnológico de la Administración Pública Estatal;
 
+> <small>(ADICIONADA, B.O. 4 DE JULIO DE 2011)</small>
+
 III.- Fomentar el Programa de Capacitación en Informática y Comunicaciones, para fortalecer el uso de las tecnologías de información en los Servicios, con apego a lo establecido por el Comité de Desarrollo Tecnológico de la Administración Pública Estatal;
+
+> <small>(ADICIONADA, B.O. 4 DE JULIO DE 2011)</small>
 
 IV.- Determinar acerca de las necesidades de uso de tecnología de la información e infraestructura de telecomunicaciones, así como de proyectos de informática y de desarrollo e implantación de sistemas automatizados de información, gestionando el dictamen técnico ante la Secretaría de la Contraloría General;
 
+> <small>(ADICIONADA, B.O. 4 DE JULIO DE 2011)</small>
+
 V.- Diseñar, operar y mantener vigentes los sistemas que permitan manejar con rapidez y calidad la información que se genera y compartirla en red entre las diversas unidades médicas y administrativas de los Servicios;
+
+> <small>(ADICIONADA, B.O. 4 DE JULIO DE 2011)</small>
 
 VI.- Implementar y dar mantenimiento y seguimiento a la operación del expediente clínico electrónico en el primer y segundo nivel de atención de los Servicios;
 
+> <small>(ADICIONADA, B.O. 4 DE JULIO DE 2011)</small>
+
 VII.- Colaborar con instancias públicas, sociales y privadas en el ámbito estatal, nacional e internacional para el aprovechamiento y desarrollo de la tecnología de la información en materia de salud; y
 
-VIII.- Las demás que le confieran las disposiciones legales aplicables y el Presidente Ejecutivo, dentro de la esfera de sus atribuciones.
+VIII.- (DEROGADA, B.O. 8 DE ENERO DE 2016)
 
-> <small>(ADICIONADO, B.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], B.O. 8 DE ENERO DE 2016)</small>
 
-ARTÍCULO 34 Bis A.- La Dirección de Infraestructura Física estará adscrita a la Coordinación General de Administración y Finanzas y tendrá el cumplimiento de las siguientes atribuciones:
+IX.- Aplicar la normatividad establecida en materia de tecnologías de la información y comunicaciones, coordinando y verificando su cumplimiento en las unidades administrativas y órganos desconcentrados de los Servicios;
+
+> <small>(ADICIONADA, B.O. 8 DE ENERO DE 2016)</small>
+
+X.- Coordinar el contenido y correcta publicación de los portales informativos de los Servicios, conforme a los lineamientos establecidos en la materia; y
+
+> <small>(ADICIONADA, B.O. 8 DE ENERO DE 2016)</small>
+
+XI.- Las demás que le confieran las disposiciones legales aplicables y el Presidente Ejecutivo, dentro de la esfera de sus atribuciones.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, B.O. 8 DE ENERO DE 2016)</small>
+
+ARTÍCULO 34 BIS A.- La Dirección General de Infraestructura Física estará adscrita a la Coordinación General de Administración y Finanzas y tendrá el cumplimiento de las siguientes atribuciones:
+
+> <small>(ADICIONADA, B.O. 4 DE JULIO DE 2011)</small>
 
 I.- Asesorar y apoyar técnica y normativamente a las unidades administrativas y médicas de los Servicios, para el seguimiento de proyectos de obra pública y estrategias de modernización y calidad aplicadas a obras y conservación de la infraestructura física;
 
+> <small>(ADICIONADA, B.O. 4 DE JULIO DE 2011)</small>
+
 II.- Realizar los procedimientos de contratación en materia de obra pública y servicios relacionados con las mismas, así como elaborar, formalizar y tramitar los contratos y convenios, sujetándose a la normatividad aplicable según el origen del recurso;
+
+> <small>(ADICIONADA, B.O. 4 DE JULIO DE 2011)</small>
 
 III.- Coordinar y vincular las acciones de obras y proyectos con la Dirección General de Desarrollo de la Infraestructura Física de la Secretaría de Salud del Gobierno Federal, a fin de unificar criterios normativos en el desarrollo de la infraestructura física en salud;
 
+> <small>(ADICIONADA, B.O. 4 DE JULIO DE 2011)</small>
+
 IV.- Coadyuvar con la Dirección General de Planeación y Desarrollo en la elaboración del Plan Estatal Maestro de Infraestructura en Salud, en la integración de los proyectos de inversión tanto en el aspecto técnico como financiero de las obras, así como establecer los mecanismos necesarios para su formulación, evaluación y seguimiento; y
 
+> <small>(ADICIONADA, B.O. 4 DE JULIO DE 2011)</small>
+
 V.- Las demás que le confieran las disposiciones legales aplicables y el Presidente Ejecutivo, dentro de la esfera de sus atribuciones.
+
+> <small>(ADICIONADO, B.O. 8 DE ENERO DE 2016)</small>
+
+ARTÍCULO 34 BIS B.- La Dirección General de Hospitales estará adscrita a la Coordinación General de Servicios de Salud y tendrá el cumplimiento de las siguientes atribuciones:
+
+I.- Planificar, organizar, dirigir y controlar la operación de los servicios de atención medica de las unidades de Segundo y Tercer Nivel, en los que se incluyen Hospitales de Especialidad, Hospitales Generales, Hospitales Comunitarios, Hospitales Integrales, Hospitales Universales, Unidad de Especialidades Médicas de Cirugía Ambulatoria (UNEMECA) y Centro Estatal de Oncología, además todo lo relacionado a enfermería, trabajo social, auxiliares de diagnóstico y tratamiento, y Telesalud, con énfasis en el tratamiento médico integral y especializado en estrecha vinculación con acciones de prevención y promoción de la salud, en el marco de lo señalado y alineados con los Programas Nacionales y Estatales de salud;
+
+II.- Planificar, organizar, dirigir y controlar la operación en materia de los servicios estatales de enfermería, trabajo social, así como auxiliares de diagnóstico y tratamiento, Telesalud y el Programa Estatal de Certificación y Acreditación de Calidad de los Servicios, en las Unidades de Primer, Segundo y Tercer Nivel;
+
+III.- Implementar y coordinar en las Unidades de Segundo y Tercer Nivel de los Servicios, las estrategias de operación, calidad, seguridad, mejora continua y desarrollo que permitan su correcto funcionamiento dentro de la red Estatal de servicios de atención médica, conforme al Modelo Integrado de Atención a la Salud (MIDAS) y legislación vigente en la materia;
+
+IV.- Planear, coordinar, vigilar y evaluar en forma permanente en coordinación con las áreas competentes, en las Unidades de Primer, Segundo y Tercer Nivel de los Servicios, a fin de que alcancen y mantengan la acreditación y la certificación en atención médica, y garantizar la calidad y seguridad en los servicios de atención médica;
+
+V.- Fomentar la aplicación de la normatividad vigente en materia de atención médica y salud pública, apoyando las funciones de las Unidades de Segundo y Tercer Nivel de los Servicios;
+
+VI.- Organizar, dirigir y evaluar el sistema de referencia y contrarreferencia de usuarios para garantizar un uso óptimo de la infraestructura equipo y recursos de cada unidad médica, así como para evaluar la eficacia y calidad de la atención a la población;
+
+VII.- Participar en el fortalecimiento de respuesta del Sistema Estatal de Salud, mediante la racionalización y aprovechamiento de la estructura física, la innovación y evaluación de la tecnología en salud, que permita una mayor eficiencia en la prestación de servicios médicos especializados;
+
+VIII.- Participar en los proyectos de mejoramiento de la infraestructura, equipo médico e insumos, así como en los comités de adquisiciones y comisiones que tengan como fin la utilización racional de los recursos que se requieran en las unidades de Segundo y Tercer Nivel de los Servicios, con el fin de mejorar su nivel de complejidad resolución y adecuación de la tecnología para beneficio de la población;
+
+IX.- Participar en la integración de proyectos técnicos de infraestructura en salud que propongan nuevos modelos de unidades en beneficio de la población;
+
+X.- Establecer y operar un sistema de supervisión que permita el fortalecimiento de los procesos y garanticen óptimos resultados en el desarrollo de los programas de atención médica;
+
+XI.- Participar, coordinadamente con las áreas competentes, en la integración del Tabulador General de Servicios Medico Asistenciales;
+
+XII.- Participar en la integración de convenios y contratos de subrogación de servicios de atención médica quirúrgica, laboratorios, servicios de apoyo al diagnóstico y tratamiento, así como estudios especiales que se suscriban con las diferentes instituciones públicas y privadas del Estado;
+
+XIII.- Promover la investigación en salud sobre los programas de acción y prioridades estatales de las Unidades de Segundo y Tercer Nivel, en coordinación con la Dirección General de Enseñanza y Calidad;
+
+XIV.- Coordinar y participar en la definición de políticas, estrategias, normas y procedimientos de carácter técnico-administrativo en materia de atención a la salud en las Unidades de Segundo y Tercer Nivel de los Servicios;
+
+XV.- Participar en las reuniones de los consejos, comités o comisiones relacionados con el ámbito de competencia, así como dar seguimiento a los acuerdos que deriven de sus sesiones y que sean responsabilidad de esta Dirección General;
+
+XVI.- Motivar la participación de los recursos humanos para la salud en los programas de desarrollo integral, en coordinación con la Dirección General de Enseñanza y Calidad;
+
+XVII.- Analizar, elaborar y actualizar en coordinación con otras áreas de competencia el cuadro básico de medicamentos;
+
+XVIII.- Establecer un sistema de vinculación y seguimiento de la gestión entre las unidades médicas de segundo y tercer nivel y con las otras direcciones generales o dependencias involucradas, para garantizar el adecuado funcionamiento y operatividad; y
+
+XIX.- Las demás que le confieran las disposiciones legales aplicables y el Presidente Ejecutivo, dentro de la esfera de sus atribuciones.
+
+> <small>(ADICIONADO, B.O. 8 DE ENERO DE 2016)</small>
+
+ARTÍCULO 34 BIS C.- La Dirección General de Salud Mental y Adicciones estará adscrita a la Coordinación General de Servicios de Salud y tendrá el cumplimiento de las siguientes atribuciones:
+
+I.- Coordinar, supervisar y evaluar las políticas y estrategias en materia de salud mental y adicciones, previa validación del Coordinador General de Servicios de Salud;
+
+II.- Elaborar, conducir, coordinar y promover la integración de los programas de prevención, promoción de la salud y control de enfermedades relativos a la salud mental y de los vinculados con las adicciones;
+
+III.- Proponer las políticas, estrategias, sistemas y programas que permitan optimizar la asignación de recursos financieros para los programas en materia de prevención, promoción de la salud y de control de enfermedades en materia de salud mental y adicciones; sin perjuicio de las atribuciones que en estas materias tengan otras unidades administrativas;
+
+IV.- Coordinar, integrar, supervisar y evaluar la información del subsistema estadístico sobre salud mental y adicciones, en el que se contenga el diagnóstico sobre la situación de incidencia y prevalencia de enfermedades mentales, así como uso y abuso de sustancias psicoactivas, atención preventiva y rehabilitación de adictos;
+
+V.- Normar y conducir el proceso de evaluación del desempeño de los sistemas estatales de salud mental y adicciones en lo referente a prevención, promoción de la salud, control de enfermedades, y en su caso, analizar y proponer alternativas a la Coordinación General de Servicios de Salud;
+
+VI.- Coordinar y definir la política normativa en materia de prevención, promoción de la salud, así como de control de enfermedades del ámbito de la salud mental y adicciones, con la participación que corresponda a las unidades de atención médica y preventiva dependientes de la Dirección General de Salud Mental y Adicciones;
+
+VII.- Promover mecanismos para fomentar la participación de la población sin seguridad social y afiliada al Seguro Popular, en las acciones de prevención, promoción de la salud y control de enfermedades en materia de salud mental y adicciones;
+
+VIII.- Proponer, en su ámbito de competencia, instrumentos y mecanismos para la reforma y la modernización de los servicios de salud mental y adicciones, así como definir y proponer la aplicación de estrategias de vanguardia en los programas de prevención, promoción de la salud y control de enfermedades en la materia;
+
+IX. Planear, organizar, programar y supervisar las actividades de las unidades que le estén adscritas; y
+
+X.- Las demás que le confieran las disposiciones legales aplicables y el Presidente Ejecutivo, dentro de la esfera de sus atribuciones.
+
+> <small>(ADICIONADO, B.O. 8 DE ENERO DE 2016)</small>
+
+ARTÍCULO 34 BIS D.- La Dirección General de Recursos Humanos estará adscrita a la Coordinación General de Administración y Finanzas y tendrá el cumplimiento de las siguientes atribuciones:
+
+I.- Proponer al Coordinador General de Administración y Finanzas las políticas, normas, sistemas y procedimientos para la administración y control de los recursos humanos asignados a los Servicios, de acuerdo a los lineamientos y normatividad aplicable;
+
+II.- Coordinar, operar y supervisar los sistemas de administración y control del personal en apego a las disposiciones legales aplicables;
+
+III.- Dirigir y normar la administración y desarrollo del personal de los Servicios, así como definir los sistemas para su evaluación, en coordinación con las unidades administrativas competentes;
+
+IV.- Establecer y promover las normas, criterios y procedimientos en materia de reclutamiento, selección e inducción de personal;
+
+V.- Administrar los sistemas de cómputo de recursos humanos y procesar la nómina de las unidades administrativas y órganos desconcentrados de los Servicios;
+
+VI.- Conducir el sistema de remuneraciones y de política salarial para el personal de los Servicios, así como promover la aplicación de las normas y lineamientos que, en la materia, emitan las instancias competentes;
+
+VII.- Normar, tramitar, controlar y registrar los movimientos e incidencias del personal, así como los nombramientos y demás documentos que acrediten la situación laboral de los trabajadores;
+
+VIII.- Administrar, promover, coordinar y vigilar la debida aplicación de los sistemas de premios, estímulos y recompensas, así como proporcionar a los trabajadores los beneficios y prestaciones económicas y sociales que establecen las disposiciones aplicables;
+
+IX.- Elaborar y revisar, en coordinación con la Unidad de Asuntos Jurídicos, las Condiciones Generales de Trabajo y demás normas laborales internas de los Servicios, así como difundirlas al personal y vigilar su observancia, en coordinación con las unidades administrativas competentes;
+
+X.- Participar en los comités y comisiones que se creen en materia laboral y de capacitación técnico-administrativa;
+
+XI.- Vigilar y aplicar el cumplimiento y observancia de las disposiciones legales en materia laboral, así como resolver administrativamente los conflictos internos que se susciten por violación a las Condiciones Generales de Trabajo y demás disposiciones jurídicas y administrativas que rigen a los servidores públicos e imponer, en su caso, las medidas disciplinarias que correspondan;
+
+XII.- Cuantificar, costear y validar, en su caso, los programas de reclasificación y requerimientos de recursos humanos que demanden las unidades administrativas y órganos desconcentrados de los Servicios, en coordinación con las instancias competentes de la misma;
+
+XIII.- Participar en la elaboración del programa operativo anual de los Servicios en lo referente a servicios personales;
+
+XIV.- Participar en la definición de las normas, sistemas y procedimientos aplicables al proceso de descentralización en materia de personal, así como promover su cumplimiento;
+
+XV.- Definir y promover el desarrollo de las actividades culturales, cívicas, sociales y recreativas en los Servicios;
+
+XVI.- Expedir los nombramientos y realizar las reubicaciones, liquidaciones y pago de cualquier remuneración del personal al servicio de los Servicios;
+
+XVII.- Integrar y gestionar las peticiones de licencia con goce de sueldo por comisión sindical, así como las comisiones oficiales y externas de las unidades administrativas y órganos desconcentrados;
+
+XVIII.- Las demás que le confieran las disposiciones legales aplicables y el Presidente Ejecutivo, dentro de la esfera de sus atribuciones.
 
 ###### ARTÍCULO 35.
 
@@ -815,81 +1077,127 @@ VII.- Contribuir al cumplimiento de la legislación laboral y de las condiciones
 
 VIII.- Sustanciar el trámite de los recursos que se interpongan en contra de las resoluciones dictadas por las unidades administrativas de los Servicios y elaborar el proyecto de resolución correspondiente, en los términos de la Ley de Procedimiento Administrativo del Estado de Sonora;
 
-IX.- Certificar copias de documentos generados por los Servicios para la expedición, entrega y exhibición de testimonios de los mismos en los juicios y asuntos legales o jurídicos y administrativos que tramite en ejercicio de sus atribuciones; y
+> <small>(REFORMADA, B.O. 8 DE ENERO DE 2016)</small>
+
+IX.- Expedir copias certificadas y/o cotejadas de todos aquellos documentos o archivos, ya sean físicos o electrónicos, que sean generados por los Servicios de Salud de Sonora, o que formen parte integral de los expedientes administrativos en que participa o que tramita en ejercicio de sus atribuciones y competencia, a fin de que sean exhibidos y entregados, como testimonio fiel de su autenticidad, ante las diversas autoridades en asuntos jurídicos o administrativos, que así lo soliciten;
 
 X.- Las demás que le confieran las disposiciones legales aplicables y el Presidente Ejecutivo, dentro de la esfera de sus atribuciones.
 
 ### CAPÍTULO VIII. DE LOS ÓRGANOS DESCONCENTRADOS
 
+> <small>(REFORMADO, B.O. 8 DE ENERO DE 2016)</small>
+
 ###### ARTÍCULO 36.
 
-Para la eficaz atención y eficiente despacho de los asuntos competencia de los Servicios, éste contará con órganos desconcentrados que le estarán jerárquicamente subordinados al Presidente Ejecutivo y gozarán de autonomía técnica y operativa para ejercer las funciones que se les asignen.
+Para la eficaz atención y eficiente despacho de los asuntos competencia de los Servicios, éste contará con órganos desconcentrados que le estarán jerárquicamente subordinados al Presidente Ejecutivo, Dirección General de Promoción a la Salud y Prevención de Enfermedades, Dirección General de Hospitales, Servicio Estatal de Salud Mental, así como Dirección General de Recursos Humanos y gozarán de autonomía técnica y operativa para ejercer las funciones que se les asignen.
 
-> <small>(REFORMADO, B.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, B.O. 8 DE ENERO DE 2016)</small>
 
 ###### ARTÍCULO 37.
 
-Son órganos desconcentrados de los Servicios: el Hospital General del Estado, el Hospital Infantil del Estado de Sonora, el Hospital Oncológico del Estado de Sonora, el Hospital General de Ciudad Obregón, el Servicio Estatal de Salud Mental, el Laboratorio Estatal de Salud Pública, el Centro Estatal de la Transfusión Sanguínea, el Centro Ambulatorio para la Prevención y Atención a VIH-SIDA e Infecciones de Transmisión Sexual, el Centro de Desarrollo Infantil SNTSA-SECCION 43, la Unidad de Especialidades Médicas de Cirugía Ambulatoria y las Jurisdicciones Sanitarias, senalados (sic) en el artículo 3°, fracción III de este Reglamento, los cuales se regirán por las disposiciones de este Reglamento, por sus respectivos Reglamentos Internos, y por las que, en su caso, determine el Presidente Ejecutivo, dentro de la esfera de sus atribuciones.
+Son órganos desconcentrados de los Servicios: la Administración del Patrimonio de la Beneficencia Pública, el Hospital General del Estado, el Hospital Infantil del Estado de Sonora, el Centro Estatal de Oncología, el Hospital General de Ciudad Obregón, el Laboratorio Estatal de Salud Pública, el Centro Estatal de la Transfusión Sanguínea, el Centro Ambulatorio para la Prevención y Atención a VIH-SIDA e Infecciones de Transmisión Sexual, el Centro de Desarrollo Infantil SNTSA-SECCIÓN 43, la Unidad de Especialidades Médicas de Cirugía Ambulatoria, las Jurisdicciones Sanitarias, Hospitales Generales, Hospitales Comunitarios, Hospital Integral de Puerto Peñasco, Hospital Psiquiátrico Cruz del Norte, Centro de Higiene Mental Dr. Carlos Nava Muñoz, Centro Infantil para el Desarrollo Neuroconductual, Centros Integrales de Salud Mental, Unidad de Atención Integral a las Adicciones, Centro de Atención Primaria de Adicciones y Unidades de Desintoxicación señalados en el artículo 3º, fracción III de este Reglamento, los cuales se regirán por las disposiciones de este Reglamento, por sus respectivos Reglamentos Internos, y por las que, en su caso, determine el Presidente Ejecutivo, dentro de la esfera de sus atribuciones.
+
+> <small>(REFORMADO, B.O. 8 DE ENERO DE 2016)</small>
 
 ###### ARTÍCULO 38.
 
-El Hospital General del Estado tiene por objeto prestar los servicios de atención médica de especialidades a población de responsabilidad preferentemente en la zona centro y norte del Estado a través de la consulta externa especializada, hospitalización y urgencias, así como realizar acciones de enseñanza e investigación y formación de recursos humanos para la salud.
+El Hospital General del Estado estará adscrito a la Dirección General de Hospitales y tiene por objeto prestar los servicios de atención médica de especialidades a población de responsabilidad preferentemente en la zona centro y norte del Estado a través de la consulta externa especializada, hospitalización y urgencias, así como realizar acciones de enseñanza e investigación y formación de recursos humanos para la salud.
+
+> <small>(REFORMADO, B.O. 8 DE ENERO DE 2016)</small>
 
 ###### ARTÍCULO 39.
 
-El Hospital Infantil del Estado de Sonora tiene por objeto prestar los servicios de especialidad en el área de pediatría a través de la consulta externa especializada, hospitalización y urgencias, así como realizar acciones de enseñanza e investigación y formación de recursos humanos para la salud.
+El Hospital Infantil del Estado de Sonora estará adscrito a la Dirección General de Hospitales y tiene por objeto prestar los servicios de especialidad en el área de pediatría a través de la consulta externa especializada, hospitalización y urgencias, así como realizar acciones de enseñanza e investigación y formación de recursos humanos para la salud.
 
-Así mismo, prestará los servicios de especialidad en el área de gineco-obstetricia a través del Hospital Integral de la Mujer, que cuenta con los servicios de consulta externa especializada, hospitalización y urgencias, realizado (sic) también acciones de enseñanza e investigación y formación de recursos humanos para la salud.
+Así mismo, prestará los servicios de especialidad en el área de gineco-obstetricia a través del Hospital Integral de la Mujer, que cuenta con los servicios de consulta externa especializada, hospitalización y urgencias, realizando también acciones de enseñanza e investigación y formación de recursos humanos para la salud.
+
+> <small>(REFORMADO, B.O. 8 DE ENERO DE 2016)</small>
 
 ###### ARTÍCULO 40.
 
-El Hospital Oncológico del Estado de Sonora tiene por objeto proporcionar la infraestructura médica especializada en las ramas de la ciencia oncológica, fungiendo como centro de referencia diagnóstica y terapéutica del cáncer.
+El Centro Estatal de Oncología estará adscrito a la Dirección General de Hospitales y tiene por objeto proporcionar servicios integrales ambulatorios en las ramas de la ciencia oncológica, fungiendo como centro de referencia diagnóstica y terapéutica.
+
+> <small>(REFORMADO, B.O. 8 DE ENERO DE 2016)</small>
 
 ###### ARTÍCULO 41.
 
-El Hospital General de Ciudad Obregón tiene por objeto prestar los servicios de atención médica de especialidades a población de responsabilidad preferentemente en la zona sur del Estado a través de la consulta externa especializada, hospitalización y urgencias, así como realizar acciones de enseñanza e investigación y formación de recursos humanos para la salud.
+El Hospital General de Ciudad Obregón estará adscrito a la Dirección General de Hospitales y tiene por objeto prestar los servicios de atención médica de especialidades a población de responsabilidad preferentemente en la zona sur del Estado a través de la consulta externa especializada, hospitalización y urgencias, así como realizar acciones de enseñanza e investigación y formación de recursos humanos para la salud.
 
 ###### ARTÍCULO 42.
 
-El Servicio Estatal de Salud Mental tiene por objeto organizar y operar la prestación de los servicios de salud mental de consulta externa especializada, hospitalización a usuarios agudos y crónicos, clínicas de desintoxicación y tratamiento terapéutico infantil, así como supervisar y evaluar las actividades que en este campo realicen las unidades de primer y segundo nivel de atención para población de responsabilidad.
+(DEROGADO, B.O. 8 DE ENERO DE 2016)
 
-> <small>(REFORMADO, B.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, B.O. 8 DE ENERO DE 2016)</small>
 
 ###### ARTÍCULO 43.
 
-Al Laboratorio Estatal de Salud Pública le corresponderá proporcionar el apoyo técnico necesario para el desarrollo de los programas de vigilancia epidemiológica, de regulación y control sanitario de atención médica.
+El Laboratorio Estatal de Salud Pública estará adscrito a la Dirección General de Promoción a la Salud y Prevención de Enfermedades y le corresponderá proporcionar el apoyo técnico necesario para el desarrollo de los programas de vigilancia epidemiológica, de regulación y control sanitario de atención médica.
+
+> <small>(REFORMADO, B.O. 8 DE ENERO DE 2016)</small>
 
 ###### ARTÍCULO 44.
 
-El Centro Estatal de la Transfusión Sanguínea tiene por objeto proporcionar los servicios de control, supervisión y distribución de los elementos de la sangre, así como verificar la operación de los bancos de sangre, servicios de transfusión y puestos de sangrado.
+El Centro Estatal de la Transfusión Sanguínea estará adscrito al Presidente Ejecutivo de los Servicios y tiene por objeto proporcionar los servicios de control, supervisión y distribución de los elementos de la sangre, así como verificar la operación de los bancos de sangre, puestos de sangrado y servicios de transfusión.
+
+> <small>(REFORMADO, B.O. 8 DE ENERO DE 2016)</small>
 
 ###### ARTÍCULO 45.
 
-Al Centro Ambulatorio para la Prevención y Atención a VIH-SIDA e Infecciones de Transmisión Sexual le corresponderá proporcionar servicios de educación, prevención, detección oportuna y atención ambulatoria especializada de personas con VIH/SIDA e infecciones de transmisión sexual.
+El Centro Ambulatorio para la Prevención y Atención a VIH-SIDA e Infecciones de Transmisión Sexual estará adscrito a la Dirección General de Promoción a la Salud y Prevención de Enfermedades y le corresponderá proporcionar servicios de educación, prevención, detección oportuna y atención ambulatoria especializada de personas con VIH/SIDA e infecciones de transmisión sexual, así como coordinar a los Centros con esta naturaleza en el Estado.
+
+> <small>(REFORMADO, B.O. 8 DE ENERO DE 2016)</small>
 
 ###### ARTÍCULO 46.
 
-El Centro de Desarrollo Infantil SNTSA-SECCIÓN 43 tiene por objeto establecer las líneas de acción de carácter general a fin de que la atención educativo-asistencial que se brinda a los niños durante su estancia en el Centro, se realice con calidad, oportunidad y orientada a satisfacer las necesidades de crecimiento y desarrollo óptimo que tiene el menor durante esta etapa de la vida.
+El Centro de Desarrollo Infantil SNTSA-SECCIÓN 43 estará adscrito a la Dirección General de Recursos Humanos y tiene por objeto establecer las líneas de acción de carácter general, a fin de que la atención educativo-asistencial que se brinda a los niños durante su estancia en el Centro, se realice con calidad, oportunidad y orientada a satisfacer las necesidades de crecimiento y desarrollo óptimo que tiene el menor durante esta etapa de la vida.
 
-> <small>(ADICIONADO, B.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO, B.O. 8 DE ENERO DE 2016)</small>
 
-###### ARTÍCULO 46 Bis.
+ARTÍCULO 46 BIS.- La Unidad de Especialidades Médicas de Cirugía Ambulatoria estará adscrita a la Dirección General de Hospitales y tiene como objeto proporcionar servicios quirúrgicos de corta estancia en todas las especialidades médicas a pacientes referidos de unidades de segundo y tercer nivel de los Servicios.
 
-La Unidad de Especialidades Médicas de Cirugía Ambulatoria tiene como objeto proporcionar servicias quirúrgicos de corta estancia en todas las especialidades médicas a pacientes referidos de unidades de segundo y tercer nivel de los Servicios.
+> <small>(REFORMADO, B.O. 8 DE ENERO DE 2016)</small>
 
 ###### ARTÍCULO 47.
 
-Las Jurisdicciones Sanitarias tienen por objeto planear, coordinar, supervisar y evaluar la prestación de los servicios de atención médica a población de responsabilidad y de salud pública a toda la población del Estado. Para el fin anterior, los Centros de Salud, Hospitales Generales que no sean órganos desconcentrados y Hospitales Integrales, así como las unidades de primer y segundo nivel de atención, estarán adscritas a la Jurisdicción Sanitaria correspondiente, atendiendo la distribución geográfica que se menciona a continuación:
+Las Jurisdicciones Sanitarias tienen por objeto planear, coordinar, supervisar y evaluar la prestación de los servicios de atención médica a población de responsabilidad y de salud pública a toda la población del Estado. Para el fin anterior, los Centros de Salud Urbanos y Rurales, Centro Avanzado de Atención Primaria a la Salud, Unidades de Especialidades Médicas de Enfermedades Crónicas, Casas de Salud, Unidades Médicas Móviles y Equipos de Salud Itinerantes, estarán adscritos a la Jurisdicción Sanitaria correspondiente, atendiendo la distribución geográfica que se menciona a continuación:
 
-I.- JURISDICCIÓN SANITARIA 01 HERMOSILLO, comprende los Municipios de Aconchi, Arivechi, Bacadéhuachi, Bacanora, Banámichi, Baviácora, Carbó, La Colorada, Cumpas, Divisaderos, Granados, Hermosillo, Huásabas, Huépac, Mazatán, Moctezuma, Nácori Chico, Nacozari de García, Ónavas, Opodepe, Rayón, Sahuaripa, San Felipe de Jesús, San Javier, San Miguel de Horcasitas, San Pedro de la Cueva, Soyopa, Suaqui Grande, Tepache, Ures, Villa Hidalgo y Villa Pesqueira.
+I.- JURISDICCIÓN SANITARIA 01 HERMOSILLO, comprende los Municipios de Aconchi, Arivechi, Bacadéhuachi, Bacanora, Banámichi, Baviácora, Garbó, La Colorada, Cumpas, Divisaderos, Granados, Hermosillo, Huásabas, Huépac, Mazatán, Moctezuma, Nácori Chico, Nacozari de García, Ónavas, Opodepe, Rayón, Sahuaripa, San Felipe de Jesús, San Javier, San Miguel de Horcasitas, San Pedro de la Cueva, Soyopa, Suaqui Grande, Tepache, Ures, Villa Hidalgo y Villa Pesqueira.
 
-II.- JURISDICCIÓN SANITARIA 02 CABORCA, comprende los Municipios de Altar, ÁtiI, Caborca, General Plutarco Elías Calles, Oquitoa, Pitiquíto, Puerto Peñasco, San Luis Río Colorado, Sáric y Tubutama.
+II.- JURISDICCIÓN SANITARIA 02 CABORCA, comprende los Municipios de Altar, Átil, Caborca, General Plutarco Elías Calles, Oquitoa, Pitiquito, Puerto Peñasco, San Luis Río Colorado, Sáric y Tubutama.
 
-III.- JURISDICCIÓN SANITARIA 03 SANTA ANA, comprende los Municipios de Agua Prieta, Arizpe, Bacerac, Bacoachi, Bavispe, Benjamín HiII, Cananea, Cucurpe, Fronteras, Huachinera, Imuris, Magdalena, Naco, Nogales, Santa Ana, Santa Cruz y Trincheras.
+III.- JURISDICCIÓN SANITARIA 03 SANTA ANA, comprende los Municipios de Agua Prieta, Arizpe, Bacerac, Bacoachi, Bavispe, Benjamín Hill, Cananea, Cucurpe, Fronteras, Huachinera, Ímuris, Magdalena, Naco, Nogales, Santa Ana, Santa Cruz y Trincheras.
 
 IV.- JURISDICCIÓN SANITARIA 04 CIUDAD OBREGÓN, comprende los Municipios de Bácum, Cajeme, Empalme, Guaymas, Quiriego, Rosario, San Ignacio Río Muerto y Yécora.
 
 V.- JURISDICCIÓN SANITARIA 05 NAVOJOA, comprende los Municipios de Álamos, Benito Juárez, Etchojoa, Huatabampo y Navojoa.
+
+> <small>(ADICIONADO, B.O. 8 DE ENERO DE 2016)</small>
+
+ARTÍCULO 47 BIS A.- La Administración del Patrimonio de la Beneficencia Pública será coordinada y operada por la Dirección General de Asistencia Social de la Secretaría de Salud Pública y tendrá por objeto apoyar los programas asistenciales y los servicios de salud estatales, normar, operar y supervisar el Sistema Estatal de Cuotas de Recuperación, así como prestar los servicios que le son propios a la población, de manera individualizada, con énfasis en los programas y acciones que desarrollen los Servicios.
+
+> <small>(ADICIONADO, B.O. 8 DE ENERO DE 2016)</small>
+
+ARTÍCULO 47 BIS B.- Los Hospitales Generales estarán adscritos a la Dirección General de Hospitales y tendrán por objeto ofrecer servicios de diagnóstico y tratamiento de especialidades básicas.
+
+> <small>(ADICIONADO, B.O. 8 DE ENERO DE 2016)</small>
+
+ARTÍCULO 47 BIS C.- Los Hospitales Comunitarios estarán adscritos a la Dirección General de Hospitales y tendrán por objeto brindar servicios de capacidad resolutiva básica en urgencias, cirugía, gineco-obstetricia, pediatría y medicina interna.
+
+> <small>(ADICIONADO, B.O. 8 DE ENERO DE 2016)</small>
+
+ARTÍCULO 47 BIS D.- El Hospital Integral de Puerto Peñasco estará adscrito a la Dirección General de Hospitales y tendrá por objeto brindar servicios de consulta externa, urgencias, cirugía y especialidades básicas.
+
+> <small>(ADICIONADO, B.O. 8 DE ENERO DE 2016)</small>
+
+ARTÍCULO 47 BIS E.- El Hospital Psiquiátrico Cruz del Norte estará adscrito a la Dirección General de Salud Mental y Adicciones y tendrá por objeto prestar servicios de atención integral médico-psiquiátrica especializada, así como formar y capacitar a recursos humanos y desarrollar investigaciones científicas en esta materia.
+
+> <small>(ADICIONADO, B.O. 8 DE ENERO DE 2016)</small>
+
+ARTÍCULO 47 BIS F.- El Centro de Higiene Mental Dr. Carlos Nava Muñoz, Centros Integrales de Salud Mental, Unidad de Atención Integral a las Adicciones, Centro de Atención Primaria de Adicciones y Unidades de Desintoxicación, estarán adscritos a la Dirección General de Salud Mental y Adicciones y prestarán los servicios especializados de atención, tratamiento y rehabilitación a las Adicciones.
+
+> <small>(ADICIONADO, B.O. 8 DE ENERO DE 2016)</small>
+
+ARTÍCULO 47 BIS G.- El Centro Infantil para el Desarrollo Neuroconductual estará adscrito a la Dirección General de Salud Mental y Adicciones y tendrá por objeto brindar asistencia integral de tratamiento médico neurológico con soporte psicosocial desde recién nacidos y hasta los doce años, contando además con atención hacia la familia y la comunidad.
 
 ### CAPÍTULO IX. DEL CONTROL Y VIGILANCIA
 
@@ -917,13 +1225,17 @@ El titular del Órgano de Control y Desarrollo Administrativo y el Comisario Pú
 
 ### CAPÍTULO X. DE LA SUPLENCIA DE FUNCIONARIOS
 
+> <small>(REFORMADO, B.O. 8 DE ENERO DE 2016)</small>
+
 ###### ARTÍCULO 53.
 
-Durante las ausencias temporales del Presidente Ejecutivo, el despacho y resolución de los asuntos urgentes de los Servicios, estarán a cargo de los titulares de las unidades administrativas, en el ámbito de sus competencias.
+Durante las ausencias temporales del Presidente Ejecutivo, el despacho y resolución de los asuntos urgentes de los Servicios, estarán a cargo de los titulares de las Coordinaciones Generales, Direcciones Generales y la Unidad de Asuntos Jurídicos, en el ámbito de sus competencias.
+
+> <small>(REFORMADO, B.O. 8 DE ENERO DE 2016)</small>
 
 ###### ARTÍCULO 54.
 
-En las ausencias de uno o varios titulares de las unidades administrativas, éstos serán suplidos por los funcionarios que designe el Presidente Ejecutivo, a propuesta del titular de la unidad administrativa que se ausente.
+En las ausencias de uno o varios titulares de las unidades administrativas, éstos serán suplidos por los funcionarios que designe el Presidente Ejecutivo, Coordinadores Generales, Directores Generales y la Unidad de Asuntos Jurídicos, a propuesta del titular de la unidad administrativa que se ausente.
 
 T R A N S I T O R I O S
 
@@ -1003,7 +1315,7 @@ Estado de Sonora Salud Pública S.N.T.S.A.
 
 #### Sección 43
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.]</small>
 
 B.O. 4 DE JULIO DE 2011.
 
@@ -1026,3 +1338,15 @@ El presente Acuerdo entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Los manuales de Organización, de Procedimientos y de Servicios al Público de los Servicios de Salud de Sonora, deberán actualizarse de conformidad con las disposiciones del presente Acuerdo, dentro de los sesenta días posteriores a la publicación del mismo en el Boletín Oficial del Gobierno del Estado.
+
+B.O. 8 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO QUE REFORMA, DEROGA Y ADICIONA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LOS SERVICIOS DE SALUD DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Los manuales de organización, de procedimientos y de servicios al público de los Servicios de Salud de Sonora, deberán actualizarse de conformidad con las disposiciones del presente Acuerdo, dentro de los sesenta días posteriores a la publicación del mismo en el Boletín Oficial del Gobierno del Estado.
