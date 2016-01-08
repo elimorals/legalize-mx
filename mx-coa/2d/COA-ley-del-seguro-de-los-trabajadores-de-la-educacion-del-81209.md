@@ -4,7 +4,7 @@ identifier: "COA-ley-del-seguro-de-los-trabajadores-de-la-educacion-del-81209"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-06"
-last_updated: "2011-05-06"
+last_updated: "2016-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81209&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # LEY DEL SEGURO DE LOS TRABAJADORES DE LA EDUCACION DEL ESTADO DE COAHUILA
 
-LEY DEL SEGURO DE LOS TRABAJADORES DE LA EDUCACION DEL ESTADO DE COAHUILA
+LEY DEL SEGURO DE LOS TRABAJADORES DE LA EDUCACIÓN DEL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 6 de mayo de 2011.
 
@@ -33,7 +33,7 @@ QUE EL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGO
 
 DECRETA:
 
-NÚMERO 498.-.
+NÚMERO 498.-
 
 ###### ARTÍCULO QUINTO.
 
@@ -45,93 +45,161 @@ LEY DEL SEGURO DE LOS TRABAJADORES DE LA EDUCACION.
 
 GENERALIDADES.
 
-###### ARTICULO 1°.
+###### ARTÍCULO 1.
 
 El Seguro de los Trabajadores de la Educación es una Institución creada por el Gobierno del Estado, con personalidad jurídica y patrimonio propio que tiene por objeto asegurar en forma decorosa el bienestar de los familiares de los trabajadores de la Educación en casos de fallecimiento o en caso de inhabilitación absoluta en el servicio antes de que el titular de la Póliza de Seguro, cumpla quince años de servicio.
 
-###### ARTICULO 2°.
+###### ARTÍCULO 2.
 
 La presente Ley se aplicará a los trabajadores de la Educación Pública que formen parte del magisterio y sus servicios conexos en los ramos administrativos y manuales, dependientes de:
 
-I.- Gobierno del Estado.
+I. Gobierno del Estado.
 
-II.- Universidad de Coahuila.
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2016)</small>
 
-III.- Los Municipios de la Entidad.
+II. Universidad Autónoma de Coahuila;
 
-IV.- La Organización Estatal Sindical de los Trabajadores de la Educación Pública.
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2016)</small>
 
-V.- Las instituciones de Seguridad Social creadas para servicio de los trabajadores de la Educación Pública; y
+III. La Organización Estatal del Sindicato de Trabajadores de la Educación de la Sección 38;
 
-VI.- Los familiares de los trabajadores, beneficiarios de las Pólizas de Seguro que se establecen en el presente Ordenamiento.
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2016)</small>
 
-###### ARTICULO 3°.
+IV. Las instituciones de Seguridad Social creadas y las que se creasen, para servicio de los trabajadores de la Educación Pública, perteneciente al Sindicato de Trabajadores de la Educación de la Sección 38.
+
+V. Las instituciones de Seguridad Social creadas para servicio de los trabajadores de la Educación Pública; y
+
+VI. Los familiares de los trabajadores, beneficiarios de las Pólizas de Seguro que se establecen en el presente Ordenamiento.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+
+###### ARTÍCULO 3.
 
 Para los efectos de esta Ley, se entiende:
 
-I.- Por trabajador, a toda persona que habiendo cumplido 18 años de edad, preste sus servicios en el ramo de la Educación Pública a las Entidades y Organismos Sociales mencionados en el artículo anterior, mediante designación legal, siempre que sus cargos y sueldos estén consignados en las nóminas respectivas y se prevea la asignación correspondiente para constituir el patrimonio del Seguro del Maestro.
+I.- Por trabajador, a toda persona que por efectos de nombramiento, relación o contrato de trabajo preste sus servicios laborales a alguno de los organismos o entidades mencionados y se encuentren al corriente el pago de sus aportaciones.
 
 No se consideran como trabajadores, a las personas que presten sus servicios a las Entidades y Organismos de referencia mediante contrato sujeto a la legislación común; a los que por cualquier motivo perciban sus emolumentos exclusivamente con cargo a partida de honorarios, gastos generales o similares; o a los que presten servicios eventuales.
 
-###### ARTICULO 4°.
+II.- Por derecho habientes, a los trabajadores titulares del derecho a percibir las prestaciones que esta Ley establece y a quienes el Seguro de los Trabajadores de la Educación les reconozca tal carácter;
 
-Todos los trabajadores al servicio de la Educación, dependientes de las Instituciones y Organismos citados en el Artículo 1°., por el solo hecho de recibir el nombramiento correspondiente, se considerarán titulares de la Institución y tendrán derecho a gozar de los beneficios que esta Ley establece.
+III.- Por beneficiarios, a las personas que el Seguro de los Trabajadores de la Educación les reconozca tal carácter en los términos de esté ordenamiento, en virtud de haber sido designado por el interesado ante dicho organismo para tal efecto, o a quienes está Ley les concede tal carácter;
 
-###### ARTICULO 5°.
+IV.- Por institución, al Seguro de los Trabajadores de la Educación;
 
-Para los efectos anteriores, el Seguro de los Trabajadores de la Educación concederá a sus miembros una Póliza por el valor que más adelante se señalará, que se hará efectiva en caso de muerte o de invalidación absoluta, de acuerdo con el Artículo anterior.
+V.- Por consejo, al Consejo de Administración del Seguro de los Trabajadores de la Educación;
 
-###### ARTICULO 6°.
+VI.- Por instituciones de seguridad social, a Todas las pertenecientes al Sindicato de Trabajadores de la Educación Sección 38;
 
-Se considerarán como acreedores de la Póliza correspondiente, los trabajadores que se inutilizaren en el servicio, de conformidad con lo dispuesto por el Artículo 1°. de esta Ley, y en caso de muerte, las personas que dichos trabajadores hayan señalado como beneficiarios. Si el trabajador no designó beneficiario, se procederá con apego a lo que señala el Código Civil del Estado.
+VII.- Por seguro de los trabajadores, a la Póliza que se hace efectiva en un 50% al momento de la jubilación o pensión del trabajador y el otro 50% a sus beneficiarios al momento de su fallecimiento;
 
-###### ARTICULO 7°.
+VIII.- Por fondo de retiro, a la Póliza que se cubre al 100% directamente al trabajador o, en el caso de que el trabajador fallezca estando en servicio activo, a los beneficiarios.
 
-Cada trabajador dentro del mes siguiente a la iniciación del año lectivo, entregará al Consejo de Administración, Carta Testamentaria en que señale el o los beneficiarios de sus Pólizas, en la inteligencia de que podrá cambiar su disposición cuando lo estime pertinente. Estas disposiciones testamentarias se ajustarán a lo estipulado en el Código vigente.
+IX.- Por fondo de defunción, a la Póliza que hacen efectiva los beneficiarios por causa de muerte natural o accidental del derecho-habiente.
 
-###### ARTICULO 8°.
+X.- Por Apoyo Solidario, al beneficio igualitario a derechohabientes y beneficiarios.
 
-Para el pago de una Póliza, será bastante la presentación del Acta de Defunción, la hoja de servicios que haga constar el número de años de antigüedad del trabajador al servicio de las Entidades u Organismos previstos en esta Ley y el recibo correspondiente.
+XI.- Por SNTE, al Sindicato Nacional de Trabajadores de la Educación
+
+XII- Por Comité Ejecutivo, al cuerpo colegiado que por un periodo determinado ejerce la dirigencia del Gremio Magisterial afiliado al SNTE.
+
+XIII.- Por Secretario General, a la máxima autoridad del Comité Ejecutivo que ejerce la dirigencia del Gremio Magisterial afiliado al SNTE.
+
+XIV.- Por consejo de administración, a los cuatro integrantes del cuerpo directivo del Organismo, que son Director, Subdirector Técnico, Subdirector de Finanzas y Vocal Ejecutivo.
+
+XV.- Por comisarios, a los representantes nombrados por el Ejecutivo Estatal, que asisten para atestiguar las sesiones del Consejo de Administración.
+
+XVI.- Por comité de control interno, a la unidad administrativa dentro del Organismo, encargada de vigilar y sancionar el cumplimiento a la Norma General de Control Interno.
+
+XVII.- Por pensionado, a la persona que habiendo cumplido los requisitos que establece la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores de la Educación Pública del Estado de Coahuila, deja el servicio activo.
+
+XVIII.- Por fondo de garantía, al fondo que se constituye con el porcentaje que esta Ley establece y que garantiza el pago de los saldos insolutos que dejara, por concepto de crédito en curso, un trabajador por fallecimiento.
+
+XIX.- Por aportación, a la obligación económica que los empleadores definidos en esta Ley, deben de entregar al Organismo por cada uno de sus empleados en proporción a los sueldos que perciben.
+
+XX.- Por retención, a la deducción que por efectos de esta ley o que por mandato judicial se haga de los salarios de los trabajadores, o percepciones de los pensionados o jubilados según corresponda, para cumplir obligaciones o compromisos contraídos previamente y que se aplican directamente a la nómina de pago. Con independencia de lo anterior podrán realizarse retenciones adicionales convenidas voluntariamente con el trabajador, pensionados y jubilados, según corresponda.
+
+XXI.- Por cédula testamentaria, al documento en el cual el Derechohabiente designa a sus beneficiarios, de las prestaciones que establece la presente Ley.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+
+###### ARTÍCULO 4.
+
+Todos los trabajadores al servicio de la educación, dependientes de las Instituciones y Organismos citados en el Artículo 2°, por el solo hecho de recibir el nombramiento correspondiente, se considerarán titulares de la póliza y tendrán derecho a gozar de los beneficios que esta Ley establece.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+
+###### ARTÍCULO 5.
+
+Para los efectos anteriores, el Seguro de los Trabajadores de la Educación concederá a sus miembros una Póliza del Seguro de los Trabajadores, una de Fondo de Retiro y una de Fondo de Defunción, que se harán efectivas en caso de muerte, de invalidez o de incapacidad total y permanente, según corresponda.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+
+###### ARTÍCULO 6.
+
+Se considerarán como acreedores de la Póliza correspondiente, los trabajadores que se jubilen o pensionen, de conformidad con lo dispuesto por los artículos 1 y 2 de esta Ley, y en caso de muerte, las personas que dichos trabajadores hayan señalado como beneficiarios. Si el trabajador no designó beneficiario alguno, se procederá con apego a lo que señala el Código Civil del Estado.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+
+###### ARTÍCULO 7.
+
+Cada trabajador inmediatamente que cause efectos legales su ingreso a cualquiera de las entidades u organismos establecidos en esta Ley, entregará al Consejo de Administración una cédula testamentaria en la que señale el o los beneficiarios de sus Pólizas, en la inteligencia de que podrá cambiar su disposición cuando lo estime pertinente. Estas disposiciones testamentarias se ajustarán a lo estipulado en el Código Civil para el Estado de Coahuila de Zaragoza y en la Ley para la Familia de Coahuila de Zaragoza.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+
+###### ARTÍCULO 8.
+
+No gozarán de los beneficios a que hace referencia esta Ley, ni tendrán derecho a reclamar sus aportaciones los trabajadores que se separen definitivamente del servicio, por causas distintas a la pensión o jubilación.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ENERO DE 2016)</small>
 
 ### CAPITULO SEGUNDO.
 
-DEL PATRIMONIO DEL SEGURO DE LOS TRABAJADORES DE LA EDUCACION.
+DEL PATRIMONIO DEL SEGURO DE LOS TRABAJADORES DE LA EDUCACIÓN.
 
-###### ARTICULO 9°.
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2016)</small>
 
-Los fondos que se recaben para el Seguro de los trabajadores de la Educación son propiedad exclusiva de los trabajadores asegurados sin que estos adquieran derecho alguno ni individual ni colectivo sobre él, sino tan sólo el de gozar de los beneficios que esta Ley concede.
+#### SECCIÓN PRIMERA. DISPOSICIONES GENERALES
 
-###### ARTICULO 10°.
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
 
-Los beneficios de esta Ley se extenderán:
-
-I.- A los maestros que presten sus servicios en las escuelas primarias, secundarias y preparatorias de carácter particular incorporadas al sistema educativo del Estado siempre que sean aceptados por el Consejo de Administración y paguen sus cuotas.
-
-###### ARTICULO 11°.
-
-No gozarán de los beneficios de esta Ley, los maestros que se separen definitivamente del servicio, salvo el caso de que sean jubilados.
-
-###### ARTICULO 12°.
+###### ARTÍCULO 9.
 
 El patrimonio del Seguro de los Trabajadores de la Educación, se constituirá por:
 
-I.- La asignación que como sueldo adicional señalen en su caso, para cada trabajador, la Ley de Hacienda del Estado y los Planes de Arbitrios de los Municipios y que sean suficientes para cubrir la prima del Seguro, haciéndose el gasto que resulte con cargo al fondo de instrucción.
+I. Las aportaciones:
 
-II.- Con las asignaciones que por el concepto igual al señalado en el inciso anterior, prevea en su presupuesto la Universidad de Coahuila.
+a) Póliza del seguro de los Trabajadores de la Educación, con la aportación patronal del 1% del sueldo base del trabajador;
 
-III.- Con las asignaciones que por el concepto señalado en el inciso I (sic) de este artículo, cubran la organización estatal sindical de los trabajadores de la educación pública y las instituciones de seguridad social al servicio de esta última agrupación.
+b) Póliza de retiro, con la aportación patronal del 0.5% del sueldo base del trabajador;
 
-IV.- Por las cuotas que cubran las escuelas particulares para el fin indicado.
+c) Póliza de defunción, con la aportación patronal de 0.5% del sueldo base del trabajador;
 
-V.- Por los intereses que produzca el fondo que se forme con las asignaciones ya señaladas, por préstamos a los propios beneficiarios del Seguro o por compra de bonos del Ahorro Nacional o valores del Estado en la forma y términos que más adelante señala esta propia Ley.
+II. Las retenciones:
 
-VI.- Por herencias, donaciones, legados o cualquier otro concepto lícito.
+a) Póliza del seguro, con la retención al trabajador, del 0.5% de su sueldo base y con la retención del 0.5% de la percepción que reciba el pensionado o jubilado
 
-Las asignaciones previstas en las fracciones II, III y IV de este artículo, serán iguales en su monto, a las que prevea la Ley de Hacienda del Estado.
+b) Póliza de retiro, con la retención al trabajador del 1% de su sueldo base;
 
-###### ARTICULO 13°.
+c) Centros Recreativos, con la contribución de los trabajadores retenida de su salario quincenal con forme al acuerdo de la representación Sindical con sus agremiados.
 
-El patrimonio previsto en el artículo 12, se utilizará para cumplir con las obligaciones y prestaciones previstas es esta Ley. Este podrá además, utilizarse para apoyar a las instituciones de seguridad social de los trabajadores de la educación al servicio del Estado, siempre y cuando:
+III. Las asignaciones que por el concepto señalado en el inciso I de este artículo, cubran los Trabajadores de la Educación establecidos en el artículo 2 de esta Ley;
+
+IV. Los intereses derivados de los créditos que el Organismo otorgue a razón del 9% de interés anual calculado sobre el monto total del crédito aplicado a cada año del plazo, más el 3% calculado sobre el monto total del crédito independientemente del plazo para integrar el fondo de garantía.
+
+V. Los bienes muebles e inmuebles que se adquieran por cualquier título;
+
+VI. Los demás bienes o ingresos que adquieran por cualquier título;
+
+VII. Las herencias, donaciones, legados o cualquier otro concepto lícito.
+
+Los fondos que se recaben para el Seguro de los Trabajadores de la Educación son propiedad exclusiva de los trabajadores asegurados sin que éstos adquieran derecho alguno ni individual ni colectivo sobre dichos fondos, sino tan sólo el de gozar de los beneficios que esta Ley concede.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+
+###### ARTÍCULO 10.
+
+El patrimonio previsto en el artículo 9, se utilizará para cumplir con las obligaciones y prestaciones previstas en esta Ley. Éste podrá además utilizarse para apoyar solidariamente a las instituciones de seguridad social de los trabajadores de la educación al servicio del Estado, siempre y cuando:
 
 I.- La institución prevista en esta Ley garantice el cumplimiento de sus obligaciones;
 
@@ -139,203 +207,445 @@ II.- Exista una necesidad de cumplir con el objeto de la o las instituciones de 
 
 III.- Lo proponga el Comité Ejecutivo de la Sección 38 del Sindicato Nacional de Trabajadores de la Educación; y
 
-IV.- Se lleve a cabo bajo la estricta supervisión y vigilancia de la Secretaría de la Función Pública del Gobierno del Estado, siguiendo el procedimiento que ésta disponga, para tal efecto.
+IV.- Se lleve a cabo de conformidad con los acuerdos y convenios que se tengan con el Comité Ejecutivo Seccional bajo la estricta supervisión de sus propios órganos de vigilancia.
 
-###### ARTICULO 14°.
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
 
-Los fondos que por concepto de primas, intereses, entre otros que se recojan, serán depositados en una Institución Bancaria, encargándose de vigilar su debida inversión y bajo su más estricta responsabilidad, un Consejo de Administración que se integrará de acuerdo con lo preceptuado por esta Ley.
+###### ARTÍCULO 11.
 
-###### ARTICULO 15°.
+Los fondos que, por concepto de primas, intereses, entre otros que se recojan, serán depositados en una Institución Bancaria, encargándose de vigilar su debida inversión y bajo su más estricta responsabilidad, un Consejo de Administración que se integrará de acuerdo con lo preceptuado por esta Ley.
 
-Las primas mensuales correspondientes a los trabajadores de la Educación serán pagadas al Consejo de Administración del Seguro por las Tesorerías u oficinas pagadoras de las entidades y organismos señalados en el Artículo 2, debiendo efectuar sus pagos el día 1° de cada mes.
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
 
-La Secretaría de Finanzas del Gobierno del Estado y los municipios cubrirán con toda oportunidad al Seguro de los Trabajadores las aportaciones que les corresponda.
+###### ARTÍCULO 12.
 
-###### ARTICULO 16°.
+Las aportaciones y retenciones señaladas en las fracciones I y II del Artículo 9 de la presente Ley, serán pagadas al Consejo de Administración del Seguro de los Trabajadores de la Educación por las Tesorerías u oficinas pagadoras de las entidades y organismos señalados en el Artículo 2, debiendo efectuar sus pagos de forma quincenal.
 
-Las Instituciones y Organismos señalados en el Artículo 1°. de esta Ley, deberán remitir al Consejo de Administración del Seguro de los Trabajadores de la Educación, dentro del mes siguiente a la iniciación de cada año lectivo una relación del personal sujeto a las asignaciones obligatorias que esta Ley establece.
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
 
-Asimismo pondrán en conocimiento del citado Consejo de Administración, dentro de los quince días siguientes a su fecha las altas y bajas de los trabajadores.
+###### ARTÍCULO 13.
 
-###### ARTICULO 17°.
+Las Instituciones y Organismos señalados en el Artículo 2° de esta Ley, deberán remitir al Consejo de Administración del Seguro de los Trabajadores de la Educación, permanentemente una relación del personal sujeto a las asignaciones obligatorias que esta Ley establece. Asimismo, pondrán en conocimiento del citado Consejo de Administración, dentro de los quince días siguientes a su fecha las altas y bajas de los trabajadores.
 
-Se crean nueve tipos de pólizas para los trabajadores de la Educación que están prestando sus servicios en las Entidades u Organismos a que se refiere el artículo 1°. de esta Ley, desde un día hasta más de treinta y cinco años, de conformidad con la siguiente tabla:
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
 
-1°.- De un día, a un año………………………………………$ 2,000.00
+###### ARTICULO 14.
 
-2°.- De un año un día, a dos años……………………….…..$ 5,000.00
+El Consejo de Administración del Seguro de los Trabajadores de la Educación destinará su patrimonio al fin social para el que fue creado y tendrá la obligación de conservar a la vista en una Institución Bancaria de la Capital del Estado el 10% de su patrimonio, el que servirá como fondo de reserva para el pago de los riesgos en curso, lo anterior solo en la inteligencia de que la institución cuente con la solvencia y liquidez para tales fines.
 
-3°.- De dos años un día, a diez años…………………..…...$10,000.00
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
 
-4°.- De diez años un día, a quince años….…………..…….$14,000.00
+###### ARTÍCULO 15.
 
-5°.- De quince años un día, a veinte años……….……..….$17,000.00
+El Consejo de Administración para efecto de operatividad y cumplimiento de las obligaciones de la Institución, podrá aplicar los recursos necesarios en:
 
-6°.- De veinte años un día, a veinticinco años………...…..$19,000.00
+a) El gasto de nómina de trabajadores contratados directamente por el Seguro de los Trabajadores de la Educación y el personal propuesto o nombrado por el Comité Ejecutivo Seccional;
 
-7°.- De veinticinco años un día, a treinta años……….…....$22,000.00
+b) Apoyos solidarios de cualquier tipo y/o carácter convenidos con las Instituciones de Seguridad Social y el Comité Ejecutivo de la Sección 38 del SNTE;
 
-8°.- De treinta años un día, a treinta y cinco años…………$28,000.00
+c) Ahorro para gastos extraordinarios; y
 
-9°.- De más de treinta y cinco años……………….……..…$32,000.00
+d) Para cualquier necesidad de carácter urgente.
 
-###### ARTICULO 18°.
+Estos recursos podrán administrarse y contabilizarse enunciativamente y no limitativamente en los siguientes capítulos:
 
-Estas pólizas no invalidan a los familiares de los trabajadores para percibir cualquier otra ayuda que por concepto de pensiones les otorgue la Dirección de Pensiones de los Trabajadores de la Educación Pública.
+1) Pago de pólizas
 
-###### ARTICULO 19°.
+2) Servicios personales;
 
-Si el patrimonio del Seguro de los Trabajadores de la Educación se incrementara por asignaciones superiores a las previstas actualmente por esta Ley, el Consejo de Administración podrá reglamentar beneficios para trabajadores jubilados, conforme a las siguientes bases:
+3) Materiales y suministros;
 
-1a.- No afectar los ingresos actuales, los que quedarán en reserva para el pago de los riesgos en curso.
+4) Servicios generales;
 
-2a.- El incremento que llegara a obtenerse sobre las asignaciones actuales señaladas en el artículo 12 de esta Ley, podrá destinarlos el Consejo de Administración al pago del 50% de las Pólizas a que tuvieren derecho los trabajadores jubilados.
+5) Otorgamiento de Préstamos.
 
-Para el caso, estas asignaciones se acumularán por anualidades y el Consejo de Administración señalará a los asegurados jubilados sus posibilidades para otorgar este beneficio, teniendo orden preferente las peticiones de quienes tuvieren mayor antigüedad en sus jubilaciones.
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
 
-###### ARTICULO 20°.
+###### ARTÍCULO 16.
 
-Cuando las condiciones lo permitan podrá aumentarse el valor de la Póliza, si así lo acuerdan las dos terceras partes de los representantes de los trabajadores de la Educación, en las Sesiones que verifiquen al reunirse en la Capital del Estado.
+El Consejo de Administración está facultado para invertir el resto de los recursos en las siguientes operaciones de mutuo:
 
-###### ARTICULO 21°.
+I.- Un 50% de recursos en el otorgamiento de préstamos:
 
-La Administración del Seguro de los Trabajadores de la Educación, estará a cargo de cuatro miembros, electos por mayoría de votos del Comité Ejecutivo de la Sección 38 del S.N.T.E. a propuesta de su Secretario General, los cuales integrarán el Consejo de Administración, con los cargos de Director, Subdirector Técnico, Subdirector de Finanzas y Vocal Ejecutivo.
+a).- Préstamos a corto plazo con fondo de garantía.
 
-Los miembros del Consejo de Administración durarán en su cargo dos años.
+b).- Préstamos a largo plazo, con fondo de garantía.
 
-###### ARTICULO 22°.
+c).- Préstamos Institucionales, en condiciones preferenciales.
 
-La vigilancia del Seguro de los Trabajadores de la Educación, estará a cargo de tres comisarios, que lo serán un representante del titular de la Secretaría de Educación y Cultura en el Estado, un representante que designe el Ejecutivo del Estado y otro que nombre la Universidad de Coahuila.
+d).- Préstamos extraordinarios para damnificados por desastres naturales y siniestros
 
-###### ARTICULO 23°.
+II.- Un 10% del fondo del patrimonio se podrá invertir en bonos o títulos emitidos por el Gobierno Federal o por Instituciones Nacionales de Crédito.
 
-Para la designación de los Consejeros del Seguro de los Trabajadores de la Educación, se reunirán los integrantes del Comité Ejecutivo de la Sección 38 del Sindicato Nacional de Trabajadores de la Educación, quienes en Asamblea General, a propuesta de su Secretario General y por mayoría de votos, los nombrarán
+III.- Un 30% del citado patrimonio se podrá invertir en bienes inmuebles incluyendo su administración, conservación, mejoras y cumplimiento de obligaciones legales.
 
-La Asamblea General de referencia se reunirá cada dos años previa convocatoria del Consejo y en la fecha que ésta señale.
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2016)</small>
 
-Los Consejeros en ejercicio continuarán en su encargo hasta que se designe quienes deban substituirlos.
+#### SECCIÓN SEGUNDA
 
-###### ARTICULO 24°.
+GENERALIDADES DE LOS PRÉSTAMOS.
 
-Las personas que resulten electas para integrar el Consejo de Administración deberán residir en la Capital del Estado o en lugares cercanos a la misma.
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
 
-###### ARTICULO 25°.
+###### ARTÍCULO 17.
 
-Los integrantes del Comité Ejecutivo de la Sección 38 del Sindicato Nacional de Trabajadores de la Educación se reunirán en Asamblea General Extraordinaria, cuando por causa grave, renuncia o defunción, sea necesaria la sustitución de un Consejero, a propuesta de su Secretario General y por mayoría de votos lo nombrarán.
+El fondo de préstamos estará constituido por el importe que al principio del ejercicio fiscal defina el Consejo de Administración en proporción a sus ingresos proyectados más los rendimientos que generen dichos préstamos. En todo momento los ingresos generados por los préstamos otorgados serán integrados al presupuesto del Instituto.
 
-###### ARTICULO 26°.
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+
+###### ARTÍCULO 18.
+
+Los préstamos que se otorguen en favor de los trabajadores de los Organismos contemplados en los incisos I, III, y IV del artículo 2 de esta Ley, serán:
+
+I.- Préstamos a corto plazo
+
+II.- Préstamos a largo plazo
+
+III.- Préstamos Institucionales
+
+IV.- Préstamos extraordinarios para damnificados por desastres naturales y siniestros.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+
+###### ARTÍCULO 19.
+
+Los Préstamos a corto plazo se otorgarán a los trabajadores y pensionados de acuerdo con el programa anual que autorice el Consejo de Administración con base en el presupuesto del propio fondo y no excederá el importe de doce meses de sueldo base de acuerdo con la antigüedad de quien lo solicite, y la liquidación del préstamo otorgado no excederá sesenta quincenas conforme al reglamento que se expida para tal fin.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+
+###### ARTÍCULO 20.
+
+Los Préstamos a largo plazo se otorgarán a los trabajadores y pensionados de acuerdo con el programa anual que autorice el Consejo de Administración con base en el presupuesto del propio fondo y su importe estará sujeto a la capacidad de pago del solicitante condicionada además por la edad civil en relación a la expectativa de vida.
+
+Las condiciones y requisitos para el otorgamiento de los préstamos se establecerán en el reglamento que se expida para tal fin.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+
+###### ARTÍCULO 21.
+
+Los Préstamos Institucionales se otorgarán a los Organismos definidos en el Artículo 2 de la presente Ley, con base en el presupuesto del propio fondo y con condiciones preferenciales en el interés. El otorgamiento del préstamo estará sujeto a la capacidad de pago del organismo solicitante y su plazo condicionado al término ordinario de la gestión del Comité Ejecutivo en funciones. Los términos y condiciones serán negociados y establecidos en el contrato y la documentación legal que ampare la transacción.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+
+###### ARTÍCULO 22.
+
+Los préstamos para damnificados por desastres naturales y por afectaciones por siniestros, se otorgarán a los trabajadores y a los pensionados, con autorización del Consejo de Administración previa verificación del evento que dé origen a la solicitud. La tasa de interés que se aplique a estos préstamos será preferencial.
+
+Los términos y condiciones de este tipo de préstamos se establecerán en el reglamento que se expida para tal fin.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+
+###### ARTÍCULO 23.
+
+En los casos de los trabajadores que a la fecha de pensionarse presenten saldo insoluto en su crédito se descontarán de su pensión los subsecuentes pagos en favor del Organismo.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+
+###### ARTÍCULO 24.
+
+El otorgamiento de préstamos para los trabajadores del organismo contemplado en el inciso II del artículo 2 de la presente Ley, se llevará a cabo en un plazo no mayor a cinco meses equivalente a diez catorcenas, y requerirá de la firma de un aval.
+
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2016)</small>
+
+#### SECCIÓN TERCERA. DE LOS INTERESES
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+
+###### ARTÍCULO 25.
+
+Los intereses que se cobren por concepto de los préstamos que otorguen a los trabajadores de los Organismos contemplados en los incisos I, III, y IV del artículo 2 de esta Ley, serán del 9% anual calculado sobre el monto total del crédito aplicado a cada año del plazo, más el 3% calculado sobre el monto total del crédito independientemente del plazo para integrar el fondo de garantía.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+
+###### ARTÍCULO 26.
+
+El otorgamiento de préstamos para los trabajadores del organismo contemplado en el inciso II del artículo 2 de la presente Ley se llevará a cabo bajo el régimen de interés mensual sobre el total del capital del préstamo otorgado del 1% hasta el 6%, sin que pueda aplicarse la restructuración del mismo.
+
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ENERO DE 2016)</small>
+
+### CAPITULO TERCERO. DE LAS PÓLIZAS
+
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2016)</small>
+
+#### SECCIÓN PRIMERA
+
+DISPOSICIONES GENERALES.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+
+###### ARTÍCULO 27.
+
+Se crean tres tipos de pólizas para los trabajadores de la Educación que están prestando sus servicios en las Entidades u Organismos definidos en el inciso I, III, y IV del artículo 2 de esta Ley, a partir de un día de su ingreso y hasta el momento de su fallecimiento.
+
+I. Póliza del seguro de los trabajadores de la educación.
+
+II. Póliza de fondo de retiro.
+
+III. Póliza de fondo de defunción.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+
+###### ARTÍCULO 28.
+
+Los beneficios serán otorgados con el carácter de solidarios y no en función de las aportaciones hechas por el agremiado.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+
+###### ARTÍCULO 29.
+
+Estas pólizas no invalidan el derecho de los familiares y/o beneficiarios de los trabajadores para percibir cualquier otra ayuda por concepto de fallecimiento.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+
+###### ARTÍCULO 30.
+
+Cuando las condiciones financieras lo permitan podrá aumentarse el valor de las pólizas, si así lo aprueba el Consejo de Administración del Seguro de los Trabajadores de la Educación, previa propuesta por el Comité Ejecutivo de la Sección 38 a través del Secretario General.
+
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2016)</small>
+
+#### SECCIÓN SEGUNDA. DE LA PÓLIZA DEL SEGURO DE LOS TRABAJADORES DE LA EDUCACIÓN
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+
+###### ARTÍCULO 31.
+
+La póliza del Seguro de los Trabajadores de la Educación tendrá un valor de 4.6 salarios de un inspector de educación primaria de la zona económica II y se hará efectiva con un pago del 50% de su valor al momento de la jubilación o pensión y el restante 50% al momento de su fallecimiento en favor de los beneficiarios que haya designado el derechohabiente en su Cédula Testamentaria.
+
+Los requisitos para solicitar el pago de dicha póliza serán los que para tal efecto señale el Reglamento respectivo.
+
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2016)</small>
+
+#### SECCIÓN TERCERA. DE LA PÓLIZA DE FONDO DE RETIRO
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+
+###### ARTÍCULO 32.
+
+La póliza de Fondo de Retiro tiene un valor fijo de $40,000.00, cumpliéndose el pago al 100% directamente al trabajador al momento de su jubilación o pensión, o a sus beneficiarios en caso de fallecimiento.
+
+Los requisitos para solicitar el pago de dicha póliza serán los que para tal efecto señale el Reglamento respectivo.
+
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2016)</small>
+
+#### SECCIÓN CUARTA. DE LA PÓLIZA DE FONDO DE DEFUNCIÓN
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+
+###### ARTÍCULO 33.
+
+La póliza de Fondo de Defunción cubre el pago de $10,010.00 por muerte natural o $20,010.00 en caso de muerte accidental del trabajador.
+
+Los requisitos para solicitar el pago de dicha póliza serán los que para tal efecto señale el Reglamento respectivo.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+
+### CAPITULO CUARTO
+
+> <small>(ADICIONADA, P.O. 8 DE ENERO DE 2016)</small>
+
+#### SECCIÓN PRIMERA
+
+GENERALIDADES DE LA ADMINISTRACIÓN DEL SEGURO DE LOS TRABAJADORES DE LA EDUCACIÓN.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+
+###### ARTÍCULO 34.
+
+La Administración del Seguro de los Trabajadores de la Educación, estará a cargo de cuatro miembros con los cargos de Director, Subdirector Técnico, Subdirector de Finanzas y Vocal Ejecutivo quienes integrarán el Consejo de Administración. Durarán en su cargo cuatro años y podrán ser ratificados para un nuevo periodo o removidos antes de su término a propuesta del Secretario General. Serán electos por mayoría de votos del Comité Ejecutivo de la Sección 38 del Sindicato Nacional de Trabajadores de la Educación también a propuesta de su Secretario General.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+
+###### ARTÍCULO 35.
+
+En caso de remoción, los miembros del Consejo de Administración en funciones continuarán en el desempeño de su cargo hasta en tanto no sean designados los nuevos representantes y entren en posesión de sus respectivos cargos.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+
+###### ARTÍCULO 36.
+
+El Consejo de Administración celebrará sesiones ordinarias cada tres meses y extraordinarias cuando lo estime conveniente.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+
+###### ARTÍCULO 37.
+
+Para ser miembro del Consejo de Administración se requiere:
+
+I. Ser ciudadano mexicano por nacimiento;
+
+II. Ser miembro del Sindicato Nacional de Trabajadores de Educación Sección 38;
+
+III. No desempeñar cargo alguno de elección popular, aun en el caso de no estar en funciones; y
+
+IV. Ser de reconocida competencia y honorabilidad y no haber sido condenado por delito alguno en sentencia ejecutoriada.
+
+Las personas que resulten nombradas para integrar el Consejo de Administración deberán tener su domicilio en el Estado de Coahuila y residir en la capital del mismo ó en lugares cercanos a la misma.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+
+###### ARTÍCULO 38.
+
+Los miembros del Consejo de Administración recibirán una compensación de acuerdo con las posibilidades económicas del Seguro de los Trabajadores de la Educación y en acuerdo con el Secretario General de la Sección. Dicha compensación se otorgará de forma quincenal y será determinada por el propio Consejo de Administración en pleno.
+
+Asimismo el Consejo de Administración, en acuerdo con el Secretario General de la Sección 38 del SNTE, podrá autorizar compensaciones económicas al resto del personal cuando por necesidades del servicio así lo amerite.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+
+###### ARTÍCULO 39.
+
+El consejo de Administración del Seguro de los Trabajadores de la Educación, estará acompañado en sus funciones por dos comisarios, que serán un representante del titular de la Secretaría de Educación Pública del Estado y un representante que designe el Ejecutivo Estatal, mismos que asistirán con voz, pero sin voto a todas las sesiones del Consejo de Administración.
+
+> <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, P.O. 8 DE ENERO DE 2016)</small>
+
+#### SECCIÓN SEGUNDA. DE LAS FACULTADES DEL CONSEJO DE ADMINISTRACIÓN
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2016)</small>
+
+###### ARTÍCULO 40.
 
 El Consejo de Administración tendrá las siguientes facultades y obligaciones:
 
-a).- Representar a la Institución ante toda clase de Autoridades Federales, Estatales y Municipales, ya sean administrativas o judiciales, con todas las facultades generales y especiales y aun las que requieran cláusula especial conforme a la Ley y para administrar sus bienes y negocios.
+a) Representar a la Institución ante toda clase de Autoridades Federales, Estatales y Municipales, ya sean administrativas o judiciales, con todas las facultades generales y especiales y aun las que requieran cláusula especial conforme a la Ley y para administrar sus bienes.
 
-b).- Nombrar y remover a los empleados que considere necesarios para cumplir con el objeto de la Institución, señalándoles los sueldos y emolumentos correspondientes.
+b) Nombrar y remover a los empleados que considere necesarios para cumplir con el objeto de la Institución, señalándoles los sueldos y emolumentos correspondientes, en acuerdo con el Secretario General de la Sección 38 del SNTE.
 
-c).- Otorgar y suscribir títulos de Crédito a nombre del Seguro de los Trabajadores de la Educación.
+c) Otorgar y suscribir títulos de Crédito a nombre del Seguro de los Trabajadores de la Educación.
 
-d).- Ejecutar los acuerdos de las Asambleas Generales del Seguro de los Trabajadores de la Educación.
+d) Ejecutar los acuerdos de las Reuniones de Consejo del Seguro de los Trabajadores de la Educación.
 
-e).- Nombrar uno o más delegados de su seno para la ejecución de actos concretos.
+e) Nombrar uno o más delegados de su seno para la ejecución de actos concretos.
 
-f).- Llevar a cabo los actos y operaciones que sean necesarios a fin de que la Institución llene los objetivos para los que fue creada.
+f) Llevar a cabo los actos y operaciones que sean necesarios a fin de que la Institución cumpla los objetivos para los que fue creada.
 
-g).- Conferir y revocar poderes generales y especiales con las facultades que estime convenientes.
+g) Conferir y revocar poderes generales y especiales con las facultades que estime convenientes.
 
-h).- Convocar a la Asamblea General del Seguro de la Educación.
+h) Convocar a las Reuniones ordinarias y/o extraordinarias del Seguro de los Trabajadores de la Educación.
 
-i).- Rendir un informe sobre el estado general del Seguro de los Trabajadores de la Educación, cuantas veces sea requerido para ello, a los asegurados.
+i) Aprobar apoyos de carácter solidario al Comité Ejecutivo de la Sección 38 en los términos que establece el inciso b del artículo 15 de la presente Ley;
 
-### CAPITULO TERCERO.
+j) Suscribir acuerdos y convenios con el Comité Ejecutivo de la Sección 38 y las Instituciones de Seguridad Social.
 
-DE LAS POLIZAS.
+k) Rendir un informe sobre el estado general del Seguro de los Trabajadores de la Educación, cuantas veces sea requerido para ello por el Comité Ejecutivo de la Sección 38 del Sindicato Nacional de Trabajadores de la Educación cada año;
 
-###### ARTICULO 27°.
+l) Publicar la información que las Leyes aplicables en materia de trasparencia y rendición de cuentas le señale; y
 
-El Subdirector de Finanzas del Consejo de Administración del Seguro de los Trabajadores de la Educación, caucionará el manejo de los fondos puestos a su cuidado, en la inteligencia de que dicho funcionario no podrá hacer pago alguno sin la previa autorización del Consejo, y en casos urgentes y plenamente justificados, con la sola autorización del Director.
+m) Las demás que le señale esta Ley y su reglamento interno.
 
-###### ARTICULO 28°.
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2016)</small>
 
-El Consejo de Administración estará obligado a rendir un informe de las labores desarrolladas ante el Comité Ejecutivo de la Sección 38 del Sindicato Nacional de Trabajadores de la Educación cada año. Dicho informe deberá ser previamente sometido a aprobación de los Comisarios.
+###### ARTÍCULO 41.
 
-###### ARTICULO 29°.
+Son facultades y obligaciones del Director del Consejo de Administración:
 
-Los Comisarios tendrán las siguientes facultades y obligaciones:
+I. Representar al Seguro de los Trabajadores de la Educación y ejecutar los acuerdos del Consejo de Administración;
 
-a).- Cerciorarse de la constitución y subsistencia de la garantía que está obligado a otorgar el Tesorero del Consejo de Administración, reclamando sin demora cualesquiera irregularidad que exista, sobre este particular, el propio Consejo.
+II. Representar a la Institución ante Autoridades Federales, Estatales y Municipales, ya sean administrativas o judiciales, con todas las facultades generales y especiales y aún las que requieran cláusula especial conforme a la Ley y para administrar sus bienes, sin perjuicio de los poderes otorgados al efecto;
 
-b).- Exigir a los Administradores un balance de comprobación de todas las operaciones efectuadas, cuando lo considere pertinente.
+III. Administrar conjuntamente con el Subdirector de Finanzas los recursos de la Institución;
 
-c).- Inspeccionar los libros y papeles de la Institución, así como la existencia en Caja, cuando menos dos veces al año.
+IV. Designar al personal administrativo del Seguro previa propuesta del Comité Ejecutivo de la Sección 38 del SNTE, a través de su Secretario General;
 
-d).- Asistir con voz, pero sin voto, a todas las sesiones del Consejo de Administración a las cuales deberán ser citados.
+V. Informar al Consejo de Administración de las actividades generales y particulares del Consejo;
 
-e).- En general vigilar ilimitadamente y en cualquier tiempo las operaciones de la Institución.
+VI. Someter a la decisión del Consejo de Administración todas aquellas cuestiones que sean competencia del mismo;
 
-###### ARTICULO 30°.
+VII. Autorizar los acuerdos y despachar la correspondencia del Consejo de Administración;
 
-El Consejo de Administración del Seguro de los Trabajadores de la Educación destinará su patrimonio al fin social para el que fue creado y tendrá la obligación de conservar a la vista en una Institución Bancaria de la Capital del Estado, el 10% de su patrimonio el que servirá como fondo de reserva para el pago de los riesgos en curso, siendo por lo mismo este fondo intocable.
+VIII. Resolver bajo su inmediata y directa responsabilidad los asuntos urgentes de obvia resolución, que sean competencia del Consejo de Administración, a reserva de dar cuenta pormenorizada al mismo, a la brevedad posible;
 
-###### ARTICULO 31°.
+IX. Vigilar las labores del personal, exigiendo el debido cumplimiento;
 
-El resto de sus recursos el Consejo de Administración está facultado para invertirlos en la siguiente forma:
+X. Someter al Consejo de Administración las reformas que procedan a los reglamentos o disposiciones administrativas dictadas;
 
-I.- Un 50% de tales recursos en las siguientes operaciones de mutuo con interés:
+XI. Convocar a sesiones ordinarias o extraordinarias al Consejo de Administración.
 
-a).- Préstamos personales, a un plazo no mayor de diez meses.
+XII. Autorizar con su firma la contabilidad del Consejo de Administración; y
 
-b).- Préstamos a largo plazo, con garantía de inmuebles.
+XIII. Todas las demás que le establezca esta Ley, su reglamento Interno o acuerde el Consejo de Administración.
 
-II.- Un 25% del fondo del patrimonio se podrá invertir en bonos del Ahorro Nacional o en bonos o títulos emitidos por el Gobierno Federal o por Instituciones Nacionales de Crédito.
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2016)</small>
 
-III.- Un 15% del citado patrimonio se podrá invertir en bienes inmuebles bajo el concepto de que estas inversiones solamente se harán con el consentimiento previo de los Comisarios.
+###### ARTÍCULO 42.
 
-Los intereses que se cobren por concepto de los préstamos que otorgue el Consejo de Administración no podrán ser mayores a dos veces la TIIE (Tasa de Interés Interbancaria de Equilibrio).
+Son facultades y obligaciones del Subdirector Técnico del Consejo de Administración:
 
-###### ARTICULO 32°.
+I. Levantar y autorizar, junto con el Director del Consejo, las actas de las sesiones ordinarias y extraordinarias;
 
-Para normar las operaciones a que se refiere el artículo anterior se expedirá un Reglamento que fijará las bases a las cuales deberá sujetarse el Consejo para la celebración de tales operaciones.
+II. Despachar, en acuerdo con el director, la correspondencia de la Institución;
 
-###### ARTICULO 33°.
+III. Llevar a cabo la elaboración y resguardo de las Actas de Consejo;
 
-El Consejo de Administración llevará los siguientes libros:
+IV. Revisar y validar los expedientes de las diversas prestaciones de la Institución;
 
-a).- De actas de Asambleas Generales y de Consejo, los que estarán bajo el cuidado del Subdirector Técnico del mismo.
+V. Administrar los recursos humanos de la Institución;
 
-b).- De registro de miembros del Seguro de Trabajadores de la Educación que señale valor de la Póliza y de la Prima años de antigüedad y demás que sean necesarios.
+VI. Auxiliar al Director en el desempeño de sus funciones; y
 
-c).- De caja, de inventarios y balances y demás que señalará el Reglamento de esta Ley y que estarán a cargo del Subdirector de Finanzas.
+VII. Las demás que señale el director, esta ley, su reglamento interior y los acuerdos del Consejo de Administración.
 
-### CAPITULO CUARTO.
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2016)</small>
 
-DE LA ADMINISTRACION DEL SEGURO DE LOS TRABAJADORES DE LA EDUCACION.
+###### ARTÍCULO 43.
 
-###### ARTICULO 34°.
+Son facultades y obligaciones del Subdirector de Finanzas del Consejo de Administración:
 
-El Consejo de Administración enviará oportunamente a las Tesorerías u Oficinas pagadoras los recibos correspondientes a las asignaciones que formen el patrimonio del Seguro de los Trabajadores de la Educación.
+I. Suscribir, firmar, endosar, avalar, girar cheques, pagares o cualquier otro título de crédito para los fines que establece esta Ley, en forma mancomunada con el Director, y en cumplimiento con los acuerdos del Consejo de Administración.
 
-###### ARTICULO 35°.
+II. Llevar y autorizar con su firma y la del Director la contabilidad del Seguro de los Trabajadores;
 
-El Consejo de Administración celebrará sesiones ordinarias cada semana y extraordinarias cuando lo estime conveniente y cuando así lo solicite alguno de los Consejeros.
+III. Exigir, en el ámbito de su competencia, el pago oportuno de las aportaciones y de las retenciones que, conforme esta Ley, deba percibir el Seguro de los Trabajadores de la Educación;
 
-###### ARTICULO 36°.
+IV. Llevar a cabo el resguardo de inventarios del Seguro de los Trabajadores;
 
-El Consejo de Administración cubrirá su presupuesto con las cantidades que resultaren de la aplicación del 15% de lo recaudado cada mes.
+V. Enviar oportunamente a los organismos establecidos en el artículo 2 de la presente Ley los recibos correspondientes a las asignaciones que formen el patrimonio del Seguro de los Trabajadores;
 
-###### ARTICULO 37°
+VI. Rendir los informes financieros que se establezcan como obligatorios para el Consejo de Administración; y
 
-El Consejo de Administración del Seguro de los Trabajadores de la Educación, en caso de incumplimiento del trabajador podrá mandar descontar del sueldo que éste perciba, los abonos insolutos del préstamo que hubiere convenido.
+VII. Las demás que señale el director, ésta ley, su reglamento interior y los acuerdos del Consejo de Administración.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2016)</small>
+
+###### ARTÍCULO 44.
+
+Son facultades y obligaciones del Vocal Ejecutivo del Consejo de Administración:
+
+I. Coadyuvar con el Director en el seguimiento a los acuerdos que se tomen en el seno del consejo;
+
+II. Apoyar en las funciones de los Subdirectores del Consejo; y
+
+III. Las demás que señale el director, ésta ley, su reglamento interior y los acuerdos del Consejo de Administración.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE ENERO DE 2016)</small>
+
+### CAPÍTULO QUINTO.
+
+DE LAS SANCIONES.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2016)</small>
+
+###### ARTICULO 45.
+
+El Organismo, en cumplimiento a la Norma General de Control Interno, constituirá un Comité de Control Interno a través del cual, atendiendo a su circunstancias y operaciones particulares, promoverá la efectividad, eficacia y economía en las operaciones, programas, proyectos, y calidad de los servicios que brinde, verificando el cumplimiento de sus objetivos Institucionales y previniendo desviaciones en la consecución de los mismos, así como mantener un adecuado manejo de los recursos y promover que su aplicación se realice con criterios de austeridad, disciplina, racionalidad y transparencia para los fines a que están destinados, previniendo o corrigiendo desviaciones u omisiones que afecten su debido cumplimiento.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2016)</small>
+
+###### ARTÍCULO 46.
 
 El funcionario o persona encargada de hacer el pago de sueldos, tendrá la obligación de efectuar descuento ordenado y entregarlo dentro de los cinco días siguientes a la Subdirección de Finanzas del Seguro de los Trabajadores de la Educación.
 
 La retención indebida de estos descuentos será sancionada con multa hasta por el importe de diez días del salario que tenga asignado el infractor.
 
-###### ARTICULO 38°.
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2016)</small>
 
-Se equipara al delito de fraude y se sancionará como tal, en los términos del Código Penal vigente, el obtener las prestaciones que esta Ley otorga, sin tener derecho a ellas, valiéndose de cualquier engaño, simulación, substitución de persona o de cualquier otro acto de artificio, dolo o mala fe.
+###### ARTÍCULO 47.
 
-###### ARTICULO 39°.
+Se equipara al delito de fraude y se sancionará como tal en los términos del Código Penal vigente en el Estado, el obtener las prestaciones que esta Ley otorga, sin tener derecho a ellas, valiéndose de cualquier engaño, simulación, substitución de persona o de cualquier otro acto de artificio, dolo o mala fe.
 
-Será sancionado con multa por el importe hasta de diez días de salario que tenga asignado, el infractor, la que se duplicará en caso de reincidencia, sin perjuicio de la consignación que proceda ante la autoridad competente, a quien no entregue o retenga indebidamente las asignaciones previstas en el artículo 12 de esta Ley y hubiere efectuado en nóminas el descuento correspondiente.
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2016)</small>
+
+###### ARTÍCULO 48.
+
+Será sancionado con multa por el importe hasta de diez días de salario que tenga asignado el infractor, la que se duplicará en caso de reincidencia, sin perjuicio de la consignación que proceda ante la autoridad competente, a quien no entregue o retenga indebidamente las asignaciones previstas en el artículo 9 de ésta Ley y hubiere efectuado en nóminas el descuento correspondiente.
 
 La reincidencia, además dará lugar a la separación del empleo.
 
@@ -344,10 +654,6 @@ T R A N S I T O R I O S
 PRIMERO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO. Se salvaguardan todos los derechos, obligaciones y demás actos comprendidos en las disposiciones transitorias previstas en la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores de la Educación Pública del Estado de Coahuila, publicada en el Periódico Oficial del Gobierno del Estado el 19 de noviembre de 1999, incluyendo todas sus reformas hasta antes de la publicación del Decreto número 456 de fecha 22 de marzo de 2011, que son:
-
-### CAPITULO QUINTO.
-
-DE LAS SANCIONES.
 
 ###### ARTICULO 1°.
 
@@ -420,3 +726,17 @@ EL SECRETARIO DE EDUCACIÓN Y CULTURA
 PROFR. ANDRÉS MENDOZA SALAS
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 345.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SEGURO DE LOS TRABAJADORES DE LA EDUCACIÓN DEL ESTADO DE COAHUILA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se dejan sin efectos las disposiciones que se opongan a lo previsto en este decreto.
+
+TERCERO.- Se otorga un plazo de treinta días posteriores a la entrada en vigor de la presente ley, para que se expidan los reglamentos referidos en la misma.
+
+CUARTO.- El Consejo de Administración contará con un plazo no mayor a 30 días contados a partir de la entrada en vigor del presente Decreto para emitir el manual de funciones de mandos intermedios con respecto a los inmuebles que coadyuven al financiamiento y capitalización del organismo.
