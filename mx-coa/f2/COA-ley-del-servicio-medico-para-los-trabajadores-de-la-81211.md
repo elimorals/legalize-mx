@@ -4,7 +4,7 @@ identifier: "COA-ley-del-servicio-medico-para-los-trabajadores-de-la-81211"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-06"
-last_updated: "2011-05-06"
+last_updated: "2016-01-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81211&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "COA"
 ---
 # LEY DEL SERVICIO MEDICO PARA LOS TRABAJADORES DE LA EDUCACION DEL ESTADO DE COAHUILA
 
-LEY DEL SERVICIO MEDICO PARA LOS TRABAJADORES DE LA EDUCACION DEL ESTADO DE COAHUlLA
+LEY DEL SERVICIO MÉDICO PARA LOS TRABAJADORES DE LA EDUCACIÓN DEL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2016.
 
 Ley publicada en la Primera Sección al Periódico Oficial del Estado de Coahuila, el viernes 6 de mayo de 2011.
 
@@ -57,69 +57,161 @@ El Servicio Médico de los Trabajadores de la Educación, es una institución de
 
 El Servicio Médico de los Trabajadores de la Educación, creado por la Ley de 18 de abril de 1960, se transforma en un organismo público descentralizado con personalidad jurídica y patrimonio propios, denominado Servicio Médico de los Trabajadores de la Educación, con domicilio en la ciudad de Saltillo, capital del Estado, y tendrá a su cargo las prestaciones establecidas en este Ordenamiento.
 
-En el curso de esta Ley se le denominará el Servicio Médico.
+> <small>(ADICIONADO [N. DE E. REFORMADO], P.O. 8 DE ENERO DE 2016)</small>
+
+El Servicio Médico, deberá mantener impresa para consulta directa y difundir, a través de los sitios de Internet y de la Plataforma Nacional de Transparencia, la siguiente información adicional de interés público:
+
+I. La remuneración mensual por puesto de todos sus servidores públicos por sueldo o por honorarios, incluyendo todas las percepciones, así como el tipo de seguridad social con el que cuentan;
+
+II. La versión pública de la declaración patrimonial de sus servidores públicos, que contenga: nombre, cargo, tipos de declaración, sueldo, bienes inmuebles, ubicados en territorio nacional y extranjero, así como el listado de servidores públicos que no hayan rendido la declaración patrimonial;
+
+III. El importe por concepto de viáticos y, en su caso, de gastos de representación;
+
+IV. Los programas de subsidio, estímulo y apoyos que ofrece, incluyendo el diseño, ejecución, montos asignados, criterios y requisitos para acceder a éstos, en su caso, las reglas de operación, así como el área responsable de la entrega;
+
+V. Nombre, nombramiento, fotografía, domicilio, y correo electrónico oficiales de los servidores públicos que integren la Unidad de Transparencia y el Comité de Transparencia;
+
+VI. Las solicitudes de acceso a la información pública, las quejas presentadas y las respuestas que se les dé, incluyendo, en su caso, la información entregada, a través del sistema de solicitudes de acceso a la información;
+
+VII. Los informes de avances de gestión financiera trimestrales y la cuenta pública anual, una vez que se presenten ante el Congreso del Estado;
+
+VIII. El número, tipo y los resultados de las auditorías practicadas y concluidas al ejercicio presupuestal, con excepción de los que debe publicar la Auditoría Superior del Estado, de acuerdo a lo previsto en la Ley de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Coahuila de Zaragoza;
+
+IX. El padrón de proveedores y contratistas, identificando el nombre de la persona física o moral, el número de identificación, el domicilio fiscal, el inicio de operaciones, la fecha de registro y de vigencia, así como la copia del acta constitutiva y sus posteriores modificaciones;
+
+X. La agenda mensual en su caso, de eventos culturales o deportivos;
+
+XI. Las actas de entrega-recepción, una vez que estén legalmente concluidas;
+
+XII. Una guía simple de los archivos y su organización, que contenga la descripción de los fondos documentales vinculados a sus áreas, así como datos del responsable del archivo;
+
+XIII. El estado que guardan los sistemas pensionarios, los estudios actuariales que se realicen y los montos de los fondos pensionarios con el cálculo de su horizonte financiero;
+
+XIV. Las demás que dispongan la Ley General de Transparencia y Acceso a la Información Pública, la Ley de Acceso a la Información Pública y Protección de Datos Personales para el Estado de Coahuila de Zaragoza y otros ordenamientos aplicables.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE ENERO DE 2016)</small>
 
 ###### ARTICULO 3o.
 
-La presente Ley se aplicará a los trabajadores de la Educación Pública que forman parte del magisterio, servicios administrativos y manuales dependientes de:
+Son sujetos de la presente Ley los trabajadores de la Educación Pública que forman parte del magisterio, servicios administrativos y manuales dependientes de:
 
 I.- Gobierno del Estado de Coahuila de Zaragoza;
 
-II.- Universidad de Coahuila;
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2016)</small>
 
-III.- Municipios de la Entidad;
+II.- Universidad Autónoma de Coahuila;
 
-IV.- La organización estatal sindical de los trabajadores de la Educación Pública;
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2016)</small>
+
+III.- La Universidad Autónoma Agraria Antonio Narro;
+
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2016)</small>
+
+IV.- La Sección 38 del Sindicato Nacional de los Trabajadores de la Educación o cualquiera que fuese su denominación futura;
 
 V.- Instituciones de seguridad social creadas para servicio de los trabajadores de la educación pública; y a
 
 VI.- Los beneficiarios de los titulares del derecho a recibir ayuda para atención médica, citados en los incisos anteriores en los términos que establecen esta Ley y su Reglamento.
 
-ARTlCULO 4o.- Para ayudar a los trabajadores y a sus beneficiarios en la prevención y curación de enfermedades, se establece como obligatorio el auxilio económico en los siguientes aspectos:
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
 
-I.- Consulta externa o interna;
+###### ARTICULO 4o.
 
-II.- Adquisición de medicinas;
+Para ayudar a los trabajadores y a sus beneficiarios en la prevención y curación de enfermedades, el Servicio Médico ofrecerá el auxilio económico en los siguientes aspectos:
 
-III.- Servicio quirúrgico;
+I.- Atención médica de primero y segundo nivel que se ofrecen en la (sic) Clínicas pertenecientes al Servicio Médico, que incluyen: servicio de consulta externa de medicina general y de especialidad, hospitalización, cirugía, servicio de urgencia médica, servicio dental, servicio de laboratorio, gabinete y servicio de farmacia;
 
-IV.- Hospitalización;
+II.- Servicios Subrogados que corresponden a los servicios de atención médica que el Servicio Médico no ofrece y que serán proporcionados por profesionales del ramo o instituciones especializadas en salud, con los que el mismo haya celebrado convenios para tal propósito;
 
-V.- Obstetricia;
+(NOTA: EL 9 DE JULIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO Y NOVENO, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2016 DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-VI.- Servicio de laboratorio;
+LOS COSTOS DERIVADOS DE LOS SERVICIOS SUBROGADOS, SERÁN COMPARTIDOS POR EL SERVICIO MÉDICO Y EL DERECHO-HABIENTE EN PROPORCIONES DEFINIDAS ANUALMENTE POR EL CONSEJO DE ADMINISTRACIÓN EN FUNCIÓN DE LAS POSIBILIDADES ECONÓMICAS DEL SERVICIO MÉDICO;
 
-VII.- Servicios especiales;
+III.- Servicio de prestaciones que corresponden a los servicios de atención médica que el Servicio Médico no ofrece por sí mismo ni en la modalidad de subrogados y que el paciente debe obtener por gestión personal y directa con los profesionales del ramo o instituciones especializadas en salud, previa autorización de la Dirección Médica de la Unidad correspondiente;
 
-VIII.- Servicio dental;
+(NOTA: EL 9 DE JULIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO Y NOVENO, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2016 DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
 
-IX.- Adquisición de cristales para lentes.
+EL TOTAL DE LOS COSTOS DERIVADOS DE ESTA ATENCIÓN NO SUBROGADA SERÁN CUBIERTOS POR EL DERECHO-HABIENTE Y UN PORCENTAJE DEL MISMO SERÁ REEMBOLSADO POR EL SERVICIO MÉDICO, PREVIA PRESENTACIÓN DE FACTURA Y SUJETO AL CUMPLIMIENTO DE LOS REQUISITOS QUE ESTE SOLICITE. ESTE PORCENTAJE Y LOS REQUISITOS SERÁN DEFINIDOS ANUALMENTE POR EL CONSEJO DE ADMINISTRACIÓN EN FUNCIÓN DE LAS POSIBILIDADES ECONÓMICAS DEL SERVICIO MÉDICO;
 
-ARTlCULO 5o.- Para los efectos de esta Ley se entiende:
+IV.- Servicios de atención médica y hospitalaria de primero y segundo nivel en instalaciones propias a particulares que deseen adquirirlos en el esquema de pago por eventualidad o de servicio médico facultativo individual o colectivo que el Servicio Médico pudiese ofrecer de acuerdo a su capacidad instalada y sin detrimento de la atención de sus derecho-habientes;
 
-I.- Por TRABAJADOR, a toda persona que habiendo cumplido dieciocho años de edad, preste sus servicios a las entidades y organismos mencionados en el artículo tercero mediante designación legal, siempre que sus cargos y sueldos estén consignados en los presupuestos respectivos.
+V.- El Servicio Médico podrá implementar planes de protección médico familiar. Los así llamados serán convenios entre la Institución y los derechohabientes mediante los cuales, por una prima quincenal adicional descontada de su salario, la Institución cubre parte o todo de los gastos que corresponda sufragar por servicios médicos hospitalarios recibidos, según el reglamento que se expida para tal fin.
 
-No se considerarán como trabajadores a las personas que presten sus servicios mediante contrato sujeto a la legislación común, a las que por cualquier motivo perciban sus emolumentos exclusivamente con cargo a las partidas de honorarios, gastos generales o similares, o a las que presten servicios eventuales;
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
 
-II.- Por DERECHO-HABIENTES, a los trabajadores titulares del derecho a percibir las prestaciones que esta Ley establece y a quienes el Servicio Médico les reconozca tal carácter;
+###### ARTICULO 5o.
 
-III.- Por BENEFICIARIOS, a los familiares de los trabajadores derecho-habientes, a quienes esta Ley les concede tal carácter;
+Para los efectos de esta Ley se entiende:
 
-IV.- Por FONDO DEL SERVICIO MEDICO, el patrimonio de dicha institución, constituido en los términos de esta Ley.
+I.- Por trabajador, a toda persona que por efectos de nombramiento, relación o contrato de trabajo preste sus servicios laborales a alguno de los organismos o entidades mencionados en el artículo 3o. siempre que hayan elegido la opción de este servicio.
 
-ARTlCULO 6o.- Los derecho-habientes y beneficiarios del Servicio Médico, sólo tendrán derecho a percibir las prestaciones que se establecen, después de seis meses de servicio en territorio del Estado y el mismo tiempo de contribución al Fondo del Servicio Médico, por parte de los trabajadores.
+(NOTA: EL 9 DE JULIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO Y NOVENO, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2016 DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LA PORCIÓN NORMATIVA DEL PÁRRAFO SEGUNDO DE LA FRACCIÓN I, DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+No se considerarán como trabajadores con derecho a estos servicios médicos a quienes no realicen pago de aportaciones O NO ESTÉN AL CORRIENTE EN EL PAGO, ni las personas que presten sus servicios mediante contrato sujeto a la legislación común, a las que por cualquier motivo perciban sus emolumentos exclusivamente con cargo a las partidas de honorarios, gastos generales o similares, o a las que presten servicios eventuales;
+
+II.- Por derecho-habiente, a los trabajadores titulares del derecho a percibir las prestaciones que esta Ley establece;
+
+III.- Por beneficiario, a los familiares de los trabajadores derecho-habientes, a quienes esta Ley les concede tal carácter;
+
+IV.- Por fondo del servicio médico, el patrimonio de dicha institución, constituido en los términos de esta Ley;
+
+V.- Por organismo auxiliar, a las Clínicas del Magisterio Regionales o Periféricas del Servicio Médico. Estos organismos no tienen personalidad jurídica ni patrimonio propias son únicamente aplicativos de la Ley del Servicio Médico y de los acuerdos o mandamientos de los órganos de gobierno;
+
+VI.- Por administrador del organismo auxiliar, al responsable de la Administración en las Clínicas Regionales y Periféricas del Servicio Médico;
+
+VII.- Por servicio subrogado, a las atenciones que se brinden en forma externa al servicio de las clínicas y los mismos estén convenidos por el Servicio Médico;
+
+VIII.- Por plan de protección, las (sic) programas que se establezcan con fines de ampliación de cobertura de servicios de atención médica, de carácter optativo;
+
+IX.- Por comité de control interno, a la unidad administrativa dentro de la Institución, encargada de vigilar y sancionar el cumplimiento a la Norma General de Control Interno;
+
+X.- Por fondo de garantía, al fondo que se constituye con el porcentaje que esta Ley establece y que garantiza el pago de los saldos insolutos que dejara, por concepto de crédito en curso, un trabajador por fallecimiento;
+
+XI.- Por aportación, a la obligación económica que los empleadores definidos en esta Ley, deben de entregar a la Institución por cada uno de sus empleados en proporción a los sueldos que perciben;
+
+XII.- Por retención, a la deducción que por efectos de esta ley o que por mandato judicial se haga de los salarios de los trabajadores, o percepciones de los pensionados o jubilados según corresponda, para cumplir obligaciones o compromisos contraídos previamente y que se aplican directamente a la nómina de pago. Con independencia de lo anterior podrán realizarse retenciones adicionales convenidas voluntariamente con el trabajador, pensionados y jubilados, según corresponda;
+
+XIII.- Por copago, al costo de los servicios médicos, hospitalarios, y farmacéuticos compartidos entre la Institución y Derecho-Habiente;
+
+XIV.- Por pensionado, a la persona que habiendo cumplido los requisitos que establece la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores de la Educación Pública del Estado de Coahuila de Zaragoza, deja el servicio activo;
+
+XV.- Por institución, al Servicio Médico para los Trabajadores de la Educación del Estado de Coahuila;
+
+XVI.- Por SNTE, al Sindicato Nacional de Trabajadores de la Educación
+
+XVII.- Por comité ejecutivo, al cuerpo colegiado que por un periodo determinado ejerce la dirigencia del Gremio Magisterial afiliado a la Sección 38 del SNTE;
+
+XVIII.- Por secretario general, a la autoridad del Comité Ejecutivo que ejerce la dirigencia y representación del Gremio Magisterial afiliado a la Sección 38 del SNTE;
+
+XIX.- Por consejo de administración, a los cuatro integrantes del cuerpo directivo de la Institución, que son Presidente, Secretario Técnico, y dos vocales;
+
+XX.- Por comisario, al representante nombrado por la Secretaría de Fiscalización y Rendición de Cuentas.
+
+XXI.- Por pago por eventualidad, a la retribución que hace un no derechohabiente por la atención médica recibida en Clínicas y Farmacias del Servicio Médico;
+
+XXII.- Por servicio médico facultativo individual o colectivo, a la modalidad de atención a no derechohabientes que contratasen de manera previsora los servicios médicos para sí o para un colectivo con el Organismo;
+
+(NOTA: EL 9 DE JULIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS OCTAVO Y NOVENO, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 12/2016 DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+
+###### ARTICULO 6o.
+
+Los derecho-habientes y beneficiarios del Servicio Médico, tendrán derecho a percibir las prestaciones que se establecen en esta ley, en sus términos y modalidades, a partir de la fecha de su nombramiento o contratación para la prestación de servicios laborales Y QUE SE ENCUENTREN AL CORRIENTE EN EL PAGO DE APORTACIONES O SIN ADEUDOS SEGÚN CORRESPONDA.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
 
 ###### ARTICULO 7o.
 
-Las entidades y organismos mencionados en el artículo 3º., deberán remitir al Servicio Médico dentro del mes siguiente a la iniciación de cada año lectivo, una relación del personal sujeto al pago de cuotas para integrar el patrimonio de la citada Institución.
+Las entidades y organismos mencionados en el artículo 3o., deberán remitir al Servicio Médico dentro del mes siguiente a la iniciación de cada año lectivo, una relación del personal sujeto al pago de cuotas para integrar el patrimonio de la citada Institución.
 
 Asimismo, pondrán en conocimiento del Servicio Médico dentro de los quince días siguientes a su fecha:
 
-I.- Las altas y bajas de los trabajadores;
+I.- Relación actualizada de altas y bajas de los trabajadores.
 
-II.- Las modificaciones de los sueldos sujetos a descuento por concepto de contribución al patrimonio del Fondo del Servicio Médico.
+II.- Los incrementos o modificaciones de los sueldos sujetos a retención o descuento por concepto de pago de las aportaciones al Fondo del Servicio Médico.
 
-En todo tiempo las autoridades y organismos de referencia proporcionarán los datos y documentos que el Servicio Médico les solicite, en relación a las funciones que les señala esta Ley. Las personas obligadas a rendir los informes anteriores, en caso de incumplimiento, serán sancionadas por el Ejecutivo del Estado, con el importe de uno hasta cinco días de sueldo, a solicitud del Servicio Médico y previa comprobación del incumplimiento.
+En todo tiempo las autoridades y organismos de referencia proporcionarán la nómina detallada de los trabajadores sobre la que se basen los cálculos de las aportaciones y retenciones que el Servicio Médico les solicite, en relación a las funciones que les señala esta Ley. Las personas obligadas a rendir los informes anteriores, en caso de incumplimiento, serán sancionadas por el Ejecutivo del Estado, con el importe de 180 unidades de cuenta vigentes del Estado de Coahuila de Zaragoza, a solicitud del Servicio Médico y previa comprobación del incumplimiento cada vez que este ocurra. El monto económico de dichas sanciones ingresará al Fondo Económico del propio Servicio Médico.
 
 ###### ARTICULO 8o.
 
@@ -127,23 +219,33 @@ Los trabajadores están obligados a proporcionar al Servicio Médico y a las ent
 
 I.- Los informes y documentos que les sean solicitados con relación a la aplicación de este Ordenamiento;
 
-II.- Los nombres de los beneficiarios de las prestaciones que esta Ley otorga, los cuales señalará el trabajador.
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2016)</small>
 
-Las designaciones a que se refiere la fracción anterior, podrán ser substituidas por el trabajador, dentro de las limitaciones que esta Ley establece.
+II.- Los nombres de los beneficiarios ele las prestaciones que esta Ley otorga;
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+
+Las designaciones a que se refiere la fracción anterior, podrán ser substituidas por el trabajador, dentro de las limitaciones que esta Ley establece;
 
 Los trabajadores tendrán derecho, en su caso, a gestionar que el Servicio Médico los inscriba como Derecho-habiente en unión de sus beneficiarios y requerir a las entidades y organismos correspondientes para el estricto cumplimiento de las obligaciones que esta Ley establece.
 
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+
 ###### ARTICULO 9o.
 
-El Servicio Médico formulará el registro general de trabajadores y sus beneficiarios y cuidará de anotar las altas y bajas que ocurran para que dicho registro esté siempre al corriente y sirva de base para formular las liquidaciones de las aportaciones del fondo del servicio médico y la correcta aplicación de las prestaciones establecidas.
+El Servicio Médico formulará el registro general de trabajadores y sus beneficiarios y cuidará de actualizarlo con las altas y bajas que oficialmente comuniquen las entidades u organismos aportantes para que dicho registro esté siempre al corriente y sirva de base para formular las liquidaciones de las aportaciones del fondo del servicio médico y la correcta aplicación de las prestaciones establecidas.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
 
 ###### ARTICULO 10o.
 
-Para que los derecho-habientes y los beneficiarios puedan percibir las prestaciones que les corresponden, deberán cumplir con los requisitos que esta Ley señala; que los primeros estén al corriente en sus aportaciones al Fondo del Servicio Médico y a proveerse de una tarjeta de identificación.
+Para que los derecho-habientes y los beneficiarios puedan percibir las prestaciones que les corresponden, deberán cumplir con los requisitos que esta Ley señala.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
 
 ###### ARTICULO 11o.
 
-Los trabajadores contribuyentes al Fondo del Servicio Médico no adquieren derecho individual ni colectivo sobre él, sino tan sólo el de gozar de los beneficios que esta Ley establece.
+Los trabajadores contribuyentes y los Organismos aportantes al Fondo del Servicio Médico no adquieren derecho individual ni colectivo sobre él, sino tan sólo el de gozar de los beneficios que esta Ley establece.
 
 ###### ARTICULO 12o.
 
@@ -163,7 +265,7 @@ El Periódico Oficial del Estado hará gratuitamente las publicaciones que solic
 
 ###### ARTICULO 16o.
 
-El Servicio Médico instalará sus oficinas y dependencias preferentemente en el local de la organización estatal sindical de los trabajadores de la educación pública.
+(DEROGADO, P.O. 8 DE ENERO DE 2016)
 
 ###### ARTICULO 17o.
 
@@ -173,41 +275,59 @@ Las controversias que surjan sobre la aplicación de esta Ley, así como todas a
 
 DEL PATRIMONIO DEL SERVICIO MEDICO.
 
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+
 ###### ARTICULO 18o.
 
 El patrimonio del Servicio Médico se constituye de la siguiente manera:
 
-I.- Con la aportación mensual del Gobierno del Estado, de la Universidad de Coahuila y de los Municipios de la entidad de una cantidad equivalente al dos y medio por ciento de los sueldos base, y en su caso, sumado a éstos las compensaciones por quinquenios o antigüedad y preparación profesional que consten en las nóminas de pago de los trabajadores de la educación que de ellos dependan;
+I.- Con la aportación mensual del Gobierno del Estado del 13.25% de los sueldos compactados, compensaciones especiales, eficiencia en el trabajo y prima de antigüedad, o sus equivalentes;
 
-II.- Por la aportación mensual de la organización estatal sindical de los trabajadores de la educación pública y de las organizaciones de servicio social de los mismos trabajadores, de una cantidad equivalente al dos y medio por ciento de los sueldos base de los trabajadores que de ellas dependan;
+II.- Con la aportación mensual de la Universidad Autónoma de Coahuila del 13.25% de los sueldos compactados, compensaciones especiales, eficiencia en el trabajo y prima de antigüedad, o sus equivalentes;
 
-III.- Por la contribución mensual de los trabajadores de una cantidad igual a la aportada por las entidades y organismos en que presten sus servicios, equivalentes al dos y medio por ciento del sueldo base que perciban;
+III.- Con la aportación mensual de la Universidad Autónoma Agraria Antonio Narro del 13.25% de los sueldos compactados, compensaciones especiales, eficiencia en el trabajo y prima de antigüedad, o sus equivalentes;
 
-IV.- Por los demás ingresos que esta Ley autoriza;
+IV.- Por la aportación mensual de la Sección 38 del SNTE y de sus instituciones de Seguridad Social, de una cantidad equivalente al 13.25% de los sueldos compactados, compensaciones especiales, eficiencia en el trabajo y prima de antigüedad, o sus equivalentes en la denominación de las instituciones aportantes;
 
-V.- Por donaciones, herencias o legados que recibiere;
+V.- Por la contribución mensual de los trabajadores equivalente al 3% de los sueldos compactados, compensaciones especiales, eficiencia en el trabajo y prima de antigüedad, o sus equivalentes en la denominación de las instituciones aportantes;
 
-VI.- Por los muebles, inmuebles, útiles y enseres que hubiere adquirido para su fin social, o los que por cualquier título legítimo adquiera en lo futuro.
+VI.- Por los ingresos provenientes de los servicios prestados por los Organismos Auxiliares, así como por la venta de medicamentos y por los ingresos bajo la modalidad de copagos en favor de derechohabientes y beneficiarios;
+
+VII.- Por los ingresos provenientes de los servicios prestados por los Organismos Auxiliares, así como por la venta de medicamentos en favor de particulares;
+
+VIII.- Por los demás ingresos que esta Ley y sus reglamentos derivados autoricen;
+
+IX.- Por donaciones, herencias o legados que recibiere;
+
+X.- Por los muebles, inmuebles, útiles y enseres que hubiere adquirido para su fin social, o los que por cualquier título legítimo adquiera en lo futuro;
+
+XI.- Por los ingresos derivados de los convenios que suscriba el Servicio Médico con el Gobierno del Estado y demás Entidades aportantes.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
 
 ###### ARTICULO 19o.
 
-Las contribuciones al fondo del Servicio Médico previstas en la Fracción III del artículo anterior, serán descontadas a los trabajadores en nóminas de las Tesorerías o pagadores, quienes tienen la obligación de entregarlas, junto con las aportaciones señaladas en los incisos I y II del precepto anterior, al Servicio Médico.
-
-La Tesorería General del Gobierno del Estado, y los Municipios, cubrirán con toda oportunidad al Servicio Médico las aportaciones que les corresponda.
+Las retenciones en favor del Servicio Médico previstas en la Fracción V del artículo 18, serán descontadas a los trabajadores en nóminas de los Empleadores, quienes tienen la obligación de entregarlas a la Institución, junto con las aportaciones señaladas en los incisos I, II, III y IV del mismo artículo 18.
 
 ###### ARTICULO 20o.
 
 Los pagadores o encargados de pagar sueldos, serán responsables de los actos u omisiones que realicen en perjuicio del Servicio Médico, independientemente de la responsabilidad civil, penal o administrativa en que incurrieren.
 
-Los descuentos por concepto de contribución de los trabajadores al Servicio Médico, previstos en el artículo 18, fracción III, no podrán ser retenidos por los pagadores o encargados de efectuarlos, por un lapso mayor de cinco días. El incumplimiento de esta obligación será sancionado administrativamente por el Ejecutivo del Estado, la primera vez con multa de cinco días del sueldo que perciba el empleado y en caso de reincidencia, con la separación del empleo que desempeñare el infractor.
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+
+Los descuentos por concepto de retenciones a los trabajadores, previstos en la fracción V del artículo 18, deberán enterarse al Servicio Médico dentro de un lapso que no podrá exceder a cinco días. El incumplimiento de esta obligación será sancionado administrativamente por el Ejecutivo del Estado, la primera vez con multa de cinco días del sueldo que perciba el empleado y en caso de reincidencia, con la separación del empleo que desempeñare el infractor.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
 
 ###### ARTICULO 21o.
 
-Los trabajadores que desempeñen dos o más empleos en las entidades y organismos a que se refiere este Ordenamiento, cubrirán sus cuotas de contribución al Servicio Médico, sobre la totalidad de los sueldos que tengan asignados.
+A los trabajadores que desempeñen dos o más empleos en las entidades y organismos a que se refiere este Ordenamiento, les será aplicado el porcentaje de retenciones en favor del Servicio Médico, sobre la totalidad de los sueldos que tengan asignados.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
 
 ###### ARTICULO 22o.
 
-Los fondos que se recaben por los conceptos señalados en el artículo 180., los depositará el Servicio Médico en institución bancaria de la ciudad de Saltillo, Coahuila, y su inversión será dedicada exclusivamente a los fines señalados en esta Ley, con la vigilancia del Consejo de Administración y de los Comisarios.
+Los fondos que recabe el Servicio Médico por los conceptos señalados en el artículo 18o, serán depositados en institución bancaria de la ciudad de Saltillo, Coahuila, y su inversión será dedicada exclusivamente a los fines señalados en esta Ley, con la vigilancia del Consejo de Administración y del Comisario.
 
 ###### ARTICULO 23o.
 
@@ -218,6 +338,32 @@ Cuando por cualquier causa no se hubieren aplicado a los sueldos de los trabajad
 El sueldo básico que se tomará en cuenta para la aplicación de los descuentos por contribución al fondo del Servicio Médico, se integrará por el sueldo presupuestal y en su caso, se sumará a éste, el importe de las compensaciones por quinquenios o antigüedad y preparación profesional, incluyéndose cualquier otra remuneración que el trabajador perciba con motivo de sus labores.
 
 Sueldo presupuestal es la remuneración ordinaria señalada en la designación o nombramiento del trabajador en relación con la plaza o cargo que desempeña.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2016)</small>
+
+ARTICULO 24o A. - El patrimonio de la Institución, previsto en el artículo 18, se utilizará para cubrir prioritariamente los servicios médicos que se contienen en esta ley, y podrán aplicarse además para:
+
+I.- Cubrir los gastos de administración, y operación de (sic) propio Organismo;
+
+II.- Compra de bienes muebles e inmuebles para la operación de la Institución y la mejora en la prestación de sus servicios de salud;
+
+III.- Cubrir los gastos de administración, mantenimiento y mejoras de los Organismos Auxiliares;
+
+IV.- A cubrir o apoyar con erogaciones o en especie los requerimientos que con motivo exclusivamente del desempeño de sus puestos, realicen los integrantes de los órganos de gobierno y las correspondientes acciones que con ese mismo fin realicen los integrantes del Comité Ejecutivo siempre que estas erogaciones no comprometan la correcta operación de la Institución;
+
+V.- Para cubrir las compensaciones y/o sobresueldos que perciban los funcionarios de la Institución.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2016)</small>
+
+ARTICULO 24o B.- En solidaridad con las otras Instituciones de Seguridad Social de los Trabajadores de la Educación al Servicio del Estado y conforme se establece en el artículo 24º A fracción IV de este ordenamiento, recursos o parte del patrimonio del servicio médico podrá utilizarse además, para apoyar a estas instituciones siempre y cuando:
+
+I. El Organismo previsto en esta Ley garantice el cumplimiento de sus obligaciones;
+
+II. Exista una necesidad para cumplir con el objeto de la o las instituciones de seguridad social de los trabajadores de la educación al servicio del Estado que así lo requieran;
+
+III. Lo proponga al Consejo de Administración el Comité Ejecutivo de la Sección 38 del Sindicato Nacional de Trabajadores de la Educación;
+
+IV. Se lleve a cabo bajo la supervisión y vigilancia del Comité Ejecutivo de la Sección 38.
 
 ### CAPITULO TERCERO.
 
@@ -231,9 +377,13 @@ I.- Otorgar y administrar los diversos servicios a su cargo;
 
 II.- Vigilar la oportuna concentración de cuotas, aportaciones y demás recursos que le correspondan;
 
-III.- Satisfacer con eficiencia las prestaciones a su cargo;
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2016)</small>
 
-IV.- Invertir los fondos de acuerdo, con las disposiciones estatuidas;
+III.- Asegurar la calidad en la prestación de sus servicios;
+
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2016)</small>
+
+IV.- Invertir los fondos de acuerdo, con las disposiciones establecidas;
 
 V.- Realizar toda clase de actos jurídicos y celebrar los contratos que requiera el servicio;
 
@@ -241,181 +391,343 @@ VI.- Adquirir los bienes muebles o inmuebles necesarios para la realización de 
 
 VII.- Organizar sus dependencias y fijar la estructura y funcionamiento de las mismas;
 
-VIlI.- Expedir los reglamentos para la eficaz prestación de servicios y su organización interna;
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2016)</small>
+
+VIII.- Expedir los reglamentos necesarios para su adecuado funcionamiento;
 
 IX.- Difundir conocimientos y prácticas de prevención social y organizar las promociones respectivas;
 
-X.- Las demás que le confiera esta Ley.
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2016)</small>
+
+X.- Administrar sus Organismos Auxiliares, y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE ENERO DE 2016)</small>
+
+XI.- Las demás que le confiera esta Ley.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
 
 ###### ARTICULO 26o.
 
-El Servicio Médico tendrá personalidad jurídica para celebrar toda clase de actos y contratos propios de su fin social, así como para defender sus derechos ante los tribunales o fuera de ellos y para ejercitar las acciones judiciales o gestiones extrajudiciales que lo (sic) competan.
+El Servicio Médico tendrá personalidad jurídica para celebrar toda clase de actos y contratos propios de su fin social, así como para defender sus derechos ante los tribunales o fuera de ellos y para ejercitar las acciones judiciales o gestiones extrajudiciales de su competencia.
 
-El Servicio Médico deberá obtener autorización previa de las entidades y organismos sociales especificados en el artículo tercero, fracción I, II, III, IV y V, para celebrar convenios judiciales o extrajudiciales, desistirse de las acciones intentadas o de los recursos interpuestos así como para abstenerse de interponer los que las leyes le concedan, cuando se trate de asuntos que afecten los intereses de los mismos.
+El Servicio Médico podrá celebrar convenios con otras entidades o agrupaciones estatales de interés público y con particulares para que, de forma individual o grupal, puedan acceder de manera parcial o total a los servicios de salud previstos por este ordenamiento. Los términos de dichos convenios serán definidos por el Consejo de Administración y en ningún caso sus costos serán menores o iguales a las que esta Ley establece para los derechohabientes.
 
 ### CAPITULO CUARTO.
 
 DE LOS FUNCIONARIOS DEL SERVICIO MEDICO.
 
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+
 ###### ARTICULO 27o.
 
-El órgano de Gobierno del Servicio Médico será su Consejo de Administración integrado por cuatro miembros que fungirán como Director, Subdirector Técnico, Subdirector de Finanzas y Vocal Ejecutivo.
+El órgano de Gobierno del Servicio Médico será su Consejo de Administración integrado por cuatro miembros que fungirán como Presidente, Secretario Técnico y dos vocales. El Servicio Médico contará asimismo con un Director General quien será el responsable de la administración del Organismo.
+
+La administración del servicio médico será profesional, apegada a los principios contables y sujeta a las leyes en la materia.
+
+La conducción de la administración del servicio médico, hospitales, clínicas y farmacias y demás organismos auxiliares será encomendada a profesionales en la materia, quienes estarán sujetos a los mandatos que las Leyes Estatales determinen.
 
 ###### ARTICULO 28o.
 
 Para ser miembro del Consejo de Administración se requiere:
 
-I.- Ser miembro activo de la organización estatal sindical de los trabajadores de la educación pública;
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2016)</small>
 
-II.- Ser de reconocida competencia y honorabilidad.
+II.- Ser de reconocida competencia y honorabilidad, y
+
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2016)</small>
+
+III.- No desempeñar puesto de confianza en la administración pública federal, estatal o municipal.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
 
 ###### ARTICULO 29o.
 
-Los integrantes del Consejo de Administración durarán en su cargo tres años y podrán ser removidos cuando exista causa suficiente que lo amerite.
+Los integrantes del Consejo de Administración durarán en su cargo cuatro años y podrán ser ratificados para un nuevo periodo o removidos antes de su término a propuesta del Secretario General.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
 
 ###### ARTICULO 30o.
 
-Los integrantes del Consejo de Administración serán electos por mayoría de votos del Comité Ejecutivo de la Sección 38 del S.N.T.E. a propuesta de su Secretario General.
+Los integrantes del Consejo de Administración serán electos por mayoría de votos del Comité Ejecutivo de la Sección 38 del SNTE, o cualquiera que fuese su denominación futura, a propuesta de su Secretario General.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
 
 ###### ARTICULO 31o.
 
-Para que el Consejo de Administración funcione legalmente, deberán estar presentes los tres miembros que lo forman y sus resoluciones se tomarán por mayoría de votos. En caso de no ser posible tomar una decisión, será el Comité Ejecutivo de la organización estatal sindical de los trabajadores de la educación, quien falle en última instancia sobre el asunto de que se trate.
+Para que el Consejo de Administración sesione legalmente, deberán estar presentes los cuatro miembros que lo forman y sus resoluciones se tomarán por mayoría de votos. En caso de no ser posible tomar una decisión, será el Presidente del Consejo de Administración quien con su voto de calidad falle en última instancia sobre el asunto de que se trate.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
 
 ###### ARTICULO 32o.
 
-El Consejo de Administración celebrará sesiones ordinarias cuando menos una vez al mes y extraordinarias, cuantas veces lo requiera la buena marcha del servicio. Para las sesiones ordinarias mensuales, se preferirá celebrarlas los días cinco de cada mes siendo éste inhábil, el día siguiente.
+El Consejo de Administración celebrará sesiones ordinarias cada tres meses y extraordinarias, cuantas veces lo requiera la buena marcha del servicio.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
 
 ###### ARTICULO 33o.
 
-La vigilancia de la gestión realizada por el Consejo de Administración estará a cargo de tres Comisarios, siendo uno de ellos el titular de la Secretaría de Educación y Cultura o quien éste designe; otro, el Rector de la Universidad de Coahuila o quien él designe, y el tercero nombrado por el Gobernador del Estado.
+La vigilancia de la gestión realizada por el Consejo de Administración estará a cargo de un comisario, designado por la Secretaría de Fiscalización y Rendición de Cuentas y un síndico que será el Rector de la Universidad Autónoma de Coahuila o quien el designe.
 
 ###### ARTICULO 34o.
 
-Los Comités Ejecutivos de las Delegaciones de la organización estatal sindical de los trabajadores de la educación, serán auxiliares del Consejo de Administración, en las condiciones que se expresan en esta Ley.
+(DEROGADO, P.O. 8 DE ENERO DE 2016)
 
 ### CAPITULO QUINTO.
 
 DE LAS FACULTADES Y OBLIGACIONES DEL CONSEJO DE ADMINISTRACION DE LOS COMISARIOS Y DE LOS COMITES AUXILIARES.
 
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+
 ###### ARTICULO 35o.
 
 Son facultades y obligaciones del Consejo de Administración:
 
-I.- Dirigir técnica y administrativamente el servicio médico;
+I.- Vigilar la correcta y eficiente prestación de los servicios médicos;
 
-II.- Vigilar la correcta y eficiente prestación de los servicios médicos;
+II.- Elaborar y aprobar, los reglamentos, manuales de funciones, lineamientos y demás documentos normativos necesarios para la buena marcha y operatividad de la Institución;
 
-III.- Controlar los bienes muebles o inmuebles, útiles y enseres y el patrimonio general del Servicio Médico, velando por el uso apropiado de los mismos;
+III.- Elaborar y aprobar, el Plan general de actividades y los programas que de él se deriven;
 
-IV.- Gestionar y obtener de las entidades y organismos sociales señalados en el artículo Tercero, de esta Ley la nómina del personal que presta sus servicios y sueldos asignados;
+IV.- Elaborar y aprobar, el Presupuesto Anual de Egresos e Ingresos y vigilar el ejercicio del mismo;
 
-V.- Contratar juntamente con los organismos auxiliares del Servicio Médico, a los profesionistas y farmacias que deberán proporcionar el servicio en cada lugar;
+V.- Elaborar y aprobar en forma conjunta con el Comité Ejecutivo de la Sección 38, los tabuladores y prestaciones correspondientes al personal que presta sus servicios al Organismo;
 
-VI.- Rendir cada tres meses al Comité Ejecutivo de la organización estatal sindical de los trabajadores de la educación, al Gobierno del Estado y a la Universidad de Coahuila un informe detallado de la labor técnica y administrativa desarrollada y a la misma organización social y entidades, un informe anual de carácter general, que además se dará a conocer debidamente a todos los derecho-habientes del Servicio Médico;
+VI.- Proponer y aprobar en forma conjunta con el Comité Ejecutivo de la Sección 38, las compensaciones, y/o sobresueldos que deban percibir los funcionarios de la Institución;
 
-VII.- Rendir a la Asamblea General de Representantes, que se reunirá cada cuatro años, un informe general de la gestión realizada;
+VII.- Aprobar conjuntamente con el Comité Ejecutivo de la Sección 38, la Adquisición, Enajenación, Cesión, así como cualquier operación de compra venta o arrendamiento en que se comprometa el Patrimonio de la Institución;
 
-VIII.- Enviar a las Tesorerías o Pagadurías correspondientes, los recibos que amparen las aportaciones y contribuciones previstas en esta Ley;
+VIII.- Otorgar Poderes Generales para Pleitos y Cobranzas, Actos de Administración y de Dominio, con todas las facultades generales y las especiales que requieren cláusula especial, conforme a la Ley, en los términos del Artículo 2554 del Código Civil Federal y su correlativo, el Artículo 3008 del Código Civil del Estado de Coahuila.
 
-IX.- Llevar los libros necesarios para la buena marcha del servicio;
+IX.- Contratar con los organismos auxiliares a las personas físicas y morales que podrán proporcionarle servicios;
 
-X.- Nombrar los empleados administrativos necesarios para la atención eficiente del Servicio Médico;
+X.- Gestionar ante el Comité Ejecutivo de la Sección 38 del SNTE o cualquiera que fuese su denominación futura, la contratación y el nombramiento del personal necesario para la atención eficiente del Servicio Médico.
 
-XI.- Sancionar con aprobación del Comité Ejecutivo de la organización estatal sindical de los trabajadores de la educación pública a los derecho-habientes y beneficiarios que hagan mal uso del servicio médico;
+XI.- Sancionar con conocimiento del Comité Ejecutivo de la Sección 38 del SNTE o cualquiera que fuese su denominación futura, a los derecho-habientes y beneficiarios que hicieren mal uso del servicio médico;
 
-XII.- Fijar, de acuerdo con las posibilidades económicas del Servicio Médico y en consulta con el Comité Ejecutivo de la organización estatal sindical de los trabajadores de la educación, el monto de las prestaciones que se den a los derecho-habientes y beneficiarios, pudiendo aumentar o disminuir las mismas en relación con el estado económico que guarde el Servicio Médico;
+XII.- Fijar en función de las posibilidades económicas del Servicio Médico y en acuerdo con el Comité Ejecutivo de la organización estatal sindical de los trabajadores de la educación, el monto de las prestaciones que se den a los derechohabientes y beneficiarios;
 
-XIII.- Vigilar el cumplimiento de esta Ley y de los más estrictos principios éticos por parte de médicos, farmacias, laboratorios, derechohabientes y beneficiarios, para que el Servicio Médico labore con eficiencia;
+XIII.- Vigilar el estricto cumplimiento de esta Ley y sus Reglamentos;
 
-XIV.- Las demás que le señale esta Ley y su reglamento.
+XIV.- Negociar con las Instituciones de Seguridad Social de la Sección 38 del SNTE la transferencia de todo o parte de los adeudos contraídos por los derechohabientes con el Servicio Médico;
+
+XV.- Establecer acuerdos y convenios de colaboración, sin fines de lucro, con el Comité Ejecutivo de la Sección 38 y las Instituciones de Seguridad Social, para dotar y recibir recursos económicos, humanos y materiales;
+
+XVI.- Implementar planes de protección médico familiar. Los así llamados serán convenios entre la Institución y los derechohabientes mediante los cuales, por una prima quincenal adicional descontada de su salario, la Institución cubre parte o todo de los gastos que al derechohabiente corresponda sufragar por servicios médicos hospitalarios recibidos, según el reglamento que se expida para tal fin;
+
+XVII.- Determinar los costos y la normatividad para la atención médica eventual de no derechohabientes en los Organismos Auxiliares del Servicio Médico;
+
+XVIII.- Determinar los costos y la normatividad para la atención médica de no derechohabientes que contratasen de manera previsora los servicios médicos para sí o para un colectivo con el Organismo.
+
+XIX.- Las demás que le señale esta Ley y su reglamento.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
 
 ###### ARTICULO 36o.
 
-Son facultades y obligaciones del Director del Consejo de Administración:
+Son facultades del Presidente del Consejo de Administración:
 
-I.- Representar al Servicio Médico y ejecutar los Acuerdos del Consejo de Administración;
+I.- Exigir al Director General el estricto cumplimiento de esta ley y de los acuerdos del Consejo de Administración.
 
-II.- Representar al Servicio Médico en toda gestión judicial o extrajudicial, sin perjuicio de los poderes otorgados al efecto;
+II.- Suscribir, firmar, endosar, avalar, girar cheques, pagarés, letras de cambio o cualesquier otros títulos de crédito, conjuntamente con el Director General, en cumplimiento de los acuerdos del Consejo de Administración.
 
-III.- Firmar las escrituras públicas o privadas, títulos de crédito y en general cualquier documentación relativa al fin social del Servicio Médico. Esta facultad podrá delegarse mediante poder expreso otorgado por el Consejo de Administración;
+III.- Convocar al Consejo de Administración a las sesiones ordinarias o extraordinarias, con estricta observancia a las disposiciones contenidas en este ordenamiento.
 
-IV.- Someter a la decisión del Consejo de Administración todas aquellas cuestiones que sean competencia del mismo;
+IV.- Autorizar con su firma, conjuntamente con el Director General, la contabilidad del organismo.
 
-V.- Resolver bajo su inmediata y directa responsabilidad los asuntos urgentes de obvia resolución, que sean competencia del Consejo de Administración, a reserva de dar cuenta pormenorizada al mismo, a la brevedad posible;
+V.- Someter a la decisión del Consejo de Administración todas aquellas cuestiones que sean competencia del mismo;
 
-VI.- Vigilar las labores del personal exigiendo el debido cumplimiento;
+VI.- Resolver bajo su inmediata y directa responsabilidad los asuntos urgentes de obvia resolución, que sean competencia del Consejo de Administración, a reserva de dar cuenta pormenorizada al mismo, a la brevedad posible.
 
-VII.- Convocar a sesiones ordinarias o extraordinarias;
+VII.- Todas las demás que le fije esta Ley o su reglamento, o acuerde el Consejo de Administración.
 
-VIII.- Todas las demás que le fije esta Ley o su reglamento, o acuerde el Consejo de Administración.
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
 
 ###### ARTICULO 37o.
 
-Son facultades y obligaciones del Subdirector Técnico del Consejo de Administración:
+Son facultades y obligaciones del Secretario Técnico del Consejo de Administración:
 
-I.- Levantar u autorizar junto con el Presidente, las actas de las sesiones ordinarias y extraordinarias;
+I.- Levantar y autorizar, con la firma suya y la del Presidente del Consejo de Administración, las actas correspondientes a las sesiones ordinarias y extraordinarias que celebre el Consejo de Administración, y mantener actualizados los libros respectivos;
 
-II.- Despachar la correspondencia del Servicio Médico;
+II.- Formular de acuerdo con el Presidente del Consejo de Administración, el Orden del día al cual deberán sujetarse las sesiones ordinarias y extraordinarias;
 
-III.- Auxiliar al Director del Consejo de Administración en el desempeño de sus funciones;
+III.- tener bajo su custodia el archivo del Consejo de Administración;
 
-IV.- Las demás que señale esta Ley y su reglamento.
+IV.- Despachar la correspondencia del Servicio Médico;
+
+V.- Auxiliar y asistir al Presidente del Consejo de Administración, en la preparación y desarrollo de las sesiones ordinarias y extraordinarias de la Institución.
+
+VI.- Todas las demás que le imponga esta Ley, sus reglamentos, los acuerdos del Consejo de Administración y las que le designe el Presidente del Consejo de Administración.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
 
 ###### ARTICULO 38o.
 
-Son facultades y obligaciones:
+Son facultades y obligaciones de los Vocales del Consejo de Administración:
 
-A) del Subdirector de Finanzas del Consejo de Administración:
+I.- Asistir con voz y voto las sesiones del Consejo;
 
-I.- Dirigir y autorizar la contabilidad del Servicio Médico;
+II.- Coadyuvar con el Presidente en el seguimiento a los acuerdos que se tomen en el seno del Consejo.
 
-II.- Cobrar las cuotas de aportación y contribuciones para el fondo del Servicio Médico;
+III.- Apoyar en las funciones de los demás miembros del Consejo, y
 
-III.- Depositar en institución bancaria y controlar ingresos y egresos del fondo del Servicio Médico, en cuenta mancomunada con la firma del Presidente;
+IV.- Todas las demás que le imponga esta Ley, sus reglamentos, los acuerdos del Consejo de Administración y las que le designe el Presidente del Consejo de Administración.
 
-IV.- Rendir los informes que se establecen como obligatorios para el Consejo de Administración;
-
-V.- Las demás que le señale esta Ley y su reglamento.
-
-B) del Vocal Ejecutivo del Consejo de Administración:
-
-I.- Coadyuvar con el Director en el seguimiento a los acuerdos que se tomen en el seno del Consejo;
-
-II.- Apoyar en las funciones de los Subdirectores del Consejo; y
-
-III.- Las demás que determine el Director y los Comisarios, para el correcto funcionamiento del Consejo de Administración.
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
 
 ###### ARTICULO 39o.
 
-Son facultades y obligaciones de los Comisarios:
+El Servicio Médico contará con un Director General.
 
-I.- Exigir a los miembros del Consejo de Administración las informaciones y balances del Estado de Cuenta del Servicio Médico, cuando lo estimen pertinente;
+El o la Titular de la Dirección General deberá cumplir con los siguientes requisitos:
 
-II.- Inspeccionar los libros y documentos, así como existencias en Caja, cuando lo estimen necesario;
+I. Ser ciudadano coahuilense.
 
-III.- Asistir a las reuniones del Consejo de Administración, con voz pero sin voto, y promover las medidas que estimen benéficas para el Servicio Médico;
+II. Tener un modo honesto de vivir y gozar de buena reputación.
 
-IV.- Dictaminar sobre los informes trimestrales, anuales y generales que rinda el Consejo de Administración, haciendo las observaciones que juzguen convenientes;
+III. No haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión.
+
+IV. Contar con Título y Cédula Profesional en carrera de administración, finanzas, medicina o afín.
+
+VI (SIC). Contar con 5 años de experiencia laboral en las citadas áreas
+
+VII. No haber ocupado ningún empleo, cargo, función directiva o haber representado de cualquier forma los intereses de las instituciones aportantes, durante los 5 años previos a su nombramiento, excepto el caso del Gobierno del Estado.
+
+El Director General, será electo por mayoría de votos de los integrantes del Consejo Directivo, conforme al procedimiento señalado en el Reglamento respectivo, durará en su encargo 5 años pudiendo ser designado por otro periodo igual, y podrá ser removido por mayoría calificada de los integrantes del Consejo por causa grave y justificada mediante el acuerdo respectivo.
+
+El Director General deberá recibir una remuneración justa y adecuada que garantice el buen desempeño y estabilidad en su encargo.
+
+El Director General, tendrá las facultades y obligaciones siguientes:
+
+I.- Representar al Servicio Médico y ejecutar los Acuerdos del Consejo de Administración;
+
+II.- Las comprendidas en los Poderes Generales para Plenos y Cobranzas y para actos de administración, dominio y de poder cambiario, con todas las facultades generales y las especiales que requieran cláusula especial conforme a la Ley, en los términos del Artículo 2554 del Código Civil Federal y su correlativo, el Artículo 3008 del Código Civil del Estado de Coahuila de Zaragoza, representando al Organismo ante las autoridades administrativas y judiciales, federales o de los estados y municipios, ante las Juntas de Conciliación y Arbitraje y demás autoridades administrativas, judiciales, del trabajo. Los anteriores poderes y facultades, incluyendo enunciativa y no limitativamente, las de interponer y desistirse de toda clase de juicios y sus incidentes, aún el Amparo, transigir, comprometer en árbitros articular y absolver, posiciones, hacer cesión de bienes, recusar y recibir pagos, discutir, celebrar y revisar contratos;
+
+III.- Gestionar ante el Consejo de Administración la contratación del personal cuidando que el mismo cumpla con los perfiles adecuados para garantizar la eficiencia y buen funcionamiento del organismo;
+
+IV.- Realizar todas las operaciones inherentes al objeto de la Institución;
+
+V.- Otorgar, emitir, girar, endosar, aceptar, avalar o por cualquier otro concepto, obligar a la Institución mediante la firma y suscripción de títulos de crédito, con la autorización del Consejo de Administración y, en forma mancomunada, con el Presidente del Consejo;
+
+VI.- Administrar las cuentas bancarias con la autorización del Consejo de Administración, y con la firma mancomunada del Presidente del mismo.
+
+VII.- Constituir y retirar toda clase de depósitos, con los requisitos establecidos en la fracción anterior;
+
+VIII.- Presentar las necesidades del personal al Comité Ejecutivo Seccional, a consideración del Consejo de Administración;
+
+IX.- Manejar en forma conjunta con el Presidente del Consejo de Administración, los egresos o ingresos de la Institución;
+
+X.- Firmar las escrituras públicas o privadas, títulos de crédito y en general cualquier documentación relativo al fin social del Servicio Médico. Esta facultad podrá delegarse mediante poder expreso otorgado por el Consejo de Administración;
+
+XI.- Someter a la decisión del Consejo de Administración los asuntos de su competencia;
+
+XII.- En ausencia del Presidente, resolver bajo su inmediata y directa responsabilidad los asuntos urgentes de obvia resolución, que sean competencia del Consejo de Administración, a condición de informar al mismo a la brevedad posible;
+
+XIII.- Vigilar las labores del personal exigiendo el debido cumplimiento;
+
+XIV.- Formular planes y programas de organización y administración de los recursos humanos, financieros y materiales;
+
+XV.- Vigilar la correcta aplicación de las observaciones y sugerencias, resultado de las auditorías externas practicadas al Servicio Médico;
+
+XVI.- Proporcionar la información y dar acceso al (sic) documentación que le soliciten la Secretaría de Fiscalización y Rendición de Cuentas y la Auditoría Superior del Estado para el Ejercicio de sus Funciones;
+
+XVII.- Responder a las solicitudes de información que formule cualquier interesado en los términos y modalidades que establezca la ley,
+
+XVIII.- Crear la unidad de Transparencia y el Comité de Transparencia;
+
+XIX.- Controlar el inventario de los bienes muebles o inmuebles, útiles y enseres y el patrimonio general del Servicio Médico, velando por el uso apropiado de los mismos;
+
+XX.- Gestionar y obtener la nómina de su personal y los sueldos asignados;
+
+XXI.- Rendir a las Entidades y Organismos aportantes un informe detallado de la labor técnica y administrativa desarrollada anualmente;
+
+XXII.- Enviar a las unidades financieras de las Entidades y Organismos aportantes, los recibos que amparen las aportaciones y retenciones previstas en esta Ley;
+
+XXIII.- Llevar los registros necesarios para la buena marcha del servicio;
+
+XXIV.- Crear las unidades administrativas necesarias para el buen funcionamiento de la Dirección;
+
+XXV.- Dirigir y autorizar la contabilidad del Servicio Médico en acuerdo del Presidente del Consejo de Administración;
+
+XXVI.- Efectuar los pagos y demás erogaciones que hayan sido autorizados expresamente por el Consejo de Administración;
+
+XXVII.- Llevar el registro actualizado de los trabajadores de las instituciones aportantes, contemplando sueldos y aportaciones mensuales a la Institución, y demás datos que se consideren necesarios para su buen funcionamiento;
+
+XXVIII.- Exigir el pago oportuno de las aportaciones, retenciones y demás ingresos que conforme a esta Ley, debe percibir la Institución;
+
+XXIX.- Depositar en institución bancaria y controlar ingresos y egresos del fondo del Servicio Médico.
+
+XXX.- Rendir, en coordinación con el Presidente del Consejo de Administración, los informes que se establezcan como obligatorios para el Consejo de Administración y los que solicite el Comité Ejecutivo de la Sección 38 del S.N.T.E., o bien el propio Presidente del Consejo de Administración;
+
+XXXI.- Todas las demás que le imponga esta Ley, sus reglamentos, los acuerdos del Consejo de Administración y las que le designe el Presidente del Consejo de Administración.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2016)</small>
+
+ARTICULO 39o A.- El Director General del Consejo de Administración no podrá vender, ceder o gravar los bienes muebles e inmuebles que forman el patrimonio de la Institución, a menos que sea autorizado expresamente para ello por el Consejo de Administración y el Comité Ejecutivo de la Sección 38 del S.N.T.E.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+
+###### ARTICULO 40o.
+
+Son facultades y obligaciones del Comisario:
+
+I.- Exigir a los miembros del Consejo de Administración y al Director General las informaciones y balances del Estado de Cuenta del Servicio Médico, de acuerdo a lo que establece la presente Ley.
+
+II.- Inspeccionar los libros y documentos, así como existencia en Caja, cuando lo estimen necesario conjuntamente con el Síndico;
+
+III.- Asistir a las reuniones del Consejo de Administración, con voz pero sin voto, y proponer las medidas que estimen benéficas para el Servicio Médico;
+
+IV.- Dictaminar sobre los informes trimestrales, anuales y generales que rinda el Consejo de Administración, haciendo las observaciones que juzguen convenientes. Podrán para estos efectos auxiliarse del Director General. El dictamen que rindan tendrá los efectos jurídicos, contables y fiscales que en derecho correspondan, y
 
 V.- En general, vigilar la gestión del Consejo de Administración para que el servicio se preste con eficiencia, denunciando ante las entidades que representan, las irregularidades que se encuentren a efecto de remediarlas y en su caso, exigir las responsabilidades correspondientes.
 
-###### ARTICULO 40o.
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2016)</small>
+
+ARTICULO 40o A. Son Obligaciones del Síndico:
+
+I. Asistir a las reuniones del Consejo de Administración, con voz pero sin voto, y proponer las medidas que estimen benéficas para el Servicio Médico;
+
+II. Vigilar la correcta aplicación de los recursos que conforman el patrimonio del organismo;
+
+III. Velar por el buen desempeño del Consejo de Administración, del Director General, organismos auxiliares y demás personal del organismo;
+
+IV. Supervisar que los informes del Consejo Directivo, del Director General y de los organismos auxiliares se presenten en tiempo y forma;
+
+V. Realizar en forma coordinada con el Comisario la Inspección los libros y documentos, así como existencias en Caja, cuando lo estimen necesario; y
+
+VI. Las demás que esta ley determine.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+
+###### ARTICULO 41o.
 
 Son obligaciones de los organismos auxiliares:
 
 I.- Colaborar con el Consejo de Administración para la correcta prestación del servicio en su respectiva jurisdicción;
 
-II.- Autorizar los servicios médicos que soliciten en su respectiva jurisdicción, los derecho-habientes y beneficiarios;
+II.- Representar al Servicio Médico y ejecutar los Acuerdos del Consejo de Administración en el ámbito de su competencia;
 
-III.- Informar al Consejo de Administración sobre el movimiento del servicio médico en su jurisdicción, cuando sean requeridos para ello;
+III.- Realizar todas las operaciones inherentes al Organismo Auxiliar.
 
-IV.- Las demás que le señale esta Ley y su reglamento.
+IV.- Manejar las cuentas bancarias del Organismo Auxiliar, con la autorización del Consejo de Administración y del Director General;
 
-###### ARTICULO 41o.
+V.- Constituir y retirar toda clase de depósitos, con los requisitos establecidos en la fracción anterior;
 
-Cuando se presente una denuncia por grave irregularidad del Servicio Médico, él o los funcionarios o empleados presuntos responsables, serán separados de inmediato de sus cargos, supliéndolos los que designe el Consejo de Administración y si el presunto responsable fuere uno de sus miembros, lo suplirá en sus funciones el suplente.
+VI.- Presentar las necesidades de (sic) personal al Consejo de Administración;
 
-Practicada la información de la denuncia, si resultare procedente, en su caso se consignará al o los responsables ante las autoridades competentes. De resultar improcedente la denuncia, se reinstalará en su cargo a quien o quienes hubieren sido suspendidos.
+VII.- Representar al Organismo Auxiliar en las gestiones judiciales o extrajudiciales de su competencia;
+
+VIII.- Someter a la decisión del Consejo de Administración los asuntos que excedan el ámbito de su competencia;
+
+IX.- Vigilar las labores del personal exigiendo el debido cumplimiento;
+
+X.- Solicitar al Consejo de Administración de la Institución, a través del Director General, la autorización de los servicios médicos que soliciten en su respectiva jurisdicción, los derecho-habientes y beneficiarios;
+
+XI.- Rendir al Consejo de Administración y al Director General los informes que les sean solicitados;
+
+XII.- Resolver bajo su inmediata y directa responsabilidad los asuntos urgentes de carácter médico, a condición de informar al Consejo de Administración a la brevedad posible;
+
+XIII.- Todas las demás que le imponga esta Ley, sus reglamentos, los acuerdos del Consejo de Administración y las que le designe el Director del Consejo de Administración.
 
 ### CAPITULO SEXTO.
 
@@ -429,47 +741,83 @@ I.- Los trabajadores en servicio activo;
 
 II.- Los pensionados que cumplan con las contribuciones al fondo del Servicio Médico;
 
-III.- Los Maestros de Mérito que cumplan con las contribuciones al fondo del Servicio Médico;
+III.- (DEROGADA, P.O. 8 DE ENERO DE 2016)
 
-IV.- Los trabajadores que se separen del servicio activo para cumplir desempeño de función sindical o puesto de elección popular, siempre que contribuyan al fondo del Servicio Médico.
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2016)</small>
+
+IV.- Los trabajadores que se separen temporalmente del servicio activo, siempre que contribuyan con el total de las aportaciones al fondo del Servicio Médico.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2016)</small>
+
+###### ARTICULO 42o.
+
+A.- El Director General del Organismo Auxiliar no podrá vender, ceder o gravar los bienes muebles e inmuebles que forman el patrimonio de la Institución.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
 
 ###### ARTICULO 43o.
 
-Son beneficiarios de las prestaciones que esta Ley otorga:
+Cuando se presente una denuncia por grave irregularidad del Servicio Médico, él o los funcionarios o empleados presuntos responsables, serán separados de inmediato de sus cargos, supliéndolos los que designe el Consejo de Administración y si el presunto responsable fuere uno de sus miembros, lo sustituirá en sus funciones quien sea designado en los términos previstos por el Artículo 30.
 
-I.- El cónyuge del derecho-habiente;
+Practicada la información de la denuncia, si resultare procedente, en su caso se consignará al o los responsables ante las autoridades competentes. De resultar improcedente la denuncia, se reinstalará en su cargo a quien o quienes hubieren sido suspendidos.
 
-II.- Los hijos menores de catorce años de edad o mayores de ésta y hasta los dieciocho años de edad, cuando sean estudiantes, siempre que dependan económicamente del trabajador derecho-habiente, o estén física o mentalmente impedidos para trabajar, cualquiera que sea su edad;
-
-A falta de los anteriores, podrán serlo;
-
-III.- Los padres del derecho-habiente, siempre que dependan en forma económica de él; si no hubiere ninguno de los beneficiarios previstos en los incisos anteriores, podrán serlo;
-
-IV.- Quienes públicamente se ostenten ante la sociedad como hijos adoptivos del trabajador derecho-habiente, aunque no se hayan operado las formalidades legales del procedimiento y reúnan los requisitos señalados en la Fracción Il de este artículo y residan en el mismo domicilio del trabajador;
-
-V.- Quienes públicamente se ostenten ante la sociedad como padres del trabajador derecho-habiente, aunque legalmente no lo hubieren adoptado, dependan económicamente de él, residan en su mismo domicilio o estén física o mentalmente impedidos para trabajar.
-
-Los beneficiarios que por derecho propio sean titulares de prestaciones similares a las que otorga esta Ley y puedan percibirlas en cualquiera otra institución de seguridad social, se excluyen de los beneficios que ésta concede.
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
 
 ###### ARTICULO 44o.
 
-Para recibir las prestaciones que esta Ley otorga, los derecho-habientes y beneficiarios deberán exhibir ante los empleados o funcionarios del Servicio Médico, la tarjeta de control o identificación que para el caso les sea expedida.
+Son derecho-habientes de las prestaciones que esta Ley otorga:
+
+I.- Los trabajadores en servicio activo;
+
+II.- Los pensionados que cumplan con las aportaciones al fondo del Servicio Médico;
+
+III.- Los trabajadores que se separen temporalmente del servicio activo, siempre que contribuyan con el total de las aportaciones al fondo del Servicio Médico.
 
 ### CAPITULO SEPTIMO.
 
 DE LAS RESPONSABILIDADES Y SANCIONES.
 
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
+
 ###### ARTICULO 45o.
 
-Los miembros del Consejo de Administración, los Comisarios, los organismos auxiliares y personal del Servicio Médico, así como las personas que a título profesional o técnico sean llamados a colaborar con aquellos, estarán sujetos a las responsabilidades en que pudieran incurrir como encargados de la prestación de servicios públicos.
+Son beneficiarios de las prestaciones que esta Ley otorga:
+
+I.- El cónyuge o concubino(a) del derechohabiente, siempre y cuando no gozaran de Servicio Médico por derecho propio en Institución Pública de Salud;
+
+II.- Los hijos menores de dieciocho años de edad o mayores de ésta y hasta los veinticuatro años once meses de edad siempre que sean estudiantes y dependan económicamente del trabajador derechohabiente; y los hijos que estén física o mentalmente impedidos para trabajar, cualquiera que sea su edad y lo certifique autoridad competente, y
+
+III.- A falta de los anteriores, podrán serlo los padres del derechohabiente siempre que dependan en forma económica de él y sean certificados por autoridad competente y no hubiere ninguno de los beneficiarios previstos en los incisos anteriores. Si los padres gozaran de servicio Médico en Institución Pública de Salud, por derecho propio, no podrán ser beneficiarios de las prestaciones de esta Ley.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
 
 ###### ARTICULO 46o.
 
-Se equipará al fraude y se sancionará como tal, en los términos del Código Penal vigente, al obtener las prestaciones que esta Ley otorga sin tener derecho a ellas, valiéndose de cualquier engaño, simulación, substitución de personas o cualquier otro acto de artificio o mala fe.
+Para recibir las prestaciones que esta Ley otorga, los derechohabientes y beneficiarios deberán exhibir ante los empleados o funcionarios del Servicio Médico, la tarjeta de control o identificación que para el caso les sea expedida por la Institución.
+
+> <small>(REFORMADO, P.O. 8 DE ENERO DE 2016)</small>
 
 ###### ARTICULO 47o.
 
-El Servicio Médico tomará las medidas pertinentes en contra de quien o quienes indebidamente aprovechen o hagan mal uso de los derechos y prestaciones que esta Ley otorga y ejercitará ante los tribunales las acciones que correspondan, presentará las denuncias, formulará las querellas y realizará todos los actos y gestiones que legalmente procedan, así como contra cualesquiera que cause daño o perjuicio en su patrimonio, o traten de realizar cualesquiera de los actos anteriormente citados.
+Los miembros del Consejo de Administración, de los organismos auxiliares y el personal del Servicio Médico estarán sujetos a las responsabilidades en que pudieran incurrir como encargados de la prestación de servicios públicos.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2016)</small>
+
+###### ARTICULO 48o.
+
+Se sancionará conforme a los reglamentos internos y las leyes aplicables a los derechohabientes, a los beneficiarios y a los trabajadores del propio Servicio Médico que hicieren mal uso comprobado de los servicios y a toda persona que valiéndose de engaños, simulación, substitución de personas o cualquier otro acto de artificio o mala fe obtenga las prestaciones que esta ley otorga sin tener derecho a ellas.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2016)</small>
+
+###### ARTICULO 49o.
+
+El Servicio Médico se reserva el derecho de emprender acciones legales en contra de quien o quienes indebidamente aprovechen o hagan mal uso de los derechos y prestaciones que esta Ley otorga.
+
+> <small>(ADICIONADO, P.O. 8 DE ENERO DE 2016)</small>
+
+###### ARTICULO 50o.
+
+La Institución, en cumplimiento a la Norma General de Control Interno, constituirán un Comité de Control Interno.
 
 T R A N S I T O R I O S
 
@@ -517,7 +865,7 @@ CECILIA YANET BABÚN MORENO
 
 (RÚBRICA)
 
-IMPRÍMASE, COMUNíQUESE Y OBSÉRVESE.
+IMPRÍMASE, COMUNÍQUESE Y OBSÉRVESE.
 
 Saltillo, Coahuila, 5 de Mayo de 2011
 
@@ -544,3 +892,21 @@ EL SECRETARIO DE EDUCACIÓN Y CULTURA
 PROFR. ANDRÉS MENDOZA SALAS
 
 (RÚBRICA)
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 8 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 347.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SERVICIO MÉDICO PARA LOS TRABAJADORES DE LA EDUCACIÓN DEL ESTADO DE COAHUILA”.]
+
+###### ARTÍCULO PRIMERO.
+
+Este decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado. Las disposiciones relativas a la administración serán aplicables a los 180 días siguientes a la entrada en vigor.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan las disposiciones que se opongan al presente decreto.
+
+###### ARTÍCULO TERCERO.
+
+El Consejo de Administración contará con un plazo no mayor a 30 días para emitir los reglamentos correspondientes.
