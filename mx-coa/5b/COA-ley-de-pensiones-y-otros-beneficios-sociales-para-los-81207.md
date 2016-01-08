@@ -4,7 +4,7 @@ identifier: "COA-ley-de-pensiones-y-otros-beneficios-sociales-para-los-81207"
 country: "mx"
 rank: "ley"
 publication_date: "2011-05-06"
-last_updated: "2011-05-06"
+last_updated: "2016-01-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81207&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES DE LA EDUCACION PUBLICA DEL ESTADO DE COAHUILA
 
-LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES DE LA EDUCACION PUBLICA DEL ESTADO DE COAHUILA
+LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES DE LA EDUCACIÓN PÚBLICA DEL ESTADO DE COAHUILA
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO DÉCIMO NOVENO DE LA LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES DE LA EDUCACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADA EN EL P.O. 8 DE ENERO DE 2016; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR A LOS TREINTA DÍAS DESPUÉS DE SU PUBLICACIÓN EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2016 (ABROGADA).
 
 Ley publicada en la primera sección del Periódico Oficial del Estado de Coahuila, el viernes 6 de mayo de 2011.
 
@@ -1378,3 +1380,199 @@ EL SECRETARIO DE EDUCACIÓN Y CULTURA
 PROFR ANDRÉS MENDOZA SALAS
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 344.- LEY DE PENSIONES Y OTROS BENEFICIOS SOCIALES PARA LOS TRABAJADORES DE LA EDUCACIÓN PÚBLICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- La presente Ley entrará en vigor 30 días después de su publicación en el Periódico Oficial del Gobierno del Estado. Las disposiciones relativas a la administración de la Dirección de Pensiones serán aplicables 180 días siguientes a la entrada en vigor, en tanto la administración se llevará acabo de conformidad a las disposiciones de la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores de la Educación Pública del Estado de Coahuila, publicada el 6 de Mayo de 2011.
+
+SEGUNDO.- Los trabajadores que estén disfrutando una pensión a la fecha de entrada en vigor de la presente Ley, la mantendrán en los términos y condiciones en los que la hayan adquirido.
+
+TERCERO.- Se considerarán trabajadores en transición a aquellos que ingresaron al servicio con fecha anterior al 1 de Enero de 2001.
+
+CUARTO.- Los trabajadores en transición que al 1 de Enero de 2001 tuvieran derecho adquirido para disfrutar alguna de las pensiones otorgadas por la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores de la Educación Pública de Coahuila, publicada el 28 de Junio de 1975, mantendrán su derecho.
+
+QUINTO.- Los trabajadores en transición que tuvieran derecho adquirido para disfrutar alguna de las pensiones otorgadas por la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores de la Educación Pública del Estado de Coahuila, publicada el 6 de Mayo de 2011, mantendrán su derecho.
+
+SEXTO.- El incremento a pensiones a que se refiere el artículo 67 para los trabajadores en transición será al mismo tiempo y en el mismo porcentaje en que se incrementen los sueldos del personal activo.
+
+SÉPTIMO.- A los trabajadores en transición que presten sus servicios en la Universidad Autónoma de Coahuila, les aplicarán las directrices siguientes:
+
+I. El sueldo regulador será el promedio ponderado de los sueldos tabulares actualizados con el que aportó el trabajador en transición más su prima de antigüedad durante los últimos 6 años.
+
+En caso de que el trabajador tuviera más de una plaza en la Institución en los últimos 6 años, el salario regulador se calculará con la suma de los sueldos tabulares y prima de antigüedad de cada una de las plazas con el valor actual.
+
+II. Los requisitos para acceder a la pensión por vejez serán contar con 60 años de edad y al menos 20 años de servicio.
+
+El monto de la pensión será la suma de un porcentaje del sueldo regulador descrito en la fracción anterior de acuerdo con las siguientes reglas:
+
+a) 70% si la antigüedad en el servicio es de 20 años.
+
+b) En caso de tener más de 20 años de servicio, se debe calcular la parte adicional. Se suma al 70% anterior, el resultado de dividir 30% entre la diferencia de antigüedad requerida para acceder a la pensión de acuerdo a la fracción III de este artículo menos 20 y multiplicado por cada año de servicio en exceso de 20. La pensión total máxima no podrá exceder el 100%.
+
+III. El requisito para acceder a la pensión por antigüedad en el servicio será contar con una antigüedad mínima de acuerdo con la siguiente tabla en función de la antigüedad que el trabajador tuviera en el año 2003:
+
+> <small>[N. DE E. VÉASE TABLA EN LA SEGUNDA SECCIÓN DEL P.O. DE 8 DE ENERO DE 2016, PÁGINA 24.]</small>
+
+El monto de esta pensión será el 100% del sueldo regulador descrito en la fracción I de este artículo.
+
+IV. Las aportaciones ordinarias a la Dirección de Pensiones por parte de los trabajadores universitarios, serán del 11.5% de su sueldo base y prima de antigüedad.
+
+En caso de que el trabajador tuviera más de una plaza en la Institución la aportación ordinaria descrita en el párrafo anterior se calculará con la suma de los sueldos base y prima de antigüedad de cada una de las plazas.
+
+V. Las aportaciones de la Universidad Autónoma de Coahuila serán del 27% del sueldo base de los trabajadores que dependan de ellas. Ese porcentaje se adicionará, en los casos que corresponda, con el 2% que representa la aportación que venía depositando a la Cuenta Concentradora para el retiro para conformar un total del 29%.
+
+En caso de que el trabajador tuviera más de una plaza en la Institución la aportación descrita en el párrafo anterior se calculará con la suma de los sueldos base y prima de antigüedad de cada una de las plazas que tenga el trabajador.
+
+VI. Con cargo a la Cuenta Institucional de la Universidad Autónoma de Coahuila, se pagará a los trabajadores que, reuniendo los requisitos exigidos para jubilarse permanezcan en servicio activo, un estímulo económico, que será estimado y pagado anualmente, consistente en una cantidad equivalente hasta el 25% sobre el sueldo tabular y la prima de antigüedad de acuerdo con las posibilidades económicas de la Cuenta Institucional.
+
+VII. Con relación al concepto de Ahorro para el Retiro, la Universidad Autónoma de Coahuila, entregará al fondo solidario de su Cuenta Institucional, las cantidades que, desde el año de 2002 depositaba a favor de sus trabajadores, por concepto de aportación a la cuenta concentradora del Ahorro para el Retiro.
+
+OCTAVO.- A los trabajadores en transición afiliados a la Sección 38 del SNTE, les aplicarán las directrices siguientes:
+
+Los trabajadores en transición que a la fecha de la entrada en vigor de esta Ley tuvieran derecho adquirido para disfrutar alguna de las pensiones otorgadas por la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores de la Educación Pública de Coahuila mantendrán su derecho.
+
+I. Para los trabajadores que durante los cinco años anteriores a su retiro venían desempeñando el mismo puesto, el sueldo regulador se establecerá con base en el último sueldo tabular y quinquenio o prima de antigüedad percibidos
+
+Para los trabajadores que desempeñaron distintos puestos durante los últimos cinco años anteriores a su retiro, considerando también la zona económica en que laboró, el sueldo regulador se establecerá tomando en cuenta el sueldo tabular y quinquenio o prima de antigüedad vigentes al momento del retiro de todos los puestos desempeñados y se promediarán los sueldos vigentes que correspondan a cada uno de los puestos ocupados, en relación al tiempo durante el cual dichos puestos fueron desempeñados.
+
+Las aportaciones a la Dirección de Pensiones por parte de las entidades y organismos a que se refiere (sic) las fracciones I, y IV del artículo 2º de esta ley será igual a un porcentaje del sueldo tabular y quinquenio o prima de antigüedad que tengan asignada los trabajadores en nómina de acuerdo con la siguiente tabla:
+
+Año Porcentaje
+
+2016 64.50%
+
+2017 65.75%
+
+2018 67.00%
+
+2019 68.25%
+
+2020 en adelante 69.50%
+
+Las aportaciones a las que se refiere esta fracción, formarán parte del patrimonio del Fondo Global de la Cuenta Institucional de la Sección 38 del SNTE.
+
+II. La contribución mensual obligatoria de los trabajadores a la Dirección de Pensiones será igual a un porcentaje del sueldo tabular de acuerdo con la siguiente tabla:
+
+Año Porcentaje
+
+2016 7.00%
+
+2017 7.75%
+
+2018 8.50%
+
+2019 9.25%
+
+2020 10.00%
+
+2021 11.00%
+
+2022 12.00%
+
+2023 en adelante 13.00%
+
+En el caso de los trabajadores que cumplan con los requisitos para obtener una pensión de acuerdo con la fracción siguiente, y sigan en activo, la aportación que estos efectúan se reducirá al 6.5% del sueldo tabular a partir del momento en que den aviso con la documentación respectiva a la Dirección de Pensiones
+
+Además de lo anterior, el trabajador aportará el 6.5% de su quinquenio o prima de antigüedad, sin incluir el sueldo tabular.
+
+III. El requisito para acceder a la pensión por antigüedad en el servicio será contar con una antigüedad mínima de acuerdo con la siguiente tabla en función de la antigüedad que el trabajador tuviera a la entrada en vigor de la presente ley:
+
+> <small>[N. DE E. VÉASE TABLA EN LA SEGUNDA SECCIÓN DEL P.O. DE 8 DE ENERO DE 2016, PÁGINA 26.]</small>
+
+El monto de la pensión será del 100% del sueldo regulador mencionado en la fracción I de este artículo y será vitalicia con transmisión a beneficiarios de acuerdo con lo establecido en esta Ley.
+
+IV. Tendrán derecho a la pensión por edad avanzada cuando cuenten con al menos 15 años de servicio y cumplan con una edad de acuerdo con la siguiente tabla:
+
+Años Edad Mínima
+
+2016 55
+
+2017 y 2018 56
+
+2019 y 2020 57
+
+2021 y 2022 58
+
+2023 y 2024 59
+
+2025 en adelante 60
+
+El monto de la pensión será el que resulte de la división del 100% del sueldo regulador mencionado en la fracción I de este artículo entre la antigüedad requerida para la pensión de retiro por antigüedad en el servicio establecida en la fracción IV de este artículo, el monto resultante se multiplicará por la antigüedad al momento del retiro sin que éste pueda ser superior al 100% del Salario Regulador. La pensión será vitalicia con transmisión a beneficiarios de acuerdo con lo establecido en esta Ley.
+
+V. A los trabajadores que hayan cubierto los requisitos para obtener su pensión por antigüedad en el servicio, de acuerdo con la fracción IV de este artículo, y decidan permanecer voluntariamente en el ejercicio profesional del magisterio en cualquiera de las entidades y organismos a que se refiere la fracción I, y IV del artículo 2° de esta ley, se les cubrirá un bono del 10% del sueldo integrado anual (sueldo base, quinquenio, prima de antigüedad en su caso, compensación especial, material didáctico, estímulos, titulación, asignación docente, previsión social múltiple y despensa), adicional a lo anterior se entregará 10 días anuales del mismo sueldo integrado. Lo anterior será pagadero en dos emisiones: 5 días y 5% en la segunda quincena del mes de agosto y 5 días y 5%, en la segunda quincena del mes de febrero.
+
+El 10% y los 10 días a que alude el párrafo que antecede se integrará con el 70% que aporten las entidades y organismos a que se refiere (sic) las fracciones I, y IV del artículo 2° de esta ley y con el 30% que aporte la Dirección de Pensiones de los Trabajadores de la Educación de la sección 38 del SNTE.
+
+El bono a que se refiere esta fracción no será considerado para efectos de pensión, cuando ésta proceda, de conformidad con la solicitud del interesado, ni tendrá efectos retroactivos para el caso de quienes a la entrada en vigor de esta disposición tengan uno o más años adicionales al límite del ejercicio profesional establecido en la ley.
+
+VI. Los trabajadores que cumplan con 30 años de servicio en el caso de los hombres y 28 años de servicio en el caso de las mujeres, podrán solicitar una pensión anticipada. El beneficio de esta pensión será el establecido para la pensión por antigüedad en el servicio reducida en un 4% por cada año que le falte para cumplir con la antigüedad requerida en la tabla de la fracción IV de este artículo. Para efectos de este cálculo cualquier fracción de años se considerará como año completo.
+
+VII. Tendrá derecho a la pensión por invalidez el trabajador que cuente con al menos 1 año de servicio y sea inhabilitado física o mentalmente. Para calcular el monto de la pensión se aplicará al sueldo regulador, mencionado en la fracción I de este artículo, el porcentaje en función a la antigüedad de acuerdo a la siguiente tabla:
+
+> <small>[N. DE E. VÉASE TABLA EN LA SEGUNDA SECCIÓN DEL P.O. DE 8 DE ENERO DE 2016, PÁGINA 27.]</small>
+
+La pensión será vitalicia con transmisión a beneficiarios de acuerdo con lo establecido en esta Ley.
+
+VIII. Cuando un trabajador con al menos un año de servicio falleciera, sus familiares en el orden que establece el artículo 83 de esta ley, tienen derecho a una pensión. Para calcular el monto inicial de la pensión se aplicará al sueldo regulador, mencionado en la fracción I de este artículo, el porcentaje en función a la antigüedad, de acuerdo a la siguiente:
+
+> <small>[N. DE E. VÉASE TABLA EN LA SEGUNDA SECCIÓN DEL P.O. DE 8 DE ENERO DE 2016, PÁGINA 27.]</small>
+
+La pensión será de acuerdo a las condiciones y vigencia de derechos establecidos en esta Ley.
+
+NOVENO.- Tratándose de los trabajadores afiliados a la Sección 38 del SNTE con ingreso a partir del 1 de Enero de 2001, las entidades y organismos a que se refiere (sic) las fracciones I y IV del artículo 2 de esta ley, efectuarán cotizaciones a la Dirección de Pensiones adicionales a las que se refiere el artículo 11 fracción I, equivalentes a un porcentaje de la percepción mensual tabular que tengan asignada en nómina, de acuerdo con la siguiente tabla:
+
+Año Porcentaje
+
+2016 42.50%
+
+2017 43.75%
+
+2018 45.00%
+
+2019 46.25%
+
+2020 al 2025 47.50%
+
+2026 en adelante Variable de acuerdo con el siguiente párrafo
+
+A partir del año 2026, las cotizaciones adicionales a que se refiere este artículo sumadas a las cuotas y aportaciones mencionadas en los artículos 11 fracción I y el OCTAVO transitorio fracción II no serán superiores al subsidio que requiera el fondo institucional de la Sección 38 del SNTE para hacer frente a la nómina bruta de las pensiones en curso de pago en cada año. En caso de exceder dicho subsidio, el ajuste se hará en la aportación de las entidades y organismos especificada en la tabla anterior.
+
+Las cotizaciones a las que se refiere este artículo, formarán parte del patrimonio del Fondo Global de la Cuenta Institucional de la Sección 38 del SNTE.
+
+DÉCIMO.- Las aportaciones a que se refieren los artículos Octavo fracción II y III y Noveno transitorios de esta Ley se aplicarán en el mes de Mayo del presente año en conjunto con el incremento salarial de los trabajadores de la Sección 38 y se aplicará retroactivamente siguiendo el mismo mecanismo que se utiliza para el ajuste salarial.
+
+DÉCIMO PRIMERO.- A los trabajadores en transición que presten sus servicios en la Universidad Autónoma Agraria Antonio Narro, les aplicarán las prestaciones establecidas en la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores de la Educación Pública de Coahuila, publicada el 28 de Junio de 1975.
+
+DÉCIMO SEGUNDO.- Para los trabajadores en transición que en los últimos cinco años hayan prestado sus servicios en varias de las entidades u organismos afiliados al sistema pensionario a que se refiere esta ley, que invariablemente no deberán rebasar los límites de compatibilidad existentes en el sistema educativo, se observarán los siguientes criterios para establecer su pensión por antigüedad en el servicio o, en su caso, por vejez:
+
+I. Se considerará como base del cálculo del sueldo regulador correspondiente al 100% del sueldo tabular, quinquenio o prima de antigüedad percibidos en la entidad o institución en la que cumplió los requisitos de retiro, conforme a las disposiciones de la ley; y
+
+II. Se calculará el sueldo regulador de cada uno de los puestos restantes otorgándose adicionalmente el 3.33% para los varones y el 3.57% para las mujeres del sueldo tabular, quinquenio o prima de antigüedad por cada año de servicio en cada una de las entidades u organismos durante toda su vida laboral. La suma de este porcentaje no podrá rebasar el 100% por cada entidad.
+
+DÉCIMO TERCERO.- Los préstamos que se hagan a los trabajadores y pensionados causarán intereses al menos iguales a la tasa pasiva líder anual que rija en el mercado.
+
+En caso de incumplimiento por parte del trabajador o pensionado imputable a ellos, se causarán intereses moratorios a razón de 1.5 veces la tasa a que se refiere el párrafo anterior.
+
+DÉCIMO CUARTO.- Los recursos que integren el patrimonio de la Dirección de Pensiones a que se refiere el artículo 11 de la presente ley, podrán destinarse a las pensiones en curso de pago y de los trabajadores en transición, siempre que no se afecte el pago de las cuentas individuales cuando éstas sean exigibles con un interés superior a la inflación sin que pueda exceder del 2% de tasa real anual.
+
+DÉCIMO QUINTO.- Los trabajadores que hayan ingresado a laborar en alguna de las entidades u organismos a que se refiere el artículo 2° con anterioridad al 1 de Enero de 2001, no adquirirán derecho alguno sobre los fondos globales ni sobre sus cuentas individuales, salvo que, hayan decidido acogerse a las disposiciones previstas en esta ley.
+
+DÉCIMO SEXTO.- El fondo global de los trabajadores en activo al 1 de Enero de 2001, deberá mantener registros contables independientes de aquel fondo que se constituya con las cuotas y aportaciones de aquellos trabajadores que se afiliaron con posterioridad a esa fecha.
+
+Las disposiciones previstas en el artículo 50 de la ley que entra en vigor, no serán aplicables a los trabajadores que hubiesen ingresado al sistema pensionario con anterioridad al 1 de Enero de 2001.
+
+DÉCIMO SÉPTIMO.- Los trámites y procedimientos pendientes de resolución, que se vieran afectados por las disposiciones contenidas en la presente Ley, se resolverán conforme a las disposiciones contenidas en la ley vigente en el momento en que se hubieren iniciado.
+
+DÉCIMO OCTAVO.- Los trabajadores que al momento de entrar en vigor la presente ley gocen de créditos con garantía hipotecaria, los cubrirán conforme a las disposiciones previstas en la ley vigente en el momento en que se inició el crédito.
+
+DÉCIMO NOVENO.- Se abrogan la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores de la Educación Pública del Estado de Coahuila, publicada el 6 de Mayo de 2011 y demás disposiciones que se opongan a esta nueva ley, salvo los casos transitorios en que la ley anterior se aplique ultraactivamente.
+
+Los pensionados que estuvieren aportando de conformidad con dicha ley o disposiciones anteriores, dejarán de hacerlo a los 180 días posteriores a la entrada en vigor del presente decreto.
+
+VIGÉSIMO.- En caso de que se agoten los recursos en cantidad líquida que forman parte del fondo constituido de acuerdo con la fracción III del artículo 11 de esta Ley, cada institución u organismo correspondiente deberá hacerse cargo de esos pensionados y, por ende, deberá continuar cubriendo las prestaciones y beneficios de dichos pensionados con cargo a su Cuenta Institucional. En este caso, la Dirección de Pensiones realizará las transferencias correspondientes para que cada Comité de Administración se haga cargo de sus pensionados.
+
+VIGÉSIMO PRIMERO.- La Dirección de Pensiones contará con un plazo de 90 días contados a partir de la entrada en vigor de la presente Ley para implementar un sistema de información de cuentas individuales, a través del cual los trabajadores puedan consultar el estado que guardan las mismas.
