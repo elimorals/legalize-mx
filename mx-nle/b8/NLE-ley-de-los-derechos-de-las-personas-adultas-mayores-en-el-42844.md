@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-los-derechos-de-las-personas-adultas-mayores-en-el-42844
 country: "mx"
 rank: "ley"
 publication_date: "2005-01-07"
-last_updated: "2010-12-24"
+last_updated: "2016-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42844&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEON
 
-LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEON
+LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE DICIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE ENERO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el viernes 7 de enero de 2005.
 
@@ -233,9 +233,11 @@ V. Coordinar las acciones y promover medidas de financiamiento para la creación
 
 VI. Fomentar e impulsar su atención integral;
 
-VII. Promover, fomentar, difundir y defender el ejercicios de sus derechos, así como las obligaciones de los responsables de estos;
+VII. Promover, fomentar, difundir y defender el ejercicios (sic) de sus derechos, así como las obligaciones de los responsables de estos;
 
-VIII. Aprobar los programas que se establezcan para las Personas Adultas Mayores;
+> <small>(REFORMADA, P.O. 8 DE ENERO DE 2016)</small>
+
+VIII. Aprobar los programas que se establezcan para las Personas Adultas Mayores; específicamente podrá crear un programa de apoyo económico mensual para los Adultos Mayores descritos en la presente Ley, sujeto a lo aprobado en la Ley de Egresos del Estado de Nuevo León.
 
 IX. Procurar que se lleven a cabo las medidas de seguridad pública y de protección civil en los centros educativos, culturales y recreativos; así como acciones preventivas con la participación de la comunidad;
 
@@ -697,7 +699,7 @@ II. Representar a la Procuraduría de la Defensa del Adulto Mayor ante cualquier
 
 III. Aprobar los manuales de organización y de procedimientos administrativos de la Procuraduría de la Defensa del Adulto Mayor;
 
-IV. Rendir un informe bimestral de actividades de la Procuraduría de la Defensa del Adulto Mayor a la Junta de Gobierno del Sistema para el Desarrollo Integral del Estado de Nuevo León, O.P.D., y al Comité Técnico para la Atención a los Adultos Mayores;
+IV. Rendir un informe bimestral de actividades de la Procuraduría de la Defensa del Adulto Mayor a la Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Nuevo León, O.P.D., y al Comité Técnico para la Atención a los Adultos Mayores;
 
 V. Observar las disposiciones que le señalen esta Ley y su Reglamento Interior;
 
@@ -780,5 +782,11 @@ DECRETO NUMERO 135 POR EL QUE SE REFORMAN LOS ARTICULOS 11 PARRAFO PRIMERO; 19; 
 P.O. 24 DE DICIEMBRE DE 2010.
 
 DECRETO NUMERO 144 POR EL QUE SE REFORMAN LOS ARTICULOS 5° FRACCION II INCISOS D) Y E); 12 FRACCIONES IV Y V Y 43; SE ADICIONA UN INCISO F) A LA FRACCIÓN II DEL ARTICULO 5°, Y UNA FRACCIÓN VI AL ARTICULO 12 PASANDO LA VI A SER VII, TODOS DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN.
+
+Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 8 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 030. SE REFORMA LA FRACCIÓN VIII DEL ARTÍCULO 10 DE LA LEY DE LOS DERECHOS DE LAS PERSONAS ADULTAS MAYORES EN EL ESTADO DE NUEVO LEÓN”.]
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
