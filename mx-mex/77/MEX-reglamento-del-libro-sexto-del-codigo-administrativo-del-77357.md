@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-libro-sexto-del-codigo-administrativo-del-77357"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-11-05"
-last_updated: "2010-11-05"
+last_updated: "2016-01-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77357&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MEX"
 ---
 # REGLAMENTO DEL LIBRO SEXTO DEL CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-REGLAMENTO DEL LIBRO SEXTO DEL CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
+REGLAMENTO DEL LIBRO SEXTO DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DEL LIBRO SEXTO DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO, PUBLICADO EN LA G.G. DE 8 DE ENERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 8 DE ENERO DE 2016 (ABROGADO).
 
 Reglamento publicado en la Sección Cuarta de la Gaceta del Gobierno del Estado de México, el viernes 05 de noviembre de 2010.
 
@@ -159,7 +161,7 @@ L. Sistema Estatal: al Sistema Estatal de Protección Civil.
 
 LI. Sistema Municipal: al Sistema Municipal de Protección Civil.
 
-LlI. Sistema Nacional: al Sistema Nacional de Protección Civil.
+LII. Sistema Nacional: al Sistema Nacional de Protección Civil.
 
 LIII. Zona de Desastre: área del subsistema afectable que por el impacto de una calamidad de origen natural o humano, sufre daños, fallas y deterioro en su estructura y funcionamiento normal.
 
@@ -405,7 +407,7 @@ Las dependencias, organismos y entidades de los sectores público, social y priv
 
 El trámite para obtener las autorizaciones, registros y dictámenes, se apegará y resolverá conforme a lo establecido por el Código Administrativo y Código de Procedimientos Administrativos y se estará sujeto a las siguientes reglas específicas:
 
-l. Las solicitudes deberán contener:
+I. Las solicitudes deberán contener:
 
 a) Nombre completo de la persona física o jurídico colectiva solicitante, y en su caso de quien promueve en su nombre, quienes deberán adjuntar a su petición, identificación oficial vigente con fotografía de él o los solicitantes, acta constitutiva, así como el poder notarial, que acredite su personalidad, cuando no se gestione a nombre propio.
 
@@ -443,7 +445,7 @@ La clasificación de generadores por su grado de riesgo, se encuentra determinad
 
 La Secretaría, a través de la Agencia y por conducto de la Dirección General, expedirá autorizaciones para las actividades que enseguida se enuncian:
 
-l. Actos, funciones, espectáculos y diversiones de tipo cultural, artístico, deportivo y otros similares donde se registren concentraciones masivas de población.
+I. Actos, funciones, espectáculos y diversiones de tipo cultural, artístico, deportivo y otros similares donde se registren concentraciones masivas de población.
 
 II. Producción, almacenamiento, manejo, comercialización y disposición final de agentes de alto y mediano riesgo, que se especificarán en la clasificación por giro, contenida en el apéndice de este Reglamento.
 
@@ -493,7 +495,7 @@ Presentada la solicitud de autorización de inicio de operaciones con la documen
 
 La autorización de inicio de operaciones que, en su caso emita la Dirección General, deberá contener:
 
-l. Nombre y domicilio de la persona física o jurídica colectiva que promovió la autorización.
+I. Nombre y domicilio de la persona física o jurídica colectiva que promovió la autorización.
 
 II. Ubicación y descripción del o de los bienes inmuebles, señalando la actividad a que se destinarán éstos.
 
@@ -511,7 +513,7 @@ VI. Fundamentación y motivación.
 
 Para los efectos de este Capítulo, existen los dictámenes siguientes:
 
-l. De Protección Civil.
+I. De Protección Civil.
 
 II. De Viabilidad.
 
@@ -627,7 +629,7 @@ VIII. Pago de derechos de acuerdo al Código Financiero.
 
 El Dictamen de Viabilidad contendrá lo siguiente:
 
-l. Nombre y domicilio de la persona física o jurídico colectiva que promovió la autorización.
+I. Nombre y domicilio de la persona física o jurídico colectiva que promovió la autorización.
 
 II. Ubicación y descripción del o los bienes inmuebles, señalando la actividad a que se destinarán éstos.
 
@@ -665,7 +667,7 @@ La Secretaría, a través de la Agencia, y por conducto de la Dirección General
 
 El Registro, estará integrado por los cinco apartados siguientes:
 
-l. Registro de Programas de Protección Civil.
+I. Registro de Programas de Protección Civil.
 
 II. Registro de Grupos Voluntarios.
 
@@ -689,7 +691,7 @@ Las acciones contenidas en los programas a que se refiere el presente capítulo 
 
 Para la inscripción de los Programas Específicos en el Registro, se debe cumplir con los requisitos siguientes:
 
-l. Solicitud por escrito que cumpla con lo establecido en el artículo 39, del Reglamento.
+I. Solicitud por escrito que cumpla con lo establecido en el artículo 39, del Reglamento.
 
 II. Presentar Programa, en formato impreso y medio magnético, para su evaluación.
 
@@ -709,7 +711,7 @@ El registro deberá revalidarse anualmente, mediante la presentación del Progra
 
 Las dependencias del sector público estatal, deberán presentar ante la Dirección General, sus Programas Internos para su registro, acompañados de los requisitos siguientes:
 
-l. Presentar el Programa, en formato impreso y medio magnético.
+I. Presentar el Programa, en formato impreso y medio magnético.
 
 II. El acta constitutiva de la Unidad Interna, necesariamente, deberá estar suscrita por los integrantes de la misma, la que será actualizada, una vez por año como mínimo.
 
@@ -759,7 +761,7 @@ IV. Pago de derechos de conformidad con lo establecido por el Código Financiero
 
 Los Grupos de Ayuda Mutua, tramitarán su registro ante la Dirección General, para lo cual deberán presentar solicitud por escrito que deberá contener la documentación e información siguiente:
 
-l. Nombre y domicilio del representante del grupo que presenta la solicitud.
+I. Nombre y domicilio del representante del grupo que presenta la solicitud.
 
 II. Documento que acredite la integración del grupo.
 
@@ -781,7 +783,7 @@ Los Análisis de Vulnerabilidad y Riesgo deberán inscribirse en el Registro.
 
 Para su inscripción en el Registro, los Análisis de Vulnerabilidad y Riesgo deberán realizarse en términos de lo establecido en la Norma Técnica que para el caso publique la Dirección General, en el Periódico Oficial, "Gaceta del Gobierno" y cumplir con los requisitos siguientes:
 
-l. Solicitud por escrito que cumpla con lo establecido en el artículo 39, de este Reglamento.
+I. Solicitud por escrito que cumpla con lo establecido en el artículo 39, de este Reglamento.
 
 II. Presentar estudio, en formato impreso y medio magnético, para su evaluación.
 
@@ -811,7 +813,7 @@ III. Impartición de cursos de capacitación en materia de Protección Civil.
 
 Para inscribirse en el Registro, los interesados, deberán presentar los requisitos siguientes:
 
-l. Solicitud por escrito.
+I. Solicitud por escrito.
 
 II. Currículum Vitae, integrado por documentos que acrediten la capacidad técnica y experiencia en materia de protección civil. En caso de personas jurídico colectivas, se deberá incluir el currículum de todos los integrantes.
 
@@ -835,7 +837,7 @@ La inscripción tendrá una vigencia por el año fiscal correspondiente, debién
 
 Para realizar el trámite de renovación de la inscripción, los interesados deberán presentar lo siguiente:
 
-l. Inscripción del año inmediato anterior.
+I. Inscripción del año inmediato anterior.
 
 II. Constancia de actualización de conocimientos en materia de Protección Civil, correspondiente al año en que se realice el trámite.
 
@@ -857,7 +859,7 @@ Dichos informes no tendrán efectos de carácter fiscal.
 
 El Programa Estatal se integrará por los subprogramas siguientes:
 
-l. De Prevención.
+I. De Prevención.
 
 II. De Auxilio.
 
@@ -935,7 +937,7 @@ El Subprograma de Recuperación se integra con las estrategias y acciones necesa
 
 El Subprograma de Recuperación contendrá, por lo menos lo siguiente:
 
-l. Los requerimientos humanos, técnicos, materiales y financieros necesarios para procurar el restablecimiento a la normalidad.
+I. Los requerimientos humanos, técnicos, materiales y financieros necesarios para procurar el restablecimiento a la normalidad.
 
 II. Las estrategias para el funcionamiento de los servicios básicos.
 
@@ -1047,7 +1049,7 @@ Se podrá imponer una o más sanciones de las previstas en este artículo por un
 
 Cuando se impongan sanciones por infracciones a las disposiciones del Libro y al presente Reglamento, excepto las que sean fijas, la motivación de la resolución considerará las circunstancias siguientes:
 
-l. La gravedad de la infracción en que se incurra.
+I. La gravedad de la infracción en que se incurra.
 
 II. Los antecedentes del infractor.
 
@@ -1061,7 +1063,7 @@ V. El monto del beneficio, daño o perjuicio económico, derivado de la infracci
 
 Serán sancionadas con multa las infracciones siguientes:
 
-l. De mil a tres mil días de salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, a quien:
+I. De mil a tres mil días de salario mínimo general vigente del área geográfica que corresponda al momento de cometer la infracción, a quien:
 
 a) No cuente con registro de la Secretaría, estando obligado a obtenerlo.
 
@@ -1081,7 +1083,7 @@ III. De cuatro mil uno a cinco mil días de salario mínimo general vigente del 
 
 Serán solidariamente responsables:
 
-l. Los propietarios, poseedores, administradores, representantes, organizadores y demás responsables involucrados en las violaciones de lo establecido en el Libro y en el presente Reglamento.
+I. Los propietarios, poseedores, administradores, representantes, organizadores y demás responsables involucrados en las violaciones de lo establecido en el Libro y en el presente Reglamento.
 
 II. Quienes ejecuten, ordenen o favorezcan las acciones u omisiones constitutivas de infracción.
 
@@ -1119,4 +1121,22 @@ LIC. LUIS ENRIQUE MIRANDA NAVA
 
 (RUBRICA).
 
-> <small>N. DE E. VEASE APENDICE EN LA SECCION CUARTA DE LA G.G. DE 5 DE NOVIEMBRE DE 2010, PAGINAS DE LA 21 A LA 44.</small>
+> <small>N. DE E. VÉASE APÉNDICE EN LA SECCIÓN CUARTA DE LA G.G. DE 5 DE NOVIEMBRE DE 2010, PÁGINAS DE LA 21 A LA 44.</small>
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.G. 8 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DEL LIBRO SEXTO DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Reglamento en el periódico oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el periódico oficial "Gaceta del Gobierno".
+
+TERCERO. Se abroga el Reglamento del Libro Sexto del Código Administrativo del Estado de México, publicado en el periódico oficial "Gaceta del Gobierno" el 5 de noviembre de 2010.
+
+Los procedimientos, contratos, convenios o inconformidades administrativas iniciados al amparo del Reglamento que se abroga se sustanciarán y resolverán conforme a las disposiciones del mismo ordenamiento.
+
+CUARTO. Dentro de los 90 días hábiles siguientes a la fecha en que entre en vigor el presente Reglamento, la Secretaría publicará la Norma Técnica para la elaboración de Programas Internos y Específicos de Protección Civil.
+
+QUINTO. Se derogan las disposiciones de igual o menor jerarquía que se opongan al presente Reglamento.
