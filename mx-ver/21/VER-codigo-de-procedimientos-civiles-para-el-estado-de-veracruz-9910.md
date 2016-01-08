@@ -4,7 +4,7 @@ identifier: "VER-codigo-de-procedimientos-civiles-para-el-estado-de-veracruz-991
 country: "mx"
 rank: "codigo"
 publication_date: "1932-10-13"
-last_updated: "2015-01-27"
+last_updated: "2016-01-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 27 DE ENERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE ENERO DE 2016.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 13 de octubre de 1932.
 
@@ -3931,13 +3931,17 @@ ARTICULO 526
 
 Se da el recurso de queja en contra de los ejecutores o secretarios, por omisiones y negligencias en el desempeño de sus funciones.
 
-> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 1992)</small>
+> <small>(REFORMADO, G.O. 8 DE ENERO DE 2016)</small>
 
 ARTICULO 527
 
-El recurso de queja en contra del Juez, se presentará ante él mismo, dentro de los dos días que sigan al acto reclamado. Dentro del término de tres días de interpuesto el recurso, el juez de los autos remitirá a la Secretaría General del Tribunal Superior de Justicia o en su caso a su superior inmediato, informe con justificación, acompañando al mismo copia legible de las constancias conducentes; recibido éste, el superior dentro del tercer día, decidirá lo que corresponda.
+El recurso de queja en contra del Juez, se presentará ante el mismo, dentro de los dos días que sigan al acto reclamado. Dentro del término de tres días de interpuesto el recurso, el juez de los autos remitirá a la Secretaría General del Tribunal Superior de Justicia o, en su caso, a su superior inmediato, informe con justificación, acompañando al mismo copia legible de las constancias conducentes; recibido éste, el superior, dentro del tercer día, decidirá lo que corresponda.
 
-De proceder el recurso en el caso de la fracción III del artículo 525, en la resolución se dispondrá que el inferior admita y tramite la apelación conforme a las reglas contenidas en el Capítulo Primero de este Título.
+En todo momento se estará a lo siguiente:
+
+I. De proceder el Recurso de queja, se pondrá a vista de la contraparte en caso de que sea un juicio contencioso para que, dentro del término de dos días, manifieste lo que a sus intereses convenga y señale constancias para su substanciación en segunda instancia; y
+
+II. De proceder el recurso en el caso de la fracción III del artículo 525, en la resolución se dispondrá que el inferior admita y tramite la apelación conforme a las reglas contenidas en el Capítulo Primero de este Título.
 
 > <small>(REFORMADO, G.O. 31 DE MARZO DE 1988)</small>
 
@@ -6203,7 +6207,13 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 354: SE ADICIONA UN ARTÍCULO DÉCIMO PRIMERO AL DECRETO NÚMERO 152, QUE CONTIENE EL CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES”.]
+G.O. 8 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 840 QUE REFORMA EL ARTÍCULO 527 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 355.- SE ADICIONA EL ARTÍCULO 251 DEL CÓDIGO ELECTORAL DEL ESTADO DE AGUASCALIENTES".]
 
