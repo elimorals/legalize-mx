@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-proteccion-civil-para-el-estado-de-zacatecas-82646"
 country: "mx"
 rank: "ley"
 publication_date: "2011-08-20"
-last_updated: "2013-03-23"
+last_updated: "2016-01-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2016.
 
 Ley publicada en el suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 20 de agosto de 2011.
 
@@ -151,6 +151,10 @@ VI. Legalidad, control, eficacia, racionalidad, equidad, transparencia y rendici
 
 VII. Honradez y respeto a los derechos humanos.
 
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2016)</small>
+
+VIII. La inclusión y la accesibilidad, con el fin de proteger debidamente a las personas con discapacidad, especialmente a los niños, las niñas y las personas adultas mayores con discapacidad, para proteger su integridad, sus bienes y su entorno.
+
 > <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 23 DE MARZO DE 2013)</small>
 
 B. En la emisión de normas técnicas complementarias y términos de referencia que prevé esta Ley:
@@ -179,6 +183,10 @@ La prevención en situación normal, las acciones de auxilio a la población y r
 
 Todas las edificaciones, excepto en casas habitación unifamiliares, deberán colocar en lugares visibles, la señalización adecuada para casos de emergencia.
 
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2016)</small>
+
+La señalización en edificios públicos, centros educativos y oficinas de Gobierno deberá reproducirse en medios alternativos y aumentativos de comunicación para personas con discapacidad, además se deberán instalar guías táctiles en zonas de seguridad y rutas de evacuación.
+
 ## TÍTULO TERCERO. Del Sistema Estatal de Protección Civil
 
 ### CAPÍTULO I. De las Autoridades
@@ -191,7 +199,7 @@ l. El Gobernador del Estado;
 
 II. El Consejo Estatal de Protección Civil;
 
-IlI. El Director Estatal de Protección Civil;
+III. El Director Estatal de Protección Civil;
 
 IV. Los Consejos Municipales de Protección Civil;
 
@@ -239,7 +247,11 @@ e) Establecer, reforzar y ampliar la ejecución de acciones de prevención para 
 
 f) Informar a la población de acuerdo a los márgenes establecidos de alertamiento respecto de una situación de probable riesgo; y
 
-g) Las demás que sean afines a las anteriores y que coadyuven a la operación de los Programas de Protección Civil.
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2016)</small>
+
+g) Considerar en todas sus decisiones y acciones, la inclusión de personas con discapacidad, reconociendo su alta vulnerabilidad durante los desastres naturales y las emergencias humanitarias; y
+
+h) Las demás que sean afines a las anteriores y que coadyuven a la operación de los Programas de Protección Civil.
 
 ###### Artículo 17.
 
@@ -384,6 +396,10 @@ XIV. Integrar de entre sus miembros los comités o comisiones que sean necesario
 XV. Promover en los Ayuntamientos, la integración de Sistemas Municipales para la participación de éstos en el Sistema Estatal; y
 
 XVI. Promover la creación de un fondo para administrar, toda donación destinada a la protección civil en el Estado de Zacatecas.
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2016)</small>
+
+XVII. Promover acciones que permitan identificar la situación de riesgo, reducir la vulnerabilidad y garantizar la protección de las personas con discapacidad.
 
 ###### Artículo 24.
 
@@ -537,7 +553,19 @@ XXV. Elaborar y mantener actualizado un registro de personas físicas o morales 
 
 XXVI. Emitir opinión respectos de los permisos, licencias o renovación de las mismas para el manejo de explosivos de conformidad a lo establecido en la Ley Federal de Armas de Fuego y Explosivos; y
 
-XXVII. Las demás que le confieran la Ley, su Reglamento y el Titular del Ejecutivo Estatal.
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2016)</small>
+
+XXVII. Inspeccionar y promover las condiciones de accesibilidad en los inmuebles, con la finalidad de identificar, reducir los riesgos y definir las acciones de protección civil para las personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2016)</small>
+
+XXVIII. Difundir la información de los programas, planes y acciones de protección civil entre la población con discapacidad, en medios alternativos y aumentativos de comunicación, en especial lenguaje Braille y lengua mexicana de señas;
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2016)</small>
+
+XXIX. Promover la participación de las personas con discapacidad en los simulacros de desastres naturales y emergencias, así como en la elaboración de los programas de Protección Civil, a fin de definir los mecanismos adecuados para su salvaguarda durante las contingencias; y
+
+XXX. Las demás que le confieran la Ley, su Reglamento y el Titular del Ejecutivo Estatal.
 
 ## TÍTULO CUARTO. Del Sistema Municipal de Protección Civil
 
@@ -565,7 +593,7 @@ I. Leyes y Reglamentos Federales, Estatales y Municipales;
 
 II. Normas Oficiales Mexicanas relacionadas con la materia;
 
-IlI. Convenios de coordinación y colaboración;
+III. Convenios de coordinación y colaboración;
 
 IV. Los objetivos, políticas, estrategias y criterios definidos en los Planes Estatal y Municipal de Desarrollo;
 
@@ -609,7 +637,7 @@ I. El Presidente Municipal, quién lo presidirá;
 
 II. El Secretario del Ayuntamiento, quién será el Secretario Ejecutivo;
 
-IlI. El Titular de la Unidad Municipal de Protección Civil del Municipio, quién será el Secretario Técnico;
+III. El Titular de la Unidad Municipal de Protección Civil del Municipio, quién será el Secretario Técnico;
 
 IV. Los titulares de las Direcciones dependientes del Ayuntamiento cuyas funciones se vinculen con el Sistema Municipal; y
 
@@ -695,7 +723,7 @@ I. Administración;
 
 Il. Apoyo logístico;
 
-lII. Comunicaciones y transportes;
+III. Comunicaciones y transportes;
 
 IV. Sanidad y salud;
 
@@ -739,7 +767,23 @@ IX. Proporcionar la información que les sea requerida por las autoridades compe
 
 X. Prestar apoyo en caso de siniestro en cualquier parte de la Entidad, cuando así se les requiera por parte de las autoridades de protección civil, con el personal y equipo especializado de que dispongan y que deberá estar registrado en el Atlas Estatal de Riesgos; y
 
-XI. Las demás que determinen la presente Ley, las autoridades competentes y otras disposiciones aplicables.
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2016)</small>
+
+XI. Identificar y corregir las condiciones que no permitan una accesibilidad plena en los inmuebles para las personas con discapacidad, que obstaculicen o impidan su salvaguarda, evacuación y protección;
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2016)</small>
+
+XII. Prestar apoyo a las personas con discapacidad que se encuentren en sus instalaciones durante una contingencia, garantizando su prioridad para la salvaguarda, evacuación y protección;
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2016)</small>
+
+XIII. Incluir dentro de sus planes de contingencia, simulacros y demás acciones necesarias, las disposiciones pertinentes para atender a las personas con discapacidad;
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2016)</small>
+
+XIV. Atender las recomendaciones sobre accesibilidad que realice la autoridad competente, realizando los ajustes razonables que el caso requiera; y
+
+XV. Las demás que determinen la presente Ley, las autoridades competentes y otras disposiciones aplicables.
 
 ###### Artículo 54.
 
@@ -1025,6 +1069,10 @@ IV. Promover, en los medios de comunicación masiva, campañas permanentes de di
 
 V. Disponer de un espacio informativo previo a la celebración de eventos deportivos, espectáculos públicos, funciones de cine o teatro, al igual que reuniones públicas, en el cual se den a conocer a los asistentes las medidas de seguridad en el inmueble o espacio que ocupan. Las modalidades para el cumplimiento de esta obligación se señalarán en el reglamento correspondiente.
 
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2016)</small>
+
+VI. Promover la inclusión de las personas con discapacidad en la cultura de la protección civil, reconociendo que su vulnerabilidad no se debe a su condición de discapacidad, sino a la ausencia de accesibilidad e inclusión en su entorno.
+
 ###### Artículo 89.
 
 La Dirección, con la intervención que corresponda de los sectores público, social y privado, coordinará campañas permanentes de capacitación y concientización en materia de protección civil.
@@ -1302,3 +1350,11 @@ Dentro del término de noventa días naturales contados a partir de la vigencia 
 ###### ARTÍCULO CUARTO.
 
 Los Ayuntamientos, en el término de ciento veinte días naturales a partir de la vigencia del presente Decreto, deberán publicar en sus Gacetas Municipales y en el Periódico Oficial, Órgano del Gobierno del Estado, todas las disposiciones normativas de carácter general que hayan sido generadas antes de la entrada en vigor del presente Decreto. Remitiendo en medio impreso y de forma magnética los instrumentos jurídicos a la Coordinación General Jurídica del Gobierno del Estado para su trámite de publicación.
+
+P.O. 9 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 428.- SE ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE ZACATECAS”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Las dependencias y entidades de los Poderes Públicos del Estado, los Ayuntamientos y los órganos autónomos deberán prever en su proyecto de presupuesto para el siguiente ejercicio fiscal, los recursos necesarios para comenzar con las adecuaciones que derivan del presente Decreto.
