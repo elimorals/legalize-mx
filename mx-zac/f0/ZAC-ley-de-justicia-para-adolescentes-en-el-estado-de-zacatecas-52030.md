@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-justicia-para-adolescentes-en-el-estado-de-zacatecas-520
 country: "mx"
 rank: "ley"
 publication_date: "2006-09-30"
-last_updated: "2009-01-28"
+last_updated: "2016-01-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52030&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "ZAC"
 ---
 # LEY DE JUSTICIA PARA ADOLESCENTES EN EL ESTADO DE ZACATECAS
 
+> <small>[N. DE E. DE CONFORMIDAD CON LA LEY NACIONAL DEL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES, PUBLICADA EN EL D.O.F. DE 16 DE JUNIO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO. TRANSITORIOS: ARTÍCULO PRIMERO. VIGENCIA PARA LOS EFECTOS SEÑALADOS EN EL PÁRRAFO TERCERO DEL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 18 DE JUNIO DE 2008, SE DECLARA QUE LA PRESENTE LEGISLACIÓN INCORPORA EL SISTEMA PROCESAL PENAL ACUSATORIO Y ENTRARÁ EN VIGOR EL 18 DE JUNIO DE 2016. LOS REQUERIMIENTOS NECESARIOS PARA LA PLENA OPERACIÓN DEL SISTEMA INTEGRAL DE JUSTICIA PENAL PARA ADOLESCENTES DEBERÁN ESTAR INCORPORADOS EN UN PLAZO NO MAYOR A TRES AÑOS A PARTIR DE LA FECHA DE ENTRADA EN VIGOR DEL PRESENTE DECRETO. ARTÍCULO SEGUNDO. ABROGACIÓN SE ABROGA LA LEY PARA EL TRATAMIENTO DE MENORES INFRACTORES PARA EL DISTRITO FEDERAL EN MATERIA COMÚN Y PARA TODA LA REPÚBLICA EN MATERIA FEDERAL, PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 24 DE DICIEMBRE DE 1991 Y SUS POSTERIORES REFORMAS. SE ABROGAN TAMBIÉN LAS LEYES RESPECTIVAS DE LAS ENTIDADES FEDERATIVAS VIGENTES A LA ENTRADA EN VIGOR DEL PRESENTE DECRETO, PARA EFECTOS DE SU APLICACIÓN EN LOS PROCEDIMIENTOS PENALES PARA ADOLESCENTES INICIADOS POR HECHOS QUE OCURRAN A PARTIR DE LA ENTRADA EN VIGOR DE LA PRESENTE LEY. ARTÍCULO TERCERO. CARGA CERO LOS PROCEDIMIENTOS PENALES PARA ADOLESCENTES QUE A LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO SE ENCUENTREN EN TRÁMITE, CONTINUARÁN SU SUSTANCIACIÓN DE CONFORMIDAD CON LA LEGISLACIÓN APLICABLE EN EL MOMENTO DEL INICIO DE LOS MISMOS.]</small>
+
 LEY DE JUSTICIA PARA ADOLESCENTES EN EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2008.
-
-> <small>[N. DE E. LA FE DE ERRATAS PUBLICADA EN EL P.O. EL 28 DE ENERO DE 2009 NO APLICA AL ARTICULADO DEL DECRETO # 229 PUBLICADO EN EL P.O. DE 24 DE DICIEMBRE DE 2008.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2016.
 
 Ley publicada en el Suplemento No. 78 del Periódico Oficial del Estado de Zacatecas, el sábado 30 de septiembre de 2006.
 
@@ -1359,9 +1359,11 @@ Demostrado ante el juez de ejecución la imposibilidad material del cumplimiento
 
 La ejecución de las medidas sancionadoras deberá procurar que el adolescente sancionado alcance su desarrollo personal integral, la inserción a su familia y a la sociedad así como el desarrollo pleno de sus capacidades y su sentido de responsabilidad.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO E 2016)</small>
+
 ###### Artículo 156.
 
-Para lograr los objetivos de la ejecución de las medidas sancionadoras del adolescente se promoverá:
+Para lograr los objetivos de la ejecución de las medidas sancionadoras del adolescente se realizarán las siguientes acciones:
 
 I. Satisfacer las necesidades básicas del adolescente sancionado;
 
@@ -1376,6 +1378,10 @@ V. Minimizar los efectos negativos que la sanción pudiera tener en su vida futu
 VI. Fomentar, cuando sea posible y conveniente, los vínculos familiares y sociales que contribuyan a su desarrollo personal, y
 
 VII. Promover los contactos abiertos entre el adolescente y la comunidad local.
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO E 2016)</small>
+
+VIII. Garantizar el derecho del adolescente a recibir educación básica obligatoria.
 
 #### Sección segunda. Principios generales y derechos durante la ejecución
 
@@ -2008,3 +2014,11 @@ Artículo sexto.- Dentro de los noventa días naturales siguientes a la publicac
 Artículo séptimo.- En el Presupuesto de Egresos del Estado para el ejercicio fiscal 2009, deberán incluirse las partidas correspondientes para el funcionamiento de la Secretaría de Seguridad Pública.
 
 Artículo octavo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 9 DE ENERO E 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 448.- SE REFORMA Y SE ADICIONA LA LEY DE JUSTICIA PARA ADOLESCENTES EN EL ESTADO DE ZACATECAS".]
+
+PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan las disposiciones que se opongan al presente ordenamiento.
