@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-instituto-chihuahuense-de-la-cultura-11964"
 country: "mx"
 rank: "ley"
 publication_date: "1991-01-19"
-last_updated: "2014-07-05"
+last_updated: "2016-01-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11964&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DEL INSTITUTO CHIHUAHUENSE DE LA CULTURA
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 859/2012, PUBLICADO EN EL P.O. 26 DE SEPTIEMBRE DE 2012, CUANDO EN CUALQUIER OTRO INSTRUMENTO JURÍDICO SE HAGA REFERENCIA A LA SECRETARÍA DE FOMENTO SOCIAL, SE ENTENDERÁ CITADA A LA SECRETARÍA DE DESARROLLO SOCIAL.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 19 de enero de 1991.
 
@@ -111,9 +111,13 @@ VII.- Ser el órgano representativo del Gobierno del Estado en materia cultural;
 
 VIII.- Diseñar, ejecutar, instrumentar y dar seguimiento a programas y proyectos tendientes a garantizar el ejercicio de los derechos lingüísticos y culturales de los pueblos y las comunidades indígenas.
 
-> <small>(ADICIONADA, P.O. 5 DE JULIO DE 2014)</small>
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2016)</small>
 
-IX.- Las demás que señala esta Ley y otras disposiciones legales aplicables.
+IX.- Diseñar programas y gestionar espacios adecuados para el desarrollo del denominado Arte Urbano.
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2016)</small>
+
+X.- Las demás que señala esta Ley y otras disposiciones legales aplicables.
 
 > <small>(REFORMADO, P.O. 25 DE DICIEMBRE DE 1999)</small>
 
@@ -399,7 +403,7 @@ El presente Decreto entrará en vigor el día siguiente de su publicación en el
 
 ###### ARTÍCULO SEGUNDO.
 
-Se abroga el Decreto 670/85 que en su momento creó al Centro de Información del Estado de Chihuahua.
+Se abroga el Decreto 670/85 que en su momento creó el Centro de Información del Estado de Chihuahua.
 
 ###### ARTÍCULO TERCERO.
 
@@ -442,3 +446,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 A partir de la entrada en vigor del presente Decreto, el Poder Ejecutivo del Estado contará con ciento cuarenta días hábiles para modificar y adecuar a las nuevas disposiciones, el reglamento correspondiente.
+
+P.O. 9 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 880/2015 II P.O., MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN IX Y SE ADICIONA UNA FRACCIÓN X, AMBAS AL ARTÍCULO 4 DE LA LEY DEL INSTITUTO CHIHUAHUENSE DE LA CULTURA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
