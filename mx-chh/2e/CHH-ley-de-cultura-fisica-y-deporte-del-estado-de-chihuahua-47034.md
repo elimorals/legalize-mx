@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-cultura-fisica-y-deporte-del-estado-de-chihuahua-47034"
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-19"
-last_updated: "2014-07-16"
+last_updated: "2016-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47034&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE CHIHUAHUA
 
 > <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO No. 859/2012 VII P.E., PUBLICADO EN EL P.O. 26 DE SEPTIEMBRE DE 2012, CUANDO EN CUALQUIER OTRO INSTRUMENTO JURÍDICO SE HAGA REFERENCIA A LA SECRETARÍA DE FOMENTO SOCIAL, SE ENTENDERÁ CITADA A LA SECRETARÍA DE DESARROLLO SOCIAL SIN QUE ELLO AFECTE SU COMPETENCIA, DERECHOS U OBLIGACIONES QUE HAYA CONTRAÍDO CON ANTELACIÓN A LA ENTRADA EN VIGOR DEL CITADO DECRETO.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2016.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 19 de noviembre de 2005.
 
@@ -130,6 +130,10 @@ IV Bis.- Secretaría: Secretaría de Educación, Cultura y Deporte.
 V.- Sistema: El Sistema Estatal de Cultura Física y Deporte;
 
 VI.- Instituto: El Instituto Chihuahuense del Deporte y Cultura Física;
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2016)</small>
+
+VI Bis.- Comité: El Comité de Impulso al Deporte.
 
 > <small>(REFORMADA, P.O. 16 DE JULIO DE 2014)</small>
 
@@ -783,6 +787,38 @@ El Consejo tendrá como sede la Capital del Estado, sin perjuicio de que ocasion
 
 Asimismo, podrán ser invitados a participar con voz pero sin voto, aquellas personalidades distinguidas de los sectores social y privado que tengan alguna vinculación o aportaciones con la cultura física y deporte.
 
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2016)</small>
+
+###### Artículo 31 Bis.
+
+Para lograr el adecuado cumplimiento de los fines del Instituto, se apoyará de un órgano de gestión llamado Comité de Impulso al Deporte, el cual estará integrado por:
+
+I. El Director del Instituto Chihuahuense del Deporte y Cultura Física.
+
+II. Un representante de la Comisión de Juventud y Deporte del H. Congreso del Estado.
+
+III. Un representante de las asociaciones deportivas debidamente registradas en el Sistema.
+
+IV. Un representante de las sociedades deportivas debidamente registradas en el Sistema.
+
+V. Un representante de los deportistas de alto rendimiento.
+
+VI. Hasta cinco integrantes del sector privado que representen a los principales municipios de la Entidad.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2016)</small>
+
+###### Artículo 31 Ter.
+
+El Comité tiene las siguientes atribuciones:
+
+I. Promover en el ámbito estatal el otorgamiento de estímulos fiscales a los sectores social y privado por las acciones que desarrollen a favor de la cultura física y el deporte.
+
+II. Procurar aportaciones de los diversos órdenes de gobierno y del sector privado, para el desarrollo del deporte desde la etapa de iniciación hasta el alto rendimiento.
+
+III. Impulsar la participación de la iniciativa privada en coordinación con el sector público y social, para el diseño de una política que permita a la población en general la práctica de un deporte.
+
+IV. Las demás que deriven de esta Ley u otros ordenamientos legales.
+
 #### SECCIÓN SEGUNDA. DE LOS ÓRGANOS MUNICIPALES DE CULTURA FÍSICA Y DEPORTE
 
 ###### Artículo 32.
@@ -965,13 +1001,13 @@ En ausencia del Presidente, en cualquiera de las sesiones, uno de los miembros d
 
 Cuando la ausencia del Presidente sea definitiva, el titular del Ejecutivo Estatal designará de entre los Miembros Titulares, a quien deba sustituirlo para que concluya el periodo respectivo. Ante la ausencia definitiva de cualquiera de los Miembros Titulares, el titular del Ejecutivo Estatal, designará a quien deba sustituirlo para que concluya el periodo respectivo.
 
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
 
 ###### Artículo 44-A.
 
 El Ejecutivo Estatal expedirá las normas reglamentarias necesarias para la integración y funcionamiento de la Comisión. Asimismo, proporcionará anualmente el presupuesto para su funcionamiento.
 
-> <small>(ADICIONADO, P.O. 16 DE JULIO DE 2014)</small>
+> <small>(ADICIONADA, P.O. 16 DE JULIO DE 2014)</small>
 
 ###### Artículo 44-B.
 
@@ -2208,3 +2244,11 @@ El Instituto desarrollará las nuevas atribuciones que le confiere el presente D
 ###### ARTÍCULO CUARTO.
 
 Las modificaciones necesarias al Reglamento Interior del Instituto se harán dentro de los noventa días siguientes a la entrada en vigor del presente Decreto y deberá inscribirse en el Registro Público de organismos descentralizados.
+
+P.O. 9 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1030/2015 I P.O., MEDIANTE EL CUAL SE ADICIONA LA FRACCIÓN VI BIS AL ARTÍCULO 3, ASÍ COMO LOS ARTÍCULOS 31 BIS Y 31 TER, TODOS DE LA LEY DE CULTURA FÍSICA Y DEPORTE DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
