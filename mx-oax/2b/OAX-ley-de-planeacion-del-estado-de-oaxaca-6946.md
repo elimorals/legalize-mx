@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-planeacion-del-estado-de-oaxaca-6946"
 country: "mx"
 rank: "ley"
 publication_date: "1985-08-17"
-last_updated: "2004-09-25"
+last_updated: "2016-01-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6946&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "OAX"
 ---
 # LEY DE PLANEACION DEL ESTADO DE OAXACA
 
-LEY DE PLANEACION DEL ESTADO DE OAXACA
+LEY DE PLANEACIÓN DEL ESTADO DE OAXACA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 25 DE SEPTIEMBRE DE 2004.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DE LA LEY ESTATAL DE PLANEACIÓN, PUBLICADA EN EL P.O. DE 9 DE ENERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el sábado 17 de agosto de 1985.
 
@@ -63,7 +65,7 @@ V.- Las bases para promover y garantizar la participación democrática de los p
 
 VI.- Las bases para que las acciones de los particulares contribuyan a lograr los objetivos y metas de los planes y programas a que se refiere esta Ley.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
 
 ###### ARTICULO 2o.
 
@@ -161,7 +163,7 @@ Las disposiciones reglamentarias de esta Ley establecerán las normas de organiz
 
 Para efectos de la planeación y programación definidos en el Sistema Estatal de Planeación Democrática, el Estado se dividirá territorialmente de acuerdo a la regionalización determinada para el establecimiento de los Subcomités Regionales del Comité Estatal de Planeación para el Desarrollo de Oaxaca.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
 
 ###### ARTICULO 17.
 
@@ -285,7 +287,7 @@ Los programas especiales se referirán a las prioridades del desarrollo integral
 
 Los planes y programas a que se refieren los Artículos anteriores, especificarán las acciones que serán objeto de coordinación entre los Gobiernos de los Municipios, del Estado, y de la Federación, así como de inducción o concertación con los grupos sociales interesados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 2004)</small>
 
 ###### ARTICULO 30.
 
@@ -405,8 +407,26 @@ LIC. JUSTINIANO CARBALLIDO GONZALEZ.- Rúbrica.
 
 Al C. .....
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 25 DE SEPTIEMBRE DE 2004.
 
 UNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 9 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚM. 1385.- MEDIANTE EL CUAL SE EXPIDE LA LEY ESTATAL DE PLANEACIÓN”.]
+
+PRIMERO. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO. Se abroga el Decreto No. 89, publicado el diecisiete de agosto de mil novecientos ochenta y cinco en el Periódico Oficial del Estado, por el que se expidió la Ley de Planeación del Estado de Oaxaca; así como los decretos en los que se hayan aprobado reformas, adiciones y derogaciones subsecuentes; y todas las disposiciones legales o administrativas, de igual o menor rango, que se opongan o contradigan la presente Ley.
+
+TERCERO. La Secretaría de Administración deberá realizar la compensación de gasto necesario para la incorporación de las Unidades de Planeación y Evaluación en las Unidades de Administración de las Dependencias y Entidades Estatales a que se refiere la presente Ley.
+
+CUARTO. El Reglamento de esta Ley deberá expedirse a más tardar a los trescientos sesenta y cinco días naturales posteriores a la publicación de la presente Ley en el Periódico Oficial del Estado y establecerá los procedimientos, mecanismos, criterios y estándares de las disposiciones específicas contenidas en ésta Ley.
+
+QUINTO. Los Municipios con cincuenta mil o más habitantes, a través de sus instancias de planeación organizarán y pondrán en funcionamiento los Bancos de proyectos de Inversión Pública, en un plazo máximo de un año, contados a partir de la entrada en vigencia de la presente Ley.
+
+Los demás Municipios establecerán los Bancos de proyectos de Inversión Pública, en los términos que establezca el Reglamento, teniendo en cuenta las características de operación y plazo para la puesta en funcionamiento de éstos.
+
+SEXTO. Para los efectos del artículo 43 fracción I, de la presente Ley, en el primer año del periodo constitucional de la administración pública no se realizará la evaluación de referencia.
