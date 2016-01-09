@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-educacion-del-estado-de-zacatecas-100194"
 country: "mx"
 rank: "ley"
 publication_date: "2014-04-02"
-last_updated: "2014-04-02"
+last_updated: "2016-01-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=100194&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE EDUCACIÓN DEL ESTADO DE ZACATECAS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2016.
 
 Ley publicada en el Suplemento 5 del Periódico Oficial del Estado de Zacatecas, el miércoles 2 de abril de 2014
 
@@ -299,7 +299,13 @@ IV. Editar libros y producir otros materiales en sistema braille, macro textos, 
 
 V. Prestar servicios bibliotecarios accesibles en infraestructura y materiales, procurando contar con servicios a población abierta para la enseñanza del sistema braille y el lenguaje de señas; y
 
-VI. El municipio auxiliará a equipar y mantener el edificio escolar.
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2016)</small>
+
+VI. El municipio auxiliará a equipar y mantener el edificio escolar; y
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2016)</small>
+
+VII. Promover la investigación y el desarrollo de la ciencia, la tecnología y la innovación, y fomentar su enseñanza, diseminación en acceso abierto y su divulgación, cuando el conocimiento científico y tecnológico sea financiado con recursos públicos o que se haya utilizado infraestructura pública en su realización, sin perjuicio de las disposiciones en materia de patentes, protección de la propiedad intelectual o industrial, seguridad nacional, derechos de autor, entre otras, así como aquella información que, por razón de su naturaleza o decisión del autor, sea confidencial o reservada.
 
 El Estado podrá convenir, coordinar y unificar actividades educativas a las que se refiere esta Ley, manteniendo siempre el control de las facultades no reservadas a la federación.
 
@@ -1894,3 +1900,17 @@ PROFR. FRANCISCO ESCOBEDO VILLEGAS.
 EL SECRETARIO DE EDUCACIÓN
 
 PROFR. MARCO VINICIO FLORES CHÁVEZ.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO]</small>
+
+P.O. 9 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 439.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE ZACATECAS Y DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE ZACATECAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que contravengan el presente Decreto.
