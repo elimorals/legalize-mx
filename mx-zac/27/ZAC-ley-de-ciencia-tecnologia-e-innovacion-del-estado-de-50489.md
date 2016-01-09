@@ -4,7 +4,7 @@ identifier: "ZAC-ley-de-ciencia-tecnologia-e-innovacion-del-estado-de-50489"
 country: "mx"
 rank: "ley"
 publication_date: "2006-05-13"
-last_updated: "2014-12-31"
+last_updated: "2016-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=50489&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2016.
 
 Ley publicada en el Suplemento al Periódico Oficial del Estado de Zacatecas, el sábado 13 de mayo de 2006.
 
@@ -107,13 +107,17 @@ XIV. Difundir la información científica y tecnológica en la entidad.
 
 XV. Crear las condiciones para que las universidades y las instituciones de educación superior del Estado puedan vincularse con el sector productivo y de servicios del país;
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2016)</small>
 
-XVI. Impulsar la tecnología y la innovación de las empresas que desarrollen sus actividades en el territorio del Estado, en particular en aquellos sectores en los que existen condiciones para generar nuevas tecnologías y lograr mayor competitividad, y
+XVI. Impulsar la tecnología y la innovación de las empresas que desarrollen sus actividades en el territorio del Estado, en particular en aquellos sectores en los que existen condiciones para generar nuevas tecnologías y lograr mayor competitividad;
 
-> <small>(ADICIONADA, P.O. 21 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2016)</small>
 
-XVII. Establecer el sistema presupuestal y contable que permita identificar plenamente el monto destinado por el Gobierno del Estado a ciencia, tecnología e innovación. La organización y funcionamiento de este sistema quedarán establecidos en el estatuto orgánico.
+XVII. Establecer el sistema presupuestal y contable que permita identificar plenamente el monto destinado por el Gobierno del Estado a ciencia, tecnología e innovación. La organización y funcionamiento de este sistema quedarán establecidos en el estatuto orgánico; y
+
+> <small>(ADICIONADA, P.O. 9 de ENERO DE 2016)</small>
+
+XVIII. Promover el desarrollo, la vinculación y la diseminación de la investigación científica que se derive de todas aquellas actividades de investigación, el desarrollo de tecnología y la innovación, que se asocien al mejoramiento de la calidad del sistema educativo y la expansión de las fronteras del conocimiento apoyándose en las nuevas tecnologías de la información y comunicación, y en su caso, por medio del uso de plataformas de acceso abierto, todo con el fin de procurar que la ciencia, tecnología e innovación se conviertan en elementos fundamentales de la cultura y la educación de la sociedad en el Estado de Zacatecas.
 
 > <small>(ADICIONADO, P.O. 21 DE AGOSTO DE 2010)</small>
 
@@ -191,9 +195,17 @@ XXIII. CONACYT: El Consejo Nacional de Ciencia y Tecnología;
 
 XXIV. Junta Directiva: La Junta Directiva del COZCYT; y
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2016)</small>
 
-XXV. Consejo Asesor: Órgano colegiado de consulta del sistema del COZCYT y de los sectores productivos y sociales, en materia de ciencia, tecnología e innovación.
+XXV. Consejo Asesor: Órgano colegiado de consulta del sistema del COZCYT y de los sectores productivos y sociales, en materia de ciencia y tecnología;
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2016)</small>
+
+XXVI. Diseminación: La transmisión de información científica, tecnológica y de innovación desarrollada por investigadores, especialistas e instituciones, y que se utiliza un lenguaje especializado; y
+
+> <small>(ADICIONADA, P.O. 9 DE ENERO DE 2016)</small>
+
+XXVII. Acceso Abierto: El acceso a través de una plataforma digital y sin requerimientos de suscripción, registro o pago, a las investigaciones, materiales educativos, académicos, científicos, tecnológicos y de innovación, financiados con recursos públicos o que hayan utilizado infraestructura pública en su realización, sin perjuicio de las disposiciones en materia de patentes, protección de la propiedad intelectual o industrial, seguridad nacional, derechos de autor, entre otras, así como aquella información que, por razón de su naturaleza o decisión del autor, sea confidencial o reservada.
 
 ## TÍTULO SEGUNDO. De las Autoridades
 
@@ -1722,3 +1734,15 @@ Primero.- El presente Decreto entrará en vigor el día siguiente al de su publi
 Segundo.- Se derogan todas las disposiciones que contravengan el contenido del presente Decreto.
 
 Tercero.- En un plazo no mayor de 180 días contados a partir de la entrada en vigor del presente Decreto, el Ejecutivo Estatal deberá expedir el Reglamento del Campus de Innovación Tecnológica.
+
+P.O. 9 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 439.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE EDUCACIÓN DEL ESTADO DE ZACATECAS Y DE LA LEY DE CIENCIA, TECNOLOGÍA E INNOVACIÓN DEL ESTADO DE ZACATECAS”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado Libre y Soberano de Zacatecas.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que contravengan el presente Decreto.
