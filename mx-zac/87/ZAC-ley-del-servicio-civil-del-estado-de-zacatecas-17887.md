@@ -4,7 +4,7 @@ identifier: "ZAC-ley-del-servicio-civil-del-estado-de-zacatecas-17887"
 country: "mx"
 rank: "ley"
 publication_date: "1996-09-11"
-last_updated: "2015-03-21"
+last_updated: "2016-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17887&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Zacatecas, el miércoles 11 de septiembre de 1996.
 
@@ -819,11 +819,11 @@ Las y los trabajadores percibirán una prima adicional al salario, equivalente a
 
 Todas y todos los trabajadores que cuenten con más de diez años de servicios, tendrán derecho a cinco días más laborables por concepto de vacaciones en cada periodo.
 
-> <small>(REFORMADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2016)</small>
 
 ###### Artículo 54.
 
-Las mujeres disfrutarán de un mes de descanso antes de la fecha en que aproximadamente se fije para el parto y de otros dos después del mismo. Durante la lactancia por lo menos seis meses, tendrá un descanso extraordinario por día de una hora, para amamantar a sus hijos. Para determinar los descansos a que se refiere este artículo, la interesada exhibirá los certificados médicos, que establezcan la fecha aproximada del parto y que hagan saber la fecha en que sucedió el mismo.
+Las mujeres disfrutarán de un mes de descanso antes de la fecha en que aproximadamente se fije para el parto y de otros dos después del mismo. Durante la lactancia, por lo menos seis meses, tendrán dos descansos extraordinarios por día, de media hora cada uno, para amamantar a sus hijos. Para determinar los descansos a que se refiere este artículo, la interesada exhibirá los certificados médicos, que establezcan la fecha aproximada del parto y que hagan saber la fecha en que sucedió el mismo.
 
 > <small>(ADICIONADO, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -1013,9 +1013,13 @@ e) Para acudir a los citatorios expedidos por autoridad.
 
 IX.- Conceder a las y los trabajadores el tiempo necesario para el ejercicio del voto en las elecciones populares y para el cumplimiento de los servicios de jurados, electorales y censales a que se refiere el artículo 5o. de la Constitución General de la República, cuando estas actividades deban cumplirse dentro de su jornada de trabajo;
 
-> <small>(ADICIONADA, P.O. 9 DE JUNIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2016)</small>
 
-X.- Acondicionar un espacio lactario en cada centro de trabajo para que sean alimentados los infantes cuya nutrición sea por lactancia materna, así como conceder a las madres trabajadoras que la estén proporcionando, los tiempos necesarios que requieran para amamantar a sus hijos, permitiéndose el ingreso de los infantes al área acondicionada para tal efecto;
+X.- Acondicionar un espacio lactario adecuado e higiénico con el equipo necesario, en cada centro de trabajo para que sean alimentados los infantes cuya nutrición sea por lactancia materna o para la extracción de leche materna, así como para mantener la leche en condiciones óptimas de refrigeración. Además se deberá conceder a las madres trabajadoras que la estén proporcionando, los tiempos necesarios que requieran para amamantar a sus hijos, permitiéndose el ingreso de los infantes al área acondicionada para tal efecto.
+
+> <small>(ADICIONADO, P.O. 9 DE ENERO DE 2016)</small>
+
+Los tiempos necesarios a que se refiere el párrafo anterior, serán por lo menos de seis meses, a partir del nacimiento del niño, los cuales consistirán en dos reposos extraordinarios por día de media hora cada uno o cuando esto no sea posible y previo acuerdo con la o el titular de la dependencia, se reducirá en una hora su jornada de trabajo durante el periodo señalado;
 
 > <small>(REFORMADA, P.O. 19 DE DICIEMBRE DE 2009)</small>
 
@@ -3404,3 +3408,13 @@ Artículo Primero. La presente reforma entrará en vigor el día siguiente de su
 Artículo Segundo. Se derogan las disposiciones que contravengan este Decreto.
 
 Artículo Tercero. Los juicios iniciados con base en las disposiciones anteriores a la presente reforma deberán concluirse de conformidad con ellas.
+
+P.O. 9 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 449.- SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE ZACATECAS”.]
+
+Artículo primero. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
+
+Artículo segundo. Dentro de los 120 días naturales siguientes a la entrada en vigor del presente Decreto, las Dependencias que regula la presente Ley, deberán contar con el espacio lactario debidamente acondicionado y equipado.
+
+Artículo tercero. Se derogan todas aquellas disposiciones que contravengan el presente Decreto.
