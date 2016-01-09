@@ -4,7 +4,7 @@ identifier: "OAX-ley-estatal-de-derechos-del-estado-de-oaxaca-84808"
 country: "mx"
 rank: "ley"
 publication_date: "2011-12-24"
-last_updated: "2015-12-31"
+last_updated: "2016-01-09"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84808&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "OAX"
 ---
 # LEY ESTATAL DE DERECHOS DEL ESTADO DE OAXACA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 9 DE ENERO DE 2016 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ESTATAL DE DERECHOS DEL ESTADO DE OAXACA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 9 DE ENERO DE 2016.]</small>
 
 Ley publicada en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 24 de diciembre de 2011.
 
@@ -7613,7 +7613,7 @@ título profesional:
 
 k) Duplicado de cédula profesional: 5.00
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2015)</small>
+(REFORMADA SU DENOMINACIÓN, P.O. 31 DE DICIEMBRE DE 2015) (F. DE E., P.O. 9 DE ENERO DE 2016)
 
 ### Capítulo Décimo Cuarto. Por los Servicios que presta la Coordinación General de Educación Media Superior y Superior, Ciencia y Tecnología
 
@@ -7931,7 +7931,9 @@ j) Enmiendas al registro profesional en relación con el 14.00
 
 Título Profesional o grado académico:
 
-### Capítulo Décimo Quinto. Por los Servicios que presta el Instituto Tecnológico de Teposcolula
+> <small>(F. DE E., P.O. 9 DE ENERO DE 2016)</small>
+
+### Capítulo Décimo Quinto. Por los Servicios que presta el Instituto de Estudios de Bachillerato del Estado de Oaxaca
 
 ###### Artículo 93.
 
@@ -7977,9 +7979,9 @@ Pesos
 
 XI Diario de aprendizaje: $37.00
 
-> <small>(ADICIONADA SU DENOMINACIÓN [N. DE E. REFORMADO], P.O. 27 DE DICIEMBRE DE 2014)</small>
+(ADICIONADA SU DENOMINACIÓN [N. DE E. REFORMADO], P.O. 27 DE DICIEMBRE DE 2014) (F. DE E., P.O. 9 DE ENERO DE 2016)
 
-### Capítulo Décimo Sexto. Por los Servicios que presta el Colegio de Bachilleres del Estado de Oaxaca
+### Capítulo Décimo Sexto. Por los Servicios que presta el Instituto Tecnológico de Teposcolula
 
 ###### Artículo 94.
 
@@ -8031,9 +8033,9 @@ XIX Exámen especial foráneo: 35.27
 
 XX Exámen de inglés: 17.64
 
-> <small>(ADICIONADA SU DENOMINACIÓN [N. DE E. REFORMADO], P.O. 27 DE DICIEMBRE DE 2014)</small>
+(ADICIONADA SU DENOMINACIÓN [N. DE E. REFORMADO], P.O. 27 DE DICIEMBRE DE 2014) (F. DE E., P.O. 9 DE ENERO DE 2016)
 
-### Capítulo Décimo Séptimo. Por los Servicios que presta el Colegio de Estudios Científicos y Tecnológicos del Estado de Oaxaca
+### Capítulo Décimo Séptimo. Por los Servicios que presta el Colegio de Bachilleres del Estado de Oaxaca
 
 ###### Artículo 95.
 
@@ -8145,11 +8147,9 @@ Tratándose de estudiantes que acrediten una situación de vulnerabilidad econó
 
 Los beneficios antes señalados no podrán ser acumulables.
 
-> <small>(ADICIONADA SU DENOMINACIÓN [N. DE E. REFORMADO], P.O. 27 DE DICIEMBRE DE 2014)</small>
+(ADICIONADA SU DENOMINACIÓN [N. DE E. REFORMADO], P.O. 27 DE DICIEMBRE DE 2014) (F. DE E., P.O. 9 DE ENERO DE 2016)
 
-### Capítulo Décimo Noveno (SIC). Por los servicios que presta el Instituto de Capacitación y Productividad para el Trabajo del Estado de Oaxaca
-
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+### Capítulo Décimo Octavo. Por los Servicios que presta el Colegio de Estudios Científicos y Tecnológicos del Estado de Oaxaca
 
 ###### Artículo 96.
 
@@ -8275,7 +8275,11 @@ De 8.6 a 9 50%
 
 De 9.1 a 10 100%
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
+(ADICIONADO, P.O. 31 DE DICIEMBRE DE 2015) (F. DE E., P.O. 9 DE ENERO DE 2016)
+
+### Capítulo Décimo Noveno. Por los servicios que presta el Instituto de Capacitación y Productividad para el Trabajo del Estado de Oaxaca
+
+> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2015)</small>
 
 ###### Artículo 97.
 
