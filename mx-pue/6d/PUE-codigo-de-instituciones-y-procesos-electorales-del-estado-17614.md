@@ -4,7 +4,7 @@ identifier: "PUE-codigo-de-instituciones-y-procesos-electorales-del-estado-17614
 country: "mx"
 rank: "codigo"
 publication_date: "2000-10-02"
-last_updated: "2015-08-22"
+last_updated: "2016-01-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17614&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 CÓDIGO DE INSTITUCIONES Y PROCESOS ELECTORALES DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE ENERO DE 2016.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Puebla, el lunes 2 de octubre de 2000.
 
@@ -1425,7 +1425,7 @@ Cuando se trate de elecciones extraordinarias las coaliciones se sujetarán a lo
 
 En todo caso, cada uno de los partidos coaligados deberá registrar lista propia de candidatos a diputados por el principio de representación proporcional.
 
-(NOTA: EL 24 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y DÉCIMO OCTAVO ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 88/2015 Y SUS ACUMULADAS 93/2015 Y 95/2015, DECLARÓ LA INVALIDEZ EN VÍA DE CONSECUENCIA DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 25 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+(NOTA: EL 24 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y DÉCIMO OCTAVO, ASÍ COMO EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 88/2015 Y SUS ACUMULADAS 93/2015 Y 95/2015, DECLARÓ EN VÍA DE CONSECUENCIA LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 25 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 > <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -4165,17 +4165,19 @@ B.- Del inicio y término de las precampañas:
 
 I.- Los procesos internos de los partidos políticos o coaliciones, orientados a seleccionar a sus candidatos que habrán de contender en las elecciones a que se refiere este Código, comprenden la convocatoria, las precampañas y la postulación; aquellos sólo podrán realizarse a partir del inicio del proceso electoral y deberán concluir necesariamente a más tardar en la misma fecha que las precampañas;
 
-(NOTA: EL 24 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 88/2015 Y SUS ACUMULADAS 93/2015 Y 95/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO PRIMERO DE LA FRACCIÓN II DEL APARTADO B DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2016)</small>
 
-> <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
+II.- En el caso de que el proceso electoral tenga como fin la renovación de los Poderes Ejecutivo, o Legislativo, así como miembros de Ayuntamientos, las precampañas no podrán exceder de diez días, y deberán iniciar veinte días previos al inicio del periodo de presentación del registro de candidatos.
 
-II.- EN EL CASO DE QUE EL PROCESO ELECTORAL TENGA COMO FIN LA RENOVACIÓN DE LOS PODERES EJECUTIVO, O LEGISLATIVO ASÍ COMO (SIC) Y MIEMBROS DE AYUNTAMIENTOS, LAS PRECAMPAÑAS NO PODRÁN EXCEDER DE DIEZ DÍAS, Y DEBERÁN REALIZARSE DURANTE LOS DIEZ DÍAS PREVIOS AL INICIO DEL PERIODO DE PRESENTACIÓN DEL REGISTRO DE CANDIDATOS.
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2016)</small>
 
-(NOTA: EL 24 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 88/2015 Y SUS ACUMULADAS 93/2015 Y 95/2015, DECLARÓ LA INVALIDEZ DEL PÁRRAFO SEGUNDO DE LA FRACCIÓN II DEL APARTADO B DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+En el caso de que el proceso electoral tenga como fin la renovación del Poder Legislativo y miembros de Ayuntamientos, las precampañas no podrán exceder de diez días, y deberán iniciar veinte días previos al inicio del periodo de presentación del registro de candidatos.
 
-EN EL CASO DE QUE EL PROCESO ELECTORAL TENGA COMO FIN LA RENOVACIÓN DEL PODER LEGISLATIVO Y MIEMBROS DE AYUNTAMIENTOS, LAS PRECAMPAÑAS NO PODRÁN EXCEDER DE DIEZ DÍAS, Y DEBERÁN REALIZARSE DURANTE LOS DIEZ DÍAS PREVIOS AL INICIO DEL PERIODO DE PRESENTACIÓN DEL REGISTRO DE CANDIDATOS.
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
 Ningún ciudadano podrá participar simultáneamente en procesos de selección interna de candidatos a cargos de elección popular por diferentes partidos políticos, salvo que entre ellos medie convenio para participar en coalición.
+
+> <small>(REFORMADO, P.O. 22 DE AGOSTO DE 2015)</small>
 
 Los partidos políticos fijaran los plazos y duración de sus precampañas según su normatividad interna, pero en ningún momento podrán iniciar o concluir fuera de los plazos establecidos. El tiempo se computará a partir de la fecha en que los aspirantes, en términos de la convocatoria respectiva, queden debidamente registrados ante los órganos competentes responsables de la preparación, organización, conducción y validación del proceso interno.
 
@@ -4347,9 +4349,9 @@ II.- Los cargos para los que se convoca;
 
 III.- Los requisitos para que los ciudadanos emitan los respaldos a favor de los aspirantes;
 
-(NOTA: EL 24 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 88/2015 Y SUS ACUMULADAS 93/2015 Y 95/2015, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DEL PÁRRAFO SEGUNDO DEL APARTADO A DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2016)</small>
 
-IV.- EL CALENDARIO QUE ESTABLEZCA FECHAS, HORARIOS Y DOMICILIOS EN LOS CUALES SE DEBERÁN PRESENTAR LAS SOLICITUDES DE ASPIRANTES Y LA COMPARECENCIA DE LOS CIUDADANOS QUE ACUDAN PERSONALMENTE A MANIFESTARLE SU APOYO;
+IV.- El calendario que establezca fechas, horarios y domicilios en los cuales se deberán presentar las solicitudes de aspirantes;
 
 V.- La forma de llevar a cabo el cómputo de dichos respaldos;
 
@@ -4375,25 +4377,37 @@ C. DE LA OBTENCIÓN DEL APOYO CIUDADANO:
 
 I.- Durante la etapa establecida para tal efecto en la convocatoria, los aspirantes a candidatos independientes, podrán realizar, por medios diversos a la radio y la televisión, actos tendentes a recabar el porcentaje de apoyo ciudadano requerido; dichos actos no deben constituir actos anticipados de campaña;
 
-(NOTA: EL 24 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 88/2015 Y SUS ACUMULADAS 93/2015 Y 95/2015, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DEL APARTADO C DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 9 DE ENERO DE 2016)</small>
 
-II.- LOS CIUDADANOS QUE DECIDAN MANIFESTAR SU RESPALDO A UN DETERMINADO ASPIRANTE A CANDIDATO INDEPENDIENTE, DEBERÁN COMPARECER PERSONALMENTE CON COPIA Y ORIGINAL DE SU CREDENCIAL PARA VOTAR VIGENTE ANTE LOS FUNCIONARIOS ELECTORALES QUE SE DESIGNEN Y LOS REPRESENTANTES QUE, EN SU CASO, ACREDITEN LOS ASPIRANTES A CANDIDATO INDEPENDIENTE, EN LOS INMUEBLES DESTINADOS PARA ELLO. EL APOYO CORRESPONDIENTE SE EXPRESARÁ MEDIANTE EL LLENADO DEL FORMATO QUE AL EFECTO APRUEBE EL CONSEJO GENERAL, MISMO QUE DEBERÁ CONTENER LA FIRMA O HUELLA DEL MANIFESTANTE.
+II.- Los ciudadanos que decidan manifestar su respaldo a un determinado aspirante a candidato independiente lo harán mediante el llenado del formato que al efecto apruebe el Consejo General, mismo que deberá contener la firma o huella digital del ciudadano y copia de su credencial para votar vigente, éste deberá ser presentado ante los funcionarios electorales que se designen y los representantes que, en su caso, acrediten los aspirantes a candidato independiente, en los inmuebles destinados para ello.
 
-LOS PARTIDOS POLÍTICOS O COALICIONES PODRÁN ACREDITAR REPRESENTANTES A FIN DE PRESENCIAR LA RECEPCIÓN DE LOS RESPALDOS CIUDADANOS.
+Los partidos políticos o coaliciones podrán acreditar representantes a fin de presenciar la recepción de los respaldos ciudadanos.
 
-LOS INMUEBLES QUE SE DESTINARÁN PARA LA RECEPCIÓN DE LA MANIFESTACIÓN DEL RESPALDO CIUDADANO SERÁN:
+Los inmuebles que se destinarán para la recepción de la manifestación del respaldo ciudadano serán:
 
-A) PARA ASPIRANTES A CANDIDATO INDEPENDIENTE PARA LA ELECCIÓN DE GOBERNADOR, EN LAS SEDES DE LOS CONSEJOS DISTRITALES QUE CORRESPONDAN AL DOMICILIO DE LOS CIUDADANOS QUE DECIDAN MANIFESTAR SU APOYO, O EN SU CASO, EN LAS OFICINAS DEL CONSEJO GENERAL;
+a) Para aspirantes a candidato independiente para la elección de Gobernador, en las sedes de los Consejos Distritales que correspondan al domicilio de los ciudadanos que decidan manifestar su apoyo, o en su caso, en las oficinas del Consejo General;
 
-B) PARA ASPIRANTES A CANDIDATO INDEPENDIENTE A DIPUTADOS, EN LAS SEDES DE LOS CONSEJOS DISTRITALES QUE CORRESPONDA A LA DEMARCACIÓN POR LA QUE PRETENDA COMPETIR, Y EXCLUSIVAMENTE PARA CIUDADANOS CON DOMICILIO EN EL ÁMBITO TERRITORIAL AL QUE ASPIRA; Y,
+b) Para aspirantes a candidato independiente a Diputados, en las sedes de los Consejos Distritales que corresponda a la demarcación por la que pretenda competir, y exclusivamente para ciudadanos con domicilio en el ámbito territorial al que aspira; y,
 
-C) PARA ASPIRANTES A LOS AYUNTAMIENTOS, EN LA SEDE DEL CONSEJO MUNICIPAL QUE CORRESPONDA A LA DEMARCACIÓN POR LA QUE PRETENDAN COMPETIR, Y EXCLUSIVAMENTE PARA CIUDADANOS CON DOMICILIO EN EL ÁMBITO TERRITORIAL RESPECTIVO.
+c) Para aspirantes a los Ayuntamientos, en la sede del Consejo Municipal que corresponda a la demarcación por la que pretendan competir, y exclusivamente para ciudadanos con domicilio en el ámbito territorial respectivo.
 
 III.- Los actos tendientes a recabar el apoyo ciudadano se financiarán con recursos privados de origen lícito, en los términos de la legislación aplicable, y estarán sujetos al tope de gastos que determine el Consejo General por el tipo de elección para la que se pretenda ser postulado, el que será equivalente al diez por ciento del establecido para las campañas inmediatas anteriores, según la elección de que se trate;
 
-(NOTA: EL 24 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 88/2015 Y SUS ACUMULADAS 93/2015 Y 95/2015, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN IV DEL APARTADO C, DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADA, P.O. 9 DE ENERO DE 2016)</small>
 
-IV.- LOS ACTOS TENDIENTES A RECABAR EL PORCENTAJE DE APOYO CIUDADANO REQUERIDO, ASÍ COMO EL LLENADO DE LOS FORMATOS QUE LO ACREDITEN, SE DEBERÁN REALIZAR INVARIABLEMENTE DURANTE LOS VEINTE DÍAS PREVIOS AL INICIO DEL PERIODO PARA EL REGISTRO DE CANDIDATOS.
+IV.- En el proceso de candidaturas independientes se observará lo siguiente:
+
+a) La Convocatoria deberá emitirse por lo menos treinta días antes de que inicie el plazo programado para recabar el apoyo ciudadano.
+
+b) Los aspirantes contarán con treinta días previos al inicio del periodo de registro de candidatos, para llevar a cabo los actos tendientes a recabar el porcentaje de apoyo ciudadano requerido, así como el llenado de los formatos que lo acrediten.
+
+c) Los ciudadanos que pretendan postular su candidatura independiente a un cargo de elección popular, deberán hacerlo del conocimiento del Instituto por escrito en el formato que éste determine, en un periodo de veinticinco días a partir de la publicación de la Convocatoria.
+
+d) Concluido el periodo previsto en el inciso anterior, el Instituto analizará la documentación presentada.
+
+e) Concluido el análisis, notificará de manera inmediata a los interesados que cumplieron con los requisitos, caso contrario se les concederá un término de veinticuatro horas para subsanar cualquier omisión o error.
+
+f) Concluido el periodo para subsanar, el Consejo General contará con un plazo de dos días para pronunciarse sobre las solicitudes presentadas.
 
 D. DEL REGISTRO DE CANDIDATOS INDEPENDIENTES:
 
@@ -4439,27 +4453,27 @@ ARTÍCULO 201 QUATER.- Los ciudadanos que de manera independiente pretendan ser 
 
 I.- Una relación que contenga el nombre, domicilio, clave de elector y firma autógrafa de cada uno de los ciudadanos que contando con credencial para votar vigente, respalden dicha candidatura en la demarcación correspondiente. De acuerdo con lo siguiente:
 
-(NOTA: EL 24 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y DÉCIMO OCTAVO, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 88/2015 Y SUS ACUMULADAS 93/2015 Y 95/2015, DECLARÓ EN VÍA DE CONSECUENCIA LA INVALIDEZ DEL INCISO A) DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2016)</small>
 
-A) PARA GOBERNADOR DEL ESTADO, DICHA RELACIÓN DEBERÁ CONTENER CUANDO MENOS LA FIRMA DE UNA CANTIDAD DE CIUDADANOS EQUIVALENTE AL 3% DEL PADRÓN ELECTORAL CORRESPONDIENTE A TODO EL ESTADO, Y ESTAR INTEGRADA POR ELECTORES DE POR LO MENOS LAS DOS TERCERAS PARTES DE LOS MUNICIPIOS QUE COMPONEN LA ENTIDAD. EN NINGÚN CASO LA RELACIÓN DE LOS CIUDADANOS POR MUNICIPIO PODRÁ SER MENOR AL DOS POR CIENTO DEL PADRÓN QUE LE CORRESPONDA. LA FECHA DE CORTE DEL PADRÓN ELECTORAL SERÁ AL QUINCE DE DICIEMBRE DEL AÑO ANTERIOR A LA ELECCIÓN.
+a) Para Gobernador del Estado, dicha relación deberá contener cuando menos la firma de una cantidad de ciudadanos equivalente al 3% del listado nominal correspondiente a todo el Estado, y estar integrada por electores de por lo menos las dos terceras partes de los municipios que componen la entidad. En ningún caso la relación de los ciudadanos por municipio podrá ser menor al dos por ciento del listado que le corresponda. La fecha de corte del listado nominal será al quince de diciembre del año anterior a la elección.
 
-(NOTA: EL 24 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SÉPTIMO Y DÉCIMO OCTAVO, ASÍ COMO EN LOS RESOLUTIVOS CUARTO Y QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 88/2015 Y SUS ACUMULADAS 93/2015 Y 95/2015, DECLARÓ EN VÍA DE CONSECUENCIA LA INVALIDEZ DEL INCISO B) DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2016)</small>
 
-B) PARA LA FÓRMULA DE DIPUTADOS DE MAYORÍA RELATIVA, DICHA RELACIÓN DEBERÁ CONTENER CUANDO MENOS LA FIRMA DE UNA CANTIDAD DE CIUDADANOS EQUIVALENTE AL 3% DEL PADRÓN ELECTORAL CORRESPONDIENTE AL DISTRITO DE QUE SE TRATE, Y ESTAR INTEGRADA POR ELECTORES DE POR LO MENOS LAS DOS TERCERAS PARTES DE LOS MUNICIPIOS QUE COMPONEN EL DISTRITO. EN NINGÚN CASO LA RELACIÓN DE LOS CIUDADANOS POR MUNICIPIO PODRÁ SER MENOR AL DOS POR CIENTO DEL PADRÓN QUE LE CORRESPONDE. LA FECHA DE CORTE DEL PADRÓN ELECTORAL SERÁ AL QUINCE DE DICIEMBRE DEL AÑO ANTERIOR A LA ELECCIÓN.
+b) Para la fórmula de Diputados de Mayoría relativa, dicha relación deberá contener cuando menos la firma de una cantidad de ciudadanos equivalente al 3% del listado nominal correspondiente al distrito de que se trate, y estar integrada por electores de por lo menos las dos terceras partes de los municipios que componen el distrito. En ningún caso la relación de los ciudadanos por municipio podrá ser menor al dos por ciento del listado que le corresponde. La fecha de corte del padrón electoral será al quince de diciembre del año anterior a la elección.
 
-PARA EL CASO DE LOS DISTRITOS CUYA CABECERA ES EL MUNICIPIO DE PUEBLA, DICHA RELACIÓN DEBERÁ CONTENER CUANDO MENOS LA FIRMA DE UNA CANTIDAD DE CIUDADANOS EQUIVALENTE AL 3% DEL PADRÓN ELECTORAL CORRESPONDIENTE AL DISTRITO DE QUE SE TRATE, LA CUAL SE INTEGRARÁ POR ELECTORES DE POR LO MENOS LAS DOS TERCERAS PARTES DE LAS SECCIONES ELECTORALES QUE COMPONEN EL DISTRITO. EN NINGÚN CASO LA RELACIÓN DE LOS CIUDADANOS POR SECCIÓN ELECTORAL PODRÁ SER MENOR AL 2% DEL PADRÓN QUE LE CORRESPONDE. LA FECHA DE CORTE DEL PADRÓN ELECTORAL SERÁ AL QUINCE DE DICIEMBRE DEL AÑO ANTERIOR A LA ELECCIÓN.
+Para el caso de los distritos cuya cabecera es el municipio de Puebla, dicha relación deberá contener cuando menos la firma de una cantidad de ciudadanos equivalente al 3% del listado nominal correspondiente al distrito de que se trate, la cual se integrará por electores de por lo menos las dos terceras partes de las secciones electorales que componen el distrito. En ningún caso la relación de los ciudadanos por sección electoral podrá ser menor al 2% del listado que le corresponde. La fecha de corte del listado nominal será al quince de diciembre del año anterior a la elección.
 
-(NOTA: EL 24 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 88/2015 Y SUS ACUMULADAS 93/2015 Y 95/2015, DECLARÓ LA INVALIDEZ DEL INCISO C) DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 25 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 9 DE ENERO DE 2016)</small>
 
-C) PARA LA ELECCIÓN DE PLANILLAS DE AYUNTAMIENTOS DE MUNICIPIOS Y PARA TODAS LAS JUNTAS AUXILIARES EN EL ESTADO, DICHA RELACIÓN DEBERÁ CONTENER CUANDO MENOS LA FIRMA DE UNA CANTIDAD DE CIUDADANOS EN LOS SIGUIENTES TÉRMINOS:
+c) Para la elección de planillas de ayuntamientos de municipios y para todas las Juntas Auxiliares en el Estado, dicha relación deberá contener cuando menos la firma de una cantidad de ciudadanos en los siguientes términos:
 
-EN MUNICIPIOS QUE CUENTEN CON UN PADRÓN ELECTORAL DE HASTA CINCO MIL CIUDADANOS INSCRITOS, SE CONFORMARÁ POR LO MENOS CON EL 5% DE CIUDADANOS CONTEMPLADOS EN EL PADRÓN CORRESPONDIENTE AL MUNICIPIO DE SE TRATE, Y ESTARÁ INTEGRADA POR CIUDADANOS DE POR LO MENOS DOS TERCERAS PARTES DE LAS SECCIONES ELECTORALES QUE LOS INTEGREN.
+En municipios que cuenten con un listado nominal de hasta cinco mil ciudadanos inscritos, se conformará por lo menos con el 3% de ciudadanos contemplados en el listado correspondiente al municipio de se trate, y estará integrada por ciudadanos de por lo menos dos terceras partes de las secciones electorales que los integren.
 
-EN MUNICIPIOS QUE CUENTEN CON UN PADRÓN ELECTORAL SUPERIOR A CINCO MIL CIUDADANOS INSCRITOS, SE CONFORMARÁ POR LO MENOS CON EL 3% DE CIUDADANOS CONTEMPLADOS EN EL PADRÓN CORRESPONDIENTE AL MUNICIPIO DE QUE SE TRATE, Y ESTARÁ INTEGRADA POR CIUDADANOS DE POR LO MENOS DOS TERCERAS PARTES DE LAS SECCIONES ELECTORALES QUE LOS INTEGREN.
+En municipios que cuenten con un listado nominal superior a cinco mil ciudadanos inscritos, se conformará por lo menos con el 3% de ciudadanos contemplados en el listado correspondiente al municipio de que se trate, y estará integrada por ciudadanos de por lo menos dos terceras partes de las secciones electorales que los integren.
 
-PARA EL CASO DEL MUNICIPIO DE PUEBLA LA RELACIÓN SE CONFORMARÁ POR LO MENOS CON EL 3% DE CIUDADANOS INSCRITOS EN EL PADRÓN ELECTORAL DE POR LO MENOS LAS DOS TERCERAS PARTES DE LOS DISTRITOS ELECTORALES UNINOMINALES CON CABECERA EN DICHA DEMARCACIÓN MUNICIPAL, Y ESTARÁ CONFORMADA POR CIUDADANOS DE POR LO MENOS LA MITAD DE LAS SECCIONES ELECTORALES QUE LOS INTEGREN.
+Para el caso del Municipio de Puebla la relación se conformará por lo menos con el 3% de ciudadanos inscritos en el listado nominal de por lo menos las dos terceras partes de los distritos electorales uninominales con cabecera en dicha demarcación municipal, y estará conformada por ciudadanos de por lo menos la mitad de las secciones electorales que los integren.
 
-EN NINGÚN CASO LA RELACIÓN DE LOS CIUDADANOS POR SECCIÓN ELECTORAL Y DISTRITOS SEGÚN SEA EL CASO A LOS QUE HACE MENCIÓN ESTE INCISO PODRÁ SER MENOR AL 2% DEL PADRÓN QUE LE CORRESPONDA. LA FECHA DE CORTE DEL PADRÓN ELECTORAL SERÁ AL QUINCE DE DICIEMBRE DEL AÑO ANTERIOR A LA ELECCIÓN.
+En ningún caso la relación de los ciudadanos por sección electoral y distritos según sea el caso a los que hace mención este inciso podrá ser menor al 2% del listado que le corresponda. La fecha de corte del listado nominal será al quince de diciembre del año anterior a la elección.
 
 > <small>(REFORMADA, P.O. 22 DE AGOSTO DE 2015)</small>
 
@@ -8358,3 +8372,11 @@ DÉCIMO.- En cumplimiento al artículo Segundo, fracción II, inciso a), Transit
 DÉCIMO PRIMERO.- EL SECRETARIO EJECUTIVO DEL INSTITUTO, QUE SE ENCUENTRE EN FUNCIONES UNA VEZ QUE ASUMAN SUS CARGOS LOS NUEVOS CONSEJEROS ELECTORALES DERIVADO DE LA RENOVACIÓN DEL CONSEJO GENERAL DEL ORGANISMO PÚBLICO LOCAL, CONTINUARÁ EN EL DESEMPEÑO DE SU CARGO POR EL PERIODO QUE FUE DESIGNADO.
 
 DÉCIMO SEGUNDO.- Para el Proceso Electoral Estatal Ordinario 2016, para efectos de la determinación del financiamiento público para actividades tendientes a la obtención del voto, se entregará a cada partido político un monto equivalente al cincuenta por ciento del financiamiento público que para el sostenimiento de sus actividades ordinarias permanentes le corresponda en ese año.
+
+P.O. 9 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA DIVERSAS DISPOSICIONES DEL CÓDIGO DE INSTITUCIONES Y PROCESOS ELECTORALES DEL ESTADO DE PUEBLA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
