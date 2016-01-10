@@ -4,7 +4,7 @@ identifier: "BCN-codigo-de-procedimientos-penales-para-el-estado-de-baja-3327"
 country: "mx"
 rank: "codigo"
 publication_date: "1989-08-20"
-last_updated: "2015-12-18"
+last_updated: "2016-01-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3327&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -29,9 +29,9 @@ NOTA 2. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO DEL DECRETO NÚMERO 
 
 NOTA 3. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO DEL DECRETO NÚMERO 329, PUBLICADO EN EL P.O. DE 11 DE SEPTIEMBRE DE 2015, SE DECLARA QUE EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES ENTRA EN VIGOR EN EL MUNICIPIO DE TECATE, BAJA CALIFORNIA, A PARTIR DEL 11 DE NOVIEMBRE DE 2015. EN CUANTO A LOS DELITOS CONTRA LA SALUD EN SU MODALIDAD DE NARCOMENUDEO DE COMPETENCIA ESTATAL QUE SE SEÑALA EN EL CAPÍTULO VII DEL TÍTULO XVIII DE LA LEY GENERAL DE SALUD, SERÁ APLICABLE EL PRESENTE ORDENAMIENTO, HASTA LA FECHA INDICADA EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE SEPTIEMBRE DE 2015.
+NOTA 4. DE CONFORMIDAD CON LOS ARTÍCULOS PRIMERO Y SEGUNDO DEL DECRETO NÚMERO 433, PUBLICADO EN EL P.O. DE 10 DE ENERO DE 2016, SE DECLARA QUE EL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES ENTRA EN VIGOR EN EL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA, A PARTIR DEL 11 DE MARZO DE 2016. EN CUANTO A LOS DELITOS CONTRA LA SALUD EN SU MODALIDAD DE NARCOMENUDEO DE COMPETENCIA ESTATAL QUE SE SEÑALA EN EL CAPÍTULO VII DEL TÍTULO XVIII DE LA LEY GENERAL DE SALUD, SERÁ APLICABLE EL PRESENTE ORDENAMIENTO, HASTA LA FECHA INDICADA EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES.
 
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 18 DE DICIEMBRE DE 2015.]</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE ENERO DE 2016.
 
 Código publicado en la Sección Tercera del Periódico Oficial del Estado de Baja California, el domingo 20 de agosto de 1989.
 
@@ -3992,3 +3992,19 @@ SEGUNDO.- En cuanto a los delitos contra la salud en su modalidad de narcomenude
 PRIMERO.- El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Entre la fecha de publicación de la presente Declaratoria y la entrada en vigor del Código Nacional de Procedimientos Penales en el municipio de Tecate, Baja California, deberán mediar sesenta días naturales.
+
+P.O. 10 DE ENERO DE 2016.
+
+> <small>[N. DE E. DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBE EL DECRETO NÚMERO 433 QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.]</small>
+
+DECRETO No. 433
+
+PRIMERO.- De conformidad con el artículo segundo transitorio del Código Nacional de Procedimientos Penales, publicado en el Diario Oficial de la Federación el 05 de marzo de 2014 y con el Decreto número 288 publicado en el Periódico Oficial del Estado de Baja California de fecha 11 de junio de 2015, se DECLARA que el Código Nacional de Procedimientos Penales entrará en vigor en el municipio de Ensenada, Baja California, a partir del 11 de marzo de 2016, salvo para los delitos precisados en el resolutivo Segundo de la presente Declaratoria.
+
+SEGUNDO.- En cuanto a los delitos contra la salud en su modalidad de narcomenudeo de competencia estatal que se señala en el Capítulo VII del título XVIII de la Ley General de Salud, será aplicable el Código de Procedimientos Penales para el Estado de Baja California publicado en el Periódico Oficial del Estado en fecha 20 de agosto de 1989, hasta la fecha indicada en el artículo segundo transitorio del Código Nacional de Procedimientos Penales.
+
+## ARTÍCULOS TRANSITORIOS
+
+PRIMERO.- El presente Decreto entrará en vigor a partir de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Entre la fecha de publicación de la presente Declaratoria y la entrada en vigor del Código Nacional de Procedimientos Penales en el municipio de Ensenada, Baja California, deberán mediar sesenta días naturales.
