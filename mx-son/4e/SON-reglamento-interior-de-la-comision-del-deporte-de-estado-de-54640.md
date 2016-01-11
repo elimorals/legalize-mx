@@ -4,7 +4,7 @@ identifier: "SON-reglamento-interior-de-la-comision-del-deporte-de-estado-de-546
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-02-26"
-last_updated: "2008-05-22"
+last_updated: "2016-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54640&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION DEL DEPORTE DE ESTADO DE SONORA
 
-REGLAMENTO INTERIOR DE LA COMISION DEL DEPORTE DEL ESTADO DE SONORA
+REGLAMENTO INTERIOR DE LA COMISIÓN DEL DEPORTE DEL ESTADO DE SONORA
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 22 DE MAYO DE 2008.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISIÓN DEL DEPORTE DEL ESTADO DE SONORA, PUBLICADO EN EL B.O. DE 11 DE ENERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 11 DE ENERO DE 2016 (ABROGADO).
 
 Reglamento publicado en la Sección III del Boletín Oficial de Estado de Sonora, el lunes 26 de febrero de 2007.
 
@@ -469,10 +471,26 @@ El presente Reglamento Interior entrará en vigor al día siguiente de su public
 
 Se abroga el Reglamento Interior de la Comisión del Deporte del Estado de Sonora, publicado en el Boletín Oficial del Gobierno del Estado, número 6, sección I, de fecha 21 de julio de 2005.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 B.O. 22 DE MAYO DE 2008.
 
 ###### ARTÍCULO ÚNICO.
 
 El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 11 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA COMISIÓN DEL DEPORTE DEL ESTADO DE SONORA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento Interior entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Comisión del Deporte del Estado de Sonora, publicado en el Boletín Oficial del Gobierno del Estado, número 17, sección III, de fecha 26 de febrero de 2007 y su reforma.
+
+###### ARTÍCULO TERCERO.
+
+Los manuales de Organización, de Procedimientos y, en su caso, de Servicios al Público de la Comisión deberán expedirse dentro de los sesenta días posteriores a la publicación del presente Reglamento Interior en el Boletín Oficial del Gobierno del Estado de Sonora.
