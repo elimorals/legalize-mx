@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-97482"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-01-17"
-last_updated: "2015-11-30"
+last_updated: "2016-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=97482&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-01-09"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE ENERO DE 2016.
 
 Acuerdo publicado en el Diario Oficial de la Federación, el viernes 17 de enero de 2014.
 
@@ -1931,23 +1931,29 @@ El titular de la Contraloría informará al Pleno sobre los resultados derivados
 
 La Visitaduría Judicial es el órgano auxiliar del Consejo competente para:
 
-I. Inspeccionar el funcionamiento de los órganos jurisdiccionales;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
 
-II. Supervisar la conducta de los servidores públicos de los órganos jurisdiccionales; y
+I. Inspeccionar el funcionamiento de los órganos jurisdiccionales y de los centros de Justicia Penal Federal;
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
+
+II. Supervisar la conducta de los servidores públicos de los órganos jurisdiccionales y de los centros de Justicia Penal Federal; y
 
 III. Auxiliar al Pleno, a las Comisiones o al Presidente en las tareas que le encomienden, inherentes a su función.
 
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
 
 ###### Artículo 221.
 
-La Visitaduría Judicial realizará, en su ámbito de competencia, las acciones de inspección de la función judicial y de supervisión de la conducta de los servidores públicos de los órganos jurisdiccionales, mediante visitas de inspección y demás mecanismos que determine el Pleno o las Comisiones.
+La Visitaduría Judicial realizará, en su ámbito de competencia, las acciones de inspección de la función judicial y de supervisión de la conducta de los servidores públicos de los órganos jurisdiccionales y de los centros de Justicia Penal Federal, mediante visitas de inspección y demás mecanismos que determine el Pleno o las Comisiones.
 
 ###### Artículo 222.
 
 El Visitador General creará un registro que acopie y guarde los resultados de la inspección y supervisión que se obtengan.
 
-El registro será de fácil y rápida consulta y deberá proporcionar información objetiva y útil a las áreas administrativas competentes, para los casos de designaciones, adscripciones, capacitación, promociones, reconocimientos, ratificaciones, disciplina, estímulos, premiaciones, remociones, inspecciones, creación de nuevos órganos y otros relativos a los servidores públicos y órganos jurisdiccionales.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
+
+El registro será de fácil y rápida consulta y deberá proporcionar información objetiva y útil a las áreas administrativas competentes, para los casos de designaciones, adscripciones, capacitación, promociones, reconocimientos, ratificaciones, disciplina, estímulos, premiaciones, remociones, inspecciones, creación de nuevos órganos y otros relativos a los servidores públicos, órganos jurisdiccionales y centros de Justicia Penal Federal.
 
 ### CAPÍTULO SEGUNDO. DE LAS VISITAS DE INSPECCIÓN
 
@@ -1957,45 +1963,59 @@ El registro será de fácil y rápida consulta y deberá proporcionar informaci�
 
 Las visitas de inspección serán ordinarias y extraordinarias.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
+
 ###### Artículo 224.
 
-Los visitadores, secretarios técnicos y los servidores públicos de los órganos jurisdiccionales se tratarán con respeto mutuo.
+Los visitadores, secretarios técnicos y los servidores públicos de los órganos jurisdiccionales y de los centros de justicia Penal Federal se tratarán con respeto mutuo.
 
 ###### Artículo 225.
 
 En las visitas de inspección, el visitador y los secretarios técnicos, en su caso, se identificarán con credencial del Poder Judicial de la Federación.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
+
 ###### Artículo 226.
 
-Para el desarrollo de las visitas, el titular del órgano jurisdiccional visitado asignará un espacio físico adecuado al visitador y a sus colaboradores, procurando se continúe el funcionamiento normal del órgano.
+Para el desarrollo de las visitas, el titular del órgano jurisdiccional visitado asignará un espacio físico adecuado al visitador y a sus colaboradores, procurando se continúe el funcionamiento normal del órgano, con excepción de los centros de Justicia Penal Federal, caso en el cual la asignación corresponderá al Administrador del Centro.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
 
 ###### Artículo 227.
 
-Los servidores públicos de los órganos jurisdiccionales visitados, durante el desarrollo de las visitas, brindarán al visitador y a sus asistentes el apoyo necesario que soliciten para el cumplimiento de su función.
+Los servidores públicos de los órganos jurisdiccionales y centros de Justicia Penal Federal visitados, durante el desarrollo de las visitas, brindarán al visitador y a sus asistentes el apoyo necesario que soliciten para el cumplimiento de su función.
 
 ###### Artículo 228.
 
 En las visitas de inspección los visitadores y sus asistentes deberán abstenerse:
 
-I. De exigir a los titulares y demás servidores públicos del órgano jurisdiccional cualquier tipo de acto que no sea propio del servicio público;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
+
+I. De exigir a los titulares de los órganos jurisdiccionales o administradores de los centros de justicia Penal Federal o a los servidores públicos adscritos a éstos, cualquier tipo de acto que no sea propio del servicio público;
 
 II. De intervenir en las funciones jurisdiccionales de los integrantes del órgano jurisdiccional; y
 
 III. De emitir o asentar exhortaciones, requerimientos o felicitaciones.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
+
 ###### Artículo 229.
 
-La materia de las visitas se limitará a los aspectos previstos en la Ley Orgánica, en este Acuerdo y en las demás que determinen el Pleno o la Comisión. Por tanto, si durante el desarrollo de una visita ordinaria, se presentare alguna queja por escrito, el Visitador "B" asentará en el acta dicha circunstancia y remitirá el escrito junto con la misma al Visitador General, para que la haga llegar al titular de la Secretaría. Los Visitadores Judiciales "A" estarán facultados para recibir quejas administrativas formuladas por escrito o verbalmente. En este último caso, levantarán un acta ante dos testigos de asistencia.
+La materia de las visitas se limitará a los aspectos previstos en la Ley Orgánica, en este Acuerdo y demás que determinen el Pleno o la Comisión. Por tanto, si durante el desarrollo de una visita ordinaria, se presentare alguna queja por escrito, el Visitador Judicial "B" asentará en el acta dicha circunstancia y remitirá el escrito junto con la misma al Visitador General, para que la haga llegar al titular de la Secretaría. Los Visitadores Judiciales "A" estarán facultados para recibir quejas administrativas formuladas por escrito o verbalmente. En este último caso, levantarán un acta ante dos testigos de asistencia.
 
 #### SECCIÓN SEGUNDA. VISITAS ORDINARIAS
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
+
 ###### Artículo 230.
 
-Las visitas ordinarias de inspección tienen por objeto recabar, en forma metódica, información respecto del funcionamiento de los órganos jurisdiccionales, así como del desempeño y conducta de sus miembros. Sus efectos serán esencialmente de control, preventivos y correctivos.
+Las visitas ordinarias de inspección tienen por objeto recabar, en forma metódica, información respecto del funcionamiento de los órganos jurisdiccionales y de los centros de Justicia Penal Federal, así como del desempeño y conducta de sus miembros. Sus efectos serán esencialmente de control, preventivos y correctivos.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
 
 ###### Artículo 231.
 
-Las visitas ordinarias de inspección se llevarán a cabo cuando menos dos veces por año: una inspección se realizará de manera física por los Visitadores Judiciales “B” en la sede del órgano jurisdiccional; la otra, se verificará a través de la inspección ordinaria a distancia que practiquen los mismos visitadores que designe el Visitador General, con el auxilio de los magistrados de Circuito, jueces de Distrito, o encargados del despacho correspondiente.
+Las visitas ordinarias de inspección se llevarán a cabo cuando menos dos veces por año: una inspección se realizará de manera física por los Visitadores Judiciales "B" en la sede del órgano jurisdiccional o del Centro de Justicia Penal Federal; y la otra, se verificará a través de la inspección ordinaria a distancia que practiquen los mismos visitadores que designe el Visitador General, con el auxilio de los magistrados de Circuito, jueces de Distrito, encargados del despacho correspondiente, o administradores de los centros de Justicia Penal Federal.
 
 La inspección ordinaria a los Plenos de Circuito se llevará a cabo a distancia, una vez al año.
 
@@ -2007,11 +2027,19 @@ Las visitas ordinarias durarán cuando más, dos días tratándose de tribunales
 
 La inspección ordinaria a los Plenos de Circuito durará hasta dos días.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
+
+Tratándose de los centros de Justicia Penal Federal, la visita ordinaria se desarrollará en dos días para la administración del Centro, y en un día más para cada uno de los órganos jurisdiccionales que lo integren.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
+
 El Visitador General podrá autorizar la modificación de los plazos señalados, siempre que exista causa justificada.
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
 
 ###### Artículo 233.
 
-Las visitas ordinarias se efectuarán en días y horas hábiles, a menos que sea imprescindible practicarlas aun en días y horas inhábiles. En este último supuesto se requerirá de la autorización del Visitador General y se harán constar en el acta las causas excepcionales que ameriten la medida. Así también, para tal caso, a propuesta del Visitador Judicial "B" el titular del órgano jurisdiccional designará a los servidores públicos necesarios para el auxilio en la práctica de la inspección, quienes permanecerán en dicho órgano.
+Las visitas ordinarias se efectuarán en días y horas hábiles, a menos que sea imprescindible practicarlas aun en días y horas inhábiles. En este último supuesto se requerirá de la autorización del Visitador General y se harán constar en el acta las causas excepcionales que ameriten la medida. Así también, para tal caso, a propuesta del Visitador Judicial "B" el titular del órgano jurisdiccional designará a los servidores públicos necesarios para el auxilio en la práctica de la inspección, quienes permanecerán en dicho órgano, y en el caso de los centros de Justicia Penal Federal, además, el Administrador hará la designación similar que corresponda.
 
 > <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
 
@@ -2027,53 +2055,75 @@ El Visitador General elaborará un programa y calendario de visitas en el que pr
 
 Una vez notificadas a la Comisión, las fechas en que se realizarán las visitas ordinarias de inspección no se variarán, a no ser que exista causa justificada para ello, a juicio del Visitador General, quien en todo caso aprobará el cambio y lo informará a la Comisión.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
+
 ###### Artículo 236.
 
-El titular de la Secretaría, conforme al artículo 100 de la Ley Orgánica, sorteará entre los Visitadores Judiciales "B" la práctica de las visitas ordinarias de inspección a los órganos jurisdiccionales, de conformidad con el programa elaborado por el Visitador General. Al efectuar el sorteo, titular de la Secretaría tendrá en cuenta que ningún visitador podrá visitar el mismo órgano jurisdiccional el año siguiente.
+El titular de la Secretaría, conforme al artículo 100 de la Ley Orgánica, sorteará entre los Visitadores Judiciales "B" la práctica de las visitas ordinarias de inspección a los órganos jurisdiccionales y centros de Justicia Penal Federal, de conformidad con el programa elaborado por el Visitador General. Al efectuar el sorteo, el titular de la Secretaría tendrá en cuenta que ningún visitador podrá visitar el mismo órgano jurisdiccional o Centro de Justicia Penal Federal el año siguiente.
 
 ###### Artículo 237.
 
 Una vez que se conozca el resultado del sorteo a que se refiere el artículo anterior, el Visitador General lo hará saber a los Visitadores Judiciales "B", mediante oficio, para que éstos, previo el aviso a que se refiere el párrafo tercero del artículo 100 de la Ley Orgánica, procedan a practicar las que les correspondieron, conforme al programa y calendario elaborados por el Visitador General.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
+
 ###### Artículo 238.
 
-La asignación de los órganos jurisdiccionales a los Visitadores Judiciales "B" no será susceptible de cambio entre éstos, pero si alguno tuviere impedimento legal para realizar una visita de inspección, lo expresará por escrito ante el Visitador General, dentro de las veinticuatro horas siguientes a la notificación del resultado del sorteo o a la en que tenga conocimiento del impedimento, quien resolverá lo conducente. Si el impedimento es calificado de legal, el Visitador General designará al Visitador Judicial "B" que deba practicar la visita.
+La asignación de los órganos jurisdiccionales o centros de Justicia Penal Federal a los Visitadores Judiciales "B" no será susceptible de cambio entre éstos, pero si alguno tuviere impedimento legal para realizar una visita de inspección, lo expresará por escrito ante el Visitador General, dentro de las veinticuatro horas siguientes a la notificación del resultado del sorteo o a la en que tenga conocimiento del impedimento, quien resolverá lo conducente. Si el impedimento es calificado de legal, el Visitador General designará al Visitador Judicial "B" que deba practicar la visita.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
 
 ###### Artículo 239.
 
-Para la práctica de las visitas ordinarias de inspección, el Visitador General informará con la debida oportunidad al titular del órgano jurisdiccional o a su presidente, tratándose de tribunales Colegiados, la fecha en que se iniciará, para que proceda a fijar el aviso correspondiente.
+Para la práctica de las visitas ordinarias de inspección, el Visitador General informará con la debida oportunidad al titular del órgano jurisdiccional o a su presidente, tratándose de tribunales Colegiados, y, en su caso, al Administrador del Centro de Justicia Penal Federal, la fecha en que se iniciará, para que proceda a fijar el aviso correspondiente.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
 
 ###### Artículo 240.
 
-El aviso a que se refiere el artículo anterior, se publicará en los estrados y lugares más visibles del órgano jurisdiccional, con una anticipación de cuando menos quince días naturales. En él se hará saber al público en general la fecha en que iniciará la inspección, su duración, el nombre del Visitador Judicial "B" que la practicará, y que durante el desarrollo de ésta, dicho visitador recibirá las quejas que se presenten por escrito contra los servidores públicos del órgano visitado.
+El aviso a que se refiere el artículo anterior, se publicará en los lugares más visibles del órgano jurisdiccional y, en su caso, del Centro de Justicia Penal Federal, así como en los estados de dicho órgano, con una anticipación de cuando menos quince días naturales. En él se hará saber al público en general la fecha en que iniciará la inspección, su duración, el nombre del Visitador Judicial "B" que la practicará, y que durante el desarrollo de ésta, dicho visitador recibirá las quejas que se presenten por escrito contra los servidores públicos del órgano visitado.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
 
 ###### Artículo 241.
 
-El Visitador General podrá adelantar o postergar el inicio de una visita, cuando a su juicio, exista causa fundada para ello. La ausencia accidental o temporal del titular del órgano jurisdiccional visitado, no será causa de diferimiento de la visita.
+El Visitador General podrá adelantar o postergar el inicio de una visita, cuando a su juicio, exista causa fundada para ello. La ausencia accidental o temporal del titular del órgano jurisdiccional y, en su caso, del Administrador del Centro de Justicia Penal visitados, no será causa de diferimiento de la visita.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
 
 ###### Artículo 242.
 
-Las visitas ordinarias de inspección serán atendidas por el titular del órgano jurisdiccional, su presidente tratándose de tribunal Colegiado, o por quien en su caso, se encuentre encargado del despacho.
+Las visitas ordinarias de inspección serán atendidas por el titular del órgano jurisdiccional, incluyendo los adscritos a los centros de Justicia Penal Federal; su presidente tratándose de tribunal Colegiado, o por quien en su caso, se encuentre encargado del despacho, así como por el Administrador del Centro de Justicia Penal Federal, respecto de la administración del mismo, sin perjuicio del auxilio que preste a los juzgadores de éste.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
 
 ###### Artículo 243.
 
-El Visitador Judicial "B" se constituirá en el órgano jurisdiccional visitado a primera hora hábil del día fijado para el inicio de la inspección. Se identificará ante el servidor público a que refiere el Artículo anterior con credencial oficial del Poder Judicial de la Federación.
+El Visitador Judicial "B" se constituirá en el órgano jurisdiccional y, en su caso, en el Centro de Justicia Penal Federal que sea visitado a primera hora hábil del día fijado para el inicio de la inspección. Se identificará ante el servidor público a que refiere el artículo anterior con credencial oficial del Poder Judicial de la Federación.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
 
 ###### Artículo 244.
 
-El Visitador Judicial "B" verificará si el aviso que anuncia la visita, se colocó en los estrados y lugares más visibles del órgano jurisdiccional.
+El Visitador Judicial "B" verificará si el aviso que anuncia la visita, se colocó en los lugares más visibles del órgano jurisdiccional y, en su caso del Centro de Justicia Penal Federal, así como en los estrados del citado órgano.
 
 ###### Artículo 245.
 
 La falta de fijación del aviso de inicio de la visita ordinaria no será obstáculo para que la visita inicie. De ser el caso, el Visitador Judicial "B" dispondrá que sea fijado, pudiendo incluso, de ser necesario, firmar y publicar por sí mismo el aviso que lo supla.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
+
 ###### Artículo 246.
 
-El Visitador Judicial "B" solicitará al titular del órgano jurisdiccional visitado, designe un secretario que dará fe de las actuaciones que se practiquen durante la visita y que proporcionará los elementos y datos que le soliciten. Si el titular del órgano jurisdiccional no designa a ningún secretario, la visita se realizará con el que indique el propio Visitador Judicial "B", el cual deberá estar adscrito al órgano jurisdiccional inspeccionado.
+El Visitador Judicial "B" solicitará al titular del órgano jurisdiccional visitado, con excepción de aquellos que estén adscritos a un Centro de Justicia Penal Federal, designe un secretario que dará fe de las actuaciones que se practiquen durante la visita y que proporcionará los elementos y datos que le soliciten. Si el titular del órgano jurisdiccional no designa a ningún secretario, la visita se realizará con el que indique el propio Visitador Judicial "B", el cual deberá estar adscrito al órgano jurisdiccional inspeccionado.
+
+Tratándose de los centros de Justicia Penal Federal, el Administrador, por lo que corresponde a la administración del Centro, y los titulares de los órganos jurisdiccionales, por lo que toca a su actividad jurisdiccional, designarán dos testigos de asistencia para los fines señalados en el párrafo anterior, adscritos al Centro de Justicia Penal Federal. Si no llevan a cabo dicha designación, la visita se realizará con quienes indique el propio Visitador Judicial "B", de entre los servidores públicos del Centro.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
 
 ###### Artículo 247.
 
-El Visitador Judicial "B" pedirá la lista del personal del órgano jurisdiccional para comprobar su asistencia.
+El Visitador Judicial "B" pedirá la lista del personal del órgano jurisdiccional y, en su caso, de la Administración del Centro de Justicia Penal Federal, para comprobar su asistencia.
 
 > <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
 
@@ -2083,7 +2133,9 @@ Las visitas ordinarias, en cualquiera de sus modalidades, se sujetarán a las si
 
 I. El periodo sujeto a revisión iniciará al día natural siguiente de aquel en que se haya cerrado el lapso que abarcó la inspección inmediata anterior, física o a distancia, según corresponda en cada caso;
 
-II. En los órganos jurisdiccionales de nueva creación, el inicio del primer periodo de inspección será el de la fecha en que comenzó a funcionar;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
+
+II. En los órganos jurisdiccionales de nueva creación y de los centros de Justicia Penal Federal, el inicio del primer periodo de inspección será el de la fecha en que comenzó a funcionar;
 
 III. En visita ordinaria física, el periodo a inspeccionar cerrará datos el último día del mes previo al del inicio de la inspección;
 
@@ -2093,33 +2145,45 @@ V. Las visitas físicas iniciarán a partir del sexto día hábil o laborable de
 
 VI. Los informes circunstanciados se rendirán dentro del plazo de quince días naturales posteriores al día de cierre de datos. Si el último día fuere inhábil, dicho plazo se correrá al primer día hábil siguiente.
 
-En las visitas ordinarias físicas, el Visitador Judicial “B” estampará en los libros de gobierno revisados su sello, que colocará inmediatamente después del último registro o de la última anotación que se haya hecho en el periodo de inspección.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
+
+En las visitas ordinarias físicas, el Visitador Judicial “B” estampará en los libros de gobierno revisados su sello, que colocará inmediatamente después del último registro o de la última anotación que se haya hecho en el periodo de inspección, con excepción de los centros de Justicia Penal Federal, caso en el cual la constancia de la revisión se hará en la forma que determine la Comisión.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
 
 ###### Artículo 249.
 
-Los Visitadores Judiciales "B", al concluir la revisión de los expedientes solicitados, estamparán en la última actuación el sello y la firma correspondiente.
+Los Visitadores Judiciales "B", al concluir la revisión de los expedientes solicitados, estamparán en la última actuación el sello y la firma correspondiente, con excepción de los centros de Justicia Penal Federal, caso en el cual la constancia de la revisión se hará en la forma que determine la Comisión.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
 
 ###### Artículo 250.
 
-Al finalizar la inspección y antes del cierre del acta, el Visitador Judicial "B" entregará un tanto de ésta al titular o titulares del órgano jurisdiccional inspeccionado, o, su caso, al encargado del despacho del mismo, para que se impongan de su contenido, con el objeto de que manifiesten lo que a su derecho convenga. Para ello contarán con un tiempo máximo de tres horas.
+Al finalizar la inspección y antes del cierre del acta, el Visitador Judicial "B" entregará un tanto de ésta al titular o titulares del órgano jurisdiccional inspeccionado; al encargado del despacho del mismo; o al Administrador del Centro de Justicia Penal Federal, según corresponda, para que se impongan de su contenido, con el objeto de que manifiesten lo que a su derecho convenga. Para ello contarán con un tiempo máximo de tres horas.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 28 DE MAYO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
 
 ###### Artículo 251.
 
-De toda visita ordinaria de inspección se levantará acta circunstanciada, de acuerdo al formato aprobado por la Comisión, la cual firmarán electrónicamente el Visitador Judicial "B", el titular o titulares del órgano jurisdiccional inspeccionado, o, su caso, el encargado del despacho del mismo, según corresponda, así como el secretario designado para atender la visita.
+De toda visita ordinaria de inspección se levantará acta circunstanciada, de acuerdo al formato aprobado por la Comisión, la cual firmarán electrónicamente el Visitador Judicial "B", el titular o titulares del órgano jurisdiccional inspeccionado; el encargado del despacho del mismo; y el Administrador del Centro de Justicia Penal Federal según corresponda, así como el secretario designado para atender la visita o los testigos de asistencia en el caso de los centros de Justicia Penal Federal.
 
-El acta se levantará electrónicamente, imprimiéndose un tanto que se quedará en el órgano jurisdiccional.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
+
+El acta se levantará electrónicamente, imprimiéndose un tanto que se quedará en el órgano jurisdiccional y, en su caso, en la administración del Centro de Justicia Penal Federal.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 28 DE MAYO DE 2015)</small>
 
 El acta se remitirá electrónicamente a la Visitaduría Judicial y a la Secretaría, para los efectos conducentes.
 
-El dictamen que recaiga al informe circunstanciado y a la visita ordinaria, se notificará electrónicamente al órgano jurisdiccional y las áreas administrativas correspondientes.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
 
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+El dictamen que recaiga al informe circunstanciado y a la visita ordinaria, se notificará electrónicamente al órgano jurisdiccional, en su caso, a la Administración del Centro de Justicia Penal Federal, y a las demás áreas administrativas correspondientes.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
 
 ###### Artículo 252.
 
-Las visitas ordinarias que deben realizarse a los órganos jurisdiccionales, podrán efectuarse a través de medios electrónicos, a distancia. El titular del órgano jurisdiccional, presidente en el caso de tribunal Colegiado, o secretario encargado del despacho, en colaboración de la visita, proporcionará información veraz al Visitador Judicial “B” que designe el Visitador General, sobre aspectos relativos al funcionamiento del órgano jurisdiccional, así como de la conducta de sus integrantes, misma que será verificada y complementada por el Visitador Judicial “B” designado.
+Las visitas ordinarias que deben realizarse a los órganos jurisdiccionales y a los centros de Justicia Penal Federal, podrán efectuarse a través de medios electrónicos, a distancia. El titular del órgano jurisdiccional; presidente en el caso de tribunal Colegiado; secretario encargado del despacho, así como el Administrador del Centro de Justicia Penal Federal, respecto de la administración del mismo, en colaboración de la visita, proporcionará información veraz al Visitador Judicial "B" que designe el Visitador General, sobre aspectos relativos al funcionamiento del órgano jurisdiccional y, en su caso, a la administración del Centro de Justicia Penal Federal, así como de la conducta de sus integrantes, misma que será verificada y complementada por el Visitador Judicial "B" designado.
 
 ###### Artículo 253.
 
@@ -2129,13 +2193,17 @@ I. Primera: Informe inicial;
 
 II. Segunda: Verificación y complemento de la inspección;
 
-III. Tercera: Manifestaciones del titular, presidente o encargado del despacho; y
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
+
+III. Tercera: Manifestaciones del titular, presidente o encargado del despacho, y en su caso del Administrador del Centro de Justicia Penal Federal; y
 
 IV. Cuarta: Cierre.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
+
 ###### Artículo 254.
 
-El Visitador General, de acuerdo con el programa que elabore para la práctica de inspecciones ordinarias, fijará el período respecto del cual se deban practicar las inspecciones a distancia. Procurará, en lo posible, que dicho período no sea menor de cinco meses, ni mayor de seis, contado a partir de la fecha en que inició la inspección inmediata anterior practicada al órgano jurisdiccional.
+El Visitador General, de acuerdo con el programa que elabore para la práctica de inspecciones ordinarias, fijará el período respecto del cual se deban practicar las inspecciones a distancia. Procurará, en lo posible, que dicho período no sea menor de cinco meses, ni mayor de seis, contado a partir de la fecha en que inició la inspección inmediata anterior practicada al órgano jurisdiccional o Centro de Justicia Penal Federal.
 
 ###### Artículo 255.
 
@@ -2145,19 +2213,31 @@ Las inspecciones ordinarias a distancia deberán practicarse en similares plazos
 
 En la práctica de las inspecciones ordinarias a distancia, se procederá conforme a lo siguiente:
 
-I. El Visitador General enviará con oportunidad al titular del órgano jurisdiccional, al presidente en caso de tribunal Colegiado, o al encargado del despacho, oficio en el que informará la práctica de la inspección ordinaria a distancia. La comunicación deberá señalar con precisión el período que comprende la inspección, la fecha y hora de su inicio, así como la forma y medios de la presentación del informe inicial;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
 
-II. El titular del órgano jurisdiccional, su presidente en caso de tribunal Colegiado, o el encargado del despacho, según el caso, deberá rendir el informe inicial dentro de los cinco días hábiles siguientes a la conclusión del período a inspeccionar. El Visitador General podrá modificar dicho plazo, cuando exista causa justificada para ello. El incumplimiento de esta obligación será causa de responsabilidad.
+I. El Visitador General enviará con oportunidad al titular del órgano jurisdiccional, al presidente en caso de tribunal Colegiado, o al encargado del despacho, y de ser el supuesto al Administrador del Centro de Justicia Penal Federal, oficio en el que informará la práctica de la inspección ordinaria a distancia. La comunicación deberá señalar con precisión el período que comprende la inspección, la fecha y hora de su inicio, así como la forma y medios de la presentación del informe inicial;
+
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
+
+II. El titular del órgano jurisdiccional, su presidente en caso de tribunal Colegiado, el encargado del despacho, y el Administrador del Centro de Justicia Penal Federal según sea el caso, deberá rendir el informe inicial dentro de los cinco días hábiles siguientes a la conclusión del período a inspeccionar. El Visitador General podrá modificar dicho plazo, cuando exista causa justificada para ello. El incumplimiento de esta obligación será causa de responsabilidad.
 
 Dicho informe será rendido con precisión, bajo protesta de decir verdad, a través del medio que se hubiese señalado en el oficio respectivo. La información que se presente, se sujetará estrictamente a los formatos acordados por la Comisión;
 
-III. La inspección a distancia dará inicio en la fecha y hora precisados en el oficio respectivo, en cuyo momento el Visitador Judicial “B” procederá a la verificación y complementación de la información proporcionada por el titular del órgano jurisdiccional, su presidente en caso de tribunal Colegiado, o del encargado del despacho;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
 
-IV. Terminada la segunda etapa, el Visitador Judicial “B” dará a conocer el acta al titular del órgano jurisdiccional, su presidente en caso de tribunal Colegiado, o el encargado del despacho, según corresponda, a fin de que se imponga de su contenido, con el objeto de que manifieste lo que a su derecho convenga. Para esto último contará con un término máximo de tres horas. Se asentará la hora y fecha tanto del momento en que se da a conocer el contenido del acta, como el del envío de las manifestaciones relativas; y
+III. La inspección a distancia dará inicio en la fecha y hora precisados en el oficio respectivo, en cuyo momento el Visitador Judicial “B” procederá a la verificación y complementación de la información proporcionada por el titular del órgano jurisdiccional, su presidente en caso de tribunal Colegiado, del encargado del despacho, o del Administrador del Centro de Justicia Penal Federal;
 
-V. Una vez recibidas las manifestaciones del titular del órgano jurisdiccional, su presidente en caso de tribunal Colegiado, o el encargado del despacho, o vencido el término para tal efecto, se procederá de inmediato al cierre del acta, asentándose la fecha y hora en que ello ocurra.
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
 
-El archivo que lo contenga se guardará en el acervo de la Visitaduría Judicial, con copia electrónica para el órgano jurisdiccional inspeccionado para los efectos conducentes, así como para la Secretaría, a fin de que determine lo que corresponda.
+IV. Terminada la segunda etapa, el Visitador Judicial “B” dará a conocer el acta al titular del órgano jurisdiccional, su presidente en caso de tribunal Colegiado, el encargado del despacho y al Administrador del Centro de Justicia Penal Federal, según corresponda, a fin de que se imponga de su contenido, con el objeto de que manifieste lo que a su derecho convenga. Para esto último contará con un término máximo de tres horas. Se asentará la hora y fecha tanto del momento en que se da a conocer el contenido del acta, como el del envío de las manifestaciones relativas; y
+
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
+
+V. Una vez recibidas las manifestaciones del titular del órgano jurisdiccional, su presidente en caso de tribunal Colegiado, el encargado del despacho, o el Administrador del Centro de Justicia Penal Federal, o vencido el término para tal efecto, se procederá de inmediato al cierre del acta, asentándose la fecha y hora en que ello ocurra.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
+
+El archivo que lo contenga se guardará en el acervo de la Visitaduría Judicial, con copia electrónica para el órgano jurisdiccional y, en su caso, la administración del Centro de Justicia Penal Federal inspeccionado para los efectos conducentes, así como para la Secretaría, a fin de que determine lo que corresponda.
 
 ###### Artículo 257.
 
@@ -2165,35 +2245,43 @@ Las cuestiones relativas a las inspecciones ordinarias a distancia, que no se en
 
 #### SECCIÓN TERCERA. DE LAS VISITAS EXTRAORDINARIAS
 
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
 
 ###### Artículo 258.
 
-Las visitas extraordinarias se llevarán a cabo en aquellos casos en que lo ordene el Pleno, las Comisiones o el Secretario Ejecutivo de Disciplina, cuando a su juicio haya elementos que hagan presumir irregularidades cometidas por un magistrado de Circuito o juez de Distrito.
+Las visitas extraordinarias se llevarán a cabo en aquellos casos en que lo ordene el Pleno, las Comisiones o el Secretario Ejecutivo de Disciplina, cuando a su juicio haya elementos que hagan presumir irregularidades cometidas por un magistrado de Circuito, juez de Distrito o Administrador del Centro de Justicia Penal Federal.
 
 ###### Artículo 259.
 
 Las visitas extraordinarias serán efectuadas por los Visitadores Judiciales “A”, o por el Visitador General. De no hacerse especial designación por el Pleno o la Comisión, el Visitador General señalará al Visitador Judicial “A” que se encargará de practicarla.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
+
 ###### Artículo 260.
 
-El Visitador Judicial “A”, al inicio de la visita extraordinaria, hará entrega al titular del órgano jurisdiccional visitado, de un oficio en el que se le haga saber la fecha y procedencia de la orden para la práctica de la visita.
+El Visitador Judicial “A”, al inicio de la visita extraordinaria, hará entrega al titular del órgano jurisdiccional o Centro de Justicia Penal Federal visitado, de un oficio en el que se le haga saber la fecha y procedencia de la orden para la práctica de la visita.
 
 Los integrantes de los órganos jurisdiccionales, así como de las áreas administrativas proporcionarán al Visitador Judicial “A” y a sus asistentes la información que con relación a la visita les sea solicitada.
 
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
+
 ###### Artículo 261.
 
-De la visita extraordinaria de inspección se levantará acta circunstanciada, en la que se hará constar su desarrollo, las quejas presentadas, por escrito o verbalmente, en contra de los servidores públicos que integren el órgano jurisdiccional, y las firmas del Visitador Judicial “A” y las de sus secretarios técnicos, quienes fungirán y signarán como fedatarios.
+De la visita extraordinaria de inspección se levantará acta circunstanciada, en la que se hará constar su desarrollo, las quejas presentadas, por escrito o verbalmente, en contra de los servidores públicos que integren el órgano jurisdiccional, y en su caso, el Centro de Justicia Penal Federal, y las firmas del Visitador Judicial "A" y las de sus secretarios técnicos, quienes fungirán y signarán como fedatarios.
 
 Los datos obtenidos durante la práctica de la visita se mantendrán en secreto, hasta en tanto el Pleno o la Comisión dispongan lo conducente.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
+
 ###### Artículo 262.
 
-Las comparecencias o declaraciones informativas que se recaben de los servidores públicos o exservidores públicos que se hubiesen encontrado adscritos al órgano jurisdiccional durante el período inspeccionado, así como de aquéllas que a juicio del Visitador Judicial “A” resulten relevantes, deberán videograbarse.
+Las comparecencias o declaraciones informativas que se recaben de los servidores públicos o exservidores públicos que se hubiesen encontrado adscritos al órgano jurisdiccional y, en su caso, al Centro de Justicia Penal Federal durante el período inspeccionado, así como de aquéllas que a juicio del Visitador Judicial "A" resulten relevantes, deberán videograbarse.
+
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
 
 ###### Artículo 263.
 
-El Visitador Judicial “A” previo al inicio de la comparecencia a cargo del servidor público o exservidor público del órgano jurisdiccional, ordenará al secretario técnico que designe, proceda a activar el sistema de grabación de audio y video; hecho lo anterior, procederá al desahogo de la diligencia con todas sus formalidades.
+El Visitador Judicial "A" previo al inicio de la comparecencia a cargo del servidor público o exservidor público del órgano jurisdiccional o del Centro de Justicia Penal Federal, ordenará al secretario técnico que designe, proceda a activar el sistema de grabación de audio y video; hecho lo anterior, procederá al desahogo de la diligencia con todas sus formalidades.
 
 ###### Artículo 264.
 
@@ -2219,11 +2307,11 @@ Excepcionalmente, cuando existan elementos que hagan presumible el comportamient
 
 Para los efectos del párrafo anterior, el Consejero ponente a quien se le haya turnado el expediente de ratificación, presentará un dictamen a la Comisión de Carrera Judicial, exponiendo las razones por las que, a su juicio, se está en el caso de excepción que amerita la práctica de una visita extraordinaria.
 
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
 
 ###### Artículo 266.
 
-Las visitas extraordinarias tienen por objeto recabar información y constancias respecto del funcionamiento de los órganos jurisdiccionales, así como del desempeño y conducta de sus miembros; sus efectos serán esencialmente disciplinarios.
+Las visitas extraordinarias tienen por objeto recabar información y constancias respecto del funcionamiento de los órganos jurisdiccionales y centros de Justicia Penal Federal, así como del desempeño y conducta de sus miembros; sus efectos serán esencialmente disciplinarios.
 
 > <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
 
@@ -2231,11 +2319,11 @@ Las visitas extraordinarias tienen por objeto recabar información y constancias
 
 Las visitas extraordinarias comprenderán únicamente los aspectos encomendados a investigar por el Pleno o las Comisiones. No obstante, si durante la práctica de las visitas aconteciere un hecho o acto presumiblemente constitutivo de responsabilidad relacionado con la materia de la inspección, el Visitador Judicial “A” asentará en el acta lo correspondiente.
 
-> <small>(REFORMADO POR EL ARTÍCULO SEGUNDO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, D.O.F. 17 DE SEPTIEMBRE DE 2014)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE RESPONSABILIDADES ADMINISTRATIVAS, SITUACIÓN PATRIMONIAL, CONTROL Y RENDICIÓN DE CUENTAS, RELATIVO A LAS VISITAS A LOS CENTROS DE JUSTICIA PENAL FEDERAL, D.O.F. 11 DE ENERO DE 2016)</small>
 
 ###### Artículo 268.
 
-Para la práctica de visitas extraordinarias no se requerirá de previa comunicación de su inicio al titular del órgano jurisdiccional visitado. Podrán llevarse a cabo aún en días y horas inhábiles. Durarán el tiempo necesario para cumplir su encomienda.
+Para la práctica de visitas extraordinarias no se requerirá de previa comunicación de su inicio al titular del órgano jurisdiccional o Administrador del Centro de Justicia Penal Federal visitado. Podrán llevarse a cabo aún en días y horas inhábiles. Durarán el tiempo necesario para cumplir su encomienda.
 
 ###### Artículo 269.
 
@@ -2928,6 +3016,12 @@ SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su
 TERCERO. Lo previsto en el artículo 38, fracción III, segundo párrafo del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control y rendición de cuentas, también resulta aplicable respecto de la interposición del recurso de revisión previsto en el Acuerdo General del Pleno del Consejo de la Judicatura Federal, que establece las disposiciones en materia de responsabilidades administrativas, situación patrimonial, control y rendición de cuentas vigente hasta el veintiocho de mayo de dos mil quince.
 
 D.O.F. 30 DE NOVIEMBRE DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 11 DE ENERO DE 2016.
 
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
