@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-sesiones-de-los-consejos-locales-y-109369"
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-08-14"
-last_updated: "2015-08-14"
+last_updated: "2016-01-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109369&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-10-07"
 
 REGLAMENTO DE SESIONES DE LOS CONSEJOS LOCALES Y DISTRITALES DEL INSTITUTO NACIONAL ELECTORAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE ENERO DE 2016.
 
 Reglamento publicado en la Quinta Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 2015.
 
@@ -77,17 +77,33 @@ g) Presidente: El Presidente del Consejo Local o Distrital correspondiente;
 
 h) Consejeros: Los Consejeros Electorales de los Consejos Locales o Distritales, según corresponda;
 
-i) Representantes: Los Representantes de los Partidos Políticos Nacionales, así como de los candidatos independientes acreditados ante el Consejo correspondiente;
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2016)</small>
+
+i) Representantes: Los Representantes de los Partidos Políticos Nacionales;
 
 j) Secretario: El Secretario del Consejo Local o Distrital respectivo;
 
 k) Integrantes del Consejo: El Consejero Presidente, el Secretario del Consejo, los Consejeros Electorales y los Representantes de los partidos políticos y los Representantes de los candidatos independientes;
 
-l) Candidato independiente: El ciudadano que obtenga por parte de la autoridad electoral el Acuerdo de registro, habiendo cumplido los requisitos que para tal efecto establece la Ley Electoral;
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2016)</small>
+
+l) Candidato independiente: El ciudadano que obtenga por parte de la autoridad electoral estatal o nacional el Acuerdo de registro, habiendo cumplido los requisitos que para tal efecto establecen las leyes respectivas;
 
 m) Cómputo Distrital: La suma que realiza el Consejo Distrital, de los resultados anotados en las actas de escrutinio y cómputo de las casillas instaladas en un distrito electoral; y
 
 n) Grupo de Trabajo: El integrado por orden del Presidente del Consejo Distrital para realizar el recuento de votos respecto de una elección determinada.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 11 DE ENERO DE 2016)</small>
+
+p) (sic) Representantes locales: Representantes de los partidos políticos estatales con registro local;
+
+((REFORMADO [N. DE E. ADICIONADO], D.O.F. 11 DE ENERO DE 2016)
+
+q) Representantes de los candidatos independientes: Representantes de los candidatos independientes registrados ante el Consejo o autoridad correspondiente, y
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 11 DE ENERO DE 2016)</small>
+
+r) OPLE: Órgano Público Local Electoral
 
 ###### ARTÍCULO 4.
 
@@ -95,9 +111,15 @@ Integración
 
 1. Los Consejos Locales y Distritales se integrarán, en términos del artículo 65, párrafos 1 y 2 y 76, párrafos 1 y 2 de la Ley Electoral, por el Consejero Presidente designado por el Consejo General, seis Consejeros Electorales, los Representantes de los partidos políticos y el Secretario del Consejo.
 
-2. Los Consejos Locales y Distritales también se integrarán con los representantes de los candidatos independientes.
+> <small>(REFORMADO, D.O.F. 11 DE ENERO DE 2016)</small>
+
+2. Los Consejos Locales y Distritales también se integrarán con los representantes de los candidatos independientes acreditados ante la autoridad nacional o, en su caso, la local.
 
 3. Los vocales de Organización Electoral, del Registro Federal de Electores y de Capacitación Electoral y Educación Cívica de la Junta Local y Distrital respectiva, concurrirán a sus sesiones con voz pero sin voto.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 11 DE ENERO DE 2016)</small>
+
+4. Asimismo los Partidos Políticos estatales o los candidatos independientes con registro local, podrán solicitar la participación de sus representantes ante los Consejos Locales y Distritales, en las elecciones locales, cuando el Instituto organice el Proceso Electoral local o alguna de sus etapas. Para tal efecto, deberán presentar la documentación emitida por el OPLE en la que los acredite como personas facultadas para tal efecto.
 
 ###### ARTÍCULO 5.
 
@@ -116,6 +138,22 @@ b) Integrar las sesiones como parte del órgano.
 c) Hacer uso de la voz en las sesiones, sin derecho a votar.
 
 d) Ser formalmente notificados de los Acuerdos emitidos, con la documentación correspondiente.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 11 DE ENERO DE 2016)</small>
+
+###### ARTÍCULO 5 Bis.
+
+De los nombramientos de los representantes de los partidos políticos estatales o los candidatos independientes con registro local.
+
+1. Los partidos políticos con registro local, podrán nombrar, respecto de la participación del Instituto Nacional Electoral en los procesos electorales estatales, un representante propietario y un suplente, para asistir a las sesiones del Consejo Local o Distrital respectivo. Igual derecho asiste a los candidatos independientes locales, en el ámbito de la elección en que contienden. En caso de sustitución deberá informarse por escrito con al menos veinticuatro horas de anticipación a la celebración de la sesión y contarán, como mínimo, con los derechos siguientes:
+
+a) Ser convocados a las sesiones con las formalidades y documentación correspondiente;
+
+b) Integrar las sesiones como parte del órgano;
+
+c) Hacer uso de la voz en las sesiones, sin derecho a votar, y
+
+d) Ser formalmente notificados de los acuerdos emitidos, con la documentación correspondiente.
 
 ###### ARTÍCULO 6.
 
@@ -159,7 +197,7 @@ m) Solicitar al Secretario retirar asuntos agendados en el orden del día, previ
 
 n) Tomar las previsiones necesarias y dar seguimiento al cumplimiento de los Acuerdos adoptados por el Consejo;
 
-o (sic)) Someter a consideración del Consejo la ampliación del tiempo de duración de la sesión, señalado en el artículo 11, párrafo 2 de este Reglamento;
+o (sic) Someter a consideración del Consejo la ampliación del tiempo de duración de la sesión, señalado en el artículo 11, párrafo 2 de este Reglamento;
 
 o) Ordenar al Secretario que expida las certificaciones que soliciten los partidos políticos, ciudadanos y autoridades competentes, en el caso de los Consejos Locales;
 
@@ -208,6 +246,10 @@ d) Participar en los trabajos de las comisiones, de conformidad con la Ley Elect
 e) Integrar los Grupos de Trabajo que determine el Presidente; y
 
 f) Las demás que le otorgue la Ley Electoral, el Reglamento Interior y este Reglamento.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], D.O.F. 11 DE ENERO DE 2016)</small>
+
+2. Los representantes de los partidos políticos y candidatos independientes con registro local, tendrán las atribuciones señaladas en este artículo, únicamente por lo que hace a las actividades vinculadas a los Procesos Electorales Locales señaladas en el artículo 32, párrafo 1, inciso a), de la Ley General de Instituciones y Procedimientos Electorales, o que por el ejercicio de las facultades especiales de asunción o atracción ejerza el Instituto.
 
 ###### ARTÍCULO 10.
 
@@ -874,3 +916,17 @@ El presente Acuerdo fue aprobado en lo general en sesión extraordinaria del Con
 Se aprobó en lo particular el Artículo 22 del Reglamento, por seis votos a favor de los Consejeros Electorales de los Consejeros Electorales, Licenciado Enrique Andrade González, Maestra Adriana Margarita Favela Herrera, Maestra Beatriz Eugenia Galindo Centeno, Doctor Benito Nacif Hernández, Doctor José Roberto Ruiz Saldaña y Licenciado Javier Santiago Castillo, y cinco votos en contra de los Consejeros Electorales Maestro Marco Antonio Baños Martínez, Doctor Ciro Murayama Rendón, Licenciada Alejandra Pamela San Martín Ríos y Valles, Maestro Arturo Sánchez Gutiérrez y del Consejero Presidente, Doctor Lorenzo Córdova Vianello.
 
 El Consejero Presidente del Consejo General, Lorenzo Córdova Vianello.- Rúbrica.- El Secretario del Consejo General, Edmundo Jacobo Molina.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 11 DE ENERO DE 2016.
+
+> <small>N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+
+Segundo.- El presente Acuerdo entrará en vigor y surtirá efectos al día siguiente de su aprobación por el Consejo General.
+
+Tercero.- Se instruye a la Secretaría Ejecutiva para que notifique el presente Acuerdo a los Consejos Locales y Distritales de este Instituto, así como a los Organismos Públicos Locales, a través de la Unidad Técnica de Vinculación con los Organismos Públicos Locales.
+
+Cuarto.- Los partidos políticos locales y los candidatos independientes locales tendrán representación ante los Consejos Locales y Distritales del Instituto una vez que hayan obtenido su acreditación ante los mismos.
+
+Quinto.- Publíquese de inmediato el presente Acuerdo en el Diario Oficial de la Federación, así como en la página de internet del Instituto.
