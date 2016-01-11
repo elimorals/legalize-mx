@@ -4,7 +4,7 @@ identifier: "VER-ley-de-obras-publicas-y-servicios-relacionados-con-ellas-95031"
 country: "mx"
 rank: "ley"
 publication_date: "2013-04-16"
-last_updated: "2013-04-16"
+last_updated: "2016-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95031&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 825 DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON ELLAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 11 DE ENERO DE 2016.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el martes 16 de abril de 2013.
 
@@ -63,57 +63,149 @@ IV. Los organismos autónomos del Estado, previstos en el artículo 67 de la Con
 
 V. Los municipios a través de sus dependencias centralizadas y entidades paramunicipales.
 
+> <small>(REFORMADO, G.O. 11 DE ENERO DE 2016)</small>
+
 ###### Artículo 2.
 
-Se consideran obras públicas, los trabajos que tengan por objeto:
+Para los efectos de la presente Ley, se entenderá por:
 
-I. La excavación, construcción, instalación, conservación, mantenimiento, reparación y demolición de bienes inmuebles;
+I. Adjudicación directa: La asignación de una obra o servicio por parte de los Entes Públicos a un contratista, sin mediar un procedimiento de Licitación Pública o invitación a cuando menos tres personas;
 
-II. La localización, exploración geotécnica, y perforación para estudio y aprovechamiento del subsuelo;
+II. Administración de Obra: Los trabajos relativos a la dirección y coordinación de obras a cargo de empresas u organismos, incluyendo los de registro, seguimiento y control, así como la gerencia de proyectos o de construcción, de organización, de mercadotecnia, los estudios de producción, de distribución y transporte, de informática, sistemas y comunicaciones, los de desarrollo y dirección de recursos humanos, los de inspección y de certificación;
 
-III. El despalme, desmonte y mejoramiento de suelos;
+III. Bitácora: El instrumento técnico que constituye el medio de comunicación entre las partes que formalizan los contratos, en el cual se registran los asuntos y eventos importantes que se presenten durante la ejecución de los trabajos, ya sea a través de medios remotos de comunicación electrónica, caso en el cual se denominará Bitácora Electrónica, u otros medios autorizados en los términos del Reglamento, en cuyo caso se denominará Bitácora Convencional;
 
-IV. El mantenimiento, conservación, rehabilitación, reacondicionamiento, operación, reparación y limpieza de equipos e instalaciones destinados a un servicio público, así como de los bienes no considerados en la ley aplicable en materia de adquisiciones, arrendamientos, administración y enajenación de bienes muebles del Estado;
+IV. Concepto de trabajo: Conjunto de operaciones y materiales de acuerdo a las normas y especificaciones de construcción, en que convencionalmente se dividen las etapas de ejecución de una obra pública y de los servicios relacionados con ellas, para efectos de medición y base de pago de los mismos;
 
-V. La construcción para el mejoramiento o rehabilitación de obras, así como el suministro de materiales, mobiliario y equipos afectos a las mismas, cuya adquisición no esté prevista en la ley a que hace referencia la fracción anterior;
+V. Concesión: Es el acto por el cual se otorga a un particular el manejo y explotación de un servicio público o la explotación y aprovechamiento de bienes del dominio del Estado;
 
-VI. La realización de infraestructura agropecuaria;
+VI. Consultorías: Los dictámenes, tercerías u opiniones profesionales así como los peritajes y auditorías que pueden requerirse en cualquier etapa de las obras públicas, así como los servicios de apoyo tecnológico, incluyendo los de desarrollo y transferencia de tecnología, y demás necesarios para su correcta ejecución;
 
-VII. La preservación, mantenimiento y restauración del medio ambiente;
+VII. Contraloría: La Contraloría General del Estado;
 
-VIII. La ejecución de obras necesarias ante contingencias derivadas de caso fortuito o fuerza mayor;
+VIII. Contratista: Contraparte de un Ente Público en un contrato de obra pública;
 
-IX. La instalación, montaje, colocación, aplicación o remoción, incluidas las pruebas de operación, de bienes muebles que deban incorporarse, adherirse o desinstalarse a un inmueble, cuando dichos bienes sean proporcionados por el ente público al contratista; o cuando incluyan la adquisición y su precio sea menor al de los trabajos que se contraten;
+IX. Contrato: Es el acuerdo de voluntades a título oneroso, cuyo principal objetivo es la ejecución de obras o de servicios;
 
-X. La construcción de obras hidráulicas y de electrificación; y
+X. Coordinación de Supervisión: Actividades consistentes en el establecimiento de criterios, procedimientos y normas de operación con el fin de lograr la concurrencia armónica de todos los elementos que participan en la ejecución de proyectos, obras y otros trabajos objeto de los contratos;
 
-XI. Todos aquellos trabajos y servicios de naturaleza análoga a los señalados en las fracciones anteriores.
+XI. Dependencias: Las Secretarías de Despacho, y la Dirección General de Comunicación Social, integrantes de la Administración Pública Centralizada del Estado de Veracruz de Ignacio de la Llave, así como sus órganos desconcentrados;
+
+XII. Entes Públicos: Los previstos en el artículo 1 del presente ordenamiento;
+
+XIII. Entidades: Los organismos descentralizados, las empresas de participación estatal, los fideicomisos, los consejos, las comisiones, los comités, las juntas y demás organismos auxiliares que integran la Administración Pública Paraestatal del Estado de Veracruz de Ignacio de la Llave;
+
+XIV. Especificaciones Generales de Construcción: El conjunto de condiciones generales que los Entes Públicos tienen establecidas para la ejecución de las obras, incluyendo las que deben aplicarse para la realización de estudios, proyectos, ejecución, equipamiento, puesta en servicio, mantenimiento, supervisión y control que comprenden la forma de medición y base de pago de los conceptos de trabajo;
+
+XV. Especificaciones Particulares de Construcción: El conjunto de condiciones particulares que modifican, complementan o sustituyen a las Especificaciones Generales de Construcción, cuando haya contradicción entre éstas, las especificaciones particulares prevalecerán;
+
+XVI. Estimación: La valuación de los trabajos efectuados en periodo pactado aplicando los precios unitarios a las cantidades de los conceptos de los trabajos realizados. En contratos a precio alzado, es la valuación de los trabajos realizados en cada actividad de obra, conforme a la cédula de avance y al periodo del programa de ejecución;
+
+XVII. Estudios Técnicos: Son aquellas investigaciones documentadas de carácter topográfico, hidráulico, hidrológico, geohidrológico, de mecánica de suelos, sismológico, batimétrico, fotogramétrico, impacto ambiental, impacto social, de impacto urbano, del medio ambiente, ecológico, sociológico, demográfico, urbanístico, arquitectónico, trabajos de investigación específica, interpretación y emisión de resultados, de agrología y de desarrollo pecuario, geología, geodesia, geotecnia, geofísica, geotermia, meteorología; así como los pertenecientes a la rama de gestión, incluyendo los económicos y de planeación de preinversión, factibilidad técnico-económica, ecológica o social, de afectación para indemnizaciones; de evaluación, adaptación, financieros, de desarrollo y restitución de la eficiencia de las instalaciones, catálogos de conceptos, precios unitarios, presupuestos de referencia, así como estudios de mercado, peritajes y avalúos;
+
+XVIII. Finiquito de Obra: Es el cierre cuantitativo de la obra sobre conceptos, cantidades y montos ejecutados y no ejecutados; se reflejan en él todas las estimaciones tramitadas, aditivas, deductivas, amortizaciones y ajustes que hayan existido;
+
+XIX. Gerencia de obra: Trabajos de enfoque integrador para alcanzar los objetivos y propósitos que para un proyecto tiene el Ente Público contratante, y que colateralmente incluyen la supervisión de obra y de estudios y proyectos, así como la ejecución de las acciones pertinentes para la realización oportuna de proyectos específicos;
+
+XX. Ley: La Ley de Obras Públicas y Servicios Relacionados con Ellas del Estado de Veracruz de Ignacio de la Llave;
+
+XXI. Licitación Pública: Es el procedimiento formal y competitivo, mediante el cual se solicitan, reciben y evalúan ofertas para la ejecución de obras o servicios, adjudicando el contrato correspondiente al licitador que ofrezca las mejores condiciones técnicas, económicas y financieras para los Entes Públicos;
+
+XXII. Licitación Pública Estatal: Es el procedimiento administrativo mediante el cual los Entes Públicos convocan y seleccionan a los contratistas con domicilio en el Estado para la ejecución de obras o servicios regulados por esta Ley;
+
+XXIII. Licitación Pública Nacional: Es el procedimiento administrativo mediante el cual los Entes Públicos convocan y seleccionan a los contratistas de nacionalidad mexicana para la ejecución de obras o servicios regulados por esta Ley;
+
+XXIV. Licitación Pública Internacional: Es el procedimiento administrativo mediante el cual los Entes Públicos convocan y seleccionan a los contratistas Nacionales o Extranjeros, cuando esto resulte obligatorio de los Tratados de los que el Estado Mexicano forme parte;
+
+XXV. Invitación a Cuando Menos Tres Personas: Es el llamado a personas determinadas que reúnen ciertas condiciones, para atender requerimientos específicos en obra pública o servicio, adjudicando el contrato correspondiente al licitador que ofrezca las mejores condiciones técnicas, económicas y financieras para el Ente Público;
+
+XXVI. Licitante: La persona física o moral que participe en cualquier procedimiento de licitación pública, o invitación a cuando menos tres personas, cuando es admitido como tal por cumplir con todos y cada uno de los requisitos establecidos en la presente Ley;
+
+XXVII. MIPYMES: Micro, Pequeñas y Medianas Empresas;
+
+XXVIII. Municipio: Cualquiera de los Ayuntamientos del Estado de Veracruz;
+
+XXIX. Normas de Calidad: Conjunto de características o propiedades que mínimo deben de cumplir los materiales que intervienen en las obras públicas o servicios, para garantizar que éstos son los adecuados;
+
+XXX. Obra Multianual: Aquella que se realiza de conformidad con lo estipulado en el artículo 183 segundo y tercer párrafo del Código Financiero para el Estado;
+
+XXXI. Obra por Administración Directa: Es la obra ejecutada por el Ente Público por tener la capacidad técnica, administrativa y los elementos necesarios como son: personal, maquinaria y equipos propios;
+
+XXXII. Obra Pública: Los trabajos que estipula el artículo 3 apartado A de esta Ley;
+
+XXXIII. Órgano Interno de Control: Las Contralorías Internas de los Entes Públicos;
+
+XXXIV. Padrón: El Padrón de Contratistas de Obras Públicas y Servicios Relacionados con Ellas del Gobierno del Estado de Veracruz de Ignacio de la Llave;
+
+XXXV. Particular: La persona física o moral, que participe con recursos propios, en el financiamiento de la inversión de obras públicas y de servicios relacionados con ellas;
+
+XXXVI. Perito: La persona que cuenta con cédula profesional, en la materia de la presente Ley, y con experiencia acreditada;
+
+XXXVII. Proyecto Arquitectónico: El que define la forma, estilo, distribución y diseño funcional de una obra. Se expresará por medio de planos, maquetas, perspectivas, dibujos artísticos, entre otros;
+
+XXXVIII. Proyecto de Ingeniería: Es el que comprende los planos constructivos, memorias de cálculo y descriptivas, especificaciones generales aplicables y particulares que permitan llevar a cabo una obra civil, eléctrica, mecánica o de cualquier otra especialidad;
+
+XXXIX. Proyecto Ejecutivo: El conjunto de planos y documentos que conforman los proyectos arquitectónico y de ingeniería de una obra, el catálogo de conceptos y el presupuesto, así como las descripciones e información suficiente para que ésta se pueda llevar a cabo;
+
+XL. Proyecto Integral: Es aquel en el cual el contratista se obliga a diseñar la obra y ejecutar los trabajos hasta su conclusión, incluyendo estudios técnicos, planos, proyecto ejecutivo y trámites de permisos y licencias; la obra civil, producción, fabricación, traslado, instalación, equipamiento, bienes muebles en su caso, construcción total de la obra, capacitación, pruebas e inicio de operación del bien construido, incluyendo, cuando se requiera, liberación de derecho de vía y transferencia de tecnología, en la modalidad de precio alzado o mixto;
+
+XLI. Reglamento: El Reglamento de esta Ley;
+
+XLII. Sefiplan: La Secretaría de Finanzas y Planeación;
+
+XLIII. Supervisión de estudios y proyectos: Verificación del cumplimiento de programas propuestos por los contratistas, control de calidad de ejecución de los trabajos, verificación de cumplimiento de esta Ley y de las disposiciones que de ella emanen, del contrato específico, su recepción, liquidación y finiquito;
+
+XLIV. Supervisión de obra: Revisión de planos, especificaciones y procedimientos de construcción; coordinación y dirección de obras, cuantificación o revisión de volumetría, verificación de programas propuestos por los contratistas, control de calidad de las obras incluyendo laboratorios de análisis y control de calidad, mecánica de suelos, resistencia de materiales, radiografías industriales, cuantificación de volúmenes ejecutados, revisión, conciliación y aprobación de números generadores y verificación del cumplimiento respecto a programas; verificación del cumplimiento de esta Ley y de las disposiciones que de ella emanen, así como del contrato de que se trate; recepción, liquidación y finiquito de la obra, e integración de grupos técnico-administrativos;
+
+XLV. Supervisión Interna: Es la actividad que realiza el servidor público designado por la contratante, responsable de vigilar y controlar la ejecución de los trabajos hasta su entrega, cumpliendo las condiciones técnicas y económicas estipuladas en el contrato, sus anexos, además de las disposiciones legales aplicables; y
+
+XLVI. Supervisión Externa: Es la actividad que realiza un tercero contratado por el Ente Público, responsable de vigilar y controlar la ejecución de los trabajos hasta su entrega, cumpliendo las condiciones técnicas y económicas estipuladas en el contrato, sus anexos, además de las disposiciones legales aplicables, quien está obligado además, a rendir los informes correspondientes a la contratante y obtener de ésta las autorizaciones que sean necesarias.
+
+> <small>(REFORMADO, G.O. 11 DE ENERO DE 2016)</small>
 
 ###### Artículo 3.
 
-Los servicios relacionados con las obras públicas comprenden:
+A. Se consideran obras públicas, los trabajos que tengan por objeto:
 
-I. Administración de obra: Los trabajos relativos a la dirección y coordinación de obras a cargo de empresas u organismos, incluyendo los de registro, seguimiento y control, así como la gerencia de proyectos o de construcción, de organización, de mercadotecnia, los estudios de producción, de distribución y transporte, de informática, sistemas y comunicaciones, los de desarrollo y dirección de recursos humanos, los de inspección y de certificación;
+I. La excavación, construcción, instalación, conservación, mantenimiento, reparación y demolición de bienes inmuebles;
 
-II. Consultorías: Los dictámenes, tercerías, opiniones o peritajes profesionales y auditorías que pueden requerirse en cualquier etapa de las obras públicas, así como los servicios de apoyo tecnológico, incluyendo los de desarrollo y transferencia de tecnología, y demás necesarios para su correcta ejecución;
+II. La localización, exploración geotécnica y geofísica, y perforación para estudio y aprovechamiento del subsuelo;
 
-III. Coordinación de supervisión: Actividades consistentes en el establecimiento de criterios, procedimientos y normas de operación con el fin de lograr la concurrencia armónica de todos los elementos que participan en la ejecución de proyectos, obras y otros trabajos objeto de los contratos; que se basan en la concertación interdisciplinaria para organizar y conjuntar información sistemática de las diversas obras que se coordinan. La información proporcionada por las residencias de supervisión de obra, se verificará mediante visitas periódicas a obras y a otros sitios de trabajo, asistencia a juntas de trabajo y avance de obras y actividades, para corroborar que las residencias de obra y los supervisores cumplan con sus funciones. Para la evaluación e interpretación de la información, se elaborarán informes del estado que guardan las obras que se coordinan, que incluirán el desempeño de las supervisiones, para permitir a los entes públicos la oportuna toma de decisiones y lograr que las obras se ejecuten conforme a los proyectos, especificaciones, programas y presupuestos autorizados;
+III. El despalme, desmonte y mejoramiento de suelos;
 
-IV. Estudios previos: Investigaciones generales y de experimentación, estudios de tenencia de la tierra o de uso del suelo, catastrales, topográficos, hidráulicos, hidrológicos, geohidrológicos, de mecánica de suelos, sismológicos, batimétricos, fotogramétricos, de impacto ambiental, de impacto social y de impacto urbano, del medio ambiente, ecológicos, sociológicos, demográficos, urbanísticos, arquitectónicos, otros del ámbito de la ingeniería y anteproyectos diversos; así como estudios de factibilidades en general;
+IV. El mantenimiento, conservación, rehabilitación, reacondicionamiento, operación, reparación y limpieza de equipos e instalaciones destinados a un servicio público cuando implique modificación al propio inmueble;
 
-V. Estudios técnicos: Topográficos, hidráulicos, hidrológicos, geohidrológicos, de mecánica de suelos, sismológicos, batimétricos, fotogramétricos, trabajos de investigación específica, interpretación y emisión de resultados, de agrología y desarrollo pecuario, hidrología, mecánica de suelos, sismología, geología, geodesia, geotecnia, geofisica, geotermia, meteorología; así como los pertenecientes a la rama de gestión, incluyendo los económicos y de planeación de preinversión, factibilidad técnico-económica, ecológica o social, de afectación para indemnizaciones; de evaluación, adaptación, financieros, de desarrollo y restitución de la eficiencia de las instalaciones, catálogos de conceptos, precios unitarios, presupuestos de referencia, así como estudios de mercado, peritajes y avalúos;
+V. La realización de infraestructura agropecuaria;
 
-VI. Gerencia de obra: Trabajos de enfoque integrador para alcanzar los objetivos y propósitos que para un proyecto tiene el ente público contratante, y que colateralmente incluyen la supervisión de obra y de estudios y proyectos, así como la ejecución de las acciones pertinentes para la realización oportuna de proyectos específicos;
+VI. La preservación, mantenimiento y restauración del medio ambiente;
 
-VII. Proyectos: Planeación y diseños de ingeniería civil, industrial, electromecánica y de cualquier otra especialidad de la ingeniería; la planeación, y diseños urbanos, arquitectónicos, de restauración, gráficos, industriales y artísticos, y de cualquier otra especialidad de la arquitectura y del diseño;
+VII. La ejecución de obras necesarias ante contingencias derivadas de caso fortuito o fuerza mayor;
 
-VIII. Proyecto integral: Es aquel en el cual el contratista se obliga a diseñar la obra y ejecutar los trabajos hasta su conclusión, incluyendo investigaciones previas, estudios, planos, proyecto ejecutivo y proyectos de todo tipo, trámites de permisos y licencias, la obra civil, producción, fabricación, traslado, instalación, equipamiento, bienes muebles en su caso, construcción total de la obra, capacitación, pruebas e inicio de operación del bien construido, incluyendo, cuando se requiera, liberación de derecho de vía y transferencia de tecnología, en la modalidad de precio alzado;
+VIII. La instalación, montaje, colocación, aplicación o remoción, incluidas las pruebas de operación; de bienes muebles que deban incorporarse, adherirse o desinstalarse a un inmueble, cuando dichos bienes sean proporcionados por el Ente Público al contratista; o cuando incluyan la adquisición y su precio sea menor al de los trabajos que se contraten;
 
-IX. Supervisión de obra: Revisión de planos, especificaciones y procedimientos de construcción; coordinación y dirección de obras, cuantificación o revisión de volumetría, preparación y elaboración de documentos para las licitaciones; verificación de programas propuestos por los contratistas, control de calidad de las obras incluyendo laboratorios de análisis y control de calidad, mecánica de suelos, resistencia de materiales, radiografías industriales, cuantificación de volúmenes ejecutados, revisión, conciliación y aprobación de números generadores y verificación del cumplimiento respecto a programas; verificación del cumplimiento de esta Ley y de las disposiciones que de ella emanen, así como del contrato de que se trate; recepción, liquidación y finiquito de la obra, integración de grupos técnico-administrativos, capacitación, actualización continua, acorde con las disposiciones aplicables;
+IX. La construcción de obras hidráulicas y de electrificación; y
 
-X. Supervisión de estudios y proyectos: Verificación del cumplimiento de programas propuestos por los contratistas, control de calidad de ejecución de los trabajos, verificación de cumplimiento de esta Ley y de las disposiciones que de ella emanen, del contrato específico, su recepción, liquidación y finiquito; y
+X. Todos aquellos trabajos de naturaleza análoga a los señalados en las fracciones anteriores.
 
-XI. Todos los demás acciones o servicios que se vinculen con el objeto de esta Ley.
+B. Los servicios relacionados con las obras públicas comprenden:
+
+I. Administración de obra;
+
+II. Consultorías;
+
+III. Coordinación de supervisión;
+
+IV. Estudios Técnicos;
+
+V. Gerencia de obra;
+
+VI. Proyectos;
+
+VII. Supervisión de obra;
+
+VIII. Supervisión de estudios y proyectos; y
+
+IX. Todas las demás acciones o servicios que se vinculen con el objeto de esta Ley.
 
 ###### Artículo 4.
 
@@ -127,39 +219,55 @@ El Ejecutivo del Estado podrá asociarse con el sector privado para el desarroll
 
 Los contratos y convenios que celebren, los entes públicos señalados en el artículo 1 de esta Ley, y los actos administrativos que los mismos emitan en la materia objeto de este ordenamiento serán de derecho público, y toda controversia que se suscite en relación a ellos podrá ser impugnada en los términos del Código de Procedimientos Administrativos para el Estado, el que también será aplicado supletoriamente a esta Ley.
 
+> <small>(REFORMADO, G.O. 11 DE ENERO DE 2016)</small>
+
 ###### Artículo 6.
 
-Para los efectos de la presente Ley, se entenderá por:
+El Ejecutivo del Estado constituirá el Consejo Consultivo de Obra Pública, como órgano de asesoría y consulta para la aplicación de esta Ley en la esfera de su competencia. El Consejo estará integrado de la siguiente manera:
 
-I. Bitácora: El instrumento técnico que constituye el medio de comunicación entre las partes que formalizan los contratos, en el cual se registran los asuntos y eventos importantes que se presenten durante la ejecución de los trabajos, ya sea a través de medios remotos de comunicación electrónica, caso en el cual se denominará Bitácora Electrónica, u otros medios autorizados en los términos del Reglamento, en cuyo caso se denominará Bitácora Convencional;
+I. Un Presidente, que será el Gobernador del Estado;
 
-II. Contratista: Contraparte de un ente público en un contrato de obra pública;
+II. Un Secretario Ejecutivo que será el Secretario de Infraestructura y Obras Públicas;
 
-III. Entes públicos: Los previstos en el artículo 1 del presente ordenamiento;
+III. Un Vocal permanente que será el Contralor General del Estado;
 
-IV. Estimación: La valuación de los trabajos ejecutados en un periodo determinado, presentada para autorización de pago, en la cual se aplican los precios, valores o porcentajes establecidos en el contrato en atención a la naturaleza y características del mismo, considerando, en su caso, la amortización de los anticipos, los ajustes de costos, las retenciones económicas, las penas convencionales y las deducciones; así como, la valuación de los conceptos que permitan determinar el monto de los gastos no recuperables;
+IV. Vocales no permanentes representantes del sector público que serán convocados de conformidad al tema en consulta y de acuerdo a su competencia, de manera enunciativa más no limitativa quedan comprendidos: los Secretarios de Gobierno, Finanzas y Planeación, Educación, Desarrollo Económico y Portuario, Desarrollo Social, Desarrollo Agropecuario, Rural y Pesca, de Salud, Seguridad Pública, de Medio Ambiente, Protección Civil y de Turismo; así como los titulares de la Comisión del Agua, Instituto de Espacios Educativos, Universidad Veracruzana, el Consejo para el Desarrollo del Papaloapan; y los Presidentes Municipales que ejecutan obras en coordinación con el Estado; y
 
-V. Ley: La Ley de Obras Públicas y Servicios Relacionados con Ellas del Estado de Veracruz de Ignacio de la Llave;
+V. Vocales permanentes representantes del sector privado que serán: Asociación de Constructores del Estado de Veracruz, A.C., Cámara Mexicana de la Industria de la Construcción, Colegios de Arquitectos y Colegios de Ingenieros del Estado de Veracruz de Ignacio de la Llave. En el caso de los colegios, se nombrará un representante por todos los Colegios de Arquitectos y otro por los Colegios de Ingenieros existentes en todo el Estado.
 
-VI. Licitante: La persona que participa presentando una propuesta en un procedimiento de licitación pública;
+También podrán asistir a las Sesiones que lleve a cabo el Consejo, invitados que sean convocados por el mismo, cuando por la naturaleza de los asuntos a tratar, se considere pertinente su participación.
 
-VII. Perito profesional: La persona que cuenta con cédula profesional, en la materia de la presente Ley, y efectúan actualizaciones periódicas ante la Secretaría de Educación Pública;
+En caso de que alguno de los miembros del Consejo no pueda asistir a la Sesión, tendrá la facultad de nombrar por escrito a un representante, quien contará con las mismas atribuciones.
 
-VIII. Proyecto Ejecutivo: El conjunto de planos y documentos que conforman los proyectos arquitectónico y de ingeniería de una obra, el catálogo de conceptos, así como las descripciones e información suficientes para que ésta se pueda llevar a cabo;
-
-IX. Reglamento: El Reglamento de esta Ley;
-
-X. Sefiplan: La Secretaría de Finanzas y Planeación.
+> <small>(REFORMADO, G.O. 11 DE ENERO DE 2016)</small>
 
 ###### Artículo 7.
 
-El Ejecutivo del Estado constituirá el Comité Consultivo de Obras Públicas, como órgano de asesoría y consulta para la aplicación de esta Ley en la esfera de su competencia, que será presidido por el Gobernador del Estado, el Secretario de Gobierno, quien suplirá al Presidente en sus ausencias, y también lo integrarán los titulares de las Secretarías de Finanzas y Planeación, Comunicaciones, de Desarrollo Social y la Contraloría General.
+Las atribuciones del Consejo Consultivo de Obra Pública serán las siguientes:
 
-A las sesiones del Comité, asistirán el sector social y privado; y los titulares o representantes de los demás entes públicos, cuando por la naturaleza de los asuntos que deba tratar, se considere pertinente su participación.
+I. Fungir como órgano de asesoría y consulta, para determinar la oportunidad de ejecución de proyectos estratégicos de obra pública y servicios relacionados con ella, en función de su conveniencia social, ambiental y financiera;
+
+II. Proponer a los órganos competentes, actividades y operaciones reguladas por esta Ley, con la finalidad de que la obra pública y los servicios relacionados con ella cumplan con los principios de economía, calidad, eficiencia y oportunidad;
+
+III. Opinar cuando se le requiera, acerca de los programas y presupuestos de Entes Públicos para la ejecución de obras públicas y servicios relacionados con ellas;
+
+IV. Proponer procedimientos de coordinación, información y consulta en materia de contratación de obras públicas y servicios relacionados con ellas;
+
+V. Proponer medidas y criterios que tengan por objeto fortalecer la participación de las MIPYMES en las materias reguladas por la Ley;
+
+VI. Sugerir medidas y criterios para que la ejecución de la obra y los servicios relacionados con ella, se ajusten a los objetivos y prioridades del Plan Veracruzano de Desarrollo y de los programas sectoriales, especiales, regionales, institucionales y operativos que correspondan;
+
+VII. Emitir las opiniones pertinentes cuando se le requiera, respecto a los informes que rindan los Entes Públicos y cuando corresponda a los públicos-privados con el propósito de coadyuvar a mejorar la eficiencia presupuestal;
+
+VIII. Establecer los grupos de trabajo que se estimen pertinentes para el mejor análisis de los asuntos específicos de su interés; y
+
+IX. Las demás que en su caso se establezcan en el Reglamento.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE ENERO DE 2016)</small>
 
 ###### Artículo 8.
 
-Los titulares o representantes de los entes públicos que, en términos de ley, tengan a su cargo la ejecución de obras públicas, establecerán, en sus respectivos ámbitos de competencia, un Comité para la Adjudicación de Obras Públicas y Servicios Relacionados con Ellas, que tendrá la organización y funcionamiento que establezca el Reglamento.
+Los titulares o representantes de los Entes Públicos que tengan a su cargo la ejecución de obras públicas o servicios relacionados con ellas, establecerán en sus respectivos ámbitos de competencia, un Comité de Obras Públicas y Servicios Relacionados con Ellas, que tendrán la organización y funcionamiento que establezca el Reglamento.
 
 Estos Comités deberán cumplir, al menos, las funciones siguientes:
 
@@ -185,23 +293,13 @@ El gasto y el registro de las obras públicas y los servicios relacionados con e
 
 Cuando por las condiciones especiales de las obras públicas se requiera la intervención de dos o más entes públicos, quedará a cargo de cada uno la responsabilidad sobre la ejecución de la parte de la obra que les corresponda, sin perjuicio de la que le pudiera resultar al encargado de la planeación y programación correspondiente. Ninguna obra pública conjunta podrá ejecutarse sin que previamente se celebre el convenio respectivo.
 
+> <small>(REFORMADO, G.O. 11 DE ENERO DE 2016)</small>
+
 ###### Artículo 12.
 
-En la adopción e instrumentación de los sistemas y procedimientos para la realización de las acciones, actos y contratos que deban llevar a cabo en cumplimiento de esta Ley, se observarán los criterios siguientes:
+Los Entes Públicos que realicen obras públicas y servicios relacionados con ellas, sea por contrato o por administración directa, así como los contratistas con quienes aquellos contraten, observarán las disposiciones que en materia de asentamientos humanos, desarrollo urbano, medio ambiente y construcción rijan en el ámbito federal, estatal y municipal.
 
-I. Proveer a la simplificación administrativa, reducción, agilización y transparencia de los procedimientos y trámites;
-
-II. Ejecutar las acciones tendentes a descentralizar las funciones que realicen con objeto de procurar que los trámites se lleven a cabo y resuelvan en los mismos lugares en que se originen las operaciones;
-
-III. Promover la efectiva delegación de facultades en servidores públicos subalternos, a efecto de garantizar mayor oportunidad en la toma de decisiones y flexibilidad de diferenciación en la atención de los asuntos;
-
-IV. Racionalizar y simplificar las estructuras con que cuenten a efecto de utilizar los recursos estrictamente indispensables para llevar a cabo sus operaciones;
-
-V. Verificar el cumplimiento de las disposiciones en materia ambiental, desarrollo urbano, protección civil, así como de calidad en las técnicas y materiales utilizados en la ejecución de obras públicas;
-
-VI. Tramitar los dictámenes, permisos, licencias, derecho de banco de materiales, derecho de vía y, en su caso, la expropiación de inmuebles previo a la ejecución de las obras públicas; y,
-
-VII. Los demás que señale el Reglamento.
+Los Entes Públicos, previamente a la realización de los trabajos, deberán tramitar y obtener de las autoridades competentes, cuando sea el caso, los dictámenes, permisos, licencias, derechos de bancos de materiales, así como la propiedad o los derechos de propiedad incluyendo derechos de vía y expropiación de inmuebles sobre los cuales se ejecutarán las obras públicas, o en su caso, los derechos otorgados por quien pueda disponer legalmente de los mismos. En la convocatoria a la licitación o en la invitación a cuando menos tres personas se precisarán en su caso, aquéllos trámites que corresponderá realizar al contratista.
 
 ###### Artículo 13.
 
@@ -225,7 +323,9 @@ III. Ceñirse a los objetivos, metas y previsiones establecidos en sus respectiv
 
 IV. Acatar las disposiciones legales y reglamentarias aplicables; y
 
-V. Adecuarse a los procesos de certificación de calidad reconocidos internacionalmente, con sus respectivos manuales y normas.
+> <small>(REFORMADA, G.O. 11 DE ENERO DE 2016)</small>
+
+V. Adecuarse, en su caso, a los procesos de certificación de calidad reconocidos internacionalmente, con sus respectivos manuales y normas.
 
 ###### Artículo 15.
 
@@ -241,7 +341,9 @@ IV. La coordinación con otros entes públicos que realicen obras en las mismas 
 
 V. Los avances tecnológicos aplicables y la selección de materiales, productos, equipos y procedimientos que satisfagan los requerimientos técnicos y económicos del proyecto;
 
-VI. Tratándose de la edificación de vivienda de interés social, se procurará que en su construcción se utilicen, preferentemente, módulos, sistemas y componentes industrializados que cumplan con las normas de sustentabilidad que establecen las disposiciones aplicables en esa materia; buscando las condiciones de confort y habitabilidad, reguladas en las disposiciones aplicables;
+> <small>(REFORMADA, G.O. 11 DE ENERO DE 2016)</small>
+
+VI. Tratándose de la edificación de vivienda de interés social, se utilizarán materiales regionales así como sistemas y componentes que cumplan con las normas de sustentabilidad que establecen las disposiciones aplicables en esa materia; buscando las condiciones de confort y habitabilidad, reguladas en las disposiciones aplicables;
 
 VII. La adquisición de áreas y predios, previa consulta con la Secretaría de Desarrollo Social, cuando se trate de obras urbanas, para que ésta, en el ejercicio de sus atribuciones, determine la conveniencia y viabilidad. Además la observancia de las declaratorias de provisiones, usos, reservas y destino de áreas y predios que se hubieran hecho conforme a lo dispuesto por las leyes de la materia;
 
@@ -267,9 +369,11 @@ V. Las áreas de los entes públicos responsables de su ejecución, de conformid
 
 VI. La fecha de inicio y terminación de todas sus fases, considerando las acciones previas y las características ambientales, climáticas y geográficas de la región donde deberán realizarse.
 
+> <small>(REFORMADO, G.O. 11 DE ENERO DE 2016)</small>
+
 ###### Artículo 17.
 
-Los programas de obras públicas se enviarán, para fines informativos y estadísticos, a la Sefiplan, con el propósito de conocer su conformidad con los objetivos y prioridades de los planes de desarrollo federal, estatal y municipal, en términos de las disposiciones aplicables, así como a los respectivos órganos de control interno para su debido seguimiento.
+Los Entes Públicos deberán elaborar los informes de resultados de las evaluaciones de desempeño de los programas a su cargo, en la forma y términos que establezcan las leyes aplicables.
 
 ###### Artículo 18.
 
@@ -281,7 +385,9 @@ II. Los proyectos arquitectónicos y de ingeniería necesarios;
 
 III. La regularización y adquisición de la tierra;
 
-IV. La ejecución, que deberá incluir el costo estimado de la obra que se realice por administración directa y, en caso de realizarse por contrato, los costos de mano de obra y demás recursos necesarios, las condiciones de suministro de materiales, de maquinaria, de equipos o de cualquier otro accesorio relacionado con la obra, los cargos adicionales para ensayos y pruebas de materiales y funcionamiento de la obra, así como los indirectos de la misma y, en su caso, la utilidad que obtendrá el contratista;
+> <small>(REFORMADA, G.O. 11 DE ENERO DE 2016)</small>
+
+IV. La ejecución, que deberá incluir el costo estimado de la obra que se realice por administración directa y, en caso de realizarse por contrato, se deberá incluir el sobrecosto correspondiente;
 
 V. Las obras de infraestructura complementarias;
 
@@ -291,9 +397,11 @@ VII. Los trabajos de conservación y mantenimiento ordinario, preventivo y corre
 
 VIII. Las demás previsiones que deban tomarse en consideración según la naturaleza y características de la obra.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE ENERO DE 2016)</small>
+
 ###### Artículo 19.
 
-En la planeación, programación y presupuestación de las obras públicas y los servicios relacionados con ellas, se tomará en cuenta, preferentemente, la mano de obra veracruzana, alentando la contratación de personas con capacidades diferentes; así como el empleo de maquinaria, materiales, productos y equipos del Estado de Veracruz de Ignacio de la Llave.
+En la planeación, programación y presupuestación de las obras públicas y los servicios relacionados con ellas, se tomará en cuenta, preferentemente, la mano de obra veracruzana, alentando la contratación de personas con discapacidad; así como el empleo de maquinaria, materiales, productos y equipos del Estado de Veracruz de Ignacio de la Llave.
 
 Al efecto, el Titular del Poder Ejecutivo y los de los demás entes públicos, podrán celebrar convenios con los colegios de ingenieros, de arquitectos, cámaras y asociaciones de la industria de la construcción, con representación en el Estado y, en general, con los organismos del sector social y privado, para que se oferten a los entes públicos los productos, servicios e insumos para la construcción, a precios competitivos, a efecto de fortalecer la economía del Estado de Veracruz de Ignacio de la Llave.
 
@@ -309,7 +417,9 @@ II. Contrato.
 
 Los entes públicos, sólo iniciarán la ejecución de las obras o servicios, cuando:
 
-I. Cuenten, dependiendo del tipo de contrato, con los estudios y proyectos de arquitectura e ingeniería; las especificaciones técnicas generales y particulares y las normas de calidad correspondientes; el presupuesto de obra total y, en su caso, para cada ejercicio fiscal; el programa de ejecución convenido, los programas de suministro de materiales, mano de obra y maquinaria y equipo y, de requerirse, de equipo de instalación permanente, ya sea que éstos sean proporcionados por la convocante o los contratistas. Tratándose de servicios se deberá contar con los términos de referencia; los programas de prestación de servicios; la plantilla y organigrama del personal, y el presupuesto de los trabajos; sólo en casos excepcionales, debidamente justificados y motivados, podrá iniciarse la obra sin proyecto previo;
+> <small>(REFORMADA, G.O. 11 DE ENERO DE 2016)</small>
+
+I. Cuenten, dependiendo del tipo de contrato con excepción del Proyecto Integral, con los estudios y proyectos de arquitectura e ingeniería; las especificaciones técnicas generales y particulares y las normas de calidad correspondientes; el presupuesto de obra total y, en su caso, para cada ejercicio fiscal; el programa de ejecución convenido, los programas de suministro de materiales, mano de obra y maquinaria y equipo y, de requerirse, de equipo de instalación permanente, ya sea que éstos sean proporcionados por la convocante o los contratistas. Tratándose de servicios se deberá contar con los términos de referencia; los programas de prestación de servicios; la plantilla y organigrama del personal, y el presupuesto de los trabajos; sólo en casos excepcionales, debidamente justificados y motivados, podrá iniciarse la obra sin proyecto previo. En el caso de los Proyectos Integrales, se estará a lo dispuesto en el Reglamento de la presente Ley.
 
 II. Se haya emitido el acuerdo de ejecución en caso de administración directa o garantizado y formalizado el contrato; y
 
@@ -319,15 +429,21 @@ Se deberán prever los impactos económicos, sociales y ecológicos que se origi
 
 ### CAPÍTULO III. DE LA OBRA PÚBLICA POR ADMINISTRACIÓN DIRECTA
 
+> <small>(REFORMADO, G.O. 11 DE ENERO DE 2016)</small>
+
 ###### Artículo 22.
 
-Los entes públicos podrán realizar obra pública por administración directa, siempre que cuenten con los recursos autorizados para ello, capacidad técnica, maquinaria y equipo de construcción, personal técnico y trabajadores que se requieran para el desarrollo y ejecución directa de los trabajos respectivos; y sus requerimientos complementarios para la ejecución de la obra de que se trate, y se ajusten a la planeación, programación y presupuestación, en términos del artículo 50 de la presente Ley, y demás preceptos aplicables.
+Los Entes Públicos podrán realizar obra pública por administración directa, siempre que cuenten con los recursos autorizados para ello, capacidad técnica, maquinaria y equipo de construcción y personal técnico que se requiera para el desarrollo y ejecución directa de los trabajos respectivos; y sus requerimientos complementarios para la ejecución de la obra de que se trate, y se ajusten a la planeación, programación y presupuestación, en términos del artículo 50 de la presente Ley, y demás preceptos aplicables.
 
-El cumplimiento de esta disposición legal, se acreditará a través de un dictamen técnico que emita el área responsable de la ejecución de los trabajos, el que deberá estar debidamente fundado y motivado, e integrarse al expediente técnico para la presupuestación y autorización de los recursos que se destinen a la obra pública de que se trate.
+El cumplimiento de esta disposición legal, se acreditará a través del acuerdo de ejecución a que se refiere el artículo 24 de esta Ley, el que deberá estar debidamente fundado y motivado, e integrarse al expediente.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE ENERO DE 2016)</small>
 
 ###### Artículo 23.
 
-En la ejecución de obra por administración directa no podrán participar terceros como contratistas, independientemente de las modalidades que éstos adopten, a excepción que se requiera contratar trabajos especializados o adquirir equipos, instrumentos o elementos prefabricados terminados, materiales u otros bienes que incluyan su instalación, montaje, colocación o aplicación, cuyo monto en su conjunto no rebase el treinta y cinco por ciento del total del presupuesto aprobado en el rubro de obras públicas y servicios relacionados con ellas. Se podrá también, en su caso:
+En la ejecución de obra por administración directa no podrá en su conjunto rebasarse el treinta y cinco por ciento del total del presupuesto aprobado en el rubro de obras públicas y servicios relacionados con ellas.
+
+Se podrá también, en su caso:
 
 I. Utilizar mano de obra local complementaria que se requiera, lo que invariablemente deberá llevarse a cabo por obra determinada;
 
@@ -335,9 +451,15 @@ II. Arrendar equipo y maquinaria de construcción complementarios; o
 
 III. Contratar los servicios de acarreos complementarios que se necesiten.
 
+> <small>(ADICIONADO, G.O. 11 DE ENERO DE 2016)</small>
+
+En la ejecución de obra por administración directa no podrán participar terceros como contratistas, independientemente de las modalidades que éstos adopten, a excepción que se requiera contratar trabajos especializados, arrendar o adquirir equipo y maquinaria de construcción complementarios, instrumentos o elementos prefabricados terminados, materiales u otros bienes que incluyan su instalación, montaje, colocación o aplicación, cuyo monto en su conjunto no rebase el treinta y cinco por ciento del total del presupuesto aprobado de la obra a ejecutar por administración directa.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE ENERO DE 2016)</small>
+
 ###### Artículo 24.
 
-Previamente a la realización de los trabajos por administración directa, el Comité para la Adjudicación de Obras Públicas y Servicios Relacionados con Ellas emitirá el acuerdo respectivo, en el que se harán constar las condiciones de ejecución de la obra, y contendrá además los elementos siguientes:
+Previamente a la realización de los trabajos por administración directa, el titular del Ente Público emitirá el acuerdo de ejecución, del cual se informará al Comité de Obras Públicas y Servicios Relacionados con Ellas, en el que se harán constar las condiciones de ejecución de la obra, y contendrá además los elementos siguientes:
 
 I. Autorización de recursos presupuestados destinados a la obra;
 
@@ -403,7 +525,9 @@ a) Última declaración actualizada del pago de los impuestos federales y estata
 
 b) Exhibir los contratos de obra pública ejecutada en los últimos tres años a la solicitud de inscripción; acta de entrega- recepción y finiquito de las obligaciones de dichos contratos, o en su caso señalar el estado que guardan los trabajos de obras públicas o servicios relacionados con ellas, para el caso de que se encuentren en ejecución; y
 
-c) Comprobante de tener un domicilio en el territorio del Estado.
+> <small>(REFORMADO, G.O. 11 DE ENERO DE 2016)</small>
+
+c) Señalar domicilio para oír y recibir toda clase de notificaciones aún las de carácter personal en el Estado, y acompañar comprobante de tener un domicilio en el territorio del Estado.
 
 Los documentos mencionados en esta fracción deberán ser presentados en original o en documentos certificados legalmente, para su cotejo;
 
@@ -413,37 +537,45 @@ XV. Estar inscrito en el Sistema de Información Empresarial Mexicano (SIEM); y
 
 XVI. Los demás documentos e información que la Sefiplan considere pertinentes. Esta dependencia podrá verificar en cualquier tiempo la información a la que se refiere este artículo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE ENERO DE 2016)</small>
+
 ###### Artículo 28.
 
-La Sefiplan, en un plazo no mayor de veinte días hábiles, contados a partir de la fecha de recepción de la solicitud, resolverá sobre la inscripción en el Padrón, expidiendo, en su caso, la constancia correspondiente, en términos del Reglamento. Transcurrido este plazo sin respuesta de la autoridad, se tendrá por configurada la negativa ficta, conforme a lo dispuesto en la fracción III del artículo 157 del Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave.
+La Sefiplan, en un plazo no mayor de diez días hábiles, contados a partir de la fecha de recepción de la solicitud, resolverá sobre la inscripción en el Padrón, expidiendo, en su caso, la constancia correspondiente, en términos del Reglamento. Transcurrido este plazo sin respuesta de la autoridad, se tendrá por configurada la negativa ficta, conforme a lo dispuesto en la fracción III del artículo 157 del Código de Procedimientos Administrativos para el Estado de Veracruz de Ignacio de la Llave.
 
 La Sefiplan, atendiendo a la documentación presentada, podrá reclasificar, en cualquier momento, a las personas inscritas en el Padrón, de oficio o a petición de parte.
 
+> <small>(REFORMADO, G.O. 11 DE ENERO DE 2016)</small>
+
 ###### Artículo 29.
 
-El refrendo del registro en el Padrón de Contratistas de Obras Públicas y Servicios Relacionados con Ellas será anual, presentada la solicitud por el interesado, la Sefiplan resolverá sobre la misma en un plazo no mayor de quince días hábiles, pronunciándose sobre si aprueba o no el refrendo.
+El refrendo del registro en el Padrón de Contratistas de Obras Públicas y Servicios Relacionados con Ellas será anual, presentada la solicitud por el interesado, la Sefiplan resolverá sobre la misma en un plazo no mayor de diez días hábiles, pronunciándose sobre si aprueba o no el refrendo. Los contratistas estarán obligados a proporcionar la información que se les requiera para efectos de actualizaciones o refrendo.
 
-Los contratistas estarán obligados a proporcionar la información que se les requiera para efectos de actualizaciones o refrendo.
+> <small>(REFORMADO, G.O. 11 DE ENERO DE 2016)</small>
 
 ###### Artículo 30.
 
-La Contraloría General, estará en condiciones de emitir una cédula única, relacionada con el padrón de contratistas, mediante la cual se facilite la simplificación administrativa ante los entes públicos, en los trámites relacionados con la contratación de las obras públicas y los servicios relacionados con ellas. Lo anterior con el propósito de evitar la presentación de documentación que ya haya sido validada anteriormente ante una dependencia o entidad.
+Con la finalidad de simplificar y evitar la presentación de documentación que haya sido validada por la Sefiplan, en los procesos de contratación en su fase de licitación, o invitación a cuando menos tres personas, los Entes Públicos del Poder Ejecutivo Estatal solicitarán únicamente la cédula de identificación del Padrón de Contratistas del Estado y un escrito firmado por el contratista o representante legal, según sea el caso, bajo protesta de decir verdad, en el que se afirme que todos los documentos que fueron presentados para la inscripción al padrón al que se refiere el artículo 27 de esta Ley, se encuentran vigentes.
 
-Los Municipios podrán convenir con el Titular del Ejecutivo del Estado la utilización de la cédula única.
+Los demás Entes Públicos ajenos al Poder Ejecutivo Estatal podrán optar por convenir con este último, la utilización del procedimiento descrito en el párrafo anterior.
 
-Esta cédula deberá refrendarse anualmente ante la Contraloría General.
+En el caso de licitaciones públicas, cuando el licitante no cuente con la cédula de identificación del Padrón de Contratistas del Estado, deberá presentar la documentación que se establece en el Reglamento para estos efectos.
 
 ###### Artículo 31.
 
 Por la expedición de los documentos previstos en el presente Capítulo, se cubrirá el pago derechos en los términos siguientes:
 
-I. Inscripción en el Padrón: Cincuenta días de salario mínimo general vigente en la ciudad de Xalapa-Enríquez, Veracruz;
+> <small>(REFORMADA, G.O. 11 DE ENERO DE 2016)</small>
 
-II. Refrendo en el Padrón: Veinticinco días de salario mínimo general vigente en la ciudad de Xalapa-Enríquez, Veracruz;
+I. Inscripción en el Padrón: Cincuenta días de salario mínimo general vigente en la Ciudad de Xalapa de Enríquez, Veracruz; y
 
-III. Cédula Única: Cien días de salario mínimo general vigente en la ciudad de Xalapa-Enríquez, Veracruz; y
+> <small>(REFORMADA, G.O. 11 DE ENERO DE 2016)</small>
 
-IV. Refrendo de la Cédula Única: Cincuenta días de salario mínimo general vigente en la ciudad de Xalapa-Enríquez, Veracruz;
+II. Refrendo en el Padrón: Veinticinco días de salario mínimo general vigente en la Ciudad de Xalapa de Enríquez, Veracruz.
+
+III. (DEROGADA, G.O. 11 DE ENERO DE 2016)
+
+IV. (DEROGADA, G.O. 11 DE ENERO DE 2016)
 
 ###### Artículo 32.
 
@@ -461,31 +593,45 @@ Cuando desaparezcan las causas que hubiesen motivado la suspensión del Registro
 
 La Sefiplan cancelará al contratista su Registro en el Padrón, cuando:
 
-I. La información que hubiere proporcionado para la inscripción o refrendo resultare falsa, o hayan actuado con dolo o mala fe en una subasta o ejecución de una obra;
+> <small>(REFORMADA, G.O. 11 DE ENERO DE 2016)</small>
+
+I. La información que hubiere proporcionado para la inscripción o refrendo resultare falsa, o hayan actuado con dolo o mala fe en un procedimiento de contratación o ejecución de una obra;
 
 II. No cumpla en sus términos con algún contrato por causas imputables a él, y perjudique con esto los intereses del Estado;
 
 III. Se declare su quiebra por sentencia ejecutoria;
 
-IV. Incurra en cualquier acto u omisión que les sea imputable y que dañe los intereses del Estado;
+> <small>(REFORMADA, G.O. 11 DE ENERO DE 2016)</small>
+
+IV. Incurra en cualquier acto u omisión que les sea imputable y que dañe los intereses del Estado de manera irreparable;
 
 V. Haya celebrado contrato en contravención con lo dispuesto por esta Ley, por causas que le sean imputables; o
 
 VI. Se le declare incapacitado legalmente para contratar.
 
-Los efectos de la suspensión o cancelación en el registro del Padrón, se harán extensivos a la Cédula Única.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, G.O. 11 DE ENERO DE 2016)</small>
 
 ### CAPÍTULO V. DE LOS PROCEDIMIENTOS DE CONTRATACIÓN
 
+> <small>(REFORMADO, G.O. 11 DE ENERO DE 2016)</small>
+
 ###### Artículo 34.
 
-La contratación de obras públicas y de servicios relacionados con ellas, se adjudicará mediante licitación pública por convocatoria, para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar al ente público las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes.
+Los Entes Públicos seleccionarán de entre los procedimientos que a continuación se señalan, aquél que de acuerdo con la naturaleza de la contratación asegure al Estado las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes:
 
-Cuando las licitaciones no sean idóneas para asegurar las condiciones referidas en el párrafo anterior, se optará por el procedimiento de invitación a cuando menos tres personas o de adjudicación directa para el efecto de acreditar la economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado.
+I. Licitación pública;
 
-Para los efectos de la contratación, cada obra deberá considerarse individualmente, a fin de determinar si queda comprendida dentro de los montos máximos y límites, que establezca el Presupuestos de Egresos; en la inteligencia de que, en ningún caso, el importe total de una obra podrá ser fraccionado para que quede comprendida en los supuestos de excepción previstos en la presente Ley.
+II. Invitación a cuando menos tres personas; o
 
-Los titulares o representantes de los entes públicos publicarán en la Gaceta Oficial del Estado el acuerdo en que se señalen los montos para licitación pública, invitación a cuando menos tres personas o adjudicación directa de toda obra pública que realicen.
+III. Adjudicación directa.
+
+Los contratos de obras públicas y servicios relacionados con ellas se adjudicarán, por regla general, a través de licitaciones públicas, mediante convocatoria pública, para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente.
+
+Las condiciones contenidas en la convocatoria a la licitación e invitación a cuando menos tres personas y en las proposiciones presentadas por los licitantes no podrán ser negociadas, sin perjuicio de que la convocante pueda solicitar a los licitantes aclaraciones o información adicional.
+
+Para los efectos de la contratación, cada obra deberá considerarse individualmente, a fin de determinar si queda comprendida dentro de los montos máximos y límites, que establezca el Presupuesto de Egresos; en la inteligencia de que, en ningún caso, el importe total de una obra podrá ser fraccionado para que quede comprendida en los supuestos de excepción previstos en la presente Ley.
+
+Los Entes Públicos a más tardar en el mes de marzo de cada ejercicio fiscal publicarán en la Gaceta Oficial del Estado el acuerdo emitido en su respectivo Comité de Obras Públicas y Servicios Relacionados con Ellas en el que señalen los montos máximos de adjudicación directa y los de adjudicación mediante invitación a cuando menos tres personas de las obras públicas y servicios relacionados con las mismas a su cargo. En caso de existir durante el transcurso del ejercicio fiscal adecuaciones a su programa operativo anual que modifiquen los montos máximos autorizados deberán hacerlo del conocimiento al Comité y publicarlo en sus respectivas páginas electrónicas.
 
 ###### Artículo 35.
 
@@ -499,9 +645,11 @@ El titular del ente público podrá celebrar contratos de supervisión externa, 
 
 #### SECCIÓN PRIMERA. DE LA LICITACIÓN PÚBLICA
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE ENERO DE 2016)</small>
+
 ###### Artículo 37.
 
-La licitación pública podrá ser nacional o internacional, bajo tratados o no, e inicia con la publicación de la convocatoria y concluye con la emisión del fallo y la firma del contrato o, en su caso, la cancelación del procedimiento.
+La licitación pública podrá ser estatal, nacional o internacional, en este último caso cuando resulte obligatorio conforme a lo establecido en los tratados internacionales o se acredite la reciprocidad internacional; e inicia con la publicación de la convocatoria y concluye con la firma del contrato o, en su caso, la cancelación del procedimiento, en aquellos supuestos que el Reglamento establece.
 
 En los procedimientos de licitación deberán establecerse los mismos requisitos y condiciones para todos los participantes, debiendo los entes públicos proporcionar a todos los interesados igual acceso a la información relacionada con dichos procedimientos, a fin de evitar favorecer a algún participante.
 
@@ -517,9 +665,15 @@ Para la participación en los procedimientos de licitación pública se podrán 
 
 Las proposiciones presentadas deberán firmarse autógrafamente por los licitantes o sus apoderados. El sobre que contenga la proposición de los licitantes deberá entregarse en la forma y medios que prevea la convocatoria a la licitación. En el caso de que las proposiciones se envíen a través de medios electrónicos, en sustitución de la firma autógrafa se emplearán los medios de identificación electrónica que establezcan las leyes de la materia.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE ENERO DE 2016)</small>
+
 ###### Artículo 39.
 
-La convocatoria a la licitación pública se publicará en la Gaceta Oficial del Estado, en un periódico de mayor circulación en el Estado y en los medios electrónicos autorizados. Tratándose de los municipios, se aquel que tenga mayor distribución en la región.
+La convocatoria a la licitación pública se publicará en la Gaceta Oficial del Estado, en un periódico de mayor circulación en el Estado y en los medios electrónicos autorizados, y para el caso de nacionales e internacionales además en el Diario Oficial de la Federación.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 11 DE ENERO DE 2016)</small>
+
+Tratándose de los municipios, en cuando (sic) al requisito de publicación en medios impresos, deberá realizarse en aquel que tenga mayor distribución en la región.
 
 En la convocatoria se establecerán las bases del procedimiento de licitación y los requisitos de participación, que deberán contener:
 
@@ -527,11 +681,15 @@ I. La denominación del ente público convocante;
 
 II. La descripción general de la obra o del servicio, y el lugar donde se ejecutarán los trabajos;
 
-III. Los porcentajes, forma y términos de los anticipos que, en su caso, se otorgarán;
+> <small>(REFORMADA, G.O. 11 DE ENERO DE 2016)</small>
+
+III. Los porcentajes, forma y términos de los anticipos que se otorgarán;
 
 IV. Plazo de ejecución de los trabajos, determinado en días naturales, indicando la fecha estimada de inicio y conclusión de los trabajos;
 
-V. Las proposiciones se presentarán en moneda nacional;
+> <small>(REFORMADA, G.O. 11 DE ENERO DE 2016)</small>
+
+V. Indicar que las proposiciones se presentarán siempre en moneda nacional;
 
 VI. Las condiciones de pago de acuerdo al tipo de contrato a celebrar;
 
@@ -543,11 +701,15 @@ IX. La fecha, hora y lugar de la primera junta de aclaraciones a la convocatoria
 
 X. Las fechas, horas y lugares de celebración del acto de presentación y apertura de proposiciones, comunicación del fallo y firma del contrato;
 
-XI. El señalamiento para intervenir en el acto de presentación y apertura de proposiciones bastará que los licitantes presenten un escrito en el que su firmante manifieste, bajo protesta de decir verdad, que cuenta con facultades suficientes para comprometerse por sí o por su representada, sin que resulte necesario acreditar su personalidad jurídica;
+> <small>(REFORMADA, G.O. 11 DE ENERO DE 2016)</small>
+
+XI. El señalamiento que para intervenir en el acto de presentación y apertura de proposiciones bastará que los licitantes presenten un escrito en el que su firmante manifieste, bajo protesta de decir verdad, que cuenta con facultades suficientes para comprometerse por sí o por su representada, sin que resulte necesario acreditar su personalidad jurídica, en el caso de que participe únicamente como observador;
 
 XII. La forma en que los licitantes deberán acreditar su existencia legal y personalidad jurídica, para efectos de la firma del contrato. Asimismo, la indicación de que el licitante deberá proporcionar una dirección de correo electrónico, en caso de contar con él;
 
-XIII. La indicación de que las personas en que de acuerdo a lo que prevé esta Ley pretendan participar en el procedimiento de contratación para la ejecución de una obra, manifiesten bajo protesta de decir verdad que los estudios, planes o programas que previamente hayan realizado, incluyen supuestos, especificaciones e información verídicos y se ajustan a los requerimientos reales de la obra a ejecutar; así como, en su caso, consideran costos estimados apegados a las condiciones del mercado. En el supuesto de que la manifestación se haya realizado con falsedad, se sancionará al licitante conforme a lo previsto por esta Ley;
+> <small>(REFORMADA, G.O. 11 DE ENERO DE 2016)</small>
+
+XIII. La indicación de que las personas que de acuerdo a lo que prevé esta Ley pretendan participar en el procedimiento de contratación para la ejecución de una obra, manifiesten bajo protesta de decir verdad que los estudios, planes o programas que previamente hayan realizado, incluyen supuestos, especificaciones e información verídicos y se ajustan a los requerimientos reales de la obra a ejecutar; así como, en su caso, consideran costos estimados apegados a las condiciones del mercado. En el supuesto de que la manifestación se haya realizado con falsedad, se sancionará al licitante conforme a lo previsto por esta Ley y demás disposiciones aplicables;
 
 XIV. La forma en que los licitantes acreditarán su experiencia y capacidad técnica y financiera que se requiera para participar en la licitación, de acuerdo con las características, complejidad y magnitud de los trabajos;
 
@@ -615,17 +777,25 @@ III. Se levantará acta circunstanciada que servirá de constancia de la celebra
 
 Los licitantes son los únicos responsables de que sus proposiciones sean entregadas en tiempo y forma en el acto de presentación y apertura de proposiciones. No será motivo de descalificación la falta de identificación o de acreditamiento de la representación de la persona que únicamente entregue la proposición, pero sólo podrá participar durante el desarrollo del acto con el carácter de observador.
 
+> <small>(REFORMADO, G.O. 11 DE ENERO DE 2016)</small>
+
 ###### Artículo 44.
 
-Una vez hecha la evaluación de las proposiciones técnicas-económicas presentadas por los licitantes, el área encargada del procedimiento de licitación, con base en ella, elaborará un dictamen que califique las propuestas, para someterlo a la aprobación del Comité para la Adjudicación de Obras Públicas y Servicios Relacionados con Ellas.
+Una vez hecha la evaluación de las proposiciones técnicas y económicas por el área encargada del procedimiento de licitación, ésta la someterá para su aprobación al Comité.
+
+> <small>(REFORMADO, G.O. 11 DE ENERO DE 2016)</small>
 
 ###### Artículo 45.
 
-Una vez aprobado el dictamen, la ejecutora emitirá un fallo, determinando a quien se le adjudicará el contrato respectivo, por ser quien haya presentado la postura más conveniente al interés público, conforme a los criterios de adjudicación establecidos en la convocatoria a la licitación, las condiciones legales, técnicas y económicas requeridas por la convocante, y porque garantiza el cumplimiento de las obligaciones respectivas. Si el Comité no aprobare el dictamen respectivo, se declarará desierta la licitación, señalando las razones que motivaron su determinación.
+Una vez aprobada la evaluación a que se refiere el artículo anterior, la convocante emitirá un fallo, determinando a quien se le adjudicará el contrato respectivo, por ser quien haya presentado la postura más conveniente al Ente Público, conforme a los criterios de adjudicación establecidos en la convocatoria a la licitación, las condiciones legales, técnicas y económicas requeridas y porque garantiza el cumplimiento de las obligaciones respectivas.
+
+Si el Comité observare deficiencia o falta de alguno de los requisitos de la evaluación, de los establecidos en el Reglamento, recomendará al área encargada de la licitación los subsane en el plazo que en la sesión se establezca, según sea el caso; al efecto quedarán convocados desde ese momento los integrantes del Comité para la sesión extraordinaria que tendrá verificativo en la fecha que ahí se señale, en la que se analizará el cumplimiento de las recomendaciones para su aprobación. En caso de incumplimiento, el Comité declarará desierta la licitación, señalando las razones que motivaron su determinación.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE ENERO DE 2016)</small>
 
 ###### Artículo 46.
 
-El fallo de la ejecutora deberá contener:
+El fallo deberá contener:
 
 I. La relación de licitantes cuyas proposiciones se desecharon, expresando todas las razones legales, técnicas o económicas que sustentan tal determinación e indicando los puntos de la convocatoria que en cada caso se incumplió;
 
@@ -637,27 +807,27 @@ IV. Fecha, lugar y hora para la firma del contrato, la presentación de garantí
 
 V. Nombre, cargo y firma del servidor público que lo emite, señalando sus facultades de acuerdo con los ordenamientos jurídicos que rijan a la convocante. Indicará también el nombre y cargo de los responsables de la evaluación de las proposiciones.
 
+> <small>(REFORMADO, G.O. 11 DE ENERO DE 2016)</small>
+
 ###### Artículo 47.
 
-El fallo de la licitación se notificará en junta pública, a la que, previa citación, podrán asistir libremente los licitantes que hubieren presentado proposiciones, entregándoles copia del mismo y levantando el acta respectiva en la que conste la adjudicación del contrato a la persona que:
-
-I. Reúna las condiciones legales técnicas y económicas requeridas por la convocante;
-
-II. Garantice satisfactoriamente el cumplimiento del contrato; y
-
-III. Cuente con la experiencia requerida por la convocante para la ejecución de los trabajos.
-
-Cuando dos o más proposiciones satisfagan los requerimientos de la convocatoria, el contrato se adjudicará a quien presente la postura económica más baja.
-
-Cuando se notifique el fallo, el licitante ganador podrá, bajo su responsabilidad y riesgo, y con autorización escrita de la ejecutora, iniciar los actos previos al inicio de los trabajos, tales como el movimiento de maquinaria, personal y demás insumos que considere pertinentes a efecto de agilizar el inicio de los trabajos, siempre y cuando existan las condiciones para tales efectos. Lo anterior independientemente de la firma del contrato.
+El fallo de la licitación se notificará por escrito, vía electrónica o en junta pública, en este último caso a la que, previa citación, podrán asistir libremente los licitantes que hubieren presentado proposiciones, entregándoles copia del mismo y levantando el acta respectiva en la que conste la adjudicación del contrato a la persona que resultó ganadora.
 
 ###### Artículo 48.
 
 La unidad o área administrativa responsable en materia de licitaciones, dictaminará desierta una licitación, cuando la totalidad de las proposiciones presentadas no reúnan los requisitos solicitados en la convocatoria o sus precios de insumos no fueren aceptables. También podrá hacerlo cuando no se reciba alguna proposición en el acto de presentación y apertura de proposiciones.
 
-En el supuesto en el que se declare desierta una licitación pública, los titulares del ente público, procederán de inmediato a contratar mediante la modalidad de adjudicación directa, invitando a las personas que cuenten con capacidad de respuesta inmediata, así como con los recursos técnicos, financieros y demás que sean necesarios, de acuerdo con las características, complejidad y magnitud de los trabajos a ejecutar. Efectuado este procedimiento, el Titular del ente público ordenará al área jurídica respectiva, proceda a elaborar el contrato correspondiente.
+> <small>(REFORMADO, G.O. 11 DE ENERO DE 2016)</small>
 
-También se adjudicará directamente el contrato cuando el que hubiere obtenido el fallo no se presente dentro de los diez días hábiles siguientes a la notificación del fallo, a suscribir el contrato.
+En el supuesto en el que se declare desierta una licitación pública, los titulares del Ente Público, podrán optar por otro proceso de licitación pública o invitación a cuando menos tres personas o contratar mediante la modalidad de adjudicación directa, invitando a las personas que cuenten con capacidad de respuesta inmediata, así como con los recursos técnicos, financieros y demás que sean necesarios, de acuerdo con las características, complejidad y magnitud de los trabajos a ejecutar. Efectuado este procedimiento, el Titular del Ente Público ordenará al área jurídica respectiva, proceda a elaborar el contrato correspondiente.
+
+> <small>(REFORMADO, G.O. 11 DE ENERO DE 2016)</small>
+
+También se adjudicará directamente el contrato cuando el que hubiere obtenido el fallo no se presente dentro de los diez días naturales siguientes a la notificación del fallo, a suscribir el contrato, y hubiere sido el único susceptible de adjudicación.
+
+> <small>(ADICIONADO, G.O. 11 DE ENERO DE 2016)</small>
+
+Si el interesado no firmare el contrato por causas imputables al mismo, en la fecha o plazo establecido en esta Ley, el Ente Público podrá, sin necesidad de un nuevo procedimiento, adjudicar el contrato al participante que haya presentado la siguiente proposición solvente que resulte más conveniente para el Estado, de conformidad con lo asentado en el fallo, y así sucesivamente en caso de que este último no acepte la adjudicación, siempre que la diferencia en precio con respecto a la proposición que inicialmente hubiere resultado ganadora, no sea superior al diez por ciento.
 
 #### SECCIÓN SEGUNDA. DE LAS EXCEPCIONES A LA LICITACIÓN PÚBLICA
 
@@ -671,9 +841,11 @@ En cualquier supuesto se invitará a personas que cuenten con capacidad de respu
 
 El procedimiento de contratación por invitación a cuando menos tres personas se realizará por medio de la Unidad de Licitaciones o su equivalente, a solicitud de la ejecutora.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE ENERO DE 2016)</small>
+
 ###### Artículo 50.
 
-Los entes públicos podrán contratar obras públicas o servicios relacionados con ellas, sin sujetarse al procedimiento de licitación pública, por medio del procedimiento de adjudicación directa, previo dictamen que funde y motive para ser sometido a consideración del Comité de Adjudicación de Obras Públicas y Servicios Relacionados con Ellas, cuando:
+Los Entes Públicos podrán contratar obras públicas o servicios relacionados con ellas, sin sujetarse al procedimiento de licitación pública, por medio de los procedimientos de invitación a cuando menos tres personas o adjudicación directa, previo dictamen que funde y motive para ser sometido a consideración del Comité, cuando:
 
 I. El contrato sólo pueda celebrarse con una determinada persona, por ser éste el titular de la o las patentes necesarias para realizar la obra;
 
@@ -683,7 +855,9 @@ III. Peligre o se altere el orden social, la economía, los servicios públicos,
 
 IV. En caso fortuito o de fuerza mayor, que no sea posible ejecutar los trabajos mediante el procedimiento de licitación pública en el tiempo requerido para atender la eventualidad de que se trate, los trabajos deberán limitarse a lo estrictamente necesario para afrontar la contingencia presentada;
 
-V. Se hubiere rescindido el contrato respectivo por causas imputables al contratista ganador en una licitación. En este caso se podrá adjudicar el contrato al licitante que haya presentado la siguiente proposición solvente más baja, siempre que la diferencia en precio con respecto a la proposición que inicialmente resulte ganadora no sea superior al diez por ciento;
+> <small>(REFORMADA, G.O. 11 DE ENERO DE 2016)</small>
+
+V. Se hubiere rescindido en cualquiera de sus modalidades el contrato respectivo por causas imputables al contratista ganador en una licitación. En este caso, se podrá adjudicar el contrato al licitante que haya presentado la siguiente proposición solvente más baja, siempre que la diferencia en precio con respecto a la proposición que inicialmente resulte ganadora no sea superior al diez por ciento;
 
 VI. Falte por realizar el cincuenta por ciento o menos de una obra y el contratista hubiere incurrido en incumplimiento, siempre que exista una resolución firme;
 
@@ -705,7 +879,9 @@ La invitación a cuando menos tres personas, se realizará cuando se rebasen los
 
 I. Difundir la invitación en la página de Internet oficial del ente público;
 
-II. El acto de presentación y apertura de proposiciones podrá hacerse sin la presencia de los correspondientes licitantes, pero invariablemente deberá asistir un representante del órgano interno de control del ente público licitante;
+> <small>(REFORMADA, G.O. 11 DE ENERO DE 2016)</small>
+
+II. El acto de presentación y apertura de proposiciones podrá hacerse sin la presencia de los correspondientes licitantes, siempre que conste la invitación que se realizó a los mismos para asistir al acto; en todo caso, deberá asistir un representante del órgano interno de control del Ente Público licitante;
 
 III. Para llevar a cabo la adjudicación correspondiente, bastará contar con una proposición susceptible de análisis;
 
@@ -731,17 +907,39 @@ IV. Aquellas que por sí o a través de empresas que formen parte del mismo grup
 
 V. Aquellas que por sí o a través de empresas que formen parte del mismo grupo empresarial, hayan intervenido en la elaboración de la propuesta presentada o que se pretenda presentar por otro licitante o en algún servicio relacionando la obra pública vinculado con el procedimiento de contratación en que desee participar;
 
-VI. Las que no se encuentren inscritas en el registro de contratistas o se haya determinado la suspensión de los efectos del mismo; y
+> <small>(REFORMADA, G.O. 11 DE ENERO DE 2016)</small>
 
-VII. Las que por cualquier causa se encuentren impedidas para ello por disposición de la ley o así lo determine el órgano de control respectivo.
+VI. Las que no se encuentren inscritas en el registro de contratistas o se haya determinado la suspensión de los efectos del mismo;
+
+> <small>(REFORMADA, G.O. 11 DE ENERO DE 2016)</small>
+
+VII. Las que por cualquier causa se encuentren impedidas para ello por disposición de la ley o así lo determine el órgano de control respectivo;
+
+> <small>(ADICIONADA, G.O. 11 DE ENERO DE 2016)</small>
+
+VIII. Aquellos contratistas que, por causas imputables a ellos mismos, el Ente Público convocante les hubiere rescindido administrativamente un contrato. Dicho impedimento prevalecerá ante el propio Ente Público convocante durante un año calendario contado a partir de que haya quedado firme dicha determinación y demuestre fehacientemente que no tiene adeudo alguno con la convocante derivado del contrato rescindido;
+
+> <small>(ADICIONADA, G.O. 11 DE ENERO DE 2016)</small>
+
+IX. Las que se encuentren inhabilitadas de acuerdo con lo previsto en el artículo 79 fracción IV de esta Ley;
+
+> <small>(ADICIONADA, G.O. 11 DE ENERO DE 2016)</small>
+
+X. Las que hayan utilizado información privilegiada proporcionada indebidamente por servidores públicos o sus familiares por parentesco consanguíneo y por afinidad hasta el cuarto grado, o civil; y
+
+> <small>(ADICIONADA, G.O. 11 DE ENERO DE 2016)</small>
+
+XI. Las que contraten servicios de asesoría, consultoría y apoyo de cualquier tipo de personas en materia de contrataciones gubernamentales, si se comprueba que todo o parte de las contraprestaciones pagadas al prestador del servicio, a su vez, son recibidas por servidores públicos por sí o por interpósita persona, con independencia de que quienes las reciban tengan o no relación con la contratación.
 
 Cuando una persona física se encuentre en los supuestos previstos en este artículo, el impedimento alcanzará a la persona moral respecto a la cual forme parte.
 
 #### SECCIÓN TERCERA. DE LOS CONTRATOS
 
+> <small>(REFORMADO, G.O. 11 DE ENERO DE 2016)</small>
+
 ###### Artículo 53.
 
-La adjudicación del contrato obligará al ente público y a la persona en quien hubiere recaído ésta, a formalizar el contrato dentro de los diez días naturales siguientes a la notificación del fallo de adjudicación, previa entrega que haga el contratista de las garantías, las cuales consistirán en las fianzas de anticipo y cumplimiento, que también garantizará la calidad de la obra respecto de los vicios ocultos.
+La adjudicación del contrato obligará al Ente Público y a la persona en quien hubiere recaído ésta, a formalizar el contrato dentro de los diez días naturales siguientes a la notificación del fallo de adjudicación, previa entrega que haga el contratista de las garantías, las cuales consistirán en las fianzas de anticipo, cumplimiento y vicios ocultos.
 
 ###### Artículo 54.
 
@@ -761,9 +959,11 @@ Los entes públicos podrán incorporar las condiciones de contratación que tien
 
 Los trabajos cuya ejecución comprenda más de un ejercicio presupuestal deberán pactarse en un sólo contrato, por la vigencia que resulte necesaria para la ejecución de los trabajos, quedando únicamente sujetos a la autorización presupuestal para cada ejercicio.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 11 DE ENERO DE 2016)</small>
+
 ###### Artículo 55.
 
-En los contratos de obra pública se hará constar, como mínimo, lo siguiente:
+En los contratos que se celebren al amparo de la presente Ley se hará constar, como mínimo, lo siguiente:
 
 I. El acreditamiento legal de las partes que lo suscriben y el tipo de contrato de que se trate;
 
@@ -779,37 +979,53 @@ Los derechos y obligaciones que se deriven de los contratos, no podrán ser tran
 
 También podrá contratarse factoraje financiero en términos de la ley de la materia.
 
+> <small>(REFORMADO, G.O. 11 DE ENERO DE 2016)</small>
+
 ###### Artículo 57.
 
-Las garantías que deban constituirse se sujetarán a las bases, la forma y el porcentaje que señalen el Reglamento y demás disposiciones aplicables.
+Los contratistas que celebren los contratos a que se refiere esta Ley deberán garantizar:
+
+I. Los anticipos que reciban. Estas garantías deberán presentarse a más tardar dentro de los diez días naturales siguientes a la fecha de adjudicación del contrato; y
+
+II. El cumplimiento de los contratos. Esta garantía deberá presentarse a más tardar dentro de los diez días naturales siguientes a la fecha de adjudicación del contrato.
+
+En ambos casos la presentación de las garantías deberá ser invariablemente previo (sic) a la firma del contrato.
 
 ###### Artículo 58.
 
 El otorgamiento del anticipo se deberá pactar en los contratos y se sujetará a lo siguiente:
 
-I. El importe del anticipo concedido será puesto a disposición del contratista con antelación a la fecha pactada para el inicio de los trabajos; el atraso en la entrega del anticipo será motivo para diferir en igual plazo el programa de ejecución pactado. El otorgamiento del anticipo, podrá realizarse en una sola exhibición, o en varias parcialidades, en casos excepcionales;
+> <small>(REFORMADA, G.O. 11 DE ENERO DE 2016)</small>
+
+I. El importe del anticipo concedido será puesto a disposición del contratista con antelación a la fecha pactada para el inicio de los trabajos; el atraso en la entrega del anticipo será motivo para diferir en igual plazo el programa de ejecución pactado. Cuando el contratista no entregue la garantía de anticipo en la fecha establecida, no procederá el diferimiento, por lo tanto deberá iniciar los trabajos en la fecha establecida. El otorgamiento del anticipo, podrá realizarse en una sola exhibición, o en varias parcialidades, en casos excepcionales, previamente autorizados por el Comité, debiendo señalarse tal situación en la convocatoria de la licitación y en el contrato respectivo;
 
 II. Las entidades públicas, podrán otorgar hasta un treinta por ciento de la asignación presupuestaria aprobada al contrato en el ejercicio de que se trate para que el contratista realice en el sitio de los trabajos la construcción de sus oficinas, almacenes, bodegas e instalaciones y, en su caso, para los gastos de traslado de la maquinaria y equipo de construcción e inicio de los trabajos; así como, para la compra y producción de materiales de construcción, la adquisición de equipos que se instalen permanentemente y demás insumos que deberán otorgar;
 
-III. Cuando las condiciones de los trabajos lo requieran, el porcentaje de anticipo podrá ser hasta de un cincuenta por ciento; en cuyo caso, será necesaria la autorización por escrito del titular del ente público. Si la necesidad de la obra requiere un porcentaje mayor al estipulado en esta fracción se recabará necesariamente la autorización del titular del órgano de control interno. En este caso se modificarán las garantías en igual medida.
+> <small>(REFORMADA, G.O. 11 DE ENERO DE 2016)</small>
+
+III. Cuando las condiciones de los trabajos lo requieran, el porcentaje de anticipo podrá ser hasta de un cincuenta por ciento; en cuyo caso, será necesaria la autorización por escrito del titular del ente público;
 
 IV. Tratándose de servicios relacionados con las obras públicas, el otorgamiento del anticipo será determinado por la convocante atendiendo a las características, complejidad y magnitud del servicio; en el supuesto de que la dependencia o entidad decida otorgarlo, deberá ajustarse a lo previsto en este artículo;
 
 V. El importe del anticipo deberá ser considerado obligatoriamente por los licitantes para la determinación del costo financiero de su proposición;
 
-VI. Cuando los trabajos rebasen más de un ejercicio presupuestario, y se inicien en el último trimestre del primer ejercicio y el anticipo resulte insuficiente, las dependencias o entidades podrán, bajo su responsabilidad, otorgar como anticipo hasta el monto total de la asignación autorizada al contrato respectivo durante el primer ejercicio, vigilando que se cuente con la suficiencia presupuestaria para el pago de la obra por ejecutar en el ejercicio de que se trate;
+> <small>(REFORMADA, G.O. 11 DE ENERO DE 2016)</small>
+
+VI. Cuando los trabajos rebasen más de un ejercicio presupuestario, y se inicien en el último trimestre del primer ejercicio y el anticipo resulte insuficiente, los Entes Públicos podrán, bajo su responsabilidad, otorgar como anticipo hasta el monto total de la asignación autorizada al contrato respectivo durante el primer ejercicio, siempre y cuando se cuente con la suficiencia presupuestaria para el pago de la obra o servicio por ejecutar en el ejercicio de que se trate;
 
 VII. Las dependencias y entidades podrán otorgar anticipos para los convenios que se celebren, sin que pueda exceder el porcentaje originalmente autorizado en el contrato respectivo; y
 
 VIII. Para la amortización del anticipo en el supuesto de que sea rescindido el contrato, el saldo por amortizar se reintegrará al ente público en un plazo no mayor de diez días naturales, contados a partir de la fecha en que le sea comunicada al contratista la determinación de dar por rescindido el contrato.
 
+> <small>(REFORMADO, G.O. 11 DE ENERO DE 2016)</small>
+
 ###### Artículo 59.
 
-Los entes públicos podrán, dentro del programa de inversiones aprobado, bajo su responsabilidad y por razones fundadas y explícitas, modificar los contratos de obras públicas o de servicios relacionados con las obras, mediante convenios siempre y cuando éstos, considerados conjunta o separadamente no rebasen el veinticinco por ciento del monto o del plazo pactado en el contrato, ni impliquen variaciones sustanciales al proyecto original.
+Los Entes Públicos podrán, dentro del programa de inversiones aprobado, bajo su responsabilidad y por razones fundadas y motivadas, modificar los contratos de obras públicas o de servicios relacionados con ellas, con la única limitante de que las modificaciones o adiciones que se aprueben no rebasen el veinticinco por ciento de su monto y la cuarta parte del plazo establecido. El convenio que en su caso se celebre, deberá reunir las mismas formalidades establecidas para la celebración del contrato.
 
-Si las modificaciones exceden el porcentaje indicado o varían sustancialmente el proyecto, se deberá celebrar, por una sola vez, un convenio adicional entre las partes respecto de las nuevas condiciones, en los términos de la presente Ley. Este convenio adicional deberá ser autorizado por el titular del ente público. Dichas modificaciones no podrán en modo alguno, afectar las condiciones que se refieran a la naturaleza y características esenciales de la obra objeto del contrato original, ni convertirse para eludir en cualquier forma el cumplimiento de la Ley.
+Lo anterior no será aplicable cuando por necesidades específicas de la obra, debidamente justificadas, o casos fortuitos o de fuerza mayor, que tengan impacto en el costo y plazo de ejecución de la obra, sea necesario modificar los alcances en monto y tiempo de un contrato determinado. En este caso se podrá celebrar un convenio único por una sola vez, el cual no podrá rebasar el cincuenta por ciento del monto original del contrato, ni la mitad del tiempo estipulado.
 
-De las modificaciones a que se refieren los dos párrafos anteriores, el titular del ente público informará a la Sefiplan y al órgano de control interno o sus equivalentes, en un plazo no mayor de cinco días hábiles contados a partir de la fecha en que se hubiere formalizado la modificación, debiendo agregar el soporte técnico.
+Los convenios modificatorios que se celebren, en ningún caso podrán variar sustancialmente las características esenciales de la obra objeto del contrato original, ni convenirse para eludir en cualquier forma el cumplimiento de la Ley.
 
 ###### Artículo 60.
 
@@ -837,25 +1053,33 @@ Cuando la obra pública sea realizada conforme a las reglas previstas en el pres
 
 Para los efectos de la presente Ley, la convocatoria a la licitación, el contrato, sus anexos y la bitácora de los trabajos son los instrumentos que vinculan a las partes en sus derechos y obligaciones. Las estipulaciones que se establezcan en el contrato serán congruentes con las condiciones previstas en la convocatoria a la licitación.
 
+> <small>(REFORMADO, G.O. 11 DE ENERO DE 2016)</small>
+
 ###### Artículo 62.
 
-La ejecución de la obra contratada deberá iniciarse en la fecha señalada y para este efecto la contratante oportunamente pondrá a disposición del contratista el o los inmuebles en que deba llevarse a cabo, aperturando la bitácora, la cual deberá ser firmada por el supervisor y el residente de obra.
-
-Dentro de los cinco días hábiles siguientes a la fecha de iniciación de los trabajos, ya sea que éstos se realicen por contrato o por administración directa, el ente público lo comunicará a la Sefiplan y al órgano de control interno, o sus equivalentes. En ese mismo plazo, se informará a los ciudadanos del Estado, mediante un anuncio espectacular fijado en el lugar donde se ejecutará la obra, los siguientes puntos:
-
-I. El ente público que coordina los trabajos,
-
-II. El tipo de obra pública a realizarse;
-
-III. Beneficio que aportará la obra a la población; y
-
-IV. Los demás rubros que establezca el Reglamento.
+La ejecución de los trabajos deberá iniciarse en la fecha señalada en el contrato respectivo, y la dependencia o entidad contratante oportunamente pondrá a disposición del contratista el o los inmuebles en que deban llevarse a cabo. El incumplimiento de la dependencia o entidad prorrogará en igual plazo la fecha originalmente pactada para la conclusión de los trabajos. La entrega deberá constar por escrito.
 
 ###### Artículo 63.
 
 La demora del ente público en la entrega del inmueble sobre el que se ejecutará la obra, prorrogará en igual plazo la fecha originalmente pactada para la conclusión de los trabajos. Dicha entrega deberá constar por escrito.
 
 El programa de ejecución convenido en el contrato y sus modificaciones, será la base conforme al cual se medirá el avance en la ejecución de los trabajos.
+
+> <small>(ADICIONADO, G.O. 11 DE ENERO DE 2016)</small>
+
+En caso de atraso en la ejecución de los trabajos durante la vigencia del programa de ejecución general de los mismos, los Entes Públicos aplicarán retenciones económicas a las estimaciones que se encuentren en proceso en la fecha que se determine el atraso, las cuales serán calculadas en función del avance en la ejecución de los trabajos conforme a la fecha de corte para el pago de estimaciones pactadas en el contrato. Se calculará la retención aplicando el 5 al millar al importe de los trabajos no ejecutados, multiplicado por cada día de atraso correspondiente al periodo en que debieron ejecutarse esos conceptos.
+
+> <small>(ADICIONADO, G.O. 11 DE ENERO DE 2016)</small>
+
+Dichas retenciones podrán ser recuperadas por los contratistas en las siguientes estimaciones, si regularizan los tiempos de atraso conforme al citado programa.
+
+> <small>(ADICIONADO, G.O. 11 DE ENERO DE 2016)</small>
+
+Las penas convencionales se aplicarán por atraso en la ejecución de los trabajos por causas imputables a los contratistas, determinadas únicamente en función del importe de los trabajos no ejecutados en la fecha pactada en el contrato para la conclusión total de las obras. Por lo anterior, la retención aplicada en términos del párrafo primero de este artículo, tendrá el carácter de definitiva y se aplicará como pena convencional si el contratista no concluye los trabajos en la fecha pactada; en este caso, el monto de la pena convencional seguirá incrementándose hasta la fecha en que se terminen totalmente los trabajos programados, o que se rescinda el contrato por parte del Ente Público, aplicándose el 5 al millar al importe de los trabajos faltantes de ejecutar en la fecha de terminación programada, por cada día de atraso.
+
+> <small>(ADICIONADO, G.O. 11 DE ENERO DE 2016)</small>
+
+Asimismo, se podrá pactar que las penas convencionales se aplicarán por atraso en el cumplimiento de las fechas críticas establecidas en el programa de ejecución general de los trabajos. En ningún caso las penas convencionales podrán ser superiores, en su conjunto, al monto de la garantía de cumplimiento.
 
 ###### Artículo 64.
 
@@ -881,11 +1105,33 @@ Los contratistas cubrirán el cinco al millar sobre el importe de cada una de la
 
 La Sefiplan o la Tesorería Municipal, al hacer el pago de las estimaciones de obra, retendrá el importe correspondiente a que se refiere el párrafo anterior.
 
+> <small>(ADICIONADO, G.O. 11 DE ENERO DE 2016)</small>
+
+En caso de incumplimiento en los pagos de estimaciones y de ajustes de costos, los Entes Públicos, a solicitud del contratista, deberán pagar gastos financieros conforme al procedimiento establecido por el Código Financiero para el Estado de Veracruz de Ignacio de la Llave.
+
+> <small>(ADICIONADO, G.O. 11 DE ENERO DE 2016)</small>
+
+Dichos gastos empezarán a generarse cuando las partes tengan definido el importe a pagar y se calcularán sobre las cantidades no pagadas, debiéndose computar por días naturales desde que sean determinadas y hasta la fecha en que se ponga efectivamente las cantidades a disposición del contratista.
+
+> <small>(ADICIONADO, G.O. 11 DE ENERO DE 2016)</small>
+
+Tratándose de pagos en exceso que haya recibido el contratista, éste deberá reintegrar las cantidades pagadas en exceso más los intereses correspondientes, conforme a lo señalado en el párrafo anterior. Los cargos se calcularán sobre las cantidades pagadas en exceso en cada caso y se computarán por días naturales, desde la fecha del pago hasta la fecha en que se pongan efectivamente las cantidades a disposición de los Entes Públicos.
+
+> <small>(ADICIONADO, G.O. 11 DE ENERO DE 2016)</small>
+
+Asimismo el contratista pagará gastos financieros ante el incumplimiento en la amortización del anticipo, conforme al procedimiento citado en este artículo.
+
+> <small>(ADICIONADO, G.O. 11 DE ENERO DE 2016)</small>
+
+No se considerará pago en exceso cuando las diferencias que resulten a cargo del contratista sean compensadas.
+
 ###### Artículo 66.
 
 Los entes públicos podrán suspender temporalmente, sin responsabilidad para ellos, en todo o en parte, los trabajos contratados por cualquier causa justificada. Los entes públicos designarán a los servidores públicos que podrán ordenar la suspensión y determinar, en su caso, la temporalidad de ésta, la que no podrá ser indefinida.
 
-Asimismo, podrán dar por terminados anticipadamente los contratos cuando concurran razones de interés general; existan causas justificadas que le impidan la continuación de los trabajos, y se demuestre que de continuar con las obligaciones pactadas se ocasionaría un daño o perjuicio grave al interés público.
+> <small>(REFORMADO, G.O. 11 DE ENERO DE 2016)</small>
+
+Asimismo, podrán dar por terminados anticipadamente los contratos cuando concurran razones de interés general y en aquellos casos que refiere el Reglamento; existan causas justificadas que le impidan la continuación de los trabajos, y se demuestre que de continuar con las obligaciones pactadas se ocasionaría un daño o perjuicio grave al interés público.
 
 ###### Artículo 67.
 
@@ -965,9 +1211,35 @@ Los contratistas que incurran en infracciones de esta Ley, así como en el incum
 
 I. Multa equivalente de diez a mil días de salario mínimo general vigente en la capital del Estado en la fecha de la infracción;
 
-II. La suspensión o cancelación del registro en el Padrón de Contratistas de Obras Públicas y Servicios Relacionados con Ellas, sin perjuicio de lo anterior; y
+> <small>(REFORMADA, G.O. 11 DE ENERO DE 2016)</small>
 
-III. Cuando proceda, el órgano de control interno podrá proponer la rescisión del contrato.
+II. La suspensión o cancelación del registro en el Padrón, sin perjuicio de lo anterior;
+
+> <small>(REFORMADA, G.O. 11 DE ENERO DE 2016)</small>
+
+III. Cuando proceda, el órgano de control interno podrá proponer la rescisión del contrato; y
+
+> <small>(ADICIONADA, G.O. 11 DE ENERO DE 2016)</small>
+
+IV. Inhabilitación temporal para participar de manera directa o por interpósita persona en procedimientos de contratación o celebrar contratos regulados por esta Ley. La inhabilitación procederá en los siguientes supuestos:
+
+a) Los licitantes que injustificadamente y por causas imputables a los mismos no formalicen el contrato adjudicado por la convocante;
+
+b) Los contratistas a los que se les haya rescindido administrativamente un contrato en dos o más Entes Públicos en un plazo de tres años;
+
+c) Los contratistas que no cumplan con sus obligaciones contractuales por causas imputables a ellos y que, como consecuencia, causen daños o perjuicios graves al Ente Público de que se trate;
+
+d) Los que proporcionen información falsa o que actúen con dolo o mala fe en algún procedimiento de contratación, en la celebración del contrato o durante su vigencia, o bien, en la presentación o desahogo de una solicitud de conciliación o de una inconformidad;
+
+e) Aquellas que promuevan recursos con el propósito de retrasar o entorpecer la contratación; y
+
+f) Cuando no se entere la multa a que fueron acreedores por algún incumplimiento dentro del plazo establecido y sin que medie la interposición de algún recurso en donde se suspenda el procedimiento sancionador o su ejecución.
+
+La inhabilitación que se imponga no será menor de tres meses ni mayor de cinco años, plazo que comenzará a contarse a partir del día siguiente a la fecha en que la Contraloría General del Estado la haga del conocimiento del Ente Público, mediante la publicación de la circular respectiva en la Gaceta Oficial del Estado y en los medios electrónicos respectivos.
+
+Si al día en que se cumpla el plazo de inhabilitación a que se refiere el párrafo que antecede el sancionado no ha pagado la multa que hubiere sido impuesta en términos de la fracción I de este artículo, la mencionada inhabilitación subsistirá hasta que se realice el pago correspondiente.
+
+Los Entes Públicos, dentro de los quince días siguientes a la fecha en que tengan conocimiento de alguna infracción a las disposiciones de esta Ley, remitirán a la Contraloría General del Estado la documentación comprobatoria de los hechos presumiblemente constitutivos de la infracción.
 
 ###### Artículo 80.
 
@@ -1025,7 +1297,7 @@ Artículo Cuarto. Los procedimientos de contratación de obra pública, iniciado
 
 Artículo Quinto. La Cédula regulada en el artículo 30 de la presente Ley, deberá ser implementada por la Contraloría General, dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente ordenamiento.
 
-Artículo Sexto. El Reglamento de la presente Ley se expedirá dentro de los ciento ochenta días naturales siguientes a la entrada en vigor del presente ordenamiento.
+Artículo Sexto. (DEROGADO POR ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 838, G.O. 11 DE ENERO DE 2016)
 
 DADA EN EL SALÓN DE SESIONES DE LA LXII LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO, EN LA CIUDAD DE XALAPA-ENRÍQUEZ, VERACRUZ DE IGNACIO DE LA LLAVE, A LOS CUATRO DÍAS DEL MES DE ABRIL DEL AÑO DOS MIL TRECE.
 
@@ -1052,3 +1324,17 @@ Dr. Javier Duarte de Ochoa
 Gobernador del Estado
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 11 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 838 QUE REFORMA, ADICIONA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY DE OBRAS PÚBLICAS Y SERVICIOS RELACIONADOS CON ELLAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Se deroga el artículo Sexto Transitorio de la Ley Número 825 de Obras Públicas y Servicios Relacionados con Ellas del Estado de Veracruz de Ignacio de la Llave, publicado en la Gaceta Oficial del Estado en fecha dieciséis de abril de dos mil trece.
+
+TERCERO. Se concede al Ejecutivo Estatal un plazo de 90 días naturales para expedir el Reglamento de Ley de Obras Públicas y Servicios Relacionados con Ellas del Estado de Veracruz de Ignacio de la Llave, tomando en consideración las modificaciones realizadas a la misma a través del presente Decreto.
+
+CUARTO. Se derogan todas las disposiciones que se opongan al presente Decreto.
