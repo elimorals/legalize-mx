@@ -4,7 +4,7 @@ identifier: "AGU-codigo-de-etica-para-los-servidores-publicos-de-la-55186"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-04-23"
-last_updated: "2007-04-23"
+last_updated: "2016-01-11"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=55186&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "AGU"
 ---
 # CODIGO DE ETICA PARA LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION PUBLICA ESTATAL
 
-CODIGO DE ETICA PARA LOS SERVIDORES PUBLICOS DE LA ADMINISTRACION PUBLICA ESTATAL
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL CÓDIGO DE ÉTICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES, PUBLICADO EN EL P.O. DE 11 DE ENERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-TEXTO ORIGINAL.
+CÓDIGO DE ÉTICA PARA LOS SERVIDORES PÚBLICOS DE LA ADMINISTRACIÓN PÚBLICA ESTATAL
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE ENERO DE 2016 (ABROGADA).
 
 Código publicado en la Primera Sección al Periódico Oficial del Estado de Aguascalientes, el lunes 23 de abril de 2007.
 
@@ -138,3 +140,17 @@ CONTRALOR GENERAL DEL ESTADO,
 C.P. Pablo Giacinti Olavarrieta.
 
 Gobierno del Estado de Aguascalientes.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “CÓDIGO DE ÉTICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Decreto en el Periódico Oficial de Gobierno del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Código de Ética de la Administración Pública del Estado de Aguascalientes publicado en el Periódico Oficial del Estado el día 23 de abril del año 2007.
