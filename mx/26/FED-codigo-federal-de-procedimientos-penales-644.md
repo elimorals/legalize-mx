@@ -4,7 +4,7 @@ identifier: "FED-codigo-federal-de-procedimientos-penales-644"
 country: "mx"
 rank: "codigo"
 publication_date: "1934-08-30"
-last_updated: "2014-12-29"
+last_updated: "2016-01-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=644&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -23,7 +23,7 @@ CÓDIGO FEDERAL DE PROCEDIMIENTOS PENALES
 
 > <small>N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS SEGUNDO Y TERCERO TRANSITORIOS DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, PUBLICADO EN EL D.O.F. DE 5 DE MARZO DE 2014, EL PRESENTE ORDENAMIENTO QUEDARÁ ABROGADO, UNA VEZ QUE ENTRE EN VIGOR A NIVEL FEDERAL GRADUALMENTE EN LOS TÉRMINOS PREVISTOS EN LA DECLARATORIA QUE AL EFECTO EMITA EL CONGRESO DE LA UNIÓN PREVIA SOLICITUD CONJUNTA DEL PODER JUDICIAL DE LA FEDERACIÓN, LA SECRETARÍA DE GOBERNACIÓN Y DE LA PROCURADURÍA GENERAL DE LA REPÚBLICA, SIN QUE PUEDA EXCEDER DEL 18 DE JUNIO DE 2016.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE ENERO DE 2016.
 
 Código publicado en la Sección Segunda del Diario Oficial de la Federación, el jueves 30 de agosto de 1934.
 
@@ -2235,6 +2235,18 @@ Los inmuebles que se aseguren podrán quedar en posesión de su propietario, pos
 
 El aseguramiento no será causa para el cierre o suspensión de actividades de empresas, negociaciones o establecimientos con actividades lícitas.
 
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 2016)</small>
+
+Tratándose de los delitos que refiere la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos, el Ministerio Público de la Federación, asegurará el establecimiento mercantil o empresa prestadora del servicio e inmediatamente notificará al Servicio de Administración y Enajenación de Bienes con la finalidad de que el establecimiento mercantil o empresa asegurada le sea transferida.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 2016)</small>
+
+Previo a que la empresa sea transferida al Servicio de Administración y Enajenación de Bienes, se retirará el producto ilícito de los contenedores del establecimiento o empresa y se suministrarán los hidrocarburos, petrolíferos o petroquímicos lícitos con el objeto de continuar las actividades siempre y cuando la empresa cuente con los recursos para la compra del producto; suministro que se llevará a cabo una vez que la empresa haya sido transferida al Servicio de Administración y Enajenación de Bienes para su administración.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 2016)</small>
+
+En caso de que el establecimiento o empresa prestadora del servicio corresponda a un franquiciatario o permisionario, el aseguramiento constituirá causa justa para que el franquiciante pueda dar por terminados los contratos respectivos en términos de la Ley de la Propiedad Industrial, y tratándose del permisionario, el otorgante del permiso pueda revocarlo. Para lo anterior, previamente la autoridad ministerial o judicial deberá determinar su destino.
+
 > <small>(ADICIONADO, D.O.F. 19 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 182-N.
@@ -2529,7 +2541,7 @@ I. Del Código Penal Federal, los delitos siguientes:
 
 18) (DEROGADO, D.O.F. 26 DE JUNIO DE 2008)
 
-19) Contra el consumo y riqueza nacionales, previsto en el artículo 254, fracción VII, párrafo segundo;
+19) (DEROGADO, D.O.F. 12 DE ENERO DE 2016)
 
 20) Violación, previsto en los artículos 265, 266 y 266 Bis;
 
@@ -2545,9 +2557,9 @@ I. Del Código Penal Federal, los delitos siguientes:
 
 24) Tráfico de menores, previsto en el artículo 366 Ter;
 
-> <small>(REFORMADO, D.O.F. 24 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 12 DE ENERO DE 2016)</small>
 
-25) Robo calificado, previsto en el artículo 367 cuando se realice en cualquiera de las circunstancias señaladas en los artículos 372 y 381, fracciones VII, VIII, IX, X, XI, XIII, XV, XVI y XVII, y el previsto en la fracción IV del artículo 368 Quáter;
+25) Robo calificado, previsto en el artículo 367 cuando se realice en cualquiera de las circunstancias señaladas en los artículos 372 y 381, fracciones VII, VIII, IX, X, XI, XIII, XV, XVI y XVII;
 
 26) Robo calificado, previsto en el artículo 367, en relación con el 370 párrafos segundo y tercero, cuando se realice en cualquiera de las circunstancias señaladas en el artículo 381 Bis;
 
@@ -2682,6 +2694,10 @@ XXI. De la Ley de Uniones de Crédito, el delito previsto en el artículo 125.
 > <small>(ADICIONADA, D.O.F. 10 DE ENERO DE 2014)</small>
 
 XXII. De la Ley de Ahorro y Crédito Popular, el delito previsto en el artículo 140.
+
+> <small>(ADICIONADA, D.O.F. 12 DE ENERO DE 2016)</small>
+
+XXIII. De la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos, los delitos contenidos en dicho ordenamiento, con excepción de su artículo 9, fracción III, incisos a), b) y c), 12, fracciones I y II, 15, párrafo primero, 16 y 17, fracción I, párrafo segundo.
 
 La tentativa punible de los ilícitos penales mencionados en las fracciones anteriores, también se califica como delito grave.
 
@@ -5994,3 +6010,21 @@ Dentro de los sesenta días siguientes a la publicación de este Decreto en el D
 QUINTO. La Federación y las entidades federativas emitirán las disposiciones administrativas que desarrollen lo previsto en el presente Decreto a más tardar el día de su entrada en vigor de conformidad con el artículo primero transitorio anterior.
 
 SEXTO. La Federación y las entidades federativas, en su ámbito de competencia respectivo, proveerán los recursos humanos, materiales, tecnológicos y financieros que requiera la implementación del presente Decreto, conforme a sus presupuestos autorizados. Para el presente ejercicio fiscal, la Procuraduría General de la República, cubrirá con cargo a su presupuesto autorizado las erogaciones necesarias para el cumplimiento del presente Decreto, en el ámbito de su competencia.
+
+D.O.F. 12 DE ENERO DE 2016.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los procesos penales iniciados antes de la entrada en vigor del presente Decreto, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que dieron su origen.
+
+Tercero.- A partir de la entrada en vigor de este Decreto, para el caso en que la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos contemple una descripción legal de una conducta delictiva que en el anterior Código Penal Federal o Código Fiscal de la Federación se contemplaba como delito y por virtud de las presentes reformas, se denomina, penaliza o agrava de forma diversa, siempre y cuando las conductas y los hechos respondan a la descripción que ahora se establecen, se estará a lo siguiente:
+
+I. En los procesos incoados, en los que aún no se formulen conclusiones acusatorias el Ministerio Público de la Federación las formulará de conformidad con la traslación del tipo que resulte;
+
+II. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal, respectivamente podrán efectuar la traslación del tipo de conformidad con la conducta que se haya probado y sus modalidades; y
+
+III. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, en función de la traslación del tipo, según las modalidades correspondientes.
+
+Cuarto.- Las sanciones pecuniarias previstas en la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos deberán adecuarse, en su caso, a la unidad de medida y actualización equivalente que por ley se prevea en el sistema penal mexicano.
+
+Quinto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para las dependencias y entidades de la Administración Pública Federal, se cubrirán con los recursos que apruebe la Cámara de Diputados en el Presupuesto de Egresos de la Federación del ejercicio fiscal de que se trate, por lo que no se autorizarán recursos adicionales para el presente ejercicio fiscal y los subsecuentes.
