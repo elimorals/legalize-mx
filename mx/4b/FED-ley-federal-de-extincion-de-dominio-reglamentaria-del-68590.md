@@ -4,7 +4,7 @@ identifier: "FED-ley-federal-de-extincion-de-dominio-reglamentaria-del-68590"
 country: "mx"
 rank: "ley_federal"
 publication_date: "2009-05-29"
-last_updated: "2014-03-14"
+last_updated: "2016-01-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68590&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-05-27"
 
 LEY FEDERAL DE EXTINCIÓN DE DOMINIO, REGLAMENTARIA DEL ARTÍCULO 22 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE ENERO DE 2016.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 29 de mayo de 2009.
 
@@ -182,6 +182,18 @@ En estos casos quedarán salvaguardados los derechos de las entidades financiera
 ###### Artículo 13.
 
 El Juez ordenará el aseguramiento de los bienes materia de la acción de extinción de dominio que estén identificados, o ratificará el realizado por el Ministerio Público.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 2016)</small>
+
+Cuando el Ministerio Público de la Federación o el Juez asegure un establecimiento mercantil o empresa prestadora de servicios o cualquier inmueble, vinculado con las conductas de delincuencia organizada a que se refiere la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos, inmediatamente notificará al Servicio de Administración y Enajenación de Bienes con la finalidad de que el establecimiento mercantil o empresa asegurada le sea transferida.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 2016)</small>
+
+Previo a que la empresa sea transferida al Servicio de Administración y Enajenación de Bienes, se retirará el producto ilícito de los contenedores del establecimiento o empresa y se suministrarán los hidrocarburos lícitos con el objeto de continuar las actividades, siempre y cuando la empresa cuente con los recursos para la compra del producto; suministro que se llevará a cabo una vez que la empresa haya sido transferida al servicio de Administración y Enajenación de Bienes para su administración.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 2016)</small>
+
+En caso de que el establecimiento o empresa prestadora del servicio corresponda a un franquiciatario o permisionario, el aseguramiento constituirá causa justa para que el franquiciante pueda dar por terminados los contratos respectivos en términos de la Ley de la Propiedad Industrial, y tratándose del permisionario, el otorgante del permiso pueda revocarlo. Para lo anterior, previamente la autoridad ministerial o judicial deberá determinar su destino.
 
 ###### Artículo 14.
 
@@ -638,3 +650,21 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Las disposiciones legales que establezcan medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones de las establecidas en el artículo 400 Bis, del Código Penal Federal, así como, actos u omisiones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos previstos en los artículos 139 ó 148 Bis del mismo Código establecidas en otras leyes, se entenderán en adelante también aplicables en lo conducente, para la prevención, identificación y persecución de las conductas previstas en el artículo 139 Quáter del citado Código Penal Federal.
 
 TERCERO. A quienes hayan cometido alguno de los delitos previstos en los artículos 139; 148 Bis; 148 Quáter; 170 y 400 Bis, que se reforman con motivo del presente Decreto con antelación a su entrada en vigor, incluidos quienes se encuentren dentro de cualquier etapa de los procedimientos previstos en el Código Federal de Procedimientos Penales, les seguirán siendo aplicables las disposiciones vigentes en el momento en que se haya cometido y los sentenciados deberán compurgar sus penas y sanciones en los términos en los que fueron impuestas.
+
+D.O.F. 12 DE ENERO DE 2016.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los procesos penales iniciados antes de la entrada en vigor del presente Decreto, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que dieron su origen.
+
+Tercero.- A partir de la entrada en vigor de este Decreto, para el caso en que la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos contemple una descripción legal de una conducta delictiva que en el anterior Código Penal Federal o Código Fiscal de la Federación se contemplaba como delito y por virtud de las presentes reformas, se denomina, penaliza o agrava de forma diversa, siempre y cuando las conductas y los hechos respondan a la descripción que ahora se establecen, se estará a lo siguiente:
+
+I. En los procesos incoados, en los que aún no se formulen conclusiones acusatorias el Ministerio Público de la Federación las formulará de conformidad con la traslación del tipo que resulte;
+
+II. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal, respectivamente podrán efectuar la traslación del tipo de conformidad con la conducta que se haya probado y sus modalidades; y
+
+III. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, en función de la traslación del tipo, según las modalidades correspondientes.
+
+Cuarto.- Las sanciones pecuniarias previstas en la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos deberán adecuarse, en su caso, a la unidad de medida y actualización equivalente que por ley se prevea en el sistema penal mexicano.
+
+Quinto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para las dependencias y entidades de la Administración Pública Federal, se cubrirán con los recursos que apruebe la Cámara de Diputados en el Presupuesto de Egresos de la Federación del ejercicio fiscal de que se trate, por lo que no se autorizarán recursos adicionales para el presente ejercicio fiscal y los subsecuentes.
