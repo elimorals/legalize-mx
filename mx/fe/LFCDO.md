@@ -4,7 +4,7 @@ identifier: "LFCDO"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1996-11-07"
-last_updated: "2014-03-14"
+last_updated: "2016-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9005&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFCDO"
 
 LEY FEDERAL CONTRA LA DELINCUENCIA ORGANIZADA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE ENERO DE 2016.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el jueves 7 de noviembre de 1996.
 
@@ -52,9 +52,9 @@ La presente Ley tiene por objeto establecer reglas para la investigación, perse
 
 Cuando tres o más personas se organicen de hecho para realizar, en forma permanente o reiterada, conductas que por sí o unidas a otras, tienen como fin o resultado cometer alguno o algunos de los delitos siguientes, serán sancionadas por ese solo hecho, como miembros de la delincuencia organizada:
 
-> <small>(REFORMADA, D.O.F. 14 DE MARZO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 12 DE ENERO DE 2016)</small>
 
-I. Terrorismo, previsto en los artículos 139 al 139 Ter, financiamiento al terrorismo previsto en los artículos 139 Quáter y 139 Quinquies y terrorismo internacional previsto en los artículos 148 Bis al 148 Quáter; contra la salud, previsto en los artículos 194 y 195, párrafo primero; falsificación o alteración de moneda, previstos en los artículos 234, 236 y 237; el previsto en la fracción IV del artículo 368 Quáter en materia de hidrocarburos; operaciones con recursos de procedencia ilícita, previsto en el artículo 400 Bis; y el previsto en el artículo 424 Bis, todos del Código Penal Federal;
+I. Terrorismo, previsto en los artículos 139 al 139 Ter, financiamiento al terrorismo previsto en los artículos 139 Quáter y 139 Quinquies y terrorismo internacional previsto en los artículos 148 Bis al 148 Quáter; contra la salud, previsto en los artículos 194 y 195, párrafo primero; falsificación o alteración de moneda, previstos en los artículos 234, 236 y 237; operaciones con recursos de procedencia ilícita, previsto en el artículo 400 Bis; y el previsto en el artículo 424 Bis, todos del Código Penal Federal;
 
 II. Acopio y tráfico de armas, previstos en los artículos 83 bis y 84 de la Ley Federal de Armas de Fuego y Explosivos;
 
@@ -81,6 +81,10 @@ VI. Delitos en materia de trata de personas, previstos y sancionados en el Títu
 > <small>(ADICIONADA, D.O.F. 30 DE NOVIEMBRE DE 2010)</small>
 
 VII. Las conductas previstas en los artículos 9, 10, 11, 17 y 18 de la Ley General para Prevenir y Sancionar los Delitos en Materia de Secuestro, Reglamentaria de la fracción XXI del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos.
+
+> <small>(ADICIONADA, D.O.F. 12 DE ENERO DE 2016)</small>
+
+VIII. Los previstos en las fracciones I y II del artículo 8; así como las fracciones I, II y III del artículo 9, estas últimas en relación con el inciso d), y el último párrafo de dicho artículo, todas de la Ley Federal Para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos.
 
 ###### Artículo 3o.
 
@@ -507,3 +511,21 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Las disposiciones legales que establezcan medidas y procedimientos para prevenir y detectar actos, omisiones u operaciones de las establecidas en el artículo 400 Bis, del Código Penal Federal, así como, actos u omisiones que pudieran favorecer, prestar ayuda, auxilio o cooperación de cualquier especie para la comisión de los delitos previstos en los artículos 139 ó 148 Bis del mismo Código establecidas en otras leyes, se entenderán en adelante también aplicables en lo conducente, para la prevención, identificación y persecución de las conductas previstas en el artículo 139 Quáter del citado Código Penal Federal.
 
 TERCERO. A quienes hayan cometido alguno de los delitos previstos en los artículos 139; 148 Bis; 148 Quáter; 170 y 400 Bis, que se reforman con motivo del presente Decreto con antelación a su entrada en vigor, incluidos quienes se encuentren dentro de cualquier etapa de los procedimientos previstos en el Código Federal de Procedimientos Penales, les seguirán siendo aplicables las disposiciones vigentes en el momento en que se haya cometido y los sentenciados deberán compurgar sus penas y sanciones en los términos en los que fueron impuestas.
+
+D.O.F. 12 DE ENERO DE 2016.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los procesos penales iniciados antes de la entrada en vigor del presente Decreto, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que dieron su origen.
+
+Tercero.- A partir de la entrada en vigor de este Decreto, para el caso en que la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos contemple una descripción legal de una conducta delictiva que en el anterior Código Penal Federal o Código Fiscal de la Federación se contemplaba como delito y por virtud de las presentes reformas, se denomina, penaliza o agrava de forma diversa, siempre y cuando las conductas y los hechos respondan a la descripción que ahora se establecen, se estará a lo siguiente:
+
+I. En los procesos incoados, en los que aún no se formulen conclusiones acusatorias el Ministerio Público de la Federación las formulará de conformidad con la traslación del tipo que resulte;
+
+II. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal, respectivamente podrán efectuar la traslación del tipo de conformidad con la conducta que se haya probado y sus modalidades; y
+
+III. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, en función de la traslación del tipo, según las modalidades correspondientes.
+
+Cuarto.- Las sanciones pecuniarias previstas en la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos deberán adecuarse, en su caso, a la unidad de medida y actualización equivalente que por ley se prevea en el sistema penal mexicano.
+
+Quinto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para las dependencias y entidades de la Administración Pública Federal, se cubrirán con los recursos que apruebe la Cámara de Diputados en el Presupuesto de Egresos de la Federación del ejercicio fiscal de que se trate, por lo que no se autorizarán recursos adicionales para el presente ejercicio fiscal y los subsecuentes.
