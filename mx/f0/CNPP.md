@@ -4,7 +4,7 @@ identifier: "CNPP"
 country: "mx"
 rank: "codigo"
 publication_date: "2014-03-05"
-last_updated: "2014-12-29"
+last_updated: "2016-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99314&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -24,7 +24,7 @@ CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO, VÉASE EL ARTICULO SEGUNDO TRANSITORIO DEL DECRETO PUBLICADO EN LA SEGUNDA SECCIÓN DEL D.O.F. DE 5 DE MARZO DE 2014, EL CUAL SEÑALA QUE ENTRA EN VIGOR A NIVEL FEDERAL EN FORMA GRADUAL, EN LOS TÉRMINOS PREVISTOS EN LA DECLARATORIA QUE AL EFECTO EMITA EL CONGRESO DE LA UNIÓN PREVIA SOLICITUD CONJUNTA DEL PODER JUDICIAL DE LA FEDERACIÓN, LA SECRETARÍA DE GOBERNACIÓN Y DE LA PROCURADURÍA GENERAL DE LA REPÚBLICA, SIN QUE PUEDA EXCEDER DEL 18 DE JUNIO DE 2016; Y EN EL CASO DE LAS ENTIDADES FEDERATIVAS Y DEL DISTRITO FEDERAL, EL PRESENTE CÓDIGO ENTRA EN VIGOR EN CADA UNA DE ELLAS EN LOS TÉRMINOS QUE ESTABLEZCA LA DECLARATORIA QUE AL EFECTO EMITA EL ÓRGANO LEGISLATIVO CORRESPONDIENTE, PREVIA SOLICITUD DE LA AUTORIDAD ENCARGADA DE LA IMPLEMENTACIÓN DEL SISTEMA DE JUSTICIA PENAL ACUSATORIO EN CADA UNA DE ELLAS.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE ENERO DE 2016.
 
 Código publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 5 de marzo de 2014.
 
@@ -2824,11 +2824,17 @@ A los frutos o rendimientos de los bienes durante el tiempo del aseguramiento, s
 
 Ni el aseguramiento de bienes ni su conversión a numerario implican que éstos entren al erario público.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE ENERO DE 2016)</small>
+
 ###### Artículo 235.
 
-Aseguramiento de narcóticos y productos relacionados con delitos de propiedad intelectual y derechos de autor
+Aseguramiento de narcóticos y productos relacionados con delitos de propiedad intelectual, derechos de autor e hidrocarburos.
 
 Cuando se aseguren narcóticos previstos en cualquier disposición, productos relacionados con delitos de propiedad intelectual y derechos de autor o bienes que impliquen un alto costo o peligrosidad por su conservación, si esta medida es procedente, el Ministerio Público ordenará su destrucción, previa autorización o intervención de las autoridades correspondientes, debiendo previamente fotografiarlos o videograbarlos, así como levantar un acta en la que se haga constar la naturaleza, peso, cantidad o volumen y demás características de éstos, debiéndose recabar muestras del mismo para que obren en los registros de la investigación que al efecto se inicie.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 2016)</small>
+
+Cuando se aseguren hidrocarburos, petrolíferos o petroquímicos y demás activos, se pondrán a disposición del Ministerio Público de la Federación, quien sin dilación alguna procederá a su entrega a los asignatarios, contratistas o permisionarios, o a quien resulte procedente, quienes estarán obligados a recibirlos en los mismos términos, para su destino final, previa inspección en la que se determinará la naturaleza, volumen y demás características de éstos; conservando muestras representativas para la elaboración de los dictámenes periciales que hayan de producirse en la carpeta de investigación y en proceso, según sea el caso.
 
 ###### Artículo 236.
 
@@ -2889,6 +2895,18 @@ El Ministerio Público o a solicitud de la Policía podrá ordenar la suspensió
 Efectos del aseguramiento en actividades lícitas
 
 El aseguramiento no será causa para el cierre o suspensión de actividades de empresas, negociaciones o establecimientos con actividades lícitas.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 2016)</small>
+
+Tratándose de los delitos que refiere la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos, el Ministerio Público de la Federación, asegurará el establecimiento mercantil o empresa prestadora del servicio e inmediatamente notificará al Servicio de Administración y Enajenación de Bienes con la finalidad de que el establecimiento mercantil o empresa asegurada le sea transferida.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 2016)</small>
+
+Previo a que la empresa sea transferida al Servicio de Administración y Enajenación de Bienes, se retirará el producto ilícito de los contenedores del establecimiento o empresa y se suministrarán los hidrocarburos lícitos con el objeto de continuar las actividades, siempre y cuando la empresa cuente con los recursos para la compra del producto; suministro que se llevará a cabo una vez que la empresa haya sido transferida al Servicio de Administración y Enajenación de Bienes para su administración.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 2016)</small>
+
+En caso de que el establecimiento o empresa prestadora del servicio corresponda a un franquiciatario o permisionario, el aseguramiento constituirá causa justa para que el franquiciante pueda dar por terminados los contratos respectivos en términos de la Ley de la Propiedad Industrial, y tratándose del permisionario, el otorgante del permiso pueda revocarlo. Para lo anterior, previamente la autoridad ministerial o judicial deberá determinar su destino.
 
 ###### Artículo 244.
 
@@ -5545,3 +5563,21 @@ Dentro de los sesenta días siguientes a la publicación de este Decreto en el D
 QUINTO. La Federación y las entidades federativas emitirán las disposiciones administrativas que desarrollen lo previsto en el presente Decreto a más tardar el día de su entrada en vigor de conformidad con el artículo primero transitorio anterior.
 
 SEXTO. La Federación y las entidades federativas, en su ámbito de competencia respectivo, proveerán los recursos humanos, materiales, tecnológicos y financieros que requiera la implementación del presente Decreto, conforme a sus presupuestos autorizados. Para el presente ejercicio fiscal, la Procuraduría General de la República, cubrirá con cargo a su presupuesto autorizado las erogaciones necesarias para el cumplimiento del presente Decreto, en el ámbito de su competencia.
+
+D.O.F. 12 DE ENERO DE 2016.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los procesos penales iniciados antes de la entrada en vigor del presente Decreto, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que dieron su origen.
+
+Tercero.- A partir de la entrada en vigor de este Decreto, para el caso en que la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos contemple una descripción legal de una conducta delictiva que en el anterior Código Penal Federal o Código Fiscal de la Federación se contemplaba como delito y por virtud de las presentes reformas, se denomina, penaliza o agrava de forma diversa, siempre y cuando las conductas y los hechos respondan a la descripción que ahora se establecen (sic), se estará a lo siguiente:
+
+I. En los procesos incoados, en los que aún no se formulen conclusiones acusatorias el Ministerio Público de la Federación las formulará de conformidad con la traslación del tipo que resulte;
+
+II. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal, respectivamente podrán efectuar la traslación del tipo de conformidad con la conducta que se haya probado y sus modalidades; y
+
+III. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, en función de la traslación del tipo, según las modalidades correspondientes.
+
+Cuarto.- Las sanciones pecuniarias previstas en la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos deberán adecuarse, en su caso, a la unidad de medida y actualización equivalente que por ley se prevea en el sistema penal mexicano.
+
+Quinto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para las dependencias y entidades de la Administración Pública Federal, se cubrirán con los recursos que apruebe la Cámara de Diputados en el Presupuesto de Egresos de la Federación del ejercicio fiscal de que se trate, por lo que no se autorizarán recursos adicionales para el presente ejercicio fiscal y los subsecuentes.
