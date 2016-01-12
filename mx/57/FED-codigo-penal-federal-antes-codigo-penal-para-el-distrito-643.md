@@ -4,7 +4,7 @@ identifier: "FED-codigo-penal-federal-antes-codigo-penal-para-el-distrito-643"
 country: "mx"
 rank: "codigo"
 publication_date: "1931-08-14"
-last_updated: "2015-03-12"
+last_updated: "2016-01-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=643&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1931-08-13"
 
 CÓDIGO PENAL FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE ENERO DE 2016.
 
 Código publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 14 de agosto de 1931.
 
@@ -1800,6 +1800,10 @@ Se impondrá pena de dos a veinte años de prisión y multa de mil a cincuenta m
 > <small>(REFORMADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
 Se aplicará pena de seis meses a cinco años de prisión y multa hasta de cinco mil pesos, al que teniendo conocimiento de las actividades de un saboteador y de su identidad, no lo haga saber a las autoridades.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 2016)</small>
+
+Las sanciones a que se refiere el primer párrafo de este artículo se aumentarán hasta en una mitad, cuando los actos de sabotaje se realicen en los ductos, equipos, instalaciones o activos, de asignatarios, contratistas, permisionarios o distribuidores a que se refiere la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos.
 
 > <small>(ADICIONADO, D.O.F. 29 DE JULIO DE 1970)</small>
 
@@ -3655,6 +3659,10 @@ IV.- Al que falsifique los punzones, matrices, planchas o cualquier otro objeto 
 
 V.- Al que falsifique las marcas de inspección de pesas y medidas.
 
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 2016)</small>
+
+La pena que corresponda por el delito previsto en la fracción I, se aumentará hasta en una mitad, cuando se falsifiquen sellos de asignatarios, contratistas, permisionarios o distribuidores a que se refiere la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos.
+
 > <small>N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO DE LOS ESTADOS UNIDOS MEXICANOS, PUBLICADO EN EL D.O.F. DE FECHA 22 DE JUNIO DE 1992 Y 6 DE ENERO DE 1994 Y EL AVISO POR EL QUE SE INFORMA QUE A PARTIR DEL 1° DE ENERO DE 1994, SE SUPRIME LA PALABRA “NUEVO”, PARA VOLVER A LA DENOMINACIÓN “PESO” DEL NOMBRE DE LA UNIDAD DEL SISTEMA MONETARIO, PUBLICADO EN EL D.O.F. EL 15 DE NOVIEMBRE DE 1995.</small>
 
 > <small>(REFORMADO, D.O.F. 9 DE MARZO DE 1946)</small>
@@ -3692,6 +3700,10 @@ ARTICULO 242 bis.- Se impondrá prisión de uno a cinco años y multa de doscien
 El delito de falsificación se castigará, tratándose de documentos públicos, con prisión de cuatro a ocho años y de doscientos a trescientos sesenta días multa. En el caso de documentos privados, con prisión de seis meses a cinco años y de ciento ochenta a trescientos sesenta días multa.
 
 Si quien realiza la falsificación es un servidor público, la pena de que se trate, se aumentará hasta en una mitad más.
+
+> <small>(ADICIONADO, D.O.F. 12 DE ENERO DE 2016)</small>
+
+La pena que corresponda por el delito previsto en el primer párrafo, se aumentará hasta en una mitad, cuando se falsifiquen documentos de asignatarios, contratistas, permisionarios o distribuidores a que se refiere la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos.
 
 ###### ARTICULO 244.
 
@@ -3953,9 +3965,7 @@ h).- Distraer, para usos distintos mercancías que hayan sido surtidas para un f
 
 i).- Impedir o tratar de impedir la generación, conducción, transformación, distribución o venta de energía eléctrica de servicio público.
 
-> <small>(ADICIONADO, D.O.F. 17 DE MAYO DE 1999)</small>
-
-j).- Interrumpir o interferir intencionalmente la producción, o el servicio de almacenamiento o distribución de gas natural, artificial o licuado de petróleo.
+j).- (DEROGADO, D.O.F. 12 DE ENERO DE 2016)
 
 > <small>(REFORMADA, D.O.F. 5 DE DICIEMBRE DE 1979)</small>
 
@@ -4019,15 +4029,9 @@ Si el que entregue los insumos referidos, fuere el productor que los recibió de
 
 VI.- A los funcionarios o empleados de cualquiera entidad o dependencia pública que entreguen estos insumos a quienes no tengan derecho a recibirlos; o que indebidamente nieguen o retarden la entrega a quienes tienen derecho a recibirlos, se harán acreedores a las sanciones del artículo 253;
 
-> <small>(REFORMADA, D.O.F. 24 DE OCTUBRE DE 2011)</small>
+VII.- (DEROGADA, D.O.F. 12 DE ENERO DE 2016)
 
-VII.- Al que sin derecho y sin consentimiento de la persona que legalmente pueda autorizarlo, sustraiga o aproveche hidrocarburos o sus derivados, de los equipos o instalaciones de la industria petrolera a que se refiere la Ley Reglamentaria del Artículo 27 Constitucional en el Ramo del Petróleo, distintos a los previstos en la fracción IV del artículo 368 Quáter de este Código, cualquiera que sea su estado físico; o realice cualquier sustracción o alteración de dichos equipos o instalaciones.
-
-La sanción que corresponda se aumentará en una mitad cuando se realice en los ductos o sus instalaciones afectos a la industria petrolera o cuando el responsable sea o haya sido trabajador o servidor público de dicha industria.
-
-> <small>(ADICIONADA, D.O.F. 24 DE OCTUBRE DE 2011)</small>
-
-VIII.- A quien de manera dolosa altere los instrumentos de medición utilizados para enajenar o suministrar hidrocarburos refinados, procesados o sus derivados. En este caso la sanción que corresponda se aumentará hasta en una mitad cuando el responsable sea o haya sido trabajador o servidor público de la industria petrolera, y
+VIII.- (DEROGADA, D.O.F. 12 DE ENERO DE 2016)
 
 > <small>(REFORMADA, D.O.F. 24 DE OCTUBRE DE 2011)</small>
 
@@ -5043,29 +5047,7 @@ ARTICULO 368 bis.- Se sancionará con pena de tres a diez años de prisión y ha
 
 ARTICULO 368 ter.- Al que comercialice en forma habitual objetos robados, a sabiendas de esta circunstancia y el valor intrínseco de aquéllos sea superior a quinientas veces el salario, se le sancionará con una pena de prisión de seis a trece años y de cien a mil días multa.
 
-> <small>(REFORMADO, D.O.F. 24 DE OCTUBRE DE 2011)</small>
-
-ARTICULO 368 quáter.- Se sancionará a quien:
-
-I. Posea o resguarde de manera ilícita petróleo crudo o hidrocarburos refinados, procesados o sus derivados.
-
-Cuando la cantidad sea menor de 300 litros y hasta 300 litros, con pena de prisión de seis meses a dos años y de cien a quinientos días multa.
-
-Cuando la cantidad sea mayor de 300 litros pero menor de 1 000 litros, con pena de prisión de dos a cuatro años y de quinientos a mil días multa.
-
-En caso de que la cantidad sea igual o mayor a 1 000 litros, con pena de prisión de cuatro a diez años y de mil a doce mil días multa.
-
-No se aplicará la pena prevista en el segundo párrafo de esta fracción, siempre que se trate de la posesión de hidrocarburos refinados, procesados o sus derivados hasta por la cantidad de 300 litros, cuando el sujeto activo detente la posesión de estos productos con fines de consumo para actividades agropecuarias o pesqueras lícitas dentro de su comunidad.
-
-II. Enajene o suministre gasolinas o diesel con conocimiento de que está entregando una cantidad inferior desde 1.5 por ciento a la cantidad que aparezca registrada por los instrumentos de medición que se emplean para su enajenación o suministro con pena de prisión de tres a seis años y de quinientos a mil días multa.
-
-III. Enajene o suministre gas licuado de petróleo mediante estación de Gas L.P., para carburación, con conocimiento de que está entregando una cantidad inferior desde 3.0 por ciento a la cantidad que aparezca registrada por los instrumentos de medición que se emplean para su enajenación o suministro con una pena de prisión de tres a seis años y de quinientos a mil días multa.
-
-IV. Sustraiga o aproveche petróleo crudo o hidrocarburos refinados, procesados o sus derivados de ductos, equipos o instalaciones de Petróleos Mexicanos, sus organismos subsidiarios o empresas filiales con pena de prisión de ocho a doce años y de mil a doce mil días multa.
-
-Las sanciones que correspondan en este artículo se aumentarán hasta en una mitad cuando el responsable sea o haya sido trabajador o servidor público de la industria petrolera.
-
-Las penas que correspondan por los delitos previstos en este artículo, se aumentarán en una mitad más para el trabajador o servidor público que, con motivo de su trabajo, suministre información de las instalaciones, del equipo o de la operación de la industria que resulte útil o pueda auxiliar a la comisión de los delitos de referencia.
+ARTICULO 368 quáter.- (DEROGADO, D.O.F. 12 DE ENERO DE 2016)
 
 > <small>(ADICIONADO, D.O.F. 14 DE MARZO DE 2014)</small>
 
@@ -7238,3 +7220,21 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. Con la entrada en vigor de este Decreto, se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al mismo.
 
 Tercero. A partir del inicio de las precampañas y hasta el día de la jornada electoral, el Gobierno Federal y los gobiernos de las entidades federativas y municipios, suspenderán la distribución o sustitución de equipos receptores o decodificadores, así como los programas de entrega de televisiones digitales que realice en aquellas entidades federativas en las que se verifiquen procesos electorales durante el 2016. El Instituto Nacional Electoral verificará el cumplimiento de esta disposición y aplicará, en su caso, las sanciones correspondientes. La entrega, distribución o sustitución de equipos receptores, decodificadores, o televisores digitales en contravención a lo dispuesto en este artículo será sancionada en términos de la Ley General de Instituciones y Procedimientos Electorales.
+
+D.O.F. 12 DE ENERO DE 2016.
+
+Primero.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- Los procesos penales iniciados antes de la entrada en vigor del presente Decreto, se seguirán tramitando hasta su conclusión conforme a las disposiciones vigentes al momento de la comisión de los hechos que dieron su origen.
+
+Tercero.- A partir de la entrada en vigor de este Decreto, para el caso en que la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos contemple una descripción legal de una conducta delictiva que en el anterior Código Penal Federal o Código Fiscal de la Federación se contemplaba como delito y por virtud de las presentes reformas, se denomina, penaliza o agrava de forma diversa, siempre y cuando las conductas y los hechos respondan a la descripción que ahora se establecen (sic), se estará a lo siguiente:
+
+I. En los procesos incoados, en los que aún no se formulen conclusiones acusatorias el Ministerio Público de la Federación las formulará de conformidad con la traslación del tipo que resulte;
+
+II. En los procesos pendientes de dictarse sentencia en primera y segunda instancia, el juez o el Tribunal, respectivamente podrán efectuar la traslación del tipo de conformidad con la conducta que se haya probado y sus modalidades; y
+
+III. La autoridad ejecutora al aplicar alguna modalidad de beneficio para el sentenciado, considerará las penas que se hayan impuesto, en función de la traslación del tipo, según las modalidades correspondientes.
+
+Cuarto.- Las sanciones pecuniarias previstas en la Ley Federal para Prevenir y Sancionar los Delitos Cometidos en Materia de Hidrocarburos deberán adecuarse, en su caso, a la unidad de medida y actualización equivalente que por ley se prevea en el sistema penal mexicano.
+
+Quinto.- Las erogaciones que se generen con motivo de la entrada en vigor del presente Decreto para las dependencias y entidades de la Administración Pública Federal, se cubrirán con los recursos que apruebe la Cámara de Diputados en el Presupuesto de Egresos de la Federación del ejercicio fiscal de que se trate, por lo que no se autorizarán recursos adicionales para el presente ejercicio fiscal y los subsecuentes.
