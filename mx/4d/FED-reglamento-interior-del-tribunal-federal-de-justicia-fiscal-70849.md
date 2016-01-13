@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-fiscal-708
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-13"
-last_updated: "2015-10-28"
+last_updated: "2016-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70849&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,6 +22,8 @@ issue_date: "2009-11-11"
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
 ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE OCTUBRE DE 2015.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 13 DE ENERO DE 2016.</small>
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 13 de noviembre de 2009.
 
@@ -709,9 +711,9 @@ XXVI. Región de Tabasco: Una Sala que se denominará “Sala Regional de Tabasc
 
 XXVII. Región Hidalgo: Una Sala que se denominará “Sala Regional de Hidalgo” con sede en la Ciudad de Pachuca, Estado de Hidalgo.
 
-> <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2015)</small>
+(ADICIONADA, D.O.F. 19 DE JUNIO DE 2015) (F. DE E., D.O.F. 13 DE ENERO DE 2016)
 
-XXVIII. Región Tlaxcala: Una Sala que se denominará “Sala Regional de Tlaxcala”, con sede en la Ciudad de Tlaxcala, Estado de Tlaxcala.
+XXVIII. Región Tlaxcala: Una Sala que se denominará “Sala Regional de Tlaxcala”, con sede en el Municipio de Apetatitlán de Antonio Carvajal, Estado de Tlaxcala.
 
 > <small>(ADICIONADA, D.O.F. 19 DE JUNIO DE 2015)</small>
 
