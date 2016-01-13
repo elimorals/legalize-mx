@@ -4,7 +4,7 @@ identifier: "LFDA"
 country: "mx"
 rank: "ley_federal"
 publication_date: "1996-12-24"
-last_updated: "2015-12-17"
+last_updated: "2016-01-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9233&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "LFDA"
 
 LEY FEDERAL DEL DERECHO DE AUTOR
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 17 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 13 DE ENERO DE 2016.
 
 Ley publicada en la Primera Sección del Diario Oficial de la Federación, el martes 24 de diciembre de 1996.
 
@@ -1908,9 +1908,9 @@ I. Comunicar o utilizar públicamente una obra protegida por cualquier medio, y 
 
 II. Utilizar la imagen de una persona sin su autorización o la de sus causahabientes;
 
-> <small>(REFORMADA, D.O.F. 19 DE MAYO DE 1997)</small>
+> <small>(REFORMADA, D.O.F. 13 DE ENERO DE 2016)</small>
 
-III. Producir, reproducir, almacenar, distribuir, transportar o comercializar copias de obras, fonogramas, videogramas o libros, protegidos por los derechos de autor o por los derechos conexos, sin la autorización de los respectivos titulares en los términos de esta ley;
+III. Fijar, producir, reproducir, almacenar, distribuir, transportar o comercializar copias de obras, obras cinematográficas y demás obras audiovisuales, fonogramas, videogramas o libros, protegidos por los derechos de autor o por los derechos conexos, sin la autorización de los respectivo titulares en los términos de esta Ley;
 
 IV. Ofrecer en venta, almacenar, transportar o poner en circulación obras protegidas por esta Ley que hayan sido deformadas, modificadas o mutiladas sin autorización del titular del derecho de autor;
 
@@ -2323,3 +2323,7 @@ Primero. El presente Decreto entrará en vigor el día siguiente al de su public
 Segundo. Con la entrada en vigor de este Decreto, se derogan todas las disposiciones legales, reglamentarias y administrativas que se opongan al mismo.
 
 Tercero. A partir del inicio de las precampañas y hasta el día de la jornada electoral, el Gobierno Federal y los gobiernos de las entidades federativas y municipios, suspenderán la distribución o sustitución de equipos receptores o decodificadores, así como los programas de entrega de televisiones digitales que realice en aquellas entidades federativas en las que se verifiquen procesos electorales durante el 2016. El Instituto Nacional Electoral verificará el cumplimiento de esta disposición y aplicará, en su caso, las sanciones correspondientes. La entrega, distribución o sustitución de equipos receptores, decodificadores, o televisores digitales en contravención a lo dispuesto en este artículo será sancionada en términos de la Ley General de Instituciones y Procedimientos Electorales.
+
+D.O.F. 13 DE ENERO DE 2016.
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
