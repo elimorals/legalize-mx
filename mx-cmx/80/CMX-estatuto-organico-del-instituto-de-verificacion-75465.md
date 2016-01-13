@@ -4,7 +4,7 @@ identifier: "CMX-estatuto-organico-del-instituto-de-verificacion-75465"
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-07-01"
-last_updated: "2015-12-15"
+last_updated: "2016-01-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75465&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,9 @@ issue_date: "2010-06-22"
 
 ESTATUTO ORGÁNICO DEL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL DISTRITO FEDERAL, ORGANISMO PÚBLICO DESCENTRALIZADO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 13 DE ENERO DE 2016.
 
-N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 15 DE DICIEMBRE DE 2015.
+> <small>N. DE E. CONTIENE LA NOTA ACLARATORIA PUBLICADA EN LA GACETA OFICIAL DEL 13 DE ENERO DE 2016.</small>
 
 Estatuto publicado en la Gaceta Oficial del Distrito Federal, el jueves 1 de julio de 2010.
 
@@ -366,6 +366,24 @@ XVI. Coordinar la participación de Personal Especializado en Funciones de Verif
 
 XVII. Las que señalen otras disposiciones jurídicas y administrativas aplicables.
 
+> <small>(ADICIONADO, G.O. 13 DE ENERO DE 2016)</small>
+
+Artículo 22 BIS.- La Dirección de Atención Ciudadana es competente para:
+
+I. Coordinar las actividades relacionadas con el registro, análisis, canalización y seguimiento de las solicitudes ciudadanas.
+
+II. Coordinar al interior del organismo la información requerida para dar respuesta a solicitudes, peticiones ciudadanas y la atención a las quejas ciudadanas.
+
+III. Organizar los distintos mecanismos de captación de solicitud de servicios que otorga la entidad.
+
+IV. Integrar y concentrar los informes mensuales, trimestrales, semestrales y anuales para el Presidente Consejero y Dirección General, así como los requeridos por instancias gubernamentales del Distrito Federal relativo a la atención prestada a la ciudadanía.
+
+V. Impulsar herramientas preventivas como: pláticas, reuniones, conferencias y diálogos con agrupaciones ciudadanas, empresariales y gubernamentales para fomentar la legalidad en el uso de suelo, y el cumplimiento de las demás obligaciones normativas de las materias competencia del Instituto.
+
+VI. Expedir copias certificadas de los documentos que obren en los expedientes de su unidad administrativa
+
+VII. Las que señalen otras disposiciones jurídicas y administrativas aplicables.
+
 ###### Artículo 23.
 
 El Director General podrá delegar cualquiera de sus facultades en otros servidores públicos del Instituto, sin perjuicio de ejercerlas directamente, con excepción de aquellas que por disposición legal, expresa o por determinación del Consejo General le correspondan exclusivamente.
@@ -374,11 +392,15 @@ El Director General podrá delegar cualquiera de sus facultades en otros servido
 
 El Secretario Ejecutivo será designado por el Consejo General a propuesta de su Presidente y sus atribuciones serán las que señalen los ordenamientos jurídicos y administrativos aplicables y las que le asigne el Consejo General.
 
+> <small>N. DE E. MEDIANTE NOTA ACLARATORIA, PUBLICADA EN LA G.O. 13 DE ENERO DE 2016, SE ACLARA QUE EL PRESENTE ARTÍCULO NO FUE MODIFICADO, POR VIRTUD DE LA PUBLICACIÓN DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y/O DEROGAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL DISTRITO FEDERAL PUBLICADO EL DÍA 14 DE DICIEMBRE DE 2014, EN LA GACETA NÚMERO 238.</small>
+
 > <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 24 Bis.
 
 El Coordinador General de Control, Verificación y Evaluación tendrá las atribuciones señaladas en el artículo 19 Quater de la Ley, para el ejercicio de tales atribuciones será auxiliado por la Dirección de Planeación, Evaluación y Mejora y la Dirección de Normatividad, Verificación y Cumplimiento.
+
+> <small>N. DE E. MEDIANTE NOTA ACLARATORIA, PUBLICADA EN LA G.O. 13 DE ENERO DE 2016, SE ACLARA QUE EL PRESENTE ARTÍCULO NO FUE MODIFICADO, POR VIRTUD DE LA PUBLICACIÓN DEL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y/O DEROGAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL DISTRITO FEDERAL PUBLICADO EL DÍA 14 DE DICIEMBRE DE 2014, EN LA GACETA NÚMERO 238.</small>
 
 > <small>(ADICIONADO, G.O. 12 DE NOVIEMBRE DE 2014)</small>
 
@@ -588,7 +610,9 @@ XI. Las demás que le atribuya la Ley, este Estatuto y otros ordenamientos aplic
 
 Para el desarrollo y ejercicio de sus funciones se auxiliará de unidades administrativas y de apoyo técnico operativo que determine el dictamen de estructura, y en específico de la Dirección de Calificación “A” y Dirección de Calificación “B”, conforme lo siguiente:
 
-#### Sección Primera. La Dirección de Calificación “A” Materias Centralizadas, es competente para:
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 13 DE ENERO DE 2016)</small>
+
+#### Sección Primera. La Dirección de Calificación "A", es competente para:
 
 I. Recibir el turno de asuntos para procedimiento de calificación de las actas de visita de verificación o verificación voluntaria en materia de Desarrollo Urbano y Uso de Suelo, Preservación al Medio Ambiente y Protección Ecológica, Anuncios, Mobiliario Urbano, Cementerios y Servicios Funerarios, Turismo y Servicios de Alojamiento, Aforo y Seguridad en Establecimientos Mercantiles y en su caso, llevar a cabo la substanciación de los mismos, en términos del presente Estatuto;
 
@@ -1183,3 +1207,27 @@ Publíquese en la Gaceta Oficial del Distrito Federal.
 ###### ARTÍCULO SEGUNDO.
 
 Las presentes reformas, adiciones y derogaciones, entrarán en vigor el dieciséis de diciembre de dos mil quince.
+
+G.O. 13 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y/O ADICIONAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL DISTRITO FEDERAL”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+La presente entra en vigor al día hábil siguiente al de su publicación.
+
+G.O. 13 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “SEGUNDA NOTA ACLARATORIA AL DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y/O DEROGAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL INSTITUTO DE VERIFICACIÓN ADMINISTRATIVA DEL DISTRITO FEDERAL, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL NÚMERO 238 DE FECHA 14 DE DICIEMBRE DE 2015”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese en la Gaceta Oficial del Distrito Federal.
+
+###### ARTÍCULO SEGUNDO.
+
+La presente entra en vigor al día hábil siguiente al de su publicación.
