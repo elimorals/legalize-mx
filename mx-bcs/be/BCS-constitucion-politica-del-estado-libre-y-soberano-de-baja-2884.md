@@ -4,7 +4,7 @@ identifier: "BCS-constitucion-politica-del-estado-libre-y-soberano-de-baja-2884"
 country: "mx"
 rank: "constitucion"
 publication_date: "1975-01-15"
-last_updated: "2015-12-20"
+last_updated: "2016-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2884&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCS"
 ---
 # CONSTITUCION POLITICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
-> <small>N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 14 DE ENERO DE 2016 EN EL BOLETÍN OFICIAL DEL ESTADO DE BAJA CALIFORNIA SUR, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.</small>
-
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA SUR
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 20 DE DICIEMBRE DE 2015.
+
+N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL EL 14 DE ENERO DE 2016.
 
 Constitución publicada en el Boletín Oficial Extraordinario del Estado de Baja California Sur, el 15 de enero de 1975.
 
@@ -1757,6 +1757,8 @@ Estos bienes son inalienables, imprescriptibles e inembargables y no están suje
 
 I.- Los ingresos que determinen su Ley de Hacienda, de Derechos y Productos y demás normas aplicables.
 
+> <small>(F. DE E., B.O. 14 DE ENERO DE 2016)</small>
+
 II.- Los ingresos que adquiera por concepto de convenios, participaciones legales, legados, donaciones o cualesquiera otras causas.
 
 > <small>(REFORMADO, B.O. 10 DE DICIEMBRE DE 1993)</small>
@@ -2097,6 +2099,8 @@ VIII.- Proceder conforme a la Ley sobre Monumentos y Zonas Arqueológicas, Artí
 
 IX.- Promover el mejoramiento de las funciones y Servicios Públicos, y el acrecentamiento del patrimonio Municipal.
 
+> <small>(F. DE E., B.O. 14 DE ENERO DE 2016)</small>
+
 Las funciones y servicios públicos que el Municipio tendrá a su cargo serán los siguientes:
 
 a) Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;
@@ -2237,13 +2241,15 @@ VI.- Nombrar y remover a los delegados, subdelegados, alcaides y personal de pol
 
 VII.- Convocar al ayuntamiento a sesiones de acuerdo con lo que establezca el reglamento interior;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>N. DE E. VÉASE LITERALIDAD DEL DECRETO 2314 PUBLICADO EN EL B.O. DE 20 DE DICIEMBRE DE 2015, PÁGINA 74.</small>
+(REFORMADO PRIMER PÁRRAFO, B.O. 20 DE DICIEMBRE DE 2015) (F. DE E., B.O. 14 DE ENERO DE 2016)
 
-> <small>(REFORMADA, B.O. 20 DE DICIEMBRE DE 2015)</small>
+VIII.- Tener bajo su mando los cuerpos de Seguridad Publica, Policía Preventiva y Transito Municipales, en los términos que establezca el Reglamento respectivo y la Ley en la materia.
 
-VII (SIC).- Tener bajo su mando los cuerpos de Seguridad Publica, Policía Preventiva y Transito Municipales, en los términos que establezca el Reglamento respectivo y la Ley en la materia.
+> <small>(REFORMADO, B.O. 31 DE DICIEMBRE DE 2001)</small>
+
+La policía preventiva municipal deberá acatar las órdenes que el gobernador del estado le transmita, en casos en que el mismo juzgue como de fuerza mayor o alteración grave del orden público.
 
 IX.- Solicitar la autorización del ayuntamiento para ausentarse del municipio por más de quince días;
 
@@ -3347,7 +3353,9 @@ NOVENO.- A partir de la entrada en vigor del presente Decreto, se derogan los Ar
 
 DÉCIMO.- A partir de la entrada en vigor del presente Decreto, se derogan los Artículos Segundo y Tercero Transitorios del decreto 1839 de fecha 10 de marzo de 2010, publicado en el Boletín Oficial extraordinario del Gobierno del Estado de Baja California Sur número 10 de fecha 12 de Marzo del año 2010.
 
-DÉCIMO PRIMERO.- El Procurador General de Justicia del Estado en cumplimiento a lo dispuesto por la fracción VIII del artículo 36 de este Decreto, deberá crear una Agencia del Ministerio Público Especializada en Delitos Electorales, para efectos del Proceso Electoral que iniciará en la primera semana del mes de octubre del año 2014, de conformidad a lo establecido en el Artículo 25 de la Ley General en Materia de Delitos Electorales.
+> <small>(F. DE E., B.O. 14 DE ENERO DE 2016)</small>
+
+DÉCIMO PRIMERO.- El Procurador General de Justicia del Estado en cumplimiento a lo dispuesto por la fracción VIII del artículo 36 de este Decreto, deberá crear una Agencia del Ministerio Público Especializada en Delitos Electorales, para efectos del Proceso Electoral que iniciará en la segunda semana del mes de octubre del año 2014, de conformidad a lo establecido en el Artículo 25 de la Ley General en Materia de Delitos Electorales.
 
 DÉCIMO SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente decreto.
 
@@ -3458,3 +3466,7 @@ XIII. Reposición por robo o extravío de licencia de manejo.
 TERCERO.- Corresponderá a la Secretaría de Finanzas y Administración determinar el importe a descontar por concepto del costo administrativo de la recaudación a que se refiere el artículo 16 Bis de la Ley de Coordinación Fiscal del Estado de Baja California Sur conforme a las reglas que para tal efecto emita la propia Secretaría.
 
 CUARTO.- Los derechos de los trabajadores que laboran actualmente en las dependencias de control vehicular, registro civil, registro público de la propiedad y del comercio se respetarán conforme a la Ley. Los trabajadores de estas dependencias tendrán la opción de escoger de manera libre y voluntaria si es su deseo seguir perteneciendo laboralmente al ámbito municipal o ser transferidos al ámbito estatal con pleno respeto de sus derechos laborales adquiridos.
+
+> <small>(F. DE E., B.O. 14 DE ENERO DE 2016)</small>
+
+QUINTO.- A efecto de dar transparencia a las ministraciones que recibirán los municipios y evaluar el impacto de sus finanzas, el Congreso del Estado evaluará cada seis meses el procedimiento que se deriva de la presente reforma.
