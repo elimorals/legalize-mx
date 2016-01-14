@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-del-distrito-federal-70074"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-17"
-last_updated: "2015-03-23"
+last_updated: "2016-01-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70074&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-08-26"
 
 LEY DE SALUD DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE ENERO DE 2016.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 17 de septiembre de 2009.
 
@@ -543,6 +543,98 @@ Las acciones dirigidas a la contención de riesgos y daños en zonas de alta y m
 ###### Artículo 21.
 
 Cuando el Gobierno, a través de la autoridad competente, imponga una multa, con motivo del ejercicio de las facultades que tiene en materia de salubridad general y local, con fundamento en esta Ley, las bases de coordinación que se celebren o hayan celebrado y los demás instrumentos jurídicos aplicables, el Gobierno, a través de la autoridad competente, la determinará, señalará las bases para su liquidación, las fijará en moneda nacional y requerirá su pago.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.O. 14 DE ENERO DE 2016)</small>
+
+###### Artículo 21 Bis.
+
+La Comisión de Bioética del Distrito Federal, adscrita a la Secretaría de Salud, tendrá por objeto promover la creación de una cultura bioética en los centros hospitalarios y de salud de la Ciudad de México, así como fomentar una actitud de reflexión, deliberación y discusión multidisciplinaria, interdisciplinaria, laica y democrática de los temas vinculados con la salud humana, y desarrollar normas éticas para la atención, investigación y docencia en salud.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.O. 14 DE ENERO DE 2016)</small>
+
+###### Artículo 21 Ter.
+
+Para el cumplimiento de su objeto, a la Comisión de Bioética del Distrito Federal le corresponde:
+
+I. Establecer las políticas públicas de salud vinculadas con la temática bioética;
+
+II. Fungir como órgano de consulta del Jefe de Gobierno y de la Secretaría de Salud sobre temas de bioética;
+
+III. Coadyuvar para que el derecho a la protección de la salud se haga efectivo en los temas de investigación para la salud, así como en la calidad de la atención médica;
+
+IV. Propiciar debates sobre cuestiones bioéticas con la participación de los diversos sectores de la sociedad;
+
+V. Fomentar la enseñanza de la bioética;
+
+VI. Difundir criterios emitidos por la Comisión Nacional de Bioética y establecer criterios específicos para la entidad, que sean atendidos por los Comités Hospitalarios de Bioética y los Comités de Ética en Investigación;
+
+VII. Suscribir los convenios de colaboración que sean necesarios para el cumplimiento de su objeto;
+
+VIII. Fomentar la comunicación con universidades, instituciones de educación superior, grupos académicos y organizaciones de la sociedad civil vinculados con cuestiones bioéticas;
+
+IX. Así como las demás atribuciones que le asigne el Secretario de Salud.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.O. 14 DE ENERO DE 2016)</small>
+
+###### Artículo 21 Quater.
+
+La Comisión de Bioética del Distrito Federal contará con:
+
+a. Un Consejo integrado por 9 consejeros y el Director de la Comisión de Bioética del Distrito Federal quien fungirá como Presidente del Consejo, los consejeros serán designados de la siguiente forma; un representante de la ALDF, nombrado a propuesta del Presidente de la Comisión de Salud y Asistencia Social; un representante de la Universidad Autónoma de la Ciudad de México, nombrado a propuesta del Rector, un representante de la CANIFARMA, un representante de la Facultad de Medicina de la UAM, un representante de la Facultad de Medicina de la UNAM, un representante de la Secretaría del Medio Ambiente, un representante de la Facultad de Medicina de la UAM (sic), un representante de la Secretaría de Ciencia, Tecnología e Innovación del Distrito Federal, dos representantes de la sociedad civil y un representante de la Secretaría de Salud, nombrado por el Secretario, todos los miembros deberán acreditar experiencia y conocimientos en el tema
+
+b. Un Secretario Técnico, un coordinador hospitalario de bioética y un coordinador de ética en investigación y
+
+c. La unidad administrativa necesaria para el cumplimiento de su objeto.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.O. 14 DE ENERO DE 2016)</small>
+
+Artículo 21 Quintus.- El Consejo será el órgano responsable del cumplimiento de las atribuciones establecidas en la presente Ley. El Secretario de Salud y el Director de la Comisión, podrán invitar a participar en el Consejo a distinguidas personalidades de la sociedad civil y de la comunidad médica, quienes tendrán derecho a voz pero no a voto. A excepción del Presidente del Consejo, los miembros designados como Consejeros tendrán carácter honorífico.
+
+Los miembros del Consejo durarán en su encargo cuatro años y, a excepción del Presidente, no podrán ser ratificados para periodos posteriores. Los consejeros podrán designar a sus respectivos suplentes para los casos de ausencias.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.O. 14 DE ENERO DE 2016)</small>
+
+Artículo 21 Sextus.- El Consejo sesionará ordinariamente por lo menos cada cuatro meses. Sus decisiones, acuerdos y recomendaciones se tomarán por mayoría de votos y, en caso de empate, el Presidente tendrá voto de calidad. Asimismo, sesionará de manera extraordinaria cuando la urgencia de algún asunto así lo requiera.
+
+Se considerará que habrá quórum para la celebración de las sesiones cuando éstas se realicen con la asistencia de la mayoría de sus miembros y entre ellos se encuentre el Presidente.
+
+De cada sesión deberá levantarse el acta respectiva, que será enviada oportunamente a los participantes.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.O. 14 DE ENERO DE 2016)</small>
+
+Artículo 21 Séptimus.- El Director Ejecutivo será nombrado y removido por el Secretario de Salud a propuesta del Presidente del Consejo, y le corresponderán las atribuciones siguientes:
+
+I. Ejercer la representación legal de la Comisión de Bioética del Distrito Federal, cuando así lo acuerde el Secretario.
+
+II. Conducir la operación de la Comisión de Bioética del Distrito Federal, a fin de que sus funciones se realicen de manera eficaz.
+
+III. Dar seguimiento a los acuerdos del Consejo y verificar su cumplimiento oportuno.
+
+IV. Fungir como Secretario Técnico del Consejo.
+
+V. Proporcionar la información, y la cooperación técnica que le sea requerida por las unidades administrativas de la Secretaría de Salud y por otras dependencias y entidades de la Administración Pública.
+
+VI. Enriquecer, mantener y custodiar el acervo documental de la Comisión de Bioética del Distrito Federal. Y
+
+VII. Las demás que le confiera el Consejo
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, G.O. 14 DE ENERO DE 2016)</small>
+
+Artículo 21 Octavus.- Para el desempeño de sus funciones la Comisión de Bioética del Distrito Federal podrá constituir los comités y grupos de trabajo que considere necesarios para el análisis y propuesta de recomendaciones sobre los dilemas y controversias bioéticas que afecten a las instancias de salud del Distrito Federal.
 
 ### Capítulo IV. Del Consejo de Salud del Distrito Federal
 
@@ -3053,3 +3145,15 @@ SEGUNDO.- El establecimiento en parques y oficinas públicas del Gobierno del Di
 TERCERO.- Los titulares y/o administradores de las plazas comerciales a que se refiere el artículo 10 de la Ley de Establecimientos Mercantiles del Distrito Federal, contarán con un plazo no mayor a 120 días para instalar y/o adecuar los bebederos o estaciones de agua potable en sus inmuebles.
 
 CUARTO.- La presente reforma entrará en vigor, al día siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+G.O. 14 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL DISTRITO FEDERAL”.]
+
+PRIMERO. El presente Decreto entrará en vigor a los treinta días siguientes a su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El Consejo a que se refiere el presente Decreto deberá integrarse dentro de los sesenta días hábiles posteriores a la fecha de entrada en vigor de este Decreto.
+
+TERCERO. Los lineamientos de operación del Consejo, deberán ser expedidos en un término no mayor de noventa días hábiles posteriores a la fecha de integración de dicho órgano.
+
+CUARTO. La creación de la Comisión a que se refiere el presente Decreto, deberá sujetarse a los recursos humanos, financieros y materiales destinados para tal propósito.
