@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-desarrollo-urbano-del-distrito-36853"
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-01-29"
-last_updated: "2014-01-29"
+last_updated: "2016-01-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=36853&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -20,9 +20,11 @@ issue_date: "2004-01-26"
 ---
 # REGLAMENTO DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL
 
+> <small>[N. DE E. DE CONFORMIDAD CON EL SEGUNDO TRANSITORIO DEL REGLAMENTO DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL, PUBLICADO EN LA G.O. DE 15 DE MARZO DE 2018, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
 REGLAMENTO DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 29 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 14 DE ENERO DE 2016.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 29 de enero de 2004.
 
@@ -1254,89 +1256,111 @@ El Consejo podrá crear las comisiones y grupos de trabajo que considere pertine
 
 ### CAPÍTULO I. DE LOS CERTIFICADOS
 
+> <small>(REFORMADO, G.O. 14 DE ENERO DE 2016)</small>
+
 ###### Artículo 125.
 
 Los certificados de zonificación se clasifican en:
 
-I. Certificado de zonificación para usos del suelo permitidos, que es el documento en el que se hacen constar todas las posibles formas de utilización que los programas vigentes disponen en materia de usos del suelo y normas de ordenación para un predio determinado en función de la zonificación correspondiente. La vigencia de este certificado es de dos años contados a partir del día siguiente a su expedición para ejercer el derecho conferido en el mismo y será expedido por el Registro dentro de los cinco días siguientes a la presentación de la solicitud en la Ventanilla del Registro, previo pago de derechos;
+I. Certificado Único de Zonificación de Uso del Suelo. Es el documento público en el que se hacen constar las disposiciones específicas que para un predio o inmueble determinado establecen los instrumentos de planeación de desarrollo urbano. Este documento no crea derechos de propiedad o posesión, no prejuzga sobre ellos, ni constituye permiso, autorización o licencia alguna.
 
-II. Certificado único de zonificación de uso del suelo específico y factibilidades, que es el documento integrado con las opiniones técnicas de las unidades administrativas competentes y en el que se hace constar la posibilidad de dotación de agua, servicios de drenaje y desagüe de agua pluvial, de impacto ambiental, vialidad y uso del suelo, para la construcción de conjuntos habitacionales de hasta doscientas viviendas o diez mil metros cuadrados de construcción para uso habitacional y hasta cinco mil metros cuadrados de construcción para uso comercial, industrial y de servicios, excepto para los proyectos que requieran estudio de impacto urbano o urbano-ambiental, conforme al Sistema de Información Geográfica. La vigencia de este certificado es de un año contado a partir del día siguiente de su expedición. El Registro debe expedir dicho certificado dentro de los treinta días siguientes a la presentación de la solicitud, previo pago de derechos. Asimismo, será emitido a través del Sistema de Información Geográfica, en el tiempo estimado de consulta e impresión, previo pago de derechos;
+II. Certificado Único de Zonificación de Uso del Suelo Digital. Es el documento público en el que se hacen constar las disposiciones específicas que para un predio o inmueble determinado establecen los instrumentos de planeación de desarrollo urbano, cuya solicitud y expedición se realizará por medios electrónicos. Este documento no crea derechos de propiedad, posesión, ni prejuzga sobre ellos ni constituye permiso, autorización o licencia.
 
-III. Certificado de zonificación para uso del suelo específico, que es el documento en el que se hace constar si el aprovechamiento solicitado por el usuario es permitido o prohibido, conforme a lo que disponen los Programas vigentes en materia de uso del suelo y normas de ordenación para un predio determinado, o para aquel predio al que se le hubiera autorizado modificación al Programa Delegacional vigente, cambio de uso del suelo o delimitación de zona. Este certificado tendrá una vigencia de dos años a partir del día siguiente de su expedición para ejercer el derecho conferido en el mismo y será expedido por el Registro dentro de los cinco días siguientes a la presentación de la solicitud, cuando ésta se ingrese en la Ventanilla del Registro, previo pago de derechos;
+El tiempo de vigencia para ejercitar las actividades para las que se expiden los certificados señalados en las fracciones I y II es de un año a partir del día siguiente al de su expedición.
 
-IV. Certificado de acreditación de uso del suelo por derechos adquiridos, que es el documento que tiene por objeto reconocer los derechos de uso del suelo que, por el aprovechamiento de manera legítima y continua, tienen los propietarios, poseedores o causahabientes de un bien inmueble en su totalidad o en unidades identificables de éste, con anterioridad a la entrada en vigor de los planes o los Programas. La vigencia de este certificado será permanente y se expedirá por el Registro dentro de los veinte días siguientes a la presentación de la solicitud del mismo, previo pago de derechos.
+Una vez realizado el trámite para el cual fue solicitado cualquiera de los certificados antes señalados, no será necesario obtener una nueva certificación, a menos que se modifique el uso y superficie por uso solicitado del inmueble, o a través de los Programas de Desarrollo Urbano que entren en vigor.
 
-Cuando por así considerarlo conveniente, el Registro solicite opinión de la autoridad competente, de conformidad con la Ley de Procedimiento Administrativo para el Distrito Federal, el plazo para la expedición de los certificados será de veintiún días a partir del día siguiente a la presentación de la solicitud.
+III. Certificado de Acreditación de Uso del Suelo por Derechos Adquiridos. Es el documento público que tiene por objeto reconocer los derechos de uso del suelo y superficie de uso que por el aprovechamiento legítimo y continuo tienen los propietarios, poseedores o causahabientes de un bien inmueble, en su totalidad o en unidades identificables de éste, con anterioridad a la entrada en vigor del Programa de Desarrollo Urbano que los prohibió.
 
-Ejercido el derecho conferido en los certificados mencionados, no será necesario obtener una nueva certificación, a menos que se modifique el uso y superficie por uso solicitado del inmueble, o a través de los Programas de Desarrollo Urbano que entren en vigor.
+La vigencia de este certificado será permanente, sin embargo la Secretaría en cualquier momento podrá solicitar a la Autoridad competente se lleve a cabo una verificación para constatar la continuidad del uso acreditado. Los derechos adquiridos prescribirán al momento en que se deje de ejercer el uso de que se trate, salvo que sea acreditado que la continuidad se vio interrumpida por causas ajenas a la voluntad de los propietarios, poseedores o causahabientes del bien inmueble.
+
+Siempre y cuando el solicitante cumpla con los requisitos previstos en cada caso, el registro de los Planes y Programas expedirá los Certificados a que se refiere el presente artículo en los siguientes plazos:
+
+a) Dentro de los 3 días hábiles posteriores a la presentación de la solicitud del Certificado Único de Zonificación de Uso de Suelo;
+
+b) De forma inmediata en la presentación del Certificado Único de Zonificación de Uso de Suelo Digital;
+
+c) Dentro de los 40 días hábiles posteriores a la presentación de la solicitud del certificado de Acreditación de Uso de Suelo por Derechos Adquiridos.
+
+Cuando por así requerirse, el Registro de Planes y Programas solicite opinión de la autoridad competente, de conformidad con la Ley de Procedimiento Administrativo del Distrito Federal, o bien solicite la verificación del uso de un inmueble para determinar la continuidad, o se prevenga al solicitante, el plazo para la expedición de los certificados establecido en el párrafo inmediato anterior empezará a correr a partir del día siguiente al en que se reciba la respuesta o desahogo correspondiente.
+
+> <small>(REFORMADO, G.O. 14 DE ENERO DE 2016)</small>
 
 ###### Artículo 126.
 
-Los interesados en obtener los certificados previstos en este Reglamento, deben presentar su solicitud debidamente firmada ante la Ventanilla correspondiente.
+Los interesados en obtener los certificados previstos en este Reglamento, deben presentar su solicitud debidamente firmada ante el Área de Atención Ciudadana de la Secretaría, anexando los siguientes requisitos:
 
-Las solicitudes para obtener certificados de zonificación para uso de suelo específico, de zonificación para uso del suelo permitidos, y único de zonificación de uso del suelo específico y factibilidades, deben contener:
+I. Para el certificado señalado en la fracción I del artículo 125 de este Reglamento, la solicitud deberá contener:
 
-I. En todos los casos, los datos y documentos siguientes:
+a) Formato debidamente llenado
 
-a) Nombre, denominación o razón social del o de los solicitantes y, en su caso, del representante legal, señalando su registro federal de contribuyentes, para lo cual se agregarán los documentos que acrediten su personalidad;
+b) Número de cuenta predial
 
-b) Domicilio para oír y recibir notificaciones;
+Los predios ubicados en suelo de conservación, ejidales o comunales que no cuenten con número de cuenta predial, deberán presentar documentos que permitan identificar la ubicación y superficie del inmueble de que se trate, así como croquis de localización, señalando referencias conocidas o de importancia;
 
-c) Domicilio del inmueble a que se refiera la solicitud;
+c) Comprobante de pago de los derechos correspondiente al trámite, expedido por la Tesorería del Distrito Federal, conforme a lo establecido en el Código Fiscal del Distrito Federal;
 
-d) Croquis de localización y superficie del predio de que se trate, detallando el nombre de las calles que circundan el predio, así como las medidas y distancias a las esquinas más próximas;
+d) Identificación oficial vigente y copia (credencial para votar, licencia para conducir expedida por el Gobierno del Distrito Federal, cartilla del servicio militar nacional, pasaporte, cédula profesional, carta de naturalización o certificado de nacionalidad mexicana);
 
-e) Comprobante de pago de los derechos correspondientes;
-
-f) Copia de la boleta predial no anterior a 12 meses de la presentación, que indique explícitamente los datos manifestados en la solicitud, y
-
-g) Copia de una identificación oficial.
-
-En el caso de predios ubicados en suelo de conservación, ejidales o comunales que no cuenten con boleta predial, deben presentarse documentos públicos que acrediten la posesión y/o regularización del predio, así como ubicación y superficie del predio de que se trate.
+e) En caso de que existan inconsistencias en la ubicación y/o superficie del predio entre lo indicado en la boleta predial y la situación real o actual del mismo, se deberá presentar copia de cualquiera de los siguientes documentos: testimonio de la escritura pública, contrato privado, licencia de fusión, subdivisión o relotificación, constancia de alineamiento y número oficial vigente o cualquier otro instrumento jurídico que permita identificar la ubicación y superficie del predio;
 
 Para inmuebles que sean propiedad de la Administración, debe presentarse constancia de exención de pago de impuesto predial vigente y documento oficial que ampare la ubicación y superficie del predio.
 
-II. Para certificados de zonificación para uso de suelo específico, de usos de suelo permitidos, y certificado único de zonificación de uso del suelo específico y factibilidades, además, debe presentarse copia de cualquiera de los siguientes documentos debidamente autorizados y sellados que amparen los datos correspondientes al predio de que se trate:
+II. Para la obtención del certificado señalado en la fracción II del artículo 125 de este Reglamento, el usuario deberá ingresar al Portal de la Secretaría, en el sitio que para tal efecto se habilite, así como en la página web oficial de Trámites y Servicios del Distrito Federal, los siguientes datos:
 
-a) Licencia de Fusión, Subdivisión o Relotificación;
+a) Nombre completo del solicitante;
 
-b) Escritura pública inscrita en el Registro Público de la Propiedad y de Comercio, o
+b) Número de cuenta predial del inmueble de interés;
 
-c) Constancia de alineamiento y número oficial vigente.
+c) Número de folio del pago de derechos correspondiente;
 
-III. Para certificados de acreditación de uso del suelo por derechos adquiridos, además, se debe presentar documentación oficial que haga constar el aprovechamiento de manera legítima y continua del uso del suelo, respecto del cual se pretende acreditar.
+d) Tipo y número de identificación oficial del solicitante.
 
-Para demostrar el origen legítimo de su derecho, el solicitante presentará cualquiera de los siguientes documentos que señalen el uso y superficie a acreditar:
+III. Para el certificado señalado en la fracción III del artículo 125 de este Reglamento, la solicitud deberá contener:
 
-a) Licencia de construcción, planos arquitectónicos, manifestación de terminación de obra y autorización de uso y ocupación;
+a) Formato debidamente llenado;
 
-b) Declaración de apertura con sello de recepción de la autoridad Delegacional correspondiente;
+b) Comprobante de pago de los derechos correspondiente al trámite, expedido por la Tesorería del Distrito Federal, conforme a lo establecido en el Código Fiscal del Distrito Federal;
 
-c) Licencia de funcionamiento debidamente revalidada;
+c) Propuesta o declaración de valor catastral y/o pago del impuesto predial no anterior a 12 meses de la fecha de presentación, que indique explícitamente los datos manifestados en la solicitud;
 
-d) Licencia o constancia de uso del suelo expedidas de conformidad con los planes y programas de desarrollo urbano vigentes al inicio de operaciones;
+En el caso de inmuebles ubicados en suelo de conservación, ejidales o comunales que no cuenten con boleta predial, deberán presentar documentos públicos que acrediten la posesión y/o regularización, así como ubicación y superficie del inmueble de que se trate (anexar croquis en el que se ubique el predio, señalando referencias conocidas o de importancia);
 
-e) Cédula de micro industria; o
+d) Identificación oficial vigente y copia (credencial para votar, licencia para conducir expedida por el Gobierno del Distrito Federal, cartilla del servicio militar nacional, pasaporte, cédula profesional, carta de naturalización o certificado de nacionalidad mexicana);
 
-f) Escritura pública que ampare el uso y superficie por acreditar.
+e) Original y copia para su cotejo del documento con el que se acredite la personalidad del apoderado o del representante legal, en su caso;
 
-Para demostrar la continuidad y aprovechamiento del uso, se debe presentar cualquiera de los siguientes documentos que señalen el uso y domicilio:
+f) Original y copia para cotejo del documento con el que se acredite el interés legítimo sobre el inmueble, que puede ser cualquiera de los siguientes: testimonio de la escritura pública, contrato privado o cualquier otro instrumento jurídico que acredite la propiedad o posesión sobre el inmueble; así como constancia de alineamiento y número oficial, sólo en los casos en que haya inconsistencias en los documentos oficiales.
 
-a) Formato de inscripción en el Registro Federal de Contribuyentes de la persona física interesada, sociedad mercantil o asociación civil, acompañada de formatos de declaraciones anuales o pagos provisionales de impuestos federales ininterrumpidos, que reflejen los ingresos por la actividad a acreditar o concepto de arrendamiento, con sello de recepción y/o pago de la caja receptora o institución bancaria autorizada;
+g) Para demostrar el origen legítimo del (los) uso (s), se deberá presentar cualquiera de los siguientes documentos que señalen el(los) uso(s) y la(s) superficie(s) a acreditar:
 
-b) Contratos de arrendamiento debidamente registrados ante la Tesorería del Distrito Federal;
+1. Licencia de construcción, planos arquitectónicos, manifestación de terminación de obra y autorización de uso y ocupación.
 
-c) Visto Bueno de Prevención de Incendios;
+2. Declaración de apertura con sello de recepción de la autoridad delegacional correspondiente.
 
-d) Visto Bueno de Seguridad y Operación;
+3. Licencia de funcionamiento debidamente revalidada.
 
-e) Licencia sanitaria;
+4. Licencia o constancia de uso del suelo expedidas de conformidad con los planes y programas de desarrollo urbano vigentes, donde el (los) uso (s) se encontraba (n) permitido (s) al inicio de operaciones.
 
-f) Formatos de liquidaciones de cuotas obrero-patronales del Instituto Mexicano del Seguro Social; o
+5. Cédula de micro industria.
 
-g) Boletas prediales en las que conste el uso por acreditar, expedidas por la Tesorería del Distrito Federal.
+6. Escritura Pública que ampare el uso y superficie por acreditar.
 
-El certificado único de zonificación de uso del suelo específico y factibilidades, podrá obtenerse, además, previo pago de derechos, a través del Sistema de Información Geográfica, en el tiempo estimado de consulta e impresión.
+h) Para demostrar la continuidad y el aprovechamiento del (los) uso (s), se deberá presentar cualquiera de los siguientes documentos que señalen el(los) uso(s) y domicilio:
+
+1. Comprobante de inscripción en el Registro Federal de Contribuyentes de la persona física interesada, sociedad mercantil o asociación civil, acompañado de los formatos de declaraciones anuales o pagos provisionales de impuestos federales que reflejen los ingresos por la actividad a acreditar o por concepto de arrendamiento, con sello de recepción y/o pago de la caja receptora o institución bancaria autorizada.
+
+2. Contratos de arrendamiento debidamente registrados ante la Tesorería del Distrito Federal.
+
+3. Visto Bueno de Prevención de Incendios.
+
+4. Visto Bueno de Seguridad y Operación.
+
+5. Licencia sanitaria.
+
+6. Formatos de liquidaciones de cuotas obrero-patronales del Instituto Mexicano del Seguro Social; o
+
+7. Boletas prediales en las que conste el uso por acreditar, expedidas por la Tesorería del Distrito Federal.
 
 ### CAPÍTULO II. DE LAS LICENCIAS
 
@@ -1502,7 +1526,7 @@ g) Los planos impresos que se entregarán en una escala comprendida entre 1:500 
 
 VI. Tratándose de licencias de relotificación adicionalmente a los señalados en la fracción I, los siguientes:
 
-a) Avalúo vigente de los terrenos, para el cálculo de los derechos; (sic)
+a) Avalúo vigente de los terrenos, para el cálculo de los derechos;
 
 ## TÍTULO SEXTO. DE LOS PROCEDIMIENTOS Y LAS SANCIONES
 
@@ -1729,3 +1753,11 @@ Segundo. El presente Decreto entrará en vigor el día de su publicación.
 Tercero. Las referencias que en el Reglamento de la Ley de Desarrollo Urbano del Distrito Federal se hagan a los Certificados de Zonificación clasificados como Certificado de Zonificación para Usos del Suelo Permitidos, Certificado Único de Zonificación de Uso del Suelo Específico y Factibilidades, Certificado de Zonificación para Uso del Suelo Específico o Certificado de Acreditación de Uso del Suelo por Derechos Adquiridos, se entenderán hechas a los Certificados Únicos de Zonificación de Uso del Suelo y Certificados de Acreditación de Uso del Suelo por Derechos Adquiridos.
 
 Cuarto. La Secretaría de Desarrollo Urbano y Vivienda deberá, dentro del plazo de seis meses, desarrollar e implementar la tecnología necesaria que permita abreviar los tiempos para la expedición de los Certificados Únicos de Zonificación de Uso del Suelo y Certificados de Acreditación de Uso del Suelo por Derechos Adquiridos.
+
+G.O. 14 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN LOS ARTÍCULOS 125 Y 126 DEL REGLAMENTO DE LA LEY DE DESARROLLO URBANO DEL DISTRITO FEDERAL”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación.
