@@ -4,7 +4,7 @@ identifier: "BCS-ley-de-coordinacion-fiscal-del-estado-de-baja-california-sur-47
 country: "mx"
 rank: "ley"
 publication_date: "2005-12-20"
-last_updated: "2015-12-31"
+last_updated: "2016-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47681&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "BCS"
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE BAJA CALIFORNIA SUR
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE DICIEMBRE DE 2015.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL B.O. DE 14 DE ENERO DE 2016.</small>
 
 Ley publicada en el Boletín Oficial del Estado de Baja California Sur, el martes 20 de diciembre de 2005.
 
@@ -337,7 +339,9 @@ La Secretaria de Finanzas y Administración publicará en el Boletín Oficial de
 
 Los ingresos por participaciones estatales por derechos se determinará (sic) por cada ejercicio fiscal del Estado, el cual en forma provisional hará un cálculo mensual considerando los ingresos por derechos en materia de Control Vehicular, de Registro Civil y de Registro Público de la Propiedad y de Comercio obtenida en el año inmediato anterior o con base en la última información oficial disponible.
 
-Los municipios recibirán las cantidades que les correspondan conforme a esta Ley, en concepto de anticipos mensuales a cuenta de los Ingresos por Participaciones Estatales por Derechos. Los municipios recibirán el 25% de las cantidades que les correspondan en la primera semana de cada mes y el resto en la tercera semana.
+> <small>(F. DE E., B.O. 14 DE ENERO DE 2016)</small>
+
+Los municipios recibirán las cantidades que les correspondan conforme a esta Ley, en concepto de anticipos mensuales a cuenta de los Ingresos por Participaciones Estatales por Derechos. Los municipios recibirán el 25% de las cantidades que les correspondan en la segunda semana de cada mes y el resto en la cuarta semana.
 
 A más tardar dentro de los 30 días posteriores a que el Ejecutivo del Estado presente la Cuenta Pública del año anterior al Congreso del Estado para su revisión, la Secretaría de Finanzas y Administración determinará los Ingresos por Participaciones Estatales por Derechos obtenidos en el ejercicio, aplicará las cantidades que hubiera afectado provisionalmente a los Ingresos por Participaciones Estatales por Derechos y formulará de inmediato las liquidaciones que procedan.
 
@@ -546,6 +550,10 @@ XIII. Reposición por robo o extravío de licencia de manejo.
 TERCERO.- Corresponderá a la Secretaría de Finanzas y Administración determinar el importe a descontar por concepto del costo administrativo de la recaudación a que se refiere el artículo 16 Bis de la Ley de Coordinación Fiscal del Estado de Baja California Sur conforme a las reglas que para tal efecto emita la propia Secretaría.
 
 CUARTO.- Los derechos de los trabajadores que laboran actualmente en las dependencias de control vehicular, registro civil, registro público de la propiedad y del comercio se respetarán conforme a la Ley. Los trabajadores de estas dependencias tendrán la opción de escoger de manera libre y voluntaria si es su deseo seguir perteneciendo laboralmente al ámbito municipal o ser transferidos al ámbito estatal con pleno respeto de sus derechos laborales adquiridos.
+
+> <small>(F. DE E., B.O. 14 DE ENERO DE 2016)</small>
+
+QUINTO.- A efecto de dar transparencia a las ministraciones que recibirán los municipios y evaluar el impacto de sus finanzas, el Congreso del Estado evaluará cada seis meses el procedimiento que se deriva de la presente reforma.
 
 B.O. 31 DE DICIEMBRE DE 2015.
 
