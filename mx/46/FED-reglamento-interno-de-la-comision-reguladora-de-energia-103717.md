@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interno-de-la-comision-reguladora-de-energia-103717"
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-11-28"
-last_updated: "2014-11-28"
+last_updated: "2016-01-14"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103717&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-11-20"
 
 REGLAMENTO INTERNO DE LA COMISIÓN REGULADORA DE ENERGÍA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE ENERO DE 2016.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 28 de noviembre de 2014.
 
@@ -235,6 +235,10 @@ XXV. Resolver las controversias que surjan entre el Cenace y los demás integran
 
 XXVI. Dictar las medidas necesarias para proteger los intereses del público en relación con la Calidad, Confiabilidad, Continuidad y seguridad del Suministro Eléctrico, y solicitar a otras autoridades, en el ámbito de su competencia, la aplicación de medidas de seguridad adicionales o necesarias.
 
+> <small>(ADICIONADA, D.O.F. 14 DE ENERO DE 2016)</small>
+
+XXVII. En ausencia o falta definitiva del Comisionado Presidente, las previstas en los artículos 23, fracciones VI, VII, VIII, IX, XI y XII de la Ley y 20, fracciones I, II, VII, IX, X y XIV a XVII de este Reglamento.
+
 ###### Artículo 17.
 
 Corresponde al Órgano de Gobierno:
@@ -321,9 +325,17 @@ XXIV. Solicitar el apoyo de la fuerza pública o de otras autoridades federales,
 
 XXV. Las demás señaladas en la Ley, este Reglamento u otros ordenamientos que siendo competencia de la Comisión, no estén conferidas al Órgano de Gobierno.
 
+> <small>(REFORMADO, D.O.F. 14 DE ENERO DE 2016)</small>
+
 ###### Artículo 21.
 
-Se consideran facultades indelegables del Presidente las señaladas en las fracciones VI, VII, VIII, IX in fine, XI y XII, del artículo 23 de la Ley, así como las facultades previstas en las fracciones I, II, VII, IX, X, y XIV a la XVII del artículo 20 de este Reglamento.
+Con fundamento en la fracción XII del artículo 23 de la Ley, el Comisionado Presidente podrá delegar en los servidores públicos de la Comisión las facultades contempladas en:
+
+I. El artículo 23 de la Ley, con excepción de las señaladas en las fracciones VI, VII, VIII, IX, XI y XII, las cuales sólo podrán ser ejercidas por el Órgano de Gobierno, y
+
+II. El artículo 20 de este Reglamento, con excepción de las previstas en las fracciones I, II, VII, IX, X y XIV a XVII, las cuales sólo podrán ser ejercidas por el Órgano de Gobierno.
+
+Los acuerdos delegatorios deberán publicarse en el Diario Oficial de la Federación y podrán ser de duración indefinida o sujetas a una condición o plazo. La revocación de un acuerdo delegatorio no deberá publicarse en el Diario Oficial de la Federación para surtir efectos.
 
 ### CAPÍTULO IV. De los Comisionados
 
@@ -1628,3 +1640,17 @@ PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publi
 SEGUNDO.- Se abroga el Reglamento Interior de la Comisión Reguladora de Energía, publicado en el Diario Oficial de la Federación el 22 de agosto de 2011.
 
 México, Distrito Federal, a 20 de noviembre de 2014.- El Presidente, Francisco J. Salazar Diez de Sollano.- Rúbrica.- Los Comisionados: Francisco José Barnés de Castro, Noé Navarrete González, Jesús Serrano Landeros, Marcelino Madrigal Martínez, Cecilia Montserrat Ramiro Ximénez, Guillermo Zúñiga Martínez.- Rúbricas.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 14 DE ENERO DE 2016.
+
+> <small>N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QUE SE RELACIONAN CON EL PRESENTE ORDENAMIENTO.</small>
+
+Tercero. Se instruye al Secretario Ejecutivo de esta Comisión Reguladora de Energía a efectuar las adecuaciones en el Reglamento Interno derivadas de las modificaciones referidas en los acuerdos Primero y Segundo, mismas que deberán estar seguidas del número y la fecha del presente Acuerdo, con el propósito de brindar claridad sobre las determinaciones adoptadas por este Órgano de Gobierno.
+
+Cuarto. Inscríbase el presente Acuerdo bajo el Núm. A/076/2015 en el registro al que se refieren los artículos 22, fracción XXVI y 25, fracción X de la Ley de los Órganos Reguladores Coordinados en Materia Energética y 59, fracción I del Reglamento Interno de la Comisión Reguladora de Energía.
+
+Quinto. Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
+
+Sexto. El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
