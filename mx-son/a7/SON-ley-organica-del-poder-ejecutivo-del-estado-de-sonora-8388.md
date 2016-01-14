@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "2015-12-21"
+last_updated: "2016-01-14"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "SON"
 ---
 # LEY ORGANICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS DEL 14 DE ENERO DE 2016 Y DEL 18 DE ENERO DE 2016 PUBLICADAS EN EL BOLETÍN OFICIAL DEL ESTADO DE SONORA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE DICIEMBRE DE 2015.
+
+N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 14 DE ENERO DE 2016.
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -531,7 +531,9 @@ XXIX. Organizar y vigilar el ejercicio de las funciones del Registro Civil;
 
 XXX. Atender los asuntos que le planteen los organismos de la sociedad civil organizada, de grupos o asociaciones de ciudadanos o de sonorenses en lo individual que por la transcendencia deban ser conocimiento del Gobierno del Estado;
 
-XXXI. Coordinar, supervisar e implementar los planes, proyectos y programas de los siguientes entes: Centro Estatal para el Desarrollo Municipal; Consejo Estatal de Población; y Comisión Estatal para el Desarrollo de los Pueblos y Comunidades Indígenas;
+> <small>(F. DE E., P.O. 14 DE ENERO DE 2016)</small>
+
+XXXI. Coordinar, supervisar e implementar los planes, proyectos y programas de los siguientes entes: Centro Estatal de Desarrollo Municipal; Consejo Estatal de Población; y Comisión Estatal para el Desarrollo de los Pueblos y Comunidades Indígenas;
 
 XXXII. Las demás que le sean conferidas por la Constitución, leyes, reglamentos, acuerdos y ordenamientos legales.
 
@@ -1245,7 +1247,7 @@ B. En materia de desarrollo regional:
 
 I.- Intervenir en la planeación, formulación y aplicación de los programas de desarrollo regionales, sectoriales y especiales, con la participación que corresponda a las dependencias y entidades estatales y municipales, de conformidad con el Plan Estatal de Desarrollo;
 
-II.- Promover la inversión pública y privada para el desarrollo social en el Estado, en coordinación con los gobiernos federal y municipales y en concertación con las instituciones de crédito y diversos grupos sociales,
+II.- Promover la inversión pública y privada para el desarrollo social en el Estado, en coordinación con los gobiernos federal y municipales y en concertación con las instituciones de crédito y diversos grupos sociales;
 
 III.- Promover la construcción de obras de infraestructura y equipamiento para el desarrollo regional y urbano, y el bienestar social, en coordinación con los gobiernos municipales y con la participación de los sectores social y privado;
 
