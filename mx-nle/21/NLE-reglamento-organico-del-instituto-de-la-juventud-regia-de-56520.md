@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-organico-del-instituto-de-la-juventud-regia-de-56520
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-08-01"
-last_updated: "2010-09-20"
+last_updated: "2016-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56520&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO ORGÁNICO DEL INSTITUTO DE LA JUVENTUD REGIA DE LA CIUDAD DE MONTERREY, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 1 de agosto de 2007.
 
@@ -169,7 +169,9 @@ V.- El Tesorero Municipal;
 
 VI.- La Presidenta de la Dirección General del Desarrollo Integral de la Familia; y,
 
-VII.- El Presidente de la Comisión de Organismos Descentralizados y Desconcentración del R. Ayuntamiento.
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2016)</small>
+
+VII.- El Coordinador de la Comisión de Gobernación, Reglamentación y Mejora Regulatoria.
 
 ###### Artículo 7.
 
@@ -423,17 +425,21 @@ Las relaciones laborales del Instituto para con el personal que tenga carácter 
 
 ### Capítulo IV. Del procedimiento de revisión y consulta
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2016)</small>
+
 ###### Artículo 36.
 
 Contra los actos definitivos emitidos por los titulares de los órganos del Instituto, procederá el Recurso de Inconformidad, para lo cual se estará a lo dispuesto en el Reglamento que Regula el Procedimiento Único de Recurso de Inconformidad en el Municipio de Monterrey, Nuevo León.
 
 ###### Artículo 37.
 
-Para la revisión y consulta del presente Reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación y Reglamentación, quien recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía. El promoverte deberá argumentar en el escrito de referencia las razones que sustentan sus opiniones y observaciones con respecto al Reglamento Municipal.
+Para la revisión y consulta del presente Reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación, Reglamentación y Mejora Regulatoria, quien recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía. El promovente deberá argumentar en el escrito de referencia las razones que sustentan sus opiniones y observaciones con respecto al Reglamento Municipal.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2016)</small>
 
 ###### Artículo 38.
 
-La Comisión de Gobernación y Reglamentación al recibir las propuestas planteadas a que se refiere el artículo anterior, deberá en un plazo no mayor a 30 días hábiles, analizarlas y estudiarlas a fin de determinar la procedencia o improcedencia de las mismas. De resultar fundadas las propuestas, se presentarán ante el Republicano Ayuntamiento para su consideración.
+La Comisión de Gobernación, Reglamentación y Mejora Regulatoria al recibir las propuestas planteadas a que se refiere el artículo anterior, deberá en un plazo no mayor a 30 días hábiles, analizarlas y estudiarlas a fin de determinar la procedencia o improcedencia de las mismas. De resultar fundadas las propuestas, se presentarán ante el Ayuntamiento para su consideración.
 
 ###### Artículo 39.
 
@@ -484,3 +490,11 @@ P.O. 20 DE SEPTIEMBRE DE 2010.
 Artículo Primero. La presente reforma al REGLAMENTO ORGÁNICO DEL INSTITUTO DE LA JUVENTUD REGIA DE LA CIUDAD DE MONTERREY, entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo. Se deroga cualquier disposición que contravenga lo dispuesto en la presente reforma.
+
+P.O. 15 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE LA SESIÓN ORDINARIA DE FECHA 12 DE ENERO DE 2016. SE APRUEBA LA MODIFICACIÓN DE DIVERSOS REGLAMENTOS MUNICIPALES”.]
+
+SEGUNDO. Se aprueba que las presentes reformas entren en vigor a partir de su publicación en el Periódico Oficial del Estado, por lo que deberá agregarse en cada ordenamiento un artículo transitorio único que así lo señale.
+
+TERCERO. Publíquese el Acuerdo Primero en el Periódico Oficial del Estado. Difúndanse los presentes Acuerdos en la Gaceta Municipal y en el portal de internet: www.mty.gob.mx.
