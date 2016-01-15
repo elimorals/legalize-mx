@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-sobre-la-ubicacion-edificacion-y-conservacion-de-751
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-08-18"
-last_updated: "1997-08-18"
+last_updated: "2016-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75169&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # REGLAMENTO SOBRE LA UBICACION, EDIFICACION Y CONSERVACION DE MONUMENTOS Y ESCULTURAS URBANAS EN LA CIUDAD DE MONTERREY, NUEVO LEON
 
-REGLAMENTO SOBRE LA UBICACION, EDIFICACION Y CONSERVACION DE MONUMENTOS Y ESCULTURAS URBANAS EN LA CIUDAD DE MONTERREY
+REGLAMENTO SOBRE LA UBICACIÓN, EDIFICACIÓN Y CONSERVACIÓN DE MONUMENTOS Y ESCULTURAS URBANAS EN LA CIUDAD DE MONTERREY
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2016.
 
 Reglamento publicado en Periódico Oficial del Estado de Nuevo León, el lunes 18 de agosto 1997.
 
@@ -103,7 +103,9 @@ c).- Secretario del R. Ayuntamiento.
 
 d).- Secretario de Desarrollo Urbano y Ecología, y
 
-e).- Las Comisiones de Educación y Cultura; y, de Desarrollo Urbano del R. Ayuntamiento.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2016)</small>
+
+e).- Las Comisiones de Educación y Cultura y de Desarrollo Urbano, Obras Públicas y Nomenclatura.
 
 ###### Artículo 4.
 
@@ -147,9 +149,11 @@ i).- Consenso vecinal favorable.
 
 Al diseño del proyecto deberán acompañarse las factibilidades municipales, la viabilidad, el Plan de Apoyo Financiero y el Programa calendarizado para la realización de la obra, debiendo comprender lo correspondiente a anteproyecto, definición del proyecto, planos ejecutivos y maqueta.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2016)</small>
+
 ###### Artículo 9.
 
-La solicitud deberá ser presentada directamente a la Comisión de Educación y Cultura. Esta comisión en coordinación con la comisión de Desarrollo Urbano del R. Ayuntamiento realizarán los estudios conducentes y presentarán al cuerpo colegiado el dictamen correspondiente, para los efectos de la autorización, aprobación o desaprobación de la propuesta.
+La solicitud deberá ser presentada directamente a la Comisión de Educación y Cultura. Esta comisión, en coordinación con la de Desarrollo Urbano, Obras Públicas y Nomenclatura realizarán los estudios conducentes y presentarán al cuerpo colegiado el dictamen correspondiente, para los efectos de la autorización, aprobación o desaprobación de la propuesta.
 
 ###### Artículo 10.
 
@@ -197,9 +201,11 @@ c).- Utilización de materiales resistentes, de buena apariencia y de fácil man
 
 d).- En edificaciones mayores de 60 m2 de construcción o por su complejidad requerirán de licencia de construcción.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2016)</small>
+
 ###### Artículo 14.
 
-Toda escultura o monumento deberá ser recibido por el R. Ayuntamiento por conducto de las Comisiones de Educación y Cultura y de Desarrollo Urbano.
+Toda escultura o monumento deberá ser recibido por el Ayuntamiento por conducto de las Comisiones de Educación y Cultura, y de Desarrollo Urbano, Obra Públicas y Nomenclatura.
 
 ###### Artículo 15.
 
@@ -270,3 +276,13 @@ C. JESÚS HINOJOSA TIJERINA.
 SECRETARIO DEL R. AYUNTAMIENTO
 
 C. JOSÉ MARTÍNEZ GONZÁLEZ.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE ENERO DE 2016.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS SEGUNDO Y TERCERO DEL “ACUERDO DE LA SESIÓN ORDINARIA DE FECHA 12 DE ENERO DE 2016. SE APRUEBA LA MODIFICACIÓN DE DIVERSOS REGLAMENTOS MUNICIPALES”.]</small>
+
+SEGUNDO. Se aprueba que las presentes reformas entren en vigor a partir de su publicación en el Periódico Oficial del Estado, por lo que deberá agregarse en cada ordenamiento un artículo transitorio único que así lo señale.
+
+TERCERO. Publíquese el Acuerdo Primero en el Periódico Oficial del Estado. Difúndanse los presentes Acuerdos en la Gaceta Municipal y en el portal de internet: www.mty.gob.mx.
