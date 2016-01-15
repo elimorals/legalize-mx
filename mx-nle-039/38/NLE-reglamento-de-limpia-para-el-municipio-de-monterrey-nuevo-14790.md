@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-limpia-para-el-municipio-de-monterrey-nuevo-14790
 country: "mx"
 rank: "reglamento"
 publication_date: "1996-08-05"
-last_updated: "2015-09-02"
+last_updated: "2016-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14790&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE LIMPIA PARA EL MUNICIPIO DE MONTERREY, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 5 de agosto 1996.
 
@@ -607,7 +607,7 @@ IV.- (DEROGADA, P.O. 10 DE ENERO DE 2003)
 
 ### CAPITULO NOVENO. DEL PROCEDIMIENTO DE REVISIÓN Y CONSULTA
 
-> <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2008)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2016)</small>
 
 ###### Art. 54.
 
@@ -617,7 +617,7 @@ Los ciudadanos considerados como infractores en una resolución administrativa d
 
 ###### Art. 55.
 
-Para la revisión y consulta del presente· reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación y Reglamentación, quien recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía y en la cual, se incluyan los razonamientos que sean el sustento de las opiniones y observaciones correspondientes.
+Para la revisión y consulta del presente reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación, Reglamentación y Mejora Regulatoria, quien recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía y en la cual se incluyan los razonamientos que sean el sustento de las opiniones y observaciones correspondientes.
 
 > <small>(ADICIONADO, P.O. 18 DE AGOSTO DE 2008)</small>
 
@@ -676,3 +676,11 @@ Artículo Único.- Las reformas por adición, modificación y derogación al, Re
 P.O. 2 DE SEPTIEMBRE DE 2015.
 
 ÚNICO. Las presentes Reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
+
+P.O. 15 DE ENERO DE 2016.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS SEGUNDO Y TERCERO DEL “ACUERDO DE LA SESIÓN ORDINARIA DE FECHA 12 DE ENERO DE 2016. SE APRUEBA LA MODIFICACIÓN DE DIVERSOS REGLAMENTOS MUNICIPALES”.]</small>
+
+SEGUNDO. Se aprueba que las presentes reformas entren en vigor a partir de su publicación en el Periódico Oficial del Estado, por lo que deberá agregarse en cada ordenamiento un artículo transitorio único que así lo señale.
+
+TERCERO. Publíquese el Acuerdo Primero en el Periódico Oficial del Estado. Difúndanse los presentes Acuerdos en la Gaceta Municipal y en el portal de internet: www.mty.gob.mx.
