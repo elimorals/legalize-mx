@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-bibliotecas-publicas-municipales-de-monterrey-579
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-12-05"
-last_updated: "2007-12-05"
+last_updated: "2016-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE BIBLIOTECAS PUBLICAS MUNICIPALES DE MONTERREY, NUEVO LEON
 
-REGLAMENTO DE BIBLIOTECAS PUBLICAS MUNICIPALES DE MONTERREY
+REGLAMENTO DE BIBLIOTECAS PÚBLICAS MUNICIPALES DE MONTERREY
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 5 de diciembre de 2007.
 
@@ -403,17 +403,21 @@ El incumplimiento de las obligaciones señaladas en este reglamento, por parte d
 
 ### Capítulo Décimo Primero. Del procedimiento de revisión y consulta
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2016)</small>
+
 ###### Artículo 39.
 
 Contra cualquier acto de la Autoridad Municipal que viole el presente reglamento, procederá el recurso de inconformidad, de acuerdo a lo establecido en el Reglamento que Regula el Procedimiento Único del Recurso de Inconformidad del Municipio de Monterrey.
 
 ###### Artículo 40.
 
-Para la revisión y consulta del presente reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación y Reglamentación, quien recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía. El promovente deberá argumentar en el escrito de referencia las razones que sustentan sus opiniones y observaciones con respecto al Reglamento Municipal.
+Para la revisión y consulta del presente reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación, Reglamentación y Mejora Regulatoria, quien recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía. El promovente deberá argumentar en el escrito de referencia las razones que sustentan sus opiniones y observaciones con respecto al Reglamento Municipal.
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2016)</small>
 
 ###### Artículo 41.
 
-La Comisión de Gobernación y Reglamentación al recibir las propuestas planteadas a que se refiere el artículo anterior, deberá en un plazo no mayor a 30 días hábiles, analizarlas y estudiarlas a fin de determinar la procedencia o improcedencia de las mismas. De resultar fundadas las propuestas, se presentarán ante el Republicano Ayuntamiento para su consideración.
+La Comisión de Gobernación, Reglamentación y Mejora Regulatoria al recibir las propuestas planteadas a que se refiere el artículo anterior, deberá en un plazo no mayor a 30 días hábiles, analizarlas y estudiarlas a fin de determinar la procedencia o improcedencia de las mismas. De resultar fundadas las propuestas, se presentarán ante el Ayuntamiento para su consideración.
 
 ###### Artículo 42.
 
@@ -446,3 +450,13 @@ EL C. SECRETARIO DEL R. AYUNTAMIENTO
 DR. ARTURO CAVAZOS LEAL
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE ENERO DE 2016.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS SEGUNDO Y TERCERO DEL “ACUERDO DE LA SESIÓN ORDINARIA DE FECHA 12 DE ENERO DE 2016. SE APRUEBA LA MODIFICACIÓN DE DIVERSOS REGLAMENTOS MUNICIPALES”.]</small>
+
+SEGUNDO. Se aprueba que las presentes reformas entren en vigor a partir de su publicación en el Periódico Oficial del Estado, por lo que deberá agregarse en cada ordenamiento un artículo transitorio único que así lo señale.
+
+TERCERO. Publíquese el Acuerdo Primero en el Periódico Oficial del Estado. Difúndanse los presentes Acuerdos en la Gaceta Municipal y en el portal de internet: www.mty.gob.mx.
