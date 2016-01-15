@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-participacion-ciudadana-del-municipio-de-57673"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-11-16"
-last_updated: "2014-11-17"
+last_updated: "2016-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE PARTICIPACIÓN CIUDADANA DEL MUNICIPIO DE MONTERREY, N. L.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 16 de Noviembre de 2007.
 
@@ -1061,11 +1061,13 @@ III. Tener credencial para votar con fotografía vigente, con domicilio en el Mu
 
 IV. No estar suspendido en sus derechos políticos.
 
-> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2016)</small>
 
 ###### Artículo 61 Bis 27.
 
-Cuando el Plebiscito lo convoque el Presidente Municipal, la Secretaría del Ayuntamiento será la responsable de la organización y desarrollo del Plebiscito, el cómputo respectivo y remitirá los resultados definitivos a la Comisión de Gobernación y Reglamentación, la que deberá realizar el Dictamen correspondiente para someterlo al Ayuntamiento. Cuando el Plebiscito lo convoque el Ayuntamiento, éste nombrará una Comisión Plural que será auxiliada por la Secretaría del Ayuntamiento para la organización, desarrollo y cómputo del Plebiscito. En ambos casos podrá celebrarse un convenio con la autoridad electoral Estatal o Federal para la organización, desarrollo y cómputo del Plebiscito.
+Cuando el Plebiscito lo convoque el Presidente Municipal, la Secretaría del Ayuntamiento será la responsable de la organización y desarrollo del Plebiscito, el cómputo respectivo y remitirá los resultados definitivos a la Comisión de Gobernación, Reglamentación y Mejora Regulatoria, la que deberá realizar el Dictamen correspondiente para someterlo al Ayuntamiento. Cuando el Plebiscito lo convoque el Ayuntamiento, éste nombrará una Comisión Plural que será auxiliada por la Secretaría del Ayuntamiento para la organización, desarrollo y cómputo del Plebiscito. En ambos casos podrá celebrarse un convenio con la autoridad electoral Estatal o Federal para la organización, desarrollo y cómputo del Plebiscito.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
 
 Para la emisión del voto en los procesos de Plebiscito se deberán imprimir las papeletas, debiendo contener como mínimo:
 
@@ -1075,13 +1077,19 @@ b) Cuadros para el “SÍ” y para el “NO”, colocados simétricamente y en 
 
 c) Las firmas impresas del Presidente Municipal y Síndico Segundo del Ayuntamiento.
 
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
+
 Las papeletas estarán adheridas a un talón con folio, cuyo número será progresivo, del cual serán desprendibles.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
 
 Para determinar la nulidad o validez de los votos, se observarán las siguientes reglas:
 
 1) Se contará un voto válido por la marca que haga el ciudadano en un solo cuadro que determine claramente el sentido del voto como “SÍ” o “NO”, y;
 
 2) Se contará como un voto nulo la sección de la papeleta que el ciudadano marque de forma diferente a lo señalado en la fracción anterior o cuando la deposite en blanco o altere con leyendas el texto de la papeleta.
+
+> <small>(ADICIONADO, P.O. 5 DE NOVIEMBRE DE 2014)</small>
 
 Los resultados del Plebiscito se publicarán en el Periódico Oficial del Estado, en la Gaceta Municipal, y en al menos dos de los diarios de mayor circulación.
 
@@ -1187,7 +1195,9 @@ I. Con derecho a voz y voto:
 
 a. El Presidente Municipal;
 
-b. Los presidentes y secretarios de las Comisiones de Participación Ciudadana y de Hacienda Municipal, y un representante de la primera minoría y otro de la segunda minoría del Ayuntamiento;
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2016)</small>
+
+b. Los coordinadores y secretarios de las Comisiones de Participación Ciudadana y de Hacienda y Patrimonio Municipales, así como un representante de la primera minoría y otro de la segunda minoría del Ayuntamiento;
 
 c. El Secretario del Ayuntamiento;
 
@@ -1691,17 +1701,17 @@ En supletoriedad de este Reglamento serán aplicables la Ley de Métodos Alterno
 
 ### CAPÍTULO NOVENO. DEL PROCEDIMIENTO DE REVISIÓN Y CONSULTA
 
-> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2016)</small>
 
 ###### Artículo 70.
 
-Para la revisión y consulta del presente Reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación y Reglamentación, quien recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía. El promovente deberá argumentar en el escrito de referencia las razones que sustentan sus opiniones y observaciones con respecto al Reglamento Municipal.
+Para la revisión y consulta del presente Reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación, Reglamentación y Mejora Regulatoria, quien recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía. El promovente deberá argumentar en el escrito de referencia las razones que sustentan sus opiniones y observaciones con respecto al Reglamento Municipal.
 
-> <small>(ADICIONADO, P.O. 13 DE AGOSTO DE 2010)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2016)</small>
 
 ###### Artículo 71.
 
-La Comisión de Gobernación y Reglamentación al recibir las propuestas planteadas a que se refiere el artículo anterior, deberá en un plazo no mayor a 30 días hábiles, analizarlas y estudiarlas a fin de determinar la procedencia o improcedencia de las mismas. De resultar fundadas las propuestas, se presentarán ante el Ayuntamiento para su consideración.
+La Comisión de Gobernación, Reglamentación y Mejora Regulatoria al recibir las propuestas planteadas a que se refiere el artículo anterior, deberá en un plazo no mayor a 30 días hábiles, analizarlas y estudiarlas a fin de determinar la procedencia o improcedencia de las mismas. De resultar fundadas las propuestas, se presentarán ante el Ayuntamiento para su consideración.
 
 > <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2010)</small>
 
@@ -1790,3 +1800,11 @@ PRIMERO: Las presentes reformas entrarán en vigor al día siguiente de su publi
 SEGUNDO: En el Presupuesto de Egresos para el ejercicio fiscal 2015 deberá contemplarse una partida para el Presupuesto Participativo.
 
 TERCERO: La Secretaría de la Contraloría deberá emitir las Reglas de Operación en un plazo no mayor a 60-sesenta días naturales contados a partir de la entrada en vigor de las presentes reformas.
+
+P.O. 15 DE ENERO DE 2016.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS SEGUNDO Y TERCERO DEL “ACUERDO DE LA SESIÓN ORDINARIA DE FECHA 12 DE ENERO DE 2016. SE APRUEBA LA MODIFICACIÓN DE DIVERSOS REGLAMENTOS MUNICIPALES”.]</small>
+
+SEGUNDO. Se aprueba que las presentes reformas entren en vigor a partir de su publicación en el Periódico Oficial del Estado, por lo que deberá agregarse en cada ordenamiento un artículo transitorio único que así lo señale.
+
+TERCERO. Publíquese el Acuerdo Primero en el Periódico Oficial del Estado. Difúndanse los presentes Acuerdos en la Gaceta Municipal y en el portal de internet: www.mty.gob.mx.
