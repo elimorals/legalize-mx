@@ -4,7 +4,7 @@ identifier: "QUE-codigo-municipal-de-queretaro-11714"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-04"
-last_updated: "2015-11-13"
+last_updated: "2016-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CÓDIGO MUNICIPAL DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2016.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Querétaro, el jueves 9 de noviembre de 1995.
 
@@ -547,11 +547,13 @@ I. Secretaría General de Gobierno Municipal;
 
 II. Secretaría de Finanzas;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2016)</small>
 
-III. Secretaría de Desarrollo Sustentable del Municipio de Querétaro;
+III. Secretaría de Desarrollo Económico, Planeación Urbana y Ecología del Municipio de Querétaro;
 
-IV. Secretaría de Desarrollo Social;
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2016)</small>
+
+IV. Secretaría de Desarrollo Humano y Social;
 
 V. Secretaría de Administración; y
 
@@ -679,9 +681,9 @@ XXV. Los demás que le señalen las leyes y reglamentos vigentes.
 
 Para el despacho de los asuntos de su competencia, el Secretario de Economía y Finanzas y Tesorería Municipal, se auxiliará con las Direcciones de Egresos e Información Financiera, de Ingresos, de Sistemas de Información y Municipal de Catastro, así como de los departamentos que al efecto se designen.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ENERO DE 2016)</small>
 
-### CAPITULO VI. Secretaría de Desarrollo Sustentable del Municipio de Querétaro y Secretaría de Obras Públicas Municipales
+### CAPITULO VI. De la Secretaría de Desarrollo Económico, Planeación Urbana y Ecología del Municipio de Querétaro y Secretaría de Obras Públicas Municipales
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
@@ -729,17 +731,15 @@ XIII. Identificar, declarar y conservar zonas, edificaciones o elementos con val
 
 XIV. Recibir y revisar los fraccionamientos por parte del municipio, en coordinación con las Secretarías de Movilidad y de Servicios Públicos Municipales.
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
-
-XV. Proponer ante la Secretaría de Finanzas la derrama del Impuesto sobre aumento de Valores y Mejoría Específica de la Propiedad;
+XV. (DEROGADA, P.O. 15 DE ENERO DE 2016)
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
 XVI. Establecer normas técnicas de construcción y de seguridad para las edificaciones públicas y privadas, que deberán ser compatibles con las emitidas por la Secretaría de Movilidad en el ámbito de su competencia;
 
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2016)</small>
 
-XVII. Aplicar y vigilar las disposiciones municipales sobre uso del suelo, construcciones, estacionamientos y anuncios, en conjunto con la Secretaría de Movilidad;
+XVII. Aplicar y vigilar las disposiciones municipales sobre uso del suelo, estacionamientos y anuncios, en conjunto con la Secretaría de Movilidad;
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
@@ -753,9 +753,9 @@ XXI. (DEROGADA, P.O. 1 DE OCTUBRE DE 2004)
 
 XXII. (DEROGADA, P.O. 1 DE OCTUBRE DE 2004)
 
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2016)</small>
 
-XXIII. Recibir, tramitar y resolver, el otorgamiento de los permisos de construcción de edificaciones, que cuenten con la aprobación respectiva de la Secretaría de Movilidad del Municipio de Querétaro;
+XXIII. Recibir, tramitar y resolver el otorgamiento de los permisos de construcción de edificaciones de conformidad con la normatividad aplicable, así como aplicar y vigilar las disposiciones municipales sobre construcciones;
 
 XXIV. Llevar el registro de los profesionistas autorizados para elaborar planos de construcción de edificaciones;
 
@@ -777,9 +777,9 @@ XXXII. Informar al Presidente Municipal de las secciones en las que se considera
 
 XXXIII. Los demás que le atribuyan las leyes y reglamentos vigentes en el Estado o le asigne el Presidente Municipal.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2016)</small>
 
-Para el despacho de los asuntos de su competencia, el Secretario de Desarrollo Sustentable del Municipio de Querétaro se auxiliará con la Dirección de Desarrollo Urbano, de Ecología Municipal y de Desarrollo Económico, así como de los departamentos que al efecto se designen.
+Para el despacho de los asuntos de su competencia, el titular de la Secretaría de Desarrollo Económico, Planeación Urbana y Ecología se auxiliará de las Direcciones de Desarrollo Urbano, de Ecología Municipal, de Desarrollo Económico y Emprendedurismo, de Turismo y de Desarrollo Rural y Agropecuario, así como de los departamentos que al efecto se designen.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
@@ -817,11 +817,15 @@ VII. Los demás que le atribuyan las leyes y reglamentos vigentes en el Estado o
 
 Para el despacho de los asuntos de su competencia, el Secretario de Obras Públicas Municipales se auxiliará con la Dirección de Obras Públicas, así como de los departamentos que al efecto se designen.
 
-### CAPITULO VII. Secretaría de Desarrollo Social
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 15 DE ENERO DE 2016)</small>
+
+### CAPITULO VII. De la Secretaría de Desarrollo Humano y Social
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2016)</small>
 
 ###### ARTICULO 74.
 
-La Secretaría de Desarrollo Social es la dependencia encargada de promover el desarrollo del bienestar social y le corresponde el despacho de los siguientes asuntos:
+La Secretaría de Desarrollo Humano y Social es la dependencia encargada de promover el desarrollo del bienestar social y le corresponde el despacho de los siguientes asuntos:
 
 I. Coordinar con las autoridades competentes la realización de campañas municipales y las actividades orientadas a prevenir y disminuir el alcoholismo, la prostitución, el pandillerismo y la drogadicción en el Municipio;
 
@@ -837,9 +841,9 @@ VI. Proporcionar servicios de prevención, curación, rehabilitación y asistenc
 
 VII. Promover programas de Solidaridad Social, así como dar seguimiento a las acciones de gestoría social que emprenda el Ayuntamiento;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2016)</small>
 
-VIII. Promover y realizar estudio e investigaciones que conduzcan al conocimiento total de las características ecológicas del municipio, para implementar modelos adecuados para el manejo de recursos o para la planeación ambiental del desarrollo, e informar de ellos a la Secretaría de Desarrollo Sustentable del Municipio de Querétaro para su aplicación;
+VIII. Promover y realizar estudios e investigaciones que conduzcan al conocimiento total de las características ecológicas del municipio, para implementar modelos adecuados para el manejo de recursos o para la planeación ambiental del desarrollo, e informar de ellos a la Secretaría de Desarrollo Económico, Planeación Urbana y Ecología del Municipio de Querétaro para su aplicación;
 
 IX. Promover o efectuar estudios para conocer la organización social de la comunidad, con la finalidad de programar adecuadamente las acciones de educación ambiental e implementar los modelos de utilización de recursos y eficientizar la participación de la comunidad;
 
@@ -857,9 +861,9 @@ XIV. Coadyuvar y valorar el cumplimiento y avance de planes y programas municipa
 
 XV. Los demás que en las materias de su competencia le atribuyan al Municipio las leyes y reglamentos vigentes o le asigne el Presidente Municipal.
 
-> <small>(REFORMADO, P.O. 16 DE MARZO DE 2007)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2016)</small>
 
-Para el despacho de los asuntos de su competencia, el Secretario de Desarrollo Social se auxiliará con las Direcciones de Participación Social y Vinculación, de Desarrollo Integral y del Instituto de Cultura del Municipio de Querétaro, así como de los departamentos que al efecto se designen.
+Para el despacho de los asuntos de su competencia, el titular de la Secretaría de Desarrollo Humano y Social se auxiliará de las Direcciones de Participación y Estudios Sociales, de Desarrollo Integral, y de los órganos desconcentrados Instituto de Cultura del Municipio de Querétaro e Instituto del Deporte y la Recreación del Municipio de Querétaro, así como de los departamentos que al efecto se designen.
 
 ### CAPITULO VIII. Secretaría de Administración
 
@@ -2119,9 +2123,9 @@ III. Obtener de la autoridad municipal el número oficial que corresponda a cada
 
 IV. Tener siempre claros y descubiertos los números oficiales, con la obligación de reponerlos cuando falten o se destruyan;
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2016)</small>
 
-V. Cercar sus lotes baldíos y mantener limpios, evitando la insalubridad y el mal aspecto, en la inteligencia que de no acatar esta disposición, la Secretaría de Desarrollo Sustentable del Municipio de Querétaro procederá a cercarlo a costa del propietario del inmueble y cobrárselo por conducto de la Secretaría de Finanzas;
+V. Cercar sus lotes baldíos y mantener limpios, evitando la insalubridad y el mal aspecto, en la inteligencia que de no acatar esta disposición, la Secretaría de Desarrollo Económico, Planeación Urbana y Ecología del Municipio de Querétaro procederá a cercarlo a costa del propietario del inmueble y cobrárselo por conducto de la Secretaría de Finanzas;
 
 VI. Construir letrinas o fosas sépticas en los lugares que carezcan de sistema de drenaje, a fin de no contaminar el agua o el suelo.
 
@@ -2129,11 +2133,11 @@ VI. Construir letrinas o fosas sépticas en los lugares que carezcan de sistema 
 
 En el caso en se divida una propiedad para obtener dos o más predios, o se abran dos o más puertas de acceso a una misma, los dueños o encargados solicitarán de inmediato a la autoridad municipal que les sea dado el nuevo número oficial, mismo que deberá ser colocado al frente en forma inmediata. Por subdivisión de predios se causarán los derechos previstos en la Ley de Ingresos del Municipio.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2016)</small>
 
 ###### ARTICULO 194.
 
-En cualquier construcción o reconstrucción, los materiales que se empleen en ella, deberán ser colocadas dentro de las casas o predios. Pero si por falta de espacio tuvieran que hacer uso de la vía pública, deberán recabar la licencia correspondiente de la Secretaría de Desarrollo Sustentable del Municipio de Querétaro.
+En cualquier construcción o reconstrucción, los materiales que se empleen en ella deberán ser colocados dentro de las casas o predios. Pero si por falta de espacio tuvieran que hacer uso de la vía pública, deberán recabar la licencia correspondiente de la Secretaría de Desarrollo Económico, Planeación Urbana y Ecología del Municipio de Querétaro.
 
 ###### ARTICULO 195.
 
@@ -8018,3 +8022,19 @@ La Secretaría de Administración proveerá lo conducente para el debido cumplim
 ###### ARTÍCULO CUARTO.
 
 Se deroga cualquier disposición que se oponga al presente Acuerdo.
+
+P.O. 15 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE REFORMAN LAS FRACCIONES III Y IV DEL ARTÍCULO 70, LAS FRACCIONES XVII, XXIII Y EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 73; LA FRACCIÓN VIII, EL PRIMERO Y ÚLTIMO PÁRRAFO DEL ARTÍCULO 74; LA FRACCIÓN V DEL ARTÍCULO 192, EL ARTÍCULO 194, ASÍ COMO LA DENOMINACIÓN DE LOS CAPÍTULOS VI Y VII, DEL APARTADO SEGUNDO, TÍTULO SEGUNDO; Y SE DEROGA LA FRACCIÓN XV DEL ARTÍCULO 73 DEL CÓDIGO MUNICIPAL DE QUERÉTARO”.]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese el presente Acuerdo en la Gaceta Oficial del Ayuntamiento del Municipio de Querétaro y en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Acuerdo entrará en vigor el día siguiente a la fecha de la primera de las publicaciones mencionadas en el artículo transitorio anterior.
+
+###### ARTÍCULO TERCERO.
+
+Notifíquese el presente Acuerdo a los titulares de la Secretaría Particular, Secretaría de Desarrollo Económico, Planeación Urbana y Ecología, Secretaría de Movilidad, Secretaría de Desarrollo Humano y Social y Secretaría de Administración.
