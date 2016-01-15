@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-adquisiciones-arrendamientos-y-servicios-del-2669
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-11-08"
-last_updated: "2013-03-15"
+last_updated: "2016-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26698&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL GOBIERNO MUNICIPAL DE MONTERREY
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes el 8 de noviembre de 2002.
 
@@ -205,7 +205,9 @@ VIII. No tener lazo de parentesco por consanguinidad o afinidad hasta el cuarto 
 
 La convocatoria a que se refiere este artículo establecerá el procedimiento y criterios de selección de los ciudadanos y la documentación con la cual se acreditará cada uno de los requisitos señalados.
 
-Una vez que haya concluido el período de registro de los ciudadanos interesados, los expedientes serán turnados a la Comisión de Gobernación y Reglamentación para su análisis, dictaminación y posterior aprobación del Ayuntamiento.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2016)</small>
+
+Una vez que haya concluido el período de registro de los ciudadanos interesados, los expedientes serán turnados a la Comisión de Gobernación, Reglamentación y Mejora Regulatoria para su análisis, dictaminación y posterior aprobación del Ayuntamiento.
 
 En caso de que no se registren participantes o ninguno cumpla con los requisitos establecidos en la convocatoria, se lanzará una segunda convocatoria. En el supuesto de que por segunda ocasión no se registren participantes o ninguno cumpla con los requisitos establecidos, la designación de los representantes ciudadanos se aprobará por el Ayuntamiento a propuesta del Presidente Municipal.
 
@@ -834,3 +836,11 @@ Artículo Primero. Las presentes reformas entrarán en vigor al día siguiente d
 Artículo Segundo. La designación de los representantes ciudadanos deberá realizarse dentro de los sesenta días naturales siguientes a la publicación de las presentes reformas en el Periódico Oficial del Estado de Nuevo León.
 
 El Comité sesionará con los integrantes de acuerdo a las disposiciones vigentes al momento de expedición de las presentes reformas, en tanto se designan los representantes ciudadanos en el plazo aludido.
+
+P.O. 15 DE ENERO DE 2016.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS SEGUNDO Y TERCERO DEL “ACUERDO DE LA SESIÓN ORDINARIA DE FECHA 12 DE ENERO DE 2016. SE APRUEBA LA MODIFICACIÓN DE DIVERSOS REGLAMENTOS MUNICIPALES”.]</small>
+
+SEGUNDO. Se aprueba que las presentes reformas entren en vigor a partir de su publicación en el Periódico Oficial del Estado, por lo que deberá agregarse en cada ordenamiento un artículo transitorio único que así lo señale.
+
+TERCERO. Publíquese el Acuerdo Primero en el Periódico Oficial del Estado. Difúndanse los presentes Acuerdos en la Gaceta Municipal y en el portal de internet: www.mty.gob.mx.
