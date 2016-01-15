@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-control-de-los-establecimientos-que-73129"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-01"
-last_updated: "2012-04-23"
+last_updated: "2016-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73129&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL CONTROL DE LOS ESTABLECIMIENTOS QUE PROPORCIONAN EL SERVICIO DE INTERNET E INTRANET EN EL MUNICIPIO DE MONTERREY, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ABRIL DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 1 de febrero del 2010.
 
@@ -417,11 +417,13 @@ Toda persona tiene la facultad de denunciar ante la Secretaría del Ayuntamiento
 
 En los términos de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León en su artículo 166 fracción V; el presente Reglamento será sometido a consulta pública en la medida que se modifiquen las condiciones sociales del municipio, en virtud de su crecimiento demográfico y social así como por el desarrollo de nuevas tecnologías.
 
-> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2016)</small>
 
 ###### ARTÍCULO 32.
 
-Para la revisión y consulta del presente Ordenamiento, la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación y Reglamentación del Ayuntamiento argumentando las razones que la sustenten. La Comisión deberá en un plazo no mayor a 30 días hábiles, analizar, estudiar y dictaminar sobre las propuestas planteadas. La Comisión mediante escrito fundado y motivado, que hará llegar al promovente, le informará sobre la procedencia o improcedencia de sus propuestas.
+Para la revisión y consulta del presente Ordenamiento, la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación, Reglamentación y Mejora Regulatoria argumentando las razones que la sustenten. La Comisión deberá en un plazo no mayor a 30 días hábiles, analizar, estudiar y dictaminar sobre las propuestas planteadas. La Comisión mediante escrito fundado y motivado, que hará llegar al promovente, le informará sobre la procedencia o improcedencia de sus propuestas.
+
+> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2012)</small>
 
 En caso de considerarse procedente la reforma, se hará del conocimiento del Ayuntamiento para su consideración y resolución.
 
@@ -458,3 +460,11 @@ Las presentes reformas por modificación y adición del Reglamento para el Contr
 ###### ARTÍCULO SEGUNDO
 
 Se ordena a la Secretaría de Desarrollo Urbano y Ecología del Municipio, envié a la Dirección de Inspección y Vigilancia de la Secretaría del Ayuntamiento, todos los procedimientos instaurados conforme el Reglamento para el Control de los Establecimientos que Proporcionan el Servicio de Internet e Intranet en el municipio de Monterrey, Nuevo León, dentro de 15-quince días siguientes a partir de la publicación de las presentes reformas en el Periódico Oficial del Estado.
+
+P.O. 15 DE ENERO DE 2016.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS SEGUNDO Y TERCERO DEL "ACUERDO DE LA SESIÓN ORDINARIA DE FECHA 12 DE ENERO DE 2016. SE APRUEBA LA MODIFICACIÓN DE DIVERSOS REGLAMENTOS MUNICIPALES".]</small>
+
+SEGUNDO. Se aprueba que las presentes reformas entren en vigor a partir de su publicación en el Periódico Oficial del Estado, por lo que deberá agregarse en cada ordenamiento un artículo transitorio único que así lo señale.
+
+TERCERO. Publíquese el Acuerdo Primero en el Periódico Oficial del Estado. Difúndanse los presentes Acuerdos en la Gaceta Municipal y en el portal de internet: www.mty.gob.mx.
