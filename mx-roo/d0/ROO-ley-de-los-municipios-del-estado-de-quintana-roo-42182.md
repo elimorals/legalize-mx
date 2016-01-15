@@ -4,7 +4,7 @@ identifier: "ROO-ley-de-los-municipios-del-estado-de-quintana-roo-42182"
 country: "mx"
 rank: "ley"
 publication_date: "2004-12-20"
-last_updated: "2014-12-01"
+last_updated: "2016-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=42182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ROO"
 
 LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE DICIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2016.
 
 Ley publicada en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el lunes 20 de diciembre de 2004.
 
@@ -125,9 +125,9 @@ Los Ayuntamientos se integran de la siguiente forma:
 
 I. En los Municipios de Othón P. Blanco, Benito Juárez y Solidaridad, con un Presidente/a, un Síndico/a, nueve Regidores/as electos según el principio de mayoría relativa y seis Regidores/as electos según el principio de representación proporcional.
 
-> <small>(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2016)</small>
 
-II. En los Municipios de Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Isla Mujeres, Tulum y Bacalar, con un Presidente/a, un Síndico/a, seis Regidores/as electos según el principio de mayoría relativa y tres Regidores/as electos según el principio de representación proporcional. Se elegirá un suplente para cada integrante del Ayuntamiento.
+II. En los Municipios de Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Isla Mujeres, Tulum, Bacalar y Puerto Morelos con un Presidente/a, un Síndico/a, seis Regidores/as electos según el principio de mayoría relativa y tres Regidores/as electos según el principio de representación proporcional. Se elegirá un suplente para cada integrante del Ayuntamiento.
 
 > <small>(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2013)</small>
 
@@ -177,11 +177,11 @@ De la División Territorial, Administrativa y Política.
 
 ### Capítulo I. De la división territorial
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE FEBRERO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2016)</small>
 
 ###### ARTÍCULO 12.
 
-El Estado de Quintana Roo, se integra con los siguientes Municipios: Othón P. Blanco, Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Benito Juárez, Isla Mujeres, Solidaridad, Tulum y Bacalar.
+El Estado de Quintana Roo, se integra con los siguientes Municipios: Othón P. Blanco, Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Benito Juárez, Isla Mujeres, Solidaridad, Tulum, Bacalar y Puerto Morelos.
 
 La extensión, límites y cabecera de cada Municipio, serán los señalados en la Constitución Política del Estado Libre y Soberano de Quintana Roo.
 
@@ -3364,3 +3364,9 @@ SEGUNDO. Los Honorables ayuntamientos de los municipios del Estado, deberán int
 En el caso de los Ayuntamientos del Estado que ya cuenten dentro de su estructura con comisión en la materia de Desarrollo Familiar y Grupos Vulnerables, deberán efectuar la modificación de la misma, con apego a lo establecido en el presente decreto en el mismo plazo a que alude el párrafo anterior.
 
 TERCERO. Se derogan todas las disposiciones que se opongan al presente decreto.
+
+P.O. 15 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 382 POR EL QUE SE REFORMAN LA FRACCIÓN II DEL ARTÍCULO 8 Y EL PÁRRAFO PRIMERO DEL ARTÍCULO 12 DE LA LEY DE LOS MUNICIPIOS DEL ESTADO DE QUINTANA ROO”.]
+
+ÚNICO. Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
