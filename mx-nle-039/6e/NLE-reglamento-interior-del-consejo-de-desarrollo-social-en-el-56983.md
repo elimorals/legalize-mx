@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-consejo-de-desarrollo-social-en-el-5698
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-09-12"
-last_updated: "2007-09-12"
+last_updated: "2016-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56983&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DEL CONSEJO DE DESARROLLO SOCIAL EN EL MUNICIPIO DE MONTERREY, NUEVO LEON
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 12 de septiembre de 2007.
 
@@ -97,6 +97,8 @@ IV. Los representantes de Comités Comunitarios de las colonias, barrios o secto
 
 En el caso de que la comunidad ya cuente con una organización formal comunitaria, como son las Juntas de Vecinos o similares, ésta se podrá constituir como Comité Comunitario.
 
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2016)</small>
+
 V. Un equipo asesor, sin derecho a voto, compuesto por:
 
 a) El Secretario del R. Ayuntamiento;
@@ -107,7 +109,9 @@ c) El Secretario de Obras Públicas del Municipio;
 
 d) El Secretario de Desarrollo Humano del Municipio;
 
-e) El Presidente de la Comisión de Obras Públicas del R. Ayuntamiento;
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2016)</small>
+
+e) El Coordinador de la Comisión de Desarrollo Urbano, Obras Públicas y Nomenclatura;
 
 f) Un representante del Consejo de Desarrollo Social del Gobierno del Estado;
 
@@ -286,3 +290,13 @@ LIC. ADALBERTO ARTURO MADERO QUIROGA
 EL C. SECRETARIO DEL R. AYUNTAMIENTO
 
 LIC. MARCO HERIBERTO OROZCO RUIZ VELAZCO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE ENERO DE 2016.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS SEGUNDO Y TERCERO DEL “ACUERDO DE LA SESIÓN ORDINARIA DE FECHA 12 DE ENERO DE 2016. SE APRUEBA LA MODIFICACIÓN DE DIVERSOS REGLAMENTOS MUNICIPALES”.]</small>
+
+SEGUNDO. Se aprueba que las presentes reformas entren en vigor a partir de su publicación en el Periódico Oficial del Estado, por lo que deberá agregarse en cada ordenamiento un artículo transitorio único que así lo señale.
+
+TERCERO. Publíquese el Acuerdo Primero en el Periódico Oficial del Estado. Difúndanse los presentes Acuerdos en la Gaceta Municipal y en el portal de internet: www.mty.gob.mx.
