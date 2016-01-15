@@ -4,7 +4,7 @@ identifier: "ROO-ley-que-crea-el-consejo-estatal-de-armonizacion-contable-88629"
 country: "mx"
 rank: "ley"
 publication_date: "2012-06-20"
-last_updated: "2012-07-20"
+last_updated: "2016-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88629&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "ROO"
 
 LEY QUE CREA EL CONSEJO ESTATAL DE ARMONIZACIÓN CONTABLE DEL ESTADO DE QUINTANA ROO
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 20 DE JULIO DE 2012.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2016.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Quintana Roo, el miércoles 20 de junio de 2012.
 
@@ -51,25 +49,27 @@ Para efecto de lo dispuesto en el artículo que antecede, se crea el Consejo Est
 
 La organización y funcionamiento del Consejo Estatal, se regirá por lo dispuesto en la presente Ley, en sus respectivas Reglas de Operación y en los acuerdos que en la materia apruebe el mismo Consejo Estatal.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2016)</small>
+
 ###### Artículo 3.
 
 Para efectos de la presente Ley, se entenderá por:
 
-Ley: La Ley que crea el Consejo Estatal de Armonización Contable del Estado de Quintana Roo;
+I. Ley: La Ley que crea el Consejo Estatal de Armonización Contable del Estado de Quintana Roo;
 
-Ley de Contabilidad: La Ley General de Contabilidad Gubernamental;
+II. Ley de Contabilidad: La Ley General de Contabilidad Gubernamental;
 
-Consejo: El Consejo Nacional de Armonización Contable (CONAC);
+III. Consejo: El Consejo Nacional de Armonización Contable (CONAC);
 
-Consejo Estatal: El Consejo Estatal de Armonización Contable del Estado de Quintana Roo;
+IV. Consejo Estatal: El Consejo Estatal de Armonización Contable del Estado de Quintana Roo;
 
-Reglas: Las Reglas de Operación del Consejo Estatal;
+V. Reglas: Las Reglas de Operación del Consejo Estatal;
 
-Sujetos Obligados: Los Poderes Ejecutivo, Legislativo y Judicial, los Órganos Autónomos, las Entidades Paraestatales y los Ayuntamientos de los Municipios, incluidas sus Entidades Paramunicipales, todos del Estado de Quintana Roo;
+VI. Sujetos Obligados: Los Poderes Ejecutivo, Legislativo y Judicial, los Órganos Autónomos, las Entidades Paraestatales y los Ayuntamientos de los Municipios, incluidas sus Entidades Paramunicipales, todos del Estado de Quintana Roo;
 
-Municipios de la zona norte del Estado: Los Ayuntamientos de Tulum, Solidaridad, Cozumel, Benito Juárez, Isla Mujeres y Lázaro Cárdenas;
+VII. Municipios de la zona norte del Estado: Los Ayuntamientos de Tulum, Solidaridad, Cozumel, Benito Juárez, Isla Mujeres, Lázaro Cárdenas y Puerto Morelos, y
 
-Municipios de la zona sur del Estado: Los Ayuntamientos de Othón P. Blanco, Bacalar, José María Morelos y Felipe Carrillo Puerto.
+VIII. Municipios de la zona sur del Estado: Los Ayuntamientos de Othón P. Blanco, Bacalar, José María Morelos y Felipe Carrillo Puerto.
 
 ###### Artículo 4.
 
@@ -190,3 +190,11 @@ ARQ. LUIS ALBERTO GONZÁLEZ FLORES.
 EL SECRETARIO DE HACIENDA DEL ESTADO DE QUINTANA ROO.
 
 C. JOSÉ MAURICIO GONGORA ESCALANTE.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO: 381 POR EL QUE SE REFORMA EL ARTÍCULO 3 DE LA LEY QUE CREA EL CONSEJO ESTATAL DE ARMONIZACIÓN CONTABLE DEL ESTADO DE QUINTANA ROO”.]
+
+ÚNICO. Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial del Estado de Quintana Roo.
