@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-proteccion-ambiental-e-imagen-urbana-de-41803"
 country: "mx"
 rank: "reglamento"
 publication_date: "1998-09-02"
-last_updated: "2014-11-05"
+last_updated: "2016-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41803&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE PROTECCIÓN AMBIENTAL E IMAGEN URBANA DE MONTERREY
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 2 de septiembre de 1998.
 
@@ -451,7 +451,7 @@ XIX. Establecer acciones de prevención y control de emergencias ecológicas y c
 
 > <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2008)</small>
 
-XX Desarrollar programas de inducción de criterios ambientales hacia la comunidad, los desarrolladores, comercios, servicios e industria;
+XX. Desarrollar programas de inducción de criterios ambientales hacia la comunidad, los desarrolladores, comercios, servicios e industria;
 
 > <small>(REFORMADA, P.O. 27 DE OCTUBRE DE 2008)</small>
 
@@ -1635,7 +1635,7 @@ Si la sanción aplicada fuere la reposición de árboles, ésta deberá ser cubi
 
 I. Tabla de factores de cálculo de sanciones económicas por tala, poda, trasplante y retiro de cubierta vegetal:
 
-> <small>N. DE E. VEASE TABLA EN EL P.O. DE 27 DE OCTUBRE DE 2008, PAGINA DE LA 102 A LA 104.</small>
+> <small>N. DE E. VÉASE TABLA EN EL P.O. DE 27 DE OCTUBRE DE 2008, PÁGINA DE LA 102 A LA 104.</small>
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 5 DE NOVIEMBRE DE 2014)</small>
 
@@ -1757,17 +1757,17 @@ En los casos de notificaciones, donde la persona con quien se atiende el asunto 
 
 Las resoluciones de la autoridad municipal dictadas con base en este reglamento, podrán ser impugnados por los particulares afectados mediante el recurso de inconformidad de conformidad con lo establecido en el Reglamento que Regula el Procedimiento Único de Recurso de Inconformidad en el Municipio de Monterrey.
 
-> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2016)</small>
 
 ###### ARTÍCULO 152.
 
-Para la revisión y consulta del presente Reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación y Reglamentación, quien recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía. El promovente deberá argumentar en el escrito de referencia las razones que sustentan sus opiniones y observaciones con respecto al Reglamento Municipal.
+Para la revisión y consulta del presente reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación, Reglamentación y Mejora Regulatoria, quien recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía. El promovente deberá argumentar en el escrito de referencia las razones que sustentan sus opiniones y observaciones con respecto al Reglamento Municipal.
 
-> <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2008)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2016)</small>
 
 ###### ARTÍCULO 153.
 
-La Comisión de Gobernación y Reglamentación al recibir las propuestas planteadas a que se refiere el artículo anterior, deberá en un plazo no mayor a 30 días hábiles, analizarlas y estudiarlas a fin de determinar la procedencia o improcedencia de las mismas. De resultar fundadas las propuestas, se presentarán ante el Republicano Ayuntamiento para su consideración.
+La Comisión de Gobernación, Reglamentación y Mejora Regulatoria al recibir las propuestas planteadas a que se refiere el artículo anterior, deberá en un plazo no mayor a 30 días hábiles, analizarlas y estudiarlas a fin de determinar la procedencia o improcedencia de las mismas. De resultar fundadas las propuestas, se presentarán ante el Ayuntamiento para su consideración.
 
 > <small>(ADICIONADO, P.O. 27 DE OCTUBRE DE 2008)</small>
 
@@ -1799,7 +1799,7 @@ C. Secretario del R. Ayuntamiento
 
 Lic. Armando Javier Rodríguez Corona
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 27 DE OCTUBRE DE 2008.
 
@@ -1810,3 +1810,11 @@ P.O. 5 DE NOVIEMBRE DE 2014.
 PRIMERO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO. Publíquense las presentes reformas en el Periódico Oficial del Estado.
+
+P.O. 15 DE ENERO DE 2016.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS SEGUNDO Y TERCERO DEL “ACUERDO DE LA SESIÓN ORDINARIA DE FECHA 12 DE ENERO DE 2016. SE APRUEBA LA MODIFICACIÓN DE DIVERSOS REGLAMENTOS MUNICIPALES”.]</small>
+
+SEGUNDO. Se aprueba que las presentes reformas entren en vigor a partir de su publicación en el Periódico Oficial del Estado, por lo que deberá agregarse en cada ordenamiento un artículo transitorio único que así lo señale.
+
+TERCERO. Publíquese el Acuerdo Primero en el Periódico Oficial del Estado. Difúndanse los presentes Acuerdos en la Gaceta Municipal y en el portal de internet: www.mty.gob.mx.
