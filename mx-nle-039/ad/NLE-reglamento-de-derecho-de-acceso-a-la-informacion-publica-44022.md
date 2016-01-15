@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-derecho-de-acceso-a-la-informacion-publica-44022"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-03-04"
-last_updated: "2014-03-31"
+last_updated: "2016-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44022&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE DERECHO DE ACCESO A LA INFORMACIÓN PÚBLICA DEL MUNICIPIO DE MONTERREY
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Monterrey, el viernes 4 de marzo de 2005.
 
@@ -381,9 +381,11 @@ VIII. Que no se trate del cónyuge, hijos, parientes por consanguinidad en líne
 
 Corresponde al R. Ayuntamiento conforme a lo dispuesto en este Reglamento, la elección de quien haya de ocupar el cargo de Comisionado de entre una terna propuesta por el Presidente Municipal. El Comisionado durará en su cargo cuatro años.
 
-###### Artículo 27.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2016)</small>
 
-Los integrantes de la terna propuesta por el Presidente Municipal comparecerán públicamente ante los integrantes de las Comisiones Unidas de Gobernación y Reglamentación y Derechos Humanos, ante quienes expondrán los motivos que los impulsan para ocupar el cargo de Comisionado, y responderán a las preguntas que las comisiones les planteen.
+###### ARTÍCULO 27.
+
+Los integrantes de la terna propuesta por el Presidente Municipal comparecerán públicamente ante los integrantes de las Comisiones Unidas de Gobernación, Reglamentación y Mejora Regulatoria y de Derechos Humanos y Asuntos Indígenas, ante quienes expondrán los motivos que los impulsan para ocupar el cargo de Comisionado, y responderán a las preguntas que las comisiones les planteen.
 
 ###### Artículo 28.
 
@@ -664,3 +666,11 @@ DEBIDO A SU IMPORTANCIA A CONTINUACIÓN SE TRANSCRIBEN LOS PUNTOS DEL ACUERDO QU
 SEGUNDO: Las presentes Reformas por Modificación al artículo 33 y adición del artículo 33 Bis del Reglamento de Derecho de Acceso a la Información Pública del Municipio de Monterrey, entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 TERCERO: Se ordena la publicación de los presentes acuerdos en el Periódico Oficial del Estado, en la Gaceta Municipal y difúndase en el portal de Internet http://portal.monterrey.gob.mx.
+
+P.O. 15 DE ENERO DE 2016.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS SEGUNDO Y TERCERO DEL "ACUERDO DE LA SESIÓN ORDINARIA DE FECHA 12 DE ENERO DE 2016. SE APRUEBA LA MODIFICACIÓN DE DIVERSOS REGLAMENTOS MUNICIPALES".]</small>
+
+SEGUNDO. Se aprueba que las presentes reformas entren en vigor a partir de su publicación en el Periódico Oficial del Estado, por lo que deberá agregarse en cada ordenamiento un artículo transitorio único que así lo señale.
+
+TERCERO. Publíquese el Acuerdo Primero en el Periódico Oficial del Estado. Difúndanse los presentes Acuerdos en la Gaceta Municipal y en el portal de internet: www.mty.gob.mx.
