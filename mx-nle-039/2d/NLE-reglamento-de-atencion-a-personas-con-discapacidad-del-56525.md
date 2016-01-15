@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-atencion-a-personas-con-discapacidad-del-56525"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-20"
-last_updated: "2007-07-20"
+last_updated: "2016-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE ATENCION A PERSONAS CON DISCAPACIDAD DEL MUNICIPIO DE MONTERREY, NUEVO LEON
 
-REGLAMENTO DE ATENCION A PERSONAS CON DISCAPACIDAD DEL MUNICIPIO DE MONTERREY
+REGLAMENTO DE ATENCIÓN A PERSONAS CON DISCAPACIDAD DEL MUNICIPIO DE MONTERREY
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2016.
 
 Reglamento publicado en Periódico Oficial de Estado de Nuevo León, el viernes 20 de julio de 2007.
 
@@ -521,9 +521,13 @@ b) Directora y Presidenta del DIF municipal de la Ciudad de Monterrey;
 
 c) El Secretario de Desarrollo Económico y Social;
 
-d) El Regidor o Síndico Presidente de la H. Comisión de Derechos Humanos del R. Ayuntamiento;
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2016)</small>
 
-e) El Regidor o Síndico Presidente de la H. Comisión de Grupos Vulnerables del R. Ayuntamiento; y
+d) El Regidor o Síndico Coordinador de la Comisión de Derechos Humanos y Asuntos Indígenas;
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2016)</small>
+
+e) El Regidor o Síndico Coordinador de la Comisión de Equidad y Grupos Vulnerables; y
 
 f) Representantes de las organizaciones de la sociedad civil que se hayan destacado por su trabajo y estudios en la materia.
 
@@ -547,9 +551,11 @@ Contra cualquier acto de la Autoridad Municipal que viole el presente reglamento
 
 Del Procedimiento de revisión y consulta.
 
-###### Artículo 58.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2016)</small>
 
-Para la revisión y consulta del presente Reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación y Reglamentación, quien recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía y en la cual se incluyan los razonamientos que sean el sustento de las opiniones y observaciones correspondientes.
+###### ARTÍCULO 58.
+
+Para la revisión y consulta del presente Reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación, Reglamentación y Mejora Regulatoria, quien recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía y en la cual se incluyan los razonamientos que sean el sustento de las opiniones y observaciones correspondientes.
 
 ###### Artículo 59.
 
@@ -584,3 +590,13 @@ LIC. ADALBERTO ARTURO MADERO QUIROGA
 EL C. SECRETARIO DEL R. AYUNTAMIENTO
 
 LIC. MARCO HERIBERTO OROZCO RUIZ VELAZCO
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE ENERO DE 2016.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS SEGUNDO Y TERCERO DEL “ACUERDO DE LA SESIÓN ORDINARIA DE FECHA 12 DE ENERO DE 2016. SE APRUEBA LA MODIFICACIÓN DE DIVERSOS REGLAMENTOS MUNICIPALES”.]</small>
+
+SEGUNDO. Se aprueba que las presentes reformas entren en vigor a partir de su publicación en el Periódico Oficial del Estado, por lo que deberá agregarse en cada ordenamiento un artículo transitorio único que así lo señale.
+
+TERCERO. Publíquese el Acuerdo Primero en el Periódico Oficial del Estado. Difúndanse los presentes Acuerdos en la Gaceta Municipal y en el portal de internet: www.mty.gob.mx.
