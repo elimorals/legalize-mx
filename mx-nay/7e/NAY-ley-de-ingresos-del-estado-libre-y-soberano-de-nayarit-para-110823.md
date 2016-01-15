@@ -4,7 +4,7 @@ identifier: "NAY-ley-de-ingresos-del-estado-libre-y-soberano-de-nayarit-para-110
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2015-12-04"
-last_updated: "2015-12-04"
+last_updated: "2016-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110823&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NAY"
 ---
 # LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE NAYARIT PARA EL EJERCICIO FISCAL DE 2016
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 15 DE ENERO DE 2016 EN EL P.O. DEL ESTADO DE NAYARIT, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE INGRESOS DEL ESTADO LIBRE Y SOBERANO DE NAYARIT PARA EL EJERCICIO FISCAL DE 2016
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 15 DE ENERO DE 2016.]</small>
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Nayarit, el viernes 4 de diciembre de 2015.
 
@@ -225,7 +225,9 @@ DE LOS SERVICIOS PRESTADOS POR LA DIRECCIÓN DEL NOTARIADO
 
 Por los servicios prestados por la Dirección del Notariado relativos a la autorización de folios, volúmenes de protocolo y libros notariales, se pagarán de conformidad con la siguiente:
 
-> <small>N. DE E. VÉASE TABLA EN LA SECCIÓN SEGUNDA DEL P.O. DE 4 DE DICIEMBRE DE 2015, PÁGINA 12.</small>
+> <small>[N. DE E. VÉASE TABLA EN LA SECCIÓN SEGUNDA DEL P.O. DE 4 DE DICIEMBRE DE 2015, PÁGINA 12.]</small>
+
+> <small>[N. DE E. VÉASE F. DE E. A LA TABLA EN EL P.O. DE 15 DE ENERO DE 2016, PÁGINAS DE LA 2 A LA 3.]</small>
 
 DE LOS SERVICIOS PRESTADOS POR EL REGISTRO CIVIL
 
