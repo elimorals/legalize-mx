@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-la-comision-de-honor-y-justicia-de-los-69185"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-02-20"
-last_updated: "2013-12-09"
+last_updated: "2016-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69185&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE LA COMISIÓN DE HONOR Y JUSTICIA DE LOS CUERPOS DE SEGURIDAD PÚBLICA, POLICÍA Y TRÁNSITO DEL MUNICIPIO DE MONTERREY, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 20 de febrero de 2009.
 
@@ -87,7 +87,7 @@ Para lo no previsto en este Reglamento, así como para lo no previsto en la subs
 
 > <small>N. DE E. DE CONFORMIDAD CON LAS REFORMAS Y ADICIONES APROBADAS POR EL AYUNTAMIENTO DE MONTERREY, PUBLICADO EN EL P.O. DE 9 DE DICIEMBRE DE 2013, SE MODIFICÓ LA ESTRUCTURA DEL PRESENTE ARTÍCULO.</small>
 
-###### Artículo 5.
+###### ARTÍCULO 5.
 
 La Comisión estará integrada por:
 
@@ -97,13 +97,13 @@ II. Secretario.- Será el Director Jurídico de la Secretaría del R. Ayuntamien
 
 III. Vocal.- Será un Regidor de la fracción mayoritaria.
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2016)</small>
 
-IV. Vocal: Será el Presidente de la Comisión de Tránsito del Ayuntamiento;
+IV. Vocal: Será el Coordinador de la Comisión de Seguridad Pública, Prevención Social y Vialidad;
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2016)</small>
 
-V. Vocal: Será el Presidente de la Comisión de Policía y Buen Gobierno del Ayuntamiento;
+V. Vocal: Será el Coordinador de la Comisión de Gobernación, Reglamentación y Mejora Regulatoria;
 
 > <small>(ADICIONADA [N. DE E. REFORMADA], P.O. 9 DE DICIEMBRE DE 2013)</small>
 
@@ -375,7 +375,7 @@ III. Si existe resistencia al mandamiento legítimo de autoridad, se estará a l
 
 Se entiende por sanción, la medida a que se hace acreedor el servidor público que cometa alguna falta a los principios de actuación previstos en la Ley de Responsabilidades, en la Ley de Seguridad, el presente Reglamento y en las normas disciplinarias especificas. La aplicación de sanciones será proporcional a la gravedad y reiteración de la falta cometida.
 
-Las sanciones deberán registrarse en el expediente personal de los infractores: (sic)
+Las sanciones deberán registrarse en el expediente personal de los infractores:
 
 La imposición de las sanciones que determinen las autoridades correspondientes se hará con independencia de las que correspondan por responsabilidad civil, penal o administrativa, en que incurran los integrantes de las Instituciones Policiales de conformidad con la legislación aplicable.
 
@@ -522,3 +522,11 @@ Las presentes reformas por modificación y adición del Reglamento de la Comisi�
 Se derogan todas las disposiciones que contravengan lo dispuesto en este Reglamento.
 
 SEGUNDO: Se ordena a la Secretaría del Ayuntamiento publique los presentes acuerdos en el Periódico Oficial del Estado, en la Gaceta Municipal y en el portal de Internet www.monterrey.gob.mx.
+
+P.O. 15 DE ENERO DE 2016.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS SEGUNDO Y TERCERO DEL “ACUERDO DE LA SESIÓN ORDINARIA DE FECHA 12 DE ENERO DE 2016. SE APRUEBA LA MODIFICACIÓN DE DIVERSOS REGLAMENTOS MUNICIPALES”.]</small>
+
+SEGUNDO. Se aprueba que las presentes reformas entren en vigor a partir de su publicación en el Periódico Oficial del Estado, por lo que deberá agregarse en cada ordenamiento un artículo transitorio único que así lo señale.
+
+TERCERO. Publíquese el Acuerdo Primero en el Periódico Oficial del Estado. Difúndanse los presentes Acuerdos en la Gaceta Municipal y en el portal de internet: www.mty.gob.mx.
