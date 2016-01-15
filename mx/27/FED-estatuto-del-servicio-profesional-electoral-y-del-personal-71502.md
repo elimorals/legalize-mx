@@ -4,7 +4,7 @@ identifier: "FED-estatuto-del-servicio-profesional-electoral-y-del-personal-7150
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-01-15"
-last_updated: "2010-01-15"
+last_updated: "2016-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71502&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2010-01-15"
 ---
 # ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL Y DEL PERSONAL DEL INSTITUTO FEDERAL ELECTORAL
 
-ACUERDO QUE POR INSTRUCCION DE LA JUNTA GENERAL EJECUTIVA, PRESENTA EL SECRETARIO EJECUTIVO AL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL, POR EL QUE SE APRUEBA EL PROYECTO INTEGRAL DE REFORMA AL ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL Y DEL PERSONAL DEL INSTITUTO FEDERAL ELECTORAL
+ACUERDO QUE POR INSTRUCCIÓN DE LA JUNTA GENERAL EJECUTIVA, PRESENTA EL SECRETARIO EJECUTIVO AL CONSEJO GENERAL DEL INSTITUTO FEDERAL ELECTORAL, POR EL QUE SE APRUEBA EL PROYECTO INTEGRAL DE REFORMA AL ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL Y DEL PERSONAL DEL INSTITUTO FEDERAL ELECTORAL
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL Y DEL PERSONAL DE LA RAMA ADMINISTRATIVA, PUBLICADO EN EL D.O.F. DE 15 DE ENERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 15 DE ENERO DE 2016 (ABROGADO).
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de enero de 2010.
 
@@ -4148,3 +4150,157 @@ Mtro. Alfredo Figueroa Fernández
 Consejero Electoral
 
 Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 15 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL CONSEJO GENERAL DEL INSTITUTO NACIONAL ELECTORAL, POR EL QUE SE APRUEBA EL ESTATUTO DEL SERVICIO PROFESIONAL ELECTORAL NACIONAL Y DEL PERSONAL DE LA RAMA ADMINISTRATIVA”.]
+
+Primero.- Las disposiciones del presente Estatuto entrarán en vigor al día hábil siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- A partir de la entrada en vigor del presente Estatuto, se abroga el Estatuto del Servicio Profesional Electoral y del Personal del Instituto Federal Electoral publicado en el Diario Oficial de la Federación el 15 de enero de 2010 y se derogan todas las disposiciones que lo contravengan.
+
+Tercero.- Se reconocerá al personal del Instituto las prestaciones devengadas o generadas durante la vigencia de las normas anteriores a la entrada en vigor del presente Estatuto.
+
+Cuarto.- Se mantendrá en vigor toda normativa secundaria que no se oponga al presente Estatuto y en lo que más beneficie, hasta en tanto se expidan o reformen las disposiciones que deriven del presente ordenamiento.
+
+Quinto.- En concordancia con el artículo 41, segundo párrafo, Base V, Apartado D de la Constitución Política de los Estados Unidos Mexicanos y el artículo 1, párrafo 3 de la Ley, las entidades federativas y los OPLE deberán ajustar su normativa y demás disposiciones aplicables, conforme a lo establecido en el presente Estatuto, en el ámbito de sus respectivas competencias. En el caso de las entidades federativas a más tardar sesenta días hábiles después de la publicación del presente Estatuto, y el caso de los OPLE noventa días hábiles posteriores a la aprobación de la Convocatoria del proceso de incorporación al Servicio que les aplique.
+
+Sexto.- El Acuerdo para la Integración del Catálogo de Cargos y Puestos del Servicio deberá ser aprobado por el Consejo General a más tardar en enero de 2016, en el que se definirán los órganos del Instituto y de los OPLE que van a ser parte del Servicio, así como los cargos y puestos que mínimamente deberá contener. Mientras, el Catálogo de Cargos y Puestos del Servicio deberá ser aprobado por la Junta a más tardar el 29 de febrero de 2016.
+
+Séptimo.- Los OPLE deberán adecuar su estructura organizacional, cargos, puestos y demás elementos, conforme a lo establecido en el presente Estatuto y en el Catálogo del Servicio a más tardar el 31 de mayo de 2016.
+
+Octavo.- Los cargos y puestos de los OPLE, que no estén incluidos en el Catálogo del Servicio serán considerados como de la rama administrativa.
+
+Noveno.- Los mecanismos de Selección, Ingreso, Capacitación, Profesionalización, Cambios de Adscripción y Rotación, Evaluación, Promoción, Permanencia y Disciplina del sistema del Servicio para los OPLE previstos en el presente Estatuto entrarán en vigor en los términos que establezcan los lineamientos correspondientes que al efecto emita el Instituto.
+
+Décimo.- Los Servidores Públicos que formen parte del servicio de carrera del Instituto serán considerados Miembros del Servicio del sistema para el Instituto y mantendrán el carácter de titulares o provisionales en términos del presente Estatuto, a partir de la entrada en vigor del mismo.
+
+Los nombramientos que hayan sido otorgados a dichos Servidores Públicos antes de la entrada en vigor del presente Estatuto continuarán vigentes hasta que sean expedidos los nuevos nombramientos como Miembros del Servicio del Instituto.
+
+Décimo Primero.- El proceso de incorporación de los Servidores Públicos de los OPLE se realizará de la forma siguiente:
+
+I. El personal de los OPLE que cuente con un servicio profesional en el que hayan operado permanentemente los procesos de ingreso, evaluación, formación y promoción, se podrá incorporar al Servicio a través de una certificación, conforme a las bases que apruebe el Consejo General del Instituto a más tardar el 31 de marzo de 2016.
+
+Los OPLE deberán acreditar que ese personal, ingresó por Concurso Público y ocupa un cargo o puesto, considerados del Servicio en el Catálogo.
+
+II. La incorporación de los Servidores Públicos de los OPLE en los que no hayan operado de manera permanente procesos de ingreso, evaluación, formación y promoción o que no cuenten con un servicio profesional, se llevará a cabo conforme a las bases y disposiciones que establezca el Instituto.
+
+Se realizará un Concurso Público para ocupar las plazas vacantes de cargos o puestos del Servicio en los OPLE, que no se ocuparon con el proceso de incorporación referidos. No se efectuará Concurso Público para aquellos OPLE que estén en proceso electoral local, salvo en los casos que determine el Consejo General.
+
+El Personal de los OPLE que se incorpore al Servicio a través de los mecanismos descritos, recibirá la inducción al cargo o puesto.
+
+Décimo segundo.- Los Lineamientos y Procedimientos en materia de Cambios de Adscripción y Rotación, así como de Ingreso y ocupación de plazas vacantes de cargos o puestos del Servicio se aprobarán conforme a lo siguiente:
+
+I. Para el sistema del Instituto:
+
+a) Los Lineamientos para los Cambios de Adscripción y Rotación de los Miembros del Servicio, del Instituto, deberán ser aprobados dentro de los cuatro meses posteriores a la entrada en vigor del presente Estatuto.
+
+b) Los Lineamientos para el examen de incorporación temporal del cargo de Vocal Ejecutiva (o) de Junta Local Ejecutiva y Junta Distrital Ejecutiva, deberán ser aprobados dentro de los siete meses posteriores a la entrada en vigor del presente Estatuto.
+
+c) Los Lineamientos relativos a la incorporación temporal para cargos y puestos distintos de Vocal Ejecutiva (o), deberán ser aprobados dentro de los ocho meses posteriores a la entrada en vigor del presente Estatuto.
+
+d) Los Lineamientos para la designación de encargados de despacho en cargos y puestos del Servicio del Instituto, deberán ser aprobados dentro de los cinco meses posteriores a la entrada en vigor del presente Estatuto.
+
+e) Los Lineamientos de Cursos y Prácticas deberán ser aprobados dentro de los nueve meses posteriores a la entrada en vigor del presente Estatuto.
+
+f) Los Lineamientos para el reingreso al Servicio, del Instituto deberán ser aprobados dentro de los nueve meses posteriores a la entrada en vigor del presente Estatuto.
+
+II. Para el sistema de los OPLE:
+
+a) Los Lineamientos para los Cambios de Adscripción y Rotación de los Miembros del Servicio de los OPLE deberán ser aprobados dentro de los seis meses posteriores a la entrada en vigor del presente Estatuto.
+
+b) Los Lineamientos para la incorporación temporal de los OPLE deberán ser aprobados dentro de los ocho meses posteriores a la entrada en vigor del presente Estatuto.
+
+c) Los Lineamientos para la designación de encargados de despacho en cargos y puestos del Servicio en los OPLE, deberán ser aprobados dentro de los siete meses posteriores a la entrada en vigor del presente Estatuto.
+
+d) Los Lineamientos para el reingreso al Servicio en los OPLE, deberán ser aprobados dentro de los nueve meses posteriores a la entrada en vigor del presente Estatuto.
+
+Décimo tercero.- Los procedimientos de ocupación de plazas en cargos y puestos del sistema del Servicio para los OPLE, previstos en el presente Estatuto entrarán en vigor en cada uno de ellos, una vez concluidos los trabajos de incorporación derivados de lo establecido en el artículo Sexto Transitorio de la reforma constitucional en materia político-electoral de 2014, en los términos que establezca el Instituto.
+
+Mientras tanto, las plazas de los cargos y puestos de los OPLE podrán ser ocupadas de manera temporal, provisional o eventual por personal que para tales efectos se contrate, de conformidad con las disposiciones específicas, sin que éste pueda adquirir definitividad o permanencia en dichas plazas.
+
+Décimo cuarto.- Los Lineamientos que regularán el mecanismo de Profesionalización en el sistema del Servicio para el Instituto deberán ser aprobados dentro de los tres meses posteriores a la entrada en vigor del presente Estatuto.
+
+Décimo quinto.- Los Lineamientos que regularán el mecanismo de Profesionalización en el sistema del Servicio para los OPLE deberán ser aprobados dentro de los siete meses posteriores a la entrada en vigor del presente Estatuto
+
+Décimo sexto.- Los Lineamientos que regularán el mecanismo de Capacitación en el sistema del Servicio para el Instituto deberán ser aprobados dentro de los seis meses posteriores a la entrada en vigor del presente Estatuto.
+
+Décimo séptimo.- Los Lineamientos que regularán el mecanismo de Capacitación en el sistema del Servicio para los OPLE deberán ser aprobados dentro de los siete meses posteriores a la entrada en vigor del presente Estatuto.
+
+Décimo octavo.- Los Lineamientos que regularán la Disponibilidad en el sistema del Servicio para el Instituto deberán ser aprobados dentro de los seis meses posteriores a la entrada en vigor del presente Estatuto.
+
+Décimo noveno.- Los Lineamientos que regularán la Disponibilidad en el sistema del Servicio para los OPLE deberán ser aprobados dentro de los siete meses posteriores a la entrada en vigor del presente Estatuto.
+
+Vigésimo.- Los Lineamientos que regularán las Actividades Externas en el sistema del Servicio para el Instituto deberán ser aprobados dentro de los seis meses posteriores a la entrada en vigor del presente Estatuto.
+
+Vigésimo primero.- Los Lineamientos que regularán las Actividades Externas en el sistema del Servicio para los OPLE deberán ser aprobados dentro de los siete meses posteriores a la entrada en vigor del presente Estatuto.
+
+Vigésimo segundo.- Los Miembros del Servicio Profesional Electoral del antes denominado Instituto Federal Electoral que hayan cursado Áreas Modulares y Módulos del Programa de Formación y Desarrollo Profesional, accederán al Programa de Formación y Desarrollo Profesional Electoral del Servicio, en los términos que apruebe la Junta, a propuesta de la DESPEN, previa opinión favorable de la Comisión.
+
+Vigésimo tercero.- Los Miembros del Servicio que se hayan incorporado al sistema para los OPLE, accederán al Programa de Formación y Desarrollo Profesional Electoral, en términos de las disposiciones que apruebe la Junta, a propuesta de la DESPEN, previa opinión favorable de la Comisión.
+
+Vigésimo cuarto.- Los Miembros del Servicio Profesional Electoral del otrora Instituto Federal Electoral que hayan obtenido promociones en rango, se incorporarán al modelo de Promociones en Rango del Servicio en los términos que se establezcan en los lineamientos que para tal efecto apruebe la Junta, a propuesta de la DESPEN, previa opinión favorable de la Comisión.
+
+Vigésimo quinto.- Los permisos por actividades externas que fueron otorgados para Miembros del Servicio en el sistema para el Instituto antes de la entrada en vigor del presente Estatuto continuarán vigentes hasta su fecha de término, conforme a las disposiciones vigentes al momento de su otorgamiento.
+
+Vigésimo sexto.- Los Lineamientos de evaluación del desempeño de los Miembros del Servicio para el ejercicio 2016 correspondientes al sistema del Servicio para el Instituto, serán aprobados a más tardar en diciembre de 2015.
+
+Vigésimo séptimo.- Los Lineamientos de evaluación del desempeño de los Miembros del Servicio correspondientes al sistema para los OPLE serán aprobados a más tardar en el mes de diciembre de 2016.
+
+Vigésimo octavo.- Las inconformidades relativas a la evaluación del desempeño presentadas por los Miembros del Servicio del sistema para el Instituto correspondientes a los ejercicios 2014 y 2015, se resolverán conforme a las disposiciones vigentes al momento de la aplicación de la evaluación correspondiente.
+
+Vigésimo noveno.- Los Lineamientos en materia de Titularidad para los Miembros del Servicio en el sistema para el Instituto, serán aprobados dentro de los seis meses posteriores a la entrada en vigor del presente Estatuto.
+
+Trigésimo.- Los Lineamientos en materia de Titularidad para los Miembros del Servicio en el sistema para los OPLE serán aprobados dentro de los siete meses posteriores a la entrada en vigor del presente Estatuto.
+
+Trigésimo primero.- Los Lineamientos en materia de Promoción para los Miembros del Servicio en el sistema para el Instituto, serán aprobados a más tardar en el mes de diciembre de 2016. Las Promociones de los Miembros del Servicio en el sistema del Servicio para el Instituto, correspondientes a los ejercicios 2015 y 2016, se otorgarán de conformidad con los Estatutos publicados en el Diario Oficial de la Federación el 29 de marzo de 1999 y el 15 de enero de 2010, según corresponda. Las promociones correspondientes al ejercicio 2017 y posteriores, se otorgarán de conformidad con el presente Estatuto.
+
+Trigésimo segundo.- Los Lineamientos en materia de Promoción para los Miembros del Servicio en el sistema para los OPLE, serán aprobados a más tardar en el mes de diciembre de 2016.
+
+Trigésimo tercero.- Los Lineamientos para el otorgamiento de incentivos y para el funcionamiento del Comité Valorador de Méritos Administrativos, en el sistema del Servicio para el Instituto serán aprobados dentro de los seis meses posteriores a la entrada en vigor del presente Estatuto.
+
+Trigésimo cuarto.- Los Lineamientos para el otorgamiento de Incentivos para los Miembros del Servicio en el sistema para los OPLE, serán aprobados dentro de los siete meses posteriores a la entrada en vigor del presente Estatuto.
+
+Trigésimo quinto.- Los incentivos para los Miembros del Servicio en el sistema para el Instituto correspondientes al ejercicio 2015, serán otorgados de conformidad con el Estatuto publicado en el Diario Oficial de la Federación el 15 de enero de 2010.
+
+Trigésimo sexto.- Los Lineamientos para la regulación de las asesorías impartidas por los Miembros del Servicio en materia de los mecanismos de Profesionalización y Capacitación en el sistema para el Instituto deberán ser aprobados dentro de los seis meses posteriores a la entrada en vigor del presente Estatuto.
+
+Trigésimo séptimo.- Los Lineamientos para la regulación de las asesorías impartidas por los Miembros del Servicio en materia de los mecanismos de Profesionalización y Capacitación en el sistema para los OPLE, deberán ser aprobados dentro de los siete meses posteriores a la entrada en vigor del presente Estatuto.
+
+Trigésimo octavo.- Los asuntos, recursos, procesos y procedimientos que se encuentren en desarrollo o trámite a la fecha de entrada en vigor del presente Estatuto se concluirán conforme a las disposiciones vigentes al momento de su inicio.
+
+Trigésimo noveno.- Los Lineamientos del Procedimiento Laboral Disciplinario para el personal del Instituto deberán ser aprobados a más tardar en el mes de junio de 2016.
+
+Cuadragésimo.- La sustanciación de las etapas del Procedimientos (sic) Laboral Disciplinarios (sic) que se encuentren en curso legal a la entrada en vigor del presente Estatuto, se desahogarán conforme a las disposiciones del Estatuto publicado en el Diario Oficial de la Federación el 15 de enero de 2010.
+
+Cuadragésimo primero.- Los Lineamientos del Procedimiento Laboral Disciplinario del Servicio en el sistema de OPLE deberán ser aprobados a más tardar en el mes de julio de 2016.
+
+Cuadragésimo segundo.- Se iniciará la supervisión y control del Procedimiento Laboral Disciplinario para el sistema de Servicio en los OPLE, a partir de cuatro meses posteriores a la ministración de los recursos humanos y financieros necesarios a la DESPEN y de acuerdo con lo que apruebe el Consejo General y la Junta, según corresponda.
+
+Cuadragésimo tercero.- Los OPLE deberán designar a las autoridades competentes del Procedimiento Laboral Disciplinario para el sistema de Servicio respectivo, conforme las disposiciones que establezca el Instituto, dentro de los doce meses posteriores a la entrada en vigor del presente Estatuto.
+
+Cuadragésimo cuarto.- Los Lineamientos para la Conciliación de Conflictos entre el personal del Instituto deberán ser aprobados dentro de los doce meses posteriores a la entrada en vigor del presente Estatuto.
+
+Cuadragésimo quinto.- Los Lineamientos para la Conciliación de Conflictos entre el personal de los OPLE deberán ser aprobados dentro de los doce meses posteriores a la entrada en vigor del presente Estatuto.
+
+Cuadragésimo sexto.- Los Lineamientos en materia de inconformidad a la evaluación del desempeño de los Miembros del Servicio en el Instituto serán aprobados dentro de los doce meses posteriores a la entrada en vigor del presente Estatuto.
+
+Cuadragésimo séptimo.- Los Lineamientos en materia de inconformidad a la evaluación del desempeño de los Miembros del Servicio en los OPLE serán aprobados dentro de los doce meses posteriores a la entrada en vigor del presente Estatuto.
+
+Cuadragésimo octavo.- Los Lineamientos para la Designación de Presidentes de Consejos Locales y Distritales del Instituto deberán ser aprobados a más tardar en el mes de junio de 2016.
+
+Cuadragésimo noveno.- La normativa que derive del presente Estatuto y que regule al Personal de la Rama Administrativa, deberá ser elaborada dentro de los doce meses siguientes a la entrada en vigor del mismo, en tanto los mecanismos regulados en ella, continuarán aplicándose.
+
+Quincuagésimo.- Los formatos, instructivos, guías y tutoriales asociados a los procesos actuales y los de la rama administrativa que contempla este Estatuto, serán desarrollados y homologados en la normativa respectiva, dentro de los doce meses siguientes a su entrada en vigor.
+
+Quincuagésimo primero.- El Programa de mejora administrativa se implementará de forma paulatina, conforme a la disponibilidad presupuestal, como una estrategia para llevar a cabo la transición de los prestadores de servicios contratados bajo el régimen de honorarios a plaza presupuestal.
+
+Quincuagésimo segundo.- La DEA realizará las acciones necesarias para la implementación de la modernización administrativa en el Instituto misma que deberá estar relacionada con los procesos de administración de personal de la rama administrativa y en lo que corresponda a la mejora de procesos, atendiendo en todo momento a la disponibilidad presupuestal.
+
+Quincuagésimo tercero.- Una vez que el Congreso de la Unión expida las leyes generales derivadas de la reforma constitucional en materia de combate a la corrupción publicada en el Diario Oficial de la Federación el 27 de mayo de 2015, el Órgano Interno de Control del Instituto realizará las modificaciones conducentes a su normativa.
+
+Quincuagésimo cuarto.- En tanto el Congreso de la Unión no expida las leyes generales derivadas de la reforma constitucional en materia de combate a la corrupción, se seguirá aplicando la normativa vigente emitida por el Órgano Interno de Control del Instituto, al igual que en aquellos procedimientos de responsabilidades administrativas iniciados previo a la vigencia de dichas leyes generales.
+
+Quincuagésimo quinto.- La normativa en materia de uso de firma electrónica o firma electrónica avanzada para efectos del Servicio deberá ser aprobada dentro de los doce meses posteriores a la entrada en vigor del presente Estatuto.
