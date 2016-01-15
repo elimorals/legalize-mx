@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-contraloria-municipal-de-24655"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-04-26"
-last_updated: "2010-03-29"
+last_updated: "2016-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24655&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DE LA CONTRALORIA MUNICIPAL DE MONTERREY, NUEVO LEON -- ANTES REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA MUNICIPAL DE LA CIUDAD DE MONTERREY, NUEVO LEON --
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORIA MUNICIPAL DE LA CIUDAD DE MONTERREY, NUEVO LEON
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA CONTRALORÍA MUNICIPAL DE LA CIUDAD DE MONTERREY, NUEVO LEÓN
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 29 DE MARZO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 26 de abril de 2002.
 
@@ -41,7 +41,7 @@ REGLAMENTO INTERIOR DE LA SECRETARIA DE LA CONTRALORÍA MUNICIPAL DE LA CIUDAD D
 
 DE LA COMPETENCIA Y ORGANIZACIÓN DE LA SECRETARÍA DE LA CONTRALORÍA MUNICIPAL DE LA CIUDAD DE MONTERREY, NUEVO LEÓN.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 29 DE MARZO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE MARZO DE 2010)</small>
 
 ###### ARTÍCULO 1.
 
@@ -133,9 +133,9 @@ VIII. Actualizar y validar los Manuales de Organización, Procedimientos y demá
 
 IX. Resolver las Inconformidades y Recursos Administrativos que le competan.
 
-> <small>(REFORMADA, P.O. 1 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2016)</small>
 
-X. Informar al Presidente Municipal y a la Comisión de Hacienda del R. Ayuntamiento sobre los resultados de las revisiones de las dependencias del Municipio que hayan sido objeto de fiscalización.
+X. Informar al Presidente Municipal y a la Comisión de Hacienda y Patrimonio Municipales sobre los resultados de las revisiones de las dependencias del Municipio que hayan sido objeto de fiscalización.
 
 XI. El Secretario para la mejor distribución y desarrollo del trabajo, podrá delegar facultades a servidores públicos subalternos sin perjuicio de su ejercicio directo, a cuyo efecto expedirá los acuerdos correspondientes que deberán ser publicados en la Gaceta Municipal y en el Periódico Oficial del Estado.
 
@@ -251,7 +251,7 @@ XIV. Las demás que le confieran las disposiciones legales aplicables y el Secre
 
 Para el despacho de los asuntos de su competencia, el Director de Auditoría contará con un Coordinador de Auditoría de Obra Pública, un Coordinador de Control Interno, un Coordinador de Auditoría, y un Coordinador de Vigilancia Preventiva, así como el personal contable, técnico y administrativo necesario para la eficaz atención y desempeño de sus funciones.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 1 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 1 DE AGOSTO DE 2007)</small>
 
 DE LA DIRECCIÓN DE NORMATIVIDAD
 
@@ -311,7 +311,7 @@ XXIII. Diseñar y aplicar programas y acciones de fomento a la ética en el serv
 
 Para el despacho de los asuntos de su competencia, el Director de Normatividad contará con un Coordinador de Responsabilidades, un Coordinador de Responsabilidades de Policía y Tránsito, así como el personal técnico, jurídico y administrativo necesario para la eficaz atención y desempeño de sus funciones.
 
-Transitorio (sic)
+## Transitorio
 
 Primero. La Secretaría del R. Ayuntamiento deberá de turnar para su publicación el presente acuerdo, tanto a la Gaceta Municipal como al Periódico Oficial del Estado. De conformidad con lo establecido en el Artículo 27 Fracción IV y 167 de la Ley Orgánica de la Administración Pública Municipal, y 76 Fracción VI del Reglamento Interior del R. Ayuntamiento de la Ciudad de Monterrey.
 
@@ -319,7 +319,7 @@ Segundo. El presente reglamento entrará en vigor al día siguiente de su public
 
 Dado en la Sala de Sesiones del R. Ayuntamiento, de Monterrey, a los (diecisiete) 17 días del mes de abril del año (dos mil dos) 2002.-
 
-Así lo acuerdan y firman los integrantes de la Comisión de Gobernación y Reglamentación. C. Síndico Segundo Luis Ignacio Pozo Rocha, Presidente; C. Regidor Ramiro Carrillo Nuño, Secretario; C. Regidor, Jaime Raudel Soto García, Vocal; C. Regidor Héctor Macías Cuellar, Vocal; C. Regidor Graciano Bortoni Urteaga, Vocal. y (sic) los Integrantes de la Comisión de Modernización Administrativa. C. Regidora María del Carmen Peña Dorado, Presidenta; C. Regidor Carlos Antonio Andrade Ibarra, Secretario; C. Regidor, Octavio Chávez Treviño, Vocal; C. Regidor José Luis Cantú, Vocal; C. Regidora María de la Luz Estrada García, Vocal.- (Rúbricas).-
+Así lo acuerdan y firman los integrantes de la Comisión de Gobernación y Reglamentación. C. Síndico Segundo Luis Ignacio Pozo Rocha, Presidente; C. Regidor Ramiro Carrillo Nuño, Secretario; C. Regidor, Jaime Raudel Soto García, Vocal; C. Regidor Héctor Macías Cuellar, Vocal; C. Regidor Graciano Bortoni Urteaga, Vocal. y los Integrantes de la Comisión de Modernización Administrativa. C. Regidora María del Carmen Peña Dorado, Presidenta; C. Regidor Carlos Antonio Andrade Ibarra, Secretario; C. Regidor, Octavio Chávez Treviño, Vocal; C. Regidor José Luis Cantú, Vocal; C. Regidora María de la Luz Estrada García, Vocal.- (Rúbricas).-
 
 EL C. PRESIDENTE MUNICIPAL
 
@@ -329,7 +329,7 @@ EL C. SECRETARIO DEL R. AYUNTAMIENTO
 
 C. P. ROBERTO RAMÍREZ VILLARREAL
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 1 DE AGOSTO DE 2007.
 
@@ -342,3 +342,11 @@ PRIMERO.- Las reformas por adición y modificación al REGLAMENTO INTERIOR DE LA
 SEGUNDO.- Publíquese el siguiente acuerdo en el Periódico Oficial del Estado de Nuevo León, a partir de su aprobación por este R. Ayuntamiento.
 
 TERCERO.- Girense las instrucciones al Presidente Municipal y al Secretario del R. Ayuntamiento para el exacto cumplimiento del presente acuerdo.
+
+P.O. 15 DE ENERO DE 2016.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS SEGUNDO Y TERCERO DEL "ACUERDO DE LA SESIÓN ORDINARIA DE FECHA 12 DE ENERO DE 2016. SE APRUEBA LA MODIFICACIÓN DE DIVERSOS REGLAMENTOS MUNICIPALES".]</small>
+
+SEGUNDO. Se aprueba que las presentes reformas entren en vigor a partir de su publicación en el Periódico Oficial del Estado, por lo que deberá agregarse en cada ordenamiento un artículo transitorio único que así lo señale.
+
+TERCERO. Publíquese el Acuerdo Primero en el Periódico Oficial del Estado. Difúndanse los presentes Acuerdos en la Gaceta Municipal y en el portal de internet: www.mty.gob.mx.
