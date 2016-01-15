@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-organico-del-gobierno-municipal-de-monterrey-71253"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-30"
-last_updated: "2014-09-05"
+last_updated: "2016-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71253&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO ORGÁNICO DEL GOBIERNO MUNICIPAL DE MONTERREY, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 30 de noviembre de 2009.
 
@@ -837,7 +837,7 @@ II.- En materia de Educación:
 
 A) Diseñar acciones y programas que tengan como objetivo coadyuvar con las autoridades educativas y los padres de familia en la mejora y mantenimiento de los edificios e instalaciones escolares;
 
-B) Fomentar y gestionar ante las autoridades educativas públicas y privadas, el acceso a becas de estudio a los habitantes que deseen iniciar y/o terminar su preparación educativa escolarizada, a si mismo llevar a cabo por sí o por otras instituciones públicas o privadas, cursos y talleres de capacitación en oficios, propedéuticos y demás que contribuyan a la superación educativa personal;
+B) Fomentar y gestionar ante las autoridades educativas públicas y privadas, el acceso a becas de estudio a los habitantes que deseen iniciar y/o terminar su preparación educativa escolarizada, asi mismo llevar a cabo por sí o por otras instituciones públicas o privadas, cursos y talleres de capacitación en oficios, propedéuticos y demás que contribuyan a la superación educativa personal;
 
 C) Auxiliar a las autoridades educativas, con apoyo de los habitantes, en la detección del rezago escolar y en la alfabetización de los adultos;
 
@@ -1253,13 +1253,13 @@ K) Supervisar la adquisición y enajenación de bienes muebles e inmuebles y la 
 
 L) Ejercer funciones de supervisión para mantener actualizado el inventario general de los bienes muebles e inmuebles que constituyan el patrimonio del Municipio;
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2016)</small>
 
-M) Informar a la Comisión de Hacienda del Ayuntamiento, por lo menos cada tres meses, sobre los programas de auditoría proyectados;
+M) Informar a la Comisión de Hacienda y Patrimonio Municipales, por lo menos cada tres meses, sobre los programas de auditoría proyectados;
 
-> <small>(REFORMADO, P.O. 18 DE MARZO DE 2011)</small>
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2016)</small>
 
-N) Informar al Presidente Municipal y a la Comisión de Hacienda del Ayuntamiento, por lo menos cada tres meses: sobre el resultado de las auditorias y las acciones que, en su caso, se hayan tomado relativas a las faltas administrativas y/o ilícitas que se desprendan.
+N) Informar al Presidente Municipal y a la Comisión de Hacienda y Patrimonio Municipales, por lo menos cada tres meses, sobre el resultado de las auditorías y las acciones que, en su caso, se hayan tomado relativas a las faltas administrativas y/o ilícitas que se desprendan.
 
 II.- De Gobierno:
 
@@ -1467,7 +1467,7 @@ F) Coordinar proyectos viales con autoridades federales, estatales y municipales
 
 G) Supervisar la ejecución de proyectos de obras públicas y servicios públicos en adecuaciones viales e instalación de señalamiento horizontal y vertical;
 
-H) Realizar estudios de Ingeniería Vial para justificar la instalación de dispositivos para el control de tránsito vehicular; y (sic)
+H) Realizar estudios de Ingeniería Vial para justificar la instalación de dispositivos para el control de tránsito vehicular; y
 
 I) Revisar y autorizar cambios de sentido de circulación de las calles;
 
@@ -1615,7 +1615,7 @@ A) Diseñar las políticas públicas enfocadas a atender las necesidades de la c
 
 B. Realizar diversos análisis y estudios de mercado para evaluar la eficacia y eficiencia del Gobierno Municipal y plantear acciones de mejora;
 
-C) Gestionar proyectos municipales para la obtención fondos (sic) federales;
+C) Gestionar proyectos municipales para la obtención (sic) fondos federales;
 
 D) Integrar a organismos con diversas especialidades para mejorar la eficiencia del Gobierno Municipal;
 
@@ -1801,7 +1801,9 @@ El Ayuntamiento designará un Comisario para cada uno de los organismos descentr
 
 El presente ordenamiento podrá ser modificado o actualizado en la medida en que se modifiquen las condiciones socioeconómicas del Municipio, en virtud de su crecimiento demográfico, surgimiento y desarrollo de actividades productivas, modificación de las condiciones políticas y múltiples aspectos de la vida comunitaria.
 
-Para la revisión y consulta del presente Reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación y Reglamentación, quien recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía. El promovente deberá argumentar en el escrito de referencia las razones que sustentan sus opiniones y observaciones con respecto al Reglamento Municipal.
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2016)</small>
+
+Para la revisión y consulta del presente Reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación, Reglamentación y Mejora Regulatoria, quien recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía. El promovente deberá argumentar en el escrito de referencia las razones que sustentan sus opiniones y observaciones con respecto al Reglamento Municipal.
 
 > <small>(REFORMADO, P.O. 18 DE MARZO DE 2011)</small>
 
@@ -1900,3 +1902,11 @@ Se deroga cualquier disposición que contravenga lo dispuesto en las presentes R
 P.O. 5 DE SEPTIEMBRE DE 2014.
 
 ÚNICO. Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 15 DE ENERO DE 2016.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS SEGUNDO Y TERCERO DEL “ACUERDO DE LA SESIÓN ORDINARIA DE FECHA 12 DE ENERO DE 2016. SE APRUEBA LA MODIFICACIÓN DE DIVERSOS REGLAMENTOS MUNICIPALES”.]</small>
+
+SEGUNDO. Se aprueba que las presentes reformas entren en vigor a partir de su publicación en el Periódico Oficial del Estado, por lo que deberá agregarse en cada ordenamiento un artículo transitorio único que así lo señale.
+
+TERCERO. Publíquese el Acuerdo Primero en el Periódico Oficial del Estado. Difúndanse los presentes Acuerdos en la Gaceta Municipal y en el portal de internet: www.mty.gob.mx.
