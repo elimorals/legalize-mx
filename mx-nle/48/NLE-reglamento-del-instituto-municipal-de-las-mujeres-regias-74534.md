@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-instituto-municipal-de-las-mujeres-regias-74534"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-03-01"
-last_updated: "2010-09-20"
+last_updated: "2016-01-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74534&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "NLE"
 ---
 # REGLAMENTO DEL INSTITUTO MUNICIPAL DE LAS MUJERES REGIAS
 
-REGLAMENTO DEL INSTITUTO MUNICIPAL DE LAS MUJERES REGIAS
+REGLAMENTO DEL INSTITUTO MUNICIPAL DE LAS MUJERES REGIAS DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE SEPTIEMBRE DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 1 de marzo de 2010.
 
@@ -249,7 +249,9 @@ Las Consejeras durarán en su cargo un período de tres años, el cual deberá c
 
 Las Consejeras permanecerán en su cargo hasta que el Ayuntamiento realice nuevo nombramiento.
 
-IV. Siete vocales que serán las o los titulares de las dependencias o unidades administrativas que se enuncian o que ocupen los siguientes cargos en el Gobierno Municipal: La Presidencia de la Comisión de Organismos desconcentrados y descentralizados del R. Ayuntamiento, la Presidencia del Desarrollo Integral de la Familia (DIF) Municipal, la Secretaría de Desarrollo Humano y Social, la Secretaria de Fomento Económico, la Dirección General del Desarrollo Integral de la Familia (DIF) Municipal, la Dirección de Salud Pública y la Secretaría de Planeación y Comunicación. Las y los Vocales durarán en funciones por el período del desempeño de su cargo.
+> <small>(REFORMADA, P.O. 15 DE ENERO DE 2016)</small>
+
+IV. Siete vocales que serán las o los titulares de las dependencias o unidades administrativas que se enuncian o que ocupen los siguientes cargos en el Gobierno Municipal: La Coordinación de la Comisión de Gobernación, Reglamentación y Mejora Regulatoria, la Presidencia del Desarrollo Integral de la Familia (DIF) Municipal, la Secretaría de Desarrollo Humano y Social, la Secretaría de Fomento Económico, la Dirección General del Desarrollo Integral de la Familia (DIF) Municipal, la Dirección de Salud Pública y la Secretaría de Planeación y Comunicación. Las y los Vocales durarán en funciones por el período del desempeño de su cargo.
 
 ###### ARTÍCULO 15.
 
@@ -502,3 +504,11 @@ P.O. 20 DE SEPTIEMBRE DE 2010.
 Artículo Primero. La presente reforma al REGLAMENTO DEL INSTITUTO MUNICIPAL DE LAS MUJERES REGIAS, entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Artículo Segundo. Se deroga cualquier disposición que contravenga lo dispuesto en la presente reforma.
+
+P.O. 15 DE ENERO DE 2016.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS SEGUNDO Y TERCERO DEL “ACUERDO DE LA SESIÓN ORDINARIA DE FECHA 12 DE ENERO DE 2016. SE APRUEBA LA MODIFICACIÓN DE DIVERSOS REGLAMENTOS MUNICIPALES”.]</small>
+
+SEGUNDO. Se aprueba que las presentes reformas entren en vigor a partir de su publicación en el Periódico Oficial del Estado, por lo que deberá agregarse en cada ordenamiento un artículo transitorio único que así lo señale.
+
+TERCERO. Publíquese el Acuerdo Primero en el Periódico Oficial del Estado. Difúndanse los presentes Acuerdos en la Gaceta Municipal y en el portal de internet: www.mty.gob.mx.
