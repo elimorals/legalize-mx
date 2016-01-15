@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-turismo-del-municipio-de-monterrey-64109"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-08-29"
-last_updated: "2008-08-29"
+last_updated: "2016-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=64109&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE TURISMO DEL MUNICIPIO DE MONTERREY
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 29 de agosto del 2008.
 
@@ -91,9 +91,11 @@ VII.- El Consejo: El Consejo Consultivo Ciudadano de Turismo de la Cuidad de
 
 Monterrey.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2016)</small>
+
 ###### Artículo 4.
 
-El Tesorero Municipal de la Ciudad de Monterrey, propondrá a la Comisión de Hacienda del R. Ayuntamiento dentro del presupuesto de egresos de cada año, el monto necesario a fin de que la Secretaría de Desarrollo Económico y Social pueda llevar a cabo las funciones que le ordenan los diversos reglamentos municipales.
+El Tesorero Municipal de la Ciudad de Monterrey, propondrá a la Comisión de Hacienda y Patrimonio Municipales dentro del presupuesto de egresos de cada año, el monto necesario a fin de que la Secretaría de Desarrollo Económico pueda llevar a cabo las funciones que le ordenan los diversos reglamentos municipales.
 
 ### CAPÍTULO II
 
@@ -191,13 +193,15 @@ El incumplimiento de las disposiciones contenidas en el presente reglamento ser�
 
 DEL PROCEDIMIENTO DE REVISIÓN Y CONSULTA.
 
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2016)</small>
+
 ###### Artículo 14.
 
 Contra cualquier acto de la Autoridad Municipal que viole el presente reglamento, procederá el recurso de inconformidad, de acuerdo a lo establecido en el Reglamento que Regula el Procedimiento Único del Recurso de Inconformidad del Municipio de Monterrey.
 
 ###### Artículo 15.
 
-Para la revisión y consulta del presente Reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación y Reglamentación, quien recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía y en la cual se incluyan los razonamientos que sean el sustento de las opiniones y observaciones correspondientes.
+Para la revisión y consulta del presente Reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación, Reglamentación y Mejora Regulatoria, quien recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía y en la cual se incluyan los razonamientos que sean el sustento de las opiniones y observaciones correspondientes.
 
 ###### Artículo 16.
 
@@ -224,3 +228,13 @@ LIC. ADALBERTO ARTURO MADERO QUIROGA
 C. SECRETARIO DEL R. AYUNTAMIENTO
 
 DR. ARTURO CAVAZOS LEAL
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 15 DE ENERO DE 2016.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS SEGUNDO Y TERCERO DEL “ACUERDO DE LA SESIÓN ORDINARIA DE FECHA 12 DE ENERO DE 2016. SE APRUEBA LA MODIFICACIÓN DE DIVERSOS REGLAMENTOS MUNICIPALES”.]</small>
+
+SEGUNDO. Se aprueba que las presentes reformas entren en vigor a partir de su publicación en el Periódico Oficial del Estado, por lo que deberá agregarse en cada ordenamiento un artículo transitorio único que así lo señale.
+
+TERCERO. Publíquese el Acuerdo Primero en el Periódico Oficial del Estado. Difúndanse los presentes Acuerdos en la Gaceta Municipal y en el portal de internet: www.mty.gob.mx.
