@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2015-12-23"
+last_updated: "2016-01-15"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 23 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE ENERO DE 2016.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -438,21 +438,35 @@ G) Unidad de Inteligencia Financiera del Distrito Federal.
 
 1.4. Subdirección del Recinto Fiscal.
 
-IX. A la Secretaría de Transportes y Vialidad:
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
 
-1. Dirección General de Transporte;
+IX. A la Secretaría de Movilidad:
 
-2. Dirección General de Planeación y Vialidad; y
+A) La Subsecretaría de Planeación.
 
-3. Dirección General de Regulación al Transporte.
+1.- Dirección General de Planeación y Evaluación.
 
-(ADICIONADO, G.O. 21 DE MAYO DE 2002) (F. DE E., G.O. 11 DE JULIO DE 2002)
+2.- Dirección General de Registro Público de Transporte.
 
-4. Dirección General de Servicio de Transporte Público Individual de Pasajeros en el Distrito Federal; y
+B) La Subsecretaria de Desarrollo de Movilidad.
 
-> <small>(ADICIONADO, G.O. 21 DE MAYO DE 2002)</small>
+1. Dirección General de Investigación y Desarrollo de Movilidad.
 
-5. Dirección Jurídica de la Secretaría de Transportes y Vialidad.
+2. Dirección General de Inteligencia y Cultura de Movilidad.
+
+C) La Subsecretaría del Transporte.
+
+1.- Dirección General de Transporte Particular.
+
+2.- Dirección General de Transporte de Ruta y Especializado.
+
+3.- Dirección General del Servicio de Transporte Público Individual.
+
+D) Dirección General Jurídica y de Regulación.
+
+E) Dirección Ejecutiva de Sistemas de Información y Comunicación.
+
+Asimismo, se le adscribe el Órgano Desconcentrado denominado Órgano Regulador del Transporte.
 
 X. La Secretaría de Seguridad Pública, se ubica en el ámbito Orgánico del Gobierno del Distrito Federal, y su estructura y funcionamiento se rige por las disposiciones jurídicas y administrativas correspondientes.
 
@@ -2013,6 +2027,68 @@ XI. Rendir cuentas, conjuntamente con la Tesorería del Distrito Federal, de las
 > <small>(ADICIONADA, G.O. 15 DE OCTUBRE DE 2008)</small>
 
 XII. Suscribir conjuntamente con el Secretario de Finanzas, los contratos y títulos de crédito, relativos al financiamiento del Distrito Federal.
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2016)</small>
+
+Artículo 34 Bis A.- A la Subsecretaría de Planeación le corresponden las siguientes atribuciones:
+
+I. Acordar con el Secretario de Movilidad el despacho de los asuntos relacionados con la Planeación Sectorial y de la Secretaría, y con la programación y la evaluación correspondiente, así como en materia de Registro Público del Transporte;
+
+II. Promover el desarrollo de los programas sectoriales e institucional relacionados con la movilidad, la seguridad vial y la regulación del transporte;
+
+III. Apoyar al Secretario de Movilidad en la coordinación con gobiernos estatales y municipales de la megalópolis y la metrópolis, así como en la interlocución de órganos auxiliares y su gestión;
+
+IV. Proponer los mecanismos de coordinación interinstitucional, que contribuyan a la movilidad en la Ciudad de México, la Zona Metropolitana y la Megalópolis;
+
+V. Definir indicadores y metas y su incorporación a tableros de control para el seguimiento y control de los programas sectoriales y de la Secretaría;
+
+VI. Coordinar la integración e integralidad de la documentación que debe incorporarse y mantenerse en el Registro Público del Transporte;
+
+VII. Establecer las políticas en materia del Registro Público del Transporte que consideren lo señalado en las (sic) Ley de Movilidad del Distrito Federal;
+
+VIII. Establecer los convenios de coordinación para el intercambio de información con dependencias, entidades y organizaciones que deba integrarse al Registro Público del Transporte o que requieran de la misma;
+
+IX. Coordinar el diseño, integración y operación del sistema de estadística sectorial de la movilidad; y
+
+X. Coordinar la elaboración del informe de gobierno y las comparecencias del C. Secretario ante los órganos legislativos y de vigilancia de la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2016)</small>
+
+Artículo 34 Bis B.- A la Subsecretaría de Desarrollo de Movilidad le corresponden las siguientes atribuciones:
+
+I. Acordar con el Secretario de Movilidad el despacho de los asuntos relacionados con la realización de estudios y proyectos de apoyo a la movilidad, así como las acciones para generar una cultura de movilidad y para establecer un flujo de personas y vehículos satisfactorio para los habitantes de la Ciudad de México;
+
+II. Promover el establecimiento de convenios con instituciones de investigación y educación superior, y con organizaciones de la sociedad civil para el desarrollo de estudios y proyectos que coadyuven al desarrollo de la movilidad, su monitoreo y al fortalecimiento de una cultura de la movilidad, así como la incorporación de innovaciones y tecnología relacionadas con la materia;
+
+III. Coordinar el diseño de mecanismos de seguimiento a los proyectos que se deriven de las investigaciones y estudios relacionados en materia de movilidad;
+
+IV. Coordinar la investigación sobre las “mejores prácticas” y tecnologías e internacionales nacionales en materia de movilidad y su adaptación a la Ciudad de México;
+
+V. Establecer el modelo de movilidad de la Ciudad de México con base en la jerarquía y principios previsto en la Ley correspondiente;
+
+VI. Mantener coordinación con la Secretaría de Seguridad Pública y con las áreas de protección civil central y delegacionales para efectos de monitoreo y control, y su resiliencia ante los efectos de siniestros;
+
+VII. Reportes del estado de movilidad en la Ciudad de México y su divulgación; y
+
+VIII. Coordinar con las áreas de comunicación institucionales y de comunicación masiva para emitir los reportes periódicos y emergentes sobre el estado de la movilidad en la Ciudad de México.
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2016)</small>
+
+Artículo 34 Bis C.- A la Subsecretaría de Transporte le corresponden las siguientes atribuciones:
+
+I. Acordar con el Secretario de Movilidad el despacho de los asuntos relacionados con el transporte de pasajeros y carga en sus diferentes modalidades en la Ciudad de México;
+
+II. Coordinar la realización de los trámites de control vehicular y autorizaciones que se gestionan en los Centros de Servicios Autorizados por la Secretaría;
+
+III. Ejercer, previo acuerdo con el C. Secretario la concertación con transportistas, organizaciones de taxistas, coordinadores de plataformas electrónicas y empresas particulares para mejorar la movilidad en la Ciudad de México;
+
+IV. Coordinar la emisión de normas para regular el otorgamiento de autorizaciones, permisos, concesiones y licencias para el transporte de pasajeros y carga en el Distrito Federal;
+
+V. Coordinar el diseño y mejora continua de modelos de atención ciudadana para los trámites de control vehicular y la autorización para conducir vehículos en las diferentes modalidades del transporte de pasajeros y carga en la Ciudad de México;
+
+VI. Vigilar en coordinación con el Órgano Regulador del Transporte el cumplimiento de la normatividad, especificaciones y principios de la Ley por los concesionarios y permisionarios del servicio de transporte de pasajeros público; y
+
+VII. Vigilar que concesionarios y permisionarios realicen puntualmente las aportaciones al fondo de movilidad y seguridad vial.
 
 > <small>(ADICIONADO, G.O. 29 DE JUNIO DE 2007)</small>
 
@@ -6074,177 +6150,399 @@ IX. Realizar el reporte de las asignaciones al Distrito Federal de mercancías y
 
 DE LA SECRETARIA DE TRANSPORTES Y VIALIDAD.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE ENERO DE 2016)</small>
+
 ###### Artículo 93.
 
-Corresponde a la Dirección General de Transporte:
+Corresponde a la Dirección General de Planeación y Evaluación:
 
-I. Fomentar, impulsar, estimular, ordenar y regular el desarrollo del transporte público de pasajeros, privado y de carga, así como la infraestructura y equipamiento auxiliar del transporte en el Distrito Federal;
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
 
-II. Tramitar la expedición de las concesiones, permisos, licencias y autorizaciones relacionadas con la prestación del servicio público de transporte de pasajeros, privado y de carga previstas en la Ley del Transporte del Distrito Federal y las demás disposiciones jurídicas y administrativas aplicables, con estricta sujeción a las disposiciones, procedimientos y políticas establecidas por la Administración Pública;
+I. Coordinar la formulación y evaluación de políticas y programas que en materia de movilidad, lleve a cabo el Sector;
 
-III. Dictaminar y autorizar los proyectos para la prestación del servicio público de transporte, con base en los lineamientos que fije la normatividad correspondiente;
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
 
-IV. Programar, orientar, organizar y en su caso modificar la prestación del servicio público de transporte de pasajeros, privado y de carga, conforme a lo previsto en la Ley de Transporte del Distrito Federal y demás disposiciones jurídicas y administrativas aplicables;
+II. Integrar y mantener actualizados el Programa Integral de Movilidad del Distrito Federal, el Programa Integral de Seguridad Vial y el Programa Metropolitano de Vialidad, con el concurso de los órganos colegiados auxiliares de consulta y áreas de la Secretaría; y colaborar con otros sectores del Gobierno del Distrito Federal, en la integración de sus programas; atender y dar seguimiento a los Acuerdos de los citados órganos colegiados auxiliares de consulta, en forma coordinada con las áreas responsables de la Secretaría;
 
-V. Redistribuir, modificar y adecuar los itinerarios, recorridos y rutas locales y de penetración urbana y suburbana, sitios, bases de servicio, del transporte público de pasajeros, privado y de carga en congruencia con las políticas, programas y normas establecidas en la materia;
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
 
-VI. Dictar y ejecutar los acuerdos necesarios para la conservación, mantenimiento, renovación y cumplimiento de las especificaciones técnicas del parque vehicular destinado a la prestación del servicio público de transporte de pasajeros, privado y de carga, implementando las medidas adecuadas para mantener en buen estado la infraestructura utilizada para tal fin;
+III. Estudiar y analizar la política integral de estacionamientos en forma coordinada con las Delegaciones del Distrito Federal, para determinar su ubicación, construcción y funcionamiento; llevar un padrón de registro de los estacionamientos;
 
-VII. Actualizar permanentemente el Registro Público del Transporte, en lo que se refiere a la prestación del servicio público de transporte de pasajeros, privado y de carga;
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
 
-> <small>(REFORMADA, G.O. 11 DE JULIO DE 2002)</small>
+IV. Crear y desarrollar un sistema de información integral del Sector con el apoyo de las diversas áreas de la Secretaría; integrar una base de datos que contenga información estadística y de gestión que de soporte a la toma de decisiones;
 
-VIII. Realizar los estudios técnicos que justifiquen la necesidad de incrementar concesiones para la prestación de los servicios públicos de transportación de sistemas de peaje multimodal;
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
 
-> <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
+V. Practicar estudios y proyectos, directamente o por conducto de terceros, que permitan, con las áreas competentes de la Secretaría, adoptar medidas correctivas y de seguimiento en materia de movilidad, transporte y vialidad, escuchando la opinión de las instituciones de educación superior y/o de investigación; así como preparar y actualizar en su caso, el Manual de Diseño Vial del Distrito Federal;
 
-IX. Recibir, registrar y analizar las solicitudes de los interesados que estén involucrados en conflictos de titularidad respecto de las concesiones de transporte público colectivo de pasajeros y de carga y turnarlos para su tramitación a la Dirección Jurídica;
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
 
-X. Establecer la coordinación con las autoridades correspondientes, para determinar los cursos y programas de capacitación para concesionarios, permisionarios y operadores del servicio público de transporte de pasajeros, privado y de carga;
+VI. Establecer políticas y medidas en materia del servicio público de transporte de pasajeros y de carga, e implementarlas en forma coordinada con las áreas responsables;
 
-XI. Impulsar el desarrollo del transporte escolar, de personal, y de turismo y todos aquellos sistemas de transporte que eviten la saturación de las vialidades y protejan el medio ambiente;
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
 
-XII. Realizar todas aquellas acciones tendientes a que los servicios públicos de transporte de pasajeros, privado y de carga, además de llevarse a cabo con eficiencia y eficacia, garanticen la seguridad de los usuarios y peatones y los derechos de los permisionarios y concesionarios; y
+VII. Atender todos los asuntos referentes a los sistemas de peaje multimodal del Distrito Federal y coordinarse con las áreas de la Secretaría y con las Entidades Federativas correspondientes;
 
-XIII. Adoptar las medidas que tiendan a optimizar y satisfacer el transporte de pasajeros, privado y de carga y en su caso, coordinarse con las Dependencias y Entidades para este propósito;
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
 
-> <small>(REFORMADA, G.O. 17 DE ABRIL DE 2009)</small>
+VIII. Participar en las acciones coordinadas con las áreas de la Secretaría del Medio Ambiente; para promover, impulsar, y fomentar el uso de vehículos limpios, no motorizados y/o eficientes sistemas con tecnologías sustentables, así como el uso de otros medios de transporte amigables con el medio ambiente, utilizando los avances científicos y tecnológicos;
 
-XIV. Determinar los criterios para la actualización de las tarifas del servicio público de transporte;
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
 
-> <small>(REFORMADA, G.O. 17 DE ABRIL DE 2009)</small>
+IX. En coordinación con la Dirección General de Inteligencia y Cultura de Movilidad y áreas competentes de la Secretaría, promover en las actuales vialidades y en los nuevos desarrollos urbanos, la construcción de vías peatonales, accesibles a personas con capacidades diferentes, y vías ciclistas, conforme a los estudios que al efecto se realicen, a fin de fomentar entre la población la utilización del transporte no motorizado; y
 
-XV. Regular, autorizar e inspeccionar la publicidad en el servicio de transporte, así como imponer las sanciones en caso de incumplimiento, de conformidad con las disposiciones jurídicas y administrativas correspondientes; y
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
 
-> <small>(ADICIONADA, G.O. 17 DE ABRIL DE 2009)</small>
+X. Analizar y dar seguimiento, directamente o por conducto de terceros, a todos los programas y proyectos en materia de movilidad, a través de indicadores del Sistema de Información y Seguimiento de movilidad, del Anuario de Movilidad, de Auditoria de Movilidad, del Banco de Proyectos de Infraestructura para la movilidad, la Encuesta y la Consulta Ciudadana; y turnar los resultados a las áreas competentes de la Secretaría para adoptar las medidas correctivas.
 
-XVI. Establecer y administrar depósitos de vehículos que deban remitirse y custodiarse con motivo de infracciones a la Ley de Transportes y Vialidad del Distrito Federal y sus reglamentos.
+XI. (DEROGADA, G.O. 15 DE ENERO DE 2016)
+
+XII. (DEROGADA, G.O. 15 DE ENERO DE 2016)
+
+XIII. (DEROGADA, G.O. 15 DE ENERO DE 2016)
+
+XIV. (DEROGADA, G.O. 15 DE ENERO DE 2016)
+
+XV. (DEROGADA, G.O. 15 DE ENERO DE 2016)
+
+XVI. (DEROGADA, G.O. 15 DE ENERO DE 2016)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE ENERO DE 2016)</small>
 
 ###### Artículo 94.
 
-Corresponde a la Dirección General de Planeación y Vialidad:
+Corresponde a la Dirección General de Registro Público de Transporte:
 
-> <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
 
-I. Formular y evaluar las políticas y programas para el desarrollo del transporte y la vialidad de conformidad con los estudios y proyectos que en materia de reordenamiento, fomento y promoción lleve a cabo el sector;
+I. Dirigir las acciones para que el Registro Público de Transporte, sea Integral, en cuanto que contendrá, los registros señalados en La Ley de Movilidad del Distrito Federal y su Reglamento, se mantenga íntegro por que la Secretaría de Movilidad del Distrito Federal, garantizará su validez, mediante medidas de seguridad que permitan verificar quien lo consulta, maneja, modifica y actualiza; sea público y esté disponible para su consulta por personas que lo requieran o soliciten copias certificadas de su contenido, previo pago de Derechos;
 
-II. Elaborar y mantener actualizado el Programa Integral de Transporte y Vialidad del Distrito Federal, así como el programa regulador correspondiente;
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
 
-III. Realizar los estudios y proyectos estratégicos del transporte y la vialidad del Distrito Federal en congruencia con las políticas de desarrollo urbano;
+II. Establecer, desarrollar, impulsar y mantener actualizado el Registro Público de Transporte en el Distrito Federal, en todos sus registros: concesiones, permisos, autorizaciones, licencias para conducir, tarjetones, permisos para conducir, permisos para circular, placas, tarjetas de circulación y la prorroga o revocación de estos actos administrativos que generen las Direcciones Generales de Transporte Particular, de Transporte de Ruta y Especializado, de Servicio de Transporte Público Individual, y sistematizar la información en forma coordinada con esas áreas competentes;
 
-IV. Establecer los mecanismos de coordinación con instituciones públicas y privadas para la integración de instrumentos tendientes al desarrollo del transporte y la vialidad;
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
 
-V. Diseñar e implementar las rutas de penetración o de paso de los vehículos del servicio público de transporte de pasajeros suburbanos y foráneos, y los itinerarios para los vehículos de carga;
+III. Actualizar y sistematizar de manera permanente en coordinación con las áreas responsables, la información en medios electrónico y/o documental del Registro Público del Transporte: permisos, autorizaciones, placas, tarjetas de circulación, permisos para circular, licencias de conducir, permisos para conducir y la prorroga y revocación de estos actos administrativos, del servicio de corredores de transporte y toda la documentación necesaria de los vehículos y conductores en el Distrito Federal;
 
-VI. Promover la aplicación de nuevas tecnologías en los vehículos, mobiliario, señalización y equipamiento del transporte y la vialidad;
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
 
-VII. (DEROGADA, G.O. 14 DE DICIEMBRE DE 2010)
+IV. Satisfacer los requerimientos de información en medios electrónicos y documental de los particulares, usuarios, permisionarios, concesionarios y titulares de las autorizaciones, Entidades Federativas y Administración Pública Federal, en su caso; y desarrollar en coordinación con el área competente, procedimientos que faciliten la entrega de la información solicitada en forma rápida y oportuna;
 
-VIII. Constituir Comités Técnicos en materia de transporte y vialidad;
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
 
-IX. Establecer las normas generales para que los Órganos Político-Administrativos determinen la ubicación, construcción y funcionamiento de estacionamientos y parquímetros, así como vigilar el cumplimiento de dicha normatividad;
+V. Determinar los criterios y estudios para el establecimiento de las cuotas y tarifas por los requerimientos de información al Registro Público de Transporte, en coordinación con la Dirección General de Planeación y Evaluación;
 
-X. Elaborar y actualizar la normatividad del señalamiento horizontal y vertical de red vial, así como los dispositivos tecnológicos de control de tránsito y preparar los proyectos ejecutivos correspondientes; y
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
 
-XI. Diseñar y supervisar la instalación del equipamiento, mobiliario urbano y control de tránsito que proteja al peatón en las vialidades;
+VI. Establecer la normatividad administrativa y/o reglas de operación que determinen los criterios para determinar tarifas, horarios de atención al público y procedimientos claros para el personal en la integración de la información, actualización y manejo de los productos;
 
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADA [N. DE E. ADICIONADA], G.O. 15 DE ENERO DE 2016)</small>
 
-XII. Realizar los estudios pertinentes para establecer las normas generales a que se sujetarán los Órganos Político-Administrativos para determinar la ubicación, construcción, funcionamiento y tarifas de los estacionamientos públicos, así como llevar el registro de los mismos, y
+VII. Desarrollar un sistema de información que sea de calidad, confiable, suficiente, claro y disponible, que facilite la consulta por parte de los particulares, usuarios, permisionarios, concesionarios, Entidades Federativas y, en su caso, la Administración Pública Federal, en forma coordinada con la Dirección Ejecutiva de Sistemas de información y Comunicación; y
 
-> <small>(ADICIONADA, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
 
-XIII. Regular y operar el servicio de ventanilla única de la Secretaría de Transportes y vialidad y establecer la coordinación de atención al usuario, cuya función será la de atender la demanda ciudadana, referente a transportes y vialidades, a través del mejoramiento continúo, de sus procesos de atención y servicio al público.
+VIII. En coordinación con la Dirección General de Planeación y Evaluación, y la Dirección General Jurídica y de Regulación, preparar los convenios que se formalicen con las Entidades Federativas y la Administración Pública Federal, en el caso de que requieran en forma regular, información del Registro Público de Transporte.
+
+IX. (DEROGADA, G.O. 15 DE ENERO DE 2016)
+
+X. (DEROGADA, G.O. 15 DE ENERO DE 2016)
+
+XI. (DEROGADA, G.O. 15 DE ENERO DE 2016)
+
+XII. (DEROGADA, G.O. 15 DE ENERO DE 2016)
+
+XIII. (DEROGADA, G.O. 15 DE ENERO DE 2016)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE ENERO DE 2016)</small>
 
 ###### Artículo 95.
 
-Corresponde a la Dirección General de Regulación al Transporte:
+Corresponde a la Dirección General de Investigación y Desarrollo de Movilidad:
 
-> <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
 
-I. Realizar los estudios pertinentes para proponer las modificaciones necesarias a las leyes, reglamentos y demás ordenamientos jurídicos en materia de transporte y vialidad, para la Ciudad de México;
+I. Desarrollar estudios y proyectos de regulación, promoción, fomento y reordenamiento que en materia de movilidad lleve a cabo el Sector;
 
-II. Expedir las normas técnicas y operacionales de los modos de transporte urbano, así como de la infraestructura y equipamiento auxiliar del transporte y evaluar su cumplimiento;
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
 
-> <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
+II. Realizar, directa o indirectamente, los estudios y proyectos en materia de movilidad y evaluar y difundir sus resultados;
 
-III. Sistematizar y difundir las normas jurídicas aplicables en materia de transporte y vialidad en la Ciudad de México, mediante la permanente actualización y compilación de las publicaciones oficiales correspondientes, así como el marco jurídico-administrativo que incida en la esfera de los particulares;
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
 
-IV. Sistematizar y actualizar el padrón vehicular y de licencias de conducir de servicio particular;
+III. Estudiar, dictaminar y proponer los diversos programas y proyectos que permitan, entre otros, la conformación del Sistema Integrado de Transporte Público, con base en los lineamientos que fije la normatividad en materia de movilidad, transporte y vialidad;
 
-V. Evaluar la aplicación y eficiencia del marco regulatorio del transporte y mantenerlo actualizado;
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
 
-VI. (DEROGADA, G.O. 21 DE MAYO DE 2002)
+IV. Realizar directamente o por conducto de terceros, los estudios técnicos y proyectos estratégicos en materia de movilidad, transporte y vialidad;
 
-VII. (DEROGADA, G.O. 21 DE MAYO DE 2002)
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
 
-VIII. Regular el otorgamiento y coordinar la expedición de placas, tarjetas de circulación, licencias para conducir y toda aquella documentación necesaria para que los vehículos de servicio particular y los conductores de los mismos, circulen conforme a las disposiciones jurídicas y administrativas aplicables; y
+V. Integrar la información técnica necesaria que justifique la necesidad de incrementar los permisos, concesiones y autorizaciones para la prestación del servicio público de transporte en todas sus modalidades;
 
-> <small>(REFORMADA, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
 
-IX. Establecer un sistema de información sobre la regulación del transporte; y
+VI. Diseñar, modificar, redistribuir, y adecuar los itinerarios, horarios, recorridos y rutas locales y de penetración urbana y suburbana, corredores de transporte, sitios y bases del transporte público de pasajeros, privado y de carga, centros de transferencia modal, en forma coordinada con las Direcciones Generales de Transporte Particular, de Transporte de Ruta y Especializado, así como el Órgano Regulador del Transporte; en congruencia con las políticas, programas y normas establecidas en el Sector con base en las necesidades de los usuarios y en la evaluación de los servicios;
+
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
+
+VII. Estudiar y determinar los criterios de autorización de las tarifas del transporte público, bicicletas, estacionamientos con instalaciones propias, estacionamientos en vía pública, así como proponer zonas de aparcamiento de bicicletas en vía pública y en su caso, el cobro de derechos; y
+
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
+
+VIII. Propugnar por que se realicen estudios técnicos sobre la oferta y demanda, de origen y destino, ya sea directamente o por medio de organismos, dependencias o instituciones académicas o de investigación del servicio público de transporte.
+
+IX. (DEROGADA, G.O. 15 DE ENERO DE 2016)
 
 X. (DEROGADA, G.O. 14 DE DICIEMBRE DE 2010)
 
-(ADICIONADO, G.O. 21 DE MAYO DE 2002) (F. DE E., G.O. 11 DE JULIO DE 2002)
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE ENERO DE 2016)</small>
 
 ###### Artículo 95 Bis.
 
-Corresponde a la Dirección General de Servicio de Transporte Público Individual de Pasajeros en el Distrito Federal:
+Corresponde a la Dirección General de Inteligencia y Cultura de Movilidad:
 
-I. Fomentar, impulsar, ordenar y regular el desarrollo del Servicio de Transporte Público Individual de Pasajeros, así como la infraestructura y equipamiento auxiliar del Servicio, en el Distrito Federal;
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
 
-II. Dictaminar las concesiones, permisos, y autorizaciones previstas en la Ley de Transporte del Distrito Federal y en las demás disposiciones jurídicas y administrativas aplicables, con estricta sujeción a las disposiciones, procedimientos y políticas establecidas por la Administración Pública del Distrito Federal;
+I. Brindar apoyo y coordinarse con la Secretaría de Seguridad Pública, para la ubicación de cámaras de video en el Distrito Federal, en su caso, con la participación de áreas de la Secretaria;
 
-III. Dictaminar los proyectos para la prestación del Servicio de Transporte Público Individual de Pasajeros en el Distrito Federal, con base en las disposiciones jurídicas aplicables;
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
 
-IV. Programar, orientar, organizar y en su caso modificar la prestación del servicio, conforme a lo prescrito en la Ley de Transporte del Distrito Federal y demás disposiciones jurídicas y administrativas aplicables;
+II. Desarrollar directamente o por conducto de terceros, un programa de instalación y reposición de señalizaciones en materia de movilidad en forma coordinada con el Órgano Regulador del Transporte y Delegaciones;
 
-V. Promover, redistribuir, modificar y adecuar los sitios y bases del servicio, de acuerdo con las disposiciones jurídicas y administrativas aplicables;
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
 
-VI. Ejecutar las acciones necesarias para la conservación, mantenimiento, renovación y cumplimiento de las especificaciones técnicas del parque vehicular destinado a la prestación del servicio, implementando las medidas adecuadas para mantener en buen estado la infraestructura utilizada para tal fin;
+III. Elaborar, preparar y actualizar la normatividad del señalamiento horizontal y vertical de la red vial, así como los dispositivos tecnológicos de control de tránsito, conforme a los proyectos ejecutivos correspondientes;
 
-VII. Proporcionar la información necesaria para la actualización permanente del Registro Público del Transporte, en lo que se refiere a la prestación del servicio, y la actualización de los padrones correspondientes;
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
 
-> <small>(F. DE E., G.O. 11 DE JULIO DE 2002)</small>
+IV. Establecer, en el ámbito de sus atribuciones, las políticas, normas y lineamientos para promover y fomentar la utilización adecuada de la vialidad, su infraestructura, equipamiento auxiliar, servicios y elementos inherentes o incorporados a ella;
 
-VIII. Participar en la inspección y vigilancia del servicio; así como en la aplicación de sanciones, con base en los lineamientos que fijen las normas correspondientes;
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
 
-IX. Recibir, registrar y analizar las solicitudes de los interesados, que estén involucrados en conflictos de titularidad, respecto de las concesiones de transporte público individual de pasajeros en el Distrito Federal, y turnarlos para su tramitación a la Dirección Jurídica;
+V. Realizar los estudios y las consultas necesarias que estimulen el uso racional del automóvil particular y planificar alternativas de transporte de mayor capacidad y/o no motorizada; y establecer zonas de movilidad sustentable a efecto de reducir las externalidades negativas de su uso en forma coordinada con la Dirección General de Planeación y Evaluación de Movilidad; así como desalentar el uso del automóvil particular y estimular el uso del transporte público, mediante estímulos económicos, promociones culturales o medidas novedosas;
 
-X. Dictaminar con base en las disposiciones jurídicas y administrativas aplicables, la representatividad de los concesionarios o permisionarios del servicio, en los casos en que exista controversia respecto a la titularidad de los derechos derivados de las autorizaciones, permisos o concesiones, así como del equipamiento auxiliar, a fin de que el servicio no se vea afectado en su prestación regular, permanente, continua, uniforme e ininterrumpida;
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
 
-XI. Establecer la coordinación con las autoridades correspondientes, para determinar las políticas, estrategias, programas y cursos de capacitación para concesionarios, y operadores;
+VI. Elaborar los estudios necesarios para el diseño y ejecución de un programa y marco normativo de operación, conducentes a incentivar la circulación de vehículos limpios y eficientes en la Ciudad, con las adecuaciones de la infraestructura vial y el equipamiento auxiliar que esto implique;
 
-XII. Promover acciones que tiendan a satisfacer, a hacer eficiente y a regular el servicio, y en su caso, coordinarse con las demás Dependencias, Unidades Administrativas, Órganos Político-Administrativos, Órganos Desconcentrados y Entidades de la Administración Pública para este propósito; y
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
 
-XIII. Realizar todas aquellas acciones tendientes a que el servicio, se lleve a cabo con eficiencia y eficacia, garantice la seguridad de los usuarios y peatones y los derechos de los concesionarios.
+VII. Proponer la construcción de vías peatonales, accesibles a personas con discapacidad, y vías ciclistas, en las actuales vialidades y en los nuevos desarrollos urbanos, conforme a los estudios y programas que se realicen, en forma coordinada con la Dirección General de Planeación y Evaluación de la Movilidad y demás áreas de la Secretaría, a fin de fomentar entre la población la utilización del transporte no motorizado;
 
-> <small>(ADICIONADO, G.O. 21 DE MAYO DE 2002)</small>
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
+
+VIII. Participar en las acciones coordinadas con las áreas de la Secretaría y la Secretaría de Medio Ambiente; para promover, impulsar, y fomentar el uso de vehículos limpios, no motorizados y/o eficientes, sistemas con tecnologías sustentables, así como el uso de otros medios de transporte amigables con el medio ambiente, utilizando los avances científicos y tecnológicos;
+
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
+
+IX. Coordinar acciones y medidas que faciliten al titular de la Secretaría, la toma de decisiones para desarrollar un Sistema Integrado de Transporte Metropolitano con Entidades Federativas aledañas al Distrito Federal;
+
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
+
+X. Realizar en forma permanente el monitoreo de la movilidad, y en su caso, en forma coordinada con la Secretaría de Seguridad Pública para establecer las consignas en materia de flujo de vehículos y movilidad de las personas;
+
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XI. Desarrollar e implementar los protocolos y consignas para reducir el tránsito y garantizar la fluidez del tráfico en caso de plantones, manifestaciones y bloqueos de vialidades y/o hechos de tránsito en la Ciudad en forma coordinada con las áreas de la Secretaría de Seguridad Pública; y
+
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XII. Brindar apoyo a la Secretaría de Seguridad Pública, para desarrollar e implementar protocolos en los que se establezcan políticas y medidas en caso de desastres naturales en la Ciudad, en forma coordinada con las áreas de la Secretaría.
+
+XIII. (DEROGADA, G.O. 15 DE ENERO DE 2016)
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE ENERO DE 2016)</small>
 
 ###### Artículo 95 Ter.
 
-Corresponde a la Dirección Jurídica de la Secretaría de Transportes y Vialidad:
+Corresponde a la Dirección General de Transporte Particular:
 
-I. Autorizar y dirigir las diligencias de notificación en cumplimiento de las normas jurídicas y administrativas aplicables;
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
 
-> <small>(REFORMADA, G.O. 11 DE JULIO DE 2002)</small>
+I. Fomentar, ordenar, regular y evaluar el desarrollo de la movilidad en materia del servicio de transporte de pasajeros particular; con los estudios y proyectos que en materia de reordenamiento, fomento y promoción lleve a cabo el Sector en materia (sic) transporte de pasajeros particular en el Distrito Federal;
 
-II. Sustanciar los procedimientos administrativos, imponer las sanciones establecidas en la normatividad y dictar las resoluciones que correspondan en los casos de revocación, caducidad, cancelación y rescisión de los permisos, concesiones, licencias y autorizaciones cuando proceda, de conformidad con las disposiciones legales aplicables y proceder legalmente en caso de comisión de delitos;
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
 
-III. Sustanciar los recursos de inconformidad, interpuestos en contra de actos y resoluciones administrativas emitidos por las unidades administrativas de la Secretaría de Transportes y Vialidad;
+II. Expedir las normas técnicas y operacionales del servicio de transporte de pasajeros particular, así como de la infraestructura y equipamiento auxiliar del mismo y evaluar su cumplimiento;
 
-IV. Llevar a cabo los estudios jurídicos y emitir opinión respecto de las consultas que le encomienden las unidades administrativas adscritas a la Secretaria de Transportes y Vialidad;
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
 
-V. Revisar y emitir opinión jurídica respecto de los convenios, contratos y demás instrumentos jurídicos y administrativos que suscriba la Secretaría;
+III. Regular el otorgamiento y la expedición de permisos para circular, placas, tarjetas de circulación, licencias de conducir, permisos para conducir y la documentación necesaria para que los vehículos utilizados en del (sic) servicio de transporte de pasajeros particular y sus conductores circulen en el Distrito Federal, conforme a las disposiciones jurídicas y administrativas aplicables;
 
-VI. Proponer y mantener actualizados los criterios de interpretación de las disposiciones jurídicas y administrativas relativas al ámbito de competencia de la Secretaría;
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
 
-VII. Recibir, contestar, dar seguimiento y promover las demandas y recursos legales pertinentes en los juicios de amparo, de nulidad, lesividad, civiles, penales, laborales y administrativos en los que intervenga la Secretaría;
+IV. Sistematizar y actualizar en forma permanente, la información en medios electrónicos y documental relativa al control vehicular: permisos para circular, placas y tarjetas de circulación de vehículos del servicio transporte de pasajeros particular, así como las licencias y permisos para conducir este tipo de vehículos, en forma coordinada con la Dirección General de Registro Público de Transporte, para su entrega en forma oportuna a esta última;
 
-VIII. Iniciar los procedimientos jurídico-administrativos relativos a los conflictos de titularidad de las concesiones del transporte público, agotando todas y cada una de las etapas del procedimiento, de conformidad con lo establecido por las disposiciones legales aplicables; y
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
 
-IX. Presentar, ratificar y actuar como coadyuvante del Ministerio Público en las denuncias de hechos, por la posible comisión de delitos relacionados con las materias de transporte público y vialidad y aquellos en que resulte afectada la Secretaría.
+V. Promover acciones que tiendan a satisfacer y a regular el servicio de transporte de pasajeros particular y, en su caso, coordinarse con las demás áreas del transporte, Unidades Administrativas, Delegaciones, Órganos Desconcentrados, Entidades y Dependencias de la Administración Pública del Distrito Federal, para este propósito;
+
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
+
+VI. Evaluar la aplicación y eficiencia del marco regulatorio del transporte de pasajeros particular y mantenerlo actualizado y, en su caso; en forma coordinada con la Dirección General Jurídica y de Regulación, proponer las modificaciones necesarias a las leyes, reglamentos y demás ordenamientos jurídicos en materia de transporte particular para la Ciudad de México;
+
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
+
+VII. Regular, autorizar e inspeccionar la publicidad en el servicio de transporte de pasajeros particular, así como imponer las sanciones en caso de incumplimiento, de conformidad con las disposiciones jurídicas y administrativas correspondientes;
+
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
+
+VIII. Vigilar que los Módulos de atención e información correspondientes, privilegien el trato digno y la calidad en el desarrollo de los procedimientos de atención al público;
+
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
+
+IX. Supervisar los módulos de atención e información correspondientes, en su operación y coordinar la entrega de los insumos para su funcionamiento regular y permanente; y
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+X. Implementar las decisiones y acuerdos de los órganos colegiados auxiliares de consulta; dictar las disposiciones y/o reglas de operación y desarrollar los procedimientos que faciliten proporcionar la información solicitada en forma rápida y oportuna, en coordinación con la Dirección General Jurídica y de Regulación y las demás áreas que resulten competentes de la Secretaría.
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2016)</small>
+
+###### Artículo 95 Quater.
+
+Corresponde a la Dirección General de Transporte de Ruta y Especializado:
+
+I. Fomentar, impulsar, estimular, ordenar y regular el desarrollo del transporte de pasajeros público en sus modalidades de colectivo, no incorporado a un Corredor de Transporte, mercantil y privado, así como el de carga en todas sus modalidades (público, mercantil, privado y particular), en el Distrito Federal; para garantizar la integridad y seguridad de los usuarios, los derechos de los permisionarios y concesionarios y el cumplimiento de sus obligaciones;
+
+II. Tramitar la expedición de las concesiones, permisos, licencias, registro vehicular, revista, sitios, bases de servicio y autorizaciones relacionadas con la prestación del servicio de transporte de pasajeros público en sus modalidades de colectivo, no incorporado a un Corredor de Transporte, mercantil y privado, así como el de carga en todas sus modalidades (público, mercantil, privado y particular) previstas en la Ley de Movilidad del Distrito Federal y las demás disposiciones jurídicas y administrativas aplicables, con estricta sujeción a las disposiciones, procedimientos y políticas establecidas por la Administración Pública del Distrito Federal;
+
+III. Regular, programar, orientar, organizar, controlar y, en su caso, modificar, la prestación de los servicios de transporte de pasajeros público en sus modalidades de colectivo, no incorporado a un Corredor de Transporte, mercantil y privado, así como el de carga en todas sus modalidades (público, mercantil, privado y particular), en el Distrito Federal, conforme a lo establecido en (sic) Ley de Movilidad y demás disposiciones jurídicas y administrativas aplicables; así como también, a las necesidades de movilidad de la Ciudad, procurando la preservación del medio ambiente y la seguridad de los usuarios del sistema de movilidad;
+
+IV. Calificar las infracciones e imponer las sanciones correspondientes por violaciones a la Ley de Movilidad del Distrito Federal, disposiciones administrativas y reglamentarias, cometidas por los concesionarios, permisionarios, operadores, empleados o personas relacionados directamente con la prestación del servicio de transporte de pasajeros público en sus modalidades de colectivo, no incorporado a un Corredor de Transporte, mercantil y privado, así como el de carga en todas sus modalidades (público, mercantil, privado y particular), a excepción de aquellas que deriven de un procedimiento de verificación administrativa cuya atribución corresponde exclusivamente al Instituto correspondiente y las que por atribución le competan a las Delegaciones y a la Secretaría de Seguridad Pública del Distrito Federal;
+
+V. Diseñar, redistribuir, modificar y adecuar los itinerarios, recorridos y rutas locales y de penetración urbana y suburbana, y bases del transporte público de pasajeros, privado y de carga en forma coordinada con la Dirección General de Planeación y Evaluación, así como con el Órgano Regulador del Transporte; en congruencia con las políticas, programas y normas establecidas en el Sector y los resultados de la evaluación correspondiente;
+
+VI. Proyectar y establecer las normas adecuadas para el funcionamiento de los Centros de Transferencia Modal y Corredores de Transporte, así como su operación y servicios, y propiciar los mecanismos de coordinación interinstitucional;
+
+VII. Dictaminar y autorizar los proyectos para la prestación del servicio de transporte mercantil y privado tanto de pasajeros como de carga, con base en los lineamientos que fije la normatividad correspondiente;
+
+VIII. Redistribuir, modificar y adecuar los itinerarios, recorridos y rutas locales y de penetración urbana y suburbana, bases de servicio, de transporte público en sus modalidades de colectivo, no incorporado a un Corredor de Transporte, mercantil y privado, así como el de carga en todas sus modalidades (público, mercantil, privado y particular) en congruencia con las políticas, programas y normas establecidas en la materia;
+
+IX. Dictar y ejecutar los Acuerdos necesarios para la conservación, mantenimiento, renovación y cumplimiento de las especificaciones técnicas del parque vehicular destinado a la prestación del servicio de transporte de pasajeros público en sus modalidades de colectivo, no incorporado a un Corredor de Transporte, mercantil y privado, así como el de carga en todas sus modalidades (público, mercantil, privado y particular), implementando las medidas adecuadas para mantener en buen estado la infraestructura utilizada para tal fin;
+
+X. Actualizar y sistematizar en forma permanente, la información en medios electrónicos y documental, relativa a concesiones, permisos, licencias, registro vehicular, revista y autorizaciones relativas al servicio de transporte de pasajeros público en sus modalidades de colectivo, no incorporado a un Corredor de Transporte, mercantil y privado, así como el de carga en todas sus modalidades (público, mercantil, privado y particular), en coordinación con la Dirección General de Registro Público de Transporte y ponerlo a disposición de ésta;
+
+XI. Realizar los estudios técnicos que justifiquen la necesidad de incrementar autorizaciones, permisos y/o concesiones para la prestación del servicio público de transporte de pasajeros público en sus modalidades de colectivo, no incorporado a un Corredor de Transporte, mercantil y privado, así como el de carga en todas sus modalidades (público, mercantil, privado y particular);
+
+XII. Recibir, registrar y analizar las solicitudes de los interesados que estén involucrados en conflictos de titularidad respecto de las concesiones, permisos y autorizaciones de transporte de pasajeros público en sus modalidades de colectivo, no incorporado a un Corredor de Transporte, mercantil y privado, así como el de carga en todas sus modalidades (público, mercantil, privado y particular) y turnarlos para su tramitación a la Dirección General Jurídica y de Regulación;
+
+XIII. Establecer la coordinación con las áreas de la Secretaría, para determinar los cursos y programas de capacitación para concesionarios, permisionarios y operadores del servicio público de transporte de pasajeros público en sus modalidades de colectivo, no incorporado a un Corredor de Transporte, mercantil y privado, así como el de carga en todas sus modalidades (público, mercantil, privado y particular);
+
+XIV. Impulsar el desarrollo del transporte escolar, de personal, y de turismo y todos aquellos sistemas de transporte que eviten la saturación de las vialidades y protejan el medio ambiente;
+
+XV. Adoptar las medidas que tiendan a optimizar y satisfacer el transporte de pasajeros público en sus modalidades de colectivo, no incorporado a un Corredor de Transporte, mercantil y privado, así como el de carga en todas sus modalidades (público, mercantil, privado y particular) y, en su caso, coordinarse con las Dependencias y Entidades para este propósito;
+
+XVI. Regular, autorizar e inspeccionar la publicidad en el servicio de transporte de pasajeros público en sus modalidades de colectivo, no incorporado a un Corredor de Transporte, mercantil y privado, así como el de carga en todas sus modalidades (público, mercantil, privado y particular), e imponer las sanciones en caso de incumplimiento, de conformidad con las disposiciones jurídicas y administrativas correspondientes;
+
+XVII. Establecer y administrar depósitos de vehículos que deban remitirse y custodiarse con motivo de infracciones a la Ley de Movilidad del Distrito Federal y sus disposiciones reglamentarias;
+
+XVIII. Promover acciones que tiendan a satisfacer y regular el servicio de transporte de pasajeros público en sus modalidades de colectivo, no incorporado a un Corredor de Transporte, mercantil y privado, así como el de carga en todas sus modalidades (público, mercantil, privado y particular) y, en su caso, coordinarse con las demás Dependencias de transporte, Unidades Administrativas, Delegaciones, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal para este propósito;
+
+XIX. Evaluar la aplicación y eficiencia del marco regulatorio del transporte mercantil y privado y mantenerlo actualizado y, en su caso, en forma coordinada con la Dirección General Jurídica y de Regulación, proponer las modificaciones necesarias a las leyes, reglamentos y demás ordenamientos jurídicos en esta materia para la Ciudad de México;
+
+XX. Vigilar que los módulos de atención e información, privilegien el trato digno y la calidad en el desarrollo de los procedimientos de atención al público;
+
+XXI. Supervisar los módulos de atención e información que le correspondan en su operación y coordinar la entrega de los insumos para su funcionamiento regular y permanente; e
+
+XXII. Implementar las decisiones y acuerdos de los órganos colegiados auxiliares de consulta; dictar las disposiciones y/o reglas de operación y desarrollar los procedimientos que faciliten proporcionar la información solicitada en forma rápida y oportuna, en coordinación con la Dirección General Jurídica y de Regulación y demás áreas competentes de la Secretaría.
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2016)</small>
+
+###### Artículo 95 Quinquies.
+
+Corresponde a la Dirección General de Servicio Público de Transporte Individual:
+
+I. Fomentar, ordenar y regular el desarrollo del servicio de transporte de pasajeros público individual y ciclotaxis, así como la infraestructura y equipamiento auxiliar del Servicio, en el Distrito Federal;
+
+II. Tramitar la expedición de las concesiones, permisos, licencias, registro vehicular, revista, sitios, bases de servicio y autorizaciones relacionadas con la prestación del servicio de transporte de pasajeros público individual y ciclotaxis previstas en la Ley de Movilidad del Distrito Federal y las demás disposiciones jurídicas y administrativas aplicables, con estricta sujeción a las disposiciones, procedimientos y políticas establecidas por la Administración Pública;
+
+III. Regular, orientar, organizar, y controlar la prestación del servicio de transporte de pasajeros público individual y ciclotaxis en el Distrito Federal, conforme a lo establecido en la Ley de Movilidad, y demás disposiciones jurídicas y administrativas aplicables; así como también, a las necesidades de movilidad de la Ciudad, procurando la preservación del medio ambiente y la seguridad de los usuarios del Sistema de Movilidad;
+
+IV. Diseñar, redistribuir, modificar y adecuar los itinerarios, recorridos y rutas locales y de penetración urbana y suburbana, sitios y bases del servicio de transporte de pasajeros público individual y ciclotaxis en forma coordinada con las Direcciones Generales de Planeación y Evaluación, y de Ruta y Especializado, así como el Órgano Regulador del Transporte; en congruencia con las políticas, programas y normas establecidas en el Sector y con base en las necesidades de los usuarios y la evaluación de los servicios;
+
+V. Realizar todas las acciones necesarias para que el servicio de transporte de pasajeros público individual y ciclotaxis, garantice la integridad y la seguridad de los usuarios, los derechos de los permisionarios y concesionarios y el cumplimiento de sus obligaciones; y desalentar el uso del automóvil particular y estimular el uso del transporte público, mediante medidas novedosas en materia económica y de promoción de la cultura de la movilidad;
+
+VI. Promover, redistribuir, modificar y adecuar los sitios y bases del servicio, de acuerdo con las disposiciones jurídicas y administrativas aplicables;
+
+VII. Regular, autorizar e inspeccionar la publicidad en el servicio de transporte de pasajeros público individual y ciclotaxis, así como imponer las sanciones en caso de incumplimiento, de conformidad con las disposiciones jurídicas y administrativas correspondientes;
+
+VIII. Ejecutar las acciones necesarias para la conservación, mantenimiento, renovación y cumplimiento de las especificaciones técnicas del parque vehicular destinado a la prestación del servicio de transporte de pasajeros público individual y ciclotaxis, implementando las medidas adecuadas para mantener en buen estado la infraestructura utilizada para tal fin;
+
+IX. Actualizar y sistematizar en forma permanente, la información en medios electrónicos y documental de concesiones, permisos, licencias, control vehicular, revista y autorizaciones relativas al servicio de transporte de pasajeros público individual y ciclotaxis, en forma coordinada con la Dirección General de Registro Público de Transporte y ponerla a disposición de esta última;
+
+X. Participar en la inspección y vigilancia del Servicio; así como en la aplicación de sanciones, con base en los lineamientos que fijen las normas jurídicas y administrativas correspondientes;
+
+XI. Recibir, registrar y analizar las solicitudes de los interesados, que estén involucrados en conflictos de titularidad, respecto de las concesiones de servicio de transporte de pasajeros público individual y ciclotaxis en el Distrito Federal, y turnarlos para su tramitación a la Dirección General Jurídica y de Regulación;
+
+XII. Dictaminar con base en las disposiciones jurídicas y administrativas aplicables, la representatividad de los concesionarios o permisionarios del servicio, en los casos en que exista controversia respecto a la titularidad de los Derechos derivados de las autorizaciones, permisos o concesiones, a fin de que el servicio no se vea afectado en su prestación regular, permanente, continua, uniforme e ininterrumpida;
+
+XIII. Promover acciones que tiendan a satisfacer y regular el servicio de transporte de pasajeros público individual y ciclotaxis, y en su caso, coordinarse con las demás Dependencias de transporte, Unidades Administrativas, Delegaciones, Órganos Desconcentrados y Entidades de la Administración Pública para este propósito;
+
+XIV. Establecer en coordinación con las demás áreas de la Secretaría, para determinar las políticas, estrategias, programas y cursos de capacitación para permisionarios, concesionarios, y operadores;
+
+XV. Vigilar que los módulos de atención e información correspondientes, privilegien el trato digno y la calidad en el desarrollo de los procedimientos de atención al público;
+
+XVI. Supervisar los módulos de atención e información correspondientes, en su operación y coordinar la entrega de los insumos para su funcionamiento regular y permanente;
+
+XVII. Implementar las decisiones y acuerdos de los órganos colegiados auxiliares de consulta; dictar la disposiciones y/o reglas de operación y desarrollar los procedimientos que faciliten proporcionar la información solicitada en forma rápida y oportuna, en coordinación con la Dirección General Jurídica y de Regulación y demás áreas competentes de la Secretaría; y
+
+XVIII. Desarrollar y establecer con las áreas correspondientes de la Secretaría, un programa de financiamiento para aquéllos que adquieran tecnologías sustentables o accesorios que favorezcan la reducción de emisiones contaminantes de sus unidades de transporte.
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2016)</small>
+
+###### Artículo 95 Sexies.
+
+Corresponde a la Dirección General Jurídica y de Regulación:
+
+I. Practicar las diligencias de notificación de resoluciones emitidas por las diversas áreas de la Secretaría, en cumplimiento de las normas jurídicas y administrativas aplicables;
+
+II. Sustanciar los procedimientos administrativos y, en su caso, imponer las sanciones establecidas en la normatividad; dictar las resoluciones que correspondan en los casos de revocación, caducidad, cancelación y rescisión de los permisos, concesiones, licencias y autorizaciones cuando proceda, de conformidad con las disposiciones legales aplicables;
+
+III. Recibir, contestar y dar seguimiento a las demandas, recursos contenciosos, juicios de amparo, de nulidad, lesividad, civiles, penales, laborales y administrativos en los que intervenga la Secretaría; llevar un registro de los (sic) todos los juicios y recursos contenciosos en los que la Secretaría sea parte, para darle oportuno seguimiento;
+
+IV. Llevar el registro de los bienes inmuebles al cuidado y resguardo de la Secretaría de Movilidad en forma coordinada con el Órgano Regulador de Transporte;
+
+V. Capacitar a las áreas de la Secretaría, en materia de la aplicación de la Ley de Procedimiento Administrativo del Distrito Federal y demás disposiciones jurídico-administrativas que son competencia de la propia Secretaría; y promover de manera activa, la creación de disposiciones administrativas y/o reglas de operación ante estas áreas;
+
+VI. Revisar y emitir opinión jurídica respecto de los convenios, contratos y demás instrumentos jurídicos y administrativos que suscriba la Secretaría y sus dependencias.
+
+VII. Coadyuvar con el Instituto de Verificación Administrativa para iniciar procedimientos administrativos por posibles incumplimientos a las resoluciones administrativas emitidas en materia de impacto de movilidad;
+
+VIII. Regular y operar el servicio de Atención y Conciliación, en el que se reciban las quejas de los usuarios, permisionarios, concesionarios y titulares de las autorizaciones, para que mediante su análisis previo, se hagan propuestas de solución a sus planteamientos, conforme a principios de economía procesal; así como dar seguimiento a las respuestas y resoluciones de las áreas responsables de la Secretaría;
+
+IX. Analizar y preparar las resoluciones, de las solicitudes de personas para el uso y aprovechamiento de los espacios físicos e instalaciones para ofrecer servicios, auxiliares, conexos o complementarios a los diversos usuarios de las vialidades, así como en Centros de Transferencia Modal;
+
+X. Recibir y registrar, analizar y resolver las solicitudes de los interesados que estén involucrados en conflictos de titularidad respecto de las concesiones de transporte público colectivo de pasajeros y de carga;
+
+XI. Calificar, dictaminar y determinar con base en la normatividad administrativa correspondiente, los casos en que exista controversia, respecto a la representatividad de los concesionarios y/o permisionarios y la titularidad de los Derechos derivados de las autorizaciones, concesiones y permisos, así como del equipamiento auxiliar, a fin de que el servicio de transporte público de pasajeros o de carga no se vea afectado en su prestación continua, regular, permanente, uniforme e ininterrumpida;
+
+XII. Substanciar los recursos de inconformidad, interpuestos en contra de actos y resoluciones administrativas emitidas por las Unidades Administrativas de la Secretaría de Movilidad; y, en su caso decretar la suspensión temporal o definitiva, la nulidad, cancelación o extinción de las concesiones permisos y autorizaciones en los casos que correspondan;
+
+XIII. Llevar a cabo los estudios jurídicos para proponer modificaciones a las diversas disposiciones y ordenamientos jurídicos en materia de movilidad; emitir opinión respecto de las consultas que le encomienden las Unidades Administrativas adscritas a la Secretaria de Movilidad; así como apoyar la difusión de la Ley de Movilidad del Distrito Federal, a los usuarios y al personal de las áreas de la Secretaría;
+
+XIV. Sistematizar y difundir las normas jurídicas aplicables en materia de movilidad en la Ciudad de México, mediante la permanente actualización y compilación de las publicaciones oficiales correspondientes, así como el marco jurídico-administrativo que incida en la esfera de los particulares; y mantener actualizados los criterios de interpretación de las disposiciones administrativas relativas al ámbito de competencia de la Secretaría;
+
+XV. Dar seguimiento a los procedimientos jurídico-administrativos relativos a los conflictos de titularidad de las concesiones del transporte público, agotando todas y cada una de las etapas del procedimiento, de conformidad con lo establecido por las disposiciones legales aplicables; y
+
+XVI. Presentar, ratificar y actuar como coadyuvante del Ministerio Público en las denuncias de hechos, por la posible comisión de delitos relacionados con las materias de movilidad, transporte público y vialidad y aquellos en que resulte afectada la Secretaría.
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2016)</small>
+
+###### Artículo 95 Septies.
+
+Corresponde a la Dirección Ejecutiva de Sistemas de Información y Comunicación:
+
+I. Instalar directamente o por conducto de terceros, los equipos de tecnologías de la información y comunicación que se requieran en las áreas de la Secretaría, conforme a los adelantos tecnológicos y en atención a las disponibilidades presupuestarias;
+
+II. Reparar y dar mantenimiento a las instalaciones de los equipos de tecnologías de la información y comunicación, de las áreas de la Secretaría, a fin de que cuenten con los elementos necesarios para atender las demandas de los usuarios de los trámites y servicios que ofrece la Secretaría;
+
+III. Preparar programas y proyectos de mantenimiento y actualización de los equipos de tecnologías de la información y comunicación a fin de garantizar los servicios que prestan las diversas áreas de la Secretaría; e
+
+IV. Implementar, directamente o por conducto de terceros, el Programa Estratégico de Tecnologías de la información y Comunicación (PETIC) de la Secretaría.
 
 #### SECCION XI
 
@@ -7431,6 +7729,28 @@ XVII. Participar en la planeación y coordinar la prestación de servicios de ap
 XVIII. Certificar los documentos que obren en los expedientes que sean integrados con motivo del ejercicio de las facultades a su cargo; y
 
 XIX. Las demás que le sean conferidas por el Oficial Mayor, así como las que correspondan a las unidades que le sean adscritas.
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2016)</small>
+
+Artículo 101 G Bis.- Corresponde a la Dirección General de Administración en la Secretaría de Movilidad, además de las atribuciones a que alude el artículo 101 G del presente Reglamento Interior, las siguientes:
+
+I. Celebrar convenios con los medios de comunicación, con la participación de las diversas Unidades y áreas del Sector, para dar a conocer a los usuarios y público en general información diversa en materia de movilidad transporte y vialidad, así como bloqueos de vialidades y/o hechos de tránsito, plantones y manifestaciones en la Ciudad y coordinarse con las áreas de la Secretaría de Seguridad Pública, para atender y tomar medidas encaminadas (sic) su atención y solución;
+
+II. Realizar las acciones necesarias que propicien en todo momento, la innovación tecnológica del Sector de Movilidad;
+
+III. Proveer de los insumos necesarios a las Unidades Administrativas, áreas de Apoyo Técnico Operativo y en su caso, al Órgano Desconcentrado, en forma oportuna, para el eficiente desarrollo de sus atribuciones;
+
+IV. Proporcionar en forma oportuna los equipos que se requieran y sean necesarios y facilitar su mantenimiento, a las Unidades Administrativas y áreas de Apoyo Técnico que integran el Sector de Movilidad;
+
+V. Propiciar el desarrollo de aplicaciones tecnológicas en forma oportuna y coordinada con las Unidades competentes de la Secretaría y facilitar la prestación del apoyo informático al Sector de Movilidad;
+
+VI. Facilitar a las Unidades competentes de la propia Secretaría, los elementos necesarios, para administrar y mantener la red e internet de la Dependencia;
+
+VII. Asistir a las áreas en la mejora incremental o radical de los procesos mediante metodologías de administración de procesos, en la incorporación de innovaciones a los mismos, su correspondiente documentación y en los cambios organizacionales que estos ocasionan;
+
+VIII. Coordinar las acciones en la Secretaría para implementar, mantener e incrementar la calidad de sus procesos, productos y servicios que permitan obtener y mantener su certificación bajo normas internacionales; y
+
+IX. Proveer con oportunidad los elementos necesarios a las Unidades y áreas competentes del Sector, para actualizar y sistematizar la información en medios electrónicos y/o documental para su permanente actualización.
 
 > <small>(ADICIONADO, G.O. 31 DE MAYO DE 2013)</small>
 
@@ -11666,7 +11986,7 @@ III. Al órgano político-administrativo en Benito Juárez;
 
 A) Dirección General Jurídica y de Gobierno;
 
-B) Dirección General de Coordinación de Gabinete y Proyectos Especiales;
+B) (DEROGADO, G.O. 15 DE ENERO DE 2016)
 
 C) Dirección General de Administración;
 
@@ -11894,45 +12214,43 @@ H) Dirección General de Colonia y Tenencia de la Tierra.
 
 XI. Al Órgano Político-Administrativo en Miguel Hidalgo;
 
-> <small>(REFORMADO, G.O. 31 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, G.O. 15 DE ENERO DE 2016)</small>
 
-A) Dirección General de Gobierno y Participación Ciudadana;
+A) Dirección General de Servicios Jurídicos y Gobierno;
 
-> <small>(REFORMADO, G.O. 31 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, G.O. 15 DE ENERO DE 2016)</small>
 
-B) Dirección General Jurídica y de Servicios Legales;
+B) Dirección General de Administración Delegacional;
 
-> <small>(REFORMADO, G.O. 31 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, G.O. 15 DE ENERO DE 2016)</small>
 
-C) Dirección General de Administración;
+C) Jefatura de la Oficina del Jefe Delegacional;
 
-> <small>(REFORMADO, G.O. 31 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, G.O. 15 DE ENERO DE 2016)</small>
 
-D) Dirección General de Obras Públicas y Desarrollo Urbano;
+D) Dirección Ejecutiva de Servicios Internos;
 
-> <small>(REFORMADO, G.O. 31 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, G.O. 15 DE ENERO DE 2016)</small>
 
-E) Dirección General de Servicios Urbanos;
+E) Dirección Ejecutiva Jurídica;
 
-> <small>(REFORMADO, G.O. 31 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, G.O. 15 DE ENERO DE 2016)</small>
 
-F) Dirección General de Desarrollo Social;
+F) Dirección Ejecutiva de Registros y Autorizaciones;
 
-> <small>(REFORMADO, G.O. 31 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, G.O. 15 DE ENERO DE 2016)</small>
 
-G) Dirección General de Desarrollo Delegacional;
+G) Dirección Ejecutiva de Obras Públicas;
 
-> <small>(REFORMADO, G.O. 31 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, G.O. 15 DE ENERO DE 2016)</small>
 
-H) Dirección General de Seguridad Ciudadana;
+H) Dirección Ejecutiva de Servicios Urbanos, y
 
-> <small>(REFORMADO, G.O. 31 DE MARZO DE 2010)</small>
+> <small>(REFORMADO, G.O. 15 DE ENERO DE 2016)</small>
 
-I) Dirección Ejecutiva de Cultura, y
+I) Dirección Ejecutiva de Desarrollo Social.
 
-> <small>(REFORMADO, G.O. 31 DE MARZO DE 2010)</small>
-
-J) Jefatura de la Oficina del Jefe Delegacional.
+J) (DEROGADO, G.O. 15 DE ENERO DE 2016)
 
 > <small>(ADICIONADA, G.O. 26 DE SEPTIEMBRE DE 2002)</small>
 
@@ -12084,11 +12402,9 @@ XIII. Prestar el servicio de información actualizada en materia de planificaci�
 
 XIV. Las demás que les atribuyan expresamente los ordenamientos jurídicos y administrativos correspondientes, así como los que de manera directa les asigne el titular del Órgano Político-Administrativo y las que se establezcan en los manuales administrativos.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 31 DE ENERO DE 2001)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 15 DE ENERO DE 2016)</small>
 
-### Capítulo III
-
-De las atribuciones básicas de las Direcciones Generales de carácter común de los Órganos Político- Administrativos.
+### Capítulo III. De las atribuciones de las Direcciones Generales de carácter común de los Órganos Político-Administrativos
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 31 DE ENERO DE 2001)</small>
 
@@ -12872,35 +13188,9 @@ II. Revisar los informes preventivos, así como conocer las manifestaciones de i
 
 III. Revisar los informes preventivos, así como conocer las manifestaciones de impacto ambiental, que en relación con las construcciones soliciten los particulares, de conformidad con las disposiciones jurídicas y administrativas aplicables.
 
-> <small>(ADICIONADO, G.O. 1 DE OCTUBRE DE 2009)</small>
-
 ###### Artículo 137 Bis.
 
-Corresponde a la Dirección General de Coordinación de Gabinete y Proyectos Especiales las siguientes atribuciones:
-
-I. Coadyuvar en la ejecución de las acciones que la normatividad atribuya al Jefe Delegacional;
-
-II. Coordinar el trabajo institucional de cada una de las áreas del Órgano Político Administrativo, imprimiendo relación, correspondencia y unidad a los programas y proyectos realizados, según las directrices del jefe delegacional;
-
-III. Coordinar y conducir, junto con el área de modernización administrativa, la planeación programática y estratégica del Órgano Político Administrativo;
-
-IV. Diseñar, conducir y ejecutar los proyectos delegacionales que por su naturaleza requieran de la participación de diversas áreas;
-
-V. Dar seguimiento y apoyo a los acuerdos tomados entre el Jefe Delegacional y los Directores Generales, Directores, Coordinadores, Subdirectores y Jefes de Unidad;
-
-VI. Coordinar las acciones de beneficio social que requieran de la participación de dos o más áreas delegacionales;
-
-VII. Proponer al Jefe Delegacional proyectos especiales que tengan como finalidad el beneficio ciudadano y el desarrollo institucional, y ejecutarlos, conjuntamente con las áreas delegacionales competente, cuando sean aprobados;
-
-VIII. Diseñar y aplicar, conjuntamente con el área delegacional competente, proyectos de innovación administrativa que por su propia naturaleza coadyuven en beneficio de la ciudadanía;
-
-IX. Instrumentar programas de comunicación social, imagen institucional y relaciones públicas;
-
-X. Asegurar la aplicación de las normas, criterios técnicos, lineamientos y metodología que regulen el programa de comunicación social;
-
-XI. Coadyuvar en la vinculación con los diferentes Órganos Políticos Administrativos, a efecto de desarrollar acciones conjuntas para la efectividad y correspondencia de los programas delegacionales, así como para la difusión de los mismos; y
-
-XII. Las demás que instruya el Jefe Delegacional.
+(DEROGADO, G.O. 15 DE ENERO DE 2016)
 
 > <small>(REFORMADO, G.O. 1 DE OCTUBRE DE 2009)</small>
 
@@ -15012,437 +15302,1083 @@ XV. Coordinar y organizar la participación de los vecinos en programas de regul
 
 XVI. Emitir su opinión respecto al control de las Zonificación en cuanto al uso del suelo, opinar sobre la expedición de licencias para ubicación de industrias, fraccionamientos, subdivisiones y para construir ampliar modificar conservar y mejorar inmuebles en zonas incorporadas a los planes parciales aprobados así como en colonias que se ubiquen en suelo urbano.
 
-> <small>(REFORMADA SU DENOMINACIÓN, G.O. 31 DE MARZO DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 15 DE ENERO DE 2016)</small>
 
-#### SECCION XI
+#### SECCIÓN XI
 
-DE LAS ATRIBUCIONES ADICIONALES Y DE LAS DE CARACTER COMUN DE LAS DIRECCIONES GENERALES, DIRECCIONES EJECUTIVAS Y DE LA JEFATURA DE LA OFICINA DEL JEFE DELEGACIONAL DEL ORGANO POLITICO-ADMINISTRATIVO EN MIGUEL HIDALGO
+DE LAS ATRIBUCIONES ADICIONALES Y DE LAS DE CARACTER COMUN DE LAS DIRECCIONES GENERALES, DE LA JEFATURA DE LA OFICINA DEL JEFE DELEGACIONAL Y DE LAS DIRECCIONES EJECUTIVAS DEL ORGANO POLITICO-ADMINISTRATIVO EN MIGUEL HIDALGO
 
-> <small>(REFORMADO, G.O. 31 DE MARZO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 15 DE ENERO DE 2016)</small>
 
 ###### Artículo 169.
 
-Son atribuciones comunes de las direcciones generales de Gobierno y Participación Ciudadana, Jurídica y de Servicios Legales, de Administración, de Obras Públicas y Desarrollo Urbano, de Servicios Urbanos, de Desarrollo Social, de Desarrollo Delegacional y de Seguridad Ciudadana; de la Dirección Ejecutiva de Cultura y de la Jefatura de Oficina de la Jefatura Delegacional, además de las contenidas en el artículo 123, las siguientes:
+Son atribuciones comunes de las Direcciones Generales de Servicios Jurídicos y Gobierno, y de Administración Delegacional además de las contenidas en el artículo 123, así como de la Jefatura de la Oficina del Jefe Delegacional en Miguel Hidalgo, las siguientes:
+
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2010)</small>
 
 I. Expedir, otorgar, supervisar, celebrar y suscribir los convenios, contratos, bases de colaboración y demás actos de carácter administrativo o de cualquier otra índole dentro del ámbito de su competencia, necesarios para el ejercicio de sus funciones y de las unidades administrativas de apoyo técnico que le estén adscritas, así como realizar, sustanciar, promover o acordar lo necesario para que dichos instrumentos jurídicos se cumplan en sus términos;
 
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2010)</small>
+
 II. Participar y colaborar con todas las dependencias en la formulación, planeación y ejecución de los Programas correspondientes en el ámbito de la competencia de dichas dependencias;
+
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2010)</small>
 
 III. Vigilar en el ámbito de su competencia la actuación de las diversas comisiones que se establezcan al interior del órgano político-administrativo;
 
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2010)</small>
+
 IV. Conceder audiencia al público, así como acordar y resolver los asuntos de la competencia de las áreas a su cargo;
+
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2010)</small>
 
 V. Coadyuvar en la coordinación y ejecución de las políticas de la Administración Pública del Distrito Federal, en las materias de su competencia;
 
+> <small>(REFORMADA, G.O. 31 DE MARZO DE 2010)</small>
+
 VI. Establecer los mecanismos de apoyo a solicitudes realizadas por las Direcciones Generales, Ejecutivas y de Área del Órgano Político Administrativo, así como por las autoridades de la administración pública del Distrito Federal en el ámbito de su competencia;
 
-VII. Coordinar los análisis que presente el titular del Órgano Político Administrativo al Jefe de Gobierno respecto del ejercicio de las atribuciones a él conferidas y de los servidores públicos subalternos, y
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
 
-VIII. Proponer el programa anual de honorarios correspondientes a su área, de conformidad con las disposiciones aplicables.
+VII. Coordinar los análisis que presente el titular del Órgano Político Administrativo al Jefe de Gobierno respecto del ejercicio de las atribuciones a él conferidas y de los servidores públicos subalternos;
 
-> <small>(REFORMADO, G.O. 31 DE MARZO DE 2010)</small>
+> <small>(REFORMADA, G.O. 15 DE ENERO DE 2016)</small>
+
+VIII. Proponer el programa anual de honorarios correspondientes a su área, de conformidad con las disposiciones aplicables, y
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+IX. Implementar en las Unidades Administrativas y en las Unidades Administrativas de Apoyo Técnico Operativo el “gobierno de datos abiertos”, a través de la digitalización y publicitación de los procedimientos, trámites y servicios a su cargo, de conformidad con los lineamientos que emita el titular del Órgano Político Administrativo.
+
+> <small>(REFORMADO, G.O. 15 DE ENERO DE 2016)</small>
 
 ###### Artículo 170.
 
-La Dirección General de Gobierno y Participación Ciudadana, tendrá las siguientes atribuciones:
+La Dirección General de Servicios Jurídicos y Gobierno tendrá las siguientes atribuciones:
 
 I. Velar por el cumplimiento de las leyes, reglamentos, decretos, acuerdos, circulares y demás disposiciones jurídicas y administrativas aplicables;
 
-II. Impulsar las políticas para el logro de objetivos definidos en los programas de su competencia, conforme a las leyes y reglamentos en la materia;
+II. Organizar, dirigir, controlar y evaluar el funcionamiento de las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico Operativo que tenga adscritas;
 
-III. Ejercer las atribuciones correspondientes al Órgano Político Administrativo de acuerdo a la normativa aplicable, en relación con la administración, funcionamiento y trámites de los mercados públicos asentados en la demarcación territorial del órgano político-administrativo, y en relación con la supervisión, atención y reordenamiento del comercio en la vía pública que se encuentra dentro del territorio de su competencia;
+III. Solicitar el auxilio de la fuerza pública para la ejecución de sus determinaciones y la realización de las diligencias ordenadas cuando sea procedente;
 
-> <small>(REFORMADA, G.O. 23 DE AGOSTO DE 2012)</small>
+IV. Instrumentar la defensa jurídica de los juicios y procedimientos legales en que sea parte el Órgano Político Administrativo;
 
-IV. Otorgar permisos para el uso de la vía pública sin que se afecte la naturaleza y destino de la misma, siempre que con su otorgamiento no se impida el libre ingreso, tránsito o evacuación, sea peatonal o vehicular, a las instituciones de salud de carácter público o privado; se considera que impide el libre ingreso, tránsito o evacuación, el uso de la vía pública ubicada en cualquier sitio del perímetro de dichas instituciones;
+V. Solicitar a la Dependencia competente, la designación y revocación de apoderados legales que representen al Órgano Político Administrativo ante las instancias judiciales y administrativas, en el ámbito de su competencia y llevar a cabo el control de las designaciones y de las revocaciones;
 
-V. Instalar mesas de diálogo que se propongan para identificar la problemática y las alternativas de solución a los problemas relacionados con el comercio en la vía pública;
+VI. Coordinar el inicio y sustanciación de los diversos procedimientos administrativos que de conformidad con las leyes competan al Órgano Político Administrativo, la emisión de las resoluciones correspondientes y la aplicación, en su caso, de las sanciones previstas en la Ley, así como acordar y hacer efectivas las medidas de apremio a que hubiere lugar para lograr el cumplimiento de las mismas;
 
-VI. Instruir e instrumentar los operativos que se consideren para la recuperación de la vía pública, garantizando el cumplimiento de la normativa aplicable;
+VII. Coordinar el trámite y sustanciación de los procedimientos administrativos correspondientes a recursos de inconformidad y en su caso, resolverlos;
 
-VII. Ordenar y ejecutar las medidas administrativas encaminadas a mantener o recuperar la posesión de bienes del dominio público que detenten particulares, pudiendo ordenar el retiro de obstáculos que impidan su adecuado uso;
+VIII. Coordinar el inicio y sustanciación de los procedimientos administrativos correspondientes a la revocación y anulación de autorizaciones, permisos, licencias y registros en materia de obras, construcciones, establecimientos mercantiles, espectáculos públicos, vía pública, mercados, protección civil, solicitudes de certificación de afirmativas fictas y acciones públicas del Órgano Político Administrativo, la emisión de las resoluciones correspondientes y la aplicación, en su caso, las sanciones previstas en la Ley, así como acordar y ejecutar las medidas de apremio a que hubiere lugar para lograr el cumplimiento de las mismas;
 
-VIII. Instruir e instrumentar el procedimiento de recuperación administrativa de los bienes del dominio público ubicados en la demarcación territorial del Órgano Político Administrativo;
+IX. Coordinar la revisión y dictamen de los convenios, contratos y demás actos jurídicos dentro del ámbito de su competencia, necesarios para el ejercicio de las atribuciones del titular del Órgano Político Administrativo, de los titulares de las Direcciones Generales, Ejecutivas y de Área, adscritas al Órgano Político Administrativo, así como llevar el control de los contratos y convenios que sean suscritos;
 
-IX. Coordinar y supervisar el funcionamiento del Sistema de Comercio en Vía Pública (SISCOVIP) a fin de verificar la recaudación proveniente del comercio en la vía pública que realizan los comerciantes instalados en la demarcación;
+X. Coordinar la prestación de asesoría jurídica gratuita en materias civil, penal, administrativa, laboral y de justicia cívica;
 
-X. Coordinar acciones con las dependencias y entidades de la administración pública del Distrito Federal, a efecto de mejorar el funcionamiento administrativo de los mercados públicos y del comercio en la vía pública, conforme a la normatividad aplicable en la materia;
+XI. Expedir las certificaciones que le soliciten los particulares, siempre y cuando no esté expresamente conferida a otra autoridad administrativa;
 
-XI. Solicitar a las Secretarías, Dependencias, Órganos Desconcentrados y en general a diversas autoridades, la información necesaria a fin de allegarse de los elementos que considere necesarios para hacer cumplir sus funciones;
+XII. Analizar e informar sobre las disposiciones normativas que deba aplicar el Órgano Político Administrativo;
 
-XII. Supervisar la actualización de los padrones de mercados, tianguis, casetas telefónicas y panteones que se encuentren dentro de la demarcación, que desarrollan las Subdirecciones y Unidades Departamentales a su cargo;
+XIII. Autorizar los libros y otros elementos de registro que llevan las Unidades Administrativas y las Unidades Administrativas de Apoyo Técnico Operativo que tenga adscritas;
 
-XIII. Aprobar en función de los recursos humanos, materiales y financieros con los que se cuenta, los mecanismos que se identifiquen para el reordenamiento del comercio en la vía pública;
+XIV. Coordinar y supervisar la guarda y destino de bienes y enseres retirados de la vía pública;
 
-XIV. Prestar servicios funerarios en forma gratuita, cuando se trate de personas indigentes, cuando no haya quien reclame el cadáver o cuando los deudos carezcan de recursos económicos, previa elaboración del estudio socioeconómico correspondiente, realizado por la Jefatura de Unidad Departamental de Panteones;
+XV. Coordinar las actividades en materia de verificación administrativa, ejerciendo las atribuciones del Órgano Político Administrativo en esta materia;
 
-XV. Autorizar la circulación en la demarcación territorial de bicicletas adaptadas y llevar un registro, conforme a la normativa aplicable;
+XVI. Coordinar la emisión de las órdenes de visita de verificación, que correspondan de acuerdo al ámbito de competencia del Órgano Político Administrativo, el trámite de las actas respectivas y su calificación, así como la emisión de la resolución correspondiente;
 
-XVI. Impulsar las políticas de participación ciudadana del órgano político-administrativo, de conformidad con las disposiciones jurídicas y administrativas aplicables;
+XVII. Coordinar las medidas de seguridad establecidas en la Ley de Procedimiento Administrativo del Distrito Federal y el Reglamento de Verificación Administrativa para el Distrito Federal, cuando como resultado de las visitas de verificación administrativa, se constaten hechos o actos que puedan producir un riesgo, en el ámbito de competencia del Órgano Político Administrativo;
 
-XVII. Supervisar la planeación, diseño, promoción, ejecución, seguimiento y control de programas y proyectos que fomenten la participación ciudadana individual y colectiva, basada en una cultura de corresponsabilidad entre el gobierno y la sociedad;
+XVIII. Coordinar el ejercicio de las atribuciones del Órgano Político Administrativo en materia de vigilancia y verificación administrativa sobre el funcionamiento y la observancia de las tarifas en los estacionamientos públicos establecidos en la demarcación del Órgano Político Administrativo, así como para aplicar las sanciones respectivas;
 
-XVIII. Impulsar la organización y participación de la comunidad en el diseño, operación y evaluación de las actividades de beneficio social, mediante la concertación y unión de esfuerzos para lograr mejores condiciones de vida de los habitantes de la Delegación;
+XIX. Coordinar el ejercicio de las atribuciones del Órgano Político Administrativo en materia de vigilancia y verificación administrativa del cumplimiento de las disposiciones en materia ambiental, así como de aplicación de las sanciones que correspondan cuando se trate de actividades o establecimientos cuya vigilancia no corresponda a las Dependencias centrales, de conformidad con la normativa ambiental aplicable;
 
-XIX. Promover la resolución de conflictos a través del diálogo permanente y del consenso entre los distintos actores, fomentando una cultura de transparencia, igualdad, tolerancia, equidad y respeto;
+XX. Coordinar el ejercicio de las atribuciones del Órgano Político Administrativo en materia de vigilancia y verificación administrativa del cumplimiento de las disposiciones en materia de construcciones, así como para la aplicación de las sanciones que correspondan, en los términos de la Ley del Instituto de Verificación Administrativa del Distrito Federal y demás disposiciones aplicables;
 
-XX. Promover una coordinación armónica y permanente con los Comités Vecinales, organizaciones ciudadanas y otras asociaciones que existan en la Delegación Miguel Hidalgo;
+XXI. Coordinar el ejercicio de las atribuciones del Órgano Político Administrativo en materia de vigilancia y verificación administrativa del cumplimiento de las disposiciones en materia de protección civil, la aplicación de las medidas de seguridad y de apremio así como de las sanciones establecidas en la Ley del Sistema de Protección Civil del Distrito Federal, Ley de Procedimiento Administrativo del Distrito Federal, Ley del Instituto de Verificación Administrativa del Distrito Federal y el Reglamento de Verificación Administrativa para el Distrito Federal, cuando como resultado de las visitas de verificación administrativa en materia de protección civil, se constaten hechos o actos que puedan producir un riesgo o perjuicio en las instalaciones, integridad de las personas y su entorno;
 
-XXI. Fomentar el acercamiento entre vecinos y Delegación, a través de programas específicos, recorridos, audiencias públicas, asambleas u otros mecanismos, de conformidad con lo establecido en la normatividad aplicable;
+XXII. Coordinar y ejecutar las actividades de verificación administrativa que, de acuerdo con la Ley del Instituto de Verificación Administrativa del Distrito Federal, correspondan al Órgano Político Administrativo en materia de protección civil;
 
-XXII. Vigilar que la información relativa a la calendarización y seguimiento de los programas, recorridos, audiencias públicas, asambleas y otros mecanismos de participación esté permanentemente al alcance de la ciudadanía;
+XXIII. Organizar, supervisar y controlar las acciones de colaboración con las Dependencias competentes en acciones en materia de expropiación, ocupación total o parcial de bienes, en los términos de las disposiciones jurídicas y administrativas aplicables;
 
-XXIII. Promover el establecimiento de espacios permanentes de discusión vecinal que permitan proponer, integrar y consensuar de manera conjunta los problemas, así como conocer y reconocer las necesidades más imperiosas de la demarcación;
+XXIV. Coordinar la vigilancia al interior de la demarcación del órgano político administrativo del cumplimiento de las políticas demográficas que al efecto fije la Secretaría de Gobierno y el Consejo de Población del Distrito Federal, rindiendo un informe al titular del Órgano Político Administrativo;
 
-XXIV. Tomar conocimiento sobre las consultas del parecer ciudadano con respecto a la realización de eventos, fiestas patronales, romerías y otras actividades a realizarse en la vía pública, a solicitud de las áreas delegacionales competentes;
+XXV. Proporcionar, en coordinación con las autoridades federales competentes, los servicios de filiación para identificar a los habitantes de la demarcación territorial y coordinar la expedición de certificados de residencia a personas que tengan su domicilio dentro de los límites de la demarcación del Órgano Político Administrativo;
 
-XXV. Vigilar al interior de la demarcación territorial del órgano político-administrativo el cumplimiento de las políticas demográficas que al efecto fije la Secretaría de Gobierno y el Consejo de Población del Distrito Federal, rindiendo un informe al titular del órgano político-administrativo;
+XXVI. Coordinar la intervención del Órgano Político Administrativo en las Juntas de Reclutamiento del Servicio Militar Nacional;
 
-XXVI. Promover la relación y la celebración de convenios con instituciones públicas y privadas, con organismos civiles y sociales, así como con organizaciones políticas, en beneficio de la ciudadanía de la Delegación Miguel Hidalgo;
+XXVII. Coordinar el ejercicio de las atribuciones correspondientes al Órgano Político Administrativo de acuerdo a la normativa aplicable, en relación con la administración, funcionamiento y trámites de los mercados públicos asentados en la demarcación del Órgano Político Administrativo, y en relación con la supervisión, atención y reordenamiento del comercio en la vía pública que se encuentra dentro de la demarcación del Órgano Político Administrativo;
 
-XXVII. Promover la creación de redes de comunicación y coordinación con otras instancias gubernamentales locales y federales, los poderes legislativo y judicial, así como en el ámbito internacional, con el fin de intercambiar experiencias, conocimientos y recursos en la búsqueda de una participación ciudadana efectiva y eficaz;
+XXVIII. Coordinar el otorgamiento de permisos para el uso de la vía pública sin que se afecte la naturaleza y destino de la misma, siempre que con su otorgamiento no se impida el libre ingreso, tránsito o evacuación, sea peatonal o vehicular, a las Instituciones de Salud de carácter público o privado o a cualquier inmueble público o privado; se considera que impide el libre ingreso, tránsito o evacuación, el uso de la vía pública en cualquier sitio del perímetro de dichas instituciones o inmuebles;
 
-XXVIII. Realizar las gestiones necesarias ante las autoridades competentes para la implementación y adecuación de las acciones de operación en situaciones de alto riesgo, emergencia, siniestro o desastre registradas dentro de la jurisdicción de la Delegación, así como la orientación a los solicitantes de vivienda nueva para acceder a los programas de apoyo locales y federales;
+XXIX. Coordinar los procedimientos y operativos para la recuperación de la vía pública, garantizando el cumplimiento de la normativa aplicable;
 
-XXIX. Promover las relaciones públicas de la oficina de la Jefatura Delegacional con embajadas, gobiernos federal, estatales y municipales; Senado de la República, Cámara de Diputados y Asamblea Legislativa del Distrito Federal, organizaciones empresariales, políticas y ciudadanas, así como con organizaciones no gubernamentales;
+XXX. Coordinar el procedimiento de recuperación administrativa de los bienes del dominio público ubicados en la demarcación del Órgano Político Administrativo;
 
-XXX. Suplir en los términos de la fracción I del artículo 25 del presente reglamento, las ausencias temporales del titular del órgano político administrativo en Miguel Hidalgo, y
+XXXI. Coordinar las medidas administrativas encaminadas a mantener o recuperar la posesión de bienes del dominio público que detenten particulares, pudiendo ordenar el retiro de obstáculos que impidan su adecuado uso;
 
-XXXI. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como los que se establezcan en las disposiciones jurídicas vigentes y los manuales administrativos.
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
 
-> <small>(REFORMADO, G.O. 31 DE MARZO DE 2010)</small>
+XXXII. Coordinar y supervisar la emisión y notificación de las resoluciones definitivas en los procedimientos de recuperación administrativa a que se refieren las fracciones XXX y XXXI del presente artículo;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXXIII. Coordinar y supervisar el funcionamiento del Sistema de Comercio en Vía Pública (SISCOVIP) a fin de verificar la recaudación proveniente del comercio en la vía pública que realizan los comerciantes instalados en la demarcación del Órgano Político Administrativo;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXXIV. Coordinar acciones con las Dependencias y Entidades de la Administración Pública del Distrito Federal, en materia de mercados púbicos y comercio en vía pública; conforme a la normatividad aplicable en la materia;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXXV. Proponer y administrar las cuotas por aprovechamientos por el uso de sanitarios instalados en mercados públicos ubicados en el territorio del Órgano Político Administrativo;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXXVI. Coordinar la actualización de los padrones de mercados, tianguis y casetas telefónicas que se encuentren dentro de la demarcación del Órgano Político Administrativo;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXXVII. Administrar los panteones públicos que se ubiquen en la demarcación territorial, en términos de las disposiciones aplicables así como mantener actualizados los padrones de dichos panteones;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXXVIII. Emitir y ejecutar mecanismos para el reordenamiento del comercio en la vía pública de la demarcación del Órgano Político Administrativo;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXXIX. Tomar conocimiento sobre las consultas del parecer ciudadano con respecto a la realización de eventos, fiestas patronales, romerías y otras actividades a realizarse en la vía pública;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XL. Organizar, vigilar y controlar, de acuerdo a la normativa aplicable, el ejercicio de las atribuciones del Órgano Político Administrativo en materia de autorizaciones para la celebración de espectáculos públicos y eventos en general, así como de los avisos para la presentación de espectáculos públicos;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XLI. Organizar, vigilar y controlar el ejercicio de las atribuciones del Órgano Político Administrativo en materia de autorizaciones de los horarios para el acceso a las diversiones y espectáculos públicos, vigilancia de su desarrollo y en general, del cumplimiento de las disposiciones jurídicas y administrativas aplicables;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XLII. Organizar, vigilar y controlar el ejercicio de las atribuciones del Órgano Político Administrativo en materia de permisos y autorizaciones de funcionamiento de los establecimientos mercantiles establecidos en la demarcación del Órgano Político Administrativo de conformidad con las Leyes y Reglamentos aplicables;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XLIII. Coordinar la integración y actualización permanente de una base de datos, del padrón de los establecimientos mercantiles que funcionen en la demarcación del Órgano Político Administrativo, así como la digitalización de los documentos que conforman el expediente de cada establecimiento mercantil;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XLIV. Coordinar en el ámbito de su competencia, el otorgamiento de autorizaciones para el funcionamiento del servicio de acomodadores de vehículos en los establecimientos mercantiles a que se refiere la fracción anterior;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XLV. Coordinar el ejercicio de las atribuciones del Órgano Político Administrativo en materia de autorizaciones para la ubicación, construcción, funcionamiento y tarifas de los estacionamientos públicos, de conformidad con las normas que emita la Secretaría de Movilidad;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XLVI. Organizar, supervisar y controlar el ejercicio de las atribuciones del Órgano Político Administrativo en materia de autorizaciones de los informes preventivos, así como las relativas a conocer y gestionar las manifestaciones de impacto ambiental que en relación a construcciones y establecimientos soliciten los particulares, de conformidad con las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XLVII. Organizar, supervisar y controlar el registro de las manifestaciones de construcción y su prórroga así como el registro de las obras ejecutadas sin la manifestación de construcción así como la digitalización de los documentos que conforman cada uno de los expedientes relativos;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XLVIII. Organizar, supervisar y controlar la expedición de licencias de construcción especial y sus prórrogas, y ejercer las demás atribuciones que se le otorguen al Órgano Político Administrativo en materia de construcciones;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XLIX. Organizar, supervisar y controlar el otorgamiento de licencias y autorizaciones temporales en materia de anuncios, previo dictamen de la Secretaría de Desarrollo Urbano y Vivienda en su caso;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+L. Organizar, supervisar y controlar la expedición de licencias de fusión, subdivisión y relotificación de predios;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+LI. Organizar, supervisar y controlar la expedición de constancias de alineamiento y número oficial;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+LII. Organizar, supervisar y controlar el ejercicio de las atribuciones del Órgano Político Administrativo en materia de autorizaciones de uso y ocupación de inmuebles;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+LIII. Coordinar la evaluación de los Programas Internos y Especiales de Protección Civil en términos de las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+LIV. Coordinar el funcionamiento de la Ventanilla Única Delegacional;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+LV. Requerir a las Direcciones Generales, Direcciones Ejecutivas, Direcciones de Área, Subdirecciones, Jefaturas de Unidad Departamental, Líderes Coordinadores de Proyecto, Enlaces, Unidades Administrativas de Apoyo Técnico Operativo y personal del Órgano Político Administrativo, los informes, dictámenes, documentación, objetos, apoyo técnico y demás elementos necesarios, para la defensa de los intereses del Gobierno del Distrito Federal y del Órgano Político Administrativo;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+LVI. Instalar mesas de diálogo para identificar la problemática y las alternativas de solución a los problemas relacionados con el comercio en la vía pública;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+LVII. Promover la resolución de conflictos a través del diálogo permanente entre los distintos actores, fomentando la cultura de la legalidad, transparencia, igualdad, tolerancia, equidad y respeto;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+LVIII. Promover el establecimiento de espacios permanentes de discusión vecinal que permitan identificar y proponer alternativas para la solución de los problemas así como conocer y reconocer las necesidades de los habitantes de la demarcación;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+LIX. Promover la relación y la celebración de convenios con instituciones públicas y privadas así como con organismos civiles y sociales,
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+LX. Suplir en los términos de la fracción I del artículo 25 del presente Reglamento, las ausencias temporales del titular del Órgano Político Administrativo en Miguel Hidalgo, y
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+LXI. Las demás que de manera directa le asigne el titular del Órgano Político Administrativo, así como las que se establezcan en las disposiciones jurídicas vigentes y los manuales administrativos.
+
+> <small>(REFORMADO, G.O. 15 DE ENERO DE 2016)</small>
 
 ###### Artículo 171.
 
-La Dirección General de (sic) Jurídica y Servicios Legales, tendrá las siguientes atribuciones:
+La Dirección General de Administración Delegacional, tendrá las siguientes atribuciones:
 
-I. Velar por el cumplimiento de las Leyes, Reglamentos, Decretos, Acuerdos, Circulares y demás disposiciones jurídicas y administrativas;
+I. Organizar, dirigir, controlar y evaluar el funcionamiento de las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo que tenga adscritas;
 
-II. Proporcionar, en coordinación con las autoridades federales competentes, los servicios de filiación para identificar a los habitantes de la demarcación territorial y expedir certificados de residencia a personas que tengan su domicilio dentro de los límites de la demarcación territorial;
+II. Dirigir la prestación de los servicios de limpia en sus etapas de barrido de áreas comunes, vialidad y demás vías públicas, así como de recolección de residuos sólidos que se realicen por cuenta propia del Órgano Político Administrativo o a través de tercero;
 
-III. Intervenir en las juntas de reclutamiento del Servicio Militar Nacional;
+III. Llevar a cabo los operativos y acciones que resulten necesarios para la erradicación de tiraderos clandestinos de residuos sólidos;
 
-IV. Prestar asesoría jurídica gratuita en materia civil, penal, administrativa y del trabajo, en beneficio de los habitantes de la demarcación territorial;
+IV. Dirigir la prestación del servicio de alumbrado público en las vialidades secundarias así (sic) el mantenimiento de sus instalaciones en buen estado y funcionamiento, de conformidad con la normativa que al efecto expida la autoridad competente;
 
-V. Dotar de servicios para la operación y funcionamiento de los Juzgados Cívicos y los Juzgados del Registro Civil;
+V. Instrumentar y dirigir la ejecución de los programas delegacionales de obras para el abastecimiento de agua potable y servicio de drenaje y alcantarillado a partir de redes secundarias, conforme a la autorización y normas que al efecto expida la autoridad competente;
 
-VI. Emitir las resoluciones definitivas del procedimiento de recuperación administrativa que conforme a derecho procedan, notificando al o los interesados;
+VI. Dirigir la prestación en la demarcación territorial los servicios de suministro de agua potable y alcantarillado, que no estén asignados a otra Dependencia o Entidad;
 
-VII. Ejercer las funciones de vigilancia y verificación administrativa sobre el funcionamiento y la observancia de las tarifas en los estacionamientos públicos establecidos en su jurisdicción, así como aplicar las sanciones respectivas;
+VII. Instrumentar y dirigir la ejecución de obras para la recuperación, mantenimiento, protección y conservación de los diferentes elementos del Sistema Hídrico localizados en el territorio del Órgano Político Administrativo, conforme a las bases de colaboración que se suscriban con las Entidades o Dependencias responsables;
 
-VIII. Vigilar y verificar administrativamente el cumplimiento de las disposiciones en materia ambiental, así como aplicar las sanciones que correspondan cuando se trate de actividades o establecimientos cuya vigilancia no corresponda a las dependencias centrales, de conformidad con la normatividad ambiental aplicable;
+VIII. Coordinar el mantenimiento a los monumentos públicos, plazas típicas o históricas, y obras de ornato, propiedad del Distrito Federal, así como participar, en los términos del Estatuto y de los convenios correspondientes, en el mantenimiento de aquellos de propiedad federal, que se encuentren dentro de la demarcación territorial;
 
-IX. Coordinar las actividades en materia de verificación administrativa, ejerciendo las atribuciones del Órgano Político Administrativo en esta materia;
+IX. Dirigir las acciones de construcción, mantenimiento y rehabilitación de parques públicos, mercados públicos, camellones, vialidades secundarias, guarniciones, banquetas, puentes, pasos peatonales, ciclovías y reductores de velocidad en vialidades primarias y secundarias en la demarcación, con base en las disposiciones jurídicas y administrativas aplicables que determinen las Dependencias;
 
-X. Emitir las órdenes de visita de verificación que correspondan de acuerdo al ámbito de competencia del Órgano Político Administrativo, levantando las actas por violaciones a las mismas, calificarlas e imponiendo las sanciones que corresponda, excepto las de carácter fiscal;
+X. Dirigir las acciones de limpieza y de rehabilitación y mantenimiento de las áreas verdes de los panteones públicos a cargo del Órgano Político Administrativo;
 
-XI. Decretar y ejecutar las medidas de seguridad establecidas en la Ley de Procedimiento Administrativo del Distrito Federal y el Reglamento de Verificación Administrativa para el Distrito Federal, cuando como resultado de las visitas de verificación administrativa se constaten hechos o actos que puedan producir un riesgo, en el ámbito de competencia del órgano político administrativo;
+XI. Dirigir las acciones de rehabilitación y mantenimiento de escuelas, así como las de construcción, mantenimiento y rehabilitación de bibliotecas, museos y demás centros de servicio social, cultural y deportivo a cargo del Órgano Político Administrativo;
 
-XII. Instrumentar la defensa jurídica de los juicios y procedimientos legales en que sea parte el Órgano Político Administrativo;
+XII. Coordinar los actos relativos a la contratación de obras públicas y/o servicios relacionados con las mismas y a su ejecución, a cargo del Órgano Político Administrativo;
 
-XIII. Iniciar y substanciar los diversos procedimientos administrativos, que con razón de los ordenamientos legales competan al Órgano Político Administrativo, emitiendo las resoluciones correspondientes y aplicando, en su caso, las sanciones previstas en la Ley, pudiendo inclusive acordar las medidas de apremio a que hubiere lugar para lograr el cumplimiento de las mismas;
+XIII. Establecer, ejecutar y vigilar el Programa de Seguridad Pública del Órgano Político Administrativo en coordinación con las Dependencias competentes;
 
-XIV. Tramitar y substanciar los procedimientos administrativos correspondientes a recursos de inconformidad del Órgano Político Administrativo;
+XIV. Establecer y organizar el Comité de Seguridad Pública, en los términos de las disposiciones jurídicas aplicables;
 
-XV. Iniciar y substanciar los procedimientos administrativos correspondientes a la revocación y anulación de autorizaciones, permisos, licencias y registros en materia de obras, construcciones, establecimientos mercantiles, espectáculos públicos, vía pública, mercados, protección civil, solicitudes de certificación de afirmativas fictas y acciones públicas del Órgano Político Administrativo, emitiendo las resoluciones correspondientes y aplicando, en su caso las sanciones previstas en la Ley, pudiendo inclusive acordar las medidas de apremio a que hubiere lugar para lograr el cumplimiento de las mismas;
+XV. Ejecutar las Políticas Generales de Seguridad Pública que al efecto establezca el Jefe de Gobierno;
 
-XVI. Revisar y dictaminar los convenios, contratos y demás actos jurídicos dentro del ámbito de su competencia necesaria para el ejercicio de las atribuciones del titular del Órgano Político Administrativo, de los titulares de las Direcciones Generales, Ejecutivas y de Área, adscritas al Órgano Político Administrativo;
+XVI. Emitir opinión respecto al nombramiento del Jefe de Sector de Policía en la demarcación del Órgano Político-Administrativo;
 
-XVII. Aplicar las sanciones contenidas en las disposiciones en materia de Protección Civil que correspondan y no estén asignadas a otras dependencias;
+XVII. Presentar ante el Secretario competente los informes o quejas sobre la actuación y comportamiento de los miembros de los cuerpos de seguridad, respecto de actos que presuntamente contravengan las disposiciones, para su remoción conforme a los procedimientos legalmente establecidos;
 
-XVIII. Solicitar el auxilio de la fuerza pública para la ejecución de sus diligencias cuando sea procedente;
+XVIII. Proponer a la Dependencia competente, la aplicación de las acciones respectivas con la finalidad de mejorar la vialidad, circulación y seguridad del tránsito vehicular y peatones en las vialidades de la demarcación del Órgano Político Administrativo;
 
-XIX. Colaborar con las Dependencias competentes en acciones en materia de expropiación, en los términos de las disposiciones jurídicas y administrativas aplicables;
+XIX. Coadyuvar con el Cuerpo de Bomberos y el de rescate del Distrito Federal, para la prevención y extinción de incendios y demás agentes perturbadores que pongan en peligro la integridad física y patrimonial de la ciudadanía residente y flotante de la demarcación del Órgano Político Administrativo;
 
-XX. Autorizar de acuerdo a la normativa aplicable la celebración de espectáculos públicos y eventos en general;
+XX. Ejecutar en coordinación con las Dependencias competentes el Programa Delegacional de Protección Civil;
 
-XXI. Autorizar los horarios para el acceso de las diversiones y espectáculos públicos, vigilar su desarrollo, y en general el cumplimiento de las disposiciones jurídicas y administrativas aplicables;
+XXI. Coordinar acciones de participación ciudadana en materia de prevención del delito;
 
-XXII. Elaborar y mantener actualizado el padrón de los giros mercantiles que funcionen en la jurisdicción y otorgar las licencias y autorizaciones de funcionamiento de los giros sujetos a las Leyes y Reglamentos aplicables;
+XXII. Coordinar y dirigir el desarrollo de métodos de acopio, almacenamiento y análisis de la información delictiva;
 
-XXIII. Autorizar, en el ámbito de su competencia, el funcionamiento del servicio de acomodadores de vehículos en los giros mercantiles a que se refiere la fracción anterior;
+XXIII. Coadyuvar con las Dependencias que resulten competentes, en las tareas de seguridad pública y protección civil en la Delegación;
 
-XXIV. (DEROGADA, G.O. 8 DE SEPTIEMBRE DE 2010)
+XXIV. Proponer, dirigir e impulsar los programas en materia de seguridad pública, prevención del delito, cultura de la legalidad, protección civil y salud a desarrollarse en la Delegación Miguel Hidalgo;
 
-XXV. Solicitar a la Dependencia competente la designación y revocación de apoderados legales que representen al Órgano Político Administrativo ante las instancias judiciales y administrativas, en el ámbito de su competencia;
+XXV. Proponer medidas y acciones necesarias con las autoridades del Distrito Federal y demás niveles de gobierno, para preservar la integridad de la ciudadanía, ante condiciones y circunstancias de seguridad pública y protección civil;
 
-XXVI. Analizar e informar sobre las disposiciones normativas que deba de aplicar el Órgano Político Administrativo, y
+XXVI. Participar en la concertación y coordinación con los sectores público, social y privado las acciones en apoyo a la seguridad de la ciudadanía;
 
-XXVII. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como los que se establezcan en las disposiciones jurídicas vigentes y los manuales administrativos.
+XXVII. Realizar las gestiones necesarias ante las autoridades competentes para la implementación y adecuación de las acciones de operación en situaciones de alto riesgo, emergencia, siniestro o desastre registradas en la demarcación del Órgano Político Administrativo;
 
-> <small>(REFORMADO, G.O. 31 DE MARZO DE 2010)</small>
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXVIII. Implementar acciones de preservación y restauración del equilibrio ecológico, así como la protección al ambiente desde su demarcación territorial, de conformidad con la normativa ambiental;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXIX. Instrumentar programas o llevar a cabo acciones o medidas encaminadas a la transformación de desechos orgánicos producto de poda y residuos sólidos domiciliarios en composta;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXX. Difundir los programas y estrategias relacionados con la preservación del equilibrio ecológico y la protección al ambiente, en coordinación con la Secretaría del Medio Ambiente;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXXI. Promover la educación y participación comunitaria, social y privada para la preservación y restauración de los recursos naturales y la protección al ambiente;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXXII. Participar con propuestas para la elaboración del Programa General de Desarrollo del Distrito Federal y en los Programas Especiales, que se discutan y elaboren en el seno del Comité de Planeación para el Desarrollo del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXXIII. Planear y dirigir acciones tendientes a la promoción turística de la demarcación del Órgano Político Administrativo y del Distrito Federal en coordinación con las áreas centrales correspondientes;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXXIV. Establecer, promover, fomentar y ejecutar los proyectos productivos, que en la demarcación del Órgano Político Administrativo, protejan e incentiven el empleo, de acuerdo a los programas, lineamientos y políticas que en materia de fomento, desarrollo e inversión económica emitan las Dependencias correspondientes;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXXV. Promover y coordinar la instalación, funcionamiento y seguimiento de los Subcomités de Desarrollo Económico Delegacionales, apoyando iniciativas de inversión para impulsar a los sectores productivos de su zona de influencia.
+
+Asimismo, ejecutar la normativa que regule, coordine y dé seguimiento a dichos Subcomités;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXXVI. Establecer y ejecutar en coordinación con la Secretaría de Desarrollo Económico, las acciones que permitan coadyuvar a la modernización de las micro y pequeñas empresas de la demarcación;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXXVII. Promover la participación en el Comité de Fomento Cooperativo de la demarcación territorial, de los Órganos representativos de las actividades económicas;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXXVIII. Establecer acciones tendientes a la promoción de proyectos de inversión que contribuyan al crecimiento económico, la protección y la generación de empleos;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXXIX. Coadyuvar en la promoción y desarrollo de la microempresa, propiciando la participación de diversos sectores, en proyectos viables de desarrollo económico, en atención a las características económicas y poblacionales de la demarcación territorial;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XL. Establecer, promover, fomentar y ejecutar los proyectos productivos, que en la demarcación del Órgano Político-Administrativo, protejan e incentiven el empleo, de acuerdo a los programas, lineamientos y políticas que en materia de fomento, desarrollo e inversión económica emitan las dependencias correspondientes;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XLI. Coordinar el desarrollo de proyectos educativos que contribuyan al sano esparcimiento y al desarrollo de los niños y jóvenes;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XLII. Coordinar y evaluar las actividades deportivas, de educación física y recreación que se realicen en las instalaciones del Órgano Político Administrativo;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XLIII. Coordinar la implementación de programas de apoyo a los diversos deportes que se practiquen en la demarcación del Órgano Político Administrativo, en coordinación con las autoridades competentes;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XLIV. Dirigir la ejecución de programas de apoyo a la juventud en coordinación con las Dependencias e instituciones públicas y privadas respectivas;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XLV. Coordinar el adecuado funcionamiento de escuelas, bibliotecas, museos y demás centros de servicio social, cultural y deportivo que estén a cargo del Órgano Político Administrativo;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XLVI. Coordinar la administración de los centros sociales e instalaciones recreativas y de capacitación para el trabajo, así como de los centros deportivos cuya administración no esté reservada a otra Unidad Administrativa;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XLVII. Coordinar la Administración de los Centros de Desarrollo Infantil en coordinación con la Dependencia respectiva;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XLVIII. Dirigir la prestación de servicios funerarios que se otorgarán en forma gratuita, cuando se trate de personas indigentes, cuando no haya quien reclame el cadáver o cuando los deudos carezcan de recursos económicos, previa elaboración del estudio socioeconómico correspondiente;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XLIX. Coordinar la realización de campañas de salud pública y la prestación de los servicios médicos asistenciales en coordinación con autoridades federales y locales, instituciones públicas o privadas y con particulares en la demarcación del Órgano Político-Administrativo;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+L. Dirigir la promoción e implementación de los programas de salud, así como campañas para prevenir y combatir la farmacodependencia, el alcoholismo, la violencia o la desintegración familiar, en el ámbito de su demarcación territorial;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+LI. Dirigir la implementación y ejecución de Programas de Desarrollo Social en la demarcación del Órgano Político Administrativo;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+LII. Impulsar el desarrollo de Programas encaminados a la realización de actividades culturales, tales como, danza, teatro, música, artes plásticas y literarias;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+LIII. Coordinar la implementación y ejecución de Programas para el desarrollo de las habilidades artísticas y para el fomento cultural;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+LIV. Coordinar la operación y funcionamiento del Centro de Servicios y Atención Ciudadana del Órgano Político Administrativo;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+LV. Recibir, atender y dar seguimiento a las quejas sobre la prestación de servicios públicos y solicitudes de servicios públicos en la demarcación del Órgano Político Administrativo;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+LVI. Establecer y ejecutar los Programas de Simplificación Administrativa, Modernización y mejoramiento de atención al público, tomando en cuenta la opinión y lineamientos que al efecto dicten la Oficialía Mayor y la Contraloría General;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+LVII. Implementar el sistema de gestión digital Delegacional, en términos de la Ley de Gobierno Electrónico del Distrito Federal:
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+LVIII. Suplir en los términos de la fracción I del artículo 25 del presente Reglamento, las ausencias temporales del titular del Órgano Político Administrativo, y
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+LIX. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como los que se establezcan en las disposiciones jurídicas vigentes y los manuales administrativos.
+
+> <small>(REFORMADO, G.O. 15 DE ENERO DE 2016)</small>
 
 ###### Artículo 172.
 
-La Dirección General de Administración tendrá además de las previstas en el artículo 125, las siguientes atribuciones:
+La Jefatura de la Oficina del Jefe Delegacional, tendrá las siguientes atribuciones:
 
-I. Integrar los Programas que servirán de base para la elaboración del anteproyecto de presupuesto de Egresos y el Programa Operativo anual correspondiente;
-
-II. Expedir las disposiciones complementarias para la Administración de los recursos humanos, materiales, financieros y los bienes muebles e inmuebles asignados al Órgano Político Administrativo, de conformidad con la normativa que al efecto expidan las Dependencias competentes;
-
-III. Ejercer y atender las atribuciones conferidas al Órgano Político Administrativo y al Jefe Delegacional, que no sean de las consideradas de manera expresa como indelegables en la Ley de Adquisiciones para el Distrito Federal, y de Adquisiciones, Arrendamientos y Servicios del Sector Público, Ley de Presupuesto y Gasto Eficiente del Distrito Federal, Decreto de Presupuesto de Egresos para el ejercicio fiscal de que se trate, Circular Uno Bis en materia de administración de Recursos, Reglas para el control y manejo de los ingresos que se recauden por concepto de aprovechamientos y productos que se asignen a las Dependencias, Delegaciones y Órganos Desconcentrados que los generen, mediante el mecanismo de aplicación automática de recursos, en el ámbito de su competencia;
-
-IV. Suscribir los contratos, convenios y demás actos jurídicos de carácter administrativo o de cualquier otra índole dentro del ámbito de su respectiva competencia, relativos a los procesos de licitación y adjudicación de bienes y servicios, en términos de la legislación aplicable en la materia, sin perjuicio del ejercicio directo del Titular del Órgano Político-Administrativo;
-
-V. Coordinar y supervisar el Comité Delegacional de Adquisiciones, Arrendamientos y Prestación de Servicios a que se refiere la Ley de Adquisiciones para el Distrito Federal, y presidir las sesiones ordinarias y extraordinarias en suplencia del Jefe Delegacional en los términos de las disposiciones legales aplicables en la materia;
-
-VI. Suscribir la solicitud de la emisión del dictamen de porcentaje de integración nacional requerido para los bienes o servicios importados necesarios para el cumplimiento de las facultades conferidas al Órgano Político Administrativo, en estricto cumplimiento a la Ley de Adquisiciones para el Distrito Federal;
-
-VII. Gestionar ante el titular del Órgano Político-Administrativo la autorización para la adquisición de bienes y servicios informáticos, previa presentación del estudio técnico del titular del área de informática de la Delegación, en términos de la Circular Uno Bis en materia de administración de recursos;
-
-VIII. Gestionar ante el titular del Órgano Político-Administrativo la autorización para adquirir bienes restringidos en términos de lo dispuesto por el Decreto de Presupuesto de Egresos para el ejercicio fiscal de que se trate;
-
-IX. Cumplir con la obligación de cubrir las contribuciones federales y locales correspondientes, con cargo al presupuesto de la Delegación y de conformidad con las disposiciones aplicables, en términos de lo dispuesto por el Decreto de Presupuesto de Egresos para el ejercicio fiscal de que se trate;
-
-X. Expedir y remitir oportunamente a la Secretaría de Finanzas del Distrito Federal, la información necesaria para que la Oficialía Mayor del Distrito Federal cumpla dentro de los plazos legales con la obligación de tramitar la declaración del Impuesto al Valor Agregado, así como enviar correcta y oportunamente a la propia Oficialía Mayor la información necesaria para que ésta cumpla dentro de los plazos legales con la obligación de tramitar ante la mencionada Secretaría de Finanzas el pago del Impuesto Sobre la Renta, en términos de lo dispuesto por el Decreto de Presupuesto de Egresos para el ejercicio fiscal de que se trate;
-
-XI. Promover ante el Jefe Delegacional la autorización para la contratación de trabajadores eventuales en términos de los lineamientos expedidos por la Oficialía Mayor, y
-
-XII. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como los que se establezcan en las disposiciones jurídicas vigentes y los manuales administrativos.
-
-> <small>(REFORMADO [N. DE E. ADICIONADO], G.O. 31 DE MARZO DE 2010)</small>
-
-###### Artículo 172 Bis.
-
-La Dirección General de Obras Públicas y Desarrollo Urbano tendrá, además de las previstas en el artículo 126, las siguientes atribuciones:
-
-I. Convocar y sustanciar de conformidad con la normativa aplicable, los concursos y licitaciones para la realización de obra pública y/o servicios relacionados con la misma, a cargo del Órgano Político-Administrativo;
-
-II. Autorizar estimaciones derivadas de obras públicas por contrato o servicios relacionados con las mismas;
-
-III. Autorizar el pago de gastos financieros en caso de incumplimiento en los pagos de estimaciones y de ajustes de costos;
-
-IV. Informar a las Unidades Administrativas de la Delegación Miguel Hidalgo, sobre el incumplimiento en los contratos de Obra Pública, a fin de que realicen las acciones que en el ámbito de sus respectivas competencias correspondan;
-
-V. Proponer al titular de la Delegación, la rescisión administrativa en caso de incumplimiento de las obligaciones a cargo del contratista o la terminación anticipada de los contratos cuando concurran razones de interés general;
-
-VI. Llevar a cabo las acciones de planeación urbana que correspondan a la demarcación;
-
-VII. Autorizar los informes preventivos, así como conocer y gestionar las manifestaciones de impacto ambiental que en relación a construcciones y establecimientos soliciten los particulares, en el ámbito de competencia de la Delegación y de conformidad con las disposiciones jurídicas aplicables;
-
-VIII. Presentar a la Secretaría de Desarrollo Urbano y Vivienda y a los organismos que correspondan, Programas de Vivienda que beneficien a la población de su demarcación territorial, así como realizar su promoción y gestión;
-
-IX. Autorizar el uso y ocupación de inmuebles;
-
-X. Proponer las modificaciones al Programa Delegacional y a los Programas parciales de Desarrollo Urbano, de su demarcación territorial;
-
-XI. Participar con propuestas para la elaboración del Programa General de Desarrollo del Distrito Federal y en los Programas Especiales, que se discutan y elaboren en el seno del Comité de Planeación para el Desarrollo del Distrito Federal, y
-
-XII. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como los que se establezcan en las disposiciones jurídicas vigentes y los manuales administrativos.
-
-> <small>(ADICIONADO, G.O. 31 DE MARZO DE 2010)</small>
-
-###### Artículo 172 Ter.
-
-La Dirección General de Servicios Urbanos tendrá, además de las establecidas en el artículo 127, las siguientes atribuciones:
-
-I. Coordinar el mantenimiento a los monumentos públicos, plazas típicas o históricas, y obras de ornato, propiedad del Distrito Federal, así como participar, en los términos del Estatuto y de los convenios correspondientes, en el mantenimiento de aquellos de propiedad federal, que se encuentren dentro de su demarcación territorial;
-
-II. Coordinar el mantenimiento y rehabilitación de los parques públicos que se encuentran a su cargo, de conformidad con la normatividad que al efecto expidan las dependencias competentes;
-
-III. Rehabilitar y mantener las vialidades secundarias, guarniciones, banquetas, puentes, pasos peatonales y reductores de velocidad en vialidades primarias y secundarias en su demarcación, con base en las disposiciones jurídicas y administrativas aplicables que determinen las dependencias;
-
-IV. Prestar en su demarcación territorial los servicios de suministro de agua potable y alcantarillado, que no estén asignados a otra dependencia o entidad, atendiendo a los lineamientos que al efecto expida la autoridad competente, así como analizar y emitir opinión en relación con las tarifas correspondientes; y
-
-V. Implementar acciones de preservación y restauración del equilibrio ecológico, así como la protección al ambiente desde su demarcación territorial, de conformidad con la normatividad ambiental;
-
-VI. Difundir los programas y estrategias relacionados con la preservación del equilibrio ecológico y la protección al ambiente, en coordinación con la Secretaría del Medio Ambiente;
-
-VII. Promover la educación y participación comunitaria, social y privada para la preservación y restauración de los recursos naturales y la protección al ambiente;
-
-VIII. Vigilar el cumplimiento de las disposiciones en materia ambiental;
-
-IX. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como los que se establezcan en las disposiciones jurídicas vigentes y los manuales administrativos.
-
-> <small>(ADICIONADO, G.O. 31 DE MARZO DE 2010)</small>
-
-###### Artículo 172 Quater.
-
-La Dirección General de Desarrollo Social tendrá, además de las previstas en el artículo 128, excepto las fracciones II, V y VI, las siguientes atribuciones:
-
-I. Desarrollar proyectos educativos que contribuyan al sano esparcimiento y al desarrollo de los niños y jóvenes;
-
-II. Planear, organizar, dirigir, supervisar y evaluar las actividades deportivas, de educación física y recreación que en la jurisdicción de la delegación realicen;
-
-III. Coordinar e implementar Programas de Apoyo a los diversos deportes que se practiquen en la delegación, en coordinación con las autoridades competentes;
-
-IV. Coordinar eventos, exhibiciones y torneos deportivos de calidad tendientes a promover la práctica del deporte en la demarcación;
-
-V. Complementar la tarea educadora de las distintas escuelas públicas y privadas de la demarcación con Programas Deportivos Eficientes, ayudando a combatir las adicciones, la violencia y la desintegración familiar entre los niños y jóvenes;
-
-VI. Ejecutar Programas de Apoyo a la Juventud en coordinación con las dependencias e instituciones públicas y privadas respectivas;
-
-VII. Administrar, controlar, dirigir los centros de desarrollo infantil en coordinación con la dependencia respectiva;
-
-VIII. Implementar programas y acciones dirigidos a grupos vulnerables;
-
-IX. Implementar acciones tendientes a la realización de ferias, exposiciones y eventos vinculados a la promoción de actividades recreativas y sociales dentro de la demarcación territorial del Órgano Político Administrativo, y
-
-X. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como las que establezcan las disposiciones jurídicas vigentes y los manuales administrativos.
-
-> <small>(ADICIONADO, G.O. 31 DE MARZO DE 2010)</small>
-
-###### Artículo 172 Quinquies.
-
-La Dirección General de Desarrollo Delegacional tendrá las siguientes atribuciones:
-
-I. Coordinar, ferias, exposiciones y congresos vinculados a la promoción de actividades industriales, comerciales y económicas en general, dentro de su demarcación territorial;
-
-II. Promover dentro del ámbito de su competencia, la inversión inmobiliaria, tanto del sector público como privado, para la vivienda, equipamiento y servicios;
-
-III. Planear y dirigir acciones tendientes a la promoción turística de la demarcación territorial del órgano político-administrativo y del Distrito Federa (sic) en coordinación con las áreas centrales correspondientes;
-
-IV. Establecer y ejecutar los Programas de Simplificación Administrativa, Modernización y mejoramiento de atención al público, tomando en cuenta la opinión y lineamientos que al efecto dicte la Oficialía Mayor y la Contraloría General;
-
-V. Establecer, promover, fomentar y ejecutar los proyectos productivos, que en el ámbito de su jurisdicción, protejan e incentiven el empleo, de acuerdo a los programas, lineamientos y políticas que en materia de fomento, desarrollo e inversión económica emitan las dependencias correspondientes;
-
-VI. Promover y coordinar la instalación, funcionamiento y seguimiento de los Subcomités de Desarrollo Económico Delegacionales, apoyando iniciativas de inversión para impulsar a los sectores productivos de su zona de influencia. Asimismo, ejecutar la normatividad que regule, coordine y dé seguimiento a dichos Subcomités;
-
-VII. Establecer y ejecutar en coordinación con la Secretaría de Desarrollo Económico, las acciones que permitan coadyuvar a la modernización de las micro y pequeñas empresas de la demarcación;
-
-VIII. Promover la participación en el Comité de Fomento Cooperativo de la demarcación territorial, de los órganos representativos de las actividades económicas;
-
-IX. Establecer acciones tendientes a la promoción de proyectos de inversión que contribuyan al crecimiento económico, la protección y la generación de empleos;
-
-X. Coadyuvar en la promoción y desarrollo de la microempresa, propiciando la participación de diversos sectores, en proyectos viables de desarrollo económico, en atención a las características económicas y poblacionales de la demarcación territorial;
-
-XI. Establecer, promover, fomentar y ejecutar los proyectos productivos, que en el ámbito de la jurisdicción del órgano político-administrativo protejan e incentiven el empleo, de acuerdo a los programas, lineamientos y políticas que en materia de fomento, desarrollo e inversión económica emitan las dependencias correspondientes, y
-
-XII. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como los que se establezcan en las disposiciones jurídicas vigentes y los manuales administrativos.
-
-> <small>(ADICIONADO, G.O. 31 DE MARZO DE 2010)</small>
-
-###### Artículo 172 Sexies.
-
-La Dirección General de Seguridad Ciudadana, tendrá las siguientes atribuciones:
-
-I. Establecer, ejecutar y vigilar el Programa de Seguridad Pública de la Delegación en coordinación con las dependencias competentes;
-
-II. Establecer y organizar un Comité de Seguridad Pública como instancia colegiada de consulta y participación ciudadana en los términos de las disposiciones jurídicas aplicables;
-
-III. Ejecutar las Políticas Generales de Seguridad Pública que al efecto establezca el Jefe de Gobierno;
-
-IV. Emitir opinión respecto al nombramiento del Jefe de Sector de Policía que corresponda en sus respectivas jurisdicciones;
-
-V. Presentar ante el Secretario competente los informes o quejas sobre la actuación y comportamiento de los miembros de los cuerpos de seguridad, respecto de actos que presuntamente contravengan las disposiciones, para su remoción conforme a los procedimientos legalmente establecidos;
-
-VI. Proponer a la Dependencia competente, la aplicación de las acciones respectivas con la finalidad de mejorar la vialidad, circulación y seguridad del tránsito vehicular y peatones en las vialidades de la Delegación;
-
-VII. Coadyuvar con el Cuerpo de Bomberos y el de rescate del Distrito Federal, para la prevención y extinción de incendios y demás agentes perturbadores que pongan en peligro la integridad física y patrimonial de la ciudadanía residente y flotante de la Delegación Miguel Hidalgo;
-
-VIII. Dirigir, coordinar, controlar y evaluar campañas de salud pública, así como prestar los servicios médicos asistenciales, en coordinación con autoridades Federales y Locales, instituciones públicas o privadas y con particulares en el ámbito de la Demarcación Territorial del Órgano Político Administrativo;
-
-IX. Ejecutar en coordinación con las dependencias competentes el Programa Delegacional de Protección Civil;
-
-X. Evaluar y, en su caso, aprobar o rechazar los programas internos y especiales de Protección Civil en términos de las disposiciones jurídicas aplicables;
-
-XI. Coordinar acciones de participación ciudadana en materia de prevención del delito;
-
-XII. Promover, coadyuvar y fomentar los Programas de Salud, así como campañas para prevenir y combatir la farmacodependencia, el alcoholismo, la violencia o desintegración familiar, en el ámbito de su competencia territorial, en coordinación con las unidades administrativas y Dependencias competentes en la materia;
-
-XIII. Coadyuvar con las dependencias de la administración Pública del Distrito Federal que resulten competentes, en las tareas de seguridad pública y protección civil en la Delegación;
-
-XIV. Proponer, dirigir e impulsar los planes en materia de seguridad pública, prevención del delito, cultura de la legalidad, protección civil y salud a desarrollarse en la Delegación Miguel Hidalgo;
-
-XV. Proponer medidas y acciones necesarias con las autoridades del Distrito Federal y demás niveles de gobierno, para preservar la integridad de la ciudadanía, ante condiciones y circunstancias de seguridad pública y protección civil;
-
-XVI. Participar en la concertación y coordinación con los sectores público, social y privado las acciones en apoyo a la seguridad de la ciudadanía;
-
-XVII. Representar al Jefe Delegacional en las Mesas de Coordinación Territorial en seguridad y procuración de justicia de la demarcación;
-
-XVIII. Determinar y establecer las estrategias de los Servicios de Seguridad necesarios para el control de accesos y resguardo de bienes muebles e inmuebles de la Delegación Miguel Hidalgo, en coordinación con la dependencia competente;
-
-XIX. Coordinar y ejecutar las actividades de verificación administrativa que, de acuerdo con la Ley del Instituto de Verificación Administrativa del Distrito Federal, correspondan al Órgano Político Administrativo en materia de protección civil;
-
-XX. Instruir, en términos de las disposiciones de la Ley del Instituto de Verificación Administrativa del Distrito Federal, órdenes de visita de verificación administrativa, en materia de protección civil, a los inmuebles destinados a vivienda plurifamiliar y conjuntos habitacionales así como a aquellos que de acuerdo a la naturaleza de su giro y actividad que realicen, se encuentren obligados a observar lo dispuesto por la Ley de Protección Civil para el Distrito Federal, su reglamento, términos de referencia y normas técnicas complementarias en la materia, ubicados en la demarcación territorial;
-
-XXI. Coordinar que se remitan las actuaciones derivadas de las visitas de verificación practicadas, a la Dirección General Jurídica y de Servicios Legales del Órgano Político Administrativo para la substanciación del procedimiento respectivo e imposición de las sanciones contempladas en la Ley de Protección Civil para el Distrito Federal y su reglamento;
-
-XXII. Evaluar y coordinar las medidas de seguridad establecidas en la Ley de Protección Civil para el Distrito Federal, Ley de Procedimiento Administrativo del Distrito Federal y el Reglamento de Verificación Administrativa para el Distrito Federal, cuando como resultado de las visitas de verificación administrativa en materia de protección civil, se constaten hechos o actos que puedan producir un riesgo o perjuicio en las instalaciones, integridad de las personas y su entorno, y
-
-XXIII. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como los que se establezcan en las disposiciones jurídicas vigentes y los manuales administrativos.
-
-> <small>(ADICIONADO, G.O. 31 DE MARZO DE 2010)</small>
-
-###### Artículo 172 Septies.
-
-La Dirección Ejecutiva de Cultura tendrá las siguientes atribuciones:
-
-I. EFECTUAR CEREMONIAS PÚBLICAS PARA CONMEMORAR ACONTECIMIENTOS HISTÓRICOS DE CARÁCTER NACIONAL O LOCAL, Y ORGANIZAR ACTOS CULTURALES, ARTÍSTICOS Y SOCIALES, EN COORDINACIÓN CON LAS ÁREAS CENTRALES CORRESPONDIENTES;
-
-II. PROMOVER LOS VALORES DE LA PERSONA Y DE LA SOCIEDAD ASÍ COMO FOMENTAR LAS ACTIVIDADES QUE PROPENDAN A DESARROLLAR EL ESPÍRITU CÍVICO LOS SENTIMIENTOS PATRIÓTICOS DE LA POBLACIÓN Y EL SENTIDO DE SOLIDARIDAD SOCIAL;
-
-III. Llevar a cabo acciones tendientes a promover la incorporación de barrios regenerados y, en su caso, promover su incorporación al patrimonio cultura (sic) de la demarcación territorial del órgano político-administrativo y del distrito federal;
-
-IV. Establecer acciones tendientes a la realización de ferias, exposiciones y eventos vinculados a la promoción de actividades culturales y recreativas dentro de la demarcación territorial del órgano político-administrativo;
-
-V. Impulsar el desarrollo de Programas encaminados a la realización de actividades culturales, tales como, danza, teatro, música, artes plásticas y literarias;
-
-VI. Establecer, y evaluar Programas para el Desarrollo de las habilidades artísticas y para el fomento cultural;
-
-VII. Establecer vínculos interinstitucionales tendientes al desarrollo de Programas y Proyectos en materia de fomento a la cultura;
-
-VIII. Promover y apoyar la realización de actividades culturales que se realicen en la demarcación territorial del órgano político-administrativo;
-
-IX. Fortalecer e impulsar una tarea educadora de calidad en las escuelas públicas de la demarcación en coordinación con las dependencias respectivas;
-
-X. Coordinar que se lleven a todas las colonias de la Delegación expresiones culturales abarcando todos los grupos sociales;
-
-XI. Atender a personas interesadas en expresar algún tipo de arte o actividad académica de la Delegación;
-
-XII. Trabajar en coordinación con las autoridades culturales en sus diferentes niveles de gobierno, en la aplicación de programas, proyectos, organización de eventos;
-
-XIII. Participar activamente en la integración, organización y actividades del Consejo de Fomento Cultural en la Delegación Miguel Hidalgo;
-
-XIV. Gestionar ante las dependencias correspondientes el otorgamiento de recursos para satisfacer las necesidades, apoyos requeridos y mantenimiento de espacios culturales;
-
-XV. Atender solicitudes de apoyo que realicen las instituciones educativas o asociaciones civiles en eventos;
-
-XVI. Conformar un registro del patrimonio artístico, cultural e histórico de la Delegación Miguel Hidalgo y su actualización, y
-
-XVII. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como las que establezcan las disposiciones jurídicas vigentes y los manuales administrativos.
-
-> <small>(ADICIONADO, G.O. 31 DE MARZO DE 2010)</small>
-
-###### Artículo 172 Octies.
-
-La Jefatura de Oficina de la Jefatura Delegacional, tendrá las siguientes atribuciones:
-
-I. Ejecutar, previo acuerdo del Jefe Delegacional, la supervisión y coordinación de las unidades administrativas unidades y unidades administrativas de apoyo técnico-operativo adscritas al Órgano Político Administrativo en Miguel Hidalgo;
+I. Organizar, dirigir, controlar y evaluar el funcionamiento de las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo que tenga adscritas;
 
 II. Turnar y dar seguimiento a los acuerdos, instrucciones y peticiones del Jefe Delegacional;
 
-III. Dirigir y coordinar la integración de los informes y comparecencias del Jefe Delegacional, así como del programa de desarrollo delegacional, programa de gobierno y programa operativo anual del Órgano Político Administrativo;
+III. Dirigir y coordinar la integración de los informes y comparecencias del Jefe Delegacional, así como del Programa de Desarrollo Delegacional y del Programa de Gobierno;
 
-IV. ESTABLECER PREVIO ACUERDO CON EL JEFE DELEGACIONAL LAS POLÍTICAS PÚBLICAS EN MATERIA DE SUSTENTABILIDAD DEL ÓRGANO POLÍTICO ADMINISTRATIVO;
+IV. Establecer previo acuerdo con el Jefe Delegacional las políticas públicas en materia de sustentabilidad del Órgano Político Administrativo;
 
-V. PROPONER LAS ADECUACIONES NECESARIAS A LA ESTRUCTURA ORGÁNICA DEL ÓRGANO POLÍTICO ADMINISTRATIVO;
+V. Coordinar la realización, integración, revisión y análisis de los diversos estudios e investigaciones solicitados por el Jefe Delegacional;
 
-VI. COORDINAR LA REALIZACIÓN, INTEGRACIÓN, REVISIÓN Y ANÁLISIS DE LOS DIVERSOS ESTUDIOS E INVESTIGACIONES SOLICITADOS POR EL JEFE DELEGACIONAL;
+VI. Establecer el registro, control, seguimiento, turno y despacho de la correspondencia que se reciba en el Órgano Político Administrativo;
 
-VII. Administrar el Sistema de Orientación, Información y Quejas Ciudadana presentadas en contra de los servicios que presta la delegación;
+VII. Atender y canalizar a las Dependencias correspondientes las peticiones que no sean competencia del Gobierno Delegacional;
 
-VIII. establecer el registro, control, seguimiento, turno y despacho de la correspondencia que reciba y emita la jefatura delegacional;
+VIII. Elaborar y proponer al Jefe Delegacional el establecimiento de lineamientos para mejorar los flujos de trabajo en el Órgano Político Administrativo;
 
-IX. Atender y canalizar a las dependencias correspondientes las peticiones que no son competencia del Gobierno Delegacional;
+IX. Coordinar la Oficina de Acceso a la Información Pública;
 
-X. Elaborar y proponer al jefe Delegacional el establecimiento de lineamientos para mejorar los flujos de trabajo en el Órgano Político Administrativo;
+X. Coordinar la instalación y los trabajos del Comité de Transparencia;
 
-XI. PLANEAR Y CONTROLAR LOS RECURSOS HUMANOS, MATERIALES Y FINANCIEROS ASIGNADOS A LA JEFATURA DELEGACIONAL;
+XI. Vigilar el cumplimiento de las acciones en materia de Acceso a la Información Pública y Protección de Datos Personales;
 
-> <small>(REFORMADA, G.O. 8 DE SEPTIEMBRE DE 2010)</small>
+XII. Supervisar la atención hasta su desahogo, de los Recursos de Revisión interpuestos ante el Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal;
 
-XII. Coordinar el Centro de Servicios y Atención Ciudadana, la Ventanilla Única Delegacional y la Oficina de Acceso a la Información Pública;
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
 
-XIII. Establecer los mecanismos de evaluación y seguimientos de los programas que lleve acabo (sic) el Órgano Político Administrativo;
+XIII. Vigilar el cumplimiento de las resoluciones emitidas por el Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal;
 
-XIV. Certificar copias y constancias de los documentos que obren en los archivos de la Jefatura Delegacional;
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
 
-XV. Gestionar la contratación de prestadores de servicios bajo el régimen de honorarios, así como elaborar los programas correspondientes, de conformidad con las disposiciones aplicables en la materia;
+XIV. Coordinar la publicación en el portal de internet del Órgano Político Administrativo de la información prevista en la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal;
 
-XVI. Coordinar las acciones preventivas en áreas de riesgo administrativo, con el fin de evitar responsabilidades administrativas del Órgano Político Administrativo, y
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
 
-XVII. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como las que establezcan las disposiciones jurídicas vigentes y los manuales administrativos.
+XV. Coordinar las acciones de capacitación en materia de Acceso a la Información Pública y Protección de Datos Personales;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XVI. Coordinar las acciones que garanticen a los particulares los Derechos de Acceso, Rectificación, Cancelación y Oposición de Datos Personales;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XVII. Formular y desarrollar las propuestas de contenido del Programa General de Desarrollo del Distrito Federal y de los Programas Especiales, que el titular del Órgano Político Administrativo, en su caso, proponga en el Comité de Planeación para el Desarrollo del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XVIII. Coordinar la elaboración del Programa de Desarrollo Delegacional;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XIX. Coordinar la instalación y los trabajos del Comité Mixto de Planeación;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XX. Vigilar la congruencia del Programa Operativo Anual con el Programa de Desarrollo Delegacional;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXI. Establecer los mecanismos de evaluación y seguimientos de los programas que lleve a cabo el Órgano Político Administrativo así como coordinar su planeación e instrumentación;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXII. Llevar a cabo las acciones de planeación urbana que correspondan al Órgano Político Administrativo;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXIII. Promover en la demarcación del Órgano Político Administrativo, la inversión inmobiliaria, tanto del sector público como del privado, para la vivienda, equipamiento y servicios;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXIV. Proponer las modificaciones al Programa Delegacional y a los Programas Parciales de Desarrollo Urbano de la demarcación territorial del Órgano Político Administrativo;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXV. Proponer al Jefe Delegacional los planes y políticas en materia de participación ciudadana;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXVI. Coordinar los recorridos y audiencias públicas del titular del Órgano Político Administrativo;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXVII. Llevar a cabo el seguimiento de las acciones y propuestas que se recojan durante los recorridos y audiencias públicas que lleve a cabo el titular del Órgano Político Administrativo;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXVIII. Organizar y desarrollar los instrumentos de participación ciudadana previstos en la Ley de la materia en el Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXIX. Implementar acciones de información, capacitación y educación, para promover la participación ciudadana;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXX. Promover la participación de los vecinos en ejecución de obras y acciones de beneficio comunitario;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXXI. Coordinarse con los Organismos y Dependencias del Gobierno Federal y del Distrito Federal en la realización de giras y recorridos que realicen los titulares de las mismas de conformidad con las disposiciones jurídicas y administrativas aplicables;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXXII. Propiciar espacios de concertación para la solución de conflictos vecinales;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXXIII. Promover la participación de diversos grupos sociales en los Planes y Programas Delegacionales;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXXIV. Coordinar la planeación, diseño, seguimiento y control de programas y proyectos que fomenten la participación ciudadana;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXXV. Coordinar la realización de estudios de información estadística, ordenamientos y análisis de coyuntura que impacten en el Órgano Político Administrativo;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXXVI. Realizar los estudios necesarios para conocer los requerimientos de los ciudadanos y plantear alternativas de solución;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXXVII. Vigilar y supervisar que las peticiones y demandas ciudadanas sean debidamente atendidas;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXXVIII. Recibir, atender y dar respuesta a las solicitudes y peticiones que formulen los Comités Vecinales con base en la Ley de Participación Ciudadana.
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXXIX. Dirigir el Sistema de Gestión Digital Delegacional, en términos de la Ley de Gobierno Electrónico del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XL. Suplir en los términos de la fracción I del artículo 25 del presente Reglamento, las ausencias temporales del titular del Órgano Político Administrativo, y
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XLI. Las demás que de manera directa le asigne el titular del Órgano Político-Administrativo, así como las que establezcan las disposiciones jurídicas vigentes y los manuales administrativos.
+
+> <small>(REFORMADO, G.O. 15 DE ENERO DE 2016)</small>
+
+###### Artículo 172 Bis.
+
+La Dirección Ejecutiva de Servicios Internos tendrá las siguientes atribuciones:
+
+I. Administrar los recursos humanos, materiales y financieros del Órgano Político-Administrativo, conforme a las políticas, lineamientos, criterios y normas establecidas por la Oficialía Mayor y la Secretaría de Finanzas;
+
+II. Administrar los recursos humanos, materiales y los espacios físicos que correspondan a los Juzgados del Registro Civil y Juzgados Cívicos que se ubiquen en la demarcación del Órgano Político-Administrativo y dotarlos de servicios para su operación y funcionamiento;
+
+III. Supervisar el cierre del ejercicio anual del Órgano Político-Administrativo, así como determinar el contenido del informe para la elaboración de la Cuenta Pública y someterlo a consideración del titular del Órgano Político-Administrativo;
+
+IV. Autorizar y supervisar el registro de las erogaciones realizadas, clasificándolas por objeto del gasto y por Unidades Administrativas de responsabilidad;
+
+V. Coordinar y supervisar el seguimiento del Programa de Inversión autorizada;
+
+VI. Vigilar el estricto control financiero del gasto, en cuanto a pago de nómina del personal de base y confianza, así como a los prestadores de servicios profesionales bajo el régimen de honorarios o cualquier otra forma de contratación;
+
+VII. Proponer la implantación de sistemas administrativos de acuerdo a los lineamientos que fije la Contraloría General;
+
+VIII. Fijar, de acuerdo a las disposiciones jurídicas y administrativas aplicables, las estrategias para formular el Programa Anual de Adquisiciones, Arrendamientos y Servicios, así como coordinar su aplicación;
+
+IX. Convocar y dirigir, de conformidad con la normatividad aplicable, los concursos de proveedores y de contratistas para la adquisición de bienes y servicios;
+
+X. Autorizar previo acuerdo con el titular del Órgano Político-Administrativo, la adquisición de bienes, contratación de servicios y arrendamientos de bienes inmuebles, observando al efecto las disposiciones jurídicas y administrativas aplicables;
+
+XI. Observar y aplicar al interior del Órgano Político-Administrativo, las políticas en materia de desarrollo y administración del personal, de organización, de sistemas administrativos, de información y servicios generales, de conformidad con las disposiciones jurídicas aplicables y los lineamientos que emitan la Oficialía Mayor y la Contraloría General en el ámbito de sus respectivas competencias;
+
+XII. Vigilar en el ámbito de su competencia la actuación de las diversas comisiones que se establezcan al interior del Órgano Político Administrativo;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XIII. Instrumentar los programas tendientes al desarrollo del personal;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XIV. Realizar las acciones que permitan instrumentar al interior del Órgano Político Administrativo el Servicio Público de Carrera, así como vigilar el cumplimiento de las disposiciones jurídicas y administrativas aplicables;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XV. Planear y coordinar la prestación de servicios de apoyo que requieran las diversas Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo del Órgano Político Administrativo.
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XVI. Integrar los Programas que servirán de base para la elaboración del anteproyecto de presupuesto de Egresos y el Programa Operativo Anual correspondiente;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XVII. Expedir las disposiciones complementarias para la Administración de los recursos humanos, materiales, financieros y los bienes muebles e inmuebles asignados al Órgano Político Administrativo, de conformidad con la normativa que al efecto expidan las Dependencias competentes;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XVIII. Ejercer y atender las atribuciones conferidas al Órgano Político Administrativo y al Jefe Delegacional, que no sean de las consideradas de manera expresa como indelegables en la Ley de Adquisiciones para el Distrito Federal, y de Adquisiciones, Arrendamientos y Servicios del Sector Público, Ley de Presupuesto y Gasto Eficiente del Distrito Federal, Decreto de Presupuesto de Egresos para el ejercicio fiscal de que se trate, Circular Uno Bis en materia de administración de Recursos, Reglas para el control y manejo de los ingresos que se recauden por concepto de aprovechamientos y productos que se asignen a las Dependencias, Delegaciones y Órganos Desconcentrados que los generen, mediante el mecanismo de aplicación automática de recursos, en el ámbito de su competencia;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XIX. Suscribir los contratos, convenios y demás actos jurídicos de carácter administrativo o de cualquier otra índole dentro del ámbito de su respectiva competencia, relativos a los procesos de licitación y adjudicación de bienes y servicios, en términos de la legislación aplicable en la materia, sin perjuicio del ejercicio directo del titular del Órgano Político Administrativo;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XX. Coordinar y supervisar el Comité Delegacional de Adquisiciones, Arrendamientos y Prestación de Servicios a que se refiere la Ley de Adquisiciones para el Distrito Federal, y presidir las sesiones ordinarias y extraordinarias en suplencia del Jefe Delegacional en los términos de las disposiciones legales aplicables en la materia;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXI. Suscribir la solicitud de la emisión del dictamen de porcentaje de integración nacional requerido para los bienes o servicios importados necesarios para el cumplimiento de las facultades conferidas al Órgano Político Administrativo, en estricto cumplimiento a la Ley de Adquisiciones para el Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXII. Gestionar ante el titular del Órgano Político-Administrativo la autorización para la adquisición de bienes y servicios informáticos, previa presentación del estudio técnico del titular del Área de Informática del Órgano Político Administrativo, en términos de la Circular Uno Bis en materia de administración de recursos;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXIII. Gestionar ante el titular del Órgano Político Administrativo la autorización para adquirir bienes restringidos en términos de lo dispuesto por el Decreto de Presupuesto de Egresos para el ejercicio fiscal de que se trate;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXIV. Cumplir con la obligación de cubrir las contribuciones federales y locales correspondientes, con cargo al presupuesto del Órgano Político Administrativo y de conformidad con las disposiciones aplicables, en términos de lo dispuesto por el Decreto de Presupuesto de Egresos para el ejercicio fiscal de que se trate;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXV. Expedir y remitir oportunamente a la Secretaría de Finanzas del Distrito Federal, la información necesaria para que la Oficialía Mayor del Distrito Federal cumpla dentro de los plazos legales con la obligación de tramitar la declaración del Impuesto al Valor Agregado, así como enviar correcta y oportunamente a la propia Oficialía Mayor la información necesaria para que ésta cumpla dentro de los plazos legales con la obligación de tramitar ante la mencionada Secretaría de Finanzas el pago del Impuesto Sobre la Renta, en términos de lo dispuesto por el Decreto de Presupuesto de Egresos para el ejercicio fiscal de que se trate;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXVI. Promover ante el Jefe Delegacional la autorización para la contratación de trabajadores eventuales en términos de los lineamientos expedidos por la Oficialía Mayor;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXVII. Gestionar la contratación de prestadores de servicios bajo el régimen de honorarios, así como elaborar los Programas correspondientes, de conformidad con las disposiciones aplicables en la materia;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXVIII. Dirigir y coordinar la integración del Programa Operativo Anual del Órgano Político Administrativo;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXIX. Determinar y establecer las estrategias de los Servicios de Seguridad necesarios para el control de accesos y resguardo de bienes muebles e inmuebles del Órgano Político Administrativo Miguel Hidalgo, en coordinación con la Dependencia competente;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXX. Suplir en los términos de la fracción I del artículo 25 del presente Reglamento, las ausencias temporales del titular del Órgano Político Administrativo, y
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXXI. Las demás que de manera directa le asigne el titular del Órgano Político Administrativo, así como los que se establezcan en las Disposiciones Jurídicas Vigentes y los Manuales Administrativos.
+
+> <small>(REFORMADO, G.O. 15 DE ENERO DE 2016)</small>
+
+###### Artículo 172 Ter.
+
+La Dirección Ejecutiva Jurídica tendrá las siguientes atribuciones:
+
+I. Organizar, dirigir, controlar y evaluar el funcionamiento de las Unidades Administrativas y Unidades Administrativas de apoyo técnico operativo que tenga adscritas;
+
+II. Solicitar el auxilio de la fuerza pública para la ejecución de sus determinaciones y la realización de las diligencias ordenadas cuando sea procedente;
+
+III. Atender el desarrollo de los juicios y procedimientos en que sea parte el Órgano Político Administrativo
+
+IV. Elaborar los proyectos de designación y revocación de apoderados legales que representan al Órgano Político Administrativo ante las instancias judiciales y administrativas, en el ámbito de su competencia y coordinar su participación en los juicios y procedimientos respectivos;
+
+V. Iniciar y substanciar los diversos procedimientos administrativos que de conformidad con las leyes competan al Órgano Político Administrativo, emitir las resoluciones correspondientes y aplicar, en su caso, las sanciones previstas en la Ley, así como acordar y hacer efectivas las medidas de apremio a que hubiere lugar para lograr el cumplimiento de las mismas;
+
+VI. Tramitar, substanciar y emitir las resoluciones de los procedimientos administrativos correspondientes a los recursos de inconformidad;
+
+VII. Iniciar y substanciar los procedimientos administrativos correspondientes a la revocación y anulación de autorizaciones, permisos, licencias y registros en materia de obras, construcciones, establecimientos mercantiles, espectáculos públicos, vía pública, mercados, protección civil, solicitudes de certificación de afirmativas fictas y acciones públicas del Órgano Político Administrativo, emitir las resoluciones correspondientes y aplicar, en su caso, las sanciones previstas en la Ley, así como acordar y ejecutar las medidas de apremio a que hubiere lugar para lograr el cumplimiento de las mismas;
+
+VIII. Revisar y dictaminar los convenios y contratos en los que intervenga el Órgano Político Administrativo, así como los demás actos jurídicos dentro del ámbito de su competencia, necesarios para el ejercicio de las atribuciones del titular del Órgano Político Administrativo, de los titulares de las Direcciones Generales, Ejecutivas y de Área, adscritas al Órgano Político Administrativo;
+
+IX. Prestar asesoría jurídica gratuita en materias civil, penal, administrativa, laboral y de justicia cívica;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+X. Preparar los análisis e información sobre las disposiciones normativas que deba aplicar el Órgano Político Administrativo;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XI. Preparar los proyectos de análisis que presente el titular del Órgano Político-Administrativo al Jefe de Gobierno respecto del ejercicio de las atribuciones a él conferidas y de los servidores públicos subalternos;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XII. Coordinar las actividades en materia de verificación administrativa, ejerciendo las atribuciones del Órgano Político Administrativo en esta materia;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XIII. Emitir las órdenes de visita de verificación que correspondan de acuerdo al ámbito de competencia del Órgano Político Administrativo, diligenciar las actas respectivas y calificarlas, así como emitir la resolución correspondiente;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XIV. Ordenar y ejecutar las medidas de seguridad establecidas en la Ley de Procedimiento Administrativo del Distrito Federal y el Reglamento de Verificación Administrativa para el Distrito Federal, cuando como resultado de las visitas de verificación administrativa, se constaten hechos o actos que puedan producir un riesgo, en el ámbito de competencia del Órgano Político Administrativo;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XV. Ejercer las funciones de vigilancia y verificación administrativa sobre el funcionamiento y la observancia de las tarifas en los estacionamientos públicos establecidos en la demarcación del Órgano Político Administrativo, así como aplicar las sanciones respectivas;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XVI. Vigilar y verificar administrativamente el cumplimiento de las disposiciones en materia ambiental, así como aplicar las sanciones que correspondan cuando se trate de actividades o establecimientos cuya vigilancia no corresponda a las Dependencias centrales, de conformidad con la normativa ambiental aplicable;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XVII. Vigilar y verificar administrativamente el cumplimiento de las disposiciones en materia de construcciones, así como aplicar las sanciones que correspondan, en los términos de la Ley del Instituto de Verificación Administrativa del Distrito Federal y demás disposiciones aplicables;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XVIII. Vigilar, en el ámbito de su competencia, el cumplimiento de las disposiciones en materia de protección civil, aplicar las medidas de seguridad y de apremio así como las sanciones establecidas en la Ley de Protección Civil para el Distrito Federal, Ley de Procedimiento Administrativo del Distrito Federal y el Reglamento de Verificación Administrativa para el Distrito Federal, cuando como resultado de las visitas de verificación administrativa en materia de protección civil, se constaten hechos o actos que puedan producir un riesgo o perjuicio en las instalaciones, integridad de las personas y su entorno;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XIX. Coordinar y ejecutar las actividades de verificación administrativa que, de acuerdo con la Ley del Instituto de Verificación Administrativa del Distrito Federal, correspondan al Órgano Político Administrativo en materia de protección civil;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XX. Colaborar con las Dependencias competentes en acciones en materia de expropiación, ocupación total o parcial de bienes, en los términos de las disposiciones jurídicas y administrativas aplicables;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXI. Vigilar al interior de la demarcación del órgano político administrativo el cumplimiento de las políticas demográficas que al efecto fije la Secretaría de Gobierno y el Consejo de Población del Distrito Federal, y elaborar los informes que deban rendirse al titular del Órgano Político Administrativo;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXII. Prestar de acuerdo a la coordinación con las autoridades federales competentes, los servicios de filiación para identificar a los habitantes de la demarcación territorial y expedir certificados de residencia a personas que tengan su domicilio dentro de los límites de la demarcación del Órgano Político Administrativo;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXIII. Intervenir en las Juntas de Reclutamiento del Servicio Militar Nacional, y
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXIV. Las demás que de manera directa le asignen el titular del Órgano Político Administrativo o el Director General de Servicios Jurídicos y Gobierno así como las que se establezcan en otras disposiciones jurídicas y en los manuales administrativos.
+
+> <small>(REFORMADO, G.O. 15 DE ENERO DE 2016)</small>
+
+###### Artículo 172 Quater.
+
+La Dirección Ejecutiva de Registros y Autorizaciones tendrá las siguientes atribuciones:
+
+I. Organizar, dirigir, controlar y evaluar el funcionamiento de las Unidades Administrativas y Unidades Administrativas de apoyo técnico operativo que tenga adscritas;
+
+II. Solicitar el auxilio de la fuerza pública para la ejecución de sus determinaciones y la realización de las diligencias ordenadas cuando sea procedente;
+
+III. Ejercer las atribuciones correspondientes al Órgano Político Administrativo de acuerdo a la normativa aplicable, en relación con la administración, funcionamiento y trámites de los mercados públicos asentados en la demarcación del órgano político administrativo, y en relación con la supervisión, atención y reordenamiento del comercio en la vía pública que se encuentra dentro de la demarcación del órgano político administrativo;
+
+IV. Otorgar permisos para el uso de la vía pública sin que se afecte la naturaleza y destino de la misma, siempre que con su otorgamiento no se impida el libre ingreso, tránsito o evacuación, sea peatonal o vehicular, a las Instituciones de Salud de carácter público o privado; o a cualquier inmueble público o privado; se considera que impide el libre ingreso, tránsito o evacuación, el uso de la vía pública en cualquier sitio del perímetro de dichas instituciones o inmuebles;
+
+V. Instruir e instrumentar los procedimientos y operativos para la recuperación de la vía pública, garantizando el cumplimiento de la normativa aplicable;
+
+VI. Instruir e instrumentar el procedimiento de recuperación administrativa de los bienes del dominio público ubicados en la demarcación del Órgano Político Administrativo;
+
+VII. Ordenar y ejecutar las medidas administrativas encaminadas a mantener o recuperar la posesión de bienes del dominio público que detenten particulares, pudiendo ordenar el retiro de obstáculos que impidan su adecuado uso;
+
+VIII. Emitir y notificar las resoluciones definitivas en los procedimientos de recuperación administrativa a que se refieren las fracciones anteriores;
+
+IX. Coordinar y supervisar el funcionamiento del Sistema de Comercio en Vía Pública (SISCOVIP) a fin de verificar la recaudación proveniente del comercio en la vía pública que realizan los comerciantes instalados en la demarcación del Órgano Político Administrativo;
+
+X. Llevar a cabo acciones con las Dependencias y Entidades de la Administración Pública del Distrito Federal, en materia de mercados púbicos (sic) y comercio en vía pública; conforme a la normatividad aplicable en la materia;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XI. Mantener actualizados los padrones de mercados, tianguis y casetas telefónicas que se encuentren dentro de la demarcación del Órgano Político Administrativo;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XII. Proponer y ejecutar mecanismos para el reordenamiento del comercio en la vía pública de la demarcación del Órgano Político Administrativo;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XIII. Tomar conocimiento sobre las consultas del parecer ciudadano con respecto a la realización de eventos, fiestas patronales, romerías y otras actividades a realizarse en la vía pública;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XIV. Autorizar de acuerdo a la normativa aplicable, la celebración de espectáculos públicos y eventos en general, así como recibir los avisos para la presentación de espectáculos públicos;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XV. Autorizar los horarios para el acceso a las diversiones y espectáculos públicos, vigilar su desarrollo y en general, el cumplimiento de las disposiciones jurídicas y administrativas aplicables;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XVI. Otorgar los permisos y autorizaciones de funcionamiento de los establecimientos mercantiles establecidos en la demarcación del Órgano Político Administrativo de conformidad con las Leyes y Reglamentos aplicables;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XVII. Elaborar, mantener actualizado e integrar en una base de datos, el padrón de los establecimientos mercantiles que funcionen en la demarcación del Órgano Político Administrativo;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XVIII. Autorizar, en el ámbito de su competencia, el funcionamiento del servicio de acomodadores de vehículos en los establecimientos mercantiles a que se refiere la fracción anterior;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XIX. Autorizar la ubicación, construcción, funcionamiento y tarifas de los estacionamientos públicos, de conformidad con las normas que emita la Secretaría de Movilidad;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XX. Administrar los panteones públicos que se ubiquen en la demarcación territorial, en términos de las disposiciones aplicables así como mantener actualizados los padrones de dichos panteones;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXI. Autorizar los informes preventivos, así como conocer y gestionar las manifestaciones de impacto ambiental que en relación a construcciones y establecimientos soliciten los particulares, en el ámbito de competencia del Órgano Político Administrativo y de conformidad con las disposiciones jurídicas aplicables;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXII. Revisar los datos y documentos ingresados para el registro de las manifestaciones de construcción y coordinar y operar el registro de las manifestaciones de construcción y su prórroga;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXIII. Otorgar el registro de las obras ejecutadas sin la manifestación de construcción;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXIV. Expedir licencias de construcción especial y sus prórrogas, y ejercer las demás atribuciones que se le otorguen al Órgano Político Administrativo en materia de construcciones;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXV. Otorgar licencias y autorizaciones temporales en materia de anuncios, previo dictamen, en su caso, de la Secretaría de Desarrollo Urbano y Vivienda en su caso;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXVI. Expedir licencias de fusión, subdivisión y relotificación de predios;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXVII. Expedir constancias de alineamiento y número oficial;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXVIII. Autorizar el uso y ocupación de inmuebles;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXIX. Evaluar y, en su caso, aprobar o rechazar los programas internos y especiales de Protección Civil en términos de las disposiciones jurídicas aplicables; y
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXX. Las demás que de manera directa le asignen el titular del Órgano Político Administrativo o el Director General de Servicios Jurídicos y Gobierno así como las que se establezcan en otras disposiciones jurídicas y en los manuales administrativos.
+
+> <small>(REFORMADO, G.O. 15 DE ENERO DE 2016)</small>
+
+###### Artículo 172 Quinquies.
+
+La Dirección Ejecutiva de Obras Públicas, tendrá las siguientes atribuciones:
+
+I. Organizar, dirigir, controlar y evaluar el funcionamiento de las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo que tenga adscritas;
+
+II. Rehabilitar y mantener las vialidades secundarias con acciones de bacheo y reencarpetado asfáltico o hidráulico;
+
+III. Rehabilitar y mantener guarniciones, banquetas, puentes, pasos peatonales, ciclovías y reductores de velocidad en vialidades primarias y secundarias en la demarcación, con base en las disposiciones jurídicas y administrativas aplicables que determinen las dependencias;
+
+IV. Rehabilitar escuelas, así como construir y rehabilitar bibliotecas, museos y demás centros de servicio social, cultural y deportivo a cargo del Órgano Político Administrativo;
+
+V. Construir, mantener y rehabilitar los mercados públicos que se encuentren a cargo del Órgano Político Administrativo, de conformidad con la normativa que al efecto expidan las Dependencias competentes;
+
+VI. Proponer y ejecutar las obras tendientes a la regeneración de barrios deteriorados;
+
+VII. Llevar a cabo retiro de escombros en vías secundarias y acciones de limpieza de grafiti en fachadas de inmuebles públicos;
+
+VIII. Realizar acciones de mantenimiento y/o rehabilitación de viviendas precarias;
+
+IX. Proporcionar mantenimiento a edificios públicos asignados al Órgano Político Administrativo;
+
+X. Ejecutar obras por contrato, de mantenimiento de las líneas hidráulicas y de drenaje, de redes secundarias;
+
+XI. Proporcionar mantenimiento a monumentos públicos, plazas típicas o históricas, y obras de ornato, propiedad del Distrito Federal, así como participar, en los términos del Estatuto y de los convenios correspondientes, en el mantenimiento de aquellos de propiedad federal, que se encuentren dentro de la demarcación territorial;
+
+XII. Proporcionar mantenimiento a fuentes ubicadas en el territorio del Órgano Político Administrativo;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XIII. Ejecutar las demás obras y equipamiento urbano que no estén asignadas a otras Dependencias o Entidades;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XIV. Convocar y sustanciar, de conformidad con la normativa aplicable, las invitaciones restringidas, adjudicaciones directas y licitaciones públicas para la realización de obra pública y/o servicios relacionados con la misma, a cargo del Órgano Político-Administrativo;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XV. Autorizar estimaciones derivadas de contratos de obras públicas o servicios relacionados con las mismas;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XVI. Autorizar el pago de gastos financieros en caso de incumplimiento en los pagos de estimaciones y de ajustes de costos;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XVII. Proponer al titular de la Dirección General de Administración Delegacional, la rescisión administrativa en caso de incumplimiento de las obligaciones a cargo de los contratistas o la terminación anticipada de los contratos, y
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XVIII. Las demás que de manera directa le asignen el titular del Órgano Político Administrativo o el Director General de Administración Delegacional, así como las que se establezcan en otras disposiciones jurídicas y en los manuales administrativos.
+
+> <small>(REFORMADO, G.O. 15 DE ENERO DE 2016)</small>
+
+###### Artículo 172 Sexies.
+
+La Dirección Ejecutiva de Servicios Urbanos, tendrá las siguientes atribuciones:
+
+I. Organizar, dirigir, controlar y evaluar el funcionamiento de las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo que tenga adscritas;
+
+II. Prestar los servicios de limpia en sus etapas de barrido de áreas comunes, vialidad y demás vías públicas, así como de recolección de residuos sólidos de conformidad con las disposiciones jurídicas y administrativas que emita la Dependencia competente;
+
+III. Prestar el servicio de alumbrado público en las vialidades secundarias y mantener sus instalaciones en buen estado y funcionamiento, de conformidad con la normatividad que al efecto expida la autoridad competente;
+
+IV. Ejecutar obras por administración, para el abastecimiento de agua potable y servicio de drenaje y alcantarillado a partir de redes secundarias, conforme a la autorización y normas que al efecto expida la autoridad competente;
+
+V. Prestar los servicios de suministro de agua potable y alcantarillado, que no estén asignados a otra Dependencia o Entidad, atendiendo a los lineamientos que al efecto expida la autoridad competente, así como analizar y emitir opinión en relación con las tarifas correspondientes;
+
+VI. Prestar el servicio de bacheo en las vialidades secundarias de la demarcación del Órgano Político Administrativo;
+
+VII. Mantener y rehabilitar los parques públicos y camellones que se encuentren a cargo del Órgano Político Administrativo, de conformidad con la normativa que expidan las Dependencias competentes;
+
+VIII. Proporcionar los servicios de limpia y de rehabilitación y mantenimiento a las áreas verdes de los panteones que se encuentren a cargo del Órgano Político Administrativo;
+
+IX. Llevar a cabo la limpieza de postes de alumbrado público y otros elementos del equipamiento urbano instalados en vías secundarias;
+
+X. Elaborar y mantener actualizado el inventario de sujetos forestales existentes en la demarcación del Órgano Político Administrativo y llevar a cabo las acciones de valoración y remediación de los mismos;
+
+XI. Prestar los servicios de poda de sujetos forestales en vías secundarias de la demarcación del Órgano Político Administrativo;
+
+XII. Fomentar con personas físicas y morales la adopción de áreas verdes existentes en las vías secundarias de la demarcación del Órgano Político Administrativo;
+
+XIII. Realizar el balizamiento y señalización de vías secundarias de la demarcación del Órgano Político Administrativo, y
+
+XIV. Las demás que de manera directa le asignen el titular del Órgano Político Administrativo o el Director General de Administración Delegacional, así como las que se establezcan en otras disposiciones jurídicas y en los manuales administrativos.
+
+XV. (DEROGADA, G.O. 15 DE ENERO DE 2016)
+
+XVI. (DEROGADA, G.O. 15 DE ENERO DE 2016)
+
+XVII. (DEROGADA, G.O. 15 DE ENERO DE 2016)
+
+XVIII. (DEROGADA, G.O. 15 DE ENERO DE 2016)
+
+XIX. (DEROGADA, G.O. 15 DE ENERO DE 2016)
+
+XX. (DEROGADA, G.O. 15 DE ENERO DE 2016)
+
+XXI. (DEROGADA, G.O. 15 DE ENERO DE 2016)
+
+XXII. (DEROGADA, G.O. 15 DE ENERO DE 2016)
+
+XXIII. (DEROGADA, G.O. 15 DE ENERO DE 2016)
+
+> <small>(REFORMADO, G.O. 15 DE ENERO DE 2016)</small>
+
+###### Artículo 172 Septies.
+
+La Dirección Ejecutiva de Desarrollo Social, tendrá las siguientes atribuciones:
+
+I. Organizar, dirigir, controlar y evaluar el funcionamiento de las Unidades Administrativas y Unidades Administrativas de Apoyo Técnico-Operativo que tenga adscritas;
+
+II. Promover los valores de la persona y de la sociedad, así como fomentar las actividades que tiendan a desarrollar el espíritu cívico, los sentimientos patrióticos de la población y el sentido de solidaridad social;
+
+III. Establecer e incrementar relaciones de colaboración con organizaciones e instituciones cuyas finalidades sean de interés para la comunidad;
+
+IV. Complementar la tarea educadora de las distintas escuelas públicas y privadas de la demarcación con programas deportivos eficientes, ayudando a combatir las adicciones, la violencia y la desintegración familiar entre los niños y jóvenes;
+
+V. Desarrollar proyectos educativos que contribuyan al sano esparcimiento y al desarrollo de los niños y jóvenes;
+
+VI. Planear, organizar, dirigir, supervisar y evaluar las actividades deportivas, de educación física y recreación que en la demarcación del Órgano Político Administrativo se realicen;
+
+VII. Implementar y ejecutar programas de apoyo a los diversos deportes que se practiquen en la demarcación del Órgano Político Administrativo, en coordinación con las autoridades competentes;
+
+VIII. Coordinar eventos, exhibiciones y torneos deportivos de calidad tendientes a promover la práctica del deporte en la demarcación del Órgano Político Administrativo;
+
+IX. Ejecutar Programas de Apoyo a la Juventud en coordinación con las Dependencias e Instituciones públicas y privadas respectivas;
+
+X. Atender y vigilar el adecuado funcionamiento de escuelas, bibliotecas, museos y demás centros de servicio social, cultural y deportivo que estén a cargo del Órgano Político Administrativo;
+
+XI. Administrar los centros sociales e instalaciones recreativas y de capacitación para el trabajo, así como los centros deportivos cuya administración no esté reservada a otra Unidad Administrativa;
+
+XII. Administrar, controlar, dirigir los Centros de Desarrollo Infantil en coordinación con la Dependencia respectiva;
+
+XIII. Formular y ejecutar los programas de apoyo a la participación de la mujer en los diversos ámbitos del desarrollo, coordinándose con otras Instituciones públicas o privadas para su implementación. Dichos programas deberán ser formulados observando las políticas generales que al efecto emita la Secretaría de Gobierno;
+
+XIV. Implementar programas y acciones dirigidos a grupos vulnerables;
+
+XV. Realizar las gestiones necesarias a efecto de brindar un servicio funerario de calidad a los deudos del que lo soliciten en términos de la normatividad aplicable;
+
+XVI. Administrar los panteones públicos que se ubiquen en la demarcación territorial, en términos de las disposiciones aplicables así como mantener actualizados los padrones de dichos panteones;
+
+XVII. Realizar campañas de salud pública y prestar los servicios médicos asistenciales en coordinación con Autoridades Federales y Locales, Instituciones públicas o privadas y con particulares en la demarcación del Órgano Político- Administrativo;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XVIII. Promover, implementar y ejecutar los programas de salud, así como campañas para prevenir y combatir la farmacodependencia, el alcoholismo, la violencia o la desintegración familiar, en el ámbito de su demarcación territorial;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XIX. Efectuar ceremonias públicas para conmemorar acontecimientos históricos de carácter nacional o local, y organizar actos culturales, artísticos y sociales, en coordinación con las áreas centrales correspondientes;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XX. Llevar a cabo acciones tendientes a promover la incorporación de barrios regenerados y, en su caso, promover su incorporación al patrimonio cultural de la demarcación del Órgano Político Administrativo y del Distrito Federal;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXI. Establecer acciones tendientes a la realización de ferias, exposiciones y eventos vinculados a la promoción de actividades culturales y recreativas dentro de la demarcación del Órgano Político Administrativo;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXII. Implementar y ejecutar en la demarcación territorial programas de desarrollo social, considerando las políticas y programas que en la materia emita la Dependencia correspondiente;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXIII. Impulsar el desarrollo de Programas encaminados a la realización de actividades culturales, tales como, danza, teatro, música, artes plásticas y literarias;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXIV. Establecer, y evaluar programas para el desarrollo de las habilidades artísticas y para el fomento cultural;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXV. Promover y apoyar la realización de actividades culturales que se realicen en la demarcación del Órgano Político-Administrativo;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXVI. Participar en la integración, organización y actividades del Consejo de Fomento Cultural en la Delegación Miguel Hidalgo;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXVII. Conformar un registro del patrimonio artístico, cultural e histórico del Órgano Político Administrativo y mantenerlo actualizado;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXVIII. Fomentar y coordinar la realización de ferias, exposiciones y congresos vinculados a la promoción de actividades comerciales y económicas en general dentro de la demarcación del Órgano Político Administrativo;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXIX. Establecer, promover, fomentar y ejecutar proyectos productivos, que en la demarcación del Órgano Político Administrativo, protejan e incentiven al empleo, de acuerdo a los programas, lineamientos y políticas en materia de fomento, desarrollo e inversión económica que emitan las Dependencias correspondientes;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXX. Promover y coordinar la instalación, funcionamiento y seguimiento de los comités y consejos en materia económica;
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXXI. Implementar políticas de auto sustento de carácter alimentario enfocados a la población que se encuentra en situación de vulnerabilidad, a si (sic) como a la demás población que se ubique dentro de la demarcación, y
+
+> <small>(ADICIONADA, G.O. 15 DE ENERO DE 2016)</small>
+
+XXXII. Las demás que de manera directa le asignen el titular del Órgano Político Administrativo o el Director General de Administración Delegacional, así como las que se establezcan en otras disposiciones jurídicas y en los manuales administrativos.
+
+###### Artículo 172 Octies.
+
+(DEROGADO, G.O. 15 DE ENERO DE 2016)
 
 > <small>(ADICIONADA CON LOS ARTÍCULOS QUE LA INTEGRAN, G.O. 31 DE ENERO DE 2001)</small>
 
@@ -16962,15 +17898,51 @@ ADSCRITO A LA SECRETARIA DE SALUD.
 
 El Órgano Desconcentrado Agencia de Protección Sanitaria del Gobierno del Distrito Federal tiene por objeto realizar las atribuciones de regulación, control, fomento y vigilancia sanitaria que correspondan al Gobierno en materia de salubridad local. Para tal efecto contará con las atribuciones y facultades que se establecen en el Reglamento de la Agencia de Protección contra Riesgos Sanitarios.
 
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.O. 15 DE ENERO DE 2016)</small>
+
+#### SECCIÓN VIII BIS. ADSCRITO A LA SECRETARÍA DE MOVILIDAD
+
+> <small>(ADICIONADO, G.O. 15 DE ENERO DE 2016)</small>
+
+###### Artículo 216 Bis.
+
+El Órgano Desconcentrado denominado Órgano Regulador de Transporte, tiene por objeto planear, regular, supervisar y vigilar el servicio de corredores de transporte que no regule el Sistema de Corredores de Transporte Público de Pasajeros del Distrito Federal, Metrobús.
+
+Son atribuciones del Órgano Regulador de Transporte:
+
+I. Planear, regular, supervisar y vigilar el servicio de corredores de transporte que no regule el Sistema de Corredores de Transporte Público de Pasajeros del Distrito Federal, Metrobús; así como de la infraestructura y equipamiento auxiliar del servicio;
+
+II. Solicitar a los concesionarios, durante la vigencia de la concesión, la documentación e información económica y financiera que considere pertinente, para identificar esquemas financieros y de sostenimiento que permitan la continuidad de la prestación del servicio de manera permanente y uniforme y establecer las medidas de seguridad necesarias;
+
+III. Realizar todas las acciones necesarias para que el servicio de Corredores de Transporte, además de ser eficiente y eficaz, garantice la integridad y la seguridad de los usuarios, los Derechos de los permisionarios y concesionarios y el cumplimiento de sus obligaciones;
+
+IV. Autorizar la agrupación de personas morales concesionarias del servicio de corredores de transporte, bajo el esquema de consorcios, para que presten el servicio de manera exclusiva en uno o más corredores, sin que exceda el número de concesiones de conformidad con lo establecido a las disposiciones legales aplicables, con un control y dirección centralizado de los diferentes concesionarios;
+
+V. Dictaminar y autorizar los estudios y proyectos para la prestación del servicio de corredores de transporte, con base en los lineamientos que fije la normatividad correspondiente;
+
+VI. Dictar y ejecutar los acuerdos necesarios para la conservación, mantenimiento, renovación y cumplimiento de las especificaciones técnicas del parque vehicular destinado a la prestación del servicio de corredores de transporte; implementar las medidas adecuadas para mantener en buen estado la infraestructura utilizada para tal fin;
+
+VII. Establecer medidas de seguridad necesarias para que los concesionarios presten el servicio en condiciones de calidad, seguridad, oportunidad, permanencia e higiene;
+
+VIII. Colaborar con el Instituto de Verificación Administrativa, en la coordinación de visitas de verificación al servicio de corredores de transporte;
+
+IX. Intervenir en los procedimientos para el otorgamiento, prórroga, revocación, caducidad, y extinción de concesiones;
+
+X. Proponer los cursos y programas de capacitación para los operadores del servicio de corredores de transporte;
+
+XI. Eficientar y regular el servicio de corredores de transporte y, coordinarse con las demás Dependencias, Delegaciones, Órganos Desconcentrados y Entidades de la Administración Pública del Distrito Federal, para este propósito;
+
+XII. Realizar con calidad y eficiencia todas aquellas acciones tendientes a que el servicio de corredores de transporte, se lleve a cabo cuidando el medio ambiente y garantizar la seguridad de los usuarios;
+
+XIII. Autorizar la operación y dar mantenimiento a los corredores de transporte, centros de transferencia modal, paraderos de autobuses y demás infraestructura, con la participación de los permisionarios, concesionarios y titulares de las autorizaciones para que informen las necesidades y requerimientos del mantenimiento; y
+
+XIV. Las presentes atribuciones al Órgano Regulador de Transporte, se entienden asignadas sin perjuicio de la intervención del Secretario de Movilidad por razones de interés público o así lo considere conveniente para garantizar la prestación del servicio en forma regular y permanente.
+
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.O. 14 DE DICIEMBRE DE 2010)</small>
 
 #### SECCION IX. ADSCRITO A LA OFICIALIA MAYOR
 
 > <small>(ADICIONADO, G.O. 14 DE DICIEMBRE DE 2010)</small>
-
-#### SECCIÓN X. ADSCRITO A LA SECRETARÍA DE CULTURA
-
-> <small>(ADICIONADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 217.
 
@@ -16997,6 +17969,10 @@ IX. Con el auxilio de la Secretaría de Seguridad Pública, o a través de los s
 X. Las demás previstas en otras disposiciones.
 
 > <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, G.O. 16 DE NOVIEMBRE DE 2012)</small>
+
+#### SECCIÓN X. ADSCRITO A LA SECRETARÍA DE CULTURA
+
+> <small>(ADICIONADO, G.O. 16 DE NOVIEMBRE DE 2012)</small>
 
 ###### Artículo 218.
 
@@ -18019,3 +18995,59 @@ CUARTO.- El "C5" realizará las adecuaciones jurídico-administrativas y presupu
 QUINTO.- La Secretaría de Desarrollo Social continuará con el trámite y resolución de los asuntos de la competencia de la Dirección General del Servicio Público de Localización Telefónica hasta en tanto se lleva a cabo su formal incorporación al Centro de Comando, Control, Comunicación, Cómputo y Contacto Ciudadano.
 
 SEXTO.- Las referencias que se hagan en otros ordenamientos al Centro de Atención a Emergencias y Protección Ciudadana de la Ciudad de México, se entenderán hechas al Centro de Comando, Control, Comunicación, Cómputo y Contacto Ciudadano, a partir de la entrada en vigor del presente Decreto.
+
+G.O. 15 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Los asuntos competencia de las Unidades Administrativas que se adscriben al Órgano Político-Administrativo, serán tramitados y resueltos por éstas, atendiendo las instrucciones de su Titular.
+
+CUARTO.- A las Unidades Administrativas de nueva creación, se les transferirán los recursos humanos, materiales, técnicos y financieros para el desempeño adecuado de sus atribuciones, en los términos y condiciones que establezca la Secretaría de Finanzas y la Oficialía Mayor.
+
+QUINTO.- El Órgano Político-Administrativo deberá adecuar su estructura orgánica y elaborar su Manual Administrativo en los plazos y condiciones que establezca la Oficialía Mayor.
+
+SEXTO.- Las referencias hechas en ordenamientos e instrumentos administrativos a las Unidades Administrativas que por virtud de este Decreto hubieran dejado de tener competencia en la materia que regulan, se entenderán hechas a aquellas que cuenten con las facultades correspondientes.
+
+SÉPTIMO.- Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente Decreto.
+
+G.O. 15 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- De conformidad con lo previsto en el artículo TERCERO TRANSITORIO de las reformas a la Ley Orgánica de la Administración Pública del Distrito Federal, publicadas en la Gaceta del Distrito Federal el 14 de julio de 2014, la Secretaría de Movilidad, ejercerá las atribuciones y facultades conferidas a la ex Secretaría de Transporte y Vialidad, así como sus obligaciones.
+
+CUARTO.- A las Unidades Administrativas de nueva creación, se les transferirán los recursos humanos, materiales, técnicos y financieros para el desempeño adecuado de sus atribuciones, en los términos y condiciones que establezcan la Secretaría de Finanzas y la Oficialía Mayor.
+
+QUINTO.- La Secretaría de Movilidad deberá adecuar su estructura orgánica y actualizar el Manual Administrativo en los plazos y condiciones que establezca la Oficialía Mayor del Distrito Federal.
+
+SEXTO.- Las referencias hechas en ordenamientos e instrumentos administrativos a las Unidades Administrativas que por virtud de este Decreto hubieren dejado de tener competencia en la materia que regulan, se entenderán hechas a aquellas que cuenten con las facultades correspondientes.
+
+SÉPTIMO.- Los asuntos que a la entrada en vigor del presente Decreto se encuentran en trámite y deban ser atendidos por las Unidades Administrativas que por virtud de este Decreto hubieren dejado de tener competencia en la materia que regulan, serán resueltos por la Unidad Administrativa que los recibe, dentro de los plazos establecidos al efecto.
+
+OCTAVO.- Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente Decreto.
+
+G.O. 15 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+TERCERO.- Los asuntos competencia de las Unidades Administrativas que se adscriben al Órgano Político-Administrativo, serán tramitados y resueltos por estas, atendiendo las instrucciones de su Titular.
+
+CUARTO.- A las Unidades Administrativas de creación que resulten con motivo del presente Decreto, se les transferirán los recursos humanos, materiales, técnicos y financieros para el desempeño adecuado de sus atribuciones.
+
+QUINTO.- El Órgano Político-Administrativo deberá adecuar su estructura orgánica y elaborar su manual administrativo en los plazos y condiciones que establezca la Oficialía Mayor.
+
+SEXTO.- Las referencias hechas en ordenamientos e instrumentos administrativos a las Unidades Administrativas que por virtud de este decreto hubieran dejado de tener competencia en la materia que regulan, se entenderán hechas a aquellas que cuenten con las facultades correspondientes.
+
+SÉPTIMO.- Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente decreto.
