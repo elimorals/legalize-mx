@@ -4,7 +4,7 @@ identifier: "COL-reglamento-del-gobierno-municipal-de-colima-colima-60961"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-12"
-last_updated: "2016-01-02"
+last_updated: "2016-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60961&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "COL"
 
 REGLAMENTO DEL GOBIERNO MUNICIPAL DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2016.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 12 de abril de 2008.
 
@@ -805,7 +805,9 @@ XXXVII.- En general, tomar las medidas necesarias, durante la celebración de la
 
 El Síndico Municipal, en lo que al funcionamiento del cabildo se refiere, tendrá las siguientes atribuciones:
 
-I.- La representación jurídica del Ayuntamiento y la defensa de los intereses municipales, teniendo por tanto personalidad jurídica ante toda clase de autoridades de cualquier orden, así como ante instituciones u organismos de carácter privado. Debiendo presentar un informe cada tres meses o cuando en su caso resulte necesario.
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2016)</small>
+
+I.- La representación jurídica del Ayuntamiento y la defensa de los intereses municipales, teniendo por tanto personalidad jurídica ante toda clase de autoridades de cualquier orden, así como ante instituciones u organismos de carácter privado, además de emitir las resoluciones que concluyan los procedimientos instaurados por responsabilidad patrimonial. Debiendo presentar un informe cada tres meses o cuando en su caso resulte necesario.
 
 II.- Dar cuenta al Presidente Municipal y al cabildo de todos los asuntos de su competencia, proporcionando la información de los antecedentes necesarios, para que se emita el acuerdo de trámite y despacho de los mismos.
 
@@ -2575,25 +2577,29 @@ VIII.- Otras formas de organización ciudadana, que determine el cabildo o el Pr
 
 ### CAPÍTULO IV. DE LOS ÓRGANOS Y DEPENDENCIAS DE LA ADMINISTRACIÓN PÚBLICA MUNICIPAL CENTRALIZADA
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2016)</small>
 
 ###### Artículo 179.
 
-Para el cumplimiento de sus finalidades que le son propias, el Ayuntamiento organiza la estructura orgánica de la Administración Pública Municipal Centralizada, con las siguientes dependencias:
+Para el cumplimiento de sus finalidades que le son propias, el Ayuntamiento organiza la estructura de la Administración Pública Municipal Centralizada con las siguientes dependencias:
 
-l. PRESIDENCIA MUNICIPAL
-
-a. Secretaría Particular
+I. PRESIDENCIA MUNICIPAL
 
 i. Jefatura de Departamento de Gestión Social
 
 1. Jefatura de Área de Asistencia
+
+a. Secretaría Particular
 
 b. Secretaría Técnica
 
 c. Dirección de Comunicación Social
 
 i. Jefatura de Departamento de Prensa
+
+ii. Jefatura de Departamento de Diseño
+
+iii. Jefatura de Departamento de Radio y Televisión
 
 1. Jefatura de Área de Radio y Televisión
 
@@ -2617,11 +2623,13 @@ iv. Jefatura de Departamento de Gestión de Proyectos Sociales
 
 II. SECRETARÍA DEL AYUNTAMIENTO
 
+1. Jefatura de Área del Centro Preventivo Municipal
+
+i. Jefatura de Departamento de Secretaría
+
 a. Dirección de Abasto y Comercialización
 
 i. Jefatura de Departamento de Mercados y Vía Pública
-
-1. Jefatura de Área de Mercados y Vía Pública
 
 b. Dirección de Registro Civil
 
@@ -2631,23 +2639,23 @@ ii. Junta Municipal de Reclutamiento
 
 iii. Jefatura de Departamento del Panteón Municipal
 
-c. Centro Preventivo Municipal
+c. Junta Municipal de Tepames
 
-d. Junta Municipal de Tepames
+d. Junta Municipal de Lo de Villa
 
-e. Junta Municipal de Lo de Villa
-
-f. Comisarías Municipales
+e. Comisarías Municipales
 
 III. OFICIALÍA MAYOR
 
-i. Jefatura de Departamento de Servicios Generales y Eventos Especiales
+i. Jefatura de Departamento de Servicios Generales
 
 a. Dirección de Recursos Humanos
 
 i. Jefatura de Departamento de Personal
 
 ii. Jefatura de Departamento de Capacitación
+
+1. Jefatura de Área de Capacitación
 
 iii. Jefatura de Departamento de Calidad
 
@@ -2675,7 +2683,7 @@ a. Dirección de Ingresos
 
 i. Jefatura de Departamento de Ejecución
 
-1. Jefatura de Área de Créditos Fiscales
+ii. Jefatura de Departamento de Recaudación
 
 b. Dirección de Egresos y Contabilidad
 
@@ -2691,7 +2699,11 @@ ii. Jefatura de Departamento del Suelo
 
 d. Dirección de Inspección y Licencias
 
+1. Jefatura de Área de Administración
+
 i. Jefatura de Departamento de Inspección
+
+1. Jefatura del Área de Supervisión Turno Nocturno
 
 ii. Jefatura de Departamento de Licencias
 
@@ -2719,7 +2731,7 @@ b. Dirección de Mantenimiento
 
 i. Jefatura de Departamento de Mantenimiento de Edificios
 
-ii. Jefatura de Departamento de Mantenimiento de Vialidades
+ii. Jefatura de Departamento de Rehabilitación de Vialidades
 
 c. Dirección de Desarrollo Urbano
 
@@ -2729,17 +2741,17 @@ ii. Jefatura de Departamento de Licencias de Construcción
 
 iii. Jefatura de Departamento de Inspección y Supervisión de Obras
 
+1. Jefatura de Área de Inspección y Supervisión de Obra.
+
 d. Dirección de Ecología
 
 1. Jefatura de Área de Calidad Ambiental
 
 VII. DIRECCIÓN GENERAL DE SERVICIOS PÚBLICOS
 
-i. Jefatura de Departamento de Personal
+1. Jefatura de Área de Personal
 
-1. Jefatura de Área de Apoyo Técnico
-
-ii. Jefatura de Departamento de Control de Mascotas
+i. Jefatura de Departamento de Control de Mascotas
 
 a. Dirección de Limpia y Sanidad
 
@@ -2759,7 +2771,9 @@ b. Dirección de Parques y Jardines
 
 i. Jefatura de Departamento de Parques y Jardines
 
-1. Jefatura de Área de Parques y Áreas Deportivas
+1. Jefatura de Área de Parques
+
+2. Jefatura de Área de Espacios Deportivos
 
 c. Dirección de Alumbrado Público
 
@@ -2771,15 +2785,15 @@ VIII. Derogado.
 
 IX. DIRECCIÓN GENERAL DE ASUNTOS JURÍDICOS
 
-a. Jefatura de Departamento de Asuntos Jurídicos
+i. Jefatura de Departamento de Asuntos Jurídicos
 
-i. Jefatura de Área Penal
+1. Jefatura de Área Penal
 
-ii. Jefatura de Área Laboral
+2. Jefatura de Área Laboral
 
-iii. Jefatura de Área Administrativa-Fiscal
+3. Jefatura de Área Administrativa-Fiscal
 
-iv. Jefatura de Área de Consultas y Dictámenes
+4. Jefatura de Área de Consultas y Dictámenes
 
 X. DIRECCIÓN GENERAL DE SEGURIDAD CIUDADANA Y VIALIDAD
 
@@ -2800,8 +2814,6 @@ ii. Jefatura de Departamento de Ingeniería de Tránsito
 iii. Jefatura de Departamento de Normas e Infracciones
 
 1. Jefatura de Área de Educación Vial
-
-2. (sic)
 
 XI. DIRECCIÓN GENERAL DE DESARROLLO HUMANO
 
@@ -2833,15 +2845,11 @@ d. Dirección de Cultura y Educación
 
 i. Jefatura de Departamento de Cultura y Educación
 
-1. Jefatura de Área de Eventos Culturales
+1. Jefatura de Área de Administración
+
+2. Jefatura de Área de Eventos Culturales
 
 e. Dirección de Fomento Deportivo
-
-i. Jefatura de Departamento de Cultura Física, Deporte y Recreación
-
-ii. Jefatura de Departamento de Mantenimiento y Conservación de Espacios
-
-Deportivos
 
 > <small>(ADICIONADO, P.O. 2 DE ENERO DE 2016)</small>
 
@@ -2997,6 +3005,24 @@ De conformidad con lo establecido en los artículos 54 y 55 de la Ley Municipal,
 
 Las faltas temporales del Presidente Municipal, hasta por un período de 15 días, serán suplidas por el Secretario del Ayuntamiento, con el carácter de encargado del despacho. En cambio, para el caso de que las faltas excedan de los 15 días o éstas sean definitivas, se llamará, en primer lugar, a su suplente y, sólo en el caso de impedimento o falta absoluta del suplente, el cabildo, por el voto de la mayoría calificada de sus integrantes, nombrará para sustituirlo a un munícipe en funciones.
 
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2016)</small>
+
+###### Artículo 187 Bis.
+
+Para el cumplimiento de los fines de la Presidencia Municipal, contará con una Jefatura de Departamento de Gestión Social y una Jefatura de Área de Asistencia.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2016)</small>
+
+###### Artículo 187 Ter.
+
+Para auxiliar al Presidente Municipal en materia de captación de demanda social y su evaluación, el Ayuntamiento tendrá una Jefatura de Gestión Social, la cual estará a cargo de una persona denominada Jefe de Departamento de Gestión Social, al que le corresponde lo siguiente:
+
+I.- Ser el vínculo de gestión entre las diferentes dependencias del Ayuntamiento y la ciudadanía en general.
+
+II.- Llevar un control diario de la recepción de peticiones, quejas y sugerencias, así como turnar las mismas al área correspondiente para continuar con su debido trámite.
+
+III.- Llevar un control puntual y dar seguimiento a las demandas y peticiones de la ciudadanía que se realicen durante las Audiencias Públicas.
+
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
 ###### Artículo 188.
@@ -3021,23 +3047,13 @@ VIII.- Ser responsable del correcto funcionamiento del sistema de gestión de ca
 
 IX.- Los demás asuntos que le sean encomendados por el Presidente Municipal.
 
-> <small>(ADICIONADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
-
 ###### Artículo 188 Bis.
 
-Para el cumplimiento de los fines de la Secretaría Particular, contará con una Jefatura de Departamento de Gestión Social y una Jefatura de Área de Asistencia.
-
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+(DEROGADO, P.O. 16 DE ENERO DE 2016)
 
 ###### Artículo 189.
 
-Para auxiliar al Presidente Municipal por conducto de la Secretaría Particular, en materia de captación de demanda social y su evaluación, el Ayuntamiento tendrá una Jefatura de Gestión Social, la cual estará a cargo de una persona denominada Jefe de Departamento de Gestión Social, al que le corresponde lo siguiente:
-
-I.- Ser el vínculo de gestión entre las diferentes dependencias del Ayuntamiento y la ciudadanía en general.
-
-II.- Llevar un control diario de la recepción de peticiones, quejas y sugerencias, así como turnar las mismas al área correspondiente para continuar con su debido trámite.
-
-III.- Llevar un control puntual y dar seguimiento a las demandas y peticiones de la ciudadanía que se realicen durante las Audiencias Públicas.
+(DEROGADO, P.O. 16 DE ENERO DE 2016)
 
 > <small>(ADICIONADO, P.O. 2 DE ENERO DE 2016)</small>
 
@@ -3335,11 +3351,11 @@ XII.- Coordinar las labores de Jueces Calificadores y del Alcaide de la Cárcel 
 
 XIII.- Las demás que le otorguen las Leyes, Reglamentos y Manuales de Organización.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2016)</small>
 
 ###### Artículo 202.
 
-La Secretaría del Ayuntamiento, para el desempeño de sus funciones, contará con las siguientes dependencias: Dirección de Abasto y Comercialización, que se integrará por una Jefatura de Departamento de Mercados y Vía Pública y una Jefatura de Área de Mercados y Vía Pública; Dirección del Registro Civil, que se integrará por la Secretaría del Registro Civil, la Junta Municipal de Reclutamiento y la Jefatura de Departamento del Panteón Municipal; el Centro Preventivo Municipal y las Juntas y Comisarías Municipales.
+La Secretaría del Ayuntamiento, para el desempeño de sus funciones, contará con las siguientes dependencias: Jefatura de Departamento de Secretaría; Dirección de Abasto y Comercialización, que se integrará por una Jefatura de Departamento de Mercados y Vía Pública; Dirección del Registro Civil, que se integrará por la Secretaría del Registro Civil, la Junta Municipal de Reclutamiento y la Jefatura de Departamento del Panteón Municipal; el Centro Preventivo Municipal, con nivel de Jefatura de Área; además de atender los asuntos relativos a las Juntas y Comisarías Municipales.
 
 ###### Artículo 203.
 
@@ -3519,15 +3535,13 @@ El Oficial Mayor tendrá como obligación, establecer, instrumentar y operar el 
 
 El Oficial Mayor en términos del artículo 7º, fracción IV, de la Ley de Presupuesto, Contabilidad y Gasto Público Municipal es autoridad en materia de presupuesto, contabilidad y gasto público municipal, y tiene como atribuciones las señaladas en el artículo 11 y demás relativas y aplicables de dicho Ordenamiento.
 
-> <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2016)</small>
 
 ###### Artículo 214.
 
-La Oficialía Mayor para el desempeño de sus funciones, contará con las siguientes dependencias:
+La Oficialía Mayor, para el desempeño de sus funciones, contará con las siguientes dependencias:
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
-
-Jefatura de Departamento de Servicios Generales y Eventos Especiales; Dirección de Recursos Humanos, que se integrará por una Jefatura de Departamento de Personal, una Jefatura de Departamento de Capacitación, una Jefatura de Departamento de Calidad y una Jefatura de Área de Control de Incidencias; Dirección de Recursos Materiales y Control Patrimonial, que se integrará por una Jefatura del Departamento de Compras y una Jefatura del Departamento de Control Patrimonial; Dirección de Taller Mecánico, que tendrá una Jefatura de Área del propio Taller; y Dirección de Sistemas, que se integrará por una Jefatura de Departamento de Redes y una Jefatura de Área de Mantenimiento.
+Jefatura de Departamento de Servicios Generales y Eventos Especiales; Dirección de Recursos Humanos, que se integrará por una Jefatura de Departamento de Personal, una Jefatura de Departamento de Capacitación, integrada esta última por una Jefatura de área de Capacitación; y una Jefatura de Departamento de Calidad, integrada por una Jefatura de Área de Control de Incidencias; Dirección de Recursos Materiales y Control Patrimonial, que se integrará por una Jefatura del Departamento de Compras y una Jefatura del Departamento de Control Patrimonial; Dirección de Taller Mecánico, que tendrá una Jefatura de Área del propio Taller; y Dirección de Sistemas, que se integrará por una Jefatura de Departamento de Redes y una Jefatura de Área de Mantenimiento.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
@@ -3791,6 +3805,10 @@ II.- Recaudar los impuestos, derechos, productos y aprovechamientos de conformid
 
 III.- Formular mensualmente el estado de origen y aplicación de los recursos municipales.
 
+> <small>(ADICIONADA, P.O. 16 DE ENERO DE 2016)</small>
+
+III bis.- Determinar en cantidad líquida las obligaciones fiscales provenientes de impuestos, derechos, productos y aprovechamientos, que deba percibir el erario municipal.
+
 > <small>(REFORMADA, P.O. 2 DE ENERO DE 2016)</small>
 
 IV.- Ejercer la facultad económica-coactiva, por sí o por conducto del Director de Ingresos, conforme al Código Fiscal Municipal y los reglamentos aplicables para hacer efectivos:
@@ -3867,7 +3885,9 @@ XXX.- Las demás que le otorguen las Leyes, Reglamentos y Manuales de Organizaci
 
 La Tesorería Municipal para el desempeño de sus funciones, contará con las siguientes dependencias:
 
-Dirección de Ingresos, que se integrará por una Jefatura de Departamento de Ejecución y una Jefatura de Área de Créditos Fiscales; Dirección de Egresos y Contabilidad, que se integrará por una Jefatura de Área de Control Presupuestal y una Jefatura de Departamento de Contabilidad; Dirección de Catastro Municipal, que se integrará por una Jefatura de Departamento Administrativo y de Servicios y una Jefatura de Departamento del Suelo; y la Dirección de Inspección y Licencias, que se integrará por una Jefatura de Departamento de Inspección, una Jefatura de Departamento de Licencias y una Jefatura de Área de Licencias.
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2016)</small>
+
+Dirección de Ingresos, que se integrará por una Jefatura de Departamento de Ejecución y una Jefatura de Departamento de Recaudación; Dirección de Egresos y Contabilidad, que se integrará por una Jefatura de Área de Control Presupuestal y una Jefatura de Departamento de Contabilidad; Dirección de Catastro Municipal, que se integrará por una Jefatura de Departamento Administrativo y de Servicios y una Jefatura de Departamento del Suelo; y la Dirección de Inspección y Licencias, que se integrará por una Jefatura de Departamento de Inspección que contará con una Jefatura de área de Supervisión Turno Nocturno; una Jefatura de Departamento de Licencias que contará con una Jefatura de Área de Licencias, y una Jefatura de Área de Administración, que dependerá directamente de la Dirección.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
@@ -4133,11 +4153,11 @@ XVI.- Autorizar a los urbanizadores y promotores iniciar la promoción de venta 
 
 XVII.- Las demás atribuciones que se establezcan en las Leyes, Reglamentos y Manuales de Organización del Municipio.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2016)</small>
 
 ###### Artículo 234.
 
-Para el desenvolvimiento de sus funciones, la Dirección General de Desarrollo Sustentable contará con cuatro Direcciones de Área: la Dirección de Construcción, que contará con dos Jefaturas de Departamento, la de Proyectos y Presupuestos y la de Supervisión; la Dirección de Mantenimiento, que a su vez contará con dos Jefaturas de Departamento: la de Mantenimiento de Edificios y la de Mantenimiento de Vialidades; la Dirección de Desarrollo Urbano, que contará con tres Jefaturas de Departamento: de Planeación y Regulación Urbana, de Licencias de Construcción y de Inspección y Supervisión de Obras; y una Dirección de Ecología, que tendrá una Jefatura de Área de Calidad Ambiental; teniendo dichas Direcciones las siguientes funciones: (sic)
+Para el desenvolvimiento de sus funciones, la Dirección General de Desarrollo Sustentable contará con cuatro Direcciones de Área: la Dirección de Construcción, que contará con dos Jefaturas de Departamento, la de Proyectos y Presupuestos y la de Supervisión; la Dirección de Mantenimiento, que a su vez contará con dos Jefaturas de Departamento: la de Mantenimiento de Edificios y la de Rehabilitación de Vialidades; la Dirección de Desarrollo Urbano, que contará con tres Jefaturas de Departamento: de Planeación y Regulación Urbana, de Licencias de Construcción y de Inspección y Supervisión de Obras que, a su vez, contará con una Jefatura de Área de Inspección y Supervisión de Obra; y una Dirección de Ecología, que tendrá una Jefatura de Área de Calidad Ambiental; teniendo dichas Direcciones las siguientes funciones: ... (sic)
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
@@ -4325,11 +4345,11 @@ XXV.- Supervisar el diseño, la implementación y la difusión de los programas 
 
 XXVI.- Las demás que le otorguen las Leyes, Reglamentos y Manuales de Organización.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2016)</small>
 
 ###### Artículo 240.
 
-Para tal efecto, la Dirección General de Servicios Públicos contará con las siguientes dependencias: Dirección de Limpia y Sanidad, que se integrará por las Jefaturas de Departamento: de Limpia y Sanidad y de Relleno Sanitario, y las Jefaturas de Área de Lotes Baldíos, de Recolección de Residuos Sólidos Turno Matutino, Recolección de Residuos Sólidos Turno Vespertino y Recolección de Residuos Sólidos Turno Nocturno; Dirección de Parques y Jardines, que se integrará por la Jefatura de Departamento de Parques y Jardines y Ja Jefatura de Área de Parques y Áreas Deportivas; Dirección de Alumbrado Público, que se integrará por la Jefatura de Departamento de Alumbrado Público y Jefatura de Área de Medición; la Jefatura del Departamento de Personal y su Jefatura de Área de Apoyo Técnico; y la Jefatura de Departamento de Control de Mascotas.
+Para tal efecto, la Dirección General de Servicios Públicos contará con las siguientes dependencias: Dirección de Limpia y Sanidad, que se integrará por las Jefaturas de Departamento: de Limpia y Sanidad y de Relleno Sanitario, y las Jefaturas de Área de Lotes Baldíos, de Recolección de Residuos Sólidos Turno Matutino, Recolección de Residuos Sólidos Turno Vespertino y Recolección de Residuos Sólidos Turno Nocturno; Dirección de Parques y Jardines, que se integrará por la Jefatura de Departamento de Parques y Jardines, y las Jefaturas de Área de Parques y espacios Deportivos; Dirección de Alumbrado Público, que se integrará por la Jefatura de Departamento de Alumbrado Público y Jefatura de Área de Medición; la Jefatura de Área de Personal y la Jefatura de Departamento de Control de Mascotas.
 
 > <small>(REFORMADO, P.O. 10 DE DICIEMBRE DE 2011)</small>
 
@@ -4667,11 +4687,11 @@ XIII.- Las demás que le señale el Presidente Municipal, el Director General y 
 
 Para auxiliar al Presidente Municipal en materia de Desarrollo Humano, el Ayuntamiento tendrá una Dirección General de Desarrollo Humano, la cual estará a cargo de una persona denominada Director General de Desarrollo Humano.
 
-> <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 16 DE ENERO DE 2016)</small>
 
 ###### Artículo 258.
 
-La Dirección General de Desarrollo Humano contará con cinco Direcciones de Área: la Dirección de Desarrollo Económico, que se integrará por la Jefatura de Departamento del Centro Municipal de Negocios y la Jefatura de Departamento de Promoción Económica que, a su vez, tendrá tres Jefaturas de Área: de Promoción Turística, de Servicios Empresariales y de CONOCER; la Dirección de Desarrollo Social, que se integrará por las Jefaturas de Departamento de Vivienda y de Programas Sociales; la Dirección de Desarrollo Rural, que se integrará por la Jefatura de Departamento de Gestión y Operación y la Jefatura de Departamento de Vinculación; la Dirección de Cultura y Educación, que se integrará por la jefatura de Departamento de Cultura y Educación y la Jefatura de Área de Eventos Culturales; y la Dirección de Fomento Deportivo, que se integrará por las jefaturas de Departamento de Cultura Física, Deporte y Recreación, y de Mantenimiento y Conservación de Espacios Deportivos.
+La Dirección General de Desarrollo Humano contará con cinco Direcciones de Área: la Dirección de Desarrollo Económico, que se integrará por la Jefatura de Departamento del Centro Municipal de Negocios y la Jefatura de Departamento de Promoción Económica que, a su vez, tendrá tres Jefaturas de Área: de Promoción Turística, de Servicios Empresariales y de CONOCER; la Dirección de Desarrollo Social, que se integrará por las Jefaturas de Departamento de Vivienda y de Programas Sociales; la Dirección de Desarrollo Rural, que se integrará por la Jefatura de Departamento de Gestión y Operación y la Jefatura de Departamento de Vinculación; la Dirección de Cultura y Educación, que se integrará por la jefatura de Departamento de Cultura y Educación, la Jefatura de Área de Administración y la Jefatura de Área de Eventos Culturales; y la Dirección de Fomento Deportivo.
 
 > <small>(REFORMADO, P.O. 2 DE ENERO DE 2016)</small>
 
@@ -6322,3 +6342,15 @@ TERCERO.- El Presidente Municipal dispondrá se imprima, publique, circule y se 
 CUARTO.- Se derogan todas las disposiciones reglamentarias que se opongan a las modificaciones contenidas en el presente acuerdo
 
 QUINTO.- Las menciones que se hagan en otros ordenamientos de las dependencias municipales cuya denominación queda modificada por esta reforma, se entenderán referidas a las dependencias municipales de nueva creación, con su denominación actualizada.
+
+P.O. 16 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO QUE MODIFICA DIVERSOS ARTÍCULOS DEL REGLAMENTO DE GOBIERNO MUNICIPAL DE COLIMA”.]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- El Presidente Municipal dispondrá se imprima, publique, circule y se le dé el debido cumplimiento, de acuerdo con lo dispuesto por el artículo 47, fracción I, incisos a) y f), de la Ley del Municipio Libre del Estado de Colima, y 140 del Reglamento del Gobierno del Municipio de Colima.
+
+TERCERO.- Se derogan todas las disposiciones reglamentarias que se opongan a las modificaciones contenidas en el presente acuerdo.
+
+CUARTO.- Las menciones que se hagan en otros ordenamientos de las dependencias municipales cuya denominación queda modificada por esta reforma, se entenderán referidas a las dependencias municipales de nueva creación, con su denominación actualizada.
