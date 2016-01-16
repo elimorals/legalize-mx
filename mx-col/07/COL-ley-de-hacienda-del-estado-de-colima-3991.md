@@ -4,7 +4,7 @@ identifier: "COL-ley-de-hacienda-del-estado-de-colima-3991"
 country: "mx"
 rank: "ley"
 publication_date: "1992-12-26"
-last_updated: "2015-12-29"
+last_updated: "2016-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3991&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "COL"
 ---
 # LEY DE HACIENDA DEL ESTADO DE COLIMA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE ENERO DE 2016 EN EL P.O. DEL ESTADO DE COLIMA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE HACIENDA DEL ESTADO DE COLIMA
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2015.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 16 DE ENERO DE 2016.]</small>
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Colima, el sábado 26 de diciembre de 1992.
 
@@ -6047,7 +6047,9 @@ PRIMERO.- El presente Decreto entrará en vigor el 1º de enero de 2016, previa 
 
 SEGUNDO.- Para los efectos del ajuste monetario en el pago de las contribuciones a que se refiere el artículo segundo transitorio del decreto de reformas a la Ley de Hacienda del Estado, publicado en el Periódico Oficial "El Estado de Colima", el 31 de diciembre de 1997 y en el caso concreto de los derechos que se causan por los servicios prestados en los Kioscos de Trámites y Servicios Electrónicos, durante el año 2016, el monto se ajustará a la decena de pesos inferior más próxima.
 
-TERCERO.- Durante el ejercicio fiscal 2016, las personas físicas y morales, tenedoras o usuarias de los vehículos a que se refiere el Capítulo VIII, del Título Primero, de la Ley de Hacienda del Estado de Colima, inscritos en el Registro Público Vehicular en el ejercicio 2015 o anteriores, tendrán derecho a que se les otorgue un subsidio por el equivalente al 100% del Impuesto Sobre Tenencia o Uso de Vehículos que se cause por el ejercicio fiscal 2015, siempre que cumplan con los siguientes requisitos:
+> <small>(F. DE E., P.O. 16 DE ENERO DE 2016)</small>
+
+TERCERO.- Durante el ejercicio fiscal 2016, las personas físicas y morales, tenedoras o usuarias de los vehículos a que se refiere el Capítulo VIII, del Título Primero, de la Ley de Hacienda del Estado de Colima, inscritos en el Registro Público Vehicular en el ejercicio 2015 o anteriores, tendrán derecho a que se les otorgue un subsidio por el equivalente al 100% del Impuesto Sobre Tenencia o Uso de Vehículos que se cause por el ejercicio fiscal 2016, siempre que cumplan con los siguientes requisitos:
 
 I.- Que no tengan adeudos del ejercicio 2015 y anteriores por cualquiera de los conceptos siguientes:
 
@@ -6061,7 +6063,9 @@ II.- Que el pago de las contribuciones vehiculares correspondientes al ejercicio
 
 CUARTO.- Durante el ejercicio fiscal 2016, las personas físicas y morales, tenedoras o usuarias de los vehículos a que se refiere el Capítulo VIII, del Título Primero, de la Ley de Hacienda del Estado de Colima, que se inscriban en el Registro Público Vehicular en el ejercicio fiscal 2016, tendrán derecho a que se les otorgue un subsidio por el equivalente al 100% del Impuesto Sobre Tenencia o Uso de Vehículos que se cause por el mismo ejercicio, siempre que cumplan con los siguientes requisitos:
 
-I.- Que hubieran adquirido vehículos nuevos o importados entre los días 21 de noviembre y 31 de diciembre del 2015, sin que los mismos se hubieran inscrito en el Registro Público Vehicular del Estado en dicho periodo;
+> <small>(F. DE E., P.O. 16 DE ENERO DE 2016)</small>
+
+I.- Que hubieran adquirido vehículos nuevos o importados entre los días 20 de noviembre y 31 de diciembre del 2015, sin que los mismos se hubieran inscrito en el Registro Público Vehicular del Estado en dicho periodo;
 
 II.- Que adquieran vehículos nuevos o importados durante el ejercicio fiscal 2016;
 
