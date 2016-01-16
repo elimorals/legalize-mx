@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2015-08-08"
+last_updated: "2016-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2016.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -2167,11 +2167,19 @@ Así mismo, en cada municipio deberá existir una asociación municipal de padre
 
 En igual forma, dentro de la Entidad habrá de integrarse una asociación estatal de padres de familia, compuesto por representantes de las asociaciones municipales.
 
-> <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE ENERO DE 2016)</small>
 
 ###### ARTÍCULO 133.
 
-La organización y funcionamiento de las asociaciones de padres de familia, se sujetarán a las disposiciones que emita la Autoridad Educativa Federal y Estatal.
+La organización y funcionamiento de las asociaciones de padres de familia, en lo concerniente a sus relaciones con las autoridades de los establecimientos escolares, se sujetarán a las disposiciones que emitan la autoridad educativa federal y estatal, además deberán ceñir su actuación a los principios de transparencia, publicidad, rendición de cuentas, imparcialidad, austeridad, honestidad, legalidad, optimización de recursos y buena fe.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2016)</small>
+
+Por lo que toca a su creación, quedan sujetas a las disposiciones de la legislación civil y demás que resulten aplicables. Tratándose de la Asociación Estatal, su constitución deberá constar en escritura pública.
+
+> <small>(ADICIONADO, P.O. 16 DE ENERO DE 2016)</small>
+
+En sus estatutos deberán incorporar lo previsto por el artículo 67 de la Ley General de Educación y sus correlativos 130 BIS y 134 de la presente Ley.
 
 > <small>(REFORMADO, P.O. 25 DE ABRIL DE 2007)</small>
 
@@ -4034,3 +4042,15 @@ P.O. 8 DE AGOSTO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 996/2015 I P.O. MEDIANTE EL CUAL SE REFORMA EL PRIMER PÁRRAFO Y SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO AL ARTÍCULO 133 DE LA LEY ESTATAL DE EDUCACIÓN”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+La actual Asociación Estatal de Padres de Familia contará con un plazo de 180 días naturales, contados a partir de la publicación del presente Decreto, para ajustar su acta constitutiva a las nuevas disposiciones.
