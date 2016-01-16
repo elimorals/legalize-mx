@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-vivienda-del-estado-de-chihuahua-89615"
 country: "mx"
 rank: "ley"
 publication_date: "2012-05-26"
-last_updated: "2013-12-18"
+last_updated: "2016-01-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89615&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE VIVIENDA DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2016.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 26 de mayo de 2012.
 
@@ -585,7 +585,9 @@ I. El diagnóstico de la situación habitacional del Estado, incluyendo el anál
 
 II. Los objetivos, políticas y metas generales y particulares que se pretendan.
 
-III. La concordancia con la programación de desarrollo económico, social, urbano y de medio ambiente del Estado.
+> <small>(REFORMADA, P.O. 16 DE ENERO DE 2016)</small>
+
+III. La concordancia con la programación de desarrollo económico, social, urbano y de medio ambiente del Estado, así como las bases para la creación de subprogramas que tengan como objetivo el desarrollo de vivienda con eficiencia energética, calidad y sustentabilidad.
 
 IV. La estrategia general, misma que definirá las acciones básicas a desarrollar, la descripción de las distintas modalidades de atención, el señalamiento de metas y prioridades y su previsible impacto en el sistema urbano, así como el desarrollo regional, económico y social del Estado, con una visión de corto, mediano y largo plazo; identificando las fuentes de financiamiento, la estimación de recursos necesarios, así como los mecanismos para fomentar la producción de vivienda con la participación de los sectores público, social y privado.
 
@@ -1458,6 +1460,14 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 Cuando en cualquier otro instrumento jurídico se haga referencia a la Secretaría de Fomento Social, se entenderá citada a la Secretaría de Desarrollo Social sin que ello afecte su competencia, derechos u obligaciones que haya contraído con antelación a la entrada en vigor del presente Decreto.
 
 P.O. 18 DE DICIEMBRE DE 2013.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 16 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1053/2015 I P.O. MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN III DEL ARTÍCULO 32 DE LA LEY DE VIVIENDA DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
