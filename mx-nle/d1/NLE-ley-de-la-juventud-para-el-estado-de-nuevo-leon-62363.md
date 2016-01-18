@@ -4,7 +4,7 @@ identifier: "NLE-ley-de-la-juventud-para-el-estado-de-nuevo-leon-62363"
 country: "mx"
 rank: "ley"
 publication_date: "2008-07-28"
-last_updated: "2015-12-14"
+last_updated: "2016-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62363&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "NLE"
 ---
 # LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEON
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 18 DE ENERO DE 2016 EN EL P.O. DEL ESTADO DE NUEVO LEÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE LA JUVENTUD PARA EL ESTADO DE NUEVO LEÓN
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE DICIEMBRE DE 2015.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 18 DE ENERO DE 2016.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Nuevo León, el lunes 28 de julio de 2008.
 
@@ -595,9 +595,9 @@ XVI. Acciones que impulsen la organización juvenil autónoma, democrática y co
 
 XVII. La creación, promoción y apoyo de un sistema de información que permita a los jóvenes del Estado obtener, procesar, intercambiar y difundir información actualizada de interés para los entornos juveniles;
 
-(REFORMADA, P.O. 14 DE DICIEMBRE DE 2015
+(REFORMADA, P.O. 14 DE DICIEMBRE DE 2015) (F. DE E., P.O. 18 DE ENERO DE 2016)
 
-XVII (SIC). Programas, acciones y mecanismos para que los jóvenes con discapacidad puedan llegar a ser autosuficientes, cuyo objetivo sea su participación activa en la comunidad y a la vez garanticen el impulso de sus proyectos innovadores y emprendedores;
+XVIII. Programas, acciones y mecanismos para que los jóvenes con discapacidad puedan llegar a ser autosuficientes, cuyo objetivo sea su participación activa en la comunidad y a la vez garanticen el impulso de sus proyectos innovadores y emprendedores;
 
 > <small>(REFORMADA, P.O. 14 DE DICIEMBRE DE 2015)</small>
 
