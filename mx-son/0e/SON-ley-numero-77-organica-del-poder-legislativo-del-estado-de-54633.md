@@ -4,7 +4,7 @@ identifier: "SON-ley-numero-77-organica-del-poder-legislativo-del-estado-de-5463
 country: "mx"
 rank: "ley"
 publication_date: "2007-03-05"
-last_updated: "2015-10-22"
+last_updated: "2016-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=54633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SON"
 
 LEY NÚMERO 77 ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE SONORA
 
-ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 18 DE ENERO DE 2016.
 
 Ley publicada en la Sección II del Boletín Oficial del Estado de Sonora, el lunes 5 de marzo de 2007.
 
@@ -617,9 +617,9 @@ Para el ejercicio de sus atribuciones, la Diputación Permanente se sujetará en
 
 La Diputación Permanente celebrará sus sesiones ordinariamente el día martes de cada semana o cuando lo solicite el Presidente o la mayoría de sus integrantes.
 
-> <small>(ADICIONADO, B.O. 16 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, B.O. 18 DE ENERO DE 2016)</small>
 
-Las sesiones de la Diputación Permanente se realizarán en la sala de comisiones.
+Las sesiones de la Diputación Permanente se realizarán en la sala de comisiones o, en su defecto, en lugares distintos a ésta, previo acuerdo de la Comisión de Régimen Interno y Concertación Política.
 
 ###### ARTÍCULO 76.
 
@@ -2154,6 +2154,14 @@ B.O. 15 DE OCTUBRE DE 2015.
 El presente Decreto entra en vigor al día siguiente al de su publicación en el Boletín Oficial del Gobierno del Estado.
 
 B.O. 22 DE OCTUBRE DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto entrará en vigor el día de su publicación en el Boletín Oficial del Gobierno del Estado de Sonora.
+
+B.O. 18 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 41, QUE REFORMA EL PÁRRAFO SEGUNDO DEL ARTÍCULO 75 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO”.]
 
 ###### ARTÍCULO ÚNICO.
 
