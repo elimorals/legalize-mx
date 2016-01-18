@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-poder-ejecutivo-del-estado-de-sonora-8388"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1985-12-30"
-last_updated: "2016-01-14"
+last_updated: "2016-01-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8388&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGÁNICA DEL PODER EJECUTIVO DEL ESTADO DE SONORA
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 21 DE DICIEMBRE DE 2015.
 
-N. DE. E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 14 DE ENERO DE 2016.
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL BOLETÍN OFICIAL DEL 18 DE ENERO DE 2016.]</small>
 
 Ley publicada en la Sección Décimo Séptima del Boletín Oficial del Estado de Sonora, el lunes 30 de diciembre de 1985.
 
@@ -763,9 +763,15 @@ VI. (DEROGADA, B.O. 21 DE DICIEMBRE DE 2015)
 
 VII. (DEROGADA, B.O. 21 DE DICIEMBRE DE 2015)
 
+(REFORMADO, B.O. 21 DE DICIEMBRE DE 2015) (F. DE E., B.O. 18 DE ENERO DE 2016)
+
 ###### ARTICULO 25.
 
-(DEROGADO, B.O. 21 DE DICIEMBRE DE 2015)
+Para hacer efectivos, dar seguimiento, elaborar evaluaciones integrales o ejecutar los objetivos previstos en las fracciones VI, VII ó IX del apartado A del artículo 24 de esta Ley, la Secretaría de Hacienda podrá, de manera adicional a las dependencias que resulten competentes, contratar por sí misma prestadores de servicios externos profesionales de asesoría o consultorías con cargo al presupuesto asignado a Hacienda o a las dependencias, organismos o entidades para que se elaboren diagnósticos, análisis, estudios, opiniones, valuaciones cualitativas, capacitaciones o en general servicios similares que se materialicen a través de entregables o informes, relacionados con las distintas materias, ramas, disciplinas y/o actividades de la Administración Pública Directa o Paraestatal. Las contrataciones y obligaciones contraídas entre la Secretaría de Hacienda con el prestador externo de servicios se regularán por el Código Civil del Estado de Sonora.
+
+Las dependencias y entidades de la Administración Pública Directa y Paraestatal, para el cumplimiento de sus fines, podrán contratar a prestadores de servicios profesionales de asesoría o consultoría con cargo a su presupuesto. Estos servicios deberán contar únicamente con el contrato y los entregables o informes que correspondan al objeto contratado, por tanto, en términos de lo dispuesto en la Ley de Fiscalización Superior para el Estado de Sonora, como sujetos de fiscalización sólo les será exigible lo previsto en este párrafo.
+
+Los contratos de prestadores de servicios profesionales de asesoría o consultoría se regularán por el Código Civil del Estado de Sonora y no le serán aplicables las reglas previstas para aquellos contratos de servicios regulados por la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles de la Administración Pública Estatal y Ley de Obras Públicas y Servicios Relacionados con la misma para el Estado de Sonora.
 
 > <small>(REFORMADO, B.O. 18 DE DICIEMBRE DE 2003)</small>
 
