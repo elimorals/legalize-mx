@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2016-01-15"
+last_updated: "2016-01-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2000-12-28"
 
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 15 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE ENERO DE 2016.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -18910,6 +18910,18 @@ TERCERO.- A la Consejería Jurídica y de Servicios Legales, se le transferirán
 
 CUARTO.- La Consejería Jurídica y de Servicios Legales, deberá adecuar su estructura orgánica y actualizar su Manual Administrativo en los plazos y condiciones que establezca la Contraloría General.
 
+> <small>(ADICIONADO, G.O. 18 DE ENERO DE 2016)</small>
+
+QUINTO.- En tanto se formaliza material, financiera y administrativamente la transferencia a la Consejería Jurídica y de Servicios Legales de los recursos humanos, materiales, técnicos y financieros de la Dirección General de Regularización Territorial, la Secretaría de Gobierno continuará ejerciendo los recursos presupuestales correspondientes a esa área administrativa de conformidad con los techos presupuestales aprobados en el Presupuesto de Egresos del Distrito Federal para el ejercicio fiscal 2016.
+
+> <small>(ADICIONADO, G.O. 18 DE ENERO DE 2016)</small>
+
+SEXTO.- La Oficialía Mayor y la Secretaría de Gobierno realizarán las adecuaciones administrativas que en el ámbito de sus atribuciones corresponda para que el traslado de los recursos humanos, materiales, técnicos y financieros de la Dirección General de Regularización Territorial se lleve a cabo sin afectar la prestación del servicio público que se realiza por el área que se transfiere, respetando los derechos laborales de los trabajadores adscritos.
+
+> <small>(ADICIONADO, G.O. 18 DE ENERO DE 2016)</small>
+
+SÉPTIMO.- La Secretaría de Finanzas instrumentará los mecanismos necesarios para que los recursos que se han asignado a la Dirección General de Regularización Territorial en el Presupuesto de Egresos para el ejercicio fiscal sean debidamente transferidos a la Consejería Jurídica y de Servicios Legales.
+
 G.O. 29 DE SEPTIEMBRE DE 2015.
 
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
@@ -19051,3 +19063,11 @@ QUINTO.- El Órgano Político-Administrativo deberá adecuar su estructura orgá
 SEXTO.- Las referencias hechas en ordenamientos e instrumentos administrativos a las Unidades Administrativas que por virtud de este decreto hubieran dejado de tener competencia en la materia que regulan, se entenderán hechas a aquellas que cuenten con las facultades correspondientes.
 
 SÉPTIMO.- Se derogan todas las disposiciones reglamentarias o administrativas que se opongan al presente decreto.
+
+G.O. 18 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE ADICIONA EL DIVERSO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL”.]
+
+PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
