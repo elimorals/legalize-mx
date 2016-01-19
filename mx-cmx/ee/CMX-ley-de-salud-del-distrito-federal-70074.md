@@ -4,7 +4,7 @@ identifier: "CMX-ley-de-salud-del-distrito-federal-70074"
 country: "mx"
 rank: "ley"
 publication_date: "2009-09-17"
-last_updated: "2016-01-14"
+last_updated: "2016-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70074&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2009-08-26"
 
 LEY DE SALUD DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 14 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 19 DE ENERO DE 2016.
 
 Ley publicada en la Gaceta Oficial del Distrito Federal, el jueves 17 de septiembre de 2009.
 
@@ -210,6 +210,10 @@ XVII. Firma Grafométrica.- Entiéndase ésta como la digitalización del gesto 
 
 XVIII. Digitalizador de firmas.- Dispositivo que registra el trazo de la firma autógrafa de una persona, las firmas registradas se almacenan en un repositorio central para integrarse con el Expediente Clínico Electrónico
 
+> <small>(ADICIONADA, G.O. 19 DE ENERO DE 2016)</small>
+
+XIX. "El Médico en tu Casa".- Programa a través del cual se brindan servicios de salud a domicilio a mujeres embarazadas, personas adultas mayores, enfermos postrados o terminales y personas con discapacidad.
+
 ###### Artículo 7.
 
 Son autoridades sanitarias del Distrito Federal:
@@ -298,7 +302,11 @@ XX. Una atención terminal humanitaria, y en su caso, en los términos dispuesto
 
 XXI. No ser sometidos a medios, tratamientos o procedimientos médicos que pretendan prolongar innecesariamente su vida, protegiendo en todo momento su dignidad como persona, de conformidad a lo establecido en la Ley General de Salud y la Ley de Voluntad Anticipada del Distrito Federal, y
 
-XXII. Los demás que le sean reconocidos en el funcionamiento de los sistemas de salud.
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2016)</small>
+
+XXII. Las mujeres embarazadas, personas adultas mayores, personas en situación de abandono, enfermos postrados o terminales y personas con discapacidad podrán también recibir los servicios de salud a través del programa "El Médico en tu Casa".
+
+Para efectos de lo señalado en la presente fracción se entenderá por personas en situación de abandono, aquéllas que por su situación social y familiar viven abandonadas por sus familiares en su domicilio y son apoyadas por algún vecino
 
 ###### Artículo 12.
 
@@ -762,7 +770,13 @@ I.- Realizando acciones y otorgando servicios enfocados básicamente a preservar
 
 II.- Practicando el diagnóstico precoz, tratamiento oportuno y, en su caso, rehabilitación de padecimientos que se presentan con frecuencia y cuya resolución es factible por medio de atención ambulatoria, y
 
-III.- Contribuyendo a la prestación de atención médica de cualquier nivel.
+> <small>(REFORMADA, G.O. 19 DE ENERO DE 2016)</small>
+
+III. Contribuyendo a la prestación de atención médica de cualquier nivel, incluyendo los programas "Medicina a Distancia" "Detección oportuna de enfermedades crónicas" y "El Médico en tu Casa" entre otros;
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN LA G.O. DE 19 DE ENERO DE 2016, PÁGINA 5]</small>
+
+XXIV (SIC). Los demás que le sean reconocidos en el funcionamiento de los sistemas de salud.
 
 ###### Artículo 27.
 
@@ -3157,3 +3171,19 @@ SEGUNDO. El Consejo a que se refiere el presente Decreto deberá integrarse dent
 TERCERO. Los lineamientos de operación del Consejo, deberán ser expedidos en un término no mayor de noventa días hábiles posteriores a la fecha de integración de dicho órgano.
 
 CUARTO. La creación de la Comisión a que se refiere el presente Decreto, deberá sujetarse a los recursos humanos, financieros y materiales destinados para tal propósito.
+
+G.O. 19 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO POR EL QUE SE ADICIONAN Y REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DE SALUD DEL DISTRITO FEDERAL".]
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente decreto entrará en vigor al día siguiente al de su publicación.
+
+TERCERO. La Asamblea Legislativa otorgará la suficiencia presupuestal que, para tal efecto se asigne dentro del Presupuesto de Egresos del Distrito Federal para el Ejercicio Fiscal 2016, en apego a lo establecido por el artículo 3 de la Ley de Salud del Distrito Federal, a efecto de que la Secretaría de Salud del Distrito Federal lleve a cabo la operación del Programa "El Médico en tu Casa".
+
+CUARTO.- El Programa "El Médico en tu Casa" será aplicado en concordancia con las demás disposiciones de atención médica que se establecen en la Ley de Salud del Distrito Federal.
+
+QUINTO. La Secretaría de Salud por conducto de la Secretaría de Finanzas del Gobierno del Distrito Federal, deberá entregar a la Asamblea Legislativa del Distrito Federal, en el mes de julio de cada año, un informe que señale la evolución de los costos de atención de la Salud de las principales enfermedades y padecimientos de la población del Distrito Federal.
+
+SEXTO. El Gobierno del Distrito Federal por conducto de la Secretaría de Salud deberá entregar a la Asamblea Legislativa, en el mes de julio de cada año, un informe detallado en el que emita los avances de los indicadores de evaluación y desempeño que proyecte los alcances del programa para el siguiente año.
