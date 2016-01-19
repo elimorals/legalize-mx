@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-de-la-secretaria-de-finanzas-del-estado-448
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-05-07"
-last_updated: "2011-07-16"
+last_updated: "2016-01-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=44853&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS DEL ESTADO DE SAN LUIS POTOSI
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE FINANZAS
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 16 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2016.
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el sábado 7 de mayo de 2005.
 
@@ -85,6 +85,10 @@ d) Dirección de Financiamiento, Deuda y Crédito Público.
 
 IV. La Dirección General de Coordinación Hacendaria de la que depende directamente la Dirección de Política Hacendaria y Coordinación Intergubernamental.
 
+> <small>(ADICIONADO, P.O. 19 DE ENERO DE 2016)</small>
+
+La Secretaría ejercerá sus atribuciones por conducto de su Titular y sus unidades administrativas en todo el territorio del Estado Libre y Soberano de San Luis Potosí.
+
 ###### Artículo 4°.
 
 La Secretaría de Finanzas realizará sus actividades en forma programada. Para tal efecto, en cada programa se precisará la participación que corresponda a las unidades administrativas de la Secretaría y la que, conforme a las disposiciones legales respectivas, competa a las demás dependencias o entidades de la Administración Pública Estatal.
@@ -99,7 +103,7 @@ La representación legal, tramitación y resolución de los asuntos de la compet
 
 El Secretario tiene las siguientes atribuciones no delegables:
 
-l. Fijar, ejecutar, controlar y evaluar la política de la Secretaría, en los términos de la legislación aplicable, de conformidad con los lineamientos, políticas y objetivos del Plan Estatal de Desarrollo, así como los que expresamente determine el Gobernador del Estado;
+I. Fijar, ejecutar, controlar y evaluar la política de la Secretaría, en los términos de la legislación aplicable, de conformidad con los lineamientos, políticas y objetivos del Plan Estatal de Desarrollo, así como los que expresamente determine el Gobernador del Estado;
 
 II. Someter al acuerdo del Gobernador del Estado los asuntos que son competencia de la Secretaría y los del sector correspondiente, así como desempeñar las comisiones y funciones que aquel le confiera y mantenerlo informado sobre su desarrollo y ejecución;
 
@@ -141,7 +145,7 @@ Al frente de las Direcciones Generales habrá un Director General, quien será e
 
 Corresponde a las Direcciones Generales el ejercicio de las siguientes atribuciones:
 
-l. Planear, programar, organizar, dirigir, controlar y evaluar el desarrollo de los programas y el desempeño de las labores encomendadas a las unidades administrativas que integran la Dirección General a su cargo;
+I. Planear, programar, organizar, dirigir, controlar y evaluar el desarrollo de los programas y el desempeño de las labores encomendadas a las unidades administrativas que integran la Dirección General a su cargo;
 
 II. Proponer las políticas, lineamientos y criterios, así como prestar el apoyo técnico que se requiera para la formulación, instrumentación, control y evaluación de los programas que estén a cargo de la Dirección General;
 
@@ -189,7 +193,7 @@ XXII. Las demás que le señalen las leyes, decretos, acuerdos, reglamentos y ma
 
 La Procuraduría Fiscal atenderá el despacho de los siguientes asuntos:
 
-l. Con acuerdo del Secretario, planear, organizar, dirigir y supervisar los trabajos en materia de impartición de justicia tributaria, conforme a las disposiciones legales y a los convenios administrativos en materia fiscal celebrados con la Federación;
+I. Con acuerdo del Secretario, planear, organizar, dirigir y supervisar los trabajos en materia de impartición de justicia tributaria, conforme a las disposiciones legales y a los convenios administrativos en materia fiscal celebrados con la Federación;
 
 II. Proporcionar asesoría jurídica al Secretario de Finanzas, así como a las unidades administrativas de la Secretaría que lo soliciten;
 
@@ -235,7 +239,7 @@ XXI. Los demás que expresamente le señalen otras leyes y reglamentos vigentes 
 
 La Dirección Administrativa atenderá el despacho de los asuntos siguientes:
 
-l. Proporcionar a las diversas unidades administrativas de la Secretaría los recursos humanos, técnicos y materiales que se requieran para la realización de sus programas de trabajo;
+I. Proporcionar a las diversas unidades administrativas de la Secretaría los recursos humanos, técnicos y materiales que se requieran para la realización de sus programas de trabajo;
 
 II. Ejercer y controlar el presupuesto de la Secretaría;
 
@@ -373,7 +377,7 @@ La Dirección General de Ingresos atenderá del despacho de los siguientes asunt
 
 I. Elaborar y someter a la consideración del Secretario de Finanzas la política de ingresos del Gobierno del Estado;
 
-Il. Coordinar y supervisar todas las funciones de recaudación y de Fiscalización de las contribuciones municipales, estatales, federales coordinadas, así como las participaciones y trasferencias de la Federación;
+II. Coordinar y supervisar todas las funciones de recaudación y de Fiscalización de las contribuciones municipales, estatales, federales coordinadas, así como las participaciones y trasferencias de la Federación;
 
 III. Formular, evaluar y optimizar el Sistema de Coordinación Fiscal Estatal;
 
@@ -431,7 +435,7 @@ XXVIII. Coordinar y supervisar la ejecución de las actividades catastrales en e
 
 XXIX. Coordinar y supervisar las funciones de la Oficina de Enlace Estatal, con la Secretaría de Relaciones Exteriores;
 
-XXX. Recaudar los ingresos provenientes de los estacionamientos, propiedad del Gobierno del Estado; y, (sic)
+XXX. Recaudar los ingresos provenientes de los estacionamientos, propiedad del Gobierno del Estado; y,
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 16 DE JULIO DE 2011)</small>
 
@@ -517,7 +521,7 @@ XXXIV. Las demás que le señalen las Leyes Fiscales, de Comercio Exterior, y ad
 
 La Dirección de Recaudación y Política Fiscal atenderá el despacho de los siguientes asuntos:
 
-l. Establecer y operar la política fiscal del Estado;
+I. Establecer y operar la política fiscal del Estado;
 
 II. Participar en la elaboración y aplicación de los Convenios y acuerdos en materia Fiscal;
 
@@ -569,7 +573,7 @@ XXV. Programar, coordinar y evaluar las actividades de las Delegaciones Fiscales
 
 XXVI. Analizar las solicitudes de otorgamiento de subsidios y, en su caso, proponer al Director General de Ingresos su autorización;
 
-XXVII. Aplicar el procedimiento administrativo de ejecución que establece el Código Fiscal del Estado cuando sean contribuciones estatales y el Código Fiscal de la Federación cuando se trate de contribuciones federales administradas por el Estado y supervisar cada una de de sus etapas;
+XXVII. Aplicar el procedimiento administrativo de ejecución que establece el Código Fiscal del Estado cuando sean contribuciones estatales y el Código Fiscal de la Federación cuando se trate de contribuciones federales administradas por el Estado y supervisar cada una de de (sic) sus etapas;
 
 XXVIII. Expedir las credenciales o constancias de identificación del personal adscrito a su cargo;
 
@@ -949,7 +953,7 @@ XXI. Las demás que le señalen las leyes, decretos, acuerdos, reglamentos y man
 
 La Dirección de Caja General atenderá el despacho de los siguientes asuntos:
 
-l. Planear, organizar, dirigir y controlar el manejo de los fondos propiedad del Estrado (sic), así como efectuar los pagos autorizados en los presupuestos de egresos correspondientes;
+I. Planear, organizar, dirigir y controlar el manejo de los fondos propiedad del Estrado (sic), así como efectuar los pagos autorizados en los presupuestos de egresos correspondientes;
 
 II. Establecer y operar el sistema para el registro, control y evaluación de la disponibilidad del Gobierno del Estado, de conformidad con las políticas autorizadas;
 
@@ -1111,7 +1115,7 @@ XXVIII. En general, ejercer las facultades y cumplir las obligaciones que le com
 
 La Dirección General de Coordinación Hacendaria atenderá el despacho de los siguientes asuntos:
 
-l. Recibir en acuerdo a los titulares de las unidades administrativas de su adscripción y resolver los asuntos que sean competencia de las mismas, así como conceder audiencias al público;
+I. Recibir en acuerdo a los titulares de las unidades administrativas de su adscripción y resolver los asuntos que sean competencia de las mismas, así como conceder audiencias al público;
 
 II. Someter a la consideración del Secretario los anteproyectos de iniciativas de leyes o decretos así como los reglamentos, decretos, acuerdos y órdenes en los asuntos de la competencia de las unidades administrativas adscritas a su responsabilidad;
 
@@ -1239,10 +1243,16 @@ C.P.C. JOEL AZUARA ROBLES
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 16 DE JULIO DE 2011.
 
 Primero: El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo: Se derogan todas las disposiciones legales que se opongan a la entrada en vigor del presente Decreto.
+
+P.O. 19 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO ADMINISTRATIVO QUE ADICIONA DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS”.]
+
+ÚNICO: El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
