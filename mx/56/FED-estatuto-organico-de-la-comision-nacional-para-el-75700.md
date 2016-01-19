@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-de-la-comision-nacional-para-el-75700"
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-07-26"
-last_updated: "2010-07-26"
+last_updated: "2016-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75700&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,9 +19,11 @@ issue_date: "2010-07-06"
 ---
 # ESTATUTO ORGANICO DE LA COMISION NACIONAL PARA EL DESARROLLO DE LOS PUEBLOS INDIGENAS
 
-ESTATUTO ORGANICO DE LA COMISION NACIONAL PARA EL DESARROLLO DE LOS PUEBLOS INDIGENAS
+ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL PARA EL DESARROLLO DE LOS PUEBLOS INDÍGENAS
 
-TEXTO ORIGINAL.
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL PARA EL DESARROLLO DE LOS PUEBLOS INDÍGENAS, PUBLICADO EN EL D.O.F. DE 19 DE ENERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 19 DE ENERO DE 2016 (ABROGADO).
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 26 de julio de 2010.
 
@@ -678,3 +680,17 @@ Tercero. El Director General proveerá lo necesario para que el Manual General d
 Cuarto. En tanto entra en vigor el Manual General de Organización de la Comisión, el Director General podrá emitir las normas y lineamientos para la operación de ésta.
 
 Dado en la Ciudad de México, Distrito Federal, a los seis días del mes de julio de dos mil diez.- El Director General, Xavier Antonio Abreu Sierra.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 19 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO POR EL QUE SE EXPIDE EL ESTATUTO ORGÁNICO DE LA COMISIÓN NACIONAL PARA EL DESARROLLO DE LOS PUEBLOS INDÍGENAS".]
+
+Primero. El presente Estatuto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+Segundo. Se abroga el Estatuto Orgánico de la Comisión Nacional para el Desarrollo de los Pueblos Indígenas, publicado en el Diario Oficial de la Federación el 26 de julio de 2010.
+
+Tercero. El Director General proveerá lo necesario para que el Manual General de Organización de la Comisión corresponda a las disposiciones que establecen la Ley y el presente Estatuto, de cuya expedición informará a la Junta de Gobierno.
+
+Cuarto. En tanto entra en vigor el Manual General de Organización de la Comisión, el Director General podrá emitir las normas y lineamientos para la operación de ésta.
