@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-de-la-defensoria-social-y-de-oficio-del-678
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-03-12"
-last_updated: "2009-03-12"
+last_updated: "2016-01-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67859&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "SLP"
 
 REGLAMENTO INTERIOR DE LA DEFENSORIA SOCIAL Y DE OFICIO DEL ESTADO DE SAN LUIS POTOSI
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 19 DE ENERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE ENERO DE 2016 (ABROGADO).
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 12 de marzo de 2009.
 
@@ -630,3 +632,17 @@ LA COORDINADORA GENERAL DE DEFENSORÍA SOCIAL Y DE OFICIO.
 LIC. ALICIA MACIAS HERNANDEZ.
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Con la vigencia de este decreto, se abroga el Reglamento Interior de la Defensoría Social y de Oficio del Estado de San Luis Potosí, publicado en el Periódico Oficial del Estado el 12 de marzo del año 2009.
+
+Los asuntos que se encuentren en trámite de conformidad con el reglamento que por este decreto se abroga, se regirán hasta su conclusión por las disposiciones vigentes con anterioridad a la entrada en vigor este reglamento.
+
+TERCERO.- El Consejo Asesor Honorífico deberá ser integrado en un plazo no mayor a 90 días a partir de la entrada en vigor del presente Decreto.
