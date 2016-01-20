@@ -4,7 +4,7 @@ identifier: "ZAC-ley-para-el-desarrollo-turistico-del-estado-de-zacatecas-41476"
 country: "mx"
 rank: "ley"
 publication_date: "2004-08-25"
-last_updated: "2015-09-02"
+last_updated: "2016-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41476&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY PARA EL DESARROLLO TURÍSTICO DEL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2016.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 25 de agosto de 2004.
 
@@ -205,7 +205,9 @@ En la planeación del desarrollo turístico se tomarán en cuenta los siguientes
 
 I. El aprovechamiento eficiente y racional de los recursos naturales, salvaguardando el equilibrio ecológico y la protección al ambiente y preservando los monumentos y zonas arqueológicas del Estado;
 
-II. Los programas turísticos y las acciones que de ellos se deriven, habrán de aprovechar óptimamente los principales atractivos turísticos de la Entidad, así como prever su difusión a nivel local, nacional e internacional; y
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2016)</small>
+
+II. Los programas turísticos y las acciones que de ellos se deriven, habrán de aprovechar y resguardar óptimamente los principales atractivos turísticos de la Entidad, así como el patrimonio cultural, material e inmaterial del Estado, a fin de prever su difusión a nivel local, nacional e internacional; y
 
 III. El desarrollo turístico del Estado se fundará esencialmente en la coordinación de acciones con el gobierno federal, con otras entidades federativas y con los municipios, así como en la concertación con los sectores social y privado.
 
@@ -337,9 +339,13 @@ I. Fomentar el cuidado y conservación de zonas y monumentos arqueológicos, art
 
 II. Promover y gestionar ante las autoridades federales, estatales y municipales competentes, la dotación de infraestructura y servicios urbanos en los centros de interés turístico;
 
-III. Impulsar la ampliación y mejoramiento de la planta turística, promoviendo la creación de nuevos centros en aquellos lugares que, por sus características físicas o culturales, representen un potencial turístico en el Estado;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2016)</small>
 
-IV. Promover, en coordinación con el Instituto Zacatecano de Cultura "Ramón López Velarde" y demás dependencias y entidades competentes, el rescate y preservación de las tradiciones y costumbres del Estado, que constituyan un atractivo turístico, apoyando las acciones tendientes a su conservación;
+III. Impulsar la ampliación y mejoramiento de la planta turística, promoviendo la creación de nuevos centros en aquellos lugares que, por sus características físicas o culturales, representen un potencial turístico en el Estado así como en los centros que tengan manifestaciones que sean declaradas Patrimonio Cultural Inmaterial del Estado de Zacatecas;
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2016)</small>
+
+IV. Promover, en coordinación con el Instituto Zacatecano de Cultura “Ramón López Velarde” y demás dependencias y entidades competentes, el rescate y preservación de las tradiciones y costumbres del Estado que constituyan un atractivo turístico, así como aquellas prácticas que sean consideradas Patrimonio Cultural Inmaterial del Estado de Zacatecas, apoyando las acciones tendientes a su conservación;
 
 V. Gestionar en las dependencias y entidades correspondientes, la oportuna y eficaz atención al turista en servicios de información, señalización, transportación, seguridad pública, procuración de justicia y demás servicios que requieran los turistas;
 
@@ -479,9 +485,11 @@ La Secretaría podrá tomar en consideración las opiniones y propuestas del Con
 
 ### Capítulo I. De la Coordinación con la Secretaría
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2016)</small>
+
 ###### Artículo 53.
 
-La Secretaría promoverá con los ayuntamientos de los municipios con vocación turística, o en su caso, aquellas en que se desarrollen actividades turísticas, la celebración de convenios y acuerdos destinados a proporcionar mejores servicios de estacionamiento público, seguridad al turista, limpieza en las vialidades y en general los necesarios para el mejoramiento de los servicios públicos, con el objeto de brindar una atención integral al turista.
+La Secretaría promoverá con los ayuntamientos de los municipios con vocación turística, con aquellos que tengan alguna manifestación que haya sido declarada Patrimonio Cultural Inmaterial del Estado de Zacatecas, o en su caso, aquellos en que se desarrollen actividades turísticas, la celebración de convenios y acuerdos destinados a proporcionar mejores servicios de estacionamiento público, seguridad al turista, limpieza en las vialidades y en general los necesarios para el mejoramiento de los servicios públicos, con el objeto de brindar una atención integral al turista.
 
 > <small>(REFORMADO, P.O. 2 DE SEPTIEMBRE DE 2015)</small>
 
@@ -870,3 +878,11 @@ PRIMERO. El presente Decreto entrará en vigor el día siguiente de su publicaci
 SEGUNDO. En el Presupuesto de Egresos del Estado para el ejercicio fiscal del año siguiente a la publicación del presente Decreto en el Periódico Oficial, se procurará incluir las partidas presupuestales correspondientes para los municipios que cuenten con sitios declarados Patrimonio Mundial.
 
 TERCERO. Se derogan todas las disposiciones que se opongan a este Decreto.
+
+P.O. 20 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 502.- SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY PARA EL DESARROLLO TURÍSTICO DEL ESTADO DE ZACATECAS".]
+
+Artículo primero. El presente Decreto deberá publicarse en el Periódico Oficial, Órgano del Gobierno del Estado y entrará en vigor al día siguiente al de su publicación.
+
+Artículo segundo. Se derogan las disposiciones que contravengan este Decreto.
