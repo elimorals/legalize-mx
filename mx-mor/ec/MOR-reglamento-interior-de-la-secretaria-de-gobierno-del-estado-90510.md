@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-de-la-secretaria-de-gobierno-del-estado-905
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-12-05"
-last_updated: "2015-10-14"
+last_updated: "2016-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90510&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE OCTUBRE DE 2015.
+> <small>[N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR LA TERCERA DISPOSICIÓN TRANSITORIA DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO, PUBLICADO EN EL PERIÓDICO OFICIAL EL 20 DE ENERO DE 2016; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR A LOS DIEZ DÍAS HÁBILES SIGUIENTES A LA FECHA DE SU PUBLICACIÓN.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 5 de diciembre de 2012.
 
@@ -1046,3 +1048,21 @@ SEGUNDA. Se derogan todas las disposiciones de igual o menor rango jerárquico n
 TERCERA. En un plazo que no exceda de sesenta días naturales, contados a partir del inicio de la vigencia del presente Decreto, la Secretaría de Gobierno del Poder Ejecutivo Estatal deberá realizar las modificaciones necesarias a la normatividad administrativa interna que corresponda.
 
 CUARTA. Los recursos humanos, materiales y presupuestales asignados al denominado Consejo Estatal de Población, como órgano desconcentrado de la Secretaría de Gobierno del Poder Ejecutivo Estatal, serán reasignados a ésta última por las autoridades competentes.
+
+P.O. 20 DE ENERO DE 2016.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE GOBIERNO”.]</small>
+
+PRIMERA. El presente Reglamento iniciará su vigencia a los diez días hábiles siguientes a la fecha de su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Dentro de un plazo de noventa días hábiles, contados a partir de la entrada en vigor del presente Reglamento, la Secretaría de Gobierno deberá actualizar los Manuales Administrativos, descriptivos de puestos y demás instrumentos administrativos que correspondan.
+
+TERCERA. Se abroga el Reglamento Interior de la Secretaría de Gobierno, publicado en el Periódico Oficial “Tierra y Libertad” número 5048, de fecha 05 de diciembre de 2012, así como se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al presente instrumento.
+
+CUARTA. De conformidad con lo dispuesto en los artículos 21, fracción XXX, de la Ley Orgánica de la Administración Pública del Estado de Morelos; y en los artículos 11, fracción XXXV, y 18, fracción XXVI, de este ordenamiento; la Secretaría de Gobierno, dentro del plazo de diez días hábiles a que hace referencia la Disposición Primera Transitoria para la entrada en vigor del presente Instrumento, debe realizar, los cambios de denominación y supresión de las Unidades Administrativas, sufridos en virtud del mismo, así como registrar conforme a los formatos que expida la Dirección General Jurídica de esa Secretaría de Gobierno, las firmas autógrafas de los funcionarios y servidores públicos titulares de las mismas y los sellos correspondientes, para los efectos legales y administrativos a que haya lugar.
+
+QUINTA. Dentro del plazo a que se refiere la Disposición Transitoria que antecede, la Secretaría de Gobierno deberá realizar los trámites correspondientes para la identificación y asignación de plazas ante la diversa Secretaría de Administración, así como para la expedición de los nombramientos respectivos por parte de la autoridad competente.
+
+SEXTA. Los asuntos que se encuentren en trámite a la entrada en vigor de este Reglamento a cargo de las Unidades Administrativas cuya denominación se modifica o cambia de adscripción, serán continuados en su tramitación por la Unidad Administrativa que corresponda, sin perjuicio de lo señalado en las disposiciones transitorias anteriores.
+
+SÉPTIMA. Los conflictos que se susciten por la aplicación e interpretación del presente Reglamento, serán resueltos por el Secretario de Gobierno.
