@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-de-la-ley-de-publicidad-exterior-del-distrito-82431"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-08-15"
-last_updated: "2013-08-20"
+last_updated: "2016-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82431&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-08-10"
 
 REGLAMENTO DE LA LEY DE PUBLICIDAD EXTERIOR DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE AGOSTO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 20 DE ENERO DE 2016.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 15 de agosto de 2011.
 
@@ -90,21 +90,17 @@ La Secretaría publicará en la Gaceta Oficial del Distrito Federal un manual en
 
 ###### Artículo 4.
 
-Los anuncios podrán instalarse con o sin iluminación, pero tratándose del primer supuesto el nivel de iluminación directa al anuncio podrá ser de hasta 800 luxes siempre que su reflejo a los automovilistas y peatones no exceda de 50 luxes.
+(DEROGADO, G.O. 20 DE ENERO DE 2016)
 
-La iluminación de las pantallas electrónicas hacia los automovilistas y peatones, no podrá exceder de 50 luxes. Los titulares de permisos y licencias deberán incorporar el uso de leds para la iluminación de anuncios.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO, G.O. 20 DE ENERO DE 2016)</small>
 
 ###### Artículo 5.
 
-Los titulares de permisos, licencias y autorizaciones temporales, deberán colocar en cada uno de sus anuncios una placa que deberá contener el nombre o denominación del titular, el número del permiso, licencia o autorización temporal correspondiente, vigencia y ubicación del anuncio. La placa deberá ubicarse en la parte inferior del anuncio, con las dimensiones que hagan posible su lectura desde el pie del anuncio de que se trate.
+Los titulares de permisos administrativos temporales revocables, licencias y autorizaciones temporales, así como quienes aparezcan registrados en el Padrón Oficial de Anuncios Sujetos al Reordenamiento de la Publicidad Exterior del Distrito Federal, deberán colocar en cada una de las carteleras de anuncios, una placa que deberá contener el nombre o denominación del titular, ubicación del anuncio, el número de licencia, los datos del permiso administrativo temporal revocable, de la autorización temporal o el folio de registro del Padrón Oficial de Anuncios Sujetos al Reordenamiento de la Publicidad Exterior del Distrito Federal, así como un código QR proporcionado por la Secretaría, el cual contendrá la misma información indicada. La placa deberá colocarse en la parte inferior de la cartelera del anuncio, en su parte más cercana a la vía pública y con las dimensiones que hagan posible su lectura desde la misma. La placa deberá tener dimensiones de 1 metro por 50 centímetros y la impresión del código QR deberá tener la dimensión de 45 por 45 centímetros, excepto en los casos de los anuncios en tapiales y vallas, los cuales deberán instalar las placas con las características que se indiquen en este Reglamento.
 
-> <small>(REFORMADO, G.O. 20 DE AGOSTO DE 2013)</small>
+Una vez que las personas físicas o morales que hayan sido considerados en el reordenamiento de anuncios y la Secretaría les haya otorgado la licencia, permiso administrativo temporal revocable o autorización temporal respecto de estos anuncios, contarán con un plazo de 10 días hábiles para la actualización de los datos contenidos en la placa, debiendo colocar en ella el número que le corresponda a la licencia, permiso administrativo temporal revocable o autorización temporal que les haya sido otorgada.
 
-Tratándose de anuncios adosados a muros ciegos o en tapiales, en su modalidad de lona, malla, manta u otro material flexible, el nombre o denominación del titular, el número de la licencia o autorización temporal correspondiente, vigencia y ubicación del anuncio deberán indicarse a lo largo del margen inferior del material instalado.
-
-Los titulares de licencias de anuncios denominativos, así como los de autorizaciones temporales de información cívica o cultural, no estarán sujetos a la obligación prevista en el presente artículo.
+Tratándose de anuncios en muros ciegos, vallas o tapiales, el nombre o denominación del titular, el número de licencia o autorización temporal correspondiente, la vigencia y la ubicación del anuncio deberán indicarse a lo largo del margen inferior del material instalado.
 
 ###### Artículo 6.
 
@@ -582,7 +578,7 @@ II. Nodos publicitarios que contengan anuncios adosados en túneles, puentes y b
 
 III. Anuncios en vallas, siempre que se ubiquen en estacionamientos públicos o lotes baldíos;
 
-IV. Anuncios en tapiales, siempre que se ubiquen en obras en proceso de construcción o remodelación, y (sic)
+IV. Anuncios en tapiales, siempre que se ubiquen en obras en proceso de construcción o remodelación, y
 
 V. Anuncios en mobiliario urbano, siempre que se trate de paraderos de autobuses, puestos de periódicos, revistas, flores o lotería o enseres destinados para la recepción de autos.
 
@@ -660,13 +656,13 @@ I. En inmuebles de propiedad privada ubicados en corredores sin segundo piso, se
 
 a). Instalar anuncios autosoportados unipolares cuya columna de soporte tenga una altura máxima de 8 metros contados a partir del nivel de banqueta a la parte inferior de la cartelera, la cual, a su vez, podrá tener unas dimensiones máximas de 2.20 metros de altura y 4 metros de longitud, y
 
-b) Instalar anuncios autosoportados unipolares cuya columna de soporte tenga una altura máxima de 24 metros contados a partir del nivel de banqueta a la parte inferior de la cartelera, la cual, a su vez, podrá tener una altura máxima de 7.20 metros y una longitud máxima de 12.90 metros, siempre que a juicio de la Secretaría de Protección Civil el anuncio no represente un riesgo para la integridad física o patrimonial de las personas, y (sic)
+b) Instalar anuncios autosoportados unipolares cuya columna de soporte tenga una altura máxima de 24 metros contados a partir del nivel de banqueta a la parte inferior de la cartelera, la cual, a su vez, podrá tener una altura máxima de 7.20 metros y una longitud máxima de 12.90 metros, siempre que a juicio de la Secretaría de Protección Civil el anuncio no represente un riesgo para la integridad física o patrimonial de las personas, y
 
 II. En inmuebles de propiedad privada ubicados en corredores con segundo piso, se podrán instalar anuncios autosoportados unipolares cuya columna de soporte tenga la altura necesaria para que el límite inferior de la cartelera sea de cinco metros contados a partir de la superficie de rodamiento del segundo piso, siempre que a juicio de la Secretaría de Protección Civil el anuncio no represente un riesgo para la integridad física o patrimonial de las personas.
 
-> <small>(ADICIONADA, G.O. 20 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.O. 20 DE ENERO DE 2016)</small>
 
-III. En inmuebles de propiedad privada ubicados en corredores publicitarios, se podrán instalar anuncios adosados a muros ciegos, los cuales no deberán rebasar el 65 % del muro en el que se instalen, de conformidad con el programa que para tal efecto implemente la Secretaría.
+III. En inmuebles de propiedad privada ubicados en corredores publicitarios, se podrán instalar anuncios en muros ciegos, los cuales deberán cumplir con los requisitos establecidos en el artículo 84 Bis del presente Reglamento. La Secretaría establecerá el programa para la regularización de los anuncios en muros ciegos.
 
 ###### Artículo 48.
 
@@ -708,7 +704,7 @@ VIII. Las vallas instaladas en un mismo predio, deberán tener una altura unifor
 
 IX. En ningún caso las vallas podrán fijarse a la fachada o barda, ni instalarse en dos líneas paralelas;
 
-X. Las vallas sólo podrán instalarse durante el tiempo que corresponda a la vigencia de la licencia correspondiente, y (sic)
+X. Las vallas sólo podrán instalarse durante el tiempo que corresponda a la vigencia de la licencia correspondiente, y
 
 > <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2013)</small>
 
@@ -912,9 +908,17 @@ V. Fecha de instalación y duración de los anuncios que se pretenda instalar;
 
 VI. Nombres y ubicación de las vías públicas donde se pretenda instalar los anuncios.
 
-VII. Tipo de anuncio: pendón o gallardete, y
+> <small>(REFORMADA, G.O. 20 DE ENERO DE 2016)</small>
 
-VIII. Dimensiones y modo de fijación del anuncio;
+VII. Tipo de anuncio: pendón o gallardete;
+
+> <small>(REFORMADA, G.O. 20 DE ENERO DE 2016)</small>
+
+VIII. Dimensiones y modo de fijación del anuncio; y
+
+> <small>(ADICIONADA, G.O. 20 DE ENERO DE 2016)</small>
+
+IX. Escrito dirigido a la Secretaría, en el cual el Responsable de Obra deberá declarar bajo protesta de decir verdad que con la realización de las obras para la instalación del anuncio no se afectará ningún individuo arbóreo.
 
 A la solicitud descrita se acompañará una muestra gráfica del anuncio y su contenido.
 
@@ -1096,7 +1100,7 @@ II. Por mueble urbano, tratándose de los anuncios en mobiliario urbano;
 
 > <small>(ADICIONADA, G.O. 2 DE MARZO DE 2012)</small>
 
-III. Por Permiso Administrativo Temporal Revocable expedido por la Oficialía Mayor, tratándose de mobiliario urbano que forme parte de proyectos de infraestructura de transporte masivo o colectivo avalados por la Administración Pública del Distrito Federal, y (sic)
+III. Por Permiso Administrativo Temporal Revocable expedido por la Oficialía Mayor, tratándose de mobiliario urbano que forme parte de proyectos de infraestructura de transporte masivo o colectivo avalados por la Administración Pública del Distrito Federal, y
 
 > <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2013)</small>
 
@@ -1106,23 +1110,23 @@ IV. Por inmueble, tratándose de anuncios adosados a muros ciegos en corredor pu
 
 V. Por inmueble, tratándose de los anuncios en vallas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 20 DE ENERO DE 2016)</small>
 
 ###### Artículo 84.
 
-El expediente técnico del anuncio, que se acompañe a la solicitud para el otorgamiento de una licencia de anuncio de propaganda comercial o adosado a muro ciego en un corredor publicitario, deberá integrarse por la siguiente información y documentos:
+El expediente técnico del anuncio autosoportado, que se acompañe a la solicitud para el otorgamiento de una licencia de anuncio de propaganda comercial en un corredor publicitario, deberá integrarse por la siguiente información y documentos:
 
 > <small>(REFORMADA, G.O. 2 DE MARZO DE 2012)</small>
 
 I. Croquis de ubicación del predio donde se pretenda instalar el anuncio, en el que se indiquen las calles y datos de orientación necesarios, y en el que se indique también la ubicación precisa del anuncio dentro del predio;
 
-> <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.O. 20 DE ENERO DE 2016)</small>
 
-II. Tipo de anuncio: autosoportado, adosado, adosado a muro ciego u otro (en cuyo caso el solicitante deberá especificarlo);
+II. Tipo de anuncio: cartelera o pantalla;
 
-> <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.O. 20 DE ENERO DE 2016)</small>
 
-III. Dimensiones de la pantalla, cartelera o superficie de exhibición del muro ciego;
+III. Dimensiones de la cartelera o pantalla;
 
 IV. Altura del soporte, desde el nivel de banqueta al nivel inferior de la cartelera o de la pantalla, en su caso;
 
@@ -1154,9 +1158,9 @@ e). (DEROGADO, G.O. 2 DE MARZO DE 2012)
 
 VIII. Perspectiva o render del entorno, en la que se considere también el anuncio de que se trate.
 
-> <small>(REFORMADA, G.O. 20 DE AGOSTO DE 2013)</small>
+> <small>(REFORMADA, G.O. 20 DE ENERO DE 2016)</small>
 
-IX. Opinión técnica de la Secretaría de Protección Civil de que el anuncio no representa un riesgo para la integridad física o patrimonial de las personas, salvo que se trate de anuncios pintados directamente en el muro ciego;
+IX. La documentación necesaria para solicitar a la Secretaría de Protección Civil del Distrito Federal la opinión técnica respecto a que el anuncio no representa un riesgo para la integridad física o patrimonial de las personas;
 
 X. Dictamen favorable de la Dirección del Patrimonio Cultural Urbano, adscrita a la Secretaría, cuando el inmueble en el que se pretenda instalar el anuncio se encuentre en Área de Conservación Patrimonial o en un elemento del patrimonio cultural urbano;
 
@@ -1173,6 +1177,46 @@ XIV. Los demás que disponga la Ley y el presente Reglamento.
 Los planos previstos en el presente artículo, incluirán materiales estructurales, acabados, color y texturas. A su vez, los pies de plano correspondientes contendrán croquis de ubicación del anuncio, escala gráfica, fecha, nombre del plano y su número, nombres y firmas del solicitante, Director Responsable de Obra, y en su caso, Corresponsable.
 
 Los documentos previstos en el presente artículo deberán entregarse tanto en versión digital como impresa, y contener la firma del solicitante y del Director Responsable de Obra correspondiente.
+
+> <small>(ADICIONADO, G.O. 20 DE ENERO DE 2016)</small>
+
+###### Artículo 84 Bis.
+
+El expediente técnico del anuncio en muros ciegos, que se acompañe a la solicitud para el otorgamiento de una licencia de anuncio en muro ciego en un corredor publicitario, deberá integrarse por la siguiente información y documentos:
+
+I. Croquis de ubicación del predio donde se pretenda instalar el anuncio, en el que se indiquen las calles y datos de orientación necesarios, señalando las calles que rodean el inmueble;
+
+II. Dimensiones precisas del anuncio y el porcentaje de superficie de exhibición del anuncio en el muro ciego, la cual no deberá rebasar el 25% de la superficie total del muro;
+
+III. La altura del anuncio no deberá rebasar 10 metros desde el nivel de banqueta al nivel superior del anuncio;
+
+IV. Señalar el material que se utilizará en el anuncio, el cual no deberá ser ninguno de los prohibidos en la fracción VI, del artículo 13 de la Ley de Publicidad Exterior del Distrito Federal. La estructura que soporte el anuncio deberá encontrarse adherida al muro del inmueble donde se pretende instalar;
+
+V. Cálculos estructurales y memoria estructural;
+
+VI. Planos acotados y a escala:
+
+a) Estructurales y
+
+b) De iluminación, en el que se indique la fuente de energía y la instalación eléctrica;
+
+VII. Perspectiva o render del entorno, en la que se considere también el anuncio de que se trate;
+
+VIII. Opinión técnica de la Secretaría de Protección Civil de que el anuncio no representa ningún riesgo para la integridad física o patrimonial de las personas, salvo que se trate de anuncios pintados directamente en el muro ciego;
+
+IX. Dictamen favorable de la Dirección del Patrimonio Cultural Urbano, adscrita a la Secretaría, cuando el inmueble en el que se pretenda instalar el anuncio se encuentre en Área de Conservación Patrimonial o en un elemento del patrimonio cultural urbano;
+
+X. Autorización de impacto ambiental emitida por la Secretaría del Medio Ambiente, cuando el inmueble en el que se pretenda instalar el anuncio se encuentre en Suelo de Conservación;
+
+XI. Copia simple de los recibos de impuesto predial y del derecho de suministro de agua, debidamente pagados, del inmueble de que se trate, correspondientes al bimestre inmediato anterior a la fecha de la solicitud;
+
+XII. En su caso, copia del contrato de arrendamiento entre el propietario, administrador o poseedor del inmueble y el publicista y
+
+XIII. Los demás que disponga la Ley y el presente Reglamento.
+
+Los planos previstos en el presente artículo, incluirán materiales estructurales, acabados, color y texturas. A su vez, los pies de plano correspondientes contendrán croquis de ubicación del anuncio, escala gráfica, fecha, nombre del plano y su número, nombres y firmas del solicitante, Director Responsable de Obra, y en su caso, Corresponsable.
+
+Los documentos indicados en este artículo deberán entregarse en versión digital e impresa y contener la firma del solicitante y del Director Responsable de Obra correspondiente.
 
 ###### Artículo 85.
 
@@ -1569,3 +1613,13 @@ G.O. 20 DE AGOSTO DE 2013.
 PRIMERO.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
 SEGUNDO.- El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+G.O. 20 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGA DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE PUBLICIDAD EXTERIOR DEL DISTRITO FEDERAL”.]
+
+PRIMERO. Publíquese en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO. El presente Decreto entrará en vigor el día de su publicación.
+
+TERCERO. Los titulares de permisos administrativos temporales revocables, licencias y autorizaciones temporales, así como quienes estén inscritos en el Padrón Oficial de Anuncios Sujetos al Reordenamiento de Publicidad Exterior en el Distrito Federal, contarán con 25 días naturales contados a partir del día siguiente de la entrada en vigor del presente Decreto para el cumplimiento de las obligaciones normativas contenidas en el artículo 5 de este ordenamiento, de los (sic) contrario serán aplicables las sanciones previstas en la Ley de Publicidad Exterior a través del procedimiento de verificación respectivo.
