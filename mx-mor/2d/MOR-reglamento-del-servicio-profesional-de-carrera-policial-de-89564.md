@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-del-servicio-profesional-de-carrera-policial-de-8956
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-09-26"
-last_updated: "2012-09-26"
+last_updated: "2016-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89564&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DE LA SECRETARÍA DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA SEGUNDA DEL REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DE LA COMISIÓN ESTATAL DE SEGURIDAD PÚBLICA DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 20 DE ENERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2016. (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 26 septiembre del 2012.
 
@@ -1136,3 +1138,25 @@ EL SECRETARIO DE SEGURIDAD PÚBLICA.
 GRAL. DE DIV. D.E.M. RET. RAFAEL GARCÍA AGUILAR.
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 20 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DEL SERVICIO PROFESIONAL DE CARRERA POLICIAL DE LA COMISIÓN ESTATAL DE SEGURIDAD PÚBLICA”.]
+
+PRIMERA. El presente Reglamento iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se abroga el Reglamento del Servicio Profesional de Carrera Policial de la Secretaría de Seguridad Pública del Estado de Morelos, publicado en el Periódico Oficial "Tierra y Libertad", número 5028, de fecha veintiséis de septiembre de 2012 y el Reglamento para el otorgamiento de Estímulos, Condecoraciones y Ascensos para el personal de la Policía Preventiva de la Secretaría de Seguridad Pública del Estado de Morelos, publicado en el Periódico Oficial "Tierra y Libertad", número 4545, Sección Segunda, de fecha dieciocho de julio de 2007; y se derogan todas las disposiciones de igual o menor rango jerárquico normativo que se opongan al contenido del presente Reglamento.
+
+TERCERA. Para efectos de la migración de los elementos policiales en activo al Servicio Profesional de Carrera, se dispondrá de un periodo máximo de un año, contado a partir de la vigencia del presente Reglamento, quienes ya deberán tener cubierto los siguientes requisitos:
+
+a) Que tengan las evaluaciones de control de confianza;
+
+b) Que tengan la equivalencia a la formación inicial, y
+
+c) Que cubran con el perfil de puesto con relación a la re nivelación académica.
+
+Una vez que los elementos policiales hayan concluido satisfactoriamente el proceso de migración, se les otorgará la constancia correspondiente que hará las veces de nombramiento para los efectos de lo dispuesto en el artículo 63, de este ordenamiento.
+
+En caso de que el elemento policial en activo no cubra con alguno de los requisitos antes plasmados o, en su caso, derivado de las evaluaciones de control de confianza, apareciese alguna causa justificada de remoción de la relación administrativa establecida en la Ley Estatal y este Reglamento, de manera inmediata se iniciará el procedimiento administrativo correspondiente ante la Unidad de Asuntos Internos de la Comisión Estatal de Seguridad Pública.
