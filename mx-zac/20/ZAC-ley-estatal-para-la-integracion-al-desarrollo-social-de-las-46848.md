@@ -4,7 +4,7 @@ identifier: "ZAC-ley-estatal-para-la-integracion-al-desarrollo-social-de-las-468
 country: "mx"
 rank: "ley"
 publication_date: "2005-11-05"
-last_updated: "2014-08-16"
+last_updated: "2016-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=46848&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "ZAC"
 
 LEY ESTATAL PARA LA INTEGRACIÓN AL DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE AGOSTO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2016.
 
 Ley publicada en el Suplemento del Periódico Oficial del Estado de Zacatecas, el sábado 5 de noviembre de 2005.
 
@@ -147,11 +147,11 @@ X. El diseño universal.
 
 ### CAPÍTULO II. Definiciones
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE AGOSTO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2016)</small>
 
 ###### Artículo 3.
 
-Persona con discapacidad es aquella que presenta alguna deficiencia física, mental o sensorial, ya sea de naturaleza permanente o temporal, que puede ser agravada por el entorno económico y social, que limita la capacidad de realizar una o más actividades esenciales de la vida diaria.
+Persona con discapacidad es aquella que padece alguna deficiencia física, mental o sensorial, ya sea de naturaleza permanente o temporal, así como un trastorno de talla y peso congénito o adquirido, que puede ser agravada por el entorno económico y social, que limita la capacidad de ejercer una o más actividades esenciales de la vida diaria.
 
 Se aceptan las tres clases de afectación o alteración que clasifica la Organización Mundial de la Salud como causantes de la discapacidad:
 
@@ -1544,3 +1544,9 @@ Artículo segundo. Se derogan las disposiciones que se opongan al presente Decre
 Artículo tercero. Dentro de los treinta días naturales siguientes a la entrada en vigor de este Decreto, el Titular del Ejecutivo o su representante, tomará la protesta a los integrantes del Consejo Estatal de y para Personas con Discapacidad.
 
 Artículo cuarto. Dentro de los ciento veinte días naturales siguientes a la entrada en vigor del presente Decreto, se publicará en el Periódico Oficial, Órgano del Gobierno del Estado de Zacatecas, el Programa Estatal de Deporte Adaptado y Paralímpico.
+
+P.O. 20 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 468.- SE REFORMA LA LEY PARA LA INTEGRACIÓN AL DESARROLLO SOCIAL DE LAS PERSONAS CON DISCAPACIDAD”.]
+
+Único. El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado.
