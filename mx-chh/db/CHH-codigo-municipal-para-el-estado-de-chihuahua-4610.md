@@ -4,7 +4,7 @@ identifier: "CHH-codigo-municipal-para-el-estado-de-chihuahua-4610"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-11-18"
-last_updated: "2015-10-24"
+last_updated: "2016-01-20"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4610&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2016.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 18 de noviembre de 1995.
 
@@ -553,11 +553,11 @@ Para lo no previsto, en este ordenamiento sobre el funcionamiento de los Ayuntam
 
 Son facultades y obligaciones de los Ayuntamientos:
 
-> <small>(REFORMADA, P.O. 12 DE MAYO DE 2001)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2016)</small>
 
-I.- Aprobar de acuerdo con las leyes en materia municipal expedidas por la Legislatura del Estado, los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal.
+I.- Aprobar, de acuerdo con las leyes en materia municipal expedidas por la Legislatura del Estado, los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal.
 
-Los reglamentos aprobados por los ayuntamientos deberán publicarse en el Periódico Oficial del Estado;
+Los reglamentos aprobados por los Ayuntamientos deberán publicarse en el Periódico Oficial del Estado o en la Gaceta Municipal, en los casos en que el Ayuntamiento correspondiente cuente con una.
 
 > <small>(REFORMADA, P.O. 12 DE MAYO DE 2001)</small>
 
@@ -737,9 +737,13 @@ Los establecimientos dedicados a las actividades relacionadas con productos met�
 
 XLIV.- Fomentar la lactancia materna, procurando adecuar un espacio para que las madres que laboran en los Ayuntamientos, la proporcionen a sus hijos.
 
-> <small>(ADICIONADA, P.O. 19 DE JUNIO DE 2013)</small>
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2016)</small>
 
-XLV.- Las demás que le confieren las leyes y sus reglamentos.
+XLV.- Optar por la creación de la Gaceta Municipal, en los términos del Título Cuarto del Capítulo II de este Código.
+
+> <small>(ADICIONADA, P.O. 20 DE ENERO DE 2016)</small>
+
+XLVI.- Las demás que le confieren las leyes y sus reglamentos.
 
 ### CAPITULO IV. ATRIBUCIONES DE LOS PRESIDENTES MUNICIPALES
 
@@ -1195,7 +1199,9 @@ IV.- Serán presididas por él o los representantes del Ayuntamiento que sean co
 
 ## TITULO CUARTO. DE LAS BASES GENERALES DE OBSERVANCIA COMUN PARA LOS MUNICIPIOS
 
-### CAPITULO UNICO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 20 DE ENERO DE 2016)</small>
+
+### CAPITULO I
 
 > <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
 
@@ -1283,21 +1289,51 @@ Son circulares, las disposiciones de carácter general, de orden interno, que co
 
 Son disposiciones administrativas de observancia general, las normas que no teniendo las características de los bandos, reglamentos y circulares, sean dictadas, en atención a una inminente necesidad que afecte a los particulares.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2016)</small>
 
 ###### ARTICULO 50.
 
-Los Bandos de Policía y Gobierno, así como las disposiciones administrativas de observancia general, deberán ser publicadas en el Periódico Oficial del Estado.
+Los Bandos de Policía y Gobierno, así como las disposiciones administrativas de observancia general, deberán ser publicados en el Periódico Oficial del Estado, o en la Gaceta Municipal cuando proceda.
 
 > <small>(REFORMADO, P.O. 18 DE DICIEMBRE DE 2013)</small>
 
 Las normas que contengan los bandos, reglamentos y otras disposiciones municipales, deberán ser generales y obligatorias en el ámbito municipal y su aplicación corresponde a las autoridades municipales, mismas que deberán tomar en cuenta los principios de cultura de legalidad, valores cívicos y bienestar colectivo, al momento de su emisión.
 
-### CAPITULO I. DE LA DECLARACION DE DESAPARICION DE AYUNTAMIENTOS
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2016)</small>
+
+### CAPITULO II. DE LAS GACETAS MUNICIPALES
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2016)</small>
+
+ARTICULO 50 BIS.- La Gaceta Municipal es el medio de difusión impreso, de carácter permanente, interés público y con efectos vinculatorios, dependiente de los Ayuntamientos, cuya función consiste en publicar los reglamentos, acuerdos, bandos de policía y gobierno, circulares, órdenes y demás actos expedidos por la autoridad municipal, a fin de que sean publicitados y observados debidamente.
+
+Solamente los municipios que tengan una densidad poblacional mayor a los cuarenta mil habitantes, podrán optar por la creación de una Gaceta Municipal.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2016)</small>
+
+ARTICULO 50 TER.- Todo lo relativo a la organización, archivo, difusión, publicación y proceso gráfico, estará a cargo de la Secretaría del Ayuntamiento.
+
+Por ningún motivo podrán editarse las Gacetas Municipales en las fechas en las que se emite el Periódico Oficial del Estado.
+
+Las Gacetas Municipales deberán contener, en su identidad gráfica, los elementos siguientes:
+
+I.- El título de “Gaceta Municipal del H. Ayuntamiento de”, seguido del nombre del municipio que corresponda.
+
+II.- El Escudo Municipal correspondiente.
+
+III.- La mención del H. Ayuntamiento como responsable de su publicación, así como las fechas en que se publica.
+
+IV.- El lugar, fecha y número de publicación.
+
+V.- Sumario o índice del contenido.
+
+En el portal de Internet del Municipio, deberá publicarse una versión digital de la Gaceta Municipal. En caso de discrepancia entre el contenido publicado en el portal de Internet propiedad del Municipio y la versión impresa, prevalecerá esta última.
+
+En ningún caso se publicará documento alguno, cualquiera que sea su naturaleza jurídica, si no está debidamente firmado y plenamente comprobada su procedencia y autenticidad.
 
 ## TITULO QUINTO. DE LA DECLARACIÓN DE DESAPARICIÓN DE AYUNTAMIENTOS Y DE LA SUSPENSIÓN DEFINITIVA DE SUS INTEGRANTES
 
-### CAPITULO II. DE LA SUSPENSION DEFINITIVA DE LOS INTEGRANTES DE LOS AYUNTAMIENTOS
+### CAPITULO I. DE LA DECLARACION DE DESAPARICION DE AYUNTAMIENTOS
 
 ###### ARTICULO 51.
 
@@ -1327,7 +1363,7 @@ Si la desaparición del Ayuntamiento, se declara dentro de los primeros seis mes
 
 Si la desaparición del Ayuntamiento, se declara después del plazo señalado, los integrantes del Ayuntamiento, nombrados por el Congreso concluirán el período.
 
-### CAPITULO I. DE LOS SERVIDORES PUBLICOS MUNICIPALES
+### CAPITULO II. DE LA SUSPENSION DEFINITIVA DE LOS INTEGRANTES DE LOS AYUNTAMIENTOS
 
 ###### ARTICULO 57.
 
@@ -1369,7 +1405,7 @@ Cuando por cualquier otra causa, no comprendida en el artículo 57, el Ayuntamie
 
 ## TITULO SEXTO. REGIMEN ADMINISTRATIVO
 
-### CAPITULO II. DE LOS ORGANISMOS DESCENTRALIZADOS Y EMPRESAS DE PARTICIPACION MUNICIPAL
+### CAPITULO I. DE LOS SERVIDORES PUBLICOS MUNICIPALES
 
 ###### ARTICULO 60.
 
@@ -1897,9 +1933,7 @@ Una vez constituido el Tribunal de Arbitraje Municipal, el Presidente Municipal 
 
 Habiendo trascurrido el plazo de cuarenta y cinco días señalado en el segundo párrafo del presente artículo, para que el Tribunal de Arbitraje se haya constituido, y sin que ello ocurra, se procederá en los términos que establece la Ley de Responsabilidades de los Servidores Públicos del Estado.
 
-### CAPITULO III. DE LOS ORGANOS DE COLABORACION
-
-> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 1997)</small>
+### CAPITULO II. DE LOS ORGANISMOS DESCENTRALIZADOS Y EMPRESAS DE PARTICIPACION MUNICIPAL
 
 ###### ARTICULO 79.
 
@@ -1929,7 +1963,9 @@ Quedan sujetos al control y vigilancia del Ayuntamiento, en los términos de las
 
 Las empresas de participación minoritaria, quedan sujetas a la vigilancia del Ayuntamiento, por conducto de un comisario designado por aquél.
 
-### CAPITULO UNICO. DE LA DECLARACION PATRIMONIAL
+### CAPITULO III. DE LOS ORGANOS DE COLABORACION
+
+> <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 1997)</small>
 
 ###### ARTICULO 83.
 
@@ -2087,9 +2123,7 @@ XII.- Realizar las demás atribuciones que le fijen las leyes y sus reglamentos.
 
 ## TITULO SEPTIMO
 
-### CAPITULO I. FALTAS Y LICENCIAS DE LOS SERVIDORES PUBLICOS MUNICIPALES
-
-> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2003)</small>
+### CAPITULO UNICO. DE LA DECLARACION PATRIMONIAL
 
 ###### ARTICULO 92.
 
@@ -2167,7 +2201,9 @@ Son aplicables supletoriamente al presente titulo, las disposiciones de la Ley d
 
 ## TITULO OCTAVO. DE LA SUPLENCIA Y RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS MUNICIPALES
 
-### CAPITULO I. DE LOS BIENES MUNICIPALES DE DOMINIO PUBLICO
+### CAPITULO I. FALTAS Y LICENCIAS DE LOS SERVIDORES PUBLICOS MUNICIPALES
+
+> <small>(REFORMADO, P.O. 14 DE JUNIO DE 2003)</small>
 
 ###### ARTICULO 99.
 
@@ -2207,7 +2243,7 @@ Para cubrir las faltas temporales o definitivas de los Regidores se llamará a l
 
 ## TITULO PRIMERO. DEL PATRIMONIO MUNICIPAL
 
-### CAPITULO II. DE LOS BIENES MUNICIPALES DE DOMINIO PRIVADO
+### CAPITULO I. DE LOS BIENES MUNICIPALES DE DOMINIO PUBLICO
 
 ###### ARTICULO 103.
 
@@ -2261,9 +2297,7 @@ V.- Las bibliotecas, museos, teatros, reclusorios, escuelas de rehabilitación p
 
 VI.- Cualesquiera otros, adquiridos por procedimientos de derecho público.
 
-### CAPITULO III. DEL DENUNCIO DE TERRENOS MUNICIPALES
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2002)</small>
+### CAPITULO II. DE LOS BIENES MUNICIPALES DE DOMINIO PRIVADO
 
 ###### ARTICULO 107.
 
@@ -2369,9 +2403,9 @@ Queda prohibido enajenar bienes muebles e inmuebles de dominio público y privad
 
 Los bienes inmuebles sujetos a un proceso de regularización de la tenencia de la tierra, no quedan comprendidos en la prohibición referida en este Artículo.
 
-### CAPITULO UNICO
+### CAPITULO III. DEL DENUNCIO DE TERRENOS MUNICIPALES
 
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE DICIEMBRE DE 2002)</small>
 
 ###### ARTICULO 113.
 
@@ -2463,7 +2497,9 @@ V.- El denunciante que se haya presentado en primer lugar.
 
 ## TITULO SEGUNDO. DE LA HACIENDA MUNICIPAL
 
-### CAPITULO I. DEL IMPUESTO SOBRE ESPECTACULOS PUBLICOS
+### CAPITULO UNICO
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 121.
 
@@ -2521,9 +2557,7 @@ VI.- Cualquier otro concepto establecido en las disposiciones fiscales municipal
 
 ## TITULO TERCERO. DE LOS IMPUESTOS, CONTRIBUCIONES Y DERECHOS
 
-### CAPITULO II. DEL IMPUESTO SOBRE JUEGOS, RIFAS O LOTERIAS, PERMITIDOS POR LA LEY
-
-> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
+### CAPITULO I. DEL IMPUESTO SOBRE ESPECTACULOS PUBLICOS
 
 ###### ARTICULO 128.
 
@@ -2645,7 +2679,9 @@ La violación a esta disposición se sancionará con una multa correspondiente a
 
 El Presidente Municipal podrá ordenar la suspensión del espectáculo, cuando quienes lo exploten, sus encargados o empleados, impidan la entrada a los interventores fiscales a los locales en que se celebre el espectáculo o que en cualquier otra forma obstaculicen a éstos el cumplimiento de su cometido.
 
-### CAPITULO III. EL IMPUESTO PREDIAL
+### CAPITULO II. DEL IMPUESTO SOBRE JUEGOS, RIFAS O LOTERIAS, PERMITIDOS POR LA LEY
+
+> <small>(REFORMADO, P.O. 12 DE MAYO DE 2001)</small>
 
 ###### ARTICULO 139.
 
@@ -2687,7 +2723,7 @@ III.- Cuando en cualquier forma se impida a las autoridades fiscales o a los int
 
 Este impuesto, se causará a la tasa del diez por ciento sobre el importe del boletaje vendido.
 
-### CAPITULO IV. DEL IMPUESTO SOBRE TRASLACION DE DOMINIO DE BIENES INMUEBLES
+### CAPITULO III. EL IMPUESTO PREDIAL
 
 #### SECCION I. OBJETO, SUJETO Y DOMICILIO
 
@@ -2841,19 +2877,7 @@ Toda estipulación privada, relativa al pago del impuesto, que se oponga a lo di
 
 La autoridad municipal está obligada a proporcionar al contribuyente, información relativa al impuesto predial respecto a cualquier predio.
 
-### CAPITULO IV BIS. TASA ADICIONAL PARA LOS IMPUESTOS PREDIAL Y SOBRE TRASLACION DE DOMINIO DE BIENES INMUEBLES
-
-> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2002)</small>
-
-ARTICULO 165 BIS.- Los Contribuyentes de los impuestos Predial y Sobre traslación de Dominio de Bienes Inmuebles, establecidos respectivamente en los Capítulos III y IV de este Título, pagarán una tasa adicional del 4% aplicable al monto que deberán enterar por dichos impuestos.
-
-La tasa adicional se pagará en la misma forma y términos en que deban pagarse los impuestos mencionados y su rendimiento se destinará al sostenimiento de la Universidad Autónoma de Chihuahua y de la Universidad Autónoma de Ciudad Juárez, por partes iguales.
-
-> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
-
-Una vez recaudados los ingresos por este concepto, las autoridades municipales concentrarán los mismos, a más tardar el día quince del mes siguiente a su recaudación, en la Secretaría de Finanzas y Administración del Gobierno del Estado, dependencia que a su vez los transferirá a dichas universidades, en la proporción mencionada, a más tardar el día último del mismo mes.
-
-En caso de que cualquiera de los días antes indicados sea inhábil, la concentración o la transferencia se efectuará el día hábil inmediato siguiente.
+### CAPITULO IV. DEL IMPUESTO SOBRE TRASLACION DE DOMINIO DE BIENES INMUEBLES
 
 #### SECCION I. OBJETO, SUJETO, BASE Y TASA
 
@@ -3033,7 +3057,19 @@ Los plazos que establecen los artículos anteriores, se interrumpirán únicamen
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 25 DE MAYO DE 2002)</small>
 
-### CAPITULO V. CONTRIBUCION ESPECIAL SOBRE PAVIMENTACION
+### CAPITULO IV BIS. TASA ADICIONAL PARA LOS IMPUESTOS PREDIAL Y SOBRE TRASLACION DE DOMINIO DE BIENES INMUEBLES
+
+> <small>(ADICIONADO, P.O. 25 DE MAYO DE 2002)</small>
+
+ARTICULO 165 BIS.- Los Contribuyentes de los impuestos Predial y Sobre traslación de Dominio de Bienes Inmuebles, establecidos respectivamente en los Capítulos III y IV de este Título, pagarán una tasa adicional del 4% aplicable al monto que deberán enterar por dichos impuestos.
+
+La tasa adicional se pagará en la misma forma y términos en que deban pagarse los impuestos mencionados y su rendimiento se destinará al sostenimiento de la Universidad Autónoma de Chihuahua y de la Universidad Autónoma de Ciudad Juárez, por partes iguales.
+
+> <small>(REFORMADO, P.O. 30 DE JUNIO DE 2007)</small>
+
+Una vez recaudados los ingresos por este concepto, las autoridades municipales concentrarán los mismos, a más tardar el día quince del mes siguiente a su recaudación, en la Secretaría de Finanzas y Administración del Gobierno del Estado, dependencia que a su vez los transferirá a dichas universidades, en la proporción mencionada, a más tardar el día último del mismo mes.
+
+En caso de que cualquiera de los días antes indicados sea inhábil, la concentración o la transferencia se efectuará el día hábil inmediato siguiente.
 
 ###### ARTICULO 165 Bis.
 
@@ -3047,7 +3083,7 @@ Una vez recaudados los ingresos por este concepto, las autoridades municipales c
 
 En caso de que cualquiera de los días antes indicados sea inhábil, la concentración o la transferencia se efectuará el día hábil inmediato siguiente.
 
-### CAPITULO VI. DERECHOS
+### CAPITULO V. CONTRIBUCION ESPECIAL SOBRE PAVIMENTACION
 
 ###### ARTICULO 166.
 
@@ -3065,7 +3101,7 @@ IV.- El pago del valor del pavimento que corresponda a los propietarios de finca
 
 Los Notarios no autorizarán, ni los registradores inscribirán actos o contratos, que impliquen transmisión o desmembración del dominio, constitución de servidumbres o garantías reales, en relación con inmuebles afectos al pago del tributo regulado en el artículo anterior, si no se les comprueba previamente que están al corriente en el pago del mismo.
 
-### CAPITULO UNICO
+### CAPITULO VI. DERECHOS
 
 ###### ARTICULO 168.
 
@@ -3205,7 +3241,7 @@ Son objeto de éste derecho, los servicios que preste el Departamento de Bombero
 
 ## TITULO PRIMERO. DE LAS FUNCIONES Y SERVICIOS PUBLICOS MUNICIPALES
 
-### CAPITULO I. DEL PROCEDIMIENTO ADMINISTRATIVO
+### CAPITULO UNICO
 
 ###### ARTICULO 179.
 
@@ -3399,7 +3435,7 @@ IV.- Que las instalaciones y equipo se encuentren en condiciones para la prestac
 
 ## TITULO SEGUNDO. DEFENSA JURIDICA DE LOS PARTICULARES
 
-### CAPITULO II. MEDIOS DE IMPUGNACION DE LOS ACTOS ADMINISTRATIVOS
+### CAPITULO I. DEL PROCEDIMIENTO ADMINISTRATIVO
 
 ###### ARTICULO 195.
 
@@ -3419,7 +3455,7 @@ V.- Expresados los alegatos o concluido el término correspondiente, el Ayuntami
 
 A las notificaciones y términos a que alude este título se aplicarán en lo conducente, las disposiciones del Código Fiscal del Estado.
 
-### CAPITULO III. DE LAS SANCIONES
+### CAPITULO II. MEDIOS DE IMPUGNACION DE LOS ACTOS ADMINISTRATIVOS
 
 ###### ARTICULO 197.
 
@@ -3480,6 +3516,8 @@ IX (SIC).- El acuerdo del Ayuntamiento será notificado personalmente en el domi
 ###### ARTICULO 204.
 
 A los juicios de oposición que se promuevan en relación a los asuntos municipales, se aplicarán en lo conducente, las disposiciones que sobre la materia establece el Código Fiscal del Estado.
+
+### CAPITULO III. DE LAS SANCIONES
 
 ###### ARTICULO 205.
 
@@ -4636,3 +4674,19 @@ P.O. 24 DE OCTUBRE DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 1334/2013 XI P.E., MEDIANTE EL CUAL SE REFORMAN LAS FRACCIONES I Y XLV DEL ARTÍCULO 28; EL PRIMER PÁRRAFO DEL ARTÍCULO 50; Y LA DENOMINACIÓN DEL CAPÍTULO ÚNICO DEL TÍTULO CUARTO; SE ADICIONAN UNA FRACCIÓN XLVI AL ARTÍCULO 28; EL CAPÍTULO II AL TÍTULO CUARTO, Y LOS ARTÍCULOS 50 BIS Y 50 TER, TODOS DEL CÓDIGO MUNICIPAL PARA EL ESTADO DE CHIHUAHUA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor a los ciento ochenta días siguientes al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Ayuntamientos que opten por la creación de las Gacetas Municipales, deberán expedir el reglamento respectivo para su organización.
+
+###### ARTÍCULO TERCERO.
+
+Remítase copia de la (sic) presente Decreto a cada uno de los sesenta y siete municipios integrantes de nuestra Entidad, para su conocimiento.
