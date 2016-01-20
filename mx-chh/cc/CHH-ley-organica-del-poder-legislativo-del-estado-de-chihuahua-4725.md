@@ -4,7 +4,7 @@ identifier: "CHH-ley-organica-del-poder-legislativo-del-estado-de-chihuahua-4725
 country: "mx"
 rank: "ley_organica"
 publication_date: "1995-07-08"
-last_updated: "2014-09-24"
+last_updated: "2016-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,13 @@ state: "CHH"
 ---
 # LEY ORGANICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 16 DE JULIO DE 2016 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE SEPTIEMBRE DE 2014.
+> <small>[N. DE E. DE CONFORMIDAD CON LOS ARTÍCULOS TRANSITORIOS PRIMERO Y SEGUNDO DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA, PUBLICADA EN EL P.O. DE 20 DE ENERO DE 2016, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO EL PRIMERO DE OCTUBRE DE 2016.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2016 (ABROGADA).
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 8 de julio de 1995.
 
@@ -2444,3 +2448,41 @@ DECRETO NÚMERO 565/2014 V P.E. POR EL QUE SE REFORMA EL PRIMER PÁRRAFO Y LA FR
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 20 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 914/2015 II P.O. LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor, previa publicación en el Periódico Oficial del Estado, el primero de octubre de 2016, con las especificaciones establecidas en los siguientes preceptos.
+
+###### ARTÍCULO SEGUNDO.
+
+La Ley Orgánica del Poder Legislativo del Estado de Chihuahua, publicada en el Periódico Oficial del Estado No. 54 del 8 de julio de 1995, quedará abrogada el día de la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+De conformidad con el Decreto No. 910/2015 II P.O., y en los términos de los artículos 19, 28, 62, 66, fracción XXII; 67 y 126 de esta Ley, la LXV Legislatura:
+
+a) Se instalará el primero de octubre de 2016.
+
+b) Tratándose del primer año de ejercicio constitucional, iniciará el primer período ordinario de sesiones el 1° de octubre, y lo concluirá a más tardar el 31 de diciembre de 2016; y el segundo período ordinario de sesiones dará inicio el día 1° de marzo de 2017 y concluirá a más tardar el 31 de mayo del mismo año.
+
+c) Quien presida la Junta de Coordinación Política del Congreso durante el primer año de ejercicio constitucional, durará en su encargo del 1° de octubre de 2016 al 31 de agosto de 2017.
+
+d) La Junta de Coordinación Política, en los términos de la fracción XXII del artículo 66 de esta Ley, pondrá a consideración del Pleno, para su aprobación, la integración de la Mesa Directiva, únicamente respecto al segundo año de ejercicio constitucional de la Legislatura.
+
+e) Los integrantes de la Mesa Directiva del primer año de ejercicio constitucional, durarán en su encargo del 1° de octubre de 2016 al 31 de agosto de 2017.
+
+f) Los nombramientos a que hace referencia el artículo 126, fracción I de esta Ley, deberán realizarse a más tardar el último día del mes de octubre del año 2016.
+
+Los demás nombramientos previstos en el citado precepto se harán conforme a la legislación que regula su funcionamiento.
+
+###### ARTÍCULO CUARTO.
+
+El Pleno expedirá y aprobará los reglamentos y demás disposiciones complementarias a que se refiere esta Ley, a más tardar el 30 de septiembre de 2016.
+
+###### ARTÍCULO QUINTO.
+
+Los asuntos que a la entrada en vigor de esta Ley se encuentren turnados a la Secretaría de Servicios Administrativos, serán atendidos por la Secretaría de Administración; a la Secretaría de Servicios Jurídico Legislativos, por la Secretaría de Asuntos Legislativos; y a la Secretaría de Servicios Parlamentarios y Vinculación Ciudadana, por la Secretaría de Asuntos lnterinstitucionales.
