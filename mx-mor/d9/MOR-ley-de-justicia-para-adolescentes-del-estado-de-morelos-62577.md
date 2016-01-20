@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-justicia-para-adolescentes-del-estado-de-morelos-62577"
 country: "mx"
 rank: "ley"
 publication_date: "2008-08-18"
-last_updated: "2015-04-01"
+last_updated: "2016-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE FEBRERO DE 2016 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE ABRIL DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el lunes 18 de agosto de 2008.
 
@@ -331,25 +333,37 @@ V.- Visitar los centros de ejecución de medidas privativas de libertad para ado
 
 VI.- Atender las solicitudes que hagan los adolescentes sancionados cuando así lo amerite la situación y resolver lo que corresponda.
 
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 20 DE ENERO DE 2016, PÁGINA 12.]</small>
+
 ###### Artículo 26.
 
 Del Magistrado.
 
 Corresponde al Magistrado del Tribunal Unitario de Justicia para Adolescentes:
 
-I. Controlar que la ejecución de toda medida sancionadora se aplique de conformidad con la sentencia definitiva que la impuso, salvaguardando la legalidad y demás derechos y garantías que asisten al adolescente sancionado durante la ejecución de la medida;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2016)</small>
 
-II. Previo dictamen del equipo multidisciplinario, revisar las medidas sancionadoras a solicitud de parte, o de oficio, por lo menos una vez cada tres meses, para cesarlas, modificarlas o sustituirlas por otras menos graves, cuando no cumplan con los objetivos para las que fueron impuestas o por ser contrarias al proceso de reinserción social del adolescente;
+I. Representar al Tribunal Unitario de Justicia para Adolescentes, en los actos en donde este órgano jurisdiccional participe;
 
-III. Controlar el otorgamiento o denegación de cualquier beneficio relacionado con las medidas impuestas en sentencia definitiva;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2016)</small>
 
-IV. Ordenar la cesación de la medida sancionadora una vez transcurrido el plazo fijado por la sentencia;
+II. Resolver los recursos que interpongan en los términos que señalan las leyes.
 
-V. Atender las solicitudes que hagan los adolescentes sancionados cuando así lo amerite la situación y resolver lo que corresponda; así como resolver los recursos que se interpongan en los términos que señala la ley;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2016)</small>
 
-VI. Visitar los centros de ejecución de medidas privativas de libertad para adolescentes por lo menos una vez al mes; y,
+III. Presidir las audiencias que con motivo de los recursos interpuestos para su conocimiento, deban celebrarse.
 
-VII. Las demás atribuciones que determinen la Constitución del Estado y las leyes.
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2016)</small>
+
+IV. Dar trámite a través de su personal, a los exhortos que deban girarse o diligenciarse con motivo de la actividad jurisdiccional del Tribunal Unitario de Justicia para Adolescentes.
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2016)</small>
+
+V. Dar trámite a través de su personal a las demandas de amparo en la que se señale como autoridad responsable al Magistrado del Tribunal Unitario de Justicia para Adolescentes.
+
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2016)</small>
+
+VI. Las demás que le confieran las leyes.
 
 ### CAPÍTULO II. DEL MINISTERIO PÚBLICO
 
@@ -475,7 +489,9 @@ IX. Velar, en lo administrativo y, en coordinación con la autoridad judicial co
 
 X. Elaborar el Programa Individual de Ejecución del adolescente para la aplicación de la medida sancionadora impuesta, así como vigilar y asegurar que éste sea acorde a los objetivos fijados en la sentencia definitiva, en esta ley y demás instrumentos internacionales;
 
-XI. Informar al Magistrado trimestralmente sobre el avance en el Programa Individual de Ejecución de la medida sancionadora, de cada uno de los adolescentes que se encuentre bajo su responsabilidad;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2016)</small>
+
+XI. Informar al Juez de Ejecución trimestralmente sobre el avance en el Programa Individual de Ejecución de la medida sancionadora, de cada uno de los adolescentes que se encuentre bajo su responsabilidad;
 
 > <small>(REFORMADA, P.O. 10 DE DICIEMBRE DE 2014)</small>
 
@@ -483,7 +499,9 @@ XII. Brindar toda la información que requiera el Magistrado y el Juez de Ejecuc
 
 XIII. Velar porque se respeten los derechos y garantías del adolescente mientras cumple la medida cautelar o sancionadora, especialmente en las privativas de libertad;
 
-XIV. Solicitar al Magistrado, modificar la sanción impuesta al adolescente por otra menos grave, cuando lo considere pertinente;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2016)</small>
+
+XIV. Solicitar al Juez de Ejecución, modificar la sanción impuesta al adolescente por otra menos grave, cuando lo considere pertinente;
 
 XV. Celebrar convenios de colaboración con organismos públicos o privados para lograr el cumplimiento de los fines de esta ley, y
 
@@ -1227,7 +1245,9 @@ Finalidad de las medidas sancionadoras.
 
 La finalidad de las medidas sancionadoras es la formación integral, la reinserción social y familiar y el pleno desarrollo de las capacidades de los adolescentes mediante su orientación, protección y tratamiento, así como la reparación del daño causado a la víctima.
 
-Es deber del Magistrado del Tribunal Unitario velar porque el cumplimiento de la medida sancionadora satisfaga dicha finalidad.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2016)</small>
+
+Es deber del Juez de Ejecución velar porque el cumplimiento de la medida sancionadora satisfaga dicha finalidad.
 
 ###### Artículo 99.
 
@@ -1279,7 +1299,9 @@ La amonestación deberá ser clara y directa, de manera que tanto el adolescente
 
 Libertad asistida.
 
-La libertad asistida consiste en integrar al adolescente a programas educativos y en recibir orientación y seguimiento del Magistrado, con la asistencia de especialistas de la institución administrativa correspondiente.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2016)</small>
+
+La libertad asistida consiste en integrar al adolescente a programas educativos y en recibir orientación y seguimiento del Juez de Ejecución, con la asistencia de especialistas de la institución correspondiente.
 
 El plazo de cumplimiento no podrá ser inferior a seis meses ni superior a tres años.
 
@@ -1307,7 +1329,9 @@ La obligación de hacer que se le asigne al adolescente, siempre deberá tener p
 
 Si ambas partes acuerdan sustituir la obligación de hacer por una suma de dinero, el Juez de Juicio Oral procederá a fijar la cuantía que se considere equivalente a los daños y perjuicios ocasionados por el delito.
 
-El Magistrado podrá considerar la medida sancionadora cumplida cuando el daño haya sido reparado en la mejor forma posible.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2016)</small>
+
+El Juez de Ejecución podrá considerar la medida sancionadora cumplida cuando el daño haya sido reparado en la mejor forma posible.
 
 La restauración a la víctima excluye la indemnización civil por responsabilidad extra-contractual.
 
@@ -1315,9 +1339,13 @@ La restauración a la víctima excluye la indemnización civil por responsabilid
 
 Ordenes de orientación y supervisión.
 
-Las ordenes de orientación y supervisión, consisten en mandamientos o prohibiciones impuestas por el Magistrado para promover y asegurar la formación integral y reinserción social del adolescente. Dichos mandamientos y prohibiciones no podrán ordenarse por un plazo menor a tres meses ni superior a dos años y su cumplimiento deberá iniciarse a más tardar siete días después de ordenados.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2016)</small>
 
-El Magistrado podrá modificar las órdenes impuestas, en caso de que el adolescente las incumpla.
+Las ordenes de orientación y supervisión, consisten en mandamientos o prohibiciones impuestas por el Juez de Ejecución para promover y asegurar la formación integral y reinserción social del adolescente. Dichos mandamientos y prohibiciones no podrán ordenarse por un plazo menor a tres meses ni superior a dos años y su cumplimiento deberá iniciarse a más tardar siete días después de ordenados.
+
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2016)</small>
+
+El Juez de Ejecución podrá modificar las órdenes impuestas, en caso de que el adolescente las incumpla.
 
 ### CAPÍTULO III. MEDIDAS SANCIONADORAS PRIVATIVAS DE LIBERTAD
 
@@ -1337,7 +1365,9 @@ De no poder cumplirse en su domicilio, por razones de inconveniencia o imposibil
 
 La privación de libertad domiciliaria no debe afectar el cumplimiento del trabajo ni la asistencia al centro educativo al que concurra el adolescente.
 
-La Dirección de Ejecución de Medidas para Adolescentes, será la autoridad encargada de hacer los estudios pertinentes para informar al Magistrado, si la familia del adolescente tiene la posibilidad de hacerse cargo de la aplicación de esta medida o si ello resulta conveniente.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2016)</small>
+
+La Dirección de Ejecución de Medidas para Adolescentes, será la autoridad encargada de hacer los estudios pertinentes para informar al Juez de Ejecución, si la familia del adolescente tiene la posibilidad de hacerse cargo de la aplicación de esta medida o si ello resulta conveniente.
 
 No puede dictarse por un plazo inferior a un mes ni superior a nueve meses.
 
@@ -1411,7 +1441,9 @@ Al ejecutar una medida sancionadora de privación de la libertad en un centro es
 
 Revisión de la medida sancionadora.
 
-Al cumplimiento de la mitad de la medida sancionadora impuesta, el Magistrado deberá revisar de oficio o a solicitud de parte, o por recomendación técnica del equipo multidisciplinario que supervisa la ejecución de la sanción, la posibilidad de sustituirla por otra más leve, de conformidad con el desenvolvimiento del adolescente durante el cumplimiento de su privación de libertad.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2016)</small>
+
+Al cumplimiento de la mitad de la medida sancionadora impuesta, el Juez de Ejecución deberá revisar de oficio o a solicitud de parte, o por recomendación técnica del equipo multidisciplinario que supervisa la ejecución de la sanción, la posibilidad de sustituirla por otra más leve, de conformidad con el desenvolvimiento del adolescente durante el cumplimiento de su privación de libertad.
 
 ###### Artículo 111.
 
@@ -1465,7 +1497,9 @@ Este programa comprenderá sus aptitudes personales, circunstancias familiares, 
 
 Aprobación del Programa individualizado de ejecución.
 
-El Juez de Ejecución aprobará el contenido del programa individualizado de ejecución, sus objetivos y consecuencias, asegurándose de que no limiten derechos o añadan obligaciones que excedan lo estrictamente determinado en la sentencia. En los casos en que no ocurriera así, ordenará a la Dirección General de Ejecución de Medidas para Adolescentes las modificaciones a las que haya lugar.
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2016)</small>
+
+El Juez de Ejecución aprobará el contenido del programa individualizado de ejecución, sus objetivos y consecuencias, asegurándose de que no limiten derechos o añadan obligaciones que excedan lo estrictamente determinado en la sentencia. En los casos en que no ocurriera así, ordenará a la Dirección General de Ejecución de Medidas para Adolescentes o al área correspondiente, las modificaciones a las que haya lugar.
 
 ###### Artículo 117.
 
@@ -1557,11 +1591,13 @@ VI. Cualquier otra acción que permita a los padres, familiares, responsables, t
 
 La Dirección de Ejecución de Medidas para Adolescentes podrá celebrar convenios con las instituciones públicas, privadas u organismos no gubernamentales para la implementación de los programas a que se refiere este artículo.
 
+> <small>(REFORMADO, P.O. 20 DE ENERO DE 2016)</small>
+
 ###### Artículo 123.
 
 Deberes de la comunidad y de las instituciones públicas en la ejecución de las medidas sancionadoras.
 
-Las instituciones públicas y privadas encargadas de ejecutar las medidas reguladas en este capítulo colaborarán con el Magistrado, en la concreción de los fines establecidos en esta Ley.
+Las instituciones públicas y privadas encargadas de ejecutar las medidas reguladas en este capítulo colaborarán con el Juez de Ejecución, en la concreción de los fines establecidos en esta Ley.
 
 ###### Artículo 124.
 
@@ -1631,7 +1667,9 @@ IX. Recibir información y participar activamente en la elaboración e implement
 
 X. Tener garantizado el derecho de defensa técnica durante toda la etapa de ejecución y mantener comunicación continua y privada con su familia, defensor, Ministerio Público y Juez;
 
-XI. Presentar peticiones ante cualquier autoridad y que se le garantice la respuesta, incluyendo los incidentes que promueva mediante el defensor ante el Magistrado;
+> <small>(REFORMADA, P.O. 20 DE ENERO DE 2016)</small>
+
+XI. Presentar peticiones ante cualquier autoridad y que se le garantice la respuesta, incluyendo los incidentes que promueva mediante el defensor ante el Juez de Ejecución;
 
 XII. A que la ejecución de la medida transcurra en programas, lugares e instituciones lo más cercanos posibles a su lugar de residencia habitual;
 
@@ -1804,3 +1842,19 @@ P.O. 1 DE ABRIL DE 2015.
 PRIMERO.- Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva, de conformidad con los artículos 44, 47 y 70, fracción XVII, inciso a), de la Constitución Política del Estado libre y Soberano de Morelos.
 
 SEGUNDO.- El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Gobierno del Estado de Morelos.
+
+P.O. 20 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CIENTO SESENTA Y TRES POR EL QUE SE REFORMA LA LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE MORELOS EN LOS ARTÍCULOS 26, 30, 98, 101, 103, 104, 106, 110, 116, 123 Y 130; Y SE ADICIONA UN CAPÍTULO V Y LOS ARTÍCULOS 26, 27, 28 Y 29 A LA LEY ORGÁNICA DEL TRIBUNAL UNITARIO DE JUSTICIA PARA ADOLESCENTES Y JUZGADOS ESPECIALIZADOS”.]
+
+PRIMERO. Remítase el presente decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, incisos A), B) y C), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad” órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO. Los asuntos relativos a la ejecución de las medidas dictadas a los adolescentes que se hayan dictado con antelación a la entrada en vigor del presente decreto y que a la fecha se encuentren en conocimiento del Magistrado del Tribunal Unitario de Justicia para Adolescentes, será entregado al Juez de Ejecución para la continuidad del trámite correspondiente.
+
+CUARTO. El Magistrado del Tribunal Unitario de Justicia para Adolescentes, en un plazo que no excederá de quince días contados a partir de la fecha de entrada en vigor del presente decreto deberá nombrar al Coordinador y al equipo técnico que integrará la Coordinación para el Apoyo y Seguimiento de Medidas para Adolescentes a que se refiere este decreto, cuidando que reúnan el perfil profesional acorde a la responsabilidad que se les confiere.
+
+QUINTO. El Presupuesto de Ingresos del Tribunal Unitario de Justicia para Adolescentes deberá prever la partida correspondiente para el debido funcionamiento de la Coordinación que al efecto se crea, para la cual deberá contemplarse en el Presupuesto de Egresos del Gobierno del Estado el incremento correspondiente.
+
+SEXTO. En un plazo de quince días hábiles contados a partir de la fecha en que entre en vigor el presente decreto, el Magistrado del Tribunal Unitario de Justicia para Adolescentes, deberá hacer las adecuaciones correspondientes a su Reglamento Interior, para el efecto de considerar las áreas administrativas que se crean en virtud de la adición a la Ley Orgánica del Tribunal Unitario de Justicia para Adolescentes y Juzgados Especializados del Estado de Morelos.
