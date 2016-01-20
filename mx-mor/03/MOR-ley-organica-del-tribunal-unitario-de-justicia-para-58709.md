@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-tribunal-unitario-de-justicia-para-58709"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-12-19"
-last_updated: "2013-03-13"
+last_updated: "2016-01-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58709&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY ORGANICA DEL TRIBUNAL UNITARIO DE JUSTICIA PARA ADOLESCENTES Y JUZGADOS ESPECIALIZADOS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE FEBRERO DE 2016 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY ORGÁNICA DEL TRIBUNAL UNITARIO DE JUSTICIA PARA ADOLESCENTES Y JUZGADOS ESPECIALIZADOS DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 19 de diciembre de 2007.
 
@@ -285,6 +287,72 @@ III. Acreditar conocimientos de administración, y
 
 IV. No haber sido condenado por delito doloso.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 20 DE ENERO DE 2016)</small>
+
+### CAPÍTULO V. DE LA COORDINACIÓN PARA EL APOYO Y SEGUIMIENTO DE MEDIDAS PARA ADOLESCENTES
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2016)</small>
+
+###### Artículo 26.
+
+El Tribunal Unitario de Justicia para Adolescentes contará con un órgano técnico que se denominará Coordinación para el Apoyo y Seguimiento de Medidas para Adolescentes, integrado por un grupo de especialistas en diferentes materias que coadyuven en el seguimiento de las mismas, la cual auxiliará al Magistrado y Jueces Especializados en la determinación y seguimiento de las medidas impuestas a los adolescentes sujetos a la jurisdicción del Tribunal.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2016)</small>
+
+###### Artículo 27.
+
+La Coordinación para el Apoyo y Seguimiento de Medidas para Adolescentes estará dirigido por un Coordinador y contara con los siguientes departamentos:
+
+I. Departamento de Psicología.
+
+II. Departamento de Trabajo Social.
+
+III. Departamento de Pedagogía.
+
+IV. Departamento de Criminología.
+
+V. El Coordinador y los titulares de los Departamentos que la integran, serán nombrados por el Magistrado titular del Tribunal y deberán reunir los requisitos que al efecto señale el Reglamento Interior del Tribunal.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2016)</small>
+
+###### Artículo 28.
+
+La Coordinación para el Apoyo y Seguimiento de Medidas para Adolescentes tendrá las siguientes atribuciones:
+
+I. Brindar apoyo y seguimiento a la ejecución de las medidas impuestas a los adolescentes por el Magistrado y los Jueces Especializados, dentro del ámbito de las actividades que se desarrollen en cada departamento;
+
+II. Remitir al Magistrado y Jueces Especializados que lo haya solicitado, el resultado técnico que arrojen los estudios practicados a los adolescentes sujetos a proceso los cuales no tendrán carácter vinculatorio;
+
+III. Diseñar los programas de atención y seguimiento requeridos por el Magistrado y Jueces Especializados para la ejecución de la medida socio-educativa impuesta a los adolescentes;
+
+IV. Elaborar el programa individualizado de ejecución de los adolescentes a quienes se les imponga medidas socio-educativas, en los términos que le sean solicitados por el Juez de Ejecución.
+
+V. Informar al Juez de Ejecución trimestralmente sobre el avance en el Programa Individualizado de Ejecución de las medidas socio-educativas impuestas a los adolescentes;
+
+VI. Brindar apoyo a las instancias oficiales que participen en la ejecución de medidas dictadas a los adolescentes, cuando estas así lo soliciten;
+
+VII. Rendir informe estadístico al Magistrado, respecto de las actividades de la Coordinación, en los términos y forma que le sean requerido; y,
+
+VIII. Las demás que determine el Reglamento, así como los acuerdos que emita el Magistrado.
+
+> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2016)</small>
+
+###### Artículo 29.
+
+Son atribuciones del Coordinador las siguientes:
+
+I. Organizar, vigilar y coordinar las distintas actividades del personal técnico y administrativo de las diferentes áreas que componen la coordinación, para lograr su adecuado funcionamiento.
+
+II. Realizar las gestiones necesarias a fin de facilitar y generar las condiciones para que se lleven a cabo diversas acciones que el Tribunal deba realizar con motivo de las necesidades requeridas para la consecución de los fines de las medidas socio-educativas impuestas a los adolescentes, cuando así se requiera.
+
+III. Gestionar el acercamiento con organismos públicos o privados para lograr el cumplimiento de los fines que se persiguen con las medidas socio-educativas impuestas a los adolescentes, a través de convenios de colaboración, previa autorización y consideración del Magistrado.
+
+IV. Rendir los informes en el tiempo y la forma que requiera el Magistrado, así como los Jueces Especializados, de los programas y convenios con los que cuente la Coordinación.
+
+V. Administrar los recursos humanos y materiales asignados a la Coordinación; y
+
+VI. Las demás que determine el Reglamento, el Magistrado y los Jueces Especializados.
+
 ## TRANSITORIOS
 
 PRIMERO.- La presente ley entrara en vigor el primero de enero de 2008.
@@ -376,3 +444,19 @@ SÉPTIMO.- Las conductas antisociales del orden común o federal, cometidas con 
 OCTAVO.- El seguimiento de la ejecución de las sentencias dictadas por los Jueces Especializados o por el Magistrado del Tribunal, previo a la entrada en vigor del presente decreto, corresponderá a los Jueces de Ejecución que al efecto nombre el Magistrado titular del Tribunal Unitario de Justicia para Adolescentes, en el ejercicio de sus atribuciones.
 
 NOVENO.- Con el objeto de no dilatar la impartición de justicia, por esta única vez se faculta al Magistrado del Tribunal Unitario de Justicia para Adolescentes a nombrar al juez o jueces de ejecución que sean necesarios, previo examen de oposición, o ratificar los que hubiese nombrado conforme al artículo DÉCIMO PRIMERO transitorio de la LEY DE REINSERCIÓN SOCIAL Y SEGUIMIENTO DE MEDIDAS CAUTELARES.
+
+P.O. 20 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO CIENTO SESENTA Y TRES - POR EL QUE SE REFORMA LA LEY DE JUSTICIA PARA ADOLESCENTES DEL ESTADO DE MORELOS EN LOS ARTÍCULOS 26, 30, 98, 101, 103, 104, 106, 110, 116, 123 Y 130; Y SE ADICIONA UN CAPÍTULO V Y LOS ARTÍCULOS 26, 27, 28 Y 29 A LA LEY ORGÁNICA DEL TRIBUNAL UNITARIO DE JUSTICIA PARA ADOLESCENTES Y JUZGADOS ESPECIALIZADOS".]
+
+PRIMERO. Remítase el presente decreto al Gobernador Constitucional del Estado, para los efectos de lo dispuesto por los artículos 44 y 70, fracción XVII, incisos A), B) y C), de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. El presente decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO. Los asuntos relativos a la ejecución de las medidas dictadas a los adolescentes que se hayan dictado con antelación a la entrada en vigor del presente decreto y que a la fecha se encuentren en conocimiento del Magistrado del Tribunal Unitario de Justicia para Adolescentes, será entregado al Juez de Ejecución para la continuidad del trámite correspondiente.
+
+CUARTO. El Magistrado del Tribunal Unitario de Justicia para Adolescentes, en un plazo que no excederá de quince días contados a partir de la fecha de entrada en vigor del presente decreto deberá nombrar al Coordinador y al equipo técnico que integrará la Coordinación para el Apoyo y Seguimiento de Medidas para Adolescentes a que se refiere este decreto, cuidando que reúnan el perfil profesional acorde a la responsabilidad que se les confiere.
+
+QUINTO. El Presupuesto de Ingresos del Tribunal Unitario de Justicia para Adolescentes deberá prever la partida correspondiente para el debido funcionamiento de la Coordinación que al efecto se crea, para la cual deberá contemplarse en el Presupuesto de Egresos del Gobierno del Estado el incremento correspondiente.
+
+SEXTO. En un plazo de quince días hábiles contados a partir de la fecha en que entre en vigor el presente decreto, el Magistrado del Tribunal Unitario de Justicia para Adolescentes, deberá hacer las adecuaciones correspondientes a su Reglamento Interior, para el efecto de considerar las áreas administrativas que se crean en virtud de la adición a la Ley Orgánica del Tribunal Unitario de Justicia para Adolescentes y Juzgados Especializados del Estado de Morelos.
