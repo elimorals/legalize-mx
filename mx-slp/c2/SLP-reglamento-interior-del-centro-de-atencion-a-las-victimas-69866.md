@@ -4,7 +4,7 @@ identifier: "SLP-reglamento-interior-del-centro-de-atencion-a-las-victimas-69866
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-08-11"
-last_updated: "2009-08-11"
+last_updated: "2016-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69866&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,17 @@ state: "SLP"
 ---
 # REGLAMENTO INTERIOR DEL CENTRO DE ATENCION A LAS VICTIMAS DEL DELITO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
 
-REGLAMENTO INTERIOR DEL CENTRO DE ATENCION A LAS VICTIMAS DEL DELITO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSI
+REGLAMENTO INTERIOR DEL CENTRO DE ATENCIÓN A LAS VÍCTIMAS DEL DELITO DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE SAN LUIS POTOSÍ, PUBLICADO EN EL P.O. DE 21 DE ENERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE ENERO DE 2016 (ABROGADO).
 
 Reglamento publicado en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el martes 11 de agosto de 2009.
 
 MARCELO DE LOS SANTOS FRAGA, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE SAN LUIS POTOSÍ, CON FUNDAMENTO EN LOS ARTÍCULOS 80 FRACCIONES II Y III DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO, ASÍ COMO EN LOS ARTÍCULOS 1, 2, 3 FRACCION II INCISO A), 11,12, 31, 32, 41 TER, 51 Y 52 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO Y:
 
-CONSIDERANDO.
+CONSIDERANDO...
 
 Por los razonamientos antes expuestos y fundamentos invocados, he tenido a bien emitir el siguiente:
 
@@ -59,7 +61,7 @@ V. Daño material, detrimento causado dolosamente en cosa ajena o en cosa propia
 
 VI. Daño moral, a la afectación que una persona sufre en sus sentimientos, afectos, creencias, decoro, honor, reputación, vida privada, configuración y aspectos físicos, o bien la consideración que de si misma tienen los demás;
 
-VII. Inculpado, es aquella persona a la que se le a culpado ó acusado de una falta o delito;
+VII. Inculpado, es aquella persona a la que se le a (sic) culpado ó acusado de una falta o delito;
 
 VIII. Junta de Gobierno, a la Junta de Gobierno del Centro de Atención a las Víctimas del Delito;
 
@@ -133,7 +135,7 @@ a. Unidad Administrativa;
 
 b. Departamento de Recepción y Trabajo Social;
 
-c. Departamento Jurídico y (sic);
+c. Departamento Jurídico y;
 
 d. Departamento de Psicología;
 
@@ -145,7 +147,7 @@ Se podrán establecer en los Municipios del Estado de San Luis Potosí Centros R
 
 ###### Artículo 13.
 
-La Junta de Gobierno es la máxima autoridad del organismo. Es la encargada de implementar estrategias, supervisar y aprobar las acciones políticas y sociales que le presente la Dirección General, emitiendo opiniones y puntos de vista que considere pertinentes para el mejoramiento de la tención a las víctimas del delito.
+La Junta de Gobierno es la máxima autoridad del organismo. Es la encargada de implementar estrategias, supervisar y aprobar las acciones políticas y sociales que le presente la Dirección General, emitiendo opiniones y puntos de vista que considere pertinentes para el mejoramiento de la tención (sic) a las víctimas del delito.
 
 ###### Artículo 14.
 
@@ -201,7 +203,7 @@ Son facultades y obligaciones del Presidente de la Junta de Gobierno:
 
 I. Presidir, instalar y declarar la legalidad de las sesiones y dar por concluidas éstas;
 
-II. Convocar a sesión ordinaria y extraordinarias (sic);
+II. Convocar a sesión ordinaria y extraordinarias;
 
 III. Someter a la consideración de la Junta el calendario de sesiones, tomando en cuenta el mínimo que señala la Ley;
 
@@ -606,3 +608,19 @@ El Secretario General de Gobierno
 Lic. Alfonso José Castillo Machuca
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 21 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE LA LEY DE VÍCTIMAS PARA EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "PLAN DE SAN LUIS".
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Ordenamiento.
+
+TERCERO. Se abroga el Reglamento del Centro de Atención a Víctimas del Delito, publicado en el Periódico Oficial del Estado.
+
+CUARTO. Los asuntos y procedimientos que se encuentren en trámite, a la entrada en vigor del presente ordenamiento, continuarán su trámite y se resolverán conforme a la normatividad y reglamentación que se encontraba vigente al momento de la iniciación del trámite.
+
+QUINTO. El Fideicomiso Público previsto en este Reglamento, deberá de constituirse en términos de las disposiciones aplicables, dentro de los noventa días naturales siguientes a la entrada en vigor del presente Reglamento.
