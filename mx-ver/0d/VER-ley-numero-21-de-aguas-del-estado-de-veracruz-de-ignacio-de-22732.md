@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-21-de-aguas-del-estado-de-veracruz-de-ignacio-de-227
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-29"
-last_updated: "2011-01-28"
+last_updated: "2016-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE AGUAS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 28 DE ENERO DE 2011.
+ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE ENERO DE 2016.
 
 Ley publicada en el Alcance de la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 29 de junio de 2001.
 
@@ -391,7 +391,9 @@ XlV. Coadyuvar con los Organismos Operadores Municipales o Intermunicipales, cua
 
 XV. Promover, apoyar y, en su caso, gestionar ante las dependencias y entidades federales, las asignaciones, concesiones y permisos correspondientes, con objeto de dotar de agua a centros de población y asentamientos humanos;
 
-XVI. Prestar, en los municipios, los servicios públicos de suministro de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, previo convenio con el Ayuntamiento respectivo y, en este caso, establecer y cobrar las cuotas y tarifas que se causen con motivo de la prestación de los servicios, de conformidad con lo establecido en esta Ley y demás disposiciones aplicables;
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 2016)</small>
+
+XVI. Prestar, en los municipios, los servicios públicos de suministro de agua potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales, previo convenio con el Ayuntamiento respectivo y, en este caso, establecer y cobrar las cuotas y tarifas que se causen con motivo de la prestación de los servicios, así como de los subsidios que se otorgarán, de conformidad con lo establecido en esta Ley y demás disposiciones aplicables;
 
 XVII. Promover la reutilización e intercambio de las aguas residuales para el riego de áreas agrícolas y otros usos compatibles, previo el cumplimiento de las normas técnicas que al efecto emita el Consejo;
 
@@ -473,7 +475,9 @@ I. Aprobar, en su caso, los planes y programas hidráulicos, que le presente el 
 
 II. Otorgar poder general para actos de administración y de dominio, así como para pleitos y cobranzas, con todas las facultades generales o especiales que requieran cláusula especial conforme a la ley, así como delegarlos, revocarlos o sustituirlos;
 
-III. Establecer, en el ámbito de su competencia, cuotas y tarifas para el cobro de los servicios públicos a su cargo;
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 2016)</small>
+
+III. Establecer, en el ámbito de su competencia, cuotas y tarifas para el cobro de los servicios públicos a su cargo, así como los subsidios que se otorgarán para el pago de los servicios que regula esta Ley;
 
 IV. Examinar y, en su caso, aprobar el programa operativo anual de la Comisión que le presente el Director General;
 
@@ -1367,7 +1371,13 @@ Para el cálculo de las tarifas medias de equilibrio de cada organismo operador,
 
 Como complemento a esta tarifa media de equilibrio, el Consejo emitirá la metodología que deberá seguirse para obtener tarifas ponderadas de acuerdo a los diversos estratos de la población y a los diversos usos identificados en el municipio.
 
-El órgano de gobierno del organismo operador, o el concesionario podrán, a su juicio otorgar subsidios por cuanto al pago de los servicios que regula esta Ley, a particulares de escasos recursos económicos, dependencias o entidades federales, estatales o municipales, instituciones educativas o de asistencia pública o privada.
+> <small>(REFORMADO, G.O. 21 DE ENERO DE 2016)</small>
+
+El órgano de gobierno del organismo operador o el concesionario podrán, a su juicio, otorgar subsidios por cuanto al pago de los servicios que regula esta Ley, a particulares de escasos recursos económicos, grupos vulnerables que pertenezcan a zonas de alta marginalidad, dependencias o entidades federales, estatales o municipales, instituciones educativas o de asistencia pública o privada. El subsidio será obligatorio en los casos de jubilados, pensionados y a los adultos mayores de sesenta y cinco años debidamente acreditados con la credencial de elector vigente.
+
+> <small>(ADICIONADO, G.O. 21 DE ENERO DE 2016)</small>
+
+El órgano de gobierno del organismo operador o el concesionario deberán establecer las reglas para el otorgamiento de los subsidios, la forma de acreditación y la condición de que por ningún motivo se extenderá el beneficio del subsidio a más de un inmueble por persona.
 
 > <small>(REFORMADO PRIMER PARRAFO, G.O. 9 DE ENERO DE 2007)</small>
 
@@ -2038,3 +2048,11 @@ G.O. 28 DE ENERO DE 2011.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones permanentes o transitorias que contravengan el presente Decreto.
+
+G.O. 21 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 846 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS Y EL ARTÍCULO 95 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE, AMBOS ORDENAMIENTOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
