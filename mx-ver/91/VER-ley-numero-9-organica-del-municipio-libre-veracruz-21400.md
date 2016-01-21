@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2015-08-10"
+last_updated: "2016-01-21"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE ENERO DE 2016.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -33,7 +33,7 @@ Miguel Alemán Velazco, Gobernador del Estado Libre y Soberano de Veracruz-Llave
 
 Que la Honorable Quincuagésima Novena Legislatura del Congreso del Estado se ha servido dirigirme la siguiente Ley para su promulgación y publicación:
 
-Al margen un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- Poder Legislativo.- Estado Libre y Soberano de Veracruz-Llave.
+Al margen un sello con el Escudo Nacional que dice: Estado Unidos Mexicanos.- Poder Legislativo.- Estado Libre y Soberano de Veracruz-Llave.
 
 La Honorable Quincuagésima Novena Legislatura del Congreso del Estado Libre y Soberano de Veracruz-Llave, en uso de la facultad que le confieren los artículos 33 fracciones I y VIII de la Constitución Política local; 47 de la Ley Orgánica del Poder Legislativo; 103 del Reglamento para el Gobierno Interior del Poder Legislativo; y en nombre del pueblo, expide la siguiente:
 
@@ -2027,11 +2027,15 @@ La prestación de los servicios es de interés público, serán generales, conti
 
 Las cuotas y tarifas que se deban cobrar por derechos en la prestación de los servicios públicos municipales serán aprobadas por el Congreso del Estado o la Diputación Permanente, en su caso. Esta disposición se aplicará aun cuando el servicio esté concesionado.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 21 DE ENERO DE 2016)</small>
+
 ###### Artículo 95.
 
-Cuando se trate del cobro de cuotas o tarifas por concepto de agua potable y alcantarillado a pensionistas y jubilados, o en su caso a la viuda o concubina legalmente reconocida de éstos, se les disminuirá el cincuenta por ciento sobre la cuota o tarifa que les corresponda, disminución que procederá siempre y cuando se cumplan los siguientes requisitos:
+Cuando se trate del cobro de cuotas o tarifas por concepto de servicios de agua potable y alcantarillado a pensionistas y jubilados, o en su caso, a la viuda o concubina legalmente reconocida de éstos, así como a los adultos mayores de sesenta y cinco años, se les disminuirá el cincuenta por ciento sobre la cuota o tarifa que les corresponda, siempre y cuando cumplan con los siguientes requisitos:
 
-I. Que se compruebe de manera fehaciente la calidad de pensionista o jubilado, o en su caso, el fallecimiento de éstos y la relación matrimonial o concubinaria legalmente reconocida;
+> <small>(REFORMADA, G.O. 21 DE ENERO DE 2016)</small>
+
+I. Que se compruebe de manera fehaciente la calidad de pensionista o jubilado o, en su caso, el fallecimiento de éstos y la relación matrimonial o concubinaria legalmente reconocida; de la misma forma, los adultos mayores de sesenta y cinco años deberán acreditarse con la credencial de elector vigente;
 
 II. Que se encuentren al corriente en sus pagos;
 
@@ -3716,3 +3720,11 @@ DECRETO NÚMERO 592, POR EL QUE SE REFORMAN LAS FRACCIONES XXV INCISO I), Y XXX 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial de Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 Segundo. Se derogan las disposiciones que se opongan al presente Decreto.
+
+G.O. 21 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 846 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS Y EL ARTÍCULO 95 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE, AMBOS ORDENAMIENTOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
