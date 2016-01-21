@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-auditoria-superior-de-la-ciudad-10338
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-11-03"
-last_updated: "2015-10-16"
+last_updated: "2016-01-21"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103385&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,9 +22,9 @@ issue_date: "2014-10-27"
 
 REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DE LA CIUDAD DE MÉXICO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL PUNTO ÚNICO DEL ACUERDO PUBLICADO EN LA G.O. DE 16 DE OCTUBRE DE 2015, SE DEJA SIN EFECTOS LA PUBLICACIÓN DEL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA GACETA OFICIAL DEL DISTRITO FEDERAL NÚMERO 198, EL 15 DE OCTUBRE DE 2015.</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DE LA CIUDAD DE MÉXICO, PUBLICADO EN LA G.O. EL 21 DE ENERO DE 2016, EL PRESENTE ORDENAMIENTO QUEDA ABROGADO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL GACETA OFICIAL: 21 DE ENERO DE 2016 (ABROGADO).
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 3 de noviembre de 2014.
 
@@ -853,3 +853,37 @@ G.O. 16 DE OCTUBRE DE 2015.
 Primero.- Publíquese en la Gaceta Oficial del Distrito Federal.
 
 Segundo.- El presente Acuerdo entrará en vigor el día de su publicación.
+
+G.O. 21 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DE LA CIUDAD DE MÉXICO.”]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día hábil siguiente de su publicación en la Gaceta Oficial del Distrito Federal.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Auditoría Superior de la Ciudad de México, publicado en la Gaceta Oficial del Distrito Federal el tres de noviembre de dos mil catorce, y se derogan todas las disposiciones que se opongan al presente Reglamento.
+
+TERCERO.- El Manual del Proceso General de Fiscalización vigente a la publicación del presente Reglamento será aplicable para las auditorías de la revisión de la Cuenta Pública 2014.
+
+CUARTO.- La normatividad interna de la Auditoría Superior, continuará vigente en todo aquello que no se oponga al contenido del presente Reglamento y en tanto ésta se actualiza.
+
+QUINTO.- Los manuales de organización de las unidades administrativas deberán ser actualizados conforme a las disposiciones de este Reglamento, dentro del plazo de seis meses contados a partir de que éste entre en vigor.
+
+La normatividad interna de la Auditoría Superior deberá actualizarse en un plazo no mayor a un año calendario, contado a partir del día hábil siguiente de la publicación del presente Reglamento.
+
+SEXTO.- A partir de la actualización de la normatividad interna derivada del presente Reglamento, se procederá a la publicación de la normatividad correspondiente en la Gaceta Oficial del Distrito Federal.
+
+SÉPTIMO.- Con el propósito de automatizar los procedimientos de auditoría contemplados en la normatividad interna, se creará el Sistema Integral de Fiscalización, a más tardar el 30 de junio de 2016.
+
+En el proyecto de presupuesto de egresos 2016 y 2017 de la Auditoría Superior de la Ciudad de México se debe prever la suficiencia presupuestal para la creación y funcionamiento del Sistema Integral de Fiscalización.
+
+La Dirección General de Administración y Sistemas realizará las adquisiciones y cualquier acto jurídico, administrativo, contable y financiero para aportar los insumos para la creación del Sistema Integral de Fiscalización, acorde con los requerimientos de las áreas administrativas auditoras.
+
+El Auditor Superior establecerá el mecanismo para la creación y funcionamiento del Sistema Integral de Fiscalización.
+
+Las unidades administrativas participarán en la construcción, alcance y definiciones de los módulos que integran el Sistema.
+
+A partir del 1 de julio de 2016, se realizarán los ajustes y pruebas de funcionamiento para comprobar la operatividad y funcionamiento del sistema.
+
+OCTAVO.- Los asuntos no previstos en el presente Reglamento, serán resueltos por el Auditor Superior, en el ámbito de sus atribuciones, mediante las circulares o acuerdos respectivos que publique en la Gaceta Oficial del Distrito Federal.
+
+NOVENO.- Publíquese en la Gaceta Oficial del Distrito Federal.
