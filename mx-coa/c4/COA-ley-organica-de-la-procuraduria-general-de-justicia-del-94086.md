@@ -4,7 +4,7 @@ identifier: "COA-ley-organica-de-la-procuraduria-general-de-justicia-del-94086"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2013-05-03"
-last_updated: "2014-11-25"
+last_updated: "2016-01-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94086&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 3 de mayo de 2013.
 
@@ -35,21 +35,23 @@ DECRETA:
 
 NÚMERO 218.-
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 634, PUBLICADO EN EL P.O. 25 DE NOVIEMBRE DE 2014, TODAS LAS DISPOSICIONES, MENCIONES Y REFERENCIAS QUE SE HAGAN EN ESTE DECRETO RESPECTO AL TÉRMINO "CÓDIGO DE PROCEDIMIENTOS PENALES" , SE ENTENDERÁN HECHAS AL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, EL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO EL 17 DE FEBRERO DE 2012, Y EL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO EL 25 DE MAYO DE 1999, DE ACUERDO AL ESQUEMA DE GRADUALIDAD DE LA IMPLEMENTACIÓN DEL SISTEMA PENAL ACUSATORIO ADVERSARIAL.</small>
+[N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL TRANSITORIO TERCERO DEL DECRETO NÚMERO 338, PUBLICADO EN EL P.O. 22 DE ENERO DE 2016, TODAS LAS DISPOSICIONES, MENCIONES Y REFERENCIAS QUE SE HAGAN EN LAS LEYES Y REGLAMENTOS RESPECTO DE LAS SIGUIENTES UNIDADES ADMINISTRATIVAS, SE ENTENDERÁN HECHAS CONFORME A LO SIGUIENTE:
 
-ASIMISMO, LAS REFERENCIAS QUE SE HAGAN A CARPETA DE INVESTIGACIÓN, EN LOS CASOS QUE RESULTE APLICABLE, SE ENTENDERÁN HECHAS A LA AVERIGUACIÓN PREVIA
+A) SUBPROCURADURÍA JURÍDICA, DE DERECHOS HUMANOS Y DE INVESTIGACIONES ESPECIALES, Y SUBPROCURADURÍA DE INVESTIGACIÓN Y BÚSQUEDA DE PERSONAS NO LOCALIZADAS Y ATENCIÓN A VÍCTIMAS, OFENDIDOS Y TESTIGOS (ÉSTA ÚLTIMA POR LO QUE HACE A LA ATENCIÓN Y PROTECCIÓN DE VÍCTIMAS Y TESTIGOS): SUBPROCURADURÍA DE INVESTIGACIONES ESPECIALIZADAS, ATENCIÓN Y PROTECCIÓN DE VÍCTIMAS Y TESTIGOS.
 
-> <small>N. DE E. DE CONFORMIDAD CON LO DISPUESTO EN EL ARTÍCULO QUINTO TRANSITORIO DEL DECRETO NÚMERO 634, PUBLICADO EN EL P.O. 25 DE NOVIEMBRE DE 2014, TODAS LAS DISPOSICIONES, MENCIONES Y REFERENCIAS QUE SE HAGAN EN LAS LEYES Y REGLAMENTOS A LAS SUBPROCURADURÍAS JURÍDICA, DE DERECHOS HUMANOS, PROFESIONALIZACIÓN Y PROYECTOS, Y DE INVESTIGACIONES ESPECIALES, ATENCIÓN A DELITOS CONTRA MUJERES POR RAZÓN DE GÉNERO, TRATA DE PERSONAS, LIBERTAD DE EXPRESIÓN Y SERVICIOS A LA COMUNIDAD, SE ENTENDERÁN HECHAS A LA SUBPROCURADURÍA JURÍDICA, DE DERECHOS HUMANOS Y DE INVESTIGACIONES ESPECIALES, DE ACUERDO A LAS ATRIBUCIONES QUE SE OTORGAN A ÉSTA ÚLTIMA MEDIANTE EL PRESENTE DECRETO.</small>
+B) SUBPROCURADURÍA DE INVESTIGACIÓN Y BÚSQUEDA DE PERSONAS NO LOCALIZADAS Y ATENCIÓN A VÍCTIMAS, OFENDIDOS Y TESTIGOS: SUBPROCURADURÍA DE PERSONAS DESAPARECIDAS.
 
-ASIMISMO TODAS LAS DISPOSICIONES, MENCIONES Y REFERENCIAS QUE SE HAGAN EN LAS LEYES Y REGLAMENTOS RESPECTO DE LAS SIGUIENTES UNIDADES ADMINISTRATIVAS, SE ENTENDERÁN HECHAS CONFORME A LAS SIGUIENTES DENOMINACIONES:
+C) SUBPROCURADURÍA ESPECIALIZADA PARA LA ATENCIÓN DE DELITOS ELECTORALES: FISCALÍA ESPECIALIZADA PARA LA ATENCIÓN DE DELITOS ELECTORALES.
 
-A) DIRECCIÓN GENERAL DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS Y TESTIGOS: DIRECCIÓN GENERAL DE ATENCIÓN Y PROTECCIÓN A VÍCTIMAS Y OFENDIDOS.
+D) DIRECCIÓN GENERAL DE INVESTIGACIÓN Y BÚSQUEDA DE PERSONAS NO LOCALIZADAS: DIRECCIÓN GENERAL DE PERSONAS DESAPARECIDAS.
 
-B) DIRECCIÓN GENERAL DE MEDIOS ALTERNOS DE SOLUCIÓN DE CONFLICTOS: DIRECCIÓN GENERAL DE MECANISMOS ALTERNATIVOS DE SOLUCIÓN DE CONTROVERSIAS.
+E) DIRECCIÓN DE ATENCIÓN Y SEGUIMIENTO A COLABORACIONES Y DERECHOS HUMANOS: UNIDAD DE ATENCIÓN DE ACUERDOS Y COLABORACIONES.
 
-C) DIRECCIÓN DE CONTROL DE PROCESOS EN MATERIA DE DELITOS ELECTORALES: DIRECCIÓN DE CONTROL DE JUICIOS Y CONSTITUCIONALIDAD EN MATERIA DE DELITOS ELECTORALES,
+F) DIRECCIÓN GENERAL DE OPERACIÓN Y ESTRATEGIA: DIRECCIÓN GENERAL DE INVESTIGACIONES ESPECIALIZADAS.
 
-D) DIRECCIÓN GENERAL DE POLÍTICA CRIMINAL: DIRECCIÓN DE POLÍTICA CRIMINAL.
+G) DIRECCIÓN GENERAL DE INVESTIGACIONES ESPECIALES Y LA FISCALÍA ESPECIALIZADA PARA LA ATENCIÓN (SIC) DELITOS COMETIDOS EN AGRAVIO DE MIGRANTES: DIRECCIÓN GENERAL DE DELITOS DE ALTO IMPACTO Y COMETIDOS EN AGRAVIO DE MIGRANTES.
+
+H) DIRECCIÓN DE POLÍTICA CRIMINAL: COORDINACIÓN GENERAL DE ANÁLISIS DE INFORMACIÓN Y DE INTELIGENCIA PATRIMONIAL Y ECONÓMICA Y SUBPROCURADURÍAS EN EL ÁMBITO DE SUS COMPETENCIAS.]
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
@@ -139,11 +141,13 @@ Del objeto de la ley
 
 La presente Ley es de orden público, interés social, observancia general y tiene por objeto establecer la organización, funcionamiento y atribuciones de la Procuraduría General de Justicia del Estado de Coahuila de Zaragoza, para el despacho de los asuntos que al Ministerio Público le competen, otorgadas en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado de Coahuila de Zaragoza, esta Ley, y demás ordenamientos legales aplicables.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE EPÍGRAFE, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 22 DE ENERO DE 2016)</small>
 
 ###### Artículo 2.
 
-Glosario.- Para los efectos, aplicación e interpretación de esta ley se entiende por:
+Glosario.-
 
 I. Agente del Ministerio Público: El servidor público cuya función es la investigación y persecución de los hechos probablemente constitutivos de delito;
 
@@ -177,7 +181,11 @@ XV. Procuraduría: La Procuraduría General de Justicia del Estado de Coahuila d
 
 XVI. Procurador: El Titular de la Procuraduría General de Justicia del Estado de Coahuila de Zaragoza;
 
-XVII. Subprocuradores: Quienes ocupan la titularidad de las Subprocuradurías Ministerial; de Control de Juicios y Constitucionalidad; Jurídica, de Derechos Humanos y de Investigaciones Especiales; de Investigación y Búsqueda de Personas No localizadas y Atención a Víctimas, Ofendidos y Testigos; y la Especializada para la Atención de Delitos Electorales;
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2016)</small>
+
+XVII. Subprocuradores: Quienes ocupan la titularidad de las Subprocuradurías Ministerial; de Control de Juicios y Constitucionalidad; de Investigaciones Especializadas, Atención y Protección a Víctimas y Testigos y, de Personas Desaparecidas.
 
 XVIII. Servicios Periciales: La unidad administrativa de la Procuraduría que tiene a su cargo lo relativo a los servicios periciales.
 
@@ -339,9 +347,11 @@ XXXVIII. Solicitar y recabar de las autoridades, instituciones públicas o priva
 
 XXXIX. Ser responsable por la actuación de la Procuraduría ante las demás instituciones del estado y de la sociedad;
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-XL. Representar a la Institución en todos los negocios en que ésta sea parte o tenga interés jurídico, que podrá ejercer directamente o a través del Subprocurador Jurídico, de Derechos Humanos y de Investigaciones Especiales;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2016)</small>
+
+XL. Representar a la Institución en todos los negocios en que ésta sea parte o tenga interés jurídico, que podrá ejercer directamente o a través de la persona titular de la Dirección General Jurídica, de Derechos Humanos y Consultiva;
 
 XLI. Promover los juicios de control constitucional federales o locales, en los casos en que esté facultado por la ley o cuente con la representación legal para ello. Para el seguimiento de los procedimientos podrá designar representantes especiales, o delegados;
 
@@ -351,7 +361,11 @@ XLIII. Celebrar convenios de colaboración en materia de procuración de justici
 
 XLIV. Presentar anualmente, por escrito, el informe de actividades de la Procuraduría, ante el Gobernador del Estado;
 
-XLV. Crear o modificar las unidades administrativas internas de la Procuraduría;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2016)</small>
+
+XLV. Crear, modificar o suprimir, mediante acuerdo, las unidades administrativas internas de la Procuraduría;
 
 XLVI. Cumplir con los deberes y atribuciones inherentes a la titularidad de la licencia oficial colectiva de armas, expedida por la Secretaría de la Defensa Nacional;
 
@@ -447,7 +461,9 @@ Incompatibilidades
 
 El cargo de Procurador, será incompatible con cualquier otro empleo o comisión al servicio del gobierno federal, estatal y municipal, organismos desconcentrados o descentralizados o de personas físicas, así como con el ejercicio libre de la profesión de abogado. Sin embargo podrá realizar labores docentes y actividades de investigación académica.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2016)</small>
 
 ###### Artículo 18.
 
@@ -459,33 +475,31 @@ La Procuraduría contará para el cumplimiento de sus funciones y la prestación
 
 1.1 Jefe del Despacho del Procurador.
 
-1.2 Secretaría Técnica.
+1.2 Dirección General Administrativa.
 
-1.3 Dirección General de Responsabilidades.
+1.3 Dirección General de Informática y Telecomunicaciones.
 
-1.4 Dirección General Administrativa.
+1.4 Dirección General Jurídica, de Derechos Humanos y Consultiva.
 
-1.4.1 Dirección de Recursos Financieros.
+1.5 Coordinación General de Análisis de Información y de Inteligencia Patrimonial y Económica.
 
-1.4.2 Dirección de Recursos Humanos.
+1.6 Unidad de Transparencia.
 
-1.4.3 Dirección de Recursos Materiales y Servicios Generales.
+1.7 Unidad de Búsqueda de Personas Desaparecidas.
 
-1.4.4 Dirección de Mantenimiento y Control Vehicular.
+1.8 Órganos Desconcentrados.
 
-1.4.5 Dirección de Administración Documental.
+1.8.1 Dirección General de Responsabilidades.
 
-1.4.6 Dirección de Bienes Asegurados.
+1.8.2 Dirección General de Servicios Periciales.
 
-1.5 Dirección General de Informática y Telecomunicaciones.
+1.8.3 Centro de Profesionalización.
 
-1.6 Coordinación General de Análisis de Información y de Inteligencia Patrimonial y Económica.
+1.9 Fiscalías Especializadas
 
-1.7 Centro de Profesionalización.
+1.9.1 Fiscalía Especializada para la Atención de Delitos Electorales.
 
-1.7.1 Instituto de Estudios Penales y Formación Profesional.
-
-1.7.2 Dirección de Servicio Profesional de Carrera.
+1.9.2 Fiscalía Especializada en Investigación de Delitos Cometidos por Agentes del Estado.
 
 2. Consejo Interior de Normatividad, Planeación y Evaluación.
 
@@ -493,111 +507,57 @@ La Procuraduría contará para el cumplimiento de sus funciones y la prestación
 
 3.1 Subprocuraduría Ministerial.
 
-3.1.1 Secretaría Técnica.
+3.1.1 Dirección General de Unidades de Investigación.
 
-3.1.2 Dirección General de Unidades de Investigación.
+3.1.2 Dirección General de la Policía Investigadora.
 
-3.1.3 Dirección General de la Policía Investigadora.
+3.1.3 Dirección General de Mecanismos Alternativos de Solución de Controversias.
 
-3.1.4 Dirección General de Servicios Periciales.
+3.1.4 Dirección de Centros de Operaciones Estratégicas.
 
-3.1.5 Dirección de Política Criminal.
+3.1.5 Unidad de Control Vehicular.
 
-3.1.6 Dirección de Centros de Operaciones Estratégicas
-
-3.1.7. Unidad de Control Vehicular.
-
-3.1.8. Las subdirecciones, coordinaciones y unidades administrativas necesarias.
+3.1.6 Las subdirecciones, coordinaciones y unidades administrativas necesarias.
 
 3.2 Subprocuraduría de Control de Juicios y Constitucionalidad.
 
-3.2.1 Secretaría Técnica.
+3.2.1 Dirección General de Control de Juicios.
 
-3.2.2 Dirección General de Control de Juicios.
+3.2.2 Dirección General de Control de Procesos.
 
-3.2.3 Dirección General de Control de Procesos.
+3.2.3 Dirección General de Control de Constitucionalidad.
 
-3.2.3.1 Dirección Regional de Control de Procesos.
+3.2.4 Las subdirecciones, coordinaciones y unidades administrativas necesarias.
 
-3.2.4 Dirección General de Control de Constitucionalidad.
+3.3 Subprocuraduría de Investigaciones Especializadas, Atención y Protección a Víctimas y Testigos.
 
-3.2.5 Unidad de Control de Gestión.
+3.3.1 Dirección General de Investigaciones Especializadas.
 
-3.2.6. Las subdirecciones, coordinaciones y unidades administrativas necesarias.
+3.3.2 Dirección General de Delitos de Alto Impacto y cometidos en agravio de Migrantes.
 
-3.3 Subprocuraduría Jurídica, de Derechos Humanos y de Investigaciones Especiales.
+3.3.3 Dirección General de Atención y Protección a Víctimas y Ofendidos.
 
-3.3.1 Secretaría Técnica.
+3.3.4 Dirección General de Protección a Testigos y Terceros Involucrados en el Proceso Penal.
 
-3.3.2 Dirección General Jurídica, de Derechos Humanos y Consultiva.
+3.3.5 Coordinación Estatal para la Investigación del Delito de Secuestro.
 
-3.3.3 Dirección General de Operación y Estrategia.
+3.3.6 Las subdirecciones, coordinaciones y unidades administrativas necesarias.
 
-3.3.3.1 Coordinación de Unidades de Investigación.
+3.4 Subprocuraduría de Personas Desaparecidas.
 
-3.3.3.1.1 Unidad de Investigación de Feminicidios.
+3.4.1 Dirección General de Personas Desaparecidas.
 
-3.3.3.1.2 Unidad de Investigación del Delito de Trata de Personas.
+3.4.2 Unidad de Atención de Acuerdos y Colaboraciones.
 
-3.3.3.1.3 Unidad de Investigación de Delitos contra la Libertad de Expresión.
+3.4.3 Las subdirecciones, coordinaciones y unidades administrativas necesarias.
 
-3.3.3.1.4 Unidad de Investigación de Violencia contra las Mujeres.
-
-3.3.4 Dirección General de Investigaciones Especiales.
-
-3.3.4.1 Unidad de Investigación de Delitos de Alto Impacto Social.
-
-3.3.5 Fiscalía Especializada para la Atención Delitos cometidos en agravio de Migrantes.
-
-3.3.6 Unidad de Control de Gestión.
-
-3.3.7 Las subdirecciones, coordinaciones y unidades administrativas necesarias.
-
-3.4 Subprocuraduría de Investigación y Búsqueda de Personas No Localizadas y Atención a Víctimas, Ofendidos y Testigos.
-
-3.4.1 Secretaria Técnica.
-
-3.4.2 Control de Gestión y Base de Datos.
-
-3.4.3 Dirección General de Atención y Protección a Víctimas y Ofendidos
-
-3.4.4 Dirección General de Protección a Testigos y Terceros Involucrados en el Proceso Penal.
-
-3.4.5. Dirección General de Investigación y Búsqueda de Personas No Localizadas.
-
-3.4.6 Dirección General de Mecanismos Alternativos de Solución de Controversias.
-
-3.4.7 Dirección de Vinculación y Enlace Interinstitucional.
-
-3.4.8 Dirección de Atención y Seguimiento a colaboraciones y derechos humanos.
-
-3.4.9 Coordinación Estatal para la Investigación y Búsqueda de Personas No Localizadas, Alerta Amber y Extraviados.
-
-3.4.10 Coordinación Estatal para la Investigación del Delito de Secuestro.
-
-3.4.11 Las subdirecciones, coordinaciones y unidades administrativas necesarias.
-
-3.5 Subprocuraduría Especializada para la Atención de Delitos Electorales.
-
-3.5.1 Secretaría Técnica.
-
-3.5.2 Dirección de Investigaciones en Materia de Delitos Electorales.
-
-3.5.3 Dirección de Control de Juicios y Constitucionalidad en Materia de Delitos Electorales.
-
-3.5.4 Dirección de Biblioteca, Difusión y Prevención de Delitos Electorales.
-
-3.5.5 Unidad de Control de Gestión.
-
-3.5.6 Las subdirecciones, coordinaciones y unidades administrativas necesarias.
-
-3.6 Aquellas Subprocuradurías especiales o especializadas previstas en las leyes.
+3.5 Aquellas Subprocuradurías especiales o especializadas previstas en las leyes.
 
 4. Delegaciones Regionales.
 
 5. Unidades Especiales o Especializadas según lo ameriten las necesidades del servicio de procuración de justicia.
 
-El Procurador, podrá crear o suprimir subprocuradurías especiales o especializadas, unidades administrativas, centros, direcciones generales, jefaturas y en general cualquiera que sea su denominación, conforme lo permitan las partidas presupuestales respectivas.
+El Procurador, podrá crear, modificar o suprimir subprocuradurías especiales o especializadas, unidades administrativas, centros, direcciones generales, jefaturas y en general cualquiera que sea su denominación, conforme lo permitan las partidas presupuestales respectivas.
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 2 DE MAYO DE 2014)</small>
 
@@ -733,7 +693,9 @@ XXI. Dirigir las delegaciones regionales en las áreas de sus competencias.
 
 XXII. Las demás que les confieran esta ley y los demás ordenamientos aplicables.
 
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2016)</small>
 
 ###### Artículo 25.
 
@@ -745,23 +707,15 @@ I. Por el Subprocurador Ministerial.
 
 II. Por el Subprocurador de Control de Juicios y Constitucionalidad.
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+III. Por el Subprocurador de Investigaciones Especializadas, Atención y Protección a Víctimas y Testigos.
 
-III. Por el Subprocurador Jurídico, de Derechos Humanos y de Investigaciones Especiales.
+IV. Por el Subprocurador de Personas Desaparecidas.
 
-IV. Por el Subprocurador de Investigación y Búsqueda de Personas no Localizadas y Atención a Víctimas, Ofendidos y Testigos.
-
-V. Por el Subprocurador Especializado para la Atención de Delitos Electorales.
-
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
-
-VI. A falta de todos los anteriores, en primer término por el Director General de Unidades de Investigación y en segundo término por el Director General de Control de Procesos.
-
-VII. A falta de todos los anteriores, en primer término por el Director General de Unidades de Investigación y en segundo término por el Director General de Control de Procesos.
+V. A falta de todos los anteriores, en primer término por el Director General de Unidades de Investigación y en segundo término por el Director General de Control de Procesos.
 
 B. En caso de ausencia definitiva del Procurador, desempeñará el cargo el Subprocurador que designe el Gobernador con carácter de encargado del despacho, hasta que asuma el cargo el nuevo titular.
 
-C. Los subprocuradores y los otros servidores públicos de la Procuraduría, en las ausencias temporales serán suplidos por el servidor público que le siga en jerarquía; y en las ausencias definitivas, por el servidor público que le siga en jerarquía hasta en tanto se designe al nuevo titular.
+C. Los subprocuradores y los otros servidores públicos de la Procuraduría, en las ausencias temporales o definitivas serán suplidos por el servidor público que le siga en jerarquía o bien por quien designe el Procurador.
 
 Los Agentes del Ministerio Público en sus ausencias temporales serán suplidos por otro Agente del Ministerio Público previo acuerdo del Delegado Regional.
 
@@ -797,7 +751,11 @@ VIII. Presentar y aprobar las evaluaciones de control de confianza previstas en 
 
 Deberes y atribuciones de la Subprocuraduría Ministerial.
 
-El subprocurador ministerial, tendrá los deberes y atribuciones que le correspondan en materia de procuración de justicia y la investigación de los delitos, que le sean conferidas en la constitución general, en la constitución del estado, en esta ley y demás ordenamientos aplicables.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2016)</small>
+
+El subprocurador ministerial, tendrá los deberes y atribuciones que le correspondan en materia de procuración de justicia, la investigación de los delitos y el análisis de la incidencia delictiva y la implementación en su caso, de acciones para prevenir y combatir el delito, que le sean conferidas en la Constitución General, en la Constitución del Estado, en esta ley y demás ordenamientos aplicables.
 
 El Subprocurador Ministerial será el responsable de supervisar, controlar, dirigir y, en su caso, ejercer por sí las actividades del Ministerio Público y sus auxiliares, salvo cuando sean desarrolladas por funcionarios fuera de su adscripción, mando o autoridad, en las siguientes funciones:
 
@@ -809,9 +767,11 @@ III. La emisión, formalización y desahogo de vistas.
 
 IV. La revisión cuando lo juzgue conveniente de las determinaciones de no ejercicio de la acción penal.
 
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-V. La generación de Política Criminal.
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2016)</small>
+
+V. La promoción, aplicación y sustanciación de los mecanismos alternativos de solución de controversias.
 
 > <small>(ADICIONADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
@@ -839,87 +799,89 @@ VI. Emitir los lineamientos y directrices necesarios para que las actuaciones de
 
 VII. Resolver el recurso de inconformidad con respecto al acuerdo de abstención de investigar, el archivo temporal y la aplicación de los criterios de oportunidad decretados por los Agentes del Ministerio Público.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2016)</small>
 
 ###### Artículo 29.
 
-Deberes y atribuciones de la Subprocuraduría Jurídica, de Derechos Humanos y de Investigaciones Especiales.
+Deberes y atribuciones de la Subprocuraduría de Investigaciones Especializadas, Atención y Protección a Víctimas y Testigos.
 
-Esta Subprocuraduría tendrá los deberes y atribuciones que le correspondan en materia de procuración de justicia, de acuerdo con lo establecido en la Constitución General, en la Constitución del Estado, en esta ley y los demás ordenamientos aplicables, y específicamente en lo relativo a:
+Esta Subprocuraduría tendrá los deberes y atribuciones que le correspondan en materia de procuración de justicia, la investigación de los delitos y el análisis de la incidencia delictiva y la implementación en su caso, de acciones para prevenir y combatir el delito, de acuerdo con lo establecido en la Constitución General, en la Constitución del Estado, en esta ley y los demás ordenamientos aplicables, y específicamente en lo relativo a:
 
-I. Actividades de consultoría y asesoría jurídica;
+I. La investigación de los delitos cometidos en agravio de mujeres por razón de género.
 
-II. Transparencia;
+II. La investigación de los delitos cometidos en agravio de la libertad de expresión de personas físicas y morales que ejerzan la actividad periodística.
 
-III. Protección de los derechos humanos;
+III. Los casos en que debido a la naturaleza, gravedad y complejidad de los hechos constitutivos de delito o de las personas o derechos tutelados vulnerados, se requiera de un tratamiento especializado.
 
-IV. Los casos en que debido a la naturaleza, gravedad y complejidad de los hechos constitutivos de delito o de las personas o derechos tutelados vulnerados, se requiera de un tratamiento especializado;
+IV. La investigación de los delitos cometidos en agravio de migrantes.
 
-V. La investigación de los delitos cometidos en agravio de mujeres por razón de género;
+V. La investigación y persecución del delito de secuestro.
 
-VI. La investigación del delito de trata de personas;
+VI. La atención y protección de víctimas, ofendidos, testigos y demás terceros Involucrados en el Proceso Penal.
 
-VII. La investigación de los delitos cometidos en agravio de la libertad de expresión de personas físicas y morales que ejerzan la actividad periodística;
+VII. Las demás que se establezcan en el reglamento de esta ley y demás ordenamientos jurídicos.
 
-VIII. La investigación de los delitos cometidos en agravio de migrantes;
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-IX. Las demás que se establezcan en el reglamento de esta ley y demás ordenamientos jurídicos.
-
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 2014)</small>
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2016)</small>
 
 ###### Artículo 30.
 
-Deberes y atribuciones de la Subprocuraduría de Investigación y Búsqueda de Personas no Localizadas y Atención a Víctimas, Ofendidos y Testigos
+Deberes y atribuciones de la Subprocuraduría de Personas Desaparecidas.
 
-Esta subprocuraduría tendrá los deberes y atribuciones que le correspondan en materia de procuración de justicia, de acuerdo con lo establecido en la Constitución General, en la Constitución del Estado, en esta ley y los demás ordenamientos aplicables.
+Esta subprocuraduría tendrá los deberes y atribuciones que le correspondan en materia de procuración de justicia, la investigación de los delitos y el análisis de la incidencia delictiva y la implementación en su caso, de acciones para prevenir y combatir el delito, de acuerdo con lo establecido en la Constitución General, en la Constitución del Estado, en esta ley y los demás ordenamientos aplicables, y específicamente en lo relativo a la investigación y persecución de los delitos relacionados con la desaparición y ausencia de personas, además de la investigación de los hechos posiblemente constitutivos del delito de trata de personas.
 
-El Subprocurador de Investigación y Búsqueda de Personas No Localizadas, Atención y a Víctimas, Ofendidos y Testigos, será el competente para dirigir y supervisar las actividades siguientes:
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE EPÍGRAFE, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-I. Planear, programar, organizar, dirigir, supervisar y evaluar el desarrollo de las funciones de la subprocuraduría a su cargo.
-
-II. Supervisar la actuación de los Agentes del Ministerio Público en la investigación y persecución de los delitos relacionados con la desaparición de personas, así como del personal policial y administrativo a su cargo.
-
-III. Diseñar, instrumentar y coordinar el programa estatal de búsqueda de personas no localizadas.
-
-IV. Llevar la información estadística de las investigaciones.
-
-V. Planear, programar, organizar, dirigir, supervisar y evaluar el desarrollo de las funciones tendientes a la protección de víctimas y testigos.
-
-> <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
-
-VI. Planear, programar, organizar, dirigir, supervisar y evaluar el desarrollo de las funciones en relación a los mecanismos alternativos de solución de controversias.
-
-VII. Ser enlace con las unidades administrativas federales, estatales y municipales vinculadas con las funciones a su cargo.
-
-VIII. Las demás que se establezcan en el reglamento de esta ley y demás ordenamientos jurídicos.
-
-> <small>(REFORMADO, P.O. 2 DE MAYO DE 2014)</small>
+> <small>(REFORMADO SU EPÍGRAFE, P.O. 22 DE ENERO DE 2016)</small>
 
 ###### Artículo 31.
 
-Deberes y Atribuciones de la Subprocuraduría Especializada para la Atención de Delitos Electorales
+Deberes y Atribuciones de la Fiscalía Especializada para la Atención de Delitos Electorales.
 
-> <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-Al frente de la Subprocuraduría habrá un Subprocurador Especializado, que gozará de plena autonomía jurídica, técnica y funcional, a quien le corresponderá la investigación de delitos de naturaleza electoral, a fin de resolver sobre el ejercicio de la acción penal y tendrá todos los deberes que sean conferidas al Ministerio Público en la Constitución General, en la Constitución del Estado, en la Ley General en Materia de Delitos Electorales, en esta ley y demás ordenamientos aplicables.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2016)</small>
 
-El Subprocurador Especializado para la Atención de Delitos Electorales será el responsable de dirigir, controlar y supervisar las siguientes funciones:
+Al frente de la Fiscalía habrá un Fiscal Especializado, que gozará de plena autonomía jurídica, técnica y funcional, a quien le corresponderá la investigación de delitos de naturaleza electoral, a fin de resolver sobre el ejercicio de la acción penal y tendrá todos los deberes que sean conferidas (sic) al Ministerio Público en la Constitución General, en la Constitución del Estado, en la Ley General en Materia de Delitos Electorales, en esta ley y demás ordenamientos aplicables.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2016)</small>
+
+El Fiscal Especializado para la Atención de Delitos Electorales será el responsable de dirigir, controlar y supervisar las siguientes funciones:
 
 > <small>(REFORMADA, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
 I. Investigar los ilícitos cometidos contra el desarrollo de la función pública electoral y la consulta popular, competencia de las autoridades estatales y ordenar las diligencias pertinentes y útiles para demostrar o no, la existencia del delito y la responsabilidad de quien lo cometió o participó en su comisión.
 
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
+
 II. Establecer mecanismos de coordinación y de interrelación con las autoridades federales, estatales y municipales; así como con las demás áreas de la Procuraduría, para el óptimo cumplimiento de sus atribuciones.
+
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
 
 III. Instrumentación de acciones de difusión, divulgación y prevención de los delitos electorales.
 
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
+
 IV. Mando directo e inmediato de los Agentes del Ministerio Público y sus auxiliares que estén adscritos.
+
+> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
 
 V. Las demás que se establezcan en el reglamento de esta ley y demás ordenamientos jurídicos.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 22 DE ENERO DE 2016)</small>
+
 ###### Artículo 31 Bis.
 
-(DEROGADO, P.O. 25 DE NOVIEMBRE DE 2014)
+Fiscalía Especializada en Investigación de Delitos Cometidos por Agentes del Estado.
+
+Esta Fiscalía tendrá los deberes y atribuciones que le correspondan en materia de procuración de justicia, la investigación de los delitos y el análisis de la incidencia delictiva y la implementación en su caso, de acciones para prevenir y combatir el delito, de acuerdo con lo establecido en la Constitución General, en la Constitución del Estado, en esta ley y los demás ordenamientos aplicables, y específicamente en lo relativo a la investigación y persecución de los hechos probablemente constitutivos del delito de tortura y otros tratos o penas crueles, inhumanos o degradantes cometido (sic) por agentes policiales del Sistema Estatal de Seguridad Pública.
 
 ###### Artículo 32.
 
@@ -1279,9 +1241,19 @@ XX. Las demás que sean necesarias
 
 ### CAPÍTULO II. De la Dirección General de los Servicios Periciales
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE EPÍGRAFE, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO SU EPÍGRAFE [N. DE E. ADICIONADO], P.O. 22 DE ENERO DE 2016)</small>
+
 ###### Artículo 52.
 
-La Dirección General de Servicios Periciales tendrá las siguientes atribuciones:
+Atribuciones de la Dirección General de Servicios Periciales.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2016)</small>
+
+La Dirección General de Servicios Periciales, como órgano desconcentrado de la Procuraduría, con autonomía de gestión y criterio, tendrá las siguientes atribuciones:
 
 > <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
 
@@ -1531,7 +1503,7 @@ A fin de coadyuvar en la formación, capacitación, profesionalización y actual
 
 > <small>(REFORMADO, P.O. 25 DE NOVIEMBRE DE 2014)</small>
 
-###### Articulo 60.
+###### Artículo 60.
 
 Función
 
@@ -1709,15 +1681,27 @@ XII. Los niveles y el personal a quienes será aplicable el Servicio Profesional
 
 ### CAPÍTULO ÚNICO. Naturaleza de la Dirección General de Responsabilidades
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE EPÍGRAFE, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO SU EPÍGRAFE [N. DE E. ADICIONADO], P.O. 22 DE ENERO DE 2016)</small>
+
 ###### Artículo 66.
 
-La Dirección General de Responsabilidades, tendrá las siguientes competencias:
+Competencia de la Dirección General de Responsabilidades.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2016)</small>
+
+La Dirección General de Responsabilidades, como órgano desconcentrado de la Procuraduría, con autonomía de gestión y criterio, tendrá las siguientes competencias:
 
 I. Es un órgano de investigación, supervisión, inspección y auditoria, mediante el cual se controla y evalúa el ejercicio del presupuesto, derechos, fondos e ingresos, conservación y uso de bienes de la Institución.
 
-> <small>(REFORMADA, P.O. 2 DE MAYO DE 2014)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-II. Tratándose de responsabilidad administrativa, ejercerá las acciones penales, en contra de los servidores públicos de la dependencia que en el ejercicio de su encargo, puesto o comisión, violen las leyes aplicables; y dará vista al Subprocurador Jurídico, de Derechos Humanos, Profesionalización y Proyectos para que se proceda a ejercer las acciones civiles, mercantiles o laborales, correspondientes.
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2016)</small>
+
+II. Tratándose de responsabilidad administrativa, ejercerá las acciones penales, en contra de los servidores públicos de la dependencia que en el ejercicio de su encargo, puesto o comisión, violen las leyes aplicables; y dará vista al titular de la Dirección General Jurídica, de Derechos Humanos y Consultiva, para que se proceda a ejercer las acciones civiles, mercantiles o laborales, correspondientes.
 
 III. Sustanciar los procedimientos administrativos a que haya lugar por responsabilidad en el ejercicio del servicio público y aplicar las sanciones que correspondan.
 
@@ -1962,3 +1946,35 @@ Los nombramientos expedidos con anterioridad continuarán generando sus efectos 
 ###### ARTÍCULO OCTAVO.
 
 Los procedimientos en materia de ejecución de penas y medidas de seguridad que con anterioridad al inicio de vigencia del presente Decreto se estuviesen tramitando, continuarán substanciándose de acuerdo a la legislación vigente al momento de su inicio en todo aquello que no atente contra el debido proceso penitenciario y sea contario al presente decreto.
+
+P.O. 22 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 338.- SE MODIFICA EL EPÍGRAFE Y LA FRACCIÓN XVII DEL ARTÍCULO 2, LAS FRACCIONES XL Y XLV DEL ARTÍCULO 11, LOS ARTÍCULOS 18 Y 25, EL PRIMER PÁRRAFO Y FRACCIÓN V DEL ARTÍCULO 27, LOS ARTÍCULOS 29 Y 30, EL EPÍGRAFE Y LOS PÁRRAFOS PRIMERO Y SEGUNDO DEL ARTÍCULO 31, EL ARTÍCULO 31 BIS, EL EPÍGRAFE Y PRIMER PÁRRAFO DEL ARTÍCULO 52 Y EL EPÍGRAFE, PRIMER PÁRRAFO Y FRACCIÓN II DEL ARTÍCULO 66, DE LA LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente decreto entrará en vigor a los ocho días hábiles siguientes de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente decreto.
+
+TERCERO.- Todas las disposiciones, menciones y referencias que se hagan en las leyes y reglamentos respecto de las siguientes unidades administrativas, se entenderán hechas conforme a lo siguiente:
+
+a) Subprocuraduría Jurídica, de Derechos Humanos y de Investigaciones Especiales, y Subprocuraduría de Investigación y Búsqueda de Personas no Localizadas y Atención a Víctimas, Ofendidos y Testigos (ésta última por lo que hace a la atención y protección de víctimas y testigos): Subprocuraduría de Investigaciones Especializadas, Atención y Protección de Víctimas y Testigos.
+
+b) Subprocuraduría de Investigación y Búsqueda de Personas no Localizadas y Atención a Víctimas, Ofendidos y Testigos: Subprocuraduría de Personas Desaparecidas.
+
+c) Subprocuraduría Especializada para la Atención de Delitos Electorales: Fiscalía Especializada para la Atención de Delitos Electorales.
+
+d) Dirección General de Investigación y Búsqueda de Personas No Localizadas: Dirección General de Personas Desaparecidas.
+
+e) Dirección de Atención y Seguimiento a Colaboraciones y Derechos Humanos: Unidad de Atención de Acuerdos y Colaboraciones.
+
+f) Dirección General de Operación y Estrategia: Dirección General de Investigaciones Especializadas.
+
+g) Dirección General de Investigaciones Especiales y la Fiscalía Especializada para la Atención (sic) Delitos cometidos en agravio de Migrantes: Dirección General de Delitos de Alto Impacto y cometidos en agravio de Migrantes.
+
+h) Dirección de Política Criminal: Coordinación General de Análisis de Información y de Inteligencia Patrimonial y Económica y Subprocuradurías en el ámbito de sus competencias.
+
+CUARTO.- Las facultades que anteriormente estuvieren conferidas a la extinta Subprocuraduría Jurídica, de Derechos Humanos y de Investigaciones Especiales, relativas a la consultoría y asesoría jurídica, transparencia, protección de derechos humanos y representación de la Procuraduría o del Procurador, se entienden conferidas a la Dirección General Jurídica, de Derechos Humanos y Consultiva.
+
+QUINTO.- Los nombramientos expedidos con anterioridad continuarán generando sus efectos hasta en tanto se expidan los nuevos, con todos los efectos legales y responsabilidades en ellos conferidos.
+
+SEXTO.- La Procuraduría General de Justicia del Estado de Coahuila de Zaragoza deberá realizar, en un plazo de 30 días contados a partir de la entrada en vigor del presente decreto, las modificaciones al Reglamento de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Coahuila de Zaragoza.
