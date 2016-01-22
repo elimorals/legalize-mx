@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-jueces-auxiliares-propietarios-y-suplentes-41813"
 country: "mx"
 rank: "reglamento"
 publication_date: "1992-07-31"
-last_updated: "1992-07-31"
+last_updated: "2016-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=41813&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DE JUECES AUXILIARES PROPIETARIOS Y SUPLENTES DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEON
 
-REGLAMENTO DE JUECES AUXILIARES PROPIETARIOS Y SUPLENTES DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEON
+REGLAMENTO DE JUECES AUXILIARES PROPIETARIOS Y SUPLENTES DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 31 de julio de 1992.
 
@@ -37,21 +37,27 @@ REGLAMENTO DE JUECES AUXILIARES PROPIETARIOS Y SUPLENTES
 
 ### CAPITULO PRIMERO. REGLAS GENERALES
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2016)</small>
+
 ###### Artículo 1o.
 
-Para efectos del presente Reglamento, la Autoridad Municipal estará representada por el C. Presidente Municipal a través de la Secretaría del Ayuntamiento debiendo observarse lo que dispone el Artículo 76 Fracción VIII, de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León vigente, referente a las certificaciones que deberán realizarse por el C. Secretario del R. Ayuntamiento.
+Para efectos del presente Reglamento, la Autoridad Municipal estará representada por el C. Presidente Municipal a través de la Dirección de Concertación Social y Jueces Auxiliares debiendo observarse lo que dispone el Artículo 98 Fracción XIII, de la Ley de Gobierno Municipal del Estado de Nuevo León vigente, referente a las certificaciones que deberán realizarse por el C. Secretario del R. Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2016)</small>
 
 ###### Artículo 2o.
 
-En el Municipio de General Escobedo, del Estado Libre y Soberano de Nuevo León, se reconoce como colaboradores de la Administración Pública Municipal a las personas designadas con el carácter de Jueces Auxiliares. Propietarios y Suplentes.
+En el Municipio de General Escobedo, del Estado Libre y Soberano de Nuevo León, se reconoce como colaboradores del Gobierno Municipal a las personas designadas con el carácter de Jueces Auxiliares Propietarios y Suplentes.
 
 ###### Artículo 3o.
 
 El Territorio de la Ciudad de General Escobedo, Nuevo León, se dividirá por acuerdo del H. Cabildo y para los fines de su atención y vigilancia en secciones; tomando en cuenta su población y su situación geográfica.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2016)</small>
+
 ###### Artículo 4o.
 
-Para los efectos del Artículo anterior, deberá tomarse en cuenta que actualmente el territorio de la Ciudad, según el plano oficial del Registro Federal de Electores, de acuerdo con el número de habitantes, se encuentra dividido en 64 secciones; pero debido al crecimiento demográfico a nuevos fraccionamientos y colonias, deberán agregarse las que sean necesarias para el buen funcionamiento de la Institución del Juez Auxiliar, estableciéndose subdivisiones de las existentes, o bien creándose otras nuevas.
+Para los efectos del Artículo anterior, deberá tomarse en cuenta que actualmente el territorio de la Ciudad, según el plano oficial del Registro Federal de Electores, de acuerdo con el número de habitantes, se encuentra dividido en secciones electorales, que debido al crecimiento demográfico a nuevos fraccionamientos y colonias, a la totalidad actual de estas deberán agregarse las que sean necesarias para el buen funcionamiento de la Institución del Juez Auxiliar, estableciéndose subdivisiones de las existentes o bien creándose otras nuevas.
 
 ###### Artículo 5o.
 
@@ -67,9 +73,11 @@ IV.- Velar por la conservación de los caminos y acequias vecinales y que en el 
 
 Los certificados que se expidan en asuntos de su competencia, deberán legalizarse por el Secretario del R. Ayuntamiento correspondiente.
 
-Los Jueces Auxiliares que residan fuera de la cabecera del Municipio, podrán conocer en conflictos de particulares procurando la conciliación de los interesados. Si no se lograra ésta, sin más trámites que los que aconseje el buen sentido resolverán la controversia en conciencia, exhortando a las partes a acatar el fallo.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2016)</small>
 
-Las partes podrán recurrir a revisión del fallo que dicte el Juez Auxiliar ante el Alcalde dentro de los cinco días siguientes a la notificación personal que se le hiciere.
+Los Jueces Auxiliares que residan fuera de la cabecera del Municipio, podrán conocer en conflictos de particulares procurando la conciliación de los interesados. Si no se lograra ésta, sin más trámites que los que aconseje el buen sentido resolverán en conciencia, exhortando a las partes a acudir al Centro de Mediación Municipal.
+
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 22 DE ENERO DE 2016)</small>
 
 ###### Artículo 6o.
 
@@ -97,7 +105,9 @@ Para ser Juez Auxiliar Propietario y Suplente, se requiere:
 
 I.- Ser Ciudadano Mexicano cualquiera que sea su sexo;
 
-II.- Haber cumplido 18 años de edad;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2016)</small>
+
+II.- Haber cumplido 18 años de edad y contar con credencial de elector.
 
 III.- Tener una residencia no menor de un año a la fecha en donde va a ejercer su función, excepto cuando a juicio de la Autoridad Municipal no sea posible esta antigüedad, en virtud de tratarse de fraccionamientos o colonias de reciente formación;
 
@@ -111,9 +121,11 @@ VI.- El cargo de Juez Auxiliar Propietario y Suplente no podrá recaer en una pe
 
 VII.- Haber observado buena conducta, tener solvencia moral y estar excento de antecedentes penales.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2016)</small>
+
 ###### Artículo 10o.
 
-Los Jueces Auxiliares Propietarios y Suplentes, durarán en su cargo el período de la Administración Municipal que los designa, debiendo conservarse en su puesto hasta que sean substituidos formalmente por la Autoridad Municipal entrante, pudiendo ser ratificados en el ejercicio de su función.
+Los Jueces Auxiliares Propietarios y Suplentes, durarán en su cargo el periodo del Gobierno Municipal que los designa, debiendo conservarse en su puesto hasta que sean substituidos formalmente por la Autoridad Municipal entrante, pudiendo ser ratificados en el ejercicio de su función.
 
 ###### Artículo 11o.
 
@@ -145,9 +157,11 @@ El Juez Auxiliar Suplente cubrirá las faltas temporales del propietario. Cuando
 
 En caso de que por cualquier causa llegara a faltar el Propietario y el Suplente en una sección, indistintamente, los vecinos de su jurisdicción lo harán del conocimiento del Presidente Municipal, a fin de que se designe provisionalmente a un responsable. Proponiéndose en un término no mayor de 60 días, a la persona idónea para su designación definitiva.
 
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2016)</small>
+
 ###### Artículo 15o.
 
-A falta permanente de un Juez Auxiliar Propietario, entrará provisionalmente en funciones su Suplente, en tanto el Ayuntamiento hace la nueva designación conforme a lo preceptuado en el Artículo 9 del presente Reglamento.
+A falta permanente de un Juez Auxiliar Propietario, entrará provisionalmente en funciones su Suplente, en tanto se lleva a cabo la nueva designación conforme a lo preceptuado en los Artículos 7 y 9 del presente Reglamento.
 
 ### CAPITULO TERCERO. DE LAS ATRIBUCIONES Y OBLIGACIONES
 
@@ -171,15 +185,21 @@ Particularmente el Juez Auxiliar Propietario tiene como atribuciones:
 
 I.- Auxiliar y colaborar en todo cuanto fuere requerido, con las Autoridades Federales, Estatales ó Municipales, en los asuntos de sus respectiva (sic) competencias y que se le relacionen con la sección donde les corresponda ejercer sus funciones;
 
-II.- Extenderán actas, constancias o certificaciones que les sean solicitado sobre hechos o situaciones que hayan constado en el ejercicio de su cargo, o sobre documentos que obren en su archivo. Estas se harán por triplicado y ante dos testigos si fuere posible, deberán rubricarse y sellarse cada una de sus hojas. En casos que tuviere duda, consultarán con la Autoridad Municipal para que ésta proporcione la asesoría necesaria se dé al caso la solución ajustada a derecho. Las certificaciones que se expidan, deberán ser legalizadas por el C. Secretario del R. Ayuntamiento.
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2016)</small>
+
+II.- Extenderán actas o constancias que les sean solicitadas sobre hechos o situaciones que hayan constado en el ejercicio de su cargo, o sobre documentos que obren en su archivo. Estas se harán por triplicado y ante dos testigos, deberán rubricarse y sellarse cada una de sus hojas. En casos que tuviere duda, consultarán con la Autoridad Municipal para que ésta proporcione la asesoría necesaria y se dé al caso la solución ajustada a derecho.
 
 III.- Presentar las ponencias que estime pertinentes para la solución de los problemas de índole individual colectiva que aquejen a la comunidad;
 
-IV.- Los Jueces Auxiliares Propietarios asistirán a la Autoridad Municipal en la vigilancia y control de reuniones generales de tipo social, con fines de diversión o beneficio, en la inteligencia de que cuando éstas vayan a prolongarse después de las 22:00 horas, los propios interesados deberán obtener el permiso correspondiente de la Autoridad Municipal;
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2016)</small>
+
+IV.- Los Jueces Auxiliares Propietarios asistirán a la Autoridad Municipal en la vigilancia y control de reuniones generales de tipo social, con fines de diversión o beneficio, en la inteligencia de que los propios interesados deberán obtener el permiso correspondiente de la Autoridad Municipal.
 
 V.- No invadirán la esfera territorial correspondiente a otro Juez Auxiliar, ni discutirá con éste problemas de sujurisdicción (sic), en caso de presentarse un asunto de este tipo o similar, deberán acudir a la Autoridad Municipal, quién decidirá sobre la cuestión.
 
-VI.- Portarán credenciales en las que conste su nombramiento de Juez Auxiliar con la firma y sello del C. Presidente Municipal y del C. Secretario del R. Ayuntamiento; así mismo portarán los distintivos que con motivo de su cargo les hayan sido entregados; y
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2016)</small>
+
+VI.- Portarán credenciales en las que conste su nombramiento de Juez Auxiliar con la firma y sello del C. Presidente Municipal y de la Dirección de Concertación Social y Jueces Auxiliares; así mismo portarán los distintivos que con motivo de su cargo les hayan sido entregados.
 
 VII.- Sin excusa rendirán informes a la Autoridad Municipal, de todas las irregularidades que observen en su sección, principalmente aquellas que afecten el orden público, la tranquilidad general y la moral.
 
@@ -193,9 +213,11 @@ En los casos que así lo requieran, tienen derecho a ser atendidos, oídos y aux
 
 ### CAPITULO CUARTO. DEL DESARROLLO DE SUS FUNCIONES
 
-###### Artículo 21o.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2016)</small>
 
-Los Jueces Auxiliares Titulares y Suplentes, tendrán como inmediato superior jerárquico a la Autoridad Municipal, representada en los términos del Artículo 1 de éste Reglamento, debiendo acatar sus órdenes so pena de incurrir en una falta que sea suficiente para su remoción inmediata.
+###### Artículo 21.
+
+Los Jueces Auxiliares Titulares y Suplentes, tendrán como inmediato superior jerárquico al titular de la Dirección de Concertación Social y Jueces Auxiliares, debiendo acatar sus órdenes so pena, de incurrir en una falla que sea suficiente para su remoción inmediata.
 
 ###### Artículo 22o.
 
@@ -316,3 +338,13 @@ Sr. Santos Villarreal Rodríguez.
 El C. Segunde Sindico.
 
 Sr. Carlos Medina Román.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE LA SESIÓN ORDINARIA DE FECHA 30 DE NOVIEMBRE DE 2015. SE APRUEBA LA REFORMA AL REGLAMENTO DE JUECES AUXILIARES PROPIETARIOS Y SUPLENTES DEL MUNICIPIO DE GENERAL ESCOBEDO, NUEVO LEÓN”.]
+
+Primero.- La presente reforma al Reglamento de Jueces Auxiliares Propietarios y Suplentes del Municipio de General Escobedo, Nuevo León, entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, y deberá dársele difusión en la Gaceta Municipal y en el sitio oficial de Internet de este municipio.
+
+Segundo.- Los procedimientos y demás actos jurídicos que se encuentren en trámite a la entrada en vigor de la presente reforma, serán resueltos conforme a las normas vigentes al momento de su inicio.
