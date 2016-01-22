@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2015-12-18"
+last_updated: "2016-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,7 +24,7 @@ CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL DECRETO DE REFORMAS NÚMERO 126, PUBLICADO EN EL P.O. DE 22 DE SEPTIEMBRE DE 2015, TODAS LAS REFERENCIAS QUE SE HAGAN AL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE COAHUILA, SE ENTENDERÁN HECHAS AL INSTITUTO ELECTORAL DE COAHUILA.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -850,9 +850,9 @@ V. A los organismos públicos autónomos, en todo lo concerniente a su competenc
 
 VI. A los ciudadanos coahuilenses y a los que sin serlo acrediten que han residido en el Estado por más de tres años. Este derecho se ejercerá en los términos que establezca la ley.
 
-> <small>(ADICIONADA, P.O. 9 DE FEBRERO DE 2007)</small>
+> <small>(REFORMADA, P.O. 22 DE ENERO DE 2016)</small>
 
-VII. Al instituto Coahuilense de Acceso a la Información Pública, en todo lo concerniente a su competencia. La iniciativa se presentará por conducto del Consejero Presidente, previo acuerdo del Consejo General.
+VII. Al instituto Coahuilense de Acceso a la Información Pública, en todo lo concerniente a su competencia. La iniciativa se presentará por conducto del Comisionado Presidente, previo acuerdo del Consejo General.
 
 > <small>(REFORMADA, P.O. 8 DE ABRIL DE 2012)</small>
 
@@ -2592,7 +2592,17 @@ VI. Quienes sean miembros de los pueblos o comunidades indígenas tienen derecho
 
 A ninguna Ley se dará efecto retroactivo, en perjuicio de persona alguna.
 
-Nadie podrá ser privado de la vida, de la libertad o de sus propiedades, posesiones o derechos, sino mediante juicio seguido ante los Tribunales previamente establecidos, en el que se cumplan las formalidades esenciales del procedimiento y conforme a las Leyes expedidas con anterioridad al hecho.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2016)</small>
+
+Nadie podrá ser privado de la libertad o de sus propiedades, posesiones o derechos, sino mediante juicio seguido ante los Tribunales previamente establecidos, en el que se cumplan las formalidades esenciales del procedimiento y conforme a las Leyes expedidas con anterioridad al hecho
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2016)</small>
+
+Quedan prohibidas las penas de muerte, de mutilación, de infamia, la marca, los azotes, los palos, el tormento de cualquier especie, la multa excesiva, la confiscación de bienes y cualesquiera otras penas inusitadas y trascendentales, que atenten contra la dignidad humana.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2016)</small>
+
+No se considerara confiscación de bienes, los casos previstos en la Constitución Política de los Estados Unidos Mexicanos.
 
 En los juicios del orden criminal, queda prohibido imponer, por simple analogía y aún por mayoría de razón, pena alguna que no esté decretada por una Ley exactamente aplicable al delito que se trata.
 
@@ -2802,7 +2812,9 @@ d) El organismo público autónomo, por conducto de quien le represente legalmen
 
 e) (DEROGADO, P.O. 26 DE JUNIO DE 2009)
 
-f) Los partidos políticos nacionales y estatales con registro debidamente acreditado ante la autoridad electoral que corresponda.
+> <small>(REFORMADO, P.O. 22 DE ENERO DE 2016)</small>
+
+f) Los partidos políticos nacionales y estatales con registro debidamente acreditado ante la autoridad electoral que corresponda, a través de sus dirigencias, exclusivamente en contra de leyes electorales expedidas por el Congreso del Estado.
 
 2. Se ejercitarán dentro de los sesenta días naturales siguientes a la fecha de publicación oficial de la norma, o en su defecto, de que se tenga conocimiento de la misma.
 
@@ -4923,3 +4935,25 @@ P.O. 18 DE DICIEMBRE DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor a partir del momento de su aprobación; publíquese en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto y aplicará a magistrados y jueces en funciones o trámites de jubilación.
+
+P.O. 22 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 247.- SE REFORMA EL ARTÍCULO 155 PÁRRAFO SEGUNDO Y SE ADICIONAN AL MISMO UN PÁRRAFO TERCERO Y UN PÁRRAFO CUARTO, DEBIENDO RECORRERSE LOS ACTUALES PÁRRAFOS TERCERO AL CUARTO, CUARTO AL QUINTO, QUINTO AL SEXTO Y SEXTO AL SÉPTIMO, RESPECTIVAMENTE, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- Las presentes modificaciones entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 323.- SE REFORMA LA FRACCIÓN VII DEL ARTÍCULO 59, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+Las presentes modificaciones entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 22 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 324.- SE REFORMA EL INCISO F) DEL NUMERAL 1 DE LA FRACCIÓN II DEL ARTÍCULO 158, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO ÚNICO.
+
+Las presentes modificaciones entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
