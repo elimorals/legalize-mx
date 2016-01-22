@@ -4,7 +4,7 @@ identifier: "TLA-constitucion-politica-del-estado-libre-y-soberano-de-8728"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-10-02"
-last_updated: "2015-12-30"
+last_updated: "2016-01-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=8728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "TLA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE TLAXCALA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Tlaxcala, los días miércoles 2, 9,16, 23 y 30 de octubre; 6 y 20 de noviembre; 4 y 11 de diciembre de 1918.
 
@@ -1147,7 +1147,7 @@ LV. Recibir el informe del Gobernador en los términos previstos por esta Consti
 
 LVI. Recibir dentro de los primeros quince días del mes de enero de cada año, el informe que por escrito entregue el Presidente del Tribunal Superior de Justicia, sobre las actividades del Poder Judicial;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO SÉPTIMO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULOS SEXTO, SEGUNDO PÁRRAFO Y SÉPTIMO TRANSITORIOS DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADA, P.O. 21 DE JULIO DE 2015)</small>
 
@@ -1207,7 +1207,7 @@ La elección de Gobernador del Estado se realizará de acuerdo con lo establecid
 
 La Legislatura del Estado expedirá el Bando Solemne para dar a conocer en toda la Entidad la declaratoria de Gobernador electo que hubiere hecho el Consejo General del organismo público local electoral de acuerdo con los resultados de la votación.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO SÉPTIMO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULOS SEXTO, SEGUNDO PÁRRAFO Y SÉPTIMO TRANSITORIOS DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2015)</small>
 
@@ -2135,7 +2135,7 @@ Cada ayuntamiento se integrará por un presidente municipal, un síndico y los r
 
 El presidente municipal, el síndico y los regidores tendrán el carácter de munícipes y serán electos por medio de planillas, en la circunscripción municipal, en procesos electorales ordinarios cada tres años, o en el plazo y para el periodo que determinen el Congreso del Estado y las leyes aplicables en caso de procesos electorales extraordinarios. También tendrán ese mismo carácter los presidentes de comunidad y las leyes aplicables determinarán las reglas, los procedimientos y las modalidades de su elección, así como sus atribuciones y obligaciones.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO NOVENO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULOS NOVENO Y DÉCIMO SEGUNDO TRANSITORIOS DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 21 DE JULIO DE 2015)</small>
 
@@ -3473,17 +3473,25 @@ La Sala Electoral Administrativa del Tribunal Superior de Justicia del Estado de
 
 El periodo del Gobernador del Estado que se elija en el dos mil dieciséis, será por única vez el comprendido del uno de enero de dos mil diecisiete al treinta de agosto de dos mil veintiuno.
 
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2016)</small>
+
+Las reformas a los artículos 54 fracción LVII y 59 de esta Constitución, entrarán en vigor el treinta y uno de agosto de dos mil veintiuno; el periodo del Gobernador electo el primer domingo de junio de dos mil dieciséis, será del primero de enero de dos mil diecisiete al treinta de agosto de dos mil veintiuno.
+
 (NOTA: EL 30 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO, DÉCIMO TERCERO Y DÉCIMO CUARTO, ASÍ COMO EN EL RESOLUTIVO DÉCIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2015 Y SUS ACUMULADAS 71/2015 Y 73/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO SÉPTIMO TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 1 DE DICIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 ###### ARTÍCULO SÉPTIMO.
 
 LAS REFORMAS A LOS ARTÍCULOS 54 FRACCIÓN LVII Y 59 DE ESTA CONSTITUCIÓN ENTRARÁN EN VIGOR EL TREINTA Y UNO DE AGOSTO DEL AÑO DOS MIL VEINTIUNO, POR LO QUE EL PERIODO DE GOBIERNO COMPRENDIDO ENTRE LOS AÑOS DOS MIL DIECISIETE Y DOS MIL VEINTIUNO INICIARÁ EL PRIMERO DE ENERO DE DOS MIL DIECISIETE Y CONCLUIRÁ EL TREINTA DE AGOSTO DE DOS MIL VEINTIUNO, TENIENDO UNA DURACIÓN DE CUATRO AÑOS CON OCHO MESES POR ÚNICA OCASIÓN, A EFECTO DE QUE LA ELECCIÓN DE GOBERNADOR SE HAGA CONCURRENTE CON LAS ELECCIONES FEDERALES DE DOS MIL VEINTIUNO Y SUBSECUENTES EN EL AÑO QUE CORRESPONDA.
 
-(NOTA: EL 30 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO, DÉCIMO TERCERO Y DÉCIMO CUARTO, ASÍ COMO EN EL RESOLUTIVO DÉCIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2015 Y SUS ACUMULADAS 71/2015 Y 73/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO OCTAVO TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 1 DE DICIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE ENERO DE 2016)</small>
 
 ###### ARTÍCULO OCTAVO.
 
-LA REFORMA AL ARTÍCULO 38 DE ESTA CONSTITUCIÓN ENTRARÁ EN VIGOR EL TREINTA DE AGOSTO DEL AÑO DOS MIL VEINTIUNO, POR LO QUE LA LEGISLATURA QUE INICIE EL TREINTA Y UNO DE DICIEMBRE DE DOS MIL DIECISÉIS CONCLUIRÁ EL VEINTINUEVE DE AGOSTO DE DOS MIL VEINTIUNO, TENIENDO UNA DURACIÓN DE CUATRO AÑOS CON OCHO MESES POR ÚNICA OCASIÓN, A EFECTO DE QUE LA ELECCIÓN DE DIPUTADOS LOCALES SE HAGA CONCURRENTE CON LAS ELECCIONES FEDERALES DE DOS MIL VEINTIUNO Y SUBSECUENTES.
+La reforma al artículo 38 de esta Constitución entrará en vigor el treinta de agosto del año dos mil dieciocho, por lo que la Legislatura que inicie el treinta y uno de diciembre de dos mil dieciséis, concluirá el veintinueve de agosto de dos mil dieciocho, teniendo una duración de un año ocho meses, por única ocasión.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2016)</small>
+
+La elección a efectuarse en el año dos mil dieciocho se celebrará el primer domingo del mes de julio a efecto de que la elección de diputados locales se haga concurrente con las elecciones federales de dos mil dieciocho y subsecuentes.
 
 (NOTA: EL 30 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS NOVENO, DÉCIMO TERCERO Y DÉCIMO CUARTO, ASÍ COMO EN EL RESOLUTIVO DÉCIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 69/2015 Y SUS ACUMULADAS 71/2015 Y 73/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO NOVENO TRANSITORIO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 1 DE DICIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
@@ -3498,6 +3506,16 @@ La reelección prevista en el artículo 90 de esta Constitución no será aplica
 ###### ARTÍCULO DÉCIMO PRIMERO.
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+> <small>(ADICIONADO, P.O. 22 DE ENERO DE 2016)</small>
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+La reforma prevista al artículo 90 en lo relativo a la fecha en que asumirán el cargo los integrantes de los ayuntamientos, entrará en vigor del día treinta y uno de agosto del dos mil veintiuno. Los ayuntamientos que entren en funciones el primero de enero de dos mil diecisiete terminarán el treinta de agosto de dos mil veintiuno, teniendo una duración de cuatro años ocho meses, por única ocasión, a efecto de que la elección de los integrantes de los ayuntamientos se haga concurrente con las elecciones federales de dos mil veintiuno y subsecuentes.
+
+La elección consecutiva a que hace referencia el artículo 115, fracción I, segundo párrafo de la Constitución Federal; 90 párrafo cuarto y sexto de la Constitución Local, no será aplicable a los ayuntamientos que entren en funciones el primero de enero de dos mil diecisiete y culminen el treinta de agosto de dos mil veintiuno, al ser su periodo de mandato superior a tres años.
+
+El régimen de reelección previsto en el artículo 90 párrafos cuarto y sexto de esta Constitución, será aplicable a partir de los ayuntamientos que rindan protesta el día treinta y uno de agosto de dos mil veintiuno.
 
 P.O. 11 DE AGOSTO DE 2015.
 
@@ -3594,3 +3612,43 @@ El Congreso del Estado deberá de armonizar en virtud del contenido de la presen
 ###### ARTÍCULO CUARTO.
 
 Se derogan todas aquellas disposiciones que se opongan al contenido del presente Decreto.
+
+P.O. 22 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 188.- POR EL QUE SE REFORMA EL ARTÍCULO OCTAVO TRANSITORIO, ADICIONÁNDOLE UN SEGUNDO PÁRRAFO DEL DECRETO NO. 118, PUBLICADO EN EL PERIÓDICO OFICIAL DE FECHA 21 DE JULIO DEL DOS MIL QUINCE”.]
+
+###### ARTÍCULO PRIMERO.
+
+En términos de lo previsto por el artículo 120 de la Constitución Política del Estado Libre y Soberano de Tlaxcala, remítase el presente Decreto a los sesenta ayuntamientos del Estado de Tlaxcala, para el debido cumplimiento a este precepto.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO TERCERO.
+
+Los Diputados locales que sean electos en el año dos mil dieciséis, podrán ser reelectos.
+
+###### ARTÍCULO CUARTO.
+
+Se derogan todas aquéllas disposiciones que se opongan al presente decreto.
+
+###### ARTÍCULO QUINTO.
+
+Se instruye al Secretario Parlamentario para que una vez aprobado el presente Decreto por el pleno de este Congreso, lo notifique a la Suprema Corte de Justicia de la Nación y al Instituto Tlaxcalteca de Elecciones, para los efectos legales conducentes.
+
+P.O. 22 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 193.- POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO AL ARTÍCULO SEXTO TRANSITORIO, Y UN ARTÍCULO DÉCIMO SEGUNDO TRANSITORIO AL DECRETO NO. 118, PUBLICADO EN EL PERIÓDICO OFICIAL DE FECHA 21 DE JULIO DE DOS MIL QUINCE”.]
+
+###### ARTÍCULO PRIMERO.
+
+En términos de lo previsto por el artículo 120 de la Constitución Política del Estado Libre y Soberano de Tlaxcala, remítase el presente Decreto a los sesenta ayuntamientos del Estado de Tlaxcala, para el debido cumplimiento a este precepto.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO TERCERO.
+
+Se derogan todas aquéllas disposiciones que se opongan al presente decreto.
