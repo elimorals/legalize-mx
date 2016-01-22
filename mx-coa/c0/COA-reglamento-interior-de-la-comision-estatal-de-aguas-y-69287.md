@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-comision-estatal-de-aguas-y-69287"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-07-03"
-last_updated: "2009-07-03"
+last_updated: "2016-01-22"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69287&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION ESTATAL DE AGUAS Y SANEAMIENTO DE COAHUILA
 
-REGLAMENTO INTERIOR DE LA COMISION ESTATAL DE AGUAS Y SANEAMIENTO DE COAHUILA
+REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE AGUAS Y SANEAMIENTO DE COAHUILA
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE AGUAS Y SANEAMIENTO DE COAHUlLA, PUBLICADO EN EL P.O. DE 22 DE ENERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2016. (ABROGADO).
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 3 de julio de 2009.
 
@@ -1152,3 +1154,15 @@ DIRECTOR GENERAL
 LIC. FAUSTO DESTENAVE KURI
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 22 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA COMISIÓN ESTATAL DE AGUAS Y SANEAMIENTO DE COAHUlLA”.]
+
+Primero. El presente reglamento Interior entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Coahuila.
+
+Segundo. Se abroga el Reglamento Interior de la Comisión Estatal de Aguas y Saneamiento del Estado de Coahuila, publicado en el Periódico Oficial del Estado Nº 53 de fecha 03 de Julio del 2009.
+
+Tercero. Se derogan todas las disposiciones que tengan similar o menor jerarquía que este reglamento y que se opongan al mismo.
