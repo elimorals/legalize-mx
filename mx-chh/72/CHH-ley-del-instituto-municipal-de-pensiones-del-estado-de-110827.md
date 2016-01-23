@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-instituto-municipal-de-pensiones-del-estado-de-110827"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-26"
-last_updated: "2015-12-26"
+last_updated: "2016-01-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110827&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "CHH"
 ---
 # LEY DEL INSTITUTO MUNICIPAL DE PENSIONES DEL ESTADO DE CHIHUAHUA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LAS FE DE ERRATAS PUBLICADAS EL 23 Y 27 DE ENERO DE 2016 EN EL P.O. DEL ESTADO DE CHIHUAHUA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DEL INSTITUTO MUNICIPAL DE PENSIONES DEL ESTADO DE CHIHUAHUA
 
 TEXTO ORIGINAL.
+
+> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 23 DE ENERO DE 2016.</small>
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 26 de diciembre de 2015.
 
@@ -935,6 +935,8 @@ PRESIDENTE. DIP. LUIS FERNANDO RODRÍGUEZ GINER. Rúbrica. SECRETARIO. DIP. ROGE
 
 Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento.
 
-En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los cuatro (sic) veintiún (sic) del mes de diciembre del año dos mil quince.
+> <small>(F. DE E., P.O. 23 DE ENERO DE 2016)</small>
+
+En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veintiún días del mes de diciembre del año dos mil quince.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. LIC. MARIO TREVIZO SALAZAR. Rúbrica.
