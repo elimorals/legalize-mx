@@ -4,7 +4,7 @@ identifier: "COL-reglamento-interior-de-la-secretaria-de-finanzas-y-84060"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-26"
-last_updated: "2013-07-27"
+last_updated: "2016-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84060&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "COL"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2013.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE PLANEACIÓN Y FINANZAS, PUBLICADO EN EL P.O. DE 23 DE ENERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 26 de noviembre de 2011.
 
@@ -1976,3 +1978,17 @@ P.O. 27 DE JULIO DE 2013
 ###### ARTICULO ÚNICO.
 
 El Presente Decreto entrará en vigor al día siguiente de su publicación, en el Periódico Oficial "El Estado de Colima".
+
+P.O. 23 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA SECRETARÍA DE PLANEACIÓN Y FINANZAS”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Finanzas y Administración, publicado en el Periódico Oficial "El Estado de Colima", el 26 de noviembre de 2011.
+
+TERCERO.- Se abroga el Reglamento Interior de la Secretaría de Planeación, publicado en el Periódico Oficial "El Estado de Colima", el 22 de noviembre de 1997.
+
+CUARTO.- Las referencias que se hagan de las unidades administrativas de la Secretaría de Finanzas y Administración y de la Secretaría de Planeación, y de sus atribuciones, en leyes, convenios, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones jurídicas, cuya denominación cambia por motivo de este reglamento, se entenderán hechas y conferidas a aquellas a las que corresponda la nueva denominación.
+
+QUINTO.- Los asuntos en trámite, iniciados bajo la vigencia de los reglamentos interiores que se abrogan, seguirán siendo atendidos hasta su conclusión por las unidades administrativas competentes, de conformidad con lo establecido en este Reglamento.
