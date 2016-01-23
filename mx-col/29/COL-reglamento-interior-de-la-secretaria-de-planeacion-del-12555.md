@@ -4,7 +4,7 @@ identifier: "COL-reglamento-interior-de-la-secretaria-de-planeacion-del-12555"
 country: "mx"
 rank: "reglamento"
 publication_date: "1997-11-22"
-last_updated: "1997-11-22"
+last_updated: "2016-01-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COL"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE PLANEACION DEL ESTADO DE COLIMA
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE PLANEACION DEL ESTADO DE COLIMA
+REGLAMENTO INTERIOR DE LA SECRETARIA DE PLANEACIÓN DEL ESTADO DE COLIMA
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE PLANEACIÓN Y FINANZAS, PUBLICADO EN EL P.O. DE 23 DE ENERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 22 de noviembre de 1997.
 
@@ -400,3 +402,19 @@ A t e n t a m e n t e.-
 "SUFRAGIO EFECTIVO. NO REELECCIÓN".
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO, LIC. FERNANDO MORENO PEÑA - Rúbrica.- EL SECRETARIO GENERAL DE GOBIERNO, LIC. HECTOR MI CHEL (SIC) CAMARENA.- Rúbrica.- EL SECRETARIO DE PLANEACION, LIC. ANGEL MARIO MARTINEZ TORRES.- Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 23 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA SECRETARÍA DE PLANEACIÓN Y FINANZAS".]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Finanzas y Administración, publicado en el Periódico Oficial "El Estado de Colima", el 26 de noviembre de 2011.
+
+TERCERO.- Se abroga el Reglamento Interior de la Secretaría de Planeación, publicado en el Periódico Oficial "El Estado de Colima", el 22 de noviembre de 1997.
+
+CUARTO.- Las referencias que se hagan de las unidades administrativas de la Secretaría de Finanzas y Administración y de la Secretaría de Planeación, y de sus atribuciones, en leyes, convenios, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones jurídicas, cuya denominación cambia por motivo de este reglamento, se entenderán hechas y conferidas a aquellas a las que corresponda la nueva denominación.
+
+QUINTO.- Los asuntos en trámite, iniciados bajo la vigencia de los reglamentos interiores que se abrogan, seguirán siendo atendidos hasta su conclusión por las unidades administrativas competentes, de conformidad con lo establecido en este Reglamento.
