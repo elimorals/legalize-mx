@@ -4,7 +4,7 @@ identifier: "SON-ley-organica-del-instituto-tecnologico-del-estado-de-sonora-122
 country: "mx"
 rank: "ley_organica"
 publication_date: "1976-10-02"
-last_updated: "2003-10-22"
+last_updated: "2016-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12285&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "SON"
 ---
 # LEY ORGANICA DEL INSTITUTO TECNOLOGICO DEL ESTADO DE SONORA
 
-LEY ORGÁNICA DEL INSTITUTO TECNOLÓGICO DE SONORA
+LEY ORGANICA DEL INSTITUTO TECNOLÓGICO DE SONORA
 
 ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 22 DE OCTUBRE DE 2003.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL B.O. DE 25 DE ENERO DE 2016.]</small>
 
 Ley publicada en el Boletín Oficial del Estado de Sonora, el sábado 2 de octubre de 1976.
 
@@ -185,7 +187,9 @@ I.- Poseer título profesional cuando menos a nivel de licenciatura expedido leg
 
 II.- Ser persona de reconocido prestigio profesional;
 
-III.- Prestar o haber prestado servicios docentes, de investigación, o directivos en el Instituto o en sus (sic) otras instituciones universitarias, por un mínimo de 5 años;
+> <small>(F. DE E., B.O. 25 DE ENERO DE 2016)</small>
+
+III.- Prestar o haber prestado servicios docentes, de investigación, o directivos en el Instituto o en otras instituciones universitarias, por un mínimo de 5 años;
 
 IV.- Ser ciudadano mexicano y tener más de 30 años el día de la elección; y
 
