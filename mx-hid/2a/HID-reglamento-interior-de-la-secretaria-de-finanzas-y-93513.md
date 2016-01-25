@@ -4,7 +4,7 @@ identifier: "HID-reglamento-interior-de-la-secretaria-de-finanzas-y-93513"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-03-25"
-last_updated: "2013-05-13"
+last_updated: "2016-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=93513&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "HID"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN DEL ESTADO DE HIDALGO
 
-TEXTO ORIGINAL.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 13 DE MAYO DE 2013.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Hidalgo, el lunes 25 de marzo de 2013.
 
@@ -547,21 +545,31 @@ III.- Formular y presentar, para su aprobación y oportuna ejecución, a los int
 
 IV.- Supervisar y asegurar el cumplimiento de estrategias, acciones y programas institucionales y especiales correspondientes a la modernización administrativa y mejoramiento de la calidad institucional de los servicios públicos;
 
-V.- Dictar los lineamientos que para efectos de la elaboración de estructuras orgánicas y manuales de organización y procedimientos tendrán que observar las dependencias y organismos, para su ejecución, elaboración y expedición de los mismos;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
-VI.- Colaborar con las dependencias y entidades en la ejecución y vigilancia de la elaboración y expedición de las estructuras orgánicas y de los manuales de organización y procedimientos;
+V.- Dictar los lineamientos que para efectos de la elaboración de estructuras orgánicas y manuales administrativos de organización y procedimientos tendrán que observar las dependencias y organismos, para su ejecución, elaboración, validación y expedición de los mismos;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+VI.- Colaborar con las dependencias y entidades en la ejecución y vigilancia de la elaboración, validación y expedición de las estructuras orgánicas y de los manuales administrativos, de organización y procedimientos;
 
 VII.- Administrar y ordenar la compilación, difusión y sistematización de la información relativa a la organización institucional; así como lo referente a la calidad administrativa y a las herramientas, método y metodología utilizada en la instrumentación de las mismas;
 
 VIII.- Organizar y controlar los programas y proyectos enfocados a elevar la calidad y eficiencia institucional;
 
-IX.- Instrumentar, coordinar y vigilar la metodología de los reglamentos internos, decretos de creación y estatutos orgánicos de las dependencias y entidades respectivamente, en colaboración con la Coordinación General Jurídica;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+IX.- Instrumentar, coordinar y vigilar la metodología de los reglamentos internos, decretos decreación (sic) y estatutos orgánicos de las dependencias y entidades respectivamente, en colaboración con la Coordinación General Jurídica;
 
 X.- Revisar y, en su caso, autorizar con las autoridades competentes en la materia, los reglamentos interiores, decretos de creación, estatutos orgánicos, estructuras orgánicas, manuales de organización y procedimientos, de las dependencias y entidades; solicitando, en el ámbito de su competencia, la participación de las dependencias coordinadoras de sector, de conformidad a la legislación y reglamentación aplicable en la materia;
 
-XI.- Elaborar los modelos de reorganización y rediseño institucional de la Administración Pública Estatal, que permitan racionalizar las estructuras administrativas de las dependencias y entidades, promoviendo la implementación de criterios técnicos que incentiven la eficacia, eficiencia, productividad y aprovechamiento óptimo de los recursos públicos;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
-XII.- Brindar asesoría técnica a las dependencias y entidades, en lo relativo a la elaboración de manuales de organización y procedimientos;
+XI.- Elaborar los modelos de reorganización y rediseño institucional de la Administración Pública Estatal, que permitan alinear las estructuras administrativas de las dependencias y entidades, promoviendo la implementación de criterios técnicos que incentiven la eficacia, eficiencia, productividad y aprovechamiento óptimo de los recursos públicos;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+XII.- Brindar asesoría técnica a las dependencias y entidades, en lo relativo a la elaboración de estructuras orgánicas, manuales administrativos, de organización y procedimientos;
 
 XIII.- Revisar, analizar y dictaminar la procedencia del gasto público correspondiente a las partidas restringidas que soliciten las dependencias y entidades, atendiendo las políticas y criterios que sobre el particular establezca el Presupuesto y el acuerdo correspondiente que sobre el particular determine el Secretario;
 
@@ -569,37 +577,79 @@ XIV.- Coordinar el mejoramiento de los sistemas de atención ciudadana, conforme
 
 XV.- Las demás que las leyes, Reglamentos, Decretos, Acuerdos, Convenios y contratos le atribuyan directamente, así como aquéllas que le asigne el Secretario en el ámbito de sus facultades.
 
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2016)</small>
+
+XVI.- Validar y dar por presentado el programa de disciplina, racionalidad y eficiencia del gasto público del año fiscal correspondiente de las dependencias y entidades, el cual deberá apegarse a todas y cada una de las medidas establecidas en los lineamientos de racionalidad establecidos para la operación de dicho programa;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2016)</small>
+
+XVII.- Validar el ejercicio de partidas restringidas en cumplimiento a las disposiciones legales, reglamentarias y administrativas vigentes en el estado o en la federación;
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2016)</small>
+
+XVIII.- Implementar, coordinar y evaluar el programa CERO PAPEL, mediante acciones que permitan mejorar la eficiencia de la administración y la reducción del gasto público, con prácticas dirigidas a proteger el medio ambiente, así como privilegiar el uso de las (TIC'S); y
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2016)</small>
+
+XIX.- Vigilar la aplicación racional de los recursos solicitados para la realización de los eventos del Ejecutivo, bajo los criterios que la CISCMRDE considere para tal efecto.
+
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 25 DE ENERO DE 2016, PÁGINA 6.]</small>
+
 ###### ARTÍCULO 22.
 
 Corresponde a la Coordinación de Tecnologías de la Información, las siguientes atribuciones:
 
-I.- Coordinar el desarrollo tecnológico de la Secretaría, junto con las Unidades de Informática, para la automatización de los procesos institucionales;
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 25 DE ENERO DE 2016)</small>
 
-II.- Coordinar el desarrollo del Sistema de Información de Contabilidad Gubernamental, que permita en tiempo real y de manera automática, la generación de estados financieros del registro de las operaciones presupuestales y contables, de acuerdo a las políticas y lineamientos establecidos por la Unidad de Armonización Contable Presupuestal así como por las diversas áreas de ésta Secretaría;
+I. Coordinar el desarrollo tecnológico de la Secretaría, junto con las Unidades de Informática, para la automatización de los procesos institucionales.
 
-III.- Definir los lineamientos que permitan la estandarización de proyectos tecnológicos que deberán adoptar las unidades administrativas de la Secretaría, para el cumplimiento de la Ley General de Contabilidad Gubernamental;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
-IV.- Coordinar, implementar y administrar proyectos integrales de modernización administrativa, que promuevan la mejora en el desempeño de las unidades administrativas que conforman a la Secretaría;
+II. Coordinar el desarrollo y mantenimiento del Sistema de Información de Contabilidad Gubernamental, que permita en tiempo real y de manera automática, la generación de estados financieros del registro de las operaciones presupuestales y contables, de acuerdo a las políticas y lineamientos establecidos por la Unidad de Armonización Contable Presupuestal, así como por las diversas áreas de ésta Secretaría;
 
-V.- Dirigir, controlar y supervisar las actividades de diseño, desarrollo, implementación y operación de la infraestructura tecnológica de las unidades administrativas de la Secretaría;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
-VI.- Establecer, Integrar y coordinar la elaboración y aplicación del Programa Anual de Planeación Estratégica para el Desarrollo Tecnológico, conjuntamente con las demás unidades de informática de la Secretaría;
+III. Definir y difundir los lineamientos y metodologías que permitan la estandarización de proyectos tecnológicos que deberán adoptar las unidades administrativas de la Secretaría, en cumplimiento con la normatividad aplicable en la materia;
 
-VII.- Crear el Comité de Desarrollo Tecnológico de la Secretaría, a fin de coordinar los proyectos establecidos, para dar los aportes técnicos requeridos;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
-VIII.- Fungir como Presidente del Comité de Desarrollo Tecnológico de la Secretaría;
+IV. Coordinar, implementar y administrar proyectos integrales de modernización administrativa, que mejoren los niveles de servicio mediante la sistematización de los procesos institucionales, que apoyen al desempeño de las unidades administrativas que conforman a la Secretaría;
 
-IX.- Coordinar con las unidades de Informática de la Secretaría, la sistematización de los procesos institucionales;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
-X.- Definir y administrar los contenidos del portal institucional de la Secretaría, así como apoyar a las unidades administrativas de la Secretaría que así lo soliciten, en el diseño y publicación de las páginas que lo conforman;
+V. Supervisar y sugerir las actividades de diseño, desarrollo, implementación y operación de la infraestructura tecnológica de las unidades administrativas, así como administrar el centro de datos de la Secretaría;
 
-XI.- Desarrollar proyectos estratégicos, orientados a mejorar la gestión pública con la colaboración de expertos e instituciones nacionales e incluso internacionales, así como definir y difundir los criterios generales para la elaboración e implementación de dichos proyectos;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
-XII.- Concentrar, resguardar, mantener y operar las bases de datos de los diferentes sistemas de información que estén bajo la administración de esta Coordinación, con el fin de garantizar la integridad, seguridad y confidencialidad de las mismas, mediante el establecimiento de un programa de seguridad;
+VI. Establecer, integrar y coordinar la elaboración y aplicación del Programa Anual de Planeación Estratégica para el Desarrollo Tecnológico, conjuntamente con las demás unidades de informática de la Secretaría;
 
-XIII.- Asesorar a las unidades administrativas de la Secretaría, en los procesos de adquisición, arrendamiento y actualización de hardware, la contratación de servicios de consultoría o asesoría en materia de informática; y
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
-XIV.- Las demás que las Leyes, Reglamentos, Decretos, Acuerdos, Convenios y contratos le atribuyan directamente, así como aquéllas que le asigne el Secretario en el ámbito de sus facultades.
+VII. Crear el Sub- Comité de Desarrollo Tecnológico de la Secretaría y fungir como presidente del mismo, a fin de coordinar los proyectos en materia de Tecnologías de la Información y Comunicación (TICs), para dar los aportes técnicos requeridos;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+VIII. Representar a la Secretaría de Finanzas y Administración en materia de Tecnologías de la Información y Comunicación en foros organizados por los tres niveles de Gobierno;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+IX. Administrar los contenidos del portal institucional de la Secretaría, portal de transparencia financiera y portal de servicios internos, así como dar soporte a las unidades administrativas de la Secretaría que así lo soliciten, en el diseño, publicación y actualización de las páginas que lo conforman;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+X. Desarrollar Proyectos estratégicos orientados a mejorar la gestión pública con la colaboración de expertos, instituciones nacionales e incluso internacionales, así como definir los criterios generales para la elaboración e implementación de dichos proyectos;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+XI. Concentrar, resguardar, mantener y operar las bases de datos de los diferentes sistemas de información que estén alojados en el centro de datos de la Secretaría y bajo la administración directa de esta Coordinación, con el fin de garantizar la integridad, seguridad y confidencialidad de las mismas, mediante el establecimiento de un programa de seguridad;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+XII. Asesorar a las unidades administrativas de la Secretaría, en los procesos de adquisición, arrendamiento y actualización de hardware, la contratación de servicios de consultoría o asesoría en materia de informática; y
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+XIII. Las demás que las leyes, reglamentos, decretos, acuerdos, convenios y contratos le atribuyan directamente, así como aquellas que le asigne el Secretario en el ámbito de sus facultades.
 
 ###### ARTÍCULO 23.
 
@@ -1259,7 +1309,9 @@ IX. Elaborar y proponer al Subsecretario de Egresos, los proyectos de reformas a
 
 X. Coadyuvar con la unidad administrativa correspondiente en la actualización de la información relativa al proceso de armonización contable en la página de Internet oficial de la Secretaría;
 
-XI. Apoyar al Subsecretario de Egresos en las funciones que se le asignen dentro del Consejo Estatal de Armonización Contable (CACEH);
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+XI. Apoyar al Subsecretario de Egresos en las funciones que se le asignen dentro del Consejo de Armonización Contable del Estado de Hidalgo (CACEH);
 
 XII. Coadyuvar con los Ayuntamientos para que éstos logren armonizar su contabilidad, con base a la Ley General de Contabilidad Gubernamental y a los Acuerdos que formule el Consejo Nacional para la Armonización Contable (CONAC) y el Consejo de Armonización Contable del Estado de Hidalgo (CACEH); y
 
@@ -1269,25 +1321,45 @@ XIII. Las demás que las Leyes, Reglamentos, Decretos, Acuerdos, Convenios y con
 
 Corresponde a la Unidad de Coordinación y Evaluación de Entidades Paraestatales, las siguientes atribuciones:
 
-I. Participar en el ámbito de su competencia en las Juntas de Gobierno de los organismos descentralizados, a efecto de vigilar el cumplimiento de la normatividad aplicable en la esfera de su competencia de la Secretaría;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
-II. Establecer los controles de seguimiento y evaluación a efecto de verificar el grado de cumplimiento de los acuerdos tomados en las Juntas de Gobierno de los organismos descentralizados;
+I. Participar en el ámbito de su competencia en las Juntas de Gobierno de los organismos descentralizados, a efecto de vigilar el cumplimiento de la normatividad aplicable en la esfera de su Competencia de la Secretaría;
 
-III. Participar en las Juntas de Gobierno que para el efecto convoque el organismo descentralizado, a efecto de evaluar el desempeño de los objetivos, planes y programas de estos, así como el ejercicio de su presupuesto;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
-IV. Verificar que el organismo descentralizado cumpla en tiempo y forma en la elaboración de su presupuesto e integración de su programa operativo anual, y que este cumpla con la normatividad dictada por la Secretaría;
+II. Participar en las Juntas de Gobierno que para el efecto convoquen las Dependencias Coordinadoras de Sector, de los organismos descentralizados, sectorizados a las mismas, a efecto de evaluar la información programática, presupuestal, contable y financiera de éstos, así como el ejercicio de su presupuesto;
 
-V. Implantar, controlar, mantener y actualizar el Registro Público de los organismos descentralizados;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
-VI. Proponer al Gobernador del Estado, los criterios y reglas que se deberán observar para la creación o desincorporación de entidades paraestatales, y vigilar su debido cumplimiento;
+III. Establecer los controles de Evaluación y Seguimiento a efecto de verificar el grado de cumplimiento de los acuerdos tomados en las Juntas de Gobierno de los organismos descentralizados;
 
-VII. Asesorar a las dependencias Coordinadoras de Sector en la elaboración de las propuestas y proyectos de desincorporación y reclasificación sectorial para su publicación en el Periódico Oficial del Estado;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
-VIII. Proponer al Secretario, la expedición de Acuerdos que se consideren necesarios, en su caso, para actualizar la clasificación sectorial de los organismos descentralizados;
+IV. Verificar que los organismos descentralizados cumplan en tiempo y forma en la elaboración de su presupuesto e integración de su programa operativo anual, y que éste cumpla con la normatividad dictada por la Secretaría;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+V. Implantar, administrar y actualizar el Registro Público de los organismos descentralizados;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+VI. Proponer al Titular de la Secretaría, los criterios y reglas que se deberán observar para la creación o desincorporación de entidades paraestatales, y vigilar su debido cumplimiento;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+VII. Asesorar a las Dependencias Coordinadoras de Sector en la elaboración de las propuestas, de desincorporación y reclasificación sectorial para su publicación en el Periódico Oficial del Estado;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+VIII. Proponer al Titular de la Secretaría, la expedición de acuerdos que se consideren necesarios, en su caso, para actualizar la clasificación sectorial de los organismos descentralizados;
+
+> <small>(REFORMADA [N. DE E. REPUBLICADA], P.O. 25 DE ENERO DE 2016)</small>
 
 IX. Solicitar las revisiones específicas y generales para verificar las operaciones y el control interno de los organismos descentralizados como resultado de la participación en las Juntas de Gobierno; y
 
-X. Las demás que las leyes, reglamentos, decretos, acuerdos, convenios y contratos le atribuyan directamente, así como aquéllas que le asigne el Secretario en el ámbito de sus facultades.
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+X. Las demás que las leyes, reglamentos, decretos, acuerdos, convenios y contratos le atribuyan directamente, así como aquéllas que le asigne el Titular de la Secretaría en el ámbito de sus facultades.
 
 ###### ARTÍCULO 38.
 
@@ -1525,35 +1597,77 @@ XVII. Las demás que las leyes, reglamentos, decretos, acuerdos, convenios y con
 
 Corresponde a la Dirección General de Políticas para la Administración Documental y Archivo General, las siguientes atribuciones:
 
-I. Planear, organizar, ejecutar, dirigir, controlar y evaluar programas y procedimientos para la recepción de las transferencias primarias; custodiar, conservar, registrar, controlar, organizar, depurar y prestar la documentación Transferida al Archivo de Concentración del Poder Ejecutivo; en apego a la normatividad vigente en el Estado, así como informar al superior jerárquico los resultados obtenidos;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
-II. Planear, organizar, ejecutar, dirigir, controlar y evaluar los procedimientos para el otorgamiento de los servicios de préstamo de documentación resguardada; así como asesoría en materia de transferencia primaria;
+I. Planear, organizar, ejecutar, dirigir, controlar y evaluar los programas y procedimientos en materia de recepción, conservación, custodia y entrega de las transferencias primarias del Poder Ejecutivo del Estado;
 
-III. Planear, organizar, ejecutar, dirigir, controlar y evaluar programas y procedimientos para la recepción de transferencia secundaria, así como de la clasificación, ordenación, descripción, conservación, restauración y reprografía de la documentación transferida al Archivo Histórico del Poder Ejecutivo del Estado de Hidalgo;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
-IV. Planear, organizar, ejecutar, dirigir, controlar y evaluar programas y procedimientos para el otorgamiento de servicios del archivo histórico, mapoteca, hemeroteca, fototeca, biblioteca, certificación y difusión del acervo documental que obra en poder del Archivo General del Estado;
+II. Asesorar y capacitar en lo referente a las Transferencias primarias, préstamo y devolución de expedientes;
 
-V. Promover y ejecutar acciones de investigación relativa a la administración documental que obra en poder del Archivo General del Estado;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
-VI. Gestionar la adquisición de documentos que, generados o existentes en otro Estado o en el extranjero, sean de especial interés para la historia del Estado de Hidalgo;
+III. Conservar y custodiar precautoriamente la documentación semi activa, así como vigilar y notificar el vencimiento de los valores primarios de la documentación resguardada en el Archivo de Concentración;
 
-VII. Elaborar, comunicar y ejecutar lineamientos de operación a que deberán sujetarse las dependencias y entidades para realizar la transferencia de documentos al Archivo General del Estado;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
-VIII. Contribuir en el análisis, emisión, difusión, instauración y evaluación de políticas, normas, procedimientos, lineamientos y técnicas para la regulación, organización, investigación, clasificación, conservación, difusión, modernización y tratamiento homogéneo de los Sistemas Integrales de Archivos adheridos al Sistema Estatal de Archivos, así como del acervo documental y gráfico de los mismos, de acuerdo a las disposiciones jurídicas aplicables en la materia;
+IV. Ejecutar la entrega- recepción de la documentación previamente dictaminada por el Órgano Rector del Sistema Estatal de Archivos;
 
-IX. Coadyuvar con el Sistema Estatal de Archivos en los procesos de asesoría, capacitación, evaluación, seguimiento, validación, dictaminación, valoración secundaria y rescate en materia de administración documental, así como en la inscripción al Registro Estatal de Archivos de los Coordinadores, Enlaces, Comités y Subcomités Técnicos de Archivo de los sujetos obligados, de acuerdo a la normatividad vigente;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
-X. Intervenir en el establecimiento, regulación, promoción y uso de tecnologías de información para incrementar la eficiencia de los Sistemas Integrales de Archivos en la Administración Pública Estatal;
+V. Planear, organizar, ejecutar, dirigir, controlar y evaluar programas y procedimientos para la recepción de transferencias secundarias, así como de la clasificación, ordenación, descripción, conservación, restauración y reprografía de la documentación transferida al Archivo Histórico;
 
-XI. Promover la comunicación permanente entre la comunidad archivística municipal, estatal, nacional e internacional, para la preservación, difusión, conservación y aprovechamiento del patrimonio documental y archivístico del Estado;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
-XII. Contribuir, dentro del área de su competencia, al cumplimiento de la normatividad establecida en materia de transparencia y acceso a la información por parte de los sujetos obligados, a través de la elaboración y validación de los Instrumentos de Consulta y Control Archivístico de acuerdo a la normatividad vigente en la materia;
+VI. Planear, organizar, ejecutar, dirigir, controlar y evaluar programas y procedimientos para el otorgamiento de servicios del archivo histórico, mapoteca, hemeroteca, fototeca, biblioteca, certificación y difusión del acervo documental que obra en poder del Archivo Histórico;
 
-XIII. Promover mecanismos de coordinación y vinculación con las instancias competentes y órganos internos de control de los sujetos obligados a la Ley de Archivos, facultados para regular el cumplimiento oportuno y estricto a la normatividad en materia de archivos y demás relacionadas y aplicables en el Estado;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
-XIV. Vigilar que el proceso del Archivo de Concentración se encuentre operando de acuerdo a la normatividad y lineamientos establecidos; y
+VII. Promover y ejecutar acciones de investigación relativa a la administración documental que obra en poder del Archivo Histórico;
 
-XV. Las demás que las leyes, reglamentos, decretos, acuerdos, convenios y contratos le atribuyan directamente, así como aquéllas que le asigne el Subsecretario en el ámbito de sus facultades.
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+VIII. Establecer y ejecutar mecanismos para gestionar la adquisición, donación y custodia de documentos que sean de especial interés para la historia del Estado de Hidalgo;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+IX. Elaborar, comunicar y ejecutar lineamientos de operación a los que se deberán sujetar las dependencias y entidades para realizar transferencias secundarias de documentos al Archivo Histórico;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+X. Asesorar y capacitar en lo referente a las transferencias secundarias;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+XI. Coadyuvar con el Órgano Rector del Sistema Estatal de Archivos para la valoración secundaria y disposición final de los documentos generados por los Sujetos Obligados en el marco de la Ley de Archivos del Estado de Hidalgo;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+XII. Contribuir en el análisis, emisión, difusión, instauración y evaluación de políticas, normas, procedimientos, lineamientos, criterios y técnicas para la regulación, organización, investigación, clasificación, conservación, difusión, modernización y tratamiento homogéneo de los Sistemas Integrales de Archivos adheridos al Sistema Estatal de Archivos, así como del acervo documental y gráfico de los mismos, de acuerdo a las disposiciones jurídicas aplicables en la materia;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+XIII. Coadyuvar con el Órgano Rector del Sistema Estatal de Archivos en los procesos de registro, asesoría, capacitación, control, evaluación, seguimiento, validación, dictaminación y rescate en materia de administración documental, de acuerdo a la normatividad vigente;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+XIV. Intervenir en el establecimiento, regulación, promoción y uso de tecnologías de información para incrementar la eficiencia de los Sistemas Integrales de Archivos en la Administración Pública Estatal;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+XV. Promover la comunicación e investigación permanente entre la comunidad archivística municipal, estatal, nacional e internacional, para la preservación, difusión, conservación y aprovechamiento del patrimonio documental y archivístico del Estado;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE ENERO DE 2016)</small>
+
+XVI. Coadyuvar, dentro del área de su competencia, al cumplimiento de la normatividad establecida en materia de transparencia y acceso a la información por parte de los sujetos obligados, a través de la elaboración y validación de los Instrumentos de Consulta y Control Archivístico de acuerdo a la normatividad vigente en la materia;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE ENERO DE 2016)</small>
+
+XVII. Promover mecanismos de coordinación y vinculación con las instancias competentes y órganos internos de control de los sujetos obligados a la Ley de Archivos, facultados para regular y garantizar el cumplimiento oportuno y estricto a la normatividad en materia de archivos y demás relacionadas y aplicables en el Estado; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE ENERO DE 2016)</small>
+
+XVIII. Las demás que las leyes, reglamentos, decretos, acuerdos, convenios y contratos le atribuyan directamente, así como aquellas que le asigne el Subsecretario en el ámbito de sus facultades.
 
 ## TÍTULO QUINTO. DE LOS ÓRGANOS DESCONCENTRADOS
 
@@ -1620,3 +1734,11 @@ Dado en la residencia del Poder Ejecutivo del Estado, en la ciudad de Pachuca de
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE HIDALGO
 
 LIC. JOSÉ FRANCISCO OLVERA RUIZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO GUBERNAMENTAL.- QUE REFORMA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Hidalgo.
