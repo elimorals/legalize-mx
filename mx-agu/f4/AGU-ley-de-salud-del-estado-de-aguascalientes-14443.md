@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-salud-del-estado-de-aguascalientes-14443"
 country: "mx"
 rank: "ley"
 publication_date: "1999-06-06"
-last_updated: "2015-10-22"
+last_updated: "2016-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14443&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE SALUD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2016.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el domingo 6 de junio de 1999.
 
@@ -511,7 +511,7 @@ h).- Baños públicos;
 
 i).- Centros de reunión y espectáculos
 
-> <small>(REFORMADO, P.O. 22 DE OCTUBRE DE 2015)</small>
+(REFORMADO, P.O. 22 DE OCTUBRE DE 2015) (REPUBLICADO, P.O. 25 DE ENERO DE 2016)
 
 j).- Establecimientos dedicados a la prestación de servicios como peluquerías y salones de belleza;
 
@@ -1517,9 +1517,9 @@ II. Vigilar la calidad del agua para uso y consumo humano;
 
 III. Promover y apoyar el saneamiento básico;
 
-IV Asesorar en criterios de ingeniería sanitaria de obras públicas y privadas excepto lo relativo a los establecimientos de salud;
+IV. Asesorar en criterios de ingeniería sanitaria de obras públicas y privadas excepto lo relativo a los establecimientos de salud;
 
-V Disponer y verificar que se cuente con información toxicológica adecuada, en las que se establezcan las medidas de respuesta al impacto en la salud originado por el uso de sustancias tóxicas o peligrosas;
+V. Disponer y verificar que se cuente con información toxicológica adecuada, en las que se establezcan las medidas de respuesta al impacto en la salud originado por el uso de sustancias tóxicas o peligrosas;
 
 VI. Vigilar la seguridad radiológica para el uso y aprovechamiento de fuentes de radiación, sin perjuicio de la intervención que corresponda a otras autoridades competentes;
 
@@ -2235,7 +2235,9 @@ Las autoridades municipales fijarán lugares especiales para depositar la basura
 
 El Gobierno del Estado y los Municipios, en el ámbito de sus respectivas competencias, proveerán de depósitos de basura en los parques, jardines, paseos públicos y en otros lugares de la vía pública, además de ordenar el mantenimiento y la fumigación periódica en los mismos; asimismo, fijará lugares especiales para depositar la basura, tomando en cuenta lo que sobre el particular disponga la legislación aplicable en materia de contaminación ambiental.
 
-### CAPITULO XI. Establecimientos Dedicados a la Prestación de Servicios como Peluquerías, Salones de Belleza y Estéticas
+### CAPITULO XI. Establecimientos Dedicados a la Prestación de Servicios como Peluquerías y Salones de Belleza
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2016)</small>
 
 ###### ARTICULO 189.
 
@@ -2349,11 +2351,13 @@ Para efectos de esta Ley, se entiende por centros de reunión y espectáculos, l
 
 El funcionamiento de los establecimientos a que se refiere el artículo anterior, deberá acatar a lo dispuesto por las disposiciones legales aplicables y contar con los servicios de seguridad e higiene que se establezcan por los reglamentos de esta Ley, otras disposiciones legales aplicables y las normas técnicas locales correspondientes.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE ENERO DE 2016)</small>
+
 ### CAPITULO XVI. Prevención y Control de la Rabia en Animales
 
 ###### ARTICULO 213.
 
-Para los efectos de esta Ley, se entiende por peluquerías y salones de belleza, los establecimientos dedicados a rasurar, teñir, peinar, cortar, rizar o realizar cualquier actividad similar con el cabello de las personas, el arreglo estético de uñas de manos y pies; y por estéticas, establecimientos que presten servicios y procedimientos de embellecimiento, para modificar las características del cuerpo humano.
+Para los efectos de esta Ley, se entiende por peluquerías y salones de belleza, los establecimientos dedicados a rasurar, teñir, peinar, cortar, rizar o realizar cualquier actividad similar con el cabello de las personas, el arreglo estético de uñas de manos y pies, así como el maquillaje temporal de la piel.
 
 ###### ARTICULO 214.
 
@@ -3306,3 +3310,11 @@ El REPSS contará con los recursos humanos, materiales y financieros que le sean
 ###### ARTÍCULO CUARTO.
 
 El personal que, en virtud de lo dispuesto por este decreto cambie de adscripción, conservará sus derechos laborales conforme a la ley, así mismo, operará la figura de sustitución de patrón en relación con las demandas planteadas con anterioridad.
+
+P.O. 25 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 285.- SE REFORMA LA LEY DE SALUD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
