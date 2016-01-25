@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-secretaria-de-desarrollo-social-73158
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-12"
-last_updated: "2011-04-15"
+last_updated: "2016-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73158&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE DESARROLLO SOCIAL
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE ABRIL DE 2011.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL DEL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 25 DE ENERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 25 DE ENERO DE 2016. (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 12 de febrero de 2010.
 
@@ -574,3 +576,11 @@ PRIMERO.- El presente Decreto entrará en vigor a los diez días hábiles contad
 SEGUNDO.- El Consejo de Participación Ciudadana, por lo que respecta a los Vocales Ciudadanos, seguirá integrado de la misma manera hasta el tres de octubre de 2011, fecha en que concluyen su periodo, e ingresarán los nuevos integrantes en los términos establecidos en el presente Reglamento.
 
 TERCERO. Se abroga el Decreto Constitutivo del Consejo de Participación Ciudadana de la Secretaría de Desarrollo Social de fecha 08 de Febrero del 2010 publicado en el Periódico Oficial del Estado el 12 de Febrero del mismo año
+
+P.O. 25 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO SOCIAL”.]
+
+PRIMERO.- El presente Reglamento Interior entrará en vigor el día de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría de Desarrollo Social, publicado en el Periódico Oficial del Estado en fecha 12 de febrero de 2010.
