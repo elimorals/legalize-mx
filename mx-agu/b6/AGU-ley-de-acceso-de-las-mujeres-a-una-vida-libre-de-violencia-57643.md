@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2015-07-27"
+last_updated: "2016-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -109,9 +109,17 @@ XVI. La inclusión de las mujeres en programas dirigidos a sectores vulnerables;
 
 XVII. La imagen estereotipada de la mujer que presentan los medios de comunicación;
 
-XVIII. La invisibilización de la participación de las mujeres en la construcción de nuestra sociedad; y
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
-XIX. Todas aquellas que de alguna forma denigren la dignidad de la mujer.
+XVIII. La invisibilización de la participación de las mujeres en la construcción de nuestra sociedad;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+XIX. Difundir o publicar sin consentimiento mediante cualquier medio tecnológico, imágenes o grabaciones con contenido erótico o sexual obtenidas con o sin autorización de quien sufre la afectación; y
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2016)</small>
+
+XX. Todas aquellas que de alguna forma denigren la dignidad de la mujer.
 
 ###### Artículo 4°.
 
@@ -151,7 +159,9 @@ El Poder Ejecutivo, Legislativo y Judicial, entidades municipales, desconcentrad
 
 Los tipos de violencia de género contra las mujeres son:
 
-I. La violencia psicológica: Es cualquier acción u omisión que dañe la estabilidad psicológica, que puede consistir en negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, devaluaciones, marginación, desamor, indiferencia, infidelidad, comparaciones destructivas, rechazo, chantaje, restricción a la autodeterminación y amenazas, las cuales conllevan a la victima a la depresión, al aislamiento, a la devaluación o anulación de su autoestima e incluso al suicidio;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+I. La violencia psicológica: Es cualquier acción u omisión que dañe la estabilidad psicológica, que puede consistir en negligencia, abandono, descuido reiterado, celotipia, insultos, humillaciones, devaluaciones, marginación, desamor, indiferencia, infidelidad, comparaciones destructivas, rechazo, chantaje, restricción a la autodeterminación y amenazas, las cuales conllevan a la víctima a la depresión, al aislamiento, a la devaluación o anulación de su autoestima e incluso al suicidio, así mismo la conducta descrita por la Fracción XIX del Artículo 3º de la presente Ley;
 
 II. La violencia física: Es todo acto que inflige daño no accidental, usando la fuerza física, algún tipo de arma, objeto o sustancia que pueda provocar o no lesiones, ya sean internas, externas o ambas;
 
@@ -591,9 +601,17 @@ X. Publicar semestralmente la información general y estadística sobre los caso
 
 XI. Promover la inclusión prioritaria en el plan estatal de desarrollo de las medidas y las políticas de gobierno para erradicar la violencia contra las mujeres;
 
-XII. Promover la cultura de denuncia de la violencia contra las mujeres en el marco de la eficacia de las instituciones para garantizar su seguridad y su integridad; y
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
-XIII. Diseñar un modelo integral de atención a los derechos humanos de las mujeres que deberán instrumentar las instituciones, los centros de atención y los refugios que atiendan a victimas.
+XII. Promover la cultura de denuncia de la violencia contra las mujeres en el marco de la eficacia de las instituciones para garantizar su seguridad y su integridad;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+XIII. Diseñar un modelo integral de atención a los derechos humanos de las mujeres que deberán instrumentar las instituciones, los centros de atención y los refugios que atiendan a víctimas; y
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2016)</small>
+
+XIV. Informar del uso de tecnologías de la información, para evitar la grabación transmisión y manipulación de imágenes sexuales o eróticas distribuidas sin consentimiento de quien sufre la afectación.
 
 ###### Artículo 49.
 
@@ -1182,3 +1200,11 @@ El presente Decreto iniciará su vigencia al día siguiente al de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 En tanto no inicie su vigencia la autonomía de la Fiscalía General de la República, las referencias a dicha Fiscalía contenidas en el presente Decreto, se entenderán echas (sic) a la Procuraduría General de la Republica.
+
+P.O. 25 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 296.- SE REFORMA LA LEY DE ACCESO A LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
