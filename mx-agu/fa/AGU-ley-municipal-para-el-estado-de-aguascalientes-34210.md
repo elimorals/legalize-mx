@@ -4,7 +4,7 @@ identifier: "AGU-ley-municipal-para-el-estado-de-aguascalientes-34210"
 country: "mx"
 rank: "ley"
 publication_date: "2003-10-06"
-last_updated: "2015-07-27"
+last_updated: "2016-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Aguascalientes, el lunes 6 de octubre de 2003.
 
@@ -1973,13 +1973,17 @@ Conjuntamente con el Gobierno del Estado, los municipios deberán promover y det
 
 ### CAPITULO TERCERO. Del Cuerpo de Bomberos
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2016)</small>
+
 ###### Artículo 173.
 
-El Ayuntamiento podrá integrar cuerpos de bomberos que tengan como objetivo, la prevención y extinción de incendios, rescate de personas y todo tipo de eventos que a juicio de Protección Civil deba intervenir.
+Los Ayuntamientos integrarán cuerpos de bomberos que tengan como objetivo, la prevención y extinción de incendios, rescate de personas y participar en todo tipo de eventos que a juicio de Protección Civil deban intervenir.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2016)</small>
 
 ###### Artículo 174.
 
-Los bomberos son un cuerpo de Seguridad Pública incorporado a la Policía Preventiva Municipal.
+Los cuerpos de bomberos serán dotados por el Ayuntamiento respectivo del equipamiento necesario para desempeñar dignamente su función, conforme a la normatividad aplicable y su disponibilidad presupuestal.
 
 ## TITULO DECIMO PRIMERO. DE LA JUSTICIA MUNICIPAL
 
@@ -2212,3 +2216,13 @@ El presente Decreto iniciará su vigencia al día siguiente al de su publicació
 ###### ARTÍCULO SEGUNDO.
 
 En tanto no inicie su vigencia la autonomía de la Fiscalía General de la República, las referencias a dicha Fiscalía contenidas en el presente Decreto, se entenderán echas (sic) a la Procuraduría General de la Republica.
+
+P.O. 25 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 293.- SE REFORMA LA LEY MUNICIPAL PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+ARTÍUCULO (SIC) SEGUNDO.- Los Ayuntamientos del Estado tendrán un plazo de 180 días naturales contados a partir de (sic) inicio de vigencia del presente Decreto, para adecuar sus disposiciones reglamentarias, así como organizar su estructura administrativa en lo necesario para dar cumplimiento a la presente reforma.
