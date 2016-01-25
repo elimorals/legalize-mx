@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-acceso-a-la-informacion-gubernamental-del-estado-de-2622
 country: "mx"
 rank: "ley"
 publication_date: "2002-09-27"
-last_updated: "2015-11-13"
+last_updated: "2016-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26229&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DE ACCESO A LA INFORMACIÓN GUBERNAMENTAL DEL ESTADO DE QUERÉTARO
 
 > <small>N. DE E. EL PRESENTE ORDENAMIENTO QUEDA ABROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL PERIÓDICO OFICIAL EL 13 DE NOVIEMBRE DEL 2015; ÚLTIMO ORDENAMIENTO QUE ENTRA EN VIGOR EL 1 DE FEBRERO DE 2016.</small>
 
-ÚLTIMA REFORMADA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2015 (ABROGADA).
+ÚLTIMA REFORMADA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2016 (ABROGADA).
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 27 de septiembre de 2002.
 
@@ -625,7 +625,9 @@ Para profesionalizar los servicios que ofrece la Comisión, se instituye el serv
 
 La Comisión estará integrada por un Comisionado Presidente y tres Comisionados Honorarios que serán electos por el voto de las dos terceras partes de los integrantes de la Legislatura del Estado y podrán ser removidos con la misma votación requerida para su elección. Durarán cuatro años en el ejercicio del cargo y podrán ser reelectos para un periodo inmediato siguiente.
 
-La Legislatura del Estado organizará lo relativo a la elección de los Comisionados y fijará las bases para su realización, debiendo publicar, a más tardar cuarenta y cinco días antes de la elección, una convocatoria abierta a toda la ciudadanía, a efecto de recibir las propuestas ciudadanas.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2016)</small>
+
+La Legislatura emitirá y publicará una convocatoria que señalará las bases, requisitos, etapas y desarrollo del procedimiento de elección de los Comisionados, el cual deberá garantizar la transparencia, independencia y participación de la sociedad.
 
 > <small>(ADICIONADO, P.O. 18 DE MAYO DE 2012)</small>
 
@@ -643,15 +645,29 @@ El Comisionado Presidente ejercerá el cargo de Presidente de la Comisión.
 
 Los Comisionados deberán satisfacer los requisitos siguientes para su elección y permanencia:
 
-I. Ser ciudadano mexicano residente en el Estado de Querétaro;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
-II. Gozar de buena reputación y no haber sido condenado por delito doloso;
+l. Ser ciudadano mexicano, con residencia mínima de 3 años en el Estado de Querétaro, previos a la fecha de designación:
 
-III. No desempeñar empleo, cargo o comisión en la Federación, en los estados o en los municipios, ni actividad que se contraponga a las funciones propias de su encomienda; a menos que se separe de ellos por lo menos noventa días naturales antes del día de su designación. Quedan excluidos de esta excepción los de carácter docente;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
-IV. No ejercer cargo de elección popular; y
+II. Poseer, al día de la designación, con antigüedad mínima de cinco años, título profesional expedido por autoridad o institución legalmente facultada para ello;
 
-V. No desempeñar el cargo de dirigente de algún partido político.
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+III. Tener acreditada experiencia en materia de acceso a la información pública y protección de datos personales;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+IV. Gozar de buena reputación y no haber sido condenado por delito doloso;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+V. Durante cuarenta días previos a su nombramiento, no haber ocupado cargo de elección popular, ni haber sido Secretario o su equivalente en alguno de los Poderes del Estado; y
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 25 DE ENERO DE 2016)</small>
+
+VI. No desempeñar el cargo de dirigente de algún partido político al momento de la designación.
 
 > <small>(ADICIONADA, P.O. 18 DE MAYO DE 2012)</small>
 
@@ -1092,3 +1108,15 @@ Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se o
 Cuarto. Se faculta al Comisionado Presidente a realizar las transferencias necesarias al presupuesto de la Comisión Estatal de Información Gubernamental para cumplir con lo dispuesto en la presente ley.
 
 Quinto. Remítase al titular del Poder Ejecutivo para su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+P.O. 25 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA LOS ARTÍCULOS 33 Y 33 TER DE LA LEY DE ACCESO A LA INFORMACIÓN GUBERNAMENTAL DEL ESTADO DE QUERÉTARO Y REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley, en cuanto a la reforma de los artículos 33 y 33 Ter de la Ley de Acceso a la Información Gubernamental del Estado de Querétaro, entrará en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga"; respecto de la reforma y adición a diversas disposiciones de la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro, iniciará su vigencia a partir del 1 de febrero de 2016.
+
+Artículo Segundo. Dentro de los 180 días siguientes al inicio de vigencia de la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro, los sujetos obligados deberán tener actualizada en su respectivo portal en internet, la información pública en su poder, en los términos del presente ordenamiento legal.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Cuarto. La Mesa Directiva de la Quincuagésima Octava Legislatura del Estado de Querétaro expedirá la Convocatoria y desahogará el procedimiento para la elección de los Comisionados de la Comisión Estatal de Información Gubernamental, referido en el Artículo Segundo Transitorio de la Ley que reforma el Apartado B, del Artículo 33 de la Constitución Política del Estado de Querétaro, publicada el 2 de octubre de 2015 en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga"; convocatoria en la que se señalarán las bases, requisitos, etapas y desarrollo del procedimiento de elección, el cual deberá garantizar la transparencia, independencia y participación de la sociedad.
