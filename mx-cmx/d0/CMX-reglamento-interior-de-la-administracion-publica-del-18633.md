@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-interior-de-la-administracion-publica-del-18633"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-12-28"
-last_updated: "2016-01-18"
+last_updated: "2016-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=18633&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -23,6 +23,8 @@ issue_date: "2000-12-28"
 REGLAMENTO INTERIOR DE LA ADMINISTRACIÓN PÚBLICA DEL DISTRITO FEDERAL
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 18 DE ENERO DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA G.O. DE 25 DE ENERO DE 2016.]</small>
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el jueves 28 de diciembre de 2000.
 
@@ -4580,10 +4582,6 @@ VII. Diseñar, promover y ejecutar programas y acciones en materia de diversidad
 
 (DEROGADO, G.O. 23 DE DICIEMBRE DE 2015)
 
-###### Artículo 64 Ter.
-
-(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DEL DEPORTE DEL DISTRITO FEDERAL, G.O. 11 DE SEPTIEMBRE DE 2008)
-
 > <small>(ADICIONADO, G.O. 19 DE ENERO DE 2007)</small>
 
 Artículo 64 Cuater.- Corresponde a la Dirección General del Instituto de Asistencia e Integración Social del Distrito Federal:
@@ -4603,6 +4601,10 @@ VI. Promover la creación de diversos mecanismos de financiamiento público y pr
 VII. Fomentar y apoyar a las asociaciones, sociedades civiles y demás entidades privadas, cuyo objeto sea la prestación de servicios de asistencia social, y en su caso, evaluar sus programas sin perjuicio de las atribuciones que al efecto correspondan a otras dependencias; y
 
 VIII. Prestar asistencia jurídica y orientación social a los sujetos de la asistencia social.
+
+###### Artículo 64 Ter.
+
+(DEROGADO POR ARTÍCULO CUARTO TRANSITORIO DEL REGLAMENTO INTERIOR DEL INSTITUTO DEL DEPORTE DEL DISTRITO FEDERAL, G.O. 11 DE SEPTIEMBRE DE 2008)
 
 #### SECCION VIII
 
@@ -19038,7 +19040,9 @@ TERCERO.- De conformidad con lo previsto en el artículo TERCERO TRANSITORIO de 
 
 CUARTO.- A las Unidades Administrativas de nueva creación, se les transferirán los recursos humanos, materiales, técnicos y financieros para el desempeño adecuado de sus atribuciones, en los términos y condiciones que establezcan la Secretaría de Finanzas y la Oficialía Mayor.
 
-QUINTO.- La Secretaría de Movilidad deberá adecuar su estructura orgánica y actualizar el Manual Administrativo en los plazos y condiciones que establezca la Oficialía Mayor del Distrito Federal.
+> <small>(F. DE E., G.O. 25 DE ENERO DE 2016)</small>
+
+QUINTO.- La Secretaría de Movilidad deberá adecuar su estructura orgánica y actualizar el Manual Administrativo en los plazos y condiciones que establezca la Oficialía Mayor del Distrito Federal. En tanto se llevan a cabo las adecuaciones referidas, continuarán conociendo de los asuntos que se encuentren en trámite las unidades administrativas que a la fecha de su inicio fueren competentes para ello.
 
 SEXTO.- Las referencias hechas en ordenamientos e instrumentos administrativos a las Unidades Administrativas que por virtud de este Decreto hubieren dejado de tener competencia en la materia que regulan, se entenderán hechas a aquellas que cuenten con las facultades correspondientes.
 
