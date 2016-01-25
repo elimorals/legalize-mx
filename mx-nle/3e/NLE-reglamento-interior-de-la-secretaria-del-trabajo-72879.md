@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-secretaria-del-trabajo-72879"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-01-20"
-last_updated: "2010-01-20"
+last_updated: "2016-01-25"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=72879&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DEL TRABAJO
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DEL TRABAJO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO, PUBLICADO EN EL P.O. DE 25 DE ENERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2016 (ABROGADO).
 
 Reglamento publicado en Periódico Oficial del Estado de Nuevo León, el miércoles 20 de enero de 2010.
 
@@ -334,3 +336,19 @@ ALFREDO GERARDO GARZA DE LA GARZA
 EL C. SECRETARIO DEL TRABAJO
 
 ÁLVARO IBARRA HINOJOSA
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DEL TRABAJO”.]
+
+ARTÍCULO· PRIMERO. El presente Reglamento entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría del Trabajo publicado en el Periódico Oficial del Estado en fecha 20 de enero de 2010.
+
+###### ARTÍCULO TERCERO.
+
+Se abroga el Decreto del Ejecutivo por el que se crea el Consejo de Participación Ciudadana de la Secretaría del Trabajo publicado en el Periódico Oficial del Estado en fecha 12 de febrero de 2010.
