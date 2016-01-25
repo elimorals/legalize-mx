@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-a-los-animales-para-el-estado-de-22781"
 country: "mx"
 rank: "ley"
 publication_date: "2001-11-05"
-last_updated: "2015-03-16"
+last_updated: "2016-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22781&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2016.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el lunes 5 de noviembre de 2001.
 
@@ -175,9 +175,11 @@ XXVI. Ley: La Ley de Protección a los Animales para el Estado de Aguascalientes
 
 XXVII. Limitación razonable del tiempo e intensidad de trabajo: El tiempo e intensidad de trabajo que realizan los animales de monta, cargo y tiro y los animales para espectáculos que, de acuerdo a su especie, cumplan con las disposiciones que esta Ley, su Reglamento y las normas zoológicas y las normas oficiales mexicanas establezcan;
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-XXVIII. Mascotas: Los animales y especies de fauna silvestre que sirven de compañía o recreación del ser humano;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+XXVIII. Mascotas: Los perros y gatos, así como los demás animales y especies de fauna silvestre que sirven de compañía o recreación del ser humano;
 
 > <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
 
@@ -261,17 +263,21 @@ III. La regulación para el manejo, control, remediación y prevención de los p
 
 IV. La celebración de convenios de concertación con los sectores social y privado;
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2009)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-V. La expedición de certificados de venta de animales, a los establecimientos comerciales, ferias y exposiciones que se dediquen a la venta de mascotas y llevar el padrón de animales con la información que se recabe de la expedición de estos certificados;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+V. La expedición de certificados de venta de animales, a los establecimientos comerciales, ferias y exposiciones que se dediquen a la venta de mascotas;
 
 > <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2009)</small>
 
 VI. En coordinación con las instituciones competentes, públicas y privadas, elaborar los correspondientes reglamentos, las normas zoológicas y las guías informativas a los que se refiere la presente Ley, así como la elaboración de manuales y planes de manejo de acuerdo a la especie de animal en cuestión que coadyuven al cumplimiento de esta Ley;
 
-> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2009)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-VII. Crear y operar el Padrón de las Asociaciones Protectoras de Animales y de Organizaciones Sociales dedicadas al mismo objeto, así como el Padrón de Animales; y
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+VII. Crear y operar el Padrón de las Asociaciones Protectoras de Animales y de Organizaciones Sociales dedicadas al mismo objeto; y
 
 > <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2009)</small>
 
@@ -319,9 +325,23 @@ IX. Conocer, a través de la unidad administrativa correspondiente, cualquier he
 
 X. Establecer campañas permanentes de vacunación antirrábica, campañas sanitarias para el control y erradicación de enfermedades zoonóticas, de desparasitación, y de esterilización, en coordinación con la Secretaría de Salud;
 
-XI. Vigilar el cumplimiento y observancia de las normas señaladas en el Capítulo V de esta Ley, en los términos de su jurisdicción; y
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-XII. Las demás que esta Ley y demás ordenamientos jurídicos aplicables les confieran.
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+XI. Vigilar el cumplimiento y observancia de las normas señaladas en el Capítulo V de esta Ley, en los términos de su jurisdicción;
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+XII. Crear y operar el Padrón Municipal de Mascotas dentro de su jurisdicción, expidiendo a los interesados la constancia de registro correspondiente, para lo cual se pedirá apoyo a los colegios de veterinarios en el Estado; y
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2016)</small>
+
+XIII. Las demás que esta Ley y demás ordenamientos jurídicos aplicables les confieran.
 
 ### CAPITULO III. De la Fauna en General
 
@@ -397,7 +417,11 @@ D. Domicilio del propietario; y
 
 E. Las demás que establezca el Reglamento.
 
-Dichos establecimientos están obligados a presentar trimestralmente los certificados expedidos a la Secretaría para que éste los incorpore en el Padrón de Animales del Estado de Aguascalientes.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2016)</small>
+
+Dichos establecimientos están obligados a presentar trimestralmente los certificados expedidos a la Secretaría.
 
 Asimismo, están obligados a otorgar a la o el comprador un manual de cuidado, albergue y dieta del animal adquirido, que incluya, además, los riesgos ambientales de su liberación al medio natural o urbano y las faltas que están sujetos por el incumplimiento de las disposiciones de la presente Ley. Dicho manual deberá estar certificado por una o un médico veterinario zootecnista.
 
@@ -859,9 +883,13 @@ En los procedimientos de control y supervisión en empresas o cualquier establec
 
 El propietario, poseedor o encargado de animales será responsable de éstos y de los daños y perjuicios que ocasione. Las indemnizaciones correspondientes serán exigidas mediante el procedimiento que señalen las leyes aplicables, sin perjuicio de las sanciones que correspondan conforme a esta Ley.
 
-###### ARTICULO 42.
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-Son obligaciones del propietario, poseedor o encargado de animales las siguientes:
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ENERO DE 2016)</small>
+
+###### ARTÍCULO 42.
+
+Son obligaciones del propietario, poseedor o encargado de mascotas, las siguientes:
 
 > <small>(REFORMADA, P.O. 10 DE NOVIEMBRE DE 2003)</small>
 
@@ -883,9 +911,11 @@ V.- Cuando saque a la vía pública al animal, se deberán tomar las medidas de 
 
 VI.- Los perros y gatos deberán portar la placa de identificación que contenga: nombre del animal, nombre del propietario y domicilio; identificación oficial vigente de vacunación antirrábica, el cual deberá ser un collar oficial emitido por la autoridad competente; así como en los casos en los que se saquen a la vía pública, estos animales deberán llevar collar y cadena;
 
-> <small>(REFORMADA, P.O. 8 DE AGOSTO DE 2011)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-VII.- Recoger el excremento tanto en la vía pública como en los lugares de resguardo;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+VII.- Colocarles correa al transitar con ellas en la vía pública y recoger el excremento tanto en la vía pública como en los lugares de resguardo;
 
 > <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2009)</small>
 
@@ -895,9 +925,23 @@ VIII.- En caso de vejez, enfermedad dolorosa, accidente grave, se deberá dar en
 
 IX.- Toda persona que no pueda hacerse cargo de su mascota está obligada a buscarle alojamiento y cuidado y bajo ninguna circunstancia podrá abandonarlos en la vía pública o en zonas rurales; y
 
-> <small>(ADICIONADA, P.O. 23 DE FEBRERO DE 2009)</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-X.- Todo propietario, poseedor o encargado de una mascota está obligado a colocarle una correa al transitar con ella en la vía pública.
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+X.- Inscribirlas en el Padrón de Mascotas del Municipio que le corresponda conforme a su domicilio y proporcionar la siguiente información:
+
+a) Datos generales del propietario o poseedor de la mascota a registrar;
+
+b) Nombre, especie y año de nacimiento de la mascota;
+
+c) Información sobre el estado de salud y vacunas suministradas a la mascota;
+
+d) Los datos del tatuaje, microchip o cualquier otro medio de identificación de la mascota; y
+
+e) Las demás que establezca esta ley y el reglamento aplicable para el debido control, protección y censo de las mascotas.
+
+Para efectos de la presente Fracción y a fin de realizar las modificaciones respectivas a los datos censales, se deberá comunicar el cambio de propietario, pérdida o muerte de la mascota dentro de un plazo no mayor de diez días hábiles, contados a partir de ocurrido el hecho.
 
 ###### ARTICULO 43.
 
@@ -1466,3 +1510,15 @@ P.O. 16 DE MARZO DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 25 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 292.- SE REFORMA LA LEY DE PROTECCIÓN A LOS ANIMALES PARA EL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia dentro de los siguientes ciento ochenta días naturales contados a partir de que se publique el presente Decreto en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Los ayuntamientos dentro de los 30 días siguientes a la entrada en vigencia del presente Decreto, deberán expedir el reglamento correspondiente.
