@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-transparencia-y-acceso-a-la-informacion-publica-del-1105
 country: "mx"
 rank: "ley"
 publication_date: "2015-11-13"
-last_updated: "2015-11-13"
+last_updated: "2016-01-25"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110517&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "QUE"
 
 LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE QUERÉTARO
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO, EL PRESENTE ORDENAMIENTO ENTRA EN VIGOR AL 1 DE FEBRERO DE 2016.</small>
-
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado, el viernes 13 de noviembre de 2015.
 
@@ -107,7 +105,9 @@ i) En formatos abiertos: Están disponibles con características técnicas y de 
 
 j) De libre uso: La posibilidad de ser usados por las personas conforme a la legislación aplicable.
 
-VII. Datos Personales: Información concerniente a una persona física individualizada, relativa a su origen étnico o racial, o referida a las características físicas, morales o emocionales, a su vida afectiva y familiar, domicilio, número telefónico, patrimonio, ideología, opiniones políticas, creencias o convicciones religiosas o filosóficas, los estados de salud físicos o mentales, las preferencias sexuales u otras análogas que correspondan a su intimidad;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+VII. Datos Personales: Información concerniente a una persona física individualizada o identificable;
 
 VIII. Derecho de acceso a la información pública: Prerrogativa que tiene toda persona para acceder a la información creada, administrada o en poder de los sujetos obligados, en los términos de la presente Ley;
 
@@ -179,17 +179,23 @@ h) Cualquier persona física, moral o sindicato que reciba y ejerza recursos pú
 
 Todos los servidores públicos de los sujetos obligados, así como el personal a su cargo, están sometidos por el principio de publicidad de sus actos y obligados a respetar el ejercicio social del derecho de acceso a la información pública.
 
+> <small>[N. DE E. EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 25 DE ENERO DE 2016, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ARTÍCULO, PASANDO DE IV FRACCIONES A III.]</small>
+
 ###### Artículo 8.
 
 No obstante lo establecido en el artículo que antecede, ninguna autoridad está obligada a proporcionar información que:
 
-I. No sea de su competencia;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
-II. Pertenezca a otros órganos de gobierno;
+I. No esté en su posesión al momento de efectuarse la solicitud;
 
-III. No esté en su posesión al momento de efectuarse la solicitud; y
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
-IV. No obre en algún documento o cuando se encuentre impedida de conformidad con esta ley para proporcionarla.
+II. No obre en algún documento; o
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+III. Cuando exista impedimento para ello, por tratarse de información clasificada como reservada.
 
 ###### Artículo 9.
 
@@ -353,27 +359,43 @@ La Comisión tendrá su domicilio en la capital del Estado de Querétaro; contar
 
 La Comisión regirá su funcionamiento de acuerdo a los principios de certeza, eficacia, imparcialidad, independencia, legalidad, máxima publicidad, objetividad, profesionalismo, transparencia y suplencia en la deficiencia de la queja.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2016)</small>
+
 ###### Artículo 29.
 
-La Comisión estará integrada por tres comisionados que serán electos por el voto de las dos terceras partes de los integrantes de la Legislatura del Estado.
+La Comisión estará integrada por tres comisionados que serán electos por el voto de las dos terceras partes de los integrantes de la Legislatura del Estado; en su conformación se procurará privilegiar la experiencia en materia de acceso a la información pública y la protección de datos personales, así como la equidad de género.
 
-Durarán siete años en el ejercicio del cargo a partir de la fecha de su nombramiento.
+La Legislatura emitirá y publicará una convocatoria que señalará las bases, requisitos, etapas y desarrollo del procedimiento de elección de los Comisionados, el cual deberá garantizar la transparencia, independencia y participación de la sociedad.
 
-De entre los Comisionados electos, la Legislatura designará a quien fungirá como Presidente de la Comisión, el cual ostentará este encargo durante su nombramiento.
+Los Comisionados electos durarán siete años en el ejercicio del cargo, contados a partir de la fecha de su nombramiento. De entre ellos, la Legislatura designará a quien fungirá como Presidente de la Comisión, el cual ostentará este encargo durante su nombramiento.
 
 ###### Artículo 30.
 
 Los Comisionados deberán satisfacer los requisitos siguientes para su elección y permanencia:
 
-I. Ser ciudadano mexicano residente en el Estado de Querétaro;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
-II. Poseer el día de la designación, con antigüedad mínima de cinco años, título profesional expedido por autoridad o institución legalmente facultada para ello y acreditada experiencia en la materia;
+I. Ser ciudadano mexicano, con residencia mínima de 3 años en el Estado de Querétaro, previos a la fecha de designación;
 
-III. Gozar de buena reputación y no haber sido condenado por delito doloso;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
-IV. Durante cuarenta días previos a su nombramiento, no haber ocupado cargo de elección popular, ni haber sido Secretario o su equivalente en alguno de los Poderes del Estado; y
+II. Poseer, al día de la designación, con antigüedad mínima de cinco años, título profesional expedido por autoridad o institución legalmente facultada para ello;
 
-V. No desempeñar el cargo de dirigente de algún partido político al momento de la designación.
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+III. Tener acreditada experiencia en materia de acceso a la información pública y protección de datos personales;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+IV. Gozar de buena reputación y no haber sido condenado por delito doloso;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+V. Durante cuarenta días previos a su nombramiento, no haber ocupado cargo de elección popular, ni haber sido Secretario o su equivalente en alguno de los Poderes del Estado; y
+
+> <small>(ADICIONADA, P.O. 25 DE ENERO DE 2016)</small>
+
+VI. No desempeñar el cargo de dirigente de algún partido político al momento de la designación.
 
 ###### Artículo 31.
 
@@ -477,7 +499,9 @@ La Comisión durante la última semana del mes de enero de cada año, rendirá a
 
 La Comisión contará con un Consejo Consultivo, integrado por tres Consejeros cuyo cargo será honorario por lo que no percibirán ingreso, remuneración, prestación, emolumento, compensación o retribución alguna y su designación no implicará relación laboral. Durarán en su encargo tres años y podrán ser reelectos para un periodo inmediato siguiente.
 
-Serán electos por mayoría de votos del Pleno de la Comisión y podrán ser removidos con la misma votación requerida para su elección. La Comisión organizará lo relativo a la elección de los consejeros honoríficos y fijará las bases para su realización, debiendo publicar, a más tardar quince días antes de la elección, una convocatoria abierta a toda la ciudadanía, a efecto de recibir las propuestas ciudadanas.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2016)</small>
+
+Serán electos por mayoría de votos del Pleno de la Comisión y podrán ser removidos con la misma votación requerida para su elección. La Comisión organizará lo relativo a la elección y renovación de los consejeros honoríficos y fijará las bases para su realización, debiendo publicar, a más tardar quince días antes de la elección, una convocatoria abierta a toda la ciudadanía, a efecto de recibir las propuestas ciudadanas.
 
 ###### Artículo 40.
 
@@ -597,6 +621,14 @@ III. Abstenerse de dar trámite a solicitudes que no se formulen en forma pacíf
 
 IV. Las demás que se deriven de la presente Ley.
 
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2016)</small>
+
+Los titulares de las unidades de transparencia dependerán directamente del sujeto obligado.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2016)</small>
+
+La titularidad de la Unidad de Transparencia, preferentemente deberá de recaer en una persona que cuente con experiencia en la materia.
+
 ###### Artículo 48.
 
 Las Unidades de Transparencia podrán emitir los lineamientos de coordinación, que deberán acatar las dependencias, entidades u órganos administrativos del sujeto obligado, y que resulten necesarios para cumplir con las obligaciones de la presente ley, en tanto no se contrapongan con la misma y los que en su caso emita la Comisión.
@@ -613,9 +645,13 @@ Cuando persista el incumplimiento en la entrega de la información, a pesar del 
 
 ### Capítulo Único. De la Plataforma Estatal de Transparencia
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2016)</small>
+
 ###### Artículo 51.
 
-La Comisión desarrollará, administrará, implementará y pondrá en funcionamiento la plataforma electrónica homologada que permitirá cumplir con los procedimientos, obligaciones y disposiciones señaladas en la presente ley para los sujetos obligados con el fin de estandarizar los procesos y la simplicidad del uso, de conformidad con la normatividad que establezca el Sistema Nacional, la cual estará vinculada a la Plataforma Nacional.
+La Comisión desarrollará, administrará, implementará y pondrá en funcionamiento la plataforma electrónica homologada que permitirá cumplir con los procedimientos, obligaciones y disposiciones señaladas en la presente ley para los sujetos obligados con el fin de estandarizar los procesos y la simplicidad del uso, de conformidad con la normatividad que establezca el Sistema Nacional, la cual estará incorporada a la Plataforma Nacional de Transparencia.
+
+Así también, se promoverá la publicación de la información de Datos abiertos y Accesibles.
 
 ###### Artículo 52.
 
@@ -661,6 +697,10 @@ VII. Proponer programas para la asesoría y orientación de sus usuarios en el e
 
 La Comisión emitirá políticas de transparencia proactiva, en atención a los lineamientos generales definidos al efecto por el Sistema Nacional, para incentivar a los sujetos obligados a publicar información adicional a la que establece como mínimo la presente Ley.
 
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2016)</small>
+
+Para evaluar la efectividad de la política de transparencia proactiva, considerando como base la reutilización que la sociedad haga de la información, se estará a los criterios de evaluación que determine el Sistema Nacional.
+
 ###### Artículo 56.
 
 La información que pretendan publicar los sujetos obligados, en el marco de la política de transparencia proactiva, se difundirá también en los medios electrónicos de difusión de los propios sujetos obligados.
@@ -687,9 +727,11 @@ La Comisión y los sujetos obligados establecerán los ajustes razonables que fa
 
 Los sujetos obligados pondrán a disposición de las personas interesadas, equipos de cómputo con acceso a Internet, que permitan a los particulares consultar la información o utilizar el sistema de solicitudes de acceso a la información en las oficinas de las Unidades de Transparencia.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2016)</small>
+
 ###### Artículo 61.
 
-La información publicada por los sujetos obligados, en términos del presente Titulo, no constituye propaganda gubernamental; deberán mantener accesible la información en el portal de obligaciones de transparencia, incluso dentro de los procesos electorales, a partir del inicio de las precampañas y hasta la conclusión del proceso electoral.
+La información publicada por los sujetos obligados no constituye propaganda gubernamental; deberán mantener accesible la información en el portal de obligaciones de transparencia, incluso dentro de los procesos electorales, conforme a lo dispuesto en la Ley de la materia.
 
 ###### Artículo 62.
 
@@ -719,7 +761,9 @@ Los sujetos obligados deberán publicar en el portal de internet referido, la in
 
 I. El marco normativo aplicable al sujeto obligado, incluyendo leyes, códigos, reglamentos, decretos de creación, manuales administrativos, reglas de operación, criterios, políticas, y otros análogos;
 
-II. Su estructura orgánica completa, en un formato que vincule cada área con las atribuciones y responsabilidades que le corresponden a cada servidor público;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+II. Su estructura orgánica completa, en un formato que vincule cada área con las atribuciones y responsabilidades que le corresponden a cada servidor público. Así también, deberá señalar, en su caso, a los prestadores de servicios profesionales;
 
 III. Las atribuciones, metas y objetivos de las Áreas de conformidad con sus programas operativos;
 
@@ -729,11 +773,17 @@ V. Los indicadores que permitan rendir cuenta de sus objetivos y resultados;
 
 VI. El directorio de los servidores públicos, a partir del nivel de jefe de departamento o su equivalente; o todos ellos, cuando se brinde atención al público; se manejen o apliquen recursos públicos; o se realicen actos de autoridad. Incluirá, al menos, nombre, cargo o nombramiento, nivel del puesto, fecha de alta, número telefónico, domicilio para recibir correspondencia y dirección de correo electrónico oficial.
 
-VII. Los tabuladores de remuneraciones;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
-VIII. Los tabuladores de gastos de representación y viáticos;
+VII. Los tabuladores de remuneraciones, que deberán indicar la remuneración bruta y neta de todos los Servidores Públicos de base o de confianza, de todas las percepciones, incluyendo sueldos, prestaciones, gratificaciones, primas, comisiones, dietas, bonos, estímulos, ingresos y sistemas de compensación, señalando la periodicidad de dicha remuneración;
 
-IX. El número total de las plazas diferenciando al personal de base y confianza, especificando el total de las vacantes que hubieren;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+VIII. Los tabuladores de los gastos de representación y viáticos, así como el objeto e informe de comisión correspondiente;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+IX. El número total de las plazas y del personal de base y confianza, especificando el total de las vacantes, por nivel de puesto, para cada unidad administrativa;
 
 X. Las contrataciones de servicios profesionales por honorarios, señalando los nombres de los prestadores de servicios, los servicios contratados, el monto de los honorarios y el periodo de contratación;
 
@@ -781,9 +831,13 @@ q) Padrón de beneficiarios que contendrá: nombre o denominación social de las
 
 XV. Las condiciones generales de trabajo, contratos o convenios que regulen las relaciones laborales del personal, así como los recursos económicos, en especie o donativos, que sean entregados a los sindicatos;
 
-XVI. La información curricular, desde el nivel de jefe de departamento o equivalente, hasta el titular del sujeto obligado;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
-XVII. El listado de servidores públicos con sanciones administrativas definitivas, especificando la causa de sanción;
+XVI. La información curricular, desde el nivel de jefe de departamento o equivalente, hasta el titular del sujeto obligado; así como, en su caso, las sanciones administrativas de que haya sido objeto;
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+XVII. El listado de servidores públicos con sanciones administrativas definitivas, especificando la causa de la sanción y la disposición;
 
 XVIII. Los servicios que ofrecen señalando los requisitos para acceder a ellos;
 
@@ -797,7 +851,9 @@ XXII. Los montos destinados a gastos de comunicación social y publicidad oficia
 
 XXIII. Los informes de resultados de las auditorías al ejercicio presupuestal de cada sujeto obligado que se realicen;
 
-XXIV. El resultado de la dictaminación de los estados financieros;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+XXIV. El resultado de la dictaminación de los estados financieros; la información relativa a la deuda pública, en términos de la normatividad aplicable; el informe de la cuenta pública; y la aplicación de los fondos auxiliares especiales;
 
 XXV. Los montos, criterios, convocatorias y listado de personas físicas o morales a quienes, por cualquier motivo, se les asigne o permita usar recursos públicos o, en los términos de las disposiciones aplicables, realicen actos de autoridad. Asimismo, los informes que dichas personas les entreguen sobre el uso y destino de dichos recursos;
 
@@ -981,7 +1037,9 @@ III. La geografía y cartografía electoral;
 
 IV. El registro de candidatos a cargos de elección popular;
 
-V. El catálogo de estaciones de radio y canales de televisión, pautas de transmisión y versiones de spots que en su caso le proporcione el Instituto Nacional Electoral;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+V. El catálogo de estaciones de radio y canales de televisión, pautas de transmisión y versiones de spots del Instituto Electoral del Estado de Querétaro y los partidos políticos;
 
 VI. Los montos de financiamiento público por actividades ordinarias, de campaña y específicas otorgadas a los partidos políticos, asociaciones y agrupaciones políticas o de ciudadanos y demás asociaciones políticas, así como los montos autorizados de financiamiento privado y los topes de los gastos de campañas;
 
@@ -1155,11 +1213,15 @@ VII. Causas por las que, en su caso, se inicie el proceso de constitución o ext
 
 VIII. Los contratos de obras, adquisiciones y servicios que involucren recursos públicos del fideicomiso, así como los honorarios derivados de los servicios y operaciones que realice la institución de crédito o la fiduciaria.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE ENERO DE 2016)</small>
+
 ###### Artículo 76.
 
-Las autoridades administrativas y jurisdiccionales en materia laboral deberán poner a disposición del público y mantener actualizada y accesible, la siguiente información de los sindicatos que reciban recursos públicos del Estado:
+Las autoridades administrativas y jurisdiccionales en materia laboral deberán poner a disposición del público y mantener actualizada y accesible y, en su caso, expedir copias de la siguiente información de los sindicatos que reciban recursos públicos del Estado:
 
-I. Los documentos del registro de los sindicatos;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+I. Los documentos del registro de los sindicatos; entre ellos, los que incluyan el nombre, domicilio y número de registro del sindicato;
 
 II. Nombre de los integrantes del comité ejecutivo y comisiones que ejerzan funciones de vigilancia;
 
@@ -1435,65 +1497,41 @@ La carga de la prueba para justificar toda negativa de acceso a la información,
 
 ### Capítulo Segundo. De la información reservada
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2016)</small>
+
 ###### Artículo 108.
 
-Como información reservada podrá clasificarse aquella cuya publicación que:
+Como información reservada, podrá clasificarse aquella que:
 
-I. Pueda causar un perjuicio o daño grave a las funciones de las instituciones públicas y por tanto al mismo Estado;
+I. Comprometa la seguridad pública y cuente con un propósito genuino y un efecto demostrable;
 
-II. Comprometa la seguridad del Estado, de los municipios o la seguridad pública o ponga en riesgo la privacidad, el honor, la intimidad o la seguridad de los particulares;
+II. Pueda menoscabar la conducción de las negociaciones y relaciones internacionales;
 
-III. Menoscabe la conducción de negociaciones en beneficio de la Entidad, incluida aquella información que la federación, organismos internacionales u otros Estados, entreguen a la Entidad con carácter de reservada;
+III. Se entregue al Estado expresamente con ese carácter o el de confidencial por otro u otros sujetos de derecho internacional, excepto cuando se trate de violaciones graves de derechos humanos o delitos de lesa humanidad de conformidad con el derecho internacional;
 
-IV. Ponga en riesgo la celebración o culminación de acuerdos con los diversos grupos sociales, hasta en tanto esta se concrete;
+IV. Pueda afectar la estabilidad económica y financiera del Estado;
 
-V. Ponga en riesgo la vida, la seguridad o la salud de cualquier persona;
+V. Pueda poner en riesgo la vida, seguridad o salud de una persona física;
 
-VI. Pueda dañar la estabilidad económica y financiera del Estado;
+VI. Obstruya las actividades de verificación, inspección y auditoría relativas al cumplimiento de las leyes o afecte la recaudación de contribuciones;
 
-VII. Cuyo empleo represente ventajas, ganancias o lucros indebidos a los particulares, propicie una competencia desleal o constituya tráfico de influencias;
+VII. Obstruya la prevención o persecución de los delitos;
 
-VIII. Este contenida en informes, consultas y toda clase de escritos relacionados con la definición de estrategias y medidas a tomar por los sujetos obligados en materia de controversias legales;
+VIII. La que contenga las opiniones, recomendaciones o puntos de vista que formen parte del proceso deliberativo de los servidores públicos, hasta en tanto no sea adoptada la decisión definitiva, la cual deberá estar documentada;
 
-IX. Este protegida por derechos de propiedad intelectual, industrial, comercial, fiscal o de otro tipo, patentes y marcas que no pueda ser divulgada o reproducida sin la autorización de su titular y que sea considerada como tal por la legislación;
+IX. Obstruya los procedimientos para fincar responsabilidad a los Servidores Públicos, en tanto no se haya dictado la resolución administrativa;
 
-X. Conste en documentos originales que por su naturaleza no sean normalmente substituibles, como los manuscritos incunables, ediciones, libros, publicaciones periódicas, mapas, planos, folletos y grabados históricos y cualquier otro objeto o medio que contenga información de este género en tanto no se hayan creado versiones públicas o no se cumpla con las disposiciones que regulen su consulta. En estos casos se proporcionará a los particulares los medios para consultar dicha información, cuidando que no se dañen los objetos que la contengan; y
+X. Afecte los derechos del debido proceso;
 
-XI. La que determinen las demás leyes aplicables
+XI. Vulnere la conducción de los expedientes judiciales o de los procedimientos administrativos seguidos en forma de juicio, en tanto no hayan causado estado; así como la información que vulnere las diligencias de preparación del ejercicio de la acción penal; y
+
+XII. Se encuentre contenida dentro de las investigaciones de hechos que la ley señale como delitos y se tramiten ante el Ministerio Público.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2016)</small>
 
 ###### Artículo 109.
 
-Tendrá el carácter de reservada por ministerio de ley y, en consecuencia, no será necesario el acuerdo del Comité de Transparencia, la información siguiente:
-
-I. La contenida en las diligencias de preparación del ejercicio de la acción penal;
-
-II. La contenida en procesos administrativos de responsabilidad de servidores públicos, antes de que sea resuelta la causa;
-
-III. La contenida en los procedimientos jurisdiccionales, contencioso-administrativos, laborales o administrativos que se sigan a modo de juicio que se encuentren en trámite, hasta en tanto se resuelva de manera definitiva y la sentencia haya causado estado. Una vez que dicha resolución cause estado, los expedientes serán públicos, salvo la información reservada o confidencial que pudieran contener;
-
-IV. Los nombres de las víctimas de delitos contra la libertad e inexperiencia sexuales, así como de los de corrupción y explotación de menores e incapaces y el de las partes en las controversias de carácter familiar y la información que el Juez, de manera fundada y motivada, determine clasificar en tal carácter por razones de interés público;
-
-V. Las actuaciones de la Defensoría de los Derechos Humanos de Querétaro para la investigación de las denuncias y quejas por violaciones de derechos humanos, hasta en tanto se emitan las recomendaciones correspondientes;
-
-VI. La relacionada con los planos y proyectos de construcción y la relacionada con la seguridad e integridad de los inmuebles e instalaciones donde se encuentren las oficinas policiales y de seguridad, así como de las instalaciones estratégicas de los sujetos obligados;
-
-VII. Toda aquella información que constituya estrategias preventivas para mantener el orden social; acciones, operativos y programas para la vigilancia y prevención del delito, así como aquella que integre operativos para la seguridad y custodia de personas;
-
-VIII. La relativa al estado de fuerza de las instituciones policiacas, de seguridad pública, investigación del delito y procuración de justicia, tales como número, características y estado de elementos de las distintas corporaciones policiales y de seguridad, equipamiento, armamento, sistemas informáticos, vehículos, instalaciones, códigos utilizados en sistemas de radiocomunicación y demás análogas;
-
-IX. La que ponga en riesgo la vida, seguridad o salud de los integrantes de los cuerpos policiacos y de seguridad, así como sus nombres, adscripciones, asignaciones, bitácoras, roles de servicios, fotografías, cargos y funciones, en especial;
-
-X. La relativa a los operativos que realizan las diversas corporaciones policiales y de seguridad;
-
-XI. La que pueda causar perjuicio a la recaudación de contribuciones, relativa a la hora, día, lugar, objeto y responsable de la diligencia de ejecución de resoluciones fiscales, antes de llevarse a cabo;
-
-XII. Cualquier información relacionada con procedimientos seguidos en forma de juicio, que no haya causado estado;
-
-XIII. La que cause un perjuicio a las actividades de verificación del cumplimiento de las leyes, prevención o persecución de los delitos, la impartición de justicia y la recaudación de las contribuciones;
-
-XIV. Los proyectos de programas o acciones de los sujetos obligados, en tanto no se inicie su ejecución; y
-
-XV. La considerada expresamente por alguna ley como reservada.
+Se considerará como información reservada, además de la señalada en el numeral que antecede, aquella que por disposición expresa de una ley tengan tal carácter, siempre que sean acordes con las bases, principios y disposiciones establecidos en la Ley General de Transparencia y Acceso a la Información Pública.
 
 ###### Artículo 110.
 
@@ -1505,9 +1543,13 @@ II. Se trate de información relacionada con actos de corrupción de acuerdo con
 
 ### Capítulo Tercero. De la información confidencial
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2016)</small>
+
 ###### Artículo 111.
 
-La información confidencial no estará sujeta a temporalidad alguna y sólo podrán tener acceso a ella los titulares de la misma, sus representantes y los servidores públicos facultados para ello.
+Se considera información confidencial la que contiene datos personales concernientes a una persona física identificada o identificable.
+
+La información confidencial no estará sujeta a temporalidad alguna y sólo podrán tener acceso a ella los titulares de la misma, sus representantes y los Servidores Públicos facultados para ello.
 
 Se considera como información confidencial: los secretos bancario, fiduciario, industrial, comercial, fiscal, bursátil y postal, cuya titularidad corresponda a particulares, sujetos de derecho internacional o a sujetos obligados cuando no involucren el ejercicio de recursos públicos.
 
@@ -1525,25 +1567,37 @@ Los sujetos obligados que se constituyan como usuarios o como institución banca
 
 Los sujetos obligados que se constituyan como contribuyentes o como autoridades en materia tributaria, no podrán clasificar la información relativa al ejercicio de recursos públicos como secreto fiscal.
 
+> <small>[N. DE E. EL DECRETO DE REFORMAS PUBLICADO EN EL P.O. DE 25 DE ENERO DE 2016, MODIFICÓ DE FORMA SUSTANCIAL LA ESTRUCTURA Y CONTENIDO DEL PRESENTE ARTÍCULO, PASANDO DE VI FRACCIONES A V.]</small>
+
 ###### Artículo 115.
 
 Para que los sujetos obligados puedan permitir el acceso a información confidencial requieren obtener el consentimiento de los particulares titulares de la información.
 
 No se requerirá el consentimiento del titular de la información confidencial cuando:
 
-I. La información se refiera a beneficiarios de programas y recursos públicos;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
-II. La información se encuentre en registros públicos o fuentes de acceso público;
+I. La información se encuentre en registros públicos o fuentes de acceso público;
 
-III. Por ley tenga el carácter de pública;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
-IV. Exista una orden judicial;
+II. Por ley tenga el carácter de pública;
 
-V. Por razones de seguridad pública y salubridad general, o para proteger los derechos de terceros, se requiera su publicación; o
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
 
-VI. Cuando se transmita entre sujetos obligados, siempre y cuando la información se utilice para el ejercicio de facultades propias de los mismos.
+III. Exista una orden judicial;
 
-Para efectos de la fracción V del presente artículo, el organismo garante deberá aplicar la prueba de interés público. Además, se deberá corroborar una conexión patente entre la información confidencial y un tema de interés público y la proporcionalidad entre la invasión a la intimidad ocasionada por la divulgación de la información confidencial y el interés público de la información.
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+IV. Por razones de seguridad pública o para proteger los derechos de terceros, se requiera su publicación; y
+
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+V. Se transmita entre sujetos obligados y entre éstos y los sujetos de derecho internacional, en términos de los tratados y los acuerdos interinstitucionales, siempre y cuando la información se utilice para el ejercicio de facultades propias de los mismos.
+
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2016)</small>
+
+Para efectos de la fracción IV del presente artículo, el organismo garante deberá aplicar la prueba de interés público. Además, se deberá corroborar una conexión patente entre la información confidencial y un tema de interés público y la proporcionalidad entre la invasión a la intimidad ocasionada por la divulgación de la información confidencial y el interés público de la información.
 
 ## Título Séptimo. Del procedimiento de acceso a la información pública
 
@@ -1553,9 +1607,11 @@ Para efectos de la fracción V del presente artículo, el organismo garante debe
 
 Las Unidades de Transparencia de los sujetos obligados deberán garantizar las medidas y condiciones de accesibilidad para que toda persona pueda ejercer el derecho de acceso a la información mediante solicitudes de información y deberá apoyar al solicitante en la elaboración de las mismas.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2016)</small>
+
 ###### Artículo 117.
 
-Cualquier persona por sí misma o a través de su representante, podrá presentar solicitud de acceso a información ante la Unidad de Transparencia del sujeto obligado que corresponda, ya sea por escrito o por correo electrónico.
+Cualquier persona por sí misma o a través de su representante, podrá presentar solicitud de acceso a información ante la Unidad de Transparencia del sujeto obligado, a través de la Plataforma Estatal, en la oficina u oficinas designadas para ello, vía correo electrónico, correo postal, mensajería, telégrafo, verbalmente o por cualquier medio aprobado por el Sistema Estatal.
 
 ###### Artículo 118.
 
@@ -1567,7 +1623,9 @@ Para presentar una solicitud no se podrán exigir mayores requisitos que los sig
 
 I. Nombre del solicitante y tratándose de personas morales la denominación y el nombre y datos generales de su representante legal;
 
-II. Domicilio en el Estado tratándose de sujetos obligados estatales o en el municipio del cual se solicita información según corresponda o medio para recibir notificaciones;
+> <small>(REFORMADA, P.O. 25 DE ENERO DE 2016)</small>
+
+II. Domicilio o medio para recibir notificaciones;
 
 III. La descripción clara y precisa de la información solicitada;
 
@@ -1577,9 +1635,9 @@ V. La modalidad en la que prefiere se otorgue el acceso a la información, media
 
 El requisito de la fracción IV será opcional para el solicitante y, en ningún caso, podrá ser un requisito indispensable para la procedencia de la solicitud.
 
-###### Artículo 120.
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2016)</small>
 
-En el caso que el solicitante actúe en representación de un tercero, deberá acreditar la representación que ostenta.
+###### Artículo 120.
 
 En ningún caso la entrega de información estará condicionada a que se motive o justifique su utilización, ni se requerirá demostrar interés alguno. Los empleados públicos encargados de proporcionar la información pública se abstendrán de preguntar o cuestionar los motivos de la solicitud, de lo contrario se harán acreedores a las sanciones que establece esta Ley.
 
@@ -1589,9 +1647,11 @@ En su caso, el solicitante señalará el formato accesible o la lengua indígena
 
 La información solicitada, deberá entregarse tal y como obra en los archivos, expedientes o cualquier otro medio de acopio, sin alteraciones, mutilaciones y deberá, asimismo, mostrarse de manera clara y comprensible.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2016)</small>
+
 ###### Artículo 122.
 
-Cuando la información solicitada implique su clasificación o procesamiento de una manera distinta a como obra en depósito, o bien, la generación de datos o textos nuevos a partir de los ya existentes, la autoridad podrá convenir con el particular la elaboración y entrega de un informe especial. En dicho convenio se establecerá la forma, plazo y, en su caso, costo para entregar la información solicitada. El convenio deberá suscribirse dentro del plazo legal que para la entrega de la información establece el artículo 130 de esta Ley.
+Cuando la información solicitada implique su manipulación o procesamiento de una manera distinta a como obra en depósito, o bien, la generación de datos o textos nuevos a partir de los ya existentes, se hará del conocimiento del solicitante para que éste la procese, sin que ello implique la negativa de proporcionarle la información en el formato que se posea.
 
 ###### Artículo 123.
 
@@ -1695,17 +1755,25 @@ Las personas físicas y morales que reciban y ejerzan recursos públicos o reali
 
 ### Capítulo Segundo. De las cuotas de acceso
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2016)</small>
+
 ###### Artículo 139.
 
-En caso de existir costos para obtener la información, deberán cubrirse de manera previa a la entrega y no podrán ser superiores a la suma de:
+En caso de existir costos para obtener la información, deberán cubrirse de manera previa a la entrega y no podrán ser superiores a lo establecido y en lo que resulte aplicable, en las leyes de ingresos que correspondan, comprendiendo los conceptos de:
 
-I. El costo de los materiales utilizados en la reproducción de la información;
+I. Costo de los materiales utilizados en la reproducción de la información;
 
-II. El costo de envío, en su caso; y
+II. Costo de envío, en su caso; y
 
-III. El pago de la certificación de los documentos, cuando proceda.
+III. Pago de la certificación de los documentos, cuando proceda.
 
-Las cuotas de los derechos aplicables deberán establecerse en las leyes de hacienda que correspondan, los cuales se publicarán en los sitios de Internet de los sujetos obligados. En caso de que no se fijen los montos, la reproducción se cobrará de acuerdo con el tabulador que expida la Comisión. Los sujetos obligados señalarán la caja recaudadora en donde deberán realizar el pago o bien señalar la cuenta bancaria para que el solicitante realice el pago íntegro del costo de la información que solicitó.
+Las cuotas de los derechos aplicables se publicarán en los sitios de Internet de los sujetos obligados.
+
+La información deberá ser entregada sin costo, cuando no implique más de veinte hojas simples. Las unidades de transparencia podrán exceptuar el pago de reproducción y envío atendiendo a las circunstancias socioeconómicas del solicitante.
+
+En caso de que no se fijen los montos, la reproducción se cobrará de acuerdo con el tabulador que expida la Comisión, sin que dichos montos rebasen los considerados en las leyes de ingresos que resulten aplicables.
+
+Los sujetos obligados señalarán la caja recaudadora donde habrá de realizarse el pago, o bien, proporcionarán el número de cuenta bancaria en la que el solicitante deberá realizar el pago íntegro del costo de la información que solicitó.
 
 ## Título Octavo. De los procedimientos de impugnación en materia de acceso a la información pública
 
@@ -1746,6 +1814,10 @@ XI. La negativa a permitir la consulta directa de la información;
 XII. La falta, deficiencia o insuficiencia de la fundamentación o motivación en la respuesta; o
 
 XIII. La orientación a un trámite especifico.
+
+> <small>(ADICIONADO, P.O. 25 DE ENERO DE 2016)</small>
+
+La resolución a un recurso de revisión interpuesto por las causales señaladas en las fracciones III, VI, VIII, IX, X y XI, es susceptible de ser impugnada ante el organismo garante correspondiente, mediante recurso de inconformidad.
 
 ###### Artículo 142.
 
@@ -1891,9 +1963,13 @@ VI. Admitido el recurso de revisión, aparezca alguna causal de improcedencia en
 
 Las resoluciones de la Comisión son vinculatorias, definitivas e inatacables para los sujetos obligados.
 
+> <small>(REFORMADO, P.O. 25 DE ENERO DE 2016)</small>
+
 ###### Artículo 156.
 
-Los particulares podrán impugnar las determinaciones o resoluciones de la Comisión ante el Tribunal de lo Contencioso Administrativo del Estado de Querétaro.
+Las resoluciones que emita la Comisión sobre los recursos de revisión que conozca, podrán ser impugnadas por el particular ante el Instituto Nacional de Transparencia, Acceso a la Información Pública y Protección de Datos Personales, a través del recurso de inconformidad, previsto en la Ley General de Transparencia y Acceso a la Información Pública, o bien, ante el Poder Judicial de la Federación en los términos de las disposiciones legales aplicables.
+
+La presentación, sustanciación y resolución del recurso de inconformidad a que se refiere este Capítulo, se sujetará a lo previsto en la Ley General.
 
 ### Capítulo Segundo. Del cumplimiento
 
@@ -2100,3 +2176,17 @@ Alejandro López Franco
 Secretario de la Contraloría
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DEL DECRETO DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 25 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA "LEY QUE REFORMA LOS ARTÍCULOS 33 Y 33 TER DE LA LEY DE ACCESO A LA INFORMACIÓN GUBERNAMENTAL DEL ESTADO DE QUERÉTARO Y REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL ESTADO DE QUERÉTARO".]
+
+Artículo Primero. La presente Ley, en cuanto a la reforma de los artículos 33 y 33 Ter de la Ley de Acceso a la Información Gubernamental del Estado de Querétaro, entrará en vigor a partir de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga"; respecto de la reforma y adición a diversas disposiciones de la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro, iniciará su vigencia a partir del 1 de febrero de 2016.
+
+Artículo Segundo. Dentro de los 180 días siguientes al inicio de vigencia de la Ley de Transparencia y Acceso a la Información Pública del Estado de Querétaro, los sujetos obligados deberán tener actualizada en su respectivo portal en internet, la información pública en su poder, en los términos del presente ordenamiento legal.
+
+Artículo Tercero. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+Artículo Cuarto. La Mesa Directiva de la Quincuagésima Octava Legislatura del Estado de Querétaro expedirá la Convocatoria y desahogará el procedimiento para la elección de los Comisionados de la Comisión Estatal de Información Gubernamental, referido en el Artículo Segundo Transitorio de la Ley que reforma el Apartado B, del Artículo 33 de la Constitución Política del Estado de Querétaro, publicada el 2 de octubre de 2015 en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga"; convocatoria en la que se señalarán las bases, requisitos, etapas y desarrollo del procedimiento de elección, el cual deberá garantizar la transparencia, independencia y participación de la sociedad.
