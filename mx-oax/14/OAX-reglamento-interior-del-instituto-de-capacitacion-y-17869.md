@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-del-instituto-de-capacitacion-y-17869"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-08-05"
-last_updated: "2001-11-09"
+last_updated: "2016-01-26"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17869&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,17 @@ state: "OAX"
 ---
 # REGLAMENTO INTERIOR DEL INSTITUTO DE CAPACITACION Y ESPECIALIZACION DEL PODER JUDICIAL Y DE LA CARRERA JUDICIAL
 
-REGLAMENTO INTERIOR DEL INSTITUTO DE CAPACITACION Y ESPECIALIZACION DEL PODER JUDICIAL Y DE LA CARRERA JUDICIAL
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE FEBRERO DE 2016 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
 
-ULTIMA REFORMA PUBLICADA EN EL EXTRA DEL PERIODICO OFICIAL: 9 DE NOVIEMBRE DE 2001.
+REGLAMENTO INTERIOR DEL INSTITUTO DE CAPACITACIÓN Y ESPECIALIZACIÓN DEL PODER JUDICIAL Y DE LA CARRERA JUDICIAL
+
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA ESCUELA JUDICIAL DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE OAXACA, PUBLICADO EN EL P.O. DE 26 DE ENERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO, EXCEPTO, PARA LA CONCLUSIÓN DE AQUELLOS TRÁMITES ADMINISTRATIVOS Y DE CONTROL ESCOLAR INICIADOS CON ANTERIORIDAD A LA VIGENCIA DE ESTE ORDENAMIENTO ANTE EL INSTITUTO ESTATAL DE EDUCACIÓN PÚBLICA DEL ESTADO DE OAXACA, DEJANDO DE SER VIGENTE HASTA EN TANTO SE CONCLUYAN CON DICHOS TRÁMITES.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE ENERO DE 2016 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 5 de agosto de 2000.
 
-ACUERDO N° 4:- El Pleno del Tribunal Superior de Justicia del Estado Libre y Soberano de Oaxaca, en cumplimiento con las facultades que le confiere el artículo 13 fracción XIX de la Ley Orgánica del Poder Judicial del Estado, 3 de su Reglamento, a tenido a bien elaborar y aprobar el siguiente:
+ACUERDO N° 4:- El Pleno del Tribunal Superior de Justicia del Estado Libre y Soberano de Oaxaca, en cumplimiento con las facultades que le confiere el artículo 13 fracción XIX de la Ley Orgánica del Poder Judicial del Estado, 3 de su Reglamento, a (sic) tenido a bien elaborar y aprobar el siguiente:
 
 "REGLAMENTO INTERIOR DEL INSTITUTO DE CAPACITACION Y ESPECIALIZACION DEL PODER JUDICIAL Y DE LA CARRERA JUDICIAL"
 
@@ -47,7 +51,7 @@ El Instituto tiene como objetivos:
 
 I. Instrumentar los cursos y programas de estudio teórico-prácticos para actualizar permanentemente a los servidores públicos del Poder Judicial del Estado.
 
-II. Preparar a los aspirantes a la carrera judicial, y (sic)
+II. Preparar a los aspirantes a la carrera judicial, y
 
 III. Mantener un sistema de información judicial actualizado tanto estatal como nacional.
 
@@ -247,7 +251,7 @@ La biblioteca del Tribunal Superior de Justicia, estará al cuidado del Institut
 
 I. Custodiar el acervo bibliohemerográfico existente y el que en lo futuro se adquiera;
 
-II. Proporcionar a los usuarios del Poder Judicial del Estado y al público en general, el servicio de consulta de los textos que integran el acervo bibliohemerográfico y demás material disponible como videocasettes (sic) y audiocasettes (sic);
+II. Proporcionar a los usuarios del Poder Judicial del Estado y al público en general, el servicio de consulta de los textos que integran el acervo bibliohemerográfico y demás material disponible como videocasettes y audiocasettes;
 
 III. Sistematizar el acervo bibliohemerográfico a través de las técnicas bibliotecológicas y por medios informáticos;
 
@@ -297,7 +301,7 @@ LIC. ALFREDO RODRIGO LAGUNAS RIVERA
 
 SECRETARIO GENERAL DE ACUERDOS.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 9 DE NOVIEMBRE DE 2001.
 
@@ -306,3 +310,13 @@ PRIMERO:...
 SEGUNDO: La presente adición entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado
 
 TERCERO: Publíquese en el Periódico Oficial del Gobierno del Estado y en el Boletín Judicial.
+
+P.O. 26 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL 30/2015.- DEL PLENO DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE OAXACA, QUE APRUEBA EL REGLAMENTO INTERIOR DE LA ESCUELA JUDICIAL DEL CONSEJO DE LA JUDICATURA DEL PODER JUDICIAL DEL ESTADO DE OAXACA”.]
+
+PRIMERO. El presente Acuerdo General entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado, en la Página Oficial de internet del Poder Judicial del Estado de Oaxaca y en el Boletín Judicial.
+
+SEGUNDO. El presente ordenamiento abroga al Reglamento Interior del Instituto de Capacitación y Especialización del Poder Judicial y de la Carrera Judicial; excepto, para la conclusión de aquellos trámites administrativos y de control escolar iniciados con anterioridad a la vigencia de este ordenamiento ante el Instituto Estatal de Educación Pública del Estado de Oaxaca, dejando de ser vigente hasta en tanto se concluyan con dichos trámites.
+
+TERCERO. Las disposiciones correspondientes a los estudios de especialidad cobrarán vigencia a partir del ciclo escolar 2016.
