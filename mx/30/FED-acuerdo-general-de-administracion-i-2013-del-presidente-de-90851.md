@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-de-administracion-i-2013-del-presidente-de-9085
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-01-11"
-last_updated: "2013-01-11"
+last_updated: "2016-01-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90851&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-01-04"
 
 ACUERDO GENERAL DE ADMINISTRACIÓN I/2013 DEL CUATRO DE ENERO DE DOS MIL TRECE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE CREA LA COMISIÓN INTERNA DE SIMPLIFICACIÓN Y SEGUIMIENTO PROGRAMÁTICO PRESUPUESTAL DE ESTE ALTO TRIBUNAL
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 26 DE ENERO DE 2016.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 11 de enero de 2013.
 
@@ -73,7 +73,9 @@ IV. Presidente de la Suprema Corte: Ministro Presidente de la Suprema Corte de J
 
 V. Presupuesto: Presupuesto de Egresos autorizado para la Suprema Corte de Justicia de la Nación para el ejercicio fiscal que corresponda.
 
-VI. Reglamento: Reglamento Interior en materia de Administración de la Suprema Corte de Justicia de la Nación.
+> <small>(REFORMADA, D.O.F. 26 DE ENERO DE 2016)</small>
+
+VI. Reglamento: Reglamento Orgánico en Materia de Administración de la Suprema Corte de Justicia de la Nación.
 
 VII. Suprema Corte: Suprema Corte de Justicia de la Nación.
 
@@ -95,7 +97,13 @@ II. Vocales Ejecutivos:
 
 a) El Secretario General de Acuerdos.
 
-b) El Secretario de la Presidencia.
+> <small>(REFORMADO, D.O.F. 26 DE ENERO DE 2016)</small>
+
+b) El Secretario General de la Presidencia.
+
+> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2016)</small>
+
+c) El Secretario Jurídico de la Presidencia.
 
 III. El Director General de Presupuesto y Contabilidad, quien fungirá como Secretario Técnico.
 
@@ -115,7 +123,7 @@ f) El Director General de Casas de la Cultura Jurídica.
 
 g) El Director General de la Tesorería.
 
-h) El Director General de Asuntos Jurídicos.
+h) (DEROGADO, D.O.F. 26 DE ENERO DE 2016)
 
 i) El Director General de Comunicación y Vinculación Social.
 
@@ -127,7 +135,17 @@ l) El Titular del Centro de Documentación y Análisis, Archivos y Compilación 
 
 m) El Director General de Atención y Servicios.
 
-n) El Titular de la Unidad de Relaciones Institucionales.
+> <small>(REFORMADO, D.O.F. 26 DE ENERO DE 2016)</small>
+
+n) El Director General de Estudios, Promoción y Desarrollo de los Derechos Humanos.
+
+> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2016)</small>
+
+ñ) El Titular de la Unidad General de Transparencia y Sistematización de la Información Judicial.
+
+> <small>(ADICIONADO, D.O.F. 26 DE ENERO DE 2016)</small>
+
+o) El Titular de la Unidad de Relaciones Institucionales.
 
 ###### Artículo 5o.
 
@@ -271,9 +289,11 @@ IX. Las demás que se les encomienden.
 
 ### CAPITULO IV. DEL FUNCIONAMIENTO DE LA CISSEPP
 
+> <small>(REFORMADO, D.O.F. 26 DE ENERO DE 2016)</small>
+
 ###### Artículo 13.
 
-La CISSEPP sesionará de manera ordinaria una vez al mes y de manera extraordinaria en el momento en el que la naturaleza de los asuntos a tratar así lo requiera.
+La CISSEPP sesionará de manera ordinaria una vez cada tres meses y de manera extraordinaria, en cualquier momento, a solicitud de su Presidente o Vocales Ejecutivos, para la atención de asuntos especiales o urgentes.
 
 ###### Artículo 14.
 
@@ -314,3 +334,15 @@ SEGUNDO. Publíquese para su difusión en el Semanario Judicial de la Federació
 Así lo acordó y firma el Ministro Juan N. Silva Meza, Presidente de la Suprema Corte de Justicia de la Nación, con el licenciado Rafael Coello Cetina, Secretario General de Acuerdos que autoriza y da fe.- Rúbricas.
 
 EL LICENCIADO ALFREDO FARID BARQUET RODRIGUEZ, DIRECTOR GENERAL DE ASUNTOS JURIDICOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, CON FUNDAMENTO EN LOS ARTICULOS 11, FRACCION X, Y 27, FRACCION III, DEL REGLAMENTO INTERIOR EN MATERIA DE ADMINISTRACION DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION.- CERTIFICA: Que esta copia del "ACUERDO GENERAL DE ADMINISTRACION I/2013 DEL CUATRO DE ENERO DE DOS MIL TRECE, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACION, POR EL QUE SE CREA LA COMISION INTERNA DE SIMPLIFICACION Y SEGUIMIENTO PROGRAMATICO PRESUPUESTAL DE ESTE ALTO TRIBUNAL", constante de nueve fojas útiles, concuerda fiel y exactamente con su original que obra en esta Dirección General y se certifica para la difusión correspondiente.- México, Distrito Federal, a cuatro de enero de dos mil trece.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 26 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DE ADMINISTRACIÓN DEL DIECIOCHO DE ENERO DE DOS MIL DIECISÉIS, DEL PRESIDENTE DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, POR EL QUE SE REFORMA EL ACUERDO GENERAL DE ADMINISTRACIÓN I/2013 DEL CUATRO DE ENERO DE DOS MIL TRECE, POR EL QUE SE CREA LA COMISIÓN INTERNA DE SIMPLIFICACIÓN Y SEGUIMIENTO PROGRAMÁTICO PRESUPUESTAL DE ESTE ALTO TRIBUNAL”.]
+
+PRIMERO. El presente Acuerdo General entrará en vigor en la fecha de su aprobación.
+
+SEGUNDO. Publíquese para su difusión en el Semanario Judicial de la Federación y su Gaceta; en el Diario Oficial de la Federación y en el portal de internet de la Suprema Corte de Justicia de la Nación.
+
+TERCERO. Una vez que las disposiciones del presente Acuerdo General hayan entrado en vigor, intégrense al Acuerdo General de Administración I/2013, a fin de que el contenido de este último se encuentre debidamente actualizado, en el portal de este Alto Tribunal, así como en todo tipo de publicaciones.
