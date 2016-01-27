@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-instituto-municipal-de-pensiones-del-estado-de-110827"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-26"
-last_updated: "2016-01-23"
+last_updated: "2016-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110827&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY DEL INSTITUTO MUNICIPAL DE PENSIONES DEL ESTADO DE CHIHUAHUA
 
 TEXTO ORIGINAL.
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 23 DE ENERO DE 2016.</small>
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 27 DE ENERO DE 2016.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 26 de diciembre de 2015.
 
@@ -731,9 +731,11 @@ Los préstamos a corto plazo causarán un interés anual sobre saldos insolutos.
 
 Los préstamos se amortizarán mediante descuentos quincenales por cantidades iguales, que cubran simultáneamente suerte principal e intereses.
 
+> <small>(F. DE E., P.O. 27 DE ENERO DE 2016)</small>
+
 ###### ARTÍCULO 86.
 
-El trabajador podrá solicitar renovación de su préstamo cuando haya cubierto el setenta y cinco por ciento del mismo y el Instituto descontará su sueldo insoluto bonificándole los intereses.
+El trabajador podrá solicitar renovación de su préstamo cuando haya cubierto el setenta y cinco por ciento del mismo y el Instituto descontará su saldo insoluto bonificándole los intereses.
 
 ###### ARTÍCULO 87.
 
