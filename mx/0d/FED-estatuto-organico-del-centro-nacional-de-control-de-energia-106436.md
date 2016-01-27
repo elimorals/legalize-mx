@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-centro-nacional-de-control-de-energia-106
 country: "mx"
 rank: "estatuto"
 publication_date: "2015-03-09"
-last_updated: "2015-03-09"
+last_updated: "2016-01-27"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106436&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-03-02"
 
 ESTATUTO ORGÁNICO DEL CENTRO NACIONAL DE CONTROL DE ENERGÍA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2016.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el lunes 9 de marzo de 2015.
 
@@ -65,9 +65,11 @@ IV. CRE: Comisión Reguladora de Energía.
 
 ### CAPÍTULO II. De la Estructura
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE ENERO DE 2016)</small>
+
 ###### ARTÍCULO 3o.
 
-Para el despacho de los asuntos de su competencia, el CENACE cuenta con los Órganos Superiores, Unidades Administrativas y Gerencias del Corporativo y Gerencias Nacionales y de Control Regional siguientes:
+Para el despacho de los asuntos de su competencia, el CENACE cuenta con los Órganos Superiores, Unidades Administrativas y Jefes de Unidad del Corporativo y Gerencias Nacionales y de Control Regional siguientes:
 
 A. Órganos Superiores:
 
@@ -121,75 +123,141 @@ XXI. Coordinación de Confiabilidad;
 
 XXII. Coordinación de Expansión de la Red;
 
-C. Gerencias del Corporativo y Gerencias Nacionales y de Control Regional:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE ENERO DE 2016)</small>
+
+C. Jefaturas de Unidad del Corporativo y Gerencias Nacionales y de Control Regional:
 
 I. Gerencia del Centro Nacional;
 
 II. Gerencia del Centro Alterno;
 
-III. Gerencia de la Expansión de la Red;
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2016)</small>
 
-IV. Gerencia de Recursos de Generación;
+III. Jefatura de Unidad de la Expansión de la Red;
 
-V. Gerencia de Pronósticos de Crecimiento de la Demanda;
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2016)</small>
 
-VI. Gerencia de Estudios de Interconexión;
+IV. Jefatura de Unidad de Recursos de Generación;
 
-VII. Gerencia de Planeación Operativa;
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2016)</small>
 
-VIII. Gerencia de Estudios Eléctricos;
+V. Jefatura de Unidad de Pronósticos de Crecimiento de la Demanda;
 
-IX. Gerencia de Soporte a la Operación;
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2016)</small>
 
-X. Gerencia de Operación Financiera,
+VI. Jefatura de Unidad de Estudios de Interconexión;
 
-XI. Gerencia de Contabilidad;
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2016)</small>
 
-XII. Gerencia de Recursos Humanos;
+VII. Jefatura de Unidad de Planeación Operativa;
 
-XIII. Gerencia de Adquisiciones y Servicios;
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2016)</small>
 
-XIV. Gerencia de Mercado Tiempo Real y Día en Adelanto;
+VIII. Jefatura de Unidad de Estudios Eléctricos;
 
-XV. Gerencia de Planeación y Derechos de Transmisión;
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2016)</small>
 
-XVI. Gerencia de Conciliación y Facturación;
+IX. Jefatura de Unidad de Soporte a la Operación;
 
-XVII. Gerencia de Medición;
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2016)</small>
 
-XVIII. Gerencia de Servicio al Cliente;
+X. Jefatura de Unidad de Operación Financiera,
 
-XIX. Gerencia de Mercado y Desarrollo;
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2016)</small>
 
-XX. Gerencia de Comunicaciones;
+XI. Jefatura de Unidad de Contabilidad;
 
-XXI. Gerencia de Seguridad informática;
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2016)</small>
 
-XXII. Gerencia de Planeación de Tecnologías de Información;
+XII. Jefatura de Unidad de Recursos Humanos;
 
-XXIII. Gerencia de Aplicaciones;
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2016)</small>
 
-XXIV. Gerencia de Sistemas de Mercado;
+XIII. Jefatura de Unidad de Adquisiciones y Servicios;
 
-XXV. Gerencia de Sistemas de Control Tiempo Real;
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2016)</small>
 
-XXVI. Gerencia de Asuntos Internacionales;
+XIV. Jefatura de Unidad de Mercado Tiempo Real y Día en Adelanto;
 
-XXVII. Gerencia de Normalización;
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2016)</small>
 
-XXVIII. Gerencia de Estrategia;
+XV. Jefatura de Unidad de Planeación y Derechos de Transmisión;
 
-XXIX. Gerencia de Riesgos;
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2016)</small>
 
-XXX. Gerencia de Asuntos Contenciosos;
+XVI. Jefatura de Unidad de Conciliación y Facturación;
 
-XXXI. Gerencia de Asuntos Consultivos;
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2016)</small>
 
-XXXII. Gerencia de Contratos;
+XVII. Jefatura de Unidad de Medición;
 
-XXXIII. Gerencia de Comunicación Social;
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2016)</small>
 
-XXXIV. Gerencia de Relaciones Gubernamentales, y
+XVIII. Jefatura de Unidad de Servicio al Cliente;
+
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2016)</small>
+
+XIX. Jefatura de Unidad de Mercado y Desarrollo;
+
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2016)</small>
+
+XX. Jefatura de Unidad de Comunicaciones;
+
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2016)</small>
+
+XXI. Jefatura de Unidad de Seguridad informática;
+
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2016)</small>
+
+XXII. Jefatura de Unidad de Planeación de Tecnologías de Información;
+
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2016)</small>
+
+XXIII. Jefatura de Unidad de Aplicaciones;
+
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2016)</small>
+
+XXIV. Jefatura de Unidad de Sistemas de Mercado;
+
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2016)</small>
+
+XXV. Jefatura de Unidad de Sistemas de Control Tiempo Real;
+
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2016)</small>
+
+XXVI. Jefatura de Unidad de Asuntos Internacionales;
+
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2016)</small>
+
+XXVII. Jefatura de Unidad de Normalización;
+
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2016)</small>
+
+XXVIII. Jefatura de Unidad de Estrategia;
+
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2016)</small>
+
+XXIX. Jefatura de Unidad de Riesgos;
+
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2016)</small>
+
+XXX. Jefatura de Unidad de Asuntos Contenciosos;
+
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2016)</small>
+
+XXXI. Jefatura de Unidad de Asuntos Consultivos;
+
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2016)</small>
+
+XXXII. Jefatura de Unidad de Contratos;
+
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2016)</small>
+
+XXXIII. Jefatura de Unidad de Comunicación Social;
+
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2016)</small>
+
+XXXIV. Jefatura de Unidad de Relaciones Gubernamentales, y
 
 XXXV. Gerencias de Control Regional: Baja California, Noroeste, Norte, Noreste, Oriental, Occidental, Central y Peninsular.
 
@@ -821,11 +889,15 @@ II. Identificar los participantes del mercado eléctrico beneficiados con la exp
 
 III. Evaluar el impacto económico a los usuarios por los proyectos de generación y transmisión.
 
-### CAPÍTULO VI. De las Gerencias del Corporativo
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 27 DE ENERO DE 2016)</small>
+
+### CAPÍTULO VI. De las Jefaturas de Unidad del Corporativo
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE ENERO DE 2016)</small>
 
 ###### ARTÍCULO 35.
 
-A cargo de cada Gerencia del Corporativo habrá un Gerente quien, en el ámbito de su competencia, tendrá las facultades genéricas siguientes:
+A cargo de cada Jefatura de Unidad del Corporativo habrá un Jefe de Unidad, quien en el ámbito de su competencia, tendrá las facultades genéricas siguientes:
 
 I. Organizar y supervisar el funcionamiento de las áreas administrativas adscritas;
 
@@ -843,7 +915,9 @@ VII. Proporcionar la información solicitada por autoridad competente o por unid
 
 VIII. Resolver los recursos administrativos que se interpongan en la esfera de su competencia;
 
-IX. Asegurar el buen uso y preservar los bienes asignados a la Gerencia a su cargo, y
+> <small>(REFORMADA, D.O.F. 27 DE ENERO DE 2016)</small>
+
+IX. Asegurar el buen uso y preservar los bienes asignados a la Jefatura de Unidad a su cargo, y
 
 X. Las demás que les confieran el Consejo de Administración, el Director General, los ordenamientos aplicables y las que correspondan a las unidades administrativas que de ellas dependan.
 
@@ -903,13 +977,17 @@ El CENACE contará con un Órgano Interno de Control, al frente del cual estará
 
 Durante las ausencias del Director General, el despacho y resolución de los asuntos correspondientes estará a cargo de cada uno de los Directores y del Abogado General en la esfera de sus facultades.
 
-En los juicios de amparo en que el Director General deba intervenir, así como en cualquier otro procedimiento jurisdiccional o contencioso-administrativo, contestación de demandas e interposición de los Recursos de Revisión a que se refiere la Ley Federal de Procedimiento Contencioso Administrativo será representado o suplido, indistintamente, por el Abogado General o el Gerente de Asuntos Contenciosos y, en materia laboral, además de los anteriores por el Director de Administración y Finanzas o el Gerente de Asuntos Contenciosos.
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2016)</small>
+
+En los juicios de amparo en que el Director General deba intervenir, así como en cualquier otro procedimiento jurisdiccional o contencioso-administrativo, contestación de demandas e interposición de los Recursos de Revisión a que se refiere la Ley Federal de Procedimiento Contencioso Administrativo será representado o suplido, indistintamente, por el Abogado General o el Jefe de Unidad de Asuntos Contenciosos y, en materia laboral, además de los anteriores por el Director de Administración y Finanzas o el Jefe de Unidad de Asuntos Contenciosos.
+
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2016)</small>
 
 ###### ARTÍCULO 42.
 
-Los Directores y el Abogado General serán suplidos, indistintamente, por los Subdirectores, Coordinadores o Gerentes que de ellos dependan.
+Los Directores y el Abogado General serán suplidos, indistintamente, por los Subdirectores, Coordinadores o Jefes de Unidad que de ellos dependan.
 
-Los Subdirectores y los Coordinadores serán suplidos, indistintamente, por los Gerentes que de ellos dependan.
+Los Subdirectores y los Coordinadores serán suplidos, indistintamente, por los Jefes de Unidad que de ellos dependan.
 
 ###### ARTÍCULO 43.
 
@@ -924,3 +1002,13 @@ SEGUNDO.- El presente Estatuto Orgánico deberá inscribirse en el Registro Púb
 Este Estatuto fue expedido y aprobado por el Consejo de Administración del Centro Nacional de Control de Energía (CENACE), Organismo Público Descentralizado de la Administración Pública Federal, en su segunda sesión, celebrada el día 27 de noviembre de 2014, mediante acuerdo número CA-008/2014-02, con fundamento en lo dispuesto en los artículos 15 segundo párrafo y 58 fracción VIII de la Ley Federal de Entidades Paraestatales y en cumplimiento del Cuarto Transitorio del Decreto de su creación. Dicho Consejo encomendó a la Administración realizar las gestiones necesarias para su publicación en el Diario Oficial de la Federación.
 
 México, Distrito Federal, a 2 de marzo de 2015.- Con fundamento en el artículo 59, fracción XII, de la Ley Federal de las Entidades Paraestatales y en cumplimiento al Acuerdo número CA-008/2014-02, emitido por el Consejo de Administración en su segunda sesión, celebrada el día 27 de noviembre de 2014, firma el Director General del Centro Nacional de Control de Energía (CENACE), Eduardo Meraz Ateca.- Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+D.O.F. 27 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “MODIFICACIÓN AL ESTATUTO ORGÁNICO DEL CENTRO NACIONAL DE CONTROL DE ENERGÍA”.]
+
+PRIMERO.- La presente modificación al Estatuto Orgánico entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La modificación en comento deberá inscribirse en el Registro Público de Organismos Descentralizados, en los términos del penúltimo párrafo del artículo 15 de la Ley Federal de las Entidades Paraestatales.
