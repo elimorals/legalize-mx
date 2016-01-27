@@ -4,7 +4,7 @@ identifier: "CHH-ley-del-instituto-municipal-de-pensiones-del-estado-de-110827"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-26"
-last_updated: "2016-01-23"
+last_updated: "2016-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110827&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,27 +21,15 @@ state: "CHH"
 ---
 # LEY DEL INSTITUTO MUNICIPAL DE PENSIONES DEL ESTADO DE CHIHUAHUA
 
-LEY DEL INSTITUTO MUNICIPAL DE PENSIONES DEL ESTADO DE CHIHUAHUA
+LEY DE INGRESOS PARA EL MUNICIPIO DE JACALA DE LEDEZMA, HIDALGO, CORRESPONDIENTE AL EJERCICIO FISCAL 2020
 
 TEXTO ORIGINAL.
 
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 23 DE ENERO DE 2016.</small>
+Ley publicada en el Alcance Treinta del Periódico Oficial del Estado de Hidalgo, el martes 31 de diciembre de 2019.
 
-Ley publicada en el Periódico Oficial del Estado de Chihuahua, el sábado 26 de diciembre de 2015.
+> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
 
-EL CIUDADANO LICENCIADO CÉSAR HORACIO DUARTE JÁQUEZ, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, A SUS HABITANTES SABED:
-
-QUE EL HONORABLE CONGRESO DEL ESTADO SE HA SERVIDO EXPEDIR EL SIGUIENTE
-
-DECRETO:
-
-DECRETO No.
-
-1137/2015 I P.O.
-
-LA SEXAGÉSIMA CUARTA LEGISLATURA DEL HONORABLE CONGRESO DEL ESTADO DE CHIHUAHUA, REUNIDA EN SU PRIMER PERÍODO ORDINARIO DE SESIONES, DENTRO DEL TERCER AÑO DE EJERCICIO CONSTITUCIONAL,
-
-DECRETA
+(NOTA: EL 29 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 104/2020, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
 ###### ARTÍCULO ÚNICO.
 
@@ -187,9 +175,21 @@ V. El importe de prestaciones no reclamadas por los interesados, respecto de las
 
 VI. Cualquier otra aportación.
 
-###### ARTÍCULO 10.
+###### Artículo 10.
 
-Los trabajadores realizarán una contribución al Instituto, equivalente al 12.8% de su sueldo de cotización; el Municipio y los organismos descentralizados municipales que se incorporen, efectuarán una aportación equivalente al 15% del sueldo de cotización del trabajador.
+Los derechos por servicio de alumbrado público, se regulan por lo dispuesto en los artículos 62 al 66 de la Ley de Hacienda para los Municipios del Estado de Hidalgo; considerando para la determinación de este derecho lo establecido en el convenio que para tal efecto celebre el Municipio con la Comisión Federal de Electricidad, o con cualquier otro prestador de servicio, y en el que se determinarán, de conformidad con la legislación federal aplicable, los elementos de contribución.
+
+En tanto no se haya celebrado el convenio correspondiente que contenga los elementos de esta contribución, aplicarán las siguientes tasas:
+
+Tasa fija
+
+Uso doméstico. 5.0%
+
+Uso comercial. 5.0%
+
+Uso industrial. 1.5%
+
+(NOTA: EL 29 DE OCTUBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 104/2020, DECLARÓ LA INVALIDEZ DE LAS PORCIONES NORMATIVAS DE ESTE ARTÍCULO INDICADAS CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE NOVIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA https://www.scjn.gob.mx/).
 
 ###### ARTÍCULO 11.
 
@@ -379,9 +379,85 @@ El último sueldo devengado para efectos de fijar el monto de la pensión, se de
 
 Toda fracción de más de seis meses de servicio se considerará como año completo.
 
-###### ARTÍCULO 35.
+###### Artículo 35.
 
-El trabajador que se inhabilite física o mentalmente por causas de trabajo, en forma total y permanente, independientemente de los años de servicio, tendrá derecho a recibir una pensión por invalidez.
+Los productos se determinarán y pagarán de acuerdo con lo establecido por los artículos 188 al 191 de la Ley de Hacienda para los Municipios del Estado de Hidalgo.
+
+Arrendamiento de bienes muebles e inmuebles propiedad del Municipio.
+
+Cuota fija $
+
+Uso de plazas y pisos en las calles, pasajes
+
+y lugares públicos. (Tarifa por día por m2) 6.80
+
+Uso de plazas y pisos en las calles
+
+y lugares públicos en festividades. (Por metro) 6.80
+
+Locales situados en el interior y exterior de los
+
+mercados. (Tarifa mensual). N/A
+
+Planchas situadas en el interior y exterior de los
+
+mercados. (Tarifa mensual). N/A
+
+Puestos de tianguis fijos. (Tarifa mensual). 85.70
+
+Estacionamiento en la vía pública. (Expedición de
+
+permisos de carga y descarga cuota por día) N/A
+
+Arrendamiento de terrenos, montes, pastos y demás
+
+bienes del Municipio. (m2 por mes). N/A
+
+Para los conceptos antes mencionados, se cobrará conforme a las estipulaciones que se acuerden en los contratos celebrados al respecto o en los términos de las concesiones respectivas, de conformidad con las leyes o disposiciones aplicables.
+
+Establecimientos y empresas del Municipio.
+
+Expedición en copia simple o certificada, o reproducción de la información en dispositivos de almacenamiento, derivado del ejercicio del derecho de acceso a la información, aplicando las siguientes cuotas:
+
+Cuota fija $
+
+EXPEDICIÓN DE HOJAS SIMPLES, POR CADA HOJA 3.20
+
+Copia certificada 6.60
+
+DISCO COMPACTO 12.40
+
+COPIA DE PLANOS 76.70
+
+COPIA CERTIFICADA DE PLANOS 76.70
+
+Asistencia Social
+
+Cuota fija $
+
+Consulta Médica General 30.00
+
+Desayunos fríos 0.50
+
+Dotación Alimentaria Menores de Cinco Años en Riesgo 14.00
+
+Dotación Alimentaria Adultos Mayores de 60 Años 10.00
+
+Cuota de Recuperación UBR 20.00
+
+Dieta para Público en General 25.00
+
+Dieta Niños (EAEyD) 4.50
+
+Dieta Adultos (EAEyD) 6.50
+
+La explotación o enajenación de cualquier naturaleza de los bienes propiedad del Municipio.
+
+Venta de bienes muebles e inmuebles propiedad del Municipio.
+
+Los capitales y valores del Municipio y sus rendimientos.
+
+Los bienes de beneficencia.
 
 ###### ARTÍCULO 36.
 
