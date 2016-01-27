@@ -4,7 +4,7 @@ identifier: "CHH-constitucion-politica-del-estado-libre-y-soberano-de-4560"
 country: "mx"
 rank: "constitucion"
 publication_date: "1950-06-17"
-last_updated: "2016-01-23"
+last_updated: "2016-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=4560&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "CHH"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE DICIEMBRE DE 2015.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 23 DE ENERO DE 2016.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2016.
 
 Constitución publicada en el suplemento al Periódico Oficial del Estado de Chihuahua, el sábado 17 de junio de 1950.
 
@@ -495,11 +493,9 @@ Los partidos políticos y los candidatos independientes en ningún momento podr�
 
 Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor ni en contra de partidos políticos o de candidatos a cargos de elección popular. Queda prohibida la transmisión en el territorio de Chihuahua de este tipo de mensajes contratados en el extranjero.
 
-(NOTA: EL 26 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2015 Y SUS ACUMULADAS 72/2015 Y 82/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO TERCERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
-
-En la propaganda política o electoral que difundan los partidos políticos y candidatos independientes, así como los actos tendentes a recabar el apoyo ciudadano de estos últimos, deberán abstenerse de expresiones que DENIGREN A LAS INSTITUCIONES Y A LOS PROPIOS PARTIDOS, O que calumnien a las personas.
+En la propaganda política o electoral que difundan los partidos políticos y candidatos independientes, así como los actos tendentes a recabar el apoyo ciudadano de estos últimos, deberán abstenerse de expresiones que calumnien a las personas
 
 > <small>(ADICIONADO, P.O. 15 DE NOVIEMBRE DE 2008)</small>
 
@@ -631,45 +627,29 @@ A solicitud del Instituto Estatal Electoral, el Instituto Nacional Electoral asu
 
 > <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 8 DE AGOSTO DE 2015)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
 ###### Art. 37.
 
 El Tribunal Estatal Electoral es el órgano especializado de legalidad y plena jurisdicción en la materia electoral, que goza de autonomía técnica y de gestión en su funcionamiento e independiente en sus decisiones, con patrimonio propio, que deberá cumplir sus funciones bajo los principios de certeza, imparcialidad, objetividad, legalidad y probidad. Se compondrá de cinco magistrados que deberán satisfacer los requisitos que establece la Ley General de la materia.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
-
 Los Magistrados serán designados de forma escalonada en los términos que establece el artículo 116, fracción IV, inciso c), de la Constitución Política de los Estados Unidos Mexicanos y la Ley General de la materia.
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
 Los Magistrados del Tribunal Estatal Electoral durarán en su encargo siete años. Recibirán remuneración igual a la que perciben los Magistrados del Tribunal Superior Justicia del Estado.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
-
 Corresponde al Tribunal Estatal Electoral resolver en forma definitiva e inatacable las impugnaciones que se presenten en materia electoral, de referéndum y plebiscito, así como las que se interpongan contra las declaraciones de validez y el otorgamiento de constancias de mayoría y de asignación, sin perjuicio de las atribuciones del Instituto Nacional Electoral en los términos de la Ley General de la materia.
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
 En la elección de Gobernador, el Instituto Estatal Electoral dará cuenta al Congreso de la declaratoria de validez y de la constancia de mayoría que hubiere expedido, y en caso de impugnación el Tribunal Estatal Electoral dará cuenta al Congreso de su resolución para que éste, mediante formal decreto haga la declaratoria de Gobernador electo, que a su vez turnará al Ejecutivo para su publicación en el Periódico Oficial del Estado. Si el Ejecutivo o el Congreso no cumplieren en el término que la Ley señale, el Instituto Estatal Electoral o el Tribunal Estatal Electoral, en caso de impugnación ordenarán la publicación de la mencionada declaratoria en el Periódico Oficial.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
-
 El Tribunal Estatal Electoral funcionará en pleno durante los procesos electorales, los plebiscitarios y de referéndum; podrán establecerse salas regionales. La Ley establecerá la forma de su organización y funcionamiento.
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
 
 Concluido cada proceso electoral, el Tribunal Estatal Electoral presentará al Congreso y hará público un informe del desempeño de sus funciones.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
-
 El Tribunal Estatal Electoral hará uso de los medios de apremio necesarios para hacer cumplir de manera expedita sus sentencias y resoluciones, en los términos que fije la ley.
 
-(NOTA: EL 26 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2015 Y SUS ACUMULADAS 72/2015 Y 82/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO ÚLTIMO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
-
-El Tribunal Estatal Electoral sólo podrá declarar la nulidad de una elección por las causales expresamente establecidas en las leyes Y FUERA DE LAS CAUSALES GRAVES, DOLOSAS Y DETERMINANTES QUE CORRESPONDA RESOLVER AL TRIBUNAL ELECTORAL DEL PODER JUDICIAL DE LA FEDERACIÓN.
+El Tribunal Estatal Electoral sólo podrá declarar la nulidad de una elección por las causales expresamente establecidas en las leyes.
 
 > <small>(REFORMADO, P.O. 15 DE NOVIEMBRE DE 2008)</small>
 
@@ -691,53 +671,27 @@ DEL PODER LEGISLATIVO.
 
 DE LA ORGANIZACION DEL CONGRESO.
 
-(NOTA: EL 26 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO QUINTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2015 Y SUS ACUMULADAS 72/2015 Y 82/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-> <small>(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1997)</small>
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2016)</small>
 
 ###### Art. 40.
 
-El Congreso se integrará con representantes del pueblo de Chihuahua, electos como Diputados en su totalidad cada tres años. Por cada diputado propietario se elegirá un suplente.
+El Congreso se integrará con representantes del pueblo de Chihuahua, electos como diputados en su totalidad cada tres años. Por cada diputado propietario se elegirá un suplente.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
+El Congreso se compondrá de treinta y tres diputados, de los cuales veintidós serán electos en distritos electorales uninominales, según el principio de mayoría relativa, y once por el principio de representación proporcional. Los diputados de mayoría relativa y los de representación proporcional, tendrán la misma categoría e iguales derechos y obligaciones.
 
-El Congreso del Estado se integra por veintidós diputados electos por el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales, y once diputados electos según el principio de representación proporcional, para lo cual, existirá una circunscripción plurinominal correspondiente al territorio de la Entidad. Podrán además asignarse hasta tres diputados plurinominales adicionales, para evitar que un partido político se ubique en la hipótesis de subrepresentación que prohíbe esta Constitución y a fin de garantizar la representación mínima a los partidos políticos que alcancen el umbral de votación exigido y demás requisitos que establezca la Ley. Los diputados de mayoría relativa y los de representación proporcional, tendrán la misma categoría e iguales derechos y obligaciones.
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
-
-Ningún partido político podrá contar con más de veintidós diputados por ambos principios. En ningún caso un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total del Congreso, sobre la base de 33 diputados, que exceda en ocho puntos a su porcentaje de votación estatal válida emitida. Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total del Congreso, superior a la suma del porcentaje de su votación estatal emitida, más el ocho por ciento.
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
-
-Asimismo, en la integración total de la legislatura, sobre la base de 33 diputados, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación estatal válida emitida que hubiere recibido menos ocho puntos porcentuales.
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
+Ningún partido político podrá contar con más de veintidós diputados por ambos principios. En ningún caso un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total del Congreso, sobre la base de 33 diputados, que exceda en ocho puntos a su porcentaje de votación estatal válida emitida. Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total del Congreso, superior a la suma del porcentaje de su votación estatal emitida, más el ocho por ciento. Asimismo, en la integración total de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación estatal válida emitida que hubiere recibido menos ocho puntos porcentuales.
 
 Si un partido político alcanzara las 22 diputaciones por mayoría relativa, para poder adicionarse o reformarse la Constitución del Estado, se requerirá el voto de cuando menos 23 de los Diputados.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
-
 Para la asignación de diputados electos por el principio de representación proporcional, cada partido político deberá registrar una lista de seis fórmulas de candidatos propietarios y suplentes, la cual no podrá contener entre propietarios y suplentes más del 50% de candidatos de un mismo género.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
+Sólo se asignarán diputaciones de representación proporcional a los partidos políticos que postularon candidatos de mayoría relativa en catorce o más distritos electorales uninominales y hayan alcanzado cuando menos el 3% de la votación estatal válida emitida.
 
-Sólo se asignarán diputaciones de representación proporcional a los partidos políticos que postularon candidatos de mayoría relativa en catorce ó más distritos electorales uninominales y hayan alcanzado cuando menos el 2% de la votación estatal válida emitida.
+Las diputaciones de representación proporcional se distribuirán mediante rondas de asignación entre los partidos políticos con derecho a ello, atendiendo al orden decreciente del porcentaje de votación obtenido por cada uno de ellos de la votación estatal válida emitida.
 
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
+En una primera ronda, se asignará una diputación a cada partido político que haya obtenido por lo menos el 3% de la votación estatal válida emitida. Si aún quedaren diputaciones por asignar, en una segunda ronda se otorgará otra diputación a cada partido político que haya obtenido más del 5% de la votación. Si aún quedaren diputaciones por asignar, en una tercera ronda se otorgará otra diputación a cada partido político que haya obtenido más del 10% de la votación. Si aún quedaren diputaciones por asignar, en una cuarta ronda se asignará otra diputación a cada partido político que haya obtenido más del 20% de la votación. Si agotado este procedimiento, aún quedaren diputaciones por asignar, éstas se otorgarán por rondas de asignación, de una en una y en orden decreciente del porcentaje de votación obtenido por los partidos políticos hasta agotar su totalidad.
 
-Las primeras once diputaciones de representación proporcional se distribuirán mediante rondas de asignación entre los partidos políticos con derecho a ello, atendiendo al orden decreciente del porcentaje de votación obtenido por cada uno de ellos de la votación estatal válida emitida.
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
-
-En una primera ronda, se asignará una diputación a cada partido político que haya obtenido por lo menos el 2% de la votación estatal válida emitida. Si aún quedaren diputaciones por asignar, en una segunda ronda se otorgará otra diputación a cada partido político que haya obtenido más del 5%. Si aún quedaren diputaciones por asignar, en una tercera ronda se otorgará otra diputación a cada partido político que haya obtenido más del 10%. Si aún quedaren diputaciones por asignar, en una cuarta ronda se asignará otra diputación a cada partido político que haya obtenido más del 20% de la votación. Si agotado este procedimiento, aún quedaren diputaciones por asignar, estas se otorgarán por rondas de asignación, de una en una y en orden decreciente del porcentaje de votación obtenido por los partidos políticos hasta agotar su totalidad.
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
-
-Las diputaciones de representación proporcional que correspondan a cada partido político se asignarán alternada y sucesivamente: utilizando el sistema de listas previamente registradas por los partidos políticos para tal efecto y atendiendo a los más altos porcentajes obtenidos en su distrito por cada uno de los candidatos del mismo partido político, de la votación estatal válida emitida, en los términos que se establezcan en la Ley.
-
-> <small>(REFORMADO, P.O. 8 DE AGOSTO DE 2015)</small>
-
-Si agotado este procedimiento, un partido político quedara subrepresentado conforme a lo previsto en este artículo, se hará uso de los diputados plurinominales adicionales, sólo en la medida necesaria para evitar el margen de ocho puntos de subrepresentación al que se hace alusión. Una vez asignado el diputado o diputados plurinominales para compensar la subrepresentación, no se volverá a realizar el recálculo de la misma, ni realizar asignación alguna.
+Las diputaciones de representación proporcional que correspondan a cada partido político se asignarán alternada y sucesivamente: en primer lugar, utilizando el sistema de listas previamente registradas por los partidos políticos para tal efecto y, en segundo lugar, atendiendo a los más altos porcentajes de la votación estatal válida emitida obtenidos en su distrito por cada uno de los candidatos del mismo partido político, en los términos que se establezcan en la Ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE ENERO DE 1979)</small>
 
@@ -4398,3 +4352,13 @@ Conforme lo dispone el Artículo 202 de la Constitución Política del Estado, e
 ###### ARTÍCULO SEGUNDO.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 27 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 1329/2016 XIII P.E., MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 27 TER, PÁRRAFO TERCERO; 37, PÁRRAFO ÚLTIMO; Y 40, TODOS ELLOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA; POR EXTENSIÓN DE LOS RESOLUTIVOS A LAS ACCIONES DE INCONSTITUCIONALIDAD 67/2015 Y SUS ACUMULADAS 72/2015 Y 82/2015, Y 92/2015 Y SUS ACUMULADAS 94/2015 Y 96/2015, Y EN VÍA DE CONSECUENCIA, SE REFORMAN Y DEROGAN DIVERSOS PRECEPTOS DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA".]
+
+PRIMERO.- Las declaraciones de invalidez decretadas en los resolutivos que recaen a las acciones de inconstitucionalidad 67/2015 y sus acumuladas 72/2015 y 82/2015, y 92/2015 y sus acumuladas 94/2015 y 96/2015, y contenidas en el presente Decreto, surtieron sus efectos a partir de su notificación al Congreso del Estado de Chihuahua, el día 30 de noviembre del año 2015, por ello, ordénese su publicación de manera urgente en el Periódico Oficial del Estado.
+
+SEGUNDO.- Notifíquese de manera inmediata del cumplimiento de los resolutivos de las sentencias de las acciones de inconstitucionalidad expresadas en el artículo transitorio anterior a la Suprema Corte de Justicia de la Nación.
+
+TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
