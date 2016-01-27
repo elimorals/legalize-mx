@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2015-07-10"
+last_updated: "2016-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2016.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -828,6 +828,14 @@ La ley establecerá las bases de organización y funcionamiento del Sistema Naci
 
 Los miembros de la Junta de Gobierno sólo podrán ser removidos por causa grave y no podrán tener ningún otro empleo, cargo o comisión, con excepción de los no remunerados en instituciones docentes, científicas, culturales o de beneficencia; y estarán sujetos a lo dispuesto por el Título Cuarto de esta Constitución.
 
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2016)</small>
+
+El organismo calculará en los términos que señale la ley, el valor de la Unidad de Medida y Actualización que será utilizada como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía del pago de las obligaciones y supuestos previstos en las leyes federales, de las entidades federativas y del Distrito Federal, así como en las disposiciones jurídicas que emanen de todas las anteriores.
+
+> <small>(ADICIONADO, D.O.F. 27 DE ENERO DE 2016)</small>
+
+Las obligaciones y supuestos denominados en Unidades de Medida y Actualización se considerarán de monto determinado y se solventarán entregando su equivalente en moneda nacional. Al efecto, deberá multiplicarse el monto de la obligación o supuesto, expresado en las citadas unidades, por el valor de dicha unidad a la fecha correspondiente.
+
 > <small>(ADICIONADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
 C. El Estado contará con un Consejo Nacional de Evaluación de la Política de Desarrollo Social, que será un órgano autónomo, con personalidad jurídica y patrimonio propios, a cargo de la medición de la pobreza y de la evaluación de los programas, objetivos, metas y acciones de la política de desarrollo social, así como de emitir recomendaciones en los términos que disponga la ley, la cual establecerá las formas de coordinación del órgano con las autoridades federales, locales y municipales para el ejercicio de sus funciones.
@@ -1456,7 +1464,9 @@ II. La ley garantizará que los partidos políticos nacionales cuenten de manera
 
 El financiamiento público para los partidos políticos que mantengan su registro después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, las tendientes a la obtención del voto durante los procesos electorales y las de carácter específico. Se otorgará conforme a lo siguiente y a lo que disponga la ley:
 
-a) El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, multiplicando el número total de ciudadanos inscritos en el padrón electoral por el sesenta y cinco por ciento del salario mínimo diario vigente para el Distrito Federal. El treinta por ciento de la cantidad que resulte de acuerdo a lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria y el setenta por ciento restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior.
+> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2016)</small>
+
+a) El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, multiplicando el número total de ciudadanos inscritos en el padrón electoral por el sesenta y cinco por ciento del valor diario de la Unidad de Medida y Actualización. El treinta por ciento de la cantidad que resulte de acuerdo a lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria y el setenta por ciento restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior.
 
 b) El financiamiento público para las actividades tendientes a la obtención del voto durante el año en que se elijan Presidente de la República, senadores y diputados federales, equivaldrá al cincuenta por ciento del financiamiento público que le corresponda a cada partido político por actividades ordinarias en ese mismo año; cuando sólo se elijan diputados federales, equivaldrá al treinta por ciento de dicho financiamiento por actividades ordinarias.
 
@@ -4508,11 +4518,15 @@ IV.- Por cada seis días de trabajo deberá disfrutar el operario de un día de 
 
 V.- Las mujeres durante el embarazo no realizarán trabajos que exijan un esfuerzo considerable y signifiquen un peligro para su salud en relación con la gestación; gozarán forzosamente de un descanso de seis semanas anteriores a la fecha fijada aproximadamente para el parto y seis semanas posteriores al mismo, debiendo percibir su salario íntegro y conservar su empleo y los derechos que hubieren adquirido por la relación de trabajo. En el período de lactancia tendrán dos descansos extraordinarios por día, de media hora cada uno para alimentar a sus hijos.
 
-> <small>(REFORMADA, D.O.F. 23 DE DICIEMBRE DE 1986)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE ENERO DE 2016)</small>
 
-VI.- Los salarios mínimos que deberán disfrutar los trabajadores serán generales o profesionales. Los primeros regirán en las áreas geográficas que se determinen; los segundos se aplicarán en ramas determinadas de la actividad económica o en profesiones, oficios o trabajos especiales.
+VI.- Los salarios mínimos que deberán disfrutar los trabajadores serán generales o profesionales. Los primeros regirán en las áreas geográficas que se determinen; los segundos se aplicarán en ramas determinadas de la actividad económica o en profesiones, oficios o trabajos especiales. El salario mínimo no podrá ser utilizado como índice, unidad, base, medida o referencia para fines ajenos a su naturaleza.
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1986)</small>
 
 Los salarios mínimos generales deberán ser suficientes para satisfacer las necesidades normales de un jefe de familia, en el orden material, social y cultural, y para proveer a la educación obligatoria de los hijos. Los salarios mínimos profesionales se fijarán considerando, además, las condiciones de las distintas actividades económicas.
+
+> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1986)</small>
 
 Los salarios mínimos se fijarán por una comisión nacional integrada por representantes de los trabajadores, de los patrones y del gobierno, la que podrá auxiliarse de las comisiones especiales de carácter consultivo que considere indispensables para el mejor desempeño de sus funciones.
 
@@ -7641,3 +7655,45 @@ SEGUNDO. El Congreso de la Unión deberá expedir la legislación en las materia
 La legislación a que se refiere el presente Transitorio deberá regular el Sistema Nacional de Búsqueda de Personas.
 
 TERCERO. La legislación en materia de desaparición forzada de personas, otras formas de privación de la libertad contrarias a la ley, tortura y otros tratos o penas crueles, inhumanos o degradantes de las entidades federativas y de la Federación, continuará en vigor hasta en tanto entren en vigor las leyes generales que expida el Congreso de la Unión referidas en el Transitorio anterior. Los procesos penales iniciados con fundamento en dicha legislación, así como las sentencias emitidas con base en la misma, no serán afectados por la entrada en vigor de dichas leyes generales. Por lo tanto, deberán concluirse y ejecutarse, respectivamente, conforme las disposiciones vigentes antes de la entrada en vigor de estas últimas.
+
+D.O.F. 27 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DECLARA REFORMADAS Y ADICIONADAS DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO”.]
+
+Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+
+Segundo.- El valor inicial diario de la Unidad de Medida y Actualización, a la fecha de entrada en vigor del presente Decreto será equivalente al que tenga el salario mínimo general vigente diario para todo el país, al momento de la entrada en vigor del presente Decreto y hasta que se actualice dicho valor conforme al procedimiento previsto en el artículo quinto transitorio.
+
+El valor inicial mensual de la Unidad de Medida y Actualización a la fecha de entrada en vigor del presente Decreto, será producto de multiplicar el valor inicial referido en el párrafo anterior por 30.4. Por su parte, el valor inicial anual será el producto de multiplicar el valor inicial mensual por 12.
+
+Tercero.- A la fecha de entrada en vigor del presente Decreto, todas las menciones al salario mínimo como unidad de cuenta, índice, base, medida o referencia para determinar la cuantía de las obligaciones y supuestos previstos en las leyes federales, estatales, del Distrito Federal, así como en cualquier disposición jurídica que emane de todas las anteriores, se entenderán referidas a la Unidad de Medida y Actualización.
+
+Cuarto.- Sin perjuicio de lo dispuesto en el artículo transitorio anterior, el Congreso de la Unión, las Legislaturas de los Estados, la Asamblea Legislativa del Distrito Federal, así como las Administraciones Públicas Federal, Estatales, del Distrito Federal y Municipales deberán realizar las adecuaciones que correspondan en las leyes y ordenamientos de su competencia, según sea el caso, en un plazo máximo de un año contado a partir de la entrada en vigor de este Decreto, a efecto de eliminar las referencias al salario mínimo como unidad de cuenta, índice, base, medida o referencia y sustituirlas por las relativas a la Unidad de Medida y Actualización.
+
+Quinto.- El Congreso de la Unión deberá emitir la legislación reglamentaria para determinar el valor de la Unidad de Medida y Actualización, dentro de un plazo que no excederá de 120 días naturales siguientes a la fecha de publicación del presente Decreto.
+
+En tanto se promulga esta ley, se utilizará el siguiente método para actualizar el valor de la Unidad de Medida y Actualización:
+
+I. El valor diario se determinará multiplicando el valor diario de la Unidad de Medida y Actualización del año inmediato anterior por el resultado de la suma de uno más la variación interanual del Índice Nacional de Precios al Consumidor del mes de diciembre del año inmediato anterior.
+
+II. El valor mensual será el producto de multiplicar el valor diario de la Unidad de Medida y Actualización por 30.4.
+
+III. El valor anual será el producto de multiplicar el valor mensual de la Unidad de Medida y Actualización por 12.
+
+Así mismo la ley deberá prever la periodicidad, atendiendo al principio de anualidad, con que se deberá publicar la actualización de la Unidad de Medida y Actualización en el Diario Oficial de la Federación, así como los mecanismos de ajuste que en su caso procedan.
+
+El valor inicial previsto en el segundo transitorio del presente Decreto, se actualizará conforme al procedimiento que se establezca una vez que se realicen las adecuaciones legales correspondientes.
+
+Sexto.- Los créditos vigentes a la entrada en vigor del presente Decreto cuyos montos se actualicen con base al salario mínimo y que hayan sido otorgados por el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, el Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado u otras instituciones del Estado dedicadas al otorgamiento de crédito para la vivienda, continuarán actualizándose bajo los términos y condiciones que hayan sido estipulados.
+
+Sin perjuicio de lo señalado en el párrafo anterior, en el evento de que el salario mínimo se incremente por encima de la inflación, las referidas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
+
+Las instituciones a que se refiere el primer párrafo podrán, a partir de la entrada en vigor de este Decreto y hasta 720 días naturales posteriores a la entrada en vigor del mismo, seguir otorgando créditos a la vivienda que se referencien o actualicen con base al salario mínimo. En el evento de que el salario mínimo se incremente por encima de la inflación, las citadas instituciones no podrán actualizar el saldo en moneda nacional de este tipo de créditos a una tasa que supere el crecimiento porcentual de la Unidad de Medida y Actualización durante el mismo año.
+
+El órgano de gobierno de cada institución podrá determinar el mecanismo más adecuado para implementar lo dispuesto en el presente artículo transitorio.
+
+Séptimo.- Los contratos y convenios de cualquier naturaleza, vigentes a la fecha de entrada en vigor de este Decreto que utilicen el salario mínimo como referencia para cualquier efecto, no se modificarán por la Unidad de Medida y Actualización, salvo que las partes acuerden expresamente lo contrario. Lo anterior, sin perjuicio de que, a partir de la entrada en vigor de este Decreto, los contratantes puedan utilizar como índice o referencia a la Unidad de Medida y Actualización.
+
+Octavo.- En los créditos, garantías, coberturas y otros esquemas financieros otorgados o respaldados por el Fondo de Operación y Financiamiento Bancario a la Vivienda o por la Sociedad Hipotecaria Federal, S.N.C., Institución de Banca de Desarrollo, en los que para procurar la accesibilidad del crédito a la vivienda se haya previsto como referencia del incremento del saldo del crédito o sus mensualidades el salario mínimo, en beneficio de los acreditados, las citadas entidades deberán llevar a cabo los actos y gestiones necesarias para que el monto máximo de ese incremento en el periodo establecido, no sea superior a la inflación correspondiente. Asimismo, el órgano de gobierno de cada entidad podrá determinar el mecanismo más adecuado para implementar lo dispuesto en el presente artículo transitorio.
+
+Noveno.- Se abrogan todas las disposiciones que se opongan a lo establecido en el presente Decreto, excepto las disposiciones legales relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
