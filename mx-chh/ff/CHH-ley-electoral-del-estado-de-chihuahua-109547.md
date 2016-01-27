@@ -4,7 +4,7 @@ identifier: "CHH-ley-electoral-del-estado-de-chihuahua-109547"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-22"
-last_updated: "2015-08-22"
+last_updated: "2016-01-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109547&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ELECTORAL DEL ESTADO DE CHIHUAHUA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE ENERO DE 2016.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el sábado 22 de agosto de 2015.
 
@@ -229,9 +229,9 @@ El ejercicio del Poder Legislativo se deposita en una asamblea que se denomina C
 
 Artículo 11
 
-(NOTA: EL 26 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2015 Y SUS ACUMULADAS 72/2015 Y 82/2015, DECLARÓ EN VÍA DE CONSECUENCIA LA INVALIDEZ DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2016)</small>
 
-1) EL CONGRESO DEL ESTADO SE INTEGRA POR VEINTIDÓS DIPUTADOS ELECTOS POR EL PRINCIPIO DE MAYORÍA RELATIVA, MEDIANTE EL SISTEMA DE DISTRITOS ELECTORALES UNINOMINALES, Y ONCE DIPUTADOS ELECTOS SEGÚN EL PRINCIPIO DE REPRESENTACIÓN PROPORCIONAL, PARA LO CUAL, EXISTIRÁ UNA CIRCUNSCRIPCIÓN PLURINOMINAL CORRESPONDIENTE AL TERRITORIO DE LA ENTIDAD. PODRÁN ADEMÁS ASIGNARSE HASTA TRES DIPUTADOS PLURINOMINALES ADICIONALES, PARA EVITAR QUE UN PARTIDO POLÍTICO SE UBIQUE EN LA HIPÓTESIS DE SUBRREPRESENTACIÓN A QUE SE REFIERE EL ARTÍCULO 16, NUMERAL 2, DE ESTA LEY.
+1) El Congreso del Estado se integra por veintidós diputados electos por el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales, y once diputados electos según el principio de representación proporcional, para lo cual, existirá una circunscripción plurinominal correspondiente al territorio de la Entidad.
 
 2) La elección de los diputados de representación proporcional, se realizará conforme a las bases que establecen la Constitución Política del Estado y la presente Ley.
 
@@ -257,33 +257,35 @@ Artículo 14
 
 ### CAPÍTULO SEGUNDO. DE LA REPRESENTACIÓN PROPORCIONAL PARA LA INTEGRACIÓN DEL CONGRESO DEL ESTADO Y DE LAS FÓRMULAS DE ASIGNACIÓN
 
-(NOTA: EL 26 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2015 Y SUS ACUMULADAS 72/2015 Y 82/2015, DECLARÓ EN VÍA DE CONSECUENCIA LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
 Artículo 15
 
-1) Tendrán derecho a participar en la asignación de diputados, según el principio de representación proporcional, los partidos políticos que acrediten haber postulado candidatos a diputados por el principio de mayoría relativa en catorce o más distritos electorales y alcancen cuando menos el 2% del total de la votación estatal válida emitida.
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2016)</small>
+
+1) Tendrán derecho a participar en la asignación de diputados, según el principio de representación proporcional, los partidos políticos que acrediten haber postulado candidatos a diputados por el principio de mayoría relativa en catorce o más distritos electorales y alcancen cuando menos el 3% del total de la votación estatal válida emitida.
 
 2) Para los efectos del numeral anterior y para la aplicación de los artículos 40 de la Constitución Política del Estado y 17 de esta Ley, se entiende por votación total emitida a la suma total de los votos depositados en las urnas para diputados de mayoría relativa en el Estado.
 
 3) Para los efectos del numeral 1 del presente artículo, y para la aplicación del artículo 40, de la Constitución Política del Estado, se entiende por votación estatal válida emitida, para determinar los porcentajes de votación obtenida por los partidos políticos, a la que resulte de restar, a la votación total emitida, los votos a favor de candidatos independientes, los votos a favor de candidatos no registrados, así como los votos nulos.
 
-4) La determinación de los porcentajes para la asignación de curules a que se refiere el artículo 40 de la Constitución Política del Estado, se hará restando a la votación estatal válida emitida definida en el numeral anterior, la votación de aquellos partidos políticos y coaliciones que no alcanzaron el 2% de la misma.
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2016)</small>
 
-5) Para efectos de la asignación de diputados bajo el principio de representación proporcional y en los términos de los artículos 16 de esta Ley y 40 de la Constitución Política del Estado de Chihuahua, se entiende por votación estatal válida emitida, el total de los votos depositados en las urnas para diputados de mayoría relativa, menos los votos de candidatos independientes, los votos de candidatos no registrados, los votos nulos y los votos a favor de los partidos políticos que no hayan alcanzado el 2% de la votación referida en el numeral 3 de este artículo.
+4) La determinación de los porcentajes para la asignación de curules a que se refiere el artículo 40 de la Constitución Política del Estado, se hará restando a la votación estatal válida emitida definida en el numeral anterior, la votación de aquellos partidos políticos y coaliciones que no alcanzaron el 3% de la misma.
 
-(NOTA: EL 26 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2015 Y SUS ACUMULADAS 72/2015 Y 82/2015, DECLARÓ EN VÍA DE CONSECUENCIA LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2016)</small>
+
+5) Para efectos de la asignación de diputados bajo el principio de representación proporcional y en los términos de los artículos 16 de esta Ley y 40 de la Constitución Política del Estado de Chihuahua, se entiende por votación estatal válida emitida, el total de los votos depositados en las urnas para diputados de mayoría relativa, menos los votos de candidatos independientes, los votos de candidatos no registrados, los votos nulos y los votos a favor de los partidos políticos que no hayan alcanzado el 3% de la votación referida en el numeral 3 de este artículo.
 
 Artículo 16
 
 1) Ningún partido político podrá contar con más de veintidós diputados por ambos principios. En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total del Congreso que exceda en ocho puntos a su porcentaje de votación estatal válida emitida, referida en el numeral 5 del artículo 15 de esta Ley. Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total del Congreso, superior a la suma de su votación estatal válida emitida más ocho puntos.
 
-2) En la integración de la totalidad de la Legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación estatal valida emitida que hubiere recibido, menos ocho puntos porcentuales. Esta base se aplicará una vez que se hayan asignado los once diputados de representación proporcional conforme al procedimiento establecido en esta Ley, haciendo uso en su caso, hasta de tres diputados adicionales conforme a lo previsto en el artículo 11, numeral 1 de esta Ley.
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2016)</small>
+
+2) En la integración de la totalidad de la Legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación estatal válida emitida que hubiere recibido, menos ocho puntos porcentuales. Si al finalizar el procedimiento de asignación en términos del artículo siguiente, se presente un caso de subrepresentación, no podrá reasignarse una diputación plurinominal si con ello se provoca una afectación mayor en la representación proporcional de un partido político en comparación del que busca ser compensado para no estar subrepresentado.
 
 3) De la totalidad de solicitudes de registro de las candidaturas a diputados por el principio de mayoría relativa que presenten los partidos políticos o coaliciones ante el Instituto Estatal Electoral, deberán integrarse con el 50% de candidatos propietarios de un mismo género, lo que se observará igual con los suplentes. Se registrarán por fórmulas de candidatos compuestas cada una por un propietario y un suplente del mismo género.
 
 4) Las listas de registro de candidaturas a diputados por el principio de representación proporcional se integrarán por formulas de candidatos compuestas cada una por un propietario y un suplente del mismo género, y se alternarán las fórmulas de distinto género para garantizar el principio de paridad hasta agotar cada lista.
-
-(NOTA: EL 26 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SÉPTIMO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 67/2015 Y SUS ACUMULADAS 72/2015 Y 82/2015, DECLARÓ EN VÍA DE CONSECUENCIA LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
 
 Artículo 17
 
@@ -291,11 +293,13 @@ Artículo 17
 
 El incumplimiento de este precepto dará lugar a la negativa del registro de la referida lista, la que, en su caso, podrá subsanarse dentro del lapso de registro señalado para ese efecto.
 
-2) Las primeras once diputaciones de representación proporcional se distribuirán mediante rondas de asignación entre los partidos políticos con derecho a ello, atendiendo al orden decreciente del porcentaje de votación obtenido por cada uno de ellos de la votación estatal válida emitida, a que hace referencia el numeral 5, del artículo 15 de la presente Ley. En una primera ronda, se asignará una diputación a cada partido político que haya obtenido por lo menos el 2% de la votación antes mencionada. Si aún quedaren diputaciones por asignar, en una segunda ronda se otorgará otra diputación a cada partido político que haya obtenido más del 5%. Si aún quedaren diputaciones por asignar, en una tercera ronda se otorgará otra diputación a cada partido político que haya obtenido más del 10%. Si aún quedaren diputaciones por asignar, en una cuarta ronda se asignará otra diputación a cada partido político que haya obtenido más del 20%. Si agotado este procedimiento, aún quedaren diputaciones por asignar, éstas se otorgarán por rondas de asignación, de una en una y en orden decreciente del porcentaje de votación obtenido por los partidos políticos hasta agotar su totalidad.
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2016)</small>
+
+2) Para garantizar la pluralidad representativa en el Congreso del Estado, se asignará en una primera ronda una diputación a cada partido político que haya obtenido por lo menos el 3% de la votación estatal válida emitida. Si aún quedaren diputaciones por asignar, en una segunda ronda se otorgará otra diputación a cada partido político que haya obtenido más del 5% de la votación. Si aún quedaren diputaciones por asignar, en una tercera ronda se otorgará otra diputación a cada partido político que haya obtenido más del 10% de la votación. Si aún quedaren diputaciones por asignar, en una cuarta ronda se asignará otra diputación a cada partido político que haya obtenido más del 20% de la votación. Si agotado este procedimiento, aún quedaren diputaciones por asignar, éstas se otorgarán por rondas de asignación, de una en una y en orden decreciente del porcentaje de votación obtenido por los partidos políticos hasta agotar su totalidad.
 
 3) Las diputaciones de representación proporcional que correspondan a cada partido político se asignarán alternada y sucesivamente: en primer lugar, utilizando el sistema de listas previamente registradas por aquellos conforme a esta Ley, y, en segundo lugar, atendiendo a los más altos porcentajes obtenidos en su distrito por cada unos (sic) de los candidatos del mismo partido político, de la votación estatal válida emitida.
 
-4) Si agotado este procedimiento, un partido político quedara subrepresentado conforme a lo previsto en el numeral 2, del artículo 16 de esta Ley, se hará uso de los diputados plurinominales adicionales, solo en la medida necesaria para evitar el margen de ochos (sic) puntos de subrepresentación al que se ha hecho alusión. Una vez asignado el diputado o diputados plurinominales adicionales para compensar la subrepresentación, no se (sic) volverá a hacerse recálculo de la misma, ni asignación alguna.
+4) (DEROGADO, P.O. 27 DE ENERO DE 2016)
 
 ### CAPÍTULO TERCERO. DISPOSICIONES COMPLEMENTARIAS
 
@@ -731,9 +735,9 @@ Artículo 41
 
 Artículo 42
 
-(NOTA: EL 26 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 92/2015 Y SUS ACUMULADAS 94/2015 Y 96/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO 1 DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2016)</small>
 
-1) Los partidos políticos nacionales o estatales podrán aliarse o unirse con el fin de constituir frentes, así como COALICIONES TOTALES, PARCIALES O FLEXIBLES, en los términos de la Ley General de Partidos Políticos, legislación que será aplicable también para el caso de fusiones entre aquéllos.
+1) Los partidos políticos nacionales o estatales podrán aliarse o unirse con el fin de constituir frentes, en los términos de la Ley General de Partidos Políticos, legislación que será aplicable también para el caso de fusiones entre aquéllos.
 
 2) Sin perjuicio de lo dispuesto en el numeral anterior, los partidos políticos también podrán postular candidaturas comunes en términos de lo dispuesto por la presente Ley.
 
@@ -763,11 +767,11 @@ Artículo 44
 
 1) Al convenio de candidatura común deberá anexársele los siguientes documentos:
 
-(NOTA: EL 26 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 92/2015 Y SUS ACUMULADAS 94/2015 Y 96/2015, DECLARÓ LA INVALIDEZ DEL INCISO A) DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2016)</small>
 
-A) LA DOCUMENTACIÓN QUE ACREDITE QUE LOS PARTIDOS POLÍTICOS POSTULANTES DEL CANDIDATO COMÚN ENTREGARON EN TIEMPO Y FORMA SU PLATAFORMA ELECTORAL A LA AUTORIDAD ELECTORAL; Y
+a) Las actas que acrediten que los órganos internos de los partidos aprobaron de conformidad con sus estatutos, la firma del convenio de candidatura común para la elección que corresponda.
 
-b) Las actas que acrediten que los órganos internos de los partidos aprobaron de conformidad con sus estatutos, la firma del convenio de candidatura común para la elección que corresponda.
+b) (DEROGADO, P.O. 27 DE ENERO DE 2016)
 
 Artículo 45
 
@@ -783,9 +787,9 @@ Artículo 45
 
 Artículo 46
 
-(NOTA: EL 26 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 92/2015 Y SUS ACUMULADAS 94/2015 Y 96/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2016)</small>
 
-Los partidos político (sic) nacionales y locales de nuevo registro no podrán formar COALICIONES, fusiones o candidaturas comunes con otro partido político antes de la conclusión de la primera elección inmediata posterior a su registro.
+Los partidos políticos nacionales y locales de nuevo registro no podrán formar fusiones o candidaturas comunes con otro partido político antes de la conclusión de la primera elección inmediata posterior a su registro.
 
 # LIBRO TERCERO. DEL INSTITUTO ESTATAL ELECTORAL
 
@@ -941,9 +945,9 @@ Artículo 56
 
 3) La designación del Secretario Ejecutivo, se efectuará en la primera sesión a la que convoque el Consejero Presidente del Instituto Estatal Electoral, para llevar a cabo la instalación del Consejo Estatal.
 
-(NOTA: EL 26 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 92/2015 Y SUS ACUMULADAS 94/2015 Y 96/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO 4 DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2016)</small>
 
-4) El cargo de Secretario Ejecutivo concluye junto con el del Consejero Presidente que lo propuso, O ANTES SI ÉSTE LO DECIDE, OYENDO PREVIAMENTE LA OPINIÓN DEL CONSEJO ESTATAL. El Secretario Ejecutivo podrá ser reelecto.
+4) El cargo de Secretario Ejecutivo concluye junto con el del Consejero Presidente que lo propuso. El Secretario Ejecutivo podrá ser reelecto.
 
 #### SECCIÓN CUARTA. DE LOS REPRESENTANTES DE LOS PARTIDOS POLÍTICOS Y CANDIDATOS INDEPENDIENTES
 
@@ -1071,9 +1075,9 @@ f. Presidir y conducir las sesiones del Consejo Estatal y, en su caso, hacer uso
 
 g. Designar el personal del Instituto Estatal Electoral, distinto de los titulares de las coordinaciones, comisiones permanentes, consejeros y secretarios de las asambleas municipales y aquéllos no incluidos en el servicio profesional electoral;
 
-(NOTA: EL 26 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 92/2015 Y SUS ACUMULADAS 94/2015 Y 96/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL INCISO H) DEL PÁRRAFO 1 DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2016)</small>
 
-h. Proponer al Consejo Estatal el nombramiento del Secretario Ejecutivo y su suplente O, EN SU CASO, NOMBRAR UN SECRETARIO EJECUTIVO INTERINO MIENTRAS SE DESIGNA TITULAR;
+h) Proponer al Consejo Estatal el nombramiento del Secretario Ejecutivo y su suplente;
 
 i. Elaborar anualmente el ante proyecto de presupuesto del Instituto Estatal Electoral y previa aprobación del Consejo Estatal, remitirlo al titular del Poder Ejecutivo para que, sin modificación alguna, lo presente al Congreso;
 
@@ -2233,9 +2237,9 @@ d. Omitir toda referencia a la jornada electoral constitucional a efecto de evit
 
 5. Queda prohibido a los precandidatos a cargos de elección popular, en todo tiempo, la contratación, por sí o a través de terceros, de propaganda o cualquier otra forma de promoción personal en radio y televisión.
 
-(NOTA: EL 26 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 92/2015 Y SUS ACUMULADAS 94/2015 Y 96/2015, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO 6 DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
+> <small>(REFORMADO, P.O. 27 DE ENERO DE 2016)</small>
 
-6. Independientemente de la celebración de los actos electivos que cada partido realice conforme a sus estatutos y procedimientos internos, se permitirá un acto PÚBLICO formal para declarar a los precandidatos ganadores, electos o postulados, siempre y cuando se realice en un solo día, dentro del plazo de tres días siguientes al día de la jornada electiva, previa comunicación al Instituto Estatal Electoral.
+6) Independientemente de la celebración de los actos electivos que cada partido realice conforme a sus estatutos y procedimientos internos, se permitirá un acto formal para declarar a los precandidatos ganadores, electos o postulados, siempre y cuando se realice en un solo día, dentro del plazo de tres días siguientes al día de la jornada electiva, previa comunicación al Instituto Estatal Electoral.
 
 Artículo 99
 
@@ -4667,13 +4671,11 @@ Artículo 286
 
 1) Dentro de los procesos electorales, la Secretaría Ejecutiva del Consejo Estatal del Instituto Estatal Electoral, instruirá el procedimiento especial establecido por el presente Capítulo, cuando se denuncie la comisión de conductas que:
 
-a) Contravengan las normas sobre propaganda política o electoral;
+a) Contravengan las normas sobre propaganda política o electoral, o
 
-b) Constituyan actos anticipados de precampaña o campaña, o
+b) Constituyan actos anticipados de precampaña o campaña.
 
-(NOTA: EL 26 DE NOVIEMBRE DE 2015, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO CUARTO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 92/2015 Y SUS ACUMULADAS 94/2015 Y 96/2015, DECLARÓ LA INVALIDEZ DEL INCISO C) DEL PÁRRAFO 1 DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 27 DE NOVIEMBRE DE 2015 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/expedientes/).
-
-C) VIOLEN LO ESTABLECIDO EN EL OCTAVO PÁRRAFO DEL ARTÍCULO 134 DE LA CONSTITUCIÓN.
+c) (DEROGADO, P.O. 27 DE ENERO DE 2016)
 
 2) Dentro de los procesos electorales locales será competencia de la Secretaría Ejecutiva del Instituto Nacional Electoral, por conducto de la Unidad Técnica de lo Contencioso Electoral, instruir el procedimiento especial sancionador previsto en la Ley General de Instituciones y Procedimientos Electorales, cuando se denuncie la comisión de conductas que violen lo establecido en la Base III del artículo 41 en materia de propaganda en radio y televisión, de conformidad con lo previsto por el artículo 160, numeral 2, de la ley general antes mencionada.
 
@@ -5756,3 +5758,15 @@ Por tanto mando se imprima, publique, circule y se le dé el debido cumplimiento
 En la Ciudad de Chihuahua, Palacio de Gobierno del Estado, a los veinte días del mes de agosto de dos mil quince.
 
 EL GOBERNADOR CONSTITUCIONAL DEL ESTADO. LIC. CÉSAR HORACIO DUARTE JÁQUEZ. Rúbrica. EL SECRETARIO GENERAL DE GOBIERNO. LIC. MARIO TREVIZO SALAZAR. Rúbrica.
+
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+
+P.O. 27 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 1329/2016 XIII P.E., MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 27 TER, PÁRRAFO TERCERO; 37, PÁRRAFO ÚLTIMO; Y 40, TODOS ELLOS DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA; POR EXTENSIÓN DE LOS RESOLUTIVOS A LAS ACCIONES DE INCONSTITUCIONALIDAD 67/2015 Y SUS ACUMULADAS 72/2015 Y 82/2015, Y 92/2015 Y SUS ACUMULADAS 94/2015 Y 96/2015, Y EN VÍA DE CONSECUENCIA, SE REFORMAN Y DEROGAN DIVERSOS PRECEPTOS DE LA LEY ELECTORAL DEL ESTADO DE CHIHUAHUA”.]
+
+PRIMERO.- Las declaraciones de invalidez decretadas en los resolutivos que recaen a las acciones de inconstitucionalidad 67/2015 y sus acumuladas 72/2015 y 82/2015, y 92/2015 y sus acumuladas 94/2015 y 96/2015, y contenidas en el presente Decreto, surtieron sus efectos a partir de su notificación al Congreso del Estado de Chihuahua, el día 30 de noviembre del año 2015, por ello, ordénese su publicación de manera urgente en el Periódico Oficial del Estado.
+
+SEGUNDO.- Notifíquese de manera inmediata del cumplimiento de los resolutivos de las sentencias de las acciones de inconstitucionalidad expresadas en el artículo transitorio anterior a la Suprema Corte de Justicia de la Nación.
+
+TERCERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
