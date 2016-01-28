@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-16-2009-del-pleno-del-consejo-de-la-68556"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-05-27"
-last_updated: "2014-02-06"
+last_updated: "2016-01-28"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68556&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2009-04-15"
 
 ACUERDO GENERAL 16/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACIÓN Y DIFUSIÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 6 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE ENERO DE 2016.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 27 de mayo de 2009.
 
@@ -59,15 +59,23 @@ Las sesiones ordinarias serán celebradas, por lo menos, una vez por semana, y t
 
 Sólo podrán dejar de celebrarse cuando así lo determine el Pleno del tribunal colegiado de Circuito en la sesión inmediata anterior, o por causa de fuerza mayor o caso fortuito.
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 49/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE OCTUBRE DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR 16/2009, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACIÓN Y DIFUSIÓN, D.O.F. 28 DE ENERO DE 2016)</small>
 
 ###### Artículo 3.
 
-Las sesiones ordinarias se celebrarán dentro del horario comprendido entre las 9:00 y las 15:00 horas, al prudente arbitrio del Pleno del Tribunal Colegiado de Circuito.
+Las sesiones ordinarias se celebrarán dentro del horario comprendido entre las 9:00 y las 15:00 horas. Iniciando conforme al prudente arbitrio del Pleno del Tribunal Colegiado de Circuito dentro de las primeras dos horas de dicho horario.
+
+> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 49/2009 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE OCTUBRE DE 2009)</small>
 
 Cuando así lo requiera el desahogo de los asuntos listados, el horario de las sesiones ordinarias podrá ampliarse hasta las 19:00 horas, en términos de lo dispuesto por el artículo 281 del Código Federal de Procedimientos Civiles.
 
-Las sesiones ordinarias sólo podrán ser suspendidas o postergadas por acuerdo debidamente fundado y motivado del tribunal.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR 16/2009, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACIÓN Y DIFUSIÓN, D.O.F. 28 DE ENERO DE 2016)</small>
+
+Las sesiones ordinarias sólo podrán ser suspendidas o postergadas excepcionalmente por acuerdo debidamente fundado y motivado del tribunal.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR 16/2009, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACIÓN Y DIFUSIÓN, D.O.F. 28 DE ENERO DE 2016)</small>
+
+En ningún caso se podrá autorizar que los asuntos sean sesionados previamente a la discusión pública de las sesiones a las que se refiere el artículo 1° de este Acuerdo General.
 
 ###### Artículo 4.
 
@@ -183,7 +191,9 @@ La votación definirá el sentido del fallo.
 
 El Secretario de Acuerdos asentará en el acta que se dio inicio y se puso fin a la discusión de cada asunto, haciendo el señalamiento de si se formularon objeciones al proyecto y si éstas fueron o no aceptadas, y hará constar cuál fue la votación definitiva.
 
-En caso de que no sea factible videograbar la sesión, el funcionario anterior tomará nota de la discusión.
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR 16/2009, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACIÓN Y DIFUSIÓN, D.O.F. 28 DE ENERO DE 2016)</small>
+
+En caso de que no sea factible videograbar la sesión, el funcionario anterior tomará nota de la discusión para elaborar la versión estenográfica correspondiente.
 
 ###### Artículo 16.
 
@@ -213,11 +223,15 @@ La instalación del equipo de grabación referido, tendrá como finalidad videog
 
 El sistema de grabación, desde el punto de vista técnico, deberá ser instalado de tal manera que permita ubicar con facilidad, dentro de cada una de las sesiones, el debate de aquellos asuntos que deberán ser difundidos conforme a los lineamientos del presente Acuerdo.
 
-> <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR 16/2009, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACIÓN Y DIFUSIÓN, D.O.F. 28 DE ENERO DE 2016)</small>
 
 ###### Artículo 20.
 
-Se generará un archivo digital por cada sesión videograbada, el cual será guardado en un dispositivo de almacenamiento de datos. La unidad administrativa competente en materia informática garantizará que el flujo de información se limite a las salas de sesiones, sin que pueda técnicamente transmitirse a distancia.
+Se generará un archivo digital por cada sesión videograbada, el cual será guardado en un dispositivo de almacenamiento de datos.
+
+Las sesiones de los Tribunales Colegiados de Circuito que hayan sido videograbadas, se incorporarán a una biblioteca virtual que estará a disposición del público en general; en aquellos casos en que excepcionalmente se hubiere elaborado la versión estenográfica de la sesión pública, dicho archivo deberá ser incorporado a la biblioteca virtual.
+
+Previo a remitir el video o acta respectiva para ser integrada a la Biblioteca Virtual de Sesiones, el Secretario de Acuerdos corroborará que en su contenido se encuentre garantizada la protección de datos personales, por lo que en caso de advertir la mención de alguno, deberá proceder a su supresión.
 
 > <small>(REFORMADO POR EL ARTÍCULO CUARTO DEL ACUERDO GENERAL 11/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 9 DE ABRIL DE 2013)</small>
 
@@ -237,19 +251,11 @@ Al inicio de cada receso, el Presidente deberá indicar la hora en que comienza 
 
 El dispositivo de almacenamiento de datos en donde se guarde el archivo digital de imagen y video de las sesiones deberá conservarse en el tribunal colegiado, en el espacio que al efecto se habilite.
 
-> <small>(DEROGADO SEGUNDO PÁRRAFO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 6 DE FEBRERO DE 2014)</small>
-
-> <small>(DEROGADO TERCERO PÁRRAFO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 6 DE FEBRERO DE 2014)</small>
-
-> <small>(DEROGADO CUARTO PÁRRAFO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 6 DE FEBRERO DE 2014)</small>
-
-> <small>(DEROGADO QUINTO PÁRRAFO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 6 DE FEBRERO DE 2014)</small>
-
-> <small>(DEROGADO SEXTO PÁRRAFO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 6 DE FEBRERO DE 2014)</small>
-
-> <small>(DEROGADO SÉPTIMO PÁRRAFO POR EL TRANSITORIO TERCERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE ESTABLECE LAS DISPOSICIONES EN MATERIA DE TRANSPARENCIA, ACCESO A LA INFORMACIÓN PÚBLICA, PROTECCIÓN DE DATOS PERSONALES Y ARCHIVOS, D.O.F. 6 DE FEBRERO DE 2014)</small>
-
 El servidor público que haga uso indebido de los archivos digitales de las videograbaciones, será sancionado administrativamente en términos de la Ley Orgánica del Poder Judicial de la Federación.
+
+> <small>(ADICIONADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR 16/2009, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACIÓN Y DIFUSIÓN, D.O.F. 28 DE ENERO DE 2016)</small>
+
+La unidad administrativa competente en materia informática emitirá los lineamientos para remitir la copia del aludido archivo digital, la cual deberá incorporarse a la Biblioteca Virtual de Sesiones.
 
 ###### Artículo 24.
 
@@ -364,3 +370,15 @@ QUINTO. Los asuntos en trámite deberán concluirse conforme a las disposiciones
 SEXTO. Las referencias que se hagan en otras disposiciones a la Comisión para la Transparencia y Acceso a la Información Pública Gubernamental del Consejo de la Judicatura Federal, se entenderán hechas a la Comisión para la Transparencia, Acceso a la Información y Protección de Datos Personales del Consejo de la Judicatura Federal.
 
 SÉPTIMO. Se derogan todas las disposiciones que se opongan al presente Acuerdo General.
+
+D.O.F. 28 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y ADICIONA EL SIMILAR 16/2009, QUE REGULA LAS SESIONES DE LOS TRIBUNALES COLEGIADOS DE CIRCUITO Y ESTABLECE LOS LINEAMIENTOS PARA SU VIDEOGRABACIÓN Y DIFUSIÓN”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. El inicio de operación de la biblioteca virtual de las sesiones de los Tribunales Colegiados de Circuito, entrará en vigor una vez que la unidad administrativa competente en materia informática haya generado los requerimientos tecnológicos para su implementación y emita los lineamientos establecidos en el tercer párrafo del artículo 23 del propio Acuerdo.
+
+TERCERO. La biblioteca virtual de las sesiones de los Tribunales Colegiados de Circuito se integrará con las celebradas a partir de la entrada en vigor de la Ley General de Transparencia y Acceso a la Información Pública, atento a lo previsto en el último párrafo del artículo octavo transitorio de la propia legislación.
+
+CUARTO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
