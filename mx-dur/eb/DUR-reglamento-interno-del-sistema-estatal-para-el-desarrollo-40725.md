@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-interno-del-sistema-estatal-para-el-desarrollo-40725
 country: "mx"
 rank: "reglamento"
 publication_date: "2004-08-12"
-last_updated: "2004-08-12"
+last_updated: "2016-01-28"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "DUR"
 
 REGLAMENTO INTERNO DEL SISTEMA ESTATAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA EN DURANGO
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE DURANGO, PUBLICADO EN EL P.O. DE 28 DE ENERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE ENERO DE 2016. (ABROGADA).
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el jueves 12 de agosto del 2004.
 
@@ -452,3 +454,17 @@ LIC. JÓSE MIGUEL CASTRO CARRILLO
 EL DIRECTOR GENERAL DEL SISTEMA ESTATAL PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DE DURANGO
 
 DR. CÉSAR HUMBERTO FRANCO MARISCAL
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 28 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL " REGLAMENTO INTERNO DEL SISTEMA PARA EL DESARROLLO INTEGRAL DE LA FAMILIA DEL ESTADO DE DURANGO".]
+
+PRIMERO. El presente Reglamento entrará en vigor un día después de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+SEGUNDO. Se abroga el Reglamento Interno del Sistema Estatal para el Desarrollo Integral de la Familia en Durango, publicado en el Periódico Oficial del Estado de Durango, No 13 de fecha 12 de Agosto del 2004.
+
+TERCERO.- El presente Reglamento fue aprobado el día 15 de octubre del año 2013, mediante acuerdo A-98-XI-OCT-13, en la Décima Primera Sesión Ordinaria de Junta de Gobierno del Sistema para el Desarrollo Integral de la Familia del Estado de Durango, de conformidad con lo dispuesto por el artículo 25, fracción X de la Ley de Entidades Paraestatales, así como el artículo 29, fracción III de la Ley de Asistencia-Social, ambas para el Estado de Durango.
+
+CUARTO. Se derogan las disposiciones reglamentarias y administrativas que se opongan a lo dispuesto por este Reglamento.
