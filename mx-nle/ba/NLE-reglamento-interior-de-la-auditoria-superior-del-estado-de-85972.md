@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-de-la-auditoria-superior-del-estado-de-8597
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-02-06"
-last_updated: "2015-05-08"
+last_updated: "2016-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=85972&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 6 de febrero de 2012.
 
@@ -1079,11 +1079,11 @@ XXII. Decidir sobre el tratamiento de los datos personales de los servidores pú
 
 XXIII. Las demás que le confieran la Ley, el Reglamento, los manuales de organización y procedimientos de la Auditoría Superior del Estado o le sean delegadas por el Auditor General.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE MAYO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ENERO DE 2016)</small>
 
 ###### Artículo 36.
 
-Corresponde al Coordinador Administrativo, adscrito a la Unidad General de Administración, el ejercicio de las facultades y atribuciones siguientes:
+Corresponde al Director de Administración, adscrito a la Unidad General de Administración, el ejercicio de las facultades y atribuciones siguientes:
 
 I. Coordinar la elaboración del anteproyecto del Presupuesto Anual de la Auditoría Superior del Estado y sus modificaciones;
 
@@ -1360,3 +1360,9 @@ Artículo Único. Las presentes reformas al Reglamento Interior de la Auditoría
 P.O. 8 DE MAYO DE 2015.
 
 Artículo Primero. Las presentes reformas al Reglamento Interior de la Auditoría Superior del Estado de Nuevo León entrarán en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado.
+
+P.O. 29 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE REFORMA EL REGLAMENTO INTERIOR DE LA AUDITORÍA SUPERIOR DEL ESTADO DE NUEVO LEÓN”.]
+
+Artículo Primero. La presente reforma al Reglamento Interior de la Auditoría Superior del Estado de Nuevo León entrarán en vigor a partir de la fecha de su publicación en el Periódico Oficial del Estado de Nuevo León.
