@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-de-carrera-judicial-21558"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-11-10"
-last_updated: "2015-03-13"
+last_updated: "2016-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21558&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DE CARRERA JUDICIAL
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 10 de noviembre de 2000.
 
@@ -985,51 +985,39 @@ Concluida la última etapa del examen, el Consejo a más tardar dentro de los 5 
 
 ### CAPÍTULO PRIMERO. REGLAS GENERALES
 
-> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ENERO DE 2016)</small>
 
 ###### Artículo 118.
 
-Este título tiene por objeto establecer las disposiciones que precisan los deberes y obligaciones de los órganos que intervienen en los concursos para la designación de jueces; los derechos y obligaciones de los concursantes y la regulación del procedimiento a seguir, mediante el cual los aspirantes deberán obtener un resultado favorable, como uno de los requisitos para ser nombrados.
+Este título tiene por objeto establecer las disposiciones que precisan los deberes y facultades de los órganos que intervienen en los concursos para la designación de jueces; los derechos y obligaciones de los concursantes y la regulación del procedimiento a seguir, mediante el cual los aspirantes deberán obtener un resultado favorable, como uno de los requisitos para ser nombrados.
 
 Para los efectos de este Reglamento, se entenderá por concurso al procedimiento mediante el cual a través de la aplicación de exámenes psicométricos, de oposición y de méritos, se evalúen el perfil psicológico; requisitos de elegibilidad; conocimientos jurídicos; preparación académica (incluyendo grado académico, especialización, diplomado, cursos de actualización, talleres, congresos, conferencias y demás similares cursados por el aspirante); experiencia profesional (comprendiendo también la docencia, investigación y publicación jurídicas y en su caso, antigüedad en cargos jurisdiccionales); así mismo, el prestigio profesional de los aspirantes a la categoría de juez a efecto de determinar su idoneidad para ser designados por la autoridad judicial competente y lograr que la excelencia, profesionalismo, objetividad, imparcialidad e independencia sean los principios rectores en la actuación de los jueces.
 
-> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2016)</small>
 
 ###### Artículo 119.
 
-Los exámenes que se aplican en los concursos, para el ingreso o promoción a la categoría de juez, tienen por objeto final asignar la plaza para la que se concursa, bajo los lineamientos y condiciones establecidas en la Constitución, Ley Orgánica, Reglamento de Carrera Judicial y los acuerdos que al efecto se tomen por el Pleno del Consejo y el Pleno del Tribunal Superior de Justicia, en los que a cada uno corresponda.
+Es facultad del Consejo, convocar y desahogar las etapas del concurso para cubrir las vacantes al cargo de juez y corresponde al Pleno del Tribunal, hacer la designación de manera fundada y motivada de entre los concursantes que aparezcan en la lista que al efecto les proporcione el Consejo.
 
-> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ENERO DE 2016)</small>
 
 ###### Artículo 120.
 
-Las plazas vacantes en la categoría de juez que deban cubrirse con nombramiento definitivo, se cubrirán mediante concurso interno o libre. En el concurso interno participarán únicamente quienes ya laboren en el Poder Judicial del Estado y en el concurso libre participarán estos y los profesionales del derecho que no formen parte de la plantilla del personal de dicho Poder Judicial.
+Las vacantes en la categoría de juez deberán cubrirse con nombramiento definitivo mediante concursos internos o abiertos. En los concursos internos participarán únicamente quienes laboren dentro del Poder Judicial del Estado al momento de ser publicada la convocatoria y en los concursos abiertos podrán participar todas las personas que cumplan con los requisitos establecidos en ella.
 
 La clase de concurso se determinará en la proporción que acuerde el Pleno del Consejo, observando las circunstancias de la vacante sometida a concurso, para propiciar el nombramiento de quienes ya laboran en el Poder Judicial del Estado e impulsar de esta manera la carrera judicial y en su caso, dar oportunidad a la incorporación de destacados profesionales del derecho que deseen ocupar el cargo de juez.
 
-> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2016)</small>
 
 ###### Artículo 121.
 
-Es obligación del Consejo, fijar las bases, convocar y realizar el procedimiento para cubrir las vacantes al cargo de juez y corresponde al Pleno del Tribunal, hacer la designación de manera fundada y motivada de entre los concursantes que aparezcan en la lista que al efecto les proporcione el Consejo.
+Dentro de los concursos de designación de jueces, la Comisión de Carrera Judicial tendrá las siguientes facultades:
 
-> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
-
-###### Artículo 122.
-
-Para acceder a sustentar los exámenes, los aspirantes a efecto de identificarse, deberán presentar en original cualquiera de los siguientes documentos, en los que aparezca su fotografía: credencial para votar expedida por el Instituto Federal Electoral, Registro Federal de Electores; pasaporte extendido por la Secretaría de Relaciones Exteriores; cédula profesional expedida por la Secretaría de Educación Pública; cédula profesional expedida por la Secretaría de Educación y Bienestar Social, Departamento de Profesiones del Estado; credencial de empleado emitida por el Poder Judicial del Estado.
-
-> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
-
-###### Artículo 123.
-
-Son obligaciones de la Comisión de Carrera Judicial:
-
-l. Presentar ante el Pleno del Consejo para su análisis, las propuestas respecto a la convocatoria, así como, el lugar, día y hora en el que habrán de realizarse los exámenes, lo cual deberá estar determinado antes de la publicación de la convocatoria.
+I. Presentar ante el Pleno del Consejo para su análisis, las propuestas respecto a la convocatoria, así como, el lugar, día y hora en el que habrán de realizarse los exámenes, lo cual deberá estar determinado antes de la publicación de la convocatoria.
 
 II. Recibir las solicitudes de inscripción y los documentos señalados en la convocatoria.
 
-III. Registrar las solicitudes y asignarles un número de inscripción al concurso.
+III. Registrar las solicitudes.
 
 IV. Integrar el expediente de cada aspirante.
 
@@ -1037,27 +1025,49 @@ V. Efectuar los análisis documentales y someterlos a la autorización del Conse
 
 VI. Elaborar una relación de participantes, agrupándolos por ramo, instancia y vacante respectiva.
 
-VII. Formular las propuestas necesarias al Consejo de la Judicatura, para la determinación de los acuerdos procedentes.
+VII. Formular las propuestas necesarias al Consejo de la Judicatura para la determinación de los acuerdos procedentes.
 
-VIII. Las demás que les señale la Constitución, Ley Orgánica, Reglamento Interior del Consejo, este Reglamento y los acuerdos del Pleno del Consejo.
+VIII. Las demás que le señale la Ley Orgánica, el Reglamento Interior del Consejo, este Reglamento y los acuerdos del Pleno del Consejo.
 
-> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2016)</small>
+
+###### Artículo 122.
+
+Los exámenes que se aplican en los concursos, para el ingreso o promoción a la categoría de juez, tienen por objeto final asignar la plaza para la que se concursa, bajo los lineamientos y condiciones establecidas en la Constitución, Ley Orgánica, Reglamento de Carrera Judicial y los acuerdos que al efecto se tomen por el Pleno del Consejo y el Pleno del Tribunal Superior de Justicia, en los que a cada uno corresponda.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2016)</small>
+
+###### Artículo 123.
+
+Para acceder a sustentar los exámenes que forman parte del concurso de designación de jueces, los aspirantes a efecto de identificarse, deberán presentar en original cualquiera de los siguientes documentos:
+
+I.- Credencial para votar expedida por el Instituto Federal Electoral o el Instituto Nacional Electoral.
+
+II.- Pasaporte expedido por la Secretaría de Relaciones Exteriores.
+
+III.- Cédula profesional expedida por la Secretaría de Educación Pública.
+
+IV.- Cédula profesional expedida por el Departamento de Profesiones de la Secretaría de Educación y Bienestar Social.
+
+V.- Credencial de empleado emitida por el Poder Judicial del Estado.
 
 ###### Artículo 124.
 
-Los concursos se desarrollarán conforme a las bases señaladas en la Constitución, Ley Orgánica, Reglamento Interior del Consejo de la Judicatura, este Reglamento y demás acuerdos que al efecto determine el Pleno del Consejo.
+(DEROGADO, P.O. 29 DE ENERO DE 2016)
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 6 DE JUNIO DE 2008)</small>
 
 ### CAPÍTULO SEGUNDO. DE LA CONVOCATORIA
 
-> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ENERO DE 2016)</small>
 
 ###### Artículo 125.
 
-La convocatoria será publicada por una ocasión en el Boletín Judicial del Estado y en un periódico de mayor circulación, sin embargo, tratándose de concurso interno, la convocatoria se difundirá además por los medios que el Consejo estime convenientes entre los servidores públicos que laboren en el Poder Judicial.
+La convocatoria será publicada por una ocasión en el Boletín Judicial del Estado y en un periódico de mayor circulación.
 
-La convocatoria deberá expedirse por lo menos quince días naturales anteriores a la fecha señalada para el inicio de los exámenes respectivos, computados a partir de su publicación.
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2016)</small>
+
+La convocatoria deberá publicarse con por lo menos cinco días naturales de anticipación a la fecha señalada para el primer día de recepción de documentos de los aspirantes.
 
 Una vez publicada la convocatoria correspondiente, así como durante el desarrollo del concurso, los participantes deberán abstenerse de realizar directa o indirectamente alguna gestión ante los miembros del Consejo o del Jurado, tendiente a beneficiarse en dicho concurso.
 
@@ -1067,11 +1077,15 @@ Una vez publicada la convocatoria correspondiente, así como durante el desarrol
 
 En la convocatoria se especificará:
 
-I. La clase de concurso (interno o libre).
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2016)</small>
+
+I. La clase de concurso (interno o abierto).
 
 II. La categoría y número de vacantes sujetas a concurso.
 
-III. Las bases y trámites a los que queda sujeto el concurso.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2016)</small>
+
+III. Los requisitos para ocupar la plaza que se concursa, las bases y trámites a los que queda sujeto el concurso.
 
 IV. Las etapas del concurso, especificando su objeto.
 
@@ -1083,7 +1097,9 @@ La solicitud de inscripción se pondrá a disposición de los interesados en la 
 
 VII. El lugar, la fecha y hora en los que se llevarán a cabo los exámenes conducentes.
 
-VIII. La guía de temas en derecho penal, civil, mercantil, familiar y amparo, dependiendo de la materia relacionada con la plaza que se concursa; guía previamente determinada por el Pleno del Consejo de la Judicatura, la cual será la base del examen de conocimientos.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2016)</small>
+
+VIII. La dirección de la página del internet en la que se encuentra la guía de temas en derecho penal, civil, mercantil, familiar y amparo, dependiendo de la materia relacionada con la plaza que se concursa, la cual será la base del examen de conocimientos. La guía será previamente determinada por el Pleno del Consejo de la Judicatura;
 
 IX. El señalamiento de que corresponderá a la Comisión de Carrera Judicial, verificar que las solicitudes contienen todos los datos necesarios y que están acompañadas de los documentos requeridos.
 
@@ -1095,33 +1111,49 @@ XII. En la convocatoria se mencionará, que la lista con los nombres de los aspi
 
 XIII. En la convocatoria se establecerá que la lista que se remita a la autoridad que vaya a efectuar la designación, solamente se incluirán los nombres de los aspirantes que hayan acreditado todas las etapas que comprenden el concurso, la cual será publicada una sola vez, para efectos de notificación en el Boletín Judicial del Estado.
 
-> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
-
 ###### Artículo 127.
 
-Para los efectos de la fracción III del artículo 126, la convocatoria deberá contener los requisitos legales para ocupar la plaza que se concursa; los cuales tendrán que acreditarse.
+(DEROGADO, P.O. 29 DE ENERO DE 2016)
 
-> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ENERO DE 2016)</small>
 
 ###### Artículo 128.
 
-En los términos de la fracción VI del artículo 126 de este Reglamento, deben presentarse en original o copia certificada por Notario Público, los siguientes documentos:
+En los términos de las fracciones III y VI del artículo 126 de este Reglamento, deben presentarse en original o copia certificada por Notario Público, los siguientes documentos:
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
 
 a) Acta de nacimiento.
 
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+
 b) Título profesional de Licenciado en Derecho o Abogado, con antigüedad mínima de cinco años, expedido por autoridad o institución legalmente facultada para ello.
 
-c) Cédulas profesionales expedidas por la Secretaría de Educación Pública y la Secretaría de Educación y Bienestar Social, Departamento de Profesiones del Estado.
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2016)</small>
+
+c) Cédulas profesionales expedidas por la Secretaría de Educación Pública y la Secretaría de Educación y Bienestar Social.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
 
 d) Carta expedida por la autoridad competente en la que se establezca que el aspirante no registra antecedente penal y en el supuesto de registrarlo, que el antecedente no sea por la comisión de algún ilícito de robo, fraude, falsificación, abuso de confianza u otro que lesione la buena fama en el concepto público; así también, que el delito por el que fue condenado no sea intencional ni amerite pena corporal de mas de un año de prisión.
 
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+
 e) Constancia de no inhabilitación.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
 
 f) Carta de residencia, en la que se acredite que el aspirante ha residido en el Estado durante los últimos cinco años anteriores a la designación.
 
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+
 g) Currículum vitae actualizado y debidamente acompañado de los documentos que acrediten lo ahí asentado, en el cual deberá establecerse como mínimo la preparación académica (incluyendo grado académico, especialización, diplomado, cursos de actualización, talleres, congresos, conferencias y demás similares cursados por el aspirante) y la experiencia profesional (comprendiendo también la docencia, investigación y publicación jurídicas y en su caso, antigüedad en cargos jurisdiccionales).
 
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+
 h) Carta compromiso de ajustarse a las reglas que se determinen para el desarrollo de los exámenes.
+
+> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
 
 i) Escrito en el que bajo protesta de decir verdad, manifieste el aspirante encontrarse en pleno goce de sus derechos políticos y civiles.
 
@@ -1143,15 +1175,13 @@ Los concursos, constarán de las siguientes etapas:
 
 I. DE LOS REQUISITOS DE ELEGIBILIDAD. Consiste en determinar si el aspirante reúne o no los requisitos legales para ocupar la plaza que se concursa.
 
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE ENERO DE 2016)</small>
 
-II. DE LA EVALUACIÓN DE CONOCIMIENTOS. Consta de dos exámenes, uno teórico y el otro práctico, con el objeto de tasar los conocimientos jurídicos del aspirante.
+II. DE LA EVALUACIÓN PSICOMÉTRICA. Estriba en un estudio psicológico que podrá realizarse a través de diversas pruebas o, efectuarse por diversas pruebas y una entrevista. En ambos casos tendrá por objeto determinar si el aspirante es aceptable o no psicológicamente para desempeñar la plaza concursada.
 
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2016)</small>
 
-III. DE LA EVALUACIÓN PSICOMÉTRICA. Estriba en un estudio psicológico que incluye diversas pruebas y una entrevista, a efecto de determinar si el aspirante es aceptable o no psicológicamente para desempeñar la plaza concursada.
-
-La entrevista será privada y tiene por objeto la valoración de las siguientes áreas:
+En caso de efectuarse la entrevista, esta será privada y tendrá por objeto la valoración de las siguientes áreas:
 
 a) Personalidad en general. Evaluación de factores de personalidad tales como carácter, gustos, interés, motivaciones, actitudes, valores y demás similares.
 
@@ -1164,6 +1194,10 @@ d) Metas laborales. Evaluación de intereses, metas, objetivos y motivaciones en
 e) Estilo de trabajo. Evaluación de la forma de trabajo, gustos, preferencias, capacidades, manejo de conflictos.
 
 f) Liderazgo. Evaluación del estilo y tipo de liderazgo.
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2016)</small>
+
+III. DE LA EVALUACIÓN DE CONOCIMIENTOS. Consta de cuando menos dos exámenes, uno teórico y el otro práctico o teórico-práctico, con el objeto de tasar los conocimientos jurídicos del aspirante.
 
 IV. ENTREVISTA. Consiste en el examen del aspirante, bajo los siguientes aspectos: integridad profesional (rectitud, probidad, ética), presentación (imagen), seguridad (confianza), habilidad de comunicación, madurez (buen juicio o prudencia, sensatez) y objetividad.
 
@@ -1181,13 +1215,11 @@ Cerrado el plazo para la inscripción, la Comisión de Carrera Judicial elaborar
 
 La lista con los nombres de las personas que acrediten los requisitos legales será publicada como mínimo una vez en el Boletín Judicial y estos aspirantes tendrán derecho a acceder a la siguiente etapa del concurso, quienes no figuren en la lista no podrán participar en la ulterior fase.
 
-> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2016)</small>
 
 ###### Artículo 132.
 
-El personal especializado adscrito al Departamento de Recursos Humanos del Consejo de la Judicatura, aplicará a los aspirantes un examen psicométrico que incluye diversas pruebas y una entrevista a efecto de determinar si el aspirante es aceptable o no psicológicamente para desempeñar la plaza concursada.
-
-Con lo obtenido de dicho examen se levantará un reporte el cual será remitido con su soporte documental a la Comisión de Carrera Judicial para que elabore una lista con el resultado de los aspirantes, la cual será presentada ante el Pleno del Consejo para su análisis y en su caso aprobación, quien decidirá en forma definitiva sobre la misma.
+El personal especializado adscrito al Departamento de Nóminas y Administración de Personal del Consejo de la Judicatura, efectuará la evaluación psicométrica de los aspirantes en alguna de las modalidades que establece la fracción II del artículo 130 de este Reglamento. Las evaluaciones de los aspirantes y su soporte documental deberán contenerse en un reporte que será remitido a la Comisión de Carrera Judicial para que elabore una lista con el resultado de los aspirantes, la cual será presentada ante el Pleno del Consejo para su análisis y en su caso aprobación, quien decidirá en forma definitiva sobre la misma.
 
 La lista con los nombres de las personas que acrediten esta fase será publicada como mínimo una vez en el Boletín Judicial y estos aspirantes tendrán derecho a acceder a la siguiente etapa del concurso; no así, quienes no aparezcan en la lista.
 
@@ -1205,27 +1237,37 @@ Las circunstancias de tiempo y lugar pueden ser modificadas mediante determinaci
 
 El examen teórico será un cuestionario en un formato de opción múltiple, cuyo contenido versara sobre las materias que se relacionen con la función de la plaza que se concursa, otorgando igualdad de condiciones a todos los aspirantes del mismo concurso ya sea por ramo, instancia o vacante.
 
-> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2016)</small>
 
 ###### Artículo 135.
 
-La Comisión de Carrera Judicial, será la encargada de elaborar una base de datos de cuando menos doscientos cincuenta preguntas, de las cuales se seleccionarán de manera aleatoria, las preguntas que integren el cuestionario. La base se actualizará de oficio excluyendo las preguntas ya seleccionadas en los exámenes.
+Las preguntas que se contengan en el examen teórico deberán elaborarse de tal forma, que su respuesta implique evidenciar conocimientos jurídicos. Así mismo, los distractores planteados como respuestas posibles no deben ser considerados respuestas jurídicamente correctas.
 
-Las preguntas deben elaborarse de tal forma, que su respuesta implique la aplicación de un criterio jurídico, prescindiendo de cualquier planteamiento cuya solución se base esencialmente, en la memorización de textos legales, tesis de jurisprudencia o conceptos doctrinarios. Así mismo, los distractores planteados como respuestas posibles no deben ser considerados respuestas jurídicamente correctas.
-
-> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2016)</small>
 
 ###### Artículo 136.
 
-El examen teórico podrá aplicarse mediante la utilización de un programa de cómputo, que permita obtener la calificación de manera automatizada e inmediata una vez finalizado el examen y bajo dicho supuesto, se hará del conocimiento en ese momento al aspirante, para todos los efectos legales correspondientes. No obstante, con independencia de la manera en que se aplique el examen, la Comisión de Carrera Judicial, elaborará una lista con el resultado obtenido por todos los aspirantes, misma que será presentada ante el Pleno del Consejo para su análisis y en su caso aprobación, quien decidirá en forma definitiva sobre la misma.
+El examen teórico podrá aplicarse mediante la utilización de un programa de cómputo, que permita obtener la calificación de manera automatizada e inmediata una vez finalizado el examen y bajo dicho supuesto, se hará del conocimiento en ese momento al aspirante, para todos los efectos legales correspondientes. No obstante, con independencia de la manera en que se aplique el examen, el Jurado de evaluación al que hace mención el artículo 204 de la Ley Orgánica, elaborará una lista con el resultado obtenido por todos los aspirantes, misma que será presentada ante el Pleno del Consejo para su análisis y en su caso aprobación, quien decidirá en forma definitiva sobre la misma.
 
-La lista con los nombres de las personas que acrediten el examen teórico cuya calificación, mínima aprobatoria es de 80 puntos, en una escala de 0 a 100, será publicada conjuntamente con la calificación obtenida, como mínimo una vez en el Boletín Judicial y únicamente estos aspirantes tendrán derecho a participar en la ulterior fase del concurso.
+La lista con los nombres de las personas que acrediten el examen teórico cuya calificación mínima aprobatoria es de 80 puntos, en una escala de 0 a 100, será publicada conjuntamente con la calificación obtenida, como mínimo una vez en el Boletín Judicial y únicamente estos aspirantes tendrán derecho a participar en la ulterior fase del concurso. En la convocatoria podrá establecerse que solamente tendrán derecho a participar en la siguiente fase del concurso, un número máximo de aspirantes que obteniendo el resultado mínimo aprobatorio hayan registrado las mejores calificaciones.
 
-> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+En la convocatoria podrá establecerse que por medio del correo electrónico y/o número telefónico que hubieran proporcionado en su solicitud, se notifique a los aspirantes que no aparezcan en la lista señalada en el párrafo anterior.
+
+De igual manera, la convocatoria podrá establecer la obligación de los aspirantes seleccionados en términos del párrafo anterior de realizar un curso para acceder a la aplicación del examen práctico o teórico-práctico. En este caso, la convocatoria deberá establecer el porcentaje mínimo de asistencia de los aspirantes para que puedan aplicar al examen práctico o el examen teórico-práctico.
+
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2016)</small>
 
 ###### Artículo 137.
 
-El examen práctico consistirá en la elaboración de un proyecto de resolución de un caso real, resuelto en un juzgado. El examen práctico será igual para todos los participantes.
+El examen práctico consistirá en la elaboración de un proyecto de resolución de un caso real resuelto en un juzgado y en caso de que en esta etapa, la convocatoria determine la aplicación de un examen teórico-práctico éste podrá integrarse por los siguientes componentes:
+
+I.- La realización de un ejercicio de simulación de audiencia, y
+
+II.- La aplicación de un examen de conocimientos.
+
+En cualquiera de las dos modalidades a las que alude el párrafo primero de este artículo, el examen será igual para todos los aspirantes.
+
+Lo dispuesto en los artículos 138, 139, 140, 141, 142 y 143 párrafos primero y segundo de este Reglamento, solo será aplicable cuando la convocatoria establezca como modalidad de examen práctico.
 
 > <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
 
@@ -1261,11 +1303,13 @@ I. No podrá asentarse, en ninguna parte del proyecto el nombre del concursante;
 
 II. La Comisión permitirá el uso de materiales de consulta tales como leyes, códigos, tesis jurisprudenciales, para la elaboración del proyecto;
 
-III. El Consejo de la Judicatura, podrá proporcionar al concursante que lo solicite, el apoyo de personal mecanográfico; auxilio que tendrá que pedir mediante escrito dirigido a la Comisión de Carrera Judicial en un plazo no menor a cuarenta y ocho horas previas a la aplicación del examen;
+III. (DEROGADA, P.O. 29 DE ENERO DE 2016)
 
 IV. El aspirante contará con cinco horas como mínimo para la elaboración del proyecto, tiempo que podrá ser ampliado previamente por determinación de la Comisión de Carrera Judicial, otorgando igualdad de condiciones a todos los aspirantes del mismo concurso ya sea por ramo, instancia o vacante; y
 
-V. Sólo se exigirá que en el proyecto, el aspirante realice las consideraciones relativas a la solución del caso jurídico asignado, mediante las argumentaciones que el sustentante considere pertinentes, incluyendo las transcripciones necesarias a esa argumentación y las tesis que estime aplicables. En todo caso, el aspirante deberá determinar los puntos resolutivos concretos que proponga, por lo que no será necesario que se inserten en el proyecto, las razones que determinen la competencia por materia o por territorio del juzgado.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2016)</small>
+
+V. Sólo se exigirá que en el proyecto, el aspirante realice las consideraciones relativas a la solución del caso jurídico asignado, mediante las argumentaciones que el sustentante considere pertinentes, incluyendo las transcripciones necesarias a esa argumentación y las tesis que estime aplicables. En todo caso, el aspirante deberá determinar los puntos resolutivos concretos que proponga.
 
 > <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
 
@@ -1295,6 +1339,14 @@ El acta correspondiente con sus anexos, deberá ser enviada a la Comisión de Ca
 
 La lista con los nombres de las personas que acrediten el examen práctico cuya calificación mínima aprobatoria es de 80 puntos, en una escala de 0 a 100, será publicada conjuntamente con la calificación obtenida, como mínimo una vez en el Boletín Judicial y únicamente estos aspirantes tendrán derecho a participar en la ulterior fase del concurso.
 
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2016)</small>
+
+Artículo 142 BIS.- Cuando la convocatoria establezca como modalidad el examen teórico-práctico señalado en el artículo 137 de este Reglamento, deberá determinar los porcentajes de calificación que corresponderá a cada uno de sus componentes.
+
+La evaluación de las simulaciones de audiencia y del examen de conocimientos, estarán a cargo del Jurado al que alude el artículo 204 de la Ley Orgánica. La evaluación de las simulaciones podrá efectuarla el Jurado, a través del análisis de los videos en los que se contengan estos ejercicios. El Consejo de la Judicatura mediante acuerdo, determinará los parámetros y el puntaje que asigna a ellos para la evaluación de los ejercicios de simulación.
+
+Para la elaboración y aplicación del examen de conocimientos, deberá observarse lo dispuesto por los artículos 134, 135 y 136 párrafo primero de este Reglamento.
+
 > <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
 
 ###### Artículo 143.
@@ -1302,6 +1354,14 @@ La lista con los nombres de las personas que acrediten el examen práctico cuya 
 En el texto de la lista de los aspirantes que hayan acreditado la etapa de conocimientos, se deberá señalar que su publicación en el Boletín Judicial tiene también el efecto de que cualquier persona, dentro de los cinco días siguientes, pueda presentar ante la Comisión de Carrera Judicial algún escrito en el que, de manera respetuosa, fundada y motivada, haga las observaciones u objeciones que considere pertinentes respecto de alguno o algunos de los candidatos de la lista y, en su caso, acompañe los documentos indispensables para corroborar sus afirmaciones. Los escritos de observaciones u objeciones se tratarán de manera confidencial y se someterán a consideración del Pleno del Consejo.
 
 Así mismo, el Consejo de la Judicatura deberá escuchar la opinión escrita de agrupaciones profesionales de abogados de esta entidad Federativa, que se encuentren registrados en el Departamento de Profesiones del Estado, así como de las Facultades y Escuelas de Derecho de Baja California.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2016)</small>
+
+Cuando la convocatoria establezca como modalidad el examen teórico-práctico contenido en la fracción II del artículo 137 de este Reglamento, podrá determinarse en ella el número máximo de aspirantes que accederán a la etapa de entrevista. La elección de estos aspirantes será atendiendo a las mejores calificaciones obtenidas de la suma de los componentes del citado examen.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2016)</small>
+
+La lista con los nombres de los aspirantes elegidos en términos del párrafo anterior, será publicada conjuntamente con la calificación obtenida, como mínimo una vez en el Boletín Judicial y únicamente estos aspirantes tendrán derecho a participar en la etapa de entrevista.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE MARZO DE 2015)</small>
 
@@ -1419,7 +1479,9 @@ La puntuación de este artículo será acumulativa y no podrá exceder del lími
 
 La Comisión de Carrera Judicial elaborará una lista con el resultado obtenido por los aspirantes en el examen de méritos, la cual será presentada ante el Pleno del Consejo para su análisis y en su caso aprobación, quien decidirá en forma definitiva sobre la misma.
 
-Una vez efectuado esto por parte del Consejo, la Comisión de Carrera Judicial procederá a realizar la suma de las calificaciones obtenidas por los aspirantes y con dicho resultado, se elaborará y enviará nueva lista al Pleno del Consejo para su análisis; una vez aprobada esta se publicará especificando el puntaje obtenido por los concursantes en cada uno de los exámenes.
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2016)</small>
+
+Una vez efectuado esto por el Consejo, la Comisión de Carrera Judicial procederá a realizar la suma de las calificaciones obtenidas por los aspirantes y con dicho resultado, se elaborará y enviará nueva lista al Pleno del Consejo para su análisis, una vez aprobada esta se publicara especificando el puntaje obtenido por los concursantes, en cada uno de los exámenes.
 
 > <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
 
@@ -1445,9 +1507,13 @@ III. No alcanzar la calificación mínima señalada en las etapas conducentes.
 
 IV. La omisión o falsedad de cualquiera de las manifestaciones hechas bajo protesta de decir verdad.
 
-V. No presentarse el día, lugar y hora señalados, para la realización de los exámenes psicométrico, de conocimientos o la entrevista.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2016)</small>
 
-VI. La impresión en los documentos de los exámenes de conocimiento, mediante escritura, dibujo o adherencia, de cualquier seña, figura o nombre no autorizados, que pueda servir para identificar al sustentante.
+V. No presentarse el día, lugar y hora señalados, para la realización de los exámenes psicométrico, de conocimientos, prácticos o la entrevista.
+
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2016)</small>
+
+VI. La impresión en los exámenes prácticos a los que alude el primer párrafo del artículo 137 de este reglamento, mediante escritura, dibujo o adherencia, de cualquier seña, figura o nombre no autorizados, que pueda servir para identificar al sustentante.
 
 VII. Una vez publicada la convocatoria correspondiente, así como durante el desarrollo del concurso, realizar directa o indirectamente el aspirante alguna gestión ante los miembros del Consejo o del Jurado, tendiente a obtener algún beneficio en dicho concurso.
 
@@ -1487,11 +1553,13 @@ El Consejo tendrá la facultad de declarar desierto el concurso fundada y motiva
 
 En caso de que algún participante no sea aprobado en el concurso, podrá inscribirse al siguiente concurso que se convoque.
 
-> <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2016)</small>
 
 ###### Artículo 159.
 
-La Comisión de Carrera Judicial será la responsable de la elaboración, custodia y aplicación de los exámenes y deberá comunicar al Consejo de la Judicatura los resultados de los mismos, a la brevedad posible.
+La Comisión de Carrera Judicial será la responsable de la elaboración, custodia y aplicación de los exámenes.
+
+El Pleno del Consejo de la Judicatura podrá determinar que la elaboración de los exámenes esté a cargo de un Consejero o varios Consejeros especialmente delegados para ello.
 
 > <small>(ADICIONADO, P.O. 6 DE JUNIO DE 2008)</small>
 
@@ -1523,9 +1591,9 @@ II. El resultado obtenido en el examen psicométrico.
 
 III. La calificación no aprobatoria obtenida en el examen de conocimientos teórico.
 
-> <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2016)</small>
 
-IV. La calificación no aprobatoria obtenida en el examen de conocimientos práctico.
+IV. La calificación no aprobatoria obtenida en el examen práctico y en el examen teórico-práctico.
 
 > <small>(REFORMADA, P.O. 13 DE MARZO DE 2015)</small>
 
@@ -1636,3 +1704,11 @@ P.O. 13 DE MARZO DE 2015.
 Artículo Primero.- Las presentes reformas entran en vigor al día siguiente de su publicación en el Periódico Oficial y el Boletín Judicial del Estado.
 
 Artículo Segundo.- El Pleno del Consejo de la Judicatura, estará facultado para la interpretación de este Reglamento, así como para resolver cuestiones no previstas en el mismo.
+
+P.O. 29 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE “REFORMAS Y ADECUACIONES AL REGLAMENTO DE CARRERA JUDICIAL”.]
+
+PRIMERO.- Las presentes reformas entrarán en vigor el día que sean publicadas en el Periódico Oficial del Estado.
+
+SEGUNDO.- Los concursos de oposición para la designación de Jueces iniciados con anterioridad a la entrada en vigor de estas reformas, se concluirán con apoyo a las disposiciones que se encontraban vigentes al momento de haberse emitido la convocatoria respectiva.
