@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-fomento-a-la-investigacion-cientifica-tecnologica-y-2487
 country: "mx"
 rank: "ley"
 publication_date: "2002-05-17"
-last_updated: "2015-12-29"
+last_updated: "2016-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=24876&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # LEY DE FOMENTO A LA INVESTIGACION CIENTIFICA, TECNOLOGICA Y A LA INNOVACION PARA EL ESTADO DE GUANAJUATO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE ENERO DE 2016 EN EL PERIÓDICO OFICIAL DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE FOMENTO A LA INVESTIGACIÓN CIENTÍFICA, TECNOLÓGICA Y A LA INNOVACIÓN PARA EL ESTADO DE GUANAJUATO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2015.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE ENERO DE 2016.]</small>
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el 17 de mayo de 2002.
 
@@ -127,23 +127,25 @@ II.- Los Ayuntamientos; y
 
 III.- La Secretaría de Innovación, Ciencia y Educación Superior.
 
-> <small>(REFORMADO [N. DE E. ADICIONADO SU ACÁPITE], P.O. 29 DE DICIEMBRE DE 2015)</small>
+(REFORMADO [N. DE E. ADICIONADO SU ACÁPITE], P.O. 29 DE DICIEMBRE DE 2015) (F. DE E., P.O. 29 DE ENERO DE 2016)
 
 Atribuciones del Gobernador
+
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2016)</small>
 
 ###### Artículo 5o.
 
 Corresponde al Gobernador del Estado:
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015) (F. DE E., P.O. 29 DE ENERO DE 2016)
 
-I.- Planear, conducir y coordinar la política general que oriente el desarrollo sustentable del Estado a través de la innovación, la ciencia y la tecnología impulsando acciones de fomento y colaboración entre las Instituciones que integran el SIEG;
+I.- Planear, conducir y coordinar la política general que oriente el desarrollo sustentable del Estado a través de la innovación, la ciencia y la tecnología impulsando acciones de fomento y colaboración entre las instituciones que Integran el SIEG;
 
 > <small>(REFORMADA, P.O. 7 DE JUNIO DE 2013)</small>
 
 II.- Establecer en el Plan Estatal de Desarrollo y en el Programa de Gobierno del Estado las políticas y programas relativos al fomento de la ciencia y la tecnología en el Estado, de conformidad con lo previsto en esta Ley;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015) (F. DE E., P.O. 29 DE ENERO DE 2016)
 
 III.- Aprobar y expedir el Programa Estatal de Ciencia, Tecnología e Innovación;
 
@@ -161,11 +163,13 @@ VII.- Las demás que le señalen las disposiciones legales aplicables.
 
 ###### Artículo 5o Bis.
 
-(DEROGADO, P.O. 29 DE DICIEMBRE DE 2015)
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 2015) (F. DE E., P.O. 29 DE ENERO DE 2016)
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015) (F. DE E., P.O. 29 DE ENERO DE 2016)
 
 Recursos
+
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2016)</small>
 
 ###### Artículo 6o.
 
@@ -345,9 +349,11 @@ Los cargos de los integrantes del Consejo Directivo del SIEG son de carácter ho
 
 La permanencia de los integrantes señalados en las fracciones III y IV del artículo 16, será de cuatro años y podrán ser ratificados por una ocasión.
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015) (F. DE E., P.O. 29 DE ENERO DE 2016)
 
 Atribuciones del Consejo Directivo
+
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2016)</small>
 
 ###### Artículo 18.
 
@@ -355,7 +361,9 @@ El Consejo Directivo del SIEG, tendrá las siguientes atribuciones:
 
 I.- Proponer estrategias para asegurar la integración, coordinación, planeación y adecuado funcionamiento del SIEG en el cumplimiento de sus fines, y para potenciar las capacidades de los organismos e instituciones que lo integran, en el marco de los objetivos del Plan Estatal de Desarrollo y el Programa de Gobierno, así como de la política de ciencia, tecnología e innovación del Estado;
 
-II.- Aprobar el Programa Estatal de Ciencia, Tecnología e Innovación, el cual deberá ser formulado para un período de seis años, asegurando su contribución efectiva al logro de los objetivos del Plan Estatal de Desarrollo, del Programa de Gobierno, del Programa Estatal de Ciencia, Tecnología e Innovación y de la política de ciencia, tecnología, e innovación del Estado;
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2016)</small>
+
+II.- Aprobar el Programa Estatal de Ciencia, Tecnología e Innovación, el cual deberá ser formulado para un período de seis años, asegurando su contribución efectiva al logro de los objetivos del Plan Estatal de Desarrollo, del Programa de Gobierno y de la política de ciencia, tecnología e innovación del Estado;
 
 III.- Analizar, discutir y, en su caso, acordar los programas, proyectos y actividades relativos al desarrollo del SIEG;
 
@@ -379,9 +387,13 @@ XII.- Establecer lineamientos para el uso eficiente y compartido de la infraestr
 
 XIII.- Proponer al Secretario de Innovación, Ciencia y Educación Superior, integrantespara (sic) conformar el Consejo de Asesores Expertos del SIEG;
 
-XV.- Acordar la incorporacióny (sic) la permanencia de Instituciones de Educación Superior, Centros de Investigación, Parques Tecnológicos y Empresas al SIEG; y
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2016)</small>
 
-XVI.- Establecer grupos de trabajo y esquemas organizativos para garantizar el desarrollo de sus funciones y su buen funcionamiento.
+XIV.- Acordar la incorporación y la permanencia de Instituciones de Educación Superior, Centros de Investigación, Parques Tecnológicos y Empresas al SIEG; y
+
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2016)</small>
+
+XV.- Establecer grupos de trabajo y esquemas organizativos para garantizar el desarrollo de sus funciones y su buen funcionamiento.
 
 > <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
 
@@ -465,49 +477,69 @@ IX.- Las demás que le encomiende el Consejo Directivo o el Presidente delmismo 
 
 #### SECCIÓN TERCERA. INTEGRANTES DEL CONSEJO DIRECTIVO DEL SIEG
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015) (F. DE E., P.O. 29 DE ENERO DE 2016)
 
 Atribuciones de los integrantes del Consejo
+
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2016)</small>
 
 ###### Artículo 23.
 
 Los integrantes del Consejo Directivo tendrán las siguientes atribuciones:
 
-I.- Asistir a las sesiones del Consejo Directivo del SIEG;
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2016)</small>
 
-II.- Deliberar respecto de los asuntos que sean sometidos a la consideración del Consejo Directivo, contando con voz y voto para la aprobación de acuerdos;
+I. Asistir a las sesiones del Consejo Directivo del SIEG;
 
-III.- Firmar las actas de las sesiones a las que asistan;
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2016)</small>
 
-IV.- Proponer al Presidente del Consejo Directivo, por conducto del Secretario Técnico del mismo, los asuntos que consideren pudieran formar parte del orden del día;
+II. Deliberar respecto de los asuntos que sean sometidos a la consideración del Consejo Directivo, contando con voz y voto para la aprobación de acuerdos;
 
-V.- Proponer medidas y estrategias para la consecución de los objetivos del Consejo Directivo y del SIEG;
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2016)</small>
 
-VI.- Proponer al Consejo Directivo esquemas para el seguimiento y evaluación de la coordinación, integración y funcionamiento del SIEG;
+III. Firmar las actas de las sesiones a las que asistan;
 
-VII.- Cumplir los acuerdos del Consejo Directivo; y
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2016)</small>
 
-VIII.- Las demás que les confiera la Ley y les asigne el Presidente del Consejo Directivo con base en las disposiciones legales aplicables.
+IV. Proponer al Presidente del Consejo Directivo, por conducto del Secretario Técnico del mismo, los asuntos que consideren pudieran formar parte del orden del día;
+
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2016)</small>
+
+V. Proponer medidas y estrategias para la consecución de los objetivos del Consejo Directivo y del SIEG;
+
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2016)</small>
+
+VI. Proponer al Consejo Directivo esquemas para el seguimiento y evaluación de la coordinación, integración y funcionamiento del SIEG;
+
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2016)</small>
+
+VII. Cumplir los acuerdos del Consejo Directivo; y
+
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2016)</small>
+
+VIII. Las demás que les confiera la Ley y les asigne el Presidente del Consejo Directivo con base en las disposiciones legales aplicables.
 
 ###### Artículo 23 Bis.
 
-(DEROGADO, P.O. 29 DE DICIEMBRE DE 2015)
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 2015) (F. DE E., P.O. 29 DE ENERO DE 2016)
 
 ###### Artículo 23 Ter.
 
-(DEROGADO, P.O. 29 DE DICIEMBRE DE 2015)
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 2015) (F. DE E., P.O. 29 DE ENERO DE 2016)
 
 ###### Artículo 23 Quater.
 
-(DEROGADO, P.O. 29 DE DICIEMBRE DE 2015)
+(DEROGADO, P.O. 29 DE DICIEMBRE DE 2015) (F. DE E., P.O. 29 DE ENERO DE 2016)
 
-> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2015)</small>
+(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE DICIEMBRE DE 2015) (F. DE E., P.O. 29 DE ENERO DE 2016)
 
 #### SECCIÓN CUARTA. CONSEJO DE ASESORES EXPERTOS
 
-> <small>(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+(REFORMADO, P.O. 29 DE DICIEMBRE DE 2015) (F. DE E., P.O. 29 DE ENERO DE 2016)
 
 Integración
+
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2016)</small>
 
 ###### Artículo 24.
 
