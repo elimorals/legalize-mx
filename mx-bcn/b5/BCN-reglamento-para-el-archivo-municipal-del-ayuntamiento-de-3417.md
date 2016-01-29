@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-el-archivo-municipal-del-ayuntamiento-de-3417"
 country: "mx"
 rank: "reglamento"
 publication_date: "1986-12-20"
-last_updated: "1986-12-20"
+last_updated: "2016-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3417&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO PARA EL ARCHIVO MUNICIPAL DEL AYUNTAMIENTO DE ENSENADA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el sábado 20 de diciembre de 1986.
 
@@ -35,7 +35,9 @@ PROYECTO DE REGLAMENTO PARA EL ARCHIVO MUNICIPAL
 
 ARTICULO 1ro.- El archivo general es una Dependencia adscrita a la Oficialía Mayor del Ayuntamiento, destinada a custodiar toda la documentación que se despache o reciba por el Gobierno Municipal y a proporcionar los servicios relativos a consulta, certificación o traspaso.
 
-El archivo General del Ayuntamiento constará de dos secciones: EL ARCHIVO HISTORICO y LA UNIDAD CENTRAL DE CORRESPONDENCIA Y ARCHIVOS ADMINISTRATIVOS.
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2016)</small>
+
+El archivo General del Ayuntamiento constará de una sección: LA UNIDAD CENTRAL DE CORRESPONDENCIA Y ARCHIVOS ADMINISTRATIVOS.
 
 ARTICULO 2do.- Todas las De pendencias (sic) y oficinas del Ayuntamiento de Ensenada, están obligadas a remitir y depositar en el Archivo General todos los expedientes, legajos, libros, fotografías, microfilms, películas, dispositivos, mapas, planos, y toda la documentación cuyo trámite haya concluido o se encuentre suspendido sin causa ni motivo justificado por más de tres meses.
 
@@ -65,37 +67,11 @@ VIII.- Proporcionar a las autoridades competentes los informes que soliciten con
 
 DEL ARCHIVO HISTORICO MUNICIPAL
 
-ARTICULO 6to (sic).- El archivo histórico es una sección del Archivo general del Ayuntamiento de Ensenada, destinado a custodiar el acervo documental y bibliográfico del Gobierno Mpal. para efectos de investigación y demás servicios relativos.
+ARTICULO 6to (sic).- (DEROGADO, P.O. 29 DE ENERO DE 2016)
 
-ARTICULO 7mo.- El archivo histórico está compuesto por:
+ARTICULO 7mo.- (DEROGADO, P.O. 29 DE ENERO DE 2016)
 
-I.- Los documentos y libros que hasta hoy, por su importancia y origen sean considerados como documentación histórica de Ensenada.
-
-II.- Los materiales que se recibirán anualmente del archivo general, en los términos del Artículo 5to. de este reglamento.
-
-III.- Con los documentos relativos a Ensenada que en lo sucesivo deban considerarse históricos, conforme a la Ley Federal sobre momumentos (sic) y zonas arqueológicas, artísticos e históricos.
-
-IV.- Los donativos.
-
-V.- y las adquisiciones por otros conceptos.
-
-ARTICULO 9no (sic).- El titulas (sic) del archivo Histórico tendrá las siguientes atribuciones:
-
-I.- Dirigir técnica y administrativamente al archivo Histórico.
-
-II.- REcibir en definitiva y catalogar la documentación.
-
-III.- Informar mensualmente sobre el estado que guarde el archivo.
-
-IV.- Cuidar de que, sin excepción, la consulta y demás usos de los materiales sean exclusivamente dentro del propio archivo, en base al procedimiento que la Oficialía Mayor del Ayuntamiento y la misma dirección establezcan.
-
-V.- Publicar el órgano Oficial del Archivo Histórico.
-
-VI.- Recomendar a los investigadores la aportación a la Biblioteca de esta Institución, de un ejemplar de sus estudios realizados con empleo de los materiales del Archivo.
-
-VII.- Administrar la biblioteca del Archivo.
-
-VIII.- Formar parte del consejo consultivo del Archivo General del Ayuntamiento.
+ARTICULO 9no (sic).- (DEROGADO, P.O. 29 DE ENERO DE 2016)
 
 ARTICULO 10mo.- Para los efectos de selección de documentos dados de baja y aquellos que serán traspasados al archivo histórico, así como para los casos no previstos en este reglamento, funcionará un consejo consultivo del archivo general del Ayuntamiento, integrado por tres representantes que serán nombrados por el C. Presidente Municipal y deberán ser de comprobada capacidad académica, incluyendo a los titulares de los Archivos Generales e históricos que funcionarán como secretarios.
 
@@ -189,7 +165,9 @@ ARTICULO 35vo.- Concluido el plazo de conservación, antes de proceder a su dest
 
 ARTICULO 36vo.- Para dar de baja a los documentos se formulará un acta en la que se indique la clase de documento y expedientes que serán destruidos.
 
-ARTICULO 37vo.- Los documentos que revistan algún interés histórico serán dados de alta en la sección del archivo histórico del archivo general del ayuntamiento de Ensenada, debiéndose enviar una relación del archivo general de la Nación para su conocimiento.
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2016)</small>
+
+ARTICULO 37vo.- Los documentos que revistan algún interés histórico serán enviados al Consejo del Instituto de Cultura y Desarrollo Humano de Ensenada, para que previo análisis sean resguardadas y dados de alta por la Coordinación de Patrimonio Cultural y del Archivo Histórico, debiéndose enviar una relación del archivo general de la Nación para su conocimiento.
 
 ## TRANSITORIO
 
@@ -246,3 +224,11 @@ C. PROFR. MANUEL GUTIERREZ MANZO.
 C. QUIM. ALFREDO ROSALES GREEN.
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBAN REFORMAS A DIVERSOS ARTÍCULOS DEL REGLAMENTO PARA EL ARCHIVO MUNICIPAL DEL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA Y REGLAMENTO PARA EL CRONISTA, CONSEJO Y ARCHIVO HISTÓRICO DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrara en vigor al día siguiente a su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
