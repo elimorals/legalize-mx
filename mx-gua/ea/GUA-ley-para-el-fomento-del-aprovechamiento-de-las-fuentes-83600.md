@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-el-fomento-del-aprovechamiento-de-las-fuentes-83600"
 country: "mx"
 rank: "ley"
 publication_date: "2011-11-08"
-last_updated: "2015-12-29"
+last_updated: "2016-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83600&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # LEY PARA EL FOMENTO DEL APROVECHAMIENTO DE LAS FUENTES RENOVABLES DE ENERGIA Y SUSTENTABILIDAD ENERGETICA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE ENERO DE 2016 EN EL PERIÓDICO OFICIAL DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY PARA EL FOMENTO DEL APROVECHAMIENTO DE LAS FUENTES RENOVABLES DE ENERGÍA Y SUSTENTABILIDAD ENERGÉTICA PARA EL ESTADO Y LOS MUNICIPIOS DE GUANAJUATO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2015.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL EL 29 DE ENERO DE 2016.]</small>
 
 Ley publicada en la Segunda Parte del Periódico Oficial del Estado de Guanajuato, el martes 8 de noviembre del 2011.
 
@@ -293,7 +293,7 @@ IV. El titular de la Secretaría de Desarrollo Social y Humano;
 
 V. El titular de la Secretaría de Finanzas, Inversión y Administración, quien fungirá como Secretario Ejecutivo;
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015) (F. DE E., P.O. 29 DE ENERO DE 2016)
 
 VI. El Secretario de Innovación, Ciencia y Educación Superior, quien fungirá como Secretario Técnico;
 
