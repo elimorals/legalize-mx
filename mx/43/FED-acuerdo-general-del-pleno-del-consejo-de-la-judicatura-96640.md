@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-del-pleno-del-consejo-de-la-judicatura-96640"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-11-22"
-last_updated: "2016-01-18"
+last_updated: "2016-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=96640&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-11-12"
 
 ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, POR EL QUE SE EXPIDE EL SIMILAR QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 18 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE ENERO DE 2016.
 
 Acuerdo publicado en la Tercera Sección del Diario Oficial de la Federación, el viernes 22 de noviembre de 2013.
 
@@ -1183,19 +1183,21 @@ XVIII. Las demás que establezcan el Pleno y las Comisiones.
 
 Las secretarías ejecutivas, las coordinaciones y la Unidad para la Implementación de la Reforma Penal, contarán con la estructura y el personal determinados por el Pleno con base en el presupuesto autorizado.
 
+> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA REGULACIÓN DE LA SUPLENCIA POR AUSENCIA DE LOS TITULARES DE LAS ÁREAS ADMINISTRATIVAS, D.O.F. 29 DE ENERO DE 2016)</small>
+
 ###### Artículo 70.
 
-Las ausencias temporales o definitivas de los secretarios ejecutivos podrán ser suplidas por cualquier otro servidor público de igual nivel y jerarquía que el Pleno designe para tal efecto.
+Las ausencias temporales o definitivas de los titulares de áreas administrativas serán suplidas conforme a lo siguiente:
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA, ADICIONA Y DEROGA EL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, D.O.F. 18 DE FEBRERO DE 2015)</small>
+I. Las de los secretarios ejecutivos por cualquier otro servidor público que designe la Comisión respectiva, o el Pleno cuando la ausencia sea mayor a quince días; y
 
-En caso de ausencia temporal o definitiva del Titular de la Unidad para la Implementación de la Reforma Penal, el Presidente determinará su suplencia.
+II. La del Titular de la Unidad para la Implementación de la Reforma Penal, de los titulares de los órganos auxiliares y de las coordinaciones, así como de los directores generales, por el servidor público que designe el Presidente, con excepción del Director General del Instituto Federal de Defensoría Pública, y del Director General del Instituto Federal de Especialistas de Concursos Mercantiles, cuya suplencia se regirá por las disposiciones que regulan su organización y funcionamiento.
 
-En los casos de ausencias que ameriten la suplencia, es obligación de los titulares presentar, con la anticipación debida al Pleno, la propuesta del servidor público que habrá de suplirlos, quien una vez designado ejercerá las atribuciones propias del cargo. La propuesta deberá contener el motivo y el periodo de la suplencia.
+En los casos de ausencias que ameriten la suplencia, es obligación de los titulares de las áreas administrativas dar aviso al Pleno, al Presidente o a la Comisión respectiva, según corresponda, a efecto de que se haga la designación correspondiente.
 
-Los titulares de las coordinaciones serán suplidos en sus ausencias temporales o definitivas por sus subordinados inmediatos en el orden que establezca el manual de organización respectivo.
+La propuesta deberá contener el motivo y el periodo de la suplencia.
 
-Los titulares o quienes los suplan notificarán y difundirán a las instancias que correspondan, el acuerdo que determinó la suplencia.
+Los titulares o quienes los suplan, harán alusión al acuerdo que determinó la suplencia en los oficios que suscriban.
 
 El servidor público designado ejercerá las atribuciones propias del cargo.
 
@@ -2157,13 +2159,11 @@ Los titulares de los órganos auxiliares deberán definir, revisar y ser respons
 
 ###### Artículo 102.
 
-Con las excepciones previstas en este Acuerdo General y demás disposiciones, los titulares de los órganos auxiliares, serán suplidos en sus ausencias, temporales o definitivas, por el servidor público que al efecto designe el Pleno. El servidor público designado ejercerá las atribuciones propias del cargo.
-
-En los casos de ausencias que ameriten la suplencia, es obligación de los titulares presentar, con la anticipación debida al Pleno, la propuesta del servidor público que habrá de suplirlos, quien una vez designado ejercerá las atribuciones propias del cargo. La propuesta deberá contener el motivo y el periodo de la suplencia.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA REGULACIÓN DE LA SUPLENCIA POR AUSENCIA DE LOS TITULARES DE LAS ÁREAS ADMINISTRATIVAS, D.O.F. 29 DE ENERO DE 2016)
 
 ###### Artículo 103.
 
-Los titulares o quienes los suplan, notificarán y difundirán a las instancias que correspondan, el acuerdo que determinó la suplencia.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA REGULACIÓN DE LA SUPLENCIA POR AUSENCIA DE LOS TITULARES DE LAS ÁREAS ADMINISTRATIVAS, D.O.F. 29 DE ENERO DE 2016)
 
 #### SECCIÓN SEGUNDA. DIRECCIONES GENERALES EN LO PARTICULAR
 
@@ -2497,7 +2497,9 @@ III. Recibir quejas administrativas y denuncias durante la práctica de visitas;
 
 IV. Expresar a la Comisión respectiva, el impedimento que tengan para realizar visitas de inspección extraordinarias, o bien para revisar resoluciones;
 
-V. Suplir las ausencias temporales del Visitador General, cuando lo determine la Comisión de Disciplina, o la de algún visitador judicial "A", cuando lo disponga el Visitador General;
+> <small>(REFORMADA POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA REGULACIÓN DE LA SUPLENCIA POR AUSENCIA DE LOS TITULARES DE LAS ÁREAS ADMINISTRATIVAS, D.O.F. 29 DE ENERO DE 2016)</small>
+
+V. Suplir las ausencias temporales de algún visitador judicial "A", cuando lo disponga el Visitador General;
 
 VI. Tratar con respeto tanto al personal de la Visitaduría Judicial, como al de los órganos jurisdiccionales;
 
@@ -2707,15 +2709,15 @@ XX. Las demás que establezcan el Pleno y las Comisiones.
 
 ###### Artículo 144.
 
-Los titulares de las direcciones generales serán suplidos en sus ausencias temporales o definitivas por sus subordinados inmediatos en el orden que establezca el manual de organización respectivo.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA REGULACIÓN DE LA SUPLENCIA POR AUSENCIA DE LOS TITULARES DE LAS ÁREAS ADMINISTRATIVAS, D.O.F. 29 DE ENERO DE 2016)
 
 ###### Artículo 145.
 
-El servidor público designado ejercerá las atribuciones propias del cargo.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA REGULACIÓN DE LA SUPLENCIA POR AUSENCIA DE LOS TITULARES DE LAS ÁREAS ADMINISTRATIVAS, D.O.F. 29 DE ENERO DE 2016)
 
 ###### Artículo 146.
 
-Los titulares o quienes los suplan notificarán y difundirán a las instancias que correspondan, el acuerdo que determinó la suplencia.
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA REGULACIÓN DE LA SUPLENCIA POR AUSENCIA DE LOS TITULARES DE LAS ÁREAS ADMINISTRATIVAS, D.O.F. 29 DE ENERO DE 2016)
 
 #### SECCIÓN SEGUNDA. DEL ARCHIVO GENERAL DEL CONSEJO
 
@@ -5388,3 +5390,11 @@ D.O.F. 18 DE ENERO DE 2016.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese este Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 29 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DEL SIMILAR, QUE REGLAMENTA LA ORGANIZACIÓN Y FUNCIONAMIENTO DEL PROPIO CONSEJO, RELATIVO A LA REGULACIÓN DE LA SUPLENCIA POR AUSENCIA DE LOS TITULARES DE LAS ÁREAS ADMINISTRATIVAS”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
