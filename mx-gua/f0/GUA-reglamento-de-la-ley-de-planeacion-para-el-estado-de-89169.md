@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-de-planeacion-para-el-estado-de-89169"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-08-17"
-last_updated: "2012-08-17"
+last_updated: "2016-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89169&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GUA"
 
 REGLAMENTO DE LA LEY DE PLANEACIÓN PARA EL ESTADO DE GUANAJUATO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2016.
 
 Reglamento publicado en la Quinta Parte del Periódico Oficial del Estado de Guanajuato, el viernes 17 de agosto de 2012.
 
@@ -59,7 +59,9 @@ I. COPLADEG: El Consejo de Planeación para el Desarrollo del Estado de Guanajua
 
 II. COPLADEM: Los Consejos de Planeación de Desarrollo Municipales;
 
-III. IPLANEG: El Instituto de Planeación del estado de Guanajuato;
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2016)</small>
+
+III. IPLANEG: El Instituto de Planeación, Estadística y Geografía del Estado de Guanajuato;
 
 IV. Ley: La Ley de Planeación para el Estado de Guanajuato;
 
@@ -259,6 +261,8 @@ Regiones y subregiones del COPLADEG
 
 El COPLADEG se divide en cuatro regiones, las cuales se integran por los siguientes municipios:
 
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2016)</small>
+
 Región I Noreste Región II Norte
 
 Atarjea Dolores Hidalgo Cuna de la
@@ -279,7 +283,7 @@ Victoria
 
 Xichú
 
-Región III Centro Región IV Sur
+Región III Centro Región V (sic) Sur
 
 Apaseo el Alto Abasolo
 
@@ -307,7 +311,7 @@ San Francisco del Rincón Santiago Maravatío
 
 Santa Cruz de Juventino Rosas Tarandacuao
 
-Silao Uriangato
+Silao de la Victoria Uriangato
 
 Tarimoro Valle de Santiago
 
@@ -331,7 +335,9 @@ Subregión 4: San Miguel de Allende, Dolores Hidalgo Cuna de la Independencia Na
 
 III Región Centro:
 
-Subregión 5: León, Purísima del Rincón, Romita, San Francisco del Rincón y Silao.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2016)</small>
+
+Subregión 5: León, Purísima del Rincón, Romita, San Francisco del Rincón y Silao de la Victoria.
 
 Subregión 6: Irapuato y Salamanca.
 
@@ -749,9 +755,13 @@ IX. Coordinar el Sistema de Evaluación del Desarrollo de los instrumentos del S
 
 X. Coordinar la realización del Programa de Gobierno;
 
-XI. Asesorar en materia técnica y metodológica y en la definición de objetivos, metas y estrategias para los Programas Sectoriales, Regionales, Especiales, Institucionales y POA, a las dependencias y entidades de la Administración Pública Estatal; y
+> <small>(ADICIONADA, P.O. 29 DE ENERO DE 2016)</small>
 
-XII. Asesorar en la integración de la información necesaria para el monitoreo por parte del Ejecutivo del Estado en el seguimiento de las metas establecidas en el Programa de Gobierno, Programas Sectoriales, Regionales, Especiales, Institucionales y POA.
+XI. Elaborar un informe anual de avance del Plan Estatal de Desarrollo y del Programa de Gobierno del Estado, previa aprobación del Gobernador, mismo que deberá publicarse a más tardar el 31 de marzo de cada año en el Periódico Oficial del Gobierno del Estado;
+
+XII. Asesorar en materia técnica y metodológica y en la definición de objetivos, metas y estrategias para los Programas Sectoriales, Regionales, Especiales, Institucionales y POA, a las dependencias y entidades de la Administración Pública Estatal; y
+
+XIII. Asesorar en la integración de la información necesaria para el monitoreo por parte del Ejecutivo del Estado en el seguimiento de las metas establecidas en el Programa de Gobierno, Programas Sectoriales, Regionales, Especiales, Institucionales y POA.
 
 Asesorar a las dependencias y entidades de la Administración Pública Estatal para la integración de la información para el informe de gobierno.
 
@@ -881,9 +891,19 @@ III. Prospectiva y escenarios, que proyecten la evolución del Estado frente a l
 
 IV. Visión de desarrollo a veinticinco años;
 
-V. Objetivos y estrategias sectoriales y regionales para el desarrollo del Estado; y
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2016)</small>
+
+V. Objetivos, estrategias sectoriales y regionales para el desarrollo del Estado, líneas de acción, indicadores y metas vinculadas a éstos;
 
 VI. Lineamientos para el seguimiento y la evaluación del Plan Estatal de Desarrollo, que comprende la ejecución del plan y sus programas derivados; la supervisión y monitoreo periódico del avance y cumplimiento de los objetivos y estrategias contenidos en el Plan Estatal de Desarrollo.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2016)</small>
+
+Publicación de la actualización del Plan Estatal de Desarrollo
+
+###### Artículo 50 Bis.
+
+Para efectos de lo dispuesto por el artículo 25 de la Ley, la actualización del Plan Estatal de Desarrollo se deberá publicar en el Periódico Oficial del Gobierno del Estado a más tardar el 31 de diciembre del año previo al de conclusión del periodo constitucional del Poder Ejecutivo Estatal.
 
 ### Capítulo II. Programa de Gobierno del Estado
 
@@ -905,7 +925,9 @@ II. Apartado que establezca la congruencia de objetivos y estrategias con el Pla
 
 III. Programas, proyectos y acciones derivados para su instrumentación;
 
-IV. Metas para la atención en el mediano y corto plazo; y
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2016)</small>
+
+IV. Indicadores y metas vinculadas a éstos para la atención en el mediano y corto plazo; y
 
 V. Lineamientos generales para la ejecución, el seguimiento y la evaluación del Programa de Gobierno del Estado, por cada ejercicio presupuestal.
 
@@ -916,6 +938,14 @@ Actualización del Programa de Gobierno
 ###### Artículo 53.
 
 En el caso de que el Programa de Gobierno bajo evaluación requiera modificaciones o actualizaciones, por cambios en el entorno del desarrollo del Estado, deberá seguir el mismo procedimiento establecido para su formulación.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2016)</small>
+
+Publicación (sic) la actualización del Programa de Gobierno del Estado
+
+###### Artículo 53 Bis.
+
+Para efectos de lo dispuesto por el artículo 26 párrafo segundo de la Ley, el Programa de Gobierno del Estado se deberá publicar en el Periódico Oficial del Goblerno (sic) del Estado a más tardar el 26 de marzo del primer año de gobierno del ejecutivo estatal en turno.
 
 ### Capítulo III. Programas Regionales
 
@@ -1135,11 +1165,13 @@ El POA atenderá a los objetivos y estrategias del Plan Estatal de Desarrollo, a
 
 Cada dependencia y entidad de la Administración Pública Estatal deberá elaborar su POA considerando la normatividad aplicable.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2016)</small>
+
 Incorporación de los gastos de operación
 
 ###### Artículo 75.
 
-El Poder Ejecutivo del Estado, a través de la Secretaría de Finanzas y Administración, integrará la parte correspondiente al gasto de operación ordinario y la propuesta de inversión de las dependencias y entidades de la Administración Pública Estatal, para su aprobación y posterior incorporación dentro del Proyecto del Presupuesto General de Egresos, de conformidad a lo establecido en la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato.
+El Poder Ejecutivo del Estado, a través de la Secretaría de Finanzas, Inversión y Administración, integrará la parte correspondiente al gasto de operación ordinario y la propuesta de inversión de las dependencias y entidades de la Administración Pública Estatal, para su aprobación y posterior incorporación dentro del Proyecto del Presupuesto General de Egresos, de conformidad a lo establecido en la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato.
 
 Estructura
 
@@ -1185,7 +1217,9 @@ Seguimiento
 
 El Poder Ejecutivo del Estado a través de las dependencias responsables, de conformidad con el artículo 44 de la Ley Orgánica del Poder Ejecutivo para el Estado de Guanajuato, dará seguimiento al POA.
 
-Las dependencias y entidades de la Administración Pública Estatal, proporcionarán reportes trimestrales del avance físico, financiero y de resultados respecto de su POA, que permita dar seguimiento al impacto de éste en los objetivos y metas del Programa de Gobierno del Estado y los programas estatales respectivos, sin perjuicio de que la Secretaría de Finanzas y Administración pueda pedir dicha información cuando lo considere pertinente.
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2016)</small>
+
+Las dependencias y entidades de la Administración Pública Estatal, proporcionarán reportes trimestrales del avance físico, financiero y de resultados respecto de su POA, que permita dar seguimiento al impacto de éste en los objetivos y metas del Programa de Gobierno del Estado y los programas estatales respectivos, sin perjuicio de que la Secretaría de Finanzas, Inversión y Administración pueda pedir dicha información cuando lo considere pertinente.
 
 ## Título Séptimo. Sistema Estatal de Información Estadística y Geográfica
 
@@ -1307,7 +1341,9 @@ Sistema de Seguimiento y Evaluación
 
 El Sistema de Evaluación del Desarrollo estará a cargo del IPLANEG y tendrá por objeto asegurar el cumplimiento de los objetivos y estrategias del Plan Estatal de Desarrollo, vinculando indicadores estratégicos a las metas y proyectos de los instrumentos del SEPLAN, evaluando su impacto en el desarrollo del Estado.
 
-El Sistema de Evaluación del Desarrollo complementa al sistema de seguimiento y evaluación de la Secretaría de Finanzas y Administración.
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2016)</small>
+
+El Sistema de Evaluación del Desarrollo complementa al sistema de seguimiento y evaluación de la Secretaría de Finanzas, Inversión y Administración.
 
 T R A N S I T O R I O S
 
@@ -1326,3 +1362,13 @@ HÉCTOR GERMÁN RENÉ LÓPEZ SANTILLANA
 SECRETARIO DE GOBIERNO
 
 ROMÁN CIFUENTES NEGRETE
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO GUBERNATIVO NÚMERO 141, MEDIANTE EL CUAL SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE LA LEY DE PLANEACIÓN PARA EL ESTADO DE GUANAJUATO".]
+
+Inicio de vigencia
+
+Artículo Único. El presente Decreto Gubernativo entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
