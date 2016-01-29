@@ -4,7 +4,7 @@ identifier: "GUA-reglamento-de-la-ley-de-seguridad-social-del-estado-de-90673"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-12-14"
-last_updated: "2012-12-14"
+last_updated: "2016-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=90673&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "GUA"
 
 REGLAMENTO DE LA LEY DE SEGURIDAD SOCIAL DEL ESTADO DE GUANAJUATO EN MATERIA FINANCIERA
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO EN MATERIA FINANCIERA DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE GUANAJUATO, PUBLICADO EN EL P.O. DE 29 DE ENERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2016 (ABROGADO).
 
 Reglamento publicado en la Segunda Parte del Periódico Oficial de Guanajuato, el viernes 14 de diciembre de 2012.
 
@@ -626,3 +628,17 @@ ANTONIO SALVADOR GARCÍA LÓPEZ
 EL SECRETARIO DE FINANZAS, INVERSIÓN Y ADMINISTRACIÓN
 
 JUAN IGNACIO MARTÍN SOLÍS
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 29 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO GUBERNATIVO NÚMERO 140, MEDIANTE EL CUAL SE EXPIDE EL REGLAMENTO EN MATERIA FINANCIERA DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE GUANAJUATO”.]
+
+Inicio de vigencia
+
+Artículo Primero. El presente Decreto Gubernativo entrará en vigencia al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+Abrogación
+
+Artículo Segundo. Se abroga el Reglamento de la Ley de Seguridad Social del Estado de Guanajuato en Materia Financiera, contenido en el Decreto Gubernativo número 11, publicado en el Periódico Oficial del Gobierno del Estado número 200, Segunda Parte, el 14 de diciembre de 2012.
