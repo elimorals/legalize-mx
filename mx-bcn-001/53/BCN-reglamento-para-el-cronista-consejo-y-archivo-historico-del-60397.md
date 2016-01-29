@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-para-el-cronista-consejo-y-archivo-historico-del-603
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-03-14"
-last_updated: "2011-08-26"
+last_updated: "2016-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60397&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO PARA EL CRONISTA, CONSEJO Y ARCHIVO HISTÓRICO DEL MUNICIPIO DE ENSENADA BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE AGOSTO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ENERO DE 2016.
 
 Reglamento publicado en la Sección I del Periódico Oficial del Estado de Baja California, el viernes 14 de marzo de 2008.
 
@@ -103,11 +103,17 @@ El presente Reglamento es de orden público, e interés social, y tiene por obje
 
 La aplicación y observancia de este Reglamento, se circunscribe a la jurisdicción del municipio de Ensenada, Baja California.
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2016)</small>
 
 ###### Artículo 3.
 
-El Archivo Histórico de Ensenada es el órgano del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada, encargado de rescatar y recopilar los registros literarios y documentales de los personajes y acontecimientos pasados más relevantes de la comunidad, en estrecha relación y colaboración con el Ayuntamiento, organizaciones y sociedad civil, para ser depositados en él mismo.
+El Archivo Histórico de Ensenada es el ente incorporado al Instituto municipal de Cultura y Desarrollo Humano de Ensenada, a cargo de una Coordinación de Patrimonio Cultural y Archivo Histórico, encargado de rescatar y recopilar los registros literarios y documentales de los personajes y acontecimientos pasados más relevantes de la comunidad, en estrecha relación y colaboración con el Ayuntamiento, organizaciones y sociedad civil, para ser depositados en el mismo.
+
+Todas las Dependencias y Entidades del Ayuntamiento de Ensenada, podrán enviar al Consejo para su análisis, revisión y resolución los expedientes, legajos, libros, fotografías, microfilmes, películas, dispositivos, mapas, planos, y la documentación cuyo valor sea cultural o histórico, según lo determine el propio Consejo para el resguardo en la Coordinación de Patrimonio Cultural y del Archivo Histórico.
+
+El Coordinador del Patrimonio archivo histórico estará facultado para reproducir copias fotostáticas, microfilmes y otro procedimiento similar, en relación con la documentación que tenga bajo su custodia, especialmente en los casos en que sea necesario preservarlos de su deterioro o destrucción.
+
+Lo dispuesto en el párrafo anterior solo será aplicable para el personal que se encuentre adscrito a dicho ente, por lo que la población en general solo podrá tener acceso a ellos mediante consulta en las instalaciones donde se ubique el Archivo Histórico.
 
 ###### Artículo 4.
 
@@ -115,29 +121,27 @@ El Presidente Municipal tendrá la facultad de interpretar y aplicar las normas 
 
 El cronista y el archivo histórico municipal, dependerán del Instituto municipal de cultura y desarrollo humano de Ensenada.
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2016)</small>
+
 ###### Artículo 5.
 
 Para efectos de este Reglamento, se entiende por:
 
-AYUNTAMIENTO: Al Honorable Ayuntamiento de Ensenada, Baja California
+ARCHIVO HISTÓRICO: El lugar para resguardar los documentos, los expedientes, legajos, libros, fotografías, microfilmes, películas, dispositivos, mapas, planos, y toda la documentación cuyo valor sea cultural o histórico n (sic) los términos que el Consejo determine.
 
-MUNICIPIO: Al Municipio de Ensenada, Baja California
-
-PRESIDENTE: Al Presidente Municipal de Ensenada, Baja California
-
-INSTITUTO: Instituto Municipal de Cultura y Desarrollo Humano de Ensenada
-
-CRONICA: Narración que tiene por objeto asentar sucesos históricos de un pueblo o una nación, dignos de memoria por su gran importancia o trascendencia.
-
-HISTORIA: Narración y exposición de los acontecimientos pasados.
-
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
+AYUNTAMIENTO: Es el órgano colegiado conformado por los munícipes o ediles, y es el responsable del Gobierno del Municipio
 
 CONSEJO: Consejo del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada.
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
+CRÓNICA: Narración que tiene por objeto asentar sucesos históricos de un pueblo o una nación, dignos de memoria por su gran importancia o trascendencia.
 
-ARCHIVO: Archivo Histórico del Municipio de Ensenada, entendido como el lugar para guardar documentos.
+HISTORIA: Narración y exposición de los acontecimientos pasados.
+
+INSTITUTO: Instituto Municipal de Cultura y Desarrollo Humano de Ensenada
+
+MUNICIPIO: Es la institución jurídica, política y social que se constituye para el logro de los intereses de convivencia de una comunidad; reconocida como un orden de gobierno, base de la división política territorial del Estado
+
+PRESIDENTE: Al Presidente Municipal de Ensenada, Baja California.
 
 ### CAPITULO SEGUNDO. NOMBRAMIENTO DEL CRONISTA
 
@@ -217,7 +221,9 @@ III.- A ser invitado a los actos públicos organizados por el Ayuntamiento, y el
 
 IV.- A recibir gratuitamente un ejemplar de todas las publicaciones editadas por el Ayuntamiento a partir de su nombramiento.
 
-V.- A tener acceso al material documental y/o informático (electrónico) del Archivo y de las bibliotecas, hemerotecas municipales, para su consulta y estudio.
+> <small>(REFORMADA, P.O. 29 DE ENERO DE 2016)</small>
+
+V.- A tener acceso al material documental y/o informático (electrónico) del Archivo Histórico y de las bibliotecas, hemerotecas municipales, para su consulta y estudio.
 
 VI.- A la publicación por parte del Ayuntamiento, de la “Crónica de Ensenada” o crónica de la Delegación municipal de que se trate, siempre que el Ayuntamiento lo considere oportuno.
 
@@ -267,9 +273,67 @@ El Instituto podrá celebrar convenios relativos a los objetivos del Archivo His
 
 (DEROGADO, P.O. 26 DE AGOSTO DE 2011)
 
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2016)</small>
+
 ###### Artículo 24.
 
-El Archivo contará con información relacionada con la historia de Ensenada y se encargará de difundirla en el inmueble que ocupe y donde acudan los ciudadanos a consultar o por los diferentes medios escritos o electrónicos.
+El Archivo Histórico contará con información relacionada con la historia de Ensenada y se encargará de difundirla en el inmueble que ocupe y donde acudan los ciudadanos a consultar o por los diferentes medios escritos o electrónicos.
+
+El Archivo Histórico está conformado por:
+
+I. Los documentos y libros que hasta hoy, por su importancia y origen sean considerados como documentación histórica de Ensenada.
+
+II. Los expedientes, legajos, libros, fotografías, microfilmes, películas, dispositivos, mapas, planos, y toda la documentación cuyo valor sea cultural o histórico.
+
+III. Los materiales que se recibirán anualmente del archivo general, en los términos del Artículo 3 de este reglamento.
+
+IV. Con los documentos relativos a Ensenada que en lo sucesivo deban considerarse históricos, conforme a la Ley Federal sobre monumentos y zonas arqueológicas, artísticas e históricas.
+
+V. Las aportaciones, transferencias, donaciones, legados, herencias y subsidios que hagan en su favor las instituciones u organismos federales, estatales o municipales, privados o gubernamentales, así como particulares;
+
+Las adquisiciones de material, equipo u otro que de conformidad con el presupuesto de egresos aprobado para el Instituto y sea asignado para el Archivo Histórico.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2016)</small>
+
+###### Artículo 24 Bis.
+
+Para designar a la persona que ocupará el cargo de Coordinador del Patrimonio Cultural y del Archivo Histórico, el Consejo realizará una convocatoria abierta, con un mes de anticipación, de donde se elegirá a la persona quien mejor cumpla con los requisitos y el perfil señalado.
+
+Para ser deberá cumplir como mínimo con el siguiente perfil:
+
+1.- Ser Ciudadano mexicano en sus derechos civiles y públicos de reconocida trayectoria por su relación con el ámbito cultural en la región, con conocimientos y sensibilidad en la materia
+
+2.- Tener Conocimiento de la Historia de Baja California.
+
+3.- Conocimiento para la organización, catalogación de los archivos y documentos históricos.
+
+4.- Residencia mínima de 5 años en el Municipio de Ensenada, Baja California.
+
+5.- Presentar carta de no antecedentes administrativos en el servicio Público en el Estado y Municipio;
+
+6.- Presentar Carta de no antecedentes penales.
+
+El Consejo determinará la forma, términos y plazos para que los interesados deban de acreditar los conocimientos aludidos en el párrafo anterior.
+
+> <small>(ADICIONADO, P.O. 29 DE ENERO DE 2016)</small>
+
+###### Artículo 24 Ter.
+
+El Coordinador del Archivo Histórico tendrá las siguientes atribuciones:
+
+I.- Dirigir técnica y administrativamente al archivo Histórico.
+
+II.- Recibir en definitiva y catalogar la documentación.
+
+III.- Informar al Director mensualmente sobre el estado que guarde el archivo.
+
+IV.- Cuidar de que, sin excepción, la consulta y demás usos de los materiales sean exclusivamente dentro del propio Archivo Histórico.
+
+V.- Recomendar a los investigadores la aportación a la Biblioteca de este ente Incorporado al Instituto, de un ejemplar de sus estudios realizados con empleo de los materiales del Archivo.
+
+VI.- Administrar la biblioteca del Archivo.
+
+VII.- Trabajará permanentemente con el Instituto para mantener actualizado su acervo y contar con los medios audiovisuales o electrónicos modernos e incluso microfilmes, discos compactos etc. con el objeto de facilitar la organización del archivo y la consulta a los usuarios.
 
 ###### Artículo 25.
 
@@ -279,11 +343,11 @@ El Archivo Histórico contará con espacio suficiente para recopilar libros, per
 
 El Cronista de la Ciudad se coordinará con el Director de administración de bienes patrimoniales del municipio, para tener acceso al archivo Municipal en donde únicamente se contará con documentos oficiales.
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 29 DE ENERO DE 2016)</small>
 
 ###### Artículo 27.
 
-El Instituto a través del Archivo trabajará permanentemente para mantener actualizado su acervo y contar con los medios audiovisuales o electrónicos modernos e incluso microfilmes, discos compactos etc. con el objeto de facilitar la organización del archivo y la consulta a los usuarios.
+El Instituto a través del archivo histórico trabajará permanentemente para mantener actualizado su acervo y contar con los medios audiovisuales o electrónicos modernos e incluso microfilmes, discos compactos etc. con el objeto de facilitar la organización del archivo y la consulta a los usuarios.
 
 ## TRANSITORIOS
 
@@ -314,3 +378,9 @@ PRIMERO.- Una vez aprobada la presente reforma, publíquese en el Periódico Ofi
 SEGUNDO.- El Consejo del Archivo Histórico de Ensenada, que a la fecha se hubiese conformado quedará sin efectos a la entrada en vigor de la presente reforma.
 
 TERCERO.- Se derogan todas las disposiciones que contravengan el contenido de la presente reforma y sus artículos transitorios.
+
+P.O. 29 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBAN REFORMAS A DIVERSOS ARTÍCULOS DEL REGLAMENTO PARA EL ARCHIVO MUNICIPAL DEL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA Y REGLAMENTO PARA EL CRONISTA, CONSEJO Y ARCHIVO HISTÓRICO DEL MUNICIPIO DE ENSENADA, BAJA CALIFORNIA”.]
+
+ÚNICO.- La presente reforma entrara en vigor al día siguiente a su publicación en la Gaceta Municipal y/o en el Periódico Oficial del Estado de Baja California.
