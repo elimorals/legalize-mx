@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-de-la-secretaria-de-desarrollo-74920"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-04-30"
-last_updated: "2013-08-19"
+last_updated: "2016-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74920&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "ROO"
 
 REGLAMENTO INTERNO DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO, RURAL E INDÍGENA DEL ESTADO DE QUINTANA ROO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2013.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO Y RURAL DEL ESTADO DE QUINTANA ROO, PUBLICADO EN EL P.O. DE 29 DE ENERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 29 DE ENERO DE 2016. (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Quintana Roo, el viernes 30 de abril de 2010.
 
@@ -332,7 +334,7 @@ XIII. Supervisar la correcta aplicación de los mecanismos para la operación de
 
 XIV. Promover la capitalización de los productores de bajos ingresos mediante los programas correspondientes;
 
-XV. Fomentar el uso de la tecnología de punta con la finalidad de incrementar substancialmente la calidad genética del hato ganadero en el Estado; y (sic)
+XV. Fomentar el uso de la tecnología de punta con la finalidad de incrementar substancialmente la calidad genética del hato ganadero en el Estado; y
 
 XVI. Promover las acciones necesarias para el incremento del hato ganadero tanto en número como en calidad de los semovientes y el aprovechamiento óptimo de los mismos.
 
@@ -1404,7 +1406,7 @@ Para su mejor funcionamiento, los Órganos o Unidades Administrativas deberán f
 
 ###### ARTÍCULO QUINTO.
 
-Los recursos financieros y materiales que estuvieran asignados a las Unidades Administrativas que desaparezcan o modifican su competencia en virtud de lo dispuesto en el presente' ordenamiento, serán reasignados a las unidades que asuman las correspondientes atribuciones con la intervención de la Dirección Administrativa y de conformidad con las instrucciones que al efecto imparta el Titular; y (sic)
+Los recursos financieros y materiales que estuvieran asignados a las Unidades Administrativas que desaparezcan o modifican su competencia en virtud de lo dispuesto en el presente' ordenamiento, serán reasignados a las unidades que asuman las correspondientes atribuciones con la intervención de la Dirección Administrativa y de conformidad con las instrucciones que al efecto imparta el Titular; y
 
 DADO EN LA RESIDENCIA DEL PODER EJECUTIVO, EN LA CIUDAD DE CHETUMAL, CAPITAL DEL ESTADO DE QUINTANA ROO, A LOS - DÍAS DEL MES DE MARZO DEL AÑO DOS MIL DIEZ.
 
@@ -1489,3 +1491,15 @@ Vigésimo Cuarto. Dentro de los tres días siguientes a la entrada en vigor del 
 Vigésimo Quinto. Dentro de los tres días siguientes a la entrada en vigor del presente Decreto, la Junta Directiva de la Universidad de Quintana Roo tomará las providencias necesarias para la debida incorporación de los representantes de la Oficialía Mayor y de la Secretaría de Planeación y Finanzas.
 
 Vigésimo Sexto. Se derogan todas las disposiciones de igual o menor jerarquía, que se opongan al presente Decreto.
+
+P.O. 29 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE DESARROLLO AGROPECUARIO Y RURAL”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaria de Desarrollo Agropecuario, Rural e Indígena, publicado en el Periódico Oficial del Estado de Quintana Roo, el 30 de abril del 2010.
