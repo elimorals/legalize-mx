@@ -4,7 +4,7 @@ identifier: "MIC-ley-de-ingresos-del-estado-de-michoacan-de-ocampo-para-el-11160
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2015-12-31"
-last_updated: "2015-12-31"
+last_updated: "2016-01-29"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111601&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MIC"
 ---
 # LEY DE INGRESOS DEL ESTADO DE MICHOACAN DE OCAMPO PARA EL EJERCICIO FISCAL DEL AÑO 2016
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE ENERO DE 2016 EN EL P.O. DEL ESTADO DE MICHOACÁN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE INGRESOS DEL ESTADO DE MICHOACÁN DE OCAMPO PARA EL EJERCICIO FISCAL DEL AÑO 2016.
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE ENERO DE 2016.]</small>
 
 Ley publicada en la Décima Sexta Sección del Periódico Oficial del Estado de Michoacán, el jueves 31 de diciembre de 2015.
 
@@ -515,7 +515,9 @@ título de concesión, previos requisitos que
 
 deberá cumplir el concesionario. $ 2,740.00
 
-E) Por la transferencia o venta del título de concesión de servicio público de autotransporte urbano y foráneo, entre personas físicas, previo cumplimiento de lo dispuesto por la normatividad correspondiente, se pagarán, veinte veces el valor referido a la renovación o refrendo de concesiones señalados en la Fracción II, de este artículo. Exceptuándose el transporte escolar.
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2016)</small>
+
+E) Por la transferencia del título de concesión de servicio público de autotransporte urbano y foráneo, entre personas físicas, previo cumplimiento de lo dispuesto por la normatividad correspondiente, se pagarán, cinco veces el valor referido a la renovación o refrendo de concesiones señalados en la Fracción II, de este artículo. Exceptuándose el transporte escolar.
 
 IV. Los servicios de registro y control vehicular, tratándose de vehículos destinados al servicio de transporte público en el Estado, causarán derechos que se pagarán conforme a las siguientes:
 
@@ -899,9 +901,11 @@ gravámenes, se aplicará una cuota por cada gravamen
 
 adicional de: $ 31.00
 
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2016)</small>
+
 e) Certificado sobre existencia o inexistencia de
 
-gravámenes o anotaciones preventivas. $ 625.00
+gravámenes con anotaciones preventivas. $ 625.00
 
 2. Por la expedición de certificados de propiedad
 
@@ -1143,7 +1147,9 @@ VI. Reporte de búsqueda en el Registro Nacional de
 
 avisos de testamento. $ 171.00
 
-VII. Por cada hoja con Folio Notarial LN Mich.,
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2016)</small>
+
+VII. Por cada hoja con Folio Notarial,
 
 exclusiva para notarios. $ 6.00
 
@@ -1227,13 +1233,15 @@ hábiles fuera del horario normal de labores. $ 925.00
 
 Las cuotas de los servicios señalados en los incisos B), C) y D) anteriores, incluyen el 35% de honorarios para pago en el momento a los Oficiales del Registro Civil que realizan dichos servicios.
 
-III. Levantamiento de actas de defunción.
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2016)</small>
 
-Únicamente se cubre el costo de la hoja de papel
+III. Levantamiento de actas de defunción, o inscripción de
 
-oficial, referida en la fracción III, inciso C)
+defunción de mexicanos fallecidos en el extranjero. $36.00
 
-del artículo 33 de esta Ley. $ 36.00
+Únicamente se cubre el costo de la hoja de papel oficial,
+
+referida en la fracción III, inciso C) del artículo 33 de esta Ley.
 
 IV. Por inscripciones:
 
@@ -1249,7 +1257,9 @@ C) De actas de nacimiento de hijos mexicanos
 
 nacidos en el extranjero. $ 487.50
 
-D) De adopción. $ 487.50
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2016)</small>
+
+D) De adopción dictada por tribunal nacional o extranjero. $487.50
 
 V. Por expedición de certificados, copias certificadas o constancias:
 
@@ -1269,7 +1279,9 @@ F) Habilitación de edad, así como de reconocimiento
 
 de hijos, asentados por resolución judicial. $ 180.00
 
-G) De actas de matrimonio. $ 247.50
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2016)</small>
+
+G) De actas de matrimonio o sociedad de convivencia. $247.50
 
 H) Copia certificada de otros documentos. $ 92.50
 
@@ -1293,29 +1305,39 @@ Civil de las Personas en Líneas" $ 204.00
 
 L) Por envío de certificaciones a otras Entidades Federativas:
 
-1. A través de mensajería de instituciones públicas,
+1. A través de mensajería de instituciones públicas, como
 
-como pueden ser SEPOMEX o correos de México. $ 125.00
+pueden ser SEPOMEX o correos de México. $125.00
 
-A través de mensajería de empresas privadas. $ 375.00
+A través de mensajería de empresas privadas. $375.00
 
-Los anteriores conceptos sólo son por el envío,
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2016)</small>
 
-por lo cual se deberá pagar además, la cuota
+2. Envió de Certificaciones a domicilio dentro de la
 
-relativa a los Derechos por prestación de los
+circunscripción de la Dirección
 
-servicios referidos en este artículo. $ 319.00
+del Registro Civil en Morelia, o en el territorio o
 
-A través de mensajería de empresas privadas. $ 512.50
+circunscripción correspondiente a la Oficialía
 
-3.(sic) De Constancias de inexistencia por cinco
+del Registro Civil, en que se solicite el servicio,
 
-años, a través de mensajería de instituciones
+previo contrarecibo que se entregue por parte de ésta. $50.00
 
-públicas. $ 526.00
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2016)</small>
 
-A través de mensajería de empresas privadas. $ 719.00
+3. De Constancias de inexistencia por cinco años,
+
+a través de mensajería de instituciones públicas,
+
+como puede ser: SEPOMEX o Correos de México. $526.00
+
+A través de mensajería de empresas privadas. $719.00
+
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2016)</small>
+
+Los anteriores conceptos sólo son por el envío, por lo cual se deberá pagar además, la cuota relativa a los Derechos por prestación de los servicios referidos en este artículo.
 
 M) Por constancia de inexistencia de matrimonio. $ 180.00
 
@@ -1391,9 +1413,17 @@ federativas, por cada anotación. $ 77.50
 
 VII. Otros servicios.
 
-A) Solicitud de sociedad de convivencia $ 50.00
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2016)</small>
 
-B) Convenio de sociedad de convivencia $ 50.00
+A) Solicitud de matrimonio o sociedad de convivencia. $50.00
+
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2016)</small>
+
+B) Convenio de matrimonio o sociedad de convivencia $50.00
+
+> <small>(F. DE E., P.O. 29 DE ENERO DE 2016)</small>
+
+C) Otros. $50.00
 
 #### SECCIÓN XI. DERECHOS POR SERVICIOS DE CATASTRO
 
