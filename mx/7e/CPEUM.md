@@ -4,7 +4,7 @@ identifier: "CPEUM"
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-02-05"
-last_updated: "2016-01-27"
+last_updated: "2016-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=130&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -22,7 +22,7 @@ abbreviation: "CPEUM"
 
 CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 27 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 29 DE ENERO DE 2016.
 
 Constitución publicada en el Diario Oficial de la Federación, el lunes 5 de febrero de 1917.
 
@@ -84,9 +84,9 @@ I. Decidir sus formas internas de convivencia y organización social, económica
 
 II. Aplicar sus propios sistemas normativos en la regulación y solución de sus conflictos internos, sujetándose a los principios generales de esta Constitución, respetando las garantías individuales, los derechos humanos y, de manera relevante, la dignidad e integridad de las mujeres. La ley establecerá los casos y procedimientos de validación por los jueces o tribunales correspondientes.
 
-> <small>(REFORMADA, D.O.F. 22 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2016)</small>
 
-III. Elegir de acuerdo con sus normas, procedimientos y prácticas tradicionales, a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando que las mujeres y los hombres indígenas disfrutarán y ejercerán su derecho de votar y ser votados en condiciones de igualdad; así como a acceder y desempeñar los cargos públicos y de elección popular para los que hayan sido electos o designados, en un marco que respete el pacto federal y la soberanía de los estados. En ningún caso las prácticas comunitarias podrán limitar los derechos político electorales de los y las ciudadanas en la elección de sus autoridades municipales.
+III. Elegir de acuerdo con sus normas, procedimientos y prácticas tradicionales, a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando que las mujeres y los hombres indígenas disfrutarán y ejercerán su derecho de votar y ser votados en condiciones de igualdad; así como a acceder y desempeñar los cargos públicos y de elección popular para los que hayan sido electos o designados, en un marco que respete el pacto federal, la soberanía de los Estados y la autonomía de la Ciudad de México. En ningún caso las prácticas comunitarias podrán limitar los derechos político-electorales de los y las ciudadanas en la elección de sus autoridades municipales.
 
 IV. Preservar y enriquecer sus lenguas, conocimientos y todos los elementos que constituyan su cultura e identidad.
 
@@ -102,7 +102,9 @@ VIII. Acceder plenamente a la jurisdicción del Estado. Para garantizar ese dere
 
 Las constituciones y leyes de las entidades federativas establecerán las características de libre determinación y autonomía que mejor expresen las situaciones y aspiraciones de los pueblos indígenas en cada entidad, así como las normas para el reconocimiento de las comunidades indígenas como entidades de interés público.
 
-B. La Federación, los Estados y los Municipios, para promover la igualdad de oportunidades de los indígenas y eliminar cualquier práctica discriminatoria, establecerán las instituciones y determinarán las políticas necesarias para garantizar la vigencia de los derechos de los indígenas y el desarrollo integral de sus pueblos y comunidades, las cuales deberán ser diseñadas y operadas conjuntamente con ellos.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ENERO DE 2016)</small>
+
+B. La Federación, las entidades federativas y los Municipios, para promover la igualdad de oportunidades de los indígenas y eliminar cualquier práctica discriminatoria, establecerán las instituciones y determinarán las políticas necesarias para garantizar la vigencia de los derechos de los indígenas y el desarrollo integral de sus pueblos y comunidades, las cuales deberán ser diseñadas y operadas conjuntamente con ellos.
 
 Para abatir las carencias y rezagos que afectan a los pueblos y comunidades indígenas, dichas autoridades, tienen la obligación de:
 
@@ -122,17 +124,19 @@ VII. Apoyar las actividades productivas y el desarrollo sustentable de las comun
 
 VIII. Establecer políticas sociales para proteger a los migrantes de los pueblos indígenas, tanto en el territorio nacional como en el extranjero, mediante acciones para garantizar los derechos laborales de los jornaleros agrícolas; mejorar las condiciones de salud de las mujeres; apoyar con programas especiales de educación y nutrición a niños y jóvenes de familias migrantes; velar por el respeto de sus derechos humanos y promover la difusión de sus culturas.
 
-IX. Consultar a los pueblos indígenas en la elaboración del Plan Nacional de Desarrollo y de los estatales y municipales y, en su caso, incorporar las recomendaciones y propuestas que realicen.
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2016)</small>
+
+IX. Consultar a los pueblos indígenas en la elaboración del Plan Nacional de Desarrollo y de los planes de las entidades federativas, de los Municipios y, cuando proceda, de las demarcaciones territoriales de la Ciudad de México y, en su caso, incorporar las recomendaciones y propuestas que realicen.
 
 Para garantizar el cumplimiento de las obligaciones señaladas en este apartado, la Cámara de Diputados del Congreso de la Unión, las legislaturas de las entidades federativas y los ayuntamientos, en el ámbito de sus respectivas competencias, establecerán las partidas específicas destinadas al cumplimiento de estas obligaciones en los presupuestos de egresos que aprueben, así como las formas y procedimientos para que las comunidades participen en el ejercicio y vigilancia de las mismas.
 
 Sin perjuicio de los derechos aquí establecidos a favor de los indígenas, sus comunidades y pueblos, toda comunidad equiparable a aquéllos tendrá en lo conducente los mismos derechos tal y como lo establezca la ley.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 9 DE FEBRERO DE 2012)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ENERO DE 2016)</small>
 
 ###### Art. 3o.
 
-Todo individuo tiene derecho a recibir educación. El Estado -Federación, Estados, Distrito Federal y Municipios-, impartirá educación preescolar, primaria, secundaria y media superior. La educación preescolar, primaria y secundaria conforman la educación básica; ésta y la media superior serán obligatorias.
+Toda persona tiene derecho a recibir educación. El Estado -Federación, Estados, Ciudad de México y Municipios-, impartirá educación preescolar, primaria, secundaria y media superior. La educación preescolar, primaria y secundaria conforman la educación básica; ésta y la media superior serán obligatorias.
 
 > <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2011)</small>
 
@@ -166,9 +170,9 @@ c) Contribuirá a la mejor convivencia humana, a fin de fortalecer el aprecio y 
 
 d) Será de calidad, con base en el mejoramiento constante y el máximo logro académico de los educandos;
 
-> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2016)</small>
 
-III. Para dar pleno cumplimiento a lo dispuesto en el segundo párrafo y en la fracción II, el Ejecutivo Federal determinará los planes y programas de estudio de la educación preescolar, primaria, secundaria y normal para toda la República. Para tales efectos, el Ejecutivo Federal considerará la opinión de los gobiernos de los Estados y del Distrito Federal, así como de los diversos sectores sociales involucrados en la educación, los maestros y los padres de familia en los términos que la ley señale. Adicionalmente, el ingreso al servicio docente y la promoción a cargos con funciones de dirección o de supervisión en la educación básica y media superior que imparta el Estado, se llevarán a cabo mediante concursos de oposición que garanticen la idoneidad de los conocimientos y capacidades que correspondan. La ley reglamentaria fijará los criterios, los términos y condiciones de la evaluación obligatoria para el ingreso, la promoción, el reconocimiento y la permanencia en el servicio profesional con pleno respeto a los derechos constitucionales de los trabajadores de la educación. Serán nulos todos los ingresos y promociones que no sean otorgados conforme a la ley. Lo dispuesto en este párrafo no será aplicable a las Instituciones a las que se refiere la fracción VII de este artículo;
+III. Para dar pleno cumplimiento a lo dispuesto en el segundo párrafo de la fracción II, el Ejecutivo Federal determinará los planes y programas de estudio de la educación preescolar, primaria, secundaria y normal para toda la República. Para tales efectos, el Ejecutivo Federal considerará la opinión de los gobiernos de las entidades federativas, así como de los diversos sectores sociales involucrados en la educación, los maestros y los padres de familia en los términos que la ley señale. Adicionalmente, el ingreso al servicio docente y la promoción a cargos con funciones de dirección o de supervisión en la educación básica y media superior que imparta el Estado, se llevarán a cabo mediante concursos de oposición que garanticen la idoneidad de los conocimientos y capacidades que correspondan. La ley reglamentaria fijará los criterios, los términos y condiciones de la evaluación obligatoria para el ingreso, la promoción, el reconocimiento y la permanencia en el servicio profesional con pleno respeto a los derechos constitucionales de los trabajadores de la educación. Serán nulos todos los ingresos y promociones que no sean otorgados conforme a la ley. Lo dispuesto en este párrafo no será aplicable a las instituciones a las que se refiere la fracción VII de este artículo;
 
 > <small>(REFORMADA, D.O.F. 5 DE MARZO DE 1993)</small>
 
@@ -194,9 +198,9 @@ b) Obtener previamente, en cada caso, la autorización expresa del poder públic
 
 VII. Las universidades y las demás instituciones de educación superior a las que la ley otorgue autonomía, tendrán la facultad y la responsabilidad de gobernarse a sí mismas; realizarán sus fines de educar, investigar y difundir la cultura de acuerdo con los principios de este artículo, respetando la libertad de cátedra e investigación y de libre examen y discusión de las ideas; determinarán sus planes y programas; fijarán los términos de ingreso, promoción y permanencia de su personal académico; y administrarán su patrimonio. Las relaciones laborales, tanto del personal académico como del administrativo, se normarán por el apartado A del artículo 123 de esta Constitución, en los términos y con las modalidades que establezca la Ley Federal del Trabajo conforme a las características propias de un trabajo especial, de manera que concuerden con la autonomía, la libertad de cátedra e investigación y los fines de las instituciones a que esta fracción se refiere;
 
-> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2016)</small>
 
-VIII. El Congreso de la Unión, con el fin de unificar y coordinar la educación en toda la República, expedirá las leyes necesarias, destinadas a distribuir la función social educativa entre la Federación, los Estados y los Municipios, a fijar las aportaciones económicas correspondientes a ese servicio público y a señalar las sanciones aplicables a los funcionarios que no cumplan o no hagan cumplir las disposiciones relativas, lo mismo que a todos aquellos que las infrinjan, y
+VIII. El Congreso de la Unión, con el fin de unificar y coordinar la educación en toda la República, expedirá las leyes necesarias, destinadas a distribuir la función social educativa entre la Federación, las entidades federativas y los Municipios, a fijar las aportaciones económicas correspondientes a ese servicio público y a señalar las sanciones aplicables a los funcionarios que no cumplan o no hagan cumplir las disposiciones relativas, lo mismo que a todos aquellos que las infrinjan, y
 
 > <small>(ADICIONADA, D.O.F. 26 DE FEBRERO DE 2013)</small>
 
@@ -280,7 +284,9 @@ Toda persona tiene derecho a la cultura física y a la práctica del deporte. Co
 
 A ninguna persona podrá impedirse que se dedique a la profesión, industria, comercio o trabajo que le acomode, siendo lícitos. El ejercicio de esta libertad sólo podrá vedarse por determinación judicial, cuando se ataquen los derechos de tercero, o por resolución gubernativa, dictada en los términos que marque la ley, cuando se ofendan los derechos de la sociedad. Nadie puede ser privado del producto de su trabajo, sino por resolución judicial.
 
-La Ley determinará en cada Estado, cuáles son las profesiones que necesitan título para su ejercicio, las condiciones que deban llenarse para obtenerlo y las autoridades que han de expedirlo.
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
+
+La ley determinará en cada entidad federativa, cuáles son las profesiones que necesitan título para su ejercicio, las condiciones que deban llenarse para obtenerlo y las autoridades que han de expedirlo.
 
 Nadie podrá ser obligado a prestar trabajos personales sin la justa retribución y sin su pleno consentimiento, salvo el trabajo impuesto como pena por la autoridad judicial, el cual se ajustará a lo dispuesto en las fracciones I y II del artículo 123.
 
@@ -318,15 +324,19 @@ Para efectos de lo dispuesto en el presente artículo se observará lo siguiente
 
 > <small>N. DE E. POR DECRETO DE REFORMAS PUBLICADO EN EL D.O.F. DE 11 DE JUNIO DE 2013, ESTE PÁRRAFO CON SUS RESPECTIVAS FRACCIONES PASÓ A SER APARTADO “A”.</small>
 
-> <small>(ADICIONADO, D.O.F. 20 DE JULIO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ENERO DE 2016)</small>
 
-A. Para el ejercicio del derecho de acceso a la información, la Federación, los Estados y el Distrito Federal, en el ámbito de sus respectivas competencias, se regirán por los siguientes principios y bases:
+A. Para el ejercicio del derecho de acceso a la información, la Federación y las entidades federativas, en el ámbito de sus respectivas competencias, se regirán por los siguientes principios y bases:
 
 > <small>(REFORMADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
 
 I. Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito federal, estatal y municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público y seguridad nacional, en los términos que fijen las leyes. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad. Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones, la ley determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información.
 
+> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2007)</small>
+
 II. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes.
+
+> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2007)</small>
 
 III. Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos.
 
@@ -338,11 +348,15 @@ IV. Se establecerán mecanismos de acceso a la información y procedimientos de 
 
 V. Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán, a través de los medios electrónicos disponibles, la información completa y actualizada sobre el ejercicio de los recursos públicos y los indicadores que permitan rendir cuenta del cumplimiento de sus objetivos y de los resultados obtenidos.
 
+> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2007)</small>
+
 VI. Las leyes determinarán la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales.
+
+> <small>(ADICIONADA, D.O.F. 20 DE JULIO DE 2007)</small>
 
 VII. La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes.
 
-> <small>(ADICIONADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
+> <small>(ADICIONADA [N. DE E. CON LOS PÁRRAFOS QUE LA INTEGRAN], D.O.F. 7 DE FEBRERO DE 2014)</small>
 
 VIII. La Federación contará con un organismo autónomo, especializado, imparcial, colegiado, con personalidad jurídica y patrimonio propio, con plena autonomía técnica, de gestión, capacidad para decidir sobre el ejercicio de su presupuesto y determinar su organización interna, responsable de garantizar el cumplimiento del derecho de acceso a la información pública y a la protección de datos personales en posesión de los sujetos obligados en los términos que establezca la ley.
 
@@ -350,9 +364,13 @@ El organismo autónomo previsto en esta fracción, se regirá por la ley en mate
 
 En su funcionamiento se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.
 
-El organismo garante tiene competencia para conocer de los asuntos relacionados con el acceso a la información pública y la protección de datos personales de cualquier autoridad, entidad, órgano u organismo que forme parte de alguno de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicatos que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito federal; con excepción de aquellos asuntos jurisdiccionales que correspondan a la Suprema Corte de Justicia de la Nación, en cuyo caso resolverá un comité integrado por tres ministros. También conocerá de los recursos que interpongan los particulares respecto de las resoluciones de los organismos autónomos especializados de los estados y el Distrito Federal que determinen la reserva, confidencialidad, inexistencia o negativa de la información, en los términos que establezca la ley.
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
 
-El organismo garante federal de oficio o a petición fundada del organismo garante equivalente del estado o del Distrito Federal, podrá conocer de los recursos de revisión que por su interés y trascendencia así lo ameriten.
+El organismo garante tiene competencia para conocer de los asuntos relacionados con el acceso a la información pública y la protección de datos personales de cualquier autoridad, entidad, órgano u organismo que forme parte de alguno de los Poderes Legislativo, Ejecutivo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicatos que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito federal; con excepción de aquellos asuntos jurisdiccionales que correspondan a la Suprema Corte de Justicia de la Nación, en cuyo caso resolverá un comité integrado por tres ministros. También conocerá de los recursos que interpongan los particulares respecto de las resoluciones de los organismos autónomos especializados de las entidades federativas que determinen la reserva, confidencialidad, inexistencia o negativa de la información, en los términos que establezca la ley.
+
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
+
+El organismo garante federal, de oficio o a petición fundada del organismo garante equivalente de las entidades federativas, podrá conocer de los recursos de revisión que por su interés y trascendencia así lo ameriten.
 
 La ley establecerá aquella información que se considere reservada o confidencial.
 
@@ -374,7 +392,9 @@ La ley establecerá las medidas de apremio que podrá imponer el organismo garan
 
 Toda autoridad y servidor público estará obligado a coadyuvar con el organismo garante y sus integrantes para el buen desempeño de sus funciones.
 
-El organismo garante coordinará sus acciones con la entidad de fiscalización superior de la Federación, con la entidad especializada en materia de archivos y con el organismo encargado de regular la captación, procesamiento y publicación de la información estadística y geográfica, así como con los organismos garantes de los estados y el Distrito Federal, con el objeto de fortalecer la rendición de cuentas del Estado Mexicano.
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
+
+El organismo garante coordinará sus acciones con la Auditoría Superior de la Federación, con la entidad especializada en materia de archivos y con el organismo encargado de regular la captación, procesamiento y publicación de la información estadística y geográfica, así como con los organismos garantes de las entidades federativas, con el objeto de fortalecer la rendición de cuentas del Estado Mexicano.
 
 > <small>(ADICIONADO, D.O.F. 11 DE JUNIO DE 2013)</small>
 
@@ -530,9 +550,9 @@ Las sentencias que pongan fin a los procedimientos orales deberán ser explicada
 
 Las leyes federales y locales establecerán los medios necesarios para que se garantice la independencia de los tribunales y la plena ejecución de sus resoluciones.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VER ARTÍCULOS SEGUNDO Y TERCERO TRANSITORIOS DEL DECRETO PUBLICADO EN EL D.O.F. DE 18 DE JUNIO DE 2008, QUE MODIFICA LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS.</small>
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
 
-La Federación, los Estados y el Distrito Federal garantizarán la existencia de un servicio de defensoría pública de calidad para la población y asegurarán las condiciones para un servicio profesional de carrera para los defensores. Las percepciones de los defensores no podrán ser inferiores a las que correspondan a los agentes del Ministerio Público.
+La Federación y las entidades federativas garantizarán la existencia de un servicio de defensoría pública de calidad para la población y asegurarán las condiciones para un servicio profesional de carrera para los defensores. Las percepciones de los defensores no podrán ser inferiores a las que correspondan a los agentes del Ministerio Público.
 
 Nadie puede ser aprisionado por deudas de carácter puramente civil.
 
@@ -546,11 +566,13 @@ Sólo por delito que merezca pena privativa de libertad habrá lugar a prisión 
 
 El sistema penitenciario se organizará sobre la base del respeto a los derechos humanos, del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la ley. Las mujeres compurgarán sus penas en lugares separados de los destinados a los hombres para tal efecto.
 
-La Federación, los Estados y el Distrito Federal podrán celebrar convenios para que los sentenciados por delitos del ámbito de su competencia extingan las penas en establecimientos penitenciarios dependientes de una jurisdicción diversa.
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
 
-> <small>(REFORMADO, D.O.F. 2 DE JULIO DE 2015)</small>
+La Federación y las entidades federativas podrán celebrar convenios para que los sentenciados por delitos del ámbito de su competencia extingan las penas en establecimientos penitenciarios dependientes de una jurisdicción diversa.
 
-La Federación y las entidades federativas establecerán en el ámbito de sus respectivas competencias, un sistema integral de justicia para los adolescentes, que será aplicable a quienes se atribuya la comisión o participación en un hecho que la ley señale como delito y tengan entre doce años cumplidos y menos de dieciocho años de edad. Este sistema garantizará los derechos humanos que reconoce la Constitución para toda persona, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos a los adolescentes. Las personas menores de doce años a quienes se atribuya que han cometido o participado en un hecho que la ley señale como delito, sólo podrán ser sujetos de asistencia social.
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
+
+La Federación y las entidades federativas establecerán, en el ámbito de sus respectivas competencias, un sistema integral de justicia para los adolescentes, que será aplicable a quienes se atribuya la comisión o participación en un hecho que la ley señale como delito y tengan entre doce años cumplidos y menos de dieciocho años de edad. Este sistema garantizará los derechos humanos que reconoce la Constitución para toda persona, así como aquellos derechos específicos que por su condición de personas en desarrollo les han sido reconocidos a los adolescentes. Las personas menores de doce años a quienes se atribuya que han cometido o participado en un hecho que la ley señale como delito, sólo podrán ser sujetos de asistencia social.
 
 La operación del sistema en cada orden de gobierno estará a cargo de instituciones, tribunales y autoridades especializados en la procuración e impartición de justicia para adolescentes. Se podrán aplicar las medidas de orientación, protección y tratamiento que amerite cada caso, atendiendo a la protección integral y el interés superior del adolescente.
 
@@ -702,11 +724,15 @@ El Ministerio Público podrá considerar criterios de oportunidad para el ejerci
 
 El Ejecutivo Federal podrá, con la aprobación del Senado en cada caso, reconocer la jurisdicción de la Corte Penal Internacional.
 
-La seguridad pública es una función a cargo de la Federación, el Distrito Federal, los Estados y los Municipios, que comprende la prevención de los delitos; la investigación y persecución para hacerla efectiva, así como la sanción de las infracciones administrativas, en los términos de la ley, en las respectivas competencias que esta Constitución señala. La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en esta Constitución.
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
+
+La seguridad pública es una función a cargo de la Federación, las entidades federativas y los Municipios, que comprende la prevención de los delitos; la investigación y persecución para hacerla efectiva, así como la sanción de las infracciones administrativas, en los términos de la ley, en las respectivas competencias que esta Constitución señala. La actuación de las instituciones de seguridad pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos reconocidos en esta Constitución.
 
 Las instituciones de seguridad pública serán de carácter civil, disciplinado y profesional. El Ministerio Público y las instituciones policiales de los tres órdenes de gobierno deberán coordinarse entre sí para cumplir los objetivos de la seguridad pública y conformarán el Sistema Nacional de Seguridad Pública, que estará sujeto a las siguientes bases mínimas:
 
-a) La regulación de la selección, ingreso, formación, permanencia, evaluación, reconocimiento y certificación de los integrantes de las instituciones de seguridad pública. La operación y desarrollo de estas acciones será competencia de la Federación, el Distrito Federal, los Estados y los municipios en el ámbito de sus respectivas atribuciones.
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
+
+a) La regulación de la selección, ingreso, formación, permanencia, evaluación, reconocimiento y certificación de los integrantes de las instituciones de seguridad pública. La operación y desarrollo de estas acciones será competencia de la Federación, las entidades federativas y los Municipios en el ámbito de sus respectivas atribuciones.
 
 b) El establecimiento de las bases de datos criminalísticos y de personal para las instituciones de seguridad pública. Ninguna persona podrá ingresar a las instituciones de seguridad pública si no ha sido debidamente certificado y registrado en el sistema.
 
@@ -715,8 +741,6 @@ c) La formulación de políticas públicas tendientes a prevenir la comisión de
 d) Se determinará la participación de la comunidad que coadyuvará, entre otros, en los procesos de evaluación de las políticas de prevención del delito así como de las instituciones de seguridad pública.
 
 e) Los fondos de ayuda federal para la seguridad pública, a nivel nacional serán aportados a las entidades federativas y municipios para ser destinados exclusivamente a estos fines.
-
-(VÉASE ARCHIVO ANEXO)
 
 > <small>(REFORMADO, D.O.F. 18 DE JUNIO DE 2008)</small>
 
@@ -798,6 +822,8 @@ La ley establecerá los mecanismos que faciliten la organización y la expansió
 
 La ley alentará y protegerá la actividad económica que realicen los particulares y proveerá las condiciones para que el desenvolvimiento del sector privado contribuya al desarrollo económico nacional, promoviendo la competitividad e implementando una política nacional para el desarrollo industrial sustentable que incluya vertientes sectoriales y regionales, en los términos que establece esta Constitución.
 
+> <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO ARTÍCULO DÉCIMO CUARTO DEL DECRETO POR EL QUE SE DECLARAN REFORMADAS Y DEROGADAS DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE LA REFORMA POLÍTICA DE LA CIUDAD DE MÉXICO, PUBLICADO EN EL D.O.F. 29 DE ENERO DE 2016, A PARTIR DE LA FECHA DE ENTRADA EN VIGOR DE ESTE DECRETO, TODAS LAS REFERENCIAS QUE EN ESTA CONSTITUCIÓN Y DEMÁS ORDENAMIENTOS JURÍDICOS SE HAGAN AL "DISTRITO FEDERAL", DEBERÁN ENTENDERSE HECHAS A LA "CIUDAD DE MÉXICO".]</small>
+
 > <small>(REFORMADO, D.O.F. 7 DE ABRIL DE 2006)</small>
 
 ###### Art. 26.
@@ -818,7 +844,9 @@ La ley facultará al Ejecutivo para que establezca los procedimientos de partici
 
 En el sistema de planeación democrática y deliberativa, el Congreso de la Unión tendrá la intervención que señale la ley.
 
-B. El Estado contará con un Sistema Nacional de Información Estadística y Geográfica cuyos datos serán considerados oficiales. Para la Federación, estados, Distrito Federal y municipios, los datos contenidos en el Sistema serán de uso obligatorio en los términos que establezca la ley.
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ENERO DE 2016)</small>
+
+B. El Estado contará con un Sistema Nacional de Información Estadística y Geográfica cuyos datos serán considerados oficiales. Para la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, los datos contenidos en el Sistema serán de uso obligatorio en los términos que establezca la ley.
 
 La responsabilidad de normar y coordinar dicho Sistema estará a cargo de un organismo con autonomía técnica y de gestión, personalidad jurídica y patrimonio propios, con las facultades necesarias para regular la captación, procesamiento y publicación de la información que se genere y proveer a su observancia.
 
@@ -862,9 +890,9 @@ La nación tendrá en todo tiempo el derecho de imponer a la propiedad privada l
 
 Corresponde a la Nación el dominio directo de todos los recursos naturales de la plataforma continental y los zócalos submarinos de las islas; de todos los minerales o substancias que en vetas, mantos, masas o yacimientos, constituyan depósitos cuya naturaleza sea distinta de los componentes de los terrenos, tales como los minerales de los que se extraigan metales y metaloides utilizados en la industria; los yacimientos de piedras preciosas, de sal de gema y las salinas formadas directamente por las aguas marinas; los productos derivados de la descomposición de las rocas, cuando su explotación necesite trabajos subterráneos; los yacimientos minerales u orgánicos de materias susceptibles de ser utilizadas como fertilizantes; los combustibles minerales sólidos; el petróleo y todos los carburos de hidrógeno sólidos, líquidos o gaseosos; y el espacio situado sobre el territorio nacional, en la extensión y términos que fije el Derecho Internacional.
 
-> <small>(REFORMADO, D.O.F. 20 DE ENERO DE 1960)</small>
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
 
-Son propiedad de la Nación las aguas de los mares territoriales en la extensión y términos que fije (sic) Derecho Internacional; las aguas marinas interiores; las de las lagunas y esteros que se comuniquen permanente o intermitentemente con el mar; las de los lagos interiores de formación natural que estén ligados directamente a corrientes constantes; las de los ríos y sus afluentes directos o indirectos, desde el punto del cauce en que se inicien las primeras aguas permanentes, intermitentes o torrenciales, hasta su desembocadura en el mar, lagos, lagunas o esteros de propiedad nacional; las de las corrientes constantes o interminentes (sic) y sus afluentes directos o indirectos, cuando el cauce de aquéllas en toda su extensión o en parte de ellas, sirva de límite al territorio nacional o a dos entidades federativas, o cuando pase de una entidad federativa a otra o cruce la línea divisoria de la República; la de los lagos, lagunas o esteros cuyos vasos, zonas o riberas, estén cruzadas por líneas divisorias de dos o más entidades o entre la República y un país vecino, o cuando el límite de las riberas sirva de lindero entre dos entidades federativas o a la República con un país vecino; las de los manantiales que broten en las playas, zonas marítimas, cauces, vasos o riberas de los lagos, lagunas o esteros de propiedad nacional, y las que se extraigan de las minas; y los cauces, lechos o riberas de los lagos y corrientes interiores en la extensión que fija la ley. Las aguas del subsuelo pueden ser libremente alumbradas mediante obras artificiales y apropiarse por el dueño del terreno, pero cuando lo exija el interés público o se afecten otros aprovechamientos; el Ejecutivo Federal podrá reglamentar su extracción y utilización y aún establecer zonas vedadas, al igual que para las demás aguas de propiedad nacional. Cualesquiera otras aguas no incluidas en la enumeración anterior, se considerarán como parte integrante de la propiedad de los terrenos por los que corran o en los que se encuentren sus depósitos, pero si se localizaren en dos o más predios, el aprovechamiento de estas aguas se considerará de utilidad pública, y quedará sujeto a las disposiciones que dicten los Estados.
+Son propiedad de la Nación las aguas de los mares territoriales en la extensión y términos que fije el Derecho Internacional; las aguas marinas interiores; las de las lagunas y esteros que se comuniquen permanente o intermitentemente con el mar; las de los lagos interiores de formación natural que estén ligados directamente a corrientes constantes; las de los ríos y sus afluentes directos o indirectos, desde el punto del cauce en que se inicien las primeras aguas permanentes, intermitentes o torrenciales, hasta su desembocadura en el mar, lagos, lagunas o esteros de propiedad nacional; las de las corrientes constantes o intermitentes y sus afluentes directos o indirectos, cuando el cauce de aquéllas en toda su extensión o en parte de ellas, sirva de límite al territorio nacional o a dos entidades federativas, o cuando pase de una entidad federativa a otra o cruce la línea divisoria de la República; la de los lagos, lagunas o esteros cuyos vasos, zonas o riberas, estén cruzadas por líneas divisorias de dos o más entidades o entre la República y un país vecino, o cuando el límite de las riberas sirva de lindero entre dos entidades federativas o a la República con un país vecino; las de los manantiales que broten en las playas, zonas marítimas, cauces, vasos o riberas de los lagos, lagunas o esteros de propiedad nacional, y las que se extraigan de las minas; y los cauces, lechos o riberas de los lagos y corrientes interiores en la extensión que fija la ley. Las aguas del subsuelo pueden ser libremente alumbradas mediante obras artificiales y apropiarse por el dueño del terreno, pero cuando lo exija el interés público o se afecten otros aprovechamientos, el Ejecutivo Federal podrá reglamentar su extracción y utilización y aún establecer zonas vedadas, al igual que para las demás aguas de propiedad nacional. Cualesquiera otras aguas no incluidas en la enumeración anterior, se considerarán como parte integrante de la propiedad de los terrenos por los que corran o en los que se encuentren sus depósitos, pero si se localizaren en dos o más predios, el aprovechamiento de estas aguas se considerará de utilidad pública, y quedará sujeto a las disposiciones que dicten las entidades federativas.
 
 > <small>(REFORMADO, D.O.F. 20 DE DICIEMBRE DE 2013)</small>
 
@@ -912,11 +940,13 @@ La propia ley establecerá los medios de registro y control necesarios para el c
 
 V.- Los bancos debidamente autorizados, conforme a las leyes de instituciones de crédito, podrán tener capitales impuestos, sobre propiedades urbanas y rústicas de acuerdo con las prescripciones de dichas leyes, pero no podrán tener en propiedad o en administración más bienes raíces que los enteramente necesarios para su objeto directo.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE ENERO DE 1992)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ENERO DE 2016)</small>
 
-VI.- Los estados y el Distrito Federal, lo mismo que los municipios de toda la República, tendrán plena capacidad para adquirir y poseer todos los bienes raíces necesarios para los servicios públicos.
+VI. Las entidades federativas, lo mismo que los Municipios de toda la República, tendrán plena capacidad para adquirir y poseer todos los bienes raíces necesarios para los servicios públicos.
 
-Las leyes de la Federación y de los Estados en sus respectivas jurisdicciones, determinarán los casos en que sea de utilidad pública la ocupación de la propiedad privada, y de acuerdo con dichas leyes la autoridad administrativa hará la declaración correspondiente. El precio que se fijará como indemnización a la cosa expropiada, se basará en la cantidad que como valor fiscal de ella figure en las oficinas catastrales o recaudadoras, ya sea que este valor haya sido manifestado por el propietario o simplemente aceptado por él de un modo tácito por haber pagado sus contribuciones con esta base. El exceso de valor o el demérito que haya tenido la propiedad particular por las mejoras o deterioros ocurridos con posterioridad a la fecha de la asignación del valor fiscal, será lo único que deberá quedar sujeto a juicio pericial y a resolución judicial. Esto mismo se observará cuando se trate de objetos cuyo valor no esté fijado en las oficinas rentísticas.
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
+
+Las leyes de la Federación y de las entidades federativas en sus respectivas jurisdicciones, determinarán los casos en que sea de utilidad pública la ocupación de la propiedad privada, y de acuerdo con dichas leyes la autoridad administrativa hará la declaración correspondiente. El precio que se fijará como indemnización a la cosa expropiada, se basará en la cantidad que como valor fiscal de ella figure en las oficinas catastrales o recaudadoras, ya sea que este valor haya sido manifestado por el propietario o simplemente aceptado por él de un modo tácito por haber pagado sus contribuciones con esta base. El exceso de valor o el demérito que haya tenido la propiedad particular por las mejoras o deterioros ocurridos con posterioridad a la fecha de la asignación del valor fiscal, será lo único que deberá quedar sujeto a juicio pericial y a resolución judicial. Esto mismo se observará cuando se trate de objetos cuyo valor no esté fijado en las oficinas rentísticas.
 
 El ejercicio de las acciones que corresponden a la Nación, por virtud de las disposiciones del presente artículo, se hará efectivo por el procedimiento judicial; pero dentro de este procedimiento y por orden de los tribunales correspondientes, que se dictará en el plazo máximo de un mes, las autoridades administrativas procederán desde luego a la ocupación, administración, remate o venta de las tierras o aguas de que se trate y todas sus accesiones, sin que en ningún caso pueda revocarse lo hecho por las mismas autoridades antes que se dicte sentencia ejecutoriada.
 
@@ -1036,7 +1066,9 @@ No constituyen monopolios las funciones que el Estado ejerza de manera exclusiva
 
 El Poder Ejecutivo contará con los órganos reguladores coordinados en materia energética, denominados Comisión Nacional de Hidrocarburos y Comisión Reguladora de Energía, en los términos que determine la ley.
 
-No constituyen monopolios las asociaciones de trabajadores formadas para proteger sus propios intereses y las asociaciones o sociedades cooperativas de productores para que, en defensa de sus intereses o del interés general, vendan directamente en los mercados extranjeros los productos nacionales o industriales que sean la principal fuente de riqueza de la región en que se produzcan o que no sean artículos de primera necesidad, siempre que dichas asociaciones estén bajo vigilancia o amparo del Gobierno Federal o de los Estados, y previa autorización que al efecto se obtenga de las legislaturas respectivas en cada caso. Las mismas Legislaturas, por sí o a propuesta del Ejecutivo podrán derogar, cuando así lo exijan las necesidades públicas, las autorizaciones concedidas para la formación de las asociaciones de que se trata.
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
+
+No constituyen monopolios las asociaciones de trabajadores formadas para proteger sus propios intereses y las asociaciones o sociedades cooperativas de productores para que, en defensa de sus intereses o del interés general, vendan directamente en los mercados extranjeros los productos nacionales o industriales que sean la principal fuente de riqueza de la región en que se produzcan o que no sean artículos de primera necesidad, siempre que dichas asociaciones estén bajo vigilancia o amparo del Gobierno Federal o de las entidades federativas, y previa autorización que al efecto se obtenga de las Legislaturas respectivas en cada caso. Las mismas Legislaturas, por sí o a propuesta del Ejecutivo podrán derogar, cuando así lo exijan las necesidades públicas, las autorizaciones concedidas para la formación de las asociaciones de que se trata.
 
 Tampoco constituyen monopolios los privilegios que por determinado tiempo se concedan a los autores y artistas para la producción de sus obras y los que para el uso exclusivo de sus inventos, se otorguen a los inventores y perfeccionadores de alguna mejora.
 
@@ -1124,9 +1156,9 @@ V. Haberse desempeñado, cuando menos tres años, en forma destacada en activida
 
 VI. Acreditar, en los términos de este precepto, los conocimientos técnicos necesarios para el ejercicio del cargo;
 
-> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2016)</small>
 
-VII. No haber sido Secretario de Estado, Fiscal General de la República, senador, diputado federal o local, Gobernador de algún Estado o Jefe de Gobierno del Distrito Federal, durante el año previo a su nombramiento, y
+VII. No haber sido Secretario de Estado, Fiscal General de la República, senador, diputado federal o local, Gobernador de algún Estado o Jefe de Gobierno de la Ciudad de México, durante el año previo a su nombramiento, y
 
 VIII. En la Comisión Federal de Competencia Económica, no haber ocupado, en los últimos tres años, ningún empleo, cargo o función directiva en las empresas que hayan estado sujetas a alguno de los procedimientos sancionatorios que sustancia el citado órgano. En el Instituto Federal de Telecomunicaciones no haber ocupado, en los últimos tres años, ningún empleo, cargo o función directiva en las empresas de los concesionarios comerciales o privados o de las entidades a ellos relacionadas, sujetas a la regulación del Instituto.
 
@@ -1230,9 +1262,9 @@ II.- Asistir en los días y horas designados por el Ayuntamiento del lugar en qu
 
 III.- Alistarse y servir en la Guardia Nacional, conforme a la ley orgánica respectiva, para asegurar y defender la independencia, el territorio, el honor, los derechos e intereses de la Patria, así como la tranquilidad y el orden interior; y
 
-> <small>(REFORMADA, D.O.F. 25 DE OCTUBRE DE 1993)</small>
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2016)</small>
 
-IV.- Contribuir para los gastos públicos, así de la Federación, como del Distrito Federal o del Estado y Municipio en que residan, de la manera proporcional y equitativa que dispongan las leyes.
+IV.- Contribuir para los gastos públicos, así de la Federación, como de los Estados, de la Ciudad de México y del Municipio en que residan, de la manera proporcional y equitativa que dispongan las leyes.
 
 > <small>(REFORMADO, D.O.F. 20 DE MARZO DE 1997)</small>
 
@@ -1354,7 +1386,9 @@ II.- Alistarse en la Guardia Nacional;
 
 III.- Votar en las elecciones y en las consultas populares, en los términos que señale la ley;
 
-IV.- Desempeñar los cargos de elección popular de la Federación o de los Estados, que en ningún caso serán gratuitos; y
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2016)</small>
+
+IV.- Desempeñar los cargos de elección popular de la Federación o de las entidades federativas, que en ningún caso serán gratuitos; y
 
 V.- Desempeñar los cargos concejiles del municipio donde resida, las funciones electorales y las de jurado.
 
@@ -1432,17 +1466,19 @@ DE LA SOBERANIA NACIONAL Y DE LA FORMA DE GOBIERNO.
 
 La soberanía nacional reside esencial y originariamente en el pueblo. Todo poder público dimana del pueblo y se instituye para beneficio de éste. El pueblo tiene en todo tiempo el inalienable derecho de alterar o modificar la forma de su gobierno.
 
-> <small>(REFORMADO, D.O.F. 30 DE NOVIEMBRE DE 2012)</small>
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
 
 ###### Art. 40.
 
-Es voluntad del pueblo mexicano constituirse en una República representativa, democrática, laica, federal, compuesta de Estados libres y soberanos en todo lo concerniente a su régimen interior; pero unidos en una federación establecida según los principios de esta ley fundamental.
+Es voluntad del pueblo mexicano constituirse en una República representativa, democrática, laica y federal, compuesta por Estados libres y soberanos en todo lo concerniente a su régimen interior, y por la Ciudad de México, unidos en una federación establecida según los principios de esta ley fundamental.
 
-> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ENERO DE 2016)</small>
 
 ###### Art. 41.
 
-El pueblo ejerce su soberanía por medio de los Poderes de la Unión, en los casos de la competencia de éstos, y por los de los Estados, en lo que toca a sus regímenes interiores, en los términos respectivamente establecidos por la presente Constitución Federal y las particulares de los Estados, las que en ningún caso podrán contravenir las estipulaciones del Pacto Federal.
+El pueblo ejerce su soberanía por medio de los Poderes de la Unión, en los casos de la competencia de éstos, y por los de los Estados y la Ciudad de México, en lo que toca a sus regímenes interiores, en los términos respectivamente establecidos por la presente Constitución Federal y las particulares de cada Estado y de la Ciudad de México, las que en ningún caso podrán contravenir las estipulaciones del Pacto Federal.
+
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
 
 La renovación de los poderes Legislativo y Ejecutivo se realizará mediante elecciones libres, auténticas y periódicas, conforme a las siguientes bases:
 
@@ -1454,27 +1490,39 @@ I. Los partidos políticos son entidades de interés público; la ley determinar
 
 Los partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de los órganos de representación política y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo, así como las reglas para garantizar la paridad entre los géneros, en candidaturas a legisladores federales y locales. Sólo los ciudadanos podrán formar partidos políticos y afiliarse libre e individualmente a ellos; por tanto, quedan prohibidas la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.
 
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
+
 Las autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos políticos en los términos que señalen esta Constitución y la ley.
 
 > <small>(ADICIONADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
 Los partidos políticos nacionales tendrán derecho a participar en las elecciones de las entidades federativas y municipales. El partido político nacional que no obtenga, al menos, el tres por ciento del total de la votación válida emitida en cualquiera de las elecciones que se celebren para la renovación del Poder Ejecutivo o de las Cámaras del Congreso de la Unión, le será cancelado el registro.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
+
 II. La ley garantizará que los partidos políticos nacionales cuenten de manera equitativa con elementos para llevar a cabo sus actividades y señalará las reglas a que se sujetará el financiamiento de los propios partidos y sus campañas electorales, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado.
+
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
 
 El financiamiento público para los partidos políticos que mantengan su registro después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, las tendientes a la obtención del voto durante los procesos electorales y las de carácter específico. Se otorgará conforme a lo siguiente y a lo que disponga la ley:
 
-> <small>(REFORMADO, D.O.F. 27 DE ENERO DE 2016)</small>
+(REFORMADO, D.O.F. 27 DE ENERO DE 2016) (REFORMADO [N. DE E. REPUBLICADO], D.O.F. 29 DE ENERO DE 2016)
 
 a) El financiamiento público para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, multiplicando el número total de ciudadanos inscritos en el padrón electoral por el sesenta y cinco por ciento del valor diario de la Unidad de Medida y Actualización. El treinta por ciento de la cantidad que resulte de acuerdo a lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria y el setenta por ciento restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior.
 
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
+
 b) El financiamiento público para las actividades tendientes a la obtención del voto durante el año en que se elijan Presidente de la República, senadores y diputados federales, equivaldrá al cincuenta por ciento del financiamiento público que le corresponda a cada partido político por actividades ordinarias en ese mismo año; cuando sólo se elijan diputados federales, equivaldrá al treinta por ciento de dicho financiamiento por actividades ordinarias.
+
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
 
 c) El financiamiento público por actividades específicas, relativas a la educación, capacitación, investigación socioeconómica y política, así como a las tareas editoriales, equivaldrá al tres por ciento del monto total del financiamiento público que corresponda en cada año por actividades ordinarias. El treinta por ciento de la cantidad que resulte de acuerdo a lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria y el setenta por ciento restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior.
 
 > <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
 La ley fijará los límites a las erogaciones en los procesos internos de selección de candidatos y en las campañas electorales. La propia ley establecerá el monto máximo que tendrán las aportaciones de sus militantes y simpatizantes; ordenará los procedimientos para el control, fiscalización oportuna y vigilancia, durante la campaña, del origen y uso de todos los recursos con que cuenten; asimismo, dispondrá las sanciones que deban imponerse por el incumplimiento de estas disposiciones.
+
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
 
 De igual manera, la ley establecerá el procedimiento para la liquidación de las obligaciones de los partidos que pierdan su registro y los supuestos en los que sus bienes y remanentes serán adjudicados a la Federación.
 
@@ -1490,17 +1538,23 @@ Apartado A. El Instituto Nacional Electoral será autoridad única para la admin
 
 a) A partir del inicio de las precampañas y hasta el día de la jornada electoral quedarán a disposición del Instituto Nacional Electoral cuarenta y ocho minutos diarios, que serán distribuidos en dos y hasta tres minutos por cada hora de transmisión en cada estación de radio y canal de televisión, en el horario referido en el inciso d) de este apartado. En el período comprendido entre el fin de las precampañas y el inicio de las campañas, el cincuenta por ciento de los tiempos en radio y televisión se destinará a los fines propios de las autoridades electorales, y el resto a la difusión de mensajes genéricos de los partidos políticos, conforme a lo que establezca la ley;
 
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
+
 b) Durante sus precampañas, los partidos políticos dispondrán en conjunto de un minuto por cada hora de transmisión en cada estación de radio y canal de televisión; el tiempo restante se utilizará conforme a lo que determine la ley;
 
 > <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
 c) Durante las campañas electorales deberá destinarse para cubrir el derecho de los partidos políticos y los candidatos al menos el ochenta y cinco por ciento del tiempo total disponible a que se refiere el inciso a) de este apartado;
 
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
+
 d) Las transmisiones en cada estación de radio y canal de televisión se distribuirán dentro del horario de programación comprendido entre las seis y las veinticuatro horas;
 
 > <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
 e) El tiempo establecido como derecho de los partidos políticos y, en su caso, de los candidatos independientes, se distribuirá entre los mismos conforme a lo siguiente: el setenta por ciento será distribuido entre los partidos políticos de acuerdo a los resultados de la elección para diputados federales inmediata anterior y el treinta por ciento restante será dividido en partes iguales, de las cuales, hasta una de ellas podrá ser asignada a los candidatos independientes en su conjunto;
+
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
 
 f) A cada partido político nacional sin representación en el Congreso de la Unión se le asignará para radio y televisión solamente la parte correspondiente al porcentaje igualitario establecido en el inciso anterior, y
 
@@ -1512,15 +1566,23 @@ g) Con independencia de lo dispuesto en los apartados A y B de esta base y fuera
 
 Los partidos políticos y los candidatos en ningún momento podrán contratar o adquirir, por sí o por terceras personas, tiempos en cualquier modalidad de radio y televisión.
 
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
+
 Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargos de elección popular. Queda prohibida la transmisión en territorio nacional de este tipo de mensajes contratados en el extranjero.
 
-Las disposiciones contenidas en los dos párrafos anteriores deberán ser cumplidas en el ámbito de los estados y el Distrito Federal conforme a la legislación aplicable.
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
+
+Las disposiciones contenidas en los dos párrafos anteriores deberán ser cumplidas en el ámbito de las entidades federativas conforme a la legislación aplicable.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
 Apartado B. Para fines electorales en las entidades federativas, el Instituto Nacional Electoral administrará los tiempos que correspondan al Estado en radio y televisión en las estaciones y canales de cobertura en la entidad de que se trate, conforme a lo siguiente y a lo que determine la ley:
 
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
+
 a) Para los casos de los procesos electorales locales con jornadas comiciales coincidentes con la federal, el tiempo asignado en cada entidad federativa estará comprendido dentro del total disponible conforme a los incisos a), b) y c) del apartado A de esta base;
+
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
 
 b) Para los demás procesos electorales, la asignación se hará en los términos de la ley, conforme a los criterios de esta base constitucional, y
 
@@ -1536,7 +1598,9 @@ Cuando a juicio del Instituto Nacional Electoral el tiempo total en radio y tele
 
 Apartado C. En la propaganda política o electoral que difundan los partidos y candidatos deberán abstenerse de expresiones que calumnien a las personas.
 
-Durante el tiempo que comprendan las campañas electorales federales y locales y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de los poderes federales y estatales, como de los municipios, órganos de gobierno del Distrito Federal, sus delegaciones y cualquier otro ente público. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia.
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
+
+Durante el tiempo que comprendan las campañas electorales federales y locales y hasta la conclusión de la respectiva jornada comicial, deberá suspenderse la difusión en los medios de comunicación social de toda propaganda gubernamental, tanto de los poderes federales, como de las entidades federativas, así como de los Municipios, de las demarcaciones territoriales de la Ciudad de México y cualquier otro ente público. Las únicas excepciones a lo anterior serán las campañas de información de las autoridades electorales, las relativas a servicios educativos y de salud, o las necesarias para la protección civil en casos de emergencia.
 
 > <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
@@ -1546,11 +1610,15 @@ Apartado D. El Instituto Nacional Electoral, mediante procedimientos expeditos e
 
 IV. La ley establecerá los requisitos y las formas de realización de los procesos de selección y postulación de candidatos a cargos de elección popular, así como las reglas para las precampañas y las campañas electorales.
 
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
+
 La duración de las campañas en el año de elecciones para Presidente de la República, senadores y diputados federales será de noventa días; en el año en que sólo se elijan diputados federales, las campañas durarán sesenta días. En ningún caso las precampañas excederán las dos terceras partes del tiempo previsto para las campañas electorales.
+
+> <small>(REFORMADO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
 
 La violación a estas disposiciones por los partidos o cualquier otra persona física o moral será sancionada conforme a la ley.
 
-> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA [N. DE E. CON LOS APARTADOS QUE LA INTEGRAN], D.O.F. 10 DE FEBRERO DE 2014)</small>
 
 V. La organización de las elecciones es una función estatal que se realiza a través del Instituto Nacional Electoral y de los organismos públicos locales, en los términos que establece esta Constitución.
 
@@ -1668,6 +1736,8 @@ Corresponde al Instituto Nacional Electoral designar y remover a los integrantes
 
 Apartado D. El Servicio Profesional Electoral Nacional comprende la selección, ingreso, capacitación, profesionalización, promoción, evaluación, rotación, permanencia y disciplina, de los servidores públicos de los órganos ejecutivos y técnicos del Instituto Nacional Electoral y de los organismos públicos locales de las entidades federativas en materia electoral. El Instituto Nacional Electoral regulará la organización y funcionamiento de este Servicio.
 
+> <small>(REFORMADA, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
+
 VI. Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la ley. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votados y de asociación, en los términos del artículo 99 de esta Constitución.
 
 En materia electoral la interposición de los medios de impugnación, constitucionales o legales, no producirá efectos suspensivos sobre la resolución o el acto impugnado.
@@ -1714,17 +1784,17 @@ V.- Las aguas de los mares territoriales en la extensión y términos que fija e
 
 VI.- El espacio situado sobre el territorio nacional, con la extensión y modalidades que establezca el propio Derecho Internacional.
 
-> <small>(REFORMADO, D.O.F. 13 DE ABRIL DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
 
 ###### Art. 43.
 
-Las partes integrantes de la Federación son los Estados de Aguascalientes, Baja California, Baja California Sur, Campeche, Coahuila de Zaragoza, Colima, Chiapas, Chihuahua, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, México, Michoacán, Morelos, Nayarit, Nuevo León, Oaxaca, Puebla, Querétaro, Quintana Roo, San Luis Potosí, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucatán, Zacatecas y el Distrito Federal.
+Las partes integrantes de la Federación son los Estados de Aguascalientes, Baja California, Baja California Sur, Campeche, Coahuila de Zaragoza, Colima, Chiapas, Chihuahua, Durango, Guanajuato, Guerrero, Hidalgo, Jalisco, México, Michoacán, Morelos, Nayarit, Nuevo León, Oaxaca, Puebla, Querétaro, Quintana Roo, San Luis Potosí, Sinaloa, Sonora, Tabasco, Tamaulipas, Tlaxcala, Veracruz, Yucatán y Zacatecas; así como la Ciudad de México.
 
-> <small>(REFORMADO, D.O.F. 25 DE OCTUBRE DE 1993)</small>
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
 
 ###### Art. 44.
 
-La Ciudad de México es el Distrito Federal, sede de los Poderes de la Unión y Capital de los Estados Unidos Mexicanos. Se compondrá del territorio que actualmente tiene y en el caso de que los poderes Federales se trasladen a otro lugar, se erigirá en el Estado del Valle de México con los límites y extensión que le asigne el Congreso General.
+La Ciudad de México es la entidad federativa sede de los Poderes de la Unión y Capital de los Estados Unidos Mexicanos; se compondrá del territorio que actualmente tiene y, en caso de que los poderes federales se trasladen a otro lugar, se erigirá en un Estado de la Unión con la denominación de Ciudad de México.
 
 > <small>(REFORMADO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
 
@@ -1788,11 +1858,11 @@ La Cámara de Diputados se compondrá de representantes de la Nación, electos e
 
 La Cámara de Diputados estará integrada por 300 diputados electos según el principio de votación mayoritaria relativa, mediante el sistema de distritos electorales uninominales, y 200 diputados que serán electos según el principio de representación proporcional, mediante el Sistema de Listas Regionales, votadas en circunscripcionales (sic) plurinominales.
 
-> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ENERO DE 2016)</small>
 
 ###### Art. 53.
 
-La demarcación territorial de los 300 distritos electorales uninominales será la que resulte de dividir la población total del país entre los distritos señalados. La distribución de los distritos electorales uninominales entre las entidades federativas se hará teniendo en cuenta el último censo general de población, sin que en ningún caso la representación de un Estado pueda ser menor de dos diputados de mayoría.
+La demarcación territorial de los 300 distritos electorales uninominales será la que resulte de dividir la población total del país entre los distritos señalados. La distribución de los distritos electorales uninominales entre las entidades federativas se hará teniendo en cuenta el último censo general de población, sin que en ningún caso la representación de una entidad federativa pueda ser menor de dos diputados de mayoría.
 
 > <small>(REFORMADO, D.O.F. 15 DE DICIEMBRE DE 1986)</small>
 
@@ -1828,9 +1898,11 @@ V. En ningún caso, un partido político podrá contar con un número de diputad
 
 VI. En los términos de lo establecido en las fracciones III, IV y V anteriores, las diputaciones de representación proporcional que resten después de asignar las que correspondan al partido político que se halle en los supuestos de las fracciones IV o V, se adjudicarán a los demás partidos políticos con derecho a ello en cada una de las circunscripciones plurinominales, en proporción directa con las respectivas votaciones nacionales efectivas de estos últimos. La ley desarrollará las reglas y fórmulas para estos efectos.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ENERO DE 2016)</small>
+
 ###### Art. 55.
 
-Para ser diputado se requieren los siguientes requisitos:
+Para ser diputado se requiere:
 
 I.- Ser ciudadano mexicano, por nacimiento, en el ejercicio de sus derechos.
 
@@ -1838,11 +1910,15 @@ I.- Ser ciudadano mexicano, por nacimiento, en el ejercicio de sus derechos.
 
 II.- Tener veintiún años cumplidos el día de la elección.
 
-> <small>(REFORMADA, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ENERO DE 2016)</small>
 
-III.- Ser originario del Estado en que se haga la elección o vecino de él con residencia efectiva de más de seis meses anteriores a la fecha de ella.
+III. Ser originario de la entidad federativa en que se haga la elección o vecino de esta con residencia efectiva de más de seis meses anteriores a la fecha de ella.
+
+> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
 
 Para poder figurar en las listas de las circunscripciones electorales plurinominales como candidato a diputado, se requiere ser originario de alguna de las entidades federativas que comprenda la circunscripción en la que se realice la elección, o vecino de ella con residencia efectiva de más de seis meses anteriores a la fecha en que la misma se celebre.
+
+> <small>(REFORMADO, D.O.F. 6 DE DICIEMBRE DE 1977)</small>
 
 La vecindad no se pierde por ausencia en el desempeño de cargos públicos de elección popular.
 
@@ -1856,9 +1932,13 @@ V.- No ser titular de alguno de los organismos a los que esta Constitución otor
 
 No ser Ministro de la Suprema Corte de Justicia de la Nación, ni Magistrado, ni Secretario del Tribunal Electoral del Poder Judicial de la Federación, ni Consejero Presidente o consejero electoral en los consejos General, locales o distritales del Instituto Nacional Electoral, ni Secretario Ejecutivo, Director Ejecutivo o personal profesional directivo del propio Instituto, salvo que se hubiere separado de su encargo, de manera definitiva, tres años antes del día de la elección.
 
-Los Gobernadores de los Estados y el Jefe de Gobierno del Distrito Federal no podrán ser electos en las entidades de sus respectivas jurisdicciones durante el periodo de su encargo, aun cuando se separen definitivamente de sus puestos.
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
 
-Los Secretarios del Gobierno de los Estados y del Distrito Federal, los Magistrados y Jueces Federales o del Estado o del Distrito Federal, así como los Presidentes Municipales y titulares de algún órgano político-administrativo en el caso del Distrito Federal, no podrán ser electos en las entidades de sus respectivas jurisdicciones, si no se separan definitivamente de sus cargos noventa días antes del día de la elección.
+Los Gobernadores de los Estados y el Jefe de Gobierno de la Ciudad de México no podrán ser electos en las entidades de sus respectivas jurisdicciones durante el periodo de su encargo, aun cuando se separen definitivamente de sus puestos.
+
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
+
+Los Secretarios del Gobierno de las entidades federativas, los Magistrados y Jueces Federales y locales, así como los Presidentes Municipales y Alcaldes en el caso de la Ciudad de México, no podrán ser electos en las entidades de sus respectivas jurisdicciones, si no se separan definitivamente de sus cargos noventa días antes del día de la elección;
 
 > <small>(REFORMADA, D.O.F. 29 DE ABRIL DE 1933)</small>
 
@@ -1868,13 +1948,17 @@ VI. No ser Ministro de algún culto religioso, y
 
 VII. No estar comprendido en alguna de las incapacidades que señala el artículo 59.
 
-> <small>(REFORMADO, D.O.F. 22 DE AGOSTO DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ENERO DE 2016)</small>
 
 ###### Art. 56.
 
-La Cámara de Senadores se integrará por ciento veintiocho senadores, de los cuales, en cada Estado y en el Distrito Federal, dos serán elegidos según el principio de votación mayoritaria relativa y uno será asignado a la primera minoría. Para estos efectos, los partidos políticos deberán registrar una lista con dos fórmulas de candidatos. La senaduría de primera minoría le será asignada a la fórmula de candidatos que encabece la lista del partido político que, por sí mismo, haya ocupado el segundo lugar en número de votos en la entidad de que se trate.
+La Cámara de Senadores se integrará por ciento veintiocho senadores, de los cuales, en cada Estado y en la Ciudad de México, dos serán elegidos según el principio de votación mayoritaria relativa y uno será asignado a la primera minoría. Para estos efectos, los partidos políticos deberán registrar una lista con dos fórmulas de candidatos. La senaduría de primera minoría le será asignada a la fórmula de candidatos que encabece la lista del partido político que, por sí mismo, haya ocupado el segundo lugar en número de votos en la entidad de que se trate.
+
+> <small>(REFORMADO, D.O.F. 22 DE AGOSTO DE 1996)</small>
 
 Los treinta y dos senadores restantes serán elegidos según el principio de representación proporcional, mediante el sistema de listas votadas en una sola circunscripción plurinominal nacional. La ley establecerá las reglas y fórmulas para estos efectos.
+
+> <small>(REFORMADO, D.O.F. 22 DE AGOSTO DE 1996)</small>
 
 La Cámara de Senadores se renovará en su totalidad cada seis años.
 
@@ -1916,9 +2000,11 @@ Los diputados y senadores son inviolables por las opiniones que manifiesten en e
 
 El Presidente de cada Cámara velará por el respeto al fuero constitucional de los miembros de la misma y por la inviolabilidad del recinto donde se reúnan a sesionar.
 
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
+
 ###### Art. 62.
 
-Los diputados y senadores propietarios durante el período de su encargo, no podrán desempeñar ninguna otra comisión o empleo de la Federación o de los Estados por los cuales se disfrute sueldo, sin licencia previa de la Cámara respectiva; pero entonces cesarán en sus funciones representativas, mientras dure la nueva ocupación. La misma regla se observará con los diputados y senadores suplentes, cuando estuviesen en ejercicio. La infracción de esta disposición será castigada con la pérdida del carácter de diputado o senador.
+Los diputados y senadores propietarios durante el período de su encargo, no podrán desempeñar ninguna otra comisión o empleo de la Federación o de las entidades federativas por los cuales se disfrute sueldo, sin licencia previa de la Cámara respectiva; pero entonces cesarán en sus funciones representativas, mientras dure la nueva ocupación. La misma regla se observará con los diputados y senadores suplentes, cuando estuviesen en ejercicio. La infracción de esta disposición será castigada con la pérdida del carácter de diputado o senador.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE OCTUBRE DE 2003)</small>
 
@@ -2020,9 +2106,9 @@ I.- Al Presidente de la República;
 
 II.- A los Diputados y Senadores al Congreso de la Unión;
 
-> <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2012)</small>
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2016)</small>
 
-III.- A las Legislaturas de los Estados; y
+III.- A las Legislaturas de los Estados y de la Ciudad de México; y
 
 > <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2012)</small>
 
@@ -2078,6 +2164,8 @@ Tampoco podrá hacerlas al Decreto de convocatoria a sesiones extraordinarias qu
 
 DE LAS FACULTADES DEL CONGRESO.
 
+> <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO ARTÍCULO DÉCIMO CUARTO DEL DECRETO POR EL QUE SE DECLARAN REFORMADAS Y DEROGADAS DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE LA REFORMA POLÍTICA DE LA CIUDAD DE MÉXICO, PUBLICADO EN EL D.O.F. 29 DE ENERO DE 2016, A PARTIR DE LA FECHA DE ENTRADA EN VIGOR DE ESTE DECRETO, TODAS LAS REFERENCIAS QUE EN ESTA CONSTITUCIÓN Y DEMÁS ORDENAMIENTOS JURÍDICOS SE HAGAN AL "DISTRITO FEDERAL", DEBERÁN ENTENDERSE HECHAS A LA "CIUDAD DE MÉXICO".]</small>
+
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE FEBRERO DE 1944)</small>
 
 ###### Art. 73.
@@ -2096,15 +2184,21 @@ III.- Para formar nuevos Estados dentro de los límites de los existentes, siend
 
 2o.- Que se compruebe ante el Congreso que tiene los elementos bastantes para proveer a su existencia política.
 
-3o.- Que sean oídas las Legislaturas de los Estados de cuyo territorio se trate, sobre la conveniencia o inconveniencia de la erección del nuevo Estado, quedando obligadas a dar su informe dentro de seis meses, contados desde el día en que se les remita la comunicación respectiva.
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
+
+3o.- Que sean oídas las Legislaturas de las entidades federativas de cuyo territorio se trate, sobre la conveniencia o inconveniencia de la erección del nuevo Estado, quedando obligadas a dar su informe dentro de seis meses, contados desde el día en que se les remita la comunicación respectiva.
 
 4o.- Que igualmente se oiga al Ejecutivo de la Federación, el cual enviará su informe dentro de siete días contados desde la fecha en que le sea pedido.
 
 5o.- Que sea votada la erección del nuevo Estado por dos terceras partes de los diputados y senadores presentes en sus respectivas Cámaras.
 
-6o.- Que la resolución del Congreso sea ratificada por la mayoría de las Legislaturas de los Estados, previo examen de la copia del expediente, siempre que hayan dado su consentimiento las Legislaturas de los Estados de cuyo territorio se trate.
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
 
-7o.- Si las Legislaturas de los Estados de cuyo territorio se trate, no hubieren dado su consentimiento, la ratificación de que habla la fracción anterior, deberá ser hecha por las dos terceras partes del total de Legislaturas de los demás Estados.
+6o.- Que la resolución del Congreso sea ratificada por la mayoría de las Legislaturas de las entidades federativas, previo examen de la copia del expediente, siempre que hayan dado su consentimiento las Legislaturas de las entidades federativas de cuyo territorio se trate.
+
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
+
+7o.- Si las Legislaturas de las entidades federativas de cuyo territorio se trate, no hubieren dado su consentimiento, la ratificación de que habla la fracción anterior, deberá ser hecha por las dos terceras partes del total de Legislaturas de las demás entidades federativas.
 
 IV.- (DEROGADA, D.O.F. 8 DE DICIEMBRE DE 2005)
 
@@ -2126,9 +2220,9 @@ VIII. En materia de deuda pública, para:
 
 4o. El Congreso de la Unión, a través de la comisión legislativa bicameral competente, analizará la estrategia de ajuste para fortalecer las finanzas públicas de los Estados, planteada en los convenios que pretendan celebrar con el Gobierno Federal para obtener garantías y, en su caso, emitirá las observaciones que estime pertinentes en un plazo máximo de quince días hábiles, inclusive durante los períodos de receso del Congreso de la Unión. Lo anterior aplicará en el caso de los Estados que tengan niveles elevados de deuda en los términos de la ley. Asimismo, de manera inmediata a la suscripción del convenio correspondiente, será informado de la estrategia de ajuste para los Municipios que se encuentren en el mismo supuesto, así como de los convenios que, en su caso, celebren los Estados que no tengan un nivel elevado de deuda;
 
-> <small>(REFORMADA, D.O.F. 24 DE OCTUBRE DE 1942)</small>
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2016)</small>
 
-IX.- Para impedir que en el comercio de Estado a Estado se establezcan restricciones.
+IX.- Para impedir que en el comercio entre entidades federativas se establezcan restricciones.
 
 > <small>(REFORMADA, D.O.F. 20 DE JULIO DE 2007)</small>
 
@@ -2146,7 +2240,9 @@ XIII.- Para dictar leyes según las cuales deben declararse buenas o malas las p
 
 XIV.- Para levantar y sostener a las instituciones armadas de la Unión, a saber: Ejército, Marina de Guerra y Fuerza Aérea Nacionales, y para reglamentar su organización y servicio.
 
-XV.- Para dar reglamentos con objeto de organizar, armar y disciplinar la Guardia Nacional, reservándose a los ciudadanos que la forman, el nombramiento respectivo de jefes y oficiales, y a los Estados la facultad de instruirla conforme a la disciplina prescrita por dichos reglamentos.
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2016)</small>
+
+XV.- Para dar reglamentos con objeto de organizar, armar y disciplinar la Guardia Nacional, reservándose los ciudadanos que la formen, el nombramiento respectivo de jefes y oficiales, y a las entidades federativas la facultad de instruirla conforme a la disciplina prescrita por dichos reglamentos.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 18 DE ENERO DE 1934)</small>
 
@@ -2184,7 +2280,9 @@ XXI.- Para expedir:
 
 a) Las leyes generales que establezcan como mínimo, los tipos penales y sus sanciones en las materias de secuestro, desaparición forzada de personas, otras formas de privación de la libertad contrarias a la ley, trata de personas, tortura y otros tratos o penas crueles, inhumanos o degradantes, así como electoral.
 
-Las leyes generales contemplarán también la distribución de competencias y las formas de coordinación entre la Federación, las entidades federativas, el Distrito Federal y los municipios;
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
+
+Las leyes generales contemplarán también la distribución de competencias y las formas de coordinación entre la Federación, las entidades federativas y los Municipios;
 
 b) La legislación que establezca los delitos y las faltas contra la Federación y las penas y sanciones que por ellos deban imponerse; así como legislar en materia de delincuencia organizada;
 
@@ -2198,17 +2296,17 @@ En las materias concurrentes previstas en esta Constitución, las leyes federale
 
 XXII.- Para conceder amnistías por delitos cuyo conocimiento pertenezca a los tribunales de la Federación.
 
-> <small>(REFORMADA, D.O.F. 18 DE JUNIO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2016)</small>
 
-XXIII.- Para expedir leyes que establezcan las bases de coordinación entre la Federación, el Distrito Federal, los Estados y los Municipios, así como para establecer y organizar a las instituciones de seguridad pública en materia federal, de conformidad con lo establecido en el artículo 21 de esta Constitución.
+XXIII.- Para expedir leyes que establezcan las bases de coordinación entre la Federación, las entidades federativas y los Municipios, así como para establecer y organizar a las instituciones de seguridad pública en materia federal, de conformidad con lo establecido en el artículo 21 de esta Constitución.
 
 > <small>(REFORMADA, D.O.F. 27 DE MAYO DE 2015)</small>
 
 XXIV.- Para expedir las leyes que regulen la organización y facultades de la Auditoría Superior de la Federación y las demás que normen la gestión, control y evaluación de los Poderes de la Unión y de los entes públicos federales; así como para expedir la ley general que establezca las bases de coordinación del Sistema Nacional Anticorrupción a que se refiere el artículo 113 de esta Constitución;
 
-> <small>(REFORMADA, D.O.F. 26 DE FEBRERO DE 2013)</small>
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2016)</small>
 
-XXV.- Para establecer el Servicio Profesional docente en términos del artículo 3o. de esta Constitución; establecer, organizar y sostener en toda la República escuelas rurales, elementales, superiores, secundarias y profesionales; de investigación científica, de bellas artes y de enseñanza técnica, escuelas prácticas de agricultura y de minería, de artes y oficios, museos, bibliotecas, observatorios y demás institutos concernientes a la cultura general de los habitantes de la nación y legislar en todo lo que se refiere a dichas instituciones; para legislar sobre vestigios o restos fósiles y sobre monumentos arqueológicos, artísticos e históricos, cuya conservación sea de interés nacional; así como para dictar las leyes encaminadas a distribuir convenientemente entre la Federación, los Estados y los Municipios el ejercicio de la función educativa y las aportaciones económicas correspondientes a ese servicio público, buscando unificar y coordinar la educación en toda la República, y para asegurar el cumplimiento de los fines de la educación y su mejora continua en un marco de inclusión y diversidad. Los Títulos que se expidan por los establecimientos de que se trata surtirán sus efectos en toda la República. Para legislar en materia de derechos de autor y otras figuras de la propiedad intelectual relacionadas con la misma;
+XXV.- Para establecer el Servicio Profesional docente en términos del artículo 3o. de esta Constitución; establecer, organizar y sostener en toda la República escuelas rurales, elementales, superiores, secundarias y profesionales; de investigación científica, de bellas artes y de enseñanza técnica, escuelas prácticas de agricultura y de minería, de artes y oficios, museos, bibliotecas, observatorios y demás institutos concernientes a la cultura general de los habitantes de la nación y legislar en todo lo que se refiere a dichas instituciones; para legislar sobre vestigios o restos fósiles y sobre monumentos arqueológicos, artísticos e históricos, cuya conservación sea de interés nacional; así como para dictar las leyes encaminadas a distribuir convenientemente entre la Federación, las entidades federativas y los Municipios el ejercicio de la función educativa y las aportaciones económicas correspondientes a ese servicio público, buscando unificar y coordinar la educación en toda la República, y para asegurar el cumplimiento de los fines de la educación y su mejora continua en un marco de inclusión y diversidad. Los Títulos que se expidan por los establecimientos de que se trata surtirán sus efectos en toda la República. Para legislar en materia de derechos de autor y otras figuras de la propiedad intelectual relacionadas con la misma;
 
 > <small>(REFORMADA, D.O.F. 9 DE AGOSTO DE 2012)</small>
 
@@ -2218,9 +2316,9 @@ XXVI.- Para conceder licencia al Presidente de la República y para constituirse
 
 XXVII.- Para aceptar la renuncia del cargo de Presidente de la República.
 
-> <small>(ADICIONADA, D.O.F. 7 DE MAYO DE 2008)</small>
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2016)</small>
 
-XXVIII.- Para expedir leyes en materia de contabilidad gubernamental que regirán la contabilidad pública y la presentación homogénea de información financiera, de ingresos y egresos, así como patrimonial, para la Federación, los estados, los municipios, el Distrito Federal y los órganos político-administrativos de sus demarcaciones territoriales, a fin de garantizar su armonización a nivel nacional.
+XXVIII.- Para expedir leyes en materia de contabilidad gubernamental que regirán la contabilidad pública y la presentación homogénea de información financiera, de ingresos y egresos, así como patrimonial, para la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, a fin de garantizar su armonización a nivel nacional;
 
 > <small>(REFORMADA, D.O.F. 24 DE OCTUBRE DE 1942)</small>
 
@@ -2258,9 +2356,9 @@ Las entidades federativas participarán en el rendimiento de estas contribucione
 
 XXIX-B.- Para legislar sobre las características y uso de la Bandera, Escudo e Himno Nacionales.
 
-> <small>(ADICIONADA, D.O.F. 6 DE FEBRERO DE 1976)</small>
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2016)</small>
 
-XXIX-C.- Para expedir las leyes que establezcan la concurrencia del Gobierno Federal, de los Estados y de los Municipios, en el ámbito de sus respectivas competencias, en materia de asentamientos humanos, con objeto de cumplir los fines previstos en el párrafo tercero del artículo 27 de esta Constitución.
+XXIX-C.- Para expedir las leyes que establezcan la concurrencia del Gobierno Federal, de las entidades federativas, de los Municipios y, en su caso, de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, en materia de asentamientos humanos, con objeto de cumplir los fines previstos en el párrafo tercero del artículo 27 de esta Constitución;
 
 > <small>(REFORMADA, D.O.F. 7 DE ABRIL DE 2006)</small>
 
@@ -2274,9 +2372,9 @@ XXIX-E.- Para expedir leyes para la programación, promoción, concertación y e
 
 XXIX-F.- Para expedir leyes tendientes a la promoción de la inversión mexicana, la regulación de la inversión extranjera, la transferencia de tecnología y la generación, difusión y aplicación de los conocimientos científicos y tecnológicos que requiere el desarrollo nacional.
 
-> <small>(ADICIONADA, D.O.F. 10 DE AGOSTO DE 1987)</small>
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2016)</small>
 
-XXIX-G.-Para expedir leyes que establezcan la concurrencia del Gobierno Federal, de los gobiernos de los Estados y de los municipios, en el ámbito de sus respectivas competencias, en materia de protección al ambiente y de preservación y restauración del equilibrio ecológico.
+XXIX-G.- Para expedir leyes que establezcan la concurrencia del Gobierno Federal, de los gobiernos de las entidades federativas, de los Municipios y, en su caso, de las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, en materia de protección al ambiente y de preservación y restauración del equilibrio ecológico.
 
 > <small>(REFORMADA, D.O.F. 27 DE MAYO DE 2015)</small>
 
@@ -2296,17 +2394,17 @@ Los Magistrados de Sala Regional serán designados por el Presidente de la Repú
 
 Los Magistrados sólo podrán ser removidos de sus cargos por las causas graves que señale la ley.
 
-> <small>(ADICIONADA, D.O.F. 28 DE JUNIO DE 1999)</small>
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2016)</small>
 
-XXIX-I.- Para expedir leyes que establezcan las bases sobre las cuales la Federación, los estados, el Distrito Federal y los municipios, coordinarán sus acciones en materia de protección civil, y
+XXIX-I.- Para expedir leyes que establezcan las bases sobre las cuales la Federación, las entidades federativas, los Municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, coordinarán sus acciones en materia de protección civil;
 
-> <small>(REFORMADA, D.O.F. 12 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2016)</small>
 
-XXIX-J.- Para legislar en materia de cultura física y deporte con objeto de cumplir lo previsto en el artículo 4o. de esta Constitución, estableciendo la concurrencia entre la Federación, los Estados, el Distrito Federal y los municipios; así como de la participación de los sectores social y privado;
+XXIX-J.- Para legislar en materia de cultura física y deporte con objeto de cumplir lo previsto en el artículo 4o. de esta Constitución, estableciendo la concurrencia entre la Federación, las entidades federativas, los Municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias; así como la participación de los sectores social y privado;
 
-> <small>(ADICIONADA, D.O.F. 29 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2016)</small>
 
-XXIX-K.- Para expedir leyes en materia de turismo, estableciendo las bases generales de coordinación de las facultades concurrentes entre la Federación, Estados, Municipios y el Distrito Federal, así como la participación de los sectores social y privado.
+XXIX-K.- Para expedir leyes en materia de turismo, estableciendo las bases generales de coordinación de las facultades concurrentes entre la Federación, las entidades federativas, los Municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, así como la participación de los sectores social y privado;
 
 > <small>(ADICIONADA, D.O.F. 27 DE SEPTIEMBRE DE 2004)</small>
 
@@ -2316,21 +2414,21 @@ XXIX-L.- Para expedir leyes que establezcan la concurrencia del gobierno federal
 
 XXIX-M.- Para expedir leyes en materia de seguridad nacional, estableciendo los requisitos y límites a las investigaciones correspondientes.
 
-> <small>(ADICIONADA, D.O.F. 15 DE AGOSTO DE 2007)</small>
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2016)</small>
 
-XXIX-N.- Para expedir leyes en materia de constitución, organización, funcionamiento y extinción de las sociedades cooperativas. Estas leyes establecerán las bases para la concurrencia en materia de fomento y desarrollo sustentable de la actividad cooperativa de la Federación, Estados y Municipios, así como del Distrito Federal, en el ámbito de sus respectivas competencias.
+XXIX-N.- Para expedir leyes en materia de constitución, organización, funcionamiento y extinción de las sociedades cooperativas. Estas leyes establecerán las bases para la concurrencia en materia de fomento y desarrollo sustentable de la actividad cooperativa de la Federación, entidades federativas, Municipios y, en su caso, demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias;
 
-> <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 2009)</small>
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2016)</small>
 
-XXIX-Ñ.- Para expedir leyes que establezcan las bases sobre las cuales la Federación, los Estados, los Municipios y el Distrito Federal coordinarán sus acciones en materia de cultura, salvo lo dispuesto en la fracción XXV de este artículo. Asimismo, establecerán los mecanismos de participación de los sectores social y privado, con objeto de cumplir los fines previstos en el párrafo noveno del artículo 4o. de esta Constitución.
+XXIX-Ñ.- Para expedir leyes que establezcan las bases sobre las cuales la Federación, las entidades federativas, los Municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, coordinarán sus acciones en materia de cultura, salvo lo dispuesto en la fracción XXV de este artículo. Asimismo, establecerán los mecanismos de participación de los sectores social y privado, con objeto de cumplir los fines previstos en el párrafo décimo segundo del artículo 4o. de esta Constitución.
 
 > <small>(ADICIONADA, D.O.F. 30 DE ABRIL DE 2009)</small>
 
 XXIX-O.- Para legislar en materia de protección de datos personales en posesión de particulares.
 
-> <small>(ADICIONADA, D.O.F. 12 DE OCTUBRE DE 2011)</small>
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2016)</small>
 
-XXIX-P.- Expedir leyes que establezcan la concurrencia de la Federación, los Estados, el Distrito Federal y los Municipios, en el ámbito de sus respectivas competencias, en materia de derechos de niñas, niños y adolescentes, velando en todo momento por el interés superior de los mismos y cumpliendo con los tratados internacionales de la materia, de los que México sea parte.
+XXIX-P.- Expedir leyes que establezcan la concurrencia de la Federación, las entidades federativas, los Municipios y, en su caso, las demarcaciones territoriales de la Ciudad de México, en el ámbito de sus respectivas competencias, en materia de derechos de niñas, niños y adolescentes, velando en todo momento por el interés superior de los mismos y cumpliendo con los tratados internacionales de la materia de los que México sea parte;
 
 > <small>(ADICIONADA, D.O.F. 9 DE AGOSTO DE 2012)</small>
 
@@ -2344,9 +2442,9 @@ XXIX-R.- Para expedir la ley general que armonice y homologue la organización y
 
 XXIX-S.- Para expedir las leyes generales reglamentarias que desarrollen los principios y bases en materia de transparencia gubernamental, acceso a la información y protección de datos personales en posesión de las autoridades, entidades, órganos y organismos gubernamentales de todos los niveles de gobierno.
 
-> <small>(ADICIONADA, D.O.F. 7 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2016)</small>
 
-XXIX-T.- Para expedir la ley general que establezca la organización y administración homogénea de los archivos en los órdenes federal, estatal, del Distrito Federal y municipal, que determine las bases de organización y funcionamiento del Sistema Nacional de Archivos.
+XXIX-T. Para expedir la ley general que establezca la organización y administración homogénea de los archivos de la Federación, de las entidades federativas, de los Municipios y de las demarcaciones territoriales de la Ciudad de México, y determine las bases de organización y funcionamiento del Sistema Nacional de Archivos.
 
 > <small>(ADICIONADA, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
@@ -2478,13 +2576,17 @@ II.- Ratificar los nombramientos que el mismo funcionario haga de los Secretario
 
 III.- Autorizarlo también para que pueda permitir la salida de tropas nacionales fuera de los límites del País, el paso de tropas extranjeras por el territorio nacional y la estación de escuadras de otra potencia, por más de un mes, en aguas mexicanas.
 
-> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 1974)</small>
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2016)</small>
 
-IV.- Dar su consentimiento para que el Presidente de la República pueda disponer de la Guardia Nacional fuera de sus respectivos Estados, fijando la fuerza necesaria.
+IV.- Dar su consentimiento para que el Presidente de la República pueda disponer de la Guardia Nacional fuera de sus respectivas entidades federativas, fijando la fuerza necesaria.
 
-V.- Declarar, cuando hayan desaparecido todos los poderes constitucionales de un Estado, que es llegado el caso de nombrarle un Gobernador provisional, quien convocará a elecciones conforme a las leyes constitucionales del mismo Estado. El nombramiento de Gobernador se hará por el Senado a propuesta en terna del Presidente de la República con aprobación de las dos terceras partes de los miembros presentes, y en los recesos, por la Comisión Permanente, conforme a las mismas reglas. El funcionario así nombrado, no podrá ser electo Gobernador constitucional en las elecciones que se verifiquen en virtud de la convocatoria que él expidiere. Esta disposición regirá siempre que las constituciones de los Estados no prevean el caso.
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2016)</small>
 
-VI.- Resolver las cuestiones políticas que surjan entre los poderes de un Estado cuando alguno de ellos ocurra con ese fin al Senado, o cuando con motivo de dichas cuestiones se haya interrumpido el orden constitucional, mediando un conflicto de armas. En este caso el Senado dictará su resolución, sujetándose a la Constitución General de la República y a la del Estado.
+V.- Declarar, cuando hayan desaparecido todos los poderes constitucionales de una entidad federativa, que es llegado el caso de nombrarle un titular del poder ejecutivo provisional, quien convocará a elecciones conforme a las leyes constitucionales de la entidad federativa. El nombramiento del titular del poder ejecutivo local se hará por el Senado a propuesta en terna del Presidente de la República con aprobación de las dos terceras partes de los miembros presentes, y en los recesos, por la Comisión Permanente, conforme a las mismas reglas. El funcionario así nombrado, no podrá ser electo titular del poder ejecutivo en las elecciones que se verifiquen en virtud de la convocatoria que él expidiere. Esta disposición regirá siempre que las constituciones de las entidades federativas no prevean el caso.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ENERO DE 2016)</small>
+
+VI.- Resolver las cuestiones políticas que surjan entre los poderes de una entidad federativa cuando alguno de ellos ocurra con ese fin al Senado, o cuando con motivo de dichas cuestiones se haya interrumpido el orden constitucional, mediando un conflicto de armas. En este caso el Senado dictará su resolución, sujetándose a la Constitución General de la República y a la de la entidad federativa.
 
 La ley reglamentará el ejercicio de esta facultad y el de la anterior.
 
@@ -2496,9 +2598,7 @@ VII.- Erigirse en Jurado de sentencia para conocer en juicio político de las fa
 
 VIII.- Designar a los Ministros de la Suprema Corte de Justicia de la Nación, de entre la terna que someta a su consideración el Presidente de la República, así como otorgar o negar su aprobación a las solicitudes de licencia o renuncia de los mismos, que le someta dicho funcionario.
 
-> <small>(ADICIONADA, D.O.F. 25 DE OCTUBRE DE 1993)</small>
-
-IX.- Nombrar y remover al Jefe del Distrito Federal en los supuestos previstos en esta Constitución.
+IX.- (DEROGADA, D.O.F. 29 DE ENERO DE 2016)
 
 > <small>(ADICIONADA, D.O.F. 8 DE DICIEMBRE DE 2005)</small>
 
@@ -2580,6 +2680,8 @@ VIII. Conocer y resolver sobre las solicitudes de licencia que le sean presentad
 
 DE LA FISCALIZACION SUPERIOR DE LA FEDERACION.
 
+> <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO ARTÍCULO DÉCIMO CUARTO DEL DECRETO POR EL QUE SE DECLARAN REFORMADAS Y DEROGADAS DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE LA REFORMA POLÍTICA DE LA CIUDAD DE MÉXICO, PUBLICADO EN EL D.O.F. 29 DE ENERO DE 2016, A PARTIR DE LA FECHA DE ENTRADA EN VIGOR DE ESTE DECRETO, TODAS LAS REFERENCIAS QUE EN ESTA CONSTITUCIÓN Y DEMÁS ORDENAMIENTOS JURÍDICOS SE HAGAN AL "DISTRITO FEDERAL", DEBERÁN ENTENDERSE HECHAS A LA "CIUDAD DE MÉXICO".]</small>
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIOS SEGUNDO Y QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE MAYO DE 2015)</small>
@@ -2616,11 +2718,9 @@ La Auditoría Superior de la Federación tendrá a su cargo:
 
 I. Fiscalizar en forma posterior los ingresos, egresos y deuda; las garantías que, en su caso, otorgue el Gobierno Federal respecto a empréstitos de los Estados y Municipios; el manejo, la custodia y la aplicación de fondos y recursos de los Poderes de la Unión y de los entes públicos federales, así como realizar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los programas federales, a través de los informes que se rendirán en los términos que disponga la Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIOS SEGUNDO Y QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2015)</small>
-
-También fiscalizará directamente los recursos federales que administren o ejerzan los estados, los municipios, el Distrito Federal y los órganos político-administrativos de sus demarcaciones territoriales. En los términos que establezca la ley fiscalizará, en coordinación con las entidades locales de fiscalización o de manera directa, las participaciones federales. En el caso de los Estados y los Municipios cuyos empréstitos cuenten con la garantía de la Federación, fiscalizará el destino y ejercicio de los recursos correspondientes que hayan realizado los gobiernos locales. Asimismo, fiscalizará los recursos federales que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, fondos y mandatos, públicos y privados, o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
+También fiscalizará directamente los recursos federales que administren o ejerzan las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México. En los términos que establezca la ley fiscalizará, en coordinación con las entidades locales de fiscalización o de manera directa, las participaciones federales. En el caso de los Estados y los Municipios cuyos empréstitos cuenten con la garantía de la Federación, fiscalizará el destino y ejercicio de los recursos correspondientes que hayan realizado los gobiernos locales. Asimismo, fiscalizará los recursos federales que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, fondos y mandatos, públicos o privados, o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.
 
 > <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2008)</small>
 
@@ -2726,9 +2826,9 @@ IV.- No pertenecer al estado eclesiástico ni ser ministro de algún culto;
 
 V.- No estar en servicio activo, en caso de pertenecer al Ejército, seis meses antes del día de la elección;
 
-> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2016)</small>
 
-VI.- No ser Secretario o subsecretario de Estado, Fiscal General de la República, gobernador de algún estado ni Jefe de Gobierno del Distrito Federal, a menos de que se separe de su puesto seis meses antes del día de la elección; y
+VI.- No ser Secretario o subsecretario de Estado, Fiscal General de la República, ni titular del poder ejecutivo de alguna entidad federativa, a menos de que se separe de su puesto seis meses antes del día de la elección; y
 
 VII.- No estar comprendido en alguna de las causas de incapacidad establecidas en el artículo 83.
 
@@ -2858,9 +2958,9 @@ XII.- Facilitar al Poder Judicial los auxilios que necesite para el ejercicio ex
 
 XIII.- Habilitar toda clase de puertos, establecer aduanas marítimas y fronterizas, y designar su ubicación.
 
-> <small>(REFORMADA, D.O.F. 8 DE OCTUBRE DE 1974)</small>
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2016)</small>
 
-XIV.- Conceder, conforme a las leyes, indultos a los reos sentenciados por delitos de competencia de los tribunales federales y a los sentenciados por delitos del orden común, en el Distrito Federal.
+XIV.- Conceder, conforme a las leyes, indultos a los reos sentenciados por delitos de competencia de los tribunales federales;
 
 XV.- Conceder privilegios exclusivos por tiempo limitado, con arreglo a la ley respectiva, a los descubridores, inventores o perfeccionadores de algún ramo de la industria.
 
@@ -3028,9 +3128,9 @@ IV.- Gozar de buena reputación y no haber sido condenado por delito que amerite
 
 V.- Haber residido en el país durante los dos años anteriores al día de la designación; y
 
-> <small>(REFORMADA, D.O.F. 10 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2016)</small>
 
-VI.- No haber sido Secretario de Estado, Fiscal General de la República, senador, diputado federal ni gobernador de algún Estado o Jefe de Gobierno del Distrito Federal, durante el año previo al día de su nombramiento.
+VI.- No haber sido Secretario de Estado, Fiscal General de la República, senador, diputado federal, ni titular del poder ejecutivo de alguna entidad federativa, durante el año previo al día de su nombramiento.
 
 > <small>(ADICIONADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -3192,11 +3292,11 @@ Las decisiones del Consejo serán definitivas e inatacables y, por lo tanto, no 
 
 La Suprema Corte de Justicia elaborará su propio presupuesto y el Consejo lo hará para el resto del Poder Judicial de la Federación, sin perjuicio de lo dispuesto en el párrafo séptimo del artículo 99 de esta Constitución. Los presupuestos así elaborados serán remitidos por el Presidente de la Suprema Corte para su inclusión en el proyecto de Presupuesto de Egresos de la Federación. La administración de la Suprema Corte de Justicia corresponderá a su Presidente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 22 DE AGOSTO DE 1996)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ENERO DE 2016)</small>
 
 ###### Art. 101.
 
-Los Ministros de la Suprema Corte de Justicia, los Magistrados de Circuito, los Jueces de Distrito, los respectivos secretarios, y los Consejeros de la Judicatura Federal, así como los Magistrados de la Sala Superior del Tribunal Electoral, no podrán, en ningún caso, aceptar ni desempeñar empleo o encargo de la Federación, de los Estados, del Distrito Federal o de particulares, salvo los cargos no remunerados en asociaciones científicas, docentes, literarias o de beneficencia.
+Los Ministros de la Suprema Corte de Justicia, los Magistrados de Circuito, los Jueces de Distrito, los respectivos secretarios, y los Consejeros de la Judicatura Federal, así como los Magistrados de la Sala Superior del Tribunal Electoral, no podrán, en ningún caso, aceptar ni desempeñar empleo o encargo de la Federación, de las entidades federativas o de particulares, salvo los cargos no remunerados en asociaciones científicas, docentes, literarias o de beneficencia.
 
 > <small>(REFORMADO, D.O.F. 22 DE AGOSTO DE 1996)</small>
 
@@ -3218,11 +3318,15 @@ La infracción a lo previsto en los párrafos anteriores, será sancionada con l
 
 ###### Art. 102.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ENERO DE 2016)</small>
+
+A. El Ministerio Público de la Federación se organizará en una Fiscalía General de la República como órgano público autónomo, dotado de personalidad jurídica y patrimonio propio.
+
 > <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
-A. El Ministerio Público se organizará en una Fiscalía General de la República como órgano público autónomo, dotado de personalidad jurídica y de patrimonio propios.
-
 Para ser Fiscal General de la República se requiere: ser ciudadano mexicano por nacimiento; tener cuando menos treinta y cinco años cumplidos el día de la designación; contar, con antigüedad mínima de diez años, con título profesional de licenciado en derecho; gozar de buena reputación, y no haber sido condenado por delito doloso.
+
+> <small>(REFORMADO [N. DE E. CON LAS FRACCIONES QUE LO INTEGRAN], D.O.F. 10 DE FEBRERO DE 2014)</small>
 
 El Fiscal General durará en su encargo nueve años, y será designado y removido conforme a lo siguiente:
 
@@ -3244,13 +3348,23 @@ V. En los recesos del Senado, la Comisión Permanente lo convocará de inmediato
 
 VI. Las ausencias del Fiscal General serán suplidas en los términos que determine la ley.
 
-Corresponde al Ministerio Público la persecución, ante los tribunales, de todos los delitos del orden federal; y, por lo mismo, solicitará las medidas cautelares contra los imputados; buscará y presentará las pruebas que acrediten la participación de éstos en hechos que las leyes señalen como delito; procurará que los juicios federales en materia penal se sigan con toda regularidad para que la impartición de justicia sea pronta y expedita; pedirá la aplicación de las penas, e intervendrá en todos los asuntos que la ley determine.
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
+
+Corresponde al Ministerio Público de la Federación la persecución, ante los tribunales, de todos los delitos del orden federal; y, por lo mismo, solicitará las medidas cautelares contra los imputados; buscará y presentará las pruebas que acrediten la participación de éstos en hechos que las leyes señalen como delito; procurará que los juicios federales en materia penal se sigan con toda regularidad para que la impartición de justicia sea pronta y expedita; pedirá la aplicación de las penas, e intervendrá en todos los asuntos que la ley determine.
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
 La Fiscalía General contará, al menos, con las fiscalías especializadas en materia de delitos electorales y de combate a la corrupción, cuyos titulares serán nombrados y removidos por el Fiscal General de la República. El nombramiento y remoción de los fiscales especializados antes referidos podrán ser objetados por el Senado de la República por el voto de las dos terceras partes de los miembros presentes, en el plazo que fije la ley; si el Senado no se pronunciare en este plazo, se entenderá que no tiene objeción.
 
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
 La ley establecerá las bases para la formación y actualización de los servidores públicos de la Fiscalía, así como para el desarrollo de la carrera profesional de los mismos, la cual se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos.
 
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+
 El Fiscal General presentará anualmente a los Poderes Legislativo y Ejecutivo de la Unión un informe de actividades. Comparecerá ante cualquiera de las Cámaras cuando se le cite a rendir cuentas o a informar sobre su gestión.
+
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
 El Fiscal General de la República y sus agentes, serán responsables de toda falta, omisión o violación a la ley en que incurran con motivo de sus funciones.
 
@@ -3268,9 +3382,9 @@ Estos organismos no serán competentes tratándose de asuntos electorales y juri
 
 El organismo que establezca el Congreso de la Unión se denominará Comisión Nacional de los Derechos Humanos; contará con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propios.
 
-> <small>(ADICIONADO, D.O.F. 10 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
 
-Las Constituciones de los Estados y el Estatuto de Gobierno del Distrito Federal establecerán y garantizarán la autonomía de los organismos de protección de los derechos humanos.
+Las Constituciones de las entidades federativas establecerán y garantizarán la autonomía de los organismos de protección de los derechos humanos.
 
 La Comisión Nacional de los Derechos Humanos tendrá un Consejo Consultivo integrado por diez consejeros que serán elegidos por el voto de las dos terceras partes de los miembros presentes de la Cámara de Senadores o, en sus recesos, por la Comisión Permanente del Congreso de la Unión, con la misma votación calificada. La ley determinará los procedimientos a seguir para la presentación de las propuestas por la propia Cámara. Anualmente serán substituidos los dos consejeros de mayor antigüedad en el cargo, salvo que fuesen propuestos y ratificados para un segundo período.
 
@@ -3284,9 +3398,9 @@ El Presidente de la Comisión Nacional de los Derechos Humanos presentará anual
 
 La Comisión Nacional de los Derechos Humanos conocerá de las inconformidades que se presenten en relación con las recomendaciones, acuerdos u omisiones de los organismos equivalentes en las entidades federativas.
 
-> <small>(ADICIONADO, D.O.F. 10 DE JUNIO DE 2011)</small>
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
 
-La Comisión Nacional de los Derechos Humanos podrá investigar hechos que constituyan violaciones graves de derechos humanos, cuando así lo juzgue conveniente o lo pidiere el Ejecutivo Federal, alguna de las Cámaras del Congreso de la Unión, el gobernador de un Estado, el Jefe de Gobierno del Distrito Federal o las legislaturas de las entidades federativas.
+La Comisión Nacional de los Derechos Humanos podrá investigar hechos que constituyan violaciones graves de derechos humanos, cuando así lo juzgue conveniente o lo pidiere el Ejecutivo Federal, alguna de las Cámaras del Congreso de la Unión, los titulares de los poderes ejecutivos de las entidades federativas o las Legislaturas de éstas.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
@@ -3298,9 +3412,13 @@ Los Tribunales de la Federación resolverán toda controversia que se suscite
 
 I. Por normas generales, actos u omisiones de la autoridad que violen los derechos humanos reconocidos y las garantías otorgadas para su protección por esta Constitución, así como por los tratados internacionales de los que el Estado Mexicano sea parte;
 
-II. Por normas generales o actos de la autoridad federal que vulneren o restrinjan la soberanía de los estados o la esfera de competencia del Distrito Federal, y
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2016)</small>
 
-III. Por normas generales o actos de las autoridades de los Estados o del Distrito Federal que invadan la esfera de competencia de la autoridad federal.
+II. Por normas generales o actos de la autoridad federal que vulneren o restrinjan la soberanía de los Estados o la autonomía de la Ciudad de México, y
+
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2016)</small>
+
+III. Por normas generales o actos de las autoridades de las entidades federativas que invadan la esfera de competencia de la autoridad federal.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
@@ -3316,9 +3434,9 @@ II. De todas las controversias del orden civil o mercantil que se susciten sobre
 
 Las sentencias de primera instancia podrán ser apelables ante el superior inmediato del juez que conozca del asunto en primer grado;
 
-> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2016)</small>
 
-III. De los recursos de revisión que se interpongan contra las resoluciones definitivas de los tribunales de justicia administrativa a que se refieren la fracción XXIX-H del artículo 73 y la BASE PRIMERA, fracción V, inciso n) y BASE QUINTA del artículo 122 de esta Constitución, sólo en los casos que señalen las leyes. Las revisiones, de las cuales conocerán los Tribunales Colegiados de Circuito, se sujetarán a los trámites que la ley reglamentaria de los artículos 103 y 107 de esta Constitución fije para la revisión en amparo indirecto, y en contra de las resoluciones que en ellas dicten los Tribunales Colegiados de Circuito no procederá juicio o recurso alguno;
+III. De los recursos de revisión que se interpongan contra las resoluciones definitivas de los tribunales de justicia administrativa a que se refiere la fracción XXIX-H del artículo 73 de esta Constitución, sólo en los casos que señalen las leyes. Las revisiones, de las cuales conocerán los Tribunales Colegiados de Circuito, se sujetarán a los trámites que la ley reglamentaria de los artículos 103 y 107 de esta Constitución fije para la revisión en amparo indirecto, y en contra de las resoluciones que en ellas dicten los Tribunales Colegiados de Circuito no procederá juicio o recurso alguno;
 
 IV. De todas las controversias que versen sobre derecho marítimo;
 
@@ -3326,7 +3444,9 @@ V. De aquellas en que la Federación fuese parte;
 
 VI. De las controversias y de las acciones a que se refiere el artículo 105, mismas que serán del conocimiento exclusivo de la Suprema Corte de Justicia de la Nación;
 
-VII. De las que surjan entre un Estado y uno o más vecinos de otro, y
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2016)</small>
+
+VII. De las que surjan entre una entidad federativa y uno o más vecinos de otra, y
 
 VIII. De los casos concernientes a miembros del Cuerpo Diplomático y Consular.
 
@@ -3340,37 +3460,45 @@ La Suprema Corte de Justicia de la Nación conocerá, en los términos que seña
 
 I.- De las controversias constitucionales que, con excepción de las que se refieran a la materia electoral, se susciten entre:
 
-a).- La Federación y un Estado o el Distrito Federal;
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
+
+a).- La Federación y una entidad federativa;
 
 b).- La Federación y un municipio;
 
-c).- El Poder Ejecutivo y el Congreso de la Unión; aquél y cualquiera de las Cámaras de éste o, en su caso, la Comisión Permanente, sean como órganos federales o del Distrito Federal;
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
 
-d).- Un Estado y otro;
+c).- El Poder Ejecutivo y el Congreso de la Unión; aquél y cualquiera de las Cámaras de éste o, en su caso, la Comisión Permanente;
 
-e).- Un Estado y el Distrito Federal;
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
 
-f).- El Distrito Federal y un municipio;
+d).- Una entidad federativa y otra;
+
+e).- (DEROGADO, D.O.F. 29 DE ENERO DE 2016)
+
+f).- (DEROGADO, D.O.F. 29 DE ENERO DE 2016)
 
 g).- Dos municipios de diversos Estados;
 
-h).- Dos Poderes de un mismo Estado, sobre la constitucionalidad de sus actos o disposiciones generales;
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
+
+h).- Dos Poderes de una misma entidad federativa, sobre la constitucionalidad de sus actos o disposiciones generales;
 
 i).- Un Estado y uno de sus municipios, sobre la constitucionalidad de sus actos o disposiciones generales;
 
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2013)</small>
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
 
-j).- Un Estado y un Municipio de otro Estado, sobre la constitucionalidad de sus actos o disposiciones generales;
+j).- Una entidad federativa y un Municipio de otra o una demarcación territorial de la Ciudad de México, sobre la constitucionalidad de sus actos o disposiciones generales, y
 
-> <small>(REFORMADO, D.O.F. 11 DE JUNIO DE 2013)</small>
-
-k).- Dos órganos de gobierno del Distrito Federal, sobre la constitucionalidad de sus actos o disposiciones generales, y
+k).- (DEROGADO, D.O.F. 29 DE ENERO DE 2016)
 
 > <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 2014)</small>
 
 l).- Dos órganos constitucionales autónomos, y entre uno de éstos y el Poder Ejecutivo de la Unión o el Congreso de la Unión sobre la constitucionalidad de sus actos o disposiciones generales. Lo dispuesto en el presente inciso será aplicable al organismo garante que establece el artículo 6o. de esta Constitución.
 
-Siempre que las controversias versen sobre disposiciones generales de los Estados o de los municipios impugnadas por la Federación, de los municipios impugnadas por los Estados, o en los casos a que se refieren los incisos c), h) y k) anteriores, y la resolución de la Suprema Corte de Justicia las declare inválidas, dicha resolución tendrá efectos generales cuando hubiera sido aprobada por una mayoría de por lo menos ocho votos.
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
+
+Siempre que las controversias versen sobre disposiciones generales de las entidades federativas, de los Municipios o de las demarcaciones territoriales de la Ciudad de México impugnadas por la Federación; de los Municipios o de las demarcaciones territoriales de la Ciudad de México impugnadas por las entidades federativas, o en los casos a que se refieren los incisos c) y h) anteriores, y la resolución de la Suprema Corte de Justicia de la Nación las declare inválidas, dicha resolución tendrá efectos generales cuando hubiere sido aprobada por una mayoría de por lo menos ocho votos.
 
 En los demás casos, las resoluciones de la Suprema Corte de Justicia tendrán efectos únicamente respecto de las partes en la controversia.
 
@@ -3380,29 +3508,35 @@ II.- De las acciones de inconstitucionalidad que tengan por objeto plantear la p
 
 Las acciones de inconstitucionalidad podrán ejercitarse, dentro de los treinta días naturales siguientes a la fecha de publicación de la norma, por:
 
-a).- El equivalente al treinta y tres por ciento de los integrantes de la Cámara de Diputados del Congreso de la Unión, en contra de leyes federales o del Distrito Federal expedidas por el Congreso de la Unión;
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
 
-b).- El equivalente al treinta y tres por ciento de los integrantes del Senado, en contra de leyes federales o del Distrito Federal expedidas por el Congreso de la Unión o de tratados internacionales celebrados por el Estado Mexicano;
+a).- El equivalente al treinta y tres por ciento de los integrantes de la Cámara de Diputados del Congreso de la Unión, en contra de leyes federales;
+
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
+
+b).- El equivalente al treinta y tres por ciento de los integrantes del Senado, en contra de las leyes federales o de tratados internacionales celebrados por el Estado Mexicano;
 
 > <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
 c) El Ejecutivo Federal, por conducto del Consejero Jurídico del Gobierno, en contra de normas generales de carácter federal y de las entidades federativas;
 
-d).- El equivalente al treinta y tres por ciento de los integrantes de alguno de los órganos legislativos estatales, en contra de leyes expedidas por el propio órgano, y (sic)
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
 
-e).- El equivalente al treinta y tres por ciento de los integrantes de la Asamblea de Representantes del Distrito Federal, en contra de leyes expedidas por la propia Asamblea;
+d).- El equivalente al treinta y tres por ciento de los integrantes de alguna de las Legislaturas de las entidades federativas en contra de las leyes expedidas por el propio órgano;
 
-> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+e).- (DEROGADO, D.O.F. 29 DE ENERO DE 2016)
 
-f) Los partidos políticos con registro ante el Instituto Nacional Electoral, por conducto de sus dirigencias nacionales, en contra de leyes electorales federales o locales; y los partidos políticos con registro estatal, a través de sus dirigencias, exclusivamente en contra de leyes electorales expedidas por el órgano legislativo del Estado que les otorgó el registro;
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
 
-> <small>(REFORMADO, D.O.F. 10 DE JUNIO DE 2011)</small>
+f) Los partidos políticos con registro ante el Instituto Nacional Electoral, por conducto de sus dirigencias nacionales, en contra de leyes electorales federales o locales; y los partidos políticos con registro en una entidad federativa, a través de sus dirigencias, exclusivamente en contra de leyes electorales expedidas por la Legislatura de la entidad federativa que les otorgó el registro;
 
-g) La Comisión Nacional de los Derechos Humanos, en contra de leyes de carácter federal, estatal y del Distrito Federal, así como de tratados internacionales celebrados por el Ejecutivo Federal y aprobados por el Senado de la República, que vulneren los derechos humanos consagrados en esta Constitución y en los tratados internacionales de los que México sea parte. Asimismo, los organismos de protección de los derechos humanos equivalentes en los estados de la República, en contra de leyes expedidas por las legislaturas locales y la Comisión de Derechos Humanos del Distrito Federal, en contra de leyes emitidas por la Asamblea Legislativa del Distrito Federal.
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
 
-> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 2014)</small>
+g) La Comisión Nacional de los Derechos Humanos, en contra de leyes de carácter federal o de las entidades federativas, así como de tratados internacionales celebrados por el Ejecutivo Federal y aprobados por el Senado de la República, que vulneren los derechos humanos consagrados en esta Constitución y en los tratados internacionales de los que México sea parte. Asimismo, los organismos de protección de los derechos humanos equivalentes en las entidades federativas, en contra de leyes expedidas por las Legislaturas;
 
-h) El organismo garante que establece el artículo 6o. de esta Constitución en contra de leyes de carácter federal, estatal y del Distrito Federal, así como de tratados internacionales celebrados por el Ejecutivo Federal y aprobados por el Senado de la República, que vulneren el derecho al acceso a la información pública y la protección de datos personales. Asimismo, los organismos garantes equivalentes en los estados de la República, en contra de leyes expedidas por las legislaturas locales y el órgano garante del Distrito Federal, en contra de leyes emitidas por la Asamblea Legislativa del Distrito Federal.
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
+
+h) El organismo garante que establece el artículo 6° de esta Constitución en contra de leyes de carácter federal y local, así como de tratados internacionales celebrados por el Ejecutivo Federal y aprobados por el Senado de la República, que vulneren el derecho al acceso a la información pública y la protección de datos personales. Asimismo, los organismos garantes equivalentes en las entidades federativas, en contra de leyes expedidas por las Legislaturas locales; e
 
 > <small>(ADICIONADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
@@ -3426,11 +3560,11 @@ La declaración de invalidez de las resoluciones a que se refieren las fraccione
 
 En caso de incumplimiento de las resoluciones a que se refieren las fracciones I y II de este artículo se aplicarán, en lo conducente, los procedimientos establecidos en los dos primeros párrafos de la fracción XVI del artículo 107 de esta Constitución.
 
-> <small>(REFORMADO, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
 
 ###### Art. 106.
 
-Corresponde al Poder Judicial de la Federación, en los términos de la ley respectiva, dirimir las controversias que, por razón de competencia, se susciten entre los Tribunales de la Federación, entre éstos y los de los Estados o del Distrito Federal, entre los de un Estado y los de otro, o entre los de un Estado y los del Distrito Federal.
+Corresponde al Poder Judicial de la Federación, en los términos de la ley respectiva, dirimir las controversias que, por razón de competencia, se susciten entre los Tribunales de la Federación, entre éstos y los de las entidades federativas o entre los de una entidad federativa y otra.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
 
@@ -3570,11 +3704,9 @@ X.- Los actos reclamados podrán ser objeto de suspensión en los casos y median
 
 Dicha suspensión deberá otorgarse respecto de las sentencias definitivas en materia penal al comunicarse la promoción del amparo, y en las materias civil, mercantil y administrativa, mediante garantía que dé el quejoso para responder de los daños y perjuicios que tal suspensión pudiere ocasionar al tercero interesado. La suspensión quedará sin efecto si éste último da contragarantía para asegurar la reposición de las cosas al estado que guardaban si se concediese el amparo y a pagar los daños y perjuicios consiguientes;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA CONSTITUCIÓN.</small>
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2016)</small>
 
-> <small>(REFORMADA, D.O.F. 6 DE JUNIO DE 2011)</small>
-
-XI.- La demanda de amparo directo se presentará ante la autoridad responsable, la cual decidirá sobre la suspensión. En los demás casos la demanda se presentará ante los Juzgados de Distrito o los Tribunales Unitarios de Circuito los cuales resolverán sobre la suspensión, o ante los tribunales de los Estados en los casos que la ley lo autorice;
+XI.- La demanda de amparo directo se presentará ante la autoridad responsable, la cual decidirá sobre la suspensión. En los demás casos la demanda se presentará ante los Juzgados de Distrito o los Tribunales Unitarios de Circuito los cuales resolverán sobre la suspensión, o ante los tribunales de las entidades federativas en los casos que la ley lo autorice;
 
 > <small>(REFORMADA, D.O.F. 31 DE DICIEMBRE DE 1994)</small>
 
@@ -3638,29 +3770,31 @@ XVIII.- (DEROGADA, D.O.F. 3 DE SEPTIEMBRE DE 1993) (REPUBLICADA DEROGACIÓN, D.O
 
 DE LAS RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS, PARTICULARES VINCULADOS CON FALTAS ADMINISTRATIVAS GRAVES O HECHOS DE CORRUPCIÓN, Y PATRIMONIAL DEL ESTADO.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ENERO DE 2016)</small>
 
 ###### Art. 108.
 
-Para los efectos de las responsabilidades a que alude este Título se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial Federal y del Poder Judicial del Distrito Federal, los funcionarios y empleados y, en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en el Congreso de la Unión, en la Asamblea Legislativa del Distrito Federal o en la Administración Pública Federal o en el Distrito Federal, así como a los servidores públicos de los organismos a los que esta Constitución otorgue autonomía, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
+Para los efectos de las responsabilidades a que alude este Título se reputarán como servidores públicos a los representantes de elección popular, a los miembros del Poder Judicial de la Federación, los funcionarios y empleados y, en general, a toda persona que desempeñe un empleo, cargo o comisión de cualquier naturaleza en el Congreso de la Unión o en la Administración Pública Federal, así como a los servidores públicos de los organismos a los que esta Constitución otorgue autonomía, quienes serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
 El Presidente de la República, durante el tiempo de su encargo, sólo podrá ser acusado por traición a la patria y delitos graves del orden común.
 
-> <small>(REFORMADO, D.O.F. 17 DE JUNIO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
 
-Los Gobernadores de los Estados, los Diputados a las Legislaturas Locales, los Magistrados de los Tribunales Superiores de Justicia Locales, en su caso, los miembros de los Consejos de las Judicaturas Locales, los integrantes de los ayuntamientos, así como los miembros de los organismos a los que las Constituciones Locales y el Estatuto de Gobierno del Distrito Federal les otorgue autonomía, serán responsables por violaciones a esta Constitución y a las leyes federales, así como por el manejo y aplicación indebidos de fondos y recursos federales.
+Los ejecutivos de las entidades federativas, los diputados a las Legislaturas Locales, los Magistrados de los Tribunales Superiores de Justicia Locales, en su caso, los miembros de los Consejos de las Judicaturas Locales, los integrantes de los Ayuntamientos y Alcaldías, los miembros de los organismos a los que las Constituciones Locales les otorgue autonomía, así como los demás servidores públicos locales, serán responsables por violaciones a esta Constitución y a las leyes federales, así como por el manejo y aplicación indebidos de fondos y recursos federales.
 
-> <small>(REFORMADO, D.O.F. 26 DE MAYO DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
 
-Las Constituciones de los Estados de la República precisarán, en los mismos términos del primer párrafo de este artículo y para los efectos de sus responsabilidades, el carácter de servidores públicos de quienes desempeñen empleo, cargo o comisión en los Estados y en los Municipios. Dichos servidores públicos serán responsables por el manejo indebido de recursos públicos y la deuda pública.
+Las Constituciones de las entidades federativas precisarán, en los mismos términos del primer párrafo de este artículo y para los efectos de sus responsabilidades, el carácter de servidores públicos de quienes desempeñen empleo, cargo o comisión en las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México. Dichos servidores públicos serán responsables por el manejo indebido de recursos públicos y la deuda pública.
 
 > <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIOS SEGUNDO Y QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(ADICIONADO, D.O.F. 27 DE MAYO DE 2015)</small>
 
 Los servidores públicos a que se refiere el presente artículo estarán obligados a presentar, bajo protesta de decir verdad, su declaración patrimonial y de intereses ante las autoridades competentes y en los términos que determine la ley.
+
+> <small>[N. DE E. DE ACUERDO A LO DISPUESTO EN EL TRANSITORIO ARTÍCULO DÉCIMO CUARTO DEL DECRETO POR EL QUE SE DECLARAN REFORMADAS Y DEROGADAS DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE LA REFORMA POLÍTICA DE LA CIUDAD DE MÉXICO, PUBLICADO EN EL D.O.F. 29 DE ENERO DE 2016, A PARTIR DE LA FECHA DE ENTRADA EN VIGOR DE ESTE DECRETO, TODAS LAS REFERENCIAS QUE EN ESTA CONSTITUCIÓN Y DEMÁS ORDENAMIENTOS JURÍDICOS SE HAGAN AL "DISTRITO FEDERAL", DEBERÁN ENTENDERSE HECHAS A LA "CIUDAD DE MÉXICO".]</small>
 
 > <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIOS SEGUNDO Y QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -3702,15 +3836,15 @@ La Auditoría Superior de la Federación y la Secretaría del Ejecutivo Federal 
 
 La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular, cause en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ENERO DE 2016)</small>
 
 ###### Art. 110.
 
-Podrán ser sujetos de juicio político los senadores y diputados al Congreso de la Unión, los ministros de la Suprema Corte de Justicia de la Nación, los Consejeros de la Judicatura Federal, los Secretarios de Despacho, los diputados a la Asamblea del Distrito Federal, el Jefe de Gobierno del Distrito Federal, el Fiscal General de la República, el Procurador General de Justicia del Distrito Federal, los magistrados de Circuito y jueces de Distrito, los magistrados y jueces del Fuero Común del Distrito Federal, los Consejeros de la Judicatura del Distrito Federal, el consejero Presidente, los consejeros electorales, y el secretario ejecutivo del Instituto Nacional Electoral, los magistrados del Tribunal Electoral, los integrantes de los órganos constitucionales autónomos, los directores generales y sus equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos.
+Podrán ser sujetos de juicio político los senadores y diputados al Congreso de la Unión, los ministros de la Suprema Corte de Justicia de la Nación, los consejeros de la Judicatura Federal, los secretarios de Despacho, el Fiscal General de la República, los magistrados de Circuito y jueces de Distrito, el consejero Presidente, los consejeros electorales y el secretario ejecutivo del Instituto Nacional Electoral, los magistrados del Tribunal Electoral, los integrantes de los órganos constitucionales autónomos, los directores generales y sus equivalentes de los organismos descentralizados, empresas de participación estatal mayoritaria, sociedades y asociaciones asimiladas a éstas y fideicomisos públicos.
 
-> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
 
-Los Gobernadores de los Estados, Diputados Locales, Magistrados de los Tribunales Superiores de Justicia Locales, en su caso, los miembros de los Consejos de las Judicaturas Locales, así como los miembros de los organismos a los que las Constituciones Locales y el Estatuto de Gobierno del Distrito Federal les otorgue autonomía, sólo podrán ser sujetos de juicio político en los términos de este Título por violaciones graves a esta Constitución y a las leyes federales que de ella emanen, así como por el manejo indebido de fondos y recursos federales, pero en este caso la resolución será únicamente declarativa y se comunicará a las Legislaturas Locales para que, en ejercicio de sus atribuciones, procedan como corresponda.
+Los ejecutivos de las entidades federativas, Diputados locales, Magistrados de los Tribunales Superiores de Justicia Locales, en su caso, los miembros de los Consejos de las Judicaturas Locales, así como los miembros de los organismos a los que las Constituciones Locales les otorgue autonomía, sólo podrán ser sujetos de juicio político en los términos de este Título por violaciones graves a esta Constitución y a las leyes federales que de ella emanen, así como por el manejo indebido de fondos y recursos federales, pero en este caso la resolución será únicamente declarativa y se comunicará a las Legislaturas Locales para que, en ejercicio de sus atribuciones, procedan como corresponda.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
@@ -3728,11 +3862,11 @@ Conociendo de la acusación la Cámara de Senadores, erigida en Jurado de senten
 
 Las declaraciones y resoluciones de las Cámaras de Diputados y Senadores son inatacables.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ENERO DE 2016)</small>
 
 ###### Art. 111.
 
-Para proceder penalmente contra los diputados y senadores al Congreso de la Unión, los ministros de la Suprema Corte de Justicia de la Nación, los magistrados de la Sala Superior del Tribunal Electoral, los consejeros de la Judicatura Federal, los Secretarios de Despacho, los diputados a la Asamblea del Distrito Federal, el Jefe de Gobierno del Distrito Federal, el Fiscal General de la República y el Procurador General de Justicia del Distrito Federal, así como el consejero Presidente y los consejeros electorales del Consejo General del Instituto Nacional Electoral, por la comisión de delitos durante el tiempo de su encargo, la Cámara de Diputados declarará por mayoría absoluta de sus miembros presentes en sesión, si ha o no lugar a proceder contra el inculpado.
+Para proceder penalmente contra los diputados y senadores al Congreso de la Unión, los ministros de la Suprema Corte de Justicia de la Nación, los magistrados de la Sala Superior del Tribunal Electoral, los consejeros de la Judicatura Federal, los secretarios de Despacho, el Fiscal General de la República, así como el consejero Presidente y los consejeros electorales del Consejo General del Instituto Nacional Electoral, por la comisión de delitos durante el tiempo de su encargo, la Cámara de Diputados declarará por mayoría absoluta de sus miembros presentes en sesión, si ha o no lugar a proceder contra el inculpado.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
@@ -3746,9 +3880,9 @@ Si la Cámara declara que ha lugar a proceder, el sujeto quedará a disposición
 
 Por lo que toca al Presidente de la República, sólo habrá lugar a acusarlo ante la Cámara de Senadores en los términos del artículo 110. En este supuesto, la Cámara de Senadores resolverá con base en la legislación penal aplicable.
 
-> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
 
-Para poder proceder penalmente por delitos federales contra los Gobernadores de los Estados, Diputados Locales, Magistrados de los Tribunales Superiores de Justicia de los Estados, en su caso los miembros de los Consejos de las Judicaturas Locales, y los miembros de los organismos a los que las Constituciones Locales y el Estatuto de Gobierno del Distrito Federal les otorgue autonomía se seguirá el mismo procedimiento establecido en este artículo, pero en este supuesto, la declaración de procedencia será para el efecto de que se comunique a las Legislaturas Locales, para que en ejercicio de sus atribuciones procedan como corresponda.
+Para poder proceder penalmente por delitos federales contra los ejecutivos de las entidades federativas, diputados locales, magistrados de los Tribunales Superiores de Justicia de las entidades federativas, en su caso los miembros de los Consejos de las Judicaturas Locales, y los miembros de los organismos a los que las Constituciones Locales les otorgue autonomía se seguirá el mismo procedimiento establecido en este artículo, pero en este supuesto, la declaración de procedencia será para el efecto de que se comunique a las Legislaturas Locales, para que en ejercicio de sus atribuciones procedan como corresponda.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
@@ -3820,11 +3954,9 @@ La responsabilidad por delitos cometidos durante el tiempo del encargo por cualq
 
 La ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción III del artículo 109. Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a siete años.
 
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 25 DE OCTUBRE DE 1993)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 29 DE ENERO DE 2016)</small>
 
-## TITULO QUINTO.
-
-DE LOS ESTADOS DE LA FEDERACION Y DEL DISTRITO FEDERAL.
+## TITULO QUINTO. DE LOS ESTADOS DE LA FEDERACION Y DE LA CIUDAD DE MEXICO
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
@@ -3942,9 +4074,9 @@ b).- Las participaciones federales, que serán cubiertas por la Federación a lo
 
 c).- Los ingresos derivados de la prestación de servicios públicos a su cargo.
 
-> <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1999)</small>
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
 
-Las leyes federales no limitarán la facultad de los Estados para establecer las contribuciones a que se refieren los incisos a) y c), ni concederán exenciones en relación con las mismas. Las leyes estatales no establecerán exenciones o subsidios en favor de persona o institución alguna respecto de dichas contribuciones. Sólo estarán exentos los bienes de dominio público de la Federación, de los Estados o los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
+Las leyes federales no limitarán la facultad de los Estados para establecer las contribuciones a que se refieren los incisos a) y c), ni concederán exenciones en relación con las mismas. Las leyes estatales no establecerán exenciones o subsidios en favor de persona o institución alguna respecto de dichas contribuciones. Sólo estarán exentos los bienes de dominio público de la Federación, de las entidades federativas o los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.
 
 > <small>(REFORMADO, D.O.F. 23 DE DICIEMBRE DE 1999)</small>
 
@@ -3980,7 +4112,9 @@ h) Intervenir en la formulación y aplicación de programas de transporte públi
 
 i) Celebrar convenios para la administración y custodia de las zonas federales.
 
-En lo conducente y de conformidad a los fines señalados en el párrafo tercero del artículo 27 de esta Constitución, expedirán los reglamentos y disposiciones administrativas que fueren necesarios.
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
+
+En lo conducente y de conformidad a los fines señalados en el párrafo tercero del artículo 27 de esta Constitución, expedirán los reglamentos y disposiciones administrativas que fueren necesarios. Los bienes inmuebles de la Federación ubicados en los Municipios estarán exclusivamente bajo la jurisdicción de los poderes federales, sin perjuicio de los convenios que puedan celebrar en términos del inciso i) de esta fracción;
 
 > <small>(REFORMADA, D.O.F. 3 DE FEBRERO DE 1983)</small>
 
@@ -4224,7 +4358,9 @@ Sin perjuicio de lo anterior, los Estados y Municipios podrán contratar obligac
 
 IX.- Gravar la producción, el acopio o la venta del tabaco en rama, en forma distinta o con cuotas mayores de las que el Congreso de la Unión autorice.
 
-El Congreso de la Unión y las Legislaturas de los Estados dictarán, desde luego, leyes encaminadas a combatir el alcoholismo.
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
+
+El Congreso de la Unión y las Legislaturas de las entidades federativas dictarán, desde luego, leyes encaminadas a combatir el alcoholismo.
 
 ###### Art. 118.
 
@@ -4236,11 +4372,11 @@ II.- Tener, en ningún tiempo, tropa permanente ni buques de guerra.
 
 III.- Hacer la guerra por sí a alguna potencia extranjera, exceptuándose los casos de invasión y de peligro tan inminente, que no admita demora. En estos casos darán cuenta inmediata al Presidente de la República.
 
-> <small>(ADICIONADO PRIMER PÁRRAFO, D.O.F. 25 DE OCTUBRE DE 1993)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ENERO DE 2016)</small>
 
 ###### Art. 119.
 
-Los Poderes de la Unión tienen el deber de proteger a los Estados contra toda invasión o violencia exterior. En cada caso de sublevación o transtorno (sic) interior, les prestarán igual protección, siempre que sean excitados por la Legislatura del Estado o por su Ejecutivo, si aquélla no estuviere reunida.
+Los Poderes de la Unión tienen el deber de proteger a las entidades federativas contra toda invasión o violencia exterior. En cada caso de sublevación o transtorno (sic) interior, les prestarán igual protección, siempre que sean excitados por la Legislatura de la entidad federativa o por su Ejecutivo, si aquélla no estuviere reunida.
 
 > <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2014)</small>
 
@@ -4250,239 +4386,159 @@ Las entidades federativas están obligadas a entregar sin demora a los imputados
 
 Las extradiciones a requerimiento de Estado extranjero serán tramitadas por el Ejecutivo Federal, con la intervención de la autoridad judicial en los términos de esta Constitución, los Tratados Internacionales que al respecto se suscriban y las leyes reglamentarias. En esos casos, el auto del juez que mande cumplir la requisitoria será bastante para motivar la detención hasta por sesenta días naturales.
 
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
+
 ###### Art. 120.
 
-Los Gobernadores de los Estados están obligados a publicar y hacer cumplir las leyes federales.
+Los titulares de los poderes ejecutivos de las entidades federativas están obligados a publicar y hacer cumplir las leyes federales.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ENERO DE 2016)</small>
 
 ###### Art. 121.
 
-En cada Estado de la Federación se dará entera fe y crédito de los actos públicos, registros y procedimientos judiciales de todos los otros. El Congreso de la Unión, por medio de leyes generales, prescribirá la manera de probar dichos actos, registros y procedimientos, y el efecto de ellos, sujetándose a las bases siguientes:
+En cada entidad federativa se dará entera fe y crédito de los actos públicos, registros y procedimientos judiciales de todas las otras. El Congreso de la Unión, por medio de leyes generales, prescribirá la manera de probar dichos actos, registros y procedimientos, y el efecto de ellos, sujetándose a las bases siguientes:
 
-I.- Las leyes de un Estado sólo tendrán efecto en su propio territorio, y, por consiguiente, no podrán ser obligatorias fuera de él.
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2016)</small>
+
+I.- Las leyes de una entidad federativa sólo tendrán efecto en su propio territorio y, por consiguiente, no podrán ser obligatorias fuera de él.
 
 II.- Los bienes muebles e inmuebles se regirán por la ley del lugar de su ubicación.
 
-III.- Las sentencias pronunciadas por los tribunales de un Estado sobre derechos reales o bienes inmuebles ubicados en otro Estado, sólo tendrán fuerza ejecutoria en éste, cuando así lo dispongan sus propias leyes.
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2016)</small>
 
-Las sentencias sobre derechos personales sólo serán ejecutadas en otro Estado, cuando la persona condenada se haya sometido expresamente o por razón de domicilio, a la justicia que las pronunció, y siempre que haya sido citada personalmente para ocurrir al juicio.
+III.- Las sentencias pronunciadas por los tribunales de una entidad federativa sobre derechos reales o bienes inmuebles ubicados en otra entidad federativa, sólo tendrán fuerza ejecutoria en ésta, cuando así lo dispongan sus propias leyes.
 
-IV.- Los actos del estado civil ajustados a las leyes de un Estado, tendrán validez en los otros.
+Las sentencias sobre derechos personales sólo serán ejecutadas en otra entidad federativa, cuando la persona condenada se haya sometido expresamente o por razón de domicilio, a la justicia que las pronunció, y siempre que haya sido citada personalmente para ocurrir al juicio.
 
-V.- Los títulos profesionales expedidos por las autoridades de un Estado, con sujeción a sus leyes, serás (sic) respetados en los otros.
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2016)</small>
 
-> <small>(REFORMADO, D.O.F. 22 DE AGOSTO DE 1996)</small>
+IV.- Los actos del estado civil ajustados a las leyes de una entidad federativa, tendrán validez en las otras.
+
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2016)</small>
+
+V.- Los títulos profesionales expedidos por las autoridades de una entidad federativa con sujeción a sus leyes, serán respetados en las otras.
+
+> <small>[N. DE E. EN RELACIÓN CON LAS PARTICULARIDADES DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIOS TERCERO, CUARTO Y SEXTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
 
 ###### Art. 122.
 
-Definida por el artículo 44 de este ordenamiento la naturaleza jurídica del Distrito Federal, su gobierno está a cargo de los Poderes Federales y de los órganos Ejecutivo, Legislativo y Judicial de carácter local, en los términos de este artículo.
+La Ciudad de México es una entidad federativa que goza de autonomía en todo lo concerniente a su régimen interior y a su organización política y administrativa.
 
-Son autoridades locales del Distrito Federal, la Asamblea Legislativa, el Jefe de Gobierno del Distrito Federal y el Tribunal Superior de Justicia.
+A. El gobierno de la Ciudad de México está a cargo de sus poderes locales, en los términos establecidos en la Constitución Política de la Ciudad de México, la cual se ajustará a lo dispuesto en la presente Constitución y a las bases siguientes:
 
-La Asamblea Legislativa del Distrito Federal se integrará con el número de diputados electos según los principios de mayoría relativa y de representación proporcional, mediante el sistema de listas votadas en una circunscripción plurinominal, en los términos que señalen esta Constitución y el Estatuto de Gobierno.
+I. La Ciudad de México adoptará para su régimen interior la forma de gobierno republicano, representativo, democrático y laico. El poder público de la Ciudad de México se dividirá para su ejercicio en Legislativo, Ejecutivo y Judicial. No podrán reunirse dos o más de estos poderes en una sola persona o corporación ni depositarse el Legislativo en un solo individuo.
 
-El Jefe de Gobierno del Distrito Federal tendrá a su cargo el Ejecutivo y la administración pública en la entidad y recaerá en una sola persona, elegida por votación universal, libre, directa y secreta.
+La Constitución Política de la Ciudad de México establecerá las normas y las garantías para el goce y la protección de los derechos humanos en los ámbitos de su competencia, conforme a lo dispuesto por el artículo 1o. de esta Constitución.
 
-El Tribunal Superior de Justicia y el Consejo de la Judicatura, con los demás órganos que establezca el Estatuto de Gobierno, ejercerán la función judicial del fuero común en el Distrito Federal.
+II. El ejercicio del Poder Legislativo se deposita en la Legislatura de la Ciudad de México, la cual se integrará en los términos que establezca la Constitución Política de la entidad. Sus integrantes deberán cumplir los requisitos que la misma establezca y serán electos mediante sufragio universal, libre, secreto y directo, según los principios de mayoría relativa y de representación proporcional, por un periodo de tres años.
 
-La distribución de competencias entre los Poderes de la Unión y las autoridades locales del Distrito Federal se sujetará a las siguientes disposiciones:
+En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la Legislatura que exceda en ocho puntos su porcentaje de votación emitida. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la Legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento. Asimismo, en la integración de la Legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales.
 
-A. Corresponde al Congreso de la Unión:
+En la Constitución Política de la Ciudad de México se establecerá que los diputados a la Legislatura podrán ser electos hasta por cuatro periodos consecutivos. La postulación deberá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
-I.- Legislar en lo relativo al Distrito Federal, con excepción de las materias expresamente conferidas a la Asamblea Legislativa;
+La Constitución Política de la entidad establecerá las normas para garantizar el acceso de todos los grupos parlamentarios a los órganos de gobierno del Congreso local y, a los de mayor representación, a la Presidencia de los mismos.
 
-II.- Expedir el Estatuto de Gobierno del Distrito Federal;
+Corresponde a la Legislatura aprobar las adiciones o reformas a la Constitución Política de la Ciudad de México y ejercer las facultades que la misma establezca. Para que las adiciones o reformas lleguen a ser parte de la misma se requiere sean aprobadas por las dos terceras partes de los diputados presentes.
 
-III.- Legislar en materia de deuda pública del Distrito Federal;
+Asimismo, corresponde a la Legislatura de la Ciudad de México revisar la cuenta pública del año anterior, por conducto de su entidad de fiscalización, la cual será un órgano con autonomía técnica y de gestión en el ejercicio de sus atribuciones, y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga su ley. La función de fiscalización se desarrollará conforme a los principios de legalidad, imparcialidad y confiabilidad.
 
-IV.- Dictar las disposiciones generales que aseguren el debido, oportuno y eficaz funcionamiento de los Poderes de la Unión; y
+La cuenta pública del año anterior deberá ser enviada a la Legislatura a más tardar el 30 de abril del año siguiente. Este plazo solamente podrá ser ampliado cuando se formule una solicitud del Jefe de Gobierno de la Ciudad de México suficientemente justificada a juicio de la Legislatura.
 
-V.- Las demás atribuciones que le señala esta Constitución.
+Los informes de auditoría de la entidad de fiscalización de la Ciudad de México tendrán carácter público.
 
-B. Corresponde al Presidente de los Estados Unidos Mexicanos:
+El titular de la entidad de fiscalización de la Ciudad de México será electo por las dos terceras partes de los miembros presentes de la Legislatura por un periodo no menor de siete años y deberá contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades.
 
-I.- Iniciar leyes ante el Congreso de la Unión en lo relativo al Distrito Federal;
+III. El titular del Poder Ejecutivo se denominará Jefe de Gobierno de la Ciudad de México y tendrá a su cargo la administración pública de la entidad; será electo por votación universal, libre, secreta y directa, y no podrá durar en su encargo más de seis años. Quien haya ocupado la titularidad del Ejecutivo local designado o electo, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni con el carácter de interino, provisional, sustituto o encargado del despacho.
 
-II.- Proponer al Senado a quien deba sustituir, en caso de remoción, al Jefe de Gobierno del Distrito Federal;
+La Constitución Política de la Ciudad de México establecerá las facultades del Jefe de Gobierno y los requisitos que deberá reunir quien aspire a ocupar dicho encargo.
 
-III.- Enviar anualmente al Congreso de la Unión, la propuesta de los montos de endeudamiento necesarios para el financiamiento del presupuesto de egresos del Distrito Federal. Para tal efecto, el Jefe de Gobierno del Distrito Federal someterá a la consideración del Presidente de la República la propuesta correspondiente, en los términos que disponga la Ley;
+IV. El ejercicio del Poder Judicial se deposita en el Tribunal Superior de Justicia, el Consejo de la Judicatura y los juzgados y tribunales que establezca la Constitución Política de la Ciudad de México, la que garantizará la independencia de los magistrados y jueces en el ejercicio de sus funciones. Las leyes locales establecerán las condiciones para el ingreso, formación, permanencia y especialización de quienes integren el poder Judicial.
 
-IV.- Proveer en la esfera administrativa a la exacta observancia de las leyes que expida el Congreso de la Unión respecto del Distrito Federal; y
+Los magistrados integrantes del Tribunal Superior de Justicia de la Ciudad de México deberán reunir como mínimo los requisitos establecidos en las fracciones I a V del artículo 95 de esta Constitución. No podrán ser magistrados las personas que hayan ocupado en el Gobierno de la Ciudad de México el cargo de Secretario o equivalente o de Procurador General de Justicia, o de integrante del Poder Legislativo local, durante el año previo al día de la designación.
 
-V.- Las demás atribuciones que le señale esta Constitución, el Estatuto de Gobierno y las leyes.
+Los magistrados durarán en el ejercicio de su encargo el tiempo que establezca la Constitución Política de la Ciudad de México; podrán ser reelectos y, si lo fueren, sólo podrán ser privados de sus puestos en los términos que establecen esta Constitución, así como la Constitución y las leyes de la Ciudad de México. Los magistrados y los jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser disminuida durante su encargo.
 
-C. El Estatuto de Gobierno del Distrito Federal se sujetará a las siguientes bases:
+V. La Administración Pública de la Ciudad de México será centralizada y paraestatal. La hacienda pública de la Ciudad y su administración serán unitarias, incluyendo los tabuladores de remuneraciones y percepciones de los servidores públicos. El régimen patrimonial de la Administración Pública Centralizada también tendrá carácter unitario.
 
-BASE PRIMERA.- Respecto a la Asamblea Legislativa:
+La hacienda pública de la Ciudad de México se organizará conforme a criterios de unidad presupuestaria y financiera.
 
-I.- Los Diputados a la Asamblea Legislativa serán elegidos cada tres años por voto universal, libre, directo y secreto en los términos que disponga la Ley, la cual deberá tomar en cuenta, para la organización de las elecciones, la expedición de constancias y los medios de impugnación en la materia, lo dispuesto en los artículos 41, 60 y 99 de esta Constitución;
+Corresponde a la Legislatura la aprobación anual del presupuesto de egresos correspondiente. Al señalar las remuneraciones de servidores públicos deberán sujetarse a las bases previstas en el artículo 127 de esta Constitución.
 
-II.- Los requisitos para ser diputado a la Asamblea no podrán ser menores a los que se exigen para ser diputado federal. Serán aplicables a la Asamblea Legislativa y a sus miembros en lo que sean compatibles, las disposiciones contenidas en los artículos 51, 59, 61, 62, 64 y 77, fracción IV de esta Constitución;
+Los poderes Legislativo, Ejecutivo y Judicial, así como los organismos con autonomía constitucional, deberán incluir dentro de sus proyectos de presupuestos, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos. Estas propuestas deberán observar el procedimiento que para la aprobación del presupuesto de egresos establezcan la Constitución Política de la Ciudad de México y las leyes locales.
 
-> <small>(REFORMADA D.O.F. 10 DE FEBRERO DE 2014)</small>
+Las leyes federales no limitarán la facultad de la Ciudad de México para establecer las contribuciones sobre la propiedad inmobiliaria, su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles y las derivadas de la prestación de servicios públicos a su cargo, ni concederán exenciones en relación con las mismas. Las leyes de la Ciudad de México no establecerán exenciones o subsidios en favor de persona o institución alguna respecto de dichas contribuciones. Sólo estarán exentos los bienes del dominio público de la Federación, de las entidades federativas o de los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para propósitos distintos a los de su objeto público.
 
-III.- En la integración de la Asamblea Legislativa del Distrito Federal invariablemente se observaran los criterios que establece el artículo 116, fracción II, párrafo tercero, de esta Constitución;
+Corresponde al Jefe de Gobierno de la Ciudad de México proponer al Poder Legislativo local las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.
 
-IV.- Establecerá las fechas para la celebración de dos períodos de sesiones ordinarios al año y la integración y las atribuciones del órgano interno de gobierno que actuará durante los recesos. La convocatoria a sesiones extraordinarias será facultad de dicho órgano interno a petición de la mayoría de sus miembros o del Jefe de Gobierno del Distrito Federal;
+VI. La división territorial de la Ciudad de México para efectos de su organización político administrativa, así como el número, la denominación y los límites de sus demarcaciones territoriales, serán definidos con lo dispuesto en la Constitución Política local.
 
-V.- La Asamblea Legislativa, en los términos del Estatuto de Gobierno, tendrá las siguientes facultades:
+El gobierno de las demarcaciones territoriales de la Ciudad de México estará a cargo de las Alcaldías. Sujeto a las previsiones de ingresos de la hacienda pública de la Ciudad de México, la Legislatura aprobará el presupuesto de las Alcaldías, las cuales lo ejercerán de manera autónoma en los supuestos y términos que establezca la Constitución Política local.
 
-a).- Expedir su ley orgánica, la que será enviada al Jefe de Gobierno del Distrito Federal para el solo efecto de que ordene su publicación;
+La integración, organización administrativa y facultades de las Alcaldías se establecerán en la Constitución Política y leyes locales, las que se sujetarán a los principios siguientes:
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE AGOSTO DE 2009)</small>
+a) Las Alcaldías son órganos político administrativos que se integran por un Alcalde y por un Concejo electos por votación universal, libre, secreta y directa, para un periodo de tres años. Los integrantes de la Alcaldía se elegirán por planillas de entre siete y diez candidatos, según corresponda, ordenadas en forma progresiva, iniciando con el candidato a Alcalde y después los Concejales con sus respectivos suplentes, en el número que para cada demarcación territorial determine la Constitución Política de la Ciudad de México. En ningún caso el número de Concejales podrá ser menor de diez ni mayor de quince. Los integrantes de los Concejos serán electos según los principios de mayoría relativa y de representación proporcional, en la proporción de sesenta por ciento por el primer principio y cuarenta por ciento por el segundo. Ningún partido político o coalición electoral podrá contar con más del sesenta por ciento de los concejales.
 
-b) Examinar, discutir y aprobar anualmente el presupuesto de egresos y la ley de ingresos del Distrito Federal, aprobando primero las contribuciones necesarias para cubrir el presupuesto. Al señalar las remuneraciones de servidores públicos deberán sujetarse a las bases previstas en el artículo 127 de esta Constitución.
+b) La Constitución Política de la Ciudad de México deberá establecer la elección consecutiva para el mismo cargo de Alcalde y Concejales por un periodo adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
-> <small>(ADICIONADO, D.O.F. 24 DE AGOSTO DE 2009)</small>
+c) La administración pública de las demarcaciones territoriales corresponde a los Alcaldes.
 
-Los órganos del Distrito Federal, Legislativo, Ejecutivo y Judicial, así como los organismos con autonomía reconocida en su Estatuto de Gobierno, deberán incluir dentro de sus proyectos de presupuestos, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos. Estas propuestas deberán observar el procedimiento que para la aprobación del presupuesto de egresos del Distrito Federal, establezcan las disposiciones del Estatuto de Gobierno y legales aplicables.
+La Constitución Política de la Ciudad de México establecerá la competencia de las Alcaldías, dentro de sus respectivas jurisdicciones.
 
-Dentro de la ley de ingresos, no podrán incorporarse montos de endeudamiento superiores a los que haya autorizado previamente el Congreso de la Unión para el financiamiento del presupuesto de egresos del Distrito Federal.
+Sujeto a las previsiones de ingresos de la hacienda pública de la Ciudad de México, corresponderá a los Concejos de las Alcaldías aprobar el proyecto de presupuesto de egresos de sus demarcaciones, que enviarán al Ejecutivo local para su integración al proyecto de presupuesto de la Ciudad de México para ser remitido a la Legislatura. Asimismo, estarán facultados para supervisar y evaluar las acciones de gobierno, y controlar el ejercicio del gasto público en la respectiva demarcación territorial.
 
-La facultad de iniciativa respecto de la ley de ingresos y el presupuesto de egresos corresponde exclusivamente al Jefe de Gobierno del Distrito Federal. El plazo para su presentación concluye el 30 de noviembre, con excepción de los años en que ocurra la elección ordinaria del Jefe de Gobierno del Distrito Federal, en cuyo caso la fecha límite será el 20 de diciembre.
+Al aprobar el proyecto de presupuesto de egresos, los Concejos de las Alcaldías deberán garantizar el gasto de operación de la demarcación territorial y ajustar su gasto corriente a las normas y montos máximos, así como a los tabuladores desglosados de remuneraciones de los servidores públicos que establezca previamente la Legislatura, sujetándose a lo establecido por el artículo 127 de esta Constitución.
 
-La Asamblea Legislativa formulará anualmente su proyecto de presupuesto y lo enviará oportunamente al Jefe de Gobierno del Distrito Federal para que éste lo incluya en su iniciativa.
+d) La Constitución Política de la Ciudad de México establecerá las bases para que la ley correspondiente prevea los criterios o fórmulas para la asignación del presupuesto de las demarcaciones territoriales, el cual se compondrá, al menos, de los montos que conforme a la ley les correspondan por concepto de participaciones federales, impuestos locales que recaude la hacienda de la Ciudad de México e ingresos derivados de la prestación de servicios a su cargo.
 
-Serán aplicables a la hacienda pública del Distrito Federal, en lo que no sea incompatible con su naturaleza y su régimen orgánico de gobierno, las disposiciones contenidas en el segundo párrafo del inciso c) de la fracción IV del artículo 115 de esta Constitución;
+e) Las demarcaciones territoriales no podrán, en ningún caso, contraer directa o indirectamente obligaciones o empréstitos.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE MAYO DE 2008)</small>
+f) Los Alcaldes y Concejales deberán reunir los requisitos que establezca la Constitución Política de la Ciudad de México.
 
-c).- Revisar la cuenta pública del año anterior, por conducto de la entidad de fiscalización del Distrito Federal de la Asamblea Legislativa, conforme a los criterios establecidos en la fracción VI del artículo 74, en lo que sean aplicables.
+VII. La Ciudad de México contará con los organismos constitucionales autónomos que esta Constitución prevé para las entidades federativas.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2015)</small>
+VIII. La Constitución Política de la Ciudad de México establecerá las normas para la organización y funcionamiento, así como las facultades del Tribunal de Justicia Administrativa, dotado de plena autonomía para dictar sus fallos y establecer su organización, funcionamiento, procedimientos y, en su caso, recursos contra sus resoluciones.
 
-La cuenta pública del año anterior deberá ser enviada a la Asamblea Legislativa a más tardar el 30 de abril. Este plazo, así como los establecidos para la presentación de las iniciativas de la ley de ingresos y del proyecto del presupuesto de egresos, solamente podrán ser ampliados cuando se formule una solicitud del Ejecutivo del Distrito Federal suficientemente justificada a juicio de la Asamblea.
+El Tribunal tendrá a su cargo dirimir las controversias que se susciten entre la Administración Pública local y los particulares; imponer, en los términos que disponga la ley, las sanciones a los servidores públicos por responsabilidad administrativa grave y a los particulares que incurran en actos vinculados con faltas administrativas graves; así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública de la Ciudad de México o al patrimonio de sus entes públicos.
 
-> <small>(ADICIONADO, D.O.F. 27 DE MAYO DE 2015)</small>
+La ley establecerá las normas para garantizar la transparencia del proceso de nombramiento de sus magistrados.
 
-Los informes de auditoría de la entidad de fiscalización del Distrito Federal tendrán carácter público.
+La investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Tribunal Superior de Justicia, corresponderá al Consejo de la Judicatura local, sin perjuicio de las atribuciones de la entidad de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.
 
-> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 2008)</small>
+IX. La Constitución y las leyes de la Ciudad de México deberán ajustarse a las reglas que en materia electoral establece la fracción IV del artículo 116 de esta Constitución y las leyes generales correspondientes.
 
-El titular de la entidad de fiscalización del Distrito Federal será electo por las dos terceras partes de los miembros presentes de la Asamblea Legislativa por periodos no menores a siete años y deberá contar con experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades;
+X. La Constitución Política local garantizará que las funciones de procuración de justicia en la Ciudad de México se realicen con base en los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo, responsabilidad y respeto a los derechos humanos.
 
-d).- Nombrar a quien deba sustituir en caso de falta absoluta, al Jefe de Gobierno del Distrito Federal;
+XI. Las relaciones de trabajo entre la Ciudad de México y sus trabajadores se regirán por la ley que expida la Legislatura local, con base en lo dispuesto por el artículo 123 de esta Constitución y sus leyes reglamentarias.
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2015)</small>
+B. Los poderes federales tendrán respecto de la Ciudad de México, exclusivamente las facultades que expresamente les confiere esta Constitución.
 
-e).- Expedir las disposiciones legales para organizar la hacienda pública, el presupuesto, la contabilidad y el gasto público del Distrito Federal, y la entidad de fiscalización dotándola de autonomía técnica y de gestión en el ejercicio de sus atribuciones, y para decidir sobre su organización interna, funcionamiento y resoluciones. La función de fiscalización será ejercida conforme a los principios de legalidad, imparcialidad y confiabilidad;
+El Gobierno de la Ciudad de México, dado su carácter de Capital de los Estados Unidos Mexicanos y sede de los Poderes de la Unión, garantizará, en todo tiempo y en los términos de este artículo, las condiciones necesarias para el ejercicio de las facultades constitucionales de los poderes federales.
 
-> <small>(REFORMADO, D.O.F. 27 DE DICIEMBRE DE 2013)</small>
+El Congreso de la Unión expedirá las leyes que establezcan las bases para la coordinación entre los poderes federales y los poderes locales de la Ciudad de México en virtud de su carácter de Capital de los Estados Unidos Mexicanos, la cual contendrá las disposiciones necesarias que aseguren las condiciones para el ejercicio de las facultades que esta Constitución confiere a los Poderes de la Unión.
 
-f) Expedir las disposiciones que garanticen en el Distrito Federal elecciones libres y auténticas, mediante sufragio universal, libre, secreto y directo; sujetándose a las bases que establezca el Estatuto de Gobierno, las cuales cumplirán los principios y reglas establecidos en los incisos b) al o) de la fracción IV del artículo 116 de esta Constitución, para lo cual las referencias que los incisos j) al m) hacen a gobernador, diputados locales y ayuntamientos se asumirán, respectivamente, para Jefe de Gobierno, diputados a la Asamblea Legislativa y Jefes Delegacionales;
+La Cámara de Diputados, al dictaminar el proyecto de Presupuesto de Egresos de la Federación, analizará y determinará los recursos que se requieran para apoyar a la Ciudad de México en su carácter de Capital de los Estados Unidos Mexicanos y las bases para su ejercicio.
 
-g).- Legislar en materia de Administración Pública local, su régimen interno y de procedimientos administrativos;
+Corresponde al Jefe de Gobierno de la Ciudad de México la dirección de las instituciones de seguridad pública de la entidad, en los términos que establezca la Constitución Política de la Ciudad de México y las leyes locales, así como nombrar y remover libremente al servidor público que ejerza el mando directo de la fuerza pública.
 
-h).- Legislar en las materias civil y penal; normar el organismo protector de los derechos humanos, participación ciudadana, defensoría de oficio, notariado y registro público de la propiedad y de comercio;
+En la Ciudad de México será aplicable respecto del Presidente de los Estados Unidos Mexicanos, lo dispuesto en el segundo párrafo de la fracción VII del artículo 115 de esta Constitución. El Ejecutivo Federal podrá remover al servidor público que ejerza el mando directo de la fuerza pública a que se refiere el párrafo anterior, por causas graves que determine la ley que expida el Congreso de la Unión en los términos de esta Base.
 
-i).- Normar la protección civil; justicia cívica sobre faltas de policía y buen gobierno; los servicios de seguridad prestados por empresas privadas; la prevención y la readaptación social; la salud y asistencia social; y la previsión social;
+Los bienes inmuebles de la Federación ubicados en la Ciudad de México estarán exclusivamente bajo la jurisdicción de los poderes federales.
 
-j).- Legislar en materia de planeación del desarrollo; en desarrollo urbano, particularmente en uso del suelo; preservación del medio ambiente y protección ecológica; vivienda; construcciones y edificaciones; vías públicas, tránsito y estacionamientos; adquisiciones y obra pública; y sobre explotación, uso y aprovechamiento de los bienes del patrimonio del Distrito Federal;
+C. La Federación, la Ciudad de México, así como sus demarcaciones territoriales, y los Estados y Municipios conurbados en la Zona Metropolitana, establecerán mecanismos de coordinación administrativa en materia de planeación del desarrollo y ejecución de acciones regionales para la prestación de servicios públicos, en términos de la ley que emita el Congreso de la Unión.
 
-k).- Regular la prestación y la concesión de los servicios públicos; legislar sobre los servicios de transporte urbano, de limpia, turismo y servicios de alojamiento, mercados, rastros y abasto, y cementerios;
+Para la eficaz coordinación a que se refiere el párrafo anterior, dicha ley establecerá las bases para la organización y funcionamiento del Consejo de Desarrollo Metropolitano, al que corresponderá acordar las acciones en materia de asentamientos humanos; protección al ambiente; preservación y restauración del equilibrio ecológico; transporte; tránsito; agua potable y drenaje; recolección, tratamiento y disposición de desechos sólidos, y seguridad pública.
 
-l).- Expedir normas sobre fomento económico y protección al empleo; desarrollo agropecuario; establecimientos mercantiles; protección de animales; espectáculos públicos; fomento cultural cívico y deportivo; y función social educativa en los términos de la fracción VIII, del artículo 3o. de esta Constitución;
+La ley que emita el Congreso de la Unión establecerá la forma en la que se tomarán las determinaciones del Consejo de Desarrollo Metropolitano, mismas que podrán comprender:
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2015)</small>
+a) La delimitación de los ámbitos territoriales y las acciones de coordinación para la operación y funcionamiento de obras y servicios públicos de alcance metropolitano;
 
-m).- Expedir la Ley Orgánica de los tribunales encargados de la función judicial del fuero común en el Distrito Federal;
+b) Los compromisos que asuma cada una de las partes para la asignación de recursos a los proyectos metropolitanos; y
 
-> <small>(REFORMADO, D.O.F. 27 DE MAYO DE 2015)</small>
+c) La proyección conjunta y coordinada del desarrollo de las zonas conurbadas y de prestación de servicios públicos.
 
-n).- Expedir la Ley Orgánica del Tribunal de Justicia Administrativa;
-
-> <small>(ADICIONADO, D.O.F. 7 DE FEBRERO DE 2014)</small>
-
-ñ).- Legislar en materia del derecho de acceso a la información y protección de datos personales en posesión de los sujetos obligados del Distrito Federal, así como en materia de organización y administración de archivos, de conformidad con las leyes generales que expida el Congreso de la Unión, para establecer las bases, principios generales y procedimientos del ejercicio de este derecho. El Distrito Federal contará con un organismo autónomo, imparcial y colegiado responsable de garantizar el derecho de acceso a la información y de protección de datos personales en posesión de los sujetos obligados, contará con personalidad jurídica y patrimonio propio, así como plena autonomía técnica, de gestión, y capacidad para decidir sobre el ejercicio de su presupuesto y su organización interna;
-
-> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 2014)</small>
-
-o).- Presentar iniciativas de leyes o decretos en materias relativas al Distrito Federal, ante el Congreso de la Unión;
-
-> <small>(REFORMADO, D.O.F. 7 DE FEBRERO DE 2014)</small>
-
-p).- Para establecer en ley los términos y requisitos para que los ciudadanos del Distrito Federal ejerzan el derecho de iniciativa ante la propia Asamblea; y
-
-q).- Las demás que se le confieran expresamente en esta Constitución.
-
-BASE SEGUNDA.- Respecto al Jefe de Gobierno del Distrito Federal:
-
-I.- Ejercerá su encargo, que durará seis años, a partir del día 5 de diciembre del año de la elección, la cual se llevará a cabo conforme a lo que establezca la legislación electoral.
-
-Para ser Jefe de Gobierno del Distrito Federal deberán reunirse los requisitos que establezca el Estatuto de Gobierno, entre los que deberán estar: ser ciudadano mexicano por nacimiento en pleno goce de sus derechos con una residencia efectiva de tres años inmediatamente anteriores al día de la elección si es originario del Distrito Federal o de cinco años ininterrumpidos para los nacidos en otra entidad; tener cuando menos treinta años cumplidos al día de la elección, y no haber desempeñado anteriormente el cargo de Jefe de Gobierno del Distrito Federal con cualquier carácter. La residencia no se interrumpe por el desempeño de cargos públicos de la Federación en otro ámbito territorial.
-
-Para el caso de remoción del Jefe de Gobierno del Distrito Federal, el Senado nombrará, a propuesta del Presidente de la República, un sustituto que concluya el mandato. En caso de falta temporal, quedará encargado del despacho el servidor público que disponga el Estatuto de Gobierno. En caso de falta absoluta, por renuncia o cualquier otra causa, la Asamblea Legislativa designará a un sustituto que termine el encargo. La renuncia del Jefe de Gobierno del Distrito Federal sólo podrá aceptarse por causas graves. Las licencias al cargo se regularán en el propio Estatuto.
-
-II.- El Jefe de Gobierno del Distrito Federal tendrá las facultades y obligaciones siguientes:
-
-a).- Cumplir y ejecutar las leyes relativas al Distrito Federal que expida el Congreso de la Unión, en la esfera de competencia del órgano ejecutivo a su cargo o de sus dependencias;
-
-b).- Promulgar, publicar y ejecutar las leyes que expida la Asamblea Legislativa, proveyendo en la esfera administrativa a su exacta observancia, mediante la expedición de reglamentos, decretos y acuerdos. Asimismo, podrá hacer observaciones a las leyes que la Asamblea Legislativa le envíe para su promulgación, en un plazo no mayor de diez días hábiles. Si el proyecto observado fuese confirmado por mayoría calificada de dos tercios de los diputados presentes, deberá ser promulgado por el Jefe de Gobierno del Distrito Federal;
-
-c).- Presentar iniciativas de leyes o decretos ante la Asamblea Legislativa;
-
-d).- Nombrar y remover libremente a los servidores públicos dependientes del órgano ejecutivo local, cuya designación o destitución no estén previstas de manera distinta por esta Constitución o las leyes correspondientes;
-
-e).- Ejercer las funciones de dirección de los servicios de seguridad pública de conformidad con el Estatuto de Gobierno; y
-
-f).- Las demás que le confiera esta Constitución, el Estatuto de Gobierno y las leyes.
-
-BASE TERCERA.- Respecto a la organización de la Administración Pública local en el Distrito Federal:
-
-I.- Determinará los lineamientos generales para la distribución de atribuciones entre los órganos centrales, desconcentrados y descentralizados;
-
-II.- Establecerá los órganos político-administrativos en cada una de las demarcaciones territoriales en que se divida el Distrito Federal.
-
-Asimismo fijará los criterios para efectuar la división territorial del Distrito Federal, la competencia de los órganos político-administrativos correspondientes, la forma de integrarlos, su funcionamiento, así como las relaciones de dichos órganos con el Jefe de Gobierno del Distrito Federal.
-
-Los titulares de los órganos político-administrativos de las demarcaciones territoriales serán elegidos en forma universal, libre, secreta y directa, según lo determine la ley.
-
-BASE CUARTA.- Respecto al Tribunal Superior de Justicia y los demás órganos judiciales del fuero común:
-
-I.- Para ser magistrado del Tribunal Superior se deberán reunir los mismos requisitos que esta Constitución exige para los ministros de la Suprema Corte de Justicia; se requerirá, además, haberse distinguido en el ejercicio profesional o en el ramo judicial, preferentemente en el Distrito Federal. El Tribunal Superior de Justicia se integrará con el número de magistrados que señale la ley orgánica respectiva.
-
-Para cubrir las vacantes de magistrados del Tribunal Superior de Justicia, el Jefe de Gobierno del Distrito Federal someterá la propuesta respectiva a la decisión de la Asamblea Legislativa. Los Magistrados ejercerán el cargo durante seis años y podrán ser ratificados por la Asamblea; y si lo fuesen, sólo podrán ser privados de sus puestos en los términos del Título Cuarto de esta Constitución;
-
-> <small>(REFORMADA, D.O.F. 27 DE ABRIL DE 2010)</small>
-
-II.- La administración, vigilancia y disciplina del Tribunal Superior de Justicia, de los juzgados y demás órganos judiciales, estará a cargo del Consejo de la Judicatura del Distrito Federal. El Consejo de la Judicatura tendrá siete miembros, uno de los cuales será el presidente del Tribunal Superior de Justicia, quien también lo será del Consejo. Los miembros restantes serán: un Magistrado y dos jueces elegidos por mayoría de votos de las dos terceras partes del Pleno de Magistrados; uno designado por el Jefe del Gobierno del Distrito Federal y otros dos nombrados por la Asamblea Legislativa. Todos los Consejeros deberán reunir los requisitos exigidos para ser Magistrado y serán personas que se hayan distinguido por su capacidad profesional y administrativa, honestidad y honorabilidad en el ejercicio de sus actividades, en el caso de los elegidos por el Pleno de Magistrados deberán gozar, además, con reconocimiento por sus méritos profesionales en el ámbito judicial. Durarán cinco años en su cargo; serán sustituidos de manera escalonada y no podrán ser nombrados para un nuevo periodo.
-
-El Consejo designará a los jueces del Distrito Federal, en los términos que las disposiciones prevean en materia de carrera judicial. También determinará el número y especialización por materia de las salas del tribunal y juzgados que integran el Poder Judicial del Distrito Federal, de conformidad con lo que establezca el propio Consejo;
-
-III.- Se determinarán las atribuciones y las normas de funcionamiento del Consejo de la Judicatura, tomando en cuenta lo dispuesto por el artículo 100 de esta Constitución;
-
-IV.- Se fijarán los criterios conforme a los cuales la ley orgánica establecerá las normas para la formación y actualización de funcionarios, así como del desarrollo de la carrera judicial;
-
-V.- Serán aplicables a los miembros del Consejo de la Judicatura, así como a los magistrados y jueces, los impedimentos y sanciones previstos en el artículo 101 de esta Constitución;
-
-VI.- El Consejo de la Judicatura elaborará el presupuesto de los tribunales de justicia en la entidad y lo remitirá al Jefe de Gobierno del Distrito Federal para su inclusión en el proyecto de presupuesto de egresos que se presente a la aprobación de la Asamblea Legislativa.
-
-> <small>N. DE E. EN RELACIÓN A LA ENTRADA EN VIGOR DE LA PRESENTE BASE, VÉASE TRANSITORIOS SEGUNDO Y QUINTO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, D.O.F. 27 DE MAYO DE 2015)</small>
-
-BASE QUINTA.- Existirá un Tribunal de Justicia Administrativa, dotado de plena autonomía para dictar sus fallos y establecer su organización, funcionamiento, procedimientos y, en su caso, recursos contra sus resoluciones. El Tribunal tendrá a su cargo dirimir las controversias que se susciten entre la administración pública del Distrito Federal y los particulares; imponer, en los términos que disponga la ley, las sanciones a los servidores públicos por responsabilidad administrativa grave y a los particulares que incurran en actos vinculados con faltas administrativas graves; así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública del Distrito Federal o al patrimonio de los entes públicos del Distrito Federal.
-
-Para la investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Tribunal Superior de Justicia, se observará lo previsto en la fracción II de la BASE CUARTA del presente artículo, sin perjuicio de las atribuciones de las entidades de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos.
-
-D. El Ministerio Público en el Distrito Federal será presidido por un Procurador General de Justicia, que será nombrado en los términos que señale el Estatuto de Gobierno; este ordenamiento y la ley orgánica respectiva determinarán su organización, competencia y normas de funcionamiento.
-
-E. En el Distrito Federal será aplicable respecto del Presidente de los Estados Unidos Mexicanos, lo dispuesto en la fracción VII del artículo 115 de esta Constitución. La designación y remoción del servidor público que tenga a su cargo el mando directo de la fuerza pública se hará en los términos que señale el Estatuto de Gobierno.
-
-F. La Cámara de Senadores del Congreso de la Unión, o en sus recesos, la Comisión Permanente, podrá remover al Jefe de Gobierno del Distrito Federal por causas graves que afecten las relaciones con los Poderes de la Unión o el orden público en el Distrito Federal. La solicitud de remoción deberá ser presentada por la mitad de los miembros de la Cámara de Senadores o de la Comisión Permanente, en su caso.
-
-G. Para la eficaz coordinación de las distintas jurisdicciones locales y municipales entre sí, y de éstas con la federación y el Distrito Federal en la planeación y ejecución de acciones en las zonas conurbadas limítrofes con el Distrito Federal, de acuerdo con el artículo 115, fracción VI de esta Constitución, en materia de asentamientos humanos; protección al ambiente; preservación y restauración del equilibrio ecológico; transporte, agua potable y drenaje; recolección, tratamiento y disposición de desechos sólidos y seguridad pública, sus respectivos gobiernos podrán suscribir convenios para la creación de comisiones metropolitanas en las que concurran y participen con apego a sus leyes.
-
-Las comisiones serán constituidas por acuerdo conjunto de los participantes. En el instrumento de creación se determinará la forma de integración, estructura y funciones.
-
-A través de las comisiones se establecerán:
-
-a).- Las bases para la celebración de convenios, en el seno de las comisiones, conforme a las cuales se acuerden los ámbitos territoriales y de funciones respecto a la ejecución y operación de obras, prestación de servicios públicos o realización de acciones en las materias indicadas en el primer párrafo de este apartado;
-
-b).- Las bases para establecer, coordinadamente por las partes integrantes de las comisiones, las funciones específicas en las materias referidas, así como para la aportación común de recursos materiales, humanos y financieros necesarios para su operación; y
-
-c).- Las demás reglas para la regulación conjunta y coordinada del desarrollo de las zonas conurbadas, prestación de servicios y realización de acciones que acuerden los integrantes de las comisiones.
-
-H. Las prohibiciones y limitaciones que esta Constitución establece para los Estados se aplicarán para las autoridades del Distrito Federal.
+D. Las prohibiciones y limitaciones que esta Constitución establece para los Estados aplicarán a la Ciudad de México.
 
 ## TITULO SEXTO.
 
@@ -4640,47 +4696,83 @@ XXIX.- Es de utilidad pública la Ley del Seguro Social, y ella comprenderá seg
 
 XXX.- Asimismo serán consideradas de utilidad social, las sociedades cooperativas para la construcción de casas baratas e higiénicas, destinadas a ser adquiridas en propiedad, por los trabajadores en plazos determinados.
 
-> <small>(REFORMADA, D.O.F. 9 DE ENERO DE 1978)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ENERO DE 2016)</small>
 
-XXXI.- La aplicación de las leyes del trabajo corresponde a las autoridades de los Estados, en sus respectivas jurisdicciones, pero es de la competencia exclusiva de las autoridades federales en los asuntos relativos a:
+XXXI.- La aplicación de las leyes del trabajo corresponde a las autoridades de las entidades federativas, de sus respectivas jurisdicciones, pero es de la competencia exclusiva de las autoridades federales en los asuntos relativos a:
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 27 DE JUNIO DE 1990)</small>
 
 a) Ramas industriales y servicios:
 
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1978)</small>
+
 1.- Textil;
+
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1978)</small>
 
 2.- Eléctrica;
 
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1978)</small>
+
 3.- Cinematográfica;
+
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1978)</small>
 
 4.- Hulera;
 
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1978)</small>
+
 5.- Azucarera;
+
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1978)</small>
 
 6.- Minera;
 
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1978)</small>
+
 7.- Metalúrgica y siderúrgica, abarcando la explotación de los minerales básicos, el beneficio y la fundición de los mismos, así como la obtención de hierro metálico y acero a todas sus formas y ligas y los productos laminados de los mismos;
+
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1978)</small>
 
 8.- De hidrocarburos;
 
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1978)</small>
+
 9.- Petroquímica;
+
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1978)</small>
 
 10.- Cementera;
 
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1978)</small>
+
 11.- Calera;
+
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1978)</small>
 
 12.- Automotriz, incluyendo autopartes mecánicas o eléctricas;
 
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1978)</small>
+
 13.- Química, incluyendo la química farmacéutica y medicamentos;
+
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1978)</small>
 
 14.- De celulosa y papel;
 
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1978)</small>
+
 15.- De aceites y grasas vegetales;
+
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1978)</small>
 
 16.- Productora de alimentos, abarcando exclusivamente la fabricación de los que sean empacados, enlatados o envasados o que se destinen a ello;
 
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1978)</small>
+
 17.- Elaboradora de bebidas que sean envasadas o enlatadas o que se destinen a ello;
+
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1978)</small>
 
 18.- Ferrocarrilera;
 
@@ -4688,13 +4780,19 @@ a) Ramas industriales y servicios:
 
 19.- Maderera básica, que comprende la producción de aserradero y la fabricación de triplay o aglutinados de madera;
 
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1978)</small>
+
 20.- Vidriera, exclusivamente por lo que toca a la fabricación de vidrio plano, liso o labrado, o de envases de vidrio; y
+
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1978)</small>
 
 21.- Tabacalera, que comprende el beneficio o fabricación de productos de tabaco;
 
 > <small>(ADICIONADO, D.O.F. 27 DE JUNIO DE 1990)</small>
 
 22.- Servicios de banca y crédito.
+
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1978)</small>
 
 b) Empresas:
 
@@ -4704,11 +4802,15 @@ b) Empresas:
 
 3.- Aquéllas que ejecuten trabajos en zonas federales o que se encuentren bajo jurisdicción federal, en las aguas territoriales o en las comprendidas en la zona económica exclusiva de la Nación.
 
+> <small>(REFORMADO, D.O.F. 9 DE ENERO DE 1978)</small>
+
 También será competencia exclusiva de las autoridades federales, la aplicación de las disposiciones de trabajo en los asuntos relativos a conflictos que afecten a dos o más Entidades Federativas; contratos colectivos que hayan sido declarados obligatorios en más de una Entidad Federativa; obligaciones patronales en materia educativa, en los términos de Ley; y respecto a las obligaciones de los patrones en materia de capacitación y adiestramiento de sus trabajadores, así como de seguridad e higiene en los centros de trabajo, para lo cual, las autoridades federales contarán con el auxilio de las estatales, cuando se trate de ramas o actividades de jurisdicción local, en los términos de la ley reglamentaria correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
+> <small>[N. DE E. EN RELACIÓN CON LAS PARTICULARIDADES DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEXTO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
 
-B.- Entre los Poderes de la Unión, el Gobierno del Distrito Federal y sus trabajadores:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ENERO DE 2016)</small>
+
+B.- Entre los Poderes de la Unión y sus trabajadores:
 
 > <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 1960)</small>
 
@@ -4726,9 +4828,9 @@ III.- Los trabajadores gozarán de vacaciones que nunca serán menores de veinte
 
 IV.- Los salarios serán fijados en los presupuestos respectivos sin que su cuantía pueda ser disminuida durante la vigencia de éstos, sujetándose a lo dispuesto en el artículo 127 de esta Constitución y en la ley.
 
-> <small>(REFORMADO, D.O.F. 27 DE NOVIEMBRE DE 1961)</small>
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
 
-En ningún caso los salarios podrán ser inferiores al mínimo para los trabajadores en general en el Distrito Federal y en las Entidades de la República;
+En ningún caso los salarios podrán ser inferiores al mínimo para los trabajadores en general en las entidades federativas.
 
 > <small>(ADICIONADA, D.O.F. 5 DE DICIEMBRE DE 1960)</small>
 
@@ -4790,9 +4892,13 @@ Los conflictos entre el Poder Judicial de la Federación y sus servidores serán
 
 XIII.- Los militares, marinos, personal del servicio exterior, agentes del Ministerio Público, peritos y los miembros de las instituciones policiales, se regirán por sus propias leyes.
 
-Los agentes del Ministerio Público, los peritos y los miembros de las instituciones policiales de la Federación, el Distrito Federal, los Estados y los Municipios, podrán ser separados de sus cargos si no cumplen con los requisitos que las leyes vigentes en el momento del acto señalen para permanecer en dichas instituciones, o removidos por incurrir en responsabilidad en el desempeño de sus funciones. Si la autoridad jurisdiccional resolviere que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, el Estado sólo estará obligado a pagar la indemnización y demás prestaciones a que tenga derecho, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido.
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
 
-Las autoridades del orden federal, estatal, del Distrito Federal y municipal, a fin de propiciar el fortalecimiento del sistema de seguridad social del personal del Ministerio Público, de las corporaciones policiales y de los servicios periciales, de sus familias y dependientes, instrumentarán sistemas complementarios de seguridad social.
+Los agentes del Ministerio Público, los peritos y los miembros de las instituciones policiales de la Federación, las entidades federativas y los Municipios, podrán ser separados de sus cargos si no cumplen con los requisitos que las leyes vigentes en el momento del acto señalen para permanecer en dichas instituciones, o removidos por incurrir en responsabilidad en el desempeño de sus funciones. Si la autoridad jurisdiccional resolviere que la separación, remoción, baja, cese o cualquier otra forma de terminación del servicio fue injustificada, el Estado sólo estará obligado a pagar la indemnización y demás prestaciones a que tenga derecho, sin que en ningún caso proceda su reincorporación al servicio, cualquiera que sea el resultado del juicio o medio de defensa que se hubiere promovido.
+
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
+
+Las autoridades federales, de las entidades federativas y municipales, a fin de propiciar el fortalecimiento del sistema de seguridad social del personal del Ministerio Público, de las corporaciones policiales y de los servicios periciales, de sus familias y dependientes, instrumentarán sistemas complementarios de seguridad social.
 
 El Estado proporcionará a los miembros en el activo del Ejército, Fuerza Aérea y Armada, las prestaciones a que se refiere el inciso f) de la fracción XI de este apartado, en términos similares y a través del organismo encargado de la seguridad social de los componentes de dichas instituciones;
 
@@ -4808,37 +4914,55 @@ XIV.- La ley determinará los cargos que serán considerados de confianza. Las p
 
 PREVENCIONES GENERALES.
 
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
+
 ###### Art. 124.
 
-Las facultades que no están expresamente concedidas por esta Constitución a los funcionarios federales, se entienden reservadas a los Estados.
+Las facultades que no están expresamente concedidas por esta Constitución a los funcionarios federales, se entienden reservadas a los Estados o a la Ciudad de México, en los ámbitos de sus respectivas competencias.
+
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
 
 ###### Art. 125.
 
-Ningún individuo podrá desempeñar a la vez dos cargos federales de elección popular, ni uno de la Federación y otro de un Estado que sean también de elección; pero el nombrado puede elegir entre ambos el que quiera desempeñar.
+Ningún individuo podrá desempeñar a la vez dos cargos federales de elección popular ni uno de la Federación y otro de una entidad federativa que sean también de elección; pero el nombrado puede elegir entre ambos el que quiera desempeñar.
 
 ###### Art. 126.
 
 No podrá hacerse pago alguno que no esté comprendido en el Presupuesto o determinado por la ley posterior.
 
-> <small>(REFORMADO, D.O.F. 24 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ENERO DE 2016)</small>
 
 ###### Art. 127.
 
-Los servidores públicos de la Federación, de los Estados, del Distrito Federal y de los Municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones y organismos autónomos, y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades.
+Los servidores públicos de la Federación, de las entidades federativas, de los Municipios y de las demarcaciones territoriales de la Ciudad de México, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones y organismos autónomos, y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 24 DE AGOSTO DE 2009)</small>
 
 Dicha remuneración será determinada anual y equitativamente en los presupuestos de egresos correspondientes, bajo las siguientes bases:
 
+> <small>(REFORMADA, D.O.F. 24 DE AGOSTO DE 2009)</small>
+
 I. Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales.
+
+> <small>(REFORMADA, D.O.F. 24 DE AGOSTO DE 2009)</small>
 
 II. Ningún servidor público podrá recibir remuneración, en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Presidente de la República en el presupuesto correspondiente.
 
+> <small>(REFORMADA, D.O.F. 24 DE AGOSTO DE 2009)</small>
+
 III. Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Presidente de la República en el presupuesto correspondiente.
+
+> <small>(REFORMADA, D.O.F. 24 DE AGOSTO DE 2009)</small>
 
 IV. No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstas se encuentren asignadas por la ley, decreto legislativo, contrato colectivo o condiciones generales de trabajo. Estos conceptos no formarán parte de la remuneración. Quedan excluidos los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado.
 
+> <small>(REFORMADA, D.O.F. 24 DE AGOSTO DE 2009)</small>
+
 V. Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie.
 
-VI. El Congreso de la Unión, las Legislaturas de los Estados y la Asamblea Legislativa del Distrito Federal, en el ámbito de sus competencias, expedirán las leyes para hacer efectivo el contenido del presente artículo y las disposiciones constitucionales relativas, y para sancionar penal y administrativamente las conductas que impliquen el incumplimiento o la elusión por simulación de lo establecido en este artículo.
+> <small>(REFORMADA, D.O.F. 29 DE ENERO DE 2016)</small>
+
+VI. El Congreso de la Unión y las Legislaturas de las entidades federativas, en el ámbito de sus competencias, expedirán las leyes para hacer efectivo el contenido del presente artículo y las disposiciones constitucionales relativas, y para sancionar penal y administrativamente las conductas que impliquen el incumplimiento o la elusión por simulación de lo establecido en este artículo.
 
 ###### Art. 128.
 
@@ -4874,13 +4998,15 @@ Los ministros de cultos, sus ascendientes, descendientes, hermanos y cónyuges, 
 
 Los actos del estado civil de las personas son de la exclusiva competencia de las autoridades administrativas en los términos que establezcan las leyes, y tendrán la fuerza y validez que las mismas les atribuyan.
 
-Las autoridades federales, de los estados y de los municipios tendrán en esta materia las facultades y responsabilidades que determine la ley.
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 8 DE OCTUBRE DE 1974)</small>
+Las autoridades federales, de las entidades federativas, de los Municipios y de las demarcaciones territoriales de la Ciudad de México, tendrán en esta materia las facultades y responsabilidades que determine la ley.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ENERO DE 2016)</small>
 
 ###### Art. 131.
 
-Es facultad privativa de la Federación gravar las mercancías que se importen o exporten, o que pasen de tránsito por el territorio nacional, así como reglamentar en todo tiempo y aún prohibir, por motivos de seguridad o de policía, la circulación en el interior de la República de toda clase de efectos, cualquiera que sea su procedencia; pero sin que la misma Federación pueda establecer, ni dictar, en el Distrito Federal, los impuestos y leyes que expresan las fracciones VI y VII del artículo 117.
+Es facultad privativa de la Federación gravar las mercancías que se importen o exporten, o que pasen de tránsito por el territorio nacional, así como reglamentar en todo tiempo y aún prohibir, por motivos de seguridad o de policía, la circulación en el interior de la República de toda clase de efectos, cualquiera que sea su procedencia.
 
 > <small>(ADICIONADO, D.O.F. 28 DE MARZO DE 1951)</small>
 
@@ -4890,21 +5016,21 @@ El Ejecutivo podrá ser facultado por el Congreso de la Unión para aumentar, di
 
 Los fuertes, los cuarteles, almacenes de depósito y demás bienes inmuebles destinados por el Gobierno de la Unión al servicio público o al uso común, estarán sujetos a la jurisdicción de los Poderes Federales en los términos que establezca la ley que expedirá el Congreso de la Unión; mas para que lo estén igualmente los que en lo sucesivo adquiera dentro del territorio de algún Estado, será necesario el consentimiento de la legislatura respectiva.
 
-> <small>(REFORMADO, D.O.F. 18 DE ENERO DE 1934)</small>
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
 
 ###### Art. 133.
 
-Esta Constitución, las leyes del Congreso de la Unión que emanen de ella y todos los Tratados que estén de acuerdo con la misma, celebrados y que se celebren por el Presidente de la República, con aprobación del Senado, serán la Ley Suprema de toda la Unión. Los jueces de cada Estado se arreglarán a dicha Constitución, leyes y tratados, a pesar de las disposiciones en contrario que pueda haber en las Constituciones o leyes de los Estados.
+Esta Constitución, las leyes del Congreso de la Unión que emanen de ella y todos los tratados que estén de acuerdo con la misma, celebrados y que se celebren por el Presidente de la República, con aprobación del Senado, serán la Ley Suprema de toda la Unión. Los jueces de cada entidad federativa se arreglarán a dicha Constitución, leyes y tratados, a pesar de las disposiciones en contrario que pueda haber en las Constituciones o leyes de las entidades federativas.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 7 DE MAYO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ENERO DE 2016)</small>
 
 ###### Art. 134.
 
-Los recursos económicos de que dispongan la Federación, los estados, los municipios, el Distrito Federal y los órganos político-administrativos de sus demarcaciones territoriales, se administrarán con eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados.
+Los recursos económicos de que dispongan la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, se administrarán con eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados.
 
-> <small>(ADICIONADO, D.O.F. 7 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
 
-Los resultados del ejercicio de dichos recursos serán evaluados por las instancias técnicas que establezcan, respectivamente, la Federación, los estados y el Distrito Federal, con el objeto de propiciar que los recursos económicos se asignen en los respectivos presupuestos en los términos del párrafo anterior. Lo anterior, sin menoscabo de lo dispuesto en los artículos 74, fracción VI y 79.
+Los resultados del ejercicio de dichos recursos serán evaluados por las instancias técnicas que establezcan, respectivamente, la Federación y las entidades federativas, con el objeto de propiciar que los recursos económicos se asignen en los respectivos presupuestos en los términos del párrafo precedente. Lo anterior, sin menoscabo de lo dispuesto en los artículos 26, Apartado C, 74, fracción VI y 79 de esta Constitución.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
@@ -4914,17 +5040,17 @@ Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, presta
 
 Cuando las licitaciones a que hace referencia el párrafo anterior no sean idóneas para asegurar dichas condiciones, las leyes establecerán las bases, procedimientos, reglas, requisitos y demás elementos para acreditar la economía, eficacia, eficiencia, imparcialidad y honradez que aseguren las mejores condiciones para el Estado.
 
-> <small>(REFORMADO, D.O.F. 7 DE MAYO DE 2008)</small>
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
 
-El manejo de recursos económicos federales por parte de los estados, los municipios, el Distrito Federal y los órganos político-administrativos de sus demarcaciones territoriales, se sujetará a las bases de este artículo y a las leyes reglamentarias. La evaluación sobre el ejercicio de dichos recursos se realizará por las instancias técnicas de las entidades federativas a que se refiere el párrafo segundo de este artículo.
+El manejo de recursos económicos federales por parte de las entidades federativas, los municipios y las demarcaciones territoriales de la Ciudad de México, se sujetará a las bases de este artículo y a las leyes reglamentarias. La evaluación sobre el ejercicio de dichos recursos se realizará por las instancias técnicas de las entidades federativas a que se refiere el párrafo segundo de este artículo.
 
 > <small>(REFORMADO, D.O.F. 28 DE DICIEMBRE DE 1982)</small>
 
 Los servidores públicos serán responsables del cumplimiento de estas bases en los términos del Título Cuarto de esta Constitución.
 
-> <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, D.O.F. 29 DE ENERO DE 2016)</small>
 
-Los servidores públicos de la Federación, los Estados y los municipios, así como del Distrito Federal y sus delegaciones, tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
+Los servidores públicos de la Federación, las entidades federativas, los Municipios y las demarcaciones territoriales de la Ciudad de México, tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos.
 
 > <small>(ADICIONADO, D.O.F. 13 DE NOVIEMBRE DE 2007)</small>
 
@@ -4938,9 +5064,11 @@ Las leyes, en sus respectivos ámbitos de aplicación, garantizarán el estricto
 
 DE LAS REFORMAS DE LA CONSTITUCION.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 29 DE ENERO DE 2016)</small>
+
 ###### Art. 135.
 
-La presente Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere que el Congreso de la Unión, por el voto de las dos terceras partes de los individuos presentes, acuerden las reformas o adiciones, y que éstas sean aprobadas por la mayoría de las legislaturas de los Estados.
+La presente Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere que el Congreso de la Unión, por el voto de las dos terceras partes de los individuos presentes, acuerden las reformas o adiciones, y que éstas sean aprobadas por la mayoría de las legislaturas de los Estados y de la Ciudad de México.
 
 > <small>(ADICIONADO [N. DE E. REFORMADO Y REUBICADO ANTES PARTE FINAL DEL PRIMER PÁRRAFO], D.O.F. 21 DE OCTUBRE DE 1966)</small>
 
@@ -7697,3 +7825,221 @@ Séptimo.- Los contratos y convenios de cualquier naturaleza, vigentes a la fech
 Octavo.- En los créditos, garantías, coberturas y otros esquemas financieros otorgados o respaldados por el Fondo de Operación y Financiamiento Bancario a la Vivienda o por la Sociedad Hipotecaria Federal, S.N.C., Institución de Banca de Desarrollo, en los que para procurar la accesibilidad del crédito a la vivienda se haya previsto como referencia del incremento del saldo del crédito o sus mensualidades el salario mínimo, en beneficio de los acreditados, las citadas entidades deberán llevar a cabo los actos y gestiones necesarias para que el monto máximo de ese incremento en el periodo establecido, no sea superior a la inflación correspondiente. Asimismo, el órgano de gobierno de cada entidad podrá determinar el mecanismo más adecuado para implementar lo dispuesto en el presente artículo transitorio.
 
 Noveno.- Se abrogan todas las disposiciones que se opongan a lo establecido en el presente Decreto, excepto las disposiciones legales relativas a la unidad de cuenta denominada Unidad de Inversión o UDI.
+
+D.O.F. 29 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DECLARAN REFORMADAS Y DEROGADAS DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE LA REFORMA POLÍTICA DE LA CIUDAD DE MÉXICO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación, salvo disposición en contrario conforme a lo establecido en los artículos transitorios siguientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Las normas de esta Constitución y los ordenamientos legales aplicables al Distrito Federal que se encuentren vigentes a la entrada en vigor del presente Decreto, continuarán aplicándose hasta que inicie la vigencia de aquellos que lo sustituyan.
+
+###### ARTÍCULO TERCERO.
+
+Las normas relativas a la elección de los poderes locales de la Ciudad de México se aplicarán a partir del proceso electoral para la elección constitucional del año 2018. Se faculta a la Asamblea Legislativa del Distrito Federal para que, una vez publicada la Constitución Política de la Ciudad de México, expida las leyes inherentes a la organización, funcionamiento y competencias de los Poderes Legislativo, Ejecutivo y Judicial de la Ciudad, necesarias para que ejerzan las facultades que establezcan esta Constitución y la de la Ciudad de México, a partir del inicio de sus funciones. Dichas leyes entrarán en vigor una vez que lo haga la Constitución Política de la Ciudad de México.
+
+Lo dispuesto en el párrafo tercero de la Base II del Apartado A del artículo 122 constitucional contenido en el presente Decreto, no será aplicable a los diputados integrantes de la VII Asamblea Legislativa del Distrito Federal.
+
+###### ARTÍCULO CUARTO.
+
+Las normas relativas a la elección de las Alcaldías se aplicarán a partir del proceso electoral para la elección constitucional del año 2018.
+
+La elección de las Alcaldías en el año 2018 se realizará con base en la división territorial de las dieciséis demarcaciones territoriales del Distrito Federal vigente hasta la entrada en vigor del presente Decreto. Los Concejos de las dieciséis Alcaldías electos en 2018 se integrarán por el Alcalde y diez Concejales electos según los principios de mayoría relativa y de representación proporcional, en una proporción de sesenta por ciento por el primer principio y cuarenta por ciento por el segundo.
+
+Lo dispuesto en el inciso b) del párrafo tercero de la Base VI del Apartado A del artículo 122 constitucional contenido en el presente Decreto, no será aplicable a los titulares de los órganos político-administrativos de las demarcaciones territoriales del Distrito Federal electos en 2015, quienes no podrán ser postulados en los comicios de 2018 para integrar las Alcaldías.
+
+Se faculta a la Asamblea Legislativa del Distrito Federal para que, una vez publicada la Constitución Política de la Ciudad de México, expida las leyes inherentes a la organización, funcionamiento y competencias necesarias para que las Alcaldías, a partir del inicio de sus funciones en 2018, ejerzan las facultades a que se refiere esta Constitución y la de la Ciudad de México. Dichas leyes entrarán en vigor una vez que lo haga la Constitución Política de la Ciudad de México.
+
+###### ARTÍCULO QUINTO.
+
+Los órganos de gobierno electos en los años 2012 y 2015 permanecerán en funciones hasta la terminación del periodo para el cual fueron electos. En su desempeño se ajustarán al orden constitucional, legal y del Estatuto de Gobierno del Distrito Federal destinado a normar las funciones a su cargo, que hubiere emanado o emane de los órganos competentes. Las facultades y atribuciones derivadas del presente Decreto de reformas constitucionales no serán aplicables a dichos órganos de gobierno, por lo que se sujetarán a las disposiciones constitucionales y legales vigentes con antelación a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO SEXTO.
+
+Las reformas al primer párrafo del Apartado B del artículo 123 y la Base XI del Apartado A del artículo 122 relativas al régimen jurídico de las relaciones de trabajo entre la Ciudad de México y sus trabajadores, entrarán en vigor a partir del día 1 de enero de 2020.
+
+En tanto la Legislatura de la Ciudad de México ejerce la atribución a que se refiere la Base XI del Apartado A del artículo 122 constitucional, las relaciones laborales entre la Ciudad de México y sus trabajadores que, hasta antes de la entrada en vigor del presente Decreto, se hubieren regido por la Ley Federal de los Trabajadores al Servicio del Estado, reglamentaria del Apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, continuarán normándose por dicha Ley, y los conflictos del trabajo que se susciten se conocerán y se resolverán por el Tribunal Federal de Conciliación y Arbitraje, hasta que se establezca la instancia competente en el ámbito local de la Ciudad de México.
+
+Los trabajadores de los poderes Legislativo, Ejecutivo y Judicial de la Ciudad de México, sus demarcaciones territoriales y sus órganos autónomos, así como de las entidades paraestatales de la Administración Pública local conservarán los derechos adquiridos que deriven de la aplicación del orden jurídico que los rija, al momento de entrar en vigor el presente Decreto.
+
+Los órganos públicos de la Ciudad de México, que hasta antes de la entrada en vigor de este Decreto se encuentren incorporados al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, continuarán sujetos, al igual que sus trabajadores, al mismo régimen de seguridad social.
+
+Los órganos públicos de la Ciudad de México que no se encuentren incorporados al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, podrán celebrar convenio, en los términos de la ley de dicho Instituto, para su incorporación y la afiliación de sus trabajadores. Lo anterior, siempre y cuando la Ciudad de México se encuentre al corriente en sus obligaciones con el Instituto y éste cuente con capacidad necesaria, en términos de su propia ley.
+
+###### ARTÍCULO SÉPTIMO.
+
+La Asamblea Constituyente de la Ciudad de México se compondrá de cien diputados constituyentes, que serán elegidos conforme a lo siguiente:
+
+A. Sesenta se elegirán según el principio de representación proporcional, mediante una lista votada en una sola circunscripción plurinominal, en los siguientes términos:
+
+I. Podrán solicitar el registro de candidatos los partidos políticos nacionales mediante listas con fórmulas integradas por propietarios y suplentes, así como los ciudadanos mediante candidaturas independientes, integradas por fórmula de propietarios y suplentes.
+
+II. Tratándose de las candidaturas independientes, se observará lo siguiente:
+
+a) El registro de cada fórmula de candidatos independientes requerirá la manifestación de voluntad de ser candidato y contar cuando menos con la firma de una cantidad de ciudadanos equivalente al uno por ciento de la lista nominal de electores del Distrito Federal, dentro de los plazos que para tal efecto determine el Instituto Nacional Electoral.
+
+b) Con las fórmulas de candidatos que cumplan con los requisitos del inciso anterior, el Instituto Nacional Electoral integrará una lista de hasta sesenta fórmulas con los nombres de los candidatos, ordenados en forma descendente en razón de la fecha de obtención del registro.
+
+c) En la boleta electoral deberá aparecer un recuadro blanco a efecto de que el elector asiente su voto, en su caso, por la fórmula de candidatos independientes de su preferencia, identificándolos por nombre o el número que les corresponda. Bastará con que asiente el nombre o apellido del candidato propietario y, en todo caso, que resulte indubitable el sentido de su voto.
+
+d) A partir de los cómputos de las casillas, el Instituto Nacional Electoral hará el cómputo de cada una de las fórmulas de candidatos independientes, y establecerá aquellas que hubieren obtenido una votación igual o mayor al cociente natural de la fórmula de asignación de las diputaciones constituyentes.
+
+III. Las diputaciones constituyentes se asignarán:
+
+a) A las fórmulas de candidatos independientes que hubieren alcanzado una votación igual o mayor al cociente natural, que será el que resulte de dividir la votación válida emitida entre sesenta.
+
+b) A los partidos políticos las diputaciones restantes, conforme las reglas previstas en el artículo 54 de la Constitución y en la Ley General de Instituciones y Procedimientos Electorales que resulten aplicables y en lo que no se oponga al presente Decreto.
+
+Para esta asignación se establecerá un nuevo cociente que será resultado de dividir la votación emitida, una vez deducidos los votos obtenidos por los candidatos independientes, entre el número de diputaciones restantes por asignar.
+
+En la asignación de los diputados constituyentes se seguirá el orden que tuviesen los candidatos en las listas presentadas por los partidos políticos.
+
+c) Si después de aplicarse la distribución en los términos previstos en los incisos anteriores, quedaren diputaciones constituyentes por distribuir, se utilizará el resto mayor de votos que tuvieren partidos políticos y candidatos independientes.
+
+IV. Serán aplicables, en todo lo que no contravenga al presente Decreto, las disposiciones conducentes de la Ley General de Instituciones y Procedimientos Electorales.
+
+V. Los partidos políticos no podrán participar en el proceso electoral a que se refiere este Apartado, a través de la figura de coaliciones.
+
+VI. Para ser electo diputado constituyente en los términos del presente Apartado, se observarán los siguientes requisitos:
+
+a) Ser ciudadano mexicano, por nacimiento, en el ejercicio de sus derechos;
+
+b) Tener veintiún años cumplidos el día de la elección;
+
+c) Ser originario del Distrito Federal o vecino de él con residencia efectiva de más de seis meses anteriores a la fecha de ella;
+
+d) Estar inscrito en el Registro Federal de Electores y contar con credencial para votar;
+
+e) No estar en servicio activo en el Ejército Federal ni tener mando de policía en el Distrito Federal, cuando menos sesenta días antes de la elección;
+
+f) No ser titular de alguno de los organismos a los que esta Constitución otorga autonomía, salvo que se separen de sus cargos sesenta días antes del día de la elección;
+
+g) No ser Secretario o Subsecretario de Estado, ni titular de alguno de los organismos descentralizados o desconcentrados de la administración pública federal, salvo que se separen de sus cargos sesenta días antes del día de la elección;
+
+h) No ser Ministro de la Suprema Corte de Justicia de la Nación o miembro del Consejo de la Judicatura Federal, salvo que se separen de sus cargos sesenta días antes del día de la elección;
+
+i) No ser Magistrado, ni Secretario del Tribunal Electoral del Poder Judicial de la Federación o del Tribunal Electoral del Distrito Federal, ni Consejero Presidente o consejero electoral de los Consejos General, locales, distritales o de demarcación territorial del Instituto Nacional Electoral o del Instituto Electoral del Distrito Federal, ni Secretario Ejecutivo, Director Ejecutivo o personal profesional directivo de dichos Institutos, ni pertenecer al Servicio Profesional Electoral Nacional, salvo que se separen definitivamente de sus cargos tres años antes del día de la elección;
+
+j) No ser legislador federal, ni diputado a la Asamblea Legislativa del Distrito Federal, ni Jefe Delegacional, salvo que se separen de sus cargos sesenta días antes del día de la elección; resultando aplicable en cualquier caso lo previsto en el artículo 125 de la Constitución;
+
+k) No ser Magistrado del Tribunal Superior de Justicia o del Tribunal de lo Contencioso Administrativo del Distrito Federal, ni miembro del Consejo de la Judicatura del Distrito Federal, ni Magistrado o Juez Federal en el Distrito Federal, salvo que se separen de sus cargos sesenta días antes del día de la elección;
+
+l) No ser titular de alguno de los organismos con autonomía constitucional del Distrito Federal, salvo que se separen de sus cargos sesenta días antes del día de la elección;
+
+m) No ser Secretario en el Gobierno del Distrito Federal, ni titular de alguno de los organismos descentralizados o desconcentrados de la administración pública local, salvo que se separen de sus cargos sesenta días antes del día de la elección;
+
+n) No ser Ministro de algún culto religioso; y
+
+o) En el caso de candidatos independientes, no estar registrados en los padrones de afiliados de los partidos políticos, con fecha de corte a marzo de 2016, ni haber participado como precandidatos o candidatos a cargos de elección popular postulados por algún partido político o coalición, en las elecciones federales o locales inmediatas anteriores a la elección de la Asamblea Constituyente.
+
+VII. El Consejo General del Instituto Nacional Electoral emitirá la Convocatoria para la elección de los diputados constituyentes a más tardar dentro de los siguientes 15 días a partir de la publicación de este Decreto. El Acuerdo de aprobación de la Convocatoria a la elección, establecerá las fechas y los plazos para el desarrollo de las etapas del proceso electoral, en atención a lo previsto en el párrafo segundo del presente Transitorio.
+
+VIII. El proceso electoral se ajustará a las reglas generales que apruebe el Consejo General del Instituto Nacional Electoral. Dichas reglas deberán regular el proceso en atención a la finalidad del mismo y, en consecuencia, el Instituto podrá realizar ajustes a los plazos establecidos en la legislación electoral a fin de garantizar la ejecución de las actividades y procedimientos electorales.
+
+Los actos dentro del proceso electoral deberán circunscribirse a propuestas y contenidos relacionados con el proceso constituyente. Para tal efecto, las autoridades electorales correspondientes deberán aplicar escrutinio estricto sobre su legalidad.
+
+El Tribunal Electoral del Poder Judicial de la Federación será competente para resolver las impugnaciones derivadas del proceso electoral, en los términos que determinan las leyes aplicables.
+
+B. Catorce senadores designados por el voto de las dos terceras partes de los miembros presentes de la Cámara, a propuesta de su Junta de Coordinación Política.
+
+C. Catorce diputados federales designados por el voto de las dos terceras partes de los miembros presentes de la Cámara, a propuesta de su Junta de Coordinación Política.
+
+Los legisladores federales designados como diputados constituyentes en términos del presente Apartado y el anterior, continuarán ejerciendo sus cargos federales de elección popular, sin que resulte aplicable el artículo 62 constitucional.
+
+D. Seis designados por el Presidente de la República.
+
+E. Seis designados por el Jefe de Gobierno del Distrito Federal.
+
+F. Todos los diputados constituyentes ejercerán su encargo de forma honorífica, por lo que no percibirán remuneración alguna.
+
+La Asamblea Constituyente ejercerá en forma exclusiva todas las funciones de Poder Constituyente para la Ciudad de México y la elección para su conformación se realizará el primer domingo de junio de 2016 para instalarse el 15 de septiembre de ese año, debiendo aprobar la Constitución Política de la Ciudad de México, a más tardar el 31 de enero de 2017, por las dos terceras partes de sus integrantes presentes.
+
+Para la conducción de la sesión constitutiva de la Asamblea Constituyente, actuarán como Junta Instaladora los cinco diputados constituyentes de mayor edad. La Junta Instaladora estará constituida por un Presidente, dos Vicepresidentes y dos Secretarios. El diputado constituyente que cuente con mayor antigüedad será el Presidente de la Junta Instaladora. Serán Vicepresidentes los diputados constituyentes que cuenten con las dos siguientes mayores antigüedades y, en calidad de Secretarios les asistirán los siguientes dos integrantes que cuenten con las sucesivas mayores antigüedades.
+
+La sesión de instalación de la Asamblea se regirá, en lo que resulte conducente, por lo previsto en el artículo 15 de la Ley Orgánica del Congreso General de los Estados Unidos Mexicanos.
+
+Corresponderá a la Junta Instaladora conducir los trabajos para la aprobación del Reglamento para el Gobierno Interior de la Asamblea Constituyente de la Ciudad de México, mismo que deberá ser aprobado dentro de los diez días siguientes a la instalación de la Asamblea. Para su discusión y aprobación será aplicable en lo que resulte conducente el Reglamento Interior de la Cámara de Diputados.
+
+Es facultad exclusiva del Jefe de Gobierno del Distrito Federal elaborar y remitir el proyecto de Constitución Política de la Ciudad de México, que será discutido, en su caso modificado, adicionado, y votado por la Asamblea Constituyente, sin limitación alguna de materia. El Jefe de Gobierno deberá remitir el proyecto de la Constitución Política de la Ciudad de México a la Asamblea Constituyente a más tardar el día en que ésta celebre su sesión de instalación.
+
+Con la finalidad de cumplir con sus funciones, la Asamblea Constituyente de la Ciudad de México, deberá crear, al menos, tres comisiones para la discusión y aprobación de los dictámenes relativos al proyecto de Constitución.
+
+###### ARTÍCULO OCTAVO.
+
+Aprobada y expedida la Constitución Política de la Ciudad de México, no podrá ser vetada por ninguna autoridad y será remitida de inmediato para que, sin más trámite, se publique en el Diario Oficial de la Federación y en la Gaceta Oficial del Distrito Federal.
+
+La Constitución Política de la Ciudad de México, entrará en vigor el día que ésta señale para la instalación de la Legislatura, excepto en lo que hace a la materia electoral, misma que será aplicable desde el mes de enero de 2017. En el caso de que sea necesario que se verifiquen elecciones extraordinarias, las mismas se llevarán a cabo de conformidad a la legislación electoral vigente al día de la publicación del presente Decreto.
+
+Se faculta a la Asamblea Legislativa del Distrito Federal, para legislar sobre los procedimientos e instituciones electorales que resultarán aplicables al proceso electoral 2017-2018.
+
+Al momento de la publicación de la Constitución Política de la Ciudad de México, cesarán las funciones de la Asamblea Constituyente. A partir de ello, las reformas y adiciones a la Constitución Política de la Ciudad de México se realizarán de conformidad con lo que la misma establezca.
+
+###### ARTÍCULO NOVENO.
+
+La integración, organización y funcionamiento de la Asamblea Constituyente de la Ciudad de México se regirá exclusivamente por lo dispuesto en el presente Decreto y en el Reglamento para su Gobierno Interior, conforme a las bases siguientes:
+
+I. La Asamblea Constituyente de la Ciudad de México tendrá las facultades siguientes:
+
+a) Elegir, por el voto de sus dos terceras partes, a los integrantes de su Mesa Directiva, en los términos que disponga el Reglamento para su Gobierno Interior, dentro de los cinco días siguientes a la aprobación de éste.
+
+En el caso de que transcurrido el plazo a que se refiere el párrafo anterior, no se hubiere electo a la Mesa Directiva, la Junta Instaladora ejercerá las atribuciones y facultades que el Reglamento para el Gobierno Interior de la Asamblea Constituyente le otorga a aquélla y a sus integrantes, según corresponda. La Junta Instaladora no podrá ejercer dichas atribuciones más allá del 5 de octubre de 2016.
+
+b) Sesionar en Pleno y en comisiones, de conformidad con las convocatorias que al efecto expidan su Mesa Directiva y los órganos de dirección de sus comisiones.
+
+c) Dictar todos los acuerdos necesarios para el cumplimiento de su función.
+
+d) Recibir el proyecto de Constitución Política de la Ciudad de México que le sea remitido por el Jefe de Gobierno del Distrito Federal.
+
+e) Discutir, modificar, adicionar y votar el proyecto de Constitución Política de la Ciudad de México.
+
+f) Aprobar, expedir y ordenar la publicación de la Constitución Política de la Ciudad de México.
+
+II. La Asamblea Constituyente gozará de plena autonomía para el ejercicio de sus facultades como Poder Constituyente; ninguna autoridad podrá intervenir ni interferir en su instalación y funcionamiento.
+
+III. La Asamblea Constituyente de la Ciudad de México sesionará en la antigua sede del Senado de la República en Xicoténcatl. Corresponderá a dicha Cámara determinar la sede de la Asamblea Constituyente para su instalación, en caso de que por circunstancias de hecho no fuere posible ocupar el recinto referido. El pleno de la Asamblea Constituyente podrá determinar en cualquier momento, la habilitación de otro recinto para sesionar.
+
+IV. Los recintos que ocupe la Asamblea Constituyente de la Ciudad de México para el cumplimiento de su función, son inviolables. Las autoridades federales y del Distrito Federal deberán prestar el auxilio que les solicite el Presidente de la Asamblea Constituyente para salvaguardar la inviolabilidad de los recintos que ésta ocupe y para garantizar a sus integrantes el libre ejercicio de su función.
+
+V. La Asamblea Constituyente sesionará en Pleno y en comisiones, de conformidad con lo que disponga su Reglamento. Las sesiones del Pleno requerirán la asistencia, por lo menos, de la mayoría del total de sus integrantes y sus acuerdos se adoptarán con la votación de las dos terceras partes del total de sus integrantes. Las sesiones de las Comisiones requerirán la asistencia de la mayoría de sus integrantes y sus determinaciones se adoptarán con la votación de la mayoría de los presentes. En todos los casos las discusiones deberán circunscribirse al tema objeto del debate.
+
+VI. La Asamblea Constituyente de la Ciudad de México no podrá interferir, bajo ninguna circunstancia, en las funciones de los Poderes de la Unión ni de los órganos del Distrito Federal, ni tendrán ninguna facultad relacionada con el ejercicio del gobierno de la entidad. Tampoco podrá realizar pronunciamientos o tomar acuerdos respecto del ejercicio de los Gobiernos Federal o del Distrito Federal o de cualquier otro poder federal o local.
+
+###### ARTÍCULO DÉCIMO.
+
+El Congreso de la Unión, en la expedición de las leyes a que se refiere el párrafo tercero del Apartado B y el primer párrafo del Apartado C del artículo 122, deberá prever que las mismas entren en vigor en la fecha en que inicie la vigencia de la Constitución Política de la Ciudad de México.
+
+###### ARTÍCULO DÉCIMO PRIMERO.
+
+Todos los inmuebles ubicados en la Ciudad de México que estén destinados al servicio que prestan los poderes de la Federación, así como cualquier otro bien afecto a éstos, continuarán bajo la jurisdicción de los poderes federales.
+
+###### ARTÍCULO DÉCIMO SEGUNDO.
+
+Los jueces y magistrados del Tribunal Superior de Justicia del Distrito Federal se integrarán en el Poder Judicial de la Ciudad de México, una vez que éste inicie sus funciones, de conformidad con lo que establezca la Constitución Política de dicha entidad.
+
+###### ARTÍCULO DÉCIMO TERCERO.
+
+Los recursos de revisión interpuestos contra las resoluciones del Tribunal de lo Contencioso Administrativo del Distrito Federal, de conformidad con lo dispuesto por el artículo 104, fracción III de esta Constitución, que se encuentren pendientes de resolución a la entrada en vigor del presente Decreto, continuarán el trámite que corresponda conforme al régimen jurídico aplicable al momento de su interposición, hasta su total conclusión.
+
+En tanto en la Ciudad de México no se emitan las disposiciones legales para la presentación y sustanciación de los recursos de revisión interpuestos contra las resoluciones del Tribunal de Justicia Administrativa de la Ciudad de México, dichos recursos serán conocidos y resueltos por los Tribunales de la Federación, en los términos de la fracción III del artículo 104 constitucional.
+
+###### ARTÍCULO DÉCIMO CUARTO.
+
+A partir de la fecha de entrada en vigor de este Decreto, todas las referencias que en esta Constitución y demás ordenamientos jurídicos se hagan al Distrito Federal, deberán entenderse hechas a la Ciudad de México.
+
+###### ARTÍCULO DÉCIMO QUINTO.
+
+Los ciudadanos que hayan ocupado la titularidad del Departamento del Distrito Federal, de la Jefatura de Gobierno o del Ejecutivo local, designados o electos, en ningún caso y por ningún motivo podrán ocupar el de Jefe de Gobierno de la Ciudad de México, ni con el carácter de interino, provisional, sustituto o encargado de despacho.
+
+###### ARTÍCULO DÉCIMO SEXTO.
+
+Las Alcaldías accederán a los recursos de los fondos y ramos federales en los términos que prevea la Ley de Coordinación Fiscal.
+
+###### ARTÍCULO DÉCIMO SÉPTIMO.
+
+Dentro de las funciones que correspondan a las Alcaldías, la Constitución Política de la Ciudad de México y las leyes locales contemplarán, al menos, aquéllas que la Ley Orgánica de la Administración Pública del Distrito Federal vigente a la entrada en vigor del presente Decreto, señala para los titulares de los órganos político-administrativos de las demarcaciones territoriales del Distrito Federal, con base en lo establecido por el artículo 122 constitucional.
+
+Las competencias de las Alcaldías, a que se refiere el presente artículo Transitorio, deberán distribuirse entre el Alcalde y el Concejo de la Alcaldía, en atención a lo dispuesto en la Base VI del Apartado A del artículo 122 constitucional, reformado mediante el presente Decreto.
