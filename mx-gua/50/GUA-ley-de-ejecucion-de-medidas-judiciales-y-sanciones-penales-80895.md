@@ -4,7 +4,7 @@ identifier: "GUA-ley-de-ejecucion-de-medidas-judiciales-y-sanciones-penales-8089
 country: "mx"
 rank: "ley"
 publication_date: "2011-04-15"
-last_updated: "2015-12-29"
+last_updated: "2016-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80895&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # LEY DE EJECUCION DE MEDIDAS JUDICIALES Y SANCIONES PENALES DEL ESTADO DE GUANAJUATO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE ENERO DE 2016 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE EJECUCIÓN DE MEDIDAS JUDICIALES Y SANCIONES PENALES DEL ESTADO DE GUANAJUATO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2015.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 29 DE ENERO DE 2016.]</small>
 
 Ley publicada en la Tercera Parte del Periódico Oficial del Estado de Guanajuato, el viernes 15 de abril de 2011.
 
@@ -79,9 +79,9 @@ Para los efectos de la presente Ley, se entenderá por:
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO ARTÍCULO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
-> <small>(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015)</small>
+(REFORMADA, P.O. 29 DE DICIEMBRE DE 2015) (F. DE E., P.O. 29 DE ENERO DE 2016)
 
-I. Autoridades auxiliares: Las Secretarías de Gobierno; de Finanzas, Inversión y Administración; de Educación; de Innovación, Ciencia y Educación Superior; de Desarrollo Social y Humano; de Salud; de Desarrollo Económico Sustentable; de Desarrollo Agroalimentario y Rural; Instituciones Policiales del Estado y de los municipios; organismos autónomos y descentralizados estatales y municipales, así como todas aquellas que les resulte participación, conforme a su naturaleza y atribuciones, en el desarrollo y ejecución del objeto de la presente Ley;
+II (SIC). Autoridades auxiliares: Las Secretarías de Gobierno; de Finanzas, Inversión y Administración; de Educación; de Innovación, Ciencia y Educación Superior; de Desarrollo Social y Humano; de Salud; de Desarrollo Económico Sustentable; de Desarrollo Agroalimentario y Rural; Instituciones Policiales del Estado y de los municipios; organismos autónomos y descentralizados estatales y municipales, así como todas aquellas que les resulte participación, conforme a su naturaleza y atribuciones, en el desarrollo y ejecución del objeto de la presente Ley;
 
 II. Centros: Los establecimientos destinados exclusivamente a la aplicación de la prisión preventiva;
 
