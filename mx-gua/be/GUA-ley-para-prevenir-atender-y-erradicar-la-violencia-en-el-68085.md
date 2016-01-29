@@ -4,7 +4,7 @@ identifier: "GUA-ley-para-prevenir-atender-y-erradicar-la-violencia-en-el-68085"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-27"
-last_updated: "2015-12-29"
+last_updated: "2016-01-29"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68085&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "GUA"
 ---
 # LEY PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA EN EL ESTADO DE GUANAJUATO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 29 DE ENERO DE 2016 EN EL P.O. DEL ESTADO DE GUANAJUATO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA EN EL ESTADO DE GUANAJUATO
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE DICIEMBRE DE 2015.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL P.O. DE 29 DE ENERO DE 2016.]</small>
 
 Ley publicada en la Segunda Parte al Periódico Oficial del Estado de Guanajuato, el 27 de marzo de 2009.
 
@@ -47,7 +47,7 @@ LEY PARA PREVENIR, ATENDER Y ERRADICAR LA VIOLENCIA EN EL ESTADO DE GUANAJUATO
 
 ## Título Primero. Disposiciones Generales
 
-### Capítulo I. Objeto, Sujetos de Protección, Glosarío y Previsión Presupuestal
+### Capítulo I. Objeto, Sujetos de Protección, Glosario y Previsión Presupuestal
 
 Objeto de la ley
 
@@ -535,9 +535,9 @@ III. Difundir el Programa Estatal en la población estudiantil, docente, comunid
 
 IV. Hacer del conocimiento a la autoridad competente los casos de violencia que ocurran en los centros educativos o de los que tengan conocimiento.
 
-> <small>(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2015)</small>
+(ADICIONADO, P.O. 29 DE DICIEMBRE DE 2015) (F. DE E., P.O. 29 DE ENERO DE 2016)
 
-Las atribuciones descritas, las tendrá la Secretaría de Innovación, Ciencia y Educación Superior, en la educación superior.
+Las facultades descritas, las tendrá la Secretaría de Innovación, Ciencia y Educación Superior, en la educación superior.
 
 #### Sección Novena. Del Titular de la Secretaría de Salud
 
@@ -577,7 +577,7 @@ II. Implementar un procedimiento especializado de tratamiento cuando el servidor
 
 ###### Artículo 38.
 
-(DEROGADO, POR ARTICULO SEGUNDO DEL DECRETO NUMERO 95, POR EL QUE SE EXPIDE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO, P.O. 26 DE NOVIEMBRE DE 2010)
+(DEROGADO, POR ARTÍCULO SEGUNDO DEL DECRETO NÚMERO 95, POR EL QUE SE EXPIDE LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE GUANAJUATO, P.O. 26 DE NOVIEMBRE DE 2010)
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE JUNIO DE 2013)</small>
 
@@ -827,7 +827,7 @@ Estructura de las áreas de los CEMAIV
 
 Las áreas señaladas en las fracciones II y III del artículo anterior tendrán la estructura orgánica que se establezca en su ordenamiento jurídico respectivo y deberán:
 
-l. Encontrarse en diferentes espacios un área de la otra;
+I. Encontrarse en diferentes espacios un área de la otra;
 
 II. Ser delimitados para el cumplimiento de sus funciones;
 
@@ -903,7 +903,7 @@ Cuando la persona víctima de violencia sea del género femenino, preferentement
 
 ### Capítulo IV. De las Áreas de los CEMAIV
 
-###### Articulo 59.
+###### Artículo 59.
 
 Los CEMAIV tendrán las siguientes atribuciones:
 
@@ -1039,7 +1039,7 @@ Los refugios funcionarán y operarán de acuerdo al modelo aprobado por el Conse
 
 Atribuciones de los Refugios
 
-###### Articulo 68.
+###### Artículo 68.
 
 Los refugios tendrán las siguientes atribuciones:
 
@@ -1073,7 +1073,7 @@ Queda estrictamente prohibido proporcionar la ubicación de los refugios, y el a
 
 Servicios de los Refugios
 
-###### Articulo 72.
+###### Artículo 72.
 
 Los refugios deberán prestar a las personas receptoras de violencia y, en su caso, a sus menores hijos, los siguientes servicios:
 
