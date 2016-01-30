@@ -4,7 +4,7 @@ identifier: "COL-reglamento-interior-de-la-secretaria-de-finanzas-y-84060"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-26"
-last_updated: "2016-01-23"
+last_updated: "2016-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=84060&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "COL"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE FINANZAS Y ADMINISTRACIÓN
 
-> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE PLANEACIÓN Y FINANZAS, PUBLICADO EN EL P.O. DE 23 DE ENERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE PLANEACIÓN Y FINANZAS Y REGLAMENTO INTERIOR DE LA SECRETARÍA DE ADMINISTRACIÓN Y GESTIÓN PÚBLICA, PUBLICADOS EN EL P.O. DE 23 DE ENERO DE 2016 Y 30 DE ENERO DE 2016 RESPECTIVAMENTE, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2016 (ABROGADO).
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Colima, el sábado 26 de noviembre de 2011.
 
@@ -1992,3 +1992,15 @@ TERCERO.- Se abroga el Reglamento Interior de la Secretaría de Planeación, pub
 CUARTO.- Las referencias que se hagan de las unidades administrativas de la Secretaría de Finanzas y Administración y de la Secretaría de Planeación, y de sus atribuciones, en leyes, convenios, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones jurídicas, cuya denominación cambia por motivo de este reglamento, se entenderán hechas y conferidas a aquellas a las que corresponda la nueva denominación.
 
 QUINTO.- Los asuntos en trámite, iniciados bajo la vigencia de los reglamentos interiores que se abrogan, seguirán siendo atendidos hasta su conclusión por las unidades administrativas competentes, de conformidad con lo establecido en este Reglamento.
+
+P.O. 30 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERIOR DE LA SECRETARÍA DE ADMINISTRACIÓN Y GESTIÓN PÚBLICA”.]
+
+PRIMERO.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Colima”.
+
+SEGUNDO.- Se abroga el Reglamento Interior de la Secretaría (sic) Finanzas y Administración, publicado en el Periódico Oficial “El Estado de Colima” el 26 de noviembre del 2011 y sus posteriores modificaciones, en las partes y funciones que se realizaba como Oficialía Mayor (administración).
+
+TERCERO.- Las referencias que se hagan y las atribuciones que se otorgan en leyes, convenios, decretos, reglamentos, acuerdos, reglas, manuales y demás disposiciones jurídicas, a las Unidades Administrativas de la Secretaría de Finanzas y Administración que cambian de denominación por virtud de este Reglamento, en relación a las funciones que realizaba como Oficialía Mayor (administración) se entenderán hechas o conferidas a las Unidades Administrativas que correspondan conforme al presente Reglamento.
+
+CUARTO.- Los asuntos en trámite, iniciados bajo la vigencia del reglamento interior que se abroga, seguirán siendo atendidos hasta su conclusión por las unidades administrativas competentes, de conformidad con lo establecido en este Reglamento.
