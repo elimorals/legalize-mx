@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-mediacion-para-el-estado-de-oaxaca-39432"
 country: "mx"
 rank: "ley"
 publication_date: "2004-04-12"
-last_updated: "2004-04-12"
+last_updated: "2016-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=39432&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "OAX"
 ---
 # LEY DE MEDIACION PARA EL ESTADO DE OAXACA
 
-LEY DE MEDIACION PARA EL ESTADO DE OAXACA
+LEY DE MEDIACIÓN PARA EL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Oaxaca, el día 12 de abril de 2004.
 
@@ -94,6 +94,10 @@ II.- En materia penal en los delitos de querella y que no sean considerados como
 Para este efecto si el delito se encuentra en la etapa de averiguación ante el Ministerio Público, el convenio celebrado en mediación surtirá sus efectos y para el caso de que en el convenio existan obligaciones a plazo, el no ejercicio de la acción penal se dictará hasta que éstas queden totalmente cumplidas. Si el asunto se encuentra en etapa procesal ante el órgano jurisdiccional, el Centro de Mediación remitirá el convenio al Ministerio Público adscrito para que de no haber inconveniente legal solicite al juez el sobreseimiento de la causa anexándole dicho convenio.
 
 Para los efectos de esta fracción, el convenio resultante de la mediación se regirá en los términos que establecen los Códigos Penal y de Procedimientos Penales para el Estado Libre y Soberano de Oaxaca.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
+
+No se someterán a mediación los casos de violencia familiar, ni los delitos contra la libertad, la seguridad y el normal desarrollo psicosexual.
 
 ###### Artículo 6.
 
@@ -483,7 +487,7 @@ TERCERO.- El Centro de Mediación Judicial tendrá noventa días naturales conta
 
 Lo tendrá entendido el Gobernador del Estado y hará que se publique y se cumpla.
 
-DADO EN EL SALON DE SESIONES DEL HONORABLE CONGERSO DEL ESTADO. Oaxaca de Juárez, Oax., 25 de mayo de 2004.
+DADO EN EL SALON DE SESIONES DEL HONORABLE CONGRESO DEL ESTADO. Oaxaca de Juárez, Oax., 25 de mayo de 2004.
 
 JOSE ESTEBAN BOLAÑOS GUZMAN,
 
@@ -520,3 +524,11 @@ Oaxaca de Juárez, Oax., a 1o. de abril del 2004.
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 LIC. CELESTINO MANUAL ALONSO ALVEZ.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 30 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NUM. 1372.- MEDIANTE EL CUAL SE MODIFICAN, REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA; REFORMA EL ARTÍCULO 23 BIS A, INCISO C PÁRRAFO 32 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA; ADICIONA UN SÉPTIMO PÁRRAFO AL ARTÍCULO 5 DE LA LEY DE MEDIACIÓN DEL ESTADO DE OAXACA".]
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
