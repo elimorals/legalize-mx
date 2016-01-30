@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-penales-para-el-estado-libre-y-6909"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2014-11-01"
+last_updated: "2016-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6909&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -27,7 +27,7 @@ state: "OAX"
 
 CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2016.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 9 de agosto de 1980.
 
@@ -457,9 +457,9 @@ DEL TRAFICO DE CONCESIONES Y PERMISOS DEL SERVICIO PUBLICO DE TRANSPORTE, previs
 
 LA TENTATIVA, a que se refiere el artículo 10 fracción II y 57 primer párrafo en relación con los delitos previstos por los artículos 140, 141, 155, 195, 208 fracciones XXIII, XXIV y XXXVIII, 246, 247, 248, 269, 270, 285, 307, 309 primera parte, 348, 348 BIS, 348 BIS A y 348 BIS D, 349 en relación con los artículos 354 y 355, cuando concurran cualquiera de las circunstancias señaladas en los artículos 359, 362 fracción V, 369 fracciones I y VIII, 357 fracción I y fracción II segunda parte, 357 BIS, 372, 373 fracción III y 383 BIS, en relación con las fracciones II y III, los artículos 194 fracciones I y II, 195 fracciones I, II, III y IV, 196, 197 fracciones I, II y III y el delito previsto por el artículo 348 BIS F, sancionado por el artículo 348 BIS H.
 
-> <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
 
-VIOLENCIA INTRAFAMILIAR, previsto en el artículo 404, y tipificado por el artículo 405 Código Penal para el Estado Libre y soberano de Oaxaca, en vigor.
+VIOLENCIA FAMILIAR, previsto por los artículos 404 y 404 Bis, y sancionado por el artículo 405 del Código Penal para el Estado Libre y Soberano de Oaxaca.
 
 > <small>(ADICIONADO, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
 
@@ -4582,3 +4582,9 @@ QUINTO.- En caso de que las partidas presupuestales lo permitan, los periodos pa
 SEXTO.- Comuníquese esta determinación a las Cámaras que componen el Honorable Congreso de la Unión, a las demás Legislaturas Estatales, a la Asamblea Legislativa del Distrito Federal, a la Secretaría Técnica del Consejo de Coordinación Para la Implementación del Sistema de Justicia Penal y a la Secretaría Ejecutiva del Consejo de Coordinación Para la Implementación del Sistema Acusatorio en el Estado de Oaxaca.
 
 SÉPTIMO.- Publíquese el presente Decreto en el Periódico oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 30 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1372.- MEDIANTE EL CUAL SE MODIFICAN, REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA; REFORMA EL ARTÍCULO 23 BIS A, INCISO C PÁRRAFO 32 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA; ADICIONA UN SÉPTIMO PÁRRAFO AL ARTÍCULO 5 DE LA LEY DE MEDIACIÓN DEL ESTADO DE OAXACA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
