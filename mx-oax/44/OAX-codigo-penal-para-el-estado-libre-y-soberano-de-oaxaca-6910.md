@@ -4,7 +4,7 @@ identifier: "OAX-codigo-penal-para-el-estado-libre-y-soberano-de-oaxaca-6910"
 country: "mx"
 rank: "codigo"
 publication_date: "1980-08-09"
-last_updated: "2015-10-26"
+last_updated: "2016-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6910&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2016.
 
 > <small>N. DE E. DEL ANÁLISIS PARA LA APLICACIÓN DE LA REFORMA DEL P.O. 20 DE DICIEMBRE DE 2013, SE ADVIERTE QUE EL ARTÍCULO SEGUNDO DEL DECRETO 2057, SE PUBLICA CON LAS OBSERVACIONES REALIZADAS POR EL PODER EJECUTIVO DEL ESTADO, POR OFICIO FECHADO EL 12 DE OCTUBRE DE 2013 Y RECIBIDO EN EL H. CONGRESO DEL ESTADO, CON FECHA 17 DEL MISMO MES Y AÑO, DE CONFORMIDAD CON LO DISPUESTO EN EL PÁRRAFO SEGUNDO DE LA FRACCIÓN VI DEL ARTÍCULO 53, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE OAXACA.</small>
 
@@ -4341,11 +4341,11 @@ TITULO DECIMOSEGUNDO.
 
 Delitos contra la libertad, la seguridad y el normal desarrollo psicosexual.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 7 DE FEBRERO DE 1998)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2016)</small>
 
 ### CAPITULO I.
 
-Abuso y hostigamiento sexual, estupro y violación.
+Abuso, hostigamiento y acoso sexual, estupro y violación.
 
 > <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
 
@@ -4371,13 +4371,27 @@ III.- Se hubiera administrado a la víctima alguna sustancia tóxica.
 
 Cuando el delito fuere cometido contra persona menor de doce años, incapaz o cuando se realice en persona que no tenga la capacidad de comprender el significado del hecho o por cualquier causa no pueda resistirlo, la pena será de siete a doce años de prisión y multa de trescientos a setecientos días de salario mínimo. A los autores y partícipes del delito previsto en este párrafo no se les concederá ningún beneficio preliberacional en la ejecución de la sentencia.
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
 
-241 Bis.- Al que asedie, acose o solicite favores de naturaleza sexual para sí o para un tercero, bien sea entre superior e inferior jerárquico, entre iguales o en cualquier circunstancia que los relacione en el ámbito familiar, doméstico, docente, laboral o cualquier otro, se le impondrá sanción de uno a tres años de prisión.
+241 Bis.- Comete el delito de hostigamiento sexual el que valiéndose de su posición jerárquica o de poder derivada de la relación laboral, docente, doméstica, religiosa, familiar o cualquiera otra que genere subordinación, asedie a otra persona solicitándole favores o propuestas de naturaleza sexual para sí o para un tercero, o utilice lenguaje lascivo con ese fin, causando daño o sufrimiento psicoemocional que lesione su dignidad. Al responsable, se le impondrá prisión de uno a tres años, multa de cien a trescientos días multa y pago de la reparación del daño. Este delito se perseguirá por querella de parte ofendida.
 
-Si el hostigador fuese servidor público y utilizase los medios o circunstancias que el encargo le proporcione, además de la pena prevista en el párrafo anterior, se le destituirá de su cargo.
+Si la persona hostigadora fuese servidor público, docente o ministro de culto y utilizare los medios o circunstancias que el encargo le proporcione, además de la pena prevista en el párrafo anterior, se le destituirá de su empleo, encargo o comisión y se le inhabilitará para desempeñar otro por un lapso igual al de la pena de prisión impuesta, que iniciará una vez que haya compurgado la pena privativa de la libertad.
 
-El delito previsto en este artículo será perseguido por querella del ofendido o de su legítimo representante.
+Cuando el hostigamiento se cometa contra una persona menor de dieciocho años de edad, o con alguna discapacidad, o por cualquier causa no pueda resistirlo, la pena de prisión se aumentara hasta en una tercera parte de la prevista y en este caso se perseguirá de oficio.
+
+Si a consecuencia del hostigamiento sexual la víctima pierde o se le obliga a abandonar su trabajo, por esta causa, la reparación del daño consistirá en la indemnización por despido injustificado, teniendo en cuenta su antigüedad laboral, al doble de lo previsto en la Ley Federal del Trabajo o del contrato respectivo.
+
+Al servidor público, docente o ministro de culto que reincidiere en la comisión de este delito, además de las sanciones previstas, se le inhabilitará definitivamente.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
+
+241 Ter.- Quien por cualquier medio con fines lascivos asedie a persona de cualquier sexo, con quien no exista relación de subordinación y aprovechándose de circunstancias que produzcan desventaja, indefensión o riesgo inminente para la víctima, le cause daño o sufrimiento psicoemocional, se le impondrá prisión de seis meses a dos años y multa de cincuenta a doscientos días multa.
+
+Si el acosador es servidor público y se vale de medios o circunstancias que el encargo le proporcione, además de la pena prevista en los párrafos anteriores, se le destituirá del cargo o empleo.
+
+Cuando el acoso sexual se cometa contra una persona menor de dieciocho años de edad, o con alguna discapacidad, o por cualquier causa no pueda resistirlo, la pena de prisión se aumentara hasta en una tercera parte de la prevista.
+
+En el supuesto anterior, el delito se perseguirá de oficio. En lo demás casos se procederá contra el responsable a petición de parte ofendida.
 
 242.- (DEROGADO, P.O. 15 DE SEPTIEMBRE DE 2001)
 
@@ -4439,9 +4453,7 @@ III.- El delito sea cometido por persona que tenga al ofendido bajo su custodia,
 
 IV.- Tratándose del delito de violación, el hecho sea cometido por el cónyuge, concubina o concubino de la víctima.
 
-> <small>(ADICIONADO, P.O. 7 DE FEBRERO DE 1998)</small>
-
-El delito a que se refiere la fracción inmediata anterior, solo se perseguirá por querella de la parte ofendida.
+> <small>(DEROGADO ÚLTIMO PÁRRAFO, P.O. 30 DE ENERO DE 2016)</small>
 
 ### CAPITULO II.
 
@@ -4825,17 +4837,11 @@ Abandono de personas.
 
 317.- A quien abandone a un menor a otra persona cualquiera, incapaz de cuidarse a si mismo, o a un enfermo, teniendo obligación de cuidarlos, se le aplicarán de dos a seis años de prisión, privándolo, además de la patria potestad o tutela, si el inculpado fuera ascendiente o tutor de la persona ofendida. Si resultara daño alguno, se aplicarán las reglas de la acumulación.
 
-> <small>(REFORMADO, P.O. 7 DE FEBRERO DE 1998)</small>
-
-318.- A quien sin motivo justificado, abandone a sus acreedores alimentarios sin recursos para atender a sus necesidades de subsistencia, se le aplicará de dos a cuatro años de prisión y se le privará de sus derechos familiares.
-
-(ADICIONADO, P.O. 9 DE DICIEMBRE DE 2013) (REPUBLICADO, P.O. 20 DE DICIEMBRE DE 2013)
-
-Se equipara al abandono cuando el deudor alimentista simule o abandone su centro de trabajo para quedar en estado de insolvencia y dejar de proporcionar los alimentos decretados por una autoridad judicial, la pena se aumentara de tres a cinco años de prisión.
+318.- (DEROGADO, P.O. 30 DE ENERO DE 2016)
 
 319.- El delito de abandono de hogar sólo se perseguirá a petición del cónyuge ofendido o de los representantes legítimos de los hijos; a falta de representantes de los menores, la acción se iniciará por el Ministerio Público, a reserva de que el Juez de la causa designe un tutor especial para los efectos de este artículo.
 
-320.- Para que el perdón concedido por el cónyuge ofendido pueda producir la libertad del acusado, deberá éste pagar las cantidades que hubiere dejado de ministrar por concepto de alimentos y dar fianza u otra caución de que en lo sucesivo pagará la cantidad que le corresponda.
+320.- (DEROGADO, P.O. 30 DE ENERO DE 2016)
 
 321.- Si del abandono a que se refieren los Artículos anteriores resultare alguna lesión o la muerte, se presumirán éstas como premeditadas, para los efectos de aplicar las sanciones que a estos delitos correspondan.
 
@@ -5781,23 +5787,39 @@ V.- Materiales electorales: los elementos físicos, tales como urnas, canceles o
 
 > <small>(REFORMADA SU DENOMINACIÓN, P.O. 4 DE OCTUBRE DE 2012)</small>
 
-### CAPITULO I
+### CAPITULO I. Violencia familiar
 
-Violencia intrafamiliar.
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+404.- Violencia familiar, es toda acción u omisión, dirigida a dominar, someter, controlar o agredir de manera física, verbal, psicológica, patrimonial, económica, sexual, o contra los derechos reproductivos, dentro o fuera del domicilio familiar, cuyo activo tenga o haya tenido relación de parentesco por consanguinidad, afinidad, legal, concubinato, noviazgo, relaciones de convivencia o mantenga o haya mantenido una relación similar con la víctima.
 
-404.- Por violencia intrafamiliar se considera el uso de la fuerza física o moral, así como la omisión grave en contra de un miembro de la familia por otro de la misma que atente contra su integridad física, psíquica o ambas, independientemente de que pueda o no producir otro delito; siempre y cuando el agresor y el agraviado cohabiten en el mismo domicilio y exista una relación de parentesco, matrimonio o concubinato. En su caso se aplicarán las reglas de la acumulación.
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
 
-Comete el delito de Violencia Intrafamiliar el cónyuge, concubina o concubinario; pariente consanguíneo en línea recta ascendente o descendente sin limitación de grado, pariente colateral consanguíneo o afín hasta el cuarto grado, adoptante o adoptado, así como aquellas personas que habiten en el mismo domicilio de la víctima.
+404 Bis.- Para los efectos del presente capítulo los tipos de violencia familiar son los siguientes:
 
-> <small>(REFORMADO, P.O. 15 DE SEPTIEMBRE DE 2001)</small>
+I. Violencia Física: Toda agresión en la que se utilice cualquier objeto o arma, o se haga uso de alguna parte del cuerpo, para sujetar o lesionar físicamente a otro; así como el uso de sustancias para inmovilizarle, atentando contra su integridad física, y que tienen por objeto lograr su sometimiento o control y con el resultado o riesgo de producir lesión física, interna, externa o ambas;
 
-405.- A quien comete el delito de violencia intrafamiliar se le impondrá de seis meses a cuatro años de prisión, restricción o pérdida de la patria potestad, y en su caso perderá los derechos hereditarios y de alimentos. Así mismo se le sujetará a tratamiento psicológico especializado.
+II. Violencia psicoemocional. Acción u omisión, consistente en prohibiciones, coacciones, condicionamientos, intimidaciones, insultos, amenazas, humillaciones, indiferencia, chantaje, celotipia, abandono, actitudes devaluatorias, que provoquen en quien las recibe alteración autocognitiva y autovalorativa, que integran su autoestima o alteraciones en alguna esfera o área de la estructura psíquica entre las que se pueden encontrar la depresión, el aislamiento, la devaluación e incluso el suicidio;
 
-> <small>(REFORMADO, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
+III. Violencia patrimonial.- Acto u omisión encaminado a apropiarse o destruir el patrimonio de la pareja o de cualquier miembro de la familia sin autorización, mismos que pueden consistir en el abuso de los ingresos, el apoderamiento, despojo, transformación, sustracción, destrucción, desaparición, retención o distracción de objetos, documentos personales, bienes y valores, derechos patrimoniales o recursos económicos;
 
-406.- En todos los casos previstos en los dos artículos precedentes, el Ministerio Público, exhortará al probable responsable para que se abstenga de cualquier conducta que pudiere resultar ofensiva para la víctima y acordará las medidas preventivas necesarias para salvaguardar la integridad física o psíquica de la misma. En todos los casos, el Ministerio Público deberá solicitar las medidas precautorias que considere pertinentes.
+IV. Violencia económica.- Privación intencionada y no justificada legalmente de los recursos financieros para el bienestar físico y psicológico de los receptores de la violencia familiar o de algún miembro de la familia, cuyas formas de expresión pueden representar el incumplimiento de las responsabilidades alimentarias, para el sostenimiento familiar, o las limitaciones encaminadas a controlar el ingreso de las percepciones económicas o la discriminación en la disposición de los recursos compartidos;
+
+V. Violencia sexual.- A toda acción u omisión que amenaza, pone en riesgo, lesiona o daña la libertad, seguridad, integridad y desarrollo psicosexual de cualquier persona. Se expresa a través de la inducción a presenciar o realizar prácticas sexuales no deseadas o que generen dolor, así como la celotipia para el control, manipulación o dominio de la pareja, entre otros y;
+
+VI. Violencia contra los derechos reproductivos: A toda acción u omisión que limite o vulnere el derecho de las personas a decidir libre, responsable y voluntariamente sobre su función reproductiva, en relación con el número y espaciamiento de los hijos, acceso a métodos anticonceptivos de su elección, acceso a una maternidad elegida y segura, a servicios de atención prenatal, servicios obstétricos de emergencia y servicios de interrupción legal y segura del embarazo en casos de violación.
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
+
+405.- A quien cometa el delito de violencia familiar se le impondrá de seis meses a cuatro años de prisión, pérdida de los derechos que tenga respecto de la víctima incluidos los de carácter sucesorio, patria potestad, tutela y alimentos, y se decretarán las medidas de protección conforme a lo establecido por la legislación en la materia; además se sujetará a tratamiento especializado que para personas agresoras de violencia familiar establece la Ley Estatal de Acceso de las Mujeres a una Vida Libre de Violencia de Género.
+
+En ningún caso se entenderá como tratamiento o rehabilitación, la violencia hacia persona alguna con trastorno mental, ni como forma de educación o formación hacia los menores de edad.
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
+
+406.- En los casos previstos en este Título, el Ministerio Público, apercibirá al inculpado para que se abstenga de ejecutar cualquier tipo de violencia contra la víctima y decretará, de inmediato, bajo su más estricta responsabilidad, las órdenes de protección o medidas precautorias, necesarias para salvaguardar la integridad física y psíquica de la víctima durante la integración de la averiguación previa y hasta la conclusión de ésta.
+
+En caso de determinarse el ejercicio de la acción penal, el Ministerio Público solicitará al Juez la confirmación, ampliación o cancelación, en su caso, de las órdenes de protección o medidas precautorias referidas en el párrafo que antecede, quién deberá resolver lo conducente sin dilación.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 23 DE SEPTIEMBRE DE 2011)</small>
 
@@ -5867,13 +5889,47 @@ Si entre el activo y la víctima existió una relación de parentesco por consan
 
 Se impondrá hasta dos tercios más de la pena cuando el sujeto activo se encuentre en servicio o se haya desempeñado dentro de los cinco años anteriores a la comisión del delito como servidor público integrante de las corporaciones de seguridad pública, de las Instituciones de procuración e impartición de justicia o de las fuerzas armadas.
 
+> <small>(ADICIONADO CON EL CAPÍTULO QUE LO INTEGRA, P.O. 30 DE ENERO DE 2016)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
+
+413.- A quien sin motivo justificado incumpla con su obligación de dar alimentos a las personas que tienen derecho a recibirlos, se le impondrá de tres a cinco años de prisión y de cien a cuatrocientos días multa, suspensión o pérdida de los derechos de familia, y pago como reparación del daño de las cantidades no suministradas oportunamente. Para los efectos de este artículo, se tendrá por consumado el delito aun cuando él o los acreedores alimentarios se dejen al cuidado o reciban ayuda de un tercero.
+
+Los alimentos comprenderán la comida, el vestido, la habitación, la asistencia en caso de enfermedad y, en su caso, los gastos de embarazo y parto. Respecto a los menores de edad, comprende, además, los gastos necesarios para la educación básica y para proporcionarle un oficio, arte o profesión honestos y adecuados a sus capacidades, potencialidades y circunstancias personales.
+
+También comprenden las atenciones a las necesidades psíquica, afectiva y de sano esparcimiento y en su caso, los gastos de funerales.
+
+Cuando no sean comprobables el salario o los ingresos del deudor, la Jueza o el Juez determinará el pago de los alimentos o la reparación del daño, con base en la capacidad económica del deudor; el nivel de vida que el deudor y sus acreedores alimentarios hayan llevado en los dos últimos años; así como del estado de necesidad de los acreedores.
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
+
+414.- Al que renuncie a su empleo o solicite licencia sin goce de sueldo y sea éste el único medio de obtener ingresos o se coloque en estado de insolvencia, con el objeto de eludir el cumplimiento de las obligaciones alimentarias que la ley determina, se le impondrá pena de prisión de uno a cuatro años y de doscientos a quinientos días multa, pérdida de los derechos de familia y pago como reparación del daño, de las cantidades no suministradas oportunamente.
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
+
+415.- Para el caso de que la persona legitimada otorgue el perdón, sólo procederá si el imputado, acusado o sentenciado paga todas las cantidades que hubiere dejado de proporcionar por concepto de alimentos y otorgue garantía cuando menos por el monto equivalente a un año. No procederá el perdón para quien habiéndolo obtenido sea procesado nuevamente por el mismo delito.
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
+
+416.- Se impondrá pena de seis meses a cuatro años de prisión y de doscientos a quinientos días multa a aquellas personas que obligadas a informar acerca de los ingresos de quienes deban cumplir con todas las obligaciones señaladas en los artículos anteriores, incumplan con la orden judicial de hacerlo o haciéndolo no lo hagan dentro del término ordenado por el Juez u omitan realizar de inmediato el descuento ordenado.
+
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
+
+417.- Si la omisión en el cumplimiento de las obligaciones alimentarias ocurre en incumplimiento de una resolución judicial, las sanciones se incrementarán en una mitad.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
+
+418.- Los delitos previstos en este Título se perseguirán por querella, con excepción de cuando los acreedores sean las y los hijos menores de 18 años, o persona con discapacidad, en cuyo caso se perseguirá de oficio, atendiendo al Principio del Interés Superior de la Niñez y al Principio de Máxima Protección.
+
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, P.O. 26 DE OCTUBRE DE 2015)</small>
 
 ### CAPITULO PRIMERO. De la Crueldad Animal y la Agonía
 
 > <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2015)</small>
 
-413.- Se castigará con cárcel de tres meses a dos años y con multa de 100 a 1000 días de salario a quien:
+419.- Se castigará con cárcel de tres meses a dos años y con multa de 100 a 1000 días de salario a quien:
 
 I. Dolosamente realice actos de sufrimiento que no lleven a una muerte inmediata del animal vertebrado.
 
@@ -5887,7 +5943,7 @@ III. Cause lesiones y/o marcas de por vida que generen una agonía permanente pa
 
 > <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2015)</small>
 
-414.- Se castigará con cárcel de seis meses a cuatro años y con multa de 500 a 1500 días de salario a quien:
+420.- Se castigará con cárcel de seis meses a cuatro años y con multa de 500 a 1500 días de salario a quien:
 
 I. Dolosamente prive de la vida a un animal vertebrado.
 
@@ -5897,7 +5953,7 @@ I. Dolosamente prive de la vida a un animal vertebrado.
 
 > <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2015)</small>
 
-415.- Se castigará con cárcel de tres meses a un año y con multa de 200 a 800 días de salario a quien:
+421.- Se castigará con cárcel de tres meses a un año y con multa de 200 a 800 días de salario a quien:
 
 I. Utilice a un animal vertebrado con fines sexuales, se entenderá dentro de la utilización del animal con fines sexuales, quien practique actos de zoofilia con el animal, así mismo a quien venda, distribuya, exhiba o difunda material pornográfico donde se utilicen animales con fines sexuales.
 
@@ -5907,7 +5963,7 @@ I. Utilice a un animal vertebrado con fines sexuales, se entenderá dentro de la
 
 > <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2015)</small>
 
-416.- Son excluyentes de responsabilidad de lo dispuesto en los artículos anteriores:
+422.- Son excluyentes de responsabilidad de lo dispuesto en los artículos anteriores:
 
 I.- La muerte o mutilación de un animal vertebrado resultado de actividades licitas.
 
@@ -5919,7 +5975,7 @@ IV.- El sacrificio de un animal vertebrado para consumo humano.
 
 > <small>(ADICIONADO, P.O. 26 DE OCTUBRE DE 2015)</small>
 
-417.- Los delitos previstos en este título se perseguirán por querella, salvo que se cometan por el propietario, custodio o poseedor del animal o que el animal carezca de propietario, custodio o poseedor, casos en que se perseguirán de oficio.
+423.- Los delitos previstos en este título se perseguirán por querella, salvo que se cometan por el propietario, custodio o poseedor del animal o que el animal carezca de propietario, custodio o poseedor, casos en que se perseguirán de oficio.
 
 ARTICULOS TRANSITORIOS:
 
@@ -5947,9 +6003,13 @@ IV.- (DEROGADA, P.O. 3 DE OCTUBRE DE 1998)
 
 ## TITULO VIGESIMO SEGUNDO.. Delitos contra el derecho a una vida libre de violencia
 
-> <small>(REFORMADO [N. DE E. ANTES CAPÍTULO ÚNICO], P.O. 23 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 30 DE ENERO DE 2016)</small>
 
-## TITULO VIGESIMO TERCERO. De los Delitos cometidos contra la vida e integridad de los animales
+## TÍTULO VIGÉSIMO TERCERO.. Delitos que atentan contra la obligación alimentaria
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
+
+## TITULO VIGESIMO CUARTO. De los Delitos cometidos contra la vida e integridad de los animales
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 26 DE OCTUBRE DE 2015)</small>
 
@@ -6261,6 +6321,8 @@ P.O. 26 DE OCTUBRE DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
+P.O. 30 DE ENERO DE 2016.
+
 ###### Artículo 10.
 
 Las dependencias y entidades podrán otorgar subsidios o donativos, los cuales mantienen su naturaleza jurídica de recursos públicos federales para efectos de su fiscalización y transparencia, a los fideicomisos que constituyan las entidades federativas o los particulares, siempre y cuando cumplan con lo que a continuación se señala y lo dispuesto en el Reglamento:
@@ -6417,37 +6479,9 @@ El Ejecutivo Federal realizará una evaluación del impacto presupuestario de la
 
 > <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 6 DE NOVIEMBRE DE 2020)</small>
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE EXPIDE LA LEY FEDERAL DE AUSTERIDAD REPUBLICANA; Y SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DE LA LEY GENERAL DE RESPONSABILIDADES ADMINISTRATIVAS Y DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA”.]
+## [N. DE E. TRANSITORIO DEL “DECRETO NUM. 1372.- MEDIANTE EL CUAL SE MODIFICAN, REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA; REFORMA EL ARTÍCULO 23 BIS A, INCISO C PÁRRAFO 32 DEL CÓDIGO DE PROCEDIMIENTOS PENALES PARA EL ESTADO LIBRE Y SOBERANO DE OAXACA; ADICIONA UN SÉPTIMO PÁRRAFO AL ARTÍCULO 5 DE LA LEY DE MEDIACIÓN DEL ESTADO DE OAXACA”.]
 
-Primero. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
-
-Segundo. Los entes públicos en un plazo máximo de ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto, ajustarán sus marcos normativos conforme a lo establecido en la Ley Federal de Austeridad Republicana.
-
-Tercero. Los entes públicos en un plazo máximo de ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto, con el fin de dar cumplimiento a lo previsto por el artículo 9 de la Ley Federal de Austeridad Republicana, realizarán los ajustes necesarios para implementar las compras consolidadas en la adquisición de bienes y servicios, así como la contratación de obra pública y servicios relacionados con la misma de uso generalizado de los entes.
-
-Cuarto. Para el caso de las oficinas de representación de las dependencias y entidades de la Administración Pública Federal, éstas, en un plazo máximo de ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto, darán cumplimiento a lo dispuesto por el artículo 15 de la Ley Federal de Austeridad Republicana.
-
-Quinto. Los lineamientos a que se refiere la Ley Federal de Austeridad Republicana se expedirán en un plazo máximo de ciento ochenta días hábiles siguientes a la entrada en vigor del presente Decreto.
-
-Dichos lineamientos, entre otras cosas, establecerán las disposiciones relativas a la contratación de personal por honorarios y asesores en las dependencias de la Administración Pública Federal.
-
-La eliminación de las plazas de Dirección General Adjunta creadas a partir del ejercicio fiscal 2001, y que no cumplan con lo dispuesto en la fracción III del artículo 12 de la Ley Federal de Austeridad Republicana estará sujeta a lo previsto en el artículo transitorio segundo.
-
-Sexto. Se prohíbe y se cancela cualquier otro tipo de pensión que se hubiere creado exprofeso para el beneficio de los extitulares del Ejecutivo Federal.
-
-Asimismo, queda prohibida la asignación a extitulares del Ejecutivo Federal, de cualquier tipo de servidores públicos, personal civil o de las fuerzas armadas, cuyos costos sean cubiertos con recursos del Estado, así como de los bienes muebles o inmuebles que estén a su disposición y formen parte del patrimonio federal. Por lo que a partir de que esta Ley entre en vigencia, dichos recursos humanos y materiales se reintegrarán a las dependencias correspondientes.
-
-Séptimo. Dentro de los noventa días naturales posteriores a la entrada en vigor del presente Decreto, las secretarías de la Función Pública y de Hacienda y Crédito Público emitirán los Lineamientos para la operación y funcionamiento del Comité de Evaluación.
-
-La presidencia de dicho Comité estará a cargo de las secretarías de Hacienda y Crédito Público y de la Función Pública, quienes desempeñarán esta función en forma alterna por los periodos que señalen los Lineamientos a que se refiere el párrafo anterior.
-
-Octavo. En un plazo de hasta ciento ochenta días hábiles posteriores a la entrada en vigor del presente Decreto, las Secretarías de la Función Pública y de Hacienda y Crédito Público analizarán la normatividad, las estructuras, patrimonio, objetivos, eficiencia y eficacia de los fideicomisos públicos, fondos, mandatos públicos o contratos análogos que reciban recursos públicos federales. El análisis será publicado a través de un Informe, el cual será remitido a la Cámara de Diputados. El resultado correspondiente a cada fideicomiso deberá ser tomado en cuenta por el Poder Ejecutivo Federal para la elaboración del Proyecto de Presupuesto de Egresos de la Federación correspondiente.
-
-Noveno. La Secretaría podrá convenir con las principales instituciones educativas especializadas en administración pública del país, convenios de colaboración para la capacitación y profesionalización del personal de los entes públicos de la Administración Pública Federal, en materia de construcción de indicadores y mejora continua de procesos que permitan identificar áreas de oportunidad para lograr un gasto austero, responsable, eficiente y eficaz.
-
-Décimo. Quedan derogadas todas las disposiciones que se opongan al contenido del presente Decreto.
-
-D.O.F. 6 DE NOVIEMBRE DE 2020.
+ÚNICO.- El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE REFORMAN Y DEROGAN DIVERSAS DISPOSICIONES DE LA LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS; DE LA LEY DE COOPERACIÓN INTERNACIONAL PARA EL DESARROLLO; DE LA LEY DE HIDROCARBUROS; DE LA LEY DE LA INDUSTRIA ELÉCTRICA; DE LA LEY FEDERAL DE PRESUPUESTO Y RESPONSABILIDAD HACENDARIA; DE LA LEY GENERAL DE PROTECCIÓN CIVIL; DE LA LEY ORGÁNICA DE LA FINANCIERA NACIONAL DE DESARROLLO AGROPECUARIO, RURAL, FORESTAL Y PESQUERO; DE LA LEY DE CIENCIA Y TECNOLOGÍA; DE LA LEY ADUANERA; DE LA LEY REGLAMENTARIA DEL SERVICIO FERROVIARIO; DE LA LEY GENERAL DE CULTURA FÍSICA Y DEPORTE; DE LA LEY FEDERAL DE CINEMATOGRAFÍA; DE LA LEY FEDERAL DE DERECHOS; DE LA LEY DEL FONDO MEXICANO DEL PETRÓLEO PARA LA ESTABILIZACIÓN Y EL DESARROLLO; DE LA LEY DE BIOSEGURIDAD DE ORGANISMOS GENÉTICAMENTE MODIFICADOS; DE LA LEY GENERAL DE CAMBIO CLIMÁTICO; DE LA LEY GENERAL DE VÍCTIMAS Y SE ABROGA LA LEY QUE CREA EL FIDEICOMISO QUE ADMINISTRARÁ EL FONDO DE APOYO SOCIAL PARA EX TRABAJADORES MIGRATORIOS MEXICANOS”.]
 
