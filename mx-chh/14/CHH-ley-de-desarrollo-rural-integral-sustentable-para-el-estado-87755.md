@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-desarrollo-rural-integral-sustentable-para-el-estado-877
 country: "mx"
 rank: "ley"
 publication_date: "2012-03-17"
-last_updated: "2015-12-12"
+last_updated: "2016-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=87755&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2016.
 
 Ley publicada en Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 17 de marzo de 2012.
 
@@ -129,27 +129,53 @@ XXII. Órdenes de Gobierno. Los Gobiernos Federal, Estatal y Municipal.
 
 XXIII. Planeación. Es la función de la administración pública que consiste en determinar los objetivos generales de cada institución o conjunto de ellas a corto, mediano y largo plazo; en establecer el marco normativo dentro del cual han de efectuar sus operaciones; en formular planes, programas y proyectos; y en identificar las medidas, estrategias y recursos necesarios para cumplirlos.
 
-XXIV. Productos Básicos y Estratégicos. Aquellos productos agropecuarios cuyo proceso productivo se relaciona con segmentos significativos de la población rural u objetivos estratégicos estatales.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2016)</small>
 
-XXV. Programa Estatal Concurrente. El Programa Estatal Concurrente para el Desarrollo Rural Integral Sustentable, que incluye el conjunto de planes y programas, obras y acciones de las dependencias del Ejecutivo Estatal y en coordinación con las Delegaciones Federales, relacionados con las materias motivo de esta Ley, en un ejercicio fiscal determinado.
+XXIV. Productor: Persona física o moral que se dedica a la producción agropecuaria.
 
-XXVI. Programas Sectoriales. Los programas específicos del Ejecutivo Federal, Estatal y Municipal, que establecen políticas, objetivos, presupuestos e instrumentos para cada uno de los ámbitos del Desarrollo Rural Integral Sustentable.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2016)</small>
 
-XXVII. Recursos Naturales. Todos aquellos bienes naturales renovables y no renovables susceptibles de aprovechamiento a través de los procesos productivos rurales y proveedores de servicios ambientales: tierras, bosques, agua, comunidades vegetativas y animales, y recursos genéticos.
+XXV. Productos Básicos y Estratégicos: Aquellos productos agropecuarios cuyo proceso productivo se relaciona con segmentos significativos de la población rural u objetivos estratégicos estatales.
 
-XXVIII. Secretaría. La Secretaría de Desarrollo Rural de Gobierno del Estado.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2016)</small>
 
-XXIX. Seguridad Alimentaria. El abasto oportuno, suficiente e incluyente de alimentos a la población.
+XXVI. Programa Estatal Concurrente: El Programa Estatal Concurrente para el Desarrollo Rural Integral Sustentable, que incluye el conjunto de planes y programas, obras y acciones de las dependencias del Ejecutivo Estatal y en coordinación con las Delegaciones Federales, relacionados con las materias motivo de esta Ley, en un ejercicio fiscal determinado.
 
-XXX. Servicios Ambientales. Los beneficios que obtiene la sociedad de los recursos naturales, tales como la provisión y calidad del agua, la captura de contaminantes, la mitigación del efecto de los fenómenos naturales adversos, el paisaje y la recreación, entre otros.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2016)</small>
 
-XXXI. Sistema. Mecanismo de concurrencia y coordinación de las funciones de las diversas dependencias e instancias públicas y privadas, en donde cada una de ellas participa de acuerdo con sus atribuciones y competencias para lograr un determinado propósito.
+XXVII. Programas Sectoriales: Los programas específicos del Ejecutivo Federal, Estatal y Municipal, que establecen políticas, objetivos, presupuestos e instrumentos para cada uno de los ámbitos del Desarrollo Rural Integral Sustentable.
 
-XXXII. Sistema-Producto. El conjunto de elementos y agentes concurrentes de los procesos productivos de las actividades agropecuarias, incluidos el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución, comercialización y consumo.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2016)</small>
 
-XXXIII. Soberanía Alimentaria: La libre determinación del país en materia de producción, abasto y acceso de alimentos a toda la población; así como la garantía de tener los alimentos que la población requiere mediante su propia producción.
+XXVIII. Recursos Naturales: Todos aquellos bienes naturales renovables y no renovables susceptibles de aprovechamiento a través de los procesos productivos rurales y proveedores de servicios ambientales: tierras, bosques, agua, comunidades vegetativas y animales, y recursos genéticos.
 
-XXXIV. Sustentabilidad. Acción que integra criterios e indicadores de carácter ambiental, económico y social que tienda a mejorar la calidad de vida y productividad de la población, con medidas apropiadas de preservación y protección del ambiente natural, el desarrollo económico equilibrado y la cohesión social, sin comprometer la satisfacción de las necesidades de las generaciones futuras.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2016)</small>
+
+XXIX. Secretaría: La Secretaría de Desarrollo Rural de Gobierno del Estado.
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2016)</small>
+
+XXX. Seguridad Alimentaria: El abasto oportuno, suficiente e incluyente de alimentos a la población.
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2016)</small>
+
+XXXI. Servicios Ambientales: Los beneficios que obtiene la sociedad de los recursos naturales, tales como la provisión y calidad del agua, la captura de contaminantes, la mitigación del efecto de los fenómenos naturales adversos, el paisaje y la recreación, entre otros.
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2016)</small>
+
+XXXII. Sistema: Mecanismo de concurrencia y coordinación de las funciones de las diversas dependencias e instancias públicas y privadas, en donde cada una de ellas participa de acuerdo con sus atribuciones y competencias para lograr un determinado propósito.
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2016)</small>
+
+XXXIII. Sistema-Producto: El conjunto de elementos y agentes concurrentes de los procesos productivos de las actividades agropecuarias, incluidos el abastecimiento de equipo técnico, insumos productivos, recursos financieros, la producción primaria, acopio, transformación, distribución, comercialización y consumo.
+
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2016)</small>
+
+XXXIV. Soberanía Alimentaria: La libre determinación del país en materia de producción, abasto y acceso de alimentos a toda la población; así como la garantía de tener los alimentos que la población requiere mediante su propia producción.
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2016)</small>
+
+XXXV. Sustentabilidad: Acción que integra criterios e indicadores de carácter ambiental, económico y social que tienda a mejorar la calidad de vida y productividad de la población, con medidas apropiadas de preservación y protección del ambiente natural, el desarrollo económico equilibrado y la cohesión social, sin comprometer la satisfacción de las necesidades de las generaciones futuras.
 
 ### CAPÍTULO II. AUTORIDADES COMPETENTES
 
@@ -162,6 +188,10 @@ I. La Secretaría.
 II. La Comisión Intersecretarial Estatal.
 
 III. Los Organismos y Fideicomisos de la Administración Pública Estatal, vinculados con actividades agropecuarias.
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2016)</small>
+
+IV. Los Ayuntamientos, en el ámbito de su competencia.
 
 ###### Artículo 8.
 
@@ -187,7 +217,9 @@ La Secretaría tendrá, además de las señaladas en la Ley Orgánica del Poder 
 
 I. Formular y conducir, dentro del ámbito de su competencia, la política Estatal de Desarrollo Rural Integral Sustentable, en coordinación con las autoridades competentes y auxiliares.
 
-II. Coadyuvar con las instituciones normativas en el ordenamiento, preservación y aprovechamiento sustentable de los recursos naturales.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2016)</small>
+
+II. Coadyuvar con las instituciones normativas en el ordenamiento, preservación y aprovechamiento sustentable de los recursos naturales, con la finalidad de evitar su contaminación y de los alimentos derivado de la realización de actividades agropecuarias.
 
 III. Apoyar a las instancias normativas y ejecutoras en materia de ordenamiento de la propiedad rural a fin de incidir en el Desarrollo Rural Integral Sustentable y la certidumbre jurídica en la tenencia de la tierra rural.
 
@@ -205,7 +237,9 @@ IX. Promover la celebración de convenios en la materia con los distintos Órden
 
 X. Establecer y ejecutar, en concordancia con las disposiciones aplicables, medidas de control de entrada y salida del Estado, así como en el tránsito interno, de los productos o subproductos agropecuarios.
 
-XI. Fomentar y promover la organización de productores rurales bajo cualquier figura con reconocimiento legal para impulsar la integración de los mismos.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2016)</small>
+
+XI. Fomentar y promover acciones dirigidas al fortalecimiento de la organización de productores rurales bajo cualquier figura con reconocimiento legal para impulsar la integración de los mismos.
 
 XII. Mantener actualizado el Padrón Único de Productores del Estado y demás agentes de la sociedad rural del Estado.
 
@@ -215,23 +249,65 @@ XIV. Promover y fomentar esquemas de financiamiento para impulsar proyectos prod
 
 XV. Impulsar y apoyar la generación, transferencia y adopción de tecnología en las actividades agropecuarias, así como la transformación y el valor agregado.
 
-XVI. Fomentar el servicio de extensión agropecuaria, con el apoyo de técnicos de la Federación, Estado y municipios.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2016)</small>
+
+XVI. Celebrar convenios con la finalidad de que se realicen capacitaciones que desarrollen habilidades que mejoren el aspecto económico y la calidad de vida de la sociedad rural, así como el servicio de asesoría a que se refiere la fracción XIII del presente artículo, y fomenten el servicio de extensión agropecuaria, con el apoyo de técnicos de la Federación, Estado y municipios.
 
 XVII. Participar en la vigilancia y cumplimiento de las Normas Oficiales Mexicanas relacionadas con el sector agropecuario.
 
 XVIII. Promover y apoyar los proyectos productivos rurales, con especial atención a los grupos prioritarios.
 
-XIX. Realizar y mantener actualizados los estudios técnicos sobre vocación productiva, clasificación de recursos y regionalización.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2016)</small>
+
+XIX. Realizar y mantener actualizado el Inventario Estatal de Recursos y Necesidades en Materia Agropecuaria y demás estudios técnicos sobre vocación productiva, clasificación de recursos y regionalización.
 
 XX. Impulsar un sistema de simplificación administrativa para los productores, técnicos, comercializadores y exportadores de productos y subproductos agropecuarios, agroindustriales, de servicios y demás agentes de la sociedad rural.
 
 XXI. Promover y participar, en conjunto con los productores, la cultura de la administración de riesgos, mediante la utilización de los instrumentos existentes en la materia, así como la creación y operación de fondos de contingencia y seguros para el sector agropecuario.
 
-XXII. Promover y establecer los convenios de cooperación para la investigación científico-tecnológica con las instituciones de investigación, nacionales, estatales y con los organismos internacionales, para la investigación tecnológica agropecuaria y de Desarrollo Rural Integral Sustentable.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2016)</small>
+
+XXII. Promover y establecer los convenios de cooperación para la investigación científico-tecnológica con las instituciones de investigación, nacionales, estatales y con los organismos internacionales, para la investigación tecnológica agropecuaria y de Desarrollo Rural Integral Sustentable. Dando prioridad a aquellos proyectos o innovaciones que promuevan la diversificación productiva con un uso más eficiente de los recursos naturales.
 
 XXIII. Impulsar la eficiencia de los recursos públicos y el logro de objetivos estratégicos para el Desarrollo Rural Integral Sustentable, mediante la instrumentación de metodologías y procesos de evaluación aplicados por la entidad estatal correspondiente.
 
-XXIV. Las demás que la presente Ley y otros ordenamientos legales aplicables señalen.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2016)</small>
+
+XXIV. Coadyuvar, en coordinación con las autoridades competentes y los productores, la organización de ferias, exposiciones, concursos forestales, agrícolas, ganaderos, frutícolas, artesanales y de servicios rurales en el Estado.
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2016)</small>
+
+XXV. Coadyuvar con las autoridades competentes en materia de sanidad animal y vegetal.
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2016)</small>
+
+XXVI. Las demás que la presente Ley y otros ordenamientos legales aplicables señalen.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
+
+###### Artículo 10 Bis.
+
+Los Ayuntamientos tendrán las siguientes atribuciones:
+
+l. Planear y aplicar, de acuerdo a la política nacional y estatal, la política municipal de Desarrollo Rural Sustentable.
+
+II. Diseñar el Programa Sectorial Municipal para el Desarrollo Rural Sustentable en concordancia con los Programas Federales y Estatales que para tal efecto se expidan.
+
+III. Promover la participación y establecimiento de sistemas de ventanillas únicas de atención para los usuarios del sector rural.
+
+IV. Promover la participación de las organizaciones, asociaciones e instituciones públicas y privadas relacionadas con el desarrollo rural en los Consejos Municipales.
+
+V. Estudiar e incluir, en su caso, las propuestas que haga el Consejo Municipal para el diseño de la Política Municipal de Desarrollo Rural Sustentable.
+
+VI. Fomentar la conservación de los recursos naturales mediante su aprovechamiento sustentable.
+
+VII. Promover la participación de organismos públicos, privados y sociales, en proyectos estratégicos de desarrollo rural municipal.
+
+VIII. Incentivar la realización de estudios técnicos que permitan conocer las zonas de productividad rural y socioeconómica municipales.
+
+IX. Celebrar acuerdos y convenios de coordinación, cooperación y concertación con los Órdenes de Gobierno e Instituciones de toda índole, en materia de desarrollo rural sustentable.
+
+X. Las demás que conforme a esta Ley y su Reglamento, le correspondan.
 
 ###### Artículo 11.
 
@@ -363,7 +439,9 @@ V. Secretaría de Economía.
 
 VI. Secretaría de Comunicaciones y Obras Públicas.
 
-VII. Secretaría de Fomento Social.
+> <small>(REFORMADA, P.O. 30 DE ENERO DE 2016)</small>
+
+VII. Secretaría de Desarrollo Social.
 
 VIII. Secretaría de la Contraloría.
 
@@ -381,9 +459,39 @@ XIII. Junta Central de Agua y Saneamiento.
 
 Cada uno de los integrantes de la Comisión Intersecretarial nombrará a un representante, que será el funcionario que tenga mayor relación con aspectos y actividades del desarrollo rural.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ENERO DE 2016)</small>
+
 ###### Artículo 24.
 
-La Comisión Intersecretarial, a través de las dependencias y entidades que la integran, ejecutará las acciones previstas en este Título, basándose en las atribuciones legales que se le confiera.
+La Comisión Intersecretarial, a través de las dependencias y entidades que la integran, ejecutará las acciones previstas en este Título, y además tendrá las siguientes atribuciones:
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2016)</small>
+
+l. Integrar el Programa Estatal Concurrente y someterlo a la aprobación del titular del Poder Ejecutivo del Estado.
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2016)</small>
+
+II. Coordinar el seguimiento de las acciones contenidas en el Programa Estatal Concurrente.
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2016)</small>
+
+III. Evaluar periódicamente los programas relacionados con el desarrollo rural sustentable.
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2016)</small>
+
+IV. Convocar a reuniones a otras dependencias y entidades del Poder Público Federal, Estatal o Municipal, con el objeto de participar en los asuntos de su competencia, relacionados con el desarrollo rural sustentable.
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2016)</small>
+
+V. Coordinar las instancias, procesos y acciones que promuevan el desarrollo rural sustentable en el Estado, observando la normatividad de las dependencias y de las Entidades concurrentes y coadyuvantes.
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2016)</small>
+
+VI. Proponer al titular del Poder Ejecutivo Estatal, la celebración de convenios con los Órdenes de Gobierno, así como la realización de programas y acciones que fomenten el desarrollo rural sustentable.
+
+> <small>(ADICIONADA, P.O. 30 DE ENERO DE 2016)</small>
+
+VII. Las demás que señale la presente Ley y su Reglamento.
 
 ###### Artículo 25.
 
@@ -421,15 +529,193 @@ VII. Servicio Estatal de Regularización de la Propiedad.
 
 #### SECCIÓN II. DEL CONSEJO ESTATAL
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ENERO DE 2016)</small>
+
 ###### Artículo 30.
 
-El Consejo Estatal será presidido por el Ejecutivo Estatal, y serán miembros permanentes del Consejo los representantes de las dependencias y entidades que forman parte de la Comisión Intersecretarial; los representantes de los Consejos Municipales y Distritales; los representantes del Poder Legislativo; los representantes debidamente acreditados de las organizaciones de productores, de carácter económico, social y privado, así como los representantes de instituciones académicas e investigación.
+El Consejo Estatal será presidido por el Ejecutivo Estatal, y serán miembros permanentes del Consejo los representantes de las dependencias y entidades que forman parte de la Comisión Intersecretarial; un representante de cada uno de los Consejos Municipales y Distritales; los representantes del Poder Legislativo; los representantes debidamente acreditados de las organizaciones de productores, de carácter económico, social y privado, así como los representantes de instituciones académicas e investigación. Los miembros permanentes del Consejo Estatal, tendrán derecho a voz y a un voto por representación.
 
-Igualmente podrán participar los representantes de las dependencias federales en el Estado relacionadas con el Desarrollo Rural Integral Sustentable.
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
+
+Igualmente podrán participar los representantes de las dependencias federales en el Estado, que no tengan el carácter de miembro permanente, relacionadas con el Desarrollo Rural Integral Sustentable, quienes tendrán únicamente derecho a voz.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
+
+Por lo que respecta a los miembros permanentes de los Poderes Estatal y Municipal, estarán necesariamente los siguientes:
+
+l. Secretaría de Desarrollo Rural.
+
+II. Secretaría General de Gobierno.
+
+III. Secretaría de Hacienda.
+
+IV. Secretaría de Educación, Cultura y Deporte.
+
+V. Secretaría de Economía.
+
+VI. Secretaría de Comunicaciones y Obras Públicas.
+
+VII. Secretaría de Desarrollo Social.
+
+VIII. Secretaría de Desarrollo Urbano y Ecología.
+
+IX. Secretaría de Salud.
+
+X. Secretaría del Trabajo y Previsión Social.
+
+XI. Fiscalía General.
+
+XII. Junta Central de Agua y Saneamiento.
+
+XIII. Presidente del H. Congreso del Estado.
+
+XIV. Presidente de la Comisión de Desarrollo Rural Integral del H. Congreso del Estado.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
+
+Por lo que respecta a los miembros permanentes de las organizaciones de productores, así como los de las instituciones académicas e investigación, deberán ser al menos de las siguientes:
+
+a). Organizaciones de Productores:
+
+l. La Unión Ganadera Regional de Chihuahua.
+
+II. La Unión Ganadera Regional División del Norte.
+
+III. La Unión Agrícola Regional de Fruticultores del Estado.
+
+IV. La Unión Agrícola de Productores de Forraje del Estado.
+
+V. La Unión Agrícola Regional de Productores de Maíz Amarillo, así como otros granos y semillas del Estado de Chihuahua (UNIPRO).
+
+VI. La Unión de Productores de Leche.
+
+VII. Liga de Comunidades Agrarias.
+
+VIII. Central Campesina Independiente.
+
+IX. Unión Campesina Democrática.
+
+X. Frente Campesino Chihuahuense.
+
+XI. Barzón.
+
+XII. Consejo Estatal Agropecuario de Chihuahua, CEACH, A.C.
+
+XIII. Agrodinámica Nacional.
+
+XIV. CONSUCC.
+
+XV. Unión Diversificadora Agropecuaria.
+
+XVI. Productores Temporaleros.
+
+XVII. Productores MAIFRI.
+
+XVIII. Unión de Regiones de Productores Forestales de Chihuahua, A.C.
+
+XIX. Alimentos Concentrados de Delicias, S.A.
+
+XX. Unión Ganadera Regional Productores de Ovinos y Caprinos de Chihuahua.
+
+XXI. Comité Mexicano del Sistema Producto Nuez, A.C.
+
+XXII. Mejoramiento del Agro.
+
+XXIII. Central Campesina Cardenista.
+
+XXIV. Productores del Sauz Encinillas.
+
+XXV. Consejo Estatal del Sistema Producto Leche.
+
+XXVI. Sistema Producto Chile.
+
+XXVII. Consejo Estatal de Productores de Melón.
+
+XXVIII. Consejo Estatal Sistema Producto Trigo.
+
+XXIX. Consejo Estatal de Productores de Frijol.
+
+XXX. Sistema Producto Durazno.
+
+XXXI. Consejo Estatal de Productores de Nogal.
+
+XXXII. Consejo Estatal de Productores de Maíz.
+
+XXXIII. Apicultores del Estado.
+
+XXXIV. Comité Estatal de Sanidad Vegetal.
+
+XXXV. Comité Estatal de Sanidad Acuícola.
+
+XXXVI. Consejo Estatal de Productores de Papa.
+
+XXXVII. Consejo Estatal de Productores de Algodón.
+
+XXXVIII. Fundación PRODUCE.
+
+b) Instituciones Académicas e Investigación:
+
+l. La Universidad Autónoma de Chihuahua.
+
+II. La Universidad Autónoma de Ciudad Juárez.
+
+III. Las Universidades Tecnológicas en el Estado de Chihuahua.
+
+IV. La Universidad Regional del Norte.
+
+V. El Instituto Tecnológico y de Estudios Superiores de Monterrey, campus Chihuahua.
+
+VI. La Universidad La Salle, campus Chihuahua.
+
+VII. La Universidad del Valle de México, campus Chihuahua.
+
+VIII. El Instituto Nacional de Investigaciones Forestales, Agrícolas y Pecuarias.
+
+IX. El Centro de Investigación en Alimentación y Desarrollo, A.C.
+
+X. El Centro de Investigaciones en Materiales Avanzados (CIMAV).
+
+XI. El Instituto Tecnológico de Chihuahua.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
+
+De igual manera, se podrá invitar a los representantes de las organizaciones sociales y privadas de carácter económico, educativo, investigación y social del sector rural que tengan representación en el Estado, de acuerdo con los temas de que se trate, teniendo únicamente derecho a voz.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
+
+###### Artículo 30 Bis.
+
+El Consejo Estatal sesionará al menos una vez al año en forma ordinaria, y en forma extraordinaria cuando su Presidente así lo determine. Asimismo sesionará válidamente con la asistencia de por lo menos la mitad más uno de sus miembros, siempre y cuando la mayoría de los asistentes sean los representantes de la Administración Pública Estatal para que los acuerdos que tomen sean legales. Las resoluciones se tomarán por mayoría de los miembros presentes, teniendo el Presidente voto de calidad en caso de empate.
 
 ###### Artículo 31.
 
 El Consejo Estatal es un órgano consultivo, de participación, análisis, deliberación, promoción de consensos, acuerdos, seguimiento y evaluación, que coadyuva a favorecer, definir y orientar una mejor política, programas y acciones que impulsen el Desarrollo Rural Integral Sustentable en Chihuahua.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
+
+El Consejo Estatal tendrá las siguientes atribuciones:
+
+l. Participar en el diseño de la política de Estado para el desarrollo rural.
+
+II. Proponer a las instancias que corresponda, los programas de desarrollo rural que tengan como objetivo superar las desigualdades económicas y sociales del medio rural.
+
+III. Promover la participación social en la ejecución de programas y acciones de desarrollo rural.
+
+IV. Coadyuvar, con las autoridades competentes, en el seguimiento, control y evaluación de los planes y programas para el desarrollo rural.
+
+V. Participar, con la Comisión Intersecretarial, en la formulación de la propuesta de presupuesto para la instrumentación del Programa Estatal Concurrente.
+
+VI. Proponer políticas presupuestarias para el desarrollo rural.
+
+VII. Promover, en concurrencia con las dependencias competentes, la conservación de la biodiversidad y el mejoramiento de los recursos naturales mediante un aprovechamiento sustentable.
+
+VIII. Analizar las reglas de operación de los programas federales y estatales de fomento al desarrollo rural y, en su caso, proponer dentro de los procedimientos normativos correspondientes las modificaciones que consideren pertinentes.
+
+IX. Proponer proyectos de asignación de apoyos al campo dentro de los programas de desarrollo rural.
+
+X. Promover la creación y el fortalecimiento de los Consejos Distritales y Municipales.
+
+XI. Las demás que señale la presente Ley y su Reglamento.
 
 Dentro de los estatutos de organización y funcionamiento que se celebren con el Ejecutivo Federal, el Ejecutivo Estatal promoverá que el Consejo Estatal se reúna al menos una vez por año para la planeación y evaluación de sus acciones.
 
@@ -919,13 +1205,73 @@ La Secretaría implementará los mecanismos de información relativa a los aspec
 
 El objetivo será proveer de información oportuna a los productores y agentes económicos que participan en la producción y en los mercados agropecuarios, para lo cual el Estado desarrollará el Sistema Estatal de Información Agropecuaria, en donde podrán participar todas las instituciones y organismos públicos y privados que generen y utilicen información pertinente para el sector rural.
 
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
+
 ###### Artículo 93.
 
-La información que se integre se considerará de interés público y responsabilidad del Estado. Para ello se conformará un paquete básico de información a los productores y demás agentes de la sociedad rural, que les permita fortalecer su autonomía en la toma de decisiones.
+La información que se integre se considerará de interés público y responsabilidad del Estado. Para ello se conformará un paquete básico de información a los productores y demás agentes de la sociedad rural, que les permita fortalecer su autonomía en la toma de decisiones. De igual manera, la Secretaría contará con un Inventario Estatal de Recursos y Necesidades en Materia Agropecuaria, el cual servirá de base para la elaboración del Plan Estatal de Desarrollo o el Plan Municipal de Desarrollo, dicho inventario deberá actualizase cada tres años.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
+
+###### Artículo 93 Bis.
+
+El inventario tendrá que contener como mínimo la siguiente información:
+
+l. Clasificación de tierras.
+
+II. Censo de especies pecuarias.
+
+III. Censo de maquinaria, implementos, infraestructura y equipos agrícolas.
+
+IV. Censo de infraestructura y equipamiento hidroagrícola.
+
+V. Censo de maquinaria, implementos, infraestructura y equipos ganaderos.
+
+VI. Censo de maquinaria, implementos, infraestructura y equipos forestales.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
+
+###### Artículo 93 Ter.
+
+Además el Inventario, deberá comprender la siguiente información:
+
+l. Los tipos de recursos naturales existentes en el Estado, los procedimientos para llevar a cabo su conservación, protección, restauración y producción, así como los estudios que se consideren necesarios para definir la vocación por regiones, atendiendo a su clima, precipitación pluvial, recursos acuíferos y ciclo vegetativo, además de las actividades económicas de la sociedad rural que deriven de dichos recursos naturales.
+
+II. La cuantificación de los recursos materiales, bienes muebles e inmuebles que forman parte de los procesos en actividades agropecuarias y en actividades económicas de la producción rural.
+
+III. Conocer y evaluar los grados de desertificación, y todos los eventos climatológicos y ecológicos que afecten al Estado y sus productores y demás agentes de la sociedad rural, registrando sus causas principales y analizando situaciones que pongan en peligro la seguridad alimentaria.
+
+IV. Los demás datos afines a la materia rural.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
+
+###### Artículo 93 Quáter.
+
+Los datos comprendidos en el Inventario Estatal de Recursos y Necesidades en Materia Agropecuaria serán la base para:
+
+l. La planeación, formulación, ejecución, control y seguimiento de políticas públicas, programas y acciones en materia agropecuaria estatal y municipal.
+
+II. La generación de una zonificación, en base a la vocación natural, características agroclimáticas, que detonen la productividad de las actividades agropecuarias.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 30 DE ENERO DE 2016)</small>
 
 ###### Artículo 94.
 
-La Secretaría promoverá la participación de los interesados, en la elaboración del Padrón Único de Productores Agropecuarios. Este padrón deberá actualizarse cada año y será necesario estar inscrito en él para la participación en los programas e instrumentos de fomento en el sector rural.
+La Secretaría elaborará el Padrón Único de Productores Agropecuarios y demás agentes de la Sociedad Rural. Este padrón deberá actualizarse cada año y será necesario estar inscrito en él para la participación en los programas, acciones, actividades e instrumentos de fomento en el sector rural.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
+
+Tratándose de prestadores de servicios del sector agropecuario, deberán registrar la maquinaria, equipos y demás implementos utilizados en el desarrollo de sus actividades. Cuando los prestadores se dediquen a la perforación de pozos, ya sea para consumo humano o agropecuario, deberán acreditar fehacientemente ante la Secretaría de que cuentan con los permisos necesarios para realizar tal actividad por cada pozo que pretendan perforar.
+
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO ARTÍCULO TERCERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.]</small>
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
+
+El registro generará un cobro por parte del Ejecutivo del Estado. En caso de incumplimiento de lo señalado en la segunda parte del párrafo anterior, el responsable será sancionado con multa de 2000 a 4000 salarios mínimos, con independencia de las demás sanciones administrativas, civiles y penales que correspondan; para la imposición de sanciones, la Secretaría tomará en cuenta la gravedad de la infracción, los daños y perjuicios causados o que se pudieron causar, al igual que los antecedentes, las circunstancias especiales y la situación económica del infractor.
+
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
+
+En caso de reincidencia se incrementará en un 100% el monto de la multa.
 
 ###### Artículo 95.
 
@@ -1286,3 +1632,23 @@ El Sistema Estatal de Mitigación y Adaptación ante el Cambio Climático en el 
 ###### ARTÍCULO CUARTO.
 
 El titular del Poder Ejecutivo, deberá realizar las acciones administrativas necesarias para dar cabal cumplimiento a lo dispuesto en el presente Decreto.
+
+P.O. 30 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 1007/2015 I P.O. MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 6, FRACCIONES DE LA XXIV A XXXIV; 10 FRACCIONES II, XI, XVI, XIX, XXII Y XXIV; 22 FRACCIÓN VII; 24; 30 PÁRRAFOS PRIMERO Y SEGUNDO; 93 Y 94; SE ADICIONAN UNA FRACCIÓN XXXV AL ARTÍCULO 6; UNA IV AL 7; LAS FRACCIONES XXV Y XXVI AL ARTÍCULO 10; UN ARTÍCULO 10 BIS; SIETE FRACCIONES AL ARTÍCULO 24; LOS PÁRRAFOS TERCERO, CUARTO Y QUINTO AL ARTÍCULO 30; UN ARTÍCULO 30 BIS; UN SEGUNDO PÁRRAFO AL ARTÍCULO 31 DEJANDO SUBSISTENTE SU CONTENIDO ACTUAL EN UN TERCER PÁRRAFO; UN ARTÍCULO 93 BIS; UN ARTICULO 93 TER; UN ARTÍCULO 93 QUÁTER; Y LOS PÁRRAFOS SEGUNDO, TERCERO Y CUARTO AL ARTÍCULO 94, TODOS DE LA LEY DE DESARROLLO RURAL INTEGRAL SUSTENTABLE DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Inventario Estatal de Recursos y Necesidades en Materia Agropecuaria, deberá realizarse dentro de los doscientos setenta días siguientes a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO TERCERO.
+
+Por lo que respecta al párrafo tercero del artículo 94, este entrará en vigor a los ciento ochenta días siguientes a la entrada en vigor del presente Decreto.
+
+###### ARTÍCULO CUARTO.
+
+El titular del Poder Ejecutivo, deberá realizar las acciones legislativas y administrativas necesarias para dar cabal cumplimiento a lo dispuesto en el presente Decreto.
