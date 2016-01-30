@@ -4,7 +4,7 @@ identifier: "OAX-codigo-de-procedimientos-civiles-para-el-estado-de-oaxaca-6908"
 country: "mx"
 rank: "codigo"
 publication_date: "1944-11-30"
-last_updated: "2015-05-09"
+last_updated: "2016-01-30"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6908&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "OAX"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2016.
 
 Código publicado en el Suplemento No. 48 del Periódico Oficial del Estado de Oaxaca, el jueves 30 de noviembre de 1944.
 
@@ -6591,6 +6591,14 @@ Será optativo para las partes acudir asesoradas, y en este supuesto, los asesor
 
 En los casos de investigación de la paternidad, por su especial naturaleza, se dará al Ministerio Público la intervención que a su representación corresponda. El Juez deberá proveer lo necesario para el perfeccionamiento de la prueba pericial genética o cualquiera otra que resulte necesaria o idónea.
 
+> <small>(ADICIONADO, P.O. 30 DE ENERO DE 2016)</small>
+
+###### Artículo 965 Bis.
+
+Para el efecto del último párrafo del artículo anterior, el Juez, a petición de parte, solicitará el desahogo de la prueba pericial en genética molecular a las instituciones públicas del Estado, que cuenten con la capacidad científica para ello. Éstas a su vez, tendrán la obligación de practicar dicha prueba genética sin costo alguno. Para el caso de que el resultado de la prueba genética sea negativo, los gastos de la prueba los cubrirá la parte oferente.
+
+Si la persona que deba practicarse la prueba, no asistiere al desahogo de la misma, o se negare a proporcionar la muestra necesaria, hará presumir la filiación que se le atribuye.
+
 > <small>(ADICIONADO, P.O. 23 DE DICIEMBRE DE 1978)</small>
 
 ###### Artículo 966.
@@ -6928,5 +6936,11 @@ SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 TERCERO.- El Tribunal Superior de Justicia y el Consejo de la Judicatura en la esfera de sus atribuciones, expedirán la normatividad necesaria para el cumplimiento de esta reforma, dentro de un plazo de seis meses siguientes a la publicación del presente Decreto.
 
 P.O. 9 DE MAYO DE 2015.
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+P.O. 30 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚM. 1371.- MEDIANTE EL CUAL SE ADICIONA EL ARTICULO 965 BIS AL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE OAXACA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
