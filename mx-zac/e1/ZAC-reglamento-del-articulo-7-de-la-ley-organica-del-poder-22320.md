@@ -4,7 +4,7 @@ identifier: "ZAC-reglamento-del-articulo-7-de-la-ley-organica-del-poder-22320"
 country: "mx"
 rank: "reglamento"
 publication_date: "2001-10-03"
-last_updated: "2002-01-26"
+last_updated: "2016-01-30"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22320&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "ZAC"
 ---
 # REGLAMENTO DEL ARTICULO 7 DE LA LEY ORGANICA DEL PODER JUDICIAL
 
-REGLAMENTO DEL ARTICULO 7 DE LA LEY ORGANICA DEL PODER JUDICIAL
+REGLAMENTO DEL ARTÍCULO 7 DE LA LEY ORGÁNICA DEL PODER JUDICIAL
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 26 DE ENERO DE 2002.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE ENERO DE 2016.
 
 Reglamento publicado en el Suplemento del Periódico Oficial del Estado de Zacatecas, el miércoles 3 de octubre de 2001.
 
@@ -61,13 +61,15 @@ III.- Los que en cualquier tiempo durante su desempeño sufran de incapacidad, f
 
 IV.- Los Magistrados provisionales o interinos que hayan laborado, con tal carácter, por más de la mitad del periodo que debía ejercer el Magistrado sustituido.
 
+> <small>(REFORMADO, P.O. 30 DE ENERO DE 2016)</small>
+
 ###### Artículo 5.
 
-Los Magistrados que concluyan el periodo para el cual fueron nombrados, tendrán derecho a un haber por retiro de carácter vitalicio, equivalente al 100% durante los dos primeros años y del 80% de la percepción económica a que se refiere el artículo anterior hasta su fallecimiento.
+Los magistrados que concluyan el periodo para el cual fueron nombrados, tendrán derecho a un haber por retiro de carácter vitalicio, equivalente al 100% durante los dos primeros años y del 80% de la percepción económica a que se refiere el artículo anterior hasta su fallecimiento.
 
-Cuando los Magistrados se retiren anticipadamente del cargo por renuncia, tendrán derecho al 50% de las remuneraciones a que se refiere el párrafo precedente, siempre y cuando hayan laborado más de la mitad del periodo para el que fueron designados.
+Cuando los magistrados se retiren sin haber cumplido catorce años en el ejercicio del cargo, tendrán derecho a la remuneración a que se refiere el párrafo anterior, de manera proporcional al tiempo de su desempeño, siempre y cuando haya transcurrido, cuando menos, la mitad de dicho periodo.
 
-Los Magistrados que sufran de incapacidad, física o mental, que haga imposible el desempeño de la función tendrán derecho al haber de retiro, en los términos indicados en el párrafo primero, de manera proporcional al tiempo de su desempeño.
+Los magistrados que sufran de incapacidad, física o mental, que haga imposible el desempeño de la función tendrán derecho al haber por retiro en los términos indicados en el párrafo primero, de manera proporcional al tiempo de su desempeño.
 
 ###### Artículo 6.
 
@@ -117,8 +119,14 @@ EL SECRETARIO GENERAL DE ACUERDOS
 
 LIC. JUAN VÍCTOR M. GONZÁLEZ CARRETÓN.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 P.O. 26 DE ENERO DE 2002.
 
 UNICO.- El presente acuerdo de modificación entrara en vigor el día siguiente de su publicación en el Periódico Oficial, Organo del Gobierno del Estado.
+
+P.O. 30 DE ENERO DE 2016.
+
+> <small>[N. DE E. TRANSITORIO POR EL QUE “SE REFORMA EL REGLAMENTO DE LA LEY ORGÁNICA DEL PODER JUDICIAL".]</small>
+
+ÚNICO. La modificación contenida en este acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial, Órgano del Gobierno del estado.
