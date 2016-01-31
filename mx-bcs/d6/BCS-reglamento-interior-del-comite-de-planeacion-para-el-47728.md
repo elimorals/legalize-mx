@@ -4,7 +4,7 @@ identifier: "BCS-reglamento-interior-del-comite-de-planeacion-para-el-47728"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-12-10"
-last_updated: "2011-07-05"
+last_updated: "2016-01-31"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=47728&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCS"
 ---
 # REGLAMENTO INTERIOR DEL COMITE DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-REGLAMENTO INTERIOR DEL COMITE DE PLANEACION PARA EL DESARROLLO DEL ESTADO DE BAJA CALIFORNIA SUR
+REGLAMENTO INTERIOR DEL COMITÉ DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE BAJA CALIFORNIA SUR
 
-ULTIMA REFORMA PUBLICADA EN EL BOLETIN OFICIAL: 5 DE JULIO DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL BOLETÍN OFICIAL: 31 DE ENERO DE 2016.
 
 Reglamento publicado en el Boletín Oficial del Estado de Baja California Sur, el sábado 10 de diciembre de 2005.
 
@@ -257,31 +257,37 @@ IX. El Coordinador General del Comité, proveerá los recursos humanos, técnico
 
 Los Subcomités actuarán como dependencias auxiliares del COPLADEBCS y se clasifican en sectoriales, regionales y especiales.
 
+> <small>(REFORMADO, B.O. 31 DE ENERO DE 2016)</small>
+
 ###### ARTÍCULO DÉCIMO TERCERO.
 
-El COPLADEBCS contará con los siguientes Subcomités Sectoriales.
+El COPLADEBCS contará con los siguientes Subcomités Sectoriales:
 
-- Subcomité Sectorial de Agricultura y Ganadería.
+I. Subcomité Sectorial de Salud;
 
-- Subcomité Sectorial de Pesca y Acuacultura.
+II. Subcomité Sectorial de Educación y Cultura;
 
-- Subcomité Sectorial de Educación.
+III. Subcomité Sectorial de Deporte;
 
-- Subcomité Sectorial de Salud y Asistencia Social.
+IV. Subcomité Sectorial de Desarrollo Urbano, Infraestructura y Transporte;
 
-- Subcomité Sectorial de Industria, Comercio y Minería.
+V. Subcomité Sectorial de Energía y Telecomunicaciones;
 
-- Subcomité Sectorial de Comunicaciones y Transportes.
+VI. Subcomité Sectorial de Desarrollo Agropecuario;
 
-- Subcomité Sectorial de Comercialización.
+VII. Subcomité Sectorial de Pesca y Acuacultura;
 
-- Subcomité Sectorial de Turismo.
+VIII. Subcomité Sectorial de Reactivación Económica y Desarrollo Empresarial;
 
-- Subcomité Sectorial de Ordenamiento Territorial y Desarrollo Urbano.
+IX. Subcomité Sectorial de Turismo;
 
-- Subcomité Sectorial de Empleo y Capacitación.
+X. Subcomité Sectorial de Seguridad Pública y Justicia;
 
-- Subcomité Sectorial de Medio Ambiente, Recursos Naturales y Vida Silvestre.
+XI. Subcomité Sectorial de Desarrollo Social y Humano;
+
+XII. Subcomité Sectorial de Empleo y Justicia Laboral;
+
+XIII. Subcomité Sectorial del Medio Ambiente y Recursos Naturales.
 
 ###### ARTÍCULO DÉCIMO CUARTO.
 
@@ -488,6 +494,14 @@ JORGE ALBERTO VALE SÁNCHEZ
 > <small>N. DE E. A CONTINUACION SE TRANSCRIEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE REGLAMENTO.</small>
 
 B.O. 5 DE JULIO DE 2011.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Boletín Oficial del Gobierno del Estado de Baja California Sur.
+
+B.O. 31 DE ENERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO MEDIANTE EL CUAL SE REFORMA EL REGLAMENTO INTERIOR DEL COMITÉ DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE BAJA CALIFORNIA SUR”.]
 
 ###### ARTÍCULO ÚNICO.
 
