@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2016-01-21"
+last_updated: "2016-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 21 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE FEBRERO DE 2016.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -33,7 +33,7 @@ Miguel Alemán Velazco, Gobernador del Estado Libre y Soberano de Veracruz-Llave
 
 Que la Honorable Quincuagésima Novena Legislatura del Congreso del Estado se ha servido dirigirme la siguiente Ley para su promulgación y publicación:
 
-Al margen un sello con el Escudo Nacional que dice: Estado Unidos Mexicanos.- Poder Legislativo.- Estado Libre y Soberano de Veracruz-Llave.
+Al margen un sello con el Escudo Nacional que dice: Estados Unidos Mexicanos.- Poder Legislativo.- Estado Libre y Soberano de Veracruz-Llave.
 
 La Honorable Quincuagésima Novena Legislatura del Congreso del Estado Libre y Soberano de Veracruz-Llave, en uso de la facultad que le confieren los artículos 33 fracciones I y VIII de la Constitución Política local; 47 de la Ley Orgánica del Poder Legislativo; 103 del Reglamento para el Gobierno Interior del Poder Legislativo; y en nombre del pueblo, expide la siguiente:
 
@@ -1429,7 +1429,11 @@ VII. Colaborar en las campañas de alfabetización emprendidas por las autoridad
 
 VIII. Expedir, gratuitamente, constancias de residencia y buena conducta para su certificación por el Secretario del Ayuntamiento; y
 
-IX. Procurar todo aquello que tienda al bienestar de la comunidad.
+> <small>(ADICIONADA, G.O. 1 DE FEBRERO DE 2016)</small>
+
+IX. Poder solicitar la implementación de programas de vigilancia, prevención, supervisión y de apoyo a la seguridad pública, así como de acciones de promoción de la cultura de la seguridad pública, seguridad vial, protección civil, prevención del delito y adicciones, entre otras; y
+
+X. Procurar todo aquello que tienda al bienestar de la comunidad.
 
 ###### Artículo 66.
 
@@ -3724,6 +3728,14 @@ Segundo. Se derogan las disposiciones que se opongan al presente Decreto.
 G.O. 21 DE ENERO DE 2016.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 846 QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE AGUAS Y EL ARTÍCULO 95 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE, AMBOS ORDENAMIENTOS DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 1 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 852 QUE ADICIONA UNA FRACCIÓN AL ARTÍCULO 65 DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
