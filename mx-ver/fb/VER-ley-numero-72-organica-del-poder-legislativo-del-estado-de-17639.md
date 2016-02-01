@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-72-organica-del-poder-legislativo-del-estado-de-1763
 country: "mx"
 rank: "ley"
 publication_date: "2000-10-06"
-last_updated: "2015-08-10"
+last_updated: "2016-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17639&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 10 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE FEBRERO DE 2016.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 6 de octubre de 2000.
 
@@ -875,9 +875,9 @@ XXXII. Turismo; y
 
 XXXIII. Vigilancia;
 
-> <small>(ADICIONADA, G.O. 12 DE MAYO DE 2015)</small>
+> <small>(REFORMADA, G.O. 1 DE FEBRERO DE 2016)</small>
 
-XXXIV. Derechos de la Niñez.
+XXXIV. Derechos de la Niñez y la Familia.
 
 > <small>(REFORMADO, G.O. 18 DE NOVIEMBRE DE 2011)</small>
 
@@ -1514,3 +1514,11 @@ Primero. El presente Decreto entrará en vigor al día siguiente de su publicaci
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. Los ayuntamientos que dispongan de Código Hacendario Municipal propio deberán proponer al Congreso del Estado las reformas correspondientes, con el propósito de ajustarlos a las disposiciones contenidas en el presente Decreto, en el plazo de treinta días hábiles contados a partir de la entrada en vigor del mismo.
+
+G.O. 1 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 864 QUE REFORMA LA FRACCIÓN XXXIV DEL ARTÍCULO 39 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
