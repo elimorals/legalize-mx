@@ -4,7 +4,7 @@ identifier: "VER-constitucion-politica-del-estado-de-veracruz-de-ignacio-de-6555
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-09-25"
-last_updated: "2015-07-17"
+last_updated: "2016-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6555&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE JULIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE FEBRERO DE 2016.
 
 Constitución publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el 25 de septiembre de 1917.
 
@@ -285,13 +285,41 @@ III. Estar informado de las actividades que lleven a cabo sus representantes pol
 
 IV. Los demás que establezca esta Constitución y la ley.
 
+> <small>(ADICIONADA, G.O. 1 DE FEBRERO DE 2016)</small>
+
+V. Votar, en términos de la ley, en las consultas populares sobre temas de trascendencia estatal, las que se sujetarán a lo siguiente:
+
+a) Serán convocadas por el Congreso del Estado, a petición de:
+
+1. El Gobernador;
+
+2. El equivalente al treinta y tres por ciento de los integrantes del Congreso; o
+
+3. Los ciudadanos, en un número equivalente, al menos, al dos por ciento de los inscritos en la lista nominal de electores, en los términos que señale la ley.
+
+Con excepción de la hipótesis prevista en el numeral 3 de este inciso, la petición deberá ser aprobada por la mayoría del Congreso;
+
+b) Cuando la participación total corresponda, al menos, al cuarenta por ciento de los ciudadanos inscritos en la lista nominal de electores, el resultado será vinculatorio para los poderes Ejecutivo y Legislativo y para las autoridades competentes;
+
+c) No podrán ser objeto de consulta popular la restricción de los derechos humanos reconocidos por la Constitución Federal y la particular del Estado; la desincorporación del Estado de Veracruz de Ignacio de la Llave de la Federación; la materia electoral; los ingresos y gastos del Estado y la seguridad estatal. El Pleno del Tribunal Superior de Justicia, a partir de un proyecto de la Sala Constitucional, resolverá previamente a la convocatoria que realice el Congreso sobre la constitucionalidad de la materia de la consulta, en términos de la ley;
+
+d) El organismo público previsto en el Apartado A del artículo 66 de esta Constitución tendrá a su cargo, en forma directa, la verificación del requisito establecido en el numeral 3 del inciso a) de la presente fracción, así como la organización, desarrollo, cómputo y declaración de resultados, de acuerdo con la ley;
+
+e) La consulta popular se realizará el mismo día de la jornada electoral federal;
+
+f) Las resoluciones del organismo público electoral administrativo podrán ser impugnadas en los términos de lo dispuesto en el Apartado B del artículo 66 de esta Constitución y de la ley; y
+
+g) Las leyes establecerán lo conducente para hacer efectivo lo dispuesto en la presente fracción.
+
 > <small>(REFORMADO, G.O. 3 DE FEBRERO DE 2000)</small>
 
 ###### Artículo 16.
 
 Son obligaciones de los ciudadanos del Estado:
 
-I. Votar en las elecciones estatales y municipales, plebiscitos y referendos;
+> <small>(REFORMADA, G.O. 1 DE FEBRERO DE 2016)</small>
+
+I. Votar en las elecciones estatales y municipales, plebiscitos, referendos y consultas populares, en los términos que señalen esta Constitución y la ley;
 
 II. Inscribirse en el padrón y catastro de su municipalidad, manifestando sus propiedades, la industria, profesión o trabajo de que se subsista; así como también inscribirse en el padrón estatal electoral en los términos que determine la ley;
 
@@ -317,9 +345,13 @@ El Poder Público del Estado es popular, representativo y democrático, y para s
 
 No podrán reunirse dos o más de estos Poderes en una sola persona, asamblea o corporación, ni depositarse el Legislativo en un solo individuo, salvo lo previsto en las fracciones XXXIII del artículo 33 y III del artículo 65 de esta Constitución.
 
-La ley regulará los procedimientos participativos de referendo o plebiscito. En el ámbito estatal, los procedimientos de plebiscito y referendo tendrán como base el proceso legislativo y en el ámbito Municipal el procedimiento tendrá como base el procedimiento edilicio del Cabildo.
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 2016)</small>
 
-Los miembros del Congreso y el Gobernador del Estado tienen derecho de iniciativa en los procedimientos participativos de referendo y plebiscito.
+La ley regulará los procedimientos participativos de referendo, plebiscito y consulta popular. En el ámbito estatal, los procedimientos de plebiscito y referendo tendrán como base el proceso legislativo y en el ámbito municipal el procedimiento tendrá como base el procedimiento edilicio del Cabildo.
+
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 2016)</small>
+
+Los miembros del Congreso y el Gobernador del Estado tienen derecho de iniciativa en los procedimientos participativos de referendo y plebiscito, así como de solicitar la realización de consultas populares, en términos de esta Constitución y la ley.
 
 El referendo será obligatorio en los siguientes casos:
 
@@ -1247,7 +1279,9 @@ V. A los ayuntamientos o concejos municipales, en lo relativo a sus localidades 
 
 VI. A los organismos autónomos de Estado, en lo relativo a la materia de su competencia; y
 
-VII. A los ciudadanos del Estado, mediante iniciativa popular, en los términos que establezca la ley.
+> <small>(REFORMADA, G.O. 1 DE FEBRERO DE 2016)</small>
+
+VII. A los ciudadanos del Estado, en un número equivalente, por lo menos, al cero punto trece por ciento de la lista nominal de electores, mediante iniciativa ciudadana, en los términos que señale la ley.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.O. 18 DE MARZO DE 2003)</small>
 
@@ -1357,7 +1391,7 @@ IV. Presidir la sesión pública y solemne convocada para el solo efecto de decl
 
 V. Nombrar provisionalmente a los magistrados del Tribunal Superior de Justicia y tomarles la protesta de guardar y hacer guardar la Constitución Federal, la del Estado y las leyes que de ambas emanen; así como conceder o negar las solicitudes de licencia o renuncia que le sometan dichos servidores públicos;
 
-(NOTA: EL 9 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 111/2020, DECLARÓ LA OMISIÓN LEGISLATIVA INCONSTITUCIONAL EN LA QUE INCURRE EL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, AL NO ADECUAR LA CONSTITUCIÓN LOCAL Y LEGISLACIÓN SECUNDARIA A LO ESTABLECIDO EN EL ARTÍCULO 115, FRACCIÓN II, INCISO b), DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN RELACIÓN CON EL ARTÍCULO TRANSITORIO SEGUNDO 'DEL DECRETO POR EL QUE SE DECLARA REFORMADO Y ADICIONADO EL ARTÍCULO 115 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS', PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL VEINTITRÉS DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y NUEVE, LA CUAL SURTIÓ EFECTOS EL 6 DE MARZO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
+(NOTA: EL 9 DE MAYO DE 2024, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA CONTROVERSIA CONSTITUCIONAL 111/2020, DECLARÓ LA OMISIÓN LEGISLATIVA INCONSTITUCIONAL EN LA QUE INCURRE EL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, AL NO ADECUAR LA CONSTITUCIÓN LOCAL Y LEGISLACIÓN SECUNDARIA A LO ESTABLECIDO EN EL ARTÍCULO 115, FRACCIÓN II, INCISO b), DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN RELACIÓN CON EL ARTÍCULO TRANSITORIO SEGUNDO ‘DEL DECRETO POR EL QUE SE DECLARA REFORMADO Y ADICIONADO EL ARTÍCULO 115 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS’, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL VEINTITRÉS DE DICIEMBRE DE MIL NOVECIENTOS NOVENTA Y NUEVE, LA CUAL SURTIÓ EFECTOS EL 6 DE MARZO DE 2025 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www.scjn.gob.mx/).
 
 [En cuanto a los efectos de estas declaraciones de invalidez ver las tesis jurisprudenciales que llevan por rubro y datos de identificación: "CONTROVERSIA CONSTITUCIONAL. CUANDO ES PROMOVIDA POR UN MUNICIPIO, LA SENTENCIA QUE DECLARA LA INVALIDEZ DE UNA NORMA GENERAL ESTATAL, SOLO TENDRÁ EFECTOS PARA LAS PARTES". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo: IV, Noviembre de 1996, Tesis: P./J. 72/96, Página: 249); y "CONTROVERSIAS CONSTITUCIONALES. LOS EFECTOS GENERALES DE LA DECLARACIÓN DE INVALIDEZ DE NORMAS GENERALES, DEPENDEN DE LA CATEGORÍA DE LAS PARTES ACTORA Y DEMANDADA". (Novena Época, Instancia: Pleno, Fuente: Semanario Judicial de la Federación y su Gaceta, Tomo IX, Abril de 1999, Materia(s): Constitucional, Tesis: P./J. 9/99, Página: 281)]
 
@@ -1477,13 +1511,13 @@ II. Promulgar, publicar y ejecutar las leyes o decretos aprobados por el Congres
 
 III. Expedir los reglamentos necesarios para la ejecución y cumplimiento de las leyes y decretos aprobados por el Congreso;
 
-IV. Velar por la conservación del orden, tranquilidad y seguridad del Estado, disponiendo al efecto de las corporaciones policiales estatales, y de las municipales en aquellos casos que juzgue como de fuerza mayor o alteración grave del orden público; así como impedir los abusos de la fuerza pública a su cargo en contra de los ciudadanos, haciendo efectiva la responsabilidad en que aquélla incurriera;
+IV. Velar por la conservación del orden, tranquilidad y seguridad del Estado disponiendo al efecto de las corporaciones policiales estatales, y de las municipales en aquellos casos que juzgue como de fuerza mayor o alteración grave del orden público; así como impedir los abusos de la fuerza pública a su cargo en contra de los ciudadanos, haciendo efectiva la responsabilidad en que aquélla incurriera;
 
 V. Promover y fomentar, por todos los medios posibles, la educación pública, la protección a la salud y procurar el progreso y bienestar social en el Estado;
 
 > <small>(REFORMADA, G.O. 17 DE OCTUBRE DE 2005)</small>
 
-VI. Presentar al Congreso del Estado el presupuesto de egresos del año siguiente, proponiendo los ingresos necesarios para cubrirlos, atendiendo a los términos establecidos por el artículo 26, fracción I, inciso a) de esta Constitución;
+VI. Presentar al Congreso del Estado, el presupuesto de egresos del año siguiente, proponiendo los ingresos necesarios para cubrirlos, atendiendo a los términos establecidos por el artículo 26, fracción I, inciso a) de esta Constitución;
 
 VII. Realizar las gestiones necesarias ante el Gobierno Federal a fin de que las transferencias de recursos que se le otorguen al Estado sean proporcionales y acordes a su densidad poblacional y extensión territorial, a efecto de lograr la equidad en la distribución de las mismas;
 
@@ -1647,7 +1681,9 @@ I. Ser veracruzano y haber residido en la Entidad durante los dos años anterior
 
 II. Tener, cuando menos, treinta y cinco años cumplidos al día de la designación;
 
-III. Poseer, al día del nombramiento, título de Licenciado en Derecho expedido por autoridad o institución legalmente facultada, con una antigüedad mínima de cinco años, y contar, preferentemente, con estudios de posgrado, o con experiencia profesional en la judicatura o ejercicio de la profesión no menor de ese lapso;
+(NOTA: EL 10 DE AGOSTO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 79/2015, DECLARÓ LA INVALIDEZ POR EXTENSIÓN DE LA PORCIÓN NORMATIVA DE LA FRACCIÓN III DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 11 DE AGOSTO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+III. Poseer, al día del nombramiento, título de Licenciado en Derecho expedido por autoridad o institución legalmente facultada, CON UNA ANTIGÜEDAD MÍNIMA DE CINCO AÑOS, y contar, preferentemente, con estudios de posgrado, o con experiencia profesional en la judicatura o ejercicio de la profesión no menor de ese lapso;
 
 IV. Gozar de buena reputación, y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente su buena fama, lo inhabilitará para el cargo, cualquiera que haya sido la pena;
 
@@ -1827,15 +1863,21 @@ En caso de presentarse alguna vacante temporal de hasta tres meses, de alguno de
 
 El Tribunal contará con el personal jurídico y administrativo necesario para su funcionamiento.
 
-El sistema de medios de impugnación dará certeza y definitividad a las distintas etapas de los procesos electorales estatales y municipales incluida la elección de agentes y subagentes municipales, así como de los procesos de plebiscito o referendo.
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 2016)</small>
+
+El sistema de medios de impugnación dará certeza y definitividad a las distintas etapas de los procesos electorales estatales y municipales, incluidos los de agentes y subagentes municipales, así como de los procesos de plebiscito, referendo y consulta popular.
 
 La ley fijará las causas de nulidad de las elecciones de gobernador, diputados y ediles, así como los plazos para el desahogo de todas las instancias impugnativas.
 
 Asimismo, los supuestos y las reglas para la realización, en los ámbitos administrativo y jurisdiccional, de recuentos totales o parciales de votación y, en su caso, la declaración de validez y el otorgamiento de constancias en las elecciones de diputados y ediles, así como el cómputo de la elección de gobernador.
 
-El Tribunal Electoral sólo podrá declarar la nulidad de un proceso electoral, referendario o plebiscitario por las causales que expresamente se establezcan en la Ley. La interposición de los medios de impugnación no producirá efectos suspensivos sobre la resolución o el acto impugnado.
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 2016)</small>
 
-Las autoridades estatales y municipales están obligadas a coadyuvar en todo aquello que les sea requerido por el organismo público al que alude este artículo o el Tribunal Electoral. Los servicios notariales que cualquiera de estos organismos soliciten con motivo de los procesos electorales, plebiscitarios o de referendo y elección de agentes y subagentes municipales, serán gratuitos, sin perjuicio de que los organismos electorales cuenten con un área de fedatarios públicos en los términos que fije la ley.
+El Tribunal Electoral sólo podrá declarar la nulidad de un proceso electoral, referendario, plebiscitario y de consulta popular por las causales que expresamente se establezcan en la ley. La interposición de los medios de impugnación no producirá efectos suspensivos sobre la resolución o el acto impugnado.
+
+> <small>(REFORMADO, G.O. 1 DE FEBRERO DE 2016)</small>
+
+Las autoridades estatales y municipales están obligadas a coadyuvar en todo aquello que les sea requerido por el organismo público al que alude este artículo o el Tribunal Electoral. Los servicios notariales que cualquiera de estos organismos soliciten con motivo de los procesos electorales, plebiscitarios, de referendo o de consulta popular, y de elección de agentes y subagentes municipales, serán gratuitos, sin perjuicio de que los organismos electorales cuenten con un área de fedatarios públicos en los términos que fije la ley.
 
 Las leyes establecerán los procedimientos y sanciones en materia electoral que corresponda aplicar a los organismos electorales locales.
 
@@ -12237,6 +12279,10 @@ Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. Dentro del plazo de treinta días hábiles, contado a partir de la entrada en vigor de este Decreto, el Congreso del Estado deberá llevar a cabo la adecuación normativa requerida para su plena aplicación.
 
-## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMA EL ARTÍCULO 1915 DEL CÓDIGO CIVIL FEDERAL".]
+G.O. 1 DE FEBRERO DE 2016.
 
-Único.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 853 QUE ADICIONA Y REFORMA DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto iniciará su vigencia al día siguiente de su publicación en la Gaceta Oficial, órgano de Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan a este Decreto.
