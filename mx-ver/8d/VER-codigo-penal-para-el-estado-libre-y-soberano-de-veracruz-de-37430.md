@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2016-01-13"
+last_updated: "2016-02-01"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 13 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE FEBRERO DE 2016.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -8149,9 +8149,19 @@ VII. Atente contra las políticas y medidas ambientales orientadas a mantener la
 
 VIII. Cause pérdida o menoscabo en cualquier elemento natural o en un ecosistema, por incumplimiento de una obligación legal;
 
-IX. Ocasione incendios en bosques, parques, barrancas y áreas forestales en zonas urbanas; o
+> <small>(REFORMADA, G.O. 1 DE FEBRERO DE 2016)</small>
 
-X. Autorice, ordene o consienta la comisión de cualquiera de las conductas descritas en las fracciones anteriores.
+IX. Ocasione incendios en bosques, parques, barrancas y áreas forestales en zonas urbanas;
+
+(NOTA: EL 19 DE MARZO DE 2019, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL APARTADO IV, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 18/2016, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN X DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS RETROACTIVOS AL 2 DE FEBRERO DE 2016 FECHA EN QUE ENTRÓ EN VIGOR DICHO PRECEPTO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(REFORMADA, G.O. 1 DE FEBRERO DE 2016)</small>
+
+X. HABIÉNDOLE SIDO APLICADA UNA SANCIÓN ADMINISTRATIVA POR HECHO SIMILAR, REINCIDA EN REALIZAR A CIELO ABIERTO LA QUEMA DE LLANTAS, PLÁSTICOS O CUALQUIERA OTRO MATERIAL CONTAMINANTE DEL MEDIO AMBIENTE; O
+
+> <small>(ADICIONADA, G.O. 1 DE FEBRERO DE 2016)</small>
+
+XI. Autorice, ordene o consienta la comisión de cualquiera de las conductas descritas en las fracciones anteriores.
 
 ###### Artículo 260.
 
@@ -9925,7 +9935,13 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO POR EL QUE SE DECLARAN REFORMADAS Y DEROGADAS DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE LA REFORMA POLÍTICA DE LA CIUDAD DE MÉXICO”.]
+G.O. 1 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 610 QUE REFORMA LAS FRACCIONES IX Y X Y ADICIONA LA FRACCIÓN XI AL ARTÍCULO 259 DEL CÓDIGO PENAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE ADICIONA LA FRACCIÓN XXIX-X AL ARTÍCULO 73 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS”.]
 
