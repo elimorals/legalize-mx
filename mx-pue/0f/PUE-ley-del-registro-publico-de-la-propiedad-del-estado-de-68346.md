@@ -4,7 +4,7 @@ identifier: "PUE-ley-del-registro-publico-de-la-propiedad-del-estado-de-68346"
 country: "mx"
 rank: "ley"
 publication_date: "2009-04-15"
-last_updated: "2015-10-19"
+last_updated: "2016-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68346&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2016.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Puebla, el miércoles 15 de abril de 2009.
 
@@ -63,11 +63,15 @@ Para efectos de esta Ley se entenderá por:
 
 I. Dirección General: La Dirección General del Instituto Registral y Catastral del Estado de Puebla;
 
-II. Dirección: La Dirección de Registro Público de la Propiedad del Instituto Registral y Catastral del Estado de Puebla;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2016)</small>
+
+II. Dirección: La Dirección del Registro Público de la Propiedad del Instituto Registral y Catastral del Estado de Puebla;
 
 III. Director General: Al Titular de la Dirección General del Instituto Registral y Catastral del Estado de Puebla;
 
-IV. Director: El Titular de la Dirección de Registro Público de la Propiedad del Instituto Registral y Catastral del Estado de Puebla;
+> <small>(REFORMADA, P.O. 2 DE FEBRERO DE 2016)</small>
+
+IV. Director: El Titular de la Dirección del Registro Público de la Propiedad del Instituto Registral y Catastral del Estado de Puebla;
 
 V. Instituto: El Instituto Registral y Catastral del Estado de Puebla;
 
@@ -85,7 +89,9 @@ XI. Secretaría: La Secretaría de Finanzas y Administración del Gobierno del E
 
 XII. Secretario: El Secretario de Finanzas y Administración del Estado de Puebla; y
 
-XIII. (DEROGADA, P.O. 28 DE JULIO DE 2015)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE FEBRERO DE 2016)</small>
+
+XIII. Subsecretario: El Subsecretario de Ingresos de la Secretaría de Finanzas y Administración.
 
 > <small>(REFORMADO, P.O. 3 DE AGOSTO DE 2011)</small>
 
@@ -185,9 +191,9 @@ VI. No pertenecer, como ministro, a algún culto religioso, y
 
 VII. No haber sido sentenciado por delito doloso que amerite pena corporal.
 
-> <small>(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2016)</small>
 
-Los mismos requisitos se requieren para ser Registrador Público, a excepción de la experiencia mínima, que en este caso será de un año.
+Los mismos requisitos se requieren para ser Registrador Público, a excepción de la experiencia mínima, que en este caso será de un año y la edad mínima, que podrá ser de cuando menos veintitrés años.
 
 > <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
 
@@ -281,11 +287,11 @@ XXII. Notificar los actos administrativos que emitan las autoridades registrales
 
 XXIII. Las demás que le sean conferidas por éste u otros ordenamientos.
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2014)</small>
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 12.
 
-Los Registradores Públicos serán nombrados por el Secretario con sujeción a los procedimientos, planes o programas que al efecto se establezcan para la profesionalización y capacitación del personal del Instituto.
+Los Registradores Públicos serán nombrados por el Director General, previo acuerdo con el Subsecretario y con sujeción a los procedimientos, planes o programas que al efecto se establezcan para la profesionalización y capacitación del personal del Instituto.
 
 > <small>(REFORMADA SU DENOMINACIÓN [N. DE E. ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN], P.O. 13 DE NOVIEMBRE DE 2014)</small>
 
@@ -1310,3 +1316,11 @@ P.O. 19 DE OCTUBRE DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE PUEBLA Y DE LA LEY DE CATASTRO DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
