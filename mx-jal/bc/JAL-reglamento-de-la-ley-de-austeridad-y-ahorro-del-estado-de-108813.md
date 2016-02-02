@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-de-austeridad-y-ahorro-del-estado-de-10881
 country: "mx"
 rank: "reglamento"
 publication_date: "2015-06-27"
-last_updated: "2015-06-27"
+last_updated: "2016-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=108813&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 REGLAMENTO DE LA LEY DE AUSTERIDAD Y AHORRO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, PARA EL PODER EJECUTIVO DEL ESTADO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2016.
 
 Reglamento publicado en la Sección VI al Número 36 del Periódico Oficial del Estado de Jalisco, el sábado 27 de junio de 2015.
 
@@ -197,9 +197,11 @@ III. Para el caso de los organismos públicos descentralizados se entenderá por
 
 ### CAPÍTULO III. De las Adquisiciones
 
+> <small>(REFORMADO, P.O. 2 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 22.
 
-El precio de mercado de mayoreo se determinará por la Secretaría con base en el estudio que ésta realice, con discreción, entre los productores y comercializadores de los productos y servicios requeridos, mediante la suma de la totalidad de precios unitarios al mayoreo ofertados al público por los productores de los bienes y servicios requeridos, y el resultado se dividirá entre el número de productores analizados.
+El precio de mercado de mayoreo se determinará por la Secretaría con base en el estudio de mercado que realice la dependencia requirente, con discreción entre los productores y comercializadores de los productos y servicios requeridos, mediante la suma de la totalidad de precios unitarios al mayoreo ofertados al público por los productores de los bienes y servicios requeridos, y el resultado se dividirá entre el número de productores analizados.
 
 ###### Artículo 23.
 
@@ -342,3 +344,21 @@ HÉCTOR RAFAEL PÉREZ PARTIDA
 Secretario de Planeación, Administración y Finanzas
 
 (RÚBRICA)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE FEBRERO DE 2016.
+
+[N. DE. E. TRANSITORIOS DEL “ACUERDO QUE EXPIDE EL REGLAMENTO DE LA LEY DE ADQUISICIONES Y ENAJENACIONES DEL ESTADO DE JALISCO, Y SE REFORMA EL ARTÍCULO 22 DEL REGLAMENTO DE LA LEY DE AUSTERIDAD Y AHORRO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, PARA EL PODER EJECUTIVO DEL ESTADO”.]
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+SEGUNDO. Se abroga el Reglamento de la Ley de Adquisiciones y Enajenaciones del Gobierno del Estado de Jalisco, publicado en el Periódico Oficial “El Estado de Jalisco” el 13 de julio de 1995.
+
+TERCERO. En tanto las Entidades realizan la actualización de sus políticas respecto de los montos para los procedimientos de adquisiciones de bienes, servicios o arrendamientos, de conformidad a lo establecido por el artículo 18 del Reglamento, deberán continuar aplicando los montos de sus políticas, bases y lineamientos de adquisiciones vigentes.
+
+CUARTO. Para efectos de dar cumplimiento a lo estipulado en la fracción XVI del artículo 6 de la Ley y el 59 y 60 del presente Reglamento, las Dependencias y Entidades deberán remitir por escrito a la Dirección General de Logística los estudios y consultorías generados o solicitados en el último año, a más tardar 60 días naturales posteriores a la entrada en vigor del presente reglamento.
+
+QUINTO. Se derogan todas las disposiciones reglamentarias que se opongan al presente ordenamiento.
+
+SEXTO. Quedan excluidos de la obligación del alta en el Padrón de Proveedores, bajo responsabilidad de la Dependencia solicitante, los proveedores únicos en el ramo de acuicultura.
