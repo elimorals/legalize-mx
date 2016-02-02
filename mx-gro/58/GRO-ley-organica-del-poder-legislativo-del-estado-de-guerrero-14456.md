@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-poder-legislativo-del-estado-de-guerrero-14456
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-06-11"
-last_updated: "2015-08-14"
+last_updated: "2016-02-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 286
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 14 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 11 de junio de 1999.
 
@@ -761,7 +761,7 @@ XXVI. Instructora;
 
 > <small>(REFORMADA, P.O. 10 DE AGOSTO DE 2007)</small>
 
-XXVII. De Vigilancia y Evaluación de la Auditoria General del Estado, y (sic)
+XXVII. De Vigilancia y Evaluación de la Auditoria General del Estado, y
 
 > <small>(ADICIONADA, P.O. 10 DE AGOSTO DE 2007)</small>
 
@@ -774,6 +774,14 @@ XXIX. De Cultura.
 > <small>(ADICIONADA, P.O. 14 DE AGOSTO DE 2015)</small>
 
 XXX. De los Derechos de las Niñas Niños y Adolescentes.
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2016)</small>
+
+XXXI. De Atención y Desarrollo de las Personas con Discapacidad; y
+
+> <small>(ADICIONADA, P.O. 2 DE FEBRERO DE 2016)</small>
+
+XXXII. De Atención y Desarrollo de las Personas Adultas Mayores.
 
 Las Comisiones anteriormente enunciadas, podrán ser incrementadas a juicio del Congreso, y tendrán a su cargo el trámite y la resolución de los asuntos relacionados con su competencia, así como las que expresamente les delegue el Pleno.
 
@@ -1285,6 +1293,60 @@ VIII. Colaborar en la elaboración del informe justificado que rendirá el Repre
 
 IX. Los demás análogos que, a juicio del Presidente del Congreso o de la Comisión permanente, en su caso, le sean turnados.
 
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2016)</small>
+
+###### Artículo 77 Bis 1.
+
+A la Comisión para la Atención y Desarrollo de las Personas con Discapacidad, le corresponde conocer de los asuntos siguientes:
+
+I. De las iniciativas de leyes y decretos o de reformas al marco jurídico ya existente que permita una mayor atención a las personas con discapacidad;
+
+II. De la implementación de políticas públicas por el Ejecutivo del Estado que beneficien al sector y contribuyan a eliminar la discriminación para las personas con discapacidad;
+
+III. Vinculación de este sector con las autoridades para lograr la plena inclusión e integración, en un marco de igualdad de oportunidades, en todos los ámbitos de la vida;
+
+IV. Generación de leyes que brinden igualdad de oportunidades y reconocimiento a los derechos de personas con discapacidad, para el fomento de una nueva cultura social en la materia;
+
+V. Promoción ante las autoridades competentes, de la implementación de programas de adecuación y remodelación de la infraestructura urbana para garantizar la libre circulación de este sector social;
+
+VI. Los relacionados con la protección integral de las personas con discapacidad.
+
+VII. Contribuir a la creación de programas de educación especial y tratamiento específico que rehabilite a niños, niñas, adolescentes y jóvenes con discapacidad;
+
+VIII. Impulsar programas de salud tendientes a la detección, diagnóstico, prevención y tratamiento de cualquier tipo de discapacidad; así como vigilar el estricto cumplimiento de los ya existentes;
+
+IX. Generación de Leyes que fortalezcan la armonía familiar, erradiquen la discriminación y combatan la marginación de las personas con discapacidad;
+
+X. Las demás que le confieran esta Ley y las Leyes aplicables, las que le asigne el Pleno, la Comisión Permanente o la Mesa Directiva.
+
+> <small>(ADICIONADO, P.O. 2 DE FEBRERO DE 2016)</small>
+
+###### Artículo 77 Bis 2.
+
+A la Comisión para la Atención y Desarrollo de las Personas Adultas Mayores, le corresponde conocer de los asuntos siguientes:
+
+I. Analizar y dictaminar, en su caso, sobre las iniciativas de leyes o decretos relacionadas con las personas adultas mayores que no sean materia de otra Comisión;
+
+II. Conocer y dictaminar en su caso, los asuntos relacionados con el cuidado y atención que merecen los adultos mayores;
+
+III. Conocer e impulsar acciones que conlleven a la realización de planes y programas que contribuyan a mejorar la inserción productiva en la sociedad de las personas adultas mayores, para brindarles más oportunidades, así como para que realicen actividades recreativas y deportivas para garantizarles una vida más digna;
+
+IV. Promover la coordinación entre los niveles federal, estatal y municipal, así como con las instituciones y organizaciones especializadas que brindan servicios de promoción y atención a personas adultas mayores, pensionados y jubilados, para proporcionarles un trato más digno;
+
+V. Organizar foros de consulta, a efecto de recibir y realizar propuestas que tiendan a mejorar la aplicación o adecuación de la legislación en materia de personas adultas mayores y lograr el cumplimiento de sus objetivos;
+
+VI. De los servicios asistenciales y de salud a favor de las personas adultos mayores, pensionados y jubilados;
+
+VII. De las iniciativas sobre apoyo social para la dignificación de las personas adultas mayores;
+
+VIII. Vinculación de las personas adultas mayores con las actividades del desarrollo del Estado;
+
+IX. Promoción de eventos para la manifestación de las ideas, capacidades y aptitudes de las personas adultas mayores en todos los órdenes;
+
+X. Realización de actividades que fortalezcan la formación y desarrollo cultural de los adultos mayores, y
+
+XI. Los demás asuntos que le sean turnados por el Pleno del Congreso o la Comisión Permanente, en su caso, que no sean competencia exclusiva de otra comisión.
+
 > <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
 ###### Artículo 78.
@@ -1419,7 +1481,7 @@ Los dictámenes que emitan las Comisiones y Comités en los recesos serán lista
 
 Dentro de la última semana de cada receso, las Comisiones y Comités deberán presentar un informe de las actividades desarrolladas durante el receso y un listado de los asuntos dictaminados.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 21 DE ENERO DE 2011)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 21 DE ENERO DE 2011)</small>
 
 ### Capítulo IV. De las Fracciones Parlamentarias y Representaciones Parlamentarias
 
@@ -1893,7 +1955,7 @@ Los empates en las votaciones se decidirán repitiéndolas, y en caso de que és
 
 Los Diputados deberán excusarse y podrán ser recusados para votar estando en la sesión, cuando tengan interés personal en el asunto y así lo justifiquen ante el Pleno.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 29 DE NOVIEMBRE DE 2005)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 29 DE NOVIEMBRE DE 2005)</small>
 
 ## TITULO SEPTIMO. De las comparecencias, ratificación de nombramientos y aprobación del Plan Estatal de Desarrollo
 
@@ -2367,7 +2429,7 @@ VIII. Certificar documentos en ausencia de los Secretarios;
 
 IX. Fijar en lugar visible del Congreso la relación de asuntos que integren la Agenda Legislativa;
 
-X. Acordar los asuntos de trámite para su archivo, y (sic)
+X. Acordar los asuntos de trámite para su archivo, y
 
 > <small>(ADICIONADA, P.O. 26 DE JUNIO DE 2007)</small>
 
@@ -2375,7 +2437,7 @@ XI.- Distribuir una copia fiel a su original de las proposiciones y los dictáme
 
 XII. Las demás que le encomiende esta Ley, el Pleno o la Comisión Permanente, según corresponda.
 
-> <small>(REFORMADA SU DENOMINACIÓN, P.O. 6 DE NOVIEMBRE DE 2002)</small>
+> <small>(REFORMADA SU DENOMINACION, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
 ### Capítulo IV. De la Auditoria General del Estado
 
@@ -2731,7 +2793,7 @@ Publíquese en el Periódico Oficial del Gobierno del Estado, no requiriendo la 
 
 P.O. 14 DE AGOSTO DE 2015.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 857 POR MEDIO DEL CUAL SE ADICIONA LA FRACCIÓN XXX, AL ARTÍCULO 49 Y EL ARTÍCULO 64 BIS, A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 286”.]
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 857 POR MEDIO DEL CUAL SE ADICIONA LA FRACCIÓN XXX, AL ARTÍCULO 49 Y EL ARTÍCULO 64 BIS, A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 286".]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2744,3 +2806,19 @@ Publíquese en el Periódico Oficial del Gobierno del Estado para el conocimient
 ###### ARTÍCULO TERCERO.
 
 La integración de la Comisión de los Derechos de las Niñas Niños y Adolescentes será designada por la Comisión de Gobierno.
+
+P.O. 2 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 107 POR EL QUE SE ADICIONAN LAS FRACCIONES XXXI y XXXII DEL ARTÍCULO 49 Y LOS ARTÍCULOS 77 BIS 1 Y 77 BIS 2 A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO, NÚMERO 286”.]
+
+###### ARTICULO PRIMERO.
+
+El Presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado de Guerrero o en Portal Web del Congreso del Estado.
+
+###### ARTICULO SEGUNDO.
+
+Remítase al Titular del Poder Ejecutivo, para su conocimiento y efectos legales procedentes.
+
+###### ARTICULO TERCERO.
+
+Publíquese en el Periódico Oficial del Gobierno del Estado para su conocimiento general.
