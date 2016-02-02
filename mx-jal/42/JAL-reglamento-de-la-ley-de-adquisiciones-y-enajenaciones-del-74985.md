@@ -4,7 +4,7 @@ identifier: "JAL-reglamento-de-la-ley-de-adquisiciones-y-enajenaciones-del-74985
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-07-13"
-last_updated: "1995-07-13"
+last_updated: "2016-02-02"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=74985&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "JAL"
 
 REGLAMENTO DE LA LEY DE ADQUISICIONES Y ENAJENACIONES DEL GOBIERNO DEL ESTADO DE JALISCO
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO DE LA LEY DE ADQUISICIONES Y ENAJENACIONES DEL ESTADO DE JALISCO, PUBLICADO EN EL P.O. DE 2 DE FEBRERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2016 (ABROGADO).
 
 Reglamento publicado en la Sección II del Periódico Oficial del Estado de Jalisco, el jueves 13 de julio de 1995.
 
@@ -523,3 +525,21 @@ Ing. Alberto Cárdenas Jiménez
 El C. Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 2 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO QUE EXPIDE EL REGLAMENTO DE LA LEY DE ADQUISICIONES Y ENAJENACIONES DEL ESTADO DE JALISCO; Y REFORMA EL ARTÍCULO 22 DEL REGLAMENTO DE LA LEY DE AUSTERIDAD Y AHORRO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS”.]
+
+PRIMERO. El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
+
+SEGUNDO. Se abroga el Reglamento de la Ley de Adquisiciones y Enajenaciones del Gobierno del Estado de Jalisco, publicado en el Periódico Oficial “El Estado de Jalisco” el 13 de julio de 1995.
+
+TERCERO. En tanto las Entidades realizan la actualización de sus políticas respecto de los montos para los procedimientos de adquisiciones de bienes, servicios o arrendamientos, de conformidad a lo establecido por el artículo 18 del Reglamento, deberán continuar aplicando los montos de sus políticas, bases y lineamientos de adquisiciones vigentes.
+
+CUARTO. Para efectos de dar cumplimiento a lo estipulado en la fracción XVI del artículo 6 de la Ley y el 59 y 60 del presente Reglamento, las Dependencias y Entidades deberán remitir por escrito a la Dirección General de Logística los estudios y consultorías generados o solicitados en el último año, a más tardar 60 días naturales posteriores a la entrada en vigor del presente reglamento.
+
+QUINTO. Se derogan todas las disposiciones reglamentarias que se opongan al presente ordenamiento.
+
+SEXTO. Quedan excluidos de la obligación del alta en el Padrón de Proveedores, bajo responsabilidad de la Dependencia solicitante, los proveedores únicos en el ramo de acuicultura.
