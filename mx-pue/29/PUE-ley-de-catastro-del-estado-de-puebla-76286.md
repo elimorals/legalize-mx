@@ -4,7 +4,7 @@ identifier: "PUE-ley-de-catastro-del-estado-de-puebla-76286"
 country: "mx"
 rank: "ley"
 publication_date: "2010-08-16"
-last_updated: "2015-10-19"
+last_updated: "2016-02-02"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76286&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY DE CATASTRO DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2016.
 
 Ley publicada en la Segunda Sección al Periódico Oficial del Estado de Puebla, el lunes 16 de agosto de 2010.
 
@@ -219,7 +219,9 @@ I. El Gobernador del Estado;
 
 II. El Secretario de Finanzas y Administración;
 
-III. (DEROGADA, P.O. 28 DE JULIO DE 2015)
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE FEBRERO DE 2016)</small>
+
+III. El Subsecretario de Ingresos de la Secretaría de Finanzas y Administración;
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 2014)</small>
 
@@ -1228,3 +1230,11 @@ P.O. 19 DE OCTUBRE DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 2 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DEL REGISTRO PÚBLICO DE LA PROPIEDAD DEL ESTADO DE PUEBLA Y DE LA LEY DE CATASTRO DEL ESTADO DE PUEBLA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
