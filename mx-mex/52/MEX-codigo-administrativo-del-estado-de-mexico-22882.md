@@ -4,7 +4,7 @@ identifier: "MEX-codigo-administrativo-del-estado-de-mexico-22882"
 country: "mx"
 rank: "codigo"
 publication_date: "2001-12-13"
-last_updated: "2016-01-06"
+last_updated: "2016-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=22882&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # CODIGO ADMINISTRATIVO DEL ESTADO DE MEXICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE FEBRERO DE 2016 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ENERO DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 3 DE FEBRERO DE 2016.]</small>
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el jueves 13 de diciembre de 2001.
 
@@ -6903,9 +6903,9 @@ Las dependencias y organismos de la administración pública estatal y municipal
 
 31.- La Secretaría General de Gobierno a través de la Coordinación General de Protección Civil, establecerá el Registro Estatal de Protección Civil, quien verificará y vigilará su correcto funcionamiento, en el que se inscribirá de manera sistematizada la información a que se refiere el artículo anterior.
 
-> <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
+(REFORMADO, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
-El Registro será público, deberá estar disponible en el portal informativo que para tal efecto se establezca dentro del sitio web del Consejo Estatal de Seguridad Ciudadana, no tendrá efectos constitutivos, ni surtirá efectos contra terceros.
+El Registro será público, deberá estar disponible en el portal informativo que para tal efecto se establezca dentro del sitio web de la Comisión Estatal de Seguridad Ciudadana, no tendrá efectos constitutivos, ni surtirá efectos contra terceros.
 
 > <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 19 DE DICIEMBRE DE 2012)</small>
 
@@ -11453,8 +11453,6 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 
 ### CAPITULO I. Disposiciones generales
 
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
-
 ###### Artículo 13.
 
 79.- (DEROGADO, POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY DE CONTRATACIÓN PÚBLICA DEL ESTADO DE MÉXICO Y MUNICIPIOS, G.G. 3 DE MAYO DE 2013)
@@ -11494,8 +11492,6 @@ El incumplimiento de esta obligación será causa de responsabilidad administrat
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
 ### CAPITULO II. De la dirección del periódico oficial
-
-> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
 
 ###### Artículo 14.
 
@@ -11771,8 +11767,6 @@ V. Las personas cuya colaboración se requiera.
 
 ### CAPITULO III. Del funcionamiento del periódico oficial
 
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
-
 ###### Artículo 14.
 
 10.- La información e investigación geográfica comprende:
@@ -12017,8 +12011,6 @@ Las dependencias, entidades y unidades administrativas de los poderes Legislativ
 
 ### CAPITULO IV. Del procedimiento de publicación y circulación
 
-> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
-
 ###### Artículo 14.
 
 34.- El IGECEM integrará y conservará bajo su guarda y custodia el acervo de información geográfica, estadística y catastral del Estado de México, mismo que estará a disposición de los interesados para su consulta, o adquisición conforme a la tarifa que apruebe el Consejo Directivo del IGECEM, con las salvedades y restricciones que establezcan las disposiciones jurídicas aplicables.
@@ -12054,8 +12046,6 @@ La información a la que alude el párrafo anterior deberá estar alineada con l
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
 ### CAPITULO V. De la fe de erratas
-
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
 ###### Artículo 14.
 
@@ -12096,8 +12086,6 @@ V. Apoyar al IGECEM en la promoción y divulgación de los procesos que integran
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 22 DE AGOSTO DE 2005)</small>
 
 ### CAPITULO VI. De las responsabilidades de los servidores públicos
-
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
 
 ###### Artículo 14.
 
@@ -12365,11 +12353,11 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 61.- Cuando los hechos que contravengan las disposiciones de este Libro y su Reglamento, constituyan un delito, se formulará denuncia o querella ante las autoridades competentes, sin perjuicio de aplicar las sanciones administrativas que correspondan.
 
-> <small>(ADICIONADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 5 DE ENERO DE 2006)</small>
+(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO DÉCIMO TERCERO TRANSITORIO DEL DECRETO NÚMERO 57, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
 # LIBRO DECIMO QUINTO. Del Periódico Oficial del Gobierno del Estado de México
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 5 DE ENERO DE 2006)</small>
+(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO DÉCIMO TERCERO TRANSITORIO DEL DECRETO NÚMERO 57, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
 ### CAPITULO PRIMERO. Características que deberán reunir los Proyectos
 
@@ -12377,69 +12365,37 @@ II. Interceptar, interferir, reproducir, sustraer, comercializar, divulgar, alte
 
 ###### Artículo 15.
 
-1.- El presente Libro, tiene por objeto regular la organización, funcionamiento y publicaciones del Periódico Oficial del Gobierno del Estado de México.
-
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+1.- (DEROGADO POR ARTÍCULO DÉCIMO TERCERO TRANSITORIO DEL DECRETO NÚMERO 57, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
 ###### Artículo 15.
 
-2.- El Periódico Oficial “Gaceta del Gobierno”, es el órgano informativo del Gobierno del Estado Libre y Soberano de México, de carácter permanente e interés público, que tiene por objeto publicar las Leyes, Decretos, Reglamentos, Acuerdos, Notificaciones, Avisos, Manuales y demás disposiciones de carácter general de los Poderes del Estado, Organismos Autónomos, Organismos Auxiliares, Ayuntamientos y de particulares.
-
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 2010)</small>
+2.- (DEROGADO POR ARTÍCULO DÉCIMO TERCERO TRANSITORIO DEL DECRETO NÚMERO 57, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
 ###### Artículo 15.
 
-3.- El Periódico Oficial "Gaceta del Gobierno" se editará en la ciudad de Toluca de Lerdo, aún cuando los talleres de impresión se ubiquen en otro municipio, y se repartirá ampliamente en el territorio del Estado.
-
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+3.- (DEROGADO POR ARTÍCULO DÉCIMO TERCERO TRANSITORIO DEL DECRETO NÚMERO 57, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
 ###### Artículo 15.
 
-4.- El Periódico Oficial deberá contener por lo menos los siguientes datos”:
-
-I. La leyenda impresa de “Gobierno del Estado Libre y Soberano de México”;
-
-II. El nombre del Periódico Oficial: “Gaceta del Gobierno”;
-
-> <small>(ADICIONADA, G.G. 24 DE DICIEMBRE DE 2010)</small>
-
-III. El nombre de su Director Técnico;
-
-IV. Fecha y número de publicación;
-
-V. Un sumario de su contenido;
-
-VI. Los escudos Nacional y del Estado de México;
-
-VII. El número de ejemplares impresos.
-
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+4.- (DEROGADO POR ARTÍCULO DÉCIMO TERCERO TRANSITORIO DEL DECRETO NÚMERO 57, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
 ###### Artículo 15.
 
-5.- El Periódico Oficial será publicado los días hábiles de lunes a viernes, sin embargo, podrá ordenarse su publicación cualquier otro día tratándose de asuntos de vencimientos de plazos o cuando las necesidades del servicio lo requieran.
-
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+5.- (DEROGADO POR ARTÍCULO DÉCIMO TERCERO TRANSITORIO DEL DECRETO NÚMERO 57, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
 ###### Artículo 15.
 
-6.- El Periódico Oficial será editado con un tiraje suficiente de ejemplares para garantizar su distribución a los Poderes del Estado, Organismos Autónomos, Organismos Auxiliares, Ayuntamientos y destinarlo a la venta a los particulares.
-
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+6.- (DEROGADO POR ARTÍCULO DÉCIMO TERCERO TRANSITORIO DEL DECRETO NÚMERO 57, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
 ###### Artículo 15.
 
-7.- Para la mejor localización de los documentos publicados en el Periódico Oficial, aparecerá en el mismo, un sumario de su contenido.
-
-Las publicaciones en el Periódico Oficial “Gaceta del Gobierno”, se realizarán en el siguiente orden: Poderes Legislativo, Ejecutivo y Judicial, Organismos Autónomos, Organismos Auxiliares, Ayuntamientos y particulares.
-
-> <small>(ADICIONADO, G.G. 24 DE DICIEMBRE DE 2010)</small>
+7.- (DEROGADO POR ARTÍCULO DÉCIMO TERCERO TRANSITORIO DEL DECRETO NÚMERO 57, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
 ###### Artículo 15.
 
-7 Bis.- El Periódico Oficial del Gobierno del Estado de México, deberá proveerse con recursos tecnológicos y humanos adecuados, así como materiales necesarios para la oportuna elaboración, impresión y distribución en cantidad suficiente para que la sociedad este enterada en tiempo y forma de las disposiciones que nos rigen.
+7 Bis.- (DEROGADO POR ARTÍCULO DÉCIMO TERCERO TRANSITORIO DEL DECRETO NÚMERO 57, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 5 DE ENERO DE 2006)</small>
+(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
 ### CAPITULO SEGUNDO. Planeación, Programación y Presupuestación
 
@@ -12447,57 +12403,21 @@ Las publicaciones en el Periódico Oficial “Gaceta del Gobierno”, se realiza
 
 ###### Artículo 15.
 
-8.- La Consejería Jurídica, es la dependencia del Poder Ejecutivo encargada de ordenar la organización, administración, edición, publicación y circulación del Periódico Oficial del Gobierno del Estado de México.
-
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+8.- (DEROGADO POR ARTÍCULO DÉCIMO TERCERO TRANSITORIO DEL DECRETO NÚMERO 57, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
 ###### Artículo 15.
 
-9.- El responsable del Periódico Oficial, tendrá las siguientes atribuciones:
-
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 2010)</small>
-
-I. Editar, imprimir y publicar la "Gaceta del Gobierno" en tiempo y forma;
-
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 2010)</small>
-
-II. Recibir en custodia la documentación que habrá de publicarse, siempre que cumpla con los requisitos señalados en el artículo 15.14 de este Libro;
-
-III. Compilar cronológicamente los ejemplares;
-
-IV. Elaborar los índices anuales de publicaciones;
-
-> <small>(REFORMADA, G.G. 24 DE DICIEMBRE DE 2010)</small>
-
-V. Distribuir el Periódico Oficial en el Estado de México;
-
-VI. Establecer sistemas de venta y suscripción a los particulares;
-
-VII. Expedir certificaciones de los ejemplares agotados; y
-
-VIII. Las demás que establezcan otras disposiciones jurídicas aplicables.
-
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+9.- (DEROGADO POR ARTÍCULO DÉCIMO TERCERO TRANSITORIO DEL DECRETO NÚMERO 57, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
 ###### Artículo 15.
 
-10.- El responsable del periódico oficial deberá instrumentar los registros de las publicaciones de la Gaceta del Gobierno, entre los cuales deberá contemplar cuando menos los siguientes:
-
-I. Tipo de documento publicado, clasificado por materia;
-
-II. Suscripciones;
-
-III. Control de ejemplares que se doten a dependencias y entidades públicas; y
-
-IV. Donaciones a instituciones privadas.
-
-> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
+10.- (DEROGADO POR ARTÍCULO DÉCIMO TERCERO TRANSITORIO DEL DECRETO NÚMERO 57, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
 ###### Artículo 15.
 
-11.- El Consejero Jurídico proveerá lo necesario a fin de que se publiquen los documentos en estricto apego a lo que establece el presente libro.
+11.- (DEROGADO POR ARTÍCULO DÉCIMO TERCERO TRANSITORIO DEL DECRETO NÚMERO 57, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 5 DE ENERO DE 2006)</small>
+(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
 ### CAPITULO TERCERO. Autorización del Proyecto
 
@@ -12505,57 +12425,29 @@ IV. Donaciones a instituciones privadas.
 
 ###### Artículo 15.
 
-12.- Serán materia de publicación en el Periódico Oficial.
-
-I. Las leyes y decretos expedidos por la Legislatura del Estado, promulgados por el titular del Poder Ejecutivo del Estado;
-
-II. Los reglamentos, decretos, acuerdos y demás disposiciones de carácter general de los poderes Ejecutivo y Judicial, así como de los Organismos Autónomos, Organismos Auxiliares y Ayuntamientos;
-
-III. Los acuerdos y convenios celebrados por el Gobierno del Estado de México, cuando así lo estipulen;
-
-IV. Los actos y resoluciones que la Constitución Política de los Estados Unidos Mexicanos, la propia del Estado de México y las leyes, ordenen que se publiquen;
-
-V. Los actos o resoluciones que así determinen los titulares de los Poderes del Estado de México, u otras autoridades competentes;
-
-VI. Las actas, documentos o avisos de los Organismos Auxiliares de la administración Pública Estatal y municipal, que conforme a la ley, deban ser publicados o se tenga interés en hacerlo; y
-
-VII. (DEROGADA, G.G. 24 DE DICIEMBRE DE 2010)
-
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+12.- (DEROGADO POR ARTÍCULO DÉCIMO TERCERO TRANSITORIO DEL DECRETO NÚMERO 57, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
 ###### Artículo 15.
 
-13.- Para acreditar el contenido de las publicaciones, será suficiente el cotejo del documento presentado con el publicado.
-
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 24 DE DICIEMBRE DE 2010)</small>
+13.- (DEROGADO POR ARTÍCULO DÉCIMO TERCERO TRANSITORIO DEL DECRETO NÚMERO 57, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
 ###### Artículo 15.
 
-14.- En ningún caso se publicará documento alguno, cualquiera que sea su naturaleza jurídica, si no está debidamente respaldado con la firma o las firmas del responsable o responsables de la publicación y el sello correspondiente.
-
-El documento a publicar deberá presentarse en papel membretado, original y copia, y su respaldo magnético, no se aceptarán documentos con enmendaduras, borrones o letras ilegibles.
-
-Por motivos técnicos, en la publicación del documento se podrá omitir la impresión de la firma; en su lugar deberá aparecer, bajo la mención del nombre del firmante, la palabra “rúbrica”, teniendo plena validez jurídica el contenido de la publicación.
-
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+14.- (DEROGADO POR ARTÍCULO DÉCIMO TERCERO TRANSITORIO DEL DECRETO NÚMERO 57, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
 ###### Artículo 15.
 
-15.- En caso de que el documento presentado no se publique, el pago efectuado se considerará para una publicación posterior.
-
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+15.- (DEROGADO POR ARTÍCULO DÉCIMO TERCERO TRANSITORIO DEL DECRETO NÚMERO 57, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
 ###### Artículo 15.
 
-16.- Para los efectos de la venta del Periódico Oficial y el pago de los servicios que éste presta, se atenderá a lo establecido en la Ley de Ingresos del Estado del ejercicio fiscal correspondiente.
-
-> <small>(ADICIONADA, G.G. 24 DE DICIEMBRE DE 2010)</small>
+16.- (DEROGADO POR ARTÍCULO DÉCIMO TERCERO TRANSITORIO DEL DECRETO NÚMERO 57, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
 ###### Artículo 15.
 
-16 Bis.- El Director Técnico y del Periódico Oficial "Gaceta del Gobierno", archivará y mantendrá en custodia los documentos originales que presente el Ejecutivo para su publicación, archivo que resguardará durante un término de cinco años.
+16 Bis.- (DEROGADO POR ARTÍCULO DÉCIMO TERCERO TRANSITORIO DEL DECRETO NÚMERO 57, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 5 DE ENERO DE 2006)</small>
+(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
 ### CAPITULO CUARTO. Análisis Costo-Beneficio
 
@@ -12563,43 +12455,25 @@ Por motivos técnicos, en la publicación del documento se podrá omitir la impr
 
 ###### Artículo 15.
 
-17.- La Consejería Jurídica al recibir los documentos cuya publicación se solicite, acusará el recibo correspondiente, en el que conste el día y hora de su recepción.
-
-> <small>(REFORMADO, G.G. 25 DE FEBRERO DE 2013)</small>
+17.- (DEROGADO POR ARTÍCULO DÉCIMO TERCERO TRANSITORIO DEL DECRETO NÚMERO 57, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
 ###### Artículo 15.
 
-18.- Los documentos serán publicados dentro de los cinco días hábiles siguientes a la fecha de su recepción en la Consejería Jurídica.
-
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+18.- (DEROGADO POR ARTÍCULO DÉCIMO TERCERO TRANSITORIO DEL DECRETO NÚMERO 57, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
 ###### Artículo 15.
 
-19.- Se exceptúan de lo dispuesto por el artículo anterior los documentos siguientes:
-
-I. Leyes y decretos que puedan ser objetados por el Gobernador del Estado, los que serán publicados al día hábil siguiente de la fecha en que fenezca el plazo constitucional respectivo;
-
-II. Aquellos que estén sujetos a plazos legales, cuyo vencimiento requiera de su inmediata publicación;
-
-III. Los que excedan de más de 300 páginas y siempre que no se esté en el supuesto de la fracción anterior, serán publicados en los ocho días hábiles siguientes; y
-
-IV.- Aquellos cuya publicación este determinada por los Poderes Legislativo, Ejecutivo y Judicial.
-
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+19.- (DEROGADO POR ARTÍCULO DÉCIMO TERCERO TRANSITORIO DEL DECRETO NÚMERO 57, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
 ###### Artículo 15.
 
-20.- El periódico deberá ponerse en circulación a más tardar el día hábil siguiente de su edición.
-
-Para los efectos del presente artículo, se entiende que el periódico oficial se pone en circulación cuando se encuentre a disposición del público en general para su consulta electrónica, distribución y venta.
-
-> <small>(ADICIONADO, G.G. 24 DE DICIEMBRE DE 2010)</small>
+20.- (DEROGADO POR ARTÍCULO DÉCIMO TERCERO TRANSITORIO DEL DECRETO NÚMERO 57, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
 ###### Artículo 15.
 
-20 Bis.- La "Gaceta del Gobierno" se podrá consultar y difundir gratuitamente vía internet.
+20 Bis.- (DEROGADO POR ARTÍCULO DÉCIMO TERCERO TRANSITORIO DEL DECRETO NÚMERO 57, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 5 DE ENERO DE 2006)</small>
+(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
 ### CAPITULO QUINTO. De los bienes del Estado y los municipios que podrán usarse en los Proyectos
 
@@ -12607,31 +12481,21 @@ Para los efectos del presente artículo, se entiende que el periódico oficial s
 
 ###### Artículo 15.
 
-21.- Fe de erratas, es la corrección o aclaración de las publicaciones hechas en la Gaceta del Gobierno.
-
-> <small>(ADICIONADO, G.G. 5 DE ENERO DE 2006)</small>
+21.- (DEROGADO POR ARTÍCULO DÉCIMO TERCERO TRANSITORIO DEL DECRETO NÚMERO 57, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
 ###### Artículo 15.
 
-22.- Las fe de erratas serán procedentes, en los siguientes casos:
-
-I.- Por errores de impresión durante la elaboración del Periódico Oficial; y
-
-II.- Por errores en el texto de los documentos originales que contengan la materia de publicación.
-
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 2010)</small>
+22.- (DEROGADO POR ARTÍCULO DÉCIMO TERCERO TRANSITORIO DEL DECRETO NÚMERO 57, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
 ###### Artículo 15.
 
-23.- Cuando se trate de errores de impresión, la Dirección Técnica y del Periódico Oficial "Gaceta del Gobierno", por si o a petición del solicitante de la publicación, ordenará la inserción de la fe de erratas.
-
-> <small>(REFORMADO, G.G. 24 DE DICIEMBRE DE 2010)</small>
+23.- (DEROGADO POR ARTÍCULO DÉCIMO TERCERO TRANSITORIO DEL DECRETO NÚMERO 57, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
 ###### Artículo 15.
 
-24.- Cuando el contenido del instrumento original publicado contenga errores insertos, el Director Técnico y del Periódico Oficial "Gaceta del Gobierno", previa solicitud del responsable de la publicación, y previo el pago de derechos publicará una fe de erratas, en la que conste el error y éste sea subsanado.
+24.- (DEROGADO POR ARTÍCULO DÉCIMO TERCERO TRANSITORIO DEL DECRETO NÚMERO 57, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 5 DE ENERO DE 2006)</small>
+(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
 ### CAPITULO SEXTO. Administración del Proyecto
 
@@ -12639,11 +12503,7 @@ II.- Por errores en el texto de los documentos originales que contengan la mater
 
 ###### Artículo 15.
 
-25.- Los servidores públicos responsables de la publicación del Periódico Oficial, incurrirán en responsabilidad cuando:
-
-I. Dejen de cumplir con las disposiciones que les impone el presente Libro; y
-
-II. Por actos u omisiones que entorpezcan los procedimientos de edición, publicación y circulación del Periódico Oficial.
+25.- (DEROGADO POR ARTÍCULO DÉCIMO TERCERO TRANSITORIO DEL DECRETO NÚMERO 57, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
 > <small>(ADICIONADO CON LOS TÍTULOS, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN, G.G. 21 DE AGOSTO DE 2006)</small>
 
@@ -13585,15 +13445,17 @@ VI. Las disposiciones legales violadas,
 
 VII. Las pruebas que ofrezca;
 
-VII (SIC). La solicitud de suspensión del acto motivo de inconformidad, en su caso.
+> <small>(F. DE E., G.G. 3 DE FEBRERO DE 2016)</small>
+
+VIII. La solicitud de suspensión del acto motivo de inconformidad, en su caso.
 
 > <small>(REFORMADO, G.G. 6 DE ENERO DE 2016)</small>
 
 El inconforme deberá adjuntar a su escrito el documento que acredite su personalidad, cuando no gestione a nombre propio, así como los documentos que ofrezca como prueba. Los documentos antes mencionados podrán presentarse en formato físico o electrónico.
 
-> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+(ADICIONADO, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
-Para el caso de la entrega de documentos electrónicos, si el funcionario encargado de la tramitación de la inconformidad tiene un motivo fundado de que los documentos electrónicos anexados son falsos, deberá requerir al interesado para que un plazo no mayor a cinco días hábiles, el solicitante acuda a la oficina del órgano de control interno correspondiente, para que se realice el cotejo de los documentos físicos con los otorgados vía electrónica.
+Para el caso de la entrega de documentos electrónicos, si el funcionario encargado de la tramitación de la inconformidad tiene un motivo fundado de que los documentos electrónicos anexados son falsos, deberá requerir al interesado para que en un plazo no mayor a cinco días hábiles, el solicitante acuda a la oficina del órgano de control interno correspondiente, para que se realice el cotejo de los documentos físicos con los otorgados vía electrónica.
 
 > <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
 
@@ -15541,9 +15403,9 @@ Los documentos que se requieran podrán entregarse en formato electrónico.
 
 Para el caso de la firma de los planos por parte del perito responsable de obra, este signará con su firma electrónica avanzada o en su caso, sello electrónico cada uno de los documentos en los que se especifique dicho requisito.
 
-> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+(ADICIONADO, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
-Si se realiza la entrega de documentos electrónicos y el funcionario encargado de la tramitación de la licencia tiene un motivo fundado de que dichos instrumentos son falsos, deberá requerir al interesado para que un plazo no mayor a cinco días hábiles, el solicitante acuda a la oficina correspondiente, para que se realice el cotejo de los documentos físicos con los otorgados vía electrónica.
+Si se realiza la entrega de documentos electrónicos y el funcionario encargado de la tramitación de la licencia tiene un motivo fundado de que dichos instrumentos son falsos, deberá requerir al interesado para que en un plazo no mayor a cinco días hábiles, el solicitante acuda a la oficina correspondiente, para que se realice el cotejo de los documentos físicos con los otorgados vía electrónica.
 
 > <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
 
@@ -18513,7 +18375,7 @@ SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 
 G.G. 12 DE AGOSTO DE 2015.
 
-DECRETO NÚMERO 485, POR EL QUE SE ADICIONA LA SECCIÓN CUARTA DENOMINADA "DE LOS PRESTADORES DE SERVICIOS ELECTRÓNICOS Y PROVEEDORES DE TRANSPORTE" Y LOS ARTÍCULOS 7.57 BIS, 7.57 TER.7.57 QUÁTER. 7.57 QUINTUS Y 7.57 SEXIES DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
+DECRETO NÚMERO 485, POR EL QUE SE ADICIONA LA SECCIÓN CUARTA DENOMINADA "DE LOS PRESTADORES DE SERVICIOS ELECTRÓNICOS Y PROVEEDORES DE TRANSPORTE" Y LOS ARTÍCULOS 7.57 BIS, 7.57 TER, 7.57 QUÁTER, 7.57 QUINTUS Y 7.57 SEXIES DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO
 
 PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
 
@@ -18637,6 +18499,10 @@ TERCERO.- Para efecto de los trámites y servicios, las autoridades del Estado e
 
 CUARTO.- Las disposiciones legales y administrativas expedidas en la materia regulada por este Decreto, vigentes al momento de la publicación de la misma, seguirán vigentes en lo que no se opongan a ésta, hasta en tanto se expidan las que deban sustituirlas.
 
+> <small>(F. DE E., G.G. 3 DE FEBRERO DE 2016)</small>
+
+El Ejecutivo del Estado deberá expedir el Reglamento de la Ley de Gobierno Digital del Estado de México y Municipios en un plazo no mayor a ciento veinte días hábiles a la entrada en vigor del presente Decreto.
+
 QUINTO.- El Ejecutivo Estatal deberá presentar a consideración del Consejo durante su primera sesión, los proyectos de reglamentos, para su posterior publicación.
 
 SEXTO.- Las facultades que de conformidad con el presente Decreto deban ejercer las autoridades del Estado, las llevarán a cabo a través de los órganos que correspondan, de conformidad con el ámbito de competencia respectivo.
@@ -18645,15 +18511,19 @@ SÉPTIMO.- Dentro de los treinta días naturales siguientes a la entrada en vigo
 
 OCTAVO.- Dentro del año siguiente a la entrada en vigor de este Decreto, las autoridades del Estado deberán tener en el SEITS la totalidad de sus trámites y servicios.
 
-NOVENO.- En la primera sesión del Consejo se deberán expedir las disposiciones que deberán observar las autoridades del Estado, en el diseño y establecimiento de las medidas de seguridad y de protección de los datos personales que proporcionen las personas al efectuar trámites y servicios electrónicos, la Agenda Digital y los Estándares de Tecnologías de la información, mismos que deberán publicarse en la Gaceta del Gobierno del Estado de México.
+NOVENO.- En la primera sesión del Consejo se deberán expedir las disposiciones que deberán observar las autoridades del Estado, en el diseño y establecimiento de las medidas de seguridad y de protección de los datos personales que proporcionen las personas al efectuar trámites y servicios electrónicos, la Agenda Digital y los Estándares de Tecnologías de la Información, mismos que deberán publicarse en la Gaceta del Gobierno del Estado de México.
 
-DÉCIMO.- Para que las dependencias establecidas en el artículo 66 de la Ley de Gobierno Digital del Estado de México y Municipios sean autoridades certificadoras en el Estado, se debe celebrar un convenio de colaboración entre ellas y el Gobierno del Estado, para efecto de darles tal carácter.
+> <small>(F. DE E., G.G. 3 DE FEBRERO DE 2016)</small>
 
-DÉCIMO PRIMERO.- El RETyS deberá operar en observancia a lo establecido por el presente Decreto en un plazo no mayor a noventa días posteriores a la entrada en vigor del decreto.
+DÉCIMO.- Para que las dependencias establecidas en el artículo 67 de la Ley de Gobierno Digital del Estado de México y Municipios sean autoridades certificadoras en el Estado, se debe celebrar un convenio de colaboración entre ellas y el Gobierno del Estado, para efecto de darles tal carácter.
+
+DÉCIMO PRIMERO.- El RETyS deberá operar en observancia a lo establecido por el presente Decreto, en un plazo no mayor a noventa días posteriores a la entrada en vigor del decreto.
 
 DÉCIMO SEGUNDO.- A partir de la entrada en vigor del presente Decreto, todos los trámites y servicios que prestan las autoridades del Estado podrán ser desahogados de manera electrónica, sin perjuicio de aquellos que ya se realizaban a través de esa vía.
 
-DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, queda abrogada la Ley para el Uso de los Medios Electrónicos del Estado de México publicada en el periódico oficial “Gaceta del Gobierno” el tres de septiembre de dos mil diez.
+> <small>(F. DE E., G.G. 3 DE FEBRERO DE 2016)</small>
+
+DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, queda abrogada la Ley para el Uso de los Medios Electrónicos del Estado de México publicada en el periódico oficial “Gaceta del Gobierno” el tres de septiembre de dos mil diez y se deroga el Libro Décimo Quinto del Código Administrativo del Estado de México publicado en el periódico oficial "Gaceta del Gobierno" el cinco de enero de dos mil seis.
 
 DÉCIMO CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
