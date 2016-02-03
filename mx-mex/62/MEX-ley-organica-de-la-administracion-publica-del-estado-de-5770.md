@@ -4,7 +4,7 @@ identifier: "MEX-ley-organica-de-la-administracion-publica-del-estado-de-5770"
 country: "mx"
 rank: "ley_organica"
 publication_date: "1981-09-17"
-last_updated: "2016-01-06"
+last_updated: "2016-02-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5770&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY ORGANICA DE LA ADMINISTRACION PUBLICA DEL ESTADO DE MEXICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE FEBRERO DE 2016 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ENERO DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 3 DE FEBRERO DE 2016.]</small>
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el jueves 17 de septiembre de 1981.
 
@@ -659,37 +659,41 @@ En los convenios antes mencionados que celebre el Estado se podrán estipular la
 
 LV. Hacer efectivas las garantías otorgadas bajo cualquier modalidad a favor del Gobierno del Estado de México, mediante los procedimientos previstos en las disposiciones legales y reglamentarias aplicables.
 
-> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+(REFORMADA, G.G. 18 DE DICIEMBRE DE 2014) (F. DE E., P.O. 3 DE FEBRERO DE 2016)
 
-LVI. Implementar, desarrollar y fomentar la política de Gobierno Digital y el uso estratégico de tecnologías de la información en el ejercicio de la gestión pública dentro de la Entidad.
+LVI. Determinar el destino final tratándose de tráileres, autobuses y cualquier tipo de remolques, una vez declarados abandonados;
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 6 DE ENERO DE 2016)</small>
+(REFORMADA, G.G. 6 DE ENERO DE 2016) (F. DE E., P.O. 3 DE FEBRERO DE 2016)
 
-LVII. Emitir lineamientos técnicos en materia de Gobierno Digital conforme a lo establecido en los ordenamientos jurídicos aplicables.
+LVII. Implementar, desarrollar y fomentar la política de Gobierno Digital y el uso estratégico de tecnologías de la información en el ejercicio de la gestión pública dentro de la Entidad.
 
-> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
+(ADICIONADA, G.G. 6 DE ENERO DE 2016) (F. DE E., P.O. 3 DE FEBRERO DE 2016)
 
-LVIII. Dar asesoría en materia de Gobierno Digital a los sujetos de la Ley de Gobierno Digital del Estado de México y Municipios, teniendo como base la normatividad aplicable en dicha materia.
+LVIII. Emitir lineamientos técnicos en materia de Gobierno Digital conforme a lo establecido en los ordenamientos jurídicos aplicables.
 
-> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
+(ADICIONADA, G.G. 6 DE ENERO DE 2016) (F. DE E., P.O. 3 DE FEBRERO DE 2016)
 
-LIX. Implementar y administrar el Registro Único de Personas Acreditadas del Estado de México, y realizar todas las acciones que de ello (sic). Para la realización de las acciones establecidas en esta fracción, la Secretaría deberá coordinarse con el Consejo Estatal de Gobierno Digital, aplicando las disposiciones de la normatividad aplicable.
+LIX. Dar asesoría en materia de Gobierno Digital a los sujetos de la Ley de Gobierno Digital del Estado de México y Municipios, teniendo como base la normatividad aplicable en dicha materia.
 
-> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
+(ADICIONADA, G.G. 6 DE ENERO DE 2016) (F. DE E., P.O. 3 DE FEBRERO DE 2016)
 
-LX. Implementar y administrar el Sistema Estatal de Información, Trámites y Servicios, en coordinación con el Consejo Estatal de Gobierno Digital.
+LX. Implementar y administrar el Registro Único de Personas Acreditadas del Estado de México, y realizar todas las acciones que de ello (sic). Para la realización de las acciones establecidas en esta fracción, la Secretaría deberá coordinarse con el Consejo Estatal de Gobierno Digital, aplicando las disposiciones de la normatividad aplicable.
 
-> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
+(ADICIONADA, G.G. 6 DE ENERO DE 2016) (F. DE E., P.O. 3 DE FEBRERO DE 2016)
 
-LXI. Aplicar las políticas en materia de protección de datos personales respecto del almacenamiento y custodia de información que derive del ejercicio de sus atribuciones.
+LXI. Implementar y administrar el Sistema Estatal de Información, Trámites y Servicios, en coordinación con el Consejo Estatal de Gobierno Digital.
 
-> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
+(ADICIONADA, G.G. 6 DE ENERO DE 2016) (F. DE E., P.O. 3 DE FEBRERO DE 2016)
 
-LXII. Promover, formular, instrumentar, ejecutar, dar seguimiento y evaluar las políticas, lineamientos, acciones y programas en materia de Mejora Regulatoria aplicadas al uso estratégico de tecnologías de la información de conformidad con la Ley de Gobierno Digital del Estado de México y Municipios.
+LXII. Aplicar las políticas en materia de protección de datos personales respecto del almacenamiento y custodia de información que derive del ejercicio de sus atribuciones.
 
-> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
+(ADICIONADA, G.G. 6 DE ENERO DE 2016) (F. DE E., P.O. 3 DE FEBRERO DE 2016)
 
-LXIII. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
+LXIII. Promover, formular, instrumentar, ejecutar, dar seguimiento y evaluar las políticas, lineamientos, acciones y programas en materia de Mejora Regulatoria aplicadas al uso estratégico de tecnologías de la información de conformidad con la Ley de Gobierno Digital del Estado de México y Municipios.
+
+(ADICIONADA, G.G. 6 DE ENERO DE 2016) (F. DE E., P.O. 3 DE FEBRERO DE 2016)
+
+LXIV. Las demás que señalen las leyes y reglamentos vigentes en el Estado.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1957,13 +1961,13 @@ G.G. 31 DE DICIEMBRE DE 1986.
 
 ###### ARTICULO UNICO.
 
-Publíquese el presente Decreto en la "Gaceta de Gobierno" del Estado, el cual entrará en vigor el día primero de enero de mil novecientos ochenta y siete.
+Publíquese el presente Decreto en la "Gaceta de Gobierno" del Estado, el cual entrará en vigor el día primero de Enero de Mil Novecientos Ochenta y Siete.
 
 G.G. 8 DE JULIO DE 1987.
 
 ###### ARTICULO UNICO.
 
-Publíquese el presente Decreto en la "Gaceta de Gobierno" del Estado, el cual entrará en vigor el día primero de Enero de Mil Novecientos Ochenta y Siete.
+Este Decreto entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno" del Estado de México.
 
 G.G. 14 DE SEPTIEMBRE DE 1987.
 
@@ -2893,6 +2897,10 @@ TERCERO.- Para efecto de los trámites y servicios, las autoridades del Estado e
 
 CUARTO.- Las disposiciones legales y administrativas expedidas en la materia regulada por este Decreto, vigentes al momento de la publicación de la misma, seguirán vigentes en lo que no se opongan a ésta, hasta en tanto se expidan las que deban sustituirlas.
 
+> <small>(F. DE E., P.O. 3 DE FEBRERO DE 2016)</small>
+
+El Ejecutivo del Estado deberá expedir el Reglamento de la Ley de Gobierno Digital del Estado de México y Municipios en un plazo no mayor a ciento veinte días hábiles a la entrada en vigor del presente Decreto.
+
 QUINTO.- El Ejecutivo Estatal deberá presentar a consideración del Consejo durante su primera sesión, los proyectos de reglamentos para su posterior publicación.
 
 SEXTO.- Las facultades que de conformidad con el presente Decreto deban ejercer las autoridades del Estado, las llevarán a cabo a través de los órganos que correspondan, de conformidad con el ámbito de competencia respectivo.
@@ -2903,13 +2911,17 @@ OCTAVO.- Dentro del año siguiente a la entrada en vigor de este Decreto, las au
 
 NOVENO.- En la primera sesión del Consejo se deberán expedir las disposiciones que deberán observar las autoridades del Estado, en el diseño y establecimiento de las medidas de seguridad y de protección de los datos personales que proporcionen las personas al efectuar trámites y servicios electrónicos, la Agenda Digital y los Estándares de Tecnologías de la Información, mismos que deberán publicarse en la Gaceta del Gobierno del Estado de México.
 
-DÉCIMO.- Para que las dependencias establecidas en el artículo 66 de la Ley de Gobierno Digital del Estado de México y Municipios sean autoridades certificadoras en el Estado, se debe celebrar un convenio de colaboración entre ellas y el Gobierno del Estado, para efecto de darles tal carácter.
+> <small>(F. DE E., P.O. 3 DE FEBRERO DE 2016)</small>
+
+DÉCIMO.- Para que las dependencias establecidas en el artículo 67 de la Ley de Gobierno Digital del Estado de México y Municipios sean autoridades certificadoras en el Estado, se debe celebrar un convenio de colaboración entre ellas y el Gobierno del Estado, para efecto de darles tal carácter.
 
 DÉCIMO PRIMERO.- El RETyS deberá operar en observancia a lo establecido por el presente Decreto en un plazo no mayor a noventa días posteriores a la entrada en vigor del decreto.
 
 DÉCIMO SEGUNDO.- A partir de la entrada en vigor del presente Decreto, todos los trámites y servicios que prestan las autoridades del Estado podrán ser desahogados de manera electrónica, sin perjuicio de aquellos que ya se realizaban a través de esa vía.
 
-DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, queda abrogada la Ley para el Uso de los Medios Electrónicos del Estado de México publicada en el periódico oficial “Gaceta del Gobierno” el tres de septiembre de dos mil diez.
+> <small>(F. DE E., P.O. 3 DE FEBRERO DE 2016)</small>
+
+DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, queda abrogada la Ley para el Uso de los Medios Electrónicos del Estado de México publicada en el periódico oficial “Gaceta del Gobierno” el tres de septiembre de dos mil diez y se deroga el Libro Décimo Quinto del Código Administrativo del Estado de México publicado en el periódico oficial "Gaceta del Gobierno" el cinco de enero de dos mil seis
 
 DÉCIMO CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
