@@ -4,7 +4,7 @@ identifier: "MEX-codigo-financiero-del-estado-de-mexico-y-municipios-13951"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-03-09"
-last_updated: "2015-12-22"
+last_updated: "2016-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=13951&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -26,6 +26,8 @@ CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS
 > <small>N. DE E. PARA CONSULTAR LAS CUOTAS O TARIFAS, APLICABLES DURANTE EL EJERCICIO FISCAL 2016, VÉASE LA INFORMACIÓN FISCAL EMITIDA POR LA SECRETARÍA DE FINANZAS DEL GOBIERNO DEL ESTADO, PUBLICADA EN LA G.G. DE 22 DE DICIEMBRE DE 2015.</small>
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 19 DE NOVIEMBRE DE 2015.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 3 DE FEBRERO DE 2016.]</small>
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el martes 9 de marzo de 1999.
 
@@ -4807,7 +4809,7 @@ $/m3 7.32 6.76 6.05 5.27 4.08 8.78
 
 Para su aplicación se atenderá a la clasificación siguiente:
 
-Grupo 1. Atizapán de Zaragoza, Coacalco de Berriozábal, Cuautitlán, Cuautitlán Izcalli, Ecatepec de Morelos, Naucalpan de Juárez, Tlalnepantla de Baz y Tultitlán.
+Grupo1. Atizapán de Zaragoza, Coacalco de Berriozábal, Cuautitlán, Cuautitlán Izcalli, Ecatepec de Morelos, Naucalpan de Juárez, Tlalnepantla de Baz y Tultitlán.
 
 Grupo 2. Chimalhuacán, Huixquilucan, Ixtapaluca, La Paz, Lerma, Nezahualcóyotl, Nicolás Romero, Tepotzotlán, Toluca y Valle de Chalco Solidaridad.
 
@@ -14797,7 +14799,7 @@ En este caso, deberá integrar en el más próximo informe, de los referidos en 
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
-> <small>(REFORMADO, G.G. 19 DE NOVIEMBRE DE 2015)</small>
+(REFORMADO, G.G. 19 DE NOVIEMBRE DE 2015) (F. DE E., P.O. 3 DE FEBRERO DE 2016)
 
 El Ejecutivo Estatal, al presentar la cuenta pública del ejercicio fiscal que corresponda, informará de las erogaciones que eventualmente se efectúen, de acuerdo a lo dispuesto en este artículo. Asimismo se enviará un informe mensual a la Legislatura de los ingresos excedentes conforme a este artículo.
 
