@@ -4,7 +4,7 @@ identifier: "MEX-codigo-civil-del-estado-de-mexico-25221"
 country: "mx"
 rank: "codigo"
 publication_date: "2002-06-07"
-last_updated: "2016-01-06"
+last_updated: "2016-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25221&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # CODIGO CIVIL DEL ESTADO DE MEXICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE FEBRERO DE 2016 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 CÓDIGO CIVIL DEL ESTADO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ENERO DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA G.G. DE 3 DE FEBRERO DE 2016.]</small>
 
 Código publicado en la Gaceta del Gobierno del Estado de México, el viernes 7 de junio de 2002.
 
@@ -4173,6 +4173,8 @@ Valor máximo del patrimonio familiar
 
 382.- El valor máximo de los bienes afectos al patrimonio familiar, será el equivalente a diez mil veces el salario mínimo general diario, vigente en la zona de ubicación de los inmuebles al momento de constituirse.
 
+> <small>(F. DE E., G.G. 3 DE FEBRERO DE 2016)</small>
+
 Requisitos para constituir patrimonio familiar
 
 > <small>(REFORMADO PRIMER PÁRRAFO, G.G. 6 DE ENERO DE 2016)</small>
@@ -4188,10 +4190,6 @@ II. La existencia de la familia a cuyo favor se va a constituir el patrimonio;
 III. Que son propiedad del constituyente los bienes destinados al patrimonio, y que no reportan gravámenes fuera de las servidumbres;
 
 IV. Que el valor de los bienes que van a constituir el patrimonio no excede del fijado en la ley.
-
-> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
-
-Uso de medios electrónicos
 
 Constitución del patrimonio familiar
 
@@ -8705,9 +8703,9 @@ Concepto de contrato
 
 31.- Los convenios que crean o transfieren obligaciones y derechos, reciben el nombre de contratos.
 
-> <small>(ADICIONADO, G.G. 6 DE ENERO DE 2016)</small>
+(ADICIONADO, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
-Concepto de contrato
+Contrato mediante el uso de medios electrónicos
 
 ###### Artículo 7.
 
@@ -18243,6 +18241,10 @@ TERCERO.- Para efecto de los trámites y servicios, las autoridades del Estado e
 
 CUARTO.- Las disposiciones legales y administrativas expedidas en la materia regulada por este Decreto, vigentes al momento de la publicación de la misma, seguirán vigentes en lo que no se opongan a ésta, hasta en tanto se expidan las que deban sustituirlas.
 
+> <small>(F. DE E., G.G. 3 DE FEBRERO DE 2016)</small>
+
+El Ejecutivo del Estado deberá expedir el Reglamento de la Ley de Gobierno Digital del Estado de México y Municipios en un plazo no mayor a ciento veinte días hábiles a la entrada en vigor del presente Decreto.
+
 QUINTO.- El Ejecutivo Estatal deberá presentar a consideración del Consejo durante su primera sesión, los proyectos de reglamentos, para su posterior publicación.
 
 SEXTO.- Las facultades que de conformidad con el presente Decreto deban ejercer las autoridades del Estado, las llevarán a cabo a través de los órganos que correspondan, de conformidad con el ámbito de competencia respectivo.
@@ -18253,13 +18255,17 @@ OCTAVO.- Dentro del año siguiente a la entrada en vigor de este Decreto, las au
 
 NOVENO.- En la primera sesión del Consejo se deberán expedir las disposiciones que deberán observar las autoridades del Estado, en el diseño y establecimiento de las medidas de seguridad y de protección de los datos personales que proporcionen las personas al efectuar trámites y servicios electrónicos, la Agenda Digital y los Estándares de Tecnologías de la Información, mismos que deberán publicarse en la Gaceta del Gobierno del Estado de México.
 
-DÉCIMO.- Para que las dependencias establecidas en el artículo 66 de la Ley de Gobierno Digital del Estado de México y Municipios sean autoridades certificadoras en el Estado, se debe celebrar un convenio de colaboración entre ellas y el Gobierno del Estado, para efecto de darles tal carácter.
+> <small>(F. DE E., G.G. 3 DE FEBRERO DE 2016)</small>
+
+DÉCIMO.- Para que las dependencias establecidas en el artículo 67 de la Ley de Gobierno Digital del Estado de México y Municipios sean autoridades certificadoras en el Estado, se debe celebrar un convenio de colaboración entre ellas y el Gobierno del Estado, para efecto de darles tal carácter.
 
 DÉCIMO PRIMERO.- El RETyS deberá operar en observancia a lo establecido por el presente Decreto, en un plazo no mayor a noventa días posteriores a la entrada en vigor del decreto.
 
 DÉCIMO SEGUNDO.- A partir de la entrada en vigor del presente Decreto, todos los trámites y servicios que prestan las autoridades del Estado podrán ser desahogados de manera electrónica, sin perjuicio de aquellos que ya se realizaban a través de esa vía.
 
-DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, queda abrogada la Ley para el Uso de los Medios Electrónicos del Estado de México publicada en el periódico oficial “Gaceta del Gobierno” el tres de septiembre de dos mil diez.
+> <small>(F. DE E., G.G. 3 DE FEBRERO DE 2016)</small>
+
+DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, queda abrogada la Ley para el Uso de los Medios Electrónicos del Estado de México publicada en el periódico oficial “Gaceta del Gobierno” el tres de septiembre de dos mil diez y se deroga el Libro Décimo Quinto del Código Administrativo del Estado de México publicado en el periódico oficial "Gaceta del Gobierno" el cinco de enero de dos mil seis.
 
 DÉCIMO CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
