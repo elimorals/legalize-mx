@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-municipal-del-estado-de-morelos-6633"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-01-04"
-last_updated: "2013-11-13"
+last_updated: "2016-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # LEY GENERAL DE HACIENDA MUNICIPAL DEL ESTADO DE MORELOS
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE FEBRERO DE 2016 EN EL PERIÓDICO OFICIAL DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY GENERAL DE HACIENDA MUNICIPAL DEL ESTADO DE MORELOS 1984
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2016.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -913,21 +915,23 @@ Es base del impuesto los pagos por concepto de impuestos y derechos previstos en
 
 La tasa general del impuesto será del 25% sobre la base que señala el Artículo 121 y su aplicación se hará según lo dispone el Artículo 123 de esta Ley.
 
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+
+> <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2016)</small>
+
 ###### ARTICULO 123.
 
-El impuesto adicional referido a:
+El Impuesto adicional referido a:
 
-a).- Impuesto de traslado de dominio, así como de los derechos sobre fraccionamientos se aplicará como sigue:
+I. El 15% se asigna para apoyo a educación;
 
-15% para apoyo a la educación.
+II. El 5% se asigna Pro-Universidad;
 
-5% Pro-Universidad.
+III. El 2.5% se asigna a Fondo de Fomento a la Industrialización; y
 
-5% para fondo de fomento a la industrialización.
+IV. El 2.5% se asigna al FAEDE.
 
-a) (sic).- Los demás impuestos y derechos.
-
-25% General para el Municipio.
+Lo anterior se sumaría al 1.5% de los ingresos propios, participaciones federales e ingresos coordinados con que ya cuenta dicho fondo.
 
 ###### ARTICULO 124.
 
@@ -3606,6 +3610,16 @@ TERCERA.- El presente Decreto entrará en vigor el día 1 de Enero de 2014, prev
 Difúndase en todo el Estado y que los treinta y tres Ayuntamientos lo den a conocer en todas sus comunidades, colonias, fraccionamientos y rancherías, a efecto de que ningún adulto mayor, se quede sin la pensión por no tener su acta de nacimiento; asimismo, publíquese en el portal de internet del Congreso del Estado.
 
 CUARTA.- Se derogan todas las disposiciones de igual o menor rango que se opongan al presente decreto.
+
+P.O. 3 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO CIENTO TRECE POR EL QUE SE REFORMA LA FRACCIÓN III Y SE ADICIONA LA FRACCIÓN IV DEL ARTICULO 123 DE LA LEY GENERAL DE HACIENDA MUNICIPAL DEL ESTADO DE MORELOS".]
+
+PRIMERO.- REMÍTASE EL PRESENTE DECRETO AL TITULAR DEL PODER EJECUTIVO DEL ESTADO PARA LOS EFECTOS QUE INDICA EL ARTÍCULO 44 Y 70, FRACCIÓN XVII DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+SEGUNDO.- EL PRESENTE DECRETO ENTRARA EN VIGOR A PARTIR DEL PRIMERO DE ENERO DEL DOS MIL DIECISÉIS, EN EL PERIÓDICO OFICIAL "TIERRA Y LIBERTAD", ÓRGANO DE DIFUSIÓN OFICIAL DEL GOBIERNO DEL ESTADO DE MORELOS.
+
+TERCERO.- SE DEROGAN TODAS LAS DISPOSICIONES DE IGUAL O MENOR RANGO JERÁRQUICO QUE SE OPONGAN AL PRESENTE DECRETO.
 
 ###### ARTÍCULO PRIMERO.
 
