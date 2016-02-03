@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-movilidad-del-estado-de-mexico-109389"
 country: "mx"
 rank: "ley"
 publication_date: "2015-08-12"
-last_updated: "2015-12-21"
+last_updated: "2016-02-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109389&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY DE MOVILIDAD DEL ESTADO DE MEXICO
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE FEBRERO DE 2016 EN LA G.G. DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE MOVILIDAD DEL ESTADO DE MÉXICO
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DE GOBIERNO: 21 DE DICIEMBRE DE 2015.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA G.G. DE 3 DE FEBRERO DE 2016.]</small>
 
 Ley publicada en la Sección Sexta de la Gaceta del Gobierno del Estado de México, el miércoles 12 de agosto de 2015.
 
@@ -191,11 +191,11 @@ Concurrencia de los municipios. Los municipios deberán realizar las funciones y
 
 Los municipios y la Comisión Estatal de Seguridad Ciudadana coadyuvarán con la Secretaría, para que de oficio o a petición de ésta, mantengan las vías primarias y locales libres de obstáculos u objetos que impidan, dificulten u obstruyan el tránsito peatonal, ciclista o vehicular del sistema integral de movilidad y del servicio público de transporte, en el ámbito de su competencia.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 21 DE DICIEMBRE DE 2015)</small>
+> <small>(F. DE E., G.G. 3 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 9.
 
-Atribuciones municipales en materia de movilidad.
+Atribuciones municipales en materia de movilidad. Los municipios tendrán las atribuciones siguientes en materia de movilidad:
 
 I. Aquellas relacionadas con el Sistema Integral de Movilidad, que deriven de las funciones y servicios públicos establecidos en la Constitución Política de los Estados Unidos Mexicanos y la Constitución Política del Estado Libre y Soberano de México.
 
