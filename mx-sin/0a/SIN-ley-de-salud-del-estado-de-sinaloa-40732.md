@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-salud-del-estado-de-sinaloa-40732"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-03"
-last_updated: "2015-12-18"
+last_updated: "2016-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE SALUD DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 3 de septiembre de 2004.
 
@@ -646,6 +646,10 @@ Las autoridades sanitarias estatales realizarán actividades de vigilancia epide
 ###### Artículo 48.
 
 Las autoridades sanitarias estatales, en coordinación con las autoridades sanitarias federales, elaborarán programas y realizarán campañas temporales o permanentes, para el control y erradicación de aquellas enfermedades transmisibles que constituyan un problema real o potencial para la salubridad general de la República.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2016)</small>
+
+Dentro de ese marco, promoverán el uso del condón, priorizando a las poblaciones de mayor vulnerabilidad y riesgo de contraer la infección del VIH/SIDA y demás enfermedades de transmisión sexual.
 
 ###### Artículo 49.
 
@@ -2978,3 +2982,11 @@ PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Para el debido cumplimiento del presente Decreto, el Ejecutivo del Estado dentro del plazo de ciento ochenta días posteriores al inicio de su vigencia deberá realizar o expedir las disposiciones reglamentarias correspondientes.
 
 TERCERO. El Ejecutivo del Estado realizará las previsiones administrativas y presupuestales necesarias para garantizar el cumplimiento de las disposiciones contenidas en el presente Decreto.
+
+P.O. 3 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 483 QUE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 48 DE LA LEY DE SALUD DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan al presente Decreto.
