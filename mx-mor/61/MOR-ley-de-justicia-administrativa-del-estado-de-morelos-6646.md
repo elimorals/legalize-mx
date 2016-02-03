@@ -4,7 +4,7 @@ identifier: "MOR-ley-de-justicia-administrativa-del-estado-de-morelos-6646"
 country: "mx"
 rank: "ley"
 publication_date: "1990-02-14"
-last_updated: "2013-01-23"
+last_updated: "2016-02-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6646&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "MOR"
 
 LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE ENERO DE 2013.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO TERCERO DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS, PUBLICADA EN EL P.O. DE 3 DE FEBRERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2016 (ABROGADA).
 
 Ley publicada en la Sección Segunda el Periódico Oficial del Estado de Morelos, el miércoles 14 de febrero de 1990.
 
@@ -1391,7 +1393,7 @@ Las resoluciones que dicte el pleno del tribunal constituyen jurisprudencia obli
 
 La jurisprudencia dejará de tener tal carácter, si se llegara a pronunciar una resolución en contrario, en la cual deberá expresarse las razones que sirvan de base para cambiar el criterio sustentado por el pleno del tribunal, y además, se referirán a las consideradas para constituirla.
 
-> <small>(F. DE E., P.O. 7 DE MARZO DE1990)</small>
+> <small>(F. DE E., P.O. 7 DE MARZO DE 1990)</small>
 
 Para establecer nueva jurisprudencia, se aplicarán las reglas prescritas por el artículo anterior.
 
@@ -1413,7 +1415,7 @@ El presidente ordenará se remitan a la Secretaría General de Gobierno, para su
 
 La presente Ley entrará en vigor sesenta días después de su publicación en el Periódico "Tierra y Libertad" órgano oficial del Gobierno del Estado de Morelos.
 
-> <small>(F. DE E., P.O. 7 DE MARZO DE1990)</small>
+> <small>(F. DE E., P.O. 7 DE MARZO DE 1990)</small>
 
 ###### ARTICULO SEGUNDO.
 
@@ -1429,7 +1431,7 @@ Los magistrados que por primera vez integren el tribunal, instalarán dicho cuer
 
 En el segundo año y los subsecuentes, el acta relativa al informe, elección de presidente y adscripción de magistrados a las salas regionales, se levantará por el secretario general de acuerdos del propio tribunal.
 
-> <small>(F. DE E., P.O. 7 DE MARZO DE1990)</small>
+> <small>(F. DE E., P.O. 7 DE MARZO DE 1990)</small>
 
 Acto seguido, el tribunal fijará la adscripción de los magistrados a las salas regionales y nombrará a los servidores públicos de confianza y demás personal del tribunal y de las salas.
 
@@ -1479,7 +1481,7 @@ Alfredo de la Torre y Martínez
 
 P.O. 17 DE JULIO DE 1996.
 
-PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Liberta" órgano de difusión oficial del Gobierno del Estado.
+PRIMERO.- El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión oficial del Gobierno del Estado.
 
 SEGUNDO.- Se derogan todas las disposiciones jurídicas que se opongan a lo establecido en este decreto.
 
@@ -1510,3 +1512,37 @@ Este Decreto iniciará su vigencia el día siguiente de la fecha de su publicaci
 ###### ARTÍCULO TERCERO
 
 Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 3 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE "LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE MORELOS, QUE ABROGA LA DIVERSA PUBLICADA EN EL PERIÓDICO OFICIAL "TIERRA Y LIBERTAD" NÚMERO 3470 DE FECHA 14 DE FEBRERO DEL AÑO 1990".]
+
+PRIMERO.- Una vez aprobada la presente Ley, remítase al Titular del Poder Ejecutivo para su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de difusión del Estado de Morelos, para los efectos señalados en los artículos 44 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad" órgano de difusión del Estado de Morelos.
+
+TERCERO.- Se abroga la Ley de Justicia Administrativa publicada en el Periódico oficial "Tierra y libertad" número 3470 de fecha catorce de febrero de mil novecientos noventa y todas las disposiciones legales y administrativas que se opongan a la presente ley.
+
+CUARTO.- Los juicios iniciados con anterioridad a la entrada en vigor de la presente ley, continuarán tramitándose hasta su resolución final conforme a las disposiciones aplicables vigentes a su inicio, salvo lo que se refiere al cumplimiento y ejecución de las sentencias que se llevaran a cabo conforme a las reglas de esta Ley.
+
+QUINTO.- Por única ocasión se ampliará el periodo del actual Presidente hasta el 31 de diciembre de 2016, siempre y cuando cumpla con los requisitos que señala la Constitución Estadual para ser nombrado Magistrado; a partir del primero de enero de 2017 y hasta el 31 de diciembre de 2018, asumirá la Presidencia del Tribunal de Justicia Administrativa el Titular de la Tercera Sala; a partir del primero de enero de 2019 y hasta el 31 de diciembre de 2020, asumirá la Presidencia del Tribunal el Titular de la Cuarta Sala, y por último a partir del primero de enero de 2021 asumirá la Presidencia del Tribunal de Justicia Administrativa el Titular de la Quinta Sala hasta el 31 de diciembre de 2022; a partir del primero de enero de 2023 se procederá conforme a lo previsto en el artículo 12 de esta Ley.
+
+SEXTO.- El Tribunal de Justicia Administrativa dentro de los noventa días siguientes a la entrada en vigor de la presente Ley, deberá expedir el reglamento interior, mientras tanto continuará rigiendo el reglamento vigente en lo que no se oponga a lo previsto en este ordenamiento.
+
+SÉPTIMO.- El Tribunal de Justicia Administrativa dentro de los ciento veinte días siguientes a la entrada en vigor de la presente Ley, deberá expedir los Manuales de Organización y Procedimientos del Tribunal de Justicia Administrativa.
+
+OCTAVO.- A la entrada en vigor del presente Decreto, por única ocasión, a propuesta que efectué la Junta Política y de Gobierno, el Congreso nombrará por el voto aprobatorio de las dos terceras partes de sus miembros, al Titular del Órgano interno de control del Tribunal de Justicia Administrativa del Estado de Morelos.
+
+NOVENO.- El Pleno del Tribunal de Justicia Administrativa, dentro del ámbito de sus respectivas competencias, a más tardar el treinta de mayo del dos mil dieciséis, emitirán el acuerdo administrativo correspondiente, donde se expidan los formatos y la información que deben contener los mismos, respecto del Acta Entrega Recepción, los cuales deberán ser publicados en el Periódico Oficial "Tierra y Libertad".
+
+DÉCIMO.- El Poder Ejecutivo, el Tribunal de Justicia Administrativa, así como las Universidades Públicas en el Estado, en ejercicio del Servicio Social al que están obligadas, deberán realizar las acciones que correspondan, a efecto de que el Expediente Electrónico, inicie su operación a más tardar el 31 de diciembre de 2018. El Pleno del Tribunal de Justicia Administrativa podrá emitir los acuerdos necesarios para la implementación progresiva del Expediente Electrónico.
+
+DÉCIMO PRIMERO.- El Gobernador Constitucional del Estado, instruirá a la Secretaría de Hacienda del Poder Ejecutivo Estatal para que efectúe las transferencias y adecuaciones presupuestales necesarias para el cumplimiento del presente Decreto y que se considere una partida específica en el Presupuesto de Egresos del Gobierno del Estado para el siguiente Ejercicio Fiscal.
+
+DÉCIMO SEGUNDO.- Notifíquese al Poder Ejecutivo y al Tribunal de Justicia Administrativa las Universidades Públicas del Estado de Morelos para efecto de ejecutar y cumplir todos los actos jurídicos, administrativos y presupuestales que correspondan para el inicio en operación del Expediente Electrónico.
+
+DÉCIMO TERCERO.- Notifíquese a los treinta y tres ayuntamientos en el Estado, a las dependencias del Poder Ejecutivo del Estado, o de sus organismos descentralizados para efecto de que tomen las medidas necesarias respecto del el (sic) inicio en operación del Expediente Electrónico en el Tribunal de Justicia Administrativa del Estado de Morelos.
+
+DÉCIMO CUARTO.- El Pleno del Tribunal de Justicia Administrativa, dentro del ámbito de su competencia, efectuara la difusión de la implementación del Expediente Electrónico y los Formatos de demanda que faciliten en la vía electrónica a los gobernados el acceso a la Justicia administrativa, en especial, en aquellos asuntos de poca cuantía y de gran incidencia de las personas que se encuentren (sic) el Estado de Morelos.
+
+DÉCIMO QUINTO.- El Pleno del Tribunal de Justicia Administrativa, dentro del ámbito de sus respectivas competencias, efectuara las acciones necesarias y suscribirá los instrumentos jurídicos necesarios con el Tribunal Federal de Justicia Fiscal y Administrativa, el Consejo de la Judicatura Federal y o Tribunales similares de otras entidades federativas, para lograr la implementación del Expediente Electrónico.
