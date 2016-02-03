@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-salud-del-estado-de-sinaloa-40732"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-03"
-last_updated: "2015-12-18"
+last_updated: "2016-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE SALUD DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 3 de septiembre de 2004.
 
@@ -646,6 +646,10 @@ Las autoridades sanitarias estatales realizarán actividades de vigilancia epide
 ###### Artículo 48.
 
 Las autoridades sanitarias estatales, en coordinación con las autoridades sanitarias federales, elaborarán programas y realizarán campañas temporales o permanentes, para el control y erradicación de aquellas enfermedades transmisibles que constituyan un problema real o potencial para la salubridad general de la República.
+
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2016)</small>
+
+Dentro de ese marco, promoverán el uso del condón, priorizando a las poblaciones de mayor vulnerabilidad y riesgo de contraer la infección del VIH/SIDA y demás enfermedades de transmisión sexual.
 
 ###### Artículo 49.
 
@@ -2979,15 +2983,13 @@ SEGUNDO. Para el debido cumplimiento del presente Decreto, el Ejecutivo del Esta
 
 TERCERO. El Ejecutivo del Estado realizará las previsiones administrativas y presupuestales necesarias para garantizar el cumplimiento de las disposiciones contenidas en el presente Decreto.
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 249.- POR EL QUE SE REFORMAN LAS FRACCIONES XXII, XXIII Y XXIV DEL ARTÍCULO 102, Y SE ADICIONA LA FRACCIÓN XXV AL ARTÍCULO 102 DE LA LEY DE TURISMO SOSTENIBLE Y DESARROLLO ARTESANAL DEL ESTADO DE MÉXICO, Y SE REFORMAN LAS FRACCIONES I, II Y VIII DEL ARTÍCULO 50, Y SE ADICIONAN LAS FRACCIONES IX, X, XI, XII Y XIII AL ARTÍCULO 50 DE LA LEY DE COMPETITIVIDAD Y ORDENAMIENTO COMERCIAL DEL ESTADO DE MÉXICO”.]
+P.O. 3 DE FEBRERO DE 2016.
 
-PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO: 483 QUE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 48 DE LA LEY DE SALUD DEL ESTADO DE SINALOA”.]
 
-SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
-TERCERO. El Protocolo a que hace referencia la fracción XII del artículo 50 de la Ley de Competitividad y Ordenamiento Comercial del Estado de México, deberá ser emitido por las instancias correspondientes en un periodo no mayor a 180 días hábiles contados a partir de la entrada en vigor del presente Decreto.
-
-G.G. 28 DE ABRIL DE 2026.
+SEGUNDO. Se derogan todas las disposiciones que contravengan al presente Decreto.
 
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 309.- POR EL QUE SE EXPIDE LA LEY DE SALUD DEL ESTADO DE MÉXICO; SE REFORMA LA FRACCIÓN IV DEL ARTÍCULO 8.10 Y SE DEROGA EL LIBRO SEGUNDO DE LA SALUD DEL CÓDIGO ADMINISTRATIVO DEL ESTADO DE MÉXICO; SE REFORMA EL PÁRRAFO TERCERO DE LA FRACCIÓN XI DEL ARTÍCULO 128 DEL CÓDIGO DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE MÉXICO; SE REFORMAN LAS FRACCIONES I, II, VII, VIII Y IX DEL ARTÍCULO 31 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE MÉXICO; SE REFORMAN LOS ARTÍCULOS 13 Y 29 DE LA LEY DE EVENTOS PÚBLICOS DEL ESTADO DE MÉXICO; SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 52 DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO; SE REFORMA EL PÁRRAFO TERCERO DEL ARTÍCULO 72 DE LA LEY DE TURISMO SOSTENIBLE Y DESARROLLO ARTESANAL DEL ESTADO DE MÉXICO; SE REFORMA LA FRACCIÓN XXV BIS DEL ARTÍCULO 31 DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MÉXICO; Y SE REFORMAN LOS INCISOS A) Y H) DE LA FRACCIÓN II DEL ARTÍCULO 9 DE LA LEY QUE REGULA LOS CENTROS DE ASISTENCIA SOCIAL Y LAS ADOPCIONES EN EL ESTADO DE MÉXICO”.]
 
