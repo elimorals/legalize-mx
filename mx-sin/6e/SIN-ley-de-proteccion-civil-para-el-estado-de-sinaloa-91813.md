@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-proteccion-civil-para-el-estado-de-sinaloa-91813"
 country: "mx"
 rank: "ley"
 publication_date: "2013-01-25"
-last_updated: "2013-01-25"
+last_updated: "2016-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91813&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE PROTECCIÓN CIVIL PARA EL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Sinaloa, el viernes 25 de enero de 2013.
 
@@ -367,7 +367,9 @@ X. Fomentar la cultura de protección civil entre la población a través de la 
 
 XI. Realizar actos de inspección, conforme al programa anual que se establezca al efecto, para constatar el cumplimiento de las disposiciones relativas a la constitución de Unidades Internas y a la formulación y aplicación de los Programas Internos a cargo de propietarios, poseedores o encargados de los establecimientos, edificaciones o inmuebles descritos en la fracción I del artículo 130 de esta Ley.
 
-XII. Promover la constitución de un Fondo, con recursos públicos y privados, para hacer frente a los riesgos, emergencias, siniestros o desastres que se generen o sigan revasando (sic) por fenómenos perturbadores dentro del territorio del municipio;
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2016)</small>
+
+XII. Promover la constitución de un Fondo con recursos públicos y privados, destinado a prevenir y hacer frente a los riesgos, emergencias, siniestros, desastres y demás consecuencias que se generen por la ocurrencia de fenómenos perturbadores en el territorio del municipio; así como a dotar de los recursos materiales y humanos suficientes a las Unidades de Protección Civil del municipio.
 
 XIII. Ejecutar las medidas correctivas y de seguridad en el ámbito de su competencia, sin perjuicio de las sanciones que correspondan;
 
@@ -1984,3 +1986,13 @@ Lic. Mario López Valdez
 El Secretario General de Gobierno
 
 C. Gerardo O. Vargas Laderos
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 3 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 501 QUE REFORMA EL ARTÍCULO 14, FRACCIÓN XII, DE LA LEY DE PROTECCIÓN CIVIL DEL ESTADO DE SINALOA”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+SEGUNDO. Se derogan todas las disposiciones que contravengan al presente Decreto.
