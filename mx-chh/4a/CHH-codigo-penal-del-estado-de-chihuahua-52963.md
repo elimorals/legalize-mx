@@ -4,7 +4,7 @@ identifier: "CHH-codigo-penal-del-estado-de-chihuahua-52963"
 country: "mx"
 rank: "codigo"
 publication_date: "2006-12-27"
-last_updated: "2015-12-26"
+last_updated: "2016-02-03"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=52963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "CHH"
 
 CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2016.
 
 Código publicado en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el miércoles 27 de diciembre de 2006.
 
@@ -423,9 +423,15 @@ Las medidas de seguridad que se pueden imponer con arreglo a este Código son:
 
 I. Vigilancia de la autoridad;
 
-II. Tratamiento de inimputables o imputables disminuidos; y
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2016)</small>
+
+II. Tratamiento de inimputables o imputables disminuidos;
 
 III. Tratamiento de deshabituación o desintoxicación.
+
+> <small>(ADICIONADA, P.O. 3 DE FEBRERO DE 2016)</small>
+
+IV. Tratamiento integral especializado enfocado a la erradicación de la violencia en el seno familiar.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -655,6 +661,10 @@ b) Las agrupaciones, en los delitos que afectan intereses colectivos o difusos, 
 
 c) Las comunidades indígenas, en los hechos punibles que impliquen discriminación o genocidio respecto de sus miembros o generen regresión demográfica, depredación de su hábitat, contaminación ambiental, explotación económica o alienación cultural.
 
+> <small>(ADICIONADO, P.O. 3 DE FEBRERO DE 2016)</small>
+
+El Ministerio Público recabará de oficio la información necesaria para determinar oportunamente el reconocimiento a los pueblos, las comunidades indígenas y sus autoridades.
+
 > <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 II. El ofendido:
@@ -881,6 +891,16 @@ Fijación de la pena en delito consumado
 
 Cuando la ley establece una pena se entiende que la impone a los autores o partícipes del delito consumado.
 
+[N. DE E. DEL ANÁLISIS AL DECRETO 1130/2015 I P.O., PUBLICADO EN EL P.O. DE 3 DE FEBRERO DE 2016, SE ADVIERTE QUE EL CONTENIDO Y ESTRUCTURA DEL ARTÍCULO 67 AL QUE ALUDE DICHO DECRETO CORRESPONDE AL CONTENIDO Y ESTRUCTURA PREVIO A LA REFORMA DEL 29 DE NOVIEMBRE DE 2014. SE SUGIERE CONSULTAR LA PÁGINA 783 DEL MENCIONADO DECRETO, QUE A LA LETRA DICE: “Artículo 67. Criterios de individualización
+
+La autoridad judicial, al dictar sentencia condenatoria, determinará la pena y medida de seguridad establecida para cada delito y las individualizará dentro de los límites señalados, en proporción a la gravedad del ilícito, al grado de culpabilidad del agente, y al bien jurídico afectado, tomando en cuenta:
+
+I. a IV. ...
+
+V. Los usos, costumbres y sistema normativo interno, cuando el procesado sea miembro de un pueblo o comunidad indígena;
+
+VI. a X. ...”]
+
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
 ###### Artículo 67.
@@ -956,6 +976,14 @@ VI. Proporcionar datos verídicos para la identificación o localización de otr
 VII. Haber reparado espontáneamente el daño hasta antes de la sentencia, o haber intentado repararlo en su totalidad.
 
 VIII. Ser mayor de setenta años.
+
+> <small>(ADICIONADA, P.O. 3 DE FEBRERO DE 2016)</small>
+
+IX. Ser miembro de una comunidad indígena.
+
+> <small>(ADICIONADA, P.O. 3 DE FEBRERO DE 2016)</small>
+
+X. Someterse el sujeto activo, de manera voluntaria, a un tratamiento integral especializado, en los casos de violencia familiar, siempre que el mismo se realice en instituciones públicas debidamente acreditadas para tal fin.
 
 ###### Artículo 69.
 
@@ -1177,11 +1205,15 @@ II. Residir en determinado lugar, del que no podrá ausentarse sin permiso de la
 
 III. Desempeñar una ocupación lícita;
 
-> <small>(REFORMADA, P.O. 7 DE MAYO DE 2011)</small>
+> <small>(REFORMADA, P.O. 3 DE FEBRERO DE 2016)</small>
 
-IV. Abstenerse de causar molestias al ofendido, a sus familiares o a cualquier interviniente en el juicio; y
+IV. Abstenerse de causar molestias al ofendido, a sus familiares o a cualquier interviniente en el juicio;
 
 V. Acreditar que se ha cubierto la reparación del daño, pudiendo la autoridad judicial fijar plazos para ello, de acuerdo a la situación económica del sentenciado.
+
+> <small>(ADICIONADA, P.O. 3 DE FEBRERO DE 2016)</small>
+
+VI. En su caso, someterse al tratamiento médico o psicológico que el Juez determine, en instituciones públicas o privadas, según sus circunstancias particulares.
 
 ###### Artículo 88.
 
@@ -2197,7 +2229,7 @@ No se actualizará el delito tratándose de programas preventivos, educativos o 
 
 ###### Artículo 184.
 
-A quien pague o prometa pagarle con dinero u otra ventaja de cualquier naturaleza a una persona menor de dieciocho años o a un tercero para que aquélla sostenga relaciones o actos sexuales o eróticos, se le impondrá prisión de uno a tres años y de cincuenta a doscientos días de multa, sin perjuicio de las penas que correspondan por la comisión de otros delitos.
+A quien pague o prometa pagarle con dinero u otra ventaja de cualquier naturaleza a una persona menor de dieciocho años o a un tercero para que aquélla sostenga relaciones o actos sexuales o eróticos, se le impondrá prisión de uno a tres años y de cincuenta a doscientos días multa, sin perjuicio de las penas que correspondan por la comisión de otros delitos.
 
 > <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 10 DE MAYO DE 2014)</small>
 
@@ -2257,7 +2289,9 @@ Si la omisión en el cumplimiento de las obligaciones alimentarias, ocurre en de
 
 ###### Artículo 193.
 
-A quien ejerza algún acto abusivo de poder u omisión intencional, dirigido a dominar, controlar o agredir de manera física, psicológica, patrimonial, económica o sexual, dentro o fuera del domicilio familiar, sobre alguna persona a la que esté, o haya estado unida, por un vínculo matrimonial, de parentesco por consanguinidad, afinidad o civil; tutela o curatela; concubinato; o bien, que haya tenido o tenga alguna relación afectiva o sentimental de hecho, se le impondrá de uno a cinco años de prisión y, en su caso, prohibición de acudir o residir en lugar determinado o tratamiento psicológico, independientemente de las sanciones que correspondan por cualquier otro delito.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE FEBRERO DE 2016)</small>
+
+A quien ejerza algún acto abusivo de poder u omisión intencional, dirigido a dominar, controlar o agredir de manera física, psicológica, patrimonial, económica o sexual, dentro o fuera del domicilio familiar, sobre alguna persona a la que esté, o haya estado unida, por un vínculo matrimonial, de parentesco por consanguinidad, afinidad o civil; tutela o curatela; concubinato; o bien, que haya tenido o tenga alguna relación afectiva o sentimental de hecho, se le impondrá de uno a cinco años de prisión y el tratamiento integral especializado enfocado a la erradicación de la violencia familiar.
 
 Los actos de violencia a que se refiere el presente artículo se entenderán en los términos de la Ley Estatal del Derecho de las Mujeres a una Vida Libre de Violencia.
 
@@ -4726,6 +4760,22 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 P.O. 26 DE DICIEMBRE DE 2015.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1056/2015 I P.O. MEDIANTE EL CUAL SE REFORMA EL ARTICULO 371 DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1130/2015 I P.O. MEDIANTE EL CUAL SE REFORMA EL ARTÍCULO 67, FRACCIÓN V, Y SE ADICIONAN LOS ARTÍCULOS 46, FRACCIÓN I, INCISO C) CON UN SEGUNDO PÁRRAFO Y 68 APARTADO B CON UNA FRACCIÓN IX, TODOS DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 3 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1134/2015 I P.O. MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 30, FRACCIÓN II; 87 FRACCIÓN IV Y 193 EN SU PRIMER PÁRRAFO; Y SE ADICIONAN LOS ARTÍCULOS 30, CON UNA FRACCIÓN IV; 68 EN SU INCISO B, CON UNA FRACCIÓN X; Y 87 CON UNA FRACCIÓN VI, TODOS DEL CÓDIGO PENAL DEL ESTADO DE CHIHUAHUA”.]
 
 ###### ARTÍCULO ÚNICO.
 
