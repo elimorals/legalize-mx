@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-responsabilidades-de-los-servidores-publicos-del-6118"
 country: "mx"
 rank: "ley"
 publication_date: "1990-09-11"
-last_updated: "2016-01-06"
+last_updated: "2016-02-03"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6118&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MEX"
 ---
 # LEY DE RESPONSABILIDADES DE LOS SERVIDORES PUBLICOS DEL ESTADO Y MUNICIPIOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 3 DE FEBRERO DE 2016 EN LA GACETA DEL GOBIERNO DEL ESTADO DE MÉXICO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ENERO DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO EL 3 DE FEBRERO DE 2016.]</small>
 
 Ley publicada en la Gaceta del Gobierno del Estado de México, el martes 11 de septiembre de 1990.
 
@@ -543,17 +543,21 @@ XXXII. Abstenerse de remitir vehículos a cualquier depósito de vehículos conc
 
 XXXIII. Abstenerse de solicitar requisitos, cargas tributarias o cualquier otro concepto adicional no previsto en la legislación aplicable, que tengan por objeto condicionar la expedición de licencias de funcionamiento para unidades económicas o negocios de bajo riesgo, y
 
-> <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
+(REFORMADA, G.G. 24 DE AGOSTO DE 2015) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
-XXXIV. Cumplir con las disposiciones en materia de Gobierno Digital que impongan la Ley de la materia, su reglamento y demás disposiciones aplicables a la materia.
+XXXIV. Abstenerse de celebrar o autorizar pedidos o contratos relacionados con adquisiciones, enajenaciones, arrendamientos y mantenimiento de bienes muebles e inmuebles, contratación de servicios, así como de obra pública y servicios relacionados con la misma, o de recibir estas propuestas, cuando se trate de proveedores, contratistas o particulares que se encuentren sujetos a procedimiento por responsabilidad administrativa resarcitoria, o bien, se les haya impuesto dicha responsabilidad o no hayan realizado la indemnización respectiva. Así como abstenerse de contratar a quienes estén sujetos a una responsabilidad administrativa resarcitoria o se encuentren pendientes de cumplir con la sanción disciplinaria económica. Para este fin, el servidor público deberá verificar y acreditar documentalmente la que realizó las consultas requeridas en los registros oficiales.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], G.G. 6 DE ENERO DE 2016)</small>
+(REFORMADA, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
-XXXV. Utilizar las medidas de seguridad informática y protección de datos e información personal recomendada por las instancias competentes.
+XXXV. Cumplir con las disposiciones en materia de Gobierno Digital que impongan la Ley de la materia, su reglamento y demás disposiciones aplicables a la materia.
 
-> <small>(ADICIONADA, G.G. 6 DE ENERO DE 2016)</small>
+(ADICIONADA, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
 
-XXXVI. Las demás que le impongan las leyes, reglamentos o disposiciones administrativas aplicables.
+XXXVI. Utilizar las medidas de seguridad informática y protección de datos e información personal recomendada por las instancias competentes.
+
+(ADICIONADA, G.G. 6 DE ENERO DE 2016) (F. DE E., G.G. 3 DE FEBRERO DE 2016)
+
+XXXVII. .Las demás que le impongan las leyes, reglamentos o disposiciones administrativas aplicables.
 
 > <small>(REFORMADO, G.G. 21 DE DICIEMBRE DE 1998)</small>
 
