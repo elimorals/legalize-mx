@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-banco-de-mexico-1152"
 country: "mx"
 rank: "reglamento"
 publication_date: "1994-09-30"
-last_updated: "2015-12-28"
+last_updated: "2016-02-04"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=1152&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1994-09-23"
 
 REGLAMENTO INTERIOR DEL BANCO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 4 DE FEBRERO DE 2016.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 30 de septiembre de 1994.
 
@@ -165,9 +165,9 @@ Dirección Jurídica
 
 Unidad de Transparencia
 
-> <small>(ADICIONADO, D.O.F. 28 DE DICIEMBRE DE 2015)</small>
+> <small>(REFORMADO, D.O.F. 4 DE FEBRERO DE 2016)</small>
 
-Además de lo anterior, para el cumplimiento de los fines del fideicomiso público del Estado que establece el párrafo sexto del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos y la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, el Banco contará con una Coordinación Ejecutiva del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y una Coordinación Administrativa del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, que dependerán del Gobernador, así como una Subcoordinación Jurídica del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y una Contraloría Interna del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, que dependerán de las unidades administrativas a que se refiere este Reglamento Interior.
+Además de lo anterior, para el cumplimiento de los fines del fideicomiso público del Estado que establece el párrafo sexto del artículo 28 de la Constitución Política de los Estados Unidos Mexicanos y la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, el Banco contará con una Coordinación Ejecutiva del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y una Coordinación Administrativa del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, que dependerán del Gobernador, así como de una Subcoordinación Ejecutiva del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, una Subcoordinación Jurídica del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo y una Contraloría Interna del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, que dependerán de las unidades administrativas a que se refiere este Reglamento Interior. Las atribuciones encomendadas por este Reglamento a los titulares de las unidades administrativas mencionadas en este párrafo podrán ser ejercidas por ellos en forma individual.
 
 > <small>(REFORMADO, D.O.F. 31 DE OCTUBRE DE 2013)</small>
 
@@ -470,6 +470,10 @@ A esta Dirección General estarán adscritas las Direcciones de Comunicación y 
 ARTICULO 15 BIS 3.- La Coordinación Ejecutiva del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, estará a cargo del Coordinador Ejecutivo nombrado por el Comité Técnico de dicho fideicomiso conforme a lo señalado en la Ley del Fondo Mexicano del Petróleo.
 
 La Coordinación Ejecutiva del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, tendrá las atribuciones que le confiera expresamente la Ley del Fondo Mexicano del Petróleo, el contrato constitutivo del propio fideicomiso, y las demás disposiciones aplicables.
+
+> <small>(ADICIONADO, D.O.F. 4 DE FEBRERO DE 2016)</small>
+
+Para el desempeño de las funciones encomendadas al Coordinador Ejecutivo, este contará con el apoyo de la Subcoordinación Ejecutiva del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo.
 
 Como excepción a lo dispuesto en el primer párrafo de los artículos 8 y 66 del presente Reglamento Interior, para el ejercicio de las atribuciones señaladas en esta fracción, el Coordinador Ejecutivo será suplido, en sus ausencias, por el funcionario que designe el Comité Técnico del Fondo Mexicano del Petróleo, a propuesta del Gobernador del Banco de México. El funcionario que ejerza actos en suplencia deberá indicar que actúa en los términos de este artículo.
 
@@ -2382,3 +2386,11 @@ Los expedientes en trámite, archivo, mobiliario y, en general, equipo a cargo d
 QUINTO. Las modificaciones a la estructura orgánica de las unidades administrativas del Banco de México que deriven de la entrada en vigor de la presente reforma no generarán incremento en el presupuesto autorizado para recursos humanos del Banco para el siguiente ejercicio fiscal, toda vez que el presupuesto correspondiente a la estructura a que se refiere el presente artículo deberá elaborarse bajo el supuesto de que las disponibilidades presupuestales serán restituidas por los honorarios fiduciarios cobrados por el Banco con cargo al Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, de conformidad con la Ley del Fondo y el contrato constitutivo de dicho fideicomiso.
 
 SEXTO. En el evento que, de conformidad con las disposiciones de la Ley del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, el nombramiento del Coordinador Ejecutivo del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, recaiga en la persona que, a su vez, ocupe el cargo de Coordinador Administrativo del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, las facultades de la Coordinación Ejecutiva y de la Coordinación Administrativa del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo, señaladas en este Reglamento Interior quedarán referidas a una misma unidad administrativa, para efectos de administración del Banco de México, lo cual se deberá publicar en el Diario Oficial de la Federación y surtirá efectos al día siguiente de la publicación. En este supuesto, el titular de dicha unidad deberá especificar el carácter en que intervenga en cada acto que celebre, ya sea como Coordinador Ejecutivo del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo o como Coordinador Administrativo del Fondo Mexicano del Petróleo para la Estabilización y el Desarrollo.
+
+D.O.F. 4 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LAS “REFORMAS AL REGLAMENTO INTERIOR DEL BANCO DE MÉXICO”.]
+
+PRIMERO. Las presentes reformas al Reglamento Interior del Banco de México entrarán en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. La totalidad de los actos jurídicos realizados durante la vigencia de los artículos modificados, conservarán todo su valor y fuerza legales.
