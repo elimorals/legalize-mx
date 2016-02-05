@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-los-trabajadores-del-estado-de-queretaro-67957"
 country: "mx"
 rank: "ley"
 publication_date: "2009-03-20"
-last_updated: "2015-12-10"
+last_updated: "2016-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67957&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 20 de marzo de 2009.
 
@@ -1527,6 +1527,10 @@ A la demanda se acompañarán los documentos que acrediten la personalidad del r
 
 Para acreditar la personalidad como apoderado se aplicarán las normas que al respecto establece la Ley Federal del Trabajo.
 
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2016)</small>
+
+Cuando se trate de una persona indígena la que inicie el procedimiento, se le proporcionara de oficio y gratuitamente un traductor o intérprete, el cual le va asistir desde el inicio de la demanda hasta el laudo, este va hacer designado por la Junta de Conciliación y Arbitraje quien deberá solicitarlo a la Coordinación de Actuarios y Peritos del Tribunal Superior de Justicia del Estado de Querétaro.
+
 ###### Artículo 170.
 
 Tan pronto reciba la promoción o demanda, el Tribunal de Conciliación y Arbitraje, citará a la audiencia de conciliación, demanda y excepciones, ofrecimiento y admisión de pruebas la cual deberá efectuarse dentro de los quince días siguientes al que se haya recibido la demanda. Ordenándose se notifique personalmente a las partes, con diez días de anticipación a la fecha de la audiencia referida, se le tendrá por inconforme por todo arreglo, por no contestada la demanda en sentido afirmativo y por perdido su derecho para ofrecer pruebas; así mismo se apercibirá al actor de que en caso de no comparecer se le tendrá por perdidos sus derechos inherentes a esa etapa procesal.
@@ -1830,3 +1834,11 @@ P.O. 10 DE DICIEMBRE DE 2015.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Remítase la presente Ley al titular del Poder Ejecutivo del Estado de Querétaro, para su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+P.O. 5 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS HUMANOS DEL ESTADO DE QUERÉTARO; LEY DE ENJUICIAMIENTO DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE QUERÉTARO, LEY PARA PREVENIR, INVESTIGAR, SANCIONAR Y REPARAR LA DESAPARICIÓN DE PERSONAS EN EL ESTADO DE QUERÉTARO, LEY DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE QUERÉTARO, LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO, LEY DE DERECHOS Y CULTURA DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE QUERÉTARO, CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERÉTARO, LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE QUERÉTARO Y LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro, "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
