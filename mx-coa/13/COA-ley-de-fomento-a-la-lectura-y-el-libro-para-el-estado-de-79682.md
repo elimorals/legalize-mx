@@ -4,7 +4,7 @@ identifier: "COA-ley-de-fomento-a-la-lectura-y-el-libro-para-el-estado-de-79682"
 country: "mx"
 rank: "ley"
 publication_date: "2011-02-15"
-last_updated: "2015-10-27"
+last_updated: "2016-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=79682&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,15 +21,17 @@ state: "COA"
 ---
 # LEY DE FOMENTO A LA LECTURA Y EL LIBRO PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 4 DE MARZO DE 2016 EN EL P.O. DEL ESTADO DE COAHUILA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 LEY DE FOMENTO A LA LECTURA Y EL LIBRO PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2016.
 
 Ley publicada en la Primera Sección al Periódico Oficial del Estado de Coahuila, el martes 15 de febrero de 2011.
 
-EL C. LIC. JORGE JUAN TORRES LÓPEZ, GOBERNADOR INTERINO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUlLA DE ZARAGOZA, A SUS HABITANTES SABED:
+EL C. LIC. JORGE JUAN TORRES LÓPEZ, GOBERNADOR INTERINO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA, A SUS HABITANTES SABED:
 
-QUE EL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUlLA DE ZARAGOZA;
+QUE EL CONGRESO DEL ESTADO INDEPENDIENTE, LIBRE Y SOBERANO DE COAHUILA DE ZARAGOZA;
 
 DECRETA:
 
@@ -85,13 +87,17 @@ VIII. Programa Estatal: Programa Estatal para el Fomento de la Lectura y el Libr
 
 IX. Secretaría de Educación: Secretaría de Educación del Estado de Coahuila de Zaragoza.
 
-### CAPÍTULO II. DE LA COORDINACIÓN SOCIAL E INTERINSTITUCIONAL PARA EL FOMENTO DE LA LECTURA Y EL LIBRO COAHUlLENSE
+### CAPÍTULO II. DE LA COORDINACIÓN SOCIAL E INTERINSTITUCIONAL PARA EL FOMENTO DE LA LECTURA Y EL LIBRO COAHUILENSE
 
 > <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2015)</small>
 
 ###### Artículo 4.
 
 La Secretaría de Educación, a través de la Coordinación Estatal de Bibliotecas, Publicaciones y Librerías o la unidad administrativa correspondiente, y en su caso, en coordinación con de (sic) la Secretaría de Cultura, llevará a cabo acciones de coordinación con las organizaciones de padres de familia, las instituciones públicas, privadas y sociales, los organismos culturales, los clubes de lectura privados, los círculos literarios, los gremios de intelectuales y con cualquier otra organización de la sociedad civil que contribuya a elevar el nivel cultural de los coahuilenses, oyendo las recomendaciones que al efecto emita al Consejo Estatal.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2016)</small>
+
+Así mismo, realizarán campañas de difusión acerca de las bibliotecas que hay en el Estado y sus actividades, para sensibilizar e incrementar los hábitos de lectura y fomentar las visitas a las mismas.
 
 > <small>(REFORMADO, P.O. 27 DE OCTUBRE DE 2015)</small>
 
@@ -379,13 +385,13 @@ JUAN FRANCISCO GONZÁLEZ GONZÁLEZ
 
 (RUBRICA)
 
-DlPUTADO SECRETARIO
+DIPUTADO SECRETARIO
 
-ROGELlO RAMOS SÁNCHEZ
+ROGELIO RAMOS SÁNCHEZ
 
 (RÚBRICA)
 
-DlPUTADO SECRETARIO
+DIPUTADO SECRETARIO
 
 FRANCISCO TOBÍAS HERNÁNDEZ
 
@@ -397,13 +403,13 @@ Saltillo, Coahuila, 6 de Enero de 2011
 
 EL GOBERNADOR INTERINO DEL ESTADO
 
-LlC. JORGE JUAN TORRES LÓPEZ
+LIC. JORGE JUAN TORRES LÓPEZ
 
 (RÚBRICA)
 
 EL SECRETARIO DE GOBIERNO
 
-LlC. DAVID AGUILLÓN ROSALES
+LIC. DAVID AGUILLÓN ROSALES
 
 (RÚBRICA)
 
@@ -418,3 +424,11 @@ PROFR. ANDRÉS MENDOZA SALAS
 P.O. 27 DE OCTUBRE DE 2015.
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 292.- SE ADICIONA UN TERCER PÁRRAFO AL ARTÍCULO 4 DE LA LEY DE FOMENTO A LA LECTURA Y EL LIBRO PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Publíquese el presente Decreto en el Periódico Oficial del Gobierno del Estado.
