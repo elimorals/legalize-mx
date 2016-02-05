@@ -4,7 +4,7 @@ identifier: "QUE-codigo-de-procedimientos-civiles-del-estado-de-queretaro-70763"
 country: "mx"
 rank: "codigo"
 publication_date: "2009-10-21"
-last_updated: "2015-10-23"
+last_updated: "2016-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Querétaro, el miércoles 21 de octubre de 2009.
 
@@ -362,6 +362,10 @@ Mientras continúe el procurador o representante común en su encargo, los empla
 ###### Artículo 57.
 
 Para la tramitación y resolución de los asuntos ante los tribunales ordinarios, se estará a lo dispuesto por este Código, sin que por convenio de los interesados puedan renunciarse los recursos, ni el derecho de recusación, pudiendo ser modificadas las normas del procedimiento por convenio de las partes, aprobado por el juez que conozca del asunto, siempre y cuando no se afecten los derechos de terceros y disposiciones de interés público.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2016)</small>
+
+Los jueces y magistrados que conozcan del asunto deberán de proporcionar de oficio y gratuitamente un traductor o interprete, cuando alguna de las partes fuere de origen indígena o no hable o entienda correctamente el idioma español, el cual deberá solicitar a la Coordinación de Actuarios y Peritos del Tribunal Superior de Justicia del Estado de Querétaro.
 
 ###### Artículo 58.
 
@@ -2311,9 +2315,15 @@ El auto que califique de legales las posiciones formuladas, así como el que las
 
 Si fueren varios los que hayan de absolver posiciones al tenor de un mismo interrogatorio, las diligencias se practicarán separadamente en un mismo acto, evitando que los que absuelvan primero se comuniquen con los que han de absolver después.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 320.
 
-En ningún caso se permitirá que la parte que ha de absolver posiciones esté asistida por su abogado, procurador ni otra persona, ni se le dará el traslado ni copia de las posiciones, ni plazo para que se aconseje; pero si el absolvente fuere extranjero, podrá ser asistido por un intérprete que el juez nombrará.
+En ningún caso se permitirá que la parte que ha de absolver posiciones este asistida por su abogado, procurador ni otra persona, ni se le dará traslado ni copia de las posiciones, ni plazo para que se aconseje; pero si el absolvente fuere extranjero o de origen indígena, podrá ser asistido por un intérprete o traductor que el juez deberá proporcionar de oficio, gratuitamente y solicitara a la Coordinación de Actuarios y Peritos del Tribunal Superior de Justicia del Estado de Querétaro.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2016)</small>
+
+También la parte oferente bajo su costa podrá ser asistida por un intérprete o traductor, a fin de que este confirme la interpretación o traducción del absolvente.
 
 ###### Artículo 321.
 
@@ -2737,9 +2747,11 @@ Cuando el testigo deje de contestar algún punto o haya incurrido en contradicci
 
 El Tribunal tendrá la más amplia facultad para hacer a los testigos y a las partes las preguntas que estime conducentes a la investigación de la verdad, respecto a los puntos controvertidos.
 
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 393.
 
-Si el testigo no sabe el idioma, rendirá su declaración por medio de intérprete que será nombrado por el juez. Si el testigo lo pidiere, además de asentarse su declaración en español podrá escribirse en su propio idioma, por él o por el intérprete.
+Si el testigo no hablara o entendiera el idioma español o fuere de origen indígena, rendirá su declaración por medio de intérprete o traductor que será nombrado por el juez de manera oficiosa y gratuitamente, el cual deberá solicitar a la Coordinación de Actuarios y Peritos del Tribunal Superior de Justicia del Estado de Querétaro. Si el testigo lo pidiere, además de asentarse su declaración en español podrá escribirse en su propio idioma, por él, traductor o por el intérprete.
 
 ###### Artículo 394.
 
@@ -6864,5 +6876,13 @@ Artículo Tercero. Se derogan todas aquellas disposiciones de igualo (sic) menor
 P.O. 23 DE OCTUBRE DE 2015.
 
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 5 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS HUMANOS DEL ESTADO DE QUERÉTARO; LEY DE ENJUICIAMIENTO DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE QUERÉTARO, LEY PARA PREVENIR, INVESTIGAR, SANCIONAR Y REPARAR LA DESAPARICIÓN DE PERSONAS EN EL ESTADO DE QUERÉTARO, LEY DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE QUERÉTARO, LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO, LEY DE DERECHOS Y CULTURA DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE QUERÉTARO, CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERÉTARO, LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE QUERÉTARO Y LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro, "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
