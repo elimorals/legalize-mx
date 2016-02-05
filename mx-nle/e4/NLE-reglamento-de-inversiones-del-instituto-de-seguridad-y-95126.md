@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-inversiones-del-instituto-de-seguridad-y-95126"
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-07-05"
-last_updated: "2014-03-21"
+last_updated: "2016-02-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=95126&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE INVERSIONES DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE MARZO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 5 de julio de 2013.
 
@@ -149,7 +149,7 @@ VII. Activos objeto de inversión denominados en divisas;
 
 VIII. Componentes de renta fija;
 
-IX. Préstamos para sus derechohabientes; y, (sic)
+IX. Préstamos para sus derechohabientes; y,
 
 X. Sociedades de Inversión.
 
@@ -193,9 +193,11 @@ f) Un Experto Independiente designado por el Presidente del Comité de Inversion
 
 g) Por cada integrante se designará por escrito a su respectivo suplente, quienes deberán contar con nombramiento por escrito firmado por el representante titular.
 
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2016)</small>
+
 ###### ARTÍCULO 20.
 
-La Dirección de Planeación y Finanzas del Instituto será responsable de los siguientes asuntos:
+La Dirección de Administración y Finanzas del Instituto será responsable de los siguientes asuntos:
 
 I. Ejecutar y dar cumplimiento a las decisiones que en materia de inversiones tome el Consejo Directivo;
 
@@ -233,9 +235,11 @@ Cuarta Sección
 
 De la Convocatoria a las Sesiones del Comité
 
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2016)</small>
+
 ###### ARTÍCULO 26.
 
-El Comité celebrará sesiones ordinarias al menos dos veces cada mes, de acuerdo al plan semestral que previamente se apruebe por los integrantes del mismo, y extraordinarias cuando así se requiera.
+El Comité celebrara Sesiones Ordinarias una vez al mes y extraordinarias cuando así se requiera.
 
 ###### ARTÍCULO 27.
 
@@ -402,3 +406,11 @@ Directora General y Secretaria del Consejo Directivo del ISSSTELEON
 P.O. 21 DE MARZO DE 2014.
 
 Único.- La presente Reforma por Adición al Reglamento del Inversiones del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Nuevo León, entrará en vigor al día siguiente a su publicación en el Periódico Oficial del Estado de Nuevo León. A treinta y uno de enero del dos mil catorce, así lo acuerdan y firman los integrantes del H. Consejo Directivo del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Nuevo León.
+
+P.O. 5 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “MODIFICACIÓN AL REGLAMENTO DE INVERSIONES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO: Las presentes reformas al Reglamento de Inversiones del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Nuevo León, fueron aprobadas por su H. Consejo Directivo en la VI Sesión Ordinaria celebrada el día 03 de diciembre del 2015.
+
+SEGUNDO: Las presentes reformas al Reglamento de Inversiones entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
