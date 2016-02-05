@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-responsabilidades-de-los-servidores-publicos-del-33674"
 country: "mx"
 rank: "ley"
 publication_date: "2003-08-29"
-last_updated: "2015-05-22"
+last_updated: "2016-02-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33674&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE RESPONSABILIDADES DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Baja California, el viernes 29 de agosto de 2003.
 
@@ -537,9 +537,13 @@ XVI. Intervenir en el ejercicio de sus funciones o con motivo de ellas en la ate
 
 XVII. Los servidores públicos que se hayan desempeñado en cargos de Dirección en el Instituto Estatal Electoral, sus Consejeros y los Magistrados del Tribunal de Justicia Electoral, del Poder Judicial del Estado de Baja California, se abstendrán de participar, hasta un año después, que dejen de desempeñar su empleo, cargo o comisión, en cualquier encargo público de la administración encabezada por quien haya ganado la elección que ellos organizaron o calificaron;
 
-> <small>(REFORMADA [N. DE E. REUBICADA], P.O. 25 DE AGOSTO DE 2006)</small>
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2016)</small>
 
-XVIII. Las demás que establezcan las Leyes, reglamentos y disposiciones administrativas.
+XVIII.- Otorgar permiso de construcción, sin cumplir con los requisitos que la ley establece; y,
+
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2016)</small>
+
+XIX.- Las demás que establezcan las leyes, Reglamentos y disposiciones administrativas.
 
 ###### ARTÍCULO 48.
 
@@ -1106,3 +1110,9 @@ P.O. 15 DE MAYO DE 2015.
 P.O. 22 DE MAYO DE 2015.
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+P.O. 5 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 435 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS AL ARTÍCULO 2 FRACCIÓN I, 25 Y 73 INCISO A FRACCIÓN II DE LA LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA”.]
+
+ÚNICO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
