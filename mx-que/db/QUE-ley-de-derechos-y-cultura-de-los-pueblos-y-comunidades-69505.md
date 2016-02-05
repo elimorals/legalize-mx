@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-derechos-y-cultura-de-los-pueblos-y-comunidades-69505"
 country: "mx"
 rank: "ley"
 publication_date: "2009-07-24"
-last_updated: "2014-01-24"
+last_updated: "2016-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69505&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE DERECHOS Y CULTURA DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE ENERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 24 de julio de 2009.
 
@@ -251,9 +251,11 @@ Las autoridades de los municipios y comunidades preservarán las faenas y el tra
 
 ### Capítulo Segundo. Del acceso a la jurisdicción del Estado
 
+(NOTA: EL 25 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO QUINTO, Y EN VÍA DE CONSECUENCIA, EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 19/2016, DECLARÓ LA INVALIDEZ DE LA PORCIÓN NORMATIVA DEL PÁRRAFO PRIMERO DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
 ###### Artículo 23.
 
-A fin de garantizar a los pueblos y comunidades indígenas, el acceso a la impartición de justicia en los procesos penales, civiles, administrativos o de cualquier otra naturaleza, que se desarrolle en forma de juicio y en el que, con cualquier carácter, intervenga uno o más integrantes de algún pueblo o comunidad indígena que ignoren el idioma español, éste o éstos deberán contar con un traductor bilingüe nombrado de oficio y pagado por el Estado, que sea de preferencia mayor de edad y que no sea de las personas que intervengan en la diligencia, cuando lo soliciten podrán escribir la declaración de que se trate en el idioma del declarante, sin que obste para que el intérprete haga la traducción.
+A fin de garantizar a los pueblos y comunidades indígenas, el acceso a la impartición de justicia en los procesos PENALES, civiles, administrativos o de cualquier otra naturaleza, que se desarrolle en forma de juicio y en el que, con cualquier carácter, intervenga uno o más integrantes de algún pueblo o comunidad indígena, éste o éstos deberán contar con un intérprete o traductor nombrado de oficio y pagado por el Estado, el cual será solicitado a la Coordinación de Actuarios y peritos del Tribunal Superior de Justicia del Estado de Querétaro Su inobservancia producirá la nulidad del procedimiento. Durante todo el proceso, los indígenas tendrán derecho a realizar sus declaraciones y testimonios en su lengua, los que deberán de obrar en autos traducidos literalmente al idioma español.
 
 Los magistrados, jueces, agentes del Ministerio Público y demás autoridades que conozcan del asunto, bajo su responsabilidad, se asegurarán del cumplimiento de esta disposición.
 
@@ -281,15 +283,57 @@ Cuando en los procedimientos intervengan, personas colectivas o individuales de 
 
 Al resolver las controversias se procederá en los mismos términos.
 
+(NOTA: EL 25 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 19/2016, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DEL ARTÍCULO QUINTO DEL DECRETO PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUERÉTARO DEL 5 DE FEBRERO DE 2016, MEDIANTE EL CUAL SE ADICIONA EL TERCER PÁRRAFO DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2016)</small>
+
+CUANDO EXISTA DUDA DE LA PERTENENCIA O NO DE UNA PERSONA A ALGÚN PUEBLO O COMUNIDAD INDÍGENA, SERÁN LAS AUTORIDADES COMUNITARIAS DE AQUELLOS, QUIENES EXPEDIRÁN LA CONSTANCIA RESPECTIVA.
+
+(NOTA: EL 25 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 19/2016, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DEL ARTÍCULO QUINTO DEL DECRETO PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUERÉTARO DEL 5 DE FEBRERO DE 2016, MEDIANTE EL CUAL SE ADICIONA ESTE ARTÍCULO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2016)</small>
+
+###### Artículo 27 Bis.
+
+El Poder Ejecutivo del Estado, a través de las dependencias correspondientes, establecerá programas de formación y capacitación dirigidos a intérpretes, médicos forenses, abogados defensores, agentes del Ministerio Público y, en general, a todos los servidores públicos que intervengan en asuntos en los que exista interés jurídico de miembros de las comunidades indígenas, a fin de mejorar el desempeño de sus tareas en las comunidades.
+
 ###### Artículo 28.
 
 Los indígenas que sean condenados a penas privativas de libertad, en los casos y condiciones que establece la ley, podrán cumplir su sentencia en los centros penitenciarios más cercanos a su domicilio, a fin de propiciar su reintegración a la comunidad, como forma de readaptación social.
 
-### Capítulo Primero. Patrimonio tangible e intangible
+(NOTA: EL 25 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 19/2016, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DEL ARTÍCULO QUINTO DEL DECRETO PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUERÉTARO DEL 5 DE FEBRERO DE 2016, MEDIANTE EL CUAL SE ADICIONA ESTE CAPÍTULO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 5 DE FEBRERO DE 2016)</small>
+
+### Capítulo Tercero. De los peritos intérpretes o traductores
+
+(NOTA: EL 25 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 19/2016, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DEL ARTÍCULO QUINTO DEL DECRETO PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUERÉTARO DEL 5 DE FEBRERO DE 2016, MEDIANTE EL CUAL SE ADICIONA ESTE ARTÍCULO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2016)</small>
+
+###### Artículo 28 Bis.
+
+Se llama perito intérprete o traductor a los profesionistas técnicos o prácticos que expresen en una lengua lo que está escribiendo o se ha expresado en otra, incluso en un lenguaje no verbal. Su función consiste en emitir la traducción de alguna de las lenguas de las Etnias del Estado, lengua extranjera o en su caso realizar la tarea de intérpretes.
+
+(NOTA: EL 25 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 19/2016, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DEL ARTÍCULO QUINTO DEL DECRETO PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUERÉTARO DEL 5 DE FEBRERO DE 2016, MEDIANTE EL CUAL SE ADICIONA ESTE ARTÍCULO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2016)</small>
+
+###### Artículo 28 Ter.
+
+La regulación y vigilancia del desempeño del perito intérprete o traductor, estará a cargo de la Coordinación de Peritos, dependiente del Tribunal Superior de Justicia del Estado de Querétaro.
+
+(NOTA: EL 25 DE JUNIO DE 2018, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN EL CONSIDERANDO SEXTO, ASÍ COMO EN EL RESOLUTIVO SEGUNDO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 19/2016, DECLARÓ LA INVALIDEZ, EN VÍA DE CONSECUENCIA, DEL ARTÍCULO QUINTO DEL DECRETO PUBLICADO EN EL PERIÓDICO OFICIAL DEL ESTADO DE QUERÉTARO DEL 5 DE FEBRERO DE 2016, MEDIANTE EL CUAL SE ADICIONA ESTE ARTÍCULO DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2016)</small>
+
+###### Artículo 28 Quater.
+
+El Estado a través del Tribunal Superior de Justicia, implementará las medidas necesarias para formar un cuerpo suficiente de intérpretes preferentemente indígenas, que intervengan en todas las instancias de procuración y administración, además el pago y erogaciones de honorarios de estos serán pagados por el estado.
 
 ## Título Cuarto. De la cultura y educación
 
-### Capítulo Segundo. Educación y lenguas indígenas
+### Capítulo Primero. Patrimonio tangible e intangible
 
 ###### Artículo 29.
 
@@ -316,6 +360,8 @@ La Legislatura del Estado, reglamentará en las leyes respectivas, sanciones par
 ###### Artículo 34.
 
 Los indígenas tienen derecho al uso y respeto de su identidad, nombres y apellidos en los términos de su escritura y pronunciación. De la misma manera se mantendrá, pronunciará y escribirá la toponimia de sus asentamientos.
+
+### Capítulo Segundo. Educación y lenguas indígenas
 
 ###### Artículo 35.
 
@@ -558,3 +604,11 @@ P.O. 24 DE ENERO DE 2014.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
 Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a esta Ley.
+
+P.O. 5 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS HUMANOS DEL ESTADO DE QUERÉTARO; LEY DE ENJUICIAMIENTO DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE QUERÉTARO, LEY PARA PREVENIR, INVESTIGAR, SANCIONAR Y REPARAR LA DESAPARICIÓN DE PERSONAS EN EL ESTADO DE QUERÉTARO, LEY DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE QUERÉTARO, LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO, LEY DE DERECHOS Y CULTURA DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE QUERÉTARO, CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERÉTARO, LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE QUERÉTARO Y LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Querétaro, "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
