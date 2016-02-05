@@ -4,7 +4,7 @@ identifier: "CMX-reglamento-en-materia-de-relaciones-laborales-del-tribunal-8347
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-11-07"
-last_updated: "2014-10-10"
+last_updated: "2016-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83470&Vig=1&TPub=6"
 department: "Gaceta Oficial de la Ciudad de México"
@@ -22,7 +22,7 @@ issue_date: "2011-10-27"
 
 REGLAMENTO EN MATERIA DE RELACIONES LABORALES DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 10 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL DEL DISTRITO FEDERAL: 5 DE FEBRERO DE 2016.
 
 Reglamento publicado en la Gaceta Oficial del Distrito Federal, el lunes 7 de noviembre de 2011.
 
@@ -602,23 +602,27 @@ Son días de descanso obligatorio para las personas servidoras del Tribunal:
 
 I. El 1º de enero.- Año Nuevo;
 
-II. El primer lunes de febrero en conmemoración del 5 de febrero;
+> <small>(ADICIONADA, G.O. 5 DE FEBRERO DE 2016)</small>
 
-III. El tercer lunes de marzo en conmemoración del 21 de marzo;
+II. El último viernes de enero en conmemoración del día del Trabajador del Tribunal;
 
-IV. El 1º de mayo.- Día del Trabajo;
+III. El primer lunes de febrero en conmemoración del 5 de febrero;
 
-V. El 16 de septiembre.- Conmemoración del aniversario del inicio de la Independencia de México;
+IV. El tercer lunes de marzo en conmemoración del 21 de marzo;
 
-VI. El tercer lunes de noviembre en conmemoración del 20 de noviembre;
+V. El 1º de mayo.- Día del Trabajo;
+
+VI. El 16 de septiembre.- Conmemoración del aniversario del inicio de la Independencia de México;
+
+VII. El tercer lunes de noviembre en conmemoración del 20 de noviembre;
 
 > <small>(REFORMADA, G.O. 10 DE OCTUBRE DE 2014)</small>
 
-VII. El día en que cada seis años, corresponda la transmisión del Poder Ejecutivo Federal;
+VIII. El día en que cada seis años, corresponda la transmisión del Poder Ejecutivo Federal;
 
-VIII. El 25 de diciembre.- Navidad, y
+IX. El 25 de diciembre.- Navidad, y
 
-IX. Los demás que determine el Pleno.
+X. Los demás que determine el Pleno.
 
 Por cada cinco días de labores, la persona servidora disfrutará de dos días de descanso continuos, de preferencia sábado y domingo, con goce íntegro de su salario.
 
@@ -1301,3 +1305,13 @@ G.O. 10 DE OCTUBRE DE 2014.
 PRIMERO. La reforma al presente Reglamento entrará en vigor al momento de su aprobación por el Pleno del Tribunal.
 
 SEGUNDO. Publíquese esta reforma en la Gaceta Oficial del Distrito Federal, así como en los estrados y en el sitio de Internet del Tribunal.
+
+G.O. 5 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA "REFORMA AL ARTÍCULO 43 DEL REGLAMENTO EN MATERIA DE RELACIONES LABORALES DEL TRIBUNAL ELECTORAL DEL DISTRITO FEDERAL".]
+
+PRIMERO. La reforma al presente Reglamento entrará en vigor al momento de su aprobación por el Pleno del Tribunal.
+
+SEGUNDO. Con motivo de la reforma al artículo 43 del presente Reglamento, por única ocasión, en dos mil dieciséis el día de descanso obligatorio en conmemoración del día del trabajador del Tribunal, será el doce de febrero del mismo año.
+
+TERCERO. Publíquese esta reforma en la Gaceta Oficial de la Ciudad de México, así como en los estrados y en el sitio de Internet del Tribunal.
