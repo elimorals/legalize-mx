@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-enjuiciamiento-de-lo-contencioso-administrativo-del-6901
 country: "mx"
 rank: "ley"
 publication_date: "2009-06-17"
-last_updated: "2011-11-25"
+last_updated: "2016-02-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69010&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE ENJUICIAMIENTO DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE NOVIEMBRE DE 2011.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el miércoles 17 de junio de 2009.
 
@@ -667,6 +667,10 @@ Para tal efecto, deberá identificar con toda precisión los documentos y, trat�
 
 La omisión de la expedición de las copias y documentos que soliciten las partes, será causa de aplazamiento de la audiencia final, debiendo hacer el juzgador el requerimiento correspondiente a las autoridades administrativas para que las expidan a la brevedad posible y, en caso necesario, aplicar las medidas de apremio para lograr su cumplimiento.
 
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2016)</small>
+
+Cuando las partes ofrezcan pruebas documentales, deberán presentarlas conjuntamente con el escrito de ofrecimiento. Si los documentos estuvieran redactados en idioma o lengua diferente al español, se acompañaran con la correspondiente traducción de los mismos, realizada por traductores del Tribunal Superior de Justicia del Estado de Querétaro.
+
 ###### Artículo 75.
 
 Son medios de prueba, los siguientes:
@@ -694,6 +698,10 @@ IX. Fotografías y demás elementos aportados por la ciencia.
 ###### Artículo 76.
 
 Las partes están obligadas a declarar bajo protesta de decir verdad, cuando así lo exija su contraria. No se admitirá la confesión de las autoridades administrativas mediante absolución de posiciones.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2016)</small>
+
+Cuando alguna de las partes pertenezca a algún pueblo o comunidad indígena o hable un idioma o lengua diferente al español se le proporcionara de oficio y gratuitamente un traductor o intérprete el cual será solicitado por la autoridad competente a la Coordinación de Actuarios y Peritos del Tribunal Superior de Justicia del Estado de Querétaro.
 
 ###### Artículo 77.
 
@@ -725,9 +733,15 @@ Enseguida, el absolvente firmará el pliego de posiciones, antes de procederse a
 
 Si fueren varios los que hayan de absolver posiciones al tenor de un mismo interrogatorio, la diligencia se practicará separadamente y en un mismo acto, evitando que los que absuelvan primero, se comuniquen con los que han de absolver después.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 82.
 
-En ningún caso se permitirá que la parte que haya de absolver posiciones esté asistida por su abogado, procurador ni otra persona, ni se le dará traslado, ni copia de las posiciones, ni plazo para que se aconseje; pero si el absolvente fuere extranjero, podrá ser asistido por un intérprete que el juzgador nombrará.
+En ningún caso se permitirá que la parte que haya de absolver posiciones esté asistida por su abogado, procurador ni otra persona, ni se le dará traslado, ni copia de las posiciones, ni plazo para que se aconseje; pero si el absolvente fuere extranjero o persona indígena que no hable o entienda correctamente el idioma español, podrá ser asistido por un intérprete o traductor que el juzgador nombrará de oficio, gratuitamente y lo solicitara a la Coordinación de Actuarios y Peritos del Tribunal Superior de Justicia del Estado de Querétaro.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2016)</small>
+
+También la parte oferente bajo su costa podrá ser asistida por un intérprete o traductor, a fin de que este confirme la interpretación o traducción del absolvente.
 
 ###### Artículo 83.
 
@@ -1366,3 +1380,11 @@ P.O. 25 DE NOVIEMBRE DE 2011.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que opongan (sic) a la presente Ley.
+
+P.O. 5 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS HUMANOS DEL ESTADO DE QUERÉTARO; LEY DE ENJUICIAMIENTO DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE QUERÉTARO, LEY PARA PREVENIR, INVESTIGAR, SANCIONAR Y REPARAR LA DESAPARICIÓN DE PERSONAS EN EL ESTADO DE QUERÉTARO, LEY DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE QUERÉTARO, LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO, LEY DE DERECHOS Y CULTURA DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE QUERÉTARO, CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERÉTARO, LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE QUERÉTARO Y LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro, "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
