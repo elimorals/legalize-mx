@@ -4,7 +4,7 @@ identifier: "QUE-ley-para-prevenir-investigar-sancionar-y-reparar-la-101397"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-06"
-last_updated: "2014-06-06"
+last_updated: "2016-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101397&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY PARA PREVENIR, INVESTIGAR, SANCIONAR Y REPARAR LA DESAPARICIÓN DE PERSONAS EN EL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 6 de junio de 2014.
 
@@ -497,7 +497,9 @@ El Comité de Seguimiento deberá diseñar y supervisar el funcionamiento de mod
 
 I. Orientación jurídica, asistencia social, educativa y laboral;
 
-II. En el caso de que las víctimas pertenezcan a algún pueblo o comunidad indígena o hablen un idioma diferente al español, se les designará un traductor que les asistirá en todo momento;
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2016)</small>
+
+II. En el caso de que las víctimas pertenezcan a algún pueblo o comunidad indígena o hablen un idioma diferente al español, se les proporcionara de oficio y gratuitamente un traductor o intérprete el cual será solicitado a la Coordinación de Actuarios y Peritos del Tribunal Superior de Justicia del Estado de Querétaro, quien le asistirá en todo momento.
 
 III. Asistencia social, humanitaria, médica, psicológica, psiquiátrica, aparatos ortopédicos y prótesis a las víctimas de los delitos, hasta su total recuperación;
 
@@ -716,3 +718,13 @@ Lic. Arsenio Durán Becerra
 Procurador General de Justicia
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS HUMANOS DEL ESTADO DE QUERÉTARO; LEY DE ENJUICIAMIENTO DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE QUERÉTARO, LEY PARA PREVENIR, INVESTIGAR, SANCIONAR Y REPARAR LA DESAPARICIÓN DE PERSONAS EN EL ESTADO DE QUERÉTARO, LEY DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE QUERÉTARO, LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO, LEY DE DERECHOS Y CULTURA DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE QUERÉTARO, CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERÉTARO, LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE QUERÉTARO Y LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de (sic) Gobierno del Estado de Querétaro, "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
