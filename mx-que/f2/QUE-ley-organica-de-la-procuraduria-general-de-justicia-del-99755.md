@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-de-la-procuraduria-general-de-justicia-del-99755"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-03-20"
-last_updated: "2015-08-07"
+last_updated: "2016-02-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99755&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 20 de marzo de 2014.
 
@@ -283,17 +283,21 @@ V. Concurrir a las audiencias ante los órganos jurisdiccionales en el momento q
 
 VI. Desahogar por sí o por el Facilitador las audiencias pertinentes, de ser procedente algún mecanismo alternativo de solución de controversias, en las que deberá observar irrestrictamente las formalidades y principios que establezca la ley de la materia;
 
-VII. Rendir al Procurador los informes periódicos del estado que guardan los asuntos en que intervengan y aquellos otros que cualquier momento en que se les requiera, indicando su opinión jurídica y, en su caso, las dificultades que presenten para su despacho y conclusión;
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2016)</small>
 
-VIII. Poner en conocimiento del Procurador las irregularidades que, en su caso, adviertan en el desarrollo del procedimiento penal;
+VII. Garantizar la asistencia a personas que no hablen o entiendan el idioma español de un traductor o intérprete, el cual debe ser proporcionado de oficio y gratuitamente por la Dirección de Servicios Periciales;
 
-IX. Formar expediente y archivo con los oficios, circulares, instrucciones y documentos que reciban;
+VIII. Rendir al Procurador los informes periódicos del estado que guardan los asuntos en que intervengan y aquellos otros que cualquier momento en que se les requiera, indicando su opinión jurídica y, en su caso, las dificultades que presenten para su despacho y conclusión;
 
-X. Manifestar, por escrito, al Procurador los motivos de excusas que tuvieren para no intervenir en los negocios en que se consideren impedidos;
+IX. Poner en conocimiento del Procurador las irregularidades que, en su caso, adviertan en el desarrollo del procedimiento penal;
 
-XI. Presentar anualmente o con la periodicidad que otras leyes señalen o el Procurador determine, las evaluaciones de control de confianza, competencia profesional, de desempeño y aquellas otras necesarias para la permanencia en el ejercicio de su función; ya sea que se apliquen por órganos de la Procuraduría o por órganos o instituciones externas; y
+X. Formar expediente y archivo con los oficios, circulares, instrucciones y documentos que reciban;
 
-XII. Las demás que las leyes concedan al Ministerio Público y no estén reservadas exclusivamente al Procurador u otros servidores.
+XI. Manifestar, por escrito, al Procurador los motivos de excusas que tuvieren para no intervenir en los negocios en que se consideren impedidos;
+
+XII. Presentar anualmente o con la periodicidad que otras leyes señalen o el Procurador determine, las evaluaciones de control de confianza, competencia profesional, de desempeño y aquellas otras necesarias para la permanencia en el ejercicio de su función; ya sea que se apliquen por órganos de la Procuraduría o por órganos o instituciones externas; y
+
+XIII. Las demás que las leyes concedan al Ministerio Público y no estén reservadas exclusivamente al Procurador u otros servidores.
 
 ###### Artículo 11.
 
@@ -617,7 +621,11 @@ XXX. Dirigir, organizar, administrar, controlar y supervisar el funcionamiento d
 
 XXXI. Contratar profesionales, técnicos, expertos y asesores especializados, en los casos que se requiera para fines de la investigación; y
 
-XXXII. Las demás facultades y obligaciones que otras leyes y reglamentos le confieran.
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2016)</small>
+
+XXXII. Vigilar y garantizar que cuando alguna de las partes del asunto sea de origen indígena le sea proporcionado de manera gratuita un traductor o intérprete quien le asistirá en todo momento, el cual será proporcionado por la Dirección de Servicios Periciales; y
+
+XXXIII. Las demás facultades y obligaciones que otras leyes y reglamentos le confieran.
 
 ### Capítulo II. De los Subprocuradores
 
@@ -661,49 +669,53 @@ III. Orientar a las personas que pongan en conocimiento del Ministerio Público 
 
 IV. Proporcionar información general sobre los servicios, requisitos y procedimientos que presta la Procuraduría;
 
-V. Registrar y dar inicio a las carpetas de investigación sin detenido, recabando los datos de prueba inmediatos o urgentes y resolviendo lo legalmente procedente;
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2016)</small>
 
-VI. Dictaminar, registrar y remitir a las diferentes áreas de justicia alternativa, los casos en los que proceda la aplicación de mecanismos alternativos de solución de controversias en materia penal;
+V. Solicitar de oficio y gratuitamente a la Dirección de Servicios Periciales traductor o Intérprete cuando las personas atendidas sean de origen indígena y no hablen o entiendan el idioma español;
 
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+VI. Registrar y dar inicio a las carpetas de investigación sin detenido, recabando los datos de prueba inmediatos o urgentes y resolviendo lo legalmente procedente;
 
-VII. Proponer a las partes la intervención de un especialista en mecanismos alternativos de solución de controversias, para que participe y facilite la concreción de acuerdos reparatorios, cuando así resulte procedente, conforme a la legislación aplicable;
-
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
-
-VIII. Solicitar al Juez de Control la aprobación de acuerdo reparatorio de cumplimiento diferido y decrete la suspensión de la investigación durante el plazo establecido para el cumplimiento; en caso de incumplimiento, solicitarle se levante la suspensión de la investigación;
-
-IX. Dictaminar, registrar y remitir para su atención a las autoridades federales, estatales, municipales u organismos descentralizados, los casos que resulten de su competencia, en términos de las disposiciones aplicables;
-
-X. Resolver, en los términos de las disposiciones aplicables, la abstención de investigación, el archivo temporal, el no ejercicio de la acción penal, la aplicación de criterios de oportunidad o, en su caso, remitir las carpetas de investigación al Ministerio Público de Investigaciones y Procesos, para su conocimiento y resolución, comunicando por escrito al denunciante o querellante según corresponda;
+VII. Dictaminar, registrar y remitir a las diferentes áreas de justicia alternativa, los casos en los que proceda la aplicación de mecanismos alternativos de solución de controversias en materia penal;
 
 > <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XI. Aprobar, a través del Agente del Ministerio Público, en términos de la legislación procedimental aplicable, los acuerdos reparatorios de cumplimiento inmediato celebrados en la etapa de investigación, debiendo verificar que las obligaciones que se contraen no resulten notoriamente desproporcionadas y que los intervinientes estén en condiciones de igualdad para negociar y no se haya actuado bajo coacción o amenaza;
+VIII. Proponer a las partes la intervención de un especialista en mecanismos alternativos de solución de controversias, para que participe y facilite la concreción de acuerdos reparatorios, cuando así resulte procedente, conforme a la legislación aplicable;
 
 > <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XII. Supervisar, dar seguimiento y llevar registro del cumplimiento de los acuerdos reparatorios celebrados ante el Ministerio Público;
+IX. Solicitar al Juez de Control la aprobación de acuerdo reparatorio de cumplimiento diferido y decrete la suspensión de la investigación durante el plazo establecido para el cumplimiento; en caso de incumplimiento, solicitarle se levante la suspensión de la investigación;
+
+X. Dictaminar, registrar y remitir para su atención a las autoridades federales, estatales, municipales u organismos descentralizados, los casos que resulten de su competencia, en términos de las disposiciones aplicables;
+
+XI. Resolver, en los términos de las disposiciones aplicables, la abstención de investigación, el archivo temporal, el no ejercicio de la acción penal, la aplicación de criterios de oportunidad o, en su caso, remitir las carpetas de investigación al Ministerio Público de Investigaciones y Procesos, para su conocimiento y resolución, comunicando por escrito al denunciante o querellante según corresponda;
 
 > <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XIII. Elaborar las actas de aviso o constancias que soliciten las personas, por el extravío de documentos u objetos, siempre que no estén relacionados con hechos constitutivos de delito;
+XII. Aprobar, a través del Agente del Ministerio Público, en términos de la legislación procedimental aplicable, los acuerdos reparatorios de cumplimiento inmediato celebrados en la etapa de investigación, debiendo verificar que las obligaciones que se contraen no resulten notoriamente desproporcionadas y que los intervinientes estén en condiciones de igualdad para negociar y no se haya actuado bajo coacción o amenaza;
 
 > <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XIV. Registrar la información de las personas atendidas, asuntos planteados, así como la canalización y atención brindada en coordinación con la Dirección de Tecnologías de Información y Comunicación;
+XIII. Supervisar, dar seguimiento y llevar registro del cumplimiento de los acuerdos reparatorios celebrados ante el Ministerio Público;
 
 > <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XV. Expedir certificación de antecedentes penales, únicamente a las autoridades que en ejercicio de sus funciones las soliciten y a las personas de cuyos antecedentes se trate, por ser necesarias para ejercitar un derecho o cumplir un deber legalmente previstos. En su caso, copias certificadas de los documentos a que se refiere dicha certificación, siempre que éstos tengan relación con un procedimiento jurisdiccional;
+XIV. Elaborar las actas de aviso o constancias que soliciten las personas, por el extravío de documentos u objetos, siempre que no estén relacionados con hechos constitutivos de delito;
 
 > <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XVI. Realizar, a petición y costa del procesado, la cancelación administrativa de antecedente penal, expidiendo la constancia que acredite lo anterior, cuando la autoridad jurisdiccional hubiera declarado la prescripción de antecedente penal, previa acreditación de haber cumplido la sanción impuesta, mediante las documentales conducentes, expidiendo la constancia que así lo acredite; y
+XV. Registrar la información de las personas atendidas, asuntos planteados, así como la canalización y atención brindada en coordinación con la Dirección de Tecnologías de Información y Comunicación;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XVI. Expedir certificación de antecedentes penales, únicamente a las autoridades que en ejercicio de sus funciones las soliciten y a las personas de cuyos antecedentes se trate, por ser necesarias para ejercitar un derecho o cumplir un deber legalmente previstos. En su caso, copias certificadas de los documentos a que se refiere dicha certificación, siempre que éstos tengan relación con un procedimiento jurisdiccional;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XVII. Realizar, a petición y costa del procesado, la cancelación administrativa de antecedente penal, expidiendo la constancia que acredite lo anterior, cuando la autoridad jurisdiccional hubiera declarado la prescripción de antecedente penal, previa acreditación de haber cumplido la sanción impuesta, mediante las documentales conducentes, expidiendo la constancia que así lo acredite; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XVII. Las demás que le otorguen las disposiciones aplicables.
+XVIII. Las demás que le otorguen las disposiciones aplicables.
 
 ###### Artículo 40.
 
@@ -781,35 +793,39 @@ No procederán los acuerdos reparatorios en los casos en que el imputado haya ce
 
 La conciliación, mediación y negociación son los medíos alternos de solución de controversias que podrán desarrollarse dentro de la fase de investigación inicial, con la participación del personal de la Procuraduría especializado en la materia;
 
-II. Invitar a los interesados, desde su primera intervención, a que suscriban acuerdos reparatorios en los casos que proceda;
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2016)</small>
 
-III. Llevar a cabo las audiencias con motivo de los medíos alternos de solución de controversias, conforme a los principios de accesibilidad, buena fe, complementariedad, confidencialidad, consentimiento informado, economía procesal, flexibilidad, honestidad, imparcialidad, legalidad, neutralidad, tutela y voluntariedad; así como las características y procedimientos que se establezcan en la legislación y normatividad aplicable;
+II. Solicitar de oficio y gratuitamente a la Dirección de Servicios Periciales la asistencia de un traductor o intérprete, cuando alguna de las partes sea de origen indígena y/o no hable o entienda el idioma español;
 
-IV. Elaborar los acuerdos reparatorios que den solución total o parcial a las controversias planteadas, en los términos acordados por las partes, a quienes informará de los derechos y obligaciones que de éstos deriven;
+III. Invitar a los interesados, desde su primera intervención, a que suscriban acuerdos reparatorios en los casos que proceda;
 
-V. Recabar las firmas de las partes en los acuerdos reparatorios celebrados ante el Ministerio Público;
+IV. Llevar a cabo las audiencias con motivo de los medios alternos de solución de controversias, conforme a los principios de accesibilidad, buena fe, complementariedad, confidencialidad, consentimiento informado, economía procesal, flexibilidad, honestidad, imparcialidad, legalidad, neutralidad, tutela y voluntariedad; así como las características y procedimientos que se establezcan en la legislación y normatividad aplicable;
 
-VI. Verificar que las obligaciones contenidas en los acuerdos reparatorios no resulten notoriamente desproporcionadas y que los intervinientes estuvieron en condiciones de igualdad y exentos de intimidación, amenaza o coacción;
+V. Elaborar los acuerdos reparatorios que den solución total o parcial a las controversias planteadas, en los términos acordados por las partes, a quienes informará de los derechos y obligaciones que de éstos deriven;
 
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+VI. Recabar las firmas de las partes en los acuerdos reparatorios celebrados ante el Ministerio Público;
 
-VII. Aprobar, a través del Ministerio Público, el acuerdo reparatorio de cumplimiento inmediato resultante de los mecanismos alternativos de solución que den fin a la controversia penal;
-
-> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
-
-VIII. Solicitar al Juez de Control la aprobación de acuerdo reparatorio de cumplimiento diferido y decrete la suspensión de la investigación durante el plazo fijado para el cumplimiento; en caso de incumplimiento, solicitarle se levante la suspensión de la investigación;
+VII. Verificar que las obligaciones contenidas en los acuerdos reparatorios no resulten notoriamente desproporcionadas y que los intervinientes estuvieron en condiciones de igualdad y exentos de intimidación, amenaza o coacción;
 
 > <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-IX. Supervisar, dar seguimiento y llevar registro del cumplimiento de los acuerdos reparatorios celebrados ante el Ministerio Público;
+VIII. Aprobar, a través del Ministerio Público, el acuerdo reparatorio de cumplimiento inmediato resultante de los mecanismos alternativos de solución que den fin a la controversia penal;
 
 > <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-X. Registrar la información de los asuntos de su competencia, en coordinación con la Dirección de Tecnologías de Información y Comunicación; y
+IX. Solicitar al Juez de Control la aprobación de acuerdo reparatorio de cumplimiento diferido y decrete la suspensión de la investigación durante el plazo fijado para el cumplimiento; en caso de incumplimiento, solicitarle se levante la suspensión de la investigación;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+X. Supervisar, dar seguimiento y llevar registro del cumplimiento de los acuerdos reparatorios celebrados ante el Ministerio Público;
+
+> <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
+
+XI. Registrar la información de los asuntos de su competencia, en coordinación con la Dirección de Tecnologías de Información y Comunicación; y
 
 > <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-XI. Las demás que le confiera la legislación de la materia.
+XII. Las demás que le confiera la legislación de la materia.
 
 > <small>(REFORMADO, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
@@ -867,27 +883,31 @@ II. Recibir a las personas detenidas que sean puestas a su disposición, resolvi
 
 III. Proteger, en el ámbito de su competencia, el respeto de los Derechos Humanos de quienes intervengan en el procedimiento penal;
 
-IV. Investigar los hechos que la ley señale como delito, ordenando la práctica de los actos conducentes a su esclarecimiento, protegiendo al inocente, procurando que el culpable no quede impune y que los daños causados por el delito se reparen;
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2016)</small>
 
-V. Propiciar, en los casos que así proceda, la aplicación de mecanismos alternativos de solución de controversias y, en su caso, canalizar los asuntos a la Dirección de Justicia Alternativa, para que dé el seguimiento y trámite correspondiente;
+IV. Solicitar de oficio y gratuitamente a la Dirección de Servicios Periciales la asistencia de un traductor o intérprete cuando alguna de las partes sea de origen indígena y/o no hable o entienda el idioma español;
 
-VI. Proponer a las partes la intervención de un especialista en mecanismos alternativos de solución de controversias, para que participe y facilite la concreción de acuerdos reparatorios;
+V. Investigar los hechos que la ley señale como delito, ordenando la práctica de los actos conducentes a su esclarecimiento, protegiendo al inocente, procurando que el culpable no quede impune y que los daños causados por el delito se reparen;
+
+VI. Propiciar, en los casos que así proceda, la aplicación de mecanismos alternativos de solución de controversias y, en su caso, canalizar los asuntos a la Dirección de Justicia Alternativa, para que dé el seguimiento y trámite correspondiente;
+
+VII. Proponer a las partes la intervención de un especialista en mecanismos alternativos de solución de controversias, para que participe y facilite la concreción de acuerdos reparatorios;
 
 > <small>(REFORMADA, P.O. 29 DE NOVIEMBRE DE 2014)</small>
 
-VII. Solicitar al Juez de Control la aprobación del acuerdo reparatorio de cumplimiento diferido y decrete la suspensión de la investigación durante el plazo fijado para el cumplimiento; en caso de incumplimiento, solicitarle se levante la suspensión de la investigación;
+VIII. Solicitar al Juez de Control la aprobación del acuerdo reparatorio de cumplimiento diferido y decrete la suspensión de la investigación durante el plazo fijado para el cumplimiento; en caso de incumplimiento, solicitarle se levante la suspensión de la investigación;
 
-VIII. Ejercitar la acción penal pública ante los órganos jurisdiccionales competentes, en los casos legalmente procedentes;
+IX. Ejercitar la acción penal pública ante los órganos jurisdiccionales competentes, en los casos legalmente procedentes;
 
-IX. Dictar las determinaciones que legalmente procedan para concluir la investigación de los hechos sometidos al conocimiento del Ministerio Público;
+X. Dictar las determinaciones que legalmente procedan para concluir la investigación de los hechos sometidos al conocimiento del Ministerio Público;
 
-X. Vigilar, promover y dar seguimiento al procedimiento ante los órganos jurisdiccionales, a partir de que se haya ejercitado la acción penal pública;
+XI. Vigilar, promover y dar seguimiento al procedimiento ante los órganos jurisdiccionales, a partir de que se haya ejercitado la acción penal pública;
 
-XI. Contribuir en la formación del archivo general de la Procuraduría, remitiendo las constancias y registros de los procedimientos en los que intervenga;
+XII. Contribuir en la formación del archivo general de la Procuraduría, remitiendo las constancias y registros de los procedimientos en los que intervenga;
 
-XII. Hacer del conocimiento del Procurador, las quejas que se presenten por irregularidades cometidas en las diversas fases del procedimiento; y
+XIII. Hacer del conocimiento del Procurador, las quejas que se presenten por irregularidades cometidas en las diversas fases del procedimiento; y
 
-XIII. Las demás facultades y obligaciones que las leyes le confieran.
+XIV. Las demás facultades y obligaciones que las leyes le confieran.
 
 ###### Artículo 47.
 
@@ -1029,7 +1049,11 @@ II. Formular los dictámenes, certificados y opiniones técnicas que le sean enc
 
 III. Colaborar con el Ministerio Público y la Policía de Investigación del Delito, cuando corresponda, en la preservación y la integridad de los indicios, huellas o vestigios del hecho delictuoso, así como los instrumentos, objetos o productos del delito, a efecto de fijarlos, levantarlos, embalarlos, procesarlos y entregarlos, respetando la cadena de custodia; y
 
-IV. Las demás que las leyes aplicables le confieren.
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2016)</small>
+
+IV. Proporcionar gratuitamente perito traductor o interprete cuando alguna de las direcciones lo soliciten y en caso de no contar con él personas (sic) deberá solicitarlo a la Coordinación de Actuarios y Peritos del Tribunal Superior de Justicia del Estado de Querétaro; y
+
+V. Las demás que las leyes aplicables le confieren.
 
 ###### Artículo 56.
 
@@ -1095,7 +1119,9 @@ V. Coordinar con las instancias competentes, las acciones y procedimientos inher
 
 VI. Proponer medidas para que las autoridades no agraven el sufrimiento de la víctima, ni la traten como sospechosa o responsable de los hechos que denuncia;
 
-VII. Gestionar lo necesario para que la víctima u ofendido del delito reciban, cuando resulte necesario, la asistencia de un traductor o intérprete en forma gratuita;
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2016)</small>
+
+VII. Solicitar de oficio y gratuitamente a la Dirección de Servicios Periciales la asistencia de un traductor o interprete, cuando la víctima u ofendido del delito sea de origen indígena y/o no hable o entienda el idioma español;
 
 VIII. Proporcionar a la víctima u ofendido del delito la asesoría, acompañamiento y representación que requiera ante las instancias jurisdiccionales, en términos de lo legalmente procedente;
 
@@ -1151,7 +1177,9 @@ II. Solicitar la intervención de las unidades administrativas encargadas de pro
 
 III. Cumplir sus funciones con la debida atención y respeto a la dignidad humana, absteniéndose de cualquier acto u omisión que cause o pueda causar la suspensión o deficiencia del servicio;
 
-IV. Solicitar la intervención de intérpretes o traductores en los casos en que la víctima u ofendido del delito así lo requieran;
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2016)</small>
+
+IV. Solicitar de oficio y gratuitamente a la Dirección de Servicios Periciales la intervención de intérpretes o traductores en los casos en que la víctima u ofendido del delito sea de origen indígena y/o no hable o entienda el idioma español;
 
 V. Proporcionar las facilidades necesarias para que la víctima u ofendido del delito pueda identificar al imputado;
 
@@ -1195,7 +1223,9 @@ VIII. Mantener comunicación con la víctima u ofendido del delito, informándol
 
 IX. Requerir a la autoridad para que realice el procedimiento necesario, a efecto de que la víctima u ofendido del delito reciba asistencia consular, cuando sean de otra nacionalidad;
 
-X. Solicitar la intervención gratuita de un intérprete o traductor en cualquiera de las etapas del procedimiento penal, cuando así se requiera para la debida protección y ejercicio de los derechos de la víctima u ofendido del delito;
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2016)</small>
+
+X. Solicitar de oficio a la Dirección de Servicios Periciales la intervención gratuita de un intérprete o traductor en cualquiera de las etapas del procedimiento penal, cuando así se requiera para la debida protección y ejercicio de los derechos de la víctima u ofendido del delito;
 
 XI. Ofrecer, tanto en la investigación como en el proceso, los datos de prueba o medios de prueba con los que cuente, para acreditar el hecho que la ley señale como delito, la responsabilidad del imputado, la existencia de daños y perjuicios, así como el monto de éstos, siempre y cuando sean pertinentes;
 
@@ -2366,3 +2396,11 @@ P.O. 7 DE AGOSTO DE 2015.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
 
 Artículo Segundo. Se derogan todas aquellas disposiciones legales de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 5 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS HUMANOS DEL ESTADO DE QUERÉTARO; LEY DE ENJUICIAMIENTO DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE QUERÉTARO, LEY PARA PREVENIR, INVESTIGAR, SANCIONAR Y REPARAR LA DESAPARICIÓN DE PERSONAS EN EL ESTADO DE QUERÉTARO, LEY DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE QUERÉTARO, LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO, LEY DE DERECHOS Y CULTURA DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE QUERÉTARO, CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERÉTARO, LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE QUERÉTARO Y LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro, "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
