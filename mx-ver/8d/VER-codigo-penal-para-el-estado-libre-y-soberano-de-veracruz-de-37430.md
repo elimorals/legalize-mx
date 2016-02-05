@@ -4,7 +4,7 @@ identifier: "VER-codigo-penal-para-el-estado-libre-y-soberano-de-veracruz-de-374
 country: "mx"
 rank: "codigo"
 publication_date: "2003-11-07"
-last_updated: "2016-02-01"
+last_updated: "2016-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=37430&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 5 DE FEBRERO DE 2016.
 
 Código publicado en la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el viernes 7 de noviembre de 2003.
 
@@ -1609,7 +1609,7 @@ Al responsable de este delito se le impondrán de seis meses a dos años de pris
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 1 DE DICIEMBRE DE 2015)</small>
 
-### CAPÍTULO III. ABUSO ERÓTICO-SEXUAL
+### CAPÍTULO III. ABUSO SEXUAL
 
 > <small>(REFORMADO, G.O. 2 DE ABRIL DE 2010)</small>
 
@@ -1672,6 +1672,8 @@ En el caso previsto en la fracción IV, además de las sanciones arriba indicada
 ###### Artículo 185 Bis.
 
 (DEROGADO, G.O. 2 DE ABRIL DE 2010)
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.O. 5 DE FEBRERO DE 2016)</small>
 
 ### CAPÍTULO I. PEDERASTIA
 
@@ -1857,7 +1859,7 @@ No constituye pornografía el empleo de programas preventivos, educativos o info
 
 ### CAPÍTULO III. DISCRIMINACIÓN DE LAS PERSONAS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 10 DE JULIO DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 5 DE FEBRERO DE 2016)</small>
 
 ### CAPÍTULO IV. DISPOSICIONES COMUNES PARA LOS DELITOS CONTRA LA DIGNIDAD
 
@@ -1901,7 +1903,7 @@ No constituye pornografía el empleo de programas preventivos, educativos o info
 
 ###### Artículo 196.
 
-Se impondrán de uno a dos años de prisión y hasta cien días de trabajo a favor de la comunidad a quien, por razón de edad, sexo, embarazo, estado civil, origen étnico o nacional, lengua, religión, ideología, opinión, preferencia sexual, color de la piel, condición social o económica, trabajo, profesión, características físicas, discapacidad, condición de salud o cualquier otra que atente contra la dignidad humana:
+Se impondrán de uno a dos años de prisión y hasta cien días de trabajo a favor de la comunidad a quien, por razón de edad, sexo, género, embarazo, estado civil, origen étnico o nacional, lengua, religión, ideología, modificaciones corporales, preferencia sexual, color de la piel, condición social o económica trabajo, profesión, características físicas, discapacidad o condición de salud; o cualquier otra causa que atente contra la dignidad humana:
 
 > <small>(REFORMADA, G.O. 10 DE JULIO DE 2008)</small>
 
@@ -2393,7 +2395,9 @@ A quien sin motivo justificado deje de cumplir con la obligación de proporciona
 
 La sanción será de tres meses a cuatro años de prisión y multa hasta de ciento cincuenta días de salario para quien abandone a persona, distinta de los hijos, a la que se tenga obligación legal de proporcionarle alimentos, dejándola sin recursos para atender sus necesidades de subsistencia.
 
-Si el juez lo estima conveniente impondrá la suspensión o privación de los derechos de familia.
+> <small>(REFORMADO, G.O. 5 DE FEBRERO DE 2016)</small>
+
+El Juez suspenderá los derechos familiares al imputado, pudiendo levantar dicha suspensión una vez que se hubieran cubierto todas las cantidades correspondientes a los alimentos y se garantice la continuidad de las mismas.
 
 > <small>(REFORMADO, G.O. 24 DE AGOSTO DE 2004)</small>
 
@@ -4274,5 +4278,13 @@ G.O. 1 DE FEBRERO DE 2016.
 ## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 610 QUE REFORMA LAS FRACCIONES IX Y X Y ADICIONA LA FRACCIÓN XI AL ARTÍCULO 259 DEL CÓDIGO PENAL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
 
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, Órgano del Gobierno del Estado.
+
+Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 5 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 615 QUE REFORMA LA DENOMINACIÓN DEL CAPÍTULO III DEL TÍTULO V DELITOS CONTRA LA LIBERTAD Y LA SEGURIDAD SEXUAL, DEL LIBRO SEGUNDO Y LOS ARTÍCULOS 196 Y 236 DEL CÓDIGO PENAL PARA EL ESTADO LIBRE Y SOBERANO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
