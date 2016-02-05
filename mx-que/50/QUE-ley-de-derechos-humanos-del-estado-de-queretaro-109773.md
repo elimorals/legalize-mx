@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-derechos-humanos-del-estado-de-queretaro-109773"
 country: "mx"
 rank: "ley"
 publication_date: "2015-09-03"
-last_updated: "2015-09-03"
+last_updated: "2016-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=109773&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE DERECHOS HUMANOS DEL ESTADO DE QUERÉTARO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 3 de septiembre de 2015.
 
@@ -617,7 +617,9 @@ La Defensoría deberá poner a disposición de los reclamantes, formularios que 
 
 En todo caso se orientará a los comparecientes sobre el contenido de su queja o reclamación. Las quejas también podrán presentarse oralmente, cuando los comparecientes no puedan o no sepan leer o escribir o sean menores de edad.
 
-Tratándose de personas que no hablen o no entiendan correctamente el idioma español, se les proporcionará gratuitamente un traductor o interprete.
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2016)</small>
+
+Tratándose de personas indígenas, se les proporcionará de oficio y gratuitamente un traductor o intérprete en lengua indígena, el cual será solicitado por la defensoría a la Coordinación de Actuarios y Peritos del Tribunal Superior de Justicia del Estado de Querétaro.
 
 ###### Artículo 50.
 
@@ -1178,3 +1180,13 @@ Lic. Jorge López Portillo Tostado
 Secretario de Gobierno
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS DEL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 5 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS HUMANOS DEL ESTADO DE QUERÉTARO; LEY DE ENJUICIAMIENTO DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE QUERÉTARO, LEY PARA PREVENIR, INVESTIGAR, SANCIONAR Y REPARAR LA DESAPARICIÓN DE PERSONAS EN EL ESTADO DE QUERÉTARO, LEY DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE QUERÉTARO, LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO, LEY DE DERECHOS Y CULTURA DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE QUERÉTARO, CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERÉTARO, LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE QUERÉTARO Y LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro, "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
