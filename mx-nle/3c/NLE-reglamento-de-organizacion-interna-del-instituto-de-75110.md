@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-organizacion-interna-del-instituto-de-75110"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-05-26"
-last_updated: "2014-11-28"
+last_updated: "2016-02-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75110&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "NLE"
 
 REGLAMENTO DE ORGANIZACIÓN INTERNA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE NOVIEMBRE DE 2014.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEGUNDO DEL REGLAMENTO PARA EL GOBIERNO INTERIOR DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE NUEVO LEÓN, PUBLICADO EN EL P.O. DE 5 DE FEBRERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 26 de mayo de 2010.
 
@@ -1246,3 +1248,11 @@ P.O. 28 DE NOVIEMBRE DE 2014.
 PRIMERO: Las presentes Reformas al Reglamento de Organización Interna del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Nuevo León, fueron aprobadas por su H. Consejo Directivo en la VI Sesión Ordinaria celebrada el día 27-veintisiete de noviembre del año 2014-dos mil catorce.
 
 SEGUNDO: Las presentes Reformas al Reglamento entraran en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 5 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO PARA EL GOBIERNO INTERIOR DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE NUEVO LEÓN”.]
+
+PRIMERO.- Este reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- A partir de la entrada en vigor de este reglamento se abroga el Reglamento de Organización Interna del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Nuevo León, publicado el día 26 de mayo del 2010 en el Periódico Oficial del Estado; así como las modificaciones publicadas en el Periódico Oficial del Estado en fecha 28-veintiocho de noviembre del 2014-dos mil catorce: así como todas las disposiciones que se opongan al presente.
