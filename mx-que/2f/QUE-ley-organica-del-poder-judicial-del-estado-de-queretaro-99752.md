@@ -4,7 +4,7 @@ identifier: "QUE-ley-organica-del-poder-judicial-del-estado-de-queretaro-99752"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2014-03-20"
-last_updated: "2015-08-07"
+last_updated: "2016-02-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99752&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ORDENAMIENTO EN LO RELATIVO A LA IMPLEMENTACIÓN DEL SISTEMA PENAL ACUSATORIO ADVERSARIAL, LA VIGENCIA SERÁ GRADUAL Y REGIONAL, DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DE ESTA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO, PUBLICADA EN EL P.O. DE 20 DE MARZO DE 2014.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el jueves 20 de marzo de 2014.
 
@@ -87,7 +87,9 @@ VI. Los servidores públicos estatales y municipales;
 
 VII. Los notarios públicos y los corredores públicos, en las funciones que les encomiende el Código de Procedimientos Civiles del Estado de Querétaro y demás disposiciones legales;
 
-VIII. Los árbitros, mediadores, conciliadores, intérpretes, peritos, síndicos, tutores, curadores, albaceas, depositarios e interventores, en las funciones que les sean encomendadas por la ley; y
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2016)</small>
+
+VIII. Los árbitros, mediadores, conciliadores, intérpretes en idioma o lengua indígena, traductores en idioma o lengua indígena, peritos, síndicos, tutores, curadores, albaceas, depositarios, e interventores, en las funciones que les sean encomendadas por la Ley; y
 
 IX. Aquellas personas cuya participación sea necesaria en la administración e impartición de justicia y la ley les confiera ese carácter.
 
@@ -100,6 +102,12 @@ Los profesionales, técnicos o prácticos en cualquier materia científica, arte
 Los auxiliares de la administración de justicia están obligados a realizar los actos, funciones y trabajos para los que fueran requeridos legalmente por las autoridades judiciales y en forma gratuita. La falta de cumplimiento de estas obligaciones será sancionada en los términos de la ley que corresponda.
 
 Los poderes del Estado, en el ejercicio de sus facultades, están obligados a garantizar y facilitar el ejercicio de las funciones de auxilio a la administración de justicia.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2016)</small>
+
+###### Artículo 6 Bis.
+
+Para el debido cumplimiento de sus funciones, los honorarios de los peritos intérpretes o traductores en idioma o lengua indígena serán pagados por el Estado.
 
 ###### Artículo 7.
 
@@ -1571,9 +1579,11 @@ VI. Las demás relacionadas con su ramo que le encomienden el Pleno del Tribunal
 
 #### Sección Cuarta. De la Coordinación de Actuarios y Peritos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 107.
 
-La Coordinación de Actuarios y Peritos tiene la función de auxiliar administrativamente a los juzgados en todo lo relativo a las funciones actuariales y del registro de peritos, a fin de contribuir en la impartición de justicia de forma expedita. Al efecto contará con las funciones siguientes:
+La Coordinación de Actuarios y Peritos tiene la función de auxiliar a las autoridades encargadas de la administración y procuración de justicia en todo lo relativo a las funciones actuariales, asistencia y del registro de peritos, a fin de contribuir en la impartición de justicia de forma expedita. Al efecto contara con las funciones siguientes:
 
 I. Organizar, dirigir y controlar el desahogo de ejecuciones y notificaciones ordenadas por los órganos jurisdiccionales;
 
@@ -1583,11 +1593,15 @@ III. Coordinar al personal administrativo y de actuaría, así como resguardar l
 
 IV. Llevar el registro de peritos que solicitan al Consejo de la Judicatura su ingreso como auxiliares de la administración de justicia;
 
-V. Capturar de manera veraz y oportuna en los programas o sistemas informáticos implementados por la Dirección de Tecnologías de la Información, los indicadores estadísticos mensuales aprobados por el Consejo de la Judicatura;
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2016)</small>
 
-VI. Contribuir a la integración de las actuaciones en el sistema electrónico de gestión o de control de los órganos y dependencias del Poder Judicial en el ámbito de su competencia; y
+V. Coordinar y proporcionar a los jueces, magistrados y autoridades que lo soliciten, el personal de peritos intérpretes o traductores en idioma o lengua indígena para el debido ejercicio de sus funciones;
 
-VII. Las demás que le confiera la presente Ley y otras disposiciones legales aplicables.
+VI. Capturar de manera veraz y oportuna en los programas o sistemas informáticos implementados por la Dirección de Tecnologías de la Información, los indicadores estadísticos mensuales aprobados por el Consejo de la Judicatura;
+
+VII. Contribuir a la integración de las actuaciones en el sistema electrónico de gestión o de control de los órganos y dependencias del Poder Judicial en el ámbito de su competencia; y
+
+VIII. Las demás que le confiera la presente Ley y otras disposiciones legales aplicables.
 
 #### Sección Quinta. Del Centro de Justicia Alternativa
 
@@ -1717,7 +1731,9 @@ XV. Vigilar el registro y seguimiento de la situación patrimonial de los servid
 
 XVI. Crear las comisiones que estime necesarias y asignarles la atención de los asuntos de su competencia;
 
-XVII. Aprobar, de manera anual, las listas de personas que deban ejercer cargos de síndicos, interventores, albaceas, depositarios judiciales, árbitros, peritos, mediadores, conciliadores, intérpretes y otros auxiliares de la administración de justicia, en los términos de esta Ley;
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2016)</small>
+
+XVII. Aprobar de manera anual, las listas de personas que deben ejercer cargos de síndicos, interventores, albaceas, depositarios judiciales, árbitros, peritos, mediadores, conciliadores, interpretes en idioma o lengua indígena, traductores en idioma o lengua indígena, y otros auxiliares de la administración de justicia, en los términos de esta Ley;
 
 XVIII. Emitir los lineamientos para la administración del Fondo Auxiliar para la Administración de Justicia;
 
@@ -2624,3 +2640,11 @@ P.O. 7 DE AGOSTO DE 2015.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
 
 Artículo Segundo. Se derogan todas aquellas disposiciones legales de igual o menor jerarquía que se opongan a la presente Ley.
+
+P.O. 5 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS HUMANOS DEL ESTADO DE QUERÉTARO; LEY DE ENJUICIAMIENTO DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE QUERÉTARO, LEY PARA PREVENIR, INVESTIGAR, SANCIONAR Y REPARAR LA DESAPARICIÓN DE PERSONAS EN EL ESTADO DE QUERÉTARO, LEY DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE QUERÉTARO, LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO, LEY DE DERECHOS Y CULTURA DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE QUERÉTARO, CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERÉTARO, LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE QUERÉTARO Y LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro, "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
