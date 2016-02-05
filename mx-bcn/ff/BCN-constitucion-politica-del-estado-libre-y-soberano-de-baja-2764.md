@@ -4,7 +4,7 @@ identifier: "BCN-constitucion-politica-del-estado-libre-y-soberano-de-baja-2764"
 country: "mx"
 rank: "constitucion"
 publication_date: "1953-08-16"
-last_updated: "2015-06-12"
+last_updated: "2016-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2764&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Baja California, el domingo 16 de agosto de 1953.
 
@@ -274,6 +274,10 @@ La Bandera, el Himno y el Escudo Nacionales, son los símbolos obligatorios en t
 El Estado de Baja California acata plenamente y asegura a todos sus habitantes los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, y en los Tratados Internacionales de los que el Estado Mexicano sea parte, así como las garantías para su protección, y los demás derechos que reconoce esta Constitución, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que establece la Constitución Política de los Estados Unidos Mexicanos; de igual manera esta norma fundamental tutela el derecho a la vida, desde el momento en que un individuo es concebido, entra bajo la protección de la Ley y se le reputa como nacido para todos los efectos legales correspondientes, hasta su muerte natural o no inducida.
 
 El Estado reconoce y protege la Institución del Matrimonio como un derecho de la sociedad orientado a garantizar y salvaguardar la perpetuación de la especie y ayuda mutua entre los cónyuges, satisfaciéndose este solamente, mediante la unión de un hombre con una mujer.
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2016)</small>
+
+Los titulares de los Poderes Públicos, de los Órganos Constitucionales Autónomos del Estado, así como de los Ayuntamientos, deberán publicar dentro de la primera semana del mes de julio de cada año, en sus páginas oficiales de internet, un informe en el que se señalen las acciones, programas y resultados de la promoción, respeto, protección y garantía de los derechos humanos, conforme lo establezcan las leyes respectivas.
 
 APARTADO A. De la promoción, respeto, protección y garantía de los Derechos Humanos.
 
@@ -4120,3 +4124,9 @@ DECRETO NO. 287 POR EL QUE SE REFORMA AL ARTÍCULO 83 Y LA ADICIÓN DE UN TERCER
 PRIMERO.- Las presentes reformas entrarán en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Dentro de los noventa días siguientes a la publicación de las presentes reformas, el Ejecutivo del Estado realizará los convenios o acciones de coordinación con los gobiernos municipales de la entidad, para el seguimiento en la implementación de las medidas que se ordenan.
+
+P.O. 5 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 434 MEDIANTE EL CUAL SE APRUEBA LA ADICIÓN DE UN TERCER PÁRRAFO AL ARTÍCULO 7 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE BAJA CALIFORNIA".]
+
+ÚNICO.- Las presentes reformas entrarán en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
