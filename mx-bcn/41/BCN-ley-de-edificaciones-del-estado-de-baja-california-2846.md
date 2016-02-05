@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-edificaciones-del-estado-de-baja-california-2846"
 country: "mx"
 rank: "ley"
 publication_date: "1994-06-24"
-last_updated: "2015-11-27"
+last_updated: "2016-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2846&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2016.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Baja California, el viernes 24 de junio de 1994.
 
@@ -54,6 +54,10 @@ OBJETIVO.
 Esta Ley tiene por objeto:
 
 I. Normar la construcción, reparación, modificación, ampliación, mantenimiento y demolición de edificaciones públicas o privadas e instalaciones, para asegurar las condiciones mínimas de seguridad, higiene, funcionamiento, acondicionamiento ambiental e integración al contexto urbano, vigilando a su vez el cuidado del patrimonio histórico cultural e impacto ambiental;
+
+> <small>(ADICIONADO, P.O. 5 DE FEBRERO DE 2016)</small>
+
+Respetando en todo momento, en las edificaciones públicas o privadas e instalaciones, el diseño universal, para que todas las personas con o sin discapacidad, tengan acceso y movilidad en su interior, sin necesidad de adaptación ni diseño especializado, teniendo en cuenta el empleo de elementos de asistencia particulares de cada discapacidad.
 
 II. Establecer los lineamientos de los Reglamentos Municipales de Edificación;
 
@@ -561,13 +565,17 @@ Con el fin de prever la seguridad en casos de emergencias en relación a los acc
 
 I. Para asegurar que las salidas y circulaciones de los edificios garanticen un rápido y seguro desalojo, sus dimensiones se establecerán de acuerdo al tipo y magnitud del edificio, así como las características de las áreas de dispersión, puertas y accesos.
 
-II. Para salidas de emergencia, se establecerá según las características de la edificación, el número y dimensiones de las puertas, circulaciones horizontales, escaleras y rampas.
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2016)</small>
+
+II. Para salidas de emergencia, se establecerán según las características de la edificación, el número y dimensiones de las puertas, circulaciones horizontales, escaleras y rampas, respetando en todo momento el Diseño Universal para que sean utilizadas por todas las personas con o sin discapacidad, teniendo en cuenta además el empleo de elementos de asistencia particulares para cada discapacidad.
 
 III. Las dimensiones mínimas para corredores, túneles y pasillos, se establecerán de acuerdo al tipo de la edificación y circulación.
 
 IV. Los edificios que así lo requieran, tendrán siempre escaleras o rampas peatonales que comuniquen todos sus niveles, aún cuando existan elevadores, escaleras eléctricas o montacargas. Estas deberán cumplir las condiciones de diseño que se establezcan en el proyecto así como el ancho mínimo de acuerdo al tipo de edificación y las características de los espacios a que dan servicio.
 
-V. Para la instalación de butacas y gradas en edificaciones, se deberá cumplir con las condiciones en cuanto a colocación, dimensiones y demás características de éstas.
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2016)</small>
+
+V. Para la instalación de butacas y gradas en edificaciones, se deberá cumplir con las condiciones en cuanto a colocación, dimensiones y demás características de éstas; incluyendo las adecuadas para ser utilizadas para personas con discapacidad y sus acompañantes.
 
 VI. Los elevadores de pasajeros y de carga, escaleras eléctricas y bandas transportadoras de público, cumplirán con las disposiciones establecidas en la materia, considerando las condiciones y características de las edificaciones que requieran de ese servicio.
 
@@ -1269,7 +1277,9 @@ d). No de aviso de terminación de obra en el plazo fijado para el efecto.
 
 II. Con multa de 25 a 500 veces el salario mínimo diario vigente en el Estado de Baja California cuando:
 
-a). No respete las previsiones contra incendio, y;
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2016)</small>
+
+a). No respete las previsiones contra incendio y las previsiones señaladas para personas con discapacidad, y;
 
 b). De datos falsos o se haga uso intencional de documentos falsos o alterados para la obtención de licencias de construcción, o durante la ejecución y uso de la edificación.
 
@@ -1386,3 +1396,13 @@ P.O. 27 DE NOVIEMBRE DE 2015.
 PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 SEGUNDO.- Los Ayuntamientos del Estado contarán con un plazo de 180 días contados a partir de la publicación del presente Decreto en el Periódico Oficial del Estado para realizar las modificaciones correspondientes a sus reglamentos municipales.
+
+P.O. 5 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 435 MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 2 FRACCIÓN I, 25 Y 73 INCISO A, FRACCIÓN II DE LA LEY DE EDIFICACIONES DEL ESTADO DE BAJA CALIFORNIA”.]
+
+PRIMERO: La presente reforma entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California.
+
+SEGUNDO: Se establece un término de sesenta días para que el Ejecutivo del Estado y Municipios adecúen su normatividad aplicable a la materia.
+
+TERCERO: Se señalan un término de dieciocho meses para que de manera progresiva se adecúen los edificios públicos y privados e instalaciones, a las necesidades de personas con discapacidad.
