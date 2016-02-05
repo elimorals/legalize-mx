@@ -4,7 +4,7 @@ identifier: "QUE-ley-de-procedimientos-administrativos-del-estado-de-67479"
 country: "mx"
 rank: "ley"
 publication_date: "2009-02-27"
-last_updated: "2012-07-06"
+last_updated: "2016-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=67479&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "QUE"
 
 LEY DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 6 DE JULIO DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Querétaro, el viernes 27 de febrero de 2009.
 
@@ -155,13 +155,11 @@ La actuación administrativa en el procedimiento se desarrollará con arreglo a 
 
 El procedimiento administrativo podrá iniciarse de oficio o a petición de parte interesada o de sus representantes legítimos.
 
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 13.
 
-Todas las promociones deberán hacerse por escrito, donde se precise el nombre, la denominación o razón social de quien promueva, de su representante legal, en su caso, el domicilio para recibir notificaciones, el nombre de los autorizados para recibirlas, la petición que se formule, los hechos o razones que la motiven, el órgano administrativo al que se dirijan, el lugar y fecha de formulación; contener la firma autógrafa del interesado o de su representante legal, salvo que estén impedidos para ello o no sepan hacerlo y así lo manifiesten bajo protesta de decir verdad, en cuyo caso se imprimirán su huella digital, así como el nombre y firma de dos testigos.
-
-Se deberán adjuntar los documentos que acrediten, tanto su personalidad, como los hechos en que se funde su petición. Si fuera omiso, se le prevendrá para que los exhiba en un plazo no mayor de tres días, con el apercibimiento de tener por no presentada su solicitud, en caso de no hacerlo.
-
-Quedan exceptuadas de esta disposición, las promociones consistentes en quejas, reportes o denuncias de carácter administrativo en contra de servidores públicos, las que se sujetarán a los requisitos y formalidades que establezcan las leyes y reglamentos aplicables al régimen disciplinario de los servidores públicos.
+Todas las promociones deberán hacerse por escrito y redactarse en español. Los documentos presentados en otro idioma o lengua, deberán acompañarse con la correspondiente traducción al español o en su caso deberá ser solicitado a fin de ser elaborado en forma gratuita por traductores del Tribunal Superior de Justicia.
 
 ###### Artículo 14.
 
@@ -170,6 +168,10 @@ Para el trámite de documentos o promociones, se observarán las siguientes regl
 I. Los documentos deberán presentarse en original, adjuntando una copia simple de ellos para el acuse de recibo; y
 
 II. Todo documento original puede presentarse en copia certificada.
+
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2016)</small>
+
+III. Todo documento o promoción que estuviere (sic) redactados en idioma o lengua diferente al español, se acompañarán con traducción de los mismos o en su caso deberá ser solicitada por la autoridad, a fin de ser elaborado en forma gratuita por traductores del Tribunal Superior de Justicia del Estado de Querétaro.
 
 En caso de que el interesado no tenga en su poder los documentos requeridos y se encuentre imposibilitado legalmente para obtenerlos, deberá indicar la causa y acreditar haberlos solicitado oportunamente, señalando los datos de identificación de dichos documentos y del archivo en que se encuentren, a efecto que la autoridad los recabe, a costa del interesado.
 
@@ -561,9 +563,11 @@ La prueba pericial procede cuando sean necesarios conocimientos especiales en al
 
 Las partes designarán a su perito al ofrecer la prueba, quien en la misma promoción deberá aceptar el cargo conferido, protestado su fiel y legal desempeño, así como imponiendo su firma autógrafa en el propio escrito.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 73.
 
-Cuando las partes ofrezcan pruebas documentales, deberán exhibirlas conjuntamente con el escrito de ofrecimiento. Si los documentos estuvieran redactados en idioma extranjero, se acompañará traducción oficial de los mismos, realizada por traductores del Tribunal Superior de Justicia del Estado de Querétaro o de la Universidad Autónoma de Querétaro.
+Cuando las partes ofrezcan pruebas documentales, deberán exhibirlas conjuntamente con el escrito de ofrecimiento. Si los documentos estuvieran redactados en idioma extranjero o lengua, se acompañará de traducción oficial de los mismos, o en su caso deberá ser solicitada por la autoridad a fin de ser elaborado en forma gratuita por traductores del Tribunal Superior de Justicia del Estado de Querétaro.
 
 Después de este periodo, no podrán admitirse sino aquellos que, ofrecidos dentro del plazo, hubieran sido solicitados con anterioridad a la autoridad que los tuviere en su poder, debiendo hacer mención de esta circunstancia; y los que constituyan prueba superveniente.
 
@@ -1022,3 +1026,11 @@ P.O. 6 DE JULIO DE 2012.
 Artículo Primero. La presente Ley entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga."
 
 Artículo Segundo. Se derogan todas aquellas disposiciones de igual o menor jerarquía que se opongan a la misma.
+
+P.O. 5 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “LEY QUE REFORMA DIVERSAS DISPOSICIONES DE LA LEY DE DERECHOS HUMANOS DEL ESTADO DE QUERÉTARO; LEY DE ENJUICIAMIENTO DE LO CONTENCIOSO ADMINISTRATIVO DEL ESTADO DE QUERÉTARO, LEY PARA PREVENIR, INVESTIGAR, SANCIONAR Y REPARAR LA DESAPARICIÓN DE PERSONAS EN EL ESTADO DE QUERÉTARO, LEY DE PROCEDIMIENTOS ADMINISTRATIVOS DEL ESTADO DE QUERÉTARO, LEY DE LOS TRABAJADORES DEL ESTADO DE QUERÉTARO, LEY DE DERECHOS Y CULTURA DE LOS PUEBLOS Y COMUNIDADES INDÍGENAS DEL ESTADO DE QUERÉTARO, CÓDIGO DE PROCEDIMIENTOS CIVILES DEL ESTADO DE QUERÉTARO, LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE QUERÉTARO Y LA LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE QUERÉTARO”.]
+
+Artículo Primero. La presente Ley entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial de Gobierno del Estado de Querétaro, "La Sombra de Arteaga".
+
+Artículo Segundo. Se derogan todas las disposiciones de igual o menor jerarquía que se opongan a la presente Ley.
