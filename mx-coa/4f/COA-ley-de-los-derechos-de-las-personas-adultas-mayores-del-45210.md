@@ -4,7 +4,7 @@ identifier: "COA-ley-de-los-derechos-de-las-personas-adultas-mayores-del-45210"
 country: "mx"
 rank: "ley"
 publication_date: "2005-06-10"
-last_updated: "2015-12-11"
+last_updated: "2016-02-05"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45210&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "COA"
 
 LEY DE LAS PERSONAS ADULTAS MAYORES PARA EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2015.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DE 11 DE DICIEMBRE DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 10 de junio del 2005.
 
@@ -591,7 +589,13 @@ XI. Promover la modificación, derogación o abrogación de los ordenamientos es
 
 XII. Promover la observancia y el cumplimiento de las disposiciones contenidas en el presente ordenamiento legal en beneficio de las personas adultas mayores.
 
-XIII. Las demás que resulten de la aplicación de la presente Ley y de los demás ordenamientos legales y reglamentarios aplicables en la materia.
+> <small>(REFORMADA, P.O. 5 DE FEBRERO DE 2016)</small>
+
+XIII. Promover los programas y acciones públicas que garanticen la alimentación y nutrición adecuada de las personas adultas mayores que se encuentren en situación de vulnerabilidad.
+
+> <small>(ADICIONADA, P.O. 5 DE FEBRERO DE 2016)</small>
+
+XIV. Las demás que resulten de la aplicación de la presente Ley y de los demás ordenamientos legales y reglamentarios aplicables en la materia.
 
 ###### Artículo 41.
 
@@ -849,7 +853,7 @@ II. Promover la formulación de programas educativos de licenciatura y postgrado
 
 III. Proponer ante las autoridades correspondientes, la incorporación de contenidos sobre procesos de envejecimiento en los planes y programas de estudio de todos los niveles educativos.
 
-IV. Facilitar el acceso a la cultura a las personas adultas mayores a través de talleres, exposiciones, concursos y eventos estatales, nacionales e internacionales, así como a eventos culturales, previa acreditación de su edad, de manea gratuita o con descuentos especiales y otorgando a los ganadores los reconocimientos y premios correspondientes.
+IV. Facilitar el acceso a la cultura a las personas adultas mayores a través de talleres, exposiciones, concursos y eventos estatales, nacionales e internacionales, así como a eventos culturales, previa acreditación de su edad, de manea (sic) gratuita o con descuentos especiales y otorgando a los ganadores los reconocimientos y premios correspondientes.
 
 V. Fomentar entre toda la población una cultura de la vejez, de respeto, aprecio, reconocimiento a la capacidad de aportación de las personas adultas mayores.
 
@@ -1288,3 +1292,15 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 Se derogan todas las disposiciones que se opongan al siguiente Decreto
+
+P.O. 5 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 293.- SE REFORMA LA FRACCIÓN XIII Y SE ADICIONAN (SIC) UNA FRACCIÓN XIV AL ARTÍCULO 40 DE DE (SIC) LA LEY DE LAS PERSONAS ADULTOS (SIC) MAYORES PARA EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+###### ARTÍCULO PRIMERO.
+
+La presente iniciativa entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al siguiente decreto.
