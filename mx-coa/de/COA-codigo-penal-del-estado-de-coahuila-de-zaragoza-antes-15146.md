@@ -4,7 +4,7 @@ identifier: "COA-codigo-penal-del-estado-de-coahuila-de-zaragoza-antes-15146"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-05-28"
-last_updated: "2015-12-15"
+last_updated: "2016-02-05"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15146&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE FEBRERO DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 28 de mayo de 1999.
 
@@ -5821,13 +5821,15 @@ Los supuestos de la fracción II se sancionarán, además, con la pérdida de la
 
 Los supuestos de la fracción III, motivarán, además, la suspensión hasta por un término de cinco años para desempeñar el cargo o empleo público; o ejercer la profesión.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE FEBRERO DE 2016)</small>
 
 ###### ARTÍCULO 388.
 
-SANCIONES Y FIGURA TÍPICA DE VIOLACIÓN IMPROPIA POR INSTRUMENTO O ELEMENTO DISTINTO AL NATURAL. Se aplicará prisión de cuatro a nueve años y multa a quien ilícitamente introduzca en forma total o parcial cualquier elemento o instrumento distinto al pene, por la vía anal o vaginal de persona menor de quince años de edad; o que por cualquier causa no tenga la capacidad para comprender el significado del hecho o posibilidad de resistir la conducta delictuosa.
+SANCIONES Y FIGURA TÍPICA DE VIOLACIÓN IMPROPIA POR INSTRUMENTO O ELEMENTO DISTINTO AL NATURAL. Se aplicará prisión de cuatro a nueve años y multa: A quien ilícitamente introduzca en forma total o parcial por la vía anal o vaginal cualquier elemento o instrumento distinto al pene, sin el consentimiento de la persona.
 
-Las mismas sanciones se aplicarán: A quien ilícitamente introduzca en forma total o parcial cualquier elemento o instrumento distinto al pene, por la vía anal o vaginal de persona de hasta doce años de edad o menor a esa edad; o que por cualquier causa no tenga la capacidad para comprender el significado del hecho o posibilidad de resistir la conducta delictuosa.
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2016)</small>
+
+Se aplicará de seis a once años y multa: A quien ilícitamente introduzca en forma total o parcial cualquier elemento o instrumento distinto al pene, por la vía anal o vaginal a persona menor de quince años de edad, o al que por cualquier causa no tenga la capacidad para comprender el significado del hecho o posibilidad de resistir la conducta delictuosa.
 
 Se incrementará en un tercio el mínimo y el máximo de las sanciones de los párrafos anteriores, cuando concurra cualquiera de las circunstancias calificativas del artículo anterior.
 
@@ -5839,11 +5841,9 @@ ARTÍCULO 388 BIS. ACCESO CARNAL VIOLENTO Y VIOLACIÓN CON RESULTADO DE MUERTE O
 
 ###### ARTÍCULO 389.
 
-SANCIONES Y FIGURAS TÍPICAS DE RAPTO. Se aplicará prisión de uno a siete años y multa a quien con cualquiera de los fines del párrafo anterior, por medio de la seducción o engaño sustraiga o retenga a una persona mayor de quince años pero menor de dieciocho, salvo que se trate de emancipados conforme a la ley, o a una persona sin capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión, o por cualquier circunstancia personal no pueda resistirlo.
+SANCIONES Y FIGURAS TÍPICAS DE RAPTO. Se aplicará prisión de uno a siete años y multa a quien por medio de la violencia física o moral o engaño sustraiga o retenga a una persona para satisfacer algún deseo erótico o para casarse.
 
-> <small>(REFORMADO, P.O. 11 DE MARZO DE 2006)</small>
-
-Las misma (sic) penas se aplicarán: A quien con cualquiera de los fines del párrafo anterior, por medio de la seducción o engaño sustraiga o retenga a un menor de dieciocho años, salvo que se trate de emancipados conforme a la ley, o a una persona sin capacidad de comprender el significado del hecho o de decidir conforme a esa comprensión, o por cualquier circunstancia personal no pueda resistirlo.
+Se aplicará prisión de dos a ocho años y multa: A quien con cualquiera de los fines del párrafo anterior, por medio de la seducción o engaño sustraiga o retenga a una persona mayor de quince años pero menor de dieciocho.
 
 > <small>(REFORMADO, P.O. 11 DE MARZO DE 2006)</small>
 
@@ -5887,9 +5887,7 @@ AMPLIACIÓN DE LA REPARACIÓN DEL DAÑO POR CONSECUENCIAS ESPECÍFICAS DE VIOLAC
 
 ### CAPÍTULO SEGUNDO. RAPTO
 
-(NOTA: EL 27 DE JUNIO DE 2017, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS QUINTO Y SEXTO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 135/2015, DECLARÓ LA INVALIDEZ DE ESTE ARTÍCULO, LA CUAL SURTIÓ EFECTOS EL 28 DE JUNIO DE 2017 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 5 DE FEBRERO DE 2016)</small>
 
 ###### ARTÍCULO 397.
 
@@ -6986,3 +6984,9 @@ P.O. 15 DE DICIEMBRE DE 2015.
 PRIMERO.- El presente Decreto entrara en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
 
 SEGUNDO.- Publíquese el presente decreto en el Periódico Oficial del Gobierno del Estado.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NO. 381.- SE MODIFICAN LOS ARTÍCULOS 388 EN SU PRIMER Y SEGUNDO PÁRRAFO, Y 389 DEL CÓDIGO PENAL DEL ESTADO DE COAHUILA DE ZARAGOZA".]
+
+P.O. 5 DE FEBRERO DE 2016.
+
+ÚNICO.- La presente reforma entrará en vigor el día de su publicación en el Periódico Oficial del Gobierno del Estado.
