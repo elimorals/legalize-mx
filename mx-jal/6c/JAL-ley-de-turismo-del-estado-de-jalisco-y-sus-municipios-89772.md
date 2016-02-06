@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-turismo-del-estado-de-jalisco-y-sus-municipios-89772"
 country: "mx"
 rank: "ley"
 publication_date: "2012-10-18"
-last_updated: "2015-11-12"
+last_updated: "2016-02-06"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=89772&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "JAL"
 ---
 # LEY DE TURISMO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 6 DE FEBRERO DE 2016 EN EL P.O. DEL ESTADO DE JALISCO, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE TURISMO DEL ESTADO DE JALISCO Y SUS MUNICIPIOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE NOVIEMBRE DE 2015.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 6 DE FEBRERO DE 2016.]</small>
 
 Ley publicada en la Sección VII del Periódico Oficial del Estado de Jalisco, el jueves 18 de octubre de 2012.
 
@@ -1089,19 +1089,73 @@ Artículo 69L. La Secretaría podrá supervisar la imagen, información, servici
 
 ### CAPÍTULO I. Verificación
 
-> <small>(REFORMADO, P.O. 12 DE NOVIEMBRE DE 2015)</small>
+> <small>(F. DE E., P.O. 6 DE FEBRERO DE 2016)</small>
 
 ## TÍTULO SEXTO. PROCEDIMIENTO ADMINISTRATIVO
 
 ### CAPÍTULO II. Quejas
 
+> <small>(F. DE E., P.O. 6 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 70.
 
-Corresponde a la Secretaría verificar el cumplimiento de esta Ley y su respectivo reglamento, de conformidad con lo establecido en la Ley General de Turismo y su Reglamento, y de acuerdo a lo contemplado en los convenios que se suscriban entre la Federación y el Estado de Jalisco.
+Corresponde a la Secretaría verificar el cumplimiento de esta Ley y su respectivo reglamento, así como demás disposiciones aplicables en la materia, por lo que es facultad de la misma realizar visitas de verificación a los Prestadores de servicios turísticos, a efecto de constatar el debido cumplimiento de sus obligaciones, buscado (sic) la excelencia y competitividad en la prestación de los servicios turísticos.
+
+> <small>(F. DE E., P.O. 6 DE FEBRERO DE 2016)</small>
+
+Para efecto de lo anterior y con el objeto de evitar duplicidad de funciones en materia de verificación, la Secretaría a través de programas o acuerdos de coordinación con la Secretaría de Turismo, Procuraduría Federal del Consumidor, Dependencias Estatales y municipios, establecerán las bases a que se sujetarán dichos programas de verificación sin perjuicio de que la Secretaría de Turismo realice las verificaciones que considere pertinentes observando lo dispuesto en este capítulo.
+
+> <small>(F. DE E., P.O. 6 DE FEBRERO DE 2016)</small>
+
+Artículo 70 A. Las visitas de verificación que efectúe la Secretaría de Turismo, se regirán por la Ley General, su reglamento, la presente ley, así como lo previsto por la Ley Federal del Procedimiento Administrativo.
+
+> <small>(F. DE E., P.O. 6 DE FEBRERO DE 2016)</small>
+
+Los Municipios, deberán brindar a la Secretaría las facilidades necesarias para que ésta ejerza sus facultades de verificación en las demarcaciones territoriales que les correspondan.
+
+> <small>(F. DE E., P.O. 6 DE FEBRERO DE 2016)</small>
+
+Artículo 70 B. Las visitas de verificación se practicarán en días y horas hábiles, por personal autorizado que exhiba identificación vigente y a la orden de verificación respectiva, la que deberá ser expedida por la autoridad competente y en la que claramente se especifiquen las disposiciones cuyo cumplimiento habrá de verificarse y la manera de hacerse. Sin perjuicio de lo anterior, las visitas de verificación podrán practicarse en días y horas inhábiles, en aquellos casos en que el tipo y la naturaleza de los servicios turísticos así lo requieran, pero dentro del horario de funcionamiento autorizado para el establecimiento.
+
+> <small>(F. DE E., P.O. 6 DE FEBRERO DE 2016)</small>
+
+Artículo 70 C. Las visitas de verificación se realizaran con el representante, apoderado legal o propietario del establecimiento en donde se presten, ofrezcan, contraten o publiciten los servicios turísticos. De no encontrarse ninguno de los anteriores, las visitas se llevaran a cabo con el responsable de la operación del establecimiento o quien atienda al verificador.
+
+> <small>(F. DE E., P.O. 6 DE FEBRERO DE 2016)</small>
+
+Concluida la verificación, la Secretaría turnará a la o las dependencias competentes copia del acta circunstanciada de la actuación realizada, para efectos de que valore los hechos u omisiones asentadas en la misma, para posteriormente determinar la sanción que corresponda en su caso.
+
+### CAPITULO III. Sanciones
+
+> <small>(F. DE E., P.O. 6 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 71.
 
-La Secretaría estará facultada para recibir las quejas que se presenten respecto a la prestación de servicios turísticos, quedando obligada a remitirlas a la Secretaría Federal para que ésta genere la sanción correspondiente de acuerdo con la infracción cometida, que está establecida en los artículos 69 al 73 de la ley general.
+La Secretaría estará facultada para recibir las quejas que se presente (sic) respecto a la prestación de servicios turísticos, quedando obligada a remitirlas a la Secretaría Federal o a la instancia que resulte competente, para que éstas generen en sus respectivos ámbitos de competencia la sanción correspondiente de acuerdo con las infracciones cometidas.
+
+> <small>(F. DE E., P.O. 6 DE FEBRERO DE 2016)</small>
+
+###### Artículo 72.
+
+Las Sanciones a prestadores de servicios turísticos estarán reglamentados por la presente Ley, La Ley General, su reglamento, La Ley Federal del Procedimiento Administrativo y demás legislación aplicable.
+
+> <small>(F. DE E., P.O. 6 DE FEBRERO DE 2016)</small>
+
+###### Artículo 73.
+
+La Secretaría podrá establecer con la Secretaría de Turismo y otras instancias los mecanismos de colaboración necesarios para la aplicación de sanciones.
+
+> <small>(F. DE E., P.O. 6 DE FEBRERO DE 2016)</small>
+
+###### Artículo 74.
+
+Para la aplicación de sanciones, se estará a lo dispuesto por los artículos 68 al 72 de la Ley General de Turismo, así como a lo dispuesto por la Ley Federal del Procedimiento Administrativo.
+
+> <small>(F. DE E., P.O. 6 DE FEBRERO DE 2016)</small>
+
+###### Artículo 75.
+
+Contra las resoluciones dictadas al amparo de la presente Ley, así como la Ley General, se podrá interponer el Recurso de Revisión, previsto en la Ley Federal del Procedimiento Administrativo.
 
 T R A N S I T O R I O S
 
