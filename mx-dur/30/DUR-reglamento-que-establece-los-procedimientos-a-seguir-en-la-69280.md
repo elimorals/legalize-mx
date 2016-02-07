@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-que-establece-los-procedimientos-a-seguir-en-la-6928
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-06-04"
-last_updated: "2009-06-04"
+last_updated: "2016-02-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69280&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "DUR"
 ---
 # REGLAMENTO QUE ESTABLECE LOS PROCEDIMIENTOS A SEGUIR EN LA IMPUGNACION DE LAS RESOLUCIONES QUE EMITAN LOS CONSEJOS MUNICIPALES ELECTORALES EN EL PROCEDIMIENTO ESPECIAL SANCIONADOR
 
-REGLAMENTO QUE ESTABLECE LOS PROCEDIMIENTOS A SEGUIR EN LA IMPUGNACION DE LAS RESOLUCIONES QUE EMITAN LOS CONSEJOS MUNICIPALES ELECTORALES EN EL PROCEDIMIENTO ESPECIAL SANCIONADOR
+REGLAMENTO QUE ESTABLECE LOS PROCEDIMIENTOS A SEGUIR EN LA IMPUGNACIÓN DE LAS RESOLUCIONES QUE EMITAN LOS CONSEJOS MUNICIPALES ELECTORALES EN EL PROCEDIMIENTO ESPECIAL SANCIONADOR
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO QUE ESTABLECE LOS PROCEDIMIENTOS A SEGUIR EN LA IMPUGNACIÓN DE LAS RESOLUCIONES QUE EMITAN LOS CONSEJOS MUNICIPALES ELECTORALES EN EL PROCEDIMIENTO ESPECIAL SANCIONADOR, PUBLICADO EN EL P.O. DE 7 DE FEBRERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el jueves 4 de junio de 2009.
 
@@ -476,3 +478,17 @@ Los medios de apremio y las correcciones disciplinarias a que se refiere el art�
 PRIMERO.- El presente reglamento entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 SEGUNDO.- Publíquese en la página Web del propio Instituto, en cumplimiento al principio de publicidad a que hace referencia el artículo 11 fracción III de la Ley (sic) Transparencia y Acceso a la Información Pública del Estado de Durango.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO No. 68.- EMITIDO POR EL CONSEJO GENERAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE DURANGO, POR EL QUE SE APRUEBA EL REGLAMENTO QUE ESTABLECE LOS PROCEDIMIENTOS A SEGUIR EN LA IMPUGNACIÓN DE LAS RESOLUCIONES QUE EMITAN LOS CONSEJOS MUNICIPALES ELECTORALES EN EL PROCEDIMIENTO ESPECIAL SANCIONADOR”.]
+
+PRIMERO. Se abroga el Reglamento que establece los Procedimientos a seguir en la Impugnación de las Resoluciones que emitan los Consejos Municipales Electorales en el Procedimiento Especial Sancionador, aprobado por el Consejo Estatal Electoral mediante acuerdo, aprobado por el Consejo Estatal Electoral, mediante acuerdo número 19, tomando en la sesión extraordinaria número 11 de fecha 29 de mayo de 2009 y publicado en el Periódico Oficial del Gobierno Constitucional del Estado de Durango de fecha jueves 4 de junio de 2009.
+
+SEGUNDO. Los asuntos que se encuentren en trámite al momento de la entrada en vigor del presente Reglamento, continuarán hasta su conclusión de conformidad con las normas vigentes en su momento.
+
+TERCERO. El presente Reglamento entrará en vigor y surtirá efectos a partir del día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
+
+CUARTO. Comuníquese de inmediato el contenido del presente Reglamento a los Consejos Municipales Electorales por conducto de sus Presidentes y Secretarios Municipales.
