@@ -4,7 +4,7 @@ identifier: "DUR-reglamento-de-fiscalizacion-69279"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-06-04"
-last_updated: "2009-06-04"
+last_updated: "2016-02-07"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=69279&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,13 +21,15 @@ state: "DUR"
 ---
 # REGLAMENTO DE FISCALIZACION
 
-REGLAMENTO DE FISCALIZACION
+REGLAMENTO DE FISCALIZACIÓN
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL PUNTO QUINTO DEL ACUERDO NÚMERO 62, PUBLICADO EN EL P.O. DE 7 DE FEBRERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 7 DE FEBRERO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Durango, el jueves 4 de junio de 2009.
 
-ACUERDO NÚMERO DIECIOCHO emitido por el Consejo Estatal del Instituto Electoral y de Participación Ciudadana del Estado de Durango en sesión extraordinaria número once de fecha viernes veintinueve de mayo de dos mil nueve, por el que se aprueba el Reglamento de Fiscalización, de conformidad con los artículos 94 fracción IV y Quinto Transitorio de la Ley Electoral para el Estado de Durango, en base a los siguientes: .
+ACUERDO NÚMERO DIECIOCHO emitido por el Consejo Estatal del Instituto Electoral y de Participación Ciudadana del Estado de Durango en sesión extraordinaria número once de fecha viernes veintinueve de mayo de dos mil nueve, por el que se aprueba el Reglamento de Fiscalización, de conformidad con los artículos 94 fracción IV y Quinto Transitorio de la Ley Electoral para el Estado de Durango, en base a los siguientes:
 
 Por lo anteriormente expuesto y con fundamento en los artículos 25, fracción IV párrafo séptimo de la Constitución Política del Estado Libre y Soberano de Durango; 94 fracción IV, 117 fracciones I, XIX y XL, y, Quinto Transitorio de la Ley Electoral para el Estado de Durango, este Órgano Colegiado emite el siguiente
 
@@ -175,7 +177,7 @@ II. Presentación e integración de sus informes referentes al origen, monto y d
 
 III. La fiscalización correspondiente por cualquier modalidad de financiamiento.
 
-## TÍTULO SEGUNDO (SIC). LINEAMIENTOS PARA LOS GASTOS ORDINARIOS DE LOS PARTIDOS POLÍTICOS
+## TÍTULO SEGUNDO. LINEAMIENTOS PARA LOS GASTOS ORDINARIOS DE LOS PARTIDOS POLÍTICOS
 
 ### CAPÍTULO I. DE LOS INGRESOS
 
@@ -1356,3 +1358,21 @@ TERCERO. Los partidos políticos deberán llevar una contabilidad formal si sus 
 CUARTO. El presente reglamento entrará en vigor a partid del día siguiente al de su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Durango.
 
 Aprobado por la Comisión de Fiscalización del Consejo Estatal del Instituto Electoral y de Participación Ciudadana del Estado de Durango, en sesión número trece de fecha veintisiete de mayo de dos mil nueve.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 7 DE FEBRERO DE 2016.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS DEL "ACUERDO NO. 62.- EMITIDO POR EL CONSEJO GENERAL DEL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DEL ESTADO DE DURANGO, POR EL QUE SE APRUEBA EL REGLAMENTO DE FISCALIZACIÓN DE LOS RECURSOS DE LAS AGRUPACIONES POLÍTICAS ESTATALES" QUE SE RELACIONAN CON LA REFORMA DEL ORDENAMIENTO.]</small>
+
+PRIMERO. Se aprueba el Reglamento para la Fiscalización de los Recursos de las Agrupaciones Políticas Estatales que presenta la Comisión de Fiscalización del Consejo General, el cual se anexa al presente y forma parte íntegra del mismo para los efectos conducentes.
+
+SEGUNDO. Se instruye a la Comisión de Fiscalización para que notifique el presente Acuerdo a la Agrupación Política Estatal con registro ante el Instituto Electoral y de Participación Ciudadana del Estado de Durango.
+
+TERCERO. Se instruye a la Comisión de Fiscalización para que la revisión del informe anual de ingresos y egresos presentados por la Agrupación Política Estatal con registro ante el Instituto Electoral y de Participación Ciudadana del Estado de Durango correspondiente al ejercicio 2015 sea dictaminado en base al segundo párrafo del considerando noveno del presente Acuerdo.
+
+CUARTO. Se instruye a la Secretaria Ejecutiva del Instituto Electoral y de Participación Ciudadana del Estado de Durango para que notifique la aprobación del Reglamento para la Fiscalización de los Recursos de las Agrupaciones Políticas Estatales al Tribunal Electoral· del Estado de Durango.
+
+QUINTO. Se abroga el reglamento de Fiscalización aprobado mediante Acuerdo número 18 publicado en el Periódico Oficial del Gobierno del Estado de Durango en fecha Número 45 de fecha 4 de junio de 2009.
+
+SEXTO. Publíquese el presente Acuerdo en el Periódico Oficial del Gobierno del Estado, en las redes sociales oficiales y en la página de internet del Instituto Electoral y de Participación Ciudadana del Estado de Durango.
