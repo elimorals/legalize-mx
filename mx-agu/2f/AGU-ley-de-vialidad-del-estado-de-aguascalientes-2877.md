@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-vialidad-del-estado-de-aguascalientes-2877"
 country: "mx"
 rank: "ley"
 publication_date: "1994-05-29"
-last_updated: "2015-06-15"
+last_updated: "2016-02-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2877&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE VIALIDAD DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2016.
 
 Ley publicada en el Suplemento a la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el domingo 29 de mayo de 1994.
 
@@ -2293,9 +2293,13 @@ VII.- Cuando no cumpla con los requisitos de seguridad previstos por esta Ley.
 
 VIII.- Cuando el vehículo tenga defecto en su sistema de frenado.
 
-IX.- Cuando exista requerimiento para su detención por parte de autoridad competente policiaca, judicial, fiscal o de tránsito; y
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2016)</small>
 
-X.- (DEROGADA, P.O. 17 DE ABRIL DE 2006)
+IX. Cuando exista requerimiento para su detención por parte de autoridad competente policiaca, judicial, fiscal o de tránsito;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 8 DE FEBRERO DE 2016)</small>
+
+X. Cuando obstruya o se estacione en bahías, rampas o espacios para uso exclusivo de personas con discapacidad, salvo que se acredite fehacientemente necesitarlo; y
 
 > <small>(REFORMADA, P.O. 27 DE DICIEMBRE DE 2004)</small>
 
@@ -2329,15 +2333,21 @@ VI.- Cuando su conductor se encuentre con síntomas simples de aliento alcohóli
 
 En los casos antes mencionados, la autoridad competente una vez terminados los trámites relativos a la infracción, procederán a la entrega inmediata del vehículo cuando se cubran previamente los derechos del traslados (sic) si los hubiere, el pago de la multa y se acredita su propiedad o posesión legal.
 
-> <small>(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2016)</small>
 
 ###### ARTICULO 151.
 
-En el caso de vehículos estacionados en lugar prohibido o en doble fila, se deberán atender las disposiciones siguientes:
+En el caso de vehículos estacionados en lugar prohibido, en doble fila, en bahías, rampas o espacios para uso exclusivo de personas con discapacidad o que obstruya éstos, se deberán atender las disposiciones siguientes:
 
-I.- La autoridad competente sólo podrá retirar de la vía pública un vehículo, cuando conjuntamente con el señalamiento prohibitivo esté el que indique que se usará grúa y en caso de que obstruya la circulación o el acceso a algún predio, siempre y cuando no esté presente el conductor o estando, no quiera o pueda removerlo;
+> <small>(REFORMADA, P.O. 8 DE FEBRERO DE 2016)</small>
+
+I.- La autoridad competente sólo podrá retirar de la vía pública un vehículo, cuando conjuntamente con el señalamiento prohibitivo esté el que indique que se usará grúa y en caso de que obstruya la circulación o el acceso a algún predio, siempre y cuando no esté presente el conductor o estando, no quiera removerlo; o bien, se ocupe (sic) bahías, rampas o espacios con señalamiento de uso exclusivo de personas con discapacidad u obstruya éstos, en cuyo caso se actuará en términos del Artículo 149, Fracción X de la presente Ley.
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
 II.- En caso de que esté presente el conductor y remueva el vehículo, solo se levantará la infracción que procede; y
+
+> <small>(REFORMADA, P.O. 29 DE SEPTIEMBRE DE 2003)</small>
 
 III.- Una vez remitido el vehículo al depósito vehicular los agentes deberán informarlo de inmediato a la superioridad, procediendo a sellar el vehículo para garantizar su conservación y la guarda de objetos que en él se encuentren.
 
@@ -3055,7 +3065,7 @@ El Honorable Ayuntamiento del Municipio de Aguascalientes, Ags., emitirá en un 
 
 ###### ARTÍCULO TERCERO.
 
-El Honorable Ayuntamiento del Municipio de Aguascalientes, Ags., determinará en un plazo de noventa días naturales, contados a partir de la publicación del presente Decreto, las acciones para la prevención y el tratamiento del alcoholismo que habrán de ser financiados con lo recaudado en virtud de las multas impuestas a personas que conduzcan en estado de ebriedad o bajó el efecto de estupefacientes, psicotrópicos u otras sustancias tóxicas, o, en su caso, si dicho ingreso se destinará al equipamiento de los elementos de seguridad pública y tránsito del propio Municipio.
+El Honorable Ayuntamiento del Municipio de Aguascalientes, Ags., determinará en un plazo de noventa días naturales, contados a partir de la publicación del presente Decreto, las acciones para la prevención y el tratamiento del alcoholismo que habrán de ser financiados con lo recaudado en virtud de las multas impuestas a personas que conduzcan en estado de ebriedad o bajo el efecto de estupefacientes, psicotrópicos u otras sustancias tóxicas, o, en su caso, si dicho ingreso se destinará al equipamiento de los elementos de seguridad pública y tránsito del propio Municipio.
 
 ###### ARTÍCULO CUARTO.
 
@@ -3126,3 +3136,11 @@ El presente Decreto iniciará su vigencia al día siguiente de su publicación e
 ###### ARTÍCULO SEGUNDO.
 
 Dentro de los ciento veinte días naturales siguientes al inicio de vigencia del presente Decreto, se deberán realizar las adecuaciones reglamentarias conducentes, a fin de utilizar el término de “personas con discapacidad”.
+
+P.O. 8 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 300.- REFORMAS A LA LEY DE VIALIDAD DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
