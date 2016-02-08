@@ -4,7 +4,7 @@ identifier: "AGU-reglamento-interior-de-la-secretaria-de-medio-ambiente-del-8101
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-04-18"
-last_updated: "2011-04-18"
+last_updated: "2016-02-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81014&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # REGLAMENTO INTERIOR DE LA SECRETARIA DE MEDIO AMBIENTE DEL ESTADO DE AGUASCALIENTES
 
-REGLAMENTO INTERIOR DE LA SECRETARIA DE MEDIO AMBIENTE DEL ESTADO
+REGLAMENTO INTERIOR DE LA SECRETARÍA DE MEDIO AMBIENTE DEL ESTADO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2016.
 
 Reglamento publicado en la Edición Vespertina al Periódico Oficial del Estado de Aguascalientes, el lunes 18 de abril de 2011.
 
@@ -603,9 +603,11 @@ XVIII. Las demás que le confiera el Secretario, las que le señalen las disposi
 
 ### CAPÍTULO IV. De la Suplencia de los Servidores Públicos
 
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 16.
 
-El Secretario será suplido en sus ausencias por el Director General de Regulación y Control de la Contaminación.
+El Secretario será suplido en sus ausencias temporales o accidentales menores a 30 días por el Director General de Ecosistemas y Recursos Naturales. En ausencias mayores será suplido por quien designe el Gobernador Constitucional del Estado.
 
 ###### Artículo 17.
 
@@ -632,3 +634,13 @@ GOBERNADOR CONSTITUCIONAL DEL ESTADO DE AGUASCALIENTES.
 Lic. Jorge Ramón Durán Romo,
 
 SECRETARIO DE MEDIO AMBIENTE.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 8 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DE “REFORMA AL REGLAMENTO INTERIOR DE LA SECRETARÍA DEL MEDIO AMBIENTE”.]
+
+###### ARTÍCULO ÚNICO.
+
+La presente Reforma entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
