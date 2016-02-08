@@ -4,7 +4,7 @@ identifier: "AGU-ley-organica-de-la-administracion-publica-del-estado-de-77783"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2010-12-28"
-last_updated: "2015-12-31"
+last_updated: "2016-02-08"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77783&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 31 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2016.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial de Estado de Aguascalientes, el martes 28 de diciembre de 2010.
 
@@ -196,6 +196,10 @@ VI. El acceso libre e incluyente de todos los habitantes del Estado, al conocimi
 > <small>(REFORMADA, P.O. 11 DE NOVIEMBRE DE 2013)</small>
 
 VII. La priorización de la cultura de la prevención y de la constante mejora regulatoria del servicio público, para lograr en grado óptimo la mejoría de las relaciones intra e intergubernamentales y con el ciudadano.
+
+> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2016)</small>
+
+La Administración Pública centralizada y paraestatal, en la realización de los trámites inherentes a sus atribuciones, deberá adquirir papel reciclado, de conformidad con lo establecido en el Artículo 40 de la Ley de Adquisiciones, Arrendamientos y Servicios del Estado de Aguascalientes y sus Municipios.
 
 > <small>(ADICIONADO, P.O. 3 DE AGOSTO DE 2015)</small>
 
@@ -2204,3 +2208,11 @@ El Reglamento Interior del Órgano Estatal de Administración y Enajenación de 
 ###### ARTICULO CUARTO.
 
 El procedimiento previsto en la Fracción IV del Artículo 1 de la Ley para la Administración y Enajenación de Bienes del Sector Público para el Estado de Aguascalientes, se podrá ejecutar una vez creado el órgano desconcentrado y designado el Director General, así como instalado el Consejo Técnico previsto en la presente Ley.
+
+P.O. 8 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 299.- SE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 12 DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
