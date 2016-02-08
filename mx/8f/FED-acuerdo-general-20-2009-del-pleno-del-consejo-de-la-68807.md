@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-20-2009-del-pleno-del-consejo-de-la-68807"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2009-06-12"
-last_updated: "2015-10-30"
+last_updated: "2016-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=68807&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,11 +21,13 @@ issue_date: "2009-05-27"
 
 ACUERDO GENERAL 20/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO AUXILIAR DE LA PRIMERA REGIÓN, CON RESIDENCIA EN EL DISTRITO FEDERAL, ASÍ COMO LOS ÓRGANOS JURISDICCIONALES QUE LO INTEGRARÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 30 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE FEBRERO DE 2016.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 12 de junio de 2009.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
+
+> <small>[N. DE E. PARA LA APLICACIÓN DEL PRESENTE ORDENAMIENTO, TOMAR EN CONSIDERACIÓN EL ARTÍCULO ÚNICO DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE CAMBIA LA DENOMINACIÓN DE DISTRITO FEDERAL POR CIUDAD DE MÉXICO EN TODO SU CUERPO NORMATIVO” PUBLICADO EN EL D.O.F. EL 5 DE FEBRERO DE 2016.]</small>
 
 ACUERDO GENERAL 20/2009, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO AUXILIAR DE LA PRIMERA REGION, CON RESIDENCIA EN EL DISTRITO FEDERAL, ASI COMO LOS ORGANOS JURISDICCIONALES QUE LO INTEGRARAN.
 
@@ -55,35 +57,33 @@ En consecuencia, con fundamento en los artículos Constitucionales y legales inv
 
 ACUERDO
 
-> <small>(REFORMADO POR EL TRANSITORIO QUINTO DEL ACUERDO GENERAL 42/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 2/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE FEBRERO DE 2016)</small>
 
-PRIMERO. CONFORMACION, COMPETENCIA Y DENOMINACION. Se crea el Centro Auxiliar de la Primera Región, conformado por seis tribunales colegiados de Circuito Auxiliares, dos con residencia en el Distrito Federal, dos con sede en Cuernavaca, Morelos, y dos con residencia en Naucalpan de Juárez, Estado de México, y cuatro juzgados de Distrito auxiliares, tres con sede en el Distrito Federal y uno en Cuernavaca, Morelos.
+PRIMERO. CONFORMACIÓN, COMPETENCIA Y DENOMINACIÓN. El Centro Auxiliar de la Primera Región, está conformado por cinco tribunales colegiados de Circuito Auxiliares, dos con residencia en el Distrito Federal, uno con sede en Cuernavaca, Morelos, y dos con residencia en Naucalpan de Juárez, Estado de México, y cuatro juzgados de Distrito auxiliares, tres con sede en el Distrito Federal y uno en Cuernavaca, Morelos.
 
-Los órganos jurisdiccionales antes mencionados, tendrán jurisdicción en toda la República y competencia mixta para apoyar en el dictado de sentencias.
+Los órganos jurisdiccionales antes mencionados, tendrán jurisdicción en toda la República y competencia mixta para apoyar en el dictado de sentencias, y su denominación será la siguiente:
 
-Los tribunales colegiados se denominarán:
+I. Tribunales colegiados:
 
-Primer Tribunal Colegiado de Circuito del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal.
+a) Primer Tribunal Colegiado de Circuito del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal.
 
-Cuarto Tribunal Colegiado de Circuito del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal.
+b) Cuarto Tribunal Colegiado de Circuito del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal.
 
-Sexto Tribunal Colegiado de Circuito del Centro Auxiliar de la Primera Región, con residencia en Cuernavaca, Morelos.
+c) Sexto Tribunal Colegiado de Circuito del Centro Auxiliar de la Primera Región, con residencia en Cuernavaca, Morelos.
 
-Séptimo Tribunal Colegiado de Circuito del Centro Auxiliar de la Primera Región, con residencia en Naucalpan de Juárez, Estado de México.
+d) Séptimo Tribunal Colegiado de Circuito del Centro Auxiliar de la Primera Región, con residencia en Naucalpan de Juárez, Estado de México.
 
-Octavo Tribunal Colegiado de Circuito del Centro Auxiliar de la Primera Región, con residencia en Naucalpan de Juárez, Estado de México.
+e) Octavo Tribunal Colegiado de Circuito del Centro Auxiliar de la Primera Región, con residencia en Naucalpan de Juárez, Estado de México.
 
-Noveno Tribunal Colegiado de Circuito del Centro Auxiliar de la Primera Región, con residencia en Cuernavaca, Morelos.
+II. Juzgados de Distrito:
 
-Los juzgados de Distrito se denominarán:
+a) Juzgado Primero de Distrito del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal.
 
-Juzgado Primero de Distrito del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal.
+b) Juzgado Segundo de Distrito del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal.
 
-Juzgado Segundo de Distrito del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal.
+c) Juzgado Tercero de Distrito del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal.
 
-Juzgado Tercero de Distrito del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal.
-
-Juzgado Sexto de Distrito del Centro Auxiliar de la Primera Región, con residencia en Cuernavaca, Morelos.
+d) Juzgado Sexto de Distrito del Centro Auxiliar de la Primera Región, con residencia en Cuernavaca, Morelos.
 
 SEGUNDO. INICIO DE FUNCIONES Y DOMICILIO. El Pleno del Consejo de la Judicatura Federal determinará la fecha de inicio de funciones, así como la ubicación de los órganos jurisdiccionales que integrarán el Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal.
 
@@ -91,9 +91,9 @@ SEGUNDO. INICIO DE FUNCIONES Y DOMICILIO. El Pleno del Consejo de la Judicatura 
 
 TERCERO. LIBROS DE GOBIERNO. Los órganos jurisdiccionales auxiliares que formarán parte del Centro Auxiliar de la Primera Región, como mecanismo de control de los asuntos de sus respectivas competencias y como auxiliar en la supervisión de estos, contarán con libros electrónicos de registro que se les implementará en el Sistema Integral de Seguimiento de Expedientes (SISE), que tiene a su cargo la Dirección General de Estadística y Planeación Judicial.
 
-> <small>(REFORMADO POR EL PUNTO ÚNICO DEL ACUERDO GENERAL 13/2011 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 12 DE MAYO DE 2011)</small>
+> <small>(REFORMADO POR EL TRANSITORIO SÉPTIMO DEL ACUERDO GENERAL 2/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE FEBRERO DE 2016)</small>
 
-CUARTO. OFICINA DE CORRESPONDENCIA COMUN. El Centro Auxiliar de la Primera Región contará con las Oficinas de Correspondencia Común siguientes: Oficina de Correspondencia Común del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal, Oficina de Correspondencia Común del Centro Auxiliar de la Primera Región, con residencia en Cuernavaca, Morelos y Oficina de Correspondencia Común del Centro Auxiliar de la Primera Región, con residencia en Naucalpan de Juárez, Estado de México; éstas se integrarán con las plazas que fije la Dirección General de Estadística y Planeación Judicial.
+CUARTO. OFICINA DE CORRESPONDENCIA COMÚN. El Centro Auxiliar de la Primera Región cuenta con las Oficinas de Correspondencia Común siguientes: Oficina de Correspondencia Común del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal; y Oficina de Correspondencia Común del Centro Auxiliar de la Primera Región, con residencia en Naucalpan de Juárez, Estado de México; éstas se integrarán con las plazas que fije la Dirección General de Estadística Judicial.
 
 QUINTO. FUNCIONAMIENTO. La Comisión de Creación de Nuevos Organos, mediante los dictámenes que elaborará la Secretaría Ejecutiva de Carrera Judicial, Adscripción y Creación de Nuevos Organos, determinará los juzgados de Distrito y tribunales de Circuito que recibirán el apoyo en el dictado de sentencias por el Centro Auxiliar de la Primera Región. Asimismo, la Comisión determinará el tiempo, número y cualidad de los asuntos que se enviarán a los órganos jurisdiccionales auxiliares, lo cual se dará a conocer por medio de Acuerdos de la propia Comisión.
 
@@ -286,3 +286,69 @@ Séptimo Tribunal Colegiado de Circuito del Centro Auxiliar de la Primera Regió
 Octavo Tribunal Colegiado de Circuito del Centro Auxiliar de la Primera Región, con residencia en Naucalpan de Juárez, Estado de México.
 
 Noveno Tribunal Colegiado de Circuito del Centro Auxiliar de la Primera Región, con residencia en Cuernavaca, Morelos…”.
+
+D.O.F. 8 DE FEBRERO DE 2016.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en la página de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. La conclusión de funciones del Noveno Tribunal Colegiado de Circuito del Centro Auxiliar de la Primera Región y su transformación en Segundo Tribunal Unitario del Decimoctavo Circuito, con residencia en Cuernavaca, Morelos, implica que los magistrados integrantes de dicho órgano jurisdiccional sean readscritos por la Comisión de Adscripción.
+
+CUARTO. La Dirección General de Recursos Humanos, respetando los derechos laborales del personal de la Oficina de Correspondencia Común del Centro Auxiliar de la Primera Región en Cuernavaca, Morelos, que concluye funciones, atenderá la situación laboral y adoptará las medidas que correspondan, de conformidad a lo acordado por el Pleno del Consejo de la Judicatura Federal, así como en las demás disposiciones aplicables.
+
+QUINTO. Para que los movimientos del personal se realicen eficientemente, la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, coordinará que en una misma fecha inicien funciones el nuevo Tribunal Unitario del Decimoctavo Circuito, con residencia en Cuernavaca, Morelos con los Tribunales Colegiados Especializados del Decimoctavo Circuito, con residencia en la misma ciudad y estado.
+
+SEXTO. Se reforman los numerales SEGUNDO, fracción XVIII, número 2; y QUINTO, número 1 del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+“SEGUNDO. …
+
+I. a XVII. …
+
+XVIII. DECIMOCTAVO CIRCUITO:
+
+1. …
+
+2. Dos tribunales unitarios con sede en Cuernavaca.
+
+3. …
+
+XIX. a XXXII. …
+
+QUINTO. …
+
+1. El Centro Auxiliar de la Primera Región se integrará por cinco tribunales colegiados de Circuito Auxiliares, dos con residencia en el Distrito Federal, uno con sede en Cuernavaca, Morelos, y dos con residencia en Naucalpan de Juárez, Estado de México, y cuatro juzgados de Distrito auxiliares, tres con sede en el Distrito Federal, de los cuales, uno está especializado además en materia de extinción de dominio; y uno en Cuernavaca, Morelos.
+
+2. a 11. …
+
+…”
+
+SÉPTIMO. Se reforman los numerales PRIMERO y CUARTO del Acuerdo General 20/2009, del Pleno del Consejo de la Judicatura Federal, que crea el Centro Auxiliar de la Primera Región, así como los órganos jurisdiccionales que lo integrarán, para quedar como sigue:
+
+“PRIMERO. CONFORMACIÓN, COMPETENCIA Y DENOMINACIÓN. El Centro Auxiliar de la Primera Región, está conformado por cinco tribunales colegiados de Circuito Auxiliares, dos con residencia en el Distrito Federal, uno con sede en Cuernavaca, Morelos, y dos con residencia en Naucalpan de Juárez, Estado de México, y cuatro juzgados de Distrito auxiliares, tres con sede en el Distrito Federal y uno en Cuernavaca, Morelos.
+
+Los órganos jurisdiccionales antes mencionados, tendrán jurisdicción en toda la República y competencia mixta para apoyar en el dictado de sentencias, y su denominación será la siguiente:
+
+I. Tribunales colegiados:
+
+a) Primer Tribunal Colegiado de Circuito del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal.
+
+b) Cuarto Tribunal Colegiado de Circuito del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal.
+
+c) Sexto Tribunal Colegiado de Circuito del Centro Auxiliar de la Primera Región, con residencia en Cuernavaca, Morelos.
+
+d) Séptimo Tribunal Colegiado de Circuito del Centro Auxiliar de la Primera Región, con residencia en Naucalpan de Juárez, Estado de México.
+
+e) Octavo Tribunal Colegiado de Circuito del Centro Auxiliar de la Primera Región, con residencia en Naucalpan de Juárez, Estado de México.
+
+II. Juzgados de Distrito:
+
+a) Juzgado Primero de Distrito del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal.
+
+b) Juzgado Segundo de Distrito del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal.
+
+c) Juzgado Tercero de Distrito del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal.
+
+d) Juzgado Sexto de Distrito del Centro Auxiliar de la Primera Región, con residencia en Cuernavaca, Morelos.
+
+CUARTO. OFICINA DE CORRESPONDENCIA COMÚN. El Centro Auxiliar de la Primera Región cuenta con las Oficinas de Correspondencia Común siguientes: Oficina de Correspondencia Común del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal; y Oficina de Correspondencia Común del Centro Auxiliar de la Primera Región, con residencia en Naucalpan de Juárez, Estado de México; éstas se integrarán con las plazas que fije la Dirección General de Estadística Judicial."
