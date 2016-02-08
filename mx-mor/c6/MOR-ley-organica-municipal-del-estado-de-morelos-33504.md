@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-municipal-del-estado-de-morelos-33504"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2003-08-13"
-last_updated: "2015-08-19"
+last_updated: "2016-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=33504&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 8 DE FEBRERO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 13 de agosto de 2003.
 
@@ -245,15 +245,19 @@ De conformidad con el Articulo 111 de la Constitución Estatal, el Estado de Mor
 
 33.- Zacualpan de Amilpas.
 
-> <small>(ADICIONADO, P.O. 9 DE SEPTIEMBRE DE 2009)</small>
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 5 Bis.
 
 Para los efectos de esta Ley se entenderá por:
 
-I.- Ayuntamiento: el órgano colegiado y deliberante en el que se deposita el gobierno y la representación jurídica y política del Municipio, integrada por el Presidente Municipal. Síndico y Regidores;
+I.- Ayuntamiento: el órgano colegiado y deliberante en el que se deposita el gobierno y la representación jurídica y política del Municipio, integrada por el Presidente Municipal, Síndico y Regidores;
 
 II.- Comisiones del Ayuntamiento: los grupos de regidores integrados por área de competencia o de servicios, designados por la mayoría del Ayuntamiento.
+
+III.- Cabildo.- Es la sesión en la cual se reúne el Ayuntamiento para deliberar y aprobar los asuntos de su competencia.
+
+IV.- Cabildo Abierto.- Es la sesión en la cual se reúne el Ayuntamiento en sede oficial o fuera de ella, exclusivamente para informar, escuchar y atender la problemática ciudadana que será expuesta de viva voz a los miembros del Ayuntamiento.
 
 ## TÍTULO SEGUNDO. DE LOS ELEMENTOS DEL MUNICIPIO
 
@@ -667,11 +671,11 @@ Para resolver los asuntos de su competencia, los Ayuntamientos sesionarán cuand
 
 El Cabildo podrá ser convocado a sesionar a petición por escrito de cuando menos una tercera parte de sus integrantes, cuando la importancia del asunto lo justifique; en este caso sólo se ocupará del asunto o asuntos expuestos en la solicitud correspondiente.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 30.
 
-Las sesiones del Ayuntamiento serán ordinarias, extraordinarias y solemnes.
+Las sesiones del Ayuntamiento, serán ordinarias, extraordinarias, solemnes y de Cabildo Abierto.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2008)</small>
 
@@ -693,11 +697,67 @@ Al inicio de los períodos Constitucionales, los Ayuntamientos sesionarán cuant
 
 IV.- Las sesiones solemnes serán las que determine el Cabildo para la conmemoración de aniversarios históricos o cívicos y para la presentación de los informes anuales que deba rendir el Presidente Municipal, o cuando ocurran representantes de los Poderes del Estado, de la Federación o personalidades distinguidas.
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE FEBRERO DE 2016)</small>
+
+Las Sesiones de Cabildo Abierto serán públicas y se llevaran a cabo de manera mensual, alternadamente en la sede oficial y de manera itinerante en las colonias y poblados.
+
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 8 DE FEBRERO DE 2016)</small>
+
+Todas las sesiones de Cabildo, con excepción de aquellas que deban realizarse en privado, serán públicas y transmitidas en tiempo real por internet a través del portal electrónico del municipio, en todo caso, deberán estar disponibles y consultables las versiones integras de las sesiones de Cabildo en la página oficial de los Ayuntamientos, en términos de lo establecido en el artículo 32 de la Ley de Información Pública, Estadística y Datos Personales del Estado de Morelos.
+
+> <small>(REFORMADO, P.O. 8 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 31.
 
-El Ayuntamiento podrá realizar las sesiones señaladas en el artículo anterior, fuera del recinto oficial del Cabildo, dentro de su circunscripción territorial, cuando lo considere conveniente, mediante acuerdo de las dos terceras partes de sus integrantes. Así mismo podrá realizarlas con la finalidad de escuchar y consultar la ciudadanía para la atención y solución de sus necesidades y problemas colectivos, y sobre todo, a aquello que coadyuve al desarrollo de la comunidad. A estas sesiones deberá convocarse a la ciudadanía y podrá invitarse a representantes de los Poderes del Estado, de la Federación y servidores públicos municipales.
+El Ayuntamiento podrá realizar las sesiones señaladas en el artículo anterior, fuera del recinto oficial del Cabildo, dentro de su circunscripción territorial, cuando lo considere conveniente, mediante acuerdo de las dos terceras partes de sus integrantes.
 
 Los Ayuntamientos no podrán sesionar en recintos de organismos políticos ni religiosos.
+
+> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2016)</small>
+
+###### Artículo 31 Bis.
+
+El Cabildo Abierto es la sesión que celebra el Ayuntamiento, en la cual los habitantes son informados de las acciones de gobierno y participan de viva voz frente a los miembros del Ayuntamiento. Todas las inquietudes planteadas en las sesiones de Cabildo Abierto por los ciudadanos, serán abordadas y discutidas por los integrantes del Ayuntamiento, dándose respuesta a los ciudadanos en esa misma sesión.
+
+A estas sesiones se convocara (sic) la ciudadanía y podrá invitarse a representantes de los Poderes del Estado, de la Federación y servidores públicos municipales.
+
+Deberán convocarse con al menos cinco días de anticipación y no más de diez días, fijándose avisos en lugares públicos.
+
+> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2016)</small>
+
+###### Artículo 31 Ter.
+
+Dentro de un plazo no menor a cincos (sic) días ni mayor a diez días, se emitirá la convocatoria para la celebración del Cabildo Abierto, a la que se dará la mayor difusión posible y será fijada en lugares públicos.
+
+Para la celebración de las sesiones se deberá contar con un orden del día que contenga como mínimo:
+
+a) Pase de Lista y declaración del quórum legal;
+
+b) Aprobación del orden del día;
+
+c) Presentación de asuntos a tratar;
+
+d) Lectura del procedimiento previsto en el Reglamento de Sesiones de Cabildo, para el desarrollo de las sesiones de Cabildo abierto;
+
+e) Participación de los integrantes del Ayuntamiento;
+
+f) Participación de ciudadanos en orden a su inscripción;
+
+Asuntos generales.
+
+> <small>(ADICIONADO, P.O. 8 DE FEBRERO DE 2016)</small>
+
+###### Artículo 31 Quater.
+
+Por ningún motivo podrá interrumpirse la sesión de Cabildo Abierto, salvo en los siguientes casos:
+
+a) Por falta de quórum legal para continuar la sesión;
+
+b) Cuando se pongan en riesgo las instalaciones y/o las (sic) seguridad de los miembros del Cabildo o de los asistentes;
+
+c) Cuando no se reúnan las condiciones mínimas de orden y/o seguridad para continuar con la sesión.
+
+Cuando alguno de los asistentes incite al desorden al público asistente. El Presidente Municipal o quien presida la sesión podrá exigir al público que guarde el orden debido y en su caso, de reincidir, podrá ordenar el retiro de quienes alteren el orden y el desarrollo de la sesión.
 
 ###### Artículo 32.
 
@@ -907,7 +967,7 @@ LIII. Instrumentar y reglamentar programas que prevengan y combatan el alcoholis
 
 > <small>(REFORMADA, P.O. 18 DE MAYO DE 2005)</small>
 
-LIV. Promover y coordinar la integración del Sistema Municipal para el Desarrollo Integral de la Familia, a fin de proporcionar la asistencia social en el Municipio con la colaboración de ese organismo, dicha asistencia deberá considerase (sic) prioritaria para las familias de los emigrantes;
+LIV. Promover y coordinar la integración del Sistema Municipal para el Desarrollo Integral de la Familia, a fin de proporcionar la asistencia social en el Municipio con la colaboración de ese organismo, dicha asistencia deberá considerase prioritaria para las familias de los emigrantes;
 
 LV. Prestar a las autoridades judiciales, al Ministerio Público, a las ayudantías y delegaciones y a los Poderes del Estado, el auxilio necesario para el ejercicio de sus funciones, cuando así lo soliciten;
 
@@ -1275,7 +1335,7 @@ Los Planes de Desarrollo Municipal, en Municipios que cuenten con población ind
 
 > <small>(ADICIONADO, P.O. 18 DE MAYO DE 2005)</small>
 
-Así mismo, los Planes de Desarrollo Municipal, en municipios que cuenten con población de emigrantes, deberán contener programas y acciones tendientes al fortalecimiento económico, en las formas de producción y comercio, generando el crecimiento y bienestar de la población, tendiente a disminuir el flujo migratorio.
+Así mismo, los Planes de Desarrollo Municipal en municipios que cuenten con población de emigrantes, deberán contener programas y acciones tendientes al fortalecimiento económico, en las formas de producción y comercio, generando el crecimiento y bienestar de la población, tendiente a disminuir el flujo migratorio.
 
 ###### Artículo 52.
 
@@ -1323,7 +1383,7 @@ III. Tener reconocida calidad ética y solvencia moral.
 
 IV. Contar con experiencia, en las áreas de Planeación, Desarrollo Urbano y/o Administración.
 
-V. No haber sido sancionado anteriormente por su desempeño corno servidor en la Administración Pública o Privada.
+V. No haber sido sancionado anteriormente por su desempeño como servidor en la Administración Pública o Privada.
 
 ###### Artículo 59.
 
@@ -1587,7 +1647,7 @@ III.- Disfrutar de buena fama y no estar procesado ni haber sido sentenciado por
 
 > <small>(REFORMADA, P.O. 2 DE AGOSTO DE 2006)</small>
 
-IV.- Contar con título y cédula profesional de las carreras de Contador Público, Licenciado en Economía, Licenciado en Administración o alguna afín;
+IV.- Contar con el título y cédula profesional de las carreras de Contador Público, Licenciado en Economía, Licenciado en Administración o alguna afín;
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1781,7 +1841,7 @@ XIV.- Supervisar que las áreas administrativas del Ayuntamiento, den cabal cump
 
 > <small>(ADICIONADA, P.O. 22 DE ENERO DE 2014)</small>
 
-XV.- Supervisar que el área de Recursos Humanos del Ayuntamiento, allegue a sus trabajadores, a los elementos de seguridad pública o a los deudos de ambos, copia certificada del acuerdo mediante el cual el Cabildo aprueba y otorga los beneficios de pensiones o jubilaciones, así como "efectuar la autorización y registro de dicho documento; y
+XV.- Supervisar que el área de Recursos Humanos del Ayuntamiento, allegue a sus trabajadores, a los elementos de seguridad pública o a los deudos de ambos, copia certificada del acuerdo mediante el cual el Cabildo aprueba y otorga los beneficios de pensiones o jubilaciones, "efectuar la autorización y registro de dicho documento; y
 
 a) Sustituir el término "así como de su legal protocolización", "efectuar la autorización y registro de dicho documento".
 
@@ -3407,6 +3467,22 @@ El presente Decreto, entrará en vigor al día siguiente de su publicación en e
 
 A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
 
+P.O. 9 DE ABRIL DE 2014.
+
+DECRETO NÚMERO 1,312 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO, DE LA FRACCIÓN I, DEL ARTÍCULO 30, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
+
+###### ARTÍCULO PRIMERO.
+
+Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión del Gobierno del Estado de Morelos.
+
+###### ARTÍCULO TERCERO.
+
+A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente Decreto.
+
 P.O. 13 DE NOVIEMBRE DE 2013.
 
 ###### ARTÍCULO PRIMERO.
@@ -3446,22 +3522,6 @@ SÉPTIMO.- Para la elaboración y consecuente publicación del Reglamento Intern
 OCTAVO.- Para la elaboración y consecuente publicación del Reglamento Interno de Expedición de Pensiones a favor de los Elementos de Seguridad Pública Municipales, los Cabildos en todo momento observarán lo dispuesto en la Constitución Federa (sic); la Constitución Política del Estado Libre y Soberano de Morelos; la Ley del Sistema de Seguridad Pública del Estado de Morelos; la Ley Orgánica Municipal; y la Ley de Prestaciones de Seguridad Social de las Instituciones Policiales del Sistema Estatal de Seguridad Pública; y las Bases Generales de los Procedimientos para la Expedición de Acuerdos de Pensión de las Instituciones Policiales del Sistema de Seguridad Pública de los Ayuntamientos del Estado.
 
 NOVENO.- Remítase al Poder Ejecutivo del Estado de Morelos, para los efectos de su promulgación, refrendo y promulgación en términos de los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
-
-P.O. 9 DE ABRIL DE 2014.
-
-DECRETO NÚMERO 1,312 POR EL QUE SE ADICIONA UN SEGUNDO PÁRRAFO, DE LA FRACCIÓN I, DEL ARTÍCULO 30, DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS
-
-###### ARTÍCULO PRIMERO.
-
-Remítase el presente Decreto al Titular del Poder Ejecutivo del Estado, para su promulgación y publicación respectiva, de conformidad con los artículos 44 y 70, fracción XVII, de la Constitución Política del Estado Libre y Soberano de Morelos.
-
-###### ARTÍCULO SEGUNDO.
-
-El presente Decreto, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Tierra y Libertad", Órgano de Difusión del Gobierno del Estado de Morelos.
-
-###### ARTÍCULO TERCERO.
-
-A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente Decreto.
 
 P.O. 9 DE ABRIL DE 2014.
 
@@ -3784,6 +3844,16 @@ El presente Decreto, entrará en vigor al día siguiente de su publicación en e
 ###### ARTÍCULO TERCERO.
 
 A partir de la entrada en vigor del presente, se derogan todas y cada una de las disposiciones que contravengan el presente decreto.
+
+P.O. 8 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOSCIENTOS DOCE POR EL QUE SE REFORMAN LOS ARTÍCULOS 5 BIS, 30 Y 31 Y SE ADICIONAN LOS ARTÍCULOS 31 BIS, 31 TER, Y 31 QUATER, TODOS DE LA LEY ORGÁNICA MUNICIPAL DEL ESTADO DE MORELOS”.]
+
+PRIMERO. Remítase el presente Decreto al Titular del Poder Ejecutivo, para su promulgación y publicación respectiva de conformidad con los artículos 44, 47 y 70 fracción XVII inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+SEGUNDO. El presente Decreto, entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano de difusión del Gobierno del Estado de Morelos.
+
+TERCERO. Los Municipios del Estado, a través de sus Ayuntamientos emitirán las disposiciones reglamentarias correspondientes en un término no mayor a 90 días hábiles, contados a partir de la fecha en que entre en vigor la presente reforma.
 
 ###### ARTÍCULO CUARTO.
 
