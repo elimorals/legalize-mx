@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2015-12-24"
+last_updated: "2016-02-08"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,11 +21,13 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE FEBRERO DE 2016.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
+
+> <small>[N. DE E. PARA LA APLICACIÓN DEL PRESENTE ORDENAMIENTO, TOMAR EN CONSIDERACIÓN EL ARTÍCULO ÚNICO DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL POR EL QUE SE CAMBIA LA DENOMINACIÓN DE DISTRITO FEDERAL POR CIUDAD DE MÉXICO EN TODO SU CUERPO NORMATIVO” PUBLICADO EN EL D.O.F. EL 5 DE FEBRERO DE 2016.]</small>
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACION DEL NUMERO Y LIMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPUBLICA MEXICANA; Y AL NUMERO, A LA JURISDICCION TERRITORIAL Y ESPECIALIZACION POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO.
 
@@ -333,7 +335,9 @@ XVIII. DECIMOCTAVO CIRCUITO:
 
 1. Cinco tribunales colegiados con residencia en Cuernavaca.
 
-2. Un tribunal unitario con sede en Cuernavaca.
+> <small>(REFORMADO POR EL TRANSITORIO SEXTO DEL ACUERDO GENERAL 2/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE FEBRERO DE 2016)</small>
+
+2. Dos tribunales unitarios con sede en Cuernavaca.
 
 > <small>(REFORMADO POR EL PUNTO NOVENO DEL ACUERDO GENERAL 32/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE SEPTIEMBRE DE 2014)</small>
 
@@ -793,9 +797,9 @@ XXXIII. Los Jueces de Distrito de Procesos Penales Federales del Primero, Segund
 
 QUINTO. Centros Auxiliares Regionales:
 
-> <small>(REFORMADO POR EL TRANSITORIO CUARTO DEL ACUERDO GENERAL 42/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 30 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADO POR EL TRANSITORIO SEXTO DEL ACUERDO GENERAL 2/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE FEBRERO DE 2016)</small>
 
-1. El Centro Auxiliar de la Primera Región se integrará por seis tribunales colegiados de Circuito Auxiliares, dos con residencia en el Distrito Federal, dos con sede en Cuernavaca, Morelos, y dos con residencia en Naucalpan de Juárez, Estado de México, y cuatro juzgados de Distrito auxiliares, tres con sede en el Distrito Federal, de los cuales, uno está especializado además en materia de extinción de dominio; y uno en Cuernavaca, Morelos.
+1. El Centro Auxiliar de la Primera Región se integrará por cinco tribunales colegiados de Circuito Auxiliares, dos con residencia en el Distrito Federal, uno con sede en Cuernavaca, Morelos, y dos con residencia en Naucalpan de Juárez, Estado de México, y cuatro juzgados de Distrito auxiliares, tres con sede en el Distrito Federal, de los cuales, uno está especializado además en materia de extinción de dominio; y uno en Cuernavaca, Morelos.
 
 > <small>(REFORMADO POR EL PUNTO PRIMERO DEL ACUERDO GENERAL 24/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 29 DE MAYO DE 2015)</small>
 
@@ -2152,3 +2156,71 @@ IX. ...
 2. a 3. ...
 
 X. a XXXII. ..."
+
+D.O.F. 8 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 2/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA CONCLUSIÓN DE FUNCIONES DEL NOVENO TRIBUNAL COLEGIADO DE CIRCUITO DEL CENTRO AUXILIAR DE LA PRIMERA REGIÓN, CON RESIDENCIA EN CUERNAVACA, MORELOS Y SU TRANSFORMACIÓN EN SEGUNDO TRIBUNAL UNITARIO DEL DECIMOCTAVO CIRCUITO, ASÍ COMO A SU COMPETENCIA, JURISDICCIÓN TERRITORIAL, DOMICILIO, Y FECHA DE INICIO DE FUNCIONES Y RESIDENCIA. AL CAMBIO DE DENOMINACIÓN DEL TRIBUNAL UNITARIO DEL MISMO CIRCUITO Y RESIDENCIA. ASÍ COMO A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS TRIBUNALES UNITARIOS DEL CIRCUITO Y RESIDENCIA INDICADOS; Y A LA CONCLUSIÓN DE FUNCIONES DE LA OFICINA DE CORRESPONDENCIA COMÚN DEL CENTRO AUXILIAR DE LA PRIMERA REGIÓN EN CUERNAVACA, MORELOS Y SU TRANSFORMACIÓN EN OFICINA DE CORRESPONDENCIA COMÚN DE LOS TRIBUNALES UNITARIOS DEL DECIMOCTAVO CIRCUITO EN CUERNAVACA, MORELOS".]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en la página de Internet del Consejo de la Judicatura Federal.
+
+TERCERO. La conclusión de funciones del Noveno Tribunal Colegiado de Circuito del Centro Auxiliar de la Primera Región y su transformación en Segundo Tribunal Unitario del Decimoctavo Circuito, con residencia en Cuernavaca, Morelos, implica que los magistrados integrantes de dicho órgano jurisdiccional sean readscritos por la Comisión de Adscripción.
+
+CUARTO. La Dirección General de Recursos Humanos, respetando los derechos laborales del personal de la Oficina de Correspondencia Común del Centro Auxiliar de la Primera Región en Cuernavaca, Morelos, que concluye funciones, atenderá la situación laboral y adoptará las medidas que correspondan, de conformidad a lo acordado por el Pleno del Consejo de la Judicatura Federal, así como en las demás disposiciones aplicables.
+
+QUINTO. Para que los movimientos del personal se realicen eficientemente, la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, coordinará que en una misma fecha inicien funciones el nuevo Tribunal Unitario del Decimoctavo Circuito, con residencia en Cuernavaca, Morelos con los Tribunales Colegiados Especializados del Decimoctavo Circuito, con residencia en la misma ciudad y estado.
+
+SEXTO. Se reforman los numerales SEGUNDO, fracción XVIII, número 2; y QUINTO, número 1 del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+"SEGUNDO. …
+
+I. a XVII. …
+
+XVIII. DECIMOCTAVO CIRCUITO:
+
+1. …
+
+2. Dos tribunales unitarios con sede en Cuernavaca.
+
+3. …
+
+XIX. a XXXII. …
+
+QUINTO. …
+
+1. El Centro Auxiliar de la Primera Región se integrará por cinco tribunales colegiados de Circuito Auxiliares, dos con residencia en el Distrito Federal, uno con sede en Cuernavaca, Morelos, y dos con residencia en Naucalpan de Juárez, Estado de México, y cuatro juzgados de Distrito auxiliares, tres con sede en el Distrito Federal, de los cuales, uno está especializado además en materia de extinción de dominio; y uno en Cuernavaca, Morelos.
+
+2. a 11. …
+
+…"
+
+SÉPTIMO. Se reforman los numerales PRIMERO y CUARTO del Acuerdo General 20/2009, del Pleno del Consejo de la Judicatura Federal, que crea el Centro Auxiliar de la Primera Región, así como los órganos jurisdiccionales que lo integrarán, para quedar como sigue:
+
+"PRIMERO. CONFORMACIÓN, COMPETENCIA Y DENOMINACIÓN. El Centro Auxiliar de la Primera Región, está conformado por cinco tribunales colegiados de Circuito Auxiliares, dos con residencia en el Distrito Federal, uno con sede en Cuernavaca, Morelos, y dos con residencia en Naucalpan de Juárez, Estado de México, y cuatro juzgados de Distrito auxiliares, tres con sede en el Distrito Federal y uno en Cuernavaca, Morelos.
+
+Los órganos jurisdiccionales antes mencionados, tendrán jurisdicción en toda la República y competencia mixta para apoyar en el dictado de sentencias, y su denominación será la siguiente:
+
+I. Tribunales colegiados:
+
+a) Primer Tribunal Colegiado de Circuito del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal.
+
+b) Cuarto Tribunal Colegiado de Circuito del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal.
+
+c) Sexto Tribunal Colegiado de Circuito del Centro Auxiliar de la Primera Región, con residencia en Cuernavaca, Morelos.
+
+d) Séptimo Tribunal Colegiado de Circuito del Centro Auxiliar de la Primera Región, con residencia en Naucalpan de Juárez, Estado de México.
+
+e) Octavo Tribunal Colegiado de Circuito del Centro Auxiliar de la Primera Región, con residencia en Naucalpan de Juárez, Estado de México.
+
+II. Juzgados de Distrito:
+
+a) Juzgado Primero de Distrito del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal.
+
+b) Juzgado Segundo de Distrito del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal.
+
+c) Juzgado Tercero de Distrito del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal.
+
+d) Juzgado Sexto de Distrito del Centro Auxiliar de la Primera Región, con residencia en Cuernavaca, Morelos.
+
+CUARTO. OFICINA DE CORRESPONDENCIA COMÚN. El Centro Auxiliar de la Primera Región cuenta con las Oficinas de Correspondencia Común siguientes: Oficina de Correspondencia Común del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal; y Oficina de Correspondencia Común del Centro Auxiliar de la Primera Región, con residencia en Naucalpan de Juárez, Estado de México; éstas se integrarán con las plazas que fije la Dirección General de Estadística Judicial."
