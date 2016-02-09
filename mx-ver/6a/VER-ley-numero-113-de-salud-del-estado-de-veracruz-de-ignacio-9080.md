@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-113-de-salud-del-estado-de-veracruz-de-ignacio-9080"
 country: "mx"
 rank: "ley"
 publication_date: "1988-05-17"
-last_updated: "2015-08-07"
+last_updated: "2016-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 7 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE FEBRERO DE 2016.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 17 de mayo de 1988.
 
@@ -71,6 +71,10 @@ VI.- El conocimiento para el adecuado aprovechamiento y utilización de los serv
 
 VII.- El desarrollo de la enseñanza y la investigación científica y tecnológica para la salud.
 
+> <small>(ADICIONADA, G.O. 9 DE FEBRERO DE 2016)</small>
+
+VIII.- El disfrute del más alto nivel posible de salud en niñas, niños y adolescentes, así como a la prestación de servicios de atención médica gratuita y de calidad de conformidad con la legislación aplicable, con el fin de prevenir, proteger y restaurar su salud.
+
 ###### ARTICULO 3°.
 
 En los términos de la Ley General de Salud y de la presente Ley, corresponde al Gobierno del Estado:
@@ -82,6 +86,14 @@ I.- La atención médica, preferentemente en beneficio de grupos vulnerables.
 II.- La atención materno infantil.
 
 III.- La prestación de servicios de planificación familiar.
+
+> <small>(ADICIONADA, G.O. 9 DE FEBRERO DE 2016)</small>
+
+III Bis.- Proporcionar asesoría y orientación sobre salud sexual y reproductiva a niñas, niños y adolescentes;
+
+> <small>(ADICIONADA, G.O. 9 DE FEBRERO DE 2016)</small>
+
+III Ter.- Establecer las medidas tendentes a prevenir embarazos de las niñas y adolescentes;
 
 IV.- La salud mental.
 
@@ -117,7 +129,13 @@ XVIII.- Participar con las autoridades federales en el desarrollo de los program
 
 XVIII Bis.- La Protección Social en Salud.
 
-XIX.- Las demás que establezca la Ley General de Salud y otras disposiciones legales aplicables.
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 2016)</small>
+
+XIX.- Prevención de infecciones de transmisión sexual; y
+
+> <small>(ADICIONADA, G.O. 9 DE FEBRERO DE 2016)</small>
+
+XX.- Las demás materias que determinen esta Ley y demás disposiciones generales aplicables.
 
 B.- En materia de salubridad local, el control sanitario de:
 
@@ -163,7 +181,7 @@ XIX.- Las demás materias que determine esta Ley y demás disposiciones generale
 
 > <small>(REFORMADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
-###### ARTICULO 4º.
+###### ARTICULO 4°.
 
 Para efectos de la presente Ley se entenderá por:
 
@@ -185,9 +203,9 @@ VII.- Sistema; al Sistema de Protección Social en Salud a que se refiere los ar
 
 VIII.- Salubridad General: las facultades contenidas en el artículo 3º de la presente, y las que se transfieren al Estado en virtud de la misma ley, convenios y acuerdos de coordinación o de colaboración específicos.
 
-> <small>(ADICIONADA, G.O. 20 DE JULIO DE 2015)</small>
+> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 9 DE FEBRERO DE 2016)</small>
 
-IX.- Establecimiento: Lugar en que se venden, distribuyen o ingieren bebidas alcohólicas. Se excluye el caso del consumo gratuito de bebidas alcohólicas en domicilios particulares o eventos particulares: y
+IX.- Salud Sexual y Reproductiva: Es el enfoque integral para analizar y responder a las necesidades de hombres y mujeres respecto a la sexualidad y la reproducción, otorgar la capacidad de disfrutar de una vida sexual responsable y sin riesgos, garantizar el derecho de decisión y frecuencia de procrear y fomentar un estado general de bienestar físico, mental y social, en todos los aspectos relacionados con el sistema reproductivo, sus funciones y procesos.
 
 > <small>(ADICIONADA, G.O. 20 DE JULIO DE 2015)</small>
 
@@ -200,16 +218,6 @@ b) De medio contenido alcohólico: Son productos que contienen entre 6.1 grados 
 c) De alto contenido alcohólico: Son productos que contienen entre 20.1 grados G .. L. y 55 grados G.. L.
 
 Los productos cuyo contenido alcohólico sea mayor de 55 grados G.. L. se consideran como alcohol no potable y no se autorizará su venta o suministro al público, para ingestión directa.
-
-###### ARTICULO 4°.
-
-Son autoridades sanitarias del Estado:
-
-I.- El Gobernador del Estado.
-
-II.- La Secretaría de Salud y Asistencia.
-
-III.- Los Ayuntamientos en la esfera de su jurisdicción y competencia en los términos de los Reglamentos que se expidan en cumplimiento de esta Ley y/o de los convenios que celebren con el Gobierno del Estado en términos del artículo 116, fracción VI de la Constitución Federal.
 
 ## TITULO SEGUNDO. SISTEMA ESTATAL DE SALUD
 
@@ -445,6 +453,10 @@ II.- La prevención y el control de las enfermedades transmisibles de atención 
 
 III.- La atención médica, que comprende las actividades preventivas, curativas y de rehabilitación, incluyendo la atención de urgencias.
 
+> <small>(ADICIONADA, G.O. 9 DE FEBRERO DE 2016)</small>
+
+III Bis.- Los servicios en materia de salud sexual y reproductiva;
+
 IV.- La atención materno-infantil.
 
 V.- La planificación familiar.
@@ -615,9 +627,55 @@ Se concede acción popular para denunciar ante las autoridades sanitarias del Es
 
 La acción popular podrá ejercitarse por cualquier persona bastando para darle curso, el señalamiento de los datos que permitan localizar la causa del riesgo.
 
-### CAPITULO V. ATENCION MATERNO-INFANTIL
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 9 DE FEBRERO DE 2016)</small>
 
-### CAPITULO VI. SERVICIOS DE PLANIFICACION FAMILIAR
+### CAPITULO IV BIS
+
+ATENCION SANITARIA PREVENTIVA, ORIENTACION, EDUCACION Y SERVICIOS DE SALUD SEXUAL Y REPRODUCTIVA Y LA PREVENCION DE EMBARAZOS EN NIÑAS Y ADOLESCENTES.
+
+> <small>(ADICIONADO, G.O. 9 DE FEBRERO DE 2016)</small>
+
+ARTICULO 58 BIS.- La salud sexual, la salud reproductiva y la prevención del embarazo en niñas y adolescentes tienen carácter prioritario; los servicios que se presten en esta materia deberán contribuir a su desarrollo y bienestar, procurando el más alto nivel posible de salud, la disminución de embarazos no deseados, así como la prevención de infecciones de transmisión sexual.
+
+> <small>(ADICIONADO, G.O. 9 DE FEBRERO DE 2016)</small>
+
+ARTICULO 58 TER.- La prevención del embarazo en niñas y adolescentes comprende los siguientes aspectos:
+
+I.- La promoción de programas de salud sexual y reproductiva dirigidos a la población en general y con especial énfasis a niñas, niños y adolescentes;
+
+II.- La promoción para que en las poblaciones y comunidades urbanas, semiurbanas y rurales se impartan pláticas de orientación en materia de educación sexual y reproductiva dirigidas a niñas, niños y adolescentes, a efecto de proporcionar información objetiva y veraz acerca del ejercicio de la sexualidad y la prevención de embarazos tempranos, con el apoyo de las instituciones de salud y educativas;
+
+III.- La capacitación al personal de salud en las materias de salud sexual y reproductiva y prevención de embarazos en niñas y adolescentes, a efecto de que estén en la posibilidad de transmitir estos conocimientos a la población de forma objetiva y veraz, con base en principios científicos y libres de prejuicios; y
+
+IV.- La promoción de talleres para padres y madres de familia, tutores o quienes ejerzan la patria potestad de las niñas, niños y adolescentes, en materia de salud sexual y reproductiva así como la prevención de embarazos.
+
+> <small>(ADICIONADO, G.O. 9 DE FEBRERO DE 2016)</small>
+
+ARTICULO 58 QUÁTER.- En materia de métodos anticonceptivos, la Secretaría de Salud del Estado, deberá:
+
+I. Garantizar el acceso al público y la existencia en todas sus clínicas de salud de todos los métodos anticonceptivos en cantidades adecuadas, estableciendo las condiciones óptimas para su uso y con la disponibilidad en el momento en que sean requeridos; y
+
+II. Proporcionar información al público sobre métodos anticonceptivos, la cual deberá ser oportuna, eficaz, verdadera, completa y basada en evidencia científica.
+
+> <small>(ADICIONADO, G.O. 9 DE FEBRERO DE 2016)</small>
+
+ARTICULO 58 QUINQUIES.- Los servicios de orientación sexual y reproductiva para niñas, niños y adolescentes, así como de prevención de embarazos que ofrezca la Secretaría de Salud del Estado, deberán suministrarse considerando los siguientes aspectos:
+
+I. La información que se proporcione deberá ser real y objetiva, sin imposiciones, garantizando un ambiente de confidencialidad y confianza;
+
+II. El personal deberá estar debidamente capacitado y prestará los servicios de atención médica de forma respetuosa, efectiva e integral; y
+
+III. Deberá facilitar la identificación de los lugares en donde se brinden estos servicios.
+
+> <small>(ADICIONADO, G.O. 9 DE FEBRERO DE 2016)</small>
+
+ARTICULO 58 SEXIES.- La Secretaría de Salud, a través de sus hospitales y clínicas deberán prestar servicios de salud oportunos, especializados y de calidad que atiendan las necesidades físicas y psicológicas de las niñas y adolescentes durante el embarazo, parto y postparto, particularizando el riesgo en cada caso.
+
+> <small>(ADICIONADO, G.O. 9 DE FEBRERO DE 2016)</small>
+
+ARTICULO 58 SEPTIES.- La Secretaría de Salud, a través de sus hospitales y clínicas, deberá proporcionar atención a las niñas y adolescentes víctimas de violencia sexual, para evitar infecciones de transmisión sexual, así como todas aquellas medidas necesarias, de conformidad con la legislación aplicable.
+
+### CAPITULO V. ATENCION MATERNO-INFANTIL
 
 ###### ARTICULO 59.
 
@@ -659,7 +717,7 @@ En materia de higiene escolar, corresponde a las autoridades sanitarias del Esta
 
 La prestación de servicios de salud a los escolares se efectuará de conformidad con las bases de coordinación que se establezcan entre las autoridades sanitarias estatales y educativas competentes.
 
-### CAPITULO VII. SALUD MENTAL
+### CAPITULO VI. SERVICIOS DE PLANIFICACION FAMILIAR
 
 ###### ARTICULO 65.
 
@@ -689,7 +747,7 @@ Los comités de salud a que se refiere el artículo 56 de esta Ley, promoverán 
 
 El Gobierno del Estado coadyuvará con la Secretaría de Salud en las acciones del Programa Nacional de Planificación Familiar que formule el Consejo Nacional de Población y el Programa de Planificación Familiar del Sector Salud, y cuidará que se incorporen en los programas estatales de salud.
 
-### CAPITULO I. PROFESIONALES, TECNICOS Y AUXILIARES
+### CAPITULO VII. SALUD MENTAL
 
 ###### ARTICULO 69.
 
@@ -727,6 +785,8 @@ Los padres, tutores o quienes ejerzan la patria potestad de menores, los respons
 
 ## TITULO CUARTO. RECURSOS HUMANOS PARA LOS SERVICIOS DE SALUD
 
+### CAPITULO I. PROFESIONALES, TECNICOS Y AUXILIARES
+
 ### CAPITULO I BIS. EJERCICIO ESPECIALIZADO DE LA CIRUGIA
 
 > <small>(ADICIONADO, G.O. 7 DE AGOSTO DE 2015)</small>
@@ -755,11 +815,9 @@ ARTICULO 77 QUINQUIES.- Las sociedades, asociaciones, colegios o federaciones de
 
 ### CAPITULO II. SERVICIO SOCIAL DE PASANTES Y PROFESIONALES
 
-### CAPITULO III. FORMACION, CAPACITACION Y ACTUALIZACION DEL PERSONAL
-
 ## TITULO QUINTO. INVESTIGACION PARA LA SALUD
 
-### CAPITULO UNICO
+### CAPITULO III. FORMACION, CAPACITACION Y ACTUALIZACION DEL PERSONAL
 
 ###### ARTICULO 74.
 
@@ -773,11 +831,15 @@ III.- Los convenios que al efecto se suscriban entre el Gobierno del Estado y la
 
 IV.- Las disposiciones de esta Ley y demás normas jurídicas aplicables.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 9 DE FEBRERO DE 2016)</small>
+
 ###### ARTICULO 75.
 
-Para el ejercicio de actividades profesionales en el campo de la medicina, odontología, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología y sus ramas, nutrición, dietología y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
+Para el ejercicio de actividades profesionales en el campo de la medicina, odontología, veterinaria, biología, bacteriología, enfermería, trabajo social, química, psicología y sus ramas, optometría, nutrición, dietología y las demás que establezcan otras disposiciones legales aplicables, se requiere que los títulos profesionales o certificados de especialización hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
 
-Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, odontología, veterinaria, enfermería, laboratorio clínico, radiología, terapia física, terapia ocupacional, terapia del lenguaje, prótesis y órtesis, trabajo social, nutrición, citotecnología, patología, bioestadística, codificación clínica, bioterios, farmacia, saneamiento, histopatología y embalsamamiento y sus ramas, se requiere que los diplomas correspondientes hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
+> <small>(REFORMADO, G.O. 9 DE FEBRERO DE 2016)</small>
+
+Para el ejercicio de actividades técnicas y auxiliares que requieran conocimientos específicos en el campo de la medicina, odontología, veterinaria, enfermería, laboratorio clínico, radiología, optometría, terapia física, terapia ocupacional, terapia del lenguaje, prótesis y órtesis, trabajo social, nutrición, citotecnología, patología, bioestadística, codificación clínica, bioterios, farmacia, saneamiento, histopatología y embalsamamiento y sus ramas, se requiere que los diplomas correspondientes hayan sido legalmente expedidos y registrados por las autoridades educativas competentes.
 
 > <small>(ADICIONADO, G.O. 7 DE AGOSTO DE 2015)</small>
 
@@ -807,7 +869,7 @@ Quienes ejerzan las actividades profesionales técnicas y auxiliares y las espec
 
 ### CAPITULO UNICO
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO UNICO
 
 ###### ARTICULO 78.
 
@@ -831,7 +893,7 @@ La prestación del servicio social de los pasantes de las profesiones para la sa
 
 Las autoridades sanitarias del Estado, con la participación de las instituciones de educación superior, elaborarán programas de carácter social para los profesionales de la salud, en beneficio de la colectividad del Estado de Veracruz, de conformidad con las disposiciones legales aplicables al ejercicio profesional.
 
-### CAPITULO II. EDUCACION PARA LA SALUD
+### CAPITULO I. DISPOSICIONES COMUNES
 
 ###### ARTICULO 83.
 
@@ -871,7 +933,7 @@ La operación de los programas correspondientes en los establecimientos de salud
 
 ## TITULO SEXTO. INFORMACION PARA LA SALUD
 
-### CAPITULO III. NUTRICION
+### CAPITULO II. EDUCACION PARA LA SALUD
 
 ###### ARTICULO 88.
 
@@ -921,7 +983,7 @@ En el tratamiento de una persona enferma, el médico podrá utilizar nuevos recu
 
 ## TITULO SEPTIMO. PROMOCION DE LA SALUD
 
-### CAPITULO IV. EFECTOS DEL AMBIENTE EN LA SALUD
+### CAPITULO III. NUTRICION
 
 ###### ARTICULO 93.
 
@@ -941,7 +1003,7 @@ Los establecimientos que presten los servicios de salud y los profesionales, té
 
 ## TITULO OCTAVO. PREVENCION Y CONTROL DE ENFERMEDADES Y ACCIDENTES
 
-### CAPITULO V. SALUD OCUPACIONAL
+### CAPITULO IV. EFECTOS DEL AMBIENTE EN LA SALUD
 
 ###### ARTICULO 95.
 
@@ -959,7 +1021,7 @@ III.- Control de los efectos nocivos del ambiente en la salud.
 
 IV.- Salud ocupacional.
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO V. SALUD OCUPACIONAL
 
 ###### ARTICULO 97.
 
@@ -975,7 +1037,7 @@ III.- Orientar y capacitar a la población en materia de nutrición, salud menta
 
 Las autoridades sanitarias del Estado, en coordinación con las autoridades federales competentes, formularán, propondrán y desarrollarán programas de educación para la salud, procurando optimizar los recursos y alcanzar una cobertura total de la población. El Gobierno del Estado, en coordinación con las autoridades federales competentes, promoverán programas de educación para la salud que pueden ser difundidos en los medios masivos de comunicación social que actúen en el ámbito del Estado.
 
-### CAPITULO II. ENFERMEDADES TRANSMISIBLES
+### CAPITULO I. DISPOSICIONES COMUNES
 
 ###### ARTICULO 99.
 
@@ -989,7 +1051,7 @@ El Gobierno del Estado formulará y desarrollará programas estatales de nutrici
 
 En los programas a que se refiere el artículo anterior, se incorporarán acciones que promuevan el consumo de alimentos de producción regional, procurando al efecto la participación de las organizaciones campesinas, ganaderas, cooperativas y otras organizaciones sociales cuyas actividades se relacionen con la producción de alimentos.
 
-### CAPITULO III. ENFERMEDADES NO TRANSMISIBLES
+### CAPITULO II. ENFERMEDADES TRANSMISIBLES
 
 ###### ARTICULO 102.
 
@@ -1021,7 +1083,7 @@ Los usuarios que aprovechen en su servicio aguas que posteriormente sean utiliza
 
 La Secretaría de Salud y Asistencia del Estado, en coordinación con las autoridades federales competentes, con las autoridades ejidales y comunales correspondientes y la autoridad estatal encargada de la administración del sistema de riego, orientará a la población para evitar la contaminación de agua de presas, pluviales, lagos y otras que se utilicen para riego o uso doméstico, originada por substancias tóxicas, plaguicidas, desperdicios o basura.
 
-### CAPITULO IV. ACCIDENTES
+### CAPITULO III. ENFERMEDADES NO TRANSMISIBLES
 
 ###### ARTICULO 108.
 
@@ -1035,7 +1097,7 @@ El Gobierno del Estado, en coordinación con las dependencias y entidades federa
 
 > <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, POR SEGUNDO TRANSITORIO DE LA LEY NÚMERO 579 PARA EL FUNCIONAMIENTO Y OPERACIÓN DE ALBERGUES, CENTROS ASISTENCIALES Y SUS SIMILARES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 24 DE SEPTIEMBRE DE 2012)</small>
 
-### CAPITULO UNICO
+### CAPITULO IV. ACCIDENTES
 
 ###### ARTICULO 110.
 
@@ -1043,7 +1105,7 @@ El Gobierno del Estado, en coordinación con las autoridades federales e institu
 
 Asimismo, ejercerá el control sanitario sobre los establecimientos en los que se desarrollen actividades ocupacionales, para el cumplimiento de los requisitos que en cada caso deban reunir, de conformidad con lo que establezcan los reglamentos respectivos.
 
-### CAPITULO I. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
+### CAPITULO UNICO
 
 ###### ARTICULO 111.
 
@@ -1155,7 +1217,7 @@ El transporte de enfermos de afecciones transmisibles deberá efectuarse en veh�
 
 Las autoridades sanitarias estatales determinarán los casos en que se deba proceder a la descontaminación microbiana o parasitaria, desinfección, desinsectación, desinfectación y otras medidas de saneamiento de lugares, edificios, vehículos y objetos.
 
-### CAPITULO II. PROGRAMA CONTRA EL TABAQUISMO
+### CAPITULO I. PROGRAMA CONTRA EL ALCOHOLISMO Y EL ABUSO DE BEBIDAS ALCOHOLICAS
 
 ###### ARTICULO 125.
 
@@ -1179,9 +1241,9 @@ V.- Las demás que sean necesarias para la prevención, tratamiento y control de
 
 Los profesionales, técnicos y auxiliares de la salud, deberán rendir los informes que la autoridad sanitaria requiera acerca de las enfermedades no transmisibles, en los términos de los reglamentos que al efecto se expidan.
 
-### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
+### CAPITULO II. PROGRAMA CONTRA EL TABAQUISMO
 
-### CAPITULO I. DISPOSICIONES COMUNES
+### CAPITULO III. PROGRAMA CONTRA LA FARMACODEPENDENCIA
 
 ###### ARTICULO 128.
 
@@ -1209,7 +1271,7 @@ Para una mayor eficacia de las acciones a las que se refiere este artículo, se 
 
 ## TITULO DECIMO. PROGRAMA CONTRA LAS ADICCIONES
 
-### CAPITULO II. DE LOS EXPENDIOS DE ALIMENTOS Y BEBIDAS NO ALCOHOLICAS
+### CAPITULO I. DISPOSICIONES COMUNES
 
 ###### ARTICULO 130.
 
@@ -1313,7 +1375,7 @@ Para una mayor eficacia de las acciones a las que se refiere este artículo, se 
 
 ARTICULO 154 BIS.- (DEROGADO POR SEGUNDO TRANSITORIO DE LA LEY NÚMERO 579 PARA EL FUNCIONAMIENTO Y OPERACIÓN DE ALBERGUES, CENTROS ASISTENCIALES Y SUS SIMILARES DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, G.O. 24 DE SEPTIEMBRE DE 2012)
 
-### CAPITULO III. DE LAS BEBIDAS ALCOHOLICAS
+### CAPITULO II. DE LOS EXPENDIOS DE ALIMENTOS Y BEBIDAS NO ALCOHOLICAS
 
 ###### ARTICULO 155.
 
@@ -1336,6 +1398,24 @@ II.- Efectos de la publicidad en la incidencia del alcoholismo y en los problema
 III.- Hábitos de consumo del alcohol en los diferentes grupos de población.
 
 IV.- Efectos del abuso de bebidas alcohólicas en los ámbitos familiar, social, deportivo, de los espectáculos, laboral y educativo.
+
+### CAPITULO III. DE LAS BEBIDAS ALCOHOLICAS
+
+###### ARTICULO 157.
+
+El Gobierno del Estado se coordinará con las autoridades sanitarias federales para la ejecución en el Estado del programa contra el tabaquismo, que comprenderá, entre otras, las siguientes acciones:
+
+I.- La prevención y el tratamiento de padecimientos originados por el tabaquismo.
+
+II.- La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niños y adolescentes, a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la orientación de la población para que se abstengan de fumar en lugares públicos.
+
+###### ARTICULO 158.
+
+Para poner en práctica las acciones contra el tabaquismo, se tendrán en cuenta los siguientes aspectos:
+
+I.- La investigación de las causas del tabaquismo y de las acciones para controlarlas.
+
+II.- La educación a la familia para prevenir el consumo de tabaco por parte de niños y adolescentes.
 
 ### CAPITULO III BIS. DE LA PROHIBICION DE VENTA DE BEBIDAS ALCOHOLICAS A MENORES DE EDAD
 
@@ -1449,24 +1529,6 @@ XI. Autoridades competentes para verificar y, en su caso, sancionar las conducta
 
 ARTICULO 177 DECIES. Los ayuntamientos instrumentarán, en coordinación con los propietarios de establecimientos, campañas de información sobre los riesgos relacionados con el consumo excesivo de bebidas alcohólicas y con la conducción de vehículos automotores bajo los influjos de éstas.
 
-###### ARTICULO 157.
-
-El Gobierno del Estado se coordinará con las autoridades sanitarias federales para la ejecución en el Estado del programa contra el tabaquismo, que comprenderá, entre otras, las siguientes acciones:
-
-I.- La prevención y el tratamiento de padecimientos originados por el tabaquismo.
-
-II.- La educación sobre los efectos del tabaquismo en la salud, dirigida especialmente a la familia, niños y adolescentes, a través de métodos individuales, colectivos o de comunicación masiva, incluyendo la orientación de la población para que se abstengan de fumar en lugares públicos.
-
-###### ARTICULO 158.
-
-Para poner en práctica las acciones contra el tabaquismo, se tendrán en cuenta los siguientes aspectos:
-
-I.- La investigación de las causas del tabaquismo y de las acciones para controlarlas.
-
-II.- La educación a la familia para prevenir el consumo de tabaco por parte de niños y adolescentes.
-
-### CAPITULO IV. MERCADOS Y CENTROS DE ABASTO
-
 ###### ARTICULO 159.
 
 El Gobierno del Estado coadyuvará con la Secretaría de Salud en la ejecución, en el territorio del Estado de Veracruz, del programa nacional contra la farmacodependencia.
@@ -1489,7 +1551,7 @@ TITULO DECIMOPRIMERO
 
 SALUBRIDAD LOCAL
 
-### CAPITULO V. DE LAS CONSTRUCCIONES
+### CAPITULO IV. MERCADOS Y CENTROS DE ABASTO
 
 ###### ARTICULO 161.
 
@@ -1527,7 +1589,7 @@ Todo cambio de propietario de un establecimiento de razón y denominación socia
 
 Las normas técnicas que expida la Secretaría de Salud y Asistencia del Estado, surtirán sus efectos al día siguiente de su publicación en la "Gaceta Oficial" del Estado.
 
-### CAPITULO VI. LIMPIEZA PUBLICA
+### CAPITULO V. DE LAS CONSTRUCCIONES
 
 ###### ARTICULO 169.
 
@@ -1541,7 +1603,7 @@ La Secretaría de Salud y Asistencia del Estado y los municipios, en el ámbito 
 
 El Ejecutivo del Estado podrá celebrar con los municipios, los convenios conducentes para que éstos asuman los servicios sanitarios relacionados con los establecimientos a que se refiere este capítulo.
 
-### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
+### CAPITULO VI. LIMPIEZA PUBLICA
 
 ###### ARTICULO 172.
 
@@ -1597,9 +1659,9 @@ Lo dispuesto en el artículo anterior rige además para el expendio, en envase a
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 20 DE JULIO DE 2015)</small>
 
-### CAPITULO VIII. RASTROS
+### CAPITULO VII. AGUA POTABLE Y ALCANTARILLADO
 
-### CAPITULO IX. PANTEONES
+### CAPITULO VIII. RASTROS
 
 ###### ARTICULO 178.
 
@@ -1617,7 +1679,7 @@ Los mercados y centros de abasto, desde el punto de vista higiénico, estarán b
 
 Los vendedores locatarios y personas cuya actividad esté vinculada con los mercados y centros de abasto, estarán obligados a conservar las condiciones higiénicas indispensables para el debido mantenimiento de sus locales y el ejercicio de sus actividades se sujetará a lo que disponga esta Ley, y los reglamentos respectivos, así como las normas técnicas correspondientes.
 
-### CAPITULO X. ESTABLOS, GRANJAS AVICOLAS, PISCICOLAS Y PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
+### CAPITULO IX. PANTEONES
 
 ###### ARTICULO 182.
 
@@ -1655,7 +1717,7 @@ Cuando los propietarios o poseedores de construcciones o terrenos declarados pel
 
 Los propietarios o poseedores de los edificios y locales o de los negocios en ellos establecidos, están obligados a ejecutar las obras que se requieran, para cumplir con las condiciones de higiene y seguridad que establezcan las disposiciones aplicables y las normas técnicas correspondientes.
 
-### CAPITULO XI. RECLUSORIOS
+### CAPITULO X. ESTABLOS, GRANJAS AVICOLAS, PISCICOLAS Y PORCICOLAS, APIARIOS Y ESTABLECIMIENTOS SIMILARES
 
 ###### ARTICULO 191.
 
@@ -1689,7 +1751,7 @@ Por ningún motivo se manipulará la basura antes de su llegada al basurero o la
 
 Para toda actividad relacionada con este capítulo, se acatará lo dispuesto por esta Ley, las demás disposiciones aplicables y las normas técnicas correspondientes.
 
-### CAPITULO XII. BAÑOS PUBLICOS, GIMNASIOS Y CLUBES DEPORTIVOS
+### CAPITULO XI. RECLUSORIOS
 
 ###### ARTICULO 199.
 
@@ -1723,7 +1785,7 @@ Los proyectos para la implantación de sistemas de alcantarillado, deberán ser 
 
 Queda prohibido que los desechos o líquidos que conduzcan los caños, sean vertidos en el mar o en arroyos, acueductos, corrientes o canales por donde fluyan aguas destinadas al consumo humano.
 
-### CAPITULO XIII. CENTROS DE REUNION Y ESPECTACULOS
+### CAPITULO XII. BAÑOS PUBLICOS, GIMNASIOS Y CLUBES DEPORTIVOS
 
 ###### ARTICULO 207.
 
@@ -1761,7 +1823,7 @@ El transporte de carne, para el comercio dentro del territorio del Estado, deber
 
 Las disposiciones a que se refiere, este capítulo, también son aplicables respecto a la matanza de aves para su venta al público, incluyendo pavos o guajolotes, gallinas, gallos, pollos, patos, codornices, palomas y otras.
 
-### CAPITULO XIV. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS, COMO PELUQUERIAS, SALONES DE BELLEZA Y OTROS
+### CAPITULO XIII. CENTROS DE REUNION Y ESPECTACULOS
 
 ###### ARTICULO 216.
 
@@ -1785,7 +1847,7 @@ El funcionamiento de los panteones y agencias funerarias, estará sujeto a esta 
 
 Para el debido control de los panteones establecidos en el territorio estatal, la Secretaría llevará un Registro Público Estatal de Panteones, el cual contendrá la información que anualmente le remitan los Ayuntamientos de la Entidad.
 
-### CAPITULO XV. ESTABLECIMIENTOS DE HOSPEDAJE Y RESTAURANTES
+### CAPITULO XIV. ESTABLECIMIENTOS DEDICADOS A LA PRESTACION DE SERVICIOS, COMO PELUQUERIAS, SALONES DE BELLEZA Y OTROS
 
 ###### ARTICULO 220.
 
@@ -1813,7 +1875,7 @@ Para el funcionamiento de los establecimientos a que se refiere este capítulo, 
 
 Las condiciones sanitarias que deben reunir estos establecimientos, estarán fijadas por esta Ley, otras disposiciones legales aplicables y las normas técnicas correspondientes.
 
-### CAPITULO XVI. TRANSPORTE ESTATAL Y MUNICIPAL
+### CAPITULO XV. ESTABLECIMIENTOS DE HOSPEDAJE Y RESTAURANTES
 
 ###### ARTICULO 224.
 
@@ -1827,7 +1889,7 @@ Los reclusorios estarán sujetos al control sanitario del Gobierno del Estado, d
 
 Los reclusorios deberán contar, además de lo previsto por las disposiciones legales aplicables y las normas técnicas correspondientes, con departamentos de baño de regadera, retretes, peluquería, dietología, enfermería para la atención de los reclusos en los casos en que no ameriten hospitalización; áreas conyugales; servicios de psiquiatría, etc.
 
-### CAPITULO XVII. GASOLINERAS
+### CAPITULO XVI. TRANSPORTE ESTATAL Y MUNICIPAL
 
 ###### ARTICULO 227.
 
@@ -1845,7 +1907,7 @@ Para el funcionamiento al público de los baños, gimnasios o clubes deportivos,
 
 La actividad de estos establecimientos estará sujeta a lo dispuesto por esta Ley, las disposiciones legales aplicables y las normas técnicas correspondientes que dicte la Secretaría de Salud y Asistencia del Estado.
 
-### CAPITULO XVIII. DE LA CAMPAÑA CONTRA LA HIDROFOBIA
+### CAPITULO XVII. GASOLINERAS
 
 ###### ARTICULO 230.
 
@@ -1859,7 +1921,7 @@ El funcionamiento de los establecimientos a que se refiere el artículo anterior
 
 Para su funcionamiento al público, previamente deberá obtener autorización sanitaria de la autoridad estatal.
 
-### CAPITULO XIX. DE LAS CAMPAÑAS CONTRA OTRAS ENFERMEDADES
+### CAPITULO XVIII. DE LA CAMPAÑA CONTRA LA HIDROFOBIA
 
 ###### ARTICULO 233.
 
@@ -1879,19 +1941,19 @@ II.- Lavandería, el establecimiento dedicado al lavado de ropa.
 
 III.- Lavadero público, el establecimiento al cual acuden los interesados para realizar personalmente el lavado de ropa.
 
-### CAPITULO I. AUTORIZACIONES
+### CAPITULO XIX. DE LAS CAMPAÑAS CONTRA OTRAS ENFERMEDADES
 
 ###### ARTICULO 236.
 
 Para los efectos de esta Ley, se entiende por establecimiento de hospedaje, cualquier edificación que se destine a albergar a toda aquella persona que paga por ello y por restaurantes, los lugares destinados a elaborar y servir alimentos al público.
 
-### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
+### CAPITULO I. AUTORIZACIONES
 
 ###### ARTICULO 237.
 
 Para los efectos de esta Ley, se entiende por transporte, todo aquel vehículo destinado al traslado de carga de alimentos perecederos o imperecederos o de pasajeros sea terrestre, fluvial, aéreo o marítimo, y sea cual fuere su medio de propulsión.
 
-### CAPITULO III. CERTIFICADOS
+### CAPITULO II. REVOCACION DE AUTORIZACIONES SANITARIAS
 
 ###### ARTICULO 238.
 
@@ -1901,7 +1963,7 @@ Para los efectos de esta Ley, se entiende por gasolinera, el establecimiento des
 
 Las gasolineras deberán contar con las instalaciones sanitarias y cumplir con las normas de seguridad que se establezcan en el reglamento correspondiente y otras disposiciones legales aplicables.
 
-### CAPITULO UNICO
+### CAPITULO III. CERTIFICADOS
 
 ###### ARTICULO 240.
 
@@ -1923,7 +1985,7 @@ Las autoridades sanitarias, mantendrán campañas permanentes de orientación a 
 
 Queda prohibido poseer animales domésticos en aquellos edificios de condominios o departamentos en los que deban utilizar pasillos, escaleras o elevadores comunes.
 
-### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
+### CAPITULO UNICO
 
 ###### ARTICULO 245.
 
@@ -1933,7 +1995,7 @@ TITULO DECIMOSEGUNDO
 
 AUTORIZACIONES Y CERTIFICADOS
 
-### CAPITULO II. SANCIONES ADMINISTRATIVAS
+### CAPITULO I. MEDIDAS DE SEGURIDAD SANITARIA
 
 ###### ARTICULO 246.
 
@@ -2005,7 +2067,7 @@ Las autorizaciones a que se refiere esta Ley podrán ser revisadas por la autori
 
 Los ingresos que se obtengan por los servicios de salubridad local que se presten, se efectuarán en la forma que establezca la legislación aplicable.
 
-### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
+### CAPITULO II. SANCIONES ADMINISTRATIVAS
 
 ###### ARTICULO 258.
 
@@ -2063,7 +2125,7 @@ La autoridad sanitaria competente emitirá la resolución que corresponda al con
 
 La resolución de revocación surtirá efectos, en su caso, de clausura definitiva, prohibición de uso, prohibición de venta o de ejercicio de las actividades a que se refiere la autorización revocada.
 
-### CAPITULO IV. RECURSOS DE INCONFORMIDAD
+### CAPITULO III. PROCEDIMIENTO PARA APLICAR LAS MEDIDAS DE SEGURIDAD Y SANCIONES
 
 ###### ARTICULO 266.
 
@@ -2099,7 +2161,7 @@ TITULO DECIMOTERCERO
 
 VIGILANCIA SANITARIA
 
-### CAPITULO V. PRESCRIPCION
+### CAPITULO IV. RECURSOS DE INCONFORMIDAD
 
 ###### ARTICULO 271.
 
@@ -2161,9 +2223,7 @@ TITULO DECIMOCUARTO
 
 MEDIDAS DE SEGURIDAD Y SANCIONES
 
-### CAPITULO I. DISPOSICIONES GENERALES
-
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
+### CAPITULO V. PRESCRIPCION
 
 ###### ARTICULO 280.
 
@@ -2261,7 +2321,7 @@ Quedan exceptuados, aquellos bienes que se encuentren a disposición de autorida
 
 La desocupación o desalojo de casas, edificios, establecimientos y, en general, de cualquier predio se ordenará, previa observancia de la garantía de audiencia y dictamen pericial, cuando, a juicio de las autoridades sanitarias competentes, se considere que es indispensable para evitar un daño grave a la salud o a la vida de las personas.
 
-### CAPITULO II. DE LOS BENEFICIARIOS DEL SISTEMA DE PROTECCION SOCIAL EN SALUD
+### CAPITULO I. DISPOSICIONES GENERALES
 
 > <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
@@ -2343,7 +2403,7 @@ Sólo procederá esta sanción, si previamente se dictó cualquiera otra de las 
 
 Impuesto el arresto, se comunicará la resolución a la autoridad correspondiente para que la ejecute.
 
-### CAPITULO III. DE LAS APORTACIONES PARA EL SISTEMA DE PROTECCION SOCIAL EN SALUD
+### CAPITULO II. DE LOS BENEFICIARIOS DEL SISTEMA DE PROTECCION SOCIAL EN SALUD
 
 > <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
@@ -2419,7 +2479,7 @@ En los casos de suspensión de trabajos o de servicios o de clausura temporal o 
 
 Cuando del contenido de un acta de inspección se desprenda la posible comisión de uno o varios delitos, la autoridad sanitaria formulará la denuncia correspondiente ante el Ministerio Público, sin perjuicio de la aplicación de la sanción administrativa que corresponda.
 
-### CAPITULO IV. DE LAS CUOTAS FAMILIARES
+### CAPITULO III. DE LAS APORTACIONES PARA EL SISTEMA DE PROTECCION SOCIAL EN SALUD
 
 > <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
@@ -2485,9 +2545,9 @@ III.- Que fueren de difícil reparación los daños y perjuicios que se causen a
 
 En la tramitación del recurso de inconformidad, se aplicará supletoriamente el Código de Procedimientos Civiles del Estado de Veracruz.
 
-### CAPITULO V. DE LA TRANSPARENCIA, CONTROL Y SUPERVISION DEL MANEJO DE LOS RECURSOS DEL SISTEMA DE PROTECCION SOCIAL EN SALUD
+### CAPITULO IV. DE LAS CUOTAS FAMILIARES
 
-> <small>(REFORMADO, G.O. 17 DE ABRIL DE 2008)</small>
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 326.
 
@@ -2513,7 +2573,7 @@ DEL SISTEMA DE PROTECCION SOCIAL EN SALUD
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
-### CAPITULO VI. DEL REGIMEN DEL SISTEMA ESTATAL DE PROTECCION SOCIAL EN SALUD
+### CAPITULO V. DE LA TRANSPARENCIA, CONTROL Y SUPERVISION DEL MANEJO DE LOS RECURSOS DEL SISTEMA DE PROTECCION SOCIAL EN SALUD
 
 > <small>(REFORMADO, G.O. 17 DE ABRIL DE 2008)</small>
 
@@ -2599,9 +2659,9 @@ VII.- Es facultad del Régimen, a través de los Servicios de Salud, proveer de 
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
-### CAPITULO VII. DERECHOS Y OBLIGACIONES DE LOS BENEFICIARIOS
+### CAPITULO VI. DEL REGIMEN DEL SISTEMA ESTATAL DE PROTECCION SOCIAL EN SALUD
 
-> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
+> <small>(REFORMADO, G.O. 17 DE ABRIL DE 2008)</small>
 
 ###### ARTICULO 335.
 
@@ -2647,7 +2707,7 @@ VIII.- Información al usuario sobre diagnóstico y pronóstico, así como del o
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
-### CAPITULO VIII. CAUSAS DE SUSPENSION Y CANCELACION EN EL SISTEMA DE PROTECCION SOCIAL EN SALUD
+### CAPITULO VII. DERECHOS Y OBLIGACIONES DE LOS BENEFICIARIOS
 
 > <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
@@ -2671,7 +2731,7 @@ Ambos recursos se administrarán y ejercerán con base en los acuerdos de coordi
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
-### CAPITULO IX. DEL CONSEJO ESTATAL DEL REGIMEN DE PROTECCION SOCIAL EN SALUD
+### CAPITULO VIII. CAUSAS DE SUSPENSION Y CANCELACION EN EL SISTEMA DE PROTECCION SOCIAL EN SALUD
 
 > <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
@@ -2708,6 +2768,10 @@ El nivel de ingreso o la carencia de éste, no podrán ser limitantes para el ac
 Con el objeto de favorecer el uso responsable de los servicios de salud, el Consejo de Salubridad General podrá establecer, mediante reglas de carácter general, un esquema de cuotas reguladoras para algunos servicios en razón de la frecuencia en su uso o especialidad, o para el abastecimiento de medicamentos asociados. En dichas reglas deberá considerarse la posibilidad de que aquellos beneficiarios cuya condición socioeconómica así lo justifique, no cubran las cuotas a que se refiere este artículo.
 
 > <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, G.O. 28 DE DICIEMBRE DE 2005)</small>
+
+### CAPITULO IX. DEL CONSEJO ESTATAL DEL REGIMEN DE PROTECCION SOCIAL EN SALUD
+
+> <small>(ADICIONADO, G.O. 28 DE DICIEMBRE DE 2005)</small>
 
 ###### ARTICULO 345.
 
@@ -3030,3 +3094,19 @@ G.O. 7 DE AGOSTO DE 2015.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 9 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 847 POR EL QUE SE REFORMAN Y ADICIONAN DIVERSOS ARTÍCULOS A LA LEY DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 9 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 854 QUE REFORMA EL ARTÍCULO 75 DE LA LEY DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto
