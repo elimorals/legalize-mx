@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-271-de-fomento-a-las-actividades-de-desarrollo-23638
 country: "mx"
 rank: "ley"
 publication_date: "2002-02-11"
-last_updated: "2007-08-08"
+last_updated: "2016-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23638&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE FOMENTO A LAS ACTIVIDADES DE DESARROLLO SOCIAL DE LAS ORGANIZACIONES CIVILES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 8 DE AGOSTO DE 2007.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE FEBRERO DE 2016.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el lunes 11 de febrero de 2002.
 
@@ -89,7 +89,11 @@ b) El fomento a la capacitación de sus integrantes;
 
 XIV. Fortalecer el incremento de las capacidades productivas de las personas, para alcanzar su autosuficiencia y desarrollo integral; y
 
-XV. Las demás actividades que, basadas en los principios que animan esta Ley, contribuyan al desarrollo social.
+> <small>(ADICIONADA, G.O. 9 DE FEBRERO DE 2016)</small>
+
+XV. Brindar ayuda humanitaria a los migrantes; y
+
+XVI. Las demás actividades que, basadas en los principios que animan esta Ley, contribuyan al desarrollo social.
 
 ###### Artículo 3.
 
@@ -260,3 +264,11 @@ G.O. 8 DE AGOSTO DE 2007.
 Primero. El presente Decreto surtirá efectos al siguiente día de su publicación en la Gaceta Oficial.
 
 Segundo. A partir de la entrada en vigor del presente decreto se derogan todas las disposiciones que se le opongan.
+
+G.O. 9 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 855 QUE ADICIONA UNA FRACCIÓN AL ARTÍCULO 2 DE LA LEY DE FOMENTO A LAS ACTIVIDADES DE DESARROLLO SOCIAL DE LAS ORGANIZACIONES CIVILES PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
