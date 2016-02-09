@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-483-de-la-comision-estatal-de-derechos-humanos-27314
 country: "mx"
 rank: "ley"
 publication_date: "2002-12-27"
-last_updated: "2010-04-01"
+last_updated: "2016-02-09"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=27314&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "VER"
 ---
 # LEY NUMERO 483 DE LA COMISION ESTATAL DE DERECHOS HUMANOS, VERACRUZ DE IGNACIO DE LLAVE
 
-LEY NUMERO 483 DE LA COMISION ESTATAL DE DERECHOS HUMANOS
+LEY NÚMERO 483 DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS
 
-ULTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE ABRIL DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE FEBRERO DE 2016.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz, el viernes 27 de diciembre de 2002.
 
@@ -153,7 +153,9 @@ X. Celebrar acuerdos, convenios o bases de coordinación con entidades públicas
 
 XI. Rendir, a la sociedad, un informe anual de las actividades desarrolladas;
 
-XII. Elaborar y someter a la consideración del H. Congreso del Estado el presupuesto de egresos de la Comisión, de conformidad con la legislación aplicable;
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 2016)</small>
+
+XII. Elaborar y someter a la consideración del H. Congreso del Estado el presupuesto de egresos de la Comisión, de conformidad con la legislación aplicable, mismo que deberá tener carácter progresivo;
 
 XIII. Rendir anualmente al H. Congreso del Estado un informe sobre la situación patrimonial de la Comisión;
 
@@ -435,7 +437,9 @@ El Patrimonio de la Comisión Estatal de Derechos Humanos será destinado al cum
 
 I. Los bienes muebles e inmuebles, derechos y obligaciones de los que sea titular;
 
-II. El presupuesto que anualmente le asigne el H. Congreso del Estado;
+> <small>(REFORMADA, G.O. 9 DE FEBRERO DE 2016)</small>
+
+II. El presupuesto que anualmente le asigne el H. Congreso del Estado, el cual no podrá disminuir respecto del año inmediato anterior y que será ajustado de acuerdo al índice inflacionario que establezca la autoridad competente;
 
 III. Los donativos económicos o en especie, otorgados por terceras personas nacionales o extranjeras, siempre que sean de reconocida solvencia moral y se dediquen a la promoción, difusión, divulgación, análisis, e investigación de los derechos humanos; y
 
@@ -549,7 +553,7 @@ LICENCIADO MIGUEL ALEMÁN VELAZCO.
 
 GOBERNADOR DEL ESTADO.- RÚBRICA.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 G.O. 1 DE ABRIL DE 2010.
 
@@ -558,3 +562,11 @@ Primero. Este decreto iniciará su vigencia al día siguiente de su publicación
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 Tercero. En un plazo de sesenta días a partir de la entrada en vigor de este ordenamiento, se nombrará a los consejeros del Consejo Consultivo de la Comisión Estatal de Derechos Humanos, con excepción del Presidente de ésta, en los términos señalados en este Decreto, a efecto de que dicho órgano se encuentre integrado con el número de Consejeros previsto en las disposiciones aplicables.
+
+G.O. 9 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 842 QUE REFORMA LOS ARTÍCULOS 6, FRACCIÓN XII, Y 24, FRACCIÓN II, DE LA LEY DE LA COMISIÓN ESTATAL DE DERECHOS HUMANOS PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, Y EL SEGUNDO PÁRRAFO DE LA FRACCIÓN XXVIII DEL ARTÍCULO 18 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que contravenga el presente Decreto.
