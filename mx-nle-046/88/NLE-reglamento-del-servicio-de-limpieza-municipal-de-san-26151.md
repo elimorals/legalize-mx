@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-servicio-de-limpieza-municipal-de-san-26151"
 country: "mx"
 rank: "reglamento"
 publication_date: "2002-10-14"
-last_updated: "2014-02-24"
+last_updated: "2016-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=26151&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DEL SERVICIO DE LIMPIEZA MUNICIPAL DE SAN NICOLÁS DE LOS GARZA, N.L.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 14 de octubre de 2002.
 
@@ -65,17 +65,17 @@ II.- El Presidente Municipal.
 
 III.- El C. Secretario de Servicios Públicos.
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2016)</small>
 
-IV.- El C. Director Operativo de Servicios Públicos.
+IV.- El C. Director de Mantenimiento Urbano.
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2016)</small>
 
-V.- El C. Director Delegacional Oriente.
+V.- El C. Coordinador de Limpia.
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2016)</small>
 
-VI.- El C. Director Delegacional Poniente.
+VI.- El C. Director General de Inspección.
 
 > <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
@@ -85,7 +85,9 @@ VII.- El C. Secretario de Seguridad.
 
 Para los efectos de este Reglamento, se entenderá por:
 
-AMONESTACIÓN.- prevención administrativa que se dirige, haciendo ver las consecuencias de la violación, exhortando a la enmienda e informando de que se impondrá una sanción mayor en caso de reincidencia.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2016)</small>
+
+AMONESTACIÓN.- prevención administrativa que se dirige, haciendo ver las consecuencias de la violación, exhortando a la enmienda e informando de que se impondrá una sanción en caso de reincidencia.
 
 APERCIBIMIENTO.- Notificación administrativa que se hace a una persona física o moral para que se abstenga de efectuar acción alguna en contra del Reglamento.
 
@@ -93,7 +95,9 @@ APERCIBIMIENTO.- Notificación administrativa que se hace a una persona física 
 
 BASURA O RESIDUO.- Los desechos materiales generados en el proceso de transformación y extracción de productos, cuya calidad impida nuevamente su uso, y represente o no peligro alguno, provenientes de las actividades que se realicen en casas habitación, oficinas, edificios, mercados, calles o vías públicas, plazas, parques, establecimientos comerciales e industriales y cualquiera otro similar a los anteriores.
 
-BASURA VEGETAL: Se entiende como tal el producto recolectado de podas de árboles, zacate, pastos hojas, ramas.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2016)</small>
+
+BASURA VEGETAL: Se entiende como tal el producto recolectado de talas o podas de árboles, zacate, pastos, hojas o ramas.
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
@@ -179,11 +183,11 @@ DECLARATORIA DE INMUEBLE DESHABITADO Y/O DESOCUPADO: Documento expedido por el D
 
 ### CAPITULO II. DE LA COMPETENCIA DE LAS AUTORIDADES MUNICIPALES
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2016)</small>
 
 ###### ARTICULO 5.
 
-El Servicio de Limpia en el Municipio de San Nicolás de los Garza, Nuevo León, se prestara por las Autoridades Municipales por conducto de la Secretaria de Servicios Públicos a través de la Dirección General Operativa y las Direcciones Delegación Poniente y Delegación Oriente o servicios concesionados, con la cooperación y responsabilidad de los vecinos, las organizaciones de colonos, las asociaciones de comerciantes, de industriales y representativos de cualquier sector organizado de la población.
+El Servicio de Limpia en el Municipio de San Nicolás de los Garza, Nuevo León, se prestara por las Autoridades Municipales por conducto de la Secretaría de Servicios Públicos a través de la Dirección de Mantenimiento Urbano o servicios concesionados, con la cooperación y responsabilidad de los vecinos, las organizaciones de colonos, las asociaciones de comerciantes, de industriales y representativos de cualquier sector organizado de la población.
 
 ###### ARTICULO 6.
 
@@ -193,9 +197,9 @@ El Presidente Municipal, nombrara al personal necesario y proporcionara dentro d
 
 a) Limpieza de las plazas, parque, jardines del Municipio, así como de las avenidas, calzadas, pasos peatonales, pasos a desnivel, camellones y calles que por su importancia, ameriten que sean limpiadas por el personal del Municipio.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2016)</small>
 
-b) Lavado de camellones, avenidas y calles cuando a juicio de la Secretaria de Servicios Públicos, o de la Dirección General Operativa a través de las Direcciones Delegación Poniente y Delegación Oriente y de los ciudadanos sea necesario.
+b) Lavado de camellones, avenidas y calles de acuerdo al programa establecido de la Secretaria de Servicios Públicos a través de la Dirección de Mantenimiento Urbano.
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
@@ -211,13 +215,13 @@ e) Recolección y transporte de cadáveres de animales, que se encuentren en la 
 
 f) Recolección de basura vegetal hasta 3 metros cúbicos, en caso de exceder se cubrirá por el excedente 2 cuotas por cada metro cúbico o fracción de materia recolectada, Artículo 65 de la Ley de hacienda para los Municipios del Estado de Nuevo León.
 
-> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2014)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2016)</small>
 
-g) En apoyo al servicio en recolección de escombro en casa habitación dentro del Municipio, éste lo otorgará mediante el pago de un derecho conforme a lo establecido en su respectivo acuerdo emitido por la Secretaría de Finanzas y Tesorería, de conformidad a lo estipulado en los artículos 63 y 69, de la Ley de Hacienda para los Municipios del Estado de Nuevo León, siendo para demoliciones pequeñas que el total no exceda de un metro cúbico, en un periodo de cuatro meses, siempre y cuando el escombro esté en bultos u ordenado de tal forma que este no se disperse en la vía pública.
+g) En apoyo al servicio de recolección de escombro en casa habitación dentro del Municipio, éste lo otorgará mediante el pago de un derecho conforme a lo estipulado en los artículos 63 y 69, de la Ley de Hacienda para los Municipios del Estado de Nuevo León, siempre y cuando el escombro esté en bultos u ordenado de tal forma que este no se disperse en la vía pública, de acuerdo a la capacidad o por servicio concesionado.
 
-> <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2016)</small>
 
-h) La Recolección de llantas será gratuito en casa habitación hasta cuatro llantas y en vulcanizadoras un servicio por mes hasta 50 llantas, el excedente se recolectará previo pago por gastos de operación y disposición.
+h) La Recolección de llantas será gratuito en casa habitación hasta cuatro llantas. En el caso de las vulcanizadoras estas serán responsables de la disposición total de las llantas y deberán comprobar ante la autoridad municipal la disposición final en los sitios autorizados.
 
 > <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
@@ -229,21 +233,21 @@ i) Las demás relacionadas con el Servicio de Limpia, que se desprendan de otras
 
 El barrido y la limpieza de las calles de la ciudad de San Nicolás de los Garza, Nuevo León, se efectuarán por las Autoridades Municipales, con la colaboración de los propietarios u ocupantes de las fincas o inmuebles. Las descargas de agua residual que se produzcan durante el barrido deberán de dirigirse al arroyo de la calle y hacia su pendiente natural, en caso de que exista un producto generado por una actividad diferente, deberá canalizarse al drenaje sanitario, evitando emisiones de agua residual hacia la vía pública, de forma permanente.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2016)</small>
 
 ###### ARTICULO 8.
 
-La recolección de basura, desperdicios y transporte a los tiraderos autorizados, se hará dentro de los días y horas que fijara la Dirección General Operativa a través de las Direcciones Delegación Poniente y Delegación Oriente, para cada una de las secciones de la ciudad de San Nicolás de los Garza, Nuevo León.
+La recolección de basura, desperdicios y transporte a los tiraderos autorizados, se hará dentro de los días y horas que fijara la Dirección de Mantenimiento Urbano, para cada una de las secciones de la ciudad de San Nicolás de los Garza, Nuevo León.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2016)</small>
 
 ###### ARTICULO 9.
 
-La Presidencia Municipal dotará a la Dirección General Operativa a través de las Direcciones Delegación Poniente y Delegación Oriente, de camiones recolectores y todo el equipo que sea necesario, para que, tanto el servicio de limpia, deshierbe de plazas y parques públicos como lavado de camellones, se preste en forma eficaz y en horas que no trastorne la vialidad.
+La Presidencia Municipal dotará a la Dirección de Mantenimiento Urbano de camiones recolectores y todo el equipo que sea necesario, para que, tanto el servicio de limpia, deshierbe de plazas y parques públicos como lavado de camellones, se preste en forma eficaz y en horas que no trastorne la vialidad.
 
-Los propietarios u ocupantes de las casas habitación y encargados de lugares o edificios públicos, así como los que contraten el servicio de recolección de basura con el Municipio de acuerdo al artículo 14 de este Reglamento instalaran en el interior de estos los depósitos adecuados necesarios a fin de que en ellos se recolecten la basura y desperdicios, debiendo sacar dichos recipientes a la banqueta para que de ahí sean recogidos por los empleados de la Dirección General Operativa a través de las Direcciones Delegación Poniente y Delegación Oriente, o servicios concesionados, en el horario asignado por la misma.
+Los propietarios u ocupantes de las casas habitación y encargados de lugares o edificios públicos, así como los que contraten el servicio de recolección de basura con el Municipio de acuerdo al artículo 14 de este Reglamento instalaran en el interior de estos los depósitos adecuados necesarios a fin de que en ellos se recolecten la basura y desperdicios, debiendo sacar dichos recipientes a la banqueta para que de ahí sean recogidos por los empleados de la Dirección de Mantenimiento Urbano, o servicios concesionados, en el horario asignado por la misma.
 
-La Dirección General Operativa a través de las Direcciones Delegación Poniente y Delegación Oriente, podrá cambiar el sistema de recolección de basura, tomando en cuenta las necesidades de tránsito de vehículos o el ancho de las calles en los sectores que estime conveniente, obligándose a difundir dicho cambio con 15-quince días de anticipación.
+La Dirección de Mantenimiento Urbano, podrá cambiar el sistema de recolección de basura, tomando en cuenta las necesidades de tránsito de vehículos o el ancho de las calles en los sectores que estime conveniente, obligándose a difundir dicho cambio con 15-quince días de anticipación.
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
@@ -257,23 +261,25 @@ El R. Ayuntamiento podrá celebrar convenios con una o varias personas físicas 
 
 Los depósitos para basura y desperdicios a que se refiere el Artículo 9 deberán ser resistentes para soportar el peso de las cargas que deben mantener, serán susceptibles de ser lavados con agua y recubiertos con pintura de aceite en su exterior.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2016)</small>
+
 ###### ARTICULO 12.
 
-Los vehículos, tanto oficiales como particulares, en los que se hiciere el transporte de basura, desperdicios, y de cadáveres de animales recogidos en la vía publica, deberán ser forrados o cubiertos con tapas adecuadas, para impedir que estos se esparzan en la vía publica, vigilando que no se ocasionen riesgos a la salud.
+Los vehículos, tanto oficiales como particulares, en los que se hiciere el transporte de basura, desperdicios, y de cadáveres de animales recogidos en la vía pública, deberán ser forrados o cubiertos con tapas o lonas adecuadas, para impedir que estos se esparzan en la vía pública, vigilando que no se ocasionen riesgos a la salud.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2016)</small>
 
 ###### ARTICULO 13.
 
-Para el efecto de presentar un servicio más eficiente, se procederá a sectorizar el Municipio y se levantara un padrón de establecimientos mercantiles que demanden el servicio público de limpia, con expresión de sus domicilios y secciones siempre y cuando lo permita la capacidad de infraestructura de la Dirección General Operativa a través de las Direcciones Delegación Poniente y Delegación Oriente, o servicios concesionados.
+Para el efecto de presentar un servicio más eficiente, se procederá a sectorizar el Municipio y se levantara un padrón de establecimientos mercantiles que demanden el servicio público de limpia, con expresión de sus domicilios y secciones siempre y cuando lo permita la capacidad de infraestructura de la Dirección de Mantenimiento Urbano, o servicios concesionados.
 
 ### CAPITULO III. DE LAS OBLIGACIONES DE LOS PROPIETARIOS O ENCARGADOS DE ESTABLECIMIENTOS COMERCIALES, INDUSTRIALES O DE SERVICIOS
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2016)</small>
 
 ###### ARTICULO 14.
 
-Las Empresas o quienes desempeñen actividades Comerciales, Industriales y de servicio, son responsables de la basura que generen, su recolección, traslado y confinamiento en lugares autorizados, previa notificación por escrito al Secretario de Servicios Públicos y Dirección General Operativa, y debiendo contar con la documentación que acredite su cumplimiento, presentándola ante las autoridades municipales en el caso de ser requerida. Donde se reúna basura orgánica e inorgánica o desperdicios, la deberán transportar en vehículos propios o contratar el servicio de empresas autorizadas para realizar el acarreo con las condiciones de higiene al lugar autorizado en el tiempo conveniente, o se podrá pagar al Municipio a través de la Dirección de Ingresos Municipal las cuotas previstas en el artículo 65 Bis de la Ley de Hacienda para los Municipios del Estado de Nuevo León, para que este preste el Servicio de Limpia a Empresas.
+Las Empresas o quienes desempeñen actividades Comerciales, Industriales y de servicio, son responsables de la basura que generen, su recolección, traslado y confinamiento en lugares autorizados, previa notificación por escrito al Secretario de Servicios Públicos y Dirección de Mantenimiento Urbano, y debiendo contar con la documentación que acredite su cumplimiento, presentándola ante las autoridades municipales en el caso de ser requerida. Donde se reúna basura orgánica e inorgánica o desperdicios, la deberán transportar en vehículos propios o contratar el servicio de empresas autorizadas por el Municipio para realizar el acarreo con las condiciones de higiene al lugar autorizado en el tiempo conveniente, o se podrá pagar al Municipio a través de la Dirección de Ingresos Municipal las cuotas previstas en el artículo 65 Bis de la Ley de Hacienda para los Municipios del Estado de Nuevo León, para que este preste el Servicio de Limpia a Empresas.
 
 > <small>(ADICIONADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
@@ -281,13 +287,13 @@ Los depósitos o contenedores para basura y desperdicios deberán ser resistente
 
 Igualmente deben mantener limpio, el contorno del inmueble en que se encuentran ubicados.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2016)</small>
 
 ###### ARTICULO 15.
 
-Las cenizas provenientes de basura y desperdicios que se hubieren quemado en los edificios comerciales o industriales, previamente autorizados para el efecto, serán recolectadas por los camiones de la Dirección General Operativa a través de las Direcciones Delegación Poniente y Delegación Oriente del Municipio, previo pago de los derechos Municipales por la prestación de este servicio.
+Las cenizas provenientes de basura y desperdicios que se hubieren quemado en los edificios comerciales o industriales, previamente autorizados para el efecto, serán recolectadas por los camiones de la Dirección de Mantenimiento Urbano, previo pago de los derechos Municipales por la prestación de este servicio.
 
-En caso, de siniestro, el producto o restos que se genere en edificios comerciales e industriales podrán ser recolectados por la Dirección General Operativa a través de las Direcciones Delegación Poniente y Delegación Oriente, previo pago de los derechos municipales, de acuerdo al artículo 68 de la Ley de Hacienda para los Municipios, por la prestación de este servicio.
+En caso, de siniestro, el producto o restos que se genere en edificios comerciales e industriales podrán ser recolectados por la Dirección de Mantenimiento Urbano, previo pago de los derechos municipales, de acuerdo al artículo 68 de la Ley de Hacienda para los Municipios, por la prestación de este servicio.
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
@@ -339,11 +345,11 @@ Los propietarios, directores responsables de obra y encargados de construcción 
 
 Los propietarios o encargados de madererías y carpinterías, tendrán la obligación de vigilar que los aserrines, virutas y madera que se produzcan de los cortes o cepillados, no se acumulen en los lugares en donde pueda haber riesgo de que se incendien. A su vez están obligados conforme a lo dispuesto en el Artículo 14 de este Reglamento en cuanto a la disposición final, a los depósitos de basura y desperdicios se refiere.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2016)</small>
 
 ###### ARTICULO 25.
 
-Las calles o avenidas donde se encuentren estaciones, centrales, terminales de camiones o de cualquier otro medio de transporte, así como sus salas de espera y andenes, deberán mantenerse limpias. La basura y desperdicios provenientes del público usuario, así como de los edificios, equipos y talleres de esas estaciones y terminales, deberán ser transportados por el propietario, encargado o concesionario a los tiraderos autorizados; o bien depositarlos en recipientes adecuados para su recolección por Dirección General Operativa a través de las Direcciones Delegación Poniente y Delegación Oriente o servicios concesionados, previo pago de los derechos municipales correspondientes.
+Las calles o avenidas donde se encuentren estaciones, centrales, terminales de camiones o de cualquier otro medio de transporte, así como sus salas de espera y andenes, deberán mantenerse limpias. La basura y desperdicios provenientes del público usuario, así como de los edificios, equipos y talleres de esas estaciones y terminales, deberán ser transportados por el propietario, encargado o concesionario a los tiraderos autorizados; o bien depositarlos en recipientes adecuados para su recolección por Dirección de Mantenimiento Urbano o servicios concesionados, previo pago de los derechos municipales correspondientes.
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
@@ -367,65 +373,85 @@ En los mercados públicos, mercados particulares, mercados sobre ruedas, predios
 
 Por la prestación del Servicio Publico de Limpia que otorga el Municipio, a las personas físicas o morales que realicen actividades comerciales, industriales o de servicio, se pagara por concepto de derechos, lo que señale la Ley de Hacienda para los Municipios del Estado de Nuevo León.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2016)</small>
 
 ###### ARTICULO 30.
 
-Las personas físicas o morales cuyo objeto sea la prestación de los servicios de recolección y traslado de basura orgánica e inorgánica y desperdicios dentro del territorio municipal de San Nicolás de los Garza, así como los vehículos destinados para la prestación de dichos servicios, deberán contar con la autorización de la Secretaría de Servicios Públicos, refrendándolo anualmente y presentando los permisos vigentes gubernamentales que le aplique y el diseño de los contenedores deberán ser aprobados por la Dirección General Operativa y cumplimiento del artículo 14.
+Las personas físicas o morales cuyo objeto sea la prestación de los servicios de recolección y traslado de basura orgánica e inorgánica y desperdicios dentro del territorio municipal de San Nicolás de los Garza, así como los vehículos destinados para la prestación de dichos servicios, deberán contar con la autorización de la Secretaría de Servicios Públicos, refrendándolo anualmente cubriendo la cuota establecida y presentando los permisos vigentes gubernamentales que le aplique y el diseño de los contenedores deberán ser aprobados por la Dirección de Mantenimiento Urbano y cumplimiento del artículo 14.
 
-En todos aquellos casos en que las empresas particulares dedicadas al transporte de basura y desperdicios, no realizaran su labor, y con ello estén obligando a la Dirección General Operativa a través de las Direcciones Delegación Poniente y Delegación Oriente a efectuarlo, los interesados deberán pagar previamente el costo del servicio, por cada camión que se ocupe en esas actividades. Dicho costo se pagará en la Dirección de Ingresos junto con la sanción correspondiente.
+En todos aquellos casos en que las empresas particulares dedicadas al transporte de basura y desperdicios, no realizaran su labor, y con ello estén obligando a la Dirección de Mantenimiento Urbano a efectuarlo, los interesados deberán pagar previamente el costo del servicio, por cada camión que se ocupe en esas actividades. Dicho costo se pagará en la Dirección de Ingresos junto con la sanción correspondiente.
 
-### CAPITULO IV. DE LAS OBLIGACIONES DE LOS CONDUCTORES DE VEHICULOS AUTOMOTOR O DE TRACCIÓN ANIMAL
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE FEBRERO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+### CAPITULO IV. DE LAS OBLIGACIONES DE LOS CONDUCTORES DE VEHICULOS AUTOMOTOR
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2016)</small>
 
 ###### ARTICULO 31.
 
-Toda persona que realice actividad comercial o de recolección de residuos orgánicos e inorgánicos dentro del Municipio total o parcialmente, que involucre el uso de vehículo de tracción animal deberá cumplir con los siguientes requisitos:
+Toda persona que realice actividad comercial o de recolección de residuos orgánicos e inorgánicos dentro del Municipio total o parcialmente, que involucre el uso de vehículo automotor deberá cumplir con los siguientes requisitos:
 
-a) Cubrir la carga con lona y protectores a fin de que no se esparza en la vía pública; el volumen de la carga no debe de exceder de 1.50 m. de alto, 2.40 m. de largo y 1.30 m. de ancho, sin artículos o piezas colgantes.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2016)</small>
 
-Queda prohibido la recolección de desechos peligrosos infecciosos, como de talleres mecánicos, clínicas, hospitales, etc.
+a) Cubrir la carga con lona o tapa metálica a fin de que no esparza el material transportado en la vía pública.
 
-El carretón debe estar en condiciones mecánicas aceptables para que no represente un obstáculo en la estirada, las chumaceras o baleros de las ruedas con la suficiente grasa para su deslizamiento, simétricamente colocadas las ruedas en los ejes que deben ser paralelos y en la posición correcta, los largueros o bastidores de madera y de una sola pieza colocados y atornillados adecuadamente, el uncimiento de los arreos colocados adecuadamente para evitar que el animal se lesione.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2016)</small>
 
-b) Deberá dotar de un recolector adecuado y efectivo al animal usado en la tracción del vehículo, no dejar desechos en la vía pública y depositarlo en depósitos adecuados;
+Queda prohibida la recolección de desechos peligrosos infecciosos, como de talleres mecánicos, clínicas y hospitales, sin el permiso correspondiente.
 
-c) Formar parte del padrón de carretonero en el Municipio de San Nicolás de los Garza, Nuevo León que llevará la Secretaría de Servicios Públicos, mediante el trámite o renovación respectiva ante la Dirección General Operativa y Coordinación de Organismos Municipales, requisitos:
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 10 DE FEBRERO DE 2016)</small>
 
-I. Ser Ciudadano del Municipio de San Nicolás de los Garza, Nuevo León.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2016)</small>
 
-II. Credencial de elector y copia.
+b) Deberá utilizar un recolector adecuado y efectivo para evitar escurrimientos y no dejar desechos en la vía pública;
 
-III. Comprobante de domicilio y copia.
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2016)</small>
 
-IV. Carta de no antecedentes penales.
+c) Formar parte del padrón en el Municipio de San Nicolás de los Garza, Nuevo León que llevará la Secretaría de Servicios Públicos, mediante el trámite o renovación respectiva ante la Dirección de Mantenimiento Urbano;
 
-V. Carta del Delegado Municipal con firma de los vecinos colindantes, donde indique que no hay inconveniente para que utilice este tipo de vehículo con tracción animal.
+I. (DEROGADA, P.O. 10 DE FEBRERO DE 2016)
 
-Deberá el usuario del carretón colaborar en las revisiones visuales del estado físico del animal utilizado para la tracción del vehículo, en el momento que sean realizadas por personal de la Coordinación de Organismos Municipales por las supervisiones diarias, para detectar heridas o laceraciones que les produzcan sufrimiento y no podrán ser utilizados para la tracción del carretón.
+II. (DEROGADA, P.O. 10 DE FEBRERO DE 2016)
 
-Deberá renovar el gafete de identificación en la fecha que indique la Coordinación de Organismos Municipales, presentando los comprobantes de los depósitos diarios de los desechos en un relleno sanitario o planta de transferencia autorizada.
+III. (DEROGADA, P.O. 10 DE FEBRERO DE 2016)
 
-Previa aprobación del cumplimiento de la Ley de Protección de Animales del Estado de Nuevo León y visto bueno de representantes de fundaciones, organizaciones o asociaciones dedicadas para la protección de animales y/o Universidades.
+IV. (DEROGADA, P.O. 10 DE FEBRERO DE 2016)
 
-El propietario, encargado o usuario del animal utilizado para la tracción del carretón deberá:
+V. (DEROGADA, P.O. 10 DE FEBRERO DE 2016)
 
-1. Procurarle alimentación y cuidados apropiados.
+> <small>(DEROGADO SEGUNDO PÁRRAFO, P.O. 10 DE FEBRERO DE 2016)</small>
 
-2. Tratamientos veterinarios preventivos y correctivos y atender las enfermedades propias de la especie.
+> <small>(DEROGADO TERCER PÁRRAFO, P.O. 10 DE FEBRERO DE 2016)</small>
 
-3. Proporcionarle una morada o casa adecuada así como higiene en cuerpo y área de estancia, quedando prohibido arrojar las descargas y las aguas residuales de limpieza a la vía pública o lotes baldío (sic), así como abandono deliberado del animal en la vía pública, lotes baldíos o en lugares de alto riesgo y peligro para su supervivencia o utilizarlo para carga de materiales para la construcción o escombro.
+> <small>(DEROGADO CUARTO PÁRRAFO, P.O. 10 DE FEBRERO DE 2016)</small>
 
-4. No podrán ser cargados con un peso excesivo o desproporcionado.
+> <small>(DEROGADO QUINTO PÁRRAFO, P.O. 10 DE FEBRERO DE 2016)</small>
 
-Deberán cumplir con los deberes y obligaciones en el Reglamento de Policía y Buen Gobierno y en el Reglamento de Tránsito y Vialidad, Ley Estatal de Protección a Animales y demás que les apliquen, como reglas de operación, pagando la cuota establecida, utilizarán el carretón solamente para el giro y área autorizada, portar en los laterales del carretón las placas con el número asignado e identificándose con el gafete vigente o causará baja.
+1. (DEROGADO, P.O. 10 DE FEBRERO DE 2016)
 
-Cualquier incumplimiento a éste o cualquier reglamento o ley que les aplique causará baja definitiva del padrón de carretones de este Municipio y se retirara el carretón de la circulación.
+2. (DEROGADO, P.O. 10 DE FEBRERO DE 2016)
 
-d) El vehículo únicamente será conducido por una persona que debe de ser la empadronada, y será responsable de todo acto u omisión ilícita, conforme a este Reglamento o leyes aplicables. Quedando estrictamente prohibido que un menor de edad conduzca este tipo de vehículos, tampoco podrá ser llevado como acompañante por la seguridad del menor.
+3. (DEROGADO, P.O. 10 DE FEBRERO DE 2016)
 
-Aquellos que realicen labores de recolección de basura, escombro, ramas, cacharros, etc. no deberán almacenarla en la vía pública, enfrente de sus domicilios o introducirla a casas habitación, dejarla en predios baldíos, arroyos, etc. sino que el mismo día deberán transportarla a los lugares autorizados, en los horarios establecidos. Queda prohibido que los residuos recolectados por los vehículos de tracción animal se depositen en los camiones recolectores de basura en ruta pertenecientes al municipio o servicios concesionados, de lo contrario se sancionará de acuerdo al artículo 42 del presente Reglamento.
+4. (DEROGADO, P.O. 10 DE FEBRERO DE 2016)
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2016)</small>
+
+Deberán cumplir con los deberes y obligaciones en el Reglamento de Policía y Buen Gobierno y en el Reglamento de Tránsito y Vialidad y portar la identificación que el Municipio les asigne.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2016)</small>
+
+Cualquier incumplimiento a éste o cualquier reglamento o ley que les aplique causará baja definitiva del padrón de este Municipio y se retirará de la circulación.
+
+d) (DEROGADO, P.O. 10 DE FEBRERO DE 2016)
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2016)</small>
+
+Aquellos que realicen labores de recolección de basura, escombro, ramas, cacharros, etc. no deberán almacenarla en la vía pública, enfrente de sus domicilios o introducirla a casas habitación, dejarla en predios baldíos, arroyos, etc. sino que el mismo día deberán transportarla a los lugares autorizados, en los horarios establecidos. Queda prohibido que los residuos recolectados se depositen en los camiones recolectores de basura en ruta pertenecientes al municipio o servicios concesionados, de lo contrario se sancionará de acuerdo al artículo 42 del presente Reglamento.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2016)</small>
+
+ARTICULO 31 BIS.- Dentro del territorio del Municipio, queda estrictamente prohibida toda actividad comercial o de recolección de residuos orgánicos e inorgánicos, que involucre el uso de vehículos de tracción animal, triciclos o similares.
 
 ###### ARTICULO 32.
 
@@ -433,31 +459,43 @@ Todo el que transite por este Municipio en un vehículo automotor, tiene la obli
 
 ### CAPITULO V. DE LAS OBLIGACIONES DE LOS PROPIETARIOS U OCUPANTES DE CASAS HABITACIÓN O DE INMUEBLES
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2016)</small>
+
 ###### ARTICULO 33.
 
-Solo los animales muertos en la vía pública, serán recogidos por los vehículos del Servicio de Limpia Municipal y transportados al lugar donde se deban incinerar. Los animales que mueran en el interior de casas, edificios, establos o similares, serán transportados por sus dueños a los lugares oficiales. Podrán ser recogidos y transportados en camiones de Limpia Municipal, si los interesados pagan la cuota que por este servicio aplique la Autoridad Municipal, en la Ley de Hacienda para los Municipios del Estado de Nuevo León.
+Solo los animales muertos en la vía pública, serán recogidos por los vehículos del Servicio de Limpia Municipal y transportados al lugar autorizado. Los animales que mueran en el interior de casas, edificios, establos o similares, serán transportados por sus dueños a los lugares oficiales. Podrán ser recogidos y transportados en camiones de Limpia Municipal, si los interesados pagan la cuota que por este servicio aplique la Autoridad Municipal, en la Ley de Hacienda para los Municipios del Estado de Nuevo León.
 
 Así mismo se aplicará el pago de derechos municipales para la recolección de cacharros y artículos en desuso que obstruyan o invadan el área municipal (banquetas, calles, camellones y plazas). A solicitud del interesado.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2016)</small>
 
 ###### ARTICULO 34.
 
-En caso, de siniestro, el producto o restos que se genere en las casas Habitación, podrán ser recolectados por la Dirección General Operativa a través de las Direcciones Delegación Poniente y Delegación Oriente, previo pago de los derechos municipales, de acuerdo al artículo 68 de la Ley de Hacienda para los Municipios, por la prestación de este servicio.
+En caso, de siniestro, el producto o restos que se genere en las casas Habitación, podrán ser recolectados por la Dirección de Mantenimiento Urbano, previo pago de los derechos municipales, de acuerdo al artículo 68 de la Ley de Hacienda para los Municipios, por la prestación de este servicio.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2016)</small>
 
 ###### ARTICULO 35.
 
-La recolección de basura domiciliara, se hará en el horario y con la frecuencia que determine la Dirección General Operativa a través de las Direcciones Delegación Poniente y Delegación Oriente.
+La recolección de basura domiciliara (sic), se hará en el horario y con la frecuencia que determine la Dirección de Mantenimiento Urbano.
 
-Tanto los ocupantes de casas habitación como los encargados de los negocios, sacaran los recipientes o bolsas de plástico de la basura debidamente cerradas y en buenas condiciones para que no se derrame en la vía pública, deberá ser separada en orgánica e inorgánica, puesta en la banqueta al frente de sus domicilio (sic) en recipientes cuyo peso no exceda de 20 kg., los vidrios u objetos peligrosos, serán empacados por separado y visibles para su recolección hasta el paso del camión, que será anunciado con anticipación y no sacaran los depósitos o bolsas más de dos hora (sic) antes del paso del mismo, una vez recolectada deberán ser recogidos los recipientes y resguardarlos.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2016)</small>
+
+Tanto los ocupantes de casas habitación como los encargados de los negocios, sacaran los recipientes o bolsas de plástico de la basura debidamente cerradas y en buenas condiciones para que no se derrame en la vía pública, deberá ser colocada en la banqueta al frente de sus (sic) domicilio en recipientes cuyo peso no exceda de 20 kg., los vidrios u objetos peligrosos, serán empacados por separado y visibles para su recolección hasta el paso del camión, que será anunciado con anticipación y no sacaran los depósitos o bolsas más de dos hora (sic) antes del paso del mismo, una vez recolectada deberán ser recogidos los recipientes y resguardarlos.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 Para la recolección de ramas deberán ser producto del 30% de la biomasa del árbol y colocarlas en la banqueta al frente del domicilio en el caso de tala deberá cumplir con los permisos correspondientes de Ecología y Medio Ambiente.
 
-Para la recolección de escombro deberá estar colocado en la banqueta al frente de su domicilio máximo 1 metro cúbico en mínimas reparaciones en casa habitación.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2016)</small>
+
+Para la recolección de escombro deberá estar colocado en la banqueta al frente de su domicilio con acceso a su recolección.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 Consiente en el incremento de uso de material reciclable, todos los ciudadanos deberán colaborar en las campañas o programas promovidos por el Municipio para su clasificación y disposición adecuada.
+
+> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
 Los propietarios de casa habitación, encargados, poseedores originarios o derivados así como dueños arrendatarios o representantes de establecimientos comerciales, Industriales profesionales o de cualquier otra índole, tienen la obligación de mantener limpias las fachadas y perímetro de la casa y aseadas las banquetas.
 
@@ -569,9 +607,9 @@ XXI.- Esparcir residuos al momento del transporte, cargar o descargar y como al 
 
 XXII.- Utilizar u obstruir la vía pública con cualquier especie de muebles, escombros o materiales, con propósito de reparaciones o cualquier otro objetivo o no permitir el libre tránsito, tanto peatonal como vehicular en áreas o vías públicas sin la prevención y el permiso correspondiente de la autoridad municipal.
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2016)</small>
 
-XXIII.- No transportar o no depositar en el lugar autorizado por la Dirección General Operativa las ramas y troncos provenientes de huertos y jardines al hacer limpieza.
+XXIII.- No transportar o no depositar en el lugar autorizado por la Dirección de Mantenimiento Urbano las ramas y troncos provenientes de huertos y jardines al hacer limpieza.
 
 XXIV.- No respetar los horarios estipulados en los negocios con vitrinas, mencionados en el articulo 20 de este Reglamento.
 
@@ -585,23 +623,25 @@ XXVII.- Conservar estiércol o desechos en lugar inadecuado o tirarlo en un luga
 
 XXVIII.- No recolectar ni transportar desechos o basura por parte de las empresas particulares dedicadas a ello y con esto ocasione que el Municipio lo recolecte.
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2016)</small>
 
-XXIX.- No dotar de un recolector de desperdicios adecuado y efectivo al animal, tirar los desechos en la vía pública o lugares inadecuados o no limpiar lo defecado por los animales utilizados para el transporte de tracción mencionados en el artículo 31 de este Reglamento.
+XXIX.- No utilizar un recolector de desperdicios adecuado y efectivo para evitar escurrimientos o tirar los desechos en la vía pública o en cualquier lugar inadecuado.
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2016)</small>
 
-XXX.- No cubrir la carga con lona y protectores a fin de que no se esparza en la vía pública, en caso de recolección de basura con transporte de tracción animal, que el volumen de la carga exceda de un 1.50 metros de alto, 2.40 metros de largo y 1.30 metros de ancho, traer artículos o piezas colgantes, o que el carretón no cumpla con las condiciones mecánicas mencionadas en el artículo 31 inciso a) de este Reglamento.
+XXX.- No cubrir la carga con lona o tapa metálica a fin de no esparcir residuos en la vía pública o traer artículos o piezas colgantes del material transportado.
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2016)</small>
 
-XXXI.- Tirar la carga de basura, escombro, ramas, cacharros etc., en lugares inadecuados o pasarla al camión recolector municipal en ruta, conservarla o almacenarla en la vía pública, enfrente de sus domicilios, introducirla en casa habitación o lugares no autorizados y en caso de recolección de basura con transporte de tracción animal y vehículos de automotor, no respetar las reglas de operación, de acuerdo a lo estipulado en el artículo 31 de este Reglamento.
+XXXI.- Tirar la carga de basura, escombro, ramas, cacharros etc., en lugares inadecuados o pasarla al camión recolector municipal en ruta, conservarla o almacenarla en la vía pública, enfrente de sus domicilios, introducirla en casa habitación o lugares no autorizados y en caso de recolección de basura con vehículos de automotor, no respetar las reglas de operación, de acuerdo a lo estipulado en el artículo 31 de este Reglamento.
 
-> <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2016)</small>
 
-XXXII.- No inscribirse en el padrón de carretones, que el vehículo sea conducido por alguna persona que no sea la empadronada, con acompañantes, con menores de edad, no portar, prestar o transferir placa o gafete, utilizar el carretón para otro giro no autorizado, recolección de residuos peligrosos infecciosos o no respetar lo estipulado en el artículo 31 de este Reglamento.
+XXXII.- No inscribirse en el padrón de vehículos autorizados para la recolección de desechos dentro del Municipio, no portar, prestar o transferir la identificación proporcionada por el Municipio, recolectar residuos peligrosos infecciosos o no respetar lo estipulado en el artículo 31 de este Reglamento.
 
-XXXIII.- Tirar basura o desperdicios desde un vehículo automotor de acuerdo al artículo 32 de este ordenamiento.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2016)</small>
+
+XXXIII.- Tirar desperdicios, residuos o basura desde un vehículo automotor en la vía pública.
 
 > <small>(REFORMADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
@@ -627,9 +667,7 @@ XXXVIII.- No contar las personas físicas o morales, con la autorización vigent
 
 XXXIX.- No mantener la limpieza de banquetas y calles los responsables de acuerdo al artículo 21 de este reglamento o utilizar la vía pública para repara (sic) los vehículos.
 
-> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
-
-XL.- Abandono deliberado del animal en la vía pública, lotes baldíos o en lugares de alto riesgo y peligro para su supervivencia o utilizarlo para carga de materiales para la construcción o escombro, artículo 31 inciso d).
+XL.- (DEROGADA, P.O. 10 DE FEBRERO DE 2016)
 
 > <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
@@ -639,9 +677,9 @@ XLI.- Arrojar en la vía pública o en los depósitos metálicos de otros los de
 
 XLII.- No depositar en recipientes adecuados las estopas y otras materiales de desperdicio que empleen para el desempeño de su labor los propietarios o encargados de estaciones de servicio para venta de gasolina, lavado, engrasado, lubricación de automóviles, vulcanizadoras y refaccionarias, de acuerdo al artículo 22.
 
-> <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2016)</small>
 
-XLIII.- No colaborar el usuario del carretón en las revisiones visuales del estado físico del animal utilizado para la tracción del vehículo, en el momento que sean realizadas por personal de la Coordinación de Organismos Municipales por las supervisiones diarias, para detectar heridas o laceraciones que les produzcan sufrimiento y no podrán ser utilizados para la tracción del carretón.
+XLIII.- Realizar dentro del territorio del Municipio actividad comercial o de recolección de residuos orgánicos e inorgánicos, que involucre el uso de vehículo de tracción animal.
 
 > <small>(ADICIONADA, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
@@ -705,13 +743,13 @@ III.- Descripción de las condiciones que presenta el inmueble deshabitado y/o d
 
 IV.- Fotografías del inmueble deshabitado y/o desocupado.
 
-V.- Copia de la credencial del elector del denunciante.
+V.- Copia de la credencial del (sic) elector del denunciante.
 
 VI.- Declaratoria de Inmueble Deshabitado y/o Desocupado expedida por el Delegado Municipal que corresponda.
 
 b) La Secretaría de Servicio Públicos, si reúne los requisitos, recibirá la denuncia ciudadana y dará tramite a la misma, realizando en conjunto con personal de la Dirección de Salud Pública inspección al inmueble denunciado.
 
-c) En la inspección, si resulta alguna inobservancia de las obligaciones contenidas en el artículo 36 Bis del presente reglamento, la Secretaría de Servicios Públicos amonestará al propietario del predio colocando en el inmueble denunciado un sello con la leyenda AMONESTAClÓN. Si de la inspección no resulta alguna inobservancia al artículo 36 Bis del presente reglamento, se desechará la denuncia ciudadana motivo de la inspección.
+c) En la inspección, si resulta alguna inobservancia de las obligaciones contenidas en el artículo 36 Bis del presente reglamento, la Secretaría de Servicios Públicos amonestará al propietario del predio colocando en el inmueble denunciado un sello con la leyenda AMONESTACIÓN. Si de la inspección no resulta alguna inobservancia al artículo 36 Bis del presente reglamento, se desechará la denuncia ciudadana motivo de la inspección.
 
 La amonestación tiene por objeto que el propietario cumpla con las obligaciones que establece el artículo 36 Bis del presente reglamento respecto a los inmuebles deshabitados y/o desocupados, sino (sic) lo hiciere así, la Secretaría de Servicio (sic) Públicos apercibirá al propietario del inmueble deshabitado y/o desocupado colocando un sello con la leyenda APERCIBIMIENTO, haciéndole saber que si en un término de cinco días hábiles persisten las condiciones en el inmueble denunciado, se dará tramite ante la Secretaría de Finanzas y Tesorería para la aplicación de la o las sanciones que se haga acreedor.
 
@@ -743,11 +781,11 @@ ARTICULO 46 BIS.- Las sanciones económicas se consideran créditos fiscales y s
 
 ### CAPITULO VIII. DE LA VIGILANCIA PARA EL CUMPLIMIENTO DE LAS DISPOSICIONES DE ESTE REGLAMENTO
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2016)</small>
 
 ###### ARTICULO 47.
 
-Los órganos oficiales que se mencionan en el artículo tercero de este Reglamento, por conducto de la Secretaría de Servicios Públicos, a través de la Dirección General Operativa, Direcciones Delegación Poniente y Delegación Oriente, mantendrán la vigilancia para el cumplimiento de las disposiciones de este ordenamiento.
+Los órganos oficiales que se mencionan en el artículo tercero de este Reglamento, por conducto de la Secretaría de Servicios Públicos, a través de la Dirección de Mantenimiento Urbano, mantendrán la vigilancia para el cumplimiento de las disposiciones de este ordenamiento.
 
 ###### ARTICULO 48.
 
@@ -763,7 +801,9 @@ B).- Secretaria del R. Ayuntamiento.
 
 C).- Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente.
 
-D).- Secretaria de Administración.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2016)</small>
+
+D).- Secretaría de Finanzas y Tesorería.
 
 > <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
 
@@ -775,13 +815,13 @@ F).- Dirección de Salud Publica.
 
 G) Secretaría de Desarrollo Humano.
 
-> <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2016)</small>
 
-H).- Dirección de Participación Ciudadana.
+H).- Secretaría de Participación Ciudadana.
 
-> <small>(REFORMADO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2016)</small>
 
-I).- Los C.C. Inspectores de Desarrollo Urbano y Medio Ambiente, de Salud Pública y de Comercio y Espectáculos.
+I).- Los C.C. Inspectores adscritos a la Dirección General de Inspección.
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
@@ -789,13 +829,19 @@ J).- Los Delegados Municipales.
 
 K).- Los Ciudadanos del Municipio.
 
-L).- Dirección de Ingresos.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2016)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 12 DE DICIEMBRE DE 2012)</small>
+L).- Secretaría de Seguridad Pública.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2016)</small>
+
+N) (SIC).- Dirección de Movilidad Urbana.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2016)</small>
 
 ###### ARTICULO 49.
 
-Los inspectores de la Secretaría de Obras Públicas, Desarrollo Urbano y Medio Ambiente o de sus Direcciones, de Salud Pública, de Comercio y Espectáculos, así como el personal operativo de la Secretaría de Seguridad y Secretaría de Servicios Públicos, quedan habilitados para levantar las actas de infracción en relación con las faltas que se cometan a las disposiciones de este reglamento. Para el efecto, deberán hacer saber al infractor la falta cometida, procurando que este firme la boleta correspondiente y exprese en ella lo que considere conveniente en su defensa. Si se negare a firmar, se asentara dicha constancia en la boleta mencionada.
+Los inspectores de la Dirección General de Inspección, así como el personal operativo de la Secretaría de Seguridad y Secretaría de Servicios Públicos, quedan habilitados para levantar las actas de infracción en relación con las faltas que se cometan a las disposiciones de este reglamento. Para el efecto, deberán hacer saber al infractor la falta cometida, procurando que este firme la boleta correspondiente y exprese en ella lo que considere conveniente en su defensa. Si se negare a firmar, se asentara dicha constancia en la boleta mencionada.
 
 > <small>(REFORMADO, P.O. 14 DE SEPTIEMBRE DE 2011)</small>
 
@@ -932,3 +978,9 @@ P.O. 24 DE FEBRERO DE 2014.
 > <small>N. DE E. SE TRANSCRIBE EL PUNTO DEL ACUERDO QUE SE RELACIONA CON EL PRESENTE ORDENAMIENTO.</small>
 
 SEGUNDO.- La reforma por modificación al Reglamento del Servicio de Limpieza Municipal de San Nicolás de los Garza, Nuevo León, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado, debiéndose hacer su posterior publicación en la Gaceta Municipal.
+
+P.O. 10 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DE LA “REFORMA AL REGLAMENTO DEL SERVICIO DE LIMPIEZA MUNICIPAL DE SAN NICOLÁS DE LOS GARZA, NUEVO LEÓN”.]
+
+ÚNICO.- La presente reforma entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
