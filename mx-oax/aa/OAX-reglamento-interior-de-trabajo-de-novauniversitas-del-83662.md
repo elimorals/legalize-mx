@@ -4,7 +4,7 @@ identifier: "OAX-reglamento-interior-de-trabajo-de-novauniversitas-del-83662"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-09-24"
-last_updated: "2011-09-24"
+last_updated: "2016-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83662&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,9 @@ state: "OAX"
 
 REGLAMENTO INTERIOR DE TRABAJO DE NOVAUNIVERSITAS DEL ESTADO DE OAXACA
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO TERCERO DEL REGLAMENTO INTERNO DE LA UNIVERSIDAD NOVAUNIVERSITAS, PUBLICADO EN EL P.O. DE 10 DE FEBRERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2016 (ABROGADO).
 
 Reglamento publicado en la Segunda Sección del Periódico Oficial del Estado de Oaxaca, el sábado 24 de septiembre de 2011.
 
@@ -627,3 +629,15 @@ DRA. IRERI VICTORIA ROBLES GONZÁLEZ
 DRA. IVONNE LILIAN MARTÍNEZ CORTÉS
 
 C. GABINO BARRITA RAMÍREZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERNO DE LA UNIVERSIDAD NOVAUNIVERSITAS”.]
+
+PRIMERO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. Las disposiciones del presente reglamento prevalecerán por encima de las disposiciones normativas de igual o menor jerarquía que se opongan a ella, aun cuando no estén expresamente derogadas.
+
+TERCERO. Se abroga el reglamento interno publicado el 24 de Septiembre del 2011 en el Periódico Oficial del Gobierno del Estado, Tomo XCIII, No 39.
