@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-organico-de-la-administracion-publica-del-71252"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-30"
-last_updated: "2015-10-30"
+last_updated: "2016-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=71252&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO ORGÁNICO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 30 de noviembre de 2009.
 
@@ -683,7 +683,9 @@ XLIX. Coordinar y vigilar el cumplimiento de las funciones de las Unidades Admin
 
 L. Las demás que señalen como de su competencia las leyes, reglamentos y otras disposiciones jurídicas vigentes, así como aquello que específicamente le encomiende el C. Presidente Municipal.
 
-Para el despacho de los asuntos de su competencia el Secretario de Control y Sustentabilidad Urbana, se auxiliará de las siguientes Direcciones: de Control y Sustentabilidad Urbana; Tenencia de la Tierra; Ingeniería Vial; así como de las Coordinaciones, Jefaturas y personal que sea necesario.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2016)</small>
+
+Para el despacho de los asuntos de su competencia el Secretario de Control y Sustentabilidad Urbana, se auxiliara de las siguientes Direcciones: de Control y Sustentabilidad Urbana; Tenencia de la Tierra; Ingeniería Vial; Ecología; así como de las Coordinaciones, Jefaturas y personal que sea necesario.
 
 > <small>(ADICIONADO CON EL ARTÍCULO QUE LO INTEGRA, P.O. 30 DE OCTUBRE DE 2015)</small>
 
@@ -1980,3 +1982,7 @@ SEGUNDO: Las reformas del Reglamento Orgánico de la Administración Pública de
 TERCERO: Se abrogan todas las disposiciones, reglamentarias, circulares, acuerdos y normas que contravengan al contenido de las presentes reformas por modificación y adición al Reglamento Orgánico de la Administración Pública del Municipio de Guadalupe, Nuevo León.
 
 CUARTO: Se instruye a la titular de la Secretaría del Ayuntamiento para que remita el presente acuerdo, para su publicación en el Periódico Oficial del Estado, en la Gaceta Municipal y en el sitio Oficial de internet del Municipio.
+
+P.O. 10 DE FEBRERO DE 2016.
+
+> <small>[N. DE E. EL “REGLAMENTO ORGÁNICO DE LA ADMINISTRACIÓN PÚBLICA DEL MUNICIPIO DE GUADALUPE, NUEVO LEÓN”, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DE LOS TEXTOS MODIFICADOS; EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3 DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LÉON.]</small>
