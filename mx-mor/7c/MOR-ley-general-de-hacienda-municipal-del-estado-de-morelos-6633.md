@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-municipal-del-estado-de-morelos-6633"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-01-04"
-last_updated: "2016-02-03"
+last_updated: "2016-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,9 @@ state: "MOR"
 ---
 # LEY GENERAL DE HACIENDA MUNICIPAL DEL ESTADO DE MORELOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 24 DE FEBRERO DE 2016 EN EL PERIÓDICO OFICIAL DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY GENERAL DE HACIENDA MUNICIPAL DEL ESTADO DE MORELOS 1984
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2016.
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -687,7 +685,23 @@ VIII.- La que se derive de toda resolución judicial o administrativa de adjudic
 
 IX.- La cesión de derechos del heredero, legatario o copropietario, así como la renuncia de la herencia o legado efectuada después de la declaratoria de herederos o legatarios;
 
-X.- Toda afectación en Fideicomiso
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2016)</small>
+
+X.- Las que se realizan a través del Fideicomiso, en los siguientes casos:
+
+a).- En el acto en el que el fideicomitente designa o se obliga a designar fideicomisario diverso de él y siempre que no tenga derecho a readquirir del fiduciario los bienes.
+
+b).- En el acto en el que el fideicomitente pierde el derecho a readquirir los bienes del fiduciario, si se hubiera reservado tal derecho.
+
+Cuando el fideicomitente reciba certificados de participación por los bienes que afecte en fideicomiso, se considerarán enajenados esos bienes al momento en que el fideicomitente reciba los certificados, salvo que se trate de acciones.
+
+La cesión de los derechos que se tengan sobre los bienes afectos al fideicomiso, en cualquiera de los siguientes momentos:
+
+a).- En el acto en que el fideicomisario designado ceda sus derechos o dé instrucciones al fiduciario para que transmita la propiedad de los bienes a un tercero. En estos casos se considerará que el fideicomisario adquiere los bienes en el acto de su designación y que los enajena en el momento de ceder sus derechos o de dar dichas instrucciones.
+
+b).- En el acto en que el fideicomitente ceda sus derechos aún si entre éstos se incluye el de que los bienes se transmitan a su favor.
+
+Cuando se emitan certificados de participación por los bienes afectos al fideicomiso y se coloquen entre el gran público inversionista, no se considerarán enajenados dichos bienes al enajenarse esos certificados, salvo que estos les den a sus tenedores derechos de aprovechamiento directo de esos bienes, o se trate de acciones. La enajenación de los certificados de participación se considerará como una enajenación de títulos de crédito que no representan la propiedad de bienes y tendrán las consecuencias fiscales que establecen las Leyes fiscales para la enajenación de tales títulos.
 
 XI.-Toda adquisición por arrendamiento financiero;
 
@@ -915,7 +929,7 @@ Es base del impuesto los pagos por concepto de impuestos y derechos previstos en
 
 La tasa general del impuesto será del 25% sobre la base que señala el Artículo 121 y su aplicación se hará según lo dispone el Artículo 123 de esta Ley.
 
-> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
+> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2016)</small>
 
@@ -3616,6 +3630,16 @@ P.O. 3 DE FEBRERO DE 2016.
 ## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO CIENTO TRECE POR EL QUE SE REFORMA LA FRACCIÓN III Y SE ADICIONA LA FRACCIÓN IV DEL ARTICULO 123 DE LA LEY GENERAL DE HACIENDA MUNICIPAL DEL ESTADO DE MORELOS".]
 
 PRIMERO.- REMÍTASE EL PRESENTE DECRETO AL TITULAR DEL PODER EJECUTIVO DEL ESTADO PARA LOS EFECTOS QUE INDICA EL ARTÍCULO 44 Y 70, FRACCIÓN XVII DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
+
+SEGUNDO.- EL PRESENTE DECRETO ENTRARA EN VIGOR A PARTIR DEL PRIMERO DE ENERO DEL DOS MIL DIECISÉIS, EN EL PERIÓDICO OFICIAL "TIERRA Y LIBERTAD", ÓRGANO DE DIFUSIÓN OFICIAL DEL GOBIERNO DEL ESTADO DE MORELOS.
+
+TERCERO.- SE DEROGAN TODAS LAS DISPOSICIONES DE IGUAL O MENOR RANGO JERÁRQUICO QUE SE OPONGAN AL PRESENTE DECRETO.
+
+P.O. 10 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO CIENTO VEINTIOCHO POR EL QUE SE REFORMA LA FRACCIÓN X DEL ARTICULO 94 TER-1 DE LA LEY GENERAL DE HACIENDA MUNICIPAL DEL ESTADO DE MORELOS”.]
+
+PRIMERO.- REMÍTASE EL PRESENTE DECRETO AL TITULAR DEL PODER EJECUTIVO DEL ESTADO, PARA LOS EFECTOS QUE INDICA EL ARTÍCULO 44 Y 70, FRACCIÓN XVII DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS.
 
 SEGUNDO.- EL PRESENTE DECRETO ENTRARA EN VIGOR A PARTIR DEL PRIMERO DE ENERO DEL DOS MIL DIECISÉIS, EN EL PERIÓDICO OFICIAL "TIERRA Y LIBERTAD", ÓRGANO DE DIFUSIÓN OFICIAL DEL GOBIERNO DEL ESTADO DE MORELOS.
 
