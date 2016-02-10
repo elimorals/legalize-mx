@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-del-tribunal-federal-de-justicia-fiscal-708
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-11-13"
-last_updated: "2016-01-13"
+last_updated: "2016-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=70849&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,9 +21,7 @@ issue_date: "2009-11-11"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 28 DE OCTUBRE DE 2015.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 13 DE ENERO DE 2016.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 10 DE FEBRERO DE 2016.
 
 Reglamento publicado en la Primera Sección del Diario Oficial de la Federación, el viernes 13 de noviembre de 2009.
 
@@ -765,7 +763,9 @@ n) Comisión Reguladora de Energía (CRE)
 
 ñ) Servicio Nacional de Sanidad, Inocuidad y Calidad Agroalimentaria (SENASICA)
 
-2) Tramitar y resolver los juicios que se promuevan contra resoluciones definitivas, actos administrativos y procedimientos, que encuadren en los supuestos previstos por las fracciones III, XI, XII y XIV, penúltimo y último párrafo, del artículo 14 de la Ley, dictadas con fundamento en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, en la Ley General de Desarrollo Forestal Sustentable, Ley General de Vida Silvestre, Ley General para la Prevención y Gestión Integral de Residuos, Ley de Bioseguridad de Organismos Genéticamente Modificados, Ley General de Cambio Climático, así como en los demás ordenamientos que regulan la materia de Protección al Medio Ambiente, o que tengan alguna injerencia en la citada materia, que no sea del conocimiento de la Sala Especializada en Propiedad Intelectual.
+> <small>(REFORMADO, D.O.F. 10 DE FEBRERO DE 2016)</small>
+
+2) Tramitar y resolver los juicios que se promuevan contra resoluciones definitivas, actos administrativos y procedimientos, que encuadren en los supuestos previstos por las fracciones III, XI, XII y XIV, penúltimo y último párrafo, del artículo 14 de la Ley, dictadas con fundamento en la Ley General del Equilibrio Ecológico y la Protección al Ambiente, en la Ley General de Desarrollo Forestal Sustentable, Ley General de Vida Silvestre, Ley General para la Prevención y Gestión Integral de Residuos, Ley de Bioseguridad de Organismos Genéticamente Modificados, Ley General de Cambio Climático, así como en los demás ordenamientos que regulan la materia de Protección al Medio Ambiente, o que tengan alguna injerencia en la citada materia, que no sea del conocimiento de la Sala Especializada en Propiedad Intelectual; con la excepción de resoluciones definitivas, actos administrativos y procedimientos, a que se refiere este inciso, emitidos por la Comisión Nacional del Agua o sus unidades administrativas, supuestos en los cuales será competente la Sala Regional del Tribunal que corresponda.
 
 3) (DEROGADO, D.O.F. 20 DE ENERO DE 2015)
 
@@ -3218,3 +3218,13 @@ SÉPTIMO.- Se instruye a la Secretaría Operativa de Administración y a la Secr
 OCTAVO.- Para todo lo no previsto en el presente Acuerdo se estará a lo que resuelva el órgano competente del Tribunal Federal de Justicia Fiscal y Administrativa.
 
 NOVENO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
+
+D.O.F. 10 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO SS/1/2016 POR EL QUE SE REFORMA EL INCISO 2) DE LA FRACCIÓN III, DEL ARTÍCULO 23 DEL REGLAMENTO INTERIOR DEL TRIBUNAL FEDERAL DE JUSTICIA FISCAL Y ADMINISTRATIVA”.]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Los juicios que se encuentren en trámite en la Sala Especializada en Materia Ambiental y de Regulación, a la entrada en vigor del presente Acuerdo, en los que se controviertan resoluciones emitidas por la Comisión Nacional del Agua o alguna de sus unidades administrativas, permanecerán en dicha Sala hasta su total conclusión.
+
+TERCERO.- Publíquese el presente Acuerdo en el Diario Oficial de la Federación.
