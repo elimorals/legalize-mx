@@ -4,7 +4,7 @@ identifier: "TLA-ley-organica-del-poder-judicial-del-estado-de-tlaxcala-23384"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2002-01-10"
-last_updated: "2015-12-30"
+last_updated: "2016-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=23384&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,9 +25,7 @@ LEY ORGÁNICA DEL PODER JUDICIAL DEL ESTADO DE TLAXCALA
 
 > <small>N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 58, PUBLICADO EN EL P.O. DE 28 DE NOVIEMBRE DE 2014, CUANDO LAS LEYES, REGLAMENTOS O CUALQUIER ORDENAMIENTO DE OBSERVANCIA GENERAL VIGENTE EN EL ESTADO DE TLAXCALA SE REFIERAN AL CÓDIGO DE PROCEDIMIENTOS PENALES DEL ESTADO DE TLAXCALA, SE ENTENDERÁ QUE SE REFIEREN AL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 5 DE MARZO DE 2014, CONFORME A LAS REGLAS DE VIGENCIA ESTABLECIDAS EN EL ARTÍCULO TRANSITORIO ANTERIOR Y A LA DECLARATORIA EXPEDIDA POR EL CONGRESO DEL ESTADO CON FECHA 22 DE OCTUBRE DE 2014 Y PUBLICADA EN EL P.O. DEL GOBIERNO DEL ESTADO DE FECHA 23 DE OCTUBRE DE 2014.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2015.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 30 DE DICIEMBRE DE 2015.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2016.
 
 Ley publicada en el Número Extraordinario del Periódico Oficial del Estado de Tlaxcala, el jueves 10 de enero de 2002.
 
@@ -3687,9 +3685,11 @@ Los Juzgados de Juicio Oral Penal, así como los Juzgados de Control funcionará
 
 En el Presupuesto de Egresos para el año que corresponda a la entrada en vigor de este Decreto así como al de los ejercicios fiscales subsecuentes, deberán considerarse las previsiones presupuestales para garantizar la aplicación de lo dispuesto por el mismo.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2016)</small>
+
 ###### ARTÍCULO OCTAVO.
 
-Los dos Magistrados Supernumerarios que actualmente se encuentran en funciones, concluirán las mismas a la entrada en vigor del presente Decreto, por lo que el Poder Judicial deberá prever una partida presupuestal especial a efecto de finiquitar su relación laboral conforme a derecho.
+Los dos Magistrados Supernumerarios que actualmente se encuentran en funciones, concluirán las mismas a la entrada en vigor del presente Decreto; el Licenciado Rafael Juárez Castañeda tendrá derecho a un haber de retiro por el término improrrogable de tres años, que deberá ser acorde a la remuneración que percibía, congruente con el salario y demás prestaciones que recibía, con motivo de las funciones que ejercía en términos del artículo 15 de la Ley Orgánica del Poder Judicial del Estado de Tlaxcala, en su texto vigente hasta antes de la reforma publicada en el Periódico Oficial del Estado de Tlaxcala el veintiuno de agosto de dos mil trece, conforme al cual, suplía a los Magistrados Propietarios en sus ausencias temporales y en los casos de excusa o recusación; por lo que, el primer, año le será pagado el equivalente el setenta por ciento de la remuneración que percibía; el segundo año le será pagado el sesenta por ciento de la remuneración que percibía; el tercer año le será pagado el cincuenta por ciento de la remuneración que percibía; para ello el Tribunal Superior de Justicia en el Estado, deberá realizar las acciones pertinentes a efecto de garantizar dicho haber de retiro.
 
 P.O. 28 DE NOVIEMBRE DE 2014.
 
@@ -3752,3 +3752,15 @@ P.O. 27 DE NOVIEMBRE DE 2015.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 10 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 202.- POR EL QUE SE REFORMA EL ARTÍCULO OCTAVO TRANSITORIO DEL DECRETO NÚMERO 185, DE FECHA TRECE DE AGOSTO DE DOS MIL TRECE”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado de Tlaxcala.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas aquéllas disposiciones que se opongan al presente decreto.
