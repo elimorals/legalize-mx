@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-la-tenencia-y-proteccion-de-animales-65573"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-02"
-last_updated: "2009-01-02"
+last_updated: "2016-02-10"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=65573&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO PARA LA TENENCIA Y PROTECCION DE ANIMALES DOMESTICOS EN EL MUNICIPIO DE SAN NICOLAS DE LOS GARZA, NUEVO LEON
 
-REGLAMENTO PARA LA TENENCIA Y PROTECCION DE ANIMALES DOMESTICOS EN EL MUNICIPIO DE SAN NICOLAS DE LOS GARZA, NUEVO LEON
+REGLAMENTO PARA LA TENENCIA Y PROTECCIÓN DE ANIMALES DOMÉSTICOS EN EL MUNICIPIO DE SAN NICOLÁS DE LOS GARZA, NUEVO LEÓN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el viernes 2 de enero de 2009.
 
@@ -101,6 +101,10 @@ IX.- Actos de crueldad: Acción del ser humano que ha de ocasionar a los animale
 
 X.- Trato humanitario: Medidas para disminuir la tensión, sufrimiento, traumatismo y dolor a los animales durante su posesión, captura, traslado, exhibición, cuarentena, comercialización, aprovechamiento, entrenamiento y sacrificio.
 
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2016)</small>
+
+XI.- POLICAN: Unidad de proximidad adscrita a la Secretaría de Seguridad Pública Municipal, dedicada únicamente a atender reportes y supervisar que no se cometa alguno de los supuestos descritos en el Capítulo de PROHIBICIONES.
+
 ### CAPÍTULO II. DE LA COMPETENCIA
 
 ###### Artículo 5.
@@ -120,6 +124,14 @@ V.- Los Auxiliares y verificadores de la Dirección de Regulación Sanitaria y C
 VI.- El Coordinador del Centro Antirrábico;
 
 VII.- El Coordinador de Regulación Sanitaria.
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2016)</small>
+
+VIII.- El Secretario de Seguridad Pública Municipal;
+
+> <small>(ADICIONADA, P.O. 10 DE FEBRERO DE 2016)</small>
+
+IX.- El Director General de Inspección.
 
 ### CAPÍTULO III. DE LAS FACULTADES
 
@@ -227,33 +239,65 @@ III. Coordinar las funciones de los verificadores de Regulación Sanitaria;
 
 IV. Las demás que establezca el presente Reglamento y demás disposiciones legales aplicables.
 
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2016)</small>
+
+Artículo 13 BIS.- Son facultades del Secretario de Seguridad Pública:
+
+I. Vigilar el cumplimiento de las disposiciones del presente Reglamento;
+
+II. Vigilar que la Unidad de POLICAN cumpla con el objetivo para lo que fue creada, y que se apliquen las sanciones correspondientes a quienes infrinjan las prohibiciones descritas en el Capítulo XI.
+
+III. Las demás que establezca el presente Reglamento y demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2016)</small>
+
+Artículo 13 BIS 1.- Son facultades del Director General de Inspección:
+
+I. Vigilar el cumplimiento de las disposiciones del presente Reglamento.
+
+II. Vigilar que los Inspectores Municipales acudan a tomar parte cuando se cometa alguna de las prohibiciones descritas en el Capítulo XI, para posteriormente aplicar la sanción correspondiente.
+
+III. Las demás que establezca el presente Reglamento y demás disposiciones legales aplicables.
+
 ### CAPÍTULO IV. DE LOS ANIMALES DOMÉSTICOS
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 14.
 
-Todo propietario de algún animal de cualquier especie doméstica, deberá acreditar para la obtención de la cartilla de vacunación a que se refiere la fracción III del artículo 12, un espacio adecuado para su movilidad y desplazamiento, resguardo y abrigo, cumpliendo con las condiciones de higiene, sanidad y seguridad que a juicio de la Coordinación de Regulación Sanitaria y la Coordinación del Centro Antirrábico, sea el adecuado para la tenencia de los animales.
+Todo propietario de algún animal de cualquier especie doméstica, deberá contar con la documentación necesaria que acredite que el animal se encuentra debidamente vacunado, tener un espacio adecuado para su movilidad y desplazamiento, resguardo y abrigo, cumpliendo con las condiciones de higiene, sanidad y seguridad que a juicio de las Autoridades Competentes señaladas en el presente Reglamento, sea el adecuado para la tenencia de los animales.
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 15.
 
-Toda persona podrá tener en su casa-habitación y/o predio urbano, uno o más animales domésticos de la misma especie o diferente, condicionado al espacio suficiente y a que la cantidad de animales en dicho predio no represente un lugar de hacinamiento, de tal manera que tanto el propietario como las especies no se vean afectados, así como que dichos animales no constituyan una molestia para los vecinos. Asimismo deberán proporcionarles el mantenimiento e higiene necesarios.
+Toda persona podrá tener en su casa-habitación y/o predio urbano, uno o más animales domésticos de la misma especie o diferente, condicionado al espacio suficiente y a que la cantidad de animales en dicho predio no represente un lugar de hacinamiento, de tal manera que tanto el propietario y/o poseedor, como las especies no se vean 3 (sic) afectados. Todo el que posea un animal doméstico en (sic) habitación o en predio urbano deberá tenerlo resguardado de tal manera que las personas que transiten por la banqueta o cerca de la propiedad, no sean atacadas por éste. De igual manera, se deberá evitar en todo momento que los ladridos, aullidos, heces fecales, orines y pelos de los mismos causen molestias, daños o perjuicio a los vecinos aledaños al predio. Asimismo deberán proporcionarles el mantenimiento e higiene necesarios.
 
 ###### Artículo 16.
 
-Las áreas de estancia proporcionadas a los animales deben contar con las siguientes superficies:
+Las áreas de estancia proporcionadas a los animales domésticos deben contar con las siguientes superficies:
 
-I.- Razas grandes: Gran Danés, San Bernardo, Gigante de los Pirineos, etcétera, deberá contar con un espacio mínimo de diez metros cuadrados para cada animal.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2016)</small>
 
-II.- Razas medianas: Doberman, pastor alemán, bóxer, labrador, etcétera, deberá contar con espacio mínimo de ocho metros cuadrados por cada canino; y
+l.- Razas grandes: Canes con un peso mínimo de 35-treinta y cinco kilogramos y una altura mínima de 66-sesenta y seis centímetros a la cruz, deberá contar con un espacio mínimo de catorce metros cuadrados para cada animal.
 
-III.- Razas pequeñas: Cocker spaniel, fox terrie, french poodle, maltés, chihuahueño, etcétera, deberá contar con un espacio mínimo de cinco metros cuadrados. Corresponde también esta medida a los animales domésticos de la especie felina.
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2016)</small>
+
+II.- Razas medianas: Canes con un peso mínimo de 15-quince y un máximo de 36-treinta y seis kilogramos y una altura de los 35-treinta y cinco a los 65-sesenta y cinco centímetros a la cruz, deberá contar con espacio mínimo de siete metros cuadrados para cada animal.
+
+> <small>(REFORMADA, P.O. 10 DE FEBRERO DE 2016)</small>
+
+III.- Razas pequeñas: Canes con un peso no mayor a los 15-quince kilogramos y una altura máxima de 35-treinta y cinco centímetros a la cruz, deberá contar con un espacio mínimo de cinco metros cuadrados para cada animal. Corresponde también esta medida a los animales domésticos de la especie felina.
 
 ###### Artículo 17.
 
-Todo el que posea un animal doméstico en casa habitación o en predio urbano deberá tenerlo resguardado de tal manera que las personas que transiten por la banqueta o cerca de la propiedad, no sean atacadas por éste.
+(DEROGADO, P.O. 10 DE FEBRERO DE 2016)
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 18.
 
-Queda prohibido recluir animales en las azoteas u otro lugar donde no se puedan resguardar de las inclemencias del tiempo, o en situaciones insalubres, así como mantenerlos atados.
+Queda prohibida la tenencia habitual de animales en balcones, pabellones, sótanos, azoteas, terrenos baldíos o cualquier otro lugar, a menos que en dichos espacios exista un lugar donde puedan protegerse de las inclemencias del clima y se cuente con las condiciones necesarias para su movilidad, salud e higiene.
 
 ###### Artículo 19.
 
@@ -437,73 +481,59 @@ Los propietarios de estas granjas serán responsables del control de enfermedade
 
 Queda prohibida la tenencia de aves de corral, en lugar diverso de las granjas, conforme a lo dispuesto por el presente capítulo.
 
-### CAPÍTULO VII. DE LOS ANIMALES AGRESIVOS
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 10 DE FEBRERO DE 2016)</small>
+
+### CAPÍTULO VII. DE LOS ANIMALES CONSIDERADOS DE CUIDADO Y RESPETO ESPECIAL
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 57.
 
-Todo animal agresivo que lesione a una o más personas será sujeto de observación clínica obligatoria en el Centro Antirrábico, de acuerdo a la especie animal, los perros y gatos deberán ser retenidos para su observación durante un período de diez días, transcurrido éste, podrá ser devuelto a su propietario y/o sacrificarlo.
+El poseedor de cualquier animal considerado como de cuidado y respeto especial, deberá de presentarlo para su registro ante la Autoridad Estatal competente, acreditando la aprobación para la tenencia respectiva dentro de su propiedad. Quien posea un animal de este tipo deberá notificar al Ayuntamiento y solicitar autorización de la Autoridad Correspondiente que sea competente y colocar avisos correspondientes. Será sujeto de sanción administrativa conforme lo establecen las leyes aplicables o el presente reglamento quien no cumpla con esta disposición.
 
 ###### Artículo 58.
 
-Los animales agresivos reincidentes quedarán a disposición del Centro Antirrábico para su destino final. En el caso de agresiones ocasionadas en el interior de los domicilios de los propietarios, se valorará la devolución de los mismos, quedando exentas de sanciones aquellas agresiones en donde se compruebe que el animal actuó en defensa de una propiedad privada por invasión no autorizada o en respuesta a una agresión.
+(DEROGADO, P.O. 10 DE FEBRERO DE 2016)
 
 ###### Artículo 59.
 
-Los animales no inmunizados contra la rabia, que resulten lesionados por un animal rabioso o sospechoso de padecer rabia y no identificado, serán sacrificados. Los animales inmunizados contra la rabia lesionados por un animal rabioso o sospechoso de padecer rabia, podrán permanecer bajo la vigilancia y responsabilidad del propietario, por lo menos durante un período de un año, es decir, no podrán regalar o vender a la mascota, además de que será revacunado obligatoriamente contra la rabia después del incidente y cumplir con una observancia intradomiciliaria por un período de seis meses, tiempo en el cual no podrán salir a la vía pública.
+(DEROGADO, P.O. 10 DE FEBRERO DE 2016)
 
 ###### Artículo 60.
 
-Los propietarios de animales agresivos quedan obligados a presentarlos para observación clínica en el Centro Antirrábico o a donde corresponda según su especie dentro de las veinticuatro horas siguientes a la agresión. En caso de incumplimiento se solicitará la intervención de las autoridades competentes para que se proceda conforme a derecho.
+(DEROGADO, P.O. 10 DE FEBRERO DE 2016)
+
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 61.
 
-En todo caso quien posea un animal peligroso se encuentra sujeto a las disposiciones que para tal efecto establece la Ley de Protección a los Animales para el Estado de Nuevo León, y, considerando sin perjuicio de lo dispuesto por el artículo 4 fracción VI, como animales potencialmente peligrosos, a las siguientes razas:
+Por su naturaleza temperamental y cuidados especiales que requieren los perros de raza Rottweiler, Akitainu, Bull Terrier, Stanffordshire Terrier, ChowChow, Dálmata, Dóberman, Presa Canario, Fila Brasileiro y la variedad de Mastines, se consideran animales a los cuales se les debe de prestar un cuidado y respeto especial.
 
-- Pit Bull Terrier;
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2016)</small>
 
-- Starffordshire Bull Terrier;
+Artículo 61 BIS.- En toda área para la tenencia o posesión de animales considerados de cuidado y respeto especial, deberá de cumplir con las siguientes medidas:
 
-- American Starffordshite Terrier;
+I.- El área de hábitat asignada al animal deberá de contar con barda perimetral a una altura tal que impida que dicho animal pueda escapar;
 
-- Rottweiler;
+II.- Las puertas, barandales o rejas frontales del área perimetral contarán con la misma altura de la barda mencionada en la fracción anterior. Además de no poder tener espacios por los cuales puedan sacar el hocico o alguna extremidad al exterior; y,
 
-- Dogo Argentino;
-
-- Fila Brasileiro;
-
-- Tosa Inu;
-
-- Akita Inu;
-
-- Chou Chou;
-
-- Samoyedo;
-
-- Huzki siberiano;
-
-- Doberman;
-
-- Mastines;
-
-- Dálmata.
+III.- Está obligado a colocar letreros de aviso en un lugar visible que indiquen precaución.
 
 ### CAPÍTULO VIII. DE LOS ANIMALES DESTINADOS A ESPECTÁCULOS PÚBLICOS
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 62.
 
-El trato y protección a los animales utilizados en espectáculos será de la siguiente forma:
-
-I.- Los animales de circos que se establezcan en el Municipio, y que representen peligro para el público asistente, o para la ciudadanía en general deberán estar confinados en jaulas seguras, y los que por su tamaño no sea factible tenerlos en éstas, deberán ser resguardados en sitios seguros o de ser necesario mantenerlos encadenados sin ocasionarles lesiones; y
-
-II.- Queda prohibido ofrecer o arrojar a los animales que estén en los circos cualquier clase de alimentos u objetos cuya ingestión o presencia pueda causarles daño o enfermedades.
+Queda prohibido en el municipio de San Nicolás de los Garza, Nuevo León, utilizar animales en espectáculos públicos como fin de entretenimiento.
 
 ###### Artículo 63.
 
-La autoridad municipal vigilará que los circos que se instalen en el Municipio, mantengan espacio suficiente que les permita a los animales libertad y amplitud de movimientos y durante su traslado no sean inmovilizados en una posición que les ocasione lesiones o sufrimiento. Además vigilará que los animales tengan condiciones adecuadas de higiene y medidas de seguridad tanto para la protección de ellos como del público espectador.
+(DEROGADO, P.O. 10 DE FEBRERO DE 2016)
 
 ###### Artículo 64.
 
-Los dueños o encargados de los circos permitirán el acceso a la autoridad municipal y a las asociaciones protectoras de animales a sus instalaciones, para observar el adiestramiento de los animales y poder constatar el buen trato.
+(DEROGADO, P.O. 10 DE FEBRERO DE 2016)
 
 ### CAPÍTULO IX. DE LOS PROPIETARIOS Y POSEEDORES
 
@@ -513,9 +543,11 @@ Los dueños o encargados de los circos permitirán el acceso a la autoridad muni
 
 Es propietario aquel que puede disponer de un animal, con las limitaciones que fijen las leyes.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 66.
 
-Son poseedores todas aquellas personas a las que se les concede el derecho de retener de manera temporal en su poder, en calidad de depositario, u otro título análogo algún animal o bien.
+Son poseedores todas aquellas personas a las que se les concede el derecho de retener de manera temporal en su poder, en calidad de depositario, u otro título análogo algún animal.
 
 ###### Artículo 67.
 
@@ -555,15 +587,17 @@ IV.- Descuidar la morada y su espacio, así como las condiciones de ventilación
 
 V.- Todo hecho, acto u omisión, que puedan ocasionar dolor, sufrimiento, poner en riesgo la vida del animal;
 
-VI.- Torturar o maltratar a un animal por maldad, brutalidad, egoísmo o negligencia grave; y (sic)
+VI.- Torturar o maltratar a un animal por maldad, brutalidad, egoísmo o negligencia grave; y
 
 VII.- No brindar la atención médica cuando lo requiera;
 
 VIII.- Abandonar animales en lugares o casas-habitación abandonadas.
 
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 71.
 
-El propietario o poseedor de un animal que cause daños a terceros será responsable de éstos, conforme a lo dispuesto por el Código Civil del Estado, sin perjuicio de lo dispuesto en el presente ordenamiento.
+El propietario o poseedor de un animal que cause daños a terceros será responsable de éstos, conforme a lo dispuesto por el Código Civil del Estado de Nuevo León, sin perjuicio de lo dispuesto en el presente ordenamiento.
 
 ### CAPÍTULO XII. DEL CENTRO ANTIRRÁBICO
 
@@ -823,6 +857,18 @@ Las sanciones aplicables por las conductas señaladas en el artículo 90 serán 
 
 16 Artículo 90 fracción XVI 50 a 70 cuotas
 
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2016)</small>
+
+La aplicación de las sanciones se realizará sin perjuicio de la responsabilidad civil o penal que resulte.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2016)</small>
+
+Artículo 94 BIS.- Cuando del resultado de las diligencias administrativas la Autoridad Municipal advierta que existió un maltrato a los animales domésticos con extrema crueldad o en cualquiera de sus formas y que se provocaron lesiones que ponen en riesgo la vida del animal o le causo la muerte, se dará vista al Agente del Ministerio Público del Fuero Común adscrito a la Procuraduría General de Justicia para que de conformidad con el artículo 445 del Código Penal para el Estado de Nuevo león, proceda conforme a sus facultades y atribuciones.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2016)</small>
+
+Artículo 94 BIS 1.- La Autoridad Municipal, pondrá a la vista del Agente del Ministerio Público copia certificada de sus actuaciones y será coadyuvante dentro de la averiguación previa correspondiente.
+
 ###### Artículo 95.
 
 La reincidencia en cualquiera de las infracciones al presente Reglamento, ameritará aumento de la multa hasta por el doble de la sanción pecuniaria correspondiente.
@@ -854,3 +900,11 @@ SECRETARIO DEL R. AYUNTAMIENTO
 LIC. JOSÉ ABEL FLORES GARCÍA RÚBRICA
 
 Dado en el salón de sesiones del R. Ayuntamiento del Municipio de San Nicolás de los Garza, Nuevo León a los 18-dieciocho días del mes de diciembre del 2008-dos mil ocho.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 10 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE “SE APRUEBA LA REFORMA AL REGLAMENTO PARA LA TENENCIA Y PROTECCIÓN DE ANIMALES DOMÉSTICOS EN EL MUNICIPIO DE SAN NICOLÁS DE LOS GARZA, NUEVO LEÓN”.]
+
+ÚNICO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
