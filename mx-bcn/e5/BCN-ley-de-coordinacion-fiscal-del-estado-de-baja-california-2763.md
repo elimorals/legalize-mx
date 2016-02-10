@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-coordinacion-fiscal-del-estado-de-baja-california-2763"
 country: "mx"
 rank: "ley"
 publication_date: "1987-12-31"
-last_updated: "2008-06-20"
+last_updated: "2016-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2763&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "BCN"
 ---
 # LEY DE COORDINACION FISCAL DEL ESTADO DE BAJA CALIFORNIA
 
-LEY DE COORDINACION FISCAL DEL ESTADO DE BAJA CALIFORNIA
+LEY DE COORDINACIÓN FISCAL DEL ESTADO DE BAJA CALIFORNIA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 20 DE JUNIO DE 2008.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2016.
 
 Ley publicada en la Sección Décimo Primera del Periódico Oficial del Estado de Baja California, el jueves 31 de diciembre de 1987.
 
@@ -87,13 +87,13 @@ II.- El 30% en proporción directa al número de habitantes de que tenga cada Mu
 
 BIS.- El 20% del total que perciba el Estado de la recaudación derivada de la aplicación de las cuotas por la venta final al público en general en territorio nacional de gasolina y diesel, previstas en el artículo 2º.-A, fracción II, de la Ley del Impuesto Sobre Producción y Servicios, será distribuido entre los Municipios de acuerdo a las siguientes reglas:
 
-I. El 70%, en proporción directa al número de habitantes que tenga cada Municipio, el cual se tomará de la información oficial más reciente al inicio de cada ejercicio fiscal, entre la que hubiera dado a conocer el Instituto Nacional de Estadística, Geografía e Informática, y el Consejo Estatal de Población.
+I.- El 70%, en proporción directa al número de habitantes que tenga cada Municipio, el cual se tomará de la información oficial más reciente al inicio de cada ejercicio fiscal, entre la que hubiera dado a conocer el Instituto Nacional de Estadística, Geografía e Informática, y el Consejo Estatal de Población.
 
-II. El 20%, en proporción a la recaudación del Impuesto Predial que obtenga cada Municipio, durante el ejercicio anterior para el cual se efectúa el cálculo.
+II.- El 20%, en proporción a la recaudación del Impuesto Predial que obtenga cada Municipio, durante el ejercicio anterior para el cual se efectúa el cálculo.
 
-III. El 10%, en proporción inversa al número de habitantes que tenga cada Municipio, el cual se tomará de la información oficial más reciente al inicio de cada ejercicio fiscal, entre la que hubiera dado a conocer el Instituto Nacional de Estadística, Geografía e Informática, y el Consejo Estatal de Población.
+III.- El 10%, en proporción inversa al número de habitantes que tenga cada Municipio, el cual se tomará de la información oficial más reciente al inicio de cada ejercicio fiscal, entre la que hubiera dado a conocer el Instituto Nacional de Estadística, Geografía e Informática, y el Consejo Estatal de Población.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 5o.
 
@@ -141,9 +141,15 @@ Las participaciones estatales, las derivadas del Impuesto Sobre Tenencia o Uso d
 
 Las participaciones que correspondan a los Municipios son inembargables, no podrán afectarse a fines específicos, ni estar sujetas a retención, salvo para el pago de obligaciones contraídas por los mismos con autorización de la Legislatura Local, a favor de las Instituciones de Crédito que operen en Territorio Nacional, así como de las personas físicas o morales de nacionalidad mexicana. En tratándose de participaciones Federales, deberán además, ser inscritas a petición del Municipio, ante la Secretaría de Hacienda y Crédito Público, en los términos del Artículo 9o. de la Ley Federal de Coordinación Fiscal.
 
-La compensación entre el derecho de los Municipios a recibir participaciones y las obligaciones que tengan con el Estado o con la Federación sólo podrá llevarse a cabo si existe Acuerdo entre las partes interesadas o cuando así lo autorice la Ley Federal de Coordinación Fiscal.
+> <small>(REFORMADO, P.O. 10 DE FEBRERO DE 2016)</small>
+
+La compensación entre el derecho de los municipios a recibir participaciones y las obligaciones que tengan con el Estado o con la Federación sólo podrá llevarse a cabo si existe Acuerdo entre las partes interesadas o cuando así lo autorice la Ley Federal de Coordinación Fiscal.
 
 Las deudas de los Municipios derivadas de ajustes en participaciones no están sujetas a lo dispuesto en este artículo y serán objeto de compensación.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2016)</small>
+
+Los recursos del Fondo de Aportaciones para el Fortalecimiento de Municipios y de las Demarcaciones Territoriales del Distrito Federal deberán destinarse a lo dispuesto en la Ley de Coordinación Fiscal, y podrán afectarse como garantía del cumplimiento de las obligaciones de pago de derechos y aprovechamientos por concepto de agua y descargas de aguas residuales, a cargo de las Comisiones Estatales de Servicios Públicos, previa autorización de los Ayuntamientos, y posterior aprobación y autorización de la Legislatura del Estado. En caso de incumplimiento en la obligación del pago de derechos y aprovechamientos por concepto de Agua, la Comisión Nacional del Agua podrá solicitar al Ejecutivo del Estado, a través de la Secretaría de Planeación y Finanzas, previa acreditación del incumplimiento, la retención y pago del adeudo con cargo a recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, siempre y cuando el adeudo tenga la antigüedad a que se refiere la Ley de Coordinación Fiscal.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 2000)</small>
 
@@ -155,7 +161,7 @@ El Ejecutivo del Estado, por conducto de la Secretaría de Planeación y Finanza
 
 DE LA COLABORACION ADMINISTRATIVA ENTRE MUNICIPIO Y ESTADO.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 31 DE DICIEMBRE DE 2000)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2000)</small>
 
 ###### ARTICULO 11.
 
@@ -265,7 +271,7 @@ LIC. JOSE LUIS NORIEGA BALCARCEL.
 
 (Rúbrica)
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 20 DE AGOSTO DE 1989.
 
@@ -306,3 +312,19 @@ Los recursos a que se refiere el Artículo 4o. BIS, percibidos con anterioridad 
 ###### ARTÍCULO TERCERO.
 
 Para la distribución de los recursos a que se refiere el artículo 4o. BIS, se considerará para el presente ejercicio fiscal la información oficial más reciente a la fecha de entrada en vigor de la presente reforma, entre la que hubiera dado a conocer el Instituto Nacional de Estadística, Geografía e Informática, y el Consejo Estatal de Población.
+
+P.O. 10 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 438 MEDIANTE EL CUAL SE APRUEBA LA INICIATIVA DE REFORMA POR LA QUE SE ADICIONA UN CUARTO PÁRRAFO AL ARTÍCULO 9 DE LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE BAJA CALIFORNIA".]
+
+###### ARTÍCULO PRIMERO.
+
+La presente reforma entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado de Baja California.
+
+###### ARTÍCULO SEGUNDO.
+
+En términos de los artículos 51 de la Ley de Coordinación Fiscal y Décimo Tercero Transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Coordinación Fiscal y de la Ley General de Contabilidad Gubernamental, publicado el 09 de diciembre de 2013 en el Diario Oficial de la Federación, se autoriza para que se otorguen en garantía los recursos del Fondo de Aportaciones para el Fortalecimiento de Municipios y de las Demarcaciones Territoriales del Distrito Federal, para el cumplimiento de las obligaciones de pago de derechos y aprovechamientos por concepto de agua y descargas de aguas residuales a cargo de las Comisiones Estatales de Servicios Públicos, de acuerdo con los convenios que suscriban los organismos operadores de agua con los Municipios que correspondan, con la participación del Poder Ejecutivo del Gobierno del Estado, a través de la Secretaría de Planeación y Finanzas del Estado de Baja California.
+
+###### ARTÍCULO TERCERO.
+
+Las retenciones y pagos que se realicen con cargo a los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y Demarcaciones Territoriales del Distrito Federal por los adeudos referidos en el artículo anterior y en términos del artículo 51 de la Ley de Coordinación Fiscal, solo podrán solicitarse en el caso de incumplimiento de los pagos correspondientes generados a partir del 1 de enero de 2014, en el entendido de que podrán efectuarse de manera gradual, considerando el 100% de la facturación o acusación de los conceptos citados, con base en al menos, los porcentajes establecidos en el séptimo transitorio del Decreto por el que se reforman y adicionan diversas disposiciones de la Ley de Coordinación Fiscal y de la Ley General de Contabilidad Gubernamental, publicado en el Diario Oficial de la Federación el día 09 de diciembre de 2013.
