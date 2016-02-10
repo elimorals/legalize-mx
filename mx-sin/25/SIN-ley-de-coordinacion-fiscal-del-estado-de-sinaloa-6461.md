@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-coordinacion-fiscal-del-estado-de-sinaloa-6461"
 country: "mx"
 rank: "ley"
 publication_date: "1990-01-15"
-last_updated: "2013-06-21"
+last_updated: "2016-02-10"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6461&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE COORDINACIÓN FISCAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 21 DE JUNIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el lunes 15 de enero de 1990.
 
@@ -211,9 +211,63 @@ El Poder Ejecutivo podrá realizar pagos por cuenta del Ayuntamiento con cargo a
 
 La afectación de participaciones federales como garantía o fuente de pago de obligaciones contraídas por los Municipios, deberá ser previamente autorizada por el Ayuntamiento y por el Congreso del Estado en términos de lo previsto en la Constitución Política del Estado, Ley de Deuda Pública y la de Contratos de Colaboración Público Privada del Estado.
 
-### CAPITULO III. DE LOS ORGANISMOS DE COLABORACION
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 10 DE FEBRERO DE 2016)</small>
 
-### CAPITULO IV. DE LOS ALCANCES POR VIOLACION AL SISTEMA DE COORDINACION FISCAL DEL ESTADO
+### CAPITULO II BIS. DE LOS FONDOS DE APORTACIONES FEDERALES
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2016)</small>
+
+ARTICULO 6o BIS. Los fondos de aportaciones federales instituidos a favor del Estado y de sus municipios, con cargo a recursos de la Federación, se integrarán, distribuirán, administrarán, ejercerán y supervisarán de acuerdo a las disposiciones del Capítulo V de la Ley de Coordinación Fiscal, de la presente Ley y demás legislación estatal aplicable.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2016)</small>
+
+ARTICULO 6o BIS A. El Poder Ejecutivo del Estado, a través de la Secretaría de Administración y Finanzas, con base en los lineamientos establecidos por la Ley de Coordinación Fiscal, hará la entrega de las aportaciones federales correspondientes a los municipios, debiendo publicar los montos respectivos en el Periódico Oficial "El Estado de Sinaloa" a más tardar el treinta y uno de enero del ejercicio fiscal aplicable, así como la fórmula y su respectiva metodología, justificando cada elemento y comunicando a cada uno de ellos el monto calendarizado mensual y los procedimientos para su entrega.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2016)</small>
+
+ARTICULO 6o BIS B. El Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal, tal como lo establece la Ley de Coordinación Fiscal, será destinado a la satisfacción de sus requerimientos, dando prioridad al cumplimiento de sus obligaciones financieras, al pago de derechos y aprovechamientos por concepto de agua, descargas de aguas residuales, a la modernización de los sistemas de recaudación locales, mantenimiento de infraestructura, y a la atención de las necesidades directamente vinculadas con la seguridad pública de sus habitantes.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2016)</small>
+
+ARTICULO 6o BIS C. El monto de la inversión asignada y ejercida con los fondos federales a que se refiere el presente Capítulo, deberá incorporarse a los presupuestos de ingresos y egresos, y a la cuenta pública de Gobierno del Estado y de cada municipio, respectivamente.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2016)</small>
+
+ARTICULO 6o BIS D. La Auditoría Superior del Estado, en el ámbito de sus atribuciones realizará la inspección y vigilancia de los fondos a que se refiere el presente Capítulo, independientemente de las facultades que le corresponda ejercer a la Auditoría Superior de la Federación.
+
+Cuando la Auditoría Superior del Estado, detecte que los recursos de los Fondos no se han destinado a los fines establecidos en la Ley de Coordinación Fiscal, deberá hacerlo del conocimiento inmediato de la Auditoría Superior de la Federación.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2016)</small>
+
+ARTICULO 6o BIS E. Las responsabilidades administrativas, civiles y penales en que incurran las autoridades estatales o municipales por el manejo o aplicación indebida de los recursos de los fondos federales señalados en el presente Capítulo, para fines distintos a los previstos por la Ley de Coordinación Fiscal, serán sancionados en los términos de la legislación federal y estatal aplicable.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2016)</small>
+
+ARTICULO 6o BIS F. Los recursos de los fondos de aportaciones federales son inembargables, y sólo podrán gravarse o afectarse como fuente de pago, garantía o ambas, de sus obligaciones, de conformidad a lo dispuesto en la Ley de Coordinación Fiscal y en la presente Ley.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2016)</small>
+
+ARTICULO 6o BIS G. Los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y de las Demarcaciones Territoriales del Distrito Federal que correspondan a los municipios podrán afectarse previa autorización del H. Congreso del Estado como garantía del cumplimiento de sus obligaciones de pago de derechos y aprovechamientos por concepto de agua y descargas de aguas residuales.
+
+La Comisión Nacional del Agua, una vez formalizados los instrumentos jurídicos necesarios, podrá solicitar al Gobierno del Estado, a través de la Secretaría de Administración y Finanzas, previa acreditación del incumplimiento, la retención y pago de los adeudos correspondientes con cargo a los recursos del Fondo antes referido que correspondan al municipio de que se trate. Para tal efecto, la Comisión Nacional del Agua, en términos de lo previsto en el segundo párrafo del artículo 51 de la Ley de Coordinación Fiscal, solo podrá solicitar dicha retención y pago cuando los adeudos tengan una antigüedad mayor a 90 días naturales.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2016)</small>
+
+ARTICULO 6o BIS H. Para acreditar el incumplimiento, la Comisión Nacional del Agua deberá enviar a la Secretaría de Administración y Finanzas por escrito la relación de adeudos de cada uno de los municipios, incluyendo sus organismos operadores de agua, por cada una de sus obligaciones de pago de derechos y aprovechamientos por concepto de agua y descargas de aguas residuales.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2016)</small>
+
+ARTICULO 6o BIS I. La Secretaría de Administración y Finanzas deberá efectuar los depósitos correspondientes a las retenciones y pagos a que se refiere el artículo 6o Bis G de esta Ley, dentro de los 5 días siguientes a la realización de la afectación correspondiente.
+
+> <small>(ADICIONADO, P.O. 10 DE FEBRERO DE 2016)</small>
+
+ARTICULO 6o BIS J. Para efectos de lo dispuesto en el artículo 51 de la Ley de Coordinación Fiscal se entenderá por:
+
+I. Obligaciones de pago de derechos y aprovechamientos por concepto de agua y descargas de aguas residuales: Los pagos que deban realizar los municipios, incluyendo sus organismos operadores de agua a la Comisión Nacional del Agua por el derecho de uso, aprovechamiento o explotación de aguas nacionales, por uso o aprovechamiento de bienes del dominio público de la Nación como cuerpos receptores de las descargas de agua residuales, de conformidad con la Ley Federal de Derechos.
+
+II. Incumplimiento: La falta de pago total o parcial de las obligaciones a que se refiere la fracción I del presente artículo que deban realizar los municipios.
+
+### CAPITULO III. DE LOS ORGANISMOS DE COLABORACION
 
 ###### ARTICULO 7.
 
@@ -335,6 +389,8 @@ El Director de esta Comisión fungirá como Secretario Técnico de la Comisión 
 
 La Comisión Coordinadora de Capacitación y Asesoría Fiscal desarrollará el programa que anualmente apruebe la Convención Fiscal de los Ayuntamientos del Estado y sufragará sus gastos a prorrata entre los Ayuntamientos de la Entidad y el Gobierno del Estado, aportando los primeros el 50% del presupuesto y el Gobierno Estatal el 50% restante.
 
+### CAPITULO IV. DE LOS ALCANCES POR VIOLACION AL SISTEMA DE COORDINACION FISCAL DEL ESTADO
+
 ###### ARTICULO 19.
 
 Cuando el Estado o algún Municipio contravengan lo establecido por esta Ley o viole el contenido de alguno de los Convenios de Colaboración Administrativa o sus anexos, previa manifestación expresa de dicha violación por la parte afectada a la autoridad infractora, presentará inconformidad ante la Legislatura del Estado a efecto de dictaminar sobre las medidas correctivas a que haya lugar.
@@ -442,3 +498,23 @@ P.O. 21 DE JUNIO DE 2013.
 Artículo Primero.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 Artículo Segundo.- Se derogan todas aquellas disposiciones legales, reglamentarias y administrativas que contravengan lo previsto en el presente Decreto.
+
+P.O. 10 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NUM: 524 POR EL QUE SE ADICIONA EL CAPÍTULO II BIS DENOMINADO "DE LOS FONDOS DE APORTACIONES FEDERALES" A LA LEY DE COORDINACIÓN FISCAL DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
+
+###### ARTÍCULO SEGUNDO.
+
+Las retenciones y pagos que se realicen con cargo a los recursos del Fondo de Aportaciones para el Fortalecimiento de los Municipios y Demarcaciones Territoriales del Distrito Federal, por adeudos que correspondan a los municipios del Estado, a que se refiere el artículo 51 de la Ley de Coordinación Fiscal, relativos a los derechos y aprovechamientos por concepto de agua y descargas de aguas residuales, podrán efectuarse de manera gradual, con base en al menos, los siguientes porcentajes aplicables sobre el total de los recursos que correspondan a cada municipio por concepto del citado fondo, considerando el 100% de la facturación de los conceptos referidos:
+
+Ejercicio Fiscal Porcentaje de Retención
+
+2016 75%
+
+2017 85%
+
+2018 100%
