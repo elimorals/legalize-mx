@@ -4,7 +4,7 @@ identifier: "DUR-codigo-de-etica-judicial-antes-codigo-de-etica-del-poder-56725"
 country: "mx"
 rank: "codigo"
 publication_date: "2007-07-29"
-last_updated: "2007-07-29"
+last_updated: "2016-02-11"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56725&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "DUR"
 ---
 # CODIGO DE ETICA JUDICIAL -- ANTES CODIGO DE ETICA DEL PODER JUDICIAL -- DEL ESTADO DE DURANGO
 
-CODIGO DE ETICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
+CÓDIGO DE ÉTICA JUDICIAL DEL ESTADO DE DURANGO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE FEBRERO DE 2016.
 
 Código publicado en el Periódico Oficial del Estado de Durango, el domingo 29 de julio de 2007.
 
@@ -53,7 +53,9 @@ EXPOSICIÓN DE MOTIVOS
 
 Que una vez que el Pleno del Tribunal Estatal Electoral, la Directora del Centro Estatal de Justicia Alternativa y el Pleno del Consejo de la Judicatura manifestaron su conformidad con el contenido y la expedición del presente Código de Ética, el Pleno del Tribunal Superior de Justicia del Estado emite el siguiente:
 
-CÓDIGO DE ÉTICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 11 DE FEBRERO DE 2016)</small>
+
+CÓDIGO DE ÉTICA JUDICIAL
 
 ### CAPÍTULO I. GENERALIDADES
 
@@ -209,7 +211,9 @@ Artículo 12
 
 Ejercicio serio y responsable de la función jurisdiccional, con relevante capacidad y aplicación, por lo cual el juzgador debe:
 
-1) Mantenerse permanentemente actualizado para desarrollar las funciones que tiene a su cargo, participando en los cursos, talleres, diplomados, especialidades, maestrías y doctorados impartidos por el Instituto de Especialización Judicial u otras instituciones educativas, orientados a elevar su formación jurisdiccional, académica e intelectual;
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2016)</small>
+
+1) Mantenerse permanentemente actualizado para desarrollar las funciones que tiene a su cargo, participando en los cursos, talleres, diplomados, especialidades, maestrías y doctorados impartidos por la Universidad Judicial del Poder Judicial del Estado de Durango u otras instituciones educativas; orientados a elevar su formación jurisdiccional, académica e intelectual;
 
 2) Analizar exhaustiva y acuciosamente los asuntos en los que deba intervenir, respetando los términos establecidos en la ley;
 
@@ -319,15 +323,29 @@ El Comité estará integrado por:
 
 1) El Magistrado Presidente del Tribunal Superior de Justicia;
 
-2) El Magistrado Presidente del Tribunal Estatal Electoral;
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2016)</small>
 
-3) Un Magistrado del Tribunal Superior de Justicia;
+2) El Magistrado Presidente del Tribunal de Menores Infractores;
 
-4) Un Consejero del Consejo de la Judicatura;
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2016)</small>
 
-5) El Juez que fungió como Presidente en el último Congreso Estatal de Jueces, y
+3) El Magistrado Presidente del Tribunal de Justicia Fiscal y Administrativa;
 
-6) El Director del Centro Estatal de Justicia Alternativa.
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2016)</small>
+
+4) Un Magistrado del Tribunal Superior de Justicia;
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2016)</small>
+
+5) Un Consejero de la Judicatura;
+
+> <small>(REFORMADO, P.O. 11 DE FEBRERO DE 2016)</small>
+
+6) El Juez que funge como Presidente de la Asociación de Jueces del Poder Judicial del Estado A.C.;
+
+> <small>(ADICIONADO, P.O. 11 DE FEBRERO DE 2016)</small>
+
+7) El Director del Centro Estatal de Justicia Alternativa.
 
 Artículo 18
 
@@ -366,3 +384,13 @@ MAESTRO EN DERECHO JORGE ANTONIO BRACHO RUIZ, SECRETARIO GENERAL DE ACUERDOS DEL
 QUE ESTE CÓDIGO DE ÉTICA DEL PODER JUDICIAL DEL ESTADO, EMITIDO POR EL PLENO DEL H. TRIBUNAL SUPERIOR DE JUSTICIA DEL ESTADO DE DURANGO, EN SESIÓN ORDINARIA CELEBRADA EL VEINTE DE JUNIO DE DOS MIL SIETE, POR UNANIMIDAD DE LOS MAGISTRADOS PRESENTES: MIGUEL ÁNGEL RODRÍGUEZ VÁZQUEZ (PRESIDENTE), MARTHA XÓCHITL HERNÁNDEZ LEYVA (VICEPRESIDENTA), JUVENTINO RODARTE SOLÍS, SALVADOR MERCADO PONCE, REYNA LORENA BARRAGÁN HERNÁNDEZ, JESÚS REFUGIO GARCÍA CASTAÑEDA, CARLOS RESÉNDEZ ESTRADA, JOSÉ GERARDO FAVELA VARGAS, ERNESTO GALINDO SIFUENTES, ALMA ROSA SOLÍS RÍOS, IRMA LUZ GALINDO OCHOA, GUILLERMO ARMANDO
 
 ARAGÓN RODRÍGUEZ.- DURANGO, DURANGO, A VEINTE DE JUNIO DE DOS MIL SIETE. "Firmas ilegibles, Rubricas".
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 11 DE FEBRERO DE 2016.
+
+> <small>[N. DE E. SE TRANSCRIBEN LOS PUNTOS CUARTO Y QUINTO DEL “ACUERDO PARA MODIFICAR LA DENOMINACIÓN DEL CÓDIGO DE ÉTICA DEL PODER JUDICIAL DEL ESTADO DE DURANGO, ASÍ COMO LA ADECUACIÓN A LOS ARTÍCULOS 12 Y 17, RELATIVOS AL INSTITUTO DE ESPECIALIZACIÓN JUDICIAL Y A LA INTEGRACIÓN DEL COMITÉ DE ÉTICA JUDICIAL".]</small>
+
+CUARTO. Publíquese el presente Acuerdo en el Periódico Oficial del Gobierno del Estado de Durango y en la página Web del Poder Judicial del Estado de Durango, en cumplimiento al principio de publicidad a que hace referencia el artículo 13 de la Ley de Acceso a la Información Pública del Estado.
+
+QUINTO. El presente Acuerdo entrará en vigor a partir del día de su publicación.
