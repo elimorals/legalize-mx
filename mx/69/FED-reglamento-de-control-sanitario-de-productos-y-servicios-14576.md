@@ -4,7 +4,7 @@ identifier: "FED-reglamento-de-control-sanitario-de-productos-y-servicios-14576"
 country: "mx"
 rank: "reglamento"
 publication_date: "1999-08-09"
-last_updated: "2014-02-14"
+last_updated: "2016-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14576&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "1999-07-29"
 
 REGLAMENTO DE CONTROL SANITARIO DE PRODUCTOS Y SERVICIOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 14 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 12 DE FEBRERO DE 2016.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el lunes 9 de agosto de 1999.
 
@@ -145,7 +145,13 @@ IX Bis. Productos similares al chocolate, a los productos elaborados a partir de
 
 X. Riesgo, a la probabilidad de que se desarrolle cualquier propiedad biológica, química o física que cause daño a la salud del consumidor;
 
-XI. Secretaría, a la Secretaría de Salud, y
+> <small>(REFORMADA, D.O.F. 12 DE FEBRERO DE 2016)</small>
+
+XI. Secretaría, a la Secretaría de Salud;
+
+> <small>(ADICIONADA, D.O.F. 12 DE FEBRERO DE 2016)</small>
+
+XI Bis. Sucedáneo de la leche materna o humana, a las fórmulas comercializadas presentadas como sustitutos parciales o totales de la leche materna o humana, y
 
 XII. Tercero autorizado, a la persona autorizada por la Secretaría para emitir dictámenes respecto del cumplimiento de requisitos establecidos por la propia Secretaría o en las normas correspondientes o para realizar estudios, para efectos de trámites o autorizaciones sanitarias.
 
@@ -595,7 +601,9 @@ En las plantas de pasteurización, ultrapasteurización o esterilización, deber
 
 ## TÍTULO CUARTO. Leche, sus productos y derivados
 
-### Capítulo II. Fórmulas para lactantes
+### Capítulo II. Sucedáneos de la leche materna o humana
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 12 DE FEBRERO DE 2016)</small>
 
 ###### ARTÍCULO 57.
 
@@ -1487,9 +1495,11 @@ Los productos de que trata este título no deberán contener residuos de hormona
 
 Los productos y sus ingredientes destinados a la alimentación de lactantes y niños de corta edad, no deberán ser sometidos a radiación ionizante.
 
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 12 DE FEBRERO DE 2016)</small>
+
 ###### ARTÍCULO 140.
 
-Para efectos de este Reglamento, dentro de las fórmulas para lactantes quedan comprendidas las siguientes:
+Dentro de los sucedáneos de la leche materna o humana que se presenten como fórmulas para lactantes quedan comprendidas las siguientes:
 
 I. Fórmula láctea, cuando al menos el 90% de las proteínas procedan de la leche o suero de leche, y
 
@@ -1517,13 +1527,27 @@ En las normas correspondientes se establecerán las especificaciones a que deber
 
 La Secretaría establecerá los programas para promover la lactancia materna.
 
+> <small>(REFORMADO, D.O.F. 12 DE FEBRERO DE 2016)</small>
+
 ###### ARTÍCULO 146.
 
-En las unidades de atención médica no se podrá promover el empleo de productos alimenticios que sustituyan a la leche materna, a menos que el estado de salud del niño o la madre lo requiera.
+En los establecimientos para la atención médica no se podrá promover el empleo de sucedáneos de la leche materna o humana.
+
+> <small>(REFORMADO, D.O.F. 12 DE FEBRERO DE 2016)</small>
 
 ###### ARTÍCULO 147.
 
-Sólo podrán proporcionarse dotaciones de fórmulas para lactantes para utilizarse en investigación clínica cuando los protocolos respectivos estén debidamente sancionados por la comisión de investigación del establecimiento que preste servicios de atención médica y autorizados por la Secretaría en términos de las disposiciones aplicables.
+La entrega gratuita de sucedáneos de la leche materna o humana sólo podrá realizarse en los supuestos siguientes:
+
+I. Cuando sea con fines de investigación para la salud, en cuyo caso únicamente podrán ser entregados al profesional de la salud designado para tal fin en el protocolo de investigación correspondiente. Dicho protocolo deberá estar dictaminado de manera favorable por los comités de Investigación y de Ética en Investigación del establecimiento para la atención médica en el que se realizará la investigación y, autorizado, en su caso, por la Secretaría, en términos del Reglamento de la Ley General de Salud en materia de Investigación para la Salud y demás disposiciones jurídicas aplicables;
+
+II. Cuando su consumo sea destinado, mediante prescripción médica, a satisfacer las necesidades nutrimentales de los lactantes con trastornos, enfermedades o condiciones médicas específicas durante los primeros meses de vida o hasta la introducción de la ablactación o alimentación complementaria;
+
+III. Cuando mediante prescripción médica el estado de salud de la madre impida la lactancia materna durante los primeros meses de vida o hasta la introducción de la ablactación o alimentación complementaria de los lactantes;
+
+IV. Cuando sean necesarias para la atención de situaciones de desastre o emergencia, así como para la prevención de los riesgos inminentes a que se refiere la Ley General de Protección Civil, y
+
+V. Cuando la Secretaría lo determine como una medida de salud pública.
 
 ###### ARTÍCULO 148.
 
@@ -5522,3 +5546,9 @@ Para el caso de productores que utilicen envases retornables, el plazo para sust
 Durante el plazo establecido en el párrafo anterior, los productores que utilicen este tipo de envases, deberán cumplir con los criterios de implementación previstos en el Acuerdo que expedirá la Secretaría para tales efectos.
 
 TERCERO. La Secretaría de Salud modificará, en términos de las disposiciones de la Ley Federal sobre Metrología y Normalización y su Reglamento, las normas oficiales mexicanas que con motivo de la entrada en vigor de este Decreto deban adecuar su contenido.
+
+D.O.F. 12 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO POR EL QUE SE REFORMAN Y ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE CONTROL SANITARIO DE PRODUCTOS Y SERVICIOS”.]
+
+ÚNICO. El presente Decreto entrará en vigor al día siguiente al de su publicación en el Diario Oficial de la Federación.
