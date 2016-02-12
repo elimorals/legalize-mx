@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-integracion-social-de-personas-con-discapacidad-del-1718
 country: "mx"
 rank: "ley"
 publication_date: "2000-09-06"
-last_updated: "2000-09-06"
+last_updated: "2016-02-12"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17182&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SIN"
 ---
 # LEY DE INTEGRACION SOCIAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE SINALOA
 
-LEY DE INTEGRACION SOCIAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE SINALOA
+LEY DE INTEGRACIÓN SOCIAL DE PERSONAS CON DISCAPACIDAD DEL ESTADO DE SINALOA
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2016.
 
 Ley publicada en la Segunda Sección del Periódico Oficial "El Estado de Sinaloa", el miércoles 6 de septiembre del 2000.
 
@@ -531,6 +531,16 @@ En las dependencias estatales y municipales en que se desarrollen programas o ac
 
 La finalidad primordial de la política de empleo de trabajadores con discapacidad, será su integración en el sistema laboral o, en su caso, su incorporación al sistema productivo mediante formas de trabajo adecuadas a sus condiciones.
 
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2016)</small>
+
+###### Artículo 46 Bis.
+
+El Ejecutivo del Estado y los Municipios promoverán el derecho al trabajo de personas con discapacidad en igualdad de oportunidades y equidad, que les otorgue certeza y seguridad en su desarrollo personal, social y laboral.
+
+> <small>(ADICIONADO, P.O. 12 DE FEBRERO DE 2016)</small>
+
+Artículo 46 Bis A. Los Poderes Ejecutivo, Legislativo y Judicial, así como los órganos autónomos, y los Ayuntamientos procurarán contratar como mínimo el 3% de su plantilla laboral correspondiente a personas con discapacidad, a efecto de garantizar su inserción laboral.
+
 ###### Artículo 47.
 
 El Estado, a través del DIF, con la participación del Servicio Estatal de Empleo y de la Dirección del Trabajo y Previsión Social, impulsará programas de promoción de empleo para las personas con discapacidad, creando, para ello, una bolsa de trabajo en la que se concentren listas de aspirantes con sus aptitudes y capacidades.
@@ -555,9 +565,11 @@ Las personas con discapacidad que deseen ingresar a un centro especial de empleo
 
 El trabajo que realice la persona con discapacidad en los centros especiales de empleo, será productivo, remunerado y adecuado a las características individuales del trabajador, para favorecer su adaptación personal y facilitar, en su caso, su posterior integración en el mercado ordinario de trabajo.
 
+> <small>(REFORMADO, P.O. 12 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 53.
 
-El Gobierno del Estado de Sinaloa y los municipios promoverán entre las empresas el empleo de personas con discapacidad, así como la adaptación de los centros de trabajo a sus necesidades, en los términos de lo dispuesto en el vigente Decreto de Apoyo Permanente a Personas Físicas y Morales que Incorporen a su Planta Productiva a Personas con Discapacidad, de fecha 12 de mayo de 1998, publicado en el Periódico Oficial "El Estado de Sinaloa", el día 18 de mayo de 1998, y en las disposiciones y ordenamientos que en lo futuro se expidieren.
+Se les otorgarán incentivos fiscales a las personas físicas o morales que contraten o empleen a personas con discapacidad en términos de la Ley de Fomento a la Inversión para el Desarrollo Económico del Estado de Sinaloa.
 
 ###### Artículo 54.
 
@@ -930,3 +942,13 @@ JUAN S. MILLAN LIZARRAGA
 EL SECRETARIO GENERAL DE GOBIERNO.
 
 GONZALO M. ARMIENTA CALDERON.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 525 QUE PROPONE ADICIONAR Y REFORMAR DIVERSAS DISPOSICIONES A LA LEY DE INTEGRACIÓN SOCIAL DE PERSONAS CON DISCAPACIDAD Y A LA LEY DE FOMENTO A LA INVERSIÓN PARA EL DESARROLLO ECONÓMICO, AMBAS DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
