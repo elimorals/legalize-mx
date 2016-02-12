@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-de-visitas-y-estadias-profesionales-de-la-88159"
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-06-01"
-last_updated: "2012-06-01"
+last_updated: "2016-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=88159&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 REGLAMENTO DE VISITAS Y ESTADÍAS PROFESIONALES DE LA UNIVERSIDAD TECNOLÓGICA DE QUERÉTARO
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO DE VISITAS Y ESTADÍAS PROFESIONALES, PUBLICADO EN EL P.O. DE 12 DE FEBRERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 1 de junio de 2012.
 
@@ -167,7 +169,7 @@ Son funciones del Asesor de la Universidad en materia de Estadía Profesional la
 
 I. Asesorar a los alumnos en materia técnica relativa a las Estadías Profesionales.
 
-II. Supervisar, conjuntamente con el Asesor le la organización donde se realice la estadía profesional, el desarrollo de los programas de la misma, a fin de que los alumnos se ajusten al programa de actividades del proyecto asignado.
+II. Supervisar, conjuntamente con el Asesor la organización donde se realice la estadía profesional, el desarrollo de los programas de la misma, a fin de que los alumnos se ajusten al programa de actividades del proyecto asignado.
 
 III. Llevar el control y seguimiento de las Estadías Profesionales que estén bajo su conducción y vigilancia, para verificar el debido cumplimiento de sus objetivos y metas.
 
@@ -374,3 +376,15 @@ Rector de la Universidad Tecnológica de Querétaro
 Secretario Técnico
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE VISITAS Y ESTADÍAS PROFESIONALES”.]
+
+PRIMERO. Queda abrogado el Reglamento de Visitas y Estadías Profesionales aprobado por el H. Consejo Directivo en su Segunda Sesión Ordinaria de fecha 19 de diciembre de 2011 y publicado en el periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga” el 1 de junio de 2012.
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro “La Sombra de Arteaga”.
+
+TERCERO. El presente Reglamento de Visitas y Estadías Profesionales es aprobado en la Segunda Sesión Ordinaria del H. Consejo Directivo de fecha 25 de septiembre de 2015.
