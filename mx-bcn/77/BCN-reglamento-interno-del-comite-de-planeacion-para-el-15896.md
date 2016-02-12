@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interno-del-comite-de-planeacion-para-el-15896"
 country: "mx"
 rank: "reglamento"
 publication_date: "2000-01-28"
-last_updated: "2010-04-16"
+last_updated: "2016-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=15896&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 REGLAMENTO INTERNO DEL COMITÉ DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ABRIL DE 2010.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERNO DEL COMITÉ DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 12 DE FEBRERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2016. (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 28 de enero de 2000.
 
@@ -638,3 +640,13 @@ P.O. 16 DE ABRIL DE 2010.
 ## [N. DE E. TRANSITORIO DEL “DECRETO DEL EJECUTIVO DEL ESTADO MEDIANTE EL CUAL SE APRUEBAN LAS REFORMAS A LOS ARTÍCULOS 43 Y 47 DEL REGLAMENTO INTERNO DEL COMITÉ DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE BAJA CALIFORNIA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 12 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "REGLAMENTO INTERNO DEL COMITÉ DE PLANEACIÓN PARA EL DESARROLLO DEL ESTADO DE BAJA CALIFORNIA".]
+
+Primero.- El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+Segundo.- Se abroga el Reglamento Interno del Comité de Planeación para el Desarrollo del Estado de Baja California, publicado con fecha 28 de enero del 2000 en el Periódico Oficial del Estado.
+
+Tercero.- En tanto no se expidan los manuales administrativos que este Reglamento menciona, el Director queda facultado para resolver las cuestiones que conforme a dichos manuales se deban regular.
