@@ -4,7 +4,7 @@ identifier: "QUE-reglamento-de-titulacion-de-la-universidad-tecnologica-de-91539
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-12-28"
-last_updated: "2012-12-28"
+last_updated: "2016-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91539&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "QUE"
 
 REGLAMENTO DE TITULACIÓN DE LA UNIVERSIDAD TECNOLÓGICA DE QUERÉTARO
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO PRIMERO DEL REGLAMENTO DE TITULACIÓN PUBLICADO EN EL P.O. DE 12 DE FEBRERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Querétaro, el viernes 28 de diciembre de 2012.
 
@@ -246,3 +248,15 @@ Rector de la Universidad Tecnológica de Querétaro
 Secretario Técnico del H. Consejo Directivo
 
 Rúbrica
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 12 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO DE TITULACIÓN”.]
+
+PRIMERO. Queda abrogado el Reglamento de Titulación aprobado por el H. Consejo Directivo en su Primera Sesión Ordinaria de fecha 12 de septiembre de 2012 y publicado en el periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+SEGUNDO. El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Querétaro "La Sombra de Arteaga".
+
+TERCERO. El presente Reglamento de Titulación es aprobado en Sesión Ordinaria del H. Consejo Directivo de fecha 25 de septiembre de 2015.
