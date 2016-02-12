@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-del-organo-de-fiscalizacion-superior-45459"
 country: "mx"
 rank: "reglamento"
 publication_date: "2005-07-08"
-last_updated: "2015-10-09"
+last_updated: "2016-02-12"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=45459&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "BCN"
 
 REGLAMENTO INTERIOR DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE OCTUBRE DE 2015.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE BAJA CALIFORNIA, PUBLICADO EN EL P.O. DE 12 DE FEBRERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 8 de julio de 2005.
 
@@ -121,7 +123,7 @@ XVII. Dirección de Auditoría Ensenada.- Es la Dirección de Auditoría que tie
 
 XVIII. Unidades Administrativas.- La oficina del Auditor Superior, la oficina del Subauditor Superior, la oficina del Auditor Especial de Fiscalización, las Direcciones, las Unidades, las Subdirecciones de Auditoría y los Departamentos que integran la estructura del Órgano de Fiscalización;
 
-> <small>(REFORMADADA, P.O. 9 DE OCTUBRE DE 2015)</small>
+> <small>(REFORMADA, P.O. 9 DE OCTUBRE DE 2015)</small>
 
 XIX. Subdirección y/o Subdirecciones de Auditoría.- Los Subdirectores de Auditoría;
 
@@ -2148,3 +2150,23 @@ Los asuntos que se encuentren pendientes al entrar en vigor las presentes Reform
 ###### ARTÍCULO TERCERO.
 
 Una vez emitidas las presentes Reformas, se deberán realizar las adecuaciones necesarias en la estructura del Órgano de Fiscalización.
+
+P.O. 12 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL ÓRGANO DE FISCALIZACIÓN SUPERIOR DEL ESTADO DE BAJA CALIFORNIA”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior del Órgano de Fiscalización Superior del Estado de Baja California, publicado en el Periódico Oficial No. 31, de fecha 8 de julio de 2005, Tomo CXII, a partir de la entrada en vigor del presente Reglamento.
+
+###### ARTÍCULO TERCERO.
+
+Los asuntos que se encuentren pendientes al entrar en vigor el presente Reglamento y que deban pasar de una Unidad Administrativa a otra u otras, continuarán su trámite y serán resueltos por aquella o aquéllas a quienes se les atribuye la competencia en el Reglamento anterior.
+
+###### ARTÍCULO CUARTO.
+
+Una vez emitido el presente Reglamento, se deberán realizar las adecuaciones necesarias en la estructura del Órgano de Fiscalización.
