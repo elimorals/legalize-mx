@@ -4,7 +4,7 @@ identifier: "COL-ley-ambiental-para-el-desarrollo-sustentable-del-estado-de-2561
 country: "mx"
 rank: "ley"
 publication_date: "2002-06-15"
-last_updated: "2015-08-01"
+last_updated: "2016-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25618&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COL"
 
 LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 1 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2016.
 
 Ley publicada en el Suplemento No. 1 del Periódico Oficial del Estado de Colima, el sábado 15 de junio de 2002.
 
@@ -2333,6 +2333,12 @@ Los ayuntamientos establecerán en los programas municipales de desarrollo urban
 
 En el Estado no se permitirán sitios e instalaciones para el confinamiento de residuos peligrosos.
 
+> <small>(ADICIONADO, P.O. 13 DE FEBRERO DE 2016)</small>
+
+ARTÍCULO 189 BIS.- Sin perjuicio a lo dispuesto por el artículo anterior, las autoridades ambientales municipales deberán colocar, en las zonas que especifiquen sus planes de desarrollo, contenedores adecuados para el depósito de todo tipo de baterías y residuos electrónicos, con la finalidad de que éstos sean transportados y manejados conforme a las Normas Oficiales Mexicanas en materia de residuos peligrosos.
+
+Este tipo de contenedores deberá encontrarse instalado de forma permanente, y será de acceso seguro para toda la población. La Secretaría de Infraestructura y Desarrollo Urbano apoyará a los Ayuntamientos del Estado en la elaboración de planes de manejo que cumplan con los requisitos que dictan las Normas Oficiales Mexicanas y la legislación federal.
+
 ### CAPÍTULO XI. EMERGENCIAS Y CONTINGENCIAS AMBIENTALES
 
 ###### ARTÍCULO 190.
@@ -2986,3 +2992,11 @@ P.O. 11 DE JULIO DE 2015.
 P.O. 1 DE AGOSTO DE 2015.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente a su publicación en el Periódico Oficial "El Estado de Colima".
+
+P.O. 13 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 56 SE ADICIONA EL ARTICULO 189 BIS A LA LEY AMBIENTAL PARA EL DESARROLLO SUSTENTABLE DEL ESTADO DE COLIMA”.]
+
+PRIMERO.- Se concede un plazo de 180 días naturales para que los diez ayuntamientos de la Entidad, incorporen y especifiquen dentro de sus planes de desarrollo, las zonas en las que deberán de instalarse los contenedores especiales para el depósito y traslado de todo tipo de baterías y residuos electrónicos conforme a las Normas Oficiales Mexicanas en materia de residuos peligrosos, debiendo informar a la sociedad, una vez se hayan determinado.
+
+SEGUNDO.- El presente decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial "El Estado de Colima".
