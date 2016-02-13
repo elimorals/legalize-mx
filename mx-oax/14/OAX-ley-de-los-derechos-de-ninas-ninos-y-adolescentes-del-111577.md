@@ -4,7 +4,7 @@ identifier: "OAX-ley-de-los-derechos-de-ninas-ninos-y-adolescentes-del-111577"
 country: "mx"
 rank: "ley"
 publication_date: "2015-12-16"
-last_updated: "2015-12-16"
+last_updated: "2016-02-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111577&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "OAX"
 ---
 # LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 13 DE FEBRERO DE 2016 EN EL P.O. DEL ESTADO DE OAXACA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES DEL ESTADO DE OAXACA
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 13 DE FEBRERO DE 2016.]</small>
 
 Ley publicada en el Extra del Periódico Oficial del Estado de Oaxaca, el miércoles 16 de diciembre de 2015.
 
@@ -157,7 +157,9 @@ XXVII. Representación en Suplencia: La representación de niñas, niños y adol
 
 XXVIII. Sistema DIF Estatal: El Sistema para el Desarrollo Integral de la Familia del Estado de Oaxaca;
 
-XXIX. Sistema Local de Protección: El Sistema de Protección de Niñas, Niños y Adolescentes del Estado de Oaxaca;
+> <small>(F. DE E., P.O. 13 DE FEBRERO DE 2016)</small>
+
+XXIX. Sistema Local: Sistema Local de Protección Integral de los Derechos de Niñas, Niños y Adolescentes del Estado de Oaxaca;
 
 XXX. Sistemas DIF Municipales: Los Sistemas Municipales para el Desarrollo Integral de la Familia del Estado de Oaxaca;
 
@@ -1297,19 +1299,25 @@ VI. No haber sido sentenciado por delito doloso o inhabilitado como servidor pú
 
 El nombramiento de Procurador de Protección deberá será aprobado por el Consejo Directivo del Sistema Local DIF, a propuesta de su Titular.
 
+> <small>(F. DE E., P.O. 13 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 107.
 
-El Estado de Oaxaca contará con un Sistema Local de Protección de los derechos de niñas, niños y adolescentes, conformado por las dependencias y entidades de la administración pública estatal vinculadas con la protección de estos derechos, en los términos que determinen sus respectivos ordenamientos legales y será presidido por el Titular del Poder Ejecutivo Estatal.
+El Estado de Oaxaca contará con un Sistema Local, conformado por las dependencias y entidades de la administración pública estatal vinculadas con la protección de estos derechos, en los términos que determinen sus respectivos ordenamientos legales y será presidido por el Titular del Poder Ejecutivo Estatal.
 
 Se organizará y funcionará de manera similar al Sistema Nacional de Protección Integral, contará con una Secretaría Ejecutiva y garantizará la participación de los sectores sociales y privado, así como de niñas, niños y adolescentes.
 
-El Sistema Local de Protección Integral se articulará con el Sistema Nacional de Protección a través de su (sic) respectivas Secretarías Ejecutivas.
+> <small>(F. DE E., P.O. 13 DE FEBRERO DE 2016)</small>
+
+El Sistema Local se articulará con el Sistema Nacional de Protección a través de sus respectivas Secretarías Ejecutivas.
 
 El eje rector del Sistema Local será el fortalecimiento familiar con el fin de proteger de forma integral los derechos de niñas, niños y adolescentes de esta entidad.
 
+> <small>(F. DE E., P.O. 13 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 108.
 
-El Sistema Local de Protección Integral tendrá las siguientes atribuciones:
+El Sistema Local tendrá las siguientes atribuciones:
 
 I. Diseñar, generar, ejecutar, coordinar y evaluar políticas públicas, planes, proyectos, protocolos y acciones encaminadas al fortalecimiento de los derechos protegidos por esta Ley y demás disposiciones aplicables; para lo cual procurará la coordinación de esfuerzos interinstitucionales e intersectoriales y de la sociedad civil;
 
@@ -1351,9 +1359,11 @@ XIX. Auxiliar a la Procuraduría Estatal de Protección en las medidas urgentes 
 
 XX. Las demás que le otorguen otras disposiciones jurídicas aplicables.
 
+> <small>(F. DE E., P.O. 13 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 109.
 
-El Sistema Local de Protección estará conformado por:
+El Sistema Local estará conformado por:
 
 A. Poder Ejecutivo Estatal:
 
@@ -1395,17 +1405,25 @@ II. El titular de la Defensoría de los Derechos Humanos del Pueblo de Oaxaca, y
 
 III. Cinco representantes de la Sociedad Civil, seleccionados sobre la base del procedimiento que señale el Reglamento.
 
-Invitados permanentes:
+> <small>(F. DE E., P.O. 13 DE FEBRERO DE 2016)</small>
 
-Serán invitados permanentes a las sesiones del Sistema Local de Protección Integral; un representante del Congreso del Estado; un representante del Poder Judicial del Estado. Los invitados permanentes intervendrán con voz pero sin voto.
+invitados permanentes:
 
-Invitados especiales
+> <small>(F. DE E., P.O. 13 DE FEBRERO DE 2016)</small>
+
+Serán invitados permanentes a las sesiones del Sistema Local, un representante del Congreso del Estado; un representante del Poder Judicial del Estado. Los invitados permanentes intervendrán con voz pero sin voto.
+
+> <small>(F. DE E., P.O. 13 DE FEBRERO DE 2016)</small>
+
+Invitados especiales:
 
 En las sesiones del Sistema Local, participarán, las veces que sean necesarias y de forma especial, personas o instituciones, estatales, nacionales o internacionales, especializadas en la materia; así mismo, participaran Niñas, Niños y Adolescentes seleccionados por el Sistema, quienes solo tendrán voz.
 
+> <small>(F. DE E., P.O. 13 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 110.
 
-El Sistema Local de Protección Integral se reunirá ordinariamente dos veces al año y de forma extraordinaria las veces que sea convocado por la Presidencia a través de la Secretaría Técnica.
+El Sistema Local se reunirá ordinariamente dos veces al año y de forma extraordinaria las veces que sea convocado por la Presidencia a través de la Secretaría Técnica.
 
 Para sesionar válidamente se requerirá un quórum de la mayoría de sus miembros y la asistencia de su Presidente; sus decisiones se tomarán por mayoría de votos y, en caso de empate, el Presidente tendrá voto de calidad.
 
@@ -1413,9 +1431,11 @@ Para sesionar válidamente se requerirá un quórum de la mayoría de sus miembr
 
 Para el mejor cumplimiento de sus funciones, el Sistema Local podrá constituir comisiones encargadas de atender asuntos o materias específicas y emitirá los lineamientos para su integración, organización y funcionamiento, así como para la integración, organización y funcionamiento de los Sistemas Municipales, dichos lineamientos deberán ser publicadas (sic) en el Periódico Oficial del Gobierno del Estado.
 
+> <small>(F. DE E., P.O. 13 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 112.
 
-La coordinación operativa del Sistema Local de Protección recaerá en un órgano administrativo desconcentrado de la Secretaría General de Gobierno, que ejercerá las funciones de Secretaría Ejecutiva.
+La coordinación operativa del Sistema Local recaerá en un órgano administrativo desconcentrado de la Secretaría General de Gobierno, que ejercerá las funciones de Secretaría Ejecutiva.
 
 La Secretaría Ejecutiva tendrá las siguientes atribuciones:
 
@@ -1459,9 +1479,11 @@ IV. Contar con al menos cinco años de experiencia en las áreas correspondiente
 
 V. No haber sido sentenciado por delito doloso o inhabilitado como servidor público.
 
+> <small>(F. DE E., P.O. 13 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 114.
 
-El Sistema Local de Protección Integral, además de las atribuciones señaladas en el artículo 137, tendrá las siguientes:
+El Sistema Local, además de las atribuciones señaladas en el artículo 137, tendrá las siguientes:
 
 I. Diseñar, generar, ejecutar, coordinar y evaluar políticas públicas, planes, proyectos, protocolos y acciones encaminadas al fortalecimiento de los derechos protegidos por esta Ley y demás disposiciones aplicables; para lo cual procurará la coordinación de esfuerzos interinstitucionales e intersectoriales y de la sociedad civil;
 
@@ -1491,7 +1513,9 @@ El eje rector de los Sistemas Municipales será el fortalecimiento familiar con 
 
 Cada Sistema Municipal de Protección Integral contará con una Secretaría Ejecutiva, cuyo titular será nombrado y removido libremente por el Presidente Municipal. Deberá ser ciudadano mexicano; tener más de treinta años; contar con título profesional debidamente registrado y experiencia en materia de asistencia social, quedando exceptuados de este último requisito los municipios de usos y costumbres o sistemas normativos internos.
 
-Los Sistemas Municipales de Protección Integral funcionarán de acuerdo a los lineamientos establecidos por el Sistema Local de Protección Integral.
+> <small>(F. DE E., P.O. 13 DE FEBRERO DE 2016)</small>
+
+Los Sistemas Municipales de Protección Integral funcionarán de acuerdo a los lineamientos establecidos por el Sistema Local.
 
 ###### Artículo 117.
 
@@ -1671,7 +1695,9 @@ SEGUNDO. El Sistema Local y los Sistemas Municipales de Protección deberán int
 
 El Consejo Estatal de los Derechos de los Niños, Niñas y Adolescentes, así como, los Comités Municipales de los Derechos de los Niños, Niñas y Adolescentes, seguirán funcionando hasta en tanto quede integrado el Sistema Local y los Sistema Municipales de Protección de Niñas Niños y Adolescentes, respectivamente.
 
-TERCERO. Los recursos materiales, financieros y humanos de la Secretaría Ejecutiva del Consejo Estatal de los Derechos de los Niños, Niñas y Adolescentes para el Estado de Oaxaca, se transferirá al Órgano Desconcentrado denominado Secretaría Ejecutiva del Sistema Local de Protección de Niñas, Niños y Adolescentes.
+> <small>(F. DE E., P.O. 13 DE FEBRERO DE 2016)</small>
+
+TERCERO. Los recursos materiales, financieros y humanos de la Secretaría Ejecutiva del Consejo Estatal de los Derechos de los Niños, Niñas y Adolescentes para el Estado de Oaxaca, se transferirá al Órgano Desconcentrado denominado Secretaría Ejecutiva del Sistema Local.
 
 Las Secretarías de Finanzas, de Administración, y de la Contraloría y Transparencia Gubernamental, normarán y coordinarán el proceso de entrega recepción conforme al ámbito de su competencia y normatividad vigente, dentro de los treinta días siguientes a la entrada en vigor del presente Decreto.
 
@@ -1693,7 +1719,9 @@ DÉCIMO. Se abroga la Ley de Protección de los Derechos de los Niños, Niñas y
 
 DÉCIMO PRIMERO. Los actos jurídicos y administrativos suscritos por la Procuraduría para la Defensa del Menor, la Mujer y la Familia, se entenderán con la Procuraduría Estatal de Protección de los Derechos de Niñas, Niños y Adolescentes del Estado de Oaxaca.
 
-DÉCIMO SEGUNDO. Los actos jurídicos y administrativos suscritos por la Secretaría Ejecutiva del Consejo Estatal de los Derechos de los Niños, Niñas y Adolescentes para el Estado de Oaxaca, se entenderán con el Órgano Desconcentrado denominado Secretaría Ejecutiva del Sistema Local de Protección de Niñas, Niños y Adolescentes.
+> <small>(F. DE E., P.O. 13 DE FEBRERO DE 2016)</small>
+
+DÉCIMO SEGUNDO. Los actos jurídicos y administrativos suscritos por la Secretaría Ejecutiva del Consejo Estatal de los Derechos de los Niños, Niñas y Adolescentes para el Estado de Oaxaca, se entenderán con el Órgano Desconcentrado denominado Secretaría Ejecutiva del Sistema Local.
 
 DÉCIMO TERCERO. Se derogan todas las disposiciones de igual o menor rango que se opongan a la presente Ley.
 
