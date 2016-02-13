@@ -4,7 +4,7 @@ identifier: "SLP-ley-para-el-ejercicio-de-las-profesiones-en-el-estado-de-14987"
 country: "mx"
 rank: "ley"
 publication_date: "1999-07-08"
-last_updated: "1999-07-08"
+last_updated: "2016-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14987&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "SLP"
 ---
 # LEY PARA EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE SAN LUIS POTOSI
 
-LEY PARA EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE SAN LUIS POTOSI
+LEY PARA EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE SAN LUIS POTOSÍ
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2016.
 
 Ley publicada en la Edición Extraordinaria del Periódico Oficial del Estado de San Luis Potosí, el jueves 8 de julio de 1999.
 
@@ -59,9 +59,17 @@ I. Profesión: el nivel académico que en cualquiera de los conocimientos, aptit
 
 II. Título Profesional: el documento oficial expedido por instituciones autorizadas al efecto en términos de esta Ley, a través del cual se acreditan los estudios, conocimientos, aptitudes, habilidades, destrezas y experiencias, necesarios para ejercer legalmente las profesiones reconocidas y autorizadas en el Estado y en las demás Entidades de la República Mexicana;
 
-III. Grado Académico: el nivel o niveles a partir de la licenciatura, otorgado por la autoridad competente, que al igual que el título profesional, acredita y legitima los estudios, conocimientos, aptitudes, habilidades, destrezas y experiencias, necesarios para ejercer legalmente, en grado mayor de preparación, las profesiones reconocidas y autorizadas en el Estado y en las demás Entidades de la República Mexicana, y
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2016)</small>
 
-IV. Servicio Social: el que en términos de lo establecido en el cuarto párrafo del artículo 5o. de la Constitución Política de los Estados Unidos Mexicanos, en las Leyes General y Estatal de Educación, y en la presente Ley, deben prestar a favor del Estado o la sociedad los estudiantes y profesionistas, éstos últimos mediante retribución.
+III. Grado Académico: el nivel o niveles a partir de la licenciatura, otorgado por la autoridad competente, que al igual que el título profesional, acredita y legitima los estudios, conocimientos, aptitudes, habilidades, destrezas y experiencias, necesarios para ejercer legalmente, en grado mayor de preparación, las profesiones reconocidas y autorizadas en el Estado y en las demás Entidades de la República Mexicana;
+
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2016)</small>
+
+IV. Servicio Social: el que en términos de lo establecido en el cuarto párrafo del artículo 5o. de la Constitución Política de los Estados Unidos Mexicanos, en las Leyes General y Estatal de Educación, y en la presente Ley, deben prestar a favor del Estado o la sociedad los estudiantes y profesionistas, éstos últimos mediante retribución, y
+
+> <small>(ADICIONADA, P.O. 13 DE FEBRERO DE 2016)</small>
+
+V. Secreto Profesional: el derecho y obligación de mantener en secreto la información que se recibe de los clientes o usuarios, en virtud del servicio profesional que se ejerce o presta, así como también todo lo que por descubrimiento personal se llega a saber con motivo de la prestación del mismo. Es necesario que la persona haya confiado esa información a un profesionista, con ocasión del desempeño de sus respectivas actividades profesionales para recibir consejo, ayuda, o la prestación de un servicio; por lo cual, toda aquella información que se reciba y se ubique al margen de la materia y actividad del profesionista, no se entenderá protegida por el secreto profesional.
 
 ###### ARTICULO 4o.
 
@@ -209,9 +217,11 @@ En términos de esta Ley se entiende por ejercicio profesional todo acto tendien
 
 No se entenderá por ejercicio profesional, el proveniente de cualquier acto espontáneo o emergente que se realice en caso de extraordinaria necesidad o gravedad, con el fin de brindar auxilio impostergable a la salud e integridad física de las personas.
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2016)</small>
+
 ###### ARTICULO 20.
 
-Los profesionistas comprendidos en esta Ley, sea cual sea su actividad, quedan obligados a ejercerla bajo los más estrictos principios de la ética y de la probidad profesional; deberán guardar en todo caso, estricta reserva sobre los asuntos o hechos que les sean confiados por sus clientes, a excepción de la información que les soliciten las autoridades competentes conforme a las leyes respectivas.
+Los profesionistas comprendidos en esta Ley, sea cual sea su actividad, quedan obligados a ejercerla bajo los más estrictos principios de la ética y de la probidad profesional; deberán guardar en todo caso, estricta reserva sobre los asuntos o hechos que les sean confiados por sus clientes. El secreto profesional es inviolable.
 
 ###### ARTICULO 21.
 
@@ -460,3 +470,13 @@ El Secretario General de Gobierno
 LIC. JUAN CARLOS BARRON CERDA
 
 (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 13 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0165.- SE REFORMA LOS ARTÍCULOS, 3° EN SUS FRACCIONES, III, Y IV, Y 20; Y ADICIONA AL ARTÍCULO 3° LA FRACCIÓN V, DE Y A LA LEY PARA EL EJERCICIO DE LAS PROFESIONES EN EL ESTADO DE SAN LUIS POTOSÍ”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones legales que se opongan al presente Decreto.
