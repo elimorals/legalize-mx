@@ -4,7 +4,7 @@ identifier: "SLP-ley-estatal-de-proteccion-a-los-animales-del-estado-de-san-7962
 country: "mx"
 rank: "ley"
 publication_date: "1995-03-17"
-last_updated: "2014-11-18"
+last_updated: "2016-02-13"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7962&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SLP"
 
 LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES DEL ESTADO DE SAN LUIS POTOSÍ
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE NOVIEMBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de San Luis Potosí, el viernes 17 de marzo de 1995.
 
@@ -299,13 +299,9 @@ Animales en Espectáculo y en Exhibición.
 
 Las autoridades municipales garantizarán que no se establezcan ni operen espectáculos circenses que utilicen animales vivos con fines de explotación y entretenimiento; la Secretaría de Desarrollo Agropecuario y Recursos Hidráulicos vigilará el cumplimiento de esta disposición
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 28 DE OCTUBRE DE 2014)</small>
-
 ###### ARTICULO 25.
 
-No se autorizarán espectáculos circenses en que se hostigue, maltrate o torture a los animales
+(DEROGADO, P.O. 13 DE FEBRERO DE 2016)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -753,9 +749,11 @@ En caso de no desear continuar con el resguardo y cuidado de los animales, deber
 
 Queda prohibido el abandono de cualquier animal doméstico en la vía pública.
 
+> <small>(REFORMADO, P.O. 13 DE FEBRERO DE 2016)</small>
+
 ###### ARTICULO 77.
 
-Queda prohibido el azuzar un perro o cualquier otro animal para que ataque a las personas o para propiciar peleas entre ellos, como espectáculo callejero o privado, a excepción de lo establecido en el artículo 25 de esta Ley.
+Queda prohibido el azuzar un perro o cualquier otro animal para que ataque a las personas o para propiciar peleas entre ellos, como espectáculo callejero o privado.
 
 ###### ARTICULO 78.
 
@@ -956,3 +954,11 @@ P.O. 18 DE NOVIEMBRE DE 2014.
 Primero. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 13 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 0166.- SE REFORMA EL ARTÍCULO 77; Y DEROGA EL ARTÍCULO 25, DE LA LEY ESTATAL DE PROTECCIÓN A LOS ANIMALES”.]
+
+PRIMERO. Este Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
