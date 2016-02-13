@@ -4,7 +4,7 @@ identifier: "CHH-ley-estatal-de-educacion-del-estado-de-chihuahua-11451"
 country: "mx"
 rank: "ley"
 publication_date: "1997-12-27"
-last_updated: "2016-01-16"
+last_updated: "2016-02-13"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11451&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY ESTATAL DE EDUCACIÓN DEL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE FEBRERO DE 2016.
 
 Ley publicada en el Folleto Anexo del Periódico Oficial del Estado de Chihuahua, el sábado 27 de diciembre de 1997.
 
@@ -2699,7 +2699,11 @@ IV. Suspender el servicio educativo sin que medie motivo justificado, caso fortu
 
 V. No utilizar los libros de texto que la Secretaría de Educación Pública determine para la educación primaria y secundaria;
 
-VI. Expedir certificados, constancias, diplomas o títulos a quienes no cumplan los requisitos aplicables;
+> <small>(REFORMADA, P.O. 13 DE FEBRERO DE 2016)</small>
+
+VI. Expedir certificados, constancias, diplomas, títulos y otorgar grados académicos a quienes no cumplan los requisitos aplicables.
+
+También constituye infracción el expedirlos u otorgarlos en un plazo mayor a seis meses computados a partir del día en que el interesado haya cumplido con los trámites y requisitos para que inicie el proceso respectivo y que la causa sea imputable a la institución educativa.
 
 VII. Dar a conocer, antes de su aplicación, los exámenes o cualesquiera de los instrumentos utilizables para la admisión, acreditación o evaluación, a quienes habrán de presentarlos;
 
@@ -4054,3 +4058,11 @@ El presente Decreto entrará en vigor al día siguiente de su publicación en el
 ###### ARTÍCULO SEGUNDO.
 
 La actual Asociación Estatal de Padres de Familia contará con un plazo de 180 días naturales, contados a partir de la publicación del presente Decreto, para ajustar su acta constitutiva a las nuevas disposiciones.
+
+P.O. 13 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO 1242/2015 I P.O. MEDIANTE EL CUAL SE REFORMA LA FRACCIÓN VI DEL ARTÍCULO 168 DE LA LEY ESTATAL DE EDUCACIÓN Y SE ADICIONA UN PÁRRAFO SEGUNDO A LA MISMA".]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
