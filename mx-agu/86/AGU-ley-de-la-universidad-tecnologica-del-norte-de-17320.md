@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-la-universidad-tecnologica-del-norte-de-17320"
 country: "mx"
 rank: "ley"
 publication_date: "2000-06-26"
-last_updated: "2010-02-15"
+last_updated: "2016-02-15"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17320&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "AGU"
 ---
 # LEY DE LA UNIVERSIDAD TECNOLOGICA DEL NORTE DE AGUASCALIENTES
 
-LEY DE LA UNIVERSIDAD TECNOLOGICA DEL NORTE DE AGUASCALIENTES
+LEY DE LA UNIVERSIDAD TECNOLÓGICA DEL NORTE DE AGUASCALIENTES
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 15 DE FEBRERO DE 2010.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE FEBRERO DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de junio de 2000.
 
@@ -43,7 +43,7 @@ LEY DE LA UNIVERSIDAD TECNOLOGICA DEL NORTE DE AGUASCALIENTES
 
 ### CAPITULO UNICO. Disposiciones Generales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 15 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE FEBRERO DE 2010)</small>
 
 ###### ARTICULO 1o.
 
@@ -73,7 +73,9 @@ III. Someter los planes y programas de estudio, así como sus adiciones o reform
 
 IV. Expedir certificados de estudios, títulos, diplomas, reconocimientos, distinciones especiales y otros que así se requieran conforme a las disposiciones aplicables;
 
-V. Planear, formular y desarrollar sus programas de investigación tecnológica e impulsar ésta;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2016)</small>
+
+V. Planear, formular, desarrollar y operar programas y acciones de investigación tecnológica y servicios tecnológicos, prestar servicios de asesorías, apoyo administrativo y técnico, capacitación técnica, elaboración y desarrollo de proyectos de ingeniería, supervisión, estudios y actividades en materia de seguridad, salud, medio ambiente, estudios y desarrollo de proyectos geológicos, exploración, explotación y producción de hidrocarburos y servicios diversos al sector público, social y privado;
 
 VI. Ajustar el calendario escolar al aprobado por la autoridad educativa competente;
 
@@ -95,13 +97,21 @@ XIII. Impulsar estrategias de participación y concertación con los sectores p�
 
 XIV. Administrar libremente su patrimonio con sujeción al marco legal que le impone su carácter de organismo público descentralizado;
 
-> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2016)</small>
 
-XV. Expedir las disposiciones necesarias a fin de hacer efectivas las atribuciones que esta Ley le confiere para el cumplimiento de su objeto; y
+XV. Promover una educación integral mediante la formación humanística, cívica, cultural y deportiva de sus alumnos;
 
-> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2010)</small>
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2016)</small>
 
-XVI. Impartir educación superior tecnológica con una duración no menor de dos años posteriores al bachillerato, conducente a la obtención del título de: "Técnico Superior Universitario"; así como programas de continuidad de estudios para sus egresados y para los de otras Instituciones de Educación Superior que impartan el mismo tipo educativo, que permitan a los estudiantes alcanzar el nivel académico de licenciatura y postgrado, conforme a las disposiciones aplicables, considerando para tal efecto, los planes y programas de estudio, carreras y modalidades educativas que apruebe la Secretaría de Educación Pública, a través de la Coordinación General de Universidades Tecnológicas, en tanto se constituye el Consejo de Universidades Tecnológicas, los cuales deberán garantizar una formación profesional y una cultura científica y tecnológica.
+XVI. Realizar investigación en las áreas de su competencia que permitan el avance del conocimiento, que fortalezcan la enseñanza tecnológica y el mejor aprovechamiento social de los recursos naturales y materiales que contribuyan a elevar la calidad de vida de la sociedad;
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2016)</small>
+
+XVII. Impartir educación superior tecnológica con una duración no menor de dos años posteriores al bachillerato, conducente a la obtención del título de: "Técnico Superior Universitario"; así como programas de continuidad de estudios para sus egresados y para los de otras Instituciones de Educación Superior que impartan el mismo tipo educativo, que permitan a los estudiantes alcanzar el nivel académico de licenciatura y postgrado, conforme a las disposiciones aplicables, considerando para tal efecto, los planes y programas de estudio, carreras y modalidades educativas que apruebe la Secretaría de Educación Pública, a través de la Coordinación General de Universidades Tecnológicas y Politécnicas, en tanto se constituye el Consejo de Universidades Tecnológicas, los cuales deberán garantizar una formación profesional y una cultura científica y tecnológica; y
+
+> <small>(ADICIONADA, P.O. 15 DE FEBRERO DE 2016)</small>
+
+XVIII. Expedir las disposiciones necesarias a fin de hacer efectivas las atribuciones que esta Ley le confiere para el cumplimiento de su objeto.
 
 ## TITULO SEGUNDO. DE LOS ORGANOS DE LA UNIVERSIDAD
 
@@ -123,7 +133,7 @@ V. Los órganos colegiados que señale el Reglamento Interior.
 
 ### CAPITULO II. Del Consejo Directivo
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 19 DE JULIO DE 2004)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE JULIO DE 2004)</small>
 
 ###### ARTICULO 5o.
 
@@ -177,7 +187,9 @@ A las sesiones del Consejo Directivo asistirán el Rector y el Comisario con voz
 
 Corresponderá al Consejo Directivo:
 
-I. Designar al Rector de la Universidad a propuesta del titular del Ejecutivo Estatal, y resolver acerca de su renuncia y remoción;
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2016)</small>
+
+I. Proponer al Gobernador, a la persona que pueda ocupar el cargo de Rector, así como opinar en el caso de renuncia y remoción;
 
 II. Designar a los titulares de los Organos de Gobierno a que se refieren las Fracciones III, IV y V del Artículo 4º de la presente Ley, a propuesta del Rector;
 
@@ -223,9 +235,11 @@ XX. Las demás que le sean conferidas en este ordenamiento y en las disposicione
 
 ### CAPITULO III. Del Rector
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2016)</small>
+
 ###### ARTICULO 10.
 
-El Rector será el titular de la administración de la Universidad y su representante legal; durará en su cargo tres años, pudiendo ser designado nuevamente para un solo período adicional.
+El Rector será el titular de la administración de la Universidad y su representante legal, durará en su cargo cuatro años, pudiendo ser ratificado por un período más.
 
 ###### ARTICULO 11.
 
@@ -269,13 +283,23 @@ XI. Conocer de las infracciones a las disposiciones legales de la institución y
 
 XII. Asistir a las sesiones del Consejo Directivo con voz pero sin voto;
 
-XIII. Proponer al Consejo Directivo los nombramientos y remociones de los funcionarios de las áreas académicas y administrativas de la Universidad; y
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2016)</small>
 
-XIV. Las demás que le otorguen las disposiciones legales aplicables.
+XIII. Proponer al Consejo Directivo los nombramientos y remociones de los funcionarios de las áreas académicas y administrativas de la Universidad;
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2016)</small>
+
+XIV. Expedir constancias, diplomas, certificaciones y demás documentos que conforme a las disposiciones aplicables deba firmar, pudiendo delegar esta facultad en los titulares de las Secretarías y Direcciones respecto de la información y documentación de sus respectivas áreas; y
+
+> <small>(REFORMADA, P.O. 15 DE FEBRERO DE 2016)</small>
+
+XV. Las demás que le otorguen las disposiciones legales aplicables.
+
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2016)</small>
 
 ###### ARTICULO 13.
 
-En sus ausencias temporales, que no excedan de 15 días, el Rector será sustituido por el Director de Vinculación.
+Las ausencias del Rector menores de quince días, serán suplidas por el servidor público que él designe, las mayores a dicho plazo, por la persona que acuerde el Consejo Directivo. En el caso de ausencia definitiva, será nombrado un nuevo Rector, por parte del Gobernador del Estado en términos de este ordenamiento y de la Ley para el Control de las Entidades Paraestatales del Estado de Aguascalientes.
 
 ### CAPITULO IV. Del Patronato
 
@@ -365,21 +389,23 @@ VII. Las demás que le encomienden las disposiciones legales aplicables.
 
 ### CAPITULO UNICO. Disposiciones Generales
 
+> <small>(REFORMADO, P.O. 15 DE FEBRERO DE 2016)</small>
+
 ###### ARTICULO 22.
 
 El patrimonio de la Universidad estará constituido por los bienes y recursos que a continuación se enumeran:
 
-I. Los ingresos que obtenga por los servicios que preste en el cumplimiento de su objeto, los cuales serán administrados y operados libremente por la Universidad contando con la previa aprobación de su Consejo Directivo;
+I.- Los ingresos que obtenga por los servicios que preste la Universidad;
 
-II. Las aportaciones, subsidios y apoyos que le otorguen los Gobiernos Federal, Estatal y Municipal y los organismos del sector social y privado que coadyuven a su funcionamiento;
+II.- Las aportaciones, subsidios y apoyos que le otorguen los Gobiernos Federal, Estatal y Municipales y los organismos de los sectores social y privado que coadyuven a su funcionamiento;
 
-III. Los legados y donaciones otorgados en su favor y los fideicomisos en que se le señale como fideicomisaria;
+III.- Los legados y donaciones otorgados en su favor y los fideicomisos en que se le señale como fideicomisaria;
 
-IV. Los derechos, bienes muebles e inmuebles que adquiera por cualquier título jurídico para el cumplimiento de su objeto;
+IV.- Los derechos, bienes muebles e inmuebles que adquiera por cualquier título jurídico para el cumplimiento de su objeto; y
 
-V. Las utilidades, intereses, dividendos, rendimiento de sus bienes y demás ingresos que adquiera por cualquier título legal; y
+V.- Las utilidades, intereses, dividendos, rendimiento de sus bienes, así como los demás ingresos que adquiera por cualquier título legal.
 
-VI. Los empréstitos y débitos que tenga y adquiera de conformidad con las leyes estatales de la materia.
+Los ingresos propios que obtenga la Universidad, por concepto de cuotas de alumnos, donaciones, derechos, servicios que preste y remanentes, serán integrados al patrimonio de dicha institución educativa y no podrán ser contabilizados bajo ninguna circunstancia como aportaciones de la Secretaría de Educación Pública Federal o del Gobierno del Estado. Dichos recursos serán administrados y operados libremente por la Universidad y se canalizarán prioritariamente a proyectos académicos y de infraestructura encaminados a la adecuación, ampliación, reposición y/o sustitución de los equipos de talleres y laboratorios, contando con la previa aprobación del Consejo Directivo de la Universidad.
 
 ###### ARTICULO 23.
 
@@ -469,7 +495,7 @@ EL SECRETARIO GENERAL DE GOBIERNO
 
 Lic. Abelardo Reyes Sahagún.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 19 DE JULIO DE 2004.
 
@@ -486,3 +512,15 @@ El presente Decreto entrará en vigencia al día siguiente de su publicación en
 ###### ARTÍCULO SEGUNDO.
 
 Las adecuaciones a la normatividad interna de la Universidad Tecnológica del Norte de Aguascalientes, se deberán expedir en un término que no exceda de 90 días a partir de la entrada en vigencia de este Decreto.
+
+P.O. 15 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 306.- REFORMAS Y ADICIONES A LA LEY DE LA UNIVERSIDAD TECNOLÓGICA DEL NORTE DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciara su vigencia a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+El Rector de la Universidad que se encuentre en funciones a la fecha de inicio de vigencia del presente Decreto, continuará en su cargo, hasta concluir un periodo de cuatro años, contados a partir del momento en que tomó posesión del cargo de Rector.
