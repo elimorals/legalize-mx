@@ -4,7 +4,7 @@ identifier: "JAL-ley-de-expropiacion-de-bienes-muebles-e-inmuebles-de-6096"
 country: "mx"
 rank: "ley"
 publication_date: "1923-05-16"
-last_updated: "1993-07-22"
+last_updated: "2016-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6096&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY DE EXPROPIACION DE BIENES MUEBLES E INMUEBLES DE PROPIEDAD PRIVADA
 
-LEY DE EXPROPIACION DE BIENES MUEBLES E INMUEBLES DE PROPIEDAD PRIVADA
+LEY DE EXPROPIACIÓN DE BIENES MUEBLES E INMUEBLES DE PROPIEDAD PRIVADA DEL ESTADO DE JALISCO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 22 DE JULIO DE 1993.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Jalisco, el miércoles 16 de mayo de 1923.
 
@@ -131,11 +131,11 @@ Cuando la indemnización deba cubrirse con fondos públicos, se librará, de pla
 
 En los casos previstos por las partes segunda y tercera del artículo siete, el Ejecutivo, por conducto del Ministerio Público, enviará copia de su resolución y de las constancias conducentes, al Juez de lo Civil del Partido Judicial en que se encuentren los bienes. Cuando éstos se hallen situados en dos o más Partidos Judiciales, y sean de un solo dueño, tendrá competencia el Juez que elija el Ejecutivo entre los de esos Partidos.
 
-> <small>(REFORMADO, P.O. 12 DE ABRIL DE 1990)</small>
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2016)</small>
 
 ###### Art. 10.
 
-Las diligencias judiciales de que habla esta Ley, serán por escrito, y en ellas representará al Ejecutivo, el Procurador General de Justicia o el funcionario de la Procuraduría que él designe, teniendo en su caso aplicación, lo dispuesto por el Art. 49, del Código de Procedimientos Civiles.
+Las diligencias Judiciales de que habla esta Ley, serán por escrito, y en ellas representará al Ejecutivo, el Fiscal General o el funcionario de la Fiscalía que él designe, teniendo en su caso aplicación, lo dispuesto por el artículo 49 del Código de Procedimientos Civiles del Estado de Jalisco.
 
 ###### Art. 11.
 
@@ -268,3 +268,9 @@ P.O. 22 DE JULIO DE 1993.
 Primero.- Esta reforma entrará en vigor a los sesenta días de su publicación en el Periódico Oficial "El Estado de Jalisco".
 
 Segundo.- Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+P.O. 16 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 25790/LXI/16 QUE REFORMA EL ARTÍCULO 10 DE LA LEY DE EXPROPIACIÓN DE BIENES MUEBLES E INMUEBLES DE PROPIEDAD PRIVADA”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
