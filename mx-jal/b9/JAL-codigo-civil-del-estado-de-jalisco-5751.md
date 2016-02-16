@@ -4,7 +4,7 @@ identifier: "JAL-codigo-civil-del-estado-de-jalisco-5751"
 country: "mx"
 rank: "codigo"
 publication_date: "1995-02-25"
-last_updated: "2015-09-05"
+last_updated: "2016-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=5751&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "JAL"
 
 CÓDIGO CIVIL DEL ESTADO DE JALISCO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 5 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2016.
 
 Código publicado en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 25 de febrero de 1995.
 
@@ -2537,15 +2537,33 @@ Esta causal podrá ser invocada por cualquiera de los cónyuges, si transcurrido
 
 Cuando un cónyuge demande el divorcio o la ilegitimidad del matrimonio por causas que no justifique o que hayan resultado insuficientes, el demandado tiene a su vez el derecho de pedir el divorcio, pero no podrá hacerlo sino pasados tres meses de la notificación de la sentencia que cause estado o de la resolución que decrete la caducidad de la instancia. Durante esos tres meses, los cónyuges no están obligados a vivir juntos.
 
-> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2007)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 16 DE FEBRERO DE 2016)</small>
 
-Art. 405 bis.- El divorcio administrativo procede cuando ambos cónyuges convengan en divorciarse, sean mayores de edad, no tengan hijos vivos o concebidos dentro de matrimonio, de común acuerdo hubieren liquidado la sociedad conyugal o legal en los términos del presente documento y tengan más de un año de casados.
+Art. 405 bis.- El divorcio administrativo procede cuando:
+
+I. Ambos cónyuges convengan en divorciarse;
+
+II. Se trate de mayores de edad;
+
+III. Los cónyuges no tengan hijos vivos o concebidos dentro de matrimonio, o teniéndolos, sean mayores de edad, capaces y no requieran alimentos;
+
+IV. Hubieren liquidado la sociedad conyugal o legal; y
+
+V. Tengan más de un año de casados.
+
+(ADICIONADO, P.O. 2 DE ENERO DE 2007) (REPUBLICADO, P.O. 16 DE FEBRERO DE 2016)
 
 Se presentarán personalmente al Oficial del Registro Civil del lugar de su domicilio, comprobarán con las copias certificadas respectivas que son casados, mayores de edad, que han liquidado su sociedad legal o conyugal si fuera el caso, la ingravidez de la cónyuge y manifestarán bajo protesta de decir verdad que los hechos declarados son ciertos y de manera terminante y explícita, su voluntad de divorciarse.
 
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2007)</small>
+
 El Oficial del Registro Civil, previa identificación de los cónyuges, levantará un acta en la que hará constar la solicitud de divorcio y citará a los cónyuges transcurridos treinta días naturales para que la ratifiquen personalmente. Durante ese lapso, los solicitantes deberán acudir al Sistema para el Desarrollo Integral de la Familia, estatal o municipal, con personal de trabajo social con capacitación en terapia de pareja o a cualquier otra institución acreditada, quienes procurarán avenirlos y se les extenderá una constancia que deberá entregar al Oficial del Registro Civil en la audiencia de ratificación. Ratificada la solicitud, el Oficial del Registro Civil los declarará divorciados, levantará el acta de divorcio y hará las anotaciones correspondientes.
 
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2007)</small>
+
 Las personas así divorciadas podrán volver a contraer matrimonio civil transcurrido un año de que se haya levantado el acta de divorcio.
+
+> <small>(ADICIONADO, P.O. 2 DE ENERO DE 2007)</small>
 
 Si se comprueba que los cónyuges no cumplen con los supuestos exigidos, el divorcio así obtenido no surtirá efectos legales, independientemente de las sanciones previstas en las leyes.
 
@@ -17579,9 +17597,9 @@ Por razón de delito son incapaces de adquirir por testamento o por intestado:
 
 I. El que haya sido condenado por haber dado, mandado o intentado dar muerte a la persona de cuya sucesión se trate o a los ascendientes, descendientes, cónyuge, concubina o concubinario o colaterales hasta el cuarto grado;
 
-> <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2001)</small>
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2016)</small>
 
-II. El que haya hecho contra el autor de la sucesión, sus ascendientes, descendientes, cónyuge, concubina o concubinario o colaterales hasta el cuarto grado, acusación de delito que merezca pena capital o de prisión, aun cuando aquella sea fundada, si fuere su descendiente, su ascendiente, su cónyuge o su hermano, a no ser que ese acto haya sido preciso para que el acusador salvara su vida, su honra o la de sus ascendientes, descendientes, cónyuge, concubina o concubinario o hermanos;
+II. El que haya hecho contra el autor de la sucesión, sus ascendientes, descendientes, cónyuge, concubina o concubinario o colaterales hasta el cuarto grado, acusación de delito que merezca pena privativa de la libertad personal o deambulatoria, aun cuando aquella sea fundada, si fuere su descendiente, su ascendiente, su cónyuge o su hermano, a no ser que ese acto haya sido preciso para que el acusador salvara su vida, su honra o la de sus ascendientes, descendientes, cónyuge, concubina o concubinario o hermanos;
 
 III. El cónyuge que mediante juicio ha sido declarado adúltero, si se trata de suceder al cónyuge inocente;
 
@@ -19076,3 +19094,15 @@ Los procedimientos iniciados en el Hogar Cabañas y en los Consejos Municipales 
 DÉCIMO CUARTO. La Procuraduría de Protección de Niñas, Niños y Adolescentes se subroga en todos los contratos, convenios y demás instrumentos jurídicos suscritos por el Consejo Estatal de Familia en materia de niñas, niños y adolescentes.
 
 DÉCIMO QUINTO. Se instruye a la Secretaría General de este Congreso, una vez publicado este decreto, comunicar de inmediato a los Ayuntamientos, por conducto de los presidentes municipales correspondientes, para que expidan la regulación y adopten las medidas previstas por esta Ley.
+
+P.O. 16 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25791/LXI/16 QUE REFORMA EL ARTÍCULO 2957 EN SU FRACCIÓN II DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Jalisco".
+
+P.O. 16 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25793/LXI/16 QUE REFORMA EL ARTÍCULO 405 BIS DEL CÓDIGO CIVIL DEL ESTADO DE JALISCO”.]
+
+ÚNICO. El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco”.
