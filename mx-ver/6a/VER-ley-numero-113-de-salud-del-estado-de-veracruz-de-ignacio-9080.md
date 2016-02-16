@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-113-de-salud-del-estado-de-veracruz-de-ignacio-9080"
 country: "mx"
 rank: "ley"
 publication_date: "1988-05-17"
-last_updated: "2016-02-09"
+last_updated: "2016-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 9 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE FEBRERO DE 2016.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 17 de mayo de 1988.
 
@@ -52,6 +52,10 @@ DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 ###### ARTICULO 1°.
 
 La presente Ley reglamenta el derecho a la protección de la salud, que toda persona tiene, contenido en el artículo 4° de la Constitución Política de los Estados Unidos Mexicanos, establece las bases y modalidades de acceso a los servicios de salud proporcionados por el Estado y la concurrencia de éste y sus municipios, en la forma en que dispongan los reglamentos respectivos, o en su caso a través de convenios celebrados a tal efecto, en materia de salubridad general y local, es de aplicación en el Estado de Veracruz, siendo sus disposiciones de orden público e interés social.
+
+> <small>(ADICIONADO, G.O. 16 DE FEBRERO DE 2016)</small>
+
+La igualdad, la no discriminación y el respeto a la dignidad y la libertad de las personas serán los principios rectores en materia de salud.
 
 ###### ARTICULO 2°.
 
@@ -197,7 +201,9 @@ IV.- Servicios de Salud: el organismo público descentralizado del Gobierno del 
 
 V.- Régimen: al Régimen Estatal de Protección Social en Salud, que es el Organismo Público Descentralizado sectorizado a la Secretaría de Salud, encargado de garantizar las acciones de protección social en salud mediante el financiamiento y la coordinación eficiente, oportuna y sistemática de la provisión de los servicios de salud a la persona en el Sistema; el cual deberá realizar sus actividades de manera independiente de la provisión de servicios de salud;
 
-VI.- Atención médica: al conjunto de servicios que se proporcionen al individuo con el fin de proteger, promover y restaurar su salud;
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2016)</small>
+
+VI. Atención médica: Al conjunto de servicios que se proporcionen a la persona con el fin de proteger, promover y restaurar su salud.
 
 VII.- Sistema; al Sistema de Protección Social en Salud a que se refiere los artículos 330 y 331 de esta Ley; y
 
@@ -233,7 +239,9 @@ El Sistema Estatal de Salud, con la intervención que corresponde al Comité de 
 
 El Sistema Estatal de Salud tiene los siguientes objetivos:
 
-I.- Proporcionar servicios de salud a toda la población del Estado y mejorar la calidad de los mismos atendiendo a los problemas sanitarios prioritarios del Estado y a los factores que condicionen y causen daños a la salud, con especial interés en las acciones preventivas.
+> <small>(REFORMADA, G.O. 16 DE FEBRERO DE 2016)</small>
+
+I.- Proporcionar, a todas las personas, servicios de salud en el Estado y mejorar la calidad de los mismos atendiendo a los problemas sanitarios prioritarios del Estado y a los factores que condicionen y causen daños a la salud, con especial interés en las acciones preventivas.
 
 II.- Contribuir al adecuado y armónico desarrollo demográfico del Estado.
 
@@ -493,9 +501,11 @@ La Secretaría de Salud y Asistencia del Estado, coadyuvará con las demás depe
 
 ### CAPITULO II. ATENCION MEDICA
 
+> <small>(REFORMADO, G.O. 16 DE FEBRERO DE 2016)</small>
+
 ###### ARTICULO 34.
 
-Se entiende por atención médica el conjunto de servicios que se proporcionan al individuo con el fin de proteger, promover y restaurar su salud.
+Se entiende por atención médica el conjunto de servicios que se proporcionan a la persona con el fin de proteger, promover y restaurar su salud.
 
 ###### ARTICULO 35.
 
@@ -506,6 +516,12 @@ I.- Preventivas, que incluyen las de promoción general y las de protección esp
 II.- Curativas, que tienen como fin efectuar un diagnóstico temprano y proporcionar tratamiento oportuno.
 
 III.- De rehabilitación, que incluyen acciones tendientes a corregir las invalideces físicas o mentales.
+
+> <small>(ADICIONADO, G.O. 16 DE FEBRERO DE 2016)</small>
+
+###### ARTICULO 35 Bis.
+
+Las personas migrantes, independientemente de su situación legal, tendrán derecho a recibir de manera gratuita y sin discriminación alguna, la atención médica urgente que requieran, para salvaguardar su vida e integridad.
 
 ### CAPITULO III. PRESTADORES DE SERVICIOS DE SALUD
 
@@ -3110,3 +3126,11 @@ G.O. 9 DE FEBRERO DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto
+
+G.O. 16 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 859 QUE ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 1° Y UN ARTÍCULO 35 BIS; Y REFORMA LA FRACCIÓN VI DEL ARTÍCULO 4°, LA FRACCIÓN I DEL ARTÍCULO 6° Y EL ARTÍCULO 34; TODOS DE LA LEY DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
