@@ -4,7 +4,7 @@ identifier: "JAL-ley-del-centro-de-atencion-para-las-victimas-del-delito-12132"
 country: "mx"
 rank: "ley"
 publication_date: "1998-03-07"
-last_updated: "2009-10-24"
+last_updated: "2016-02-16"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=12132&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,9 @@ state: "JAL"
 ---
 # LEY DEL CENTRO DE ATENCION PARA LAS VICTIMAS DEL DELITO
 
-LEY DEL CENTRO DE ATENCION PARA LAS VICTIMAS DEL DELITO
+LEY DEL CENTRO DE ATENCIÓN PARA LAS VÍCTIMAS DEL DELITO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 24 DE OCTUBRE DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2016.
 
 Ley publicada en la Sección Segunda del Periódico Oficial del Estado de Jalisco, el sábado 7 de marzo de 1998.
 
@@ -123,9 +123,9 @@ El Consejo de Administración será el órgano máximo de gobierno, y se integra
 
 I.- Un Presidente que será el Gobernador del Estado o quien él designe;
 
-> <small>(REFORMADA, P.O. 1 DE MAYO DE 2003)</small>
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2016)</small>
 
-II.- Un vicepresidente que será el Procurador General de Justicia del Estado de Jalisco, o la persona que él designe;
+II.- Un Vicepresidente que será el Fiscal General del Estado de Jalisco o la persona que él designe;
 
 III.- Un Secretario del Consejo que será el Director General del Centro;
 
@@ -133,11 +133,11 @@ IV.- Un vocal que represente a cada una de las siguientes dependencias:
 
 a) Al Supremo Tribunal de Justicia;
 
-b) La Secretaría de Finanzas;
+> <small>(REFORMADO, P.O. 16 DE FEBRERO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 1 DE MAYO DE 2003)</small>
+b) La Secretaría de Planeación, Administración y Finanzas;
 
-c) La Secretaría de Seguridad Pública, Prevención y Readaptación social del Estado de Jalisco;
+c) (DEROGADO, P.O. 16 DE FEBRERO DE 2016)
 
 d) La Comisión Estatal de Derechos Humanos;
 
@@ -309,7 +309,7 @@ V.- Las demás que le atribuyan otras disposiciones legales y administrativas.
 
 ### CAPITULO SEXTO. De los Derechos de la Víctima del Delito
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 1 DE MAYO DE 2003)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 1 DE MAYO DE 2003)</small>
 
 ###### Artículo 21.
 
@@ -335,7 +335,9 @@ VII.- A comparecer por sí o a través de su representante a las audiencias y al
 
 VIII.- A participar en la diligencia de identificación del probable responsable, en un lugar en donde no pueda ser vista por éste, si así lo solicita, cuando se trate de delitos contra la libertad sexual y normal desarrollo psicosexual, así como por delitos graves calificados por el Código Penal;
 
-IX.- A impugnar por vía judicial, en los términos que la legislación señale, las resoluciones que nieguen el ejercicio de la acción penal, el desistimiento de la misma, y las conclusiones no acusatorias, ratificadas por el Procurador General de Justicia; y
+> <small>(REFORMADA, P.O. 16 DE FEBRERO DE 2016)</small>
+
+IX.- A impugnar por vía judicial, en los términos que la legislación señale, las resoluciones que nieguen el ejercicio de la acción penal, el desistimiento de la misma, y las conclusiones no acusatorias, ratificadas por el Fiscal General del Estado; y
 
 X.- Los demás que le otorguen las leyes en esta materia.
 
@@ -501,7 +503,7 @@ El C. Secretario General de Gobierno
 
 Lic. Raúl Octavio Espinoza Martínez
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 1 DE MAYO DE 2003.
 
@@ -514,3 +516,9 @@ PRIMERO. El presente decreto entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Se derogan las disposiciones que se opongan al presente.
 
 TERCERO. Los delegados institucionales privados que estén debidamente acreditados, seguirán en funciones y se regularán observando las normas contenidas en la Ley vigente al momento de su acreditación.
+
+P.O. 16 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO 25792/LXI/16 QUE REFORMA LOS ARTÍCULOS 8° Y 21 DE LA LEY DEL CENTRO DE ATENCIÓN PARA LAS VÍCTIMAS DEL DELITO”.]
+
+Único. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Jalisco".
