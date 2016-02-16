@@ -4,7 +4,7 @@ identifier: "GRO-ley-organica-del-poder-legislativo-del-estado-de-guerrero-14456
 country: "mx"
 rank: "ley_organica"
 publication_date: "1999-06-11"
-last_updated: "2016-02-02"
+last_updated: "2016-02-16"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=14456&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "GRO"
 
 LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 286
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 16 DE FEBRERO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Guerrero, el viernes 11 de junio de 1999.
 
@@ -783,6 +783,10 @@ XXXI. De Atención y Desarrollo de las Personas con Discapacidad; y
 
 XXXII. De Atención y Desarrollo de las Personas Adultas Mayores.
 
+> <small>(ADICIONADA, P.O. 16 DE FEBRERO DE 2016)</small>
+
+XXXIII. Del Agua, Infraestructura y Recursos Hidráulicos.
+
 Las Comisiones anteriormente enunciadas, podrán ser incrementadas a juicio del Congreso, y tendrán a su cargo el trámite y la resolución de los asuntos relacionados con su competencia, así como las que expresamente les delegue el Pleno.
 
 ###### Artículo 50.
@@ -1013,7 +1017,7 @@ II. Los relativos a los programas de obra pública que ejecuten el Gobierno del 
 
 III. Los que se refieren al desarrollo urbano, asentamientos humanos, viviendas y fraccionamientos populares;
 
-IV. Los que se relacionen con el Sistema Estatal de Agua Potable y Alcantarillado y los Sistemas Municipales de Agua Potable y Alcantarillado;
+IV. (DEROGADA, P.O. 16 DE FEBRERO DE 2016)
 
 V. Los relativos a la construcción de caminos;
 
@@ -1346,6 +1350,26 @@ IX. Promoción de eventos para la manifestación de las ideas, capacidades y apt
 X. Realización de actividades que fortalezcan la formación y desarrollo cultural de los adultos mayores, y
 
 XI. Los demás asuntos que le sean turnados por el Pleno del Congreso o la Comisión Permanente, en su caso, que no sean competencia exclusiva de otra comisión.
+
+> <small>(ADICIONADO, P.O. 16 DE FEBRERO DE 2016)</small>
+
+###### Artículo 77 Bis 3.
+
+Corresponde a la Comisión del Agua, Infraestructura y Recursos Hidráulicos conocer de los asuntos siguientes:
+
+I.- Los que se refieran a la expedición, reformas, adiciones y derogación de la legislación estatal de la materia.
+
+II.- Los concernientes a los servicios de agua potable, saneamiento, alcantarillado, así como el tratamiento y disposición de aguas residuales.
+
+III.- Los relacionados a la preservación, conservación y cuidado del agua, así como, proponer y dictaminar en materia de infraestructura hidráulica y de los recursos hídricos e hidráulicos.
+
+IV.- Ser el enlace con la Comisión de Agua Potable Alcantarillado y Saneamiento del Estado de Guerrero, los organismos municipales o paramunicipales de agua potable y con las demás entidades, delegaciones y organismos relacionados con la materia.
+
+V.- Impulsar a través del órgano correspondiente, la transparencia y fiscalización en la asignación y aplicación de los recursos destinados a infraestructura hidráulica y a los diversos programas concernientes a los recursos hídricos e hidráulicos.
+
+VI.- Atender y recibir de las direcciones de los organismos estatales y municipales las consultas y propuestas para emitir opiniones y dictámenes que los operadores facultados para ello, hagan llegar a la Comisión; así como conocer y atender todos los asuntos relacionados con la problemática en la entidad y los municipios.
+
+VII.- Los demás análogos que, a juicio del Presidente del Congreso o de la Comisión Permanente, en su caso, le sean turnados.
 
 > <small>(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2002)</small>
 
@@ -2793,7 +2817,7 @@ Publíquese en el Periódico Oficial del Gobierno del Estado, no requiriendo la 
 
 P.O. 14 DE AGOSTO DE 2015.
 
-## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 857 POR MEDIO DEL CUAL SE ADICIONA LA FRACCIÓN XXX, AL ARTÍCULO 49 Y EL ARTÍCULO 64 BIS, A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 286".]
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 857 POR MEDIO DEL CUAL SE ADICIONA LA FRACCIÓN XXX, AL ARTÍCULO 49 Y EL ARTÍCULO 64 BIS, A LA LEY ORGÁNICA DEL PODER LEGISLATIVO DEL ESTADO DE GUERRERO NÚMERO 286”.]
 
 ###### ARTÍCULO PRIMERO.
 
@@ -2822,3 +2846,15 @@ Remítase al Titular del Poder Ejecutivo, para su conocimiento y efectos legales
 ###### ARTICULO TERCERO.
 
 Publíquese en el Periódico Oficial del Gobierno del Estado para su conocimiento general.
+
+P.O. 16 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 171 POR EL QUE SE ADICIONAN LA FRACCIÓN XXXIII AL ARTÍCULO 49 Y EL ARTÍCULO 77 BIS 3 Y SE DEROGA LA FRACCIÓN IV DEL ARTÍCULO 62 DE LA LEY ORGÁNICA DEL PODER LEGISLATIVO NÚMERO 286”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO. El Honorable Congreso del Estado de Guerrero, mediante la Comisión de Gobierno formalizara las acciones correspondientes, para la designación de los Integrantes de la Comisión Ordinaria motivo del presente Decreto, quienes a la brevedad deberán rendir respectivamente su propuesta.
+
+TERCERO. Remítase al Titular del Poder Ejecutivo, para su conocimiento y efectos legales procedentes.
+
+CUARTO. Publíquese en el Periódico Oficial del Gobierno del Estado y en la página oficial web de este Poder Legislativo.
