@@ -4,7 +4,7 @@ identifier: "VER-codigo-civil-para-el-estado-de-veracruz-de-ignacio-de-la-2667"
 country: "mx"
 rank: "codigo"
 publication_date: "1932-09-15"
-last_updated: "2015-05-26"
+last_updated: "2016-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2667&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 CÓDIGO CIVIL PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 26 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE FEBRERO DE 2016.
 
 Código publicado en el Suplemento Especial de la Gaceta Oficial del Estado de Veracruz-Llave, el 15 de septiembre de 1932.
 
@@ -1360,6 +1360,12 @@ La obligación de dar alimentos es recíproca. El que los da tiene a su vez el d
 ARTICULO 233
 
 Los cónyuges deben darse alimentos; la Ley determinará cuándo queda subsistente esta obligación en los casos de divorcio y otros que la misma Ley señale. Los concubinos están obligados, en igual forma, a darse alimentos si se satisfacen los requisitos señalados por el artículo 1568.
+
+> <small>(ADICIONADO, G.O. 17 DE FEBRERO DE 2016)</small>
+
+ARTICULO 233 BIS
+
+La mujer que demande el pago de alimentos con el argumento de que se dedicó preponderantemente al trabajo del hogar o al cuidado y educación de los hijos, tiene a su favor la presunción de necesitarlos.
 
 ARTICULO 234
 
@@ -16372,3 +16378,11 @@ G.O. 26 DE MAYO DE 2015.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial. Órgano del Gobierno del Estado de Veracruz de Ignacio de la Llave.
 
 SEGUNDO. En un plazo no mayor de ciento veinte días naturales, contado a partir del inicio de vigencia de la presente resolución, se deberá adecuar la normativa interna de la Secretaría de Finanzas y Planeación del Gobierno del Estado a lo dispuesto en este Decreto, y emitirse las reglas de operación del Registro Estatal de Certificados Digitales.
+
+G.O. 17 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 862 QUE ADICIONA EL ARTÍCULO 233 BIS AL CÓDIGO CIVIL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
