@@ -4,7 +4,7 @@ identifier: "CHH-ley-para-prevenir-y-eliminar-la-discriminacion-en-el-estado-568
 country: "mx"
 rank: "ley"
 publication_date: "2007-07-07"
-last_updated: "2013-02-09"
+last_updated: "2016-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56863&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE CHIHUAHUA
 
 > <small>N. DE E. DE ACUERDO A LO DISPUESTO EN EL ARTÍCULO SEGUNDO TRANSITORIO DEL DECRETO NÚMERO 859/2012, PUBLICADO EN EL P.O. 26 DE SEPTIEMBRE DE 2012, CUANDO EN CUALQUIER OTRO INSTRUMENTO JURÍDICO SE HAGA REFERENCIA A LA SECRETARÍA DE FOMENTO SOCIAL, SE ENTENDERÁ CITADA A LA SECRETARÍA DE DESARROLLO SOCIAL.</small>
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 9 DE FEBRERO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2016.
 
 EL CIUDADANO LICENCIADO JOSÉ REYES BAEZA TERRAZAS, GOBERNADOR CONSTITUCIONAL DEL ESTADO LIBRE Y SOBERANO DE CHIHUAHUA, A SUS HABITANTES SABED:
 
@@ -77,7 +77,9 @@ Las medidas, acciones afirmativas y compensatorias que se establecen en la prese
 
 Para los efectos de esta ley se entenderá por:
 
-I. Discriminación: Toda distinción, exclusión o restricción basada en el origen étnico, nacional o regional; en el sexo, la edad, discapacidad, condición social, económica o sociocultural, apariencia personal, ideologías, creencias, caracteres genéticos, condiciones de salud, embarazo, lengua, religión, opiniones, orientación o preferencias sexuales, estado civil o cualquier otra que tenga por efecto impedir o anular, total o parcialmente, el reconocimiento o el ejercicio de los derechos y la igualdad con equidad de oportunidades de las personas, haciéndolas nugatorias al afectado.
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2016)</small>
+
+I. Discriminación: Toda distinción, exclusión o restricción basada en el origen étnico, nacional o regional; en el sexo, la edad, la discapacidad, la condición social, económica o sociocultural; la apariencia física, las ideologías, las creencias, los caracteres genéticos, las condiciones de salud, el embarazo, la lengua, la religión, las opiniones, la orientación o preferencias sexuales, el estado civil, el color de piel, la cultura, el género, la condición jurídica, la situación migratoria, la identidad o filiación política, la situación familiar, las responsabilidades familiares, el idioma, los antecedentes penales, o cualquier otra que tenga por efecto impedir o anular, total o parcialmente, el reconocimiento o el ejercicio de los derechos y la igualdad con equidad de oportunidades de las personas, haciéndolas nugatorias al afectado.
 
 II. Comisión Estatal: A la Comisión Estatal para el Desarrollo Social y Humano prevista en la ley de la materia.
 
@@ -579,13 +581,19 @@ P.O. 9 DE FEBRERO DE 2013.
 
 El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado
 
-## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO. 213.- QUE REFORMA LA FRACCIÓN XX DEL ARTÍCULO 13; Y ADICIONA EL CAPÍTULO VIGÉSIMO DERECHO DE ACCESO A LAS TECNOLOGÍAS DE LA INFORMACIÓN Y COMUNICACIÓN; Y LOS ARTÍCULOS 100 BIS, 100 BIS 1, 100 BIS 2 Y 100 BIS 3 A LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-PRIMERO. El presente Decreto entrará en vigor, al día siguiente de su publicación, en el Periódico Oficial del Estado de Hidalgo.
+P.O. 17 DE FEBRERO DE 2016.
 
-SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
+## [N. DE E. TRANSITORIOS DEL “DECRETO 1026/2015 I P.O. MEDIANTE EL CUAL SE REFORMA EL PÁRRAFO PRIMERO Y SE ADICIONAN LOS PÁRRAFOS SEGUNDO Y TERCERO, RECORRIENDO EL CONTENIDO DE LOS SUBSECUENTES DEL ARTÍCULO 4° DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE CHIHUAHUA; SE REFORMA LA FRACCIÓN I DEL ARTÍCULO 4 DE LA LEY PARA PREVENIR Y ELIMINAR LA DISCRIMINACIÓN EN EL ESTADO DE CHIHUAHUA”.]
 
-P.O. 18 DE NOVIEMBRE DE 2019.
+###### ARTÍCULO PRIMERO.
+
+Conforme lo que dispone el artículo 202 de la Constitución Política del Estado, envíese copia de la Iniciativa, del Dictamen y del Diario de los Debates del Congreso a los Ayuntamientos de los sesenta y siete Municipios que integran la Entidad y, en su oportunidad, hágase por el Congreso del Estado o la Diputación Permanente, el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobada la reforma a la Constitución del Estado,
+
+###### ARTÍCULO SEGUNDO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 ## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO. 223 QUE DEROGA EL PÁRRAFO CUARTO DEL ARTÍCULO 142 DEL CÓDIGO PENAL PARA EL ESTADO DE HIDALGO; ADICIONA UN PÁRRAFO SEGUNDO AL ARTÍCULO 225 RECORRIÉNDOSE LOS SUBSECUENTES EN SU ORDEN, DE LA LEY PARA LA FAMILIA DEL ESTADO DE HIDALGO; Y ADICIONA LA FRACCIÓN XXI DEL ARTICULO 13, ASÍ COMO EL CAPÍTULO VIGÉSIMO PRIMERO DEL TÍTULO SEGUNDO Y LOS ARTÍCULOS 100 BIS 4, 100 BIS 5 Y 100 BIS 6 DE LA LEY DE LOS DERECHOS DE NIÑAS, NIÑOS Y ADOLESCENTES PARA EL ESTADO DE HIDALGO”.]
 
