@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-528-de-fomento-economico-para-el-estado-de-66454"
 country: "mx"
 rank: "ley"
 publication_date: "2009-01-30"
-last_updated: "2015-02-12"
+last_updated: "2016-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66454&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 528 DE FOMENTO ECONÓMICO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 12 DE FEBRERO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2016.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el viernes 30 de enero de 2009.
 
@@ -299,9 +299,9 @@ El Ejecutivo establecerá anualmente en el presupuesto de egresos del Estado, un
 
 Los fondos se destinarán, conforme a este ordenamiento, al otorgamiento de apoyos, estímulos e incentivos recuperables y no recuperables, los cuales estarán sujetos a la aprobación previa del Consejo de Economía del Estado y a su disponibilidad presupuestal.
 
-> <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
+> <small>(REFORMADO, G.O. 17 DE FEBRERO DE 2016)</small>
 
-Del presupuesto anual autorizado para la operación de los fondos de fomento económico, se destinará por lo menos el 10% de estos recursos para financiar proyectos productivos de jóvenes y un 10%, por lo menos, para proyectos productivos de mujeres, dando preferencia a madres solteras, a través de microcréditos.
+Del presupuesto anual autorizado para la operación de los fondos de fomento económico, se destinará por lo menos el 10% de estos recursos para financiar proyectos productivos de jóvenes, un 10% como mínimo para proyectos productivos de personas con discapacidad, y un 10%, por lo menos, para proyectos productivos de mujeres, dando preferencia a madres solteras, a través de microcréditos.
 
 > <small>(ADICIONADO, P.O. 11 DE MAYO DE 2011)</small>
 
@@ -680,3 +680,11 @@ G.O. 12 DE FEBRERO DE 2015.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 17 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 860 QUE REFORMA EL TERCER PÁRRAFO DEL ARTÍCULO 14 DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado,
+
+SEGUNDO. Se deroga cualquier disposición que se oponga al presente Decreto.
