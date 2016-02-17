@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-9-organica-del-municipio-libre-veracruz-21400"
 country: "mx"
 rank: "ley"
 publication_date: "2001-01-05"
-last_updated: "2016-02-01"
+last_updated: "2016-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21400&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY ORGÁNICA DEL MUNICIPIO LIBRE, DEL ESTADO DE VERACRUZ
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 1 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE FEBRERO DE 2016.
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el viernes 5 de enero de 2001.
 
@@ -213,9 +213,11 @@ d) Coadyuvar en la ejecución de la obra pública.
 
 ### CAPÍTULO I. DEL AYUNTAMIENTO
 
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 17.
 
-Cada municipio será gobernado por un Ayuntamiento de elección popular, libre, directa y secreta, de acuerdo a los principios de mayoría relativa y de representación proporcional, en los términos que señale el Código Electoral del Estado.
+Cada Municipio será gobernado por un Ayuntamiento de elección popular, libre, directa y secreta, de acuerdo a los principios de mayoría relativa, de representación proporcional e igualdad de género, en los términos que señale el Código Electoral del Estado.
 
 El Ayuntamiento residirá en la cabecera del municipio y sólo podrá trasladarse a otro lugar dentro del mismo, por decreto del Congreso del Estado, cuando el interés público justifique la medida.
 
@@ -735,9 +737,9 @@ XV. Registro Civil, Panteones y Reclutamiento;
 
 XVI. Gobernación, Reglamentos y Circulares;
 
-> <small>(REFORMADA, G.O. 29 DE DICIEMBRE DE 2009)</small>
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2016)</small>
 
-XVII. Equidad de Género; y
+XVII. Para la Igualdad de Género;
 
 > <small>(ADICIONADA, G.O. 29 DE DICIEMBRE DE 2009)</small>
 
@@ -1175,27 +1177,55 @@ V. Dar a conocer los bandos solemnes; y
 
 VI. Las demás que expresamente le señalen esta ley y demás leyes aplicables.
 
-> <small>(ADICIONADO, G.O. 7 DE ENERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, G.O. 17 DE FEBRERO DE 2016)</small>
 
-Artículo 60 bis. Son atribuciones de la Comisión de Equidad de Género:
+###### Artículo 60 Bis.
+
+Son atribuciones de la Comisión para la Igualdad de Género:
+
+> <small>(ADICIONADA, G.O. 7 DE ENERO DE 2009)</small>
 
 I. Establecer coordinación con el Instituto Veracruzano de las Mujeres para la creación de la instancia e Instituto de la Mujer;
 
+> <small>(ADICIONADA, G.O. 7 DE ENERO DE 2009)</small>
+
 II. Fomentar la creación de los espacios de expresión para que las mujeres puedan dar a conocer sus necesidades e inquietudes sin distinción o discriminación;
+
+> <small>(ADICIONADA, G.O. 7 DE ENERO DE 2009)</small>
 
 III. Fomentar la generación y aplicación de mecanismos que permitan el acceso de la mujer a los beneficios de los programas municipales en condiciones de igualdad;
 
+> <small>(ADICIONADA, G.O. 7 DE ENERO DE 2009)</small>
+
 IV. Impulsar en el municipio los programas que en favor de las mujeres promuevan organismos nacionales e internacionales y diseñar y aplicar los propios;
+
+> <small>(ADICIONADA, G.O. 7 DE ENERO DE 2009)</small>
 
 V. Cuidar el cumplimiento de la obligación de que las niñas y los niños en edad escolar asistan a las escuelas;
 
+> <small>(ADICIONADA, G.O. 7 DE ENERO DE 2009)</small>
+
 VI. Promover la planeación del desarrollo municipal, bajo una perspectiva de equidad de género;
+
+> <small>(ADICIONADA, G.O. 7 DE ENERO DE 2009)</small>
 
 VII. Gestionar que los apoyos y recursos que se soliciten, ya sea individualmente o a través de organizaciones y asociaciones, cumplan en su distribución con el principio de equidad de género;
 
+> <small>(ADICIONADA, G.O. 7 DE ENERO DE 2009)</small>
+
 VIII. Promover y organizar la participación de los ciudadanos y de los vecinos en las actividades del Ayuntamiento, desde una perspectiva de equidad de género; y
 
-IX. Las demás que expresamente le señalen esta ley y demás leyes aplicables.
+> <small>(ADICIONADA, G.O. 17 DE FEBRERO DE 2016)</small>
+
+IX. Impulsar la creación del Instituto Municipal de las Mujeres como un Organismo Público Descentralizado de la Administración Municipal.
+
+> <small>(ADICIONADA, G.O. 17 DE FEBRERO DE 2016)</small>
+
+X. Formular en coordinación con el Instituto Municipal de las Mujeres, el Plan de Igualdad del Municipio; y
+
+> <small>(ADICIONADA, G.O. 7 DE ENERO DE 2009)</small>
+
+XI. Las demás que expresamente le señalen esta ley y demás leyes aplicables.
 
 > <small>(ADICIONADO, G.O. 29 DE DICIEMBRE DE 2009)</small>
 
@@ -1675,9 +1705,13 @@ XXIII. Expedir copias certificadas de los documentos que obren en sus archivos; 
 
 XXIV. Cumplir con los indicadores de desempeño del ámbito de su competencia y turnarlos a los órganos de control y autoridad competente; y
 
-> <small>(ADICIONADA, G.O. 27 DE FEBRERO DE 2015)</small>
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2016)</small>
 
-XXV. Las demás que expresamente le confieran esta Ley y otras aplicables.
+XXV. Etiquetar en el presupuesto Municipal recursos para la operación y/o ejecución del Instituto Municipal de las Mujeres, así como para el Plan Municipal para la Igualdad;
+
+> <small>(ADICIONADA, G.O. 17 DE FEBRERO DE 2016)</small>
+
+XXVI. Las demás que expresamente le confieran esta Ley y otras aplicables.
 
 ###### Artículo 73.
 
@@ -1934,6 +1968,14 @@ II. Los cónyuges y las personas que tengan parentesco por consanguinidad o afin
 III. Las personas que tengan litigios pendientes con el organismo de que se trata; y
 
 IV. Las personas sentenciadas por delitos patrimoniales, las inhabilitadas para ejercer el comercio o para desempeñar un empleo, cargo o comisión en el servicio público.
+
+> <small>(ADICIONADO, G.O. 17 DE FEBRERO DE 2016)</small>
+
+###### Artículo 81 Bis.
+
+En cada Ayuntamiento deberá crearse el Instituto Municipal de las Mujeres, como Organismo Público Descentralizado de la Administración Pública Municipal, con personalidad jurídica y patrimonio propio, el cual deberá contar con autonomía técnica y de gestión, para el cumplimiento de sus atribuciones, objetivos y fines.
+
+El Ayuntamiento deberá remitir al Congreso del Estado, junto con la solicitud de aprobación de la creación del Organismo, el Reglamento que establezca los requisitos y el cumplimiento de lo establecido en los artículos 78, 79, 80 y 81 de la presente ley.
 
 #### SECCIÓN TERCERA. DE LOS FIDEICOMISOS PÚBLICOS
 
@@ -2271,6 +2313,10 @@ VII. Con la Federación o el Estado para realizar actividades o ejercer facultad
 
 VIII. Con el Estado, para que éste asuma actividades o ejerza facultades en la jurisdicción del municipio, ejecutando acciones conjuntas y atribuciones delegadas en materia catastral, como son la elaboración, mantenimiento y actualización del Catastro, dependiendo de la norma, asesoría y supervisión Estatal.
 
+> <small>(ADICIONADA, G.O. 17 DE FEBRERO DE 2016)</small>
+
+IX. Con la Federación o el Estado para realizar actividades o ejercer facultades en relación con la ejecución de políticas y programas relacionados con la igualdad de género.
+
 Tratándose de convenios con otros municipios de la entidad, sólo se requerirá el previo acuerdo entre sus respectivos Ayuntamientos, notificándolo al Congreso del Estado o a la Diputación Permanente.
 
 ## TÍTULO QUINTO. DE LA HACIENDA MUNICIPAL
@@ -2415,7 +2461,9 @@ XXIX. Salvaguardar la legalidad, honradez, lealtad, imparcialidad y eficiencia q
 
 XXX. Abstenerse de cualquier acto u omisión que implique incumplimiento de cualquier disposición jurídica relacionada con el servicio público; y
 
-XXXI. Responsabilizarse por el incumplimiento de las obligaciones que les impongan esta ley y demás leyes del Estado, conforme a los supuestos y consecuencias previstos en la Constitución Política del Estado, en esta ley y en la ley en materia de responsabilidades de los servidores públicos.
+> <small>(REFORMADA, G.O. 17 DE FEBRERO DE 2016)</small>
+
+XXXI. Responsabilizarse por el incumplimiento de las obligaciones que les impongan esta ley, las demás leyes del Estado, así como las leyes federales y los tratados internacionales, conforme a los supuestos y consecuencias previstos en la Constitución Política del Estado, en esta ley y en la ley en materia de responsabilidad de los servidores públicos.
 
 > <small>(REFORMADO, G.O. 15 DE FEBRERO DE 2010)</small>
 
@@ -3171,6 +3219,10 @@ IV. Vincular el Plan de Desarrollo Municipal con los Planes de Desarrollo Federa
 
 V. Aplicar de manera racional los recursos financieros para el cumplimiento del Plan y sus programas de desarrollo.
 
+> <small>(ADICIONADA, G.O. 17 DE FEBRERO DE 2016)</small>
+
+VI. Propiciar la igualdad de oportunidades entre las mujeres y los hombres del municipio.
+
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA LA LEY.</small>
 
 > <small>(ADICIONADO, G.O. 15 DE FEBRERO DE 2010)</small>
@@ -3740,3 +3792,15 @@ G.O. 1 DE FEBRERO DE 2016.
 Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
 
 Segundo. Se derogan todas las disposiciones que se opongan al presente Decreto.
+
+G.O. 17 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 866 QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DEL MUNICIPIO LIBRE”.]
+
+Artículo Primero. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado.
+
+Artículo Segundo. Los ayuntamientos tendrán un plazo no mayor a seis meses, a partir de la entrada en vigor de esta ley, para la creación del Instituto Municipal de las Mujeres, como Organismo Público Descentralizado de la Administración Pública Municipal, con personalidad jurídica y patrimonio propios, el que tendrá autonomía técnica y de gestión para el cumplimiento de sus atribuciones y fines.
+
+Artículo Tercero. El Ayuntamiento deberá remitir al Congreso del Estado, junto con la solicitud de aprobación de creación del Instituto Municipal de las Mujeres, el Reglamento que establezca los requisitos y el cumplimiento de lo establecido en los artículos 78, 79, 80 y 81 de la presente ley.
+
+Artículo Cuarto. Se derogan todas las disposiciones que se opongan al presente Decreto.
