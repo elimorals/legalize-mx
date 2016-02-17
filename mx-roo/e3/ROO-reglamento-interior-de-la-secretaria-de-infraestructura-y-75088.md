@@ -4,7 +4,7 @@ identifier: "ROO-reglamento-interior-de-la-secretaria-de-infraestructura-y-75088
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-05-18"
-last_updated: "2010-05-18"
+last_updated: "2016-02-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75088&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "ROO"
 
 REGLAMENTO INTERIOR DE LA SECRETARIA DE INFRAESTRUCTURA Y TRANSPORTE
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE INFRAESTRUCTURA Y TRANSPORTE, PUBLICADO EN EL P.O. DE 17 DE FEBRERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Extraordinario del Periódico Oficial del Estado de Quintana Roo, el martes 18 de mayo de 2010.
 
@@ -816,3 +818,21 @@ LIC. EDUARDO OVANDO MARTÍNEZ
 EL SECRETARIO DE INFRAESTRUCTURA Y TRANSPORTE
 
 ING. VÍCTOR MANUEL ALCÉRRECA SÁNCHEZ
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 17 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA SECRETARÍA DE INFRAESTRUCTURA Y TRANSPORTE”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Reglamento entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Quintana Roo.
+
+###### ARTÍCULO SEGUNDO.
+
+Se abroga el Reglamento Interior de la Secretaría de Infraestructura y Transporte, publicado en el Periódico Oficial del Estado de Quintana Roo, el día 8 de mayo de 2010.
+
+###### ARTÍCULO TERCERO.
+
+En tanto se expiden los Manuales de Organización y Procedimientos correspondientes, el Titular de la Secretaría resolverá las cuestiones que conforme a dichos manuales se deban regular.
