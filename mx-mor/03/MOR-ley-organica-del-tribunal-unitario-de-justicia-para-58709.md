@@ -4,7 +4,7 @@ identifier: "MOR-ley-organica-del-tribunal-unitario-de-justicia-para-58709"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2007-12-19"
-last_updated: "2016-01-20"
+last_updated: "2016-02-17"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=58709&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "MOR"
 ---
 # LEY ORGANICA DEL TRIBUNAL UNITARIO DE JUSTICIA PARA ADOLESCENTES Y JUZGADOS ESPECIALIZADOS
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 17 DE FEBRERO DE 2016 EN EL P.O. DEL ESTADO DE MORELOS, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY ORGÁNICA DEL TRIBUNAL UNITARIO DE JUSTICIA PARA ADOLESCENTES Y JUZGADOS ESPECIALIZADOS DEL ESTADO DE MORELOS
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE ENERO DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 17 DE FEBRERO DE 2016.]</small>
 
 Ley publicada en el Periódico Oficial del Estado de Morelos, el miércoles 19 de diciembre de 2007.
 
@@ -297,21 +297,29 @@ IV. No haber sido condenado por delito doloso.
 
 El Tribunal Unitario de Justicia para Adolescentes contará con un órgano técnico que se denominará Coordinación para el Apoyo y Seguimiento de Medidas para Adolescentes, integrado por un grupo de especialistas en diferentes materias que coadyuven en el seguimiento de las mismas, la cual auxiliará al Magistrado y Jueces Especializados en la determinación y seguimiento de las medidas impuestas a los adolescentes sujetos a la jurisdicción del Tribunal.
 
-> <small>(ADICIONADO, P.O. 20 DE ENERO DE 2016)</small>
+(ADICIONADO, P.O. 20 DE ENERO DE 2016) (F. DE E., P.O. 17 DE FEBRERO DE 2016)
 
 ###### Artículo 27.
 
-La Coordinación para el Apoyo y Seguimiento de Medidas para Adolescentes estará dirigido por un Coordinador y contara con los siguientes departamentos:
+La Coordinación para el Apoyo y Seguimiento de Medidas para Adolescentes estará dirigido por un Coordinador y contará con los siguientes departamentos:
 
-I. Departamento de Psicología.
+> <small>(F. DE E., P.O. 17 DE FEBRERO DE 2016)</small>
 
-II. Departamento de Trabajo Social.
+I. Departamento de Psicología;
 
-III. Departamento de Pedagogía.
+> <small>(F. DE E., P.O. 17 DE FEBRERO DE 2016)</small>
+
+II. Departamento de Trabajo Social;
+
+> <small>(F. DE E., P.O. 17 DE FEBRERO DE 2016)</small>
+
+III. Departamento de Pedagogía, y
 
 IV. Departamento de Criminología.
 
-V. El Coordinador y los titulares de los Departamentos que la integran, serán nombrados por el Magistrado titular del Tribunal y deberán reunir los requisitos que al efecto señale el Reglamento Interior del Tribunal.
+> <small>(F. DE E., P.O. 17 DE FEBRERO DE 2016)</small>
+
+El Coordinador y los titulares de los Departamentos que la integran, serán nombrados por el Magistrado titular del Tribunal y deberán reunir los requisitos que al efecto señale el Reglamento Interior del Tribunal.
 
 > <small>(ADICIONADO, P.O. 20 DE ENERO DE 2016)</small>
 
@@ -325,13 +333,17 @@ II. Remitir al Magistrado y Jueces Especializados que lo haya solicitado, el res
 
 III. Diseñar los programas de atención y seguimiento requeridos por el Magistrado y Jueces Especializados para la ejecución de la medida socio-educativa impuesta a los adolescentes;
 
-IV. Elaborar el programa individualizado de ejecución de los adolescentes a quienes se les imponga medidas socio-educativas, en los términos que le sean solicitados por el Juez de Ejecución.
+> <small>(F. DE E., P.O. 17 DE FEBRERO DE 2016)</small>
+
+IV. Elaborar el programa individualizado de ejecución de los adolescentes a quienes se les imponga medidas socio-educativas, en los términos que le sean solicitados por el Juez de Ejecución;
 
 V. Informar al Juez de Ejecución trimestralmente sobre el avance en el Programa Individualizado de Ejecución de las medidas socio-educativas impuestas a los adolescentes;
 
 VI. Brindar apoyo a las instancias oficiales que participen en la ejecución de medidas dictadas a los adolescentes, cuando estas así lo soliciten;
 
-VII. Rendir informe estadístico al Magistrado, respecto de las actividades de la Coordinación, en los términos y forma que le sean requerido; y,
+> <small>(F. DE E., P.O. 17 DE FEBRERO DE 2016)</small>
+
+VII. Rendir informe estadístico al Magistrado, respecto de las actividades de la Coordinación, en los términos y forma que le sean requeridos, y
 
 VIII. Las demás que determine el Reglamento, así como los acuerdos que emita el Magistrado.
 
@@ -341,15 +353,25 @@ VIII. Las demás que determine el Reglamento, así como los acuerdos que emita e
 
 Son atribuciones del Coordinador las siguientes:
 
-I. Organizar, vigilar y coordinar las distintas actividades del personal técnico y administrativo de las diferentes áreas que componen la coordinación, para lograr su adecuado funcionamiento.
+> <small>(F. DE E., P.O. 17 DE FEBRERO DE 2016)</small>
 
-II. Realizar las gestiones necesarias a fin de facilitar y generar las condiciones para que se lleven a cabo diversas acciones que el Tribunal deba realizar con motivo de las necesidades requeridas para la consecución de los fines de las medidas socio-educativas impuestas a los adolescentes, cuando así se requiera.
+I. Organizar, vigilar y coordinar las distintas actividades del personal técnico y administrativo de las diferentes áreas que componen la coordinación, para lograr su adecuado funcionamiento;
 
-III. Gestionar el acercamiento con organismos públicos o privados para lograr el cumplimiento de los fines que se persiguen con las medidas socio-educativas impuestas a los adolescentes, a través de convenios de colaboración, previa autorización y consideración del Magistrado.
+> <small>(F. DE E., P.O. 17 DE FEBRERO DE 2016)</small>
 
-IV. Rendir los informes en el tiempo y la forma que requiera el Magistrado, así como los Jueces Especializados, de los programas y convenios con los que cuente la Coordinación.
+II. Realizar las gestiones necesarias a fin de facilitar y generar las condiciones para que se lleven a cabo diversas acciones que el Tribunal deba realizar con motivo de las necesidades requeridas para la consecución de los fines de las medidas socio-educativas impuestas a los adolescentes, cuando así se requiera;
 
-V. Administrar los recursos humanos y materiales asignados a la Coordinación; y
+> <small>(F. DE E., P.O. 17 DE FEBRERO DE 2016)</small>
+
+III. Gestionar el acercamiento con organismos públicos o privados para lograr el cumplimiento de los fines que se persiguen con las medidas socio-educativas impuestas a los adolescentes, a través de convenios de colaboración, previa autorización y consideración del Magistrado;
+
+> <small>(F. DE E., P.O. 17 DE FEBRERO DE 2016)</small>
+
+IV. Rendir los informes en el tiempo y la forma que requiera el Magistrado, así como los Jueces Especializados, de los programas y convenios con los que cuente la Coordinación;
+
+> <small>(F. DE E., P.O. 17 DE FEBRERO DE 2016)</small>
+
+V. Administrar los recursos humanos y materiales asignados a la Coordinación, y
 
 VI. Las demás que determine el Reglamento, el Magistrado y los Jueces Especializados.
 
@@ -457,6 +479,8 @@ TERCERO. Los asuntos relativos a la ejecución de las medidas dictadas a los ado
 
 CUARTO. El Magistrado del Tribunal Unitario de Justicia para Adolescentes, en un plazo que no excederá de quince días contados a partir de la fecha de entrada en vigor del presente decreto deberá nombrar al Coordinador y al equipo técnico que integrará la Coordinación para el Apoyo y Seguimiento de Medidas para Adolescentes a que se refiere este decreto, cuidando que reúnan el perfil profesional acorde a la responsabilidad que se les confiere.
 
-QUINTO. El Presupuesto de Ingresos del Tribunal Unitario de Justicia para Adolescentes deberá prever la partida correspondiente para el debido funcionamiento de la Coordinación que al efecto se crea, para la cual deberá contemplarse en el Presupuesto de Egresos del Gobierno del Estado el incremento correspondiente.
+> <small>(F. DE E., P.O. 17 DE FEBRERO DE 2016)</small>
+
+QUINTO. El Presupuesto de Egresos del Tribunal Unitario de Justicia para Adolescentes deberá prever la partida correspondiente para el debido funcionamiento de la Coordinación que al efecto se crea, para la cual deberá contemplarse en el Presupuesto de Egresos del Gobierno del Estado el incremento correspondiente.
 
 SEXTO. En un plazo de quince días hábiles contados a partir de la fecha en que entre en vigor el presente decreto, el Magistrado del Tribunal Unitario de Justicia para Adolescentes, deberá hacer las adecuaciones correspondientes a su Reglamento Interior, para el efecto de considerar las áreas administrativas que se crean en virtud de la adición a la Ley Orgánica del Tribunal Unitario de Justicia para Adolescentes y Juzgados Especializados del Estado de Morelos.
