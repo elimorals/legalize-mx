@@ -4,7 +4,7 @@ identifier: "MEX-ley-de-fomento-economico-para-el-estado-de-mexico-76536"
 country: "mx"
 rank: "ley"
 publication_date: "2010-09-07"
-last_updated: "2016-02-03"
+last_updated: "2016-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=76536&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,7 @@ state: "MEX"
 
 LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 6 DE ENERO DE 2016.
-
-> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA DEL GOBIERNO DEL 3 DE FEBRERO DE 2016.]</small>
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 17 DE FEBRERO DE 2016.
 
 Ley publicada en la Sección Tercera de la Gaceta de Gobierno del Estado de México, el martes 7 de septiembre de 2010.
 
@@ -241,7 +239,7 @@ La Secretaría, para el cumplimiento de los objetivos de esta Ley, promoverá:
 
 > <small>(REFORMADA, G.G. 6 DE ENERO DE 2016)</small>
 
-l. El desarrollo de mecanismos e instrumentos de carácter tecnológico, que sirvan para facilitar y agilizar la gestión empresarial de trámites y servicios ante las dependencias, para la instalación, apertura, operación y ampliación de empresas.
+I. El desarrollo de mecanismos e instrumentos de carácter tecnológico, que sirvan para facilitar y agilizar la gestión empresarial de trámites y servicios ante las dependencias, para la instalación, apertura, operación y ampliación de empresas.
 
 II. La formación y capacitación empresarial, con el objeto de identificar y resolver problemas relacionados con la organización, producción y mercadeo de las empresas;
 
@@ -811,11 +809,15 @@ X. Determinar la regionalización del territorio del Estado para fines de desarr
 
 XI. Crear las bases necesarias para la implementación de una marca registrada propiedad del Estado de México, que cumpla con requisitos específicos de identidad mexiquense, integralidad, calidad, rentabilidad, respeto al ambiente, rescate y renovación de la tradición y raíces;
 
-XII. Brindar asesoría sobre el proceso de registro de marcas colectivas de las regiones del Estado y/o grupos de artesanos mexiquenses, con el objeto de proteger sus artesanías como símbolo de su identidad y tradición;
+> <small>(REFORMADA, G.G. 17 DE FEBRERO DE 2016)</small>
 
-XIII. Expedir certificados de autenticidad de las obras artesanales que cumplan con los requisitos de calidad técnica y artística que establezca el Reglamento Interior del IIFAEM;
+XII. Brindar asesoría sobre el proceso de registro de marcas colectivas de las regiones del Estado y/o grupos de artesanos mexiquenses ante las instancias competentes, con el objeto de proteger sus artesanías como símbolo de su identidad y tradición;
 
-XIV. Integrar y administrar el Registro Mexiquense de Artesanos, que incluya artesanos individuales y talleres, y el Registro de Obras Certificadas en los términos del Reglamento Interior del IIFAEM;
+XIII. (DEROGADA, G.G. 17 DE FEBRERO DE 2016)
+
+> <small>(REFORMADA, G.G. 17 DE FEBRERO DE 2016)</small>
+
+XIV. Integrar y administrar el Registro Mexiquense de Artesanos, que incluya artesanos individuales y talleres.
 
 XV. Crear los programas específicos de formación técnica y profesional de recursos humanos especializados en las diferentes técnicas artesanales; estudios de mercado; administración y operación de unidades artesanales; mercadotecnia; historia; y en general, para la conservación, promoción e innovación en técnicas, diseños y productos artesanales; y
 
@@ -1502,3 +1504,13 @@ DÉCIMO TERCERO.- A partir de la entrada en vigor del presente Decreto, queda ab
 DÉCIMO CUARTO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 DÉCIMO QUINTO.- Las erogaciones que deriven de la aplicación de este Decreto, deberán estar consideradas en la partida presupuestal que apruebe la Honorable Legislatura del Estado para tal efecto.
+
+G.G. 17 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 65.- POR EL QUE SE REFORMAN LAS FRACCIONES XII Y XIV Y SE DEROGA LA FRACCIÓN XIII DEL ARTÍCULO 35 DE LA LEY DE FOMENTO ECONÓMICO PARA EL ESTADO DE MÉXICO”.]
+
+PRIMERO. Publíquese el presente Decreto en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Decreto.
