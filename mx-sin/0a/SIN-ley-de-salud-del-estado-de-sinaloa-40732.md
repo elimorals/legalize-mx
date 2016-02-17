@@ -4,7 +4,7 @@ identifier: "SIN-ley-de-salud-del-estado-de-sinaloa-40732"
 country: "mx"
 rank: "ley"
 publication_date: "2004-09-03"
-last_updated: "2016-02-03"
+last_updated: "2016-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=40732&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 LEY DE SALUD DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 3 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Sinaloa, el viernes 3 de septiembre de 2004.
 
@@ -171,7 +171,7 @@ II. Coordinar y promover con los sectores público, privado y social las accione
 
 III. Crear centros especializados en tratamiento, atención y rehabilitación, con base en sistemas modernos de tratamiento y rehabilitación que se regirán en el respeto a la integridad y libre voluntad del farmacodependiente, con excepción de lo previsto en el segundo párrafo del artículo 193 Bis de la Ley General de Salud;
 
-IV Crear y mantener actualizado un padrón de instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de farmacodependencia;
+IV. Crear y mantener actualizado un padrón de instituciones y organismos públicos y privados que realicen actividades de prevención, tratamiento, atención y reinserción social en materia de farmacodependencia;
 
 V. Crear indicadores y bases de datos que permitan identificar zonas, sectores y grupos de alto riesgo en materia de farmacodependencia;
 
@@ -879,9 +879,15 @@ Los sectores público, privado y social contribuirán a ampliar la cobertura y m
 
 En los términos que determina la legislación aplicable, es obligatoria la prestación de servicios de atención médica:
 
-I. En el caso de urgencias; entendiéndose por tal, todo problema médico-quirúrgico agudo, que ponga en peligro la vida, un órgano o una función y que requiera atención inmediata; y
+> <small>(REFORMADA, P.O. 17 DE FEBRERO DE 2016)</small>
 
-II. Cuando se trate del ejercicio de la acción extraordinaria de salubridad general, en los términos que determina la Ley General de Salud.
+I. En el caso de urgencias; entendiéndose por tal, todo problema médico-quirúrgico agudo, que ponga en peligro la vida, un órgano o una función y que requiera atención inmediata;
+
+> <small>(ADICIONADA, P.O. 17 DE FEBRERO DE 2016)</small>
+
+II. A las mujeres en periodo de gestación que presenten una emergencia obstétrica solicitada de manera directa o por la referencia de otra unidad médica, se les prestarán (sic) atención expedita con criterios de calidad, eficacia, resolutividad y gratuidad, independientemente de ser derechohabiente o afiliada a cualquier esquema de aseguramiento, en aquellas unidades con capacidad para la atención de urgencias obstétricas; y
+
+III. Cuando se trate del ejercicio de la acción extraordinaria de salubridad general, en los términos que determina la Ley General de Salud.
 
 ###### Artículo 76.
 
@@ -2990,3 +2996,11 @@ P.O. 3 DE FEBRERO DE 2016.
 PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial "El Estado de Sinaloa".
 
 SEGUNDO. Se derogan todas las disposiciones que contravengan al presente Decreto.
+
+P.O. 17 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL DECRETO NÚMERO 488 POR EL QUE "SE REFORMA LA FRACCIÓN I Y SE ADICIONA UNA SEGUNDA, RECORRIÉNDOSE LA VIGENTE PARA QUEDAR COMO III, DEL ARTÍCULO 75 DE LA LEY DE SALUD DEL ESTADO DE SINALOA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial “El Estado de Sinaloa”.
