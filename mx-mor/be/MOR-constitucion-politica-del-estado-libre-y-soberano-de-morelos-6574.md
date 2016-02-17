@@ -4,7 +4,7 @@ identifier: "MOR-constitucion-politica-del-estado-libre-y-soberano-de-morelos-65
 country: "mx"
 rank: "constitucion"
 publication_date: "1930-11-16"
-last_updated: "2015-08-11"
+last_updated: "2016-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6574&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,7 +22,7 @@ state: "MOR"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE AGOSTO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 17 DE FEBRERO DE 2016.
 
 Constitución publicada en el Alcance al Periódico Oficial del Estado de Morelos, el 16 de noviembre de 1930.
 
@@ -952,13 +952,21 @@ El Congreso no puede abrir sus Sesiones sin la concurrencia de más de la mitad 
 
 Transcurrido el plazo anterior sin que se hubieren presentado, se llamará al desempeño de la función, a los suplentes respectivos y si tampoco se presentaren dentro de un plazo de diez días, se convocará a elecciones, en los Distrito (sic) de que se trate.
 
-> <small>(REFORMADO, P.O. 11 DE AGOSTO DE 2015)</small>
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 32.
 
 El Congreso del Estado tendrá cada año dos períodos de sesiones ordinarias, el primero se iniciará el 1 de septiembre y terminará el 15 de diciembre; el segundo empezará el 1 de febrero y concluirá el 15 de julio. El Congreso se ocupará, conforme a sus facultades, del examen y la revisión de la cuenta pública del Estado, a través de la Entidad Superior de Auditoría y Fiscalización, misma que se presentará trimestralmente, a más tardar el último día hábil del mes siguiente a aquel en que concluya cada trimestre de calendario, conforme al avance de gestión financiera en concordancia con el avance del Plan Estatal de Desarrollo, los programas operativos anuales sectorizados y por dependencia u organismo auxiliar y, en su caso, del programa financiero.
 
-El Congreso del Estado a más tardar el 1 de octubre de cada año, recibirá la Iniciativa de Presupuesto de Egresos del Gobierno del Estado, para el Ejercicio Fiscal siguiente, así como las Iniciativas de Ley de Ingresos del Estado y de los Municipios, para su examen, discusión y aprobación. Cuando el Gobernador inicie su encargo entregará las iniciativas de Ley de Ingresos y de Presupuesto de Egresos del Gobierno del Estado a más tardar el 15 de noviembre de ese año; de igual forma los Presidentes Municipales que inicien su encargo, presentarán al Congreso del Estado sus iniciativas de Ley de Ingresos en la misma fecha. El Congreso del Estado deberá aprobar la Ley de Ingresos y Presupuesto de Egresos del Estado y las Leyes de Ingresos Municipales a más tardar el 15 de diciembre de cada año. Los Poderes del Estado, Entidades, Organismos Públicos Autónomos, presentarán al Congreso a más tardar el día 30 de abril de cada año, la Cuenta Pública correspondiente al año anterior, debidamente integrada y aprobada por el órgano de gobierno que corresponda, a excepción del año en que concluyan un período constitucional e inicien uno nuevo, en cuyo caso la aprobación de la cuenta pública corresponderá a cada uno por el período a su cargo y deberá ser consolidada y presentada al Congreso por la nueva administración, sin perjuicio de las responsabilidades que correspondan a los funcionarios públicos en funciones en cada período constitucional. Los ayuntamientos presentarán al Congreso a más tardar el día 30 de abril de cada año, la cuenta pública correspondiente al año anterior debidamente integrada y aprobada por el Cabildo, a excepción del año en que concluya una administración municipal, en cuyo caso la aprobación de la cuenta pública corresponderá a cada uno por el periodo a su cargo y deberá ser consolidada y presentada al Congreso por la nueva administración, sin perjuicio de las responsabilidades que correspondan a los funcionarios públicos en funciones en cada período constitucional.
+El Congreso del Estado a más tardar el 1 de octubre de cada año, recibirá la Iniciativa de Presupuesto de Egresos del Gobierno del Estado, para el Ejercicio Fiscal siguiente, así como las Iniciativas de Ley de Ingresos del Estado y de los Municipios, para su examen, discusión y aprobación, debiendo aprobarlas a más tardar el 15 de diciembre de cada año.
+
+Cuando el Gobernador inicie su encargo entregará las iniciativas de Ley de Ingresos y de Presupuesto de Egresos del Gobierno del Estado a más tardar el 15 de noviembre de ese año.
+
+El año en el que los ayuntamientos inicien su encargo, podrán presentar al Congreso del Estado a más tardar el 31 de enero, una nueva Iniciativa de Ley de Ingresos que abrogue la ya aprobada o que reforme a la vigente. El Congreso deberá discutirla y aprobarla a más tardar el último día de febrero de ese año.
+
+Los Poderes del Estado, Entidades, Organismos Públicos Autónomos, presentarán al Congreso a más tardar el día 30 de abril de cada año, la Cuenta Pública correspondiente al año anterior, debidamente integrada y aprobada por el órgano de gobierno que corresponda, a excepción del año en que concluyan un período constitucional e inicien uno nuevo, en cuyo caso la aprobación de la cuenta pública corresponderá a cada uno por el período a su cargo y deberá ser consolidada y presentada al Congreso por la nueva administración, sin perjuicio de las responsabilidades que correspondan a los funcionarios públicos en funciones en cada período constitucional.
+
+Los ayuntamientos presentarán al Congreso a más tardar el día 31 de enero de cada año, la cuenta pública correspondiente al año anterior debidamente integrada y aprobada por el Cabildo, los Ayuntamientos que concluyan su período deberán presentarla en la misma fecha.
 
 Al aprobar el Congreso el Presupuesto de Egresos del Estado, deberá verificar que se incluyan las remuneraciones de servidores públicos mismas que deberán sujetarse a las bases previstas en el artículo 131 de esta Constitución. Asimismo, deberá verificar que se incluyan los tabuladores salariales y, en caso contrario, deberá incluir y autorizar, la o las partidas presupuestales necesarias y suficientes para cubrir el pago de obligaciones.
 
@@ -2682,7 +2690,9 @@ El personal de la Defensoría Pública dependerá del Ejecutivo del Estado y ser
 
 DE SU INTEGRACIÓN Y ELECCION.
 
-> <small>(REFORMADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN EL P.O. DE 17 DE FEBRERO DE 2016, PÁGINA 11.]</small>
+
+> <small>(REFORMADO, P.O. 17 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 108.
 
@@ -2808,29 +2818,15 @@ El Presidente Municipal y el Síndico serán electos conforme al principio de ma
 
 Por cada Presidente Municipal, Síndico y Regidores propietarios, se elegirá un suplente.
 
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
-
 Los Partidos Políticos deberán postular una fórmula de candidatos a Presidente y Síndico; los Partidos Políticos deberán postular la lista de Regidores en número igual al previsto para ese Municipio en la normatividad respectiva.
 
-> <small>N. DE E. VÉASE LITERALIDAD DEL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 1498, PÁGINA 24, PRIMERA COLUMNA; Y PÁGINA 30, SEGUNDA COLUMNA.</small>
-
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
+Para la asignación de Regidores se estará al principio de cociente natural y resto mayor, de conformidad como lo establezca la ley electoral
 
 Los Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos, por elección directa, podrán ser reelectos únicamente para un período adicional de gestión consecutiva. Las personas que por elección indirecta, o por nombramiento o designación de alguna autoridad desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, podrán ser reelectos para el período inmediato. Todos los representantes populares antes mencionados, cuando tengan el carácter de propietarios, podrán ser reelectos para el período inmediato con el carácter de suplentes, los que tengan el carácter de suplentes, podrán ser electos para el período inmediato como propietarios a menos que tengan alguna causa de exclusión por haber sido reelectos en el período constitucional establecido. La postulación sólo podrá ser realizada por el mismo Partido o por cualquiera de los Partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato.
 
-> <small>N. DE E. VÉASE LITERALIDAD DEL ARTÍCULO PRIMERO DEL DECRETO NÚMERO 1498, PÁGINA 24, PRIMERA COLUMNA; Y PÁGINA 30, SEGUNDA COLUMNA.</small>
+El ejercicio de los Ayuntamientos electos será de tres años, iniciará (sic) uno de enero del año siguiente de la elección y concluirá el treinta y uno de diciembre, salvo lo que disponga esta Constitución y la normatividad aplicable para el caso de elecciones extraordinarias.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE PÁRRAFO, VÉASE DISPOSICIÓN TRANSITORIA TERCERA DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
-
-> <small>(REFORMADO, P.O. 27 DE JUNIO DE 2014)</small>
-
-El ejercicio de los Ayuntamientos electos será de tres años y se iniciará el cinco de octubre del año de la elección, salvo lo que disponga esta Constitución y la normatividad aplicable para el caso de elecciones extraordinarias.
-
-> <small>(REFORMADO, P.O. 1 DE JULIO DE 2009)</small>
-
-El ejercicio de los Ayuntamientos electos será de tres años y se iniciará el primero de enero del año posterior a la elección, salvo lo que disponga esta Constitución y la Ley respectiva para el caso de elecciones extraordinarias.
-
-Los Presidentes Municipales, los Síndicos y los Regidores, así como los demás servidores públicos municipales que determine la Ley de Responsabilidades de los Servidores Públicos del Estado, deberán cumplir con la presentación oportuna de sus declaraciones patrimoniales ante el Congreso del Estado, en los términos del Artículo 133-bis de esta Constitución.
+Los Presidentes Municipales, los Síndicos y los Regidores, así como los demás servidores públicos municipales que determine la Ley de la materia, deberán cumplir con la presentación oportuna de sus declaraciones patrimoniales ante el Congreso del Estado, en los términos del Artículo 133-bis de esta Constitución.
 
 > <small>(ADICIONADO, P.O. 1 DE SEPTIEMBRE DE 2000)</small>
 
@@ -4790,7 +4786,7 @@ TERCERO. Respecto a la reforma a la Ley de Salud del Estado de Morelos, el prese
 
 P.O. 27 DE JUNIO DE 2014.
 
-PRIMERA. Aprobado el presente Decreto por el Poder Reformador Local y hecha la declaratoria correspondiente, remítase al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial "Tierra y Libertad", Órgano Oficial de difusión del Gobierno del Estado de Morelos, lo anterior, conforme lo dispuesto por el artículo 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos y el artículo 145 del Reglamento para el Congreso del Estado.
+PRIMERA. Aprobado el presente Decreto por el Poder Reformador Local y hecha la declaratoria correspondiente, remítase al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano Oficial de difusión del Gobierno del Estado de Morelos, lo anterior, conforme lo dispuesto por el artículo 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos y el artículo 145 del Reglamento para el Congreso del Estado.
 
 SEGUNDA. Las reformas, adiciones y derogaciones contenidas en el presente Decreto forman parte de esta Constitución desde el momento mismo en que se realizó la Declaratoria a que se refieren los artículos 147 y 148, de la Constitución Política del Estado Libre y Soberano de Morelos.
 
@@ -4804,7 +4800,7 @@ SEXTA. La entrada en vigor de las presentes reformas no afectará de ninguna for
 
 SÉPTIMA. Toda mención que se haga en ordenamientos normativos respecto al Instituto Estatal Electoral, se entenderá que se hace referencia al Organismo Público Electoral de Morelos.
 
-OCTAVA. Para la designación del Consejero Presidente y los Consejeros Electorales que integrarán el Organismo Público Electoral de Morelos, en su primera conformación, se estará a las disposiciones transitorias contenidas en el Decreto de reforma constitucional federal en materia político electoral, publicado en el Diario Oficial de la Federación el 10 de febrero de 2014, así como en las contenidas en la Ley General de Instituciones y Procedimientos Electorales.
+OCTAVA. Para la designación del Consejero Presidente y los Consejeros Electorales que integrará el Organismo Público Electoral de Morelos, en su primera conformación, se estará a las disposiciones transitorias contenidas en el Decreto de reforma constitucional federal en materia político electoral, publicado en el Diario Oficial de la Federación el 10 de febrero de 2014, así como en las contenidas en la Ley General de Instituciones y Procedimientos Electorales.
 
 NOVENA. Los Magistrados Electorales del Tribunal Electoral del Estado de Morelos, serán designados en los términos de lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y la normativa que resulte aplicable.
 
@@ -5003,3 +4999,15 @@ Una vez instalado el Comité de Participación Ciudadana, presentará su propues
 VIGÉSIMA PRIMERA. Por única ocasión, los Ayuntamientos que inicien funciones el primero de enero de dos mil dieciséis, a más tardar el quince de febrero de ese mismo año, podrán presentar al Congreso del Estado una Iniciativa de Ley de Ingresos o en su caso una propuesta de modificación de la ya aprobada.
 
 VIGÉSIMA SEGUNDA. El Gobernador Constitucional del Estado, instruirá a la Secretaría de Hacienda del Poder Ejecutivo Estatal para que efectúe las transferencias y adecuaciones presupuestales necesarias para el cumplimiento del presente Decreto.
+
+P.O. 17 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO DOSCIENTOS CINCUENTA POR EL QUE SE REFORMAN LOS ARTÍCULOS 32 Y 112 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE MORELOS”.]
+
+PRIMERO. Remítase al Titular del Poder Ejecutivo del Estado para su publicación en el Periódico Oficial “Tierra y Libertad”, Órgano Oficial de difusión del Gobierno del Estado de Morelos, lo anterior, conforme lo dispuesto por el artículo 70, fracción XVII, inciso a) de la Constitución Política del Estado Libre y Soberano de Morelos y el artículo 145 del Reglamento para el Congreso del Estado.
+
+SEGUNDO. Las reformas, adiciones y derogaciones contenidas en el presente Decreto, forman parte de esta Constitución desde el momento mismo en que se realice la Declaratoria a que se refieren los artículos 147 y 148, de la Constitución Política del Estado Libre y Soberano de Morelos.
+
+TERCERO.- Las administraciones municipales que inician su gestión el 1º de enero de 2016, concluirán su ejercicio constitucional el 31 de diciembre de 2018.
+
+CUARTO.- Se derogan todas las disposiciones normativas de igual o menor rango jerárquico que se opongan al presente Decreto.
