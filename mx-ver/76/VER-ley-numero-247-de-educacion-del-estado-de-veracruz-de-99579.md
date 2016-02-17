@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-247-de-educacion-del-estado-de-veracruz-de-99579"
 country: "mx"
 rank: "ley"
 publication_date: "2014-03-05"
-last_updated: "2014-04-16"
+last_updated: "2016-02-17"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=99579&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "VER"
 
 LEY NÚMERO 247 DE EDUCACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE ABRIL DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 17 DE FEBRERO DE 2016.
 
 Ley publicada en el Número Extraordinario de la Gaceta Oficial del Estado de Veracruz, el miércoles 5 de marzo de 2014.
 
@@ -1635,7 +1635,9 @@ III. Planes y programas de estudio que las autoridades educativas estatales cons
 
 IV. El reglamento interno que norme las actividades académicas y administrativas, así como la relación de los alumnos con la institución a la que están adscritos, estableciendo un mecanismo de solución de controversias.
 
-Los particulares deberán refrendar anualmente las autorizaciones o los reconocimientos de validez oficial de estudios que les hayan sido otorgados, en términos de las disposiciones reglamentarias aplicables.
+> <small>(REFORMADO, G.O. 17 DE FEBRERO DE 2016)</small>
+
+Los particulares deberán refrendar cada tres años las autorizaciones o los reconocimientos de validez oficial de estudios que les hayan sido otorgados, en términos de las disposiciones reglamentarias aplicables.
 
 ###### Artículo 165.
 
@@ -1964,3 +1966,11 @@ Rúbrica.
 G.O. 16 DE ABRIL DE 2014.
 
 ÚNICO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del estado de Veracruz de Ignacio de la Llave.
+
+G.O. 17 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 861 QUE REFORMA EL ARTÍCULO 164, PÁRRAFO SEGUNDO, DE LA LEY DE EDUCACIÓN DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE”.]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación en la Gaceta Oficial, órgano del Gobierno del Estado.
+
+SEGUNDO. Se deroga cualquier disposición que contravenga al presente Decreto.
