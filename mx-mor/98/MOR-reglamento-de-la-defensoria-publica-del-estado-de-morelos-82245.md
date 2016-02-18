@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-de-la-defensoria-publica-del-estado-de-morelos-82245
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-07-20"
-last_updated: "2011-07-20"
+last_updated: "2016-02-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=82245&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "MOR"
 ---
 # REGLAMENTO DE LA DEFENSORIA PUBLICA DEL ESTADO DE MORELOS
 
-REGLAMENTO DE LA DEFENSORIA PUBLICA DEL ESTADO DE MORELOS
+REGLAMENTO DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON LA DISPOSICIÓN TRANSITORIA SEGUNDA DEL REGLAMENTO DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE MORELOS, PUBLICADO EN EL P.O. DE 18 DE FEBRERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 18 DE FEBRERO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 20 de julio de 2011.
 
@@ -224,3 +226,13 @@ EL SECRETARIO DE GOBIERNO
 ING. OSCAR SERGIO HERNÁNDEZ BENÍTEZ.
 
 RÚBRICAS.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 18 DE FEBRERO DE 2016.
+
+> <small>[N. DE E. DISPOSICIONES TRANSITORIAS DEL “REGLAMENTO DE LA LEY DE LA DEFENSORÍA PÚBLICA DEL ESTADO DE MORELOS”.]</small>
+
+PRIMERA. El presente Reglamento iniciará su vigencia a los cinco días hábiles siguientes a su publicación en el Periódico Oficial “Tierra y Libertad”, órgano de difusión del Gobierno del estado de Morelos.
+
+SEGUNDA. Se abroga el Reglamento de la Defensoría Pública del Estado de Morelos, publicado el veinte de julio de 2011 en el Periódico Oficial “Tierra y Libertad”, número 4905, y se derogan todas las disposiciones jurídicas de igual o menor jerarquía normativa que se opongan al presente.
