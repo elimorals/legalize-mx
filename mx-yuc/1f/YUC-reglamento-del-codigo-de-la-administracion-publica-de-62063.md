@@ -4,7 +4,7 @@ identifier: "YUC-reglamento-del-codigo-de-la-administracion-publica-de-62063"
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-07-07"
-last_updated: "2015-03-11"
+last_updated: "2016-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=62063&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 11 DE MARZO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE FEBRERO DE 2016.
 
 Reglamento publicado en el Suplemento del Diario Oficial del Estado de Yucatán, el lunes 7 de julio de 2008.
 
@@ -81,6 +81,14 @@ XIII. Secretario o Titular: cada uno de los titulares de las dependencias enlist
 
 XIV. Subsecretarios: los subsecretarios de las Secretarías, General de Gobierno, y de Seguridad Pública;
 
+> <small>(ADICIONADO, D.O. 18 DE FEBRERO DE 2016)</small>
+
+###### Artículo 3 Bis.
+
+Las dependencias y entidades de la Administración Pública estatal tendrán un enlace con la Unidad de Acceso a la Información Pública del Poder Ejecutivo, con las atribuciones establecidas en la ley de la materia y en las demás disposiciones legales aplicables.
+
+El enlace a que se refiere el párrafo anterior será el titular de la unidad administrativa que establezca este reglamento, para el caso de las dependencias, y el que establezca el estatuto orgánico, para el caso de las entidades. A falta de disposición expresa, los titulares de las unidades jurídicas fungirán como enlaces y, en caso de inexistencia de estas unidades, esta función estará a cargo de la unidad administrativa responsable de la administración de la dependencia o entidad.
+
 # LIBRO PRIMERO. PARTE GENERAL
 
 DE LA ADMINISTRACIÓN PÚBLICA ESTATAL CENTRALIZADA
@@ -117,7 +125,7 @@ Además de las direcciones y unidades administrativas contempladas en la estruct
 
 ###### Artículo 9.
 
-Las dependencias tendrán un enlace con la Unidad de Acceso a la Información Pública del Poder Ejecutivo, con las atribuciones establecidas en la Ley de la materia y demás disposiciones legales aplicables.
+(DEROGADO, D.O. 18 DE FEBRERO DE 2016)
 
 ### CAPÍTULO II. De las facultades y obligaciones generales de los titulares de las dependencias
 
@@ -179,9 +187,9 @@ XVIII. Designar y remover a los representantes de la Secretaría ante organismos
 
 XIX. Disponer la creación y establecer los lineamientos y políticas de consejos, comités o comisiones temporales o permanentes de carácter consultivo u operativo, que sean necesarios para la atención de los asuntos específicos, extraordinarios o programas especiales;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O. 18 DE FEBRERO DE 2016)</small>
 
-XX. Aprobar y remitir a la Secretaría de Administración y Finanzas y la Secretaría Técnica del Gabinete, Planeación y Evaluación, los anteproyectos de presupuestos y programas operativos anuales de la Dependencia, con la oportunidad que señalen las disposiciones legales y administrativas;
+XX. Aprobar y remitir a la Secretaría de Administración y Finanzas, y a la Secretaría Técnica de Planeación y Evaluación los anteproyectos de presupuestos de ingresos y de egresos de la dependencia a su cargo, así como los proyectos de (sic) programa presupuestario que les corresponda, en términos de las disposiciones legales y normativas aplicables;
 
 XXI. Delegar la representación legal de su Dependencia en mandatarios generales o limitados en términos de lo establecido en el Código Civil del Estado de Yucatán y revocar dichos mandatos;
 
@@ -465,7 +473,7 @@ XXIV. Coadyuvar con la Consejería Jurídica en los procedimientos, recursos o j
 
 XXV. Coadyuvar con la Consejería Jurídica en los procedimientos que se sigan ante el Tribunal de los Trabajadores al Servicio del Estado y de los Municipios del Poder Judicial del Estado de Yucatán;
 
-XXVI. Ser enlace ante la Unidad de Acceso a la Información Pública del Poder Ejecutivo, para obtener la información pública que obre en los archivos de la dependencia;
+XXVI. (DEROGADA, D.O. 18 DE FEBRERO DE 2016)
 
 > <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
@@ -507,43 +515,53 @@ Se exceptúa de lo establecido en los artículos 16, 17 y 18 de este Reglamento 
 
 DE LAS ATRIBUCIONES Y FORMA DE ORGANIZACIÓN DE CADA DEPENDENCIA
 
-## TÍTULO I. DESPACHO DEL GOBERNADOR DEL ESTADO
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 18 DE FEBRERO DE 2016)</small>
+
+## TÍTULO I. DESPACHO DEL GOBERNADOR
 
 ### CAPÍTULO ÚNICO. De la organización y atribuciones del Despacho del Gobernador
 
-#### SECCIÓN PRIMERA. De su ámbito de competencia
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 18 DE FEBRERO DE 2016)</small>
 
-> <small>(REFORMADO, D.O. 1 DE ENERO DE 2013)</small>
+#### SECCIÓN PRIMERA. De la organización del Despacho del Gobernador
+
+> <small>(REFORMADO, D.O. 18 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 20.
 
-Para el ejercicio de sus atribuciones, el Despacho del Gobernador del Estado contará con la siguiente estructura:
+Para el ejercicio de sus atribuciones, el Despacho del Gobernador estará integrado por:
 
-I. Jefatura del Despacho del Gobernador del Estado;
+I. La Jefatura del Despacho del Gobernador, que estará conformada por:
 
-a) Dirección de Análisis y Seguimiento;
+a) La Dirección de Análisis y Seguimiento;
 
-b) Dirección de Relaciones Públicas;
+b) La Dirección de Relaciones Públicas, y
 
-c) Oficina de Asuntos Internacionales, y
+c) La Unidad de Gestión y Orientación.
 
-d) Unidad de Gestión y Orientación.
+II. La Coordinación General de Asesores, que estará conformada por:
 
-II. Secretaría Particular;
+a) La Coordinación de Asesores;
 
-a) Secretaría Privada.
+b) La Coordinación de Proyectos Estratégicos, y
 
-III. Los órganos desconcentrados que determine el Titular del Poder Ejecutivo.
+c) La Coordinación de Asuntos Internacionales.
 
-> <small>(REFORMADO, D.O. 1 DE ENERO DE 2013)</small>
+III. La Secretaría Particular.
+
+IV. La Secretaría Privada.
+
+> <small>(REFORMADO, D.O. 18 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 21.
 
-Los titulares de la Jefatura, de la Secretaría Particular y de los órganos desconcentrados que integran el Despacho del Gobernador, serán nombrados y removidos libremente por el Titular del Poder Ejecutivo del Estado y contarán con las áreas administrativas y personal de apoyo que requieran para el oportuno despacho de sus asuntos, de acuerdo con lo establecido en este Reglamento y otras disposiciones normativas aplicables.
+Los titulares de las unidades administrativas establecidas en las fracciones I, II, III y IV del artículo anterior serán nombrados y removidos libremente por el Gobernador.
 
-El Jefe del Despacho, el Secretario Particular y los titulares de los órganos desconcentrados, nombrarán y removerán libremente a los titulares de las unidades administrativas adscritas a su mando.
+Asimismo, estos titulares nombrarán y removerán libremente a los titulares de las unidades administrativas a su cargo, y serán auxiliados en el desempeño de sus facultades y obligaciones por el personal que requieran, de conformidad con la disponibilidad presupuestal.
 
-#### SECCIÓN SEGUNDA. De las atribuciones de las unidades y órganos del Despacho del Gobernador
+> <small>(REFORMADA SU DENOMINACIÓN, D.O. 18 DE FEBRERO DE 2016)</small>
+
+#### SECCIÓN SEGUNDA. De las atribuciones del Despacho del Gobernador
 
 > <small>(REFORMADO, D.O. 1 DE ENERO DE 2013)</small>
 
@@ -553,17 +571,17 @@ La Jefatura del Despacho del Gobernador estará a cargo de un Titular que se den
 
 I. Brindar al Gobernador del Estado apoyo y asesoría técnica, para la resolución de los asuntos en los que pida su intervención;
 
-II. Convocar a los titulares de las dependencias y entidades del Sistema de Gabinete Sectorizado para la celebración de las sesiones del sector que corresponda;
+II. (DEROGADA, D.O. 18 DE FEBRERO DE 2016)
 
 III. Formular la Agenda Anual de Relaciones Públicas del Gobernador del Estado, de conformidad con las directrices que determine el Titular del Poder Ejecutivo;
 
-IV. Supervisar y dar seguimiento, en coordinación con la Secretaría Técnica del Gabinete, Planeación y Evaluación, a los compromisos y proyectos establecidos en el Plan Estatal de Desarrollo;
+IV. (DEROGADA, D.O. 18 DE FEBRERO DE 2016)
 
 V. Coordinar a las unidades administrativas adscritas a la Jefatura del Despacho del Gobernador;
 
 VI. Analizar periódicamente los resultados las actividades de opinión e imagen institucional del Poder Ejecutivo Estado y presentarlos a la consideración del Gobernador del Estado;
 
-VII. Supervisar los trabajos del Sistema de Gabinete Sectorizado conforme a la normatividad aplicable;
+VII. (DEROGADA, D.O. 18 DE FEBRERO DE 2016)
 
 VIII. Asistir a juntas periódicas con relación a su gestión, con la frecuencia que determine el Gobernador del Estado;
 
@@ -611,13 +629,17 @@ XXIX. Llevar el registro y control, para su atención, de la correspondencia ofi
 
 XXX. Documentar los procesos operativos y administrativos de las diferentes áreas adscritas a la Jefatura del Despacho del Gobernador;
 
-XXXI. Instaurar programas de capacitación para el personal que labora en la Jefatura del Despacho;
+> <small>(REFORMADA, D.O. 18 DE FEBRERO DE 2016)</small>
+
+XXXI. Instaurar programas de capacitación para el personal de la Jefatura del Despacho del Gobernador;
 
 XXXII. Implementar un sistema permanente de mejoramiento en la calidad de las actividades y servicios que se realicen en las diferentes áreas adscritas a la Jefatura del Despacho del Gobernador;
 
-XXXIII. Coadyuvar a la ejecución de los programas de modernización y simplificación administrativa, así como de las metodologías que conlleven a mejorar los procesos y sistemas establecidos y el ambiente de trabajo del personal adscrito a la Jefatura del Despacho;
+> <small>(REFORMADA, D.O. 18 DE FEBRERO DE 2016)</small>
 
-XXXIV. Brindar, de acuerdo con las necesidades de la Jefatura del Despacho, servicios de apoyo administrativo en los casos y términos que determine el Jefe del Despacho del Gobernador, así como en aquellos que establezcan este Reglamento y otras disposiciones normativas aplicables;
+XXXIII. Colaborar en la ejecución de los programas de modernización y simplificación administrativa, así como de las metodologías que conlleven a mejorar los procesos y sistemas establecidos y el ambiente de trabajo del personal adscrito a la Jefatura del Despacho del Gobernador;
+
+XXXIV. (DEROGADA, D.O. 18 DE FEBRERO DE 2016)
 
 XXXV. Coordinar y supervisar la aplicación de los estímulos y recompensas para el personal de la Jefatura del Despacho del Gobernador que determinen los ordenamientos aplicables;
 
@@ -675,31 +697,9 @@ VIII. Participar en la atención y recepción de los invitados oficiales y espec
 
 IX. Las demás que le asigne el Jefe del Despacho del Gobernador, de conformidad a las disposiciones legales aplicables.
 
-> <small>(REFORMADO, D.O. 1 DE ENERO DE 2013)</small>
-
 ###### Artículo 25.
 
-El Titular de la Oficina de Asuntos Internacionales tendrá las siguientes facultades y obligaciones:
-
-I. Proponer estrategias, actividades y mecanismos de vinculación, desarrollo, intercambio y cooperación internacional;
-
-II. Promover la celebración de convenios, acuerdos o alianzas entre el Poder Ejecutivo y organizaciones públicas o privadas internacionales;
-
-III. Diseñar y proponer estrategias y actividades que permitan crear, mantener o fortalecer las relaciones públicas del Gobernador del Estado con los sectores público, privado y social internacional;
-
-IV. Supervisar la ejecución de las acciones de índole internacional establecidas en la Agenda Anual de Relaciones Públicas del Gobernador del Estado;
-
-V. Servir de vínculo entre el Poder Ejecutivo Estatal y las diversas representaciones internacionales oficiales;
-
-VI. Rendir informes de sus actividades con la periodicidad que establezca el Jefe del Despacho del Gobernador del Estado;
-
-VII. Investigar, proporcionar y supervisar los protocolos de atención a personalidades internacionales en actividades en las que propicie o participe el gobierno del Estado;
-
-VIII. Llevar a cabo las acciones de recepción y atención a integrantes de misiones diplomáticas, embajadas, cuerpo consular, invitados y personalidades extranjeras en el Estado;
-
-IX. Proponer políticas públicas, programas y acciones de atención a migrantes y desarrollo de municipios con población migrante, y
-
-X. Las demás que de manera expresa le confieran el Titular de la Jefatura del Despacho del Gobernador del Estado y otras disposiciones legales aplicables.
+(DEROGADO, D.O. 18 DE FEBRERO DE 2016)
 
 > <small>(REFORMADO, D.O. 1 DE ENERO DE 2013)</small>
 
@@ -719,6 +719,90 @@ V. Informar al Jefe del Despacho del Gobernador, con la periodicidad que éste d
 
 VI. Las demás que le asigne el Jefe del Despacho del Gobernador, de conformidad a las disposiciones legales aplicables.
 
+> <small>(ADICIONADO, D.O. 18 DE FEBRERO DE 2016)</small>
+
+###### Artículo 26 Bis.
+
+El Coordinador General de Asesores tendrá las siguientes facultades y obligaciones:
+
+I. Brindar asesoría y apoyo técnico al Gobernador para el adecuado desempeño de sus facultades y obligaciones;
+
+II. Supervisar los discursos y mensajes públicos del Gobernador y opinar, previa solicitud, sobre aquellos que les correspondan a los titulares de las dependencias o entidades de la Administración Pública estatal;
+
+III. Vigilar el adecuado desarrollo de los proyectos estratégicos definidos por el Gobernador;
+
+IV. Representar al Poder Ejecutivo del estado ante instituciones nacionales e internacionales, cuando así lo determine el Gobernador;
+
+V. Proponer al Gobernador y, en su caso, implementar políticas, estrategias, programas y acciones para la internacionalización del estado;
+
+VI. Impulsar el establecimiento de vínculos de coordinación y cooperación con los sectores público, privado y social, ya sean del ámbito nacional o internacional;
+
+VII. Fomentar la relación con los representantes consulares que se encuentren en el estado y brindar, en el ámbito de su competencia, las facilidades necesarias para el adecuado ejercicio de sus funciones;
+
+VIII. Organizar la agenda internacional del Gobernador y los viajes nacionales e internacionales que necesite realizar para impulsar el desarrollo del estado, y elaborar los informes correspondientes, y
+
+IX. Las demás que le confiera el Gobernador y establezcan las demás disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 18 DE FEBRERO DE 2016)</small>
+
+###### Artículo 26 Ter.
+
+El Coordinador de Asesores tendrá las siguientes facultades y obligaciones:
+
+I. Apoyar en la elaboración de los discursos y mensajes públicos que requiera el Gobernador o que soliciten los titulares de las dependencias y entidades de la Administración Pública estatal;
+
+II. Elaborar documentos y materiales (sic) apoyo que transmitan información sobre el Gobierno del estado, y apoyar en la elaboración de aquellos que generen las dependencias y entidades de la Administración Pública estatal;
+
+III. Integrar información cualitativa y cuantitativa que pueda ser de utilidad para la atención de los asuntos que sean competencia del Gobernador y del Coordinador General de Asesores;
+
+IV. Colaborar en el desarrollo de los estudios y las investigaciones que permitan el adecuado desempeño de las facultades y obligaciones del Gobernador y del Coordinador General de Asesores, y
+
+V. Las demás que le confiera el Coordinador General de Asesores y establezcan este reglamento y las demás disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 18 DE FEBRERO DE 2016)</small>
+
+###### Artículo 26 Quater.
+
+El Coordinador de Proyectos Estratégicos tendrá las siguientes facultades y obligaciones:
+
+I. Proponer la definición de proyectos estratégicos y verificar, en coordinación con los titulares de las dependencias o entidades de la Administración Pública estatal responsables, su adecuado desarrollo;
+
+II. Sugerir los criterios para asignar a los proyectos la calidad de estratégico así como para definir la prioridad en su implementación;
+
+III. Establecer mecanismos de coordinación para impulsar el diseño, implementación, seguimiento y evaluación de proyectos estratégicos, así como para agilizar la toma decisiones al respecto;
+
+IV. Colaborar, en el ámbito de su competencia, con el Gobierno federal en el desarrollo de los proyectos prioritarios que tengan injerencia en el estado;
+
+V. Brindar asesoría y apoyo técnico a las dependencias y entidades de la Administración Pública estatal, y a las autoridades municipales que lo soliciten, en la definición, diseño, implementación, seguimiento y evaluación de proyectos estratégicos;
+
+VI. Participar, en coordinación con las autoridades estatales competentes, en la gestión de recursos provenientes de los sectores público, privado y social para el desarrollo de proyectos estratégicos en el estado, y
+
+VII. Las demás que le confiera el Coordinador General de Asesores y establezcan este reglamento y las demás disposiciones legales y normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 18 DE FEBRERO DE 2016)</small>
+
+###### Artículo 26 Quinquies.
+
+El Coordinador de Asuntos Internacionales tendrá las siguientes facultades y obligaciones:
+
+I. Proponer el establecimiento de vínculos de coordinación y cooperación con los sectores público, privado y social, ya sean del ámbito nacional o internacional;
+
+II. Detectar, en coordinación con las dependencias y entidades de la Administración Pública estatal, áreas de oportunidad para fomentar la presencia del Gobierno del estado en los ámbitos nacional e internacional;
+
+III. Elaborar los proyectos de convenio y acuerdo que el Gobierno del estado pretenda celebrar con instituciones internacionales de los sectores público, privado y social;
+
+IV. Verificar, en coordinación con las autoridades competentes, el cumplimiento de los convenios y acuerdos celebrados entre el Gobierno del estado e instituciones internacionales de los sectores público, privado y social;
+
+V. Organizar los viajes nacionales e internacionales que necesite realizar el Gobernador y el Coordinador General de Asesores para el adecuado desempeño de sus facultades y obligaciones, y elaborar los informes correspondientes;
+
+VI. Apoyar en la organización de las actividades internacionales de las dependencias o entidades de la Administración Pública estatal, previa solicitud del titular correspondiente;
+
+VII. Participar, en coordinación con los titulares de las dependencias y entidades de la Administración Pública estatal, en la atención de los agentes diplomáticos, representantes consulares, miembros del servicio exterior e invitados extranjeros que visiten el estado;
+
+VIII. Brindar asesoría y apoyo técnico a los municipios del estado que lo soliciten en el establecimiento de vínculos de coordinación y cooperación con los sectores público, privado y social, ya sean del ámbito nacional o internacional, y
+
+IX. Las demás que le confiera el Coordinador General de Asesores y establezcan este reglamento y las demás disposiciones legales y normativas aplicables.
+
 > <small>(REFORMADO, D.O. 1 DE ENERO DE 2013)</small>
 
 ###### Artículo 27.
@@ -729,7 +813,9 @@ I. Auxiliar al Gobernador del Estado en la realización de sus responsabilidades
 
 II. Apoyar al Gobernador del Estado en la elaboración de discursos y mensajes públicos;
 
-III. Recibir la documentación dirigida al Titular del Ejecutivo Estatal y a los demás servidores públicos del Despacho del Gobernador del Estado, y turnarla para su adecuada y pronta atención;
+> <small>(REFORMADA, D.O. 18 DE FEBRERO DE 2016)</small>
+
+III. Recibir la documentación dirigida al Gobernador y a los demás servidores públicos del Despacho del Gobernador, y turnarla a quien corresponda para su atención;
 
 IV. Atender los requerimientos del Gobernador del Estado para establecer comunicación con los miembros de los sectores público, privado y social, con relación a los asuntos oficiales;
 
@@ -785,7 +871,7 @@ IV. Las demás que le asigne el Titular del Poder Ejecutivo del Estado.
 
 ###### Artículo 36.
 
-Los órganos desconcentrados dependientes del Despacho del Gobernador tendrán las atribuciones que les confiera su Decreto de creación y las que establezcan otros ordenamientos normativos aplicables.
+(DEROGADO, D.O. 18 DE FEBRERO DE 2016)
 
 ## TÍTULO II. SECRETARÍA GENERAL DE GOBIERNO
 
@@ -1059,7 +1145,7 @@ III. Coadyuvar en el cumplimiento de las funciones del Consejo Estatal para la P
 
 IV. Coordinar y dar seguimiento a las acciones y trabajos realizados por el Subcomité Sectorial de Legalidad, Seguridad y Desarrollo Político;
 
-VI. Dar seguimiento al programa de mediano plazo sectorial denominado Desarrollo Político y Consolidación de la Democracia, y
+VI (SIC). Dar seguimiento al programa de mediano plazo sectorial denominado Desarrollo Político y Consolidación de la Democracia, y
 
 V. Las demás que le confieran otras disposiciones normativas aplicables.
 
@@ -1375,7 +1461,9 @@ XII. Concertar y contratar empréstitos y créditos con instituciones nacionales
 
 XIII. Autorizar la suscripción de títulos de crédito en los términos de la legislación aplicable;
 
-XIV. Elaborar, con la participación del Secretario Técnico del Gabinete, Planeación y Evaluación, los anteproyectos de Ley de Ingresos y de Presupuesto de Egresos del Gobierno del Estado; y someterlos a la aprobación del titular del Poder Ejecutivo del Estado;
+> <small>(REFORMADA, D.O. 18 DE FEBRERO DE 2016)</small>
+
+XIV. Elaborar, con la participación del Secretario Técnico de Planeación y Evaluación, los anteproyectos de ley de ingresos y de presupuesto de egresos del estado, y someterlos a la aprobación del Gobernador;
 
 XV. Proponer al Titular del Poder Ejecutivo las contribuciones que deba contener la Ley General de Hacienda del Estado de Yucatán;
 
@@ -1439,7 +1527,9 @@ XLIV. Vigilar que las unidades administrativas de esta Secretaría, cumplan las 
 
 XLV. Aprobar las políticas y lineamientos en materia de logística y protocolo que deberán observar las dependencias y entidades de la Administración Pública Estatal;
 
-XLVI. Gestionar, en coordinación con la Secretaría Técnica del Gabinete, Planeación y Evaluación, recursos financieros ante las instancias del Gobierno Federal y otros organismos públicos o privados, sean nacionales o internacionales, así como orientar la asignación de los mismos al cumplimiento de los objetivos y metas establecidos en los instrumentos de planeación, y
+> <small>(REFORMADA, D.O. 18 DE FEBRERO DE 2016)</small>
+
+XLVI. Gestionar, en coordinación con la Secretaría Técnica de Planeación y Evaluación, recursos financieros provenientes de la federación o de instituciones de los sectores privado o social, y orientar su asignación al cumplimiento de los objetivos y las metas definidos en los instrumentos de planeación, y
 
 XLVII. Las demás que establezcan este Reglamento y otras disposiciones, legales aplicables.
 
@@ -1465,7 +1555,9 @@ VII. Participar en la concertación y contratación de empréstitos y créditos 
 
 VIII. Suscribir títulos de crédito en los términos de la legislación aplicable, por acuerdo del Secretario;
 
-IX. Formular y proponer, con la participación de la Secretaría Técnica del Gabinete, Planeación y Evaluación, el anteproyecto anual de la Iniciativa de Ley de Ingresos, y someterla a la aprobación del Secretario;
+> <small>(REFORMADA, D.O. 18 DE FEBRERO DE 2016)</small>
+
+IX. Formular, en coordinación con la Secretaría Técnica de Planeación y Evaluación, el anteproyecto de ley de ingresos del estado, y someterlo a la aprobación del secretario;
 
 X. Participar en los estudios que se lleven a cabo con el fin de establecer los precios y tarifas de los bienes y servicios de las dependencias para integrarlos al proyecto de ley correspondiente;
 
@@ -1497,7 +1589,9 @@ XXIII. Formular y proponer al Secretario, los lineamientos que deberán observar
 
 XXIV. Dictaminar y proponer el otorgamiento de aval del Estado, así como afectar las participaciones, para garantizar el cumplimiento de las obligaciones contraídas por la Administración Pública del Estado, los ayuntamientos y entidades paramunicipales, de conformidad a la legislación de la materia, y
 
-XXV. Coadyuvar con la Secretaría Técnica del Gabinete, Planeación y Evaluación, en la gestión de recursos financieros ante instancias del Gobierno Federal y otros organismos públicos o privados, sean nacionales o internacionales, y
+> <small>(REFORMADA, D.O. 18 DE FEBRERO DE 2016)</small>
+
+XXV. Colaborar con la Secretaría Técnica de Planeación y Evaluación en la gestión de recursos financieros provenientes de la federación o de instituciones de los sectores privado o social, y
 
 XXVI. Las demás atribuciones que le otorgue el Manual de Organización General de la Secretaría, este Reglamento y otras disposiciones legales aplicables.
 
@@ -1575,7 +1669,9 @@ XVIII. Las demás atribuciones que le otorgue el Manual de Organización General
 
 Al Director General de Presupuesto y Gasto Público le corresponde el despacho de los siguientes asuntos:
 
-I. Formular y proponer, con la participación de la Secretaría Técnica del Gabinete, Planeación y Evaluación, el anteproyecto anual de Presupuesto de Egresos con base en las disposiciones normativas y legales aplicables, y someterlo a la consideración del Secretario;
+> <small>(REFORMADA, D.O. 18 DE FEBRERO DE 2016)</small>
+
+I. Formular, en coordinación con la Secretaría Técnica de Planeación y Evaluación, el anteproyecto de presupuesto de egresos del estado, y someterlo a la aprobación del secretario;
 
 II. Programar el ejercicio del gasto público, de conformidad con las disposiciones establecidas en el Presupuesto de Egresos del Gobierno del Estado;
 
@@ -1583,7 +1679,9 @@ III. Autorizar las Cuentas por Liberar Certificadas que le presenten las depende
 
 IV. Asignar los recursos provenientes de fondos de aportaciones federales y de reasignaciones del Presupuesto de Egresos de la Federación, a los programas, actividades y demás intervenciones públicas conforme a las disposiciones normativas y legales aplicables;
 
-V. Coordinar, con la participación de la Secretaría Técnica del Gabinete, Planeación y Evaluación, los trabajos de las dependencias y entidades de la Administración Pública del Estado para la elaboración (sic) sus programas operativos anuales y su integración en el Programa Operativo Anual Global;
+> <small>(REFORMADA, D.O. 18 DE FEBRERO DE 2016)</small>
+
+V. Coordinar, con la participación de la Secretaría Técnica de Planeación y Evaluación, a las dependencias y entidades de la Administración Pública estatal en la elaboración de sus programas presupuestarios y operativos anuales, y su integración en el Programa Operativo Anual Global;
 
 VI. Asesorar y apoyar a las dependencias y entidades de la Administración Pública del Estado en la formulación y ejercicio de sus presupuestos;
 
@@ -1967,7 +2065,7 @@ I. Realizar estudios, trabajos de investigación, programas y proyectos encamina
 
 II. Proponer, difundir y evaluar normas, programas y manuales relacionados con la modernización de la gestión pública, sistemas de gestión de calidad, prestación de trámites y servicios públicos y de innovación, en el ámbito gubernamental;
 
-III. Participar en los consejos y grupos de trabajo que se integren en el seno del Consejo Estatal de Planeación de Yucatán y sean de su competencia;
+III. (DEROGADA, D.O. 18 DE FEBRERO DE 2016)
 
 IV. Implementar, dar seguimiento y llevar el registro de los sistemas de gestión de calidad en las dependencias y entidades del Poder Ejecutivo del Estado;
 
@@ -2353,7 +2451,11 @@ IV. Revisar los oficios en los cuales se instruya a los Secretarios de Actas par
 
 V. Revisar, a solicitud de los Secretarios de Actas, los proyectos de actas de las sesiones de las juntas de gobierno o sus equivalentes, de conformidad con lo dispuesto en este Reglamento, y
 
-VI. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
+> <small>(ADICIONADA, D.O. 18 DE FEBRERO DE 2016)</small>
+
+VI. Ser enlace de la Consejería Jurídica ante la Unidad de Acceso a la Información Pública del Poder Ejecutivo.
+
+VII. Las demás que establezcan este Reglamento y otras disposiciones legales aplicables.
 
 ###### Artículo 79.
 
@@ -2631,9 +2733,9 @@ V. Interpretar este reglamento cuando exista duda o controversia sobre su aplica
 
 VI. Vigilar el seguimiento de acuerdos de las reuniones del Consejo Nacional de Salud;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O. 18 DE FEBRERO DE 2016)</small>
 
-VII. Elaborar el Programa Sectorial de Salud en el marco del Consejo Estatal de Planeación de Yucatán, y coadyuvar en la formulación de los programas sectoriales e institucionales, de conformidad a las disposiciones de la Ley Estatal de Planeación y el Consejo Nacional de Salud;
+VII. Elaborar y participar en la elaboración de los programas sectoriales y demás programas de mediano plazo que le correspondan;
 
 > <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
 
@@ -2781,13 +2883,13 @@ IV. Dirección de Educación Secundaria;
 
 V. Dirección de Educación Media Superior;
 
-VI. Dirección de Educación Superior;
+VI. (DEROGADA, D.O. 18 DE FEBRERO DE 2016)
 
 VII. Dirección de Educación Física;
 
 VIII. Dirección de Educación Indígena;
 
-IX. Dirección de Profesiones.
+IX. (DEROGADA, D.O. 18 DE FEBRERO DE 2016)
 
 X. Dirección de Planeación;
 
@@ -2817,15 +2919,21 @@ II. Formular, en el contexto de la normatividad constitucional del Estado y dent
 
 III. Realizar, de conformidad con la Ley de Educación del Estado de Yucatán, las adecuaciones al calendario escolar que deba regir en el Estado para los planteles de educación preescolar, especial, primaria, secundaria, normal y demás escuelas, para la formación de maestros de educación básica, y solicitar su publicación en el Diario Oficial del Gobierno del Estado de Yucatán;
 
-IV. Validar con su firma los títulos y grados académicos expedidos por las instituciones que están bajo la responsabilidad de esta Secretaría, así como de aquéllas cuyos programas le otorgan el reconocimiento de validez oficial de estudios;
+> <small>(REFORMADA, D.O. 18 DE FEBRERO DE 2016)</small>
+
+IV. Validar con su firma los grados académicos expedidos por las instituciones que están bajo la responsabilidad de esta secretaría, así como de aquellas cuyos programas le otorgan el reconocimiento de validez oficial de estudios, excepto los relativos a educación superior;
 
 V. Expedir los lineamientos generales para el otorgamiento de las becas que sean competencia de esta Secretaría;
 
-VI. Establecer los lineamientos generales que rijan el otorgamiento de autorizaciones a los particulares para impartir educación preescolar, especial, primaria, secundaria, normal y otras más para la formación de maestros de educación básica, el reconocimiento de validez oficial de estudios y suscribir los acuerdos correspondientes;
+> <small>(REFORMADA, D.O. 18 DE FEBRERO DE 2016)</small>
 
-VII. Proponer al Gobernador del Estado y coordinar las políticas públicas, programas y actividades de la Administración Pública relativas al desarrollo científico y tecnológico;
+VI. Establecer los lineamientos generales que rijan el otorgamiento de autorizaciones a los particulares para impartir educación preescolar, especial, primaria y secundaria; y el reconocimiento de validez oficial de estudios, con excepción de los relativos a la educación superior, y suscribir los acuerdos correspondientes;
 
-VIII. Proponer al Gobernador del Estado la vinculación entre el sector educativo y los diversos sectores productivos de la economía estatal;
+VII. (DEROGADA, D.O. 18 DE FEBRERO DE 2016)
+
+> <small>(REFORMADA, D.O. 18 DE FEBRERO DE 2016)</small>
+
+VIII. Proponer al Gobernador del estado la vinculación entre el sector educativo de su competencia y los diversos sectores productivos de la economía estatal;
 
 IX. Preservar el patrimonio cultural del Estado, en sus diversas manifestaciones;
 
@@ -2837,17 +2945,25 @@ XII. Establecer los mecanismos para que los ciudadanos en general, padres de fam
 
 XIII. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
 
-> <small>(REFORMADO, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O. 18 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 130.
 
-Los titulares de las direcciones mencionadas en las fracciones I a VIII del artículo 125, tendrán las siguientes facultades y obligaciones comunes:
+Los titulares de las direcciones mencionadas en las fracciones I, II, III, IV, V, VII y VIII del artículo 125, tendrán las siguientes facultades y obligaciones comunes:
+
+> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
 
 I. Coordinar el estudio y despacho de los asuntos propios de su nivel o área, así como dar seguimiento y resolver los asuntos que le encomiende el Secretario;
 
+> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+
 II. Planear, organizar, dirigir y evaluar el adecuado cumplimiento de los planes y programas de estudio correspondientes a su nivel o área, con el fin de hacerlos acordes con las necesidades actuales consideradas en los planes nacional y estatal de desarrollo;
 
+> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+
 III. Proponer al Secretario los programas, objetivos, metas y acciones concretas para mejorar los servicios correspondientes a su nivel o área;
+
+> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
 
 IV. Proponer al Titular de la Secretaría, en coordinación con la Dirección de Planeación, los siguientes asuntos:
 
@@ -2861,43 +2977,83 @@ d) Las acciones conducentes para la expansión de los servicios de educación re
 
 e) El proyecto de asignación de recursos que deban destinarse para la prestación de los servicios relativos a su nivelo área.
 
+> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+
 V. Programar y coordinar el desarrollo de los procesos de control escolar en los planteles de su nivel o área y, en su caso, consultar con el Secretario para dictar las medidas que procedan;
+
+> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
 
 VI. Difundir entre los supervisores y el personal directivo y docente del nivel o área de su competencia, las normas y los lineamientos para el desarrollo de las actividades de los servicios relativos a dicho nivel o área;
 
+> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+
 VII. Registrar los resultados anuales del proceso de enseñanza-aprendizaje en el Estado, a efecto de identificar y determinar las necesidades de mejoramiento profesional del personal docente y del funcionamiento de los servicios relativos a su nivel o área;
+
+> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
 
 VIII. Promover el desarrollo de intercambios pedagógicos, jornadas de mejoramiento y orientación profesional del personal de supervisión, directivo, docente, administrativo y manual de su nivel o área, para evaluar y elevar la calidad del trabajo educativo y, en su· caso, proponer al Secretario las medidas que procedan;
 
+> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+
 IX. Presentar al Secretario las iniciativas sobre el mejoramiento de los programas relativos a su nivel o área y sus apoyos colaterales;
+
+> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
 
 X. Supervisar que el personal adscrito a su nivel o área desarrolle sus funciones y actividades, de conformidad con las normas y lineamientos establecidos en los reglamentos de las condiciones generales de trabajo de la Secretaría;
 
+> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+
 XI. Comunicar al Departamento de Recursos Humanos, para efecto de su alta, la contratación del personal designado para ocupar las vacantes del nivel o área a su cargo;
+
+> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
 
 XII. Planear, organizar, dirigir y evaluar, en el ámbito de su competencia, la actualización y superación profesional del personal adscrito a su nivel o área;
 
+> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+
 XIII. Promover el mejoramiento de la calidad de la educación impartida en su nivel o área, así como la solución de sus problemas específicos;
+
+> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
 
 XIV. Tramitar los requerimientos materiales de las escuelas dependientes del nivel o área a su cargo;
 
+> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+
 XV. Impulsar y apoyar la planeación, investigación y evaluación como acciones sustantivas que garanticen el mejoramiento continuo del quehacer educativo;
+
+> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
 
 XVI. Actualizar los programas de estudio, sus contenidos, materiales y métodos de enseñanza-aprendizaje, con elementos enfocados a impulsar las habilidades, conocimientos y competencias del educando, así como favorecer su incursión en el sector productivo;
 
-XVII. Promover la vinculación del sistema educativo básico, medio superior y superior con et sector productivo, para mejorar la calidad de la educación y elevar los índices de productividad;
+> <small>(REFORMADA, D.O. 18 DE FEBRERO DE 2016)</small>
+
+XVII. Promover la vinculación del sistema educativo básico y medio superior con el sector productivo, para mejorar la calidad de la educación y elevar los índices de productividad;
+
+> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
 
 XVIII. Crear mecanismos sistemáticos de evaluación que permitan conocer los niveles de aprovechamiento de los alumnos, del desempeño magisterial y de los diversos niveles de dirección, supervisión y demás funciones que se desarrollan en el sistema educativo estatal;
 
+> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+
 XIX. Promover la realización de actos cívicos en las instituciones públicas y privadas en las fechas señaladas por el calendario oficial;
+
+> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
 
 XX. Supervisar, en términos de la Ley de Educación del Estado de Yucatán, que los servicios de educación relativos a su nivel o área prestados por las escuelas oficiales y particulares incorporadas al Sistema Educativo Estatal, cumplan con las disposiciones legales y la normatividad aplicable y, en su caso, solicitar la imposición de las sanciones que procedan, por conducto de la unidad administrativa competente;
 
+> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+
 XXI. Organizar, en coordinación con la Dirección de Planeación y el Centro de Evaluación Educativa del Estado, los concursos de oposición para el ingreso al servicio de personal docente de su nivel o área a las escuelas públicas del Estado;
+
+> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
 
 XXII. Autorizar la plantilla del personal docente contratado en las escuelas particulares del nivel educativo correspondiente, incorporadas al sistema educativo estatal;
 
+> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+
 XXIII. Comunicar a la Dirección Jurídica aquellos casos en que conozca de conductas presumiblemente delictivas o infractoras, previstas en las leyes y reglamentos relacionados con el ejercicio profesional y la autenticidad de documentos académicos oficiales, y
+
+> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
 
 XXIV. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
 
@@ -2995,47 +3151,9 @@ IX. Fungir como Secretario Técnico del Comité Interinstitucional de Coordinaci
 
 X. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
 
-> <small>(ADICIONADO, D.O. 1 DE ENERO DE 2013)</small>
-
 ###### Artículo 135 Bis.
 
-Al Director de Educación Superior, además de las facultades y obligaciones comunes a los directores mencionadas en el artículo 130 de este Reglamento, le corresponde el despacho de los siguientes asuntos:
-
-I. Establecer mecanismos de coordinación con las Instituciones de Educación Superior de Ciencia y Tecnología, para la planeación, evaluación y el desarrollo educativo, científico y tecnológico de la entidad;
-
-II. Participar en el estudio y toma de decisiones, según sea el caso, de los proyectos para la ampliación, sustitución y ubicación de planteles y para la creación de nuevas instituciones y planes de estudios que impartan educación superior en la entidad, así como de la oferta de nuevas modalidades y programas educativos de instituciones ya existentes;
-
-III. Promover que en las instituciones de educación superior, se realicen estudios y diagnósticos que permitan identificar las características y problemas de estos tipos educativos y conocer los resultados obtenidos;
-
-IV. Sistematizar, integrar y difundir la información necesaria para la evaluación global de la educación superior;
-
-V. Promover la creación de redes de intercambio y cooperación académica entre las instituciones públicas y privadas de educación superior, dentro de un esquema de calidad;
-
-VI. Proponer, en coordinación con las unidades administrativas competentes de la Secretaría, la incorporación del conocimiento y aplicación de las tecnologías de la información y la comunicación en los programas académicos y materiales pedagógicos;
-
-VII. Impulsar el desarrollo y consolidación de cuerpos académicos para la generación y aplicación innovadora del conocimiento;
-
-VIII. Autenticar los certificados, títulos, diplomas o grados que se expidan por las instituciones educativas a que se refiere este artículo;
-
-IX. Promover que las instituciones de educación superior, públicas y privadas, sean evaluadas para lograr la acreditación de sus programas educativos y sean reconocidas por la calidad de los servicios educativos que prestan;
-
-X. Vigilar el ejercicio profesional en el Estado de Yucatán y supervisar que se cumplan las disposiciones legales establecidas en la Ley de Profesiones del Estado de Yucatán;
-
-XI. Emitir, en términos de la Ley de Profesiones del Estado de Yucatán, autorizaciones temporales a los pasantes de las diversas profesiones para realizar actividades profesionales;
-
-XII. Enviar al Poder Ejecutivo del Estado, al Tribunal Superior de Justicia y a las autoridades federales, las listas de peritos profesionales formadas por los colegios de profesionistas registrados ante la Dirección;
-
-XIII. Registrar a los colegios de profesionistas que lo soliciten;
-
-XIV. Tramitar ante la Dirección General de Profesiones, el registro de los estudios de nivel medio superior y superior de las instituciones educativas con reconocimiento de validez oficial de estudios otorgado por esta Secretaría, así como el registro profesional de los particulares que lo soliciten;
-
-XV. Ser interlocutor con las Instituciones de Educación Superior Privadas a fin de construir con éstas una agenda de trabajo conjunta para mejora de la reglamentación;
-
-XVI. Fungir como Secretario Técnico del Sistema del Comité Insterinstitucional (sic) del Sistema de Educación Normal para el logro de sus objetivos;
-
-XVII. Coordinar la relación institucional con las Universidades e Institutos Tecnológicos del Estado, y
-
-XVIII. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+(DEROGADO, D.O. 18 DE FEBRERO DE 2016)
 
 ###### Artículo 136.
 
@@ -3087,45 +3205,7 @@ VIII. Las demás que le otorguen este Reglamento y otras disposiciones normativa
 
 ###### Artículo 138.
 
-Al Director de Profesiones, además de los establecidos en las leyes aplicables sobre la materia, le corresponde el despacho de los siguientes asuntos:
-
-I. Vigilar el ejercicio profesional en el Estado de Yucatán y supervisar que se cumplan las disposiciones legales establecidas en la Ley de Profesiones del Estado de Yucatán;
-
-II. Emitir, en términos de la Ley de Profesiones del Estado de Yucatán, autorizaciones temporales a los pasantes de las diversas profesiones para realizar actividades profesionales;
-
-III. Enviar al Poder Ejecutivo del Estado, al Tribunal Superior de Justicia y a las autoridades federales, las listas de peritos profesionales formadas por los colegios de profesionistas;
-
-IV. Registrar a los colegios de profesionistas que lo soliciten;
-
-V. Tramitar ante la Dirección General de Profesiones, el registro de los estudios de nivel medio superior y superior de las instituciones educativas con reconocimiento de validez oficial de estudios otorgado por esta Secretaría, así como el registro profesional de los particulares que lo soliciten;
-
-VI. Participar en la instrumentación de las medidas que tiendan a elevar la calidad de los servicios profesionales, en coordinación con las unidades administrativas correspondientes;
-
-VII. (DEROGADA, D.O. 1 DE ENERO DE 2013)
-
-VIII. (DEROGADA, D.O. 1 DE ENERO DE 2013)
-
-IX. (DEROGADA, D.O. 1 DE ENERO DE 2013)
-
-X. (DEROGADA, D.O. 1 DE ENERO DE 2013)
-
-XI. (DEROGADA, D.O. 1 DE ENERO DE 2013)
-
-XII. Registrar los certificados emitidos por instituciones de educación superior y de educación extraescolar incorporadas a esta Secretaría;
-
-XIII. Evaluar e interpretar las normas que en materia de autorización y reconocimiento de validez oficial de estudios emite la Secretaría de Educación, con objeto de asesorar y proponer a las unidades administrativas correspondientes, los mecanismos necesarios para su cumplimiento;
-
-XIV. Estudiar y resolver conjuntamente con las unidades administrativas respectivas, las solicitudes para otorgar la autorización o el reconocimiento de validez oficial de estudios a particulares para impartir educación en todos sus tipos y modalidades;
-
-XV. Sustanciar, conjuntamente con las unidades administrativas respectivas, el procedimiento para revocar o retirar la autorización o reconocimiento de validez oficial de estudios a que se refiere la fracción anterior y someter a consideración del Titular de esta Dependencia la resolución correspondiente;
-
-XVI. Establecer los mecanismos operativos que garanticen el cumplimiento, por parte de los particulares, de los requisitos legales y pedagógicos establecidos para el funcionamiento de planes y programas de estudio en los diferentes tipos, modalidades y niveles educativos;
-
-XVII. Estudiar, resolver y otorgar, con base en las normas y criterios generales que regulan el sistema nacional, las equivalencias y revalidaciones de estudios, así como servir de vínculo para canalizar a la instancia correspondiente las solicitudes equivalencia o revalidación que estén fuera del ámbito de su competencia;
-
-XVIII. Comunicar a la Dirección Jurídica aquellos casos en que conozca de conductas presumiblemente delictivas o infractoras, previstas en las leyes y reglamentos relacionados con el ejercicio profesional y la autenticidad de documentos académicos oficiales, y
-
-XIX. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
+(DEROGADO, D.O. 18 DE FEBRERO DE 2016)
 
 ###### Artículo 139.
 
@@ -3165,21 +3245,19 @@ d) Expansión de servicios educativos en zonas urbanas marginadas y rurales, y
 
 e) Asignación de recursos destinados para la prestación de los servicios educativos.
 
-> <small>(ADICIONADA, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O. 18 DE FEBRERO DE 2016)</small>
 
-IX. Llevar a cabo, en coordinación con las unidades administrativas correspondientes y de conformidad con la normatividad vigente, las actividades de registro y certificación de los niveles educativos de educación básica, preescolar, primaria, secundaria, extraescolar; media superior y educación normal, así como de las instituciones de nivel superior incorporadas a esta Secretaría;
+IX. Llevar a cabo, en coordinación con las unidades administrativas correspondientes y de conformidad con la normatividad vigente, las actividades de registro y certificación de los niveles educativos de educación básica, preescolar, primaria, secundaria y media superior; así como la formación extraescolar;
 
-> <small>(ADICIONADA, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O. 18 DE FEBRERO DE 2016)</small>
 
-X. Vigilar el cumplimiento de las normas de control escolar correspondientes a los niveles educativos de educación básica, preescolar, primaria, secundaria, media superior y educación normal, así como a las instituciones de nivel superior incorporadas a esta Secretaría;
+X. Vigilar el cumplimiento de las normas de control escolar correspondientes a los niveles educativos de educación básica, preescolar, primaria, secundaria y media superior, así como para la formación extraescolar;
 
 > <small>(ADICIONADA, D.O. 1 DE ENERO DE 2013)</small>
 
 XI. Comunicar a la Dirección Jurídica aquellos casos en que conozca de conductas presumiblemente delictivas o infractoras, previstas en las leyes y reglamentos relacionados con la autenticidad de documentos académicos oficiales;
 
-> <small>(ADICIONADA, D.O. 1 DE ENERO DE 2013)</small>
-
-XII. Tramitar y entregar, en su caso, las constancias de la Clave Única de Registro de Población a los estudiantes de las escuelas del Estado, así como las del personal docente, administrativo, técnico y operativo de esta Secretaría;
+XII. (DEROGADA, D.O. 18 DE FEBRERO DE 2016)
 
 > <small>(ADICIONADA, D.O. 1 DE ENERO DE 2013)</small>
 
@@ -7461,11 +7539,7 @@ XI. Coordinar la elaboración del Programa Anual de Mantenimiento Preventivo y C
 
 XII. Administrar el sistema de control de inventarios de activos fijos de esta Secretaría;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(REFORMADA, D.O. 21 DE NOVIEMBRE DE 2013)</small>
-
-XIII. Proporcionar la información solicitada por los ciudadanos y dar respuesta a través de la Unidad de Acceso a la Información Pública;
+XIII. (DEROGADA, D.O. 18 DE FEBRERO DE 2016)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -7571,13 +7645,9 @@ XII. Coadyuvar en el proceso de apertura de empresas en el Estado ante cualquier
 
 XIII. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE ARTÍCULO PRIMERO TRANSITORIO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
-
-> <small>(ADICIONADO, D.O. 21 DE NOVIEMBRE DE 2013)</small>
-
 ###### Artículo 488.
 
-Los directores de esta Secretaría podrán participar en la elaboración y ejecución del Programa Estatal de Desarrollo Administrativo y en las sesiones de los grupos de trabajo del Subcomité de Administración Pública del Consejo Estatal de Planeación de Yucatán.
+(DEROGADO, D.O. 18 DE FEBRERO DE 2016)
 
 ###### Artículo 489.
 
@@ -7625,9 +7695,9 @@ III. Promover y aprobar el Programa Operativo. Anual de la dependencia, el Progr
 
 IV. Apoyar a los ayuntamientos de los municipios que lo soliciten, en la formulación e instrumentación de programas de desarrollo y promoción del turismo;
 
-> <small>(REFORMADO, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O. 18 DE FEBRERO DE 2016)</small>
 
-V. Proponer la zonificación turística del Estado y las prioridades de su aprovechamiento, atendiendo las recomendaciones y criterios de regionalización hechas por la Secretaría Técnica del Gabinete, Planeación y Evaluación, la Secretaría de Desarrollo Urbano y Medio Ambiente, la Secretaría de Desarrollo Social, y las demás dependencias competentes en materia de desarrollo regional y ordenamiento ambiental o urbano, de acuerdo al Plan Estatal de Desarrollo y las políticas del sector;
+V. Proponer, en términos del Plan Estatal de Desarrollo, la zonificación turística del estado y las estrategias para su aprovechamiento, atendiendo a las recomendaciones efectuadas por la Secretaría de Desarrollo Urbano y Medio Ambiente, la Secretaría de Desarrollo Social, la Secretaría Técnica de Planeación y Evaluación, y las demás instituciones públicas competentes;
 
 VI. Suscribir, con la aprobación del Titular del Poder Ejecutivo, acuerdos y convenios de colaboración en materia de desarrollo y promoción turística, para la implementación de proyectos y programas turísticos estatales y regionales;
 
@@ -7643,9 +7713,7 @@ VIII. Coadyuvar con el Patronato de las Unidades de Servicios Culturales y Turí
 
 IX. Determinar el procedimiento de elaboración, actualización y revisión del Plan Rector en materia de Turismo, según lo establecido en la Ley para el Fomento y Desarrollo del Turismo en Yucatán y su Reglamento;
 
-> <small>(ADICIONADO, D.O. 1 DE ENERO DE 2013)</small>
-
-X. Designar al enlace de la dependencia ante la Unidad de Acceso a la Información Pública del Poder Ejecutivo del Estado, y
+X. (DEROGADA, D.O. 18 DE FEBRERO DE 2016)
 
 XI. Las demás que le otorguen este Reglamento y otras disposiciones normativas aplicables.
 
@@ -7667,7 +7735,7 @@ VI. Fungir como enlace con el sector empresarial turístico de Yucatán;
 
 VII. Coordinar el diseño y planeación de la agenda de eventos, viajes y actividades oficiales del Secretario;
 
-VIII. Fungir como enlace de esta Secretaría con el Despacho del Gobernador del Estado;
+VIII. (DEROGADA, D.O. 18 DE FEBRERO DE 2016)
 
 IX. Supervisar y dar seguimiento a los programas y acciones de las diversas direcciones de esta Secretaría;
 
@@ -7721,9 +7789,9 @@ XII. Las demás que le otorgue este Reglamento y otras disposiciones normativas 
 
 El titular de la Unidad de Planeación, Evaluación y Seguimiento, tendrá las siguientes facultades y obligaciones:
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O. 18 DE FEBRERO DE 2016)</small>
 
-I. Establecer los lineamientos, políticas y la planeación estratégica del sector turístico del Estado, atendiendo a las recomendaciones del Consejo Estatal de Planeación de Yucatán, a lo establecido en el Plan Estatal de Desarrollo y en los demás instrumentos de planeación estatal;
+I. Proponer objetivos, metas, políticas, estrategias y acciones en materia turística, atendiendo a las recomendaciones efectuadas por el Consejo de Planeación y Evaluación del Estado de Yucatán;
 
 II. Coordinar la elaboración y difusión del programa sectorial respectivo, así como los demás planes y programas estratégicos que se definan para el desarrollo del sector;
 
@@ -7739,7 +7807,9 @@ IV. Elaborar y evaluar el programa operativo anual de esta Secretaría, en coord
 
 V. Proveer de información para la planificación integral de los destinos, regiones, circuitos y sitios turísticos del Estado, en función de lo establecido en el Plan Estatal de Desarrollo y el Programa Sectorial correspondiente;
 
-VI. (DEROGADA, D.O. 1 DE ENERO DE 2013)
+> <small>(ADICIONADA, D.O. 18 DE FEBRERO DE 2016)</small>
+
+VI. Ser enlace de la Secretaría de Fomento Turístico ante la Unidad de Acceso a la Información Pública del Poder Ejecutivo.
 
 VII. Generar y difundir las estadísticas y la información básica del sector turismo, en apoyo al monitoreo de la actividad, la toma de decisiones y los procesos de planeación turística;
 
@@ -7775,9 +7845,9 @@ XXI. Emitir las recomendaciones necesarias para la programación, presupuestaci�
 
 XXII. Revisar con las demás direcciones los proyectos y propuestas de los programas operativos anuales y presupuestos, vigilando su alineación;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O. 18 DE FEBRERO DE 2016)</small>
 
-XXIII. Fungir como enlace entre las unidades administrativas de esta Secretaría, con la de Administración y Finanzas, el Consejo Estatal de Planeación de Yucatán y con el Fondo Nacional de Fomento al Turismo, para la alineación de políticas y estrategias institucionales;
+XXIII. Fungir como enlace de la Secretaría de Fomento Turístico con el Fondo Nacional de Fomento al Turismo, el Consejo de Planeación y Evaluación del Estado de Yucatán, y la Secretaría de Administración y Finanzas;
 
 XXIV. (DEROGADA, D.O. 1 DE ENERO DE 2013)
 
@@ -7945,9 +8015,9 @@ XVIII. Las demás que le otorguen este Reglamento y otras disposiciones normativ
 
 El Director de Administración y Finanzas tendrá las siguientes facultades y obligaciones:
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O. 18 DE FEBRERO DE 2016)</small>
 
-I. Aplicar y difundir entre las demás direcciones de esta Secretaría, los lineamientos para la elaboración del anteproyecto del programa y presupuesto anual del sector e integrarlo conforme a las normas establecidas por la Secretaría de Administración y Finanzas y la Secretaria Técnica del Gabinete, Planeación y Evaluación;
+I. Elaborar los anteproyectos de presupuestos de ingresos y de egresos de la Secretaría de Fomento Turístico, así como los proyectos de (sic) programa presupuestario que le corresponda, en términos de las disposiciones legales y normativas aplicables;
 
 II. Instrumentar las actividades relacionadas con la programación que permitan a esta Secretaría cumplir con el ejercicio correcto y oportuno del presupuesto;
 
@@ -8767,7 +8837,7 @@ I. Establecer y coordinar el sistema de planeación de esta Secretaría de confo
 
 II. Coordinar la formulación del Programa Operativo Anual que contemple los proyectos a ejecutar con recursos estatales; y los que serán ejercidos con recursos del convenio correspondiente con el Gobierno Federal;
 
-III. Observar los lineamientos definidos en el Plan Estatal de Desarrollo y por el Consejo Estatal de Planeación, para la elaboración de los programas operativos anuales, para su presentación al Titular y a las autoridades correspondientes;
+III. (DEROGADA, D.O. 18 DE FEBRERO DE 2016)
 
 IV. Coadyuvar con la Dirección de Administración y Finanzas en la elaboración del anteproyecto de presupuesto anual de egresos de la Secretaría;
 
@@ -8835,7 +8905,9 @@ El Director de Educación Ambiental y Participación Social tendrá las siguient
 
 I. Promover de manera conjunta con las dependencias y entidades de los tres órdenes de gobierno, instituciones académicas, de investigación y organismos ambientalistas, la difusión de la cultura, educación ambiental y participación social;
 
-II. Promover ante la Secretaría de Educación, previo acuerdo del Titular, la realización de proyectos de formación ambiental dirigidos a maestros y alumnos de educación básica, media superior y superior;
+> <small>(REFORMADA, D.O. 18 DE FEBRERO DE 2016)</small>
+
+II. Promover ante la Secretaría de Educación previo acuerdo del titular, la realización de proyectos de formación ambiental dirigidos a maestros y alumnos de educación básica y media superior;
 
 III. Fungir como instancia interna de coordinación e instrumentación de los sistemas de consulta de información ambiental, en el ámbito de competencia de esta Secretaría;
 
@@ -9099,9 +9171,7 @@ El Director de Administración y Finanzas tendrá las siguientes facultades y ob
 
 I. Elaborar e integrar el anteproyecto del presupuesto anual de egresos de esta Secretaría, con la asistencia de la Dirección de Planeación y Políticas para la Sustentabilidad, para su presentación al Secretario;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
-
-II. Observar los lineamientos definidos en el Plan Estatal de Desarrollo y por el Consejo Estatal de Planeación, para la elaboración de los programas de presupuestos anuales, en coordinación con la Dirección de Planeación y Políticas para la Sustentabilidad, y para su presentación al Secretario y a las autoridades correspondientes;
+II. (DEROGADA, D.O. 18 DE FEBRERO DE 2016)
 
 III. Gestionar ante las instancias correspondientes la asignación y liberación del presupuesto anual de egresos autorizado a esta Secretaría, previo acuerdo del Titular;
 
@@ -9263,9 +9333,9 @@ XV. Proponer y, en su caso, designar, por acuerdo del Titular del Poder Ejecutiv
 
 XVI. Designar al auditor que deberá participar en la suscripción de las actas de entrega recepción de los titulares y demás servidores públicos obligados de las dependencias y entidades;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O. 18 DE FEBRERO DE 2016)</small>
 
-XVII. Participar en las funciones de control y evaluación asignadas al Consejo Estatal de Planeación de Yucatán;
+XVII. Participar en las funciones de control y evaluación asignadas al Consejo de Planeación y Evaluación del Estado de Yucatán;
 
 XVIII. Opinar, previamente a su expedición, respecto de las reglas de carácter general que dicten las dependencias y entidades en los asuntos en los que el Código y las leyes les confieran competencia a la Contraloría;
 
@@ -9419,7 +9489,7 @@ A la Jefatura de Auditoría le corresponde el despacho de los siguientes asuntos
 
 > <small>(REFORMADA, D.O. 30 DE DICIEMBRE DE 2011)</small>
 
-l. Realizar en forma directa cuando así se le ordene, las auditorías en las dependencias y entidades, a fin de vigilar el estricto cumplimiento de las leyes y normas federales que regulen el ejercicio, control y administración de recursos federales y demás disposiciones legales aplicables, así como las convenidas mediante Acuerdos de Coordinación y de Colaboración celebrados con la Federación en cumplimiento a los términos del Acuerdo y con base a las políticas y normas que para tal efecto se establezcan;
+I. Realizar en forma directa cuando así se le ordene, las auditorías en las dependencias y entidades, a fin de vigilar el estricto cumplimiento de las leyes y normas federales que regulen el ejercicio, control y administración de recursos federales y demás disposiciones legales aplicables, así como las convenidas mediante Acuerdos de Coordinación y de Colaboración celebrados con la Federación en cumplimiento a los términos del Acuerdo y con base a las políticas y normas que para tal efecto se establezcan;
 
 II. Analizar el contenido de los informes derivados de la práctica de auditorías a las dependencias y entidades que se refieran a acciones o programas con cargo a recursos federales, y turnar a su superior los resultados, a fin de que se emitan las recomendaciones procedentes a los entes auditados o se turnen a las autoridades competentes cuando se deriven presuntas responsabilidades de servidores públicos;
 
@@ -9953,7 +10023,7 @@ XVIII. (DEROGADA, D.O. 30 DE DICIEMBRE DE 2011)
 
 Al Jefe de Inconformidades, Sanciones y Conciliación le corresponde el despacho de los siguientes asuntos:
 
-l. Instruir y suscribir los acuerdos de trámite de los mismos de los procedimientos administrativos de imposición de las sanciones a los licitantes, licitadores, proveedores, prestadores de servicio y contratistas que infrinjan las disposiciones de la Ley de Obras Públicas y Servicios Conexos del Estado de Yucatán y la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles y de la Ley de Proyectos para la Prestación de Servicios;
+I. Instruir y suscribir los acuerdos de trámite de los mismos de los procedimientos administrativos de imposición de las sanciones a los licitantes, licitadores, proveedores, prestadores de servicio y contratistas que infrinjan las disposiciones de la Ley de Obras Públicas y Servicios Conexos del Estado de Yucatán y la Ley de Adquisiciones, Arrendamientos y Prestación de Servicios Relacionados con Bienes Muebles y de la Ley de Proyectos para la Prestación de Servicios;
 
 II. Solicitar a los licitantes o licitadores, proveedores, contratistas e inversionistas proveedores los datos e informes relacionados con los procedimientos de contratación y cumplimiento de los contratos y pedidos que se celebren;
 
@@ -10663,37 +10733,307 @@ VII. Las demás que le confieran este Reglamento y otras disposiciones legales a
 
 Al Director General de la Unidad de Acceso a la Información Pública del Poder Ejecutivo del Estado le corresponde el despacho de los asuntos que le encomiendan la Ley de Acceso a la Información Pública para el Estado y los Municipios de Yucatán, su Reglamento, el Decreto de Creación de la Unidad, este Reglamento y otras disposiciones legales aplicables.
 
-> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, D.O. 18 DE FEBRERO DE 2016)</small>
 
-## TÍTULO XIX. COORDINACIÓN GENERAL DE COMUNICACIÓN SOCIAL
+## TÍTULO XIX. DE LA SECRETARÍA DE INVESTIGACIÓN, INNOVACIÓN Y EDUCACIÓN SUPERIOR
 
-> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, D.O. 18 DE FEBRERO DE 2016)</small>
 
-### CAPÍTULO ÚNICO. De la organización y atribuciones de la Coordinación General de Comunicación Social
+### CAPÍTULO ÚNICO. De la organización y atribuciones de la Secretaría de Investigación, Innovación y Educación Superior
+
+> <small>(ADICIONADO, D.O. 18 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 553.
 
-(DEROGADO, D.O. 1 DE ENERO DE 2013)
+Para el ejercicio de las atribuciones que le confiere el código y el despacho de los asuntos de su competencia, esta secretaría contará con la siguiente estructura:
+
+I. Dirección General de Educación Superior:
+
+a) Dirección de Servicio Profesional.
+
+II. Dirección General de Investigación e Innovación; y
+
+III. Dirección de Administración.
+
+> <small>(ADICIONADO, D.O. 18 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 554.
 
-(DEROGADO, D.O. 1 DE ENERO DE 2013)
+El Secretario de Investigación, Innovación y Educación Superior tendrá las siguientes facultades y obligaciones:
+
+I. Fijar y dirigir la política estatal en materia de educación superior, desarrollo científico, tecnológico, innovación y vinculación en el estado;
+
+II. Validar con su firma los títulos y grados académicos expedidos por las instituciones que están bajo la responsabilidad de esta secretaría, así como de aquellas cuyos programas le otorgan autorización o el reconocimiento de validez oficial de estudios;
+
+III. Expedir los lineamientos generales en materia de otorgamiento y revocación del reconocimiento de validez oficial de estudios de instituciones de educación superior, de revalidaciones y equivalencias de estudios de las instituciones de educación superior, de registro de colegios y asociaciones profesionales y de otorgamiento de becas para la realización de estudios de técnico superior universitario, profesional asociado, licenciatura y posgrado;
+
+IV. Fomentar la coordinación, colaboración y vinculación entre las instituciones de educación superior y los centros de investigación, con los sectores productivos y las empresas de base tecnológica en el estado, así como con dependencias y entidades de la Administración Pública del estado;
+
+V. Fomentar las relaciones en materia de educación superior, desarrollo científico, tecnológico, innovación y vinculación, con otras entidades de la república y la federación;
+
+VI. Formular y promover la celebración de convenios de concertación con los sectores social y privado para la formulación y ejecución de los programas en materia de educación superior, desarrollo científico, tecnológico, innovación y vinculación;
+
+VII. Promover la creación de instituciones de educación superior y de centros de investigación en el marco de los objetivos de la política científica, tecnológica, de innovación y de vinculación del estado y en áreas estratégicas para impulsar su desarrollo;
+
+VIII. Ejecutar los convenios que celebre el Ejecutivo del estado con la Administración Pública federal, referentes a la educación superior, ciencia, tecnología, innovación y vinculación;
+
+IX. Fomentar las relaciones en materia de educación superior, ciencia, tecnología, innovación y vinculación con otras entidades de la república;
+
+X. Ejercer las atribuciones que le otorga la Ley de Fomento al Desarrollo Científico, Tecnológico y a la Innovación y la Ley de Profesiones, ambas del estado de Yucatán;
+
+XI. Impulsar la mejora continua y el aseguramiento de la calidad de los programas educativos que ofrecen las instituciones de educación superior y los centros de investigación en el estado;
+
+XII. Promover el fortalecimiento de las capacidades de las instituciones de educación superior y centros de investigación en el estado para el desarrollo científico, tecnológico y la innovación;
+
+XIII. Coordinar, entre las dependencias y entidades de los tres órdenes de gobierno, los temas relacionados con iniciativas y proyectos sobre asuntos prioritarios para el desarrollo socioeconómico del estado, relativos a procesos de investigación científica, innovación, trasferencia de tecnología y vinculación entre el sector productivo, la academia y el sector público;
+
+XIV. Asesorar a las dependencias y entidades de los tres órdenes de gobierno, y a las personas físicas o morales que lo soliciten, sobre asuntos relacionados con la ciencia, la tecnología, la innovación y la vinculación;
+
+XV. Evaluar la coordinación, integración, funcionamiento y cumplimiento de los fines del Sistema de Investigación, Innovación y Desarrollo Tecnológico del Estado de Yucatán, en los términos de la Ley de Fomento al Desarrollo Científico, Tecnológico y a la Innovación del Estado de Yucatán;
+
+XVI. Impulsar la aplicación de las tecnologías de la información y la comunicación para acercar los servicios públicos a la ciudadanía;
+
+XVII. Promover y vigilar el desarrollo del parque científico y tecnológico de Yucatán; del Sistema de Investigación, Innovación y Desarrollo Tecnológico del Estado de Yucatán; y del Sistema Estatal de Investigadores, Tecnólogos, Inventores y Vinculadores;
+
+XVIII. Expedir programas y reglas de operación, a través de los cuales se determinen las actividades, modalidades, procedimientos, criterios de evaluación y montos para la asignación de recursos a los proyectos de actividades científicas, tecnológicas, de innovación;
+
+XIX. Coordinar la unidad jurídica de la secretaría, la cual tendrá las atribuciones establecidas en el artículo 15 de este reglamento, y
+
+XX. Las demás que le otorguen este reglamento y otras disposiciones normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 18 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 555.
 
-(DEROGADO, D.O. 1 DE ENERO DE 2013)
+El Director General de Educación Superior tendrá las siguientes facultades y obligaciones:
+
+I. Planear, impulsar y evaluar las políticas públicas relativas a la educación superior, con el fin de hacerlas acordes con las necesidades actuales consideradas en los planes nacional y estatal de desarrollo;
+
+II. Promover la vinculación del sistema educativo superior con el sector productivo, para mejorar la calidad de la educación y elevar los índices de productividad;
+
+III. Establecer, en coordinación con la Dirección General de Investigación e Innovación y previa aprobación del secretario, los mecanismos de coordinación con las instituciones de educación superior y de ciencia y tecnología, para la planeación, evaluación y el desarrollo educativo, científico y tecnológico de la entidad;
+
+IV. Participar en el estudio y toma de decisiones, según sea el caso, de los proyectos para la ampliación, sustitución y ubicación de planteles y para la creación de nuevas instituciones y planes de estudios que impartan educación superior en la entidad, así como de la oferta de nuevas modalidades y programas educativos de instituciones ya existentes;
+
+V. Promover que, en las instituciones de educación superior, se realicen estudios y diagnósticos que permitan identificar las características y problemas de este tipo educativo y conocer los resultados obtenidos;
+
+VI. Sistematizar, integrar y difundir la información necesaria para la evaluación global de la educación superior;
+
+VII. Promover la creación de redes de intercambio y cooperación académica entre las instituciones públicas y privadas de educación superior, dentro de un esquema de calidad;
+
+VIII. Proponer la incorporación del conocimiento y aplicación de las tecnologías de la información y la comunicación en los programas académicos y materiales pedagógicos de educación superior;
+
+IX. Impulsar el desarrollo y consolidación de cuerpos académicos para la generación y aplicación innovadora del conocimiento;
+
+X. Autenticar los certificados, títulos, diplomas o grados que se expidan por las instituciones de educación superior;
+
+XI. Autorizar la expedición de los títulos correspondientes a los programas educativos que oferten las escuelas normales del estado;
+
+XII. Promover que las instituciones de educación superior, públicas y privadas, sean evaluadas para lograr la acreditación de sus programas educativos y sean reconocidas por la calidad de los servicios educativos que prestan;
+
+XIII. Ser interlocutor con las instituciones de educación superior privadas a fin de construir con estas una agenda de trabajo conjunta para la mejora del marco jurídico que les es aplicable;
+
+XIV. Coordinar la relación institucional con las universidades e institutos tecnológicos del estado que tengan carácter de entidad paraestatal;
+
+XV. Coordinar y administrar los sistemas de información relacionados con la planeación y programación de la educación superior del estado así como elaborar y publicar sus estadísticas;
+
+XVI. Impulsar, en colaboración con la Dirección General de Investigación e Innovación, el diseño e implementación de programas educativos en áreas científicas y tecnológicas, para articular y potenciar las capacidades existentes y optimizar el uso de la infraestructura y equipamiento disponible;
+
+XVII. Promover que las instituciones de educación superior en el estado conformen una oferta educativa amplia, diversificada y con los mejores estándares de pertinencia y calidad, para ampliar con equidad las oportunidades de acceso a la educación superior;
+
+XVIII. Establecer, previo acuerdo con el secretario, las directrices que deberá seguir la impartición de la educación normal en la entidad, procurando que incluya una perspectiva social y de respeto a los derechos humanos;
+
+XIX. Coordinar la educación normal en el estado para promover la formación de profesores preparados;
+
+XX. Coordinar, con las universidades e institutos de educación superior, lo referente a la prestación del servicio social, la orientación vocacional y otros aspectos educativos que se acuerden con dichas instituciones, con respeto a sus políticas educativas;
+
+XXI. Formular y promover la celebración de convenios de concertación con los sectores social y privado para la formulación y ejecución de los programas de educación superior;
+
+XXII. Evaluar y dictaminar las solicitudes que hagan las personas físicas o morales para el otorgamiento del reconocimiento de validez oficial de estudios de educación superior, de conformidad con lo establecido en la normatividad correspondiente;
+
+XXIII. Establecer, supervisar y evaluar, previo acuerdo con el secretario, las directrices a las que deberán someterse las instituciones de educación superior a las que se les haya otorgado reconocimiento de validez oficial de estudios, así como del servicio educativo que imparten, de conformidad con lo establecido en la normatividad correspondiente;
+
+XXIV. Fomentar el desarrollo de programas educativos que, con visión incluyente y equitativa, propicien el desarrollo profesional y humano, el fomento y práctica de la investigación, así como el desarrollo de la ciencia y tecnología de la población en situación de vulnerabilidad, sobre todo, aquella perteneciente a la comunidad maya;
+
+XXV. Promover la internacionalización de la educación superior que se imparte en el estado;
+
+XXVI. Sustanciar, conjuntamente con las unidades administrativas respectivas, el procedimiento para revocar o retirar la autorización o reconocimiento de validez oficial de estudios que otorga esta dependencia y someter a consideración del secretario la resolución correspondiente;
+
+XXVII. Establecer los mecanismos operativos que garanticen el cumplimiento, por parte de los particulares, de los requisitos legales y pedagógicos establecidos para el funcionamiento de planes y programas de estudio de nivel superior público y los incorporados a la secretaría;
+
+XXVIII. Emitir los lineamientos para el ingreso y permanencia de las instituciones de educación superior, centros de investigación y empresas de base tecnológica en el Sistema de Investigación, Innovación y Desarrollo Tecnológico del Estado de Yucatán y en el Parque Científico y Tecnológico de Yucatán, y
+
+XXIX. Las demás que le otorguen este reglamento y otras disposiciones normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 18 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 556.
 
-(DEROGADO, D.O. 1 DE ENERO DE 2013)
+El Director de Servicio Profesional tendrá las siguientes facultades y obligaciones:
+
+I. Vigilar el ejercicio profesional en el estado y supervisar que se cumplan las disposiciones legales establecidas en la Ley de Profesiones del Estado de Yucatán;
+
+II. Emitir, en términos de la Ley de Profesiones del Estado de Yucatán, autorizaciones temporales a los pasantes de las diversas profesiones para realizar actividades profesionales y permisos temporales a los extranjeros para ejercer su profesión en el estado;
+
+III. Enviar al Poder Ejecutivo del estado, al Tribunal Superior de Justicia y a las autoridades federales, las listas de peritos profesionales formadas por los colegios de profesionistas;
+
+IV. Registrar a los colegios de profesionistas y asociaciones profesionales que lo soliciten; promover el establecimiento de cursos de actualización, especialización y superación profesional en coordinación con estos; y cancelar su registro en los términos de la Ley de Profesiones del Estado de Yucatán;
+
+V. Tramitar, ante la Dirección General de Profesiones, el registro de los estudios de nivel superior de las instituciones educativas con reconocimiento de validez oficial de estudios otorgado por esta secretaría, así como el registro profesional de los particulares que lo soliciten;
+
+VI. Participar en la instrumentación de las medidas que tiendan a elevar la calidad de los servicios profesionales, en coordinación con las unidades administrativas correspondientes;
+
+VII. Registrar los certificados emitidos por instituciones de educación superior incorporadas a esta secretaría, en términos de la Ley de Profesiones del Estado de Yucatán;
+
+VIII. Integrar y mantener actualizado el padrón de profesionistas por rama y especialidad de cada profesión y expedir constancias de inscripción, en los términos de la Ley de Profesiones del Estado de Yucatán;
+
+IX. Mediar las relaciones entre el estado y los colegios y asociaciones de profesionistas, así como con los profesionistas, en todo lo referente al ejercicio de las profesiones;
+
+X. Formar y coordinar la actividad de las comisiones técnicas encargadas de estudiar y dictaminar los asuntos relacionados con el ejercicio profesional, en términos de la Ley de Profesiones del Estado de Yucatán;
+
+XI. Vigilar que la publicidad hecha por los profesionistas, colegios de profesionistas e instituciones educativas se realice dentro de las condiciones que señala la Ley de Profesiones del Estado de Yucatán;
+
+XII. Realizar visitas de inspección y aplicar sanciones, en los términos de la Ley de Profesiones del Estado de Yucatán;
+
+XIII. Evaluar e interpretar las normas que, en materia de otorgamiento y revocación del reconocimiento de validez oficial de estudios de instituciones de educación superior, emita el secretario, con objeto de asesorar y proponer a las unidades administrativas correspondientes, los mecanismos necesarios para su cumplimiento;
+
+XIV. Estudiar, resolver y otorgar, con base en las normas y criterios generales que regulan el sistema nacional, las equivalencias y revalidaciones de estudios, así como servir de vínculo para canalizar a la instancia correspondiente las solicitudes de equivalencia o revalidación que estén fuera del ámbito de su competencia;
+
+XV. Registrar y certificar, en coordinación con las unidades administrativas correspondientes y de conformidad con la normatividad vigente, los niveles de licenciatura y posgrado de educación normal, así como de las instituciones de nivel superior incorporadas a esta secretaría;
+
+XVI. Vigilar el cumplimiento de las normas de control escolar correspondientes a los niveles educativos de educación normal, así como a las instituciones de nivel superior incorporadas a esta secretaría;
+
+XVII. Verificar durante el proceso de registro de los alumnos, y a solicitud de las instancias respectivas de la propia secretaría o ajenas a ella, la autenticidad de los documentos presentados por los alumnos, correspondientes a estudios anteriores que hayan cursado en escuelas oficiales o con reconocimiento de validez oficial;
+
+XVIII. Denunciar ante la autoridad ministerial las conductas delictivas relacionadas con la autenticidad de documentos académicos oficiales;
+
+XIX. Mantener actualizado el registro de las instituciones de educación superior;
+
+XX. Integrar en su archivo los planes de estudio y demás datos relacionados con la educación superior que se imparte en el estado, y
+
+XXI. Las demás que le otorguen este reglamento y otras disposiciones normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 18 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 557.
 
-(DEROGADO, D.O. 1 DE ENERO DE 2013)
+El Director General de Investigación e Innovación tendrá las siguientes facultades y obligaciones:
+
+I. Coordinar y administrar los sistemas de información relacionados con la planeación y programación de las actividades de investigación e innovación; y elaborar y publicar sus estadísticas;
+
+II. Elaborar y presentar al secretario, para su conocimiento y aprobación, en coordinación con las demás áreas relacionadas, el Programa Especial de Ciencia, Tecnología e Innovación, en los términos de la Ley de Fomento al Desarrollo Científico, Tecnológico y a la Innovación del Estado de Yucatán;
+
+III. Integrar y mantener actualizado el Sistema Estatal de Información sobre Ciencia, Tecnología e Innovación, y fomentar su acceso; y el Padrón Estatal de Investigadores, Tecnólogos, Inventores y Vinculadores; en los términos de la Ley de Fomento al Desarrollo Científico, Tecnológico y a la Innovación del Estado de Yucatán;
+
+IV. Planear e instrumentar, en coordinación con el Director General de Educación Superior, las políticas, los programas y proyectos que potencien la vinculación entre las instituciones de educación superior, centros de investigación y sectores productivos públicos y privados; y de fomento de vocaciones científicas, tecnológicas y de innovación para estudiantes de nivel superior que garanticen en el largo plazo, la formación de recursos humanos de alto nivel, en atención a las prioridades locales, regionales y nacionales;
+
+V. Planear, organizar y dirigir acciones y actividades de divulgación científica, tecnológica y de innovación;
+
+VI. Difundir las experiencias, estudios, avances y logros en materia de desarrollo científico, tecnológico y de innovación;
+
+VII. Proponer al secretario, previa evaluación, los candidatos a recibir reconocimientos y estímulos de entre los integrantes de la comunidad científica del estado;
+
+VIII. Formular programas y alianzas estratégicas con instituciones de educación superior y organismos, nacionales e internacionales, que permitan apoyar e impulsar la formación y el desarrollo de la capacidad científica y tecnológica del estado;
+
+IX. Realizar proyectos de apoyo a la incorporación de egresados de programas de maestría y doctorado a empresas pequeñas y medianas; así como a programas de apoyo para la creación de empresas en el área de tecnologías de la información;
+
+X. Coadyuvar a impulsar y fomentar la creación, el fortalecimiento y la consolidación de programas de posgrado de alta calidad en el estado;
+
+XI. Organizar los premios Yucatán de Ciencia, Tecnología, Innovación y Vinculación; Yucatán Ciencia Juvenil; y Yucatán Creatividad Infantil, de acuerdo con la normatividad vigente;
+
+XII. Proponer al secretario los lineamientos que rijan el ingreso y permanencia de las instituciones de educación superior, centros de investigación y empresas de base tecnológica en el Sistema de Investigación, Innovación y Desarrollo Tecnológico del Estado de Yucatán y en el Parque Científico y Tecnológico de Yucatán;
+
+XIII. Realizar los estudios necesarios para proponer al secretario las áreas prioritarias para la formación de recursos humanos en materia de investigación científica y desarrollo tecnológico;
+
+XIV. Identificar las áreas y temas prioritarios de investigación científica, tecnológica e innovación basados en las necesidades sociales, económicas y ambientales que requieren atención mediante la vinculación de instituciones de educación superior y centros de investigación con empresas tecnológicas y las dependencias y entidades del estado;
+
+XV. Fomentar y coordinar la realización de estancias de profesores, investigadores y tecnólogos en empresas de base tecnológica con el objetivo de establecer mecanismos de cooperación y colaboración en proyectos de investigación, desarrollo tecnológico e innovación;
+
+XVI. Organizar eventos en los cuales se propicie un mayor y mejor conocimiento por parte del sector productivo sobre las capacidades y proyectos de las instituciones de educación superior y centros de investigación estatales, así como de estas sobre las necesidades de las empresas de base tecnológica para incrementar su competitividad y con ello propiciar la realización de proyectos conjuntos de interés para las partes;
+
+XVII. Otorgar estímulos, con base en los criterios establecidos por el secretario, para la realización de proyectos en conjunto por universidades y empresas y para fomentar la inversión empresarial en materia de desarrollo tecnológico, innovación y vinculación;
+
+XVIII. Establecer y desarrollar redes de colaboración entre instituciones educativas, centros de investigación y empresas en el estado para fortalecer sus capacidades para el desarrollo científico y tecnológico y la innovación;
+
+XIX. Identificar y sistematizar los casos exitosos de vinculación entre empresas de base tecnológica e instituciones de educación superior, centros de investigación, dependencias y entidades de la Administración Pública y promover su conocimiento; y llevar un portafolio de los proyectos innovadores o desarrollos tecnológicos factibles de ser implementados por el sector productivo estatal, en coordinación con el Director General de Educación Superior;
+
+XX. Realizar estudios de factibilidad económica que den, sustento a la viabilidad de las innovaciones y desarrollos tecnológicos;
+
+XXI. Administrar los fondos que se creen para financiar la realización de actividades vinculadas con el fomento de una cultura científica y tecnológica, la formación de recursos humanos de alto nivel y proyectos de desarrollo científico, tecnológico, de innovación y vinculación;
+
+XXII. Proponer, previo acuerdo con el secretario, a las autoridades educativas y laborales, normas y criterios para la elaboración de programas que tengan por objeto la formación, actualización y capacitación de recursos humanos en las diversas áreas del conocimiento científico y tecnológico definidas como prioritarias en el Plan Estatal de Desarrollo y en los programas sectoriales correspondientes;
+
+XXIII. Implementar programas, en coordinación con la Secretaría de Educación, para la detección de talentos en las escuelas de educación básica y media superior y apoyar sus trayectorias educativas para lograr su incorporación en programas de técnico superior universitario, licenciatura y posgrado, orientados a formar personal especializado que coadyuve a fortalecer las capacidades del estado para el desarrollo científico y tecnológico, la innovación y la vinculación;
+
+XXIV. Estimular la formación, capacitación, atracción y permanencia de investigadores, tecnólogos y vinculadores de alto nivel en el estado, coordinando sus acciones con los organismos públicos o privados que tengan esta misma función;
+
+XXV. Promover la divulgación del conocimiento científico y tecnológico en la población del estado, a través del impulso de congresos, conferencias, exposiciones, ferias de ciencia, concursos, museos e incluso en espacios públicos como parques, centros comunitarios, entre otros;
+
+XXVI. Impulsar el desarrollo de la infraestructura relacionada con las tecnologías de la información en el estado así como su uso y aplicación en todos los órdenes de gobierno, las instituciones educativas y la población del estado;
+
+XXVII. Fomentar el respeto y la protección de la propiedad intelectual, así como el registro, licenciamiento y aprovechamiento de patentes;
+
+XXVIII. Identificar las necesidades del estado en materia de desarrollo de tecnologías de la información y la comunicación, especialmente del área productiva, para fomentar el desarrollo económico y social del estado;
+
+XXIX. Promover el establecimiento de estímulos y exenciones para las empresas o instituciones privadas dedicadas al desarrollo tecnológico;
+
+XXX. Promover la participación de las comunidades científica y tecnológica del estado en la toma de decisiones relativas al impulso y al desarrollo científico y tecnológico, la innovación y la vinculación;
+
+XXXI. Impulsar y otorgar apoyos, con base en los criterios establecidos por el secretario, para la realización de proyectos de corto, mediano y largo plazo en materia de ciencia, tecnología e innovación;
+
+XXXII. Gestionar apoyos económicos y materiales ante las distintas instancias públicas y privadas que le permitan apoyar de manera creciente las actividades de formación y las de desarrollo científico y tecnológico, innovación y vinculación e informar al secretario de los resultados obtenidos, y
+
+XXXIII. Las demás que le otorguen este reglamento y otras disposiciones normativas aplicables.
+
+> <small>(ADICIONADO, D.O. 18 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 558.
 
-(DEROGADO, D.O. 1 DE ENERO DE 2013)
+El Director de Administración tendrá las siguientes facultades y obligaciones:
+
+I. Determinar, previo acuerdo con el secretario, las políticas, normas y procedimientos para la eficiente administración de los recursos humanos, materiales y financieros de la secretaría;
+
+II. Elaborar el presupuesto anual de la secretaría, y someterlo a consideración de su titular;
+
+III. Formular e implementar las políticas, normas, sistemas, asesorías y procedimientos a observar, con la aprobación del titular, que permitan la óptima administración de los recursos humanos, materiales y financieros en las unidades administrativas, y sus centros de trabajo educativos, y la obtención de información financiera veraz, confiable y oportuna;
+
+IV. Difundir las normas y procedimientos a que deba sujetarse la contabilidad presupuestaria y patrimonial de esta secretaría y verificar su cumplimiento;
+
+V. Aplicar, dar seguimiento y evaluar el ejercicio del presupuesto anual de los diferentes centros de costo que integran la secretaría, así como coordinar las transferencias presupuestales que se realizan a los organismos e instituciones descentralizados de educación superior;
+
+VI. Coordinar, con las diferentes unidades administrativas de la secretaría, la elaboración y seguimiento de los programas operativos anuales de cada uno de sus centros de costo e informar al secretario;
+
+VII. Consolidar y mantener actualizados los registros contables, y elaborar los estados financieros, y demás informes internos y externos que se requieran;
+
+VIII. Administrar los recursos humanos, materiales y financieros de la secretaría, conforme a las normas contables y lineamientos legales aplicables;
+
+IX. Atender, con base en las instrucciones del titular de la secretaría, los asuntos del personal adscrito a su área y autorizar sus movimientos;
+
+X. Aplicar los sistemas de estímulos y recompensas previstos por la ley de la materia y por las condiciones generales de trabajo;
+
+XI. Autorizar el entero o aplicación, en su caso, de las cantidades retenidas al personal de esta secretaría a favor de las dependencias, entidades paraestatales y en general terceros que acrediten derechos en los términos de las disposiciones legales aplicables;
+
+XII. Realizar las acciones pertinentes para la administración de los almacenes y la distribución de mobiliario, materiales y equipo y llevar el control de los inventarios;
+
+XIII. Autorizar la programación y adquisición de bienes para atender las necesidades de esta secretaría, sujetándose a la legislación vigente en la materia;
+
+XIV. Atender las necesidades financieras de esta secretaría, de conformidad con las políticas fijadas por su titular;
+
+XV. Verificar y autorizar la documentación que compruebe y justifique las erogaciones que con cargo al presupuesto de esta secretaría se realicen y, en su caso, presentar aquéllas que deban ser autorizadas por su titular;
+
+XVI. Vigilar y, en su caso, dictar, previo con el secretario, las medidas para el cumplimiento de las obligaciones que correspondan a todas las áreas de la secretaría, con las distintas dependencias, entidades u organismos públicos y privados;
+
+XVII. Implantar los controles administrativos que resulten necesarios para el buen funcionamiento del área y de la misma secretaría;
+
+XVIII. Realizar evaluaciones al control interno y a las operaciones administrativas y financieras realizadas en las unidades administrativas y centros de trabajo educativos a solicitud de los responsables de las áreas educativas;
+
+XIX. Coordinar el diseño, programación y operación de los servicios informáticos que requieran las unidades administrativas de la secretaría;
+
+XX. Proveer lo necesario para la conservación y mantenimiento de los inmuebles destinados a esta secretaría y para la organización de sus eventos, así como para la contratación de servicios, y suscribir los contratos que sean necesarios para estos fines;
+
+XXI. Fungir como enlace con la Unidad de Acceso a la Información Pública del Poder Ejecutivo con las atribuciones establecidas en la ley de la materia y en las demás disposiciones legales aplicables, y
+
+XXII. Las demás que le otorguen este reglamento y otras disposiciones normativas aplicables.
 
 ###### Artículo 559.
 
@@ -11621,9 +11961,7 @@ b) Secretario General de Gobierno;
 
 c) Vocal: Secretario de Administración y Finanzas;
 
-> <small>(REFORMADO, D.O. 1 DE ENERO DE 2013)</small>
-
-d) Vocal: Secretario Técnico de Gabinete, Planeación y Evaluación;
+d) (DEROGADO, D.O. 18 DE FEBRERO DE 2016)
 
 e) Vocal: Coordinador Sectorial.
 
@@ -11751,7 +12089,7 @@ IX. Validar, solicitar y custodiar la acreditación de los miembros y participan
 
 Son facultades y obligaciones del Comisario:
 
-l. Participar con voz, pero sin derecho a voto, en las sesiones de la Junta de Gobierno o su equivalente;
+I. Participar con voz, pero sin derecho a voto, en las sesiones de la Junta de Gobierno o su equivalente;
 
 II. Proponer acuerdos para crear y fortalecer los mecanismos de control presupuestal, control interno y autoevaluación, que promuevan la racionalidad, la optimización y la transparencia en el uso de los recursos;
 
@@ -11961,7 +12299,7 @@ Las actas de las sesiones serán clasificadas por el Secretario de Actas y Acuer
 
 El Director General o su equivalente de la Entidad deberá presentar de manera trimestral y anual a la Junta de Gobierno o su equivalente, informes sobre la aplicación de los recursos y los resultados obtenidos, el cual deberá contener lo siguiente:
 
-l. Diagnóstico que permita identificar la problemática que prevalecía en el ámbito de acción de la Entidad al inicio del período sujeto a informe, de acuerdo con el propósito fundamental que justifica su existencia;
+I. Diagnóstico que permita identificar la problemática que prevalecía en el ámbito de acción de la Entidad al inicio del período sujeto a informe, de acuerdo con el propósito fundamental que justifica su existencia;
 
 II. Resumen de actividades;
 
@@ -11999,7 +12337,11 @@ Al hacer la descripción de las mejoras y ventajas deberá establecerse su relac
 
 5. Mencionar los progresos alcanzados en el desahogo de observaciones y recomendaciones formuladas a la entidad por los órganos internos y externos de fiscalización, y
 
-VI. Perspectivas.
+> <small>(ADICIONADA, D.O. 18 DE FEBRERO DE 2016)</small>
+
+VI. Informe sobre el estado que guarda el proceso de actualización de la información pública obligatoria y las solicitudes de acceso recibidas en la entidad así como su resultado y tiempo de respuesta.
+
+VII. Perspectivas.
 
 ### CAPÍTULO IX. De las políticas de operación
 
@@ -12017,9 +12359,9 @@ I. Levantar el inventario de los bienes, obligaciones y procesos en trámite inh
 
 II. Someter al dictamen del auditor designado por la Secretaría de la Contraloría General del Estado, los estados financieros inicial y final de extinción y, cuando proceda, los anuales intermedios;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O. 18 DE FEBRERO DE 2016)</small>
 
-III. Informar mensualmente a las Secretarías de Administración y Finanzas, Técnica de Gabinete, Planeación y Evaluación y de la Contraloría General del Estado, así como a la Dependencia Coordinadora de Sector, sobre el avance o estado que guarda el proceso;
+III. Informar mensualmente a las secretarías de Administración y Finanzas, y de la Contraloría General, así como a la dependencia coordinadora del sector, sobre el avance o estado que guarda el proceso;
 
 IV. Verificar que se formalice la entrega-recepción de los bienes y recursos respectivos, y
 
@@ -12049,9 +12391,9 @@ En el caso de que el Comité Técnico no hubiere sesionado durante el año anter
 
 Para el proceso de liquidación de una Empresa de Participación Estatal Mayoritaria, el Consejo de Administración establecerá los lineamientos para el desarrollo de la liquidación y designará un responsable quien deberá
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O. 18 DE FEBRERO DE 2016)</small>
 
-I. Informar a las Secretarías, de Administración y Finanzas, Técnica de Gabinete, Planeación y Evaluación y de la Contraloría General del Estado, así como a la Dependencia Coordinadora de Sector sobre el avance y estado que guarde el proceso;
+I. Informar a las secretarías de Administración y Finanzas, y de la Contraloría General, así como a la dependencia coordinadora del sector, sobre el avance o estado que guarda el proceso;
 
 II. Someter al dictamen del auditor designado por la Secretaría de la Contraloría General del Estado, los estados financieros inicial y final de liquidación y, cuando proceda, los anuales intermedios, y
 
@@ -12067,9 +12409,9 @@ En cuanto a la fusión de entidades paraestatales, la Junta de Gobierno o equiva
 
 I. Levantar el inventario de los bienes de la Entidad fusionante y someter al dictamen del auditor designado para tal efecto por la Secretaría de la Contraloría General del Estado los últimos estados financieros;
 
-> <small>(REFORMADA, D.O. 1 DE ENERO DE 2013)</small>
+> <small>(REFORMADA, D.O. 18 DE FEBRERO DE 2016)</small>
 
-II. Informar a la Dependencia Coordinadora del Sector y a las Secretarías de Administración y Finanzas, Técnica de Gabinete, Planeación y Evaluación y de la Contraloría General del Estado sobre los avances y estado que guarda el proceso, y
+II. Informar a las secretarías de Administración y Finanzas, y de la Contraloría General, así como a la dependencia coordinadora del sector, sobre el avance o estado que guarda el proceso;
 
 III. Verificar que se formalice la entrega-recepción de los bienes y recursos respectivos.
 
@@ -12462,5 +12804,61 @@ Primero. Entrada en vigor
 Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
 
 Segundo. Derogación tácita
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
+
+D.O. 18 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 338/2016 POR EL QUE SE MODIFICA EL REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+Segundo. Derogación tácita
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan al contenido de este decreto.
+
+D.O. 18 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 350/2016 POR EL QUE SE MODIFICA EL REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+Segundo. Derogación tácita
+
+Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
+
+D.O. 18 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 352/2016 POR EL QUE SE MODIFICA EL REGLAMENTO DEL CÓDIGO DE LA ADMINISTRACIÓN PÚBLICA DE YUCATÁN”.]
+
+Primero. Entrada en vigor
+
+Este decreto entrará en vigor el día siguiente al de su publicación en el diario oficial del estado.
+
+Segundo. Relaciones laborales
+
+El personal de base que preste sus servicios en las direcciones de educación superior y profesiones de la Secretaría de Educación del Gobierno del Estado de Yucatán pasará a formar parte de la Dirección General de Educación Superior; de la Dirección de Servicio Profesional de la Secretaría de Investigación, Innovación y Educación Superior, respectivamente, y se estará a lo que señalen las disposiciones legales aplicables.
+
+Tercero. Ajustes presupuestales
+
+El Gobernador del Estado, por medio de la Secretaría de Administración y Finanzas, preverá los ajustes correspondientes a los recursos presupuestales, financieros y materiales asignados a la Secretaría de Educación para prestar los servicios que, mediante este decreto, se atribuirán a la Secretaría de Investigación, Innovación y Educación Superior, para su debido funcionamiento.
+
+Cuarto. Transferencia de recursos
+
+Los recursos presupuestales, financieros, materiales y, en general, todos aquellos medios que permiten el cumplimiento de las atribuciones asignadas a las direcciones de educación superior y profesiones de la Secretaría de Educación del Gobierno del Estado de Yucatán se transferirán a la Dirección General de Educación Superior y a la Dirección de Servicio Profesional de la Secretaría de Investigación, Innovación y Educación Superior, respectivamente, en un plazo máximo de ciento veinte días a partir de la entrada en vigor de este decreto.
+
+Quinto. Obligación normativa educativa
+
+La Secretaría de Investigación, Innovación y Educación Superior, en un plazo no mayor de ciento veinte días naturales, contados a partir de la entrada en vigor de este decreto, deberá emitir los lineamientos en materia de otorgamiento y revocación del reconocimiento de validez oficial de estudios de instituciones de educación superior, de revalidaciones y equivalencias de estudios de las instituciones de educación superior, de registro de colegios y asociaciones profesionales y de otorgamiento de becas para la realización de estudios de técnico superior universitario, profesional asociado, licenciatura y posgrado.
+
+Sexto. Obligación normativa en materia de ciencia y tecnología
+
+La Secretaría de Investigación, Innovación y Educación Superior, en un plazo no mayor de ciento veinte días naturales contados a partir de la entrada en vigor de este decreto, deberá de emitir los lineamientos para el ingreso y permanencia de las instituciones de educación superior, centros de investigación y empresas de base tecnológica en el Sistema de Investigación, Innovación y Desarrollo Tecnológico del Estado de Yucatán y en el Parque Científico y Tecnológico de Yucatán.
+
+Séptimo. Derogación tácita
 
 Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en este decreto.
