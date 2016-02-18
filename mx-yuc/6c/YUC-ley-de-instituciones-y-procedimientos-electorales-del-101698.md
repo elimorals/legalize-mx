@@ -4,7 +4,7 @@ identifier: "YUC-ley-de-instituciones-y-procedimientos-electorales-del-101698"
 country: "mx"
 rank: "ley"
 publication_date: "2014-06-28"
-last_updated: "2014-06-28"
+last_updated: "2016-02-18"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=101698&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "YUC"
 
 LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL: 18 DE FEBRERO DE 2016.
 
 Ley publicada en el Suplemento al Diario Oficial del Estado de Yucatán, el sábado 28 de junio de 2014.
 
@@ -4847,6 +4847,10 @@ Se considerará reincidente al infractor que habiendo sido declarado responsable
 
 Las multas deberán ser pagadas en la Agencia de Administración Fiscal de Yucatán; si el infractor no cumple con su obligación, el Instituto podrá solicitar a la autoridad competente la aplicación del procedimiento de cobro relativo. En el caso de los partidos políticos, el monto de las mismas se restará de sus ministraciones de gasto ordinario conforme a lo que se determine en la resolución.
 
+> <small>(ADICIONADO, D.O. 18 DE FEBRERO DE 2016)</small>
+
+Los recursos obtenidos por la aplicación de sanciones económicas derivadas de infracciones cometidas por los sujetos del régimen sancionador electoral considerados en esta Ley, serán destinados a la Secretaría de Investigación, Innovación y Educación Superior del Estado de Yucatán; estos recursos serán utilizados para el fortalecimiento de su infraestructura, implementación y desarrollo de programas y proyectos estratégicos en materia de ciencia, tecnología e innovación en los términos de las disposiciones aplicables.
+
 ###### Artículo 391.
 
 Son órganos competentes para la tramitación y resolución del procedimiento sancionador:
@@ -5284,3 +5288,25 @@ Gobernador del Estado de Yucatán
 Víctor Edmundo Caballero Durán
 
 Secretario General de Gobierno
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+D.O. 18 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO 348/2016 POR EL QUE SE MODIFICA LA LEY DE INSTITUCIONES Y PROCEDIMIENTOS ELECTORALES DEL ESTADO DE YUCATÁN”.]
+
+Artículo Primero.- Entrada en vigor.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial del Gobierno del Estado de Yucatán.
+
+Artículo Segundo. Aplicación de los recursos.
+
+Los recursos que se entreguen a la Secretaría de Investigación, Innovación y Educación Superior del Estado de Yucatán, en términos de lo dispuesto en el presente decreto, serán destinados exclusivamente para apoyar el desarrollo de infraestructura y equipamiento científico y tecnológico y la formación de jóvenes, en posgrados de excelencia, que demuestren las capacidades necesarias para cursarlos. Estos también podrán aplicarse como recursos concurrentes en programas nacionales e internacionales que tengan como objetivo el desarrollo de infraestructura y equipamiento científico. En ningún caso podrán utilizarse en gastos de operación o en gasto corriente.
+
+Artículo Tercero. Informe trimestral.
+
+El Poder Ejecutivo del Estado deberá incluir dentro del Informe trimestral de las Finanzas Públicas que presenta periódicamente al H. Congreso del Estado, el destino de los recursos señalados en éste Decreto, en términos de los artículos 150, 151 y 167 de la Ley del Presupuesto y Contabilidad Gubernamental del Estado.
+
+Artículo Cuarto. Derogación tacita.
+
+Se derogan todas las disposiciones que se opongan al presente decreto.
