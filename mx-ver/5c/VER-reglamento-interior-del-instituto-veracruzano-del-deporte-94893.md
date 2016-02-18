@@ -4,7 +4,7 @@ identifier: "VER-reglamento-interior-del-instituto-veracruzano-del-deporte-94893
 country: "mx"
 rank: "reglamento"
 publication_date: "2013-06-18"
-last_updated: "2013-06-18"
+last_updated: "2016-02-18"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=94893&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "VER"
 
 REGLAMENTO INTERIOR DEL INSTITUTO VERACRUZANO DEL DEPORTE
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO TRANSITORIO SEGUNDO DEL REGLAMENTO INTERIOR DEL INSTITUTO VERACRUZANO DEL DEPORTE, PUBLICADO EN LA G.O. DE 18 DE FEBRERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 18 DE FEBRERO DE 2016 (ABROGADO).
 
 Reglamento Publicado en la Gaceta Oficial del Estado de Veracruz, el martes 18 de junio de 2013.
 
@@ -550,3 +552,13 @@ Director General y Secretario Ejecutivo
 Lic. Rafael Cuenca Reyes
 
 Rúbrica.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+G.O. 18 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DEL INSTITUTO VERACRUZANO DEL DEPORTE”.]
+
+PRIMERO. El presente Reglamento, entrará en vigor al día siguiente de su publicación en la Gaceta Oficial del Estado.
+
+SEGUNDO. Se abroga el Reglamento Interior del Instituto Veracruzano del Deporte de fecha 18 de junio de 2013, publicado en la Gaceta Oficial del Estado número 233.
