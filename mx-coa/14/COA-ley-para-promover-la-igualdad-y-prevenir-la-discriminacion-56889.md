@@ -4,7 +4,7 @@ identifier: "COA-ley-para-promover-la-igualdad-y-prevenir-la-discriminacion-5688
 country: "mx"
 rank: "ley"
 publication_date: "2007-08-24"
-last_updated: "2015-11-13"
+last_updated: "2016-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56889&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 13 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el viernes 24 de agosto de 2007.
 
@@ -97,6 +97,10 @@ XIX. Servidores públicos: Los descritos como tales en la Constitución Polític
 
 XX. Titular del Ejecutivo: El Gobernador Constitucional del Estado de Coahuila.
 
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2016)</small>
+
+XXI. Trato diferenciado: La forma de considerar a las personas con discapacidad o movilidad limitada, adultos mayores, mujeres en periodo de gestación y en general toda persona que se encuentren (sic) en un estado de vulnerabilidad temporal o permanente, mediante una atención preferente y adecuada.
+
 ###### ARTÍCULO 4.
 
 Para los efectos de esta ley, no se consideran discriminatorias:
@@ -111,7 +115,9 @@ IV. En el ámbito educativo, los requisitos académicos, de evaluación y los l�
 
 V. Las que se establezcan como requisitos de ingreso o permanencia para el desempeño del servicio público y cualquier otro señalado en los ordenamientos legales;
 
-VI. El trato diferenciado que en su beneficio reciba una persona con discapacidad;
+> <small>(REFORMADA, P. O. 19 DE FEBRERO DE 2016)</small>
+
+VI. El trato diferenciado que en su beneficio reciban las personas con discapacidad o movilidad limitada, adultos mayores, mujeres en periodo de gestación y en general toda persona que se encuentren (sic) en un estado de vulnerabilidad temporal o permanente.
 
 VII. Las distinciones, exclusiones, restricciones o preferencias que se hagan entre ciudadanos y no ciudadanos, y
 
@@ -236,6 +242,10 @@ XXX. En general cualquier conducta discriminatoria, en los términos de la fracc
 ###### ARTÍCULO 14.
 
 El titular del ejecutivo a través de las entidades públicas diseñarán e instrumentarán políticas, acciones afirmativas, compensatorias o cualquier otra medida de trato diferenciado que resulte justificada a fin de garantizar la igualdad real de oportunidades, así como prevenir las formas de discriminación a que se refiere la fracción VI del artículo 3° de esta ley.
+
+> <small>(ADICIONADO, P. O. 19 DE FEBRERO DE 2016)</small>
+
+ARTÍCULO 14 BIS.- Las entidades del sector público y privado, están obligadas a habilitar cajas y ventanillas receptoras de atención preferente, para las mujeres en periodo de gestación, adultos mayores, personas con discapacidad o movilidad limitada, y en general para toda persona que se encuentren (sic) en un estado de vulnerabilidad temporal o permanente, así como también deben mostrar en un lugar fácil de observar letreros con el texto o imagen que señale la atención preferente. De la misma forma deberán reservar cajones de estacionamiento y marcarlos como reservados para el acceso de personas de trato diferenciado.
 
 ###### ARTÍCULO 15.
 
@@ -870,3 +880,11 @@ P.O. 13 DE NOVIEMBRE DE 2015.
 ## [N. DE E. TRANSITORIO DEL “DECRETO No. 188.- SE REFORMAN LAS FRACCIONES XXIX Y XXX, DEL ARTÍCULO 13, DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
 
 ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su Publicación en el Periódico oficial del Estado.
+
+P.O. 19 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 363.- SE ADICIONA LA FRACCIÓN XXI AL ARTÍCULO 3, SE MODIFICA LA FRACCIÓN VI DEL ARTÍCULO 4 Y SE ADICIONA EL ARTÍCULO 14 BIS, TODOS DE LA LEY PARA PROMOVER LA IGUALDAD Y PREVENIR LA DISCRIMINACIÓN EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Se derogan las disposiciones que se opongan al presente decreto.
