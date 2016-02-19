@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-del-instituto-municipal-de-cultura-y-desarrollo-6072
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-04-11"
-last_updated: "2014-07-25"
+last_updated: "2016-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60720&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "BCN"
 
 REGLAMENTO DEL INSTITUTO MUNICIPAL DE CULTURA Y DESARROLLO HUMANO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE JULIO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 11 de abril de 2008.
 
@@ -35,9 +35,9 @@ Se aprobó en lo general por unanimidad de votos de los munícipes presentes del
 
 Lo anterior de conformidad con la siguiente Fundamentación, antecedentes, Considerandos y Puntos Resolutivos: FUNDAMENTACION.
 
-Con fundamento en el artículo 115 de lo Constitución Política de los Estados Unidos Mexicanos, artículos 76, 77 Y 81 de lo Constitución Política del Estado Libre y Soberano de Baja California, articulo 3 y 23 de la Ley del Régimen Municipal para el Estado de Baja California, articulo 94 del Reglamento de la Administración Publica para el Municipio de Ensenada.
+Con fundamento en el artículo 115 de la Constitución Política de los Estados Unidos Mexicanos, artículos 76, 77 y 81 de la Constitución Política del Estado Libre y Soberano de Baja California, articulo 3 y 23 de la Ley del Régimen Municipal para el Estado de Baja California, articulo 94 del Reglamento de la Administración Publica para el Municipio de Ensenada.
 
-Norman el procedimiento para el presente Dictamen los artículos 1, 10, 11 fracción I, 12, 67, 70,73, 114 fracción (sic) I y IX, 115 fracción I, 123 fracción I, 132, 133, 134 y demás relativos y aplicables del Reglamento Interior para el Ayuntamiento de Ensenada, Baja California, vigente a la fecha, ANTECEDENTES.-.
+Norman el procedimiento para el presente Dictamen los artículos 1, 10, 11 fracción I, 12, 67, 70, 73, 114 fracción (sic) I y IX, 115 fracción I, 123 fracción I, 132, 133, 134 y demás relativos y aplicables del Reglamento Interior para el Ayuntamiento de Ensenada, Baja California, vigente a la fecha, ANTECEDENTES.-
 
 Es por todo lo anterior que después de haber analizado y discutido ampliamente cada uno de los artículos que integran la base sobre la que habrá de trabajar en su momento el INSTITUTO DE CULTURA Y DESARROLLO HUMANO DE ENSENADA, se determina bajo los siguientes: PUNTOS RESOLUTIVOS.-
 
@@ -111,7 +111,7 @@ Del Instituto.
 
 ###### Artículo 5.
 
-El Instituto Municipal de Cultura y Desarrollo Humano de Ensenada, tiene por objeto: establecer, coordinar y actualizar la política cultural del municipio en base a una estrategia concertada socialmente y con proyección de largo alcance para la inclusión en el plan Municipal de Desarrollo, así mismo apoya (sic), encauzar y promover la cultura entre la ciudadanía en general, unificando criterios para su promoción, agrupando a los organismos y asociaciones involucradas en lo promoción cultural, la creación de oferta cultural y la capacitación artística; ofreciendo espacios y programas culturales para uso y disfrute de lo ciudadanía, y creando la estructura social necesaria para el desarrollo cultural integral de los habitantes de Ensenada en el ámbito social e individual, en la zona urbana y principalmente en las cabeceras de las regiones del municipio.
+El Instituto Municipal de Cultura y Desarrollo Humano de Ensenada, tiene por objeto: establecer, coordinar y actualizar la política cultural del municipio en base a una estrategia concertada socialmente y con proyección de largo alcance para la inclusión en el plan Municipal de Desarrollo, así mismo apoya (sic), encauzar y promover la cultura entre la ciudadanía en general, unificando criterios para su promoción, agrupando a los organismos y asociaciones involucradas en la promoción cultural, la creación de oferta cultural y la capacitación artística; ofreciendo espacios y programas culturales para uso y disfrute de la ciudadanía, y creando la estructura social necesaria para el desarrollo cultural integral de los habitantes de Ensenada en el ámbito social e individual, en la zona urbana y principalmente en las cabeceras de las regiones del municipio.
 
 ###### Artículo 6.
 
@@ -519,7 +519,7 @@ Según la prioridad y factibilidad de las propuestas o proyectos comunitarios, e
 
 ###### Artículo 34.
 
-En caso de proyectos comunitarios prioritarios y no considerados dentro del presupuesto correspondiente al ejercicio en curso del Instituto, el Consejo gestionará ante el Cabildo lo autorización de partidas presupuestales complementarias o bien promoverán patrocinios paro su debida realización.
+En caso de proyectos comunitarios prioritarios y no considerados dentro del presupuesto correspondiente al ejercicio en curso del Instituto, el Consejo gestionará ante el Cabildo la autorización de partidas presupuestales complementarias o bien promoverán patrocinios paro su debida realización.
 
 ###### Artículo 35.
 
@@ -549,23 +549,505 @@ El Consejo del Instituto deberá girar una copia de las minutas y los informes d
 
 El Instituto será administrado y operado por un Director General y para el mejor desempeño de su labor contará con el personal que permita la capacidad operativa, administrativa y financiera del propio Instituto.
 
-> <small>(REFORMADO, P.O. 26 DE AGOSTO DE 2011)</small>
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 39.
 
-El Instituto para el desempeño de sus funciones contará con la siguiente estructura orgánica:
+Para el estudio, planeación y despacho de los asuntos de su competencia, la Dirección General en la medida que su presupuesto se lo permita contará con las siguientes Unidades Administrativas:
 
-I. Sub Dirección Operativo;
+A) Coordinación Administrativa.
 
-II. Sub Dirección de Casas de la Cultura;
+I. Contador
 
-III. Coordinación Administrativa;
+B) Subdirección Operativa
 
-IV. Coordinación de Patrimonio Cultural y Archivo Histórico;
+I. Coordinación de Bibliotecas Públicas Municipales;
 
-V. Coordinación de Difusión Cultural y Bibliotecas Públicas Municipales;
+II. Coordinación de Archivo Histórico y Hemeroteca;
 
-Las funciones específicas de los órganos del Instituto serán establecidas en su Reglamento Interno.
+III. Coordinación de Comunicación Social y Vinculación Cultural;
+
+IV. Coordinación de Editorial y Literatura;
+
+V. Coordinación de Casa de la Cultura.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE FEBRERO DE 2016)</small>
+
+### Capítulo Segundo. De la Coordinación Administrativa
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2016)</small>
+
+###### Artículo 40.
+
+La Coordinación Administrativa se encargará de administrar los recursos humanos, materiales y financieros del Instituto, mantener una organización administrativa integral, tecnificada y sistematizada en lo relativo a los aspectos precisados que coadyuve con las funciones fundamentales del mismo.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2016)</small>
+
+###### Artículo 41.
+
+La o el Coordinador Administrativo tendrá las siguientes atribuciones:
+
+I. Administrar y controlar los recursos humanos, materiales y financieros del Instituto Municipal Cultura y Desarrollo Humano, con base en las políticas establecidas por la Dirección, el Reglamento Interno del Instituto Municipal Cultura y Desarrollo Humano, y las leyes y reglamentos relativos a su función pública;
+
+II. Planear, organizar y supervisar el presupuesto de egresos del Instituto Municipal Cultura y Desarrollo Humano, a partir de los lineamientos establecidos por el Director y el Consejo Del Instituto Municipal de Cultura y Desarrollo Humano, con base en los estados financieros del Instituto;
+
+III. Supervisar el cumplimiento del presupuesto por programas;
+
+IV. Revisar el flujo de efectivo y cuentas por pagar;
+
+V. Planear la relación de los pagos catorcenales de acuerdo con el flujo de efectivo;
+
+VI. Evaluar la aplicación del gasto contra el presupuesto;
+
+VII. Realizar los trámites bancarios, notariales, etcétera que sean necesarios;
+
+VIII. Planear las solicitudes de aportaciones de fondos de la iniciativa privada, organismos municipales, estatales, federales y no gubernamentales con base en el análisis del desarrollo de las diversas actividades y programas del Instituto Municipal de Cultura y Desarrollo Humano;
+
+IX. Establecer convenios y contratos con los proveedores autorizados por la Dirección General o sus delegados, para el suministro de bienes y servicios que satisfagan las necesidades del Instituto Municipal de Cultura y Desarrollo Humano, con base en la normatividad y reglamentación vigentes;
+
+X. Revisar y autorizar la ejecución de obras y trabajos de mantenimiento de equipos y activo fijo, de acuerdo con el presupuesto y a partir de necesidades probadas;
+
+XI. Concentrar los informes de control de asistencia del personal del Instituto Municipal de Cultura y Desarrollo Humano, a partir de los reportes con el fin de autorizar el pago por nómina de cada uno;
+
+XII. Supervisar la realización de inventarios de los bienes muebles, inmuebles y de consumo, verificando su actualización en el padrón respectivo;
+
+XIII. Mantener contacto permanente con dependencias gubernamentales para la coordinación y resolución de situaciones administrativas diversas;
+
+XIV. Realizar proyectos especiales que le sean encargados por la Dirección del Instituto;
+
+XV. Presentar la información requerida por el Comisario del Instituto Municipal de Cultura y Desarrollo Humano y demás que la soliciten, siempre y cuando se trate de su área, en cuestión de auditorías;
+
+XVI. Proponer y solicitar al área contable, la documentación contable y financiera para las sesiones trimestrales, ordinarias y/o extraordinarias del Consejo, revisar los estados financieros para su presentación ante la Dirección y los organismos o instituciones que lo soliciten;
+
+XVII. Colaborar con el Director y el Subdirector Operativo en la elaboración del programa operativo anual, para ser presentado ante el Consejo del Instituto Municipal de Cultura y Desarrollo Humano;
+
+XVIII. Llevar a cabo las gestiones necesarias ante la Dirección de Asuntos Jurídicos del Ayuntamiento de los asuntos de carácter legal en que se requieran sus servicios y dar el seguimiento correspondiente;
+
+XIX. Elaborar el Programa anual de adquisiciones y presentarlo a la Dirección General para su aprobación.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2016)</small>
+
+###### Artículo 42.
+
+La o el encargado de la Contabilidad, tendrá las siguientes atribuciones:
+
+I. Elaborar propuesta para el proyecto de Presupuesto Anual de Egresos del IMCUDHE, para someterlo a consideración del Coordinador Administrativo dentro de los primeros cinco días del mes de Octubre de cada año, como máximo;
+
+II. Mantener al día el estado financiero del Instituto con las pólizas, comprobantes, registros, asientos contables, chequeras y demás requisitos de control y/o verificación de gasto;
+
+III. Tramitar, previo acuerdo que al efecto emita el Coordinador Administrativo, las altas, bajas, movimientos de personal y suspensiones de las relaciones laborales de los servidores públicos del Instituto tanto para efectos de control interno, así como ante los organismos de seguridad social, verificando la plena aplicación de dichas resoluciones en el área de su competencia;
+
+IV. Integrar y mantener actualizados los expedientes de los servidores públicos del Instituto; incorporando en los mismos, la documentación de identidad respectiva, el nombramiento otorgado, las constancias de movimiento de personal que se tramiten y autoricen por el Director o Directora General, el alta a las instituciones de seguridad social, y todo documento o constancia relativa al servidor público, así como la correspondiente a las sanciones administrativas que se decreten;
+
+V. Efectuar los descuentos salariales que legalmente procedan;
+
+VI. Controlar mediante sistemas y procedimientos acordes, los movimientos que origine el personal, tales como promociones, vacaciones, licencias, permisos, cambios de adscripción, ausentismo, puntualidad y demás que se presenten;
+
+VII. Coordinar e implementar la dotación de documentos de identificación para el personal del Instituto;
+
+VIII. En coordinación con la Coordinación Administrativa del Instituto, elaborar los diagnósticos y evaluaciones sobre los requerimientos de capacitación y adiestramiento del personal, diseñando y proponiendo en su caso a la Coordinación Administrativa, los programas y cursos de capacitación y adiestramiento para satisfacer los requerimientos de conocimiento y habilidades para el mejor desempeño de las labores del Instituto;
+
+IX. Elaborar y someter a la autorización correspondiente, los programas de adquisiciones de bienes y servicios del Instituto con base en los requerimientos de las diversas instancias que lo conforman y en apego a la partida presupuestal respectiva, al efecto, llevará estadísticas de consumo para la elaboración de programas de adquisición;
+
+X. Controlar y despachar las requisiciones de material, mobiliario y equipo necesario para la buena marcha del Instituto;
+
+XI. Efectuar las indagaciones necesarias, recabar los presupuestos correspondientes y participar en su caso en las comisiones de adquisiciones que se implementen, proveyendo la información alternativa que posibilite las decisiones más convenientes en costo, calidad y servicio;
+
+XII. Elaborar los programas de mantenimiento preventivo del mobiliario, equipamiento y parque vehicular del Instituto para determinar sus costos y correspondiente presupuestación, así como gestionar el acuerdo correspondiente para despachar los requerimientos indispensables para la adecuada conservación y mantenimiento de los bienes aludidos;
+
+XIII. Promover entre el personal y usuarios de los servicios del Instituto a las acciones preventivas y la mejor utilización de las instalaciones, mobiliario y equipamiento del Instituto para la mejor conservación de los mismos;
+
+XIV. Clasificar, agrupar, inventariar y controlar las existencias de almacén respecto al material consumible de acuerdo con una lógica de ordenación clara y concisa;
+
+XV. Conservar actualizado un inventario de los bienes, enseres y equipo que integran el patrimonio del Instituto, así como el relativo a los bienes no propios, más que se encuentren en posesión de la Institución en virtud de asignación, comodato, arrendamiento o cualquier acto jurídico;
+
+XVI. Controlar los mismos a través de la identificación, codificación, registro y resguardo respectivos;
+
+XVII. Conservar los resguardos suscritos por los usuarios de los bienes patrimoniales del Instituto, para garantizar su custodia, y en su caso reclamar la responsabilidad;
+
+XVIII. Evaluar y en su caso, tramitar la baja de bienes patrimoniales cuyo ciclo de utilización o sus condiciones no sean funcionales;
+
+XIX. Revisar y vigilar la vigencia de los Contratos;
+
+XX. Verificar que se mantengan vigentes y en óptimas condiciones de aseguramiento y protección, los contratos de seguro de los bienes patrimoniales del Instituto considerados prioritarios, de mayor valor o que presenten el mayor índice de siniestros, procesando y manteniendo actualizada la información correspondiente;
+
+XXI. Llevar a cabo las contrataciones y procedimientos de adjudicación;
+
+XXII. Realizar y actualizar las descripciones generales de puestos del personal del Instituto.
+
+XXIII. Preparar el expediente y la información necesaria que se deberá turnar al consejo, para realizar las adquisiciones que conforme a las disposiciones legales, son competencia de ese organismo;
+
+XXIV. Llevar a cabo las gestiones administrativas y elaborar los documentos correspondientes a los procedimientos de Adjudicación;
+
+XXV. Integrar y mantener actualizados los expedientes de las contrataciones de bienes o servicios que realice el Instituto; incorporando en los mismos, la documentación de identidad respectiva de los proveedores, garantías de los procedimientos de contratación y sus anexos y todo documento o constancia relativa a los mismos, así como la correspondiente a las sanciones administrativas que se decreten;
+
+XXVI. Mantener en óptimas condiciones de aseo las instalaciones del Instituto a través del servicio de intendencia;
+
+XXVII. Controlar la apertura y cierre cotidiano de las oficinas del Instituto.
+
+XXVIII. Coordinar la correcta utilización y mantenimiento de los vehículos del Instituto supervisando su uso moderado y adecuado, así como la conservación de la función oficial;
+
+XXIX. Elaborar un reporte de la logística de cada evento, con el fin de controlar inventarios y personal del Instituto y de aquellos recursos necesarios para lograr sus objetivos, programando los movimientos que considere pertinentes;
+
+XXX. Apoyar en la coordinación de las distintas áreas para el cumplimiento de sus objetivos, sistematizando la comunicación con las mismas, para disponer de manera permanente de la información sobre el estado que guardan los asuntos inherentes al Instituto, proveer, requerir información y asesoría a las instituciones con las que el Instituto mantiene relación;
+
+XXXI. Preparar y elaborar Informes Generales de la Gestión Institucional;
+
+XXXII. Informar a la persona titular de la Coordinación Administrativa todo lo relacionado con la cuenta pública;
+
+XXXIII. Realizar el cálculo de impuestos a pagar;
+
+XXXIV. Elaborar el informe de la Cuenta Pública del Instituto;
+
+XXXV. Supervisar la elaboración de conciliaciones Bancarias;
+
+XXXVI. A tender las solicitudes de información de las diversas instituciones que fiscalizan al solicitar la documentación necesaria y oportuna para el cumplimiento de la Cuenta Pública; y
+
+XXXVII. Realizar todas aquellas funciones que le encomiende el Coordinador Administrativo y las demás disposiciones legales aplicables.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 19 DE FEBRERO DE 2016)</small>
+
+### Capítulo III. De la Subdirección Operativa
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2016)</small>
+
+###### Artículo 43.
+
+La Subdirección Operativa se encargará de promover, coordinar, desarrollar y vigilar la ejecución de los planes y programas del Instituto.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2016)</small>
+
+###### Artículo 44.
+
+De las facultades y obligaciones del Subdirector Operativo:
+
+I. Planear, organizar y supervisar la política del gobierno municipal conforme los lineamientos y estrategias que marque el Director o Directora General del Instituto Municipal de Cultura y Desarrollo Humano y en conjunto con la coordinación de promoción y difusión cultural, las campañas de difusión, divulgación y publicitarias, Programas y Proyectos de la red Municipal de Bibliotecas, vinculación cultural, Galerías, Museos, archivo histórico y hemeroteca; y todas aquellas acciones relacionadas con el Proyecto de Cultura Municipal.
+
+II. Colaborar con el Director general en la elaboración de los programas operativos anuales para ser presentados ante el Consejo del Instituto de Cultura y Desarrollo Humano de Ensenada;
+
+III. Analizar y estructurar los programas operativos anuales aprobados por el Consejo del Instituto Municipal de Cultura y Desarrollo Humano y la Dirección General del Instituto, con el fin de garantizar el acceso de la comunidad ensenadense a la oferta de bienes y servicios culturales, especialmente en aquellos que se refieran a la promoción cultural, capacitación artística, producción de espectáculos y los servicios bibliotecarios;
+
+IV. Planear, organizar y ejecutar dichos programas, observando la estructura financiera autorizada para tales efectos;
+
+V. Planear, organizar y ejecutar los acuerdos y convenios necesarios para el fortalecimiento financiero de los programas operativos, en estrecha coordinación con la Subdirección administrativa del Instituto, de manera que se involucre tanto al sector público como privado en la promoción de bienes y servicios culturales para la comunidad;
+
+VI. Analizar y proponer a la Coordinación Administrativa las cotizaciones de proveedores de bienes y servicios, con base en las políticas que para tales efectos establezca la Dirección General;
+
+VII. Acordar con la Dirección General, los cambios y ajustes programáticos y financieros a que hubiere lugar en el transcurso del tiempo durante el cual desempeñe su encargo;
+
+VIII. Prever los recursos necesarios para promover la apertura de nuevos espacios culturales en la ciudad, a partir de convenios, con organismos no gubernamentales, otras dependencias de los gobiernos Municipal, Estatal y Federal, así como con la iniciativa privada:
+
+IX. Coordinar la organización de concursos y premios en las distintas disciplinas gestionando el apoyo de fundaciones, organismos públicos y privados, con el fin de promover la creación artística municipal;
+
+X. Proponer ante la Dirección General aquellos proyectos especiales que considere pertinentes y viables, con el fin de enriquecer y fortalecer los programas operativos anuales;
+
+XI. Coordinar la ejecución de los programas de cada dependencia a su cargo, supervisando el desempeño de los titulares en cada área;
+
+XII. Dar seguimiento a la operación de los organismos bajo su supervisión, a partir de los programas y objetivos previstos en la planeación previa;
+
+XIII. Mantener una estrecha comunicación con los titulares de las coordinaciones bajo su cargo, con el fin de prever y facilitar los recursos necesarios para el mejor desempeño de cada área y el cumplimiento de sus objetivos, así como los programas de cursos y talleres;
+
+XIV. Coordinar reuniones semanales de información con los titulares de la coordinación de Bibliotecas Públicas, Archivo Histórico y Hemeroteca, Comunicación y vinculación Cultural, Casas de la Cultura, Editorial y Literatura, a su cargo.
+
+XV. Evaluar los resultados de cada proyecto y programa, vigilando el cumplimiento de las normas relativas;
+
+XVI. Presentar un informe mensual, ante la Dirección del Instituto, de los avances en los proyectos y programas;
+
+XVII. Programar y coordinar las juntas trimestrales de evaluación y planeación a corto y mediano plazo, con el fin de consolidar esfuerzos y recursos para la realización de los programas del Instituto Municipal de Cultura y Desarrollo Humano;
+
+XVIII. Apoyar a la Dirección General en la integración del Informe Anual para la cuenta pública, sobre el estado que guarda la administración y operación del Instituto Municipal de Cultura y Desarrollo Humano;
+
+XIX. Llevar un registro de los institutos, universidades, fundaciones y asociaciones culturales y artísticas, y de proyectos de investigación que conciernan a su área, que puedan apoyar la promoción, difusión, capacitación artística y cultural del Instituto Municipal de Cultura y con ello allegarles diversos apoyos financieros, logísticos y materiales para su mejor desempeño;
+
+XX. Desempeñar todo encargo propuesto por la Dirección General del Instituto Municipal de Cultura y Desarrollo Humano;
+
+XXI. Cumplir con todas las disposiciones previstas por las leyes y reglamentos en la materia.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2016)</small>
+
+###### Artículo 45.
+
+De las facultades y obligaciones del Coordinador de Bibliotecas Públicas Municipales:
+
+I. Planear, organizar y dirigir la política cultural del Gobierno Municipal en materia de servicios bibliotecarios a la comunidad, así como la aplicación de los programas de la Red Nacional de Bibliotecas Públicas y los lineamientos establecidos por la Dirección General de Bibliotecas de la Secretaría de Educación Pública;
+
+II. Planear, organizar y ejecutar los programas aprobados por la Dirección del Instituto Municipal de Cultura y Desarrollo Humano conforme a los lineamientos trazados en el Consejo del Instituto; ejecuta sus actividades con base en los programas de la Dirección General de Bibliotecas de la Secretaría de Educación Pública;
+
+III. Presentar un programa anual de actividades, dividido por trimestres, ante la Dirección General, en el cual se especifican las formas, contenidos y funciones de cada acción prevista;
+
+IV. Coordinar la planeación y organización de programas conjuntos con clubes y círculos de lectura, exposiciones, talleres literarios, cine clubes y otros que promuevan la concurrencia de la comunidad a las bibliotecas de la ciudad, en coordinación con las otras áreas del Instituto Municipal de Cultura y Desarrollo Humano, como las Casas de la Cultura, Comunicación Social y Vinculación Cultural, así como con otras entidades educativas e instituciones de promoción cultural;
+
+V. Convocar la participación de estudiantes y maestros en la utilización, conservación y enriquecimiento de los servicios bibliotecarios, mediante concursos y atractivos especiales con el fin de ampliar la presencia del Instituto Municipal de Cultura y Desarrollo Humano en la comunidad escolar;
+
+VI. Proponer acciones tendientes al enriquecimiento del acervo bibliotecario de la ciudad;
+
+VII. Determinar los objetivos y funciones del personal a su cargo, con el fin de evaluar su desempeño y proponer las acciones educativas o formativas pertinentes para elevar la calidad de los servicios que prestan a la comunidad;
+
+VIII. Llevar el control de los inventarios bibliográficos, hemerográficos, cartográficos y de material electromagnético y cibernético existentes en las unidades a su cargo;
+
+IX. Supervisar y evaluar la calidad del servicio que cada biblioteca presta a la comunidad;
+
+X. Proponer y ejecutar acciones preventivas y correctivas en función del nivel del servicio prestado;
+
+XI. Facilitar al personal a su cargo los recursos materiales existentes, así como la instrucción que se requiera para el óptimo desempeño de sus funciones;
+
+XII. Organizar cursos especializados de capacitación y adiestramiento en manejo y servicios bibliotecarios, dirigidos a fortalecer el adiestramiento del personal a su cargo;
+
+XIII. Es responsable ante la Coordinación Administrativa del Instituto por los recursos materiales a su cargo, procurando llevar al día la información relativa a los acervos, inventarios físicos de activo fijo y otros que le sean asignados;
+
+XIV. La Coordinación de Bibliotecas debe reportar a la Coordinación Administrativa y a la Subdirección Operativa los asuntos que sean competencia de éstas y llevar una relación de vinculación con las demás coordinaciones;
+
+XV. Elaborar un informe mensual de sus actividades y lo turna ante Unidad correspondiente del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2016)</small>
+
+###### Artículo 46.
+
+De las atribuciones del Coordinador del Archivo Histórico y Hemeroteca:
+
+I. Preservar el patrimonio histórico de la región;
+
+II. Rescatar los testimonios orales y documentales de su gente;
+
+III. Divulgar la historia entre la población;
+
+IV. Facilitar su acervo a investigadores, estudiantes y público en general;
+
+V. La organización y proyección del Archivo Virtual;
+
+VI. Dar a conocer documentos, mapas, periódicos y fotografías de Ensenada por todos los medios a su alcance;
+
+VII. Realizar exposiciones temporales sobre la historia de la ciudad y la región;
+
+VIII. Lograr que la atención al público esté a cargo de prestadores de servicio social bajo la dirección del personal del archivo, quienes atenderán lo relacionado con la clasificación e inventario de los documentos que se rescaten;
+
+IX. Obtener y mantener el adecuado mobiliario y equipo de cómputo para poder dar servicio al público y poder iniciar el trabajo propio del archivo, como la recopilación de documentos, fotografías, periódicos y demás que permitan el rescate de la historia regional. En forma constante se organizarán inventarios y clasificación de los mismos para su posterior digitalización;
+
+X. Facilitar el conocimiento de la historia regional;
+
+XI. Elaborar y mantener actualizada la “Memoria Digital de Ensenada” por medio de la cual se reproducen textos y documentos sobre la historia de la ciudad. Siendo responsable de la reproducción de fondos documentales del archivo en fotocopia, microfilm o formato digital;
+
+XII. La exposición temporal de documentos, así como las publicaciones sobre historia de la localidad, ediciones facsimilares, programas de historia oral, visitas guiadas y los talleres didácticos que se articulan en torno a las áreas temáticas del archivo, los documentos y la investigación;
+
+XVI (SIC). Todas las demás disposiciones que establezca la Dirección General y las leyes aplicables a la materia.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2016)</small>
+
+###### Artículo 47.
+
+De las atribuciones del Coordinador de Comunicación Social y Vinculación Cultural:
+
+a) En materia de Vinculación Cultural:
+
+I. Planear, organizar y supervisar los eventos artísticos-culturales del Instituto conforme los lineamientos y estrategias que marque el Director o Directora y en coordinación con los coordinadores de su unidad administrativa, las campañas de difusión, divulgación y publicitarias;
+
+II. Colaborar con el Director o Directora en la elaboración de los programas operativos anuales para ser presentados ante el consejo;
+
+III. Analizar y estructurar los programas anuales aprobados por el consejo y la Direccióncon (sic) el fin de garantizar el acceso de la comunidad ensenadense a la oferta de bienes y servicios culturales, especialmente en aquellos que se refieran a la promoción cultural, la producción de espectáculos, exposiciones y de eventos artísticos en general;
+
+IV. Planear, organizar y ejecutar dichos programas, observando la estructura financiera autorizada para tales efectos;
+
+V. Planear, organizar y ejecutar los acuerdos y convenios necesarios para el fortalecimiento financiero de los programas operativos, en estrecha coordinación con la Coordinación Administrativa del Instituto de manera que se involucre tanto al sector público como privado en la promoción de bienes y servicios culturales para la comunidad;
+
+VI. Prever los recursos necesarios para promover la apertura de nuevos espacios culturales en la ciudad, a partir de convenios, aprobados por la Dirección General, con organismos no gubernamentales, otras dependencias de los gobiernos municipal, estatal y federal, así como con la iniciativa privada;
+
+VII. Coordinar la ejecución de los programas de cada dependencia a su cargo, supervisando el desempeño de las o los titulares en cada área;
+
+VIII. Dar seguimiento a la operación de los organismos bajo su supervisión, a partir de los programas y objetivos previstos en la planeación previa;
+
+IX. Mantener una estrecha comunicación con las y los titulares de las demás áreas con el fin de prever y facilitar los recursos necesarios para el mejor desempeño de cada área y el cumplimiento de sus objetivos;
+
+X. Coordinar reuniones semanales de información con las y los titulares de todas las áreas que generen eventos culturales o artísticos;
+
+XI. Evaluar los resultados de cada proyecto y programa, vigilando el cumplimiento de las normas relativas;
+
+XII. Presentar un programa anual de actividades, ante la Dirección General, en el cual se especifican las formas, contenidos y funciones de cada acción prevista; y
+
+XIII. Analizar, supervisar y proponer a la jefatura de contabilidad las requisiciones, cotizaciones de proveedores de bienes y servicios, con base en las políticas presupuestales establecidas por el Instituto;
+
+XIV. Participar en las reuniones directivas junto a la Dirección General y las Coordinaciones con el fin de evaluar y supervisar el desempeño integral del Instituto;
+
+XV. Participar en las reuniones ordinarias y extraordinarias del Consejo;
+
+XVI. Coordinar los programas de información por los canales de comunicación adecuados, sobre las actividades del Instituto, de la Dirección General y sus Unidades Administrativas;
+
+XVII. Elaborar el plan de trabajo y estrategias para una mejor cobertura y difusión de los proyectos, programas y acciones que realiza el Instituto para el fortalecimiento cultural de los ensenadense;
+
+XVIII. Presentar a la Dirección General los planes de trabajo, presupuesto y evaluaciones relativos a sus funciones;
+
+XIX. Desarrollar la política del Instituto Municipal de Cultura y Desarrollo Humano en materia de vinculación cultural;
+
+XX. Elaborar y proponer el plan de trabajo y las estrategias pertinentes para lograr obtener apoyo económico de diversas entidades oficiales y particulares;
+
+XXI. Ejecutar el plan de trabajo conforme el programa y los tiempos establecidos;
+
+XXII. Elaborar acciones para la promoción del programa de cultura municipal en las escuelas;
+
+XXIII. Coordinar los programas y subprogramas autorizados por la Dirección del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada con los Sistemas Educativos existentes en el municipio;
+
+XXIV. Establecer contactos con directivos del sector educativo de todos los niveles;
+
+XXV. Promover entre las escuelas los programas de cultura municipal y los servicios del Instituto Municipal de Cultura y Desarrollo Humano;
+
+XXVI. Organizar visitas de artistas, expositores y conferencistas en coordinación con otros Institutos y Centros Universitarios;
+
+XXVII. Capacitar guías para recorridos culturales;
+
+XXVIII. Solicitar a la subdirección administrativa la asignación de vehículos para el traslado de alumnos y guías durante los recorridos culturales;
+
+XXIX. Organizar cursos y talleres de capacitación para maestros y personal del sistema Educativo formal dedicado a la enseñanza artística;
+
+XXX. Verificar que haya un seguimiento en cada una de las acciones que emprende;
+
+XXXI. Elaborar un informe mensual de sus actividades y turnarlo a la Subdirección Operativa del Instituto.
+
+XXXII. Ejecutar los programas del Instituto en materia de eventos y espectáculos;
+
+XXXIII. Planear, organizar y ejecutar los eventos programados y autorizados por la o el Director General;
+
+XXXIV. Planear la organización y proponer los eventos especiales con base en el calendario anual de festividades nacionales y regionales, por temas o disciplina artística con las diferentes áreas, bajo la supervisión de la Coordinación (sic) Comunicación Social y Vinculación Cultural para su autorización por la Dirección General;
+
+XXXV. Elaborar el calendario de los eventos y espectáculos programados, llevando un registro de los recursos humanos y materiales necesarios para los montajes, el manejo de los equipos, el traslado de personas y elementos necesarios;
+
+XXXVI. Llevar un registro de las solicitudes y requisiciones de recursos, con el fin de controlar los gastos en la producción de cada evento, en coordinación con la Coordinación Administrativa;
+
+XXXVII. Elaborar un informe detallado de la planeación y la logística de los eventos programados y turnarlo a la Subdirección Operativa;
+
+XXXVIII. Proponer la contratación y reserva de los espacios apropiados para cada evento;
+
+XXXIX. Elaborar una ficha con los datos correspondientes a los espacios elegidos para la celebración de cada evento y turnarlo a la Coordinación Administrativa, con el fin de elaborar los respectivos contratos de arrendamiento y/o de comodato, o realizar los convenios conducentes;
+
+XL. Controlar el avance en los trabajos de producción y montaje de los eventos, supervisando a los proveedores contratados para tales efectos;
+
+XLI. Elaborar un reporte de la logística de cada evento, con el fin de controlar inventarios y requerir la adquisición de aquellos recursos necesarios para lograr sus objetivos, programando los movimientos que considere pertinentes;
+
+XLII. Administrar la política del Instituto en materia de Galerías y foros de exposiciones de obras de Arte con base en los programas autorizados por la Dirección General;
+
+XLIII. Establecerla (sic) vinculación con artistas de las diferentes disciplinas artísticas para la realización de eventos culturales;
+
+XLIV. Establecer relaciones de coordinación con promotores y promotoras independientes de la plástica en la región, con el fin de realizar eventos y exposiciones dentro y fuera de los espacios del Instituto;
+
+XLV. Crear y dar seguimiento a un directorio de artistas de las diferentes disciplinas para realizar eventos culturales;
+
+XLVI. Organizar y reportar archivos fotográficos al área de promoción y difusión cultural de cada evento cultural, así como sus respectivas fichas informativas;
+
+XLVII. Habilitar las salas para cada exposición;
+
+XLVIII. Ordenar y supervisar la museografía de las obras en cada exposición;
+
+XLIX. Tener información sobre el catálogo de obras a ser expuestas en espacios y foros a los que el Instituto tenga acceso, con el fin de diseñar las campañas publicitarias y promocionales adecuadas a cada exhibición;
+
+L. Preparar a las y los promotores culturales, internos y externos, en todos los temas relacionados con las artes plásticas;
+
+LI. Apoyar la ejecución de conferencias, cursos y seminarios en los espacios de la galería, sobre temas diversos como: historia del arte, historia regional, responsabilidad social del artista, las artes escénicas, las artes plásticas, etcétera;
+
+LII. Ejecutar la política del Instituto en materia de promoción de la Cultura Popular;
+
+LIII. Elaborar y coordinar el programa de Cultura Popular, dando seguimiento a la operación y promoción de los subprogramas, jornadas culturales comunitarias y promoción en colonias populares;
+
+LIV. Brindar asesoría, seguimiento y supervisión al trabajo de las y los coordinadores de subprogramas delegacionales, con reuniones periódicas de evaluación y programación de actividades conjuntas de acuerdo con los objetivos del programa;
+
+LV. Promover la adquisición de apoyos para la realización de las actividades propias de los subprogramas a través de la administración del Instituto.
+
+LVI. Tener información del contenido y los calendarios del Programa de Cultura Popular, así como la calendarización de cada subprograma con el fin de comunicarlos a la comunidad a través de los medios.
+
+LVII. Participar en todos los eventos y actividades especiales del Instituto.
+
+LVIII. Elaborar informes mensuales de sus actividades, dirigidos a la Subdirección operativa; y
+
+LIX. Realizar todas aquellas funciones que le encomiende el Director General y/o el Subdirector Operativo del Instituto.
+
+b) En materia de Comunicación social y difusión:
+
+I. Llevar un registro diario de la información difundida por la prensa, la radio, la televisión y otros medios, en relación con los programas, eventos y temas promovidos y tratados por el Instituto que deberá entregar a la Dirección General;
+
+II. Mantener informada a la Dirección General y a las Unidades Administrativas del (sic) sobre las manifestaciones de expresión pública y social relativa a su actuación;
+
+III. Mostrar una imagen veraz y adecuada, del Instituto ante la sociedad;
+
+IV. Emitir por escrito los lineamientos en materia de comunicación social a que deberán sujetarse las Unidades Administrativas del Instituto;
+
+V. Garantizar que la información proveniente del Instituto se difunda a toda la población;
+
+VI. Realizar campañas publicitarias para dar a conocer a la ciudadanía los planes de trabajo y acciones emprendidas por el Instituto;
+
+VII. Reportar a las Coordinaciones y mantener una línea de comunicación con el resto de las coordinaciones, para llevar un registro diario de las actividades que realiza cada uno de ellos y difundir tanto los programas como los eventos a realizarse;
+
+VIII. Organizar las conferencias y ruedas de prensa que a los medios de comunicación ofrezcan el Director o Directora General y funcionarios del IMCUDHE;
+
+IX. Cubrir las actividades y eventos del Instituto para la redacción de los reportajes, crónicas y notas informativas, conforme prioridades y agenda;
+
+X. Coordinar el diseño y la publicación de los materiales gráficos con fines de promoción interna y publicitaria, así como la elaboración de los textos correspondientes a las campañas de difusión relativas a cada proyecto supervisado por las Coordinaciones del Instituto;
+
+XI. Elaborar y distribuir de manera quincenal entre los diversos departamentos del instituto una síntesis diaria de información periodística en torno a los temas que le atañen al IMCUDHE;
+
+XII. Emitir boletines, aclaraciones y convocatorias para su publicación en los medios, concernientes a los programas y acciones del Instituto;
+
+XIII. Elaborar y mantener al día el directorio de medios de comunicación y las y los comunicadores de las diferentes fuentes, estableciendo comunicación particularmente con los culturales; y
+
+XIV. Coordinarse con la Dirección de Comunicación Social del Municipio de Ensenada en el desarrollo de sus actividades.
+
+XV. Realizar todas aquellas funciones que le encomiende el Director o Subdirector Operativo del IMCUDHE.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2016)</small>
+
+###### Artículo 48.
+
+De las atribuciones del Coordinador de Editorial y Literatura:
+
+I. Proyección de obras literarias que impulsen los conocimientos de la cultura y el arte en el municipio;
+
+II. Llevar a cabo presentaciones editoriales, acerca de las novedades y relevancias de libros, revistas o publicaciones, con el objeto de apoyar la promoción del arte y la cultura en el municipio;
+
+III. Llevar a cabo programas de participación para los niños y adultos en las actividades literarias.
+
+IV. Realizar convocatorias de participación ciudadana que impulsen la literatura cultural y optimicen el desarrollo cultural del municipio.
+
+V. Realizar publicaciones culturales y literarias de las actividades del IMCUDHE, a través de la Coordinación de Comunicación Social y Vinculación Cultural.
+
+VI. Las demás funciones que deriven de la naturaleza de su función y/o que sean encomendadas por su jefe inmediato superior y/o el Director General.
+
+> <small>(ADICIONADO, P.O. 19 DE FEBRERO DE 2016)</small>
+
+###### Artículo 49.
+
+De las facultades de la Coordinación de Casa de la Cultura:
+
+I. Ejecutar la política del Instituto Municipal de Cultura y Desarrollo Humano en materia de capacitación artística, de promoción y difusión de la cultura y las artes en las Casas de la Cultura que establezca la Dirección General;
+
+II. Elaborar el programa anual de trabajo, proponer las políticas internas y proporciona (sic) a la Dirección General los proyectos y presupuestos a desarrollar, para su análisis y autorización;
+
+III. Coordinar la impartición de cursos y la realización de proyectos propuestos por el personal académico de las Casas de Cultura a su cargo, para la difusión de la cultura y las artes;
+
+IV. Evaluar e informar mensualmente los avances o terminación de proyectos y programas;
+
+V. Evaluar la conveniencia y pertinencia de cada programa y presupuesto propuestos, a la calidad-costo-beneficio de las acciones o servicios;
+
+VI. Solicitar la elaboración de los presupuestos correspondientes a los programas administrativo y académico;
+
+VII. Gestionar recursos económicos y proponer cursos de capacitación y becas para fortalecer la currícula de los maestros;
+
+VIII. Creación y fomento de grupos de alumnos y ex alumnos de las Casas de Cultura, para que se formen las compañías de las diferentes disciplinas que representan a dichas casas de estudios;
+
+IX. Solicitar y supervisar mensualmente los informes financieros, administrativos y académicos;
+
+X. Recibir, responder y turnar la correspondencia de las Casas de Cultura, a la Dirección;
+
+XI. Previa solicitud del Director, representar al Instituto Municipal de Cultura y Desarrollo Humano, como miembro de número en los foros de consulta del ramo cultural;
+
+XII. Canalizar mensualmente la información, evaluación y propuestas a la Dirección del Instituto Municipal de Cultura y Desarrollo Humano;
+
+XIII. Elaborar y turnar un informe mensual a las Subdirección Operativa y Coordinación Administrativa sobre el avance de los distintos programas y proyectos, presupuestos y estados financieros que supervisa;
+
+XIV. Verificar el cumplimiento de las disposiciones y reglamentos vigentes;
+
+XV. Implementar acciones para elevar la calidad de la educación artística que se imparte en las casas de la cultura;
+
+XVI. Realizar acciones encaminadas a elevar el número de alumnos inscritos en las casas de la cultura;
+
+XVII. Fomentar el conocimiento y aplicación de una educación en valores tanto en el personal como en los alumnos que asisten a las casad (sic) de la cultura;
+
+XVIII. Las demás funciones que deriven de la naturaleza de su función y/o que sean encomendadas por su jefe inmediato superior y/o el Director General.
 
 T R A N S I T O R I O S (SIC)
 
@@ -581,7 +1063,7 @@ LIC. JULIO CESAR ARENAS RUIZ
 
 SECRETARIO FEDATARIO DEL XVIII AYUNTAMIENTO DE ENSENADA, B. C.
 
-> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.</small>
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
 P.O. 26 DE AGOSTO DE 2011.
 
@@ -614,3 +1096,9 @@ SEXTO.- Se derogan todas las disposiciones que contravengan el contenido de la p
 P.O. 25 DE JULIO DE 2014.
 
 EL DECRETO DE REFORMAS CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3°. DEL CÓDIGO CIVIL FEDERAL.
+
+P.O. 19 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA ADICIONAR EL ARTÍCULO 12 AL ACUERDO DE CREACIÓN DEL INSTITUTO MUNICIPAL DE CULTURA Y DESARROLLO HUMANO DE ENSENADA, BAJA CALIFORNIA, ASÍ COMO REFORMAR EL ARTÍCULO 39 Y ADICIONES DE NUMERALES AL REGLAMENTO DEL INSTITUTO MUNICIPAL DE CULTURA Y DESARROLLO HUMANO DE ENSENADA, BAJA CALIFORNIA".]
+
+ÚNICO.- La presente reforma y adiciones al Reglamento del Instituto Municipal de Cultura y Desarrollo Humano de Ensenada, entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Baja California
