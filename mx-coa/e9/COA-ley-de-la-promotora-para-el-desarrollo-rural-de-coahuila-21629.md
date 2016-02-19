@@ -4,7 +4,7 @@ identifier: "COA-ley-de-la-promotora-para-el-desarrollo-rural-de-coahuila-21629"
 country: "mx"
 rank: "ley"
 publication_date: "2001-06-05"
-last_updated: "2009-02-10"
+last_updated: "2016-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=21629&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 LEY DE LA PROMOTORA PARA EL DESARROLLO RURAL DE COAHUILA
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 10 DE FEBRERO DE 2009.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2016.
 
 Ley publicada en el Periódico Oficial del Estado de Coahuila, el martes 5 de junio de 2001.
 
@@ -41,7 +41,7 @@ LEY DE LA "PROMOTORA PARA EL DESARROLLO RURAL DE COAHUILA"
 
 ### CAPÍTULO I. DISPOSICIONES GENERALES
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 10 DE FEBRERO DE 2009)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE FEBRERO DE 2009)</small>
 
 ###### ARTÍCULO 1°.
 
@@ -85,7 +85,9 @@ VIII. Subarrendar la maquinaria inactiva propiedad de particulares, conforme a l
 
 IX. Otorgar, en los términos de los convenios y contratos que para tal efecto se suscriban, servicios de reparación y mantenimiento de maquinaria agrícola e hidroagrícola a productores del sector social y/o privado, previo el pago de las cantidades que correspondan por concepto de productos en los términos de las disposiciones aplicables.
 
-X. Promover entre los productores de la entidad y, en su caso, gestionar, la tramitación de créditos y todo tipo de recursos complementarios, que aseguren la funcionalidad y sustentabilidad de los proyectos que la Promotora les haya sugerido implementar.
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2016)</small>
+
+X. Promover, y en su caso gestionar entre los productores de la entidad, la tramitación de créditos y recursos complementarios que aseguren la funcionalidad y sustentabilidad de los proyectos que la Promotora les haya sugerido implementar, procurando la equidad de género en sus programas.
 
 XI. Celebrar los convenios y contratos que requiera para el cumplimiento de su objeto.
 
@@ -430,3 +432,15 @@ PRIMERO. Este decreto será vigente al día siguiente de su publicación en el P
 SEGUNDO. Hasta en tanto no se expidan los acuerdos de sectorización de los organismos públicos descentralizados que forman parte de la Administración Pública del Estado, continuarán bajo la sectorización que dispongan los instrumentos jurídicos que los hubiesen creado.
 
 TERCERO. Se dejan sin efectos las disposiciones que se opongan a lo previsto en este decreto.
+
+P.O. 19 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO No. 362.- SE REFORMA LA FRACCIÓN X DEL ARTÍCULO 3 DE LA LEY DE LA PROMOTORA PARA EL DESARROLLO RURAL DE COAHUILA".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Se derogan todas las disposiciones que se opongan al siguiente decreto.
