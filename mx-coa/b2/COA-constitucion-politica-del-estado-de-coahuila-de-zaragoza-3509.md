@@ -4,7 +4,7 @@ identifier: "COA-constitucion-politica-del-estado-de-coahuila-de-zaragoza-3509"
 country: "mx"
 rank: "constitucion"
 publication_date: "1918-02-19"
-last_updated: "2016-01-22"
+last_updated: "2016-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3509&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -22,9 +22,9 @@ state: "COA"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL DECRETO DE REFORMAS NÚMERO 126, PUBLICADO EN EL P.O. DE 22 DE SEPTIEMBRE DE 2015, TODAS LAS REFERENCIAS QUE SE HAGAN AL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE COAHUILA, SE ENTENDERÁN HECHAS AL INSTITUTO ELECTORAL DE COAHUILA.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2016.
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE ENERO DE 2016.
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 19 DE FEBRERO DE 2016.]</small>
 
 Constitución publicada en el Periódico Oficial del Estado de Coahuila de Zaragoza, el 19 de febrero de 1918.
 
@@ -33,6 +33,8 @@ GUSTAVO ESPINOSA MIRELES, Gobernador Constitucional del Estado Independiente, Li
 Que el Congreso del mismo ha decretado lo siguiente:
 
 El XXIII Congreso Constitucional y Constituyente del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza, en ejercicio de los poderes que el Pueblo le ha conferido, decreta la siguiente Constitución Política Reformada, del Estado de Coahuila de Zaragoza:
+
+> <small>N. DE E. DE CONFORMIDAD CON EL TRANSITORIO CUARTO DEL DECRETO DE REFORMAS NÚMERO 126, PUBLICADO EN EL P.O. DE 22 DE SEPTIEMBRE DE 2015, TODAS LAS REFERENCIAS QUE SE HAGAN AL INSTITUTO ELECTORAL Y DE PARTICIPACIÓN CIUDADANA DE COAHUILA, SE ENTENDERÁN HECHAS AL INSTITUTO ELECTORAL DE COAHUILA.</small>
 
 ## TITULO PRIMERO.
 
@@ -374,17 +376,11 @@ I. Votar y ser electos para los empleos y cargos públicos en la forma y términ
 
 El derecho de solicitar el registro de candidatos a cargos de elección popular ante la autoridad electoral corresponde a los partidos políticos así como a los ciudadanos que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine tanto esta Constitución, como la legislación electoral del Estado.
 
-> <small>(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2013)</small>
-
-Las candidaturas independientes se sujetarán a los requisitos, condiciones y términos que determine esta Constitución, la legislación electoral del Estado y los acuerdos de las autoridades electorales, en especial para garantizar la transparencia, legalidad y fiscalización en el origen y ejercicio de los recursos. En todo caso, las disposiciones relativas a los partidos políticos, en los procesos electorales, serán aplicables a las candidaturas independientes con las modalidades específicas que la ley señale.
-
-> <small>N. DE E. SE ADVIERTE QUE EL CONTENIDO DEL PRESENTE PÁRRAFO ES SIMILAR AL CONTENIDO DEL PÁRRAFO PRECEDENTE.</small>
-
-> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015) (F. DE E., P.O. 19 DE FEBRERO DE 2016)
 
 Las candidaturas independientes se sujetarán a los requisitos, condiciones y términos que determine esta Constitución y la legislación electoral del Estado, en especial para garantizar la transparencia, legalidad y fiscalización en el origen y ejercicio de los recursos. En todo caso, las disposiciones relativas a los partidos políticos, en los procesos electorales, serán aplicables a las candidaturas independientes con las modalidades específicas que la ley señale.
 
-> <small>(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015) (F. DE E., P.O. 19 DE FEBRERO DE 2016)
 
 Los coahuilenses podrán ejercer su derecho a votar, aún estando en territorio extranjero, acorde a las disposiciones legales en la materia.
 
@@ -520,9 +516,9 @@ a) Será autoridad en la materia, independiente en sus decisiones y funcionamien
 
 b) La certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad serán principios rectores de su desempeño;
 
-> <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2016)</small>
 
-c) Contará en su estructura con los órganos de dirección, ejecutivos, técnicos y de vigilancia que señale la ley. El Consejo General será su órgano superior de dirección y se integrará por un consejero presidente y seis consejeros electorales; concurrirán con voz y sin voto los representantes de los partidos políticos y el Secretario Ejecutivo. El Secretario Ejecutivo será designado por el voto de las dos terceras partes de los diputados presentes del Pleno del Congreso a propuesta del Consejo General, durará en su encargo seis años y podrá ser ratificado por una sola vez en los términos que disponga la ley; Tendrá un Contralor interno con autonomía de gestión; designado por el Congreso del Estado, con el voto de las dos terceras partes de los diputados presentes de conformidad con las reglas y el procedimiento establecidos por la ley; durará en su encargo seis años y podrá ser ratificado por una sola vez.
+c) Contará en su estructura con los órganos de dirección, ejecutivos, técnicos y de vigilancia que señale la ley. El Consejo General será su órgano superior de dirección y se integrará por un Consejero Presidente y seis Consejeros Electorales; concurrirán con voz y sin voto los Representantes de los Partidos Políticos y el Secretario Ejecutivo. El Secretario Ejecutivo será propuesto por la o el Consejero Presidente y aprobado por al menos el voto de cinco Consejeros Electorales del Órgano Superior de Dirección del Organismo Público Local Electoral, durará en su encargo seis años y podrá ser ratificado por una sola vez en los términos que disponga la ley; tendrá un Contralor interno con autonomía de gestión; designado por el Congreso del Estado, con el voto de las dos terceras partes de los diputados presentes de conformidad con las reglas y el procedimiento establecidos por la ley; durará en su encargo seis años y podrá ser ratificado por una sola vez.
 
 > <small>(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)</small>
 
@@ -4957,3 +4953,9 @@ P.O. 22 DE ENERO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 Las presentes modificaciones entrarán en vigor el día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 19 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 368.- SE REFORMA EL INCISO C), DEL NUMERAL 5, DEL ARTÍCULO 27, DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+ÚNICO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza.
