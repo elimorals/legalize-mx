@@ -4,7 +4,7 @@ identifier: "QUE-codigo-municipal-de-queretaro-11714"
 country: "mx"
 rank: "codigo"
 publication_date: "1999-06-04"
-last_updated: "2016-01-15"
+last_updated: "2016-02-19"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=11714&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "QUE"
 
 CÓDIGO MUNICIPAL DE QUERÉTARO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2016.
 
 Código publicado en el Anexo al Periódico Oficial del Estado de Querétaro, el jueves 9 de noviembre de 1995.
 
@@ -767,7 +767,7 @@ XXVII. Elaborar el diagnóstico ambiental del Municipio, definiendo en detalle l
 
 XXVIII. Participar coordinadamente con las autoridades estatales y federales en la vigilancia y cumplimiento de las leyes normativas reglamentarias que regulan la ecología;
 
-XXIX. Proponer modificaciones a la reglamentación existente, a efecto de incluir criterios ecológicas locales, derivados de los estudios e investigaciones practicadas en el territorio municipal;
+XXIX. Proponer modificaciones a la reglamentación existente, a efecto de incluir criterios ecológicas (sic) locales, derivados de los estudios e investigaciones practicadas en el territorio municipal;
 
 XXX. Ejecutar o coordinar las acciones directas de protección o restauración ambiental, tales como reforestación, manejo adecuado de residuos sólidos, control de la erosión, implementación de alternativas ecológicas de uso del suelo, administración y vigilancia de áreas naturales protegidas; así como solicitar las evaluaciones de impacto ambiental;
 
@@ -775,7 +775,13 @@ XXXI. Resolver o remitir a las instancias correspondientes las denuncias efectua
 
 XXXII. Informar al Presidente Municipal de las secciones en las que se considera necesario solicitar el apoyo de los consejos ecológicos de participación ciudadana; y
 
-XXXIII. Los demás que le atribuyan las leyes y reglamentos vigentes en el Estado o le asigne el Presidente Municipal.
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2016)</small>
+
+XXXIII.- Autorizar a través de los titulares de la Secretaría, de la Dirección de Desarrollo Económico y Emprendedurismo o del Departamento de Licencias de Funcionamiento, la expedición, control, cancelación, revocación de las licencias municipales de funcionamiento, así como los permisos provisionales que establece la normatividad aplicable; y
+
+> <small>(ADICIONADA, P.O. 19 DE FEBRERO DE 2016)</small>
+
+XXXIV.- Los demás que le atribuyan las leyes y reglamentos vigentes en el Estado o le asigne el Presidente Municipal.
 
 > <small>(REFORMADO, P.O. 15 DE ENERO DE 2016)</small>
 
@@ -783,7 +789,7 @@ Para el despacho de los asuntos de su competencia, el titular de la Secretaría 
 
 > <small>(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
-ARTICULO 73 bis.- La Secretaría de Obras Públicas Municipales, es la encargada de la proyección y construcción de las obras públicas municipales, sin perjuicio de las atribuciones conferidas a la Secretaría de Movilidad; y le corresponde el despacho de los siguientes asuntos:
+ARTICULO 73 BIS.- La Secretaría de Obras Públicas Municipales, es la encargada de la proyección y construcción de las obras públicas municipales, sin perjuicio de las atribuciones conferidas a la Secretaría de Movilidad; y le corresponde el despacho de los siguientes asuntos:
 
 > <small>(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2015)</small>
 
@@ -2237,9 +2243,11 @@ PLANEACION ECOLOGICA DEL DESARROLLO MUNICIPAL
 
 (DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE FEBRERO DE 2016)</small>
+
 ###### ARTICULO 209.
 
-(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
+Para la expedición de la factibilidad de giro y la licencia municipal, la Secretaría de Desarrollo Económico, Planeación Urbana y Ecología considerará la resolución de impacto ambiental que expidan tanto la Federación como el Estado, sobre proyectos de establecimientos comerciales, industriales o de servicios.
 
 ###### ARTICULO 210.
 
@@ -2265,9 +2273,21 @@ PLANEACION ECOLOGICA DEL DESARROLLO MUNICIPAL
 
 (DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
 
-###### ARTICULO 214.
+> <small>[N. DE E. DEL ANÁLISIS REALIZADO SE ADVIERTE QUE DE CONFORMIDAD CON EL TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERÉTARO PUBLICADO EN EL P.O. DE 21 DE AGOSTO DE 2009, SE DEROGA EL APARTADO CUARTO, "DEL EQUILIBRIO ECOLÓGICO Y LA PROTECCIÓN AL AMBIENTE", DEL LIBRO SEGUNDO, "GOBERNACIÓN", DEL CÓDIGO MUNICIPAL DE QUERÉTARO; POR LO QUE VÉASE LITERALIDAD DEL ACUERDO PUBLICADO EN EL P.O. DE 19 DE FEBRERO DE 2016, PÁGINA 2804.]</small>
 
-(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE FEBRERO DE 2016)</small>
+
+###### Artículo 214.
+
+En materia de prevención y control de la contaminación atmosférica, la autoridad municipal, en el ámbito de su competencia:
+
+I.- a V.- . (SIC)
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], P.O. 19 DE FEBRERO DE 2016)</small>
+
+VI.- Convendrá con los propietarios o poseedores de establecimientos comerciales, de servicios, de reparación y mantenimiento, e industriales, su reubicación cuando sean motivo de quejas por parte de la población, constatadas por la autoridad competente, referidas a la emisión de contaminantes a la atmósfera. Asimismo, en previsión de molestias de este tipo, a través de la Secretaría de Desarrollo Económico, Planeación Urbana y Ecología del Municipio de Querétaro analizará minuciosamente las solicitudes de licencias de funcionamiento y en caso de expedirlas especificará que de ocasionar molestias a la población por emisiones contaminantes a la atmósfera se cancelará la licencia otorgada;
+
+VII a X.- . (SIC)
 
 ###### ARTICULO 215.
 
@@ -2357,9 +2377,11 @@ PLANEACION ECOLOGICA DEL DESARROLLO MUNICIPAL
 
 ### CAPITULO VI. Regulación de Actividades que Pueden Generar Efectos Nocivos. Actividades Comerciales, Industriales y de Servicios
 
+> <small>(REFORMADO [N. DE E. ADICIONADO], P.O. 19 DE FEBRERO DE 2016)</small>
+
 ###### ARTICULO 232.
 
-(DEROGADO POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)
+Previamente a la expedición de la factibilidad de giro y de la licencia de funcionamiento, la autoridad competente verificará que los establecimientos comerciales industriales o de servicios que pretendan ubicarse en zonas habitacionales o colindantes a ellas, no sean fuentes de contaminación del aire, el agua, o el suelo; no emitan ruido, vibraciones o energía térmica y lumínica; no produzcan contaminación visual; no causen deterioro de plantas y áreas verdes, y no interfieran con el tráfico vehicular.
 
 > <small>(DEROGADO CON EL ARTICULO QUE LO INTEGRA, POR TRANSITORIO TERCERO DEL REGLAMENTO AMBIENTAL DEL MUNICIPIO DE QUERETARO, P.O. 21 DE AGOSTO DE 2009)</small>
 
@@ -2461,13 +2483,11 @@ DE LAS ACTIVIDADES COMERCIALES
 
 ### CAPITULO I. Permisos y Licencias
 
-> <small>(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)</small>
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2016)</small>
 
 ###### ARTICULO 248.
 
-Es competencia del Ayuntamiento y facultad de la Secretaría de Finanzas llevar a cabo la expedición, control y cancelación o revocación de las licencias y permisos de funcionamiento de establecimientos, así como la inspección y ejecución fiscal, auditorías que le competan y todas las atribuciones que le correspondan de conformidad con las disposiciones de este Código y demás reglamentos aplicables.
-
-Cuando la ubicación o el funcionamiento de dichos establecimientos afecten las políticas, programas, proyectos o regulaciones específicas establecidas en materia de movilidad, se requerirá del visto bueno de la Secretaría del ramo.
+Es competencia del Ayuntamiento y facultad de la Secretaría de Desarrollo Económico, Planeación Urbana y Ecología llevar a cabo la expedición, control y cancelación o revocación de las licencias y permisos provisionales de funcionamiento de establecimientos, así como la inspección y ejecución fiscal, auditorías que le competan y todas las atribuciones que le correspondan de conformidad con las disposiciones de este Código y demás reglamentos aplicables.
 
 ###### ARTICULO 249.
 
@@ -2495,15 +2515,11 @@ El ejercicio del comercio se regirá fundamentalmente en las leyes y reglamentos
 
 I. Todos los establecimientos comerciales en el municipio tendrán derecho a abrir al público de lunes a domingo de las 08:00 a las 22:00 horas en forma ininterrumpida salvo las excepciones que contempla el presente apartado;
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2016)</small>
 
-II. La Secretaría de Finanzas podrá expedir permiso a los establecimientos para que puedan permanecer abiertos al público en horas no comprendidas en los horarios autorizados, previo pago de los derechos correspondientes, con la anuencia por escrito, fundada y motivada, del Delegado Municipal que corresponda y de la Comisión de Desarrollo Rural y Económico, atendiendo al impacto social que se genere en la zona, la ubicación del establecimiento en donde se verificará que se encuentre en áreas comerciales, en vialidades de fácil acceso, con la debida iluminación a las horas que se requiera, en los siguientes casos:
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
+II.- La Secretaría de Desarrollo Económico Planeación Urbana y Ecología podrá expedir permiso a los establecimientos para que puedan permanecer abiertos al público en horas no comprendidas en los horarios autorizados, previo pago de los derechos correspondientes, con la anuencia por escrito, fundada y motivada, del Delegado Municipal que corresponda y de la Comisión de Desarrollo Agropecuario y Económico, atendiendo al impacto social que se genere en la zona, la ubicación del establecimiento en donde se verificará que se encuentre en áreas comerciales, en vialidades de fácil acceso, con la debida iluminación a las horas que se requiera, en los siguientes casos:
 
 a) Podrán otorgarse en ventas nocturnas o promocionales;
-
-> <small>(REFORMADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
 b) En giros con venta de bebidas alcohólicas en envase cerrado, sólo se podrán otorgar hasta un máximo de dos horas.
 
@@ -2573,13 +2589,13 @@ XIII. De las 06:00 horas a las 22:00 horas de lunes a domingo: misceláneas;
 
 XIV. De las 08:00 a las 20:00 horas de lunes a viernes, y sábados de 08:00 a 15:00 horas: todos los giros de talleres automotrices y de servicios, talleres mecánicos y eléctricos, vulcanizadoras, talleres de hojalatería y pintura, ferretería y plomerías, herrería, carpintería, pailerías, talleres de torno, taller de mofles, establecimientos dedicados a la venta e instalación de equipos de carburación a gas LP y similares;
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2016)</small>
 
-XV. Se exceptúa de lo que dispone la fracción anterior, los talleres mecánicos, vulcanizadoras, talleres eléctricos y grúas que sean colindantes a las carreteras y los que estén ubicados dentro de los parques industriales, los que podrán permanecer abiertos las 24:00 horas de lunes a domingo, previa autorización de la Secretaría de Economía y Finanzas y Tesorería Municipal; así como los establecimientos comerciales que sean anexos a gasolineras colindantes a carreteras o parques industriales.
+XV.- Se exceptúa de lo que dispone la fracción anterior, los talleres mecánicos, vulcanizadoras, talleres eléctricos y grúas que sean colindantes a las carreteras y los que estén ubicados dentro de los parques industriales, los que podrán permanecer abiertos las 24:00 horas de lunes a domingo, previa autorización de la Secretaría de Desarrollo Económico, Planeación Urbana y Ecología; así como los establecimientos comerciales que sean anexos a gasolineras colindantes a carreteras o parques industriales.
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
-Los establecimiento comerciales, de acuerdo con el horario que les corresponda, estarán cerrados y sin público en su interior, al término del horario autorizado.
+Los establecimiento (sic) comerciales, de acuerdo con el horario que les corresponda, estarán cerrados y sin público en su interior, al término del horario autorizado.
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
@@ -2591,7 +2607,7 @@ Los giros con venta de inhalantes nocivos para la salud, como son: cemento, pega
 
 > <small>(ADICIONADO, P.O. 22 DE DICIEMBRE DE 2000)</small>
 
-ARTICULO 253 bis.- Para ejercer la facultad municipal en la revocación de Licencias y Permisos, se llevará a cabo el siguiente procedimiento a instancia de parte:
+ARTICULO 253 BIS.- Para ejercer la facultad municipal en la revocación de Licencias y Permisos, se llevará a cabo el siguiente procedimiento a instancia de parte:
 
 I. Si algún particular colindante con el negocio o grupo de vecinos, que sufran un perjuicio directo o tuviesen alguna inconformidad con motivo de irregularidades de dicha negociación mercantil, podrán promover de manera personal o a través de su representante legal o Asociación de Colonos, queja por escrito ante la Delegación que corresponda;
 
@@ -2601,9 +2617,9 @@ III. La Delegación realizará las verificaciones necesarias y procederá en cas
 
 IV. Cuando la Delegación, determine que existen faltas graves o reiteradas, correrá traslado de la queja al comerciante para que éste conteste en un plazo de diez días hábiles y ofrezca las documentales que acrediten su contestación, independientemente de la sanción a que se haya hecho acreedor; y
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2016)</small>
 
-V. Transcurrido el plazo para que el comerciante dé contestación; se turnará a la Secretaría de Finanzas, quien con la opinión de la Comisión de Desarrollo Rural y Económico determinará en caso necesario, la revocación o suspensión temporal de la Licencia de Funcionamiento.
+V.- Transcurrido el plazo para que el comerciante dé contestación; se turnará a la Secretaría de Desarrollo Económico, Planeación Urbana y Ecología, quien con la opinión de la Comisión de Desarrollo Agropecuario y Económico determinará en caso necesario, la revocación o suspensión temporal de la Licencia de Funcionamiento.
 
 ###### ARTICULO 254.
 
@@ -2625,17 +2641,19 @@ Todo comerciante está obligado a cumplir con las disposiciones contempladas en 
 
 En los mercados públicos y centrales de abastos se observarán las disposiciones siguientes:
 
-I. Todo comerciante deberá registrarse en el padrón respectivo del Municipio;
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2016)</small>
+
+I.- Todo comerciante deberá registrarse en el Padrón correspondiente de la Secretaría de Desarrollo Económico, Planeación Urbana y Ecología;
 
 II. (DEROGADA, P.O. 22 DE DICIEMBRE DE 2000)
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2016)</small>
 
-III. El traspaso de los derechos sobre las licencias de empadronamiento, cambio de giros mercantiles, anexas y bajas, deberá solicitarse por escrito a la administración del mercado o Central de Abasto y a la Secretaría de Finanzas, siendo esta última la que otorgue la autorización correspondiente;
+III.- El traspaso de los derechos sobre las licencias de funcionamiento, cambio de giros mercantiles, anexas y bajas, deberá solicitarse por escrito a la administración del mercado o Central de Abasto y a la Secretaría de Desarrollo Económico, Planeación Urbana y Ecología, siendo esta última la que otorgue la autorización correspondiente;
 
-> <small>(REFORMADA, P.O. 21 DE AGOSTO DE 2009)</small>
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2016)</small>
 
-IV. Los comerciantes de los mercados sobre ruedas, tianguis, etc., deberán solicitar el permiso correspondiente a la Secretaría de Finanzas cada día que se instalen y con la debida anticipación, y se ubicarán en el lugar que les asigne la Autoridad Municipal;
+IV.- Los comerciantes de los mercados sobre ruedas, tianguis, etc., deberán solicitar el permiso correspondiente a la autoridad municipal correspondiente; cada día que se instalen y con la debida anticipación y se ubicarán en el lugar que esta les asigne;
 
 V. Tendrán los comerciantes la obligación de conservar limpio e higiénico el lugar donde realicen sus actividades; y
 
@@ -2801,27 +2819,29 @@ De los centros nocturnos, tabernas, pulquerías, o expendio de bebidas alcohóli
 
 El Ayuntamiento y sus Delegados Municipales, otorgarán las licencias, permisos o autorizaciones en general que se les soliciten, para el funcionamiento de los espectáculos públicos de acuerdo con las disposiciones de este reglamento y demás ordenamientos municipales.
 
-> <small>(REFORMADO, P.O. 1 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2016)</small>
 
 ###### ARTICULO 276.
 
-Los interesados en obtener del Ayuntamiento la licencia o autorización correspondiente para la actividad a que se refiere este ordenamiento, deberán previamente empadronarse en la Secretaría de Economía y Finanzas y Tesorería Municipal, salvo disposición en contrario de la Autoridad Municipal.
+Los interesados en obtener la licencia o autorización correspondiente para la actividad a que se refiere este ordenamiento, deberán previamente empadronarse en la Secretaría de Desarrollo Económico, Planeación Urbana y Ecología, salvo disposición en contrario de la Autoridad Municipal.
 
 ###### ARTICULO 277.
 
 Para los efectos de este código, se considera como LICENCIA: El documento expedido por el Ayuntamiento que permite el funcionamiento de espectáculos públicos, regulado por este ordenamiento.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE FEBRERO DE 2016)</small>
+
 ###### ARTICULO 278.
 
-Los interesados en obtener licencia de funcionamiento, deberán presentar solicitud por escrito a la autoridad municipal con los siguientes datos y documentos:
+Los interesados en obtener licencia de funcionamiento, deberán presentar solicitud por escrito a la Secretaría de Desarrollo Económico, Planeación Urbana y Ecología con los siguientes datos y documentos:
 
 I. Nombre, domicilio y nacionalidad del solicitante, en caso de extranjero deberá acreditar que está autorizado por la Secretaría de Gobernación de la República, así como su residencia por la Secretaría de Relaciones Exteriores, para dedicarse a esa actividad;
 
 II. Ubicación del local donde pretenda establecerse;
 
-> <small>(REFORMADA, P.O. 1 DE OCTUBRE DE 2004)</small>
+> <small>(REFORMADA, P.O. 19 DE FEBRERO DE 2016)</small>
 
-III. Fotocopia de la cédula de empadronamiento expedida por la Secretaría de Economía y Finanzas y Tesorería Municipal, en su caso;
+III.- Fotocopia de la cédula de empadronamiento expedida por la autoridad municipal competente, en su caso;
 
 IV. Constancia expedida por la oficina que corresponda, relativa a que el local satisface las condiciones de seguridad y que cuenta con el equipo necesario contra incendio;
 
@@ -2859,7 +2879,7 @@ II. La clase de espectáculos que se van a presentar con la inclusión del progr
 
 III. Lugar, fecha y hora de presentación del espectáculo;
 
-IV. El precio de admisión que se pretenda cobrar en cada localidad para su aprobación provisional o definitivo;
+IV. El precio de admisión que se pretenda cobrar en cada localidad para su aprobación provisional o definitivo (sic);
 
 V. Los lugares en los que con exclusividad se efectuará la venta de boletos, y el nombre de las personas comisionadas para ello;
 
@@ -8038,3 +8058,23 @@ El presente Acuerdo entrará en vigor el día siguiente a la fecha de la primera
 ###### ARTÍCULO TERCERO.
 
 Notifíquese el presente Acuerdo a los titulares de la Secretaría Particular, Secretaría de Desarrollo Económico, Planeación Urbana y Ecología, Secretaría de Movilidad, Secretaría de Desarrollo Humano y Social y Secretaría de Administración.
+
+P.O. 19 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO PRIMERO.- SE REFORMAN LOS ARTÍCULOS 73 FRACCIÓN XXXIII, 209, 214 FRACCIÓN VI, 232, 248, 252 FRACCIÓN II, 253 FRACCIÓN XV, 253 BIS FRACCIONES I, III Y IV; 258 FRACCIONES I Y III, 276 Y 278 FRACCIÓN III, Y SE ADICIONA LA FRACCIÓN XXXIV AL ARTÍCULO 73 DEL CÓDIGO MUNICIPAL DE QUERÉTARO".]
+
+###### ARTÍCULO PRIMERO.
+
+Publíquese en la Gaceta Oficial del Ayuntamiento del Municipio de Querétaro y en el Periódico Oficial del Gobierno del Estado "La Sombra de Arteaga".
+
+###### ARTÍCULO SEGUNDO.
+
+El presente instrumento entrará en vigor al día siguiente a la fecha de la primera de las dos publicaciones referidas en el artículo transitorio anterior.
+
+###### ARTÍCULO TERCERO.
+
+Se instruye a los titulares de la Secretaría de Finanzas y de la Secretaría de Administración, a efecto de que sean asignados, a partir de la entrada en vigor del presente acuerdo, los recursos humanos, económicos, materiales y administrativos de las dependencias involucradas en el presente, facultando a la Secretaría de Finanzas realice las adecuaciones presupuestales que resulten necesarias para la implementación del presente Acuerdo.
+
+###### ARTÍCULO CUARTO.
+
+Se instruye a la Secretaría del Ayuntamiento notificar el presente acuerdo a los titulares de la Secretaría de Administración, Secretaría de Desarrollo Económico, Planeación Urbana y Ecología y Secretaría de Finanzas del Municipio de Querétaro.
