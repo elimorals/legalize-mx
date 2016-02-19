@@ -4,7 +4,7 @@ identifier: "BCN-reglamento-interior-para-el-ayuntamiento-de-ensenada-baja-34952
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-11-14"
-last_updated: "2015-11-20"
+last_updated: "2016-02-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34952&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "BCN"
 
 REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE NOVIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Baja California, el viernes 14 de noviembre de 2003.
 
@@ -977,13 +977,17 @@ DISCUSIÓN DE OTROS ASUNTOS.
 
 El procedimiento previsto en este capítulo para la discusión de dictámenes de comisiones, será observado en lo conducente para los demás asuntos tratados en las Sesiones de Cabildo, excepto cuando por su naturaleza o por disposición de Ley o Reglamento deba observarse un procedimiento especial.
 
-PARTICIPACIÓN DE SERVIDORES PUBLICOS Y CIUDADANOS EL SESIONES DE CABILDO.
+PARTICIPACIÓN DE SERVIDORES PÚBLICOS Y CIUDADANOS EL (SIC) SESIONES DE CABILDO.
+
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2016)</small>
 
 ###### ARTÍCULO 89.
 
 Los servidores públicos por decisión del Presidente Municipal o por solicitud de los integrantes del Ayuntamiento acudirán a citatorios ya sea en sesiones públicas o privadas para explicar, aclarar o informar de los temas o actuación relacionados con su cargo.
 
-Los ciudadanos en general, para poder hacer uso de la voz en las Sesiones públicas de Cabildo, deberán agendar con tres días de anticipación a la sesión el tema a tratar en secretaría y ser aprobado por el Presidente Municipal en su caso, previa valoración de la importancia del mismo. En caso de ser aceptada la participación, ésta no durará más de tres minutos.
+Dicha solicitud deberá ser encaminada a un tema en concreto y con requerimiento de información específica del tema al que se le solicita al Servidor Público citado, el cual una vez notificado deberá remitir en un plazo de tres a diez días hábiles la información solicitada en original a la Secretaría General, para que este a su vez lo remita en copia simple a cada uno de los integrantes del Ayuntamiento para su análisis y estudio del tema en concreto.
+
+Los ciudadanos en general, para poder hacer uso de la voz en las Sesiones públicas de Cabildo, deberán agendar con tres días de anticipación o (sic) la sesión el tema a tratar en secretaría y ser aprobado por el Presidente Municipal en su caso, previa valoración de la importancia del mismo. En caso de ser aceptada la participación, ésta no durará más de tres minutos.
 
 Cuando se fundamente y pruebe que se trata de un caso de urgencia que afecte directamente a la comunidad, el Presidente Municipal determinará su participación; sin embargo, cualquier Munícipe podrá solicitar a los integrantes del Ayuntamiento, a través del Presidente Municipal se le permita el uso de la voz al ciudadano, sin exceder su tiempo, conminándole a expresarse con respeto.
 
@@ -1195,9 +1199,13 @@ Por su naturaleza, las Comisiones no podrán asumir funciones ejecutivas ni de r
 
 COMPARECENCIA DE FUNCIONARIOS.
 
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2016)</small>
+
 ###### ARTÍCULO 106.
 
-Los titulares de dependencias y entidades de la Administración Pública Municipal, estarán obligados a rendir a las Comisiones la información que les soliciten y tengan en su poder en razón de su competencia, por conducto del Presidente Municipal. Igualmente, deberán comparecer, cuando el caso lo amerite o justifique, ante las Comisiones al ser citados por su Coordinador a través del Presidente Municipal, con el objeto de brindar mayor orientación y asesoría respecto de los asuntos que sean del conocimiento de la Comisión interesada.
+Los titulares de dependencias y entidades de la Administración Pública Municipal, estarán obligados a rendir a las Comisiones, la información que les soliciten y tengan en su poder en razón de su competencia, por conducto del Presidente Municipal. Igualmente, deberán comparecer, cuando el caso lo amerite o justifique, ante las Comisiones al ser citados por su Coordinador a través del Presidente Municipal, con el objeto de brindar mayor orientación y asesoría respecto de los asuntos que sean del conocimiento de la Comisión interesada.
+
+En el caso solicitado deberá el funcionario de enviar en un término de tres a diez días hábiles a partir de la notificación, el informe correspondiente en copia a cada uno de los integrantes del ayuntamiento, para su análisis y estudio del tema en concreto.
 
 Los funcionarios facilitarán el acceso a las instalaciones de las dependencias y proveerán las atenciones que correspondan, a fin de que la Comisión competente realice eficazmente sus funciones de vigilancia y supervisión sobre el funcionamiento de la misma dependencia y la correcta prestación de los servicios, cuando por escrito lo solicite el Coordinador de la misma ante el titular de la dependencia de la que se trate, por conducto del Presidente Municipal.
 
@@ -1819,13 +1827,19 @@ VII.- Las demás atribuciones afines a estas, que establezcan las leyes y reglam
 
 CONVOCATORIA.
 
+> <small>(REFORMADO, P.O. 19 DE FEBRERO DE 2016)</small>
+
 ###### ARTÍCULO 128.
 
-Las sesiones de las comisiones serán convocadas por su Coordinador, y el secretario de la comisión en su caso, cuando menos con cuarenta y ocho horas de anticipación, indicándose fecha, hora, lugar y asuntos a tratar. Para notificar la convocatoria a los Regidores integrantes de la Comisión, se observara el procedimiento aplicable en el caso de convocatorias a sesiones de cabildo.
+Las sesiones de las comisiones serán convocadas por su Coordinador, o el secretario de la comisión en su caso, cuando menos con cuarenta y ocho horas de anticipación, indicándose fecha, hora, lugar y asuntos a tratar. Para notificar la convocatoria a los Regidores integrantes de la Comisión, se observara el procedimiento aplicable en el caso de convocatorias a sesiones de cabildo.
 
-(REFORMADO, P.O. 18 DE OCTUBRE DE 2013) (REPUBLICADO, P.O. 22 DE NOVIEMBRE DE 2013)
+A los demás integrantes del Ayuntamiento, incluyendo al Síndico Procurador, Síndico Social y al Presidente Municipal, se les turnará copia de la convocatoria para su conocimiento.
 
-A los demás integrantes del Ayuntamiento, incluyendo al Sindico Procurador, Síndico Social y al Presidente Municipal, se les turnará copia de la convocatoria para su conocimiento.
+A las convocatorias, incluyendo las remitidas a los munícipes no miembros de la comisión, deberán adjuntarse copias fotostáticas o enviarse por medio electrónico, los proyectos de los asuntos a tratar, el expediente de los mismos y cualquier información adicional que obre en la comisión convocante.
+
+En el caso de que se emita convocatoria para asuntos tratados con anterioridad no concluidos y/o se haya enviado anteriormente los proyectos y archivos de los asuntos, se tendrá por cumplido el párrafo anterior, enviándose únicamente información superviniente en su caso aplicable.
+
+En el caso, de que un tema sea tratado en el punto de asuntos generales de la reunión de trabajo de la comisión, quien lo presenté deberá entregar copia del proyecto y de su expediente.
 
 Al inicio de la sesión, el Secretario de la Comisión certificará que se cumplimentó la convocatoria en estos términos.
 
@@ -2098,3 +2112,19 @@ P.O. 20 DE NOVIEMBRE DE 2015.
 ## [N. DE E. TRANSITORIO DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA REFORMA AL ARTÍCULO 119 DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA, PARA ACTUALIZAR LAS FACULTADES DE LA COMISIÓN DE DESARROLLO URBANO Y ECOLOGÍA”.]
 
 ÚNICO.- La presente reforma entrará en vigor al día siguiente de su publicación en el periódico oficial del Estado de Baja California.
+
+P.O. 19 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA REFORMAR EL ARTÍCULO 128 DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA".]
+
+UNICO.- La presente reforma entrará en vigor, a partir del día siguiente de su publicación en el Periódico Oficial para el Estado de Baja California.
+
+P.O. 19 DE FEBRERO DE 2016.
+
+> <small>[N. DE E. TRANSITORIO CORRESPONDIENTE AL ARTÍCULO 89 DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA REFORMAR LOS ARTÍCULOS 89 Y 106 DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA”.]</small>
+
+UNICO.- La presente reforma entrará en vigor, a partir del día siguiente de su publicación en el Periódico Oficial para el Estado de Baja California.
+
+> <small>[N. DE E. TRANSITORIO CORRESPONDIENTE AL ARTÍCULO 106 DEL “ACUERDO DE CABILDO MEDIANTE EL CUAL SE APRUEBA REFORMAR LOS ARTÍCULOS 89 Y 106 DEL REGLAMENTO INTERIOR PARA EL AYUNTAMIENTO DE ENSENADA, BAJA CALIFORNIA”.]</small>
+
+UNICO.- La presente reforma entrará en vigor, a partir del día siguiente de su publicación en el Periódico Oficial para el Estado de Baja California.
