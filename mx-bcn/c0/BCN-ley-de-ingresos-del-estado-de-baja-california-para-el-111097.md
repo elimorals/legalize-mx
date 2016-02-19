@@ -4,7 +4,7 @@ identifier: "BCN-ley-de-ingresos-del-estado-de-baja-california-para-el-111097"
 country: "mx"
 rank: "ley_de_ingresos"
 publication_date: "2015-12-31"
-last_updated: "2015-12-31"
+last_updated: "2016-02-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=111097&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,11 +21,11 @@ state: "BCN"
 ---
 # LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA PARA EL EJERCICIO FISCAL DEL AÑO 2016
 
-> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 19 DE FEBRERO DE 2016 EN EL PERIÓDICO OFICIAL DEL ESTADO DE BAJA CALIFORNIA, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
-
 LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA PARA EL EJERCICIO FISCAL DEL AÑO 2016.
 
 TEXTO ORIGINAL.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 19 DE FEBRERO DE 2016.]</small>
 
 Ley publicada en la Sección I del Periódico Oficial del Estado de Baja California, el jueves 31 de diciembre de 2015.
 
@@ -1802,6 +1802,8 @@ Calcio $ 338.21
 Cobre $ 338.21
 
 Cianuro Total $ 86.71
+
+> <small>(F. DE E., P.O. 19 DE FEBRERO DE 2016)</small>
 
 Cromo Hexavalente $ 338.21
 
