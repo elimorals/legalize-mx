@@ -4,7 +4,7 @@ identifier: "COA-ley-que-crea-el-organismo-publico-descentralizado-de-la-3619"
 country: "mx"
 rank: "ley"
 publication_date: "1984-04-20"
-last_updated: "1984-04-20"
+last_updated: "2016-02-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=3619&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,11 @@ state: "COA"
 ---
 # LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DE LA ADMINISTRACION MUNICIPAL DENOMINADO "DIRECCION DE PENSIONES Y BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL MUNICIPIO DE TORREON, COAHUILA"
 
-LEY QUE CREA EL ORGANISMO PUBLICO DESCENTRALIZADO DE LA ADMINISTRACION MUNICIPAL DENOMINADO "DIRECCION DE PENSIONES Y BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL MUNICIPIO DE TORREON, COAHUILA"
+LEY QUE CREA EL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN MUNICIPAL DENOMINADO "DIRECCIÓN DE PENSIONES Y BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL MUNICIPIO DE TORREÓN, COAHUILA"
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO DÉCIMO QUINTO DE LA LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN MUNICIPAL DENOMINADO "DIRECCIÓN DE PENSIONES Y BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL MUNICIPIO DE TORREÓN, COAHUILA, PUBLICADA EN EL P.O. DE 19 DE FEBRERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2016 (ABROGADA).
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Coahuila de Zaragoza, el viernes 20 de abril del 1984.
 
@@ -652,3 +654,259 @@ LIC. JOSE DE LAS FUENTES RODRIGUEZ (Rúbrica)
 EL SECRETARIO DEL EJECUTIVO DEL ESTADO
 
 LIC. ENRIQUE MARTINEZ Y MARTINEZ (Rúbrica)
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 19 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NO. 371.- LEY DEL ORGANISMO PÚBLICO DESCENTRALIZADO DE LA ADMINISTRACIÓN MUNICIPAL DENOMINADO "DIRECCIÓN DE PENSIONES Y BENEFICIOS SOCIALES PARA LOS TRABAJADORES AL SERVICIO DEL MUNICIPIO DE TORREÓN, COAHUILA".]
+
+PRIMERO.- El presente decreto entrará en vigor a partir del día siguiente de su publicación, en el Periódico Oficial del Gobierno del Estado.
+
+SEGUNDO.- Los trabajadores que estén disfrutando una pensión a la fecha de entrada en vigor de la presente Ley, o tengan derecho adquirido de 25 años a disfrutar de alguna de ellas, la mantendrán en los términos y condiciones en los que la hayan adquirido salvo la vigencia de derechos establecida en el capítulo décimo de la presente Ley.
+
+TERCERO.- Aquellos trabajadores que se encuentren en activo y cotizando a la Dirección de Pensiones a la entrada en vigor de esta Ley, y no se encuentren en el supuesto descrito en el transitorio anterior serán considerados como trabajadores en transición.
+
+CUARTO.- Para los trabajadores en transición el sueldo regulador, será el promedio ponderado de los últimos sueldos de cotización, previa actualización mediante el Índice Nacional de Precios al Consumidor, de acuerdo al año en que alcance los requisitos para obtener la pensión por Edad y Antigüedad en el servicio establecida en el artículo quinto transitorio, conforme a la siguiente tabla:
+
+Año en que adquiere el Número de años de
+
+derecho a la pensión por Edad salario a promediar
+
+y Antigüedad en el Servicio.
+
+2015 al 2018 3
+
+2019 4
+
+2020 5
+
+2021 6
+
+2022 7
+
+2023 8
+
+2024 9
+
+2025 o posterior 10
+
+El sueldo regulador en ningún caso podrá ser superior al último sueldo neto percibido por el trabajador, por ningún motivo podrá ser mayor a 15 salarios mínimos ni menor a un salario mínimo generales vigentes en la capital del Estado.
+
+QUINTO.- Para los efectos del artículo 37 de la presente Ley, el trabajador en transición tendrá derecho a la pensión por Retiro por Edad y Antigüedad en el Servicio al contar con al menos 25 años de servicio y de cotización en la Dirección y cumplir con una edad mínima de acuerdo con la siguiente tabla dependiendo del año en que cumpla ambos requisitos:
+
+Año en que cumplen 25 Edad mínima
+
+años de servicio y requerida
+
+cotización
+
+2015 55
+
+2016-2017 55
+
+2018-2019 56
+
+2020-2021 57
+
+2022-2023 58
+
+2024-2025 59
+
+2026-2027 60
+
+2028-2029 61
+
+2030-2031 62
+
+2032 o posterior 63
+
+El monto de la pensión será el 100% del sueldo regulador establecido en el artículo quinto transitorio.
+
+SEXTO.- Para los efectos del artículo 38 de la presente Ley, el trabajador en transición tendrá derecho a la pensión por vejez al contar al menos 15 años de servicio y de cotización en la Dirección y una edad de acuerdo con la siguiente tabla:
+
+Año en que cumplen 30 años Edad mínima
+
+de servicio y cotización requerida
+
+2014 a 2027 60
+
+2028 y 2029 61
+
+2030 y 2031 62
+
+2032 y posterior 63
+
+El monto de la pensión por vejez se calculará dependiendo de la antigüedad conforme a la siguiente tabla:
+
+Antigüedad Porcentaje Antigüedad Porcentaje
+
+15 55.00% 23 79.00%
+
+16 58.00% 24 82.00%
+
+17 61.00% 25 85.00%
+
+18 64.00% 26 88.00%
+
+19 67.00% 27 91.00%
+
+20 70.00% 28 94.00%
+
+21 73.00% 29 97.00%
+
+22 76.00% 30 o más 100.00%
+
+Estos porcentajes serán con relación al sueldo regulador definido en el artículo quinto transitorio.
+
+SÉPTIMO.- Para los efectos del artículo 39 de la presente Ley, el trabajador en transición que cuente con al menos 15 años de servicio y de cotización en la Dirección, podrá optar por una pensión anticipada por retiro a partir de los 60 años de edad, el monto de esta pensión se reducirá cada año que le falte para cumplir los requisitos de la pensión de vejez, establecida en el artículo transitorio anterior, por el factor descrito en la siguiente tabla:
+
+Años que faltan
+
+para cumplir con
+
+requisito de Edad Factor de ajuste a
+
+de Pensión por pensión por vejez
+
+vejez
+
+0 1.00
+
+1 0.95
+
+2 0.80
+
+3 0.85
+
+OCTAVO.- Para los trabajadores en transición las aportaciones a cargo del patrón, descritas en la fracción II del artículo 6 de esta Ley, serán de un porcentaje del sueldo de cotización de acuerdo con la siguiente tabla:
+
+AÑO PORCENTAJE
+
+2016 9.0%
+
+2017 10.0%
+
+2018 11.0%
+
+2019 12.0%
+
+2020 13.0%
+
+2021 14.0%
+
+2022 15.0%
+
+2023 16.0%
+
+2024 17.0%
+
+2025 18.0%
+
+2026 19.0%
+
+2027 20.0%
+
+2028 21.0%
+
+2029 en adelante 22.0%
+
+NOVENO.- Las cuotas a cargo del trabajador en transición, descritas en la fracción III del artículo 6 de esta Ley, serán de un porcentaje de su sueldo de cotización de acuerdo con la siguiente tabla:
+
+AÑO PORCENTAJE
+
+2016 3.5%
+
+2017 4.0%
+
+2018 4.5%
+
+2019 5.0%
+
+2020 5.5%
+
+2021 6.0%
+
+2022 6.5%
+
+2023 7.0%
+
+2024 7.5%
+
+2025 8.0%
+
+2026 8.5%
+
+2027 9.0%
+
+2028 9.5%
+
+2029 10.0%
+
+2030 10.5%
+
+2031 en adelante 11.0'%
+
+DÉCIMO.- Aquellos trabajadores que se encuentren en activo y no coticen a la Dirección de Pensiones a la entrada en vigor de esta Ley, tendrán derecho a las prestaciones descritas en el cuerpo de esta Ley sin que sean considerados como trabajadores en transición salvo cuotas y aportaciones, para tal efecto se les reconocerán los años de servicio que tuvieran a la fecha de acuerdo con el procedimiento que establezca la propia Dirección de Pensiones.
+
+Para estos trabajadores las cuotas y aportaciones que les corresponden se señalan en los artículos décimo primero y décimo segundo transitorios.
+
+DÉCIMO PRIMERO.- Para los trabajadores activos y que no estuvieran cotizando a la entrada en vigor de la presente Ley las aportaciones a cargo del patrón, descritas en la fracción II del artículo 6 de esta Ley, serán de un porcentaje del sueldo de cotización de acuerdo con la siguiente tabla:
+
+AÑO PORCENTAJE
+
+2016 9.0%
+
+2017 10.0%
+
+2018 11.0%
+
+2019 12.0%
+
+2020 13.0%
+
+2021 14.0%
+
+2022 15.0%
+
+2023 16.0%
+
+2024 17.0%
+
+2025 18.0%
+
+2026 19.0%
+
+2027 20.0%
+
+2028 21.0%
+
+2029 en adelante 22.0%
+
+DÉCIMO SEGUNDO.- Para los trabajadores activos y que no estuvieran cotizando a la entrada en vigor de la presente Ley sus cuotas, descritas en la fracción III del artículo 6 de esta Ley, serán de un porcentaje de su sueldo de cotización de acuerdo con la siguiente tabla:
+
+AÑO PORCENTAJE
+
+2016 4.0%
+
+2017 5.0%
+
+2018 6.0%
+
+2019 7.0%
+
+2020 8.0%
+
+2021 9.0%
+
+2022 10.0%
+
+2023 en adelante 11.0%
+
+DÉCIMO TERCERO.- El Consejo emitirá un reglamento interno para el otorgamiento de créditos quirografarios en un plazo no mayor a 30 días hábiles.
+
+DÉCIMO CUARTO.- El Consejo emitirá un reglamento interno para el otorgamiento de créditos para la adquisición de propiedades de casa o terrenos, y construcción de las mismas destinadas a la habitación familiar del trabajador con garantía hipotecaria en un plazo no mayor a 180 días hábiles.
+
+DÉCIMO QUINTO.- Se abroga la ley que crea el Organismo Publico Descentralizado de la Administración Municipal Denominado "Dirección de Pensiones y Beneficios Sociales Para los Trabajadores al Servicio del Municipio de Torreón, Coahuila; Publicada en el periódico Oficial el viernes 20 de abril del 1984 mediante Decreto numero 165
+
+DÉCIMO SEXTO.- Se derogan todas las disposiciones que se opongan a la presente ley.
