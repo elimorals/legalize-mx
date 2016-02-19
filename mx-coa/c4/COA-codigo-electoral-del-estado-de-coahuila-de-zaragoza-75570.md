@@ -4,7 +4,7 @@ identifier: "COA-codigo-electoral-del-estado-de-coahuila-de-zaragoza-75570"
 country: "mx"
 rank: "codigo"
 publication_date: "2010-06-29"
-last_updated: "2012-12-04"
+last_updated: "2016-02-19"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75570&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "COA"
 
 CÓDIGO ELECTORAL DEL ESTADO DE COAHUILA DE ZARAGOZA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 4 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2016.
 
 Código publicado en la Segunda Sección del Periódico Oficial del Estado de Coahuila, el martes 29 de junio de 2010.
 
@@ -1205,1069 +1205,309 @@ f) Haberse fusionado con otro partido político, persistiendo la personalidad ju
 
 4. Concluido el proceso de liquidación, los recursos que quedaren disponibles pasarán a formar parte del patrimonio del Estado.
 
+> <small>(DEROGADO CON LOS TÍTULOS, CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)</small>
+
 # LIBRO TERCERO. DEL INSTITUTO
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)</small>
 
 ## TÍTULO PRIMERO. DISPOSICIONES PRELIMINARES
 
 ###### Artículo 67.
 
-1. El Instituto es depositario de la autoridad electoral dentro del régimen interior del
-
-Estado, es responsable del ejercicio de la función estatal de organizar las elecciones y los procedimientos de plebiscito, referéndum, iniciativa popular y la vigilancia y fiscalización de los partidos políticos, en su ámbito de competencia.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 68.
 
-1. El Instituto, en el ámbito de su competencia, tendrá por objeto:
-
-a) Contribuir al desarrollo de la vida democrática;
-
-b) Promover, fomentar y preservar el fortalecimiento del régimen de partidos políticos en el Estado;
-
-c) Promover, fomentar y preservar el ejercicio de los derechos político-electorales de los ciudadanos y vigilar el cumplimiento de sus deberes;
-
-d) Garantizar la celebración libre, auténtica y periódica de las elecciones para renovar a los integrantes de los Poderes Legislativo y Ejecutivo, así como de los Ayuntamientos del Estado;
-
-e) Velar por la libertad, autenticidad y efectividad del sufragio popular;
-
-f) Llevar a cabo la promoción del voto y coadyuvar a la difusión de la educación cívica y la cultura democrática;
-
-g) Verificar los compromisos de campaña en los términos del presente Código.
-
-h) Promover, fomentar y preservar la participación ciudadana;
-
-i) Organizar y desarrollar los procesos de plebiscito y referéndum que sean convocado (sic) conforme a la ley en la materia;
-
-j) Verificar el cumplimiento de los requisitos establecidos para el ejercicio del derecho de iniciativa popular, en lo que se refiere exclusivamente a la validación del número e identidad de los ciudadanos requeridos.
-
-2. Todas las actividades del Instituto se regirán por los principios de certeza, legalidad, independencia, imparcialidad y objetividad.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 69.
 
-1. El Instituto es un organismo público autónomo, independiente en sus decisiones y funcionamiento y profesional en su desempeño, dotado de personalidad jurídica y patrimonio propio, de acuerdo a lo establecido en la Constitución Política del Estado, el presente Código y demás disposiciones aplicables.
-
-2. El patrimonio del Instituto se integra con los bienes muebles e inmuebles que se destinen al cumplimiento de su objeto y las partidas que anualmente se le señalen en el Presupuesto de Egresos del Estado, así como con los ingresos que reciba por cualquier concepto, derivados de la aplicación de las disposiciones de este Código y todos los demás bienes o ingresos que adquiera por cualquier otro medio legal.
-
-3. El Instituto elaborará su propio proyecto de presupuesto de egresos y lo remitirá al Ejecutivo del Estado, a fin de que éste lo envíe en su oportunidad al Congreso para su estudio, discusión y, en su caso, aprobación. El proyecto de presupuesto de egresos del Instituto no podrá ser modificado por el Poder Ejecutivo del Estado.
-
-4. Los recursos presupuestarios destinados al financiamiento público de los partidos políticos no forman parte del patrimonio del Instituto, por lo que éste no podrá alterar el cálculo para su determinación ni los montos que del mismo resulten conforme al presente Código.
-
-5. El Instituto se regirá para su organización, funcionamiento y control, por las disposiciones constitucionales relativas y las de este Código.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 70.
 
-I. El Instituto tiene su domicilio en la Capital del Estado y ejercerá sus funciones en todo el territorio estatal.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
-II. Podrá contar también con oficinas municipales cuando el Consejo General así lo determine.
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRA POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)</small>
 
 ## TÍTULO SEGUNDO. DE LA ESTRUCTURA DEL INSTITUTO
 
 ###### Artículo 71.
 
-1. Los órganos centrales del Instituto son:
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
-a) El Consejo General;
-
-b) La Presidencia del Consejo General;
-
-c) La Junta General Ejecutiva;
-
-d) La Secretaría Ejecutiva;
-
-e) La Unidad de Fiscalización, y
-
-f) Las Direcciones Ejecutivas.
-
-2. Los órganos desconcentrados son:
-
-a) Comités Municipales, y
-
-b) Comités Distritales.
-
-3. En cada uno de sus órganos permanentes, el Instituto contará con un cuerpo de funcionarios integrados en un servicio profesional electoral y en una rama administrativa, que se regirán por el Estatuto que al efecto apruebe el Consejo General, en el cual se establecerán los respectivos mecanismos de ingreso, formación, promoción y desarrollo.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)</small>
 
 ### CAPÍTULO PRIMERO. DEL CONSEJO GENERAL, SUS COMISIONES Y DE LA PRESIDENCIA
 
 ###### Artículo 72.
 
-1. El Consejo General es el órgano superior de dirección, responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de velar porque los principios de certeza, legalidad, independencia, imparcialidad y objetividad guíen todas las actividades del Instituto.
-
-2. El Consejo General se integrará por siete Consejeros Electorales, el Secretario Ejecutivo y por un representante de cada partido político. Con excepción de los Consejeros, los demás podrán ocurrir a las sesiones del Consejo General con voz pero sin voto. Cada partido político tendrá derecho a designar un representante propietario y un suplente para las sesiones del Consejo General.
-
-3. Los consejeros electorales serán designados por el Congreso del Estado en los términos del presente Código y demás disposiciones aplicables. Los consejeros durarán en su encargo siete años, pudiendo ser ratificados una sola vez. Por cada consejero electoral habrá un suplente.
-
-4. El Pleno del Congreso del Estado o la Diputación Permanente, en su caso, con el voto de por lo menos las dos terceras partes de los diputados presentes, podrá ratificar a uno o más consejeros, por una sola vez y con ciento veinte días naturales de anticipación a la fecha de conclusión del cargo, en cuyo caso no se llevará a cabo el procedimiento de designación respectivo.
-
-5. El procedimiento de ratificación previsto en el párrafo anterior, procederá siempre y cuando lo solicite el Consejo General del Instituto ante el Congreso del Estado, por medio del acuerdo correspondiente. En caso de que este procedimiento no sea solicitado hasta un día antes de la fecha en que deba iniciar el mismo, se procederá al trámite de designación previsto en esta ley.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 73.
 
-1. La designación de los consejeros del Instituto, se realizará bajo el siguiente procedimiento:
-
-a) El Congreso del Estado emitirá una convocatoria pública para que cualquier ciudadano que aspire al cargo de consejero, pueda registrarse dentro del plazo de diez días naturales posteriores a la expedición de la misma.
-
-b) Concluido el plazo para el registro de los aspirantes al cargo de consejero, el Instituto, dentro de los cinco días naturales siguientes, emitirá un dictamen en el que señale el número de aspirantes registrados y determine quiénes cumplieron con los requisitos exigidos en el presente Código, mismos que continuarán con el procedimiento de selección.
-
-c) Los aspirantes que hayan acreditado los requisitos, deberán someterse a un examen escrito, teórico y práctico de conocimientos en la materia, el cual será aplicado por una universidad pública, la cual evaluará cada examen y remitirá los resultados al Instituto.
-
-El examen se efectuará dentro de los diez días naturales siguientes a la fecha en que haya sido emitido el dictamen señalado en la fracción anterior. Una vez presentado el examen por los aspirantes, la universidad pública del Estado encargada de aplicar los mismos, los calificará y enviará al Instituto para la publicación de los resultados en los medios de comunicación con los que cuente el Instituto.
-
-d) Conocidos los resultados, el Instituto remitirá al Congreso del Estado los expedientes de los aspirantes que hubieren aprobado el examen, a fin de que este órgano legislativo, dentro de los siguientes diez días naturales, los convoque a comparecer en audiencia pública ante la Comisión de Gobernación y Puntos Constitucionales.
-
-e) Concluido el periodo de comparecencias, la Comisión de Gobernación y Puntos Constitucionales realizará la propuesta de aquellos aspirantes que cumplan con el perfil necesario para ser designados como consejeros, mediante el dictamen correspondiente, y lo presentará al Pleno del Congreso del Estado para su discusión y, en su caso, aprobación.
-
-f) Las dos terceras partes de los diputados presentes, aprobarán o rechazarán el dictamen que se les presente; en caso de no obtener la votación requerida, la Comisión de Gobernación y Puntos Constitucionales presentará nueva lista de candidatos hasta obtener la aprobación correspondiente.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 74.
 
-1. En caso de ausencia definitiva de algún consejero electoral, el Consejo General llamará al consejero suplente que corresponda, según el orden de prelación en que fueron designados por el Congreso del Estado, para que desempeñe la función. En el caso de ausencia temporal, el Consejo General decidirá sobre la procedencia o no de la suplencia.
-
-2. Por ausencia definitiva se entenderá toda aquella que impida que el consejero pueda seguir ejerciendo su función, tales como la renuncia, remoción del cargo impuesta por autoridad competente, incapacidad mental permanente o muerte, o cuando sobrevenga una causa de las que impide la designación de consejeros electorales.
-
-3. Por ausencia temporal se entenderá toda aquella que impida al consejero ejercer su función por un plazo no mayor a un mes, o por un plazo mayor, cuando sea autorizada por el Consejo General y medie causa justificada.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 75.
 
-1. Para ser designado Consejero Electoral, propietario o suplente, se deberán cumplir los requisitos siguientes:
-
-a) Ser ciudadano mexicano por nacimiento y coahuilense, en pleno ejercicio de sus derechos políticos y civiles;
-
-b) Ser mayor de veintisiete años de edad el día de su designación;
-
-c) Estar inscrito en el registro federal de electores y contar con credencial para votar;
-
-d) Poseer, al día del registro de aspirantes a ocupar el cargo, título profesional o de formación equivalente y tener conocimientos en la materia político-electoral;
-
-e) No haber desempeñado, en los cinco años previos a la designación, un cargo de elección popular;
-
-f) No desempeñar un cargo o comisión en cualquiera de los órganos del Instituto Federal Electoral u otro órgano electoral de Entidades Federativas, diferente al Instituto;
-
-g) No haber sido, en los cinco años previos a la designación, integrante de un órgano partidista de dirección nacional, estatal o municipal, ni representante de partido político ante algún organismo electoral;
-
-h) Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena de prisión de más de un año; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro, que lastime la buena fama en concepto público, inhabilitará para el cargo cualquiera que haya sido la pena.
-
-i) Tener residencia en el Estado durante los últimos tres años, salvo el caso de ausencia por desempeño de cargo público al servicio de la Federación, del Estado o del Municipio.
-
-j) No haber sido, en los últimos tres años previos a la designación, Secretario de Estado, ni Fiscal General del Estado o Subsecretario en la Administración Pública Federal, Estatal o Municipal.
-
-2. La retribución que reciban los consejeros será igual a lo que perciban los magistrados del Tribunal Superior de Justicia del Estado. No podrán recibir gratificaciones o cantidades adicionales distintas a dicha retribución.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 76.
 
-1. Los consejeros Electorales y el secretario ejecutivo del Consejo General, durante el periodo de su encargo, no podrán tener ningún otro empleo, cargo o comisión con excepción de aquellos en que actúen en representación del Consejo General y de los que desempeñe en forma honorifica o de fe pública, así como en asociaciones docentes, científicas, culturales, de investigación o de beneficencia.
-
-2. Los consejeros electorales, el secretario ejecutivo y los demás servidores públicos del Instituto desempeñarán su función con autonomía y probidad. No podrán utilizar la información reservada o confidencial de que dispongan en razón de su cargo, salvo para el estricto ejercicio de sus funciones, ni divulgarla por cualquier medio.
-
-3. Los consejeros electorales y el secretario ejecutivo estarán sujetos al régimen de responsabilidades de los servidores públicos previsto en la Constitución.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 77.
 
-1. El Consejo General se reunirá en sesión ordinaria cada mes. Su presidente podrá convocar a sesión extraordinaria cuando lo estime necesario o a petición que le sea formulada por la mayoría de los consejeros electorales o de los representantes de los partidos políticos, conjunta o indistintamente.
-
-2. Durante el proceso electoral sesionará, por lo menos, dos veces al mes, teniendo una periodicidad mayor de una semana.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 78.
 
-I. Las sesiones del Consejo General se sujetarán a las reglas siguientes:
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
-a) Serán válidas cuando se integren con la mayoría de los Consejeros Electorales, siempre que esté presente su Presidente o quien legalmente deba suplirlo. En caso de que no se reúna la mayoría a la que se refiere el párrafo anterior, la sesión tendrá lugar dentro de las veinticuatro horas siguientes, con los consejeros y representantes que asistan.
-
-b) Podrán concurrir con voz pero sin voto, los consejeros representantes de los partidos políticos, así como el Secretario Ejecutivo.
-
-c) De toda sesión se levantará el acta respectiva a través del Secretario Ejecutivo. Las actas deberán contener una síntesis del asunto a tratar y el punto acordado.
-
-d) El Secretario Ejecutivo, al inicio de cada sesión, leerá el acta de la sesión anterior para su aprobación, pudiendo ser dispensada la lectura, en caso de que lo acuerde el Consejo General. La misma deberá ser autorizada con las firmas del Consejero Presidente o de quien legalmente deba suplirlo y del propio Secretario Ejecutivo.
-
-e) Se dará curso a los asuntos listados en el orden del día o de aquellos que requieran la intervención del Consejo General.
-
-f) El Consejero Presidente o quien legalmente deba suplirlo, presidirá la sesión, dirigirá los debates, declarará cerrada la discusión cuando así lo estime y, finalmente, someterá a votación los asuntos correspondientes, en términos de los reglamentos de debates.
-
-g) Las votaciones del Consejo General se tomarán por mayoría de votos de los miembros presentes, salvo las que conforme a este Código exigen mayoría calificada. En caso de empate, el Consejero Presidente o quien legalmente deba suplirlo, tendrá voto de calidad.
-
-h) El Consejero Presidente del Consejo General por sí o a través del Secretario Ejecutivo, deberá ejecutar los acuerdos sin demora. El Consejo General podrá corregir, subsanar o modificar el acuerdo ejecutado cuando advierta un error esencial en el acta que se somete a su aprobación.
-
-II. El Secretario Ejecutivo actuará, en todo tiempo, con la representación legal del Instituto y del Consejo. Las demás autoridades, tanto federales como estatales, quedan obligadas a reconocer su personalidad y facultades sin importar la calidad con la que ante ellas se ostente.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)</small>
 
 ### CAPÍTULO SEGUNDO. DE LAS ATRIBUCIONES DEL CONSEJO GENERAL
 
 ###### Artículo 79.
 
-1. Las atribuciones concedidas al Instituto en el presente Código o en otras leyes residen originalmente en el Consejo General. Los demás órganos del Instituto creados por este Código, podrán ejercer sus facultades en los casos siguientes:
-
-a) Cuando este Código u otras disposiciones les otorguen expresamente las atribuciones, y
-
-b) Cuando por acuerdo del Consejo General se deleguen las atribuciones para el mejor funcionamiento del Instituto.
-
-2. El Consejo General tendrá las atribuciones siguientes:
-
-a) Vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral y de participación y organización ciudadana, así como dictar las normas y previsiones destinadas a hacer efectivas tales disposiciones.
-
-b) Promover controversias constitucionales y acciones de inconstitucionalidad locales en la materia de su competencia, en los términos que establece la Constitución Política del Estado, este Código y demás disposiciones aplicables.
-
-c) Promover de manera permanente la educación cívica y la participación de los ciudadanos en los procesos electorales, así como desarrollar un programa anual de difusión para los niños y jóvenes del sistema educativo público y privado del Estado, aprobado en el Consejo General durante el mes de diciembre, a fin de dar a conocer la importancia de elegir a nuestros representantes populares.
-
-d) Aprobar los convenios de apoyo y colaboración con el Instituto federal, en los términos del presente Código.
-
-e) Autorizar, con el voto de las dos terceras partes de sus integrantes, las bases del eventual convenio con el Instituto federal para que éste se haga cargo de la organización y desarrollo en forma integral de las elecciones locales en cuyo caso, el Consejo General deberá preservar las facultades sustantivas establecidas por este Código.
-
-f) Conocer y aprobar el dictamen que le rinda la Unidad de Fiscalización respecto del resultado de la revisión de los informes de ingresos y gastos que presenten los partidos políticos, en los términos de este Código y el reglamento respectivo.
-
-g) Aprobar los reglamentos que resulten necesarios para el ejercicio de sus atribuciones, en los términos de este Código y las demás disposiciones aplicables.
-
-h) Formular y aprobar el Estatuto del Servicio Profesional Electoral.
-
-i) Establecer la estructura administrativa de los órganos del Instituto y expedir los reglamentos interiores, acuerdos, circulares y lineamientos generales necesarios para el funcionamiento del Instituto y sus órganos, a través del reglamento interior aprobado por el Consejo General.
-
-j) Preparar, organizar y desarrollar los procesos electorales, plebiscitarios y de referendo, en los términos de este Código y demás disposiciones aplicables.
-
-k) Aprobar el proyecto de presupuesto anual de egresos del Instituto presentado por la Comisión de Administración y del Servicio Profesional.
-
-l) Instrumentar para la elección de Gobernador el programa de resultados preliminares oportunos, pudiendo celebrar convenios con el Instituto federal para tal efecto.
-
-m) Tratándose de las elecciones para diputados e integrantes de los ayuntamientos, atendiendo a las disponibilidades presupuestarias, podrá ordenar la instrumentación de programas de resultados preliminares oportunos, atendiendo lo dispuesto en el inciso anterior.
-
-n) Aprobar el Programa Anual del Instituto.
-
-o) Establecer y regular la integración, organización, funcionamiento y atribuciones de las comisiones o subcomisiones que cree el Consejo General para el debido funcionamiento del Instituto, con un máximo de tres miembros que para cada caso se determine.
-
-p) Dirimir cualquier tipo de conflicto competencial entre los órganos del Instituto, resolviendo en definitiva.
-
-q) Acreditar a los partidos políticos nacionales que, una vez satisfechos los requisitos que establece este Código y demás disposiciones aplicables, soliciten la inscripción de su registro.
-
-r) Resolver, en los términos de este Código y demás disposiciones aplicables, el otorgamiento o pérdida del registro de los partidos políticos y de las asociaciones políticas estatales.
-
-s) Designar a las personas que integrarán los comités distritales y municipales electorales, y vigilar su debido funcionamiento.
-
-t) Resolver sobre el proyecto de material electoral y aprobar su elaboración.
-
-u) Dar seguimiento a los compromisos de campaña de los candidatos mediante la emisión de informes anuales con fines meramente informativos. Para tal efecto el Instituto emitirá las normas pertinentes.
-
-v) La contratación de la propaganda impresa utilizada por los partidos, precandidatos y candidatos en los términos de esta Ley.
-
-w) Proveer lo necesario para el cumplimiento del objeto del Instituto a que se refiere el párrafo 1 del artículo 68 de este Código; y
-
-x) Las demás señaladas en este Código y en otras disposiciones.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 80.
 
-1. El Consejo General contará con las siguientes comisiones permanentes:
-
-a) De administración y servicio profesional;
-
-b) De prerrogativas y partidos políticos;
-
-c) De Lista Nominal y Participación Ciudadana;
-
-d) De Quejas y Denuncias.
-
-2. En la comisiones señaladas en el inciso a) y d) del párrafo anterior participarán tres consejeros electorales. En el caso de la Comisión de Administración y Servicio Profesional tendrá voz sin derecho a voto, el Contralor Interno.
-
-3. En las comisiones señaladas en los incisos b) y c) del párrafo 1, participarán tres consejeros electorales y los representantes de los partidos políticos; tendrán derecho a voto solamente los consejeros electorales.
-
-4. Los consejeros electorales podrán participar hasta en tres de las comisiones antes mencionadas, por un periodo de tres años; la presidencia de tales comisiones será rotativa en forma anual entre sus integrantes.
-
-5. A partir del inicio de los procesos electorales locales, se crearán las siguientes comisiones:
-
-a) De capacitación y organización electoral;
-
-b) De acceso de los partidos políticos a radio y televisión.
-
-6. Para cada proceso electoral, los integrantes de de (sic) la Comisión a que hace referencia el inciso c) del párrafo primero pasaran a forma parte de la Comisión de capacitación y organización electoral.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 81.
 
-1. La Comisión de Administración y Servicio Profesional tendrá las siguientes atribuciones:
-
-a) Elaborar el proyecto de Reglamento Interno del Instituto.
-
-b) Aprobar y autorizar las convocatorias públicas, licitaciones, concursos y contratos para la adquisición de bienes y servicios en los términos que establezca la ley de la materia y demás disposiciones aplicables.
-
-c) Aprobar los informes de avance de gestión financiera y la cuenta pública que se presenta ante la Auditoría Superior del Estado, en los términos de las disposiciones aplicables.
-
-d) Vigilar el cumplimiento de los convenios y contratos que celebre el Instituto.
-
-e) Establecer la normatividad y los criterios para modernizar las estructuras orgánicas, los sistemas y procedimientos administrativos internos, así como los servicios al público.
-
-f) Elaborar el presupuesto de egresos del Instituto.
-
-g) Proponer al Consejo General, las normas internas en materia administrativa y establecer las disposiciones generales necesarias para el ingreso, carrera, escalafón, régimen disciplinario y remoción, así como las relativas a estímulos y capacitación de personal del Servicio Profesional.
-
-h) Proponer al Consejo General, la estructura orgánica del Instituto.
-
-i) Las demás que le confiera este Código y otras disposiciones aplicables.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 82.
 
-1. La Comisión de Prerrogativas y Partidos Políticos tendrá las siguientes atribuciones:
-
-a) Conocer de los dictámenes relativos a la (sic) solicitudes de registro que formulen las organizaciones que pretendan constituirse como partidos políticos y realizar las actividades pertinentes, que vaya a presentar el Secretario Ejecutivo.
-
-b) Proponer al Consejo General los acuerdos de financiamiento público ordinario y para gastos de campaña.
-
-c) Proponer al Consejo General los acuerdos relativos a los limites de las aportaciones de los Comités Ejecutivos Nacionales, así como de financiamiento no público.
-
-d) Proponer al Consejo General el acuerdo de inscripción de registro de los partidos políticos, así como conocer de los convenios de fusión, frentes, coaliciones y candidaturas comunes, y
-
-e) Realizar lo necesario para que los partidos políticos ejerzan sus prerrogativas de acceso a los tiempos en radio y televisión, en los términos establecidos por la Base III del artículo 41 de la Constitución General de la República y lo dispuesto en el Código federal y en el presente ordenamiento, cuando no se trate de proceso electoral.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 83.
 
-1. La Comisión de la Lista Nominal y Participación Ciudadana tendrá las siguientes atribuciones:
-
-a) Vigilar el desarrollo de todos los trabajos de Educación Cívica, Promoción y Difusión de la Cultura Política Democrática, que el Instituto lleve a cabo.
-
-b) Coadyuvar en la vigilancia del Programa del programa (sic) anual de difusión para los niños y jóvenes del sistema educativo público y privado (sic) Educación cívica del Estado.
-
-c) Efectuar seguimiento a las campañas de Actualización del Padrón Electoral y Lista Nominal de Electores que realice el Instituto Federal Electoral, mediante la aplicación de los siguientes mecanismos:
-
-I. Solicitar en medio óptico e impreso a la Dirección Ejecutiva del Registro Federal de Electores del Instituto Federal Electoral, a través de la Junta Local Ejecutiva del Instituto Federal Electoral, la información necesaria para que los integrantes de la Comisión conozcan los avances de las campañas de actualización del Padrón Electoral y Lista Nominal de Electores, que deberá ser la siguiente: reportes estadísticos mensuales de inscripciones, corrección de datos, cambios de domicilio y reposiciones; credenciales entregadas a los ciudadanos; estadísticos del Padrón Electoral y Lista Nominal de Electores ordenados por Distrito Local, Municipio y Sección Electoral; y el número de credenciales para votar con fotografía que se hayan destruido por aplicación del artículo 163 del Código Federal.
-
-II. Proponer y dar seguimiento a los trabajos de difusión y promoción que realice el Instituto entre la ciudadanía, en materia de Padrón Electoral y Lista Nominal de Electores, en coadyuvancia a las actividades que realice la Secretaría Ejecutiva.
-
-III. Determinar el número y la ubicación de Módulos de Atención Ciudadana en el caso de que sean financiados por el Instituto.
-
-IV. Solicitar en medio óptico e impreso a la Dirección Ejecutiva del Registro Federal de Electores del Instituto Federal Electoral información estadística y nominal.
-
-d) En materia de cartografía solicitar al Instituto Federal Electoral las actualizaciones sobre la cartografía digitalizada bimestralmente.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 84.
 
-1. La Comisión de Quejas y Denuncias tendrá las siguientes atribuciones:
-
-a) Recibir y sustanciar las quejas que se interpongan en contra de los actos o resoluciones del propio Consejo y en su caso, preparar el proyecto de resolución correspondiente.
-
-b) Informar al Consejo sobre las resoluciones que le competan, dictadas por el Tribunal Electoral que sean competencia del Consejo General.
-
-c) Sustanciar los procedimientos de aplicación de sanciones que inicie el Consejo y en su caso, preparar el proyecto de resolución correspondiente.
-
-d) Sustanciar los demás procedimientos electorales que el Código no le confiera expresamente a otro órgano y, en su caso, preparar el proyecto de resolución correspondiente.
-
-e) Sustanciar, en los términos de las disposiciones aplicables, el procedimiento de pérdida de registro del partido político, en los casos en que se encuentre en los supuestos previstos en el presente Código y demás disposiciones aplicables. La sustanciación se tramitará hasta el estado de resolución. Dicha resolución será dictada por el Consejo General del Instituto.
-
-f) Las demás que establezca el Código.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 85.
 
-1. La Comisión de Organización y Capacitación electoral tendrá las siguientes atribuciones:
-
-a) Vigilar el desarrollo de todos los trabajos en materia de organización y capacitación, que el Instituto lleve a cabo para los Procesos Electorales correspondientes.
-
-b) Vigilar la instalación y funcionamiento de los Comités Distritales y Municipales, proponiendo las medidas correctivas que se estimen procedentes.
-
-c) Vigilar la integración, instalación y funcionamiento de los Comités Distritales y Municipales.
-
-d) Conocer, analizar y aprobar la propuesta que haga la Junta General del Programa de Capacitación, para la integración de las Mesas Directivas de Casilla, y la remisión, para la aprobación definitiva, en su caso, por el Consejo General.
-
-e) Conocer, analizar y aprobar la elaboración del material didáctico e instructivos electorales, que en materia de capacitación y organización, difunda el Instituto, sugiriendo las modificaciones que se estimen convenientes.
-
-f) Supervisar y vigilar la notificación y capacitación a los ciudadanos insaculados.
-
-g) Conocer acerca de las actividades que realicen y de los informes que rindan los Comités Distritales y Municipales.
-
-h) Conocer, analizar y aprobar la propuesta que haga la Junta General de los formatos de boletas electorales y documentación electoral, así como las características de los materiales electorales, sugiriendo las modificaciones que se estimen convenientes.
-
-i) Supervisar y vigilar la elaboración, impresión y distribución de documentación y material electoral, conforme a las disposiciones del Código y a los acuerdos que emita el Consejo General.
-
-j) Revisar que las características que posean los materiales electorales sean óptimas y, en su caso, proponer las adecuaciones que se estimen pertinentes, observando, en todo momento, lo dispuesto por el Código.
-
-k) Revisar y vigilar los avances y resultados de la Notificación y Capacitación, y monitorear su desarrollo.
-
-l) Conocer y analizar las propuestas que formule la Junta General, de sustitución de ciudadanos para integrar los Comités Distritales y Municipales, en los términos establecidos en el Estatuto y en el Programa del Servicio Electoral Profesional.
-
-m) Proponer al Consejo General la sustitución de Consejeros Electorales de los Comités Distritales y Municipales, que presente la Junta General.
-
-n) Conocer y vigilar lo relativo al procedimiento de ingreso de Instructores y Capacitadores, y
-
-o) Las demás que le otorgue el Consejo General.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 86.
 
-1. La Comisión de acceso de los partidos políticos a radio y televisión tendrá las siguientes atribuciones:
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
-a) Ser el enlace permanente con el Comité de Radio y Televisión del Instituto federal para la coordinación de todas las tareas relacionadas con el acceso de los partidos políticos a dichos medios durante los procesos electorales estatales;
-
-b) Elaborar y presentar al Consejo General las pautas para la asignación del tiempo que corresponda a los partidos políticos en dichos medios conforme a lo establecido en la Constitución y el Código federales;
-
-c) Elaborar y presentar al Consejo General, el proyecto de lineamiento para que éste último realice los monitoreos de radio y televisión durante los procesos electorales estatales;
-
-d) Apoyar las gestiones de los partidos políticos para hacer efectivas sus prerrogativas en materia de medios de comunicación;
-
-e) Conocer y resolver sobre las solicitudes de aplicación de medidas cautelares en materia de radio y televisión, cuando la queja verse sobre presuntas violaciones a lo establecido en el primer párrafo del Apartado C de la Base III del Artículo 41 de la Constitución General, dirigiéndose, en su caso, al Instituto federal para la aplicación de tales medidas; y
-
-f) Las demás que le señale este Código y los acuerdos del Consejo General.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)</small>
 
 ### CAPÍTULO TERCERO. DE LAS ATRIBUCIONES DE LA PRESIDENCIA Y DEL SECRETARIO EJECUTIVO
 
 ###### Artículo 87.
 
-1. Los Consejeros Electorales propietarios nombrarán, por voto secreto y mayoría de votos, al Presidente del Consejo General que lo será también del Instituto durante todo el tiempo que dure su encargo como Consejero Electoral. Sólo en el caso de ausencia definitiva del Presidente, los Consejeros Electorales nombrarán de nueva cuenta y de entre ellos mismos, a quien deba sustituirlo. En este último caso, el Consejero Presidente designado durará en su encargo el tiempo que reste de su período como Consejero Electoral.
-
-2. Corresponden al presidente del Consejo General las atribuciones siguientes:
-
-a. Garantizar la unidad y cohesión de las actividades de los órganos del Instituto;
-
-b. Establecer los vínculos entre el Instituto y las autoridades federales, estatales y municipales, para lograr su apoyo y colaboración, en sus respectivos ámbitos de competencia, cuando esto sea necesario para el cumplimiento de los fines del Instituto;
-
-c. Convocar y conducir las sesiones del Consejo;
-
-d. Vigilar el cumplimiento de los acuerdos adoptados por el propio Consejo por sí o a través del Secretario Ejecutivo;
-
-e. Proponer al Consejo General el nombramiento del Secretario Ejecutivo, del titular de la Unidad de Fiscalización y demás titulares de unidades técnicas del Instituto;
-
-f. Recibir del contralor interno los informes de las revisiones y auditorías que se realicen para verificar la correcta y legal aplicación de los recursos y bienes del Instituto, así como hacerlos del conocimiento del Consejo General;
-
-g. Remitir al titular del Poder Ejecutivo el proyecto de presupuesto del Instituto aprobado por el Consejo General, en los términos de la ley de la materia;
-
-h. Remitir al Auditoría Superior del Estado los avances de gestión financiera y cuenta pública, en los términos de las disposiciones aplicables;
-
-i. Recibir las solicitudes de registro de candidatos a Gobernador y someterlas al Consejo General para su registro;
-
-j. Ordenar la realización de estudios demoscópicos, basados en actas de escrutinio y cómputo de casilla, a fin de conocer las tendencias de los resultados de la elección para Gobernador, el día de la jornada electoral. Los resultados de dichos estudios deberán ser difundidos por el consejero presidente, después de las veintidós horas del día de la jornada electoral;
-
-k. Someter al Consejo General las propuestas para la creación de unidades técnicas para el mejor funcionamiento del Instituto;
-
-l. Ordenar, en su caso, la publicación en el Periódico Oficial del Estado de los acuerdos y resoluciones que apruebe el Consejo General;
-
-m. Nombrar y remover a los servidores públicos que no tengan otro mecanismo de designación, y que estén aprobados en la estructura orgánica del Instituto, y
-
-n. Las demás que le confiera este Código.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 88.
 
-1. El Titular de la Secretaría Ejecutiva será nombrado y removido libremente por el voto de las dos terceras partes de los miembros del Consejo General del Instituto, a propuesta del Consejero Presidente.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
-2. Corresponde al Secretario Ejecutivo:
-
-a) Auxiliar al Consejo General y a la Presidencia en el ejercicio de sus atribuciones;
-
-b) Preparar el orden del día de las sesiones del Consejo, declarar la existencia del quórum, dar fe de lo actuado en las sesiones, levantar el acta correspondiente y someterla a la aprobación de los consejeros y representantes asistentes;
-
-c) Informar sobre el cumplimiento de los acuerdos del Consejo;
-
-d) Dar cuenta con los proyectos de dictamen de las comisiones;
-
-e) Llevar el archivo del Consejo;
-
-f) Expedir los documentos que acrediten la personalidad de los consejeros y de los representantes de los partidos políticos;
-
-g) Firmar, junto con el presidente del Consejo, todos los acuerdos y resoluciones que emita el propio Consejo;
-
-h) Proveer lo necesario para que se publiquen los acuerdos y resoluciones que pronuncie el Consejo General;
-
-i) Celebrar con el Registro Federal de Electores los convenios para la utilización en los procesos electorales, de plebiscito, referéndum o iniciativa popular, del padrón electoral, listas nominales de electores, credencial para votar, y los demás instrumentos con que cuente aquél, cuando resulten necesarios para el cumplimiento de las responsabilidades del Instituto. Los convenios deberán ser ratificados por el Consejo General;
-
-j) Integrar los expedientes con las actas de cómputo de la elección de Gobernador, realizar las operaciones aritméticas correspondientes e informar al Consejo General del resultado por partido político y candidato;
-
-k) Integrar los expedientes con las actas de cómputo distritales de la elección de diputados por el principio de representación proporcional, y formular el proyecto de dictamen con la respectiva asignación por partido político, en los términos de este Código, y presentarlos oportunamente al Consejo General;
-
-l) Dar cuenta al Consejo General con los informes que sobre las elecciones reciba de los comités electorales;
-
-m) Recibir, para efectos de información y estadísticas electorales, copias de los expedientes de todas las elecciones;
-
-n) Dar a conocer la estadística electoral, por sección, municipio, distrito y estatal, una vez concluido el proceso electoral en conjunto con la comisión respectiva;
-
-o) Cumplir las instrucciones del presidente del Consejo General y auxiliarlo en sus tareas; y
-
-p) Lo demás que le sea conferido por este Código o el Consejo General.
-
-3. Además de las facultades señaladas en el párrafo anterior corresponde al Secretario Ejecutivo:
-
-a) Representar legalmente al Instituto ante cualquier autoridad o persona física o moral;
-
-b) Actuar como secretario del Consejo General del Instituto;
-
-c) Cumplir los acuerdos del Consejo General;
-
-d) Someter al conocimiento y, en su caso, a la aprobación del Consejo General los asuntos de su competencia;
-
-e) Orientar y coordinar las acciones de las direcciones ejecutivas, informando permanentemente al presidente del Consejo;
-
-f) Suscribir, en conjunto con el consejero presidente, los convenios que el Instituto celebre con el Instituto federal para que éste asuma, en su caso, la organización, total o parcial, de los procesos electorales locales;
-
-g) Suscribir, previa aprobación del Consejo General, los acuerdos o convenios para que el Instituto federal proporcione apoyo técnico u operativo, para la instrumentación del programa de Resultados Electorales Preliminares que el Instituto establezca, así como otros que se considere necesarios;
-
-h) Coadyuvar con el contralor interno en los procedimientos que éste acuerde para la vigilancia de los recursos y bienes del Instituto y, en su caso, en los procedimientos para la determinación de responsabilidades e imposición de sanciones a los servidores públicos del Instituto;
-
-i) Proveer a los órganos del Instituto de los elementos necesarios para el cumplimiento de sus funciones;
-
-j) Establecer un mecanismo para la difusión inmediata en el Consejo General, de los resultados preliminares de las elecciones, para este efecto se dispondrá de un sistema de informática para recabar los resultados preliminares. Al sistema que se establezca tendrán acceso en forma permanente los consejeros y representantes de los partidos políticos acreditados ante el Consejo General;
-
-k) Recibir los informes de los funcionarios de los comités electorales y dar cuenta al presidente del Consejo General sobre los mismos;
-
-l) Instrumentar la realización de los estudios demoscópicos a fin de conocer las tendencias electorales el día de la jornada electoral, en la elección de Gobernador, o cuando así lo ordene, para otras elecciones, el Consejo General;
-
-m) Elaborar anualmente el anteproyecto de presupuesto del Instituto para someterlo a la consideración de la Comisión de Administración;
-
-n) Ejercer las partidas presupuestales aprobadas;
-
-o) Otorgar poderes a nombre del Instituto, para actos de dominio, de administración y para ser representado ante cualquier autoridad administrativa o judicial, o ante particulares. Para realizar actos de dominio sobre inmuebles destinados al Instituto o para otorgar poderes para dichos efectos, el secretario ejecutivo requerirá de la autorización previa del Consejo General;
-
-p) Preparar, para la aprobación del Consejo General, el proyecto de calendario integral de los procesos electorales ordinarios, así como de elecciones extraordinarias, que se sujetará a la convocatoria respectiva;
-
-q) Expedir las certificaciones que se requieran; y
-
-r) Las demás que le encomienden el Consejo General, la Junta General Ejecutiva y este Código.
+> <small>(DEROGADO CON EL ARTÍCULO QUE LO INTEGRA POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)</small>
 
 ### CAPÍTULO CUARTO. DE LA JUNTA GENERAL EJECUTIVA
 
 ###### Artículo 89.
 
-1. La Junta General Ejecutiva del Instituto se integrará con el Secretario Ejecutivo, quien la presidirá, y con los directores ejecutivos de Administración; Asuntos Jurídicos; Organización, Capacitación y Participación Ciudadana, y de Prerrogativas y Partidos Políticos. El titular de la Unidad de Fiscalización y el Contralor Interno podrán participar, a convocatoria del Secretario Ejecutivo, en las sesiones de la Junta General Ejecutiva
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
-2. La Junta General Ejecutiva se reunirá por lo menos una vez al mes, siendo sus atribuciones las siguientes:
-
-a) Proponer al Consejo General las políticas y los programas generales del Instituto;
-
-b) Fijar los procedimientos administrativos, conforme a las políticas y programas generales del Instituto;
-
-c) Supervisar el cumplimiento de los convenios celebrados con el Registro Federal de Electores;
-
-d) Supervisar el cumplimiento de las normas aplicables a los partidos políticos y sus prerrogativas;
-
-e) Evaluar el desempeño del Servicio Profesional Electoral;
-
-f) Supervisar el cumplimiento de los programas de capacitación electoral y educación cívica del Instituto;
-
-g) Proponer al Consejo General establecer oficinas municipales de acuerdo con los estudios que formule y la disponibilidad presupuestal;
-
-h) Resolver los medios de impugnación que le competan, en contra de los actos o resoluciones del secretario ejecutivo en los términos establecidos en la ley en la materia;
-
-i) Recibir informes del contralor interno respecto de los expedientes relativos a las faltas administrativas y, en su caso, sobre imposición de sanciones a los servidores públicos del Instituto;
-
-j) Formular, en el ámbito de su competencia, los estudios y, en su caso, los proyectos de convenio a que se refiere el párrafo 3 del artículo 118 del Código federal; y
-
-k) Las demás que le encomienden este Código, el Consejo General o su presidente.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)</small>
 
 ### CAPÍTULO QUINTO. DE LAS DIRECCIONES EJECUTIVAS
 
 ###### Artículo 90.
 
-1. Al frente de cada una de las direcciones de la Junta General, habrá un director ejecutivo, quien será nombrado por el Consejo General a propuesta del Secretario Ejecutivo.
-
-2. Los directores ejecutivos deberán satisfacer los mismos requisitos que establece este Código para los Consejeros del Instituto.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 91.
 
-1. La Dirección Ejecutiva de Administración se encargará de supervisar el manejo de los recursos financieros, humanos y técnicos del Instituto, cuidando en todo momento la correcta administración y ejercicio del presupuesto de egresos correspondiente y tendrá las atribuciones siguientes:
-
-a) Aplicar las políticas, normas y procedimientos para la administración de los recursos materiales y financieros establecidos por el Consejo General;
-
-b) Informar al Consejo General de los bienes muebles e inmuebles que se requieran para el desempeño de las funciones del Instituto;
-
-c) Vigilar la conservación de los equipamientos y de las instalaciones que se hayan asignado al Instituto;
-
-d) Coordinar y supervisar las labores del personal administrativo del Instituto;
-
-e) Llevar el libro de registro de proveedores del material necesario para la función electoral;
-
-f) Organizar, dirigir y controlar la administración de los recursos materiales y financieros, así como la prestación de los servicios generales en el Instituto;
-
-g) Cumplir las disposiciones que para la aplicación del presupuesto, estipulen los ordenamientos aplicables;
-
-h) Establecer y operar los sistemas administrativos para el ejercicio y control presupuestal;
-
-i) Conocer y atender las necesidades administrativas del Instituto;
-
-j) Presentar al Consejero Presidente y a la Comisión de Administración un informe trimestral de su actuación y un informe anual respecto al ejercicio presupuestal del Instituto;
-
-k) Elaborar los proyectos de convocatorias públicas, licitaciones y concursos para la adquisición de bienes y servicios en los términos que establezca la ley de la materia y demás disposiciones aplicables;
-
-l) Cumplir y hacer cumplir los acuerdos del Consejo General que se refieran a asuntos de su competencia;
-
-m) Apoyar la instalación y funcionamiento de los comités electorales y demás órganos del Instituto;
-
-n) Cumplir y hacer cumplir el Estatuto, así como las normas y procedimientos del Servicio Profesional Electoral;
-
-o) Auxiliar al Secretario ejecutivo para la formulación del anteproyecto de presupuesto anual de egresos del Instituto; y
-
-p) Las demás que le confiera este Código y otras disposiciones aplicables o el Consejo General.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 92.
 
-1. La Dirección Ejecutiva de Asuntos Jurídicos se encargará de supervisar las cuestiones legales relacionadas con el funcionamiento del Instituto y tendrá las atribuciones siguientes:
-
-a) Realizar y emitir los dictámenes jurídicos que le solicite el Consejo General, las comisiones o cualquier otro órgano del Instituto;
-
-b) Resolver las consultas jurídicas respecto de los asuntos que se le encomienden;
-
-c) Compilar y sistematizar los criterios de resolución que emitan los órganos del Instituto, el Poder Judicial del Estado, el Instituto federal, el Poder Judicial de la Federación y demás autoridades con relación a la materia electoral o de participación ciudadana;
-
-d) Integrar el archivo de las actuaciones del Instituto ante los tribunales;
-
-e) Auxiliar al Consejo General en la interpretación de las disposiciones legales;
-
-f) Formular los informes justificados que las autoridades competentes soliciten al Instituto;
-
-g) Promover las actuaciones e interponer los recursos legales que correspondan ante los órganos competentes;
-
-h) Auxiliar al Consejo General en el cumplimiento de las resoluciones de los tribunales y de las autoridades electorales competentes;
-
-i) Presentar al Consejero Presidente un informe trimestral de su actuación;
-
-j) Cumplir y hacer cumplir los acuerdos del Instituto que se refieran a los asuntos de su competencia; y
-
-k) Las demás que le confiera este Código y otras disposiciones aplicables o el Consejo General.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 93.
 
-1. La Dirección Ejecutiva de Organización, Capacitación y Participación Ciudadana se encargará de supervisar la organización, funcionamiento y vigilancia de los comités electorales y de la selección y capacitación de los ciudadanos que integren las mesas directivas de casilla, así como de supervisar la instrumentación de los procedimientos del plebiscito, referendo, iniciativa popular e integración, vigilancia y certificación de los Consejos de Participación Ciudadana en los términos de la ley aplicable. La Dirección tendrá las atribuciones siguientes:
-
-a) Colaborar en la integración, insaculación de ciudadanos y funcionamiento de las mesas directivas de casilla;
-
-b) Elaborar las propuestas de formatos de la documentación y material electoral y someterlos a la consideración del Secretario Ejecutivo para su presentación ante el Consejo General;
-
-c) Proveer lo necesario para la impresión y distribución de la documentación electoral;
-
-d) Recabar de los comités electorales copias de las actas de las sesiones que celebren y demás documentos relacionados con el proceso electoral, así como los paquetes de votación respectivos, en los términos establecidos en el presente Código y demás disposiciones aplicables;
-
-e) Garantizar que la documentación electoral esté debidamente integrada y que sea recibida oportunamente por los comités electorales;
-
-f) Revisar que la conformación de los distritos electorales cumpla con los requisitos legales y, en su caso, proponer las modificaciones necesarias;
-
-g) Conformar e integrar los materiales a utilizar el día de la jornada electoral y hacerse responsable de su entrega;
-
-h) Realizar lo conducente al registro y acreditación de los observadores electorales;
-
-i) Elaborar y proponer al Consejo General, previo análisis de la Comisión de organización y capacitación, los programas de capacitación electoral a ciudadanos, que serán desarrollados por los comités electorales, así como supervisar y asesorar a dichos comités en la aplicación de los mismos;
-
-j) Promover entre los ciudadanos, en el ámbito de su competencia, el ejercicio de sus derechos y el cumplimiento de sus deberes electorales;
-
-k) Seleccionar a los capacitadores electorales y evaluar su desempeño;
-
-l) Presentar al Consejero Presidente un informe trimestral de su actuación;
-
-m) Elaborar y dar a conocer la estadística electoral por sección, distrito, municipio y estado, una vez concluido el proceso electoral.
-
-n) Elaborar el Programa de Participación Ciudadana y presentarlo ante el Consejo General;
-
-o) Conocer, estudiar y dictaminar toda solicitud de plebiscito y referendo para que el Consejo General resuelva sobre su procedencia;
-
-p) Validar el porcentaje ciudadano del plebiscito y referendo;
-
-q) Instrumentar los procedimientos del plebiscito, referendo y de integración, vigilancia y certificación de los Consejos de Participación Ciudadana, en los términos de las disposiciones aplicables; y
-
-r) Las demás que le confiera este Código y otras disposiciones aplicables o el Consejo General.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 94.
 
-1. La Dirección Ejecutiva de Prerrogativas y Partidos Políticos es responsable de atender los asuntos relativos a los partidos políticos, garantizar el otorgamiento del financiamiento público y asegurar la distribución y uso de las demás prerrogativas a que tienen derecho conforme a lo establecido en este Código. La Dirección tendrá las atribuciones siguientes:
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
-a) Conocer de las notificaciones que formulen las organizaciones que pretendan constituirse como partidos políticos y realizar las actividades pertinentes;
-
-b) Recibir las solicitudes de registro de las organizaciones de ciudadanos que hayan cumplido los requisitos establecidos en este Código para constituirse como partido político, e integrar el expediente respectivo para que el secretario ejecutivo lo someta a la consideración del Consejo General;
-
-c) Inscribir en el libro respectivo el registro de partidos, así como los convenios de fusión, frentes, coaliciones y candidaturas comunes;
-
-d) Ministrar a los partidos políticos, por conducto de la Dirección Ejecutiva de Administración, el financiamiento público al que tienen derecho conforme a lo señalado en este Código;
-
-e) Apoyar las gestiones de los partidos políticos para ejercer las prerrogativas que tienen conferidas en materia fiscal;
-
-f) Realizar lo necesario para que los partidos políticos ejerzan sus prerrogativas de acceso a los tiempos en radio y televisión, en los términos establecidos por la Base III del artículo 41 de la Constitución General de la República y lo dispuesto en el Código federal y en el presente ordenamiento;
-
-g) Elaborar y presentar al Secretario Ejecutivo las pautas para la asignación del tiempo que corresponde a los partidos políticos en radio y televisión, para su aprobación por el Consejo General;
-
-h) Llevar el libro de registro de los integrantes de los órganos directivos de los partidos políticos a nivel estatal y de sus representantes acreditados ante los órganos del Instituto;
-
-i) Llevar el libro de registro de los candidatos a los puestos de elección popular;
-
-j) Acordar con el secretario ejecutivo del Instituto, los asuntos de su competencia; y
-
-k) Las demás que le confiera este Código.
+> <small>(DEROGADO CON LOS CAPÍTULOS Y ARTÍCULOS QUE LO INTEGRAN POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)</small>
 
 ## TÍTULO TERCERO. DE LOS ÓRGANOS DESCONCENTRADOS DEL INSTITUTO
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)</small>
 
 ### CAPÍTULO PRIMERO. DISPOSICIONES GENERALES
 
 ###### Artículo 95.
 
-1. Para cada proceso electoral estatal el Instituto contará, según corresponda, con los siguientes órganos desconcentrados:
-
-a) Comités Distritales Electorales, y
-
-b) Comités Municipales Electorales.
-
-2. Los comités distritales electorales funcionarán durante los procesos electorales en que se renueven el titular del Poder Ejecutivo del Estado o los integrantes de la Legislatura Estatal.
-
-3. Los comités municipales electorales funcionarán durante los procesos electorales en que se renueven los integrantes de los ayuntamientos.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 96.
 
-1. Los comités distritales electorales son órganos encargados de la preparación, organización, desarrollo y vigilancia del proceso electoral para la elección de Gobernador y de diputados al Congreso del Estado, dentro de sus respectivos distritos, conforme a lo estipulado en este Código y demás disposiciones aplicables.
-
-2. Los comités distritales electorales deberán quedar instalados dentro de la segunda semana del mes de enero del año de la elección y quedarán disueltos una vez concluido el proceso electoral.
-
-3. Para el año de la elección el presupuesto del Instituto establecerá los recursos necesarios para el adecuado funcionamiento de los comités distritales electorales, así como las plazas temporales y la remuneración y derechos que corresponda a cada una de ellas.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 97.
 
-1. En cada uno de los distritos electorales en que se divida el Estado, funcionará un comité distrital electoral, con residencia en la cabecera del distrito correspondiente.
-
-2. Los comités distritales electorales podrán contar, para su auxilio, con los delegados municipales que se requieran para cubrir las necesidades que, por el número de electores y la configuración del distrito, se presenten.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 98.
 
-1. Los comités distritales electorales se integrarán con un presidente, un secretario y tres consejeros distritales electorales designados por el Consejo General del Instituto y por un representante de cada uno de los partidos políticos, y su respectivo suplente, en los términos que establezca este Código y demás disposiciones aplicables.
-
-2. El Presidente, el Secretario y los tres consejeros distritales tendrán derecho a voz y voto, y por cada uno de ellos se designara un suplente. Los representantes de los partidos políticos únicamente tendrán derecho a voz.
-
-3. Cuando exista un (sic) vacante en el Comité distrital, se cubrirá de acuerdo al procedimiento establecido en el Reglamento Interior.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 99.
 
-1. Para ser presidente, secretario o consejero de un comité distrital electoral, se requiere:
-
-a) Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;
-
-b) Acreditar residencia no menor de un año en el Estado;
-
-c) No desempeñar o haber desempeñado cargos de elección popular, en los últimos tres años anteriores a su designación.
-
-d) No ser, ni haber sido en el año anterior a la designación, funcionario de mando superior, federal, estatal o municipal, exceptuando aquellos que desempeñen, o hayan desempeñado, cargos en los órganos electorales federales o estatales, tanto administrativos como jurisdiccionales.
-
-e) No formar parte ni haberlo hecho, en los cinco años previos a la designación, de algún órgano de dirección de un partido político; y
-
-f) Contar con conocimientos o experiencia para el desempeño adecuado de sus funciones.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 100.
 
-1. Los comités distritales electorales sesionarán válidamente cuando cuenten con la asistencia de la mayoría de sus integrantes con derecho a voto, entre los cuales deberá estar su presidente. De no existir quórum, se citará nuevamente y la sesión se celebrará con quienes asistan, debiendo estar presentes, en todo caso, el Presidente, el Secretario y un consejero distrital electoral.
-
-2. Las decisiones se tomarán por mayoría de votos, salvo en los casos previstos en este Código. En caso de empate, el voto del presidente será de calidad.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 101.
 
-1. Los comités distritales electorales tendrán las atribuciones siguientes:
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
-a. Observar el Código, en lo relativo a sus funciones y cumplir con los acuerdos que dicte el Consejo General;
-
-b. Intervenir, dentro de sus respectivos distritos, en la preparación, organización, desarrollo y vigilancia del proceso electoral, de acuerdo a lo establecido en este Código y demás disposiciones aplicables;
-
-c. Recibir y resolver las solicitudes de registro de candidatos a Diputados que sean presentadas por los partidos políticos;
-
-d. Resolver sobre las peticiones que les sometan los ciudadanos, los candidatos y los partidos políticos relativas al desarrollo del proceso electoral y demás asuntos de su competencia;
-
-e. Realizar el cómputo distrital para la elección de Gobernador y de diputados por ambos principios;
-
-f. Expedir y entregar la constancia de mayoría a la fórmula de candidatos a diputado de mayoría relativa que haya obtenido el triunfo, informando inmediatamente al Consejo General;
-
-g. Enviar la documentación del cómputo distrital al Secretario Ejecutivo del Instituto para que éste realice el cómputo estatal de la elección de Gobernador y de diputados de representación proporcional, para los efectos establecidos en este Código;
-
-h. Remitir al Secretario Ejecutivo copia certificada de las actas de las sesiones que celebren e informarle permanentemente sobre el desarrollo de sus funciones;
-
-i. Designar al personal que sea necesario para el desempeño de sus funciones, atendiendo las disposiciones que emita la Junta General Ejecutiva y la disponibilidad presupuestal;
-
-j. Ejecutar, cuando las elecciones de Gobernador y de diputados al Congreso del Estado, no coincidan con la de ayuntamientos, el programa de capacitación electoral a los ciudadanos insaculados para la integración de las mesas directivas de casilla, realizar su evaluación y seleccionar a los que habrán de fungir como funcionarios de las mismas el día de la jornada electoral, siguiendo los lineamientos que al efecto emita al Consejo General;
-
-k. Auxiliar a los comités municipales electorales de su ámbito territorial en el proceso de capacitación y selección de integrantes de las mesas directivas de casilla; y
-
-l. Las demás que les confiera este Código, otras disposiciones aplicables o el Consejo General.
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)</small>
 
 ### CAPÍTULO TERCERO (SIC). DE LOS COMITÉS MUNICIPALES
 
 ###### Artículo 102.
 
-1. Los comités municipales electorales son los órganos encargados de la organización, preparación, desarrollo y vigilancia, dentro de su circunscripción, de los procesos electorales para la elección de integrantes de los Ayuntamientos.
-
-2. Los Comités municipales electorales deberán quedar instalados a más tardar la segunda semana del mes de marzo del año de la elección y quedarán disueltos una vez concluido el proceso electoral.
-
-3. Para el año de la elección el presupuesto del Instituto establecerá los recursos necesarios para el adecuado funcionamiento de los comités municipales electorales, así como las plazas temporales y la remuneración y derechos que corresponda a cada una de ellas.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 103.
 
-1. Los comités municipales electorales se integrarán con un presidente, un secretario y tres consejeros distritales electorales designados por el Consejo General del Instituto y por un representante de cada uno de los partidos políticos, y su respectivo suplente, en los términos que establezca este Código y demás disposiciones aplicables.
-
-2. El Presidente, el Secretario y los tres consejeros municipales tendrán derecho a voz y voto, y por cada uno de ellos se designara un suplente. Los representantes de los partidos políticos únicamente tendrán derecho a voz.
-
-3. Cuando exista una vacante en los Comité (sic) municipales, se cubrirá de acuerdo al procedimiento establecido en el Reglamento Interior.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 104.
 
-1. Los comités municipales electorales tendrán las atribuciones siguientes:
-
-a) Observar el Código, en lo relativo a sus funciones y cumplir con los acuerdos que dicte el Consejo General;
-
-b) Intervenir, dentro de su ámbito territorial, en la preparación, organización, desarrollo y vigilancia del proceso electoral, de acuerdo a lo establecido en este Código y demás disposiciones aplicables;
-
-c) Recibir y resolver las solicitudes de registro de las planillas de candidatos a los ayuntamientos que sean presentadas por los partidos políticos;
-
-d) Resolver sobre las peticiones que les sometan los ciudadanos, los candidatos y los partidos políticos relativas al desarrollo del proceso electoral y demás asuntos de su competencia;
-
-e) Ejecutar el programa de capacitación electoral a los ciudadanos insaculados para la integración de las mesas directivas de casilla, realizar su evaluación y seleccionar a los que habrán de fungir como funcionarios de las mismas el día de la jornada electoral, siguiendo los lineamientos que al efecto emita al Consejo General;
-
-f) Realizar el cómputo municipal de la elección del ayuntamiento que les corresponda;
-
-g) Expedir y entregar la constancia de mayoría a la planilla de candidatos que haya obtenido el triunfo, así como las constancias de asignación que procedan en el caso de regidores de representación proporcional y segunda sindicatura, informando inmediatamente al Consejo General;
-
-h) Remitir al Secretario Ejecutivo copia certificada de las actas de las sesiones que celebren e informarle permanentemente sobre el desarrollo de sus funciones;
-
-i) Designar al personal que sea necesario para el desempeño de sus funciones, atendiendo las disposiciones que emita la Junta General Ejecutiva y la disponibilidad presupuestal; y
-
-j) Las demás que les confiera este Código, otras disposiciones aplicables o el Consejo General.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 105.
 
-1. Los comités municipales electorales sesionarán válidamente cuando cuenten con la asistencia de la mayoría de sus integrantes con derecho a voto, entre los cuales deberá estar presente su presidente. De no existir quórum, se citará nuevamente y la sesión se celebrará con quienes asistan, debiendo estar presentes, en todo caso, su presidente, el secretario y un consejero.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)</small>
 
 ## TÍTULO CUARTO. DE LAS MESAS DIRECTIVAS DE CASILLA
 
 ###### Artículo 106.
 
-1. Las mesas directivas de casilla son los órganos electorales integrados por ciudadanos, facultados para recibir la votación y realizar el escrutinio y cómputo en cada una de las secciones electorales en que se divida la Entidad.
-
-2. Las mesas directivas de casilla deberán, durante la jornada electoral, respetar y hacer respetar la libre emisión y efectividad del voto, garantizar su secreto y asegurar la autenticidad del escrutinio y cómputo.
-
-3. Las mesas directivas de casilla se integrarán con un presidente, un secretario técnico, un escrutador y un suplente, quien entrará en función de cualquiera de los otros funcionarios propietarios en los casos previstos por el presente Código.
-
-4. El Instituto, en coordinación con los comités distritales y municipales electorales, será el responsable de la designación de los funcionarios de las mesas directivas de casilla y de la ubicación de las mismas.
-
-5. Los partidos políticos nacionales y estatales podrán registrar representantes ante las mesas directivas de casilla, así como representantes generales.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 107.
 
-1. Los ciudadanos a quienes corresponda asistir a los cursos de capacitación para aspirantes a funcionarios de las mesas directivas de casilla, tendrán derecho a que sus patrones les concedan permiso con goce de sueldo y demás prestaciones salariales correspondientes al día de trabajo en que hayan tenido que asistir a capacitarse, así como el del día de la jornada electoral cuando les hubiese correspondido trabajar.
-
-2. El Instituto pondrá en conocimiento de las autoridades competentes, toda irregularidad o violación a los derechos, que cometa el patrón en contra del ciudadano, derivado de lo establecido en el párrafo anterior.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 108.
 
-1. Para ser integrante de la mesa directiva de casilla se requiere:
-
-a. Ser ciudadano residente en la sección electoral que comprenda la casilla;
-
-b. Estar inscrito en el Registro Federal de Electores y contar con credencial para votar;
-
-c. Estar en ejercicio de sus derechos políticos;
-
-d. Saber leer y escribir y tener un modo honesto de vivir;
-
-e. Haber participado en el curso de capacitación electoral impartido por los comités electorales; y
-
-f. No ser servidor público de confianza con mando superior, ni tener cargo de dirección partidista.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 109.
 
-1. Las mesas directivas de casilla tendrán las atribuciones siguientes:
-
-a) Instalar y clausurar la casilla en los términos previstos por este Código y demás disposiciones aplicables.
-
-b) Recibir la votación.
-
-c) Efectuar el escrutinio y cómputo de la votación.
-
-d) Permanecer en la casilla desde su instalación hasta la conclusión de las labores que este Código señala.
-
-e) Formular el acta que dé fe de la instalación, cierre, escrutinio, cómputo y formación del paquete electoral.
-
-f) Integrar los paquetes electorales respectivos con la documentación correspondiente a cada elección para hacerlos llegar, según corresponda, a los comités distritales o municipales electorales, o centros de información electoral.
-
-g) Las demás que les confiera este Código y otras disposiciones aplicables.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 110.
 
-1. Los integrantes de las mesas directivas de casilla tienen las atribuciones siguientes:
-
-a) El presidente:
-
-I. Presidir los trabajos de la mesa directiva de casilla y velar por el cumplimiento de las disposiciones contenidas en el presente Código, a lo largo del desarrollo de la jornada electoral;
-
-II. Recibir de los comités electorales la documentación y elementos necesarios para el funcionamiento de la casilla y conservarlos bajo su responsabilidad hasta la instalación de la misma;
-
-III. Identificar a los electores por medio de su credencial para votar;
-
-IV. Mantener el orden en la casilla electoral y en sus inmediaciones, incluso con el auxilio de la fuerza pública si fuese necesario;
-
-V. Suspender la votación en caso de alteración del orden, cuando existan circunstancias o condiciones que impidan la libre emisión y el secreto del sufragio o que atenten contra la seguridad personal de los electores, de los representantes de los partidos o de los miembros de la mesa directiva;
-
-VI. Retirar de la casilla a cualquier persona que incurra en la alteración del orden, impida la libre emisión del sufragio, viole el secreto del voto, realice actos que afecten la autenticidad y certeza del escrutinio y cómputo, intimide o ejerza violencia sobre los miembros de la mesa directiva, los representantes de los partidos o los electores;
-
-VII. Practicar, con auxilio del secretario y de los escrutadores y ante los representantes de los partidos políticos presentes, el escrutinio y cómputo;
-
-VIII. Turnar, una vez concluidas las labores de la casilla electoral, la documentación y los paquetes, al comité distrital o municipal electoral, según sea el caso; y
-
-IX. Fijar en un lugar visible al exterior de la casilla los resultados del cómputo de cada una de las elecciones.
-
-b) El secretario:
-
-I. Levantar durante la jornada electoral las actas que ordene el presente Código y demás disposiciones aplicables, y distribuirlas en los términos que establezca el mismo;
-
-II. Cotejar los nombramientos de los representantes de los partidos políticos ante la casilla, identificando a los mismos de manera fehaciente;
-
-III. Contar antes del inicio de la votación y ante los representantes de los partidos políticos que se encuentren presentes, las boletas electorales recibidas y anotar su número en el acta de instalación;
-
-IV. Comprobar que el nombre del elector figure en la lista nominal correspondiente;
-
-V. Recibir los escritos de protesta que presenten los representantes de los partidos políticos;
-
-VI. Contar las boletas sobrantes e inutilizarlas por medio de dos rayas diagonales al frente;
-
-VII. Auxiliar al escrutador en la realización del cómputo y el escrutinio de los votos;
-
-VIII. Integrar el paquete de votación; y
-
-IX. Auxiliar al presidente en todas las labores de la casilla.
-
-c) El escrutador:
-
-I. Contar la cantidad de boletas depositadas en cada urna, y el número de electores que votaron conforme a las marcas asentadas en la lista nominal de electores, cerciorándose de que ambas cifras sean coincidentes y, en caso de no serlo, consignar el hecho;
-
-II. Contar el número de votos emitidos en favor de cada partido y sus respectivos candidatos; y
-
-III. Auxiliar al presidente o al secretario en las actividades que les encomienden.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 111.
 
-1. Los integrantes del Consejo General, de los comités electorales y los ciudadanos que integran las mesas directivas de casilla, deberán rendir la protesta de guardar y hacer guardar la Constitución Federal, la particular del Estado y las leyes que de ella emanen, cumplir con las normas contenidas en este Código, y desempeñar leal y patrióticamente la función que se les ha encomendado.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 112.
 
-1. Los partidos políticos deberán acreditar a sus representantes ante los comités electorales a más tardar dentro de los treinta días siguientes a la fecha de la sesión de instalación del comité de que se trate.
-
-2. Vencido este plazo, los partidos que no hayan acreditado a sus representantes no formarán parte del comité respectivo durante el proceso electoral.
-
-3. Los partidos políticos podrán sustituir en todo tiempo a sus representantes ante el Consejo General y los comités del Instituto.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 113.
 
-1. Cuando el representante propietario de un partido, y en su caso el suplente, no asistan sin causa justificada por tres veces consecutivas a las sesiones del Consejo o de los comités del Instituto ante el cual se encuentren acreditados, el partido político dejará de formar parte del mismo durante el proceso electoral de que se trate. A la primera falta se requerirá al representante para que concurra a la sesión y se dará aviso al partido político a fin de que compela a asistir a su representante.
-
-2. Los comités electorales informarán por escrito al Consejo General de cada ausencia, para que este último entere a los representantes de los partidos políticos.
-
-3. La resolución del Consejo o comité correspondiente se notificará al partido político respectivo.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 114.
 
-1. Los órganos del Instituto expedirán, a solicitud de los representantes de los partidos políticos, copias certificadas de las actas de las sesiones que celebren.
-
-2. El secretario del órgano correspondiente recabará el recibo de las copias certificadas que expida conforme a este artículo.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 115.
 
-1. Las sesiones del Consejo General y de los comités electorales serán públicas.
-
-2. El público asistente deberá guardar el debido orden en el recinto donde se celebren las sesiones.
-
-3. Para garantizar el orden, los presidentes podrán tomar las siguientes medidas:
-
-4. Exhortación a guardar el orden;
-
-5. Conminar a abandonar el local; y
-
-6. Solicitar el auxilio de la fuerza pública para restablecer el orden y expulsar a quienes lo hayan alterado.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 116.
 
-1. En las mesas de sesiones del Consejo General y los comités sólo ocuparán lugar y tomarán parte en las deliberaciones los presidentes, consejeros, secretarios, representantes de los partidos políticos y, en su caso, los funcionarios que determina este Código.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 117.
 
-1. Las autoridades estatales y municipales están obligadas a proporcionar a los órganos del Instituto, a petición de los presidentes respectivos, los informes, las certificaciones y el auxilio de la fuerza pública necesarios para el cumplimiento de sus funciones y resoluciones.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 118.
 
-1. Los comités electorales, dentro de las veinticuatro horas siguientes a su instalación, remitirán copia del acta respectiva al secretario ejecutivo del Instituto para dar cuenta al Consejo General.
-
-2. En idéntica forma procederán respecto de las subsecuentes sesiones.
-
-3. A solicitud de los representantes de los partidos políticos los secretarios de los órganos del Instituto, expedirán copias certificadas de las actas de las respectivas sesiones a más tardar a los cinco días de haberse aprobado aquéllas. Los secretarios serán responsables por la inobservancia.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 119.
 
-1. El Secretario Ejecutivo del Instituto es el superior jerárquico del secretario y de los servidores públicos adscritos a los comités electorales.
-
-2. El secretario del comité distrital o municipal es el superior jerárquico directo de los servidores públicos adscritos al comité respectivo.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 120.
 
-1. El Presidente y el Secretario de cada comité distrital o municipal percibirán, durante el proceso electoral la remuneración mensual que determine el presupuesto del Instituto, así como en (sic) manual de percepciones.
-
-2. Durante el proceso electoral los consejeros distritales y municipales percibirán la dieta de asistencia que señale el presupuesto del Instituto, así como los apoyos materiales y técnicos indispensables para el desempeño de su cargo.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 121.
 
-1. El Instituto dispondrá lo necesario para asegurar el cumplimiento de las normas antes establecidas y de las demás dispuestas en este Código.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 122.
 
-1. Durante los procesos electorales estatales, todos los días y horas son hábiles.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
-2. Los comités electorales determinarán sus horarios de labores teniendo en cuenta lo establecido en el párrafo anterior. De los horarios que fijen informarán al secretario ejecutivo del Instituto y a los partidos políticos.
+> <small>(DEROGADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)</small>
 
 ## TÍTULO SEXTO (SIC). DEL SERVICIO PROFESIONAL ELECTORAL
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN POR ARTÍCULO SEGUNDO TRANSITORIO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)</small>
 
 ### CAPÍTULO ÚNICO. BASES GENERALES
 
 ###### Artículo 123.
 
-1. Conforme a lo dispuesto por el inciso g) de la Base 5 del artículo 27 de la Constitución y para asegurar el desempeño profesional de las actividades del Instituto, por conducto de la Dirección Ejecutiva competente se organizará y desarrollará el servicio profesional electoral.
-
-2. La objetividad y la imparcialidad que en los términos de la Constitución orientan la función estatal de organizar las elecciones serán los principios para la formación de los miembros del servicio.
-
-3. La organización del servicio será regulada por las normas establecidas por este Código y por las del Estatuto que apruebe el Consejo General.
-
-4. La Junta General Ejecutiva elaborará el proyecto de Estatuto, que será sometido a la consideración de la Comisión de Administración y del Servicio Profesional por el Secretario Ejecutivo para su aprobación y presentación al Consejo General.
-
-5. El Estatuto desarrollará, concretará y reglamentará las bases normativas contenidas en este Título.
-
-6. El cuerpo del Servicio Profesional Electoral se circunscribe a los órganos permanentes del Instituto.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 124.
 
-1. El cuerpo del Servicio Profesional Electoral se integrará por dos áreas, la de función directiva y la de función técnica.
-
-2. El área de la función directiva contará con el personal necesario para cubrir los cargos cuyas atribuciones versen sobre dirección, mando y supervisión; y
-
-3. El área técnica contará con el personal necesario para cubrir los puestos y realizar las actividades de naturaleza técnica administrativa.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 125.
 
-1. El ingreso al Servicio Profesional Electoral procederá cuando el aspirante cumpla y acredite los requisitos personales, académicos, de buena reputación y de imparcialidad que, para cada área funcional, señalen las disposiciones correspondientes, siempre que haya cumplido con los cursos de formación y capacitación respectivos y realice las prácticas en los órganos del Instituto.
-
-2. Solamente serán vías de acceso al Servicio Profesional Electoral, el examen o el concurso, según lo señalen las normas estatutarias.
-
-3. La Junta General Ejecutiva será el órgano que instrumente el Servicio Profesional Electoral.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 126.
 
-1. Las disposiciones que regulen el Servicio Profesional Electoral deberán:
-
-a) Definir los niveles o rangos de cada área y los cargos o puestos a los que dé acceso;
-
-b) Integrar el catálogo de cargos y puestos del Instituto;
-
-c) Determinar las bases para el reclutamiento y la selección de los funcionarios y técnicos que accederán a las áreas;
-
-d) Otorgar la titularidad, en un nivel o rango de un área y para el nombramiento en un cargo o puesto;
-
-e) Precisar los mecanismos para la formación y capacitación profesional y los métodos para la evaluación del rendimiento;
-
-f) Determinar los sistemas de ascensos y de movimientos a los cargos o puestos;
-
-g) Precisar los mecanismos para la aplicación de sanciones administrativas o remociones. Los ascensos se otorgarán sobre las bases del mérito y rendimiento;
-
-h) Organizar las áreas que formen parte del Servicio Profesional Electoral;
-
-i) Establecer las bases y normas para la composición, ascensos, estímulos y permanencia laboral, así como las sanciones administrativas y condiciones generales de trabajo;
-
-j) Definir la permanencia de las funciones electorales, con relación a puestos o cargos;
-
-k) Establecer los mecanismos y previsiones que garanticen la independencia e imparcialidad del personal que forme parte del Servicio Profesional Electoral; y
-
-l) Establecer las demás normas necesarias para la organización y el buen funcionamiento del Instituto.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 127.
 
-1. El Consejo General, a propuesta de la Junta General Ejecutiva, emitirá el Reglamento al que se sujetará el reclutamiento, selección, catálogo de puestos y remuneraciones del personal administrativo y técnico que se requiera contratar con motivo de los procesos electorales estatales, tanto del adscrito a los órganos centrales como a los comités electorales.
-
-2. El personal a que se refiere el párrafo anterior no formará parte del Servicio Profesional Electoral; los contratos individuales de trabajo serán siempre de naturaleza temporal, garantizando en todo caso el cumplimiento de los derechos laborales.
-
-3. En todo caso, quienes hayan sido contratados de manera temporal, tendrán preferencia, en igualdad de las demás condiciones, para aspirar al ingreso al Servicio Profesional Electoral.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 ###### Artículo 128.
 
-1. Las relaciones laborales entre el Instituto y sus trabajadores se regirán por lo dispuesto en el Estatuto del Servicio Profesional Electoral; serán de aplicación supletoria, en lo conducente, el Estatuto Jurídico para los Trabajadores al Servicio del Estado y de los Municipios, así como la Ley de Pensiones y Otros Beneficios Sociales para los Trabajadores al Servicio del Estado.
-
-2. En los términos de lo dispuesto por la fracción VI del artículo 116 de la Constitución Federal, en relación con lo establecido en la fracción XIV del Apartado B del artículo 123 de la misma, todo el personal del Instituto será considerado de confianza.
-
-3. Las diferencias o conflictos entre el Instituto y sus servidores serán resueltas por el Tribunal Electoral conforme al procedimiento previsto en la ley de la materia.
+(DEROGADO POR EL TRANSITORIO SEGUNDO DE LA LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA, P.O. 19 DE FEBRERO DE 2016)
 
 # LIBRO CUARTO. DEL PROCESO ELECTORAL
 
@@ -4268,3 +3508,19 @@ PRIMERO.- El presente decreto deberá publicarse en el periódico Oficial del Go
 SEGUNDO.- La reforma al artículo 45 su vigencia iniciará a partir del 1 de enero del año 2014, hasta en tanto se observara lo dispuesto en el ordenamiento vigente.
 
 TERCERO.- Notifíquese al Instituto Electoral y de Participación Ciudadana de Coahuila para los efectos correspondientes.
+
+P.O. 19 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NO. 369.- LEY ORGÁNICA DEL INSTITUTO ELECTORAL DE COAHUILA".]
+
+PRIMERO.- La presente Ley entrará en vigor al día siguiente de la publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se deroga el Libro Tercero denominado "Del Instituto" del Código Electoral del Estado de Coahuila de Zaragoza, publicado en el Periódico Oficial del Estado el 29 de junio de 2010, permaneciendo vigentes las restantes porciones normativas.
+
+TERCERO. El Instituto Electoral de Coahuila atenderá los asuntos electorales que se encuentren en trámite a la entrada en vigor de la presente Ley, mismos que serán resueltos conforme a las normas vigentes en el momento en el que fueron iniciados.
+
+Así mismo, se encargará de los asuntos que, en todo caso, sean delegados por el Instituto Nacional Electoral, de conformidad con lo establecido por la Ley General de Instituciones y Procedimientos Electorales.
+
+CUARTO. El Consejo General del Instituto Electoral de Coahuila deberá expedir los reglamentos necesarios para hacer efectivas las disposiciones de la presente ley dentro de los siguientes 60 días naturales después de su entrada en vigor.
+
+QUINTO. El Congreso del Estado contará con un plazo no mayor a 30 días naturales contados a partir de la entrada en vigor del presente Decreto para designar a quien se desempeñará como contralor del Instituto.
