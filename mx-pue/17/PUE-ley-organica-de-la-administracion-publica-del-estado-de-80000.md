@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-administracion-publica-del-estado-de-80000"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-02-11"
-last_updated: "2015-10-29"
+last_updated: "2016-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=80000&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE OCTUBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2016.
 
 Ley publicada en la Sexta Sección del Periódico Oficial del Estado de Puebla, el viernes 11 de febrero de 2011.
 
@@ -51,7 +51,9 @@ LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA
 
 La presente Ley establece las bases para la organización y el funcionamiento de la Administración Pública Estatal, Centralizada y Paraestatal.
 
-El Titular del Poder Ejecutivo, las Secretarías, la Procuraduría General de Justicia, así como las unidades administrativas que dependan directamente del Gobernador del Estado, integrarán la Administración Pública Centralizada. A estas unidades administrativas se les denominará genéricamente como Dependencias.
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2016)</small>
+
+El Titular del Poder Ejecutivo, las Secretarías, así como las unidades administrativas que dependan directamente del Gobernador del Estado, integrarán la Administración Pública Centralizada. A estas unidades administrativas se les denominará genéricamente como Dependencias.
 
 Los Organismos Públicos Descentralizados, las Empresas de Participación Estatal Mayoritaria, los Fideicomisos Públicos, las Comisiones y demás órganos de carácter público que funcionen en el Estado, diversos de los otros poderes y de los Órganos Constitucionalmente Autónomos, conforman la Administración Pública Paraestatal. A estas unidades administrativas se les denominará genéricamente como Entidades.
 
@@ -231,7 +233,7 @@ X. SECRETARÍA DE SALUD;
 
 XI. SECRETARÍA DE EDUCACIÓN PÚBLICA;
 
-XII. PROCURADURÍA GENERAL DE JUSTICIA;
+XII. (DEROGADA, P.O. 20 DE FEBRERO DE 2016)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -243,9 +245,11 @@ XV. SECRETARÍA DE SEGURIDAD PÚBLICA; y
 
 XVI. (DEROGADA, P.O. 31 DE DICIEMBRE DE 2012)
 
+> <small>(REFORMADO, P.O. 20 DE FEBRERO DE 2016)</small>
+
 ###### ARTÍCULO 18.
 
-Las Secretarías y la Procuraduría General de Justicia, tendrán igual rango y entre ellas no habrá, por lo tanto, preeminencia alguna. Cuando para la atención de algún asunto exista duda respecto de la competencia de las Dependencias, el Gobernador del Estado decidirá a cuál de ellas le corresponde atenderlo.
+Las Secretarías, tendrán igual rango y entre ellas no habrá, por lo tanto, preeminencia alguna. Cuando para la atención de algún asunto exista duda respecto de la competencia de las Dependencias, el Gobernador del Estado decidirá a cuál de ellas le corresponde atenderlo.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -1835,75 +1839,13 @@ XL.- Imponer y aplicar sanciones en los términos de las leyes, reglamentos y de
 
 XLI.- Los demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
 
-### CAPÍTULO XIII. DE LA PROCURADURÍA GENERAL DE JUSTICIA
+> <small>(DEROGADA SU DENOMINACIÓN, P.O. 20 DE FEBRERO DE 2016)</small>
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 11 DE MAYO DE 2012)</small>
+### CAPÍTULO XIII
 
 ###### ARTÍCULO 45.
 
-La Procuraduría General de Justicia tiene las facultades y obligaciones que específicamente le confiere la Constitución Política del Estado, su Ley Orgánica, y demás ordenamientos aplicables, teniendo en el orden administrativo las siguientes:
-
-I.- Vigilar que se observen los principios de constitucionalidad y legalidad en el ámbito de su competencia, sin perjuicio de las atribuciones que legalmente le corresponden a las autoridades judiciales o administrativas;
-
-II.- Hacer del conocimiento del Gobernador del Estado y del Congreso del Estado, los casos en que una ley, reglamento, decreto o cualquier otra disposición de carácter general resulte contraria al texto de la Constitución Política de los Estados Unidos Mexicanos, a la del Estado, proponiendo lo conducente;
-
-III.- Nombrar y remover a los Agentes del Ministerio Público, en los términos que disponga la Ley Orgánica de la Procuraduría General de Justicia;
-
-IV.- Cambiar la adscripción a los Agentes del Ministerio Público;
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-V.- Coordinar y supervisar la actuación de los Agentes del Ministerio Público para que se apeguen a los procedimientos establecidos en la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado Libre y Soberano de Puebla, y en los demás ordenamientos legales aplicables;
-
-VI.- Prestar a las autoridades competentes, el auxilio necesario para el debido ejercicio de sus funciones públicas;
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-VII.- Coordinar su actuación con la Procuraduría General de la República, con la del Distrito Federal y con las de otras entidades federativas y, en su caso, celebrar convenios de colaboración para tal efecto;
-
-VIII.- Llevar el control de la estadística de incidencia delictiva y mantener actualizado el registro de identificación criminal;
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-IX.- Ejercer el mando y conducción de la Policía Ministerial, así como de los Cuerpos de Seguridad Pública Estatal y Municipales, cuando éstos auxilien al Ministerio Público en la función de investigación;
-
-X.- Imponer al personal de la dependencia las sanciones que correspondan por el incumplimiento de las obligaciones o incurrir en los impedimentos de los señalados en la Ley Orgánica de la Procuraduría General de Justicia del Estado;
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-XI.- Atender, verificar y dar respuesta a las recomendaciones que emitan tanto la Comisión Nacional de los Derechos Humanos como la Comisión de Derechos Humanos del Estado, en relación a su actuación o competencia;
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
-
-XII.- Llevar a cabo programas de fomento a la cultura de la denuncia, así como aquéllos que en materia de prevención del delito establezca la Secretaría General de Gobierno;
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-XIII.- Prestar consejo jurídico y representar legalmente al Gobierno del Estado;
-
-XIV.- Prestar atención a las víctimas de delitos en los términos establecidos en las leyes de la materia;
-
-XV.- (DEROGADA, P.O. 14 DE MARZO DE 2014)
-
-XVI.- Organizar, dirigir y administrar el servicio de carrera ministerial, pericial y de policía ministerial;
-
-XVII.- Proponer al seno del Sistema Estatal de Seguridad Pública, políticas, acciones y estrategias en materia de Procuración de Justicia;
-
-> <small>(REFORMADA, P.O. 11 DE MAYO DE 2012)</small>
-
-XVIII.- Intervenir en los procedimientos judiciales y administrativos en los que la Procuraduría sea parte o tenga interés jurídico, de conformidad con las facultades que le otorguen los ordenamientos vigentes y los convenios y sus anexos, celebrados por la Administración Pública Estatal con la Federación y los Municipios, así como representar legalmente a la Procuraduría en lo relativo a las relaciones laborales;
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
-
-XIX.- Recibir, tramitar y resolver los procedimientos administrativos, y en su caso, imponer y aplicar sanciones en los términos de las leyes, reglamentos y demás disposiciones legales en materia de su competencia;
-
-> <small>(REFORMADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
-
-XX.- Proteger los derechos individuales y sociales de los incapaces, ausentes, adultos mayores y menores de edad, y asumir y ejercer la representación legal de estos últimos cuando carezcan de ella o se desconozca si la tienen, atendiendo siempre al interés superior del niño; y
-
-> <small>(ADICIONADA, P.O. 30 DE DICIEMBRE DE 2013)</small>
-
-XXI.- Los demás que le atribuyan las Leyes, Reglamentos, Decretos, Convenios, Acuerdos y otras disposiciones vigentes en el Estado.
+(DEROGADO, P.O. 20 DE FEBRERO DE 2016)
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE CAPÍTULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA ESTE ORDENAMIENTO.</small>
 
@@ -2594,3 +2536,11 @@ OCTAVO. El Ejecutivo del Estado realizará las modificaciones normativas que cor
 En tanto no se realicen las reformas a que se refiere el párrafo anterior, la Secretaría de Seguridad Pública, seguirá aplicando los Reglamentos vigentes en todo aquello que no contravengan el sentido del presente Decreto.
 
 NOVENO. Se derogan las disposiciones que se opongan a lo establecido en el presente Decreto.
+
+P.O. 20 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE REFORMA Y DEROGA DIVERSAS DISPOSICIONES DE LA LEY ORGÁNICA DE LA ADMINISTRACIÓN PÚBLICA DEL ESTADO DE PUEBLA”.]
+
+PRIMERO.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al presente Decreto.
