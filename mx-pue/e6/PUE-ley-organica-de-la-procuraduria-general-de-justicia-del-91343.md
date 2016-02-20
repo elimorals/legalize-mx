@@ -4,7 +4,7 @@ identifier: "PUE-ley-organica-de-la-procuraduria-general-de-justicia-del-91343"
 country: "mx"
 rank: "ley_organica"
 publication_date: "2012-12-31"
-last_updated: "2014-11-27"
+last_updated: "2016-02-20"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91343&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "PUE"
 
 LEY ORGÁNICA DE LA PROCURADURÍA GENERAL DE JUSTICIA DEL ESTADO DE PUEBLA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE NOVIEMBRE DE 2014.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO SEXTO DE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE PUEBLA, PUBLICADA EN EL P.O. DE FECHA 20 DE FEBRERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 20 DE FEBRERO DE 2016. (ABROGADA)
 
 Ley publicada en la Sección Décima Cuarta del Periódico Oficial del Estado de Puebla, el lunes 31 de diciembre de 2012.
 
@@ -1485,7 +1487,7 @@ VIII.- Autorizar la entrega vigilada y las operaciones encubiertas, de acuerdo a
 
 > <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
-IX.- Autorizar la ap1icación de los criterios de oportunidad, en términos de los ordenamientos legales aplicables;
+IX.- Autorizar la aplicación de los criterios de oportunidad, en términos de los ordenamientos legales aplicables;
 
 > <small>(ADICIONADA, P.O. 27 DE NOVIEMBRE DE 2014)</small>
 
@@ -1776,3 +1778,23 @@ Para las regiones judiciales en las que no esté vigente el Código Nacional de 
 SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Decreto.
 
 TERCERO. Los procedimientos administrativos iniciados con anterioridad a la entrada en vigor de este Decreto, serán concluidos conforme a las disposiciones vigentes al momento de su inicio.
+
+P.O. 20 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO DEL HONORABLE CONGRESO DEL ESTADO, POR EL QUE EXPIDE LA LEY ORGÁNICA DE LA FISCALÍA GENERAL DEL ESTADO DE PUEBLA".]
+
+PRIMERO. El presente Decreto entrará en vigor al día siguiente de su publicación.
+
+SEGUNDO. Dentro del plazo de noventa días naturales contados a partir de la entrada en vigor del presente Decreto, el Fiscal General deberá emitir el Reglamento de la Ley Orgánica de la Fiscalía General del Estado de Puebla.
+
+Hasta en tanto se expiden el Reglamento y las demás disposiciones normativas, se seguirán aplicando las anteriormente existentes en lo que no se opongan al presente Decreto.
+
+TERCERO. Los procedimientos administrativos iniciados durante la vigencia de la Ley Orgánica de la Procuraduría General de Justicia del Estado de Puebla, continuarán desahogándose hasta su conclusión, con las leyes y normas vigentes en el momento de su iniciación.
+
+CUARTO. El personal que formaba parte de la Procuraduría General de Justicia del Estado de Puebla conservará la antigüedad, derechos y prestaciones de que gozaba.
+
+QUINTO. Hasta en tanto se emiten las disposiciones relativas a las atribuciones del Comité de Adquisiciones de la Fiscalía General, se aplicarán los criterios y procedimientos previstos por la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público Estatal y Municipal, de conformidad con lo establecido por su artículo 4º.
+
+SEXTO. Se abroga la Ley Orgánica de la Procuraduría General de Justicia del Estado de Puebla, publicada en el Periódico Oficial del Estado con fecha treinta y uno de diciembre de dos mil doce.
+
+SÉPTIMO. Se derogan todas las disposiciones que se opongan al presente Decreto.
