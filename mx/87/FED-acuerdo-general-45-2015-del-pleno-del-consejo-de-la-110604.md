@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-45-2015-del-pleno-del-consejo-de-la-110604"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-11-27"
-last_updated: "2015-11-27"
+last_updated: "2016-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=110604&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,422 +19,210 @@ issue_date: "2015-11-20"
 ---
 # ACUERDO GENERAL 45/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE SINALOA, CON RESIDENCIA EN CULIACAN]
 
-LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DEL ESTADO DE AGUASCALIENTES
+ACUERDO GENERAL 45/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE SINALOA, CON RESIDENCIA EN CULIACÁN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 29 DE ABRIL DE 2025.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE FEBRERO DE 2016.
 
-Ley publicada en el Extraordinario del Número 60 del Periódico Oficial del Estado de Aguascalientes, el miércoles 27 de diciembre de 2023.
+Acuerdo publicado en la Quinta Sección del Diario Oficial de la Federación, el viernes 27 de noviembre de 2015.
 
-MARÍA TERESA JIMÉNEZ ESQUIVEL, Gobernadora Constitucional del Estado de Aguascalientes, a sus habitantes sabed:
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno.
 
-Que por el H. Congreso del Estado se me ha comunicado lo siguiente:
+ACUERDO GENERAL 45/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE SINALOA, CON RESIDENCIA EN CULIACÁN.
 
-La LXV Legislatura del Congreso del Estado Libre y Soberano de Aguascalientes, en virtud de su función y facultad constitucional, ha tenido a bien expedir el siguiente:
+CONSIDERANDO
 
-Decreto Número 531
+PRIMERO. En términos de lo dispuesto por los artículos 94, párrafo segundo; 100, párrafos primero y octavo, de la Constitución Política de los Estados Unidos Mexicanos; 68 y 81, fracción II, de la Ley Orgánica del Poder Judicial de la Federación, el Consejo de la Judicatura Federal es el órgano encargado de la administración, vigilancia y disciplina del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y del Tribunal Electoral del mismo, con independencia técnica, de gestión y para emitir sus resoluciones; además, está facultado para expedir acuerdos generales que permitan el adecuado ejercicio de sus atribuciones;
 
-###### ARTÍCULO ÚNICO.
+SEGUNDO. Los artículos 94, párrafo sexto, de la Constitución Política de los Estados Unidos Mexicanos y 81, fracciones IV, V, VI y XXIV; y 144, párrafo segundo, de la Ley Orgánica del Poder Judicial de la Federación, establecen que son atribuciones del Consejo de la Judicatura Federal determinar el número y límites territoriales y, en su caso, la especialización por materia de los juzgados de Distrito y tribunales de Circuito, en cada uno de los Circuitos en que se divide el territorio de la República Mexicana, así como proponer al Pleno para su aprobación, los acuerdos generales de creación de los Centros de Justicia Penal Federal, esta última, que ejerce a través de la Comisión de Creación de Nuevos Órganos, en términos del artículo 42, fracción II Bis, del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la organización y funcionamiento del propio Consejo, publicado el veintidós de noviembre de dos mil trece en el Diario Oficial de la Federación;
 
-Se crea la LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DEL ESTADO DE AGUASCALIENTES.
+TERCERO. El artículo 17 de la Constitución Política de los Estados Unidos Mexicanos establece que toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes; por lo que para cumplir con el mandato constitucional es necesaria la creación de órganos jurisdiccionales, a fin de garantizar que la impartición de justicia sea pronta, completa, imparcial y gratuita;
 
-### Capítulo I. Disposiciones Generales
+CUARTO. El dieciocho de junio de dos mil ocho, se publicó en el Diario Oficial de la Federación el Decreto de modificación de diversos artículos constitucionales, para establecer en nuestro país el modelo de justicia procesal penal acusatorio y oral, que se rige por los principios de publicidad, contradicción, concentración, continuidad e inmediación. Como resultado de lo anterior, el Consejo de la Judicatura Federal en ejercicio de sus atribuciones debe dictar, en su ámbito de competencia, las disposiciones administrativas que sean necesarias para el cumplimiento de la norma constitucional, de manera tal que antes del dieciocho de junio de dos mil dieciséis, todo el territorio nacional opere bajo el nuevo modelo procesal penal;
+
+QUINTO. En sesión de ocho de mayo de dos mil trece, el Pleno del Consejo de la Judicatura Federal aprobó el Plan Maestro de Implementación de la Reforma Penal, en el cual se incluyó la instalación de dos Centros de Justicia Penal Federal en el Estado de Sinaloa;
+
+SEXTO. En ese contexto, el cinco de marzo de dos mil catorce se publicó en el Diario Oficial de la Federación el Código Nacional de Procedimientos Penales, que en su artículo 2 precisa que el objeto del mismo, es establecer las normas para la investigación, el procesamiento y la sanción de los delitos, esclarecer los hechos, proteger al inocente, procurar que el culpable no quede impune y se repare el daño, señalando como ámbito de aplicación en la persecución de ilícitos, la competencia de los órganos jurisdiccionales federales en el marco de los principios y derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales de los que el Estado mexicano sea parte;
+
+SÉPTIMO. El artículo Segundo Transitorio, primer párrafo, del Código Nacional de Procedimientos Penales, señala que la entrada en vigor del mismo, a nivel federal será gradualmente en los términos previstos en la Declaratoria que al efecto emita el Congreso de la Unión, sin que pueda exceder del dieciocho de junio de dos mil dieciséis;
+
+OCTAVO. El diecinueve de noviembre de dos mil catorce se publicó en el Diario Oficial de la Federación el Acuerdo General 36/2014 del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal; y que reforma y adiciona disposiciones de diversos Acuerdos Generales;
+
+NOVENO. El Pleno del Consejo de la Judicatura Federal, en sesión de cuatro de febrero de dos mil quince, aprobó la propuesta del proyecto arquitectónico de edificación de los Centros de Justicia Penal Federal Provisionales, así como de la propuesta de la plantilla de personal de los mismos, en términos del modelo de 2 jueces de Distrito y 1 Sala de Audiencias;
+
+DÉCIMO. En sesión de cuatro de marzo de dos mil quince el Pleno del Consejo de la Judicatura Federal, aprobó el punto de acuerdo presentado por el grupo de trabajo para la Implementación del Sistema de Justicia Penal, relativo a la habilitación provisional como tribunales de alzada del nuevo Sistema de Justicia Penal a los Tribunales Unitarios de Circuito; y
+
+DÉCIMO PRIMERO. El veinticinco de septiembre de dos mil quince se publicó en el Diario Oficial de la Federación el Decreto del Congreso de la Unión de la Declaratoria de entrada en vigor del Código Nacional de Procedimientos Penales, a partir del treinta de noviembre de dos mil quince, en los estados de Chiapas, Chihuahua, Coahuila de Zaragoza, Nayarit, Oaxaca, Sinaloa y Tlaxcala.
+
+Actualmente se cuenta con la infraestructura física para la instalación de un Centro de Justicia Penal Federal en el Estado de Sinaloa, con residencia en Culiacán.
+
+Por lo anterior, se expide el siguiente
+
+ACUERDO
 
 ###### Artículo 1.
 
-La presente ley es de orden público, interés social y de observancia general en el Estado de Aguascalientes y tiene por objeto establecer la Coordinación de las dependencias y entidades de la administración pública del Estado para implementar y operar las medidas de prevención y provisionales de protección que garanticen la vida, integridad, libertad y seguridad de las personas en situación de riesgo como consecuencia de la defensa o promoción de los derechos humanos y del ejercicio del periodismo.
-
-Serán de aplicación supletoria la Ley del Procedimiento Administrativo del Estado de Aguascalientes, la Ley de la Comisión de Derechos Humanos del Estado de Aguascalientes y los principios generales del derecho, en lo que no contravengan las bases esenciales de este ordenamiento.
+El presente Acuerdo tiene por objeto regular la organización, funcionamiento e inicio de funciones del Centro de Justicia Penal Federal en el Estado de Sinaloa, con residencia en Culiacán.
 
 ###### Artículo 2.
 
-Para los efectos de esta ley se entenderá por:
+Para efectos del presente Acuerdo se entenderá por:
 
-I. Agresiones: Daño a la integridad física o psicológica, amenaza, hostigamiento o intimidación que por el ejercicio de su actividad sufran las Personas Defensoras de Derechos Humanos y Periodistas;
+I. Administrador: Juez de Distrito encargado de la administración del Centro de Justicia Penal Federal;
 
-II. Coordinación Estatal: Coordinación del Mecanismo para la Protección de Personas Defensoras de Derechos Humanos y Periodistas para el Estado de Aguascalientes;
+II. Centro: Centro de Justicia Penal Federal en el Estado de Sinaloa, con residencia en Culiacán;
 
-III. Mecanismo: Mecanismo para la Protección de Personas Defensoras de Derechos Humanos y Periodistas, previsto en la Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas, expedida por el Congreso de la Unión;
+III. Consejo: Consejo de la Judicatura Federal;
 
-IV. Medidas de Prevención: Conjunto de acciones y medios encaminados a desarrollar políticas públicas y programas con el objetivo de reducir los factores de riesgo que favorecen las agresiones contra Personas Defensoras de Derechos Humanos y Periodistas, así como para combatir las causas que las producen y generar garantías de no repetición;
+IV. Jueces de Control y tribunales de Enjuiciamiento: Jueces de Distrito;
 
-V. Medidas de Protección: Conjunto de acciones y medios de seguridad, determinados por el Mecanismo, para enfrentar el riesgo y proteger los derechos a la vida, integridad, libertad y seguridad de la persona beneficiaria;
+V. Jueces de Distrito: Jueces de Distrito especializados en el sistema penal acusatorio;
 
-VI. Medidas Preventivas: Conjunto de acciones y medios, determinados por el mecanismo, a favor de la persona beneficiaria para evitar la consumación de las agresiones;
+VI. Juzgadores: Jueces de Control, así como tribunales de Enjuiciamiento y de Alzada;
 
-VII. Medidas Provisionales: Conjunto de acciones y medios, determinados por la Coordinación Estatal, para resguardar de manera inmediata y temporal, la vida, la integridad y la libertad de la persona beneficiaria, hasta en tanto se resuelva el Mecanismo;
+VII. Pleno: Pleno del Consejo; y
 
-VIII. Medidas Urgentes de Protección: Conjunto de acciones y medios, determinados por el Mecanismo, para resguardar, de manera inmediata, la vida, la integridad y la libertad de la persona beneficiaria;
-
-> <small>[N. DE E. EL CONTENIDO DE ESTA FRACCIÓN ES IDÉNTICO AL DE LA FRACCIÓN XI, P.O. 27 DE DICIEMBRE DE 2023]</small>
-
-IX. Periodistas: Las personas físicas, así como medios de comunicación y difusión públicos, comunitarios, privados, independientes, universitarios, experimentales o de cualquier otra índole cuyo trabajo consiste en recabar, generar, procesar, editar, comentar, opinar, difundir, publicar o proveer información, a través de cualquier medio de difusión y comunicación que puede ser impreso, radioeléctrico, digital o imagen;
-
-X. Persona Beneficiaria: Persona a la que se otorgan Medidas Preventivas y de Protección a que se refiere esta ley;
-
-> <small>[N. DE E. EL CONTENIDO DE ESTA FRACCIÓN ES IDÉNTICO AL DE LA FRACCIÓN IX, P.O. 27 DE DICIEMBRE DE 2023]</small>
-
-XI. Periodistas: Las personas físicas, así como medios de comunicación y difusión públicos, comunitarios, privados, independientes, universitarios, experimentales o de cualquier otra índole cuyo trabajo consiste en recabar, generar, procesar, editar, comentar, opinar, difundir, publicar o proveer información, a través de cualquier medio de difusión y comunicación que puede ser impreso, radioeléctrico, digital o imagen;
-
-XII. Persona Peticionaria: Persona que solicita Medidas Provisionales, Medidas Preventivas, Medidas de Protección o Medidas Urgentes de Protección ante la Coordinación Estatal o el Mecanismo.
-
-### Capítulo II. La Coordinación Estatal
+VIII. Tribunal de Alzada: Tribunal Unitario de Circuito con competencia especializada en el sistema penal acusatorio.
 
 ###### Artículo 3.
 
-La Coordinación Estatal es el órgano de toma de decisiones para la prevención y protección de Personas Defensoras de Derechos Humanos y Periodistas, será operado por la Secretaría General de Gobierno del Estado de Aguascalientes y coadyuvará con el Mecanismo en el cumplimiento de sus fines.
+El Centro iniciará funciones a partir de las cero horas del treinta de noviembre de dos mil quince.
 
 ###### Artículo 4.
 
-Las resoluciones que emita la Coordinación Estatal serán obligatorias para las autoridades estatales y municipales cuya intervención sea necesaria para satisfacer las Medidas Provisionales previstas en esta Ley.
+El Centro se integra por tres jueces de Distrito y un Tribunal de Alzada, y los demás juzgadores que sean adscritos por el Pleno, atendiendo a las necesidades para la impartición de justicia.
+
+Los jueces de Distrito a que se refiere este artículo tendrán competencia para actuar indistintamente como; jueces de Control y tribunales de Enjuiciamiento, sin perjuicio de lo dispuesto en los artículos 7 y 8 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal, debiendo especificar el carácter de su actuación en las constancias respectivas, sin embargo, aquellos que hayan intervenido en alguna etapa del procedimiento anterior a la audiencia de juicio, no podrán fungir como Tribunal de Enjuiciamiento, de conformidad con el artículo 350 del Código Nacional de Procedimientos Penales. Uno de los jueces de Distrito fungirá como Administrador.
+
+El Centro contará con la plantilla laboral autorizada, y la Administración del Centro se regirá conforme a las disposiciones del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal.
 
 ###### Artículo 5.
 
-La Coordinación Estatal está integrada por:
-
-I. Una persona representante de la Secretaría General de Gobierno;
-
-II. Una persona representante de la Comisión de Derechos Humanos del Estado.
-
-III. Una persona representante de la Fiscalía General del Estado;
-
-IV. Una persona representante de la Secretaría de Seguridad Pública del Estado;
-
-V. Una persona representante de la Secretaría de Comunicación y Vocería del Gobierno
-
-VI. Una persona representante del Congreso del Estado.
-
-VII. Una persona representante de personas defensoras de Derechos Humanos.
-
-VIII. Una persona representante de aquellas dedicadas al ejercicio del periodismo.
-
-En la integración de la Coordinación Estatal, se garantizará el principio de paridad de género.
-
-Las personas representantes de los diferentes organismos públicos deberán tener nivel mínimo de titular de una Dirección, salvo el de la Comisión de Derechos Humanos del Estado, que deberá tener un cargo mínimo de Visitador General o sus equivalentes.
-
-La persona representante del Congreso del Estado será designada por la Comisión Legislativa de Derechos Humanos.
-
-La persona representante de defensores de derechos humanos y la de periodistas, será elegida a través de una convocatoria pública emitida por el Congreso del Estado, conforme a los siguientes lineamientos:
-
-a) La Comisión Legislativa de Derechos Humanos cuenta con sesenta días naturales a partir de la entrada en vigor esta ley para convocar a las asociaciones civiles que estén legalmente constituidas cuyo objeto esté vinculado con la difusión y protección de los Derechos Humanos, así como a representantes del gremio periodístico. Dicha convocatoria será publicada en el Periódico Oficial del Estado, por lo menos en uno de los diarios de mayor circulación en la Entidad y en la página electrónica del Congreso del Estado, asimismo, se fijará en diversos estrados de instituciones públicas y privadas que lo permitan;
-
-b) Quienes propongan algún aspirante deberán anexar la documentación necesaria para acreditar que la persona cumple con los requisitos señalados en la convocatoria, así como un escrito firmado por el aspirante donde acepta participar en el proceso. La omisión de la presentación del escrito de referencia y de algún documento o su gestión para obtenerlo en los plazos señalados en la convocatoria, será causa de exclusión de la lista de candidatos. Nadie podrá realizar más de una propuesta;
-
-c) Recibidas las propuestas, la Comisión Legislativa de Derechos Humanos analizará los documentos de los aspirantes para determinar quienes cumplen con los requisitos para ocupar el cargo y con base en ello elaborará una lista de candidatos;
-
-d) La Comisión Legislativa de Derechos Humanos emitirá un dictamen en el que se informe al Pleno del Congreso del Estado que candidatos cumplen con los requisitos, a fin de que dicho órgano soberano elija a los Consejeros con el voto de la mayoría de los Diputados que integran el Congreso del Estado. En caso de que el dictamen plantee una propuesta de integración, ésta deberá en atención a las propuestas recibidas y respetar el principio de paridad de género.
-
-> <small>(ADICIONADO, P.O. 29 DE ABRIL DE 2025)</small>
-
-e) La persona representante de defensores de derechos humanos y la de periodistas durará en su encargo 3 años, y podrá ser removida por el Congreso del Estado cuando incurra en alguna falta administrativa de las descritas en la Ley en materia o actúe negligentemente en el ejercicio de sus funciones, siempre con la misma votación requerida para su nombramiento.
-
-La persona representante de la Secretaría General de Gobierno presidirá la Coordinación Estatal y en los casos en que no sea posible su presencia se elegirá un presidente suplente para esa única ocasión de entre las demás personas integrantes.
-
-Quienes integran la Coordinación Estatal tendrán el derecho de voz y voto.
-
-La Coordinación Estatal, contará con una Secretaría Técnica, a cargo del o la funcionaria que designe la Secretaría General de Gobierno, quien deberá tener nivel mínimo de titular de una Dirección.
-
-Los cargos de los integrantes de la Coordinación Estatal serán honoríficos, por lo que las personas que la integran no devengarán retribución alguna.
+Los juzgadores del Centro conocerán y tendrán competencia en los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables.
 
 ###### Artículo 6.
 
-La Coordinación Estatal podrá invitar a sus sesiones, con derecho a voz, a una persona representante del Poder Judicial del Estado y a la persona titular de la Presidencia de la Comisión Legislativa de Derechos Humanos del Congreso del Estado.
+La jurisdicción territorial de los juzgadores del Centro comprenderá el estado de Sinaloa, con la totalidad de sus municipios.
 
 ###### Artículo 7.
 
-La Coordinación Estatal sesionará una vez al trimestre y deberá contar con un quórum de la mitad más uno de sus integrantes.
+El domicilio del Centro será el ubicado en Carretera a Navolato 10321 Poniente, (km 9.5), Sindicatura de Aguaruto, código postal 80308, Culiacán, Sinaloa.
 
-Las decisiones serán tomadas mediante un proceso deliberativo y por mayoría de votos de los integrantes que se encuentren presentes.
-
-Sin perjuicio de que se realicen sesiones extraordinarias, cuando así se requiera.
+Toda la correspondencia relacionada con los asuntos de competencia del Centro deberá dirigirse al domicilio indicado.
 
 ###### Artículo 8.
 
-La Coordinación Estatal contará con las siguientes atribuciones:
+El Centro contará con una Oficialía de Partes Común, que dará servicio a los juzgadores que lo integran, de conformidad con las disposiciones aplicables.
 
-I. Enlazar a las personas beneficiarias o peticionarias con el Mecanismo y coadyuvar con el mismo en el cumplimiento de sus fines
+El sistema de turno y distribución de asuntos será automatizado y aleatorio, con excepción de lo siguiente:
 
-II. Recibir y turnar las solicitudes de incorporación al Mecanismo, así como cualquier otro documento o solicitud que competa al Mecanismo y que sea realizada por la persona beneficiaría ante la Coordinación Estatal;
+I. Los asuntos urgentes que se reciban durante las guardias, cuya atención corresponderá al juez de Distrito que deba cubrirla; y
 
-III. Determinar y supervisar la ejecución de las Medidas Provisionales, de conformidad con la Evaluación de Riesgo;
+II. Los asuntos relacionados durante las etapas procesales de investigación, e intermedia o de preparación del juicio.
 
-IV. Coadyuvar en la vigilancia y seguimiento de las Medidas Preventivas, Medidas de Protección y Medidas Urgentes de Protección, determinadas por el Mecanismo;
+Corresponde a las Direcciones Generales de Estadística Judicial y de Tecnologías de la Información el diseño operativo del sistema automatizado de turno y distribución de asuntos; y la elaboración de sus lineamientos, los cuales serán sometidos directamente por éstas a consideración y, en su caso, aprobación de la Comisión de Creación de Nuevos Órganos.
 
-V. Convocar a la persona peticionaria o persona beneficiaría de las Medidas de Protección, a las sesiones en las que se decidirá sobre su caso;
+En el diseño del sistema se deberá tomar en consideración las guardias, las vacaciones, las licencias, los impedimentos y las sustituciones de juzgadores.
 
-VI. Invitar a personas o autoridades que juzgue conveniente, con el consentimiento de la persona peticionaria o persona beneficiaría, a las sesiones en las que se discuta su caso;
-
-VII. Propiciar y celebrar convenios de coordinación y cooperación con autoridades federales y municipales, entidades federativas, órganos públicos u organizaciones dedicadas a la defensa de los derechos humanos y la libertad de expresión estatal, nacional o internacional, así como con personas y organizaciones sociales y privadas para la instrumentación de los objetivos del Mecanismo y de la Coordinación Estatal;
-
-VIII. Proponer e impulsar políticas públicas relacionadas con el objeto de esta ley;
-
-IX. Recibir y turnar al Mecanismo las inconformidades presentadas por las personas peticionarias o personas beneficiarías sobre la implementación de Medidas Preventivas, Medidas de Protección y Medidas Urgentes de Protección;
-
-X. Recibir, atender y resolver las inconformidades presentadas por las personas peticionarias o personas beneficiarias sobre la implementación de Medidas Provisionales;
-
-XI. Celebrar los acuerdos específicos necesarios para el cumplimiento de los fines de la Coordinación Estatal;
-
-XII. Dar seguimiento periódico a la implementación de las Medidas Provisionales; y
-
-XIII. Realizar el monitoreo estatal del Mecanismo para la Protección de Personas Defensoras de Derechos Humanos y Periodistas, a fin de verificar el estatus de las solicitudes presentadas ante la Coordinación.
-
-### Capítulo III. De la Solicitud de Protección
+En aquellas situaciones en que por caso fortuito o fuerza mayor no pueda utilizarse el sistema automatizado, el Oficial de Partes con la anuencia y supervisión del Administrador turnará los asuntos nuevos en el estricto orden secuencial en que se presenten; y los relacionados a que se refiere la fracción II de este artículo al juzgador correspondiente, sin embargo, deberá observarse que aquellos jueces de Distrito que hayan intervenido en alguna etapa del procedimiento anterior a la audiencia de juicio no podrán fungir como Tribunal de Enjuiciamiento, de conformidad con el artículo 350 del Código Nacional de Procedimientos Penales.
 
 ###### Artículo 9.
 
-La Persona Peticionaria podrá presentar su solicitud de protección ante la Coordinación Estatal, La Comisión de Derechos Humanos del Estado de Aguascalientes o ante el Mecanismo.
+A partir de las cero horas del treinta de noviembre de dos mil quince, la Oficialía de Partes del Centro, funcionará las veinticuatro horas, todos los días del año, para la recepción, registro, turno y envío de los asuntos.
 
-La Coordinación Estatal o en su defecto la Comisión de Derechos Humanos del Estado de Aguascalientes, dará trámite a las solicitudes de protección por agresiones, que cuenten con el consentimiento de la potencial persona beneficiaria, salvo que éste se encuentre impedido por causa grave.
-
-Una vez que desaparezca el impedimento, la persona beneficiaría deberá otorgar su consentimiento.
-
-Recibida la solicitud, la Coordinación o en su defecto la Comisión de Derechos Humanos del Estado de Aguascalientes, remitirá la misma ante el Mecanismo y procederá a analizar y en su caso, determinar, las medidas provisionales, de conformidad con la Evaluación de Riesgo que realice.
+No obstante lo dispuesto en el párrafo anterior, de lunes a viernes durante el horario de las dieciocho a las ocho horas con cincuenta y nueve minutos del día siguiente, así como los días inhábiles, la Oficialía de Partes sólo recibirá las promociones de término que se presenten.
 
 ###### Artículo 10.
 
-Las agresiones se configuran cuando por acción u omisión o en aquiescencia se dañe la integridad física, psicológica, moral o económica de:
-
-I. Persona Defensora de Derechos Humanos o Periodista;
-
-II. Cónyuge, concubina, concubino, ascendientes, descendientes y dependientes de la Persona Defensora de Derechos Humanos o Periodista;
-
-III. Los bienes de la Persona Defensora de Derechos Humanos o Periodista, su grupo, organización, o movimiento social; y
-
-IV. El Representante legal de la persona peticionaria o persona beneficiaria.
-
-### Capítulo IV. De las Medidas Provisionales
+Los juzgadores, así como el personal adscrito a los mismos, laborarán de lunes a viernes de las nueve a las quince horas y de las dieciséis a las dieciocho horas, con una hora para la ingesta de alimentos, fuera de las instalaciones del Centro, de las quince a las dieciséis horas, sin perjuicio de las medidas de organización interna que adopten sus titulares atendiendo a las necesidades del servicio.
 
 ###### Artículo 11.
 
-Una vez recibida la solicitud de incorporación al Mecanismo, la Coordinación Estatal, determinará las Medidas Provisionales que habrán de implementarse de común acuerdo con las personas beneficiarias y deberán reducir al máximo la exposición al riesgo; serán idóneas, eficaces y temporales, podrán ser individuales o colectivas y serán acordes con las mejores metodologías, estándares, buenas prácticas, perspectiva de género y con respeto irrestricto de los Derechos Humanos.
+Las guardias de turno para la atención de asuntos en días y horas inhábiles de los jueces de Distrito en su función de control se realizarán de forma semanal, de conformidad con los registros y programación que realice el Administrador.
 
-En ningún caso dichas medidas restringirán las actividades de las personas beneficiarias, ni implicarán vigilancia o intromisiones no deseadas en sus vidas personales o laborales.
+La guardia de turno en días y horas inhábiles, finaliza el día lunes de cada semana a las ocho horas con cincuenta y nueve minutos e inicia el mismo día a las nueve horas.
 
-La Coordinación Estatal emitirá la orden a las autoridades correspondientes para la inmediata ejecución de las Medidas Provisionales.
-
-Las Medidas Provisionales otorgadas por la Coordinación Estatal sólo tendrán efecto dentro de la jurisdicción del Estado de Aguascalientes.
+El Administrador del Centro adoptará las medidas administrativas necesarias, a fin de que el Tribunal de Alzada del Centro esté en posibilidad de resolver las apelaciones de término previstas en el Código Nacional de Procedimientos Penales.
 
 ###### Artículo 12.
 
-Las Medidas Provisionales que puede determinar la Coordinación Estatal son:
-
-I. Establecer y garantizar comunicación directa e inmediata entre la Persona Beneficiaria y los mandos de las corporaciones policíacas de carácter municipal y de la Secretaría de Seguridad Pública del Estado de Aguascalientes;
-
-II. Proporcionar a la Persona Beneficiaria un número telefónico enlazado a los centros de atención de emergencias a fin de solicitar apoyo ante la amenaza o desarrollo de agresiones;
-
-III. Asesoría a la Persona Beneficiaría para la presentación de la denuncia penal que corresponda ante la Fiscalía General del Estado de Aguascalientes o solicitud de información sobre el avance que guarde la investigación que se derive de una denuncia;
-
-IV. Protocolos de seguridad individuales y colectivos, incluidos los de manejo de la información y seguridad cibernética;
-
-V. Rondines y guardias en bienes muebles e inmuebles de la Persona Beneficiaria;
-
-VI. Rondines y guardias en el domicilio, lugares de trabajo y comunicaciones del periodista, para garantizar la confidencialidad de sus fuentes; y
-
-VII. Instalación de cámaras de vigilancia, puertas, cerraduras, luces u otras medidas de seguridad en las instalaciones del centro de trabajo o domicilio de la o las Personas Beneficiarias;
-
-VIII. La protección del domicilio, lugares de trabajo y comunicaciones del periodista, para garantizar la confidencialidad de sus fuentes; y
-
-IX. Otras que la Coordinación Estatal considere pertinentes para salvaguardar la vida e integridad de las Personas Beneficiarias
+Los juzgadores que integran el Centro llevarán Libros de Gobierno Electrónicos, que se integrarán con la información que se registre en el sistema informático respectivo.
 
 ###### Artículo 13.
 
-Las Medidas Provisionales estarán sujetas a evaluación periódica, por quien designe la Coordinación conforme a la legislación administrativa aplicable.
+Los reportes estadísticos deberán remitirse a la Dirección General de Estadística Judicial, en la forma y tiempos que ésta determine.
 
 ###### Artículo 14.
 
-Las Medidas Provisionales podrán ser retiradas a la Persona Beneficiaria por decisión de la Coordinación Estatal cuando:
-
-I. Abandone, evada o impida las medidas;
-
-II. Autorice el uso de las medidas por personas diferentes a las determinadas por las unidades de la Coordinación Estatal;
-
-III. Comercie u obtenga un beneficio económico con las medidas otorgadas;
-
-IV. Utilice al personal designado en actividades que no estén relacionadas con las medidas;
-
-V. Agreda física y/o verbalmente o amenace al personal que está asignado a su esquema de protección;
-
-VI. Ejecute conductas ilícitas haciendo uso de los medios físicos y humanos dispuestos para su protección;
-
-> <small>[N. DE E. EL CONTENIDO DE ESTA FRACCIÓN ES IDÉNTICO AL DE LA FRACCIÓN VIII, P.O. 27 DE DICIEMBRE DE 2023]</small>
-
-VII. Cause daño intencionalmente a los medios de protección físicos y humanos asignados para su protección.
-
-> <small>[N. DE E. EL CONTENIDO DE ESTA FRACCIÓN ES IDÉNTICO AL DE LA FRACCIÓN VII, P.O. 27 DE DICIEMBRE DE 2023]</small>
-
-VIII. Cause daño intencionalmente a los medios de protección físicos y humanos asignados para su protección.
+Los juzgadores del Centro, deberán levantar de manera individual un acta administrativa, por duplicado, del inicio de sus funciones, cuyo formato les será proporcionado por la Secretaría Ejecutiva de Carrera Judicial y Creación de Nuevos Órganos, debiendo remitir un ejemplar a la propia Secretaría Ejecutiva.
 
 ###### Artículo 15.
 
-Las Medidas Provisionales otorgadas podrán ser ampliadas o disminuidas como resultado de las revisiones periódicas.
+El Centro contará con el número suficiente de defensores públicos y oficiales de apoyo, en razón de la cantidad de los juzgadores que lo integran.
 
 ###### Artículo 16.
 
-Las Medidas Provisionales otorgadas por la Coordinación Estatal se terminarán una vez que el Mecanismo determine las Medidas Preventivas, Medidas de Protección o Medidas Urgentes de Protección a favor de la persona beneficiaria.
-
-### Capítulo V. De las Medidas Preventivas, Medidas de Protección y Medidas Urgentes de Protección
+Los jueces de control contarán con un sistema de acceso electrónico, mediante mecanismos tecnológicos que aseguren la confidencialidad de la información, para favorecer la comunicación con el Ministerio Público de la Federación y demás autoridades, así como con las personas autorizadas por éstas, que por razón de su función deban ingresar solicitudes de providencias precautorias o relacionadas con medidas de protección, así como actos de investigación que requieren autorización judicial, solicitudes de órdenes de aprehensión o comparecencia, entre otras.
 
 ###### Artículo 17.
 
-Una vez definidas las Medidas por el Mecanismo, la Coordinación procederá a ordenar el seguimiento al estado de implementación de las Medidas Preventivas, Medidas de Protección o Medidas Urgentes de Protección en los términos establecidos.
+En caso de que sea necesario sustituir a alguno de los jueces de Distrito del Centro se estará a lo siguiente:
+
+I. La sustitución recaerá en otro juez de Distrito del mismo Centro, con exclusión de aquel que funja como Administrador;
+
+II. En caso de no ser posible lo previsto en la fracción anterior, la sustitución recaerá en el Administrador, en términos del artículo 8 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal; y
+
+III. Si tampoco fuera posible, la sustitución recaerá en los jueces de Distrito del Centro de Justicia Penal más cercano.
+
+Tratándose del Tribunal de Alzada del Centro, se habilita a los Tribunales Unitarios del Decimosegundo Circuito, con residencia en Mazatlán, para conocer, con ese carácter, de los asuntos que se tramiten en el Centro, conforme al Código Nacional de Procedimientos Penales, y demás disposiciones aplicables.
 
 ###### Artículo 18.
 
-Las Medidas Preventivas, Medidas de Protección y Medidas Urgentes de Protección serán determinadas por el Mecanismo, de conformidad con lo establecido en la Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas.
+El personal del Centro junto con sus juzgadores disfrutarán de los periodos vacacionales de quince días a que se refiere el artículo 160 de la Ley Orgánica del Poder Judicial de la Federación, el primero durante julio y agosto y, el segundo, en diciembre y enero, en términos del artículo 100 del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que reglamenta la carrera judicial y las condiciones de los funcionarios judiciales, en el orden que los juzgadores consensen. En caso de que no se logre el consenso será la Comisión de Carrera Judicial o la Comisión de Receso, quien lo determine. En todo caso deberán de permanecer dos jueces de Distrito en el Centro, para lo cual deberá contabilizarse al que funja como Administrador, supuesto en el cual se deberá observar lo previsto en el artículo 8, fracción I, del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal.
+
+El personal del Tribunal de Alzada del Centro disfrutará de los periodos vacacionales en los términos precisados. Lo mismo sucederá con el personal de la Administración del Centro, sin embargo, en este caso el Administrador deberá tomar las medidas necesarias para que haya servidores públicos de guardia en el mismo, durante dicho periodo vacacional, a fin de que el Centro no detenga su actividad.
+
+La propia Comisión de Carrera Judicial, previo análisis de las solicitudes presentadas, podrá autorizar el disfrute de las vacaciones fuera de los meses de julio y agosto y, diciembre y enero, siempre y cuando existan causas excepcionales y justificadas para ello.
 
 ###### Artículo 19.
 
-Existe uso indebido de las Medidas Preventivas o Medidas de Protección y Medidas Urgentes de Protección por parte de la persona beneficiaría de conformidad con lo establecido en la Ley para la Protección de Personas Defensoras de Derechos Humanos y Periodistas.
-
-###### Artículo 20.
-
-La persona beneficiaria podrá en todo momento acudir ante la Coordinación Estatal para solicitar una revisión de las Medidas de (sic) Provisionales, así como de las Preventivas, Medidas de Protección y Medidas Urgentes de Protección, para lo cual se turnará la solicitud de revisión al Mecanismo.
-
-###### Artículo 21.
-
-La persona beneficiaria se podrá separar del Mecanismo en cualquier momento, para lo cual deberá externarlo por escrito a la Coordinación Estatal o al Mecanismo. Si el escrito es presentado ante la Coordinación Estatal, ésta deberá remitirlo al Mecanismo para su trámite respectivo.
-
-### Capítulo VI. De las Medidas de Prevención
-
-###### Artículo 22.
-
-El Estado en el ámbito de su respectiva competencia deberá desarrollar e implementar Medidas de Prevención y ejecutar las implementadas por el Mecanismo y la Coordinación Estatal, tales como:
-
-I. Instructivos
-
-II. Manuales;
-
-III. Cursos de autoprotección tanto individuales como colectivos;
-
-IV. Actos de reconocimiento de la labor de los periodistas y personas defensoras de los derechos humanos, que enfrentan las formas de violencia e impulsen la no discriminación; y
-
-V. Las demás que se requieran y consideren pertinentes.
-
-###### Artículo 23.
-
-Las Medidas estarán orientadas a evitar potenciales Agresiones a las Personas Defensoras de Derechos Humanos y Periodistas en el Estado.
-
-### Capítulo VII. De los Convenios de Cooperación
-
-###### Artículo 24.
-
-El Estado suscribirá con la federación y otras entidades federativas, en el ámbito de sus respectivas competencias, Convenios de Cooperación para hacer efectivas las medidas previstas por la Coordinación Estatal para garantizar la vida, integridad, libertad y seguridad de las Personas Defensoras de Derechos Humanos y Periodistas.
-
-###### Artículo 25.
-
-Los Convenios de Cooperación contemplarán las acciones conjuntas para facilitar la operación eficaz y eficiente de los fines de la Coordinación Estatal mediante:
-
-I. La designación de representantes que funjan como enlaces para garantizar el cumplimiento del objeto de esta Ley;
-
-II. El intercambio de información de manera oportuna y de experiencias técnicas, así como para proporcionar capacitación;
-
-III. El intercambio de información sobre las medidas previstas en esta ley;
-
-IV. La promoción del estudio, análisis, investigación y desarrollo de estrategias, acciones, sistemas y metodologías que incorporen las mejores prácticas de prevención y protección;
-
-V. El intercambio de estudios o investigaciones que puedan ser utilizados para la promoción de las reformas y adiciones necesarias en la legislación para mejorar la situación de las Personas Defensoras de los Derechos Humanos y Periodistas, y
-
-VI. Las demás que las partes convengan.
-
-### Capítulo VIII. De las inconformidades
-
-###### Artículo 26.
-
-La inconformidad procede en:
-
-I. Contra determinaciones de la Coordinación Estatal, relacionadas con el otorgamiento de las Medidas Provisionales;
-
-II. Contra el deficiente cumplimiento de las Medidas Provisionales, y
-
-III. En caso de que la autoridad no acepte, de manera expresa o tácita, las decisiones de la Coordinación Estatal, relacionadas con las Medidas Provisionales.
-
-###### Artículo 27.
-
-Para que la Coordinación Estatal admita la inconformidad se requiere:
-
-I. Que lo suscriba la persona o personas que hayan tenido el carácter de persona peticionaria o persona beneficiaria;
-
-II. Que se presente por escrito o por los medios establecidos por la Coordinación Estatal, debidamente firmada, en un plazo de 30 días naturales contados a partir de la notificación del acuerdo de la Coordinación Estatal, que la persona peticionaria o persona beneficiaría hubiese tenido noticia sobre la resolución definitiva de la autoridad acerca del otorgamiento de las Medidas Provisionales;
-
-III. Que contenga una descripción concreta de los agravios que se generan a la persona peticionaria o persona beneficiaria; y en su caso y
-
-IV. Que se adjunten las pruebas con las que se cuente.
-
-###### Artículo 28.
-
-Para resolver la inconformidad:
-
-I. En los supuestos establecidos en las fracciones II y III del artículo 26, la Coordinación Estatal, a través del Secretario General de Gobierno, notificará a la persona titular de la Dependencia o Entidad de la Administración Pública Estatal o Municipal, de la inconformidad para la atención correspondiente.
-
-Si la inconformidad persiste, la Coordinación Estatal, a través del Secretario General de Gobierno, requerirá a la persona titular de la Dependencia o Entidad de la Administración Pública Estatal o Municipal, un informe detallado sobre el estado y seguimiento de la implementación de las Medidas; y
-
-II. La Coordinación Estatal emitirá su resolución en un plazo máximo de 15 días naturales una vez que cuente en informe detallado sobre las medidas implementadas, debiendo sesionar de manera extraordinaria las veces que sea necesario hasta la resolución de la inconformidad.
-
-Para la atención de la inconformidad, la Coordinación Estatal aplicará de manera supletoria la Ley del Procedimiento Contencioso Administrativo para el Estado de Aguascalientes.
-
-###### Artículo 29.
-
-Las inconformidades presentadas por la persona beneficiaria en contra de las Medidas Preventivas, Medidas de Protección y Medidas Urgentes de Protección, determinadas por el Mecanismo, serán turnadas al mismo su resolución.
-
-###### Artículo 30.
-
-El acceso y difusión de la información relacionada con esta ley, estará sujeta a lo que dispongan la Ley de Transparencia y Acceso a la Información Pública del Estado de Aguascalientes y sus Municipios y demás disposiciones aplicables.
-
-Las Medidas Provisionales, Medidas Preventivas, Medidas de Protección y Medidas Urgentes de Protección otorgadas a través de la Coordinación Estatal y del Mecanismo se considerarán información reservada, (sic) términos de la Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Aguascalientes y Municipios.
-
-### Capítulo IX. De las Sanciones
-
-###### Artículo 31.
-
-Las responsabilidades administrativas que se generen por el incumplimiento de las obligaciones previstas en esta ley se sancionarán conforme a lo que establezca la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, independientemente de las de orden civil o penal que procedan.
+El Pleno y las Comisiones del Consejo, en el ámbito de su competencia, interpretarán y resolverán todas las cuestiones administrativas que se susciten con motivo de la aplicación del presente Acuerdo.
 
 ## TRANSITORIOS
 
-###### ARTÍCULO PRIMERO.
+PRIMERO. El presente Acuerdo entrará en vigor el treinta de noviembre de dos mil quince, con excepción de lo dispuesto en los párrafos siguientes:
 
-El presente Decreto entrará en vigor el 01 de enero de 2024.
+Para las áreas administrativas del Consejo de la Judicatura Federal, entrará en vigor el día de su aprobación, para adoptar con la debida anticipación las medidas necesarias para que el Centro de Justicia Penal a que se refiere este Acuerdo, entre en operación en la fecha señalada en este artículo.
 
-###### ARTÍCULO SEGUNDO.
+El Administrador del Centro llevará a cabo las acciones de coordinación que sean necesarias para garantizar el funcionamiento del mismo en dicha fecha.
 
-El Ejecutivo Estatal dispondrá de un término de 180 días naturales contados a partir del inicio de vigencia de este Decreto, para expedir el reglamento de la presente ley.
+> <small>(REFORMADO POR EL ARTÍCULO 11 DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 36/2014 QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, ASÍ COMO LOS DIVERSOS ACUERDOS GENERALES QUE CREAN LOS CENTROS DE JUSTICIA PENAL FEDERAL EN LOS ESTADOS DE PUEBLA, DURANGO, YUCATÁN, ZACATECAS, GUANAJUATO, BAJA CALIFORNIA SUR, QUERÉTARO, SAN LUIS POTOSÍ, COAHUILA DE ZARAGOZA, SINALOA, OAXACA, CHIHUAHUA, CHIAPAS, NAYARIT Y TLAXCALA, PARA PRECISAR LA TEMPORALIDAD EN EL CARGO DE ADMINISTRADOR, D.O.F. 22 DE FEBRERO DE 2016)</small>
 
-###### ARTÍCULO TERCERO.
+SEGUNDO. El turno como Administrador corresponderá al Juez de Distrito del Centro que sea designado por el Consejo, cuya duración en el cargo será determinada conforme lo dispuesto por el Acuerdo General 36/2014, del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal.
 
-La primera sesión de la Coordinación se realizará en el término de sesenta días naturales contados a partir del inicio de vigencia de esta ley.
+TERCERO. Hasta en tanto se crea el Tribunal de Alzada a que se refiere el artículo 4 de este Acuerdo, se habilita al Tercer Tribunal Unitario del Decimosegundo Circuito, con residencia en Culiacán, para conocer de los procedimientos que se tramiten conforme al Código Nacional de Procedimientos Penales y demás disposiciones aplicables.
 
-###### ARTÍCULO CUARTO.
+El tribunal unitario precisará en los actos procesales que celebre la denominación con la que actúa, dependiendo si lo hace conforme al citado Código o al Código Federal de Procedimientos Penales.
 
-La Coordinación Estatal tendrá treinta días naturales contados a partir de su primera sesión para emitir lineamientos, manuales y demás disposiciones reglamentarias necesarias para su funcionamiento, organización y el cumplimiento de su objeto.
+Este tribunal unitario queda exceptuado de la obligación a que se refiere el artículo 14 de este Acuerdo, y para efectos del artículo 18 del mismo instrumento normativo se regirá por las disposiciones aplicables como tribunal unitario de Circuito.
 
-Al Ejecutivo para su promulgación y publicación.
+CUARTO. Las Direcciones Generales de Estadística Judicial y de Tecnologías de la Información, implementarán los mecanismos de coordinación entre el sistema automatizado de turno y distribución de asuntos de la Oficialía de Partes del Centro y la Oficina de Correspondencia Común de los Tribunales Unitarios habilitados, para, en su caso, compensar entre ellos, la carga de trabajo en su doble función, prevista en los artículos 17, último párrafo y Tercero transitorio del presente acuerdo.
 
-Dado en el Salón de Sesiones “Soberana Convención Revolucionaria de Aguascalientes”, del Palacio Legislativo, a los dieciséis días del mes de noviembre del año dos mil veintitrés.
+QUINTO. En materia de ejecución de sanciones penales se deberá observar lo dispuesto en el Acuerdo General 28/2015 del Pleno del Consejo de la Judicatura Federal, mediante el cual se habilita a los Jueces de Distrito de los Centros de Justicia Penal Federal para que ejerzan funciones de ejecución de sanciones penales.
 
-Aguascalientes, Ags., a 16 de noviembre del año 2023.
+SEXTO. En tanto se ordena la utilización de los libros de control electrónicos, el Administrador del Centro con el apoyo de su personal deberá realizar los registros de los asuntos que ingresen en libretas auxiliares.
 
-ATENTAMENTE
+SÉPTIMO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
-MESA DIRECTIVA
+EL LICENCIADO GONZALO MOCTEZUMA BARRAGÁN, SECRETARIO EJECUTIVO DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, CERTIFICA: Que este Acuerdo General 45/2015, del Pleno del Consejo de la Judicatura Federal, que crea el Centro de Justicia Penal Federal en el Estado de Sinaloa, con residencia en Culiacán, fue aprobado por el Pleno del propio Consejo, en sesión ordinaria de once de noviembre de dos mil quince, por unanimidad de votos de los señores Consejeros: Presidente Ministro Luis María Aguilar Morales, Felipe Borrego Estrada, Rosa Elena González Tirado, Martha María del Carmen Hernández Álvarez, Alfonso Pérez Daza, Manuel Ernesto Saloma Vera y J. Guadalupe Tafoya Hernández.- México, Distrito Federal, a veinte de noviembre de dos mil quince.- Conste.- Rúbrica.
 
-JAIME GONZÁLEZ DE LEÓN
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS ACUERDOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
 
-DIPUTADO PRESIDENTE
+D.O.F. 22 DE FEBRERO DE 2016.
 
-MAYRA GUADALUPE TORRES DELGADO
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 36/2014 QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, ASÍ COMO LOS DIVERSOS ACUERDOS GENERALES QUE CREAN LOS CENTROS DE JUSTICIA PENAL FEDERAL EN LOS ESTADOS DE PUEBLA, DURANGO, YUCATÁN, ZACATECAS, GUANAJUATO, BAJA CALIFORNIA SUR, QUERÉTARO, SAN LUIS POTOSÍ, COAHUILA DE ZARAGOZA, SINALOA, OAXACA, CHIHUAHUA, CHIAPAS, NAYARIT Y TLAXCALA, PARA PRECISAR LA TEMPORALIDAD EN EL CARGO DE ADMINISTRADOR".]
 
-DIPUTADA PRIMER SECRETARIA
+PRIMERO. El presente Acuerdo entrará en vigor al día de su aprobación.
 
-SANJUANA MARTÍNEZ MELÉNDEZ
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
 
-DIPUTADA SEGUNDA SECRETARIA
-
-En cumplimiento de lo dispuesto por los Artículos 32 párrafo primero, 35, 36, 46 fracción I y 49 párrafo segundo de la Constitución Política del Estado de Aguascalientes, para su debida publicación y observancia, “Promulgo el presente Decreto en la Residencia del Poder Ejecutivo del Estado, en la Ciudad de Aguascalientes, Ags., a 22 de diciembre de 2023”.- La Gobernadora del Estado de Aguascalientes, C. María Teresa Jiménez Esquivel.- Rúbrica.- El Secretario General de Gobierno, Mtro. Florentino de Jesús Reyes Berlié.- Rúbrica.
-
-> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
-
-P.O. 29 DE ABRIL DE 2025.
-
-## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 146.- SE REFORMA LA LEY PARA LA PROTECCIÓN DE PERSONAS DEFENSORAS DE DERECHOS HUMANOS Y PERIODISTAS DEL ESTADO DE AGUASCALIENTES”.]
-
-###### ARTÍCULO ÚNICO.
-
-El presente decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+TERCERO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
