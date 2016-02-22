@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-36-2014-del-pleno-del-consejo-de-la-103553"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-11-19"
-last_updated: "2015-06-01"
+last_updated: "2016-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103553&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,13 +19,33 @@ issue_date: "2014-11-12"
 ---
 # ACUERDO GENERAL 36/2014 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL [QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL]
 
-LEY NUMERO 448 DE INGRESOS DEL MUNICIPIO DE PLAYA VICENTE, DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE, CORRESPONDIENTE AL EJERCICIO FISCAL DEL AÑO 2020
+ACUERDO GENERAL 36/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL; Y QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE FEBRERO DE 2016.
 
-Ley publicada en el Número Extraordinario 522 de la Gaceta Oficial del Estado de Veracruz de Ignacio de la Llave, el martes 31 de diciembre de 2019.
+Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 19 de noviembre de 2014.
 
-> <small>[N. DE E. PARA VER EL ARTICULADO COMPLETO DE ESTE ORDENAMIENTO SE SUGIERE CONSULTAR EN ESTA PÁGINA ELECTRÓNICA EL VÍNCULO "VER IMAGEN PDF"; A CONTINUACIÓN ÚNICAMENTE SE CITA EL ARTÍCULO O PORCIÓN NORMATIVA QUE HA SIDO DECLARADO INVÁLIDO POR EL TRIBUNAL CONSTITUCIONAL.]</small>
+Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Consejo de la Judicatura Federal.- Secretaría Ejecutiva del Pleno y de la Presidencia.
+
+ACUERDO GENERAL 36/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL; Y QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES.
+
+CONSIDERANDO
+
+PRIMERO. La administración, vigilancia, disciplina y carrera judicial del Poder Judicial de la Federación, con excepción de la Suprema Corte de Justicia de la Nación y el Tribunal Electoral del mismo, corresponde al Consejo de la Judicatura Federal, con fundamento en los artículos 94, segundo párrafo, de la Constitución Política de los Estados Unidos Mexicanos y 68 de la Ley Orgánica del Poder Judicial de la Federación;
+
+SEGUNDO. De conformidad con el artículo 100, primer párrafo constitucional, el Consejo de la Judicatura Federal es un órgano del Poder Judicial de la Federación con independencia técnica, de gestión y para emitir sus resoluciones;
+
+TERCERO. Es facultad del Consejo de la Judicatura Federal emitir acuerdos generales para el adecuado ejercicio de sus funciones, de conformidad con lo previsto en los artículos 100 de la Constitución Política de los Estados Unidos Mexicanos y 81, fracción II, de la Ley Orgánica del Poder Judicial de la Federación; y
+
+CUARTO. Uno de los paradigmas más importantes del nuevo sistema procesal penal es el principio de inmediación, el cual consiste en la presencia permanente del juzgador en el desahogo de las audiencias, para lo cual la oralidad resulta fundamental, ya que a través de esta herramienta, el órgano jurisdiccional se allega de los elementos de valoración para emitir la sentencia correspondiente, sin que pueda tomar en consideración, por regla general, probanzas que no han sido desahogadas en el plenario.
+
+Por ello, el nuevo sistema reclama la adopción de otros esquemas de gestión judicial, propios de la forma de intervención del juzgador en el proceso penal.
+
+El presente Acuerdo regula un nuevo diseño administrativo-judicial, basado en la creación de Centros de Justicia Penal, los cuales estarían conformados en dos vertientes, en específico la jurisdiccional y la administrativa. La primera estaría integrada por el Juez de Control, el Tribunal de Enjuiciamiento, el Tribunal de Alzada y el Juez de Ejecución; y la segunda por el Administrador y el personal que le esté adscrito.
+
+Por lo anterior, se expide el siguiente
+
+ACUERDO
 
 ###### ARTÍCULO PRIMERO.
 
@@ -101,17 +121,33 @@ Al frente de cada Administración del Centro estará un Administrador, quien se 
 
 El Administrador será el responsable de la administración del Centro.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 10/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MARZO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 1 DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 36/2014 QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, ASÍ COMO LOS DIVERSOS ACUERDOS GENERALES QUE CREAN LOS CENTROS DE JUSTICIA PENAL FEDERAL EN LOS ESTADOS DE PUEBLA, DURANGO, YUCATÁN, ZACATECAS, GUANAJUATO, BAJA CALIFORNIA SUR, QUERÉTARO, SAN LUIS POTOSÍ, COAHUILA DE ZARAGOZA, SINALOA, OAXACA, CHIHUAHUA, CHIAPAS, NAYARIT Y TLAXCALA, PARA PRECISAR LA TEMPORALIDAD EN EL CARGO DE ADMINISTRADOR, D.O.F. 22 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 7.
 
-Los jueces de Distrito especializados en el sistema penal acusatorio fungirán como Administradores del Centro de su adscripción, por un año y de forma rotativa en el orden de su denominación.
+Los jueces de Distrito especializados en el sistema penal acusatorio fungirán como Administradores del Centro de su adscripción, hasta en tanto lo determine el Consejo de la Judicatura Federal, a propuesta de la Comisión de Adscripción.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 10/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MARZO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE JUNIO DE 2015)</small>
 
 ###### Artículo 8.
 
-Los jueces de Distrito que funjan como Administradores no podrán ejercer funciones jurisdiccionales, salvo en aquellos casos en que les corresponda actuar en suplencia de otro juez de Distrito adscrito al Centro; o cuando sea necesario para no afectar el funcionamiento del mismo, caso en el cual deberán fundamentar y motivar su actuación.
+Los jueces de Distrito que funjan como Administradores no podrán ejercer funciones jurisdiccionales, salvo que lo hagan en sustitución de otro juez de Distrito adscrito al respectivo Centro, en términos de lo dispuesto en los acuerdos generales mediante los cuales se creen los mismos, y en los siguientes casos:
+
+I. Durante el período de vacaciones, en aquellos casos en que no existan más de dos jueces de Distrito en el Centro;
+
+II. Durante el período de vigencia de una licencia, siempre y cuando no sea mayor a quince días naturales.
+
+En caso de que el periodo sea mayor, el Administrador del Centro deberá comunicar dicha situación a la Secretaria Ejecutiva de Adscripción, para que lleve a cabo las gestiones necesarias ante la Comisión de Adscripción, para la sustitución del juez de Distrito respectivo;
+
+III. En aquellos casos en que las actuaciones a realizarse no admitan demora y el juez de Distrito que deba conocerlas esté atendiendo una audiencia diversa;
+
+IV. Cuando el juez de Distrito que deba conocer de un asunto esté impedido, y ninguno de los otros adscritos al Centro pueda hacerlo; y
+
+V. En todas aquellas situaciones en que sea necesaria la intervención del Juez de Distrito que funja como Administrador, para no afectar el funcionamiento del Centro.
+
+En todo caso el juez de Distrito que funja como Administrador, cuando ejerza funciones jurisdiccionales en sustitución, deberá fundar y motivar su competencia, y especificar el carácter de su actuación en las constancias respectivas.
+
+Invariablemente, para poder llevar a cabo la sustitución, deberá observarse lo previsto en el artículo 350 del Código.
 
 > <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 10/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MARZO DE 2015)</small>
 
@@ -165,37 +201,7 @@ El Administrador podrá determinar la terminación anticipada del nombramiento, 
 
 ###### Artículo 14.
 
-Los derechos por expedición de certificados, constancias y otros servicios, se causarán y pagarán conforme a las cuotas siguientes:
-
-(NOTA: EL 8 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN I DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-I. CERTIFICADO O CERTIFICACIONES EXPEDIDOS POR FUNCIONARIOS O EMPLEADOS MUNICIPALES, INCLUYENDO LA BÚSQUEDA DE DATOS PARA EXPEDIRLOS, POR CADA CERTIFICADO, DE 0.50 A 1 UMA.
-
-(NOTA: EL 8 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2020, DECLARÓ LA INVALIDEZ DE LA FRACCIÓN II DE ESTE ARTÍCULO INDICADA CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-II. COPIAS DE DOCUMENTOS QUE OBREN EN LOS ARCHIVOS DE OFICINAS MUNICIPALES:
-
-a) POR HOJA ESCRITA A DOBLE ESPACIO EN AMBAS CARAS, 0.25 UMAS.
-
-b) POR HOJA QUE INDICA EL INCISO ANTERIOR, ESCRITA A UN ESPACIO POR AMBAS CARAS, 0.30 UMAS.
-
-c) EN LOS CASOS A QUE SE REFIEREN LOS INCISOS ANTERIORES, CUANDO SE ESCRIBA POR UNA SOLA CARA DE LA HOJA, 0.25 UMAS.
-
-EN EL CASO A QUE SE REFIERE ESTA FRACCIÓN, ADEMÁS DE LOS DERECHOS QUE ESTABLECEN LOS INCISOS QUE ANTECEDEN, SE COBRARÁ POR LA BÚSQUEDA DE LOS DOCUMENTOS DE LOS QUE DEBA SACARSE COPIA CUANDO EL INTERESADO NO PROPORCIONE LOS DATOS EXACTOS PARA SU LOCALIZACIÓN, POR CADA AÑO QUE COMPRENDA LA BÚSQUEDA, 0.25 UMAS.
-
-III. Evaluación de impacto ambiental, veinte UMAs.
-
-IV. Por solicitudes de información conforme a la Ley de Transparencia y Acceso a la Información Pública para el Estado:
-
-(NOTA: EL 8 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2020, DECLARÓ LA INVALIDEZ DEL INCISO a) DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-a) POR COPIAS SIMPLES O IMPRESOS POR MEDIO DE DISPOSITIVO INFORMÁTICO, POR CADA HOJA TAMAÑO CARTA U OFICIO: 0.02 UMAS;
-
-b) Por copias certificadas distintas a las señaladas en las fracciones anteriores, por cada hoja o fracción: 0.02 UMAs; y
-
-(NOTA: EL 8 DE DICIEMBRE DE 2020, EL PLENO DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, EN LOS CONSIDERANDOS SEXTO Y SÉPTIMO, ASÍ COMO EN EL RESOLUTIVO TERCERO DE LA SENTENCIA DICTADA AL RESOLVER LA ACCIÓN DE INCONSTITUCIONALIDAD 105/2020, DECLARÓ LA INVALIDEZ DEL INCISO c) DE LA FRACCIÓN IV DE ESTE ARTÍCULO INDICADO CON MAYÚSCULAS, LA CUAL SURTIÓ EFECTOS EL 9 DE DICIEMBRE DE 2020 DE ACUERDO A LAS CONSTANCIAS QUE OBRAN EN LA SECRETARÍA GENERAL DE ACUERDOS DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. DICHA SENTENCIA PUEDE SER CONSULTADA EN LA DIRECCIÓN ELECTRÓNICA http://www2.scjn.gob.mx/).
-
-c) POR INFORMACIÓN GRABADA EN DISCO DE 3.5 PULGADAS O DISCO COMPACTO, POR COPIA: 0.03 UMAS
+(DEROGADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 10/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MARZO DE 2015)
 
 ###### Artículo 15.
 
@@ -696,3 +702,19 @@ PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicaci
 SEGUNDO. Publíquese el Acuerdo General en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
 
 TERCERO. Los nombramientos de los Administradores de los Centros de Justicia Penal federal, que antes de la entrada en vigor del presente Acuerdo hayan sido designados, cesan sus efectos, de conformidad con las disposiciones laborales aplicables.
+
+D.O.F. 1 DE JUNIO DE 2015.
+
+PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 22 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 36/2014 QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, ASÍ COMO LOS DIVERSOS ACUERDOS GENERALES QUE CREAN LOS CENTROS DE JUSTICIA PENAL FEDERAL EN LOS ESTADOS DE PUEBLA, DURANGO, YUCATÁN, ZACATECAS, GUANAJUATO, BAJA CALIFORNIA SUR, QUERÉTARO, SAN LUIS POTOSÍ, COAHUILA DE ZARAGOZA, SINALOA, OAXACA, CHIHUAHUA, CHIAPAS, NAYARIT Y TLAXCALA, PARA PRECISAR LA TEMPORALIDAD EN EL CARGO DE ADMINISTRADOR”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día de su aprobación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+TERCERO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
