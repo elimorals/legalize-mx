@@ -4,7 +4,7 @@ identifier: "AGU-codigo-civil-del-estado-de-aguascalientes-2592"
 country: "mx"
 rank: "codigo"
 publication_date: "1947-12-07"
-last_updated: "2015-12-28"
+last_updated: "2016-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2592&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 28 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2016.
 
 Código publicado en el Suplemento al No. 49 del Periódico Oficial del Estado de Aguascalientes, el 7 de diciembre de 1947.
 
@@ -181,7 +181,9 @@ El domicilio legal de una persona es el lugar donde la ley le fije su residencia
 
 Se reputa domicilio legal:
 
-I.- Del menor de edad no emancipado, el de la persona a cuya patria potestad está sujeto;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2016)</small>
+
+I.- Del menor de edad el de la persona a cuya patria potestad está sujeto;
 
 II.- Del menor que no esté bajo la patria potestad y del mayor incapacitado, el de su tutor;
 
@@ -357,21 +359,19 @@ La Dirección General del Registro Civil tendrá bajo su control, inspección y 
 
 DE LAS ACTAS DE NACIMIENTO.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 50.
 
-Las declaraciones de nacimiento se harán presentando al niño ante el Oficial del Registro Civil o solicitando la comparecencia de éste, al lugar donde se encuentre aquél.
+Niñas, niños y adolescentes desde su nacimiento, tienen derecho a contar con nombre y los apellidos que les correspondan, así como a ser inscritos en el Registro Civil respectivo de forma inmediata y gratuita, y a que se les expida en forma ágil y sin costo la primera copia certificada de su acta de nacimiento.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 51.
 
-Tienen obligación de declarar el nacimiento el padre y la madre o cualquiera de ellos dentro de los 180 días de ocurrido el mismo.
+Las declaraciones de nacimiento se harán presentando al niño ante el Oficial del Registro Civil o solicitando la comparecencia de éste, al lugar donde se encuentre aquél.
 
-> <small>(ADICIONADO, P.O. 6 DE MARZO DE 2000)</small>
-
-Los médicos, cirujanos o parteras que hubiesen asistido el parto tienen la obligación de dar aviso al Oficial del Registro Civil, dentro de los tres días siguientes anexando copia del certificado de nacimiento en los términos que establezca el Instituto de Salud del Estado de Aguascalientes.
+Tienen obligación de declarar el nacimiento el padre y la madre o cualquiera de ellos dentro de los 90 días de ocurrido el mismo.
 
 > <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
 
@@ -629,35 +629,27 @@ VI.- El nombre del Juez que pronunció el auto de discernimiento y la fecha de �
 
 Realizado el registro de tutela, se anotará el registro de nacimiento del incapacitado, observándose para el caso de que no exista en la misma oficina del Registro, lo previsto por el Artículo 75.
 
-> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE FEBRERO DE 2016)</small>
 
 ### CAPITULO VI.
 
 DE LAS ACTAS DE EMANCIPACION.
 
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
-
 ###### Artículo 85.
 
-En los casos de emancipación por efecto del matrimonio no se formará acta separada; el Oficial del Registro Civil anotará las respectivas actas de nacimiento de los cónyuges, expresándose al margen de ellas quedar éstos emancipados en virtud de matrimonio y citando la fecha en que éste se celebró así como el número y la foja del acta relativa.
-
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
+(DEROGADO, P.O. 22 DE FEBRERO DE 2016)
 
 ###### Artículo 86.
 
-Los registros de emancipación por resolución judicial se realizarán insertando a la letra la resolución del Juez que autorizó la emancipación. Se anotará el registro de nacimiento, expresando al margen de ella haber quedado emancipado el menor, citando la fecha de la emancipación así como el número de foja del registro respectivo.
-
-> <small>(ADICIONADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
+(DEROGADO, P.O. 22 DE FEBRERO DE 2016)
 
 ###### Artículo 87.
 
-Si en la Oficina en que se registró la emancipación no existe el acta del emancipado, el Oficial del Registro Civil remitirá copia del acta de emancipación al del lugar en que se registró el nacimiento, para que haga la anotación correspondiente.
-
-> <small>(REFORMADO, P.O. 6 DE MARZO DE 2000)</small>
+(DEROGADO, P.O. 22 DE FEBRERO DE 2016)
 
 ###### Artículo 88.
 
-La omisión del registro de emancipación no sustrae a ésta sus efectos legales, pero sujeta al responsable al pago de una multa de treinta a cincuenta días de salario mínimo general vigente en el Estado.
+(DEROGADO, P.O. 22 DE FEBRERO DE 2016)
 
 ### CAPITULO VII.
 
@@ -685,7 +677,7 @@ Al escrito a que se refiere el artículo anterior se acompañará:
 
 I.- Copia certificada del acta de nacimiento o de la cédula de identificación personal de cada uno de los pretendientes;
 
-II.- La constancia de que prestan su consentimiento para que el matrimonio se celebre, cuando se trate de las personas a que se refieren los Artículos 146, 147 y 148 de este Código;
+II.- (DEROGADA, P.O. 22 DE FEBRERO DE 2016)
 
 III.- La declaración de dos testigos mayores de edad que conozcan a los pretendientes y les conste que no tienen impedimento legal para casarse. Si no hubiere dos testigos que conozcan a ambos pretendientes, deberán presentarse dos testigos por cada uno de ellos;
 
@@ -693,7 +685,9 @@ IV.- Un certificado suscrito por un médico legalmente autorizado que asegure, b
 
 Para los indigentes tienen obligación de expedir gratuitamente estos certificados, los médicos encargados de los Servicios Coordinados de Salud Pública.
 
-V.- El convenio que los pretendientes celebren en relación a los bienes presentes y a los que adquieran durante el matrimonio; en el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o bajo el de separación de bienes. Si los pretendientes son menores de edad deberán aprobar el convenio las personas cuyo consentimiento previo es necesario para la celebración del matrimonio. No puede dejarse de presentar este convenio bajo ningún pretexto y el Oficial del Registro Civil está obligado a asesorarlos, en especial en lo relativo a lo dispuesto en los Artículos 191 y 210 de este Código.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2016)</small>
+
+V.- El convenio que los pretendientes celebren en relación a los bienes presentes y a los que adquieran durante el matrimonio; en el convenio se expresará con toda claridad si el matrimonio se contrae bajo el régimen de sociedad conyugal o bajo el de separación de bienes. No puede dejarse de presentar este convenio bajo ningún pretexto y el Oficial del Registro Civil está obligado a asesorarlos, en especial en lo relativo a lo dispuesto en los Artículos 191 y 210 de este Código.
 
 Si de acuerdo con lo dispuesto en el Artículo 199 fuere necesario que las capitulaciones matrimoniales consten en escritura pública, se acompañará un testimonio de esa escritura.
 
@@ -707,11 +701,11 @@ VII.- Copia del documento en que se haya otorgado la dispensa de impedimentos si
 
 En caso de que los pretendientes por falta de conocimientos, no puedan redactar el convenio a que se refiere la fracción V del artículo anterior, tendrá obligación de redactarlo el Oficial del Registro Civil, con los datos que los mismos pretendientes le suministren.
 
-> <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 92.
 
-El Oficial del Registro Civil ante quien se presente una solicitud de matrimonio que llene los requisitos enumerados en los artículos anteriores, hará que los pretendientes y los ascendientes o tutores que deben prestar su consentimiento, reconozcan, ante él y por separado sus firmas, la declaración de los testigos a que se refiere la fracción III del Artículo 90 serán ratificadas bajo protesta de decir verdad, ante el mismo Oficial del Registro Civil. Este, cuando lo considere necesario, se cerciorará de la autenticidad de la firma que calce el certificado médico presentado solicitando la ratificación ante su presencia de la misma. Pero sobre todo, en los casos en que se exprese optar por el régimen de sociedad legal, se exigirá que los pretendientes ratifiquen esta determinación, explicando previamente en qué consiste dicho régimen y la trascendencia que tendrá sobre sus bienes.
+El Oficial del Registro Civil ante quien se presente una solicitud de matrimonio que llene los requisitos enumerados en los artículos anteriores, hará que los pretendientes reconozcan ante él y por separado sus firmas, la declaración de los testigos a que se refiere la fracción III del Artículo 90 serán ratificadas bajo protesta de decir verdad, ante el mismo Oficial del Registro Civil. Este, cuando lo considere necesario, se cerciorará de la autenticidad de la firma que calce el certificado médico presentado solicitando la ratificación ante su presencia de la misma. Pero sobre todo, en los casos en que se exprese optar por el régimen de sociedad legal, se exigirá que los pretendientes ratifiquen esta determinación, explicando previamente en qué consiste dicho régimen y la trascendencia que tendrá sobre sus bienes.
 
 > <small>(REFORMADO, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -739,17 +733,13 @@ Se realizará luego el registro de matrimonio en la cual se hará constar:
 
 I.- Los nombres, apellidos, edad, ocupación, domicilio, nacionalidad y lugar de nacimiento de los contrayentes;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1981)</small>
-
-II.- Si son mayores o menores de edad;
+II.- (DEROGADA, P.O. 22 DE FEBRERO DE 2016)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
 III.- Los nombres, apellidos, domicilio y nacionalidad de los padres;
 
-> <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1981)</small>
-
-IV.- El consentimiento de éstos, de los abuelos o tutores, o de las autoridades que deban suplirlos; si los contrayentes son menores de edad;
+IV.- (DEROGADA, P.O. 22 DE FEBRERO DE 2016)
 
 > <small>(REFORMADA, P.O. 31 DE DICIEMBRE DE 1981)</small>
 
@@ -1145,15 +1135,15 @@ Se entiende por familia a todo grupo de personas que habitan una misma casa, que
 
 La promesa de matrimonio que se hace por escrito y es aceptada, constituye los esponsales. La aceptación se presume mientras no se demuestre lo contrario.
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 137.
 
-Sólo puede celebrar esponsales el hombre y la mujer que han cumplido dieciséis años.
+Sólo pueden celebrar esponsales las personas que han cumplido dieciocho años.
 
 ###### Artículo 138.
 
-Cuando los prometidos son menores de edad, los esponsales no producen efectos jurídicos si no han consentido en ellos sus representantes legales.
+(DEROGADO, P.O. 22 DE FEBRERO DE 2016)
 
 ###### Artículo 139.
 
@@ -1199,55 +1189,49 @@ El matrimonio debe celebrarse ante los Oficiales del Registro Civil y con las fo
 
 Cualquiera condición contraria A LA PERPETUACIÓN DE LA ESPECIE O a la ayuda mutua que se deben los cónyuges, se tendrá por no puesta.
 
-> <small>(REFORMADO, P.O. 22 DE JUNIO DE 2015)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 145.
 
-La edad mínima para contraer matrimonio será de 18 años. El Juez, puede conceder dispensa de edad por causas graves y justificadas, pero nunca se podrá dispensar a menores de catorce años.
-
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+La edad mínima para contraer matrimonio será de 18 años.
 
 ###### Artículo 146.
 
-El hijo o la hija que no hayan cumplido dieciocho años, no pueden contraer matrimonio sin el consentimiento de su padre y de su madre si vivieran ambos o del que sobreviva. A falta o por imposibilidad de los padres se necesita la suplencia en el consentimiento del Juez.
+(DEROGADO, P.O. 22 DE FEBRERO DE 2016)
 
 ###### Artículo 147.
 
 (DEROGADO, P.O. 19 DE NOVIEMBRE DE 2007)
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
-
 ###### Artículo 148.
 
-Los interesados pueden ocurrir al Juez, cuando los ascendientes nieguen su consentimiento o revoquen el que hubieren concedido.
-
-La autoridad mencionada, después de levantar una información sobre el particular, suplirá o no el consentimiento.
-
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+(DEROGADO, P.O. 22 DE FEBRERO DE 2016)
 
 ###### Artículo 149.
 
-Si el Juez en el caso de los dos Artículos anteriores se niega a suplir el consentimiento para que se celebre el matrimonio, los interesados ocurrirán al Supremo Tribunal de Justicia del Estado en los términos que disponga el Código de Procedimientos Civiles.
+(DEROGADO, P.O. 22 DE FEBRERO DE 2016)
 
 ###### Artículo 150.
 
-El ascendiente o tutor que ha prestado su consentimiento haciéndolo constar ante el Oficial del Registro Civil en forma auténtica, no puede revocarlo después, a menos que obre causa justa para ello.
+(DEROGADO, P.O. 22 DE FEBRERO DE 2016)
 
 ###### Artículo 151.
 
-Si al ascendiente o tutor que ha firmado o ratificado la solicitud de matrimonio, falleciere antes de que se celebre, su consentimiento no puede ser revocado por la persona que, en su defecto, tendría el derecho de otorgarlo; salvo que haya alguna causa superveniente y siempre que el matrimonio se verifique dentro del término fijado en el artículo 93.
+(DEROGADO, P.O. 22 DE FEBRERO DE 2016)
 
 ###### Artículo 152.
 
-El Juez o Tribunal Superior, que hubiere autorizado a un menor para contraer matrimonio no podrá revocar el consentimiento, una vez que lo haya otorgado, si no por justa causa superveniente.
+(DEROGADO, P.O. 22 DE FEBRERO DE 2016)
 
 ###### Artículo 153.
 
 Son impedimentos para celebrar el matrimonio:
 
-I.- La falta de edad requerida por la ley, cuando no haya sido dispensada;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2016)</small>
 
-II.- La falta de consentimiento del que, o los que ejerzan la patria potestad, del tutor o juez, en sus respectivos casos;
+I.- La falta de edad requerida por la ley;
+
+II.- (DEROGADA, P.O. 22 DE FEBRERO DE 2016)
 
 > <small>(REFORMADA, P.O. 19 DE NOVIEMBRE DE 2007)</small>
 
@@ -1271,7 +1255,9 @@ VIII.- Padecer trastorno mental permanente, declarado judicialmente;
 
 IX.- El matrimonio subsistente con persona distinta de aquella con quien se pretenda contraer.
 
-De estos impedimentos sólo son dispensables la falta de edad y el parentesco de consanguinidad en línea corateral (sic) desigual.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2016)</small>
+
+De estos impedimentos sólo es dispensable el parentesco de consanguinidad en línea colateral desigual.
 
 ###### Artículo 154.
 
@@ -1371,15 +1357,15 @@ Los cónyuges podrán desempeñar cualquier actividad excepto las que dañen la 
 
 (DEROGADO, P.O. 23 DE AGOSTO DE 1998)
 
-> <small>(REFORMADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 168.
 
-Los cónyuges mayores de edad conservan su plena capacidad legal para celebrar actos jurídicos con terceros y no requerirán autorización de su consorte para ello. Lo anterior no impide que los bienes afectos a sociedad conyugal o patrimonio familiar sean administrados por uno solo de los cónyuges.
+Los cónyuges conservan su plena capacidad legal para celebrar actos jurídicos con terceros y no requerirán autorización de su consorte para ello. Lo anterior no impide que los bienes afectos a sociedad conyugal o patrimonio familiar sean administrados por uno solo de los cónyuges.
 
 ###### Artículo 169.
 
-El marido y la mujer menores de edad, tendrán la administración de sus bienes, en los términos del artículo que precede, pero necesitarán autorización judicial para enajenarlos, gravarlos o hipotecarlos y un tutor para sus negocios judiciales.
+(DEROGADO, P.O. 22 DE FEBRERO DE 2016)
 
 ###### Artículo 170.
 
@@ -1429,9 +1415,11 @@ La sociedad voluntaria y la legal se regirán por las disposiciones relativas a 
 
 La sociedad legal, nace desde el momento en que se celebra el matrimonio; la voluntaria puede nacer desde la celebración del matrimonio o durante éste, según que las capitulaciones matrimoniales respectivas se pacten al celebrarse el matrimonio o durante el mismo.
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 179.
 
-La sociedad conyugal, voluntaria o legal, terminará por la muerte de cualquiera de los cónyuges, por divorcio declarado, o por voluntad de los consortes; pero si éstos son menores de edad, deben intervenir en la disolución de la sociedad por el último motivo, prestando su consentimiento, las personas a que se refieren los artículos 146 y 147 de este Código, o con autorización judicial cuando falten estas personas.
+La sociedad conyugal, voluntaria o legal, terminará por la muerte de cualquiera de los cónyuges, por divorcio declarado, o por voluntad de los consortes.
 
 ###### Artículo 180.
 
@@ -1457,7 +1445,7 @@ Las capitulaciones matrimoniales pueden otorgarse antes de la celebración del m
 
 ###### Artículo 184.
 
-El menor que con arreglo a la ley pueda contraer matrimonio, puede también otorgar capitulaciones, las cuales serán válidas si a su otorgamiento concurren las personas cuyo consentimiento previo es necesario para la celebración del matrimonio, o la autorización judicial si las capitulaciones se pactan después de celebrado el matrimonio.
+(DEROGADO, P.O. 22 DE FEBRERO DE 2016)
 
 ###### Artículo 185.
 
@@ -1715,9 +1703,11 @@ Puede haber separación de bienes en virtud de capitulaciones anteriores al matr
 
 La separación de bienes puede ser absoluta o parcial. En el segundo caso, los bienes que no estén comprendidos en las capitulaciones de separación, serán objeto de la sociedad conyugal.
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 231.
 
-Durante el matrimonio la separación de bienes puede terminar para ser substituida por la sociedad conyugal; pero si los consortes son menores de edad, se observará lo dispuesto en el artículo 184.
+Durante el matrimonio la separación de bienes puede terminar para ser substituida por la sociedad conyugal.
 
 ###### Artículo 232.
 
@@ -1849,37 +1839,21 @@ III.- Que se haya celebrado en contravención a lo dispuesto en los artículos 8
 
 La acción de nulidad que nace de error, sólo puede deducirse por el cónyuge engañado; pero si éste no denuncia el error inmediatamente que lo advierte, se tiene por ratificado el consentimiento y queda subsistente el matrimonio, a no ser que exista algún otro impedimento que lo anule.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
-
 ###### Artículo 260.
 
-La menor edad de dieciséis años en la mujer y en el hombre, dejará de ser causa de nulidad:
-
-I.- Cuando haya habido hijos;
-
-> <small>(REFORMADA, P.O. 3 DE MAYO DE 1970)</small>
-
-II.- Cuando, aunque no los haya habido, el menor hubiere llegado a los dieciocho años y ni él ni el otro cónyuge hubieren intentado la nulidad.
-
-> <small>(ADICIONADO, P.O. 19 DE NOVIEMBRE DE 2007)</small>
-
-La acción de nulidad del matrimonio por violación a lo dispuesto en la Fracción I del Artículo 153, podrá ejercitarse por cualquiera de los cónyuges o por sus ascendientes en el caso del menor de edad. Esta acción podrá ejercitarse dentro de los seis meses contados a partir que tenga conocimiento del matrimonio.
+(DEROGADO, P.O. 22 DE FEBRERO DE 2016)
 
 ###### Artículo 261.
 
-La nulidad por falta de consentimiento de los ascendientes sólo podrá alegarse por aquel o aquellos a quienes tocaba prestar dicho consentimiento, y dentro de treinta días contados desde que tengan conocimiento del matrimonio.
+(DEROGADO, P.O. 22 DE FEBRERO DE 2016)
 
 ###### Artículo 262.
 
-Cesa esta causa de nulidad:
-
-I.- Si han pasado los treinta días sin que se haya pedido;
-
-II.- Si dentro de este término, el ascendiente ha consentido expresamente en el matrimonio, o tácitamente haciendo donación a los hijos en consideración al matrimonio, recibiendo a los consortes a vivir en su casa, presentando a la prole como legítima al Registro Civil, o practicando otros actos que a juicio del juez sean tan conducentes al efecto, como los expresados.
+(DEROGADO, P.O. 22 DE FEBRERO DE 2016)
 
 ###### Artículo 263.
 
-La nulidad por falta de consentimiento del tutor o del juez, podrá pedirse dentro del término de treinta días por cualquiera de los cónyuges, o por el tutor; pero dicha causa de nulidad cesará si antes de presentarse demanda en forma sobre ella se obtiene la ratificación del tutor o la autorización judicial, confirmando el matrimonio.
+(DEROGADO, P.O. 22 DE FEBRERO DE 2016)
 
 ###### Artículo 264.
 
@@ -2007,9 +1981,11 @@ I.- Cuando se ha contraído estando pendiente la decisión de un impedimento que
 
 II.- Cuando no se ha otorgado la previa dispensa que requiere el artículo 156 y cuando se celebre sin que haya transcurrido el término fijado en el Artículo 155.
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 287.
 
-Los que infrinjan el artículo anterior, así como los que siendo mayores de edad contraigan matrimonio con un menor sin autorización de los padres de éste, del tutor o del juez, en sus respectivos casos, y los que autoricen esos matrimonios, incurrirán en las penas que señale el Código de la materia.
+Los que infrinjan el artículo anterior, así como los que siendo mayores de edad contraigan matrimonio con un menor y los que autoricen esos matrimonios, incurrirán en las penas que señale el Código de la materia.
 
 ### CAPITULO XII.
 
@@ -3087,9 +3063,11 @@ Quién ejerza la patria potestad, debe procurar el respeto y el acercamiento con
 
 Se entiende por alienación parental la manipulación o inducción que un progenitor realiza hacia su menor hijo, mediante la desaprobación o crítica tendiente a obtener la denigración exagerada y/o injustificada del otro progenitor para producir en el menor, rechazo, rencor, odio o desprecio hacia éste.
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 435.
 
-Los hijos menores de edad no emancipados, están bajo la patria potestad mientras exista alguno de los ascendientes que deban ejercerla conforme a la ley.
+Los hijos menores de edad están bajo la patria potestad mientras exista alguno de los ascendientes que deban ejercerla conforme a la ley.
 
 ###### Artículo 436.
 
@@ -3233,9 +3211,15 @@ III.- Cuando su administración sea notoriamente ruinosa para los hijos.
 
 Si el obligado a dar fianza en los casos de este artículo, no lo hiciere dentro del término de sesenta días desde que sobrevino la causa de otorgarle, quedará separado de la administración de los bienes que pasará al ascendiente, que deba ejercer la patria potestad en su falta, o al tutor que corresponda.
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 457.
 
-Cuando por la ley o por la voluntad del padre, el hijo tenga la administración de los bienes, se le considerará respecto de la administración como emancipado, con la restricción que establece la ley para enajenar, gravar o hipotecar bienes raíces.
+El hijo que por ley o por la voluntad de quien ejerza la patria potestad, tenga la libre administración de los bienes, necesitará durante su menor edad:
+
+I.- De la autorización judicial para la enajenación, gravamen o hipotecas de bienes raíces; y
+
+II.- De un tutor para negocios judiciales.
 
 ###### Artículo 458.
 
@@ -3251,7 +3235,9 @@ Siempre que el juez conceda licencia a los que ejercen la patria potestad, para 
 
 El derecho de usufructo concedido a las personas que ejercen la patria potestad, se extingue:
 
-I.- Por la emancipación o la mayor edad de los hijos;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2016)</small>
+
+I.- Por la mayor edad de los hijos;
 
 II.- Por la pérdida de la patria potestad;
 
@@ -3271,9 +3257,11 @@ En todos los casos en que las personas que ejercen la patria potestad tienen un 
 
 Los jueces tienen facultad de tomar las medidas necesarias para impedir que, por la mala administración de quienes ejercen la patria potestad, los bienes del hijo se derrochen o se disminuyan. Estas medidas se tomarán a instancias de las personas interesadas, del menor de edad, cuando hubiere cumplido catorce años, de la Procuraduría de Protección de Derechos de Niñas, Niños y Adolescentes ó el Ministerio Público en todo caso.
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 464.
 
-Las personas que ejerzan la patria potestad deben entregar a sus hijos, luego que estos se emancipen o lleguen a la mayor edad, todos los bienes y frutos que les pertenecen.
+Las personas que ejerzan la patria potestad deben entregar a sus hijos, luego que estos lleguen a la mayor edad, todos los bienes y frutos que les pertenecen.
 
 ### CAPITULO III.
 
@@ -3285,7 +3273,7 @@ La patria potestad se acaba:
 
 I.- Con la muerte del que la ejerce, si no hay otra persona en quien recaiga;
 
-II.- Con la emancipación;
+II.- (DEROGADA, P.O. 22 DE FEBRERO DE 2016)
 
 III.- Por la mayor edad del hijo.
 
@@ -3437,7 +3425,7 @@ IV.- Los ebrios consuetudinarios, drogadictos o toxicómanos.
 
 ###### Artículo 473.
 
-Los menores de edad emancipados tienen incapacidad legal para los actos que se mencionan en el artículo 667.
+(DEROGADO, P.O. 22 DE FEBRERO DE 2016)
 
 ###### Artículo 474.
 
@@ -3535,9 +3523,11 @@ El nombramiento de tutor testamentario hecho en los términos del artículo ante
 
 Si los ascendientes excluídos estuvieren incapacitados o ausentes, la tutela cesará cuando cese el impedimento o se presenten los ascendientes, a no ser que el testador haya dispuesto expresamente que continúe la tutela.
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 495.
 
-El que en su testamento, aunque sea un menor no emancipado, deje bienes, ya sea por legado o por herencia, a un incapaz que no esté bajo su patria potestad, ni bajo la de otro, puede nombrarle tutor solamente para la administración de los bienes que le deje.
+El que en su testamento, aunque sea un menor, deje bienes ya sea por legado o por herencia, a un incapaz que no esté bajo su patria potestad, ni bajo la de otro, puede nombrarle tutor solamente para la administración de los bienes que le deje.
 
 ###### Artículo 496.
 
@@ -3681,7 +3671,7 @@ Si el juez no hace oportunamente el nombramiento de tutor, es responsable de los
 
 ###### Artículo 521.
 
-Siempre será dativa la tutela para asuntos judiciales del menor de edad emancipado.
+(DEROGADO, P.O. 22 DE FEBRERO DE 2016)
 
 ###### Artículo 522.
 
@@ -4371,7 +4361,7 @@ Designarán por sí mismos al curador, con aprobación judicial:
 
 I.- Los comprendidos en el artículo 518, observándose lo que allí se dispone respecto de esos nombramientos;
 
-II.- Los menores de edad, emancipados, en el caso previsto en la fracción II del artículo 667.
+II.- (DEROGADA, P.O. 22 DE FEBRERO DE 2016)
 
 ###### Artículo 648.
 
@@ -4459,7 +4449,7 @@ Son nulos todos los actos de administración ejecutados y los contratos celebrad
 
 ###### Artículo 660.
 
-Son también nulos los actos de administración y los contratos celebrados por los menores emancipados, si son contrarios a las restricciones establecidas por el artículo 667.
+(DEROGADO, P.O. 22 DE FEBRERO DE 2016)
 
 ###### Artículo 661.
 
@@ -4469,43 +4459,39 @@ La nulidad a que se refieren los artículos anteriores, sólo puede ser alegada,
 
 La acción para pedir la nulidad, prescribe en los términos en que prescriben las acciones personales o reales, según la naturaleza del acto cuya nulidad se pretende.
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 663.
 
-Los menores de edad no pueden alegar la nulidad de que hablan los artículos 659 y 660, en las obligaciones que hubieren contraído sobre materias propias de la profesión o arte en que sean peritos.
+Los menores de edad no pueden alegar la nulidad de que habla el artículo 659, en las obligaciones que hubieren contraído sobre materias propias de la profesión o arte en que sean peritos.
 
 ###### Artículo 664.
 
 Tampoco pueden alegarla los menores, si han presentado certificados falsos del Registro Civil, para hacerse pasar como mayores o han manifestado dolosamente que lo eran.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 22 DE FEBRERO DE 2016)</small>
+
 ## TITULO DECIMO.
 
-DE LA EMANCIPACION Y DE LA MAYOR EDAD.
+DE LA MAYOR EDAD.
+
+> <small>(DEROGADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE FEBRERO DE 2016)</small>
 
 ### CAPITULO I.
 
 DE LA EMANCIPACION.
 
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 1970)</small>
-
 ###### Artículo 665.
 
-El matrimonio del menor produce de derecho la emancipación. Aunque el matrimonio se disuelva, el cónyuge emancipado que sea menor de edad, no recaerá en la patria potestad, excepto cuando haya obrado de mala fe al contraer matrimonio.
-
-El Oficial del Registro Civil anotará las respectivas actas de nacimiento del o de los cónyuges menores de edad, haciendo constar al margen de ellas la emancipación en virtud del matrimonio y citando la fecha en que éste se celebró, así como el número y foja del acta relativa.
+(DEROGADO, P.O. 22 DE FEBRERO DE 2016)
 
 ###### Artículo 666.
 
 (DEROGADO, P.O. 3 DE MAYO DE 1970)
 
-> <small>(REFORMADO, P.O. 3 DE MAYO DE 1970)</small>
-
 ###### Artículo 667.
 
-El emancipado tiene la libre administración de sus bienes, pero siempre necesita durante su menor edad:
-
-I.- De la autorización judicial para la enajenación, gravamen o hipotecas de bienes raíces;
-
-II.- De un tutor para negocios judiciales.
+(DEROGADO, P.O. 22 DE FEBRERO DE 2016)
 
 ###### Artículo 668.
 
@@ -4975,7 +4961,9 @@ El miembro de la familia que quiera constituir el patrimonio, lo manifestará po
 
 Además, comprobará lo siguiente:
 
-I.- Que es mayor de edad o que está emancipado;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2016)</small>
+
+I.- Que es mayor de edad;
 
 II.- Que está domiciliado en el lugar donde se quiere constituir el patrimonio;
 
@@ -17022,6 +17010,26 @@ P.O. 3 DE AGOSTO DE 2015.
 El presente Decreto entrará en vigor el mismo día en que inicie su vigencia el Decreto 201 publicado en el Periódico Oficial del Estado, el 22 de junio del 2015.
 
 P.O. 28 DE DICIEMBRE DE 2015.
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "DECRETO NÚMERO 309.- REFORMAS AL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES".]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Antes de concluir el Primer Periodo Ordinario de Sesiones del Tercer Año de Ejercicio Constitucional de esta LXII Legislatura, se deberán realizar las reformas conducentes a la Ley de los Derechos de las Niñas, Niños y Adolescentes para el Estado de Aguascalientes, para especificar que no existirán excepciones a la edad mínima para contraer matrimonio, que es de 18 años.
+
+P.O. 22 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 310.- SE REFORMAN Y DEROGAN ARTÍCULOS DEL CÓDIGO CIVIL DEL ESTADO DE AGUASCALIENTES”.]
 
 ###### ARTÍCULO ÚNICO.
 
