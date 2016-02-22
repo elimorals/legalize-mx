@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia-5764
 country: "mx"
 rank: "ley"
 publication_date: "2007-11-26"
-last_updated: "2016-01-25"
+last_updated: "2016-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57643&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2016.
 
 Ley publicada en la Primera Sección del Periódico Oficial del Estado de Aguascalientes, el lunes 26 de noviembre de 2007.
 
@@ -131,9 +131,17 @@ II. Sistema: El Sistema Estatal para la Erradicación de la Violencia de Género
 
 III. Consejo: El Consejo Estatal para la Erradicación de la Violencia de Género contra las Mujeres;
 
-IV. Programa: El Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia de Género contra las Mujeres; y
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2016)</small>
 
-V. Perspectiva de Género: Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones.
+IV. Programa: El Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia de Género contra las Mujeres;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2016)</small>
+
+V. Perspectiva de Género. Es una visión científica, analítica y política sobre las mujeres y los hombres. Se propone eliminar las causas de la opresión de género como la desigualdad, la injusticia y la jerarquización de las personas basada en el género. Promueve la igualdad entre los géneros a través de la equidad, el adelanto y el bienestar de las mujeres; contribuye a construir una sociedad en donde las mujeres y los hombres tengan el mismo valor, la igualdad de derechos y oportunidades para acceder a los recursos económicos y a la representación política y social en los ámbitos de toma de decisiones; y
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2016)</small>
+
+VI. Ley General: La Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.
 
 ###### Artículo 5°.
 
@@ -281,11 +289,37 @@ La atención que reciba la victima de violencia de género y la persona que la e
 
 Los casos de violencia de género contra las mujeres y las causas que tengan relación o que se originen de ella, no serán sometidos a procedimientos de mediación y conciliación, ni a ningún otro mecanismo alternativo de solución de conflictos.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE FEBRERO DE 2016)</small>
+
+### CAPÍTULO III BIS. De la Violencia Feminicida y de la Alerta de Violencia de Género Contra las Mujeres
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2016)</small>
+
+Artículo 25 bis.- Por Violencia Feminicida se entiende la forma extrema de violencia de género contra las mujeres, producto de la violación de sus derechos humanos, en los ámbitos público y privado, conformada por el conjunto de conductas misóginas que pueden conllevar a la impunidad tanto social como del Estado y probablemente culminar en homicidio, así como en otras formas de muerte violenta de mujeres.
+
+En los casos de feminicidio cometidos en la entidad, se aplicarán las sanciones previstas en el Código Penal del Estado de Aguascalientes.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2016)</small>
+
+Artículo 25 ter.- Por Alerta de Violencia de Género se entiende el conjunto de acciones gubernamentales de emergencia para enfrentar y erradicar la Violencia Feminicida en un territorio determinado, ya sea ejercida por individuos o por la propia comunidad; y tendrá como objetivo fundamental garantizar la seguridad de las mujeres, el cese de la violencia en su contra y eliminar las desigualdades producidas por una legislación que agravia sus derechos humanos, para lo cual el Estado deberá realizar las acciones previstas en el Artículo 23 de la Ley General.
+
+La declaratoria de Alerta de Violencia de Género se emitirá de conformidad con lo previsto en los Artículos 24 y 25 de la Ley General.
+
+El Poder Ejecutivo del Estado recibirá, a través de la Secretaría General de Gobierno, la notificación de la declaratoria de Alerta de Violencia de Género contra las mujeres que dicte el Gobierno Federal, debiéndose informar al Consejo Estatal para la Erradicación de la Violencia de Género contra las Mujeres.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2016)</small>
+
+Artículo 25 quater.- El Agravio Comparado, implica un trato desigual a las mujeres dentro del marco jurídico del Estado, incluso de procedimientos y trámites administrativos.
+
+En caso de existir Agravio Comparado, las autoridades competentes deberán realizar los ajustes normativos necesarios para subsanarlo.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2016)</small>
+
+Artículo 25 quinquies.- Ante la Violencia Feminicida, el Estado de Aguascalientes y sus municipios, colaborarán con el Gobierno Federal, para el resarcimiento del daño, conforme a lo dispuesto por el Artículo 26 de la Ley General.
+
 ### CAPÍTULO IV. De las Órdenes de Protección
 
 > <small>(REFORMADO, P.O. 2 DE AGOSTO DE 2010)</small>
-
-### CAPÍTULO V. Del Sistema Estatal para la Erradicación de la Violencia de Género Contra las Mujeres
 
 ###### Artículo 26.
 
@@ -379,7 +413,7 @@ En la audiencia se recibirán, admitirán y desahogarán las pruebas que proceda
 
 El juez tendrá veinticuatro horas para dictar resolución donde confirme, modifique o revoque.
 
-### CAPÍTULO VI. De los Consejos Estatal y Municipales para la Erradicación de la Violencia de Género Contra las Mujeres
+### CAPÍTULO V. Del Sistema Estatal para la Erradicación de la Violencia de Género Contra las Mujeres
 
 ###### Artículo 31.
 
@@ -415,9 +449,7 @@ Las políticas, lineamientos y acciones de coordinación, se llevarán a cabo me
 
 El Gobierno del Estado integrará los instrumentos de información del Sistema Estatal, para cuyo efecto se establecerá la base de datos correspondiente. El Reglamento de la Ley determinará los indicadores que permitan el monitoreo de las tendencias socio-jurídicas del fenómeno y de la aplicación de la Ley.
 
-### CAPÍTULO VII
-
-Del Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia de Género Contra las Mujeres.
+### CAPÍTULO VI. De los Consejos Estatal y Municipales para la Erradicación de la Violencia de Género Contra las Mujeres
 
 ###### Artículo 35.
 
@@ -435,11 +467,15 @@ III. Un representante de la Secretaría de Finanzas;
 
 IV. Un representante de la Secretaria de Seguridad Pública;
 
-V. Un representante de la Secretaría de Desarrollo Social;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2016)</small>
+
+V. Un representante de la Secretaría de Bienestar y Desarrollo Social;
 
 VI. Un representante de la Secretaría de Desarrollo Económico;
 
-VII. Un representante de la Secretaría de Planeación y Desarrollo Regional;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2016)</small>
+
+VII. Un representante de la Coordinación Estatal de Planeación y Proyectos;
 
 > <small>(REFORMADA, P.O. 27 DE JULIO DE 2015)</small>
 
@@ -447,7 +483,9 @@ VIII. Un representante de la Fiscalía General del Estado;
 
 IX. Un representante del Instituto de Educación del Estado;
 
-X. Un representante del Instituto de Salud del Estado;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2016)</small>
+
+X. Un representante del Instituto de Servicios de Salud del Estado;
 
 XI. Una representante del Instituto Aguascalentense de las Mujeres;
 
@@ -455,9 +493,21 @@ XII. Un representante del Sistema Estatal para el Desarrollo Integral de la Fami
 
 XIII. Un representante del Presidente de la Comisión Estatal de Derechos Humanos;
 
-XIV. Tres representantes de organizaciones civiles especializadas en la materia; y
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2016)</small>
 
-XV. Dos representantes de instituciones de investigación especializados en la materia.
+XIV. Un representante de la Comisión de Equidad de Género del Congreso del Estado;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2016)</small>
+
+XV. Un representante de la Comisión de Derechos Humanos del Congreso del Estado;
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2016)</small>
+
+XVI. Tres representantes de organizaciones civiles especializadas en la materia; y
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2016)</small>
+
+XVII. Dos representantes de instituciones de investigación especializados en la materia.
 
 ###### Artículo 37.
 
@@ -555,7 +605,9 @@ La Coordinadora General podrá invitar a cualquier persona que por sus conocimie
 
 Para la debida coordinación y desarrollo de las actividades para la erradicación de la violencia de género contra las mujeres en el Estado, podrán formar consejos municipales, mismos que se organizarán atendiendo las características de cada lugar.
 
-### CAPÍTULO VIII. De la Distribución de Competencias en Materia de Prevención, Atención y Sanción de la Violencia de Género Contra las Mujeres
+### CAPÍTULO VII
+
+Del Programa Estatal para Prevenir, Atender, Sancionar y Erradicar la Violencia de Género Contra las Mujeres.
 
 ###### Artículo 46.
 
@@ -612,6 +664,8 @@ XIII. Diseñar un modelo integral de atención a los derechos humanos de las muj
 > <small>(ADICIONADA, P.O. 25 DE ENERO DE 2016)</small>
 
 XIV. Informar del uso de tecnologías de la información, para evitar la grabación transmisión y manipulación de imágenes sexuales o eróticas distribuidas sin consentimiento de quien sufre la afectación.
+
+### CAPÍTULO VIII. De la Distribución de Competencias en Materia de Prevención, Atención y Sanción de la Violencia de Género Contra las Mujeres
 
 ###### Artículo 49.
 
@@ -861,15 +915,19 @@ VI. Las demás que le asigne el Programa.
 
 Forman parte del Sector Trabajo y Desarrollo Social y Económico:
 
-I. La Secretaria de Desarrollo Social;
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2016)</small>
+
+I. La Secretaría de Bienestar y Desarrollo Social;
 
 II. La Secretaría de Desarrollo Económico; y
 
 III. La Secretaria de Turismo.
 
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 22 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 63.
 
-Corresponde a la Secretaria de Desarrollo Social:
+Corresponde a la Secretaría de Bienestar y Desarrollo Social:
 
 I. Fomentar el desarrollo social desde la visión de protección integral de los derechos humanos de las mujeres con perspectiva de género, para garantizarles una vida libre de violencia;
 
@@ -1079,9 +1137,17 @@ II. Implementar campañas de información en las regiones del Estado sobre el de
 
 III. Implementar en sus sistemas estadísticos la incorporación de indicadores que faciliten el monitoreo de las tendencias socio-jurídicas del fenómeno y la consecuente aplicación de la ley;
 
-IV. Rendir un informe bimensual de actividades a la Coordinación General del Consejo; y
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2016)</small>
 
-V. Las demás que le asigne el Programa.
+IV. Rendir un informe bimensual de actividades a la Coordinación General del Consejo;
+
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2016)</small>
+
+V. Solicitar la declaratoria de Alerta de Violencia de Género, conforme a lo establecido en la Ley General; y
+
+> <small>(ADICIONADA, P.O. 22 DE FEBRERO DE 2016)</small>
+
+VI. Las demás que le asigne el Programa.
 
 #### SECCIÓN QUINTA. De los Municipios
 
@@ -1208,3 +1274,15 @@ P.O. 25 DE ENERO DE 2016.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 22 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚMERO 311.- SE REFORMA Y ADICIONA LA LEY DE ACCESO DE LAS MUJERES A UNA VIDA LIBRE DE VIOLENCIA PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+###### ARTÍCULO SEGUNDO.
+
+Dentro de los ciento veinte días hábiles siguientes al inicio de vigencia del presente Decreto, deberán realizarse las adecuaciones conducentes al Reglamento de la Ley de Acceso de las Mujeres a una Vida Libre de Violencia para el Estado de Aguascalientes.
