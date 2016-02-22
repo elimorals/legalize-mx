@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-2-2015-del-pleno-del-consejo-de-la-106271"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2015-03-04"
-last_updated: "2015-09-11"
+last_updated: "2016-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=106271&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2015-02-24"
 
 ACUERDO GENERAL 2/2015, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE CREA EL CENTRO DE JUSTICIA PENAL FEDERAL EN EL ESTADO DE ZACATECAS
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 11 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE FEBRERO DE 2016.
 
 Acuerdo publicado en la Primera Sección del Diario Oficial de la Federación, el miércoles 4 de marzo de 2015.
 
@@ -63,17 +63,21 @@ El presente Acuerdo tiene por objeto regular la organización, funcionamiento e 
 
 Para efectos del presente Acuerdo se entenderá por:
 
-I. Centro: Centro de Justicia Penal Federal en el Estado de Zacatecas, con residencia en la ciudad del mismo nombre;
+> <small>(ADICIONADA POR EL ARTÍCULO 5 DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 36/2014 QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, ASÍ COMO LOS DIVERSOS ACUERDOS GENERALES QUE CREAN LOS CENTROS DE JUSTICIA PENAL FEDERAL EN LOS ESTADOS DE PUEBLA, DURANGO, YUCATÁN, ZACATECAS, GUANAJUATO, BAJA CALIFORNIA SUR, QUERÉTARO, SAN LUIS POTOSÍ, COAHUILA DE ZARAGOZA, SINALOA, OAXACA, CHIHUAHUA, CHIAPAS, NAYARIT Y TLAXCALA, PARA PRECISAR LA TEMPORALIDAD EN EL CARGO DE ADMINISTRADOR, D.O.F. 22 DE FEBRERO DE 2016)</small>
 
-II. Consejo: Consejo de la Judicatura Federal;
+I. Administrador: Juez de Distrito encargado de la administración del Centro de Justicia Penal Federal;
 
-III. Jueces de Control y tribunales de Enjuiciamiento: Jueces de Distrito especializados en el sistema penal acusatorio;
+II. Centro: Centro de Justicia Penal Federal en el Estado de Zacatecas, con residencia en la ciudad del mismo nombre;
 
-IV. Órganos Jurisdiccionales: jueces de Control, así como tribunales de Enjuiciamiento y de Alzada;
+III. Consejo: Consejo de la Judicatura Federal;
 
-V. Pleno: Pleno del Consejo; y
+IV. Jueces de Control y tribunales de Enjuiciamiento: Jueces de Distrito especializados en el sistema penal acusatorio;
 
-VI. Tribunal de Alzada: Tribunal Unitario de Circuito con competencia especializada en el sistema penal acusatorio.
+V. Órganos Jurisdiccionales: jueces de Control, así como tribunales de Enjuiciamiento y de Alzada;
+
+VI. Pleno: Pleno del Consejo; y
+
+VII. Tribunal de Alzada: Tribunal Unitario de Circuito con competencia especializada en el sistema penal acusatorio.
 
 ###### Artículo 3.
 
@@ -95,7 +99,9 @@ V. Tribunal Unitario de Circuito con Competencia Especializada en el Sistema Pen
 
 Los jueces de Distrito a que se refiere este artículo tendrán competencia para actuar indistintamente como jueces de control y tribunales de enjuiciamiento, debiendo especificar el carácter de su actuación en las constancias respectivas, sin embargo, aquellos que hayan intervenido en alguna etapa del procedimiento anterior a la audiencia de juicio, no podrán fungir como Tribunal de Enjuiciamiento, de conformidad con el artículo 350 del Código Nacional de Procedimientos Penales.
 
-El Centro contará con la plantilla laboral autorizada, y la Administración del Centro se regirá conforme a las disposiciones del Acuerdo General del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal.
+> <small>(REFORMADO POR EL ARTÍCULO 5 DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 36/2014 QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, ASÍ COMO LOS DIVERSOS ACUERDOS GENERALES QUE CREAN LOS CENTROS DE JUSTICIA PENAL FEDERAL EN LOS ESTADOS DE PUEBLA, DURANGO, YUCATÁN, ZACATECAS, GUANAJUATO, BAJA CALIFORNIA SUR, QUERÉTARO, SAN LUIS POTOSÍ, COAHUILA DE ZARAGOZA, SINALOA, OAXACA, CHIHUAHUA, CHIAPAS, NAYARIT Y TLAXCALA, PARA PRECISAR LA TEMPORALIDAD EN EL CARGO DE ADMINISTRADOR, D.O.F. 22 DE FEBRERO DE 2016)</small>
+
+El Centro contará con la plantilla laboral autorizada, y la Administración del Centro se regirá conforme a las disposiciones del Acuerdo General 36/2014 del Pleno del Consejo de la Judicatura Federal, que regula los Centros de Justicia Penal Federal. El turno como Administrador corresponderá al Juez de Distrito del Centro que sea designado por el Consejo, cuya duración en el cargo será determinada conforme lo dispuesto por el ordenamiento antes citado.
 
 ###### Artículo 5.
 
@@ -238,3 +244,13 @@ D.O.F. 11 DE SEPTIEMBRE DE 2015.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 22 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 36/2014 QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, ASÍ COMO LOS DIVERSOS ACUERDOS GENERALES QUE CREAN LOS CENTROS DE JUSTICIA PENAL FEDERAL EN LOS ESTADOS DE PUEBLA, DURANGO, YUCATÁN, ZACATECAS, GUANAJUATO, BAJA CALIFORNIA SUR, QUERÉTARO, SAN LUIS POTOSÍ, COAHUILA DE ZARAGOZA, SINALOA, OAXACA, CHIHUAHUA, CHIAPAS, NAYARIT Y TLAXCALA, PARA PRECISAR LA TEMPORALIDAD EN EL CARGO DE ADMINISTRADOR”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día de su aprobación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+TERCERO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
