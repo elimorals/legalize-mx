@@ -4,7 +4,7 @@ identifier: "AGU-ley-de-proteccion-ambiental-para-el-estado-de-aguascalientes-17
 country: "mx"
 rank: "ley"
 publication_date: "2000-02-14"
-last_updated: "2012-12-24"
+last_updated: "2016-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=17003&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE DICIEMBRE DE 2012.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2016.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado Aguascalientes, el lunes 4 de febrero de 2000.
 
@@ -41,7 +41,7 @@ LEY DE PROTECCION AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES
 
 ## TÍTULO PRIMERO. DISPOSICIONES GENERALES
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 ### CAPÍTULO I. Disposiciones Generales
 
@@ -427,7 +427,7 @@ I. Ser congruente con las disposiciones del Plan Estatal Desarrollo y la Políti
 
 II. Procurar que en los mismos se establezcan condiciones que faciliten el proceso de desconcentración de funciones desde la Federación hacia los Estados y desde éstos hacia los Municipios; y la asignación de los recursos financieros necesarios a las dependencias y entidades de la Administración Pública Estatal y Municipal, involucradas en las acciones de preservación de los recursos naturales, así como de prevención y control de la contaminación; y
 
-III. Las demás que tengan por objeto dar cumplimiento a lo dispuesto por la presente Ley; (sic)
+III. Las demás que tengan por objeto dar cumplimiento a lo dispuesto por la presente Ley;
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -609,7 +609,7 @@ II. Intermunicipal, cuya extensión rebase la de un Municipio; y
 
 III. Municipal, que abarcan la totalidad o parte de un Municipio.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 19.
 
@@ -763,7 +763,7 @@ V. La poca disponibilidad de agua en el Estado.
 
 ### CAPÍTULO IV. Evaluación del Impacto Ambiental
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 31.
 
@@ -771,7 +771,7 @@ La evaluación del impacto ambiental es el procedimiento a través del cual la S
 
 Los instrumentos de evaluación del impacto ambiental son el informe preventivo y el Manifiesto de Impacto Ambiental.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 Se requiere la autorización de la Secretaría en materia de impacto ambiental, previamente a la realización de las siguientes obras o actividades:
 
@@ -809,7 +809,7 @@ XIV. Microempresas industriales de los giros establecidos en el Reglamento.
 
 No estarán sujetas a la presentación de un Manifiesto de Impacto Ambiental, sino a un informe preventivo, las obras o actividades que por su ubicación, dimensiones, características o alcances no produzcan impactos ambientales significativos, no causen deterioro ambiental, ni rebasen los límites y condiciones establecidos en las disposiciones jurídicas referidas a la preservación y protección del ambiente; las obras y actividades que deberán presentar un Informe Preventivo serán determinados en el Reglamento respectivo de ésta Ley y deberán acreditarse de manera fehaciente e indubitable, a través del procedimiento idóneo que el Reglamento mencionado establezca, incluyéndose en éste acciones de inspección a través de la Procuraduría, en uso de la facultad que le concede la Ley de la Procuraduría Estatal de Protección al Ambiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 33.
 
@@ -835,7 +835,7 @@ IX. Ladrilleras.
 
 En estos casos la evaluación de impacto ambiental se podrá efectuar dentro de los procedimientos de autorización de uso del suelo, construcciones, fraccionamientos, u otros que establezcan los reglamentos municipales y disposiciones que de ellos se deriven. Dichos ordenamientos proveerán lo necesario a fin de hacer compatible la política ambiental con la de desarrollo urbano y evitar la duplicidad innecesaria de procedimientos administrativos en la materia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 34.
 
@@ -893,7 +893,7 @@ El esquema y los procedimientos para la consulta pública se llevarán a cabo co
 
 Una vez recibido el instrumento de evaluación ambiental, la autoridad competente, en un plazo no mayor a 15 días hábiles, deberá comunicar a los interesados si necesita mayor información o bien emitirá la resolución respectiva dentro del término que ésta Ley señala. En caso de requerir mayor información, la autoridad comunicará al promoverte que cuenta con un plazo de 10 días para cumplir con el requerimiento de proporcionar información adicional. En caso de que el promovente no presente la información solicitada en el término señalado, la autoridad desechará el trámite.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 38.
 
@@ -945,7 +945,7 @@ La Secretaría deberá emitir la resolución correspondiente en un plazo no mayo
 
 Los resultados de la consulta pública deberán ser tomados en consideración por la Secretaría para establecer las condiciones a que deberá sujetarse la obra o actividad sujeta a evaluación de impacto ambiental, en caso contrario la autoridad deberá justificar la improcedencia de dichos resultados.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 41.
 
@@ -989,7 +989,7 @@ La Secretaría fomentará programas de autorregulación y auditoría ambiental y
 
 Los productores, empresas u organizaciones empresariales podrán desarrollar procesos voluntarios de autorregulación ambiental, a través de los cuales mejoren su desempeño ambiental respetando la legislación vigente en la materia y se comprometan a superar o cumplir mayores niveles, metas o beneficios en materia de protección ambiental.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 La Secretaría en el ámbito su competencia inducirá o concertará:
 
@@ -1009,7 +1009,7 @@ V. Las demás acciones que induzcan a las empresas a alcanzar los objetivos de l
 
 El desarrollo de la auditoría ambiental es de carácter estrictamente voluntario y no limita las facultades que esta Ley confiere a la autoridad en materia de inspección y vigilancia.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 ### CAPÍTULO VI. Instrumentos Económicos
 
@@ -1049,7 +1049,7 @@ El Reglamento respectivo de la presente Ley señalará las reglas conforme a las
 
 #### SECCIÓN PRIMERA. Educación Formal
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 50.
 
@@ -1089,7 +1089,7 @@ III. La formación de profesionistas orientados a las actividades de gestión e 
 
 IV. La formación, especialización y actualización de profesionistas en el área ambiental.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 #### SECCIÓN SEGUNDA. Educación No Formal
 
@@ -1111,7 +1111,9 @@ V. El desarrollo de proyectos de ecoturismo;
 
 VI. La implementación de programas tendientes a disminuir la generación de residuos; y
 
-VII. La implementación de programas que fomenten la separación de residuos desde el lugar de su generación.
+> <small>(REFORMADA, P.O. 22 DE FEBRERO DE 2016)</small>
+
+VII. La implementación de programas que fomenten la separación de residuos desde el lugar de su generación y con base en estos deberán capacitar a sus servidores públicos en la materia, a efecto de que cuenten con los conocimientos necesarios para clasificarlos, determinando las acciones a realizar según su naturaleza.
 
 > <small>(REFORMADA Y REUBICADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -1223,7 +1225,7 @@ Cuando así lo requiera, la Comisión podrá invitar a instancias o personalidad
 
 La Comisión funcionará conforme a lo que establece el Reglamento Interno, que ella misma expida.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 ## TÍTULO CUARTO. BIODIVERSIDAD Y ÁREAS NATURALES PROTEGIDAS
 
@@ -1281,7 +1283,7 @@ En los casos a que se refieren las Fracciones IX y X, cuando se trate de jurisdi
 
 En el establecimiento, administración y manejo de las áreas naturales protegidas de interés estatal y municipal, la Secretaría promoverá la participación de sus habitantes, propietarios o poseedores, ayuntamientos y demás organizaciones sociales, públicas y privadas, con objeto de propiciar el desarrollo integral de la comunidad y asegurar la protección, preservación y conservación de los ecosistemas y su biodiversidad.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 ### CAPÍTULO II. Del Estudio Previo Justificativo para la Declaratoria de un Área Natural Protegida
 
@@ -1443,7 +1445,7 @@ La Secretaría elaborará un catálogo de áreas prioritarias para conservación
 
 Queda prohibido el establecimiento de nuevos centros de población o la expansión de los existentes al momento de incluirse como un área prioritaria para la conservación; la introducción de especies no nativas o exóticas; aquellas actividades que sean incompatibles con el ordenamiento ecológico del territorio; o el desarrollo de actividades que no sean compatibles con los criterios de conservación y cuidado de los recursos naturales y culturales previstos en el presente ordenamiento.
 
-> <small>(REFORMADA SU DENOMINACION, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 ### CAPÍTULO IV. Sistema de Áreas Naturales Protegidas del Estado
 
@@ -1473,7 +1475,7 @@ Para coadyuvar en la conservación, administración, manejo, desarrollo y vigila
 
 La Secretaría, a través del Sistema y los acuerdos de coordinación que correspondan, podrá ejercer la administración de las Áreas Naturales Protegidas comprendidas dentro del territorio estatal.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 78.
 
@@ -1499,7 +1501,7 @@ Los recursos económicos que ingresen al Sistema por cualquier concepto, se admi
 
 El Instituto, a través del área que el determine coordinará el Sistema de Áreas Naturales Protegidas del Estado, para definir los programas operativos anuales y sus presupuestos, de manera que el Sistema se fortalezca en su integridad.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 ### CAPÍTULO V. Áreas de Conservación Privadas y Sociales
 
@@ -1547,7 +1549,7 @@ Asimismo, la Secretaría, llevará un registro o padrón de las áreas de conser
 
 Previamente a la expedición de las declaratorias para el establecimiento de las áreas naturales protegidas de competencia estatal o municipal, se deberán realizar los estudios que lo justifiquen, los cuales deberán ser puestos a disposición del público.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 Asimismo, la Secretaría o el municipio correspondiente deberá solicitar la opinión de:
 
@@ -1613,7 +1615,7 @@ El Gobierno del Estado o el ayuntamiento correspondiente promoverá ante la Fede
 
 El Gobierno del Estado o el municipio correspondiente, con base en los estudios técnicos y socioeconómicos practicados, podrá solicitar a la autoridad competente, la revocación del permiso, licencia, concesión o autorización, cuando la exploración, explotación o aprovechamiento de recursos, ocasione o pueda ocasionar deterioro al ambiente o daños graves a los recursos naturales.. (sic)
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 89.
 
@@ -1695,7 +1697,7 @@ Será nulo todo acto, convenio o contrato que contravenga lo establecido en la m
 
 ### CAPÍTULO VIII. Unidades de Manejo Estatales y Municipales para la Conservación de la Vida Silvestre Terrestre y Acuática
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 96.
 
@@ -1703,7 +1705,7 @@ Son Unidades, aquellas en que la federación haya trasmitido las facultades a la
 
 Las Unidades de Manejo Estatales ó municipales para la Conservación de la Vida Silvestre Terrestre y Acuática, tendrán como objetivo general la conservación del hábitat natural, poblaciones y ejemplares de especies silvestres.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 97.
 
@@ -1729,7 +1731,7 @@ VIII. En su caso, los medios y formas de aprovechamiento y el sistema de marca p
 
 El programa de manejo deberá ser elaborado por el responsable técnico, quien será responsable solidario con el titular de la unidad registrada, de la conservación de la vida silvestre terrestre y acuática, y su hábitat, en caso de otorgarse la autorización y efectuarse el registro.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 98.
 
@@ -1757,7 +1759,7 @@ Los titulares de las Unidades deberán presentar a la Secretaría, de conformida
 
 El personal debidamente acreditado por el titular de la Secretaría realizará, contando con mandamiento escrito expedido fundado y motivado por éste, visitas de supervisión técnica a las Unidades, o cuando se detecte alguna inconsistencia en el programa de manejo, estudios de poblaciones, muestreos, inventarios o informes presentados. La supervisión técnica no implicará actividades de inspección y tendrá por objeto constatar que la infraestructura y las actividades que se desarrollan corresponden con las descritas en el programa de manejo y de conformidad con las autorizaciones respectivas, para estar en posibilidades de asistir técnicamente a los responsables en la adecuada operación de dichas unidades.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 101.
 
@@ -1765,7 +1767,7 @@ La Secretaría promoverá el establecimiento y desarrollo de unidades en las zon
 
 Asimismo promoverá que dentro de las áreas naturales protegidas, que cuenten con programa de manejo, las Unidades involucren a los habitantes locales en la ejecución del programa dentro de sus predios, en especial cuando se trate de especies o poblaciones amenazadas o en peligro de extinción.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 102.
 
@@ -1777,7 +1779,7 @@ El establecimiento de confinamientos sólo se podrá realizar de conformidad con
 
 ### CAPÍTULO IX. Ejemplares y Poblaciones de Vida Silvestre que se Tornen Perjudiciales
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 103.
 
@@ -1799,7 +1801,7 @@ Se evaluará primero la posibilidad de aplicar medidas de control como captura, 
 
 ###### ARTÍCULO 104.
 
-La Estrategia para la Conservación y Uso Sustentable de la Biodiversidad del Estado de Aguascalientes es el documento rector con una visión a 30 años que establece el marco orientador de acciones, bajo los principios de coordinación interinstitucional, búsqueda de consensos, participación ciudadana y co-responsabilidad entre sociedad y gobierno, para asegurar la conservación y uso sustentable de la biodiversidad del estado de Aguascalientes, basándose principalmente en la adecuada toma de decisiones, la correcta y más justa aplicación de recursos financieros en materia ambiental, el ordenamiento ecológico del territorio, el fortalecimiento de la legislación ambiental y de los programas de educación ambiental, así como en la ejecución de programas de aprovechamiento sustentable de los recursos naturales, la biodiversidad y sus servicios ambientales; (sic)
+La Estrategia para la Conservación y Uso Sustentable de la Biodiversidad del Estado de Aguascalientes es el documento rector con una visión a 30 años que establece el marco orientador de acciones, bajo los principios de coordinación interinstitucional, búsqueda de consensos, participación ciudadana y co-responsabilidad entre sociedad y gobierno, para asegurar la conservación y uso sustentable de la biodiversidad del estado de Aguascalientes, basándose principalmente en la adecuada toma de decisiones, la correcta y más justa aplicación de recursos financieros en materia ambiental, el ordenamiento ecológico del territorio, el fortalecimiento de la legislación ambiental y de los programas de educación ambiental, así como en la ejecución de programas de aprovechamiento sustentable de los recursos naturales, la biodiversidad y sus servicios ambientales;
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -1857,7 +1859,7 @@ La Secretaría integrará el Registro Estatal de Áreas Naturales Protegidas, en
 
 ### CAPÍTULO XII. Comisión Estatal para el Conocimiento, Conservación y Uso Sustentable de la Biodiversidad
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 110.
 
@@ -1903,11 +1905,161 @@ La Secretaría contará con un fondo económico, formado a partir de los recurso
 
 La Secretaría a través de la Comisión Estatal Para el Conocimiento, Conservación y uso Sustentable de la Biodiversidad establecerá el Reglamento de operación de dicho fondo, el cual debe de contemplar la creación de un consejo evaluador y dictaminador de los proyectos de investigación que pretendan ser apoyados a través de dicho fondo.
 
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 22 DE FEBRERO DE 2016)</small>
+
+### CAPÍTULO XIII. De la Protección y Conservación de Árboles Urbanos
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2016)</small>
+
+ARTÍCULO 111 A.- Corresponde a las autoridades asegurar la conservación, mantenimiento, protección, restitución, y desarrollo de los árboles urbanos plantados o nacidos dentro del Estado, a fin de lograr un equilibrio ecológico propicio para el sano desarrollo de sus habitantes. Quedan exceptuados de la aplicación del presente Capítulo los árboles de regulación Federal o que pertenezcan a terrenos forestales, así como los árboles plantados en macetones o contenedores que se puedan trasladar a otros sitios y cuyo manejo no implique riesgo alguno.
+
+Las autoridades Estatal y municipales fomentarán la conservación y la integración de los árboles urbanos en todo proyecto de construcción y remodelación que se realice en sus territorios.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2016)</small>
+
+ARTÍCULO 111 B.- La Secretaría instrumentará y coordinará las políticas, estrategias, planes, programas y demás acciones que promuevan un medio ambiente sustentable y en consecuencia, en materia de arbolado urbano, le corresponden las siguientes atribuciones:
+
+I. En coordinación con las entidades estatales y federales competentes, los municipios del Estado, y el Consejo Forestal del Estado de Aguascalientes:
+
+a) Acreditar a los organismos de la sociedad civil para la capacitación y promoción de prácticas, métodos y técnicas que permitan el cuidado, conservación y protección del arbolado urbano;
+
+b) Realizar campañas destinadas al cuidado, conservación y protección del arbolado urbano;
+
+c) Promover la participación ciudadana en materia de cuidado, conservación y protección del arbolado urbano;
+
+d) Suscribir convenios y acuerdos de coordinación con la federación, otros estados, municipios y organismos auxiliares; y
+
+e) Llevar un registro estatal de (sic) arbolado, con acceso al público y de las personas autorizadas para prestar algún servicio en materia del arbolado urbano.
+
+II. Elaborar y evaluar los programas, planes y acciones en materia de cuidado, conservación y protección del arbolado urbano, y los que se deriven de los convenios celebrados para su conservación;
+
+III. Hacer del conocimiento de las autoridades competentes, y en su caso, denunciar ante los órganos competentes las infracciones que se cometan en materia de cuidado, conservación y protección del arbolado urbano;
+
+IV. Promover campañas para arborizar las áreas urbanas que carezcan de árboles suficientes para el adecuado equilibrio ecológico de las mismas; y
+
+V. Las demás que conforme a la presente Ley y otras disposiciones jurídicas aplicables le correspondan en materia de cuidado, conservación, y protección del arbolado urbano.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2016)</small>
+
+ARTÍCULO 111 C.- Son obligaciones de los municipios asegurar la conservación, mantenimiento, protección, restitución y desarrollo de los árboles urbanos que se encuentren dentro de su territorio, además de las siguientes:
+
+I. Establecer en la reglamentación municipal correspondiente, las normas para la protección, cuidado y conservación del arbolado urbano;
+
+II. Aplicar en el ámbito de su competencia, las medidas preventivas de seguridad y las sanciones administrativas por infracciones a la presente Ley, así como a la reglamentación municipal de la materia;
+
+III. Realizar las inspecciones y auditorías técnicas a las personas que prestan servicios en materia de arbolado urbano;
+
+IV. Autorizar trabajos de poda y derribo del arbolado urbano en el municipio correspondiente, y en su caso promover de manera fundada, motivada y por escrito, la suspensión, extinción, nulidad, revocación, o modificación de las autorizaciones otorgadas;
+
+V. Coadyuvar y coordinarse con la Secretaría en las acciones tendientes al cuidado, protección y conservación del arbolado urbano, dentro de su ámbito de competencia;
+
+VI. Solicitar y exigir a la persona que cause daño al arbolado urbano, el cumplimiento de la restitución correspondiente por la afectación realizada;
+
+VII. Celebrar acuerdos así como convenios de coordinación y cooperación para el cumplimiento de los objetivos de este Capítulo y la reglamentación correspondiente;
+
+VIII. Autorizar las solicitudes respecto de los trabajos de derribo de árboles urbanos existentes en el territorio del municipio, fundamentado en el dictamen técnico de perito dictaminador en poda, derribo, trasplante y restitución de árboles;
+
+IX. Crear y promover programas de capacitación e inducción para el personal encargado de realizar los trabajos de plantación, poda, derribo, o trasplante de árboles urbanos;
+
+X. Promover la construcción y mantenimiento de la infraestructura en áreas verdes donde exista arbolado urbano, dentro del ámbito competencial correspondiente;
+
+XI. Participar, cuando sea necesario, en la atención de emergencias y contingencias suscitadas en los árboles urbanos, de acuerdo con los programas de protección civil;
+
+XII. Promover campañas para arborizar las áreas urbanas que carezcan de árboles suficientes para el adecuado equilibrio ecológico de las mismas, conforme a los estudios pertinentes; y
+
+XIII. Las demás que otorguen otras disposiciones legales o reglamentarias aplicables.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2016)</small>
+
+ARTÍCULO 111 D.- Toda persona autorizada, antes de iniciar los trabajos de poda, deberá observar las condiciones en que se encuentra el árbol a podar, tomando en cuenta las características propias de la especie vegetal a la cual pertenece.
+
+Se entiende como poda, la eliminación selectiva de hasta un treinta por ciento del follaje de un árbol, para proporcionar un adecuado desarrollo del mismo o con un propósito estético específico.
+
+Las causas para la justificación de la poda del arbolado urbano son:
+
+I. Mejorar la condición sanitaria y estructural del árbol;
+
+II. Evitar o corregir daños a bienes inmuebles o personas; y
+
+III. Prevenir accidentes cuando la estructura del árbol haga presumible su caída de alguna de sus ramas, total o parcial.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2016)</small>
+
+ARTÍCULO 111 E.- Las causas para la justificación del derribo de uno o más árboles urbanos son:
+
+I. Cuando los árboles concluyan con su período de vida de forma natural;
+
+II. Cuando los árboles tengan problemas de plagas o enfermedades difíciles de controlar y con riesgo inminente de dispersión a otros árboles sanos;
+
+III. Cuando los árboles representen un riesgo o causen afectación a bienes o personas, de acuerdo con dictámenes de peritos expertos en la materia autorizados por el municipio correspondiente; y
+
+IV. Cuando los árboles recarguen más del sesenta por ciento de su follaje sobre bienes inmuebles.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2016)</small>
+
+ARTÍCULO 111 F.- En los proyectos de trazos de caminos, pavimentación de calles, construcciones o remodelaciones, los árboles deberán integrarse al proyecto de construcción o remodelación.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2016)</small>
+
+ARTÍCULO 111 G.- Toda persona que desee realizar trabajos de poda y derribo del arbolado urbano, deberá contar con la autorización expedida por las autoridades municipales. En caso de derribo, deberá comprobar previa y plenamente su imposibilidad para la integración del proyecto o la causa justificada, de acuerdo con juicio de peritos o dictamen de protección civil. La autoridad municipal competente deberá establecer claramente la compensación ambiental.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2016)</small>
+
+ARTÍCULO 111 H.- La autoridad municipal correspondiente podrá suspender las autorizaciones otorgadas, cuando detecte irregularidades en su operación y funcionamiento, o cuando no se cumplan los lineamientos en la poda o derribo de arbolado urbano.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2016)</small>
+
+ARTÍCULO 111 I.- Las autorizaciones otorgadas por la autoridad municipal correspondiente para la poda y derribo del arbolado urbano, tendrán una vigencia de un año contados a partir de que fue emitida, y se extinguirán por las siguientes causas:
+
+I. Vencimiento del término por el que se haya otorgado;
+
+II. Renuncia a la autorización por parte de la persona autorizada; y
+
+III. Muerte de la persona física o extinción de la persona moral respectiva.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2016)</small>
+
+ARTÍCULO 111 J.- Son causas de nulidad de las autorizaciones para la operación de la poda y derribo del arbolado urbano, las siguientes:
+
+I. Cuando se haya expedido la autorización sustentándose en datos falsos proporcionados por el titular; y
+
+II. Cuando se haya expedido la autorización violando esta Ley y demás disposiciones aplicables; o cuando una vez dada, se acredite que no se actualizaron los supuestos y requisitos establecidos para su otorgamiento.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2016)</small>
+
+ARTÍCULO 111 K.- Las autorizaciones para la operación de la poda y derribo del arbolado urbano, serán revocadas por cualquiera de las siguientes causas:
+
+I. Cuando se ceda o transfiera la autorización a un tercero, sin realizar los trámites ante la autoridad municipal correspondiente;
+
+II. Por dejar de cumplir con las condiciones a que se sujete el otorgamiento de la autorización, o infringir lo dispuesto por esta Ley o la reglamentación municipal; y
+
+III. Por realizar actividades prohibidas en esta Ley.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2016)</small>
+
+ARTÍCULO 111 L.- La suspensión, extinción, nulidad, revocación y caducidad de las autorizaciones, se dictará por la autoridad municipal correspondiente, previa audiencia que se conceda a los interesados para que rindan las pruebas de su intención y aleguen lo que a su derecho convenga, conforme a los procedimientos establecidos en la presente Ley, y en su caso, en la reglamentación municipal correspondiente.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2016)</small>
+
+ARTÍCULO 111 M.- Será responsable de la restitución física y económica quien realice sin autorización de la autoridad municipal, la poda excesiva, o bien las acciones para provocar la muerte o el derribo de uno o más árboles urbanos. Dicha responsabilidad se establecerá conforme a lo siguiente:
+
+I. La autoridad municipal establecerá el número de ejemplares y un catálogo para la restitución de las especies de árboles aptas para ello, tomando en cuenta principalmente las nativas o propias de la región, de fácil adaptabilidad al suelo urbano y al clima del municipio.
+
+II. Toda restitución se realizará en el sitio del derribo, en un radio menor a un kilómetro o en el lugar en donde cause mayor beneficio a consideración de la autoridad municipal.
+
+III. En los casos de restitución física deberá de apegarse a los siguientes lineamientos:
+
+a) Prever que el crecimiento del árbol no pueda llegar a obstruir, interferir o afectar otros árboles, bienes inmuebles, infraestructura urbana o personas; y
+
+b) Replantar otro árbol de las mismas condiciones y tamaño, cuando el árbol que sirva de restitución no sobreviva.
+
+IV. La restitución económica consistirá en el pago del monto que establezca la autoridad municipal, dependiendo del daño ocasionado al medio ambiente y la valoración de las condiciones que guardaba el árbol derribado o afectado por poda excesiva.
+
+El incumplimiento de las restituciones económicas impuestas a quien infrinja las disposiciones del presente Capítulo, que representen una cantidad determinada de dinero, tendrán el carácter de créditos fiscales y podrán ser exigibles por la autoridad municipal mediante el ejercicio de la facultad económica coactiva.
+
+Las restituciones económicas y lo cobrado al solicitante por los servicios que preste la autoridad municipal señalados en este capítulo, serán destinadas exclusivamente para la conservación y mantenimiento del arbolado urbano.
+
 (REUBICADO, P.O. 25 DE OCTUBRE DE 2010)
-
-### CAPÍTULO I. Aprovechamiento del Agua
-
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 ## TÍTULO QUINTO. APROVECHAMIENTO SUSTENTABLE DE ELEMENTOS NATURALES
 
@@ -1919,7 +2071,7 @@ La Secretaría propondrá ante el Ejecutivo del Estado, la celebración de acuer
 
 (REUBICADO, P.O. 25 DE OCTUBRE DE 2010)
 
-### CAPÍTULO II. Aprovechamiento del Suelo
+### CAPÍTULO I. Aprovechamiento del Agua
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -2013,7 +2165,7 @@ Para la apertura y crecimiento de zonas agrícolas altamente demandantes de agua
 
 (REUBICADO, P.O. 25 DE OCTUBRE DE 2010)
 
-### CAPÍTULO III. Aprovechamiento de la Biodiversidad
+### CAPÍTULO II. Aprovechamiento del Suelo
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -2069,9 +2221,9 @@ El desarrollo de estas actividades estará regulado por los procedimientos, line
 
 En aquellas áreas que presenten procesos de degradación o desertificación, o grave deterioro ambiental, la Secretaría promoverá ante las autoridades federales competentes, la declaratoria para el establecimiento de zonas de restauración ecológica, en los términos de la Ley General, para lo cual deberán tomarse en cuenta los orígenes de la degradación o el grado de desertificación del suelo.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
-### CAPÍTULO I. Disposiciones Generales
+### CAPÍTULO III. Aprovechamiento de la Biodiversidad
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -2111,15 +2263,15 @@ V. La protección de la flora y fauna silvestre urbana; y
 
 VI. El establecimiento de unidades intensivas y extensivas, conforme a la normatividad vigente en la materia para el manejo y el uso sostenible de la vida silvestre, especialmente de las especies nativas de la entidad.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 ## TÍTULO SEXTO. PROTECCIÓN AL AMBIENTE Y MEDIDAS PREVENTIVAS PARA EL CAMBIO CLIMÁTICO
 
 (REUBICADO, P.O. 25 DE OCTUBRE DE 2010)
 
-### CAPÍTULO II. Prevención y Control de la Contaminación Atmosférica
+### CAPÍTULO I. Disposiciones Generales
 
-> <small>(REFORMADA Y REUBICADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 129.
 
@@ -2139,7 +2291,7 @@ Se exceptúan de lo anterior la utilización de bolsas de polietileno por cuesti
 
 Se elaborará y difundirá un "Programa de Sustitución gradual de Plástico No Biodegradable por materiales Biodegradables", con el fin de reducir el consumo de bolsas, envases, embalajes o empaques de plástico no biodegradables que se utilicen en comercios en general y que se entregan al público para contención, transporte y envase de mercancías.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 132.
 
@@ -2167,7 +2319,7 @@ La información contenida en el registro será útil además, para efectos de co
 
 La información registrada en cuanto a residuos sólidos urbanos y de manejo especial se refiere, será parte de la cédula de operación anual entregada por el responsable generador así como de los Planes de Manejo de dichos residuos, esto para el registro de residuos sólidos debiéndose informar en la fecha que la Secretaría le señale, de acuerdo con el Reglamento correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 134.
 
@@ -2191,11 +2343,11 @@ VIII. Fomentar la educación ambiental y la participación comunitaria para la b
 
 IX. Tendrá facultades para el establecimiento de mecanismos de gestión de recursos financieros, de orden municipal, estatal, federal e internacionales, adoptando los instrumentos jurídicos reconocidos, que garanticen resultados y transparencia en su ejercicio.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
-### CAPÍTULO III. Prevención y Control de la Contaminación del Agua
+### CAPÍTULO II. Prevención y Control de la Contaminación Atmosférica
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA Y REUBICADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 #### SECCIÓN PRIMERA. Disposiciones Generales
 
@@ -2257,7 +2409,7 @@ c) Las que no sean de competencia estatal o federal; y
 
 d) Las que el Estado bajo convenio con los Ayuntamientos, se establezcan adicionalmente como de su competencia.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 138.
 
@@ -2325,7 +2477,7 @@ VIII. Establecer una estrategia municipal que establezca las medidas contra el c
 
 Queda prohibido emitir contaminantes a la atmósfera, provenientes de fuentes fijas que rebasen los límites máximos permisible establecidos en las normas oficiales mexicanas, y en su caso, en la licencia de funcionamiento correspondiente.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 141.
 
@@ -2365,7 +2517,7 @@ X. Elaborar y someter a evaluación ante la Secretaría un programa de prevenci�
 
 XI. Las demás que se establezcan en ésta Ley, los ordenamientos que de ella se deriven o las demás que determinen las autoridades ambientales en el ámbito de sus respectivas competencias.
 
-Para efectos de lo dispuesto por este precepto, se entiende por fuentes fijas de jurisdicción estatal a los establecimientos que no se encuentren contemplados en el Artículo 111 bis de la Ley General ni sean considerados por esta Ley como establecimientos mercantiles o de servicios, los cuales serán fuentes fijas de jurisdicción municipal; (sic)
+Para efectos de lo dispuesto por este precepto, se entiende por fuentes fijas de jurisdicción estatal a los establecimientos que no se encuentren contemplados en el Artículo 111 bis de la Ley General ni sean considerados por esta Ley como establecimientos mercantiles o de servicios, los cuales serán fuentes fijas de jurisdicción municipal;
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -2487,7 +2639,7 @@ V. Todas las demás que contemple las normas oficiales mexicanas correspondiente
 
 La Secretaría o los Municipios, podrán autorizar, en el ámbito de su competencia, el uso de residuos como fuentes de combustible estableciendo las condicionantes y medidas de seguridad que deberán observarse.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 #### SECCIÓN QUINTA
 
@@ -2539,9 +2691,9 @@ II. Instalar equipos o sistemas de control para mantener sus emisiones por debaj
 
 (REUBICADO, P.O. 25 DE OCTUBRE DE 2010)
 
-### CAPÍTULO IV. Prevención y Control de la Contaminación del Suelo
+### CAPÍTULO III. Prevención y Control de la Contaminación del Agua
 
-> <small>(REFORMADA Y REUBICADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 152.
 
@@ -2611,7 +2763,7 @@ V. Dar aviso a la Secretaría o a las autoridades municipales en caso de su comp
 
 VI. Las demás que señalen los ordenamientos aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 159.
 
@@ -2655,9 +2807,9 @@ Para conocer la calidad de las aguas, se establecerá un sistema estatal de moni
 
 (REUBICADO, P.O. 25 DE OCTUBRE DE 2010)
 
-### CAPÍTULO I. Participación Ciudadana
+### CAPÍTULO IV. Prevención y Control de la Contaminación del Suelo
 
-> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA Y REUBICADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 #### SECCIÓN PRIMERA. Disposiciones Generales
 
@@ -2681,7 +2833,7 @@ III. La regulación sobre la generación, tratamiento, transferencia, almacenami
 
 IV. La Autorización de los sistemas de recolección, acopio, transporte, transferencia, reciclaje, reutilización, coprocesamiento, tratamiento y disposición final de residuos de manejo especial y sólidos urbanos de conformidad con las disposiciones de esta Ley y de su Reglamento en materia de prevención y gestión integral de los residuos.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 164.
 
@@ -2731,7 +2883,7 @@ III. La mezcla de residuos peligrosos con residuos no peligrosos; y
 
 IV. El confinamiento o depósito final de residuos no peligrosos que excedan los límites máximos permitidos por las Normas correspondientes.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADA, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADA, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 #### SECCIÓN SEGUNDA. Residuos No Peligrosos
 
@@ -2741,7 +2893,7 @@ IV. El confinamiento o depósito final de residuos no peligrosos que excedan los
 
 La generación, recolección, acopio, almacenamiento, transporte, transferencia, reciclado, reutilización, tratamiento, coprocesamiento y disposición final de los residuos de manejo especial y sólidos urbanos, estará sujeta a las disposiciones de la presente Ley, su Reglamento en materia de prevención y gestión integral de los residuos, las Normas Oficiales Mexicanas y demás disposiciones que resulten aplicables.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 169.
 
@@ -2833,7 +2985,7 @@ El Reglamento de esta Ley establecerá la clasificación de las actividades que 
 
 Para la determinación de esta clasificación, se deberá considerar previamente la opinión de las autoridades competentes.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 176.
 
@@ -2881,7 +3033,7 @@ Corresponde a los municipios establecer restricciones a los usos urbanos habitac
 
 (REUBICADO, P.O. 25 DE OCTUBRE DE 2010)
 
-### CAPÍTULO II. Del Consejo Consultivo Estatal de Gestión Ambiental
+### CAPÍTULO I. Participación Ciudadana
 
 > <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -2909,7 +3061,9 @@ VI. Promover inversiones de los sectores social y empresarial, organizaciones no
 
 (REUBICADO, P.O. 25 DE OCTUBRE DE 2010)
 
-### CAPÍTULO III. Información Ambiental
+### CAPÍTULO II. Del Consejo Consultivo Estatal de Gestión Ambiental
+
+> <small>(REFORMADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
 ###### ARTÍCULO 181.
 
@@ -2989,9 +3143,7 @@ El Consejo funcionará conforme a lo que establece el Reglamento Interno, que é
 
 (REUBICADO, P.O. 25 DE OCTUBRE DE 2010)
 
-### CAPÍTULO IV. Denuncia Ciudadana
-
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+### CAPÍTULO III. Información Ambiental
 
 ###### ARTÍCULO 185.
 
@@ -3003,7 +3155,7 @@ Toda solicitud de información ambiental deberá presentarse por escrito, especi
 
 La respuesta a los solicitantes deberá ser gratuita, por lo que sólo en caso de que se generen gastos por concepto de copias certificadas, deberá cubrir los derechos correspondientes, de conformidad con la Ley de Ingresos del Estado.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 186.
 
@@ -3017,7 +3169,7 @@ En dicho Sistema se integrarán, entre otros aspectos, información relativa a l
 
 La Secretaría y los Municipios elaborarán conjuntamente un diagnóstico de la situación general existente en la Entidad en materia ambiental, el cual se integrará al Sistema Estatal de Información Ambiental.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 188.
 
@@ -3037,7 +3189,7 @@ La autoridad ambiental deberá responder por escrito a los solicitantes de infor
 
 Quien reciba información ambiental de las autoridades competentes, en los términos del presente Capítulo, será responsable de su adecuada utilización y deberá responder por los daños y perjuicios que se ocasionen por su indebido manejo.
 
-> <small>(REFORMADO PRIMER PARRAFO, P.O. 4 DE JULIO DE 2011)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 191.
 
@@ -3053,9 +3205,9 @@ IV. Se tenga que respetar la propiedad intelectual de su autor.
 
 (REUBICADO, P.O. 25 DE OCTUBRE DE 2010)
 
-### CAPÍTULO I. Inspección y Vigilancia
+### CAPÍTULO IV. Denuncia Ciudadana
 
-> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 4 DE JULIO DE 2011)</small>
 
 ###### ARTÍCULO 192.
 
@@ -3151,7 +3303,7 @@ Cuando por infracción a las disposiciones de esta Ley y sus disposiciones regla
 
 (REUBICADO, P.O. 25 DE OCTUBRE DE 2010)
 
-### CAPÍTULO II. Medidas de Seguridad
+### CAPÍTULO I. Inspección y Vigilancia
 
 > <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -3239,7 +3391,7 @@ Dentro de los cinco días hábiles siguientes al vencimiento del plazo otorgado 
 
 (REUBICADO, P.O. 25 DE OCTUBRE DE 2010)
 
-### CAPÍTULO III. Sanciones Administrativas
+### CAPÍTULO II. Medidas de Seguridad
 
 > <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -3265,7 +3417,7 @@ Cuando la autoridad ordene alguna de las medidas de seguridad previstas en esta 
 
 (REUBICADO, P.O. 25 DE OCTUBRE DE 2010)
 
-### CAPÍTULO IV. Recurso de Revisión
+### CAPÍTULO III. Sanciones Administrativas
 
 > <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -3355,7 +3507,7 @@ En caso de que se expidan licencias, permisos, autorizaciones o concesiones cont
 
 (REUBICADO, P.O. 25 DE OCTUBRE DE 2010)
 
-### CAPÍTULO V. Denuncia de Delitos Ambientales y Colaboración con la Administración de Justicia
+### CAPÍTULO IV. Recurso de Revisión
 
 > <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -3369,9 +3521,9 @@ Los actos y resoluciones de las autoridades administrativas que pongan fin al pr
 
 Tratándose de obras o actividades que contravengan las disposiciones de esta Ley, los programas de ordenamiento ecológico, las declaratorias de áreas naturales protegidas, los reglamentos o las normas oficiales mexicanas, las personas físicas y morales de las comunidades afectadas, tendrán derecho a impugnar los actos administrativos correspondientes, en los términos del Artículo anterior, siempre que demuestren en el procedimiento que dichas obras o actividades originan o puedan originar un daño a los recursos naturales, el ambiente, la salud pública o la calidad de vida.
 
-> <small>(REFORMADA SU DENOMINACION Y REUBICADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+> <small>(REFORMADA SU DENOMINACIÓN Y REUBICADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
-### CAPÍTULO VI. Responsabilidad de los Servidores Públicos
+### CAPÍTULO V. Denuncia de Delitos Ambientales y Colaboración con la Administración de Justicia
 
 > <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -3386,6 +3538,10 @@ En aquellos casos en que, como resultado del ejercicio de sus atribuciones, la a
 La autoridad ambiental proporcionará, en las materias de su competencia, los dictámenes técnicos o periciales que le soliciten el Ministerio Público o las autoridades judiciales, con motivo de las denuncias presentadas por la comisión de delitos en contra del ambiente.
 
 Igualmente la autoridad ambiental proporcionará los dictámenes técnicos o periciales que le soliciten, con motivo de los juicios que ser (sic) ventilen ante los Tribunales correspondientes.
+
+> <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
+
+### CAPÍTULO VI. Responsabilidad de los Servidores Públicos
 
 > <small>(ADICIONADO, P.O. 25 DE OCTUBRE DE 2010)</small>
 
@@ -3437,7 +3593,7 @@ EL SECRETARIO GENERAL DE GOBIERNO,
 
 Lic. Abelardo Reyes Sahagún.
 
-> <small>N. DE E. A CONTINUACION SE TRANSCRIBEN LOS ARTICULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
+> <small>N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS A LA PRESENTE LEY.</small>
 
 P.O. 15 DE DICIEMBRE DE 2003.
 
@@ -3532,3 +3688,23 @@ P.O. 24 DE DICIEMBRE DE 2012.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 22 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 312.- SE REFORMA LA LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al día siguiente al de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+P.O. 22 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “DECRETO NÚMERO 313.- SE ADICIONA LA LEY DE PROTECCIÓN AMBIENTAL PARA EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto iniciará su vigencia al día siguiente de su publicación en el Periódico Oficial del Estado de Aguascalientes.
+
+###### ARTÍCULO SEGUNDO.
+
+Los Ayuntamientos tendrán un plazo de 90 días naturales contados a partir del inicio de vigencia del presente Decreto, para realizar las adecuaciones reglamentarias correspondientes.
