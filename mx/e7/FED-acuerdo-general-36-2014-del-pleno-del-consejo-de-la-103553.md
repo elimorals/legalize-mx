@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-36-2014-del-pleno-del-consejo-de-la-103553"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2014-11-19"
-last_updated: "2015-06-01"
+last_updated: "2016-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=103553&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2014-11-12"
 
 ACUERDO GENERAL 36/2014, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL; Y QUE REFORMA Y ADICIONA DISPOSICIONES DE DIVERSOS ACUERDOS GENERALES
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 1 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 22 DE FEBRERO DE 2016.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 19 de noviembre de 2014.
 
@@ -121,11 +121,11 @@ Al frente de cada Administración del Centro estará un Administrador, quien se 
 
 El Administrador será el responsable de la administración del Centro.
 
-> <small>(REFORMADO POR EL ARTÍCULO ÚNICO DEL ACUERDO GENERAL 10/2015 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 13 DE MARZO DE 2015)</small>
+> <small>(REFORMADO POR EL ARTÍCULO 1 DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 36/2014 QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, ASÍ COMO LOS DIVERSOS ACUERDOS GENERALES QUE CREAN LOS CENTROS DE JUSTICIA PENAL FEDERAL EN LOS ESTADOS DE PUEBLA, DURANGO, YUCATÁN, ZACATECAS, GUANAJUATO, BAJA CALIFORNIA SUR, QUERÉTARO, SAN LUIS POTOSÍ, COAHUILA DE ZARAGOZA, SINALOA, OAXACA, CHIHUAHUA, CHIAPAS, NAYARIT Y TLAXCALA, PARA PRECISAR LA TEMPORALIDAD EN EL CARGO DE ADMINISTRADOR, D.O.F. 22 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 7.
 
-Los jueces de Distrito especializados en el sistema penal acusatorio fungirán como Administradores del Centro de su adscripción, por un año y de forma rotativa en el orden de su denominación.
+Los jueces de Distrito especializados en el sistema penal acusatorio fungirán como Administradores del Centro de su adscripción, hasta en tanto lo determine el Consejo de la Judicatura Federal, a propuesta de la Comisión de Adscripción.
 
 > <small>(REFORMADO POR EL ARTÍCULO PRIMERO DEL ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 1 DE JUNIO DE 2015)</small>
 
@@ -708,3 +708,13 @@ D.O.F. 1 DE JUNIO DE 2015.
 PRIMERO. El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
+
+D.O.F. 22 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO GENERAL DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, QUE REFORMA EL SIMILAR 36/2014 QUE REGULA LOS CENTROS DE JUSTICIA PENAL FEDERAL, ASÍ COMO LOS DIVERSOS ACUERDOS GENERALES QUE CREAN LOS CENTROS DE JUSTICIA PENAL FEDERAL EN LOS ESTADOS DE PUEBLA, DURANGO, YUCATÁN, ZACATECAS, GUANAJUATO, BAJA CALIFORNIA SUR, QUERÉTARO, SAN LUIS POTOSÍ, COAHUILA DE ZARAGOZA, SINALOA, OAXACA, CHIHUAHUA, CHIAPAS, NAYARIT Y TLAXCALA, PARA PRECISAR LA TEMPORALIDAD EN EL CARGO DE ADMINISTRADOR”.]
+
+PRIMERO. El presente Acuerdo entrará en vigor al día de su aprobación.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al presente Acuerdo.
+
+TERCERO. Publíquese el Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta; así como en el portal de Internet del Consejo de la Judicatura Federal.
