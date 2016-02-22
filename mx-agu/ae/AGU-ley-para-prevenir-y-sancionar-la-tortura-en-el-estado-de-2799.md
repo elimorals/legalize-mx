@@ -4,7 +4,7 @@ identifier: "AGU-ley-para-prevenir-y-sancionar-la-tortura-en-el-estado-de-2799"
 country: "mx"
 rank: "ley"
 publication_date: "1995-05-14"
-last_updated: "2013-11-11"
+last_updated: "2016-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=2799&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "AGU"
 
 LEY PARA PREVENIR Y SANCIONAR LA TORTURA EN EL ESTADO DE AGUASCALIENTES
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 11 DE NOVIEMBRE DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2016.
 
 Ley publicada en la Sección Primera del Periódico Oficial del Estado de Aguascalientes, el 14 de mayo de 1995.
 
@@ -43,17 +43,21 @@ LEY PARA PREVENIR Y SANCIONAR LA TORTURA EN EL ESTADO DE AGUASCALIENTES
 
 La presente Ley tiene por objeto la prevención y sanción de la tortura y se aplicará en todo el territorio del Estado de Aguascalientes.
 
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2016)</small>
+
 ###### ARTICULO 2o.
 
-Los órganos dependientes del Ejecutivo Estatal relacionados con la procuración de justicia llevarán a cabo programas permanentes y establecerán procedimientos para:
+Los órganos relacionados con la procuración de justicia y la seguridad pública llevarán a cabo programas permanentes y establecerán procedimientos para:
 
-I.- La orientación y asistencia de la población con la finalidad de vigilar la exacta observancia de las garantías individuales de aquellas personas involucradas en la comisión de algún ilícito penal.
+I.- La orientación, atención e información a la población con la finalidad de vigilar la exacta observancia de los derechos humanos de las personas involucradas en la comisión de algún ilícito penal;
 
-II.- La organización de cursos de capacitación de su personal para fomentar el respeto de los derechos humanos.
+II.- La organización de cursos de capacitación de su personal para fomentar el respeto de los derechos humanos;
 
-III.- La profesionalización de sus cuerpos policiales.
+III.- La profesionalización de sus cuerpos policiales;
 
-IV.- La profesionalización de los servidores públicos que participan en la custodia y tratamiento de toda persona sometida a arresto, detención o prisión.
+IV.- La profesionalización de los servidores públicos que participan en la custodia y tratamiento de toda persona sometida a arresto, detención o prisión; y
+
+V.- Difundir mediante carteles, folletos, diseños electrónicos y cualquier otro medio de publicidad, los derechos humanos del detenido, así como los procedimientos de prevención, denuncia y sanciones en caso de tortura.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -139,7 +143,9 @@ VII.- Menoscabo de la reputación.
 
 Para fijar los montos correspondientes, el juez tomará en cuenta la magnitud del daño causado.
 
-En los términos de la fracción VI del Artículo 33 del Código Penal para el Estado, el Estado estará obligado subsidiariamente a la reparación del daño.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2016)</small>
+
+En términos de la Ley General de Víctimas, el Estado y los municipios estarán obligados a la reparación integral del daño, derivado de hechos delictivos en materia de tortura.
 
 > <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
 
@@ -274,3 +280,11 @@ P.O. 11 DE NOVIEMBRE DE 2013.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigencia al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NÚMERO 308.- REFORMAS A LA LEY PARA PREVENIR Y SANCIONAR LA TORTURA EN EL ESTADO DE AGUASCALIENTES”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto iniciará su vigencia al siguiente día de su publicación en el Periódico Oficial del Estado de Aguascalientes.
