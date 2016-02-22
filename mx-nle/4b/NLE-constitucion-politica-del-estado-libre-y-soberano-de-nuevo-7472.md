@@ -4,7 +4,7 @@ identifier: "NLE-constitucion-politica-del-estado-libre-y-soberano-de-nuevo-7472
 country: "mx"
 rank: "constitucion"
 publication_date: "1917-12-16"
-last_updated: "2015-12-02"
+last_updated: "2016-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=7472&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 2 DE DICIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 22 DE FEBRERO DE 2016.
 
 Constitución publicada en el Periódico Oficial del Estado de Nuevo León, el domingo 16 de diciembre de 1917.
 
@@ -13865,7 +13865,9 @@ En el Estado todos nacen libres. Los esclavos que pisen el territorio del Estado
 
 Todas las Leyes y las autoridades del Estado, deberán promover, proteger y garantizar que se respeten los derechos humanos, a través de los principios de universalidad, interdependencia, indivisibilidad y progresividad.
 
-Queda prohibida toda discriminación motivada por origen étnico o nacional, género, edad, capacidades diferentes, condición social, condiciones de salud, embarazo, religión, opiniones, preferencias sexuales, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar sus derechos humanos y libertades.
+> <small>(REFORMADO, P.O. 22 DE FEBRERO DE 2016)</small>
+
+Queda prohibida toda discriminación motivada por origen étnico o nacional, género, edad, discapacidad, condición social, condiciones de salud, embarazo, religión, opiniones, preferencias sexuales, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar sus derechos humanos y libertades.
 
 El varón y la mujer son iguales ante la Ley. Ésta protegerá la integración y el desarrollo de la familia. Cuando la terminología de género empleada en las disposiciones de observancia general sea en masculino, deberá entenderse que se refieren tanto el varón como a la mujer, salvo disposición expresa en contrario.
 
@@ -13942,6 +13944,10 @@ Toda persona tiene derecho a la cultura física y a la práctica del deporte. Co
 (ADICIONADO, P.O. 13 DE ABRIL DE 2012) (F. DE E. P.O. 24 DE SEPTIEMBRE DE 2012)
 
 Toda persona tiene derecho a disponer de agua suficiente, saludable, aceptable, accesible y asequible para su uso personal y doméstico.
+
+> <small>(ADICIONADO, P.O. 22 DE FEBRERO DE 2016)</small>
+
+Toda persona tiene derecho al acceso a la cultura y al disfrute de los bienes y servicios que presta el Estado en la materia, así como el ejercicio de sus derechos culturales. El Estado promoverá los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa. La ley establecerá los mecanismos para el acceso y participación a cualquier manifestación cultural.
 
 > <small>(ADICIONADO PRIMER PÁRRAFO, P.O. 14 DE SEPTIEMBRE DE 1979)</small>
 
@@ -14941,7 +14947,7 @@ UNICO:- El presente Decreto entrará en vigor el día siguiente al de su publica
 
 P.O. 20 DE NOVIEMBRE DE 1992.
 
-UNICO:- El presente Decreto entrará en vigor al día siguiente al de su publicación en el Periódico Oficial del Estado.
+UNICO:- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
 
 P.O. 24 DE MARZO DE 1993.
 
@@ -15165,7 +15171,7 @@ P.O. 31 DE OCTUBRE DE 2003.
 
 DECRETO NÚMERO 12, QUE REFORMA EL ARTÍCULO 57.
 
-Artículo Único.- El presente Decreto entrará en vigor el día siguiente de su publicación en el Periódico Oficial del Estado.
+Artículo Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
 
 P.O. 31 DE OCTUBRE DE 2003.
 
@@ -15480,3 +15486,15 @@ P.O. 6 DE NOVIEMBRE DE 2015.
 P.O. 2 DE DICIEMBRE DE 2015.
 
 Único.- El presente Decreto entrará en vigor al día siguiente de su publicación en el Periódico Oficial del Estado.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 077. SE ADICIONA UN PÁRRAFO DÉCIMO SEGUNDO AL ARTÍCULO 3 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN".]
+
+P.O. 22 DE FEBRERO DE 2016.
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
+
+P.O. 22 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL "DECRETO NÚM. 079. SE REFORMA EL PÁRRAFO CUARTO DEL ARTÍCULO 1 DE LA CONSTITUCIÓN POLÍTICA DEL ESTADO LIBRE Y SOBERANO DE NUEVO LEÓN".]
+
+ÚNICO.- El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Estado.
