@@ -4,7 +4,7 @@ identifier: "VER-ley-numero-113-de-salud-del-estado-de-veracruz-de-ignacio-9080"
 country: "mx"
 rank: "ley"
 publication_date: "1988-05-17"
-last_updated: "2016-02-16"
+last_updated: "2016-02-22"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=9080&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "VER"
 LEY DE SALUD DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE
 
 ÚLTIMA REFORMA PUBLICADA EN LA GACETA OFICIAL: 16 DE FEBRERO DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN LA GACETA OFICIAL DEL 22 DE FEBRERO DE 2016.]</small>
 
 Ley publicada en la Gaceta Oficial del Estado de Veracruz-Llave, el martes 17 de mayo de 1988.
 
@@ -209,9 +211,9 @@ VII.- Sistema; al Sistema de Protección Social en Salud a que se refiere los ar
 
 VIII.- Salubridad General: las facultades contenidas en el artículo 3º de la presente, y las que se transfieren al Estado en virtud de la misma ley, convenios y acuerdos de coordinación o de colaboración específicos.
 
-> <small>(ADICIONADA [N. DE E. REFORMADA], G.O. 9 DE FEBRERO DE 2016)</small>
+> <small>(ADICIONADA, G.O. 20 DE JULIO DE 2015)</small>
 
-IX.- Salud Sexual y Reproductiva: Es el enfoque integral para analizar y responder a las necesidades de hombres y mujeres respecto a la sexualidad y la reproducción, otorgar la capacidad de disfrutar de una vida sexual responsable y sin riesgos, garantizar el derecho de decisión y frecuencia de procrear y fomentar un estado general de bienestar físico, mental y social, en todos los aspectos relacionados con el sistema reproductivo, sus funciones y procesos.
+IX.- Establecimiento: Lugar en que se venden, distribuyen o ingieren bebidas alcohólicas. Se excluye el caso del consumo gratuito de bebidas alcohólicas en domicilios particulares o eventos particulares: y
 
 > <small>(ADICIONADA, G.O. 20 DE JULIO DE 2015)</small>
 
@@ -224,6 +226,10 @@ b) De medio contenido alcohólico: Son productos que contienen entre 6.1 grados 
 c) De alto contenido alcohólico: Son productos que contienen entre 20.1 grados G .. L. y 55 grados G.. L.
 
 Los productos cuyo contenido alcohólico sea mayor de 55 grados G.. L. se consideran como alcohol no potable y no se autorizará su venta o suministro al público, para ingestión directa.
+
+(ADICIONADA, G.O. 9 DE FEBRERO DE 2016) (F. DE E., G.O. 22 DE FEBRERO DE 2016)
+
+XI.- Salud Sexual y Reproductiva: Es el enfoque integral para analizar y responder a las necesidades de hombres y mujeres respecto a la sexualidad y la reproducción, otorgar la capacidad de disfrutar de una vida sexual responsable y sin riesgos, garantizar el derecho de decisión y frecuencia de procrear y fomentar un estado general de bienestar físico, mental y social, en todos los aspectos relacionados con el sistema reproductivo, sus funciones y procesos.
 
 ## TITULO SEGUNDO. SISTEMA ESTATAL DE SALUD
 
