@@ -4,7 +4,7 @@ identifier: "MIC-ley-organica-y-de-procedimientos-del-congreso-del-estado-de-818
 country: "mx"
 rank: "ley_organica"
 publication_date: "2011-06-15"
-last_updated: "2015-09-30"
+last_updated: "2016-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81802&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MIC"
 
 LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 30 DE SEPTIEMBRE DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 23 DE FEBRERO DE 2016.
 
 Ley publicada en la Quinta Sección del Periódico Oficial del Estado de Michoacán, el miércoles 15 de junio de 2011.
 
@@ -951,7 +951,9 @@ Las Comisiones de dictamen establecidas en el artículo anterior, tienen a su ca
 
 Son atribuciones de las Comisiones de dictamen:
 
-I. Recibir, conocer, analizar y dictaminar las iniciativas de ley o decreto y asuntos que sean turnados a ellas por el Pleno;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2016)</small>
+
+I. Recibir, conocer, analizar y dictaminar las iniciativas de ley o decreto, propuestas de acuerdo y asuntos que sean turnados a ellas por el Pleno;
 
 II. Proponer al Pleno la adopción de acuerdos, comunicaciones o exhortos de temas relacionados con su ámbito competencial;
 
@@ -965,7 +967,9 @@ VI. Analizar y formular opinión sobre el Plan Estatal de Desarrollo que sea pre
 
 VII. Dar opinión fundada a la Comisión Inspectora de la Auditoría Superior de Michoacán sobre aspectos presupuéstales específicos, en relación al cumplimiento de los objetivos de los planes y programas del ramo correspondiente al Poder Judicial, Administración Pública Estatal y organismos autónomos para que, en su caso, sean consideradas la revisión de la cuenta pública.
 
-VIII. Glosar los informes anuales del Poder Ejecutivo en la materia de su competencia a más tardar en el mes de junio;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2016)</small>
+
+VIII. Analizar y efectuar la glosa del informe anual del Poder Ejecutivo en la materia de su competencia a más tardar el 15 de febrero;
 
 IX. Solicitar a la Presidencia del Congreso se emita comunicación a funcionarios a efecto que comparezcan, presenten documentos o informes necesarios para la atención de los asuntos de su competencia;
 
@@ -2931,27 +2935,47 @@ La exposición de motivos de las iniciativas, deberán ser presentadas ante el P
 
 Tratándose de iniciativas, el articulado de Ley o de Decreto propuesto, se remitirá sin lectura para su estudio, análisis y dictamen a Comisión.
 
+> <small>(REFORMADO, P.O. 23 DE FEBRERO DE 2016)</small>
+
 ###### ARTÍCULO 236.
 
-La propuesta de Acuerdo es aquella que por su naturaleza no tiene el carácter de Ley o de Decreto y se sujeta a los trámites siguientes:
+La Propuesta de Acuerdo es aquella que por su naturaleza no tiene el carácter de Ley o de Decreto y se sujetará a los trámites siguientes:
 
 I. Deberá presentarse por escrito firmada por su autor, dirigida al Presidente del Congreso y contener exposición de motivos y proyecto de acuerdo;
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+II. Podrá su autor, o uno de ellos si fueren varios, exponer los fundamentos y motivos de su propuesta. En caso de que el o los presentadores no deseen hacer la exposición de su propuesta, el Presidente del Congreso instruirá a un Secretario de la Mesa Directiva dar lectura al texto del proyecto de acuerdo; y,
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
+III. El Presidente del Congreso, turnará la propuesta de acuerdo a las comisiones, comités u órganos del Congreso competentes para su análisis y dictamen.
 
-II. Podrá su autor, o uno de ellos si fueren varios, exponer los fundamentos y motivos de su propuesta;
+Las propuestas de acuerdo presentadas por los órganos del Congreso se someterán a discusión y aprobación de inmediato.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DE LA PRESENTE FRACCIÓN, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+Los dictámenes sobre propuestas de acuerdo deben cumplir en lo que procede con lo dispuesto por los artículos 242 a 247 de la presente Ley, y se someterán a discusión y votación en términos del presente ordenamiento.
 
-> <small>(REFORMADA, P.O. 19 DE JUNIO DE 2015)</small>
+Si durante la discusión del dictamen se propone la modificación a la exposición de motivos o al texto de la propuesta de acuerdo, el Presidente del Congreso consultará al Pleno en votación económica si la acepta. De aceptar las modificaciones se dará cuenta del proyecto con la modificación y se someterá para su aprobación, en votación económica. En caso de que no acepten las modificaciones propuestas, el Presidente del Congreso lo someterá para su aprobación, en votación económica, en los términos presentados y hará la declaratoria que resulte.
 
-III. El texto del proyecto de acuerdo será leído por el Segundo Secretario;
+> <small>(ADICIONADO, P.O. 23 DE FEBRERO DE 2016)</small>
 
-IV. El Presidente del Congreso someterá a discusión la propuesta en términos de la presente Ley; y,
+ARTÍCULO 236 BIS. La Propuesta de Acuerdo podrá presentarse con el carácter de urgente y obvia resolución, en cuyo caso se sujetará al trámite siguiente.
 
-V. Si durante la discusión se propone la modificación a la propuesta de Acuerdo, el Presidente del Congreso preguntará al presentador si la acepta. De aceptar las modificaciones se dará cuenta del proyecto con modificación y se pondrá a votación. En caso de que el presentador no acepte en sus términos las modificaciones, el Presidente del Congreso lo pondrá a votación en los términos presentados y hará la declaratoria que resulte.
+I. Se considerará que la propuesta de acuerdo es de urgente y obvia resolución cuando se refiera a:
+
+a) Una problemática actual, y su no atención en la brevedad o en los términos señalados en la Ley correspondiente, cause daño inminente e irreparable a la sociedad;
+
+b) La existencia de riesgo de que por el simple transcurso del tiempo fenezcan derechos u obligaciones; y,
+
+c) Violaciones a derechos humanos, desastres naturales, epidemias y alteración a la paz pública.
+
+II. Deberá presentarse por escrito firmada por su autor, dirigida al Presidente del Congreso y contener en la exposición de motivos la justificación de que el asunto es de urgente y obvia resolución, así como el proyecto de acuerdo;
+
+III. Podrá su autor, o uno de ellos si fueren varios, exponer los fundamentos y motivos de su propuesta;
+
+IV. El texto del proyecto de acuerdo será leído por un Secretario de la Mesa Directiva;
+
+V. El Presidente someterá a consideración del Pleno en votación económica si el asunto es considerado de urgente y obvia resolución, lo cual requerirá de la aprobación de las dos terceras partes de los diputados presentes.
+
+En caso de aprobarse, se iniciará la discusión y votación en términos de la presente Ley; de lo contrario, el Presidente del Congreso turnará la propuesta de acuerdo a las comisiones, comités u órganos del Congreso competentes para su análisis y dictamen; y,
+
+VI. Si durante la discusión se propone la modificación a la exposición de motivos o al texto de la propuesta de acuerdo, el Presidente del Congreso preguntará al presentador si la acepta. De aceptar las modificaciones se dará cuenta del proyecto con la modificación y se someterá para su aprobación, en votación económica. En caso de que el presentador no acepte en sus términos las modificaciones, el Presidente lo someterá para su aprobación, en votación económica en los términos presentados y hará la declaratoria que resulte.
 
 ###### ARTÍCULO 237.
 
@@ -2999,7 +3023,9 @@ Para emitir dictamen de los asuntos turnados, las Comisiones deberán reunirse p
 
 Los dictámenes deberán contener:
 
-I. Los datos generales que identifiquen la iniciativa y una exposición clara y precisa del asunto al que se refiere;
+> <small>(REFORMADA, P.O. 23 DE FEBRERO DE 2016)</small>
+
+I. Los datos que identifiquen la iniciativa o el asunto de que se trate y una exposición clara y precisa a que se refiere;
 
 II. La expresión pormenorizada de las consideraciones resultantes del análisis y estudio de la iniciativa, de los motivos que la sustentan, así como la exposición precisa de los argumentos que motiven los cambios, modificaciones o cualquier otra circunstancia que afecte a los motivos y al texto de la iniciativa en los términos en que fue promovida;
 
@@ -3818,3 +3844,31 @@ Tercero. La Coordinación de Comunicación Social iniciará las transmisiones en
 Cuarto. El Comité de Comunicación Social del Congreso del Estado, elaborará los manuales de organización necesarios para el cumplimiento del presente Decreto, en un término de 30 días naturales a partir de la entrada en vigor del mismo.
 
 Quinto. Remítase el presente Decreto al Gobernador del Estado, para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 23 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NO. 126 POR EL QUE “SE REFORMAN LOS ARTÍCULOS 64 FRACCIÓN I, 236 Y 244 FRACCIÓN I; Y SE ADICIONA EL ARTÍCULO 236 BIS, DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor al día siguiente al de su aprobación por el Pleno del Congreso del Estado de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+Remítase el presente Decreto al Gobernador del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
+
+P.O. 23 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL DECRETO NÚMERO 127 POR EL QUE “SE REFORMA, EL ARTÍCULO 64 FRACCIÓN VIII, DE LA LEY ORGÁNICA Y DE PROCEDIMIENTOS DEL CONGRESO DEL ESTADO DE MICHOACÁN DE OCAMPO”.]
+
+###### ARTÍCULO PRIMERO.
+
+El presente Decreto entrará en vigor el día de su aprobación por el Pleno del Congreso del Estado de Michoacán de Ocampo, en términos del segundo párrafo del artículo 42 de la Constitución Política del Estado Libre y Soberano de Michoacán de Ocampo.
+
+###### ARTÍCULO SEGUNDO.
+
+En relación al ejercicio 2014-2015, cuyo Informe presentó el Titular del Poder Ejecutivo del Estado en el mes de septiembre de 2015 a este Congreso, deberá, por única ocasión ser glosado a más tardar en el mes de junio de 2016.
+
+###### ARTÍCULO TERCERO.
+
+Remítase el presente Decreto al Gobernador del Estado para su publicación en el Periódico Oficial del Gobierno Constitucional del Estado de Michoacán de Ocampo.
