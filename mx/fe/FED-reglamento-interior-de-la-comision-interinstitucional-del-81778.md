@@ -4,7 +4,7 @@ identifier: "FED-reglamento-interior-de-la-comision-interinstitucional-del-81778
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-06-22"
-last_updated: "2014-01-29"
+last_updated: "2016-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=81778&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2011-06-14"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION INTERINSTITUCIONAL DEL CUADRO BASICO Y CATALOGO DE INSUMOS DEL SECTOR SALUD
 
+> <small>[N. DE E. PARA CONSULTAR LA VERSIÓN CORREGIDA DE ESTE ORDENAMIENTO, DE CONFORMIDAD CON LA FE DE ERRATAS PUBLICADA EL 8 DE MARZO DE 2016 EN EL DIARIO OFICIAL DE LA FEDERACIÓN, SE RECOMIENDA ACUDIR AL TEXTO QUE SE VISUALIZA DENTRO DE LA CRONOLOGÍA CORRESPONDIENTE A DICHA FECHA, EN EL ÍNDICE RESPECTIVO DE SU HISTORIA LEGISLATIVA.]</small>
+
 REGLAMENTO INTERIOR DE LA COMISIÓN INTERINSTITUCIONAL DEL CUADRO BÁSICO Y CATÁLOGO DE INSUMOS DEL SECTOR SALUD
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 16 DE ENERO DE 2014.
-
-> <small>N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN DEL 29 DE ENERO DE 2014.</small>
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE FEBRERO DE 2016.
 
 Reglamento publicado en la Segunda Sección del Diario Oficial de la Federación, el miércoles 22 de junio de 2011.
 
@@ -75,6 +75,10 @@ XI. Cuadro Básico y Catálogo, el Cuadro Básico y Catálogo de Insumos del Sec
 
 XII. Eficiencia, la relación entre los recursos empleados y los resultados obtenidos en una intervención bajo condiciones reales. La intervención más eficiente es la que presenta una mejor relación recursos/resultados;
 
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2016)</small>
+
+XII Bis. Endoprótesis y Osteosíntesis, aquellos dispositivos destinados a sustituir o complementar una función, un órgano o un tejido del cuerpo humano, incluyendo prótesis, órtesis y ayudas funcionales
+
 XIII. Equipo Médico, los aparatos, accesorios e instrumental para uso específico, destinados a la atención médica, quirúrgica o a procedimientos de exploración, diagnóstico, tratamiento y rehabilitación de pacientes, así como aquellos para efectuar actividades de investigación biomédica;
 
 XIV. Evaluación de un insumo, el proceso mediante el cual se compara la evidencia sobre un insumo con la de otros destinados al mismo fin, para establecer la idoneidad de aceptar una solicitud de actualización;
@@ -93,9 +97,17 @@ XX. Inclusión, la incorporación de insumos distintos en cuanto a nombre genér
 
 XXI. Insumos para la salud, los medicamentos, substancias psicotrópicas, estupefacientes y las materias primas y aditivos que intervengan para su elaboración; así como los equipos médicos, prótesis, órtesis, ayudas funcionales, agentes de diagnóstico, insumos de uso odontológico, material quirúrgico, de curación y productos higiénicos;
 
-XXII. Insumos de acupuntura, los elementos requeridos para la atención con acupuntura, referidos a nivel general en la “Norma Oficial Mexicana NOM-172-SSA 1-1998. Prestación de servicios de salud. Actividades auxiliares. Criterios de operación para la práctica de la acupuntura humana y métodos relacionados”;
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2016)</small>
 
-XXIII. Material de curación, los dispositivos o materiales de un solo uso que se emplean en la atención médica, quirúrgica, procedimientos de exploración, diagnóstico, tratamiento y rehabilitación de pacientes. En este apartado se incluyen también los materiales y substancias que se apliquen en la superficie de la piel o cavidades corporales y que tengan acción farmacológica o preventiva; y aquellos dispositivos destinados a sustituir o complementar una función, un órgano o un tejido del cuerpo humano, incluyendo prótesis, órtesis y ayudas funcionales;
+XXII. Insumos de acupuntura, los elementos requeridos para la atención con acupuntura, referidos a nivel general en la norma oficial mexicana vigente en la materia;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2016)</small>
+
+XXII BIS. Lista de medicamentos y otros insumos esenciales para la salud, la relación de insumos que forma parte del Cuadro Básico y Catálogo de Insumos del Sector Salud, determinada por la Secretaría de Salud, para los efectos del artículo 29 de la Ley General de Salud;
+
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2016)</small>
+
+XXIII. Material de curación, los dispositivos o materiales de un solo uso que se emplean en la atención médica, quirúrgica, procedimientos de exploración, diagnóstico, tratamiento y rehabilitación de pacientes. En este apartado se incluyen también los materiales y substancias que se apliquen en la superficie de la piel o cavidades corporales y que tengan acción farmacológica o preventiva
 
 XXIV. Medicamento, toda sustancia o mezcla de substancias de origen natural o sintético que tenga efecto terapéutico, preventivo o rehabilitatorio, que se presente en forma farmacéutica y se identifique como tal por su actividad farmacológica, características físicas, químicas y biológicas. Cuando un producto contenga nutrimentos, será considerado como medicamento, siempre que se trate de un preparado que contenga de manera individual o asociada: vitaminas, minerales, electrolitos, aminoácidos o ácidos grasos, en concentraciones superiores a las de los alimentos naturales y además se presente en alguna forma farmacéutica definida y la indicación de uso contemple efectos terapéuticos, preventivos o rehabilitatorios;
 
@@ -121,19 +133,27 @@ XXXIV. Valoración, el proceso mediante el cual se estima la integridad, coheren
 
 ### CAPITULO II. De la organización y objeto de la Comisión
 
-> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2014)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 4.
 
-La Comisión estará integrada por el Secretario del Consejo de Salubridad General, quien fungirá como Presidente y por los miembros titulares del Consejo que representen a la Secretaría de Salud, al Instituto Mexicano del Seguro Social, al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, al Sistema Nacional para el Desarrollo Integral de la Familia, a la Secretaría de la Defensa Nacional, a la Secretaría de Marina, a Petróleos Mexicanos y la Secretaría de Salud del Distrito Federal.
+La Comisión estará integrada por el Secretario del Consejo de Salubridad General, quien fungirá como Presidente y por los miembros titulares del Consejo que representen a la Secretaría de Salud, al Instituto Mexicano del Seguro Social, al Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, a la Secretaría de la Defensa Nacional, a la Secretaría de Marina y a Petróleos Mexicanos.
+
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2014)</small>
 
 El Presidente y los demás miembros de la Comisión a que se refiere el presente artículo, contarán con derecho de voz y voto.
 
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2014)</small>
+
 El Presidente de la Comisión será suplido en sus ausencias por su Secretario Técnico. Los demás miembros podrán designar por escrito a sus respectivos suplentes, quienes deberán contar con un nivel jerárquico inmediato inferior al de los miembros titulares.
+
+> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2014)</small>
 
 Serán invitados permanentes a las sesiones plenarias de la Comisión el Titular de la Comisión Coordinadora de Institutos Nacionales de Salud y Hospitales de Alta Especialidad, el Titular de la Comisión Nacional de Protección Social en Salud, el Titular del Centro Nacional de Excelencia Tecnológica en Salud, un representante institucional de la Cámara Nacional de la Industria Farmacéutica, un representante institucional de la Cámara Nacional de la Industria de Transformación y un representante ciudadano del Consejo de Ética y Transparencia de la Industria Farmacéutica. Los invitados permanentes tendrán derecho a voz, pero sin voto.
 
-Para el análisis de los asuntos a cargo de la Comisión, y por decisión del Presidente de la Comisión o de la mayoría de sus miembros, la Comisión podrá aceptar representantes de otros organismos y unidades administrativas, así como escuchar la opinión de integrantes de los sectores social y privado.
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2016)</small>
+
+Para el análisis de los asuntos a cargo de la Comisión, y por decisión del Presidente de la Comisión o de la mayoría de sus miembros, la Comisión podrá aceptar representantes de otros organismos y unidades administrativas, así como escuchar la opinión de instituciones académicas o profesionales, consejos de especialidades médicas, asociaciones de pacientes y, en general de expertos, en la materia de los asuntos en análisis, quienes contarán con voz pero sin voto.
 
 ###### Artículo 5.
 
@@ -155,17 +175,29 @@ II. Revisar periódicamente el Cuadro Básico y Catálogo con el fin de realizar
 
 III. Recibir, estudiar y dictaminar las solicitudes de actualización de insumos presentadas conforme a lo establecido en este Reglamento;
 
-IV. (DEROGADA, D.O.F. 16 DE ENERO DE 2014)
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 23 DE FEBRERO DE 2016)</small>
 
-V. (DEROGADA, D.O.F. 16 DE ENERO DE 2014)
+IV. Emitir y actualizar la Guía de Evaluación de Insumos para la Salud, en la que se establecen los criterios estandarizados para la calificación de las solicitudes de actualización;
+
+> <small>(REFORMADA [N. DE E. ADICIONADA], D.O.F. 23 DE FEBRERO DE 2016)</small>
+
+V. Emitir y actualizar la Guía para la Conducción de Estudios de Evaluación Económica para la Actualización del Cuadro Básico de Insumos del Sector Salud;
 
 VI. Aprobar los formatos de cédulas descriptivas de los insumos;
 
 VII. Elaborar y difundir un prontuario que describa los insumos contenidos en el Cuadro Básico y Catálogo y que sirva como instrumento de trabajo y orientación a los profesionales de la salud en la selección de insumos y para fines didácticos en las instituciones de educación superior vinculadas a la salud;
 
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2016)</small>
+
+VII Bis. Proponer a la Secretaría de Salud la Lista de medicamentos y otros insumos esenciales para la salud.
+
 VIII. Fomentar la investigación sobre los insumos que se utilizan o se requieren en las unidades operativas y de servicios de salud, alentando la participación de las instituciones de salud, las instituciones de educación superior, los fabricantes de insumos para la salud y otras instancias relacionadas;
 
 IX. Fomentar la formación de recursos humanos en las áreas del conocimiento requeridas para la valoración de insumos objeto de este Reglamento;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2016)</small>
+
+IX Bis. Fomentar el cumplimiento de las acciones de farmacovigilancia y tecnovigilancia, relacionados con los insumos del Cuadro Básico y Catálogo;
 
 X. Asesorar a los gobiernos de las entidades federativas y municipios que lo soliciten respecto del Cuadro Básico y Catálogo;
 
@@ -203,17 +235,19 @@ El pleno se reunirá en sesiones ordinarias previa convocatoria emitida por su P
 
 Las convocatorias para las sesiones de la Comisión contendrán el orden del día, se efectuarán mediante comunicación escrita firmada por el Presidente de la Comisión y se notificarán a todos los miembros de la misma, por lo menos, con cinco días hábiles de anticipación a la fecha de la celebración, en el caso de las sesiones ordinarias, y con 24 horas de anticipación, las extraordinarias. Las convocatorias podrán realizarse mediante correo electrónico institucional, en cuyo caso el acuse de recibo electrónico deberá agregarse al expediente correspondiente.
 
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 12.
 
-Las sesiones de la Comisión, tanto ordinarias como extraordinarias, se efectuarán con la asistencia de la mayoría simple de los representantes titulares o suplentes designados y sus resoluciones serán válidas cuando se aprueben por la mayoría de los presentes. En caso de empate el Presidente tendrá voto de calidad. En caso de no contar con quórum, el Presidente fijará fecha para una nueva reunión; la cual se llevará a cabo con los miembros que asistan.
+Las sesiones de la Comisión, tanto ordinarias como extraordinarias, se efectuarán con la asistencia de la mayoría simple de los representantes titulares o suplentes designados y sus resoluciones serán válidas cuando se aprueben por la mayoría de los presentes. En caso de empate el Presidente tendrá voto de calidad.
 
-> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2014)</small>
+> <small>[N. DE E. VÉASE LITERALIDAD DEL DECRETO PUBLICADO EN LA TERCERA SECCIÓN DEL D.O.F. DE 23 DE FEBRERO DE 2016, PÁGINA 2.]</small>
+
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 13.
 
 De las sesiones del pleno se levantará acta, en la que se asentarán los acuerdos a que se haya llegado. Las actas de las sesiones, una vez firmadas por los titulares, el Presidente y el Secretario Técnico, se integrarán al expediente correspondiente, junto con todos los documentos que justifiquen que las convocatorias se realizaron en los términos previstos en el presente Reglamento, así como los documentos que sirvieron de base para la toma de decisiones.
-
-Las actas a la que se refiere el párrafo anterior se considerarán información reservada en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
 
 #### Sección II: De los Comités Técnicos Específicos
 
@@ -235,9 +269,17 @@ VI. De Medicamentos Homeopáticos;
 
 VII. De Insumos de Acupuntura.
 
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 15.
 
-Los Comités se integrarán por el Secretario Técnico de la Comisión, quien los presidirá, un Coordinador y un representante de cada uno de los miembros de la Comisión. La Comisión seleccionará a los representantes de entre los candidatos propuestos por las instituciones que la conforman. A petición de los Comités podrán participar los expertos y otros invitados. Cada integrante podrá asistir a las reuniones acompañado por uno o más asesores que tendrán voz pero no voto. Los pronunciamientos que efectúen los integrantes de los Comités sobre los asuntos que se sometan a su consideración se entenderán hechos y en propiedad en todo momento por y de la dependencia, entidad o institución a la que representen.
+Los Comités se integrarán por el Secretario Técnico de la Comisión, quien los presidirá, un Coordinador y un representante de cada uno de los miembros de la Comisión.
+
+La Comisión seleccionará a los representantes de entre los candidatos propuestos por las instituciones que la conforman.
+
+Cada integrante podrá asistir a las sesiones acompañado por uno o más asesores que tendrán voz pero no voto. Los pronunciamientos que efectúen los integrantes de los Comités sobre los asuntos que se sometan a su consideración se entenderán hechos y en propiedad en todo momento por y de la dependencia, entidad o institución a la que representen.
+
+A petición de los Comités podrán participar en sus reuniones, expertos y otros invitados, que tengan relación con los temas a tratar. Serán invitados permanentes los servidores públicos que para tal efecto designen los titulares de la Comisión Federal para la Protección contra Riesgos Sanitarios y del Centro Nacional de Excelencia Tecnológica en Salud. Los invitados tendrán derecho a voz pero no a voto.
 
 ###### Artículo 16.
 
@@ -247,15 +289,29 @@ I. Proponer al Presidente de la Comisión los formatos de cédulas e instructivo
 
 II. Recibir las solicitudes de actualización de insumos;
 
-III. Obtener la opinión por escrito de los expertos acerca del estudio y análisis de los insumos propuestos para actualización.
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2016)</small>
+
+III. Solicitar la opinión de expertos en la materia, respecto del estudio y análisis de los insumos propuestos, en los casos en los que por su naturaleza resulte conveniente para resolver una solicitud de actualización.
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2016)</small>
+
+III Bis. Solicitar en los casos en que por su naturaleza resulte conveniente para resolver una solicitud de actualización, la opinión técnica del Centro Nacional de Excelencia Tecnológica en Salud. Dicha opinión técnica no tendrá carácter vinculatorio.
 
 IV. Dictaminar sobre las solicitudes de actualización recibidas, conforme al procedimiento señalado en este Reglamento;
 
-V. Elaborar y aprobar la cédula de los insumos que sean aceptados para la actualización del Cuadro Básico y Catálogo.
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2016)</small>
 
-VI. Definir la ubicación de un insumo aceptado ya sea en el Cuadro Básico o en el Catálogo y clasificar por especialidad y grupo de acuerdo con tipo de insumo.
+V. Elaborar y aprobar la cédula de los insumos que sean aceptados para la actualización del Cuadro Básico y Catálogo, y cuando así lo consideren procedente, establecer recomendaciones puntuales sobre prescripción y uso con base en las indicaciones de diagnóstico terapéuticas, así como sobre descripciones tecnológicas y su funcionalidad;
+
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2016)</small>
+
+VI. Definir la ubicación de un insumo aceptado ya sea en el Cuadro Básico o en el Catálogo y clasificar por especialidad y grupo de acuerdo con el tipo de insumo y en concordancia con su Registro Sanitario;
 
 VII. Colaborar en la revisión periódica del Cuadro Básico y Catálogo con el fin de actualizarlo conforme a las necesidades de salud de la población;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2016)</small>
+
+VII Bis. Participar en la elaboración de la propuesta de la lista de medicamentos y otros insumos esenciales;
 
 VIII. Elaborar un prontuario sobre los insumos contenidos el Cuadro (sic) Básico y Catálogo que especifique sus características, indicaciones terapéuticas, contraindicaciones y presentación.
 
@@ -271,13 +327,13 @@ Las sesiones de los Comités, tanto ordinarias como extraordinarias, tendrán va
 
 Las convocatorias para las sesiones de los Comités específicos serán emitidas por el Secretario Técnico, contendrán el orden del día y se efectuarán mediante comunicación escrita a todos los miembros del Comité con una anticipación mínima de tres días hábiles a la fecha de la celebración. Las convocatorias podrán realizarse mediante correo electrónico institucional, en cuyo caso el acuse de recibo electrónico deberá agregarse al expediente correspondiente.
 
-> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2014)</small>
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 19.
 
-Los acuerdos de los Comités, con excepción de los dictámenes de actualización, serán válidos con la asistencia de la mayoría simple de los miembros nombrados por los titulares de la Comisión, los que se asentarán siempre en acta, que será firmada por el Secretario Técnico, el Coordinador y por los miembros del Comité de que se trate.
+Los acuerdos y dictámenes de los Comités, serán válidos cuando se aprueben por la mayoría de los miembros nombrados por los titulares de la Comisión. En caso de empate el Presidente del Comité tendrá voto de calidad.
 
-Las actas a la que se refiere el párrafo anterior se considerarán información reservada en términos de la Ley Federal de Transparencia y Acceso a la Información Pública Gubernamental.
+Sus acuerdos se asentarán siempre en acta, que será firmada por el Secretario Técnico, en su carácter de Presidente del Comité, el Coordinador y por los miembros del Comité que se encuentren presentes.
 
 ### CAPITULO V. De las facultades de los miembros
 
@@ -301,13 +357,13 @@ VI. Evaluar los planes y programas de la Comisión elaborados por el Secretario 
 
 VII. Formular y presentar a la Comisión los planes y proyectos que le correspondan;
 
-> <small>(ADICIONADA, D.O.F. 16 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2016)</small>
 
-VII Bis 1. Emitir y actualizar la Guía de Evaluación de Insumos para la Salud, en la que se establecen los criterios estandarizados para la calificación de las solicitudes de actualización;
+VII Bis 1. Comunicar a la Secretaría de Salud, la propuesta de Lista de medicamentos y otros insumos esenciales que apruebe la Comisión;
 
-> <small>(ADICIONADA, D.O.F. 16 DE ENERO DE 2014)</small>
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2016)</small>
 
-VII Bis 2. Emitir y actualizar la Guía para la Conducción de Estudios de Evaluación Económica para la Actualización del Cuadro Básico de Insumos del Sector Salud;
+VII Bis 2. Informar a la Comisión Coordinadora para la Negociación de Precios de Medicamentos y otros Insumos para la Salud respecto de las solicitudes de actualización relacionadas con insumos con patente vigente o de fuente única;
 
 VIII. Formular los informes que permitan conocer el estado operativo de la Comisión;
 
@@ -331,7 +387,9 @@ Corresponde a los miembros titulares:
 
 I. Representar a su institución en las sesiones de la Comisión;
 
-II. Opinar, presentar argumentos científicos y de otra índole y, sólo en caso de no alcanzarse consenso, votar en las sesiones;
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2016)</small>
+
+II. Opinar, presentar argumentos científicos y de otra índole, así como votar en las sesiones;
 
 III. Sancionar con su firma el acta, los informes, los dictámenes y las resoluciones de la Comisión;
 
@@ -371,6 +429,14 @@ XII. Convocar solicitantes cuando exista necesidad institucional expresa de insu
 
 XIII. Revisar y valorar las solicitudes de actualización y la información que las acompaña para determinar que cumplen cabalmente con los requisitos establecidos en este Reglamento para proceder a su evaluación;
 
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2016)</small>
+
+XIII Bis 1. Realizar las gestiones para obtener la opinión técnica del Centro Nacional de Excelencia Tecnológica en Salud, en los casos en que por su naturaleza resulte conveniente para resolver una solicitud de actualización;
+
+> <small>(ADICIONADA, D.O.F. 23 DE FEBRERO DE 2016)</small>
+
+XIII Bis 2. Integrar la propuesta de la Lista de medicamentos y otros insumos esenciales, que será puesta a consideración por la Comisión a la Secretaría de Salud, atendiendo las opiniones de los integrantes de la Comisión y los Comités;
+
 XIV. Presidir las sesiones de los Comités y firmar las actas de las sesiones de los Comités;
 
 XV. Coordinar las actividades de los Comités;
@@ -379,7 +445,9 @@ XVI. Emitir voto de calidad en caso de no haber consenso en el análisis y evalu
 
 XVII. Dar cuenta a los Comités de la correspondencia, de los documentos en cartera y de las solicitudes que se presenten a la Comisión;
 
-XVIII. Firmar y cumplir el contenido de las cartas de confidencialidad y de no conflicto de intereses; y
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2016)</small>
+
+XVIII. Firmar y cumplir el contenido de las cartas de confidencialidad y de no conflictos de interés, y
 
 XIX. Las demás que el Presidente de la Comisión señale.
 
@@ -415,7 +483,9 @@ X. Las demás que el Secretario Técnico de la Comisión señale.
 
 Corresponde a los miembros de los Comités:
 
-I. Evaluar las solicitudes de actualización al Cuadro Básico y Catálogo considerando los informes realizados por los expertos, cuando aplique;
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2016)</small>
+
+I. Evaluar las solicitudes de actualización al Cuadro Básico y Catálogo considerando, en su caso, la opinión técnica del Centro Nacional de Excelencia Tecnológica en Salud y los informes realizados por los expertos, sin que dicha opinión técnica e informes sean vinculantes;
 
 II. Participar en las sesiones del Comité;
 
@@ -433,7 +503,9 @@ El miembro que manifieste contar con un conflicto de interés en el asunto a tra
 
 Corresponde a los expertos para la evaluación de insumos:
 
-I. Emitir recomendaciones acerca de los insumos que soliciten su inclusión, modificación o exclusión al Cuadro Básico y Catálogo a efecto de apoyar los trabajos que realiza la Comisión y sus Comités, con base en la evaluación de la información científica presentada por los solicitantes, así como a información que consideren relevante para el tema;
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2016)</small>
+
+I. Emitir, a petición de los Comités, recomendaciones acerca de los insumos que son materia de una solicitud de inclusión, modificación o exclusión al Cuadro Básico y Catálogo, a efecto de apoyar los trabajos que realiza la Comisión y sus Comités, con base en la evaluación de la información científica presentada por los solicitantes, así como a (sic) información que consideren relevante para el tema;
 
 II. Acudir a las reuniones a los que sean convocados por la Comisión o los Comités.
 
@@ -445,11 +517,13 @@ II. Acudir a las reuniones a los que sean convocados por la Comisión o los Comi
 
 El Cuadro Básico y Catálogo deberá mantenerse permanentemente actualizado, tomando como base el avance del conocimiento y el desarrollo de la tecnología. La actualización del Cuadro Básico y Catálogo tendrá como objetivo la optimización de los recursos para la detección, prevención y atención de las enfermedades que afectan a la población procurando evitar la creación de claves de proveedor único, cuando existan otros insumos con características equivalentes. La actualización se realizará mediante los procesos de inclusión, modificación y exclusión de insumos aprobados por la Comisión.
 
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 27.
 
-Podrán solicitar actualizaciones de los insumos en el Cuadro Básico y Catálogo, las instituciones públicas prestadoras de servicios de salud, las organizaciones científicas, las academias y consejos de especialidad, los proveedores, las instituciones gubernamentales, así como los miembros de la Comisión, el Secretario y el Presidente del Consejo de Salubridad General.
+Podrán solicitar actualizaciones de los insumos en el Cuadro Básico y Catálogo, las instituciones públicas prestadoras de servicios de salud, las organizaciones científicas, las academias y los consejos de especialidades médicas, los proveedores, las instituciones gubernamentales, así como los miembros de la Comisión, el Secretario y el Presidente del Consejo de Salubridad General.
 
-Las solicitudes y la documentación que las acompañe deberán ser presentadas preferentemente en medios digitales, conforme a los requisitos citados en este Reglamento. La solicitud y la documentación presentada con motivo de la actualización serán conservadas en el Consejo de Salubridad General durante un periodo de cuatro años, al término de los cuales se transferirán al Archivo de Concentración de la Secretaría de Salud.
+Las solicitudes y la documentación que las acompañe deberán ser presentadas preferentemente en medios digitales, conforme a los requisitos citados en este Reglamento. La solicitud y la documentación presentada con motivo de la actualización serán conservadas en el Consejo de Salubridad General durante un periodo de cuatro años, al término de los cuales se transferirán al archivo de concentración.
 
 > <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2014)</small>
 
@@ -459,9 +533,15 @@ Previo a la presentación formal de la solicitud de Actualización de los insumo
 
 Para tal efecto, los interesados deberán presentar un escrito a la Comisión, en el que expresen su interés en presentar formalmente una solicitud de actualización, manifestando en todos los casos los datos generales del interesado y, en su caso, del representante, así como la información correspondiente al insumo de que se trate.
 
-La Comisión determinará la fecha y hora para la celebración de las juntas técnicas.
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2016)</small>
+
+La Comisión a través del Comité Técnico determinará la fecha y hora para la celebración de las juntas técnicas, cuyo desarrollo se sujetará a los lineamientos que para tal efecto emita la propia Comisión y que serán difundidos en la página de Internet del Consejo.
 
 De cada junta técnica se levantará acta en la que se harán constar los cuestionamientos formulados por los interesados y las aclaraciones correspondientes.
+
+> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2016)</small>
+
+Los lineamientos para la realización de las juntas técnicas estarán publicadas (sic) en la página electrónica del Consejo.
 
 > <small>(F. DE E., D.O.F. 15 DE SEPTIEMBRE DE 2011)</small>
 
@@ -505,15 +585,27 @@ VII. Escrito libre que establezca el precio del insumo ofertado al sector públi
 
 VIII. Original o copia certificada del documento con el que el solicitante acredite su personalidad, así como de la persona responsable.
 
-> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2014)</small>
+> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2016)</small>
+
+###### Artículo 28 Bis.
+
+Los Comités durante el trámite de una solicitud de actualización del Cuadro Básico y Catálogo, podrán solicitar la opinión de los comités de la Comisión Coordinadora para la Negociación de Precios de Medicamentos y otros Insumos para la Salud, a efecto de contar con mayores elementos para la emisión del dictamen que corresponda.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 29.
 
-En el caso de solicitudes de inclusión de medicamentos para tratamientos especiales en enfermedades de baja incidencia con repercusión social, así como para medicamentos huérfanos, se deberá proporcionar además de los requisitos previstos en el artículo 196 del Reglamento de Insumos para la Salud, lo siguiente:
+En el caso de solicitudes de inclusión de medicamentos para tratamientos especiales en enfermedades de baja incidencia con repercusión social, así como para medicamentos huérfanos, se deberá proporcionar además de los requisitos previstos en el artículo 28 de este Reglamento, lo siguiente:
 
-I. Copia notariada de la autorización expedida por la Comisión Federal para la Protección contra Riesgos Sanitarios;
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2016)</small>
+
+I. Copia certificada de la autorización expedida por la Comisión Federal para la Protección contra Riesgos Sanitarios;
+
+> <small>(REFORMADA, D.O.F. 16 DE ENERO DE 2014)</small>
 
 II. Estudio de impacto presupuestal, y
+
+> <small>(REFORMADA, D.O.F. 16 DE ENERO DE 2014)</small>
 
 III. Estudio de Evaluación Económica, que desarrolle el costo-efectividad y/o el costo-utilidad cuando la información clínica y económica lo permita.
 
@@ -559,6 +651,14 @@ VII. Análisis del incremento de precios entre las modificaciones, en los casos 
 
 VIII. Original o copia certificada del documento con el que el solicitante acredite su personalidad, así como de la persona responsable.
 
+> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2016)</small>
+
+Para los efectos de la fracción III de este artículo, los Comités podrán solicitar la opinión de los comités de la Comisión Coordinadora para la Negociación de Precios de Medicamentos y otros Insumos para la Salud.
+
+> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2016)</small>
+
+Los precios de los medicamentos y otros insumos para la salud que se hubieren negociado en el marco de la Comisión Coordinadora antes señalada, deberán utilizarse como referencia para la evaluación y dictaminación correspondientes.
+
 > <small>(ADICIONADO, D.O.F. 16 DE ENERO DE 2014)</small>
 
 ###### Artículo 31 Bis.
@@ -581,9 +681,11 @@ VII. Estudio de evaluación económica elaborado con base en la Guía para la Co
 
 VIII. Original o copia certificada del documento con el que el solicitante acredite su personalidad, así como de la persona responsable.
 
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 32.
 
-Toda solicitud de exclusión, independientemente del tipo de insumo de que se trate, deberá contener los datos de contacto de la persona responsable e incluir una justificación desde el punto de vista clínico, epidemiológico, farmacológico, económico y/o tecnológico que considere:
+Toda solicitud de exclusión, independientemente del tipo de insumo de que se trate, deberá contener los datos de contacto de la persona responsable e incluir una justificación desde el punto de vista clínico, epidemiológico, farmacológico, basada en evidencia científica y en aspectos económicos y/o tecnológicos debidamente documentados, que considere:
 
 I. Comunicados emitidos por el Centro Nacional de Farmacovigilancia;
 
@@ -599,9 +701,13 @@ VI. Pruebas de desabasto por falta de producción, incapacidad de atender la dem
 
 En el caso de que la solicitud de exclusión provenga de un proveedor deberá estar acompañada del Registro Sanitario correspondiente.
 
+Si alguna institución pública de salud se pronuncia por la no exclusión, deberá sustentar su permanencia en el Cuadro Básico y Catálogo con evidencia científica suficiente.
+
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 33.
 
-Cuando se solicite la exclusión de un insumo, la solicitud será publicada en la página de Internet del Consejo 60 días previos al dictamen, con el objeto de conocer opiniones al respecto de las Instituciones de Sector Salud. La publicación de exclusiones en respuesta a alertas nacionales o internacionales de eventos adversos graves ocasionados por el insumo se hará en el momento en que se considere necesario.
+Cuando se solicite la exclusión de un insumo, la solicitud será publicada en la página de Internet del Consejo, 60 días previos al dictamen, con el objeto de conocer opiniones al respecto de las instituciones públicas prestadoras de servicios de salud. La publicación de exclusiones en respuesta a alertas nacionales o internacionales de eventos adversos graves ocasionados por el insumo se hará en el momento en que se considere necesario.
 
 ###### Artículo 34.
 
@@ -617,9 +723,13 @@ El Consejo publicará en el Diario Oficial de la Federación los formatos de cé
 
 Para efectos de la actualización del Cuadro Básico y Catálogo, las solicitudes de actualización y la documentación que las acompaña se recibirán en cualquier día hábil del año en curso. La Secretaría Técnica del Comité correspondiente dispondrá de quince días hábiles, contados a partir del día hábil siguiente de la recepción de la solicitud, para efectuar la revisión y valoración de la solicitud y documentación con el fin de constatar que cumple con los requisitos señalados en este Reglamento.
 
-La Secretaría Técnica del Comité, en caso de existir omisión de alguno de los requisitos que deben cumplirse, dentro del plazo de quince días hábiles contados a partir de la fecha de recepción, prevendrá al solicitante para que subsane las omisiones dentro del término de cinco días hábiles, contados a partir de la fecha en que se le haya notificado, apercibido de que en caso de no dar cumplimiento se tendrá por no presentada la solicitud.
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2016)</small>
 
-Si en quince días hábiles contados a partir de la fecha de recepción de su solicitud el solicitante no recibe ninguna comunicación, se entenderá que la solicitud fue aceptada y se deberá presentar la documentación para continuar con el proceso de actualización del insumo.
+La Secretaría Técnica del Comité, en caso de existir omisión de alguno de los requisitos que deben cumplirse, dentro del plazo de quince días hábiles contados a partir del día hábil siguiente de la fecha de recepción, prevendrá al solicitante para que subsane las omisiones dentro del término de cinco días hábiles, contados a partir del día hábil siguiente de la fecha en que se le haya notificado, apercibido de que en caso de no dar cumplimiento se tendrá por no presentada la solicitud.
+
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2016)</small>
+
+Si en quince días hábiles contados a partir del día hábil siguiente de la fecha de recepción de su solicitud el solicitante no recibe ninguna comunicación, se entenderá que la solicitud fue aceptada y se deberá presentar la documentación para continuar con el proceso de actualización del insumo.
 
 Cada solicitud de actualización podrá ser valorada hasta en dos ocasiones, a efecto de determinar si procede dar trámite a la misma.
 
@@ -627,9 +737,11 @@ Una nueva solicitud sobre el insumo y la indicación referidos, sólo podrá pre
 
 #### Sección II: Sobre los expertos
 
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 37.
 
-La Comisión seleccionará, de entre los candidatos propuestos por los miembros de la Comisión a expertos provenientes de las instituciones públicas del Sistema Nacional de Salud, así como integrantes de los sectores académico, social y privado que posean experiencia en los campos clínico o de economía de la salud, que den transparencia al proceso de actualización del Cuadro Básico y Catálogo mediante el análisis de las solicitudes con base en evidencia científica.
+La Comisión podrá solicitar la participación de expertos que seleccionará, de entre los candidatos propuestos por los miembros de la Comisión, provenientes de las instituciones públicas del Sistema Nacional de Salud, así como integrantes de los sectores académico, social y privado que posean experiencia en los campos clínico o de economía de la salud, que den transparencia al proceso de actualización del Cuadro Básico y Catálogo mediante el análisis de las solicitudes con base en evidencia científica.
 
 I. La selección de expertos estará fundamentada en los siguientes aspectos: datos generales, experiencia laboral en el campo que se analiza, documentos que avalen la experiencia requerida.
 
@@ -641,33 +753,53 @@ III. La información adicional considerada por los evaluadores será citada en l
 
 Los expertos analizarán la información recibida conforme a la Guía de Evaluación de Insumos para la Salud expedida para ese efecto y prepararán una evaluación del insumo que será enviada a los miembros de los Comités, y servirá como apoyo para la preparación del dictamen correspondiente.
 
+> <small>(ADICIONADA CON EL ARTÍCULO QUE LA INTEGRA, D.O.F. 23 DE FEBRERO DE 2016)</small>
+
+#### Sección II Bis De las opiniones técnicas del Centro Nacional de Excelencia Tecnológica
+
+> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2016)</small>
+
+###### Artículo 38 Bis.
+
+La Comisión podrá solicitar al Centro Nacional de Excelencia Tecnológica en Salud; su opinión técnica respecto de las solicitudes de actualización relacionadas con insumos que incidan en su ámbito de competencia.
+
+Para tal efecto, la Comisión remitirá al Centro Nacional de Excelencia Tecnológica en Salud, además de la información científica presentada por el solicitante, aquella que resulte relevante para el tema.
+
+El Centro Nacional de Excelencia Tecnológica en Salud, emitirá su opinión técnica por escrito, en un plazo no mayor a cuarenta días hábiles, contados a partir del día siguiente a la fecha en la que la Comisión haya solicitado dicha opinión técnica, sin que la misma tenga el carácter de vinculante.
+
 #### Sección III: Sobre el proceso de actualización de insumos
 
-> <small>(REFORMADO, D.O.F. 16 DE ENERO DE 2014)</small>
-
-#### Sección IV: Sobre la transparencia y rendición de cuentas
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 39.
 
-Los Comités emitirán su dictamen en un plazo máximo de 90 días naturales contados a partir de la fecha de recepción de la solicitud de actualización. Cuando los Comités requieran de información aclaratoria adicional a la presentada o realizar consultas técnicas para emitir su dictamen, el plazo mencionado podrá prorrogarse hasta por 30 días naturales, dicha prorroga, así como la determinación de requerir información adicional al solicitante, deberá fundarse y motivarse debidamente y será notificada por escrito.
+Los Comités emitirán su dictamen en un plazo máximo de 90 días hábiles contados a partir de la fecha de recepción de la solicitud de actualización. Cuando los Comités requieran de información aclaratoria adicional a la presentada o realizar consultas técnicas para emitir su dictamen, el plazo mencionado podrá prorrogarse hasta por 30 días hábiles, dicha prorroga, así como la determinación de requerir información adicional al solicitante, deberá fundarse y motivarse debidamente y será notificada por escrito.
 
 ###### Artículo 40.
 
-En el plazo estipulado en el artículo anterior, en sesión ordinaria, los Comités buscarán mediante proceso de consenso, la emisión del dictamen en forma unánime, considerando la evaluación que en su caso presenten los expertos. De no alcanzarse una decisión unánime, el dictamen se emitirá con las opiniones coincidentes de al menos la mitad más uno de los representantes institucionales. En caso de empate, el Secretario Técnico emitirá voto de calidad, de conformidad con los artículos 15, 16 fracción IV, y 22 fracción XVI del presente ordenamiento.
+(DEROGADO, D.O.F. 23 DE FEBRERO DE 2016)
 
 ###### Artículo 41.
 
 En el caso de solicitudes de inclusión en las que el insumo no se ajuste a los criterios establecidos en la Guía de Evaluación de Insumos para la Salud en cuanto su relación de costos y efectos en salud, éste no podrá ser incorporado al Cuadro Básico y Catálogo.
 
-El comité podrá realizar excepciones y emitir un dictamen favorable haciendo explícitos los motivos que lo fundamenten en alguno de los siguientes aspectos:
+> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 23 DE FEBRERO DE 2016)</small>
+
+No obstante lo anterior, el Comité que conozca de la solicitud de inclusión, podrá emitir un dictamen favorable, debidamente motivado haciendo explícitas las razones que lo fundamenten en alguno de los siguientes aspectos:
 
 I. La necesidad de los pacientes de la enfermedad a la que va dirigido el insumo;
 
 II. Los programas de salud de las instituciones;
 
-III. El impacto que el nuevo insumo tendrá en la organización de los servicios de salud de las instituciones; y
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2016)</small>
+
+III. El impacto que el nuevo insumo tendrá en la organización de los servicios de salud de las instituciones, y
 
 IV. El beneficio potencial a largo plazo que la incorporación del insumo puede presentar.
+
+> <small>(ADICIONADO, D.O.F. 23 DE FEBRERO DE 2016)</small>
+
+Tratándose de los casos de excepción previstos en las fracciones anteriores, el Comité que conozca de la solicitud de inclusión, instará al solicitante a recopilar mayor información sobre los efectos de mediano y largo plazo de los insumos para la salud, lo que deberá evaluarse por el propio Comité previamente al otorgamiento del dictamen favorable.
 
 ###### Artículo 42.
 
@@ -679,9 +811,11 @@ En los casos en que se dictamine no procedente la solicitud de actualización, s
 
 Los interesados podrán interponer el recurso de revisión, en contra del dictamen a que se refieren los artículos 39, 40, 41 y 42 de este Reglamento, cuyo escrito se presentará ante el Comité, el cual se sustanciará conforme a la Ley Federal de Procedimiento Administrativo.
 
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 43.
 
-En los casos en que el dictamen resulte procedente, se informará por escrito al solicitante y los Comités elaborarán la cédula descriptiva correspondiente, en un plazo no mayor a 15 días para medicamentos y hasta 45 días para el resto de los insumos. La descripción del insumo en la cédula deberá ser genérica, excepto en los casos de tecnologías únicas, para evitar prácticas monopólicas. La cédula descriptiva formará parte del proyecto de actualización.
+En los casos en que el dictamen resulte procedente, se informará por escrito al solicitante y los Comités elaborarán la cédula descriptiva correspondiente, en un plazo no mayor a 15 días hábiles para medicamentos y hasta 45 días hábiles para el resto de los insumos. La descripción del insumo en la cédula deberá ser genérica, excepto en los casos de tecnologías únicas, para evitar prácticas monopólicas. La cédula descriptiva formará parte del proyecto de actualización.
 
 ###### Artículo 44.
 
@@ -695,13 +829,17 @@ Las refacciones, accesorios y consumibles específicos para el funcionamiento de
 
 Cuando las instituciones públicas del Sistema Nacional de Salud tengan en operación instrumental o equipo médico que haya sido excluido por las razones expuestas en los artículos 32 y 34 de este Reglamento, podrán seguir adquiriendo refacciones, accesorios y consumibles, hasta que dicho insumo sea reemplazado, con excepción de que exista una notificación de Tecnovigilancia de la instancia correspondiente.
 
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 47.
 
-Los proyectos de actualización del Cuadro Básico y Catálogo se colocarán en la página de Internet del Consejo, a efecto de que los interesados puedan opinar por escrito y medio electrónico sobre su contenido dentro del plazo de diez días naturales. La Comisión dará respuesta a cada uno de los comentarios recibidos, informando los fundamentos técnicos que sirvieron de base a la respuesta.
+Los proyectos de actualización del Cuadro Básico y Catálogo se colocarán en la página de Internet del Consejo, a efecto de que los interesados puedan opinar por escrito y medio electrónico sobre su contenido dentro del plazo de diez días naturales. El Comité respectivo dará respuesta a cada uno de los comentarios recibidos, informando los fundamentos técnicos que sirvieron de base a la respuesta.
+
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 48.
 
-Tomando en consideración los resultados de la consulta los Comités elaborarán y aprobarán en quince días hábiles las cédulas que se integrarán a la actualización correspondiente.
+Tomando en consideración los resultados de la consulta, los Comités elaborarán y aprobarán en un plazo no mayor de quince días hábiles, las cédulas descriptivas de los insumos que se integrarán o se excluirán de la correspondiente actualización.
 
 ###### Artículo 49.
 
@@ -716,6 +854,8 @@ Cada institución se reservará el derecho de decidir respecto a la compra de lo
 ###### Artículo 51.
 
 Las actualizaciones del Cuadro Básico y Catálogo, aprobadas en las actas respectivas, surtirán sus efectos al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+#### Sección IV: Sobre la transparencia y rendición de cuentas
 
 ###### Artículo 52.
 
@@ -747,9 +887,11 @@ XI. En el caso de actualizaciones procedentes, fecha de publicación en el Diari
 
 (DEROGADO, D.O.F. 16 DE ENERO DE 2014)
 
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 54.
 
-Con el propósito de asegurar la confidencialidad de la información documental, los expertos, los miembros de los Comités, los invitados y los funcionarios y empleados al servicio de las dependencias gubernamentales que tengan acceso a ella deberán firmar un convenio de confidencialidad y abstenerse de revelar la información en términos de las disposiciones legales y reglamentarias vigentes.
+Con el propósito de asegurar la confidencialidad de la información documental, los expertos, los miembros de los Comités, los invitados y los funcionarios y empleados al servicio de las dependencias gubernamentales que tengan acceso a ella deberán firmar una carta de confidencialidad y abstenerse de revelar la información en términos de las disposiciones legales y reglamentarias vigentes.
 
 ###### Artículo 55.
 
@@ -757,7 +899,9 @@ Los expertos deberán firman (sic) una carta en formato expreso de no conflicto 
 
 I. Trabajador de la empresa en cualquier régimen de contrato.
 
-II. Parentesco, directo o indirecto, con algún trabajador de la empresa.
+> <small>(REFORMADA, D.O.F. 23 DE FEBRERO DE 2016)</small>
+
+II. Parentesco, directo o indirecto, con algún trabajador de la empresa, socio o dueño.
 
 III. Consultor o asesor.
 
@@ -765,11 +909,13 @@ IV. Si ha realizado estudios de investigación para el insumo en proceso de eval
 
 V. Fecha de inicio y término de la relación, si existen proyectos de colaboración a futuro.
 
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 56.
 
-De acuerdo con el artículo 9 fracción XXIII del Reglamento Interior del Consejo referente al Código de Etica, los expertos para el ejercicio de evaluación, aplicarán, con su mejor saber y entender sus conocimientos científicos y recursos técnicos en el proceso de actualización del Cuadro Básico y Catálogo, bajo un ámbito de honestidad, apego a la verdad, responsabilidad profesional y social, transparencia y ética en beneficio de la sociedad mexicana.
+De acuerdo con el artículo 9 fracción XXIII del Reglamento Interior del Consejo referente al Código de Ética, los expertos para el ejercicio de evaluación, aplicarán, con su mejor saber y entender sus conocimientos científicos y recursos técnicos en el proceso de actualización del Cuadro Básico y Catálogo, bajo un ámbito de honestidad, apego a la verdad, responsabilidad profesional y social, transparencia y ética en beneficio de la sociedad mexicana.
 
-En caso de comprobarse faltas al convenio de confidencialidad al que se refiere el artículo 54 de este Reglamento, o falsedad en las declaraciones de la carta referida en el artículo 55 se excluirá del proceso al responsable, se descartarán sus opiniones y evaluaciones y se hará pública la situación mediante la página de Internet del Consejo de Salubridad General.
+En caso de comprobarse faltas a la carta de confidencialidad a que se refiere el artículo 54 de este Reglamento, o falsedad en las declaraciones de la carta referida en el artículo 55 se excluirá del proceso al responsable, se descartarán sus opiniones y evaluaciones y se hará pública la situación mediante la página de Internet del Consejo de Salubridad General.
 
 ### CAPITULO VI (SIC). Difusión del Cuadro Básico y Catálogo
 
@@ -777,29 +923,29 @@ En caso de comprobarse faltas al convenio de confidencialidad al que se refiere 
 
 El Cuadro Básico y Catálogo se publicará en el primer bimestre de cada año en el Diario Oficial de la Federación, conteniendo la edición anterior y las actualizaciones publicadas en el Diario Oficial de la Federación en ese año.
 
+> <small>(REFORMADO, D.O.F. 23 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 58.
 
 La Comisión difundirá el Cuadro Básico y Catálogo en las dependencias e instituciones del Sistema Nacional de Salud, en instituciones educativas, y entre los profesionales de la salud a través de sociedades, asociaciones, colegios y academias, con el propósito de que los profesionales de la salud conozcan el marco que rige la utilización de insumos en las instituciones públicas.
 
-Esta publicación anual está conformada por 5 libros:
+Esta publicación anual está conformada por 6 libros:
 
-1. Cuadro Básico y Catálogo de Medicamentos
+1. Cuadro Básico y Catálogo de Medicamentos;
 
-2. Cuadro Básico y Catálogo de Material de Curación,
+2. Cuadro Básico y Catálogo de Material de Curación;
 
-- Tomo I Material de Curación
+3. Cuadro Básico y Catálogo de Auxiliares de Diagnóstico;
 
-- Tomo II Osterosíntesis y Endoprótesis
+4. Cuadro Básico y Catálogo de Instrumental y Equipo Médico:
 
-3. Cuadro Básico y Catálogo de Auxiliares de Diagnóstico y
+- Tomo I Instrumental Médico, y
 
-4. Cuadro Básico y Catálogo de Instrumental y Equipo Médico,
+- Tomo II Equipo Médico;
 
-- Tomo I Instrumental Médico
+5. Cuadro Básico y Catálogo Osteosíntesis y Endoprótesis, y
 
-- Tomo II Equipo Médico
-
-5. Cuadro Básico de remedios herbolarios, insumos para acupuntura y medicamentos homeopáticos
+6. Cuadro Básico de remedios herbolarios, insumos para acupuntura y medicamentos homeopáticos.
 
 Los libros contendrán las cédulas aprobadas por el Comité correspondiente y de acuerdo con el formato autorizado por la Comisión.
 
@@ -828,3 +974,13 @@ D.O.F. 16 DE ENERO DE 2013.
 PRIMERO. El presente Acuerdo entrará en vigor el día siguiente al de su publicación en el Diario Oficial de la Federación.
 
 SEGUNDO. Las solicitudes de actualización que se encuentren en trámite a la entrada en vigor del presente Acuerdo, se resolverán de conformidad con las disposiciones vigentes en la fecha de su presentación.
+
+D.O.F. 23 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DE LA COMISIÓN INTERINSTITUCIONAL DEL CUADRO BÁSICO Y CATÁLOGO DE INSUMOS DEL SECTOR SALUD”.]
+
+PRIMERO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+SEGUNDO.- Las solicitudes de actualización al Cuadró Básico y al Catálogo que se encuentren en trámite en la fecha de entrada en vigor del presente Acuerdo, se resolverán de conformidad con las disposiciones vigentes en la fecha de su presentación.
+
+TERCERO.- La Comisión emitirá los Lineamientos a que se refiere el artículo 27 Bis de este Acuerdo en un plazo no mayor a 15 días hábiles a partir del día su publicación en el Diario Oficial de la Federación.
