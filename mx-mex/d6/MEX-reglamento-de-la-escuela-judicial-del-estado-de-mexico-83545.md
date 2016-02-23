@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-de-la-escuela-judicial-del-estado-de-mexico-83545"
 country: "mx"
 rank: "reglamento"
 publication_date: "2011-10-31"
-last_updated: "2015-06-22"
+last_updated: "2016-02-23"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=83545&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DE LA ESCUELA JUDICIAL DEL ESTADO DE MÉXICO
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 22 DE JUNIO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 23 DE FEBRERO DE 2016.
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el lunes 31 de octubre de 2011.
 
@@ -137,15 +137,21 @@ I. La Dirección General;
 
 II. El Comité General Académico;
 
-III. La Dirección Académica y de la Carrera Judicial;
+> <small>(REFORMADA, G.G. 23 DE FEBRERO DE 2016)</small>
 
-IV. La Dirección de Posgrado;
+III. La Dirección Académica;
+
+> <small>(REFORMADA, G.G. 23 DE FEBRERO DE 2016)</small>
+
+IV. La Dirección de Educación Profesional;
 
 V. La Dirección del Centro de Investigaciones Judiciales;
 
 VI. La Dirección de Desarrollo Docente;
 
-VII. La Dirección de Difusión, Extensión y Vinculación;
+> <small>(REFORMADA, G.G. 23 DE FEBRERO DE 2016)</small>
+
+VII. La Dirección de Comunicación, Extensión y Vinculación;
 
 VIII. La Unidad de Apoyo Administrativo;
 
@@ -153,9 +159,19 @@ IX. (DEROGADA, G.G. 22 DE JUNIO DE 2015)
 
 X. Las Subdirecciones, Unidades, Departamentos necesarios para el buen funcionamiento de la Institución;
 
-XI. Las Coordinaciones Regionales; y
+> <small>(REFORMADA, G.G. 23 DE FEBRERO DE 2016)</small>
+
+XI. Las Coordinaciones Regionales;
 
 XII. El claustro académico y de investigadores.
+
+> <small>(ADICIONADA, G.G. 23 DE FEBRERO DE 2016)</small>
+
+XIII. La Dirección de Carrera Judicial; y
+
+> <small>(ADICIONADA, G.G. 23 DE FEBRERO DE 2016)</small>
+
+XIV. El Instituto de Promoción y Difusión de la Ética Judicial.
 
 #### SECCIÓN PRIMERA. DE LA DIRECCIÓN GENERAL
 
@@ -195,7 +211,9 @@ III. Concurrir cuantas veces sea citado ante el Consejo;
 
 IV. Coordinar los cursos y concursos de oposición relativos a la Carrera Judicial;
 
-V. Coordinar las reuniones del Comité General Académico. En caso de ausencia del Director, las sesiones serán atendidas por el Director Académico y de la Carrera Judicial;
+> <small>(REFORMADA, G.G. 23 DE FEBRERO DE 2016)</small>
+
+V. Coordinar las reuniones del Comité General Académico. En caso de ausencia del Director, las sesiones serán atendidas por el Director Académico;
 
 VI. Derivado del Plan Estratégico de Desarrollo Institucional, planear las actividades que integren el Programa Operativo Anual y presentarlas para su autorización ante el Consejo, debiendo vigilar mensualmente su cumplimiento e informar los avances y logros correspondientes;
 
@@ -211,7 +229,9 @@ X. Ejecutar con las Direcciones de Área de la Escuela las acciones y estrategia
 
 XI. Firmar los diplomas y certificados que emita la Escuela;
 
-XII. Firmar conjuntamente con el Director Académico y de la Carrera Judicial o de Posgrado, las constancias de estudio correspondientes;
+> <small>(REFORMADA, G.G. 23 DE FEBRERO DE 2016)</small>
+
+XII. Firmar conjuntamente con el Director Académico, de Carrera Judicial o de Educación Profesional, las constancias de estudio correspondientes;
 
 XIII. Presentar al Consejo propuestas de los candidatos para incorporarse a laborar en la Escuela, como investigadores docentes o para la ocupación de cargos administrativos;
 
@@ -227,9 +247,11 @@ XVIII. Establecer mecanismos que apoyen el fortalecimiento del Centro; y
 
 XIX. Las demás que le confiera el Consejo.
 
+> <small>(REFORMADO, G.G. 23 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 11.
 
-En caso de licencia temporal del Director General de la Escuela, menor de quince días, será suplido por el Director Académico y de la Carrera Judicial.
+En caso de licencia temporal del Director General de la Escuela, menor de quince días, será suplido por el Director Académico.
 
 ###### Artículo 12.
 
@@ -257,9 +279,13 @@ III. Poseer grado de:
 
 a. Doctor en Derecho para la Dirección del Centro;
 
-b. Maestro en Derecho o equivalente afín, para las Direcciones Académica y de la Carrera Judicial, la de Posgrado y la de Desarrollo Docente; y
+> <small>(REFORMADO, G.G. 23 DE FEBRERO DE 2016)</small>
 
-c. Licenciado en Derecho o equivalente afín, para la Dirección de Difusión, Extensión y Vinculación.
+b. Maestro en Derecho o equivalente afín, para las Direcciones Académica, de Carrera Judicial, de Educación Profesional y de Desarrollo Docente; y
+
+> <small>(REFORMADO, G.G. 23 DE FEBRERO DE 2016)</small>
+
+c. Licenciado en Derecho o equivalente afín, para la Dirección de Comunicación, Extensión y Vinculación.
 
 IV. Poseer méritos académicos y profesionales reconocidos;
 
@@ -267,11 +293,15 @@ V. Gozar de buena reputación y no haber sido condenado por delito que amerite p
 
 VI. No tener impedimento físico o enfermedad que lo imposibilite para el desempeño del cargo.
 
-#### SECCIÓN TERCERA. DE LA DIRECCIÓN ACADÉMICA Y DE LA CARRERA JUDICIAL
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 23 DE FEBRERO DE 2016)</small>
+
+#### SECCIÓN TERCERA. DE LAS DIRECCIONES ACADÉMICA Y DE CARRERA JUDICIAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 23 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 16.
 
-El Director Académico y de la Carrera Judicial tendrá las siguientes facultades y obligaciones:
+El Director Académico tendrá las siguientes facultades y obligaciones:
 
 I. Cumplir y hacer cumplir el Reglamento;
 
@@ -281,11 +311,15 @@ III. Instrumentar acciones orientadas a la evaluación de las actividades acadé
 
 IV. Fungir como Secretario Técnico del Comité General Académico;
 
-V. Proponer en coordinación con la Dirección de Desarrollo Docente al Director General de la Escuela, para su aprobación, la plantilla de catedráticos que impartirán los diferentes cursos de la Carrera Judicial y Educación Continua;
+> <small>(REFORMADA, G.G. 23 DE FEBRERO DE 2016)</small>
 
-VI. Organizar la celebración de los concursos de oposición;
+V. Proponer en coordinación con la Dirección de Desarrollo Docente al Director General de la Escuela, para su aprobación, la plantilla de catedráticos que impartirán los diferentes cursos de Educación Continua;
 
-VII. Coordinar la realización de los programas académicos de Carrera Judicial y Formación Continua de la Escuela;
+VI. (DEROGADA, G.G. 23 DE FEBRERO DE 2016)
+
+> <small>(REFORMADA, G.G. 23 DE FEBRERO DE 2016)</small>
+
+VII. Coordinar la realización de los programas académicos de Formación Continua de la Escuela;
 
 VIII. Derivar del Plan Estratégico de Desarrollo Institucional las acciones académicas y su calendarización, para integrarlas al Programa Operativo Anual de actividades que será presentado ante el Consejo;
 
@@ -297,25 +331,77 @@ XI. Establecer los mecanismos necesarios para el control de asistencia de los pa
 
 XII. Coordinar el trabajo de los Comités Especializados en el diseño de programas académicos y en la elaboración de instrumentos de evaluación para someterlos a consideración del Comité General Académico;
 
-XIII. Coordinar los exámenes de ratificación de jueces en los términos que disponga el Consejo;
+XIII. (DEROGADA, G.G. 23 DE FEBRERO DE 2016)
 
 XIV. Supervisar la integración y actualización de la documentación necesaria en los expedientes académicos de los alumnos;
 
-XV. Diseñar los exámenes parciales, finales, especiales, departamentales y de concurso de oposición, presentándolos en calidad de propuesta al Consejo para su aprobación definitiva;
+> <small>(REFORMADA, G.G. 23 DE FEBRERO DE 2016)</small>
 
-XVI. Coordinar la aplicación y evaluación de los exámenes de los cursos y concursos de Carrera Judicial y de los cursos de Formación Continua que se impartan en la Escuela;
+XV. Diseñar los exámenes parciales, finales, especiales y departamentales presentándolos en calidad de propuesta al Consejo para su aprobación definitiva;
 
-XVII. Mantener información actualizada sobre el ingreso, permanencia y egreso de los alumnos de la Escuela en los diferentes programas;
+> <small>(REFORMADA, G.G. 23 DE FEBRERO DE 2016)</small>
 
-XVIII. Coordinar el trabajo de las áreas que se encuentren bajo su responsabilidad; y
+XVI. Coordinar la aplicación y evaluación de los exámenes de los cursos de Formación Continua que se impartan en la Escuela;
 
-XIX. Las demás que le confiera el Consejo y el Director General.
+> <small>(REFORMADA, G.G. 23 DE FEBRERO DE 2016)</small>
 
-#### SECCION CUARTA. DE LA DIRECCIÓN DE POSGRADO
+XVII. Mantener información actualizada sobre el ingreso, permanencia y egreso de los alumnos de la Escuela en los diferentes programas de su competencia;
+
+> <small>(REFORMADA, G.G. 23 DE FEBRERO DE 2016)</small>
+
+XVIII. Coordinar el trabajo de las áreas que se encuentren bajo su responsabilidad;
+
+> <small>(REFORMADA, G.G. 23 DE FEBRERO DE 2016)</small>
+
+XIX. Ampliar y enriquecer el acervo bibliográfico del Centro de Información y Documentación de la Escuela, seleccionando obras relacionadas con las líneas y proyectos de investigación fijados por el Centro.
+
+XX. Las demás que le confiera el Consejo y el Director General.
+
+> <small>(ADICIONADO, G.G. 23 DE FEBRERO DE 2016)</small>
+
+###### Artículo 16 Bis.
+
+El Director de Carrera Judicial tendrá las siguientes facultades y obligaciones:
+
+I. Cumplir y hace cumplir el Reglamento;
+
+II. Proponer en coordinación con la Dirección de Desarrollo Docente al Director General de la Escuela, para su aprobación, la plantilla de catedráticos que impartirán los diferentes cursos de la Carrera Judicial;
+
+III. Organizar la celebración de los concursos de oposición;
+
+IV. Coordinar la realización de los programas académicos para los cursos de la Carrera Judicial;
+
+V. Establecer conjuntamente con las áreas correspondientes, los lineamientos necesarios para el desarrollo de sus funciones;
+
+VI. Derivar del Plan Estratégico de Desarrollo Institucional las acciones y su calendarización, para integrarlas al Programa Operativo Anual de actividades que será presentado ante el Consejo;
+
+VII. Firmar, conjuntamente con el Director General, las constancias correspondientes a su área de competencia;
+
+VIII. Establecer los mecanismos necesarios para el control de asistencia de los participantes a los cursos, concursos y demás actividades docentes del área de competencia;
+
+IX. Coordinar los exámenes de ratificación de jueces en los términos que disponga el Consejo;
+
+X. Supervisar la integración y actualización de la documentación necesaria en los expedientes académicos de los servidores judiciales que participen en curso o concurso de la carreja (sic) judicial;
+
+XI. Diseñar los exámenes de concurso de oposición, presentándolos en calidad de propuesta al Consejo para su aprobación definitiva;
+
+XII. Coordinar la aplicación y evaluación de los exámenes de los cursos y concursos de Carrera Judicial;
+
+XIII. Mantener información actualizada sobre el ingreso, permanencia y egreso en los cursos y concursos de la carrera judicial;
+
+XIV. Coordinar el trabajo de las áreas que se encuentren bajo su responsabilidad; y
+
+XV. Las demás que le confiera el Consejo y el Director General.
+
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 23 DE FEBRERO DE 2016)</small>
+
+#### SECCIÓN CUARTA. DE LA DIRECCIÓN DE EDUCACIÓN PROFESIONAL
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 23 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 17.
 
-El Director de Posgrado tendrá las siguientes facultades y obligaciones:
+El Director de Educación Profesional tendrá las siguientes facultades y obligaciones:
 
 I. Cumplir y hacer cumplir el Reglamento;
 
@@ -335,9 +421,15 @@ VIII. Establecer conjuntamente con las áreas correspondientes, los lineamientos
 
 IX. Gestionar y autorizar lo relativo a los exámenes de grado;
 
-X. Colaborar en la integración del informe anual de actividades; y
+> <small>(REFORMADA, G.G. 23 DE FEBRERO DE 2016)</small>
 
-XI. Las demás que le confieran el Consejo y el Director General.
+X. Colaborar en la integración del informe anual de actividades;
+
+> <small>(REFORMADA, G.G. 23 DE FEBRERO DE 2016)</small>
+
+XI. Proponer al Director General el programa anual de capacitación del personal administrativo; y
+
+XII. Las demás que le confieran el Consejo y el Director General.
 
 #### SECCIÓN QUINTA. DE LA DIRECCIÓN DEL CENTRO DE INVESTIGACIONES JUDICIALES
 
@@ -351,7 +443,7 @@ II. Proponer líneas y proyectos de investigación ante el Comité General Acad�
 
 III. Implementar mecanismos para el establecimiento y fortalecimiento del programa de investigación, procurando su integración a la docencia, la difusión y la extensión;
 
-IV. Ampliar y enriquecer el acervo bibliográfico del Centro de Información y Documentación de la Escuela, seleccionando obras relacionadas con las líneas y proyectos de investigación fijados por el Centro;
+IV. (DEROGADA, G.G. 23 DE FEBRERO DE 2016)
 
 V. Proponer al Director General de la Escuela, para su contratación, a los investigadores que sean necesarios para el desarrollo de las actividades del Centro, que cuenten con reconocido prestigio académico y vocación por la investigación;
 
@@ -413,11 +505,15 @@ XII. Colaborar en la integración del informe anual de actividades; y
 
 XIII. Las demás que le señalen el Consejo y el Director General.
 
-#### SECCIÓN SÉPTIMA. DE LA DIRECCIÓN DE DIFUSIÓN, EXTENSIÓN Y VINCULACIÓN
+> <small>(REFORMADA SU DENOMINACIÓN, G.G. 23 DE FEBRERO DE 2016)</small>
+
+#### SECCIÓN SÉPTIMA. DE LA DIRECCIÓN DE COMUNICACIÓN, EXTENSIÓN Y VINCULACIÓN
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 23 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 20.
 
-El Director de Difusión, Extensión y Vinculación tendrá las siguientes facultades y obligaciones:
+El Director de Comunicación, Extensión y Vinculación tendrá las siguientes facultades y obligaciones:
 
 I. Cumplir con el presente Reglamento;
 
@@ -545,13 +641,17 @@ X. Las demás que les señalen el Consejo, la Dirección General y las Direccion
 
 ### CAPÍTULO IV. DEL COMITÉ GENERAL ACADÉMICO
 
+> <small>(REFORMADO, G.G. 23 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 29.
 
-El Comité General Académico es un órgano de asesoría y apoyo técnico de la Escuela y se integrará por el Director General, el Director Académico y de la Carrera Judicial, el Director de Posgrado, el Director del Centro y cuatro personas más de reconocida experiencia profesional y académica.
+El Comité General Académico es un órgano de asesoría y apoyo técnico de la Escuela y se integrará por el Director General, el Director Académico, el Director de Carrera Judicial, el Director de Educación Profesional, el Director del Centro y cuatro personas más de reconocida experiencia profesional y académica.
+
+> <small>(REFORMADO, G.G. 23 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 30.
 
-La designación de los miembros del Comité General Académico compete al Pleno del Consejo, a excepción del Director General, el Director Académica (sic) y de la Carrera Judicial, el Director de Posgrado y el Director del Centro que lo serán de oficio en tanto ejerzan el cargo; las personas de reconocida experiencia profesional y académica, durarán en su cargo tres años, pudiendo prorrogarse su nombramiento por un período igual.
+La designación de los miembros del Comité General Académico compete al Pleno del Consejo, a excepción del Director General, el Director Académico, el Director de Carrera Judicial, el Director de Educación Profesional y el Director del Centro que lo serán de oficio en tanto ejerzan el cargo; las personas de reconocida experiencia profesional y académica, durarán en su cargo tres años, pudiendo prorrogarse su nombramiento por un período igual.
 
 ###### Artículo 31.
 
@@ -945,23 +1045,35 @@ Las calificaciones de las evaluaciones se expresarán en el sistema decimal en l
 
 En el caso de que el alumno no presente una evaluación por no cumplir con los requisitos de este Reglamento o del plan de estudios de que se trate se le anotará la inscripción S. D. que significa sin derecho; en caso de que no se presente por motivos diferentes, se anotará la inscripción N. P. que significa no presentado.
 
+> <small>(REFORMADO, G.G. 23 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 79.
 
-Cuando el alumno por una causa grave se encuentre impedido para asistir a cualquier evaluación, deberá notificarlo de inmediato a la Dirección de Posgrado de la Escuela y entregar por escrito la comprobación correspondiente a efecto de reprogramar su evaluación.
+Cuando el alumno por una causa grave se encuentre impedido para asistir a cualquier evaluación, deberá notificarlo de inmediato a la Dirección de Educación Profesional de la Escuela y entregar por escrito la comprobación correspondiente a efecto de reprogramar su evaluación.
+
+> <small>(REFORMADO, G.G. 23 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 80.
 
-Las evaluaciones se llevarán a cabo en las instalaciones de la Escuela o en espacios previamente autorizados por la Dirección de Posgrado.
+Las evaluaciones se llevarán a cabo en las instalaciones de la Escuela o en espacios previamente autorizados por la Dirección de Educación Profesional.
+
+> <small>(REFORMADO PRIMER PÁRRAFO, G.G. 23 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 81.
 
-En caso de inconformidad con el resultado de la evaluación final, el Director de Posgrado de la Escuela acordará su revisión, conforme al siguiente procedimiento:
+En caso de inconformidad con el resultado de la evaluación final, el Director de Educación Profesional de la Escuela acordará su revisión, conforme al siguiente procedimiento:
 
-I. El interesado dentro de los dos días hábiles siguientes a la publicación de cada calificación, podrá solicitar por escrito la revisión de la evaluación al Director de Posgrado de la Escuela, en todo caso, establecerá los argumentos que considere pertinentes;
+> <small>(REFORMADA, G.G. 23 DE FEBRERO DE 2016)</small>
 
-II. El Director de Posgrado de la Escuela solicitará al profesor de la asignatura un informe por escrito sobre la evaluación en controversia, para que en un plazo no mayor a tres días hábiles sea remitido a dicha Dirección;
+I. El interesado dentro de los dos días hábiles siguientes a la publicación de cada calificación, podrá solicitar por escrito la revisión de la evaluación al Director de Educación Profesional, en todo caso, establecerá los argumentos que considere pertinentes;
 
-III. El Director de Posgrado de la Escuela nombrará una comisión integrada por tres profesores adscritos a los estudios de Posgrado que conozcan de la asignatura, a los cuales se les entregará el informe al que hace mención la fracción anterior, para que en un plazo no mayor de cinco días hábiles a partir de su designación, emitan un dictamen en común correspondiente, previo estudio y análisis de los instrumentos de la evaluación; y
+> <small>(REFORMADA, G.G. 23 DE FEBRERO DE 2016)</small>
+
+II. El Director de Educación Profesional solicitará al profesor de la asignatura un informe por escrito sobre la evaluación en controversia, para que en un plazo no mayor a tres días hábiles sea remitido a dicha Dirección;
+
+> <small>(REFORMADA, G.G. 23 DE FEBRERO DE 2016)</small>
+
+III. El Director de Educación Profesional nombrará una comisión integrada por tres profesores adscritos a los estudios de Posgrado que conozcan de la asignatura, a los cuales se les entregará el informe al que hace mención la fracción anterior, para que en un plazo no mayor de cinco días hábiles a partir de su designación, emitan un dictamen en común correspondiente, previo estudio y análisis de los instrumentos de la evaluación; y
 
 IV. El dictamen emitido por la comisión es inimpugnable.
 
@@ -989,7 +1101,9 @@ Para obtener el grado de Maestro se requiere:
 
 I. Haber cubierto el plan de estudios respectivo; y
 
-II. La realización y defensa de la tesis de maestría correspondiente.
+> <small>(REFORMADA, G.G. 23 DE FEBRERO DE 2016)</small>
+
+II. La acreditación total del programa mediante alguna de las modalidades de titulación contempladas en el Reglamento Específico de Educación Profesional de la Escuela Judicial del Estado de México.
 
 ###### Artículo 84.
 
@@ -997,95 +1111,71 @@ Para obtener el grado de Doctor, se requiere:
 
 I. Haber cubierto el plan de estudios respectivo; y
 
-II. La realización y defensa de la tesis doctoral correspondiente.
+> <small>(REFORMADA, G.G. 23 DE FEBRERO DE 2016)</small>
+
+II. La acreditación total del programa mediante alguna de las modalidades de titulación contempladas en el Reglamento Específico de Educación Profesional de la Escuela Judicial del Estado de México.
 
 ### CAPÍTULO VI. DE LOS REQUISITOS DE TITULACIÓN
 
+> <small>(REFORMADO, G.G. 23 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 85.
 
-La obtención de grados académicos en la Escuela únicamente contempla la modalidad de tesis profesional, la que será expuesta ante un sínodo especialmente nombrado y estructurado para ello. En ningún caso se podrá programar un examen para la obtención de grados académicos antes de noventa días contados a partir de la fecha de la última evaluación del plan de estudios correspondiente.
+La obtención de títulos y grados académicos en la Escuela Judicial se regirá por lo previsto en el Reglamento Específico de Educación Judicial del Estado de México.
 
 ###### Artículo 86.
 
-La tesis de grado consiste en un trabajo desarrollado con rigor metodológico que contribuya a la generación de nuevos conocimientos o bien, amplíe, perfeccione o aplique el conocimiento existente en un área del programa académico que se cursó
+(DEROGADO, G.G. 23 DE FEBRERO DE 2016)
 
 ###### Artículo 87.
 
-Las tesis y los trabajos terminales de Especialidad, Maestría y Doctorado serán originales; en todo momento libres de plagio académico, absteniéndose los egresados de usurpar la calidad de autor.
+(DEROGADO, G.G. 23 DE FEBRERO DE 2016)
 
-Se considerará plagio académico, la copia fiel de nociones, categorías, argumentaciones, métodos y técnicas de investigación elaboradas y publicadas por autores precedentes sin que el firmante del texto u obra sujetos a evaluación acredite debidamente las aportaciones intelectuales de aquellos autores. La acreditación de la obra intelectual precedente se realizará de conformidad con las normas de Citación estandarizadas para cada disciplina.
-
-Se considerará usurpación de la calidad de autor, la copia total de textos u obras publicadas que el alumno o egresado firmante hace pasar como suyas.
-
-El plagio académico y la usurpación de la calidad de autor en las tesis y los trabajos terminales de grado se sancionarán con la cancelación de los estudios.
-
-El plagio académico y la usurpación de la calidad de autor en los ensayos motivos de evaluación de una materia se sancionará con la calificación de cero puntos.
-
-El alumno deberá entregar sus trabajos y avances con su firma hológrafa, indicando que el trabajo es de su autoría y que no es producto del plagio académico y que no usurpa la calidad de autor.
+> <small>(REFORMADO, G.G. 23 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 88.
 
-La tesis de grado deberá ser dirigida por un tutor académico nombrado por la Dirección de Posgrado. El tutor académico podrá ser propuesto por el solicitante, pero en todo caso deberá ser aprobado por la propia Dirección de Posgrado.
+La tesis de grado deberá ser dirigida por un tutor académico nombrado por la Dirección de Educación Profesional. El tutor académico podrá ser propuesto por el solicitante, pero en todo caso deberá ser aprobado por la propia Dirección de Educación Profesional.
 
 ###### Artículo 89.
 
-El trabajo de investigación escrito presentado por el sustentante será enviado para su revisión a dos profesores en el caso de la Maestría y por tres en el caso del Doctorado, que conozcan de la materia, que cuenten con el reconocimiento profesional de la comunidad académica y con grado académico igual o mayor al que se pretende. La revisión consistirá en determinar deficiencias de forma o de fondo del trabajo escrito a fin de que sean subsanadas por el sustentante y no para descalificar la investigación.
+(DEROGADO, G.G. 23 DE FEBRERO DE 2016)
 
 ###### Artículo 90.
 
-La evaluación de grado será individual y comprenderá la realización de un trabajo escrito, así como la sustentación del mismo ante un sínodo conformado por cinco profesores con el grado académico no menor que corresponda a la sustentación.
+(DEROGADO, G.G. 23 DE FEBRERO DE 2016)
 
 ###### Artículo 91.
 
-El jurado para la sustentación del trabajo de investigación que presenten los egresados de estudios de Maestría o Doctorado según sea el caso, tendentes a la obtención del grado académico correspondiente, se integrará por cinco miembros propietarios y dos suplentes. La presidencia del jurado será ocupada por el académico de mayor antigüedad, y la secretaría por el de menor. Cuando algún Consejero de la Judicatura o el Director General de la Escuela formen parte del jurado ocuparán la presidencia; pero en todo caso, deberán poseer un grado igual o superior al que se otorgue en la evaluación correspondiente.
+(DEROGADO, G.G. 23 DE FEBRERO DE 2016)
 
 ###### Artículo 92.
 
-Los miembros de sínodo, para emitir su veredicto, tomarán en cuenta la calidad de la evaluación de grado presentada, el nivel de la sustentación de ésta y los antecedentes académicos del sustentante. El resultado de la evaluación de grado podrá ser:
-
-I. Aprobado con mención honorífica;
-
-II. Aprobado por unanimidad de votos;
-
-III. Aprobado por mayoría de votos; o
-
-IV. Aplazado.
+(DEROGADO, G.G. 23 DE FEBRERO DE 2016)
 
 ###### Artículo 93.
 
-La sustentación de la tesis no podrá dar principio sino con la presencia de los cinco miembros del jurado. Este número está formado por los propietarios si hubieren concurrido en su totalidad o por los propietarios y suplentes en caso de que se hubiere sustituido algún propietario ausente. La sustentación de la tesis será pública. Al iniciarse, el sustentante de manera potestativa hará una breve exposición de su trabajo y posteriormente cada miembro del jurado formulará las preguntas que considere pertinentes. La exposición del sustentante y la réplica de cada integrante del jurado, tendrá una duración de diez minutos como mínimo y veinte como máximo. Ningún miembro del jurado podrá abstenerse de replicar, ni retirarse de la sustentación antes de su terminación.
+(DEROGADO, G.G. 23 DE FEBRERO DE 2016)
 
 ###### Artículo 94.
 
-Sólo podrá otorgarse mención honorífica cuando se cumplan los siguientes requisitos:
-
-I. El alumno haya obtenido un promedio general no menor de nueve punto cinco en los estudios de Maestría o Doctorado;
-
-II. El alumno no haya obtenido calificaciones reprobatorias o anotaciones de no presentado, durante los estudios correspondientes;
-
-III. La tesis o trabajo terminal de grado presentados contribuyan de manera substancial al avance del conocimiento de la disciplina o área de conocimiento;
-
-IV. La sustentación de la tesis o trabajo terminal de grado hay tenido un nivel excepcional;
-
-V. La evaluación de grado se presente dentro del año siguiente a la terminación de los estudios de Doctorado y de Maestría; y
-
-VI. La votación para su otorgamiento sea unánime.
+(DEROGADO, G.G. 23 DE FEBRERO DE 2016)
 
 ###### Artículo 95.
 
-En el supuesto de que el alumno haya presentado un trabajo de tesis sumamente relevante e innovador, así como una réplica y dúplica destacada, y que no se encuentre dentro de la hipótesis prevista para merecer una mención honorífica, los integrantes del sínodo por unanimidad podrán otorgar por escrito una felicitación especial al sustentante.
+(DEROGADO, G.G. 23 DE FEBRERO DE 2016)
 
 ###### Artículo 96.
 
-Pronunciado el veredicto aprobatorio por el jurado se procederá a la protesta del nuevo maestro o doctor, invistiéndole solemnemente, en el mismo acto, del grado correspondiente, mediante la declaración por parte del presidente del jurado y la imposición de la toga que corresponda según el grado.
+(DEROGADO, G.G. 23 DE FEBRERO DE 2016)
 
 ###### Artículo 97.
 
-De la evaluación de grado se levantará acta por triplicado por el secretario del jurado, debiéndose firmar a su término por todos los miembros de mismo y por el sustentante. De dicha acta se entregará un ejemplar al sustentante, otro quedará en el archivo de la Escuela y el tercero se enviará a la autoridad educativa competente.
+(DEROGADO, G.G. 23 DE FEBRERO DE 2016)
 
 ###### Artículo 98.
 
-El sustentante que resulte aplazado en la evaluación de grado podrá presentarla de nueva cuenta, habiendo realizado los cambios y correcciones recomendadas por el sínodo. Si es aplazado por segunda ocasión, deberá cursar íntegramente los estudios de Maestría o Doctorado.
+(DEROGADO, G.G. 23 DE FEBRERO DE 2016)
 
 ## TÍTULO CUARTO. DE LOS PLANES DE ESTUDIO Y PROGRAMAS DE ASIGNATURA
 
@@ -1171,23 +1261,25 @@ Los objetivos generales de cada plan de estudios describirán, en forma global, 
 
 Los objetivos generales de asignatura expresarán los conocimientos y habilidades que se pretende adquieran los alumnos en cada curso.
 
+> <small>(REFORMADO, G.G. 23 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 104.
 
-El plan de estudios adoptará el sistema de créditos. Para los efectos de los estudios de posgrado, crédito es la unidad de valor correspondiente al trabajo académico que el alumno debe realizar en una hora a la semana durante el semestre lectivo. Cada semestre tendrá un mínimo de dieciséis semanas efectivas de clase. Los créditos se expresarán siempre en números enteros y se computarán en la siguiente forma:
+El plan de estudios adoptará el sistema de créditos. Para los efectos de los estudios de educación profesional se considerarán los criterios emitidos por la autoridad correspondiente en los Acuerdos Específicos de Reconocimiento de Validez Oficial de Estudios (R.V.O.E.), considerando por cada hora de aprendizaje efectivo del alumno, ya sea bajo la conducción de un académico o de manera independiente 0.0625 créditos. Cada semestre tendrá un mínimo de catorce semanas efectivas de clase para programas cuatrimestrales y de veinte semanas efectivas de clase para programas semestrales.
 
-I. En clase teórica o teórica-práctica, seminarios u otras actividades que impliquen estudio o trabajo adicional del alumno, una hora de clase semana-semestre corresponde a dos créditos; y
-
-II. En la clase práctica, de laboratorio o de taller, en trabajos de investigación y actividades que no impliquen estudio o trabajo adicional del alumno, una hora semana-semestre corresponde a un crédito.
+> <small>(REFORMADO, G.G. 23 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 105.
 
-Los planes de estudio tendrán, adicionalmente, cuando menos los siguientes valores:
+Los planes de estudio tendrán, conforme a lo establecido por la autoridad educativa, como mínimo los siguientes valores:
 
-I. Especialización: 45 créditos;
+I. Especialización: 45 créditos y 180 horas con docente;
 
-II. Maestría: 90 créditos, de los cuáles podrán corresponder a la tesis de grado hasta el treinta por ciento; y
+II. Maestría: 75 créditos y 300 horas con docente; y
 
-III. Doctorado: 150 créditos, de los cuales podrán corresponder a la tesis de grado hasta el cuarenta por ciento.
+III. Doctorado: 150 créditos y 600 horas con docente.
+
+Las tesis o trabajos de titulación u obtención de grado y los seminarios de titulación no tendrán ningún valor en créditos, para efectos de la autoridad educativa, pero si para la conclusión de los estudios.
 
 ###### Artículo 106.
 
@@ -1271,9 +1363,11 @@ Para permanecer en un curso de formación, el alumno deberá cubrir un mínimo d
 
 El Consejo podrá, conforme a la modalidad de los cursos, otorgar becas para alumnos externos de acuerdo a los requisitos que para cada caso se determine.
 
+> <small>(REFORMADO, G.G. 23 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 116.
 
-En ningún caso se concederán evaluaciones extraordinarias o a título de suficiencia. La Dirección Académica y de la Carrera Judicial o la Dirección de Posgrado, según corresponda, podrá establecer evaluaciones extemporáneas, cuando por caso fortuito o fuerza mayor, debidamente justificadas, un alumno no pueda asistir a los exámenes a que tenga derecho. En los casos en los que así se determine en el programa de estudio se podrán realizar exámenes especiales con las características y la modalidad señalada en el propio programa.
+En ningún caso se concederán evaluaciones extraordinarias o a título de suficiencia. La Dirección Académica, de Carrera Judicial o de Educación Profesional, según corresponda, podrá establecer evaluaciones extemporáneas, cuando por caso fortuito o fuerza mayor, debidamente justificadas, un alumno no pueda asistir a los exámenes a que tenga derecho. En los casos en los que así se determine en el programa de estudio se podrán realizar exámenes especiales con las características y la modalidad señalada en el propio programa.
 
 ### CAPÍTULO II. DEL PERSONAL ACADÉMICO
 
@@ -1329,7 +1423,9 @@ III. Cumplir con su programa de trabajo, conforme a la calendarización establec
 
 IV. Presentar al Comité General Académico, con toda oportunidad, las propuestas de modificación o mejora a las actividades que desarrolla;
 
-V. Asistir a las reuniones convocadas por los Directores Académico y de la Carrera Judicial, de Posgrado, de Desarrollo Docente y del Centro;
+> <small>(REFORMADA, G.G. 23 DE FEBRERO DE 2016)</small>
+
+V. Asistir a las reuniones convocadas por los Directores Académico, de Carrera Judicial, de Educación Profesional, de Desarrollo Docente y del Centro;
 
 VI. Presentar los reportes sobre el avance de su trabajo, con la periodicidad que les sea requerida; y
 
@@ -1529,7 +1625,9 @@ En todos los casos, los exámenes deberán presentarse el día y hora señalados
 
 Únicamente se concederán evaluaciones especiales en circunstancias de caso fortuito o fuerza mayor debidamente justificadas, o cuando así se señale expresamente en el plan de estudios correspondiente.
 
-La Dirección General, a través de la Dirección Académica y de la Carrera Judicial, podrá instrumentar mecanismos alternos de evaluación, previa justificación académica y, siempre y cuando, se cuente con la aprobación expresa del Consejo.
+> <small>(REFORMADO, G.G. 23 DE FEBRERO DE 2016)</small>
+
+La Dirección General, a través de la Dirección de Carrera Judicial, podrá instrumentar mecanismos alternos de evaluación, previa justificación académica y, siempre y cuando, se cuente con la aprobación expresa del Consejo.
 
 ### CAPÍTULO III. DE LOS CONCURSOS DE OPOSICIÓN
 
@@ -1593,7 +1691,9 @@ VIII. En su caso, la constancia expedida por la Escuela de haber aprobado el cur
 
 IX. Aquellos instrumentos que a juicio del Consejo sean solicitados; y
 
-X. En su caso, presentar el comprobante correspondiente emitido por la Dirección Académica y de la Carrera Judicial que acredite la existencia de alguno de los requisitos que se mencionan dentro de las fracciones I al IX de este artículo.
+> <small>(REFORMADA, G.G. 23 DE FEBRERO DE 2016)</small>
+
+X. En su caso, presentar el comprobante correspondiente emitido por la Dirección de Carrera Judicial que acredite la existencia de alguno de los requisitos que se mencionan dentro de las fracciones I al IX de este artículo.
 
 ### CAPÍTULO IV. DE LOS EXÁMENES DE OPOSICIÓN
 
@@ -1896,3 +1996,13 @@ PRIMERO. Publíquese este acuerdo en la Gaceta del Gobierno, el Boletín Judicia
 SEGUNDO. Este acuerdo entrará en vigor al día siguiente de su publicación en la "Gaceta del Gobierno".
 
 TERCERO. Se derogan las disposiciones que (sic) de igual o menor jerarquía que se opongan a este acuerdo.
+
+G.G. 23 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO DEL PLENO DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE MÉXICO, DE FECHA DIECISIETE DE FEBRERO DE DOS MIL DIECISÉIS, QUE APRUEBA DIVERSAS REFORMAS AL REGLAMENTO DE LA ESCUELA JUDICIAL DEL ESTADO DE MÉXICO”.]
+
+PRIMERO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO.- Publíquese este acuerdo en el Periódico Oficial "Gaceta del Gobierno" y en el Boletín Judicial.
+
+TERCERO.- Se derogan las disposiciones que de igual o menor jerarquía que se opongan a este acuerdo.
