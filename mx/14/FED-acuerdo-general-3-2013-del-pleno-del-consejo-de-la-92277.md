@@ -4,7 +4,7 @@ identifier: "FED-acuerdo-general-3-2013-del-pleno-del-consejo-de-la-92277"
 country: "mx"
 rank: "acuerdo"
 publication_date: "2013-02-15"
-last_updated: "2016-02-08"
+last_updated: "2016-02-23"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=92277&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2013-02-07"
 
 ACUERDO GENERAL 3/2013, DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA DETERMINACIÓN DEL NÚMERO Y LÍMITES TERRITORIALES DE LOS CIRCUITOS JUDICIALES EN QUE SE DIVIDE LA REPÚBLICA MEXICANA; Y AL NÚMERO, A LA JURISDICCIÓN TERRITORIAL Y ESPECIALIZACIÓN POR MATERIA DE LOS TRIBUNALES DE CIRCUITO Y DE LOS JUZGADOS DE DISTRITO
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 8 DE FEBRERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 23 DE FEBRERO DE 2016.
 
 Acuerdo publicado en la Segunda Sección del Diario Oficial de la Federación, el viernes 15 de febrero de 2013.
 
@@ -331,9 +331,9 @@ XVII. DECIMOSEPTIMO CIRCUITO:
 
 XVIII. DECIMOCTAVO CIRCUITO:
 
-> <small>(REFORMADO POR EL PUNTO SÉPTIMO DEL ACUERDO GENERAL 15/2013 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 15 DE MAYO DE 2013)</small>
+> <small>(REFORMADO POR EL TRANSITORIO SEXTO DEL ACUERDO GENERAL 1/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 23 DE FEBRERO DE 2016)</small>
 
-1. Cinco tribunales colegiados con residencia en Cuernavaca.
+1. Cinco tribunales colegiados especializados: dos en materia de trabajo, dos en materias penal y administrativa y uno en materia civil, todos con residencia en Cuernavaca, Morelos.
 
 > <small>(REFORMADO POR EL TRANSITORIO SEXTO DEL ACUERDO GENERAL 2/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, D.O.F. 8 DE FEBRERO DE 2016)</small>
 
@@ -2224,3 +2224,29 @@ c) Juzgado Tercero de Distrito del Centro Auxiliar de la Primera Región, con re
 d) Juzgado Sexto de Distrito del Centro Auxiliar de la Primera Región, con residencia en Cuernavaca, Morelos.
 
 CUARTO. OFICINA DE CORRESPONDENCIA COMÚN. El Centro Auxiliar de la Primera Región cuenta con las Oficinas de Correspondencia Común siguientes: Oficina de Correspondencia Común del Centro Auxiliar de la Primera Región, con residencia en el Distrito Federal; y Oficina de Correspondencia Común del Centro Auxiliar de la Primera Región, con residencia en Naucalpan de Juárez, Estado de México; éstas se integrarán con las plazas que fije la Dirección General de Estadística Judicial."
+
+D.O.F. 23 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO GENERAL 1/2016 DEL PLENO DEL CONSEJO DE LA JUDICATURA FEDERAL, RELATIVO A LA SEMIESPECIALIZACIÓN Y CAMBIO DE DENOMINACIÓN DE LOS TRIBUNALES COLEGIADOS DEL DECIMOCTAVO CIRCUITO CON SEDE EN CUERNAVACA, MORELOS; A LAS REGLAS DE TURNO, SISTEMA DE RECEPCIÓN Y DISTRIBUCIÓN DE ASUNTOS ENTRE LOS MENCIONADOS ÓRGANOS COLEGIADOS, ASÍ COMO AL CAMBIO DE DENOMINACIÓN DE LA ACTUAL OFICINA DE CORRESPONDENCIA COMÚN DE LOS TRIBUNALES COLEGIADOS REFERIDOS Y A LA CREACIÓN DE LA OFICINA DE CORRESPONDENCIA COMÚN DE LOS TRIBUNALES COLEGIADOS EN MATERIA DE TRABAJO DEL CITADO CIRCUITO".]
+
+PRIMERO. El presente Acuerdo entrará en vigor el día de su aprobación.
+
+SEGUNDO. Publíquese este Acuerdo en el Diario Oficial de la Federación y para su mayor difusión en el Semanario Judicial de la Federación y su Gaceta, así como en el portal de internet del Consejo de la Judicatura Federal.
+
+TERCERO. Dese vista a la Comisión de Adscripción para efecto de la integración de los órganos colegiados conforme a las materias de la semiespecialización y especialización que se ordena.
+
+CUARTO. La Coordinación de Administración Regional del Consejo de la Judicatura Federal, deberá proveer a los tribunales colegiados que cambian de denominación y competencia, a los nuevos Plenos de Circuito Especializados, así como a las oficinas de correspondencia común, de los espacios, de los recursos materiales necesarios (entre otros, letreros de identificación, actualización de placas de directorios de edificios, sellos oficiales, papelería), conforme a su nueva denominación, para que a la brevedad posible cuenten con ellos.
+
+QUINTO. A partir del uno de marzo de dos mil dieciséis, se establecen dos Plenos Especializados del Decimoctavo Circuito: uno en Materia de Trabajo y otro en Materia Penal y Administrativa, los cuales funcionarán de marzo a diciembre de la referida anualidad. Lo anterior, en términos de lo previsto en el Acuerdo General 8/2015 del Pleno del Consejo de la Judicatura Federal, relativo a la integración y funcionamiento de los Plenos de Circuito.
+
+SEXTO. Se modifica el numeral SEGUNDO, apartado XVIII. DECIMOCTAVO CIRCUITO, número 1, del Acuerdo General 3/2013, del Pleno del Consejo de la Judicatura Federal, relativo a la determinación del número y límites territoriales de los Circuitos Judiciales en que se divide la República Mexicana; y al número, a la jurisdicción territorial y especialización por Materia de los Tribunales de Circuito y de los Juzgados de Distrito, para quedar como sigue:
+
+“SEGUNDO. …
+
+XVIII.- DECIMOCTAVO CIRCUITO:
+
+1. Cinco tribunales colegiados especializados: dos en materia de trabajo, dos en materias penal y administrativa y uno en materia civil, todos con residencia en Cuernavaca, Morelos.
+
+2. …
+
+3. …”.
