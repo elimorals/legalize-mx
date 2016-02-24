@@ -4,7 +4,7 @@ identifier: "CHH-ley-de-bienestar-animal-para-el-estado-de-chihuahua-77485"
 country: "mx"
 rank: "ley"
 publication_date: "2010-11-17"
-last_updated: "2014-10-25"
+last_updated: "2016-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=77485&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "CHH"
 
 LEY DE BIENESTAR ANIMAL PARA EL ESTADO DE CHIHUAHUA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 25 DE OCTUBRE DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2016.
 
 Ley publicada en el Folleto Anexo al Periódico Oficial del Estado de Chihuahua, el miércoles 17 de noviembre de 2010
 
@@ -153,9 +153,11 @@ Además podrán fungir como organismos auxiliares de las autoridades mencionadas
 
 Los centros de control animal, autoridades sanitarias, instituciones de educación superior e investigación en el ramo, médicos veterinarios, y organizaciones de la sociedad civil relacionadas con la materia, autorizadas por la Secretaría.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2016)</small>
+
 ###### ARTÍCULO 5.
 
-La Secretaría de Educación y Cultura, de conformidad con lo establecido en la Ley Estatal de Educación, promoverá una cultura de respeto a los animales.
+La Secretaría de Educación, Cultura y Deporte, de conformidad con lo establecido en la Ley Estatal de Educación, promoverá una cultura de respeto a los animales.
 
 ###### ARTÍCULO 6.
 
@@ -889,9 +891,11 @@ El denunciante podrá coadyuvar con la Secretaría, aportándole las pruebas, do
 
 La Secretaría podrá solicitar a las instituciones académicas, centros de investigación y organismos del sector público, social o privado, la elaboración de estudios, dictámenes o peritajes sobre cuestiones planteadas en las denuncias que sean presentadas.
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2016)</small>
+
 ###### ARTÍCULO 84.
 
-Cuando una denuncia popular no implique violaciones a la normatividad animal, ni afecte cuestiones de orden público e interés social, la Secretaría podrá sujetar la misma a un procedimiento de conciliación, para lo cual remitirá el expediente al Departamento de Concertación Social de la Procuraduría General de Justicia del Estado.
+Cuando una denuncia popular no implique violaciones a la normatividad animal, ni afecte cuestiones de orden púb ico (sic) e interés social, la Secretaría podrá sujetar la misma a un procedimiento de conciliación, para lo cual remitirá el expediente al Centro de Justicia Alternativa de la Fiscalía General del Estado.
 
 ###### ARTÍCULO 85.
 
@@ -1034,3 +1038,11 @@ P.O. 25 DE OCTUBRE DE 2014.
 ###### ARTÍCULO ÚNICO.
 
 El presente Decreto entrará en vigor el 1° de enero de 2015, previa su publicación en el Periódico Oficial del Estado.
+
+P.O. 24 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “DECRETO NO. 1021/2015 I P.O. MEDIANTE EL CUAL SE REFORMAN LOS ARTÍCULOS 5 Y 84 DE LA LEY DE BIENESTAR ANIMAL PARA EL ESTADO DE CHIHUAHUA”.]
+
+###### ARTÍCULO ÚNICO.
+
+El presente Decreto entrará en vigor al día siguiente de su publicación (sic) el Periódico Oficial del Estado.
