@@ -4,7 +4,7 @@ identifier: "FED-estatuto-organico-del-consejo-nacional-de-ciencia-y-75233"
 country: "mx"
 rank: "estatuto"
 publication_date: "2010-06-10"
-last_updated: "2016-01-21"
+last_updated: "2016-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=75233&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -21,7 +21,7 @@ issue_date: "2010-05-13"
 
 ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGÍA
 
-ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 21 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN: 24 DE FEBRERO DE 2016.
 
 Estatuto publicado en la Primera Sección del Diario Oficial de la Federación, el jueves 10 de junio de 2010.
 
@@ -307,9 +307,7 @@ m) Aprobar y remitir a la SHCP las solicitudes para conceder subsidios, ministra
 
 n) Someter a consideración de la SHCP las modificaciones necesarias a su sistema de contabilidad, así como al de los sistemas de control de sus entidades coordinadas.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-o) (DEROGADO, D.O.F. 21 DE ENERO DE 2016)
+o) (DEROGADO [N. DE E. REPUBLICADO], D.O.F. 24 DE FEBRERO DE 2016)
 
 IV. Atribuciones en cuanto al proceso de información:
 
@@ -787,15 +785,11 @@ XIII. Las demás funciones que se establezcan en la LCYT, la LOCNCYT, la LBOGM, 
 
 El CONACYT de conformidad con lo dispuesto por la LCYT, otorgará los apoyos necesarios para garantizar el adecuado funcionamiento del Foro.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADA SU DENOMINACIÓN, D.O.F. 24 DE FEBRERO DE 2016)</small>
 
 ### CAPITULO SEPTIMO. Unidades Administrativas adscritas a la Dirección General
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 24 DE FEBERO DE 2016)</small>
 
 ###### Artículo 25.
 
@@ -829,9 +823,7 @@ V. Formular los proyectos de programas y de presupuesto que les correspondan.
 
 Ejercer el presupuesto y administrar los recursos bajo su responsabilidad, supervisando el desarrollo de los programas, proyectos, convenios, contratos y acuerdos que se relacionen con los asuntos de su competencia.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(ADICIONADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], D.O.F. 24 DE FEBRERO DE 2016)</small>
 
 V Bis. Coadyuvar en la definición de los ordenamientos internos necesarios para operación, seguimiento y evaluación de los programas y proyectos en el ámbito de su competencia, a través de su titular o mediante la delegación de funciones al personal de su área de adscripción.
 
@@ -865,9 +857,7 @@ XI. Establecer, desarrollar y ejecutar las acciones necesarias para la descentra
 
 XII. Participar en el ámbito de su competencia en la creación y operación de los fondos establecidos en la LCYT.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(ADICIONADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], D.O.F. 24 DE FEBRERO DE 2016)</small>
 
 XII Bis. Instrumentar la planeación, constitución, operación, control, seguimiento administrativo y técnico, y evaluación, de los fondos bajo la responsabilidad del CONACYT conforme a la LCYT; así como de los Programas presupuestales a su cargo o en los que participe conforme las facultades que en cada uno de ellos se le otorgue.
 
@@ -895,9 +885,7 @@ XVI. En el ámbito de sus respectivas competencias, promover y fortalecer el Sis
 
 XVII. Las demás que establezcan las disposiciones legales y administrativas aplicables, el presente Estatuto y las que le sean encomendadas por el Director General en el ámbito de su competencia.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 26.
 
@@ -915,7 +903,9 @@ V. Procurar la atención de las demandas específicas de las dependencias y enti
 
 VI. Diseñar, evaluar y dar seguimiento a los programas destinados a la difusión y divulgación del conocimiento, mediante la promoción de publicaciones científicas mexicanas, el acceso a bancos de datos especializados, apoyo a eventos científicos de difusión y divulgación, y demás que resulten adecuados para el desarrollo de las actividades científicas.
 
-VII. Coadyuvar en la difusión y promoción de la cultura científica y de innovación. Estimular la articulación transversal de las demandas de los fondos sectoriales hacia la solución de problemas nacionales, en colaboración con las otras Unidades Administrativas.
+VII. Coadyuvar en la difusión y promoción de la cultura científica y de innovación.
+
+Estimular la articulación transversal de las demandas de los fondos sectoriales hacia la solución de problemas nacionales, en colaboración con las otras Unidades Administrativas.
 
 VIII. Asegurar el cumplimiento de las condiciones establecidas en las convocatorias, convenios y programas de su competencia.
 
@@ -957,9 +947,7 @@ XXII. Instrumentar la planeación, constitución, operación, control, seguimien
 
 XXIII. Solicitar los requerimientos en materia de adquisición de bienes, arrendamientos, prestación de servicios de los capítulos de gasto 2000, 3000, 5000 a la Dirección de Recursos Materiales y Servicios Generales, para llevar a cabo los procedimientos respectivos de acuerdo a lo establecido en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y demás normatividad vigente.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 27.
 
@@ -1013,9 +1001,7 @@ XXIII. Instrumentar la planeación, constitución, operación, control, seguimie
 
 XXIV. Solicitar los requerimientos en materia de adquisición de bienes, arrendamientos, prestación de servicios de los capítulos de gasto 2000, 3000, 5000 a la Dirección de Recursos Materiales y Servicios Generales, para llevar a cabo los procedimientos respectivos de acuerdo a lo establecido en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y demás normatividad vigente.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 28.
 
@@ -1085,9 +1071,7 @@ XXIV. Solicitar los requerimientos en materia de adquisición de bienes, arrenda
 
 Corresponde a la Dirección Adjunta de Centros de Investigación:
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADO PRIMER PÁRRAFO, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADO PRIMER PÁRRAFO [N. DE E. REPUBLICADO], D.O.F. 24 DE FEBRERO DE 2016)</small>
 
 I. Coordinar y apoyar en la ejecución de la política científica, tecnológica y de innovación, en su calidad de coordinadora sectorial de los Centros Públicos de Investigación CONACYT, de conformidad con lo establecido en la LCYT, el PECITI y demás disposiciones legales y administrativas aplicables.
 
@@ -1095,15 +1079,13 @@ Coordinar las actividades de las entidades paraestatales bajo su coordinación s
 
 Coordinar y evaluar a los Centros Públicos de Investigación CONACYT, a fin de promover, fortalecer y optimizar su actividad científica, tecnológica, de innovación y de formación de capital humano de alto nivel, apoyar su contribución e impacto en la solución de problemas asociados a los sectores social, público y privado; así como impulsar el desarrollo y la implantación de las mejores prácticas organizacionales.
 
-II. Emitir y ejecutar las disposiciones y acciones necesarias para la instrumentación de las auscultaciones interna y externa que permitan al Director General la designación, el nombramiento o la remoción de los titulares de los Centros Públicos de investigación CONACYT, en los términos de las disposiciones legales y administrativas aplicables.
+II. Emitir y ejecutar las disposiciones y acciones necesarias para la instrumentación de las auscultaciones interna y externa que permitan al Director General la designación, el nombramiento o la remoción de los titulares de los Centros Públicos de Investigación CONACYT, en los términos de las disposiciones legales y administrativas aplicables.
 
 III. Coordinar el desarrollo de las sesiones ordinarias y extraordinarias de las asambleas generales, así como de los órganos de gobierno de los Centros Públicos de investigación CONACYT, participando en los mismos como presidente suplente y secretario, de acuerdo con las designaciones y directrices del Director General.
 
-Coordinar y participar como secretario en las sesiones ordinarias o extraordinarias de las comisiones dictaminadoras externas para el ingreso, la promoción y la permanencia del personal científico y tecnológico de los Centros Públicos de investigación CONACYT, así como en los comités externos de evaluación cuando se determine;
+Coordinar y participar como secretario en las sesiones ordinarias o extraordinarias de las comisiones dictaminadoras externas para el ingreso, la promoción y la permanencia del personal científico y tecnológico de los Centros Públicos de investigación CONACYT, así como en los comités externos de evaluación cuando se determine.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(ADICIONADO, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(ADICIONADO [N. DE E. REPUBLICADO], D.O.F. 24 DE FEBRERO DE 2016)</small>
 
 Realizar las acciones necesarias ante la SHCP y la SFP, para realizar sus funciones de coordinador sectorial de los centros públicos de investigación CONACYT.
 
@@ -1115,17 +1097,13 @@ V. Proponer políticas y lineamientos en materia de investigación científica, 
 
 Coordinar acciones para que, a través de sus órganos de gobierno, se lleve a cabo el proceso de evaluación de la gestión de los Centros Públicos de Investigación CONACYT.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 24 DE FEBRERO DE 2016)</small>
 
 VI. Impulsar y desarrollar las actividades científicas, tecnológicas, de innovación y de formación de capital humano de alto nivel de los Centros Públicos de Investigación CONACYT, promoviendo sus resultados y el efecto multiplicador del gasto público en las distintas regiones del país.
 
 Coordinar con la Unidad de Asuntos Jurídicos respecto de la normativa de los centros públicos de investigación.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 24 DE FEBRERO DE 2016)</small>
 
 VII. Coordinar en los términos de su competencia, al logro de los objetivos del Comité Intersectorial para la Innovación, las unidades de vinculación y transferencia del conocimiento, el Sistema de Centros Públicos de Investigación, las redes regionales para la Innovación y las instancias establecidas en la LCYT y otras disposiciones legales y administrativas aplicables.
 
@@ -1133,15 +1111,11 @@ Participar en las propuestas de gasto público que realicen los Centros Público
 
 Promover, dentro de los Centros Públicos de Investigación CONACYT, un sistema de estímulos, regalías e incentivos al personal científico y tecnológico, conforme a la normativa aplicable.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 24 DE FEBRERO DE 2016)</small>
 
 VIII. Proponer indicadores para evaluar y dictaminar el desempeño, los objetivos y las metas de los centros públicos de investigación, en los términos establecidos en los convenios de administración por resultados aprobados por los respectivos órganos de gobierno, así como evaluar los resultados, de los productos científicos, tecnológicos, de innovación, de vinculación y de capital humano, desarrollados por los mismos. La evaluación deberá contar con un sistema uniforme de indicadores que se instrumentará anualmente.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 24 DE FEBRERO DE 2016)</small>
 
 IX. Analizar y proponer, la creación, transformación, transferencia, enajenación, fusión, extinción, liquidación, disolución o desincorporación de entidades paraestatales, acorde a la LCYT y demás disposiciones legales y administrativas aplicables.
 
@@ -1151,39 +1125,27 @@ Participar en la gestión para que las entidades paraestatales que realizan acti
 
 X. Ejercer en los órganos de gobierno de los Centros Públicos de Investigación CONACYT, previa designación o aprobación del Director General, la representación de la titularidad de las acciones o partes sociales del gobierno federal, que integren el capital social de las empresas de participación estatal mayoritaria en las que, de conformidad con los estatutos sociales, CONACYT sea coordinador de sector.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(ADICIONADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], D.O.F. 24 DE FEBRERO DE 2016)</small>
 
 XI. Validar los informes de actividades de la Dirección Adjunta para dar cumplimiento a los requerimientos por parte de las diferentes instancias del Consejo.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(ADICIONADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], D.O.F. 24 DE FEBRERO DE 2016)</small>
 
 XII. Validar la atención de las solicitudes presentadas por particulares a través del Sistema de Solicitudes de Información del Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales (INAI).
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(ADICIONADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], D.O.F. 24 DE FEBRERO DE 2016)</small>
 
 XIII. Coadyuvar en la definición de los ordenamientos internos necesarios para operación, seguimiento y evaluación de los programas y proyectos en el ámbito de su competencia, a través de su titular o mediante la delegación de funciones al personal de su área de adscripción.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(ADICIONADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], D.O.F. 24 DE FEBRERO DE 2016)</small>
 
 XIV. Instrumentar la planeación, constitución, operación, control, seguimiento administrativo y técnico, y evaluación, de los fondos bajo la responsabilidad del CONACYT conforme a la LCYT; así como de los Programas presupuestales a su cargo o en los que participe conforme las facultades que en cada uno de ellos se le otorgue.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(ADICIONADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], D.O.F. 24 DE FEBRERO DE 2016)</small>
 
 XV. Solicitar los requerimientos en materia de adquisición de bienes, arrendamientos, prestación de servicios de los capítulos de gasto 2000, 3000, 5000 a la Dirección de Recursos Materiales y Servicios Generales, para llevar a cabo los procedimientos respectivos de acuerdo a lo establecido en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y demás normatividad vigente.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 30.
 
@@ -1245,21 +1207,15 @@ II. Coordinar la formulación de las políticas nacionales en materia de ciencia
 
 III. Dirigir la elaboración y revisión periódica del Programa Institucional de mediano plazo, así como establecer los procedimientos necesarios para verificar su congruencia y articulación con el Plan Nacional de Desarrollo, el PECITI y otros programas sectoriales.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 24 FEBRERO DE 2016)</small>
 
 IV. Planear el Programa Anual de Trabajo del CONACYT, verificando su congruencia y articulación con el Plan Nacional de Desarrollo, el PECITI, el Programa Institucional y en su caso, otros programas sectoriales.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 24 FEBRERO DE 2016)</small>
 
 V. Coordinar el apartado de ciencia, tecnología e innovación de los informes Presidenciales de Gobierno el cual deberá contener la información de la cuenta sectorial del Gasto Federal de Ciencia y Tecnología que forma parte del Informe Presidencial.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 24 FEBRERO DE 2016)</small>
 
 VI. Determinar, en coordinación con la Dirección Adjunta de Posgrado y Becas, las necesidades de capital humano de los sectores de la sociedad, regiones y entidades federativas del país, con base en las vocaciones, diagnósticos locales y regionales, así como en el PECITI, para atenderlas a través de los programas o subprogramas de recursos humanos de alto nivel del CONACYT. Así como participar en la elaboración y actualización del Inventario de capital humano científico y tecnológico.
 
@@ -1271,27 +1227,19 @@ IX. Coordinar la elaboración de los informes sobre el cumplimiento de los compr
 
 X. Dirigir en coordinación con la Dirección Adjunta de Desarrollo Regional la elaboración de la publicación anual de la Actividad del CONACYT por Entidad Federativa.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 24 FEBRERO DE 2016)</small>
 
 XI. Establecer, procesar, analizar y difundir sistemáticamente la información de las actividades de ciencia y tecnología en México, y elaborar anualmente los indicadores de las Actividades Científicas y Tecnológicas, así como la Cuenta Nacional de Ciencia, Tecnología e Innovación para su revisión y análisis integral y de congruencia global.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 24 FEBRERO DE 2016)</small>
 
 XII. Determinar y publicar anualmente el Informe General del Estado de la Ciencia, la Tecnología y la Innovación en México, y coordinar otros estudios de análisis y prospectiva que apoyen la formulación de políticas nacionales de ciencia, tecnología e innovación.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 24 FEBRERO DE 2016)</small>
 
 XIII. Representar a través de estadísticas e indicadores de ciencia, tecnología e innovación conforme a las normas internacionales, así como medir los resultados y beneficios de los recursos federales asignados al sector de ciencia, tecnología e innovación.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 24 FEBRERO DE 2016)</small>
 
 XIV. Dirigir conjuntamente con otras unidades administrativas, a los Consejos Estatales de Ciencia y Tecnología en la elaboración de sus sistemas de contabilidad del gasto en ciencia y tecnología, para construir series históricas de datos, homogéneas y comparables, según la metodología OCDE y en los temas relevantes de la ciencia y tecnología.
 
@@ -1299,85 +1247,61 @@ XV. Coordinar la realización de encuestas para la obtención de información re
 
 XVI. Coordinar la participación del CONACYT ante el grupo de expertos en indicadores de ciencia y tecnología de la OCDE, ante la Red Iberoamericana de Indicadores de Ciencia y Tecnología y otras instancias internacionales de estadísticas en la materia.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 24 FEBRERO DE 2016)</small>
 
 XVII. Determinar la política integral de los sistemas de información del CONACYT, estableciendo las estrategias, prioridades y acciones de supervisión necesarias. Para ello contará con un comité asesor, el cual presidirá, y que estará integrado por los usuarios de los sistemas, por los desarrolladores de las soluciones, así como por la Oficialía Mayor, debiendo rendir un informe de actividades al Grupo Directivo del Consejo.
 
 XVIII. Coordinar, dentro del ámbito de competencia del CONACYT y de las Dependencias y Entidades del Gobierno Federal, el informe de los resultados que se hayan obtenido en materia de ciencia y tecnología como consecuencia de la ejecución del Plan Nacional de Desarrollo.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 24 FEBRERO DE 2016)</small>
 
 XIX. Dirigir la instrumentación, coordinación, ejecución, operación, seguimiento y evaluación anual del PECITI y el desempeño del sector ciencia, tecnología e innovación en el marco del PECITI, conforme a las disposiciones legales aplicables.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 24 FEBRERO DE 2016)</small>
 
 XX. Coordinar la implementación del Programa Anual de Evaluación del CONACYT, vigilando el cumplimiento de la normatividad establecida en la materia para los programas públicos federales, así como para las dependencias y entidades de la administración pública federal.
 
 XXI. Evaluar los resultados y el impacto de los programas y proyectos gubernamentales de ciencia, tecnología e innovación coordinados por el CONACYT, de acuerdo con el programa anual de evaluación que al efecto se establezca.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 24 FEBRERO DE 2016)</small>
 
 XXII. Coordinar las actividades relacionadas con el diseño y revisión de la Matriz de Indicadores de Resultados de los programas presupuestarios del CONACYT, en el marco del proceso de Planeación, Programación e Integración del Presupuesto de Egresos de la Federación.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 24 FEBRERO DE 2016)</small>
 
 XXIII. Establecer y verificar la aplicación de la metodología de evaluación de programas científicos y tecnológicos, en particular, los procesos para la inducción, integración, impacto, evaluación, seguimiento y rendición de cuentas de los proyectos que concursen en los Fondos y programas del CONACYT.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 24 FEBRERO DE 2016)</small>
 
 XXIV. Determinar el Informe Anual de Evaluación del Sistema Nacional de Ciencia y Tecnología, el cual debe incluir la evaluación del impacto socioeconómico de los proyectos apoyados por los Fondos y los diferentes programas y proyectos gubernamentales de ciencia y tecnología, incluyendo las actividades del Sistema de Centros Públicos CONACYT.
 
 XXV. Coordinar el diseño de los lineamientos e indicadores para que los elementos que se consideren en la evaluación ex-ante de proyectos (operada por las unidades administrativas sustantivas) puedan ser cuantificados en la evaluación ex–post.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 24 FEBRERO DE 2016)</small>
 
 XXVI. Establecer los lineamientos para la conformación de los Comités de Evaluación de los Fondos y de los demás programas del CONACYT.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 24 FEBRERO DE 2016)</small>
 
 XXVII. Planear los procesos de elaboración de convocatorias, términos de referencia y diseño de indicadores que lleven a cabo las unidades responsables de la operación de los programas y fondos del CONACYT, a fin de garantizar la alineación de estos instrumentos con los sistemas de información del CONACYT y los programas anuales de evaluación.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 24 FEBRERO DE 2016)</small>
 
 XXVIII. Representar ante el Consejo General la integración y la coordinación de los comités intersectoriales y de vinculación así como en la integración del Presupuesto Federal en materia de ciencia, tecnología e innovación, para el cumplimiento de la LCYT.
 
 XXIX. Administrar el SINECYT, emitiendo los criterios y mecánica para su funcionamiento previa aprobación de la Junta de Gobierno, incluyendo el Registro CONACYT de Evaluadores Acreditados (RCEA).
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 24 FEBRERO DE 2016)</small>
 
 XXX. Establecer con los diferentes organismos internacionales los asuntos de política científica, tecnológica y de innovación.
 
 XXXI. Representar al CONACYT, en la planeación, elaboración de estadísticas e indicadores, así como en los ámbitos en que sea requerido, con el Instituto Nacional de Estadística y Geografía, entre otros.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 24 FEBRERO DE 2016)</small>
 
 XXXII. Coordinar en el establecimiento de prioridades y criterios de asignación del gasto en ciencia, tecnología e innovación del Ramo Presupuestal del CONACYT.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 24 FEBRERO DE 2016)</small>
 
 XXXIII. Determinar, en coordinación con la Oficialía Mayor, en la integración de la propuesta de estructura programática y en la elaboración de la exposición de motivos del Presupuesto de Egresos de la Federación a emplear en cada ejercicio presupuestal.
 
@@ -1387,45 +1311,31 @@ XXXV. Planear y dirigir la integración de la base de datos de los proyectos apo
 
 XXXVI. Dirigir la administración del Currículum Vítae Único del Sector Ciencia, Tecnología e Innovación.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 24 FEBRERO DE 2016)</small>
 
 XXXVII. Coordinar y operar la implementación del repositorio nacional de acceso abierto a recursos informáticos, científicos, tecnológicos y de innovación de calidad interés social y cultural las publicaciones en la biblioteca digital en Ciencia, Tecnología e Innovación. Establecer y proponer la normatividad que regirá el funcionamiento del Repositorio Nacional y de los Repositorios Institucionales en los términos establecidos en la LCYT.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 24 FEBRERO DE 2016)</small>
 
 XXXVIII. Dirigir la estrategia para poner en operación el Repositorio Nacional y diseñar un sistema de monitoreo para que éste pueda cumplir su objetivo de acopiar, preservar, gestionar y dar acceso electrónico a la información científica, tecnológica y de innovación, financiada total o parcialmente por recursos públicos.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 24 FEBRERO DE 2016)</small>
 
 XXXIX. Coordinar con la Unidad de Asuntos Jurídicos en la elaboración de las reglas de operación de los programas del CONACYT.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 24 FEBRERO DE 2016)</small>
 
 XL. Coadyuvar en la definición de los ordenamientos internos necesarios para operación, seguimiento y evaluación de los programas y proyectos en el ámbito de su competencia, a través de su titular o mediante la delegación de funciones al personal de su área de adscripción.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 24 FEBRERO DE 2016)</small>
 
 XLI. Instrumentar la planeación, constitución, operación, control, seguimiento administrativo y técnico, y evaluación, de los fondos bajo la responsabilidad del CONACYT conforme a la LCYT; así como de los Programas presupuestales a su cargo o en los que participe conforme las facultades que en cada uno de ellos se le otorgue.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(ADICIONADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], D.O.F. 24 FEBRERO DE 2016)</small>
 
 XLII. Solicitar los requerimientos en materia de adquisición de bienes, arrendamientos, prestación de servicios de los capítulos de gasto 2000, 3000, 5000 a la Dirección de Recursos Materiales y Servicios Generales, para llevar a cabo los procedimientos respectivos de acuerdo a lo establecido en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y demás normatividad vigente.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 FEBRERO DE 2016)</small>
 
 ###### Artículo 32.
 
@@ -1473,9 +1383,7 @@ XX. Llevar a cabo todas las actividades que como Unidad de Enlace le encomienda 
 
 XXI. Las demás que le confieran otras disposiciones legales o administrativas en el ámbito de su competencia, así como las que le encomiende el Director General.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 FEBRERO DE 2016)</small>
 
 ###### Artículo 33.
 
@@ -1541,9 +1449,7 @@ XXIX. Atender las demás funciones y tareas que le asignen las disposiciones leg
 
 Las anteriores atribuciones podrá realizarlas la Oficialía Mayor por sí o a través de la Estructura Orgánica bajo su adscripción.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADO, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADO [N. DE E. REPUBLICADO], D.O.F. 24 FEBRERO DE 2016)</small>
 
 ###### Artículo 34.
 
@@ -1613,6 +1519,8 @@ Asegurar el fomento, apoyo y fortalecimiento de la investigación científica y 
 
 Proponer el Programa para el Desarrollo de la Investigación Científica y Tecnológica en Bioseguridad y Biotecnología que será considerado como un programa cuya formulación estará a cargo del CONACYT con base en las propuestas que presenten las Secretarías y las demás dependencias y entidades de la Administración Pública Federal que apoyen o realicen investigación científica y desarrollo tecnológico; para su inclusión en el PECITI que establece la LCYT.
 
+> <small>(REFORMADA, D.O.F. 24 DE FEBRERO DE 2016)</small>
+
 IX. Fungir como Centro Focal Nacional ante el secretariado del Protocolo de Cartagena sobre Seguridad de la Biotecnología del Convenio sobre la Diversidad Biológica, nombrar al Centro Focal Nacional del Centro de Intercambio de Información sobre Seguridad de la Biotecnología del Protocolo de Cartagena y proporcionar la información establecida en el mencionado Protocolo.
 
 X. Ejercer las facultades que se requieran para su adecuado funcionamiento, y que dentro del presente estatuto se establecen para los Directores Adjuntos.
@@ -1643,9 +1551,7 @@ I. Colaborar transversalmente con las unidades y con la Secretaría Ejecutiva de
 
 II. Promover en coordinación con las unidades, el desarrollo de los programas e instrumentos de apoyo a la investigación científica y desarrollo tecnológico e innovación del CONACYT, así como detectar acciones de mejora.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 24 DE FEBRERO DE 2016)</small>
 
 III. Identificar nuevas líneas de acción con las diversas unidades administrativas del CONACYT, para vincular y definir sus estrategias transversales en proyectos especiales de mediano y largo plazo.
 
@@ -1655,27 +1561,19 @@ V. Interactuar con los usuarios y contrapartes del CONACYT a nivel sectorial, re
 
 VI. Diseñar e instrumentar estrategias de atención a usuarios y beneficiarios del CONACYT, con apoyo de las demás unidades, así como evaluar la efectividad y eficiencia de los productos y servicios del CONACYT, creando sinergias y mecanismos de colaboración.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 24 DE FEBRERO DE 2016)</small>
 
 VII. Dirigir la política de comunicación social del CONACYT, así como la política y actividades en materia de comunicación pública de la ciencia, la tecnología y la innovación.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(ADICIONADA [N. DE E. REFORMADA], D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], D.O.F. 24 DE FEBRERO DE 2016)</small>
 
 VIII. Coadyuvar en la definición de los ordenamientos internos necesarios para operación, seguimiento y evaluación de los programas y proyectos en el ámbito de su competencia, a través de su titular o mediante la delegación de funciones al personal de su área de adscripción.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(ADICIONADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], D.O.F. 24 DE FEBRERO DE 2016)</small>
 
 IX. Instrumentar la planeación, constitución, operación, control, seguimiento administrativo y técnico, y evaluación, de los fondos bajo la responsabilidad del CONACYT conforme a la LCYT; así como de los Programas presupuestales a su cargo o en los que participe conforme las facultades que en cada uno de ellos se le otorgue.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(ADICIONADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], D.O.F. 24 DE FEBRERO DE 2016)</small>
 
 X. Solicitar los requerimientos en materia de adquisición de bienes, arrendamientos, prestación de servicios de los capítulos de gasto 2000, 3000, 5000 a la Dirección de Recursos Materiales y Servicios Generales, para llevar a cabo los procedimientos respectivos de acuerdo a lo establecido en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y demás normatividad vigente.
 
@@ -1693,41 +1591,29 @@ I. Identificar áreas de oportunidad y necesidades de la comunidad mexicana de c
 
 II. Dirigir la coordinación interna o transversalidad de las acciones de cooperación internacional del Consejo con la finalidad de mantener una comunicación eficiente e interactuando sistemáticamente con las Direcciones Adjuntas y la Dirección General de CONACYT.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 24 DE FEBRERO DE 2016)</small>
 
 III. Negociar y redactar los Acuerdos, Memorándums de Entendimiento, Convenios, Cartas de Intención y otros instrumentos con actores internacionales (gubernamentales, multilaterales, universidades, centros de investigación y otros) para establecer los términos y compromisos de cooperación internacional del Consejo en materia de investigación científica, innovación tecnológica, movilidad y formación de capital humano.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 24 DE FEBRERO DE 2016)</small>
 
 IV. Participar en los diferentes organismos internacionales relacionados con los asuntos de política científica, tecnológica e innovación.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 24 DE FEBRERO DE 2016)</small>
 
 V. Formular los proyectos de programas y de presupuesto que les correspondan.
 
 Ejercer el presupuesto y administrar los recursos bajo su responsabilidad, supervisando el desarrollo de los programas, proyectos, convenios, contratos y acuerdos que se relacionen con los asuntos de su competencia.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 24 DE FEBRERO DE 2016)</small>
 
 VI. Someter a la autorización del Director General por conducto de la Oficialía Mayor, los nombramientos del personal de su área hasta el nivel de subdirector.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 24 DE FEBRERO DE 2016)</small>
 
 VII. Formular, diseñar, coordinar, evaluar y dar seguimiento, en el ámbito de su competencia a los programas de cooperación internacional.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 24 DE FEBRERO DE 2016)</small>
 
 VIII. Participar en el ámbito de su competencia, en la creación y operación de los fondos establecidos en la LCYT.
 
@@ -1735,57 +1621,39 @@ Apoyar a los Comités y Comisiones de Evaluación de los fondos establecidos en 
 
 Implementar las acciones para instrumentar el proceso de evaluación de los proyectos que apoye de manera directa o a través de los fondos a su cargo, así como coadyuvar en la obtención de información para realizar, en coordinación con la Dirección Adjunta de Planeación y Evaluación, la evaluación de impacto de sus programas.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 24 DE FEBRERO DE 2016)</small>
 
 IX. Instrumentar la planeación, constitución, operación, control, seguimiento y evaluación de los Fondos, Programas, proyectos y apoyos bajo su responsabilidad; o en los que participe conforme a las facultades que en cada uno de ellos se le otorguen.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 24 DE FEBRERO DE 2016)</small>
 
 X. Coadyuvar en la obtención de información para realizar, en coordinación con la Dirección Adjunta de Planeación y Evaluación, la evaluación de impacto de sus programas.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(REFORMADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(REFORMADA [N. DE E. REPUBLICADA], D.O.F. 24 DE FEBRERO DE 2016)</small>
 
 XI. Representar al Consejo y al Director General en reuniones bilaterales, multilaterales, foros científicos y tecnológicos internacionales.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(ADICIONADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], D.O.F. 24 DE FEBRERO DE 2016)</small>
 
 XII. Dirigir la organización de talleres y eventos para fomentar el desarrollo de redes de trabajo entre la comunidad científico-tecnológica mexicana y sus pares en otros países, organizaciones regionales y multilaterales así como asociaciones científicas y centros internacionales de investigación.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(ADICIONADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], D.O.F. 24 DE FEBRERO DE 2016)</small>
 
 XIII. Coordinar la agenda internacional del Director General de CONACYT e integrar las comunicaciones y concertación de citas en México y el extranjero.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(ADICIONADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], D.O.F. 24 DE FEBRERO DE 2016)</small>
 
 XIV. Coordinar con otras Secretarías y dependencias del gobierno federal para asegurar que los compromisos y acciones de cooperación internacional del CONACYT estén en concordancia con los lineamientos y objetivos de política exterior que se establecen en el Plan Nacional de Desarrollo.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(ADICIONADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], D.O.F. 24 DE FEBRERO DE 2016)</small>
 
 XV. Colaborar con la Secretaría de Relaciones Exteriores y la Agencia Mexicana de Cooperación Internacional para el desarrollo de los términos establecidos tanto en el Programa de Cooperación Internacional para el Desarrollo, como en la Ley de Cooperación Internacional para el Desarrollo.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(ADICIONADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], D.O.F. 24 DE FEBRERO DE 2016)</small>
 
 XVI. Expedir las certificaciones de documentos que obren en sus archivos.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(ADICIONADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], D.O.F. 24 DE FEBRERO DE 2016)</small>
 
 XVII. Coadyuvar en el ámbito de su competencia, en la actualización de los diversos sistemas de información.
 
@@ -1793,21 +1661,15 @@ Proporcionar la información y documentación que le sea requerida por las insta
 
 Colaborar, con la Unidad de Asuntos Jurídicos, en el establecimiento y cumplimiento de los mecanismos e instrumentos establecidos en la Ley de Transparencia y Acceso a la Información Pública Gubernamental, en la Ley Federal de Procedimiento Administrativo y demás disposiciones legales y administrativas aplicables.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(ADICIONADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], D.O.F. 24 DE FEBRERO DE 2016)</small>
 
 XVIII. Remitir a la Unidad de Asuntos Jurídicos; previo a la contestación correspondiente, cualquier requerimiento, instancia, petición, recurso o inconformidad, proveniente de particulares o autoridades que pueda tener una repercusión legal, administrativa o jurisdiccional para el CONACYT o los servidores públicos del mismo, relacionado con el desempeño de sus funciones.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(ADICIONADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], D.O.F. 24 DE FEBRERO DE 2016)</small>
 
 XIX. Coadyuvar en la definición de los ordenamientos internos necesarios para operación, seguimiento y evaluación de los programas y proyectos en el ámbito de su competencia, a través de su titular o mediante la delegación de funciones al personal de su área de adscripción.
 
-> <small>N. DE E. INFORMACIÓN OBTENIDA DE: www.dof.gob.mx y http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf</small>
-
-> <small>(ADICIONADA, D.O.F. 21 DE ENERO DE 2016)</small>
+> <small>(ADICIONADA [N. DE E. REPUBLICADA], D.O.F. 24 DE FEBRERO DE 2016)</small>
 
 XX. Solicitar los requerimientos en materia de adquisición de bienes, arrendamientos, prestación de servicios de los capítulos de gasto 2000, 3000, 5000 a la Dirección de Recursos Materiales y Servicios Generales, para llevar a cabo los procedimientos respectivos de acuerdo a lo establecido en la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público y demás normatividad vigente.
 
@@ -1906,5 +1768,11 @@ SEGUNDO.- En todas aquellas disposiciones en las que se haga referencia a la Dir
 D.O.F. 21 DE ENERO DE 2016.
 
 ## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGÍA” OBTENIDO DE: http://www.conacyt.gob.mx/siicyt/images/EstatutoOrganico-JG55.pdf]
+
+ÚNICO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
+
+D.O.F. 24 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL “ACUERDO POR EL QUE SE REFORMAN, ADICIONAN Y DEROGAN DIVERSAS DISPOSICIONES DEL ESTATUTO ORGÁNICO DEL CONSEJO NACIONAL DE CIENCIA Y TECNOLOGÍA”.]
 
 ÚNICO.- El presente acuerdo entrará en vigor al día siguiente de su publicación en el Diario Oficial de la Federación.
