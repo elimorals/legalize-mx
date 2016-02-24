@@ -4,7 +4,7 @@ identifier: "MOR-ley-general-de-hacienda-municipal-del-estado-de-morelos-6633"
 country: "mx"
 rank: "ley_general"
 publication_date: "1984-01-04"
-last_updated: "2016-02-10"
+last_updated: "2016-02-24"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=6633&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -24,6 +24,8 @@ state: "MOR"
 LEY GENERAL DE HACIENDA MUNICIPAL DEL ESTADO DE MORELOS 1984
 
 ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 10 DE FEBRERO DE 2016.
+
+> <small>[N. DE E. CONTIENE LA FE DE ERRATAS PUBLICADA EN EL PERIÓDICO OFICIAL DEL 24 DE FEBRERO DE 2016.]</small>
 
 Ley publicada en la Sección Tercera del Periódico Oficial del Estado de Morelos, el miércoles 4 de enero de 1984.
 
@@ -929,13 +931,17 @@ Es base del impuesto los pagos por concepto de impuestos y derechos previstos en
 
 La tasa general del impuesto será del 25% sobre la base que señala el Artículo 121 y su aplicación se hará según lo dispone el Artículo 123 de esta Ley.
 
-> <small>N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.</small>
+> <small>[N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO SEGUNDO DEL DECRETO QUE MODIFICA EL ORDENAMIENTO.]</small>
 
 > <small>(REFORMADO, P.O. 3 DE FEBRERO DE 2016)</small>
 
 ###### ARTICULO 123.
 
 El Impuesto adicional referido a:
+
+> <small>(F. DE E., P.O. 24 DE FEBRERO DE 2016)</small>
+
+a).- Impuesto de traslado de dominio, así como de los derechos sobre fraccionamientos se aplicará como sigue:
 
 I. El 15% se asigna para apoyo a educación;
 
@@ -946,6 +952,12 @@ III. El 2.5% se asigna a Fondo de Fomento a la Industrialización; y
 IV. El 2.5% se asigna al FAEDE.
 
 Lo anterior se sumaría al 1.5% de los ingresos propios, participaciones federales e ingresos coordinados con que ya cuenta dicho fondo.
+
+> <small>(F. DE E., P.O. 24 DE FEBRERO DE 2016)</small>
+
+b).- Los demás impuestos y derechos.
+
+25% General para el Municipio.
 
 ###### ARTICULO 124.
 
