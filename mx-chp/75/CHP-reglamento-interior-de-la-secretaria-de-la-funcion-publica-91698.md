@@ -4,7 +4,7 @@ identifier: "CHP-reglamento-interior-de-la-secretaria-de-la-funcion-publica-9169
 country: "mx"
 rank: "reglamento"
 publication_date: "2012-11-07"
-last_updated: "2012-11-07"
+last_updated: "2016-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=91698&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,9 @@ state: "CHP"
 
 REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA FUNCIÓN PÚBLICA DEL ESTADO DE CHIAPAS
 
-TEXTO ORIGINAL.
+> <small>[N. DE E. DE CONFORMIDAD CON EL TRANSITORIO ARTÍCULO SEGUNDO DEL REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA FUNCIÓN PÚBLICA, PUBLICADO EN EL P.O. DE 24 DE FEBRERO DE 2016, EL PRESENTE ORDENAMIENTO HA SIDO ABROGADO.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2016 (ABROGADO).
 
 Reglamento publicado en el Periódico Oficial del Estado de Chiapas, el miércoles 7 de noviembre de 2012.
 
@@ -243,7 +245,7 @@ La representación a que se refiere esta fracción, comprende el ejercicio de to
 
 II. Coordinar y supervisar que la formulación y operación de los proyectos y programas de la Secretaría, se realicen conforme a las normas y procedimientos establecidos.
 
-III Suscribir y celebrar contratos, convenios y toda clase de actos jurídicos que se relacionen directamente con los asuntos competencia de la Secretaría.
+III. Suscribir y celebrar contratos, convenios y toda clase de actos jurídicos que se relacionen directamente con los asuntos competencia de la Secretaría.
 
 IV. Emitir resoluciones en la materia de su competencia.
 
@@ -1954,3 +1956,25 @@ Artículo Octavo.- En cumplimiento a lo dispuesto por el artículo 8º, de la Le
 Dado en el Palacio de Gobierno, Residencia Oficial del Poder Ejecutivo del Estado, en la ciudad de Tuxtla Gutiérrez, Chiapas; a los 12 doce días del mes de septiembre del año 2012 de dos mil doce.
 
 Lic. Juan Sabines Guerrero, Gobernador del Estado de Chiapas.- Lic. Noé Castañón León, Secretario General de Gobierno.- C.P. César Augusto Corzo Velasco, Secretario de la Función Pública.- Rúbricas.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DE LA “PUB. NO. 1395-A-2016 REGLAMENTO INTERIOR DE LA SECRETARÍA DE LA FUNCIÓN PÚBLICA”.]
+
+Artículo Primero.- El presente Reglamento Interior, entrará en vigor al día siguiente de su publicación en el Periódico Oficial.
+
+Artículo Segundo.- Se abroga el Reglamento Interior de la Secretaría de la Función Pública, publicado en el Periódico Oficial número 397, Tomo III, de fecha 07 de noviembre de 2012, Publicación número 3503-A-2012; así como las disposiciones que del mismo emanen y se derogan aquellas otras que se opongan al presente Reglamento Interior.
+
+Artículo Tercero.- En los casos en que se presente controversia en la aplicación de este Reglamento Interior, el Secretario resolverá lo conducente.
+
+Artículo Cuarto.- Para las cuestiones no previstas en este Reglamento Interior, respecto al funcionamiento de los Órganos Administrativos, el Secretario, resolverá lo conducente.
+
+Artículo Quinto.- El Manual de Organización de la Secretaría, deberá expedirse en un plazo no mayor a noventa días hábiles, después de la Publicación del presente Reglamento Interior.
+
+Artículo Sexto.- En tanto se expide el Manual de Organización respectivo, el Secretario resolverá las incidencias de operación que se originen por la aplicación de este ordenamiento legal.
+
+Artículo Séptimo.- La Secretaría, deberá establecer, control, y evaluar el Programa Interno de Protección Civil para el personal, instalaciones, bienes, e información, observando las normas necesarias para la operación desarrollo y vigilancia del programa que establezca la Unidad Estatal de Protección Civil.
+
+Artículo Octavo.- En cumplimiento a lo dispuesto por el artículo 8°, de la Ley Orgánica de la Administración Pública del Estado de Chiapas, publíquese el presente Reglamento Interior en el Periódico Oficial del Estado.
