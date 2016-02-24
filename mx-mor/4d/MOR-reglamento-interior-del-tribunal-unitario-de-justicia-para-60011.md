@@ -4,7 +4,7 @@ identifier: "MOR-reglamento-interior-del-tribunal-unitario-de-justicia-para-6001
 country: "mx"
 rank: "reglamento"
 publication_date: "2008-03-05"
-last_updated: "2008-03-05"
+last_updated: "2016-02-24"
 status: "repealed"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=60011&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MOR"
 
 REGLAMENTO INTERIOR DEL TRIBUNAL UNITARIO DE JUSTICIA PARA ADOLESCENTES Y JUZGADOS ESPECIALIZADOS DEL PODER JUDICIAL DEL ESTADO DE MORELOS
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 24 DE FEBRERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Morelos, el miércoles 5 de marzo de 2008.
 
@@ -565,9 +565,11 @@ La carpeta judicial estará a cargo del Administrador de Oficina quién puede en
 
 ### CAPÍTULO TERCERO. DE LA CORRESPONDENCIA Y ARCHIVO
 
+> <small>(REFORMADO, P.O. 24 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 48.
 
-La oficina de Correspondencia y Archivo es la dependencia administrativa encargada de recibir los escritos, promociones y recursos competencia del Tribunal así como de la guarda y custodia de las carpetas judiciales resueltas por los Juzgados Especializados y por el Magistrado, aplicando en el ámbito del Tribunal las disposiciones de la Ley General de Documentación para el Estado de Morelos; se integra por un titular que se denomina Jefe de la Oficina de Correspondencia y Archivo y por el número de Auxiliares que sean necesarios para su buen funcionamiento conforme a la disponibilidad presupuestal del Tribunal.
+La oficina de Correspondencia y Archivo, es la Dependencia Administrativa encargada de recibir los escritos, promociones y recursos competencia del Tribunal así como de la guarda y custodia de las carpetas judiciales resueltas por los Juzgados Especializados y por el Magistrado, aplicando en el ámbito del Tribunal las disposiciones de la Ley Estatal de Documentación y Archivos de Morelos; se integra por un titular que se denomina Jefe de la Oficina de Correspondencia y Archivo y por el número de Auxiliares que sean necesarios para su buen funcionamiento conforme a la disponibilidad presupuestal del Tribunal.
 
 ###### Artículo 49.
 
@@ -843,13 +845,101 @@ Las excitativas se resolverán, con informe o sin él, dentro de los cinco días
 
 Cuando a juicio de quien resuelva haya mediado motivo racional e insuperable para el no pronunciamiento de la resolución, la excitativa será declarada improcedente.
 
-### CAPÍTULO ÚNICO. DE LA UNIDAD DE INFORMACIÓN PÚBLICA
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 24 DE FEBRERO DE 2016)</small>
 
-(UDI)
+### CAPÍTULO CUARTO. DE LA COORDINACIÓN PARA EL APOYO Y SEGUIMIENTO DE MEDIDAS PARA ADOLESCENTES
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2016)</small>
+
+###### Artículo 83 Bis.
+
+El Tribunal Unitario de Justicia para Adolescentes, contará con un órgano técnico que se denominará Coordinación para el Apoyo y Seguimiento de Medidas para Adolescentes, integrado por un grupo de especialistas en diferentes materias que coadyuven en el seguimiento de las mismas, auxiliando al (sic) Magistrado y Jueces Especializados en la determinación y seguimiento de las medidas impuestas a los adolescentes sujetos a la jurisdicción del Tribunal; estará dirigido por un Coordinador y contará con los siguientes departamentos:
+
+I. Departamento de Psicología;
+
+II. Departamento de Trabajo Social;
+
+III. Departamento de Pedagogía, y
+
+IV. Departamento de Criminología.
+
+El Coordinador y los titulares de los Departamentos que la integran, serán nombrados y removidos libremente por el Magistrado titular del Tribunal y deberán reunir los perfiles profesionales siguientes:
+
+a) Coordinador: Licenciatura en Derecho, Criminología, Trabajo Social o Psicología, con experiencia profesional mínima de cinco años en la atención de adolescentes en conflicto con la Ley Penal;
+
+b) Jefe de Departamento de Psicología: Licenciatura en Psicología, con experiencia profesional mínima de tres años en el tratamiento de adolescentes con problemas conductuales;
+
+c) Jefe de Departamento de Trabajo Social: Licenciatura en Trabajo Social, Sociología o Antropología Social, con experiencia profesional mínima de tres años;
+
+d) Jefe de Departamento de Pedagogía: Licenciatura en Pedagogía, en Educación o en Psicología con especialidad afín, con experiencia profesional mínima de tres años; y
+
+e) Jefe de Departamento de Criminología: Licenciatura en Criminología o en Derecho con especialidad afín, con experiencia profesional mínima de tres años.
+
+Esta Coordinación contará con el apoyo del personal administrativo que autorice y nombre el Magistrado Titular del Tribunal, sujeto a la disposición presupuestal del propio Tribunal.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2016)</small>
+
+###### Artículo 83 Ter.
+
+La Coordinación y su Titular, tendrán las facultades y obligaciones previstas en la Ley Orgánica del Tribunal Unitario de Justicia para Adolescentes y Juzgados Especializados del Estado de Morelos, además de aquellas que específicamente le encomiende el Magistrado titular del Tribunal; los Jefes de Departamento ejercerán las atribuciones que a continuación se enumeran:
+
+I.- Son atribuciones del titular del Departamento de Psicología:
+
+a) Supervisar se aplique la metodología establecida para la elaboración de los Programas Individuales de Ejecución, mediante su revisión, para asegurarse que este cumpla con el objetivo de reinserción que la ley prevé;
+
+b) Aprobar valoraciones, Programa Individual de Ejecución e informes a la autoridad judicial durante el cumplimiento de la medida sancionadora por parte del adolescente;
+
+c) Participar en reuniones de trabajo para la elaboración de valoraciones de adolescentes con medida cautelar en libertad y sancionadora privativas de la libertad, para promover la modificación de su situación legal, cuando el caso así lo requiera;
+
+d) Supervisar el tratamiento psicológico que se aplique a cada uno de los adolescentes, mediante reuniones de trabajo que permitan la retroalimentación y seguimiento del caso para realizar las observaciones pertinentes;
+
+e) Desarrollar, coordinar y supervisar las Pláticas de Orientación a padres de familia de los adolescentes; y
+
+f) Las demás que específicamente le encomienden el Magistrado Titular del Tribunal, los Jueces Especializados o el Coordinador, en su caso.
+
+II.- Son atribuciones del Titular del Departamento de Trabajo Social:
+
+a) Asignar a los trabajadores sociales, los adolescentes con medidas sancionadoras en libertad impuestas, con la finalidad de dar seguimiento para verificar el cumplimiento de las obligaciones asignadas por la autoridad judicial;
+
+b) Coordinar a los trabajadores sociales para la realización de trabajo de campo, mediante la planeación y distribución de dicha actividad;
+
+c) Supervisar que la información recabada en trabajo de campo, sea veraz y relevante para la elaboración de diagnósticos, valoraciones e informes dirigidos a las partes en el correspondiente proceso penal, así como a la autoridad judicial;
+
+d) Programar las actividades de su área de manera periódica mediante reuniones de trabajo para eficientar los recursos humanos y materiales del Tribunal, y
+
+e) Las demás que específicamente le encomienden el Magistrado Titular del Tribunal, los Jueces Especializados o el Coordinador, en su caso.
+
+III.- El Titular del Departamento de Pedagogía tendrá las siguientes atribuciones:
+
+a) Vincular a la Coordinación con las Instituciones de la sociedad civil, centros de educación formal, patronatos, redes de apoyo de Programas para el proceso de educación y reinserción social para la atención de los adolescentes con medida sancionadora en libertad;
+
+b) Colaborar en la supervisión de aquellos adolescentes con obligaciones legales de presentarse a determinadas Instituciones Educativas para concluir su educación básica;
+
+c) Coadyuvar al seguimiento de la medida sancionadora en libertad mediante la aplicación de exámenes e inventarios psicopedagógicos con la finalidad de orientar al adolescente acerca de sus aptitudes y capacidades para elección y construcción de su Proyecto de vida, y
+
+d) Las demás que específicamente le encomienden el Magistrado Titular del Tribunal, los Jueces Especializados o el Coordinador, en su caso.
+
+IV.- El Jefe del Departamento de Criminología tendrá; en el desempeño del cargo, las atribuciones siguientes:
+
+a) Supervisar que se recabe la información de las diferentes áreas técnicas, para la elaboración del Programa Individualizado de Ejecución y valoraciones.
+
+b) Previo a su elaboración, verificar el contenido del Programa Individualizado de Ejecución, mediante la revisión de la sentencia, para asegurarse que no se limiten derechos o añadan obligaciones que excedan lo estrictamente determinado por el Juzgador;
+
+c) Desarrollar mecanismos de supervisión del Programa Individualizado de Ejecución para la elaboración de los informes trimestrales;
+
+d) Asistir y participar en las reuniones de la Unidad de Atención Integral para la realización conjunta de los Programas aplicados a los adolescentes que tienen una medida socioeducativa;
+
+e) Diseñar, implementar y supervisar los diversos formatos y controles para optimizar el trabajo técnico;
+
+f) Revisar los Informes, Valoraciones, Programa Individual de Ejecución remitidos al Tribunal Unitario de Justicia para Adolescentes para asegurar la integración de la información de cada Área Técnica, y
+
+g) Las demás que específicamente le encomienden el Magistrado Titular del Tribunal; los Jueces Especializados o el Coordinador, en su caso.
 
 ## TÍTULO QUINTO. DEL ACCESO A LA INFORMACIÓN
 
-### CAPÍTULO PRIMERO. DEL PERSONAL DEL TRIBUNAL
+### CAPÍTULO ÚNICO. DE LA UNIDAD DE INFORMACIÓN PÚBLICA
+
+(UDI)
 
 ###### Artículo 84.
 
@@ -921,7 +1011,7 @@ Lo que no se encuentre expresamente previsto en este capítulo se resolverá por
 
 ## TÍTULO SEXTO. DE LAS CONDICIONES GENERALES DE TRABAJO
 
-### CAPÍTULO SEGUNDO. DE LAS RESPONSABILIDADES
+### CAPÍTULO PRIMERO. DEL PERSONAL DEL TRIBUNAL
 
 ###### Artículo 95.
 
@@ -978,6 +1068,14 @@ El Magistrado podrá conceder licencias económicas con goce de sueldo al person
 ###### Artículo 104.
 
 El Magistrado conocerá de las renuncias del personal del Tribunal y resolverá lo que corresponda.
+
+> <small>(ADICIONADO, P.O. 24 DE FEBRERO DE 2016)</small>
+
+###### Artículo 104 Bis.
+
+Por razones de carácter presupuestal, el Tribunal, por acuerdo de su Titular, podrá contratar personal que ocupe las Áreas Administrativas, mediante la celebración de Contratos Personales de Prestación de Servicios Profesionales por tiempo determinado, sin que medie nombramiento alguno; las personas así contratadas ejercerán las atribuciones que a sus respectivas áreas asignadas señala el presente Reglamento; su contrato deberá establecer que quedarán sujetas al régimen de responsabilidades que señala la Ley de Responsabilidades de los Servidores Públicos en vigor en el Estado; esta disposición no será aplicable en tratándose de servidores públicos que desempeñen funciones de carácter jurisdiccional.
+
+### CAPÍTULO SEGUNDO. DE LAS RESPONSABILIDADES
 
 ###### Artículo 105.
 
@@ -1076,3 +1174,15 @@ PARA ADOLESCENTES
 LIC. ANA VIRINIA PEREZ GUEMEZ Y OCAMPO
 
 RÚBRICA.
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DE LOS DECRETOS DE REFORMAS AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 24 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO QUE REFORMA Y ADICIONA DIVERSAS DISPOSICIONES DEL REGLAMENTO INTERIOR DEL TRIBUNAL UNITARIO DE JUSTICIA PARA ADOLESCENTES Y JUZGADOS ESPECIALIZADOS DEL PODER JUDICIAL DEL ESTADO DE MORELOS”.]
+
+PRIMERO.- Remítase el presente Acuerdo al C. Secretario de Gobierno del estado de Morelos y Director del Periódico Oficial “Tierra y Libertad”, para el efecto de su publicación en dicho órgano del Gobierno del Estado Libre y Soberano de Morelos.
+
+SEGUNDO.- El presente Acuerdo entrará en vigor al día siguiente de su publicación en el Periódico Oficial “Tierra y Libertad” órgano del Gobierno del Estado Libre y Soberano de Morelos.
+
+TERCERO.- Publíquese el presente Acuerdo en la página de transparencia del Tribunal Unitario de Justicia para Adolescentes del Poder Judicial del estado Libre y Soberano de Morelos, para los efectos legales correspondientes.
