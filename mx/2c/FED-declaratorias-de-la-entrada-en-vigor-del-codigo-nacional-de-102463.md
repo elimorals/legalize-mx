@@ -4,7 +4,7 @@ identifier: "FED-declaratorias-de-la-entrada-en-vigor-del-codigo-nacional-de-102
 country: "mx"
 rank: "otro"
 publication_date: "2014-09-24"
-last_updated: "2015-09-25"
+last_updated: "2016-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102463&Vig=1&TPub=6"
 department: "Diario Oficial de la Federación"
@@ -19,11 +19,11 @@ issue_date: "2014-09-17"
 ---
 # DECLARATORIAS DE LA ENTRADA EN VIGOR DEL CODIGO NACIONAL DE PROCEDIMIENTOS PENALES A NIVEL FEDERAL
 
-DECLARATORIA POR LA QUE EL CONGRESO DE LA UNIÓN DECLARA LA ENTRADA EN VIGOR DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, A PARTIR DEL 29 DE FEBRERO DE 2016, EN LOS ESTADOS DE AGUASCALIENTES, COLIMA, ESTADO DE MÉXICO, HIDALGO, MORELOS, NUEVO LEÓN, QUINTANA ROO Y TABASCO, ASÍ COMO EN EL DISTRITO FEDERAL
+DECLARATORIA POR LA QUE EL CONGRESO DE LA UNIÓN DECLARA LA ENTRADA EN VIGOR A NIVEL FEDERAL DEL CÓDIGO NACIONAL DE PROCEDIMIENTOS PENALES, A PARTIR DEL 29 DE ABRIL DE 2016, EN LOS ESTADOS DE CAMPECHE, MICHOACÁN, SONORA Y VERACRUZ; Y A PARTIR DEL 14 DE JUNIO DE 2016 EN LOS ESTADOS DE BAJA CALIFORNIA, GUERRERO, JALISCO, TAMAULIPAS, ASÍ COMO EN EL ARCHIPIÉLAGO DE LAS ISLAS MARÍAS Y EN EL RESTO DEL TERRITORIO NACIONAL, A QUE SE REFIEREN LOS ARTÍCULOS 42 Y 48 DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS
 
 TEXTO ORIGINAL.
 
-Declaratoria publicada en la Primera Sección del Diario Oficial de la Federación, el viernes 25 de septiembre de 2015.
+Declaratoria publicada en la Edición Vespertina del Diario Oficial de la Federación, el viernes 26 de febrero de 2016.
 
 Al margen un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Congreso de la Unión.
 
@@ -31,6 +31,6 @@ EL CONGRESO GENERAL DE LOS ESTADOS UNIDOS MEXICANOS, EN CUMPLIMIENTO A LO QUE DI
 
 DECLARATORIA
 
-El Congreso de la Unión declara la entrada en vigor del Código Nacional de Procedimientos Penales, a partir del 29 de febrero de 2016, en los Estados de Aguascalientes, Colima, Estado de México, Hidalgo, Morelos, Nuevo León, Quintana Roo y Tabasco, así como en el Distrito Federal.
+El Congreso de la Unión declara la entrada en vigor a nivel federal del Código Nacional de Procedimientos Penales, a partir del 29 de abril de 2016, en los Estados de Campeche, Michoacán, Sonora y Veracruz; y a partir del 14 de junio de 2016 en los Estados de Baja California, Guerrero, Jalisco, Tamaulipas, así como en el archipiélago de las Islas Marías y en el resto del territorio nacional, a que se refieren los artículos 42 y 48 de la Constitución Política de los Estados Unidos Mexicanos.
 
-México, D.F., a 22 de septiembre de 2015.- Sen. Roberto Gil Zuarth, Presidente.- Rúbrica.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Rúbrica.- Sen. Hilda Esthela Flores Escalera, Secretaria.- Rúbrica.- Dip. Isaura Ivanova Pool Pech, Secretaria.- Rúbrica.
+México, D.F., a 23 de febrero de 2016.- Sen. Roberto Gil Zuarth, Presidente.- Rúbrica.- Dip. José de Jesús Zambrano Grijalva, Presidente.- Rúbrica.- Sen. Luis Humberto Fernández Fuentes, Secretario.- Rúbrica.- Dip. Isaura Ivanova Pool Pech, Secretaria.- Rúbrica.
