@@ -4,7 +4,7 @@ identifier: "MEX-reglamento-del-titulo-quinto-del-codigo-financiero-del-66475"
 country: "mx"
 rank: "reglamento"
 publication_date: "2009-01-01"
-last_updated: "2013-07-29"
+last_updated: "2016-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=66475&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "MEX"
 
 REGLAMENTO DEL TÍTULO QUINTO DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DENOMINADO "DEL CATASTRO"
 
-ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 29 DE JULIO DE 2013.
+ÚLTIMA REFORMA PUBLICADA EN LA GACETA DEL GOBIERNO: 26 DE FEBRERO DE 2016.
 
 Reglamento publicado en la Sección Segunda de la Gaceta del Gobierno del Estado de México, el jueves 1o. de enero de 2009.
 
@@ -133,19 +133,33 @@ El IGECEM en su estructura orgánica cuenta con ocho delegaciones regionales que
 
 I. La delegación regional en Atlacomulco comprende los territorios municipales de Acambay, Aculco, Atlacomulco, Chapa de Mota, El Oro, Ixtlahuaca, Jiquipilco, Jilotepec, Jocotitlán, Morelos, Polotitlán, San Felipe del Progreso, San José del Rincón, Soyaniquilpan de Juárez, Temascalcingo y Timilpan.
 
-II. La delegación regional en Ecatepec comprende los territorios municipales de Acolman, Apaxco, Atenco, Axapusco, Chiconcuac, Coacalco de Berriozábal, Ecatepec de Morelos, Hueypoxtla, Nopaltepec, Otumba, San Martín de las Pirámides, Tecámac, Temascalapa , Teotihuacan, Tequixquiac, Tezoyuca, Tultepec, Tultitlán, y Zumpango.
+> <small>(REFORMADA, G.G. 26 DE FEBRERO DE 2016)</small>
 
-III. La delegación regional en Naucalpan comprende los territorios municipales de Atizapán de Zaragoza, Coyotepec, Cuautitlán, Cuautitlán Izcalli, Huehuetoca, Huixquilucan, Isidro Fabela, Jaltenco, Jilotzingo, Melchor Ocampo, Naucalpan de Juárez, Nextlalpan, Nicolás Romero, Teoloyucan, Tepotzotlán, Tlalnepantla de Baz, Tonanitla y Villa del Carbón.
+II. La delegación regional en Ecatepec comprende los territorios municipales de Acolman, Apaxco, Atenco, Coacalco de Berriozábal, Ecatepec de Morelos, Hueypoxtla, Nextlalpan, Tecámac, Temascalapa, Jaltenco, Tequixquiac, Tezoyuca, Tonanitla, Tultepec, Tultitlán y Zumpango.
 
-IV. La delegación regional en Nezahualcóyotl comprende los territorios municipales de Amecameca, Atlautla, Ayapango, Chalco, Chiautla, Chicoloapan, Chimalhuacán, Cocotitlán, Ecatzingo, Ixtapaluca, Juchitepec, La Paz, Nezahualcóyotl, Ozumba, Papalotla, Temamatla, Tenango del Aire, Tepetlaoxtoc, Tepetlixpa, Texcoco, Tlalmanalco y Valle de Chalco Solidaridad.
+> <small>(REFORMADA, G.G. 26 DE FEBRERO DE 2016)</small>
 
-V. La delegación regional en Tenango del Valle comprende los territorios municipales de Almoloya del Río, Atizapán, Capulhuac, Coatepec Harinas, Ixtapan de la Sal, Joquicingo, Malinalco, Ocuilan, Rayón, San Antonio la Isla, Tenancingo, Tenango del Valle, Texcalyacac, Tianguistenco, Tonatico, Villa Guerrero, Xalatlaco, Zacualpan y Zumpahuacán.
+III. La delegación regional en Naucalpan comprende los territorios municipales de Atizapán de Zaragoza, Coyotepec, Cuautitlán, Cuautitlán Izcalli, Huehuetoca, Huixquilucan, Isidro Fabela, Jilotzingo, Melchor Ocampo, Naucalpan de Juárez, Nicolás Romero, Teoloyucan, Tepotzotlán, Tlalnepantla de Baz y Villa del Carbón.
 
-VI. La delegación regional en Tejupilco comprende los territorios municipales de Almoloya de Alquisiras, Amatepec, Luvianos, San Simón de Guerrero, Sultepec, Tejupilco, Temascaltepec, y Texcaltitlán, Tlatlaya.
+> <small>(REFORMADA, G.G. 26 DE FEBRERO DE 2016)</small>
 
-VII. La delegación regional en Toluca comprende los territorios municipales de Almoloya de Juárez, Calimaya, Chapultepec, Lerma, Metepec, Mexicaltzingo, Ocoyoacac, Otzolotepec, San Mateo Atenco, Temoaya, Toluca, Xonacatlán y Zinacantepec.
+IV. La delegación regional en Nezahualcóyotl comprende los territorios municipales de Amecameca, Atlautla, Ayapango, Chalco, Cocotitlán, Ecatzingo, Ixtapaluca, Juchitepec, La Paz, Nezahualcóyotl, Ozumba, Temamatla, Tenango del Aire, Tepetlixpa, Tlalmanalco y Valle de Chalco Solidaridad.
 
-VIII. La delegación regional en Valle de Bravo comprende los territorios municipales de Amanalco, Donato Guerra, Ixtapan del Oro, Otzoloapan, Santo Tomás, Valle de Bravo, Villa de Allende, Villa Victoria y Zacazonapan.
+> <small>(REFORMADA, G.G. 26 DE FEBRERO DE 2016)</small>
+
+V. La delegación regional en Tenango del Valle comprende los territorios municipales de Almoloya de Alquisiras, Coatepec Harinas, Ixtapan de la Sal, Joquicingo, Malinalco, Ocuilan, Rayón, Sultepec, Tenancingo, Tenango del Valle, Texcalyacac, Texcaltitlán, Tianguistenco, Tonatico, Villa Guerrero, Xalatlaco, Zacualpan y Zumpahuacán.
+
+> <small>(REFORMADA, G.G. 26 DE FEBRERO DE 2016)</small>
+
+VI. La delegación regional en Texcoco comprende los territorios municipales de Axapusco, Chiautla, Chicoloapan, Chiconcuac, Chimalhuacán, Nopaltepec, Otumba, Papalotla, San Martín de las Pirámides, Teotihuacán, Tepetlaoxtoc y Texcoco.
+
+> <small>(REFORMADA, G.G. 26 DE FEBRERO DE 2016)</small>
+
+VII. La delegación regional en Toluca comprende los territorios municipales de Almoloya de Juárez, Almoloya del Río, Atizapán, Calimaya, Capulhuac, Chapultepec, Lerma, Metepec, Mexicaltzingo, Ocoyoacac, Otzolotepec, San Antonio la Isla, San Mateo Atenco, Temoaya, Toluca, Xonacatlán y Zinacantepec.
+
+> <small>(REFORMADA, G.G. 26 DE FEBRERO DE 2016)</small>
+
+VIII. La delegación regional en Valle de Bravo comprende los territorios municipales de Amanalco, Amatepec, Donato Guerra, Ixtapan del Oro, Luvianos, Otzoloapan, San Simón de Guerrero, Santo Tomás, Tejupilco, Temascaltepec, Tlatlaya, Valle de Bravo, Villa de Allende, Villa Victoria y Zacazonapan.
 
 ###### Artículo 8.
 
@@ -271,9 +285,9 @@ Los levantamientos topográficos catastrales podrán realizarse a solicitud de l
 
 Los solicitantes de la práctica de levantamientos topográficos catastrales deberán presentar ante las autoridades catastrales, los documentos siguientes:
 
-> <small>(REFORMADA, G.G. 5 DE ENERO DE 2011)</small>
+> <small>(REFORMADA, G.G. 26 DE FEBRERO DE 2016)</small>
 
-l. Solicitud por escrito o en el formato establecido.
+I. Solicitud por escrito en el formato establecido o bien por vía electrónica en los términos que precisa la Ley de Gobierno Digital del Estado de México y Municipios.
 
 II. Relación de los nombres y domicilios de los propietarios o poseedores de los inmuebles colindantes al predio materia del levantamiento, para su notificación.
 
@@ -677,9 +691,11 @@ B. En el caso de la cartografía vectorial catastral a nivel de predio, además 
 
 6. Número oficial.
 
+> <small>(REFORMADO, G.G. 26 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 30.
 
-En caso de que los propietarios o poseedores de inmuebles en los territorios municipales no se presenten a inscribirlos o no manifiesten su valor o las modificaciones de terreno o construcción, en los términos indicados para tal efecto en el Capítulo Tercero del Título Quinto del Código, el Catastro Municipal deberá requerirlos a efecto de que presenten la manifestación correspondiente y, en caso de omisión, deberá realizar los estudios técnicos necesarios que le permitan obtener la información requerida para inscribir los inmuebles en el padrón catastral municipal, determinar su valor catastral y actualizar sus datos técnicos y administrativos, conforme lo establece el Capítulo Cuarto de este Reglamento.
+En caso de que los propietarios o poseedores de inmuebles en los territorios municipales no se presenten a inscribirlos o no manifiesten su valor o las modificaciones de terreno o construcción, en los términos indicados para tal efecto en el Capítulo Tercero del Título Quinto del Código, el Catastro Municipal deberá requerirlos para que presenten la manifestación catastral correspondiente y en caso de omisión, deberá realizar los estudios técnicos necesarios que le permitan obtener la información requerida para inscribir los inmuebles en el padrón catastral municipal, determinar su valor catastral y actualizar sus datos técnicos y administrativos, conforme lo establece el Capítulo Cuarto de este Reglamento.
 
 ### CAPÍTULO CUARTO. DE LA ACTUALIZACIÓN DEL PADRÓN CATASTRAL
 
@@ -749,9 +765,11 @@ g). Afectación por hechos geológicos o hidrometeorológicos o antropogénicos.
 
 h). Restricción de aprovechamiento del terreno.
 
+> <small>(REFORMADO, G.G. 26 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 35.
 
-En el supuesto previsto en la fracción I del artículo anterior, el propietario o poseedor solicitará por escrito al Catastro Municipal la corrección de sus datos en los registros gráfico y alfanumérico del padrón catastral municipal, debiendo acreditar la procedencia de la actualización, mediante la presentación de los documentos o estudios técnicos requeridos o un avalúo catastral practicado por el IGECEM o por especialista en valuación inmobiliaria con registro vigente expedido por el propio Instituto.
+En el supuesto previsto en la fracción I del artículo anterior, el propietario o poseedor solicitará al Catastro Municipal por escrito, mediante manifestación catastral o bien por vía electrónica en los términos que precisa la Ley de Gobierno Digital del Estado de México y Municipios, la corrección de sus datos en los registros gráfico y alfanumérico del padrón catastral municipal, debiendo acreditar la procedencia de la actualización, mediante la presentación de los documentos o estudios técnicos requeridos o un avalúo catastral practicado por el IGECEM o por especialista en valuación inmobiliaria con registro vigente expedido por el propio Instituto.
 
 ###### Artículo 36.
 
@@ -6519,7 +6537,9 @@ Tratándose de inmuebles cuya longitud de frente sea mayor de 3.50 metros lineal
 
 En ningún caso el factor de frente aplicable podrá ser inferior a 0.50.
 
-II. El factor de fondo (FFo) demerita el valor catastral de aquellos inmuebles cuya longitud de fondo sea mayor a la del fondo base que corresponda al área homogénea de su ubicación y se obtiene al sumar a la constante 0.60, el cuarenta por ciento del cociente resultado de dividir la longitud del fondo base entre la longitud fondo del inmueble de que se trate, conforme a la siguiente fórmula:
+> <small>(REFORMADA, G.G. 26 DE FEBRERO DE 2016)</small>
+
+II. El factor de fondo (FFo) demerita el valor catastral de aquellos inmuebles cuya longitud del fondo expresada en metros lineales, determinada como la medida perpendicular trazada a partir del frente hasta el punto más alejado del predio, sea mayor a la del fondo base que corresponda al área homogénea de su ubicación y se obtiene al sumar a la constante 0.60, el cuarenta por ciento del cociente resultado de dividir la longitud del fondo base entre la longitud fondo del inmueble de que se trate, conforme a la siguiente fórmula:
 
 FFo = 0.60 + ((FoB / Fo) x 0.40)
 
@@ -6531,7 +6551,9 @@ FoB = Longitud del fondo base.
 
 Fo = Longitud del fondo del inmueble.
 
-Tratándose de inmuebles cuya longitud de fondo sea menor o igual a la del fondo base que corresponda al área homogénea de su ubicación, se aplicará 1.00 como factor de fondo.
+En los casos de inmuebles cuya posición dentro de la manzana sean manzaneros, cabeceros y con frentes no contiguos, para el cálculo del factor de fondo, en la fórmula anterior se aplicará el cincuenta por ciento de la longitud del fondo del inmueble determinada conforme al primer párrafo de esta fracción.
+
+Para todos aquellos inmuebles cuya longitud del fondo del inmueble determinada resulte menor o igual a la del fondo base, el factor de fondo será igual a 1.00000.
 
 III. El factor de irregularidad (FI) demerita el valor catastral de aquellos inmuebles que por su forma irregular disminuyen las posibilidades de aprovechamiento óptimo de la superficie total del predio.
 
@@ -7366,3 +7388,13 @@ G.G. 29 DE JULIO DE 2013.
 PRIMERO. Publíquese el presente acuerdo en el Periódico Oficial "Gaceta del Gobierno".
 
 SEGUNDO. El presente acuerdo, entrará en vigor el día de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+G.G. 26 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL "ACUERDO DEL EJECUTIVO DEL ESTADO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DEL TÍTULO QUINTO DEL CÓDIGO FINANCIERO DEL ESTADO DE MÉXICO Y MUNICIPIOS, DENOMINADO "DEL CATASTRO".]
+
+PRIMERO. Publíquese el presente Acuerdo en el Periódico Oficial "Gaceta del Gobierno".
+
+SEGUNDO. El presente Acuerdo, entrará en vigor al día siguiente de su publicación en el Periódico Oficial "Gaceta del Gobierno".
+
+TERCERO. Se derogan las disposiciones de igual o menor jerarquía que se opongan a lo establecido en el presente Acuerdo.
