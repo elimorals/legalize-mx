@@ -4,7 +4,7 @@ identifier: "SIN-reglamento-de-organizacion-y-procedimientos-administrativos-102
 country: "mx"
 rank: "reglamento"
 publication_date: "2014-10-08"
-last_updated: "2015-05-27"
+last_updated: "2016-02-26"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=102724&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "SIN"
 
 REGLAMENTO DE ORGANIZACIÓN Y PROCEDIMIENTOS ADMINISTRATIVOS DE LAS SEDES REGIONALES DE JUSTICIA PENAL ACUSATORIA Y ORAL DEL PODER JUDICIAL DEL ESTADO DE SINALOA
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE MAYO DE 2015.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Sinaloa, el miércoles 8 de octubre de 2014.
 
@@ -79,9 +79,17 @@ XIV. Salas de Circuito Especializadas: Las Salas de Circuito Especializadas en P
 
 XV. Sede o Sede Regional: La Sede Regional de Justicia Penal Acusatoria y Oral del Poder Judicial del Estado de Sinaloa;
 
-XVI. Juzgado de Control y de Enjuiciamiento Penal: El Juzgado de Primera Instancia de Control y de Enjuiciamiento Penal del Poder Judicial del Estado de Sinaloa; y,
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2016)</small>
 
-XVII. Administrador: El Administrador de la Sede Regional de Justicia Penal Acusatoria y Oral del Poder Judicial del Estado de Sinaloa.
+XVI. Juzgado de Control y de Enjuiciamiento Penal: El Juzgado de Primera Instancia de Control y de Enjuiciamiento Penal del Poder Judicial del Estado de Sinaloa;
+
+> <small>(REFORMADA, P.O. 26 DE FEBRERO DE 2016)</small>
+
+XVII. Administrador: El Administrador de la Sede Regional de Justicia Penal Acusatoria y Oral del Poder Judicial del Estado de Sinaloa; y,
+
+> <small>(ADICIONADA, P.O. 26 DE FEBRERO DE 2016)</small>
+
+XVIII. Extensión: La Sala de Audiencias y oficinas de la Sede Regional de Justicia Penal Acusatoria y Oral del Poder Judicial del Estado de Sinaloa, ubicadas en un Distrito Judicial distinto al del asiento de los Juzgados de Control y de Enjuiciamiento Penal del Circuito Judicial correspondiente.
 
 ###### Artículo 3.
 
@@ -118,6 +126,22 @@ De los Juzgados de Primera Instancia de Control y de Enjuiciamiento Penal y Juec
 En cada Sede Regional de Justicia Penal habrá el número de Juzgados de Primera Instancia de Control y de Enjuiciamiento Penal que determine el Pleno del Supremo Tribunal de Justicia del Estado.
 
 El Pleno también determinará el número de Jueces que integrarán los Juzgados de Control y de Enjuiciamiento Penal de cada Circuito Judicial y su adscripción.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2016)</small>
+
+Cuando las necesidades del servicio lo requieran, se podrá disponer que las audiencias se efectúen por los Jueces de Control y Enjuiciamiento Penal en Extensión de la Sede Regional.
+
+> <small>(ADICIONADO, P.O. 26 DE FEBRERO DE 2016)</small>
+
+###### Artículo 5 Bis.
+
+Cuando se disponga la celebración de audiencias en Sala de la Extensión, el procedimiento de gestión será el siguiente:
+
+El auxiliar de atención al público de la Extensión recibirá las solicitudes para celebración de audiencias, siempre que el Imputado de la causa no se encuentre privado de su libertad.
+
+La solicitud será enviada al Juzgado de Control y de Enjuiciamiento Penal del Circuito Judicial correspondiente. Una vez registrada en la plataforma electrónica, el Jefe de Unidad de Seguimiento de Causas Atención al Público realizará la programación de la audiencia.
+
+El Administrador de la Sede, con el auxilio del Jefe de la Unidad de Seguimiento de Causas y Atención al Público, establecerá el rol y turno correspondiente a la atención de las audiencias a celebrarse en la Extensión por los Jueces adscritos al Juzgado de Control y Enjuiciamiento Penal, así como el personal de apoyo.
 
 ### CAPÍTULO II. ESTRUCTURA Y POLÍTICAS ADMINISTRATIVAS
 
@@ -690,3 +714,11 @@ El presente Acuerdo entrará en vigor el día de su aprobación.
 ###### ARTICULO SEGUNDO.
 
 Publíquese el presente Acuerdo en el Periódico Oficial "El Estado de Sinaloa".
+
+P.O. 26 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “ACUERDO MEDIANTE EL CUAL SE ADICIONAN DIVERSAS DISPOSICIONES DEL REGLAMENTO DE ORGANIZACIÓN Y PROCEDIMIENTOS ADMINISTRATIVOS DE LAS SEDES REGIONALES DE JUSTICIA PENAL ACUSATORIA Y ORAL DEL PODER JUDICIAL DEL ESTADO DE SINALOA”.]
+
+PRIMERO. Este acuerdo entrará en vigor el de su Aprobación. (sic)
+
+SEGUNDO. Publíquese este Acuerdo en el Periódico Oficial "El Estado de Sinaloa" y comuníquese a los Jueces de Primera Instancia y Magistrados de Circuito del Poder Judicial del Estado, para su conocimiento.
