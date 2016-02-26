@@ -4,7 +4,7 @@ identifier: "COA-reglamento-interior-de-la-comision-consultiva-estatal-de-56028"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-06-08"
-last_updated: "2008-11-04"
+last_updated: "2016-02-26"
 status: "annulled"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56028&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -21,9 +21,11 @@ state: "COA"
 ---
 # REGLAMENTO INTERIOR DE LA COMISION CONSULTIVA ESTATAL DE SEGURIDAD E HIGIENE EN EL TRABAJO EN EL ESTADO DE COAHUILA
 
-REGLAMENTO INTERIOR DE LA COMISION CONSULTIVA ESTATAL DE SEGURIDAD E HIGIENE EN EL TRABAJO
+REGLAMENTO INTERIOR DE LA COMISIÓN CONSULTIVA ESTATAL DE SEGURIDAD E HIGIENE EN EL TRABAJO
 
-ULTIMA REFORMA PUBLICADA EN EL PERIODICO OFICIAL: 4 DE NOVIEMBRE DE 2008.
+> <small>[N. DE E. DE CONFORMIDAD CON EL ARTÍCULO SEGUNDO TRANSITORIO DEL REGLAMENTO INTERIOR DE LA COMISIÓN CONSULTIVA ESTATAL DE SEGURIDAD Y SALUD EN EL TRABAJO EN EL ESTADO DE COAHUILA DE ZARAGOZA, PUBLICADO EN EL P.O. DE 26 DE FEBRERO DE 2016, EL PRESENTE ORDENAMIENTO QUEDA SIN EFECTOS.]</small>
+
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 26 DE FEBRERO DE 2016 (SIN EFECTOS).
 
 Reglamento publicado en la Primera Sección del Periódico Oficial del Estado de Coahuila, el viernes 8 de junio de 2007.
 
@@ -294,3 +296,11 @@ Lic. Miguel Ángel Mendoza González
 P.O. 4 DE NOVIEMBRE DE 2008.
 
 ÚNICO. El presente Decreto entrará en vigor el día siguiente al de su publicación en el Periódico Oficial del Gobierno del Estado.
+
+P.O. 26 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIOS DEL “REGLAMENTO INTERIOR DE LA COMISIÓN CONSULTIVA ESTATAL DE SEGURIDAD Y SALUD EN EL TRABAJO EN EL ESTADO DE COAHUILA DE ZARAGOZA”.]
+
+Artículo primero.- El presente Reglamento surtirá sus efectos a partir del día siguiente de su publicación.
+
+Artículo segundo.- Queda sin efectos el Reglamento Interior de la Comisión Consultiva Estatal de Seguridad e Higiene en el Trabajo, aprobado en Junio de 2007 y todas aquellas disposiciones relativas a la integración, organización y funcionamiento de la Comisión que se contrapongan al presente Reglamento.
