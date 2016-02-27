@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-atencion-a-personas-con-discapacidad-del-56525"
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-07-20"
-last_updated: "2016-01-15"
+last_updated: "2016-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56525&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO DE ATENCIÓN A PERSONAS CON DISCAPACIDAD DEL MUNICIPIO DE MONTERREY
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2016.
 
 Reglamento publicado en Periódico Oficial de Estado de Nuevo León, el viernes 20 de julio de 2007.
 
@@ -169,13 +169,17 @@ En las ventanillas de servicio del Municipio, se instalarán símbolos de accesi
 
 Así mismo, toda ventanilla o módulo de atención al público que sea instalada, deberá contar con las normas vigentes de accesibilidad.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2016)</small>
+
 #### Sección I
 
-De la Secretaría del R. Ayuntamiento.
+De la Secretaría del Ayuntamiento.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 15.
 
-La Secretaría del R. Ayuntamiento otorgará asesoría jurídica a las personas con discapacidad en cualquier acción legal en que sean parte, y que no tenga conflicto de intereses el Municipio, otorgando la información de manera que sea clara, para cada tipo de discapacidad.
+La Secretaría del Ayuntamiento otorgará asesoría jurídica a las personas con discapacidad en cualquier acción legal en que sean parte, y que no tenga conflicto de intereses el Municipio, otorgando la información de manera que sea clara, para cada tipo de discapacidad.
 
 #### Sección II
 
@@ -307,29 +311,39 @@ La Secretaría gestionará ante la Comisión Federal de Electricidad, Dirección
 
 Es obligación de esta Secretaría retirar los anuncios municipales, ramas de árboles, escombros, basura o cualquier objeto que dificulte el libre desplazamiento.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2016)</small>
+
 #### Sección VIII
 
-De la Secretaría de Vialidad y Tránsito.
+De la Secretaría de Seguridad Pública y Vialidad.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 37.
 
-Es obligación de la Secretaría de Vialidad y Tránsito realizar programas de cortesía urbana y vialidad para la ciudadanía a favor de las personas con discapacidad.
+Es obligación de la Secretaría de Seguridad Pública y Vialidad realizar programas de cortesía urbana y vialidad para la ciudadanía a favor de las personas con discapacidad.
 
 ###### Artículo 38.
 
 La Secretaría promoverá y celebrará convenios con centros comerciales, para que éstos permitan a los oficiales de tránsito el libre ingreso a los mismos a fin de vigilar que los espacios de estacionamiento identificados con el símbolo de accesibilidad sean respetados y se apliquen las sanciones o acciones correspondientes.
 
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2016)</small>
+
 #### Sección IX
 
-De la Secretaría de la Contraloría.
+De la Contraloría Municipal.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 39.
 
-Es obligación de la Secretaría de la Contraloría vigilar que los servidores públicos brinden un servicio con respeto, diligente e imparcial a los usuarios con discapacidad.
+Es obligación de la Contrataría Municipal vigilar que los servidores públicos brinden un servicio con respeto, diligente e imparcial a los usuarios con discapacidad.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 40.
 
-La Secretaría vigilará que todo servidor público se abstenga de incurrir en agravio, conductas abusivas, violencia o insultos. Esta dependencia recibirá y enviará a las instancias competentes, las quejas, denuncias y sugerencias sobre el trato y atención a personas con discapacidad dados por servidores públicos.
+La Contraloría vigilará que todo servidor público se abstenga de incurrir en agravio, conductas abusivas, violencia o insultos. Esta dependencia recibirá y enviará a las instancias competentes, las quejas, denuncias y sugerencias sobre el trato y atención a personas con discapacidad dados por servidores públicos.
 
 ###### Artículo 41.
 
@@ -551,15 +565,35 @@ Contra cualquier acto de la Autoridad Municipal que viole el presente reglamento
 
 Del Procedimiento de revisión y consulta.
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
-###### ARTÍCULO 58.
+###### Artículo 58.
 
-Para la revisión y consulta del presente Reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación, Reglamentación y Mejora Regulatoria, quien recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía y en la cual se incluyan los razonamientos que sean el sustento de las opiniones y observaciones correspondientes.
+Para la revisión y consulta del presente Reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación, Reglamentación y Mejora Regulatoria, la cual recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía. El promovente deberá argumentar en el escrito de referencia las razones que sustenten sus opiniones y observaciones con respecto al Reglamento Municipal.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 59.
 
-La Comisión deberá analizar, estudiar y dictaminar sobre las propuestas planteadas en un plazo no mayor de treinta días hábiles. De resultar fundadas las propuestas planteadas, se hará del conocimiento del Republicano Ayuntamiento para su consideración. Se deberá informar al promoverte la procedencia o improcedencia de sus propuestas.
+La Comisión deberá en un plazo no mayor a 30 días naturales, analizar, estudiar y dictaminar sobre las propuestas. En caso de resultar fundadas las propuestas planteadas, se hará del conocimiento del Ayuntamiento para su consideración, el Ayuntamiento podrá autorizar la extensión de dicho plazo, previa solicitud fundada y motivada de la Comisión de Gobernación, Reglamentación y Mejora Regulatoria. Se deberá informar al promovente la procedencia o improcedencia de sus propuestas.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2016)</small>
+
+### Capítulo VII
+
+Del Recurso Único de Inconformidad.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+###### Artículo 60.
+
+El Procedimiento Administrativo Único de Recurso de Inconformidad procederá en contra de los actos emitidos por las autoridades del Municipio de Monterrey, con excepción de aquellos recursos cuyo procedimiento esté regulado en la Legislación Estatal.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+###### Artículo 61.
+
+El Recurso de Inconformidad se tramitará conforme a las disposiciones del Reglamento que Regula el Procedimiento Único de Inconformidad en el Municipio de Monterrey, y a falta de disposición expresa, se aplicará supletoriamente la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León en primer término, o el derecho común en segundo término.
 
 ## TRANSITORIOS.
 
@@ -600,3 +634,9 @@ P.O. 15 DE ENERO DE 2016.
 SEGUNDO. Se aprueba que las presentes reformas entren en vigor a partir de su publicación en el Periódico Oficial del Estado, por lo que deberá agregarse en cada ordenamiento un artículo transitorio único que así lo señale.
 
 TERCERO. Publíquese el Acuerdo Primero en el Periódico Oficial del Estado. Difúndanse los presentes Acuerdos en la Gaceta Municipal y en el portal de internet: www.mty.gob.mx.
+
+P.O. 27 DE FEBRERO DE 2016.
+
+> <small>[N. DE E. TRANSITORIO POR EL QUE “SE APRUEBAN LAS REFORMAS DEL REGLAMENTO DE ATENCIÓN A PERSONAS CON DISCAPACIDAD DEL MUNICIPIO DE MONTERREY, NUEVO LEÓN”.]</small>
+
+ÚNICO. Las presentes reformas entrarán en vigor a partir de su publicación en el Periódico Oficial del Estado.
