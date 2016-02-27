@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-para-el-control-de-los-establecimientos-que-73129"
 country: "mx"
 rank: "reglamento"
 publication_date: "2010-02-01"
-last_updated: "2016-01-15"
+last_updated: "2016-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=73129&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -25,7 +25,7 @@ state: "NLE"
 
 REGLAMENTO PARA EL CONTROL DE LOS ESTABLECIMIENTOS QUE PROPORCIONAN EL SERVICIO DE INTERNET E INTRANET EN EL MUNICIPIO DE MONTERREY, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el lunes 1 de febrero del 2010.
 
@@ -173,7 +173,7 @@ III. Llevar un libro de registro que contenga el nombre del usuario, así como l
 
 IV. Contar con filtros especiales o programas de cómputo que sirvan para restringir el acceso a páginas electrónicas con contenido sexual, erótico y/o pornográfico;
 
-V. Fijar letreros visibles en el interior del establecimiento que señalen lo siguiente: "Está prohibido para los menores de edad el acceso a páginas o sitios de Internet con contenido erótico, pornográfico y/o de violencia explicita."; (sic)
+V. Fijar letreros visibles en el interior del establecimiento que señalen lo siguiente: "Está prohibido para los menores de edad el acceso a páginas o sitios de Internet con contenido erótico, pornográfico y/o de violencia explicita.";
 
 VI. Prohibir el acceso a menores de nueve años sin la compañía de algún familiar mayor de edad;
 
@@ -395,11 +395,17 @@ III. Se notificará a la Dirección de Inspección y Vigilancia de dicha Secreta
 
 IV. Se notificará al titular de la licencia para que haga entrega de la misma.
 
+> <small>(REFORMADO [N. DE E. REPUBLICADO], P.O. 27 DE FEBRERO DE 2016)</small>
+
 ### CAPITULO VIII. MEDIOS DE IMPUGNACIÓN
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### ARTÍCULO 29.
 
-Contra los actos y resoluciones que dicte la autoridad Municipal, con motivo de la aplicación de este Reglamento, los particulares podrán interponer el Recurso de Inconformidad, en términos de lo dispuesto por el Reglamento que Regula el Procedimiento Único de Recurso de Inconformidad en el Municipio de Monterrey.
+El Procedimiento Administrativo Único de Recurso de Inconformidad procederá en contra de los actos emitidos por las autoridades del municipio de Monterrey, con excepción de aquellos recursos cuyo procedimiento este regulado en la Legislación Estatal.
+
+El Recurso de Inconformidad se tramitará conforme a las disposiciones del Reglamento que regula el Procedimiento Único de Inconformidad en el Municipio de Monterrey, y a falta de disposición expresa, se aplicará supletoriamente la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León en primer término, o el derecho común en segundo término.
 
 ### CAPÍTULO IX. DENUNCIA CIUDADANA
 
@@ -409,23 +415,21 @@ Contra los actos y resoluciones que dicte la autoridad Municipal, con motivo de 
 
 Toda persona tiene la facultad de denunciar ante la Secretaría del Ayuntamiento, cuando considere que en algún Ciber que opere en este Municipio, se esté cometiendo alguna infracción al presente ordenamiento jurídico.
 
-### CAPÍTULO X. REVISIÓN Y CONSULTA
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2012)</small>
+### CAPÍTULO X. DEL PROCEDIMIENTO DE REVISIÓN Y CONSULTA
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### ARTÍCULO 31.
 
-En los términos de la Ley Orgánica de la Administración Pública Municipal del Estado de Nuevo León en su artículo 166 fracción V; el presente Reglamento será sometido a consulta pública en la medida que se modifiquen las condiciones sociales del municipio, en virtud de su crecimiento demográfico y social así como por el desarrollo de nuevas tecnologías.
+Para la revisión y consulta del presente Reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobierno, Reglamentación y Mejora Regulatoria, quién recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía. El promovente deberá argumentar en el escrito de referencia las razones que sustenten sus opiniones y observaciones con respecto al Reglamento Municipal.
 
-> <small>(REFORMADO PRIMER PÁRRAFO, P.O. 15 DE ENERO DE 2016)</small>
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### ARTÍCULO 32.
 
-Para la revisión y consulta del presente Ordenamiento, la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación, Reglamentación y Mejora Regulatoria argumentando las razones que la sustenten. La Comisión deberá en un plazo no mayor a 30 días hábiles, analizar, estudiar y dictaminar sobre las propuestas planteadas. La Comisión mediante escrito fundado y motivado, que hará llegar al promovente, le informará sobre la procedencia o improcedencia de sus propuestas.
-
-> <small>(REFORMADO, P.O. 23 DE ABRIL DE 2012)</small>
-
-En caso de considerarse procedente la reforma, se hará del conocimiento del Ayuntamiento para su consideración y resolución.
+La Comisión deberá en un plazo no mayor a 30 días naturales, analizar, estudiar y dictaminar sobre las propuestas. En caso de resultar fundadas las propuestas planteadas, se hará del conocimiento del Ayuntamiento para su consideración, el Ayuntamiento podrá autorizar la extensión de dicho plazo, previa solicitud fundada y motivada de la Comisión de Gobernación, Reglamentación y Mejora Regulatoria. Se deberá informar al promovente la procedencia o improcedencia de sus propuestas.
 
 ## TRANSITORIOS
 
@@ -468,3 +472,9 @@ P.O. 15 DE ENERO DE 2016.
 SEGUNDO. Se aprueba que las presentes reformas entren en vigor a partir de su publicación en el Periódico Oficial del Estado, por lo que deberá agregarse en cada ordenamiento un artículo transitorio único que así lo señale.
 
 TERCERO. Publíquese el Acuerdo Primero en el Periódico Oficial del Estado. Difúndanse los presentes Acuerdos en la Gaceta Municipal y en el portal de internet: www.mty.gob.mx.
+
+P.O. 27 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE “SE APRUEBAN LAS REFORMAS DEL REGLAMENTO PARA EL CONTROL DE ESTABLECIMIENTOS QUE PROPORCIONAN EL SERVICIO DE INTERNET E INTRANET EN EL MUNICIPIO DE MONTERREY, NUEVO LEÓN”.]
+
+ÚNICO. Las presentes reformas entrarán en vigor a partir de su publicación en el Periódico Oficial del Estado.
