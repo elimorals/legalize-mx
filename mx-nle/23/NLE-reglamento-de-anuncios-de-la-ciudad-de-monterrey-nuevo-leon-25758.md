@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-anuncios-de-la-ciudad-de-monterrey-nuevo-leon-257
 country: "mx"
 rank: "reglamento"
 publication_date: "1995-09-27"
-last_updated: "2014-02-19"
+last_updated: "2016-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=25758&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE ANUNCIOS DE LA CIUDAD DE MONTERREY
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 19 DE FEBRERO DE 2014.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 27 de septiembre de 1995.
 
@@ -495,7 +495,9 @@ b).- Las condiciones obligatorias para la empresa, de brindar el mantenimiento a
 
 c).- La duración o el término en el que podrá permanecer el anuncio publicitario, mismo que permitirá a la empresa recuperar la inversión realizada, así como obtener una ganancia justa y razonable, previo análisis financiero específico que realice la Tesorería Municipal;
 
-d).- Los puntos o lugares específicos en donde se instalará el referido mobiliario, tomándose en consideración el dictamen que para tal efecto emita la Secretaría de Vialidad y Tránsito y el Consejo Estatal del Transporte,
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+d) Los puntos o lugares específicos en donde se instalará el referido mobiliario tomándose en consideración el dictamen que para tal efecto emita la Secretaría de Seguridad Pública y Vialidad y el Consejo Estatal del Transporte
 
 e).- Las garantías para el cumplimiento de las obligaciones establecidas;
 
@@ -503,7 +505,9 @@ f).- Las sanciones que se deberá aplicar en el caso de incumplimiento de las ob
 
 g).- Otras condiciones que la autoridad municipal estime necesarias.
 
-El referido Convenio deberá ser firmado en representación del Municipio de Monterrey por el C. Presidente Municipal, el C. Secretario del R. Ayuntamiento, el C. Secretario de Desarrollo Urbano y Ecología y el C. Síndico Segundo.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+El referido Convenio deberá ser firmado en representación del Municipio de Monterrey por el C. Presidente Municipal, el C. Secretario del Ayuntamiento, el C. Secretario de Desarrollo Urbano y Ecología y el C. Síndico Segundo.
 
 En todos los casos se tomaran en cuenta factores como la densidad de anuncios en la zona, croquis de ubicación, mecanismo de fijación a las estructuras que soporten el anuncio, los señalamientos viales y los elementos que puedan afectar el entorno.
 
@@ -775,23 +779,33 @@ ART.- 71.- TEMPORALIDAD. Los miembros durarán en estas funciones honorarias los
 
 ART.- 72.- El Presidente de la Comisión tendrá voto de calidad.
 
-### CAPITULO XIX. RECURSO DE INCONFORMIDAD
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2016)</small>
 
-ART.- 73.- Procederá el recurso de inconformidad contra las resoluciones de la Secretaría, con base en el presente Reglamento y a las disposiciones aplicables al mismo. El término para la interposición del recurso será de 15 días hábiles, posteriores a la notificación de la resolución.
+### CAPITULO XIX. DEL RECURSO ÚNICO DE INCONFORMIDAD
 
-ART.- 74.- El recurso se hará por escrito ante la Secretaría, y deberá contener:
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
-a) Nombre y domicilio del recurrente, además del domicilio de la persona que lo promueve en su nombre, debiendo además en este último caso acompañar de la documentación que lo acredite legalmente como tal.
+ART.- 73. El Procedimiento Administrativo único de recurso de inconformidad procederá en contra de los actos emitidos por las autoridades del Municipio de Monterrey, con excepción de aquellos recursos cuyo procedimiento esté regulado en la Legislación Estatal.
 
-b) Señalamiento expreso del acto o resolución que se impugnen, anexando copia del mismo.
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
-c) Anexar los documentos que acrediten el razonamiento de impugnación, debiendo estar firmado el escrito por el recurrente o su representante legal.
+ART.- 74. El recurso de inconformidad se tramitará conforme a las disposiciones del Reglamento que Regula el Procedimiento Único de Inconformidad en el Municipio de Monterrey, y a falta de disposición expresa, se aplicará supletoriamente la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León en primer término, o el derecho común en segundo término.
 
-Los recursos presentados fuera del plazo señalado, se desecharan.
+ART.- 75. (DEROGADO, P.O. 27 DE FEBRERO DE 2016)
 
-ART.- 75.- Integrado el expediente, la Autoridad tendrá un máximo de 20 días hábiles para dictar resolución, confirmando, modificando o nulificando el acto impugnado, de no ser así se entenderá que se resuelve a favor del recurrente.
+ART.- 76. (DEROGADO, P.O. 27 DE FEBRERO DE 2016)
 
-ART.- 76.- La resolución resultante, será notificada personalmente.
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2016)</small>
+
+### CAPITULO XX. DEL PROCEDIMIENTO DE REVISIÓN Y CONSULTA
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+ART.- 77. Para la revisión y consulta del presente Reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación, Reglamentación y Mejora Regulatoria, la cual recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía. El promovente deberá argumentar en el escrito de referencia las razones que sustenten sus opiniones y observaciones con respecto al Reglamento Municipal.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+ART.- 78. La Comisión deberá en un plazo no mayor a 30 días naturales, analizar, estudiar y dictaminar sobre las propuestas. En caso de resultar fundadas las propuestas planteadas, se hará del conocimiento del Ayuntamiento para su consideración, el Ayuntamiento podrá autorizar la extensión de dicho plazo, previa solicitud fundada y motivada de la Comisión de Gobernación, Reglamentación y Mejora Regulatoria. Se deberá informar al promovente la procedencia o improcedencia de sus propuestas.
 
 ## TRANSITORIOS
 
@@ -832,3 +846,9 @@ La presente reforma por adición entrará en vigor al día siguiente de su publi
 P.O. 19 DE FEBRERO DE 2014.
 
 EL ACUERDO DE REFORMA CON ANTELACIÓN CITADO, NO SEÑALA DISPOSICIONES TRANSITORIAS EN RELACIÓN CON LA PUESTA EN VIGENCIA DEL TEXTO MODIFICADO, EN CONSECUENCIA, SERÁN APLICABLES SUPLETORIAMENTE LAS REGLAS GENERALES DE INTERPRETACIÓN DE LAS NORMAS PREVISTAS EN EL ARTÍCULO 3° DEL CÓDIGO CIVIL VIGENTE PARA EL ESTADO DE NUEVO LEÓN.
+
+P.O. 27 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE “SE APRUEBAN LAS REFORMAS DEL REGLAMENTO DE ANUNCIOS DE LA CIUDAD DE MONTERREY”.]
+
+ÚNICO. Las presentes reformas entrarán en vigor a partir de su publicación en el Periódico Oficial del Estado.
