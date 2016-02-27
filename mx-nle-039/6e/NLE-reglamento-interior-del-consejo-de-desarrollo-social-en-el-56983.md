@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-interior-del-consejo-de-desarrollo-social-en-el-5698
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-09-12"
-last_updated: "2016-01-15"
+last_updated: "2016-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=56983&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO INTERIOR DEL CONSEJO DE DESARROLLO SOCIAL EN EL MUNICIPIO DE MONTERREY, NUEVO LEON
 
-REGLAMENTO INTERIOR DEL CONSEJO DE DESARROLLO SOCIAL EN EL MUNICIPIO DE MONTERREY, NUEVO LEON
+REGLAMENTO INTERIOR DEL CONSEJO DE DESARROLLO SOCIAL EN EL MUNICIPIO DE MONTERREY, NUEVO LEÓN
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 12 de septiembre de 2007.
 
@@ -101,9 +101,13 @@ En el caso de que la comunidad ya cuente con una organización formal comunitari
 
 V. Un equipo asesor, sin derecho a voto, compuesto por:
 
-a) El Secretario del R. Ayuntamiento;
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
-b) El Secretario de la Contraloría Municipal;
+a) El Secretario del Ayuntamiento;
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+b) El Contralor Municipal;
 
 c) El Secretario de Obras Públicas del Municipio;
 
@@ -131,7 +135,9 @@ I. Apoyar en la promoción y difusión de los objetivos, estrategias, programas 
 
 II. Promover e impulsar la organización social y la participación de la población organizada, en la planeación y desarrollo de los programas y acciones del Fondo para la Infraestructura Social Municipal.
 
-III. Presentar al R. Ayuntamiento las propuestas de obras y acciones a realizar con recursos del Fondo para la Infraestructura Social Municipal, con base en las peticiones que les formularon las colonias, barrios o sectores del Municipio.
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2016)</small>
+
+III. Presentar al Ayuntamiento las propuestas de obras y acciones a realizar con recursos del Fondo para la Infraestructura Social Municipal, con base en las peticiones que les formularon las colonias, barrios o sectores del Municipio;
 
 IV. Apoyar la operación del Fondo para la infraestructura Social Municipal y la ejecución de sus acciones.
 
@@ -239,13 +245,23 @@ Los acuerdos se tomarán con el voto del cincuenta por ciento más uno de los in
 
 El Presidente Municipal será el responsable de dar cumplimiento a cada uno de los acuerdos tomados en la sesión, por lo que deberá informar de los resultados correspondientes en las sesiones posteriores.
 
-## TITULO QUINTO. DEL RECURSO DE INCONFORMIDAD
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2016)</small>
+
+## TITULO QUINTO. DEL RECURSO ÚNICO DE INCONFORMIDAD
 
 ### CAPÍTULO ÚNICO
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 25.
 
-Contra cualquier acto de la Autoridad Municipal que viole el presente Reglamento, procederá el Recurso de Inconformidad, de acuerdo a lo establecido en el Reglamento que Regula el Procedimiento Único del Recurso de Inconformidad del Municipio de Monterrey.
+El Procedimiento Administrativo Único de Recurso de Inconformidad procederá en contra de los actos emitidos por las autoridades del Municipio de Monterrey, con excepción de aquellos recursos cuyo procedimiento esté regulado en la Legislación Estatal.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+###### Artículo 25 Bis.
+
+El recurso de inconformidad se tramitará conforme a las disposiciones del Reglamento que Regula el Procedimiento Único de inconformidad en el Municipio de Monterrey, y a falta de disposición expresa, se aplicará supletoriamente la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León, en primer término, o el derecho común, en segundo término.
 
 ## TITULO SEXTO. DISPOSICIONES GENERALES
 
@@ -270,6 +286,26 @@ Lo no previsto en este Reglamento será resuelto en Sesión del Consejo de Desar
 ###### Artículo 29.
 
 En la medida que se modifiquen las condiciones sociales y económicas del Municipio, en virtud de su crecimiento demográfico, cambio social, modificación de sus actividades productivas y demás aspectos de la vida comunitaria, el presente reglamento podrá ser modificado o actualizado, tomando en cuenta la opinión de la propia comunidad en forma directa o a través de organizaciones sociales representativas.
+
+> <small>(ADICIONADO CON EL CAPÍTULO Y ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2016)</small>
+
+## TITULO SEPTIMO. DEL PROCEDIMIENTO DE REVISIÓN Y CONSULTA
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2016)</small>
+
+### CAPÍTULO ÚNICO
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+###### Artículo 30.
+
+Para la revisión y consulta del presente Reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación, Reglamentación y Mejora Regulatoria, la cual recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía. El promovente deberá argumentar en el escrito de referencia las razones que sustenten sus opiniones y observaciones con respecto al Reglamento Municipal.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+###### Artículo 31.
+
+La Comisión deberá en un plazo no mayor a 30 días naturales, analizar, estudiar y dictaminar sobre las propuestas. En caso de resultar fundadas las propuestas planteadas, se hará del conocimiento del Ayuntamiento para su consideración, el Ayuntamiento podrá autorizar la extensión de dicho plazo, previa solicitud fundada y motivada de la Comisión de Gobernación, Reglamentación y Mejora Regulatoria. Se deberá informar al promovente la procedencia o improcedencia de sus propuestas.
 
 ARTÍCULOS TRANSITORIOS (SIC)
 
@@ -300,3 +336,9 @@ P.O. 15 DE ENERO DE 2016.
 SEGUNDO. Se aprueba que las presentes reformas entren en vigor a partir de su publicación en el Periódico Oficial del Estado, por lo que deberá agregarse en cada ordenamiento un artículo transitorio único que así lo señale.
 
 TERCERO. Publíquese el Acuerdo Primero en el Periódico Oficial del Estado. Difúndanse los presentes Acuerdos en la Gaceta Municipal y en el portal de internet: www.mty.gob.mx.
+
+P.O. 27 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE “SE APRUEBAN LAS REFORMAS DEL REGLAMENTO INTERIOR DEL CONSEJO DE DESARROLLO SOCIAL EN EL MUNICIPIO DE MONTERREY, NUEVO LEÓN”.]
+
+ÚNICO. Las presentes reformas entrarán en vigor a partir de su publicación en el Periódico Oficial del Estado.
