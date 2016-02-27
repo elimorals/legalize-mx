@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-del-catalogo-del-patrimonio-historico-y-cultural-344
 country: "mx"
 rank: "reglamento"
 publication_date: "2003-10-22"
-last_updated: "2003-10-22"
+last_updated: "2016-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=34418&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,9 +23,9 @@ state: "NLE"
 ---
 # REGLAMENTO DEL CATALOGO DEL PATRIMONIO HISTORICO Y CULTURAL DEL MUNICIPIO DE MONTERREY, N.L
 
-REGLAMENTO DEL CATALOGO DEL PATRIMONIO HISTORICO Y CULTURAL DEL MUNICIPIO
+REGLAMENTO DEL CATÁLOGO DEL PATRIMONIO HISTÓRICO Y CULTURAL DEL MUNICIPIO
 
-TEXTO ORIGINAL.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 22 de octubre de 2003.
 
@@ -47,9 +47,11 @@ En la elaboración del Catálogo y vigilancia de la conservación de los inmuebl
 
 ### CAPÍTULO II. Comisión de Vigilancia del Patrimonio Histórico y Cultural del Municipio
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 3.
 
-Se crea la Comisión de Vigilancia del Patrimonio Histórico y Cultural del Municipio, como un órgano desconcentrado de la Administración Municipal que tiene por objeto ser auxiliar del R. Ayuntamiento en la elaboración de todo lo relativo a la elaboración y publicación, del Catálogo del Patrimonio Histórico y Cultural del Municipio.
+Se crea la Comisión de Vigilancia del Patrimonio Histórico y Cultural del Municipio, como un órgano desconcentrado de la Administración Municipal que tiene por objeto ser auxiliar del Ayuntamiento en la elaboración de todo lo relativo a la elaboración y publicación, del Catálogo del Patrimonio Histórico y Cultural del Municipio.
 
 ###### Artículo 4.
 
@@ -73,9 +75,11 @@ III. Las demás que le encomiende el Presidente Municipal.
 
 La Comisión contará con el personal necesario, para realizar sus actividades y funciones encomendadas por la ley y demás disposiciones aplicables.
 
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
 ###### Artículo 8.
 
-Las designaciones y remociones de los integrantes de la Comisión, serán realizadas mediante aprobación del R. Ayuntamiento a propuesta del Presidente Municipal.
+Las designaciones y remociones de los integrantes de la Comisión, serán realizadas mediante aprobación del Ayuntamiento a propuesta del Presidente Municipal.
 
 ###### Artículo 9.
 
@@ -163,15 +167,37 @@ En los casos del artículo anterior, serán solidaria y mancomunadamente respons
 
 El catálogo se difundirá a través de medios escritos y de los medios remotos de comunicación, tales como la red mundial de información.
 
-### CAPÍTULO VII. Recurso de Inconformidad
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2016)</small>
+
+### CAPÍTULO VII. Del Recurso Único De Inconformidad
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 22.
 
-Contra los actos emitidos por las Autoridades Municipales, con motivo de la aplicación del presente ordenamiento, procederá el Recurso de Inconformidad.
+El Procedimiento Administrativo Único de Recurso de Inconformidad procederá en contra de los actos emitidos por las autoridades del Municipio de Monterrey, con excepción de aquellos recursos cuyo procedimiento esté regulado en la Legislación Estatal.
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 23.
 
-El recurso de Inconformidad tiene por objeto que la Secretaría de Educación, Cultura y Deporte examine el acto que se reclama a fin de constatar si existe violación al respecto, pudiendo confirmarlo, modificarlo o revocarlo.
+El Recurso de Inconformidad se tramitará conforme a las disposiciones del Reglamento que Regula el Procedimiento Único de Inconformidad en el Municipio de Monterrey, y a falta de disposición expresa, se aplicará supletoriamente la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León en primer término, o el derecho común en segundo término.
+
+> <small>(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 27 DE FEBRERO DE 2016)</small>
+
+### CAPÍTULO VIII. Del Procedimiento de Revisión y Consulta
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+###### Artículo 24.
+
+Para la revisión y consulta del presente Reglamento la comunidad podrá hacer llegar sus opiniones y observaciones por escrito a la Comisión de Gobernación, Reglamentación y Mejora Regulatoria, la cual recibirá y atenderá cualquier sugerencia que sea presentada por la ciudadanía. El promovente deberá argumentar en el escrito de referencia las razones que sustenten sus opiniones y observaciones con respecto al Reglamento Municipal.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+###### Artículo 25.
+
+La Comisión deberá en un plazo no mayor a 30 días naturales, analizar, estudiar y dictaminar sobre las propuestas. En caso de resultar fundadas las propuestas planteadas, se hará del conocimiento del Ayuntamiento para su consideración, el Ayuntamiento podrá autorizar la extensión de dicho plazo, previa solicitud fundada y motivada de la Comisión de Gobernación, Reglamentación y Mejora Regulatoria. Se deberá informar al promovente la procedencia o improcedencia de sus propuestas.
 
 ## TRANSITORIOS
 
@@ -190,3 +216,11 @@ LIC. FELIPE DE JESÚS CANTÚ RODRÍGUEZ
 El C. SECRETARIO DEL R. AYUNTAMIENTO
 
 LIC. JUAN PABLO HINOJOSA CANALES
+
+> <small>[N. DE E. A CONTINUACIÓN SE TRANSCRIBEN LOS ARTÍCULOS TRANSITORIOS DEL DECRETO QUE REFORMA AL PRESENTE ORDENAMIENTO.]</small>
+
+P.O. 27 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE “SE APRUEBAN LAS REFORMAS DEL REGLAMENTO DEL CATÁLOGO DEL PATRIMONIO HISTÓRICO Y CULTURAL DEL MUNICIPIO”.]
+
+ÚNICO. Las presentes reformas entrarán en vigor a partir de su publicación en el Periódico Oficial del Estado.
