@@ -4,7 +4,7 @@ identifier: "NLE-reglamento-de-bibliotecas-publicas-municipales-de-monterrey-579
 country: "mx"
 rank: "reglamento"
 publication_date: "2007-12-05"
-last_updated: "2016-01-15"
+last_updated: "2016-02-27"
 status: "in_force"
 source: "https://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?IdOrd=57963&Vig=1&TPub=6"
 department: "Periódico Oficial del Estado"
@@ -23,7 +23,7 @@ state: "NLE"
 
 REGLAMENTO DE BIBLIOTECAS PÚBLICAS MUNICIPALES DE MONTERREY
 
-ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 15 DE ENERO DE 2016.
+ÚLTIMA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL: 27 DE FEBRERO DE 2016.
 
 Reglamento publicado en el Periódico Oficial del Estado de Nuevo León, el miércoles 5 de diciembre de 2007.
 
@@ -57,9 +57,13 @@ III.- Bibliotecario: Persona que tiene a su cargo el cuidado, ordenación y serv
 
 IV.- Reglamento: Reglamento de Bibliotecas Públicas Municipales de Monterrey.
 
-V.- Secretaría: Secretaría de Desarrollo Humano;
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2016)</small>
 
-VI.- Subdirector: Subdirector de bibliotecas de la Secretaría de Desarrollo Humano.
+V.- Secretaría: Secretaría de Desarrollo Social;
+
+> <small>(REFORMADA, P.O. 27 DE FEBRERO DE 2016)</small>
+
+VI.- Subdirector: Subdirector de Bibliotecas de la Secretaría de Desarrollo Social.
 
 ###### Artículo 3.
 
@@ -401,13 +405,25 @@ Si vuelve a incurrir en alguna otra falta, los servicios le serán suspendidos e
 
 El incumplimiento de las obligaciones señaladas en este reglamento, por parte de las personas que laboran en la biblioteca, será puesto a consideración de la autoridad municipal para que ésta resuelva lo conducente.
 
-### Capítulo Décimo Primero. Del procedimiento de revisión y consulta
+> <small>(REFORMADA SU DENOMINACIÓN, P.O. 27 DE FEBRERO DE 2016)</small>
 
-> <small>(REFORMADO, P.O. 15 DE ENERO DE 2016)</small>
+### Capítulo Décimo Primero. Del recurso único de inconformidad
+
+> <small>(REFORMADO, P.O. 27 DE FEBRERO DE 2016)</small>
 
 ###### Artículo 39.
 
-Contra cualquier acto de la Autoridad Municipal que viole el presente reglamento, procederá el recurso de inconformidad, de acuerdo a lo establecido en el Reglamento que Regula el Procedimiento Único del Recurso de Inconformidad del Municipio de Monterrey.
+El Procedimiento Administrativo Único de Recurso de Inconformidad procederá en contra de los actos emitidos por las autoridades del Municipio de Monterrey, con excepción de aquellos recursos cuyo procedimiento esté regulado en la Legislación Estatal.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+Artículo 39 BIS. El recurso de inconformidad se tramitará conforme a las disposiciones del Reglamento que regula el Procedimiento Único de Inconformidad en el Municipio de Monterrey, y a falta de disposición expresa, se aplicará supletoriamente la Ley de Justicia Administrativa para el Estado y Municipios de Nuevo León en primer término, o el derecho común, en segundo término.
+
+> <small>(ADICIONADO, P.O. 27 DE FEBRERO DE 2016)</small>
+
+### Capítulo Décimo Segundo. Del procedimiento de revisión y consulta
+
+> <small>(REFORMADO, P.O. 15 DE ENERO DE 2016)</small>
 
 ###### Artículo 40.
 
@@ -460,3 +476,9 @@ P.O. 15 DE ENERO DE 2016.
 SEGUNDO. Se aprueba que las presentes reformas entren en vigor a partir de su publicación en el Periódico Oficial del Estado, por lo que deberá agregarse en cada ordenamiento un artículo transitorio único que así lo señale.
 
 TERCERO. Publíquese el Acuerdo Primero en el Periódico Oficial del Estado. Difúndanse los presentes Acuerdos en la Gaceta Municipal y en el portal de internet: www.mty.gob.mx.
+
+P.O. 27 DE FEBRERO DE 2016.
+
+## [N. DE E. TRANSITORIO DEL ACUERDO POR EL QUE "SE APRUEBAN LAS REFORMAS DEL REGLAMENTO DE BIBLIOTECAS PÚBLICAS MUNICIPALES DE MONTERREY".]
+
+ÚNICO. Las presentes reformas entrarán en vigor a partir de su publicación en el Periódico Oficial del Estado.
